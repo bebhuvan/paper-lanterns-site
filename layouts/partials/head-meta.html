@@ -1,0 +1,33 @@
+{{- /* Page title, description, canonical link, Open Graph and Twitter tags, and schema.org JSON-LD. */ -}}
+{{- $title := .Title -}}
+{{- with .Params.page_title }}{{ $title = . }}{{ end -}}
+{{- $full := cond .IsHome site.Title (printf "%s · %s" $title site.Title) -}}
+{{- $desc := .Description -}}
+{{- if and (not $desc) (eq .Params.layout "book") -}}
+{{- $desc = printf "%s. %s. %d letters, each set beside its printed page, free to read and download." .Title .Params.subtitle (int .Params.counts.letters) -}}
+{{- end -}}
+{{- $desc = $desc | default site.Params.description -}}
+{{- $image := "" -}}
+{{- if eq .Params.layout "letter" -}}
+{{- with index .Params.pages 0 }}{{ $image = partial "scan-url.html" (dict "id" $.Params.archive_id "leaf" .leaf "w" 1200) }}{{ end -}}
+{{- else if eq .Params.layout "book" -}}
+{{- with .Params.frontispiece }}{{ $image = partial "scan-url.html" (dict "id" $.Params.archive_id "leaf" .leaf "w" 1200) }}{{ end -}}
+{{- end }}
+<title>{{ $full }}</title>
+<meta name="description" content="{{ $desc }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ cond (eq .Params.layout "letter") "article" (cond (eq .Params.layout "book") "book" "website") }}">
+<meta property="og:locale" content="en">
+{{- with $image }}
+<meta property="og:image" content="{{ . }}">
+{{- end }}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+{{- with partial "jsonld.html" . }}
+<script type="application/ld+json">{{ . | jsonify | safeJS }}</script>
+{{- end }}

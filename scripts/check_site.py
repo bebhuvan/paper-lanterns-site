@@ -5,6 +5,7 @@ It fails (exit 1) on:
   - pages without <html lang>, a <title>, a meta description or exactly one <h1>;
   - <img> without alt text;
   - inline <script>/<style>, style="" or on*="" attributes (the CSP forbids them, so they would silently break);
+    the one exception is <script type="application/ld+json">, which browsers never run and which must parse as JSON;
   - internal links or #fragments that point at nothing in public/;
   - links or images on hosts outside the allowlist, and any non-http(s) URL scheme;
   - a _headers CSP that differs from the dev-server CSP in hugo.toml.
@@ -15,6 +16,7 @@ Usage: python3 scripts/check_site.py [public]
 
 from __future__ import annotations
 
+import json
 import sys
 import tomllib
 from collections.abc import Iterable
@@ -40,6 +42,7 @@ class PageReport:
     has_lang: bool = False
     has_title: bool = False
     has_description: bool = False
+    jsonld: list[str] = field(default_factory=list)
 
 
 class PageParser(HTMLParser):
@@ -47,6 +50,7 @@ class PageParser(HTMLParser):
         super().__init__(convert_charrefs=True)
         self.r = report
         self.stack: list[str] = []
+        self.in_jsonld = False
 
     def _attrs(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         for name, value in attrs:
@@ -65,7 +69,10 @@ class PageParser(HTMLParser):
         d = dict(attrs)
         if tag == "img" and "alt" not in d:
             self.r.errors.append(f"<img src={d.get('src')!r}> has no alt attribute")
-        if tag == "script" and not d.get("src"):
+        if tag == "script" and d.get("type") == "application/ld+json":
+            self.in_jsonld = True
+            self.r.jsonld.append("")
+        elif tag == "script" and not d.get("src"):
             self.r.errors.append("inline <script> (blocked by CSP)")
         if tag == "html" and d.get("lang"):
             self.r.has_lang = True
@@ -88,7 +95,13 @@ class PageParser(HTMLParser):
         if tag not in VOID and tag not in SELF_CLOSING_OK:
             self.r.errors.append(f"<{tag}/> self-closed outside SVG")
 
+    def handle_data(self, data: str) -> None:
+        if self.in_jsonld:
+            self.r.jsonld[-1] += data
+
     def handle_endtag(self, tag: str) -> None:
+        if tag == "script":
+            self.in_jsonld = False
         if tag in VOID:
             return
         if not self.stack or self.stack[-1] != tag:
@@ -115,6 +128,14 @@ def parse_page(path: Path) -> PageReport:
         report.errors.append("no <title>")
     if not report.has_description:
         report.errors.append("no meta description")
+    for block in report.jsonld:
+        try:
+            data = json.loads(block)
+        except ValueError as exc:
+            report.errors.append(f"JSON-LD does not parse: {exc}")
+            continue
+        if not isinstance(data, dict) or data.get("@context") != "https://schema.org" or "@type" not in data:
+            report.errors.append("JSON-LD lacks a schema.org @context and @type")
     if report.h1 != 1:
         report.errors.append(f"expected exactly one <h1>, found {report.h1}")
     return report

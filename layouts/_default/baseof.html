@@ -3,9 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
-<link rel="canonical" href="{{ .Permalink }}">
+{{ partial "head-meta.html" . }}
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
 <link rel="preload" href="{{ "fonts/newsreader-latin-400-normal.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>

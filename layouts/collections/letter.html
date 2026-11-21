@@ -65,6 +65,7 @@
 <main id="main" class="reading" data-view="both" data-reading>
 <div class="leaf-pair">
 <article class="letter" lang="{{ $book.Params.language | default "en" }}">
+<p class="kicker-heading">{{ .Params.heading }}</p>
 <div class="pair"><span>{{ .Params.sender }}</span><span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ .Params.recipient }}</span></div>
 <h1>{{ .Title }}</h1>
 <div class="meta">{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.place }}<span>{{ . }}</span>{{ end }}<span>Printed {{ $folios }}</span></div>
@@ -110,8 +111,8 @@
 {{- with $prev }}
 <a href="{{ .RelPermalink }}">
 <span class="top"><span>← Earlier letter</span>{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}</span>
-<span class="tt">{{ .Title }}</span>
-<span class="q">“{{ .Params.incipit }}”</span>
+<span class="tt">{{ .Params.heading }}</span>
+<span class="q">“{{ .Title }}”</span>
 </a>
 {{- end }}
 {{- with $next }}
@@ -119,8 +120,8 @@
 {{- if and $p.Params.letter_date.iso .Params.letter_date.iso }}{{ $gap = int (math.Floor (sub (partial "year-frac.html" .Params.letter_date.iso) (partial "year-frac.html" $p.Params.letter_date.iso))) }}{{ end }}
 <a href="{{ .RelPermalink }}">
 <span class="top"><span>Later letter →</span>{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ if ge $gap 2 }}<span>{{ $gap }} years later</span>{{ end }}</span>
-<span class="tt">{{ .Title }}</span>
-<span class="q">“{{ .Params.incipit }}”</span>
+<span class="tt">{{ .Params.heading }}</span>
+<span class="q">“{{ .Title }}”</span>
 </a>
 {{- end }}
 </nav>
@@ -142,7 +143,6 @@
 <div><dt>Take the whole book with you</dt><dd class="chips">{{ range $book.Params.downloads }}<a href="{{ $book.RelPermalink }}{{ .file }}" download>{{ index (dict "epub" "EPUB" "markdown" "Markdown" "tei" "TEI") .format }}</a>{{ end }}</dd></div>
 </dl>
 {{- $subtitle := "" }}{{ with $book.Params.subtitle }}{{ $subtitle = printf ", %s%s" (lower (substr . 0 1)) (substr . 1) }}{{ end }}
-{{- $date := "" }}{{ with .Params.letter_date.display }}{{ $date = printf ", %s" . }}{{ end }}
 {{- $pages := replace (replace $folios "pp. " "") "p. " "" }}
 <div class="cite" data-cite>
 <div class="bar">
@@ -152,10 +152,10 @@
 <button type="button" class="btn solid js-only flexy" data-copy><svg aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="8" y="8" width="12" height="12"/><path d="M16 8V4H4v12h4"/></svg><span data-copy-label>Copy</span></button>
 </span>
 </div>
-<p class="fmt current" data-fmt-panel="text"><span class="k">Citation</span>{{ .Params.sender }}, “{{ .Title }}”{{ $date }}. In <i>{{ $book.Title }}</i>{{ $subtitle }}{{ with $book.Params.imprint }} ({{ . }}){{ end }}, {{ $folios }}. Paper Lanterns edition, {{ .Permalink }}.</p>
+<p class="fmt current" data-fmt-panel="text"><span class="k">Citation</span>{{ .Params.page_title }}, “{{ .Params.heading }}”. In <i>{{ $book.Title }}</i>{{ $subtitle }}{{ with $book.Params.imprint }} ({{ . }}){{ end }}, {{ $folios }}. Paper Lanterns edition, {{ .Permalink }}.</p>
 <pre class="fmt" data-fmt-panel="bibtex"><span class="k">BibTeX</span>@incollection{ {{- $book.Params.book_id }}-{{ .Params.letter_id }},
-  author    = { {{- .Params.sender -}} },
-  title     = { {{- .Title -}} },
+  author    = { {{- .Params.sender_full | default .Params.sender -}} },
+  title     = { {{- .Params.heading }}, {{ .Params.letter_date.display | default "undated" -}} },
   booktitle = { {{- $book.Title -}} },
   publisher = { {{- $book.Params.imprint -}} },
   year      = { {{- $book.Params.year -}} },

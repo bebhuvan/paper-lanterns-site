@@ -1,0 +1,12 @@
+{{- /* schema.org Book for an edition page. */ -}}
+{{- $b := . -}}
+{{- $out := dict "@context" "https://schema.org" "@type" "Book" "name" $b.Title "url" $b.Permalink "inLanguage" ($b.Params.language | default "en") "license" "https://creativecommons.org/licenses/by/4.0/" "isAccessibleForFree" true "numberOfPages" $b.Params.counts.pages -}}
+{{- with $b.Params.year }}{{ $out = merge $out (dict "datePublished" (printf "%d" (int .))) }}{{ end -}}
+{{- with $b.Params.default_sender }}{{ $out = merge $out (dict "author" (dict "@type" "Person" "name" .)) }}{{ end -}}
+{{- with $b.Params.publisher }}{{ $out = merge $out (dict "publisher" (dict "@type" "Organization" "name" .)) }}{{ end -}}
+{{- with $b.Params.translators -}}
+{{- $t := slice -}}{{- range . }}{{ $t = $t | append (dict "@type" "Person" "name" .) }}{{ end -}}
+{{- $out = merge $out (dict "translator" $t) -}}
+{{- end -}}
+{{- with $b.Params.archive_id }}{{ $out = merge $out (dict "sameAs" (printf "https://archive.org/details/%s" .)) }}{{ end -}}
+{{- return $out -}}

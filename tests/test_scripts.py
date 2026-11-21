@@ -11,6 +11,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
+import addresses  # noqa: E402
 import check_site  # noqa: E402
 import sync_from_pipeline as sync  # noqa: E402
 
@@ -65,6 +66,12 @@ class CheckSiteTests(unittest.TestCase):
         found = "\n".join(self.problems(bad))
         for needle in ("duplicate id 'top'", "exactly one <h1>", "does not match", "has no alt"):
             self.assertIn(needle, found)
+
+    def test_jsonld_is_allowed_but_must_parse(self) -> None:
+        ok = GOOD.replace("</head>", '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Book"}</script></head>')
+        self.assertEqual(self.problems(ok), [])
+        bad = GOOD.replace("</head>", '<script type="application/ld+json">{"@type": oops}</script></head>')
+        self.assertTrue(any("JSON-LD does not parse" in p for p in self.problems(bad)))
 
     def test_catches_csp_drift_between_headers_and_config(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
@@ -133,6 +140,51 @@ class SyncTests(unittest.TestCase):
             manifest.write_text(json.dumps(data), encoding="utf-8")
             with self.assertRaises(sync.SyncError):
                 sync.plan_copies(manifest.parent.parent)
+
+
+class AddressLedgerTests(unittest.TestCase):
+    def make(self, root: Path, pages: list[str]) -> Path:
+        public = root / "public"
+        for page in pages:
+            d = public / page.strip("/")
+            d.mkdir(parents=True, exist_ok=True)
+            (d / "index.html").write_text("x", encoding="utf-8")
+        return public
+
+    def test_update_then_check_passes_and_never_drops_addresses(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            public = self.make(root, ["/", "/collections/book/", "/collections/book/20/"])
+            (public / "collections" / "book" / "book.epub").write_text("e", encoding="utf-8")
+            ledger, redirects = root / "ledger.txt", root / "_redirects"
+            addresses.update(public, ledger)
+            self.assertIn("/collections/book/book.epub", addresses.read_ledger(ledger))
+            self.assertEqual(addresses.check(public, ledger, redirects), [])
+            smaller = self.make(root / "b", ["/"])
+            addresses.update(smaller, ledger)
+            self.assertIn("/collections/book/20/", addresses.read_ledger(ledger))
+
+    def test_removed_address_fails_until_redirected(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            ledger, redirects = root / "ledger.txt", root / "_redirects"
+            addresses.update(self.make(root / "old", ["/", "/collections/book/20/"]), ledger)
+            moved = self.make(root / "new", ["/", "/collections/book/21/"])
+            addresses.update(moved, ledger)
+            found = addresses.check(moved, ledger, redirects)
+            self.assertTrue(any("no longer served" in p and "/collections/book/20/" in p for p in found), found)
+            redirects.write_text("# moved after a re-split\n/collections/book/20/ /collections/book/21/ 301\n", encoding="utf-8")
+            self.assertEqual(addresses.check(moved, ledger, redirects), [])
+            redirects.write_text("/collections/book/20/ /collections/book/99/ 301\n", encoding="utf-8")
+            self.assertTrue(any("redirect target is not served" in p for p in addresses.check(moved, ledger, redirects)))
+
+    def test_unlisted_address_fails(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            ledger = root / "ledger.txt"
+            addresses.update(self.make(root / "a", ["/"]), ledger)
+            found = addresses.check(self.make(root / "b", ["/", "/new/"]), ledger, root / "_redirects")
+            self.assertTrue(any("not in the ledger" in p for p in found), found)
 
 
 if __name__ == "__main__":

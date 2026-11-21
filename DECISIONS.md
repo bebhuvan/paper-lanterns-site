@@ -26,7 +26,7 @@ how the site is built; say why if you overturn one.
 ## D3. Address scheme (2026-11-21)
 
 - **Decision:** Books at `/collections/<book_id>/`; a book's letters at `/collections/<book_id>/<letter-slug>/`,
-  where the slug is the pipeline's `LetterUnit.slug`. The 88 curated letters of the old site keep
+  where the slug is the pipeline's `LetterUnit.slug` (superseded by D12: letters are numbered). The 88 curated letters of the old site keep
   `/letter/<slug>/` when they move (not done yet). Downloads sit beside the book page:
   `/collections/<book_id>/<book_id>.epub` and so on.
 - **Why:** Book ids are already the pipeline's stable identifiers; keeping the old letter URLs keeps old links alive.
@@ -94,11 +94,66 @@ how the site is built; say why if you overturn one.
 - **Rejected:** Playwright or Puppeteer (large dependency trees for one check); side-by-side text and scan on
   phones (both become unreadable at 360px).
 
+## D9. Licences: MIT for code, CC BY 4.0 for content (2026-11-21)
+
+- **Decision:** The owner's words: "MIT for code, CC BY 4 for letters". Code in this repository and in the
+  pipeline is MIT (`LICENSE`). Transcriptions, compiled editions, synced content and data are CC BY 4.0
+  (`LICENSE-CONTENT`, with the official legal code and a suggested credit line). The letters themselves are in
+  the public domain; the licence covers the transcription and its apparatus. The footer reads
+  "Transcriptions CC BY 4.0. Code MIT." and each letter's structured data carries the licence URL.
+- **Why:** Free reuse with credit, so copies lead back to the edition and its scans.
+- **Rejected:** CC0 for content (briefly chosen as "most permissive", then corrected by the owner the same day).
+
+## D10. The old site's essays, lectures and speeches move here at their current addresses (2026-11-21)
+
+- **Decision:** When the old Astro site is retired, its essays, lectures and speeches pages move to this site
+  and keep the URLs they have today. Not migrated yet (a later phase); until then nothing on this site may take
+  those addresses.
+- **Why:** Old links keep working; nothing published is lost.
+
+## D11. Public repositories; secrets kept out by gitleaks (2026-11-21)
+
+- **Decision:** This repository and the pipeline will be public. Keys live only in `.env` (ignored, with
+  `.env.example` as the one tracked template) or a host secret store. gitleaks 8.30.1, pinned in
+  `.gitleaks-version` and checksum-verified in CI, runs as a pre-commit hook (`.githooks/pre-commit`, refuses the
+  commit on any finding), over the whole history in `./verify`, and in CI on every push. `SECURITY.md` says
+  what to do if a key leaks. The full history of both repositories was scanned before this decision: no leaks.
+- **Why:** The owner's first worry about going public is leaked keys.
+- **Rejected:** Scanning the working tree (`gitleaks dir`): it would read the ignored local `.env` that holds real
+  keys in the pipeline folder; the staged-changes hook covers new files instead.
+
+## D12. Letter addresses are numbers, frozen once published; a ledger guards them (2026-11-21)
+
+- **Decision:** Supersedes the slug part of D3. A book's letters live at `/collections/<book_id>/<n>/`, where `n`
+  is the letter's sequence number in the edition without padding (letter XX of the Dostoevsky volume is
+  `/collections/dostoevsky-family-friends-1914/20/`). Curated letters keep `/letter/<slug>/`. Numbers are frozen
+  once published. `published-addresses.txt` lists every page and download address the site serves and only ever
+  grows (`scripts/addresses.py update`); `./verify` fails if a listed address is no longer served and has no
+  redirect in `static/_redirects`, if a redirect points nowhere, or if a served address is missing from the
+  ledger. Each letter also carries the pipeline's `stable_id` (its first printed block, e.g. `p0079-b0002`), so if
+  a later re-split renumbers letters, old numbers can be mapped to new ones and redirected.
+- **Why:** The owner asked for "whatever is cleaner". Short, readable, citable addresses; the ledger makes
+  "never break a link" a machine check instead of a promise.
+- **Rejected:** Pipeline slugs such as `letter-0020-f-dostoevsky` (long, and they change when sender metadata
+  improves); zero-padded numbers.
+
+## D13. Titles: the printed heading on the page, metadata titles for search (2026-11-21)
+
+- **Decision:** The owner asked for both archival fidelity and search; they are kept in separate places.
+  - On the page: no invented titles. A small kicker gives the printed heading as printed ("XX · To his Brother
+    Michael"); the headline is the letter's own opening words, cut at the first sentence end, else a clause
+    break, within about 90 characters, with an ellipsis if cut. Curated letters will keep their hand-written titles.
+  - In `<title>`, Open Graph and Twitter tags: "Sender to recipient, date written out · Paper Lanterns", from
+    metadata with full names from the pipeline's `edition.toml` (e.g. "Fyodor Dostoevsky to his brother Michael,
+    22 December 1849"), falling back to "Sender, date", "Letter to recipient" or "Letter" when parts are missing.
+  - Meta description: the opening words, up to about 155 characters.
+  - schema.org JSON-LD: a `Message` on each letter (author, recipient, dateCreated, locationCreated, licence,
+    url, and `isPartOf` the `Book` with translator, publisher, 1914 publication and the Internet Archive scan),
+    a `Book` on each collection page, a `WebSite` on the home page. `check_site.py` fails if any block does not
+    parse. Canonical links on every page; Hugo writes `sitemap.xml`.
+- **Why:** Readers see only what the printer printed; search engines get clear, accurate metadata.
+- **Rejected:** Hand-written editorial titles for book letters (invented text on the page).
+
 ## Open questions for the owner
 
-1. Licence for the site's code (MIT or Apache-2.0 are the defaults) and confirmation that transcriptions are CC BY 4.0.
-2. Whether the old site's essays, lectures, speeches, garden, themes and collections pages move here, and at what addresses.
-3. GitHub remotes: this repository and the pipeline repository have none; public or private?
-4. Letter titles: the design shows editorial titles ("Not more than a minute to live"); the pipeline has none,
-   so pages use the printed heading ("XX · To his Brother Michael"). Write titles (by hand, cited) or keep headings?
-5. Pipeline slugs (`letter-0020-f-dostoevsky`) become permanent URLs; keep them, or switch to number-based slugs before launch?
+None at the moment.

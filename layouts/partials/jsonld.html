@@ -1,0 +1,16 @@
+{{- /* schema.org data built only from front matter. Returns a dict (or nil for pages without structured data). */ -}}
+{{- $license := "https://creativecommons.org/licenses/by/4.0/" -}}
+{{- $out := false -}}
+{{- if eq .Params.layout "book" -}}
+{{- $out = partial "jsonld-book.html" . -}}
+{{- else if eq .Params.layout "letter" -}}
+{{- $out = dict "@context" "https://schema.org" "@type" "Message" "name" .Params.page_title "headline" .Title "description" .Description "url" .Permalink "inLanguage" (.Parent.Params.language | default "en") "license" $license "isAccessibleForFree" true -}}
+{{- with .Params.sender_full }}{{ $out = merge $out (dict "author" (dict "@type" "Person" "name" .)) }}{{ end -}}
+{{- with .Params.recipient_full }}{{ $out = merge $out (dict "recipient" (dict "@type" "Person" "name" .)) }}{{ end -}}
+{{- with .Params.letter_date.iso }}{{ $out = merge $out (dict "dateCreated" .) }}{{ end -}}
+{{- with .Params.place }}{{ $out = merge $out (dict "locationCreated" (dict "@type" "Place" "name" .)) }}{{ end -}}
+{{- $out = merge $out (dict "isPartOf" (partial "jsonld-book.html" .Parent)) -}}
+{{- else if .IsHome -}}
+{{- $out = dict "@context" "https://schema.org" "@type" "WebSite" "name" site.Title "url" .Permalink "description" site.Params.description "license" $license -}}
+{{- end -}}
+{{- return $out -}}
