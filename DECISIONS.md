@@ -310,9 +310,27 @@ how the site is built; say why if you overturn one.
   `https://paperlanterns.ink/`, the domain the old site already lives on, so the new site replaces it in place.
 - **Rejected:** paperlanterns.inc, which was a typo and does not resolve.
 
+## D24. Every book shows its reading score and says plainly that a machine read it (2026-11-21)
+
+- **Decision:** the pipeline's 100-point rubric score travels into each book's front matter (`quality`: score, each
+  pillar with its maximum, places flagged). Book pages show it as a seal under the title ("Read by machine. Not yet
+  proofread by people. Expect a few slips.") linking to a "How this text was read" section in About this edition: what
+  a vision language model is, the five parts of the score, the proofreading stages, and an invitation to Akshara's
+  community. Every letter page repeats the status in one line under "How it was read". `/reading/` lists what
+  machine reading tends to get wrong, in any book and in letters especially, and how the score is worked out.
+  `check_site` fails any book page without exactly one score between 0 and 100. "Typed exactly as printed" became
+  "read by machine", because typing implied a person had done it.
+- **Why:** the owner wants readers to know the text is a machine reading with a low but real error rate, without it
+  reading as an alarm, and to see that proofreading is open to volunteers. The tone is a note, not a warning: no
+  warning colours or icons.
+- **Rejected:** a banner on every letter (it would shout over the letters); hiding the score in the colophon only
+  (the owner asked for it to be prominent).
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should
    the ones added after that report be re-checked before launch?
 2. **People.** People pages list everyone as the books credit them. Do you want writers curated per volume
    (for example, separating the East India Company, which received its letters, from the factors who wrote them)?
+3. **Akshara community link.** The notice links to https://akshara.ink/. Is there a page for joining the community or
+   proofreading that it should point to instead?

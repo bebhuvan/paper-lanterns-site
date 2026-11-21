@@ -12,8 +12,7 @@
 {{- $folios := cond (eq .Params.start_folio .Params.end_folio) (printf "p. %s" .Params.start_folio) (printf "pp. %s–%s" .Params.start_folio .Params.end_folio) -}}
 {{- if not .Params.start_folio }}{{ $folios = printf "scan leaf %d" (int .Params.start_page) }}{{ end -}}
 {{- $label := .Params.number | default (printf "%d" (int .Params.sequence)) -}}
-{{- $proof := $book.Params.proof -}}
-{{- $humanPages := int (add $proof.p1_proofed $proof.verified) -}}
+{{- $rs := partial "reading-status.html" $book -}}
 <header class="letter-bar">
 <div class="wrap">
 <a class="logo" href="{{ "/" | relURL }}">{{ partial "logo.html" (dict "w" 36 "sw" 1.3) }}<span class="word">Paper Lanterns</span></a>
@@ -150,7 +149,7 @@
 <div class="grid">
 <dl>
 <div><dt>Source</dt><dd><i>{{ $book.Title }}</i>{{ with $book.Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}, {{ $book.Params.year }}, {{ $folios }}.</dd></div>
-<div><dt>How it was read</dt><dd>{{ if eq $humanPages 0 }}Transcribed and checked by machine. No person has proofread a page of this book yet.{{ else }}Transcribed and checked by machine; {{ $humanPages }} of {{ $proof.total_pages }} pages of this book have been proofread by people.{{ end }}</dd></div>
+<div><dt>How it was read</dt><dd>{{ $rs.line }} The book’s reading score is {{ $rs.score }} out of {{ $rs.out_of }}. <a class="u" href="{{ $book.RelPermalink }}#how-read">How this text was read</a></dd></div>
 <div><dt>Take the whole book with you</dt><dd class="chips">{{ range $book.Params.downloads }}<a href="{{ $book.RelPermalink }}{{ .file }}" download>{{ index (dict "epub" "EPUB" "markdown" "Markdown" "tei" "TEI") .format }}</a>{{ end }}</dd></div>
 </dl>
 {{- $subtitle := "" }}{{ with $book.Params.subtitle }}{{ $subtitle = printf ", %s%s" (lower (substr . 0 1)) (substr . 1) }}{{ end }}

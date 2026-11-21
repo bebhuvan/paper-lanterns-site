@@ -9,6 +9,7 @@
 {{- $proof := .Params.proof -}}
 {{- $humanPages := int (add $proof.p1_proofed $proof.verified) -}}
 {{- $tr := partial "book-traits.html" . -}}
+{{- $rs := partial "reading-status.html" . -}}
 {{- $names := dict "epub" "EPUB" "markdown" "Markdown" "tei" "TEI" -}}
 <main id="main" class="book">
 
@@ -20,7 +21,11 @@
 <nav class="crumb" aria-label="Breadcrumb"><a href="{{ "/collections/" | relURL }}">Collections</a><span aria-hidden="true">  /  </span><span>{{ humanize .Params.collection }}</span></nav>
 <h1 id="title">{{ .Title }}</h1>
 <p class="credit">{{ .Params.subtitle }}{{ with .Params.imprint }}{{ if $p.Params.subtitle }} <span class="sep" aria-hidden="true">·</span> {{ end }}{{ . }}{{ end }}</p>
-<p class="about-book">{{ lang.FormatNumber 0 (int $c.letters) }} letters{{ with $tr.writers }} of {{ delimit . ", " " and " }}{{ end }}{{ with $tr.years }}, written {{ . }}{{ end }}{{ with $tr.translators }}, translated by {{ delimit . ", " " and " }}{{ end }}{{ with .Params.year }}, printed in {{ . }}{{ end }}. Typed exactly as printed{{ if $id }}, each letter set beside its scanned page{{ end }}.</p>
+<p class="about-book">{{ lang.FormatNumber 0 (int $c.letters) }} letters{{ with $tr.writers }} of {{ delimit . ", " " and " }}{{ end }}{{ with $tr.years }}, written {{ . }}{{ end }}{{ with $tr.translators }}, translated by {{ delimit . ", " " and " }}{{ end }}{{ with .Params.year }}, printed in {{ . }}{{ end }}. Read from the printed page by machine, keeping its spelling and punctuation{{ if $id }}, each letter set beside its scan{{ end }}.</p>
+<a class="rs-seal" href="#how-read" data-reading-score="{{ $rs.score }}">
+<span class="rs-score"><span class="rs-n">{{ $rs.score }}</span><span class="rs-of">/{{ $rs.out_of }}</span></span>
+<span class="rs-text"><span class="rs-k">Reading score</span><span class="rs-line">{{ $rs.short }}{{ if not $rs.certified }} Expect a few slips.{{ end }}</span><span class="rs-go">What this means<span aria-hidden="true"> ↓</span></span></span>
+</a>
 <div class="actions">
 {{- with index $letters 0 }}<a class="btn solid" href="{{ .RelPermalink }}"><span>Read the first letter</span><span aria-hidden="true">→</span></a>{{ end }}
 <a class="btn" href="#contents"><span>Browse all {{ lang.FormatNumber 0 (int $c.letters) }} letters</span><span aria-hidden="true">↓</span></a>
@@ -103,7 +108,7 @@
 
 <div class="ed-intro">
 <div class="text">
-<p>This edition reproduces <i>{{ .Title }}</i>{{ with .Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}{{ with .Params.imprint }} ({{ . }}){{ end }}. It was typed page by page from {{ if $id }}the Internet Archive scan{{ else }}a scan of the printed book{{ end }}, keeping the spelling and punctuation exactly as printed.</p>
+<p>This edition reproduces <i>{{ .Title }}</i>{{ with .Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}{{ with .Params.imprint }} ({{ . }}){{ end }}. It was read page by page by machine from {{ if $id }}the Internet Archive scan{{ else }}a scan of the printed book{{ end }}, keeping the printed spelling and punctuation.</p>
 <p>Every printed page is included: {{ lang.FormatNumber 0 (int $c.letters) }} letters and {{ lang.FormatNumber 0 (int $c.notes) }} notes across {{ $c.pages }} scan leaves, with the editor’s own pages between the letters. The text is in the public domain, and this transcription is free to reuse under CC BY 4.0, with credit to Paper Lanterns.</p>
 </div>
 {{- $plates := slice -}}
@@ -162,8 +167,25 @@
 </ul>
 </div>
 
-<div class="ed-block">
-<h3>How far it has been checked</h3>
+<div class="ed-block rs-block" id="how-read">
+<h3>How this text was read</h3>
+<div class="rs-cols">
+<div class="rs-prose">
+<p>The text was read from the scan by a vision language model, a kind of AI that reads page images, and then checked page by page by machine. The error rate is low, but it is never zero. Until people have proofread every page against the scan, expect occasional slips: a dropped accent, a misread foreign word, a running head left in the text, a paragraph split where a page turned, a letter’s date or heading set in the wrong place.</p>
+<p>When a letter matters to you, check it against the printed page beside it. <a class="u" href="{{ "/reading/" | relURL }}">What machines get wrong, and how the score is worked out</a></p>
+</div>
+<div class="rs-card">
+<p class="rs-big"><span class="rs-n">{{ $rs.score }}</span><span class="rs-of"> out of {{ $rs.out_of }}</span></p>
+<p class="rs-sub">Reading score from the machine checks{{ if $rs.flagged }}, with {{ lang.FormatNumber 0 $rs.flagged }} {{ cond (eq $rs.flagged 1) "place" "places" }} flagged for a person to look at{{ end }}.</p>
+{{- $pl := dict "text" "Words, spelling and accents" "structure" "Letters, headings and page layout" "notes" "Footnotes joined to their places" "completeness" "Every printed page present" "files" "Downloads that open cleanly" }}
+<ul class="rs-pillars">
+{{- range .Params.quality.pillars }}{{ $pct := mul (div (float .score) .out_of) 100 }}
+<li><span class="rs-pl">{{ index $pl .key }}</span><span class="rs-pv">{{ printf "%g" (float .score) }} of {{ printf "%g" (float .out_of) }}</span><span class="rs-bar" aria-hidden="true"><svg viewBox="0 0 100 4" preserveAspectRatio="none" width="100%" height="4"><rect class="rs-track" width="100" height="4"/><rect class="rs-fill" width="{{ printf "%.1f" $pct }}" height="4"/></svg></span></li>
+{{- end }}
+</ul>
+</div>
+</div>
+<h4 class="stages-h">Proofreading</h4>
 {{- $checked := in (slice "machine_checked" "community" "source_certified") .Params.provenance_tier }}
 <ol class="stages" aria-label="Checking stages">
 <li class="done"><span class="dot" aria-hidden="true"></span><span class="name">Read by machine</span><span class="state">done</span></li>
@@ -171,6 +193,10 @@
 <li{{ if eq $humanPages $proof.total_pages }} class="done"{{ end }}><span class="dot" aria-hidden="true"></span><span class="name">First reader</span><span class="state">{{ $humanPages }} of {{ $proof.total_pages }} pages</span></li>
 <li{{ if eq $proof.verified $proof.total_pages }} class="done"{{ end }}><span class="dot" aria-hidden="true"></span><span class="name">Second reader</span><span class="state">{{ $proof.verified }} of {{ $proof.total_pages }} pages</span></li>
 </ol>
+<div class="rs-invite">
+<p class="rs-ik">Help put it right</p>
+<p>Paper Lanterns is a sister project of <a class="u" href="https://akshara.ink/">Akshara</a>, the open library of Indian books. Akshara’s community exists for exactly this: people who care about keeping the written past readable, proofreading these pages one at a time until no slip is left. If that sounds like you, join them.</p>
+</div>
 <div class="set-in">{{ partial "logo.html" (dict "w" 40 "sw" 1.1) }}<span>Set in Newsreader for Paper Lanterns{{ if $id }}, from a scan in the Internet Archive{{ end }}.</span></div>
 </div>
 </div>

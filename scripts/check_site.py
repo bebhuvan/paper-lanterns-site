@@ -44,6 +44,7 @@ class PageReport:
     has_title: bool = False
     has_description: bool = False
     jsonld: list[str] = field(default_factory=list)
+    reading_scores: list[str] = field(default_factory=list)  # data-reading-score values (D24)
 
 
 class PageParser(HTMLParser):
@@ -65,6 +66,8 @@ class PageParser(HTMLParser):
                 self.r.ids.add(value)
             if (tag, name) in URL_ATTRS and value:
                 self.r.links.append((value, tag == "a"))
+            if name == "data-reading-score":
+                self.r.reading_scores.append(value or "")
             if name == "srcset" and value:
                 self.r.links.extend((part.strip().split(" ")[0], False) for part in value.split(",") if part.strip())
         d = dict(attrs)
@@ -191,6 +194,19 @@ def check_headers(public: Path, hugo_toml: Path) -> list[str]:
     return errors
 
 
+def check_reading_score(rel: Path, scores: list[str]) -> list[str]:
+    """Every book page (collections/<book_id>/index.html) shows exactly one reading score between 0 and 100 (D24)."""
+    if len(rel.parts) != 3 or rel.parts[0] != "collections" or rel.name != "index.html":
+        return []
+    if len(scores) != 1:
+        return [f"book page needs exactly one reading score, found {len(scores)}"]
+    try:
+        value = float(scores[0])
+    except ValueError:
+        return [f"reading score {scores[0]!r} is not a number"]
+    return [] if 0 <= value <= 100 else [f"reading score {value} is outside 0-100"]
+
+
 def check_site(public: Path, hugo_toml: Path) -> list[str]:
     problems: list[str] = []
     pages = sorted(public.rglob("*.html"))
@@ -202,6 +218,7 @@ def check_site(public: Path, hugo_toml: Path) -> list[str]:
         ids_by_file[page.resolve()] = report.ids
         rel = page.relative_to(public)
         problems.extend(f"{rel}: {e}" for e in report.errors)
+        problems.extend(f"{rel}: {e}" for e in check_reading_score(rel, report.reading_scores))
         for url, navigation in report.links:
             err = check_link(public, page.resolve(), url, ids_by_file, navigation=navigation)
             if err:

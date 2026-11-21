@@ -26,6 +26,7 @@ const PAGES = [
   "/letter/adams-abigail-john-1776/",
   "/essay/thoreau-walking-1862/",
   "/about/",
+  "/reading/",
   "/search/",
   "/explore/",
   "/explore/1840s/",

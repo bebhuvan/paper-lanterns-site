@@ -917,3 +917,41 @@ html.js .site-header.is-hidden { transform: translateY(-100%); box-shadow: none;
   .ed-intro { grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 64px; }
   .ed-intro .text > p { font-size: 21px; }
 }
+
+/* Reading score (D24): a quiet seal under the book's title, the full account in "About this edition", one line per
+   letter. A note, not an alert: no warning colours, the lamp only as the score's own figure. */
+.rs-seal { margin-top: 22px; display: flex; align-items: center; gap: 16px; max-width: 560px; padding: 14px 18px 14px 14px;
+  border: 1px solid currentColor; border-radius: 2px; color: var(--c-ink, var(--ink)); min-height: 44px; }
+.rs-score { flex: none; display: flex; align-items: baseline; justify-content: center; width: 76px; height: 76px; padding-top: 20px;
+  border-radius: 50%; border: 1px solid currentColor; font-variant-numeric: lining-nums; }
+.rs-seal .rs-n { font-size: 30px; letter-spacing: -0.03em; line-height: 1; }
+.rs-seal .rs-of { font-family: var(--mono); font-size: 11px; color: var(--c-acc, var(--ink-3)); }
+.rs-text { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.rs-k { font-size: 15px; font-style: italic; color: var(--c-acc, var(--ink-3)); }
+.rs-line { font-size: 17px; line-height: 1.4; }
+.rs-go { font-size: 15px; color: var(--c-acc, var(--ink-3)); text-decoration: underline; text-underline-offset: 0.2em; text-decoration-thickness: 1px; }
+@media (hover: hover) { .rs-seal:hover { color: var(--c-ink, var(--ink)); } .rs-seal:hover .rs-go { color: var(--lamp); } }
+
+.rs-cols { display: grid; gap: 32px; margin-top: 18px; }
+.rs-prose p { margin: 0 0 1em; font-size: 18px; line-height: 1.6; max-width: 640px; }
+.rs-card { background: var(--paper); border-top: 2px solid var(--ink); padding: 22px 20px 24px; }
+.rs-big { margin: 0; display: flex; align-items: baseline; gap: 6px; }
+.rs-big .rs-n { font-size: 56px; line-height: 1; letter-spacing: -0.04em; color: var(--lamp); font-variant-numeric: lining-nums; }
+.rs-big .rs-of { font-size: 17px; color: var(--ink-3); }
+.rs-sub { margin: 10px 0 0; font-size: 16px; line-height: 1.45; color: var(--ink-2); }
+.rs-pillars { list-style: none; margin: 20px 0 0; padding: 0; display: grid; gap: 14px; }
+.rs-pillars li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 12px; font-size: 15px; }
+.rs-pl { color: var(--ink); }
+.rs-pv { color: var(--ink-3); font-variant-numeric: tabular-nums; }
+.rs-bar { grid-column: 1 / -1; display: block; line-height: 0; }
+.rs-track { fill: var(--rule); }
+.rs-fill { fill: var(--ink); }
+.rs-invite { margin-top: 44px; padding-left: 18px; border-left: 3px solid var(--lamp); max-width: 640px; }
+.rs-invite p { margin: 0; font-size: 18px; line-height: 1.6; }
+.rs-invite .rs-ik { font-size: 17px; font-style: italic; color: var(--ink-3); margin-bottom: 6px; }
+@media (min-width: 901px) { .rs-cols { grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 56px; align-items: start; } }
+
+.prose table { width: 100%; border-collapse: collapse; margin: 1.2em 0 1.6em; font-size: 16px; line-height: 1.45; }
+.prose th, .prose td { text-align: left; vertical-align: top; padding: 10px 12px 10px 0; border-bottom: 1px solid var(--rule); }
+.prose th { font-weight: 400; color: var(--ink-3); border-bottom-color: var(--ink); }
+.prose td:nth-child(2), .prose th:nth-child(2) { text-align: right; font-variant-numeric: tabular-nums; }

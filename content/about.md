@@ -2,12 +2,13 @@
 title = "About Paper Lanterns"
 description = "Why Paper Lanterns exists, who makes it, how the letters are chosen and checked, and where they come from."
 layout = "prose"
+show_figures = true
 kicker = "Preserving the intimate conversations and powerful orations that shaped our world"
 +++
 
 ## The collections
 
-Paper Lanterns now holds whole published volumes of letters as well as single letters chosen by hand. Each volume is typed page by page from a scan of the printed book, keeping its spelling, punctuation and layout exactly as printed, and every letter is set beside the page it came from so anyone can check the reading against the ink. Pages are first read and checked by machine; a page is called certified only when two different people have proofread it against the scan.
+Paper Lanterns now holds whole published volumes of letters as well as single letters chosen by hand. Each volume is read page by page from a scan of the printed book by a vision language model, keeping its spelling, punctuation and layout as printed, and every letter is set beside the page it came from so anyone can check the reading against the ink. Machine reading is good but never perfect, so each book shows a reading score and how many of its pages people have proofread; a book is called certified only when two different people have proofread every page against the scan. [How these letters are read](/reading/) explains what tends to go wrong and how you can help put it right.
 
 ## My Vision
 

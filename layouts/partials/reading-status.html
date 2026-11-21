@@ -1,0 +1,17 @@
+{{- /* How far a book's text can be trusted, in plain words, from the pipeline's rubric score and proof counts (D24).
+       Input: a book page. Returns a dict: score ("76" or "87.5"), flagged, human (pages proofread by people),
+       short (a few words for the seal), line (one sentence for letter pages). */ -}}
+{{- $q := .Params.quality -}}
+{{- $proof := .Params.proof -}}
+{{- $human := int (add $proof.p1_proofed $proof.verified) -}}
+{{- $total := int $proof.total_pages -}}
+{{- $flagged := int $q.flagged -}}
+{{- $short := "Read by machine. Not yet proofread by people." -}}
+{{- if eq .Params.provenance_tier "source_certified" -}}
+{{- $short = "Proofread by two people against the printed page." -}}
+{{- else if gt $human 0 -}}
+{{- $short = printf "Read by machine. %d of %d pages proofread by people." $human $total -}}
+{{- end -}}
+{{- $line := printf "%s Expect occasional slips in names, accents and foreign words." $short -}}
+{{- if eq .Params.provenance_tier "source_certified" }}{{ $line = $short }}{{ end -}}
+{{- return (dict "score" (printf "%g" (float $q.score)) "out_of" (printf "%g" (float $q.out_of)) "flagged" $flagged "human" $human "total" $total "short" $short "line" $line "certified" (eq .Params.provenance_tier "source_certified")) -}}

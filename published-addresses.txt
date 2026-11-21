@@ -5451,6 +5451,7 @@
 /people/william-foster/
 /people/william-james/
 /people/william-kirkpatrick/
+/reading/
 /rss.xml
 /search-data.json
 /search/

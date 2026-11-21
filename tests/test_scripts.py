@@ -77,6 +77,14 @@ class CheckSiteTests(unittest.TestCase):
         for needle in ("duplicate id 'top'", "exactly one <h1>", "does not match", "has no alt"):
             self.assertIn(needle, found)
 
+    def test_book_pages_must_show_one_reading_score(self) -> None:
+        rel = Path("collections/some-book/index.html")
+        self.assertEqual(check_site.check_reading_score(rel, ["76"]), [])
+        self.assertEqual(check_site.check_reading_score(Path("collections/index.html"), []), [])
+        self.assertEqual(check_site.check_reading_score(Path("collections/some-book/3/index.html"), []), [])
+        for scores, needle in (([], "exactly one"), (["%!g(<nil>)"], "not a number"), (["130"], "outside")):
+            self.assertIn(needle, check_site.check_reading_score(rel, scores)[0])
+
     def test_jsonld_is_allowed_but_must_parse(self) -> None:
         ok = GOOD.replace("</head>", '<script type="application/ld+json">{"@context":"https://schema.org","@type":"Book"}</script></head>')
         self.assertEqual(self.problems(ok), [])
