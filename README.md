@@ -1,12 +1,13 @@
 # Paper Lanterns website
 
 The new site for [Paper Lanterns](https://paperlanterns.ink): whole collections of public-domain letters,
-typed exactly as printed and set beside the scanned page they came from. It is a sister project of
+read from the printed page by machine and set beside the scanned page they came from. It is a sister project of
 [Akshara](https://akshara.ink).
 
 This repository holds **design only**: Hugo templates, one stylesheet, one small script and fonts. Every
-word and number about a book comes from the Paper Lanterns pipeline (`../Paper Lanterns New`), which
-writes Hugo content; a thin script copies it here. Scans are not stored here: pages load them from the
+word and number about a book comes from the Paper Lanterns pipeline (code at
+[bebhuvan/paper-lanterns-pipeline](https://github.com/bebhuvan/paper-lanterns-pipeline); checked out locally
+as `../Paper Lanterns New`, which also holds the compiled editions), which writes Hugo content; a thin script copies it here. Scans are not stored here: pages load them from the
 Internet Archive.
 
 Status: all 39 compiled editions are in (5,017 letters), plus the old site's 105 hand-curated letters, essays,
