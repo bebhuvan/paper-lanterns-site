@@ -1,10 +1,10 @@
 # The live site is a Cloudflare Worker that only serves static files (D27): no Worker code runs.
 # Build and check first, then deploy the checked folder (see README "Deploy"):
 #   ./verify && hugo --gc --minify --destination dist && pagefind --site dist && wrangler deploy
-# Custom domains (paperlanterns.ink, www.paperlanterns.ink) are attached in the Cloudflare dashboard or API.
+# Custom domains paperlanterns.ink and www.paperlanterns.ink are attached to this Worker (Cloudflare manages their DNS).
 name = "paper-lanterns-site"
 compatibility_date = "2026-11-01"
-workers_dev = true
+workers_dev = false
 preview_urls = false
 
 [assets]

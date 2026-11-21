@@ -1,5 +1,5 @@
-# Deployed by hand: `wrangler deploy` from this folder. The custom domain collections.paperlanterns.ink is attached
-# to this Worker through the Cloudflare API (Workers > Domains), replacing the retired paper-lanterns-collections Worker.
+# Deployed by hand: `wrangler deploy` from this folder. The route collections.paperlanterns.ink/* and the custom domain
+# collections.paperlanterns.ink point at this Worker (set through the API), replacing the retired paper-lanterns-collections.
 name = "paper-lanterns-collections-redirect"
 main = "worker.js"
 compatibility_date = "2026-11-01"

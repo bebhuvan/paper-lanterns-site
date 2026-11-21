@@ -10,8 +10,8 @@ word and number about a book comes from the Paper Lanterns pipeline (code at
 as `../Paper Lanterns New`, which also holds the compiled editions), which writes Hugo content; a thin script copies it here. Scans are not stored here: pages load them from the
 Internet Archive.
 
-Status: all 39 compiled editions are in (5,017 letters), plus the old site's 105 hand-curated letters, essays,
-lectures, speeches and notes at their old addresses. Nothing is deployed yet.
+Status: live at https://paperlanterns.ink since 21 November 2026. All 39 compiled editions are in (5,017
+letters), plus the old site's 105 hand-curated letters, essays, lectures, speeches and notes at their old addresses.
 
 ## What is where
 
@@ -99,15 +99,11 @@ wrangler deploy
 `dist/_headers` carries the Content-Security-Policy and security headers and `dist/_redirects` the old-site
 redirects; Workers static assets apply both.
 
-At launch, the new site replaces the old Astro sites (D25):
-
-1. Delete the two DNS records for `paperlanterns.ink` and `www` that point at the old Pages project, attach both
-   hostnames to the Worker as custom domains (Cloudflare then manages their DNS), and remove them from the old
-   `paper-lanterns` Pages project.
-2. Retire the old `collections.paperlanterns.ink` Worker (`paper-lanterns-collections`) by moving its custom
-   domain to the redirect Worker in `ops/collections-redirect/`, which sends every address to
-   `https://paperlanterns.ink/collections/` with a 301. No per-page redirects: its five collections are being redone
-   from fresh scans and its letters do not map one to one.
+The launch on 21 November 2026 (D25, D28) attached `paperlanterns.ink` and `www.paperlanterns.ink` to the Worker as
+custom domains, after deleting their old DNS records that pointed at the `paper-lanterns` Pages project, and
+pointed the old `collections.paperlanterns.ink` route and domain at the redirect Worker in `ops/collections-redirect/`.
+The old `paper-lanterns` Pages project and `paper-lanterns-collections` Worker still exist, detached, so the switch
+can be undone; delete them once the new site has run cleanly for a while.
 
 Search does not work under `hugo server` (the index is built after Hugo). To try it locally, build with the
 command above and serve `public/` with any static server.

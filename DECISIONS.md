@@ -363,6 +363,20 @@ how the site is built; say why if you overturn one.
   behave exactly as on Pages.
 - **Rejected:** keeping the Pages project.
 
+## D28. Launch: paperlanterns.ink moved to the Worker (2026-11-21)
+
+- **What changed:** the two CNAME records for `paperlanterns.ink` and `www` (to `paper-lanterns.pages.dev`) were
+  deleted with the `cf` CLI and both hostnames attached to the `paper-lanterns-site` Worker as custom domains, which
+  recreates their DNS; both were then detached from the old `paper-lanterns` Pages project. The zone route
+  `collections.paperlanterns.ink/*` and that hostname's custom domain now point at
+  `paper-lanterns-collections-redirect`. The site Worker's workers.dev address is off.
+- **Checked live:** all 128 old addresses resolve to a page, security headers present, 404 page returns 404, old
+  subdomain answers 301 to `/collections/`.
+- **To undo:** recreate the two CNAMEs to `paper-lanterns.pages.dev` (after removing the Worker custom domains),
+  re-add the domains to the `paper-lanterns` Pages project, and point the route back at `paper-lanterns-collections`.
+- **Left in place on purpose:** the old Pages project, the old collections Worker and the unused
+  `paper-lanterns-site` Pages project from D26, until the owner agrees to delete them.
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should
