@@ -226,9 +226,89 @@ how the site is built; say why if you overturn one.
   20,000; `verify` fails above 19,000). The search page works only with JavaScript and says so.
 - **Rejected:** Pagefind's own UI (writes HTML strings and styles); a hosted search service (third party, cost).
 
+## D18. People and Explore are generated from the content, never typed by hand (2026-11-21)
+
+- **Decision:** `scripts/build_indexes.py` derives `data/decades.json` (every decade with a dated letter and its
+  letters) and `data/people.json` from the synced collections and the hand-curated pages; Hugo content adapters
+  (`content/explore/_content.gotmpl`, `content/people/_content.gotmpl`) turn them into `/explore/<decade>s/`
+  (51 pages, first-century decades labelled "AD") and `/people/<name>/` (103 pages). `verify` fails if the
+  files are stale.
+- People are listed as the data records them, not as inferred writers: everyone credited on a volume with the role
+  exactly as recorded ("tr.", "ed."; "named on the title page" when there is none), the writers named on the
+  hand-curated pages, and counts of collection letters only where the signed name (or the pipeline's
+  edition.toml full form) equals a credited name exactly. So the East India Company appears as credited on its
+  six volumes, and anthology contributors appear only where a signature matches.
+- `data/people-same-person.json` joins printed forms of one person (today only Gandhi's three forms); a pair is
+  added only when certain.
+- The decade chart links each decade to its Explore page. People and Explore addresses are recorded in the ledger
+  like any other.
+- **Rejected:** guessing writers from book titles or matching names loosely (would publish wrong attributions).
+
+## D19. Design refinements from the owner's review: header, menu, covers, decade chart (2026-11-21)
+
+- **Header:** six links (Collections, Letters, Essays, People, Explore, About); the logo is the way home and
+  search is an icon beside the menu button. The full row shows only from 1100px, where it fits on one line;
+  nothing in the header may wrap. `check_mobile.mjs` now also runs at 935 and 1280px and fails if the logo or a
+  header link wraps.
+- **Menu:** a full-screen reading sheet instead of a dropdown: a search field first, then each destination in
+  large Newsreader with a line of real figures (volumes, letters, decades), the current page marked with the
+  lamp dot. Built on `<details>`, so it works without JavaScript; with it, the page behind stops scrolling and
+  Escape closes it.
+- **Covers carry no scans.** Cropped scan plates could not be controlled per book (portraits on some, a sliver of
+  title-page type or blank paper on others, poor contrast). Each cover is now typographic: collection tint and
+  accent, title and writer, and the shape of the book itself drawn from its page strip (tall where letters are
+  printed, middling for the editor's pages, short for front matter and index), as fine page hairlines. Scans stay
+  where they are seen whole: framed on the book page and beside each letter.
+- **Decade chart:** long silences (more than four empty decades) fold into a short `//` break labelled with its
+  dates, so the crowded centuries get the width; the chosen lantern glows with a halo and shows its count; century
+  labels are italic serif; scrollbars are thin, and the chart scrolls sideways only below 720px.
+- **Why:** the owner's review: "Why does the header suck?", "Looks boring and lazy?", covers "out of contrast,
+  clipped", "How do we design this to be more beautiful?"
+
+## D20. Cover system and book-page order (2026-11-21)
+
+- **Covers** (supersedes the cover paragraph of D19): typographic, no scans, three axes of real difference.
+  - Colour follows the era of the letters (the weighted middle year): parchment and umber before 1600, madder
+    for the 1600s, sage for the 1700s, cornflower for 1800-1849, lavender for 1850-1899, slate teal after 1900,
+    grey when undated. The collection is a small italic label, no longer the colour.
+  - Layout follows the credits: one writer named on the title page makes their name the hero; two make a pair
+    joined by the site's two-lantern string (Sand and Flaubert, Nietzsche and Wagner, Faraday and Schoenbein);
+    anthologies credited only to editors or compilers make the title the hero.
+  - The picture is the book's own lanterns: one per decade of dated letters on a sagging string, longer where more
+    letters survive, the busiest lit. A miniature of the site's decade chart, true for every book.
+- **Book page order:** title, figures and "Read the first letter", then the letters straight away (grouped by the
+  writer's life periods where the book has them, otherwise by decade, with jump links and two-line openings), then
+  the year chart, page strip, downloads and colophon. Before, readers met three charts and the downloads before
+  learning the letters could be read.
+- **Why:** the owner's review: covers lacked style and looked the same; the book page buried the letters.
+
+## D21. The header steps aside while you read (2026-11-21)
+
+- **Decision:** on every page except letter pages, the header hides while you scroll down past the first screenful
+  and slides back on any scroll up, with a hairline and slight translucency; never hidden while the menu is open;
+  no motion for readers who ask for reduced motion; without JavaScript it simply stays at the top. Letter pages keep
+  their own toolbar and, on phones, the bottom reading bar instead.
+- **Why:** a permanently sticky header costs about a tenth of a phone screen on every scroll; a static one strands
+  readers at the bottom of 400-letter books.
+
+## D22. Book pages are built around the letters (2026-11-21)
+
+- **Decision** (supersedes the book-page order in D20): a title band in the book's era colour with its lanterns, a
+  one-sentence description assembled only from data ("434 letters of Tipu Sultan, written between 1785 and 1811,
+  translated by William Kirkpatrick, printed in 1811…"), "Read the first letter", "Browse all letters" and a one-line
+  download list; then the first letter as a showcase; then the letters, with tabs (life periods or decades) that
+  stay in reach and underline the group on screen; then one "About this edition" section holding the colophon,
+  the frontispiece and title-page plates, figures, year chart, page strip with a printed-style contents list keyed
+  to it, the files, and the checking stages. Letter rows are set like the head of a small letter: date and place,
+  the opening words upright with a lamp-red hanging quote, then the printed number and recipient.
+- **Why:** the owner's review asked for the page to be redesigned around reading, with beauty, elegance and
+  refinement as the measure.
+
 ## Open questions for the owner
 
 1. **Domain.** The live site is paperlanterns.ink; paperlanterns.inc does not resolve, yet this site's `baseURL`,
    canonical links, sitemap and structured data use `.inc`. Which is right?
 2. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should
    the ones added after that report be re-checked before launch?
+3. **People.** People pages list everyone as the books credit them. Do you want writers curated per volume
+   (for example, separating the East India Company, which received its letters, from the factors who wrote them)?

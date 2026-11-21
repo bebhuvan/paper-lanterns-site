@@ -1,29 +1,27 @@
-{{- /* A generated cover from real edition data. Context: the book page. */ -}}
+{{- /* A typographic cover drawn only from edition data (DECISIONS.md D20).
+       Colour: the era of the letters (weighted middle year). Layout: one writer, two correspondents, or an
+       anthology credited to editors. Picture: one lantern per decade of dated letters, longer where more survive. */ -}}
 {{- $p := . -}}
-{{- $writer := index $p.Params.authors 0 | default $p.Params.author_or_editor -}}
-{{- $years := $p.Params.year_counts -}}
-{{- $span := "" -}}
-{{- with $years }}{{ $span = printf "%d–%d" (int (index (index . 0) 0)) (int (index (index . (sub (len .) 1)) 0)) }}{{ end -}}
+{{- $tr := partial "book-traits.html" $p -}}
+{{- $era := $tr.era -}}{{- $form := $tr.form -}}{{- $writers := $tr.writers -}}{{- $credit := $tr.credit -}}{{- $span := $tr.span -}}
 {{- $letters := where $p.RegularPages "Params.layout" "letter" -}}
 {{- $voice := "" -}}
-{{- range $letters.ByWeight }}{{ if and (not $voice) .Params.salutation }}{{ $voice = .Params.salutation }}{{ end }}{{ end -}}
+{{- range $letters.ByWeight }}{{ if and (not $voice) .Params.salutation (le (len .Params.salutation) 60) }}{{ $voice = .Params.salutation }}{{ end }}{{ end -}}
 <a class="cover-card" href="{{ $p.RelPermalink }}">
-<span class="cover tint-{{ $p.Params.collection }}" role="img" aria-label="Cover: {{ $p.Title }}, {{ $writer }}">
-<span class="top">{{ partial "logo.html" (dict "w" 24 "sw" 1.6) }}<span class="series">{{ humanize $p.Params.collection }}</span></span>
-{{- /* The frontispiece if the book has one, else its title page; nothing when there is no public scan. */ -}}
-{{- $plate := $p.Params.frontispiece | default $p.Params.title_page -}}
-<span class="plate">{{ if and $p.Params.archive_id $plate }}{{ partial "scan-img.html" (dict "id" $p.Params.archive_id "leaf" $plate.leaf "alt" "" "lazy" true "sizes" "(min-width: 1100px) 300px, (min-width: 761px) 30vw, 45vw") }}{{ end }}</span>
-<span class="ct">{{ $p.Title }}</span>
-<span class="cw">{{ $writer }}</span>
-<svg class="runs" viewBox="0 0 {{ len $p.Params.page_kinds }} 4" preserveAspectRatio="none" aria-hidden="true">
-{{- $x := 0 -}}
-{{- range $p.Params.page_runs -}}
-{{- $k := index . 0 }}{{ $n := int (index . 1) -}}
-<rect class="{{ cond (eq $k "L") "L" (cond (eq $k "n") "n" "o") }}" x="{{ $x }}" y="0" width="{{ $n }}" height="4"/>
-{{- $x = add $x $n -}}
-{{- end -}}
-</svg>
-<span class="foot"><span>{{ $span }}</span><span>{{ $p.Params.counts.letters }} letters</span></span>
+<span class="cover era-{{ $era }} form-{{ $form }}" role="img" aria-label="Cover: {{ $p.Title }}, {{ $credit }}">
+<span class="top"><span class="series">{{ humanize $p.Params.collection }}</span><span class="span">{{ $span }}</span></span>
+{{ partial "lantern-string.html" (dict "lanterns" $tr.lanterns "class" "lanterns") }}
+{{- if eq $form "writer" }}
+<span class="hero">{{ index $writers 0 }}</span>
+<span class="sub">{{ $p.Title }}</span>
+{{- else if eq $form "pair" }}
+<span class="hero pair"><span>{{ index $writers 0 }}</span><span class="pair-glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ index $writers 1 }}</span></span>
+<span class="sub">{{ $p.Title }}</span>
+{{- else }}
+<span class="hero title">{{ $p.Title }}</span>
+<span class="sub">{{ $credit }}</span>
+{{- end }}
+<span class="foot"><span>{{ lang.FormatNumber 0 (int $p.Params.counts.letters) }} letters</span><span>{{ $p.Params.year }}</span></span>
 </span>
 <span class="printed">{{ $p.Params.imprint }}</span>
 <span class="t">{{ $p.Title }}</span>

@@ -1,0 +1,36 @@
+{{- /* Facts about a book used by its cover and its page, all from edition data (D20):
+       era (colour), form (writer / pair / anthology), writers and translators as credited, span of years,
+       and the lantern string (one lantern per decade of dated letters). */ -}}
+{{- $p := . -}}
+{{- $yc := $p.Params.year_counts | default slice -}}
+{{- $total := 0 -}}{{- range $yc }}{{ $total = add $total (int (index . 1)) }}{{ end -}}
+{{- $mid := 0 -}}{{- $run := 0 -}}
+{{- range $yc }}{{ $run = add $run (int (index . 1)) }}{{ if and (not $mid) (ge (mul $run 2) $total) }}{{ $mid = int (index . 0) }}{{ end }}{{ end -}}
+{{- $era := "undated" -}}
+{{- if $mid }}{{ $era = cond (lt $mid 1600) "early" (cond (lt $mid 1700) "c17" (cond (lt $mid 1800) "c18" (cond (lt $mid 1850) "c19a" (cond (lt $mid 1900) "c19b" "c20")))) }}{{ end -}}
+{{- $writers := slice -}}{{- $translators := slice -}}
+{{- range $p.Params.authors -}}
+{{- if not (in . "(") }}{{ $writers = $writers | append . }}
+{{- else if findRE `\((tr|trans)\.? [A-Z]` . }}{{ $writers = $writers | append (trim (index (split . "(") 0) " ") }}{{ $translators = $translators | append (replaceRE `^.*\((?:tr|trans)\.? (.+)\)\s*$` "$1" .) }}
+{{- else if findRE `\((tr|trans)` . }}{{ $translators = $translators | append (trim (index (split . "(") 0) " ") }}{{ end -}}
+{{- end -}}
+{{- with $p.Params.translators }}{{ $translators = . }}{{ end -}}
+{{- $form := cond (eq (len $writers) 1) "writer" (cond (eq (len $writers) 2) "pair" "anthology") -}}
+{{- $span := "" -}}{{- $years := "" -}}
+{{- with $yc }}{{ $a := int (index (index . 0) 0) }}{{ $b := int (index (index . (sub (len .) 1)) 0) }}{{ $span = cond (eq $a $b) (printf "%d" $a) (printf "%d–%d" $a $b) }}{{ $years = cond (eq $a $b) (printf "in %d" $a) (printf "between %d and %d" $a $b) }}{{ end -}}
+{{- $dec := dict -}}
+{{- range $yc }}{{ $k := string (mul (div (int (index . 0)) 10) 10) }}{{ $dec = merge $dec (dict $k (add (index $dec $k | default 0) (int (index . 1)))) }}{{ end -}}
+{{- $dkeys := slice -}}{{- range $k, $_ := $dec }}{{ $dkeys = $dkeys | append (int $k) }}{{ end -}}{{- $dkeys = sort $dkeys -}}
+{{- $dmax := 1 -}}{{- range $dkeys }}{{ $n := index $dec (string .) }}{{ if gt $n $dmax }}{{ $dmax = $n }}{{ end }}{{ end -}}
+{{- $nd := len $dkeys -}}
+{{- $lanterns := slice -}}
+{{- range $i, $d := $dkeys -}}
+{{- $gap := math.Min 22.0 (div 184.0 (math.Max $nd 1)) -}}
+{{- $x := add (sub 100 (div (mul $gap (sub $nd 1)) 2)) (mul $gap $i) -}}
+{{- $t := div $x 200.0 -}}
+{{- $y := add 10 (mul 80 (mul $t (sub 1 $t))) -}}
+{{- $n := index $dec (string $d) -}}
+{{- $lanterns = $lanterns | append (dict "x" $x "y" $y "drop" (add 6 (mul 46 (math.Sqrt (div (float $n) $dmax)))) "lit" (eq $n $dmax) "decade" $d "n" $n) -}}
+{{- end -}}
+{{- return dict "era" $era "form" $form "writers" $writers "translators" $translators "span" $span "years" $years "lanterns" $lanterns
+    "credit" (index $p.Params.authors 0 | default $p.Params.author_or_editor) -}}

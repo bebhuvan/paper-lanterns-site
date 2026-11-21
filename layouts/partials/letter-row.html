@@ -1,7 +1,9 @@
-<li data-find><a href="{{ .RelPermalink }}">
-<span class="n"><span class="num">{{ .Params.number | default (printf "%d" (int .Params.sequence)) }}</span><span class="d">{{ .Params.letter_date.display | default "Undated" }}</span></span>
-<span class="txt">
-<span class="inc">“{{ .Params.incipit }}”</span>
-<span class="to">{{ with .Params.recipient }}To {{ . }}{{ end }}{{ with .Params.place }} · {{ . }}{{ end }}</span>
-</span>
+{{- /* One letter in a book's contents, set like the head of a small letter: date and place, the opening words,
+       then the printed number and recipient. */ -}}
+<li data-find><a class="lrow" href="{{ .RelPermalink }}">
+{{- if or .Params.letter_date.short .Params.place }}
+<span class="lr-head">{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.place }}<span class="lr-place">{{ . }}</span>{{ end }}</span>
+{{- end }}
+<span class="lr-open">{{ .Params.incipit }}</span>
+<span class="lr-foot"><span class="lr-num">{{ .Params.number | default (printf "%d" (int .Params.sequence)) }}</span>{{ with .Params.recipient }}<span>To {{ . }}</span>{{ end }}</span>
 </a></li>

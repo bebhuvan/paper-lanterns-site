@@ -35,7 +35,7 @@
 </div>
 <div class="ps">
 <p><span class="mark">P.S.</span>{{ .Params.featured_text }} <a href="{{ $featured.RelPermalink }}">Read it →</a></p>
-<p><span class="mark">P.P.S.</span>Whole books are here too: {{ len $books }} {{ cond (eq (len $books) 1) "collection" "collections" }} with {{ len $letters }} letters to read or take with you. <a href="{{ "/collections/" | relURL }}">Browse them →</a></p>
+<p><span class="mark">P.P.S.</span>Whole books are here too: {{ len $books }} {{ cond (eq (len $books) 1) "collection" "collections" }} with {{ lang.FormatNumber 0 (len $letters) }} letters to read or take with you. <a href="{{ "/collections/" | relURL }}">Browse them →</a></p>
 </div>
 </div>
 </div>

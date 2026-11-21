@@ -1,84 +1,49 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
+{{- /* A book page built around its letters (D22): a cover-like title band, the first letter as a taste of the book,
+       the letters themselves, then one "About this edition" section holding charts, files and colophon. */ -}}
 {{- $p := . -}}
 {{- $id := .Params.archive_id -}}
 {{- $letters := (where .RegularPages "Params.layout" "letter").ByWeight -}}
 {{- $c := .Params.counts -}}
 {{- $proof := .Params.proof -}}
 {{- $humanPages := int (add $proof.p1_proofed $proof.verified) -}}
-<main id="main">
-<section class="wrap book-top" aria-labelledby="title">
+{{- $tr := partial "book-traits.html" . -}}
+{{- $names := dict "epub" "EPUB" "markdown" "Markdown" "tei" "TEI" -}}
+<main id="main" class="book">
+
+<section class="book-hero era-{{ $tr.era }}" aria-labelledby="title">
+<div class="wrap hero-grid">
+<div class="hero-text" data-pagefind-body>
+<span hidden data-pagefind-meta="where">A whole collection, {{ $c.letters }} letters</span>
+<span hidden data-pagefind-filter="kind">Collections</span>
 <nav class="crumb" aria-label="Breadcrumb"><a href="{{ "/collections/" | relURL }}">Collections</a><span aria-hidden="true">  /  </span><span>{{ humanize .Params.collection }}</span></nav>
-<div class="row">
-{{- with and $id .Params.frontispiece }}
-<figure class="plate-fig">
-<div class="frame">{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "The frontispiece of the %d edition: %s" (int $p.Params.year) .caption) "sizes" "(min-width: 761px) 420px, 100vw") }}</div>
-<figcaption><span class="cap">{{ .caption }}</span><br><span class="muted">The book’s frontispiece, scan leaf {{ .page }}</span></figcaption>
+<h1 id="title">{{ .Title }}</h1>
+<p class="credit">{{ .Params.subtitle }}{{ with .Params.imprint }}{{ if $p.Params.subtitle }} <span class="sep" aria-hidden="true">·</span> {{ end }}{{ . }}{{ end }}</p>
+<p class="about-book">{{ lang.FormatNumber 0 (int $c.letters) }} letters{{ with $tr.writers }} of {{ delimit . ", " " and " }}{{ end }}{{ with $tr.years }}, written {{ . }}{{ end }}{{ with $tr.translators }}, translated by {{ delimit . ", " " and " }}{{ end }}{{ with .Params.year }}, printed in {{ . }}{{ end }}. Typed exactly as printed{{ if $id }}, each letter set beside its scanned page{{ end }}.</p>
+<div class="actions">
+{{- with index $letters 0 }}<a class="btn solid" href="{{ .RelPermalink }}"><span>Read the first letter</span><span aria-hidden="true">→</span></a>{{ end }}
+<a class="btn" href="#contents"><span>Browse all {{ lang.FormatNumber 0 (int $c.letters) }} letters</span><span aria-hidden="true">↓</span></a>
+</div>
+<p class="act-files"><span class="muted">Download</span>{{ range .Params.downloads }}{{ $b := float .bytes }}<a href="{{ $p.RelPermalink }}{{ .file }}" download>{{ index $names .format }}<span class="sz">{{ if ge $b 1048576 }}{{ printf "%.1f MB" (div $b 1048576) }}{{ else }}{{ printf "%.0f KB" (div $b 1024) }}{{ end }}</span></a>{{ end }}</p>
+</div>
+{{- with $tr.lanterns }}
+<figure class="hero-lanterns">
+{{ partial "lantern-string.html" (dict "lanterns" . "class" "lanterns" "label" (printf "The letters by decade, %s: one lantern per decade, longer where more letters survive." $tr.span)) }}
+<figcaption><span class="span">{{ $tr.span }}</span><span>One lantern for each decade, longer where more letters survive.</span></figcaption>
 </figure>
 {{- end }}
-<div class="info" data-pagefind-body>
-<span hidden data-pagefind-meta="where">A whole collection, {{ .Params.counts.letters }} letters</span>
-<span hidden data-pagefind-filter="kind">Collections</span>
-<h1 id="title">{{ .Title }}</h1>
-<p class="credit">{{ .Params.subtitle }}{{ with .Params.imprint }} <span class="sep" aria-hidden="true">·</span> {{ . }}{{ end }}</p>
-<dl class="figures">
-<div><dt>Letters</dt><dd>{{ $c.letters }}</dd></div>
-<div><dt>Notes</dt><dd>{{ $c.notes }}</dd></div>
-<div><dt>Pages</dt><dd>{{ $c.pages }}</dd></div>
-<div><dt>Proofread by people</dt><dd>{{ printf "%.0f" (mul (div (float $humanPages) $proof.total_pages) 100) }}%</dd></div>
-</dl>
-<div class="actions">
-<a class="btn solid" href="#contents">Letter by letter<span aria-hidden="true">→</span></a>
-<a class="u tap" href="#take">Download the book</a>
-</div>
-</div>
 </div>
 </section>
 
-<section id="take" class="take" aria-labelledby="takeh">
-<div class="wrap">
-<div class="intro">
-<h2 id="takeh">Take this book with you</h2>
-<p>The whole edition, free to keep and reuse. Every file is made from the same text you read here. {{ with $id }}The original scan is at the <a class="u" href="https://archive.org/details/{{ . }}">Internet Archive</a>.{{ else }}No public scan of this edition is linked yet.{{ end }}</p>
-</div>
-{{- $what := dict "epub" (slice "EPUB" "For e-readers and phone reading apps.") "markdown" (slice "Markdown" "Plain text, easy to quote, search and edit.") "tei" (slice "TEI XML" "The scholarly standard, every letter marked up.") }}
-<ul>
-{{- range .Params.downloads }}
-{{- $w := index $what .format }}
-<li><a href="{{ $p.RelPermalink }}{{ .file }}" download>
-<span class="name">{{ index $w 0 }}</span>
-<span class="what">{{ index $w 1 }}</span>
-<span class="dl"><span class="mono">{{ printf "%.0f KB" (div (float .bytes) 1024) }}</span><span class="u">Download</span></span>
-</a></li>
-{{- end }}
-</ul>
-</div>
-</section>
-
-<section class="wash strip-sec" aria-labelledby="pages">
-<div class="wrap">
-<div class="sec-head">
-<h2 id="pages">The book, page by page</h2>
-<p>All {{ $c.pages }} leaves of the scan, in order. Tall black leaves carry letters; grey leaves are the editor’s own words between them; the short pale ones are the front matter, appendices and index.</p>
-</div>
-<div class="chart-box" tabindex="0" role="region" aria-label="Page strip, scrolls sideways">
-{{ partial "page-strip.html" (dict "kinds" .Params.page_kinds "h" 96 "label" (printf "The %d leaves of the book, coloured by what is printed on them." (int $c.pages))) }}
-</div>
-<p class="swipe-hint" aria-hidden="true">Swipe sideways to see every page →</p>
-<ol class="parts">
-{{- range .Params.parts }}<li>{{ .label }}<span class="mono">{{ .start }}–{{ .end }}</span></li>{{ end }}
-</ol>
-</div>
-</section>
-
-{{- with .Params.year_counts }}
-<section class="wrap years-sec" aria-labelledby="years">
-<div class="sec-head">
-<h2 id="years">Year by year</h2>
-<p>One stroke for each dated letter{{ with $p.Params.periods }}, set against the places of the writer’s life as the book’s own chronology gives them{{ end }}. The silences say as much as the letters.</p>
-</div>
-<div class="chart-box" tabindex="0" role="region" aria-label="Year chart, scrolls sideways">{{ partial "year-chart.html" $p }}</div>
-<p class="swipe-hint" aria-hidden="true">Swipe sideways to see every year →</p>
+{{- with index $letters 0 }}
+<section class="wrap showcase" aria-labelledby="first-h">
+<a class="first-letter" href="{{ .RelPermalink }}">
+<span class="fl-kick" id="first-h">The first letter in the book</span>
+<span class="fl-open">{{ .Description }}</span>
+<span class="fl-meta"><span>{{ .Params.heading }}</span>{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.place }}<span>{{ . }}</span>{{ end }}</span>
+<span class="fl-go">Read it<span aria-hidden="true"> →</span></span>
+</a>
 </section>
 {{- end }}
 
@@ -88,48 +53,117 @@
 <h2 id="toc">The letters</h2>
 <label class="find js-only flexy">Find<input type="search" placeholder="A word, a name, a year" data-find-input aria-describedby="find-status"></label>
 </div>
+{{- /* Groups: the writer's life periods when the book has them, otherwise decades; undated letters last. */ -}}
+{{- $groups := slice -}}
+{{- if .Params.periods -}}
+{{- range .Params.periods -}}
+{{- if gt .count 0 -}}
+{{- $groups = $groups | append (dict "id" (urlize .label) "label" (printf "%s, %s–%s" .label (substr .start 0 4) (substr .end 0 4)) "short" .label "rows" (where $letters "Params.period" .label)) -}}
+{{- end -}}
+{{- end -}}
+{{- with where $letters "Params.period" "" }}{{ $groups = $groups | append (dict "id" "other" "label" "Undated, or outside these periods" "short" "Other" "rows" .) }}{{ end -}}
+{{- else -}}
+{{- $decs := slice -}}
+{{- range $letters }}{{ with partial "letter-decade.html" . }}{{ $decs = $decs | append . }}{{ end }}{{ end -}}
+{{- range sort (uniq $decs) -}}
+{{- $d := . -}}
+{{- $rows := slice -}}{{- range $letters }}{{ if eq (partial "letter-decade.html" .) $d }}{{ $rows = $rows | append . }}{{ end }}{{ end -}}
+{{- $groups = $groups | append (dict "id" (printf "d%d" $d) "label" (printf "%ds" $d) "short" (printf "%ds" $d) "rows" $rows) -}}
+{{- end -}}
+{{- with where $letters "Params.letter_date.iso" "" }}{{ $groups = $groups | append (dict "id" "undated" "label" (cond (eq (len .) (len $letters)) "All letters, in the order printed" "Undated") "short" "Undated" "rows" .) }}{{ end -}}
+{{- end -}}
+{{- if gt (len $groups) 1 }}
+<nav class="tabs" aria-label="Jump to" data-tabs>
+<div class="tabs-track">
+{{- range $groups }}<a href="#g-{{ .id }}" data-tab="g-{{ .id }}">{{ .short }}<span class="n">{{ len .rows }}</span></a>{{ end -}}
+</div>
+</nav>
+{{- end }}
 <p id="find-status" class="find-status" aria-live="polite" data-find-status></p>
 <div class="groups">
-{{- range .Params.periods }}
-{{- if gt .count 0 }}
-{{- $rows := where $letters "Params.period" .label }}
-<section aria-label="{{ .label }}" data-find-group>
+{{- range $groups }}
+<section id="g-{{ .id }}" aria-label="{{ .label }}" data-find-group data-group>
 <div class="group-head">
-<h3>{{ .label }}, {{ substr .start 0 4 }}–{{ substr .end 0 4 }}</h3>
-<span>{{ len $rows }} {{ cond (eq (len $rows) 1) "letter" "letters" }}</span>
+<h3>{{ .label }}</h3>
+<span>{{ len .rows }} {{ cond (eq (len .rows) 1) "letter" "letters" }}</span>
 </div>
-<ol class="rows">{{ range $rows }}{{ partial "letter-row.html" . }}{{ end }}</ol>
-</section>
-{{- end }}
-{{- end }}
-{{- $rest := where $letters "Params.period" "" }}
-{{- with $rest }}
-<section aria-label="{{ if $p.Params.periods }}Outside these periods{{ else }}All letters{{ end }}" data-find-group>
-<div class="group-head">
-<h3>{{ if $p.Params.periods }}Undated, or outside these periods{{ else }}All letters, in the order printed{{ end }}</h3>
-<span>{{ len . }} {{ cond (eq (len .) 1) "letter" "letters" }}</span>
-</div>
-<ol class="rows">{{ range . }}{{ partial "letter-row.html" . }}{{ end }}</ol>
+<ol class="rows">{{ range .rows }}{{ partial "letter-row.html" . }}{{ end }}</ol>
 </section>
 {{- end }}
 </div>
 </div>
 </section>
 
-<section class="wash colophon" aria-labelledby="ed">
+<section id="edition" class="edition wash" aria-labelledby="ed">
 <div class="wrap">
-{{- with and $id .Params.title_page }}
+<div class="ed-head">
+<p class="kick">Colophon</p>
+<h2 id="ed">About this edition</h2>
+</div>
+
+<div class="ed-intro">
+<div class="text">
+<p>This edition reproduces <i>{{ .Title }}</i>{{ with .Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}{{ with .Params.imprint }} ({{ . }}){{ end }}. It was typed page by page from {{ if $id }}the Internet Archive scan{{ else }}a scan of the printed book{{ end }}, keeping the spelling and punctuation exactly as printed.</p>
+<p>Every printed page is included: {{ lang.FormatNumber 0 (int $c.letters) }} letters and {{ lang.FormatNumber 0 (int $c.notes) }} notes across {{ $c.pages }} scan leaves, with the editor’s own pages between the letters. The text is in the public domain, and this transcription is free to reuse under CC BY 4.0, with credit to Paper Lanterns.</p>
+</div>
+{{- $plates := slice -}}
+{{- if $id }}{{ with .Params.frontispiece }}{{ $plates = $plates | append (dict "leaf" .leaf "page" .page "cap" .caption "what" "The frontispiece") }}{{ end }}{{ with .Params.title_page }}{{ $plates = $plates | append (dict "leaf" .leaf "page" .page "cap" (printf "The title page, %d" (int $p.Params.year)) "what" "The title page") }}{{ end }}{{ end -}}
+{{- with $plates }}
+<div class="plates">
+{{- range . }}
 <figure class="plate-fig">
-<div class="frame">{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "The title page of the %d edition." (int $p.Params.year)) "lazy" true "sizes" "(min-width: 761px) 300px, 100vw") }}</div>
-<figcaption><span class="cap">The title page, {{ $p.Params.year }}</span><br><span class="muted">scan leaf {{ .page }}</span></figcaption>
+<div class="frame">{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "%s of the %d edition: %s" .what (int $p.Params.year) .cap) "lazy" true "sizes" "(min-width: 761px) 260px, 45vw") }}</div>
+<figcaption><span class="cap">{{ .cap }}</span><br><span class="muted">scan leaf {{ .page }}</span></figcaption>
 </figure>
 {{- end }}
-<div class="text">
-<div class="kick">Colophon</div>
-<h2 id="ed">About this edition</h2>
-<p>This edition reproduces <i>{{ .Title }}</i>{{ with .Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}{{ with .Params.imprint }} ({{ . }}){{ end }}. It was typed page by page from {{ if $id }}the Internet Archive scan{{ else }}a scan of the printed book{{ end }}, keeping the spelling and punctuation exactly as printed.</p>
-<p>Every printed page is included: {{ $c.letters }} letters and {{ $c.notes }} notes across {{ $c.pages }} scan leaves, with the editor’s own pages between the letters. The text is in the public domain, and this transcription is free to reuse under CC BY 4.0, with credit to Paper Lanterns.</p>
-<div class="stages-h">How far it has been checked</div>
+</div>
+{{- end }}
+</div>
+
+<dl class="figures">
+<div><dt>Letters</dt><dd>{{ lang.FormatNumber 0 (int $c.letters) }}</dd></div>
+<div><dt>Notes</dt><dd>{{ lang.FormatNumber 0 (int $c.notes) }}</dd></div>
+<div><dt>Pages</dt><dd>{{ $c.pages }}</dd></div>
+<div><dt>Proofread by people</dt><dd>{{ printf "%.0f" (mul (div (float $humanPages) $proof.total_pages) 100) }}%</dd></div>
+</dl>
+
+{{- with .Params.year_counts }}
+<div class="ed-block">
+<h3 id="years">Year by year</h3>
+<p class="ed-note">One stroke for each dated letter{{ with $p.Params.periods }}, set against the places of the writer’s life as the book’s own chronology gives them{{ end }}.</p>
+<div class="chart-box" tabindex="0" role="region" aria-label="Year chart, scrolls sideways">{{ partial "year-chart.html" $p }}</div>
+<p class="swipe-hint" aria-hidden="true">Swipe sideways to see every year →</p>
+</div>
+{{- end }}
+
+<div class="ed-block">
+<h3 id="pages">The book, page by page</h3>
+<p class="ed-note">All {{ $c.pages }} leaves of the scan, in order: tall marks carry letters, middling ones the editor’s words between them, short ones the front matter, appendices and index.</p>
+<div class="chart-box" tabindex="0" role="region" aria-label="Page strip, scrolls sideways">
+{{ partial "page-strip.html" (dict "kinds" .Params.page_kinds "h" 96 "label" (printf "The %d leaves of the book, marked by what is printed on them." (int $c.pages))) }}
+</div>
+<ol class="parts">
+{{- range .Params.parts }}<li><span class="key k-{{ cond (eq .kind "epistolary_part") "L" (cond (eq .kind "chapter") "n" "o") }}" aria-hidden="true"></span><span class="pt">{{ .label }}</span><span class="pp">{{ if eq .start .end }}p. {{ .start }}{{ else }}pp. {{ .start }}–{{ .end }}{{ end }}</span></li>{{ end }}
+</ol>
+</div>
+
+<div class="ed-block" id="take">
+<h3 id="takeh">Take this book with you</h3>
+<p class="ed-note">The whole edition, free to keep and reuse, made from the same text you read here.{{ with $id }} The original scan is at the <a class="u" href="https://archive.org/details/{{ . }}">Internet Archive</a>.{{ end }}</p>
+{{- $what := dict "epub" "For e-readers and phone reading apps." "markdown" "Plain text, easy to quote, search and edit." "tei" "The scholarly standard, every letter marked up." }}
+<ul class="files">
+{{- range .Params.downloads }}{{ $b := float .bytes }}
+<li><a href="{{ $p.RelPermalink }}{{ .file }}" download>
+<span class="f-icon" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg></span>
+<span class="f-text"><span class="f-name">{{ index $names .format }}</span><span class="f-what">{{ index $what .format }}</span></span>
+<span class="f-size">{{ if ge $b 1048576 }}{{ printf "%.1f MB" (div $b 1048576) }}{{ else }}{{ printf "%.0f KB" (div $b 1024) }}{{ end }}</span>
+</a></li>
+{{- end }}
+</ul>
+</div>
+
+<div class="ed-block">
+<h3>How far it has been checked</h3>
 {{- $checked := in (slice "machine_checked" "community" "source_certified") .Params.provenance_tier }}
 <ol class="stages" aria-label="Checking stages">
 <li class="done"><span class="dot" aria-hidden="true"></span><span class="name">Read by machine</span><span class="state">done</span></li>
