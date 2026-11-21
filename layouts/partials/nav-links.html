@@ -1,3 +1,5 @@
 {{- $here := . -}}
 <a href="{{ "/" | relURL }}"{{ if $here.IsHome }} aria-current="page"{{ end }}>Home</a>
-<a href="{{ "/collections/" | relURL }}"{{ if eq $here.Section "collections" }} aria-current="page"{{ end }}>Collections</a>
+<a href="{{ "/collections/" | relURL }}"{{ if or (eq $here.Section "collections") (eq $here.Section "sets") }} aria-current="page"{{ end }}>Collections</a>
+<a href="{{ "/letters/" | relURL }}"{{ if eq $here.Section "letters" }} aria-current="page"{{ end }}>Letters</a>
+<a href="{{ "/essays/" | relURL }}"{{ if in (slice "essays" "lectures" "speeches") $here.Section }} aria-current="page"{{ end }}>Essays &amp; speeches</a>

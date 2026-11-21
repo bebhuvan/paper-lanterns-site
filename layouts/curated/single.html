@@ -1,0 +1,57 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+{{- $p := . -}}
+{{- $date := partial "curated-date.html" . -}}
+{{- $kind := .Params.form | default "letter" -}}
+{{- $siblings := sort .CurrentSection.RegularPages "Date" -}}
+{{- $idx := 0 -}}{{- range $i, $s := $siblings }}{{ if eq $s.RelPermalink $p.RelPermalink }}{{ $idx = $i }}{{ end }}{{ end -}}
+{{- $prev := false -}}{{- if gt $idx 0 }}{{ $prev = index $siblings (sub $idx 1) }}{{ end -}}
+{{- $next := false -}}{{- if lt $idx (sub (len $siblings) 1) }}{{ $next = index $siblings (add $idx 1) }}{{ end -}}
+{{- $about := .Params.about | default dict -}}
+<main id="main" class="wrap curated">
+<article class="letter curated-text" lang="en">
+<p class="kicker-heading"><a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a>{{ with $date.display }} · {{ . }}{{ end }}</p>
+<div class="pair"><span>{{ .Params.author.name }}</span>{{ with .Params.recipient }}<span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ . }}</span>{{ end }}</div>
+<h1>{{ .Title }}</h1>
+<div class="meta">{{ with $date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.location }}<span>{{ . }}</span>{{ end }}{{ with .Params.occasion }}<span>{{ . }}</span>{{ end }}{{ with .Params.institution }}<span>{{ . }}</span>{{ end }}</div>
+<div class="text prose">
+{{ .Content }}
+{{- with .Params.signature }}<p class="t-signature a-right">{{ . }}</p>{{ end }}
+</div>
+{{- with .Params.video }}
+<p class="hint">A recording is on YouTube: <a class="u" href="https://www.youtube.com/watch?v={{ .youtube_id }}">{{ .title }}</a>.</p>
+{{- end }}
+</article>
+
+<div class="after">
+<div class="mark" aria-hidden="true">{{ partial "logo.html" (dict "w" 48 "sw" 1) }}</div>
+{{- if or $prev $next }}
+<nav class="neighbours" aria-label="Earlier and later">
+{{- with $prev }}<a href="{{ .RelPermalink }}"><span class="top"><span>← Earlier</span>{{ with (partial "curated-date.html" .).year }}<span class="mono">{{ . }}</span>{{ end }}</span><span class="tt">{{ .Title }}</span><span class="q">{{ .Params.author.name }}</span></a>{{ end }}
+{{- with $next }}<a href="{{ .RelPermalink }}"><span class="top"><span>Later →</span>{{ with (partial "curated-date.html" .).year }}<span class="mono">{{ . }}</span>{{ end }}</span><span class="tt">{{ .Title }}</span><span class="q">{{ .Params.author.name }}</span></a>{{ end }}
+</nav>
+{{- end }}
+<section class="about" aria-labelledby="about-h">
+<div class="head"><h2 id="about-h">About this {{ $kind }}</h2></div>
+<div class="grid">
+<dl>
+{{- with .Params.context }}<div><dt>Context</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
+{{- with $about.context }}{{ if ne . $p.Params.context }}<div><dt>Background</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}{{ end }}
+{{- with $about.significance }}<div><dt>Why it matters</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
+{{- with ($about.author_bio | default .Params.author.bio | default .Params.author.description) }}<div><dt>{{ $p.Params.author.name }}{{ with $p.Params.author.birth_year }} ({{ . }}{{ with $p.Params.author.death_year }}–{{ . }}{{ end }}){{ end }}</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
+{{- with $about.recipient_info }}<div><dt>{{ $p.Params.recipient | default "The recipient" }}</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
+{{- range $k := slice "occasion_info" "series_info" "publication_info" }}{{ with index $about $k }}<div><dt>{{ humanize (replace $k "_info" "") }}</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}{{ end }}
+</dl>
+<dl>
+<div><dt>Source</dt><dd>{{ .Params.source | markdownify }}{{ with .Params.source_url }} <a class="u" href="{{ . }}">Read the source</a>{{ end }}</dd></div>
+<div><dt>How it was checked</dt><dd>Chosen and transcribed by hand from the source named above. Unlike the collections, this text has not yet been set beside a scan of the printed page.</dd></div>
+{{- with $about.links }}<div><dt>Further reading</dt><dd><ul class="links">{{ range . }}<li><a class="u" href="{{ .url }}">{{ .title }}</a>{{ with .description }}<span class="muted"> · {{ . }}</span>{{ end }}</li>{{ end }}</ul></dd></div>{{ end }}
+{{- $sets := slice -}}{{- range .Params.collections }}{{ with site.GetPage (printf "/sets/%s" .) }}{{ $sets = $sets | append . }}{{ end }}{{ end -}}
+{{- with $sets }}<div><dt>In the curated sets</dt><dd class="chips">{{ range . }}<a href="{{ .RelPermalink }}">{{ .Params.name }}</a>{{ end }}</dd></div>{{ end }}
+</dl>
+</div>
+</section>
+</div>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

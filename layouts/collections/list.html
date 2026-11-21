@@ -15,6 +15,16 @@
 </ol>
 </section>
 {{- end }}
+{{- with site.GetPage "/sets" }}
+<section class="wrap cols-sec shelf" aria-labelledby="shelf-sets">
+<div class="sec-head"><h2 id="shelf-sets">Curated sets</h2><p>Single letters chosen by hand and gathered by theme, each with its source.</p></div>
+<ol class="set-list">
+{{- range sort .RegularPages "Params.name" }}
+<li><a href="{{ .RelPermalink }}"><span class="nm">{{ .Params.name }}</span><span class="ds">{{ .Params.description }}</span></a></li>
+{{- end }}
+</ol>
+</section>
+{{- end }}
 </main>
 {{ partial "footer.html" . }}
 {{ end }}

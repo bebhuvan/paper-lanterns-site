@@ -1,0 +1,13 @@
+{{- /* Returns {display, short, year} for a curated page's date, or empty strings. */ -}}
+{{- $d := dict "display" "" "short" "" "year" "" -}}
+{{- if not .Date.IsZero -}}
+{{- $roman := slice "I" "II" "III" "IV" "V" "VI" "VII" "VIII" "IX" "X" "XI" "XII" -}}
+{{- $y := cond (lt .Date.Year 1000) (printf "AD %d" .Date.Year) (printf "%d" .Date.Year) -}}
+{{- /* 1 January is how the old site recorded a year with no known day: show the year alone, never an invented day. */ -}}
+{{- if and (eq (int .Date.Month) 1) (eq .Date.Day 1) -}}
+{{- $d = dict "display" $y "short" $y "year" $y -}}
+{{- else -}}
+{{- $d = dict "display" (printf "%d %s %s" .Date.Day (.Date.Format "January") $y) "short" (printf "%d · %s · %s" .Date.Day (index $roman (sub (int .Date.Month) 1)) $y) "year" $y -}}
+{{- end -}}
+{{- end -}}
+{{- return $d -}}

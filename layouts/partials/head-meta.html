@@ -1,5 +1,5 @@
 {{- /* Page title, description, canonical link, Open Graph and Twitter tags, and schema.org JSON-LD. */ -}}
-{{- $title := .Title -}}
+{{- $title := .Title | default .Params.name -}}
 {{- with .Params.page_title }}{{ $title = . }}{{ end -}}
 {{- $full := cond .IsHome site.Title (printf "%s · %s" $title site.Title) -}}
 {{- $desc := .Description -}}
@@ -21,7 +21,7 @@
 <meta property="og:title" content="{{ $title }}">
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:type" content="{{ cond (eq .Params.layout "letter") "article" (cond (eq .Params.layout "book") "book" "website") }}">
+<meta property="og:type" content="{{ cond (or (eq .Params.layout "letter") (and .IsPage (in (slice "curated" "garden") .Type))) "article" (cond (eq .Params.layout "book") "book" "website") }}">
 <meta property="og:locale" content="en">
 {{- with $image }}
 <meta property="og:image" content="{{ . }}">

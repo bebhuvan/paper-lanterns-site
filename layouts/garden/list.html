@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+<main id="main">
+<section class="wrap page-title" aria-labelledby="title"><h1 id="title">{{ .Title }}</h1><p>{{ .Params.intro }}</p></section>
+<section class="wrap contents-plain" aria-label="Notes, newest first">
+<ol class="rows">
+{{- range .RegularPages.ByDate.Reverse }}
+<li><a href="{{ .RelPermalink }}"><span class="n"><span class="num">{{ .Date.Format "2 Jan 2006" }}</span><span class="d">{{ humanize .Params.type }}</span></span><span class="txt"><span class="inc">{{ .Title }}</span>{{ with .Params.content }}<span class="ex">{{ . | plainify | truncate 180 }}</span>{{ end }}</span></a></li>
+{{- end }}
+</ol>
+</section>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

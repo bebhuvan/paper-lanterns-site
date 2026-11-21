@@ -1,0 +1,17 @@
+{{- /* Fallback single page. Garden notes land here: their own front matter field `type` (links, quotes, notes, thoughts) names their kind and so overrides the section type. */ -}}
+{{ define "main" }}
+{{ partial "header.html" . }}
+<main id="main" class="wrap curated">
+<article class="letter curated-text">
+<p class="kicker-heading"><a href="{{ .CurrentSection.RelPermalink }}">Garden</a> · {{ .Date.Format "2 January 2006" }}</p>
+<h1>{{ .Title }}</h1>
+<div class="text prose">
+{{ with .Params.content }}<p>{{ . }}</p>{{ end }}
+{{ .Content }}
+{{- with .Params.link }}{{ with .url }}<p><a class="u" href="{{ . }}">{{ $.Params.link.title | default . }}</a></p>{{ end }}{{ end }}
+{{- with .Params.attribution }}<p class="t-signature a-right">{{ . }}</p>{{ end }}
+</div>
+</article>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

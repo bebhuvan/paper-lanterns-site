@@ -3,7 +3,7 @@
 baseURL = "https://paperlanterns.inc/"
 languageCode = "en"
 title = "Paper Lanterns"
-disableKinds = ["taxonomy", "term", "rss"]
+disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 
 [module.hugoVersion]
@@ -12,6 +12,19 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
   # Templates escape every run of letter text; nothing needs raw HTML (D6).
   unsafe = false
+
+[markup.goldmark.parser.attribute]
+  # Lets imported essays mark verse paragraphs with {.poem} (D15).
+  block = true
+
+# The old site's addresses, kept exactly (D15): /letter/<file>/, /essay/<file>/ and so on.
+[permalinks.page]
+  letters = "/letter/:filename/"
+  essays = "/essay/:filename/"
+  lectures = "/lecture/:filename/"
+  speeches = "/speech/:filename/"
+  garden = "/garden/:filename/"
+  sets = "/collection/:filename/"
 
 [mediaTypes."text/cfheaders"]
   delimiter = ""
@@ -22,8 +35,27 @@ enableRobotsTXT = true
   isPlainText = true
   notAlternative = true
 
+# The old site's feed and JSON endpoints keep their addresses (D16).
+[outputFormats.RSS]
+  baseName = "rss"
+
+[outputFormats.searchdata]
+  mediaType = "application/json"
+  baseName = "search-data"
+  isPlainText = true
+  notAlternative = true
+
+[outputFormats.randomcontent]
+  mediaType = "application/json"
+  path = "api"
+  baseName = "random-content"
+  isPlainText = true
+  notAlternative = true
+
 [outputs]
-  home = ["HTML", "headers"]
+  home = ["HTML", "headers", "RSS", "searchdata", "randomcontent"]
+  section = ["HTML"]
+  page = ["HTML"]
 
 [params]
   description = "Whole collections of public-domain letters, typed exactly as printed and set beside the page they came from."

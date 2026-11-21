@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+{{- $slug := .File.ContentBaseName -}}
+{{- $members := slice -}}
+{{- range (site.GetPage "/letters").RegularPages }}{{ if in .Params.collections $slug }}{{ $members = $members | append . }}{{ end }}{{ end -}}
+<main id="main">
+<section class="wrap page-title" aria-labelledby="title">
+<nav class="crumb" aria-label="Breadcrumb"><a href="{{ "/collections/" | relURL }}">Collections</a><span aria-hidden="true">  /  </span><span>Curated sets</span></nav>
+<h1 id="title">{{ .Params.name }}</h1>
+<p>{{ .Params.description }}</p>
+</section>
+<section class="wrap prose-wrap"><div class="text prose">{{ .Content }}</div></section>
+<section class="wrap contents-plain" aria-label="Letters in this set">
+<h2 class="set-count">{{ len $members }} {{ cond (eq (len $members) 1) "letter" "letters" }}</h2>
+<ol class="rows">
+{{- range sort $members "Date" }}
+{{- $d := partial "curated-date.html" . }}
+<li><a href="{{ .RelPermalink }}"><span class="n"><span class="num">{{ $d.year | default "Undated" }}</span><span class="d">{{ .Params.author.name }}</span></span><span class="txt"><span class="inc">{{ .Title }}</span><span class="to">{{ with .Params.recipient }}To {{ . }}{{ end }}</span></span></a></li>
+{{- end }}
+</ol>
+</section>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}
