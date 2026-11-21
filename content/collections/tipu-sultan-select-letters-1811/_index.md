@@ -25,6 +25,39 @@
   "dated_letters": 50
  },
  "provenance_tier": "community",
+ "quality": {
+  "score": 76.0,
+  "out_of": 100.0,
+  "pillars": [
+   {
+    "key": "text",
+    "score": 26.0,
+    "out_of": 30.0
+   },
+   {
+    "key": "structure",
+    "score": 10.0,
+    "out_of": 25.0
+   },
+   {
+    "key": "notes",
+    "score": 15.0,
+    "out_of": 20.0
+   },
+   {
+    "key": "completeness",
+    "score": 15.0,
+    "out_of": 15.0
+   },
+   {
+    "key": "files",
+    "score": 10.0,
+    "out_of": 10.0
+   }
+  ],
+  "flagged": 16,
+  "blockers": 0
+ },
  "proof": {
   "total_pages": 670,
   "p1_proofed": 0,
