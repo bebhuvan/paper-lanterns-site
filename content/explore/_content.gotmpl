@@ -1,0 +1,10 @@
+{{- /* One page per decade that has a dated letter, from data/decades.json (scripts/build_indexes.py). */ -}}
+{{- range site.Data.decades -}}
+{{- $label := cond (lt (int .decade) 1000) (printf "AD %ds" (int .decade)) (printf "%ds" (int .decade)) -}}
+{{- $.AddPage (dict
+  "path" .slug
+  "kind" "page"
+  "title" (printf "Letters of the %s" $label)
+  "params" (dict "decade" .decade "label" $label "count" .count "books" .books "curated" .curated)
+) -}}
+{{- end -}}

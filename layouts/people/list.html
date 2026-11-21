@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+<main id="main">
+<section class="wrap page-title" aria-labelledby="title">
+<h1 id="title">{{ .Title }}</h1>
+<p>{{ .Params.intro }}</p>
+</section>
+<section class="wrap contents-plain" aria-label="Everyone, A to Z">
+<ol class="people-list">
+{{- range sort .RegularPages "Title" }}
+{{- $n := 0 }}{{ range $k, $v := .Params.letters }}{{ $n = add $n (int $v) }}{{ end }}
+<li><a href="{{ .RelPermalink }}"><span class="pn">{{ .Title }}</span><span class="pd">
+{{- $parts := slice -}}
+{{- with .Params.credits }}{{ $parts = $parts | append (printf "%d %s" (len .) (cond (eq (len .) 1) "volume" "volumes")) }}{{ end -}}
+{{- with $n }}{{ $parts = $parts | append (printf "%d %s in the collections" . (cond (eq . 1) "letter" "letters")) }}{{ end -}}
+{{- with .Params.curated }}{{ $parts = $parts | append (printf "%d chosen by hand" (len .)) }}{{ end -}}
+{{ delimit $parts " · " }}</span></a></li>
+{{- end }}
+</ol>
+</section>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

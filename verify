@@ -47,6 +47,8 @@ else
   echo "skipped: pipeline repository not found at $PIPELINE (expected in CI)"
 fi
 LEGACY_SITE="${PL_LEGACY_SITE:-$HOME/Documents/Bhuvan/A main projects/Paper-lanterns}"
+python3 -I scripts/build_indexes.py --check
+echo "data/decades.json and data/people.json are current"
 if [[ -d "$LEGACY_SITE/src/content" ]]; then
   python3 -I scripts/import_legacy.py --check "$LEGACY_SITE"
 else

@@ -1,0 +1,9 @@
+{{- /* One page per person in data/people.json (scripts/build_indexes.py). */ -}}
+{{- range site.Data.people -}}
+{{- $.AddPage (dict
+  "path" .slug
+  "kind" "page"
+  "title" .name
+  "params" (dict "credits" .credits "curated" .curated "letters" .letters "also" .also)
+) -}}
+{{- end -}}

@@ -12,6 +12,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
 import addresses  # noqa: E402
+import build_indexes  # noqa: E402
 import import_legacy  # noqa: E402
 import check_site  # noqa: E402
 import sync_from_pipeline as sync  # noqa: E402
@@ -213,6 +214,38 @@ class LedgerFilesAndLegacyTests(unittest.TestCase):
             ledger.write_text("/\n/rss.xml\n/api/random-content.json\n", encoding="utf-8")
             found = addresses.check(public, ledger, root / "_redirects", legacy)
             self.assertTrue(any("no longer served" in p and "/rss.xml" in p for p in found), found)
+
+
+class BuildIndexesTests(unittest.TestCase):
+    def test_credits_keep_their_recorded_role(self) -> None:
+        self.assertEqual(build_indexes.split_credit("Ethel Colburn Mayne (tr.)"), ("Ethel Colburn Mayne", "tr."))
+        self.assertEqual(build_indexes.split_credit("Victor Hugo"), ("Victor Hugo", ""))
+
+    def test_people_join_same_person_forms_and_count_exact_signatures_only(self) -> None:
+        books = [{"book_id": "b", "authors": ["M. K. Gandhi", "R. L. Khipple (ed.)"]}]
+        letters = [
+            {"path": "/collections/b/1", "book_id": "b", "iso": "1920", "names": {"Mahatma Gandhi"}},
+            {"path": "/collections/b/2", "book_id": "b", "iso": "1930", "names": {"M. K. Gandhi", "Gandhi"}},
+            {"path": "/collections/b/3", "book_id": "b", "iso": "", "names": {"Gandhiji"}},
+        ]
+        curated = [{"path": "/letters/x", "section": "letters", "author": "Mohandas K. Gandhi", "year": 1931}]
+        same = {"Mahatma Gandhi": "M. K. Gandhi", "Mohandas K. Gandhi": "M. K. Gandhi"}
+        people = {p["slug"]: p for p in build_indexes.build_people(books, letters, curated, same)}
+        g = people["m-k-gandhi"]
+        self.assertEqual(g["letters"], {"b": 2})
+        self.assertEqual(g["curated"], ["/letters/x"])
+        self.assertEqual(people["r-l-khipple"]["credits"], [{"book_id": "b", "role": "ed."}])
+        self.assertNotIn("gandhiji", people)
+
+    def test_decades_include_curated_letters_and_skip_undated(self) -> None:
+        letters = [{"path": "/collections/b/1", "book_id": "b", "iso": "1849-12-22", "names": set()},
+                   {"path": "/collections/b/2", "book_id": "b", "iso": "", "names": set()}]
+        curated = [{"path": "/letters/s", "section": "letters", "author": "Seneca", "year": 62},
+                   {"path": "/essays/e", "section": "essays", "author": "X", "year": 1845}]
+        decades = {d["slug"]: d for d in build_indexes.build_decades(letters, curated)}
+        self.assertEqual(sorted(decades), ["1840s", "60s"])
+        self.assertEqual(decades["1840s"]["count"], 1)
+        self.assertEqual(decades["60s"]["curated"], ["/letters/s"])
 
 
 class ImportLegacyTests(unittest.TestCase):

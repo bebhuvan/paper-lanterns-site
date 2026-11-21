@@ -25,6 +25,7 @@ lectures, speeches and notes at their old addresses. Nothing is deployed yet.
 | `assets/css/site.css`, `assets/js/site.js` | All styling and all interactivity (the pages read fully without the script) |
 | `static/fonts/` | Self-hosted Newsreader and IBM Plex Mono (SIL Open Font Licence, files included) |
 | `scripts/sync_from_pipeline.py` | Copies one book from the pipeline, checking every SHA-256 |
+| `scripts/build_indexes.py`, `data/` | People and Explore indexes derived from the content (`data/people-same-person.json` is the one hand-kept list) |
 | `scripts/check_site.py` | Checks the built pages: structure, links, ids, CSP hazards, JSON-LD |
 | `published-addresses.txt`, `scripts/addresses.py` | Every address the site has served; `verify` fails if one stops working without a redirect in `static/_redirects` |
 | `scripts/check_mobile.mjs` | Opens the built pages in headless Chromium at 360, 390 and 768 px; fails on sideways scroll, small touch targets or small letter text |
@@ -57,8 +58,12 @@ cd "../Paper Lanterns New" && uv run lanterns render-hugo dostoevsky-family-frie
 python3 scripts/sync_from_pipeline.py dostoevsky-family-friends-1914
 ```
 
-The sync replaces the book's folders wholesale, so a letter removed upstream disappears here too. Then record any new
-addresses and commit both:
+The sync replaces the book's folders wholesale, so a letter removed upstream disappears here too. Then rebuild the People and Explore indexes, record any new addresses, and commit:
+
+```bash
+python3 scripts/build_indexes.py
+```
+
 
 ```bash
 hugo --destination /tmp/pl-build && python3 scripts/addresses.py update /tmp/pl-build

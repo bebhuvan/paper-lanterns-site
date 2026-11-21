@@ -1,0 +1,19 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+<main id="main">
+<section class="wrap page-title" aria-labelledby="title">
+<h1 id="title">{{ .Title }}</h1>
+<p>{{ .Params.intro }}</p>
+</section>
+{{ partial "decade-chart.html" (dict "letters" (partial "letters.html" .)) }}
+<section class="wrap contents-plain" aria-labelledby="all-decades">
+<h2 id="all-decades" class="set-count">All {{ len .RegularPages }} decades</h2>
+<ol class="decade-list">
+{{- range sort .RegularPages "Params.decade" }}
+<li><a href="{{ .RelPermalink }}"><span class="dl-d">{{ .Params.label }}</span><span class="dl-n">{{ .Params.count }} {{ cond (eq (int .Params.count) 1) "letter" "letters" }}</span></a></li>
+{{- end }}
+</ol>
+</section>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

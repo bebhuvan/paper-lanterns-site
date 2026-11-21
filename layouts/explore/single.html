@@ -1,0 +1,38 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+{{- $all := sort .CurrentSection.RegularPages "Params.decade" -}}
+{{- $idx := 0 -}}{{- range $i, $d := $all }}{{ if eq $d.RelPermalink $.RelPermalink }}{{ $idx = $i }}{{ end }}{{ end -}}
+<main id="main">
+<section class="wrap page-title" aria-labelledby="title">
+<nav class="crumb" aria-label="Breadcrumb"><a href="{{ .CurrentSection.RelPermalink }}">Explore by decade</a></nav>
+<h1 id="title">{{ .Params.label }}</h1>
+<p>{{ .Params.count }} dated {{ cond (eq (int .Params.count) 1) "letter" "letters" }} from these ten years.</p>
+<nav class="decade-step" aria-label="Neighbouring decades">
+{{- if gt $idx 0 }}{{ with index $all (sub $idx 1) }}<a class="btn" href="{{ .RelPermalink }}">← {{ .Params.label }}</a>{{ end }}{{ end -}}
+{{- if lt $idx (sub (len $all) 1) }}{{ with index $all (add $idx 1) }}<a class="btn" href="{{ .RelPermalink }}">{{ .Params.label }} →</a>{{ end }}{{ end -}}
+</nav>
+</section>
+{{- with .Params.curated }}
+<section class="wrap contents-plain" aria-labelledby="curated-h">
+<h2 id="curated-h" class="set-count">Letters chosen by hand</h2>
+<ol class="rows">
+{{- range . }}{{ with site.GetPage . }}{{ $d := partial "curated-date.html" . }}
+<li><a href="{{ .RelPermalink }}"><span class="n"><span class="num">{{ $d.year }}</span><span class="d">{{ .Params.author.name }}</span></span><span class="txt"><span class="inc">{{ .Title }}</span><span class="to">{{ with .Params.recipient }}To {{ . }}{{ end }}</span></span></a></li>
+{{- end }}{{ end }}
+</ol>
+</section>
+{{- end }}
+{{- range .Params.books }}
+{{- $book := site.GetPage (printf "/collections/%s" .book_id) }}
+<section class="wrap contents-plain" aria-label="{{ $book.Title }}">
+<div class="group-head"><h3><a href="{{ $book.RelPermalink }}">{{ $book.Title }}</a></h3><span>{{ len .paths }} {{ cond (eq (len .paths) 1) "letter" "letters" }}</span></div>
+<ol class="rows">
+{{- range .paths }}{{ with site.GetPage . }}
+<li><a href="{{ .RelPermalink }}"><span class="n"><span class="num">{{ .Params.number | default (printf "%d" (int .Params.sequence)) }}</span><span class="d">{{ .Params.letter_date.display }}</span></span><span class="txt"><span class="inc">“{{ .Title }}”</span><span class="to">{{ .Params.page_title }}</span></span></a></li>
+{{- end }}{{ end }}
+</ol>
+</section>
+{{- end }}
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

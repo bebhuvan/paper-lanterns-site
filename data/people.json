@@ -1,0 +1,1413 @@
+[
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "old-love-letters-1883",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Abby Sage Richardson",
+  "slug": "abby-sage-richardson"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "pascal-provincial-letters-1847",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Abel-François Villemain",
+  "slug": "abel-francois-villemain"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/adams-abigail-john-1776"
+  ],
+  "letters": {},
+  "name": "Abigail Adams",
+  "slug": "abigail-adams"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/lincoln-bixby-1864",
+   "/speeches/lincoln-gettysburg-1863"
+  ],
+  "letters": {
+   "fifty-famous-letters-1930": 1,
+   "nineteenth-century-letters-1919": 1,
+   "selected-english-letters-1914": 1
+  },
+  "name": "Abraham Lincoln",
+  "slug": "abraham-lincoln"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "sand-flaubert-letters-1922",
+    "role": "trans."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Aimée L. McKenzie",
+  "slug": "aimee-l-mckenzie"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/einstein-roosevelt-1939"
+  ],
+  "letters": {},
+  "name": "Albert Einstein",
+  "slug": "albert-einstein"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "dostoevsky-family-friends-1914",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Alexander Eliasberg",
+  "slug": "alexander-eliasberg"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "humboldt-varnhagen-letters-1860",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "humboldt-varnhagen-letters-1860": 73
+  },
+  "name": "Alexander von Humboldt",
+  "slug": "alexander-von-humboldt"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/anonymous-monteagle-gunpowder-plot-1605"
+  ],
+  "letters": {},
+  "name": "Anonymous",
+  "slug": "anonymous"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/chekhov-suvorin-1888"
+  ],
+  "letters": {},
+  "name": "Anton Chekhov",
+  "slug": "anton-chekhov"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "rukaat-i-alamgiri-aurangzeb-1908",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Aurangzeb",
+  "slug": "aurangzeb"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/franklin-daughter-1784",
+   "/letters/franklin-priestley-1780",
+   "/letters/franklin-strahan-1784",
+   "/letters/franklin-washing-air-baths-1768"
+  ],
+  "letters": {
+   "selected-english-letters-1914": 1
+  },
+  "name": "Benjamin Franklin",
+  "slug": "benjamin-franklin"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/bhagat-singh-bk-dutt-1930",
+   "/letters/bhagat-singh-dutt-sister-1930",
+   "/letters/bhagat-singh-father-1930",
+   "/letters/bhagat-singh-ig-prisons-1929",
+   "/letters/bhagat-singh-jaidev-gupta-1930",
+   "/letters/bhagat-singh-sukhdev-1929"
+  ],
+  "letters": {},
+  "name": "Bhagat Singh",
+  "slug": "bhagat-singh"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "pascal-miscellaneous-writings-1849",
+    "role": ""
+   },
+   {
+    "book_id": "pascal-provincial-letters-1847",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "pascal-miscellaneous-writings-1849": 3
+  },
+  "name": "Blaise Pascal",
+  "slug": "blaise-pascal"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "nineteenth-century-letters-1919",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Byron Johnson Rees",
+  "slug": "byron-johnson-rees"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "tagore-letters-to-a-friend-1928",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "C. F. Andrews",
+  "slug": "c-f-andrews"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/raman-nature-1928"
+  ],
+  "letters": {},
+  "name": "C.V. Raman",
+  "slug": "c-v-raman"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "nietzsche-wagner-1921",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Caroline V. Kerr",
+  "slug": "caroline-v-kerr"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/darwin-gray-1860",
+   "/letters/darwin-hooker-1844",
+   "/letters/darwin-huxley-1859",
+   "/letters/darwin-wallace-1858"
+  ],
+  "letters": {},
+  "name": "Charles Darwin",
+  "slug": "charles-darwin"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "faraday-schoenbein-1899",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Christian Friedrich Schoenbein",
+  "slug": "christian-friedrich-schoenbein"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "selected-english-letters-1914",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Claude M. Fuess",
+  "slug": "claude-m-fuess"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "fifty-famous-letters-1930",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Curtis Gentry",
+  "slug": "curtis-gentry"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/naoroji-drain-theory-1901"
+  ],
+  "letters": {},
+  "name": "Dadabhai Naoroji",
+  "slug": "dadabhai-naoroji"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/ambedkar-dubois-1946"
+  ],
+  "letters": {},
+  "name": "Dr. B.R. Ambedkar",
+  "slug": "dr-b-r-ambedkar"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "schumann-letters-1907",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Dr. Karl Storck",
+  "slug": "dr-karl-storck"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "eic-letters-received-vol-1-1602-1613",
+    "role": ""
+   },
+   {
+    "book_id": "eic-letters-received-vol-2-1613-1615",
+    "role": ""
+   },
+   {
+    "book_id": "eic-letters-received-vol-3-1615",
+    "role": ""
+   },
+   {
+    "book_id": "eic-letters-received-vol-4-1616",
+    "role": ""
+   },
+   {
+    "book_id": "eic-letters-received-vol-5-1617a",
+    "role": ""
+   },
+   {
+    "book_id": "eic-letters-received-vol-6-1617b",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "East India Company",
+  "slug": "east-india-company"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "poe-valentine-letters-1925",
+    "role": ""
+   },
+   {
+    "book_id": "poe-whitman-last-letters-1909",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "poe-whitman-last-letters-1909": 10
+  },
+  "name": "Edgar Allan Poe",
+  "slug": "edgar-allan-poe"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "nietzsche-wagner-1921",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Elisabeth Förster-Nietzsche",
+  "slug": "elisabeth-forster-nietzsche"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/dickinson-higginson-1862",
+   "/letters/dickinson-mary-bowles-1862"
+  ],
+  "letters": {},
+  "name": "Emily Dickinson",
+  "slug": "emily-dickinson"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "dostoevsky-family-friends-1914",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Ethel Colburn Mayne",
+  "slug": "ethel-colburn-mayne"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "cortes-letters-vol1-1908",
+    "role": "trans. & ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Francis Augustus MacNutt",
+  "slug": "francis-augustus-macnutt"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/bacon-burghley-1585",
+   "/letters/bacon-burghley-1592"
+  ],
+  "letters": {},
+  "name": "Francis Bacon",
+  "slug": "francis-bacon"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "faraday-schoenbein-1899",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Francis V. Darbishire",
+  "slug": "francis-v-darbishire"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "eic-letters-received-vol-1-1602-1613",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Frederick Charles Danvers",
+  "slug": "frederick-charles-danvers"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/douglass-auld-1848",
+   "/letters/douglass-garrison-1845"
+  ],
+  "letters": {},
+  "name": "Frederick Douglass",
+  "slug": "frederick-douglass"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "humboldt-varnhagen-letters-1860",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Friedrich Kapp",
+  "slug": "friedrich-kapp"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "nietzsche-wagner-1921",
+    "role": ""
+   }
+  ],
+  "curated": [
+   "/letters/nietzsche-mother-1863",
+   "/letters/nietzsche-overbeck-1889"
+  ],
+  "letters": {
+   "nietzsche-wagner-1921": 18
+  },
+  "name": "Friedrich Nietzsche",
+  "slug": "friedrich-nietzsche"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "dostoevsky-family-friends-1914",
+    "role": ""
+   },
+   {
+    "book_id": "dostoevsky-letters-reminiscences-1923",
+    "role": ""
+   }
+  ],
+  "curated": [
+   "/letters/dostoevsky-mikhail-1849"
+  ],
+  "letters": {
+   "dostoevsky-family-friends-1914": 76
+  },
+  "name": "Fyodor Dostoevsky",
+  "slug": "fyodor-dostoevsky"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "faraday-schoenbein-1899",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Georg W. A. Kahlbaum",
+  "slug": "georg-w-a-kahlbaum"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "pascal-miscellaneous-writings-1849",
+    "role": "tr. & ed."
+   },
+   {
+    "book_id": "pascal-provincial-letters-1847",
+    "role": "tr. & ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "George Pearce",
+  "slug": "george-pearce"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "sand-flaubert-letters-1922",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "sand-flaubert-letters-1922": 146
+  },
+  "name": "George Sand",
+  "slug": "george-sand"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/washington-hamilton-whiskey-rebellion-1794"
+  ],
+  "letters": {
+   "fifty-famous-letters-1930": 1
+  },
+  "name": "George Washington",
+  "slug": "george-washington"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "sand-flaubert-letters-1922",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "sand-flaubert-letters-1922": 125
+  },
+  "name": "Gustave Flaubert",
+  "slug": "gustave-flaubert"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "nietzsche-wagner-1921",
+    "role": "intro."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "H. L. Mencken",
+  "slug": "h-l-mencken"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "schumann-letters-1907",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Hannah Bryant",
+  "slug": "hannah-bryant"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "toru-dutt-life-letters-1921",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Harihar Das",
+  "slug": "harihar-das"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/keller-bell-1900"
+  ],
+  "letters": {},
+  "name": "Helen Keller",
+  "slug": "helen-keller"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/lectures/bergson-creative-evolution-1907"
+  ],
+  "letters": {},
+  "name": "Henri Bergson",
+  "slug": "henri-bergson"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/essays/thoreau-walking-1862"
+  ],
+  "letters": {
+   "selected-english-letters-1914": 1
+  },
+  "name": "Henry David Thoreau",
+  "slug": "henry-david-thoreau"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "cortes-letters-vol1-1908",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Hernán Cortés",
+  "slug": "hernan-cortes"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "mill-letters-vol1-1910",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Hugh S. R. Elliot",
+  "slug": "hugh-s-r-elliot"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "dostoevsky-letters-reminiscences-1923",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "J. Middleton Murry",
+  "slug": "j-middleton-murry"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "poe-whitman-last-letters-1909",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "James A. Harrison",
+  "slug": "james-a-harrison"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "rukaat-i-alamgiri-aurangzeb-1908",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Jamshedji Hormasji Bilimoriya",
+  "slug": "jamshedji-hormasji-bilimoriya"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/austen-cassandra-1813",
+   "/letters/austen-cassandra-ball-description-1800",
+   "/letters/austen-cassandra-first-impressions-1801",
+   "/letters/austen-cassandra-tom-lefroy-1796"
+  ],
+  "letters": {},
+  "name": "Jane Austen",
+  "slug": "jane-austen"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/speeches/nehru-tryst-destiny-1947"
+  ],
+  "letters": {},
+  "name": "Jawaharlal Nehru",
+  "slug": "jawaharlal-nehru"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/adams-jefferson-reconciliation-1812"
+  ],
+  "letters": {
+   "old-love-letters-1883": 1,
+   "selected-english-letters-1914": 1
+  },
+  "name": "John Adams",
+  "slug": "john-adams"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/keats-brawne-1819",
+   "/letters/keats-brawne-beauty-love-july8-1819",
+   "/letters/keats-brawne-passionate-love-july3-1819",
+   "/letters/keats-brothers-1817",
+   "/letters/keats-brothers-december-1817",
+   "/letters/keats-clarke-1816",
+   "/letters/keats-haydon-1818"
+  ],
+  "letters": {
+   "nineteenth-century-letters-1919": 12,
+   "old-love-letters-1883": 8,
+   "selected-english-letters-1914": 1
+  },
+  "name": "John Keats",
+  "slug": "john-keats"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/keynes-macdonald-1931",
+   "/letters/keynes-roosevelt-1933"
+  ],
+  "letters": {},
+  "name": "John Maynard Keynes",
+  "slug": "john-maynard-keynes"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "mill-letters-vol1-1910",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "mill-letters-vol1-1910": 23
+  },
+  "name": "John Stuart Mill",
+  "slug": "john-stuart-mill"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "hooker-tour-1848",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Joseph Dalton Hooker",
+  "slug": "joseph-dalton-hooker"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/marx-jenny-1843"
+  ],
+  "letters": {},
+  "name": "Karl Marx",
+  "slug": "karl-marx"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/lajpat-rai-montagu-1917"
+  ],
+  "letters": {},
+  "name": "Lajpat Rai",
+  "slug": "lajpat-rai"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "tolstoy-essays-letters-1903",
+    "role": "tr. Aylmer Maude"
+   }
+  ],
+  "curated": [
+   "/letters/tolstoy-gandhi-1909-10-07",
+   "/letters/tolstoy-gandhi-1910-05-08",
+   "/letters/tolstoy-gandhi-1910-09-07-final",
+   "/letters/tolstoy-gandhi-1910",
+   "/letters/tolstoy-hindu-1908"
+  ],
+  "letters": {
+   "dostoevsky-family-friends-1914": 2,
+   "tolstoy-essays-letters-1903": 3
+  },
+  "name": "Leo Tolstoy",
+  "slug": "leo-tolstoy"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/seneca-lucilius-festivals-fasting-letter18",
+   "/letters/seneca-lucilius-friendship-letter3",
+   "/letters/seneca-lucilius-happy-life-letter92",
+   "/letters/seneca-lucilius-letter1",
+   "/letters/seneca-lucilius-letter47",
+   "/letters/seneca-lucilius-letter77",
+   "/letters/seneca-lucilius-on-despising-death-letter24",
+   "/letters/seneca-lucilius-terrors-death-letter4",
+   "/letters/seneca-lucilius-time-letter1"
+  ],
+  "letters": {},
+  "name": "Lucius Annaeus Seneca",
+  "slug": "lucius-annaeus-seneca"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/beethoven-heiligenstadt-1802"
+  ],
+  "letters": {},
+  "name": "Ludwig van Beethoven",
+  "slug": "ludwig-van-beethoven"
+ },
+ {
+  "also": [
+   "Mahatma Gandhi",
+   "Mohandas K. Gandhi"
+  ],
+  "credits": [
+   {
+    "book_id": "bapu-mira-letters",
+    "role": ""
+   },
+   {
+    "book_id": "gandhi-famous-letters-1947",
+    "role": ""
+   }
+  ],
+  "curated": [
+   "/letters/gandhi-hitler-1939",
+   "/letters/gandhi-tolstoy-1909-10-01",
+   "/letters/gandhi-tolstoy-1909-11-10",
+   "/letters/gandhi-tolstoy-1910-04-04"
+  ],
+  "letters": {
+   "bapu-mira-letters": 1,
+   "gandhi-famous-letters-1947": 20
+  },
+  "name": "M. K. Gandhi",
+  "slug": "m-k-gandhi"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/twain-treasury-secretary-1902"
+  ],
+  "letters": {},
+  "name": "Mark Twain",
+  "slug": "mark-twain"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/king-clergymen-1963"
+  ],
+  "letters": {},
+  "name": "Martin Luther King Jr.",
+  "slug": "martin-luther-king-jr"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "poe-valentine-letters-1925",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Mary Newton Stanard",
+  "slug": "mary-newton-stanard"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/lewis-jefferson-1806"
+  ],
+  "letters": {},
+  "name": "Meriwether Lewis",
+  "slug": "meriwether-lewis"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "faraday-schoenbein-1899",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Michael Faraday",
+  "slug": "michael-faraday"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "broughton-mahratta-1809",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Mountstuart Elphinstone Grant Duff",
+  "slug": "mountstuart-elphinstone-grant-duff"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/napoleon-josephine-1796"
+  ],
+  "letters": {},
+  "name": "Napoleon Bonaparte",
+  "slug": "napoleon-bonaparte"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/wilde-douglas-1897"
+  ],
+  "letters": {},
+  "name": "Oscar Wilde",
+  "slug": "oscar-wilde"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "hugo-letters-vol1-1896",
+    "role": "ed."
+   },
+   {
+    "book_id": "hugo-letters-vol2-1898",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Paul Meurice",
+  "slug": "paul-meurice"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "pascal-miscellaneous-writings-1849",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Prosper Faugère",
+  "slug": "prosper-faugere"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "gandhi-famous-letters-1947",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "R. L. Khipple",
+  "slug": "r-l-khipple"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "tagore-letters-1917",
+    "role": ""
+   },
+   {
+    "book_id": "tagore-letters-to-a-friend-1928",
+    "role": ""
+   }
+  ],
+  "curated": [
+   "/essays/tagore-cry-peace-1921",
+   "/essays/tagore-cult-charka-1925",
+   "/essays/tagore-east-west-greater-india-1921",
+   "/essays/tagore-indias-epic-1912",
+   "/essays/tagore-spirit-japan-1917",
+   "/essays/tagore-striving-swaraj-1925",
+   "/essays/tagore-swadeshi-samaj-1921",
+   "/essays/tagore-union-cultures-1921",
+   "/essays/tagore-way-get-done-1921",
+   "/lectures/tagore-japan-1916",
+   "/lectures/tagore-nationalism-west-1917",
+   "/lectures/tagore-personality-1917"
+  ],
+  "letters": {
+   "tagore-letters-1917": 13,
+   "tagore-letters-to-a-friend-1928": 32
+  },
+  "name": "Rabindranath Tagore",
+  "slug": "rabindranath-tagore"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/emerson-whitman-1855"
+  ],
+  "letters": {},
+  "name": "Ralph Waldo Emerson",
+  "slug": "ralph-waldo-emerson"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "nietzsche-wagner-1921",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "nietzsche-wagner-1921": 34
+  },
+  "name": "Richard Wagner",
+  "slug": "richard-wagner"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "schumann-letters-1907",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "schumann-letters-1907": 68
+  },
+  "name": "Robert Schumann",
+  "slug": "robert-schumann"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "voltaire-in-his-letters-1919",
+    "role": "Evelyn Beatrice Hall"
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "S. G. Tallentyre",
+  "slug": "s-g-tallentyre"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "dostoevsky-letters-reminiscences-1923",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "S. S. Koteliansky",
+  "slug": "s-s-koteliansky"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/naidu-gandhi-gokhale-1915"
+  ],
+  "letters": {},
+  "name": "Sarojini Naidu",
+  "slug": "sarojini-naidu"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "letters-from-famous-people-1925",
+    "role": "comp."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Sharpless Dobson Green",
+  "slug": "sharpless-dobson-green"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "newton-bentley-1756",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Sir Isaac Newton",
+  "slug": "sir-isaac-newton"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/nivedita-macleod-1900"
+  ],
+  "letters": {},
+  "name": "Sister Nivedita",
+  "slug": "sister-nivedita"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/ballou-sarah-1861"
+  ],
+  "letters": {},
+  "name": "Sullivan Ballou",
+  "slug": "sullivan-ballou"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "vivekananda-letters-1944",
+    "role": ""
+   }
+  ],
+  "curated": [
+   "/letters/vivekananda-alasinga-1894"
+  ],
+  "letters": {
+   "vivekananda-letters-1944": 107
+  },
+  "name": "Swami Vivekananda",
+  "slug": "swami-vivekananda"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/roosevelt-kermit-1903"
+  ],
+  "letters": {},
+  "name": "Theodore Roosevelt",
+  "slug": "theodore-roosevelt"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "broughton-mahratta-1809",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Thomas Duer Broughton",
+  "slug": "thomas-duer-broughton"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/jefferson-adams-1813"
+  ],
+  "letters": {
+   "fifty-famous-letters-1930": 1
+  },
+  "name": "Thomas Jefferson",
+  "slug": "thomas-jefferson"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "tipu-sultan-select-letters-1811",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Tipu Sultan",
+  "slug": "tipu-sultan"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "toru-dutt-life-letters-1921",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "toru-dutt-life-letters-1921": 66
+  },
+  "name": "Toru Dutt",
+  "slug": "toru-dutt"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "hugo-letters-vol1-1896",
+    "role": ""
+   },
+   {
+    "book_id": "hugo-letters-vol2-1898",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "hugo-letters-vol1-1896": 164,
+   "hugo-letters-vol2-1898": 151,
+   "humboldt-varnhagen-letters-1860": 1
+  },
+  "name": "Victor Hugo",
+  "slug": "victor-hugo"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/vangogh-theo-1888",
+   "/letters/vangogh-theo-arles-health-art-1888",
+   "/letters/vangogh-theo-spiritual-crisis-miners-1878",
+   "/letters/vangogh-theo-starry-night-1889",
+   "/letters/vangogh-theo-theological-studies-1877"
+  ],
+  "letters": {},
+  "name": "Vincent van Gogh",
+  "slug": "vincent-van-gogh"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "voltaire-in-his-letters-1919",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "fifty-famous-letters-1930": 2,
+   "voltaire-in-his-letters-1919": 29
+  },
+  "name": "Voltaire",
+  "slug": "voltaire"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/dubois-ambedkar-1946"
+  ],
+  "letters": {},
+  "name": "W.E.B. Du Bois",
+  "slug": "w-e-b-du-bois"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/letters/whitman-emerson-1856"
+  ],
+  "letters": {},
+  "name": "Walt Whitman",
+  "slug": "walt-whitman"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "eic-letters-received-vol-2-1613-1615",
+    "role": "ed."
+   },
+   {
+    "book_id": "eic-letters-received-vol-3-1615",
+    "role": "ed."
+   },
+   {
+    "book_id": "eic-letters-received-vol-4-1616",
+    "role": "ed."
+   },
+   {
+    "book_id": "eic-letters-received-vol-5-1617a",
+    "role": "ed."
+   },
+   {
+    "book_id": "eic-letters-received-vol-6-1617b",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "William Foster",
+  "slug": "william-foster"
+ },
+ {
+  "also": [],
+  "credits": [],
+  "curated": [
+   "/lectures/james-varieties-religious-1902"
+  ],
+  "letters": {},
+  "name": "William James",
+  "slug": "william-james"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "tipu-sultan-select-letters-1811",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "William Kirkpatrick",
+  "slug": "william-kirkpatrick"
+ }
+]

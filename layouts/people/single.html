@@ -1,0 +1,44 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+{{- $roles := dict "tr." "translator" "trans." "translator" "ed." "editor" "comp." "compiler" "intro." "introduction" "tr. & ed." "translator and editor" "trans. & ed." "translator and editor" "comp. & ed." "compiler and editor" -}}
+<main id="main">
+<section class="wrap page-title" aria-labelledby="title">
+<nav class="crumb" aria-label="Breadcrumb"><a href="{{ .CurrentSection.RelPermalink }}">People</a></nav>
+<h1 id="title">{{ .Title }}</h1>
+{{- with .Params.also }}<p>Also printed as {{ delimit . ", " " and " }}.</p>{{ end }}
+</section>
+{{- with .Params.credits }}
+<section class="wrap contents-plain" aria-labelledby="vol-h">
+<h2 id="vol-h" class="set-count">Credited on {{ len . }} {{ cond (eq (len .) 1) "volume" "volumes" }}</h2>
+<ol class="rows">
+{{- range . }}{{ $b := site.GetPage (printf "/collections/%s" .book_id) }}
+<li><a href="{{ $b.RelPermalink }}"><span class="n"><span class="num">{{ $b.Params.year }}</span><span class="d">{{ with .role }}{{ index $roles . | default . }}{{ else }}named on the title page{{ end }}</span></span><span class="txt"><span class="inc">{{ $b.Title }}</span><span class="to">{{ $b.Params.counts.letters }} letters{{ with index $.Params.letters .book_id }} · {{ . }} signed {{ $.Title }}{{ end }}</span></span></a></li>
+{{- end }}
+</ol>
+</section>
+{{- end }}
+{{- $others := slice -}}
+{{- range $book, $n := .Params.letters }}{{ $credited := false }}{{ range $.Params.credits }}{{ if eq .book_id $book }}{{ $credited = true }}{{ end }}{{ end }}{{ if not $credited }}{{ $others = $others | append (dict "book" $book "n" $n) }}{{ end }}{{ end -}}
+{{- with $others }}
+<section class="wrap contents-plain" aria-labelledby="other-h">
+<h2 id="other-h" class="set-count">Letters signed {{ $.Title }} in other collections</h2>
+<ol class="rows">
+{{- range . }}{{ $b := site.GetPage (printf "/collections/%s" .book) }}
+<li><a href="{{ $b.RelPermalink }}"><span class="n"><span class="num">{{ .n }}</span><span class="d">{{ cond (eq (int .n) 1) "letter" "letters" }}</span></span><span class="txt"><span class="inc">{{ $b.Title }}</span></span></a></li>
+{{- end }}
+</ol>
+</section>
+{{- end }}
+{{- with .Params.curated }}
+<section class="wrap contents-plain" aria-labelledby="cur-h">
+<h2 id="cur-h" class="set-count">Chosen by hand</h2>
+<ol class="rows">
+{{- range . }}{{ with site.GetPage . }}{{ $d := partial "curated-date.html" . }}
+<li><a href="{{ .RelPermalink }}"><span class="n"><span class="num">{{ $d.year }}</span><span class="d">{{ .CurrentSection.Title }}</span></span><span class="txt"><span class="inc">{{ .Title }}</span><span class="to">{{ with .Params.recipient }}To {{ . }}{{ end }}</span></span></a></li>
+{{- end }}{{ end }}
+</ol>
+</section>
+{{- end }}
+</main>
+{{ partial "footer.html" . }}
+{{ end }}
