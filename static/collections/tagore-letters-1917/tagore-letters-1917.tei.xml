@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letters</title>
+        <author>Rabindranath Tagore</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Paper Lanterns Archival Correspondence Library</publisher>
+        <idno type="book_id">tagore-letters-1917</idno>
+        <availability status="free"><p>CC0 1.0 Public Domain</p></availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Letters</title>
+          <date>1917</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc xml:id="letter-0001">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Cuttack</placeName><date when="1893-02">February: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0002">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Cuttack</placeName><date when="1893-02-10">10th February: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0003">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Puri</placeName><date when="1893-02-14">14th February: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0004">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Balia</placeName><date when="1893-03-11">11th March: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0005">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Tiran</placeName><date when="1893-03">March: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0006">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Cuttack</placeName><date when="1893-03">March: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0007">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Calcutta</placeName><date when="1893-04-16">16th April: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0008">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Calcutta</placeName><date when="1893-04-30">30th April: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0009">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Shelidah</placeName><date when="1893-05">May: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0010">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Shelidah</placeName><date when="1893-05-08">8th May: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0011">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Shelidah</placeName><date when="1893-05-10">10th May: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0012">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Shelidah</placeName><date when="1893-05-11">11th May: 1893.</date></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0013">
+        <correspAction type="sent"><persName>Rabindranath Tagore</persName><date when="1893-05-11">Idem.</date></correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="sec-sec-01" type="frontmatter">
+<head>Frontmatter</head>
+<div xml:id="div-unit-0001" type="apparatus">
+<pb xml:id="page-2" n="2"/><p rend="imprint">Hollinger Corp.</p>
+<pb xml:id="page-3" n="3"/><p rend="heading">LETTERS</p>
+<p rend="heading">EXTRACTS FROM OLD LETTERS OF<lb/>RABINDRANATH TAGORE</p>
+<p rend="imprint">New York<lb/>THE MACMILLAN COMPANY<lb/>1917</p>
+<p rend="imprint"><hi rend="italic">All rights reserved</hi></p>
+<pb xml:id="page-4" n="4"/><p rend="imprint"><hi rend="smallcaps">Copyright</hi>, 1917<lb/><hi rend="smallcaps">By</hi> THE MACMILLAN COMPANY<lb/>Set up and electrotyped. Published       , 1917.</p>
+</div>
+</div>
+      <div xml:id="sec-sec-02" type="epistolary_part">
+<head>Extracts from Old Letters of Rabindranath Tagore</head>
+<div xml:id="div-letter-0001" type="letter" corresp="#letter-0001">
+<pb xml:id="page-5" n="5"/><head rend="center">(68)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Cuttack</hi>,<lb/><hi rend="italic">February:</hi> 1893.</dateline></opener>
+<p>Till we can achieve something, let us live <hi rend="italic">incognito</hi>, say I. So long as we are only fit to be looked down upon, on what shall we base our claim to their respect? When we shall have acquired a foothold of our own in the world, when we shall have had some share in shaping its course, then we can meet them smilingly. Till then let us keep in the background, attending to our own affairs.</p>
+<p rend="indented">But our countrymen seem to hold the opposite opinion. They set no store by our more modest, intimate wants which have to be met from behind the scenes, the whole of their attention being directed to that which is but momentary attitudinising and display.</p>
+<p rend="indented">Ours is truly a God-forsaken country. Difficult, indeed, is it for us to keep up the strength of our will to do. We get no help in any real sense. We have none within miles of us, in converse with whom we may gain an access of vitality. No one seems to be thinking or feeling or working. Not <pb xml:id="page-6" n="4"/> a soul has any experience of big striving or of really and truly living.</p>
+<p rend="indented">They all eat and drink, do their office work, smoke and sleep, and chatter nonsensically. When they touch upon emotion they grow sentimental, when they reason they are childish. One yearns for a full-blooded, sturdy and capable personality; these are all so many shadows flitting about out of touch with the world.</p>
+</div>
+<div xml:id="div-letter-0002" type="letter" corresp="#letter-0002">
+<head rend="center">(69)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Cuttack</hi>,<lb/><hi rend="italic">10th February: 1893.</hi></dateline></opener>
+<p rend="indented">He was a fully developed John Bull of the outrageous type,—with a huge beak of a nose, cunning eyes and a yard-long chin. The curtailment of our right to be tried by jury is now under consideration by the Government. The fellow dragged in the subject by the ears and insisted on arguing it out with our host, poor B——babu. He said the moral standard of the people in this country was low; that they had no real belief in the sacredness of life; so that they were unfit to serve on juries.</p>
+<p rend="indented">The utter contempt with which we are regarded by these people was brought home to me to see how they can accept a Bengali's hospitality and <pb xml:id="page-7" n="5"/> talk thus, seated at his table, without a quiver of compunction.</p>
+<p rend="indented">As I sat in a corner of the drawing room after dinner, everything round me looked blurred to my eyes. I seemed to be seated by the head of my great, insulted Motherland, lying there in the dust before me, in dejection, shorn of her glory. I cannot tell what a profound distress overpowered my heart.</p>
+<p rend="indented">How incongruous seemed the <hi rend="italic">memsahibs</hi> there, in their evening dresses, the hum of English conversation, and the ripples of laughter. How richly true for us is our India of the ages, how cheap and false the hollow courtesies of an English dinner party.</p>
+</div>
+<div xml:id="div-letter-0003" type="letter" corresp="#letter-0003">
+<head rend="center">(70)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Puri</hi>,<lb/><hi rend="italic">14th February: </hi>1893.</dateline></opener>
+<p rend="indented">Some people have a mind like a photographic wet plate;—unless they fix the picture then and there, it is apt to get spoilt. That is the case with me. I want at once to write down in a letter whatever of interest I see. Such a quantity of things to describe passed before me on the way from Cuttack to Puri, I could have recorded any number of vivid pictures had I but time to write them down as I saw them.</p>
+<pb xml:id="page-8" n="6"/><p rend="indented">But these few tiresome days have come between, and now I find many of the details have grown hazy. Another reason for this is the sea, which in Puri lies before me night and day. It has captured the whole of my attention, leaving me no opportunity to hark back to the incidents of the journey.</p>
+<p rend="indented">After our midday meal on Saturday, B—— babu, Balu and I placed our rugs on the back seat of a hired phaeton, leaned back against our pillows, and, with a servant mounted on the coach box, made a start.</p>
+<p rend="indented">Where our road crossed the Katjuri<ref xml:id="fnref-p0008-1" type="noteref" target="#fn-p0008-1">1</ref> river we had to leave the carriage and get into palanquins. The grey sands of the river stretched away in every direction. They rightly call it the <hi rend="italic">bed</hi> of the river in English. It is indeed like a bed which the sleeper has left in the morning. Every movement of the river, as it rolled from side to side, and pressed with the weight of its water now here now there, is left impressed on the hollows and billows of its sand bed, which has not been made since.</p>
+<p rend="indented">At the further edge of this vast sandy course, the thin crystal-clear stream of the river is seen. In the <hi rend="italic">Meghaduta</hi> of Kalidas there is a description of a <hi rend="italic">Yaksha</hi> woman, pining for her banished husband <pb xml:id="page-9" n="7"/> , <hi rend="italic">lying merged in the edge of her deserted bed, like the thin line of the old moon in its last phase at the limit of the eastern horizon.</hi> This thin, worn river, athirst for the rains, furnishes another simile.</p>
+<p rend="indented">A fine road runs from Cuttack to Puri. It rises high out of the fields on either side, and is shaded with great big trees, mostly mangoes, which in this season are in flower, charging the air with their cloying fragrance. It passes by village after village surrounded with groves of mango, <hi rend="italic">aswattha,</hi> cocoanut and day palm.</p>
+<p rend="indented">Here and there half dry water courses crossed our path, and near these, strings of mat-covered bullock-carts were drawn up; little thatched sweet-meat shops lined the road-side; and in shelters under the shade of trees pilgrims were busy attending to their meals. At the sight of each newly arriving carriage or cart, beggars swarmed round with a variety of wails in a medley of tongues.</p>
+<p rend="indented">As we drew nearer and nearer to Puri, the concourse of pilgrims grew denser and denser, some scattered in groups along the road, others under the trees or by the side of pools, stretched in repose, or cooking their food. At frequent intervals there came temples, pilgrim rest houses and big artificial tanks.<ref xml:id="fnref-p0009-1" type="noteref" target="#fn-p0009-1">1</ref> <pb xml:id="page-10" n="8"/> Then, to our right hand there spreads a large lake-like sheet of water beyond which the temple of Jagannath towers into view. And, suddenly, as we emerge from a clump of trees, we see before us a broad stretch of sand, edged with a deep blue line—the sea!</p>
+</div>
+<div xml:id="div-letter-0004" type="letter" corresp="#letter-0004">
+<head rend="center">(71)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Balia</hi>,<lb/><hi rend="italic">11th March: 1893.</hi></dateline></opener>
+<p rend="indented">It is a tiny little house boat. I can see that the main reason of its existence is to take down the pride of tall people like myself. Every time I absently rise with any suddenness, I get a tremendous wooden slap on the top of my head,—which is very dejecting. So I spent the whole of yesterday humbly stooping. Even this I did not mind so much, but when fate added to its blows by giving me a sleepless night for the mosquitoes, I felt it was really too bad.</p>
+<p rend="indented">The cold weather has disappeared and it is getting warm. The sun is decidedly hot and a moist warm breeze is blowing on my back through the open window. To-day we are quit of our allegiance both to the cold and to civilisation. And our coats are hanging up on the pegs. There is no gong to mark the fractional parts of time, its <pb xml:id="page-11" n="9"/> broad division into day and night being enough for us here. No salaaming liveried orderlies are about, so we can lazily take our uncivilised ease without a qualm.</p>
+<p rend="indented">The birds are singing and the big leaves of the banyan tree on the bank are making a rustling sound. The sunlight reflected off the ripples is dancing on the walls of our cabin. At Cuttack, what with B——babu's going to court, and the children going to school, there was no forgetting the value of time, or the bustle of civilised Society. Here everything moves with leisurely sloth.</p>
+</div>
+<div xml:id="div-letter-0005" type="letter" corresp="#letter-0005">
+<head rend="center">(72)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Tiran</hi>,<lb/><hi rend="italic">March:</hi> 1893.</dateline></opener>
+<p rend="indented">From inside a brick-built house clouds and rain are all very well, but they do not add to the comfort of the two of us confined in this little boat. Dripping water from a leaky roof may be good for the bumps which the latter gives the head, but it serves all the same to fill up the cup of our misfortune.</p>
+<p rend="indented">I thought we had finished with the rains, and that Nature after her shower bath would be drying her hair with her back to the sun; her green <pb xml:id="page-12" n="10"/> <hi rend="italic">sari</hi> spread on the branches, over the fields; her spring-coloured scarf, no longer damp and limp, fluttering gaily in the breeze. But that aspect of hers is not with us yet, and day after day is cloudy, without a break.</p>
+<p rend="indented">I have prepared myself for the worst by borrowing a copy of Kalidas's <hi rend="italic">Meghaduta</hi> from a friend in Cuttack and keeping it by me. If in the Pandua residence, the sky over the spreading fields before me should become softly moist with blue-grey clouds then it will be nice to repeat passages out of it.</p>
+<p rend="indented">Unfortunately I cannot get anything by heart, and the keen enjoyment of being able to repeat lines of poetry at will is not for me. By the time I have rummaged out the book, and hunted for the place, I often cease to want the poem. It is as bad as feeling sad and wanting to weep, but having to wait for a phial of tears to be dispensed by the chemist!</p>
+<p rend="indented">So when I leave town I needs must take quite a number of books with me. Not that I read every one each time, but I never know beforehand which might be wanted. How convenient it would have been if men's minds had regular seasons. When we travel in winter we take only our warm clothes, and we leave our rugs behind in summer. If only we knew when it would be <pb xml:id="page-13" n="11"/> winter in our minds, and when spring, we could provide ourselves with prose and poetry books accordingly.</p>
+<p rend="indented">The seasons of the mind, however, are not 6<ref xml:id="fnref-p0013-1" type="noteref" target="#fn-p0013-1">1</ref> but 52, like a pack of cards; and which one the whimsical player within us will turn up next there is no knowing. So I have an endless variety of books at hand from Nepalese Buddhistic literature to Shakespeare, the majority of which I shall probably not touch.</p>
+<p rend="indented">I am hardly ever without the old <hi rend="italic">Vaishnava</hi> poets and the Sanskrit classics, but this time I left them at home and so as luck would have it wanted them all the more. The <hi rend="italic">Meghaduta</hi> would have been the very thing while I was wandering about Puri and Khandagiri,—but there instead of the <hi rend="italic">Meghaduta</hi> I had only Caird's Philosophical Essays!</p>
+</div>
+<div xml:id="div-letter-0006" type="letter" corresp="#letter-0006">
+<head rend="center">(73)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Cuttack</hi>,<lb/><hi rend="italic">March:</hi> 1893.</dateline></opener>
+<p rend="indented">If we begin to attach too much importance to the applause of Englishmen, we shall have to get rid of much that is good in us, and to accept much that is bad from them.</p>
+<pb xml:id="page-14" n="12"/><p rend="indented">We shall get to be ashamed to go about without socks on our feet, but cease to feel shame at the sight of their ball dresses. We shall have no compunction in throwing overboard our ancient manners, nor any in emulating their lack of courtesy. We shall leave off wearing our <hi rend="italic">achgans</hi> because they are susceptible of improvement, but think nothing of surrendering our heads to their hats though no head gear could well be uglier.</p>
+<p rend="indented">In short, consciously or unconsciously, we shall have to cut our lives down to the measure of the clapping of their hands.</p>
+<p rend="indented">Wherefore I apostrophise myself and say: O Earthen Pot! For goodness' sake get away from the Metal Pot! Whether he comes for you in anger, or merely to give you a patronising pat on the back, you are done for, and go down, all the same. So pay heed to old Æsop's sage counsel, I pray,—and keep your distance.</p>
+<p rend="indented">Let the metal pot ornament wealthy homes, you have your work to do in those of the poor. If you let yourself be broken, you will have no place in either, but merely return to the dust; or at best you may secure a corner in a bric-a-brac cabinet,—as a curiosity. It is more glorious by far to be borne to fetch water by the meanest of village women.</p>
+</div>
+<div xml:id="div-letter-0007" type="letter" corresp="#letter-0007">
+<pb xml:id="page-15" n="13"/><head rend="center">(74)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Calcutta</hi>,<lb/><hi rend="italic">16th April:</hi> 1893.</dateline></opener>
+<p>It is only when we commune alone with nature, face to face, that it becomes at all possible to realise our pristine and profound relations with the sea.</p>
+<p>As I gaze on the sea and listen to its eternal melody, I seem to understand how my restless heart of to-day used to be dumbly agitated then with its heaving, desolate waters, when in the beginning there was no land, but only the sea all by itself.</p>
+<p>The sea of my mind to-day is heaving much in the same way, as though something were being created in the chaos beneath its surface;—vague hopes and uncertain fears, trustings and doubtings; heavens and hells; elusive, inscrutable feelings and imaginings; the ineffable mystery of beauty, the unfathomable depths of love; the thousand and one ever-new kaleidoscopic combinations of the human mind, of which it is impossible even to be conscious until one is alone with oneself under the open sky, or beside the open sea.</p>
+</div>
+<div xml:id="div-letter-0008" type="letter" corresp="#letter-0008">
+<pb xml:id="page-16" n="14"/><head rend="center">(75)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Calcutta</hi>,<lb/><hi rend="italic">30th April:</hi> 1893.</dateline></opener>
+<p rend="indented">Yesterday I was lying on the terrace roof till ten o'clock in the night. The moon was near its full; there was a delicious breeze; no one else was about. Stretched out there alone, I glanced back over my past life. This roof terrace, this moonlight, this south breeze,—in so many ways are they intertwined with my life. . . I am keeping cool my bottled memories "in the deep-delved earth" for my old age, and hope to enjoy them then, drop by drop, in the moonlight, on the roof terrace.</p>
+<p rend="indented">Imagination and reminiscence do not suffice a man in his youth,—his warm blood insists on action. But when with age he loses his power to act and ceases to be worried by an abundance of motive force, then memory alone is satisfying. Then the lake of his mind, placid like the still moonlight, receives so distinct a picture of old memories that it becomes difficult to make out the difference between past and present.</p>
+</div>
+<div xml:id="div-letter-0009" type="letter" corresp="#letter-0009">
+<pb xml:id="page-17" n="15"/><head rend="center">(76)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Shelidah</hi>,<lb/><hi rend="italic">May:</hi> 1893.</dateline></opener>
+<p rend="indented">I am now back again in the boat, which is my home. Here I am the sole master, and no one has any claim on me or my time. The boat is like my old dressing gown,—when I get inside I step into a great, loose-fitting comfortable leisure. I think as I like, I imagine what I please, I read or write as much as I feel inclined to, or with my legs on the table and my eyes on the river, I steep myself to the full in these sky-filled, light-filled, rest-filled days.</p>
+<p rend="indented">After this interval it will take me some days to get over the awkwardness of renewing my old relations with my old friend, the Padma. By the time I have done some reading and writing and wandering by the river side, however, the old friendship will come back quite naturally.</p>
+<p rend="indented">I really do love the Padma immensely. As the elephant, <hi rend="italic">Airavat</hi>, is for Indra,<ref xml:id="fnref-p0017-1" type="noteref" target="#fn-p0017-1">1</ref> so is she my favourite steed,—albeit not thoroughly tamed and still a little wild,—and I feel I want lovingly to stroke her neck and back.</p>
+<p rend="indented">The water is very low now, and flows in a thin, clear stream, like a slim, fair maiden gracefully <pb xml:id="page-18" n="16"/> tripping along with a soft, clinging garment following her movements.</p>
+<p rend="indented">While I am living here the Padma, for me, is a real live person, so you must not mind my talking about her at some length, nor run away with the idea that all this news about her is not worth putting into a letter. These, in fact, are the only personal paragraphs I am in a position to communicate from here.</p>
+<p rend="indented">What a difference of outlook comes upon one in the course of the day that separates this place from Calcutta. What, there, seems only sentimental or rhapsodical is so true here. . . .</p>
+<p rend="indented">I really cannot dance any more before the foot lights of the stage called the Calcutta public. I want to go on with my life's work in the clear daylight of this seclusion and leisure. There is no chance of recovering any peace of mind till one is back behind the scenes and has washed off one's paint. There is so much that is not pure gold, but only useless tinsel, in this editing of the <hi rend="italic">Sadhanā</hi> magazine, this philanthropic activity, this bustle and worry of Calcutta life.</p>
+<p rend="indented">If only I could go on with my work, in the fullness of joy, under this open sky, this spreading peace, then something worth doing might get done.</p>
+</div>
+<div xml:id="div-letter-0010" type="letter" corresp="#letter-0010">
+<pb xml:id="page-19" n="17"/><head rend="center">(77)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Shelidah</hi>,<lb/><hi rend="italic">8th May:</hi> 1893.</dateline></opener>
+<p>Poetry is a very old love of mine,—I must have been engaged to her when I was only Rathi's age. Ever since then the recesses under the old Banyan tree beside our tank, the inner gardens, the unknown regions on the ground floor of the house, the whole of the outside world, the nursery rhymes and tales told by the maids, went on creating a wonderful fairyland within me. It is difficult to give a clear idea of all the vague and mysterious happenings of that period, but this much is certain, that my exchange of garlands<ref xml:id="fnref-p0019-1" type="noteref" target="#fn-p0019-1">1</ref> with Poetic Fancy was duly celebrated.</p>
+<p rend="indented">I must admit, however, that my betrothed is not an auspicious maiden,—whatever else she may bring one, it is not good fortune. I cannot say she has never given me happiness, but peace of mind with her is out of the question. The lover whom she favours may get his fill of bliss, but his heart's blood is wrung out under her relentless embrace. It is not for the unfortunate creature of her choice ever to become a staid and sober householder, comfortably settled down on a social foundation. Whether I write for the <hi rend="italic">Sādhanā</hi>, or <pb xml:id="page-20" n="18"/> look after the estates, my real life is as her bond slave all the time.</p>
+<p rend="indented">Consciously or unconsciously, I may have done many things that were untrue, but I have never uttered anything false in my poetry;—that is the sanctuary where the deepest truths of my life find refuge.</p>
+</div>
+<div xml:id="div-letter-0011" type="letter" corresp="#letter-0011">
+<head rend="center">(78)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Shelidah</hi>,<lb/><hi rend="italic">10th May:</hi> 1893.</dateline></opener>
+<p rend="indented">Black, swollen masses of cloud are coming up and sucking off the golden sunshine from the scene in front of me like great big pads of blotting paper. These are not thin, famished looking clouds, but resemble the sleek, well-nourished offspring of the wealthy. The rain must be coming on, for the breeze feels moist and tearful.</p>
+<p rend="indented">Over there, on the sky-piercing peaks of Simla, you will find it hard to realise, exactly, how important an event, here, is this coming of the clouds, or how many are anxiously looking up to the sky, hailing their advent.</p>
+<p rend="indented">I feel a great tenderness for these peasant folk—our ryots—big, helpless, infantile children of Providence, who must have food brought to their very lips, or they are undone. When the breasts <pb xml:id="page-21" n="19"/> of mother Earth dry up, they know not what to do, but can only cry. And no sooner is their hunger satisfied than they forget all their past sufferings.</p>
+<p rend="indented">I know not whether the Socialistic ideal of a more equal distribution of wealth is attainable, but if not, then such dispensation of providence is indeed cruel, and man is truly an unfortunate creature. For if in this world misery needs must exist, be it so; but let some little loophole, some glimpse of possibility at least, be left which may serve to urge the nobler portion of humanity to hope and struggle unceasingly for its removal.</p>
+<p rend="indented">What a terribly hard thing they say who aver that the division of the world's production to afford each one a mouthful of food, a bit of clothing, is only a utopian dream. How hard, in fact, are all these social problems. Fate has allowed humanity such a pitifully meagre coverlet that in pulling it over one part of the world, another has to be left bare. In allaying our poverty, we lose our wealth, and with this wealth what a world of grace and beauty and power is lost to our Society.</p>
+<p rend="indented">But the sun shines forth again, though the clouds are still banked up in the West.</p>
+</div>
+<div xml:id="div-letter-0012" type="letter" corresp="#letter-0012">
+<pb xml:id="page-22" n="20"/><head rend="center">(79)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Shelidah</hi>,<lb/><hi rend="italic">11th May:</hi> 1893.</dateline></opener>
+<p rend="indented">It has cleared up to-day after yesterday's heavy rain. A few straggling clouds, separated from the main body, are loitering near the horizon, whitened by the sunshine, looking innocent of any attempt at a downpour. But the gods should be included in the set of persons, unfit to be trusted, against whom <hi rend="italic">Chanakya</hi><ref xml:id="fnref-p0022-1" type="noteref" target="#fn-p0022-1">1</ref> has warned us.</p>
+<p rend="indented">It is a beautiful morning, the sky bright and clear, not a ripple on the river, yesterday's raindrops sparkling on the grass of the sloping banks. Nature, altogether, seems invested with the dignity of a white-robed goddess.</p>
+<p rend="indented">There is a curious silence this morning. For some reason or other there are no boats about, no one occupies the bathing place, the manager and his staff have come and gone early.</p>
+<p rend="indented">As I, too, sit silent with responsive ear, I seem to hear a faint, but insistent, ringing harmony, to the accompaniment of which the sun-illumined sky streams in and fills my being, colouring all my thoughts and feelings with a golden blue.</p>
+</div>
+<div xml:id="div-letter-0013" type="letter" corresp="#letter-0013">
+<pb xml:id="page-23" n="21"/><head rend="center">(80)</head>
+<opener><dateline rend="right"><hi rend="smallcaps">Idem.</hi></dateline></opener>
+<p rend="indented">There is another pleasure which I have here. Sometimes one or other of our simple devoted old ryots comes to see me,—and their worshipful homage is so unaffected! How much greater than I are they in the beautiful simplicity and sincerity of their reverence. What if I am unworthy of their veneration, their feeling loses nothing of its value.</p>
+<p rend="indented">I regard these grown-up children with the same kind of affection I have for little children—but there is also a difference. They are more infantile still. Little children will grow up later on, but these big children never.</p>
+<p rend="indented">A meek and radiantly simple soul shines through their worn and wrinkled old bodies. Little children are only simple, but they have not the unquestioning, unwavering devotion of these. If there be any undercurrent along which the souls of men may have communication with each other, then my sincere blessing will surely reach and serve them.</p>
+<p rend="indented">All the ryots, of course, are not like these. The best is ever the rarest.</p>
+</div>
+<div xml:id="notes-sec-02" type="notes"><head>Notes</head>
+<note place="foot" xml:id="fn-p0008-1" n="1"><p>One of the branches of the Mahanadi.</p></note>
+<note place="foot" xml:id="fn-p0009-1" n="1"><p>Rectangular pieces of water.</p></note>
+<note place="foot" xml:id="fn-p0013-1" n="1"><p>The recognised seasons in Upper India are six: Spring, Summer, the Rains, Autumn, the Dews and Winter.</p></note>
+<note place="foot" xml:id="fn-p0017-1" n="1"><p>The Jupiter Pluvius of Hindu Mythology.</p></note>
+<note place="foot" xml:id="fn-p0019-1" n="1"><p>Betrothal ceremony.</p></note>
+<note place="foot" xml:id="fn-p0022-1" n="1"><p>Author (Sanskrit) of a well-known set of witty aphorisms.</p></note>
+</div>
+</div>
+    </body>
+  </text>
+</TEI>
