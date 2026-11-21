@@ -1,0 +1,390 @@
+{
+ "title": "XXVIII · To his Brother Michael",
+ "layout": "letter",
+ "weight": 28,
+ "description": "You beg me, my friend, to send you everything I write. I can't remember (my memory is mostly very bad now)—I can't remember whether I told…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0028",
+ "number": "XXVIII",
+ "sequence": 28,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1858-05-31",
+  "display": "31 May 1858",
+  "short": "31 · V · 1858"
+ },
+ "period": "Semipalatinsk",
+ "place": "Semipalatinsk",
+ "sender": "",
+ "recipient": "Michael Dostoevsky",
+ "salutation": "",
+ "incipit": "You beg me, my friend, to send you everything I write. I can't remember (my memory is mostly very bad now)—I can't remember whether I told…",
+ "start_page": 127,
+ "end_page": 130,
+ "start_folio": "99",
+ "end_folio": "102",
+ "pages": [
+  {
+   "page": 127,
+   "leaf": 126,
+   "folio": "99"
+  },
+  {
+   "page": 128,
+   "leaf": 127,
+   "folio": "100"
+  },
+  {
+   "page": 129,
+   "leaf": 128,
+   "folio": "101"
+  },
+  {
+   "page": 130,
+   "leaf": 129,
+   "folio": "102"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0127-b0004",
+   "type": "letter_header",
+   "align": "center",
+   "page": 127,
+   "leaf": 126,
+   "folio": "99",
+   "bbox": [
+    360,
+    310,
+    640,
+    345
+   ],
+   "lines": [
+    [
+     {
+      "t": "XXVIII"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0127-b0005",
+   "type": "letter_header",
+   "align": "center",
+   "page": 127,
+   "leaf": 126,
+   "folio": "99",
+   "bbox": [
+    260,
+    345,
+    740,
+    372
+   ],
+   "lines": [
+    [
+     {
+      "t": "To his Brother Michael",
+      "c": "i"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0127-b0006",
+   "type": "dateline",
+   "align": "right",
+   "page": 127,
+   "leaf": 126,
+   "folio": "99",
+   "bbox": [
+    550,
+    380,
+    790,
+    420
+   ],
+   "lines": [
+    [
+     {
+      "t": "Semipalatinsk",
+      "c": "sc"
+     },
+     {
+      "t": ","
+     }
+    ],
+    [
+     {
+      "t": "May",
+      "c": "i"
+     },
+     {
+      "t": " 31, 1858."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0127-b0007",
+   "type": "body",
+   "align": "left",
+   "page": 127,
+   "leaf": 126,
+   "folio": "99",
+   "bbox": [
+    45,
+    425,
+    812,
+    800
+   ],
+   "lines": [
+    [
+     {
+      "t": "You beg me, my friend, to send you everything I write. I can't remember (my memory is mostly very bad now)—I can't remember whether I told you that I had approached Katkov ("
+     },
+     {
+      "t": "Roussky Viestnik",
+      "c": "i"
+     },
+     {
+      "t": ") and offered him my co-operation on his paper; I promised that this very year I'd write a long tale for him if he would at once send me 500 roubles. Four or five weeks ago I got those 500 roubles and a very sensible and friendly letter from him. He writes that he is very glad of my co-operation, and at once responds to my request (about the 500 roubles). He begs me not to hurry myself in any way, and to write only at my leisure. That's splendid. So now I am to write a long story for the "
+     },
+     {
+      "t": "Roussky Viestnik;",
+      "c": "i"
+     },
+     {
+      "t": " the only trouble is that I haven't arranged with Katkov about payment by the sheet—I wrote that I would leave that matter to him."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0127-b0008",
+   "type": "body",
+   "align": "left",
+   "page": 127,
+   "leaf": 126,
+   "folio": "99",
+   "bbox": [
+    45,
+    805,
+    812,
+    900
+   ],
+   "lines": [
+    [
+     {
+      "t": "I want to write something this year also for the "
+     },
+     {
+      "t": "Roussky Slovo",
+      "c": "i"
+     },
+     {
+      "t": "—not the novel, but a tale. I won't write the novel till I've got out of Siberia. I must"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0128-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 128,
+   "leaf": 127,
+   "folio": "100",
+   "bbox": [
+    208,
+    88,
+    962,
+    893
+   ],
+   "lines": [
+    [
+     {
+      "t": "put it off till then. The motive of this book is most excellent, the principal figure is new and has never yet been done. But as to-day in Russia such a figure frequently emerges in actual life (so I conclude from the new movements and ideas of which everyone seems full), I feel sure that I shall succeed in enriching my novel, after my return, with fresh observations."
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0128-1"
+     },
+     {
+      "t": " One ought not to hurry, my friend ; one must try to do nothing but what is good. You write, my dear fellow, that I am really very vain, and want to step forth now with a peculiarly distinguished work ; and that therefore I sit patiently on my eggs, that the “ distinguished work ” may be hatched. Well, suppose it really were the case : at any rate, as I've now dropped the idea of bringing out the novel at present, and am working at two stories, which will both be only just tolerable, I don't think there can be much talk of “ hatching.” Where on earth did you pick up the theory that a picture should be painted “ straight off,” and so forth ? When did you come to that conclusion ? Believe me, in all things labour is necessary—gigantic labour. Believe me that a graceful, fleet poem of Pushkin's, consisting of but a few lines, "
+     },
+     {
+      "t": "is",
+      "c": "i"
+     },
+     {
+      "t": " so graceful and so fleet simply because the poet has worked long at it, and altered much. That is solid fact. Gogol wrote at his “ Dead Souls ” for eight years. Everything that he did “ straight off ” was crude. People say that in Shakespeare's MSS. there is not a single erasure. That's why there are so many monstrous errors of taste in him. If he had worked more, the whole would have come off better. You evidently confuse the inspiration, that is, the first instantaneous vision, or emotion"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0129-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 129,
+   "leaf": 128,
+   "folio": "101",
+   "bbox": [
+    45,
+    90,
+    805,
+    298
+   ],
+   "lines": [
+    [
+     {
+      "t": "in the artist's soul (which is always present), with the "
+     },
+     {
+      "t": "work.",
+      "c": "i"
+     },
+     {
+      "t": " I, for example, write every scene down at once, just as it first comes to me, and rejoice in it; then I work at it for months and years. I let it inspire me, in that form, more than once (for I love it thus); here I add, there I take away; believe me that the scene always gains by it. One must "
+     },
+     {
+      "t": "have",
+      "c": "i"
+     },
+     {
+      "t": " the inspiration; without inspiration one can't of course begin anything."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0129-b0003",
+   "type": "body",
+   "align": "left",
+   "page": 129,
+   "leaf": 128,
+   "folio": "101",
+   "bbox": [
+    43,
+    305,
+    805,
+    895
+   ],
+   "lines": [
+    [
+     {
+      "t": "You write that big fees are now being paid in your part of the world. Thus, Pissemsky got 200 or 250 roubles a sheet for his “Thousand Souls.” In such circumstances one could really live, and work at ease. But do you really think Pissemsky's novel excellent? It is mediocre work—possibly a “"
+     },
+     {
+      "t": "golden mean,",
+      "c": "i"
+     },
+     {
+      "t": "” but nevertheless mediocre. Come! is there one fresh thing in it—one thing of "
+     },
+     {
+      "t": "his own,",
+      "c": "i"
+     },
+     {
+      "t": " that never before was done? All has been done before him, and done by the most modern writers too, particularly by Gogol. His are but ancient words to a new tune. “Distinguished work” after foreign patterns—home products from sketches by Benvenuto Cellini. It's true I've read only the two first parts of the novel; papers reach us very late here. The end of the second part is utterly improbable, and entirely bad. Kalinovitch, who consciously betrays, is simply impossible. Kalinovitch, as the author had earlier depicted him, would have "
+     },
+     {
+      "t": "had",
+      "c": "i"
+     },
+     {
+      "t": " to offer a sacrifice, propose marriage, intoxicate himself with his own nobility, and be convinced that he was incapable of any deception. Kalinovitch is so vain that he couldn't possibly regard himself as a scoundrel. Of course he would take his pleasure all the same, spend a night with Nastenyka and then betray her; but"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0130-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 130,
+   "leaf": 129,
+   "folio": "102",
+   "bbox": [
+    205,
+    150,
+    960,
+    405
+   ],
+   "lines": [
+    [
+     {
+      "t": "only afterwards, under the pressure of actualities ; and he would assuredly solace himself even then, and aver that he had acted nobly in this case also. But a Kalinovitch who consciously betrays, is repulsive and "
+     },
+     {
+      "t": "impossible",
+      "c": "i"
+     },
+     {
+      "t": " ; that is to say, such a person is possible, but he is not Kalinovitch. Enough of this nonsense."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0130-b0003",
+   "type": "body",
+   "align": "indented",
+   "page": 130,
+   "leaf": 129,
+   "folio": "102",
+   "bbox": [
+    205,
+    385,
+    960,
+    415
+   ],
+   "lines": [
+    [
+     {
+      "t": "I am weary of waiting for my leave."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0130-b0004",
+   "type": "editorial",
+   "align": "left",
+   "page": 130,
+   "leaf": 129,
+   "folio": "102",
+   "bbox": [
+    205,
+    430,
+    960,
+    500
+   ],
+   "lines": [
+    [
+     {
+      "t": "[Here follow plans for what Dostoevsky will do when he gets his leave.]"
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": [
+  {
+   "id": "fn-p0128-1",
+   "label": "1",
+   "page": 128,
+   "lines": [
+    [
+     {
+      "t": "The “ figure ” is Raskolnikov, in “ Crime and Punishment.”"
+     }
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "title": "XLI · To Apollon Nikolayevitch Maikov",
+ "layout": "letter",
+ "weight": 41,
+ "description": "I thank you for your letter, my dear Apollon Nikolayevitch, and for not being angry with me and so breaking off our correspondence. I was…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0041",
+ "number": "XLI",
+ "sequence": 41,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1868-05-30",
+  "display": "30 May 1868",
+  "short": "30 · V · 1868"
+ },
+ "period": "Abroad",
+ "place": "Geneva",
+ "sender": "",
+ "recipient": "Apollon Nikolayevitch Maikov",
+ "salutation": "",
+ "incipit": "I thank you for your letter, my dear Apollon Nikolayevitch, and for not being angry with me and so breaking off our correspondence. I was…",
+ "start_page": 177,
+ "end_page": 178,
+ "start_folio": "147",
+ "end_folio": "148",
+ "pages": [
+  {
+   "page": 177,
+   "leaf": 176,
+   "folio": "147"
+  },
+  {
+   "page": 178,
+   "leaf": 177,
+   "folio": "148"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0177-b0004",
+   "type": "letter_header",
+   "align": "center",
+   "page": 177,
+   "leaf": 176,
+   "folio": "147",
+   "bbox": [
+    400,
+    122,
+    470,
+    142
+   ],
+   "lines": [
+    [
+     {
+      "t": "XLI"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0177-b0005",
+   "type": "letter_header",
+   "align": "center",
+   "page": 177,
+   "leaf": 176,
+   "folio": "147",
+   "bbox": [
+    195,
+    150,
+    685,
+    175
+   ],
+   "lines": [
+    [
+     {
+      "t": "To Apollon Nikolayevitch Maikov",
+      "c": "i"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0177-b0006",
+   "type": "dateline",
+   "align": "right",
+   "page": 177,
+   "leaf": 176,
+   "folio": "147",
+   "bbox": [
+    570,
+    180,
+    790,
+    215
+   ],
+   "lines": [
+    [
+     {
+      "t": "Geneva",
+      "c": "sc"
+     },
+     {
+      "t": ","
+     }
+    ],
+    [
+     {
+      "t": "May",
+      "c": "i"
+     },
+     {
+      "t": " 18 [30], 1868."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0177-b0007",
+   "type": "body",
+   "align": "left",
+   "page": 177,
+   "leaf": 176,
+   "folio": "147",
+   "bbox": [
+    60,
+    225,
+    820,
+    342
+   ],
+   "lines": [
+    [
+     {
+      "t": "I thank you for your letter, my dear Apollon Nikolayevitch, and for not being angry with me and so breaking off our correspondence. I was always convinced, in the depths of my soul, that Apollon Nikolayevitch would never do such a thing as that."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0177-b0008",
+   "type": "body",
+   "align": "indented",
+   "page": 177,
+   "leaf": 176,
+   "folio": "147",
+   "bbox": [
+    60,
+    345,
+    820,
+    470
+   ],
+   "lines": [
+    [
+     {
+      "t": "My Sonia is dead ; we buried her three days ago. Two hours before her death, I did not know that she was to die. The doctor told us, three hours before she died, that things were going better and she would live. She was only a week ill ; she died of inflammation of the lungs."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0177-b0009",
+   "type": "body",
+   "align": "indented",
+   "page": 177,
+   "leaf": 176,
+   "folio": "147",
+   "bbox": [
+    60,
+    475,
+    820,
+    915
+   ],
+   "lines": [
+    [
+     {
+      "t": "Ah, my dear Apollon Nikolayevitch, my love for my first child was probably most comical ; I daresay I expressed it most comically in my letters to all who congratulated me. I have doubtless been ridiculous in everybody's eyes, but to you, to "
+     },
+     {
+      "t": "you",
+      "c": "i"
+     },
+     {
+      "t": ", I am not ashamed to say anything. The poor little darling creature, scarcely three months old, had already, for me, individuality and character. She was just beginning to know and love me, and always smiled when I came near. And now they tell me, to console me, that I shall surely have other children. But where is Sonia ? where is the little creature for whom I would, believe me, gladly have suffered death upon the cross, if "
+     },
+     {
+      "t": "she",
+      "c": "i"
+     },
+     {
+      "t": " could have remained alive ? I'll speak of it no more. My wife is crying. The day after to-morrow we shall say our last good-bye to the little grave, and go away somewhere. Anna"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0178-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 178,
+   "leaf": 177,
+   "folio": "148",
+   "bbox": [
+    180,
+    148,
+    935,
+    225
+   ],
+   "lines": [
+    [
+     {
+      "t": "Nikolayevna"
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0178-1"
+     },
+     {
+      "t": " is staying with us; she arrived here only a week before the little one died."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0178-b0003",
+   "type": "body",
+   "align": "indented",
+   "page": 178,
+   "leaf": 177,
+   "folio": "148",
+   "bbox": [
+    180,
+    230,
+    935,
+    455
+   ],
+   "lines": [
+    [
+     {
+      "t": "For the last fortnight, since Sonia's illness, I have not been able to work. I have written a letter of apology to Katkov, and in the May number of the "
+     },
+     {
+      "t": "Roussky Viestnik",
+      "c": "i"
+     },
+     {
+      "t": ", again only three chapters can appear. But I hope from now to be able to work day and night, so that from the June number onward the novel will appear with some degree of regularity."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0178-b0004",
+   "type": "body",
+   "align": "indented",
+   "page": 178,
+   "leaf": 177,
+   "folio": "148",
+   "bbox": [
+    180,
+    462,
+    935,
+    580
+   ],
+   "lines": [
+    [
+     {
+      "t": "I thank you for consenting to be godfather to the little one. She was baptized a week before her death. . . ."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0178-b0005",
+   "type": "editorial",
+   "align": "indented",
+   "page": 178,
+   "leaf": 177,
+   "folio": "148",
+   "bbox": [
+    210,
+    598,
+    920,
+    648
+   ],
+   "lines": [
+    [
+     {
+      "t": "[The second half of the letter is on business only.]"
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": [
+  {
+   "id": "fn-p0178-1",
+   "label": "1",
+   "page": 178,
+   "lines": [
+    [
+     {
+      "t": "His wife's mother."
+     }
+    ]
+   ]
+  }
+ ]
+}

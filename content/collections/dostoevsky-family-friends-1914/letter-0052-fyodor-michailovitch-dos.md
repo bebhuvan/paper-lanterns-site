@@ -1,0 +1,219 @@
+{
+ "title": "LII · To Apollon Nikolayevitch Maikov",
+ "layout": "letter",
+ "weight": 52,
+ "description": "My attacks, after a long respite, are now coming on me terribly again, and disturb me in my work. I have a big idea in hand; I don't mean…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0052",
+ "number": "LII",
+ "sequence": 52,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1870-02-24",
+  "display": "24 February 1870",
+  "short": "24 · II · 1870"
+ },
+ "period": "Abroad",
+ "place": "Dresden",
+ "sender": "Fyodor Michailovitch Dostoevsky",
+ "recipient": "Apollon Nikolayevitch Maikov",
+ "salutation": "",
+ "incipit": "My attacks, after a long respite, are now coming on me terribly again, and disturb me in my work. I have a big idea in hand; I don't mean…",
+ "start_page": 215,
+ "end_page": 216,
+ "start_folio": "183",
+ "end_folio": "184",
+ "pages": [
+  {
+   "page": 215,
+   "leaf": 214,
+   "folio": "183"
+  },
+  {
+   "page": 216,
+   "leaf": 215,
+   "folio": "184"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0215-b0004",
+   "type": "letter_header",
+   "align": "center",
+   "page": 215,
+   "leaf": 214,
+   "folio": "183",
+   "bbox": [
+    410,
+    618,
+    470,
+    646
+   ],
+   "lines": [
+    [
+     {
+      "t": "LII"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0215-b0005",
+   "type": "letter_header",
+   "align": "center",
+   "page": 215,
+   "leaf": 214,
+   "folio": "183",
+   "bbox": [
+    205,
+    660,
+    690,
+    698
+   ],
+   "lines": [
+    [
+     {
+      "t": "To Apollon Nikolayevitch Maikov",
+      "c": "i"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0215-b0006",
+   "type": "dateline",
+   "align": "right",
+   "page": 215,
+   "leaf": 214,
+   "folio": "183",
+   "bbox": [
+    530,
+    720,
+    825,
+    760
+   ],
+   "lines": [
+    [
+     {
+      "t": "Dresden",
+      "c": "sc"
+     },
+     {
+      "t": ","
+     }
+    ],
+    [
+     {
+      "t": "February",
+      "c": "i"
+     },
+     {
+      "t": " 12 [24], 1870."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0215-b0007",
+   "type": "body",
+   "align": "left",
+   "page": 215,
+   "leaf": 214,
+   "folio": "183",
+   "bbox": [
+    68,
+    778,
+    825,
+    905
+   ],
+   "lines": [
+    [
+     {
+      "t": "My attacks, after a long respite, are now coming on me terribly again, and disturb me in my work. I have a big idea in hand"
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0215-1"
+     },
+     {
+      "t": "; I don't mean that the execution is big, but the idea "
+     },
+     {
+      "t": "as such",
+      "c": "i"
+     },
+     {
+      "t": ". It is somewhat in the kind of “ Raskolnikov ” [“ Crime and Punishment ”], but is still closer to actuality, and deals with"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0216-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 216,
+   "leaf": 215,
+   "folio": "184",
+   "bbox": [
+    180,
+    82,
+    935,
+    383
+   ],
+   "lines": [
+    [
+     {
+      "t": "the most weighty question of our time. I shall be ready with it in the autumn ; and that without over-hurrying. I shall make an effort to bring out the book directly—that is, in the autumn too ; if I can't, it won't matter. I hope to earn at least as much money with it as I did with “ Raskolnikov ” ; and so look forward to having all my affairs in order by the end of the year, and returning to Russia. Only the theme is almost too intense and thrilling. I have never yet worked so easily and with such enjoyment. But enough. I must be positively slaying you with my interminable letters ! . . ."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0216-b0003",
+   "type": "editorial",
+   "align": "left",
+   "page": 216,
+   "leaf": 215,
+   "folio": "184",
+   "bbox": [
+    180,
+    392,
+    935,
+    448
+   ],
+   "lines": [
+    [
+     {
+      "t": "[The greater part of the letter refers to his relations with the publisher Stellovsky, and with the staff of the "
+     },
+     {
+      "t": "Sarya.",
+      "c": "i"
+     },
+     {
+      "t": "]"
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": [
+  {
+   "id": "fn-p0215-1",
+   "label": "1",
+   "page": 215,
+   "lines": [
+    [
+     {
+      "t": "“ The Possessed.”"
+     }
+    ]
+   ]
+  }
+ ]
+}

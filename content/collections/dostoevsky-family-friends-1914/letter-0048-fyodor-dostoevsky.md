@@ -1,0 +1,658 @@
+{
+ "title": "XLVIII · To his Niece Sofia Alexandrovna",
+ "layout": "letter",
+ "weight": 48,
+ "description": "You have, as I begged you, answered all my letters regularly by return, my dear and precious friend Sonetchka. But I have broken my word…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0048",
+ "number": "XLVIII",
+ "sequence": 48,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1869-03-20",
+  "display": "20 March 1869",
+  "short": "20 · III · 1869"
+ },
+ "period": "Abroad",
+ "place": "Florence",
+ "sender": "Fyodor Dostoevsky",
+ "recipient": "Sofia Alexandrovna",
+ "salutation": "",
+ "incipit": "You have, as I begged you, answered all my letters regularly by return, my dear and precious friend Sonetchka. But I have broken my word…",
+ "start_page": 200,
+ "end_page": 206,
+ "start_folio": "168",
+ "end_folio": "174",
+ "pages": [
+  {
+   "page": 200,
+   "leaf": 199,
+   "folio": "168"
+  },
+  {
+   "page": 201,
+   "leaf": 200,
+   "folio": "169"
+  },
+  {
+   "page": 202,
+   "leaf": 201,
+   "folio": "170"
+  },
+  {
+   "page": 203,
+   "leaf": 202,
+   "folio": "171"
+  },
+  {
+   "page": 204,
+   "leaf": 203,
+   "folio": "172"
+  },
+  {
+   "page": 205,
+   "leaf": 204,
+   "folio": "173"
+  },
+  {
+   "page": 206,
+   "leaf": 205,
+   "folio": "174"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0200-b0004",
+   "type": "letter_header",
+   "align": "center",
+   "page": 200,
+   "leaf": 199,
+   "folio": "168",
+   "bbox": [
+    487,
+    385,
+    615,
+    415
+   ],
+   "lines": [
+    [
+     {
+      "t": "XLVIII"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0200-b0005",
+   "type": "letter_header",
+   "align": "center",
+   "page": 200,
+   "leaf": 199,
+   "folio": "168",
+   "bbox": [
+    320,
+    428,
+    790,
+    460
+   ],
+   "lines": [
+    [
+     {
+      "t": "To his Niece Sofia Alexandrovna",
+      "c": "i"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0200-b0006",
+   "type": "dateline",
+   "align": "right",
+   "page": 200,
+   "leaf": 199,
+   "folio": "168",
+   "bbox": [
+    685,
+    466,
+    860,
+    516
+   ],
+   "lines": [
+    [
+     {
+      "t": "Florence",
+      "c": "sc"
+     },
+     {
+      "t": ","
+     }
+    ],
+    [
+     {
+      "t": "March",
+      "c": "i"
+     },
+     {
+      "t": " 8 [20], 1869."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0200-b0007",
+   "type": "body",
+   "align": "indented",
+   "page": 200,
+   "leaf": 199,
+   "folio": "168",
+   "bbox": [
+    177,
+    540,
+    935,
+    832
+   ],
+   "lines": [
+    [
+     {
+      "t": "You have, as I begged you, answered all my letters regularly by return, my dear and precious friend Sonetchka. But I have broken my word, and made you wait more than a fortnight for my answers. This time I can't even excuse myself by pressure of work, for all my jobs have long been ready and delivered. I can explain my silence only by the depressed state of mind in which I have been."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0200-b0008",
+   "type": "body",
+   "align": "indented",
+   "page": 200,
+   "leaf": 199,
+   "folio": "168",
+   "bbox": [
+    177,
+    836,
+    938,
+    1000
+   ],
+   "lines": [
+    [
+     {
+      "t": "The "
+     },
+     {
+      "t": "Roussky Viestnik",
+      "c": "i"
+     },
+     {
+      "t": " did not answer my request for money for "
+     },
+     {
+      "t": "seven weeks",
+      "c": "i"
+     },
+     {
+      "t": " (so that I had to wait through all Lent); only to-day have I received the money, though I had depicted my desperate situation to the people there more than two months ago. They write, with "
+     },
+     {
+      "t": "many",
+      "c": "i"
+     },
+     {
+      "t": " apologies, that they have not been able to send me the money any sooner, because, as always at the beginning of the year, they were confronted with a terrible lot of work that could not be postponed, and with the accounts. And it is a fact that about New Year one never can get anything out of them; it was wont to be so in earlier days, and I can still remember how in the years 1866 and 1867 they made me wait whole months for an answer, just as now. So we've had anything but an easy time of it—we"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0201-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 201,
+   "leaf": 200,
+   "folio": "169",
+   "bbox": [
+    58,
+    82,
+    822,
+    905
+   ],
+   "lines": [
+    [
+     {
+      "t": "were even in actual distress. If we had not been able to borrow two hundred francs from an acquaintance, and to get a further hundred from other sources, we might easily have died of hunger in this foreign town. But what worried us most was the constant suspense and uncertainty. In such circumstances, I could not possibly write to anyone, not even you, my dear. Evidently the staff, as I gather from their letter, wish to retain me as a contributor; otherwise they would not have granted me a further advance. Indeed I can’t complain of Katkov, and am even grateful to him for the many advances he has made me. Journals are impoverished nowadays, and don’t usually give any advances; but in the very beginning, before I even began to write the novel, I had 4,000 roubles from these people. For that reason I must not be either angry or disloyal. . . . I must strive even harder than hitherto to make myself useful to them. You write that people declare the magazine has lost ground. Is that really possible? I can’t at all believe it; of course not because "
+     },
+     {
+      "t": "I",
+      "c": "i"
+     },
+     {
+      "t": " am a contributor, but because the paper is, in my opinion, the best in Russia, and strikes a really consistent note. To be sure, it is a little dry; and the literary side is not always up to the mark (but not oftener than in the other magazines; all the best works of modern literature have appeared therein: “War and Peace,” “Fathers and Sons,” etc., to say nothing of more distant years; and the public knows that well); critical articles are rare (but often very remarkable, particularly when it is not a question of so-called fine literature); but then there appear annually, as every subscriber knows, three or four strikingly able, apt, individual, and in these days most necessary articles,"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0202-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 202,
+   "leaf": 201,
+   "folio": "170",
+   "bbox": [
+    172,
+    96,
+    930,
+    185
+   ],
+   "lines": [
+    [
+     {
+      "t": "such as one finds nowhere else. The public knows that, too. Therefore I believe that the paper, even if it "
+     },
+     {
+      "t": "is",
+      "c": "i"
+     },
+     {
+      "t": " dry and addressed to a particular section of the public, cannot possibly lose ground."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0202-b0003",
+   "type": "body",
+   "align": "indented",
+   "page": 202,
+   "leaf": 201,
+   "folio": "170",
+   "bbox": [
+    172,
+    188,
+    930,
+    540
+   ],
+   "lines": [
+    [
+     {
+      "t": "In the year 1867, Katkov told me, in the presence of Lyubimov and the editorial secretary, that the paper had five hundred more subscribers than the year before, which was to be attributed entirely to the success of my “Raskolnikov.”"
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0202-1"
+     },
+     {
+      "t": " I hardly think that “The Idiot” will have obtained fresh subscribers for the paper; therefore I am doubly glad that, despite the manifest failure of the story, they still depend on me. The editors beg me to excuse them for being unable to bring out the conclusion in the December number, and propose to send it to subscribers as a supplement. This is quite peculiarly painful for me. Have "
+     },
+     {
+      "t": "you",
+      "c": "i"
+     },
+     {
+      "t": " had the conclusion? Do write and tell me. I get the "
+     },
+     {
+      "t": "Roussky Viestnik",
+      "c": "i"
+     },
+     {
+      "t": " here, however; perhaps the supplement will come with the February number."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0202-b0004",
+   "type": "body",
+   "align": "indented",
+   "page": 202,
+   "leaf": 201,
+   "folio": "170",
+   "bbox": [
+    172,
+    545,
+    930,
+    780
+   ],
+   "lines": [
+    [
+     {
+      "t": "From Petersburg I am told quite frankly that “The Idiot” has certainly many shortcomings, and is generally regarded as a falling off; but nevertheless has been followed with great interest by those who read at all. And that is really the utmost I aimed at. As to the shortcomings, I perfectly discern them myself; I am so vexed by my errors that I should like to have written a criticism of the book. Strachov means to send me his article on “The Idiot”; I know that he is not among my partisans."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0202-b0005",
+   "type": "body",
+   "align": "indented",
+   "page": 202,
+   "leaf": 201,
+   "folio": "170",
+   "bbox": [
+    172,
+    785,
+    930,
+    905
+   ],
+   "lines": [
+    [
+     {
+      "t": "I clearly perceive that I am writing only about myself to-day; but as I am now in that vein, I'll go on, and I beg you to hear me patiently. On all these "
+     },
+     {
+      "t": "literary matters",
+      "c": "i"
+     },
+     {
+      "t": " depend now my whole future, and"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0203-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 203,
+   "leaf": 202,
+   "folio": "171",
+   "bbox": [
+    60,
+    82,
+    830,
+    330
+   ],
+   "lines": [
+    [
+     {
+      "t": "my return to Russia. My dearest wish is to embrace you all, and ever to remain with you; perhaps it will really come true some day! I needn’t emphasize the fact, dear friend (and you will be sure to understand me), that my whole literary activity has embodied for me but one definite ideal value, but one aim, but one hope—and that I do not strive for fame and money, but only and solely for the synthesis of my imaginative and literary ideals, which means that before I die I desire to speak out, in some work that shall as far as possible express the whole of what I think."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0203-b0003",
+   "type": "body",
+   "align": "indented",
+   "page": 203,
+   "leaf": 202,
+   "folio": "171",
+   "bbox": [
+    60,
+    335,
+    830,
+    530
+   ],
+   "lines": [
+    [
+     {
+      "t": "At the moment I am meditating a novel. It will be called “Atheism”; I think that I shall succeed in saying all that I wish to say. But think, my dear: I cannot possibly write here. I must absolutely be in Russia, I must see and hear everything, I must take my own part in Russian life; and besides, the work would take at least two years. I can’t do it here, and must therefore write something else in the meantime."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0203-b0004",
+   "type": "body",
+   "align": "indented",
+   "page": 203,
+   "leaf": 202,
+   "folio": "171",
+   "bbox": [
+    60,
+    535,
+    830,
+    740
+   ],
+   "lines": [
+    [
+     {
+      "t": "On this account, life abroad becomes more unbearable to me every day. You must know that I should have 6,000, or at the very least 5,000, roubles before I can think of returning to Russia. I reckoned originally on the success of “The Idiot.” If it had been equal to that of “Raskolnikov,” I should have had those 5,000 roubles. Now I must set all my hopes on the future. God knows when I shall be able to return. But return I must."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0203-b0005",
+   "type": "body",
+   "align": "indented",
+   "page": 203,
+   "leaf": 202,
+   "folio": "171",
+   "bbox": [
+    60,
+    745,
+    830,
+    900
+   ],
+   "lines": [
+    [
+     {
+      "t": "You write of Turgenev and the Germans. Turgenev, however, has lost all his talent in this foreign sojourn, as already the "
+     },
+     {
+      "t": "Golos",
+      "c": "i"
+     },
+     {
+      "t": " has declared. Certainly no such danger threatens me as that of succumbing to Germanic influence, for I do not like the Germans. But I must contrive to live in Russia, for here I shall"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0204-b0004",
+   "type": "body",
+   "align": "left",
+   "page": 204,
+   "leaf": 203,
+   "folio": "172",
+   "bbox": [
+    183,
+    88,
+    940,
+    210
+   ],
+   "lines": [
+    [
+     {
+      "t": "lose the last vestiges of my talent and my powers. I feel that, in all my being. Therefore I must talk to you still more about those literary matters upon which depend my present, my future, and my return to Russia. So I continue."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0204-b0005",
+   "type": "body",
+   "align": "left",
+   "page": 204,
+   "leaf": 203,
+   "folio": "172",
+   "bbox": [
+    172,
+    213,
+    940,
+    888
+   ],
+   "lines": [
+    [
+     {
+      "t": "The "
+     },
+     {
+      "t": "Sarya",
+      "c": "i"
+     },
+     {
+      "t": " sent me, through Strachov, a second letter with an official request to contribute. This invitation comes from Strachov, from the editor Kachpirev, and some other contributors whom I do not personally know (Gradovsky is not among them); Danilevsky also (whom I have not seen for twenty years) is of the number—this is not the novelist Danilevsky, but another very remarkable man of the same name. I perceive that a set of new coadjutors of great distinction, and of thoroughly Russian and national tendency, have clustered round this journal. The first number impressed me deeply with its very frank and outspoken tone, but especially the two long articles by Strachov and Danilevsky. You must be sure to read Strachov’s. It is quite certain that you have never read any critical writing that can compare with it. Danilevsky’s article, “Europe and Russia,” is to be very long and run through several numbers. This Danilevsky is a most unusual phenomenon. Once upon a time he was a Socialist and Fourierist; twenty years ago, even, when he was involved in our affair, he struck me as most remarkable; from his banishment he returned a thorough Russian and Nationalist. This article (which I very particularly recommend to you) is his maiden effort. The paper seems to me, in general, to have a great future before it; but will the contributors continue to pull together? Again, Strachov, the real editor, strikes me as little fitted for a continuous task. But I"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0205-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 205,
+   "leaf": 204,
+   "folio": "173",
+   "bbox": [
+    65,
+    100,
+    830,
+    740
+   ],
+   "lines": [
+    [
+     {
+      "t": "may be mistaken. I answered the invitation to collaborate thus: I was most willing (I said) to contribute to the paper; but as my situation obliged me always to demand payment in advance, which, moreover, Katkov had always allowed me to do, I now begged for an advance of a thousand roubles. (It is not too much: what am I to live on while I'm doing the work? I can't possibly ask Katkov for money, while I'm working for another paper.) I sent this letter some days ago, and am now awaiting the answer. All I know is this: if they have money, they'll send it me at once; but I must reckon with the possibility that they have none, for I know from experience what difficulties a new journal has to encounter in its first year. Even if they do send me the thousand roubles, that will be no particular advantage to me. From Katkov I could have got quite as much, even a great deal more. The only advantage would be that I should at once have a large sum of money (which I urgently need) to dispose of; I could then lay aside 400 roubles for Pasha and Emilie Fyodorovna, and besides that pay a peculiarly worrying debt that I owe in Petersburg: it is a debt of honour without any promissory note. It's only on account of this debt that I've asked for the advance."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0205-b0003",
+   "type": "body",
+   "align": "indented",
+   "page": 205,
+   "leaf": 204,
+   "folio": "173",
+   "bbox": [
+    65,
+    740,
+    830,
+    935
+   ],
+   "lines": [
+    [
+     {
+      "t": "Again, I think it would be to my advantage to appear successfully before the public in another paper; for then the "
+     },
+     {
+      "t": "Roussky Viestnik",
+      "c": "i"
+     },
+     {
+      "t": " would esteem me more highly still. I fear only that the "
+     },
+     {
+      "t": "Viestnik",
+      "c": "i"
+     },
+     {
+      "t": " people may be offended, although I never promised them an "
+     },
+     {
+      "t": "exclusive",
+      "c": "i"
+     },
+     {
+      "t": " collaboration, and consequently have a right to work for other papers. But I don't quite like the fact that I still owe the "
+     },
+     {
+      "t": "R. V.",
+      "c": "i"
+     },
+     {
+      "t": " about 2,000 roubles,"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0206-b0004",
+   "type": "body",
+   "align": "left",
+   "page": 206,
+   "leaf": 205,
+   "folio": "174",
+   "bbox": [
+    190,
+    92,
+    945,
+    367
+   ],
+   "lines": [
+    [
+     {
+      "t": "for I've gradually obtained from them as much as 7,000 roubles. It's just on that ground that they may take it ill of me. But three months ago, I wrote and told them that the novel I had promised them could not appear this year, but only in the course of next (1870). For the "
+     },
+     {
+      "t": "Sarya",
+      "c": "i"
+     },
+     {
+      "t": " I want to write a story which would take about four months to do, and to which I propose to devote the hours that I had reserved to myself for walks and recreation after my fourteen months of labour. But I am afraid that the affair will get talked about, and that this may injure me with the "
+     },
+     {
+      "t": "Roussky Viestnik",
+      "c": "i"
+     },
+     {
+      "t": ". . . ."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0206-b0005",
+   "type": "valediction",
+   "align": "cascading",
+   "page": 206,
+   "leaf": 205,
+   "folio": "174",
+   "bbox": [
+    515,
+    375,
+    720,
+    397
+   ],
+   "lines": [
+    [
+     {
+      "t": "Wholly yours,"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0206-b0006",
+   "type": "signature",
+   "align": "cascading",
+   "page": 206,
+   "leaf": 205,
+   "folio": "174",
+   "bbox": [
+    595,
+    400,
+    915,
+    425
+   ],
+   "lines": [
+    [
+     {
+      "t": "Fyodor Dostoevsky.",
+      "c": "sc"
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": [
+  {
+   "id": "fn-p0202-1",
+   "label": "1",
+   "page": 202,
+   "lines": [
+    [
+     {
+      "t": "“Crime and Punishment.”"
+     }
+    ]
+   ]
+  }
+ ]
+}

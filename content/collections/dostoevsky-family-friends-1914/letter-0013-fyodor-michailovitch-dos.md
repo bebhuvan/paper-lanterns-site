@@ -1,0 +1,207 @@
+{
+ "title": "XIII · To his Brother Michael",
+ "layout": "letter",
+ "weight": 13,
+ "description": "I mean to write to you only a few lines, for I have a terrible crop of worries, and my situation is desperate. The truth is that all my…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0013",
+ "number": "XIII",
+ "sequence": 13,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1846",
+  "display": "1846",
+  "short": "1846"
+ },
+ "period": "Petersburg",
+ "place": "",
+ "sender": "Fyodor Michailovitch Dostoevsky",
+ "recipient": "his Brother Michael",
+ "salutation": "Dearest Brother,",
+ "incipit": "I mean to write to you only a few lines, for I have a terrible crop of worries, and my situation is desperate. The truth is that all my…",
+ "start_page": 63,
+ "end_page": 64,
+ "start_folio": "39",
+ "end_folio": "40",
+ "pages": [
+  {
+   "page": 63,
+   "leaf": 62,
+   "folio": "39"
+  },
+  {
+   "page": 64,
+   "leaf": 63,
+   "folio": "40"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0063-b0005",
+   "type": "letter_header",
+   "align": "center",
+   "page": 63,
+   "leaf": 62,
+   "folio": "39",
+   "bbox": [
+    400,
+    525,
+    600,
+    555
+   ],
+   "lines": [
+    [
+     {
+      "t": "XIII"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0063-b0006",
+   "type": "letter_header",
+   "align": "center",
+   "page": 63,
+   "leaf": 62,
+   "folio": "39",
+   "bbox": [
+    270,
+    565,
+    630,
+    600
+   ],
+   "lines": [
+    [
+     {
+      "t": "To his Brother Michael",
+      "c": "i"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0063-b0007",
+   "type": "dateline",
+   "align": "right",
+   "page": 63,
+   "leaf": 62,
+   "folio": "39",
+   "bbox": [
+    625,
+    605,
+    800,
+    635
+   ],
+   "lines": [
+    [
+     {
+      "t": "["
+     },
+     {
+      "t": "Undated",
+      "c": "i"
+     },
+     {
+      "t": "] 1846."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0063-b0008",
+   "type": "salutation",
+   "align": "left",
+   "page": 63,
+   "leaf": 62,
+   "folio": "39",
+   "bbox": [
+    105,
+    620,
+    385,
+    650
+   ],
+   "lines": [
+    [
+     {
+      "t": "Dearest Brother,",
+      "c": "sc"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0063-b0009",
+   "type": "body",
+   "align": "indented",
+   "page": 63,
+   "leaf": 62,
+   "folio": "39",
+   "bbox": [
+    70,
+    655,
+    825,
+    935
+   ],
+   "lines": [
+    [
+     {
+      "t": "I mean to write to you only a few lines, for I have a terrible crop of worries, and my situation is desperate. The truth is that all my plans have come to naught. The volume of stories is done for, because not a single one of the tales I told you about lately has come off. Even the “Whiskers” I have abandoned. I’ve abandoned the whole lot, for they are nothing but a repetition of old stuff, long since given forth by me. I have heaps of original, vital, and lucid thoughts that all yearn to come to the birth. When I had written the conclusion of the “Whiskers” I saw this all by myself. In my position, any monotony is fatal."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0064-b0004",
+   "type": "body",
+   "align": "indented",
+   "page": 64,
+   "leaf": 63,
+   "folio": "40",
+   "bbox": [
+    185,
+    88,
+    940,
+    258
+   ],
+   "lines": [
+    [
+     {
+      "t": "I am writing a new story, and the work, as with “Poor Folk,” goes easily and lightly. I had intended this tale for Krayevsky. The gentlemen on the "
+     },
+     {
+      "t": "Sovremennik",
+      "c": "i"
+     },
+     {
+      "t": " may resent this; it will affect me but little. If I have this story ready in January, I shall print nothing till the following year; I want to write a novel, and shan't rest till I do."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0064-b0005",
+   "type": "body",
+   "align": "indented",
+   "page": 64,
+   "leaf": 63,
+   "folio": "40",
+   "bbox": [
+    185,
+    258,
+    940,
+    320
+   ],
+   "lines": [
+    [
+     {
+      "t": "But that I may live in the meantime, I intend to bring out “Poor Folk” and the over-written “Goliadkin” in book-form. . . ."
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": []
+}

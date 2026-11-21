@@ -1,0 +1,241 @@
+{
+ "title": "LVII · To Nikolay Nikolayevitch Strachov",
+ "layout": "letter",
+ "weight": 57,
+ "description": "By chance the Viestnik Europi for the current year fell into my hands, and I looked through all the numbers that have appeared. I was…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0057",
+ "number": "LVII",
+ "sequence": 57,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1870-06-23",
+  "display": "23 June 1870",
+  "short": "23 · VI · 1870"
+ },
+ "period": "Abroad",
+ "place": "Dresden",
+ "sender": "Fyodor Michailovitch Dostoevsky",
+ "recipient": "Nikolay Nikolayevitch Strachov",
+ "salutation": "",
+ "incipit": "By chance the Viestnik Europi for the current year fell into my hands, and I looked through all the numbers that have appeared. I was…",
+ "start_page": 230,
+ "end_page": 231,
+ "start_folio": "196",
+ "end_folio": "197",
+ "pages": [
+  {
+   "page": 230,
+   "leaf": 229,
+   "folio": "196"
+  },
+  {
+   "page": 231,
+   "leaf": 230,
+   "folio": "197"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0230-b0005",
+   "type": "letter_header",
+   "align": "center",
+   "page": 230,
+   "leaf": 229,
+   "folio": "196",
+   "bbox": [
+    540,
+    475,
+    640,
+    500
+   ],
+   "lines": [
+    [
+     {
+      "t": "LVII"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0230-b0006",
+   "type": "letter_header",
+   "align": "center",
+   "page": 230,
+   "leaf": 229,
+   "folio": "196",
+   "bbox": [
+    320,
+    515,
+    820,
+    545
+   ],
+   "lines": [
+    [
+     {
+      "t": "To Nikolay Nikolayevitch Strachov",
+      "c": "i"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0230-b0007",
+   "type": "dateline",
+   "align": "right",
+   "page": 230,
+   "leaf": 229,
+   "folio": "196",
+   "bbox": [
+    700,
+    555,
+    925,
+    600
+   ],
+   "lines": [
+    [
+     {
+      "t": "Dresden,",
+      "c": "sc"
+     }
+    ],
+    [
+     {
+      "t": "June",
+      "c": "i"
+     },
+     {
+      "t": " 11 [23], 1870."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0230-b0008",
+   "type": "editorial",
+   "align": "left",
+   "page": 230,
+   "leaf": 229,
+   "folio": "196",
+   "bbox": [
+    190,
+    610,
+    945,
+    690
+   ],
+   "lines": [
+    [
+     {
+      "t": "[In the first half of the letter Dostoevsky complains of Kachpirev, who has not agreed to his proposal with regard to “ The Life-Story of a Great Sinner.”]"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0230-b0009",
+   "type": "body",
+   "align": "left",
+   "page": 230,
+   "leaf": 229,
+   "folio": "196",
+   "bbox": [
+    190,
+    695,
+    945,
+    925
+   ],
+   "lines": [
+    [
+     {
+      "t": "By chance the "
+     },
+     {
+      "t": "Viestnik Europi",
+      "c": "i"
+     },
+     {
+      "t": " "
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0230-1"
+     },
+     {
+      "t": " for the current year fell into my hands, and I looked through all the numbers that have appeared. I was amazed. How can this unbelievably mediocre journal (which at its best can only be classed with the "
+     },
+     {
+      "t": "Northern Bee",
+      "c": "i"
+     },
+     {
+      "t": " of Bulgaria) have such vogue with us (6,000 copies in the second edition !). It is because they know their business. How deftly they adopt the popular tone ! An insipid pattern for Liberalism ! These are the"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0231-b0003",
+   "type": "body",
+   "align": "left",
+   "page": 231,
+   "leaf": 230,
+   "folio": "197",
+   "bbox": [
+    65,
+    85,
+    830,
+    725
+   ],
+   "lines": [
+    [
+     {
+      "t": "things we like. But the paper is, nevertheless, very well managed. It appears punctually each month, and has a varied staff of contributors. I read, among other things, “The Execution of Tropmann,” by Turgenev. You may be of a different opinion, Nikolay Nikolayevitch, but I was infuriated by that pretentious and paltry piece of pathos. Why does he keep on explaining that he was very wrong to look on at the execution ? Certainly he was, if the whole thing was a mere drama for him; but the sons of men have "
+     },
+     {
+      "t": "not",
+      "c": "i"
+     },
+     {
+      "t": " the right to turn away from anything that happens on the earth and ignore it; no, on the highest moral grounds they have not. "
+     },
+     {
+      "t": "Homo sum et nihil humani",
+      "c": "i"
+     },
+     {
+      "t": " . . . and so forth. Peculiarly comic is it, when at the last moment he "
+     },
+     {
+      "t": "does",
+      "c": "i"
+     },
+     {
+      "t": " turn away, and thus avoids seeing the actual execution. “ Look you, gentlemen, of what delicate upbringing I am ! I could not endure that sight !” All through, he betrays himself. The most definite impression that one gets from the whole article is that he is desperately concerned with himself and his own peace of mind, even when it comes to the cutting off of heads. Oh, I spit upon the whole business. I am fairly sick of folk. I consider Turgenev the most played-out of all played-out Russian writers, whatever you, Nikolay Nikolayevitch, may write in Turgenev’s favour : please, don’t take it ill of me. . . ."
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": [
+  {
+   "id": "fn-p0230-1",
+   "label": "1",
+   "page": 230,
+   "lines": [
+    [
+     {
+      "t": "The European Gazette :",
+      "c": "i"
+     },
+     {
+      "t": " a monthly."
+     }
+    ]
+   ]
+  }
+ ]
+}

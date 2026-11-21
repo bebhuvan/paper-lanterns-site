@@ -1,0 +1,255 @@
+{
+ "title": "XXIII · To Mme. Maria Dmitryevna Issayev1",
+ "layout": "letter",
+ "weight": 23,
+ "description": "Yegorovitch, who was to have taken it to the post, quite suddenly left for Smyev last Saturday, and I never heard of his departure till…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0023",
+ "number": "XXIII",
+ "sequence": 23,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1855-06-04",
+  "display": "4 June 1855",
+  "short": "4 · VI · 1855"
+ },
+ "period": "Semipalatinsk",
+ "place": "From Semipalatinsk to Kusnezk [in the Tomsk Government]",
+ "sender": "Fyodor Dostoevsky",
+ "recipient": "Mme. Maria Dmitryevna Issayev",
+ "salutation": "A thousand thanks for your dear letter on the journey, my dear and unforgettable friend Maria Dmitryevna. I hope that you and Alexander Ivanovitch will allow me to call you both friends. We certainly were friends here, and I trust we shall remain so. Is mere separation to alter us? I believe not; for the parting from you, my dear friends, lies so heavily upon me that by that alone I can judge how very much I cling to you. Just imagine: this is the second letter I have written to you. I had an answer to your dear cordial letter ready for the earlier post, dear Maria Dmitryevna, but I never sent it. Alexander",
+ "incipit": "Yegorovitch, who was to have taken it to the post, quite suddenly left for Smyev last Saturday, and I never heard of his departure till…",
+ "start_page": 99,
+ "end_page": 100,
+ "start_folio": "73",
+ "end_folio": "74",
+ "pages": [
+  {
+   "page": 99,
+   "leaf": 98,
+   "folio": "73"
+  },
+  {
+   "page": 100,
+   "leaf": 99,
+   "folio": "74"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0099-b0005",
+   "type": "letter_header",
+   "align": "center",
+   "page": 99,
+   "leaf": 98,
+   "folio": "73",
+   "bbox": [
+    360,
+    440,
+    490,
+    475
+   ],
+   "lines": [
+    [
+     {
+      "t": "XXIII"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0099-b0006",
+   "type": "letter_header",
+   "align": "center",
+   "page": 99,
+   "leaf": 98,
+   "folio": "73",
+   "bbox": [
+    145,
+    485,
+    705,
+    520
+   ],
+   "lines": [
+    [
+     {
+      "t": "To Mme. Maria Dmitryevna Issayev",
+      "c": "i"
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0099-1"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0099-b0007",
+   "type": "dateline",
+   "align": "right",
+   "page": 99,
+   "leaf": 98,
+   "folio": "73",
+   "bbox": [
+    260,
+    525,
+    775,
+    640
+   ],
+   "lines": [
+    [
+     {
+      "t": "From Semipalatinsk to Kusnezk",
+      "c": "sc"
+     }
+    ],
+    [
+     {
+      "t": "[in the Tomsk Government]",
+      "c": "sc"
+     },
+     {
+      "t": ","
+     }
+    ],
+    [
+     {
+      "t": "June",
+      "c": "i"
+     },
+     {
+      "t": " 4, 1855."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0099-b0008",
+   "type": "salutation",
+   "align": "left",
+   "page": 99,
+   "leaf": 98,
+   "folio": "73",
+   "bbox": [
+    40,
+    650,
+    805,
+    885
+   ],
+   "lines": [
+    [
+     {
+      "t": "A thousand thanks for your dear letter on the journey, my dear and unforgettable friend Maria Dmitryevna. I hope that you and Alexander Ivanovitch"
+     },
+     {
+      "t": "2",
+      "tag": "sup",
+      "fn": "fn-p0099-2"
+     },
+     {
+      "t": " will allow me to call you both friends. We certainly were friends here, and I trust we shall remain so. Is mere separation to alter us? I believe not; for the parting from you, my dear friends, lies so heavily upon me that by that alone I can judge how very much I cling to you. Just imagine: this is the second letter I have written to you. I had an answer to your dear cordial letter ready for the earlier post, dear Maria Dmitryevna, but I never sent it. Alexander"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0100-b0004",
+   "type": "body",
+   "align": "left",
+   "page": 100,
+   "leaf": 99,
+   "folio": "74",
+   "bbox": [
+    208,
+    95,
+    960,
+    299
+   ],
+   "lines": [
+    [
+     {
+      "t": "Yegorovitch,"
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0100-1"
+     },
+     {
+      "t": " who was to have taken it to the post, quite suddenly left for Smyev last Saturday, and I never heard of his departure till Sunday. His servant simultaneously disappeared for two days, and the letter remained in my pocket. Hard luck! I am now writing to you again, but know not if this letter will get off either. Alexander Yegorovitch is not back yet. But they have sent a special messenger after him."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0100-b0005",
+   "type": "body",
+   "align": "left",
+   "page": 100,
+   "leaf": 99,
+   "folio": "74",
+   "bbox": [
+    208,
+    306,
+    960,
+    882
+   ],
+   "lines": [
+    [
+     {
+      "t": "Here we hourly expect the Governor-General; he may perhaps be already arrived. It is said that he will spend about five days here. But enough of that. How did you arrive at Kusnezk? I hope and pray that nothing happened to you on the way. You write that you are depressed and even ill. So I am most anxious about you. The mere move caused you such trouble and such unavoidable discomforts, and now there's this illness added! How are you to bear it all? I can think of nothing but you. You know how apprehensive I am, so you can picture my anxiety. My God, how little you—"
+     },
+     {
+      "t": "you",
+      "c": "i"
+     },
+     {
+      "t": ", who might be an ornament to any society—deserve this fate with all its petty cares and contrarieties! Accursed destiny! I await your letter with impatience. If only it would come by this post! I went several times to find out if it had; but Alexander Yegorovitch is not back yet. You ask me how I pass the time, and how I arrange my day without you. For a fortnight I have not known what to do with myself, so sad am I. If you only knew how orphaned I now feel! It is just like the time when they arrested me in 1849, put me in prison, and tore me from all that I loved and prized. So very much"
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": [
+  {
+   "id": "fn-p0099-1",
+   "label": "1",
+   "page": 99,
+   "lines": [
+    [
+     {
+      "t": "Dostoevsky's future wife. Compare the reminiscences of Baron Vrangel, in the Appendix."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "fn-p0099-2",
+   "label": "2",
+   "page": 99,
+   "lines": [
+    [
+     {
+      "t": "The lady's husband."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "fn-p0100-1",
+   "label": "1",
+   "page": 100,
+   "lines": [
+    [
+     {
+      "t": "Baron Vrangel."
+     }
+    ]
+   ]
+  }
+ ]
+}

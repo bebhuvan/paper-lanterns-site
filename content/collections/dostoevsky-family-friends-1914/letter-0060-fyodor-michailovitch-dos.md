@@ -1,0 +1,205 @@
+{
+ "title": "LX · To Nikolay Nikolayevitch Strachov",
+ "layout": "letter",
+ "weight": 60,
+ "description": "I have not written to you till now, because I have been uninterruptedly occupied with the novel for the Roussky Viestnik. The work was…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0060",
+ "number": "LX",
+ "sequence": 60,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1870-10-21",
+  "display": "21 October 1870",
+  "short": "21 · X · 1870"
+ },
+ "period": "Abroad",
+ "place": "Dresden",
+ "sender": "Fyodor Michailovitch Dostoevsky",
+ "recipient": "Nikolay Nikolayevitch Strachov",
+ "salutation": "",
+ "incipit": "I have not written to you till now, because I have been uninterruptedly occupied with the novel for the Roussky Viestnik. The work was…",
+ "start_page": 243,
+ "end_page": 244,
+ "start_folio": "209",
+ "end_folio": "210",
+ "pages": [
+  {
+   "page": 243,
+   "leaf": 242,
+   "folio": "209"
+  },
+  {
+   "page": 244,
+   "leaf": 243,
+   "folio": "210"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0243-b0002",
+   "type": "letter_header",
+   "align": "center",
+   "page": 243,
+   "leaf": 242,
+   "folio": "209",
+   "bbox": [
+    400,
+    130,
+    460,
+    150
+   ],
+   "lines": [
+    [
+     {
+      "t": "LX"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0243-b0003",
+   "type": "letter_header",
+   "align": "center",
+   "page": 243,
+   "leaf": 242,
+   "folio": "209",
+   "bbox": [
+    190,
+    160,
+    690,
+    185
+   ],
+   "lines": [
+    [
+     {
+      "t": "To Nikolay Nikolayevitch Strachov",
+      "c": "i"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0243-b0004",
+   "type": "dateline",
+   "align": "right",
+   "page": 243,
+   "leaf": 242,
+   "folio": "209",
+   "bbox": [
+    550,
+    195,
+    780,
+    230
+   ],
+   "lines": [
+    [
+     {
+      "t": "Dresden",
+      "c": "sc"
+     },
+     {
+      "t": ","
+     }
+    ],
+    [
+     {
+      "t": "October",
+      "c": "i"
+     },
+     {
+      "t": " 9 [21], 1870"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0243-b0005",
+   "type": "body",
+   "align": "left",
+   "page": 243,
+   "leaf": 242,
+   "folio": "209",
+   "bbox": [
+    45,
+    238,
+    815,
+    925
+   ],
+   "lines": [
+    [
+     {
+      "t": "I have not written to you till now, because I have been uninterruptedly occupied with the novel for the "
+     },
+     {
+      "t": "Roussky Viestnik.",
+      "c": "i"
+     },
+     {
+      "t": " The work was going so badly, and I had to re-write so much, that at last I vowed to myself that I would read nothing and write nothing, and hardly even raise my head from my desk, until I had accomplished what I had set myself to do. And I am only at the beginning now ! It is true that many scenes belonging to the middle of the novel are ready written, and separate bits of what I have rejected I shall still be able to use. Nevertheless, I am still at work on the earliest chapters. That is a bad omen, and yet I mean to make the thing as good as may be. The truth is that the tone and style of a story must make themselves. But true as that is, one occasionally loses one’s note, and has to find it again. In a word : none of my works has given me so much trouble as this one. At the beginning, that is at the end of last year, I thought the novel very “ made ” and artificial, and rather scorned it. But later I was overtaken by real enthusiasm, I fell in love with my work of a sudden, and made a big effort to get all that I had written into good trim. Then, in the summer, came a transformation : up started a new, vital character, who insisted on being the real hero of the book ; the original hero (a most interesting figure, but not worthy to be called a hero) fell into the background. The new one so inspired me that I"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0244-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 244,
+   "leaf": 243,
+   "folio": "210",
+   "bbox": [
+    207,
+    152,
+    960,
+    810
+   ],
+   "lines": [
+    [
+     {
+      "t": "once more began to go over the whole afresh. And now, when I have already sent the beginning to the office of the "
+     },
+     {
+      "t": "Roussky Viestnik",
+      "c": "i"
+     },
+     {
+      "t": ", I am suddenly possessed with terror—I fear that I am not equal to the theme I have chosen. This dread torments me horribly. And yet I have not arbitrarily dragged in my hero. I arranged for his entire rôle in the synopsis of the book (I prepared a synopsis in several sheets, and sketched therein the entire action, though without the dialogues and comments). Therefore I hope that I may still bring off this hero, and even make him a quite new and original figure; I hope and fear simultaneously. For it is really time that I wrote something important at last. Perhaps it will all burst up like a soap-bubble. But come what come will, I must write; the many re-fashionings have lost me much time, and I have very little ready . . ."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0244-b0003",
+   "type": "editorial",
+   "align": "indented",
+   "page": 244,
+   "leaf": 243,
+   "folio": "210",
+   "bbox": [
+    207,
+    818,
+    960,
+    890
+   ],
+   "lines": [
+    [
+     {
+      "t": "[The rest is concerned with journalism and the "
+     },
+     {
+      "t": "Sarya",
+      "c": "i"
+     },
+     {
+      "t": ".]"
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": []
+}

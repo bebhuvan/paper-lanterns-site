@@ -1,0 +1,398 @@
+{
+ "title": "XXXII · To N. N. Strachov1",
+ "layout": "letter",
+ "weight": 32,
+ "description": "And Boborykin may as well know what is known already to the Sovremennik and the Otetschestvennia Zapiski: that I never in my life have sold…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0032",
+ "number": "XXXII",
+ "sequence": 32,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1863-09-30",
+  "display": "30 September 1863",
+  "short": "30 · IX · 1863"
+ },
+ "period": "Tver and Petersburg",
+ "place": "Rome",
+ "sender": "",
+ "recipient": "N. N. Strachov",
+ "salutation": "",
+ "incipit": "And Boborykin may as well know what is known already to the Sovremennik and the Otetschestvennia Zapiski: that I never in my life have sold…",
+ "start_page": 138,
+ "end_page": 140,
+ "start_folio": "108",
+ "end_folio": "110",
+ "pages": [
+  {
+   "page": 138,
+   "leaf": 137,
+   "folio": "108"
+  },
+  {
+   "page": 139,
+   "leaf": 138,
+   "folio": "109"
+  },
+  {
+   "page": 140,
+   "leaf": 139,
+   "folio": "110"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0138-b0004",
+   "type": "letter_header",
+   "align": "center",
+   "page": 138,
+   "leaf": 137,
+   "folio": "108",
+   "bbox": [
+    480,
+    438,
+    620,
+    468
+   ],
+   "lines": [
+    [
+     {
+      "t": "XXXII"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0138-b0005",
+   "type": "letter_header",
+   "align": "center",
+   "page": 138,
+   "leaf": 137,
+   "folio": "108",
+   "bbox": [
+    395,
+    475,
+    700,
+    505
+   ],
+   "lines": [
+    [
+     {
+      "t": "To N. N. Strachov",
+      "c": "i"
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0138-1"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0138-b0006",
+   "type": "dateline",
+   "align": "right",
+   "page": 138,
+   "leaf": 137,
+   "folio": "108",
+   "bbox": [
+    620,
+    515,
+    880,
+    555
+   ],
+   "lines": [
+    [
+     {
+      "t": "Rome",
+      "c": "sc"
+     },
+     {
+      "t": ","
+     }
+    ],
+    [
+     {
+      "t": "September",
+      "c": "i"
+     },
+     {
+      "t": " 18 [30], 1863."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0138-b0007",
+   "type": "editorial",
+   "align": "indented",
+   "page": 138,
+   "leaf": 137,
+   "folio": "108",
+   "bbox": [
+    170,
+    563,
+    925,
+    605
+   ],
+   "lines": [
+    [
+     {
+      "t": "[Dostoevsky begins by begging Strachov to settle his accounts at the office of the "
+     },
+     {
+      "t": "Booklover's Library.",
+      "c": "i"
+     },
+     {
+      "t": "]"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0138-b0008",
+   "type": "body",
+   "align": "indented",
+   "page": 138,
+   "leaf": 137,
+   "folio": "108",
+   "bbox": [
+    170,
+    610,
+    925,
+    760
+   ],
+   "lines": [
+    [
+     {
+      "t": "And Boborykin"
+     },
+     {
+      "t": "2",
+      "tag": "sup",
+      "fn": "fn-p0138-2"
+     },
+     {
+      "t": " may as well know what is known already to the "
+     },
+     {
+      "t": "Sovremennik",
+      "c": "i"
+     },
+     {
+      "t": " and the "
+     },
+     {
+      "t": "Otetschestvennia Zapiski:",
+      "c": "i"
+     },
+     {
+      "t": " that I never in my life have sold a work (with the exception of “Poor Folk”) for which I have not been paid in advance. I am a proletarian among the authors, and if anyone wants my work, he must pay me for it beforehand. I myself condemn this"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0139-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 139,
+   "leaf": 138,
+   "folio": "109",
+   "bbox": [
+    75,
+    82,
+    835,
+    118
+   ],
+   "lines": [
+    [
+     {
+      "t": "system. But I have established it once for all, and will never abandon it. So now I’ll go on :—"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0139-b0003",
+   "type": "body",
+   "align": "left",
+   "page": 139,
+   "leaf": 138,
+   "folio": "109",
+   "bbox": [
+    75,
+    118,
+    835,
+    885
+   ],
+   "lines": [
+    [
+     {
+      "t": "At the moment I have nothing ready. But I have (what seems to me) a very good idea for a story."
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0139-1"
+     },
+     {
+      "t": " The greater part of it is already jotted down on scraps of paper. I have even begun the actual execution, but in the first place it’s too hot here, and in the second I don’t want to spend more than a week in Rome ; how could anyone, staying only eight days in a city like Rome, get any writing done ? All the going-about tires me extraordinarily. My story will depict a typical figure, a Russian living abroad. You know of course that last summer there was a great deal of talk in our journals about the absentee Russian. This will all be reflected in my story. And the present state of our interior organizations will also (as well as I can do it, of course) be woven into the narrative. I depict a man of most simple nature, a man who, while developed in many respects, is yet in every way incomplete, who has lost all faith, yet at the same time "
+     },
+     {
+      "t": "does not dare to be",
+      "c": "i"
+     },
+     {
+      "t": " "
+     },
+     {
+      "t": "a sceptic",
+      "c": "i"
+     },
+     {
+      "t": ", who revolts against all authority and yet at the same time fears it. He comforts himself with the thought that in Russia there is nothing that he can do, and therefore condemns in the harshest manner those who would summon the absentee Russians back to Russia. I can’t tell it all here. The character is very vivid (I can literally see it standing before me), and when once the story is finished it will be worth reading. The real idea, though, lies in his having wasted all his substance, energies, and talents on roulette. He is a gambler, but no common gambler, just as the “miserly knight” of Pushkin is"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0140-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 140,
+   "leaf": 139,
+   "folio": "110",
+   "bbox": [
+    180,
+    80,
+    935,
+    262
+   ],
+   "lines": [
+    [
+     {
+      "t": "no common miser. (I don't in the least mean to compare myself with Pushkin. I only use the comparison for lucidity's sake.) He is in his way a poet, yet he is ashamed of such poetry, for he feels profoundly its vulgarity, even though the "
+     },
+     {
+      "t": "longing for touch-and-go",
+      "c": "i"
+     },
+     {
+      "t": " ennobles him in his own eyes. The whole story is concerned with his playing roulette for full three years."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0140-b0003",
+   "type": "body",
+   "align": "indented",
+   "page": 140,
+   "leaf": 139,
+   "folio": "110",
+   "bbox": [
+    180,
+    268,
+    935,
+    516
+   ],
+   "lines": [
+    [
+     {
+      "t": "If my “Dead House”—as a picture of the prison, which no one before me had thus psychologically displayed—greatly interested the public, the new story, as a psychological and faithful portrait of the roulette-player, will interest them still more. Apart from the fact that that kind of work is read among us with the deepest interest, one must also consider that the gambling in a foreign watering-place is notorious, and the chief topic of the absentee Russian; this has, in addition to the rest, a certain (though of course inferior) importance."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0140-b0004",
+   "type": "body",
+   "align": "indented",
+   "page": 140,
+   "leaf": 139,
+   "folio": "110",
+   "bbox": [
+    180,
+    522,
+    935,
+    728
+   ],
+   "lines": [
+    [
+     {
+      "t": "In short, I dare to hope that I shall succeed in depicting all these most absorbing circumstances with feeling, understanding, and not too long-windedly. The story may be very good indeed. My “Dead House” was really most interesting. And here again shall be the picture of a hell, of the same kind as that “Turkish bath in the prison.” I want to do this one too, and I shall take enormous pains about it."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0140-b0005",
+   "type": "editorial",
+   "align": "indented",
+   "page": 140,
+   "leaf": 139,
+   "folio": "110",
+   "bbox": [
+    210,
+    738,
+    735,
+    768
+   ],
+   "lines": [
+    [
+     {
+      "t": "[Henceforth money-matters prevail.]"
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": [
+  {
+   "id": "fn-p0138-1",
+   "label": "1",
+   "page": 138,
+   "lines": [
+    [
+     {
+      "t": "Nikolay Nikolayevitch Strachov, critic and philosopher (1828-96) was a close friend of Dostoevsky and Grigorovitch. He headed an embittered political campaign against Nihilism and the material tendencies of the 'sixties."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "fn-p0138-2",
+   "label": "2",
+   "page": 138,
+   "lines": [
+    [
+     {
+      "t": "Pyotr Boborykin, a still living popular novelist. At that time he was editor of the "
+     },
+     {
+      "t": "Booklover's Library.",
+      "c": "i"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "fn-p0139-1",
+   "label": "1",
+   "page": 139,
+   "lines": [
+    [
+     {
+      "t": "“The Gambler.”"
+     }
+    ]
+   ]
+  }
+ ]
+}

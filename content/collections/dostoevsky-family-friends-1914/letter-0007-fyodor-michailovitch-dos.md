@@ -1,0 +1,371 @@
+{
+ "title": "VII · To his Brother Michael",
+ "layout": "letter",
+ "weight": 7,
+ "description": "Forgive my not having written for so long. I have, as usual, had such a confounded lot to do. My novel, which I simply can't break loose…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0007",
+ "number": "VII",
+ "sequence": 7,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1845-05-04",
+  "display": "4 May 1845",
+  "short": "4 · V · 1845"
+ },
+ "period": "Petersburg",
+ "place": "",
+ "sender": "Fyodor Michailovitch Dostoevsky",
+ "recipient": "his Brother Michael",
+ "salutation": "Dearest Brother,",
+ "incipit": "Forgive my not having written for so long. I have, as usual, had such a confounded lot to do. My novel, which I simply can't break loose…",
+ "start_page": 47,
+ "end_page": 49,
+ "start_folio": "23",
+ "end_folio": "25",
+ "pages": [
+  {
+   "page": 47,
+   "leaf": 46,
+   "folio": "23"
+  },
+  {
+   "page": 48,
+   "leaf": 47,
+   "folio": "24"
+  },
+  {
+   "page": 49,
+   "leaf": 48,
+   "folio": "25"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0047-b0002",
+   "type": "letter_header",
+   "align": "center",
+   "page": 47,
+   "leaf": 46,
+   "folio": "23",
+   "bbox": [
+    400,
+    120,
+    640,
+    155
+   ],
+   "lines": [
+    [
+     {
+      "t": "VII"
+     }
+    ],
+    [
+     {
+      "t": "To his Brother Michael",
+      "c": "i"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0047-b0003",
+   "type": "dateline",
+   "align": "right",
+   "page": 47,
+   "leaf": 46,
+   "folio": "23",
+   "bbox": [
+    660,
+    175,
+    810,
+    200
+   ],
+   "lines": [
+    [
+     {
+      "t": "May",
+      "c": "i"
+     },
+     {
+      "t": " 4, 1845."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0047-b0004",
+   "type": "salutation",
+   "align": "left",
+   "page": 47,
+   "leaf": 46,
+   "folio": "23",
+   "bbox": [
+    105,
+    180,
+    390,
+    205
+   ],
+   "lines": [
+    [
+     {
+      "t": "Dearest Brother",
+      "c": "sc"
+     },
+     {
+      "t": ","
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0047-b0005",
+   "type": "body",
+   "align": "left",
+   "page": 47,
+   "leaf": 46,
+   "folio": "23",
+   "bbox": [
+    70,
+    205,
+    830,
+    855
+   ],
+   "lines": [
+    [
+     {
+      "t": "Forgive my not having written for so long. I have, as usual, had such a confounded lot to do. My novel, which I simply can't break loose from, keeps me endlessly at work. If I had known beforehand how it would be, I should never have begun it at all. I decided to do it all over again, and, by God! that has improved it a lot. Now I'm ready with it once more, and this revision is really the last. I have given myself my word not to touch it again. After all, it's the fate of all first books to be altered over and over again. I don't know whether Châteaubriand's “Atala” was his first book, but I do know that he re-wrote it seventeen times. Pushkin did just the same with quite short poems. Gogol used to polish away at his wonderful works for two years at a time, and if you have read the “Sentimental Journey,” that witty book by Sterne, you'll very likely remember what Walter Scott, in his article on Sterne, says with reference to Sterne's servant, La Fleur. La Fleur declared that his master had filled about two hundred quires of paper with the description of his journey through France. Now, the question is, What became of all that paper? The result was a little book, for writing which a parsimonious person (such as, for example, Plyushkin"
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0047-1"
+     },
+     {
+      "t": ") would have used half a quire. I can't understand at all how that same Walter Scott could turn out such finished"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0048-b0004",
+   "type": "body",
+   "align": "left",
+   "page": 48,
+   "leaf": 47,
+   "folio": "24",
+   "bbox": [
+    176,
+    86,
+    930,
+    128
+   ],
+   "lines": [
+    [
+     {
+      "t": "works as “Mannering” in a few weeks. Perhaps only because at that time he was forty years old."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0048-b0005",
+   "type": "body",
+   "align": "indented",
+   "page": 48,
+   "leaf": 47,
+   "folio": "24",
+   "bbox": [
+    176,
+    136,
+    930,
+    380
+   ],
+   "lines": [
+    [
+     {
+      "t": "I don't in the least know, brother, what will become of me! You judge me falsely when you maintain that my situation doesn't trouble me a bit. It worries me frightfully, and I often cannot sleep for nights and nights because of my tormenting thoughts. Wise folk tell me that I shall come to the ground if I publish the novel as a book. They admit that the book will be a very good one, but say that I am no business man . . . and that the booksellers are usurers; that they will rob me as a matter of course, and I, as sure as death, shall let them."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0048-b0006",
+   "type": "body",
+   "align": "indented",
+   "page": 48,
+   "leaf": 47,
+   "folio": "24",
+   "bbox": [
+    176,
+    386,
+    930,
+    730
+   ],
+   "lines": [
+    [
+     {
+      "t": "For these reasons I have resolved to bring out the novel in a journal—for example, the "
+     },
+     {
+      "t": "Otetchestvennia Zapiski.",
+      "c": "i"
+     },
+     {
+      "t": " That has an edition of 2,500 copies, consequently it is read by at least 100,000 people. If I let the novel appear in this journal, my literary career and my whole future life are assured. I might easily make my fortune by it. And thus I shall gain a firm footing in the paper, and shall always have money; and if my novel appears in the August or September number, I can bring it out as a book on my own account in October, and that with the certain prospect that everyone who buys novels at all will get it. Moreover, the advertisement will cost me nothing. Well, so things stand!"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0048-b0007",
+   "type": "body",
+   "align": "indented",
+   "page": 48,
+   "leaf": 47,
+   "folio": "24",
+   "bbox": [
+    176,
+    735,
+    930,
+    920
+   ],
+   "lines": [
+    [
+     {
+      "t": "Until I have arranged for the novel, I cannot come to Reval; I don't want to waste any of my time. I must not flinch at any amount of hard work. I have, besides, a lot of new ideas, which will make a name for me in literature as soon as my first book has forged a path for me. These are, in short, my only views for the future."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0049-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 49,
+   "leaf": 48,
+   "folio": "25",
+   "bbox": [
+    70,
+    92,
+    830,
+    175
+   ],
+   "lines": [
+    [
+     {
+      "t": "But as to money, I have none, alas! The devil knows where it's gone to. But, at all events, I have few debts. . . ."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0049-b0003",
+   "type": "body",
+   "align": "indented",
+   "page": 49,
+   "leaf": 48,
+   "folio": "25",
+   "bbox": [
+    70,
+    175,
+    830,
+    255
+   ],
+   "lines": [
+    [
+     {
+      "t": "When once I have produced the novel, I shall easily be able to arrange for your Schiller translation also, as true as I live! The “Juif Errant” isn't bad. But Sue strikes me as very limited in range."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0049-b0004",
+   "type": "body",
+   "align": "indented",
+   "page": 49,
+   "leaf": 48,
+   "folio": "25",
+   "bbox": [
+    70,
+    255,
+    830,
+    340
+   ],
+   "lines": [
+    [
+     {
+      "t": "I don't like to speak of it, dear brother, but your situation and the fate of your Schiller worry me so much that I often forget my own anxieties. And I really have not an easy time of it."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0049-b0005",
+   "type": "body",
+   "align": "indented",
+   "page": 49,
+   "leaf": 48,
+   "folio": "25",
+   "bbox": [
+    70,
+    340,
+    830,
+    425
+   ],
+   "lines": [
+    [
+     {
+      "t": "If I can't publish the novel, I shall probably go into the Neva. What else "
+     },
+     {
+      "t": "should",
+      "c": "i"
+     },
+     {
+      "t": " I do? I have thought of every single thing. I could not survive the death of my fixed idea."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0049-b0006",
+   "type": "body",
+   "align": "indented",
+   "page": 49,
+   "leaf": 48,
+   "folio": "25",
+   "bbox": [
+    70,
+    425,
+    830,
+    460
+   ],
+   "lines": [
+    [
+     {
+      "t": "Write to me soon, for I am sick of myself."
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": [
+  {
+   "id": "fn-p0047-1",
+   "label": "1",
+   "page": 47,
+   "lines": [
+    [
+     {
+      "t": "A character in Gogol's “Dead Souls”—the incarnation of avarice."
+     }
+    ]
+   ]
+  }
+ ]
+}

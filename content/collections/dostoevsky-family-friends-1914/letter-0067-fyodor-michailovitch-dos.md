@@ -1,0 +1,357 @@
+{
+ "title": "LXVII · To Vsevolod Solovyov1",
+ "layout": "letter",
+ "weight": 67,
+ "description": "On my departure I left several quite personal and even pressing affairs unattended to. But here, at this tedious spa, your letter has…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0067",
+ "number": "LXVII",
+ "sequence": 67,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1876-07",
+  "display": "July 1876",
+  "short": "VII · 1876"
+ },
+ "period": "The last years",
+ "place": "Ems",
+ "sender": "Fyodor Michailovitch Dostoevsky",
+ "recipient": "Vsevolod Solovyov",
+ "salutation": "",
+ "incipit": "On my departure I left several quite personal and even pressing affairs unattended to. But here, at this tedious spa, your letter has…",
+ "start_page": 263,
+ "end_page": 265,
+ "start_folio": "227",
+ "end_folio": "229",
+ "pages": [
+  {
+   "page": 263,
+   "leaf": 262,
+   "folio": "227"
+  },
+  {
+   "page": 264,
+   "leaf": 263,
+   "folio": "228"
+  },
+  {
+   "page": 265,
+   "leaf": 264,
+   "folio": "229"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0263-b0002",
+   "type": "letter_header",
+   "align": "center",
+   "page": 263,
+   "leaf": 262,
+   "folio": "227",
+   "bbox": [
+    390,
+    105,
+    540,
+    130
+   ],
+   "lines": [
+    [
+     {
+      "t": "LXVII"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0263-b0003",
+   "type": "letter_header",
+   "align": "center",
+   "page": 263,
+   "leaf": 262,
+   "folio": "227",
+   "bbox": [
+    285,
+    140,
+    620,
+    170
+   ],
+   "lines": [
+    [
+     {
+      "t": "To Vsevolod Solovyov",
+      "c": "i"
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0263-1"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0263-b0004",
+   "type": "dateline",
+   "align": "right",
+   "page": 263,
+   "leaf": 262,
+   "folio": "227",
+   "bbox": [
+    680,
+    150,
+    830,
+    200
+   ],
+   "lines": [
+    [
+     {
+      "t": "Ems",
+      "c": "sc"
+     },
+     {
+      "t": ","
+     }
+    ],
+    [
+     {
+      "t": "July",
+      "c": "i"
+     },
+     {
+      "t": ", 1876."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0263-b0005",
+   "type": "body",
+   "align": "indented",
+   "page": 263,
+   "leaf": 262,
+   "folio": "227",
+   "bbox": [
+    60,
+    210,
+    830,
+    555
+   ],
+   "lines": [
+    [
+     {
+      "t": "On my departure I left several quite personal and even pressing affairs unattended to. But here, at this tedious spa, your letter has literally refreshed me and gone straight to my heart; I was already feeling much troubled—I don’t myself know why it should be so, but every time I come to Ems, I undergo a mood of tormenting, wholly groundless, more or less hypochondriacal, depression. Whether it arises from my isolation in the crowd of 8,000 “patients,” or from the climate of this place, I can’t decide; but I am always in a worse state here than almost anybody else is. You write that you must speak with me, and how dearly I should like to see you!"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0263-b0006",
+   "type": "body",
+   "align": "indented",
+   "page": 263,
+   "leaf": 262,
+   "folio": "227",
+   "bbox": [
+    60,
+    555,
+    830,
+    890
+   ],
+   "lines": [
+    [
+     {
+      "t": "The June number of the "
+     },
+     {
+      "t": "Diary",
+      "c": "i"
+     },
+     {
+      "t": " pleased you, then. I am glad of that, and for a special reason. I had never yet permitted myself to follow my profoundest convictions to their ultimate consequences in my public writing—had never said my "
+     },
+     {
+      "t": "very last word.",
+      "c": "i"
+     },
+     {
+      "t": " A very intelligent correspondent in the provinces once, indeed, reproached me for opening up so many important questions in my "
+     },
+     {
+      "t": "Diary,",
+      "c": "i"
+     },
+     {
+      "t": " yet never thoroughly discussing them; he encouraged me, and urged me to be more daring. So I decided that I "
+     },
+     {
+      "t": "would",
+      "c": "i"
+     },
+     {
+      "t": " for once say the last word on one of my convictions—that of Russia’s part and destiny among the nations—and I proclaimed that my various anticipations would not only be fulfilled in the immediate future, but were already partly realized."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0264-b0002",
+   "type": "body",
+   "align": "indented",
+   "page": 264,
+   "leaf": 263,
+   "folio": "228",
+   "bbox": [
+    195,
+    148,
+    950,
+    1000
+   ],
+   "lines": [
+    [
+     {
+      "t": "And then there happened precisely what I had expected: even those newspapers and magazines which are friendly to me raised an outcry, saying that my whole article was hopelessly paradoxical; while the others bestowed not the smallest attention on it—and here am I, who believe that I have opened up the most important of all questions! That's what happens when one attempts to carry an idea to its issue! One may set up any paradox one likes, and so long as one doesn't carry it to its ultimate conclusion, everyone will think it most subtle, witty, "
+     },
+     {
+      "t": "comme il faut;",
+      "c": "i"
+     },
+     {
+      "t": " but once blurt out the last word, and quite frankly (not by implication) declare: \"This is the Messiah!\" why, nobody will believe in you any more—for it was so silly of you to push your idea to its ultimate conclusion! If many a famous wit, such as Voltaire, had resolved for once to rout all hints, allusions, and esotericisms by force of his genuine beliefs, to show the real Himself, he would quite certainly not have had a tithe of the success he enjoyed. He would merely have been laughed at. For man instinctively avoids saying his last word; he has a prejudice against \"thoughts said.\""
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0264-b0003",
+   "type": "verse",
+   "align": "center",
+   "page": 264,
+   "leaf": 263,
+   "folio": "228",
+   "bbox": [
+    355,
+    1000,
+    780,
+    1000
+   ],
+   "lines": [
+    [
+     {
+      "t": "\"Once said, the thought turns lie!\""
+     },
+     {
+      "t": "1",
+      "tag": "sup",
+      "fn": "fn-p0264-1"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0264-b0004",
+   "type": "body",
+   "align": "indented",
+   "page": 264,
+   "leaf": 263,
+   "folio": "228",
+   "bbox": [
+    195,
+    1000,
+    950,
+    1000
+   ],
+   "lines": [
+    [
+     {
+      "t": "Now you can judge for yourself how precious to me are your friendly expressions about the June number. For you have understood my words and taken them exactly as I thought them myself. I thank you for that; for I was already a little disillusioned, and was reproving myself for my precipitancy. If there are but a few members of the public who understand me as you do, I have done what I aimed at doing, and am content—my words"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0265-b0002",
+   "type": "body",
+   "align": "left",
+   "page": 265,
+   "leaf": 264,
+   "folio": "229",
+   "bbox": [
+    68,
+    142,
+    832,
+    330
+   ],
+   "lines": [
+    [
+     {
+      "t": "have not been in vain. . . . But the rest at once proclaimed with cries of joy: “ He "
+     },
+     {
+      "t": "is",
+      "c": "i"
+     },
+     {
+      "t": " so frightfully paradoxical !” And the folk who say it are precisely those who never had an idea of their own in their lives. . . ."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0265-b0003",
+   "type": "body",
+   "align": "indented",
+   "page": 265,
+   "leaf": 264,
+   "folio": "229",
+   "bbox": [
+    68,
+    338,
+    832,
+    500
+   ],
+   "lines": [
+    [
+     {
+      "t": "I remain here till August 7 (Old Style). I am drinking the waters, and indeed would never be able to make up my mind to endure this place were I not convinced that the cure is really good for me. It’s certainly not worth while to describe Ems ! I have promised the public to bring out a double number of the "
+     },
+     {
+      "t": "Diary",
+      "c": "i"
+     },
+     {
+      "t": " in August ; as yet I haven’t written a single line ; from sheer boredom I’ve got so apathetic that I regard the work before me with reluctance, as if it were an imminent misfortune. I already feel that the number will be very bad. At any rate, write to me again while I’m here, my dearest fellow. . . ."
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": [
+  {
+   "id": "fn-p0263-1",
+   "label": "1",
+   "page": 263,
+   "lines": [
+    [
+     {
+      "t": "Vsevolod Solovyov, author of some popular historical novels; brother of Vladimir Solovyov, the philosopher."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "fn-p0264-1",
+   "label": "1",
+   "page": 264,
+   "lines": [
+    [
+     {
+      "t": "From a poem by Tchutchev."
+     }
+    ]
+   ]
+  }
+ ]
+}

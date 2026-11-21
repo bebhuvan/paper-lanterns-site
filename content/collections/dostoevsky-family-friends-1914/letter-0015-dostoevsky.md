@@ -1,0 +1,156 @@
+{
+ "title": "XV · To his Brother Michael",
+ "layout": "letter",
+ "weight": 15,
+ "description": "I must once more beg you to forgive me for not having kept my word, and written by the next post. But through all the meantime I have been…",
+ "book_id": "dostoevsky-family-friends-1914",
+ "letter_id": "letter-0015",
+ "number": "XV",
+ "sequence": 15,
+ "letter_count": 87,
+ "section_id": "sec-02",
+ "letter_date": {
+  "iso": "1847",
+  "display": "1847",
+  "short": "1847"
+ },
+ "period": "Petersburg",
+ "place": "",
+ "sender": "Dostoevsky",
+ "recipient": "his Brother Michael",
+ "salutation": "Dear Brother,",
+ "incipit": "I must once more beg you to forgive me for not having kept my word, and written by the next post. But through all the meantime I have been…",
+ "start_page": 66,
+ "end_page": 66,
+ "start_folio": "42",
+ "end_folio": "42",
+ "pages": [
+  {
+   "page": 66,
+   "leaf": 65,
+   "folio": "42"
+  }
+ ],
+ "archive_id": "lettersoffyodorm00dostrich",
+ "boundary_confidence": "high",
+ "blocks": [
+  {
+   "id": "p0066-b0003",
+   "type": "letter_header",
+   "align": "center",
+   "page": 66,
+   "leaf": 65,
+   "folio": "42",
+   "bbox": [
+    550,
+    640,
+    650,
+    668
+   ],
+   "lines": [
+    [
+     {
+      "t": "XV"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0066-b0004",
+   "type": "letter_header",
+   "align": "center",
+   "page": 66,
+   "leaf": 65,
+   "folio": "42",
+   "bbox": [
+    400,
+    682,
+    760,
+    715
+   ],
+   "lines": [
+    [
+     {
+      "t": "To his Brother Michael",
+      "c": "i"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0066-b0005",
+   "type": "dateline",
+   "align": "right",
+   "page": 66,
+   "leaf": 65,
+   "folio": "42",
+   "bbox": [
+    870,
+    720,
+    930,
+    740
+   ],
+   "lines": [
+    [
+     {
+      "t": "1847."
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0066-b0006",
+   "type": "salutation",
+   "align": "left",
+   "page": 66,
+   "leaf": 65,
+   "folio": "42",
+   "bbox": [
+    232,
+    745,
+    475,
+    776
+   ],
+   "lines": [
+    [
+     {
+      "t": "Dear Brother",
+      "c": "sc"
+     },
+     {
+      "t": ","
+     }
+    ]
+   ]
+  },
+  {
+   "id": "p0066-b0007",
+   "type": "body",
+   "align": "indented",
+   "page": 66,
+   "leaf": 65,
+   "folio": "42",
+   "bbox": [
+    198,
+    780,
+    955,
+    880
+   ],
+   "lines": [
+    [
+     {
+      "t": "I must once more beg you to forgive me for not having kept my word, and written by the next post. But through all the meantime I have been so depressed in spirit that I simply "
+     },
+     {
+      "t": "could not",
+      "c": "i"
+     },
+     {
+      "t": " write. I have thought of you with so much pain—your fate is truly grievous, dear brother! With your feeble"
+     }
+    ]
+   ]
+  }
+ ],
+ "footnotes": []
+}
