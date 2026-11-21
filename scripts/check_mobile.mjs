@@ -18,7 +18,7 @@ const PAGES = [
   "/",
   "/collections/",
   "/collections/dostoevsky-family-friends-1914/",
-  "/collections/dostoevsky-family-friends-1914/letter-0020-f-dostoevsky/",
+  "/collections/dostoevsky-family-friends-1914/20/",
 ];
 const TYPES = { ".html": "text/html; charset=utf-8", ".css": "text/css", ".js": "text/javascript", ".svg": "image/svg+xml", ".woff2": "font/woff2" };
 

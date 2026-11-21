@@ -1,0 +1,2 @@
+# Cloudflare Pages redirects: `from to 301`, one per line. Every address that leaves published-addresses.txt
+# must be redirected here (checked by scripts/addresses.py). None yet.

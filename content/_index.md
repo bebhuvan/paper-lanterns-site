@@ -10,6 +10,6 @@ paragraphs = [
 ]
 valediction = "Yours, across the centuries,"
 # The P.S. points at one letter; the build fails if this page does not exist.
-featured_letter = "/collections/dostoevsky-family-friends-1914/letter-0020-f-dostoevsky"
+featured_letter = "/collections/dostoevsky-family-friends-1914/20"
 featured_text = "Begin with the letter Dostoevsky wrote on the evening he was spared."
 +++

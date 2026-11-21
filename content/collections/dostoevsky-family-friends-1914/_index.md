@@ -10,6 +10,12 @@
   "Ethel Colburn Mayne (tr.)",
   "Alexander Eliasberg (ed.)"
  ],
+ "translators": [
+  "Ethel Colburn Mayne"
+ ],
+ "publisher": "The Macmillan Company",
+ "default_sender": "Fyodor Dostoevsky",
+ "default_sender_source": "Title page (scan leaf 7)",
  "author_or_editor": "Fyodor Dostoevsky (tr. Ethel Colburn Mayne)",
  "year": 1914,
  "archive_id": "lettersoffyodorm00dostrich",
