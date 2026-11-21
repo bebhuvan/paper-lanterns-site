@@ -374,8 +374,8 @@ how the site is built; say why if you overturn one.
   subdomain answers 301 to `/collections/`.
 - **To undo:** recreate the two CNAMEs to `paper-lanterns.pages.dev` (after removing the Worker custom domains),
   re-add the domains to the `paper-lanterns` Pages project, and point the route back at `paper-lanterns-collections`.
-- **Left in place on purpose:** the old Pages project, the old collections Worker and the unused
-  `paper-lanterns-site` Pages project from D26, until the owner agrees to delete them.
+- **Left in place on purpose:** the old Pages project and the old collections Worker, until the owner agrees to
+  delete them. The unused `paper-lanterns-site` Pages project from D26 was deleted with the owner's OK.
 
 ## Open questions for the owner
 
