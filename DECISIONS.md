@@ -338,6 +338,20 @@ how the site is built; say why if you overturn one.
 - **Rejected:** 256 individual redirects (no reliable one-to-one mapping, upkeep for little gain); no redirect at
   all (every old link breaks).
 
+## D26. Deploy by uploading a checked build; Cloudflare builds nothing (2026-11-21)
+
+- **Decision:** the site goes live by `wrangler pages deploy` of a folder built and checked on the owner's machine
+  (`./verify`, then `hugo --gc --minify` and the pinned, checksum-checked Pagefind). The Pages project
+  `paper-lanterns-site` is a direct-upload project, not connected to GitHub. The old collections subdomain is moved
+  to a three-line redirect Worker kept in `ops/collections-redirect/`, because Wrangler's login can manage Workers
+  domains but not zone redirect rules. Hashed scripts and stylesheets get a year-long immutable cache.
+- **Why:** the pre-launch security review pointed out that Cloudflare's build machines do not ship Pagefind, so a
+  Cloudflare build would fetch an unpinned package on every deploy. Uploading the build that passed `verify` keeps
+  every dependency pinned and checked.
+- **Rejected:** a Cloudflare Git build (unpinned Pagefind); deploying from GitHub Actions (needs a Cloudflare API
+  token stored as a GitHub secret; worth doing later, with the owner's agreement, so deploys do not depend on one
+  laptop).
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should

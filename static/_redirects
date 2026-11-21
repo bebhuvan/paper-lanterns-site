@@ -5,3 +5,8 @@
 /admin/ / 301
 /command/ / 301
 /offline/ / 301
+# The same, typed without the closing slash.
+/archive /letters/ 301
+/admin / 301
+/command / 301
+/offline / 301

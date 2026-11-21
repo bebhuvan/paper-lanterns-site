@@ -1,7 +1,7 @@
 {
   "name": "Paper Lanterns",
   "short_name": "Paper Lanterns",
-  "description": "Whole collections of public-domain letters, typed exactly as printed and set beside the page they came from.",
+  "description": "Whole collections of public-domain letters, read from the printed page and set beside the scan they came from.",
   "start_url": "/",
   "display": "browser",
   "background_color": "#ffffff",

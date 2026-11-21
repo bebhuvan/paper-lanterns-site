@@ -6,3 +6,8 @@
   Cross-Origin-Opener-Policy: same-origin
   X-Frame-Options: DENY
   Strict-Transport-Security: max-age=31536000
+# Script and stylesheet names carry a content hash, so a changed file always has a new name (security review, D26).
+/js/*
+  Cache-Control: public, max-age=31536000, immutable
+/css/*
+  Cache-Control: public, max-age=31536000, immutable

@@ -58,7 +58,7 @@ enableRobotsTXT = true
   page = ["HTML"]
 
 [params]
-  description = "Whole collections of public-domain letters, typed exactly as printed and set beside the page they came from."
+  description = "Whole collections of public-domain letters, read from the printed page and set beside the scan they came from."
   scanWidth = 600
   scanWidth2x = 1200
 
