@@ -1,0 +1,3 @@
+{{- $here := . -}}
+<a href="{{ "/" | relURL }}"{{ if $here.IsHome }} aria-current="page"{{ end }}>Home</a>
+<a href="{{ "/collections/" | relURL }}"{{ if eq $here.Section "collections" }} aria-current="page"{{ end }}>Collections</a>

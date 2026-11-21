@@ -1,0 +1,5 @@
+{{- /* Args: id, leaf, alt, lazy (bool). */ -}}
+{{- $one := partial "scan-url.html" (dict "id" .id "leaf" .leaf "w" site.Params.scanWidth) -}}
+{{- $two := partial "scan-url.html" (dict "id" .id "leaf" .leaf "w" site.Params.scanWidth2x) -}}
+<img src="{{ $one }}" srcset="{{ $one }} 1x, {{ $two }} 2x" alt="{{ .alt }}"{{ if .lazy }} loading="lazy"{{ end }} decoding="async">
+{{- /**/ -}}

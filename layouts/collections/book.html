@@ -1,0 +1,142 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+{{- $p := . -}}
+{{- $id := .Params.archive_id -}}
+{{- $letters := (where .RegularPages "Params.layout" "letter").ByWeight -}}
+{{- $c := .Params.counts -}}
+{{- $proof := .Params.proof -}}
+{{- $humanPages := int (add $proof.p1_proofed $proof.verified) -}}
+<main id="main">
+<section class="wrap book-top" aria-labelledby="title">
+<nav class="crumb" aria-label="Breadcrumb"><a href="{{ "/collections/" | relURL }}">Collections</a><span aria-hidden="true">  /  </span><span>{{ humanize .Params.collection }}</span></nav>
+<div class="row">
+{{- with .Params.frontispiece }}
+<figure class="plate-fig">
+<div class="frame">{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "The frontispiece of the %d edition: %s" (int $p.Params.year) .caption)) }}</div>
+<figcaption><span class="cap">{{ .caption }}</span><br><span class="muted">The book’s frontispiece, scan leaf {{ .page }}</span></figcaption>
+</figure>
+{{- end }}
+<div class="info">
+<h1 id="title">{{ .Title }}</h1>
+<p class="credit">{{ .Params.subtitle }}{{ with .Params.imprint }} <span class="sep" aria-hidden="true">·</span> {{ . }}{{ end }}</p>
+<dl class="figures">
+<div><dt>Letters</dt><dd>{{ $c.letters }}</dd></div>
+<div><dt>Notes</dt><dd>{{ $c.notes }}</dd></div>
+<div><dt>Pages</dt><dd>{{ $c.pages }}</dd></div>
+<div><dt>Proofread by people</dt><dd>{{ printf "%.0f" (mul (div (float $humanPages) $proof.total_pages) 100) }}%</dd></div>
+</dl>
+<div class="actions">
+<a class="btn solid" href="#contents">Letter by letter<span aria-hidden="true">→</span></a>
+<a class="u" href="#take">Download the book</a>
+</div>
+</div>
+</div>
+</section>
+
+<section id="take" class="take" aria-labelledby="takeh">
+<div class="wrap">
+<div class="intro">
+<h2 id="takeh">Take this book with you</h2>
+<p>The whole edition, free to keep and reuse. Every file is made from the same text you read here. The original scan is at the <a class="u" href="https://archive.org/details/{{ $id }}">Internet Archive</a>.</p>
+</div>
+{{- $what := dict "epub" (slice "EPUB" "For e-readers and phone reading apps.") "markdown" (slice "Markdown" "Plain text, easy to quote, search and edit.") "tei" (slice "TEI XML" "The scholarly standard, every letter marked up.") }}
+<ul>
+{{- range .Params.downloads }}
+{{- $w := index $what .format }}
+<li><a href="{{ $p.RelPermalink }}{{ .file }}" download>
+<span class="name">{{ index $w 0 }}</span>
+<span class="what">{{ index $w 1 }}</span>
+<span class="dl"><span class="mono">{{ printf "%.0f KB" (div (float .bytes) 1024) }}</span><span class="u">Download</span></span>
+</a></li>
+{{- end }}
+</ul>
+</div>
+</section>
+
+<section class="wash strip-sec" aria-labelledby="pages">
+<div class="wrap">
+<div class="sec-head">
+<h2 id="pages">The book, page by page</h2>
+<p>All {{ $c.pages }} leaves of the scan, in order. Tall black leaves carry letters; grey leaves are the editor’s own words between them; the short pale ones are the front matter, appendices and index.</p>
+</div>
+<div class="chart-box">
+{{ partial "page-strip.html" (dict "kinds" .Params.page_kinds "h" 96 "label" (printf "The %d leaves of the book, coloured by what is printed on them." (int $c.pages))) }}
+</div>
+<ol class="parts">
+{{- range .Params.parts }}<li>{{ .label }}<span class="mono">{{ .start }}–{{ .end }}</span></li>{{ end }}
+</ol>
+</div>
+</section>
+
+{{- with .Params.year_counts }}
+<section class="wrap years-sec" aria-labelledby="years">
+<div class="sec-head">
+<h2 id="years">Year by year</h2>
+<p>One stroke for each dated letter{{ with $p.Params.periods }}, set against the places of the writer’s life as the book’s own chronology gives them{{ end }}. The silences say as much as the letters.</p>
+</div>
+<div class="chart-box">{{ partial "year-chart.html" $p }}</div>
+</section>
+{{- end }}
+
+<section id="contents" class="contents" aria-labelledby="toc">
+<div class="wrap">
+<div class="sec-head">
+<h2 id="toc">The letters</h2>
+<label class="find js-only flexy">Find<input type="search" placeholder="A word, a name, a year" data-find-input aria-describedby="find-status"></label>
+</div>
+<p id="find-status" class="find-status" aria-live="polite" data-find-status></p>
+<div class="groups">
+{{- range .Params.periods }}
+{{- if gt .count 0 }}
+{{- $rows := where $letters "Params.period" .label }}
+<section aria-label="{{ .label }}" data-find-group>
+<div class="group-head">
+<h3>{{ .label }}, {{ substr .start 0 4 }}–{{ substr .end 0 4 }}</h3>
+<span>{{ len $rows }} {{ cond (eq (len $rows) 1) "letter" "letters" }}</span>
+</div>
+<ol class="rows">{{ range $rows }}{{ partial "letter-row.html" . }}{{ end }}</ol>
+</section>
+{{- end }}
+{{- end }}
+{{- $rest := where $letters "Params.period" "" }}
+{{- with $rest }}
+<section aria-label="{{ if $p.Params.periods }}Outside these periods{{ else }}All letters{{ end }}" data-find-group>
+<div class="group-head">
+<h3>{{ if $p.Params.periods }}Undated, or outside these periods{{ else }}All letters, in the order printed{{ end }}</h3>
+<span>{{ len . }} {{ cond (eq (len .) 1) "letter" "letters" }}</span>
+</div>
+<ol class="rows">{{ range . }}{{ partial "letter-row.html" . }}{{ end }}</ol>
+</section>
+{{- end }}
+</div>
+</div>
+</section>
+
+<section class="wash colophon" aria-labelledby="ed">
+<div class="wrap">
+{{- with .Params.title_page }}
+<figure class="plate-fig">
+<div class="frame">{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "The title page of the %d edition." (int $p.Params.year)) "lazy" true) }}</div>
+<figcaption><span class="cap">The title page, {{ $p.Params.year }}</span><br><span class="muted">scan leaf {{ .page }}</span></figcaption>
+</figure>
+{{- end }}
+<div class="text">
+<div class="kick">Colophon</div>
+<h2 id="ed">About this edition</h2>
+<p>This edition reproduces <i>{{ .Title }}</i>{{ with .Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}{{ with .Params.imprint }} ({{ . }}){{ end }}. It was typed page by page from the Internet Archive scan, keeping the spelling and punctuation exactly as printed.</p>
+<p>Every printed page is included: {{ $c.letters }} letters and {{ $c.notes }} notes across {{ $c.pages }} scan leaves, with the editor’s own pages between the letters. The text is in the public domain, and this transcription is free to reuse under CC BY 4.0.</p>
+<div class="stages-h">How far it has been checked</div>
+{{- $checked := in (slice "machine_checked" "community" "source_certified") .Params.provenance_tier }}
+<ol class="stages" aria-label="Checking stages">
+<li class="done"><span class="dot" aria-hidden="true"></span><span class="name">Read by machine</span><span class="state">done</span></li>
+<li{{ if $checked }} class="done"{{ end }}><span class="dot" aria-hidden="true"></span><span class="name">Checked by machine</span><span class="state">{{ if $checked }}done{{ else }}not yet{{ end }}</span></li>
+<li{{ if eq $humanPages $proof.total_pages }} class="done"{{ end }}><span class="dot" aria-hidden="true"></span><span class="name">First reader</span><span class="state">{{ $humanPages }} of {{ $proof.total_pages }} pages</span></li>
+<li{{ if eq $proof.verified $proof.total_pages }} class="done"{{ end }}><span class="dot" aria-hidden="true"></span><span class="name">Second reader</span><span class="state">{{ $proof.verified }} of {{ $proof.total_pages }} pages</span></li>
+</ol>
+<div class="set-in">{{ partial "logo.html" (dict "w" 40 "sw" 1.1) }}<span>Set in Newsreader for Paper Lanterns, from a scan in the Internet Archive.</span></div>
+</div>
+</div>
+</section>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

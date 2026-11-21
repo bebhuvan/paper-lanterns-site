@@ -1,0 +1,88 @@
+{{- /* Every dated letter in the library, by decade, drawn as lanterns on a string. Args: letters. */ -}}
+{{- $counts := dict -}}
+{{- range .letters -}}
+{{- with .Params.letter_date.iso -}}
+{{- $k := string (mul (int (strings.TrimLeft "0" (substr . 0 3))) 10) -}}
+{{- $counts = merge $counts (dict $k (add (index $counts $k | default 0) 1)) -}}
+{{- end -}}
+{{- end -}}
+{{- $keys := slice -}}
+{{- range $k, $_ := $counts }}{{ $keys = $keys | append (int $k) }}{{ end -}}
+{{- $keys = sort $keys -}}
+{{- if $keys -}}
+{{- $first := index $keys 0 -}}
+{{- $last := index $keys (sub (len $keys) 1) -}}
+{{- $slots := add (div (sub $last $first) 10) 1 -}}
+{{- $total := 0 -}}{{- $maxN := 0 -}}{{- $busiest := $first -}}
+{{- range $keys -}}
+{{- $n := index $counts (string .) -}}
+{{- $total = add $total $n -}}
+{{- if gt $n $maxN }}{{ $maxN = $n }}{{ $busiest = . }}{{ end -}}
+{{- end -}}
+{{- $maxDrop := add 12 (mul (math.Sqrt $maxN) 9.4) -}}
+{{- $axisY := add $maxDrop 40 -}}
+{{- $H := add $axisY 30 -}}
+{{- $step := div 940.0 $slots -}}
+<section class="wash" aria-labelledby="longline">
+<div class="wrap decades">
+<div class="sec-head">
+<h2 id="longline">{{ $total }} dated {{ cond (eq $total 1) "letter" "letters" }}, decade by decade</h2>
+<p>Every dated letter in the library, by decade. The longer a lantern hangs, the more letters survive from those ten years. Choose one to see who was writing.</p>
+</div>
+<div class="chart-box">
+<svg class="decade-chart" viewBox="0 0 1000 {{ $H }}" role="group" aria-label="Letters by decade, {{ $first }}s to {{ $last }}s" data-decades>
+<line class="string" x1="0" y1="10" x2="1000" y2="10"/>
+{{- range $keys -}}
+{{- $n := index $counts (string .) -}}
+{{- $x := add 30 (mul (add (div (sub . $first) 10) 0.5) $step) -}}
+{{- $drop := add 12 (mul (math.Sqrt $n) 9.4) -}}
+<g class="lantern{{ if eq . $busiest }} on{{ end }}" data-decade="{{ . }}">
+<title>{{ . }}s, {{ $n }} {{ cond (eq $n 1) "letter" "letters" }}</title>
+<rect class="hit" x="{{ sub $x 12 }}" y="10" width="24" height="{{ add $drop 24 }}"/>
+<line class="drop" x1="{{ $x }}" y1="10" x2="{{ $x }}" y2="{{ add 10 $drop }}"/>
+<circle class="bulb" cx="{{ $x }}" cy="{{ add 16 $drop }}" r="{{ cond (eq . $busiest) 7.5 4.5 }}"/>
+</g>
+{{- end -}}
+<line class="axis" x1="0" y1="{{ $axisY }}" x2="1000" y2="{{ $axisY }}"/>
+{{- range $keys -}}
+{{- if or (le $slots 14) (eq (mod . 50) 0) -}}
+<text class="tick" x="{{ add 30 (mul (add (div (sub . $first) 10) 0.5) $step) }}" y="{{ add $axisY 20 }}" text-anchor="middle">{{ . }}</text>
+{{- end -}}
+{{- end -}}
+</svg>
+</div>
+{{- /* The numbers behind the chart: readable without JavaScript, and the source the script reads from. */ -}}
+<details class="numbers">
+<summary>The numbers behind this chart</summary>
+<table data-decade-table>
+<thead><tr><th scope="col">Decade</th><th scope="col">Letters</th><th scope="col">Rank</th><th scope="col">Collections</th></tr></thead>
+<tbody>
+{{- range $keys -}}
+{{- $d := . -}}
+{{- $n := index $counts (string $d) -}}
+{{- $rank := 1 -}}
+{{- range $keys }}{{ if gt (index $counts (string .)) $n }}{{ $rank = add $rank 1 }}{{ end }}{{ end -}}
+<tr data-decade="{{ $d }}" data-count="{{ $n }}" data-share="{{ printf "%.4f" (div (float $n) $maxN) }}" data-rank="{{ if eq $rank 1 }}The busiest decade in the library{{ else }}Number {{ $rank }} of {{ len $keys }} decades by letters{{ end }}">
+<td>{{ $d }}s</td><td>{{ $n }}</td><td>{{ $rank }}</td>
+<td>{{ partial "decade-books.html" (dict "letters" $.letters "decade" $d) }}</td>
+</tr>
+{{- end -}}
+</tbody>
+</table>
+</details>
+{{- $bn := index $counts (string $busiest) -}}
+<div class="decade-detail" aria-live="polite" data-decade-detail>
+<div class="left">
+<div class="dec" data-f="decade">{{ $busiest }}s</div>
+<div class="count"><span class="n" data-f="count">{{ $bn }}</span><span class="u" data-f="unit">{{ cond (eq $bn 1) "letter" "letters" }}</span></div>
+<svg class="share" viewBox="0 0 100 3" preserveAspectRatio="none" aria-hidden="true"><rect data-f="share" x="0" y="0" width="100" height="3"/></svg>
+<div class="rank" data-f="rank">The busiest decade in the library</div>
+</div>
+<div class="right">
+<div class="muted">Writing in these years</div>
+<ul data-f="books">{{ partial "decade-books.html" (dict "letters" .letters "decade" $busiest "li" true) }}</ul>
+</div>
+</div>
+</div>
+</section>
+{{- end -}}

@@ -1,0 +1,6 @@
+{{- /* ISO date (YYYY, YYYY-MM or YYYY-MM-DD) to a decimal year for chart positions. */ -}}
+{{- $p := split . "-" -}}
+{{- $y := float (index $p 0) -}}
+{{- if gt (len $p) 1 }}{{ $y = add $y (div (sub (float (strings.TrimLeft "0" (index $p 1))) 1) 12.0) }}{{ end -}}
+{{- if gt (len $p) 2 }}{{ $y = add $y (div (float (strings.TrimLeft "0" (index $p 2))) 366.0) }}{{ end -}}
+{{- return $y -}}

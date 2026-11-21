@@ -1,0 +1,16 @@
+{{- /* One bar per scan leaf from the pipeline's page_kinds string. Args: kinds, here (slice of 1-based pages to light), h (height), label. */ -}}
+{{- $kinds := split .kinds "" -}}
+{{- $n := len $kinds -}}
+{{- $h := .h | default 96 -}}
+{{- $here := .here | default slice -}}
+<svg class="strip" viewBox="0 0 {{ $n }} {{ $h }}" preserveAspectRatio="none" role="img" aria-label="{{ .label }}">
+{{- range $i, $k := $kinds -}}
+{{- $p := add $i 1 -}}
+{{- $cls := cond (eq $k "L") "L" (cond (eq $k "n") "n" "o") -}}
+{{- $bh := cond (eq $k "L") $h (cond (eq $k "n") (mul $h 0.55) (mul $h 0.22)) -}}
+{{- if in $here $p }}{{ $cls = "here" }}{{ $bh = $h }}{{ end -}}
+<rect class="{{ $cls }}" x="{{ $i }}" y="{{ sub $h $bh }}" width="0.6" height="{{ $bh }}"/>
+{{- end -}}
+<line class="base" x1="0" y1="{{ $h }}" x2="{{ $n }}" y2="{{ $h }}" vector-effect="non-scaling-stroke"/>
+</svg>
+{{- /**/ -}}

@@ -1,0 +1,6 @@
+{{- /* The two-lantern mark. Args: w (px), sw (stroke width), hollow (optional class for the unlit lantern fill). */ -}}
+{{- $w := .w | default 44 -}}
+{{- $h := div (mul $w 2) 3 -}}
+{{- $sw := .sw | default 1.2 -}}
+<svg aria-hidden="true" focusable="false" width="{{ $w }}" height="{{ $h }}" viewBox="0 0 48 32" fill="none"><path class="lantern-string" d="M2 6 Q24 16 46 6" stroke-width="{{ $sw }}"/><path class="lantern-string" d="M16 10.3 V15" stroke-width="{{ $sw }}"/><circle class="lantern-lit" cx="16" cy="20" r="5"/><path class="lantern-string" d="M33 10.2 V19" stroke-width="{{ $sw }}"/><circle class="{{ .hollow | default "lantern-hollow" }}" cx="33" cy="24" r="4.4" stroke-width="{{ $sw }}"/></svg>
+{{- /**/ -}}

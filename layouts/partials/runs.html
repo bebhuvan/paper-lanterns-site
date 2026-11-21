@@ -1,0 +1,12 @@
+{{- /* Lines of style runs from the pipeline. Every string is escaped by the template engine; nothing is raw HTML. */ -}}
+{{- range $i, $line := . -}}
+{{- if $i }}<br>{{ end -}}
+{{- range $line -}}
+{{- if .fn -}}<sup class="fnref"><a href="#{{ .fn }}">{{ .t }}</a></sup>
+{{- else if eq .tag "sup" -}}<sup{{ with .c }} class="{{ . }}"{{ end }}>{{ .t }}</sup>
+{{- else if eq .tag "sub" -}}<sub{{ with .c }} class="{{ . }}"{{ end }}>{{ .t }}</sub>
+{{- else if .c -}}<span class="{{ .c }}">{{ .t }}</span>
+{{- else -}}{{ .t }}
+{{- end -}}
+{{- end -}}
+{{- end -}}

@@ -1,0 +1,47 @@
+{{- /* One stroke per dated letter per year, under the writer's life periods. Context: the book page. */ -}}
+{{- $yc := .Params.year_counts -}}
+{{- $periods := .Params.periods -}}
+{{- $lo := float (index (index $yc 0) 0) -}}
+{{- $hi := add (float (index (index $yc (sub (len $yc) 1)) 0)) 1 -}}
+{{- range $periods -}}
+{{- $s := partial "year-frac.html" .start -}}{{- $e := partial "year-frac.html" .end -}}
+{{- if lt $s $lo }}{{ $lo = $s }}{{ end }}{{ if gt $e $hi }}{{ $hi = $e }}{{ end -}}
+{{- end -}}
+{{- $lo = sub (math.Floor $lo) 1 -}}{{- $hi = add (math.Ceil $hi) 1 -}}
+{{- $scale := div 1000.0 (sub $hi $lo) -}}
+{{- $maxN := 0 -}}{{- range $yc }}{{ if gt (int (index . 1)) $maxN }}{{ $maxN = int (index . 1) }}{{ end }}{{ end -}}
+{{- $top := cond (gt (len $periods) 0) 96 20 -}}
+{{- $base := add (add $top (mul $maxN 6.5)) 24 -}}
+{{- $H := add $base 36 -}}
+<svg class="year-chart" viewBox="0 0 1000 {{ $H }}" role="img" aria-label="{{ .Params.counts.dated_letters }} dated letters by year, {{ int (index (index $yc 0) 0) }} to {{ int (index (index $yc (sub (len $yc) 1)) 0) }}{{ with $periods }}, set against the periods of the writer's life{{ end }}.">
+{{- range $i, $p := $periods -}}
+{{- $x0 := mul (sub (partial "year-frac.html" $p.start) $lo) $scale -}}
+{{- $x1 := mul (sub (partial "year-frac.html" $p.end) $lo) $scale -}}
+{{- /* Three staggered rows so short periods keep readable labels. */ -}}
+<text class="band-label" x="{{ add $x0 3 }}" y="{{ add 20 (mul (mod $i 3) 24) }}">{{ $p.label }}</text>
+<line class="band-rule" x1="{{ add $x0 1 }}" y1="80" x2="{{ sub $x1 1 }}" y2="80"/>
+<line class="band-rule" x1="{{ add $x0 1 }}" y1="{{ add 26 (mul (mod $i 3) 24) }}" x2="{{ add $x0 1 }}" y2="80"/>
+{{- end -}}
+{{- $prev := 0 -}}{{- $gapLen := 0 -}}{{- $gapAt := 0 -}}
+{{- range $yc -}}
+{{- $y := int (index . 0) -}}{{- $n := int (index . 1) -}}
+{{- if and $prev (gt (sub (sub $y $prev) 1) $gapLen) }}{{ $gapLen = sub (sub $y $prev) 1 }}{{ $gapAt = add $prev 1 }}{{ end -}}
+{{- $prev = $y -}}
+{{- $x := mul (sub (add (float $y) 0.5) $lo) $scale -}}
+{{- range $j := seq 0 (sub $n 1) -}}
+<rect class="stroke" x="{{ sub $x 8 }}" y="{{ sub (sub $base 7) (mul $j 6.5) }}" width="16" height="1.5"/>
+{{- end -}}
+{{- end -}}
+{{- if ge $gapLen 3 -}}
+<text class="gap-label" x="{{ add (mul (sub (float $gapAt) $lo) $scale) 4 }}" y="{{ add $top 4 }}">{{ $gapLen }} years without a letter</text>
+{{- end -}}
+<line class="base" x1="0" y1="{{ $base }}" x2="1000" y2="{{ $base }}"/>
+{{- range $t := seq (int $lo) (int $hi) -}}
+{{- if eq (mod $t 5) 0 -}}
+{{- $x := mul (sub (float $t) $lo) $scale -}}
+<line class="tick-line" x1="{{ $x }}" y1="{{ $base }}" x2="{{ $x }}" y2="{{ add $base 5 }}"/>
+<text class="tick" x="{{ $x }}" y="{{ add $base 24 }}" text-anchor="middle">{{ $t }}</text>
+{{- end -}}
+{{- end -}}
+</svg>
+{{- /**/ -}}

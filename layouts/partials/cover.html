@@ -1,0 +1,27 @@
+{{- /* A generated cover from real edition data. Context: the book page. */ -}}
+{{- $p := . -}}
+{{- $writer := index $p.Params.authors 0 | default $p.Params.author_or_editor -}}
+{{- $years := $p.Params.year_counts -}}
+{{- $span := "" -}}
+{{- with $years }}{{ $span = printf "%d–%d" (int (index (index . 0) 0)) (int (index (index . (sub (len .) 1)) 0)) }}{{ end -}}
+{{- $letters := where $p.RegularPages "Params.layout" "letter" -}}
+{{- $voice := "" -}}
+{{- range $letters.ByWeight }}{{ if and (not $voice) .Params.salutation }}{{ $voice = .Params.salutation }}{{ end }}{{ end -}}
+<a class="cover-card" href="{{ $p.RelPermalink }}">
+<span class="cover tint-{{ $p.Params.collection }}" role="img" aria-label="Cover: {{ $p.Title }}, {{ $writer }}">
+<span class="top">{{ partial "logo.html" (dict "w" 24 "sw" 1.6) }}<span class="series">{{ humanize $p.Params.collection }}</span></span>
+<span class="plate">{{ with $p.Params.frontispiece }}{{ partial "scan-img.html" (dict "id" $p.Params.archive_id "leaf" .leaf "alt" "" "lazy" true) }}{{ end }}</span>
+<span class="ct">{{ $p.Title }}</span>
+<span class="cw">{{ $writer }}</span>
+{{- $kinds := split $p.Params.page_kinds "" -}}
+<svg class="runs" viewBox="0 0 {{ len $kinds }} 4" preserveAspectRatio="none" aria-hidden="true">
+{{- range $i, $k := $kinds }}<rect class="{{ cond (eq $k "L") "L" (cond (eq $k "n") "n" "o") }}" x="{{ $i }}" y="0" width="1.02" height="4"/>{{ end -}}
+</svg>
+<span class="foot"><span>{{ $span }}</span><span>{{ $p.Params.counts.letters }} letters</span></span>
+</span>
+<span class="printed">{{ $p.Params.imprint }}</span>
+<span class="t">{{ $p.Title }}</span>
+<span class="who">{{ $p.Params.subtitle }}</span>
+{{- with $voice }}<span class="voice">“{{ . }}”</span>{{ end }}
+</a>
+{{- /**/ -}}

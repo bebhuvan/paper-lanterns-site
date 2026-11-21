@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+{{- $books := partial "books.html" . -}}
+<main id="main">
+<section class="wrap page-title" aria-labelledby="title">
+<h1 id="title">{{ .Title }}</h1>
+<p>{{ .Params.intro }}</p>
+</section>
+<section class="wrap cols-sec" aria-label="Volumes">
+<ol class="covers">
+{{ range $books }}<li>{{ partial "cover.html" . }}</li>{{ end }}
+</ol>
+</section>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

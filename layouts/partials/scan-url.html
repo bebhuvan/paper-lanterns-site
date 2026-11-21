@@ -1,0 +1,2 @@
+{{- /* Internet Archive BookReader image for a 0-based leaf (pipeline D20). Args: id, leaf, w. */ -}}
+{{- return printf "https://archive.org/download/%s/page/n%d_w%d.jpg" .id (int .leaf) (int .w) -}}

@@ -1,0 +1,19 @@
+{{- /* Collections with letters in one decade. Args: letters, decade, li (render <li> instead of spans). */ -}}
+{{- $d := .decade -}}
+{{- $books := slice -}}
+{{- range $l := .letters -}}
+{{- with $l.Params.letter_date.iso -}}
+{{- if eq (mul (int (strings.TrimLeft "0" (substr . 0 3))) 10) $d }}{{ $books = $books | append $l.Parent }}{{ end -}}
+{{- end -}}
+{{- end -}}
+{{- range $books | uniq -}}
+{{- $b := . -}}
+{{- $n := 0 -}}
+{{- range $books }}{{ if eq . $b }}{{ $n = add $n 1 }}{{ end }}{{ end -}}
+{{- $writer := index $b.Params.authors 0 | default $b.Params.author_or_editor -}}
+{{- if $.li -}}
+<li>{{ $writer }}<span class="sub">{{ $b.Title }} · {{ $n }} {{ cond (eq $n 1) "letter" "letters" }}</span></li>
+{{- else -}}
+<span data-writer="{{ $writer }}" data-sub="{{ $b.Title }} · {{ $n }} {{ cond (eq $n 1) "letter" "letters" }}">{{ $writer }} ({{ $n }})</span>
+{{- end -}}
+{{- end -}}

@@ -1,0 +1,54 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+{{- $letters := partial "letters.html" . -}}
+{{- $books := partial "books.html" . -}}
+{{- $featured := site.GetPage .Params.featured_letter -}}
+{{- if not $featured }}{{ errorf "home: featured_letter %q does not exist" .Params.featured_letter }}{{ end -}}
+<main id="main">
+<section class="wrap pitch" aria-labelledby="pitch">
+<h2 class="kicker">{{ .Params.kicker }}</h2>
+{{- /* Distinct printed salutations, in the order the letters were written. */ -}}
+{{- $seen := slice -}}
+<p class="salutations" data-salutations>
+{{- range sort $letters "Params.letter_date.iso" -}}
+{{- $s := .Params.salutation -}}
+{{- /* A salutation runs a line or two; longer text here is a pipeline misreading, so it is left out. */ -}}
+{{- if and $s (le (len $s) 80) (not (in $seen $s)) (lt (len $seen) 24) -}}
+{{- $seen = $seen | append $s -}}
+<a href="{{ .RelPermalink }}" data-from="{{ .Params.sender }}" data-to="{{ .Params.recipient }}" data-date="{{ .Params.letter_date.short }}" data-book="{{ .Parent.Title }}">{{ $s }}</a>{{ " " }}
+{{- end -}}
+{{- end -}}
+</p>
+<div class="sal-detail" aria-live="polite" data-sal-detail></div>
+<div class="dear">
+<h1 id="pitch"><span class="dot" aria-hidden="true"></span>Dear reader,</h1>
+<div class="body">
+<p class="where">{{ range $i, $l := .Params.where }}{{ if $i }}<br>{{ end }}{{ $l }}{{ end }}</p>
+{{ range .Params.paragraphs }}<p class="t">{{ . }}</p>{{ end }}
+<div class="close">
+<span class="v">{{ .Params.valediction }}</span>
+<span class="s">Paper Lanterns{{ partial "logo.html" (dict "w" 33 "sw" 1.3) }}</span>
+</div>
+<div class="ps">
+<p><span class="mark">P.S.</span>{{ .Params.featured_text }} <a href="{{ $featured.RelPermalink }}">Read it →</a></p>
+<p><span class="mark">P.P.S.</span>Whole books are here too: {{ len $books }} {{ cond (eq (len $books) 1) "collection" "collections" }} with {{ len $letters }} letters to read or take with you. <a href="{{ "/collections/" | relURL }}">Browse them →</a></p>
+</div>
+</div>
+</div>
+</section>
+
+<section class="wrap cols-sec" aria-labelledby="cols">
+<div class="sec-head">
+<h2 id="cols">The collections</h2>
+<p>{{ with site.GetPage "/collections" }}{{ .Params.intro }}{{ end }}</p>
+</div>
+<ol class="covers">
+{{ range $books }}<li>{{ partial "cover.html" . }}</li>{{ end }}
+<li><a class="all-card" href="{{ "/collections/" | relURL }}"><span class="big">{{ if gt (len $books) 1 }}All {{ len $books }} collections{{ else }}Every collection{{ end }}</span><span class="small">See every volume →</span></a></li>
+</ol>
+</section>
+
+{{ partial "decade-chart.html" (dict "letters" $letters) }}
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

@@ -1,0 +1,180 @@
+{{ define "main" }}
+{{- $p := . -}}
+{{- $book := .Parent -}}
+{{- $id := .Params.archive_id -}}
+{{- $letters := (where $book.RegularPages "Params.layout" "letter").ByWeight -}}
+{{- $idx := 0 -}}
+{{- range $i, $l := $letters }}{{ if eq $l.RelPermalink $p.RelPermalink }}{{ $idx = $i }}{{ end }}{{ end -}}
+{{- $prev := false -}}{{- if gt $idx 0 }}{{ $prev = index $letters (sub $idx 1) }}{{ end -}}
+{{- $next := false -}}{{- if lt $idx (sub (len $letters) 1) }}{{ $next = index $letters (add $idx 1) }}{{ end -}}
+{{- $from := int (math.Max 0 (sub $idx 3)) -}}
+{{- $nearby := first 7 (after $from $letters) -}}
+{{- $folios := cond (eq .Params.start_folio .Params.end_folio) (printf "p. %s" .Params.start_folio) (printf "pp. %s–%s" .Params.start_folio .Params.end_folio) -}}
+{{- if not .Params.start_folio }}{{ $folios = printf "scan leaf %d" (int .Params.start_page) }}{{ end -}}
+{{- $label := .Params.number | default (printf "%d" (int .Params.sequence)) -}}
+{{- $proof := $book.Params.proof -}}
+{{- $humanPages := int (add $proof.p1_proofed $proof.verified) -}}
+<header class="letter-bar">
+<div class="wrap">
+<a class="logo" href="{{ "/" | relURL }}">{{ partial "logo.html" (dict "w" 36 "sw" 1.3) }}<span class="word">Paper Lanterns</span></a>
+<nav class="crumb" aria-label="Breadcrumb"><a href="{{ $book.RelPermalink }}">{{ $book.Title }}</a><span aria-hidden="true">  /  </span><span>Letter {{ $label }} of {{ len $letters }}</span></nav>
+<div class="tools">
+<button type="button" class="tool focus-btn js-only flexy" aria-pressed="false" data-focus><span class="dot" aria-hidden="true"></span><span data-focus-label>Focus</span></button>
+<button type="button" class="tool panel-btn js-only flexy" aria-expanded="false" aria-controls="panel" data-panel-toggle><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M4 6h16M4 12h10M4 18h16"/></svg>Contents</button>
+<div class="seg view-seg js-only flexy" role="group" aria-label="What to show">
+<button type="button" aria-pressed="false" data-view="text">Text</button>
+<button type="button" aria-pressed="true" data-view="both">Text and page</button>
+<button type="button" aria-pressed="false" data-view="page">Page</button>
+</div>
+</div>
+</div>
+</header>
+
+<div class="reader">
+<aside class="panel" id="panel" aria-label="Reading panel">
+<nav aria-label="Letters nearby">
+<div class="h">{{ with .Params.period }}{{ . }}{{ else }}Nearby letters{{ end }}</div>
+<ol>
+{{- range $nearby }}
+<li><a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $p.RelPermalink }} aria-current="page"{{ end }}><span class="mono">{{ .Params.number | default (printf "%d" (int .Params.sequence)) }}</span><span>{{ with .Params.recipient }}To {{ . }}{{ else }}{{ .Title }}{{ end }}<span class="d">{{ .Params.letter_date.short | default "Undated" }}</span></span></a></li>
+{{- end }}
+</ol>
+<a class="all" href="{{ $book.RelPermalink }}#contents">All {{ len $letters }} letters</a>
+</nav>
+<div class="prefs js-only flexy" data-prefs>
+<div class="muted">Reading</div>
+<div role="group" aria-label="Text size">
+<div class="lbl">Text size</div>
+<div class="grid g4">{{ range $i, $l := slice "Small text" "Standard text" "Large text" "Largest text" }}<button type="button" class="aa{{ $i }}" aria-label="{{ $l }}" aria-pressed="{{ cond (eq $i 1) "true" "false" }}" data-pref="size" data-value="{{ $i }}">Aa</button>{{ end }}</div>
+</div>
+<div role="group" aria-label="Line width">
+<div class="lbl">Line width</div>
+<div class="grid g3">{{ range $i, $l := slice "Narrow lines" "Standard lines" "Wide lines" }}<button type="button" aria-label="{{ $l }}" aria-pressed="{{ cond (eq $i 1) "true" "false" }}" data-pref="width" data-value="{{ $i }}"><span class="lines w{{ $i }}" aria-hidden="true"><span></span><span></span><span></span></span></button>{{ end }}</div>
+</div>
+<div role="group" aria-label="Page colour">
+<div class="lbl">Page</div>
+<div class="theme">
+<button type="button" aria-pressed="true" data-pref="theme" data-value="day"><span class="swatch" aria-hidden="true"></span>Day</button>
+<button type="button" aria-pressed="false" data-pref="theme" data-value="night"><span class="swatch night" aria-hidden="true"></span>Night</button>
+</div>
+</div>
+<button type="button" class="linkish" data-panel-toggle aria-controls="panel">Hide this panel</button>
+</div>
+</aside>
+
+<main id="main" class="reading" data-view="both" data-reading>
+<div class="leaf-pair">
+<article class="letter" lang="{{ $book.Params.language | default "en" }}">
+<div class="pair"><span>{{ .Params.sender }}</span><span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ .Params.recipient }}</span></div>
+<h1>{{ .Title }}</h1>
+<div class="meta">{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.place }}<span>{{ . }}</span>{{ end }}<span>Printed {{ $folios }}</span></div>
+<div class="text" data-letter-text>
+{{- $last := int .Params.start_page -}}
+{{- range .Params.blocks -}}
+{{- $pg := int .page -}}
+{{- if ne $pg $last }}<span class="pb">[p. {{ .folio | default (printf "leaf %d" $pg) }}]</span>{{ $last = $pg }}{{ end -}}
+{{- if eq .type "illustration" -}}
+<p class="blk t-illustration" id="{{ .id }}" data-page="{{ $pg }}" data-bbox="{{ delimit .bbox " " }}">An illustration is printed here, on <a href="#scan-p{{ $pg }}">scan leaf {{ $pg }}</a>.</p>
+{{- else -}}
+<p class="blk t-{{ .type }} a-{{ .align }}" id="{{ .id }}" data-page="{{ $pg }}" data-bbox="{{ delimit .bbox " " }}">{{ partial "runs.html" .lines }}</p>
+{{- end -}}
+{{- end -}}
+</div>
+{{- with .Params.footnotes }}
+<section class="notes" aria-labelledby="notes-h">
+<h2 id="notes-h">Notes</h2>
+<ol>{{ range . }}<li id="{{ .id }}"><span class="lab">{{ .label }}</span><span>{{ partial "runs.html" .lines }}</span></li>{{ end }}</ol>
+</section>
+{{- end }}
+<p class="hint js-only">Choose any passage to light it on the printed page.</p>
+</article>
+
+<div class="scan" data-scan>
+{{- range $i, $pg := .Params.pages }}
+<figure id="scan-p{{ int .page }}" data-page="{{ int .page }}"{{ if eq $i 0 }} class="current"{{ end }}>
+<div class="frame">
+{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "Scan leaf %d of the %d edition (printed page %s), showing letter %s." (int .page) (int $book.Params.year) (.folio | default "unnumbered") $label) "lazy" (gt $i 0)) }}
+<svg class="lights" viewBox="0 0 1000 1000" preserveAspectRatio="none" aria-hidden="true" focusable="false"><rect class="light" x="0" y="0" width="0" height="0"/><rect class="light-bar" x="0" y="0" width="0" height="0"/></svg>
+</div>
+<figcaption><span>Printed page {{ .folio | default "unnumbered" }} · scan leaf {{ int .page }} of {{ $book.Params.counts.pages }}</span><a href="https://archive.org/details/{{ $id }}/page/n{{ int .leaf }}/mode/1up">Open the full scan</a></figcaption>
+</figure>
+{{- end }}
+</div>
+</div>
+
+<div class="after">
+<div class="mark" aria-hidden="true">{{ partial "logo.html" (dict "w" 48 "sw" 1) }}</div>
+{{- if or $prev $next }}
+<nav class="neighbours" aria-label="Earlier and later letters">
+{{- with $prev }}
+<a href="{{ .RelPermalink }}">
+<span class="top"><span>← Earlier letter</span>{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}</span>
+<span class="tt">{{ .Title }}</span>
+<span class="q">“{{ .Params.incipit }}”</span>
+</a>
+{{- end }}
+{{- with $next }}
+{{- $gap := 0 -}}
+{{- if and $p.Params.letter_date.iso .Params.letter_date.iso }}{{ $gap = int (math.Floor (sub (partial "year-frac.html" .Params.letter_date.iso) (partial "year-frac.html" $p.Params.letter_date.iso))) }}{{ end }}
+<a href="{{ .RelPermalink }}">
+<span class="top"><span>Later letter →</span>{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ if ge $gap 2 }}<span>{{ $gap }} years later</span>{{ end }}</span>
+<span class="tt">{{ .Title }}</span>
+<span class="q">“{{ .Params.incipit }}”</span>
+</a>
+{{- end }}
+</nav>
+{{- end }}
+
+<section class="about" aria-labelledby="about-h">
+<div class="head">
+<h2 id="about-h">About this letter</h2>
+<span>Letter {{ $label }} of {{ len $letters }} · printed {{ $folios }} · scan leaf {{ .Params.start_page }} of {{ $book.Params.counts.pages }}</span>
+</div>
+{{- $here := slice -}}
+{{- range .Params.pages }}{{ $here = $here | append (int .page) }}{{ end -}}
+{{ partial "page-strip.html" (dict "kinds" $book.Params.page_kinds "here" $here "h" 48 "label" (printf "Where this letter sits in the book: scan leaves %d to %d of %d." (int .Params.start_page) (int .Params.end_page) (int $book.Params.counts.pages))) }}
+<p class="legend">Where it sits in the book: black are letters, grey the editor’s narrative, pale the front matter, appendices and index.</p>
+<div class="grid">
+<dl>
+<div><dt>Source</dt><dd><i>{{ $book.Title }}</i>{{ with $book.Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}, {{ $book.Params.year }}, {{ $folios }}.</dd></div>
+<div><dt>How it was read</dt><dd>{{ if eq $humanPages 0 }}Transcribed and checked by machine. No person has proofread a page of this book yet.{{ else }}Transcribed and checked by machine; {{ $humanPages }} of {{ $proof.total_pages }} pages of this book have been proofread by people.{{ end }}</dd></div>
+<div><dt>Take the whole book with you</dt><dd class="chips">{{ range $book.Params.downloads }}<a href="{{ $book.RelPermalink }}{{ .file }}" download>{{ index (dict "epub" "EPUB" "markdown" "Markdown" "tei" "TEI") .format }}</a>{{ end }}</dd></div>
+</dl>
+{{- $subtitle := "" }}{{ with $book.Params.subtitle }}{{ $subtitle = printf ", %s%s" (lower (substr . 0 1)) (substr . 1) }}{{ end }}
+{{- $date := "" }}{{ with .Params.letter_date.display }}{{ $date = printf ", %s" . }}{{ end }}
+{{- $pages := replace (replace $folios "pp. " "") "p. " "" }}
+<div class="cite" data-cite>
+<div class="bar">
+<span class="h">Cite this letter</span>
+<span class="ctl">
+<span class="seg js-only flexy" role="group" aria-label="Citation format"><button type="button" aria-pressed="true" data-fmt="text">Citation</button><button type="button" aria-pressed="false" data-fmt="bibtex">BibTeX</button><button type="button" aria-pressed="false" data-fmt="link">Link</button></span>
+<button type="button" class="btn solid js-only flexy" data-copy><svg aria-hidden="true" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="8" y="8" width="12" height="12"/><path d="M16 8V4H4v12h4"/></svg><span data-copy-label>Copy</span></button>
+</span>
+</div>
+<p class="fmt current" data-fmt-panel="text"><span class="k">Citation</span>{{ .Params.sender }}, “{{ .Title }}”{{ $date }}. In <i>{{ $book.Title }}</i>{{ $subtitle }}{{ with $book.Params.imprint }} ({{ . }}){{ end }}, {{ $folios }}. Paper Lanterns edition, {{ .Permalink }}.</p>
+<pre class="fmt" data-fmt-panel="bibtex"><span class="k">BibTeX</span>@incollection{ {{- $book.Params.book_id }}-{{ .Params.letter_id }},
+  author    = { {{- .Params.sender -}} },
+  title     = { {{- .Title -}} },
+  booktitle = { {{- $book.Title -}} },
+  publisher = { {{- $book.Params.imprint -}} },
+  year      = { {{- $book.Params.year -}} },
+  pages     = { {{- replace $pages "–" "--" -}} },
+  note      = { {{- with $book.Params.subtitle }}{{ . }}. {{ end }}Paper Lanterns edition},
+  url       = { {{- .Permalink -}} }
+}</pre>
+<p class="fmt" data-fmt-panel="link"><span class="k">Link</span>{{ .Permalink }}</p>
+<div class="tip">The link is permanent and will always lead to this letter.</div>
+</div>
+</div>
+</section>
+</div>
+</main>
+</div>
+<nav class="mobile-bar" aria-label="Reading controls">
+<button type="button" data-panel-toggle aria-controls="panel" aria-expanded="false">Contents</button>
+<button type="button" data-view-toggle aria-pressed="false">Page</button>
+<button type="button" data-prefs-open aria-controls="panel">Aa</button>
+{{ with $next }}<a href="{{ .RelPermalink }}">Next →</a>{{ else }}<a href="{{ $book.RelPermalink }}#contents">All letters</a>{{ end }}
+</nav>
+{{ partial "footer.html" . }}
+{{ end }}
