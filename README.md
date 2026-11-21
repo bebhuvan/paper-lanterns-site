@@ -90,6 +90,15 @@ Not set up yet. The plan (DECISIONS.md D2) is Cloudflare Pages building from thi
 `hugo --gc --minify && pagefind --site public` (search index, D17); `public/_headers` carries the
 Content-Security-Policy and security headers and `public/_redirects` the old-site redirects.
 
+At launch, the new site replaces the old Astro sites (D25):
+
+1. Point `paperlanterns.ink` at this Cloudflare Pages project in place of the old Astro project.
+2. Retire the old `collections.paperlanterns.ink` Astro project and add one Cloudflare redirect rule (Rules →
+   Redirect Rules) on the zone: when the hostname equals `collections.paperlanterns.ink`, send a 301 to the static
+   URL `https://paperlanterns.ink/collections/`, without preserving the query string. The subdomain's DNS record must
+   stay (proxied, orange cloud) or the rule never sees the request. No per-page redirects: its five collections
+   are being redone from fresh scans and its letters do not map one to one.
+
 Search does not work under `hugo server` (the index is built after Hugo). To try it locally, build with the
 command above and serve `public/` with any static server.
 

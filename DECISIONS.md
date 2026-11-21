@@ -326,6 +326,18 @@ how the site is built; say why if you overturn one.
 - **Rejected:** a banner on every letter (it would shout over the letters); hiding the score in the colophon only
   (the owner asked for it to be prominent).
 
+## D25. The old collections subdomain redirects as a whole, not page by page (2026-11-21)
+
+- **Decision:** when the Astro sites are shut down, `collections.paperlanterns.ink` gets one Cloudflare redirect
+  rule sending every address to `https://paperlanterns.ink/collections/`. The main domain keeps its page-by-page
+  redirects (`static/_redirects`), which already exist and cost nothing.
+- **Why:** the owner is letting the old subdomain go. Its collections are being digitized afresh (three are already
+  on the site; Glimpses of Bengal and Nehru's Letters from a Father to His Daughter are listed in the pipeline's
+  `config/wishlist-additions.json`), so its 256 letter addresses have no exact new homes. One rule keeps old links
+  and search results from ending in an error.
+- **Rejected:** 256 individual redirects (no reliable one-to-one mapping, upkeep for little gain); no redirect at
+  all (every old link breaks).
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should
