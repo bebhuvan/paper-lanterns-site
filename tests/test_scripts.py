@@ -1,0 +1,139 @@
+"""Tests for scripts/check_site.py and scripts/sync_from_pipeline.py. Standard library only; no network."""
+
+from __future__ import annotations
+
+import hashlib
+import json
+import sys
+import tempfile
+import unittest
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
+
+import check_site  # noqa: E402
+import sync_from_pipeline as sync  # noqa: E402
+
+CSP = "default-src 'none'; img-src 'self' https://archive.org"
+HUGO_TOML = f'''
+[params.security]
+  csp = "{CSP}"
+[[server.headers]]
+  for = "/**"
+  [server.headers.values]
+    Content-Security-Policy = "{CSP}"
+'''
+GOOD = """<!doctype html><html lang="en"><head><title>T</title><meta name="description" content="d"></head>
+<body><h1 id="top">Hi</h1><p><a href="/other/">o</a> <a href="#top">t</a> <img src="https://archive.org/x.jpg" alt=""></p>
+<svg viewBox="0 0 1 1"><rect x="0" y="0" width="1" height="1"/></svg></body></html>"""
+
+
+def write_site(root: Path, index_html: str) -> Path:
+    public = root / "public"
+    (public / "other").mkdir(parents=True)
+    (public / "index.html").write_text(index_html, encoding="utf-8")
+    (public / "other" / "index.html").write_text(GOOD.replace('href="/other/"', 'href="/"'), encoding="utf-8")
+    (public / "_headers").write_text(f"/*\n  Content-Security-Policy: {CSP}\n", encoding="utf-8")
+    (root / "hugo.toml").write_text(HUGO_TOML, encoding="utf-8")
+    return public
+
+
+class CheckSiteTests(unittest.TestCase):
+    def problems(self, html: str) -> list[str]:
+        with tempfile.TemporaryDirectory() as tmp:
+            public = write_site(Path(tmp), html)
+            return check_site.check_site(public, Path(tmp) / "hugo.toml")
+
+    def test_good_page_passes(self) -> None:
+        self.assertEqual(self.problems(GOOD), [])
+
+    def test_catches_broken_link_and_missing_fragment(self) -> None:
+        found = self.problems(GOOD.replace('href="/other/"', 'href="/missing/"').replace('href="#top"', 'href="#nowhere"'))
+        self.assertTrue(any("broken internal link: /missing/" in p for p in found), found)
+        self.assertTrue(any("missing #fragment: #nowhere" in p for p in found), found)
+
+    def test_catches_csp_hazards_and_foreign_hosts(self) -> None:
+        bad = GOOD.replace("<p>", '<p style="color:red" onclick="x()">').replace(
+            "</body>", '<script>alert(1)</script><a href="https://evil.example/">e</a><a href="javascript:x">j</a></body>'
+        )
+        found = "\n".join(self.problems(bad))
+        for needle in ("style= attribute", "inline event handler onclick", "inline <script>", "outside the allowlist", "non-http(s) URL"):
+            self.assertIn(needle, found)
+
+    def test_catches_structure_errors(self) -> None:
+        bad = GOOD.replace("<h1 id=\"top\">Hi</h1>", '<h1 id="top">Hi</h1><h1 id="top">Again</h1><div><span></div>').replace(' alt=""', "")
+        found = "\n".join(self.problems(bad))
+        for needle in ("duplicate id 'top'", "exactly one <h1>", "does not match", "has no alt"):
+            self.assertIn(needle, found)
+
+    def test_catches_csp_drift_between_headers_and_config(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            public = write_site(Path(tmp), GOOD)
+            (public / "_headers").write_text("/*\n  Content-Security-Policy: default-src *\n", encoding="utf-8")
+            found = check_site.check_site(public, Path(tmp) / "hugo.toml")
+        self.assertTrue(any("_headers CSP" in p for p in found), found)
+
+
+def make_pipeline(root: Path, *, tamper: bool = False) -> Path:
+    ed = root / "pipeline" / "library" / "world-correspondence" / "test-book-1900"
+    (ed / "hugo").mkdir(parents=True)
+    (ed / "epub").mkdir()
+    (ed / "hugo" / "_index.md").write_text('{"title": "Book"}\n', encoding="utf-8")
+    (ed / "hugo" / "letter-0001.md").write_text('{"title": "I"}\n', encoding="utf-8")
+    epub = ed / "epub" / "test-book-1900.epub"
+    epub.write_bytes(b"epub-bytes")
+    digest = hashlib.sha256(b"epub-bytes" if not tamper else b"other").hexdigest()
+    manifest = {
+        "pages": ["_index.md", "letter-0001.md"],
+        "downloads": [{"from": "epub/test-book-1900.epub", "to": "test-book-1900.epub", "sha256": digest}],
+    }
+    (ed / "hugo" / "manifest.json").write_text(json.dumps(manifest), encoding="utf-8")
+    return root / "pipeline"
+
+
+class SyncTests(unittest.TestCase):
+    def test_sync_copies_pages_and_downloads_and_removes_stale_files(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            pipeline = make_pipeline(root)
+            site = root / "site"
+            stale = site / "content" / "collections" / "test-book-1900" / "letter-9999.md"
+            stale.parent.mkdir(parents=True)
+            stale.write_text("{}", encoding="utf-8")
+
+            sync.sync_book(pipeline, "test-book-1900", site_root=site)
+
+            pages = sorted(p.name for p in (site / "content" / "collections" / "test-book-1900").iterdir())
+            self.assertEqual(pages, ["_index.md", "letter-0001.md"])
+            self.assertTrue((site / "static" / "collections" / "test-book-1900" / "test-book-1900.epub").is_file())
+            self.assertEqual(sync.stale_files(pipeline, "test-book-1900", site_root=site), [])
+
+            (site / "content" / "collections" / "test-book-1900" / "letter-0001.md").write_text("edited", encoding="utf-8")
+            self.assertEqual(sync.stale_files(pipeline, "test-book-1900", site_root=site), ["content/letter-0001.md"])
+
+    def test_hash_mismatch_stops_sync_and_leaves_site_untouched(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            pipeline = make_pipeline(root, tamper=True)
+            site = root / "site"
+            site.mkdir()
+            with self.assertRaises(sync.SyncError):
+                sync.sync_book(pipeline, "test-book-1900", site_root=site)
+            self.assertFalse((site / "content").exists())
+
+    def test_rejects_bad_book_ids_and_path_escapes(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            pipeline = make_pipeline(root)
+            with self.assertRaises(sync.SyncError):
+                sync.find_edition_dir(pipeline, "../etc")
+            manifest = pipeline / "library" / "world-correspondence" / "test-book-1900" / "hugo" / "manifest.json"
+            data = json.loads(manifest.read_text(encoding="utf-8"))
+            data["downloads"][0]["from"] = "../../../../outside.epub"
+            manifest.write_text(json.dumps(data), encoding="utf-8")
+            with self.assertRaises(sync.SyncError):
+                sync.plan_copies(manifest.parent.parent)
+
+
+if __name__ == "__main__":
+    unittest.main()

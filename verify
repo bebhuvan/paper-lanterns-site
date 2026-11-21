@@ -1,0 +1,65 @@
+#!/usr/bin/env bash
+# One command that says whether the site is fit to publish. CI runs it on every push.
+#   ./verify                 site checks, plus the pipeline's own ./verify if ../Paper Lanterns New is present
+#   ./verify --skip-pipeline site checks only
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$ROOT"
+PIPELINE="${PL_PIPELINE:-$ROOT/../Paper Lanterns New}"
+HUGO="${HUGO:-hugo}"
+SKIP_PIPELINE=0
+[[ "${1:-}" == "--skip-pipeline" ]] && SKIP_PIPELINE=1
+
+step() { printf '\n==> %s\n' "$1"; }
+
+step "[1/7] Hugo version is the pinned one ($(cat .hugo-version))"
+want="$(cat .hugo-version)"
+have="$("$HUGO" version | sed -E 's/^hugo v([0-9.]+).*/\1/')"
+if [[ "$have" != "$want" ]]; then
+  echo "Hugo $have found, but .hugo-version pins $want (set HUGO=/path/to/hugo)" >&2
+  exit 1
+fi
+echo "hugo $have"
+
+step "[2/7] JavaScript parses"
+node --check assets/js/site.js
+echo "assets/js/site.js OK"
+
+step "[3/7] Script tests (sync and site checker)"
+python3 -I -m unittest discover -s tests
+
+step "[4/7] Synced content matches the pipeline output"
+if [[ -d "$PIPELINE/library" ]]; then
+  for book in content/collections/*/; do
+    python3 -I scripts/sync_from_pipeline.py --check --pipeline "$PIPELINE" "$(basename "$book")"
+  done
+else
+  echo "skipped: pipeline repository not found at $PIPELINE (expected in CI)"
+fi
+
+step "[5/7] Hugo build, warnings are errors"
+OUT="$(mktemp -d)"
+trap 'rm -rf "$OUT"' EXIT
+"$HUGO" --gc --minify --panicOnWarning --printPathWarnings --quiet --destination "$OUT"
+echo "built $(find "$OUT" -name '*.html' | wc -l) pages"
+
+step "[6/7] Built pages: structure, links, CSP rules, JavaScript budget"
+python3 -I scripts/check_site.py "$OUT"
+js_bytes=$(find "$OUT/js" -name '*.js' -exec cat {} + | wc -c)
+if (( js_bytes > 50000 )); then
+  echo "JavaScript is $js_bytes bytes; the budget is 50000" >&2
+  exit 1
+fi
+echo "JavaScript: $js_bytes bytes (budget 50000)"
+
+step "[7/7] Pipeline's own verify"
+if [[ $SKIP_PIPELINE -eq 1 ]]; then
+  echo "skipped (--skip-pipeline)"
+elif [[ -x "$PIPELINE/verify" ]]; then
+  (cd "$PIPELINE" && ./verify)
+else
+  echo "skipped: pipeline repository not found at $PIPELINE (expected in CI)"
+fi
+
+printf '\n==> ALL CHECKS PASSED\n'
