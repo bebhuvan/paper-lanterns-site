@@ -1,10 +1,34 @@
+{{- $c := partialCached "nav-counts.html" . "nav-counts" -}}
+{{- $here := . -}}
 <header class="site-header">
 <div class="wrap">
-<a class="logo" href="{{ "/" | relURL }}">{{ partial "logo.html" (dict "w" 44) }}<span class="word">Paper Lanterns</span></a>
+<a class="logo" href="{{ "/" | relURL }}" aria-label="Paper Lanterns, home">{{ partial "logo.html" (dict "w" 44) }}<span class="word">Paper Lanterns</span></a>
+<div class="header-tools">
 <nav class="site-nav" aria-label="Main">{{ partial "nav-links.html" . }}</nav>
-<details class="menu">
-<summary aria-label="Menu"><svg aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M4 8h16M4 16h16"/></svg></summary>
-<nav class="menu-panel" aria-label="Main">{{ partial "nav-links.html" . }}</nav>
+<a class="search-link" href="{{ "/search/" | relURL }}" aria-label="Search"{{ if eq .RelPermalink "/search/" }} aria-current="page"{{ end }}><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></a>
+<details class="menu" data-menu>
+<summary aria-label="Menu"><svg class="i-open" aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M4 8h16M4 16h16"/></svg><svg class="i-close" aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></summary>
+<div class="menu-sheet">
+<div class="sheet-top"><a class="logo" href="{{ "/" | relURL }}">{{ partial "logo.html" (dict "w" 40) }}<span class="word">Paper Lanterns</span></a></div>
+<a class="sheet-search" href="{{ "/search/" | relURL }}"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><span>Search {{ lang.FormatNumber 0 (add $c.letters_all $c.curated_letters) }} letters</span></a>
+<nav class="sheet-nav" aria-label="Main">
+{{- $items := slice
+  (dict "href" "/collections/" "label" "Collections" "sub" (printf "%d whole volumes, from title page to index" $c.books) "on" (or (eq $here.Section "collections") (eq $here.Section "sets")))
+  (dict "href" "/letters/" "label" "Letters" "sub" (printf "%d single letters chosen by hand" $c.curated_letters) "on" (eq $here.Section "letters"))
+  (dict "href" "/essays/" "label" "Essays" "sub" (printf "%d essays, %d lectures, %d speeches" $c.essays $c.lectures $c.speeches) "on" (in (slice "essays" "lectures" "speeches") $here.Section))
+  (dict "href" "/people/" "label" "People" "sub" (printf "%d people, as the volumes credit them" $c.people) "on" (eq $here.Section "people"))
+  (dict "href" "/explore/" "label" "Explore" "sub" (printf "%d decades of letters, the %s to the %s" $c.decades $c.first $c.last) "on" (eq $here.Section "explore"))
+  (dict "href" "/about/" "label" "About" "sub" "Why Paper Lanterns exists, and how it is made" "on" (eq $here.RelPermalink "/about/"))
+-}}
+<ol>
+{{- range $i, $it := $items }}
+<li><a href="{{ $it.href | relURL }}"{{ if $it.on }} aria-current="page"{{ end }}><span class="sn-label">{{ $it.label }}</span><span class="sn-sub">{{ $it.sub }}</span></a></li>
+{{- end }}
+</ol>
+</nav>
+<p class="sheet-foot">Letters written for one reader,<br>returned to everyone.</p>
+</div>
 </details>
+</div>
 </div>
 </header>

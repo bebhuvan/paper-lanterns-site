@@ -86,6 +86,11 @@
         return li;
       });
       field("books").replaceChildren.apply(field("books"), items);
+      var link = field("link");
+      if (link) {
+        link.setAttribute("href", "/explore/" + decade + "s/");
+        field("linktext").textContent = "Read the letters of the " + decade + "s";
+      }
     };
     all(".lantern", chart).forEach(function (g) {
       g.setAttribute("tabindex", "0");
@@ -99,7 +104,25 @@
     });
   }
 
+  // Book page tabs: underline the group currently on screen and keep its tab visible in the scrolling strip.
+  function initTabs() {
+    var tabs = document.querySelector("[data-tabs]");
+    if (!tabs || !("IntersectionObserver" in window)) { return; }
+    var links = {};
+    all("[data-tab]", tabs).forEach(function (a) { links[a.getAttribute("data-tab")] = a; });
+    var mark = function (id) {
+      Object.keys(links).forEach(function (k) { links[k].setAttribute("aria-current", k === id ? "true" : "false"); });
+      var a = links[id];
+      if (a) { a.scrollIntoView({ block: "nearest", inline: "nearest" }); }
+    };
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) { if (e.isIntersecting) { mark(e.target.id); } });
+    }, { rootMargin: "-30% 0px -60% 0px" });
+    all("[data-group]").forEach(function (g) { io.observe(g); });
+  }
+
   function initBook() {
+    initTabs();
     var input = document.querySelector("[data-find-input]");
     var status = document.querySelector("[data-find-status]");
     if (!input) { return; }
@@ -337,6 +360,49 @@
     if (initial) { input.value = initial; run(initial); }
   }
 
-  function start() { initHome(); initBook(); initLetter(); initSearch(); }
+  // Menu sheet: works as a plain <details> without JavaScript; with it, the page behind stops scrolling,
+  // Escape closes it and focus moves to the first link.
+  function initMenu() {
+    var menu = document.querySelector("[data-menu]");
+    if (!menu) { return; }
+    menu.addEventListener("toggle", function () {
+      root.classList.toggle("menu-open", menu.open);
+      if (menu.open) {
+        var first = menu.querySelector(".sheet-search");
+        if (first) { first.focus(); }
+      }
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && menu.open) { menu.open = false; menu.querySelector("summary").focus(); }
+    });
+  }
+
+  // Header: hidden while scrolling down past the first screenful, shown again on any scroll up. Never hidden while
+  // the menu is open. Sets --header-offset so sticky group headings sit beneath it.
+  function initHeader() {
+    var header = document.querySelector(".site-header");
+    if (!header) { return; }
+    var menu = header.querySelector("[data-menu]");
+    var last = window.scrollY;
+    var ticking = false;
+    var update = function () {
+      ticking = false;
+      var y = window.scrollY;
+      var hide = y > 160 && y > last + 4 && !(menu && menu.open);
+      var show = y < last - 4 || y < 80;
+      if (hide) { header.classList.add("is-hidden"); }
+      if (show) { header.classList.remove("is-hidden"); }
+      header.classList.toggle("is-stuck", y > 8);
+      var visible = !header.classList.contains("is-hidden");
+      root.style.setProperty("--header-offset", visible ? header.offsetHeight + "px" : "0px");
+      if (Math.abs(y - last) > 4) { last = y; }
+    };
+    window.addEventListener("scroll", function () {
+      if (!ticking) { ticking = true; window.requestAnimationFrame(update); }
+    }, { passive: true });
+    update();
+  }
+
+  function start() { initHeader(); initMenu(); initHome(); initBook(); initLetter(); initSearch(); }
   if (document.readyState === "loading") { document.addEventListener("DOMContentLoaded", start); } else { start(); }
 })();

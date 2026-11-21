@@ -1,0 +1,18 @@
+{{- /* Real figures for the menu sheet. Called with partialCached, so it runs once per build. */ -}}
+{{- $books := partial "books.html" . -}}
+{{- $sec := dict -}}
+{{- range slice "letters" "essays" "lectures" "speeches" -}}
+{{- $sec = merge $sec (dict . (len (site.GetPage (printf "/%s" .)).RegularPages)) -}}
+{{- end -}}
+{{- $decades := sort site.Data.decades "decade" -}}
+{{- $first := index $decades 0 -}}{{- $last := index $decades (sub (len $decades) 1) -}}
+{{- return dict
+  "letters_all" (len (partial "letters.html" .))
+  "books" (len $books)
+  "curated_letters" (index $sec "letters")
+  "essays" (index $sec "essays") "lectures" (index $sec "lectures") "speeches" (index $sec "speeches")
+  "people" (len site.Data.people)
+  "decades" (len $decades)
+  "first" (cond (lt (int $first.decade) 1000) (printf "AD %ds" (int $first.decade)) (printf "%ds" (int $first.decade)))
+  "last" (printf "%ds" (int $last.decade))
+-}}

@@ -1,7 +1,8 @@
 // Open the built site in headless Chromium at phone and tablet widths and fail on layout faults:
 //   - the page scrolls sideways (charts may scroll inside their own .chart-box);
 //   - a button, menu toggle or block-level link is shorter than 44px;
-//   - letter text is smaller than 18px.
+//   - letter text is smaller than 18px;
+//   - the logo or a header link wraps onto two lines.
 // No dependencies: Node's built-in http and WebSocket talk to Chromium's DevTools protocol.
 // Requests to anything but the local server are blocked, so the check needs no network.
 //
@@ -13,7 +14,7 @@ import { createServer } from "node:http";
 import { tmpdir } from "node:os";
 import { extname, join, normalize, sep } from "node:path";
 
-const WIDTHS = [360, 390, 768];
+const WIDTHS = [360, 390, 768, 935, 1280];
 const PAGES = [
   "/",
   "/collections/",
@@ -26,6 +27,10 @@ const PAGES = [
   "/essay/thoreau-walking-1862/",
   "/about/",
   "/search/",
+  "/explore/",
+  "/explore/1840s/",
+  "/people/",
+  "/people/fyodor-dostoevsky/",
 ];
 const TYPES = { ".html": "text/html; charset=utf-8", ".css": "text/css", ".js": "text/javascript", ".svg": "image/svg+xml", ".woff2": "font/woff2" };
 
@@ -117,7 +122,7 @@ const PROBE = `(() => {
   const out = { scrollWidth: document.documentElement.scrollWidth, clientWidth: cw, wide: [], small: [], text: null };
   const visible = (el) => { const r = el.getBoundingClientRect(); return r.width > 0 && r.height > 0 && getComputedStyle(el).visibility !== "hidden"; };
   for (const el of document.querySelectorAll("body *")) {
-    if (el.closest(".chart-box, pre, .skip") || !visible(el)) continue;
+    if (el.closest(".chart-box, .tabs-track, pre, .skip") || !visible(el)) continue; // intentional sideways scrollers
     const r = el.getBoundingClientRect();
     if (r.right > cw + 1 || r.left < -1) out.wide.push(el.tagName.toLowerCase() + "." + el.className + " [" + Math.round(r.left) + "," + Math.round(r.right) + "]");
   }
@@ -128,6 +133,15 @@ const PROBE = `(() => {
     const r = el.getBoundingClientRect();
     if (r.height < 44) out.small.push(el.tagName.toLowerCase() + " '" + (el.textContent || el.getAttribute("aria-label") || "").trim().slice(0, 30) + "' " + Math.round(r.height) + "px");
   }
+  // Header words must never wrap onto a second line (logo, links), at any width.
+  out.wrapped = [...document.querySelectorAll(".site-header .logo .word, .site-nav a, .letter-bar .logo .word")]
+    .filter((el) => {
+      if (!visible(el)) return false;
+      const range = document.createRange();
+      range.selectNodeContents(el);
+      return new Set([...range.getClientRects()].map((r) => Math.round(r.top))).size > 1;
+    })
+    .map((el) => el.textContent.trim());
   const t = document.querySelector(".text");
   if (t) out.text = parseFloat(getComputedStyle(t).fontSize);
   return JSON.stringify(out);
@@ -158,6 +172,7 @@ try {
       const where = `${width}px ${page}`;
       if (r.scrollWidth > r.clientWidth) problems.push(`${where}: page scrolls sideways (${r.scrollWidth} > ${r.clientWidth}): ${r.wide.slice(0, 4).join("; ")}`);
       else if (r.wide.length) problems.push(`${where}: elements past the screen edge: ${r.wide.slice(0, 4).join("; ")}`);
+      if (r.wrapped.length) problems.push(`${where}: header text wraps onto two lines: ${r.wrapped.join(", ")}`);
       if (r.small.length) problems.push(`${where}: touch targets under 44px: ${r.small.slice(0, 6).join("; ")}`);
       if (r.text !== null && width < 768 && r.text < 18) problems.push(`${where}: letter text is ${r.text}px (minimum 18px)`);
     }
@@ -174,4 +189,4 @@ if (problems.length) {
   console.error(`check_mobile: ${problems.length} problem(s)`);
   process.exit(1);
 }
-console.log(`check_mobile: ${PAGES.length} pages at ${WIDTHS.join(", ")}px: no sideways scroll, touch targets 44px+, letter text 18px+`);
+console.log(`check_mobile: ${PAGES.length} pages at ${WIDTHS.join(", ")}px: no sideways scroll, no wrapped header, touch targets 44px+, letter text 18px+`);
