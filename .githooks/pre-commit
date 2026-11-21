@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Refuse any commit whose staged changes contain something that looks like a secret.
+# Enable once per clone:  git config core.hooksPath .githooks
+set -euo pipefail
+root="$(git rev-parse --show-toplevel)"
+want="$(cat "$root/.gitleaks-version")"
+if ! command -v gitleaks >/dev/null 2>&1; then
+  echo "pre-commit: gitleaks $want is required (see SECURITY.md); commit refused." >&2
+  exit 1
+fi
+have="$(gitleaks version | tr -d 'v')"
+if [[ "$have" != "$want" ]]; then
+  echo "pre-commit: gitleaks $have found, .gitleaks-version pins $want; commit refused." >&2
+  exit 1
+fi
+if ! gitleaks git --pre-commit --staged --redact --no-banner --exit-code 1 "$root"; then
+  echo "pre-commit: gitleaks found a possible secret in the staged changes; commit refused." >&2
+  echo "Move the value to .env (ignored) or the host's secret store, then commit again." >&2
+  exit 1
+fi

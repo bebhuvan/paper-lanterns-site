@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           persist-credentials: false
+          fetch-depth: 0 # gitleaks scans the whole history
 
       - name: Install the pinned Hugo (checksum verified)
         env:
@@ -27,6 +28,18 @@ jobs:
           echo "${HUGO_SHA256}  $RUNNER_TEMP/$f" | sha256sum -c -
           mkdir -p "$RUNNER_TEMP/hugo" && tar -xzf "$RUNNER_TEMP/$f" -C "$RUNNER_TEMP/hugo" hugo
           echo "HUGO=$RUNNER_TEMP/hugo/hugo" >> "$GITHUB_ENV"
+
+      - name: Install the pinned gitleaks (checksum verified)
+        env:
+          GITLEAKS_SHA256: 551f6fc83ea457d62a0d98237cbad105af8d557003051f41f3e7ca7b3f2470eb
+        run: |
+          set -euo pipefail
+          v="$(cat .gitleaks-version)"
+          f="gitleaks_${v}_linux_x64.tar.gz"
+          curl -fsSL -o "$RUNNER_TEMP/$f" "https://github.com/gitleaks/gitleaks/releases/download/v${v}/${f}"
+          echo "${GITLEAKS_SHA256}  $RUNNER_TEMP/$f" | sha256sum -c -
+          mkdir -p "$RUNNER_TEMP/gitleaks" && tar -xzf "$RUNNER_TEMP/$f" -C "$RUNNER_TEMP/gitleaks" gitleaks
+          echo "$RUNNER_TEMP/gitleaks" >> "$GITHUB_PATH"
 
       # Ubuntu runners ship Google Chrome for the phone-width check. The pipeline repository is not checked out here, so ./verify skips the drift check and the pipeline's tests.
       - name: Verify

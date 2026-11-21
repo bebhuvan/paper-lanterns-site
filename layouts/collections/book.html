@@ -126,7 +126,7 @@
 <div class="kick">Colophon</div>
 <h2 id="ed">About this edition</h2>
 <p>This edition reproduces <i>{{ .Title }}</i>{{ with .Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}{{ with .Params.imprint }} ({{ . }}){{ end }}. It was typed page by page from the Internet Archive scan, keeping the spelling and punctuation exactly as printed.</p>
-<p>Every printed page is included: {{ $c.letters }} letters and {{ $c.notes }} notes across {{ $c.pages }} scan leaves, with the editor’s own pages between the letters. The text is in the public domain, and this transcription is free to reuse under CC BY 4.0.</p>
+<p>Every printed page is included: {{ $c.letters }} letters and {{ $c.notes }} notes across {{ $c.pages }} scan leaves, with the editor’s own pages between the letters. The text is in the public domain, and this transcription is free to reuse under CC BY 4.0, with credit to Paper Lanterns.</p>
 <div class="stages-h">How far it has been checked</div>
 {{- $checked := in (slice "machine_checked" "community" "source_certified") .Params.provenance_tier }}
 <ol class="stages" aria-label="Checking stages">
