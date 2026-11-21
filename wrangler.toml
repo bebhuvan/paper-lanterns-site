@@ -1,0 +1,15 @@
+# The live site is a Cloudflare Worker that only serves static files (D27): no Worker code runs.
+# Build and check first, then deploy the checked folder (see README "Deploy"):
+#   ./verify && hugo --gc --minify --destination dist && pagefind --site dist && wrangler deploy
+# Custom domains (paperlanterns.ink, www.paperlanterns.ink) are attached in the Cloudflare dashboard or API.
+name = "paper-lanterns-site"
+compatibility_date = "2026-11-01"
+workers_dev = true
+preview_urls = false
+
+[assets]
+directory = "./dist"
+# Hugo writes /about/index.html; serve it at /about/ and redirect /about to it.
+html_handling = "auto-trailing-slash"
+# Unknown addresses get Hugo's 404.html with a real 404 status.
+not_found_handling = "404-page"

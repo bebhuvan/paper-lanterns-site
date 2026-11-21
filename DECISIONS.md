@@ -352,6 +352,17 @@ how the site is built; say why if you overturn one.
   token stored as a GitHub secret; worth doing later, with the owner's agreement, so deploys do not depend on one
   laptop).
 
+## D27. The site runs as a Worker serving static files, not a Pages project (2026-11-21)
+
+- **Decision:** `wrangler deploy` uploads the checked `dist/` folder to the Worker `paper-lanterns-site`, which has no
+  code of its own (`[assets]` only, `html_handling = "auto-trailing-slash"`, `not_found_handling = "404-page"`).
+  `_headers` and `_redirects` work the same way. This replaces the direct-upload Pages project in D26; the rest of
+  D26 (Cloudflare builds nothing, deploys use the pinned Pagefind) still holds.
+- **Why:** the owner's choice: Workers is where Cloudflare is putting its effort, and the old collections subdomain
+  already runs as one. Tested before launch: all pages, all 128 old addresses, headers, the 404 page and search
+  behave exactly as on Pages.
+- **Rejected:** keeping the Pages project.
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should

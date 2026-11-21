@@ -87,21 +87,23 @@ out the pipeline (CI does this, since the pipeline repository is not public).
 
 ## Deploy
 
-Cloudflare Pages project `paper-lanterns-site`, by direct upload (D26): Cloudflare does not build anything. Build and
-check locally, then upload the checked folder:
+A Cloudflare Worker named `paper-lanterns-site` that serves only static files (D27; config in `wrangler.toml`).
+Cloudflare builds nothing: build and check locally, then upload the checked folder:
 
 ```bash
 ./verify
-hugo --gc --minify --destination dist && pagefind --site dist
-wrangler pages deploy dist --project-name paper-lanterns-site --branch main
+rm -rf dist && hugo --gc --minify --destination dist && pagefind --site dist
+wrangler deploy
 ```
 
 `dist/_headers` carries the Content-Security-Policy and security headers and `dist/_redirects` the old-site
-redirects.
+redirects; Workers static assets apply both.
 
 At launch, the new site replaces the old Astro sites (D25):
 
-1. Point `paperlanterns.ink` at this Cloudflare Pages project in place of the old Astro project.
+1. Delete the two DNS records for `paperlanterns.ink` and `www` that point at the old Pages project, attach both
+   hostnames to the Worker as custom domains (Cloudflare then manages their DNS), and remove them from the old
+   `paper-lanterns` Pages project.
 2. Retire the old `collections.paperlanterns.ink` Worker (`paper-lanterns-collections`) by moving its custom
    domain to the redirect Worker in `ops/collections-redirect/`, which sends every address to
    `https://paperlanterns.ink/collections/` with a 301. No per-page redirects: its five collections are being redone
