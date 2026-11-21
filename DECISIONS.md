@@ -304,11 +304,15 @@ how the site is built; say why if you overturn one.
 - **Why:** the owner's review asked for the page to be redesigned around reading, with beauty, elegance and
   refinement as the measure.
 
+## D23. The address is paperlanterns.ink (2026-11-21)
+
+- **Decision:** `baseURL`, canonical links, the sitemap, structured data and the credit line use
+  `https://paperlanterns.ink/`, the domain the old site already lives on, so the new site replaces it in place.
+- **Rejected:** paperlanterns.inc, which was a typo and does not resolve.
+
 ## Open questions for the owner
 
-1. **Domain.** The live site is paperlanterns.ink; paperlanterns.inc does not resolve, yet this site's `baseURL`,
-   canonical links, sitemap and structured data use `.inc`. Which is right?
-2. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should
+1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should
    the ones added after that report be re-checked before launch?
-3. **People.** People pages list everyone as the books credit them. Do you want writers curated per volume
+2. **People.** People pages list everyone as the books credit them. Do you want writers curated per volume
    (for example, separating the East India Company, which received its letters, from the factors who wrote them)?

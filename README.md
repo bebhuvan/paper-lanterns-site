@@ -1,6 +1,6 @@
 # Paper Lanterns website
 
-The new site for [Paper Lanterns](https://paperlanterns.inc): whole collections of public-domain letters,
+The new site for [Paper Lanterns](https://paperlanterns.ink): whole collections of public-domain letters,
 typed exactly as printed and set beside the scanned page they came from. It is a sister project of
 [Akshara](https://akshara.ink).
 

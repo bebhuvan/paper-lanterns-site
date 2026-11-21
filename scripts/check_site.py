@@ -30,7 +30,7 @@ SITE_ROOT = Path(__file__).resolve().parents[1]
 VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "source", "track", "wbr"}
 # SVG shapes may self-close; nothing else should.
 SELF_CLOSING_OK = {"path", "circle", "rect", "line", "polyline", "polygon", "ellipse", "use", "stop"}
-ALLOWED_HOSTS = {"archive.org", "akshara.ink", "paperlanterns.inc"}
+ALLOWED_HOSTS = {"archive.org", "akshara.ink", "paperlanterns.ink"}
 URL_ATTRS = {("a", "href"), ("img", "src"), ("link", "href"), ("script", "src"), ("source", "src")}
 
 

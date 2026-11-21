@@ -1,6 +1,6 @@
 # Paper Lanterns website. Content comes from the Paper Lanterns pipeline via scripts/sync_from_pipeline.py;
 # this repository holds design only (DECISIONS.md D4).
-baseURL = "https://paperlanterns.inc/"
+baseURL = "https://paperlanterns.ink/"
 languageCode = "en"
 title = "Paper Lanterns"
 disableKinds = ["taxonomy", "term"]
