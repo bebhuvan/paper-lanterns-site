@@ -1,0 +1,9 @@
+# Hugo build output and caches (rebuilt by ./verify and by the host)
+/public/
+/resources/_gen/
+.hugo_build.lock
+# Python caches from scripts/ and tests/
+__pycache__/
+# Local secrets, never committed
+.env
+.env.*

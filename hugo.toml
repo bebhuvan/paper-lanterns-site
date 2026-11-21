@@ -1,0 +1,43 @@
+# Paper Lanterns website. Content comes from the Paper Lanterns pipeline via scripts/sync_from_pipeline.py;
+# this repository holds design only (DECISIONS.md D4).
+baseURL = "https://paperlanterns.inc/"
+languageCode = "en"
+title = "Paper Lanterns"
+disableKinds = ["taxonomy", "term", "rss"]
+enableRobotsTXT = true
+
+[module.hugoVersion]
+  min = "0.139.3"
+
+[markup.goldmark.renderer]
+  # Templates escape every run of letter text; nothing needs raw HTML (D6).
+  unsafe = false
+
+[mediaTypes."text/cfheaders"]
+  delimiter = ""
+
+[outputFormats.headers]
+  mediaType = "text/cfheaders"
+  baseName = "_headers"
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ["HTML", "headers"]
+
+[params]
+  description = "Whole collections of public-domain letters, typed exactly as printed and set beside the page they came from."
+  scanWidth = 600
+  scanWidth2x = 1200
+
+[params.security]
+  # One owner for the policy: layouts/index.headers writes it into Cloudflare's _headers file and
+  # scripts/check_site.py fails the build if the dev-server copy below drifts from it.
+  csp = "default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' https://archive.org https://*.archive.org; font-src 'self'; connect-src 'self'; manifest-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'"
+
+[[server.headers]]
+  for = "/**"
+  [server.headers.values]
+    Content-Security-Policy = "default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' https://archive.org https://*.archive.org; font-src 'self'; connect-src 'self'; manifest-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
