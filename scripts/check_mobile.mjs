@@ -22,6 +22,9 @@ const PAGES = [
   "/collections/tipu-sultan-select-letters-1811/",
   "/collections/fifty-famous-letters-1930/",
   "/collections/vivekananda-letters-1944/1/",
+  "/letter/adams-abigail-john-1776/",
+  "/essay/thoreau-walking-1862/",
+  "/about/",
 ];
 const TYPES = { ".html": "text/html; charset=utf-8", ".css": "text/css", ".js": "text/javascript", ".svg": "image/svg+xml", ".woff2": "font/woff2" };
 

@@ -173,6 +173,46 @@ how the site is built; say why if you overturn one.
 - **Why:** Every book must read well without hand-tuning; missing data must look intentional, never broken.
 - **Size:** about 47 MB of pages and 57 MB of downloads in this repository; the largest file is 2 MB.
 
+## D15. The old site's hand-curated content moves here at its own addresses (2026-11-21)
+
+- **Decision:** `scripts/import_legacy.py` copies the old Astro site's published Markdown (87 letters, 10 essays,
+  5 lectures, 2 speeches, 1 garden note, 6 curated sets) into `content/{letters,essays,lectures,speeches,garden,sets}/`
+  verbatim, so hand-written titles, sources, context and links are exactly as published. Hugo permalinks keep
+  `/letter/<file>/`, `/essay/<file>/`, `/lecture/<file>/`, `/speech/<file>/`, `/garden/<file>/` and
+  `/collection/<file>/`, with list pages at `/letters/`, `/essays/`, `/lectures/`, `/speeches/` and `/garden/`.
+  `verify` fails if the copy drifts from the old repository (when that folder is present). Deliberate exceptions:
+  - not migrated: `aristotle-alexander-335bc.md.disabled` (never published) and garden notes marked private;
+  - raw HTML poem blocks and `<h5>` headings in Thoreau's "Walking" become Markdown verse with hard line breaks
+    and a `{.poem}` class (same 12,500 words in the same order), because this site renders no raw HTML; any
+    other raw HTML stops the import;
+  - dates such as `62-01-01` (Seneca), which the old site showed as 1962, are padded to `0062-01-01` and shown
+    as "AD 62". A date on 1 January is shown as the year alone, since that is how the old site recorded a year
+    with no known day.
+  - The old themes (`src/content/themes/`) are byte-identical to the six sets and were never served (404 on the
+    live site), so they are not migrated separately.
+- Each curated page says plainly that it was chosen and transcribed from the named source and has not yet been
+  set beside a scan, unlike the collections. YouTube recordings are linked, never embedded (no third-party frames).
+- **Why:** Old links keep working and the owner's curation survives unchanged.
+- **Open:** the old site's own verification report (45 letters) predates many of the 87 now live; see open questions.
+
+## D16. Every old-site address resolves; old endpoints and the service worker are handled (2026-11-21)
+
+- **Decision:** `legacy-addresses.txt` lists the 128 addresses the old site served: the 123 in its live sitemap
+  (paperlanterns.ink, read 2026-11-21) plus `/rss.xml`, `/search-data.json`, `/api/random-content.json`,
+  `/sw.js` and `/manifest.json`. All are in the published-address ledger, and `addresses.py check` fails if
+  any leaves it. Served here: every content page, `/letters/`, `/essays/`, `/lectures/`, `/speeches/`,
+  `/garden/`, `/collections/` (which now also lists the six curated sets), `/about/` (the owner's own About text
+  kept word for word, its outdated figures replaced by live counts and a short factual section on the
+  collections), `/rss.xml` (books and curated pages), and the two JSON endpoints in their old shapes.
+  Redirected (301): `/archive/` to `/letters/`; `/admin/`, `/command/` and `/offline/` to `/`. `/sw.js` is a
+  replacement service worker that deletes the old site's caches and unregisters itself, so returning visitors
+  are not stuck on cached old pages. `check_site.py` also fails if the feed is not well-formed XML or a JSON
+  endpoint does not parse.
+- **Why:** The owner's rule: no published link may break.
+
 ## Open questions for the owner
 
-None at the moment.
+1. **Domain.** The live site is paperlanterns.ink; paperlanterns.inc does not resolve, yet this site's `baseURL`,
+   canonical links, sitemap and structured data use `.inc`. Which is right?
+2. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should
+   the ones added after that report be re-checked before launch?

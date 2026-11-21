@@ -1,0 +1,6 @@
+{{- /* Every hand-curated page, for the feed and the old JSON endpoints. */ -}}
+{{- $items := slice -}}
+{{- range slice "/letters" "/essays" "/lectures" "/speeches" "/garden" -}}
+{{- with site.GetPage . }}{{ $items = $items | append .RegularPages }}{{ end -}}
+{{- end -}}
+{{- return $items -}}

@@ -20,6 +20,9 @@ from pathlib import Path
 SITE_ROOT = Path(__file__).resolve().parents[1]
 LEDGER = SITE_ROOT / "published-addresses.txt"
 REDIRECTS = SITE_ROOT / "static" / "_redirects"
+# Every address the old Astro site served (its live sitemap on 2026-11-21 plus its feed, JSON endpoints,
+# service worker and manifest). Each must stay in the ledger forever.
+LEGACY = SITE_ROOT / "legacy-addresses.txt"
 HEADER = (
     "# Every address this site serves. Never delete a line: if a page moves, add a redirect in static/_redirects.\n"
     "# Maintained by `python3 scripts/addresses.py update <built-site-dir>`; checked by ./verify.\n"
@@ -38,6 +41,12 @@ def served_addresses(public: Path) -> set[str]:
             if f.is_file() and f.name != "index.html":
                 found.add("/" + f.relative_to(public).as_posix())
     return found
+
+
+def is_served(public: Path, address: str) -> bool:
+    """A page address (/x/) needs /x/index.html; a file address (/rss.xml) needs the file."""
+    target = public / address.lstrip("/")
+    return (target / "index.html").is_file() if address.endswith("/") else target.is_file()
 
 
 def read_ledger(path: Path) -> set[str]:
@@ -62,12 +71,15 @@ def read_redirects(path: Path) -> dict[str, str]:
     return rules
 
 
-def check(public: Path, ledger: Path = LEDGER, redirects: Path = REDIRECTS) -> list[str]:
+def check(public: Path, ledger: Path = LEDGER, redirects: Path = REDIRECTS, legacy: Path = LEGACY) -> list[str]:
     served = served_addresses(public)
     listed = read_ledger(ledger)
+    missing_legacy = sorted(read_ledger(legacy) - listed)
     rules = read_redirects(redirects)
-    problems = [f"published address no longer served and not redirected: {a}" for a in sorted(listed - served - rules.keys())]
-    problems += [f"redirect target is not served: {src} -> {dst}" for src, dst in sorted(rules.items()) if dst not in served]
+    gone = sorted(a for a in listed - rules.keys() if not is_served(public, a))
+    problems = [f"published address no longer served and not redirected: {a}" for a in gone]
+    problems += [f"redirect target is not served: {src} -> {dst}" for src, dst in sorted(rules.items()) if not is_served(public, dst)]
+    problems += [f"old-site address missing from the ledger: {a}" for a in missing_legacy]
     problems += [
         f"served but not in the ledger (run `python3 scripts/addresses.py update <dir>` and commit): {a}"
         for a in sorted(served - listed)

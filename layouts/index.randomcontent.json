@@ -1,0 +1,8 @@
+{{- /* Same shape as the old site's /api/random-content.json. */ -}}
+{{- $out := slice -}}
+{{- range partial "curated-items.html" . -}}
+{{- $type := index (dict "letters" "letter" "essays" "essay" "lectures" "lecture" "speeches" "speech" "garden" "garden") .Section -}}
+{{- $author := .Params.author -}}{{- if reflect.IsMap $author }}{{ $author = $author.name }}{{ end -}}
+{{- $out = $out | append (dict "slug" .File.ContentBaseName "collection" $type "title" .Title "author" ($author | default "") "date" (.Date.Format "2006-01-02T15:04:05.000Z") "url" .RelPermalink) -}}
+{{- end -}}
+{{- dict "content" $out | jsonify -}}

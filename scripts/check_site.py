@@ -7,7 +7,8 @@ It fails (exit 1) on:
   - inline <script>/<style>, style="" or on*="" attributes (the CSP forbids them, so they would silently break);
     the one exception is <script type="application/ld+json">, which browsers never run and which must parse as JSON;
   - internal links or #fragments that point at nothing in public/;
-  - links or images on hosts outside the allowlist, and any non-http(s) URL scheme;
+  - images, scripts or stylesheets from hosts outside the allowlist, and any non-http(s) URL scheme
+    (ordinary links may point to any http or https site);
   - a _headers CSP that differs from the dev-server CSP in hugo.toml.
 It is not a full W3C validator; it catches the mistakes this site can actually make.
 
@@ -36,7 +37,7 @@ URL_ATTRS = {("a", "href"), ("img", "src"), ("link", "href"), ("script", "src"),
 @dataclass
 class PageReport:
     ids: set[str] = field(default_factory=set)
-    links: list[str] = field(default_factory=list)
+    links: list[tuple[str, bool]] = field(default_factory=list)  # (url, True if a navigation link <a href>)
     errors: list[str] = field(default_factory=list)
     h1: int = 0
     has_lang: bool = False
@@ -63,9 +64,9 @@ class PageParser(HTMLParser):
                     self.r.errors.append(f"duplicate id {value!r}")
                 self.r.ids.add(value)
             if (tag, name) in URL_ATTRS and value:
-                self.r.links.append(value)
+                self.r.links.append((value, tag == "a"))
             if name == "srcset" and value:
-                self.r.links.extend(part.strip().split(" ")[0] for part in value.split(",") if part.strip())
+                self.r.links.extend((part.strip().split(" ")[0], False) for part in value.split(",") if part.strip())
         d = dict(attrs)
         if tag == "img" and "alt" not in d:
             self.r.errors.append(f"<img src={d.get('src')!r}> has no alt attribute")
@@ -147,7 +148,8 @@ def _target_for(public: Path, page: Path, path: str) -> Path:
     return target / "index.html" if target.is_dir() or path.endswith("/") else target
 
 
-def check_link(public: Path, page: Path, url: str, ids_by_file: dict[Path, set[str]]) -> str | None:
+def check_link(public: Path, page: Path, url: str, ids_by_file: dict[Path, set[str]], *, navigation: bool = False) -> str | None:
+    """Resources (images, scripts, stylesheets) must come from allowlisted hosts; links may go to any http(s) site."""
     parts = urlsplit(url)
     if parts.scheme in {"http", "https"}:
         host = (parts.hostname or "").lower()
@@ -155,8 +157,8 @@ def check_link(public: Path, page: Path, url: str, ids_by_file: dict[Path, set[s
             return f"Internet Archive address with an empty item id: {url}"
         if host in {"localhost", "127.0.0.1"}:
             return f"link to a local server: {url}"
-        if not any(host == h or host.endswith("." + h) for h in ALLOWED_HOSTS):
-            return f"link to a host outside the allowlist: {url}"
+        if not navigation and not any(host == h or host.endswith("." + h) for h in ALLOWED_HOSTS):
+            return f"resource from a host outside the allowlist: {url}"
         return None
     if parts.scheme or url.startswith("//"):
         return f"non-http(s) URL: {url}"
@@ -200,12 +202,31 @@ def check_site(public: Path, hugo_toml: Path) -> list[str]:
         ids_by_file[page.resolve()] = report.ids
         rel = page.relative_to(public)
         problems.extend(f"{rel}: {e}" for e in report.errors)
-        for url in report.links:
-            err = check_link(public, page.resolve(), url, ids_by_file)
+        for url, navigation in report.links:
+            err = check_link(public, page.resolve(), url, ids_by_file, navigation=navigation)
             if err:
                 problems.append(f"{rel}: {err}")
     problems.extend(check_headers(public, hugo_toml))
+    problems.extend(check_feeds(public))
     return problems
+
+
+def check_feeds(public: Path) -> list[str]:
+    """The feed must be well-formed XML and every .json file must parse."""
+    import xml.etree.ElementTree as ET  # our own build output, not untrusted input
+
+    errors = []
+    for feed in public.glob("*.xml"):
+        try:
+            ET.parse(feed)
+        except ET.ParseError as exc:
+            errors.append(f"{feed.name}: not well-formed XML: {exc}")
+    for data in list(public.glob("*.json")) + list((public / "api").glob("*.json")):
+        try:
+            json.loads(data.read_text(encoding="utf-8"))
+        except ValueError as exc:
+            errors.append(f"{data.relative_to(public)}: does not parse as JSON: {exc}")
+    return errors
 
 
 def main(argv: Iterable[str] | None = None) -> int:

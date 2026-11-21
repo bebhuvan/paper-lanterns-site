@@ -1,2 +1,7 @@
 # Cloudflare Pages redirects: `from to 301`, one per line. Every address that leaves published-addresses.txt
-# must be redirected here (checked by scripts/addresses.py). None yet.
+# must be redirected here (checked by scripts/addresses.py).
+# Old site pages with no counterpart here (DECISIONS.md D16):
+/archive/ /letters/ 301
+/admin/ / 301
+/command/ / 301
+/offline/ / 301

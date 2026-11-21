@@ -12,6 +12,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
 import addresses  # noqa: E402
+import import_legacy  # noqa: E402
 import check_site  # noqa: E402
 import sync_from_pipeline as sync  # noqa: E402
 
@@ -55,7 +56,7 @@ class CheckSiteTests(unittest.TestCase):
 
     def test_catches_csp_hazards_and_foreign_hosts(self) -> None:
         bad = GOOD.replace("<p>", '<p style="color:red" onclick="x()">').replace(
-            "</body>", '<script>alert(1)</script><a href="https://evil.example/">e</a><a href="javascript:x">j</a></body>'
+            "</body>", '<script>alert(1)</script><img src="https://evil.example/x.png" alt=""><a href="javascript:x">j</a></body>'
         )
         found = "\n".join(self.problems(bad))
         for needle in ("style= attribute", "inline event handler onclick", "inline <script>", "outside the allowlist", "non-http(s) URL"):
@@ -64,6 +65,10 @@ class CheckSiteTests(unittest.TestCase):
     def test_catches_scan_address_with_empty_item_id(self) -> None:
         bad = GOOD.replace('src="https://archive.org/x.jpg"', 'src="https://archive.org/download//page/n3_w600.jpg"')
         self.assertTrue(any("empty item id" in p for p in self.problems(bad)))
+
+    def test_external_links_are_fine_but_not_external_resources(self) -> None:
+        ok = GOOD.replace("</body>", '<a href="https://founders.archives.gov/x">source</a></body>')
+        self.assertEqual(self.problems(ok), [])
 
     def test_catches_structure_errors(self) -> None:
         bad = GOOD.replace("<h1 id=\"top\">Hi</h1>", '<h1 id="top">Hi</h1><h1 id="top">Again</h1><div><span></div>').replace(' alt=""', "")
@@ -163,7 +168,7 @@ class AddressLedgerTests(unittest.TestCase):
             ledger, redirects = root / "ledger.txt", root / "_redirects"
             addresses.update(public, ledger)
             self.assertIn("/collections/book/book.epub", addresses.read_ledger(ledger))
-            self.assertEqual(addresses.check(public, ledger, redirects), [])
+            self.assertEqual(addresses.check(public, ledger, redirects, root / "none.txt"), [])
             smaller = self.make(root / "b", ["/"])
             addresses.update(smaller, ledger)
             self.assertIn("/collections/book/20/", addresses.read_ledger(ledger))
@@ -175,20 +180,66 @@ class AddressLedgerTests(unittest.TestCase):
             addresses.update(self.make(root / "old", ["/", "/collections/book/20/"]), ledger)
             moved = self.make(root / "new", ["/", "/collections/book/21/"])
             addresses.update(moved, ledger)
-            found = addresses.check(moved, ledger, redirects)
+            found = addresses.check(moved, ledger, redirects, root / "none.txt")
             self.assertTrue(any("no longer served" in p and "/collections/book/20/" in p for p in found), found)
             redirects.write_text("# moved after a re-split\n/collections/book/20/ /collections/book/21/ 301\n", encoding="utf-8")
-            self.assertEqual(addresses.check(moved, ledger, redirects), [])
+            self.assertEqual(addresses.check(moved, ledger, redirects, root / "none.txt"), [])
             redirects.write_text("/collections/book/20/ /collections/book/99/ 301\n", encoding="utf-8")
-            self.assertTrue(any("redirect target is not served" in p for p in addresses.check(moved, ledger, redirects)))
+            self.assertTrue(any("redirect target is not served" in p for p in addresses.check(moved, ledger, redirects, root / "none.txt")))
 
     def test_unlisted_address_fails(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             ledger = root / "ledger.txt"
             addresses.update(self.make(root / "a", ["/"]), ledger)
-            found = addresses.check(self.make(root / "b", ["/", "/new/"]), ledger, root / "_redirects")
+            found = addresses.check(self.make(root / "b", ["/", "/new/"]), ledger, root / "_redirects", root / "none.txt")
             self.assertTrue(any("not in the ledger" in p for p in found), found)
+
+
+class LedgerFilesAndLegacyTests(unittest.TestCase):
+    def test_file_addresses_and_legacy_list(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            public = root / "public"
+            (public / "api").mkdir(parents=True)
+            (public / "index.html").write_text("x", encoding="utf-8")
+            (public / "rss.xml").write_text("x", encoding="utf-8")
+            ledger, legacy = root / "ledger.txt", root / "legacy.txt"
+            ledger.write_text("/\n/rss.xml\n", encoding="utf-8")
+            legacy.write_text("/rss.xml\n/api/random-content.json\n", encoding="utf-8")
+            found = addresses.check(public, ledger, root / "_redirects", legacy)
+            self.assertTrue(any("old-site address missing from the ledger: /api/random-content.json" in p for p in found), found)
+            (public / "rss.xml").unlink()
+            ledger.write_text("/\n/rss.xml\n/api/random-content.json\n", encoding="utf-8")
+            found = addresses.check(public, ledger, root / "_redirects", legacy)
+            self.assertTrue(any("no longer served" in p and "/rss.xml" in p for p in found), found)
+
+
+class ImportLegacyTests(unittest.TestCase):
+    def test_poems_headings_and_short_years_convert_without_losing_words(self) -> None:
+        src = (
+            '---\ntitle: "T"\ndate: 62-01-01\n---\n\nPlain text.\n\n'
+            '<div class="poem-container" style="x">\n<h5>THE ROAD</h5>\n    First line,<br/>\n    second line.\n</div>\n'
+        )
+        out = import_legacy.convert(src, "t.md")
+        self.assertIn("date: 0062-01-01", out)
+        self.assertIn("##### THE ROAD\n\nFirst line,\\\nsecond line.\n{.poem}", out)
+        self.assertNotIn("<", out.split("---", 2)[2])
+
+    def test_unknown_raw_html_stops_the_import(self) -> None:
+        with self.assertRaises(import_legacy.ImportError_):
+            import_legacy.convert('---\ntitle: "T"\n---\n\n<table><tr><td>x</td></tr></table>\n', "t.md")
+
+    def test_private_garden_notes_and_disabled_files_are_skipped(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            old = Path(tmp)
+            for d in import_legacy.SECTIONS:
+                (old / "src" / "content" / d).mkdir(parents=True)
+            (old / "src" / "content" / "letters" / "a.md").write_text('---\ntitle: "A"\n---\nx\n', encoding="utf-8")
+            (old / "src" / "content" / "letters" / "b.md.disabled").write_text('---\ntitle: "B"\n---\nx\n', encoding="utf-8")
+            (old / "src" / "content" / "garden" / "p.md").write_text('---\ntitle: "P"\nprivate: true\n---\nx\n', encoding="utf-8")
+            names = sorted(p.name for p in import_legacy.plan(old))
+            self.assertEqual(names, ["a.md"])
 
 
 if __name__ == "__main__":

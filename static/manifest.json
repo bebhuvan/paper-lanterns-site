@@ -1,0 +1,10 @@
+{
+  "name": "Paper Lanterns",
+  "short_name": "Paper Lanterns",
+  "description": "Whole collections of public-domain letters, typed exactly as printed and set beside the page they came from.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

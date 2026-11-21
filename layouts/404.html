@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+<main id="main" class="wrap curated">
+<article class="letter curated-text">
+<p class="kicker-heading">Not found</p>
+<h1>This page has gone missing.</h1>
+<div class="text prose"><p>Every address Paper Lanterns has published still works, so this one was never here or was mistyped.</p>
+<p><a href="{{ "/collections/" | relURL }}">Browse the collections</a>, <a href="{{ "/letters/" | relURL }}">read a single letter</a>{{ if site.GetPage "/search" }} or <a href="{{ "/search/" | relURL }}">search</a>{{ end }}.</p></div>
+</article>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

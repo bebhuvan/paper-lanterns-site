@@ -1,0 +1,17 @@
+{{- /* /rss.xml: the collections and the hand-curated pages. */ -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>{{ site.Title | transform.XMLEscape }}</title>
+<link>{{ .Permalink }}</link>
+<description>{{ site.Params.description | transform.XMLEscape }}</description>
+<language>en</language>
+<atom:link href="{{ .Permalink }}rss.xml" rel="self" type="application/rss+xml"/>
+{{- range partial "books.html" . }}
+<item><title>{{ .Title | transform.XMLEscape }}</title><link>{{ .Permalink }}</link><guid isPermaLink="true">{{ .Permalink }}</guid><description>{{ printf "%s %d letters." .Params.subtitle (int .Params.counts.letters) | transform.XMLEscape }}</description></item>
+{{- end }}
+{{- range partial "curated-items.html" . }}
+<item><title>{{ .Title | transform.XMLEscape }}</title><link>{{ .Permalink }}</link><guid isPermaLink="true">{{ .Permalink }}</guid>{{ with .Params.excerpt }}<description>{{ . | plainify | transform.XMLEscape }}</description>{{ end }}</item>
+{{- end }}
+</channel>
+</rss>

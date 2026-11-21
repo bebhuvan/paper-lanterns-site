@@ -1,0 +1,8 @@
+{{- /* Same shape as the old site's /search-data.json: one object per hand-curated page. */ -}}
+{{- $out := slice -}}
+{{- range partial "curated-items.html" . -}}
+{{- $type := index (dict "letters" "letter" "essays" "essay" "lectures" "lecture" "speeches" "speech" "garden" "garden") .Section -}}
+{{- $author := .Params.author -}}{{- if reflect.IsMap $author }}{{ $author = $author.name }}{{ end -}}
+{{- $out = $out | append (dict "slug" .File.ContentBaseName "contentType" $type "title" .Title "author" ($author | default "") "recipient" (.Params.recipient | default "") "context" (.Params.context | default "") "excerpt" (.Params.excerpt | default "") "url" .Permalink "date" (.Date.Format "2006-01-02")) -}}
+{{- end -}}
+{{- $out | jsonify -}}

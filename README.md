@@ -9,8 +9,8 @@ word and number about a book comes from the Paper Lanterns pipeline (`../Paper L
 writes Hugo content; a thin script copies it here. Scans are not stored here: pages load them from the
 Internet Archive.
 
-Status: all 39 compiled editions are in (5,017 letters, about 5,060 pages). Nothing is deployed yet; search,
-the curated letters and the old site's essays are still to come.
+Status: all 39 compiled editions are in (5,017 letters), plus the old site's 105 hand-curated letters, essays,
+lectures, speeches and notes at their old addresses. Nothing is deployed yet.
 
 ## What is where
 
@@ -19,6 +19,8 @@ the curated letters and the old site's essays are still to come.
 | `content/_index.md`, `content/collections/_index.md` | Site copy for the home and collections pages |
 | `content/collections/<book_id>/` | Synced from the pipeline. Do not edit by hand. |
 | `static/collections/<book_id>/` | The book's EPUB, Markdown and TEI downloads, synced from the pipeline |
+| `content/{letters,essays,lectures,speeches,garden,sets}/` | Hand-curated pages from the old site, copied verbatim by `scripts/import_legacy.py` (do not edit by hand; edit at the source and re-import) |
+| `legacy-addresses.txt` | The 128 addresses the old site served; each stays in `published-addresses.txt` for good |
 | `layouts/` | Templates: `index.html` (home), `collections/list.html`, `collections/book.html`, `collections/letter.html` |
 | `assets/css/site.css`, `assets/js/site.js` | All styling and all interactivity (the pages read fully without the script) |
 | `static/fonts/` | Self-hosted Newsreader and IBM Plex Mono (SIL Open Font Licence, files included) |

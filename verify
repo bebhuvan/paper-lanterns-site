@@ -38,13 +38,19 @@ echo "assets/js/site.js OK"
 step "[4/9] Script tests (sync and site checker)"
 python3 -I -m unittest discover -s tests
 
-step "[5/9] Synced content matches the pipeline output"
+step "[5/9] Synced content matches the pipeline output and the old site's files"
 if [[ -d "$PIPELINE/library" ]]; then
   for book in content/collections/*/; do
     python3 -I scripts/sync_from_pipeline.py --check --pipeline "$PIPELINE" "$(basename "$book")"
   done
 else
   echo "skipped: pipeline repository not found at $PIPELINE (expected in CI)"
+fi
+LEGACY_SITE="${PL_LEGACY_SITE:-$HOME/Documents/Bhuvan/A main projects/Paper-lanterns}"
+if [[ -d "$LEGACY_SITE/src/content" ]]; then
+  python3 -I scripts/import_legacy.py --check "$LEGACY_SITE"
+else
+  echo "skipped: old Astro site not found at $LEGACY_SITE (expected in CI)"
 fi
 
 step "[6/9] Hugo build, warnings are errors"

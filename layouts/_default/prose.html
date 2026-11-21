@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+{{- $books := partial "books.html" . -}}
+{{- $letters := len (partial "letters.html" .) -}}
+<main id="main" class="wrap curated">
+<article class="letter curated-text">
+<h1>{{ .Title }}</h1>
+{{ with .Params.kicker }}<p class="lede">{{ . }}</p>{{ end }}
+<dl class="figures about-figures">
+<div><dt>Volumes</dt><dd>{{ len $books }}</dd></div>
+<div><dt>Letters in them</dt><dd>{{ $letters }}</dd></div>
+<div><dt>Chosen by hand</dt><dd>{{ add (len (site.GetPage "/letters").RegularPages) (len (site.GetPage "/essays").RegularPages) (len (site.GetPage "/lectures").RegularPages) (len (site.GetPage "/speeches").RegularPages) }}</dd></div>
+</dl>
+<div class="text prose">{{ .Content }}</div>
+</article>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}
