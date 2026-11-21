@@ -5297,6 +5297,7 @@
 /offline/
 /rss.xml
 /search-data.json
+/search/
 /speech/lincoln-gettysburg-1863/
 /speech/nehru-tryst-destiny-1947/
 /speeches/

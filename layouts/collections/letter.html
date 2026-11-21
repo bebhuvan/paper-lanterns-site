@@ -66,11 +66,14 @@
 
 <main id="main" class="reading" data-view="both" data-reading>
 <div class="leaf-pair">
-<article class="letter" lang="{{ $book.Params.language | default "en" }}">
+<article class="letter" lang="{{ $book.Params.language | default "en" }}" data-pagefind-body>
+<span hidden data-pagefind-meta="title">{{ .Params.page_title }}</span>
+<span hidden data-pagefind-meta="where">{{ $book.Title }}</span>
+<span hidden data-pagefind-filter="kind">Letters in the collections</span>
 <p class="kicker-heading">{{ .Params.heading }}</p>
-<div class="pair"><span>{{ .Params.sender }}</span><span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ .Params.recipient }}</span></div>
+<div class="pair" data-pagefind-ignore><span>{{ .Params.sender }}</span><span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ .Params.recipient }}</span></div>
 <h1>{{ .Title }}</h1>
-<div class="meta">{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.place }}<span>{{ . }}</span>{{ end }}<span>Printed {{ $folios }}</span></div>
+<div class="meta" data-pagefind-ignore>{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.place }}<span>{{ . }}</span>{{ end }}<span>Printed {{ $folios }}</span></div>
 <div class="text" data-letter-text>
 {{- $last := int .Params.start_page -}}
 {{- range .Params.blocks -}}
@@ -90,9 +93,9 @@
 </section>
 {{- end }}
 {{- if $id }}
-<p class="hint js-only">Choose any passage to light it on the printed page.</p>
+<p class="hint js-only" data-pagefind-ignore>Choose any passage to light it on the printed page.</p>
 {{- else }}
-<p class="hint">No public scan of this edition is linked yet, so the printed page cannot be shown beside the text.</p>
+<p class="hint" data-pagefind-ignore>No public scan of this edition is linked yet, so the printed page cannot be shown beside the text.</p>
 {{- end }}
 </article>
 {{- if $id }}

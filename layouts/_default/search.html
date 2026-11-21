@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+<main id="main" class="wrap search-page">
+<h1>Search</h1>
+<p class="lede">Every letter in the collections, typed as printed, and every page chosen by hand.</p>
+<form class="search-form js-only flexy" role="search" data-search-form>
+<label for="q" class="visually-hidden">Search the letters</label>
+<input id="q" type="search" name="q" autocomplete="off" spellcheck="false" placeholder="A word, a name, a place" data-search-input>
+<button type="submit" class="btn solid">Search</button>
+</form>
+<p class="search-status" aria-live="polite" data-search-status></p>
+<ol class="results" data-search-results></ol>
+<noscript><p class="hint">Search runs in your browser and needs JavaScript. Without it, browse the <a href="{{ "/collections/" | relURL }}">collections</a> or the <a href="{{ "/letters/" | relURL }}">letters chosen by hand</a>.</p></noscript>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

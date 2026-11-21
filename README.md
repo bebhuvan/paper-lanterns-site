@@ -32,7 +32,7 @@ lectures, speeches and notes at their old addresses. Nothing is deployed yet.
 
 ## Run it
 
-You need gitleaks 8.30.1 (`.gitleaks-version`), Hugo **0.139.3 extended** (pinned in `.hugo-version`), Python 3.12+, Node 22+ and Chromium or Chrome
+You need gitleaks 8.30.1 (`.gitleaks-version`), Pagefind 1.6.0 (`.pagefind-version`), Hugo **0.139.3 extended** (pinned in `.hugo-version`), Python 3.12+, Node 22+ and Chromium or Chrome
 (for the phone-width check; set `CHROME=/path/to/browser` if it is not in a standard place).
 
 ```bash
@@ -81,8 +81,12 @@ out the pipeline (CI does this, since the pipeline repository is not public).
 
 ## Deploy
 
-Not set up yet. The plan (DECISIONS.md D2) is Cloudflare Pages building `hugo --gc --minify` from this
-repository; `public/_headers` carries the Content-Security-Policy and security headers.
+Not set up yet. The plan (DECISIONS.md D2) is Cloudflare Pages building from this repository with
+`hugo --gc --minify && pagefind --site public` (search index, D17); `public/_headers` carries the
+Content-Security-Policy and security headers and `public/_redirects` the old-site redirects.
+
+Search does not work under `hugo server` (the index is built after Hugo). To try it locally, build with the
+command above and serve `public/` with any static server.
 
 ## Licence
 

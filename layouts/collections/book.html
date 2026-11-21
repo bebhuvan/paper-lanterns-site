@@ -16,7 +16,9 @@
 <figcaption><span class="cap">{{ .caption }}</span><br><span class="muted">The book’s frontispiece, scan leaf {{ .page }}</span></figcaption>
 </figure>
 {{- end }}
-<div class="info">
+<div class="info" data-pagefind-body>
+<span hidden data-pagefind-meta="where">A whole collection, {{ .Params.counts.letters }} letters</span>
+<span hidden data-pagefind-filter="kind">Collections</span>
 <h1 id="title">{{ .Title }}</h1>
 <p class="credit">{{ .Params.subtitle }}{{ with .Params.imprint }} <span class="sep" aria-hidden="true">·</span> {{ . }}{{ end }}</p>
 <dl class="figures">

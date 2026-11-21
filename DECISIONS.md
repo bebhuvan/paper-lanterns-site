@@ -210,6 +210,22 @@ how the site is built; say why if you overturn one.
   endpoint does not parse.
 - **Why:** The owner's rule: no published link may break.
 
+## D17. Search with Pagefind: a static index built at deploy, one CSP allowance (2026-11-21)
+
+- **Decision:** Pagefind 1.6.0 (CloudCannon; a single Rust binary, the standard search tool for static sites,
+  MIT licence, released 2026-11-01) indexes the built site after Hugo runs. Version pinned in `.pagefind-version`;
+  CI downloads the official release and checks its SHA-256. Only reading text is indexed: collection letters
+  (with their printed headings), the hand-curated pages and each book's introduction (`data-pagefind-body`),
+  with page furniture marked `data-pagefind-ignore`. `/search/` uses Pagefind's JavaScript API with our own
+  results list built from text nodes (excerpt highlights copied as `<mark>` elements, nothing inserted as HTML),
+  loaded only on that page. The CSP gains exactly one allowance, `'wasm-unsafe-eval'`, which Pagefind's
+  WebAssembly needs; scripts, data and styles still come only from this site.
+- **Why the platform is not enough:** a static site has no server to search on, and a hand-rolled JSON index
+  of 5,000 letters would be several megabytes per visit; Pagefind fetches only the few small chunks a query needs.
+- **Size:** about 33 MB of index chunks; about 10,700 files in the whole built site (Cloudflare Pages allows
+  20,000; `verify` fails above 19,000). The search page works only with JavaScript and says so.
+- **Rejected:** Pagefind's own UI (writes HTML strings and styles); a hosted search service (third party, cost).
+
 ## Open questions for the owner
 
 1. **Domain.** The live site is paperlanterns.ink; paperlanterns.inc does not resolve, yet this site's `baseURL`,

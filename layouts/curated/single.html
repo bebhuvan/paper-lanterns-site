@@ -9,17 +9,19 @@
 {{- $next := false -}}{{- if lt $idx (sub (len $siblings) 1) }}{{ $next = index $siblings (add $idx 1) }}{{ end -}}
 {{- $about := .Params.about | default dict -}}
 <main id="main" class="wrap curated">
-<article class="letter curated-text" lang="en">
-<p class="kicker-heading"><a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a>{{ with $date.display }} · {{ . }}{{ end }}</p>
-<div class="pair"><span>{{ .Params.author.name }}</span>{{ with .Params.recipient }}<span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ . }}</span>{{ end }}</div>
+<article class="letter curated-text" lang="en" data-pagefind-body>
+<span hidden data-pagefind-meta="where">{{ .Params.author.name }}{{ with (partial "curated-date.html" .).year }}, {{ . }}{{ end }}</span>
+<span hidden data-pagefind-filter="kind">{{ .CurrentSection.Title }} chosen by hand</span>
+<p class="kicker-heading" data-pagefind-ignore><a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a>{{ with $date.display }} · {{ . }}{{ end }}</p>
+<div class="pair" data-pagefind-ignore><span>{{ .Params.author.name }}</span>{{ with .Params.recipient }}<span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ . }}</span>{{ end }}</div>
 <h1>{{ .Title }}</h1>
-<div class="meta">{{ with $date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.location }}<span>{{ . }}</span>{{ end }}{{ with .Params.occasion }}<span>{{ . }}</span>{{ end }}{{ with .Params.institution }}<span>{{ . }}</span>{{ end }}</div>
+<div class="meta" data-pagefind-ignore>{{ with $date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.location }}<span>{{ . }}</span>{{ end }}{{ with .Params.occasion }}<span>{{ . }}</span>{{ end }}{{ with .Params.institution }}<span>{{ . }}</span>{{ end }}</div>
 <div class="text prose">
 {{ .Content }}
 {{- with .Params.signature }}<p class="t-signature a-right">{{ . }}</p>{{ end }}
 </div>
 {{- with .Params.video }}
-<p class="hint">A recording is on YouTube: <a class="u" href="https://www.youtube.com/watch?v={{ .youtube_id }}">{{ .title }}</a>.</p>
+<p class="hint" data-pagefind-ignore>A recording is on YouTube: <a class="u" href="https://www.youtube.com/watch?v={{ .youtube_id }}">{{ .title }}</a>.</p>
 {{- end }}
 </article>
 

@@ -3,3 +3,4 @@
 <a href="{{ "/collections/" | relURL }}"{{ if or (eq $here.Section "collections") (eq $here.Section "sets") }} aria-current="page"{{ end }}>Collections</a>
 <a href="{{ "/letters/" | relURL }}"{{ if eq $here.Section "letters" }} aria-current="page"{{ end }}>Letters</a>
 <a href="{{ "/essays/" | relURL }}"{{ if in (slice "essays" "lectures" "speeches") $here.Section }} aria-current="page"{{ end }}>Essays &amp; speeches</a>
+<a href="{{ "/search/" | relURL }}"{{ if eq $here.RelPermalink "/search/" }} aria-current="page"{{ end }}>Search</a>

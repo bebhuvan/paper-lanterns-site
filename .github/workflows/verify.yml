@@ -41,6 +41,18 @@ jobs:
           mkdir -p "$RUNNER_TEMP/gitleaks" && tar -xzf "$RUNNER_TEMP/$f" -C "$RUNNER_TEMP/gitleaks" gitleaks
           echo "$RUNNER_TEMP/gitleaks" >> "$GITHUB_PATH"
 
+      - name: Install the pinned Pagefind (checksum verified)
+        env:
+          PAGEFIND_SHA256: 004d40c9a644c995dadc42b8031196c6f17e7a6dacf9a6c15c63286dd6ead5f2
+        run: |
+          set -euo pipefail
+          v="$(cat .pagefind-version)"
+          f="pagefind-v${v}-x86_64-unknown-linux-musl.tar.gz"
+          curl -fsSL -o "$RUNNER_TEMP/$f" "https://github.com/CloudCannon/pagefind/releases/download/v${v}/${f}"
+          echo "${PAGEFIND_SHA256}  $RUNNER_TEMP/$f" | sha256sum -c -
+          mkdir -p "$RUNNER_TEMP/pagefind" && tar -xzf "$RUNNER_TEMP/$f" -C "$RUNNER_TEMP/pagefind" pagefind
+          echo "$RUNNER_TEMP/pagefind" >> "$GITHUB_PATH"
+
       # Ubuntu runners ship Google Chrome for the phone-width check. The pipeline repository is not checked out here, so ./verify skips the drift check and the pipeline's tests.
       - name: Verify
         env:

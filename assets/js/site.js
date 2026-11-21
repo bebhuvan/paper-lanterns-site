@@ -269,6 +269,74 @@
     }
   }
 
-  function start() { initHome(); initBook(); initLetter(); }
+  // Search: Pagefind's static index, loaded only on /search/. Results are built from text nodes; the excerpt's
+  // <mark> highlights are copied as elements, everything else in it as plain text (no HTML is inserted).
+  function initSearch() {
+    var form = document.querySelector("[data-search-form]");
+    if (!form) { return; }
+    var input = form.querySelector("[data-search-input]");
+    var status = document.querySelector("[data-search-status]");
+    var list = document.querySelector("[data-search-results]");
+    var pagefind = null;
+    var current = [];
+    var shown = 0;
+    var excerptNodes = function (html) {
+      var doc = new DOMParser().parseFromString("<p>" + html + "</p>", "text/html");
+      var out = [];
+      doc.body.firstChild.childNodes.forEach(function (n) {
+        if (n.nodeName === "MARK") { out.push(el("mark", "", n.textContent)); } else { out.push(document.createTextNode(n.textContent)); }
+      });
+      return out;
+    };
+    var renderMore = function () {
+      var batch = current.slice(shown, shown + 10);
+      shown += batch.length;
+      var old = list.querySelector(".more");
+      if (old) { old.remove(); }
+      return Promise.all(batch.map(function (r) { return r.data(); })).then(function (items) {
+        items.forEach(function (d) {
+          var li = el("li");
+          var a = el("a");
+          a.href = d.url;
+          a.append(el("span", "rt", (d.meta && d.meta.title) || d.url));
+          if (d.meta && d.meta.where) { a.append(el("span", "rw", d.meta.where)); }
+          var x = el("span", "rx");
+          x.append.apply(x, excerptNodes(d.excerpt || ""));
+          a.append(x);
+          li.append(a);
+          list.append(li);
+        });
+        if (shown < current.length) {
+          var li = el("li", "more");
+          var b = el("button", "btn", "Show more");
+          b.type = "button";
+          b.addEventListener("click", function () { renderMore(); });
+          li.append(b);
+          list.append(li);
+        }
+      });
+    };
+    var run = function (q) {
+      q = q.trim();
+      try { history.replaceState(null, "", q ? "?q=" + encodeURIComponent(q) : location.pathname); } catch (err) { /* history unavailable: the search still runs */ }
+      if (!q) { list.replaceChildren(); status.textContent = ""; return; }
+      status.textContent = "Searching…";
+      var load = pagefind ? Promise.resolve(pagefind) : import("/pagefind/pagefind.js").then(function (m) { pagefind = m; return m; });
+      load.then(function (pf) { return pf.debouncedSearch(q); }).then(function (search) {
+        if (!search) { return; }
+        current = search.results;
+        shown = 0;
+        list.replaceChildren();
+        status.textContent = current.length ? current.length + (current.length === 1 ? " result" : " results") : "Nothing found. Try another word or a different spelling.";
+        return renderMore();
+      }).catch(function () { status.textContent = "Search could not load. Please reload the page."; });
+    };
+    form.addEventListener("submit", function (e) { e.preventDefault(); run(input.value); });
+    input.addEventListener("input", function () { run(input.value); });
+    var initial = new URLSearchParams(location.search).get("q");
+    if (initial) { input.value = initial; run(initial); }
+  }
+
+  function start() { initHome(); initBook(); initLetter(); initSearch(); }
   if (document.readyState === "loading") { document.addEventListener("DOMContentLoaded", start); } else { start(); }
 })();

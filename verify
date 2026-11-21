@@ -53,11 +53,24 @@ else
   echo "skipped: old Astro site not found at $LEGACY_SITE (expected in CI)"
 fi
 
-step "[6/9] Hugo build, warnings are errors"
+step "[6/9] Hugo build (warnings are errors) and the Pagefind search index"
 OUT="$(mktemp -d)"
 trap 'rm -rf "$OUT"' EXIT
 "$HUGO" --gc --minify --panicOnWarning --printPathWarnings --quiet --destination "$OUT"
 echo "built $(find "$OUT" -name '*.html' | wc -l) pages"
+pf_want="$(cat .pagefind-version)"
+pf_have="$(pagefind --version | awk '{print $2}')"
+if [[ "$pf_have" != "$pf_want" ]]; then
+  echo "pagefind $pf_have found, but .pagefind-version pins $pf_want" >&2
+  exit 1
+fi
+pagefind --site "$OUT" --quiet
+files=$(find "$OUT" -type f | wc -l)
+echo "search index built; $files files in all (Cloudflare Pages allows 20000)"
+if (( files > 19000 )); then
+  echo "Too close to Cloudflare Pages' 20000-file limit" >&2
+  exit 1
+fi
 
 step "[7/9] Built pages: structure, links, CSP rules, published addresses, JavaScript budget"
 python3 -I scripts/check_site.py "$OUT"
