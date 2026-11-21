@@ -1,5 +1,5 @@
-{{- /* Args: id, leaf, alt, lazy (bool). */ -}}
+{{- /* Args: id, leaf, alt, lazy (bool), sizes (optional). The Archive serves 642px for w600 and 1283px for w1200 (DECISIONS D2). */ -}}
 {{- $one := partial "scan-url.html" (dict "id" .id "leaf" .leaf "w" site.Params.scanWidth) -}}
 {{- $two := partial "scan-url.html" (dict "id" .id "leaf" .leaf "w" site.Params.scanWidth2x) -}}
-<img src="{{ $one }}" srcset="{{ $one }} 1x, {{ $two }} 2x" alt="{{ .alt }}"{{ if .lazy }} loading="lazy"{{ end }} decoding="async">
+<img src="{{ $one }}" srcset="{{ $one }} 642w, {{ $two }} 1283w" sizes="{{ .sizes | default "(min-width: 901px) 440px, 100vw" }}" alt="{{ .alt }}"{{ if .lazy }} loading="lazy"{{ end }} decoding="async">
 {{- /**/ -}}

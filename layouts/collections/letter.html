@@ -47,7 +47,7 @@
 <div class="lbl">Text size</div>
 <div class="grid g4">{{ range $i, $l := slice "Small text" "Standard text" "Large text" "Largest text" }}<button type="button" class="aa{{ $i }}" aria-label="{{ $l }}" aria-pressed="{{ cond (eq $i 1) "true" "false" }}" data-pref="size" data-value="{{ $i }}">Aa</button>{{ end }}</div>
 </div>
-<div role="group" aria-label="Line width">
+<div role="group" aria-label="Line width" class="width-group">
 <div class="lbl">Line width</div>
 <div class="grid g3">{{ range $i, $l := slice "Narrow lines" "Standard lines" "Wide lines" }}<button type="button" aria-label="{{ $l }}" aria-pressed="{{ cond (eq $i 1) "true" "false" }}" data-pref="width" data-value="{{ $i }}"><span class="lines w{{ $i }}" aria-hidden="true"><span></span><span></span><span></span></span></button>{{ end }}</div>
 </div>
@@ -90,6 +90,7 @@
 </article>
 
 <div class="scan" data-scan>
+<button type="button" class="btn back js-only flexy" data-back-to-text>← Back to the text</button>
 {{- range $i, $pg := .Params.pages }}
 <figure id="scan-p{{ int .page }}" data-page="{{ int .page }}"{{ if eq $i 0 }} class="current"{{ end }}>
 <div class="frame">
@@ -172,7 +173,7 @@
 </div>
 <nav class="mobile-bar" aria-label="Reading controls">
 <button type="button" data-panel-toggle aria-controls="panel" aria-expanded="false">Contents</button>
-<button type="button" data-view-toggle aria-pressed="false">Page</button>
+<button type="button" data-view-toggle aria-pressed="false"><span data-view-toggle-label>Page</span></button>
 <button type="button" data-prefs-open aria-controls="panel">Aa</button>
 {{ with $next }}<a href="{{ .RelPermalink }}">Next →</a>{{ else }}<a href="{{ $book.RelPermalink }}#contents">All letters</a>{{ end }}
 </nav>

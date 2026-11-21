@@ -10,7 +10,7 @@
 <a class="cover-card" href="{{ $p.RelPermalink }}">
 <span class="cover tint-{{ $p.Params.collection }}" role="img" aria-label="Cover: {{ $p.Title }}, {{ $writer }}">
 <span class="top">{{ partial "logo.html" (dict "w" 24 "sw" 1.6) }}<span class="series">{{ humanize $p.Params.collection }}</span></span>
-<span class="plate">{{ with $p.Params.frontispiece }}{{ partial "scan-img.html" (dict "id" $p.Params.archive_id "leaf" .leaf "alt" "" "lazy" true) }}{{ end }}</span>
+<span class="plate">{{ with $p.Params.frontispiece }}{{ partial "scan-img.html" (dict "id" $p.Params.archive_id "leaf" .leaf "alt" "" "lazy" true "sizes" "(min-width: 1100px) 300px, (min-width: 761px) 30vw, 45vw") }}{{ end }}</span>
 <span class="ct">{{ $p.Title }}</span>
 <span class="cw">{{ $writer }}</span>
 {{- $kinds := split $p.Params.page_kinds "" -}}

@@ -78,6 +78,22 @@ how the site is built; say why if you overturn one.
 - **Rejected:** html-validate, htmltest or lychee as dependencies for the skeleton (each is another toolchain;
   `check_site.py` covers the mistakes this site can make). A full W3C validator may be worth adding later.
 
+## D8. Phones are the primary target; checked by a headless browser (2026-11-21)
+
+- **Decision:** The stylesheet is written mobile-first: base rules for a ~360px phone, `min-width` queries at
+  600, 761 and 901px. On phones the header is a menu button, covers sit two per row, charts scroll sideways
+  inside their own box with a "Swipe sideways" hint, and the book title comes before the frontispiece. On the
+  letter page phones get one column, text first; the scan is a separate view reached from a bottom bar
+  (Contents, Page/Text, Aa, Next) or by tapping a passage, which opens the page with those lines lit and
+  scrolled into view; "Back to the text" returns to the passage. Reading text is at least 18px on phones;
+  buttons and block links are at least 44px tall; nothing depends on hover. Scans use width-based `srcset`
+  (642w/1283w) with `sizes`, lazy-loaded below the fold. `scripts/check_mobile.mjs` drives Chromium headless
+  over its DevTools protocol (Node built-ins only, network to other hosts blocked) at 360, 390 and 768px and
+  fails `verify` on sideways page scroll, touch targets under 44px or letter text under 18px.
+- **Why:** The owner wants the whole design as phone-friendly as possible; a machine check keeps it that way.
+- **Rejected:** Playwright or Puppeteer (large dependency trees for one check); side-by-side text and scan on
+  phones (both become unreadable at 360px).
+
 ## Open questions for the owner
 
 1. Licence for the site's code (MIT or Apache-2.0 are the defaults) and confirmation that transcriptions are CC BY 4.0.

@@ -121,6 +121,7 @@
   function initLetter() {
     var reading = document.querySelector("[data-reading]");
     if (!reading) { return; }
+    var phone = window.matchMedia("(max-width: 900px)");
     var panel = document.getElementById("panel");
 
     // Light a passage on its scan using the block's bbox (0..1000 on both axes of the page image).
@@ -138,9 +139,20 @@
       var r = fig.querySelector(".light"), bar = fig.querySelector(".light-bar");
       [["x", x], ["y", y], ["width", w], ["height", h]].forEach(function (kv) { r.setAttribute(kv[0], String(kv[1])); });
       [["x", Math.max(0, x - 14)], ["y", y], ["width", 4], ["height", h]].forEach(function (kv) { bar.setAttribute(kv[0], String(kv[1])); });
-      if (scroll && reading.getAttribute("data-view") !== "text" && window.matchMedia("(max-width: 900px)").matches) {
-        fig.scrollIntoView({ block: "start" });
+      if (scroll && phone.matches) {
+        setView("page");
+        revealLight(fig, y);
       }
+    };
+    // Scroll so the lit lines sit near the top of the screen, once the scan has a height.
+    var revealLight = function (fig, y) {
+      var img = fig.querySelector("img");
+      var go = function () {
+        var frame = fig.querySelector(".frame").getBoundingClientRect();
+        window.scrollTo({ top: Math.max(0, window.scrollY + frame.top + frame.height * (y / 1000) - 96) });
+      };
+      if (img && !img.complete) { img.addEventListener("load", go, { once: true }); }
+      go();
     };
     all("[data-letter-text] .blk").forEach(function (blk) {
       blk.setAttribute("tabindex", "0");
@@ -161,12 +173,31 @@
         b.setAttribute("aria-pressed", b.getAttribute("data-view") === view ? "true" : "false");
       });
       all("[data-view-toggle]").forEach(function (b) { b.setAttribute("aria-pressed", view === "page" ? "true" : "false"); });
+      all("[data-view-toggle-label]").forEach(function (l) { l.textContent = view === "page" ? "Text" : "Page"; });
     };
+    all("[data-back-to-text]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        setView("text");
+        var lit = document.querySelector("[data-letter-text] .blk.lit");
+        if (lit) { lit.scrollIntoView({ block: "center" }); lit.focus({ preventScroll: true }); } else { window.scrollTo({ top: 0 }); }
+      });
+    });
     all(".view-seg [data-view]").forEach(function (b) {
       b.addEventListener("click", function () { setView(b.getAttribute("data-view")); });
     });
     all("[data-view-toggle]").forEach(function (b) {
-      b.addEventListener("click", function () { setView(reading.getAttribute("data-view") === "page" ? "both" : "page"); });
+      b.addEventListener("click", function () {
+        var toPage = reading.getAttribute("data-view") !== "page";
+        setView(toPage ? "page" : "both");
+        var lit = document.querySelector("[data-letter-text] .blk.lit");
+        if (toPage && lit) {
+          revealLight(document.querySelector("[data-scan] figure.current"), Number((lit.getAttribute("data-bbox") || "0 0").split(" ")[1]));
+        } else if (lit) {
+          lit.scrollIntoView({ block: "center" });
+        } else {
+          window.scrollTo({ top: 0 });
+        }
+      });
     });
 
     var togglePanel = function (open) {

@@ -12,7 +12,7 @@
 <div class="row">
 {{- with .Params.frontispiece }}
 <figure class="plate-fig">
-<div class="frame">{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "The frontispiece of the %d edition: %s" (int $p.Params.year) .caption)) }}</div>
+<div class="frame">{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "The frontispiece of the %d edition: %s" (int $p.Params.year) .caption) "sizes" "(min-width: 761px) 420px, 100vw") }}</div>
 <figcaption><span class="cap">{{ .caption }}</span><br><span class="muted">The book’s frontispiece, scan leaf {{ .page }}</span></figcaption>
 </figure>
 {{- end }}
@@ -27,7 +27,7 @@
 </dl>
 <div class="actions">
 <a class="btn solid" href="#contents">Letter by letter<span aria-hidden="true">→</span></a>
-<a class="u" href="#take">Download the book</a>
+<a class="u tap" href="#take">Download the book</a>
 </div>
 </div>
 </div>
@@ -59,9 +59,10 @@
 <h2 id="pages">The book, page by page</h2>
 <p>All {{ $c.pages }} leaves of the scan, in order. Tall black leaves carry letters; grey leaves are the editor’s own words between them; the short pale ones are the front matter, appendices and index.</p>
 </div>
-<div class="chart-box">
+<div class="chart-box" tabindex="0" role="region" aria-label="Page strip, scrolls sideways">
 {{ partial "page-strip.html" (dict "kinds" .Params.page_kinds "h" 96 "label" (printf "The %d leaves of the book, coloured by what is printed on them." (int $c.pages))) }}
 </div>
+<p class="swipe-hint" aria-hidden="true">Swipe sideways to see every page →</p>
 <ol class="parts">
 {{- range .Params.parts }}<li>{{ .label }}<span class="mono">{{ .start }}–{{ .end }}</span></li>{{ end }}
 </ol>
@@ -74,7 +75,8 @@
 <h2 id="years">Year by year</h2>
 <p>One stroke for each dated letter{{ with $p.Params.periods }}, set against the places of the writer’s life as the book’s own chronology gives them{{ end }}. The silences say as much as the letters.</p>
 </div>
-<div class="chart-box">{{ partial "year-chart.html" $p }}</div>
+<div class="chart-box" tabindex="0" role="region" aria-label="Year chart, scrolls sideways">{{ partial "year-chart.html" $p }}</div>
+<p class="swipe-hint" aria-hidden="true">Swipe sideways to see every year →</p>
 </section>
 {{- end }}
 
@@ -116,7 +118,7 @@
 <div class="wrap">
 {{- with .Params.title_page }}
 <figure class="plate-fig">
-<div class="frame">{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "The title page of the %d edition." (int $p.Params.year)) "lazy" true) }}</div>
+<div class="frame">{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "The title page of the %d edition." (int $p.Params.year)) "lazy" true "sizes" "(min-width: 761px) 300px, 100vw") }}</div>
 <figcaption><span class="cap">The title page, {{ $p.Params.year }}</span><br><span class="muted">scan leaf {{ .page }}</span></figcaption>
 </figure>
 {{- end }}

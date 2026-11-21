@@ -29,7 +29,7 @@
 <h2 id="longline">{{ $total }} dated {{ cond (eq $total 1) "letter" "letters" }}, decade by decade</h2>
 <p>Every dated letter in the library, by decade. The longer a lantern hangs, the more letters survive from those ten years. Choose one to see who was writing.</p>
 </div>
-<div class="chart-box">
+<div class="chart-box" tabindex="0" role="region" aria-label="Decade chart, scrolls sideways">
 <svg class="decade-chart" viewBox="0 0 1000 {{ $H }}" role="group" aria-label="Letters by decade, {{ $first }}s to {{ $last }}s" data-decades>
 <line class="string" x1="0" y1="10" x2="1000" y2="10"/>
 {{- range $keys -}}
@@ -38,7 +38,7 @@
 {{- $drop := add 12 (mul (math.Sqrt $n) 9.4) -}}
 <g class="lantern{{ if eq . $busiest }} on{{ end }}" data-decade="{{ . }}">
 <title>{{ . }}s, {{ $n }} {{ cond (eq $n 1) "letter" "letters" }}</title>
-<rect class="hit" x="{{ sub $x 12 }}" y="10" width="24" height="{{ add $drop 24 }}"/>
+<rect class="hit" x="{{ sub $x 20 }}" y="10" width="40" height="{{ add $drop 24 }}"/>
 <line class="drop" x1="{{ $x }}" y1="10" x2="{{ $x }}" y2="{{ add 10 $drop }}"/>
 <circle class="bulb" cx="{{ $x }}" cy="{{ add 16 $drop }}" r="{{ cond (eq . $busiest) 7.5 4.5 }}"/>
 </g>
@@ -51,6 +51,7 @@
 {{- end -}}
 </svg>
 </div>
+<p class="swipe-hint" aria-hidden="true">Swipe sideways to see every decade →</p>
 {{- /* The numbers behind the chart: readable without JavaScript, and the source the script reads from. */ -}}
 <details class="numbers">
 <summary>The numbers behind this chart</summary>

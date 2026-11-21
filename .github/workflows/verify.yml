@@ -28,6 +28,8 @@ jobs:
           mkdir -p "$RUNNER_TEMP/hugo" && tar -xzf "$RUNNER_TEMP/$f" -C "$RUNNER_TEMP/hugo" hugo
           echo "HUGO=$RUNNER_TEMP/hugo/hugo" >> "$GITHUB_ENV"
 
-      # The pipeline repository is not checked out here, so ./verify skips the drift check and the pipeline's tests.
+      # Ubuntu runners ship Google Chrome for the phone-width check. The pipeline repository is not checked out here, so ./verify skips the drift check and the pipeline's tests.
       - name: Verify
+        env:
+          CHROME: /usr/bin/google-chrome
         run: ./verify --skip-pipeline

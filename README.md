@@ -23,11 +23,13 @@ Status: walking skeleton. One book is in (`dostoevsky-family-friends-1914`). Not
 | `static/fonts/` | Self-hosted Newsreader and IBM Plex Mono (SIL Open Font Licence, files included) |
 | `scripts/sync_from_pipeline.py` | Copies one book from the pipeline, checking every SHA-256 |
 | `scripts/check_site.py` | Checks the built pages: structure, links, ids, CSP hazards |
+| `scripts/check_mobile.mjs` | Opens the built pages in headless Chromium at 360, 390 and 768 px; fails on sideways scroll, small touch targets or small letter text |
 | `verify` | The one command that says whether the site is fit to publish |
 
 ## Run it
 
-You need Hugo **0.139.3 extended** (pinned in `.hugo-version`), Python 3.12+ and Node (only for a syntax check).
+You need Hugo **0.139.3 extended** (pinned in `.hugo-version`), Python 3.12+, Node 22+ and Chromium or Chrome
+(for the phone-width check; set `CHROME=/path/to/browser` if it is not in a standard place).
 
 ```bash
 hugo server
@@ -59,7 +61,8 @@ result: the site must build without the pipeline present (CI and the host have o
 
 It checks the Hugo version, parses the script, runs the script tests, confirms the synced content still
 matches the pipeline output, builds the site with warnings as errors, checks every built page, holds the
-JavaScript budget (50 KB), and finally runs the pipeline's own `./verify`. `./verify --skip-pipeline` leaves
+JavaScript budget (50 KB), opens the key pages at phone and tablet widths in headless Chromium, and finally
+runs the pipeline's own `./verify`. `./verify --skip-pipeline` leaves
 out the pipeline (CI does this, since the pipeline repository is not public).
 
 ## Deploy

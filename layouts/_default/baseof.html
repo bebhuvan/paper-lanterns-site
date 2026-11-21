@@ -14,7 +14,7 @@
 {{- $js := resources.Get "js/site.js" | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
 </head>
-<body>
+<body{{ with .Params.layout }} class="{{ . }}-page"{{ end }}>
 <a class="skip" href="#main">Skip to the text</a>
 {{ block "main" . }}{{ end }}
 </body>
