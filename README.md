@@ -9,7 +9,8 @@ word and number about a book comes from the Paper Lanterns pipeline (`../Paper L
 writes Hugo content; a thin script copies it here. Scans are not stored here: pages load them from the
 Internet Archive.
 
-Status: walking skeleton. One book is in (`dostoevsky-family-friends-1914`). Nothing is deployed yet.
+Status: all 39 compiled editions are in (5,017 letters, about 5,060 pages). Nothing is deployed yet; search,
+the curated letters and the old site's essays are still to come.
 
 ## What is where
 
@@ -40,6 +41,9 @@ Then open http://localhost:1313/. The home page, `/collections/dostoevsky-family
 `/collections/dostoevsky-family-friends-1914/20/` (letter XX) are the three designed pages.
 
 ## Add or refresh a book
+
+To refresh every book, loop over the committed editions in the pipeline (`git ls-files 'library/*/edition_manifest.json'`)
+and run the two commands below for each.
 
 In the pipeline repository, render the Hugo content for a compiled edition, then copy it here:
 

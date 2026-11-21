@@ -10,12 +10,18 @@
 <a class="cover-card" href="{{ $p.RelPermalink }}">
 <span class="cover tint-{{ $p.Params.collection }}" role="img" aria-label="Cover: {{ $p.Title }}, {{ $writer }}">
 <span class="top">{{ partial "logo.html" (dict "w" 24 "sw" 1.6) }}<span class="series">{{ humanize $p.Params.collection }}</span></span>
-<span class="plate">{{ with $p.Params.frontispiece }}{{ partial "scan-img.html" (dict "id" $p.Params.archive_id "leaf" .leaf "alt" "" "lazy" true "sizes" "(min-width: 1100px) 300px, (min-width: 761px) 30vw, 45vw") }}{{ end }}</span>
+{{- /* The frontispiece if the book has one, else its title page; nothing when there is no public scan. */ -}}
+{{- $plate := $p.Params.frontispiece | default $p.Params.title_page -}}
+<span class="plate">{{ if and $p.Params.archive_id $plate }}{{ partial "scan-img.html" (dict "id" $p.Params.archive_id "leaf" $plate.leaf "alt" "" "lazy" true "sizes" "(min-width: 1100px) 300px, (min-width: 761px) 30vw, 45vw") }}{{ end }}</span>
 <span class="ct">{{ $p.Title }}</span>
 <span class="cw">{{ $writer }}</span>
-{{- $kinds := split $p.Params.page_kinds "" -}}
-<svg class="runs" viewBox="0 0 {{ len $kinds }} 4" preserveAspectRatio="none" aria-hidden="true">
-{{- range $i, $k := $kinds }}<rect class="{{ cond (eq $k "L") "L" (cond (eq $k "n") "n" "o") }}" x="{{ $i }}" y="0" width="1.02" height="4"/>{{ end -}}
+<svg class="runs" viewBox="0 0 {{ len $p.Params.page_kinds }} 4" preserveAspectRatio="none" aria-hidden="true">
+{{- $x := 0 -}}
+{{- range $p.Params.page_runs -}}
+{{- $k := index . 0 }}{{ $n := int (index . 1) -}}
+<rect class="{{ cond (eq $k "L") "L" (cond (eq $k "n") "n" "o") }}" x="{{ $x }}" y="0" width="{{ $n }}" height="4"/>
+{{- $x = add $x $n -}}
+{{- end -}}
 </svg>
 <span class="foot"><span>{{ $span }}</span><span>{{ $p.Params.counts.letters }} letters</span></span>
 </span>

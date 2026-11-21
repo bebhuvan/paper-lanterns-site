@@ -38,14 +38,15 @@
 {{- $drop := add 12 (mul (math.Sqrt $n) 9.4) -}}
 <g class="lantern{{ if eq . $busiest }} on{{ end }}" data-decade="{{ . }}">
 <title>{{ . }}s, {{ $n }} {{ cond (eq $n 1) "letter" "letters" }}</title>
-<rect class="hit" x="{{ sub $x 20 }}" y="10" width="40" height="{{ add $drop 24 }}"/>
+{{- $hw := math.Min 40 $step -}}
+<rect class="hit" x="{{ sub $x (div $hw 2) }}" y="10" width="{{ $hw }}" height="{{ add $drop 24 }}"/>
 <line class="drop" x1="{{ $x }}" y1="10" x2="{{ $x }}" y2="{{ add 10 $drop }}"/>
 <circle class="bulb" cx="{{ $x }}" cy="{{ add 16 $drop }}" r="{{ cond (eq . $busiest) 7.5 4.5 }}"/>
 </g>
 {{- end -}}
 <line class="axis" x1="0" y1="{{ $axisY }}" x2="1000" y2="{{ $axisY }}"/>
 {{- range $keys -}}
-{{- if or (le $slots 14) (eq (mod . 50) 0) -}}
+{{- if or (le $slots 14) (and (le $slots 40) (eq (mod . 50) 0)) (eq (mod . 100) 0) -}}
 <text class="tick" x="{{ add 30 (mul (add (div (sub . $first) 10) 0.5) $step) }}" y="{{ add $axisY 20 }}" text-anchor="middle">{{ . }}</text>
 {{- end -}}
 {{- end -}}

@@ -154,6 +154,25 @@ how the site is built; say why if you overturn one.
 - **Why:** Readers see only what the printer printed; search engines get clear, accurate metadata.
 - **Rejected:** Hand-written editorial titles for book letters (invented text on the page).
 
+## D14. The whole library is in; pages degrade cleanly when data is missing (2026-11-21)
+
+- **Decision:** All 39 compiled editions (5,017 letters) are synced. Rules that keep large or uneven books readable:
+  - A book with no Internet Archive item (today only `vivekananda-letters-1944`, made from a PDF elsewhere) shows
+    no scan views, no "light it on the page" hint and no scan images; it says so in plain words.
+    `check_site.py` fails on any archive.org address with an empty item id.
+  - Generated covers use the frontispiece, else the title page, and draw the page strip from the pipeline's
+    run-length `page_runs` (one rectangle per run, not per page): the home page fell from 836 KB to 80 KB.
+  - The home page shows the seven largest volumes; the collections page groups every volume by collection,
+    in order of publication.
+  - The home page's opening salutations are 24 distinct ones from dated letters, spread evenly across the
+    library's timeline, keeping only text that is short and ends in punctuation (longer text in that field is a
+    pipeline misreading of the letter's first words).
+  - Year charts space their ticks by span (5, 10, 50 or 100 years) and compress stroke stacks so the busiest year
+    stays within the chart; the decade chart thins its labels as decades multiply.
+  - Synced content is rendered from the pipeline's committed code, not from uncommitted work in its folder.
+- **Why:** Every book must read well without hand-tuning; missing data must look intentional, never broken.
+- **Size:** about 47 MB of pages and 57 MB of downloads in this repository; the largest file is 2 MB.
+
 ## Open questions for the owner
 
 None at the moment.

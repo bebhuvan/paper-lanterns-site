@@ -151,6 +151,8 @@ def check_link(public: Path, page: Path, url: str, ids_by_file: dict[Path, set[s
     parts = urlsplit(url)
     if parts.scheme in {"http", "https"}:
         host = (parts.hostname or "").lower()
+        if host.endswith("archive.org") and ("/download//" in parts.path or parts.path.rstrip("/") in {"/details", "/download"}):
+            return f"Internet Archive address with an empty item id: {url}"
         if host in {"localhost", "127.0.0.1"}:
             return f"link to a local server: {url}"
         if not any(host == h or host.endswith("." + h) for h in ALLOWED_HOSTS):

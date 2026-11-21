@@ -10,7 +10,7 @@
 <section class="wrap book-top" aria-labelledby="title">
 <nav class="crumb" aria-label="Breadcrumb"><a href="{{ "/collections/" | relURL }}">Collections</a><span aria-hidden="true">  /  </span><span>{{ humanize .Params.collection }}</span></nav>
 <div class="row">
-{{- with .Params.frontispiece }}
+{{- with and $id .Params.frontispiece }}
 <figure class="plate-fig">
 <div class="frame">{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "The frontispiece of the %d edition: %s" (int $p.Params.year) .caption) "sizes" "(min-width: 761px) 420px, 100vw") }}</div>
 <figcaption><span class="cap">{{ .caption }}</span><br><span class="muted">The book’s frontispiece, scan leaf {{ .page }}</span></figcaption>
@@ -37,7 +37,7 @@
 <div class="wrap">
 <div class="intro">
 <h2 id="takeh">Take this book with you</h2>
-<p>The whole edition, free to keep and reuse. Every file is made from the same text you read here. The original scan is at the <a class="u" href="https://archive.org/details/{{ $id }}">Internet Archive</a>.</p>
+<p>The whole edition, free to keep and reuse. Every file is made from the same text you read here. {{ with $id }}The original scan is at the <a class="u" href="https://archive.org/details/{{ . }}">Internet Archive</a>.{{ else }}No public scan of this edition is linked yet.{{ end }}</p>
 </div>
 {{- $what := dict "epub" (slice "EPUB" "For e-readers and phone reading apps.") "markdown" (slice "Markdown" "Plain text, easy to quote, search and edit.") "tei" (slice "TEI XML" "The scholarly standard, every letter marked up.") }}
 <ul>
@@ -116,7 +116,7 @@
 
 <section class="wash colophon" aria-labelledby="ed">
 <div class="wrap">
-{{- with .Params.title_page }}
+{{- with and $id .Params.title_page }}
 <figure class="plate-fig">
 <div class="frame">{{ partial "scan-img.html" (dict "id" $id "leaf" .leaf "alt" (printf "The title page of the %d edition." (int $p.Params.year)) "lazy" true "sizes" "(min-width: 761px) 300px, 100vw") }}</div>
 <figcaption><span class="cap">The title page, {{ $p.Params.year }}</span><br><span class="muted">scan leaf {{ .page }}</span></figcaption>
@@ -125,7 +125,7 @@
 <div class="text">
 <div class="kick">Colophon</div>
 <h2 id="ed">About this edition</h2>
-<p>This edition reproduces <i>{{ .Title }}</i>{{ with .Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}{{ with .Params.imprint }} ({{ . }}){{ end }}. It was typed page by page from the Internet Archive scan, keeping the spelling and punctuation exactly as printed.</p>
+<p>This edition reproduces <i>{{ .Title }}</i>{{ with .Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}{{ with .Params.imprint }} ({{ . }}){{ end }}. It was typed page by page from {{ if $id }}the Internet Archive scan{{ else }}a scan of the printed book{{ end }}, keeping the spelling and punctuation exactly as printed.</p>
 <p>Every printed page is included: {{ $c.letters }} letters and {{ $c.notes }} notes across {{ $c.pages }} scan leaves, with the editor’s own pages between the letters. The text is in the public domain, and this transcription is free to reuse under CC BY 4.0, with credit to Paper Lanterns.</p>
 <div class="stages-h">How far it has been checked</div>
 {{- $checked := in (slice "machine_checked" "community" "source_certified") .Params.provenance_tier }}
@@ -135,7 +135,7 @@
 <li{{ if eq $humanPages $proof.total_pages }} class="done"{{ end }}><span class="dot" aria-hidden="true"></span><span class="name">First reader</span><span class="state">{{ $humanPages }} of {{ $proof.total_pages }} pages</span></li>
 <li{{ if eq $proof.verified $proof.total_pages }} class="done"{{ end }}><span class="dot" aria-hidden="true"></span><span class="name">Second reader</span><span class="state">{{ $proof.verified }} of {{ $proof.total_pages }} pages</span></li>
 </ol>
-<div class="set-in">{{ partial "logo.html" (dict "w" 40 "sw" 1.1) }}<span>Set in Newsreader for Paper Lanterns, from a scan in the Internet Archive.</span></div>
+<div class="set-in">{{ partial "logo.html" (dict "w" 40 "sw" 1.1) }}<span>Set in Newsreader for Paper Lanterns{{ if $id }}, from a scan in the Internet Archive{{ end }}.</span></div>
 </div>
 </div>
 </section>

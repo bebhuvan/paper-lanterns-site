@@ -1,16 +1,20 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
 {{- $books := partial "books.html" . -}}
+{{- $letters := 0 -}}{{- range $books }}{{ $letters = add $letters (int .Params.counts.letters) }}{{ end -}}
 <main id="main">
 <section class="wrap page-title" aria-labelledby="title">
 <h1 id="title">{{ .Title }}</h1>
-<p>{{ .Params.intro }}</p>
+<p>{{ .Params.intro }} {{ len $books }} volumes, {{ $letters }} letters.</p>
 </section>
-<section class="wrap cols-sec" aria-label="Volumes">
+{{- range $books.GroupByParam "collection" }}
+<section class="wrap cols-sec shelf" aria-labelledby="shelf-{{ .Key }}">
+<div class="sec-head"><h2 id="shelf-{{ .Key }}">{{ humanize .Key }}</h2><p>{{ len .Pages }} {{ cond (eq (len .Pages) 1) "volume" "volumes" }}, in order of publication.</p></div>
 <ol class="covers">
-{{ range $books }}<li>{{ partial "cover.html" . }}</li>{{ end }}
+{{ range sort .Pages "Params.year" }}<li>{{ partial "cover.html" . }}</li>{{ end }}
 </ol>
 </section>
+{{- end }}
 </main>
 {{ partial "footer.html" . }}
 {{ end }}

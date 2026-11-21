@@ -21,11 +21,13 @@
 <div class="tools">
 <button type="button" class="tool focus-btn js-only flexy" aria-pressed="false" data-focus><span class="dot" aria-hidden="true"></span><span data-focus-label>Focus</span></button>
 <button type="button" class="tool panel-btn js-only flexy" aria-expanded="false" aria-controls="panel" data-panel-toggle><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M4 6h16M4 12h10M4 18h16"/></svg>Contents</button>
+{{- if $id }}
 <div class="seg view-seg js-only flexy" role="group" aria-label="What to show">
 <button type="button" aria-pressed="false" data-view="text">Text</button>
 <button type="button" aria-pressed="true" data-view="both">Text and page</button>
 <button type="button" aria-pressed="false" data-view="page">Page</button>
 </div>
+{{- end }}
 </div>
 </div>
 </header>
@@ -75,7 +77,7 @@
 {{- $pg := int .page -}}
 {{- if ne $pg $last }}<span class="pb">[p. {{ .folio | default (printf "leaf %d" $pg) }}]</span>{{ $last = $pg }}{{ end -}}
 {{- if eq .type "illustration" -}}
-<p class="blk t-illustration" id="{{ .id }}" data-page="{{ $pg }}" data-bbox="{{ delimit .bbox " " }}">An illustration is printed here, on <a href="#scan-p{{ $pg }}">scan leaf {{ $pg }}</a>.</p>
+<p class="blk t-illustration" id="{{ .id }}" data-page="{{ $pg }}" data-bbox="{{ delimit .bbox " " }}">An illustration is printed here, on {{ if $id }}<a href="#scan-p{{ $pg }}">scan leaf {{ $pg }}</a>{{ else }}scan leaf {{ $pg }}{{ end }}.</p>
 {{- else -}}
 <p class="blk t-{{ .type }} a-{{ .align }}" id="{{ .id }}" data-page="{{ $pg }}" data-bbox="{{ delimit .bbox " " }}">{{ partial "runs.html" .lines }}</p>
 {{- end -}}
@@ -87,8 +89,13 @@
 <ol>{{ range . }}<li id="{{ .id }}"><span class="lab">{{ .label }}</span><span>{{ partial "runs.html" .lines }}</span></li>{{ end }}</ol>
 </section>
 {{- end }}
+{{- if $id }}
 <p class="hint js-only">Choose any passage to light it on the printed page.</p>
+{{- else }}
+<p class="hint">No public scan of this edition is linked yet, so the printed page cannot be shown beside the text.</p>
+{{- end }}
 </article>
+{{- if $id }}
 
 <div class="scan" data-scan>
 <button type="button" class="btn back js-only flexy" data-back-to-text>← Back to the text</button>
@@ -102,6 +109,7 @@
 </figure>
 {{- end }}
 </div>
+{{- end }}
 </div>
 
 <div class="after">
@@ -173,7 +181,7 @@
 </div>
 <nav class="mobile-bar" aria-label="Reading controls">
 <button type="button" data-panel-toggle aria-controls="panel" aria-expanded="false">Contents</button>
-<button type="button" data-view-toggle aria-pressed="false"><span data-view-toggle-label>Page</span></button>
+{{ if $id }}<button type="button" data-view-toggle aria-pressed="false"><span data-view-toggle-label>Page</span></button>{{ else }}<a href="{{ $book.RelPermalink }}">The book</a>{{ end }}
 <button type="button" data-prefs-open aria-controls="panel">Aa</button>
 {{ with $next }}<a href="{{ .RelPermalink }}">Next →</a>{{ else }}<a href="{{ $book.RelPermalink }}#contents">All letters</a>{{ end }}
 </nav>

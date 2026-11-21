@@ -8,7 +8,8 @@
 {{- end -}}
 {{- $desc = $desc | default site.Params.description -}}
 {{- $image := "" -}}
-{{- if eq .Params.layout "letter" -}}
+{{- if not .Params.archive_id -}}
+{{- else if eq .Params.layout "letter" -}}
 {{- with index .Params.pages 0 }}{{ $image = partial "scan-url.html" (dict "id" $.Params.archive_id "leaf" .leaf "w" 1200) }}{{ end -}}
 {{- else if eq .Params.layout "book" -}}
 {{- with .Params.frontispiece }}{{ $image = partial "scan-url.html" (dict "id" $.Params.archive_id "leaf" .leaf "w" 1200) }}{{ end -}}

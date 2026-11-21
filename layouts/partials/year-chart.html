@@ -10,8 +10,13 @@
 {{- $lo = sub (math.Floor $lo) 1 -}}{{- $hi = add (math.Ceil $hi) 1 -}}
 {{- $scale := div 1000.0 (sub $hi $lo) -}}
 {{- $maxN := 0 -}}{{- range $yc }}{{ if gt (int (index . 1)) $maxN }}{{ $maxN = int (index . 1) }}{{ end }}{{ end -}}
+{{- /* Strokes stack 6.5 units apart, compressed so the busiest year stays within 160; long spans get thinner strokes and sparser ticks. */ -}}
+{{- $gap := 6.5 -}}{{- if gt (mul $maxN 6.5) 160 }}{{ $gap = div 160.0 $maxN }}{{ end -}}
+{{- $sw := math.Min 16 (mul $scale 0.8) -}}
+{{- $span := sub $hi $lo -}}
+{{- $every := 5 -}}{{- if gt $span 60 }}{{ $every = 10 }}{{ end }}{{ if gt $span 150 }}{{ $every = 50 }}{{ end }}{{ if gt $span 500 }}{{ $every = 100 }}{{ end -}}
 {{- $top := cond (gt (len $periods) 0) 96 20 -}}
-{{- $base := add (add $top (mul $maxN 6.5)) 24 -}}
+{{- $base := add (add $top (mul $maxN $gap)) 24 -}}
 {{- $H := add $base 36 -}}
 <svg class="year-chart" viewBox="0 0 1000 {{ $H }}" role="img" aria-label="{{ .Params.counts.dated_letters }} dated letters by year, {{ int (index (index $yc 0) 0) }} to {{ int (index (index $yc (sub (len $yc) 1)) 0) }}{{ with $periods }}, set against the periods of the writer's life{{ end }}.">
 {{- range $i, $p := $periods -}}
@@ -29,7 +34,7 @@
 {{- $prev = $y -}}
 {{- $x := mul (sub (add (float $y) 0.5) $lo) $scale -}}
 {{- range $j := seq 0 (sub $n 1) -}}
-<rect class="stroke" x="{{ sub $x 8 }}" y="{{ sub (sub $base 7) (mul $j 6.5) }}" width="16" height="1.5"/>
+<rect class="stroke" x="{{ sub $x (div $sw 2) }}" y="{{ sub (sub $base 7) (mul $j $gap) }}" width="{{ $sw }}" height="1.5"/>
 {{- end -}}
 {{- end -}}
 {{- if ge $gapLen 3 -}}
@@ -37,7 +42,7 @@
 {{- end -}}
 <line class="base" x1="0" y1="{{ $base }}" x2="1000" y2="{{ $base }}"/>
 {{- range $t := seq (int $lo) (int $hi) -}}
-{{- if eq (mod $t 5) 0 -}}
+{{- if eq (mod $t $every) 0 -}}
 {{- $x := mul (sub (float $t) $lo) $scale -}}
 <line class="tick-line" x1="{{ $x }}" y1="{{ $base }}" x2="{{ $x }}" y2="{{ add $base 5 }}"/>
 <text class="tick" x="{{ $x }}" y="{{ add $base 24 }}" text-anchor="middle">{{ $t }}</text>

@@ -19,6 +19,9 @@ const PAGES = [
   "/collections/",
   "/collections/dostoevsky-family-friends-1914/",
   "/collections/dostoevsky-family-friends-1914/20/",
+  "/collections/tipu-sultan-select-letters-1811/",
+  "/collections/fifty-famous-letters-1930/",
+  "/collections/vivekananda-letters-1944/1/",
 ];
 const TYPES = { ".html": "text/html; charset=utf-8", ".css": "text/css", ".js": "text/javascript", ".svg": "image/svg+xml", ".woff2": "font/woff2" };
 

@@ -154,7 +154,9 @@
       if (img && !img.complete) { img.addEventListener("load", go, { once: true }); }
       go();
     };
+    var hasScan = !!document.querySelector("[data-scan]");
     all("[data-letter-text] .blk").forEach(function (blk) {
+      if (!hasScan) { return; }
       blk.setAttribute("tabindex", "0");
       blk.addEventListener("click", function (e) {
         if (e.target.closest("a")) { return; }

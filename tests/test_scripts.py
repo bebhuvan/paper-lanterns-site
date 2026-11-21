@@ -61,6 +61,10 @@ class CheckSiteTests(unittest.TestCase):
         for needle in ("style= attribute", "inline event handler onclick", "inline <script>", "outside the allowlist", "non-http(s) URL"):
             self.assertIn(needle, found)
 
+    def test_catches_scan_address_with_empty_item_id(self) -> None:
+        bad = GOOD.replace('src="https://archive.org/x.jpg"', 'src="https://archive.org/download//page/n3_w600.jpg"')
+        self.assertTrue(any("empty item id" in p for p in self.problems(bad)))
+
     def test_catches_structure_errors(self) -> None:
         bad = GOOD.replace("<h1 id=\"top\">Hi</h1>", '<h1 id="top">Hi</h1><h1 id="top">Again</h1><div><span></div>').replace(' alt=""', "")
         found = "\n".join(self.problems(bad))

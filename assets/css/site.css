@@ -507,8 +507,8 @@ html.js .panel.open { display: flex; order: 0; border-top: 0; border-bottom: 1px
 /* Note callouts get a larger tap area than the printed figure. */
 .text .fnref a { color: var(--lamp); display: inline-block; min-width: 24px; min-height: 24px; padding: 0 4px; text-align: center; }
 .blk { margin: 0; border-radius: 1px; }
-html.js .blk { cursor: pointer; }
-@media (hover: hover) { html.js .blk:hover { background: rgba(200, 54, 27, 0.06); } }
+html.js .reading:has([data-scan]) .blk { cursor: pointer; }
+@media (hover: hover) { html.js .reading:has([data-scan]) .blk:hover { background: rgba(200, 54, 27, 0.06); } }
 .blk.lit { background: var(--lamp-tint); box-decoration-break: clone; -webkit-box-decoration-break: clone; }
 .t-letter_header { text-align: center; }
 .t-letter_header + .t-letter_header { margin-top: 6px; }
