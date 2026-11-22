@@ -454,8 +454,8 @@ how the site is built; say why if you overturn one.
 
 - **What:** a new section at `/journal/`, in the header between Explore and About, with its own feed at
   `/journal/rss.xml` (every post in full). The first post, the owner's introduction, is still being written; the
-  journal stays out of the header until it exists; `/journal/` itself is built and says the first entry is being
-  written.
+  journal is in the header and the phone menu from the start (the owner asked for it there before the first
+  post); until a post exists, `/journal/` says the first entry is being written.
 - **Name:** "Journal" rather than "Blog": the site reads like a press, and a press keeps a journal. The existing
   Garden (short links and quotations from the old site) stays where it is, at its old addresses; it can fold into
   the journal later if the owner wants one place.

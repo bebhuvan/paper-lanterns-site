@@ -1,10 +1,9 @@
-{{- /* Six destinations, seven once the journal has a post; the logo is the way home and search has its own icon beside the menu. */ -}}
+{{- /* Seven destinations; the logo is the way home and search has its own icon beside the menu. */ -}}
 {{- $here := . -}}
 <a href="{{ "/collections/" | relURL }}"{{ if or (eq $here.Section "collections") (eq $here.Section "sets") }} aria-current="page"{{ end }}>Collections</a>
 <a href="{{ "/letters/" | relURL }}"{{ if eq $here.Section "letters" }} aria-current="page"{{ end }}>Letters</a>
 <a href="{{ "/essays/" | relURL }}"{{ if in (slice "essays" "lectures" "speeches") $here.Section }} aria-current="page"{{ end }}>Essays</a>
 <a href="{{ "/people/" | relURL }}"{{ if eq $here.Section "people" }} aria-current="page"{{ end }}>People</a>
 <a href="{{ "/explore/" | relURL }}"{{ if eq $here.Section "explore" }} aria-current="page"{{ end }}>Explore</a>
-{{- /* The journal joins the header with its first post (D32). */ -}}
-{{- with site.GetPage "/journal" }}{{ if .RegularPages }}<a href="{{ .RelPermalink }}"{{ if eq $here.Section "journal" }} aria-current="page"{{ end }}>Journal</a>{{ end }}{{ end }}
+<a href="{{ "/journal/" | relURL }}"{{ if eq $here.Section "journal" }} aria-current="page"{{ end }}>Journal</a>
 <a href="{{ "/about/" | relURL }}"{{ if eq $here.RelPermalink "/about/" }} aria-current="page"{{ end }}>About</a>
