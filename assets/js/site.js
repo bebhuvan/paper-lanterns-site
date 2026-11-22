@@ -198,7 +198,7 @@
         b.setAttribute("aria-pressed", b.getAttribute("data-view") === view ? "true" : "false");
       });
       all("[data-view-toggle]").forEach(function (b) { b.setAttribute("aria-pressed", view === "page" ? "true" : "false"); });
-      all("[data-view-toggle-label]").forEach(function (l) { l.textContent = view === "page" ? "Text" : "Page"; });
+      all("[data-view-toggle-label]").forEach(function (l) { l.textContent = view === "page" ? "Text" : "Scan"; });
     };
     all("[data-back-to-text]").forEach(function (b) {
       b.addEventListener("click", function () {

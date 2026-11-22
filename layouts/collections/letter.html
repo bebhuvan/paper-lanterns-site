@@ -69,7 +69,8 @@
 <span hidden data-pagefind-meta="title">{{ .Params.page_title }}</span>
 <span hidden data-pagefind-meta="where">{{ $book.Title }}</span>
 <span hidden data-pagefind-filter="kind">Letters in the collections</span>
-<p class="kicker-heading">{{ .Params.heading }}</p>
+{{- /* The book's own heading opens the letter text; repeat it here only when the text has none. */ -}}
+{{- if not (where .Params.blocks "type" "letter_header") }}<p class="kicker-heading">{{ .Params.heading }}</p>{{ end }}
 <div class="pair" data-pagefind-ignore><span>{{ .Params.sender }}</span><span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ .Params.recipient }}</span></div>
 <h1>{{ .Title }}</h1>
 <div class="meta" data-pagefind-ignore>{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.place }}<span>{{ . }}</span>{{ end }}<span>Printed {{ $folios }}</span></div>
@@ -183,7 +184,7 @@
 </div>
 <nav class="mobile-bar" aria-label="Reading controls">
 <button type="button" data-panel-toggle aria-controls="panel" aria-expanded="false">Contents</button>
-{{ if $id }}<button type="button" data-view-toggle aria-pressed="false"><span data-view-toggle-label>Page</span></button>{{ else }}<a href="{{ $book.RelPermalink }}">The book</a>{{ end }}
+{{ if $id }}<button type="button" data-view-toggle aria-pressed="false"><span data-view-toggle-label>Scan</span></button>{{ else }}<a href="{{ $book.RelPermalink }}">The book</a>{{ end }}
 <button type="button" data-prefs-open aria-controls="panel">Aa</button>
 {{ with $next }}<a href="{{ .RelPermalink }}">Next →</a>{{ else }}<a href="{{ $book.RelPermalink }}#contents">All letters</a>{{ end }}
 </nav>

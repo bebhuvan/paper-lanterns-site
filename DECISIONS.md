@@ -399,6 +399,26 @@ how the site is built; say why if you overturn one.
 - **Rejected:** HTML blocks with inline positions, as the canvas drew them. The CSP forbids inline styles, so the
   chart stays an SVG and scrolls inside its own box on phones.
 
+## D30. A denser, more printed reading setting for letter text (2026-11-22)
+
+- **What changed:** letter text is now 19px on phones and 21px on computers (was 20 and 21.5). Lines are 1.5 apart
+  on phones and 1.56 on computers (was 1.66), so a paragraph holds together as a block. The weight is a touch
+  heavier, 430. Paragraph indents are 1em (was 1.5), still with no gaps. The book's own heading is set in small
+  capitals. The dateline and valediction are in italic and the signature is in small capitals. The letter's title
+  is calmer (28px on phones, from 34), because it is the letter's first sentence printed again just below. The
+  site's copy of the book's heading is shown only when the text has no heading of its own. In the phone bar,
+  "Next" is the strongest of the four buttons, and "Page" now reads "Scan".
+- **Why:** the owner felt the text was under-styled. The cause was looseness: wide spacing, short lines and a thin
+  weight. Approved from a before/after comparison of real pages.
+- **Fonts:** the letter text uses the full Newsreader font files (the "Newsreader Text" family in `static/fonts/`,
+  from Google Fonts, under the same OFL licence). Only the full files allow weight 430 and shapes tuned to the text
+  size. They add about 220 KB for Latin, roman and italic, loaded only on pages that set letter text. Everything
+  else on the site keeps the small fixed-weight files. These are font files, not a package, so no dependency was
+  added.
+- **Rejected:** wider phone margins (the text would no longer line up with the logo); gaps between paragraphs
+  (indents already mark them, and letters were printed that way); justified text on phones (gaps open between
+  words).
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should

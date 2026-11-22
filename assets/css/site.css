@@ -14,6 +14,20 @@
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
 @font-face { font-family: "Newsreader"; font-style: normal; font-weight: 500; font-display: swap;
   src: url("/fonts/newsreader-latin-500-normal.woff2") format("woff2"); }
+/* The letter text uses the full Newsreader, which tunes its shapes to the text size and allows the slightly heavier
+   weight the reading setting uses (D30). It loads only on pages that set letter text. */
+@font-face { font-family: "Newsreader Text"; font-style: italic; font-weight: 200 800; font-display: swap;
+  src: url("/fonts/newsreader-vf-latin-ext-italic.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Newsreader Text"; font-style: italic; font-weight: 200 800; font-display: swap;
+  src: url("/fonts/newsreader-vf-latin-italic.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Newsreader Text"; font-style: normal; font-weight: 200 800; font-display: swap;
+  src: url("/fonts/newsreader-vf-latin-ext-normal.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Newsreader Text"; font-style: normal; font-weight: 200 800; font-display: swap;
+  src: url("/fonts/newsreader-vf-latin-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
 @font-face { font-family: "IBM Plex Mono"; font-style: normal; font-weight: 400; font-display: swap;
   src: url("/fonts/ibm-plex-mono-latin-400-normal.woff2") format("woff2"); }
 
@@ -21,6 +35,7 @@
    Breakpoints: 600px (large phone), 761px (tablet: header shows links), 901px (desktop: reading panel and scan beside the text). */
 
 :root {
+  --text-serif: "Newsreader Text", "Newsreader", Georgia, "Times New Roman", serif;
   --paper: #ffffff;
   --ink: #121214;
   --ink-body: #1c1c1f;
@@ -37,7 +52,7 @@
   --page-max: 1344px;
   --gutter: 16px;
   --section: 64px;
-  --read-size: 20px;
+  --read-size: 19px;
   --read-measure: 640px;
   color-scheme: light;
 }
@@ -64,7 +79,7 @@ html[data-width="2"] { --read-measure: 720px; }
 @media (min-width: 600px) { :root { --gutter: 24px; --section: 88px; } }
 @media (min-width: 761px) { :root { --gutter: 48px; --section: 112px; } }
 @media (min-width: 901px) {
-  :root { --read-size: 21.5px; }
+  :root { --read-size: 21px; }
   html[data-size="0"] { --read-size: 19px; }
   html[data-size="2"] { --read-size: 24px; }
   html[data-size="3"] { --read-size: 27px; }
@@ -85,6 +100,7 @@ body {
 }
 a { color: var(--ink); text-decoration: none; }
 @media (hover: hover) { a:hover { color: var(--lamp); } }
+::selection { background: var(--lamp-tint); }
 a:focus-visible, button:focus-visible, summary:focus-visible, [tabindex]:focus-visible, input:focus-visible {
   outline: 2px solid var(--lamp);
   outline-offset: 3px;
@@ -508,7 +524,7 @@ html[data-theme="night"] .salutations a { color: var(--ink-3); }
 .colophon .wrap { padding-top: var(--section); padding-bottom: var(--section); display: flex; flex-wrap: wrap; gap: 40px 112px; align-items: flex-start; }
 .colophon .plate-fig { flex: 0 1 300px; }
 .colophon .plate-fig .frame { padding: 12px; }
-.colophon .text { flex: 999 1 520px; min-width: 0; max-width: 680px; }
+.colophon .text { flex: 999 1 520px; min-width: 0; max-width: 680px; font-family: var(--serif); font-weight: 400; letter-spacing: 0; margin-top: 40px; }
 .colophon .kick { font-size: 17px; font-style: italic; color: var(--ink-3); }
 .colophon h2 { margin-top: 8px; font-size: clamp(34px, 4vw + 12px, 56px); line-height: 1.05; letter-spacing: -0.025em; }
 .colophon .text > p { margin: 12px 0 0; font-size: 19px; line-height: 1.7; text-indent: 1.4em; font-variant-numeric: oldstyle-nums; }
@@ -582,16 +598,19 @@ html.js .panel.open { display: flex; order: 0; border-top: 0; border-bottom: 1px
 .leaf-pair { display: flex; flex-direction: column; gap: 32px; }
 .letter { min-width: 0; max-width: var(--read-measure); margin: 0 auto; width: 100%; }
 .kicker-heading { margin: 0 0 14px; font-size: 17px; color: var(--ink-2); }
-.letter h1 { margin-top: 16px; font-size: clamp(34px, 4.6vw + 14px, 64px); line-height: 1.04; letter-spacing: -0.03em; }
-.letter .meta { margin-top: 16px; display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 15px; color: var(--ink-3); }
+/* The title is the letter's own first sentence, printed again just below, so it stays calm and the letter starts high. */
+.letter h1 { margin-top: 4px; font-size: clamp(28px, 3.4vw + 14px, 52px); line-height: 1.1; letter-spacing: -0.02em; text-wrap: balance; }
+.letter .meta { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: 15px; color: var(--ink-3); }
 .letter .meta .mono { font-size: 13px; }
+/* The reading setting (D30): dense enough to read as a printed page, a touch heavier than the display text. */
 .text {
-  margin-top: 40px; font-size: var(--read-size); line-height: 1.66; color: var(--ink-body);
+  margin-top: 28px; font-family: var(--text-serif); font-weight: 430; font-optical-sizing: auto;
+  font-size: var(--read-size); line-height: 1.5; letter-spacing: 0.002em; color: var(--ink-body);
   font-variant-numeric: oldstyle-nums proportional-nums; font-feature-settings: "kern" 1, "liga" 1;
   text-rendering: optimizeLegibility; hyphens: auto; -webkit-hyphens: auto; text-wrap: pretty; hanging-punctuation: first;
 }
 .text .i { font-style: italic; }
-.text .b { font-weight: 500; }
+.text .b { font-weight: 600; }
 .text .sc { font-variant: small-caps; }
 .text .unclear { text-decoration: underline dotted var(--ink-4); }
 .text sup, .text sub { font-size: 0.68em; line-height: 0; }
@@ -603,14 +622,15 @@ html.js .panel.open { display: flex; order: 0; border-top: 0; border-bottom: 1px
 html.js .reading:has([data-scan]) .blk { cursor: pointer; }
 @media (hover: hover) { html.js .reading:has([data-scan]) .blk:hover { background: rgba(200, 54, 27, 0.06); } }
 .blk.lit { background: var(--lamp-tint); box-decoration-break: clone; -webkit-box-decoration-break: clone; }
-.t-letter_header { text-align: center; }
+/* The book's own heading, in small capitals as a running head. */
+.t-letter_header { text-align: center; font-size: 0.8em; letter-spacing: 0.08em; color: var(--ink-2); font-variant: small-caps; text-transform: lowercase; }
 .t-letter_header + .t-letter_header { margin-top: 6px; }
-.t-dateline { margin-top: 32px; line-height: 1.45; font-size: 0.92em; }
-.t-salutation { margin-top: 24px; }
-.t-body, .t-postscript, .t-blockquote, .t-list_item { margin-top: 0; text-indent: 1.5em; }
-.t-dateline + .t-body, .t-salutation + .t-body, .t-letter_header + .t-body { margin-top: 24px; }
-.t-valediction { margin-top: 20px; }
-.t-signature { margin-top: 12px; }
+.t-dateline { margin-top: 20px; line-height: 1.45; font-size: 0.95em; font-style: italic; color: var(--ink-2); }
+.t-salutation { margin-top: 20px; }
+.t-body, .t-postscript, .t-blockquote, .t-list_item { margin-top: 0; text-indent: 1em; }
+.t-dateline + .t-body, .t-salutation + .t-body, .t-letter_header + .t-body { margin-top: 14px; }
+.t-valediction { margin-top: 20px; font-style: italic; }
+.t-signature { margin-top: 12px; font-variant: small-caps; letter-spacing: 0.04em; }
 .t-postscript { margin-top: 24px; }
 .t-editorial { margin-top: 24px; font-size: 0.86em; color: var(--ink-2); }
 .t-verse { margin: 20px 0 20px 1.5em; }
@@ -623,7 +643,7 @@ html.js .reading:has([data-scan]) .blk { cursor: pointer; }
 .a-cascading { padding-left: 20%; text-indent: 0; }
 .pb { display: block; margin: 18px 0 6px; font-family: var(--mono); font-size: 11px; color: var(--ink-3); text-indent: 0; }
 .hint { margin: 32px 0 0; font-size: 15px; line-height: 1.55; color: var(--ink-3); }
-.notes { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--rule); font-size: 17px; line-height: 1.55; color: var(--ink-2); }
+.notes { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--rule); font-size: 16px; line-height: 1.55; color: var(--ink-2); }
 .notes h2 { font-size: 17px; font-style: italic; color: var(--ink-3); }
 .notes ol { list-style: none; margin: 12px 0 0; padding: 0; display: flex; flex-direction: column; gap: 12px; }
 .notes li { display: grid; grid-template-columns: 28px minmax(0, 1fr); gap: 6px; }
@@ -687,7 +707,9 @@ html.js .mobile-bar {
   border-top: 1px solid var(--rule); background: var(--paper); font-size: 15px; color: var(--ink-2);
   padding-bottom: env(safe-area-inset-bottom);
 }
-.mobile-bar button, .mobile-bar a { min-height: 60px; border: 0; background: var(--paper); display: flex; align-items: center; justify-content: center; color: var(--ink-2); cursor: pointer; padding: 0 4px; text-align: center; }
+.mobile-bar button, .mobile-bar a { min-height: 60px; border: 0; background: var(--paper); display: flex; align-items: center; justify-content: center; color: var(--ink-3); cursor: pointer; padding: 0 4px; text-align: center; }
+/* The way on is the strongest of the four. */
+.mobile-bar a:last-child { color: var(--ink); font-style: italic; }
 .mobile-bar [aria-pressed="true"], .mobile-bar [aria-expanded="true"] { color: var(--lamp); }
 html.js .letter-page .site-footer { padding-bottom: 64px; }
 
