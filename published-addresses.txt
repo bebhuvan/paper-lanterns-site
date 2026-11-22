@@ -5368,6 +5368,7 @@
 /explore/60s/
 /garden/
 /garden/2025-08-15-tryst-with-destiny/
+/journal/
 /lecture/bergson-creative-evolution-1907/
 /lecture/james-varieties-religious-1902/
 /lecture/tagore-japan-1916/
