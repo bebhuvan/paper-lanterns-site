@@ -1,15 +1,18 @@
 {{- /* /journal/rss.xml: every journal post in full, newest first (D32). */ -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-<title>{{ printf "%s journal" site.Title | transform.XMLEscape }}</title>
+<title>{{ printf "%s journal" site.Title | transform.XMLEscape | safeHTML }}</title>
 <link>{{ .Permalink }}</link>
-<description>{{ .Description | transform.XMLEscape }}</description>
+<description>{{ .Description | transform.XMLEscape | safeHTML }}</description>
 <language>en</language>
 {{- with .RegularPages.ByDate.Reverse }}<lastBuildDate>{{ (index . 0).Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>{{ end }}
 <atom:link href="{{ .Permalink }}rss.xml" rel="self" type="application/rss+xml"/>
 {{- range .RegularPages.ByDate.Reverse }}
-<item><title>{{ .Title | transform.XMLEscape }}</title><link>{{ .Permalink }}</link><guid isPermaLink="true">{{ .Permalink }}</guid><pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>{{ with .Params.author }}<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">{{ . | transform.XMLEscape }}</dc:creator>{{ end }}<description>{{ .Content | transform.XMLEscape }}</description></item>
+<item><title>{{ .Title | transform.XMLEscape | safeHTML }}</title><link>{{ .Permalink }}</link><guid isPermaLink="true">{{ .Permalink }}</guid><pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>{{ with .Params.author }}<dc:creator>{{ . | transform.XMLEscape | safeHTML }}</dc:creator>{{ end }}{{- /* Feed readers need absolute addresses for links and pictures; srcset lists several. */ -}}
+{{- $abs := replaceRE `(src|href)="/([^/])` (printf `$1="%s$2` site.BaseURL) (partial "journal/sidenotes.html" .Content) -}}
+{{- $abs = replaceRE `(srcset="|, )/([^/])` (printf `${1}%s$2` site.BaseURL) $abs -}}
+<description>{{ $abs | transform.XMLEscape | safeHTML }}</description></item>
 {{- end }}
 </channel>
 </rss>

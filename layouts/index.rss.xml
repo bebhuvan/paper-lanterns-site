@@ -2,16 +2,16 @@
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>{{ site.Title | transform.XMLEscape }}</title>
+<title>{{ site.Title | transform.XMLEscape | safeHTML }}</title>
 <link>{{ .Permalink }}</link>
-<description>{{ site.Params.description | transform.XMLEscape }}</description>
+<description>{{ site.Params.description | transform.XMLEscape | safeHTML }}</description>
 <language>en</language>
 <atom:link href="{{ .Permalink }}rss.xml" rel="self" type="application/rss+xml"/>
 {{- range partial "books.html" . }}
-<item><title>{{ .Title | transform.XMLEscape }}</title><link>{{ .Permalink }}</link><guid isPermaLink="true">{{ .Permalink }}</guid><description>{{ printf "%s %d letters." .Params.subtitle (int .Params.counts.letters) | transform.XMLEscape }}</description></item>
+<item><title>{{ .Title | transform.XMLEscape | safeHTML }}</title><link>{{ .Permalink }}</link><guid isPermaLink="true">{{ .Permalink }}</guid><description>{{ printf "%s %d letters." .Params.subtitle (int .Params.counts.letters) | transform.XMLEscape | safeHTML }}</description></item>
 {{- end }}
 {{- range partial "curated-items.html" . }}
-<item><title>{{ .Title | transform.XMLEscape }}</title><link>{{ .Permalink }}</link><guid isPermaLink="true">{{ .Permalink }}</guid>{{ with .Params.excerpt }}<description>{{ . | plainify | transform.XMLEscape }}</description>{{ end }}</item>
+<item><title>{{ .Title | transform.XMLEscape | safeHTML }}</title><link>{{ .Permalink }}</link><guid isPermaLink="true">{{ .Permalink }}</guid>{{ with .Params.excerpt }}<description>{{ . | plainify | transform.XMLEscape | safeHTML }}</description>{{ end }}</item>
 {{- end }}
 </channel>
 </rss>

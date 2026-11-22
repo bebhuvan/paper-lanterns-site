@@ -87,6 +87,26 @@ class CheckSiteTests(unittest.TestCase):
         for needle in ("duplicate id 'top'", "exactly one <h1>", "does not match", "has no alt"):
             self.assertIn(needle, found)
 
+    def test_catches_template_errors_printed_into_a_page(self) -> None:
+        found = self.problems(GOOD.replace("</body>", "<p>%!s(<nil>)</p></body>"))
+        self.assertTrue(any("printed an error instead of text" in p for p in found), found)
+
+    def feed_problems(self, item: str) -> list[str]:
+        with tempfile.TemporaryDirectory() as tmp:
+            public = write_site(Path(tmp), GOOD)
+            (public / "journal").mkdir()
+            (public / "journal" / "rss.xml").write_text(f'<?xml version="1.0"?><rss version="2.0"><channel><title>J</title>{item}</channel></rss>', encoding="utf-8")
+            return check_site.check_feeds(public)
+
+    def test_feeds_must_be_escaped_once_with_absolute_links(self) -> None:
+        good = "<item><title>Tom &amp; Jerry</title><description>&lt;p&gt;Hi&amp;rsquo; &lt;a href=&quot;https://paperlanterns.ink/x/&quot;&gt;x&lt;/a&gt;&lt;/p&gt;</description></item>"
+        self.assertEqual(self.feed_problems(good), [])
+        twice = "<item><title>Tom &amp;amp; Jerry</title><description>&amp;lt;p&amp;gt;Hi</description></item>"
+        found = self.feed_problems(twice)
+        self.assertEqual(sum("escaped twice" in p for p in found), 2, found)
+        relative = "<item><title>T</title><description>&lt;img src=&quot;/journal/a.webp&quot; alt=&quot;&quot;&gt;</description></item>"
+        self.assertTrue(any("relative address" in p for p in self.feed_problems(relative)))
+
     def test_every_page_needs_a_1200x630_share_card_from_this_build(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             public = write_site(Path(tmp), GOOD)

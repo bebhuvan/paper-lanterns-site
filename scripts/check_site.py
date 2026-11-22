@@ -20,6 +20,7 @@ Usage: python3 scripts/check_site.py [public]
 from __future__ import annotations
 
 import json
+import re
 import sys
 import tomllib
 from collections.abc import Iterable
@@ -275,6 +276,9 @@ def check_site(public: Path, hugo_toml: Path) -> list[str]:
         ids_by_file[page.resolve()] = report.ids
         rel = page.relative_to(public)
         problems.extend(f"{rel}: {e}" for e in report.errors)
+        leak = TEMPLATE_ERROR.search(page.read_text(encoding="utf-8"))
+        if leak:
+            problems.append(f"{rel}: a template printed an error instead of text: {leak.group(0)}")
         problems.extend(f"{rel}: {e}" for e in check_reading_score(rel, report.reading_scores))
         problems.extend(f"{rel}: {e}" for e in check_share_card(public, report.meta, sizes))
         for url, navigation in report.links:
@@ -286,16 +290,36 @@ def check_site(public: Path, hugo_toml: Path) -> list[str]:
     return problems
 
 
+# After XML parsing, a feed's text holds the real characters. An entity still visible there ("&amp;", "&lt;p&gt;")
+# was escaped twice and shows as code in every feed reader.
+DOUBLE_ESCAPED = re.compile(r"&(?:amp|lt|gt|quot|#\d+|#x[0-9a-fA-F]+);")
+RELATIVE_IN_FEED = re.compile(r"""(?:src|href|srcset)=["']/(?!/)""")
+
+
+# Go's fmt writes "%!s(<nil>)" and the like when a template formats a missing value; never publish one.
+TEMPLATE_ERROR = re.compile(r"%!\w?\([^)]*\)")
+
+
 def check_feeds(public: Path) -> list[str]:
-    """The feed must be well-formed XML and every .json file must parse."""
+    """Every feed must be well-formed XML, escaped once, with absolute links; every .json file must parse."""
     import xml.etree.ElementTree as ET  # our own build output, not untrusted input
 
     errors = []
-    for feed in public.glob("*.xml"):
+    for feed in sorted(set(public.glob("*.xml")) | set(public.rglob("rss.xml"))):
+        rel = feed.relative_to(public)
         try:
-            ET.parse(feed)
+            tree = ET.parse(feed)
         except ET.ParseError as exc:
-            errors.append(f"{feed.name}: not well-formed XML: {exc}")
+            errors.append(f"{rel}: not well-formed XML: {exc}")
+            continue
+        for node in tree.iter():
+            text = node.text or ""
+            # A <description> is HTML and keeps its own entities (&rsquo;); escaped twice, it starts with "&lt;".
+            twice = text.lstrip().startswith("&lt;") if node.tag == "description" else bool(DOUBLE_ESCAPED.search(text))
+            if twice:
+                errors.append(f"{rel}: <{node.tag}> is escaped twice: {text[:80]!r}")
+            if node.tag == "description" and RELATIVE_IN_FEED.search(text):
+                errors.append(f"{rel}: a link or picture in <description> has a relative address; feed readers need absolute ones")
     for data in list(public.glob("*.json")) + list((public / "api").glob("*.json")):
         try:
             json.loads(data.read_text(encoding="utf-8"))
