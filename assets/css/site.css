@@ -862,12 +862,20 @@ html.focus .letter { max-width: calc(var(--read-measure) + 40px); }
 /* Header: hides while you read down, slides back when you scroll up (D21). Without JavaScript it stays put. */
 html.js .site-header {
   position: sticky; top: 0; z-index: 15;
-  background: rgba(255, 255, 255, 0.94); -webkit-backdrop-filter: saturate(1.2) blur(8px); backdrop-filter: saturate(1.2) blur(8px);
   transition: transform 0.28s ease, box-shadow 0.28s ease;
 }
-html.js[data-theme="night"] .site-header { background: rgba(26, 27, 30, 0.94); }
+/* The frosted background sits on a layer behind the header, not on the header itself: a backdrop-filter (like a
+   transform) makes an element the frame for position: fixed children, which shrank the full-screen menu to the
+   header's height. */
+html.js .site-header::before {
+  content: ""; position: absolute; inset: 0; z-index: -1;
+  background: rgba(255, 255, 255, 0.94); -webkit-backdrop-filter: saturate(1.2) blur(8px); backdrop-filter: saturate(1.2) blur(8px);
+}
+html.js[data-theme="night"] .site-header::before { background: rgba(26, 27, 30, 0.94); }
 html.js .site-header.is-stuck { box-shadow: 0 1px 0 var(--rule); }
 html.js .site-header.is-hidden { transform: translateY(-100%); box-shadow: none; }
+/* While the menu is open the header never slides away (its transform would trap the menu too). */
+html.js .site-header:has(.menu[open]) { transform: none; }
 @media (prefers-reduced-motion: reduce) { html.js .site-header { transition: none; } }
 /* Sticky things inside a page sit below the header while it shows. */
 

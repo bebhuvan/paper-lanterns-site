@@ -2,6 +2,7 @@
 //   - the page scrolls sideways (charts may scroll inside their own .chart-box);
 //   - a button, menu toggle or block-level link is shorter than 44px;
 //   - letter text is smaller than 18px;
+//   - the menu, opened, does not cover the whole screen;
 //   - a note figure sits more than 6px away from the word it marks;
 //   - the logo or a header link wraps onto two lines.
 // No dependencies: scripts/chromium.mjs drives Chromium over its DevTools protocol.
@@ -80,6 +81,20 @@ const PROBE = `(() => {
   }
   const t = document.querySelector(".text");
   if (t) out.text = parseFloat(getComputedStyle(t).fontSize);
+  // The menu must open as a full-screen sheet, also once the header has slid away. A blur or transform on the
+  // header used to trap the sheet inside the header's 80px, so a tap seemed to do nothing.
+  out.menu = [];
+  const menu = document.querySelector("details.menu"), header = document.querySelector(".site-header");
+  if (menu && visible(menu.querySelector("summary"))) {
+    for (const state of ["", "is-hidden"]) {
+      if (state) header.classList.add(state);
+      menu.open = true;
+      const r = menu.querySelector(".menu-sheet").getBoundingClientRect();
+      if (r.height < innerHeight - 1 || r.width < cw - 1 || r.top !== 0) out.menu.push((state || "header showing") + ": sheet is " + Math.round(r.width) + "x" + Math.round(r.height) + " at y=" + Math.round(r.top));
+      menu.open = false;
+      if (state) header.classList.remove(state);
+    }
+  }
   return JSON.stringify(out);
 })()`;
 
@@ -111,6 +126,7 @@ try {
       if (r.wrapped.length) problems.push(`${where}: header text wraps onto two lines: ${r.wrapped.join(", ")}`);
       if (r.small.length) problems.push(`${where}: touch targets under 44px: ${r.small.slice(0, 6).join("; ")}`);
       if (r.farNotes.length) problems.push(`${where}: note figures float away from their words: ${r.farNotes.slice(0, 4).join("; ")}`);
+      if (r.menu.length) problems.push(`${where}: the menu does not fill the screen: ${r.menu.join("; ")}`);
       if (r.text !== null && width < 768 && r.text < 18) problems.push(`${where}: letter text is ${r.text}px (minimum 18px)`);
     }
   }
