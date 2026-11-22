@@ -25,17 +25,15 @@
 <p class="sal-note">Each one opens its letter.</p>
 <div class="sal-detail" aria-live="polite" data-sal-detail></div>
 <div class="dear">
+<p class="where">{{ range $i, $l := .Params.where }}{{ if $i }}<br>{{ end }}{{ $l }}{{ end }}</p>
 <h1 id="pitch"><span class="dot" aria-hidden="true"></span>Dear reader,</h1>
 <div class="body">
-<p class="where">{{ range $i, $l := .Params.where }}{{ if $i }}<br>{{ end }}{{ $l }}{{ end }}</p>
 {{ range .Params.paragraphs }}<p class="t">{{ . }}</p>{{ end }}
-<div class="close">
-<span class="v">{{ .Params.valediction }}</span>
-<span class="s">Paper Lanterns{{ partial "logo.html" (dict "w" 33 "sw" 1.3) }}</span>
-</div>
+<p class="close"><span class="v">{{ .Params.valediction }}</span><span class="s">Paper Lanterns{{ partial "logo.html" (dict "w" 30 "sw" 1.4) }}</span></p>
+{{- /* The postscripts are the page's two ways in, so each is one whole row to tap, lifted onto the grey wash. */}}
 <div class="ps">
-<p><span class="mark">P.S.</span>{{ .Params.featured_text }} <a href="{{ $featured.RelPermalink }}">Read it →</a></p>
-<p><span class="mark">P.P.S.</span>Whole books are here too: {{ len $books }} {{ cond (eq (len $books) 1) "collection" "collections" }} with {{ lang.FormatNumber 0 (len $letters) }} letters to read or take with you. <a href="{{ "/collections/" | relURL }}">Browse them →</a></p>
+<a class="ps-row" href="{{ $featured.RelPermalink }}"><span class="mark">P.S.</span><span class="txt">{{ .Params.featured_text }}<span class="go">Read it</span></span><span class="arr" aria-hidden="true">→</span></a>
+<a class="ps-row" href="{{ "/collections/" | relURL }}"><span class="mark">P.P.S.</span><span class="txt">Whole books are here too: {{ len $books }} {{ cond (eq (len $books) 1) "collection" "collections" }} with {{ lang.FormatNumber 0 (len $letters) }} letters to read or take with you.<span class="go">Browse them</span></span><span class="arr" aria-hidden="true">→</span></a>
 </div>
 </div>
 </div>

@@ -12,4 +12,6 @@ valediction = "Yours, across the centuries,"
 # The P.S. points at one letter; the build fails if this page does not exist.
 featured_letter = "/collections/dostoevsky-family-friends-1914/20"
 featured_text = "Begin with the letter Dostoevsky wrote on the evening he was spared."
+# The same letter's note on its book's year chart, after the date.
+featured_note = "the evening he was spared"
 +++

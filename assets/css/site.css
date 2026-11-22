@@ -248,30 +248,44 @@ html[data-theme="night"] .salutations a { color: var(--ink-3); }
 .sal-note { margin: 16px 0 0; font-size: 16px; color: var(--ink-3); }
 .sal-detail { margin-top: 12px; min-height: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; font-size: 17px; color: var(--ink-2); }
 .sal-detail .book { font-style: italic; color: var(--ink-3); }
-.dear { margin-top: 32px; display: flex; flex-wrap: wrap; gap: 24px 96px; align-items: flex-start; }
-.dear h1 { flex: 1 1 420px; display: flex; align-items: baseline; gap: 14px; font-style: italic; font-size: clamp(56px, 8.4vw + 16px, 128px); line-height: 0.95; letter-spacing: -0.035em; }
-.dear h1 .dot { flex: none; width: 0.16em; height: 0.16em; border-radius: 50%; background: var(--lamp); transform: translateY(-0.12em); }
-.dear .body { flex: 1 1 440px; max-width: 580px; padding-top: 8px; }
-.dear .where { margin: 0 0 28px; text-align: right; font-size: 18px; line-height: 1.45; font-style: italic; color: var(--ink-2); }
-.dear .body > p.t { margin: 0; font-size: 20px; line-height: 1.6; text-indent: 1.4em; }
-.dear .body > p.t + p.t { margin-top: 16px; }
-.dear .close { margin-top: 32px; display: flex; flex-direction: column; align-items: flex-end; gap: 4px; font-size: 20px; font-style: italic; line-height: 1.4; }
-.dear .close .v { padding-right: 2em; }
-.dear .close .s { display: inline-flex; align-items: center; gap: 12px; }
-.ps { margin-top: 36px; padding-top: 20px; border-top: 1px solid var(--rule); display: flex; flex-direction: column; gap: 14px; font-size: 18px; line-height: 1.55; }
-.ps p { margin: 0; }
-.ps .mark { font-style: italic; color: var(--ink-3); margin-right: 8px; }
-.ps a { display: inline-flex; align-items: center; min-height: 44px; white-space: nowrap; text-decoration: underline; text-underline-offset: 0.2em; text-decoration-thickness: 1px; }
+/* The letter: dateline, then the salutation with its dot hung in the margin so the words line up with the body.
+   On phones the sheet is narrower than the page; from 761px the salutation sits beside the body. */
+.dear { --hang: 18px; margin-top: 48px; padding: 0 16px; display: flex; flex-wrap: wrap; gap: 0 96px; align-items: flex-start; }
+.dear .where { flex: 1 0 100%; margin: 0; text-align: right; font-size: 17px; line-height: 1.45; font-style: italic; color: var(--ink-2); }
+.dear h1 { flex: 1 1 420px; margin: 28px 0 0 calc(-1 * var(--hang)); display: flex; align-items: baseline; gap: 10px; font-style: italic; font-size: clamp(56px, 8.4vw + 16px, 128px); line-height: 0.95; letter-spacing: -0.035em; }
+.dear h1 .dot { flex: none; width: 8px; height: 8px; border-radius: 50%; background: var(--lamp); transform: translateY(-0.1em); }
+.dear .body { flex: 1 1 440px; max-width: 580px; padding-top: 24px; }
+.dear .body > p.t { margin: 0; font-size: 19px; line-height: 1.62; color: var(--ink-body); hyphens: auto; -webkit-hyphens: auto; }
+.dear .body > p.t + p.t { text-indent: 1.3em; }
+.dear .close { margin: 28px 0 0; padding-left: 38%; font-size: 19px; font-style: italic; line-height: 1.5; }
+.dear .close .v { display: block; }
+.dear .close .s { display: inline-flex; align-items: center; gap: 10px; padding-left: 1.2em; }
+/* Lifted postscripts: on the grey wash out to the sheet's edges, each one a whole row to tap with the arrow at the thumb. */
+.ps { margin: 40px calc(-16px - var(--gutter)) 0; padding: 8px calc(16px + var(--gutter)) 12px; background: var(--wash); }
+.ps-row { display: grid; grid-template-columns: 52px minmax(0, 1fr) 24px; align-items: start; gap: 0 4px; min-height: 44px; padding: 18px 0; color: var(--ink); text-decoration: none; font-size: 18px; line-height: 1.5; }
+.ps-row + .ps-row { border-top: 1px solid var(--rule); }
+.ps-row .mark { font-style: italic; color: var(--lamp); }
+.ps-row .go { display: block; margin-top: 6px; font-style: italic; color: var(--ink-2); text-decoration: underline; text-underline-offset: 0.2em; text-decoration-thickness: 1px; }
+.ps-row .arr { justify-self: end; font-size: 20px; line-height: 1.35; }
+.ps-row:focus-visible { outline: 2px solid var(--lamp); outline-offset: 2px; }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .ps-row .arr { transition: transform 0.15s ease; }
+  .ps-row:hover .arr { transform: translateX(3px); }
+}
+@media (hover: hover) { .ps-row:hover .go { color: var(--ink); text-decoration-color: var(--lamp); } }
 @media (min-width: 761px) {
   .pitch { padding-top: 56px; padding-bottom: 120px; }
   .pitch .kicker { font-size: 17px; }
   .sal-detail { margin-top: 28px; min-height: 56px; font-size: 18px; gap: 8px 16px; }
-  .dear h1 { gap: 18px; }
-  .dear .body > p.t { font-size: 23px; }
-  .dear .body > p.t + p.t { margin-top: 18px; }
+  .dear { --hang: calc(0.16em + 18px); margin-top: 56px; padding: 0; }
+  .dear .where { font-size: 18px; }
+  .dear h1 { gap: 18px; margin-top: 20px; }
+  .dear h1 .dot { width: 0.16em; height: 0.16em; transform: translateY(-0.12em); }
+  .dear .body { padding-top: 28px; }
+  .dear .body > p.t { font-size: 23px; line-height: 1.6; }
   .dear .close { font-size: 21px; margin-top: 36px; }
-  .dear .close .v { padding-right: 3.2em; }
-  .ps { font-size: 19px; margin-top: 40px; padding-top: 24px; }
+  .ps { margin: 44px -24px 0; padding: 8px 24px 12px; }
+  .ps-row { font-size: 19px; }
 }
 
 .cols-sec { padding-top: var(--section); padding-bottom: var(--section); }
@@ -442,13 +456,27 @@ html[data-theme="night"] .salutations a { color: var(--ink-3); }
 @media (min-width: 761px) { .parts { flex-direction: row; flex-wrap: wrap; gap: 8px 28px; } }
 
 .years-sec { padding-top: var(--section); padding-bottom: var(--section); }
-.year-chart .band-rule { stroke: var(--rule-2); stroke-width: 1; }
-.year-chart .band-label { font-size: 19px; font-style: italic; fill: var(--ink-2); }
-.year-chart .stroke { fill: var(--ink); }
+/* The chart sits on the grey edition box, so bands are a tint of the ink rather than the wash; it works in both themes. */
+.year-chart .band { fill: color-mix(in srgb, var(--ink) 6%, transparent); }
+.year-chart .band-edge { stroke: var(--rule-2); stroke-width: 1; }
+.year-chart .band-label { font-size: 22px; font-style: italic; letter-spacing: -0.015em; fill: var(--ink-3); }
+.year-chart .band-label.on { fill: var(--ink); }
+.year-chart .blk { fill: var(--ink); }
+.year-chart .blk.lit { fill: var(--lamp); }
+.year-chart .n { font-size: 13px; font-style: italic; fill: var(--ink-4); font-variant-numeric: oldstyle-nums; }
+.year-chart .n.peak { font-size: 19px; fill: var(--ink); }
+.year-chart .gap-label { font-size: 19px; font-style: italic; fill: var(--ink-2); }
+.year-chart .gap-bracket { fill: none; stroke: var(--ink-4); stroke-width: 1; }
+.year-chart .feat-line { stroke: var(--lamp); stroke-width: 1; }
+.year-chart .feat-note { font-size: 16px; font-style: italic; fill: var(--lamp); }
 .year-chart .base { stroke: var(--ink); stroke-width: 1; }
-.year-chart .gap-label { font-size: 16px; font-style: italic; fill: var(--ink-4); }
 .year-chart .tick-line { stroke: var(--ink); stroke-width: 1; }
 .year-chart .tick { font-size: 15px; font-style: italic; fill: var(--ink-3); font-variant-numeric: oldstyle-nums; }
+.yc-key { list-style: none; margin: 20px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 10px 32px; font-size: 15px; color: var(--ink-3); }
+.yc-key li { display: inline-flex; align-items: flex-start; gap: 8px; line-height: 1.45; }
+.yc-key .sw { flex: none; width: 14px; height: 7px; margin-top: 0.5em; background: var(--ink); }
+.yc-key .sw.band { width: 18px; height: 12px; margin-top: 0.3em; background: color-mix(in srgb, var(--ink) 6%, transparent); box-shadow: inset 1px 0 0 var(--rule-2); }
+.yc-key .sw.lit { background: var(--lamp); }
 
 .contents { border-top: 1px solid var(--ink); }
 .contents > .wrap { padding-top: var(--section); padding-bottom: var(--section); }

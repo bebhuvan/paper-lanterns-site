@@ -1,52 +1,140 @@
-{{- /* One stroke per dated letter per year, under the writer's life periods. Context: the book page. */ -}}
+{{- /* Year by year: one small block per dated letter, stacked by year, with each year's count above its stack.
+       The writer's life periods, when the book has them, are bands across the full height, named above.
+       The longest silence of three or more years is named and bracketed. If the home page's P.S. letter is in this
+       book, its block is lit and a leader line runs up to a short note. Context: the book page.
+       Draws in a 1000-unit-wide viewBox; the chart box scrolls sideways on phones. */ -}}
 {{- $yc := .Params.year_counts -}}
-{{- $periods := .Params.periods -}}
-{{- $lo := float (index (index $yc 0) 0) -}}
-{{- $hi := add (float (index (index $yc (sub (len $yc) 1)) 0)) 1 -}}
+{{- $periods := .Params.periods | default slice -}}
+{{- $W := 1000.0 -}}
+{{- $first := int (index (index $yc 0) 0) -}}
+{{- $last := int (index (index $yc (sub (len $yc) 1)) 0) -}}
+{{- $lo := float $first -}}{{- $hi := add (float $last) 1 -}}
 {{- range $periods -}}
 {{- $s := partial "year-frac.html" .start -}}{{- $e := partial "year-frac.html" .end -}}
 {{- if lt $s $lo }}{{ $lo = $s }}{{ end }}{{ if gt $e $hi }}{{ $hi = $e }}{{ end -}}
 {{- end -}}
 {{- $lo = sub (math.Floor $lo) 1 -}}{{- $hi = add (math.Ceil $hi) 1 -}}
-{{- $scale := div 1000.0 (sub $hi $lo) -}}
-{{- $maxN := 0 -}}{{- range $yc }}{{ if gt (int (index . 1)) $maxN }}{{ $maxN = int (index . 1) }}{{ end }}{{ end -}}
-{{- /* Strokes stack 6.5 units apart, compressed so the busiest year stays within 160; long spans get thinner strokes and sparser ticks. */ -}}
-{{- $gap := 6.5 -}}{{- if gt (mul $maxN 6.5) 160 }}{{ $gap = div 160.0 $maxN }}{{ end -}}
-{{- $sw := math.Min 16 (mul $scale 0.8) -}}
+{{- $scale := div $W (sub $hi $lo) -}}
+
+{{- $maxN := 0 -}}{{- $peakYear := 0 -}}
+{{- range $yc }}{{ if gt (int (index . 1)) $maxN }}{{ $maxN = int (index . 1) }}{{ $peakYear = int (index . 0) }}{{ end }}{{ end -}}
+{{- /* Blocks are 14 by 7 with a 3 gap; long spans narrow them and very busy years shorten them so the tallest stack stays within 170. */ -}}
+{{- $bw := math.Min 14 (mul $scale 0.72) -}}
+{{- $unit := 10.0 -}}{{- if gt (mul $maxN 10) 170 }}{{ $unit = div 170.0 $maxN }}{{ end -}}
+{{- $bh := mul $unit 0.7 -}}
+{{- $showCounts := ge $scale 16 -}}
+
+{{- /* The featured letter, if it belongs to this book. */ -}}
+{{- $feat := site.GetPage site.Home.Params.featured_letter -}}
+{{- $featYear := 0 -}}{{- $featIdx := -1 -}}{{- $featN := 0 -}}
+{{- if and $feat (eq $feat.Parent.RelPermalink .RelPermalink) $feat.Params.letter_date.iso -}}
+{{- $featYear = int (index (split $feat.Params.letter_date.iso "-") 0) -}}
+{{- $same := slice -}}
+{{- range sort (where (where site.RegularPages "Params.book_id" .Params.book_id) "Params.letter_date.iso" "!=" "") "Params.letter_date.iso" -}}
+{{- if eq (int (index (split .Params.letter_date.iso "-") 0)) $featYear }}{{ $same = $same | append . }}{{ end -}}
+{{- end -}}
+{{- range $i, $l := $same }}{{ if eq $l.RelPermalink $feat.RelPermalink }}{{ $featIdx = $i }}{{ end }}{{ end -}}
+{{- end -}}
+
+{{- /* Period names go in up to three rows; a name drops a row when it would run into the one before it. */ -}}
+{{- $rows := slice -}}{{- $rowEnd := slice -1000.0 -1000.0 -1000.0 -}}{{- $rowsUsed := 0 -}}
+{{- range $periods -}}
+{{- $x0 := mul (sub (partial "year-frac.html" .start) $lo) $scale -}}
+{{- $w := mul (len .label) 9.6 -}}
+{{- $r := 2 -}}
+{{- range $k := seq 2 0 }}{{ if gt (add $x0 2) (index $rowEnd $k) }}{{ $r = $k }}{{ end }}{{ end -}}
+{{- $newEnd := slice -}}{{- range $k, $v := $rowEnd }}{{ $newEnd = $newEnd | append (cond (eq $k $r) (add (add $x0 $w) 18) $v) }}{{ end }}{{ $rowEnd = $newEnd -}}
+{{- $rows = $rows | append $r -}}{{- if ge $r $rowsUsed }}{{ $rowsUsed = add $r 1 }}{{ end -}}
+{{- end -}}
+{{- $T := 0.0 -}}{{- if $periods }}{{ $T = add (mul $rowsUsed 28) 10.0 }}{{ end -}}
+{{- $blocksH := mul $maxN $unit -}}
+{{- $Hc := math.Max 200 (add $blocksH 122) -}}
+{{- $base := add $T $Hc -}}
+{{- $room := sub $Hc (add $blocksH 22) -}}
+
+{{- /* The longest run of years with no letter. */ -}}
+{{- $prev := 0 -}}{{- $gapLen := 0 -}}{{- $gapAt := 0 -}}
+{{- range $yc -}}
+{{- $y := int (index . 0) -}}
+{{- if and $prev (gt (sub (sub $y $prev) 1) $gapLen) }}{{ $gapLen = sub (sub $y $prev) 1 }}{{ $gapAt = add $prev 1 }}{{ end -}}
+{{- $prev = $y -}}
+{{- end -}}
+{{- $words := dict "3" "three" "4" "four" "5" "five" "6" "six" "7" "seven" "8" "eight" "9" "nine" "10" "ten" -}}
+{{- $gapWord := index $words (string $gapLen) | default (string $gapLen) -}}
+
 {{- $span := sub $hi $lo -}}
 {{- $every := 5 -}}{{- if gt $span 60 }}{{ $every = 10 }}{{ end }}{{ if gt $span 150 }}{{ $every = 50 }}{{ end }}{{ if gt $span 500 }}{{ $every = 100 }}{{ end -}}
-{{- $top := cond (gt (len $periods) 0) 96 20 -}}
-{{- $base := add (add $top (mul $maxN $gap)) 24 -}}
-{{- $H := add $base 36 -}}
-<svg class="year-chart" viewBox="0 0 1000 {{ $H }}" role="img" aria-label="{{ .Params.counts.dated_letters }} dated letters by year, {{ int (index (index $yc 0) 0) }} to {{ int (index (index $yc (sub (len $yc) 1)) 0) }}{{ with $periods }}, set against the periods of the writer's life{{ end }}.">
+{{- $H := add $base 40 -}}
+{{- $label := printf "%d dated letters by year, %d to %d, each letter a small block" (int .Params.counts.dated_letters) $first $last -}}
+{{- with $periods }}{{ $label = printf "%s, set against the periods of the writer’s life" $label }}{{ end -}}
+{{- if ge $gapLen 3 }}{{ $label = printf "%s. None survive from %d to %d" $label $gapAt (add $gapAt (sub $gapLen 1)) }}{{ end -}}
+{{- $label = printf "%s. The busiest year is %d, with %d %s." $label $peakYear $maxN (cond (eq $maxN 1) "letter" "letters") -}}
+<div class="chart-box" tabindex="0" role="region" aria-label="Year chart, scrolls sideways">
+{{- $g0 := 0.0 -}}{{- $g1 := 0.0 -}}{{- $gm := 0.0 -}}{{- $gy := 0.0 -}}{{- $gx := 0.0 -}}{{- $gAnchor := "middle" -}}{{- $gL := 0.0 -}}{{- $gR := 0.0 -}}
+{{- if ge $gapLen 3 -}}
+{{- $g0 = mul (sub (float $gapAt) $lo) $scale -}}{{- $g1 = mul (sub (float (add $gapAt $gapLen)) $lo) $scale -}}
+{{- $gm = div (add $g0 $g1) 2 -}}{{- $gy = add $T (math.Max 30 (mul $room 0.42)) -}}
+{{- /* Centred over the silence when it fits; otherwise it starts at the silence and runs on to the right. */ -}}
+{{- $tw := 118.0 -}}{{- $gx = $gm -}}{{- $gL = sub $gm (div $tw 2) -}}
+{{- if gt $tw (sub $g1 $g0) }}{{ $gAnchor = "start" }}{{ $gx = add $g0 10 }}{{ $gL = $gx }}{{ end -}}
+{{- $gR = add $gL $tw -}}
+{{- end -}}
+<svg class="year-chart" viewBox="0 0 1000 {{ $H }}" role="img" aria-label="{{ $label }}">
 {{- range $i, $p := $periods -}}
 {{- $x0 := mul (sub (partial "year-frac.html" $p.start) $lo) $scale -}}
 {{- $x1 := mul (sub (partial "year-frac.html" $p.end) $lo) $scale -}}
-{{- /* Three staggered rows so short periods keep readable labels. */ -}}
-<text class="band-label" x="{{ add $x0 3 }}" y="{{ add 20 (mul (mod $i 3) 24) }}">{{ $p.label }}</text>
-<line class="band-rule" x1="{{ add $x0 1 }}" y1="80" x2="{{ sub $x1 1 }}" y2="80"/>
-<line class="band-rule" x1="{{ add $x0 1 }}" y1="{{ add 26 (mul (mod $i 3) 24) }}" x2="{{ add $x0 1 }}" y2="80"/>
+{{- $shade := eq (mod $i 2) 1 -}}
+{{- $ly := add (mul (index $rows $i) 28) 22 -}}
+{{- if $shade }}<rect class="band" x="{{ $x0 }}" y="{{ $T }}" width="{{ sub $x1 $x0 }}" height="{{ $Hc }}"/>{{ end -}}
+{{- /* An edge that would cross the silence's label steps around it. */ -}}
+{{- if and (ge $gapLen 3) (ge $x0 (sub $gL 6)) (le $x0 (add $gR 6)) -}}
+<line class="band-edge" x1="{{ $x0 }}" y1="{{ add $ly 8 }}" x2="{{ $x0 }}" y2="{{ sub $gy 22 }}"/><line class="band-edge" x1="{{ $x0 }}" y1="{{ add $gy 50 }}" x2="{{ $x0 }}" y2="{{ $base }}"/>
+{{- else -}}
+<line class="band-edge" x1="{{ $x0 }}" y1="{{ add $ly 8 }}" x2="{{ $x0 }}" y2="{{ $base }}"/>
 {{- end -}}
-{{- $prev := 0 -}}{{- $gapLen := 0 -}}{{- $gapAt := 0 -}}
-{{- range $yc -}}
-{{- $y := int (index . 0) -}}{{- $n := int (index . 1) -}}
-{{- if and $prev (gt (sub (sub $y $prev) 1) $gapLen) }}{{ $gapLen = sub (sub $y $prev) 1 }}{{ $gapAt = add $prev 1 }}{{ end -}}
-{{- $prev = $y -}}
-{{- $x := mul (sub (add (float $y) 0.5) $lo) $scale -}}
-{{- range $j := seq 0 (sub $n 1) -}}
-<rect class="stroke" x="{{ sub $x (div $sw 2) }}" y="{{ sub (sub $base 7) (mul $j $gap) }}" width="{{ $sw }}" height="1.5"/>
-{{- end -}}
+<text class="band-label{{ if $shade }} on{{ end }}" x="{{ add $x0 6 }}" y="{{ $ly }}">{{ $p.label }}</text>
 {{- end -}}
 {{- if ge $gapLen 3 -}}
-<text class="gap-label" x="{{ add (mul (sub (float $gapAt) $lo) $scale) 4 }}" y="{{ add $top 4 }}">{{ $gapLen }} years without a letter</text>
+<text class="gap-label" text-anchor="{{ $gAnchor }}" x="{{ $gx }}" y="{{ $gy }}">{{ $gapWord }} years</text>
+<text class="gap-label" text-anchor="{{ $gAnchor }}" x="{{ $gx }}" y="{{ add $gy 22 }}">without a letter</text>
+<path class="gap-bracket" d="M{{ add $g0 8 }} {{ add $gy 34 }}V{{ add $gy 43 }}H{{ sub $g1 8 }}V{{ add $gy 34 }}"/>
+{{- end -}}
+{{- range $yc -}}
+{{- $y := int (index . 0) -}}{{- $n := int (index . 1) -}}
+{{- $x := mul (sub (add (float $y) 0.5) $lo) $scale -}}
+{{- if eq $y $featYear }}{{ $featN = $n }}{{ end -}}
+{{- range $j := seq 0 (sub $n 1) -}}
+<rect class="blk{{ if and (eq $y $featYear) (eq $j $featIdx) }} lit{{ end }}" x="{{ sub $x (div $bw 2) }}" y="{{ sub (sub (sub $base 4) $bh) (mul $j $unit) }}" width="{{ $bw }}" height="{{ $bh }}"/>
+{{- end -}}
+{{- if or $showCounts (eq $n $maxN) -}}
+<text class="n{{ if eq $n $maxN }} peak{{ end }}" text-anchor="middle" x="{{ $x }}" y="{{ sub (sub $base 6) (mul $n $unit) }}">{{ $n }}</text>
+{{- end -}}
+{{- end -}}
+{{- if ge $featIdx 0 -}}
+{{- $fx := mul (sub (add (float $featYear) 0.5) $lo) $scale -}}
+{{- $note := site.Home.Params.featured_note -}}
+{{- $nw := mul (math.Max (len $feat.Params.letter_date.display) (len $note)) 7.6 -}}
+{{- $start := lt (sub $fx (add $nw 14)) 0 -}}
+<line class="feat-line" x1="{{ $fx }}" y1="{{ add $T 8 }}" x2="{{ $fx }}" y2="{{ sub (sub $base 26) (mul $featN $unit) }}"/>
+<text class="feat-note" text-anchor="{{ cond $start "start" "end" }}" x="{{ cond $start (add $fx 14) (sub $fx 14) }}" y="{{ add $T 24 }}">{{ $feat.Params.letter_date.display }}{{ with $note }},</text>
+<text class="feat-note" text-anchor="{{ cond $start "start" "end" }}" x="{{ cond $start (add $fx 14) (sub $fx 14) }}" y="{{ add $T 46 }}">{{ . }}{{ end }}</text>
 {{- end -}}
 <line class="base" x1="0" y1="{{ $base }}" x2="1000" y2="{{ $base }}"/>
 {{- range $t := seq (int $lo) (int $hi) -}}
 {{- if eq (mod $t $every) 0 -}}
 {{- $x := mul (sub (float $t) $lo) $scale -}}
-<line class="tick-line" x1="{{ $x }}" y1="{{ $base }}" x2="{{ $x }}" y2="{{ add $base 5 }}"/>
-<text class="tick" x="{{ $x }}" y="{{ add $base 24 }}" text-anchor="middle">{{ $t }}</text>
+<line class="tick-line" x1="{{ $x }}" y1="{{ $base }}" x2="{{ $x }}" y2="{{ add $base 6 }}"/>
+{{- /* A year label at the very edge would be cut in half; its tick stays. */ -}}
+{{- if and (gt $x 24) (lt $x 976) }}<text class="tick" x="{{ $x }}" y="{{ add $base 26 }}" text-anchor="middle">{{ $t }}</text>{{ end }}
 {{- end -}}
 {{- end -}}
 </svg>
+</div>
+<p class="swipe-hint" aria-hidden="true">Swipe sideways to see every year →</p>
+<ul class="yc-key">
+<li><span class="sw blk" aria-hidden="true"></span>One dated letter</li>
+{{- with $periods }}<li><span class="sw band" aria-hidden="true"></span>Periods of the writer’s life, from the book’s own chronology</li>{{ end }}
+{{- if ge $featIdx 0 }}<li><span class="sw lit" aria-hidden="true"></span>The letter in the home page’s P.S.</li>{{ end }}
+{{- if $showCounts }}<li>The number above each year is its count of letters.</li>{{ else }}<li>The number marks the busiest year.</li>{{ end }}
+</ul>
 {{- /**/ -}}

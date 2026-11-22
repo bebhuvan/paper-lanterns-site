@@ -377,6 +377,23 @@ how the site is built; say why if you overturn one.
 - **Left in place on purpose:** the old Pages project and the old collections Worker, until the owner agrees to
   delete them. The unused `paper-lanterns-site` Pages project from D26 was deleted with the owner's OK.
 
+## D29. Home letter and year chart redrawn from the approved canvas (2026-11-22)
+
+- **Home:** the dateline now comes before "Dear reader,". The dot hangs in the margin, so the words line up with
+  the body. On phones the letter sits on a narrower sheet. Paragraphs are indented, with no gap between them. The
+  sign-off starts 38% from the left. Each postscript is one whole row you can tap, on the grey wash. Approved by the
+  owner on their phone; the opening words are not in small caps.
+- **Year chart:** one 14×7 block per dated letter, stacked by year, with each year's count above (the busiest year
+  larger). The writer's periods are bands across the full height, named above. The longest silence of three years
+  or more is named and bracketed. The block for the home page's P.S. letter is in the lamp colour, with a leader
+  line up to its date and `featured_note` (from `content/_index.md`). Everything comes from each book's
+  `year_counts` and `periods`.
+- **Which periods are shaded:** every second one. The canvas shaded only Dostoevsky's prison and exile, but the
+  pipeline's data says nothing about which periods were hardships. Choosing them would mean hand-editing each book,
+  so it waits until the owner asks for it.
+- **Rejected:** HTML blocks with inline positions, as the canvas drew them. The CSP forbids inline styles, so the
+  chart stays an SVG and scrolls inside its own box on phones.
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should

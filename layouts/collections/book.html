@@ -135,9 +135,8 @@
 {{- with .Params.year_counts }}
 <div class="ed-block">
 <h3 id="years">Year by year</h3>
-<p class="ed-note">One stroke for each dated letter{{ with $p.Params.periods }}, set against the places of the writer’s life as the book’s own chronology gives them{{ end }}.</p>
-<div class="chart-box" tabindex="0" role="region" aria-label="Year chart, scrolls sideways">{{ partial "year-chart.html" $p }}</div>
-<p class="swipe-hint" aria-hidden="true">Swipe sideways to see every year →</p>
+<p class="ed-note">One block for each dated letter{{ with $p.Params.periods }}, set against the places of the writer’s life as the book’s own chronology gives them{{ end }}. The silences say as much as the letters.</p>
+{{ partial "year-chart.html" $p }}
 </div>
 {{- end }}
 
