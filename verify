@@ -37,7 +37,7 @@ echo "assets/js/site.js OK"
 
 step "[4/9] Script tests (sync, site checker, share-card images)"
 python3 -I -m unittest discover -s tests
-node --test tests/
+node --test tests/*.test.mjs
 
 step "[5/9] Synced content matches the pipeline output and the old site's files"
 if [[ -d "$PIPELINE/library" ]]; then
