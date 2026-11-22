@@ -1,0 +1,67 @@
+/* Share cards (D31), drawn at 1200×630 by scripts/og_cards.mjs. Sizes are the approved design's, in pixels of the image.
+   Always the day palette: a shared picture has one look. Loaded after site.css, so covers keep their own styles. */
+
+html, body.og { margin: 0; width: 1200px; height: 630px; overflow: hidden; background: #ffffff; }
+body.og {
+  --paper: #ffffff; --ink: #121214; --ink-2: #45454b; --ink-3: #66666d; --rule: #e4e4e7; --wash: #f5f5f6; --lamp: #c8361b;
+  position: relative; color: var(--ink); font-family: var(--text-serif); font-weight: 400; font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased; text-rendering: geometricPrecision;
+}
+.og p { margin: 0; }
+.og .brand { display: flex; align-items: center; gap: 14px; font-size: 30px; font-style: italic; line-height: 1; color: var(--ink); white-space: nowrap; }
+.og .brand svg { width: 48px; height: 32px; flex: none; }
+.og .brand .lantern-string { stroke: var(--ink); }
+.og .brand .lantern-lit { fill: var(--lamp); }
+.og .brand .lantern-hollow { fill: var(--paper); stroke: var(--ink); }
+.og .dot { display: inline-block; flex: none; width: 14px; height: 14px; border-radius: 50%; background: var(--lamp); }
+.og > .foot { position: absolute; left: 80px; right: 80px; bottom: 56px; display: flex; justify-content: space-between; align-items: center; gap: 24px; }
+.og .meta { font-size: 28px; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+
+/* Home */
+.og-home .where { position: absolute; top: 64px; right: 80px; text-align: right; font-size: 28px; line-height: 1.4; font-style: italic; color: var(--ink-2); }
+.og-home .dear { position: absolute; left: 80px; top: 170px; display: flex; align-items: baseline; gap: 22px;
+  font-style: italic; font-size: 150px; line-height: 1; letter-spacing: -0.035em; }
+.og-home .dear .dot { transform: translateY(-14px); }
+.og-home .line { position: absolute; left: 80px; top: 352px; width: 820px; font-size: 34px; line-height: 1.4; }
+
+/* Book: the plate fills the left 400px. */
+.og-book .plate { position: absolute; inset: 0 auto 0 0; width: 400px; background: var(--wash); overflow: hidden; }
+.og-book .plate img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 45%; display: block; }
+.og-book .text { position: absolute; left: 464px; right: 72px; top: 60px; bottom: 56px; display: flex; flex-direction: column; }
+.og-book .text .title { margin-top: 46px; font-size: 52px; line-height: 1.12; letter-spacing: -0.02em; text-wrap: balance; }
+.og-book .text .title.s1 { font-size: 46px; }
+.og-book .text .title.s2 { font-size: 41px; }
+.og-book .text .title.s3 { font-size: 37px; }
+.og-book .text .by { margin-top: 20px; font-size: 28px; line-height: 1.35; font-style: italic; color: var(--ink-2);
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.og-book .bottom { margin-top: auto; display: flex; align-items: center; gap: 14px; padding-top: 22px; border-top: 1px solid var(--rule); }
+
+/* A book with no frontispiece shows its typographic cover from the site, set to fill the plate. */
+.og-book .plate .cover-card { display: block; height: 100%; }
+.og-book .plate .cover-card > :not(.cover) { display: none; }
+.og-book .plate .cover { height: 100%; aspect-ratio: auto; box-sizing: border-box; padding: 44px 40px 36px; box-shadow: none; }
+.og-book .plate .cover .top, .og-book .plate .cover .foot { font-size: 17px; }
+.og-book .plate .cover .hero { font-size: 46px; }
+.og-book .plate .cover .hero.title { font-size: 34px; -webkit-line-clamp: 6; }
+.og-book .plate .cover .hero.pair { font-size: 34px; }
+.og-book .plate .cover .pair-glyph { width: 64px; }
+.og-book .plate .cover .sub { margin-top: 12px; font-size: 18px; -webkit-line-clamp: 4; }
+.og-book .plate .cover .foot { margin-top: 16px; padding-top: 10px; }
+/* The plate is taller than a cover: keep every part at its own height rather than letting flex squeeze them together. */
+.og-book .plate .cover > * { flex-shrink: 0; }
+
+/* Letter: the letter's own first words are the picture. */
+.og-letter .head { position: absolute; left: 80px; top: 64px; right: 80px; display: flex; align-items: center; gap: 14px;
+  font-size: 26px; line-height: 1.2; color: var(--ink-3); font-variant-numeric: tabular-nums; white-space: nowrap; overflow: hidden; }
+.og-letter .q { position: absolute; left: 80px; top: 140px; width: 1000px; font-style: italic; font-size: 62px; line-height: 1.16;
+  letter-spacing: -0.02em; text-wrap: balance; overflow-wrap: break-word; }
+.og-letter .q.s1 { font-size: 56px; }
+.og-letter .q.s2 { font-size: 50px; }
+.og-letter .q.s3 { font-size: 46px; }
+.og-letter .who { position: absolute; left: 80px; right: 80px; top: 392px; font-size: 30px; line-height: 1.4; color: var(--ink); }
+/* A name line longer than two lines is a heading the book printed in place of names; it is cut with an ellipsis. */
+.og-letter .who .n { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.og-letter .who .d { display: block; color: var(--ink-2); font-size: 27px; }
+.og-letter .who.s1 { font-size: 26px; }
+.og-letter .who.s1 .d { font-size: 24px; }
+.og-letter > .foot { border-top: 1px solid var(--rule); padding-top: 22px; bottom: 48px; }

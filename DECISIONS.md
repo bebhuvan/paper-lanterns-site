@@ -419,6 +419,37 @@ how the site is built; say why if you overturn one.
   (indents already mark them, and letters were printed that way); justified text on phones (gaps open between
   words).
 
+## D31. Share cards for the home page, every book and every letter (2026-11-22)
+
+- **What:** every page now names a 1200×630 share card (`og:image`, with its size and alt text, and
+  `twitter:card` `summary_large_image`), served from paperlanterns.ink itself. Before, book and letter pages
+  hotlinked a portrait scan from archive.org and every other page had no image. The design was approved by the
+  owner from a canvas: the home card is "Dear reader," with the site's description and live counts; a book card
+  sets its frontispiece plate beside the title, subtitle, year, letter count and span of years; a letter card makes
+  the letter's first words the picture, with names, date and place. Lists, People, Explore and essays use the home
+  card.
+- **How:** Hugo writes a `card.html` beside each of those pages (an output format, `layouts/**/*.ogcard.html`),
+  so the data, counts and escaping stay in Hugo's templates and its HTML escaping covers every title and name.
+  `scripts/og_cards.mjs` opens each in the headless Chromium the phone-width check already uses, steps long text
+  down until it fits, saves the image beside the page and deletes the `card.html`. No new dependency: a browser was
+  already required, and Node's built-in modules do the rest. Hugo's own image tools were rejected because they
+  cannot set italic Newsreader with kerning, wrap balanced lines or draw the cover; a Worker that draws cards on
+  request was rejected because the site stays static.
+- **Size:** letter cards are palette PNGs (`scripts/png_palette.mjs` keeps the 256 commonest colours; about 35 KB
+  instead of 80 KB from Chromium), and cards with a photographed plate are JPEG at quality 88. Drawn cards are
+  cached in `.cache/og/` by a hash of their page, the fonts and the scripts, so a rebuild draws only what changed;
+  CI restores the same cache.
+- **Books without a frontispiece** (23 of 39) show their typographic cover from the site in the plate's place.
+  The plates are fetched once from the Internet Archive by `scripts/fetch_plates.py` and committed under
+  `assets/og/plates/`, so builds and tests never use the network.
+- **Never a guess:** a card whose text cannot be fitted stops the build. Two data quirks are handled openly
+  instead: a subtitle that repeats the title is left out, and a name line longer than two lines (a heading the
+  book printed where names would be) is cut with an ellipsis.
+- **Not in the address ledger:** card images are named by each page's `og:image` tag and never linked for readers,
+  and a card may change from PNG to JPEG when a book gains a plate, so `scripts/addresses.py` leaves them out.
+- **Letter number:** the card says "Letter XX of 87" with the book's own numbering, stripped of "LETTER", dots and
+  brackets, or the letter's place in the book where it has none or where the record holds a heading there instead.
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should

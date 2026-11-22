@@ -35,8 +35,9 @@ step "[3/9] JavaScript parses"
 node --check assets/js/site.js
 echo "assets/js/site.js OK"
 
-step "[4/9] Script tests (sync and site checker)"
+step "[4/9] Script tests (sync, site checker, share-card images)"
 python3 -I -m unittest discover -s tests
+node --test tests/
 
 step "[5/9] Synced content matches the pipeline output and the old site's files"
 if [[ -d "$PIPELINE/library" ]]; then
@@ -55,10 +56,12 @@ else
   echo "skipped: old Astro site not found at $LEGACY_SITE (expected in CI)"
 fi
 
-step "[6/9] Hugo build (warnings are errors) and the Pagefind search index"
+step "[6/9] Hugo build (warnings are errors), share cards and the Pagefind search index"
 OUT="$(mktemp -d)"
 trap 'rm -rf "$OUT"' EXIT
+python3 -I scripts/fetch_plates.py --check
 "$HUGO" --gc --minify --panicOnWarning --printPathWarnings --quiet --destination "$OUT"
+node scripts/og_cards.mjs "$OUT"
 echo "built $(find "$OUT" -name '*.html' | wc -l) pages"
 pf_want="$(cat .pagefind-version)"
 pf_have="$(pagefind --version | awk '{print $2}')"

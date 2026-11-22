@@ -26,7 +26,12 @@ HUGO_TOML = f'''
   [server.headers.values]
     Content-Security-Policy = "{CSP}"
 '''
-GOOD = """<!doctype html><html lang="en"><head><title>T</title><meta name="description" content="d"></head>
+OG = (
+    '<meta property="og:image" content="https://paperlanterns.ink/card.png"><meta property="og:image:width" content="1200">'
+    '<meta property="og:image:height" content="630"><meta property="og:image:alt" content="a">'
+    '<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://paperlanterns.ink/card.png">'
+)
+GOOD = """<!doctype html><html lang="en"><head><title>T</title><meta name="description" content="d">""" + OG + """</head>
 <body><h1 id="top">Hi</h1><p><a href="/other/">o</a> <a href="#top">t</a> <img src="https://archive.org/x.jpg" alt=""></p>
 <svg viewBox="0 0 1 1"><rect x="0" y="0" width="1" height="1"/></svg></body></html>"""
 
@@ -37,8 +42,13 @@ def write_site(root: Path, index_html: str) -> Path:
     (public / "index.html").write_text(index_html, encoding="utf-8")
     (public / "other" / "index.html").write_text(GOOD.replace('href="/other/"', 'href="/"'), encoding="utf-8")
     (public / "_headers").write_text(f"/*\n  Content-Security-Policy: {CSP}\n", encoding="utf-8")
+    (public / "card.png").write_bytes(png_header(1200, 630))
     (root / "hugo.toml").write_text(HUGO_TOML, encoding="utf-8")
     return public
+
+
+def png_header(width: int, height: int) -> bytes:
+    return b"\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR" + width.to_bytes(4, "big") + height.to_bytes(4, "big") + b"\x08\x03\x00\x00\x00"
 
 
 class CheckSiteTests(unittest.TestCase):
@@ -76,6 +86,33 @@ class CheckSiteTests(unittest.TestCase):
         found = "\n".join(self.problems(bad))
         for needle in ("duplicate id 'top'", "exactly one <h1>", "does not match", "has no alt"):
             self.assertIn(needle, found)
+
+    def test_every_page_needs_a_1200x630_share_card_from_this_build(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            public = write_site(Path(tmp), GOOD)
+            (public / "card.png").write_bytes(png_header(600, 315))
+            (public / "other" / "card.html").write_text(GOOD, encoding="utf-8")
+            found = check_site.check_site(public, Path(tmp) / "hugo.toml")
+        self.assertTrue(any("not a 1200x630 PNG or JPEG" in p for p in found), found)
+        self.assertTrue(any("share card page left in the build" in p for p in found), found)
+        missing = self.problems(GOOD.replace("https://paperlanterns.ink/card.png", "https://paperlanterns.ink/nope.png"))
+        self.assertTrue(any("is not in the build" in p for p in missing), missing)
+        hotlinked = self.problems(GOOD.replace("https://paperlanterns.ink/card.png", "https://archive.org/x.jpg"))
+        self.assertTrue(any("not an absolute https://paperlanterns.ink/" in p for p in hotlinked), hotlinked)
+        small = self.problems(GOOD.replace('content="summary_large_image"', 'content="summary"').replace('og:image:alt" content="a"', 'og:image:alt" content=""'))
+        self.assertTrue(any("twitter:card is not summary_large_image" in p for p in small), small)
+        self.assertTrue(any("no og:image:alt" in p for p in small), small)
+
+    def test_image_size_reads_png_and_jpeg_headers(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            png, jpg, other = Path(tmp) / "a.png", Path(tmp) / "a.jpg", Path(tmp) / "a.gif"
+            png.write_bytes(png_header(1200, 630))
+            # SOI, an APP0 segment, then a baseline SOF0 frame header: length, precision, height, width.
+            jpg.write_bytes(b"\xff\xd8\xff\xe0\x00\x04ab\xff\xc0\x00\x11\x08" + (630).to_bytes(2, "big") + (1200).to_bytes(2, "big") + b"\x03" + b"\x00" * 9)
+            other.write_bytes(b"GIF89a")
+            self.assertEqual(check_site.image_size(png), ("png", 1200, 630))
+            self.assertEqual(check_site.image_size(jpg), ("jpeg", 1200, 630))
+            self.assertIsNone(check_site.image_size(other))
 
     def test_book_pages_must_show_one_reading_score(self) -> None:
         rel = Path("collections/some-book/index.html")
@@ -168,6 +205,14 @@ class AddressLedgerTests(unittest.TestCase):
             d.mkdir(parents=True, exist_ok=True)
             (d / "index.html").write_text("x", encoding="utf-8")
         return public
+
+    def test_share_cards_are_not_ledger_addresses_but_downloads_are(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            public = self.make(Path(tmp), ["/collections/b/", "/collections/b/1/"])
+            (public / "collections" / "b" / "card.jpg").write_bytes(b"x")
+            (public / "collections" / "b" / "1" / "card.png").write_bytes(b"x")
+            (public / "collections" / "b" / "b.epub").write_bytes(b"x")
+            self.assertEqual(addresses.served_addresses(public), {"/collections/b/", "/collections/b/1/", "/collections/b/b.epub"})
 
     def test_update_then_check_passes_and_never_drops_addresses(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

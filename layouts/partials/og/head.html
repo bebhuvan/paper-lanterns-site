@@ -1,0 +1,16 @@
+{{- /* Opening of a share-card page (D31). Never published: scripts/og_cards.mjs draws it at 1200×630 and deletes it.
+       Every value is set through Go's html/template, so titles, incipits and names are escaped. Args: page, kind. */ -}}
+<!doctype html>
+<html lang="{{ site.LanguageCode }}">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<meta name="og-card-file" content="{{ partial "og/file.html" .page }}">
+<title>Share card</title>
+{{- $site := resources.Get "css/site.css" | minify | fingerprint }}
+{{- $card := resources.Get "css/card.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $site.RelPermalink }}">
+<link rel="stylesheet" href="{{ $card.RelPermalink }}">
+</head>
+<body class="og og-{{ .kind }}">
+{{- /**/ -}}

@@ -10,7 +10,7 @@ permissions:
 jobs:
   verify:
     runs-on: ubuntu-24.04
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
@@ -52,6 +52,14 @@ jobs:
           echo "${PAGEFIND_SHA256}  $RUNNER_TEMP/$f" | sha256sum -c -
           mkdir -p "$RUNNER_TEMP/pagefind" && tar -xzf "$RUNNER_TEMP/$f" -C "$RUNNER_TEMP/pagefind" pagefind
           echo "$RUNNER_TEMP/pagefind" >> "$GITHUB_PATH"
+
+      # Share cards already drawn by an earlier run are reused; only cards whose page changed are drawn again (D31).
+      - name: Restore drawn share cards
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: .cache/og
+          key: og-cards-${{ github.sha }}
+          restore-keys: og-cards-
 
       # Ubuntu runners ship Google Chrome for the phone-width check. The pipeline repository is not checked out here, so ./verify skips the drift check and the pipeline's tests.
       - name: Verify

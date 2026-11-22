@@ -1,0 +1,18 @@
+{{- /* A book's share card: its frontispiece plate, or its typographic cover where the book has none. */ -}}
+{{- $tr := partial "book-traits.html" . -}}
+{{- $plate := resources.Get (printf "og/plates/%s.jpg" .Params.book_id) -}}
+{{- if and .Params.frontispiece.leaf (not $plate) }}{{ errorf "%s has a frontispiece but no assets/og/plates/%s.jpg: run python3 scripts/fetch_plates.py" .Params.book_id .Params.book_id }}{{ end -}}
+{{ partial "og/head.html" (dict "page" . "kind" "book") }}
+<div class="plate">
+{{- with $plate }}{{ with .Resize "x700 q86" }}<img src="{{ .RelPermalink }}" alt="" width="{{ .Width }}" height="{{ .Height }}">{{ end }}
+{{- else }}{{ partial "cover.html" $ }}{{ end -}}
+</div>
+<div class="text" data-fit="text">
+{{ partial "og/brand.html" . }}
+<p class="title" data-fit="title">{{ .Title }}</p>
+{{- /* Some records repeat part of the title as the subtitle; the card says it once. */ -}}
+<p class="by">{{ with .Params.subtitle }}{{ if not (in $.Title .) }}{{ . }} · {{ end }}{{ end }}{{ .Params.year }}</p>
+<div class="bottom meta"><span class="dot"></span>{{ lang.FormatNumber 0 (int .Params.counts.letters) }} letters{{ with $tr.span }} · {{ . }}{{ end }}</div>
+</div>
+</body>
+</html>

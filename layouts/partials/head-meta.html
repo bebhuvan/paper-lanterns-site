@@ -7,12 +7,15 @@
 {{- $desc = printf "%s. %s. %d letters, each set beside its printed page, free to read and download." .Title .Params.subtitle (int .Params.counts.letters) -}}
 {{- end -}}
 {{- $desc = $desc | default site.Params.description -}}
-{{- $image := "" -}}
-{{- if not .Params.archive_id -}}
-{{- else if eq .Params.layout "letter" -}}
-{{- with index .Params.pages 0 }}{{ $image = partial "scan-url.html" (dict "id" $.Params.archive_id "leaf" .leaf "w" 1200) }}{{ end -}}
-{{- else if eq .Params.layout "book" -}}
-{{- with .Params.frontispiece }}{{ $image = partial "scan-url.html" (dict "id" $.Params.archive_id "leaf" .leaf "w" 1200) }}{{ end -}}
+{{- /* Share card (D31): the home page, each book and each letter have their own; every other page uses the home card. */ -}}
+{{- $card := site.Home -}}
+{{- if .OutputFormats.Get "ogcard" }}{{ $card = . }}{{ end -}}
+{{- $image := printf "%s%s" $card.Permalink (partial "og/file.html" $card) -}}
+{{- $alt := printf "Paper Lanterns: “Dear reader,” %s" site.Params.description -}}
+{{- if eq $card.Params.layout "letter" -}}
+{{- $alt = printf "“%s”" $card.Title -}}{{ with $card.Params.page_title }}{{ $alt = printf "%s: %s" . $alt }}{{ end -}}
+{{- else if eq $card.Params.layout "book" -}}
+{{- $alt = printf "%s, %s letters, on Paper Lanterns" $card.Title (lang.FormatNumber 0 (int $card.Params.counts.letters)) -}}
 {{- end }}
 <title>{{ $full }}</title>
 <meta name="description" content="{{ $desc }}">
@@ -23,10 +26,13 @@
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:type" content="{{ cond (or (eq .Params.layout "letter") (and .IsPage (in (slice "curated" "garden") .Type))) "article" (cond (eq .Params.layout "book") "book" "website") }}">
 <meta property="og:locale" content="en">
-{{- with $image }}
-<meta property="og:image" content="{{ . }}">
-{{- end }}
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="{{ $image }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{ $alt }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ $image }}">
+<meta name="twitter:image:alt" content="{{ $alt }}">
 <meta name="twitter:title" content="{{ $title }}">
 <meta name="twitter:description" content="{{ $desc }}">
 {{- with partial "jsonld.html" . }}

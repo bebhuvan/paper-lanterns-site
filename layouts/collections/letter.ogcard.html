@@ -1,0 +1,20 @@
+{{- /* A letter's share card: its first words are the picture. Missing fields drop out with their separators. */ -}}
+{{- $n := strings.Trim (replaceRE `(?i)^\s*letter\s+` "" (.Params.number | default "")) " .()[]" -}}
+{{- /* A "number" that is not a number (some records hold a whole heading there) gives way to the letter's place in the book. */ -}}
+{{- if not (findRE `^(?:[0-9]+[A-Za-z]?|[IVXLCDMivxlcdm]+)$` $n) }}{{ $n = printf "%d" (int .Params.sequence) }}{{ end -}}
+{{- $head := printf "Letter %s of %s" $n (lang.FormatNumber 0 (int .Params.letter_count)) -}}
+{{- with .Params.period }}{{ $head = printf "%s · %s" $head . }}{{ end -}}
+{{- $from := .Params.sender_full | default .Params.sender -}}
+{{- $to := .Params.recipient_full | default .Params.recipient -}}
+{{- $who := "" -}}
+{{- if and $from $to }}{{ $who = printf "%s to %s" $from $to }}{{ else if $to }}{{ $who = printf "To %s" $to }}{{ else }}{{ $who = $from }}{{ end -}}
+{{- $when := slice -}}
+{{- with .Params.letter_date.display }}{{ $when = $when | append . }}{{ end -}}
+{{- with replaceRE `^From ` "from " (strings.Trim (.Params.place | default "") "[] ") }}{{ $when = $when | append . }}{{ end -}}
+{{ partial "og/head.html" (dict "page" . "kind" "letter") }}
+<div class="head"><span class="dot"></span>{{ $head }}</div>
+<p class="q" data-fit="q">“{{ .Title }}”</p>
+<p class="who" data-fit="who">{{ with $who }}<span class="n">{{ . }}</span>{{ end }}{{ with $when }}<span class="d">{{ delimit . " · " }}</span>{{ end }}</p>
+<div class="foot" data-fit="foot">{{ partial "og/brand.html" . }}<span class="meta">paperlanterns.ink</span></div>
+</body>
+</html>

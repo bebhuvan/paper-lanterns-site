@@ -52,10 +52,30 @@ enableRobotsTXT = true
   isPlainText = true
   notAlternative = true
 
+# Share cards (D31): Hugo writes card.html beside the home page, each book and each letter; scripts/og_cards.mjs
+# draws each one as card.png in headless Chromium and deletes the card.html, so none is ever published.
+[outputFormats.ogcard]
+  mediaType = "text/html"
+  baseName = "card"
+  isHTML = true
+  notAlternative = true
+
 [outputs]
-  home = ["HTML", "headers", "RSS", "searchdata", "randomcontent"]
+  home = ["HTML", "headers", "RSS", "searchdata", "randomcontent", "ogcard"]
   section = ["HTML"]
   page = ["HTML"]
+
+[[cascade]]
+  outputs = ["HTML", "ogcard"]
+  [cascade._target]
+    kind = "section"
+    path = "/collections/*"
+
+[[cascade]]
+  outputs = ["HTML", "ogcard"]
+  [cascade._target]
+    kind = "page"
+    path = "/collections/**"
 
 [params]
   description = "Whole collections of public-domain letters, read from the printed page and set beside the scan they came from."

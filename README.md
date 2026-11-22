@@ -29,13 +29,15 @@ letters), plus the old site's 105 hand-curated letters, essays, lectures, speech
 | `scripts/build_indexes.py`, `data/` | People and Explore indexes derived from the content (`data/people-same-person.json` is the one hand-kept list) |
 | `scripts/check_site.py` | Checks the built pages: structure, links, ids, CSP hazards, JSON-LD |
 | `published-addresses.txt`, `scripts/addresses.py` | Every address the site has served; `verify` fails if one stops working without a redirect in `static/_redirects` |
+| `scripts/og_cards.mjs`, `scripts/png_palette.mjs` | Draw the 1200×630 share cards (Open Graph images) from Hugo's `card.html` pages in headless Chromium (D31) |
+| `scripts/fetch_plates.py`, `assets/og/plates/` | Each book's frontispiece plate for its share card, fetched once from the Internet Archive |
 | `scripts/check_mobile.mjs` | Opens the built pages in headless Chromium at 360, 390 and 768 px; fails on sideways scroll, small touch targets or small letter text |
 | `verify` | The one command that says whether the site is fit to publish |
 
 ## Run it
 
 You need gitleaks 8.30.1 (`.gitleaks-version`), Pagefind 1.6.0 (`.pagefind-version`), Hugo **0.139.3 extended** (pinned in `.hugo-version`), Python 3.12+, Node 22+ and Chromium or Chrome
-(for the phone-width check; set `CHROME=/path/to/browser` if it is not in a standard place).
+(for the phone-width check and the share cards; set `CHROME=/path/to/browser` if it is not in a standard place).
 
 ```bash
 hugo server
@@ -59,7 +61,14 @@ cd "../Paper Lanterns New" && uv run lanterns render-hugo dostoevsky-family-frie
 python3 scripts/sync_from_pipeline.py dostoevsky-family-friends-1914
 ```
 
-The sync replaces the book's folders wholesale, so a letter removed upstream disappears here too. Then rebuild the People and Explore indexes, record any new addresses, and commit:
+The sync replaces the book's folders wholesale, so a letter removed upstream disappears here too. If the book has a
+frontispiece, fetch its plate for the share card (the only step that uses the network; `verify` fails until it is done):
+
+```bash
+python3 scripts/fetch_plates.py
+```
+
+Then rebuild the People and Explore indexes, record any new addresses, and commit:
 
 ```bash
 python3 scripts/build_indexes.py
@@ -80,7 +89,8 @@ addresses are numbers (`/collections/<book_id>/<n>/`) and are frozen once publis
 ```
 
 It checks the Hugo version, scans the git history for secrets, parses the script, runs the script tests, confirms the synced content still
-matches the pipeline output, builds the site with warnings as errors, checks every built page, holds the
+matches the pipeline output, builds the site with warnings as errors, draws the share cards, checks every built page
+(including that each names a 1200×630 share card that exists), holds the
 JavaScript budget (50 KB), opens the key pages at phone and tablet widths in headless Chromium, and finally
 runs the pipeline's own `./verify`. `./verify --skip-pipeline` leaves
 out the pipeline (CI does this, since the pipeline repository is not public).
@@ -92,9 +102,13 @@ Cloudflare builds nothing: build and check locally, then upload the checked fold
 
 ```bash
 ./verify
-rm -rf dist && hugo --gc --minify --destination dist && pagefind --site dist
+rm -rf dist && hugo --gc --minify --destination dist && node scripts/og_cards.mjs dist && pagefind --site dist
 wrangler deploy
 ```
+
+Drawing all 5,057 share cards from nothing takes about four minutes; they are cached in `.cache/og/` (not committed),
+so later builds draw only the cards whose page changed. A card whose text cannot be fitted stops the build, and an
+image of it is saved in `.cache/og/failed/`.
 
 `dist/_headers` carries the Content-Security-Policy and security headers and `dist/_redirects` the old-site
 redirects; Workers static assets apply both.

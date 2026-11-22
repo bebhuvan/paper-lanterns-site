@@ -1,0 +1,5 @@
+{{- /* File name of a page's share card (D31): a JPEG for a book with a photographed plate, else a palette PNG.
+       head-meta.html links it and og/head.html tells scripts/og_cards.mjs to write it, so the two always agree. */ -}}
+{{- $file := "card.png" -}}
+{{- if and (eq .Params.layout "book") (resources.Get (printf "og/plates/%s.jpg" .Params.book_id)) }}{{ $file = "card.jpg" }}{{ end -}}
+{{- return $file -}}

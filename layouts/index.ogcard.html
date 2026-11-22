@@ -1,0 +1,8 @@
+{{- $c := partialCached "nav-counts.html" . -}}
+{{ partial "og/head.html" (dict "page" . "kind" "home") }}
+<p class="where">{{ range $i, $l := .Params.where }}{{ if $i }}<br>{{ end }}{{ $l }}{{ end }}</p>
+<p class="dear" data-fit="dear"><span class="dot"></span>Dear reader,</p>
+<p class="line" data-fit="line">{{ site.Params.description }}</p>
+<div class="foot" data-fit="foot">{{ partial "og/brand.html" . }}<span class="meta">{{ lang.FormatNumber 0 $c.books }} collections · {{ lang.FormatNumber 0 $c.letters_all }} letters</span></div>
+</body>
+</html>

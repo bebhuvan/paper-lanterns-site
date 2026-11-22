@@ -28,6 +28,9 @@ HEADER = (
     "# Maintained by `python3 scripts/addresses.py update <built-site-dir>`; checked by ./verify.\n"
 )
 DOWNLOAD_ROOTS = ("collections",)
+# Share-card images (D31) are named by each page's og:image tag, never linked for readers, and may change from
+# PNG to JPEG when a book gains a plate, so they are not addresses the site promises to keep.
+SHARE_CARDS = ("card.png", "card.jpg")
 
 
 def served_addresses(public: Path) -> set[str]:
@@ -38,7 +41,7 @@ def served_addresses(public: Path) -> set[str]:
         found.add("/" if rel == "." else f"/{rel}/")
     for top in DOWNLOAD_ROOTS:
         for f in (public / top).rglob("*") if (public / top).is_dir() else []:
-            if f.is_file() and f.name != "index.html":
+            if f.is_file() and f.name != "index.html" and f.name not in SHARE_CARDS:
                 found.add("/" + f.relative_to(public).as_posix())
     return found
 

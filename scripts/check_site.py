@@ -9,7 +9,9 @@ It fails (exit 1) on:
   - internal links or #fragments that point at nothing in public/;
   - images, scripts or stylesheets from hosts outside the allowlist, and any non-http(s) URL scheme
     (ordinary links may point to any http or https site);
-  - a _headers CSP that differs from the dev-server CSP in hugo.toml.
+  - a _headers CSP that differs from the dev-server CSP in hugo.toml;
+  - a page whose share card (og:image, D31) is missing, is not on this site, or is not a 1200x630 PNG or JPEG
+    in the build, or whose og:image size, alt text and twitter tags are missing; and any card.html left undrawn.
 It is not a full W3C validator; it catches the mistakes this site can actually make.
 
 Usage: python3 scripts/check_site.py [public]
@@ -45,6 +47,7 @@ class PageReport:
     has_description: bool = False
     jsonld: list[str] = field(default_factory=list)
     reading_scores: list[str] = field(default_factory=list)  # data-reading-score values (D24)
+    meta: dict[str, str] = field(default_factory=dict)  # og:* and twitter:* tags
 
 
 class PageParser(HTMLParser):
@@ -82,6 +85,9 @@ class PageParser(HTMLParser):
             self.r.has_lang = True
         if tag == "meta" and d.get("name") == "description" and d.get("content"):
             self.r.has_description = True
+        key = d.get("property") or d.get("name") or ""
+        if tag == "meta" and key.startswith(("og:", "twitter:")):
+            self.r.meta[key] = d.get("content") or ""
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         self._attrs(tag, attrs)
@@ -207,18 +213,70 @@ def check_reading_score(rel: Path, scores: list[str]) -> list[str]:
     return [] if 0 <= value <= 100 else [f"reading score {value} is outside 0-100"]
 
 
+def image_size(path: Path) -> tuple[str, int, int] | None:
+    """(format, width, height) of a PNG or baseline/progressive JPEG, read from its header; None for anything else."""
+    data = path.read_bytes()
+    if data[:8] == b"\x89PNG\r\n\x1a\n" and data[12:16] == b"IHDR":
+        return "png", int.from_bytes(data[16:20], "big"), int.from_bytes(data[20:24], "big")
+    if data[:2] != b"\xff\xd8":
+        return None
+    at = 2
+    while at + 9 < len(data):
+        if data[at] != 0xFF:
+            return None
+        marker, length = data[at + 1], int.from_bytes(data[at + 2 : at + 4], "big")
+        if marker in (0xC0, 0xC1, 0xC2):
+            return "jpeg", int.from_bytes(data[at + 7 : at + 9], "big"), int.from_bytes(data[at + 5 : at + 7], "big")
+        at += 2 + length
+    return None
+
+
+def check_share_card(public: Path, meta: dict[str, str], sizes: dict[Path, tuple[str, int, int] | None]) -> list[str]:
+    """The page names a 1200x630 share card that this build contains (D31), with its size, alt text and twitter tags."""
+    image = meta.get("og:image", "")
+    if not image:
+        return ["no og:image"]
+    parts = urlsplit(image)
+    if parts.scheme != "https" or parts.hostname != "paperlanterns.ink":
+        return [f"og:image {image!r} is not an absolute https://paperlanterns.ink/ address"]
+    errors = []
+    target = (public / unquote(parts.path.lstrip("/"))).resolve()
+    if not target.is_file() or not target.is_relative_to(public.resolve()):
+        errors.append(f"og:image {parts.path} is not in the build")
+    else:
+        if target not in sizes:
+            sizes[target] = image_size(target)
+        found = sizes[target]
+        if found is None or found[1:] != (1200, 630):
+            errors.append(f"og:image {parts.path} is {found}, not a 1200x630 PNG or JPEG")
+    if meta.get("og:image:width") != "1200" or meta.get("og:image:height") != "630":
+        errors.append("og:image:width and og:image:height must be 1200 and 630")
+    if not meta.get("og:image:alt"):
+        errors.append("no og:image:alt")
+    if meta.get("twitter:card") != "summary_large_image":
+        errors.append("twitter:card is not summary_large_image")
+    if meta.get("twitter:image") != image:
+        errors.append("twitter:image differs from og:image")
+    return errors
+
+
 def check_site(public: Path, hugo_toml: Path) -> list[str]:
     problems: list[str] = []
     pages = sorted(public.rglob("*.html"))
     if not pages:
         return [f"no HTML pages under {public}"]
+    undrawn = [p for p in pages if p.name == "card.html"]
+    problems.extend(f"{p.relative_to(public)}: share card page left in the build (run scripts/og_cards.mjs)" for p in undrawn)
+    pages = [p for p in pages if p.name != "card.html"]
     ids_by_file: dict[Path, set[str]] = {}
+    sizes: dict[Path, tuple[str, int, int] | None] = {}
     for page in pages:
         report = parse_page(page)
         ids_by_file[page.resolve()] = report.ids
         rel = page.relative_to(public)
         problems.extend(f"{rel}: {e}" for e in report.errors)
         problems.extend(f"{rel}: {e}" for e in check_reading_score(rel, report.reading_scores))
+        problems.extend(f"{rel}: {e}" for e in check_share_card(public, report.meta, sizes))
         for url, navigation in report.links:
             err = check_link(public, page.resolve(), url, ids_by_file, navigation=navigation)
             if err:
@@ -256,7 +314,7 @@ def main(argv: Iterable[str] | None = None) -> int:
     if problems:
         print(f"check_site: {len(problems)} problem(s) in {pages} pages", file=sys.stderr)
         return 1
-    print(f"check_site: {pages} pages, all links, ids and CSP rules OK")
+    print(f"check_site: {pages} pages, all links, ids, CSP rules and 1200x630 share cards OK")
     return 0
 
 

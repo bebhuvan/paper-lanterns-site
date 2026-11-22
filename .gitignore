@@ -10,3 +10,5 @@ __pycache__/
 !.env.example
 .wrangler/
 dist/
+# Share cards drawn by scripts/og_cards.mjs, cached between builds
+/.cache/
