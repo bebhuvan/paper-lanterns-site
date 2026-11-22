@@ -9,18 +9,24 @@
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
         <idno type="book_id">selected-english-letters-1914</idno>
-        <availability status="free"><p>CC0 1.0 Public Domain</p></availability>
+        <availability status="free"><p>CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)</p></availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>Selected English Letters</title>
           <date>1914</date>
+          <idno type="URI">https://archive.org/details/selectedenglishl00fues</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Diplomatic archival transcription preserving historical orthography, diacritics, epistolary layouts, and footnotes.</p>
+      </editorialDecl>
+    </encodingDesc>
     <profileDesc>
       <correspDesc xml:id="letter-0001">
-        <correspAction type="sent"><persName>William Paston, Junior</persName><date when="1478-11-07">Nov. 7, 1478</date></correspAction>
+        <correspAction type="sent"><persName>William Paston, Junior</persName><date when="1478-11-07">Nov. 7, 1478.</date></correspAction>
         <correspAction type="received"><persName>John Paston</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0002">
@@ -32,39 +38,39 @@
         <correspAction type="received"><persName>Sir Edward Coke</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0004">
-        <correspAction type="sent"><persName>Dean Swift</persName><date when="1725-09-29">September 29, 1725</date></correspAction>
+        <correspAction type="sent"><persName>Dean Swift</persName><date when="1725-09-29">September 29, 1725.</date></correspAction>
         <correspAction type="received"><persName>Alexander Pope</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0005">
-        <correspAction type="sent"><persName>Joseph Addison</persName><placeName>Geneva</placeName><date when="1702-07">: July, 1702</date></correspAction>
+        <correspAction type="sent"><persName>Joseph Addison</persName><placeName>Geneva</placeName><date when="1702-07">: July, 1702.</date></correspAction>
         <correspAction type="received"><persName>Chamberlain Dashwood</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0006">
-        <correspAction type="sent"><persName>Richard Steele</persName><date when="1707-09-01">September 1, 1707</date></correspAction>
+        <correspAction type="sent"><persName>Richard Steele</persName><date when="1707-09-01">September 1, 1707.</date></correspAction>
         <correspAction type="received"><persName>Mary Scurlock</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0007">
-        <correspAction type="sent"><persName>Richard Steele</persName><placeName>Devil Tavern, Temple-Bar</placeName><date when="1708-01-03">Jan. 3, 1708, Devil Tavern, Temple-Bar</date></correspAction>
+        <correspAction type="sent"><persName>Richard Steele</persName><placeName>Devil Tavern, Temple-Bar</placeName><date when="1708-01-03">Jan. 3, 1708, Devil Tavern, Temple-Bar.</date></correspAction>
         <correspAction type="received"><persName>Mrs. Steele</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0008">
-        <correspAction type="sent"><persName>Alexander Pope</persName><placeName>Dawley</placeName><date when="1728-06-28">: June 28, 1728</date></correspAction>
+        <correspAction type="sent"><persName>Alexander Pope</persName><placeName>Dawley</placeName><date when="1728-06-28">: June 28, 1728.</date></correspAction>
         <correspAction type="received"><persName>Dean Swift</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0009">
-        <correspAction type="sent"><persName>Lady Mary Wortley Montagu</persName><placeName>Adrianople</placeName><date when="1717-04-01">: April 1, 1717</date></correspAction>
+        <correspAction type="sent"><persName>Lady Mary Wortley Montagu</persName><placeName>Adrianople</placeName><date when="1717-04-01">: April 1, 1717.</date></correspAction>
         <correspAction type="received"><persName>Mrs. S. C———</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0010">
-        <correspAction type="sent"><persName>The Earl of Chesterfield</persName><placeName>London</placeName><date when="1747-11-24">: November 24, 1747</date></correspAction>
+        <correspAction type="sent"><persName>The Earl of Chesterfield</persName><placeName>London</placeName><date when="1747-11-24">: November 24, 1747.</date></correspAction>
         <correspAction type="received"><persName>Philip Stanhope, Esq.</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0011">
-        <correspAction type="sent"><persName>Benjamin Franklin</persName><placeName>Philadelphia</placeName><date when="1775-10-03">3 October, 1775</date></correspAction>
+        <correspAction type="sent"><persName>Benjamin Franklin</persName><placeName>Philadelphia</placeName><date when="1775-10-03">3 October, 1775.</date></correspAction>
         <correspAction type="received"><persName>Joseph Priestley</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0012">
-        <correspAction type="sent"><persName>Dr. Samuel Johnson</persName><date when="1755-02">February, 1755</date></correspAction>
+        <correspAction type="sent"><persName>Dr. Samuel Johnson</persName><date when="1755-02">February, 1755.</date></correspAction>
         <correspAction type="received"><persName>the Earl of Chesterfield</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0013">
@@ -72,47 +78,47 @@
         <correspAction type="received"><persName>Mr. Macpherson</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0014">
-        <correspAction type="sent"><persName>The Honourable Horace Walpole</persName><placeName>Arlington Street</placeName><date when="1760-11-13">: November 13, 1760</date></correspAction>
+        <correspAction type="sent"><persName>The Honourable Horace Walpole</persName><placeName>Arlington Street</placeName><date when="1760-11-13">: November 13, 1760.</date></correspAction>
         <correspAction type="received"><persName>George Montagu</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0015">
-        <correspAction type="sent"><persName>Oliver Goldsmith</persName><date when="1770-01">January, 1770</date></correspAction>
+        <correspAction type="sent"><persName>Oliver Goldsmith</persName><date when="1770-01">January, 1770.</date></correspAction>
         <correspAction type="received"><persName>Maurice Goldsmith</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0016">
-        <correspAction type="sent"><persName>William Cowper</persName><date when="1779-10-31">Oct. 31, 1779</date></correspAction>
+        <correspAction type="sent"><persName>William Cowper</persName><date when="1779-10-31">Oct. 31, 1779.</date></correspAction>
         <correspAction type="received"><persName>the Reverend William Unwin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0017">
-        <correspAction type="sent"><persName>William Cowper</persName><date when="1786-05-29">May 29, 1786</date></correspAction>
+        <correspAction type="sent"><persName>William Cowper</persName><date when="1786-05-29">May 29, 1786.</date></correspAction>
         <correspAction type="received"><persName>Lady Hesketh</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0018">
-        <correspAction type="sent"><persName>John Adams</persName><placeName>Philadelphia</placeName><date when="1797-02-04">4 February, 1797</date></correspAction>
+        <correspAction type="sent"><persName>John Adams</persName><placeName>Philadelphia</placeName><date when="1797-02-04">4 February, 1797.</date></correspAction>
         <correspAction type="received"><persName>his Wife</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0019">
-        <correspAction type="sent"><persName>Robert Burns</persName><placeName>Edinburgh</placeName><date when="1787">: 1787</date></correspAction>
+        <correspAction type="sent"><persName>Robert Burns</persName><placeName>Edinburgh</placeName><date when="1787">: 1787.</date></correspAction>
         <correspAction type="received"><persName>the Earl of Glencairn</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0020">
-        <correspAction type="sent"><persName>Sir Walter Scott</persName><placeName>Ashestiel</placeName><date when="1809-10-02">: October 2, 1809</date></correspAction>
+        <correspAction type="sent"><persName>Sir Walter Scott</persName><placeName>Ashestiel</placeName><date when="1809-10-02">: October 2, 1809.</date></correspAction>
         <correspAction type="received"><persName>George Crabbe</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0021">
-        <correspAction type="sent"><persName>Sydney Smith</persName><placeName>Foston</placeName><date when="1821-12-01">Dec. 1st, 1821</date></correspAction>
+        <correspAction type="sent"><persName>Sydney Smith</persName><placeName>Foston</placeName><date when="1821-12-01">Dec. 1st, 1821.</date></correspAction>
         <correspAction type="received"><persName>Lady Georgiana Morpeth</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0022">
-        <correspAction type="sent"><persName>Sydney Smith</persName><placeName>London</placeName><date when="1835-07-22">July 22d, 1835</date></correspAction>
+        <correspAction type="sent"><persName>Sydney Smith</persName><placeName>London</placeName><date when="1835-07-22">July 22d, 1835.</date></correspAction>
         <correspAction type="received"><persName>Miss ———</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0023">
-        <correspAction type="sent"><persName>Samuel Taylor Coleridge</persName><date when="1800-03-03">At Mr. Lamb&#x27;s, 36, Chapel Street, March 3, 1800</date></correspAction>
+        <correspAction type="sent"><persName>Samuel Taylor Coleridge</persName><date when="1800-03-03">At Mr. Lamb&#x27;s, 36, Chapel Street, March 3, 1800.</date></correspAction>
         <correspAction type="received"><persName>William Godwin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0024">
-        <correspAction type="sent"><persName>Charles Lamb</persName><placeName>Colebrook Cottage</placeName><date when="1825-04-06">April 6, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Charles Lamb</persName><placeName>Colebrook Cottage</placeName><date when="1825-04-06">April 6, 1825.</date></correspAction>
         <correspAction type="received"><persName>William Wordsworth</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0025">
@@ -120,107 +126,107 @@
         <correspAction type="received"><persName>Miss Mitford</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0026">
-        <correspAction type="sent"><persName>Lord Byron</persName><placeName>Newstead Abbey</placeName><date when="1814-09-20">Sept. 20, 1814</date></correspAction>
+        <correspAction type="sent"><persName>Lord Byron</persName><placeName>Newstead Abbey</placeName><date when="1814-09-20">Sept. 20, 1814.</date></correspAction>
         <correspAction type="received"><persName>Thomas Moore</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0027">
-        <correspAction type="sent"><persName>Lord Byron</persName><placeName>Venice</placeName><date when="1819-04-06">April 6, 1819</date></correspAction>
+        <correspAction type="sent"><persName>Lord Byron</persName><placeName>Venice</placeName><date when="1819-04-06">April 6, 1819.</date></correspAction>
         <correspAction type="received"><persName>John Murray</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0028">
-        <correspAction type="sent"><persName>Percy Bysshe Shelley</persName><placeName>Pisa</placeName><date when="1820-07-27">27 July, 1820</date></correspAction>
+        <correspAction type="sent"><persName>Percy Bysshe Shelley</persName><placeName>Pisa</placeName><date when="1820-07-27">27 July, 1820.</date></correspAction>
         <correspAction type="received"><persName>John Keats</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0029">
-        <correspAction type="sent"><persName>John Keats</persName><placeName>Hampstead</placeName><date when="1820-08">August, 1820</date></correspAction>
+        <correspAction type="sent"><persName>John Keats</persName><placeName>Hampstead</placeName><date when="1820-08">August, 1820.</date></correspAction>
         <correspAction type="received"><persName>Percy Bysshe Shelley</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0030">
-        <correspAction type="sent"><persName>Percy Bysshe Shelley</persName><placeName>Ravenna</placeName><date when="1821-08">August, 1821</date></correspAction>
+        <correspAction type="sent"><persName>Percy Bysshe Shelley</persName><placeName>Ravenna</placeName><date when="1821-08">August, 1821.</date></correspAction>
         <correspAction type="received"><persName>Thomas Love Peacock</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0031">
-        <correspAction type="sent"><persName>Thomas Carlyle</persName><placeName>5, Cheyne Row, Chelsea</placeName><date when="1874-12-29">December 29, 1874</date></correspAction>
+        <correspAction type="sent"><persName>Thomas Carlyle</persName><placeName>5, Cheyne Row, Chelsea</placeName><date when="1874-12-29">December 29, 1874.</date></correspAction>
         <correspAction type="received"><persName>Benjamin Disraeli</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0032">
-        <correspAction type="sent"><persName>Thomas Hood</persName><placeName>17, Elm Tree Road, St. John&#x27;s Wood</placeName><date when="1844-04">Monday, April, 1844</date></correspAction>
+        <correspAction type="sent"><persName>Thomas Hood</persName><placeName>17, Elm Tree Road, St. John&#x27;s Wood</placeName><date when="1844-04">Monday, April, 1844.</date></correspAction>
         <correspAction type="received"><persName>May</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0033">
-        <correspAction type="sent"><persName>Thomas Hood</persName><date when="1845">1845</date></correspAction>
+        <correspAction type="sent"><persName>Thomas Hood</persName><date when="1845">1845.</date></correspAction>
         <correspAction type="received"><persName>Sir Robert Peel</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0034">
-        <correspAction type="sent"><persName>Thomas Macaulay</persName><placeName>Bradford</placeName><date when="1826-07-26">July 26, 1826</date></correspAction>
+        <correspAction type="sent"><persName>Thomas Macaulay</persName><placeName>Bradford</placeName><date when="1826-07-26">: July 26, 1826.</date></correspAction>
         <correspAction type="received"><persName>Father</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0035">
-        <correspAction type="sent"><persName>Jane Welsh Carlyle</persName><placeName>5 Cheyne Walk</placeName><date when="1842-02-23">February 23, 1842</date></correspAction>
+        <correspAction type="sent"><persName>Jane Welsh Carlyle</persName><placeName>5 Cheyne Walk</placeName><date when="1842-02-23">February 23, 1842.</date></correspAction>
         <correspAction type="received"><persName>Mrs. Welsh</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0036">
-        <correspAction type="sent"><persName>John Sterling</persName><date when="1844-08-10">August 10, 1844</date></correspAction>
+        <correspAction type="sent"><persName>John Sterling</persName><date when="1844-08-10">August 10, 1844.</date></correspAction>
         <correspAction type="received"><persName>Thomas Carlyle</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0037">
-        <correspAction type="sent"><persName>John Greenleaf Whittier</persName><placeName>Amesbury</placeName><date when="1876-10-30">10th mo., 30, 1876</date></correspAction>
+        <correspAction type="sent"><persName>John Greenleaf Whittier</persName><placeName>Amesbury</placeName><date when="1876-10-30">10th mo., 30, 1876.</date></correspAction>
         <correspAction type="received"><persName>Lucy Larcom</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0038">
-        <correspAction type="sent"><persName>Abraham Lincoln</persName><placeName>Executive Mansion, Washington</placeName><date when="1862-08-22">August 22, 1862</date></correspAction>
+        <correspAction type="sent"><persName>Abraham Lincoln</persName><placeName>Executive Mansion, Washington</placeName><date when="1862-08-22">August 22, 1862.</date></correspAction>
         <correspAction type="received"><persName>Horace Greeley</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0039">
-        <correspAction type="sent"><persName>Oliver Wendell Holmes</persName><placeName>Montreal</placeName><date when="1867-10-23">October 23, 1867</date></correspAction>
+        <correspAction type="sent"><persName>Oliver Wendell Holmes</persName><placeName>Montreal</placeName><date when="1867-10-23">October 23, 1867.</date></correspAction>
         <correspAction type="received"><persName>James T. Fields</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0040">
-        <correspAction type="sent"><persName>Edward FitzGerald</persName><placeName>Manchester</placeName><date when="1835-05-23">May 23, 1835</date></correspAction>
+        <correspAction type="sent"><persName>Edward FitzGerald</persName><placeName>Manchester</placeName><date when="1835-05-23">May 23, 1835.</date></correspAction>
         <correspAction type="received"><persName>John Allen</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0041">
-        <correspAction type="sent"><persName>William Makepeace Thackeray</persName><date when="1852-10-27">October 27, 1852</date></correspAction>
+        <correspAction type="sent"><persName>William Makepeace Thackeray</persName><date when="1852-10-27">October 27, 1852.</date></correspAction>
         <correspAction type="received"><persName>Edward FitzGerald</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0042">
-        <correspAction type="sent"><persName>Charles Dickens</persName><placeName>Broadstairs, Kent</placeName><date when="1843-09-01">September 1, 1843</date></correspAction>
+        <correspAction type="sent"><persName>Charles Dickens</persName><placeName>Broadstairs, Kent</placeName><date when="1843-09-01">September 1, 1843.</date></correspAction>
         <correspAction type="received"><persName>Mr. Felton</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0043">
-        <correspAction type="sent"><persName>Robert Browning</persName><placeName>Florence</placeName><date when="1861-07-20">July 20, 1861</date></correspAction>
+        <correspAction type="sent"><persName>Robert Browning</persName><placeName>Florence</placeName><date when="1861-07-20">: July 20, 1861.</date></correspAction>
         <correspAction type="received"><persName>Miss Euphrasia Haworth</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0044">
-        <correspAction type="sent"><persName>Charlotte Brontë</persName><date when="1837-03-16">March 16, 1837</date></correspAction>
+        <correspAction type="sent"><persName>Charlotte Brontë</persName><date when="1837-03-16">March 16, 1837.</date></correspAction>
         <correspAction type="received"><persName>Robert Southey</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0045">
-        <correspAction type="sent"><persName>Ebenezer Rockwood Hoar</persName><placeName>Concord</placeName><date when="1892-05-10">May 10, 1892</date></correspAction>
+        <correspAction type="sent"><persName>Ebenezer Rockwood Hoar</persName><placeName>Concord</placeName><date when="1892-05-10">May 10, 1892.</date></correspAction>
         <correspAction type="received"><persName>John M. Forbes</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0046">
-        <correspAction type="sent"><persName>Henry David Thoreau</persName><placeName>Concord</placeName><date when="1848-05-19">May 19, 1848</date></correspAction>
+        <correspAction type="sent"><persName>Henry David Thoreau</persName><placeName>Concord</placeName><date when="1848-05-19">May 19, 1848.</date></correspAction>
         <correspAction type="received"><persName>Horace Greeley</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0047">
-        <correspAction type="sent"><persName>John Ruskin</persName><placeName>Denmark Hill</placeName><date when="1862-01-06">6 January, &#x27;62</date></correspAction>
+        <correspAction type="sent"><persName>John Ruskin</persName><placeName>Denmark Hill</placeName><date when="1862-01-06">6 January, &#x27;62.</date></correspAction>
         <correspAction type="received"><persName>Charles Eliot Norton</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0048">
-        <correspAction type="sent"><persName>James Russell Lowell</persName><placeName>Cambridge</placeName><date when="1838-09-01">Sept. 1st, 1838</date></correspAction>
+        <correspAction type="sent"><persName>James Russell Lowell</persName><placeName>Cambridge</placeName><date when="1838-09-01">Sept. 1st, 1838.</date></correspAction>
         <correspAction type="received"><persName>Ralph Waldo Emerson</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0049">
-        <correspAction type="sent"><persName>Charles Godfrey Leland</persName><placeName>Hotel Victoria, Florence</placeName><date when="1895-02-03">Feb. 3, 1895</date></correspAction>
+        <correspAction type="sent"><persName>Charles Godfrey Leland</persName><placeName>Hotel Victoria, Florence</placeName><date when="1895-02-03">Feb. 3, 1895.</date></correspAction>
         <correspAction type="received"><persName>Miss Mary A. Owen</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0050">
-        <correspAction type="sent"><persName>Thomas Bailey Aldrich</persName><placeName>Ponkapog, Mass.</placeName><date when="1875-12-13">Dec. 13, 1875</date></correspAction>
+        <correspAction type="sent"><persName>Thomas Bailey Aldrich</persName><placeName>Ponkapog, Mass.</placeName><date when="1875-12-13">Dec. 13, 1875.</date></correspAction>
         <correspAction type="received"><persName>William Dean Howells</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0051">
-        <correspAction type="sent"><persName>Thomas Bailey Aldrich</persName><placeName>Ponkapog, Mass.</placeName><date when="1899-06-12">June 12, 1899</date></correspAction>
+        <correspAction type="sent"><persName>Thomas Bailey Aldrich</persName><placeName>Ponkapog, Mass.</placeName><date when="1899-06-12">June 12, 1899.</date></correspAction>
         <correspAction type="received"><persName>George E. Woodberry</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0052">
@@ -228,37 +234,36 @@
         <correspAction type="received"><persName>Sidney Colvin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0053">
-        <correspAction type="sent"><persName>Lafcadio Hearn</persName><placeName>New York</placeName><date when="1889">1889</date></correspAction>
+        <correspAction type="sent"><persName>Lafcadio Hearn</persName><placeName>New York</placeName><date when="1889">1889.</date></correspAction>
         <correspAction type="received"><persName>Joseph Tunison</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0054">
-        <correspAction type="sent"><persName>Lafcadio Hearn</persName><placeName>Tokyo</placeName><date when="1898-07">July, 1898</date></correspAction>
+        <correspAction type="sent"><persName>Lafcadio Hearn</persName><placeName>Tokyo</placeName><date when="1898-07">July, 1898.</date></correspAction>
         <correspAction type="received"><persName>Mitchell McDonald</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0055">
-        <correspAction type="sent"><persName>William Vaughn Moody</persName><placeName>Chicago</placeName><date when="1896-02-16">Feb. 16, 1896</date></correspAction>
+        <correspAction type="sent"><persName>William Vaughn Moody</persName><placeName>Chicago</placeName><date when="1896-02-16">Feb. 16, 1896.</date></correspAction>
         <correspAction type="received"><persName>Daniel Gregory Mason</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0056">
-        <correspAction type="sent"><persName>Charles W. Eliot</persName><placeName>Cambridge, Mass.</placeName><date when="1913-02-04">February 4, 1913</date></correspAction>
-        <correspAction type="received"><persName>———</persName></correspAction>
+        <correspAction type="sent"><persName>Charles W. Eliot</persName><placeName>Cambridge, Mass.</placeName><date when="1913-02-04">February 4, 1913.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0057">
-        <correspAction type="sent"><persName>Henry van Dyke</persName><placeName>Grand Hotel Alpina, Gstaad</placeName><date when="1909-08-23">August 23, 1909</date></correspAction>
+        <correspAction type="sent"><persName>Henry van Dyke</persName><placeName>Grand Hotel Alpina, Gstaad</placeName><date when="1909-08-23">August 23, 1909.</date></correspAction>
         <correspAction type="received"><persName>Madison Cawein</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0058">
-        <correspAction type="sent"><orgName>Hart, Schaffner &amp; Marx</orgName><placeName>Chicago</placeName><date when="1913-01-23">January 23, 1913</date></correspAction>
+        <correspAction type="sent"><orgName>Hart, Schaffner &amp; Marx</orgName><placeName>Chicago</placeName><date when="1913-01-23">January 23, 1913.</date></correspAction>
         <correspAction type="received"><orgName>The John R. Jones Company</orgName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0059">
-        <correspAction type="sent"><orgName>Houghton Mifflin Company</orgName><date when="1912-12-18">December 18th, 1912</date></correspAction>
+        <correspAction type="sent"><orgName>Houghton Mifflin Company</orgName><date when="1912-12-18">December 18th, 1912.</date></correspAction>
         <correspAction type="received"><persName>Honorable Woodrow Wilson</persName></correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
+    <front>
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>INTRODUCTORY</head>
 <div xml:id="div-unit-0001" type="apparatus">
@@ -350,6 +355,8 @@ LETTERS</head>
 <p rend="indented">A word may be added as to the principles which have determined the selection. Most of the letters are by men and women who are of interest in connection with books often set for reading in schools and colleges ; indeed, the volume <pb xml:id="page-13" n="ix"/> is intended primarily for such students, though it is hoped that its scope and variety may appeal to a wider public. Not a few of the letters are, perhaps, somewhat hackneyed; but following Sir Arthur Quiller Couch in his choice of poems for the <hi rend="italic">Oxford Book of English Verse,</hi> I have remembered that “the best is the best, though a hundred critics have declared it so.” Letters have been picked, not only adequately illustrating the characters of their writers, but also possessing some added interest of an amusing or entertaining sort; for the end of a compilation of this kind is less to provide knowledge than to arouse pleasure and emulation in an art which does not deserve to be neglected. The percentage of modern letters is comparatively large, the idea being that they have the advantage of bringing literature into close touch with the life around us.</p>
 </div>
 </div>
+    </front>
+    <body>
       <div xml:id="sec-sec-02" type="epistolary_part">
 <head>SELECTED ENGLISH LETTERS</head>
 <pb xml:id="page-15" n="1"/>
@@ -472,7 +479,7 @@ Stanhope, Esq.</hi></head>
 <p rend="indented">Whatever your pleasures may be, I neither can nor shall envy you them, as old people are sometimes suspected, by young people, to do; and I shall only lament, if they should prove such as are unbecoming a man of honour, or below a man of sense. But you will be the real sufferer, if they are such. As therefore it is plain that I have no other motive than that of affection in whatever I say to you, you ought to look upon me as your best, and for some years to come, your only friend.</p>
 <p rend="indented">True friendship requires certain proportions of age and manners, and can never subsist where they are extremely different, except in the relations of parent and child; where affection on one side, and regard on the other, make up the difference. The friendship which you may contract with people of your own age, may be sincere, may be warm; but must be for some time reciprocally unprofitable, as there can be no experience on either side.</p>
 <p rend="indented">The young leading the young, is like the blind leading the blind; “ they will both fall into the ditch.” The only sure guide is he who has often gone the road which you want to go. Let me be that guide: who <pb xml:id="page-32" n="18"/> have gone all roads; and who can consequently point out to you the best. If you ask me why I went any of the bad roads myself, I will answer you very truly, that is for want of a good guide; ill example invited me one way, and a good guide was wanting to show me a better. But if anybody, capable of advising me, had taken the same pains with me, which I have taken, and will continue to take with you, I should have avoided many follies and inconveniences, which undirected youth ran me into. My father was neither able nor desirous to advise me; which is what I hope you cannot say of yours. You see that I make use only of the word <hi rend="italic">advise;</hi> because I would much rather have the assent of your reason to my advice, than the submission of your will to my authority. This, I persuade myself, will happen, from that degree of sense which I think you have; and therefore I will go on advising, and with hopes of success. You are now settled for some time at Leipsic: the principal object of your stay there is the knowledge of books and sciences; which if you do not, by attention and application, make yourself master of while you are there, you will be ignorant of them all the rest of your life: and take my word for it a life of ignorance is not only a very contemptible, but a very tiresome one. Redouble your attention then, to M<hi rend="sup">r</hi> Harte, in your private studies of the Literæ Humaniores,<ref xml:id="fnref-p0032-1" type="noteref" target="#fn-p0032-1">14</ref> especially Greek. State your difficulties whenever you have any; do not suppress them either from mistaken shame, lazy indifference or in order to have done the sooner. Do the same with Professor Mascow, or any other professor.</p>
-<p rend="indented">When you have thus usefully employed your mornings <pb xml:id="page-33" n="19"/> , you may with a safe conscience divert yourself in the evenings, and make those evenings very useful too, by passing them in good company, and, by observation and attention, learning as much of the world as Leipsic can teach you. You will observe and imitate the manners of the people of the best fashion there; not that they are (it may be) the best manners in the world; but because they are the best manners of the place where you are, to which a man of sense always conforms. The nature of things is always and everywhere the same; but the modes of them vary, more or less, in every country; and an easy and genteel conformity to them, or rather the assuming of them at proper times, and in proper places, is what particularly constitutes a man of the world, and a well-bred man.</p>
+<p rend="indented">When you have thus usefully employed your mornings, <pb xml:id="page-33" n="19"/> you may with a safe conscience divert yourself in the evenings, and make those evenings very useful too, by passing them in good company, and, by observation and attention, learning as much of the world as Leipsic can teach you. You will observe and imitate the manners of the people of the best fashion there; not that they are (it may be) the best manners in the world; but because they are the best manners of the place where you are, to which a man of sense always conforms. The nature of things is always and everywhere the same; but the modes of them vary, more or less, in every country; and an easy and genteel conformity to them, or rather the assuming of them at proper times, and in proper places, is what particularly constitutes a man of the world, and a well-bred man.</p>
 <p rend="indented">Here is advice enough, I think, and too much, it may be, you will think, for one letter; if you follow it, you will get knowledge, character, and pleasure by it; if you do not, I only lose <hi rend="italic">operam et oleum</hi>,<ref xml:id="fnref-p0033-1" type="noteref" target="#fn-p0033-1">15</ref> which, in all events, I do not grudge you.</p>
 <p rend="indented">I send you, by a person who sets out this day for Leipsic, a small packet from your Mamma, containing some valuable things which you left behind, to which I have added, by way of New Year's gift, a very pretty tooth-pick case; and, by the way, pray take great care of your teeth, and keep them extremely clean. I have likewise sent you the Greek roots, lately translated into English from the French of the Port Royal.<ref xml:id="fnref-p0033-2" type="noteref" target="#fn-p0033-2">16</ref> Inform yourself what the Port Royal is. To conclude with a quibble; I hope you will not only feed upon these Greek roots, but likewise digest them perfectly. Adieu.</p>
 </div>
@@ -720,7 +727,7 @@ Stanhope, Esq.</hi></head>
 <p rend="indented">I have sent you by the Gisbornes a copy of the <hi rend="italic">Elegy on Keats.</hi> The subject, I know, will not please you; but the composition of the poetry, and the taste in which it is written, I do not think bad. You and the enlightened public will judge. Lord Byron is in excellent tone both of health and spirits. He has got rid of all those melancholy and degrading habits which he indulged at Venice. He lives with one woman, a lady of rank here, to whom he is attached, and who is attached to him, and is in every respect an altered man. He has written three more cantos of <hi rend="italic">Don Juan.</hi> I have yet only heard the fifth, and I think that every word of it is pregnant with immortality. I have not seen his late plays, except <hi rend="italic">Marino Faliero,</hi><ref xml:id="fnref-p0070-1" type="noteref" target="#fn-p0070-1">44</ref> which is very well, but not so transcendently fine as the <hi rend="italic">Don Juan.</hi> Lord Byron gets up at <hi rend="italic">two.</hi> I get up, quite contrary to my usual custom, but one must sleep or die, like Southey's sea-snake in <hi rend="italic">Kehama,</hi><ref xml:id="fnref-p0070-2" type="noteref" target="#fn-p0070-2">45</ref> at 12. After breakfast we sit talking till six. From six till eight we gallop through the pine forests which divide Ravenna from the sea; we then come home and dine, and sit up gossiping until six in the morning. I don't <pb xml:id="page-71" n="57"/> suppose this will kill me in a week or fortnight, but I shall not try it longer. Lord B's establishment consists, besides servants, of ten horses, eight enormous dogs, three monkeys, five cats, an eagle, a crow, and a falcon; and all these, except the horses, walk about the house, which every now and then resounds with their unarbitrated quarrels, as if they were the masters of it. Lord B. thinks you wrote a pamphlet signed “John Bull”; he says he knew it by the style resembling <hi rend="italic">Melincourt</hi>,<ref xml:id="fnref-p0071-1" type="noteref" target="#fn-p0071-1">46</ref> of which he is a great admirer. I read it, and assured him that it could not possibly be yours. I write nothing, and probably shall write no more. It offends me to see my name classed among those who have no name. If I cannot be something better, I had rather be nothing, and the accursed cause to the downfall of which I dedicate what powers I may have had — flourishes like a cedar and covers England with its boughs. My motive was never the insane desire of fame; and if I should continue an author, I feel that I should desire it. This cup is justly given to one only of an age; indeed, participation would make it worthless: and unfortunate they who seek it and find it not.</p>
 <p rend="indented">I congratulate you — I hope I ought to do so — on your expected stranger. He is introduced into a rough world. My regards to Hogg, and Coulson if you see him.</p>
 <closer><salute rend="cascading">Ever most faithfully yours,</salute><signed rend="right">P. B. S.</signed></closer>
-<postscript><p rend="postscript">After I have sealed my letter, I find that my enumeration of the animals in this Circean<ref xml:id="fnref-p0071-2" type="noteref" target="#fn-p0071-2">47</ref> Palace was defective, and that in a material point. I have just met on the grand staircase five peacocks, two guinea hens, and an Egyptian crane. I wonder who all these</p><pb xml:id="page-72" n="58"/><p>animals were before they were changed into these shapes.</p></postscript>
+<postscript><p rend="postscript">After I have sealed my letter, I find that my enumeration of the animals in this Circean<ref xml:id="fnref-p0071-2" type="noteref" target="#fn-p0071-2">47</ref> Palace was defective, and that in a material point. I have just met on the grand staircase five peacocks, two guinea hens, and an Egyptian crane. I wonder who all these <pb xml:id="page-72" n="58"/> animals were before they were changed into these shapes.</p></postscript>
 </div>
 <div xml:id="div-letter-0031" type="letter" corresp="#letter-0031">
 <head rend="center">XXXI</head>
@@ -857,7 +864,7 @@ Stanhope, Esq.</hi></head>
 <p rend="indented">If I ever thought it in the nature of things that you and I could ever agree on paper, touching a certain Chuzzlewitian question whereupon Forster tells me you have remarks to make, I should immediately walk into the same, tooth and nail. But as I don't, I won't. Contenting myself with the prediction, that one of these years and days, you will write or say to me: “ My dear Dickens, you were right, though rough, and did a world of good, though you got most thoroughly hated for it.” To which I shall reply: “ My dear Felton, I looked a long way off and not immediately under my nose.” — At which sentiment you will laugh, and I shall laugh; and then (for I foresee this will all happen in my land) we shall call for another pot of porter and two or three dozens of oysters.</p>
 <p rend="indented">Now, don't you in your own heart and soul quarrel with me for this long silence?</p>
 <p rend="indented">Not half so much as I quarrel with myself, I know; <pb xml:id="page-92" n="78"/> but if you could read half the letters I write you in imagination, you would swear by me for the best of correspondents. The truth is, that when I have done my morning's work, down goes my pen, and from that minute I feel it a positive impossibility to take it up again, until imaginary butchers and bakers wave me to my desk. The post-office is my rock ahead. My average number of letters that <hi rend="italic">must</hi> be written every day is, at the least, a dozen. And you could no more know what I was writing to you spiritually, from the perusal of the bodily thirteenth, than you could tell from my hat what was going on in my head, or could hear my heart on the surface of my flannel waistcoat.</p>
-<p rend="indented">This is a little fishing place; intensely quiet; built on a cliff, whereon — in the center of a tiny semicircular bay — our house stands; the sea rolling and dashing under the windows. Seven miles out are the Goodwin Sands (you've heard of the Goodwin Sands?) whence floating lights perpetually wink after dark, as if they were carrying on intrigues with the servants. Also there is a big lighthouse called the North Foreland on a hill behind the village, a severe parsonic light, which reproves the young and giddy floaters, and stares grimly out upon the sea. Under the cliff are rare good sands, where all the children assemble every morning and throw up impossible fortifications, which the sea throws down again at high water. Old gentlemen and ancient ladies look all day through telescopes and never see anything. In a bay-window in a one-pair sits, from nine o'clock until one, a gentleman with rather long hair and no neck-cloth, who writes and grins as if he thought he were very funny indeed. His name is Boz.<ref xml:id="fnref-p0092-1" type="noteref" target="#fn-p0092-1">56</ref> At one he disappears <pb xml:id="page-93" n="79"/> , and presently emerges from a bathing-machine, and may be seen—a kind of salmon-coloured porpoise —splashing about in the ocean. After that he may be seen in another bay-window on the ground floor, eating a strong lunch; after that, walking a dozen miles or so, or lying on his back in the sand reading a book. Nobody bothers him unless they know he is disposed to be talked to; and I am told he is very comfortable indeed. He 's as brown as a berry, and they <hi rend="italic">do</hi> say is a small fortune to the innkeeper who sells beer and cold punch. But this is mere rumour. Sometimes he goes up to London (eighty miles, or so, away), and then I 'm told there is a sound in Lincoln's Inn Fields at night, as men laughing, together with a clinking of knives and forks and wine glasses.</p>
+<p rend="indented">This is a little fishing place; intensely quiet; built on a cliff, whereon — in the center of a tiny semicircular bay — our house stands; the sea rolling and dashing under the windows. Seven miles out are the Goodwin Sands (you've heard of the Goodwin Sands?) whence floating lights perpetually wink after dark, as if they were carrying on intrigues with the servants. Also there is a big lighthouse called the North Foreland on a hill behind the village, a severe parsonic light, which reproves the young and giddy floaters, and stares grimly out upon the sea. Under the cliff are rare good sands, where all the children assemble every morning and throw up impossible fortifications, which the sea throws down again at high water. Old gentlemen and ancient ladies look all day through telescopes and never see anything. In a bay-window in a one-pair sits, from nine o'clock until one, a gentleman with rather long hair and no neck-cloth, who writes and grins as if he thought he were very funny indeed. His name is Boz.<ref xml:id="fnref-p0092-1" type="noteref" target="#fn-p0092-1">56</ref> At one he disappears, <pb xml:id="page-93" n="79"/> and presently emerges from a bathing-machine, and may be seen—a kind of salmon-coloured porpoise —splashing about in the ocean. After that he may be seen in another bay-window on the ground floor, eating a strong lunch; after that, walking a dozen miles or so, or lying on his back in the sand reading a book. Nobody bothers him unless they know he is disposed to be talked to; and I am told he is very comfortable indeed. He 's as brown as a berry, and they <hi rend="italic">do</hi> say is a small fortune to the innkeeper who sells beer and cold punch. But this is mere rumour. Sometimes he goes up to London (eighty miles, or so, away), and then I 'm told there is a sound in Lincoln's Inn Fields at night, as men laughing, together with a clinking of knives and forks and wine glasses.</p>
 <p>I often dream that I am in America again; but, strange to say, I never dream of you. I am always endeavouring to get home in disguise, and have a dreary sense of distance. Apropos of dreams, is it not a strange thing if writers of fiction never dream of their own creations; recollecting, I suppose, even in their dreams, that they have no real existence? I never dream of any of my own characters, and I feel it so impossible that I would wager Scott never did of his, real as they are. I had a good piece of absurdity in my head a night or two ago. I dreamed that somebody was dead. I don't know who, but it 's not to the purpose. It was a private gentleman, or a particular friend; and I was greatly overcome when the news was broken to me (very delicately) by a gentleman in a cocked hat, top boots, and a sheet. Nothing else. " Good God!" I said, " is he dead?" " He is as dead, sir," rejoined the gentleman, " as a door-nail. But <pb xml:id="page-94" n="80"/> we all must die, Mr. Dickens, sooner or later, my dear sir.” “ Ah ! ” I said, “ Yes, to be sure. Very true. But what did he die of ? ” The gentleman burst into a flood of tears, and said in a voice broken by emotion : “ He christened his youngest child, Sir, with a toasting fork.” I never in my life was so affected as at his having fallen a victim to this complaint. It carried a conviction to my mind that he never could have recovered. I knew it was the most interesting and fatal malady in the world ; and I wrung the gentleman’s hand in a convulsion of respectful admiration, for I felt that this explanation did equal honour to his head and heart.</p>
 </div>
 <div xml:id="div-letter-0043" type="letter" corresp="#letter-0043">
@@ -946,7 +953,7 @@ Stanhope, Esq.</hi></head>
 <p rend="letter_header"><hi rend="italic">Thomas Bailey Aldrich to William Dean Howells</hi></p>
 <p rend="dateline"><hi rend="smallcaps">Ponkapog, Mass.</hi>, Dec. 13, 1875.</p>
 <p rend="salutation"><hi rend="smallcaps">Dear Howells</hi>,—</p>
-<p rend="indented">We had so charming a visit at your house that I have about made up my mind to reside with you permanently <pb xml:id="page-108" n="94"/> . I am tired of writing. I would like to settle down in just such a comfortable home as yours, with a man who can work regularly four or five hours a day, thereby relieving one of all painful apprehensions in respect to clothes and pocket-money. I am easy to get along with. I have few unreasonable wants and never complain when they are constantly supplied. I think I could depend on you.</p>
+<p rend="indented">We had so charming a visit at your house that I have about made up my mind to reside with you permanently. <pb xml:id="page-108" n="94"/> I am tired of writing. I would like to settle down in just such a comfortable home as yours, with a man who can work regularly four or five hours a day, thereby relieving one of all painful apprehensions in respect to clothes and pocket-money. I am easy to get along with. I have few unreasonable wants and never complain when they are constantly supplied. I think I could depend on you.</p>
 <closer><salute rend="cascading">Ever yours,</salute><signed rend="cascading">T. B. A.</signed></closer>
 <postscript><p rend="postscript">P.S. I should want to bring my two mothers, my two boys (I seem to have everything in twos), my wife, and her sister.</p></postscript>
 </div>
@@ -1049,7 +1056,7 @@ Stanhope, Esq.</hi></head>
 <p rend="indented">It is our impression that you make very little use of newspaper space. We may be wrong in that idea, but you ask for so few electrotypes and we see so few papers, that we think you are not great believers in newspaper space.</p>
 <p rend="indented">Examples make the best arguments, and we are therefore mailing some newspapers showing the use of space by merchants in every corner of the country. We believe the general conditions under which you operate are not different from theirs.</p>
 <p rend="indented">The fact that you asked the other day for a personal letter indicates that you believe in that form of publicity. There is none better, providing you link it with newspaper copy. Advertising experts everywhere agree that newspaper advertising, even where the medium is only fairly efficient, is the best means of getting trade.</p>
-<p rend="indented">In the old days, the merchant depended on his personality <pb xml:id="page-124" n="110"/> , his acquaintances, for trade. You know how times have changed, how people read the newspapers, how men depend on publicity, how they look in the daily paper not only for general news, but news of “ where to buy.”</p>
+<p rend="indented">In the old days, the merchant depended on his personality, <pb xml:id="page-124" n="110"/> his acquaintances, for trade. You know how times have changed, how people read the newspapers, how men depend on publicity, how they look in the daily paper not only for general news, but news of “ where to buy.”</p>
 <p rend="indented">When the spring season opens up, we are going to take the liberty of sending you some fine, new, attractive newspaper illustrations, together with some copy particularly suited to your people. We hope you will permit us to do this, and that you will be willing to give us some information about your trade, your newspapers, and the things you want to feature specially. We shall be glad to have your ideas on the subject. It is only because we think you can sell more goods under this plan that we mention it.</p>
 <closer><salute rend="cascading">Yours truly,</salute><signed rend="cascading"><hi rend="smallcaps">Hart, Schaffner &amp; Marx.</hi></signed></closer>
 </div>
@@ -1134,6 +1141,8 @@ Or if the slain think he is slain."</p></note>
 <note place="foot" xml:id="fn-p0113-1" n="64"><p>These titles refer to essays on which Stevenson was then working.</p></note>
 </div>
 </div>
+    </body>
+    <back>
       <div xml:id="sec-sec-03" type="appendix">
 <head>NOTES</head>
 <pb xml:id="page-126" n="112"/>
@@ -1145,7 +1154,7 @@ Or if the slain think he is slain."</p></note>
 <list><item><hi rend="bold">American Classics.</hi> With suggestions for study, etc. <hi rend="bold">438 pages, 75</hi> cents, <hi rend="italic">net.</hi></item><item><hi rend="bold">American and English Classics.</hi> For Grammar Grades. With explanatory notes, etc. 330 pages. 55 cents, <hi rend="italic">net.</hi></item><item><hi rend="bold">American Poems.</hi> Edited by H. E. <hi rend="smallcaps">Scudder.</hi> 453 pages, $1.00, <hi rend="italic">net.</hi></item><item><hi rend="bold">American Prose.</hi> Edited by H. E. <hi rend="smallcaps">Scudder.</hi> 414 pages, $1.00, <hi rend="italic">net.</hi></item><item><hi rend="bold">Literary Masterpieces.</hi> With explanatory notes, etc. 433 pages, 80 cents, <hi rend="italic">net.</hi></item><item><hi rend="bold">Masterpieces of American Literature.</hi> Edited by H. E. <hi rend="smallcaps">Scudder.</hi> With explanatory notes, etc. 504 pages, $1.00, <hi rend="italic">net.</hi></item><item><hi rend="bold">Masterpieces of British Literature.</hi> Edited by H. E. <hi rend="smallcaps">Scudder.</hi> With explanatory notes, etc. 480 pages, $1.00, <hi rend="italic">net.</hi></item><item><hi rend="bold">An American Anthology.</hi> Edited by E. C. <hi rend="smallcaps">Stedman.</hi> 878 pages. <hi rend="italic">Student's Edition.</hi> $2.00, <hi rend="italic">net.</hi></item><item><hi rend="bold">A Victorian Anthology.</hi> Edited by E. C. <hi rend="smallcaps">Stedman.</hi> 744 pages. <hi rend="italic">Student's Edition.</hi> $1.75, <hi rend="italic">net.</hi></item><item><hi rend="bold">The Chief American Poets.</hi> Edited by C. H. <hi rend="smallcaps">Page,</hi> Professor of English Literature in Northwestern University. 713 pages, $1.75, <hi rend="italic">net.</hi></item><item><hi rend="bold">Selections from the Riverside Literature Series. For Fifth Grade Reading.</hi> (In preparation.)</item><item><hi rend="bold">Selections from the Riverside Literature Series. For Sixth Grade Reading.</hi> With explanatory notes. 222 pages. 40 cents, <hi rend="italic">net.</hi></item><item><hi rend="bold">Selections from the Riverside Literature Series. For Seventh Grade Reading.</hi> With explanatory notes. 256 pages. 40 cents, <hi rend="italic">net.</hi></item><item><hi rend="bold">Selections from the Riverside Literature Series. For Eighth Grade Reading.</hi> With explanatory notes. 256 pages. 40 cents, <hi rend="italic">net.</hi></item><item><hi rend="bold">Riverside Literature Series.</hi> 223 volumes, with introductions, notes, biographical sketches, and illustrations. 170 volumes list at 15 cents, paper, or 25 cents, cloth, <hi rend="italic">net.</hi></item><item><hi rend="bold">Modern Classics.</hi> 34 volumes, pocket size, without notes. The uniform price is 40 cents, <hi rend="italic">net.</hi></item><item><hi rend="bold">Rolfe's Students' Series.</hi> 11 volumes of poems by Scott, Tennyson Byron and Morris. Edited by W. J. <hi rend="smallcaps">Rolfe.</hi> Price to teachers, 53 cents, each, <hi rend="italic">net.</hi></item></list>
 <milestone unit="section" rend="ornament"/>
 <p rend="imprint">HOUGHTON MIFFLIN COMPANY<lb/>BOSTON          NEW YORK          CHICAGO</p>
-<pb xml:id="page-132" n="15"/><p rend="heading">ENGLISH LITERATURE</p>
+<pb xml:id="page-132" n="132"/><p rend="heading">ENGLISH LITERATURE</p>
 <list><item>A Short History of England's Literature. By <hi rend="smallcaps">Eva March Tappan</hi>, formerly of the English Department, English High School, Worcester, Mass., author of <hi rend="italic">England's Story</hi>, <hi rend="italic">Our Country's Story</hi>, etc. 253 pages, 85 cents, <hi rend="italic">net</hi>.</item><item>A Student's History of English Literature. By William E. Simonds, Professor of English Literature in Knox College. 483 pages, $1.25, <hi rend="italic">net</hi>.</item><item>Lives of Great English Writers. From Chaucer to Browning. By W. S. <hi rend="smallcaps">Hinchman</hi>, Instructor in English at the Groton School, and <hi rend="smallcaps">Francis B. Gummere</hi>, Professor of English at Haverford College. 555 pages, $1.50, <hi rend="italic">net</hi>.</item></list>
 <p rend="heading">AMERICAN LITERATURE</p>
 <list><item>A Short History of England's and America's Literature. By <hi rend="smallcaps">Eva March Tappan</hi>. 399 pages, $1.20, <hi rend="italic">net</hi>.</item><item>A Short History of America's Literature. With Selections from Colonial and Revolutionary writers. By <hi rend="smallcaps">Eva March Tappan</hi>. 246 pages, 80 cents, <hi rend="italic">net</hi>.</item><item>A History of American Literature. By <hi rend="smallcaps">William E. Simonds</hi>. 357 pages, $1.10, <hi rend="italic">net</hi>.</item><item>A Primer of American Literature. By <hi rend="smallcaps">Charles F. Richardson</hi>, Professor of English in Dartmouth College. 18mo, 140 pages, 35 cents, <hi rend="italic">net</hi>.</item></list>
@@ -1155,6 +1164,6 @@ Or if the slain think he is slain."</p></note>
 <p rend="imprint">HOUGHTON MIFFLIN COMPANY<lb/>BOSTON NEW YORK CHICAGO</p>
 </div>
 </div>
-    </body>
+    </back>
   </text>
 </TEI>

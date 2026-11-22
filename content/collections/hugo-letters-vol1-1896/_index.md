@@ -26,12 +26,12 @@
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 92.0,
+  "score": 90.5,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 28.0,
+    "score": 26.5,
     "out_of": 30.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 3,
+  "flagged": 4,
   "blockers": 0
  },
  "proof": {
@@ -282,27 +282,27 @@
   {
    "format": "epub",
    "file": "hugo-letters-vol1-1896.epub",
-   "bytes": 193664,
-   "sha256": "b3791d7d42030b4880c7312ebf43a0ed0a3450b3268058a937340a1a75859042"
+   "bytes": 237293,
+   "sha256": "2e1b2c2af2e6b38906f94c435bf7629426aaec6c8cb22f29aa830d63cdbd0561"
   },
   {
    "format": "markdown",
    "file": "hugo-letters-vol1-1896.md",
-   "bytes": 428664,
-   "sha256": "93f54c274f62bae5b5eeb2c7a8f9e5eb85cd94bb0a0c830030f8a7b9b4db626c"
+   "bytes": 428662,
+   "sha256": "036d1fe9e04c695d8d7264e0b857564214def91cefc99b9fe16cd97422666675"
   },
   {
    "format": "tei",
    "file": "hugo-letters-vol1-1896.tei.xml",
-   "bytes": 590991,
-   "sha256": "41b767776f9a2215d1d2752929d519f3ceee4c7a8dc6889ff4874396b653c208"
+   "bytes": 591443,
+   "sha256": "934096442bad936fa2603fe200d32370854c7b8d9728a4351116c17064a8c4b2"
   }
  ],
  "scan_base": "https://archive.org/download/ofvictorhletters00hugorich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:22:19Z",
-  "source_ast_sha256": "69bad2a9551ee6b6cfcb254a04499f74f146e18053c251585470a0e07faffac3",
+  "compiled_at": "2026-11-22T08:53:51Z",
+  "source_ast_sha256": "fda3a9da3231b890f7ad7b051ce0ad53e078b0bf1aaca8bb7650936fb54a8a7b",
   "hugo_renderer_version": "1.0.0"
  }
 }

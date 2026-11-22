@@ -9,15 +9,21 @@
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
         <idno type="book_id">letters-from-famous-people-1925</idno>
-        <availability status="free"><p>CC0 1.0 Public Domain</p></availability>
+        <availability status="free"><p>CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)</p></availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>Letters from Famous People</title>
           <date>1925</date>
+          <idno type="URI">https://archive.org/details/lettersfromfamou0000shar</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Diplomatic archival transcription preserving historical orthography, diacritics, epistolary layouts, and footnotes.</p>
+      </editorialDecl>
+    </encodingDesc>
     <profileDesc>
       <correspDesc xml:id="letter-0001">
         <correspAction type="sent"><persName>ACHMED ABDULLAH</persName></correspAction>
@@ -1000,7 +1006,7 @@
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
+    <front>
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
@@ -1027,7 +1033,7 @@
 </div>
 <div xml:id="div-unit-0003" type="apparatus">
 <pb xml:id="page-11" n="vii"/><head rend="center">LIST OF CONTRIBUTORS</head>
-<table><row><cell>Name</cell><cell>Page</cell></row></table>
+<table cols="2" rows="1"><row role="label"><cell>Name</cell><cell>Page</cell></row></table>
 <p rend="toc_entry">Abdullah, Achmed . . . . . . . . . . . . . . . . . 1</p>
 <p rend="toc_entry">Adams, Andy . . . . . . . . . . . . . . . . . . . . 1</p>
 <p rend="toc_entry">Adams, Harriet Chalmers . . . . . . . . . . . . . . 2</p>
@@ -1054,7 +1060,7 @@
 <p rend="toc_entry">Bingham, Hiram . . . . . . . . . . . . . . . . . . . 22</p>
 <p rend="toc_entry">Birdsall, Katharine N. . . . . . . . . . . . . . . . 19</p>
 <p rend="toc_entry">Black, Alexander . . . . . . . . . . . . . . . . . . 23</p>
-<pb xml:id="page-12" n="viii"/><table><row><cell>Name</cell><cell>Page</cell></row></table>
+<pb xml:id="page-12" n="viii"/><table cols="2" rows="1"><row role="label"><cell>Name</cell><cell>Page</cell></row></table>
 <p rend="toc_entry">Bolton, Charles Knowles . . . . . . . . . . . . . . 24</p>
 <p rend="toc_entry">Bonsal, Stephen . . . . . . . . . . . . . . 24</p>
 <p rend="toc_entry">Booth, Ballington . . . . . . . . . . . . . . 25</p>
@@ -1086,7 +1092,7 @@
 <p rend="toc_entry">Chubb, Percival . . . . . . . . . . . . . . 58</p>
 <p rend="toc_entry">Clark, G. Hardy . . . . . . . . . . . . . . 59</p>
 <p rend="toc_entry">Claudy, C. H. . . . . . . . . . . . . . 61</p>
-<pb xml:id="page-13" n="ix"/><table><row><cell>Name</cell><cell>Page</cell></row></table>
+<pb xml:id="page-13" n="ix"/><table cols="2" rows="1"><row role="label"><cell>Name</cell><cell>Page</cell></row></table>
 <p rend="toc_entry">Clews, Henry. . . . . . . . . . . . . . . . . 62</p>
 <p rend="toc_entry">Cobb, Irvin S. . . . . . . . . . . . . . . . 63</p>
 <p rend="toc_entry">Cohan, George M. . . . . . . . . . . . . . . 63</p>
@@ -1118,7 +1124,7 @@
 <p rend="toc_entry">Eberhart, Nelle Richmond . . . . . . . . . . . . 92</p>
 <p rend="toc_entry">Edstrom, David . . . . . . . . . . . . . . . 94</p>
 <p rend="toc_entry">Egan, Maurice Francis. . . . . . . . . . . . . . 96</p>
-<pb xml:id="page-14" n="x"/><table><row><cell>Name</cell><cell>Page</cell></row></table>
+<pb xml:id="page-14" n="x"/><table cols="2" rows="1"><row role="label"><cell>Name</cell><cell>Page</cell></row></table>
 <p rend="toc_entry">Elmendorf, Dwight L. . . . . . . . . . . . . . . . 97</p>
 <p rend="toc_entry">Faber, Eberhard . . . . . . . . . . . . . . . . . 97</p>
 <p rend="toc_entry">Faris, John T. . . . . . . . . . . . . . . . . . 98</p>
@@ -1150,7 +1156,7 @@
 <p rend="toc_entry">Gregg, John Robert . . . . . . . . . . . . . . . 121</p>
 <p rend="toc_entry">Grenfell, Wilfred T. . . . . . . . . . . . . . . 123</p>
 <p rend="toc_entry">Greusel, John H. . . . . . . . . . . . . . . . . 124</p>
-<pb xml:id="page-15" n="xi"/><table><row><cell>Name</cell><cell>Page</cell></row></table>
+<pb xml:id="page-15" n="xi"/><table cols="2" rows="1"><row role="label"><cell>Name</cell><cell>Page</cell></row></table>
 <p rend="toc_entry">Griffis, William Elliott . . . . . . . . . . . . . . . 127</p>
 <p rend="toc_entry">Griffith, D. W. . . . . . . . . . . . . . . . 128</p>
 <p rend="toc_entry">Griggs, Edward Howard . . . . . . . . . . . . . . 128</p>
@@ -1182,7 +1188,7 @@
 <p rend="toc_entry">Johnson, Clifton . . . . . . . . . . . . . . . 150</p>
 <p rend="toc_entry">Johnson, Constance W. . . . . . . . . . . . . . 150</p>
 <p rend="toc_entry">Johnson, Robert Underwood . . . . . . . . . . . 151</p>
-<pb xml:id="page-16" n="xii"/><table><row><cell>Name</cell><cell>Page</cell></row></table>
+<pb xml:id="page-16" n="xii"/><table cols="2" rows="1"><row role="label"><cell>Name</cell><cell>Page</cell></row></table>
 <p rend="index_entry">Johnson, Rossiter . . . . . . . . . . . . . . . . . . . 151</p>
 <p rend="index_entry">Johnston, Mary . . . . . . . . . . . . . . . . . . . . 152</p>
 <p rend="index_entry">Johnston, William . . . . . . . . . . . . . . . . . . . 153</p>
@@ -1214,9 +1220,9 @@
 <p rend="index_entry">MacGowan, Alice . . . . . . . . . . . . . . . . . . . 178</p>
 <p rend="index_entry">Macgrath, Harold . . . . . . . . . . . . . . . . . . . 179</p>
 <p rend="index_entry">MacGregor, T. D. . . . . . . . . . . . . . . . . . . . 180</p>
-<pb xml:id="page-17" n="xiii"/><table><row><cell>Name</cell><cell>Page</cell></row><row><cell>MacNider, Hanford</cell><cell>182</cell></row><row><cell>Mann, Louis</cell><cell>182</cell></row><row><cell>Marcosson, Isaac F.</cell><cell>183</cell></row><row><cell>Marks, Jeannette</cell><cell>184</cell></row><row><cell>Marshall, Edward</cell><cell>185</cell></row><row><cell>Martinelli, Giovanni</cell><cell>185</cell></row><row><cell>Mason, Caroline Atwater</cell><cell>185</cell></row><row><cell>Masson, Thomas L.</cell><cell>186</cell></row><row><cell>Maynard, Charles Johnson</cell><cell>188</cell></row><row><cell>McCaleb, Walter F.</cell><cell>188</cell></row><row><cell>McCardell, Roy L.</cell><cell>189</cell></row><row><cell>McCarter, Margaret Hill</cell><cell>190</cell></row><row><cell>McConnell, Lincoln</cell><cell>191</cell></row><row><cell>McCutcheon, George Barr</cell><cell>192</cell></row><row><cell>McMaster, John Bach</cell><cell>192</cell></row><row><cell>Meriwether, Lee</cell><cell>194</cell></row><row><cell>Merwin, Samuel</cell><cell>194</cell></row><row><cell>Millard, Bailey</cell><cell>195</cell></row><row><cell>Miller, Warren Hastings</cell><cell>197</cell></row><row><cell>Mix, Tom</cell><cell>199</cell></row><row><cell>Moffett, Cleveland.</cell><cell>199</cell></row><row><cell>Morgenthau, Henry</cell><cell>200</cell></row><row><cell>Morley, Margaret W.</cell><cell>200</cell></row><row><cell>Morris, Robert T.</cell><cell>201</cell></row><row><cell>Mulford, Clarence E.</cell><cell>203</cell></row><row><cell>Mullins, Isla May</cell><cell>204</cell></row><row><cell>Newman, E. M.</cell><cell>207</cell></row><row><cell>Nicholson, Meredith</cell><cell>209</cell></row><row><cell>Norris, Kathleen</cell><cell>211</cell></row><row><cell>Nutting, Wallace</cell><cell>212</cell></row><row><cell>Orcutt, William Dana</cell><cell>214</cell></row><pb xml:id="page-18" n="xiv"/><row><cell>Name</cell><cell>Page</cell></row></table>
+<pb xml:id="page-17" n="xiii"/><table cols="2" rows="33"><row role="label"><cell>Name</cell><cell>Page</cell></row><row><cell>MacNider, Hanford</cell><cell>182</cell></row><row><cell>Mann, Louis</cell><cell>182</cell></row><row><cell>Marcosson, Isaac F.</cell><cell>183</cell></row><row><cell>Marks, Jeannette</cell><cell>184</cell></row><row><cell>Marshall, Edward</cell><cell>185</cell></row><row><cell>Martinelli, Giovanni</cell><cell>185</cell></row><row><cell>Mason, Caroline Atwater</cell><cell>185</cell></row><row><cell>Masson, Thomas L.</cell><cell>186</cell></row><row><cell>Maynard, Charles Johnson</cell><cell>188</cell></row><row><cell>McCaleb, Walter F.</cell><cell>188</cell></row><row><cell>McCardell, Roy L.</cell><cell>189</cell></row><row><cell>McCarter, Margaret Hill</cell><cell>190</cell></row><row><cell>McConnell, Lincoln</cell><cell>191</cell></row><row><cell>McCutcheon, George Barr</cell><cell>192</cell></row><row><cell>McMaster, John Bach</cell><cell>192</cell></row><row><cell>Meriwether, Lee</cell><cell>194</cell></row><row><cell>Merwin, Samuel</cell><cell>194</cell></row><row><cell>Millard, Bailey</cell><cell>195</cell></row><row><cell>Miller, Warren Hastings</cell><cell>197</cell></row><row><cell>Mix, Tom</cell><cell>199</cell></row><row><cell>Moffett, Cleveland.</cell><cell>199</cell></row><row><cell>Morgenthau, Henry</cell><cell>200</cell></row><row><cell>Morley, Margaret W.</cell><cell>200</cell></row><row><cell>Morris, Robert T.</cell><cell>201</cell></row><row><cell>Mulford, Clarence E.</cell><cell>203</cell></row><row><cell>Mullins, Isla May</cell><cell>204</cell></row><row><cell>Newman, E. M.</cell><cell>207</cell></row><row><cell>Nicholson, Meredith</cell><cell>209</cell></row><row><cell>Norris, Kathleen</cell><cell>211</cell></row><row><cell>Nutting, Wallace</cell><cell>212</cell></row><row><cell>Orcutt, William Dana</cell><cell>214</cell></row><pb xml:id="page-18" n="xiv"/><row role="label"><cell>Name</cell><cell>Page</cell></row></table>
 <p rend="toc_entry">Osborn, Henry Fairfield . . . . . . . . . . . . . . 214<lb/>Osborne, William H. . . . . . . . . . . . . . . 215<lb/>Packard, Winthrop . . . . . . . . . . . . . . . 218<lb/>Paine, Ralph D. . . . . . . . . . . . . . . . 218<lb/>Paltsits, Victor Hugo . . . . . . . . . . . . . . 219<lb/>Park, J. Edgar . . . . . . . . . . . . . . . 220<lb/>Parkhurst, Charles H. . . . . . . . . . . . . . . 221<lb/>Parlette, Ralph . . . . . . . . . . . . . . . 222<lb/>Parrish, Maxfield . . . . . . . . . . . . . . . 223<lb/>Parsons, Frank Alvah . . . . . . . . . . . . . . 224<lb/>Partigian, Haig . . . . . . . . . . . . . . . 225<lb/>Patchin, Frank G. . . . . . . . . . . . . . . 225<lb/>Peabody, Francis G. . . . . . . . . . . . . . . 226<lb/>Peary, Josephine D. . . . . . . . . . . . . . . 227<lb/>Pendexter, Hugh . . . . . . . . . . . . . . . 227<lb/>Penn, Arthur A. . . . . . . . . . . . . . . 230<lb/>Perry, Bliss . . . . . . . . . . . . . . . 230<lb/>Petrova, Olga . . . . . . . . . . . . . . . 231<lb/>Pillsbury, John S. . . . . . . . . . . . . . . 231<lb/>Pollock, Channing . . . . . . . . . . . . . . . 232<lb/>Porter, Harold E. (“Holworthy Hall”) . . . . . . . . . . . 233<lb/>Powell, Lyman P. . . . . . . . . . . . . . . 233<lb/>Putnam, George Haven . . . . . . . . . . . . . . 233<lb/>“Quad, M.” (see Charles B. Lewis) . . . . . . . . . . 168<lb/>Quick, John Herbert . . . . . . . . . . . . . . 235<lb/>Rainsford, William S. . . . . . . . . . . . . . . 238<lb/>Ray, Charles . . . . . . . . . . . . . . . 239<lb/>Rea, Samuel . . . . . . . . . . . . . . . 240<lb/>Rhodes, James F. . . . . . . . . . . . . . . 240<lb/>Richberg, Donald R. . . . . . . . . . . . . . . 241<lb/>Richmond, Grace S. . . . . . . . . . . . . . . 241</p>
-<pb xml:id="page-19" n="xv"/><table><row><cell>Name</cell><cell>Page</cell></row></table>
+<pb xml:id="page-19" n="xv"/><table cols="2" rows="1"><row role="label"><cell>Name</cell><cell>Page</cell></row></table>
 <p rend="toc_entry">Rickenbacker, Edward Vernon . . . . . . . . . . . . 242</p>
 <p rend="toc_entry">Rinehart, Mary Roberts . . . . . . . . . . . . . . 243</p>
 <p rend="toc_entry">Roberts, Kenneth L. . . . . . . . . . . . . . . . 243</p>
@@ -1248,7 +1254,7 @@
 <p rend="toc_entry">Starr, Frederick . . . . . . . . . . . . . . . . . 270</p>
 <p rend="toc_entry">Steell, Willis . . . . . . . . . . . . . . . . . . 271</p>
 <p rend="toc_entry">Stefansson, Vilhjalmur. . . . . . . . . . . . . . . 271</p>
-<pb xml:id="page-20" n="xvi"/><table><row><cell>Name</cell><cell>Page</cell></row></table>
+<pb xml:id="page-20" n="xvi"/><table cols="2" rows="1"><row role="label"><cell>Name</cell><cell>Page</cell></row></table>
 <p rend="toc_entry">Steiner, Edward A. . . . . . . . . . . . . . . . . . . . 272</p>
 <p rend="toc_entry">Sterner, Albert . . . . . . . . . . . . . . . . . . . . . 273</p>
 <p rend="toc_entry">Stokes, Edward C. . . . . . . . . . . . . . . . . . . . 274</p>
@@ -1280,7 +1286,7 @@
 <p rend="toc_entry">Wanamaker, John . . . . . . . . . . . . . . . . . . . . 310</p>
 <p rend="toc_entry">Warfield, David . . . . . . . . . . . . . . . . . . . . 312</p>
 <p rend="toc_entry">Watts, Mary S. . . . . . . . . . . . . . . . . . . . . 313</p>
-<pb xml:id="page-21" n="xvii"/><table><row><cell>Name</cell><cell>Page</cell></row></table>
+<pb xml:id="page-21" n="xvii"/><table cols="2" rows="1"><row role="label"><cell>Name</cell><cell>Page</cell></row></table>
 <p rend="toc_entry">Wayland, John W. . . . . . . . . . . . . . . . . . 314</p>
 <p rend="toc_entry">Weeks, John W. . . . . . . . . . . . . . . . . . 315</p>
 <p rend="toc_entry">Weinman, Adolph A. . . . . . . . . . . . . . . . . 316</p>
@@ -1305,6 +1311,8 @@
 <pb xml:id="page-23" n="23"/><p rend="heading">LETTERS FROM FAMOUS PEOPLE</p>
 </div>
 </div>
+    </front>
+    <body>
       <div xml:id="sec-sec-02" type="epistolary_part">
 <head>Letters from Famous People</head>
 <div xml:id="div-unit-0005" type="apparatus">
@@ -1508,8 +1516,7 @@
 <div xml:id="div-letter-0034" type="letter" corresp="#letter-0034">
 <p rend="indented">I RECOMMEND the following extract from a letter which Theodore Roosevelt wrote to his son “Ted,” when the latter was a freshman at Harvard. It contains good advice on the relative merits of popularity and good judgment.</p>
 <floatingText type="letter_excerpt"><body><div><quote><p>“Exercise your own best judgment and form some idea of what the really best fellows in the class think on the subject. Do not make the mistake of thinking that the men who are merely undeveloped are really the best fellows, no matter how pleasant and agreeable they are or how popular. Popularity is a good thing, but it is not something for which to sacrifice studies or athletics or good standing in any way; and sometimes to seek it overmuch is to lose it. I do not mean this as applying to you, but as applying to certain men who still have a great vogue at first in the class, and of whom you will naturally tend to think pretty well.</p></quote>
-<quote><p>“In all these things I can only advise you in a very general way. You are on the ground. You know the men and the general college sentiment. You have gone in with the serious purpose of doing decently and honorably; of</p></quote></div></body></floatingText>
-<pb xml:id="page-56" n="32"/><p>standing well in your studies; of showing that in athletics you mean business up to the extent of your capacity, and of getting the respect and liking of your classmates so far as they can be legitimately obtained.”</p>
+<quote><p>“In all these things I can only advise you in a very general way. You are on the ground. You know the men and the general college sentiment. You have gone in with the serious purpose of doing decently and honorably; of <pb xml:id="page-56" n="32"/> standing well in your studies; of showing that in athletics you mean business up to the extent of your capacity, and of getting the respect and liking of your classmates so far as they can be legitimately obtained.”</p></quote></div></body></floatingText>
 <closer><signed rend="right">ROBERT BRIDGES<lb/>(“Droch”)</signed></closer>
 </div>
 <div xml:id="div-letter-0035" type="letter" corresp="#letter-0035">
@@ -2286,7 +2293,7 @@
 <closer><signed rend="right">ROSSITER JOHNSON</signed></closer>
 </div>
 <div xml:id="div-letter-0153" type="letter" corresp="#letter-0153">
-<p>THESE young people are growing up in a tremendous time of change. It is more important than at the moment they can grasp, perhaps, that they should learn and that they should keep themselves open to every wholesome and generous mood and thought and act. Increasingly <pb xml:id="page-177" n="153"/> , men and women of the earth will have a great part to play—or to decline to play. It is not a question of opinions, but of the character, the heart and mind and life, the individual, himself or herself. I hope for all these young men and women that they will play their part well. I wish for them open minds, open hearts, strong love for humanity, and the will to serve. I wish for them health, joy, wisdom and power!</p>
+<p>THESE young people are growing up in a tremendous time of change. It is more important than at the moment they can grasp, perhaps, that they should learn and that they should keep themselves open to every wholesome and generous mood and thought and act. Increasingly, <pb xml:id="page-177" n="153"/> men and women of the earth will have a great part to play—or to decline to play. It is not a question of opinions, but of the character, the heart and mind and life, the individual, himself or herself. I hope for all these young men and women that they will play their part well. I wish for them open minds, open hearts, strong love for humanity, and the will to serve. I wish for them health, joy, wisdom and power!</p>
 <closer><signed rend="right"><hi rend="smallcaps">Mary Johnston</hi></signed></closer>
 </div>
 <div xml:id="div-letter-0154" type="letter" corresp="#letter-0154">
@@ -2459,9 +2466,8 @@
 </div>
 <div xml:id="div-letter-0182" type="letter" corresp="#letter-0182">
 <p>AS I am particularly interested in promulgating sensible ideas of thrift, I believe that I can do nothing better than quote for the benefit of your pupils the following paragraphs from my own volume, “The Book of Thrift”:</p>
-<floatingText type="enclosure"><body><div><head rend="center">“<hi rend="italic">Getting on in the World</hi>”</head>
-<quote><p rend="indented">“How to succeed, how to get on in the world—that is the problem that millions of earnest men and women are striving to solve, each in his own way, but all, consciously or unconsciously, observing the same general principles. “There is nothing in such an effort at variance with the highest moral standards. In fact, the zealous pursuit of such an object has a beneficial reflex action upon the character, as it has upon the physical and mental nature. “Saving has a beneficial moral effect, but extravagance, as it usually is acting a lie, is essentially immoral and breeds many other irregularities and sins. On the other hand, temperance and integrity go hand in</p></quote>
-<pb xml:id="page-205" n="181"/><p>hand with thrift. This course is the harder one, but it is doing hard things that develops strength and character.</p>
+<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>“Getting on in the World”</p></div></front><body><div><head rend="center">“<hi rend="italic">Getting on in the World</hi>”</head>
+<quote><p rend="indented">“How to succeed, how to get on in the world—that is the problem that millions of earnest men and women are striving to solve, each in his own way, but all, consciously or unconsciously, observing the same general principles. “There is nothing in such an effort at variance with the highest moral standards. In fact, the zealous pursuit of such an object has a beneficial reflex action upon the character, as it has upon the physical and mental nature. “Saving has a beneficial moral effect, but extravagance, as it usually is acting a lie, is essentially immoral and breeds many other irregularities and sins. On the other hand, temperance and integrity go hand in <pb xml:id="page-205" n="181"/> hand with thrift. This course is the harder one, but it is doing hard things that develops strength and character.</p></quote>
 <p rend="indented">“Luck is a fetish. Too many persons believe in it, and fall down and worship it. Too often speculation takes the place of industry; gambling, of thrift; extravagance, of saving.</p>
 <p rend="indented">“Earnest men think more of pluck than of luck. But the earnest men are so few in the world, as Dwight says, that their very earnestness becomes at once the badge of their nobility; and as men in a crowd instinctively make room for one who seems eager to force his way through it, so people everywhere open their ranks to one who rushes zealously toward some object lying beyond them.</p>
 <p rend="indented">“That is the way it is in the matter of saving. If a man is determined to save and get ahead, the gibes and jeers of his spendthrift acquaintances will not deter him, and he will have the laugh on them later on.</p>
@@ -2703,7 +2709,7 @@
 <closer><signed rend="right"><hi rend="smallcaps">Ralph D. Paine</hi></signed></closer>
 </div>
 <div xml:id="div-letter-0219" type="letter" corresp="#letter-0219">
-<p>I <hi rend="smallcaps">suppose</hi> that every normal being seeks joy. Many fail in the quest because there are so many counterfeits which they follow as false gods. Banks cannot prosper with counterfeits; business cannot succeed on a counterfeit basis—neither can a human life. Integrity is the key to a good name and a good name is retained by everlasting vigilance; it is easy to lose it, because it is harder to build up than to destroy. These are commonplaces <pb n="220"/> , yet it is remarkable that withal they are so much disregarded. I have been thinking a good deal about joy—real joy. It is not found in envy, nor in dissatisfaction with one's lot, nor in shirking duties, nor in numerous counterfeit substitutes for a real life, but</p>
+<p>I <hi rend="smallcaps">suppose</hi> that every normal being seeks joy. Many fail in the quest because there are so many counterfeits which they follow as false gods. Banks cannot prosper with counterfeits; business cannot succeed on a counterfeit basis—neither can a human life. Integrity is the key to a good name and a good name is retained by everlasting vigilance; it is easy to lose it, because it is harder to build up than to destroy. These are commonplaces, <pb n="220"/> yet it is remarkable that withal they are so much disregarded. I have been thinking a good deal about joy—real joy. It is not found in envy, nor in dissatisfaction with one's lot, nor in shirking duties, nor in numerous counterfeit substitutes for a real life, but</p>
 <floatingText type="verse_insert"><body><div><pb xml:id="page-244" n="220"/><lg rend="indented"><l>Joy, staple and secure,</l><l>The balm that will endure,</l><l>In sacrifice is sanctified—</l><l>Just overcome yourself!</l><l>For that speed JOY!</l></lg></div></body></floatingText>
 <p rend="indented">Such joy makes of us good friends and good citizens.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Victor Hugo Paltsits</hi></signed></closer>
@@ -2782,7 +2788,7 @@
 <closer><signed rend="right">OLGA PETROVA</signed></closer>
 </div>
 <div xml:id="div-letter-0233" type="letter" corresp="#letter-0233">
-<p>WITH the present demands of American business, it is very easy to hold forth the greatest encouragement to young men and women at this time. It is frequently said in many quarters that there is not the opportunity today of climbing to the top in business that existed a generation ago. I can testify from experience that this is not the case. There are hundreds of large business concerns in this country today that are desperately in need of high-class personnel. There is an over-supply of those who are not ambitious or industrious, and who are only fitted to occupy clerical positions and other positions entailing little responsibility <pb xml:id="page-256" n="232"/> . In expressing this in terms of salaries, I do not believe I am exaggerating in the slightest when I make a statement that any large company can get all of the personnel it desires to fill positions paying anywhere from $100 to $300 per month; but at the top of the ladder there are thousands of positions, necessarily vacant, where men, with imagination, industry and experience, are needed and where the compensation is from $10,000 a year—up.</p>
+<p>WITH the present demands of American business, it is very easy to hold forth the greatest encouragement to young men and women at this time. It is frequently said in many quarters that there is not the opportunity today of climbing to the top in business that existed a generation ago. I can testify from experience that this is not the case. There are hundreds of large business concerns in this country today that are desperately in need of high-class personnel. There is an over-supply of those who are not ambitious or industrious, and who are only fitted to occupy clerical positions and other positions entailing little responsibility. <pb xml:id="page-256" n="232"/> In expressing this in terms of salaries, I do not believe I am exaggerating in the slightest when I make a statement that any large company can get all of the personnel it desires to fill positions paying anywhere from $100 to $300 per month; but at the top of the ladder there are thousands of positions, necessarily vacant, where men, with imagination, industry and experience, are needed and where the compensation is from $10,000 a year—up.</p>
 <p rend="indented">The greatest difficulty today is that when a really intelligent, capable, young man works hard with a large company for five or ten years, during which time he probably owes the company as much as they owe him, he becomes impatient, inclined to take things easy, and seeks easier employment where the final opportunity is not as great.</p>
 <p rend="indented">Of course, all young men and women cannot hope to reach the class mentioned above, but if they have the determination, education, industry and natural ability, they are sure of success, as the demand is so great.</p>
 <closer><signed rend="right">JOHN S. PILLSBURY</signed></closer>
@@ -2944,7 +2950,7 @@
 <p>I FIND it very difficult to address you because of a lack of information regarding the various enterprises and ambitions that are, perhaps, in the formative state in your minds. If any of the eight want to become business men or <pb xml:id="page-279" n="255"/> women, then I must confess to my inability to give you any counsel whatsoever, because I know so very little of business. Of the Law I know still less; and of the professions other than my own I know only the things I was fortunate enough to learn at school, and the little that has subsequently soaked in.</p>
 <p rend="indented">Curiously enough, while at school—where I had an opportunity to learn—I did not, I fear, take advantage of the sources of information that were open to me. I had the student's aversion to cramming, and I skimmed over the surface of things as lightly as possible. I did only enough to “get by.” But you may be sure that after I left school I had to work hard enough for the information that might have been mine for nothing. To paraphrase Mr. Coue: We pay each day in every way for lack of effort and enthusiasm at school. When the world becomes your teacher, you will find it a veritable Shylock, demanding its pound of flesh with a cynical lack of sympathy for your unpreparedness.</p>
 <p rend="indented">Now, I do not want you to get the impression that the world has a grudge against the young person just out of school. It hasn't. The world after school is a cosmic machine which is operated through the medium of innumerable cogs. Metaphorically speaking, each human being is a cog. When he gets out into the world and becomes a cog in the machine, he is expected to perform his work as well or a little better than the cog next to him. Now, if all the cogs were good cogs, and were filled with ambition to become the best cogs in the machine, we'd have progress in this old world that would astonish you. But if all the cogs turned out to be bad cogs, we'd have a bad machine, and not one of the cogs would be proud of it.</p>
-<p rend="indented">Try to be a good cog, even-tempered, considerate, doing your work quietly, efficiently. And if you can also be dependable <pb xml:id="page-280" n="256"/> , and cheerful, and always ready when the time of stress comes, helping the big machine to do its work, you will have rounded out your destiny.</p>
+<p rend="indented">Try to be a good cog, even-tempered, considerate, doing your work quietly, efficiently. And if you can also be dependable, <pb xml:id="page-280" n="256"/> and cheerful, and always ready when the time of stress comes, helping the big machine to do its work, you will have rounded out your destiny.</p>
 <p rend="indented">I'm afraid I have been preaching. Moreover, I suppose I have been preaching to eight young men and women who are bound to become good cogs. As a matter of fact, I believe all the cogs are pretty good cogs. But look out for the fellow who isn't content to be merely a cog, but wants to be the entire machine.</p>
 <closer><signed rend="right">CHARLES ALDEN SELTZER</signed></closer>
 </div>
@@ -2957,7 +2963,7 @@
 <div xml:id="div-letter-0261" type="letter" corresp="#letter-0261">
 <p>IN recognition of the honor of being asked to act as a kind of educational “guardian” for a group of eight students in the Senior High School of Trenton, I have asked my own guardian genius to see that no counsel which I may offer to <pb xml:id="page-281" n="257"/> my group of eight young friends shall be inappropriate or ineffective. I know no better way to find material for advice valuable to others who are to follow the giver through the pathways of life than by looking back over the course of one's own career.</p>
 <p rend="indented">I can see now that it would have been better for me if I had studied more regularly when I was at school. I was not mentally inactive, but I took my own course too much. There is immense value in discipline. I came near ruining myself intellectually by neglecting discipline. One can, and should, have the benefit both of carefully directed and regulated study and of independent and discursive study, such as I was very fond of, and too much indulgence in which has cost me a great deal of time and effort in later life, because in my early days I was unsystematic in my work. No amount of brilliancy can make up for lack of system. Remember this: We are the descendants of a once wild race. We need training as much as horses do. As civilization advances, we need more and more training. It would be a great waste of time for each individual to undertake to train himself. Schools and teachers and courses of study have been developed through long years of concentrated effort, for the sole purpose of furnishing the needed training, and saving each individual from a blind, stumbling search after it.</p>
-<p rend="indented">Your school years, then, are the most valuable in your life, provided that you take full advantage of what they offer you. While you are in school, the accumulated experience of all mankind is placed at your service, not only to show you how to make the most of the powers that nature has bestowed upon you, but to start you off in the most efficient use of them. But all that you will throw away if you refuse to be guided, if you indulge only your own undisciplined tendencies <pb xml:id="page-282" n="258"/> ; if, in short, you behave like a fractious colt, which remains but a wild, friendless animal all its days.</p>
+<p rend="indented">Your school years, then, are the most valuable in your life, provided that you take full advantage of what they offer you. While you are in school, the accumulated experience of all mankind is placed at your service, not only to show you how to make the most of the powers that nature has bestowed upon you, but to start you off in the most efficient use of them. But all that you will throw away if you refuse to be guided, if you indulge only your own undisciplined tendencies; <pb xml:id="page-282" n="258"/> if, in short, you behave like a fractious colt, which remains but a wild, friendless animal all its days.</p>
 <p rend="indented">I understand that some of you will become graduates in the coming June. To those I would say: Don't stop studying; apply the methods that the school has taught you to the new problems that will confront you. For those who succeed in life, in any form whatever of success, there is no break, no gap, between the school and active life.</p>
 <p rend="indented">If such were the case, then, truly, schooling would be waste of time. What your school has done for you is to make you more complete and capable young men and young women. Its lessons are of lifelong value, potent and applicable in every situation and every emergency.</p>
 <p rend="indented">Don't let the memory of your school and your teachers grow dim with the years. There will come a time when that memory will be like a breath of springtime air to you, renewing all your powers.</p>
@@ -3102,7 +3108,7 @@
 <p>IN a little while out you will go! Nothing can stop you. Nothing wants to stop you. You will go pell-mell here and there, scurrying for jobs. Some will be lucky and some not so lucky. I wonder just what you think Life is going to be—out there in the Land of Tomorrow—when you have completed your high school business training? Well, I'm not so smart. I wish I were. But after you have blundered about for a few years, you learn some things. If you hold your job, you will have to be <hi rend="italic">accurate.</hi> Nasty word, that. You hate to pay the price of accuracy. It means hours of extra training on modern spelling; it means a heap of old-fashioned geography and grammar and arithmetic; it means reading daily papers and a few minutes weekly with the good magazines; it means that you bone-up on history and scrub up the rough spots in your <pb xml:id="page-301" n="277"/> high school French and Latin. Any fool can whip out an assertion. Any stupid ass can roar out his thoughts on this, and that and the other. But business today is right up on its <hi rend="italic">hind legs, yelling for accurate students.</hi> I know the heads of many business colleges. I heard a big man in one of these say the other day, “Send Miss B to fill that job. It is a crackerjack opening and we must not fumble the ball at the start. She will be accurate.” How do you stand on simple correctness—old-fashioned accuracy?</p>
 <p rend="indented">Well, it—the business world of today—wants you to be a queer animal—a sort of biped, walking on two strange feet. The corporations want the newcomer to be <hi rend="italic">modest</hi> but <hi rend="italic">self-reliant.</hi> Sounds much like a joke, doesn't it? But it is a million miles from a joke. A modest young man or woman says to himself: “I have many things to learn so I must not strut.” The self-reliant person says to himself: “God gave me certain powers and He and my neighbors expect me to use them to my own credit; this I propose to do.”</p>
 <p rend="indented">I have a lecture called “Dying on Third.” Do you know that thousands of young people—and I am not old—actually die on third in the game of Life because they think they have arrived at the home-plate and they are only on third! When you arrive, there is no more to learn. When you arrive you cease to grow. Do you know, <hi rend="italic">I never want to arrive!</hi> I want to press forward. I want to stumble, if I must, and get up and rub my bruises—and dig right in again. How do you feel about it?</p>
-<p rend="indented">But I have only so long I may allow myself and your patience may run out, too. Business today says to the young people who are preparing for business careers, “Keep fit.” The old order has passed away, little Comrades <pb xml:id="page-302" n="278"/> . Business takes into its circle the pick of American brains. Formerly the professions caught the brains, and the stores and factories and shops and offices caught the riff-raff. Not today. The competition is keen for the get-ahead young man or woman. I must be fit. My body must be kept clean. It must be free from organic weakness or poison. I must through daily exercise keep the blood plunging with its building power through my veins. I must be clear of eye. I must flee the things that pull down and destroy. I must keep my mind fit. It cannot let the thoughts dwell on the coarse and crude. I must keep it going by daily watching to its own course of action. My spirit must be fit. I must learn to meet people on their own plane. I must not be arrogant nor brazen nor intolerant. I must be glad in the success of my fellows. I must applaud everything worthy. I must back up everything that is good and clean.</p>
+<p rend="indented">But I have only so long I may allow myself and your patience may run out, too. Business today says to the young people who are preparing for business careers, “Keep fit.” The old order has passed away, little Comrades. <pb xml:id="page-302" n="278"/> Business takes into its circle the pick of American brains. Formerly the professions caught the brains, and the stores and factories and shops and offices caught the riff-raff. Not today. The competition is keen for the get-ahead young man or woman. I must be fit. My body must be kept clean. It must be free from organic weakness or poison. I must through daily exercise keep the blood plunging with its building power through my veins. I must be clear of eye. I must flee the things that pull down and destroy. I must keep my mind fit. It cannot let the thoughts dwell on the coarse and crude. I must keep it going by daily watching to its own course of action. My spirit must be fit. I must learn to meet people on their own plane. I must not be arrogant nor brazen nor intolerant. I must be glad in the success of my fellows. I must applaud everything worthy. I must back up everything that is good and clean.</p>
 <p rend="indented">When my queer little sermon is ended, please rise and sing <hi rend="italic">America.</hi> For America is waiting for you—and you are going to fall in love with this wonder country that rewards all who render a real service.</p>
 <closer><signed rend="right">ROSCOE GILMORE STOTT</signed></closer>
 </div>
@@ -3405,7 +3411,7 @@
 <p rend="indented">People who live in such ruts see too much of themselves and become dreadful bores; but, on the other hand, don't try to spatter yourselves about in so many directions that there will not be enough of you anywhere to count. Many a good business woman, housewife, or trained nurse has been spoiled because “her people” thought that teaching was a more intellectual employment and not so much like work and “none of the women of our family have ever worked,” etc. Many a fine man has literally been pushed <pb n="330"/> into failure from the start, because when his fingers itched to make things mechanical, or his feet led to the open places of road or sky, the traditions of his family forced him into a bank, out of the air and literally behind bars. Remember, friends, that of all the unbearable forms of snobbishness, that of holding one form of honest labor above another is the worst!</p>
 <p rend="indented"><hi rend="italic">Fide—Amore—Labore</hi> (Faith, Love, and Work), my father's motto, is a good standard to keep to the fore. Surely we must have faith in something and love something in order to make good, to make ourselves something which we can share with others. Are you fond of poetry?</p>
 <p rend="indented">I am and I must quote some lines by McLandburgh Wilson that drive home my message, as I understand it.</p>
-<floatingText type="verse_insert"><body><div><pb xml:id="page-354" n="330"/><head rend="center">Yourself</head>
+<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>Yourself</p></div></front><body><div><pb xml:id="page-354" n="330"/><head rend="center">Yourself</head>
 <lg><l>Don't think your charity will live</l><l>   By just donating wealth to it;</l><l>A check is not enough to give—</l><l>   You have to add yourself to it.</l></lg>
 <lg><l>And likewise come to understand</l><l>   There is no hidden art to it;</l><l>'Tis not enough to give your hand</l><l>   Unless you add your heart to it.</l></lg>
 <lg><l>Would you succeed in any plan?</l><l>   Your strength—you have to spend of it;</l><l>Your rope won't help a drowning man</l><l>   Unless you hold your end of it.</l></lg></div></body></floatingText>
@@ -3425,6 +3431,8 @@
 <closer><signed rend="right">ADOLPH ZUKOR</signed></closer>
 </div>
 </div>
+    </body>
+    <back>
       <div xml:id="sec-sec-03" type="appendix">
 <head>Brief Biographies of Contributors</head>
 <div xml:id="div-unit-0332" type="apparatus">
@@ -3543,8 +3551,8 @@
 <p rend="index_entry">GILLILAN, STRICKLAND, journalist, Lyceum lecturer, writer of humorous stories and verse; author of “<hi rend="italic">Including Finnigan</hi>,” “<hi rend="italic">Sunshine and Awkwardness</hi>,” etc.</p>
 <p rend="index_entry">GILSON, ROY ROLFE, journalist, clergyman; author of “<hi rend="italic">Katrina</hi>,” “<hi rend="italic">The Flower of Youth</hi>,” “<hi rend="italic">The Legend of Jerry Ladd</hi>,” etc.</p>
 <p rend="index_entry">GOETHALS, GEORGE W., army engineer; first civil governor of Panama Canal Zone; director of construction of the Panama Canal.</p>
-<p rend="index_entry">GOLDEN, JOHN, producer of plays, journalist, song writer; author of “Turn to the Right,” “Lightnin’,” “Eighteen</p>
-<pb xml:id="page-369" n="345"/><p rend="index_entry">,” “The First Year;” wrote the well-known song, “I Can Dance with Everybody but My Wife.”</p>
+<p rend="index_entry">GOLDEN, JOHN, producer of plays, journalist, song writer; author of “Turn to the Right,” “Lightnin’,” “Eighteen,”</p>
+<pb xml:id="page-369" n="345"/><p rend="index_entry">“The First Year;” wrote the well-known song, “I Can Dance with Everybody but My Wife.”</p>
 <p rend="index_entry">GORE, THOMAS P., Senator from Oklahoma 1909–15, 1915–21.</p>
 <p rend="index_entry">GRAYSON, CARY T., rear admiral U. S. Navy; surgeon of the President’s yacht, “Mayflower;” physician of Naval Dispensary, Washington, during the Roosevelt and Taft administrations; physician to President Wilson.</p>
 <p rend="index_entry">GREELY, A. W., major-general U. S. A.; specialist on telegraph lines, submarine cables, and wireless; author of “<hi rend="italic">Isothermal Lines of the United States</hi>,” “<hi rend="italic">American Explorers</hi>,” etc.</p>
@@ -3758,6 +3766,6 @@
 <p rend="index_entry">ZUKOR, ADOLPH, motion picture producer; president Famous Players-Lasky Corporation; formerly a merchant.</p>
 </div>
 </div>
-    </body>
+    </back>
   </text>
 </TEI>

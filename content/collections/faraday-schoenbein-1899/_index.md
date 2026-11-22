@@ -28,22 +28,22 @@
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 82.0,
+  "score": 84.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 30.0,
+    "score": 20.0,
     "out_of": 30.0
    },
    {
     "key": "structure",
-    "score": 7.0,
+    "score": 22.0,
     "out_of": 25.0
    },
    {
     "key": "notes",
-    "score": 20.0,
+    "score": 17.0,
     "out_of": 20.0
    },
    {
@@ -57,7 +57,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 24,
+  "flagged": 8,
   "blockers": 0
  },
  "proof": {
@@ -242,27 +242,27 @@
   {
    "format": "epub",
    "file": "faraday-schoenbein-1899.epub",
-   "bytes": 300483,
-   "sha256": "33e370d5ee579603bc8635cf475ac03130595f48200e7a81d50b2bf43203eb8b"
+   "bytes": 416039,
+   "sha256": "9b9e4dfa3322d4fe93a5abc77ae3781f1f9e0afa189e5c1b4385d3863a5e4182"
   },
   {
    "format": "markdown",
    "file": "faraday-schoenbein-1899.md",
-   "bytes": 745166,
-   "sha256": "d717d5961652b026352868aa6db6c5855e6f138398026ebf3dd4e84731ddfee4"
+   "bytes": 745168,
+   "sha256": "8486c665b34460f53a1f2774e63a0cd778f564685b946d8f89a02b521e86edff"
   },
   {
    "format": "tei",
    "file": "faraday-schoenbein-1899.tei.xml",
-   "bytes": 924924,
-   "sha256": "384b490b04f528c376f2275f14867369a818b0171cf3898ee6ce66ad63c70ebd"
+   "bytes": 925413,
+   "sha256": "d662134af8cc8f5c7bf1137de077ad6ac85aa7b0bfd48e47ebbb252a0e4ef260"
   }
  ],
  "scan_base": "https://archive.org/download/lettersoffaraday00fararich/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-20T16:21:58Z",
-  "source_ast_sha256": "a0c1f437288558aba0aef90f73eb33c62a8f0b93fa95fc4aa0e2fcb60ed7df0a",
+  "compiled_at": "2026-11-22T08:50:53Z",
+  "source_ast_sha256": "3df0320bed050f63e3355ae704aa831fd4d2783807e823709366e17529ad30ae",
   "hugo_renderer_version": "1.0.0"
  }
 }

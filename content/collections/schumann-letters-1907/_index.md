@@ -25,9 +25,9 @@
   "pages": 334,
   "dated_letters": 132
  },
- "provenance_tier": "machine_checked",
+ "provenance_tier": "community",
  "quality": {
-  "score": 100.0,
+  "score": 98.5,
   "out_of": 100.0,
   "pillars": [
    {
@@ -42,7 +42,7 @@
    },
    {
     "key": "notes",
-    "score": 20.0,
+    "score": 18.5,
     "out_of": 20.0
    },
    {
@@ -56,7 +56,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 0,
+  "flagged": 1,
   "blockers": 0
  },
  "proof": {
@@ -270,34 +270,34 @@
   "caption": "Robert Schumann\nafter a portrait by Adolph Menzel"
  },
  "title_page": {
-  "page": 10,
-  "leaf": 9
+  "page": 11,
+  "leaf": 10
  },
  "downloads": [
   {
    "format": "epub",
    "file": "schumann-letters-1907.epub",
-   "bytes": 206363,
-   "sha256": "0eb80e93e8f39d01205d50ae9c4eace79accb71741ad91d1bce117db6d44d326"
+   "bytes": 259279,
+   "sha256": "bd79401edcc74f7e52dc1a35840749e61e9e3eb56315b52d2d35047f3b7fa5b5"
   },
   {
    "format": "markdown",
    "file": "schumann-letters-1907.md",
-   "bytes": 441890,
-   "sha256": "5750a86979e03c60ae7c4599b94d9e83030441678e77e25df26effa7634b72ca"
+   "bytes": 441962,
+   "sha256": "f84e6f0c085ceb9bab4ef71acd9f37ff2c7fac54dfe6e25a3f4a184e477ed377"
   },
   {
    "format": "tei",
    "file": "schumann-letters-1907.tei.xml",
-   "bytes": 573601,
-   "sha256": "35147b560bf2f5e8eeba3d30618866d150eb28067c7bcce7ba096a7dd4cf7af3"
+   "bytes": 575036,
+   "sha256": "814752ada375f25ad65841eec2bba110729c23353de31d2506abe427c939737f"
   }
  ],
  "scan_base": "https://archive.org/download/lettersofroberts00schu/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:24:20Z",
-  "source_ast_sha256": "9e24ec64d18b22d68c31230bf482fb3b289b9a6ceaa10659ee3c2abbc6b40466",
+  "compiled_at": "2026-11-22T08:58:02Z",
+  "source_ast_sha256": "84c8f2300db9282a54042499ae73fe8774d6c87c49b64bf4645143d3ab969d5c",
   "hugo_renderer_version": "1.0.0"
  }
 }

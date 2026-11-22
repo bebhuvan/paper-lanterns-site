@@ -2,7 +2,7 @@
 
 - **Author / Editor**: Abby Sage Richardson (ed.)
 - **Year**: 1883
-- **Letters**: 158
+- **Letters**: 148
 - **Pages**: 352
 
 ## Front Matter
@@ -13,15 +13,14 @@
 
 ### Letters of Sentiment
 
-### <span class="small-caps">written by persons eminent in english literature
-and history</span>
+### <span class="small-caps">written by persons eminent in english literature and history</span>
 
 *<span class="small-caps">collected and edited by</span>*
 
 <span class="small-caps">Abby Sage Richardson</span>
 
-> "Far more than kisses, letters mingle souls,
-For thus friends absent meet."
+> "Far more than kisses, letters mingle souls,  
+> For thus friends absent meet."
 
 > <span class="small-caps">Donne</span>
 
@@ -326,8 +325,7 @@ Prince Albert to Queen Victoria . . . . . . . . 219
 
 ### PART III.
 
-### LETTERS OF STATESMEN, MILITARY MEN, AND
-MEN OF AFFAIRS.
+### LETTERS OF STATESMEN, MILITARY MEN, AND MEN OF AFFAIRS.
 
 <span class="small-caps">Page</span>
 
@@ -423,8 +421,8 @@ The Same to the Same . . . . . . . . . . . . 320
 
 ## PART I. LETTERS OF POETS AND MEN OF LETTERS.
 
-> *He felt the necessity of being beloved, which no noble mind
-can be without.* — <span class="small-caps">Coleridge.</span>
+> *He felt the necessity of being beloved, which no noble mind  
+> can be without.* — <span class="small-caps">Coleridge.</span>
 
 ### PART I.
 
@@ -444,8 +442,6 @@ In his last days he was wretchedly poor, and there are varying accounts of the m
 
 His mad passion for the heartless object of his love is best painted in his own words.
 
-### Letter 2: Thomas Otway → Mrs. Barry
-
 No date; between 1678–88.
 
 <span class="small-caps">My Tyrant</span>,—
@@ -459,7 +455,7 @@ Unfortunate
 
 * * *
 
-### Letter 3: Thomas Otway → Mrs. Barry
+### Letter 2: Thomas Otway → Mrs. Barry
 
 ### *The Same to the Same.*
 
@@ -471,7 +467,7 @@ Consider how I love you. What would I not renounce or undertake for you ? I must
 
 * * *
 
-### Letter 4: Earl of Rochester → Mrs. Barry
+### Letter 3: Earl of Rochester → Mrs. Barry
 
 ### *Earl of Rochester to Mrs. Barry.*
 
@@ -483,11 +479,9 @@ Nothing can ever be so dear to me as you are, and I am so convinced of this that
 
 * * *
 
-### Letter 5: Earl of Rochester → Mrs. Barry
-
 This is a second letter from the Earl, written at a time when his hand was wounded or disabled.
 
-### Letter 6
+### Letter 4
 
 <span class="small-caps">Madam,</span> — This is the first service my hand has done me since my being a cripple, and I would not employ it in a lie so soon. Therefore pray believe me sincere when I assure you that you are very dear to me, and as long as I live I will be kind to you.
 
@@ -495,7 +489,7 @@ P. S. This is all my hand would write, but my heart thinks a great deal more.
 
 * * *
 
-### Letter 7: George Farquhar → Robert Wilks
+### Letter 5: George Farquhar → Robert Wilks
 
 ### *George Farquhar to Mrs. Oldfield.*
 
@@ -505,19 +499,15 @@ Farquhar seems to have been seriously in love with her; but, perhaps fortunately
 
 He died poor, and dying left this legacy to his friend Wilks, the actor, in the following laconic note : —
 
-### Letter 8: George Farquhar.
-
 <span class="small-caps">Dear Bob</span>,—
 
 I have not anything to leave thee to perpetuate my memory but two helpless girls. Look upon them sometimes, and think of him that was to the last moment of his life, thine.
 
 <span class="small-caps">George Farquhar.</span>
 
-### Letter 9: George Farquhar → Mrs. Oldfield
-
 It is not absolutely certain that the following letters are written to Mrs. Oldfield. They appear, however, in a collection of his writings in which are “letters to Penelope,” and this seems to be the name under which he wrote to the fascinating actress.]
 
-### Letter 10: Farquhar.
+### Letter 6: Farquhar.
 
 No date. About 1700.
 
@@ -545,7 +535,7 @@ The headless and heartless
 
 * * *
 
-### Letter 11: George Farquhar → Mrs. Oldfield
+### Letter 7: George Farquhar → Mrs. Oldfield
 
 ### *The Same to the Same.*
 
@@ -559,7 +549,7 @@ Your faithful and humble servant,
 
 * * *
 
-### Letter 12: George Farquhar → Mrs. Oldfield
+### Letter 8: George Farquhar → Mrs. Oldfield
 
 ### *The Same to the Same.*
 
@@ -575,7 +565,7 @@ You may imagine, Madam, that these thoughts of mortality were very melancholy, b
 
 P. S. Pray let me know in a line whether you are better or worse, whether I am honest or a knave, and whether I shall live or die.
 
-### Letter 13: George Farquhar → Mrs. Oldfield
+### Letter 9: George Farquhar → Mrs. Oldfield
 
 ### *Farquhar's Last Letter to Penelope (Mrs. Oldfield ?).*
 
@@ -595,7 +585,7 @@ The Blounts were bright, vivacious young women whom Pope had known from boyhood,
 
 He seems to have been desirous that she should separate herself from her family, and lead a more independent life; and the last letter quoted below is one in which he remonstrates with her on her want of independence and resolution in her dealings with her family, who, he elsewhere plainly intimates, were unkind and tyrannical. In his later years he spent the greater part of the time with her, and he speaks of her in a letter to one of his friends, as “a friend — a woman friend! — with whom I have spent three or four hours a day for these last fifteen years.”
 
-### Letter 14: Alexander Pope → Martha Blount
+### Letter 10: Alexander Pope → Martha Blount
 
 ### *Pope to Martha Blount.*
 
@@ -609,7 +599,7 @@ Your most obedient, etc.
 
 * * *
 
-### Letter 15: Alexander Pope → Teresa Blount
+### Letter 11: Alexander Pope → Teresa Blount
 
 ### *Pope to Teresa Blount.*
 
@@ -625,7 +615,7 @@ Your, &c.
 
 * * *
 
-### Letter 16: Alexander Pope → Martha Blount
+### Letter 12: Alexander Pope → Martha Blount
 
 ### *Pope to Martha Blount.*
 
@@ -636,7 +626,7 @@ Your, &c.
 Your most faithful admirer, friend,  
 servant, anything, &c.
 
-### Letter 17: Alexander Pope → Martha Blount
+### Letter 13: Alexander Pope → Martha Blount
 
 ### *The Same to the Same.*
 
@@ -652,7 +642,7 @@ You cannot conceive how much you would find resolution rise and cheerfulness gro
 
 * * *
 
-### Letter 18: Alexander Pope → Lady Mary Wortley Montagu
+### Letter 14: Alexander Pope → Lady Mary Wortley Montagu
 
 ### *Pope to Lady Mary Wortley Montagu.*
 
@@ -661,8 +651,6 @@ Lady <span class="small-caps">Montagu</span> is one of the most prominent female
 She was married at twenty-two to Edward Wortley Montagu, and shortly after her marriage went with her husband on an embassy to Constantinople, whence she wrote some of those letters which contributed to make her famous as a writer. Pope's correspondence with her began during this absence; and after her return from the East she settled near him at Twickenham, and their friendship was flourishing. Even the Blounts were neglected for Lady Mary. Suddenly there was coldness, then an open quarrel, and finally bitter hostilities in which they lampooned each other with a vulgarity rarely to be found except in this elegant "Augustan Age" of literature.
 
 Report says that the cause of the quarrel was the fact that Pope forgot his crooked back and deformed side and the still more important fact that Lady Mary had a husband, and made love to her seriously; and that the lady, instead of repulsing him in earnest, only went into such convulsions of laughter that the vanity of the poet was wounded past cure. Pope was womanish enough to feel all the fury that the poets declare none but a woman wronged can feel, and the quarrels and the lampoons were the consequence. The following was written while Lady Mary was in Constantinople.
-
-### Letter 19
 
 <span class="small-caps">Madam</span>, —
 
@@ -680,11 +668,9 @@ I am always yours.
 
 * * *
 
-### Letter 20: Alexander Pope → Lady Mary Wortley Montagu
-
 This brief note was written to Lady Mary Wortley Montagu after her return from Constantinople, and was one of the last which passed between them.
 
-### Letter 21: Pope → Lady Mary Wortley Montagu
+### Letter 15
 
 ### *Pope to Lady Mary Wortley Montagu.*
 
@@ -692,7 +678,7 @@ I <span class="small-caps">might</span> be dead, or you in Yorkshire, for anythi
 
 * * *
 
-### Letter 22: Lady Mary Pierrepont → Edward Wortley Montagu
+### Letter 16: Lady Mary Pierrepont → Edward Wortley Montagu
 
 ### *Lady Mary Pierrepont to Edward Wortley Montagu.*
 
@@ -712,7 +698,7 @@ As might have been fancied from this stormy courtship, in which there does not s
 
 * * *
 
-### Letter 23: Lady Mary Pierrepont → Edward Wortley Montagu
+### Letter 17: Lady Mary Pierrepont → Edward Wortley Montagu
 
 ### *The Same to the Same.*
 
@@ -724,7 +710,7 @@ M. P.
 
 * * *
 
-### Letter 24: William Congreve → Mrs. Arabella Hunt
+### Letter 18: William Congreve → Mrs. Arabella Hunt
 
 ### *William Congreve to Mrs. Arabella Hunt.*
 
@@ -776,7 +762,7 @@ Stella outlived her rival five years, and when she was on her death-bed the grea
 
 This is the story of Stella and Vanessa which has become almost as famous as the story of Abelard and Heloïse, and which remains still untold to the depths. There is much in this sad episode on which neither these letters nor any written history throws a full light.
 
-### Letter 25: Jonathan Swift → Stella
+### Letter 19: Jonathan Swift → Stella
 
 ### *Dean Swift to Stella.*
 
@@ -792,7 +778,7 @@ Cannot you do what you will with your own horse? Pray do not let that puppy Parv
 
 “Write constantly!” Why, Sirrah, do I not write every day and twice a day to M. D.? Now I have answered all your letter, and the rest must be as it can be. I think this enough for one night; and so farewell till this time to-morrow.
 
-### Letter 26: Jonathan Swift → Stella
+### Letter 20: Jonathan Swift → Stella
 
 ### *The Same to the Same.*
 
@@ -810,7 +796,7 @@ Now to Stella's little postscript, and I am almost crazed that you vex yourself 
 
 * * *
 
-### Letter 27: Hester Vanhomrigh → Jonathan Swift
+### Letter 21: Hester Vanhomrigh → Jonathan Swift
 
 ### *Hester Vanhomrigh to Dean Swift.*
 
@@ -820,7 +806,7 @@ Now to Stella's little postscript, and I am almost crazed that you vex yourself 
 
 * * *
 
-### Letter 28: Hester Vanhomrigh → Jonathan Swift
+### Letter 22: Hester Vanhomrigh → Jonathan Swift
 
 ### *The Same to the Same.*
 
@@ -828,13 +814,13 @@ No date.
 
 Is it possible that you will do the very same thing I warned you of so lately? I believe you thought I only rallied you when I told you the other night that I would pester you with letters. Did not I know you very well I should think you knew but little of the world, to imagine that a woman would not keep her word whenever she promised anything so malicious. Had not you better a thousand times throw away one hour at some time or other of the day than be interrupted in your business at this rate; for I know 'tis as impossible for you to burn my letters without reading them as 'tis for me to avoid reproving you when you behave yourself wrong. Once more I advise you, if you have any regard for your own quiet, to alter your behaviour quickly, for I do assure you I have too much spirit to sit down contented with this treatment. Because I love darkness extremely, I here tell you now that I have determined to try all manner of human arts to reclaim you, and if all these fail, I am resolved to have recourse to the black art, which, it is said, never does. Now see what inconveniences you will bring both me and yourself into. Pray think calmly of it. Is it not better to come of yourself than to be brought by force, and that perhaps at a time when you have the most agreeable engagement in the world? for when I undertake to do anything I don't propose to do it by halves. But there is one thing falls out very luckily for you, which is, that of all the passions, revenge hurries me least, so that you have it yet in your power to turn all this fury into good humour, and depend on it, and more, I assure you. Come at what time you please you can never fail of being very well received.
 
-### Letter 29: Jonathan Swift → Hester Vanhomrigh
+### Letter 23: Jonathan Swift → Hester Vanhomrigh
 
 ### *Dean Swift's Answer to the Above.*
 
 <span class="small-caps">If</span> you write as you do, I shall come the seldomer on purpose to be pleased with your letters, which I never look into without wondering how a brat who cannot read can possibly write so well. You are mistaken. Send me a letter without your hand on the outside and I hold you a crown I shall not read it. But, raillery apart, I think it inconvenient, for a hundred reasons, that I should make your house a sort of constant dwelling-place. I will certainly come as often as I conveniently can; but health and the perpetual run of ill-weather hinders me from going out in the morning, and my afternoons are so taken up, I know now how, that I am in rebellion with a dozen people beside yourself for not seeing them. For the rest you need make use of no black art besides your wits. 'T is a pity your eyes are not black, or I should have said the same of them; but you are a white witch and can do no mischief. If you have employed any of your arts on the black scarf I defy it for one reason. Guess. Adieu, for Dr. P—— 's come in to see me.
 
-### Letter 30: Hester Vanhomrigh → Jonathan Swift
+### Letter 24: Hester Vanhomrigh → Jonathan Swift
 
 ### *Hester Vanhomrigh to Dean Swift.*
 
@@ -846,7 +832,7 @@ Put my passion under the utmost restraint, send me as distant from you as the ea
 
 * * *
 
-### Letter 31: Jonathan Swift → Hester Vanhomrigh
+### Letter 25: Jonathan Swift → Hester Vanhomrigh
 
 ### *Dean Swift to Hester Vanhomrigh.*
 
@@ -878,7 +864,7 @@ A picture of the time shows her as “a tall figure in a green silk with rose-co
 
 The first of the following letters is that with which Lord Peterborough opened the correspondence; then follows one written after it had fairly opened, with Mrs. Howard's reply. She was by no means an unpractised letter-writer, as might be inferred from the fact that she called Gay to her aid on this occasion, for she exchanged letters with such men as Dean Swift, Pope, Arbuthnot, Lord Chesterfield, Walpole, and other distinguished men who were her contemporaries. The letters are not dated, but were probably written between 1720 and 1725.
 
-### Letter 32: Lord Peterborough → Henrietta Howard
+### Letter 26: Lord Peterborough → Henrietta Howard
 
 ### *Lord Peterborough to Henrietta Howard.*
 
@@ -900,7 +886,7 @@ It was long before I could recover from the terror and amaze into which I had th
 
 * * *
 
-### Letter 33: Lord Peterborough → Henrietta Howard
+### Letter 27: Lord Peterborough → Henrietta Howard
 
 ### *The Same to the Same.*
 
@@ -920,7 +906,7 @@ This is no unlively picture of a woman who can please, but far from that person 
 
 * * *
 
-### Letter 34: Henrietta Howard → Lord Peterborough
+### Letter 28: Henrietta Howard → Lord Peterborough
 
 ### *Mrs. Howard's Reply to the Foregoing.*
 
@@ -942,7 +928,7 @@ Your coquette or “ pleasure-giving lady ” that can part from you without reg
 
 After marriage Steele’s gayety, his conviviality, and his recklessness about getting into debt, must often have made trouble for Mrs. Steele, and she must have had much cause to reproach him. Yet he almost disarms censure by his penitent acknowledgment of his faults and by his constant affection. He is frequently dining out and sleeping out, but he never fails to send Mrs. Steele a loving word before dinner or bedtime. He goes to dine with Lord Halifax, and writes home : —
 
-### Letter 35: Dick Steele → Mrs. Steele
+### Letter 29: Dick Steele → Mrs. Steele
 
 I <span class="small-caps">dine</span> with Halifax, but shall be home at half-after-six. For thee I die, for thee I languish.
 
@@ -956,7 +942,7 @@ Mrs. Steele’s correspondence has not been preserved. I find only these few lin
 
 “ <span class="small-caps">It</span> is but an addition to our uneasiness to be at variance with each other. I beg your pardon if I have offended you. God forgive you for adding to the sorrow of a heavy heart that is above all sorrow but for your sake.”
 
-### Letter 36: Mrs. Steele → Dick Steele
+### Letter 30: Mrs. Steele → Dick Steele
 
 ### *Mrs. Steele to her Husband.*
 
@@ -974,7 +960,7 @@ In his dear arms may I forever rest.
 
 * * *
 
-### Letter 37: Richard Steele → Mary Scurlock
+### Letter 31: Richard Steele → Mary Scurlock
 
 ### *Steele to Mary Scurlock.*
 
@@ -988,7 +974,7 @@ Your most obedient, most devoted humble servant,
 
 <span class="small-caps">Rich. Steele.</span>
 
-### Letter 38: Richard Steele → Mary Scurlock
+### Letter 32: Richard Steele → Mary Scurlock
 
 ### *The Same to the Same.*
 
@@ -1007,15 +993,13 @@ I am ever yours,
 
 * * *
 
-### Letter 39: Richard Steele → Mrs. Steele
+### Letter 33: Richard Steele → Mrs. Steele
 
 ### *Steele to his Wife.*
 
 <span class="small-caps">Sept.</span> 13, 1708.
 
-<span class="small-caps">Dear Prue</span>, —I write to you in obedience to what you ordered me, but there are not words to
-
-express the tenderness I have for you. Love is too harsh a word for it ; but if you knew how my heart aches when you speak an unkind word to me, and springs with joy when you smile upon me, I am sure you would place your glory rather in preserving my happiness, like a good wife, than tormenting me like a peevish beauty. Good Prue, write me word you shall be overjoyed at my return to you, and pity the awkward figure I make when I pretend to resist you, by complying always with the reasonable demands of
+<span class="small-caps">Dear Prue</span>, —I write to you in obedience to what you ordered me, but there are not words to express the tenderness I have for you. Love is too harsh a word for it ; but if you knew how my heart aches when you speak an unkind word to me, and springs with joy when you smile upon me, I am sure you would place your glory rather in preserving my happiness, like a good wife, than tormenting me like a peevish beauty. Good Prue, write me word you shall be overjoyed at my return to you, and pity the awkward figure I make when I pretend to resist you, by complying always with the reasonable demands of
 
 Your enamoured husband,
 
@@ -1023,7 +1007,7 @@ Your enamoured husband,
 
 * * *
 
-### Letter 40: Richard Steele → Mrs. Steele
+### Letter 34: Richard Steele → Mrs. Steele
 
 ### *The Same to the Same.*
 
@@ -1035,7 +1019,7 @@ Ever yours,
 
 <span class="small-caps">Rich. Steele.</span>
 
-### Letter 41: Richard Steele → Mrs. Steele
+### Letter 35: Richard Steele → Mrs. Steele
 
 ### *The Same to the Same.*
 
@@ -1051,7 +1035,7 @@ From the press, one in the morning.
 
 * * *
 
-### Letter 42: Richard Steele → Mrs. Steele
+### Letter 36: Richard Steele → Mrs. Steele
 
 ### *The Same to the Same.*
 
@@ -1090,7 +1074,7 @@ But his most remarkable letters were to Mrs. Elizabeth Draper, the wife of a mer
 
 Sterne's expression of feeling in his *Sentimental Journey,* in his sermons, even in *Tristram Shandy,* impresses me as hollow and insincere. If it had not been for his humour his books never would have become English classics. But his humour, sometimes just flavoured with sentiment, is delicious. It is the Attic salt which preserves his work, and has given such characters as *Uncle Toby* and *Corporal Trim* a place in English literature.
 
-### Letter 43: Laurence Sterne → Elizabeth Lumley
+### Letter 37: Laurence Sterne → Elizabeth Lumley
 
 ### *Laurence Sterne to Elizabeth Lumley* [*afterwards his Wife*].
 
@@ -1104,21 +1088,19 @@ L. <span class="small-caps">Sterne.</span>
 
 * * *
 
-### Letter 44: Laurence Sterne → Kitty Tourmantelle
+### Letter 38: Laurence Sterne → Kitty Tourmantelle
 
 ### *Laurence Sterne to Kitty Tourmantelle.*
 
 1759 (?).
 
-<span class="small-caps">My dear Kitty,</span> — I have sent you a pot of
-
-sweetmeats and a pot of honey, neither of them half so sweet as yourself; but don’t be vain upon this, or presume to grow sour upon this character of sweetness I give you; for if you do I shall send you a pot of pickles by way of contraries to sweeten you up and bring you to yourself again. Whatever changes happen to you, believe me I am unalterably yours, and, according to your motto, such a one, my dear Kitty,
+<span class="small-caps">My dear Kitty,</span> — I have sent you a pot of sweetmeats and a pot of honey, neither of them half so sweet as yourself; but don’t be vain upon this, or presume to grow sour upon this character of sweetness I give you; for if you do I shall send you a pot of pickles by way of contraries to sweeten you up and bring you to yourself again. Whatever changes happen to you, believe me I am unalterably yours, and, according to your motto, such a one, my dear Kitty,
 
 > “ Qui ne changera pas que en mourant.”
 
 L. S.
 
-### Letter 45: Laurence Sterne → Eliza Draper
+### Letter 39: Laurence Sterne → Eliza Draper
 
 ### *Sterne to Eliza Draper.*
 
@@ -1132,7 +1114,7 @@ I <span class="small-caps">cannot</span> rest, Eliza, though I shall call on you
 
 * * *
 
-### Letter 46: Laurence Sterne → Eliza Draper
+### Letter 40: Laurence Sterne → Eliza Draper
 
 ### *The Same to the Same.*
 
@@ -1152,7 +1134,7 @@ I am glad Miss Light goes with you. She may relieve you from many anxious moment
 
 * * *
 
-### Letter 47: Laurence Sterne → Eliza Draper
+### Letter 41: Laurence Sterne → Eliza Draper
 
 ### *The Same to the Same.*
 
@@ -1176,7 +1158,7 @@ The friendship continued, however, till it ended in quarrel, which seems to have
 
 The end, however, did not justify his warning, or his comparison of Mrs. Thrale’s fate to that of Queen Mary. Mr. Piozzi, who was an amiable, unpretentious man — well connected in his own country, although Johnson contemptuously spoke of him as a “foreign fiddler” — made an excellent husband, and Mrs. Thrale enjoyed twenty-five years of happy wedlock as Mrs. Piozzi, under which name she published all her literary works.
 
-### Letter 48: Samuel Johnson → Mrs. Thrale
+### Letter 42: Samuel Johnson → Mrs. Thrale
 
 <span class="small-caps">Lichfield</span>, Oct. 27, 1777.
 
@@ -1192,7 +1174,7 @@ I am, &c.,
 
 <span class="small-caps">Samuel Johnson.</span>
 
-### Letter 49: Samuel Johnson → Mrs. Thrale
+### Letter 43: Samuel Johnson → Mrs. Thrale
 
 ### *The Same to the Same.*
 
@@ -1200,7 +1182,7 @@ Written by Johnson to Mrs. Thrale after her friendship for him had begun to decl
 
 <span class="small-caps">Since</span> you have written to me with the attention and tenderness of ancient times, your letters give me a great part of the pleasure which a life of solitude admits. You will never bestow any share of your good-will on one who deserves better. *Those who have loved longest love best.* A sudden blaze of affection may by a single blast of coldness be extinguished ; but that fondness which length of time has connected with many circumstances and occasions, though it may for a while be depressed by disgust or resentment, with or without a cause, is hourly revived by accidental recollection. To those that have been much together, everything heard and everything seen recalls some pleasure communicated, or some benefit conferred, some petty quarrel or some slight endearment. Esteem of great powers, or amiable qualities newly discovered, may embroider a day or a week, but a friendship of twenty years is interwoven with the texture of life. A friend may be often found and lost, but an *old friend* never can be found, and nature has provided that he cannot *easily* be lost.
 
-### Letter 50: Samuel Johnson → Mrs. Thrale
+### Letter 44: Samuel Johnson → Mrs. Thrale
 
 ### *The Same to the Same.*
 
@@ -1242,7 +1224,7 @@ But if the brilliant old peer ever desired such a marriage his letters rather di
 
 * * *
 
-### Letter 51: Horace Walpole → Misses Berry
+### Letter 45: Horace Walpole → Misses Berry
 
 ### *Walpole to the Misses Berry.*
 
@@ -1256,7 +1238,7 @@ H. <span class="small-caps">Walpole.</span>
 
 * * *
 
-### Letter 52: Horace Walpole → Misses Berry
+### Letter 46: Horace Walpole → Misses Berry
 
 ### *The Same to the Same.*
 
@@ -1277,7 +1259,7 @@ My future letters shall talk of other things when I know of anything worth repea
 
 It was after the Misses Berry returned from abroad, that they took up their abode at “Little Strawberry,” which Walpole had prepared for them. Innocent and evidently disinterested as was the friendship of the two ladies for the old peer, it was made the subject of scandal, even to a report in the newspaper that they had designs upon his fortune. It was to one of these scandalous newspaper reports that Miss Berry indignantly alludes in a letter to Walpole from which the following are extracts.
 
-### Letter 53: Mary Berry → Horace Walpole
+### Letter 47: Mary Berry → Horace Walpole
 
 I <span class="small-caps">did</span> not like to show you, nor did I feel myself, while with you, *how* much I was hurt by the newspaper. To be long honoured by your friendship and remain unnoticed I knew was impossible and laid my account with ; but to have it imagined, implied, or even hinted, that the purest friendship that ever actuated human bosoms could have any possible foundation in, or view to, interested motives . . . all this I confess I cannot bear ; not even your society can make up to me for it. Would to God we had remained abroad, where we might still have enjoyed as much of your confidence and friendship as ignorance and impertinence seem likely to allow us here. . . . Excuse the manner in which I write and in which I feel. My sentiments on newspapers have long been known to you, with regard to all who have not so honourably distinguished themselves as to feel above such feeble but venomed shafts.
 
@@ -1285,11 +1267,9 @@ Do not plague yourself by answering this. The only consolation I can have is the
 
 * * *
 
-### Letter 54: Horace Walpole → Miss Mary Berry
-
 Miss Berry's letter was answered at once by Walpole in the following.
 
-### Letter 55: To Miss Mary Berry.
+### Letter 48: To Miss Mary Berry.
 
 <span class="small-caps">Dec.</span> 13, 1791.
 
@@ -1305,7 +1285,7 @@ To <span class="small-caps">Miss Mary Berry.</span>
 
 From that time the friendship continued uninterrupted till Walpole's death in 1797. There is one slight allusion to the report of his being in love with them in this letter to the two ladies written two years after the date of the above.
 
-### Letter 56: Horace Walpole → two Misses Berry
+### Letter 49: Horace Walpole → two Misses Berry
 
 ### *To the two Misses Berry in Yorkshire.*
 
@@ -1319,7 +1299,7 @@ I must repeat it, keep in mind that both of you are delicate, and not strong. If
 
 * * *
 
-### Letter 57: Robert Burns → Ellison Begbie
+### Letter 50: Robert Burns → Ellison Begbie
 
 ### *Robert Burns to Ellison Begbie.*
 
@@ -1350,7 +1330,7 @@ When I look over what I have written I am sensible it is vastly different from t
 
 Burns’s correspondence with Mrs. McLehose, under the title of “Letters of Sylvander and Clarinda,” has been several times published. He met Mrs. McLehose on his second visit to Edinburgh, and a warm affection sprang up between them. But Burns’s “marriage lines” to Jean Armour held him in a relation which the law considered binding, and Mrs. McLehose had a husband in the West Indies, who had cruelly left her to a life of poverty and struggle with her children in Edinburgh. Thus there was no hope of marriage between them; and, after an ardent correspondence, from which the following letters are taken, they separated. Burns returned to Ayrshire and married Jean Armour, who had been turned out of doors by her father while Burns was writing to Clarinda in such rapturous terms in Edinburgh.
 
-### Letter 58: Robert Burns → Clarinda
+### Letter 51: Robert Burns → Clarinda
 
 ### *Sylvander to Clarinda.*
 
@@ -1403,7 +1383,7 @@ My limb has been so well to-day that I have gone up and down stairs often withou
 
 * * *
 
-### Letter 59: Robert Burns → Clarinda
+### Letter 52: Robert Burns → Clarinda
 
 ### *The Same to the Same.*
 
@@ -1421,14 +1401,14 @@ I am just going to take your Blackbird, — the sweetest, I am sure, that ever s
 
 * * *
 
-### Letter 60: Robert Burns → Clarinda
+### Letter 53: Robert Burns → Clarinda
 
 ### *The Same to the Same.*
 
 <span class="small-caps">Glasgow</span>, February 18, 1788,  
 Monday Evening, 9 o'clock.
 
-<span class="small-caps">The</span> attraction of Love, I find, is in an inverse proportion to the attraction of the Newtonian philosophy . In the system of Sir Isaac, the nearer objects are to one another the stronger is the attractive force: in my system, every milestone that marked my progress from Clarinda awakened a keener pang of attachment to her. How do you feel, my love? is your heart ill at ease? I fear it. God forbid that these persecutors should harass that peace which is more precious to me than my own! Be assured I shall ever think of you, muse on you, and, in my hours of devotion, pray for you. The hour that you are not in all my thoughts— “ be that hour darkness! let the shadows of death cover it! let it not be numbered in the hours of day!”
+<span class="small-caps">The</span> attraction of Love, I find, is in an inverse proportion to the attraction of the Newtonian philosophy. In the system of Sir Isaac, the nearer objects are to one another the stronger is the attractive force: in my system, every milestone that marked my progress from Clarinda awakened a keener pang of attachment to her. How do you feel, my love? is your heart ill at ease? I fear it. God forbid that these persecutors should harass that peace which is more precious to me than my own! Be assured I shall ever think of you, muse on you, and, in my hours of devotion, pray for you. The hour that you are not in all my thoughts— “ be that hour darkness! let the shadows of death cover it! let it not be numbered in the hours of day!”
 
 “ When I forget my darling theme,  
 Be my tongue mute! my fancy paint no more!  
@@ -1444,7 +1424,7 @@ Adieu, my Clarinda! I am just going to propose your health by way of grace-drink
 
 * * *
 
-### Letter 61: Robert Burns → Clarinda
+### Letter 54: Robert Burns → Clarinda
 
 ### *Burns's Last Letter to Clarinda.*
 
@@ -1487,7 +1467,7 @@ The shelter from thy sire of an immortal name.”
 
 These letters of Mary Wollstonecraft, which had been returned to her by Imlay, were published after her death by Godwin. He was severely criticised for making them public ; and indeed, like the letters of Vanessa to Swift, or of Keats to Fanny Brawne, they are too sacred for the vulgar eye, and ought to be read only by those who have hearts to feel for such suffering and such heart-break as is here made palpable upon the lifeless pages. I have selected a larger number from this collection of letters than usual, because the story they tell is so interesting and so touchingly told. As one letter follows another we see the falling off on the part of the lover, from passion to indifference, to neglect, and probably to dislike of his victim. These poor time-worn letters, tear-stained doubtless, are, like a musical poem of Schumann, — a music full of passionate joy and passionate sadness, — the true story of a “ Woman’s Life and Love.”
 
-### Letter 62: Mary Wollstonecraft → Captain Imlay
+### Letter 55: Mary Wollstonecraft → Captain Imlay
 
 ### *Mary Wollstonecraft to Captain Imlay.*
 
@@ -1503,7 +1483,7 @@ Yours,
 
 * * *
 
-### Letter 63: Mary Wollstonecraft → Captain Imlay
+### Letter 56: Mary Wollstonecraft → Captain Imlay
 
 ### *The Same to the Same.*
 
@@ -1519,7 +1499,7 @@ Your humbled yet most affectionate
 
 * * *
 
-### Letter 64: Mary Wollstonecraft → Captain Imlay
+### Letter 57: Mary Wollstonecraft → Captain Imlay
 
 ### *The Same to the Same.*
 
@@ -1534,7 +1514,7 @@ I have found that I have more mind than you in one respect; because I can, witho
 
 With ninety-nine men out of a hundred, a very sufficient dash of folly is necessary to render a woman *piquante*, a soft word for desirable; and, beyond these casual ebullitions of sympathy, few look for enjoyment by fostering a passion in their hearts. One reason, in short, why I wish my whole sex to become wiser is, that the foolish ones may not, by their pretty folly, rob those whose sensibility keeps down their vanity, of the few roses that afford them some solace in the thorny road of life.
 
-I do not know how I fell into these reflections, excepting one thought produced it,—that these continual separations were necessary to warm your affection. Of late we are always separating . Crack! crack! and away you go! This joke wears the sallow cast of thought; for, though I began to write cheerfully, some melancholy tears have found their way into my eyes that linger there, whilst a glow of tenderness at my heart whispers that you are one of the best creatures in the world. Pardon, then, the vagaries of a mind that has been almost “crazed by care,” as well as “crossed in hapless love,” and bear with me a little longer. When we are settled in the country together, more duties will open before me, and my heart, which now, trembling into peace, is agitated by every emotion that awakens the remembrance of old griefs, will learn to rest on yours with that dignity your character, not to mention my own, demands.
+I do not know how I fell into these reflections, excepting one thought produced it,—that these continual separations were necessary to warm your affection. Of late we are always separating. Crack! crack! and away you go! This joke wears the sallow cast of thought; for, though I began to write cheerfully, some melancholy tears have found their way into my eyes that linger there, whilst a glow of tenderness at my heart whispers that you are one of the best creatures in the world. Pardon, then, the vagaries of a mind that has been almost “crazed by care,” as well as “crossed in hapless love,” and bear with me a little longer. When we are settled in the country together, more duties will open before me, and my heart, which now, trembling into peace, is agitated by every emotion that awakens the remembrance of old griefs, will learn to rest on yours with that dignity your character, not to mention my own, demands.
 
 Take care of yourself, and write soon to your own girl (you may add dear, if you please), who sincerely loves you, and will try to convince you of it by becoming happier.
 
@@ -1542,7 +1522,7 @@ Take care of yourself, and write soon to your own girl (you may add dear, if you
 
 * * *
 
-### Letter 65: Mary Wollstonecraft → Captain Imlay
+### Letter 58: Mary Wollstonecraft → Captain Imlay
 
 ### *The Same to the Same.*
 
@@ -1563,7 +1543,7 @@ God bless you, my love! Do not shut your heart against a return of tenderness; a
 
 * * *
 
-### Letter 66: Mary Wollstonecraft → Captain Imlay
+### Letter 59: Mary Wollstonecraft → Captain Imlay
 
 ### *The Same to the Same.*
 
@@ -1581,7 +1561,7 @@ You, too, have somehow clung round my heart. I found I could not eat my dinner i
 
 * * *
 
-### Letter 67: Mary Wollstonecraft → Captain Imlay
+### Letter 60: Mary Wollstonecraft → Captain Imlay
 
 ### *The Same to the Same.*
 
@@ -1601,7 +1581,7 @@ Yours,
 
 * * *
 
-### Letter 68: Mary Wollstonecraft → Captain Imlay
+### Letter 61: Mary Wollstonecraft → Captain Imlay
 
 ### *The Same to the Same.*
 
@@ -1619,7 +1599,7 @@ You will call this an ill-humoured letter, when, in fact, it is the strongest pr
 
 * * *
 
-### Letter 69: Mary Wollstonecraft → Captain Imlay
+### Letter 62: Mary Wollstonecraft → Captain Imlay
 
 ### *The Same to the Same.*
 
@@ -1641,7 +1621,7 @@ I cannot write. I enclose a fragment of a letter written soon after your departu
 
 Perhaps this is the last letter you will ever receive from me.
 
-### Letter 70: Mary Wollstonecraft → Captain Imlay
+### Letter 63: Mary Wollstonecraft → Captain Imlay
 
 ### *The Same to the Same.*
 
@@ -1665,7 +1645,7 @@ I am now endeavouring to recover myself; and such is the elasticity of my consti
 
 Still, when we meet again I will not torment you, I promise you. I blush when I recollect my former conduct, and will not in future confound myself with the beings whom I feel to be my inferiors. I will listen to delicacy or pride.
 
-### Letter 71: Mary Wollstonecraft → Captain Imlay
+### Letter 64: Mary Wollstonecraft → Captain Imlay
 
 ### *The Same to the Same.*
 
@@ -1681,7 +1661,7 @@ Do not tell me that you are happier without us. Will you not come to us in Switz
 
 * * *
 
-### Letter 72: Mary Imlay → Captain Imlay
+### Letter 65: Mary Imlay → Captain Imlay
 
 ### *The Same to the Same.*
 
@@ -1711,7 +1691,7 @@ Yours most affectionately,
 
 * * *
 
-### Letter 73: Mary Wollstonecraft → Captain Imlay
+### Letter 66: Mary Wollstonecraft → Captain Imlay
 
 ### *The Same to the Same.*
 
@@ -1725,7 +1705,7 @@ I am weary of travelling, yet seem to have no home—no resting-place to look to
 
 * * *
 
-### Letter 74: Mary Wollstonecraft → Gilbert Imlay
+### Letter 67: Mary Wollstonecraft → Gilbert Imlay
 
 ### *The Same to the Same.*
 
@@ -1747,7 +1727,7 @@ God bless you! May you never know by experience what you have made me endure. Sh
 
 * * *
 
-### Letter 75: Mary Wollstonecraft → Gilbert Imlay
+### Letter 68: Mary Wollstonecraft → Gilbert Imlay
 
 ### *The Same to the Same.*
 
@@ -1766,7 +1746,7 @@ I write with difficulty—probably I shall never write to you again. Adieu. God 
 
 * * *
 
-### Letter 76: Percy Bysshe Shelley → Mary Shelley
+### Letter 69: Percy Bysshe Shelley → Mary Shelley
 
 ### *Shelley to Mary Shelley.*
 
@@ -1785,7 +1765,7 @@ How is Willmouse and little Clara? They must be kissed for me; and you must part
 
 * * *
 
-### Letter 77: Percy Bysshe Shelley → Mary Shelley
+### Letter 70: Percy Bysshe Shelley → Mary Shelley
 
 ### *The Same to the Same.*
 
@@ -1801,7 +1781,7 @@ Kiss the blue-eyed darlings for me, and do not let William forget me. Clara cann
 
 * * *
 
-### Letter 78: Percy Bysshe Shelley → Mary Shelley
+### Letter 71: Percy Bysshe Shelley → Mary Shelley
 
 ### *The Same to the Same.*
 
@@ -1819,7 +1799,7 @@ Your faithful and affectionate        S.
 
 * * *
 
-### Letter 79: Lord Byron → Countess Guicciola
+### Letter 72: Lord Byron → Countess Guicciola
 
 ### *Byron to the Countess Guicciola.*
 
@@ -1827,13 +1807,9 @@ It was in the autumn of 1818 that Lord <span class="small-caps">Byron</span> met
 
 In one of the Countess Guicciola’s absences from home, he was fond of sitting alone in her garden; and, finding there one day a copy of *Corinne,* which she had been reading, he wrote, in English, this letter on one of the fly-leaves of the book.
 
-### Letter 80: Byron.
-
 <span class="small-caps">Bologna</span>, Aug. 25, 1819.
 
-<span class="small-caps">My dearest Teresa</span>,—I have read this book
-
-in your garden. My love, you were absent, or else I could not have read it. It is a favourite book of yours, and the writer was a friend of mine. You will not understand these English words, and others will not understand them, which is the reason I have not scrawled them in Italian; but you will recognize the handwriting of him who passionately loved you, and you will divine that over a book which was yours he could only think of love. In that word, beautiful in all languages, but most so in yours,—*Amor mio*,—is comprised my existence here and hereafter. I feel I exist here, and I fear that I shall exist hereafter—to what purpose you will decide; my destiny rests with you, and you are a woman, eighteen years of age, and two out of a convent. I wish that you had stayed there, with all my heart, — or, at least, that I had never met you in your married state.
+<span class="small-caps">My dearest Teresa</span>,—I have read this book in your garden. My love, you were absent, or else I could not have read it. It is a favourite book of yours, and the writer was a friend of mine. You will not understand these English words, and others will not understand them, which is the reason I have not scrawled them in Italian; but you will recognize the handwriting of him who passionately loved you, and you will divine that over a book which was yours he could only think of love. In that word, beautiful in all languages, but most so in yours,—*Amor mio*,—is comprised my existence here and hereafter. I feel I exist here, and I fear that I shall exist hereafter—to what purpose you will decide; my destiny rests with you, and you are a woman, eighteen years of age, and two out of a convent. I wish that you had stayed there, with all my heart, — or, at least, that I had never met you in your married state.
 
 But all this is too late. I love you and you love me, — at least, you say so and act as if you did so, which last is a great consolation in all events. But I more than love you, and cannot cease to love you.
 
@@ -1843,15 +1819,13 @@ Think of me sometimes when the Alps and the ocean divide us ; but they never wil
 
 * * *
 
-### Letter 81: Charlotte Carpenter → Walter Scott
+### Letter 73: Charlotte Carpenter → Walter Scott
 
 ### *Charlotte Carpenter to Walter Scott.*
 
 Walter Scott had had a disappointment in a love affair in which his feelings seem to have been deeply engaged, when his heart was caught in the rebound by Miss <span class="small-caps">Charlotte Carpenter</span>, a lively brunette, of French birth and parentage, the ward of an English marquis, Lord Downshire, who, in the spring of 1797, was travelling in Scotland. Scott and Miss Carpenter were engaged in the fall of this year, and these letters are written by Miss Carpenter to her betrothed just before marriage. There was only a little delay after the engagement, to get Lord Downshire's consent, and to settle the minds of Scott's family on the subject of the lady's fortune and birth.
 
 Mrs. Scott, without any great surplus of romance or sentiment, as would appear from her letters, was a lively and cheerful-tempered wife. She never seems to have had any very deep appreciation of her husband's genius, and when his fame as the great novelist was widening, she is said to have regarded his genius largely as a means for refurnishing the drawing-room or adding a new wing to the house. She was, however, a faithful and capable helpmeet, even if she lacked those finer sympathies which are so rare, even in the happiest lives. The following notes were written just before the marriage, and have a good deal of girlish vivacity, which was, no doubt, very captivating to the young Scottish lawyer.
-
-### Letter 82
 
 <span class="small-caps">Carlisle</span>, Oct. 25, 1797.
 
@@ -1863,7 +1837,7 @@ C. C.
 
 * * *
 
-### Letter 83: Charlotte Carpenter → Walter Scott
+### Letter 74: Charlotte Carpenter → Walter Scott
 
 ### *The Same to the Same.*
 
@@ -1877,7 +1851,7 @@ C. C.
 
 * * *
 
-### Letter 84: Charlotte Carpenter → Walter Scott
+### Letter 75: Charlotte Carpenter → Walter Scott
 
 ### *The Same to the Same.*
 
@@ -1891,7 +1865,7 @@ C. C.
 
 * * *
 
-### Letter 85: Charlotte Carpenter → Walter Scott
+### Letter 76: Charlotte Carpenter → Walter Scott
 
 ### *The Same to the Same.*
 
@@ -1905,7 +1879,7 @@ P. S. Étudiez votre Français. Remember you are to teach me Italian in return, 
 
 * * *
 
-### Letter 86: Charlotte Carpenter → Walter Scott
+### Letter 77: Charlotte Carpenter → Walter Scott
 
 ### *The Same to the Same.*
 
@@ -1920,22 +1894,18 @@ P. S. Arrange so that we shall see none of your family the night of our arrival.
 
 * * *
 
-### Letter 87: Leigh Hunt → his Betrothed
+### Letter 78: Leigh Hunt
 
 ### *Leigh Hunt to his Betrothed.*
 
 This letter was written by <span class="small-caps">Leigh Hunt</span> to his betrothed three or four years before their marriage, when he was just beginning to be known in literary and journalistic circles. He was not more than twenty-two when he was engaged to be married, and his Marienne at this date could not have been more than sixteen, so that the faults of handwriting and blotting about which he lectures her, may be pardoned in one who was still a school-girl.
 
-### Letter 88: Henry.
-
 <span class="small-caps">Gainsborough</span>, Thursday,  
 February, 1806.
 
-<span class="small-caps">Dearest Girl</span>, —My journey to Doncaster is
+<span class="small-caps">Dearest Girl</span>, —My journey to Doncaster is deferred till next week, so I sit down to write you a day earlier than I intended, in order that you may have two letters instead of one this week to make up for former deficiencies. A very heavy rain last night has made the snow vanish from the fields, which look delightfully green this morning. I walked out to enjoy the lively air and the universal sunshine, and seated myself with a book on the gateway at the bottom of a little eminence covered with evergreens, a little way from Gainsborough. It seemed the return of spring ; a flock of sheep were grazing before me, and cast up every now and then their inquiring visages as much as to say, “What singular being is that so intent upon the mysterious thin substance he is turning over with his hand?” The crows at intervals came wheeling with long cawings above my head ; the herds lowed from the surrounding farms ; the windmills whirled to the breeze, flinging their huge and rapid shadows on the fields ; and the river Trent sparkled in the sun from east to west. A delightful serenity diffused itself through my heart. I worshipped the magnificence and the love of the God of nature, and I thought of *you.* These two sensations always arise in my heart in the quiet of a rural landscape, and I have often considered it a proof of the purity and the reality of my affection for you, that it always feels most powerful in my religious moments. And this is very natural. Are you not the greatest blessing Heaven has bestowed upon me? Your image attends my rural rambles not only in the healthful walks when, escaped from the clamour of streets and the glare of theatres, I am ready to exclaim with Cowper, “ God made the country, and man made the town.” It is present with me even in the bustle of life ; it gives me a distaste to a frivolous and riotous society ; it excites me to improve myself in order to deserve your affection, and it quenches the little flashes of caprice and impatience which disturb the repose of existence. If I feel my anger rising at trifles it checks me instantaneously ; it seems to say to me, “ Why do you disturb yourself ? Marienne loves you ; you deserve her love, and ought to be above these little marks of a little mind.” Such is the power of love. I am naturally a man of violent passions, but your affection has taught me to subdue them. Whenever you feel any little inquietudes or impatiences arising in your bosom, think of the happiness you bestow upon me, and real love will produce the same effect on you that it produces on me. *No reasoning person ought to marry, who cannot say,* “*My love has made me better, and more desirous of improvement than I was before.*”
 
-deferred till next week, so I sit down to write you a day earlier than I intended, in order that you may have two letters instead of one this week to make up for former deficiencies. A very heavy rain last night has made the snow vanish from the fields, which look delightfully green this morning. I walked out to enjoy the lively air and the universal sunshine, and seated myself with a book on the gateway at the bottom of a little eminence covered with evergreens, a little way from Gainsborough. It seemed the return of spring ; a flock of sheep were grazing before me, and cast up every now and then their inquiring visages as much as to say, “What singular being is that so intent upon the mysterious thin substance he is turning over with his hand?” The crows at intervals came wheeling with long cawings above my head ; the herds lowed from the surrounding farms ; the windmills whirled to the breeze, flinging their huge and rapid shadows on the fields ; and the river Trent sparkled in the sun from east to west. A delightful serenity diffused itself through my heart. I worshipped the magnificence and the love of the God of nature, and I thought of *you.* These two sensations always arise in my heart in the quiet of a rural landscape, and I have often considered it a proof of the purity and the reality of my affection for you, that it always feels most powerful in my religious moments. And this is very natural. Are you not the greatest blessing Heaven has bestowed upon me? Your image attends my rural rambles not only in the healthful walks when, escaped from the clamour of streets and the glare of theatres, I am ready to exclaim with Cowper, “ God made the country, and man made the town.” It is present with me even in the bustle of life ; it gives me a distaste to a frivolous and riotous society ; it excites me to improve myself in order to deserve your affection, and it quenches the little flashes of caprice and impatience which disturb the repose of existence. If I feel my anger rising at trifles it checks me instantaneously ; it seems to say to me, “ Why do you disturb yourself ? Marienne loves you ; you deserve her love, and ought to be above these little marks of a little mind.” Such is the power of love. I am naturally a man of violent passions, but your affection has taught me to subdue them. Whenever you feel any little inquietudes or impatiences arising in your bosom, think of the happiness you bestow upon me, and real love will produce the same effect on you that it produces on me. *No reasoning person ought to marry, who cannot say,* “*My love has made me better, and more desirous of improvement than I was before.*”
-
-. . . I do not write, I acknowledge, with the best hand in the world, but I endeavour to avoid blots or interpolations. I suppose you guess by this preamble that I am going to find fault with your letters. I would not dare, however, to find fault were I not sure that you would receive my letters cheerfully. You have no false shame to induce you to conceal or deny your faults, — quite the contrary; you think sometimes too much of them, for I know of none which you cannot remedy. Besides, my faithful and attentive affection would induce me to ask with confidence any little sacrifice of your time and care; and as you have done so much for me in correcting the errors of my *head* you will not feel very unpleasant when I venture to correct the errors of your hand. Now, cannot you sit down on Sunday, my sweet girl, and write me a fair, even-minded, honest *hand,* unvexed with desperate blots or skulking interlineations? Mind, I do not quarrel with the contents or with the subject ; what you tell me of others amuses me, and what you tell me of yourself delights me. It is merely the fashion of your lines; in short, as St. Paul saith, “It is the *spirit* giveth life, but the *letter* killeth.”
+. . . I do not write, I acknowledge, with the best hand in the world, but I endeavour to avoid blots or interpolations. I suppose you guess by this preamble that I am going to find fault with your letters. I would not dare, however, to find fault were I not sure that you would receive my letters cheerfully. You have no false shame to induce you to conceal or deny your faults, — quite the contrary; you think sometimes too much of them, for I know of none which you cannot remedy. Besides, my faithful and attentive affection would induce me to ask with confidence any little sacrifice of your time and care; and as you have done so much for me in correcting the errors of my *head* you will not feel very unpleasant when I venture to correct the errors of your hand. Now, cannot you sit down on Sunday, my sweet girl, and write me a fair, even-minded, honest *hand,* unvexed with desperate blots or skulking interlineations? Mind, I do not quarrel with the contents or with the subject; what you tell me of others amuses me, and what you tell me of yourself delights me. It is merely the fashion of your lines; in short, as St. Paul saith, “It is the *spirit* giveth life, but the *letter* killeth.”
 
 Present my respects to Mrs. Hunter and tell her I have found the tune, the Scotch tune, which pleased her so much between the acts in *Douglas;* it belongs to a song called Tweedside, beginning, “What beauties does Flora disclose.” I will play it to her when I return. I shall write Mrs. Hunter next week. . . . It is astonishing I should ever be melancholy when I possess friends like these; and when, above all, I am able to tell my dearest Marienne how infinitely she is beloved by her
 
@@ -1957,7 +1927,7 @@ In the winter of 1820 death came near enough for the poet to feel his presence. 
 
 In the autumn of 1820 it was decided he should go to Italy, and his faithful friend Severn went with him and remained with him till he died. The letters to Fanny Brawne end with the two which are quoted last in this series, — the two he wrote before he went to Italy after their parting; but his letters to his friends are filled with that anguish and longing of the heart that tears him whenever he thinks of her. “I can bear to die; I *cannot* bear to leave her,” he cries. “The very thing I want to live for will be a great occasion of my death. . . . I wish for death every day and night to deliver me from these pains, and then I wish death away, for death would destroy these pains, which are better than nothing.” Again, “Oh that I could be buried near where *she* lives! I am afraid to write to her, to receive a letter from her; *to see her handwriting would break my heart. Even to hear of her, to see her name written, would be more than I can bear.* Where can I look for consolation or ease? If I had any chance of recovery, this passion would kill me.” Not very long after these words were written, the tortured, restless heart was still, and in a few months the daisies, whose tender roots he had felt piercing his grave before he lay asleep there, were covering him over with their quietness and peace.
 
-### Letter 89: John Keats → Fanny Brawne
+### Letter 79: John Keats → Fanny Brawne
 
 ### *Keats to Fanny Brawne.*
 
@@ -1973,7 +1943,7 @@ Ever yours, my love,
 
 * * *
 
-### Letter 90: John Keats → Fanny Brawne
+### Letter 80: John Keats → Fanny Brawne
 
 ### *The Same to the Same.*
 
@@ -1987,19 +1957,17 @@ Yours forever,
 
 * * *
 
-### Letter 91: John Keats → Fanny Brawne
+### Letter 81: John Keats → Fanny Brawne
 
 ### *The Same to the Same.*
 
 <span class="small-caps">February</span>, 1820 (?).
 
-<span class="small-caps">My dearest Girl</span>, — If illness makes such an
-
-agreeable variety in the manner of your eyes, I should wish you sometimes to be ill. I wish I had read your note before you went last night, that I might have assured you how far I was from suspecting any coldness. You had a just right to be a little silent to one who speaks so plainly to you. You must believe — you shall, you will — that I can do nothing, say nothing, think nothing of you but what has its spring in the Love which has so long been my pleasure and torment. On the night I was taken ill — when so violent a rush of blood came to my Lungs that I felt nearly suffocated — I assure you I felt it possible I might not survive, and at that moment thought of nothing but you. When I said to Brown, “This is unfortunate,” I thought of you. ’T is true that since the first two or three days other subjects have entered my head. I shall be looking forward to Health and the Spring and a regular routine of our old Walks.
+<span class="small-caps">My dearest Girl</span>, — If illness makes such an agreeable variety in the manner of your eyes, I should wish you sometimes to be ill. I wish I had read your note before you went last night, that I might have assured you how far I was from suspecting any coldness. You had a just right to be a little silent to one who speaks so plainly to you. You must believe — you shall, you will — that I can do nothing, say nothing, think nothing of you but what has its spring in the Love which has so long been my pleasure and torment. On the night I was taken ill — when so violent a rush of blood came to my Lungs that I felt nearly suffocated — I assure you I felt it possible I might not survive, and at that moment thought of nothing but you. When I said to Brown, “This is unfortunate,” I thought of you. ’T is true that since the first two or three days other subjects have entered my head. I shall be looking forward to Health and the Spring and a regular routine of our old Walks.
 
 Your affectionate        J. K.
 
-### Letter 92: John Keats → Fanny Brawne
+### Letter 82: John Keats → Fanny Brawne
 
 ### *The Same to the Same.*
 
@@ -2013,21 +1981,19 @@ J. <span class="small-caps">Keats</span>.
 
 * * *
 
-### Letter 93: John Keats → Fanny Brawne
+### Letter 83: John Keats → Fanny Brawne
 
 ### *The Same to the Same.*
 
 1820.
 
-<span class="small-caps">Sweetest Fanny</span>, — You fear sometimes I do
-
-not love you so much as you wish ? My dear girl, I love you ever and ever and without reserve. The more I have known the more have I loved. In every way, — even my jealousies have been agonies of Love ; in the hottest fit I ever had I would have died for you. I have vexed you too much. But for Love ! Can I help it? You are always new. The last of your kisses was ever the sweetest, the last smile the brightest, the last movement the gracefulest. When you passed my window, home yesterday, I was filled with as much admiration as if I had seen you for the first time. You uttered a half complaint once that I only loved your beauty. Have I nothing else, then, to love in you but that? Do not I see a heart naturally furnished with wings imprison itself with me? No ill prospect has been able to turn your thoughts a moment from me. This perhaps should be as much a subject of sorrow as joy, — but I will not talk of that. Even if you did not love me I could not help an entire devotion to you; how much more deeply, then, must I feel for you, knowing you love me. My Mind has been the most discontented and restless one that ever was put into a body too small for it. I never felt my Mind repose upon anything with complete and undistracted enjoyment — upon no person but you. When you are in the room my thoughts never fly out of window; you always concentrate my whole senses. The anxiety shown about our Loves in your last note is an immense pleasure to me; however you must not suffer such speculations to molest you any more; nor will I any more believe you can have the least pique against me. Brown is gone out, but here is Mrs. Wylie; when she is gone I shall be awake for you. Remembrances to your Mother.
+<span class="small-caps">Sweetest Fanny</span>, — You fear sometimes I do not love you so much as you wish ? My dear girl, I love you ever and ever and without reserve. The more I have known the more have I loved. In every way, — even my jealousies have been agonies of Love ; in the hottest fit I ever had I would have died for you. I have vexed you too much. But for Love ! Can I help it? You are always new. The last of your kisses was ever the sweetest, the last smile the brightest, the last movement the gracefulest. When you passed my window, home yesterday, I was filled with as much admiration as if I had seen you for the first time. You uttered a half complaint once that I only loved your beauty. Have I nothing else, then, to love in you but that? Do not I see a heart naturally furnished with wings imprison itself with me? No ill prospect has been able to turn your thoughts a moment from me. This perhaps should be as much a subject of sorrow as joy, — but I will not talk of that. Even if you did not love me I could not help an entire devotion to you; how much more deeply, then, must I feel for you, knowing you love me. My Mind has been the most discontented and restless one that ever was put into a body too small for it. I never felt my Mind repose upon anything with complete and undistracted enjoyment — upon no person but you. When you are in the room my thoughts never fly out of window; you always concentrate my whole senses. The anxiety shown about our Loves in your last note is an immense pleasure to me; however you must not suffer such speculations to molest you any more; nor will I any more believe you can have the least pique against me. Brown is gone out, but here is Mrs. Wylie; when she is gone I shall be awake for you. Remembrances to your Mother.
 
 Your affectionate
 
 J. <span class="small-caps">Keats</span>.
 
-### Letter 94: John Keats → Fanny Brawne
+### Letter 84: John Keats → Fanny Brawne
 
 ### *The Same to the Same.*
 
@@ -2037,7 +2003,7 @@ Your affectionate
 
 J. K.
 
-### Letter 95: John Keats → Fanny Brawne
+### Letter 85: John Keats → Fanny Brawne
 
 ### *The Same to the Same.*
 
@@ -2053,7 +2019,7 @@ Yours forever, my dearest,
 
 * * *
 
-### Letter 96: John Keats → Fanny Brawne
+### Letter 86: John Keats → Fanny Brawne
 
 ### *The Last Letter of Keats written before his Departure.*
 
@@ -2061,15 +2027,13 @@ Yours forever, my dearest,
 
 I do not write this till the last, that no eye may catch it.[^fn-p0194-1]
 
-<span class="small-caps">My dearest Girl</span>, — I wish you could invent some means to make me happy without you. Every hour I am more and more concentrated in you; everything else tastes like chaff in my
-
-mouth. I feel it almost impossible to go to Italy : the fact is I cannot leave you, and shall never taste one minute's content until it pleases chance to let me live with you for good. But I will not go on at this rate. A person in health as you are can have no conception of the horrors that nerves and a temper like mine go through. What Island do your friends propose retiring to? I should be happy to go there with you alone, but in company I should object to it; the backbitings and jealousies of new colonists who have nothing else to amuse themselves, is unbearable. Mr. Dilke came to see me yesterday, and gave me a great deal more pain than pleasure. I shall never be able any more to endure the society of any of those who used to meet at Elm Cottage and Wentworth Place. The last two years taste like brass upon my Palate. If I cannot live with you I will live alone. I do not think my health will improve much while I am separated from you. For all this I am averse to seeing you, — I cannot bear flashes of light and return into my gloom again. I am not so unhappy now as I should be if I had seen you yesterday. To be happy with you seems such an impossibility! it requires a luckier star than mine ; it will never be. I enclose a passage from one of your letters which I want you to alter a little. I want (if you will have it so) the matter expressed less coldly to me. If my health would bear it, I could write a poem which I have in my head, which would be a consolation for people in such a situation as mine. I would show some one in Love as I am, with a person living in such Liberty as you do. Shakespeare always sums up matters in the most sovereign manner. Hamlet's heart was full of such misery as mine is when he said to Ophelia, “Go to a nunnery, go, go!” Indeed I should like to give up the matter at once,—I should like to die. I am sickened at the brute world which you are smiling with. I hate men, and women more. I see nothing but thorns for the future; wherever I may be next winter, in Italy or nowhere, Brown will be living near you with his indecencies. I see no prospect of any rest. Suppose me in Rome—well, I should there see you as in a magic glass going to and from town at all hours. I wish you could infuse a little confidence of human nature into my heart. I cannot muster any; the world is too brutal for me. I am glad there is such a thing as the grave; I am sure I shall never have any rest till I get there. At any rate I will indulge myself by never seeing any more Dilke or Brown, or any of their Friends. I wish I was either in your arms full of faith or that a Thunderbolt would strike me.
+<span class="small-caps">My dearest Girl</span>, — I wish you could invent some means to make me happy without you. Every hour I am more and more concentrated in you; everything else tastes like chaff in my mouth. I feel it almost impossible to go to Italy : the fact is I cannot leave you, and shall never taste one minute's content until it pleases chance to let me live with you for good. But I will not go on at this rate. A person in health as you are can have no conception of the horrors that nerves and a temper like mine go through. What Island do your friends propose retiring to? I should be happy to go there with you alone, but in company I should object to it; the backbitings and jealousies of new colonists who have nothing else to amuse themselves, is unbearable. Mr. Dilke came to see me yesterday, and gave me a great deal more pain than pleasure. I shall never be able any more to endure the society of any of those who used to meet at Elm Cottage and Wentworth Place. The last two years taste like brass upon my Palate. If I cannot live with you I will live alone. I do not think my health will improve much while I am separated from you. For all this I am averse to seeing you, — I cannot bear flashes of light and return into my gloom again. I am not so unhappy now as I should be if I had seen you yesterday. To be happy with you seems such an impossibility! it requires a luckier star than mine ; it will never be. I enclose a passage from one of your letters which I want you to alter a little. I want (if you will have it so) the matter expressed less coldly to me. If my health would bear it, I could write a poem which I have in my head, which would be a consolation for people in such a situation as mine. I would show some one in Love as I am, with a person living in such Liberty as you do. Shakespeare always sums up matters in the most sovereign manner. Hamlet's heart was full of such misery as mine is when he said to Ophelia, “Go to a nunnery, go, go!” Indeed I should like to give up the matter at once,—I should like to die. I am sickened at the brute world which you are smiling with. I hate men, and women more. I see nothing but thorns for the future; wherever I may be next winter, in Italy or nowhere, Brown will be living near you with his indecencies. I see no prospect of any rest. Suppose me in Rome—well, I should there see you as in a magic glass going to and from town at all hours. I wish you could infuse a little confidence of human nature into my heart. I cannot muster any; the world is too brutal for me. I am glad there is such a thing as the grave; I am sure I shall never have any rest till I get there. At any rate I will indulge myself by never seeing any more Dilke or Brown, or any of their Friends. I wish I was either in your arms full of faith or that a Thunderbolt would strike me.
 
 God bless you!
 
 J. K.
 
-### Letter 97: William Hazlitt → Sarah L.
+### Letter 87: William Hazlitt → Sarah L.
 
 ### *William Hazlitt to Sarah L.*
 
@@ -2112,7 +2076,7 @@ That Hazlitt suffered greatly from this melancholy passion is not to be doubted.
 
 These letters were written while Anne was retired from court, under her father's protection, in the same year in which the king's marriage with her was celebrated.
 
-### Letter 98: Henry VIII → Anne Boleyn
+### Letter 88: Henry VIII → Anne Boleyn
 
 1528.
 
@@ -2126,7 +2090,7 @@ H., R.
 
 * * *
 
-### Letter 99: Henry VIII → Anne Boleyn
+### Letter 89: Henry VIII → Anne Boleyn
 
 ### *The Same to the Same.*
 
@@ -2150,7 +2114,7 @@ I have not been able to find any English copy from the original of the following
 
 It is supposed that King Henry met her at her father’s house not long after her return, and that it was through his influence she was made maid of honour to Queen Katherine.
 
-### Letter 100: Anne Boleyn → Henry VIII
+### Letter 90: Anne Boleyn → Henry VIII
 
 No date.
 
@@ -2170,7 +2134,7 @@ Your majesty's very obliged and very obedient servant, without any reserve,
 
 As a proper accompaniment to King Henry's love-letters, we put the last letter of Anne Boleyn to her royal husband, who had now ceased to be her lover, written from her prison in the Tower just before her execution. It is the letter of a woman without hope, who knows well the man to whom she writes, and is not afraid to speak clearly and bravely. There has been some slight doubt expressed as to the authenticity of this letter as well as of the foregoing; but it seems plain to me no one but Anne could have written it, and her allusion to Jane Seymour as “that party, for whose sake I am now as I am, whose name I could some while since have pointed unto; your Grace being not ignorant of my suspicions therein,” is in true womanly spirit, and shows that there had been accusations on her part before the king began those counter-accusations which led to the unhappy queen’s death.
 
-### Letter 101: Anne Boleyn → Henry VIII
+### Letter 91: Anne Boleyn → Henry VIII
 
 <span class="small-caps">The Tower</span>, May 6, 1536.
 
@@ -2180,7 +2144,7 @@ Your Grace’s displeasure and my imprisonment are things so strange unto me, as
 
 But let not your Grace ever imagine that your poor wife will ever be brought to acknowledge a fault where not so much as a thought thereof preceded. And, to speak truth, never prince had wife more loyal in all duty and in all true affection than you have ever found in Anne Boleyn, with which name and place I could willingly have contented myself, if God and your Grace's pleasure had been so pleased. Neither did I, at any time, so far forget myself in my exaltation, or received queenship, but that I always looked for such an alteration as I now find; for the ground of my preferment being on no surer foundation than your Grace's fancy, the least alteration, I knew, was sufficient to draw that fancy to some other subject. You have chosen me from a low estate to be your Queen and companion, far above my desert and desire. If then you found me worthy of such honour, good your Grace, let not any light fancy, or bad counsel of mine enemies, withdraw your princely favour from me; neither let that stain, that unworthy stain of a disloyal heart towards your good Grace, ever cast so foul a blot on your most dutiful wife, and the infant princess, your daughter. Try me, good King, but let me have a lawful trial, and let not my sworn enemies sit as my accusers and judges; yea, let me receive an open trial, for my truth shall fear no open shame; then shall you see, either mine innocency cleared, your suspicion and conscience satisfied, the ignominy and slander of the world stopped, or my guilt openly declared. So that whatsoever God or you may determine of me, your Grace may be freed from an open censure, and mine offence being so lawfully proved, your Grace is at liberty, both before God and man, not only to execute worthy punishment on me as an unlawful wife, but to follow your affections already settled on that party, for whose sake I am now as I am, whose name I could some while since have pointed unto; your Grace being not ignorant of my suspicions therein.
 
-But if you have already determined of me, and that not only my death, but an infamous slander, must bring you to the enjoying of your desired happiness, then I desire of God that he will pardon your great sin therein, and likewise mine enemies, the instruments thereof, and that he will not call you to a strict account for your unprincely and cruel usage of me, at his general judgment seat, where both you and myself must shortly appear, and in whose judgment I doubt not (whatsoever the world may think of me) mine innocence shall be openly known and sufficiently cleared. My last and only request shall be that myself may only bear the burden of your Grace's displeasure, and that it shall not touch the innocent souls of those poor gentlemen, who (as I understand ) are likewise in strait imprisonment for my sake. If ever I have found favour in your sight, if ever the name of Anne Boleyn has been pleasant in your ears, then let me obtain this request; and I will so leave to trouble your Grace any further, with mine earnest prayers to the Trinity to have your Grace in his good keeping, and to direct you in all your actions. From my doleful prison in the Tower, this sixth of May.
+But if you have already determined of me, and that not only my death, but an infamous slander, must bring you to the enjoying of your desired happiness, then I desire of God that he will pardon your great sin therein, and likewise mine enemies, the instruments thereof, and that he will not call you to a strict account for your unprincely and cruel usage of me, at his general judgment seat, where both you and myself must shortly appear, and in whose judgment I doubt not (whatsoever the world may think of me) mine innocence shall be openly known and sufficiently cleared. My last and only request shall be that myself may only bear the burden of your Grace's displeasure, and that it shall not touch the innocent souls of those poor gentlemen, who (as I understand) are likewise in strait imprisonment for my sake. If ever I have found favour in your sight, if ever the name of Anne Boleyn has been pleasant in your ears, then let me obtain this request; and I will so leave to trouble your Grace any further, with mine earnest prayers to the Trinity to have your Grace in his good keeping, and to direct you in all your actions. From my doleful prison in the Tower, this sixth of May.
 
 Your most loyal and ever faithful wife,
 
@@ -2196,7 +2160,7 @@ Jane Seymour died at the birth of her son the year following her marriage. The v
 
 “*News was sent to the king that her life was in great peril, nay, the issue was driven to so great an exigeance that either mother or child must necessarily perish; desiring the king to decide in so great an emergency. His answer was the mother should then die, for certain he was he could have more wives, but uncertain whether to have more children.*” On this the mother was at once sacrificed to preserve the life of her son, Prince Edward VI.
 
-### Letter 102: Henry VIII → Jane Seymour
+### Letter 92: Henry VIII → Jane Seymour
 
 1536.
 
@@ -2214,13 +2178,11 @@ H., R.
 
 Of all the six women whom the royal Blue-beard took to wife, it is probable that the only one who had any real affection for him was his first wife, <span class="small-caps">Katherine of Arragon</span>. This is her last letter to him, written after her divorce and very shortly before her death. Shakespeare has given the substance of this letter in the last speeches of Katherine in *Henry VIII.*, Act IV. Scene 2.
 
-### Letter 103: Katherine of Arragon → Henry VIII
+### Letter 93: Katherine of Arragon → Henry VIII
 
 1536 (?).
 
-<span class="small-caps">My Lord and dear Husband</span>, — I commend
-
-me unto you. The hour of my death draweth fast on, and, my case being such, the tender love I owe you forceth me, with a few words, to put you in remembrance of the health and safeguard of your soul, which you ought to prefer before all worldly matters, and before the care and tendering of your own body, for the which you have cast me into many miseries and yourself into many cares. For my part I do pardon you all; yes, I do wish and devoutly pray God that he will also pardon you.
+<span class="small-caps">My Lord and dear Husband</span>, — I commend me unto you. The hour of my death draweth fast on, and, my case being such, the tender love I owe you forceth me, with a few words, to put you in remembrance of the health and safeguard of your soul, which you ought to prefer before all worldly matters, and before the care and tendering of your own body, for the which you have cast me into many miseries and yourself into many cares. For my part I do pardon you all; yes, I do wish and devoutly pray God that he will also pardon you.
 
 For the rest I commend unto you Mary, our daughter, beseeching you to be a good father unto her, as I heretofore desired. I entreat you also on behalf of my maids, to give them marriage-portions, which is not much, they being but three. For all my other servants I solicit a year's pay more than their due, lest they should be unprovided for.
 
@@ -2228,7 +2190,7 @@ Lastly, I do vow, mine eyes desire you above all things.
 
 <span class="small-caps">Katherine.</span>
 
-### Letter 104: Katherine Parr → Henry VIII
+### Letter 94: Katherine Parr → Henry VIII
 
 ### *Katherine Parr to Henry VIII.*
 
@@ -2256,7 +2218,7 @@ The following letter to Queen Elizabeth from one of her court favourites is amon
 
 <span class="small-caps">Christopher Hatton</span>, who wrote the following, held the offices of Vice-Chamberlain and Lord Chancellor during the reign of Elizabeth, and for a time was a prime favourite. The queen had a number of odd pet-names for him; she called him her “sheep,” her “lids” (eyelids), sometimes “her most sweet lids.” He came to court quite an obscure gentleman, but he rose rapidly in favour, partly, no doubt, because, like Leicester and Raleigh, he was of handsome and graceful person. Robert Naunton, one of Elizabeth's counsellors, says: “The queen had much of her father in this, for (excepting some of her kindred, and some few that had handsome wits in their crooked bodies) she always took her a handsome person in the way of her choice; for the people have it to this day in proverb, ‘King Harry loved a *man*.’ One of his rivals says Hatton danced himself into favour by his grace in a galliard which he executed in some theatrical performance given before the queen; and as he was a gentleman who, besides the graces of his person and dancing, had the addition of strong and subtle capacity, he soon grew in favour and place.”
 
-### Letter 105: Ch. Hatton → Elizabeth I
+### Letter 95: Ch. Hatton → Elizabeth I
 
 <span class="small-caps">June</span>, 1573.
 
@@ -2266,7 +2228,7 @@ Your bondsman everlastingly tied,
 
 <span class="small-caps">Ch. Hatton.</span>
 
-### Letter 106: Essex → Elizabeth I
+### Letter 96: Essex → Elizabeth I
 
 ### *The Earl of Essex to Queen Elizabeth.*
 
@@ -2288,22 +2250,19 @@ I quote the ensuing letter, claimed to have been written by <span class="small-c
 
 Below is one of these disputed letters. It would appear to have been sent by the queen to Bothwell with some love-token, — a ring of black enamel containing an engraved stone, which Mary compares to her heart. The famous silver-gilt casket still exists, forever voiceless as to the nature of its contents three hundred years ago.
 
-### Letter 107: Mary Queen of Scots → Earl of Bothwell
+### Letter 97: Mary Queen of Scots → Earl of Bothwell
 
-### *From Mary Queen of Scots to the Earl of Bothwell,
-concerning certain Tokens that she sent him.*
+### *From Mary Queen of Scots to the Earl of Bothwell, concerning certain Tokens that she sent him.*
 
 1567 (?).
 
-<span class="small-caps">My Lord</span>, — If the displeasure of your absence,
-
-of your forgetfulness, the fear of danger promised by every one to your so loved person, may give me consolation, I leave it to you to judge, seeing the mishap that my cruel lot and continual misadventure has hitherto promised me following the misfortunes and fears as well of late, as of a long time by past, the which you do know. But for all that I will nowise accuse you, neither of your little remembrance, neither of your little care, and least of all of your promise broken, or of the coldness of your writing, since I am else so far made yours that that which pleases you is acceptable to me ; and my thoughts are so willingly subdued unto yours that I suppose that all that cometh of you proceeds not of any the causes aforesaid, but rather of such as be just and reasonable, and such as I desire myself, which is the final order that you promised to take for the surety and honourable service of the only supporter of my life. For which alone I will preserve the same, and without the which I desire nought but sudden death. And to testify unto you how lowly I submit myself to your commandments I have sent you of homage by Pareis the ornament of the head which is the chief guide of the other members. Inferring thereby that by the seizing of you in the possession of the spoil of which that is the principal, the remnant cannot be but subject unto you, and with consenting of the heart.
+<span class="small-caps">My Lord</span>, — If the displeasure of your absence, of your forgetfulness, the fear of danger promised by every one to your so loved person, may give me consolation, I leave it to you to judge, seeing the mishap that my cruel lot and continual misadventure has hitherto promised me following the misfortunes and fears as well of late, as of a long time by past, the which you do know. But for all that I will nowise accuse you, neither of your little remembrance, neither of your little care, and least of all of your promise broken, or of the coldness of your writing, since I am else so far made yours that that which pleases you is acceptable to me ; and my thoughts are so willingly subdued unto yours that I suppose that all that cometh of you proceeds not of any the causes aforesaid, but rather of such as be just and reasonable, and such as I desire myself, which is the final order that you promised to take for the surety and honourable service of the only supporter of my life. For which alone I will preserve the same, and without the which I desire nought but sudden death. And to testify unto you how lowly I submit myself to your commandments I have sent you of homage by Pareis the ornament of the head which is the chief guide of the other members. Inferring thereby that by the seizing of you in the possession of the spoil of which that is the principal, the remnant cannot be but subject unto you, and with consenting of the heart.
 
 In place whereof, since I have else left it unto you, I send unto you one sculpture of hard stone coloured with black, engraved with tears and bones. The stone I compare to my heart, that as it is covered in one sure sepulture or harbour of your commandments, and, above all, of your name and memory, that are therein enclosed as is my heart in this ring, never to come forth whiie death grant unto you to one trophy of victory to my bones, as the ring is filled, in sign you have made one full conquest of me, of my heart, and in that my bones are left unto you in remembrance of your victory and my acceptable love and willingness, for to be better bestowed than I merit. The annealing that is about is black, which signifies the steadfastness of her that sends the same. The tears are without number, so are the fears to displease you, the tears for your absence, the disdain that I cannot be in outward effect yours, as I am without faintness of heart and spirit, and of good reason, though my merits were much greater than that of the most profit that ever was, and such as I desire to be, and shall take pains in conditions to imitate, for to be bestowed worthily under your governance. My only wealth receive, therefore, in as good part the same, as I have received of your marriage in extreme joy, that which shall not part forth of my bosom till that marriage of our bodies be made in public, as a sign of all that I either hope or desire of bliss in this world.
 
 Yet, my heart, fearing to displease you, as much in the reading hereof, as it delights me in the writing, I will make an end, after I have kissed your hand with as great affection as I pray God (oh, the only supporter of my life!) to give you long and blessed life, and to me your good favour, as the only good that I desire, and to the which I pretend. I have shown unto the bearer of this that which I have learned, knowing the credit that you give him; as she also doth, that will be forever unto you an humble and obedient lawful wife that forever dedicates unto you her heart, her body, without any change unto him I have made the possessor of my heart, of which you may hold you assured, that unto death shall no ways be changed, for evil nor good shall never make me go from it.
 
-### Letter 108: James I → Duke of Buckingham
+### Letter 98: James I → Duke of Buckingham
 
 ### *James I. to the Duke of Buckingham.*
 
@@ -2313,9 +2272,7 @@ King James wrote to this favourite as his “ sweet child,” his “ dear boy,�
 
 No date.
 
-<span class="small-caps">My only sweet and dear Child</span>, —I am now
-
-so miserable a coward as I do nothing but weep and mourn; for I protest to God I rode this afternoon a great way in the park without speaking to anybody, and the tears trickling down my cheeks, as now they do, that I can scarcely see to write. But alas! what shall I do at our parting? The only small comfort that I have will be to pry into thy defects with the eye of an enemy, and of every mote to make a mountain, and so harden my heart against thy absence. But this little malice is like jealousy proceeding from a sweet root; but in one point it overcometh it, for as it proceeds from love, so it cannot but end in love.
+<span class="small-caps">My only sweet and dear Child</span>, —I am now so miserable a coward as I do nothing but weep and mourn; for I protest to God I rode this afternoon a great way in the park without speaking to anybody, and the tears trickling down my cheeks, as now they do, that I can scarcely see to write. But alas! what shall I do at our parting? The only small comfort that I have will be to pry into thy defects with the eye of an enemy, and of every mote to make a mountain, and so harden my heart against thy absence. But this little malice is like jealousy proceeding from a sweet root; but in one point it overcometh it, for as it proceeds from love, so it cannot but end in love.
 
 Sweet heart! be earnest with Kate[^fn-p0225-1] to come and meet thee at New Hall within eight or ten days after this. Cast thee to be here to-morrow as near about two in the afternoon as thou canst, and come galloping hither. Remember thy picture, and suffer none of the council to come here. For God's sake! write not a word again, and let no creature see this letter. The Lord of heaven and earth bless thee, and my sweet daughter, and my dear little grandchild, and all thy blessed family, and send thee a happier turn, both now and thou knowest when, to thy dear dad and Christian gossip,
 
@@ -2323,17 +2280,15 @@ Sweet heart! be earnest with Kate[^fn-p0225-1] to come and meet thee at New Hall
 
 ### *Lady Arabella Stuart to her Husband.*
 
-Among royal ladies, the Lady <span class="small-caps">Arabella Stuart</span> stands hardly second in misfortune to Lady Jane Grey, although her name is much less prominent in history. She was, like James I., descended from Margaret, the daughter of Henry VII., and so had some claim to the English succession after Elizabeth's death, which she seems never to have urged or to have wished urged in her favour. Yet it was through a pretended plot to put her on the throne that Raleigh was so long imprisoned in the Tower. She was for years a source of alarm to James I., and was allowed neither liberty nor the pursuit of happiness during her ill-fated life, simply because she had the misfortune to be born near a throne. At length the poor lady added to her other misfortunes that of falling in love. Many matches had been proposed for her, but they were considered dangerous by some of the royal parties, and nipped in the bud, until William Seymour, afterwards Marquis of Hertford, boldly wooed her in person, and they were privately married. The marriage was kept hidden for a year, and then they were both imprisoned. Seymour was placed in the Tower for "marrying a member of the royal family without the king's leave." They managed to correspond for a time by letters, till this was discovered and stopped. Then the Lady Arabella fell ill, but in spite of illness made an attempt to escape with her husband,—an attempt which, just when it seemed ripe for success, was frustrated, and the poor lady was returned to prison. She sunk under these persecutions; meditated suicide; finally lost her reason, and sunk into a melancholy, in which she died. Seymour seems always to have cherished her memory ; and years after, when his fortunes had brightened, his titles were granted him, and he had married a second time, he gave the daughter by this second marriage the name of *Arabella Stuart*.
+Among royal ladies, the Lady <span class="small-caps">Arabella Stuart</span> stands hardly second in misfortune to Lady Jane Grey, although her name is much less prominent in history. She was, like James I., descended from Margaret, the daughter of Henry VII., and so had some claim to the English succession after Elizabeth's death, which she seems never to have urged or to have wished urged in her favour. Yet it was through a pretended plot to put her on the throne that Raleigh was so long imprisoned in the Tower. She was for years a source of alarm to James I., and was allowed neither liberty nor the pursuit of happiness during her ill-fated life, simply because she had the misfortune to be born near a throne. At length the poor lady added to her other misfortunes that of falling in love. Many matches had been proposed for her, but they were considered dangerous by some of the royal parties, and nipped in the bud, until William Seymour, afterwards Marquis of Hertford, boldly wooed her in person, and they were privately married. The marriage was kept hidden for a year, and then they were both imprisoned. Seymour was placed in the Tower for "marrying a member of the royal family without the king's leave." They managed to correspond for a time by letters, till this was discovered and stopped. Then the Lady Arabella fell ill, but in spite of illness made an attempt to escape with her husband,—an attempt which, just when it seemed ripe for success, was frustrated, and the poor lady was returned to prison. She sunk under these persecutions; meditated suicide; finally lost her reason, and sunk into a melancholy, in which she died. Seymour seems always to have cherished her memory; and years after, when his fortunes had brightened, his titles were granted him, and he had married a second time, he gave the daughter by this second marriage the name of *Arabella Stuart*.
 
 This letter from the Lady Arabella is very pathetic, from its simplicity and womanly tenderness, in which there is mingled no resentment against her persecutors.
 
-### Letter 109: Arb. S. → William Seymour
+### Letter 99: Arb. S. → William Seymour
 
 1610.
 
-<span class="small-caps">Sir</span>, — I am exceeding sorry to hear you have
-
-not been well. I pray you let me know truly how you do, and what was the cause of it. I am not satisfied with the reason Smith gives of it; but if it be a cold, I will impute it to some sympathy betwixt us, having myself gotten a swollen cheek at the same time with a cold. For God’s sake, let not your grief of mind work upon your body. You may see by me what inconveniences it will bring one to; and no fortune, I assure you, daunts me so much as that weakness of body I find in myself; for *si nous vivons l’age d’un veau*, as Marot says, we may, by God’s grace, be happier than we look for, in being suffered to enjoy ourself with his majesty’s favour. But if we be not able to live to it, I for my part shall think myself a pattern of misfortune in enjoying so great a blessing as you so little while. No separation but that deprives me of the comfort of you. *For wheresoever you be, or in what state soever you are, it sufficeth* *me you are mine. Rachel wept and would not be comforted, because her children were no more. And that, indeed, is the remediless sorrow, and none else!* And therefore God bless us from that, and I will hope well of the rest, though I see no apparent hope. But I am sure God's book mentioneth many of his children in as great distress, that have done well after, even in this world. I do assure you nothing the State can do with me can trouble me so much as this news of your being ill doth; and you see when I am troubled I trouble you too, with tedious kindness; for so I think you will account so long a letter, yourself not having written to me this good while so much as how you do. But, sweet sir, I speak not this to trouble you with writing but when you please. Be well, and I shall account myself happy in being
+<span class="small-caps">Sir</span>, — I am exceeding sorry to hear you have not been well. I pray you let me know truly how you do, and what was the cause of it. I am not satisfied with the reason Smith gives of it; but if it be a cold, I will impute it to some sympathy betwixt us, having myself gotten a swollen cheek at the same time with a cold. For God’s sake, let not your grief of mind work upon your body. You may see by me what inconveniences it will bring one to; and no fortune, I assure you, daunts me so much as that weakness of body I find in myself; for *si nous vivons l’age d’un veau*, as Marot says, we may, by God’s grace, be happier than we look for, in being suffered to enjoy ourself with his majesty’s favour. But if we be not able to live to it, I for my part shall think myself a pattern of misfortune in enjoying so great a blessing as you so little while. No separation but that deprives me of the comfort of you. *For wheresoever you be, or in what state soever you are, it sufficeth* *me you are mine. Rachel wept and would not be comforted, because her children were no more. And that, indeed, is the remediless sorrow, and none else!* And therefore God bless us from that, and I will hope well of the rest, though I see no apparent hope. But I am sure God's book mentioneth many of his children in as great distress, that have done well after, even in this world. I do assure you nothing the State can do with me can trouble me so much as this news of your being ill doth; and you see when I am troubled I trouble you too, with tedious kindness; for so I think you will account so long a letter, yourself not having written to me this good while so much as how you do. But, sweet sir, I speak not this to trouble you with writing but when you please. Be well, and I shall account myself happy in being
 
 Your faithful and loving wife,
 
@@ -2345,7 +2300,7 @@ Your faithful and loving wife,
 
 The marriage of <span class="small-caps">Charles</span> I. with Henrietta Maria of France was doubtless an unusually happy state-marriage. They first saw each other at a court ball in Paris in 1623, when Charles, then Prince of Wales, was on his way to Spain, in company with the Duke of Buckingham and Endymion Porter,[^fn-p0229-1] to visit the Spanish Infanta, who was the proposed wife of the prince. The Spanish match was abandoned, and two years later he married the French princess. History gives a very pretty picture of her coming to England: how she tried to kneel when presented to the king, how he prevented her by raising her in his arms, and how her arch coquetries won his heart. Whatever may be said of him as a king, he was a loyal husband and a tender father; and the domestic life of his court was in fine contrast to that of James I., who preceded, and of Charles II., who followed him. These two letters which follow were written when the king was holding his court at Oxford, during the Civil War, and after the queen had left England to seek an asylum in her native France.
 
-### Letter 110: Charles I → Henrietta Maria
+### Letter 100: Charles I → Henrietta Maria
 
 <span class="small-caps">Oxford</span>, Feb. 13, 1643.
 
@@ -2355,7 +2310,7 @@ The marriage of <span class="small-caps">Charles</span> I. with Henrietta Maria 
 
 * * *
 
-### Letter 111: Charles I → Henrietta Maria
+### Letter 101: Charles I → Henrietta Maria
 
 ### *The Same to the Same.*
 
@@ -2373,7 +2328,7 @@ Believe me, sweet heart, thy kindness is as necessary to comfort my heart as thy
 
 The following letters of <span class="small-caps">Oliver Cromwell</span>, written while he held as absolute sway over English lives and liberties as had ever been held by any of the royal house of Stuart, belong justly, I think, among the letters of royal persons. These letters, though brief, are characteristic, although perhaps they show the hard old Puritan in a light somewhat tenderer than that usually reflected on him by history.
 
-### Letter 112: Oliver Cromwell → Elizabeth Cromwell
+### Letter 102: Oliver Cromwell → Elizabeth Cromwell
 
 For my beloved wife, <span class="small-caps">Elizabeth Cromwell</span>, at the Cockpit,  
 these:
@@ -2392,7 +2347,7 @@ I rest thine
 
 * * *
 
-### Letter 113: Oliver Cromwell → Elizabeth Cromwell
+### Letter 103: Oliver Cromwell → Elizabeth Cromwell
 
 ### *The Same to the Same.*
 
@@ -2401,9 +2356,7 @@ these:
 
 <span class="small-caps">Edinburgh</span>, 3d May, 1651.
 
-<span class="small-caps">My Dearest</span>, — I could not satisfy myself to
-
-omit this post, although I have not much to write; yet indeed I love to write to my dear, who is very much in my heart. It joys me to hear thy soul prospereth; the Lord increase his favours to thee more and more. The great good thy soul can wish is, that the Lord lift upon thee the light of his countenance, which is better than life. The Lord bless all thy good counsel and example to all those about thee, and hear all thy prayers and accept thee always.
+<span class="small-caps">My Dearest</span>, — I could not satisfy myself to omit this post, although I have not much to write; yet indeed I love to write to my dear, who is very much in my heart. It joys me to hear thy soul prospereth; the Lord increase his favours to thee more and more. The great good thy soul can wish is, that the Lord lift upon thee the light of his countenance, which is better than life. The Lord bless all thy good counsel and example to all those about thee, and hear all thy prayers and accept thee always.
 
 I am glad to hear thy son and daughter are with thee.[^fn-p0233-1] I hope thou wilt have some good opportunity of good advice to him. Present my duty to my mother, my love to all the family. Still pray for thine
 
@@ -2411,7 +2364,7 @@ I am glad to hear thy son and daughter are with thee.[^fn-p0233-1] I hope thou w
 
 * * *
 
-### Letter 114: Charles II → Catherine of Braganza
+### Letter 104: Charles II → Catherine of Braganza
 
 ### *Charles II. to Catherine of Braganza.*
 
@@ -2436,7 +2389,7 @@ The most genuinely womanly letters ever written by a lady of royal blood are the
 
 When he is coming home from a journey she writes to beg, “ that if possible I may come and meet you on the road, either where you dine, or anywhere else; for I *do so long to see you* that I am sure, had *you* as much wish to see your poor wife again, you would propose it; but do as you please. I can say no more, but that I love you so much my love cannot increase, else I am sure it would.” The following letters were all written to William during his campaign in Ireland, the first very near the date of the battle of the Boyne.
 
-### Letter 115: Queen Mary II → King William
+### Letter 105: Queen Mary II → King William
 
 <span class="small-caps">Whitehall</span>, 2 July/22 June, 1690,  
 half 11 at Night.
@@ -2447,7 +2400,7 @@ I think Lord Torrington has made no haste, and I cannot tell whether his being s
 
 * * *
 
-### Letter 116: Queen Mary II → King William
+### Letter 106: Queen Mary II → King William
 
 ### *The Same to the Same.*
 
@@ -2457,7 +2410,7 @@ I think Lord Torrington has made no haste, and I cannot tell whether his being s
 
 * * *
 
-### Letter 117: Queen Mary II → King William
+### Letter 107: Queen Mary II → King William
 
 ### *The Same to the Same.*
 
@@ -2467,7 +2420,7 @@ I think Lord Torrington has made no haste, and I cannot tell whether his being s
 
 * * *
 
-### Letter 118: Queen Mary II → King William
+### Letter 108: Queen Mary II → King William
 
 ### *The Same to the Same.*
 
@@ -2477,7 +2430,7 @@ These last two letters from Mary to her husband were written when she was impati
 
 <span class="small-caps">Last</span> night I received yours from Benit-bridge, by which I find you designed to summon Waterford last Monday. I beseech God give you good success, and send you safe and quickly home. There was order taken yesterday in council for the proroguing the parliament for three weeks. I have been this evening at Kensington; for though I did believe you would not be willing to stay at Whitehall, yet I confess what you write me word makes me in a million of fears, especially since I must needs confess my fault, that I have not been pressing enough till it was too late. The outside of the house is the fiddling work, which takes up more time than one can imagine, and while the scaffolds are up the windows must be boarded up, but as soon as that is done your own apartment may be furnished; and though mine cannot possibly be ready yet awhile, I have found out a way if you please: which is, that I may make use of Lord Portland's, and he lie in some of the other rooms. We may lie in your chamber, and I go through the council-room down, or else dress me there. And as I suppose your business will bring you often to town, so I may take such times to see company here, and that part of the family which can't come there must stay here; for 'tis no matter what inconveniences any else suffers for your dear sake; and this way I think the only one yourself will have will be my lying in your chamber, which you know I can make as easy to you as may be; our being there will certainly forward the work. I hope this letter will not come to your hands, but that you will be upon your way hither before this. My greatest fear is for your closets here; but if you will consider how much sooner you come back than one durst have hoped, you will forgive me, and I can't but be extreme glad to be so deceived. God in his mercy send us a happy meeting and a quick one, for which I am much more impatient than I can possibly express.
 
-### Letter 119: Queen Mary II → King William
+### Letter 109: Queen Mary II → King William
 
 ### *The Same to the Same.*
 
@@ -2489,7 +2442,7 @@ The house would have been ready by Tuesday night, and I hope will be in better o
 
 * * *
 
-### Letter 120: Albert → Queen Victoria
+### Letter 110: Albert → Queen Victoria
 
 ### *Prince Albert to Queen Victoria.*
 
@@ -2522,15 +2475,14 @@ Your most devoted
 
 * * *
 
-> *I assert, then, that although all the gods are immortally
-happy, Love, if I dare trust my voice to express so awful a
-truth, is the happiest and most excellent and most beautiful
-of all.* — <span class="small-caps">Plato.</span>
+> *I assert, then, that although all the gods are immortally  
+> happy, Love, if I dare trust my voice to express so awful a  
+> truth, is the happiest and most excellent and most beautiful  
+> of all.* — <span class="small-caps">Plato.</span>
 
 ### PART III.
 
-### LETTERS OF STATESMEN, MILITARY MEN,
-AND MEN OF AFFAIRS.
+### LETTERS OF STATESMEN, MILITARY MEN, AND MEN OF AFFAIRS.
 
 * * *
 
@@ -2540,7 +2492,7 @@ AND MEN OF AFFAIRS.
 
 She was an affectionate wife as well as a true helpmeet. The following is one of her letters written in their early married life, when her husband had been ill away from home, in his lodgings in the Temple in London. Every woman will appreciate the tenderness with which she writes him, that she would rather he would have been at home, if he could have had there as good care as she knows he had received in London, than have had a new gown, even though it were of scarlet.
 
-### Letter 121: Margaret Paston / M. Paston → John Paston
+### Letter 111: Margaret Paston / M. Paston → John Paston
 
 ### *Margaret Paston to her Husband.*
 
@@ -2567,7 +2519,7 @@ My mother greets you well, and sendeth you God's blessing and hers; and she pray
 
 Madame Margaret Paston, who wrote the above letter, had several children, among them two sons named John, and a daughter named for herself, and familiarly known as “Margery.” The oldest son, John, was made a knight when twenty-one years old, which made him a very desirable match for the young ladies of the time. He seems to have been difficult to suit and to have paid his addresses to several without result, for he died a bachelor in 1487. This letter was written by him to a lady of French birth but English family, residing in Calais, with whom for some years he seems to have kept up a desultory courtship.
 
-### Letter 122: John Paston / Sir John Paston → Anne Haute
+### Letter 112: John Paston / Sir John Paston → Anne Haute
 
 21 <span class="small-caps">July</span>, 1468.
 
@@ -2591,7 +2543,7 @@ After the death of the first Sir John Paston, in 1487, his brother, the second J
 
 In spite of this there must still have been some holding off about money matters, on the part of father Brews, and he was evidently unwilling to give as much dowry with his daughter as John desired, for the young lady herself felt obliged to follow up her mother's letter with these two ardent, yet business-like epistles. It is a comfortable thing to learn that these letters ended the affair, and the wavering John, who had one or two other ladies in his mind, settled it in favour of Margery, and she became his wife that year. The attempts at poetry in Mistress Margery's valentine may serve as a model for modern efforts in that line.
 
-### Letter 123: Margery Brews → John Paston
+### Letter 113: Margery Brews → John Paston
 
 ### *Margery Brews to John Paston.*
 
@@ -2627,7 +2579,7 @@ By your own
 
 * * *
 
-### Letter 124: Margery Brews → John Paston
+### Letter 114: Margery Brews → John Paston
 
 ### *The Same to the Same.*
 
@@ -2654,7 +2606,7 @@ There is so little sentiment to be found in the wooing of the two Sir Johns, tha
 
 It seems that Sir John, the elder brother, had a bailiff in charge of his estates named Richard Calle, who was a very valuable man of business in the family, a young man, and one who by his letters seems quite equal, if not superior in mind, to the gentlemen of the Paston family. On him Lady Margery set her heart, and being, by all evidence, a young woman of strong will, “ where she had set her heart, there it must abide.” The wroth and opposition of her family were extreme, and when we consider what an unusual thing it was in the fifteenth century for a young woman to breast the opposition of all her kinsfolk, we must have both sympathy and admiration for her as a brave and loyal girl. Before her family had quite found out the matter she had entered into a solemn troth-plight with Richard, — a plight the Church considered sacred, and which, if certain words were uttered, even her kinsfolk would not dare to annul, as they were binding in the eyes of the Church. If she had said this thing, her friends would not (as Richard Calle writes her), “if ye tell them solemnly the truth, damn their souls for us,” as they would be in danger of doing if they annulled a troth-plight. So Margery was carried before the Bishop of Norwich, who was the nearest dignitary of the Church, to be examined as to the validity of her contract. The Bishop began by reminding her of her high birth and the friends she had and would have if she allowed herself to be ruled by them, and then asked her if she had said words to Calle that meant matrimony. Then Margery stood up bravely and repeated her words, and said, “if these words were not sure, she would make them still surer ere she went home, for she knew in her conscience she was bound, whatever the words she said.” On which her mother and brothers waxed so much more wroth that they refused even to let her enter their doors while the Bishop was deciding the case, and the reverend judge was obliged to find a shelter in Norwich for her. He finally decided in favour of the lovers, and she became Mistress Richard Calle, who still continued his services in the family as bailiff, being too valuable a man to part with, although he seems never to have been received as a member of the family. Thus ends this romance of 1469, and here is one of its remains in the letter of Richard to Margery, written before she had her trial of love before the good Bishop of Norwich. Of Margery’s letters we have none preserved; very likely they were destroyed by her family.
 
-### Letter 125: Richard Calle → Margery Paston
+### Letter 115: Richard Calle → Margery Paston
 
 1469 (May?).
 
@@ -2672,8 +2624,7 @@ This letter was written with as great pain as ever wrote I thing in my life ; fo
 
 * * *
 
-### *Roger Ascham to his Wife Margaret, in Consolation for
-the Death of their Son, Sturm Ascham.*
+### *Roger Ascham to his Wife Margaret, in Consolation for the Death of their Son, Sturm Ascham.*
 
 The following letter was written by <span class="small-caps">Roger Ascham</span>, the famous schoolmaster of the sixteenth century. He was the teacher of Queen Elizabeth in her girlhood, and of Lady Jane Grey ; and these two princesses seem to have been favourite pupils of his, for he cannot speak too highly in praise of their learning and studiousness.
 
@@ -2681,7 +2632,7 @@ His marriage, which took place rather late in life, when he was nearly forty, se
 
 “ You wish to know about my wife. In face she is like her aunt, the wife of Sir R. Walop. She is just such a wife as John Sturm would desire for his friend Roger Ascham. Her name is Margaret; our wedding-day was the 1st of June, 1554, if there be anything lucky in that name or that day.”
 
-### Letter 126: Roger Ascham → Margaret Ascham
+### Letter 116: Roger Ascham → Margaret Ascham
 
 <span class="small-caps">November</span>, 1568.
 
@@ -2703,7 +2654,7 @@ To my dear wife, <span class="small-caps">Margaret Ascham</span>, these.
 
 The Countess of Shrewsbury was one of the most remarkable women of the reign of Queen Elizabeth; beautiful in person, though masculine in character, and by all evidence utterly selfish and without heart. Yet her fascination helped her to four husbands, each of whom seems to have been equally in love with her, and each of whom she ruled with imperious sway. This letter from her third husband, <span class="small-caps">William St. Lo</span>, a bluff soldier of Elizabeth's guard, was written while he was stationed at the queen's palace in Windsor.
 
-### Letter 127: Master Sir William St. Lo., Esq. → Countess of Shrewsbury
+### Letter 117: Master Sir William St. Lo., Esq. → Countess of Shrewsbury
 
 4 <span class="small-caps">September</span> (about 1560?).
 
@@ -2731,7 +2682,7 @@ It was not long after this that Elizabeth compelled the Earl to relinquish his c
 
 The following letters were written to her by the Earl in the days of their early wedded life before she had begun to be jealous of Queen Mary, at the time even when she was planning to secure the office of custodian to the queen for her husband.
 
-### Letter 128: G. Shrewsbury → Countess of Shrewsbury
+### Letter 118: G. Shrewsbury → Countess of Shrewsbury
 
 <span class="small-caps">Hampton Court</span>, 1568.
 
@@ -2741,7 +2692,7 @@ I thank you, sweet one, for your puddings and venison. The puddings I have dispo
 
 I perceive Ned Talbot hath been sick, and now past danger. I thank God I have such a one that is so careful over me and mine. God send me soon home to possess my greatest joy. If you think that is *you*, you are not deceived.
 
-. . . I live in hope to be with you before you can return answer again. You shall understand that this present Monday, in the morning , finding the queen in the garden at good leisure, I gave her majesty thanks that she had so little regard to the clamorous people of Bolsor in my absence! She declared unto me what evil speech had been said against me, and my nearness and state in housekeeping, and as much as was told her which she nowise believed, with as good words from her as I could wish, declaring that ere it were long I should well perceive she did trust me as she did few. She would not tell me wherein, but I doubt it was about the custody of the Queen of Scots. . . . I think before Sunday these matters will come to some pass that we shall know how long our abode shall be, but howsoever it falls out I will not fail but be with you at Christmas, or else you shall come to me.
+. . . I live in hope to be with you before you can return answer again. You shall understand that this present Monday, in the morning, finding the queen in the garden at good leisure, I gave her majesty thanks that she had so little regard to the clamorous people of Bolsor in my absence! She declared unto me what evil speech had been said against me, and my nearness and state in housekeeping, and as much as was told her which she nowise believed, with as good words from her as I could wish, declaring that ere it were long I should well perceive she did trust me as she did few. She would not tell me wherein, but I doubt it was about the custody of the Queen of Scots. . . . I think before Sunday these matters will come to some pass that we shall know how long our abode shall be, but howsoever it falls out I will not fail but be with you at Christmas, or else you shall come to me.
 
 The plague is dispersed far abroad in London, so the queen keeps her Christmas here and goeth not to Greenwich, as it was meant. My Lady Cobham wishes your presence here; she loves you well. I tell her I have cause to love her best for that she wished me well speed with you, and I did. *And as the pen writes, so the heart thinks, that of all earthly joys I thank God chiefest for you, for with you I have joys and contentation of mind, and without you death is more pleasant to me than life if I thought I should be long from you, and therefore,* *good wife, do as I will do, hope shortly of our meeting, and farewell, dear, sweet one!* From Hampton Court this Monday at midnight, for it is every night so late before I go to bed, being at play in the privy chamber at Primers, where I have lost almost one hundred pounds and lacked my sleep besides.
 
@@ -2751,13 +2702,11 @@ G. <span class="small-caps">Shrewsbury.</span>
 
 * * *
 
-### Letter 129: Shrewsbury → Countess of Shrewsbury
+### Letter 119: Shrewsbury → Countess of Shrewsbury
 
 ### *The Same to the Same.*
 
-<span class="small-caps">My dear One</span>,—Of all joys I have under God
-
-the greatest is yourself. To think I possess one so faithful and one that I know loves me so dearly, is all, and the greatest comfort, that this earth can give. Therefore, God give me grace to be thankful to him for his good showed upon me a vile sinner. [*Part of the letter here is effaced and the meaning obscure.*] I thank you, sweet heart, that you are so ready to come when I will; therefore, dear heart, send me word how I might send for you, and till I may have your company I shall think it long, my only joy, and therefore appoint a day, and in the meantime I shall content me with your will, and long daily for your coming. I your letters con very well, and I like them so well they could not be amended, and I have sent them up to Gilbert. I have written him how happy he is to have such a mother as you are. Farewell, my only joy. This Tuesday eve.
+<span class="small-caps">My dear One</span>,—Of all joys I have under God the greatest is yourself. To think I possess one so faithful and one that I know loves me so dearly, is all, and the greatest comfort, that this earth can give. Therefore, God give me grace to be thankful to him for his good showed upon me a vile sinner. [*Part of the letter here is effaced and the meaning obscure.*] I thank you, sweet heart, that you are so ready to come when I will; therefore, dear heart, send me word how I might send for you, and till I may have your company I shall think it long, my only joy, and therefore appoint a day, and in the meantime I shall content me with your will, and long daily for your coming. I your letters con very well, and I like them so well they could not be amended, and I have sent them up to Gilbert. I have written him how happy he is to have such a mother as you are. Farewell, my only joy. This Tuesday eve.
 
 Your faithful one,
 
@@ -2771,7 +2720,7 @@ Your faithful one,
 
 The following beautiful letter was written by Sir <span class="small-caps">Walter Raleigh</span> to his wife after his trial for treason and condemnation to death in 1603. His sentence was afterwards reprieved and he was committed to imprisonment in the Tower, where he remained more than twelve years, his captivity during much of that time softened by the society and affection of his wife. During his imprisonment he wrote his *History of the World,* and he occupied himself also in experiments in chemistry and in medicine. The queen of James I., it is said, often sent for his remedies when she or any one of the royal children was ill, and Prince Henry, the eldest son of James I., was so much in sympathy with Raleigh that he said openly that no king but his father “ would keep so rare a bird in so ill a cage.”
 
-### Letter 130: W. Raleigh → Lady Raleigh
+### Letter 120: W. Raleigh → Lady Raleigh
 
 You shall now receive, dear wife, my last words in these my last lines. My love I send you, that you may keep it when I am dead ; and my counsel, that you may remember it when I am no more. I would not by my will present you with sorrows, dear Bess ; let them go to the grave and be buried with me in dust. And seeing it is not the will of God that I shall ever see you more in this life, bear it patiently and with a heart like thyself.
 
@@ -2793,7 +2742,7 @@ During the last years of Raleigh's captivity the interest in American discovery 
 
 Almost immediately the old feud broke out, which rankled in the heart of every English sailor whenever the name Spaniard was spoken. The town was attacked and burned, the Spanish governor was killed, and also Raleigh's son Walter, who had gone with him on this expedition. It was upon his return, when he could clearly foresee his doom, that Sir Walter wrote the following to his wife to console her for the death of their son.
 
-### Letter 131: W. Ralegh → Lady Raleigh
+### Letter 121: W. Ralegh → Lady Raleigh
 
 <span class="small-caps">March</span> 22, 1618.
 
@@ -2813,8 +2762,7 @@ Raleigh was arrested immediately after landing, and, without any new trial, was 
 
 Sir Walter was not buried in Beddington notwithstanding this request. His remains are in St. Margaret’s Church just over the way from Westminster Abbey, and his faithful wife is not buried beside him. Her brief letter, with its supplication, “God hold me in my wits,” is worth volumes of lamentation.
 
-### *From Kate, Duchess of Buckingham, to her Husband,
-George Villiers, Duke of Buckingham.*
+### *From Kate, Duchess of Buckingham, to her Husband, George Villiers, Duke of Buckingham.*
 
 The following letter was written by <span class="small-caps">Kate Villiers</span>, Duchess of Buckingham, to her handsome and profligate husband, when he was absent in Spain, as friend and companion to Prince Charles, afterwards Charles I. It is to this same Duke of Buckingham, familiarly called “Steenie” by James I. and the prince, that King James wrote the letter quoted on page 200.
 
@@ -2822,13 +2770,11 @@ The negotiations for Charles’s marriage with the Infanta, which took the Princ
 
 That the Duke of Buckingham was very attractive in person, and capable of inspiring most ardent attachments, is proved by the affection the king and prince felt for him as well as by the extravagant terms of his wife’s letters.
 
-### Letter 132: Kate Buckingham → George Villiers, Duke of Buckingham
+### Letter 122: Kate Buckingham → George Villiers, Duke of Buckingham
 
 1623.
 
-<span class="small-caps">My dear Lord</span>,—I humbly thank you that
-
-you were pleased to write so many letters to me, which was so great a comfort to me as you cannot imagine, for I protest to God I have had a grievous time of this our grievous parting, for I am sure it has been so to me, and my heart has felt enough more than I hope it ever shall do again; and I pray God release me out of it by your speedy coming hither again to her that doth as dearly love you as ever woman did man ; and if everybody did love you but a quarter as well, you were the happiest man that ever was born, but that is impossible. But I protest I think you are the best beloved that ever favourite was, for all that have true worth in them cannot but love your sweet disposition. If I were not so near to you as I thank God I am, I could say no less, if I said truth, for I think there never was such a man born as you are ; and how much am I bound to God that I must be that happy woman, to enjoy you from all other women, —I, the unworthiest of all, to have so great a blessing ! Only this I can say for myself, you could never have had one that could love you better than your poor, true loving Kate doth, poor now in your absence, but else the happiest and richest woman in the world. I thank you for your long letter ; I think I must give Sir Francis Cottington thanks for it too, because you say he bade you write long letters. I am beholden to him for that, because I am sure he knew they could never be *too* long for me, for it is all the comfort I have now to read often over your letters. My reason that I desired you not to do it was for fear of troubling you too much ; but, since you think it none, I am much bound to you for it, and I beseech you to continue it.
+<span class="small-caps">My dear Lord</span>,—I humbly thank you that you were pleased to write so many letters to me, which was so great a comfort to me as you cannot imagine, for I protest to God I have had a grievous time of this our grievous parting, for I am sure it has been so to me, and my heart has felt enough more than I hope it ever shall do again; and I pray God release me out of it by your speedy coming hither again to her that doth as dearly love you as ever woman did man ; and if everybody did love you but a quarter as well, you were the happiest man that ever was born, but that is impossible. But I protest I think you are the best beloved that ever favourite was, for all that have true worth in them cannot but love your sweet disposition. If I were not so near to you as I thank God I am, I could say no less, if I said truth, for I think there never was such a man born as you are ; and how much am I bound to God that I must be that happy woman, to enjoy you from all other women, —I, the unworthiest of all, to have so great a blessing ! Only this I can say for myself, you could never have had one that could love you better than your poor, true loving Kate doth, poor now in your absence, but else the happiest and richest woman in the world. I thank you for your long letter ; I think I must give Sir Francis Cottington thanks for it too, because you say he bade you write long letters. I am beholden to him for that, because I am sure he knew they could never be *too* long for me, for it is all the comfort I have now to read often over your letters. My reason that I desired you not to do it was for fear of troubling you too much ; but, since you think it none, I am much bound to you for it, and I beseech you to continue it.
 
 I hope you see by this, I have not omitted writing by any that went, for this is the sixteenth letter, at the least, I have written you since you went, whereof two of them I sent by the common post; but I hope they will all come safely to your hands.
 
@@ -2836,7 +2782,7 @@ I thank you for sending me so good news of our young mistress.[^fn-p0280-1] I am
 
 I told the King of the private message the Infanta sent the Prince, to wear a great ruff; he laughed heartily at it, and said it was a good sign. I am very glad you sent to hasten the ships. I hope you mean not to stay long, which I am very glad of. . . .
 
-I thank God, Moll is very well with her weaning . Thus, with my daily prayers for our happy meeting, I take my leave.
+I thank God, Moll is very well with her weaning. Thus, with my daily prayers for our happy meeting, I take my leave.
 
 Your loving and obedient wife,
 
@@ -2848,7 +2794,7 @@ I pray send me word when you come.
 
 The little Moll mentioned above was the daughter of the Duke, of whose baby ways the Duchess gives the following lively description in another of her letters while the Duke is at this time absent.
 
-### Letter 133: Kate → George Villiers, Duke of Buckingham
+### Letter 123: Kate → George Villiers, Duke of Buckingham
 
 <span class="small-caps">Moll</span> is very well, I thank God, and when she is set upon her feet and held by the sleeves, she will not go slowly, but stamp and set one foot afore another very fast, that I think she will run before she can go. She loves dancing extremely, and when the saraband be played, she will get her finger and her thumb together, offering to snap; and then when *Tom Duff* is sung, then will she shake her apron, and when she hears the tune of the clapping dance my Lady Frances Hubert taught the Prince, she will clap both her hands together and on her heart; and she can tell the tunes as well as any of us can, and, as they change the tunes, she will change her dancing. I would you were but here to see her, for you would take much delight in her now she is so full of pretty plays and tricks; and she has gotten a trick that when they dance her, she will cry “Ha! ha!” and Nicholas will dance with his legs, and she will imitate him as well as she can. If one lay her down, she will kick her legs over her head; but I hope as she grows older she will grow more modest. Everybody says she is more like you than any other. You shall have her picture very shortly. I am very glad you have the pearls and that you like them so well; and I am sure they do not help you to win the ladies’ hearts. Yourself is a jewel that will win the hearts of *all the women in the world*, but I am confident it is not in their power to win *your* heart from a heart that is, was, and ever shall be yours till death.
 
@@ -2868,7 +2814,7 @@ Even the sober Prince Charles seems to have been somewhat infected by absence fr
 
 When Endymion’s fortunes in later years were clouded by his devotion to the royal family, his wife dropped all jealous reproaches and became a most helpful and noble wife. He went to France with Queen Henrietta Maria, and Olive Porter, remaining in England, used great address and courage in protecting and preserving his fortunes and interests at home.
 
-### Letter 134: Endymion Porter → Olive Porter
+### Letter 124: Endymion Porter → Olive Porter
 
 No date (probably 1622).
 
@@ -2881,7 +2827,7 @@ No date (probably 1622).
 Written during his absence in Spain with Prince Charles  
 and the Duke of Buckingham.
 
-### Letter 135: Endymion Porter → Olive Porter
+### Letter 125: Endymion Porter → Olive Porter
 
 <span class="small-caps">Madrid</span>, April 17, 1623, N. S.
 
@@ -2915,7 +2861,7 @@ One does not look for much sentiment, or any very fervent expression of it, amon
 
 I have quoted, as a prefix to some of the letters of John Winthrop and his wife, the following letter from <span class="small-caps">Anne Winthrop</span>, his mother, to her husband, which is a very quaint wifely epistle of the sixteenth century.
 
-### Letter 136: Anne Winthrop → Adam Winthrop
+### Letter 126: Anne Winthrop → Adam Winthrop
 
 ### *Anne Winthrop to her Husband.*
 
@@ -2929,9 +2875,7 @@ Your loving wife,
 
 <span class="small-caps">Anne Winthrop.</span>
 
-Je vous rende grace de la bien souvenance que vous avez de moi Bible François. Je vous prie de l'envoyer en bréf par le Roullier.
-
-If my brother Winthrop be at London, I pray forget not to say my very hearty commendations unto him.
+Je vous rende grace de la bien souvenance que vous avez de moi Bible François. Je vous prie de l'envoyer en bréf par le Roullier. If my brother Winthrop be at London, I pray forget not to say my very hearty commendations unto him.
 
 * * *
 
@@ -2939,16 +2883,14 @@ If my brother Winthrop be at London, I pray forget not to say my very hearty com
 
 The following letter is from John Winthrop to his betrothed wife Margaret Tyndal shortly before their marriage. She was his third wife, although he was barely thirty at the time of his marriage with her. This is as unique a love-letter as can be found in the annals of courtship, and its mixture of ardent affection with religious devotion, its adaptation of scripture to the language of passionate wooing, is not equalled by anything in literature.
 
-### Letter 137: John Winthrop → Margaret Tyndal
+### Letter 127: John Winthrop → Margaret Tyndal
 
 To my best beloved, Mrs. <span class="small-caps">Margaret Tyndal</span>, at Great  
 Maplestead, Essex. Grace, mercy, and peace, etc.
 
-<span class="small-caps">My</span> own beloved spouse, my most sweet friend and faithful companion of my pilgrimage, the happy and hopeful supply (next Christ Jesus) of my greatest losses, I wish thee a most plentiful increase of all true comfort in the love of Christ, with a large and prosperous addition of whatsoever happiness the sweet estate of holy wedlock, in the kindest society of a loving husband, may afford thee. Being filled with the joy of thy love, and wanting opportunity of more familiar communion with thee, which my heart
+<span class="small-caps">My</span> own beloved spouse, my most sweet friend and faithful companion of my pilgrimage, the happy and hopeful supply (next Christ Jesus) of my greatest losses, I wish thee a most plentiful increase of all true comfort in the love of Christ, with a large and prosperous addition of whatsoever happiness the sweet estate of holy wedlock, in the kindest society of a loving husband, may afford thee. Being filled with the joy of thy love, and wanting opportunity of more familiar communion with thee, which my heart fervently desires, I am constrained to ease the burthen of my mind by this poor help of my scribbling pen, being sufficiently assured that, although my presence is that which thou desirest, yet in the want thereof these lines shall not be unfruitful of comfort unto thee. And now, my sweet love, let me awhile solace myself in the remembrance of our love, of which this springtime of our acquaintance can put forth as yet no more but the leaves and blossoms, whilst the fruit lies wrapped up in the tender bud of hope; a little more patience will disclose this good fruit, and bring it to some maturity. Let it be our care and labour to preserve these hopeful buds from the beasts of the field, and from frosts and other injuries of the air, lest our fruit fall off ere it be ripe, or lose aught in the beauty and pleasantness of it. Let us pluck up such nettles and thorns as would defraud our plants of their due nourishment; let us prune off superfluous branches; let us not stick at some labour in watering and manuring them: the plenty and goodness of our fruit shall recompense us abundantly. Our trees are planted in a fruitful soil; the ground and pattern of our love is no other but that between Christ and his dear spouse, of whom she speaks as she finds him. “My well-beloved is mine and I am his.” Love was their banqueting-house, love was their wine, love was their ensign; love was his invitings, love was her faintings; love was his apples, love was her comforts; love was his embracings, love was her refreshing; love made him see her, love made her seek him; love made him wed her, love made her follow him; love made him her saviour, love made her his servant. Love bred our fellowship, let love continue it, and love shall increase it until death dissolve it. . . .
 
-fervently desires, I am constrained to ease the burthen of my mind by this poor help of my scribbling pen, being sufficiently assured that, although my presence is that which thou desirest, yet in the want thereof these lines shall not be unfruitful of comfort unto thee. And now, my sweet love, let me awhile solace myself in the remembrance of our love, of which this springtime of our acquaintance can put forth as yet no more but the leaves and blossoms, whilst the fruit lies wrapped up in the tender bud of hope; a little more patience will disclose this good fruit, and bring it to some maturity. Let it be our care and labour to preserve these hopeful buds from the beasts of the field, and from frosts and other injuries of the air, lest our fruit fall off ere it be ripe, or lose aught in the beauty and pleasantness of it. Let us pluck up such nettles and thorns as would defraud our plants of their due nourishment; let us prune off superfluous branches; let us not stick at some labour in watering and manuring them: the plenty and goodness of our fruit shall recompense us abundantly. Our trees are planted in a fruitful soil; the ground and pattern of our love is no other but that between Christ and his dear spouse, of whom she speaks as she finds him. “My well-beloved is mine and I am his.” Love was their banqueting-house, love was their wine, love was their ensign; love was his invitings, love was her faintings; love was his apples, love was her comforts; love was his embracings, love was her refreshing; love made him see her, love made her seek him; love made him wed her, love made her follow him; love made him her saviour, love made her his servant. Love bred our fellowship, let love continue it, and love shall increase it until death dissolve it. . . .
-
-Now, my dear heart, let me parley a little with thee about trifles, for when I am present with thee my speech is prejudiced by thy presence, which draws my mind from itself. I suppose now, upon thy uncle’s coming, there will be advising and counselling of all hands; and amongst many I know there will be some that will be provoking thee in these indifferent things, — as matter of apparel, fashions, and other circumstances, rather to give content to their vain minds, savouring too much of the flesh, &c., than to be guided by the rule of God’s word, which must be the light and the Rule. . . . I confess that there be some ornaments which, for virgins and knight’s daughters, &c., may be comely and tolerable, which yet, in so great a change as thine is, may well admit a change also. I will meddle with no particulars , neither do I think it shall be needful; thine own wisdom and godliness shall teach thee sufficiently what to do in such things, and the good assurance which I have of thy unfeigned love towards me makes me persuaded that thou wilt have care of my contentment, seeing it must be a chief stay to thy comfort: and with all the great and sincere desire which I have that there might be no discouragement to daunt the edge of my affections, while they are truly labouring to settle and repose themselves in thee, makes me thus watchful and jealous of the least occasion that Satan might stir up to our discomfort. He that is faithful in the least will be faithful in the greatest, but I am too fearful I do thee wrong; I know thou wilt not grieve me for trifles. Let me entreat thee (my sweet love) to take all in good part, for it is all of my love to thee, and in my love I shall requite thee. . . .
+Now, my dear heart, let me parley a little with thee about trifles, for when I am present with thee my speech is prejudiced by thy presence, which draws my mind from itself. I suppose now, upon thy uncle’s coming, there will be advising and counselling of all hands; and amongst many I know there will be some that will be provoking thee in these indifferent things, — as matter of apparel, fashions, and other circumstances, rather to give content to their vain minds, savouring too much of the flesh, &c., than to be guided by the rule of God’s word, which must be the light and the Rule. . . . I confess that there be some ornaments which, for virgins and knight’s daughters, &c., may be comely and tolerable, which yet, in so great a change as thine is, may well admit a change also. I will meddle with no particulars, neither do I think it shall be needful; thine own wisdom and godliness shall teach thee sufficiently what to do in such things, and the good assurance which I have of thy unfeigned love towards me makes me persuaded that thou wilt have care of my contentment, seeing it must be a chief stay to thy comfort: and with all the great and sincere desire which I have that there might be no discouragement to daunt the edge of my affections, while they are truly labouring to settle and repose themselves in thee, makes me thus watchful and jealous of the least occasion that Satan might stir up to our discomfort. He that is faithful in the least will be faithful in the greatest, but I am too fearful I do thee wrong; I know thou wilt not grieve me for trifles. Let me entreat thee (my sweet love) to take all in good part, for it is all of my love to thee, and in my love I shall requite thee. . . .
 
 Lastly, for my farewell (for thou seest my lothness to part with thee makes me tedious), take courage unto thee, and cheer up thy heart in the Lord, for thou knowest that Christ, the best of husbands, can never fail thee: he never dies, so as there can be no grief at parting; he never changes, so as once beloved and ever the same; his ability is ever infinite, so as the dowry and inheritance of his sons and daughters can never be diminished. As for me, a poor worm, dust and ashes, a man full of infirmities, subject to all sins, changes, and chances which befall the sons of men, how should I promise thee anything of myself, or, if I should, what credence couldst thou give thereto, seeing God only is true and every man a liar? Yet so far as a man may presume upon some experience, I may tell thee that my hope is, that such comfort as thou hast already conceived of my love towards thee shall (through God's blessing) be happily continued; his grace shall be sufficient for me, and his power shall be made perfect in my greatest weakness; only let thy godly, kind, and sweet carriage towards me be as fuel to the fire, to minister a constant supply of meet matter to the confirming and quickening of my dull affections. This is one end why I write so much unto thee, that if there should be any decay in kindness, &c., through my default and slackness hereafter, thou might have some patterns of our first love by thee, to help the recovery of such disease. Yet let our trust be wholly in God, and let us constantly follow him by our prayers, complaining and moaning unto him of our poverty, imperfections, and unworthiness, until his fatherly affection break forth upon us, and he speak kindly to the hearts of his poor servant and handmaid, for the full assurance of grace and peace through Christ Jesus, to whom I now leave thee (my sweet spouse and only beloved). God send us a safe and comfortable meeting on Monday morning. Farewell. Remember my love and duty to my Lady, thy good mother, with all kind and due salutations to thy uncle E. and all thy brothers and sisters.
 
@@ -2966,7 +2908,7 @@ My father and mother salute thee heartily, with my Lady and the rest. If I had t
 
 The next letter is from Margaret Tyndal, now become Mrs. Winthrop, written in their early wedded life, before her husband had departed for the home in the New World. It is rather more submissive than the more modern ideas of woman's dependence upon man would warrant, but Margaret Tyndal was probably bred up in Milton's ideas of the relations of the man and woman, "*He* for God only, *she* for God in him."
 
-### Letter 138: Margaret Winthrop → John Winthrop
+### Letter 128: Margaret Winthrop → John Winthrop
 
 <span class="small-caps">Groton</span>, Nov. 22, 1627.
 
@@ -2982,7 +2924,7 @@ Your obedient wife,
 
 * * *
 
-### Letter 139: J. Winthrop → Mrs. Winthrop
+### Letter 129: J. Winthrop → Mrs. Winthrop
 
 ### *John Winthrop to his Wife.*
 
@@ -3005,7 +2947,7 @@ J. <span class="small-caps">Winthrop.</span>
 
 The following letter was written by John Winthrop after he had parted from his family and embarked on the “ Arbella ” for Massachusetts. It seems to have been agreed upon between them that they should think of each other at “ five of the clock Mondays and Fridays.” No lovers could have been more devoted in the first hour of troth-plight than these two who had then been twelve years wedded.
 
-### Letter 140: Jo. Winthrop → Margaret Winthrop
+### Letter 130: Jo. Winthrop → Margaret Winthrop
 
 To Mrs. <span class="small-caps">Margaret Winthrop</span>, the elder, at Groton.
 
@@ -3028,7 +2970,7 @@ One of the most interesting families in English history is the <span class="smal
 
 Some of Lady Dorothy’s letters to her husband and to her son, Algernon Sidney, are preserved among the papers of the Sidney family. The following, which is written in the sixteenth year of their wedded life, is evidently in answer to a letter in which the Earl has reproved her for complaining that his letters did not reach her promptly.
 
-### Letter 141: Dorothy Leicester → Robert Sidney, 2nd Earl of Leicester
+### Letter 131: Dorothy Leicester → Robert Sidney, 2nd Earl of Leicester
 
 ### *Lady Dorothy Sidney to her Husband.*
 
@@ -3060,7 +3002,7 @@ The daughter of Lady Dorothy Sidney, who wrote the beautiful letter given above,
 
 The happiness of Lady Dorothy and her husband was of brief duration. The Earl of Sunderland was killed in the battle of Newbury, fighting for a cause in which he felt his honour more than his heart was enlisted. The letter which follows was written at Oxford, then the headquarters of King Charles, four days before the battle in which the Earl met his death.
 
-### Letter 142: Sunderland → Lady Dorothy, his Wife
+### Letter 132: Sunderland → Lady Dorothy, his Wife
 
 <span class="small-caps">Oxford</span>, Sept. 16, 1643.
 
@@ -3104,7 +3046,7 @@ Lady Russell’s letters would in no way be remarkable if they were not written 
 
 It will be noticed that Lady Russell's early letters to her husband are signed “ R. Vaughan.” She retained this signature till her husband gained his title, and thenceforth signed herself “ Russell.”
 
-### Letter 143: Russell → Lady Russell
+### Letter 133: Russell → Lady Russell
 
 ### *Lord Russell to Lady Russell, written ten Years after Marriage.*
 
@@ -3118,7 +3060,7 @@ Your
 
 * * *
 
-### Letter 144: Rachel Vaughan → Lord Russell
+### Letter 134: Rachel Vaughan → Lord Russell
 
 ### *Lady Russell to Lord Russell.*
 
@@ -3130,7 +3072,7 @@ I <span class="small-caps">write</span> this to my dear Mr. Russell, because I l
 
 * * *
 
-### Letter 145: R. Russell → Lord Russell
+### Letter 135: R. Russell → Lord Russell
 
 ### *The Same to the Same.*
 
@@ -3146,7 +3088,7 @@ I am yours, my dear love,
 
 R. <span class="small-caps">Russell</span>.
 
-### Letter 146: R. Russell → Lord Russell
+### Letter 136: R. Russell → Lord Russell
 
 ### *The Same to the Same.*
 
@@ -3166,9 +3108,9 @@ R. <span class="small-caps">Russell.</span>
 
 ### *The Duke of Marlborough to the Duchess.*
 
-The greatest military leader of England in the eighteenth century, <span class="small-caps">John Churchill</span>, Duke of Marlborough, was under the domination of a ruler more powerful than he. For years the Duchess of Marlborough, imperious, brilliant, ambitious, was the most powerful person in England , ruling even the queen by the ascendancy she had gained through their long friendship. It is difficult to see now how she held such power, with so little that seems attractive, and with nothing that is amiable, in her character; but that she must have been in youth a woman capable of attaching others to her with hooks of steel is incontrovertible. Marlborough married her for love, and loved her absolutely. His affection breaks through all his letters to her. He writes, “I am heart and soul yours,” “I can have no happiness till I am with you;” and his fear of her displeasure or tempers comes in such plaintive bursts as “I am never so happy as when I think you are kind.” His motive of life was to please her, and his ambition to conquer all fields that were before him, that he might settle down at home with “the blessing of living quietly with her my soul longs for.” Perhaps fortunately for this much-wished-for peace, the Duke died long before the Duchess, who lived to great old age; a virago whose last days remind us not a little of those of the Countess of Shrewsbury,[^fn-p0321-1] in Elizabeth’s reign, who spent her last days not only at variance with those about her, but even with her nearest of kin, and who died execrated by those to whom she should have been an object of reverence and love.
+The greatest military leader of England in the eighteenth century, <span class="small-caps">John Churchill</span>, Duke of Marlborough, was under the domination of a ruler more powerful than he. For years the Duchess of Marlborough, imperious, brilliant, ambitious, was the most powerful person in England, ruling even the queen by the ascendancy she had gained through their long friendship. It is difficult to see now how she held such power, with so little that seems attractive, and with nothing that is amiable, in her character; but that she must have been in youth a woman capable of attaching others to her with hooks of steel is incontrovertible. Marlborough married her for love, and loved her absolutely. His affection breaks through all his letters to her. He writes, “I am heart and soul yours,” “I can have no happiness till I am with you;” and his fear of her displeasure or tempers comes in such plaintive bursts as “I am never so happy as when I think you are kind.” His motive of life was to please her, and his ambition to conquer all fields that were before him, that he might settle down at home with “the blessing of living quietly with her my soul longs for.” Perhaps fortunately for this much-wished-for peace, the Duke died long before the Duchess, who lived to great old age; a virago whose last days remind us not a little of those of the Countess of Shrewsbury,[^fn-p0321-1] in Elizabeth’s reign, who spent her last days not only at variance with those about her, but even with her nearest of kin, and who died execrated by those to whom she should have been an object of reverence and love.
 
-### Letter 147: John Churchill, Duke of Marlborough → Duchess of Marlborough
+### Letter 137: John Churchill, Duke of Marlborough → Duchess of Marlborough
 
 <span class="small-caps">Hague</span>, April 23, 1706.
 
@@ -3178,10 +3120,9 @@ My dearest soul, my desire of being with you is so great that I am not able to e
 
 * * *
 
-### Letter 148: John Churchill, Duke of Marlborough → Duchess of Marlborough
+### Letter 138: John Churchill, Duke of Marlborough → Duchess of Marlborough
 
-### *The Same to the Same, written just after the Battle
-of Ramillies.*
+### *The Same to the Same, written just after the Battle of Ramillies.*
 
 <span class="small-caps">Ramillies</span>, Monday, May 24, 11 o'clock, 1706.
 
@@ -3191,7 +3132,7 @@ I <span class="small-caps">did</span> not tell my dearest soul the design I had 
 
 Especially interesting to Americans are the letters of John Adams and his wife, which were written when the American conflict began which made the United States a nation, and in the course of which correspondence we may trace many of the events that attended the formation of the young nation. Mrs. Adams's letters have been deservedly famous among her countrywomen. They are homely, sensible, and not without the eloquence of the heart. She was a tower of strength to her husband, and deserved the name of Portia he seems to have given her, and which she often signs herself in writing to him. Like Brutus's Portia, she was well fathered and well husbanded, and has much of the stuff of the Roman matron in her composition. The letters of the pair breathe little of the romance of passion, but they are among the best specimens of letters which spring from a union based on harmony of opinion and highest esteem for each other's virtues, — a union of real friendship as well as of love, — and most of their letters appropriately begin, “*My dearest friend.*”
 
-### Letter 149: John Adams → Abigail Adams
+### Letter 139: John Adams → Abigail Adams
 
 ### *John Adams to his Wife.*
 
@@ -3207,7 +3148,7 @@ Your sentiments of the duties we owe to our country are such as become the best 
 
 Alas, poor imagination! how faintly and imperfectly do you supply the want of originality and reality. But instead of these pleasing scenes of domestic life, I hope you will not be disturbed with the alarms of war. I hope, yet I fear.
 
-### Letter 150: Portia / Mrs. Adams → John Adams
+### Letter 140: Portia / Mrs. Adams → John Adams
 
 ### *Mrs. Adams to her Husband.*
 
@@ -3237,7 +3178,7 @@ Mrs Hastings had two children by her first marriage, whom Hastings adopted, and 
 
 * * *
 
-### Letter 151: Warren Hastings → Marian Hastings
+### Letter 141: Warren Hastings → Marian Hastings
 
 ### *Warren Hastings to his Wife.*
 
@@ -3261,7 +3202,7 @@ He met his wife, Theodosia Prevost, when he was a young officer in the Revolutio
 
 The letters of Mrs. Burr to her husband are full of sentiment. Her husband’s are no less affectionate, and when he is away from her his letters are full of longings for the time when he shall return. He seems to have been equally devoted to their daughter, Theodosia, and writes to her with fatherly care and tenderness blended with most charming humour.
 
-### Letter 152: Theo. / Mrs. Burr → Aaron Burr
+### Letter 142: Theo. / Mrs. Burr → Aaron Burr
 
 ### *Mrs. Burr to her Husband.*
 
@@ -3273,7 +3214,7 @@ I <span class="small-caps">persuade</span> myself this is the last day you spend
 
 * * *
 
-### Letter 153: Theodosia → Aaron Burr
+### Letter 143: Theodosia → Aaron Burr
 
 ### *The Same to the Same.*
 
@@ -3287,7 +3228,7 @@ The family as you left it. Barton never quits the office, and is perfectly oblig
 
 * * *
 
-### Letter 154: A. Burr → Theodosia Burr
+### Letter 144: A. Burr → Theodosia Burr
 
 ### *Aaron Burr to his Wife.*
 
@@ -3313,7 +3254,7 @@ A. <span class="small-caps">Burr</span>.
 
 This is among the later letters of Burr to his wife, who was then in failing health. She died the following year, after twelve years of happy wedded life.
 
-### Letter 155: A. Burr → Theodosia Burr
+### Letter 145: A. Burr → Theodosia Burr
 
 <span class="small-caps">Philadelphia</span>, 15 Feb., 1793.
 
@@ -3341,15 +3282,13 @@ Mrs. Hunter, shocked at what she heard, went to seek this English lady. It was L
 
 The letters of Nelson are very numerous, and are written on every occasion on which a letter could be transmitted. When there was danger that they would be opened they are more guarded than those sent by private means, but all breathe most absolute devotion and confidence. The following is written just before his return from sea in 1801, before the death of Sir William Hamilton.
 
-### Letter 156: Nelson & Bronté → Lady Hamilton
+### Letter 146: Nelson & Bronté → Lady Hamilton
 
 ### *Lord Nelson to Lady Hamilton.*
 
 <span class="small-caps">St. George, Kioge Bay</span>, Apr. 25, 1801.
 
-<span class="small-caps">My dearest Friend</span>, — Sir Hyde has just sent
-
-me word that the sloop “Arrow” sails for England this day, and I have only time to say that I hope in a fortnight to be in London. I am in expectation every moment of the removal of the fleet from the Baltic. Be that as it may, I will not remain; no, not if I were sure of being made a duke with fifty thousand pounds a year. I wish for happiness to be my reward, not titles or money.
+<span class="small-caps">My dearest Friend</span>, — Sir Hyde has just sent me word that the sloop “Arrow” sails for England this day, and I have only time to say that I hope in a fortnight to be in London. I am in expectation every moment of the removal of the fleet from the Baltic. Be that as it may, I will not remain; no, not if I were sure of being made a duke with fifty thousand pounds a year. I wish for happiness to be my reward, not titles or money.
 
 To-morrow is the birthday of Saint Emma. She is my guardian angel. It is not in my power to do much honour to her in this place, but I have invited all the admirals and all the captains who have the happiness of knowing you, and, of course, of experiencing your kindness while in the Mediterranean. You may rely that my saint is more adored in this fleet than all the saints in the Roman Calendar. I know you prayed for me at the Nile and here, and if the prayers of the good, as we are taught to believe, are of avail at the Throne of Grace, why may not yours have saved my life? I own myself a believer in God ; and if I have any merit in not fearing death, it is because I feel his power can shelter me when he pleases, and that I must fall when it is his good pleasure.
 
@@ -3359,7 +3298,7 @@ May the God of heaven and earth bless and preserve you, my dearest friend, for t
 
 * * *
 
-### Letter 157: Nelson → Lady Hamilton
+### Letter 147: Nelson → Lady Hamilton
 
 ### *The Same to the Same.*
 
@@ -3381,7 +3320,7 @@ Ever yours
 
 This, Nelson's last letter to Lady Hamilton, was found on his desk after death. It is now in the British Museum, and is indorsed with these words in Lady Hamilton's handwriting: “ This letter was found open on *his* desk and brought to Lady Hamilton by Captain Hardy. Oh miserable wretched Emma! Oh glorious and happy Nelson!" This letter also enclosed a brief one for his daughter, Horatia.
 
-### Letter 158: Nelson & Bronté → Lady Hamilton
+### Letter 148: Nelson & Bronté → Lady Hamilton
 
 "<span class="small-caps">Victory</span>," Oct. 19, 1805, Noon.  
 <span class="small-caps">Cadiz</span>, E. S. E. 16 leagues.
@@ -3392,9 +3331,7 @@ Your
 
 <span class="small-caps">Nelson & Bronté.</span>
 
-Oct. 20. In the morning we were close to the mouth of the straits, but the wind had not come far enough to the westward to allow the combined fleets to weather the shoals of Trafalgar; but they were counted as far as forty sail of
-
-ships of war, which I suppose to be thirty-four of the line and six frigates. A group of them was seen off the light-house at Cadiz this morning; but it blows so very fresh and thick weather that I rather believe they will go into harbour before night. May God Almighty give us success over these fellows and enable us to get a peace.
+Oct. 20. In the morning we were close to the mouth of the straits, but the wind had not come far enough to the westward to allow the combined fleets to weather the shoals of Trafalgar; but they were counted as far as forty sail of ships of war, which I suppose to be thirty-four of the line and six frigates. A group of them was seen off the light-house at Cadiz this morning; but it blows so very fresh and thick weather that I rather believe they will go into harbour before night. May God Almighty give us success over these fellows and enable us to get a peace.
 
 ### Notes
 

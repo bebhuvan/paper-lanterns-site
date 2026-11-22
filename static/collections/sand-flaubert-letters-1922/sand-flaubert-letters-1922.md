@@ -2,17 +2,14 @@
 
 - **Author / Editor**: George Sand & Gustave Flaubert (trans. Aimée L. McKenzie)
 - **Year**: 1922
-- **Letters**: 321
+- **Letters**: 320
 - **Pages**: 432
 
 ## Frontmatter
 
-### THE GEORGE SAND-
-GUSTAVE FLAUBERT LETTERS
+### THE GEORGE SAND- GUSTAVE FLAUBERT LETTERS
 
-### THE GEORGE SAND–
-GUSTAVE FLAUBERT
-LETTERS
+### THE GEORGE SAND– GUSTAVE FLAUBERT LETTERS
 
 TRANSLATED BY  
 AIMEE L. McKENZIE
@@ -115,9 +112,7 @@ That a bad physical regimen, bad habits of work in excessive quantities, and the
 
 To George Sand, who wrote as naturally as she breathed and almost as easily, seclusion and torment were by no means the necessary conditions of literary activity. Enormously productive, with a hundred books to his half-a-dozen, she has never dedicated and consecrated herself to her profession but has lived heartily and a bit recklessly from day to day, spending herself in many directions freely, gaily, extravagantly. Now that she has definitely said farewell to her youth, she finds that she is twenty years younger; and now that she is, in a sense, dissipating her personality and living in the lives of others, she finds that she is happier than ever before. “It can’t be imperative to work so painfully”—such is the burden of her earlier counsels to Flaubert; “spare yourself a little, take some exercise, relax the tendons of your mind, indulge a little the physical man. Live a little as I do; and you will take your fatigues and illnesses and occasional dolours and dumps as incidents of the day’s work and not magnify them into the mountainous overshadowing calamities from which you deduce your philosophy of universal misery.” No advice could have been more wholesome or more timely. And with what pictures of her own busy felicity she reënforces her advice! I shall produce three of them here in order to emphasize that precious thing which George Sand loved to impart, and which she had the gift of imparting, namely, joy, the spontaneous joyousness of her own nature. The first passage is from a letter of June 14, 1867:
 
-> “I am a little remorseful to take whole days from your work, I who am never bored with loafing, and whom you could leave for whole hours under a tree, or before two lighted logs, with the assurance that I should find there something interesting. I know so well how to live *outside of myself*. It hasn’t always been like that. I also was young and subject to indignations. It is over! Since I have dipped into real nature, I have found there an order, a system, a calmness of cycles which is lacking in mankind, but which man can, up to a certain point, assimilate when he is not too directly at odds with the difficulties of
-
-his own life. When these difficulties return, he must endeavor to avoid them; but if he has drunk the cup of the eternally true, he does not get too excited for or against the ephemeral and relative truth.”
+> “I am a little remorseful to take whole days from your work, I who am never bored with loafing, and whom you could leave for whole hours under a tree, or before two lighted logs, with the assurance that I should find there something interesting. I know so well how to live *outside of myself*. It hasn’t always been like that. I also was young and subject to indignations. It is over! Since I have dipped into real nature, I have found there an order, a system, a calmness of cycles which is lacking in mankind, but which man can, up to a certain point, assimilate when he is not too directly at odds with the difficulties of his own life. When these difficulties return, he must endeavor to avoid them; but if he has drunk the cup of the eternally true, he does not get too excited for or against the ephemeral and relative truth.”
 
 The second passage is of June 21:
 
@@ -165,8 +160,7 @@ This is, if you please, an effusion of sentiment, a chant of faith. In a world m
 
 <span class="small-caps">Stuart P. Sherman</span>
 
-### THE GEORGE SAND-
-GUSTAVE FLAUBERT LETTERS
+### THE GEORGE SAND- GUSTAVE FLAUBERT LETTERS
 
 ## THE GEORGE SAND- GUSTAVE FLAUBERT LETTERS
 
@@ -218,8 +212,7 @@ At the present time I am disheartened by the populace which rushes by under my w
 
 ### Letter 4: Goulard → Gustave Flaubert
 
-### IV. <span class="small-caps">To M. Flobert (Justave) M. of Letters Boulevard
-du Temple, 42, Paris</span>
+### IV. <span class="small-caps">To M. Flobert (Justave) M. of Letters Boulevard du Temple, 42, Paris</span>
 
 Paris, 10 May, 1866
 
@@ -1195,7 +1188,7 @@ Maurice has plunged again into Natural History; he wants to perfect himself in t
 
 Inventing is absorbing also; but what fatigue afterwards! How empty and worn out intellectually one feels, when one has scribbled for weeks and months about that animal with two legs which has the only right to be represented in novels! I see Maurice quite refreshed and rejuvenated when he returns from his beasts and his pebbles, and if I aspire to come out from my misery, it is to bury myself also in studies, which in the speech of the Philistines, are not of any use. Still it is worth more than to say mass and to ring the bell for the adoration of the Creator.
 
-Is it true what you tell me of G——? Is it possible? I can not believe it. Is there in the atmosphere which the earth engenders nowadays, a gas, laughing or otherwise, which suddenly seizes the brain, and carries it on to commit extravagances , as there was under the first revolution a maddening fluid which inspired one to commit cruelties? We have fallen from the Hell of Dante into that of Scarron.
+Is it true what you tell me of G——? Is it possible? I can not believe it. Is there in the atmosphere which the earth engenders nowadays, a gas, laughing or otherwise, which suddenly seizes the brain, and carries it on to commit extravagances, as there was under the first revolution a maddening fluid which inspired one to commit cruelties? We have fallen from the Hell of Dante into that of Scarron.
 
 Of what are you thinking, good head and good heart, in the midst of this bacchanal? You are wrathful, oh very well, I like that better than if you were laughing at it; but when you are calmer and when you reflect?
 
@@ -1609,7 +1602,7 @@ My love to your mother always. I imagine that she is in Rouen during this severe
 
 Paris, 10 May, 1868
 
-Yes, friend of my heart, am I not in the midst of terrible things ; that poor little Madame Lambert[^fn-p0134-1] is severely threatened . I saw M. Depaul today. One must be prepared for anything!—If the crisis is passed or delayed, for there is question of bringing on the event, I shall be happy to spend two days with my old troubadour, whom I love tenderly.
+Yes, friend of my heart, am I not in the midst of terrible things ; that poor little Madame Lambert[^fn-p0134-1] is severely threatened. I saw M. Depaul today. One must be prepared for anything!—If the crisis is passed or delayed, for there is question of bringing on the event, I shall be happy to spend two days with my old troubadour, whom I love tenderly.
 
 G. Sand.
 
@@ -2125,7 +2118,7 @@ You speak of criticism in your last letter to me, telling me that it will soon d
 
 That criticism would require great imagination and great sympathy. I mean a faculty of enthusiasm that is always ready, and then *taste*, a rare quality, even among the best, so much so that one does not talk about it any longer.
 
-What irritates me every day, is to see a masterpiece and a disgrace put on the same level. They exalt the little, and they lower the great, nothing is more imbecile nor more immoral.
+What irritates me every day, is to see a master-piece and a disgrace put on the same level. They exalt the little, and they lower the great, nothing is more imbecile nor more immoral.
 
 At Père-Lachaise I was seized with a profound and sorrowful disgust for humanity. You can not imagine the fetichism of the tombs. The real Parisian is more of an idolater than a negro is! It made me long to lie down in one of the graves.
 
@@ -2515,7 +2508,7 @@ I think that the directors of the Odéon will regret Bouilhet in every way. I sh
 
 Wednesday evening, 13 October, 1869
 
-Our poor friend is not to be buried till the day after tomorrow, they will let me know where and when we ought to be there, I shall tell you by telegram.
+Our poor friend is not to be buried till the day after to-morrow, they will let me know where and when we ought to be there, I shall tell you by telegram.
 
 I have seen the directors twice. It was agreed this morning with Duquesnel that they should make an attempt with de la T(our) Saint-Y(bars). I yielded my turn to *Aïssé*. I was not to come till March. I went back there this evening, Chilly *is unwilling*, and Duquesnel, better informed than this morning, regards the step as useless and harmful. I then quoted my contract, my right. What a fine thing, the theatre! M. Saint-Ybars’ contract antedates mine. They had thought *le Bâtard* would last two weeks and it will last forty days longer. Then La Tour Saint-Ybars precedes us[^fn-p0185-1] and I can not give up my turn to *Aïssé* without being postponed till next year, which I’ll do if you want me to; but it would do me a good deal of harm, for I have gotten into debt with the *Revue* and I must refill my purse.—Are directors rascals in all that? No, but incompetents who are always afraid of not having enough plays, and accept too many, foreseeing that they will have failures.—When they are successful, if the authors contracted for are *angry* they have to go to court. I have no taste for disputes and the scandals of the side-scenes and the newspapers; and neither have you. What would be the result? Inadequate compensation and a deal of uproar for nothing. One needs patience in any event, I have it, and I tell you again if you are really upset at this delay, I am ready to sacrifice myself.
 
@@ -3398,7 +3391,7 @@ Oh! how I miss you, how I want to see you!
 
 We have decided here to all march on Paris if the compatriots of Hegel lay siege to it. Try to get your Berrichons to buck up. Call to them: “Come to help me prevent the enemy from drinking and eating in a country which is foreign to them!”
 
-The war (I hope) will make a home thrust at the “authorities .” The individual, disowned, overwhelmed by the modern world, will he regain his importance? Let us hope so!
+The war (I hope) will make a home thrust at the “authorities.” The individual, disowned, overwhelmed by the modern world, will he regain his importance? Let us hope so!
 
 ### Letter 180: Gustave Flaubert → George Sand
 
@@ -3832,7 +3825,7 @@ But it is not in scorn of our misery that I regard the extent of it. I do not wa
 
 Frenchmen, let us love one another, my God! my God! let us love one another or we are lost. Let us destroy, let us deny, let us annihilate politics, since it divides us and arms us against one another; let us ask from no one what he was and what he wanted yesterday. Yesterday all the world was mistaken, let us know what we want today. If it is not liberty for all and fraternity towards all, do not let us attempt to solve the problem of humanity, we are not worthy of defining it, we are not capable of comprehending it. Equality is a thing that does not impose itself, it is a free plant that grows only on fertile lands, in salubrious air. It does not take root on barricades, we know that now! It is immediately trodden under the foot of the conqueror, whoever he may be. Let us desire to establish it in our customs, let us be eager to consecrate it in our ideas. Let us give it for a starting point, patriotic charity, love! It is the part of a madman to think that one issues from a battle with respect for human rights. All civil war has brought forth and will bring forth great crime. . . .
 
-Unfortunate International, is it true that you believe in the lie that strength is superior to right? If you are as numerous, as powerful as one fancies, is it possible that you profess destruction and hatred as a duty? No, your power is a phantom of death. A great number of men of every nationality would not, could not, deliberate and act in favor of an iniquitous principle. If you are the ferocious party of the European people, something like the Anabaptists of Munster, like them you will destroy yourself with your own hands. If, on the contrary, you are a great and legitimate fraternal association, your duty is to enlighten your adherents and to deny those who cheapen and compromise your principles. I hope still that you include in your bosom, humane and hard-working men in great numbers, and that they suffer and blush at seeing bandits take shelter under your name. In this case your silence is inept and cowardly. Have you not a single member capable of protesting against ignoble attacks, against idiotic principles , against furious madness? Your chosen chiefs, your governors, your inspirers, are they all brigands and idiots? No, it is impossible; there are no groups, there is no club, there are no crossroads where a voice of truth could not make itself heard. Speak then, justify yourself, proclaim your gospel. Dissolve yourself in order to make yourself over if the discord is in your own midst. Make an appeal to the future if you are not an ancient invasion of Barbarians. Tell those who still love the people what they ought to do for them, and if you have nothing to say, if you cannot speak a word of life, if the iniquities of your mysteries are sealed by fear, renounce noble sympathies, live on the scorn of honest folk, and struggle between the jailer and the police.
+Unfortunate International, is it true that you believe in the lie that strength is superior to right? If you are as numerous, as powerful as one fancies, is it possible that you profess destruction and hatred as a duty? No, your power is a phantom of death. A great number of men of every nationality would not, could not, deliberate and act in favor of an iniquitous principle. If you are the ferocious party of the European people, something like the Anabaptists of Munster, like them you will destroy yourself with your own hands. If, on the contrary, you are a great and legitimate fraternal association, your duty is to enlighten your adherents and to deny those who cheapen and compromise your principles. I hope still that you include in your bosom, humane and hard-working men in great numbers, and that they suffer and blush at seeing bandits take shelter under your name. In this case your silence is inept and cowardly. Have you not a single member capable of protesting against ignoble attacks, against idiotic principles, against furious madness? Your chosen chiefs, your governors, your inspirers, are they all brigands and idiots? No, it is impossible; there are no groups, there is no club, there are no crossroads where a voice of truth could not make itself heard. Speak then, justify yourself, proclaim your gospel. Dissolve yourself in order to make yourself over if the discord is in your own midst. Make an appeal to the future if you are not an ancient invasion of Barbarians. Tell those who still love the people what they ought to do for them, and if you have nothing to say, if you cannot speak a word of life, if the iniquities of your mysteries are sealed by fear, renounce noble sympathies, live on the scorn of honest folk, and struggle between the jailer and the police.
 
 All France has heard the word of your destiny which might have been the word of hers. She has waited for it in vain. I too, simple, I waited. While blaming the means I did not want to prejudice the end. There has always been one in revolutions, and the revolutions that fail are not always those with the weakest basis. A patriotic fanaticism seems to have been the first sentiment of this struggle. These lost children of the democratic army were going perhaps to subscribe to an inevitable peace that they judged shameful: Paris had sworn to bury herself under her ruins.
 
@@ -5076,11 +5069,9 @@ What news of your play? Have you begun your book? Have you chosen a place to stu
 
 G. Sand
 
-### Letter 263: George Sand
+### Letter 263: Gustave Flaubert → George Sand
 
 ### CCLXII. <span class="small-caps">To George Sand</span>
-
-### Letter 264: Gustave Flaubert → George Sand
 
 Croisset, Friday, 5th September, 1873
 
@@ -5100,7 +5091,7 @@ At Rouen they are having processions, but the effect is completely spoiled, and 
 
 Have you read the *Antichrist?* I find that indeed a beautiful book, aside from some faults of taste, some modern expressions applied to ancient things. Renan seems to me on the whole to have progressed. I passed all one evening recently with him and I thought him adorable.
 
-### Letter 265: George Sand → Gustave Flaubert
+### Letter 264: George Sand → Gustave Flaubert
 
 ### CCLXIII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
@@ -5116,7 +5107,7 @@ My Aurore, whom I have not neglected, and who is working well, sends you a big k
 
 G. Sand
 
-### Letter 266: Gustave Flaubert → George Sand
+### Letter 265: Gustave Flaubert → George Sand
 
 ### <span class="small-caps">CCLXIV. To George Sand</span>
 
@@ -5136,7 +5127,7 @@ I am glad to have diverted you a little with the biography of Cruchard. But I fi
 
 They had said in a theatrical bulletin that you were in Paris; I had a mistaken joy about it, dear good master whom I adore and whom I embrace.
 
-### Letter 267: George Sand → Gustave Flaubert
+### Letter 266: George Sand → Gustave Flaubert
 
 ### CCLXV. <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5154,7 +5145,7 @@ Monday
 
 Hard work? When indeed can I start at it? I am *no good*.
 
-### Letter 268: Gustave Flaubert → George Sand
+### Letter 267: Gustave Flaubert → George Sand
 
 ### CCLXVI. <span class="small-caps">To George Sand</span>
 
@@ -5194,7 +5185,7 @@ I see the Muscovite every Sunday. He is very well and I like him better and bett
 
 Adieu, dear master! When shall we meet? Nohant is very far away! and I am going to be, all this winter, very busy.
 
-### Letter 269: George Sand → Gustave Flaubert
+### Letter 268: George Sand → Gustave Flaubert
 
 ### CCLXVII. <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5212,7 +5203,7 @@ Your old troubadour who loves you.
 
 G. Sand
 
-### Letter 270: Gustave Flaubert → George Sand
+### Letter 269: Gustave Flaubert → George Sand
 
 ### CCLXVIII. <span class="small-caps">To George Sand</span>
 
@@ -5232,7 +5223,7 @@ One thing vexes me. The censorship has ruined the rôle of a little legitimist r
 
 Well, the good Alexander Dumas has made the plunge! Here he is an Academician! I think him very modest. He must be, to think himself honored by honors.
 
-### Letter 271: George Sand → Gustave Flaubert
+### Letter 270: George Sand → Gustave Flaubert
 
 ### CCLXIX.  <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5244,7 +5235,7 @@ We all embrace you fondly.
 
 G. Sand
 
-### Letter 272: Gustave Flaubert → George Sand
+### Letter 271: Gustave Flaubert → George Sand
 
 ### CCLXX. <span class="small-caps">To George Sand</span>
 
@@ -5266,7 +5257,7 @@ I am reading now books on hygiene. Oh! but they are comic! What assurance physic
 
 So as to retemper myself in something stronger, I reread the great, the most holy, the incomparable Aristophanes! There is a man, that fellow! What a world in which such works were produced!
 
-### Letter 273: George Sand → Gustave Flaubert
+### Letter 272: George Sand → Gustave Flaubert
 
 ### CCLXXI
 
@@ -5284,7 +5275,7 @@ We all embrace you very affectionately.
 
 G. Sand
 
-### Letter 274: Gustave Flaubert → George Sand
+### Letter 273: Gustave Flaubert → George Sand
 
 ### CCLXXII. <span class="small-caps">To George Sand</span>
 
@@ -5306,11 +5297,9 @@ I did not give away a quarter of the seats that I needed and I bought a great ma
 
 *La Petite Presse* of this morning is polite. I can ask no more of it. Farewell, dear good master, do not pity me, for I don’t feel pitiable.
 
-P. S.—A nice bit from my servant when he handed me your letter this morning. Knowing your handwriting, he said
+P. S.—A nice bit from my servant when he handed me your letter this morning. Knowing your handwriting, he said sighing: “Ah! the best one was not there last evening!” That is just what I think.
 
-sighing: “Ah! the best one was not there last evening!” That is just what I think.
-
-### Letter 275: Gustave Flaubert → George Sand
+### Letter 274: Gustave Flaubert → George Sand
 
 ### CCLXXIII. <span class="small-caps">To George Sand</span>
 
@@ -5328,7 +5317,7 @@ I have been *execrated* by the Messrs. Villemessant and Buloz, who will do all t
 
 And you beg me not to notice human folly, and to deprive myself of the pleasure of depicting it! But the comic is the only consolation of virtue. There is, moreover, a manner of taking it which is elevated; that is what I am aiming at with my two good people. Don’t fear that they are too realistic! I am afraid, on the contrary, that it may seem beyond the bounds of possibility, for I shall push the idea to the limit. This little work that I shall start in six weeks will keep me busy for four or five years!
 
-### Letter 276: Gustave Flaubert → George Sand
+### Letter 275: Gustave Flaubert → George Sand
 
 ### CCLXXIV. <span class="small-caps">To George Sand</span>
 
@@ -5350,7 +5339,7 @@ Farewell, dear good adored master, friendly regards to yours. Kisses to the dear
 
 P.S. Could you give me a copy or the original of *Cruchard’s* biography; I have no draft of it and I want to reread it to freshen up *my ideal.*
 
-### Letter 277: George Sand → Gustave Flaubert
+### Letter 276: George Sand → Gustave Flaubert
 
 ### CCLXXV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
@@ -5367,7 +5356,7 @@ So make fun of all this *gossip*; the guiltiest ones are those who report it to 
 I embrace you and we love you.  
 Your old troubadour.
 
-### Letter 278: Gustave Flaubert → George Sand
+### Letter 277: Gustave Flaubert → George Sand
 
 ### CCLXXVI. <span class="small-caps">To George Sand</span>
 
@@ -5391,7 +5380,7 @@ Kiss the dear little girls for me and let them return it to you from me.
 
 Your old friend.
 
-### Letter 279: George Sand → Gustave Flaubert
+### Letter 278: George Sand → Gustave Flaubert
 
 ### CCLXXVII. <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5411,7 +5400,7 @@ Your old troubadour always,
 
 G. Sand
 
-### Letter 280: Gustave Flaubert → George Sand
+### Letter 279: Gustave Flaubert → George Sand
 
 ### CCLXXVIII. <span class="small-caps">To George Sand</span>
 
@@ -5439,7 +5428,7 @@ R. P. Cruchard
 
 More Cruchard than ever. I feel like a good-for-nothing, a cow, damned, antique, deliquescent, in short calm and moderate, which is the last term in decadence.
 
-### Letter 281: Gustave Flaubert → George Sand
+### Letter 280: Gustave Flaubert → George Sand
 
 ### CCLXXIX. T<span class="small-caps">o</span> G<span class="small-caps">eorge</span> S<span class="small-caps">and</span>
 
@@ -5469,7 +5458,7 @@ Beginning with September, then, I shall start that hard task! it makes me afraid
 
 As you know Switzerland, it is useless for me to talk to you of it, and you would scorn me if I were to tell you that I am bored to extinction here. I came here obediently because they ordered me to, for the purpose of bleaching my face and calming my nerves! I don’t think that the remedy will be efficacious; anyhow it has been deadly boring to me. I am not a man of nature, and I do not understand anything in a country where there is no history. I would give all these glaciers for the Vatican Museum. One can dream there. Well, in three weeks I shall be glued to my green table! in a humble refuge, where it seems to me you never want to come!
 
-### Letter 282: George Sand → Gustave Flaubert
+### Letter 281: George Sand → Gustave Flaubert
 
 ### CCLXXX. <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5494,7 +5483,7 @@ Nature alone knows how to speak to the intelligence in a language that is imperi
 
 But I cannot write further, I must tell you quickly that I love you, that I embrace you affectionately. Give me news of yourself. I hope to be on my feet in a few days. Maurice is waiting until I am robust before he goes: I am hurrying as much as I can! My little girls embrace you, they are superb. Aurore is devoted to mythology (George Cox, Baudry translation). You know that? An adorable work for children and parents. Enough, I can no more. I love you; don’t have black ideas, and resign yourself to being bored if the air is good there.
 
-### Letter 283: Gustave Flaubert → George Sand
+### Letter 282: Gustave Flaubert → George Sand
 
 ### CCLXXXI. <span class="small-caps">To George Sand</span>
 
@@ -5512,7 +5501,7 @@ It is a strange thing how much pleasure imbeciles find in floundering about in t
 
 God be thanked, “of my horrible sight I purge their States.”
 
-### Letter 284: Gustave Flaubert → George Sand
+### Letter 283: Gustave Flaubert → George Sand
 
 ### CCLXXXII. <span class="small-caps">To George Sand</span>
 
@@ -5532,7 +5521,7 @@ I am sure that you are finding me grouchy and that you are going to answer me : 
 
 “Europe which hates us, looks at us and laughs,” said Ruy Blas. My Heavens, she has a right to laugh.
 
-### Letter 285: George Sand → Gustave Flaubert
+### Letter 284: George Sand → Gustave Flaubert
 
 ### CCLXXXIII  <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5550,7 +5539,7 @@ Tell us about yourself, do not be ill, always love your old troubadour and his p
 
 G. Sand
 
-### Letter 286: Gustave Flaubert → George Sand
+### Letter 285: Gustave Flaubert → George Sand
 
 ### CCLXXXIV. <span class="small-caps">To George Sand</span>
 
@@ -5564,7 +5553,7 @@ Speaking of books, do read *Fromont et Risler*, by my friend Daudet, and *les Di
 
 The sentiment of that agony penetrates me and I am sad enough to die. When I am not torturing myself about my work, I am groaning about myself. That is the truth. In my leisure moments, all I do is to think of the dead, and I am going to say a very pretentious thing to you. No one understands me; I belong to another world. The men of my profession are so little of my profession! There is hardly anyone except Victor Hugo with whom I can talk of what interests me. Day before yesterday he recited by heart to me from Boileau and from Tacitus. That was like a gift to me, the thing is so rare. Moreover, the days when there are not politicians at his house, he is an adorable man.
 
-### Letter 287: George Sand → Gustave Flaubert
+### Letter 286: George Sand → Gustave Flaubert
 
 ### CCLXXXV.  <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
@@ -5586,7 +5575,7 @@ Every one is well, and embraces you. As for me, I do not get well, but I have ho
 
 G. Sand
 
-### Letter 288: George Sand → Gustave Flaubert
+### Letter 287: George Sand → Gustave Flaubert
 
 ### CCLXXXVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
@@ -5610,7 +5599,7 @@ I love you and I embrace you with all my heart, my dear Polycarp. My children la
 
 Come now, no weakness! We all ought to be examples to our friends, our neighbors, our fellow citizens. And how about me, don’t you think that I need help and support in my long task that is not yet finished? Don’t you love anyone, not even your old *troubadour*, who still sings, and often weeps, but who conceals himself when he weeps, as cats do when they die?
 
-### Letter 289: Gustave Flaubert → George Sand
+### Letter 288: Gustave Flaubert → George Sand
 
 ### CCLXXXVII. <span class="small-caps">To George Sand</span>
 
@@ -5640,7 +5629,7 @@ Send me *Flamarande*; that will give me a little air.
 
 I embrace you all, and especially you, dear master, so great, so strong, and so gentle. Your Cruchard, who is more and more cracked, if cracked is the right word, for I perceive that the contents are escaping.
 
-### Letter 290: George Sand → Gustave Flaubert
+### Letter 289: George Sand → Gustave Flaubert
 
 ### CCLXXXVIII.  <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5660,7 +5649,7 @@ I love you, and I embrace you, as does every one of my brood.
 
 Your old troubadour
 
-### Letter 291: George Sand → Gustave Flaubert
+### Letter 290: George Sand → Gustave Flaubert
 
 ### <span class="small-caps">CCLXXXIX. To Gustave Flaubert</span>
 
@@ -5682,7 +5671,7 @@ Tell us of yourself and always love us as we love you.
 
 Your old troubadour
 
-### Letter 292: George Sand → Gustave Flaubert
+### Letter 291: George Sand → Gustave Flaubert
 
 ### CCXC. T<span class="small-caps">O</span> G<span class="small-caps">USTAVE</span> F<span class="small-caps">LAUBERT</span>
 
@@ -5704,7 +5693,7 @@ I am thinking of going to Paris next month, shall you be there?
 
 G. Sand
 
-### Letter 293: Gustave Flaubert → George Sand
+### Letter 292: Gustave Flaubert → George Sand
 
 ### CCXCI. <span class="small-caps">To George Sand</span>
 
@@ -5722,7 +5711,7 @@ No, I do not rejoice at Michel Lévy’s death, and I even envy him that death s
 
 The bit you sent me about *Aurore* who is reading Homer, did me good. That is what I miss: a little girl like that! But one does not arrange one’s own destiny, one submits to it. I have always lived from day to day, without plans for the future and pursuing my end (one alone, literature) without looking to the right or to the left. Everything that was around me has disappeared, and now I find I am in a desert. In short, the element of distraction is absolutely lacking to me. One needs a certain vivacity to write good things! What can one do to get it again? How can one proceed, to avoid thinking continually about one’s miserable person? The sickest thing in me is my humor: the rest doubtless would go well. You see, dear, good master, that I am right to spare you my letters. Nothing is as imbecile as the whiners.
 
-### Letter 294: George Sand → Gustave Flaubert
+### Letter 293: George Sand → Gustave Flaubert
 
 ### CCXCII. <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5732,7 +5721,7 @@ We are leaving, Lina and I, on Saturday morning, and up to then we shall be on t
 
 I love you with all my heart.
 
-### Letter 295: George Sand → Gustave Flaubert
+### Letter 294: George Sand → Gustave Flaubert
 
 ### CCXCIII. <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5742,7 +5731,7 @@ I love you, and I embrace you.
 
 G. Sand
 
-### Letter 296: George Sand → Gustave Flaubert
+### Letter 295: George Sand → Gustave Flaubert
 
 ### CCXCIV. <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5758,7 +5747,7 @@ We all embrace you very tenderly. Do not write if it bores you, say to us only, 
 
 G. Sand
 
-### Letter 297: Gustave Flaubert → George Sand
+### Letter 296: Gustave Flaubert → George Sand
 
 ### CCXCV. <span class="small-caps">To George Sand</span>
 
@@ -5774,7 +5763,7 @@ I work all the more, so as not to think about myself. But since I have undertake
 
 Don’t tell me again that imbecility is sacred like childhood, for imbecility contains no germ. Let me believe that the dead do not “search any more,” and that they are at rest. We are sufficiently tormented on earth to be at rest when we are beneath it! Ah! How I envy you, how I long to have your serenity! To say nothing of the rest! and your two dear little girls, whom I embrace as tenderly as I do you.
 
-### Letter 298: George Sand → Gustave Flaubert
+### Letter 297: George Sand → Gustave Flaubert
 
 ### <span class="small-caps">CCXCVI. To Gustave Flaubert, at Croisset</span>
 
@@ -5792,7 +5781,7 @@ Give us news of yourself.
 
 G. Sand
 
-### Letter 299: George Sand → Gustave Flaubert
+### Letter 298: George Sand → Gustave Flaubert
 
 ### CCXCVII. <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5804,7 +5793,7 @@ I have been ill all the summer, that is to say, that I have suffered continually
 
 G. Sand
 
-### Letter 300: George Sand → Gustave Flaubert
+### Letter 299: George Sand → Gustave Flaubert
 
 ### CCXCVIII. <span class="small-caps">To Gustave Flaubert, in Paris</span>
 
@@ -5820,7 +5809,7 @@ We all *kiss* you very tenderly, and we love you, Cruchard or not.
 
 G. Sand
 
-### Letter 301: Gustave Flaubert → George Sand
+### Letter 300: Gustave Flaubert → George Sand
 
 ### CCXCIX. <span class="small-caps">To George Sand</span>
 
@@ -5840,7 +5829,7 @@ The senatorial elections are a subject of diversion to the public of which I am 
 
 At the Odéon, a live bear is going to appear on the boards. That is all that I know about literature.
 
-### Letter 302: George Sand → Gustave Flaubert
+### Letter 301: George Sand → Gustave Flaubert
 
 ### CCC. <span class="small-caps">To Gustave Flaubert, in Paris</span>
 
@@ -5872,7 +5861,7 @@ Embrace your charming niece for me. What a good and lovely letter she wrote me! 
 
 What do you mean! Littré a senator? It is impossible to believe it when one knows what the Chamber is. All the same it must be congratulated for this attempt at self-respect.
 
-### Letter 303: Gustave Flaubert → George Sand
+### Letter 302: Gustave Flaubert → George Sand
 
 ### CCCI. <span class="small-caps">To George Sand</span>
 
@@ -5902,7 +5891,7 @@ Nothing sustains me better than the hope of leaving it soon, and of not going to
 
 I am writing now a little silly story, which a mother can permit her child to read. The whole will be about thirty pages, I shall have two months more at it. Such is my energy, I shall send it to you as soon as it appears (not my energy, but the little story).
 
-### Letter 304: George Sand → Gustave Flaubert
+### Letter 303: George Sand → Gustave Flaubert
 
 ### <span class="small-caps">CCCII. To Gustave Flaubert, in Paris</span>
 
@@ -5946,7 +5935,7 @@ I embrace you for all of us.
 
 G. Sand
 
-### Letter 305: George Sand → Gustave Flaubert
+### Letter 304: George Sand → Gustave Flaubert
 
 ### CCCIII. <span class="small-caps">To Gustave Flaubert</span>
 
@@ -5962,7 +5951,7 @@ Give me news of your niece and embrace her for me.
 
 G. Sand
 
-### Letter 306: George Sand → Gustave Flaubert
+### Letter 305: George Sand → Gustave Flaubert
 
 ### CCCIV. <span class="small-caps">To Gustave Flaubert, at Paris</span>
 
@@ -5972,13 +5961,13 @@ You scorn Sedaine, you great profane soul! That is where the doctrine of form de
 
 My dear old Sedaine! He is one of my well-beloved papas, and I consider *le Philosophe sans le savior* far superior to *Victorine*; it is such a distressing drama and so well carried out! But you only look for the well-turned phrase, that is one thing—only one thing, it is not all of art, it is not even half of it, it is a quarter at most, and if three-quarters are beautiful, one overlooks the part that is not.
 
-I hope that you will not go to seek for your countryside before the good weather; here, we have been pretty well spared; but for the past three days there has been a deluge, and it makes me ill. I should not have been able to go to Paris. Your niece is better, God be praised! I love you and I embrace you with all my soul.
+I hope that you will not go to seek for your country-side before the good weather; here, we have been pretty well spared; but for the past three days there has been a deluge, and it makes me ill. I should not have been able to go to Paris. Your niece is better, God be praised! I love you and I embrace you with all my soul.
 
 G. Sand
 
 Do tell M. Zola to send me his book. I shall certainly read it with great interest.
 
-### Letter 307: Gustave Flaubert → George Sand
+### Letter 306: Gustave Flaubert → George Sand
 
 ### <span class="small-caps">CCCV. To George Sand</span>
 
@@ -6014,7 +6003,7 @@ I have written to Zola to send you his book. I shall tell Daudet also to send yo
 
 The fright which the elections caused to the bourgeois has been diverting.
 
-### Letter 308: George Sand → Gustave Flaubert
+### Letter 307: George Sand → Gustave Flaubert
 
 ### CCCVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
@@ -6040,7 +6029,7 @@ Your old troubadour,
 
 G. Sand
 
-### Letter 309: George Sand → Gustave Flaubert
+### Letter 308: George Sand → Gustave Flaubert
 
 ### CCCVII. <span class="small-caps">To Gustave Flaubert</span>
 
@@ -6056,7 +6045,7 @@ Your old troubadour,
 
 G. Sand
 
-### Letter 310: Gustave Flaubert → George Sand
+### Letter 309: Gustave Flaubert → George Sand
 
 ### CCCVIII. <span class="small-caps">To George Sand</span>
 
@@ -6070,7 +6059,7 @@ I do not share in Tourgueneff’s severity as regards *Jack*, nor in the immensi
 
 But how difficult it is to understand one another! There are two men whom I admire a great deal and whom I consider real artists, Tourgueneff and Zola. Yet they do not admire the prose of Chateaubriand at all, and even less that of Gautier. Phrases which ravish me seem hollow to them. Who is wrong? And how please the public when one’s nearest friends are so remote? All that saddens me very much. Do not laugh.
 
-### Letter 311: Gustave Flaubert → George Sand
+### Letter 310: Gustave Flaubert → George Sand
 
 ### CCCIX. <span class="small-caps">To George Sand</span>
 
@@ -6092,7 +6081,7 @@ As for the public, its taste disgusts me more and more. Yesterday, for instance,
 
 After my little story, I shall do another,—for I am too deeply shaken to start on a great work. I had thought first of publishing *Saint-Julien* in a periodical, but I have given the plan up.
 
-### Letter 312: Gustave Flaubert → George Sand
+### Letter 311: Gustave Flaubert → George Sand
 
 ### CCCX. <span class="small-caps">To George Sand</span>
 
@@ -6102,7 +6091,7 @@ Ah! thank you from the bottom of my heart, dear master! You have made me pass an
 
 I find it perfect, two jewels! *Marianne* moved me deeply and two or three times I wept. I recognized myself in the character of Pierre. Certain pages seemed to me fragments of my own memoirs, supposing I had the talent to write them in such a way! How charming, poetic and true to life all that is! *La Tour de Percemont* pleased me extremely. But *Marianne* literally enchanted me. The English think as I do, for in the last number of the *Athenæum* there is a very fine article about you. Did you know that? So then, for this time, I admire you completely and without the least reserve. There you are, and I am very glad of it. You have never done anything to me that was not good; I love you tenderly!
 
-### Letter 313: George Sand → Gustave Flaubert
+### Letter 312: George Sand → Gustave Flaubert
 
 ### CCCXI. <span class="small-caps">To Gustave Flaubert</span>
 
@@ -6118,7 +6107,7 @@ I embrace you and I love you, when will you give me some Flaubert to read?
 
 G. Sand
 
-### Letter 314: Gustave Flaubert → George Sand
+### Letter 313: Gustave Flaubert → George Sand
 
 ### CCCXII. <span class="small-caps">To George Sand</span>
 
@@ -6145,7 +6134,7 @@ I embrace you very tenderly.
 
 Your old Gustave Flaubert
 
-### Letter 315: Gustave Flaubert → Maurice Sand
+### Letter 314: Gustave Flaubert → Maurice Sand
 
 ### CCCXIII. <span class="small-caps">To Maurice Sand</span>
 
@@ -6181,7 +6170,7 @@ And I grasp your two hands heartily and say “bravo” to you again, and faithf
 
 Gustave Flaubert
 
-### Letter 316: Gustave Flaubert → Madam Maurice Sand
+### Letter 315: Gustave Flaubert → Madam Maurice Sand
 
 ### CCCXIV. <span class="small-caps">To Madam Maurice Sand</span>
 
@@ -6203,7 +6192,7 @@ Gustave Flaubert
 
 4 rue Murillo, Parc Monceau
 
-### Letter 317: Gustave Flaubert → Madam Lina Sand
+### Letter 316: Gustave Flaubert → Madam Lina Sand
 
 ### CCCXV. <span class="small-caps">To Madam Lina Sand</span>
 
@@ -6223,7 +6212,7 @@ Beginning with the middle of next week, about Wednesday or Thursday, I shall be 
 
 Saturday morning, 3d June, 1876.
 
-### Letter 318: Gustave Flaubert → Maurice Sand
+### Letter 317: Gustave Flaubert → Maurice Sand
 
 ### CCCXVI. <span class="small-caps">To Maurice Sand</span>
 
@@ -6253,7 +6242,7 @@ Yours, from the depths of my heart,
 
 Your Gustave Flaubert
 
-### Letter 319: Gustave Flaubert → Maurice Sand
+### Letter 318: Gustave Flaubert → Maurice Sand
 
 ### CCCXVII. <span class="small-caps">To Maurice Sand</span>
 
@@ -6273,7 +6262,7 @@ Embrace your dear little girls warmly for me, my respects to Madam Maurice, and�
 
 Gustave Flaubert
 
-### Letter 320: Gustave Flaubert → Maurice Sand
+### Letter 319: Gustave Flaubert → Maurice Sand
 
 ### CCCXVIII. <span class="small-caps">To Maurice Sand</span>
 
@@ -6299,7 +6288,7 @@ Your old friend
 
 Gustave Flaubert
 
-### Letter 321: Gustave Flaubert → Maurice Sand
+### Letter 320: Gustave Flaubert → Maurice Sand
 
 ### CCCXIX. <span class="small-caps">To Maurice Sand</span>
 

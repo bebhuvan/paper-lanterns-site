@@ -2,7 +2,7 @@
 
 - **Author / Editor**: Alexander von Humboldt, Friedrich Kapp (tr.)
 - **Year**: 1860
-- **Letters**: 227
+- **Letters**: 226
 - **Pages**: 430
 
 ## Front Matter
@@ -13,8 +13,7 @@
 
 <span class="small-caps">JUST PUBLISHED.</span>
 
-### **THE LIFE TRAVELS AND BOOKS OF
-ALEXANDER VON HUMBOLDT.**
+### **THE LIFE TRAVELS AND BOOKS OF ALEXANDER VON HUMBOLDT.**
 
 * * *
 
@@ -45,12 +44,7 @@ Alexander von Humboldt
 
 NEW YORK: RUDD & CARLETON, MDCCCLX.
 
-### LETTERS
-OF
-<span class="small-caps">Alexander von Humboldt</span>
-TO
-<span class="small-caps">Varnhagen von Ense.</span>
-*From 1827 to 1858.*
+### LETTERS OF <span class="small-caps">Alexander von Humboldt</span> TO <span class="small-caps">Varnhagen von Ense.</span> *From 1827 to 1858.*
 
 <span class="small-caps">with</span>  
 Extracts from Varnhagen's Diaries, and Letters of Varnhagen  
@@ -560,7 +554,7 @@ Thankfully yours,
 
 A. <span class="small-caps">Humboldt</span>.
 
-We find in Varnhagen's diary the following entry referring to the above: “Alexander von Humboldt said to Gans, after the July revolution, when he heard him express very exalted hopes of the new government, ‘Believe me, dear friend, my wishes go as far as yours, but my hopes are very feeble. I have seen changes of government in France for forty years. They always fall by their own incapacity; the new ones give always the same promises, but they never keep them, and the march to ruin is renewed. I was personally acquainted with most of the men in power, some of them intimately; there were distinguished , well-meaning men among them; but they did not persevere; after a short time they were not better than their predecessors—nay, they became even greater rascals. Not one of all the governments there has kept the promises made to the people—not one of them has subordinated its own interest to the welfare of the country. And until this be done, no power can possibly take a lasting root in France. The nation has always been deceived, and will again be deceived; when it will punish the treason and the perjury of its rulers; for it is strong and mature enough to do this at the proper time.’ ”
+We find in Varnhagen's diary the following entry referring to the above: “Alexander von Humboldt said to Gans, after the July revolution, when he heard him express very exalted hopes of the new government, ‘Believe me, dear friend, my wishes go as far as yours, but my hopes are very feeble. I have seen changes of government in France for forty years. They always fall by their own incapacity; the new ones give always the same promises, but they never keep them, and the march to ruin is renewed. I was personally acquainted with most of the men in power, some of them intimately; there were distinguished, well-meaning men among them; but they did not persevere; after a short time they were not better than their predecessors—nay, they became even greater rascals. Not one of all the governments there has kept the promises made to the people—not one of them has subordinated its own interest to the welfare of the country. And until this be done, no power can possibly take a lasting root in France. The nation has always been deceived, and will again be deceived; when it will punish the treason and the perjury of its rulers; for it is strong and mature enough to do this at the proper time.’ ”
 
 * * *
 
@@ -1072,7 +1066,7 @@ You are for me, my dearest friend, the standard of refinement as well as my auth
 
 In Varnhagen's Diary is the following entry, dated August 9th, 1838. Humboldt told me in a long visit the news of Toeplitz. The King of Prussia and the Emperor of Russia have both avoided meeting each other alone, each of them fearing the embarrassment of a tête-à-tête. The Emperor spoke on several occasions quite contemptuously of the present French Government, and still worse of the King Louis Philippe himself. Prince Metternich's conduct was frivolous, light-minded, and without fear for the present; he is not alarmed, though haunted by the gloomy thought that at Louis Philippe's death things must take a new turn, and that then war will become inevitable. Does he think to make people believe this, I ask? With Metternich one always ought to examine first, how far an opinion adapts itself to the position of the moment.
 
-Under date of April 9th, 1839, Varnhagen wrote in his Diary: “Humboldt called quite unexpectedly and made the greatest excuses for not having called on me before. And then he opened his newsbag and recited a thousand stories from Paris and Berlin—at least for two hours. Things in France bear a very gloomy aspect, he thinks; and he has lately written about it to Prince Metternich. The crisis in France is yet a latent one—but to-morrow it may burst forth, and how needful it would then be, and, in this event, how necessary , that Germany should be strong and united, and the farces at Cologne and Hanover be settled!
+Under date of April 9th, 1839, Varnhagen wrote in his Diary: “Humboldt called quite unexpectedly and made the greatest excuses for not having called on me before. And then he opened his newsbag and recited a thousand stories from Paris and Berlin—at least for two hours. Things in France bear a very gloomy aspect, he thinks; and he has lately written about it to Prince Metternich. The crisis in France is yet a latent one—but to-morrow it may burst forth, and how needful it would then be, and, in this event, how necessary, that Germany should be strong and united, and the farces at Cologne and Hanover be settled!
 
 Under 19th of April, 1839, Varnhagen says in his diary: “I saw Humboldt to-day, who told me many things, and showed me a beautiful portrait of Arago, which pleased me very much. He talked much about the difficulties between Russia and England, as to their interests in the East Indies and in Persia, and repeated what he had heard about it from the Russian Emperor himself. The Czar was in a great passion against the English, and thought it highly important to oppose their supremacy in Asia. Humboldt agrees with me that the English have nothing serious to fear for the next fifty years from Russia in the Indies, but that fear and jealousy may engender a quarrel in Europe prior to any conflict in the East, although conflicting parties will certainly think twice before allowing it to come to that pass.”
 
@@ -1390,7 +1384,7 @@ A. <span class="small-caps">Humboldt.</span>
 
 <span class="small-caps">Saturday</span>, *November* 21, 1840.
 
-How could you doubt, most honored Madam, my being thankful for the news of the real situation of those noble men, who after so many undeserved sufferings, and after so long and so shameful a neglect, are at last to be placed in an independent position. I thought that, to have given them such a situation in Berlin, three thousand thalers would be a sufficient salary for both, and with this view I have continued my efforts. The King has adopted it as a principle never to issue an order in financial matters on his own account; like all princes, he has no standard by which to measure the wants of learned men. The superior intellects with whom we wish to surround ourselves have wants as prosaic as their inferiors. Whoever wishes to obtain the end must also be willing to employ the means, and especially in an affair which attracts every eye and which touches the honor of the country. The minister Eichhorn , upon whom everything now depends, is happy in the arrival of the two Grimms. He was formerly on the most friendly terms with Jacob Grimm. I called on the minister an hour ago in order to support my view of the matter. He declares that by-and-by he will arrange the affair in the best manner, but that we must confide in him, and allow him to act without obstruction.
+How could you doubt, most honored Madam, my being thankful for the news of the real situation of those noble men, who after so many undeserved sufferings, and after so long and so shameful a neglect, are at last to be placed in an independent position. I thought that, to have given them such a situation in Berlin, three thousand thalers would be a sufficient salary for both, and with this view I have continued my efforts. The King has adopted it as a principle never to issue an order in financial matters on his own account; like all princes, he has no standard by which to measure the wants of learned men. The superior intellects with whom we wish to surround ourselves have wants as prosaic as their inferiors. Whoever wishes to obtain the end must also be willing to employ the means, and especially in an affair which attracts every eye and which touches the honor of the country. The minister Eichhorn, upon whom everything now depends, is happy in the arrival of the two Grimms. He was formerly on the most friendly terms with Jacob Grimm. I called on the minister an hour ago in order to support my view of the matter. He declares that by-and-by he will arrange the affair in the best manner, but that we must confide in him, and allow him to act without obstruction.
 
 Receive, gracious Madam, the expression of my veneration and of my sentiments of gratitude.
 
@@ -1412,7 +1406,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 At the request of the King I took the opportunity of reading to him Schelling's discourse on nature and art. (Philosoph. Werke, tome 1st, 1809.) The passages concerning Raphael, Leonardo da Vinci, and about the possibility of a resuscitation of the arts, are the most pleasing in our language. This lecture produced on the King the effect of a beautiful song. But the bird is now sixty-seven years old, and goes from one golden cage to another.
 
-Varnhagen says in his diary, under date of April 28, 1841: “Humboldt came and remained more than an hour and a half; I found him looking ill, but lively, cheerful, and more communicative than ever. He praises the King for his disposition and his intentions, but thinks that he is no man of action, and that whenever he acts, he does it by starts, without system or method. Whether it be from kindness or timidity, at all events, he often does not dare to do what he most wishes and could do quite easily; thus he expects impatiently that the minister Von Werther will resign, and asks of Humboldt , whether the minister has given no intimation of it."
+Varnhagen says in his diary, under date of April 28, 1841: “Humboldt came and remained more than an hour and a half; I found him looking ill, but lively, cheerful, and more communicative than ever. He praises the King for his disposition and his intentions, but thinks that he is no man of action, and that whenever he acts, he does it by starts, without system or method. Whether it be from kindness or timidity, at all events, he often does not dare to do what he most wishes and could do quite easily; thus he expects impatiently that the minister Von Werther will resign, and asks of Humboldt, whether the minister has given no intimation of it."
 
 On the 30th April, 1841, Varnhagen says: " Humboldt has a great many enemies, as well amongst the savans as at court, who are constantly seeking an opportunity to malign him, but the moment he is praised all vituperation ceases—for it is all vituperation. It is seldom that anybody is able to maintain it. Some time ago a gentleman said to me, that he did not know what to think of Humboldt, and that he could not come to a conclusion concerning him. I answered: ‘Think always the best of him, believe him always capable of the best action, and you always will be nearest the truth.’ Another said, same day, sneeringly: ‘Humboldt was a great man before he came to Berlin, where he became an ordinary one.’ Moritz Robert remarked that Rahel had already said several times: ‘Nothing holds its ground in Berlin, everything has a downward tendency; indeed, if the Pope himself came to Berlin, he would not continue long to be Pope, he would sink into the ‘commonplace,’ down perhaps to the standard of a groom.’ What Rahel said is true, and I remember that she said so, but had made no note of it. This peculiarity of Berlin ought to be examined closer; it indicates a strong stratum of undeveloped greatness, and may, when positively brought forth to a point, bring the highest honor on Berlin; but if allowed to act negatively, it will, of course, become a shame to this city. ‘The Berliners are such a daring race of men,’ said Goethe, once. That is much the same definition.”
 
@@ -1535,9 +1529,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### KING CHRISTIAN VIII. OF DENMARK TO HUMBOLDT.
 
-<span class="small-caps">Monsieur le Baron</span>—I am doubly obliged to the
-
-illustrious counsellor Dieffenbach for his attention in presenting me with a copy of his work on the cure of strabism and stammering, since it was the cause of your dear letter of the 9th February. Introduced by you, Monsieur le Baron, any one is sure of success. In the present case, the reputation and the works of the author could have dispensed with all further recommendation; but you only do justice to the great services which Counsellor Dieffenbach has rendered to mankind, and I hasten to acknowledge them by bestowing my Danebrog Order on that distinguished savan. My letter to him on this subject will be remitted by the Envoy Count de Reventlau, and I shall particularly recommend to Chevalier Dieffenbach any Danish surgeons going to Berlin to learn the art upon which he has thrown so much light.
+<span class="small-caps">Monsieur le Baron</span>—I am doubly obliged to the illustrious counsellor Dieffenbach for his attention in presenting me with a copy of his work on the cure of strabism and stammering, since it was the cause of your dear letter of the 9th February. Introduced by you, Monsieur le Baron, any one is sure of success. In the present case, the reputation and the works of the author could have dispensed with all further recommendation; but you only do justice to the great services which Counsellor Dieffenbach has rendered to mankind, and I hasten to acknowledge them by bestowing my Danebrog Order on that distinguished savan. My letter to him on this subject will be remitted by the Envoy Count de Reventlau, and I shall particularly recommend to Chevalier Dieffenbach any Danish surgeons going to Berlin to learn the art upon which he has thrown so much light.
 
 The bearer of the present, whom I beg leave to recommend to your protection, is the theological candidate, Bornemann—a young man of talent and knowledge, whom I send to Berlin to study Philosophy under the guidance of my countryman, Steffens—not precisely that of Hegel, who has disciples enough in our University; but *that* philosophy which may assist in rectifying the sometimes rather extravagant doctrines of our modern thinkers. Steffens is kept at Berlin by a sacred tie, the gratitude he owes to the King; but I desire that his genius and his knowledge may not be lost to us, and that this young scholar may profit by his light before it ceases to shine, and to enlighten all those coming in contact with my illustrious countryman, who, in my opinion, is in himself worth an entire academic faculty.
 
@@ -1673,13 +1665,13 @@ I live in apparent outward luxury, and in the enjoyment of the fanciful predilec
 
 It is a source of infinite joy to me to learn, from your exquisite letter, that the really very delightful society at the Princess's has benefited you physically, and, therefore, as I should say in my criminal materialism, mentally also. Such a society, blown together chiefly from the same fashionable world of Berlin (somewhat flat and stale), immediately takes a new shape in the house of Princess Puecklar. It is like the spirit which should breathe life into the state; the material seems ennobled.
 
-I still retain your "Christliche Glaubenslehre,"[^fn-p0130-1] I who long ago, in Potsdam, was so delighted with Strauss's Life of the Saviour. One learns from it, not only what he does not believe, which is less new to me, but rather what kind of things have been believed and taught by those black coats (parsons) who know how to enslave mankind anew, yea, who are putting on the armor of their former adversaries. I shall gladly copy the passage concerning Spinoza. Will not the late date of the second volume of the “Glaubenslehre” (1841) be urged against it by these men who pretend to teach from ancient manuscript? It would seem to me a better plan to have published the wonderfully conflicting chronology with some remarks on the new faith in the whole “*roman historique*” of the apostolic collectors of myths. He who teaches so publicly has to subject himself to the publicity arising from the defence of those who differ from him in creed. A private statement, clothed in the mild language of complaint, makes the subsequent public one very difficult, and elicits only patronizing smiles and a denial. It is not the mishap of Spinoza, but this degradation of the noblest intellectual faculties in the service of the narrow doctrines of dark ages, that is really painful to me. The man[^fn-p0131-1] himself had certainly nothing attractive for me, but I had a kind of predilection for him, because everything enthrals and enraptures me, in which, as in his lecture on Art, the gentle breath of imagination warms and enlivens the harmony of language . Now we are separated. In his last speech, not the one on art, amid the glare of torchlight, he spoke of his departure like a well-paid artist who had just accomplished a musical tour—probably only a sentimental figure of speech to frighten his listeners.
+I still retain your "Christliche Glaubenslehre,"[^fn-p0130-1] I who long ago, in Potsdam, was so delighted with Strauss's Life of the Saviour. One learns from it, not only what he does not believe, which is less new to me, but rather what kind of things have been believed and taught by those black coats (parsons) who know how to enslave mankind anew, yea, who are putting on the armor of their former adversaries. I shall gladly copy the passage concerning Spinoza. Will not the late date of the second volume of the “Glaubenslehre” (1841) be urged against it by these men who pretend to teach from ancient manuscript? It would seem to me a better plan to have published the wonderfully conflicting chronology with some remarks on the new faith in the whole “*roman historique*” of the apostolic collectors of myths. He who teaches so publicly has to subject himself to the publicity arising from the defence of those who differ from him in creed. A private statement, clothed in the mild language of complaint, makes the subsequent public one very difficult, and elicits only patronizing smiles and a denial. It is not the mishap of Spinoza, but this degradation of the noblest intellectual faculties in the service of the narrow doctrines of dark ages, that is really painful to me. The man[^fn-p0131-1] himself had certainly nothing attractive for me, but I had a kind of predilection for him, because everything enthrals and enraptures me, in which, as in his lecture on Art, the gentle breath of imagination warms and enlivens the harmony of language. Now we are separated. In his last speech, not the one on art, amid the glare of torchlight, he spoke of his departure like a well-paid artist who had just accomplished a musical tour—probably only a sentimental figure of speech to frighten his listeners.
 
 Now for an answer to enquiries for the biography, of which, after all, I think with some fear, not on account of its political contents, but on account of family considerations. I rely on your promise. The man certainly cannot want to afflict so many!
 
 Wilhelm was born in Potsdam, because his father was Royal Chamberlain, and at the same time acting Chamberlain to the Princess Elizabeth of Prussia. He left Potsdam when the Princess was sent to Stettin. My father remained in high favor with the Prince of Prussia, who visited him frequently at Tegel. This explains to you the passage in the English despatch, running thus (I believe very early in 1775? Raumer's Beitraege zur neuern Geschichte, vol. v., p. 297):—“Hertzberg, Schulenburg could form a ministry, but those have the greatest chance of success, who, although not of the same kind, are considered favorites of the Prince. Among the first of these stands Herr von Humboldt, formerly an official in the allied army, a man of sense and fine character; Herr von Hordt, an enterprising genius. . . . .” The expression “official” is a strange mistake. My father was major and aide-de-camp to Duke Ferdinand, of Brunswick: after long service in the Finkenstein dragoons, he was frequently sent to Frederick II., during the gloomiest period of the Seven Years' War; thus Frederick II. writes in his letters on the Wedel disaster:—" I told Humboldt everything that can be told at such a distance."—(Manuscript letters quite recently bought by the King in Eastern Prussia.)
 
-My family comes from Northern Pomerania. My brother and I were for a long time the last of our name. My mother's maiden name was Colomb, cousin of the Princess Bluecher, and therefore niece of the old President in Aurich (Ostfriesland). She was first married to a Baron von Holwede. From this marriage sprung my step-brother Holwede, formerly in the regiment of gensdarmes. To my mother belongs the merit of having procured for us, at the instigation of old privy-councillor Kunth, a thorough education. Wilhelm, for the first years, was educated by our tutor Campe. The foundation of his profound attainments in Grecian lore was laid by Loeffler, the author of a liberal book on the New Platonism of the Fathers of the Church; he then was a chaplain in the army, and afterwards chief ecclesiastical counsellor at Gotha. Fischer, of the Graue Kloster, instructed Wilhelm in Greek for many years; he had, what is little known, a profound knowledge of Greek, besides that of mathematics. That Engel, Reitemeier , Dohm, and Klein lectured to us for a long time on philosophy, jurisprudence, and political science, is known to you. When at the University of Frankfurt (for six months) we lived with Loeffler, who was Professor there. In Goettingen, both of us were members (for one year) of the Philological Seminary of Heyne.
+My family comes from Northern Pomerania. My brother and I were for a long time the last of our name. My mother's maiden name was Colomb, cousin of the Princess Bluecher, and therefore niece of the old President in Aurich (Ostfriesland). She was first married to a Baron von Holwede. From this marriage sprung my step-brother Holwede, formerly in the regiment of gensdarmes. To my mother belongs the merit of having procured for us, at the instigation of old privy-councillor Kunth, a thorough education. Wilhelm, for the first years, was educated by our tutor Campe. The foundation of his profound attainments in Grecian lore was laid by Loeffler, the author of a liberal book on the New Platonism of the Fathers of the Church; he then was a chaplain in the army, and afterwards chief ecclesiastical counsellor at Gotha. Fischer, of the Graue Kloster, instructed Wilhelm in Greek for many years; he had, what is little known, a profound knowledge of Greek, besides that of mathematics. That Engel, Reitemeier, Dohm, and Klein lectured to us for a long time on philosophy, jurisprudence, and political science, is known to you. When at the University of Frankfurt (for six months) we lived with Loeffler, who was Professor there. In Goettingen, both of us were members (for one year) of the Philological Seminary of Heyne.
 
 To my father belonged Tegel (formerly a hunting chateau of the great Elector, and it was consequently only a leasehold property. Wilhelm first possessed the place in fee-simple, as a manor; therefore Schinkel added to it four towers, in order to preserve the old tower erected under the great Elector). Besides this, he owned Ringenwalde, near Soldin, in the Neumark. Ringenwalde afterwards belonged to me, then to the Counts Reeden and Achim Arnim. Wilhelm, at the time of his death, possessed Tegel, Burgoerner, and Auleben (acquired by his wife, as the fiefdom of the Dacheroeden family had been abolished), Hadersleben, in the Magdeburg country, and Castle Ottmachau, in Silesia, the dotation given to him after the Paris peace.
 
@@ -1781,7 +1773,7 @@ On the 27th June, 1842, Varnhagen makes the following addition to his notes of y
 
 On the 30th of August, 1842, Varnhagen remarks in his diary: "Humboldt tells me miserable things of Eichhorn. Talks also much of the King, his amiability, good humor, jocoseness. He thinks, however, he will not relinquish his favorite views, even when he seems to abandon them. The King was more satisfied with Count Maltzan than with any one else of his ministers; he placed full confidence in him—believed him capable of anything. We had a dispute about the signification of the word ‘ingenious,’ and how far it could be applied to the King. Humboldt thinks the King intends going to Greece, and to extend his journey to Jerusalem. It was to be feared, however, that the parsons would at last get control of him, and destroy his cheerfulness. Humboldt goes to Eu on business, with the King of France; then to Paris. Will be back at Berlin in December.”
 
-Varnhagen speaks of a call made by Humboldt after his return from Paris, in his diary of the 18th March, 1843, as follows: “Humboldt came to see me; he looks much older since I last saw him, but his spirit and courage are fresh. In Paris he was happy and gay; here his spirits sank at once. Things here were going on miserably, he says; the old beaten track—treating matters of dangerous character in a spirit of childish frivolity. And besides that, he is overrun with applications and requests; every one wishes to secure his influence! ‘Influence!’ said he; ‘nobody has any! Even Bunsen and Radowitz, the King’s favorites, have none. All that they are capable of is to anticipate the weak fancies of the King, and obey them. Should they attempt anything beyond this, their overthrow is certain . The *King* acts just as he pleases. He follows the impulses of his early received and firmly rooted impressions, and the advice which he may now and then think worthy of hearing, is nothing at all to him. He speaks contemptuously of Eichhorn and Savigny, as hypocritical menials, who receive the word of command from Thiele, from Gerlach, and from Hengstenberg. The King has relinquished nothing whatever of his cherished designs, and may, at any time, come out again with them, as with his designs regarding the Jews' observance of the Sabbath, the Anglican ordination of the bishops, and the new institutions of nobility, etc. He has projects which it would take a hundred years to accomplish. He contemplates immense constructions, outlaying of parks, enterprises in matters of art. There is already the question of going to Athens; in the background a pilgrimage to Jerusalem may be looming; triumphant promenades *à la* Napoleon; peaceable ones to London, to St. Petersburg, to the Orient; conquered scholars and artists, instead of countries. Love of art and imagination upon the throne, fanaticism and deceit all round, and hypocritical exaggeration in matters unworthy of attention. And with all this, the man is really ingenious, is really amiable, and inspired by the best intentions. What will come out of all this at last ?"
+Varnhagen speaks of a call made by Humboldt after his return from Paris, in his diary of the 18th March, 1843, as follows: “Humboldt came to see me; he looks much older since I last saw him, but his spirit and courage are fresh. In Paris he was happy and gay; here his spirits sank at once. Things here were going on miserably, he says; the old beaten track—treating matters of dangerous character in a spirit of childish frivolity. And besides that, he is overrun with applications and requests; every one wishes to secure his influence! ‘Influence!’ said he; ‘nobody has any! Even Bunsen and Radowitz, the King’s favorites, have none. All that they are capable of is to anticipate the weak fancies of the King, and obey them. Should they attempt anything beyond this, their overthrow is certain. The *King* acts just as he pleases. He follows the impulses of his early received and firmly rooted impressions, and the advice which he may now and then think worthy of hearing, is nothing at all to him. He speaks contemptuously of Eichhorn and Savigny, as hypocritical menials, who receive the word of command from Thiele, from Gerlach, and from Hengstenberg. The King has relinquished nothing whatever of his cherished designs, and may, at any time, come out again with them, as with his designs regarding the Jews' observance of the Sabbath, the Anglican ordination of the bishops, and the new institutions of nobility, etc. He has projects which it would take a hundred years to accomplish. He contemplates immense constructions, outlaying of parks, enterprises in matters of art. There is already the question of going to Athens; in the background a pilgrimage to Jerusalem may be looming; triumphant promenades *à la* Napoleon; peaceable ones to London, to St. Petersburg, to the Orient; conquered scholars and artists, instead of countries. Love of art and imagination upon the throne, fanaticism and deceit all round, and hypocritical exaggeration in matters unworthy of attention. And with all this, the man is really ingenious, is really amiable, and inspired by the best intentions. What will come out of all this at last ?"
 
 ### Letter 69: Humboldt → Varnhagen
 
@@ -1867,9 +1859,7 @@ The card-playing man—ii., p. 157—will again cause some excitement in the env
 
 A. v. H.
 
-We have not yet talked of Custine's book. The first volume is an eloquent and sprightly description (of dramatic
-
-scenes), and is the best done. What a startling effect such a book must have, even on those who detest justifying themselves. “Il y a des longueurs de déclamations,”—something of rhetorical blackening, which is tiresome. I find the publication of the hypertragical letter (of Princess Trubetzkoi) very wrong. Were it not for the irritation necessarily caused by the publication of this letter, we might have looked for some salvation from a new petition. What justification is there for risking so much, even for murder? I am also disgusted by the worship of those literary trifles by Mad. de Girardin and Mad. Gay. Such worship could, perhaps, be allowed in a beautiful Grand-Duchess.
+We have not yet talked of Custine's book. The first volume is an eloquent and sprightly description (of dramatic scenes), and is the best done. What a startling effect such a book must have, even on those who detest justifying themselves. “Il y a des longueurs de déclamations,”—something of rhetorical blackening, which is tiresome. I find the publication of the hypertragical letter (of Princess Trubetzkoi) very wrong. Were it not for the irritation necessarily caused by the publication of this letter, we might have looked for some salvation from a new petition. What justification is there for risking so much, even for murder? I am also disgusted by the worship of those literary trifles by Mad. de Girardin and Mad. Gay. Such worship could, perhaps, be allowed in a beautiful Grand-Duchess.
 
 That the “Saint-Simonism” was invented by a Prussian business-man, amuses me very much. As it concerns Königsberg, I will keep it secret.
 
@@ -2000,9 +1990,7 @@ Pray, dear Excellency, receive my affectionate and respectful homage.
 
 P. S.—I had just finished this note when yours of this morning reached me. I shall keep it all my life, as well for its being a true historical monument, as for the precious title of friend which you deign to give me. It is true, alas! we shall see, if God grants us life, a great many things; but may it be His will that we shall never see again events like those which have already swept over our country, by sapping the power of the King. Yet the Coalition works in this direction with all its might. It is a fit of madness which reminds me of 1791. These plotters are Girondists in embryo, whom we would have loved; and they will be the first to be buried under the ruins of the edifice which they are undermining.
 
-Does it, then, require a great effort of reasoning to perceive that the King is the cementer of all things, that he keeps us out of chaos, and that upon his living or dying the state of affairs wholly depends? Let us ask conscientiously, does our danger to-day come from him? Shall an order of things, acquired with so much trouble, established with so much labor—shall it be sacrificed to the renown of a few men, or to the vain theories inapplicable to France, serviceable at the best only in England, where they are consecrated by age,
-
-and, what is still better, administered by the enlightened upper classes. D., who is a man of sound intellect, writes me that he believes in the happy issue of the ministerial crisis. Mr. Molé has changed his determination not to resume office; he will do so if there is a majority of thirty-six or forty votes secured to him. The Jacqueminot party, which is rendering great service, is working for this.
+Does it, then, require a great effort of reasoning to perceive that the King is the cementer of all things, that he keeps us out of chaos, and that upon his living or dying the state of affairs wholly depends? Let us ask conscientiously, does our danger to-day come from him? Shall an order of things, acquired with so much trouble, established with so much labor—shall it be sacrificed to the renown of a few men, or to the vain theories inapplicable to France, serviceable at the best only in England, where they are consecrated by age, and, what is still better, administered by the enlightened upper classes. D., who is a man of sound intellect, writes me that he believes in the happy issue of the ministerial crisis. Mr. Molé has changed his determination not to resume office; he will do so if there is a majority of thirty-six or forty votes secured to him. The Jacqueminot party, which is rendering great service, is working for this.
 
 Here are the adieux, the last ones of Mr. de Talleyrand at Fontainebleau, on the 2d of June, 1838: “Adieu, my dear Bresson, stay at Berlin as long as you can; you are well off there; do not try to be better off. There will be much commotion in the world; you are young; you will see it.” I quote these words for you, because they agree with the spirit of your note, for which I thank you once more, and which will become a family title to me.
 
@@ -2016,9 +2004,7 @@ Here are the adieux, the last ones of Mr. de Talleyrand at Fontainebleau, on the
 
 <span class="small-caps">Paris</span>, *August 19th*, 1834.
 
-<span class="small-caps">My dear Friend</span>—I cannot find words to tell you[^fn-p0166-1]
-
-how sorry I am at having caused you a moment's annoyance. Be persuaded, then, once for all, that whatever wrongs, real or apparent, you may have experienced at my hands, you will never suffer that of my forgetting how good you have always been to me. The friendship which makes me so happy and proud, and which I have shown to you, shall never be surpassed by yours for me. I wanted, on the occasion of your kindly dedication, to give a public evidence of my friendship, but various circumstances arising out of my position, just now so very difficult and complicated, prevented. I hope, however, that it is only delayed.
+<span class="small-caps">My dear Friend</span>—I cannot find words to tell you[^fn-p0166-1] how sorry I am at having caused you a moment's annoyance. Be persuaded, then, once for all, that whatever wrongs, real or apparent, you may have experienced at my hands, you will never suffer that of my forgetting how good you have always been to me. The friendship which makes me so happy and proud, and which I have shown to you, shall never be surpassed by yours for me. I wanted, on the occasion of your kindly dedication, to give a public evidence of my friendship, but various circumstances arising out of my position, just now so very difficult and complicated, prevented. I hope, however, that it is only delayed.
 
 I am sorry to learn that your health is not satisfactory. Mine is very bad ; but I care little about it. All that I daily see in this vile world of meanness, servility, and low passion, makes me look with indifference on the events with which men are mostly pre-occupied. The only news that could at present cure me of my spleen, would be that you were coming to Paris. Why have I not found a single word of hope in your letter—even for a distant future ?
 
@@ -2038,8 +2024,7 @@ Always yours through life,
 
 ### 80.
 
-### <span class="small-caps">FOUR NOTES OF FREDERICK WILLIAM THE FOURTH
-TO HUMBOLDT.</span>
+### <span class="small-caps">FOUR NOTES OF FREDERICK WILLIAM THE FOURTH TO HUMBOLDT.</span>
 
 ### I.
 
@@ -2053,9 +2038,7 @@ TO HUMBOLDT.</span>
 
 ### II.
 
-<span class="small-caps">Cherissime Humboldt</span>, you are acquainted with all
-
-the pretenders to all the crowns. Please read the inclosed letter, and inform me who the *Seigneur Cados* may be—who were his father, mother, and ancestors, and also what are his titles to the crown of France, which I shall certainly try to procure for him?
+<span class="small-caps">Cherissime Humboldt</span>, you are acquainted with all the pretenders to all the crowns. Please read the inclosed letter, and inform me who the *Seigneur Cados* may be—who were his father, mother, and ancestors, and also what are his titles to the crown of France, which I shall certainly try to procure for him?
 
 <span class="small-caps">Frederic Guillaume</span>, Pr. Royal.
 
@@ -2218,9 +2201,7 @@ I pray you, dear Baron, accept the assurance of my highest consideration and old
 
 <span class="small-caps">Boston</span>, *Dec. 23d*, 1843.
 
-<span class="small-caps">Sir</span>—A book on which I have been engaged for some years, the History of the Conquest of Mexico, is now published in this country, as it was some few weeks since in England; and I have the pleasure to request your acceptance of a copy which sails for that purpose from New York in January. Although the main subject of the work is the conquest by the Spaniards, I have devoted half a volume to a view of the Aztec civilisation; and as in this shadowy field I have been
-
-very often guided by the light of your researches, I feel especially indebted to you, and am most desirous that the manner in which my own investigation is conducted may receive your approbation. It will indeed be one of the best and most satisfactory results of my labors.
+<span class="small-caps">Sir</span>—A book on which I have been engaged for some years, the History of the Conquest of Mexico, is now published in this country, as it was some few weeks since in England; and I have the pleasure to request your acceptance of a copy which sails for that purpose from New York in January. Although the main subject of the work is the conquest by the Spaniards, I have devoted half a volume to a view of the Aztec civilisation; and as in this shadowy field I have been very often guided by the light of your researches, I feel especially indebted to you, and am most desirous that the manner in which my own investigation is conducted may receive your approbation. It will indeed be one of the best and most satisfactory results of my labors.
 
 As I have been supplied with a large body of unpublished and original documents for the Peruvian conquest, I shall occupy myself with this immediately. But I feel a great want at the outset of your friendly hand to aid me. For although your great work—the *Atlas Pittoresque*—sheds much light on scattered points, yet as your *Voyage aux régions equinoxiales* stops short of Peru, I shall have to grope my way along through the greater part without the master's hand, which, in the *Nouvelle Espagne*, led me on so securely.
 
@@ -2342,7 +2323,7 @@ A. v. <span class="small-caps">Ht.</span>
 
 We insert here an entry in Varnhagen's diary, dated June 26, 1844, reciting two sharp repartees of Humboldt. At the Royal table at Sans Souci, some time ago, Humboldt shot two well-directed arrows from his bow. The conversation turned on some Russian ordinance, and Humboldt, in speaking of it, mentioned repeatedly the Minister of Public Instruction. “You have mistaken, sir,” said the King. “It was not the Minister of Public Instruction who acted in this matter, but the Minister of Enlightenment.” Humboldt, not in the least discountenanced, hastened to reply, “Very well, Sire; then it was not the Minister of Public Instruction, but of its opposite,” and continued his conversation in his usual way.
 
-The following anecdote is still neater: General Leopold von Gerlach, who is fond of badinage, attempted an attack upon Humboldt some time ago, saying to him, “Your Excellency frequently goes to church, ‘now-a-days,’ do you not?” He hoped to perplex him with the question. Humboldt, however, coolly replied, “Your ‘now-a-days’ is very kind of you. You allude, undoubtedly , to my adopting the only road which, at present, could lead to my promotion." The bantering hypocrite was dumb.
+The following anecdote is still neater: General Leopold von Gerlach, who is fond of badinage, attempted an attack upon Humboldt some time ago, saying to him, “Your Excellency frequently goes to church, ‘now-a-days,’ do you not?” He hoped to perplex him with the question. Humboldt, however, coolly replied, “Your ‘now-a-days’ is very kind of you. You allude, undoubtedly, to my adopting the only road which, at present, could lead to my promotion." The bantering hypocrite was dumb.
 
 An entry of a later date (26th December, 1848), speaks of the animosities to which Humboldt was subjected in still stronger terms. "Humboldt has called; He remained longer than an hour. He assures me that were it not for his position at Court, he would not be suffered to remain in the country, but would be expelled, so strong is the hatred of the ultras and bigots against him. It can hardly be described; however, they endeavor to discredit him with the King. In other parts of Germany they would still less endure him, were he once divested of the prestige of his position."
 
@@ -2772,8 +2753,7 @@ I <span class="small-caps">had</span> the misfortune of twice missing your Excel
 
 ### 114.
 
-### <span class="small-caps">Alexander Manzoni to Humboldt.</span>
-<span class="small-caps">(from the French.)</span>
+### <span class="small-caps">Alexander Manzoni to Humboldt.</span> <span class="small-caps">(from the French.)</span>
 
 <span class="small-caps">Milan</span>, *Dec.* 6*th*, 1844.
 
@@ -2793,8 +2773,7 @@ It is with the most profound respect, and, permit me to add, with that affection
 
 ### 115.
 
-### THIERS TO HUMBOLDT.
-<span class="small-caps">(from the French.)</span>
+### THIERS TO HUMBOLDT. <span class="small-caps">(from the French.)</span>
 
 <span class="small-caps">Paris</span>, *August*, 1845.
 
@@ -2808,8 +2787,7 @@ A. <span class="small-caps">Thiers</span>.
 
 ### 116.
 
-### THE PRINCESS OF CANINO, LUCIEN BONAPARTE'S
-WIDOW, TO HUMBOLDT.
+### THE PRINCESS OF CANINO, LUCIEN BONAPARTE'S WIDOW, TO HUMBOLDT.
 
 <span class="small-caps">Paris</span>, *May*, 1845.
 
@@ -2910,8 +2888,7 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### 122.
 
-### METTERNICH TO HUMBOLDT.
-(From the French.)
+### METTERNICH TO HUMBOLDT. (From the French.)
 
 <span class="small-caps">Vienna</span>, *May* 10, 1846.
 
@@ -3220,8 +3197,7 @@ Increase your collection of autographs by a very agreeable letter from the man w
 
 ### 137.
 
-### <span class="small-caps">Metternich to Humboldt.</span>
-<span class="small-caps">(From the French.)</span>
+### <span class="small-caps">Metternich to Humboldt.</span> <span class="small-caps">(From the French.)</span>
 
 <span class="small-caps">Richmond</span>, *Sep. 17th*, 1849.
 
@@ -3297,9 +3273,7 @@ A. H<span class="small-caps">T</span>.
 
 ### (<span class="small-caps">Inclosure.</span>)
 
-> I cannot, fellow-citizens, more vividly express the profound gratitude I entertain, than by saying, that you have given me as great a pleasure as you have bestowed an unexpected honor. A pleasure such as this shall not be dashed by the question how I can possibly deserve this distinction at the hands of your beautiful city. You
-
-have worthily shown, not only that you value her material prosperity, but that you are alive to higher interests, and accord sympathy and respect to efforts directed to the advancement of knowledge, the education of the people, and the general culture of mankind. As a reward for a portion of these efforts, to which my long and chequered life has been devoted, I accept with pride your flattering gift. By the favor of two illustrious monarchs it has been my privilege, for twenty-two years, with but little interruption, to live as your townsman, and to find, in scenery beautiful by nature and art, those inspirations indispensable to a life-like portraiture of nature, which aims to display the workings of the powers of the universe. Grateful for this good fortune, I have adorned almost all my later writings with the historic name which has become dear to me, and in the walls of which the year 1767 witnessed the birth of my brother, whose memory lives in the hearts of those who have preserved a sense of the enlarged proportions of a political life which progresses in obedience to laws inherent in the constitution of society.
+> I cannot, fellow-citizens, more vividly express the profound gratitude I entertain, than by saying, that you have given me as great a pleasure as you have bestowed an unexpected honor. A pleasure such as this shall not be dashed by the question how I can possibly deserve this distinction at the hands of your beautiful city. You have worthily shown, not only that you value her material prosperity, but that you are alive to higher interests, and accord sympathy and respect to efforts directed to the advancement of knowledge, the education of the people, and the general culture of mankind. As a reward for a portion of these efforts, to which my long and chequered life has been devoted, I accept with pride your flattering gift. By the favor of two illustrious monarchs it has been my privilege, for twenty-two years, with but little interruption, to live as your townsman, and to find, in scenery beautiful by nature and art, those inspirations indispensable to a life-like portraiture of nature, which aims to display the workings of the powers of the universe. Grateful for this good fortune, I have adorned almost all my later writings with the historic name which has become dear to me, and in the walls of which the year 1767 witnessed the birth of my brother, whose memory lives in the hearts of those who have preserved a sense of the enlarged proportions of a political life which progresses in obedience to laws inherent in the constitution of society.
 
 A. v. <span class="small-caps">Humboldt.</span>
 
@@ -3481,9 +3455,7 @@ A. <span class="small-caps">Ht.</span>
 
 <span class="small-caps">Tuesday</span>, late at night.
 
-The enclosed letter from August. Grau, of Montgomery County, Ohio, dated February 6, 1852, contains the following: “A gentleman who has travelled over a large portion of the earth, who, by the publication of so many excellent writings, has erected for himself so durable and so resplendent a monument on the field of literature and science, is not to be named by any German without the greatest esteem. When the names of great warriors who have spilt the blood of their fellow-men upon the battle-field shall be forgotten, your name will blaze for hundreds and thousands of years in the annals of history. But it is singular, at the same time, that the greatest naturalists, philosophers, and astronomers who have occupied
-
-the principal portion of their lives with new inventions, and with investigations into the elementary powers of nature, are often totally indifferent to their salvation or perdition in the world to come. Goethe, Schiller, Wieland, and Kant, were all distinguished characters and brilliant ideals, and in their walk and conversation were more or less observant of what are called the laws of morality, so as probably to abstain from cards, nine-pins, playhouses, and dancing, but their sphere of operations did not reach into eternity, and the fate of their fellow-men in the other world—their salvation—was of little interest to them." After launching into further sanctified regrets at the scarcity of true godliness, and its absence even in princes and royal chaplains, the writer continues: "The last King of Prussia, and his truly royal Louise, had some knowledge of a state of regeneration, as well as the last King of Sweden, the former French Marshal Bernadotte, Prince of Ponte Corvo. A poor peasant was better able to enlighten him on the means of salvation than one of the first bishops of the Lutheran church. O, Sir Privy Councillor, while I do full justice to your unblemished life, your high character as a statesman, and your acquirements as a man of science; and while I rejoice that Berlin—ay, that Prussia may boast of such a man as your Excellency, yet my joy would turn into holy exultation if I should have the honor of seeing you a warm disciple of Him who died upon Golgotha. Without Him, Lord Chamberlain, with all our acquirements, with all our boasted knowledge, we are singularly unhappy.” Further on, the letter reads: “Goethe says, on a certain occasion, that during the whole course of his long life he had not spent four happy weeks. These are the words of a great man of science. If Christ has not taken up his residence in our hearts, who else can be there but Satan? One of them, surely, must be there—one must wield the baton of command. It is manifestly impossible at one and the same time to serve two masters! Worthy sir, my gracious Lord Chamberlain, I am penetrated with great esteem for you and your lofty merits; I love and revere you. I am not worthy to unlace your shoes. This is the unconstrained language of my heart; although I have occupied myself with acquiring the elements of seventeen different languages, and can even at this day read the writings of the New Testament in seven different tongues. But I have not only been firmly convinced of the truth of the Christian religion for thirty-one years, but experience the influence of the Holy Ghost from day to day, and almost from hour to hour.” The letter is subscribed, “Your Grace's most devoted servant and brother in Christ, Augustus Grau.” Humboldt adds the remark: “An attempt at conversion, from the State of Ohio.”
+The enclosed letter from August. Grau, of Montgomery County, Ohio, dated February 6, 1852, contains the following: “A gentleman who has travelled over a large portion of the earth, who, by the publication of so many excellent writings, has erected for himself so durable and so resplendent a monument on the field of literature and science, is not to be named by any German without the greatest esteem. When the names of great warriors who have spilt the blood of their fellow-men upon the battle-field shall be forgotten, your name will blaze for hundreds and thousands of years in the annals of history. But it is singular, at the same time, that the greatest naturalists, philosophers, and astronomers who have occupied the principal portion of their lives with new inventions, and with investigations into the elementary powers of nature, are often totally indifferent to their salvation or perdition in the world to come. Goethe, Schiller, Wieland, and Kant, were all distinguished characters and brilliant ideals, and in their walk and conversation were more or less observant of what are called the laws of morality, so as probably to abstain from cards, nine-pins, playhouses, and dancing, but their sphere of operations did not reach into eternity, and the fate of their fellow-men in the other world—their salvation—was of little interest to them." After launching into further sanctified regrets at the scarcity of true godliness, and its absence even in princes and royal chaplains, the writer continues: "The last King of Prussia, and his truly royal Louise, had some knowledge of a state of regeneration, as well as the last King of Sweden, the former French Marshal Bernadotte, Prince of Ponte Corvo. A poor peasant was better able to enlighten him on the means of salvation than one of the first bishops of the Lutheran church. O, Sir Privy Councillor, while I do full justice to your unblemished life, your high character as a statesman, and your acquirements as a man of science; and while I rejoice that Berlin—ay, that Prussia may boast of such a man as your Excellency, yet my joy would turn into holy exultation if I should have the honor of seeing you a warm disciple of Him who died upon Golgotha. Without Him, Lord Chamberlain, with all our acquirements, with all our boasted knowledge, we are singularly unhappy.” Further on, the letter reads: “Goethe says, on a certain occasion, that during the whole course of his long life he had not spent four happy weeks. These are the words of a great man of science. If Christ has not taken up his residence in our hearts, who else can be there but Satan? One of them, surely, must be there—one must wield the baton of command. It is manifestly impossible at one and the same time to serve two masters! Worthy sir, my gracious Lord Chamberlain, I am penetrated with great esteem for you and your lofty merits; I love and revere you. I am not worthy to unlace your shoes. This is the unconstrained language of my heart; although I have occupied myself with acquiring the elements of seventeen different languages, and can even at this day read the writings of the New Testament in seven different tongues. But I have not only been firmly convinced of the truth of the Christian religion for thirty-one years, but experience the influence of the Holy Ghost from day to day, and almost from hour to hour.” The letter is subscribed, “Your Grace's most devoted servant and brother in Christ, Augustus Grau.” Humboldt adds the remark: “An attempt at conversion, from the State of Ohio.”
 
 ### Letter 153: Humboldt → Varnhagen
 
@@ -3499,9 +3471,7 @@ With ancient love and reverence, yours,
 
 A. v. <span class="small-caps">Humboldt</span>.
 
-The death of Leopold von Buch bows me deeply. A happy blending of the most noble, philanthropic sentiments, momentary impulses, and a little despotism of opinion; one of the few men who have a physiognomy. He has given a new form to his science; he was one of the greatest illustrations of our times; our friendship has endured sixty-three years, unruffled, although we often tilled the same field. I found him, in Freiberg, in 1791, where he had come to the Mining Academy before myself, although five years younger. His funeral
-
-appeared like a prelude to my own, C'est comme cela que je serai dimanche. And in what a condition do I leave the world—I who lived in 1789? But centuries are as seconds in the mighty development of advancing humanity. The swelling curve, however, has its little indentations, and it is irksome to be found in such an interval of decadence.
+The death of Leopold von Buch bows me deeply. A happy blending of the most noble, philanthropic sentiments, momentary impulses, and a little despotism of opinion; one of the few men who have a physiognomy. He has given a new form to his science; he was one of the greatest illustrations of our times; our friendship has endured sixty-three years, unruffled, although we often tilled the same field. I found him, in Freiberg, in 1791, where he had come to the Mining Academy before myself, although five years younger. His funeral appeared like a prelude to my own, C'est comme cela que je serai dimanche. And in what a condition do I leave the world—I who lived in 1789? But centuries are as seconds in the mighty development of advancing humanity. The swelling curve, however, has its little indentations, and it is irksome to be found in such an interval of decadence.
 
 * * *
 
@@ -3603,7 +3573,7 @@ On the 25th of September, Varnhagen narrates in his diary: “They say, on the p
 
 <span class="small-caps">Berlin</span>, *Dec.* 12*th*, 1853.
 
-<span class="small-caps">Again</span>, my noble friend, you have shown your skill in giving me pleasure. After our departure from Potsdam , which transformed itself entirely into a Buddhistic “cold hell,” was prevented for a long time by the delicate health of the Queen, I at last moved over here on Saturday. You have shed renown upon the Prussian arms, and, what touches me in a more human manner, on the warrior of many-sided culture.[^fn-p0293-1] The gallery of your biographies stands in singular grandeur in our German literature. I am enraged by the treatment of my friend Arago in the last number of the “Quarterly Review” (September)—an ebullition of political party spirit, exactly as I was treated by the same journal from 1810–1818. A note at the end of the number for September says, with rare *delicacy*, that the article was written before his death was known; but it was known generally in London that he had become blind, and that he suffered infinitely from dropsy, one of the symptoms of which is to fill the mind with apprehensions.
+<span class="small-caps">Again</span>, my noble friend, you have shown your skill in giving me pleasure. After our departure from Potsdam, which transformed itself entirely into a Buddhistic “cold hell,” was prevented for a long time by the delicate health of the Queen, I at last moved over here on Saturday. You have shed renown upon the Prussian arms, and, what touches me in a more human manner, on the warrior of many-sided culture.[^fn-p0293-1] The gallery of your biographies stands in singular grandeur in our German literature. I am enraged by the treatment of my friend Arago in the last number of the “Quarterly Review” (September)—an ebullition of political party spirit, exactly as I was treated by the same journal from 1810–1818. A note at the end of the number for September says, with rare *delicacy*, that the article was written before his death was known; but it was known generally in London that he had become blind, and that he suffered infinitely from dropsy, one of the symptoms of which is to fill the mind with apprehensions.
 
 With ancient gratitude and devotion, and admiration  
 of your talents, your faithful
@@ -3705,7 +3675,7 @@ On this letter Varnhagen remarks in his diary, July 5th, 1854 :—“I found a l
 
 The late Prince Wittgenstein once congratulated me that I had not to sit in the Council of State, and that was the old Council, of which your Excellency also was a member! How much more must I congratulate you on your escape from the new one, of which Stahl and Ranke are members! To the latter, no one will dispute the part of the clown; to the first, every one will accord that of the sophist.
 
-The words of Gneisenau, which Pertz alludes to in Stein's Leben (v. 262), are so entirely inapplicable to William von Humboldt that one would be tempted to interpret the H. differently, if an acceptable conjecture could be found. I have myself, indeed, heard from Gneisenau's lips expressions of dissatisfaction, but never such extravagant ones, which might be contradicted so easily and perfectly. What Gneisenau blamed chiefly in your brother was that he never tried, by the respect which he commanded and by the superiority of his mind, to unite all those of equal sentiment into a communion, by which much might have been undertaken and effected. But this reproach, if it be one, Gneisenau himself deserved as well, and received from his adherents ! The book of Pertz is full of aspersions and incongruities, which, indeed, in most cases originate in Stein himself, but are confirmed by Pertz in blind partiality; he, while communicating everything, even in many cases things which do not belong to the subject, leaves out important documents without hesitation as soon as he finds them not entirely for the benefit of his hero. The same will take place when he writes the biography of Gneisenau, for which the hand of a tactician would seem to be the first desideratum.
+The words of Gneisenau, which Pertz alludes to in Stein's Leben (v. 262), are so entirely inapplicable to William von Humboldt that one would be tempted to interpret the H. differently, if an acceptable conjecture could be found. I have myself, indeed, heard from Gneisenau's lips expressions of dissatisfaction, but never such extravagant ones, which might be contradicted so easily and perfectly. What Gneisenau blamed chiefly in your brother was that he never tried, by the respect which he commanded and by the superiority of his mind, to unite all those of equal sentiment into a communion, by which much might have been undertaken and effected. But this reproach, if it be one, Gneisenau himself deserved as well, and received from his adherents! The book of Pertz is full of aspersions and incongruities, which, indeed, in most cases originate in Stein himself, but are confirmed by Pertz in blind partiality; he, while communicating everything, even in many cases things which do not belong to the subject, leaves out important documents without hesitation as soon as he finds them not entirely for the benefit of his hero. The same will take place when he writes the biography of Gneisenau, for which the hand of a tactician would seem to be the first desideratum.
 
 The pious quaker-sheet was already known to me; one could hardly have thought such monstrosities practicable in the English language! But our time abounds in such. The psychographer takes the place of the moving table; they try to enforce my faith in the absurdity; I excuse myself, that at my time of life a man is a little backward, and that I have just arrived at table moving, but of that they do not want to hear any more. This reminds me of something, I will not suppress! It of course happens often, that remarks of your Excellency, in particular such made at the royal table, come to the ears of the public, and are repeated with zeal, and by this assume widely different forms; thus, quite recently, a reply to Herr Senfft von Pilsach, in which the original form seemed lost to a great extent, it would certainly be desirable if the latter were always authentically preserved. With my repeated most heartfelt thanks, in most faithful reverence and submission, I remain immutably, your Excellency's most obedient,
 
@@ -3741,9 +3711,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 165: A. v. Ht. → BETTINA VON ARNIM
 
-### 162.
-<span class="small-caps">HUMBOLDT TO BETTINA VON ARNIM.</span>
-(Copied by Varnhagen.)
+### 162. <span class="small-caps">HUMBOLDT TO BETTINA VON ARNIM.</span> (Copied by Varnhagen.)
 
 <span class="small-caps">Berlin</span>, *July 8th*, 1854.
 
@@ -3948,9 +3916,7 @@ A. <span class="small-caps">Humboldt</span>.
 
 <span class="small-caps">At Night.</span>
 
-The Grand Duke, whom you escaped, sends much love. He has curious theories, probably imbibed somewhere or other (Bœotia was near to ancient Attica),
-
-and misunderstood. There are two classes of sculptors, the one inferior, to which Rauch inclines, and which works *inward from without*, while the better (represented by Rietschel) works *outward from within.* But what an exposure. Philarète Chasles in the “Journal des Debats !” I wrote to Paris : “Vulgaire dans les idées comme dans les formes des langage, indigne d'un litterateur du Collége de France.”
+The Grand Duke, whom you escaped, sends much love. He has curious theories, probably imbibed somewhere or other (Bœotia was near to ancient Attica), and misunderstood. There are two classes of sculptors, the one inferior, to which Rauch inclines, and which works *inward from without*, while the better (represented by Rietschel) works *outward from within.* But what an exposure. Philarète Chasles in the “Journal des Debats !” I wrote to Paris : “Vulgaire dans les idées comme dans les formes des langage, indigne d'un litterateur du Collége de France.”
 
 * * *
 
@@ -3968,9 +3934,7 @@ Most gratefully yours,
 
 A. v. <span class="small-caps">Humboldt.</span>
 
-How is our excellent Dora doing ? I had a patriarchal time yesterday until seven o'clock, at Potsdam, at
-
-a christening of a child of a very handsome and accomplished daughter of my Siberian waiting-man's, Seifert, who,[^fn-p0329-1] a traveller named Moellhausen, who, at Baron Gerolt's and my recommendation, accompanied the great exploring expedition of Captain Whipple, of San Luis, San Francisco, and Panama, in the capacity of topographer and draughtsman for the American Government. It is about a year since the King appointed young Moellhausen custodian of the palace library at Potsdam.
+How is our excellent Dora doing ? I had a patriarchal time yesterday until seven o'clock, at Potsdam, at a christening of a child of a very handsome and accomplished daughter of my Siberian waiting-man's, Seifert, who,[^fn-p0329-1] a traveller named Moellhausen, who, at Baron Gerolt's and my recommendation, accompanied the great exploring expedition of Captain Whipple, of San Luis, San Francisco, and Panama, in the capacity of topographer and draughtsman for the American Government. It is about a year since the King appointed young Moellhausen custodian of the palace library at Potsdam.
 
 An excellent article by Laboulaye, on the domestic Institution, and the flagitious Pierce's extension of the outrage upon territory, hitherto free, met my eye yesterday in the “Journal des Débats,” of the 5th of February, I believe!
 
@@ -4034,8 +3998,7 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### 177.
 
-### <span class="small-caps">The Prussian Minister Resident, Von Gerolt,
-to Humboldt.</span>
+### <span class="small-caps">The Prussian Minister Resident, Von Gerolt, to Humboldt.</span>
 
 <span class="small-caps">New York</span>, *August 25th*, 1856.
 
@@ -4125,8 +4088,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### (<span class="small-caps">enclosed.</span>)
 
-### GRAND DUKE CHARLES ALEXANDER OF SAXE WEIMAR
-TO HUMBOLDT.
+### GRAND DUKE CHARLES ALEXANDER OF SAXE WEIMAR TO HUMBOLDT.
 
 <span class="small-caps">At the Chateau of Berlin</span>,  
 *Tuesday Morning.*
@@ -4277,8 +4239,7 @@ The “Spenersche Zeitung,” besides discussing Neufchatel and the evacuation o
 
 ### 189.
 
-### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR,
-TO HUMBOLDT.
+### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR, TO HUMBOLDT.
 
 <span class="small-caps">Weimar</span>, *November 29th*, 1856.
 
@@ -4306,9 +4267,7 @@ The old Minister Dechamps, who sat on your right at the dinner of the Baron of A
 
 Here is another unmixed and undisguised political opinion:—
 
-> “ As often and so sure as you base your church upon human obtuseness, the gates of the mind will not prevail
-
-against it, because there will always be consummate fools, old fools, and little fools, to uphold and repair it. Pure reason has not the same chance.”
+> “ As often and so sure as you base your church upon human obtuseness, the gates of the mind will not prevail against it, because there will always be consummate fools, old fools, and little fools, to uphold and repair it. Pure reason has not the same chance.”
 
 Yours, ever devotedly,
 
@@ -4381,7 +4340,7 @@ Suicide a Folly and a Crime; Two Sermons by Dr. Crusius, Chaplain of a Division 
 
 <span class="small-caps">Another</span> grateful, unconstrained, and amiable letter from the Grand Duke. He fixes February for the visit, and desires the drama to open with a request to search the archives. The permission being given, the material part is to follow, as he says, symbolically. You will arrange that with care, my dear friend. We are approaching the goal of our wishes.
 
-I have another funeral to-morrow at the column in Tegel, which, under the hand of Thorwalsden, promises *Hope.* The oldest niece (daughter) of my brother, the wife of General Hedemann, born in Paris in 1800, a few days after Madame von Humboldt's return from Spain, has departed after much suffering (liver complaint connected with dropsy), an amiable, cheerful housewife , who enjoyed good health for forty years in a very happy marriage. I live to bury all my kith and kin.
+I have another funeral to-morrow at the column in Tegel, which, under the hand of Thorwalsden, promises *Hope.* The oldest niece (daughter) of my brother, the wife of General Hedemann, born in Paris in 1800, a few days after Madame von Humboldt's return from Spain, has departed after much suffering (liver complaint connected with dropsy), an amiable, cheerful housewife, who enjoyed good health for forty years in a very happy marriage. I live to bury all my kith and kin.
 
 Yours,
 
@@ -4395,8 +4354,7 @@ A. v. H.
 
 ### 194.
 
-### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR,
-TO HUMBOLDT.
+### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR, TO HUMBOLDT.
 
 <span class="small-caps">Weimar,</span> *December 16th,* 1856.
 
@@ -4418,7 +4376,7 @@ I shall appropriate the Journal of Petermann. My veneration for you is the pledg
 
 <span class="small-caps">Berlin</span>, *Feb. 7th*, 1857.
 
-<span class="small-caps">When</span> I read anything in Berlin that enlists my political or literary attention, my first thought is of you. Lasaulx of Munich, of Baader's tribe, was only known to me as a man of the “Kreuz Zeitung” and of Schubert's World of Darkness, and the new historical work he sends me contains little originality of views, but it manifests, by way of allusion, a wealth of positive knowledge , which I had not expected of the man. Numerous citations indicate a great preference for the views of my brother. The Slavonic passage in regard to the Messiah is also remarkable, and the notes present a rich collection of antiquities. I should not look for anything of the sort from President Gerlach and his brother, to whom Professor Gelzer of Basle, and others, of opinions opposite to his, have been officially referred in the Neufchatel negotiations. If Lasaulx is not agreeable to you on account of his wishes for the restoration of the ancient German empire, you may find it interesting to skim over the work, and glance at the notes.
+<span class="small-caps">When</span> I read anything in Berlin that enlists my political or literary attention, my first thought is of you. Lasaulx of Munich, of Baader's tribe, was only known to me as a man of the “Kreuz Zeitung” and of Schubert's World of Darkness, and the new historical work he sends me contains little originality of views, but it manifests, by way of allusion, a wealth of positive knowledge, which I had not expected of the man. Numerous citations indicate a great preference for the views of my brother. The Slavonic passage in regard to the Messiah is also remarkable, and the notes present a rich collection of antiquities. I should not look for anything of the sort from President Gerlach and his brother, to whom Professor Gelzer of Basle, and others, of opinions opposite to his, have been officially referred in the Neufchatel negotiations. If Lasaulx is not agreeable to you on account of his wishes for the restoration of the ancient German empire, you may find it interesting to skim over the work, and glance at the notes.
 
 My cutaneous disease is much better, as also my nocturnal diligence. The fourth and last volume of Kosmos will consist of two parts, *i. e.*, of two volumes, each of thirty-five sheets, the first of which has already left the press. Both the parts, however, are to appear *together*, to avoid spoiling the effect of a continuous description, beginning with the internal warmth of the earth, and ending with the different races of man.
 
@@ -4541,8 +4499,7 @@ Keep the letter of the Grand Duke, which ends nicely, and in good taste.
 
 ### 201.
 
-### KARL ALEXANDER, GRAND DUKE OF SAXE-WEIMAR,
-TO HUMBOLDT.
+### KARL ALEXANDER, GRAND DUKE OF SAXE-WEIMAR, TO HUMBOLDT.
 
 <span class="small-caps">Weimar,</span> *April 3d,* 1857.
 
@@ -4603,8 +4560,7 @@ Your Excellency's most obedient
 
 ### Letter 205: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 204.
-<span class="small-caps">Humboldt to Varnhagen.</span>
+### 204. <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *April 13th*, 1857.
 
@@ -4616,8 +4572,7 @@ Yours, A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 206: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 205.
-<span class="small-caps">Humboldt to Varnhagen.</span>
+### 205. <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *April 21st*, 1857.
 
@@ -4629,9 +4584,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 (<span class="small-caps">Inclosure in a letter from Humboldt to Varnhagen.</span>)
 
-> You ask me, dear friend, what were the earliest impressions produced upon me by Franz Baader! I first saw him in June, 1791, while studying the art of mining in Freiberg, after the journey with George Forster to England, and after my sojourn in the Hamburg Commercial Academy of Buesching and Ebeling. For eight months I enjoyed the daily intercourse of this amiable and gifted man. Franz Baader had then published his work on caloric, and his inclinations were all of a chemico-physical nature, with a slight infusion of ideas
-
-on the philosophy of physical science. He was active underground, more occupied with practical mining and furnace operations than with geognostic researches; thorough in the observation of fact, cheerful, and satirical, but always with good taste, and not intolerant of those who differed from him. His imagination was not then specially directed to religious subjects. He was generally popular, and a little feared at the same time, as is so common where there is a consciousness of mental superiority. His political opinions were liberal. It was the period of the Congress of Pillnitz in our neighborhood—a time and a neighborhood which gave occasion to political utterances.
+> You ask me, dear friend, what were the earliest impressions produced upon me by Franz Baader! I first saw him in June, 1791, while studying the art of mining in Freiberg, after the journey with George Forster to England, and after my sojourn in the Hamburg Commercial Academy of Buesching and Ebeling. For eight months I enjoyed the daily intercourse of this amiable and gifted man. Franz Baader had then published his work on caloric, and his inclinations were all of a chemico-physical nature, with a slight infusion of ideas on the philosophy of physical science. He was active underground, more occupied with practical mining and furnace operations than with geognostic researches; thorough in the observation of fact, cheerful, and satirical, but always with good taste, and not intolerant of those who differed from him. His imagination was not then specially directed to religious subjects. He was generally popular, and a little feared at the same time, as is so common where there is a consciousness of mental superiority. His political opinions were liberal. It was the period of the Congress of Pillnitz in our neighborhood—a time and a neighborhood which gave occasion to political utterances.
 
 * * *
 
@@ -4659,8 +4612,7 @@ I have disagreeable *rudera* of the correspondence with a certain Dr. Gross Hoff
 
 ### 207.
 
-### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR,
-TO HUMBOLDT.
+### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR, TO HUMBOLDT.
 
 <span class="small-caps">Your</span> Excellency's letter was duly received by the hands of Mr. ——. Accept my thanks for these lines, for this new token of your constant kindness to me. The bearer is for the present immersed in the abyss of my archives. As soon as I shall return from Hanover, where an invitation will detain me a few days,[^fn-p0380-1] to seek him out, awaiting further developments at the hand of time, like the people at the gate of the oracle.
 
@@ -4715,8 +4667,7 @@ On Saturday I expect to come to Berlin with the King. The Queen is coming on Mon
 
 ### 210.
 
-### <span class="small-caps">CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR,
-TO HUMBOLDT.</span>
+### <span class="small-caps">CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR, TO HUMBOLDT.</span>
 
 <span class="small-caps">Ettersburg</span>, *June* 1, 1857.
 
@@ -4732,15 +4683,11 @@ Remaining your most devoted, most grateful servant,
 
 ### Letter 212: Adolphe Thiers → Alexander von Humboldt
 
-### 211.
-<span class="small-caps">Thiers to Humboldt.</span>
-<span class="small-caps">(From the French.)</span>
+### 211. <span class="small-caps">Thiers to Humboldt.</span> <span class="small-caps">(From the French.)</span>
 
 <span class="small-caps">Paris,</span> *May 14th,* 1857.
 
-<span class="small-caps">My Dear M. de Humboldt</span>—I take the liberty of commending to your goodness shown so often to myself and to Frenchmen generally, M. Duvergier de Hauranne, who goes to Germany to show it to his young son.
-
-You know our country too well for me to tell you what important and always honorable part has been sustained by M. Duvergier de Hauranne in our assemblies, where he has ever been faithful to the cause of rational liberty; and not faithful alone, but eminently useful. Having returned to private life and devoted himself to study, he goes to see your excellent country, and I thought I could not do better than to recommend him to your kindness. To his young son it will be an imperishable recollection to have seen the illustrious savan who does the greatest honor to the century, and whom we Frenchmen have the vanity to consider as French, and belonging to us no less than to Germany.
+<span class="small-caps">My Dear M. de Humboldt</span>—I take the liberty of commending to your goodness shown so often to myself and to Frenchmen generally, M. Duvergier de Hauranne, who goes to Germany to show it to his young son. You know our country too well for me to tell you what important and always honorable part has been sustained by M. Duvergier de Hauranne in our assemblies, where he has ever been faithful to the cause of rational liberty; and not faithful alone, but eminently useful. Having returned to private life and devoted himself to study, he goes to see your excellent country, and I thought I could not do better than to recommend him to your kindness. To his young son it will be an imperishable recollection to have seen the illustrious savan who does the greatest honor to the century, and whom we Frenchmen have the vanity to consider as French, and belonging to us no less than to Germany.
 
 I do not write on current affairs here, for M. Duvergier de Hauranne knows them, and can make you acquainted with them better than any other man.
 
@@ -4788,9 +4735,7 @@ In great haste, and incorrect.
 
 (Inclosed, a Letter from Friesen, of the year 1807, with this Superscription by Humboldt.)
 
-> A little gift for Miss Ludmilla Assing, the brilliant authoress of Elisa von Ahlefeldt, an autograph of my dear
-
-young friend Friesen, with sentiments of sincere thankfulness.
+> A little gift for Miss Ludmilla Assing, the brilliant authoress of Elisa von Ahlefeldt, an autograph of my dear young friend Friesen, with sentiments of sincere thankfulness.
 
 A. v. <span class="small-caps">Humboldt.</span>
 
@@ -5032,10 +4977,6 @@ My wicked friend Lasalle—Heraclitus the Obscure—has been expelled by the Pri
 
 <span class="small-caps">Note by Varnhagen</span>.—Iwan Golowin had asked Humboldt's permission to dedicate to him a Russian drama entitled Rovira, and when Humboldt assented in a hasty French note, he inserted a facsimile of the note into the book.
 
-### Letter 226
-
-### 225.
-
 ### Notes
 
 [^fn-p0025-1]: (*) On the Principal Causes of the Variation of Temperature upon the Earth.
@@ -5152,7 +5093,9 @@ My wicked friend Lasalle—Heraclitus the Obscure—has been expelled by the Pri
 
 ## Supplement
 
-### Letter 227: Humboldt / A. v. Humboldt → Ludmilla Assing
+### Letter 226: Humboldt / A. v. Humboldt → Ludmilla Assing
+
+### 225.
 
 ### HUMBOLDT TO LUDMILLA ASSING.
 
@@ -5528,8 +5471,7 @@ Zinzendorf, Count, 6, 105.
 
 ## Back Matter
 
-### HUMBOLDT AND THE NEW
-INFIDELITY.
+### HUMBOLDT AND THE NEW INFIDELITY.
 
 * * *
 
@@ -5553,9 +5495,7 @@ The absence of the religious element even when the death of friends is the subje
 
 Humboldt regarded the doctrine of a personal God as lying beyond the sphere of " physical demonstration," and therefore not properly to be included in the Kosmos. It would not follow from this that he was an atheist. Yet we think *The Tribune* is correct in pronouncing Humboldt an infidel, according to the more recent developments of Infidelity. He had no faith in Christianity as a historical system, as a supernatural revelation, or as a divinely-appointed system of redemption. Thus, when he had read Bauer's critical attempt to prove the non-authenticity of the Gospel, he wrote:
 
-> " Bruno (Bauer) has found in me a preadamitical convert. When I was a boy, the very Court-preachers taught like him. I had to join the Church under a minister who also taught us that the evangelists had left some memoranda which, at a later period, had been used as material for fictitious biographies (*woraus man später Biographieen gedichtet.*) Many years ago I wrote: ' All positive religions consist of three distinct parts—a code of morals which is nearly the same in all of them, and generally very pure; a geological chimera, (*rêve geologique,*) and a myth or a little historical novel. It is the last named of the three elements which, in the course of time, acquires the greatest importance.' Again; speaking of Strauss's ' Life of Jesus,' which he calls a ' remarkable book,' he says (April 6, 1842:) ' The critical method of Strauss is excellent. Besides, the book is valuable in giving the entire dogmatical history of the times, and especially in uncovering the crafty tricks of those theologians who, following the ways of Schleiermacher, profess to believe in all forms of the Christian myth, and are pompously followed to the grave by royal carriages, while they slyly substitute a so-called philosophical explanation to all those myths. What I dislike in Strauss is the flippancy with which he asserts the generation of organic beings from inorganic matter, of man from Chaldean mud (*Urschlamm.*) That he thinks lightly of the nebulous matters (*bleuen Dingen*) beyond the grave, I easily
-
-likes to be agreeably surprised by lowering his expectation as far as possible.'"
+> " Bruno (Bauer) has found in me a preadamitical convert. When I was a boy, the very Court-preachers taught like him. I had to join the Church under a minister who also taught us that the evangelists had left some memoranda which, at a later period, had been used as material for fictitious biographies (*woraus man später Biographieen gedichtet.*) Many years ago I wrote: ' All positive religions consist of three distinct parts—a code of morals which is nearly the same in all of them, and generally very pure; a geological chimera, (*rêve geologique,*) and a myth or a little historical novel. It is the last named of the three elements which, in the course of time, acquires the greatest importance.' Again; speaking of Strauss's ' Life of Jesus,' which he calls a ' remarkable book,' he says (April 6, 1842:) ' The critical method of Strauss is excellent. Besides, the book is valuable in giving the entire dogmatical history of the times, and especially in uncovering the crafty tricks of those theologians who, following the ways of Schleiermacher, profess to believe in all forms of the Christian myth, and are pompously followed to the grave by royal carriages, while they slyly substitute a so-called philosophical explanation to all those myths. What I dislike in Strauss is the flippancy with which he asserts the generation of organic beings from inorganic matter, of man from Chaldean mud (*Urschlamm.*) That he thinks lightly of the nebulous matters (*bleuen Dingen*) beyond the grave, I easily likes to be agreeably surprised by lowering his expectation as far as possible.'"
 
 In view of such declarations we do not think that *The Tribune* judges harshly of Humboldt, when it pronounces him an infidel, according to the Rationalistic school of infidelity. The application of such an epithet in such a quarter to such a man, may help minds that are not yet disciplined in the right use of terms, to comprehend that a man of generous culture, of humane sentiments, and of strict private morality, who nevertheless denies that Christianity is a supernatural and authoritative revelation from God, is properly classed with infidels, though he may not be an atheist.
 

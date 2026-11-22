@@ -333,27 +333,27 @@
   {
    "format": "epub",
    "file": "selected-english-letters-1914.epub",
-   "bytes": 101031,
-   "sha256": "c18436de25d1b4713119a81e5863da28f9b8dc4fe3ac6d0e76826b2b2a2a4b12"
+   "bytes": 137440,
+   "sha256": "1e3595651d0ba600e4e1b6e9a32e8a0c7f14de65fa868fdfc80ffe8e16ee7e04"
   },
   {
    "format": "markdown",
    "file": "selected-english-letters-1914.md",
-   "bytes": 208895,
-   "sha256": "9a72d3c68dfe4fed7a0868925f5c346893f3d73e3fae246d064c4dcf004e48e4"
+   "bytes": 208888,
+   "sha256": "122aa1f5abfb266a15ceca697f3b3ccc993c293e891c0e9b0055d8bc7a05472c"
   },
   {
    "format": "tei",
    "file": "selected-english-letters-1914.tei.xml",
-   "bytes": 263833,
-   "sha256": "c3447a718d7136f1cb360bfd78b1757e15294bbf7213bbfa8d2879eaf3bd984b"
+   "bytes": 264180,
+   "sha256": "d74f2794e6c52f5919bb4ecc0363426061852f554e89b55b05b191962534c9b0"
   }
  ],
  "scan_base": "https://archive.org/download/selectedenglishl00fues/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:24:08Z",
-  "source_ast_sha256": "0214e20b1567dc9706cfe549117a71397ecc8ca54e1439f7398897756523efa7",
+  "compiled_at": "2026-11-22T08:58:23Z",
+  "source_ast_sha256": "c59f85c97a4f51d20d78dfcdd1f1f919d8c205822ce9701745df86aa8d846ee3",
   "hugo_renderer_version": "1.0.0"
  }
 }

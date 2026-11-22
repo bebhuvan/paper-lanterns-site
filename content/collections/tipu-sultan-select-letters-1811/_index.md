@@ -19,29 +19,29 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 434,
+  "letters": 431,
   "notes": 1300,
   "pages": 670,
-  "dated_letters": 50
+  "dated_letters": 49
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 76.0,
+  "score": 79.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 26.0,
+    "score": 20.0,
     "out_of": 30.0
    },
    {
     "key": "structure",
-    "score": 10.0,
+    "score": 25.0,
     "out_of": 25.0
    },
    {
     "key": "notes",
-    "score": 15.0,
+    "score": 9.0,
     "out_of": 20.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 16,
+  "flagged": 138,
   "blockers": 0
  },
  "proof": {
@@ -278,7 +278,7 @@
  "year_counts": [
   [
    1785,
-   43
+   42
   ],
   [
    1786,
@@ -294,7 +294,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 434,
+ "unperiodised_count": 431,
  "frontispiece": {},
  "title_page": {
   "page": 7,
@@ -304,27 +304,27 @@
   {
    "format": "epub",
    "file": "tipu-sultan-select-letters-1811.epub",
-   "bytes": 589157,
-   "sha256": "3e063dbb3dfaab14169382410ab04abd5816bab0f2fa2d55893588adcaf85c28"
+   "bytes": 650457,
+   "sha256": "87dba54277ba9fe2e537ca605544c395a95734083eea4f6c9487d8516d43f90b"
   },
   {
    "format": "markdown",
    "file": "tipu-sultan-select-letters-1811.md",
-   "bytes": 1404491,
-   "sha256": "bf3bc5dbb6a4f88bc673e6ab17abe005cf2e939a79331007455a447d7a6c01e4"
+   "bytes": 1404593,
+   "sha256": "67f418dff747d6005f6219388e6fde62549c511fe785d94a43b926f3b76a7db1"
   },
   {
    "format": "tei",
    "file": "tipu-sultan-select-letters-1811.tei.xml",
-   "bytes": 2014029,
-   "sha256": "f3d729049a0bf7847ee4fae1d7a97bb78e0127be48d150dd82ebae2d2b309f4e"
+   "bytes": 2015521,
+   "sha256": "e22225ea3a4970dd3507aaec396490c5cc6cf145001d140646461534bc1d1ba4"
   }
  ],
  "scan_base": "https://archive.org/download/selectlettersoft00tipu/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-v1",
-  "compiled_at": "2026-11-20T16:25:42Z",
-  "source_ast_sha256": "1d4e231607a30815194f7cbe85372764237a8d8081bfd42dac9e17c1cd5a69ae",
+  "compiled_at": "2026-11-22T08:00:19Z",
+  "source_ast_sha256": "2cb8314079c49ad71422a4b39eff99a576d9f26489cbb2b174b4e694ea448098",
   "hugo_renderer_version": "1.0.0"
  }
 }

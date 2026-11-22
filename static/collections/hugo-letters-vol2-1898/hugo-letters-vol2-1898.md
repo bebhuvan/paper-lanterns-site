@@ -2,20 +2,16 @@
 
 - **Author / Editor**: Victor Hugo (ed. Paul Meurice)
 - **Year**: 1898
-- **Letters**: 236
+- **Letters**: 233
 - **Pages**: 270
 
 ## Frontmatter
 
-### THE LETTERS OF
-VICTOR HUGO
+### THE LETTERS OF VICTOR HUGO
 
 * * *
 
-### THE LETTERS OF
-VICTOR HUGO
-FROM EXILE, AND AFTER THE
-FALL OF THE EMPIRE
+### THE LETTERS OF VICTOR HUGO FROM EXILE, AND AFTER THE FALL OF THE EMPIRE
 
 EDITED BY  
 PAUL MEURICE
@@ -57,9 +53,7 @@ IV. <span class="small-caps">After the Fall of the Empire</span> . . . . . 235
 
 ### THE LETTERS OF VICTOR HUGO.
 
-### I. LETTERS TO VARIOUS PERSONS. — JOURNEY ON
-THE RHINE.
-1836–1851.
+### I. LETTERS TO VARIOUS PERSONS. — JOURNEY ON THE RHINE. 1836–1851.
 
 ### Letter 1: Victor Hugo → Mlle. Louise Bertin
 
@@ -153,9 +147,7 @@ Yours *ex imo pectore.*
 
 <span class="small-caps">Montmirail</span>, 20*th August*, 1838.
 
-<span class="small-caps">Dear Sir</span>, — According to the terms of the judg-
-
-ment given in the suit between me and the *Comédie Française*, and confirmed by decree, the *Comédie* was to play *Angelo* a certain number of times between the 20th of November, 1837, and the 20th of April, 1838, under a penalty of fifty francs damages for every day of delay. At the present date, August the 20th, the number of performances has not been completed, and the result is that at this moment the *Comédie Française* is indebted to me in the sum of eighteen thousand francs. However, I see no reason for altering the decision which led me to remit the sum of two thousand four hundred francs owing to me by the *Comédie* for delays in the representation of *Marion de Lorme.* I am even delighted to have this further opportunity of personally acknowledging the amiability and good taste of which you have given me more than one proof in our recent intercourse. I must add that I am glad to be able to convey my thanks also to those actors of the *Comédie Française* who have assisted me with so much zeal and talent. Be so good then, dear sir, as to inform the *Comédie* that I give it a free and full discharge of the sum of eighteen thousand francs which it now owes me.
+<span class="small-caps">Dear Sir</span>, — According to the terms of the judgment given in the suit between me and the *Comédie Française*, and confirmed by decree, the *Comédie* was to play *Angelo* a certain number of times between the 20th of November, 1837, and the 20th of April, 1838, under a penalty of fifty francs damages for every day of delay. At the present date, August the 20th, the number of performances has not been completed, and the result is that at this moment the *Comédie Française* is indebted to me in the sum of eighteen thousand francs. However, I see no reason for altering the decision which led me to remit the sum of two thousand four hundred francs owing to me by the *Comédie* for delays in the representation of *Marion de Lorme.* I am even delighted to have this further opportunity of personally acknowledging the amiability and good taste of which you have given me more than one proof in our recent intercourse. I must add that I am glad to be able to convey my thanks also to those actors of the *Comédie Française* who have assisted me with so much zeal and talent. Be so good then, dear sir, as to inform the *Comédie* that I give it a free and full discharge of the sum of eighteen thousand francs which it now owes me.
 
 <span class="small-caps">Victor Hugo.</span>
 
@@ -195,8 +187,7 @@ Your own                    <span class="small-caps">Victor.</span>
 
 ### Letter 9: Victor Hugo → Jules Lacroix
 
-### IX.
-*To* <span class="small-caps">Jules Lacroix</span>.[^fn-p0023-1]
+### IX. *To* <span class="small-caps">Jules Lacroix</span>.[^fn-p0023-1]
 
 14*th April*, 1840.
 
@@ -206,8 +197,7 @@ That is my advice. And, next, I am devotedly attached to you.
 
 ### Letter 10: Victor Hugo → Mme. Victor Hugo
 
-### X.
-*To* <span class="small-caps">Mme. Victor Hugo</span>, *at Saint-Prix.*
+### X. *To* <span class="small-caps">Mme. Victor Hugo</span>, *at Saint-Prix.*
 
 <span class="small-caps">Paris</span>, 31*st July*, 1840.
 
@@ -503,9 +493,7 @@ I too love you, and most sincerely, for you have a noble heart and a noble mind.
 
 *2d July,* 1841.
 
-<span class="small-caps">Dear Sir,</span> — As you do me the honor of sending
-
-me your article,[^fn-p0040-1] I take it as a letter, and answer it. I did not say “la *populace* ;” I said “les *populaces*.” This plural is of importance : there is a gilded populace as well as a ragged one ; there is a populace in drawing-rooms as well as in the streets.
+<span class="small-caps">Dear Sir,</span> — As you do me the honor of sending me your article,[^fn-p0040-1] I take it as a letter, and answer it. I did not say “la *populace* ;” I said “les *populaces*.” This plural is of importance : there is a gilded populace as well as a ragged one ; there is a populace in drawing-rooms as well as in the streets.
 
 In every stratum of society, the working, the thinking, the helpful element, that which aspires to goodness, justice, and truth, constitutes the people ; that which is sunk in voluntary stagnation, which is ignorant from laziness, which does wrong willingly, is the populace.
 
@@ -707,11 +695,9 @@ Madame Victor Hugo has told me of the terrible blow which has just befallen you.
 
 We are the slaves of destiny and thought. We go hither and thither, we work, we even smile ; but, whatever we do, there is always a sad and sombre thing in the heart, — the memory of the departed child. God help you, dear poet ! I can only give you my hand, and bow my head to your affliction as to my own.
 
-### Letter 40
+### Letter 40: Lamartine
 
 ### XXXIX.
-
-### Letter 41: Lamartine
 
 ### *To* <span class="small-caps">Lamartine.</span>
 
@@ -721,7 +707,7 @@ We are the slaves of destiny and thought. We go hither and thither, we work, we 
 
 Occasionally, however, for the good of the just and holy popular cause which we love and which we both serve, I could wish that you were more severe. You are so strong that you can be, you are so noble that you ought to be. But I am dazzled with the book, and delighted with its success.
 
-### Letter 42: Lamartine
+### Letter 41: Lamartine
 
 ### XL.
 
@@ -733,7 +719,7 @@ Occasionally, however, for the good of the just and holy popular cause which we 
 
 You are doing great things. The abolition of capital punishment, this signal lesson given by a newly born Republic to the old time-honored monarchies, is a grand achievement. I applaud with hands and heart. You have the genius of the poet, the genius of the writer, the genius of the orator ; you have wisdom and courage. You are a great man. I admire you and love you.
 
-### Letter 43: Mme. Victor Hugo
+### Letter 42: Mme. Victor Hugo
 
 ### XLI.
 
@@ -750,7 +736,7 @@ What a terrible thing ! and how sad to think that all this blood shed on both si
 
 We are sitting permanently ; the Assembly will resume work in a few minutes.
 
-### Letter 44: Mme. Victor Hugo
+### Letter 43: Mme. Victor Hugo
 
 ### XLII.
 
@@ -766,7 +752,7 @@ Bixio was shot in the chest yesterday, and Dornès in the groin. Both are dying.
 
 Do not be anxious, dearest. All will be well. Calm my Dedé. I embrace you all with a sad heart.
 
-### Letter 45: Mme. Victor Hugo
+### Letter 44: Mme. Victor Hugo
 
 ### XLIII.
 
@@ -780,7 +766,7 @@ I have been here for the last four and twenty hours with a mandate of order, pea
 
 Above all, be easy on my account. I am well, though worn out with fatigue.
 
-### Letter 46: Charles de Lacretelle
+### Letter 45: Charles de Lacretelle
 
 ### XLIV.
 
@@ -790,7 +776,7 @@ Above all, be easy on my account. I am well, though worn out with fatigue.
 
 We are all safe and sound, my dear old friend. God did not want my life, for I gladly risked it to arrest this disastrous effusion of French blood. I write to you in haste from the vortex called the Assembly. My wife sends her best love to yours. We are moving to-day. In future write to me at No. 5, Rue d'Isly. My kindest regards to yourself.
 
-### Letter 47: V. → Ulric Güttinguer
+### Letter 46: V. → Ulric Güttinguer
 
 ### XLV.
 
@@ -798,9 +784,7 @@ We are all safe and sound, my dear old friend. God did not want my life, for I g
 
 <span class="small-caps">From the Assembly,</span> 10*th July,* 1848.
 
-<span class="small-caps">Dear Ulric,</span>—we are out of the fray, but still in the
-
-uproar. I think of you among your trees and flowers, and I write to you. You witness the tempests of the ocean ; I see storms of another kind, and I envy you.
+<span class="small-caps">Dear Ulric,</span>—we are out of the fray, but still in the uproar. I think of you among your trees and flowers, and I write to you. You witness the tempests of the ocean ; I see storms of another kind, and I envy you.
 
 But let us take heart. It is impossible that civilization should collapse, but humanity must make an effort. The wound is deep and dangerous, but who dare say to the Supreme Healer, Thou canst not cure it ?
 
@@ -812,7 +796,7 @@ Oh ! how I long to be near you, amid nature, with my family, with yours ! Alas !
 
 V.
 
-### Letter 48: Lamartine
+### Letter 47: Lamartine
 
 ### XLVI.
 
@@ -820,9 +804,7 @@ V.
 
 *July,* 1848.
 
-<span class="small-caps">My Illustrious Friend,</span>—You have treated my
-
-son as I should have treated yours. You spontaneously placed him near your person, you made him one of your private secretaries, and you loaded him with all the kindness your great heart could dictate. I thank you most warmly. The time which he spent with you will be one of the proudest moments of his life.
+<span class="small-caps">My Illustrious Friend,</span>—You have treated my son as I should have treated yours. You spontaneously placed him near your person, you made him one of your private secretaries, and you loaded him with all the kindness your great heart could dictate. I thank you most warmly. The time which he spent with you will be one of the proudest moments of his life.
 
 On leaving office, you offered to make my son an attaché to the Brazilian Legation. I now learn that the execution of your plan has met with an unexpected obstacle, and that M. Bastide, the Minister for Foreign Affairs, has democratic scruples about me and demurs to my name. Allow me to put an end to this hesitation in the only suitable way possible. I am writing to the Minister for Foreign Affairs to-day to beg him not to appoint my son.
 
@@ -830,7 +812,7 @@ My son is returning to the Minister at the same time his nomination for diplomat
 
 I press your hand, dear Lamartine, and I renew the assurance of my profound admiration and long-standing friendship.
 
-### Letter 49: Charles de Lacretelle
+### Letter 48: Charles de Lacretelle
 
 ### XLVII.
 
@@ -844,7 +826,7 @@ But this placid serenity in no way detracts from your warm-heartedness, and when
 
 The history which we are making does not deserve a historian like you. So I congratulate you on spending your life quietly at home in meditation and the composition of poetry. But send me, who am in the fight, a word of encouragement from time to time. The battle is not yet over. We who are in the thick of the fray still need strength and determination. As for me, my heart is divided between fear and hope. I have profound faith in the future of civilization and of France, but I do not hide from myself what the storm may bring. We may founder, as we may reach the land ; I believe in two possibilities : a fearful shipwreck, a splendid port. May God conduct us ! but let us help God.
 
-### Letter 50: Gustave d'Eichtal
+### Letter 49: Gustave d'Eichtal
 
 ### XLVIII.
 
@@ -856,7 +838,7 @@ The ideas which are in your mind are in mine too. I even go further. But is it p
 
 You belong to those who decipher this great unknown, which is dark for the weak and radiant for the strong. You belong to those who affirm and hope. I rejoice to feel, like you, full of faith, that is, full of love. The ultra-Catholics of our day have no faith, and the proof of it is that they are full of hatred. Their eyes are blinded, and their hearts are turned to stone. Let us pity them, and let us pray to God that the great destinies of mankind may be accomplished soon enough to make them, in spite of themselves, happy and confident.
 
-### Letter 51: Henri de Lacretelle
+### Letter 50: Henri de Lacretelle
 
 ### XLIX.
 
@@ -868,7 +850,7 @@ Thanks, dear poet. What a good comforting message you sent me! The contest is ke
 
 Write us some fine verses, send me some noble letters, and love me.
 
-### Letter 52: Michelet
+### Letter 51: Michelet
 
 ### L.
 
@@ -884,7 +866,7 @@ I send you my protest; I should like to send it to all the noble and generous yo
 
 I congratulate you on being persecuted for the holy cause of the French Revolution and the human mind.
 
-### Letter 53: Mrs. Maria Chapman
+### Letter 52: Mrs. Maria Chapman
 
 ### LI.
 
@@ -906,7 +888,7 @@ The United States must either give up slavery or give up liberty! They will not 
 
 Accept, madam, with my warmest adhesion to the cause, the homage of my respect.
 
-### Letter 54: Monsieur Partarrieu-Lafosse
+### Letter 53: Monsieur Partarrieu-Lafosse
 
 ### <span class="small-caps">LII.</span>
 
@@ -924,7 +906,7 @@ In accordance with section 295 of the Code of Criminal Procedure I apply to you 
 
 Receive the assurance of my distinguished consideration.
 
-### Letter 55: Angelo Brofferio
+### Letter 54: Angelo Brofferio
 
 ### LIII.
 
@@ -932,9 +914,7 @@ Receive the assurance of my distinguished consideration.
 
 <span class="small-caps">Paris,</span> 7*th August,* 1851.
 
-<span class="small-caps">Dear and Eloquent Colleague,</span> — I have been a
-
-long while answering your letter ; but you know what a stormy time we have gone through. Last month the Republic, liberty, progress, all the principles and truths of the nineteenth century were called in question. For a whole week I had to stand in this great breach and repulse the furious assault of the past on the present and the future.
+<span class="small-caps">Dear and Eloquent Colleague,</span> — I have been a long while answering your letter ; but you know what a stormy time we have gone through. Last month the Republic, liberty, progress, all the principles and truths of the nineteenth century were called in question. For a whole week I had to stand in this great breach and repulse the furious assault of the past on the present and the future.
 
 With God's help we have conquered. The old parties have beat a retreat, and the Revolution has gained all the ground which they have lost. You know all this good news already, but it is a pleasure to me to tell it to you again, to you, Brofferio, who carry the standard of the people and of liberty so high aloft and so proudly in the Parliament of Piedmont.
 
@@ -976,18 +956,15 @@ Dear colleague, — for we are colleagues; besides the mandate of our countries 
 
 ## II. The Coup d'Etat.—Letters from Brussels. 1851-1852.
 
-### II. THE COUP D'ETAT.—LETTERS FROM BRUSSELS.
-1851-1852.
+### II. THE COUP D'ETAT.—LETTERS FROM BRUSSELS. 1851-1852.
 
 * * *
 
 [<span class="small-caps">The</span> *coup d'état* of the 2d of December breaks out. In the morning of that day Victor Hugo leaves his house in the Rue de la Tour d'Auvergne and joins the representatives of the Left for the twelve days' struggle related in *L'Histoire d'un crime.* On the 4th, communications are still uninterrupted. He sends Mme. Victor Hugo the following note in pencil.]
 
-### Letter 56: Victor Hugo → Mme. Victor Hugo
+### Letter 55: Victor Hugo → Mme. Victor Hugo
 
-### I.
-
-*To* <span class="small-caps">Mme. Victor Hugo.</span>
+### I. *To* <span class="small-caps">Mme. Victor Hugo.</span>
 
 [4*th December*, 1851.]
 
@@ -995,7 +972,7 @@ Dear colleague, — for we are colleagues; besides the mandate of our countries 
 
 [Madame Victor Hugo was left without news for several days. Subsequently she received, through an indirect channel, under the name of Madame Rivière, the two following letters.]
 
-### Letter 57: Albert Durand
+### Letter 56: Albert Durand
 
 ### II.
 
@@ -1009,7 +986,7 @@ Dear colleague, — for we are colleagues; besides the mandate of our countries 
 
 M. Rivière begs you to show this letter to his wife.
 
-### Letter 58: Albert Durand
+### Letter 57: Albert Durand
 
 ### III.
 
@@ -1023,7 +1000,7 @@ Your friend,
 
 <span class="small-caps">Albert Durand.</span>
 
-### Letter 59: Victor Hugo → “Madame Rivière” (Mme. Victor Hugo)
+### Letter 58: Victor Hugo → “Madame Rivière” (Mme. Victor Hugo)
 
 ### IV.
 
@@ -1045,7 +1022,7 @@ What I commend to you above all is to be of good heart. I know that you have a l
 
 My warmest greetings to our friends, — to Auguste, to Meurice,[^fn-p0071-1] to his charming wife. I close this letter at once, so that it may reach you to-day.
 
-### Letter 60: Victor Hugo → Mme. Victor Hugo
+### Letter 59: Victor Hugo → Mme. Victor Hugo
 
 ### V.
 
@@ -1085,7 +1062,7 @@ Give them all my best love, and press the generous hands of Auguste and of Paul 
 
 My fondest love to you. Do not forget the visit to the M——'s.
 
-### Letter 61: Victor Hugo → Mme. Victor Hugo
+### Letter 60: Victor Hugo → Mme. Victor Hugo
 
 ### VI.
 
@@ -1103,7 +1080,7 @@ Love me, all of you, — Charles, Victor, Auguste, Paul Meurice, my four sons, a
 
 Dumas urges me to close my letter. I embrace you all, and I look forward to the day when I shall no longer do it on paper.
 
-### Letter 62: Victor Hugo → Mme. Victor Hugo
+### Letter 61: Victor Hugo → Mme. Victor Hugo
 
 ### VII.
 
@@ -1121,7 +1098,7 @@ I am more popular here than I thought. Yesterday, at a printers’ dinner, they 
 
 I have only space for a couple of lines more. Fondest love to you all. Charlie, Victor, Adèle, I kiss you on your six cheeks. Write to me.
 
-### Letter 63: Victor Hugo → Mme. Victor Hugo
+### Letter 62: Victor Hugo → Mme. Victor Hugo
 
 ### VIII.
 
@@ -1151,7 +1128,7 @@ Schoelcher arrived this evening, disguised as a priest. I have not seen him yet.
 
 I embrace you tenderly, my poor dear wife and my beloved children. My fondest love to you. Good-by for the present, Charles. Dearest, give Auguste and Paul Meurice a warm shake of the hand. Give my respects to Mme. Paul Meurice. What a happy time you must all still have together in that prison! How I should like to be with you and with them!
 
-### Letter 64: Victor Hugo → Mme. Victor Hugo
+### Letter 63: Victor Hugo → Mme. Victor Hugo
 
 ### IX.
 
@@ -1175,7 +1152,7 @@ All is going on well here. Some of the refugees are in low spirits (among them S
 
 My dear, good, brave souls, you are my joy ; I embrace you.
 
-### Letter 65: Victor Hugo → André van Hasselt
+### Letter 64: Victor Hugo → André van Hasselt
 
 ### X.
 
@@ -1191,7 +1168,7 @@ Soon I shall have my family with me, and I shall wait quietly for God to restore
 
 *Ex imo corde.*
 
-### Letter 66: Victor Hugo → Mme. Victor Hugo
+### Letter 65: Victor Hugo → Mme. Victor Hugo
 
 ### XI.
 
@@ -1207,7 +1184,7 @@ I embrace you, my good and noble wife. Your letters inspire me with faith and st
 
 I am still expecting Charles at the end of the month. Be careful of what you say.
 
-### Letter 67: Victor Hugo → Mme. Victor Hugo
+### Letter 66: Victor Hugo → Mme. Victor Hugo
 
 ### XII.
 
@@ -1229,7 +1206,7 @@ A subscription is being got up here, among us exiles, for the poorest of us. I a
 
 Dearest, I fill up the space left with fond love to you all. Write to me, all of you, and *at length.*
 
-### Letter 68: Victor Hugo → Paul Meurice
+### Letter 67: Victor Hugo → Paul Meurice
 
 ### XIII.
 
@@ -1237,15 +1214,13 @@ Dearest, I fill up the space left with fond love to you all. Write to me, all of
 
 <span class="small-caps">Brussels,</span> *Sunday,* 11*th January,* 1852.
 
-<span class="small-caps">My dear Friend,</span> — My wife has already told you
-
-how pleased I was with your letter, and how much I was indebted to you for the details about the 2d of December. Go on sending me everything that you can collect. I am writing a formidable and curious book, which will begin with the facts and end with ideas.
+<span class="small-caps">My dear Friend,</span> — My wife has already told you how pleased I was with your letter, and how much I was indebted to you for the details about the 2d of December. Go on sending me everything that you can collect. I am writing a formidable and curious book, which will begin with the facts and end with ideas.
 
 Never was there a finer opportunity or a more inexhaustible subject. I shall treat the Bonaparte in proper fashion. I will see to the fellow's historical future. I will hand him down to posterity by the ears.
 
 Give my respects to your noble wife, and accept a warm shake of the hand for yourself.
 
-### Letter 69: Victor Hugo → Members of the French Academy
+### Letter 68: Victor Hugo → Members of the French Academy
 
 ### XIV.
 
@@ -1268,7 +1243,7 @@ In this state of affairs, in face of the brute force which is triumphant, and ag
 <span class="small-caps">Victor Hugo,</span>  
 Representative of the People.
 
-### Letter 70: Victor Hugo → André van Hasselt
+### Letter 69: Victor Hugo → André van Hasselt
 
 ### XV.
 
@@ -1282,7 +1257,7 @@ All we can do now is to pity her: the poor Academy looks quite foolish over ther
 
 As for me, I recline luxuriously on your excellent sofa and read your admirable books. O ingratitude of man! I begin to look with scorn on my portmanteau, which I had raised to the dignity of sofa, and which you have deprived of its employment. It is all up, I am transformed from a Spartan into a sybarite. I shall soon come and pay my respects to Mme. van Hasselt and shake you by the hand.
 
-### Letter 71: Victor Hugo → Mme. Victor Hugo
+### Letter 70: Victor Hugo → Mme. Victor Hugo
 
 ### XVI.
 
@@ -1306,7 +1281,7 @@ I will reply to all of you by the next post. In the mean while write me, all of 
 
 By the way, I have seen the filth which he calls his Constitution!
 
-### Letter 72: Victor Hugo → Mme. Victor Hugo
+### Letter 71: Victor Hugo → Mme. Victor Hugo
 
 ### <span class="small-caps">XVII.</span>
 
@@ -1324,7 +1299,7 @@ This note is only a line, by the way. Continue to write me long letters. Alas! w
 
 Love to my Adèle. Greetings to Auguste and Paul Meurice.
 
-### Letter 73: Victor Hugo → Mme. Victor Hugo
+### Letter 72: Victor Hugo → Mme. Victor Hugo
 
 ### XVIII.
 
@@ -1349,7 +1324,7 @@ Talking of that, Brofferio has written me a charming letter asking me to come to
 
 I write this in haste, dearest. To-morrow, or the day after at latest, Mme. K., who is spending a few days here, will bring you another letter, and letters for Auguste, for Paul Meurice, for my Victor, for my darling daughter, and for Charles, if he has not arrived here. Let me know the day and hour of his arrival.
 
-Send me my portfolio and my albums of sketches by Charles. Before sending them, let Paul Meurice, Auguste , and Mme. Bouclier each choose a sketch from the albums.
+Send me my portfolio and my albums of sketches by Charles. Before sending them, let Paul Meurice, Auguste, and Mme. Bouclier each choose a sketch from the albums.
 
 Dearest mamma, in a couple of days you will get a longer letter. I think it is best to sublet, and I will explain to you what I consider feasible. In the mean while continue to be *radiant.* Mélanie's remark is stupid and worthy of her. Yes, *be radiant.* We are passing through a useful and splendid period of adversity. Everything that is happening is of use, to France as a lesson, to our children as an ordeal, to us both as a bond of love and a hallowing of our life.
 
@@ -1357,7 +1332,7 @@ I approve beforehand of all that you do and all that you say. I know that you ha
 
 One more word for you all. I love you dearly.
 
-### Letter 74: Victor Hugo → Mme. Victor Hugo
+### Letter 73: Victor Hugo → Mme. Victor Hugo
 
 ### XIX.
 
@@ -1381,7 +1356,7 @@ Thank Béranger for me. As for Villemain, I am grateful to him for everything. I
 
 I send you all my heart, my thought, my life. I send you, you specially, my fondest love.
 
-### Letter 75: Victor Hugo → Angelo Brofferio
+### Letter 74: Victor Hugo → Angelo Brofferio
 
 ### XX.
 
@@ -1389,11 +1364,9 @@ I send you all my heart, my thought, my life. I send you, you specially, my fond
 
 <span class="small-caps">Brussels,</span> 2*d February,* 1852.
 
-<span class="small-caps">My eloquent and dear Colleague</span>,—I thank
+<span class="small-caps">My eloquent and dear Colleague</span>,—I thank you from the bottom of my heart. As orator, you answered me from your tribune; as exile, you bid me welcome. I was glad of your sympathy as a politician and a citizen; I am proud of the offer of hospitality which you make me with such dignity, which I should accept with such pleasure. I do not know what Providence has in store for me; imperious public duties have a greater call on me than ever. It may be necessary for me not to leave the frontier nearest to Paris. Brussels and London are posts of combat. The writer must now take the place of the speaker; I shall continue with the pen the war which I waged against despots with my voice. It is the Bonaparte, the Bonaparte alone, whom I must now grapple with; to do this I may have to remain here or go to London. But depend on it that the day when I can leave Belgium or England, it will be for Turin. I shall be delighted to grasp you by the hand. What a number of things you combine in yourself! You are Italy, that is to say, glory; you are Piedmont, that is to say, liberty; you are Brofferio, that is to say, eloquence. Yes, I certainly shall go and see you before long, and see your villa on the Lago Maggiore; I shall visit you, to find all that I love, blue sky, sunshine, untrammeled thought, fraternal hospitality, nature, poetry, friendship. When my second son has come out of prison, I shall be able to realize this dream and gather my family around your fireside. We shall speak of France, now, alas! resembling Italy, fallen and great ; we shall speak of the inevitable future, of the assured triumph, of the last necessary war, of the great federal Continental parliament, in which I shall perhaps have the supreme joy of sitting by your side.
 
-you from the bottom of my heart. As orator, you answered me from your tribune; as exile, you bid me welcome. I was glad of your sympathy as a politician and a citizen; I am proud of the offer of hospitality which you make me with such dignity, which I should accept with such pleasure. I do not know what Providence has in store for me; imperious public duties have a greater call on me than ever. It may be necessary for me not to leave the frontier nearest to Paris. Brussels and London are posts of combat. The writer must now take the place of the speaker; I shall continue with the pen the war which I waged against despots with my voice. It is the Bonaparte, the Bonaparte alone, whom I must now grapple with; to do this I may have to remain here or go to London. But depend on it that the day when I can leave Belgium or England, it will be for Turin. I shall be delighted to grasp you by the hand. What a number of things you combine in yourself! You are Italy, that is to say, glory; you are Piedmont, that is to say, liberty; you are Brofferio, that is to say, eloquence. Yes, I certainly shall go and see you before long, and see your villa on the Lago Maggiore; I shall visit you, to find all that I love, blue sky, sunshine, untrammeled thought, fraternal hospitality, nature, poetry, friendship. When my second son has come out of prison, I shall be able to realize this dream and gather my family around your fireside. We shall speak of France, now, alas! resembling Italy, fallen and great ; we shall speak of the inevitable future, of the assured triumph, of the last necessary war, of the great federal Continental parliament, in which I shall perhaps have the supreme joy of sitting by your side.
-
-### Letter 76: Victor Hugo → Mme. Victor Hugo
+### Letter 75: Victor Hugo → Mme. Victor Hugo
 
 ### XXI.
 
@@ -1415,11 +1388,11 @@ I went down to the counter, perched myself on the shopwoman’s high stool, and 
 
 As regards my negotiations with the booksellers, people in Belgium are afraid, and a free book-trade in this country, even for purely literary works, is impossible at the present moment. The success which I thought within my grasp eludes me. So we must wait for a time. Hetzel is going to London and will try to get it done there. All this makes it necessary for us to adhere strictly to our economical life of exiles, living on three francs a day. However, I give Charles a little pocket-money occasionally. It all goes in smoke.
 
-Just now there was a knock at my door. I left off my letter. It was the manager of the *Variétés*, M. Carpier, who had come from Paris, he said, on purpose to see me. He asked me, with many entreaties and offers, to write a play for Frédéric, *Don César*. He said a great deal about Auguste, whose eminent success as a dramatist he foresees. He seemed to me an intelligent man. He told me that Maupas had uttered a cry of delight at the idea of a play from me, fancying, no doubt, that literature would take me away from politics . I told him that I would see about it after the publication of my book, but that I could only break silence now by a slap in the face to the *coup d'état.* He offered to bring his company to rehearse at Brussels or in London, wherever I might be. I am to see him again.
+Just now there was a knock at my door. I left off my letter. It was the manager of the *Variétés*, M. Carpier, who had come from Paris, he said, on purpose to see me. He asked me, with many entreaties and offers, to write a play for Frédéric, *Don César*. He said a great deal about Auguste, whose eminent success as a dramatist he foresees. He seemed to me an intelligent man. He told me that Maupas had uttered a cry of delight at the idea of a play from me, fancying, no doubt, that literature would take me away from politics. I told him that I would see about it after the publication of my book, but that I could only break silence now by a slap in the face to the *coup d'état.* He offered to bring his company to rehearse at Brussels or in London, wherever I might be. I am to see him again.
 
 Farewell for the present, dear, dearest wife. My love to Dédé, and a great deal to yourself.
 
-### Letter 77: Victor Hugo → Mme. Victor Hugo
+### Letter 76: Victor Hugo → Mme. Victor Hugo
 
 ### XXII.
 
@@ -1453,7 +1426,7 @@ Dearest, I am finishing this at ten o'clock at night. I am going to send it to S
 
 Thank Meurice for his kind and interesting letter, and embrace all my inmates of the Conciergerie. Love to you, to you all.
 
-### Letter 78: Victor Hugo → Mme. Victor Hugo
+### Letter 77: Victor Hugo → Mme. Victor Hugo
 
 ### XXIII.
 
@@ -1481,7 +1454,7 @@ My darling daughter, play my air *Brama* from time to time, and think of me whil
 
 Love to Auguste and Meurice. Have you given Meurice the large sketch with the two castles?
 
-### Letter 79: Victor Hugo → Mme. Victor Hugo
+### Letter 78: Victor Hugo → Mme. Victor Hugo
 
 ### XXIV.
 
@@ -1503,7 +1476,7 @@ Embrace them all for me, — even the men, and especially the women.
 
 This is only a line to bid you good-morning, — a small interruption in my work. Give my Victor-Toto and my Adèle-Dédé two kisses for me.
 
-### Letter 80: Victor Hugo → Mme. Victor Hugo
+### Letter 79: Victor Hugo → Mme. Victor Hugo
 
 ### XXV.
 
@@ -1517,7 +1490,7 @@ His tastes lie in the direction of small plays, light poetry, of facile and ster
 
 As for me, you can picture my life. It is still the same. I get up at eight; work; breakfast at eleven, — we have got beyond chocolate, Charles preferred a cutlet; visitors up to three; work till five; table d'hôte dinner, with Charles, Dumas, Noël Parfait, Bancel, etc., up to ten; from ten to twelve work. I dine out sometimes, but not often. There is a nice rich old Polish lady here, — Mme. de Laska, — who is very fond of Charles. I have dined there once. Last week I met Girardin, Quinet, and Dumas, when dining with a publisher here, — M. Muquardt. The Brussels publishers are afraid of my book on the Second of December. I shall evidently be obliged to publish it in London. The important point, however, is to do it. It will certainly be published, — how, or by whom, does not matter.
 
-### Letter 81: Victor Hugo → Mme. Victor Hugo
+### Letter 80: Victor Hugo → Mme. Victor Hugo
 
 ### XXVI.
 
@@ -1543,7 +1516,7 @@ Dearest, do not forget that I must have a dozen or so good pages next time. All 
 
 Kiss my Victor, kiss my Adèle, and tell them to kiss you. I shall seem to be among you. My love to Paul Meurice and Auguste Vacquerie. My kind regards to Mme. Paul.
 
-### Letter 82: Victor Hugo → Mme. Victor Hugo
+### Letter 81: Victor Hugo → Mme. Victor Hugo
 
 ### XXVII.
 
@@ -1559,7 +1532,7 @@ Hetzel says that a line from me to Desnoyers would open the columns of the *Siè
 
 I am up to the neck in my cesspool of the Second of December. As soon as I have emptied it, I shall cleanse the wings of my mind and publish some poetry.
 
-### Letter 83: Victor Hugo → Mme. Victor Hugo
+### Letter 82: Victor Hugo → Mme. Victor Hugo
 
 ### XXVIII.
 
@@ -1575,7 +1548,7 @@ I should like to be able to write to you at length, for I have a piece of news t
 
 The worthy man will be a Senator one of these days. He took his departure.
 
-### Letter 84: Victor Hugo → Mme. Victor Hugo
+### Letter 83: Victor Hugo → Mme. Victor Hugo
 
 ### XXIX.
 
@@ -1585,9 +1558,7 @@ The worthy man will be a Senator one of these days. He took his departure.
 
 More impromptu notes, dearest. Our dear good Deschanel, who will bring you this, is starting for Paris in an hour. Receive him as one of our best friends, as he is. I saw by a few lines from Paul in the *Indépendance* (thank Paul from me) that you had taken steps, and to some purpose, about the silly rumors spread by the Elysée on the subject of my *solicited return.* I had replied at once here by the following: —
 
-> Several papers announce that M. Victor Hugo has been *authorized* to return to France. It is difficult to account for such a report. M. Hugo formerly procured for M. Bonaparte permission to return to France. He has no need to solicit it from him to-day.
-
-Now you know all about my dialogue with the Elysée. I hope that this will silence him.
+> Several papers announce that M. Victor Hugo has been *authorized* to return to France. It is difficult to account for such a report. M. Hugo formerly procured for M. Bonaparte permission to return to France. He has no need to solicit it from him to-day. Now you know all about my dialogue with the Elysée. I hope that this will silence him.
 
 Dearest mamma, I spent such a nice evening yesterday. Alexandre Dumas has arrived, we dined together, and spoke about you. He told me again how every one loves and respects you, and I told him that every one is quite right.
 
@@ -1601,7 +1572,7 @@ This exhausts my budget of news for to-day. But my heart is full. I could go on 
 
 My warmest regards to Auguste.
 
-### Letter 85: Victor Hugo → Mme. Victor Hugo
+### Letter 84: Victor Hugo → Mme. Victor Hugo
 
 ### XXX.
 
@@ -1623,7 +1594,7 @@ We think here that all is going on satisfactorily in Paris. I rather distrust ou
 
 Dearest, nothing can be nobler, more dignified, or better than your letters. Their only fault is that they are sometimes short. So write to me at length and often.
 
-### Letter 86: Victor Hugo → Mme. Victor Hugo
+### Letter 85: Victor Hugo → Mme. Victor Hugo
 
 ### XXXI.
 
@@ -1645,11 +1616,9 @@ In any event, I will do what you wish, what you all wish, my beloved ones.
 
 My pain in the heart is better. Fond love to you and the children. Consult Auguste about my plan. My warmest regards to him and to Meurice.
 
-### Letter 87
+### Letter 86: Victor Hugo → Mme. Victor Hugo
 
 ### XXXII.
-
-### Letter 88: Victor Hugo → Mme. Victor Hugo
 
 ### *To* <span class="small-caps">Mme. Victor Hugo.</span>
 
@@ -1665,7 +1634,7 @@ Dearest, if the non-settlement of my affairs in London should entail a longer st
 
 I have not much space left, and will fill it with affectionate messages. I embrace you and Dédé and Victor. Tell Victor that Charles is working. Now, then, a race between Victor and Charles! I embrace you once more. Our warmest regards to Vacquerie, and to Meurice, whose *Benvenuto* delights me.
 
-### Letter 89: Victor Hugo → Mme. Victor Hugo
+### Letter 87: Victor Hugo → Mme. Victor Hugo
 
 ### XXXIII.
 
@@ -1687,7 +1656,7 @@ When we are together, I shall write some verses, I shall publish a big volume of
 
 Mme. Guyon has brought me a very noble letter from Janin. Thank him if you meet him. Tell our dear Théophile, too, how touched I am at reading my name in his fine articles.
 
-### Letter 90: Victor Hugo → Mme. Victor Hugo
+### Letter 88: Victor Hugo → Mme. Victor Hugo
 
 ### XXXIV.
 
@@ -1707,7 +1676,7 @@ Dearest wife and daughter, I love you. You are my delight and my joy.
 
 My warmest regards to Paul Meurice. Has Auguste come back?
 
-### Letter 91: Victor Hugo → Mme. Victor Hugo
+### Letter 89: Victor Hugo → Mme. Victor Hugo
 
 ### XXXV.
 
@@ -1729,7 +1698,7 @@ Do not mention *Napoléon le Petit* to any one, except Auguste and Paul Meurice;
 
 I have a great many things to say to you, but the post is going. Farewell for the present. I love you all.
 
-### Letter 92: Victor Hugo → Mme. Victor Hugo
+### Letter 90: Victor Hugo → Mme. Victor Hugo
 
 ### XXXVI.
 
@@ -1745,7 +1714,7 @@ You will have heard that in the papers here and in Germany I have been made sena
 
 Charles is finishing his novel. He read me the first chapters, which are admirably done. It is very remarkable, as regards both style and matter. I have no doubt whatever of its success, and I think you will be pleased.
 
-### Letter 93: Victor Hugo → Mme. Victor Hugo
+### Letter 91: Victor Hugo → Mme. Victor Hugo
 
 ### XXXVII.
 
@@ -1771,7 +1740,7 @@ Ponsard has been to see me. Janin has been, and he shed tears when he embraced m
 
 I have only space left to send my fondest love to you and my Dédé.
 
-### Letter 94: Victor Hugo → Mme. Victor Hugo
+### Letter 92: Victor Hugo → Mme. Victor Hugo
 
 ### XXXVIII.
 
@@ -1813,10 +1782,9 @@ I embrace you, my dearest wife. I embrace my Dédé, whom I have not seen for ei
 
 ## III. Letters from Exile. 1852–1870.
 
-### III. LETTERS FROM EXILE.
-1852–1870.
+### III. LETTERS FROM EXILE. 1852–1870.
 
-### Letter 95: Victor Hugo → M. Luthereau
+### Letter 93: Victor Hugo → M. Luthereau
 
 ### I.
 
@@ -1830,7 +1798,7 @@ I shall write soon to my excellent colleague Yvan. He ought to look us up in Jer
 
 To-morrow I move with my family into a pretty little house which I have taken, near the sea. My address now will be : St. Luke's, 3 Marine Terrace. But there is no need to put an address. All letters directed simply to Jersey reach me.
 
-### Letter 96: Victor Hugo → André van Hasselt
+### Letter 94: Victor Hugo → André van Hasselt
 
 ### II.
 
@@ -1848,7 +1816,7 @@ We talk about you among ourselves; my wife and my daughter read your fine works,
 
 About ten or twelve miles from here there is a huge rock, an island called Sark. It is a sort of fairy palace full of marvels. A man named Ludder or Lupper has just bought the manorial rights of it for £6000. Here is one of those cases in which poets envy millionaires. I should like to buy such an island and give it to Mme. van Hasselt. She would be obliged to come there. We should have your pleasant talk, dear poet. And I should still be the richer of the two.
 
-### Letter 97: Victor Hugo → Alphonse Esquiros
+### Letter 95: Victor Hugo → Alphonse Esquiros
 
 ### III.
 
@@ -1864,7 +1832,7 @@ I write all this as my mind runs on, at random, as it comes to me, somewhat as t
 
 Oh, my dear comrade in thought and in action, let us not lose heart. Let us persist, let us struggle on, let us redouble our efforts, let us persevere in the war against unrighteousness, hatred, and darkness.
 
-### Letter 98: Victor Hugo → André van Hasselt
+### Letter 96: Victor Hugo → André van Hasselt
 
 ### IV.
 
@@ -1882,7 +1850,7 @@ What you do not have, what could not be contained in such a small space, what I 
 
 You have read fragments of the speech.[^fn-p0133-1] I send you the whole of it. Do not be distressed, but rejoice that the victims preach magnanimity to the persecutors. It is a noble sight, and worthy of your mind.
 
-### Letter 99: Victor Hugo → Noël Parfait
+### Letter 97: Victor Hugo → Noël Parfait
 
 ### V.
 
@@ -1898,7 +1866,7 @@ The equinox is blowing with force here; but it makes no difference, we live in p
 
 The book [^fn-p0134-1] I have told you about is at last going to appear. When you see all my dear friends, — Charras, Deschanel, Place, Laussedat, Labrousse, Madier, our brave and eloquent Madier, — greet them for me.
 
-### Letter 100: Victor Hugo → Mlle. Louise Bertin
+### Letter 98: Victor Hugo → Mlle. Louise Bertin
 
 ### VI.
 
@@ -1920,7 +1888,7 @@ Remain yourself. Cherish the proud isolation of your mind. That certain men shou
 
 Do not, with your virile intelligence, sink into the monarchist trifling. Look at the real future. Your eyes are strong enough to gaze steadfastly at that sun. . . .
 
-### Letter 101: Victor Hugo → Emile Deschanel
+### Letter 99: Victor Hugo → Emile Deschanel
 
 ### VII.
 
@@ -1938,7 +1906,7 @@ Here, in winter, everything is sombre, dark, violent, terrible, tempestuous, sev
 
 When you see our convalescent Hetzel, who makes his pallor an excuse for his laziness, tell him to write to me. Say bravo to Dumas from me for two delightful numbers of the *Mousquetaire,* which have reached my den. And you, think of me; write me a nice long letter, marked by that charming feeling, that exquisite style, that profound and gentle mind, which is applauded at Brussels and loved in Jersey.
 
-### Letter 102: Victor Hugo → Villemain
+### Letter 100: Victor Hugo → Villemain
 
 ### <span class="small-caps">VIII.</span>
 
@@ -1954,7 +1922,7 @@ Do you know what Jersey is? Take a map of the Archipelago and look out Lemnos. T
 
 It is from there that I write to you; not from the island where the lightning is made, but from the island where it is expected. For sooner or later upon such things and such men the thunderbolt must surely fall. . . .
 
-### Letter 103: Victor Hugo → David d'Angers
+### Letter 101: Victor Hugo → David d'Angers
 
 ### <span class="small-caps">IX.</span>
 
@@ -1962,15 +1930,13 @@ It is from there that I write to you; not from the island where the lightning is
 
 <span class="small-caps">Marine Terrace,</span> *26th April,* 1854.
 
-<span class="small-caps">Dear great David,</span>—I have received your kind and noble letter, with the interesting page which it
-
-contained. I am glad that you liked the book.[^fn-p0138-1] Dear friend, envy me, all of you, envy me ; my exile is good, and I thank destiny for it. In these days, I do not know if proscription means suffering, but I know that it means honor. O my sculptor, one day you put a wreath on my head, and I said to you : Why ? — You foresaw my proscription.
+<span class="small-caps">Dear great David,</span>—I have received your kind and noble letter, with the interesting page which it contained. I am glad that you liked the book.[^fn-p0138-1] Dear friend, envy me, all of you, envy me ; my exile is good, and I thank destiny for it. In these days, I do not know if proscription means suffering, but I know that it means honor. O my sculptor, one day you put a wreath on my head, and I said to you : Why ? — You foresaw my proscription.
 
 Talking of this, I am sending you that masterpiece, and I intrust it to your care. I have no home, the bust is expelled like the man. Open your door to it. I hope that one of these days, soon perhaps, I shall come and fetch it. In the mean while, keep it for me.
 
 And keep your brave and generous friendship for me. I press your hand, poet in marble.
 
-### Letter 104: Victor Hugo → Emile Deschanel
+### Letter 102: Victor Hugo → Emile Deschanel
 
 ### X.
 
@@ -1994,7 +1960,7 @@ V. H.
 
 Make haste, make haste with the little promised Deschanel!
 
-### Letter 105: Victor Hugo → Alexandre Dumas
+### Letter 103: Victor Hugo → Alexandre Dumas
 
 ### XI.
 
@@ -2010,7 +1976,7 @@ I thank you for dedicating your drama *La Conscience* to me. My solitude had som
 
 Dear comrade in action, great and glorious colleague, I embrace you.
 
-### Letter 106: Victor Hugo → Mme. de Girardin
+### Letter 104: Victor Hugo → Mme. de Girardin
 
 ### XII.
 
@@ -2036,7 +2002,7 @@ The tables[^fn-p0142-3] do in fact tell us some surprising things. How I should 
 
 The tables enjoin on us silence and secrecy. You will therefore find nothing from them in the *Contemplations*, with the exception of two details, of great importance, it is true, for which I have *asked permission* (I underline these words), and which I will indicate by a note.
 
-### Letter 107: Victor Hugo → Emile Deschanel
+### Letter 105: Victor Hugo → Emile Deschanel
 
 ### XIII.
 
@@ -2060,7 +2026,7 @@ V. H.
 
 Tell my excellent friend Hetzel that I am rowing hard in his direction. The *Contemplations* will be an exceptional book. If ever there was a mirror of the soul, it will be this.
 
-### Letter 108: Victor Hugo → Mlle. Marie Hugo
+### Letter 106: Victor Hugo → Mlle. Marie Hugo
 
 ### XIV.
 
@@ -2076,7 +2042,7 @@ Dear child, so you are about to accomplish the solemn act of leaving the world. 
 
 I should have liked to see you once more on that last day for family meetings of which you tell me. God does not permit us this happiness; He has his ways. Let us be resigned. I will send the angel whom I have above to visit you. All that you are doing for your brother is good; I recognize in it your devoted, noble heart. Dear child, you and I are in the sweet and austere path of renunciation; we are nearer to each other than you imagine. Your serenity comes to me as a reflection of my own. Love, believe, pray; be blessed.
 
-### Letter 109: Victor Hugo → Michelet
+### Letter 107: Victor Hugo → Michelet
 
 ### XV.
 
@@ -2090,11 +2056,9 @@ I say nothing to a soul like yours. You, who will be one of the founders of the 
 
 <span class="small-caps">Victor Hugo.</span>
 
-I have just read some admirable pages of yours. But is this a time to speak to you of glory ? Yes, for your glory is “a soldier of God,” and is ever in attendance
+I have just read some admirable pages of yours. But is this a time to speak to you of glory ? Yes, for your glory is “a soldier of God,” and is ever in attendance on human thought. Let your labors, which are your crown, be your consolation.
 
-on human thought. Let your labors, which are your crown, be your consolation.
-
-### Letter 110: Victor Hugo → George Sand
+### Letter 108: Victor Hugo → George Sand
 
 ### XVI.
 
@@ -2104,7 +2068,7 @@ on human thought. Let your labors, which are your crown, be your consolation.
 
 I hear that a calamity has befallen you. You have lost a little child. You are suffering. Will you allow one who admires you and loves you to take your hand in his and to tell you that you have all his sympathy? Your grief is mine, for the same reason that makes your success my happiness. Great soul, I suffer in you. I believe in angels; I have some in heaven, I have some on earth. Your little darling is now a sweet winged soul, hovering o'er your illustrious head. There is no death. All is life, love, light, or waiting for the light. I offer you my tender respect. I regard you with sincere affection.
 
-### Letter 111: Victor Hugo → Mme. Victor Hugo
+### Letter 109: Victor Hugo → Mme. Victor Hugo
 
 ### XVII.
 
@@ -2120,7 +2084,7 @@ The consul with a white tie on (the Laurent of this place) was present when I la
 
 It seems that the local authorities have said that we shall be unmolested here, provided we do not create any difficulties. We are looked on as malefactors. But volcanoes are not to be extinguished with pails of water.
 
-### Letter 112: Victor Hugo → Thomas Gregson / Joseph Cowen
+### Letter 110: Victor Hugo → Thomas Gregson / Joseph Cowen
 
 ### XVIII.
 
@@ -2136,7 +2100,7 @@ Pray tell my friends of the committee, and your friends of the meeting, how much
 
 Demonstrations like yours, like those which have just taken place in London, like those which are in preparation at Glasgow, consecrate, draw closer, and cement, not the idle, spurious, baneful, effete alliance between the present English cabinet and the Bonapartist empire, but the true, necessary, eternal alliance between the free people of England and the free people of France.
 
-### Letter 113: Victor Hugo → Franz Stevens
+### Letter 111: Victor Hugo → Franz Stevens
 
 ### XIX.
 
@@ -2158,7 +2122,7 @@ I write this to you somewhat promiscuously, somewhat at random. Try to realize t
 
 It is from this never-ending contemplation that I arise to write to you. Therefore take my letter as it is, take my thoughts as they come, — somewhat disconnected, somewhat disarranged by all this gigantic oscillation of the infinite. What is fixed and steadfast is the soul in presence of God, and conscience in presence of truth; and also — and I will end by this — the profound sympathy with which young men like you inspire me.
 
-### Letter 114: Victor Hugo → Villemain
+### Letter 112: Victor Hugo → Villemain
 
 ### XX.
 
@@ -2172,7 +2136,7 @@ But you, too, have wept; you, too, have suffered; you, too, are bleeding. Hence 
 
 Dear friend, I often think of you. Exile has not only detached me from France, it has almost detached me from the earth; and there are moments when I feel as if I were dead, and when I seem to be already living the great sublime life beyond the tomb. It is then that my thoughts revert to all those whom I have loved in this world below. . . .
 
-### Letter 115: Victor Hugo → Louis Boulanger
+### Letter 113: Victor Hugo → Louis Boulanger
 
 ### XXI.
 
@@ -2186,7 +2150,7 @@ You are happy now; you say so in your letter. I feel it and I love you.
 
 You have read that book, and you know my feelings by it. I know yours by the way you speak to me of it. I should now like to make the acquaintance of your wife; I am sure she is noble and charming. In my eyes you shine as it were in a soft halo; you seem to me to have kept your youth. And I, from the depths of the vast darkening twilight which enfolds me, send you and her, dear Louis, my fondest and tenderest greeting.
 
-### Letter 116: Victor Hugo → Barthélemy Enfantin
+### Letter 114: Victor Hugo → Barthélemy Enfantin
 
 ### XXII.
 
@@ -2204,7 +2168,7 @@ In those two books, *Dieu* and *La Fin de Satan*, you may be sure that I shall n
 
 Alas ! I am of very little account, but my heart is filled with deep love for liberty, which is man, and for truth, which is God. You have this twofold love as well as I; it is the life of your lofty mind; and it is a pleasure to me to greet you as a friend.
 
-### Letter 117: Victor Hugo → George Sand
+### Letter 115: Victor Hugo → George Sand
 
 ### XXIII.
 
@@ -2216,7 +2180,7 @@ Guernsey should be called Tibur, Ferney, or Port Royal, to be able to send a fit
 
 <span class="small-caps">Victor Hugo.</span>
 
-### Letter 118: Victor Hugo → George Sand
+### Letter 116: Victor Hugo → George Sand
 
 ### XXIV.
 
@@ -2236,7 +2200,7 @@ One thing pleases me, and that is that my book *Dieu* (three parts finished) ant
 
 You are an *esprit*; consequently I say to you familiarly, Thanks. And you are a woman, which gives me the right to kneel before you and respectfully to kiss your hand.
 
-### Letter 119: Victor Hugo → George Sand
+### Letter 117: Victor Hugo → George Sand
 
 ### XXV.
 
@@ -2244,9 +2208,9 @@ You are an *esprit*; consequently I say to you familiarly, Thanks. And you are a
 
 <span class="small-caps">Hauteville House</span>, 2*d October*, 1856.
 
-It is a joy to me to think that your great mind turns now and again towards mine; and when I find my name in your noble articles, it seems as if they were open letters from you to me. I should think myself an ungrateful being if I did not reply to them. However , you do not need thanks or applause. In this age, when almost every one is more or less insincere, you have the proud, simple bearing of a genuine character. In my solitude this communion of our souls, I may almost say of our hearts, makes me silently and profoundly happy. I feel as if I were linked to you in the contemplation of truth and the acceptance of sorrow; and I hail your serene and impressive testimony in favor of progress. Whoever despairs of man despairs of God, — that is to say, does not believe in Him. And all religions in the present day are atheistical; all curse the light, — that is to say, the very dawn of the heavenly countenance. *You* have faith because you are great. I thank you, I admire you, and, allow me to add, I love you.
+It is a joy to me to think that your great mind turns now and again towards mine; and when I find my name in your noble articles, it seems as if they were open letters from you to me. I should think myself an ungrateful being if I did not reply to them. However, you do not need thanks or applause. In this age, when almost every one is more or less insincere, you have the proud, simple bearing of a genuine character. In my solitude this communion of our souls, I may almost say of our hearts, makes me silently and profoundly happy. I feel as if I were linked to you in the contemplation of truth and the acceptance of sorrow; and I hail your serene and impressive testimony in favor of progress. Whoever despairs of man despairs of God, — that is to say, does not believe in Him. And all religions in the present day are atheistical; all curse the light, — that is to say, the very dawn of the heavenly countenance. *You* have faith because you are great. I thank you, I admire you, and, allow me to add, I love you.
 
-### Letter 120: Victor Hugo → Students of Paris
+### Letter 118: Victor Hugo → Students of Paris
 
 ### XXVI.
 
@@ -2260,7 +2224,7 @@ The eyes of the future rest on such as you. Among the signatures to the valuable
 
 I greet you all as I would my brothers or my children.
 
-### Letter 121: Victor Hugo → Edmond About
+### Letter 119: Victor Hugo → Edmond About
 
 ### XXVII.
 
@@ -2276,7 +2240,7 @@ Despise all that is not true, great, just, and beautiful. Your nature is an enli
 
 Take courage, then. You are entering bravely and successfully into the future.
 
-### Letter 122: Victor Hugo → Alexandre Dumas
+### Letter 120: Victor Hugo → Alexandre Dumas
 
 ### XXVIII.
 
@@ -2284,9 +2248,7 @@ Take courage, then. You are entering bravely and successfully into the future.
 
 <span class="small-caps">Hauteville House,</span> *8th March,* 1857.
 
-<span class="small-caps">Dear Dumas,</span> — The Belgian newspapers bring me,
-
-with all the splendid comments which you deserve, the letter which you have just written to the director of the *Théâtre Français.*
+<span class="small-caps">Dear Dumas,</span> — The Belgian newspapers bring me, with all the splendid comments which you deserve, the letter which you have just written to the director of the *Théâtre Français.*
 
 Great hearts are like great suns. They contain their own light and warmth. You have no need, therefore, of praise; you do not even need thanks; but I must tell you that I love you more every day, not only because you are one of the marvels of the age, but also because you are one of its consolations.
 
@@ -2296,7 +2258,7 @@ But pray come here; you know you promised to do so. Come and receive the greetin
 
 Your brother.
 
-### Letter 123: Victor Hugo → George Sand
+### Letter 121: Victor Hugo → George Sand
 
 ### XXIX.
 
@@ -2310,7 +2272,7 @@ I look on *Daniella* as a profound study of all the aspects of the heart. It is 
 
 So accept my homage with that of the rest. My house is nearly finished, and humbly hopes to receive you ; and I respectfully kiss your hand.
 
-### Letter 124: Victor Hugo → Arsène Houssaye
+### Letter 122: Victor Hugo → Arsène Houssaye
 
 ### XXX.
 
@@ -2322,7 +2284,7 @@ Your letter, my dear poet, has just reached me through our Brussels friend. It t
 
 Take courage; you have all the great consolations of poetry and art, and who should hope more than the poet? *Hecho de esperar*, as Calderon says.
 
-### Letter 125: Victor Hugo → George Sand
+### Letter 123: Victor Hugo → George Sand
 
 ### XXXI.
 
@@ -2336,7 +2298,7 @@ I have just been reading *Les beaux messieurs de Bois-Doré*, and every time I r
 
 My house is still but a hovel; it has been taken possession of by worthy Guernsey workmen, who, believing that I am grand, think themselves justified in making a little money out of “the rich French gentleman,” and in prolonging the work and the profit. I imagine, however, that it will be finished one day; and that then, perhaps, in some time or other, you will take a fancy to come to it, and consecrate a small corner of it by your presence and your memory. What do you say to that illusion? What a treasure illusions are! I love them, but I love realities still more, and a woman like you is a glorious reality in an age. Write, console, instruct, continue your grand work; live amongst us with the indulgent serenity of great affronted souls.
 
-### Letter 126: Victor Hugo → Jules Simon
+### Letter 124: Victor Hugo → Jules Simon
 
 ### XXXII.
 
@@ -2350,7 +2312,7 @@ It is almost a code that you have written; from one end to the other there is a 
 
 It has often happened to me in reading your works to feel the kind of surprise and delight that one experiences on finding one's own thoughts admirably expressed by another person. Your chapter on property, in particular, is one of the profoundest and most telling parts of your book. It is a great gift, and you possess it, to be able to enforce irrefutable theories by a captivating style. These two volumes, in which history is so powerfully appealed to in support of philosophy and facts in support of ideals, will rank as a great work. You have selected the right moment for defending liberty; there is no better time than the darkness for glorifying the light.
 
-### Letter 127: Victor Hugo → Adèle Hugo
+### Letter 125: Victor Hugo → Adèle Hugo
 
 ### XXXIII.
 
@@ -2368,7 +2330,7 @@ I hope, dear child, that you too will get to like it some day, and that, with yo
 
 My garden is the dress circle at that opera. Come back to it, my beloved daughter, with your dear mother, as soon as possible. I embrace you both tenderly.
 
-### Letter 128: Victor Hugo → George Sand
+### Letter 126: Victor Hugo → George Sand
 
 ### XXXIV.
 
@@ -2384,7 +2346,7 @@ As I am writing to you, I will not conclude without inclosing some lines which I
 
 When will you come to illumine my darkness?— Dear and great mind, I love and venerate you.
 
-### Letter 129: Victor Hugo → Villemain
+### Letter 127: Victor Hugo → Villemain
 
 ### XXXV.
 
@@ -2404,7 +2366,7 @@ Your book is one of those which gently produces a change of ecstasy. Instead of 
 
 I press your two hands in mine, my illustrious friend.
 
-### Letter 130: Victor Hugo → Alexandre Dumas
+### Letter 128: Victor Hugo → Alexandre Dumas
 
 ### XXXVI.
 
@@ -2424,7 +2386,7 @@ So you are starting. If I were Horace, how I would sing to Virgil's ship! You ar
 
 Your friend.
 
-### Letter 131: Victor Hugo → George Sand
+### Letter 129: Victor Hugo → George Sand
 
 ### XXXVII.
 
@@ -2440,7 +2402,7 @@ I am reading your admirable letter over again with delight and consolation. You 
 
 I respect and admire you.
 
-### Letter 132: Victor Hugo → Henri de Lacretelle
+### Letter 130: Victor Hugo → Henri de Lacretelle
 
 ### XXXVIII.
 
@@ -2454,7 +2416,7 @@ You have all the great and serious interests of poetry and art; your noble mind 
 
 Courage, dear poet. I press your hand tenderly.
 
-### Letter 133: Victor Hugo → Thécel
+### Letter 131: Victor Hugo → Thécel
 
 ### XXXIX.
 
@@ -2470,7 +2432,7 @@ George Sand is a luminous heart, a beautiful character, a generous combatant on 
 
 For my part, I have never felt more disposed to honor George Sand than now when she is being insulted.
 
-### Letter 134: Victor Hugo → Champfleury
+### Letter 132: Victor Hugo → Champfleury
 
 ### XL.
 
@@ -2488,12 +2450,11 @@ As long ago as 1830 I said, rejecting all appellations which are transitory and 
 
 The novel is almost a conquest of modern art; the novel is one of the forces of progress and one of the resources of human genius in this great nineteenth century; and you, by the precision as well as the elevation of your mind, are one of the masters of it.
 
-### Letter 135: Victor Hugo → M. Heurtelou
+### Letter 133: Victor Hugo → M. Heurtelou
 
 ### XLI.
 
-### *To* M. <span class="small-caps">Heurtelou</span>, *editor of the Progrès at Port-au-Prince*
-*(Haiti).*
+### *To* M. <span class="small-caps">Heurtelou</span>, *editor of the Progrès at Port-au-Prince* *(Haiti).*
 
 <span class="small-caps">Hauteville House</span>, 31*st March*, 1860.
 
@@ -2509,12 +2470,11 @@ Joint responsibility is no longer possible. The burden of such a crime cannot be
 
 Your brother.
 
-### Letter 136: Victor Hugo → Members of the Committee for erecting a monument to Ribeyrolles
+### Letter 134: Victor Hugo → Members of the Committee for erecting a monument to Ribeyrolles
 
 ### XLII.
 
-### *To* <span class="small-caps">the Members of the Committee</span> *for erecting a monument
-to Ribeyrolles, at Rio-de-Janeiro.*
+### *To* <span class="small-caps">the Members of the Committee</span> *for erecting a monument to Ribeyrolles, at Rio-de-Janeiro.*
 
 *4th November*, 1860.
 
@@ -2551,7 +2511,7 @@ Car l'idée est un glaive et l'âme est une force,
 Et la plume de Wilberforce  
 Sort du même fourreau que le fer de Brutus.
 
-### Letter 137: Victor Hugo → M. Chenay
+### Letter 135: Victor Hugo → M. Chenay
 
 ### XLIII.
 
@@ -2559,9 +2519,7 @@ Sort du même fourreau que le fer de Brutus.
 
 <span class="small-caps">Hauteville House</span>, 21*st January*, 1861.
 
-<span class="small-caps">Dear Monsieur Chenay</span>, — You expressed a wish
-
-to engrave my drawing of John Brown,[^fn-p0175-1] and now you desire to publish it ; I consent, and I add that I think it desirable.
+<span class="small-caps">Dear Monsieur Chenay</span>, — You expressed a wish to engrave my drawing of John Brown,[^fn-p0175-1] and now you desire to publish it ; I consent, and I add that I think it desirable.
 
 John Brown is a hero and a martyr. His death was a crime. His gibbet is a cross. You remember that I wrote at the foot of the drawing : *Pro Christo, sicut Christus.*
 
@@ -2571,7 +2529,7 @@ Let us then once more call the attention of all to the gibbet of Charlestown, as
 
 My drawing, which your fine talent has reproduced with such striking fidelity, has no value but in its name of *John Brown,* a name which must be continually repeated, — to the republicans of America, to remind them of their duty, to the slaves, to summon them to freedom.
 
-### Letter 138: Victor Hugo → M. Crémieux
+### Letter 136: Victor Hugo → M. Crémieux
 
 ### XLIV.
 
@@ -2589,12 +2547,11 @@ Lay at your daughter's feet the autograph she is good enough to ask for. I was a
 
 > I press your hand, my noble and generous friend.
 
-### Letter 139: Victor Hugo → Giuseppe Palmeri / Luigi Porta / Saverio Friscia
+### Letter 137: Victor Hugo → Giuseppe Palmeri / Luigi Porta / Saverio Friscia
 
 ### XLV.
 
-### *To* <span class="small-caps">Messrs. Giuseppe Palmeri, Luigi Porta, Saverio Friscia,</span>
-*Members of the Italian Managing Committee, at Palermo.*
+### *To* <span class="small-caps">Messrs. Giuseppe Palmeri, Luigi Porta, Saverio Friscia,</span> *Members of the Italian Managing Committee, at Palermo.*
 
 <span class="small-caps">Brussels</span>, 21*st June*, 1861.
 
@@ -2604,7 +2561,7 @@ In your eloquent letter, which touches me deeply, you inform me that my name has
 
 I accept with pleasure the place which you offer me among you. As far as my duty to democracy will allow I shall warmly second your efforts. You thank me in a grand fashion for the little I have done ; such thanks are a reward.
 
-Members of the Italian Committee, your undertaking is a sacred one. The restoration of a great people is more than a restoration, it is a resurrection. All the forces of progress converge on the aim which you pursue , and assist you. In founding Italy, you are not laboring solely for your own country, but for the world. United Italy is necessary to civilization.
+Members of the Italian Committee, your undertaking is a sacred one. The restoration of a great people is more than a restoration, it is a resurrection. All the forces of progress converge on the aim which you pursue, and assist you. In founding Italy, you are not laboring solely for your own country, but for the world. United Italy is necessary to civilization.
 
 The great Europe of the future is already beginning to take shape. The tendency of peoples is to group themselves in races, as a preliminary to grouping themselves in continents. These are the two phases of civilization which are logically linked together, the one leading up to the other: first national unity, then continental union. These two steps in advance will be the achievement of the nineteenth century; it has already nearly accomplished the first, it will not come to a close without having accomplished the second.
 
@@ -2612,7 +2569,7 @@ A time will come when frontiers will cease to exist. All wars will disappear in 
 
 Pending the realization of these sublime changes of the future, continue, persevere, advance; let all men of intelligence and feeling do the duty of the moment; let each nation demand its unity, the necessary contribution of each people to the great federal compact of the future; let a lofty political philosophy inspire and transform diplomacy itself; let whoever mutilates or diminishes a people be outlawed by humanity. Let us all be fellow-countrymen in progress, and let us all repeat, from the European as well as from the Italian point of view: Italy must have Venice and Rome, for without Venice and Rome there can be no Italy, and without Italy there can be no Europe.
 
-### Letter 140: Victor Hugo → Emile de Girardin
+### Letter 138: Victor Hugo → Emile de Girardin
 
 ### XLVI.
 
@@ -2628,7 +2585,7 @@ When the day comes for you to be free, your grand logic will burst forth in all 
 
 All the same, I am glad to have a talk with you. You are in my eyes one of the great servants of progress, of truth, of logic, and of liberty ; our differences are only reasons why we should try to understand each other thoroughly.
 
-### Letter 141: Victor Hugo → George Sand
+### Letter 139: Victor Hugo → George Sand
 
 ### XLVII.
 
@@ -2646,7 +2603,7 @@ When shall we be able to converse, and see each other, and tell each other all t
 
 It seems to me that, if you liked, you are prophet enough to make the mountain come to you. I kiss your hand, and I thank it and congratulate it on having written so many beautiful works.
 
-### Letter 142: Victor Hugo → George Sand
+### Letter 140: Victor Hugo → George Sand
 
 ### XLVIII.
 
@@ -2660,7 +2617,7 @@ Evidently one of us is wrong. Is it you ? Is it I ? As your outspokenness encour
 
 I had dreamed that you, the great George Sand, would understand my heart as I understand yours. At any rate, living a solitary life, face to face with my intention and alone with my conscience, I am sure, if not of my achievement, at all events of my purpose ; I am sure of my heart, which is the slave of justice, of the ideal, of reason, of all that is great, generous, beautiful, and true, of yourself.
 
-### Letter 143: Victor Hugo → George Sand
+### Letter 141: Victor Hugo → George Sand
 
 ### XLIX.
 
@@ -2674,7 +2631,7 @@ Do not be afraid of my becoming too much of a Christian. I believe in Christ as 
 
 Let us change the subject to you. Now you are happy into the bargain. Your son, who has something of your genius, is going to be married. Be successful in Paris and happy at Nohant. Live in an atmosphere of glory; that is a fitting lot for you. I kiss your hands, and I thank you for your adorable letters. I perceive that I am in love with you. Luckily I am an old man!
 
-### Letter 144: Victor Hugo → Lamartine
+### Letter 142: Victor Hugo → Lamartine
 
 ### L.
 
@@ -2698,7 +2655,7 @@ Your old friend,
 
 <span class="small-caps">Victor Hugo.</span>
 
-### Letter 145: Victor Hugo → Octave Lacroix
+### Letter 143: Victor Hugo → Octave Lacroix
 
 ### LI.
 
@@ -2706,9 +2663,7 @@ Your old friend,
 
 <span class="small-caps">Hauteville House</span>, 30*th June,* 1862.
 
-<span class="small-caps">Dear Sir,</span>—I readily answer your letter, for I
-
-recognize in you a valiant combatant for truth and right, and I greet a noble mind.
+<span class="small-caps">Dear Sir,</span>—I readily answer your letter, for I recognize in you a valiant combatant for truth and right, and I greet a noble mind.
 
 After having, like you, fought against the Second of December, I was banished from France. I wrote *Napoléon le Petit* at Brussels; I had to leave Belgium. I went to Jersey, and there fought for three years against the common enemy; the English government was subjected to the same pressure as the Belgian government, and I had to leave Jersey. I have been in Guernsey for seven years. I have bought a house here, which gives me the right of citizenship and protects my person; here I am safe from a fourth expulsion. However, I am bound to say that Jersey two years ago, and Belgium a year ago, spontaneously reopened their doors to me.
 
@@ -2718,7 +2673,7 @@ I live a retired life here, with my wife, my daughter, and my two sons, Charles 
 
 Here, dear sir, you have nearly all the details for which you ask me. Allow me to complete them by a cordial shake of the hand.
 
-### Letter 146: Victor Hugo → Paul de Saint-Victor
+### Letter 144: Victor Hugo → Paul de Saint-Victor
 
 ### LII.
 
@@ -2738,7 +2693,7 @@ You forgive me, do you not?
 
 Dear and great thinker, I press your hand.
 
-### Letter 147: Victor Hugo → Michelet
+### Letter 145: Victor Hugo → Michelet
 
 ### LIII.
 
@@ -2752,7 +2707,7 @@ I love everything in it: the lifelike style, which suffers with the martyr; the 
 
 The hermit thanks you for having sent him this tender, deep, and poignant book. He is a melancholy dreamer, often sadly overwhelmed by the contemplation and the haunting thought of all the suffering in the world; but when his hand feels the pressure of yours, a ray of light seems to pass before his eyes.
 
-### Letter 148: Victor Hugo → Emile de Girardin
+### Letter 146: Victor Hugo → Emile de Girardin
 
 ### LIV.
 
@@ -2766,7 +2721,7 @@ I learn that at a banquet of the *Presse* you had the splendid courage to evoke 
 
 Liberty will not return under the present régime. It is afraid of her, and it is right; liberty has a good memory, and no cohabitation is possible between her and this government, born of sudden crime, the *coup d'état,* and upheld by a continuous crime, despotism. I do not share your hopes, and on the other hand my hopes might seem illusions to you; but we are agreed, you and I, in our devotion to progress and to that irreducible liberty, the vanquished of to-day, the victor of to-morrow.
 
-### Letter 149: Victor Hugo → Members of the Democratic Club of Pisa
+### Letter 147: Victor Hugo → Members of the Democratic Club of Pisa
 
 ### LV.
 
@@ -2780,7 +2735,7 @@ This very day, Friday the 3d of April, it is eighteen hundred and sixty-three ye
 
 Since the Popes harden their hearts, since they despise Jerusalem, since they usurp Rome, Italy too will harden her heart. Italy will resume possession of Rome, as a matter of right and duty. She will resume possession of Rome, as she will resume possession of Venice. The Pope, like the Cæsar, is a foreign sovereign.
 
-### Letter 150: Victor Hugo → Lamartine
+### Letter 148: Victor Hugo → Lamartine
 
 ### <span class="small-caps">LVI.</span>
 
@@ -2794,7 +2749,7 @@ Your lofty spirit sees beyond the horizon ; you have a distinct vision of the fu
 
 She is still your companion ; invisible, but present. You have lost the wife, but not the soul. Dear friend, let us live in the dead.
 
-### Letter 151: Victor Hugo → George Sand
+### Letter 149: Victor Hugo → George Sand
 
 ### LVII.
 
@@ -2806,7 +2761,7 @@ Forgive this dreadful hotel paper. I am traveling, and I write to you on the fir
 
 You do not know how much I admire you. I take every opportunity of telling you so, and I thank you for giving me this one. There was, and perhaps there still is, something or other between you and me. But it has disappeared, or will disappear. The main thing for me is that I love you and understand you. You have a unique and exalted glory. You are the great woman of your age.
 
-### Letter 152: Victor Hugo → Minister of the Republic of Colombia
+### Letter 150: Victor Hugo → Minister of the Republic of Colombia
 
 ### LVIII.
 
@@ -2820,7 +2775,7 @@ You send me, on behalf of your free republic, a copy of your constitution. Your 
 
 Transmit, dear sir, my acknowledgments to your noble and free fellow-citizens, and receive the assurance of my high consideration.
 
-### Letter 153: Garibaldi → Victor Hugo
+### Letter 151: Garibaldi → Victor Hugo
 
 ### LIX.
 
@@ -2836,7 +2791,7 @@ Your friend for life,
 
 <span class="small-caps">Garibaldi.</span>
 
-### Letter 154: Victor Hugo → General Garibaldi
+### Letter 152: Victor Hugo → General Garibaldi
 
 ### LX.
 
@@ -2854,7 +2809,7 @@ Dear friend, I press your illustrious hand.
 
 <span class="small-caps">Victor Hugo.</span>
 
-### Letter 155: Victor Hugo → George Sand
+### Letter 153: Victor Hugo → George Sand
 
 ### LXI.
 
@@ -2866,7 +2821,7 @@ I hear that you have returned to Nohant. That is where my applause likes to go i
 
 My pleasures are but few; your success is one of them, and one of the best. You give our age an opportunity for being just. I thank you for being great and I thank you for being admired. In a gloomy period such as ours, your glory is a consolation.
 
-### Letter 156: Victor Hugo → Louis Blanc
+### Letter 154: Victor Hugo → Louis Blanc
 
 ### LXII.
 
@@ -2884,7 +2839,7 @@ If you think that my book does not prevent me from subscribing, you can at once 
 
 My friendship asks permission to abide by the decision of yours.
 
-### Letter 157: Victor Hugo → General Garibaldi
+### Letter 155: Victor Hugo → General Garibaldi
 
 ### <span class="small-caps">LXIII.</span>
 
@@ -2898,7 +2853,7 @@ The English people presents a noble spectacle at this moment. Be the guest of En
 
 The truth is that these cheers are a precursor of the deliverance.
 
-### Letter 158: Victor Hugo → Charles Hugo
+### Letter 156: Victor Hugo → Charles Hugo
 
 ### XIV.
 
@@ -2914,7 +2869,7 @@ Yes, my whole heart turns toward you and longs for yours. Return! return! Alas! 
 
 Ah, my God! to think of you so far away, so sad! What a crowd of troubles all at once! Return! return! I can say and think nothing else.
 
-### Letter 159: Victor Hugo → Mr. Tennant
+### Letter 157: Victor Hugo → Mr. Tennant
 
 ### LXV.
 
@@ -2922,9 +2877,7 @@ Ah, my God! to think of you so far away, so sad! What a crowd of troubles all at
 
 <span class="small-caps">Hauteville House</span>, 15*th May*, 1864.
 
-<span class="small-caps">Dear Mr. Tennant</span>, — Before writing the book to
-
-which you draw my attention, you had done the following things.
+<span class="small-caps">Dear Mr. Tennant</span>, — Before writing the book to which you draw my attention, you had done the following things.
 
 You had poor laborers around you. You lent them thirty acres of your best land. You divided these thirty acres into allotments. Each allotment was large enough for two cottages and two good gardens. And you said to the poor people around you: Here is land for any one who wants it. The alignment must be followed, not more than two cottages can be built on one allotment; the rent of each allotment is a guinea a year, and I will give you a lease of a thousand years. In a few weeks all the allotments were taken up, hundreds of landowners were created, the scheme grew as time went on, and the result at the present day is a small town in Wales, in Glamorganshire, the town of Skewen. Every landowner in Skewen is a voter, *i. e.*, a citizen. You have made more than a town, you have made a city.
 
@@ -2938,7 +2891,7 @@ I am now reading your book, or rather I am having it read to me, for I do not kn
 
 In the mean while I content myself with all the excellent, just, true, and cordial things for the people in your book. The people suffers; let us love it. I do not say this to you, the founder of towns; I say it to every one. Let us love each other. One day in a sentence, I forget where, I had written the word *aimer*; the compositor put *aider.* I accepted this misprint. Let us love each other, and let us help each other. Let the rich love and help the poor; let the poor love and help the rich. All have need of all.
 
-### Letter 160: Victor Hugo → George Sand
+### Letter 158: Victor Hugo → George Sand
 
 ### LXVI.
 
@@ -2962,7 +2915,7 @@ I close my letter in order to read yours again. I am told that there are people 
 
 I kneel before you and I kiss your hands.
 
-### Letter 161: Victor Hugo → Alexandre Dumas
+### Letter 159: Victor Hugo → Alexandre Dumas
 
 ### <span class="small-caps">LXVII.</span>
 
@@ -2970,13 +2923,11 @@ I kneel before you and I kiss your hands.
 
 <span class="small-caps">Hauteville House</span>, 16*th June*, [1865].
 
-<span class="small-caps">Dear Dumas</span>, — I have just read your letter in
-
-the *Presse.* I read it without surprise. Nothing in the way of bravery astonishes me from you; and in the way of cowardice nothing astonishes me from these people. You are the light; the Empire is the darkness; it hates you, that is simple enough; it wants to extinguish you, that is not so simple. It will have its trouble for nothing. The shadow which it will cast upon you will only enhance your brightness.
+<span class="small-caps">Dear Dumas</span>, — I have just read your letter in the *Presse.* I read it without surprise. Nothing in the way of bravery astonishes me from you; and in the way of cowardice nothing astonishes me from these people. You are the light; the Empire is the darkness; it hates you, that is simple enough; it wants to extinguish you, that is not so simple. It will have its trouble for nothing. The shadow which it will cast upon you will only enhance your brightness.
 
 A glorious incident for you, altogether, and honorable for me, and one on which I congratulate our old friendship.
 
-### Letter 162: Victor Hugo → George Sand
+### Letter 160: Victor Hugo → George Sand
 
 ### <span class="small-caps">LXVIII.</span>
 
@@ -2986,7 +2937,7 @@ A glorious incident for you, altogether, and honorable for me, and one on which 
 
 I have been away and traveling about all the summer. I am passing through Brussels for the marriage of my son Charles, and am on the way back to my rock in mid ocean. Paul Meurice has been speaking to me of you, and I feel the need of writing to you. Will you allow me to tell you that I am devotedly attached to you? There are moments in life when sympathy, deeper and tenderer than ever, mingles with the admiration inspired by a great mind. That is the feeling which I send you; that is the sort of respect which I lay at your feet.
 
-### Letter 163: Victor Hugo → Théodore de Banville
+### Letter 161: Victor Hugo → Théodore de Banville
 
 ### LXIX.
 
@@ -3004,7 +2955,7 @@ I saw in the papers that I had been away from Guernsey *two months;* it should h
 
 Yes, dear Banville, you are one of the fountain-heads of poetry in our time; and that is a glory, for never has a great epoch had a more lofty poetry. In that firmament, which is often dark but always profound, you will rank among the stars of the first magnitude. You are an Aldebaran of art.
 
-### Letter 164: Victor Hugo → George Sand
+### Letter 162: Victor Hugo → George Sand
 
 ### LXX.
 
@@ -3014,7 +2965,7 @@ Yes, dear Banville, you are one of the fountain-heads of poetry in our time; and
 
 You have just written me an admirable letter in the *Avenir national.* This article repays me for my book.[^fn-p0202-1] You are one of the great minds of France and of the world, and, what is the most beautiful thing in existence, a mind made up of heart. It is the heart, the large heart, which speaks in all that you utter, *urbi et orbi.* Having every tenderness, you have the right to promulgate every truth. There is something sublime and touching in witnessing the reappearance, in our century of doubt and strife, of the priestess in the imposing figure of George Sand. At their best, your ideas are heroic, because they are inspired by goodness. Hence your power. What you say of life, of death, of the grave, of the great gamut of souls on the lyre of the infinite, of the never-ending ascents, of the radiant transfigurations, — all this, which you bring before our eyes and into our thoughts, is true and pure, courageous to say, necessary to hear. A few minds, in our day, obtain notoriety by means of negation ; affirmation is left to the great souls. You have the right to the Yes. Use it. Use it for yourself and for all. God has one proof among men, — genius. You exist, therefore He exists. I look on a profession of affirmation as a service rendered to the human race, and when it is written by you, it has a double light, glory added to truth. You are sad, O consoler ! That enhances your greatness. Permit me to tell you that I am deeply moved.
 
-### Letter 165: Victor Hugo → Paul de Saint-Victor
+### Letter 163: Victor Hugo → Paul de Saint-Victor
 
 ### LXXI.
 
@@ -3030,7 +2981,7 @@ This law is found in nature as well as in art. It breaks forth in the sun and is
 
 You, in this age which is too much inclined toward matter, are a dispenser of the ideal. You render us the immense service of making us understand the soul of the universe, demonstrated by the masterpieces of art as well as by the marvels of the creation. You are one of the luminaries of the true and the beautiful. Every time that my name drops from your pen, I fancy that I hear a rustle of glory.
 
-### Letter 166: Victor Hugo → Gonfaloniere of Florence
+### Letter 164: Victor Hugo → Gonfaloniere of Florence
 
 ### LXXII.
 
@@ -3042,7 +2993,7 @@ You, in this age which is too much inclined toward matter, are a dispenser of th
 
 To receive from the Gonfaloniere of Florence, in the name of Italy, the jubilee medal of Dante, is an immense honor, and I am deeply touched by it. In your eyes my name is synonymous with France, and you say as much in grand terms. Yes, in me, as in all Frenchmen, there is something of the spirit of France, and this spirit of France is in favor of enlightenment, progress, peace, and liberty, and this spirit of France desires the greatness of all peoples, and this spirit of France has a sister in the spirit of Italy.
 
-### Letter 167: Victor Hugo → Mme. Rattazzi
+### Letter 165: Victor Hugo → Mme. Rattazzi
 
 ### LXXIII.
 
@@ -3054,7 +3005,7 @@ Alas! madam, I appeal to your noble and charming heart and to your generous mind
 
 <span class="small-caps">Victor Hugo.</span>
 
-### Letter 168: Victor Hugo → Henri de Pène
+### Letter 166: Victor Hugo → Henri de Pène
 
 ### LXXIV.
 
@@ -3062,9 +3013,7 @@ Alas! madam, I appeal to your noble and charming heart and to your generous mind
 
 <span class="small-caps">Hauteville House</span>, *27th February*, 1866.
 
-<span class="small-caps">My honorable and dear old Friend</span>, — I am
-
-much touched by your excellent letter. It is a pleasure to me to renew our friendly relations of former days. Your offers are the most splendid that have ever been made to a writer. I acknowledge your magnificence; but artistic considerations are paramount in my eyes, and even the half a million of francs which you offer me cannot overcome my scruples as an artist. I am convinced that *Les travailleurs de la mer* cannot be cut up into feuilletons. This mode of publication, excellent in itself and one which I am far from condemning, may perhaps suit *Quatrevingt-treize*, the book at which I am working just now.
+<span class="small-caps">My honorable and dear old Friend</span>, — I am much touched by your excellent letter. It is a pleasure to me to renew our friendly relations of former days. Your offers are the most splendid that have ever been made to a writer. I acknowledge your magnificence; but artistic considerations are paramount in my eyes, and even the half a million of francs which you offer me cannot overcome my scruples as an artist. I am convinced that *Les travailleurs de la mer* cannot be cut up into feuilletons. This mode of publication, excellent in itself and one which I am far from condemning, may perhaps suit *Quatrevingt-treize*, the book at which I am working just now.
 
 Your letter and telegram reached me only yesterday. Our dear mutual friend Paul Meurice will explain to you the isolation of Guernsey. I live a retired, serious life here.
 
@@ -3072,11 +3021,9 @@ You will understand my reasons for declining your superb and handsomely made off
 
 My warmest thanks for your cordial proposal. Allow me to put something of the future in the greeting which I send you.
 
-### Letter 169
+### Letter 167: Paul de Saint-Victor
 
 ### LXXV.
-
-### Letter 170: Paul de Saint-Victor
 
 ### *To* <span class="small-caps">Paul de Saint-Victor.</span>
 
@@ -3092,7 +3039,7 @@ Bear in mind that you are one of the props of the solitary poet. A page written 
 
 I seem to see my two poles marked out by you in your two articles on *Les chansons des rues et des bois* and *Les travailleurs de la mer*. Nothing escapes your powerful mind. You illumine the whole length and breadth of a work, and your star, after having lighted up the summit, reappears in the depths below.
 
-### Letter 171: Louis Boulanger
+### Letter 168: Louis Boulanger
 
 ### LXXVI.
 
@@ -3104,7 +3051,7 @@ I am not absent, dear Louis, since I still keep my place in your heart.
 
 Your letter charms and moves me ; there is a flavor of our youth in it. You still keep that youth. A little child should have a young father, and your child is six years old. This dawning life blends sweetly with your own, and you have the radiance of it. Be happy. I constantly have before me, in my poor exile's abode, several powerful and striking works signed *Louis Boulanger*. I look at them and I meditate. Where are the roses of last year ? You are still my beloved painter, the companion that I miss, one of those sweet brothers of the beginning, still more precious and more dear at the end.
 
-### Letter 172: Marc Fournier
+### Letter 169: Marc Fournier
 
 ### <span class="small-caps">lxxvii.</span>
 
@@ -3118,7 +3065,7 @@ If, at that time, you are still good enough to remember me, we shall be able to 
 
 Accept, my dear and worthy colleague, with the expression of my *present* regret, the assurance of my warm regard.
 
-### Letter 173: M. Cuvillier-Fleury
+### Letter 170: M. Cuvillier-Fleury
 
 ### <span class="small-caps">lxxviii.</span>
 
@@ -3132,7 +3079,7 @@ There are, and I regret it, many points of disagreement between us; but we are a
 
 Conscience, liberty; all the dignity of life resides in those two words. We can, therefore, in the Academy and everywhere else, exchange a cordial shake of the hand.
 
-### Letter 174: M. Lacaussade
+### Letter 171: M. Lacaussade
 
 ### <span class="small-caps">LXXIX.</span>
 
@@ -3150,7 +3097,7 @@ Thus, in the name of Boileau they polish Horace, and in the name of Racine they 
 
 Continue your great work on the lines of the ideal. I thank you for myself, and I applaud you for all.
 
-### Letter 175: Michelet
+### Letter 172: Michelet
 
 ### LXXX.
 
@@ -3162,7 +3109,7 @@ Continue your great work on the lines of the ideal. I thank you for myself, and 
 
 I thank you; I am only a witness of the nineteenth century. I will say this for myself, that I understand all the works of this great age, in which your place is such an exalted one. The sympathy which I feel for my time, and for the men of my time, constitutes all my pride and almost all my joy. Dear historian, dear philosopher, I press your hand, and I hail your luminous spirit.
 
-### Letter 176: Théodore de Banville
+### Letter 173: Théodore de Banville
 
 ### LXXXI.
 
@@ -3172,7 +3119,7 @@ I thank you; I am only a witness of the nineteenth century. I will say this for 
 
 I have just read *Gringoire.* You have written an exquisite work, intensely sad and intensely gay, like all true comedy. It is the sob of the poet mingling with the laugh of the philosopher. It is human destiny emphasized by ideal art. Your Louis XI. makes one shudder and smile; and what a charming figure of a woman between that spectre, the king, and that shadow, the poet! Your two ballads are beautiful and touching. I thank you, dear poet, for all the services which you render to the ideal. Go on giving me the pleasure of seeing you succeed. Thanks for my name side by side with yours.
 
-### Letter 177: Théodore de Banville
+### Letter 174: Théodore de Banville
 
 ### LXXXII.
 
@@ -3186,7 +3133,7 @@ You yourself are one of the purest and most exquisite of these springs; your dro
 
 I embrace you, O sweet poet of poets, O ideal exile, friend of the Dantes and the Homers. You have *every fault* of the swan; you sing as he does, but you will not die.
 
-### Letter 178: George Sand
+### Letter 175: George Sand
 
 ### LXXXIII.
 
@@ -3198,10 +3145,9 @@ The echo of your fame still reaches me, although having become a chronic recluse
 
 I offer you my humble tribute of admiration.
 
-### Letter 179: François Coppée
+### Letter 176: François Coppée
 
-### LXXXIV.
-*To* <span class="small-caps">François Coppée.</span>
+### LXXXIV. *To* <span class="small-caps">François Coppée.</span>
 
 <span class="small-caps">Chaudfontaine</span>, *29th August*, [1866].
 
@@ -3211,16 +3157,15 @@ We shall talk of you, of your fine book *Le reliquaire*, of art, of the ideal, o
 
 You will all three come, will you not, and dine with me at Brussels on the 15th ?
 
-### Letter 180: Mme. Chenay
+### Letter 177: Mme. Chenay
 
-### LXXXV.
-*To* <span class="small-caps">Mme. Chenay.</span>[^fn-p0213-1]
+### LXXXV. *To* <span class="small-caps">Mme. Chenay.</span>[^fn-p0213-1]
 
 <span class="small-caps">Chaudfontaine</span>, *3d September*, [1866].
 
 We received your letters safely, dear Julie. Just now my wife can neither read nor write, but we are around her, and we do duty for her eyes. I brought her here because the country is a sort of green curtain. The summer, a furnace everywhere, is a vapor-bath here. One is not roasted ; one is melted. It is a milder process. This steamy warmth and cool shade suit my wife. She has a whole forest for a screen. We shall be in Brussels about the 10th of September, and, if the equinox does not object too strongly, I hope to be in Guernsey by the end of September, if not earlier. It is high time for me to set to work again. We are all well here. As for me, my nightly spasms have been troubling me a little again, but I do not mention them to my family, as it would make them anxious, and there is no cause for anxiety. A little timely friction makes the symptoms disappear. I send you love from all who are mentioned in your letters, plus a pretty little smile from Master George. Victor is at Spa. I kiss you on both your cheeks, dear Julie.
 
-### Letter 181: Tuus ex imo. → Paul de Saint-Victor
+### Letter 178: Tuus ex imo. → Paul de Saint-Victor
 
 ### LXXXVI.
 
@@ -3238,7 +3183,7 @@ The occasional mention of my name by your noble pen gives me the illusion of glo
 
 *Tuus ex imo.*
 
-### Letter 182: Mme. Octave Giraud
+### Letter 179: Mme. Octave Giraud
 
 ### LXXXVII.
 
@@ -3258,7 +3203,7 @@ The whole history of the white man, the only one which has existed hitherto, is 
 
 Underneath our civilization, such as it is, with its magnificent deformities, its splendors, its trophies, its triumphs, its flourishes of trumpets, its rejoicings, a cry is heard. This cry rises from under our fêtes. We hear it through the marble of our temples and palaces. This cry is slavery. What a mission and what a task, to write the history of this cry !
 
-The proletariate in Europe, quite a different and no less vast a question, is connected by some of its ramifications with slavery. But the human problem in Europe is complicated by the social question, which imparts to it a tremendous originality. It is the tragic new-born child of modern fatality. In Africa, in Asia, in America , the situation, though not less heart-rending, is more simple. Color stamps its unity on the outcast and on the vanquished. The great funereal type is the negro. The slave has the same countenance as the darkness.
+The proletariate in Europe, quite a different and no less vast a question, is connected by some of its ramifications with slavery. But the human problem in Europe is complicated by the social question, which imparts to it a tremendous originality. It is the tragic new-born child of modern fatality. In Africa, in Asia, in America, the situation, though not less heart-rending, is more simple. Color stamps its unity on the outcast and on the vanquished. The great funereal type is the negro. The slave has the same countenance as the darkness.
 
 To dispel this fatal darkness is the supreme effort of civilization. We are on the brink of this victory. America is well-nigh delivered from slavery. I have said it more than once, — and I like to indulge in the hopeful thought, — the time is drawing near when man will be free. What are two colors under the same sun! what are two different shades, if on the pale face and on the dark face there is the same morning light, — fraternity!
 
@@ -3274,7 +3219,7 @@ He took this book in hand; he almost completed it. A short respite from death, a
 
 Such as it is, his work is considerable. The fragments which have been published in the newspapers, and which are known to all, have placed the history and the writer on a high pedestal. This poignant story has the pathetic interest of a drama. There is no more painful struggle, no more tragic contest. The whole question at issue between the white man and the black man is there. M. Giraud gives it to us with the corroborating proofs. It is the brief against slavery made up and almost completed. Now let us decide the case. The sentence has been pronounced, we may say, by the conscience of the world, and slavery is condemned, and slavery is dead.
 
-### Letter 183: Albert Caise
+### Letter 180: Albert Caise
 
 ### LXXXVIII.
 
@@ -3290,7 +3235,7 @@ Personally I do not attach any importance to genealogical questions. The man is 
 
 In other words, I am not a Tangroville, I am a Tangrouille. I have no objection. If I could choose my forbears, I would rather have a hard-working cobbler for an ancestor than a lazy king.
 
-### Letter 184: George Sand
+### Letter 181: George Sand
 
 ### LXXXIX.
 
@@ -3302,7 +3247,7 @@ Yes, I suffer; yes, I hope. Your child has been restored to you, mine will retur
 
 Thanks.
 
-### Letter 185: Committee for erecting a Monument to Mickiewicz
+### Letter 182: Committee for erecting a Monument to Mickiewicz
 
 ### XC.
 
@@ -3324,7 +3269,7 @@ One day the United Peoples of Europe will say to Poland: Arise! and his great so
 
 Yes, Poland, that sublime spirit, lies there with the poet. Hail to Mickiewicz! Hail to the noble sleeper who will awake! He hears me, I know it, and he understands me. He and I are two absent ones. If, in my isolation and in my gloom, I have no crown to bestow in the name of glory, I have the right to fraternize with a spirit in the name of misfortune. I am not the voice of France, but I am the cry of exile.
 
-### Letter 186: Champfleury
+### Letter 183: Champfleury
 
 ### XCI.
 
@@ -3340,7 +3285,7 @@ I come to the point at once. I like the book. I like it because it is true and p
 
 Your story is life and truth from one end to the other. It is what you have observed, what you have seen; it is real; at the same time, nature is everywhere set off by art; hence, a book!
 
-### Letter 187: M. Chassagnac
+### Letter 184: M. Chassagnac
 
 ### XCII.
 
@@ -3356,7 +3301,7 @@ In the mean while, not being able to associate with the princes whom you admit, 
 
 I thank you for having informed me of the great and serious step in advance which you have just taken; the admission of black men among you is the beginning of equality, which the exclusion of princes will complete.
 
-### Letter 188: Revolutionary Committee of Porto Rico
+### Letter 185: Revolutionary Committee of Porto Rico
 
 ### XCIII.
 
@@ -3366,7 +3311,7 @@ I thank you for having informed me of the great and serious step in advance whic
 
 The Republic of Porto Rico has fought bravely for its liberty. The revolutionary committee acquaints me of this, and I thank it for doing so. Spain turned out of America! that is the great aim; that is the great duty for Americans. Cuba free like St. Domingo. I applaud all these great efforts. The liberty of the world is made up of the liberty of each people.
 
-### Letter 189: Alfred Sirven
+### Letter 186: Alfred Sirven
 
 ### XCIV.
 
@@ -3382,7 +3327,7 @@ A prison can be very large. A flat thing, on which a soldier walks about, descri
 
 Later on, I heard about the interior of Sainte-Pélagie from two old friends of mine, Béranger and Lamennais. Béranger wrote to me shortly before his death: “I began with imprisonment, and you end with exile.” And I replied to him: “All is for the best! Let us hope! The future is a dawn.”
 
-### Letter 190: Théodore de Banville
+### Letter 187: Théodore de Banville
 
 ### XCV.
 
@@ -3401,7 +3346,7 @@ Who on earth could have told you that I never put the names of my friends in my 
 
 Is there no chance of your coming to see my ocean? Just now it is terrible, but sublime. If you are not afraid of its wrath, come and spend a month or two with me. You will have a poor lodging, but will be well taken care of.
 
-### Letter 191: Alfred Asseline
+### Letter 188: Alfred Asseline
 
 ### XCVI.
 
@@ -3409,9 +3354,7 @@ Is there no chance of your coming to see my ocean? Just now it is terrible, but 
 
 <span class="small-caps">Hauteville House,</span> 22*d December,* 1867.
 
-<span class="small-caps">My dear Alfred,</span> — I have received your charming
-
-letter, and have looked carefully in the pockets of the pair of trousers. Result, nothing ! nothing ! nothing ! (Desmousseaux de Civré[^fn-p0224-1]). It is as empty as the noddle of an Academician. I am like Margaret of Savoy, a widow before the wedding. I am lamenting my loss.
+<span class="small-caps">My dear Alfred,</span> — I have received your charming letter, and have looked carefully in the pockets of the pair of trousers. Result, nothing ! nothing ! nothing ! (Desmousseaux de Civré[^fn-p0224-1]). It is as empty as the noddle of an Academician. I am like Margaret of Savoy, a widow before the wedding. I am lamenting my loss.
 
 It is probable that in packing the trousers they dropped the little case, which was in the fob. Do have a good search made.
 
@@ -3423,7 +3366,7 @@ Give my respects to your wife into the bargain, and be jealous.
 
 *Very latest.* — A lot of people in my house for the poor children's Christmas entertainment. A number of charming women. Your delightful case has been handed round. Universal admiration. Strange to say, it has not been stolen.
 
-### Letter 192: François Coppée
+### Letter 189: François Coppée
 
 ### XCVII.
 
@@ -3435,7 +3378,7 @@ Just as I was sending you my angry poetry, you were forwarding me your charming 
 
 Will you forward the inclosed to M. Paul Verlaine, your friend and mine?
 
-### Letter 193: Théophile Gautier
+### Letter 190: Théophile Gautier
 
 ### XCVIII.
 
@@ -3443,9 +3386,7 @@ Will you forward the inclosed to M. Paul Verlaine, your friend and mine?
 
 <span class="small-caps">Hauteville House</span>, 29*th April*, 1868.
 
-<span class="small-caps">Dear Théophile</span>,—I have just read your splendid
-
-article on *La légende des siècles.* I am more than touched by it; I am deeply moved. So sweet voices still reach me in my solitude. Our youthful attachment has become an old friendship. The great gulf between us does not prevent your glance from seeking mine and my hand from pressing yours. You give me one of your wreaths, you who have the right to all. As a poet, you are a spokesman of the ideal; as a critic, you are a spokesman of glory.
+<span class="small-caps">Dear Théophile</span>,—I have just read your splendid article on *La légende des siècles.* I am more than touched by it; I am deeply moved. So sweet voices still reach me in my solitude. Our youthful attachment has become an old friendship. The great gulf between us does not prevent your glance from seeking mine and my hand from pressing yours. You give me one of your wreaths, you who have the right to all. As a poet, you are a spokesman of the ideal; as a critic, you are a spokesman of glory.
 
 Why has a laurel grown on this spot? Because Petrarch once spoke there.
 
@@ -3453,7 +3394,7 @@ What was said of Petrarch will be said of you.
 
 Where your criticism casts its seed, the laurel will spring up.
 
-### Letter 194: Mme. Chenay
+### Letter 191: Mme. Chenay
 
 ### <span class="small-caps">xcix.</span>
 
@@ -3467,7 +3408,7 @@ On the 24th she was in perfect health, she was driving about Brussels with us in
 
 I send you my fond love, my dearest sister, as do all of us. Alas! your tears will flow as well as ours.
 
-### Letter 195: Auguste Vacquerie
+### Letter 192: Auguste Vacquerie
 
 ### <span class="small-caps">c.</span>
 
@@ -3479,7 +3420,7 @@ You are admirable as you always are, and you have done everything well. Thank yo
 
 As soon as you have received this letter, go and press your lips to the three graves for me.
 
-### Letter 196: Paul Meurice
+### Letter 193: Paul Meurice
 
 ### CI.
 
@@ -3489,7 +3430,7 @@ As soon as you have received this letter, go and press your lips to the three gr
 
 Meurice, my gentle and noble friend, I have read your touching farewell to the dear lost one, and my tears break forth afresh. They had stopped and were choking me. You make me weep. Thanks.
 
-### Letter 197: Victor Pavie
+### Letter 194: Victor Pavie
 
 ### CII.
 
@@ -3499,7 +3440,7 @@ Meurice, my gentle and noble friend, I have read your touching farewell to the d
 
 I am broken-hearted ; I feel that you still love me a little ; I hear your voice as the voice of my past and of my youth, a sweet and solemn appeal. I am old. I shall soon go to join the great soul which has just departed.
 
-### Letter 198: Théodore de Banville
+### Letter 195: Théodore de Banville
 
 ### CIII.
 
@@ -3511,7 +3452,7 @@ I am broken-hearted ; I feel that you still love me a little ; I hear your voice
 
 You know how to give fitting and lofty consolation. I suffer, and your message makes me feel that I am loved, and that I still live.
 
-### Letter 199: G. Margin
+### Letter 196: G. Margin
 
 ### CIV.
 
@@ -3540,7 +3481,7 @@ which, subtracted from the 48,500, leave me an income of my own of 12,000 francs
 
 All this is confidential and does not require publicity, for nothing in this little statement can interest the public. But I am anxious to give information to a high-minded and sympathetic man like you ; when opportunity offers, you will remember this letter, and when you see me calumniated, you will know the truth. That is enough for me. In public I prefer silence on such matters. One word more. Your correspondent is right if he meant that I *had* an income of 78,000 francs (and even more) out of the receipts from my plays; this is perfectly true, only my plays are not acted now. All this between ourselves.
 
-### Letter 200: François Morand
+### Letter 197: François Morand
 
 ### CV.
 
@@ -3569,7 +3510,7 @@ Do you want my word of honor about this? I give it to you. If you knew me well, 
 
 And I press your hand, and I thank you for having made me acquainted with Le Sage’s *Sérendib* and *L’Arlequin.* In politics, I would take exception to you; but in literary matters I accept you, my most amiable judge, my courteous colleague.
 
-### Letter 201: M. d'Alton-Shée
+### Letter 198: M. d'Alton-Shée
 
 ### CVI.
 
@@ -3585,7 +3526,7 @@ I have a long-standing and deep sympathy with you. You are a citizen with a gent
 
 I reply to your question. I heard of my appointment to the peerage on *the 16th of April,* 1845. Twenty years before, to a day, I had heard, almost in the same way, that I was decorated. I note this only because Lamartine and I were made members of the Legion of Honor on the same day (16th of April, 1825), no one else being appointed at the time.
 
-### Letter 202: Jules Claretie
+### Letter 199: Jules Claretie
 
 ### CVII.
 
@@ -3607,7 +3548,7 @@ This dismal dance is what I am sending you. Forgive me. It is repulsive, but use
 
 The present is not much more attractive. But what a Morrow you will have, you who are young! *I* shall be dead.
 
-### Letter 203: Mme. Rattazzi
+### Letter 200: Mme. Rattazzi
 
 ### CVIII.
 
@@ -3633,7 +3574,7 @@ To hide myself, to creep into France, even for the purpose of seeing you, of obe
 
 I keep your letter indelibly engraven on my heart. I was away when it arrived, and I have just found it on my return, and I write to you in deep emotion, for I fancy that it is your angelic soul which has just exhaled from the flower to which I have pressed my lips.
 
-### Letter 204: M. Coellopoulo
+### Letter 201: M. Coellopoulo
 
 ### CIX.
 
@@ -3647,7 +3588,7 @@ The cause of Crete is that of Greece, and the cause of Greece is that of Europe.
 
 I am but a single voice, stubborn, but lost in the triumphal tumult of reigning iniquity. What matter! listened to or not, I shall go on. You tell me that Crete asks me for what Spain has asked of me. Alas! I can but utter a cry. For Crete I have already done so; I will do it again. I belong to Greece as much as to France. I am ready to give my stanzas for Greece like Tyrtæus, and my blood like Byron. Your sacred country has my deepest love. I think of Athens as one thinks of the sun.
 
-### Letter 205: François Coppée
+### Letter 202: François Coppée
 
 ### CX.
 
@@ -3661,7 +3602,7 @@ You have harmoniously brought the moon into the landscape and melancholy into th
 
 To write a work like this is admirable; to achieve such a success is perfect. Our generous youth has understood you. You are a priest of the true and great art; the rising generation applauds you, and I cry out to you, Thanks! and to them, Bravo!
 
-### Letter 206: Mme. Cessiat de Lamartine
+### Letter 203: Mme. Cessiat de Lamartine
 
 ### CXI.
 
@@ -3669,9 +3610,9 @@ To write a work like this is admirable; to achieve such a success is perfect. Ou
 
 <span class="small-caps">Hauteville House,</span> *10th March,* 1869.
 
-Since the year 1821 I have been warmly attached to Lamartine. This friendship of fifty years now undergoes the momentary eclipse of death. I did not like, just at first, to intrude on your sorrow with my sympathy ; but at the present moment you will allow me, will you not, to communicate to you — to you who were connected with him by blood, who loved him and were loved by him — my profound grief. Every form of glory, from popularity to immortality, belongs to Lamartine, luminous poet, powerful and immortal orator. He seems dead to us, he is not really so. Lamartine has not ceased to give forth his light. Henceforth he shines with a twofold radiance: in our literature as a genius, and in the great unknown life as a star.
+Since the year 1821 I have been warmly attached to Lamartine. This friendship of fifty years now undergoes the momentary eclipse of death. I did not like, just at first, to intrude on your sorrow with my sympathy; but at the present moment you will allow me, will you not, to communicate to you — to you who were connected with him by blood, who loved him and were loved by him — my profound grief. Every form of glory, from popularity to immortality, belongs to Lamartine, luminous poet, powerful and immortal orator. He seems dead to us, he is not really so. Lamartine has not ceased to give forth his light. Henceforth he shines with a twofold radiance: in our literature as a genius, and in the great unknown life as a star.
 
-### Letter 207: Victorien Sardou
+### Letter 204: Victorien Sardou
 
 ### CXII.
 
@@ -3683,7 +3624,7 @@ Since the year 1821 I have been warmly attached to Lamartine. This friendship of
 
 Your triumphant work, *Patrie,* rekindles lofty sentiments and proud thoughts, and you, at any rate, are entitled to say to the spectators whose republicanism you have just reinvigorated: *Plaudite cives!*
 
-### Letter 208: Mme. Chenay
+### Letter 205: Mme. Chenay
 
 ### CXIII.
 
@@ -3697,7 +3638,7 @@ You may prepare for that occasion the various triumphal arches you have in stock
 
 I hope the wind will go down. The crossing from Ostend, very good for the first four hours, was awful at the end. I kiss you on your two nice cheeks.
 
-### Letter 209: Victor Hugo → Swinburne
+### Letter 206: Victor Hugo → Swinburne
 
 ### CXIV.
 
@@ -3714,7 +3655,7 @@ Thanks, *ex imo corde*, for your splendid article on my book.[^fn-p0239-1] What 
 
 <span class="small-caps">Victor Hugo.</span>
 
-### Letter 210: L. Hugonnet
+### Letter 207: L. Hugonnet
 
 ### CXV.
 
@@ -3728,7 +3669,7 @@ When the Republic returns, justice will return. The real light of France will sh
 
 You are a young and noble mind. Your generation, somewhat belated, will end by doing great things, in which you will share. I congratulate you beforehand. *I* shall be dead. I shall bequeath to you all my spirit.
 
-### Letter 211: François Coppée
+### Letter 208: François Coppée
 
 ### CXVI.
 
@@ -3742,7 +3683,7 @@ I have received, from you I believe, your fine poem *Les forgerons. Qua* philoso
 
 As for beauty, you know where to find it.
 
-### Letter 212: Henri Rochefort
+### Letter 209: Henri Rochefort
 
 ### <span class="small-caps">CXVII.</span>
 
@@ -3756,7 +3697,7 @@ You are now in prison; I congratulate the Revolution. Your popularity is as unbo
 
 I am, as ever, your sincere friend, and I press your hand, dear prisoner, dear conqueror.
 
-### Letter 213: Edgar Quinet
+### Letter 210: Edgar Quinet
 
 ### <span class="small-caps">CXVIII.</span>
 
@@ -3768,7 +3709,7 @@ Old age is the age of adding up, for thoughts as well as for years, for the mind
 
 This mysterious rejuvenation, of which, like you, I am aware, this doubling of the moral and intellectual forces while the material force is sinking, this growth in decay, what a magnificent proof it is of the soul! The enfeebled cerebral matter gives forth a more vigorous thought. Of the two beings, the one organic, the other essential, which make up the man, the first crumbles away, the second breaks its bonds. The mind sees the grave and feels the spring. It creates up to the last moment—sublime promise of the great unknown life which it is about to enter. Its span augments. The process resembles an unfolding of the wings.
 
-### Letter 214: Victor Hugo → Paul Verlaine
+### Letter 211: Victor Hugo → Paul Verlaine
 
 ### CXIX.
 
@@ -3786,7 +3727,7 @@ What a number of delicate and ingenious things in that pretty little book, *Les 
 
 <span class="small-caps">Victor Hugo.</span>
 
-### Letter 215: M. d'Alton-Shée
+### Letter 212: M. d'Alton-Shée
 
 ### CXX.
 
@@ -3798,7 +3739,7 @@ What a number of delicate and ingenious things in that pretty little book, *Les 
 
 The United States of Europe speaking German would mean a delay of three hundred years. A delay, that is to say, a step backward. When I see you, I will develop this idea. But nothing through Bonaparte! nothing from this frightful war!
 
-### Letter 216: Paul Meurice
+### Letter 213: Paul Meurice
 
 ### CXXI.
 
@@ -3816,7 +3757,7 @@ All this without prejudice to my duty in other respects. I want no share of powe
 
 My gentle and intrepid friend, what happiness to do one's duty by your side!
 
-### Letter 217: Paul Meurice
+### Letter 214: Paul Meurice
 
 ### CXXII.
 
@@ -3832,7 +3773,7 @@ It is evident that a decisive battle, victory or defeat, Jena or Rosbach, will c
 
 I shall not make up my mind until the situation clears. In case of a Rosbach, I shall go to Paris at once, for the danger may be great, and I feel that I belong alike to Europe and to Paris. To protect Paris with a living rampart will be the duty of all. In case of a Bonapartist victory and a *coup d'état,* I shall gather my family around me at Hauteville House; that is to say, that I offer you as well as Auguste hospitality there. In the mean while . . . we wait.
 
-### Letter 218: V. → Paul Meurice
+### Letter 215: V. → Paul Meurice
 
 ### CXXIII.
 
@@ -3897,15 +3838,13 @@ Charles, Claretie, and Frédéric are just starting for Virton. Fighting is goin
 
 ## IV. After the Fall of the Empire. 1870-1882.
 
-### IV. AFTER THE FALL OF THE EMPIRE.
-1870-1882.
+### IV. AFTER THE FALL OF THE EMPIRE. 1870-1882.
 
 * * *
 
-### Letter 219: Victor Hugo → General Trochu
+### Letter 216: Victor Hugo → General Trochu
 
-### I.
-*To* <span class="small-caps">General Trochu.</span>
+### I. *To* <span class="small-caps">General Trochu.</span>
 
 <span class="small-caps">Paris,</span> 25*th September,* 1870.
 
@@ -3915,10 +3854,9 @@ Faithfully yours,
 
 <span class="small-caps">Victor Hugo.</span>
 
-### Letter 220: Paul Meurice
+### Letter 217: Paul Meurice
 
-### II.
-*To* <span class="small-caps">Paul Meurice.</span>
+### II. *To* <span class="small-caps">Paul Meurice.</span>
 
 <span class="small-caps">Bordeaux,</span> 18*th February,* 1871.
 
@@ -3940,7 +3878,7 @@ This view is shared by the meeting of the Left, which includes Louis Blanc, Scho
 
 This morning the president of the national club of Bordeaux came to place its rooms at my disposal. The sympathy with me in the town is very great. I am popular in the street and unpopular in the Assembly. Good. And I embrace you.
 
-### Letter 221: Prefect → Paul Meurice
+### Letter 218: Prefect → Paul Meurice
 
 ### III.
 
@@ -3950,7 +3888,7 @@ This morning the president of the national club of Bordeaux came to place its ro
 
 M. Victor Hugo sends you the following telegram : *Terrible calamity. Charles died this evening, the* 13*th. Apoplectic seizure. Victor must return immediately.*
 
-### Letter 222: Paul Meurice / Auguste Vacquerie
+### Letter 219: Paul Meurice / Auguste Vacquerie
 
 ### IV.
 
@@ -3970,7 +3908,7 @@ I sent you a telegram. By the time these few lines reach you, I imagine Victor w
 
 Love me.
 
-### Letter 223: Paul Meurice
+### Letter 220: Paul Meurice
 
 ### V.
 
@@ -3988,7 +3926,7 @@ Yes, I did right in protesting, and I stopped the cowardly retreat of the Belgia
 
 I embrace you over and over again. Come!
 
-### Letter 224: Monsieur de Ségur
+### Letter 221: Monsieur de Ségur
 
 ### VI.
 
@@ -4010,7 +3948,7 @@ Then follow two pages in the same strain on Ledru-Rollin, who is called “an ol
 
 I shall not waste my time in telling you, sir, that in the ten lines quoted above there are as many lies as there are words. You know it already. I confine myself to noticing a literary criticism in the passage, the epithet “infamous” applied to *Les Misérables*.  In *Les Misérables* there is a bishop who is good, sincere, humble, brotherly, endowed with wit as well as kindness, and who unites every virtue to his sacred office. I suppose that is why *Les Misérables* is an infamous book. From which it must be inferred that *Les Misérables* would be an admirable book if the bishop were a malignant slanderer, an insulter, a tasteless and vulgar writer, a low scribbler of the basest kind, a circulator of police-court scandal, a croziered and mitred liar.  Would the second bishop be more true to life than the first?  This question concerns you, sir. You are a better judge of bishops than I am.
 
-### Letter 225: Duke Albert de Broglie
+### Letter 222: Duke Albert de Broglie
 
 ### VII.
 
@@ -4018,9 +3956,7 @@ I shall not waste my time in telling you, sir, that in the ten lines quoted abov
 
 <span class="small-caps">Auteuil, Villa Montmorency,</span> *8th August,* 1873.
 
-<span class="small-caps">My dear Duke and honorable Colleague</span>,— It
-
-is to the member of the French Academy that I write. A step of the gravest importance is on the point of being taken. One of the most famous writers of the day, M. Henri Rochefort, condemned for a political offense, is, so they say, to be transported to New Caledonia. All who know M. Henri Rochefort can testify that his very delicate constitution will not stand this transportation, and that he will either succumb to the long and trying voyage, or be killed by homesickness. M. Henri Rochefort is a father of a family, and leaves three children behind him, one a girl of seventeen.
+<span class="small-caps">My dear Duke and honorable Colleague</span>,— It is to the member of the French Academy that I write. A step of the gravest importance is on the point of being taken. One of the most famous writers of the day, M. Henri Rochefort, condemned for a political offense, is, so they say, to be transported to New Caledonia. All who know M. Henri Rochefort can testify that his very delicate constitution will not stand this transportation, and that he will either succumb to the long and trying voyage, or be killed by homesickness. M. Henri Rochefort is a father of a family, and leaves three children behind him, one a girl of seventeen.
 
 The sentence passed on M. Henri Rochefort affects his liberty only, the mode of carrying it out threatens his life.
 
@@ -4030,7 +3966,7 @@ The day when France hears that the grave has opened to receive this brilliant an
 
 A writer is concerned, and an original and uncommon one. You are a Minister and an Academician; your two duties agree here and assist one another. You would share the responsibility of the catastrophe which is foreseen and foretold; you can and you ought to interfere; you would honor yourself by taking this generous initiative, and, apart from all political opinions and passions, in the name of letters, to which you and I belong, I ask you, my dear colleague, to protect M. Henri Rochefort at this critical moment, and to prevent a departure which would mean his death.
 
-### Letter 226: Jules Claretie
+### Letter 223: Jules Claretie
 
 ### VIII.
 
@@ -4046,7 +3982,7 @@ The words underlined were recently written by me, and have made all the absoluti
 
 Go on. You have a brave heart as well as a charming mind. You have courage and talent; that is to say, the ladder for mounting to the attack, and the sword for forcing your way into the fortress.
 
-### Letter 227: George Sand
+### Letter 224: George Sand
 
 ### IX.
 
@@ -4056,7 +3992,7 @@ Go on. You have a brave heart as well as a charming mind. You have courage and t
 
 I am overwhelmed, but not prostrated. Your words stir my heart. You are like an elder sister to me. Those who have suffered know how to console. You prove it, you who are so strong and so gentle.
 
-### Letter 228: Alphonse Karr
+### Letter 225: Alphonse Karr
 
 ### X.
 
@@ -4072,7 +4008,7 @@ What you style “politics” has always appeared somewhat vague to me. For my p
 
 Dear old friend, great sorrows are the meeting-place of kind hearts. My hand presses yours.
 
-### Letter 229: Victor Hugo → Mlle. Louise Bertin
+### Letter 226: Victor Hugo → Mlle. Louise Bertin
 
 ### XI.
 
@@ -4086,7 +4022,7 @@ Receive the assurance of my respect.
 
 <span class="small-caps">Victor Hugo.</span>
 
-### Letter 230: George Sand
+### Letter 227: George Sand
 
 ### XII.
 
@@ -4100,7 +4036,7 @@ As a creator of masterpieces, you are the first among women; you have this uniqu
 
 Your books are of the kind which give light and warmth; just now we are threatened with an unaccountable increase of darkness; radiance such as yours is necessary; you set a good example. I love our age and I feel that it has need of light. I thank you for being such a lofty soul.
 
-### Letter 231: Committee for erecting a Statue to Lamartine
+### Letter 228: Committee for erecting a Statue to Lamartine
 
 ### XIII.
 
@@ -4110,7 +4046,7 @@ Your books are of the kind which give light and warmth; just now we are threaten
 
 France witnessed the appearance of a great poet in 1820, and of a great citizen in 1848. This poet, this citizen, this great man is Lamartine. I subscribe to his statue.
 
-### Letter 232: Freemasons of Lyons
+### Letter 229: Freemasons of Lyons
 
 ### XIV.
 
@@ -4126,7 +4062,7 @@ Governments, which are all monarchical at the present moment, have brought us, t
 
 The innumerable questions which rise tragically around us are all, at bottom, the same question. It would seem as if a mysterious need of reciprocal pardon were in the air. One is tempted to exclaim: Let us forgive one another. To forgive is to love. Governments which wage war, and governments which do not pardon, are all guilty of the same crime; want of clemency is a form of war, battles are executions. To make peace is to show mercy to mothers; to show mercy is to make peace among men. Let us not weary, then, of holding high aloft this double standard amid the wrath and the tumult: Republic abroad! amnesty at home!
 
-### Letter 233: Leconte de Lisle
+### Letter 230: Leconte de Lisle
 
 ### XV.
 
@@ -4134,11 +4070,9 @@ The innumerable questions which rise tragically around us are all, at bottom, th
 
 *9th June*, 1877.
 
-<span class="small-caps">My eminent and dear Colleague</span>, — I have voted
+<span class="small-caps">My eminent and dear Colleague</span>, — I have voted for you three times, I would have done so ten times. Continue your noble labors, and publish your lofty works, which are one of the glories of our age. In the presence of men like you, an Academy, and especially the French Academy, should think of this: that they have no need of it, and that it cannot do without them.
 
-for you three times, I would have done so ten times. Continue your noble labors, and publish your lofty works, which are one of the glories of our age. In the presence of men like you, an Academy, and especially the French Academy, should think of this: that they have no need of it, and that it cannot do without them.
-
-### Letter 234: Alfred Tennyson
+### Letter 231: Alfred Tennyson
 
 ### XVI.
 
@@ -4148,7 +4082,7 @@ for you three times, I would have done so ten times. Continue your noble labors,
 
 I read your splendid lines with emotion. It is a reflection of glory that you send me. How should I not love England, which produces men like you! the England of Wilberforce, the England of Milton and of Newton! the England of Shakespeare! France and England are a single nation to me, as truth and liberty are a single light. I believe in the human unity as I believe in the divine unity.
 
-### Letter 235: Members of the Free and Unsectarian Congress of Education
+### Letter 232: Members of the Free and Unsectarian Congress of Education
 
 ### XVII.
 
@@ -4170,7 +4104,7 @@ Citizens, the period for the dissolution of the old world has arrived. The ancie
 
 The Republic is the future!
 
-### Letter 236: Emperor of Austria
+### Letter 233: Emperor of Austria
 
 ### XVIII.
 

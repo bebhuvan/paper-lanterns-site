@@ -19,10 +19,10 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 115,
+  "letters": 114,
   "notes": 20,
   "pages": 212,
-  "dated_letters": 107
+  "dated_letters": 106
  },
  "provenance_tier": "machine_checked",
  "quality": {
@@ -258,7 +258,7 @@
   ],
   [
    1918,
-   4
+   3
   ],
   [
    1920,
@@ -274,7 +274,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 115,
+ "unperiodised_count": 114,
  "frontispiece": {
   "page": 4,
   "leaf": 3,
@@ -288,27 +288,27 @@
   {
    "format": "epub",
    "file": "tagore-letters-to-a-friend-1928.epub",
-   "bytes": 156584,
-   "sha256": "78cc8004b094c25beca2e8e7745aa2d073533c193cfb98b421547dba27e42d07"
+   "bytes": 196543,
+   "sha256": "0dcc274a2ddc94192846e95561a690ac0eef484b6c60832fd08ac0dd6c263fdc"
   },
   {
    "format": "markdown",
    "file": "tagore-letters-to-a-friend-1928.md",
-   "bytes": 321424,
-   "sha256": "350f36f54b1236947740647efb7232e3acd17caa6736d20618f8b36c9af3ef71"
+   "bytes": 321406,
+   "sha256": "db2105dae5b998783c9d50791964f503417b6bb5b73c8be4a089c527caea53e1"
   },
   {
    "format": "tei",
    "file": "tagore-letters-to-a-friend-1928.tei.xml",
-   "bytes": 393330,
-   "sha256": "b41edcf6a6ff29928b6fa47982063a26ba7876fc38323f8cc5a8cddc1251c3d5"
+   "bytes": 393914,
+   "sha256": "a55062c777da7115d189901920e4b1502d635557c5a37e83c06aef41abec39da"
   }
  ],
  "scan_base": "https://archive.org/download/letterstofriend00tago/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:24:37Z",
-  "source_ast_sha256": "76834c3f5142d495c84f8a0ac98a97c15f52704a3e0d0cfaa03ed4d21a39d22b",
+  "compiled_at": "2026-11-22T08:49:51Z",
+  "source_ast_sha256": "07d0aa829631417c90d14ee7fb066efd333e92cd4a8748b6ea3fc80669eef551",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -2,7 +2,7 @@
 
 - **Author / Editor**: Rabindranath Tagore, C. F. Andrews (ed.)
 - **Year**: 1928
-- **Letters**: 115
+- **Letters**: 114
 - **Pages**: 212
 
 ## Front Matter
@@ -33,9 +33,7 @@ UNWIN BROTHERS, LTD., WOKING</span>
 
 <span class="small-caps">FIRST PUBLISHED IN 1928</span>
 
-### <span class="small-caps">To</span>
-<span class="small-caps">the memory of</span>
-<span class="small-caps">W. Winstanley Pearson</span>
+### <span class="small-caps">To</span> <span class="small-caps">the memory of</span> <span class="small-caps">W. Winstanley Pearson</span>
 
 ### PREFACE
 
@@ -94,8 +92,7 @@ INDEX    194
 <span class="small-caps">Etching of Rabindranath Tagore</span> *Frontispiece*  
 *From the drypoint by Muirhead Bone*
 
-**<span class="small-caps">Facing
-Page</span>**
+**<span class="small-caps">Facing Page</span>**
 
 <span class="small-caps">Facsimile of Tagore's Mss.</span> 32
 
@@ -105,8 +102,7 @@ Page</span>**
 <span class="small-caps">Etching of Rabindranath Tagore</span> 120  
 *From the drypoint by Mukul Dey*
 
-### AN ESSAY ON
-THE BENGAL RENAISSANCE
+### AN ESSAY ON THE BENGAL RENAISSANCE
 
 ### I
 
@@ -172,8 +168,7 @@ That gracious vision is radiant and luminous. And there is not unmixed with it a
 
 If this supreme power of music and literature to create a new spirit in a whole people seems somewhat unreal in the West, it must be remembered that India still retains, deep below the surface, her living faith in the Unseen.
 
-### AN ESSAY ON THE
-PERSONALITY OF TAGORE
+### AN ESSAY ON THE PERSONALITY OF TAGORE
 
 ### I
 
@@ -231,9 +226,7 @@ It was during this long residence at Shileida that the deepest love for Bengal, 
 
 Rabindranath Tagore dated the next stage in his literary life from the time when he went to Santiniketan Asram from Shileida. He left his father's estate; and there seemed to come to him the strongest impression that a new period of adventure was about to arrive in his life. He anticipated some change, for which these quiet unbroken years in the country had been a preparation. Slowly there came to him the clear call to give up his life more wholly for his country. He first went to Calcutta in order to found a school, and afterwards to Santiniketan with the same object. On his arrival at Santiniketan, to take up this new work, he was handicapped for want of funds. “I sold my books,” he said to me pathetically.
 
-> I sold all my books, my copyrights, everything I had, in order to carry on the school. I cannot possibly tell you what a struggle it was, and what difficulties I had to go
-
-through. At first the object in view was purely patriotic, but later on it grew more spiritual. Then, in the very midst of all these outer difficulties and trials, there came the greatest change of all, the true *Varsha Sesha,*[^fn-p0031-1] the change in my own inner life.
+> I sold all my books, my copyrights, everything I had, in order to carry on the school. I cannot possibly tell you what a struggle it was, and what difficulties I had to go through. At first the object in view was purely patriotic, but later on it grew more spiritual. Then, in the very midst of all these outer difficulties and trials, there came the greatest change of all, the true *Varsha Sesha,*[^fn-p0031-1] the change in my own inner life.
 
 He went on to tell me how, when he was forty years old, his wife had died, and almost immediately after his daughter showed signs of consumption. He left the school and went away with his daughter to nurse her and tend her, but after six months of mingled hope and fear she passed away from his arms and left his heart still more desolate. Then came the third overwhelming wave of sorrow. His youngest son, to whom he had learnt to be father and mother in one, was taken suddenly ill with cholera and died in his presence —the child of his love.
 
@@ -280,8 +273,7 @@ Rabindranath Tagore
 
 Facsimile of the poet's hand writing
 
-### A LIST OF INDIAN PLACES, WORDS,
-AND PHRASES WITH THEIR MEANING
+### A LIST OF INDIAN PLACES, WORDS, AND PHRASES WITH THEIR MEANING
 
 | *Places.* | *Meaning.* |
 | --- | --- |
@@ -875,7 +867,7 @@ There was a time when my life seemed to be an overflow of spendthriftness in a r
 
 And am I not a poet? What business have I to be anything else? But unfortunately I am like an inn, where the poet lodger has to accommodate strange bedfellows by his side. Yet is it not high time for me to retire from this none too lucrative business of the innkeeper? Anyway, I am feeling tired, and my duty to my numerous lodgers is in imminent danger of being shamefully neglected.
 
-### Letter 41
+### Letter 41: W. W. Pearson
 
 <span class="small-caps">Shileida</span>, *July 20th*, 1917
 
@@ -884,8 +876,6 @@ The accompanying letter is from Pearson. I am glad that he has come out of his s
 After a separation of nearly a year and a half, I have come once more to my Padma and have renewed my courtship. She is unchanged in her changeableness. She is shifting her course and leaving the side of Shileida. She is showing a decided preference for Pabna. My only consolation is that she cannot remain constant for long.
 
 It is a beautiful day to-day. The sunshine is coming out after the fitful showers of rain, like a boy emerging from his dive in the sea with his naked limbs glowing and glistening.
-
-### Letter 42: W. W. Pearson
 
 <span class="small-caps">Calcutta</span>, *March 6th*, 1918
 
@@ -897,7 +887,7 @@ All blind methods are easy methods at the beginning. But such cheap methods as t
 
 I have just received a letter from Thadani, complaining of the insults and harassments which only Indian British subjects have to go through in British ports. These have the effect of making them feel ashamed of the Government under which they live. Such invidious treatment is sinking deeply into the memory of my people, and the moral providence of history cannot altogether ignore such an accumulated burden of indignities loaded upon humanity.
 
-### Letter 43: W. W. Pearson
+### Letter 42: W. W. Pearson
 
 <span class="small-caps">Santiniketan</span>, *March* 10*th*, 1918
 
@@ -919,7 +909,7 @@ The same happens with regard to our spiritual body. It is not by meticulous care
 
 But I must stop to find out if I have given in what I have written any answer to the original question you have put to me. It may be that I have not; for it is difficult to know exactly what you want of me. You have spoken of impersonal love and impersonal work, and you ask me which I consider to be the greater. To me, they appear as one, like the sun and the light; for love's expression is in work. Where love has no work, there is a dead world.
 
-### Letter 44: W. W. Pearson
+### Letter 43: W. W. Pearson
 
 <span class="small-caps">Santiniketan</span>, *October 6th*, 1918
 
@@ -931,7 +921,7 @@ Unfortunately, poets cannot be expected to enjoy lucid intervals for long. Direc
 
 I am going to move away from this place in a day or two, with the ostensible reason of visiting South India, from where invitations have been pouring in upon me for a long time; but I tell you in confidence, it is the lapse of reason—my frequent visitor—the Spirit of Truancy, that is beckoning me, ready to escort me over all lines of proscribed works. I long to discover some fairy-land of holidays—not a lotus-land—not a world where all weekdays are Sundays—but where Sundays are not at all needed, where all works carry their rest in themselves, where all duties look delightfully undutiful, like clouds bearing rain, appearing perfectly inconsequential.
 
-### Letter 45: W. W. Pearson
+### Letter 44: W. W. Pearson
 
 <span class="small-caps">Santiniketan</span>, *December* 11*th*, 1918
 
@@ -943,7 +933,7 @@ When we do not see ourselves in the Infinite, when we imagine our sorrow to be o
 
 Our emancipation lies through the path of suffering. We must unlock the gate of joy by the key of pain. Our heart is like a fountain. So long as it is driven through the narrow channel of self it is full of fear and doubt and sorrow; for then it is dark and does not know its end. But when it comes out into the open, on the bosom of the All, then it glistens in the light and sings in the joy of freedom.
 
-*[Illustration, p. 77]*
+*[Illustration, p. 85]*
 
 Rabindranath Tagore  
 *From the dry point by Mukul Dey*
@@ -978,7 +968,7 @@ But God in shame hastened to hide its memory under
 
 I have mentioned these facts because they belong essentially to the period covered by the letters which follow. They reveal the inner spirit of the Poet as at last, after long absence, he approached Europe in the year 1920. With a great effort he had recovered his serenity of mind. His faith in the generous spirit of the West had passed through its ordeal of fire. Deep down in his subconscious nature he had been wounded at heart by the events of the previous year in the Punjab. Therefore it was with great anxiety that I watched his vessel depart from Bombay, and went back to the Asram.
 
-### Letter 46
+### Letter 45
 
 <span class="small-caps">Red Sea</span>, *May 24th*, 1920
 
@@ -986,7 +976,7 @@ We shall reach Suez this evening. It is already beginning to grow cold, and now 
 
 To-day is Monday, and next Sunday morning our steamer will reach Marseilles. But I am already counting the days for my return journey; and I know the sight of the bare rocks of Aden will give a thrill of delight to my heart while pointing with lifted fingers the way to India.
 
-### Letter 47
+### Letter 46
 
 <span class="small-caps">London</span>, *June 17th*, 1920
 
@@ -994,7 +984,7 @@ Time is scarce, and sugar, and butter, and a quiet place where I can gather thou
 
 I am going to Oxford to-morrow. Then I shall be knocking about in different places. Just at this moment I am starting for a tea-party given in my honour, from which I cannot absent myself on any pretext, unless I can manage to be run over by a motor-car in the London streets. It is a matter of eternal wonder to me that this does not happen to me four times a day. You won't believe in my scarcity of time if I go on to the end of the note-paper. So I hastily bid you farewell.
 
-### Letter 48
+### Letter 47
 
 <span class="small-caps">London</span>, *July 8th*, 1920
 
@@ -1006,7 +996,7 @@ I hope Pearson is regularly furnishing you with all the news. He has been of ver
 
 I know our school vacation is over. The boys are back at school and the Asram is resounding with laughter and song. The advent of the rains is also contributing its portion to the general rejoicing. How I wish I had wings! Give my love to all the children, and my blessings.
 
-### Letter 49
+### Letter 48
 
 <span class="small-caps">London</span>, *July 12th*, 1920
 
@@ -1018,7 +1008,7 @@ This is a constant surprise to me. However, there is no question that one only t
 
 It is not unlikely that some time hence my thoughts will no longer be necessary to them and my personality will lose its flavour; but does it matter? The tree sheds its leaves, but the fact is that so long as these were living they brought sunshine into the heart of the tree and their voice was the voice of the forest; and my communication with Western humanity has been a communication of life. Even when it ceases, the fact remains that it brought some rays of light there, which have been transformed into the living stuff of their minds. Our span of life is short and opportunities are rare, so let us sow our seeds of thought where the soul claims them and where the harvest will ripen.
 
-### Letter 50
+### Letter 49
 
 <span class="small-caps">London</span>, *July 22nd*, 1920
 
@@ -1032,13 +1022,13 @@ The late events have conclusively proved that our true salvation lies in our own
 
 It is the sign of a feeble character to seek for a short-cut to fulfilment through the favour of those whose interest lies in keeping it barred—the one path to fulfilment is the difficult path of suffering and self-sacrifice. All great boons come to us through the power of the immortal spirit we have within us, and that spirit only proves itself by its defiance of danger and loss.
 
-### Letter 51
+### Letter 50
 
 <span class="small-caps">London</span>, *August* 1*st*, 1920
 
 We live on the topmost floor of this house far away from the surging life of the town. Only the crest of the swell of the London street-noise reaches me, gently undulating like those clustering tree-tops of Kensington Gardens that I watch from my window. The long and persistent spell of bad weather seems to have exhausted its spite, and the mellow light of the morning sun from behind the fleecy clouds is greeting me like the smile of a child whose eyes are still heavy with sleep. It is nearly seven o'clock, and every one of our party, including Pearson, is fast asleep within shut doors and behind drawn blinds. To-day is our last day in London, and I am not sorry to leave it. I wish it were the day for sailing home, but that day looks hazily distant and my heart aches.
 
-### Letter 52
+### Letter 51
 
 <span class="small-caps">London</span>, *August 4th*, 1920
 
@@ -1048,13 +1038,13 @@ P.S.—I have just written this about Dr. Geddes:—
 
 What so strongly attracted me in Dr. Patrick Geddes when I came to know him in India was not his scientific achievement but, on the contrary, the rare fact of the fullness of his personality rising far above his science. Whatever he has studied and mastered has become vitally one with his humanity. He has the precision of the scientist, and at the same time the vision of the prophet. He has also the power of an artist to make his ideas visible through the language of symbol. His love of man has given him the insight to see the truth of man and imagination to realize in the world not merely the mechanical aspect but also the infinite mystery of life.
 
-### Letter 53
+### Letter 52
 
 <span class="small-caps">Paris</span>, *August 13th*, 1920
 
 I have come to Paris, not to stay here, but to decide where to go. The sun is shining bright and the spirit of exhilaration is in the atmosphere. Sudhir Rudra received me at the station and made all arrangements for us. Pearson has gone to stay with his mother for some weeks before we start for America. Therefore I am in the hands of Sudhir just at present and he is taking proper care of me. Paris is empty, and there is no chance of our meeting the people whom I should like to meet. Our stay in England has been wasted. Your Parliament debates about Dyerism in the Punjab and other symptoms of an arrogant spirit of contempt and callousness about India have deeply grieved me, and it was with a feeling of relief that I left England.
 
-### Letter 54
+### Letter 53
 
 <span class="small-caps">Near Paris</span>, *August 20th*, 1920
 
@@ -1066,7 +1056,7 @@ And yet through the cracks and chinks of our walls we must send out our starved 
 
 Santiniketan is for this *tapasya* of India. We who have come there often forget the greatness of our mission, mostly because of the obscurity and insignificance with which the humanity of India seems to be obliterated. We have not the proper light and perspective in our surroundings to be able to realize that our soul is great; and therefore we behave as if we were doomed to be small for all time.
 
-### Letter 55
+### Letter 54
 
 <span class="small-caps">Ardennes</span>, *August 21st*, 1920
 
@@ -1076,7 +1066,7 @@ And therefore, though the sea is singing its hymns to the rising and setting sun
 
 I have just received your letter, and for some time I have felt myself held tight in the bosom of our Asram. I cannot tell you how I feel about the prolonged separation from it which is before me; but at the same time I know that unless my relationship with the wide world of humanity grows in truth and love, my relationship with the Asram will not be perfect.
 
-### Letter 56
+### Letter 55
 
 <span class="small-caps">Paris</span>, *September 7th*, 1920
 
@@ -1090,7 +1080,7 @@ That such a precious treasure of power should be put into the mean and frail ves
 
 Our time to go to Holland is drawing near. I have numerous invitations from over there to lecture, but I am not yet fully ready. Just now I am busy writing. My subject is the Meeting of the East and West. I hope it will be finished before I leave Paris.
 
-### Letter 57
+### Letter 56
 
 <span class="small-caps">Paris</span>, *September 12th*, 1920
 
@@ -1108,7 +1098,7 @@ In the heart of death, life has its ceaseless play of joy.
 
 Do we not know this in our individual life? Have we our own right to exist in this wonderful world? Would we not burn it, destroy it? Has not God's creative power given us our place in His universe? Must we forget that, when we judge and deal with our own fellow-beings?
 
-### Letter 58
+### Letter 57
 
 <span class="small-caps">Paris</span>, *September* 18*th*, 1920
 
@@ -1120,7 +1110,7 @@ It is not that I do not feel anger in my heart for injustice and insult heaped u
 
 It would be an insult to humanity if I use the sacred energy of my moral indignation for the purpose of spreading a blind passion all over my country. It would be like using the fire from the altar of sacrifice for the purpose of incendiarism.
 
-### Letter 59
+### Letter 58
 
 <span class="small-caps">Antwerp</span>, *October 3rd*, 1920
 
@@ -1128,7 +1118,7 @@ I have spent about a fortnight in Holland. This fortnight has been most generous
 
 I am writing this letter from Antwerp, where I came yesterday morning; and I am getting ready to go to Brussels, where I have an invitation. And then I go to Paris.
 
-### Letter 60
+### Letter 59
 
 <span class="small-caps">London</span>, *October 18th*, 1920
 
@@ -1151,9 +1141,7 @@ Since the Poet's conception of Visva-bharati lies in the background in all the l
 
 > The age has come when all artificial fences are breaking down. Only that will survive which is basically consistent with the universal; while that which seeks safety in the out-of-the-way hole of the special will perish. The nursery of the infant should be secluded, its cradle safe. But the same seclusion, if continued after the infant has grown up, makes it weak in mind and body.
 
-> There was a time when China, Egypt, Greece and Rome had, each of them, to nurture its civilization in comparative seclusion. The greatness of the universal, however, which was more or less in each, grew strong within
-
-its protecting sheath of individuality. Now has come the age for co-ordination and co-operation. The seedlings that were reared within their enclosures must now be transplanted into the open fields. They must pass the test of the world-market if their maximum value is to be obtained.
+> There was a time when China, Egypt, Greece and Rome had, each of them, to nurture its civilization in comparative seclusion. The greatness of the universal, however, which was more or less in each, grew strong within its protecting sheath of individuality. Now has come the age for co-ordination and co-operation. The seedlings that were reared within their enclosures must now be transplanted into the open fields. They must pass the test of the world-market if their maximum value is to be obtained.
 
 So we must prepare the grand field for the co-ordination of all the cultures of the world, where each will give to and take from the other; where each will have to be studied through the growth of its stages in history. This adjustment of knowledge through comparative study, this progress in intellectual co-operation, is to be the key-note of the coming age. We may hug our holy aloofness from some imagined security of a corner, but the world will prove stronger than our corner, and it is our corner that will have to give way, receding and pressing against its walls till they burst on all sides.
 
@@ -1167,7 +1155,7 @@ Let me state clearly that I have no distrust of any culture because of its forei
 
 Rabindranath Tagore suffered from illness during his visit to America, and this brought with it depression of mind. The response to his appeal for co-operation in his work of international fellowship was not at first as direct and full as he had expected. His longing to go back became at last intense. The letters which he wrote to me during these months were often full of gloom. Those that follow are some of the most important of them dealing with his ideal of a centre of international fellowship at Santiniketan.
 
-### Letter 61: Rabindranath Tagore → C. F. Andrews
+### Letter 60: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *October 28th*, 1920
 
@@ -1175,7 +1163,7 @@ Our steamer has arrived in port—too late for us to land to-night. Between one 
 
 You must know that our Santiniketan belongs to that future. We have not yet reached it. We need stronger faith and clearer vision to direct our course towards its hill of sunlight. There are chains which ‘still keep our boat clinging to the sheltered cove of the past. We must leave it behind. Our loyalty must not be for any land of a limited geography. It should be for the nationality of the common idea, to which are born individuals belonging to various nations, who are carrying their gifts of sacrifice to the one great shrine of Humanity.
 
-### Letter 62: Rabindranath Tagore → C. F. Andrews
+### Letter 61: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *November 4th*, 1920
 
@@ -1185,7 +1173,7 @@ I do not mean to say that there is anything wrong in politics, but only that it 
 
 We must clearly realize this fact, that the name of Santiniketan has a meaning for us, and this name will have to be made true. I am anxious and afraid lest the surrounding forces may become too strong for us and we succumb to the onslaught of the present time. Because the time is troubled and the minds of men distracted, all the more must we, through our Asram, maintain our faith in Shantam, Shivam, Advaitam.
 
-### Letter 63: Rabindranath Tagore → C. F. Andrews
+### Letter 62: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *November 25th*, 1920
 
@@ -1193,7 +1181,7 @@ A friend of mine, who is actively interested in my cause, is a Quaker, and he ta
 
 But my earnest request to you is to keep your mind high above politics. The problem of this new age is to help to build the world anew. Let us accept this great task. Santiniketan is to make accommodation for the workers from all parts of the world. All other things can wait. We must make room for Man, the guest of this age, and let not the Nation obstruct his path. I am afraid lest the cry of our own sufferings and humiliations should drown the announcement of His coming. For His sake we shall set aside our grievances and shall say: “Whatever may happen to us, let His cause triumph; for the future is His.”
 
-### Letter 64: Rabindranath Tagore → C. F. Andrews
+### Letter 63: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *November 30th*, 1920
 
@@ -1203,7 +1191,7 @@ The past has been for men, the future is for Man. These *men* are still fighting
 
 I was born a poet, and it is difficult for me to suffer myself to be rudely hustled in my path by busy men who have no leisure for ideas. I am not an athlete. I do not belong to the arena. The stare of the curious crowd scorches my soul. And yet I, of all persons, am called upon to force my way into the thick of the Western public with a mission for which I have never been trained. Truth fashions its own arrows out of reeds that are light and frail.
 
-### Letter 65: Rabindranath Tagore → C. F. Andrews
+### Letter 64: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *December 13th*, 1920
 
@@ -1215,7 +1203,7 @@ The giant reptiles of the primitive earth were proud of their hypertrophied tail
 
 That life which I dedicate to it, if it is true, will make it live. The true wisdom is there, which can spurn the greed for result and is only concerned with the expression of truth. This wisdom found its utterance in India. But there is imminent danger of its being drowned in the flood of noise which the votaries of success are bellowing forth in the prosperous West. My prayer is growing every day more and more intense, to get away from the dark tower of unreality, from this dance of death trampling sweet flowers of life under its tread.
 
-### Letter 66: Rabindranath Tagore → C. F. Andrews
+### Letter 65: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *December 17th*, 1920
 
@@ -1227,7 +1215,7 @@ The mischief is that ambition does not fully believe in love. It believes in pow
 
 Just now, I am on the top storey of the skyscraper to which the tallest of trees dare not send its whisper; but love silently comes to me saying: “When are you coming down to meet me on the green grass under the rustling leaves, where you have the freedom of the sky and of sunlight and the tender touch of life's simplicity?” I try to say something about money, but it sounds so ludicrous and yet so tragic, that my words grow ashamed of themselves and they stop.
 
-### Letter 67: Rabindranath Tagore → C. F. Andrews
+### Letter 66: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *December* 19*th*, 1920
 
@@ -1245,7 +1233,7 @@ In our mythology we have often heard of a man taking the side of the Gods and sa
 
 Those who are in possession of material resources have become slaves of their own instruments. Fortunately for us, in India, these resources are beyond all immediate possibility of realization. We are disarmed, and therefore we have no option but to seek for other and higher sources of power. The men who believe in the reality of brute force have made enormous sacrifices in order to maintain it. Let us, in India, have faith in the moral power in man and be ready to sacrifice for it all we have. Let us do our best to prove that Man has not been the greatest mistake in Creation. Let it not be said that, for the sake of peace and happiness in the world, the physical brutes were preferable to the intellectual brutes who boast of their factory-made teeth and nails and poison fangs.
 
-### Letter 68: Rabindranath Tagore → C. F. Andrews
+### Letter 67: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *December 20th*, 1920
 
@@ -1259,7 +1247,7 @@ But physical power is not creative. Whatever laws and organizations it may produ
 
 I only wish you had been with me in Europe! You would know at once what was the purpose of the modern age; what is the cry of man, which the politicians never hear. There were politicians in the courts of the Moghul Emperors. They have left nothing behind them but ruins. But Kabir and Nanak! They have bequeathed to us their imperishable faith in the unity of man through God's love.
 
-### Letter 69: Rabindranath Tagore → C. F. Andrews
+### Letter 68: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *December 21st*, 1920
 
@@ -1271,7 +1259,7 @@ Latterly I have been constantly giving myself a shaking, trying to arouse myself
 
 And yet I have received the gift of love from the West, and my heart acknowledges her claims to my service and I must unreservedly offer myself to her before I die. I do not belong to the present age, the age of conflicting politics. Nevertheless I cannot repudiate the age which has given me birth. I suffer and struggle. I crave for freedom and yet am held back. I must share the life of the present world, though I do not believe in its cry. I sit at its table, and while it fills its cup with wine to slake its unnatural thirst, I try to listen, through the noisy carousal, to the murmur of the stream carrying its limpid waters to the sea.
 
-### Letter 70: Rabindranath Tagore → C. F. Andrews
+### Letter 69: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *December 22nd*, 1920
 
@@ -1279,7 +1267,7 @@ To-day is the seventh of Paus. I wish it were allowed to me to stand among you a
 
 Oh, how simple is truth and how full of light and happiness! Not to be distracted by the curiosity of crowds, only to be rewarded by the approval of Him who knows our heart, in the fulfilment of our endeavour. I only hope that what I am doing here is in response to the call of the Shantam, that my lonely celebration of seventh Paus in this hotel room finds its harmony with your festival. Let our faith in the real be not overcome by the lure of the unreal. Let come to us what is good and not what we desire. Let us bow our heads to the Good, to the supreme Good.[^fn-p0117-1] I have often felt the desire that you were with me in my adventure. And yet I am deeply thankful that you could remain at the Asram while I was away. For you understand me with the understanding of love, and therefore through you I seem to dwell in Santiniketan. I know that I am in your mind to-day and you know that my heart is with you. Is it not a great good fortune that there is a spot in this world where all that is best in us can meet in truth and love? Can anything be greater than that? Please give my blessings to all my boys and girls, and my greetings of love to my friends.
 
-### Letter 71: Rabindranath Tagore → C. F. Andrews
+### Letter 70: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">Near New York</span>, *December 25th*, 1920
 
@@ -1291,7 +1279,7 @@ How to convince them of the utter vanity of their pursuits! They do not have the
 
 My heart feels like a wild-duck from the Himalayan lake lost in the endless desert of Sahara, where sands glitter with a fatal brilliance but the soul withers for want of the life-giving spring of water.
 
-### Letter 72: Rabindranath Tagore → C. F. Andrews
+### Letter 71: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *January 8th*, 1921
 
@@ -1307,7 +1295,7 @@ You may wonder, in your mind, as to the reason of my bringing up this topic in m
 
 This makes me think that it is safe to be nothing better than a mere poet. For poets have to be true to their best moments and not to other peoples' requirements.
 
-### Letter 73: Rabindranath Tagore → C. F. Andrews
+### Letter 72: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *January 14th*, 1921
 
@@ -1327,7 +1315,7 @@ But the negative process of making the soil poor produces a ghastly form of renu
 
 Deadness of life, in all forms, gives rise to impurities, by enfeebling our reason, narrowing our vision, creating fanaticism, owing to our will-power being forced into abnormal channels. Life carries its own purification when its sap finds the passage unbarred through all ramifications.
 
-### Letter 74: Rabindranath Tagore → C. F. Andrews
+### Letter 73: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *January 23rd*, 1921
 
@@ -1339,7 +1327,7 @@ Trees proceed on their upward career, not along a railway track constructed by e
 
 What has made us love Santiniketan so deeply is the ideal of perfection, which we have tasted all through its growth. It has not been made by money, but by our love, our life. With it we need not strain for any result; it is fulfilment itself—the life which forms round it, the service which we daily render it. Now I realize, more than ever before, how precious and how beautiful is the simplicity of our Asram, which can reveal itself all the more luminously because of its background of material poverty and want.
 
-### Letter 75: Rabindranath Tagore → C. F. Andrews
+### Letter 74: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *February 2nd*, 1921
 
@@ -1386,7 +1374,7 @@ Make the dark hours quiver with the agony of thy
 prayer,  
 Till the day dawns in the East.
 
-### Letter 76: Rabindranath Tagore → C. F. Andrews
+### Letter 75: Rabindranath Tagore → C. F. Andrews
 
 <span class="small-caps">New York</span>, *February 5th*, 1921
 
@@ -1407,7 +1395,7 @@ Yet I belong to that “Isle of Innisfree”: its true name is Santiniketan. But
 
 Oh! but how sweet is our *Sal* avenue, the breath of
 
-*[Illustration, p. 119]*
+*[Illustration, p. 127]*
 
 Rabindranath Tagore  
 *From the dry point by Mukul Dey*
@@ -1432,7 +1420,7 @@ And evening full of the linnet's wings.
 
 On the voyage to Europe the Poet wrote, day after day, a separate letter to me. He did the same on his later journey from Europe to India and with some amusement gave me the whole series from his own letter-case on arrival at Santiniketan. This will account for the different letters written on board ship which are reproduced in this volume.
 
-### Letter 77
+### Letter 76
 
 <span class="small-caps">New York</span>, *February 8th*, 1921
 
@@ -1452,7 +1440,7 @@ The ideas to which politicians still cling belong to a past that is doomed. It i
 
 I long to live in the heart of Peace. I have done my work, and I hope that my Master will grant me leave to sit by Him, not to talk, but to listen to His own great silence.
 
-### Letter 78
+### Letter 77
 
 <span class="small-caps">Houston, Texas</span>, *February 23rd*, 1921
 
@@ -1462,7 +1450,7 @@ I have not written to you for some time. For I am tired to the profound depth of
 
 Yet, since coming to Texas, I have felt as it were a sudden coming of Spring into my life through a breach in the ice castle of Winter. It has come to me like a revelation that all these days my soul had been thirsting for the draught of sunshine poured from the beaker of infinite space. The sky has embraced me, and the warmth of its caress thrills me with joy.
 
-### Letter 79
+### Letter 78
 
 <span class="small-caps">Chicago</span>, *February 24th*, 1921
 
@@ -1472,7 +1460,7 @@ Why did I not do so? No fool can say why he has been foolish. I have often dream
 
 The fool who is content to do nothing whatever is at any rate free from care; but the one who tries in vain to change the face of the world knows no peace. I long to go back to my ducks, and yet I madly whirl round these manufacturing towns like a breath of the wild south breeze stirring the leaves of the documents of an attorney's office. Does it not know that these leaves do not shelter the flowers that wait for its whisper of love? Why should I be anything else but a poet? Was I not born a music-maker?
 
-### Letter 80
+### Letter 79
 
 <span class="small-caps">Chicago</span>, *February 26th*, 1921
 
@@ -1486,7 +1474,7 @@ It is lost, but I had no right to lose it, for I did not earn it with the sweat 
 
 The poet who is true to his mission reaps his harvest of love; but the poet who strays into the path of the good is dismissed with applause. So I founded my International University—a great work! But I lose my little song—which loss can never be made up to me. How I wish I could find my reed again and be contemptuously ignored by the busy and the wise as a hopeless ne’er-do-well! When I know for certain that I shall never be able to go back to that sweet obscurity which is the birthplace of flowers and songs, I feel home-sick. It is a world which is so near and yet so far away; so easy of access and yet so immensely difficult. Happiness we go on missing in our life, because it is so simple.
 
-### Letter 81
+### Letter 80
 
 <span class="small-caps">Chicago</span>, *March 2nd*, 1921
 
@@ -1502,7 +1490,7 @@ What is Swaraj! It is *maya*; it is like a mist that will vanish, leaving no sta
 
 We, the famished ragged ragamuffins of the East, are to win freedom for all humanity. We have no word for “Nation” in our language. When we borrow this word from other people, it never fits us. For we are to make our league with *Narayan*,[^fn-p0136-1] and our triumph will not give us anything but victory itself: victory for God’s world. I have seen the West; I covet not the unholy feast in which she revels every moment, growing more and more bloated and red and dangerously delirious. Not for us is this mad orgy of midnight, with lighted torches, but awakenment in the serene light of the morning.
 
-### Letter 82
+### Letter 81
 
 <span class="small-caps">Chicago</span>, *March 5th*, 1921
 
@@ -1530,7 +1518,7 @@ I love my fellow-beings and prize their love. Yet I have been chosen by destiny 
 
 You know that I do not believe in the material civilization of the West, just as I do not believe the physical body to be the highest truth in man. But I believe still less in the destruction of the physical body, and the ignoring of the material necessities of life. What is needed is the establishment of harmony between the physical and spiritual nature of man, the maintaining of balance between the foundation and superstructure. I believe in the true meeting of East and West. Love is the ultimate truth of soul. We should do all we can not to outrage that truth, but to carry its banner against all opposition. The idea of non-co-operation unnecessarily hurts that truth. It is not our hearth-fire, but the fire that burns out our hearth and home.
 
-### Letter 83
+### Letter 82
 
 <span class="small-caps">New York</span>, *March 13th*, 1921
 
@@ -1558,7 +1546,7 @@ It cannot be true. What has caused the mischief is the fact' that for a long tim
 
 The West has misunderstood the East. This is at the root of the disharmony that prevails between them. But will it mend matters if the East in her turn tries to misunderstand the West? The present age has been powerfully possessed by the West; it has only become possible because to her is given some great mission for man. We, from the East, have come to her to learn whatever she has to teach us; for by doing so we hasten the fulfilment of this age. We know that the East also has her lessons to give, and she has her own responsibility of not allowing her light to be extinguished. The time will come when the West will find leisure to realize that she has a home of hers in the East where her food is and her rest.
 
-### Letter 84
+### Letter 83
 
 <span class="small-caps">New York</span>, *March 18th*, 1921
 
@@ -1574,7 +1562,7 @@ We are leaving Europe to-morrow and my days of exile are coming to an end. Very 
 
 Pearson is busy seeking health and happiness, making himself ready for the time when he will join us in India in the cold season.
 
-### Letter 85
+### Letter 84
 
 <span class="small-caps">s.s.</span> “<span class="small-caps">Rhyndam</span>”
 
@@ -1590,7 +1578,7 @@ But what is the use of complaining? The poets are too primitive for this age. If
 
 But I know, when I reach India, the Poet will be defeated; and I shall piously study the newspapers—every paragraph of them. But for the present even poetry is at a disadvantage—for the sea is rough, my head is swimming, and the English language is extremely difficult to manage in a rolling ship.
 
-### Letter 86
+### Letter 85
 
 <span class="small-caps">s.s. “Rhyndam”</span>
 
@@ -1604,7 +1592,7 @@ As for me who am the President of this *Panchayat*,[^fn-p0150-1] I have my deepe
 
 The rascal knows well how to flatter, and generally wins his case with me—especially when others are too certain of the result of their appeal; and I jump up from my judgement-seat and, holding the Poet by the hand, dance a jig and sing: “I shall join you, Comrade, and be drunk and gloriously useless.” Ah, my evil luck! I know why the chairmen of meetings hate me, newspaper editors revile me, and the virile call me effeminate! So I try to take shelter among the children, who have the gift of being glad with things and men that have no value.
 
-### Letter 87
+### Letter 86
 
 s.s. “<span class="small-caps">Rhyndam</span>”
 
@@ -1620,7 +1608,7 @@ We must remember that Hinduism is not the original Aryanism; in fact, a greater 
 
 Suppose, in our Swaraj, the anti-Brahmin community refuses to join hands with us; suppose, for the sake of its self-respect and self-expression, it tries to keep an absolute independence—patriotism will try to coerce it into an unholy union. For patriotism has its passion of power; and power builds its castle upon arithmetic. I love India, but my India is an Idea and not a geographical expression. Therefore I am *not* a patriot—I shall ever seek my compatriots all over the world. You are one of them, and I am sure there are many others.
 
-### Letter 88
+### Letter 87
 
 <span class="small-caps">s.s.</span> “<span class="small-caps">Rhyndam</span>”
 
@@ -1638,7 +1626,7 @@ Such a simple and happy ending of this drama has caused widespread unemployment 
 
 That the above story is a true one will, I am sure, be borne out by the testimony of even the august shade of Plato himself. This episode of the game of hide-and-seek of one in two should be sung by some poet; and therefore I request you to give it, with my blessing, to Satyendranath Datta,[^fn-p0155-1] that he may set it in those inimitable verse forms of which he is a master, and make it ring with the music of his happy laughter.
 
-### Letter 89
+### Letter 88
 
 <span class="small-caps">s.s. “Rhyndam”</span>
 
@@ -1652,7 +1640,7 @@ Santiniketan has been the playground of my own spirit. What I created on its soi
 
 This letter of mine will seem to you pessimistic. The reason is I am unwell and utterly home-sick; and the vision of home which haunts my mind night and day is “Amader Santiniketan.”[^fn-p0157-1] But the big towers of the International University obstruct its view. I am tired, to the marrow of my bones, trying all these months for a purpose and working in a direction which is against the natural current of my inner being.
 
-### Letter 90
+### Letter 89
 
 s.s. “<span class="small-caps">Rhyndam</span>”
 
@@ -1684,7 +1672,7 @@ What touched him most deeply was the spiritual longing that was behind it all—
 
 Such a rejection did not take place, because in the heart of the national movement, under the leadership of Mahatma Gandhi, there was a common centre in the universal principle of Ahimsa, or Non-violence, which Mahatma Gandhi professed. No one admired more than the Poet Mahatma Gandhi's spiritual appeal against brute force and his passionate devotion to the service of the poor.
 
-### Letter 91
+### Letter 90
 
 <span class="small-caps">London</span>, *April* 10*th*, 1921
 
@@ -1698,7 +1686,7 @@ The fact is that the best people in all countries find their affinity with one a
 
 The following letter (a copy of which he enclosed) was in answer to a lady who had complained that the Poet had appeared to give vent to a feeling of anger against the British people in one of his lectures:—
 
-### Letter 92
+### Letter 91
 
 <span class="small-caps">London</span>, *April 12th*, 1921
 
@@ -1710,7 +1698,7 @@ It is not unlikely that some unsuspected remnant of race-consciousness in your m
 
 On the other hand, though I sometimes congratulate myself on my own freedom from race-consciousness, very likely a sufficient amount of it is lingering in my subconscious mind, making itself evident to outsiders in my writings through special emphasis of indignation at any unjust suffering or humiliation that my own country is made to undergo. I hope that I can claim forgiveness for this weakness, considering that I never try to condone any wrongs done by my own countrymen against others belonging to different countries from ours.
 
-### Letter 93
+### Letter 92
 
 <span class="small-caps">Autour du Monde, Paris</span>, *April* 18*th*, 1921
 
@@ -1742,7 +1730,7 @@ The spirit of fight and the spirit of harmony both have their importance in the 
 
 The civilization that fights and conquers for Man, and the civilization that realizes for him the fundamental unity in the depth of existence, are complementary to each other. When they join hands, human nature finds its balance; and its pursuits, through rugged paths, attain their ultimate meaning in an ideal of perfection.
 
-### Letter 94
+### Letter 93
 
 <span class="small-caps">Autour du Monde, Paris</span>, *April 21st*, 1921
 
@@ -1762,7 +1750,7 @@ Very likely I shall never be able to work with a Board of Trustees, influential 
 
 This letter of mine is to let you know that I free myself from the bondage of help and go back to join with you the great “Brotherhood of the Tramps,” who seem helpless, but are recruited by God for His own army.
 
-### Letter 95
+### Letter 94
 
 <span class="small-caps">Strasbourg</span>, *April 29th*, 1921
 
@@ -1785,7 +1773,7 @@ We have a number of Indian students in this place, among whom is Lala Harkishen 
 
 We have missed this week's letters, which are now evidently lost beyond recovery. It is difficult for me to forgive the Mediterranean for doing me this disservice! The present week's mail is due, and if Thos. Cook & Son are prompt about it we shall find our letters to-day!
 
-### Letter 96
+### Letter 95
 
 <span class="small-caps">Geneva</span>, *May 6th*, 1921
 
@@ -1807,7 +1795,7 @@ For passion is darkness. It exaggerates isolated facts and makes our minds stumb
 
 And therefore I embrace you, take my inspiration from your love and send you my birthday *namaskar*.[^fn-p0171-1]
 
-### Letter 97
+### Letter 96
 
 <span class="small-caps">Near Zürich</span>, *May* 10*th*, 1921
 
@@ -1825,7 +1813,7 @@ At the same time, I strongly protest against Mahatma Gandhi's depreciation of su
 
 In the modern age, Ram Mohun Roy had that comprehensiveness of mind to be able to realize the fundamental unity of spirit in the Hindu, Muhammadan and Christian cultures. Therefore he represented India in the fullness of truth; and this truth is based, not upon rejection, but on perfect comprehension. Ram Mohun Roy could be perfectly natural in his acceptance of the West, only because his education had been perfectly Eastern—he had the full inheritance of the Indian wisdom. He was never a schoolboy of the West, and therefore he had the dignity to be a friend of the West. If he is not understood by modern India, this only shows that the pure light of her own truth has been obscured for the moment by the storm-clouds of passion.
 
-### Letter 98
+### Letter 97
 
 <span class="small-caps">Hamburg</span>, *May 17th*, 1921
 
@@ -1847,7 +1835,7 @@ The Mussulmans came to India with a culture which was aggressively antagonistic 
 
 The mantram which gives our spiritual vision its right of entrance into the soul of all things is the mantram of India, the mantram of Peace, of Goodness, of Unity—Santam, Sivam, Advaitam. The distracted mind of the West is knocking at the gate of India for this. And is it to be met there with a hoarse shout of exclusion?
 
-### Letter 99
+### Letter 98
 
 <span class="small-caps">Hamburg</span>, *May 20th*, 1921
 
@@ -1859,7 +1847,7 @@ We are taught by our Western schoolmaster that there is nothing of importance th
 
 But our fathers had a clearer consciousness of a truth of freedom, which was never clipped of its wings and shut up in a geographical cage. I feel that my time has come for the realization of that truth; and I pray that I may never die a patriot, or a politician, but as a free spirit; not as a journalist, but as a poet.
 
-### Letter 100
+### Letter 99
 
 <span class="small-caps">Stockholm</span>, *May 27th*, 1921
 
@@ -1883,7 +1871,7 @@ When we hear “Bande Mataram” from the housetops, we shout to our neighbours:
 
 On the day after to-morrow we shall be leaving Sweden for Berlin. The Czecho-Slovakian Government has promised us an air trip from Berlin to Prague, and from Prague to Munich. From Munich we are expected to visit Darmstadt, where a gathering of some notable persons of Germany will be held to meet us. It will be over on or about the 15th of June, and then through France and Spain we shall be able to take our ship at the beginning of July—if not earlier.
 
-### Letter 101
+### Letter 100
 
 <span class="small-caps">Berlin</span>, *May 28th*, 1921
 
@@ -1891,7 +1879,7 @@ I am leaving Germany to-night for Vienna. From there I go to Czecho-Slovakia, an
 
 You can have no idea what an outbreak of love has followed me and enveloped me everywhere I have been in Scandinavia and Germany. All the same, my longing is to go back to my own people. I have lived my life there, done my work there, given my love there, and I must not mind if the harvest of my life has not had its full payment there. The ripening of the harvest itself brings its ample reward for me. And therefore the call comes to me from the field where the sunlight is waiting for me; where the seasons, each in turn, are making their inquiries about my home-coming. They know me, who all my life have sowed there the seeds of my dreams. But the shadows of evening are deepening on my path, and I am tired. I do not want praise or blame from my countrymen. I want to take my rest under the stars.
 
-### Letter 102
+### Letter 101
 
 <span class="small-caps">Berlin</span>, *June 4th*, 1921
 
@@ -1913,7 +1901,7 @@ I know the value of this love, and therefore my petition, to the Queen was:
 
 Ask Dinu what is the original of the following translation:—
 
-### Letter 103
+### Letter 102
 
 My *Vina* breaks out in strange disquiet measure,  
 My heart to-day is tremulous with the heart-throbs of  
@@ -1932,7 +1920,7 @@ And the wind breaks its fetters, distraught with the
 
 To-day is the 5th of June. Our steamer sails on the 3rd of July.
 
-### Letter 104
+### Letter 103
 
 <span class="small-caps">Darmstadt</span>, *June* 10*th*, 1921
 
@@ -1950,7 +1938,7 @@ These three subjects took up fully three hours. It is delightful to feel the ear
 
 Therefore our English educationalists do not inspire our minds. We do not realize that ideas are necessary in order to enable us to live a true life. We do not possess a genuine enthusiasm, which is the gift of the soul. Our principal object and occupation are going to be the dissipations of politics, whose goal is success, whose path is the zigzag of compromise—that politics which in every country has lowered the standard of morality, has given rise to a perpetual contest of lies and deceptions, cruelties and hypocrisies, and has increased inordinately national habits of vulgar vainglory.
 
-### Letter 105
+### Letter 104
 
 <span class="small-caps">s.s.</span> “<span class="small-caps">Morea</span>,” *July 5th*, 1921
 
@@ -1964,7 +1952,7 @@ For the same reason, when I used to have my dwelling on the bosom of the great r
 
 Who is there to save a poet from disaster? Can anybody give me back my good-for-nothingness? Can anyone restore to me the provision with which I began life's journey to the realm of inutility? One day I shall have to fight my way out of my own reputation; for the call of my Padma river still comes to me through this huge and growing barrier. It says to me: “Poet, where are you ?” And all my heart and soul try to seek out that poet. It has become difficult to find him. For the great multitude of men have heaped honours on him, and he cannot be extricated from under them. I must stop here—for the ship's engine is throbbing in a measure which is not that of my pen.
 
-### Letter 106
+### Letter 105
 
 <span class="small-caps">s.s. “Morea,”</span> *July 6th,* 1921
 
@@ -1978,7 +1966,7 @@ It is far better for a poet to miss his reward in this life rather than to have 
 
 I become frightened of such a possibility in me, for it is vulgar. Unfortunately, when a person has some mission of doing some kind of public good, his popularity becomes the best asset for him. His own people most readily follow him, when other people have the same readiness—and this makes it a matter of temptation for such an individual. A large number of his followers will consider themselves as deceived by him when the fickle flow of popularity changes its course.
 
-### Letter 107
+### Letter 106
 
 <span class="small-caps">s.s.</span> “<span class="small-caps">Morea</span>,” *July 7th*, 1921
 
@@ -1994,7 +1982,7 @@ I know that the idea which I have in mind requires the elimination of all passio
 
 During the last fourteen months of my campaign for an International University, I have said to myself over and over again: “Never let your pride be hurt at any prospect of failure; for failure can never affect truth. Strenuously keep all your attention on being true.” My weakness creeps in where I love. When those whom I love feel exultant at the expectation of success, it urges me to procure this toy for them.
 
-### Letter 108
+### Letter 107
 
 <span class="small-caps">s.s.</span> “<span class="small-caps">Morea</span>,” *July 8th*, 1921
 
@@ -2008,7 +1996,7 @@ You remember how Chitra, in my play of that name, became jealous of the physical
 
 Unfortunately facts are cited to show that all over the world the prudent and the wise are in the habit of making a pact with Mephistopheles to build roads to reach their God. Only they do not know that God has *not* been reached—and that success and God are not the same thing. When I think of all this, I feel a longing for the simplicity of poverty, which, like the covering of certain fruits, conceals and protects the richness and freshness of the deeper ideal. All the same, as I have said, the pursuit of success must not be abandoned for mere want of energy and spirit. Let it represent our sacrifice for the truth, and not for itself.
 
-### Letter 109
+### Letter 108
 
 s.s. “<span class="small-caps">Morea</span>,” *July 9th*, 1921
 
@@ -2024,7 +2012,7 @@ However, my point is that, as an idealist, it is immensely difficult for me to n
 
 I deeply regret that you could not accompany me in my last tour in Europe, though I understand the reasons that prevented you. If you had been with me, you would have been able fully to realize the great truth of the mission we have undertaken. To the majority of my countrymen the course of experience through which I passed will ever remain vague; and my appeal to them to view the history of our own country in the large background of humanity is not likely to carry any force. For my work I shall ever depend upon your comradeship, and therefore I feel sad that the reality of the ideal which has possessed me has missed its one signal chance of coming close to your heart. The perspective against which you have been recently setting up your scheme of life has been vastly different from mine. You have taken up responsibilities that may have to follow their own channels away from those that I shall have to choose; and the loneliness of my task, which has been my fatality in my past life, will follow me to the end of my days. But I must not complain. I shall follow the call of my providence, and I know that to respond to it in my own manner is fulfilment in itself, whatever may be its results.
 
-### Letter 110
+### Letter 109
 
 <span class="small-caps">s.s.</span> “<span class="small-caps">Morea</span>,” *July 12th*, 1921
 
@@ -2038,7 +2026,7 @@ The moment that we take part in the building up of civilization we are instantly
 
 But I am certain that we have every claim to this confidence, and that we must do everything to realize it. We do not want bragging; we need for ourselves the dignity of the man who knows that he has some purpose to fulfil for all people and for all time. This has made me bold to invite students and scholars from different parts of the world to an Indian University to meet there our students and scholars in a spirit of collaboration. I wonder if this idea of mine will find any response in the hearts of my countrymen of the present day.
 
-### Letter 111
+### Letter 110
 
 <span class="small-caps">s.s.</span> “M<span class="small-caps">orea</span>,” *July* 13*th*, 1921
 
@@ -2052,7 +2040,7 @@ The India about which I had been dreaming belongs to the world. The India that I
 
 Months ago, while sitting each day at my window in a New York hotel, my heart had been aching morning after morning for the time of my return—the day that should bring me back to the arms of Mother India. But to-day my heart is sad—like this dark heaving sea, under the rainy sky. I have been wondering in my own mind, during the last few days, whether it was not my mission to remain in Europe at least another year, where I was asked to stay. But it is too late now. From this time forward I must make the effort to train my attitude of mind to a condition for which I am not ready.
 
-### Letter 112
+### Letter 111
 
 <span class="small-caps">s.s.</span> “<span class="small-caps">Morea</span>,” *July* 14*th*, 1921
 
@@ -2068,7 +2056,7 @@ No, this is wrong for me, and it is also a source of wrong for others. Let me be
 
 Henceforth I shall have the chance of talking with you face to face. Yet distance has its own significance, and letters have their power of speech which tongues do not possess. And therefore, when we meet, some part of our thoughts will remain unuttered for the want of a great space and silence between us.
 
-### Letter 113
+### Letter 112
 
 <span class="small-caps">s.s.</span> “<span class="small-caps">Morea</span>,” *July 15th*, 1921
 
@@ -2088,7 +2076,7 @@ I suppose that the first few weeks I was lazy and depended upon Pearson to suppl
 
 T<span class="small-caps">he</span> following letter was sent to the Editor of the *Manchester Guardian*, Mr. C. P. Scott, by Rabindranath Tagore, with reference to his friend W. W. Pearson, and was published on November 27, 1923:—
 
-### Letter 114: Rabindranath Tagore → C. P. Scott
+### Letter 113: Rabindranath Tagore → C. P. Scott
 
 The news has reached us of W. W. Pearson's death through an accident which happened while he was travelling in Italy on the eve of his departure for India. He is not known to the wide public, but we feel sure that his loss is not merely a loss to the individuals who came into intimate touch with him. We seldom met with anyone whose love of humanity was so concretely real, whose ideal of service so assimilated to his personality, as it had been with him. The gift of friendliness, which he was ever ready to bestow upon the obscure, upon those who had nothing to attract the attention of their neighbours, was spontaneous in its generosity, completely free from all tinge of conscious or unconscious egotism, enjoying the luxury of the satisfied pride of goodness. The constant help which he rendered to those who were in need of it could have no reward in public recognition; it was as simple and silent as the daily fulfilling of his own personal requirements. His patriotism was for the world of man; he intimately suffered for all injustice or cruelty inflicted upon any people in any part of the earth, and in his chivalrous attempt to befriend them he bravely courted punishment from his own countrymen. He had accepted Santiniketan Asram for his home, where he felt he could realize his desire to serve the cause of humanity and express his love for India, which was deeply genuine in his nature, all his aspirations of life centring in her.
 
@@ -2098,7 +2086,7 @@ I know he has numerous friends in this country and outside India who admire the 
 
 <span class="small-caps">The</span> following letter from the Poet to his friend W. W. Pearson was found among his papers and was too late for insertion in the last chapter of this volume. I have therefore included it as an appendix.
 
-### Letter 115: Rabindranath Tagore → W. W. Pearson
+### Letter 114: Rabindranath Tagore → W. W. Pearson
 
 <span class="small-caps">Santiniketan</span>, *July 4th*, 1923
 
@@ -2362,8 +2350,7 @@ In this book of poetry there is an inspiring message for millions of the sore in
 
 “He has written a beautiful little book which can be read with profit by all who care for the deeper things of life.”—*Western Daily Press.*
 
-### Mystic Lyrics from the Indian
-Middle Ages
+### Mystic Lyrics from the Indian Middle Ages
 
 <span class="small-caps">Translated by</span> R. T. <span class="small-caps">GRIBBLE</span>
 
@@ -2399,9 +2386,7 @@ Introduction by <span class="small-caps">Rabindranath Tagore</span>
 
 This book is dedicated to “my inspirers, those whose supreme quest in life is the study and practice of spiritual truth,” and the writing of it is in perfect accord. There is a real danger of civilization becoming more and more materialistic in its development, and it is Dr. Rihbany’s argument that God must be found and served in the office and factory as well as the church if civilization is not going to be a mere misnomer for the worst kind of barbarism. Dr. Rihbany also discusses, among many other things, the relation of religion and science and the religious practices of the East and West.
 
-### The Nature of Christianity
-Vol. II. Christianity as Truth
-<span class="small-caps">By</span> EDWARD GRUBB, M.A.
+### The Nature of Christianity Vol. II. Christianity as Truth <span class="small-caps">By</span> EDWARD GRUBB, M.A.
 
 *La. Cr. 8vo.* *7s. 6d.*
 
@@ -2409,17 +2394,13 @@ The author here follows up his previous examination of “Christianity as Life�
 
 <span class="small-caps">Vol. I.</span> CHRISTIANITY AS LIFE
 
-### The Light of Christ
-<span class="small-caps">By</span> JOHN S. HOYLAND, M.A.
-*Swarthmore Lecture,* 1928
+### The Light of Christ <span class="small-caps">By</span> JOHN S. HOYLAND, M.A. *Swarthmore Lecture,* 1928
 
 *Cr. 8vo.* *Cloth, 2s. 6d.* ; *Paper, 1s. 6d.*
 
 The teaching of the Inward Light is here reviewed in connection first with Platonism, then with certain elements in Indian religious thought, then with the Christian belief in Incarnation and the Cross. The attempt is made to show how these elements combine to form the ever-new Evangel of the Living Christ, the only Hope of the world.
 
-### The Warfare of Reconciliation
-<span class="small-caps">By</span> JOHN S. HOYLAND, M.A., F.R.H<span class="small-caps">ist</span>.S.
-Author of “Faith and History,” etc.
+### The Warfare of Reconciliation <span class="small-caps">By</span> JOHN S. HOYLAND, M.A., F.R.H<span class="small-caps">ist</span>.S. Author of “Faith and History,” etc.
 
 *Cr. 8vo.* 5s.
 
@@ -2427,10 +2408,7 @@ This book deals with the elements of division and hatred which endanger modern c
 
 “A sincere and earnest book.”—*Church Times.*
 
-### Civilization Remade by Christ
-Social Applications of Christ’s Moral Teaching
-<span class="small-caps">By Rev.</span> F. A. M. SPENCER, B.D.
-Author of “The Ethics of the Gospel”
+### Civilization Remade by Christ Social Applications of Christ’s Moral Teaching <span class="small-caps">By Rev.</span> F. A. M. SPENCER, B.D. Author of “The Ethics of the Gospel”
 
 *Cr. 8vo.* *7s. 6d*
 

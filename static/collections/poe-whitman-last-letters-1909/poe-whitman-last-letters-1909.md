@@ -9,10 +9,7 @@
 
 *[Illustration, p. 8]*
 
-### The Last Letters of
-Edgar Allan Poe
-To
-Sarah Helen Whitman
+### The Last Letters of Edgar Allan Poe To Sarah Helen Whitman
 
 Edited by  
 James A. Harrison
@@ -112,11 +109,9 @@ Poe to Mrs. Clemm . . . . . . 50
 
 ## Introduction
 
-### The Last Letters of Edgar Allan Poe to
-Sarah Helen Whitman
+### The Last Letters of Edgar Allan Poe to Sarah Helen Whitman
 
-### The Last Letters of Edgar Allan Poe to
-Sarah Helen Whitman
+### The Last Letters of Edgar Allan Poe to Sarah Helen Whitman
 
 * * *
 
@@ -153,7 +148,7 @@ I HAVE pressed your letter again and again to my lips, sweetest Helen—bathing 
 
 When I spoke to you of what I felt, saying that I loved now for the *first* time, I did not hope you would believe or even understand me: nor can I hope to convince you now—but if, throughout some long, dark summer night, I could but have held you close, close to my heart and whispered to you the strange secrets of its passionate history, then indeed you would have seen that I have been far from attempting to deceive you in this respect. I could have shown you that it was not, and could never have been, in the power of any other than yourself to have moved me as I am now moved—to oppress me with this ineffable emotion—to surround and bathe me in this electric light, illumining and enkindling my whole nature—filling my soul with glory, with wonder, and with awe. During our walk in the cemetery I said to you, while the bitter, bitter—tears sprang into my eyes—“Helen I love now—now—for the first time and only time.” I said this, I repeat, in no hope, that you could—believe me, but because I could not help feeling how unequal were the heart-riches we might offer each to each:—I, for the first time, giving my all, at once, and forever, even while the words of your poem were yet ringing in my ears:—
 
-*[Illustration, p. 5]*
+*[Illustration, p. 25]*
 
 Oh then, beloved, I think on thee  
  And on that life so strangely fair,  
@@ -206,7 +201,7 @@ IN pressing my last letter between your dear hands, there passed into your spiri
 
 [*The next line is entirely obliterated, and then continues—C. F. D.*]:
 
-to slander me, in private society, without my knowledge , and thus with impunity. Although much, however, may (and I now see must) have been said to my discredit, during my retirement, those few who, knowing me well, have been steadfastly my friends, permitted nothing to reach my ears—unless in one instance, where the malignity of the accuser hurried her beyond her usual caution, and thus the accusation was of such a character that I could appeal to a court of justice for redress. The tools employed in this instance were Mr. Hiram Fuller, Mr. T. D. English. I replied to the charge fully, in a public newspaper—afterwards suing the “Mirror” (in which the scandal appeared) obtaining a verdict and obtaining such an amount as, for the time, completely to break up that journal.—And you ask me, *why* men so misjudge me—why I have enemies. If your knowledge of my character and of my career does not afford you an answer to the query, at least it does not become me to suggest the answer. Let it suffice that I have had the audacity to remain poor that I might preserve my independence—that, nevertheless, in letters, to a certain extent and in certain regards, I have been “successful”—that I have been a critic—an unscrupulously honest and in many cases a bitter one—that I have been uniformly attacked—where I attacked at all—those who stood highest in power and influence—and that, whether in literature or in society, I have seldom refrained from expressing, either directly or indirectly, the pure contempt with which the pretensions of ignorance, arrogance, or hostility inspire me.—And you who know all this—*you* ask me *why* I have enemies. Ah, Helen, I have a hundred friends for every individual enemy—but has it never occurred to you that you do not live among my friends? Miss Lynch, Miss Fuller, Miss Blackwell, Mrs. Ellet—neither these nor any within their influence, are my friends. Had you read my criticisms generally, you would see, too, how and why it is that the Channings—the Emerson and Hudson coterie—the Longfellow clique, one and all—the cabal of the “N. American Review”—you would see why all these, whom *you* know best, know me least and are my enemies. Do you not remember with how deep a sigh I said to you in Providence—“My heart is heavy, Helen, for I see that your friends are not my own.” But the cruel sentence in your letter would not—could not so deeply have wounded me, had my soul first been so strengthened by those assurances of your love, which I so wildly—so vainly—and, I now feel, so presumptuously entreated. That our souls are one, every line which you have ever written asserts—but our hearts do not beat in unison. Tell me, darling! to your heart has any angel ever whispered that the very noblest lines in all human poetry are these—hackneyed though they be!
+to slander me, in private society, without my knowledge, and thus with impunity. Although much, however, may (and I now see must) have been said to my discredit, during my retirement, those few who, knowing me well, have been steadfastly my friends, permitted nothing to reach my ears—unless in one instance, where the malignity of the accuser hurried her beyond her usual caution, and thus the accusation was of such a character that I could appeal to a court of justice for redress. The tools employed in this instance were Mr. Hiram Fuller, Mr. T. D. English. I replied to the charge fully, in a public newspaper—afterwards suing the “Mirror” (in which the scandal appeared) obtaining a verdict and obtaining such an amount as, for the time, completely to break up that journal.—And you ask me, *why* men so misjudge me—why I have enemies. If your knowledge of my character and of my career does not afford you an answer to the query, at least it does not become me to suggest the answer. Let it suffice that I have had the audacity to remain poor that I might preserve my independence—that, nevertheless, in letters, to a certain extent and in certain regards, I have been “successful”—that I have been a critic—an unscrupulously honest and in many cases a bitter one—that I have been uniformly attacked—where I attacked at all—those who stood highest in power and influence—and that, whether in literature or in society, I have seldom refrained from expressing, either directly or indirectly, the pure contempt with which the pretensions of ignorance, arrogance, or hostility inspire me.—And you who know all this—*you* ask me *why* I have enemies. Ah, Helen, I have a hundred friends for every individual enemy—but has it never occurred to you that you do not live among my friends? Miss Lynch, Miss Fuller, Miss Blackwell, Mrs. Ellet—neither these nor any within their influence, are my friends. Had you read my criticisms generally, you would see, too, how and why it is that the Channings—the Emerson and Hudson coterie—the Longfellow clique, one and all—the cabal of the “N. American Review”—you would see why all these, whom *you* know best, know me least and are my enemies. Do you not remember with how deep a sigh I said to you in Providence—“My heart is heavy, Helen, for I see that your friends are not my own.” But the cruel sentence in your letter would not—could not so deeply have wounded me, had my soul first been so strengthened by those assurances of your love, which I so wildly—so vainly—and, I now feel, so presumptuously entreated. That our souls are one, every line which you have ever written asserts—but our hearts do not beat in unison. Tell me, darling! to your heart has any angel ever whispered that the very noblest lines in all human poetry are these—hackneyed though they be!
 
 “I know not—I ask not if guilt ’s in thy heart:—  
 I but know that *I love thee* whatever thou art.”
@@ -305,8 +300,8 @@ IN a little more than a fortnight, dearest Helen I shall, once again, clasp you 
 
 Your lines “To Arcturus” are truly beautiful I would retain the Vergilian words—omitting the translation. The first note leave out:—61 Cygni has been proved nearer than Arcturus and Alpha Lyræ is presumably so.—Bessel, also, has shown 6 other stars to be nearer than the brighter one of this hemisphere—There is an obvious tautology in “pale candescent.” To be *candescent* is to become *white* with *heat.* Why not read—“To blend with thine its incandescent fire?” Forgive me *sweet* Helen, for these *very* stupid and captious criticisms. Take vengeance on my next poem.—When “Ulalume” appears, cut it out and enclose it:—newspapers seldom reach me.—In last Saturday’s “Home Journal” is a letter from M. C. (who is it?) I enclose a passage which seems to refer to my lines:
 
-> —the very roses’ odors
-[Died in the arms of the adoring airs.]
+> —the very roses’ odors  
+> [Died in the arms of the adoring airs.]
 
 The accusation will enable you to see how groundless such accusations may be, even when seemingly best founded. Mrs. H.’s book was published 3 months ago. You had my poem about the first of June—was it not?
 
@@ -412,8 +407,7 @@ Respy. yr. Ob. St.
 
 <span class="small-caps">Edgar</span> A. <span class="small-caps">Poe</span>.
 
-### CONTRACT CONCERNING MARRIAGE BE-
-TWEEN POE AND MRS. WHITMAN
+### CONTRACT CONCERNING MARRIAGE BE- TWEEN POE AND MRS. WHITMAN
 
 <span class="small-caps">Providence</span>, *December* 15, 1848.
 
@@ -421,14 +415,14 @@ TO Charles F. Tillinghast Administrator with the Will annexed of the estate of R
 
 You are hereby required in conformity to the provisions of the Will of the above named Ruth Marsh to pay to me the Subscriber the whole of the Estate of the said Ruth Marsh now in your possession or Control—the said Estate consisting of Bank Stock and Notes as follows namely
 
-- Fifteen Shares of the Merchants Bank.
-Ten do. of the Globe Bank.
-Five do. of the Manufactures Bank.
-Fourteen do. of the Blackstone Canal Bank.
-Sixteen do. of the Arcade Bank.
-Six do. of the Exchange Bank.
-- William H Cook's Note for One thousand Dollars.
-Tallman and Bucklin's Note for Two thousand Dollars.
+- Fifteen Shares of the Merchants Bank.  
+  Ten do. of the Globe Bank.  
+  Five do. of the Manufactures Bank.  
+  Fourteen do. of the Blackstone Canal Bank.  
+  Sixteen do. of the Arcade Bank.  
+  Six do. of the Exchange Bank.
+- William H Cook's Note for One thousand Dollars.  
+  Tallman and Bucklin's Note for Two thousand Dollars.
 - Benjamin Allen: Notes for Eight Hundred and Eighteen Dollars. Weston A Fisher's Note for Fifteen Hundred Dollars. All of which Notes are secured by the Mortgage of Real Estate.
 Signed this fifteenth day  
 of December 1848 in presence of  

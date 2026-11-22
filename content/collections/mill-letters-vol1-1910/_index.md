@@ -19,10 +19,10 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 165,
+  "letters": 162,
   "notes": 59,
   "pages": 378,
-  "dated_letters": 160
+  "dated_letters": 159
  },
  "provenance_tier": "machine_checked",
  "quality": {
@@ -64,19 +64,11 @@
   "verified": 0,
   "machine_reread": 42
  },
- "page_kinds": "ffffffffffffffffffffffLLLLLLLLLLLLLLLLLLLLLLLfffffffffLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnn",
+ "page_kinds": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnn",
  "page_runs": [
   [
    "f",
-   22
-  ],
-  [
-   "L",
-   23
-  ],
-  [
-   "f",
-   9
+   54
   ],
   [
    "L",
@@ -152,10 +144,6 @@
   }
  ],
  "year_counts": [
-  [
-   1829,
-   1
-  ],
   [
    1831,
    2
@@ -282,41 +270,41 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 165,
+ "unperiodised_count": 162,
  "frontispiece": {
   "page": 10,
   "leaf": 9,
   "caption": "Emery Walker Ph. sc."
  },
  "title_page": {
-  "page": 2,
-  "leaf": 1
+  "page": 8,
+  "leaf": 7
  },
  "downloads": [
   {
    "format": "epub",
    "file": "mill-letters-vol1-1910.epub",
-   "bytes": 318976,
-   "sha256": "0b8a13c95652b2edab82bd0567514f2172e19135e899737454157133f3787c4e"
+   "bytes": 367347,
+   "sha256": "8381ef9d6d96d4dd764945389271d1f4f2f35ec4ff4485fae376a0b9956c270f"
   },
   {
    "format": "markdown",
    "file": "mill-letters-vol1-1910.md",
-   "bytes": 745537,
-   "sha256": "69157da45de79e0714f7d7928dd9730231ec93ac6be878783247724380855c75"
+   "bytes": 744960,
+   "sha256": "3d4767f0b0f0e45524d782ccdaef1776c048b58edcf65183e9bbc35e210e48a1"
   },
   {
    "format": "tei",
    "file": "mill-letters-vol1-1910.tei.xml",
-   "bytes": 867089,
-   "sha256": "08a43973a700a10fd46febc428fcbe5be1b648122e3d36d4d1d402ac4e40c601"
+   "bytes": 865568,
+   "sha256": "60ad1ec0d210cc0a035dbc65f4f3b36df8cf2138e653d8ae8bbefdc618d3bd3c"
   }
  ],
  "scan_base": "https://archive.org/download/lettersofjsmill01milluoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:23:03Z",
-  "source_ast_sha256": "ac5def7b07bfe01324fcc3b0b8de26f2efbe850aa55953512e861ec62c5f6243",
+  "compiled_at": "2026-11-22T08:51:38Z",
+  "source_ast_sha256": "5812854bf5101224c0414f4554f0be468f84e28a25bc33391bdbda737a152cff",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -22,7 +22,7 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 57,
+  "letters": 56,
   "notes": 9,
   "pages": 342,
   "dated_letters": 37
@@ -493,7 +493,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 57,
+ "unperiodised_count": 56,
  "frontispiece": {},
  "title_page": {
   "page": 7,
@@ -503,27 +503,27 @@
   {
    "format": "epub",
    "file": "nietzsche-wagner-1921.epub",
-   "bytes": 260014,
-   "sha256": "7ae51202b04debf30b06686c9e955ea6a2c7ac6b716a83b5e2e26afea1ee52e7"
+   "bytes": 332489,
+   "sha256": "f434fdacfbcf714ddfdc88aef74315ceb47bd105c25e8efb61ffcf6b2e079e15"
   },
   {
    "format": "markdown",
    "file": "nietzsche-wagner-1921.md",
-   "bytes": 517023,
-   "sha256": "106010f31c8fcf97e7733ff495966f27811366e030721cffd07301ab5ed5a5d5"
+   "bytes": 516862,
+   "sha256": "dc0df456b6ef8c2a7728aa2d40452a4e58fc4496b78c5abeb3fc4d2189de218e"
   },
   {
    "format": "tei",
    "file": "nietzsche-wagner-1921.tei.xml",
-   "bytes": 598255,
-   "sha256": "7d4716f123ca83ab2e994510144c68f21711094ab2e3c77781638c66e7214d2f"
+   "bytes": 598225,
+   "sha256": "6b61e8f95cf3ff04981f80539858b1b154b88b6cecbcdb8da834f9f98b22786d"
   }
  ],
  "scan_base": "https://archive.org/download/nietzschewagnerc00niet/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:23:04Z",
-  "source_ast_sha256": "f9957117f528a134c3f287a70214f73eadb51fa8bd24fe7044eeb28f123f343f",
+  "compiled_at": "2026-11-22T08:55:16Z",
+  "source_ast_sha256": "4a2ed83613845df99fd1fd557cbabe3ca1360cfbdec23473397772a8ef87953d",
   "hugo_renderer_version": "1.0.0"
  }
 }

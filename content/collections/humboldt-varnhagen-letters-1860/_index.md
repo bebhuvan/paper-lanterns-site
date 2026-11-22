@@ -19,7 +19,7 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 227,
+  "letters": 226,
   "notes": 104,
   "pages": 430,
   "dated_letters": 223
@@ -202,7 +202,7 @@
    "label": "Letters of Alexander von Humboldt to Varnhagen von Ense",
    "kind": "epistolary_part",
    "start": 25,
-   "end": 410
+   "end": 409
   },
   {
    "label": "Supplement",
@@ -350,7 +350,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 227,
+ "unperiodised_count": 226,
  "frontispiece": {
   "page": 10,
   "leaf": 9,
@@ -364,27 +364,27 @@
   {
    "format": "epub",
    "file": "humboldt-varnhagen-letters-1860.epub",
-   "bytes": 239573,
-   "sha256": "9846e7e1b9fe0360771e3a8e577f397b97a3a4b9f5e35ae262d7e137871ed623"
+   "bytes": 311663,
+   "sha256": "8967b50379c27edd75f94c1156eabca57ce8502637d62b661a3bd8f1c2ba9c4c"
   },
   {
    "format": "markdown",
    "file": "humboldt-varnhagen-letters-1860.md",
-   "bytes": 526607,
-   "sha256": "e8390aad1c3abaa496c7ef006468348bab7b0b759f8e60abe4a29e84408c86c2"
+   "bytes": 526563,
+   "sha256": "65017e1835f8c8cee415fffedf33fbd3c5a521a517e6d8efbd864d4bd7eb726f"
   },
   {
    "format": "tei",
    "file": "humboldt-varnhagen-letters-1860.tei.xml",
-   "bytes": 697543,
-   "sha256": "171cc59d07c19e7fbf52cc270de726afc4334da15baf606b1ffd93bac3b8f22f"
+   "bytes": 699120,
+   "sha256": "44c3ff253dedf1d9eea905108759c38e3e124a99678ee1b4f76e018c475cb5fd"
   }
  ],
  "scan_base": "https://archive.org/download/alexandlettersof00humbrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:22:36Z",
-  "source_ast_sha256": "45b8a7d7f72367b54069ba36ec974bd2ec8eb81043daf885d2ed6455fd99f54c",
+  "compiled_at": "2026-11-22T08:51:17Z",
+  "source_ast_sha256": "cfa82a281aa9dc23e0e48994afb2a3b4b80f431035d9ea2af04552b19a18cf85",
   "hugo_renderer_version": "1.0.0"
  }
 }

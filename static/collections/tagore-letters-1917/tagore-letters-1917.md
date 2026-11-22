@@ -11,8 +11,7 @@ Hollinger Corp.
 
 ### LETTERS
 
-### EXTRACTS FROM OLD LETTERS OF
-RABINDRANATH TAGORE
+### EXTRACTS FROM OLD LETTERS OF RABINDRANATH TAGORE
 
 New York  
 THE MACMILLAN COMPANY  
@@ -71,7 +70,7 @@ After our midday meal on Saturday, B—— babu, Balu and I placed our rugs on t
 
 Where our road crossed the Katjuri[^fn-p0008-1] river we had to leave the carriage and get into palanquins. The grey sands of the river stretched away in every direction. They rightly call it the *bed* of the river in English. It is indeed like a bed which the sleeper has left in the morning. Every movement of the river, as it rolled from side to side, and pressed with the weight of its water now here now there, is left impressed on the hollows and billows of its sand bed, which has not been made since.
 
-At the further edge of this vast sandy course, the thin crystal-clear stream of the river is seen. In the *Meghaduta* of Kalidas there is a description of a *Yaksha* woman, pining for her banished husband , *lying merged in the edge of her deserted bed, like the thin line of the old moon in its last phase at the limit of the eastern horizon.* This thin, worn river, athirst for the rains, furnishes another simile.
+At the further edge of this vast sandy course, the thin crystal-clear stream of the river is seen. In the *Meghaduta* of Kalidas there is a description of a *Yaksha* woman, pining for her banished husband, *lying merged in the edge of her deserted bed, like the thin line of the old moon in its last phase at the limit of the eastern horizon.* This thin, worn river, athirst for the rains, furnishes another simile.
 
 A fine road runs from Cuttack to Puri. It rises high out of the fields on either side, and is shaded with great big trees, mostly mangoes, which in this season are in flower, charging the air with their cloying fragrance. It passes by village after village surrounded with groves of mango, *aswattha,* cocoanut and day palm.
 

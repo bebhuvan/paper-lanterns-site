@@ -26,12 +26,12 @@
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 92.0,
+  "score": 86.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 30.0,
+    "score": 24.0,
     "out_of": 30.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 2,
+  "flagged": 5,
   "blockers": 0
  },
  "proof": {
@@ -199,34 +199,34 @@
   "caption": "HERNAN CORTES."
  },
  "title_page": {
-  "page": 8,
-  "leaf": 7
+  "page": 11,
+  "leaf": 10
  },
  "downloads": [
   {
    "format": "epub",
    "file": "cortes-letters-vol1-1908.epub",
-   "bytes": 285042,
-   "sha256": "fe8ea9c5a99f12aba07c69c2b479e92e801fbf445a9f4f92129ea6204f624cbd"
+   "bytes": 361743,
+   "sha256": "3c16074fe8cbba8232994712acbedcfd1ba07f90fdb0e53c4629e00986d24ea4"
   },
   {
    "format": "markdown",
    "file": "cortes-letters-vol1-1908.md",
-   "bytes": 713992,
-   "sha256": "a70385ab36cf96ae409977d855b269aace27968fba80aca224cfe5c3b675dc15"
+   "bytes": 713998,
+   "sha256": "29e8b7247ae5b2ec956e49a921de03f950b47ef961ac4f127e1b2edf2836429c"
   },
   {
    "format": "tei",
    "file": "cortes-letters-vol1-1908.tei.xml",
-   "bytes": 770068,
-   "sha256": "881b3f7aeb64250fce631555029b7ba6e4af7b46e4596c2c2840dc81546aad14"
+   "bytes": 770670,
+   "sha256": "4a31ce41585eebf5119df712e39e1005ebc85baa74abb9c636061bbd749f5993"
   }
  ],
  "scan_base": "https://archive.org/download/lettersofcorts01cortuoft/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-20T16:20:13Z",
-  "source_ast_sha256": "c7b8c19a8fbd6ca9f2b538155204905f28a44827c9ed84ac999b133c439fec5c",
+  "compiled_at": "2026-11-22T08:52:41Z",
+  "source_ast_sha256": "3e0d6bc3240523872226d2c774ce84f0a35c7292c0d253e3744b1a94925fd2a7",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -2,110 +2,103 @@
 
 - **Author / Editor**: Leo Tolstoy (tr. Aylmer Maude)
 - **Year**: 1903
-- **Letters**: 13
+- **Letters**: 12
 - **Pages**: 388
 
 ## Frontmatter
 
-### XLVI.
-THE WORKS
-OF
-LEO TOLSTOY.—I.
-ESSAYS AND LETTERS
+### XLVI. THE WORKS OF LEO TOLSTOY.—I. ESSAYS AND LETTERS
 
 ### The World's Classics
 
 *Pott 8vo., leather, gilt,* 2*s. net; cloth,* 1*s. net.*
 
-- 1 Charlotte Bronte's JANE EYRE. 3rd Impression.
-2 Lamb's ESSAYS OF ELIA. 4th Impression.
-3 Tennyson's POEMS, 1830-58. 3rd Impression.
-4 Goldsmith's VICAR OF WAKEFIELD. 2nd Impression.
-5 Hazlitt's TABLE TALK. 3rd Impression.
-6 Emerson's ESSAYS. 3rd Impression.
-7 Keats' POEMS. 2nd Impression.
-8 Dickens' OLIVER TWIST. 2nd Impression.
-9 THE INGOLDSBY LEGENDS. 3rd Impression.
-10 Emily Bronte's WUTHERING HEIGHTS. 2nd Impression.
-11 Darwin's ORIGIN OF SPECIES. 3rd Impression.
-12 Bunyan's PILGRIM'S PROGRESS. 2nd Impression.
-13 ENGLISH SONGS AND BALLADS. Compiled by T. W. H. CROSLAND. 2nd Impression.
-14 Charlotte Bronte's SHIRLEY. 2nd Impression.
-15 Hazlitt's SKETCHES AND ESSAYS. 2nd Impression.
-16 Herrick's POEMS. 2nd Impression.
-17 Defoe's ROBINSON CRUSOE. 2nd Imp.
-18 Pope's ILIAD OF HOMER. 2nd Impression.
-19 Carlyle's SARTOR RESARTUS. 2nd Impression
-20 Swift's GULLIVER'S TRAVELS. 2nd Impression.
-21 Poe's TALES OF MYSTERY AND IMAGINATION. 2nd Impression.
-22 White's HISTORY OF SELBORNE. 2nd Impression.
-23 De Quincey's OPIUM EATER. 2nd Impression.
-24 Bacon's ESSAYS. 2nd Impression.
-25 Hazlitt's WINTERSLOW.
-26 Hawthorne's SCARLET LETTER.
-27 Macaulay's LAYS OF ANCIENT ROME.
-28 Thackeray's HENRY ESMOND. 2nd Impression.
-29 Scott's IVANHOE. 2nd Impression.
-30 Emerson's ENGLISH TRAITS.
-31 George Eliot's MILL ON THE FLOSS. 2nd Impression.
-32 SELECTED ENGLISH ESSAYS. Chosen and arranged by W. PEACOCK. 2nd Impression.
-33 Hume's ESSAYS. 2nd Impression.
-34 Burns' POEMS. 2nd Impression.
-35 Gibbon's ROMAN EMPIRE. Vol. I. Complete in 7 Vols. 2nd Impression.
-36 Pope's ODYSSEY OF HOMER.
-37 Dryden's VIRGIL.
-38 Dickens' TALE OF TWO CITIES.
-39 Longfellow's POEMS. Vol. I. Complete in 3 Vols.
-- 40 Sterne's TRISTRAM SHANDY.
-41 Buckle's HISTORY OF CIVILIZATION. Vol. I. Complete in 3 Vols. 2nd Impression.
-42 Chaucer's WORKS. Vol. I. From the Text of Prof. <span class="small-caps">Skeat</span>. (*By permission of the Oxford University Press.*) Complete in 3 Vols.
-43 Machiavelli's THE PRINCE. Translated by <span class="small-caps">Luigi Ricci</span>.
-44 Gibbon's ROMAN EMPIRE. Vol. II. 2nd Impression.
-45 ENGLISH PROSE. From Mandeville to Ruskin. Chosen and arranged by W. <span class="small-caps">Peacock</span>.
-46 ESSAYS AND LETTERS BY Leo Tolstoy. Translated by <span class="small-caps">Aylmer Maude</span>. 2nd Impression.
-47 Charlotte Bronte's VILLETTE.
-48 Buckle's HISTORY OF CIVILIZATION. Vol. II.
-49 Thomas à Kempis' OF THE IMITATION OF CHRIST.
-50 Thackeray's BOOK OF SNOBS.
-51 Gibbon's ROMAN EMPIRE. Vol. III.
-52 Watts-Dunton's AYLWIN.
-53 Buckle's HISTORY OF CIVILIZATION. Vol. III.
-54 Adam Smith's WEALTH OF NATIONS. Vol. I. Complete in 2 Vols.
-55 Gibbon's ROMAN EMPIRE. Vol. IV.
-56 Chaucer's WORKS. Vol. II.
-57 Hazlitt's SPIRIT OF THE AGE.
-58 Browning's POETICAL WORKS. Vol. I.
-59 Adam Smith's WEALTH OF NATIONS. Vol. II.
-60 THE MEDITATIONS OF MARCUS AURELIUS. (*Not ready.*)
-61 Holmes' AUTOCRAT OF THE BREAKFAST-TABLE
-62 Carlyle's ON HEROES.
-63 George Eliot's ADAM BEDE.
-64 Gibbon's ROMAN EMPIRE. Vol. V.
+- 1 Charlotte Bronte's JANE EYRE. 3rd Impression.  
+  2 Lamb's ESSAYS OF ELIA. 4th Impression.  
+  3 Tennyson's POEMS, 1830-58. 3rd Impression.  
+  4 Goldsmith's VICAR OF WAKEFIELD. 2nd Impression.  
+  5 Hazlitt's TABLE TALK. 3rd Impression.  
+  6 Emerson's ESSAYS. 3rd Impression.  
+  7 Keats' POEMS. 2nd Impression.  
+  8 Dickens' OLIVER TWIST. 2nd Impression.  
+  9 THE INGOLDSBY LEGENDS. 3rd Impression.  
+  10 Emily Bronte's WUTHERING HEIGHTS. 2nd Impression.  
+  11 Darwin's ORIGIN OF SPECIES. 3rd Impression.  
+  12 Bunyan's PILGRIM'S PROGRESS. 2nd Impression.  
+  13 ENGLISH SONGS AND BALLADS. Compiled by T. W. H. CROSLAND. 2nd Impression.  
+  14 Charlotte Bronte's SHIRLEY. 2nd Impression.  
+  15 Hazlitt's SKETCHES AND ESSAYS. 2nd Impression.  
+  16 Herrick's POEMS. 2nd Impression.  
+  17 Defoe's ROBINSON CRUSOE. 2nd Imp.  
+  18 Pope's ILIAD OF HOMER. 2nd Impression.  
+  19 Carlyle's SARTOR RESARTUS. 2nd Impression  
+  20 Swift's GULLIVER'S TRAVELS. 2nd Impression.  
+  21 Poe's TALES OF MYSTERY AND IMAGINATION. 2nd Impression.  
+  22 White's HISTORY OF SELBORNE. 2nd Impression.  
+  23 De Quincey's OPIUM EATER. 2nd Impression.  
+  24 Bacon's ESSAYS. 2nd Impression.  
+  25 Hazlitt's WINTERSLOW.  
+  26 Hawthorne's SCARLET LETTER.  
+  27 Macaulay's LAYS OF ANCIENT ROME.  
+  28 Thackeray's HENRY ESMOND. 2nd Impression.  
+  29 Scott's IVANHOE. 2nd Impression.  
+  30 Emerson's ENGLISH TRAITS.  
+  31 George Eliot's MILL ON THE FLOSS. 2nd Impression.  
+  32 SELECTED ENGLISH ESSAYS. Chosen and arranged by W. PEACOCK. 2nd Impression.  
+  33 Hume's ESSAYS. 2nd Impression.  
+  34 Burns' POEMS. 2nd Impression.  
+  35 Gibbon's ROMAN EMPIRE. Vol. I. Complete in 7 Vols. 2nd Impression.  
+  36 Pope's ODYSSEY OF HOMER.  
+  37 Dryden's VIRGIL.  
+  38 Dickens' TALE OF TWO CITIES.  
+  39 Longfellow's POEMS. Vol. I. Complete in 3 Vols.
+- 40 Sterne's TRISTRAM SHANDY.  
+  41 Buckle's HISTORY OF CIVILIZATION. Vol. I. Complete in 3 Vols. 2nd Impression.  
+  42 Chaucer's WORKS. Vol. I. From the Text of Prof. <span class="small-caps">Skeat</span>. (*By permission of the Oxford University Press.*) Complete in 3 Vols.  
+  43 Machiavelli's THE PRINCE. Translated by <span class="small-caps">Luigi Ricci</span>.  
+  44 Gibbon's ROMAN EMPIRE. Vol. II. 2nd Impression.  
+  45 ENGLISH PROSE. From Mandeville to Ruskin. Chosen and arranged by W. <span class="small-caps">Peacock</span>.  
+  46 ESSAYS AND LETTERS BY Leo Tolstoy. Translated by <span class="small-caps">Aylmer Maude</span>. 2nd Impression.  
+  47 Charlotte Bronte's VILLETTE.  
+  48 Buckle's HISTORY OF CIVILIZATION. Vol. II.  
+  49 Thomas à Kempis' OF THE IMITATION OF CHRIST.  
+  50 Thackeray's BOOK OF SNOBS.  
+  51 Gibbon's ROMAN EMPIRE. Vol. III.  
+  52 Watts-Dunton's AYLWIN.  
+  53 Buckle's HISTORY OF CIVILIZATION. Vol. III.  
+  54 Adam Smith's WEALTH OF NATIONS. Vol. I. Complete in 2 Vols.  
+  55 Gibbon's ROMAN EMPIRE. Vol. IV.  
+  56 Chaucer's WORKS. Vol. II.  
+  57 Hazlitt's SPIRIT OF THE AGE.  
+  58 Browning's POETICAL WORKS. Vol. I.  
+  59 Adam Smith's WEALTH OF NATIONS. Vol. II.  
+  60 THE MEDITATIONS OF MARCUS AURELIUS. (*Not ready.*)  
+  61 Holmes' AUTOCRAT OF THE BREAKFAST-TABLE  
+  62 Carlyle's ON HEROES.  
+  63 George Eliot's ADAM BEDE.  
+  64 Gibbon's ROMAN EMPIRE. Vol. V.
 (*The above are ready.*)
 
-- 65 Montaigne's ESSAYS. Vol. I. Complete in 3 Vols.
-66 Borrow's LAVENGRO.
-67 Anne Bronte's TENANT OF WILD FELL HALL.
-68 Thoreau's WALDEN.
-69 Gibbon's ROMAN EMPIRE. Vol. VI.
-70 Montaigne's ESSAYS. Vol. II.
-71 Burke's WORKS. Vol. I.
-72 Coleridge's LECTURES ON SHAKESPEARE, etc.
-73 THE MEMOIRS OF BENVENUTO CELLINI.
-74 Gibbon's ROMAN EMPIRE. Vol. VII. (with Index).
-75 Kinglake's EOTHEN.
-76 Chaucer's WORKS. Vol. III.
-77 Montaigne's ESSAYS. Vol. III.
-78 DON QUIXOTE. Vol. I.
-79 Borrow's BIBLE IN SPAIN.
-### ESSAYS AND
-LETTERS
+- 65 Montaigne's ESSAYS. Vol. I. Complete in 3 Vols.  
+  66 Borrow's LAVENGRO.  
+  67 Anne Bronte's TENANT OF WILD FELL HALL.  
+  68 Thoreau's WALDEN.  
+  69 Gibbon's ROMAN EMPIRE. Vol. VI.  
+  70 Montaigne's ESSAYS. Vol. II.  
+  71 Burke's WORKS. Vol. I.  
+  72 Coleridge's LECTURES ON SHAKESPEARE, etc.  
+  73 THE MEMOIRS OF BENVENUTO CELLINI.  
+  74 Gibbon's ROMAN EMPIRE. Vol. VII. (with Index).  
+  75 Kinglake's EOTHEN.  
+  76 Chaucer's WORKS. Vol. III.  
+  77 Montaigne's ESSAYS. Vol. III.  
+  78 DON QUIXOTE. Vol. I.  
+  79 Borrow's BIBLE IN SPAIN.
+### ESSAYS AND LETTERS
 
-### BY
-LEO TOLSTOY
+### BY LEO TOLSTOY
 
-### TRANSLATED BY
-AYLMER MAUDE
+### TRANSLATED BY AYLMER MAUDE
 
 *[Illustration, p. 7]*
 
@@ -169,27 +162,27 @@ XV.*<span class="small-caps">Timothy Bóndaref</span> . . . . . 210
 
 **<span class="small-caps">PAGE</span>**
 
-<span class="small-caps">xvi.</span><sup>*</sup><span class="small-caps">Letters on Henry George</span> . , . 213
+<span class="small-caps">xvi.</span>[^fn-p0013-1]<span class="small-caps">Letters on Henry George</span> . , . 213
 
 <span class="small-caps">xvii. Modern Science</span> . . . . . 219
 
-<span class="small-caps">xviii.</span><sup>*</sup><span class="small-caps">Letter to a Non-commissioned Officer</span> . 230
+<span class="small-caps">xviii.</span>[^fn-p0013-1]<span class="small-caps">Letter to a Non-commissioned Officer</span> . 230
 
-<span class="small-caps">xix.</span><sup>*</sup><span class="small-caps">Patriotism and Government</span> . . . 238
+<span class="small-caps">xix.</span>[^fn-p0013-1]<span class="small-caps">Patriotism and Government</span> . . . 238
 
-<span class="small-caps">xx.</span><sup>*</sup>‘<span class="small-caps">Thou shalt not kill</span>’ . . . . 262
+<span class="small-caps">xx.</span>[^fn-p0013-1]‘<span class="small-caps">Thou shalt not kill</span>’ . . . . 262
 
-<span class="small-caps">xxi.</span><sup>*</sup><span class="small-caps">To the Tsar and his Assistants</span> . . 270
+<span class="small-caps">xxi.</span>[^fn-p0013-1]<span class="small-caps">To the Tsar and his Assistants</span> . . 270
 
-<span class="small-caps">xxii.</span><sup>*</sup><span class="small-caps">A Reply to the Synod’s Edict of Excom-</span>  
+<span class="small-caps">xxii.</span>[^fn-p0013-1]<span class="small-caps">A Reply to the Synod’s Edict of Excom-</span>  
 <span class="small-caps">munication</span> . . . . . . 277
 
-<span class="small-caps">xxiii.</span><sup>*</sup><span class="small-caps">What is Religion, and wherein lies its</span>  
+<span class="small-caps">xxiii.</span>[^fn-p0013-1]<span class="small-caps">What is Religion, and wherein lies its</span>  
 <span class="small-caps">Essence</span>? . . . . . . . 288
 
-<span class="small-caps">xxiv.</span><sup>*</sup><span class="small-caps">Letter on Education</span> . . . . 338
+<span class="small-caps">xxiv.</span>[^fn-p0013-1]<span class="small-caps">Letter on Education</span> . . . . 338
 
-<span class="small-caps">xxv.</span><sup>*</sup><span class="small-caps">An Appeal to the Clergy</span> . . . 341
+<span class="small-caps">xxv.</span>[^fn-p0013-1]<span class="small-caps">An Appeal to the Clergy</span> . . . 341
 
 <span class="small-caps">xxvi. Thoughts selected from private letters</span>:
 
@@ -209,6 +202,10 @@ XV.*<span class="small-caps">Timothy Bóndaref</span> . . . . . 210
 
 The articles marked in the above Table of Contents with an asterisk (*) are not included in the Moscow editions of Tolstoy’s works ; being, for the most part, prohibited in Russia.
 
+### Notes
+
+[^fn-p0013-1]: (*) T. M. Bóndaref was born a serf in 1820. In 1858 he was sent to serve for twenty-five years in the army, but joining the sect of ‘Sabbatarians’ (who accept the Old Testament as authoritative, and follow the Jewish faith in many things), he was banished in 1867 to Údina in Siberia. There, as a ploughman of great energy, he built up for himself a fairly comfortable peasant home, but again impoverished himself by efforts to spread his doctrine of ‘bread-labour.’ His book could not be published in Russia, but has been translated into French and other languages. Another title Bóndaref gave to his book is ‘The Agriculturist’s Triumph.’
+
 ## I. Industry and Idleness
 
 ### ESSAYS AND LETTERS
@@ -217,9 +214,9 @@ The articles marked in the above Table of Contents with an asterisk (*) are not 
 
 ### INDUSTRY AND IDLENESS
 
-> ‘In the sweat of thy face shalt thou eat bread, till thou
-return unto the ground ; for out of it wast thou taken.’—
-<span class="small-caps">Gen.</span> iii. 19.
+> ‘In the sweat of thy face shalt thou eat bread, till thou  
+> return unto the ground ; for out of it wast thou taken.’—  
+> <span class="small-caps">Gen.</span> iii. 19.
 
 <span class="small-caps">The</span> above are the title and the epigraph of a book by Timothy Mihàylovitch Bóndaref[^fn-p0013-1] which I have read in manuscript.
 
@@ -454,7 +451,7 @@ That man cook who murdered his mistress, said that when he entered the bedroom a
 
 Evidently the desire to smoke at that moment was evoked in him, not by a wish to clear his thoughts, or be merry, but by the need to stifle something that prevented him from completing what he had planned to do.
 
-Any smoker may detect in himself the same definite desire to stupefy himself with tobacco at certain, specially difficult, moments. I look back at the days when I used to smoke: when was it that I felt a special need of tobacco? It was always at moments when I did not wish to remember certain things that presented themselves to my recollection, when I wished to forget—not to think. I sit by myself doing nothing and know I ought to set to work, but don’t feel inclined to, so I smoke and go on sitting. I have promised to be at some one’s house by five o’clock, but I have stayed too long somewhere else; I remember that I have missed the appointment, but I do not like to remember it, so I smoke. I get vexed, and say unpleasant things to some one, and know I am doing wrong, and see that I ought to stop, but I want to give vent to my irritability—so I smoke and continue to be irritable. I play at cards and lose more than I intended to risk—so I smoke. I have placed myself in an awkward position, have acted badly, have made a mistake, and ought to acknowledge the mess I am in and thus escape from it, but I do not like to acknowledge it, so I accuse others—and smoke. I write something and am not quite satisfied with what I have written. I ought to abandon it, but I wish to finish what I have planned to do—so I smoke. I dispute, and see that my opponent and I do not understand , and cannot understand, one another, but I wish to express my opinion, so I continue to talk—and I smoke.
+Any smoker may detect in himself the same definite desire to stupefy himself with tobacco at certain, specially difficult, moments. I look back at the days when I used to smoke: when was it that I felt a special need of tobacco? It was always at moments when I did not wish to remember certain things that presented themselves to my recollection, when I wished to forget—not to think. I sit by myself doing nothing and know I ought to set to work, but don’t feel inclined to, so I smoke and go on sitting. I have promised to be at some one’s house by five o’clock, but I have stayed too long somewhere else; I remember that I have missed the appointment, but I do not like to remember it, so I smoke. I get vexed, and say unpleasant things to some one, and know I am doing wrong, and see that I ought to stop, but I want to give vent to my irritability—so I smoke and continue to be irritable. I play at cards and lose more than I intended to risk—so I smoke. I have placed myself in an awkward position, have acted badly, have made a mistake, and ought to acknowledge the mess I am in and thus escape from it, but I do not like to acknowledge it, so I accuse others—and smoke. I write something and am not quite satisfied with what I have written. I ought to abandon it, but I wish to finish what I have planned to do—so I smoke. I dispute, and see that my opponent and I do not understand, and cannot understand, one another, but I wish to express my opinion, so I continue to talk—and I smoke.
 
 What distinguishes tobacco from most other stupefiers, besides the ease with which one can stupefy one's self with it, and its apparent harmlessness, is its portability and the possibility of applying it to meet small, isolated occurrences that disturb one. Not to mention that the use of opium, wine, and hashish, involves the use of certain appliances not always at hand, while one can always carry tobacco and paper with one; and that the opium-smoker and the drunkard evoke horror, while a tobacco-smoker does not seem at all repulsive—the advantage of tobacco over other stupefiers is, that the stupefaction of opium, hashish, or wine, extends to all the sensations and acts received or produced during a certain somewhat extended period of time—while the stupefaction from tobacco can be directed to any separate occurrence. You wish to do what you ought not to, so you smoke a cigarette and stupefy yourself sufficiently to enable you to do what should not be done, and then you are again fresh, and can think and speak clearly; or you feel you have done what you should not—again you smoke a cigarette and the unpleasant consciousness of the wrong or awkward action is obliterated, and you can occupy yourself with other things and forget it.
 
@@ -548,8 +545,7 @@ The above essay was written by Leo Tolstoy as a preface to a book on *Drunkennes
 
 ### III
 
-### AN AFTERWORD TO ‘THE KREUTZER
-SONATA’
+### AN AFTERWORD TO ‘THE KREUTZER SONATA’
 
 <span class="small-caps">Many</span> letters from strangers have reached and still continue to reach me asking for a clear and simple explanation of what I meant by the story called ‘The Kreutzer Sonata.’ I will try, to the best of my ability, to do what is asked of me, and explain briefly the essence of what I wished that story to convey, as well as the conclusions which, I think, may be derived from it.
 
@@ -593,7 +589,7 @@ That is the fourth point.
 
 Fifthly, in our society, where the falling in love of young men and women (which still has physical attraction as its root) is extolled as though it were the highest and most poetic aim of human endeavour (as all our art and poetry bears witness), young people devote the best part of their lives—the men to spying out, pursuing, and obtaining (whether in marriage or free union), those best suited to attract them ; the women and girls to enticing and entrapping men into free unions or marriages.
 
-In this way the best powers of many people run to waste in activity not merely unproductive but injurious. Most of our insensate luxury results from this, as well as most of the idleness of the men and the shameless-ness of the women who are not above following fashions admittedly borrowed from depraved women, and exposing parts of the body that excite sensuality.
+In this way the best powers of many people run to waste in activity not merely unproductive but injurious. Most of our insensate luxury results from this, as well as most of the idleness of the men and the shameless-ness of the women who are not above following fashions admittedly borrowed from depraved women, and ex-posing parts of the body that excite sensuality.
 
 And this, I think, is wrong.
 
@@ -641,7 +637,7 @@ As, however, the institution of marriage has no basis whatever in true Christian
 
 For no better reason than because the clergy, for money, perform certain ceremonies (called marriage services) over a certain number of those who unite, people in our society naïvely or hypocritically imagine that we are a monogamous people.
 
-There never was, or could be, such a thing as Christian marriage, any more than Christian worship,[^fn-p0057-1] Christian teachers and Fathers of the Church,[^fn-p0057-2] Christian property , armies, law-courts, or Governments, and this was understood by Christians who lived in the first centuries.
+There never was, or could be, such a thing as Christian marriage, any more than Christian worship,[^fn-p0057-1] Christian teachers and Fathers of the Church,[^fn-p0057-2] Christian property, armies, law-courts, or Governments, and this was understood by Christians who lived in the first centuries.
 
 The Christian ideal is that of love to God and to one's fellow-man: it is the renunciation of one's self for the service of God and one's neighbour; whereas sexual love, marriage, is a service of self, and consequently in any case an obstacle to the service of God and man, and therefore, from a Christian point of view, a fall, a sin.
 
@@ -743,7 +739,7 @@ The above is a new translation, in preparing which I have been allowed to make f
 
 <span class="small-caps">If</span> a man is not making a pretence of work, but is working in order to accomplish the matter he has in hand, his actions will necessarily follow one another in a certain sequence determined by the nature of the work. If he postpones to a later time what from the nature of the work should be done first, or if he altogether omits some essential part, he is certainly not working seriously, but only pretending. This rule holds unalterably true whether the work be physical or not. As one cannot seriously wish to bake bread unless one first kneads the flour and then heats the brick-oven, sweeps out the ashes, and so on, so also one cannot seriously wish to lead a good life without adopting a certain order of succession in the attainment of the necessary qualities.
 
-With reference to right living this rule is especially important; for whereas in the case of physical work, such as making bread, it is easy to discover by the result whether a man is seriously engaged in work or is only pretending, with reference to goodness of life no such verification is possible. If people, without kneading the dough or heating the oven, only pretend to make bread—as they do in the theatre—then from the result (the absence of bread) it becomes evident that they were only pretending; but when a man pretends to be leading a good life we have no such direct indications that he is not striving seriously but only pretending , for not only are the results of a good life not always evident and palpable to those around, but very often such results even appear to them harmful. Respect for a man's activity, and the acknowledgment of its utility and pleasantness by his contemporaries, furnish no proof of the real goodness of his life.
+With reference to right living this rule is especially important; for whereas in the case of physical work, such as making bread, it is easy to discover by the result whether a man is seriously engaged in work or is only pretending, with reference to goodness of life no such verification is possible. If people, without kneading the dough or heating the oven, only pretend to make bread—as they do in the theatre—then from the result (the absence of bread) it becomes evident that they were only pretending; but when a man pretends to be leading a good life we have no such direct indications that he is not striving seriously but only pretending, for not only are the results of a good life not always evident and palpable to those around, but very often such results even appear to them harmful. Respect for a man's activity, and the acknowledgment of its utility and pleasantness by his contemporaries, furnish no proof of the real goodness of his life.
 
 Therefore, to distinguish the reality from the mere appearance of a good life, the indication given by a regular order of succession in the acquirement of the essential qualities is especially valuable. And this indication is valuable, not so much to enable us to discover the seriousness of other men's strivings after goodness as to test this sincerity in ourselves, for in this respect we are liable to deceive ourselves even more than we deceive others.
 
@@ -949,7 +945,7 @@ Fasting ! And even an analysis of how to fast, and where to begin ! The notion s
 
 I remember how, with pride at his originality, an Evangelical preacher, who was attacking monastic asceticism, once said to me, 'Ours is not a Christianity of fasting and privations, but of beefsteaks.' Christianity, or virtue in general—and beefsteaks !
 
-During a long period of darkness and lack of all guidance, Pagan or Christian, so many wild, immoral ideas have made their way into our life (especially into that lower region of the first steps toward a good life—our relation to food, to which no one paid any attention ), that it is difficult for us even to understand the audacity and senselessness of upholding, in our days, Christianity or virtue with beefsteaks.
+During a long period of darkness and lack of all guidance, Pagan or Christian, so many wild, immoral ideas have made their way into our life (especially into that lower region of the first steps toward a good life—our relation to food, to which no one paid any attention), that it is difficult for us even to understand the audacity and senselessness of upholding, in our days, Christianity or virtue with beefsteaks.
 
 We are not horrified by this association, solely because a strange thing has befallen us. We look and see not: listen and hear not. There is no bad odour, no sound, no monstrosity, to which man cannot become so accustomed that he ceases to remark what would strike a man unaccustomed to it. Precisely so it is in the moral region. Christianity and morality with beefsteaks!
 
@@ -1064,9 +1060,7 @@ The following is Zola's speech *in extenso :*
 
 > You have paid me a great honour, and conferred on me a great pleasure, by choosing me to preside at this Annual Banquet. There is no better or more charming society than that of the young. There is no audience more sympathetic, or before whom one's heart opens more freely with the wish to be loved and listened to.
 
-> I, alas ! have reached an age at which we begin to regret our departed youth, and to pay attention to the efforts of
-
-the rising generation that is climbing up behind us. It is they who will both judge us and carry on our work. In them I feel the future coming to birth, and at times I ask myself, not without some anxiety, What of all our efforts will they reject, and what will they retain? What will happen to our work when it has passed into their hands? For it cannot last except through them, and it will disappear unless they accept it, to enlarge it and bring it to completion.
+> I, alas ! have reached an age at which we begin to regret our departed youth, and to pay attention to the efforts of the rising generation that is climbing up behind us. It is they who will both judge us and carry on our work. In them I feel the future coming to birth, and at times I ask myself, not without some anxiety, What of all our efforts will they reject, and what will they retain? What will happen to our work when it has passed into their hands? For it cannot last except through them, and it will disappear unless they accept it, to enlarge it and bring it to completion.
 
 That is why I eagerly watch the movement of ideas among the youth of to-day, and read the advanced papers and reviews, endeavouring to keep in touch with the new spirit that animates our schools, and striving vainly to know whither you are all wending your way—you, who represent the intelligence and the will of to-morrow.
 
@@ -1234,7 +1228,7 @@ Men of our day continue to live as they have lived, and do not cease to do thing
 
 When he first preached, Jesus did not say, ‘Love one another’ (he taught love later on to his disciples: to men who had understood his teaching), but he said what John the Baptist had preached before: repentance, μετάνοια—that is to say, a change in the conception of life. Μετανοεῖτε—change your view of life, or you will all perish, said he. The meaning of your life cannot consist in the pursuit of your personal well-being, or in that of your family or of your nation, for such happiness can be obtained only at the expense of others. Realize that the meaning of your life can consist only in accomplishing the will of him that sent you into this life, and who demands of you, not the pursuit of your personal interests, but the accomplishment of his aims—the establishment of the Kingdom of Heaven, as Jesus said.
 
-Μετανοεῖτε—change your way of understanding life, or you will all perish, said he, 1,800 years ago; and he continues to repeat the same to-day, by all the contradictions and woes of our time, which all come from the fact that men have not listened to him, and have not accepted the understanding of life he offered them. Μετανοεῖτε, said he, or you will all perish. The alternative remains the same to-day. The only difference is, that now it is more pressing. If it were possible 2,000 years ago, in the time of the Roman Empire, in the days of Charles V., or even before the Revolution and the Napoleonic wars, not to see the vanity—I will even say the absurdity—of attempts made to obtain personal happiness, family happiness, or national happiness , by struggling against all those who sought the same personal, family, or national happiness—that illusion has become quite impossible in our time for anyone who will pause—were it but for a moment—from his occupations, and will reflect on what he is, on what the world around him is, and on what he ought to be. So that were I called on to give one single piece of advice—the one I considered most useful for men of our century—I should say but this to them: ‘For God’s sake, pause a moment, cease your work, look around you, think of what you are, and of what you ought to be—think of the ideal.’
+Μετανοεῖτε—change your way of understanding life, or you will all perish, said he, 1,800 years ago; and he continues to repeat the same to-day, by all the contradictions and woes of our time, which all come from the fact that men have not listened to him, and have not accepted the understanding of life he offered them. Μετανοεῖτε, said he, or you will all perish. The alternative remains the same to-day. The only difference is, that now it is more pressing. If it were possible 2,000 years ago, in the time of the Roman Empire, in the days of Charles V., or even before the Revolution and the Napoleonic wars, not to see the vanity—I will even say the absurdity—of attempts made to obtain personal happiness, family happiness, or national happiness, by struggling against all those who sought the same personal, family, or national happiness—that illusion has become quite impossible in our time for anyone who will pause—were it but for a moment—from his occupations, and will reflect on what he is, on what the world around him is, and on what he ought to be. So that were I called on to give one single piece of advice—the one I considered most useful for men of our century—I should say but this to them: ‘For God’s sake, pause a moment, cease your work, look around you, think of what you are, and of what you ought to be—think of the ideal.’
 
 M. Zola says that people should not look on high, nor believe in a Higher Power, nor exalt themselves to the ideal. Probably M. Zola understands by the word ‘ideal’ either the supernatural—that is to say, the theological rubbish about the Trinity, the Church, the Pope, etc.—or else the *unexplained*, as he calls the forces of the vast world in which we are plunged. And in that case men would do well to follow M. Zola’s advice. But the fact is that the ideal is neither supernatural nor ‘unexplained.’ The ideal, on the contrary, is the most natural of things; I will not say it is the most explained, but it is that of which man is most sure.
 
@@ -1268,9 +1262,7 @@ Grateful acknowledgment is due to the *Gaulois* for permission to reproduce Duma
 
 ### VI
 
-### AN AFTERWORD TO AN ACCOUNT RENDERED
-OF RELIEF SUPPLIED TO THE FAMINE-STRICKEN, IN THE GOVERNMENT OF
-TOÚLA, IN 1891 AND 1892
+### AN AFTERWORD TO AN ACCOUNT RENDERED OF RELIEF SUPPLIED TO THE FAMINE-STRICKEN, IN THE GOVERNMENT OF TOÚLA, IN 1891 AND 1892
 
 <span class="small-caps">Our</span> two years' experience in distributing among a suffering population contributions that passed through our hands, have quite confirmed our long-established conviction that most of the want and destitution—and the suffering and grief that go with them—which we, almost in vain, have tried to counteract by external means in one small corner of Russia, has arisen, not from some exceptional, temporary cause independent of us, but from general permanent causes quite dependent on us, and consisting entirely in the antichristian, unbrotherly relations maintained by us educated people towards the poor, simple labourers who constantly endure distress and want and the accompanying bitterness and suffering—things that have merely been more conspicuous than usual during the past two years. If this year we do not hear of want, cold, and hunger—of the dying-off, by hundreds of thousands, of adults worn out with overwork and of underfed old people and children—this is not because these things will not occur, but only because we shall not see them—shall forget about them, shall assure ourselves that they do not exist, or that, if they do, they are inevitable and cannot be helped.
 
@@ -1344,7 +1336,7 @@ But what is faith ? And why do people hold the faith they do hold ? What is fait
 
 Among the great mass of the cultured crowd of to-day it is considered a settled question that the essence of every religion consists in superstitious fear, aroused by the not-understood phenomena of Nature, and in the personification and deification of these natural forces, and the worship of them.
 
-This opinion is credulously accepted, without criticism, by the cultured crowd of to-day ; and not only is it not refuted by the scientists, but among them it generally finds its strongest supporters. If voices are now and then heard (such as that of Max Müller and others) attributing to religion another origin and meaning, they pass almost unheard and unnoticed among the common and unanimous acknowledgment of religion in general as a manifestation of ignorance and superstition. Not long ago, at the commencement of the nineteenth century, the most advanced men—if (like the Encyclopædists of the later part of the eighteenth century) they rejected Catholicism, Protestantism, and Russo-Greek Orthodoxy—never denied that religion in general has been, and is, an indispensable condition of life for every man. Not to mention the Deists (such as Bernardin de Saint-Pierre, Diderot, and Rousseau), Voltaire erected a monument to God, and Robespierre instituted a fête of the Supreme Being. But in our time—thanks to the frivolous and superficial teaching of Auguste Comte (who, like most Frenchmen, really believed Christianity to be the same thing as Catholicism , and saw in Catholicism the complete realization of Christianity)—it has been decided and taken for granted by the cultured crowd (always eager and prompt to accept the lowest view) that religion is only one special, long-outlived phase in the development of humanity, and a hindrance to its further progress. It is taken for granted that humanity has passed through two stages, the religious and the metaphysical, and has now entered on a third and highest one—the scientific ; and that all religious manifestations among men are mere survivals of humanity's spiritual organ, which, like the fifth toe-nail of the horse, has long lost all meaning or importance.
+This opinion is credulously accepted, without criticism, by the cultured crowd of to-day ; and not only is it not refuted by the scientists, but among them it generally finds its strongest supporters. If voices are now and then heard (such as that of Max Müller and others) attributing to religion another origin and meaning, they pass almost unheard and unnoticed among the common and unanimous acknowledgment of religion in general as a manifestation of ignorance and superstition. Not long ago, at the commencement of the nineteenth century, the most advanced men—if (like the Encyclopædists of the later part of the eighteenth century) they rejected Catholicism, Protestantism, and Russo-Greek Orthodoxy—never denied that religion in general has been, and is, an indispensable condition of life for every man. Not to mention the Deists (such as Bernardin de Saint-Pierre, Diderot, and Rousseau), Voltaire erected a monument to God, and Robespierre instituted a fête of the Supreme Being. But in our time—thanks to the frivolous and superficial teaching of Auguste Comte (who, like most Frenchmen, really believed Christianity to be the same thing as Catholicism, and saw in Catholicism the complete realization of Christianity)—it has been decided and taken for granted by the cultured crowd (always eager and prompt to accept the lowest view) that religion is only one special, long-outlived phase in the development of humanity, and a hindrance to its further progress. It is taken for granted that humanity has passed through two stages, the religious and the metaphysical, and has now entered on a third and highest one—the scientific ; and that all religious manifestations among men are mere survivals of humanity's spiritual organ, which, like the fifth toe-nail of the horse, has long lost all meaning or importance.
 
 It is taken for granted that the essence of religion lies in fear evoked by the unknown forces of Nature, in belief in imaginary beings, and in worship of them, as in ancient times Democritus supposed, and as the latest philosophers and historians of religion assert.
 
@@ -1362,7 +1354,7 @@ That question faces every man, and, in one way or other, every man answers it. A
 
 All the metaphysics of religion, all the doctrines about deities, and about the origin of the world, and all external worship—which are usually supposed to be religion—are but indications (differing according to geographical, ethnographical, and historical circumstances) of the existence of religion. There is no religion, from the most elevated to the coarsest, that has not at its root this establishing of man’s relation to the surrounding universe or to its first cause. There is no religious rite, however coarse, nor any cult, however refined, that has not this at its root. Every religious teaching is the expression which the founder of that religion has given, of the relation he considered himself as a man (and consequently all other people also) to occupy towards the universe and its origin and first cause.
 
-The expressions of these relations are very numerous, corresponding to the different ethnographical and historical conditions of the founders of these religions, and the nations that adopted them. Moreover, all these expressions are variously interpreted and perverted by the followers of teachers who were usually hundreds, and sometimes thousands, of years ahead of the comprehension of the masses. And so these relations of man to the universe—*i.e.,* to religion—appear to be very numerous, though, in reality, there are only three fundamental relations in which men stand towards the universe and its author. They are: (1) The primitive , personal relation ; (2) the pagan, social, or family-State relation ; (3) the Christian or divine relation.
+The expressions of these relations are very numerous, corresponding to the different ethnographical and historical conditions of the founders of these religions, and the nations that adopted them. Moreover, all these expressions are variously interpreted and perverted by the followers of teachers who were usually hundreds, and sometimes thousands, of years ahead of the comprehension of the masses. And so these relations of man to the universe—*i.e.,* to religion—appear to be very numerous, though, in reality, there are only three fundamental relations in which men stand towards the universe and its author. They are: (1) The primitive, personal relation ; (2) the pagan, social, or family-State relation ; (3) the Christian or divine relation.
 
 Strictly speaking there are only two fundamental relations in which man can stand towards the world : the *Personal,* which sees the meaning of life in personal well-being, obtained separately, or in union with other individuals ; and the *Christian,* which sees the meaning of life to consist in service of him who sent man into the world. The second of the three divisions mentioned in the first classification—the social—is really only an extension of the first.
 
@@ -1505,7 +1497,7 @@ So in answer to your two questions, I say: ‘*Religion is a certain relation es
 
 ## VIII. Reason and Religion
 
-### Letter 3: AN INQUIRER
+### Letter 3
 
 ### VIII
 
@@ -1610,8 +1602,7 @@ Therefore, the emancipation of the Russian people from the degrading influence o
 
 ### X
 
-### LETTER TO PETER VERÍGIN, THE
-DOUKHOBÓR LEADER—I
+### LETTER TO PETER VERÍGIN, THE DOUKHOBÓR LEADER—I
 
 <span class="small-caps">Dear Brother</span>,
 
@@ -1635,8 +1626,7 @@ This letter and the one that follows were written to Peter Verígin while he was
 
 ### XI
 
-### LETTER TO PETER VERÍGIN, THE
-DOUKHOBÓR LEADER—II
+### LETTER TO PETER VERÍGIN, THE DOUKHOBÓR LEADER—II
 
 <span class="small-caps">Dear Friend</span>,
 
@@ -1684,8 +1674,7 @@ Yours lovingly,
 
 ### XII
 
-### LETTER ON NON-RESISTANCE: TO ERNEST H.
-CROSBY, OF NEW YORK
+### LETTER ON NON-RESISTANCE: TO ERNEST H. CROSBY, OF NEW YORK
 
 <span class="small-caps">Dear Mr. Crosby,</span>
 
@@ -1790,8 +1779,7 @@ The real question is not whether it would be good or bad for a certain human soc
 
 ### XIII
 
-### HOW TO READ THE GOSPELS, AND WHAT IS
-ESSENTIAL IN THEM
+### HOW TO READ THE GOSPELS, AND WHAT IS ESSENTIAL IN THEM
 
 <span class="small-caps">There</span> is so much that is strange, improbable, unintelligible, and even contradictory, in what professes to be Christ's teaching, that people do not know how to understand it.
 
@@ -1807,7 +1795,7 @@ In either case, therefore, the Gospels which transmit Christ's teaching must con
 
 That is how I read the Gospels, and I found in them truth plain enough for little children to understand, as indeed is said in the Gospels. So that when I am asked what *my* teaching consists in, and how *I* understand Christ's teaching, I reply : ‘I have no teaching, but I understand Christ's teaching as it is explained in the Gospels. If I have written books about Christ's teaching, I have done so only to show the falseness of interpretations given by commentators on the Gospels.’
 
-To understand Christ's real teaching, the chief thing is not to interpret the Gospels, but to understand them as they are written. And therefore, to the question how Christ's teaching should be understood, I reply : ‘If you wish to understand it, read the Gospels. Read them, putting aside all foregone conclusions ; read them with the sole desire to understand what is there said. But just because the Gospels are holy books, read them considerately, reasonably, and with discernment , and not haphazard or mechanically, as though all the words were of equal weight.’
+To understand Christ's real teaching, the chief thing is not to interpret the Gospels, but to understand them as they are written. And therefore, to the question how Christ's teaching should be understood, I reply : ‘If you wish to understand it, read the Gospels. Read them, putting aside all foregone conclusions ; read them with the sole desire to understand what is there said. But just because the Gospels are holy books, read them considerately, reasonably, and with discernment, and not haphazard or mechanically, as though all the words were of equal weight.’
 
 To understand any book one must choose out the parts that are quite clear, dividing them from what is obscure or confused. And from what is clear we must form our idea of the drift and spirit of the whole work. Then, on the basis of what we have understood, we may proceed to make out what is confused or not quite intelligible. That is how we read all kinds of books. And it is particularly necessary thus to read the Gospels, which have passed through a multiplicity of compilations, translations, and transcriptions, and were composed eighteen centuries ago, by men who were not highly educated, and who were superstitious.[^fn-p0203-1]
 
@@ -1946,8 +1934,7 @@ The above article was contributed to Vengerof's *Biographical Dictionary of Russ
 
 ### I.
 
-### *To T. M. Bóndaref, who had written from Siberia asking
-for information about the Single-Tax.*
+### *To T. M. Bóndaref, who had written from Siberia asking for information about the Single-Tax.*
 
 <span class="small-caps">This</span> is Henry George's plan:
 
@@ -1969,7 +1956,7 @@ The advantages of such an arrangement would be :
 
 6 (and chiefly). That the non-workers will be saved from the sin of exploiting other people's labour (in doing which they are often not the guilty parties, for they have from childhood been educated in idleness, and do not know how to work), and from the yet greater sin of all kinds of shuffling and lying to justify themselves in commiting that sin ; and the workers will be saved from the temptation and sin of envying, condemning and being exasperated with the non-workers, so that one cause of separation among men will be destroyed.
 
-### Letter 9: a German Propagandist of Henry George's Views
+### Letter 9
 
 ### **II.**
 
@@ -2359,9 +2346,7 @@ This is what a German soldier writes :
 
 > ‘And what horrors do we not suffer from it ! Never shall I forget the pitiful groans that pierced one to the marrow !
 
-> ‘People who never did each other any harm begin to slaughter one another like wild animals, and petty, slavish souls—implicate the good God, making Him their confederate in such deeds.
-
-‘My neighbour in the ranks had his jaw broken by a bullet. The poor wretch went wild with pain. He ran like a madman, and in the scorching summer heat could not even get water to cool his horrible wound. Our commander, the Crown Prince (who was afterwards the noble Emperor Frederick), wrote in his diary: “War —is an irony on the Gospels.” . . .’
+> ‘People who never did each other any harm begin to slaughter one another like wild animals, and petty, slavish souls—implicate the good God, making Him their confederate in such deeds. ‘My neighbour in the ranks had his jaw broken by a bullet. The poor wretch went wild with pain. He ran like a madman, and in the scorching summer heat could not even get water to cool his horrible wound. Our commander, the Crown Prince (who was afterwards the noble Emperor Frederick), wrote in his diary: “War —is an irony on the Gospels.” . . .’
 
 People are beginning to understand the fraud of patriotism, in which all the Governments take such pains to keep them involved.
 
@@ -2434,10 +2419,10 @@ If people would but understand that they are not the sons of some fatherland or 
 
 ### ‘THOU SHALT NOT KILL’
 
-> ‘Thou shalt not kill.’—<span class="small-caps">Exod.</span> xx. 13.
-‘The disciple is not above his master: but every one when he is perfected shall be as his master.’—<span class="small-caps">Luke</span> vi. 40.
-‘For all they that take the sword shall perish with the sword.’—<span class="small-caps">Matt.</span> xxvi. 52.
-‘Therefore all things whatsoever ye would that men should do to you, do ye even so to them.’—<span class="small-caps">Matt.</span> vii. 12.
+> ‘Thou shalt not kill.’—<span class="small-caps">Exod.</span> xx. 13.  
+> ‘The disciple is not above his master: but every one when he is perfected shall be as his master.’—<span class="small-caps">Luke</span> vi. 40.  
+> ‘For all they that take the sword shall perish with the sword.’—<span class="small-caps">Matt.</span> xxvi. 52.  
+> ‘Therefore all things whatsoever ye would that men should do to you, do ye even so to them.’—<span class="small-caps">Matt.</span> vii. 12.
 
 When Kings are executed after trial, as in the case of Charles I., Louis XVI., and Maximilian of Mexico ; or when they are killed in Court conspiracies, like Peter III., Paul, and various Sultans, Shahs, and Khans—little is said about it ; but when they are killed without a trial and without a Court conspiracy—as in the case of Henry IV. of France, Alexander II., the Empress of Austria, the late Shah of Persia, and, recently, Humbert—such murders excite the greatest surprise and indignation among Kings and Emperors and their adherents, just as if they themselves never took part in murders, nor profited by them, nor instigated them. But, in fact, the mildest of the murdered Kings (Alexander II. or Humbert, for instance), not to speak of executions in their own countries, were instigators of, and accomplices and partakers in, the murder of tens of thousands of men who perished on the field of battle ; while more cruel Kings and Emperors have been guilty of hundreds of thousands, and even millions, of murders.
 
@@ -2455,7 +2440,7 @@ Only on a most superficial view, can the killing of these men seem a means of sa
 
 One only need remember that similar oppression and similar war went on, no matter who was at the head of the Government—Nicholas or Alexander, Frederick or Wilhelm, Napoleon or Louis, Palmerston or Gladstone, McKinley or anyone else—in order to understand that it is not any particular person who causes these oppressions and these wars from which the nations suffer. The misery of nations is caused not by particular persons, but by the particular order of Society under which the people are so tied up together that they find themselves all in the power of a few men, or more often in the power of one single man : a man so perverted by his unnatural position as arbiter of the fate and lives of millions, that he is always in an unhealthy state, and always suffers more or less from a mania of self-aggrandizement, which only his exceptional position conceals from general notice.
 
-Apart from the fact that such men are surrounded from earliest childhood to the grave by the most insensate luxury and an atmosphere of falsehood and flattery which always accompanies them, their whole education and all their occupations are centred on one object : learning about former murders, the best present-day ways of murdering, and the best preparations for future murder. From childhood they learn about killing in all its possible forms. They always carry about with them murderous weapons—swords or sabres ; they dress themselves in various uniforms ; they attend parades, reviews and manœuvres ; they visit one another, presenting one another with Orders and nominating one another to the command of regiments—and not only does no one tell them plainly what they are doing, or say that to busy one’s self with preparations for killing is revolting and criminal, but from all sides they hear nothing but approval and enthusiasm for all this activity of theirs. Every time they go out, and at each parade and review, crowds of people flock to greet them with enthusiasm, and it seems to them as if the whole nation approves of their conduct. The only part of the Press that reaches them, and that seems to them the expression of the feelings of the whole people, or at least of its best representatives, most slavishly extols their every word and action, however silly or wicked they may be. Those around them, men and women, clergy and laity—all people who do not prize human dignity—vying with one another in refined flattery, agree with them about anything and deceive them about everything, making it impossible for them to see life as it is. Such rulers might live a hundred years without ever seeing one single really independent man or ever hearing the truth spoken. One is sometimes appalled to hear of the words and deeds of these men; but one need only consider their position in order to understand that anyone in their place would act as they do. If a reasonable man found himself in their place, there is only one reasonable action he could perform, and that would be to get away from such a position. Any one remaining in it would behave as they do.
+Apart from the fact that such men are surrounded from earliest childhood to the grave by the most insensate luxury and an atmosphere of falsehood and flattery which always accompanies them, their whole education and all their occupations are centred on one object : learning about former murders, the best present-day ways of murdering, and the best preparations for future murder. From childhood they learn about killing in all its possible forms. They always carry about with them murderous weapons—swords or sabres ; they dress themselves in various uniforms ; they attend parades, reviews and manœuvres ; they visit one another, presenting one another with Orders and nominating one another to the command of regiments—and not only does no one tell them plainly what they are doing, or say that to busy one’s self with preparations for killing is revolting and criminal, but from all sides they hear nothing but approval and enthusiasm for all this activity of theirs. Every time they go out, and at each parade and review, crowds of people flock to greet them with enthusiasm, and it seems to them as if the whole nation approves of their conduct. The only part of the Press that reaches them, and that seems to them the expression of the feelings of the whole people, or at least of its best representatives, most slavishly extols their every word and action, however silly or wicked they may be. Those around them, men and women, clergy and laity—all people who do not prize human dignity—vying with one another in refined flattery, agree with them about anything and deceive them about everything, making it impossible for them to see life as it is. Such rulers might live a hundred years without ever seeing one single really independent man or ever hearing the truth spoken. One is sometimes appalled to hear of the words and deeds of these men; but one need only consider their position in order to understand that any-one in their place would act as they do. If a reasonable man found himself in their place, there is only one reasonable action he could perform, and that would be to get away from such a position. Any one remaining in it would behave as they do.
 
 What, indeed, must go on in the head of some Wilhelm of Germany—a narrow-minded, ill-educated, vain man, with the ideals of a German Junker—when there is nothing he can say so stupid or so horrid that it will not be met by an enthusiastic ‘*Hoch!*’ and be commented on by the Press of the entire world as though it were something highly important. When he says that, at his word, soldiers should be ready to kill their own fathers, people shout ‘Hurrah!’ When he says that the Gospel must be introduced with an iron fist—‘Hurrah!’ When he says the army is to take no prisoners in China, but to slaughter everybody, he is not put into a lunatic asylum, but people shout ‘Hurrah!’ and set sail for China to execute his commands. Or Nicholas II. (a man naturally modest) begins his reign by announcing to venerable old men who had expressed a wish to be allowed to discuss their own affairs, that such ideas of self-government were ‘insensate dreams,’—and the organs of the Press he sees, and the people he meets, praise him for it. He proposes a childish, silly, and hypocritical project of universal peace, while at the same time ordering an increase in the army—and there are no limits to the laudations of his wisdom and virtue. Without any need, he foolishly and mercilessly insults and oppresses a whole nation, the Finns, and again he hears nothing but praise. Finally, he arranges the Chinese slaughter—terrible in its injustice, cruelty and incompatibility with his peace projects—and, from all sides, people applaud him, both as a victor and as a continuer of his father’s peace policy.
 
@@ -2566,8 +2551,8 @@ This is written by Leo Tolstoy, who in writing it has tried to express not his o
 
 ### A REPLY TO THE SYNOD'S EDICT OF EXCOMMUNICATION, AND TO LETTERS RECEIVED BY ME CONCERNING IT
 
-> 'He who begins by loving Christianity better than truth, will proceed by loving his own sect or church better than Christianity, and end in loving himself better than all.'—
-<span class="small-caps">Coleridge.</span>
+> 'He who begins by loving Christianity better than truth, will proceed by loving his own sect or church better than Christianity, and end in loving himself better than all.'—  
+> <span class="small-caps">Coleridge.</span>
 
 <span class="small-caps">At</span> first I did not wish to reply to the Synod's Edict about me but it has called forth very many letters in which correspondents unknown to me write—some of them scolding me for rejecting things I never rejected ; others exhorting me to believe in things I have always believed in ; others, again, expressing an agreement with me which probably does not really exist, and a sympathy to which I am hardly entitled. So I have decided to reply both to the Edict itself—indicating what is unjust in it—and to the communications of my unknown correspondents.
 
@@ -2607,7 +2592,7 @@ In the periodical absolution of sins at Confession I see a harmful deception, wh
 
 Both in Extreme Unction and in Anointing I see methods of gross sorcery—as in the worship of icons and relics, and as in all the rites, prayers and exorcisms which fill the Prayer-Book. In the Sacrament I see a deification of the flesh, and a perversion of Christian teaching. In Ordination I see (beside an obvious preparation for deception) a direct infringement of the words of Jesus, which plainly forbid anyone to be called teacher, father, or master.[^fn-p0294-1]
 
-It is stated, finally, as the last and greatest of my sins, that, ‘reviling the most sacred objects of the faith of the Orthodox people, he has not shrunk from subjecting to derision the greatest of Sacraments, the Holy Eucharist.’[^fn-p0294-2] That I did not shrink from describing simply and objectively what the priest does when preparing this so-called Sacrament is perfectly true; but that this so-called Sacrament is anything holy, and that to describe it simply, just as it is performed, is blasphemy, is quite untrue. Blasphemy does not consist in calling a partition a partition, and not an iconostasis ,[^fn-p0295-1] and a cup a cup, and not a chalice, etc. ; but it is a most terrible, continual, and revolting blasphemy that men (using all possible means of deception and hypnotization) assure children and simple-minded folk that if bits of bread are cut up in a particular manner while certain words are pronounced over them, and if they are put into wine,[^fn-p0295-2] God will enter into those bits of bread, and any living person named by the priest when he takes out one of these sops will be healthy, and any dead person named by the priest when he takes out one of these sops will be better off in the other world on that account ; and that into the man who eats such a sop—God himself will enter.
+It is stated, finally, as the last and greatest of my sins, that, ‘reviling the most sacred objects of the faith of the Orthodox people, he has not shrunk from subjecting to derision the greatest of Sacraments, the Holy Eucharist.’[^fn-p0294-2] That I did not shrink from describing simply and objectively what the priest does when preparing this so-called Sacrament is perfectly true; but that this so-called Sacrament is anything holy, and that to describe it simply, just as it is performed, is blasphemy, is quite untrue. Blasphemy does not consist in calling a partition a partition, and not an iconostasis, [^fn-p0295-1] and a cup a cup, and not a chalice, etc. ; but it is a most terrible, continual, and revolting blasphemy that men (using all possible means of deception and hypnotization) assure children and simple-minded folk that if bits of bread are cut up in a particular manner while certain words are pronounced over them, and if they are put into wine,[^fn-p0295-2] God will enter into those bits of bread, and any living person named by the priest when he takes out one of these sops will be healthy, and any dead person named by the priest when he takes out one of these sops will be better off in the other world on that account ; and that into the man who eats such a sop—God himself will enter.
 
 Surely that is terrible !
 
@@ -2617,7 +2602,7 @@ What is most terrible is that people to whom it is profitable, not only deceive 
 
 So it is with the religious deceivers. It would be worth while keeping them ten times better, and letting them live in the greatest luxury, if only they would refrain from ruining men with their deceptions. But they cannot act differently. That is what is awful. And, therefore, we not only may, but should, unmask their deceptions. If there be a sacred thing, it is surely not what they call Sacraments, but just this very duty of unmasking their religious deceptions when one detects them.
 
-When a Tchouvásh smears his idol with sour cream, or beats it, I can refrain from insulting his faith, and can pass by with equanimity, for he does these things in the name of a superstition of his own, foreign to me, and he does not interfere with what to me is holy. But when, with their barbarous superstitions, men (however numerous, however ancient their superstitions, and however powerful they may be) in the name of the God by whom I live, and of that teaching of Christ's which has given life to me and is capable of giving life to all men, preach gross sorcery, I cannot endure it passively . And if I call what they are doing by its name, I only do my duty and what I cannot refrain from doing because I believe in God and in the Christian teaching. If they call the exposure of their imposture 'blasphemy,' that only shows the strength of their deception, and should increase the efforts to destroy this deception, made by those who believe in God and in Christ's teaching, and who see that this deception hides the true God from men's sight.
+When a Tchouvásh smears his idol with sour cream, or beats it, I can refrain from insulting his faith, and can pass by with equanimity, for he does these things in the name of a superstition of his own, foreign to me, and he does not interfere with what to me is holy. But when, with their barbarous superstitions, men (however numerous, however ancient their superstitions, and however powerful they may be) in the name of the God by whom I live, and of that teaching of Christ's which has given life to me and is capable of giving life to all men, preach gross sorcery, I cannot endure it passively. And if I call what they are doing by its name, I only do my duty and what I cannot refrain from doing because I believe in God and in the Christian teaching. If they call the exposure of their imposture 'blasphemy,' that only shows the strength of their deception, and should increase the efforts to destroy this deception, made by those who believe in God and in Christ's teaching, and who see that this deception hides the true God from men's sight.
 
 They should say of Christ—who drove bulls and sheep and dealers from the temple—that he blasphemed. Were he to come now, and see what is done in his name in church, he would surely, with yet greater and most just anger, throw out all these horrible altar-cloths,[^fn-p0297-1] lances, crosses, and cups and candles and icons and all the things wherewith the priests—carrying on their sorcery—hide God and his truth from mankind.
 
@@ -2648,8 +2633,7 @@ I travelled the contrary way. I began by loving my Orthodox faith more than my p
 
 ### XXIII
 
-### WHAT IS RELIGION, AND WHEREIN LIES ITS
-ESSENCE?
+### WHAT IS RELIGION, AND WHEREIN LIES ITS ESSENCE?
 
 ### I.
 
@@ -2935,10 +2919,6 @@ So this is what religion is, and in what its essence consists.
 
 [February, 1902.]
 
-### Letter 12
-
-### XXIV
-
 ### Notes
 
 [^fn-p0301-1]: (*) See the *Revue de Paris*, January, 1901.—L. T.
@@ -2960,7 +2940,9 @@ So this is what religion is, and in what its essence consists.
 
 ## XXIV. Letter on Education
 
-### Letter 13: S.
+### Letter 12: S.
+
+### XXIV
 
 ### LETTER ON EDUCATION
 
@@ -2968,7 +2950,7 @@ So this is what religion is, and in what its essence consists.
 
 I was very glad to have a serious conversation with X. about the education of children. What he and I quite agree about, but what is only negative, is that children should be taught *as little as possible.*[^fn-p0350-1] That children should grow up without having learnt certain subjects is not nearly so bad as what happens to nearly all children, especially those whose education is directed by mothers who do not know the subjects their children learn—viz., they get educational *indigestion* and come to detest education. A child, or a man, can learn when he has an appetite for what he studies. Without appetite, instruction is an evil—a terrible evil causing people to become mentally crippled. For Heaven's sake, dear S., if you do not quite agree with me, take my word for it, that were it not a matter of such enormous importance I would not write to you about it. Above all, believe your husband, who sees the thing quite reasonably.
 
-But then comes the customary reply: If children are not taught, how are they to be occupied? Are they to play knuckle-bones with the village children, and learn all sorts of stupidities and nastiness? With our squirely way of life, this reply has some reasonable ground. But is it really necessary to accustom children to a squirely way of life, and to make them feel that all their requirements are satisfied by someone, somehow, without their having to take any part in the work? I think the first condition of a good education is that the child should know that all he uses does not fall from heaven ready-made, but is produced by other people's labour. To understand that all he lives on comes from the labour of other people who neither know nor love him, is too much for a child (God grant he may understand it when he is grown up); but to understand that the chamber-pot he uses is emptied and wiped, without any pleasure, by a nurse or a house-maid, and that the boots and goloshes he always puts on clean are cleaned in the same way—not out of love for him, but for some other reason quite unintelligible to him—is something he can and should understand, and of which he should be ashamed. If he is not ashamed and if he continues to use them, that is the very worst commencement of an education, and leaves the deepest traces for his whole life. To avoid that, however, is very simple, and is just what (to use poetic language), standing on the threshold of the grave, I beseech you to do for your children. Let them do all they can for themselves : carry out their own slops, fill their own jugs, wash up, arrange their rooms, clean their boots and clothes, lay the table, etc. Believe me that, unimportant as these things may seem, they are a hundred times more important for your children's happiness than a knowledge of French, or of history, etc. It is true that here the chief difficulty crops up : children do willingly only what their parents do, and therefore I beg of you, do these things. This will effect two objects at once : it makes it possible to learn less, by filling the time in the most useful and natural way, and it trains the children to simplicity, to work, and to self-dependence. Please do this. You will be gratified from the first month, and the children yet more so. If to this you can add work on the land, if it be but a kitchen-garden, that will be well; though it too often becomes a mere pastime. The necessity of attending to one's own needs and carrying out one's own slops is admitted by all the best schools, such as Bedales, where the director of the school himself takes a share in such work. Believe me, that without that condition there is no possibility of a moral education, a Christian education, or a consciousness of the fact that all men are brothers and equals. A child may yet understand that a grown-up man, his father—a banker or turner, an artist or an overseer, who by his work feeds the whole family—may free himself from occupations which prevent his giving all his time to his profitable work. But how can a child—as yet untried and unable to do anything—explain to himself that others do for him what he naturally should do for himself?
+But then comes the customary reply: If children are not taught, how are they to be occupied? Are they to play knuckle-bones with the village children, and learn all sorts of stupidities and nastiness? With our squirely way of life, this reply has some reasonable ground. But is it really necessary to accustom children to a squirely way of life, and to make them feel that all their requirements are satisfied by someone, somehow, without their having to take any part in the work? I think the first condition of a good education is that the child should know that all he uses does not fall from heaven ready-made, but is produced by other people's labour. To understand that all he lives on comes from the labour of other people who neither know nor love him, is too much for a child (God grant he may understand it when he is grown up); but to understand that the chamber-pot he uses is emptied and wiped, without any pleasure, by a nurse or a house-maid, and that the boots and goloshes he always puts on clean are cleaned in the same way—not out of love for him, but for some other reason quite unintelligible to him—is something he can and should understand, and of which he should be ashamed. If he is not ashamed and if he continues to use them, that is the very worst commencement of an education, and leaves the deepest traces for his whole life. To avoid that, however, is very simple, and is just what (to use poetic language), standing on the threshold of the grave, I beseech you to do for your children. Let them do all they can for themselves : carry out their own slops, fill their own jugs, wash up, arrange their rooms, clean their boots and clothes, lay the table, etc. Believe me that, un-important as these things may seem, they are a hundred times more important for your children's happiness than a knowledge of French, or of history, etc. It is true that here the chief difficulty crops up : children do willingly only what their parents do, and therefore I beg of you, do these things. This will effect two objects at once : it makes it possible to learn less, by filling the time in the most useful and natural way, and it trains the children to simplicity, to work, and to self-dependence. Please do this. You will be gratified from the first month, and the children yet more so. If to this you can add work on the land, if it be but a kitchen-garden, that will be well; though it too often becomes a mere pastime. The necessity of attending to one's own needs and carrying out one's own slops is admitted by all the best schools, such as Bedales, where the director of the school himself takes a share in such work. Believe me, that without that condition there is no possibility of a moral education, a Christian education, or a consciousness of the fact that all men are brothers and equals. A child may yet understand that a grown-up man, his father—a banker or turner, an artist or an overseer, who by his work feeds the whole family—may free himself from occupations which prevent his giving all his time to his profitable work. But how can a child—as yet untried and unable to do anything—explain to himself that others do for him what he naturally should do for himself?
 
 The only explanation for him is that people are divided into two classes—masters and slaves; and however much we may talk to him in words about equality and the brotherhood of man, all the conditions of his life, from his getting up, to his evening meal, show him the contrary.
 
@@ -3090,7 +3072,7 @@ Listen to what is said by the bishops and academicians at their conferences, rea
 
 Within my recollection the Russian labouring classes have, in a great measure, lost the traits of true Christianity which they formerly possessed, but which are now carefully banished by the clergy.
 
-Among the people there formerly existed (but now only in out-of-the-way districts) Christian legends and proverbs, verbally handed down from generation to generation, and these legends—such as the legend of Christ wandering in the guise of a beggar, of the angel who doubted God's mercy, of the crazy man who danced at a drum-shop ; and such sayings as : 'Without God one can't reach the threshold,' 'God is not in might, but in right,’ ‘Live till eve, live for ever,’ etc. —these legends and proverbs formed the spiritual food of the people.
+Among the people there formerly existed (but now only in out-of-the-way districts) Christian legends and proverbs, verbally handed down from generation to generation, and these legends—such as the legend of Christ wandering in the guise of a beggar, of the angel who doubted God's mercy, of the crazy man who danced at a drum-shop ; and such sayings as : 'With-out God one can't reach the threshold,' 'God is not in might, but in right,’ ‘Live till eve, live for ever,’ etc. —these legends and proverbs formed the spiritual food of the people.
 
 Besides these, there were Christian customs: to have pity on a criminal or a wanderer, to give of one’s last resources to a beggar, and to ask forgiveness of a man one has offended.
 
@@ -3255,8 +3237,7 @@ May God, who sees your hearts, help you in the effort.
 
 ### XXVI
 
-### THOUGHTS SELECTED FROM PRIVATE
-LETTERS
+### THOUGHTS SELECTED FROM PRIVATE LETTERS
 
 ### <span class="small-caps">Two Views of Life.</span>
 

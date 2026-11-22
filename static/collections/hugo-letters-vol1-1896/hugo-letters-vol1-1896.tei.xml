@@ -9,226 +9,232 @@
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
         <idno type="book_id">hugo-letters-vol1-1896</idno>
-        <availability status="free"><p>CC0 1.0 Public Domain</p></availability>
+        <availability status="free"><p>CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)</p></availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>The Letters of Victor Hugo</title>
           <date>1896</date>
+          <idno type="URI">https://archive.org/details/ofvictorhletters00hugorich</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Diplomatic archival transcription preserving historical orthography, diacritics, epistolary layouts, and footnotes.</p>
+      </editorialDecl>
+    </encodingDesc>
     <profileDesc>
       <correspDesc xml:id="letter-0001">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1815-08-02">2d August, 1815</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1815-08-02">2d August, 1815.</date></correspAction>
         <correspAction type="received"><persName>Madame la Comtesse Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0002">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-07-04">4th July, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-07-04">4th July, 1822.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0003">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-07-26">26th July, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-07-26">26th July, 1822.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0004">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-08-08">8th August, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-08-08">8th August, 1822.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0005">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-08-31">31st August, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-08-31">31st August, 1822.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0006">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-09-13">13th September, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-09-13">13th September, 1822.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0007">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-09-18">18th September, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-09-18">18th September, 1822.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0008">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-10-19">19th October, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-10-19">19th October, 1822.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0009">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-11-19">19th November, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-11-19">19th November, 1822.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0010">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1822-12-20">20th December, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1822-12-20">20th December, 1822.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0011">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-03-05">Tuesday, 5th March, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-03-05">Tuesday, 5th March, 1823.</date></correspAction>
         <correspAction type="received"><persName>Eugène Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0012">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-03-05">Tuesday, 5th March, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-03-05">Tuesday, 5th March, 1823.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0013">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-05-24">24th May, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-05-24">24th May, 1823.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0014">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Gentilly</placeName><date when="1823-06-27">27th June, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Gentilly</placeName><date when="1823-06-27">27th June, 1823.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0015">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-07-01">1st July, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-07-01">1st July, 1823.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0016">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-07-24">24th July, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-07-24">24th July, 1823.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0017">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-07-29">29th July, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-07-29">29th July, 1823.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0018">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-08-03">3d August, [1823]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-08-03">3d August, [1823].</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0019">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>War Office</placeName><date when="1823-08-06">6th August, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>War Office</placeName><date when="1823-08-06">6th August, 1823.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0020">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-09-13">13th September, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-09-13">13th September, 1823.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0021">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-10-04">4th October, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-10-04">4th October, 1823.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0022">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-10-06">6th October, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-10-06">6th October, 1823.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0023">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-10-13">13th October, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-10-13">13th October, 1823.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0024">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-11">Saturday, November, [1823]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-11">Saturday, November, [1823].</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0025">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824-03-27">27th March, 1824</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824-03-27">27th March, 1824.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0026">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824-06-27">27th June, 1824</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824-06-27">27th June, 1824.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0027">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-02-19">19th February, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-02-19">19th February, 1825.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0028">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-02-27">27th February, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-02-27">27th February, 1825.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0029">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Gentilly</placeName><date when="1825-06-19">19th June, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Gentilly</placeName><date when="1825-06-19">19th June, 1825.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0030">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-07-18">18th July, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-07-18">18th July, 1825.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0031">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-07-31">31st July, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-07-31">31st July, 1825.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0032">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-10-10">10th October, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-10-10">10th October, 1825.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0033">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1826-11-03">3d November, 1826</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1826-11-03">3d November, 1826.</date></correspAction>
         <correspAction type="received"><persName>Général Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0034">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Blois</placeName><date when="1825-04-27">27th April, 1825, morning</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Blois</placeName><date when="1825-04-27">[Blois, 27th April, 1825, morning.]</date></correspAction>
         <correspAction type="received"><persName>J. B. Soulié</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0035">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>La Miltière</placeName><date when="1825-05-12">12th May, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>La Miltière</placeName><date when="1825-05-12">12th May, 1825.</date></correspAction>
         <correspAction type="received"><persName>M. Foucher</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0036">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Orléans</placeName><date when="1825-05-19">19th May, 4 p. m., [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Orléans</placeName><date when="1825-05-19">19th May, 4 p. m., [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0037">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-05-20">Friday, 20th May, 7.30 a. m., [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-05-20">Friday, 20th May, 7.30 a. m., [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0038">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-05-21">21st May, [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-05-21">21st May, [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0039">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-05-22">22d May, 12.30 p. m., [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-05-22">22d May, 12.30 p. m., [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0040">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-05-23">23d May, 1 p. m., [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-05-23">23d May, 1 p. m., [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0041">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-05-24">24th May, [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1825-05-24">24th May, [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0042">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Villers-Cotterets</placeName><date when="1825-05-25">25th May, 7 a. m., [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Villers-Cotterets</placeName><date when="1825-05-25">25th May, 7 a. m., [1825].</date></correspAction>
         <correspAction type="received"><persName>Adele Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0043">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-27">27th May, 7 a. m., [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-27">27th May, 7 a. m., [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0044">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-27">27th May, 3.45 p. m., [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-27">27th May, 3.45 p. m., [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0045">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-05-28">28th May, 9 a. m., [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-05-28">28th May, 9 a. m., [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0046">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-05-28">28th May, 3 p. m., [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-05-28">28th May, 3 p. m., [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0047">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-05-28">6 p. m., [28th May, 1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-05-28">6 p. m., [28th May, 1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0048">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-29">29th May, [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-29">29th May, [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0049">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-30">30th May, [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-30">30th May, [1825].</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0050">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-31">31st May, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-31">31st May, 1825.</date></correspAction>
         <correspAction type="received"><persName>Mme. Foucher</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0051">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-31">31st May, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Reims</placeName><date when="1825-05-31">31st May, 1825.</date></correspAction>
         <correspAction type="received"><persName>Adèle Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0052">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1820-04-20">20th April, 1820</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1820-04-20">20th April, 1820.</date></correspAction>
         <correspAction type="received"><persName>Adolphe Trébuchet</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0053">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1820-05-29">29th May, 1820</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1820-05-29">29th May, 1820.</date></correspAction>
         <correspAction type="received"><persName>Adolphe Trébuchet</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0054">
@@ -236,11 +242,11 @@
         <correspAction type="received"><persName>Gaspard de Pons</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0055">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1820-07-11">11th July, 1820</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1820-07-11">11th July, 1820.</date></correspAction>
         <correspAction type="received"><persName>Adolphe Trébuchet</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0056">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1820-09-21">21st September, 1820</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1820-09-21">21st September, 1820.</date></correspAction>
         <correspAction type="received"><persName>Adolphe Trébuchet</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0057">
@@ -248,23 +254,23 @@
         <correspAction type="received"><persName>Count Alfred de Vigny</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0058">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1821-07">July, 1821</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1821-07">July, 1821.</date></correspAction>
         <correspAction type="received"><persName>Count Jules de Rességuier</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0059">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Dreux</placeName><date when="1821-07-20">20th July, 1821</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Dreux</placeName><date when="1821-07-20">20th July, 1821.</date></correspAction>
         <correspAction type="received"><persName>Count Alfred de Vigny</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0060">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1821-10-31">31st October, 1821</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1821-10-31">31st October, 1821.</date></correspAction>
         <correspAction type="received"><persName>M. Trébuchet</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0061">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1821-11-07">7th November, 1821</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1821-11-07">7th November, 1821.</date></correspAction>
         <correspAction type="received"><persName>Count Jules de Rességuier</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0062">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1822-01-17">17th January, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1822-01-17">17th January, 1822.</date></correspAction>
         <correspAction type="received"><persName>Count Jules de Rességuier</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0063">
@@ -272,79 +278,79 @@
         <correspAction type="received"><persName>Abbé de Lamennais</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0064">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-05-26">26th May, [1822]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-05-26">26th May, [1822].</date></correspAction>
         <correspAction type="received"><persName>Count Jules de Rességuier</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0065">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1822-09-03">3d September, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1822-09-03">3d September, 1822.</date></correspAction>
         <correspAction type="received"><persName>Adolphe Trébuchet</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0066">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-09-06">6th September, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-09-06">6th September, 1822.</date></correspAction>
         <correspAction type="received"><persName>Count Jules de Rességuier</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0067">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-08-22">22d August, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1823-08-22">22d August, 1823.</date></correspAction>
         <correspAction type="received"><persName>Adolphe Trébuchet</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0068">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824">[1824]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824">[1824].</date></correspAction>
         <correspAction type="received"><persName>Monsieur Z.</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0069">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824-11-28">Sunday, 28th November, 1824</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824-11-28">Sunday, 28th November, 1824.</date></correspAction>
         <correspAction type="received"><persName>Baron Eckstein</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0070">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824-12-29">29th December, 1824</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824-12-29">29th December, 1824.</date></correspAction>
         <correspAction type="received"><persName>Count Alfred de Vigny</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0071">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Blois</placeName><date when="1825-04-28">28th April, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Blois</placeName><date when="1825-04-28">28th April, 1825.</date></correspAction>
         <correspAction type="received"><persName>Count Alfred de Vigny</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0072">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Blois</placeName><date when="1825-04-29">29th April, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Blois</placeName><date when="1825-04-29">29th April, 1825.</date></correspAction>
         <correspAction type="received"><persName>Baron Eckstein</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0073">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Blois</placeName><date when="1825-05-07">7th May, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Blois</placeName><date when="1825-05-07">7th May, 1825.</date></correspAction>
         <correspAction type="received"><persName>Adolphe de Saint Valry</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0074">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>La Miltière</placeName><date when="1825-05">9th or 10th of May, [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>La Miltière</placeName><date when="1825-05">9th or 10th of May, [1825].</date></correspAction>
         <correspAction type="received"><persName>Paul Foucher</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0075">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-11-14">Sunday, 14th November, [1825]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-11-14">Sunday, 14th November, [1825].</date></correspAction>
         <correspAction type="received"><persName>M. Villars</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0076">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1826-05-25">25th May, 1826</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1826-05-25">25th May, 1826.</date></correspAction>
         <correspAction type="received"><persName>Alphonse de Lamartine</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0077">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1826-08-03">3d August, 1826</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1826-08-03">3d August, 1826.</date></correspAction>
         <correspAction type="received"><persName>Henri de Latouche</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0078">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1826-12-13">13th December, 1826</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1826-12-13">13th December, 1826.</date></correspAction>
         <correspAction type="received"><persName>Victor Pavie</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0079">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1827-01-03">3d January, 1827</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1827-01-03">3d January, 1827.</date></correspAction>
         <correspAction type="received"><persName>Victor Pavie</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0080">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1827-01-15">15th January, 1827</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1827-01-15">15th January, 1827.</date></correspAction>
         <correspAction type="received"><persName>Louis Pavie</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0081">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1827-02-07">7th February, 1827</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1827-02-07">7th February, 1827.</date></correspAction>
         <correspAction type="received"><persName>Victor Pavie</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0082">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1827-03-17">17th March, 1827</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1827-03-17">17th March, 1827.</date></correspAction>
         <correspAction type="received"><persName>Victor Pavie</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0083">
@@ -424,7 +430,7 @@
         <correspAction type="received"><persName>Minister of the Interior</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0102">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1830-02-27">27th February, 1830. Midnight.1</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1830-02-27">27th February, 1830. Midnight.</date></correspAction>
         <correspAction type="received"><persName>Paul Lacroix</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0103">
@@ -443,7 +449,7 @@
         <correspAction type="received"><persName>Charles Nodier</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0107">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1830-08-04">4th August, [1830 ? 1].</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1830-08-04">4th August, [1830 ? ].</date></correspAction>
         <correspAction type="received"><persName>Charles Nodier</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0108">
@@ -483,31 +489,31 @@
         <correspAction type="received"><persName>King Joseph</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0117">
-        <correspAction type="sent"><persName>Victor</persName><date when="1831-09-27">Sunday, 27th September, [1831]</date></correspAction>
+        <correspAction type="sent"><persName>Victor</persName><date when="1831-09-27">Sunday, 27th September, [1831].</date></correspAction>
         <correspAction type="received"><persName>Cordellier-Delanoue</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0118">
-        <correspAction type="sent"><persName>Victor</persName><date when="1831-09-30">30th September, [1831]</date></correspAction>
+        <correspAction type="sent"><persName>Victor</persName><date when="1831-09-30">30th September, [1831].</date></correspAction>
         <correspAction type="received"><persName>Cordellier-Delanoue</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0119">
-        <correspAction type="sent"><persName>Victor</persName><date when="1832-09-07">Thursday, 7th September, [1832]</date></correspAction>
+        <correspAction type="sent"><persName>Victor</persName><date when="1832-09-07">Thursday, 7th September, [1832].</date></correspAction>
         <correspAction type="received"><persName>Baron Taylor</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0120">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1832-10-22">Monday, 22d October, 1832</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1832-10-22">Monday, 22d October, 1832.</date></correspAction>
         <correspAction type="received"><persName>Mlle. Louise Bertin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0121">
-        <correspAction type="sent"><persName>Victor</persName><placeName>Paris</placeName><date when="1832-10-30">30th October, 1832</date></correspAction>
+        <correspAction type="sent"><persName>Victor</persName><placeName>Paris</placeName><date when="1832-10-30">30th October, 1832.</date></correspAction>
         <correspAction type="received"><persName>Mlle. Louise Bertin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0122">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1832-11-26">26th November, 1832</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1832-11-26">26th November, 1832.</date></correspAction>
         <correspAction type="received"><persName>Editor of the Constitutionnel</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0123">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1832-11-27">27th November, 1832</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1832-11-27">27th November, 1832.</date></correspAction>
         <correspAction type="received"><persName>Mlle. Louise Bertin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0124">
@@ -519,51 +525,51 @@
         <correspAction type="received"><persName>M. Mérimée</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0126">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1832-12-03">3d December, [1832]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1832-12-03">3d December, [1832].</date></correspAction>
         <correspAction type="received"><persName>Baron Taylor</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0127">
-        <correspAction type="sent"><persName>Victor H.</persName><date when="1832-12-29">Sunday evening, 29th [December, 1832]</date></correspAction>
+        <correspAction type="sent"><persName>Victor H.</persName><date when="1832-12-29">Sunday evening, 29th [December, 1832].</date></correspAction>
         <correspAction type="received"><persName>Mlle. Louise Bertin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0128">
-        <correspAction type="sent"><date when="1833-02-15">15th February, 1833</date></correspAction>
+        <correspAction type="sent"><date when="1833-02-15">15th February, 1833.</date></correspAction>
         <correspAction type="received"><persName>Mlle. Louise Bertin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0129">
-        <correspAction type="sent"><persName>V. H.</persName><placeName>Paris</placeName><date when="1833-02-27">27th February, 1833</date></correspAction>
+        <correspAction type="sent"><persName>V. H.</persName><placeName>Paris</placeName><date when="1833-02-27">27th February, 1833.</date></correspAction>
         <correspAction type="received"><persName>King Joseph</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0130">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1833-03-21">21st March, 1833</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1833-03-21">21st March, 1833.</date></correspAction>
         <correspAction type="received"><persName>Jouslin de la Salle</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0131">
-        <correspAction type="sent"><persName>Victor H.</persName><placeName>Paris</placeName><date when="1833-03-31">31st March, 1833</date></correspAction>
+        <correspAction type="sent"><persName>Victor H.</persName><placeName>Paris</placeName><date when="1833-03-31">31st March, 1833.</date></correspAction>
         <correspAction type="received"><persName>Victor Pavie</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0132">
-        <correspAction type="sent"><persName>V. H.</persName><date when="1833-05-01">1st May, 7 a. m., [1833]</date></correspAction>
+        <correspAction type="sent"><persName>V. H.</persName><date when="1833-05-01">1st May, 7 a. m., [1833].</date></correspAction>
         <correspAction type="received"><persName>M. Harel</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0133">
-        <correspAction type="sent"><persName>Victor H.</persName><date when="1833-07-14">14th July, 1833</date></correspAction>
+        <correspAction type="sent"><persName>Victor H.</persName><date when="1833-07-14">14th July, 1833.</date></correspAction>
         <correspAction type="received"><persName>Mlle. Louise Bertin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0134">
-        <correspAction type="sent"><persName>V. H.</persName><placeName>Paris</placeName><date when="1833-07-25">25th July, [1833]</date></correspAction>
+        <correspAction type="sent"><persName>V. H.</persName><placeName>Paris</placeName><date when="1833-07-25">25th July, [1833].</date></correspAction>
         <correspAction type="received"><persName>Victor Pavie</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0135">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1833-08-03">3d August, 1833</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1833-08-03">3d August, 1833.</date></correspAction>
         <correspAction type="received"><persName>David d&#x27;Angers</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0136">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1833-11-02">2d November, [1833]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1833-11-02">2d November, [1833].</date></correspAction>
         <correspAction type="received"><persName>Alexandre Dumas</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0137">
-        <correspAction type="sent"><persName>Victor H.</persName><date when="1833-12-05">5th December, 1833</date></correspAction>
+        <correspAction type="sent"><persName>Victor H.</persName><date when="1833-12-05">5th December, 1833.</date></correspAction>
         <correspAction type="received"><persName>Mlle. Louise Bertin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0138">
@@ -575,7 +581,7 @@
         <correspAction type="received"><persName>Monseigneur le Duc d&#x27;Orleans</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0140">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1834-06-15">15th June, 1834</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1834-06-15">15th June, 1834.</date></correspAction>
         <correspAction type="received"><persName>M. Thiers</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0141">
@@ -583,11 +589,11 @@
         <correspAction type="received"><persName>Charles Nodier</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0142">
-        <correspAction type="sent"><persName>Victor H.</persName><date when="1835-05-22">Tuesday morning, 22d May, 1835</date></correspAction>
+        <correspAction type="sent"><persName>Victor H.</persName><date when="1835-05-22">Tuesday morning, 22d May, 1835.</date></correspAction>
         <correspAction type="received"><persName>Mlle. Louise Bertin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0143">
-        <correspAction type="sent"><persName>Victor H.</persName><placeName>Paris</placeName><date when="1831-10-19">19th October, 1831</date></correspAction>
+        <correspAction type="sent"><persName>Victor H.</persName><placeName>Paris</placeName><date when="1831-10-19">19th October, 1831.</date></correspAction>
         <correspAction type="received"><persName>Mlle. Louise Bertin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0144">
@@ -595,21 +601,21 @@
         <correspAction type="received"><persName>M. Sainte-Beuve</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0145">
-        <correspAction type="sent"><persName>V. H.</persName><date when="1827-02">Saturday, [Middle of February, 1827].1</date></correspAction>
+        <correspAction type="sent"><persName>V. H.</persName><date when="1827-02">Saturday, [Middle of February, 1827].</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0146">
         <correspAction type="sent"><persName>Victor</persName><date when="1828">Wednesday evening, [1828].</date></correspAction>
         <correspAction type="received"><persName>M. Sainte-Beuve</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0147">
-        <correspAction type="sent"><persName>Victor</persName><placeName>Paris</placeName><date when="1828-09-17">17th September, 1828.1</date></correspAction>
+        <correspAction type="sent"><persName>Victor</persName><placeName>Paris</placeName><date when="1828-09-17">17th September, 1828.</date></correspAction>
         <correspAction type="received"><persName>M. Sainte-Beuve</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0148">
-        <correspAction type="sent"><persName>Victor</persName><date when="1829">Sunday (midnight), [1829].1</date></correspAction>
+        <correspAction type="sent"><persName>Victor</persName><date when="1829">Sunday (midnight), [1829].</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0149">
-        <correspAction type="sent"><persName>Victor</persName><placeName>Paris</placeName><date when="1829-11-02">2d November, 1829.2</date></correspAction>
+        <correspAction type="sent"><persName>Victor</persName><placeName>Paris</placeName><date when="1829-11-02">2d November, 1829.</date></correspAction>
         <correspAction type="received"><persName>M. Sainte-Beuve</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0150">
@@ -624,7 +630,7 @@
         <correspAction type="received"><persName>M. Sainte-Beuve</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0153">
-        <correspAction type="sent"><persName>Victor</persName><date when="1830-08-05">5th August, [1830].1</date></correspAction>
+        <correspAction type="sent"><persName>Victor</persName><date when="1830-08-05">5th August, [1830].</date></correspAction>
         <correspAction type="received"><persName>M. Sainte-Beuve</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0154">
@@ -698,7 +704,7 @@
         <correspAction type="received"><persName>Sainte-Beuve</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0176">
-        <correspAction type="sent"><persName>Léopoldine Hugo</persName><persName>Victor</persName><date when="1832-12-31">31st December, 1832.</date></correspAction>
+        <correspAction type="sent"><persName>Léopoldine Hugo</persName><persName>Victor</persName><date when="1832-12-31">31st December, 1832. 31st December, 1832.</date></correspAction>
         <correspAction type="received"><persName>Saint-de-Beuve</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0177">
@@ -750,31 +756,31 @@
         <correspAction type="sent"><date when="1834-04-01">Tuesday evening, 1st April, [1834].</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0192">
-        <correspAction type="sent"><persName>V.</persName><date when="1845-02-28">28th February, 1845.1</date></correspAction>
+        <correspAction type="sent"><persName>V.</persName><date when="1845-02-28">28th February, 1845.</date></correspAction>
         <correspAction type="received"><persName>M. Sainte-Beuve</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0193">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Etampes</placeName><date when="1834-08-19">19th August, 1834</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Etampes</placeName><date when="1834-08-19">19th August, 1834.</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0194">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Amiens</placeName><date when="1835-08-03">3d August, 1835</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Amiens</placeName><date when="1835-08-03">3d August, 1835.</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0195">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Treport</placeName><date when="1835-08-06">6th August, 1835</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Treport</placeName><date when="1835-08-06">6th August, 1835.</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0196">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Rennes</placeName><date when="1836-08-07">7th August, 1836</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Rennes</placeName><date when="1836-08-07">7th August, 1836.</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0197">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Valenciennes</placeName><date when="1837-08-15">15th August, 1837</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Valenciennes</placeName><date when="1837-08-15">15th August, 1837.</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0198">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Etapes, near Boulogne-sur-Mer</placeName><date when="1837-09-03">3d September, 9 p.m., [1837]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Etapes, near Boulogne-sur-Mer</placeName><date when="1837-09-03">3d September, 9 p.m., [1837].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0199">
@@ -782,177 +788,177 @@
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0200">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Epernay</placeName><date when="1838-08-27">27th August, noon, [1838]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Epernay</placeName><date when="1838-08-27">27th August, noon, [1838].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0201">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Mayence</placeName><date when="1838-10-01">1st October, [1838]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Mayence</placeName><date when="1838-10-01">1st October, [1838].</date></correspAction>
         <correspAction type="received"><persName>Charles Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0202">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Stockach</placeName><date when="1838-10-19">19th October, [1838]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Stockach</placeName><date when="1838-10-19">19th October, [1838].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0203">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1839-06-25">Tuesday, 25th June, 8 p. m., [1839]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1839-06-25">Tuesday, 25th June, 8 p. m., [1839].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0204">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Marseilles</placeName><date when="1839-10-03">3d October, [1839]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Marseilles</placeName><date when="1839-10-03">3d October, [1839].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0205">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Cannes</placeName><date when="1839-10-08">8th October, [1839]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Cannes</placeName><date when="1839-10-08">8th October, [1839].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0206">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Châlon-sur-Saône</placeName><date when="1839-10-18">18th October, [1839]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Châlon-sur-Saône</placeName><date when="1839-10-18">18th October, [1839].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0207">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1839">Sunday, 12th, [1839]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1839">Sunday, 12th, [1839].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0208">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1840-05-13">13th May, midnight, [1840]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1840-05-13">13th May, midnight, [1840].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0209">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1842-08-18">18th August, [1842]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1842-08-18">18th August, [1842].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0210">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1842-08-31">Wednesday, 31st August, [1842]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1842-08-31">Wednesday, 31st August, [1842].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0211">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1842-09-07">Wednesday, 7th September, [1842]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1842-09-07">Wednesday, 7th September, [1842].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0212">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1842">Friday, [1842]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1842">Friday, [1842].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0213">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1843-03-16">16th March, [1843]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1843-03-16">16th March, [1843].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0214">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1843-03-23">23d March, [1843]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1843-03-23">23d March, [1843].</date></correspAction>
         <correspAction type="received"><persName>Charles Vacquerie</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0215">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1843-04-21">21st April, [1843]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1843-04-21">21st April, [1843].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0216">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1843-05-22">22d May, [1843]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1843-05-22">22d May, [1843].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0217">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1843-06-13">13th June, [1843]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1843-06-13">13th June, [1843].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0218">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1843-07-18">18th July, [1843]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1843-07-18">18th July, [1843].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName><persName>Charles Vacquerie</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0219">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Biarritz</placeName><date when="1843-07-26">26th July, [1843]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Biarritz</placeName><date when="1843-07-26">26th July, [1843].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0220">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>San-Sebastian</placeName><date when="1843-07-31">31st July, [1843]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>San-Sebastian</placeName><date when="1843-07-31">31st July, [1843]. 1st August.</date></correspAction>
         <correspAction type="received"><persName>Charles Vacquerie</persName><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0221">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Tolosa</placeName><date when="1843-08-09">9th August, [1843]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Tolosa</placeName><date when="1843-08-09">9th August, [1843].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0222">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Pierrefitte</placeName><date when="1843-08-15">15th August, [1843]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Pierrefitte</placeName><date when="1843-08-15">15th August, [1843].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0223">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Luz</placeName><date when="1843-08-25">25th August, [1843]</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Luz</placeName><date when="1843-08-25">25th August, [1843].</date></correspAction>
         <correspAction type="received"><persName>Léopoldine Hugo</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0224">
-        <correspAction type="sent"><persName>V. M. Hugo</persName><placeName>Paris</placeName><date when="1819-03-29">29th March, 1819</date></correspAction>
+        <correspAction type="sent"><persName>V. M. Hugo</persName><placeName>Paris</placeName><date when="1819-03-29">29th March, 1819.</date></correspAction>
         <correspAction type="received"><persName>M. Pinaud</persName><orgName>Académie des Jeux Floraux</orgName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0225">
-        <correspAction type="sent"><persName>V. M. Hugo</persName><placeName>Paris</placeName><date when="1819-04-09">9th April, 1819</date></correspAction>
+        <correspAction type="sent"><persName>V. M. Hugo</persName><placeName>Paris</placeName><date when="1819-04-09">9th April, 1819.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0226">
-        <correspAction type="sent"><persName>V. M. Hugo</persName><placeName>Paris</placeName><date when="1819-06-16">16th June, 1819</date></correspAction>
+        <correspAction type="sent"><persName>V. M. Hugo</persName><placeName>Paris</placeName><date when="1819-06-16">16th June, 1819.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0227">
-        <correspAction type="sent"><persName>V. M. Hugo</persName><date when="1820-04-18">18th April, 1820</date></correspAction>
+        <correspAction type="sent"><persName>V. M. Hugo</persName><date when="1820-04-18">18th April, 1820.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0228">
-        <correspAction type="sent"><persName>V. M. Hugo</persName><date when="1820-05-21">21st May, 1820</date></correspAction>
+        <correspAction type="sent"><persName>V. M. Hugo</persName><date when="1820-05-21">[21st May, 1820].</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0229">
-        <correspAction type="sent"><persName>V. M. Hugo</persName><date when="1820-10-24">24th October, 1820</date></correspAction>
+        <correspAction type="sent"><persName>V. M. Hugo</persName><date when="1820-10-24">24th October, 1820.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0230">
-        <correspAction type="sent"><persName>Victor M. Hugo</persName><date when="1821-03-28">28th March, 1821</date></correspAction>
+        <correspAction type="sent"><persName>Victor M. Hugo</persName><date when="1821-03-28">28th March, 1821.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0231">
-        <correspAction type="sent"><persName>Victor M. Hugo</persName><date when="1821-07-14">14th July, 1821</date></correspAction>
+        <correspAction type="sent"><persName>Victor M. Hugo</persName><date when="1821-07-14">[14th July, 1821.]</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0232">
-        <correspAction type="sent"><persName>Victor M. Hugo</persName><placeName>Paris</placeName><date when="1821-08-14">14th August, 1821</date></correspAction>
+        <correspAction type="sent"><persName>Victor M. Hugo</persName><placeName>Paris</placeName><date when="1821-08-14">14th August, 1821.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0233">
-        <correspAction type="sent"><persName>Victor H.</persName><placeName>Paris</placeName><date when="1822-10-24">24th October, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor H.</persName><placeName>Paris</placeName><date when="1822-10-24">24th October, 1822.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0234">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-12-11">11th December, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1822-12-11">11th December, 1822.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0235">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1823-01-08">8th January, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Paris</placeName><date when="1823-01-08">8th January, 1823.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0236">
-        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Gentilly</placeName><date when="1823-06-09">9th June, 1823</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><placeName>Gentilly</placeName><date when="1823-06-09">9th June, 1823.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0237">
-        <correspAction type="sent"><persName>Victor Marie Hugo</persName><placeName>Paris</placeName><date when="1817-08-31">31st August, 1817</date></correspAction>
+        <correspAction type="sent"><persName>Victor Marie Hugo</persName><placeName>Paris</placeName><date when="1817-08-31">31st August, 1817.</date></correspAction>
         <correspAction type="received"><persName>M. Raynouard</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0238">
-        <correspAction type="sent"><persName>Victor M. Hugo</persName><date when="1822-10-01">1st October, 1822</date></correspAction>
+        <correspAction type="sent"><persName>Victor M. Hugo</persName><date when="1822-10-01">1st October, 1822.</date></correspAction>
         <correspAction type="received"><persName>Abbé de Lamennais</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0239">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824-11-15">15th November, 1824</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1824-11-15">15th November, 1824.</date></correspAction>
         <correspAction type="received"><persName>Count François de Neufchâteau</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0240">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-10-18">Tuesday, 18th October, 1825</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1825-10-18">Tuesday, 18th October, 1825.</date></correspAction>
         <correspAction type="received"><persName>Baron Taylor</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0241">
-        <correspAction type="sent"><persName>V. H.</persName><date when="1830-03-11">11th March, 1830</date></correspAction>
+        <correspAction type="sent"><persName>V. H.</persName><date when="1830-03-11">11th March, 1830. Midnight.</date></correspAction>
         <correspAction type="received"><persName>Baron Taylor</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0242">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1831-03-10">Tuesday, 10th March, 1831</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1831-03-10">Tuesday, 10th March, 1831.</date></correspAction>
         <correspAction type="received"><persName>Mlle. Mars</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0243">
-        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1834-06-01">1st June, 1834</date></correspAction>
+        <correspAction type="sent"><persName>Victor Hugo</persName><date when="1834-06-01">1st June, 1834.</date></correspAction>
         <correspAction type="received"><persName>The Director of the Revue du Progrès Social</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0244">
-        <correspAction type="sent"><placeName>Les Roches</placeName><date when="1835-10-18">18th October, 1835</date></correspAction>
+        <correspAction type="sent"><placeName>Les Roches</placeName><date when="1835-10-18">18th October, 1835.</date></correspAction>
         <correspAction type="received"><persName>M. Antoine de Latour</persName></correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
+    <front>
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
@@ -984,6 +990,8 @@ VICTOR HUGO</head>
 <p rend="toc_entry">II. Additional Letters to Various Persons . . . . 269</p>
 </div>
 </div>
+    </front>
+    <body>
       <div xml:id="sec-sec-02" type="epistolary_part">
 <head>I. Letters to His Father and Mother. 1815–1826.</head>
 <div xml:id="div-unit-0003" type="apparatus">
@@ -1011,8 +1019,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0003" type="letter" corresp="#letter-0003">
 <head rend="center">III.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 26<hi rend="italic">th July</hi>, 1822.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Papa</hi>, — Your letter has made my joy and gratitude complete, but I did not expect anything less from my good and loving father. I have just come</salute></opener>
-<pb xml:id="page-17" n="3"/><p>back from seeing M. Lourdoneix; in a few days he is to give me an exact date, and then I will show your letter to M. and Mme. Foucher. So I shall owe all to you, — my life, my happiness, everything! You have the right to expect the deepest gratitude from me, you who have filled the great blank left in my heart by the death of my beloved mother!</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 26<hi rend="italic">th July</hi>, 1822.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Papa</hi>, — Your letter has made my joy and gratitude complete, but I did not expect anything less from my good and loving father. I have just come <pb xml:id="page-17" n="3"/> back from seeing M. Lourdoneix; in a few days he is to give me an exact date, and then I will show your letter to M. and Mme. Foucher. So I shall owe all to you, — my life, my happiness, everything! You have the right to expect the deepest gratitude from me, you who have filled the great blank left in my heart by the death of my beloved mother!</p>
 <p>As regards the pension I have just got from the King's Privy Purse, I must tell you that I do not receive the July quarterly installment, so that it will not begin till the 1st of October, which puts off the happy day to the end of September; it is a long time to wait, but I console myself by thinking that my happiness is settled. When hope has been changed into certainty, patience is an easier matter. Dear papa, if you only knew what an angel you will have for a daughter! I am still anxiously awaiting your poem, and I shall use the numbers of the Thionville paper in the way you suggest. A Spaniard named d'Abayma, who came to see me yesterday, spoke to me of my father in a way which would have made me feel proud of him, if I had not been so already.</p>
 <p>I have no prejudice against your present wife, as I have not the honor of knowing her. I feel for her the respect which I owe to the lady who bears your honored name; it was therefore without any reluctance that I begged you to express my sentiments to her; I could not have selected a better person to do this, could I, my dear, good father?</p>
 <p rend="valediction">Farewell, dear papa, take care of yourself, and love your happy, devoted, and respectful son,</p>
@@ -1049,8 +1057,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0007" type="letter" corresp="#letter-0007">
 <head rend="center">VII.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 18<hi rend="italic">th September</hi>, 1822.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Papa</hi>,—I am answering your letter by</salute></opener>
-<p>return of post to thank you for the declaration you have sent me, and I beg you will be as prompt in letting me have your duly authenticated consent. I am most anxious that my marriage should take place on the 7th or 8th of October, for a very important reason (in addition to the sentimental ones, which, you know, are not less so), viz. that I am obliged to give up <pb xml:id="page-22" n="8"/> the rooms I am now occupying on the 7th of October. I have therefore begged M. and Mme. Foucher to have the banns published for the first time on Sunday next, the 22d; they will be over by Sunday the 6th of October; but these banns must also be published where you reside, and by the 6th of October notice must be received at our parish of Saint Sulpice of the complete publication of the banns at Blois, which cannot be done unless you will kindly buy off one of them from your parish. You understand, my dear papa, how pressing is the necessity which makes me prefer this urgent request. It is a question of sparing me the trouble and expense of two moves, one after the other, at a time which is naturally attended with so much trouble and expense; it is also a question of hastening on my happiness by a few days, and I know your kind heart too well to say more.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 18<hi rend="italic">th September</hi>, 1822.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Papa</hi>,—I am answering your letter by return of post to thank you for the declaration you have sent me, and I beg you will be as prompt in letting me have your duly authenticated consent. I am most anxious that my marriage should take place on the 7th or 8th of October, for a very important reason (in addition to the sentimental ones, which, you know, are not less so), viz. that I am obliged to give up <pb xml:id="page-22" n="8"/> the rooms I am now occupying on the 7th of October. I have therefore begged M. and Mme. Foucher to have the banns published for the first time on Sunday next, the 22d; they will be over by Sunday the 6th of October; but these banns must also be published where you reside, and by the 6th of October notice must be received at our parish of Saint Sulpice of the complete publication of the banns at Blois, which cannot be done unless you will kindly buy off one of them from your parish. You understand, my dear papa, how pressing is the necessity which makes me prefer this urgent request. It is a question of sparing me the trouble and expense of two moves, one after the other, at a time which is naturally attended with so much trouble and expense; it is also a question of hastening on my happiness by a few days, and I know your kind heart too well to say more.</p>
 <p rend="indented">I have everything in order; I have had a notarial copy made of the certificate of birth left at the Law School, which is as good as the original. When I have received your consent, I shall be able to comply with all the civil formalities; the document you have sent me to-day will do also for the religious formalities.</p>
 <p rend="indented">The Christian name and surname of my beloved <hi rend="italic">fiancée</hi> are Adèle Julie Foucher, a minor, and daughter of Pierre Foucher, Head Clerk at the War Office, Knight of the Legion of Honor, and of his wife Anne Victoire Asseline. You will receive this information for the publication of the banns.</p>
 <p rend="indented">Do try, dear papa, to send us the arrears of our allowance as soon as possible; you understand how much I am in need of money just now. I entreat you <pb xml:id="page-23" n="9"/> also, dear, kind papa, to do your best to continue your allowance to my brothers Eugène and Abel. Do not forget that Eugène was a little off his head when he wrote to you, and give him, if you can, this fresh proof of your fatherly love and generosity. As for me, I shall not trouble you with my wants; my Government pension will be paid me from the 1st of October; I shall doubtless not have to wait for my home allowance, and although I must spend a good deal of money just now, still, by working hard and sitting up late, I shall perhaps manage to make it good; — work will be easy to me now; I am going to be so happy!</p>
@@ -1076,8 +1084,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0010" type="letter" corresp="#letter-0010">
 <head rend="center">X.</head>
-<opener><dateline rend="right">20<hi rend="italic">th December</hi>, 1822.</dateline><salute><hi rend="smallcaps">My dear Papa</hi>, — I am writing to you from the bedside of Eugène, who is ill, and dangerously ill. His deplorable state of mind, about which I had so often told you, grew so much worse during the last few months as to profoundly alarm us all, although we</salute></opener>
-<pb xml:id="page-26" n="12"/><p>could not seriously remedy it, for, as he retained the free use of his will, he obstinately declined all help and attention. His love of solitude, indulged in to a frightful extent, has accelerated a crisis, which may perhaps be salutary, at least, one must hope so, but which is none the less extremely serious, and will leave him in a critical condition for a long time to come. Abel and M. Foucher will give you more details on this melancholy subject. For the present I hasten to beg you to be good enough to send us some money; you will easily understand what difficulties I was in when this sad event overtook me. Abel is also taken by surprise, and we apply to you, as to a father whom your sons have ever found ready to help them in their troubles, and to whom the misfortunes of his children come before all others.</p>
+<opener><dateline rend="right">20<hi rend="italic">th December</hi>, 1822.</dateline></opener>
+<p><hi rend="smallcaps">My dear Papa</hi>, — I am writing to you from the bedside of Eugène, who is ill, and dangerously ill. His deplorable state of mind, about which I had so often told you, grew so much worse during the last few months as to profoundly alarm us all, although we <pb xml:id="page-26" n="12"/> could not seriously remedy it, for, as he retained the free use of his will, he obstinately declined all help and attention. His love of solitude, indulged in to a frightful extent, has accelerated a crisis, which may perhaps be salutary, at least, one must hope so, but which is none the less extremely serious, and will leave him in a critical condition for a long time to come. Abel and M. Foucher will give you more details on this melancholy subject. For the present I hasten to beg you to be good enough to send us some money; you will easily understand what difficulties I was in when this sad event overtook me. Abel is also taken by surprise, and we apply to you, as to a father whom your sons have ever found ready to help them in their troubles, and to whom the misfortunes of his children come before all others.</p>
 <p rend="indented">In this sad position we have, at any rate, been fortunate in the chance which made us take one of your old acquaintances, Dr. Fleury, as our doctor.</p>
 <p rend="indented">Farewell, dear, kind papa. I am broken-hearted at the sad news I am giving you. Our invalid had a pretty good night; he is better this morning, but he has been quite delirious since the day before yesterday, and he still wanders a good deal; he was bled yesterday, he was given an emetic this morning, and I am at his bedside nursing him. Farewell, farewell; the post is going, and I have only time to send you my love and to promise you longer letters from Abel and M. Foucher.</p>
 <closer><salute rend="indented">Your loving and dutiful son,</salute><signed rend="right"><hi rend="smallcaps">Victor.</hi></signed></closer>
@@ -1102,8 +1110,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0013" type="letter" corresp="#letter-0013">
 <head rend="center">XIII.</head>
-<opener><dateline rend="right"><hi rend="italic">24th May,</hi> 1823.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Papa,</hi>—I gave your letter to Eugène</salute></opener>
-<p>yesterday; it both touched him and grieved him; his disappointment at not being able to see you again at Blois has been a little softened by the hope I held out to him of seeing you at Paris two months hence; this seemed a long time to him. I must also tell you, dear papa, that I did not find him so well. <pb xml:id="page-29" n="15"/> The patients in M. Esquirol's establishment have the greatest attention paid them, but what is so fatal to Eugène is the solitude and idleness to which he is condemned there. A few words that dropped from him showed me that in his overheated brain he has conceived a horror of this <hi rend="italic">prison,</hi> as he calls it; he told me in a low tone that <hi rend="italic">women were being murdered in the cellars, and that he had heard their shrieks.</hi> You see, dear papa, that his stay there is doing him more harm than good.</p>
+<opener><dateline rend="right"><hi rend="italic">24th May,</hi> 1823.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Papa,</hi>—I gave your letter to Eugène yesterday; it both touched him and grieved him; his disappointment at not being able to see you again at Blois has been a little softened by the hope I held out to him of seeing you at Paris two months hence; this seemed a long time to him. I must also tell you, dear papa, that I did not find him so well. <pb xml:id="page-29" n="15"/> The patients in M. Esquirol's establishment have the greatest attention paid them, but what is so fatal to Eugène is the solitude and idleness to which he is condemned there. A few words that dropped from him showed me that in his overheated brain he has conceived a horror of this <hi rend="italic">prison,</hi> as he calls it; he told me in a low tone that <hi rend="italic">women were being murdered in the cellars, and that he had heard their shrieks.</hi> You see, dear papa, that his stay there is doing him more harm than good.</p>
 <p>Again, the terms (which M. Esquirol is to tell you about) are very high, four hundred francs a month. Besides, Dr. Fleury thinks that walking and exercise are absolutely necessary for the patient. I transmit all these details, my dear father, without giving advice. You know better than I what ought to be done, still, I think I may tell you that there are, as I am assured, other establishments of the same kind where patients are just as well treated and do not pay as much.</p>
 <p>It appears they have not taken sufficient pains to hide from Eugène that he is among <hi rend="italic">mad</hi> people, and consequently he is much troubled by this idea, which, however, I was able to combat successfully yesterday.</p>
 <p>I write to you in haste, my dear, good father, amid all the worries caused me by my publisher's bankruptcy. Beware of our good Abel's excess of confidence when you sell your Memoirs; it is he who, quite involuntarily, it is true, has let me in for this business.</p>
@@ -1134,8 +1142,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0016" type="letter" corresp="#letter-0016">
 <head rend="center">XVI.</head>
-<opener><dateline rend="right">24<hi rend="italic">th July,</hi> 1823.</dateline><salute><hi rend="smallcaps">My dear Papa,</hi> —I did not tell you sooner of the</salute></opener>
-<p>event which gives you one more being in the world to love, because I wished to spare your fatherly heart all the uneasiness, anxiety, and anguish I have been tortured by during the last week. My wife has had a very bad confinement, and has suffered a good deal in consequence ever since; the child was almost dying when it came into the world; its mother's milk, which had become deteriorated by all she had gone through during her pregnancy and at her confinement, did not agree with the feeble little creature. After several trials of it, which nearly endangered your grandson's life, we were obliged to think of having him nursed by a stranger. You can imagine what difficulty I had in <pb xml:id="page-34" n="20"/> persuading Adèle to consent to this, as she was looking forward so much to the fatigues of nursing. It was not the serious risk to her own health, but the danger which threatened that of the child that decided her; so she has bravely sacrificed her mother's right to the interests of her son, and we have put the child out to nurse. In this emergency we have been fortunate enough to find a very good wet-nurse who lives in our part of the town, and, although these women are very expensive in Paris, still the urgency of the case, and the facility of getting news of your grandson, Leopold, at any moment, made me readily incur the expense.</p>
+<opener><dateline rend="right">24<hi rend="italic">th July,</hi> 1823.</dateline></opener>
+<p><hi rend="smallcaps">My dear Papa,</hi> —I did not tell you sooner of the event which gives you one more being in the world to love, because I wished to spare your fatherly heart all the uneasiness, anxiety, and anguish I have been tortured by during the last week. My wife has had a very bad confinement, and has suffered a good deal in consequence ever since; the child was almost dying when it came into the world; its mother's milk, which had become deteriorated by all she had gone through during her pregnancy and at her confinement, did not agree with the feeble little creature. After several trials of it, which nearly endangered your grandson's life, we were obliged to think of having him nursed by a stranger. You can imagine what difficulty I had in <pb xml:id="page-34" n="20"/> persuading Adèle to consent to this, as she was looking forward so much to the fatigues of nursing. It was not the serious risk to her own health, but the danger which threatened that of the child that decided her; so she has bravely sacrificed her mother's right to the interests of her son, and we have put the child out to nurse. In this emergency we have been fortunate enough to find a very good wet-nurse who lives in our part of the town, and, although these women are very expensive in Paris, still the urgency of the case, and the facility of getting news of your grandson, Leopold, at any moment, made me readily incur the expense.</p>
 <p rend="indented">Now, at last, after so much anxiety and uncertainty, I can give you some good news. My beloved Adèle is improving visibly; we hope she will soon have got rid of her milk. The child, strengthened by its healthy and abundant supply of food, is going on very well, and bids fair to become a grandfather, some day, like you.</p>
 <p rend="indented">You see, my dear, kind father, that I have spared you the anxiety which you would certainly have felt as deeply as I did. This is the reason of a silence which you will approve, although, perhaps, you blamed me for it at first. Your joy will now be as unalloyed as ours, which is greatly enhanced by the thought of so soon clasping you in our arms.</p>
 <p rend="indented">Farewell, my good father. Come soon, and send me your thanks; nine months ago I gave you a daughter, who loves you as I do; now we give you a son, who will love you as we do. And what greater comfort is there in life than the tie of affection which unites parents and children?</p>
@@ -1145,8 +1153,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0017" type="letter" corresp="#letter-0017">
 <head rend="center">XVII.</head>
-<opener><dateline rend="right">29<hi rend="italic">th July,</hi> 1823.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Papa</hi>,—I was congratulating myself on</salute></opener>
-<p>having only good news to send you, when unforeseen circumstances oblige me to apply to you for advice and assistance: the wet-nurse to whom we were obliged to intrust our child does not suit us at all. She deceives us; she seems to be bad-tempered and insincere; she has taken advantage of our having been compelled to find a nurse for the child. At first we thought she was kind and gentle; now we have but too many reasons for taking our poor little Leopold out of her hands as quickly as possible. So Adèle and I, now that we have settled to take him away from this woman, would be very glad if you would be kind enough to find for us, either at Blois or in the neighborhood, a wet-nurse who has not been nursing more than five months, and whose antecedents and character are satisfactory; anyhow, we should both be quite easy in our mind, knowing that our Leopold would be looked after by you and your wife. This is why we have decided to send him to Blois rather than anywhere else.</p>
+<opener><dateline rend="right">29<hi rend="italic">th July,</hi> 1823.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Papa</hi>,—I was congratulating myself on having only good news to send you, when unforeseen circumstances oblige me to apply to you for advice and assistance: the wet-nurse to whom we were obliged to intrust our child does not suit us at all. She deceives us; she seems to be bad-tempered and insincere; she has taken advantage of our having been compelled to find a nurse for the child. At first we thought she was kind and gentle; now we have but too many reasons for taking our poor little Leopold out of her hands as quickly as possible. So Adèle and I, now that we have settled to take him away from this woman, would be very glad if you would be kind enough to find for us, either at Blois or in the neighborhood, a wet-nurse who has not been nursing more than five months, and whose antecedents and character are satisfactory; anyhow, we should both be quite easy in our mind, knowing that our Leopold would be looked after by you and your wife. This is why we have decided to send him to Blois rather than anywhere else.</p>
 <p>It is needless, my dear, good father, to press you for a speedy reply; the slightest delay might be injurious <pb xml:id="page-36" n="22"/> to your little grandson's health. I do not ask you to forgive us for all the trouble we are causing you; I know that your kind paternal heart takes a pleasure in it.</p>
 <p rend="indented">Farewell, dear papa. Eugène's <hi rend="italic">physical health</hi> is better; every one here embraces you as fondly as your son loves you. Make haste and come, send me an answer soon, and believe in my unchanging and dutiful love.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Victor.</hi></signed></closer>
@@ -1154,8 +1162,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0018" type="letter" corresp="#letter-0018">
 <head rend="center">XVIII.</head>
-<opener><dateline rend="right"><hi rend="italic">3d August,</hi> [1823].</dateline><salute rend="indented"><hi rend="smallcaps">My dear Papa,</hi>— To be able to express the joy</salute></opener>
-<p>and gratitude with which your letter fills us, one would require the power of describing all the tender affection and touching kindness contained in your fatherly heart. So you wish to perform my paternal duties even better than I do, and indeed, poor little Leopold's first smile and his first look will be for you. I should like to pour out here all the love your daughter and I feel for you, <pb xml:id="page-37" n="23"/> our best of fathers, but I should have to repeat the subject of all our conversation for the last two days, so I confine myself to the limits of this sheet of paper.</p>
+<opener><dateline rend="right"><hi rend="italic">3d August,</hi> [1823].</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Papa,</hi>— To be able to express the joy and gratitude with which your letter fills us, one would require the power of describing all the tender affection and touching kindness contained in your fatherly heart. So you wish to perform my paternal duties even better than I do, and indeed, poor little Leopold's first smile and his first look will be for you. I should like to pour out here all the love your daughter and I feel for you, <pb xml:id="page-37" n="23"/> our best of fathers, but I should have to repeat the subject of all our conversation for the last two days, so I confine myself to the limits of this sheet of paper.</p>
 <p rend="indented">When I received your letter, my heart was so full that I wanted to answer it immediately, but your wise advice got the better of my impatience, and I waited until your excellent arrangements had been carried out, to express our warmest gratitude to you, and at the same time give you news of your Leopold, the wet-nurse, and my Adèle.</p>
 <p rend="indented">The wet-nurse arrived yesterday in good health and spirits; she gave me your letter, and your instructions were followed to the letter. Every one was delighted with her and her baby. In the course of the same morning we took your poor grandchild away from his unnatural foster-mother, and he began to perform his duties in the most satisfactory way; I do not know if it is the effect of paternal illusion or not, but we think he already looks better this morning.</p>
 <p rend="indented">Farewell, my dear, kind father. Pray tell your wife how deeply and sincerely grateful we are to her; we long to be able to tell her so ourselves, and we send you our fond love, while looking forward to that happy day.</p>
@@ -1164,8 +1172,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0019" type="letter" corresp="#letter-0019">
 <pb xml:id="page-38" n="24"/><head rend="center">XIX.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">War Office</hi>, 6<hi rend="italic">th August</hi>, 1823.</dateline><salute><hi rend="smallcaps">My dear Papa</hi>,—Your letter has given me real</salute></opener>
-<p>pain, and I long for you to receive this one, that I may feel somewhat comforted; how could you imagine for one moment that I was not most deeply grateful for all the kindness your wife has lavished on our Eugène and our Leopold? I could not have been a brother or father, and remain insensible to the value of all she has done for them, and, in consequence, for me. If my thanks were addressed principally to you, the reason was, that we look on our father as the source of all love and tenderness, and that I thought it would please you to pass on to your wife the expression of my deep and tender filial gratitude, and that, coming from you, this tribute would be far more highly appreciated than if it came from me.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">War Office</hi>, 6<hi rend="italic">th August</hi>, 1823.</dateline></opener>
+<p><hi rend="smallcaps">My dear Papa</hi>,—Your letter has given me real pain, and I long for you to receive this one, that I may feel somewhat comforted; how could you imagine for one moment that I was not most deeply grateful for all the kindness your wife has lavished on our Eugène and our Leopold? I could not have been a brother or father, and remain insensible to the value of all she has done for them, and, in consequence, for me. If my thanks were addressed principally to you, the reason was, that we look on our father as the source of all love and tenderness, and that I thought it would please you to pass on to your wife the expression of my deep and tender filial gratitude, and that, coming from you, this tribute would be far more highly appreciated than if it came from me.</p>
 <p>I implore you, my dear, kind father, do not pain me so again; I am quite sure your wife could not have thought me ungrateful, or have believed that I was not sincerely touched by all her care of poor Leopold; and how, indeed, would it be possible for me not to feel deeply moved by her kindly solicitude, which has probably saved my child's life? Dear papa, I repeat, hasten to make up to me for the pain which you have so unjustly caused me amid so much joy, and which seemed to me still more hard at a time when my heart was so freely opening to every tender and happy feeling.</p>
 <p>Farewell. I will not dwell further on an explanation which is already too long for your affection and mine, and the unpleasantness of which will only be completely <pb xml:id="page-39" n="25"/> removed by the happiness of seeing you soon here again, as well as your wife.</p>
 <p rend="indented">All are continuing to improve here, — mother, child, and wet-nurse.</p>
@@ -1185,8 +1193,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0021" type="letter" corresp="#letter-0021">
 <head rend="center">XXI.</head>
-<opener><dateline rend="right"><hi rend="italic">4th October</hi>, 1823.</dateline><salute rend="indented"><hi rend="smallcaps">My dear, kind Papa</hi>, —Too long a time has elapsed</salute></opener>
-<p>since I wrote you a good long letter, not to feel the necessity of telling you how deeply moved I am by all the kindness lavished on our Leopold by you and his excellent grandmamma. The first letter I am able to write with my hand, which is nearly well, must be for you, dear papa. I do not know how I am to express all my feelings of gratitude and affection, but this inability is itself a source of happiness to me. May your grandson one day become worthy of you, and repay you, as well as the second mother he has found in your wife, with the tenderest and most devoted filial affection. It will be easy for me to inspire him with these sentiments. <pb xml:id="page-41" n="27"/> We hope that his new diet continues to agree with the poor little lamb. Paul told us of the way in which he is petted by you, as well as by his grandmother and the whole household; Adèle was moved to tears at hearing this, and it made the same impression on me.</p>
+<opener><dateline rend="right"><hi rend="italic">4th October</hi>, 1823.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear, kind Papa</hi>, —Too long a time has elapsed since I wrote you a good long letter, not to feel the necessity of telling you how deeply moved I am by all the kindness lavished on our Leopold by you and his excellent grandmamma. The first letter I am able to write with my hand, which is nearly well, must be for you, dear papa. I do not know how I am to express all my feelings of gratitude and affection, but this inability is itself a source of happiness to me. May your grandson one day become worthy of you, and repay you, as well as the second mother he has found in your wife, with the tenderest and most devoted filial affection. It will be easy for me to inspire him with these sentiments. <pb xml:id="page-41" n="27"/> We hope that his new diet continues to agree with the poor little lamb. Paul told us of the way in which he is petted by you, as well as by his grandmother and the whole household; Adèle was moved to tears at hearing this, and it made the same impression on me.</p>
 <p>My wife, who is not very well, and is dosing herself, wishes very much to be the first to read your memoirs.</p>
 <p rend="center">Désir de femme est un feu qui dévore.</p>
 <p>I have requested Ladvocat to forward me the sheets as they are printed; if you have time, write to him to send them quicker.</p>
@@ -1214,8 +1222,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0024" type="letter" corresp="#letter-0024">
 <head rend="center">XXIV.</head>
-<opener><dateline rend="right"><hi rend="italic">Saturday, November,</hi> [1823].</dateline><salute><hi rend="smallcaps">My dear Papa</hi>,—I write you a few lines in great</salute></opener>
-<p>haste; M. de Féraudy is waiting for my letter and the parcel; my wife is hastening to finish the drawing she is sending to her kind parents at Blois; I hope you will be pleased with it; I say no more, for I should be afraid, in praising my Adèle's talent, to seem as if I wished to enhance the value of her present. We should much have liked to send you this one framed; but as M. de Féraudy made some remarks about the difficulty of carrying it, you will understand that imperative reasons of good-breeding prevented us from sending you this fine drawing in all its glory.</p>
+<opener><dateline rend="right"><hi rend="italic">Saturday, November,</hi> [1823].</dateline></opener>
+<p><hi rend="smallcaps">My dear Papa</hi>,—I write you a few lines in great haste; M. de Féraudy is waiting for my letter and the parcel; my wife is hastening to finish the drawing she is sending to her kind parents at Blois; I hope you will be pleased with it; I say no more, for I should be afraid, in praising my Adèle's talent, to seem as if I wished to enhance the value of her present. We should much have liked to send you this one framed; but as M. de Féraudy made some remarks about the difficulty of carrying it, you will understand that imperative reasons of good-breeding prevented us from sending you this fine drawing in all its glory.</p>
 <p>Good-by till we meet again. M. de Féraudy undertook the commission in the most obliging way, and I beg you to repeat to him at Blois how much indebted we are to him.</p>
 <p>It seems a long time to me, dear papa, since we had any news of you. How is your wife? I will try to find what you ask me for.</p>
 <p>My Adèle is still very unwell. This blow has not helped to set her up; still, it was a great comfort to her to do something for you, dear father, and for her Leopold's grandmother.</p>
@@ -1256,8 +1264,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0028" type="letter" corresp="#letter-0028">
 <pb xml:id="page-47" n="33"/><head rend="center">XXVIII.</head>
-<opener><dateline rend="right"><hi rend="italic">27th February,</hi> 1825.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Papa</hi>,—You will have seen that our</salute></opener>
-<p>letters have crossed. I hope that our letter will have given you as much pleasure as yours has us; it could not have brought us pleasanter news than that of your speedy arrival, and in writing this I almost hope it may not find you at Blois.</p>
+<opener><dateline rend="right"><hi rend="italic">27th February,</hi> 1825.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Papa</hi>,—You will have seen that our letters have crossed. I hope that our letter will have given you as much pleasure as yours has us; it could not have brought us pleasanter news than that of your speedy arrival, and in writing this I almost hope it may not find you at Blois.</p>
 <p rend="indented">You cannot imagine how much we are looking forward to showing you our Léopoldine, who is still very small, but quite well, and so charming!—she will love you both as we love you; we cannot say more.</p>
 <p rend="indented">We are almost glad to have been without news of you during part of the month, as you have been ill; we should have been so anxious. Now we have only the pleasure of knowing you are quite well again.</p>
 <p rend="indented">Farewell, dear, kind papa; I do not write to you at greater length, as we shall soon be able to communicate by word of mouth.</p>
@@ -1267,8 +1275,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0029" type="letter" corresp="#letter-0029">
 <head rend="center">XXIX.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">Gentilly</hi>, <hi rend="italic">19th June,</hi> 1825.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Papa</hi>,—I am answering your letter from</salute></opener>
-<p>the country, where I went to spend a few days with a friend of mine, who lives about six miles from Paris. <pb xml:id="page-48" n="34"/> I am sorry you are in the country too just now; the excessive heat, the loneliness and want of comfort of La Miltière, make me uneasy about your precious health. I think you ought to have put off this journey, however important it might have been, and not have ventured alone into the arid regions of La Sologne at this time of year. You know as well as I do what unhealthy exhalations arise from damp and sandy places in very hot weather, and my Adèle scolds you gently for giving us the anxiety of knowing that you are in those parts.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Gentilly</hi>, <hi rend="italic">19th June,</hi> 1825.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Papa</hi>,—I am answering your letter from the country, where I went to spend a few days with a friend of mine, who lives about six miles from Paris. <pb xml:id="page-48" n="34"/> I am sorry you are in the country too just now; the excessive heat, the loneliness and want of comfort of La Miltière, make me uneasy about your precious health. I think you ought to have put off this journey, however important it might have been, and not have ventured alone into the arid regions of La Sologne at this time of year. You know as well as I do what unhealthy exhalations arise from damp and sandy places in very hot weather, and my Adèle scolds you gently for giving us the anxiety of knowing that you are in those parts.</p>
 <p rend="indented">The Paris newspapers have announced your promotion in the most flattering terms. Never mind the omission which they so often make. What does jealousy matter to you? Your name and your reputation are enough to excite envy; make up your mind, dear father, to bear this drawback to every high position.</p>
 <p rend="indented">I am not surprised to hear that your wife has not received her copy; I gave her parcel, with many others, to Ladvocat to put in the post. You know how careless he is; as I was leaving for the country, I was obliged to depend on him for this, and I have already had several complaints similar to yours. The messenger who is going to post this letter in Paris will take with it a sharp note to Ladvocat, and instructions to repair this omission at once. If I had only one copy of it here I would send it straight to your wife, but I hope Ladvocat will be more careful this time.</p>
 <p rend="indented">I am glad that my Ode pleased you; its success here surpasses all my hopes. It has been reproduced in seven or eight daily papers; I am going to present it to the King. <pb xml:id="page-49" n="35"/> Farewell, my good father. I have only time to close this letter and to send you my best love. My wife and Didine send theirs to your wife.</p>
@@ -1277,8 +1285,8 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0030" type="letter" corresp="#letter-0030">
 <head rend="center">XXX.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 18<hi rend="italic">th July</hi>, 1825.</dateline><salute><hi rend="smallcaps">My dear Papa</hi>,—I am really very sorry to be</salute></opener>
-<p>obliged to send you the inclosed letter and memorandum. These two documents need a little explanation, and here it is. A few days ago my old and worthy master, M. de la Rivière, called on me; I was not at home. He left word that he had something of importance to communicate to me; I lost no time in going to see him, as I always do when I think he may want me. The worthy man then explained to me that his position, his age, and that of his wife, made it every day more incumbent on him to remind me of a debt which he had not mentioned before, thinking that neither your means nor ours would allow us to discharge it; but that necessity getting the better of his excessive scrupulousness, he was at last forced to take this step. The debt amounts to 486 francs, 80 centimes, and particulars of it are given in the inclosed memorandum. I remember perfectly well our finding this account at my mother’s death among her papers, but I thought Abel <pb xml:id="page-50" n="36"/> had undertaken to send it to you, and I have since completely forgotten the debt, which I thought had been paid with a few other trifling debts left by my mother, the greater part of which were defrayed at the time by the sale of her plate and dresses; besides, I knew you had satisfied the other creditors, and I thought M. de la Rivière was among their number.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 18<hi rend="italic">th July</hi>, 1825.</dateline></opener>
+<p><hi rend="smallcaps">My dear Papa</hi>,—I am really very sorry to be obliged to send you the inclosed letter and memorandum. These two documents need a little explanation, and here it is. A few days ago my old and worthy master, M. de la Rivière, called on me; I was not at home. He left word that he had something of importance to communicate to me; I lost no time in going to see him, as I always do when I think he may want me. The worthy man then explained to me that his position, his age, and that of his wife, made it every day more incumbent on him to remind me of a debt which he had not mentioned before, thinking that neither your means nor ours would allow us to discharge it; but that necessity getting the better of his excessive scrupulousness, he was at last forced to take this step. The debt amounts to 486 francs, 80 centimes, and particulars of it are given in the inclosed memorandum. I remember perfectly well our finding this account at my mother’s death among her papers, but I thought Abel <pb xml:id="page-50" n="36"/> had undertaken to send it to you, and I have since completely forgotten the debt, which I thought had been paid with a few other trifling debts left by my mother, the greater part of which were defrayed at the time by the sale of her plate and dresses; besides, I knew you had satisfied the other creditors, and I thought M. de la Rivière was among their number.</p>
 <p>As the matter was pressing, I consulted my wife, and with her consent I hastened to send M. de la Rivière a sum of 200 francs which I had at my disposal, and with which I intended to buy myself a watch; this sum, dear papa, will be so much towards the total of the debt,—giving up this watch is a very small privation to me, and I can do it without inconvenience. Besides, I know, my good father, that you are far from rich, and as some of the expense incurred by M. de la Rivière was on my account, these 200 francs will be my personal contribution; therefore you have to provide only the remaining balance of 286 fr. 80 c. It is quite unnecessary for me to tell you, dear papa, how sacred a debt of this kind is. The little we know, the little we are, we owe in great measure to this venerable man, and I have no doubt you will hasten to pay him, the more so, as he is in need of the money; he has nothing to depend on but the proceeds of a small elementary school, the slender income from which is diminishing daily, his increasing weakness of body and mind causing him to lose all his pupils by degrees. He has waited for ten years, and with admirable delicacy, and that is the only fault we can find with him, for I am sure you would have settled his claim had you known of it sooner. This is what I told him when I begged him <pb xml:id="page-51" n="37"/> to send in his account at once, that I might forward it to you; you will find it inclosed with the letter he wrote to me. I will look for the old detailed memorandum, and if I find it among my mother's few remaining papers, I will send it to you without delay; in the mean while you can consider his account as correct.</p>
 <p rend="indented">Farewell, my dear father; my Adèle begs you to give her love to her two mothers, and to tell them that Juju and Didine are in excellent health. All is going on well here, and we are all anxious to get Mamma Foucher back.</p>
 <p rend="indented">M. de la Rivière, elementary schoolmaster, lives in the Rue Saint Jacques, opposite the Church of Saint-Jacques-du-Haut-Pas. My best love to you.</p>
@@ -1296,15 +1304,15 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0032" type="letter" corresp="#letter-0032">
 <head rend="center">XXXII.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 10<hi rend="italic">th October</hi>, 1825.</dateline><salute rend="indented"><hi rend="smallcaps">My Dear Papa</hi>, — We have now returned to Paris</salute></opener>
-<p>for good. We did nothing but run about here and there all the month of September, and a few days ago we brought our outing to a close with an excursion to Montfort-l'Amaury, a charming little place about thirty miles from Paris, with ruins, woods, and a friend of yours and mine, Colonel Derivoire, who has served under you. I talked a great deal about you with the worthy man, who loves and respects you, and is very anxious to see you. He hopes to pay a visit to Paris the first time you are here.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 10<hi rend="italic">th October</hi>, 1825.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My Dear Papa</hi>, — We have now returned to Paris for good. We did nothing but run about here and there all the month of September, and a few days ago we brought our outing to a close with an excursion to Montfort-l'Amaury, a charming little place about thirty miles from Paris, with ruins, woods, and a friend of yours and mine, Colonel Derivoire, who has served under you. I talked a great deal about you with the worthy man, who loves and respects you, and is very anxious to see you. He hopes to pay a visit to Paris the first time you are here.</p>
 <p rend="indented">As the season advances without bringing you, dear papa, we almost despair of having the pleasure of seeing you here this year. M. Lambert, however, had almost promised all your friends that you would come. <pb xml:id="page-53" n="39"/> It is unfortunately impossible for me to do anything for the professor whose letter you send me. I have much less interest than I am credited with, and I have been obliged lately to use the little I may have with the Bishop of Hermopolis to get a scholarship for one of our Trebuchet cousins. I am not even yet sure of success. You understand that all my efforts must be directed to this object, which is of such great importance to our unfortunate Uncle Trebuchet, and that I could not trouble the Minister about another matter without injuring his prospects. One may fall between two stools.</p>
 <closer><salute rend="indented">Farewell, dear papa.</salute><salute rend="indented">Your loving and dutiful son,</salute><signed rend="right"><hi rend="smallcaps">Victor.</hi></signed></closer>
 </div>
 <div xml:id="div-letter-0033" type="letter" corresp="#letter-0033">
 <head rend="center">XXXIII.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 3<hi rend="italic">d November</hi>, 1826.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Papa</hi>,—You see you have not had to</salute></opener>
-<p>wait long for the news. My Adèle was confined last night at twenty minutes to five <hi rend="smallcaps">a. m.</hi> of a healthy boy. My poor darling suffered terribly. I am now writing to you from her bedside; she feels pretty well, but she thinks she is rather feverish, so I beg her not to talk.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 3<hi rend="italic">d November</hi>, 1826.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Papa</hi>,—You see you have not had to wait long for the news. My Adèle was confined last night at twenty minutes to five <hi rend="smallcaps">a. m.</hi> of a healthy boy. My poor darling suffered terribly. I am now writing to you from her bedside; she feels pretty well, but she thinks she is rather feverish, so I beg her not to talk.</p>
 <p rend="indented">Our kind parents will doubtless give a joyful welcome to this new-comer, who will fill the place of the little angel we lost so sadly three years ago. Your happiness adds to ours.</p>
 <p rend="indented">I do not write more to you to-day, dear papa; give our love to your wife; tell all our friends at Blois of the birth of your grandson.</p>
 <p rend="indented">Abel and Mélanie, Pierre Foucher's wife, will be godparents <pb xml:id="page-54" n="40"/> to the baby, whose name we have not yet decided on. He has already taken his food satisfactorily.</p>
@@ -1492,8 +1500,8 @@ Enfants, Paris.</hi></head>
 <div xml:id="div-letter-0050" type="letter" corresp="#letter-0050">
 <pb xml:id="page-82" n="68"/><head rend="center">XVII.</head>
 <head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Mme. Foucher</hi>, <hi rend="italic">Paris.</hi></head>
-<opener><dateline rend="right"><hi rend="smallcaps">Reims</hi>, 31<hi rend="italic">st May</hi>, 1825.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Mamma</hi>, — We leave Reims this morning,</salute></opener>
-<p>after having seen all the splendid Coronation ceremonies. I shall be with you the day after to-morrow morning, the 2d of June, about noon, and I shall start off again for Blois the same day at six, if there is room in the coach.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Reims</hi>, 31<hi rend="italic">st May</hi>, 1825.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Mamma</hi>, — We leave Reims this morning, after having seen all the splendid Coronation ceremonies. I shall be with you the day after to-morrow morning, the 2d of June, about noon, and I shall start off again for Blois the same day at six, if there is room in the coach.</p>
 <p rend="indented">As I have many matters to attend to, and above all the Ode that I must write, I shall doubtless return to Paris at once, bringing Adèle and Didine with me. My presence there is absolutely necessary.</p>
 <p rend="indented">Besides, we shall not complain of a circumstance which brings us back sooner to our kind family in Paris.</p>
 <p rend="indented">Farewell, my dear mamma, best love to our kind father, and believe in the tender and dutiful affection of your son,</p>
@@ -1538,7 +1546,7 @@ Enfants, Paris.</hi></head>
 <opener><dateline rend="right">29<hi rend="italic">th May,</hi> 1820.</dateline></opener>
 <p rend="indented">It is a strange effect of misfortune that we should already have to discharge the most sacred duties of a friendship of which we have barely formed the first ties, and that we should be required to condole with a family we have never seen, on the death of a relative we have never known. We all go on our way in this wretched life at a distance from each other; we love each other without ever having met, and often (the sad event which has deprived us of an aunt proves it but too well) we lose those we love before they have even smiled on us.</p>
 <p rend="indented">You see, my friend, that your letter has engendered very painful reflections in my mind. Forgive my ramblings, and, above all, pray forget that I have been selfish enough to speak to you of my grief before thinking of alleviating yours. I feel strongly the extent of the loss which you have just suffered, and I can only sympathize with your distress. It is said that sympathy renders sorrow less acute; if so, dear friend, no sorrow has ever been more truly sympathized with than yours.</p>
-<p rend="indented">Do not, I implore you, give way to despair, Adolphe; be a man! Think of your good father, of your sisters <pb xml:id="page-87" n="73"/> . Rest assured you will see your mother again; it is impossible that we can part like this forever. You are pious, and your piety will give you courage.</p>
+<p rend="indented">Do not, I implore you, give way to despair, Adolphe; be a man! Think of your good father, of your sisters. <pb xml:id="page-87" n="73"/> Rest assured you will see your mother again; it is impossible that we can part like this forever. You are pious, and your piety will give you courage.</p>
 <p rend="indented">Forgive this incoherent letter, and love me as I love you. With best love, your attached cousin,</p>
 <closer><signed rend="right">V. M. <hi rend="smallcaps">Hugo.</hi></signed></closer>
 </div>
@@ -1559,7 +1567,7 @@ Enfants, Paris.</hi></head>
 <p rend="indented">The unfortunate affair of the Duc de Richelieu and General Donnadieu has apparently been hushed up. As there were no eye-witnesses, nobody knows what to make of it.</p>
 <p rend="indented">Farewell, my good cousin; I leave the rest of this letter to Abel, who wants to send you a few lines. Eugène will answer your letter to-morrow. We are in the throes of a move which obliges mamma to put off the answer which she hoped to send to your father's letter, and to ask me to convey all her thanks. Farewell once more; take care of yourself, give my respects to your father, and my compliments to your sister. With kind love, your faithful friend,</p>
 <closer><signed rend="right">V. M. <hi rend="smallcaps">Hugo.</hi></signed></closer>
-<postscript><p rend="postscript">P.S.<ref xml:id="fnref-p0089-1" type="noteref" target="#fn-p0089-1">1</ref> — As Abel has mentioned the departure of His Majesty Duc de Decazes to you, I will tell you a curious and little-known fact connected with it. The papers announced that he had left on the 10th at <hi rend="italic">four o'clock in the afternoon,</hi> whereas, in reality, he went off <hi rend="italic">before daybreak.</hi> The reason of this is, that the Duchesse Decazes had insisted on her husband starting before Mme. Crinstot (the duke's sister), whom she wishes to deprive of the honor of a triumphal entry into London. Mme. Crinstot is in tears. It was she who did not leave</p><pb xml:id="page-90" n="76"/><p>Paris till <hi rend="italic">four o'clock.</hi> Discord, it appears, has crept into the honorable family, and war has broken out.</p><p rend="indented">I had these details from a <hi rend="italic">noble peer,</hi> who had them from a good authority: you may consider them <hi rend="italic">authentic.</hi></p></postscript>
+<postscript><p rend="postscript">P.S.<ref xml:id="fnref-p0089-1" type="noteref" target="#fn-p0089-1">1</ref> — As Abel has mentioned the departure of His Majesty Duc de Decazes to you, I will tell you a curious and little-known fact connected with it. The papers announced that he had left on the 10th at <hi rend="italic">four o'clock in the afternoon,</hi> whereas, in reality, he went off <hi rend="italic">before daybreak.</hi> The reason of this is, that the Duchesse Decazes had insisted on her husband starting before Mme. Crinstot (the duke's sister), whom she wishes to deprive of the honor of a triumphal entry into London. Mme. Crinstot is in tears. It was she who did not leave <pb xml:id="page-90" n="76"/> Paris till <hi rend="italic">four o'clock.</hi> Discord, it appears, has crept into the honorable family, and war has broken out.</p><p rend="indented">I had these details from a <hi rend="italic">noble peer,</hi> who had them from a good authority: you may consider them <hi rend="italic">authentic.</hi></p></postscript>
 </div>
 <div xml:id="div-letter-0056" type="letter" corresp="#letter-0056">
 <head rend="center">V.</head>
@@ -1586,8 +1594,8 @@ Rouen.</hi></head>
 <div xml:id="div-letter-0058" type="letter" corresp="#letter-0058">
 <head rend="center">VII.</head>
 <head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Count Jules de Rességuier,</hi> <hi rend="italic">Toulouse.</hi></head>
-<opener><dateline rend="right"><hi rend="italic">July,</hi> 1821.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Colleague,</hi> — You may have read of my terrible misfortune in the papers. I have lost my mother.</salute></opener>
-<pb xml:id="page-94" n="80"/><p>I should have long ago had to reproach myself for not having responded to all your kind marks of friendship had it not been for her illness and death.</p>
+<opener><dateline rend="right"><hi rend="italic">July,</hi> 1821.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Colleague,</hi> — You may have read of my terrible misfortune in the papers. I have lost my mother. <pb xml:id="page-94" n="80"/> I should have long ago had to reproach myself for not having responded to all your kind marks of friendship had it not been for her illness and death.</p>
 <p>You did not know my noble mother, of whom I do not speak, because I could not speak of her as she deserves; but I am sure you will sympathize with my grief, and if your pity for me equals my affection for you, it will be great indeed.</p>
 <closer><salute>Your devoted servant and colleague,</salute><signed rend="right"><hi rend="smallcaps">Victor M. Hugo.</hi></signed></closer>
 </div>
@@ -1701,8 +1709,8 @@ Rouen.</hi></head>
 <div xml:id="div-letter-0068" type="letter" corresp="#letter-0068">
 <head rend="center">XVII.</head>
 <head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Monsieur</hi> <hi rend="italic">Z., editor of the Journal des Débats.</hi></head>
-<opener><dateline rend="right">[1824].</dateline><salute rend="indented"><hi rend="smallcaps">Dear Sir,</hi> —I see with real concern that you have</salute></opener>
-<p>misunderstood me both in point of form and in substance. I cannot imagine how you can have interpreted as a <hi rend="italic">command</hi> my — as it seems to me — very polite request to you to publish my reply to your article, and, above all, how you could have made an apology for my new odes out of what is only a somewhat mild refutation of your ingenious paradox on the classical and romantic schools.</p>
+<opener><dateline rend="right">[1824].</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">Dear Sir,</hi> —I see with real concern that you have misunderstood me both in point of form and in substance. I cannot imagine how you can have interpreted as a <hi rend="italic">command</hi> my — as it seems to me — very polite request to you to publish my reply to your article, and, above all, how you could have made an apology for my new odes out of what is only a somewhat mild refutation of your ingenious paradox on the classical and romantic schools.</p>
 <p rend="indented">You are good enough to promise to go through the new odes for a second and last time. I am flattered at <pb xml:id="page-108" n="94"/> being the object of so much attention on your part; but I own I expected more a rejoinder to my reply than a fresh article on these odes. I am not going to defend these compositions, which are so open to criticism in every respect; but I think that, when you have shown with great ease that my verses are bad, you will still have to prove that your literary theory on the classical and romantic school is not wrong; and that, allow me to tell you, dear sir, is the real point at issue.</p>
 <p rend="indented">Permit me also to tell you that I am not prepared to adopt the expression “romantic” until it has received a generally accepted definition. Mme. de Staël has defined it very well, and I abide by the meaning which she gives to it.</p>
 <p rend="indented">However this may be, I shall always congratulate myself, dear sir, on having given the public, even at my own expense, the opportunity of reading another article by you.</p>
@@ -1957,8 +1965,8 @@ Rouen.</hi></head>
 <div xml:id="div-letter-0093" type="letter" corresp="#letter-0093">
 <head rend="center">XLII.</head>
 <head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Baron Taylor.</hi></head>
-<opener><dateline rend="right"><hi rend="italic">Saturday the</hi> 13<hi rend="italic">th,</hi> . . . [1828].</dateline><salute rend="indented"><hi rend="smallcaps">My dear Taylor</hi>,— A tragedy has just been writ-</salute></opener>
-<p>ten in my family, and I do not think you need to be told that I am not the author of it. I never flew at such high game! My young brother-in-law Paul (who, by the way, is passionately attached to you) is the culprit.</p>
+<opener><dateline rend="right"><hi rend="italic">Saturday the</hi> 13<hi rend="italic">th,</hi> . . . [1828].</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Taylor</hi>,— A tragedy has just been written in my family, and I do not think you need to be told that I am not the author of it. I never flew at such high game! My young brother-in-law Paul (who, by the way, is passionately attached to you) is the culprit.</p>
 <p rend="indented">Now, I will not bestow praise on this tragedy here, <pb xml:id="page-135" n="121"/> because it would be altogether suspicious, coming from me ; but I do not think I am going too far when I say that it is quite as good as many of those which from time immemorial have been received, put on the stage, acted, and <hi rend="italic">applauded</hi> at the Français.</p>
 <p rend="indented">Would you therefore be so kind as to tell us what would be the best course to pursue to bring <hi rend="italic">our</hi> tragedy before the Committee of the Français ? The young poet would like, if possible, to be relieved from the formality of a previous examination ; but we must first be sure that this exemption would not in any way break through the established rule.</p>
 <p rend="indented">If your many and important engagements would allow you by any chance to look over the piece before it is sent in, I need not tell you that Paul would receive any suggestion from you with pleasure and gratitude. The subject of the work is <hi rend="italic">Cosmo de’ Medici.</hi></p>
@@ -2042,7 +2050,7 @@ Rouen.</hi></head>
 <p rend="indented">The only concession I secured was that <hi rend="italic">Marion de Lorme</hi> should be read by one censor only, the choice of whom was left to me, although I was not allowed to select any one outside the censors' department. I chose a literary man who appeared to me to be the most deserving of confidence, and with whom I had been on friendly terms before he became a censor. This examiner, as he called himself, reproached me almost tenderly for my distrust of the censorship. He quite understood, so he said, all the disadvantages and risks of having verses divulged, hawked about, mutilated, and parodied before the performance of a drama, but he added that my fears of the censorship carried me too far. The dramatic examiners, he continued, are not men of letters. Intrusted with a purely official duty, that of eliminating political allusions, they have not, and ought not to have, anything to do with the literary merits of work submitted to them. Their function begins and ends with their official duty. A censor who would maliciously divulge the details of the work which he had examined would be, and I quote his own <pb xml:id="page-145" n="131"/> words, as culpable and as deserving of reprobation as the priest who revealed the secrets of the confessional.</p>
 <p rend="indented">This is what the then censor said to me. Such language would doubtless have reassured any one of less stubborn views than mine on the ways of man and of the police. However, M. de la Bourdonnaye became Minister, and <hi rend="italic">Marion de Lorme</hi> was prohibited. Faithful to my conscientious and artistic work, I did my best to repair the injury which the Minister had done me. I wrote <hi rend="italic">Hernani.</hi> The <hi rend="italic">Comédie Française</hi> at once took up the drama. It had to be submitted to the Government. I have no favor to ask from the present Ministry, so I sent my drama to the censorship just as it was, without making any demands or taking any precautions, though not without misgiving. I remembered the asseverations of the censor of <hi rend="italic">Marion de Lorme,</hi> however, and I tried to persuade myself, with some difficulty, that there are men who can carry on a somewhat dishonest trade in an honest way.</p>
 <p rend="indented">This, however, is what has happened since <hi rend="italic">Hernani</hi> has been submitted to the censors. Some verses of the drama, partly travestied, or wholly turned into ridicule, a few quoted correctly, but ingeniously dovetailed with spurious ones, bits of scenes, in fact, more or less skillfully disfigured and outrageously parodied, have been put into circulation.</p>
-<p rend="indented">Portions of the work dressed up in this way have received the semi-publicity which writers and theatres so justly dread. The authors of these underhand tricks have hardly taken the trouble to hide themselves ; they have done it in broad daylight, and have simply selected the newspapers as the medium of their discreet confidences <pb xml:id="page-146" n="132"/> . They have gone further. Not content with prostituting the piece to their papers, they are now engaged in prostituting it to their <hi rend="italic">salons.</hi></p>
+<p rend="indented">Portions of the work dressed up in this way have received the semi-publicity which writers and theatres so justly dread. The authors of these underhand tricks have hardly taken the trouble to hide themselves ; they have done it in broad daylight, and have simply selected the newspapers as the medium of their discreet confidences. <pb xml:id="page-146" n="132"/> They have gone further. Not content with prostituting the piece to their papers, they are now engaged in prostituting it to their <hi rend="italic">salons.</hi></p>
 <p rend="indented">I hear on all sides (and the matter has attained a public notoriety to which I can bear witness) that spurious copies of <hi rend="italic">Hernani</hi> have been made, and that the whole drama, or part of it, has been read in many places, and especially in the house of a head clerk in M. de Corbière’s department.</p>
 <p rend="indented">Now all this is very serious.</p>
 <p rend="indented">It is needless to point out the effect which such proceedings are intended to produce by their authors, on a drama the fate of which is settled in a couple of hours, and often without appeal.</p>
@@ -2233,7 +2241,7 @@ of the 1st Legion of the National Guard in Paris.</hi></head>
 <p>Does Mlle. Mars accept? Does Monrose wish for a part? In case Mlle. Mars fails me, which do you advise me to take, Mlle. Anaïs or Mlle. Brocard? I should like to talk to you also about Desmousseaux, whom I like and esteem, and for whom I will write a good part before long. You see, I have endless things to say to you, apart from our talk as friends.</p>
 <p rend="signature"><hi rend="smallcaps">Victor.</hi></p>
 <p rend="postscript">It is very desirable that M. Ciceri and the costume designer should be at the theatre on the day of the reading, so that I can speak to them.</p>
-<floatingText type="enclosure"><body><div><pb xml:id="page-168" n="154"/><table><head>PROPOSED DISTRIBUTION OF PARTS.</head><row><cell><hi rend="smallcaps">François</hi> I<hi rend="sup">er</hi>.</cell><cell>M. <hi rend="smallcaps">Bocage.</hi></cell></row><row><cell><hi rend="smallcaps">Triboulet</hi></cell><cell>M. <hi rend="smallcaps">Ligier.</hi></cell></row><row><cell><hi rend="smallcaps">Blanche</hi></cell><cell><hi rend="smallcaps">Mlle. Mars</hi> or <hi rend="smallcaps">Anaïs.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Saint-Vallier</hi></cell><cell>M. <hi rend="smallcaps">Joanny.</hi></cell></row><row><cell><hi rend="smallcaps">Saltabadil</hi></cell><cell>M. <hi rend="smallcaps">Monrose</hi> or <hi rend="smallcaps">Beauvallet.</hi></cell></row><row><cell><hi rend="smallcaps">Maguelonne</hi></cell><cell><hi rend="smallcaps">Mlle. Dupont.</hi></cell></row><row><cell><hi rend="smallcaps">Clément Marot</hi></cell><cell>M. <hi rend="smallcaps">Samson.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Pienne</hi></cell><cell>M. <hi rend="smallcaps">Geffroy.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Pardaillan</hi> (<hi rend="italic">page</hi>)</cell><cell><hi rend="smallcaps">Mme. Menjaud.</hi></cell></row></table>
+<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>PROPOSED DISTRIBUTION OF PARTS.</p></div></front><body><div><pb xml:id="page-168" n="154"/><table cols="2" rows="9"><head>PROPOSED DISTRIBUTION OF PARTS.</head><row><cell><hi rend="smallcaps">François</hi> I<hi rend="sup">er</hi>.</cell><cell>M. <hi rend="smallcaps">Bocage.</hi></cell></row><row><cell><hi rend="smallcaps">Triboulet</hi></cell><cell>M. <hi rend="smallcaps">Ligier.</hi></cell></row><row><cell><hi rend="smallcaps">Blanche</hi></cell><cell><hi rend="smallcaps">Mlle. Mars</hi> or <hi rend="smallcaps">Anaïs.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Saint-Vallier</hi></cell><cell>M. <hi rend="smallcaps">Joanny.</hi></cell></row><row><cell><hi rend="smallcaps">Saltabadil</hi></cell><cell>M. <hi rend="smallcaps">Monrose</hi> or <hi rend="smallcaps">Beauvallet.</hi></cell></row><row><cell><hi rend="smallcaps">Maguelonne</hi></cell><cell><hi rend="smallcaps">Mlle. Dupont.</hi></cell></row><row><cell><hi rend="smallcaps">Clément Marot</hi></cell><cell>M. <hi rend="smallcaps">Samson.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Pienne</hi></cell><cell>M. <hi rend="smallcaps">Geffroy.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Pardaillan</hi> (<hi rend="italic">page</hi>)</cell><cell><hi rend="smallcaps">Mme. Menjaud.</hi></cell></row></table>
 <pb xml:id="page-169" n="155"/><list><item>M. <hi rend="smallcaps">de Cossé</hi>. . . . . M. <hi rend="smallcaps">Duparay</hi>.
 Mme. <hi rend="smallcaps">de Cossé</hi> . . . . Mme. <hi rend="smallcaps">Masson</hi>.
 M. <hi rend="smallcaps">de Gordes</hi> . . . . M. <hi rend="smallcaps">Marius</hi>.
@@ -2583,7 +2591,7 @@ tenelle, Rouen.</hi></head>
 <head rend="center">IX.</head>
 <head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Sainte-Beuve</hi>, 19 <hi rend="italic">Rue Notre-Dame-des-Champs.</hi></head>
 <opener><dateline rend="right"><hi rend="italic">Friday evening</hi>, [<hi rend="italic">4th June</hi>, 1830].</dateline></opener>
-<p rend="indented">We were at home, dear friend ! Fancy our annoy-ance ! Our porters are stupid ! Never heed what they say, but always come upstairs. On Sunday then ? without fail ! You ought to come to dinner with us.</p>
+<p rend="indented">We were at home, dear friend ! Fancy our annoy-ance ! Our porters are stupid ! Never heed what they say, but always come upstairs. On Sunday then ? with-out fail ! You ought to come to dinner with us.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Victor.</hi></signed></closer>
 </div>
 <div xml:id="div-letter-0153" type="letter" corresp="#letter-0153">
@@ -2645,8 +2653,8 @@ tenelle, Rouen.</hi></head>
 </div>
 <div xml:id="div-letter-0161" type="letter" corresp="#letter-0161">
 <head rend="center">XVIII.</head>
-<opener><dateline rend="right"><hi rend="italic">Friday, 18th March,</hi> 1831.</dateline><salute rend="indented"><hi rend="smallcaps">My Friend</hi>,—I did not wish to write to you with</salute></opener>
-<p>the impression made by your letter fresh in my mind. It was too sad and too bitter. I should have been unjust in my turn. I wanted to wait for a few days. To-day, at all events, I am calm, and I can read your letter again without reopening too widely the deep wound it gave me. I must tell you, I did not think that what has passed between us, <hi rend="italic">what is known to us alone,</hi> could ever be forgotten, especially by you, by the Sainte-Beuve that I have known. Oh, yes! I say it with greater sorrow for you than for myself, you are very different from what you were. You must remember, if your new friends have not made even the shadow of your old ones fade from your mind, you must remember what passed between us in the most painful moment of my life, when I had to choose between her and you; recollect what I said to you, what I proposed to you, what I offered you with the firm resolution, as you know, of keeping my promise, and doing what you wished. Recollect all this, and then reflect that you have just written to me that I showed a want of openness, of confidence, and of sincerity towards you in this matter. This is what you brought yourself to write hardly three months afterwards. I forgive you from this moment. Perhaps a day will come when you will not forgive yourself for it.</p>
+<opener><dateline rend="right"><hi rend="italic">Friday, 18th March,</hi> 1831.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My Friend</hi>,—I did not wish to write to you with the impression made by your letter fresh in my mind. It was too sad and too bitter. I should have been unjust in my turn. I wanted to wait for a few days. To-day, at all events, I am calm, and I can read your letter again without reopening too widely the deep wound it gave me. I must tell you, I did not think that what has passed between us, <hi rend="italic">what is known to us alone,</hi> could ever be forgotten, especially by you, by the Sainte-Beuve that I have known. Oh, yes! I say it with greater sorrow for you than for myself, you are very different from what you were. You must remember, if your new friends have not made even the shadow of your old ones fade from your mind, you must remember what passed between us in the most painful moment of my life, when I had to choose between her and you; recollect what I said to you, what I proposed to you, what I offered you with the firm resolution, as you know, of keeping my promise, and doing what you wished. Recollect all this, and then reflect that you have just written to me that I showed a want of openness, of confidence, and of sincerity towards you in this matter. This is what you brought yourself to write hardly three months afterwards. I forgive you from this moment. Perhaps a day will come when you will not forgive yourself for it.</p>
 <closer><salute rend="indented">Your friend still, in spite of yourself,</salute><signed rend="right">V. H.</signed></closer>
 </div>
 <div xml:id="div-letter-0162" type="letter" corresp="#letter-0162">
@@ -2762,8 +2770,8 @@ tenelle, Rouen.</hi></head>
 </div>
 <div xml:id="div-letter-0176" type="letter" corresp="#letter-0176">
 <head rend="center">XXXIII.</head>
-<opener><dateline rend="right">31<hi rend="italic">st December</hi>, 1832.</dateline><salute><hi rend="smallcaps">My dear Saint-de-Beuve</hi>, —Thank you very much</salute></opener>
-<p>for the beautiful book <hi rend="italic">Paul et Virginie</hi> that you sent me. Toto and Charles are very pleased with their Zoölogical Gardens and box of soldiers. Dédé is very pleased with the beautiful boa you gave her. She thinks it is a little pussy-cat; if they would let her always have it, she would be very happy. But, unfortunately, they won't let her have it always. Papa tells me to send you his love; so does mamma. Good-by, my dear Saint-de-Beuve,</p>
+<opener><dateline rend="right">31<hi rend="italic">st December</hi>, 1832.</dateline></opener>
+<p><hi rend="smallcaps">My dear Saint-de-Beuve</hi>, —Thank you very much for the beautiful book <hi rend="italic">Paul et Virginie</hi> that you sent me. Toto and Charles are very pleased with their Zoölogical Gardens and box of soldiers. Dédé is very pleased with the beautiful boa you gave her. She thinks it is a little pussy-cat; if they would let her always have it, she would be very happy. But, unfortunately, they won't let her have it always. Papa tells me to send you his love; so does mamma. Good-by, my dear Saint-de-Beuve,</p>
 <p rend="signature"><hi rend="smallcaps">Léopoldine Hugo.</hi><ref xml:id="fnref-p0219-1" type="noteref" target="#fn-p0219-1">1</ref></p>
 <pb xml:id="page-220" n="206"/><p rend="dateline"><hi rend="italic">31st December,</hi> 1832.</p>
 <p rend="indented">Here is a specimen of Didine's style. I really must add a little of mine to it, to thank you and send you my best love.</p>
@@ -2969,8 +2977,8 @@ Ta petite ami,    <hi rend="smallcaps">Didine.</hi></p></note>
 <div xml:id="div-letter-0201" type="letter" corresp="#letter-0201">
 <pb xml:id="page-235" n="221"/><head rend="center"><hi rend="smallcaps">IX.</hi></head>
 <head rend="center"><hi rend="italic">For</hi> <hi rend="smallcaps">My Charlie.</hi></head>
-<opener><dateline rend="right"><hi rend="smallcaps">Mayence,</hi> 1<hi rend="italic">st October,</hi> [1838].</dateline><salute rend="indented"><hi rend="smallcaps">My dear old Charlie,</hi> — You must write me a good</salute></opener>
-<p>long letter (to Trèves), beginning it early and finishing it late. You know how much I love you, dear child. I must have a long letter from you. You must also write a little diary for me, telling me how you have spent your time at Saint-Prix during the holidays, and if, as I hope, you have prepared for next year's work amid your play and leisure time. I want you, my dear Charlie, to be a good, hard-working boy, and an industrious scholar.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Mayence,</hi> 1<hi rend="italic">st October,</hi> [1838].</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear old Charlie,</hi> — You must write me a good long letter (to Trèves), beginning it early and finishing it late. You know how much I love you, dear child. I must have a long letter from you. You must also write a little diary for me, telling me how you have spent your time at Saint-Prix during the holidays, and if, as I hope, you have prepared for next year's work amid your play and leisure time. I want you, my dear Charlie, to be a good, hard-working boy, and an industrious scholar.</p>
 <p rend="indented">Talking of this reminds me that in one of my letters I gave you an exercise to write. Neither you nor Toto have sent it to me. Now that the holidays are nearly over, and you have only a few days left to play, I will let you off this exercise.</p>
 <p rend="indented">If you have read my letters, dear Charlie, you will know what I mean by <hi rend="italic">the Cat and the Mouse.</hi> The Cat is for Toto, and the Mouse for you. In my drawing they are quite unlike nature, the mouse is much larger and much fiercer than the cat. The day I was drawing it, the sky in which it was disappearing was stormy and lowering.</p>
 <p rend="indented">You will notice at the foot of the adjoining mountain the face of a giant with his mouth open. I drew this very carefully. Your giant is an excellent likeness.</p>
@@ -3190,13 +3198,15 @@ Ta petite ami,    <hi rend="smallcaps">Didine.</hi></p></note>
 <p rend="indented">Remind your dear mother, who is a little <hi rend="italic">absent</hi> at times, that she must write to me in future to La Rochelle.</p>
 </div>
 <div xml:id="div-unit-0232" type="apparatus">
-<pb xml:id="page-257" n="243"/><figure type="illustration"><figDesc>Autograph illustrated letter of Victor Hugo from the Pyrenees, mentioning 'la Rochelle', corresponding to Letter XXXI (p. 242).</figDesc></figure>
+<pb xml:id="page-257" n="257"/><figure type="illustration"><figDesc>Autograph illustrated letter of Victor Hugo from the Pyrenees, mentioning 'la Rochelle', corresponding to Letter XXXI (p. 242).</figDesc></figure>
 </div>
 </div>
+    </body>
+    <back>
       <div xml:id="sec-sec-07" type="appendix">
 <head>Appendix. I. Academie des Jeux Floraux, 1819-1823.</head>
 <div xml:id="div-unit-0233" type="apparatus">
-<pb xml:id="page-259" n="245"/><head rend="center">APPENDIX.</head>
+<pb xml:id="page-259" n="259"/><head rend="center">APPENDIX.</head>
 <milestone unit="section" rend="ornament"/>
 <p rend="heading">I. ACADEMIE DES JEUX FLORAUX, 1819-1823.</p>
 </div>
@@ -3204,8 +3214,8 @@ Ta petite ami,    <hi rend="smallcaps">Didine.</hi></p></note>
 <head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Pinaud</hi>, <hi rend="italic">Permanent Secretary to the Académie des Jeux
 Floraux, Toulouse.</hi></head>
 <head rend="center">I.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 29<hi rend="italic">th March</hi>, 1819.</dateline><salute rend="indented"><hi rend="smallcaps">Dear Sir</hi>, — The flattering news you give me, and</salute></opener>
-<p>your still more flattering letter, have caused me very great pleasure, which, however, would have been still greater if the decisions of the Academy had been more favorable to my brother. However severe they must have appeared to him, I must do him the justice to acknowledge that he never complained of them for one moment, and that he was the first to recognize their equity ; he begs me, dear sir, to thank you in his name for the encomiums and encouragement which you are kind enough to bestow on him. His ode on the Duke of Enghien, which he is now endeavoring to make more worthy of the Academy, will doubtless prove to you how eagerly he responds to your request.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 29<hi rend="italic">th March</hi>, 1819.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">Dear Sir</hi>, — The flattering news you give me, and your still more flattering letter, have caused me very great pleasure, which, however, would have been still greater if the decisions of the Academy had been more favorable to my brother. However severe they must have appeared to him, I must do him the justice to acknowledge that he never complained of them for one moment, and that he was the first to recognize their equity ; he begs me, dear sir, to thank you in his name for the encomiums and encouragement which you are kind enough to bestow on him. His ode on the Duke of Enghien, which he is now endeavoring to make more worthy of the Academy, will doubtless prove to you how eagerly he responds to your request.</p>
 <p rend="indented">As for me, dear sir, I am as much overcome by the indulgence shown me by the Academy as I am filled with gratitude for the signal proofs of it with which I have been honored. Be so good as to assure your colleagues that I look on their approbation rather as an <pb xml:id="page-260" n="244"/> encouragement than as a reward, and that in future all my efforts will be directed towards rendering myself worthy of the glorious palm-leaves they have been pleased to award me, and which I feel I am still far from deserving. If time permits me, I shall try to prove how anxious I am to make the two prize poems as nearly perfect as possible, by scrupulously assenting to their criticism. As the opportunity offers, I think it right, dear sir, to communicate to you the corrections which I have already been able to make, or to which I think I can show good reasons for objecting.</p>
 <p rend="center"><hi rend="italic">La Rétablissement de la Statue de Henri IV.</hi></p>
 <p rend="indented">1<hi rend="italic">st Strophe.</hi>—I shall perhaps be obliged to leave the word “<hi rend="italic">puis ;</hi>” the only word that I know of to replace it is “<hi rend="italic">ensuite,</hi>” and “<hi rend="italic">ensuite</hi>” is very prosaic. The conjunction “<hi rend="italic">et</hi>” would, I think, unite the two portions of the sentence too closely.</p>
@@ -3223,14 +3233,14 @@ Floraux, Toulouse.</hi></head>
 </div>
 <div xml:id="div-letter-0225" type="letter" corresp="#letter-0225">
 <head rend="center">II.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, <hi rend="italic">9th April</hi>, 1819.</dateline><salute rend="indented"><hi rend="smallcaps">Dear Sir</hi>, — I have the honor to send you such of</salute></opener>
-<p>the corrections pointed out as I am now able to accept. The passages which I have not been able to change are few in number, and I venture to hope that if I have not complied with the Academy on some points, it is not for lack of good will or readiness to be taught. Their indulgence has been too great, the marks of it have been too flattering for me not to have exerted all my feeble abilities to make myself worthy both of the one and of the other.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, <hi rend="italic">9th April</hi>, 1819.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">Dear Sir</hi>, — I have the honor to send you such of the corrections pointed out as I am now able to accept. The passages which I have not been able to change are few in number, and I venture to hope that if I have not complied with the Academy on some points, it is not for lack of good will or readiness to be taught. Their indulgence has been too great, the marks of it have been too flattering for me not to have exerted all my feeble abilities to make myself worthy both of the one and of the other.</p>
 <p rend="indented">I do not flatter myself that I have been equally successful in every point. But I must confess, and you perhaps will not be surprised at it, dear sir, that it has given me more trouble to touch up these odes than to compose them. That is the chief reason why I am doubtful of the success of my work. When I hesitated between two versions, I thought it right to submit them both for the decision of the Academy.</p>
 <p rend="indented">I need not tell you, dear sir, that I am not at all anxious that the other renderings which I send you should be adopted. Should the Academy prefer the original text, it would be doing me a real service in retaining it.</p>
 <p rend="indented">Pray accept the assurance of the respect with which</p>
 <p rend="valediction">I have the honor to be, dear sir, your very obedient<lb/>humble servant,</p>
 <p rend="signature">V. M. <hi rend="smallcaps">Hugo</hi>.</p>
-<floatingText type="enclosure"><body><div><pb xml:id="page-263" n="247"/><p rend="center"><hi rend="italic">Le Rétablissement de la Statue de Henri IV.</hi></p>
+<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>Le Rétablissement de la Statue de Henri IV. / Ode sur les vierges de Verdun.</p></div></front><body><div><pb xml:id="page-263" n="247"/><p rend="center"><hi rend="italic">Le Rétablissement de la Statue de Henri IV.</hi></p>
 <p rend="indented"><hi rend="italic">2d Strophe.</hi>—7th line, read “<hi rend="italic">Sylla détrône Marius.</hi>”</p>
 <p rend="indented"><hi rend="italic">3d Strophe.</hi>—For the 3d, 5th, and 6th lines substitute—</p>
 <lg rend="center"><l>Trajan domine encor les champs que de Tibère</l><l>Couvrent les temples abattus.</l><l>Souvent dans les horreurs des discordes civiles</l><l>Quand l’effroi planait sur les villes,</l><l>Aux cris des peuples révoltés, etc.</l></lg>
@@ -3249,8 +3259,7 @@ Floraux, Toulouse.</hi></head>
 <p>I think, however, it is more frank and more seemly to admit how little I have succeeded in my attempts.</p>
 <p rend="indented"><hi rend="italic">5th Strophe.</hi> — I agreed with all the Academy, dear sir, that the expression “<hi rend="italic">Assassins, juges à leur tour</hi>” did not adequately develop the idea of assassins who sit in judgment on others after having lived in dread of judges so long themselves, but the time I have spent and often wasted over the other corrections prevented me from even thinking about this one.</p>
 <p rend="indented"><hi rend="italic">7th Strophe.</hi> — The following note might come after it : —</p>
-<quote><p>Moreau took the fort of l'Ecluse on the island of Cazand from a superior force of the enemy the very day on which his aged father was led to the scaffold. Patriotism must indeed have had a strong</p></quote>
-<pb xml:id="page-265" n="249"/><p>hold on the hearts of our soldiers to make them defend with such heroic resignation a country in which their dearest interests were daily betrayed in a disgraceful manner. Our army was fortunate in always being free from the reproaches which were leveled against our executioners. Do not let us forget that if it fought against its king, this was in opposing a foreign invasion, and that, as an illustrious author has said, its sword, thrown in the balance, weighed down the axe of the Revolution.</p>
+<quote><p>Moreau took the fort of l'Ecluse on the island of Cazand from a superior force of the enemy the very day on which his aged father was led to the scaffold. Patriotism must indeed have had a strong <pb xml:id="page-265" n="249"/> hold on the hearts of our soldiers to make them defend with such heroic resignation a country in which their dearest interests were daily betrayed in a disgraceful manner. Our army was fortunate in always being free from the reproaches which were leveled against our executioners. Do not let us forget that if it fought against its king, this was in opposing a foreign invasion, and that, as an illustrious author has said, its sword, thrown in the balance, weighed down the axe of the Revolution.</p></quote>
 <p rend="indented"><hi rend="italic">8th Strophe.</hi>—For the three first lines one of the two following versions may be substituted:—</p>
 <lg rend="indented"><l>Quand nos phalanges mutilés</l><l>Jetant sur nos cyprès l'ombre de leurs lauriers,</l><l>Reculaient vers Paris, par le nombre accablées . . .</l></lg>
 <lg rend="indented"><l>Quand nos chefs, entourés des armes étrangères</l><l>Couvrant nos cyprès de lauriers,</l><l>Vers Paris lentement reportaient leurs bannières . . .</l></lg>
@@ -3272,8 +3281,8 @@ Floraux, Toulouse.</hi></head>
 </div>
 <div xml:id="div-letter-0227" type="letter" corresp="#letter-0227">
 <head rend="center">IV.</head>
-<opener><dateline rend="right">18<hi rend="italic">th April</hi>, 1820.</dateline><salute rend="indented"><hi rend="smallcaps">Dear Sir</hi>, — It was only the entreaties of some of my friends that induced me to send the <hi rend="italic">Académie des Jeux Floraux</hi> the ode <hi rend="italic">Moyse</hi>, the many imperfections</salute></opener>
-<pb xml:id="page-268" n="252"/><p>of which I was the first to feel. In according an <hi rend="italic">amaranthe réservée</hi> to this work, the Academy has far surpassed all my hopes, and I feel I ought to look on this prize more as an encouragement than as a reward. I take pleasure in acknowledging the justice of the criticisms addressed to me, and besides, I think that in finding fault with the absence of all lyric movement in my ode the Academy might have detected one of the reasons for it in the choice of the metre, which, with its feminine terminations, is incapable of rendering with marked effect the imposing imagery and the grand thoughts which such a subject ought to have called forth. This metre, which André de Chénier has employed with such success in his <hi rend="italic">Jeune captive,</hi> is no doubt naturally melodious, but it is not sufficiently solemn or sonorous for grand poetry. Here, then, is another mistake of mine; in adding this fresh criticism to the very judicious observations of the Academy I may be making a blunder, but I know I am acting frankly, and I am sure you will not think the worse of me for it. As to the points of detail, I regret that I have no time to make my ode more worthy of the flattering distinction which you have bestowed on it. I think, however, that in the 1st strophe, “<hi rend="italic">chastes plaisirs</hi>” might be altered to “<hi rend="italic">jeux innocents,</hi>” and in the 8th, “<hi rend="italic">Ses malheurs ont ému mon amour</hi>” to “<hi rend="italic">Ses malheurs éveillent mon amour,</hi>” if you think these corrections are admissible. I repeat, I regret that I have not the time; if I had I would have endeavored, by a searching revision of my ode, to make myself worthier of your distinguished approbation. As this is impossible, I can only beg you, dear sir, to convey <pb xml:id="page-269" n="253"/> my excuses and my warm acknowledgments to your colleagues.</p>
+<opener><dateline rend="right">18<hi rend="italic">th April</hi>, 1820.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">Dear Sir</hi>, — It was only the entreaties of some of my friends that induced me to send the <hi rend="italic">Académie des Jeux Floraux</hi> the ode <hi rend="italic">Moyse</hi>, the many imperfections <pb xml:id="page-268" n="252"/> of which I was the first to feel. In according an <hi rend="italic">amaranthe réservée</hi> to this work, the Academy has far surpassed all my hopes, and I feel I ought to look on this prize more as an encouragement than as a reward. I take pleasure in acknowledging the justice of the criticisms addressed to me, and besides, I think that in finding fault with the absence of all lyric movement in my ode the Academy might have detected one of the reasons for it in the choice of the metre, which, with its feminine terminations, is incapable of rendering with marked effect the imposing imagery and the grand thoughts which such a subject ought to have called forth. This metre, which André de Chénier has employed with such success in his <hi rend="italic">Jeune captive,</hi> is no doubt naturally melodious, but it is not sufficiently solemn or sonorous for grand poetry. Here, then, is another mistake of mine; in adding this fresh criticism to the very judicious observations of the Academy I may be making a blunder, but I know I am acting frankly, and I am sure you will not think the worse of me for it. As to the points of detail, I regret that I have no time to make my ode more worthy of the flattering distinction which you have bestowed on it. I think, however, that in the 1st strophe, “<hi rend="italic">chastes plaisirs</hi>” might be altered to “<hi rend="italic">jeux innocents,</hi>” and in the 8th, “<hi rend="italic">Ses malheurs ont ému mon amour</hi>” to “<hi rend="italic">Ses malheurs éveillent mon amour,</hi>” if you think these corrections are admissible. I repeat, I regret that I have not the time; if I had I would have endeavored, by a searching revision of my ode, to make myself worthier of your distinguished approbation. As this is impossible, I can only beg you, dear sir, to convey <pb xml:id="page-269" n="253"/> my excuses and my warm acknowledgments to your colleagues.</p>
 <p rend="indented">If the idyl of the Two Ages could have obtained a prize, it would have been a great pleasure and a great honor to me ; but, as it is, I can only bow with respect to the decision which prevented it from achieving this distinction.</p>
 <p rend="indented">I now, dear sir, come to a point on which I wish to state my views quite openly, while being anxious to obtain your approval. You tell me that I have now, according to your rules, acquired the right to apply for the degree of <hi rend="italic">Maître ès Jeux Floraux.</hi> I refrain from inquiring how I acquired this right, and whether I do not owe it rather to the continued indulgence shown me by the Academy than to my own merit. I have only to tell you my feeling on the subject, and I think my duty (and never will a duty have been fulfilled with greater pleasure) is to claim this distinction, to which the Academy has allowed me to aspire, with all the eagerness and gratitude which I feel under the circumstances. I might, it is true, retain the right to compete by putting off my application ; but, on the one hand, if I am accustomed to the great kindness of the Academy, I am not so presumptuous or self-confident as to have much hope of success if I remain on the lists ; and, on the other hand, as the lyric competitions are now closed to me, I am not sure whether the fruitless attempts I have hitherto made in other styles are not a warning to me to leave the ranks. I must add to these considerations the wish, which I have entertained for a long time, but have hitherto concealed, to belong to the illustrious society of the <hi rend="italic">Jeux Floraux.</hi></p>
 <pb xml:id="page-270" n="254"/><p rend="indented">Now that the opportunity offers to join you as <hi rend="italic">maître,</hi> I feel more strongly than ever how far too great this title is for my age and for my poor abilities, but at the same time I feel that if you thought fit to confer it on me, the honor of bearing it would compel me in a measure to do my best to be worthy of it. I therefore venture to beg you, dear sir, if you see fit, to convey my respectful wishes to the Academy, and to apply to it in my name for a degree which I shall highly prize if I obtain it, as it will constantly remind me how much I owe to you personally and to your colleagues. I do not know if I ought to send a more direct application to the Academy, but I hope that in case you cannot undertake it, you will be so kind as to let me know.</p>
@@ -3328,8 +3337,8 @@ Floraux, Toulouse.</hi></head>
 </div>
 <div xml:id="div-letter-0233" type="letter" corresp="#letter-0233">
 <head rend="center">X.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 24<hi rend="italic">th October</hi>, 1822.</dateline><salute><hi rend="smallcaps">My dear Colleague</hi>,—Your kind letter came</salute></opener>
-<p>upon me as a gentle surprise in a moment of happiness. I have always highly valued the proofs of your kind friendship, and when I received this last token of it, it gave me all the greater pleasure because it seemed as if a part of yourself, my dear friend, was a witness of my felicity.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 24<hi rend="italic">th October</hi>, 1822.</dateline></opener>
+<p><hi rend="smallcaps">My dear Colleague</hi>,—Your kind letter came upon me as a gentle surprise in a moment of happiness. I have always highly valued the proofs of your kind friendship, and when I received this last token of it, it gave me all the greater pleasure because it seemed as if a part of yourself, my dear friend, was a witness of my felicity.</p>
 <p>I am anxious to be the first to tell you that I am married, that I have just been united to the sweetest, the most angelic, and the most beloved of women. You have contributed to what you are good enough to call my success, you sympathized with me in my sorrow, and I have no doubt that you will also rejoice with me in my happiness.</p>
 <p>I am glad that the collection of poems interested you, and still more, that the opinions which you express so gracefully coincide with mine. I hope that when the second edition of these odes appears, which will be before long, they will be more deserving of your attention, dear sir, and of that of all the enlightened men to whose approbation I aspire. <pb xml:id="page-280" n="264"/> I am aware that M. de Rességuier has been in Paris for four or five days; he came to call on me, and I was stupid enough and unlucky enough to be out at the time. I hope, however, to see him soon, and I shall have much pleasure in giving him your message.</p>
 <p>This amiable colleague of ours will doubtless be able to give you details of <hi rend="italic">Clytemnestre</hi> much better than I can, but I may tell you that this fine play is to be acted at the end of the month, that it will be followed immediately by <hi rend="italic">Saül</hi> at the second theatre, and that these two splendid works will give our good colleague, Soumet, a great and unique reputation. In making this prophecy I am in no way inspired by friendship.</p>
@@ -3350,8 +3359,8 @@ Floraux, Toulouse.</hi></head>
 </div>
 <div xml:id="div-letter-0235" type="letter" corresp="#letter-0235">
 <head rend="center">XII.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, <hi rend="italic">8th January,</hi> 1823.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Colleague</hi>, — What pleases me most in the important service you have just so kindly rendered</salute></opener>
-<pb xml:id="page-283" n="267"/><p>me is the fact that it was rendered by you. For a long time I have fallen into the pleasant habit of being indebted to you, and all I can wish for now is to have the good fortune of being able to serve you sometimes in return. I was much gratified by your kind thought in sending me your application on my behalf, and quite overcome by all the expressions of kindness and praise with which your friendship inspired you for the least worthy of your colleagues.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, <hi rend="italic">8th January,</hi> 1823.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Colleague</hi>, — What pleases me most in the important service you have just so kindly rendered <pb xml:id="page-283" n="267"/> me is the fact that it was rendered by you. For a long time I have fallen into the pleasant habit of being indebted to you, and all I can wish for now is to have the good fortune of being able to serve you sometimes in return. I was much gratified by your kind thought in sending me your application on my behalf, and quite overcome by all the expressions of kindness and praise with which your friendship inspired you for the least worthy of your colleagues.</p>
 <p rend="indented">I have just published the second edition of my odes, with additions and corrections. I have told my publisher to send you two copies; one of these I hope you will be kind enough to accept from me, and the other I beg you to present to the Academy on my behalf.</p>
 <p rend="indented">I have reason to believe that the competition for the <hi rend="italic">Jeux Floraux</hi> this year will be a brilliant one. I have seen several of the compositions which are to be sent to you, and I can assure you that your fine wreaths will be the reward of some fine volumes.</p>
 <p rend="indented">M. Soumet and M. Rességuier beg me, my dear colleague, to convey to you on their behalf all that I feel for you, that is to say, the warmest, tenderest, and sincerest feelings that esteem and attachment can inspire.</p>
@@ -3360,8 +3369,8 @@ Floraux, Toulouse.</hi></head>
 </div>
 <div xml:id="div-letter-0236" type="letter" corresp="#letter-0236">
 <head rend="center">XIII.</head>
-<opener><dateline rend="right"><hi rend="smallcaps">Gentilly</hi>, 9<hi rend="italic">th June</hi>, 1823.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Colleague</hi>,—Our good friend Jules de Rességuier has shown me your letter, and I was much</salute></opener>
-<pb xml:id="page-284" n="268"/><p>touched by the kind and affectionate messages for me in it. I was not less sensible of the kind feeling that prompted you to mention my name at your memorable meeting; you wished that some of the glory conferred on the old <hi rend="italic">fête des fleurs</hi> by the presence of an illustrious spectator might be reflected on me. I thank you for this. You have touched my heart even more than you have flattered my pride.</p>
+<opener><dateline rend="right"><hi rend="smallcaps">Gentilly</hi>, 9<hi rend="italic">th June</hi>, 1823.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">My dear Colleague</hi>,—Our good friend Jules de Rességuier has shown me your letter, and I was much <pb xml:id="page-284" n="268"/> touched by the kind and affectionate messages for me in it. I was not less sensible of the kind feeling that prompted you to mention my name at your memorable meeting; you wished that some of the glory conferred on the old <hi rend="italic">fête des fleurs</hi> by the presence of an illustrious spectator might be reflected on me. I thank you for this. You have touched my heart even more than you have flattered my pride.</p>
 <p rend="indented">Please let me know if you have received the second edition of my odes, as well as an indifferent work in four volumes entitled <hi rend="italic">Han d'Islande.</hi> Some time ago I told my former publisher, Persan, to forward you these works, which I was also sending to the Academy. He has since become bankrupt, and having discovered several cases in which he had neglected to carry out my orders, I should like to make sure that yours was not among the number.</p>
 <p rend="indented">Farewell, my good colleague; my wife, who is going on well, shares the deep feeling of sincere affection felt for you by your most humble servant and unworthy colleague,</p>
 <closer><signed rend="right"><hi rend="smallcaps">Victor Hugo.</hi></signed></closer>
@@ -3370,7 +3379,7 @@ Floraux, Toulouse.</hi></head>
       <div xml:id="sec-sec-08" type="appendix">
 <head>II. Additional Letters to Various Persons.</head>
 <div xml:id="div-unit-0247" type="apparatus">
-<pb xml:id="page-285" n="271"/><p rend="heading">II. ADDITIONAL LETTERS TO VARIOUS<lb/>PERSONS.</p>
+<pb xml:id="page-285" n="269"/><p rend="heading">II. ADDITIONAL LETTERS TO VARIOUS<lb/>PERSONS.</p>
 </div>
 <div xml:id="div-letter-0237" type="letter" corresp="#letter-0237">
 <head rend="center">I.</head>
@@ -3381,7 +3390,7 @@ Floraux, Toulouse.</hi></head>
 <p>is not a poetic fiction. If there were time to insert my name in your report printed by order of the Academy, it would greatly increase the gratitude I owe you, and of which I beg you to accept the proof in the form which your encouragement has so greatly endeared to me and which must, for so many reasons, be still more dear to you. I trust you will be kind enough, dear sir, after having taken note of it, to return me my birth certificate to No. 18 Rue des Petits Augustins. <pb n="270"/> I beg you to accept the assurance of the profound respect with which I have the honor to be, dear sir,</p>
 <p rend="valediction">Your most obedient, humble servant,</p>
 <p rend="signature"><hi rend="smallcaps">Victor Marie Hugo.</hi></p>
-<floatingText type="enclosure"><body><div><pb xml:id="page-286" n="270"/><head rend="center"><hi rend="italic">A Raynouard, auteur des Templiers.</hi></head>
+<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>A Raynouard, auteur des Templiers.</p></div></front><body><div><pb xml:id="page-286" n="270"/><head rend="center"><hi rend="italic">A Raynouard, auteur des Templiers.</hi></head>
 <lg><l>O Raynouard, toi qui d'un ordre auguste</l><l>Nous traças en beaux vers le châtiment injuste ;</l><l>Qui, dédaignant l'amour et ses molles douleurs,</l><l>Sur l'austère vertu nous fis verser des pleurs ;</l><l>Toi qui bientôt encor, dans tes fécondes veilles,</l><l>Des exploits de Judas <ref xml:id="fnref-p0286-1" type="noteref" target="#fn-p0286-1">1</ref> nous diras les merveilles ;</l><l>Pardonne ! interrompant de si nobles travaux,</l><l>Un jeune élève de Virgile</l><l>Ose de sa Muse inhabile</l><l>T'adresser les accords nouveaux.</l></lg>
 <lg><l>Il te doit tout ; c'est toi dont l'indulgence</l><l>Sut arracher au gouffre de l'oubli</l><l>Son faible essai dans l'ombre enseveli,</l><l>De sa Muse accueillant l'enfance.</l><l>Tu fis plus ; tu voulus dans le sénat des arts</l><l>Sur elle attirer les regards.</l><l>Ces vers sans art échappés à ma veine</l><l>D'un tel honneur étaient dignes à peine ;</l><l>Mais que ne pouvaient sur les cœurs</l><l>Cet amour que Virgile a peint en traits vainqueurs,</l><l>Le souvenir d'Elise abandonnée,</l><l>D'un triste hymen invoquant les vains droits</l><l>Et réclamant contre l'ingrat Enée</l><l>L'appui des Dieux qui l'ont seuls condamnée ?</l><l>Que ne pourrait le charme de ta voix ?</l><l>De cette voix dont la mâle énergie,</l><l>Quand la patrie en deuil redemandait ses rois,</l><l>Déployant des vertus l'éloquente magie,</l><l>Apprit au tyran même à respecter nos lois ?</l><l>C'est à ta voix encor, c'est à son harmonie</l><l>Qu'est dû tout le succès de mon humble génie ;</l><l>Ce qui fait mon bonheur fait aussi mon orgueil,</l><l>Virgile et toi protégiez ma faiblesse ;</l></lg>
 <pb xml:id="page-287" n="271"/><lg rend="center"><l>Ces vers nouveaux que je t'adresse</l><l>Recevront-ils le même accueil ?</l><l>Dans le sein de Virgile ils n'ont point pris naissance,</l><l>Ton organe flatteur n'a pas accru leur prix ;</l><l>Mais ils sont inspirés par la reconnaissance,</l><l>Et c'est pour toi qu'ils sont écrits.</l></lg></div></body></floatingText>
@@ -3423,8 +3432,8 @@ Rue Saint Marc-Feydeau.</hi></head>
 <div xml:id="div-letter-0242" type="letter" corresp="#letter-0242">
 <head rend="center">VI.</head>
 <head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Mlle. Mars</hi>, 64 <hi rend="italic">Rue Saint-Lazare.</hi></head>
-<opener><dateline rend="right"><hi rend="italic">Tuesday, 10th March,</hi> 1831.</dateline><salute rend="indented"><hi rend="smallcaps">Madam</hi>, —Every day I wish to go and see you, and</salute></opener>
-<p>every day my time is taken up by a crowd of engagements. But I really want to talk to you, to give you a number of explanations to which you will listen with your usual charming kindness, to convey to you many regrets which you will have no difficulty in believing. You have been good enough to call on me twice. I was very sorry not to have been at home. You would have seen that I am in no way to blame for the decision I was obliged to take to withdraw <hi rend="italic">Marion de Lorme</hi> once and for all from the Théâtre Français. You know that the Ministry has had the hardihood to reëstablish the censorship, the authors were obliged to bind themselves not to give any play to the censured theatres, the Théâtre Français was in this category; I adhered, as in duty bound, to the authors' agreement. The Porte-Saint-Martin offered to act my play and to fight the censorship as much as I like. I informed Taylor of this, in accordance with my promise, by communicating to him the conditions to which M. Crosnier was willing to subscribe; I told him that I would give the preference to the Théâtre Français on the same terms. I asked him to let you and the committee know of it, and I promised him that I would wait for four and twenty hours before signing anything. I heard nothing more from him, although I waited three days instead of four <pb xml:id="page-291" n="275"/> and twenty hours, and finally, no answer being forthcoming, I signed. Another consideration of a most imperious nature influenced my decision. I received information that my subject had been purloined from me, and that two <hi rend="italic">Marion de Lormes,</hi> in prose, had already been offered to two theatres. (I am assured at this very moment that one of these pieces has lately been read at the Théâtre Français.) There was, therefore, not a moment to lose. The Théâtre Français being under prohibition owing to the censorship business, your action against the members, the well-nigh certainty (admitted by Taylor himself and confirmed since by the steps taken by the Théâtre Français to secure Mme. Dorval) that you would not act any more, the necessity in any event of waiting for an indefinite time during which my subject would have been stolen from me and the bloom taken off my piece by other theatres, — all this made me decide for the Porte-Saint-Martin. I hear to-day that you would have been able to act for me. I am truly sorry. I am also told that you are kind enough to somewhat regret the loss of the part which I thought you filled so admirably. That is almost a consolation. It is equivalent to a hope that you will not refuse the next part which I shall be delighted to offer you. In the meanwhile, Madam, forgive me, if you think there is anything to forgive me for. Write me a line to say that you will not be too angry with me, and that you will permit me to work once more for you; above all pity me, and keep some friendship for me in return for my unbounded admiration and profound devotion.</p>
+<opener><dateline rend="right"><hi rend="italic">Tuesday, 10th March,</hi> 1831.</dateline></opener>
+<p rend="indented"><hi rend="smallcaps">Madam</hi>, —Every day I wish to go and see you, and every day my time is taken up by a crowd of engagements. But I really want to talk to you, to give you a number of explanations to which you will listen with your usual charming kindness, to convey to you many regrets which you will have no difficulty in believing. You have been good enough to call on me twice. I was very sorry not to have been at home. You would have seen that I am in no way to blame for the decision I was obliged to take to withdraw <hi rend="italic">Marion de Lorme</hi> once and for all from the Théâtre Français. You know that the Ministry has had the hardihood to reëstablish the censorship, the authors were obliged to bind themselves not to give any play to the censured theatres, the Théâtre Français was in this category; I adhered, as in duty bound, to the authors' agreement. The Porte-Saint-Martin offered to act my play and to fight the censorship as much as I like. I informed Taylor of this, in accordance with my promise, by communicating to him the conditions to which M. Crosnier was willing to subscribe; I told him that I would give the preference to the Théâtre Français on the same terms. I asked him to let you and the committee know of it, and I promised him that I would wait for four and twenty hours before signing anything. I heard nothing more from him, although I waited three days instead of four <pb xml:id="page-291" n="275"/> and twenty hours, and finally, no answer being forthcoming, I signed. Another consideration of a most imperious nature influenced my decision. I received information that my subject had been purloined from me, and that two <hi rend="italic">Marion de Lormes,</hi> in prose, had already been offered to two theatres. (I am assured at this very moment that one of these pieces has lately been read at the Théâtre Français.) There was, therefore, not a moment to lose. The Théâtre Français being under prohibition owing to the censorship business, your action against the members, the well-nigh certainty (admitted by Taylor himself and confirmed since by the steps taken by the Théâtre Français to secure Mme. Dorval) that you would not act any more, the necessity in any event of waiting for an indefinite time during which my subject would have been stolen from me and the bloom taken off my piece by other theatres, — all this made me decide for the Porte-Saint-Martin. I hear to-day that you would have been able to act for me. I am truly sorry. I am also told that you are kind enough to somewhat regret the loss of the part which I thought you filled so admirably. That is almost a consolation. It is equivalent to a hope that you will not refuse the next part which I shall be delighted to offer you. In the meanwhile, Madam, forgive me, if you think there is anything to forgive me for. Write me a line to say that you will not be too angry with me, and that you will permit me to work once more for you; above all pity me, and keep some friendship for me in return for my unbounded admiration and profound devotion.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Victor Hugo.</hi></signed></closer>
 </div>
 <div xml:id="div-letter-0243" type="letter" corresp="#letter-0243">
@@ -3449,6 +3458,6 @@ Rue Saint Marc-Feydeau.</hi></head>
 <note place="foot" xml:id="fn-p0293-1" n="1"><p>The attempt of Fieschi on the life of Louis Philippe, 28th July, 1835.</p></note>
 </div>
 </div>
-    </body>
+    </back>
   </text>
 </TEI>

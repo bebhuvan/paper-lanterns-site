@@ -7,8 +7,7 @@
 
 ## Frontmatter
 
-### <span class="small-caps">Letters</span> *from*
-<span class="small-caps">Famous People</span>
+### <span class="small-caps">Letters</span> *from* <span class="small-caps">Famous People</span>
 
 *Sharpless D. Green*
 
@@ -16,8 +15,7 @@
 
 ### LETTERS *from* FAMOUS PEOPLE
 
-### LETTERS FROM
-FAMOUS PEOPLE
+### LETTERS FROM FAMOUS PEOPLE
 
 ### SHARPLESS DOBSON GREEN
 
@@ -886,9 +884,9 @@ YOUR request for a letter of inspiration that you may communicate to your studen
 
 Tell them, please, that in the course of my business career I have had the training of many assistants, and have had unusual chances of observation. During this period I have found that
 
-- 10 per cent. have been good
-10 per cent. have been bad
-80 per cent. have been “indifferent”
+- 10 per cent. have been good  
+  10 per cent. have been bad  
+  80 per cent. have been “indifferent”
 The bad 10 per cent. “ate their own heads off,” so to speak. The good 10 per cent. held their positions and advanced when opportunity offered. The 80 per cent. were literally “indifferent,” and kept their positions only until better workers were found.
 
 One brainy young assistant in whom I took a great interest, who was almost more than satisfactory mentally, was so personally untidy that I had to remonstrate with her at various times, and finally to send her away as the office complained of her. She was a most attractive girl, but her desire to wear untidy afternoon gowns instead of a simple business dress, and her lack of neatness in hair-dressing, cost her a good position. She thought she knew best.
@@ -1001,9 +999,7 @@ I RECOMMEND the following extract from a letter which Theodore Roosevelt wrote t
 
 > “Exercise your own best judgment and form some idea of what the really best fellows in the class think on the subject. Do not make the mistake of thinking that the men who are merely undeveloped are really the best fellows, no matter how pleasant and agreeable they are or how popular. Popularity is a good thing, but it is not something for which to sacrifice studies or athletics or good standing in any way; and sometimes to seek it overmuch is to lose it. I do not mean this as applying to you, but as applying to certain men who still have a great vogue at first in the class, and of whom you will naturally tend to think pretty well.
 
-> “In all these things I can only advise you in a very general way. You are on the ground. You know the men and the general college sentiment. You have gone in with the serious purpose of doing decently and honorably; of
-
-standing well in your studies; of showing that in athletics you mean business up to the extent of your capacity, and of getting the respect and liking of your classmates so far as they can be legitimately obtained.”
+> “In all these things I can only advise you in a very general way. You are on the ground. You know the men and the general college sentiment. You have gone in with the serious purpose of doing decently and honorably; of standing well in your studies; of showing that in athletics you mean business up to the extent of your capacity, and of getting the respect and liking of your classmates so far as they can be legitimately obtained.”
 
 ROBERT BRIDGES  
 (“Droch”)
@@ -2347,7 +2343,7 @@ ROSSITER JOHNSON
 
 ### Letter 153: Mary Johnston
 
-THESE young people are growing up in a tremendous time of change. It is more important than at the moment they can grasp, perhaps, that they should learn and that they should keep themselves open to every wholesome and generous mood and thought and act. Increasingly , men and women of the earth will have a great part to play—or to decline to play. It is not a question of opinions, but of the character, the heart and mind and life, the individual, himself or herself. I hope for all these young men and women that they will play their part well. I wish for them open minds, open hearts, strong love for humanity, and the will to serve. I wish for them health, joy, wisdom and power!
+THESE young people are growing up in a tremendous time of change. It is more important than at the moment they can grasp, perhaps, that they should learn and that they should keep themselves open to every wholesome and generous mood and thought and act. Increasingly, men and women of the earth will have a great part to play—or to decline to play. It is not a question of opinions, but of the character, the heart and mind and life, the individual, himself or herself. I hope for all these young men and women that they will play their part well. I wish for them open minds, open hearts, strong love for humanity, and the will to serve. I wish for them health, joy, wisdom and power!
 
 <span class="small-caps">Mary Johnston</span>
 
@@ -2641,9 +2637,7 @@ AS I am particularly interested in promulgating sensible ideas of thrift, I beli
 
 ### “*Getting on in the World*”
 
-> “How to succeed, how to get on in the world—that is the problem that millions of earnest men and women are striving to solve, each in his own way, but all, consciously or unconsciously, observing the same general principles. “There is nothing in such an effort at variance with the highest moral standards. In fact, the zealous pursuit of such an object has a beneficial reflex action upon the character, as it has upon the physical and mental nature. “Saving has a beneficial moral effect, but extravagance, as it usually is acting a lie, is essentially immoral and breeds many other irregularities and sins. On the other hand, temperance and integrity go hand in
-
-hand with thrift. This course is the harder one, but it is doing hard things that develops strength and character.
+> “How to succeed, how to get on in the world—that is the problem that millions of earnest men and women are striving to solve, each in his own way, but all, consciously or unconsciously, observing the same general principles. “There is nothing in such an effort at variance with the highest moral standards. In fact, the zealous pursuit of such an object has a beneficial reflex action upon the character, as it has upon the physical and mental nature. “Saving has a beneficial moral effect, but extravagance, as it usually is acting a lie, is essentially immoral and breeds many other irregularities and sins. On the other hand, temperance and integrity go hand in hand with thrift. This course is the harder one, but it is doing hard things that develops strength and character.
 
 “Luck is a fetish. Too many persons believe in it, and fall down and worship it. Too often speculation takes the place of industry; gambling, of thrift; extravagance, of saving.
 
@@ -3058,7 +3052,7 @@ The recent Conference in Washington to limit armaments was based upon the recogn
 
 ### Letter 219: Victor Hugo Paltsits
 
-I <span class="small-caps">suppose</span> that every normal being seeks joy. Many fail in the quest because there are so many counterfeits which they follow as false gods. Banks cannot prosper with counterfeits; business cannot succeed on a counterfeit basis—neither can a human life. Integrity is the key to a good name and a good name is retained by everlasting vigilance; it is easy to lose it, because it is harder to build up than to destroy. These are commonplaces , yet it is remarkable that withal they are so much disregarded. I have been thinking a good deal about joy—real joy. It is not found in envy, nor in dissatisfaction with one's lot, nor in shirking duties, nor in numerous counterfeit substitutes for a real life, but
+I <span class="small-caps">suppose</span> that every normal being seeks joy. Many fail in the quest because there are so many counterfeits which they follow as false gods. Banks cannot prosper with counterfeits; business cannot succeed on a counterfeit basis—neither can a human life. Integrity is the key to a good name and a good name is retained by everlasting vigilance; it is easy to lose it, because it is harder to build up than to destroy. These are commonplaces, yet it is remarkable that withal they are so much disregarded. I have been thinking a good deal about joy—real joy. It is not found in envy, nor in dissatisfaction with one's lot, nor in shirking duties, nor in numerous counterfeit substitutes for a real life, but
 
 Joy, staple and secure,  
 The balm that will endure,  
@@ -3193,7 +3187,7 @@ OLGA PETROVA
 
 ### Letter 233: JOHN S. PILLSBURY
 
-WITH the present demands of American business, it is very easy to hold forth the greatest encouragement to young men and women at this time. It is frequently said in many quarters that there is not the opportunity today of climbing to the top in business that existed a generation ago. I can testify from experience that this is not the case. There are hundreds of large business concerns in this country today that are desperately in need of high-class personnel. There is an over-supply of those who are not ambitious or industrious, and who are only fitted to occupy clerical positions and other positions entailing little responsibility . In expressing this in terms of salaries, I do not believe I am exaggerating in the slightest when I make a statement that any large company can get all of the personnel it desires to fill positions paying anywhere from $100 to $300 per month; but at the top of the ladder there are thousands of positions, necessarily vacant, where men, with imagination, industry and experience, are needed and where the compensation is from $10,000 a year—up.
+WITH the present demands of American business, it is very easy to hold forth the greatest encouragement to young men and women at this time. It is frequently said in many quarters that there is not the opportunity today of climbing to the top in business that existed a generation ago. I can testify from experience that this is not the case. There are hundreds of large business concerns in this country today that are desperately in need of high-class personnel. There is an over-supply of those who are not ambitious or industrious, and who are only fitted to occupy clerical positions and other positions entailing little responsibility. In expressing this in terms of salaries, I do not believe I am exaggerating in the slightest when I make a statement that any large company can get all of the personnel it desires to fill positions paying anywhere from $100 to $300 per month; but at the top of the ladder there are thousands of positions, necessarily vacant, where men, with imagination, industry and experience, are needed and where the compensation is from $10,000 a year—up.
 
 The greatest difficulty today is that when a really intelligent, capable, young man works hard with a large company for five or ten years, during which time he probably owes the company as much as they owe him, he becomes impatient, inclined to take things easy, and seeks easier employment where the final opportunity is not as great.
 
@@ -3465,7 +3459,7 @@ Curiously enough, while at school—where I had an opportunity to learn—I did 
 
 Now, I do not want you to get the impression that the world has a grudge against the young person just out of school. It hasn't. The world after school is a cosmic machine which is operated through the medium of innumerable cogs. Metaphorically speaking, each human being is a cog. When he gets out into the world and becomes a cog in the machine, he is expected to perform his work as well or a little better than the cog next to him. Now, if all the cogs were good cogs, and were filled with ambition to become the best cogs in the machine, we'd have progress in this old world that would astonish you. But if all the cogs turned out to be bad cogs, we'd have a bad machine, and not one of the cogs would be proud of it.
 
-Try to be a good cog, even-tempered, considerate, doing your work quietly, efficiently. And if you can also be dependable , and cheerful, and always ready when the time of stress comes, helping the big machine to do its work, you will have rounded out your destiny.
+Try to be a good cog, even-tempered, considerate, doing your work quietly, efficiently. And if you can also be dependable, and cheerful, and always ready when the time of stress comes, helping the big machine to do its work, you will have rounded out your destiny.
 
 I'm afraid I have been preaching. Moreover, I suppose I have been preaching to eight young men and women who are bound to become good cogs. As a matter of fact, I believe all the cogs are pretty good cogs. But look out for the fellow who isn't content to be merely a cog, but wants to be the entire machine.
 
@@ -3487,7 +3481,7 @@ IN recognition of the honor of being asked to act as a kind of educational “gu
 
 I can see now that it would have been better for me if I had studied more regularly when I was at school. I was not mentally inactive, but I took my own course too much. There is immense value in discipline. I came near ruining myself intellectually by neglecting discipline. One can, and should, have the benefit both of carefully directed and regulated study and of independent and discursive study, such as I was very fond of, and too much indulgence in which has cost me a great deal of time and effort in later life, because in my early days I was unsystematic in my work. No amount of brilliancy can make up for lack of system. Remember this: We are the descendants of a once wild race. We need training as much as horses do. As civilization advances, we need more and more training. It would be a great waste of time for each individual to undertake to train himself. Schools and teachers and courses of study have been developed through long years of concentrated effort, for the sole purpose of furnishing the needed training, and saving each individual from a blind, stumbling search after it.
 
-Your school years, then, are the most valuable in your life, provided that you take full advantage of what they offer you. While you are in school, the accumulated experience of all mankind is placed at your service, not only to show you how to make the most of the powers that nature has bestowed upon you, but to start you off in the most efficient use of them. But all that you will throw away if you refuse to be guided, if you indulge only your own undisciplined tendencies ; if, in short, you behave like a fractious colt, which remains but a wild, friendless animal all its days.
+Your school years, then, are the most valuable in your life, provided that you take full advantage of what they offer you. While you are in school, the accumulated experience of all mankind is placed at your service, not only to show you how to make the most of the powers that nature has bestowed upon you, but to start you off in the most efficient use of them. But all that you will throw away if you refuse to be guided, if you indulge only your own undisciplined tendencies; if, in short, you behave like a fractious colt, which remains but a wild, friendless animal all its days.
 
 I understand that some of you will become graduates in the coming June. To those I would say: Don't stop studying; apply the methods that the school has taught you to the new problems that will confront you. For those who succeed in life, in any form whatever of success, there is no break, no gap, between the school and active life.
 
@@ -3549,14 +3543,14 @@ HENRY A. SHUTE
 
 FOUR, according to Pythagoras, is the perfect number. You are twice four and are, therefore, twice perfect. I am giving you eight rules that I try to follow myself:
 
-- 1. Love Truth in all its phases.
-2. Cultivate Contentment.
-3. Wrong no one in word or deed.
-4. Search for Beauty in all things and everywhere.
-5. Love and care for animals and try to understand their pathos and helplessness.
-6. Do little kindnesses to persons and animals.
-7. Contemplate the starry heavens and try to gain a faint idea of space and eternity. The little things of the world and all petty matters will utterly vanish.
-8. Learn to love Duty. She has a stern aspect sometimes; but she has priceless rewards for those who follow her.
+- 1. Love Truth in all its phases.  
+  2. Cultivate Contentment.  
+  3. Wrong no one in word or deed.  
+  4. Search for Beauty in all things and everywhere.  
+  5. Love and care for animals and try to understand their pathos and helplessness.  
+  6. Do little kindnesses to persons and animals.  
+  7. Contemplate the starry heavens and try to gain a faint idea of space and eternity. The little things of the world and all petty matters will utterly vanish.  
+  8. Learn to love Duty. She has a stern aspect sometimes; but she has priceless rewards for those who follow her.
 Please do not think I am preaching: I am just one of yourselves.
 
 ESTHER SINGLETON
@@ -3737,7 +3731,7 @@ Well, it—the business world of today—wants you to be a queer animal—a sort
 
 I have a lecture called “Dying on Third.” Do you know that thousands of young people—and I am not old—actually die on third in the game of Life because they think they have arrived at the home-plate and they are only on third! When you arrive, there is no more to learn. When you arrive you cease to grow. Do you know, *I never want to arrive!* I want to press forward. I want to stumble, if I must, and get up and rub my bruises—and dig right in again. How do you feel about it?
 
-But I have only so long I may allow myself and your patience may run out, too. Business today says to the young people who are preparing for business careers, “Keep fit.” The old order has passed away, little Comrades . Business takes into its circle the pick of American brains. Formerly the professions caught the brains, and the stores and factories and shops and offices caught the riff-raff. Not today. The competition is keen for the get-ahead young man or woman. I must be fit. My body must be kept clean. It must be free from organic weakness or poison. I must through daily exercise keep the blood plunging with its building power through my veins. I must be clear of eye. I must flee the things that pull down and destroy. I must keep my mind fit. It cannot let the thoughts dwell on the coarse and crude. I must keep it going by daily watching to its own course of action. My spirit must be fit. I must learn to meet people on their own plane. I must not be arrogant nor brazen nor intolerant. I must be glad in the success of my fellows. I must applaud everything worthy. I must back up everything that is good and clean.
+But I have only so long I may allow myself and your patience may run out, too. Business today says to the young people who are preparing for business careers, “Keep fit.” The old order has passed away, little Comrades. Business takes into its circle the pick of American brains. Formerly the professions caught the brains, and the stores and factories and shops and offices caught the riff-raff. Not today. The competition is keen for the get-ahead young man or woman. I must be fit. My body must be kept clean. It must be free from organic weakness or poison. I must through daily exercise keep the blood plunging with its building power through my veins. I must be clear of eye. I must flee the things that pull down and destroy. I must keep my mind fit. It cannot let the thoughts dwell on the coarse and crude. I must keep it going by daily watching to its own course of action. My spirit must be fit. I must learn to meet people on their own plane. I must not be arrogant nor brazen nor intolerant. I must be glad in the success of my fellows. I must applaud everything worthy. I must back up everything that is good and clean.
 
 When my queer little sermon is ended, please rise and sing *America.* For America is waiting for you—and you are going to fall in love with this wonder country that rewards all who render a real service.
 
@@ -4561,9 +4555,9 @@ GILSON, ROY ROLFE, journalist, clergyman; author of “*Katrina*,” “*The Flo
 
 GOETHALS, GEORGE W., army engineer; first civil governor of Panama Canal Zone; director of construction of the Panama Canal.
 
-GOLDEN, JOHN, producer of plays, journalist, song writer; author of “Turn to the Right,” “Lightnin’,” “Eighteen
+GOLDEN, JOHN, producer of plays, journalist, song writer; author of “Turn to the Right,” “Lightnin’,” “Eighteen,”
 
-,” “The First Year;” wrote the well-known song, “I Can Dance with Everybody but My Wife.”
+“The First Year;” wrote the well-known song, “I Can Dance with Everybody but My Wife.”
 
 GORE, THOMAS P., Senator from Oklahoma 1909–15, 1915–21.
 

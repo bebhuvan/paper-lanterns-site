@@ -19,19 +19,19 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 74,
+  "letters": 73,
   "notes": 863,
   "pages": 394,
   "dated_letters": 73
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 88.5,
+  "score": 78.5,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 30.0,
+    "score": 26.0,
     "out_of": 30.0
    },
    {
@@ -41,7 +41,7 @@
    },
    {
     "key": "notes",
-    "score": 17.5,
+    "score": 11.5,
     "out_of": 20.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 4,
+  "flagged": 10,
   "blockers": 0
  },
  "proof": {
@@ -184,7 +184,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 74,
+ "unperiodised_count": 73,
  "frontispiece": {},
  "title_page": {
   "page": 7,
@@ -194,27 +194,27 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-6-1617b.epub",
-   "bytes": 370211,
-   "sha256": "38e39af9f95b1a5e1e323bd1b2cf06fec8797d7b34a810de60c79d18970ad954"
+   "bytes": 460459,
+   "sha256": "f41e22da6065655667c2e2e6f5993da16305cbed736c5ac53fc6bd0875230dc7"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-6-1617b.md",
-   "bytes": 867911,
-   "sha256": "4646c29014732317a5ff5d38e3da05eeb706cc393c2c2b26aac628d66a3876bb"
+   "bytes": 867920,
+   "sha256": "61c9ec16afd1e107a1067823e8ad494f9b1c2c28ec07fd833f325b3fee442b56"
   },
   {
    "format": "tei",
    "file": "eic-letters-received-vol-6-1617b.tei.xml",
-   "bytes": 1065722,
-   "sha256": "8e8894ca7ab73c44b7b928353e3ad77165c72f7b1c5c340b1bfae73ec6c81e6c"
+   "bytes": 1067123,
+   "sha256": "ec92dc51134562906c4f07471d1ed3926029a38a177ac42f821e7507a2955497"
   }
  ],
  "scan_base": "https://archive.org/download/lettersreceivedb06east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T17:02:34Z",
-  "source_ast_sha256": "c7a4c9b668c4b1664c542a4da0934e1bb81f35268cd9585944f3d0a3bfe39650",
+  "compiled_at": "2026-11-22T08:49:00Z",
+  "source_ast_sha256": "e9fde1cb7d5d93029190bdeaa5aca076101f672dd3eb982a237b385bdc051aef",
   "hugo_renderer_version": "1.0.0"
  }
 }

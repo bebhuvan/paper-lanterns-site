@@ -18,14 +18,14 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 394,
+  "letters": 390,
   "notes": 208,
   "pages": 406,
   "dated_letters": 372
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 97.0,
+  "score": 95.5,
   "out_of": 100.0,
   "pillars": [
    {
@@ -40,7 +40,7 @@
    },
    {
     "key": "notes",
-    "score": 20.0,
+    "score": 18.5,
     "out_of": 20.0
    },
    {
@@ -54,7 +54,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 1,
+  "flagged": 2,
   "blockers": 0
  },
  "proof": {
@@ -267,7 +267,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 394,
+ "unperiodised_count": 390,
  "frontispiece": {
   "page": 8,
   "leaf": 7,
@@ -281,27 +281,27 @@
   {
    "format": "epub",
    "file": "bapu-mira-letters.epub",
-   "bytes": 233191,
-   "sha256": "b6be776535e54fe2260a7e450130821a8ebc71e0e7567b94b4900ac408ef8daf"
+   "bytes": 275382,
+   "sha256": "5a2fb1c55b05cacd6a92dab788ff7c4c64ba975bac93694fd83fbcea75b1318d"
   },
   {
    "format": "markdown",
    "file": "bapu-mira-letters.md",
-   "bytes": 499228,
-   "sha256": "7ec6d6743630230089b41400f45947d25dd15f5695087148bbee542f28a6f12b"
+   "bytes": 499159,
+   "sha256": "f88351e3e74bf4b5c54beba72bf9f989824a256af8524a40c0990597c82297a7"
   },
   {
    "format": "tei",
    "file": "bapu-mira-letters.tei.xml",
-   "bytes": 773860,
-   "sha256": "941b5cb462a90f420c32e6a9e78a0bf59315eb42fc699b5a75871a96971ed1c9"
+   "bytes": 773606,
+   "sha256": "31ca1bd714b08ecfa3b13e17047e9b71c3b2bfe9af1da25d86d38b6848b0a37b"
   }
  ],
  "scan_base": "https://archive.org/download/bapusletterstomi00gand/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-20T16:20:29Z",
-  "source_ast_sha256": "8848a8d135a1e42e146fd5c059a0a3b7afcdc67ed3b1874c348340d90c76a8e1",
+  "compiled_at": "2026-11-22T08:47:00Z",
+  "source_ast_sha256": "971cafb5589fe7fe228f405404bb11ad34f983d3df9b232e99c7545c7455f724",
   "hugo_renderer_version": "1.0.0"
  }
 }

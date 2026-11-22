@@ -18,7 +18,7 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 360,
+  "letters": 338,
   "notes": 72,
   "pages": 580,
   "dated_letters": 329
@@ -80,7 +80,7 @@
  ],
  "parts": [
   {
-   "label": "Frontmatter",
+   "label": "Front Matter",
    "kind": "frontmatter",
    "start": 1,
    "end": 30
@@ -173,7 +173,7 @@
   ],
   [
    1818,
-   11
+   10
   ],
   [
    1819,
@@ -193,7 +193,7 @@
   ],
   [
    1823,
-   6
+   5
   ],
   [
    1824,
@@ -277,11 +277,11 @@
   ],
   [
    1844,
-   7
+   8
   ],
   [
    1845,
-   7
+   6
   ],
   [
    1846,
@@ -365,7 +365,7 @@
   ],
   [
    1866,
-   1
+   3
   ],
   [
    1867,
@@ -493,37 +493,37 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 360,
+ "unperiodised_count": 338,
  "frontispiece": {},
  "title_page": {
-  "page": 1,
-  "leaf": 0
+  "page": 7,
+  "leaf": 6
  },
  "downloads": [
   {
    "format": "epub",
    "file": "nineteenth-century-letters-1919.epub",
-   "bytes": 523914,
-   "sha256": "75e6309dbbbc3182bb2264bf2fe8c02da0f0ba83632f0497e09182a5e535be42"
+   "bytes": 563244,
+   "sha256": "09bc82b2276abc864c97d66dee0bae62b98017802fa87f14485cf37f70697ea2"
   },
   {
    "format": "markdown",
    "file": "nineteenth-century-letters-1919.md",
-   "bytes": 1181190,
-   "sha256": "2273df0d6d7b24401e47538997e3f8a60c7d7afff158d0f4c3fea2862cd44221"
+   "bytes": 1180978,
+   "sha256": "199c97a3fb11581dfc2453cf4b08ee1b5cad632dfe5065b17313f1f98297b9a7"
   },
   {
    "format": "tei",
    "file": "nineteenth-century-letters-1919.tei.xml",
-   "bytes": 1420138,
-   "sha256": "dd88d34b6f80598e2d196b6ffcde1b9533dc31413c4c3c56ee8cc645902b0991"
+   "bytes": 1415991,
+   "sha256": "5770158ef1a52531ff24336d34628d2a6bec282db4599d19c99110102dfc1d20"
   }
  ],
  "scan_base": "https://archive.org/download/nineteenthcentur00reesrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:23:41Z",
-  "source_ast_sha256": "1d84cfd9ce5adc574507ffec8ff79a7c70f6efed54d79b6cc923c374346073ae",
+  "compiled_at": "2026-11-22T08:56:04Z",
+  "source_ast_sha256": "2747be003d0fd73ed7a4bc59dcf147fca7e81c8b90fe884611fd78e457593072",
   "hugo_renderer_version": "1.0.0"
  }
 }

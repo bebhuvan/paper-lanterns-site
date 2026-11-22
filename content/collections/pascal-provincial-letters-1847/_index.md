@@ -20,10 +20,10 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 25,
+  "letters": 23,
   "notes": 156,
   "pages": 570,
-  "dated_letters": 18
+  "dated_letters": 17
  },
  "provenance_tier": "community",
  "quality": {
@@ -131,7 +131,7 @@
  "year_counts": [
   [
    1656,
-   14
+   13
   ],
   [
    1657,
@@ -139,41 +139,41 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 25,
+ "unperiodised_count": 23,
  "frontispiece": {
   "page": 8,
   "leaf": 7,
   "caption": "PASCAL."
  },
  "title_page": {
-  "page": 8,
-  "leaf": 7
+  "page": 9,
+  "leaf": 8
  },
  "downloads": [
   {
    "format": "epub",
    "file": "pascal-provincial-letters-1847.epub",
-   "bytes": 384148,
-   "sha256": "80e3ffa4378b6e3007c855ccdd6857ad7311e4c967698cf300e2527d64cce612"
+   "bytes": 427304,
+   "sha256": "04726ee4743585443f289dcc4175584b2e96c4b4ae5a8b9bf60135a641bef1ea"
   },
   {
    "format": "markdown",
    "file": "pascal-provincial-letters-1847.md",
-   "bytes": 949195,
-   "sha256": "9675f2d99bdb2a9439bf8c6bb80fee1580e4a4c410e3e6a56e1d780cc8e53985"
+   "bytes": 948521,
+   "sha256": "59b1831e73a779f1ccc4b95fc71608f363228497858b2d17c44685e085995bd1"
   },
   {
    "format": "tei",
    "file": "pascal-provincial-letters-1847.tei.xml",
-   "bytes": 1029970,
-   "sha256": "057814a8fcb57d63d35c0a78aef81ab9466edcc83388906ed1aa0fad128a7544"
+   "bytes": 1028534,
+   "sha256": "d4cb36685e5c0b0bc5075ac012587e26c7c04edde919f58227f155a8ab4d6519"
   }
  ],
  "scan_base": "https://archive.org/download/provincialletter00pasc_1/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T17:02:57Z",
-  "source_ast_sha256": "4aefbd1e275a5c67ba28d4f57a925c9e3ee13f26bb585c34fd9d55c017ba0b36",
+  "compiled_at": "2026-11-22T08:52:28Z",
+  "source_ast_sha256": "26437e2bf04b544acaff1521073bd66aeeb7459b9990642f68410692db874702",
   "hugo_renderer_version": "1.0.0"
  }
 }

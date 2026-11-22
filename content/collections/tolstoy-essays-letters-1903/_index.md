@@ -18,7 +18,7 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 13,
+  "letters": 12,
   "notes": 100,
   "pages": 388,
   "dated_letters": 11
@@ -249,7 +249,7 @@
    "label": "XXIII. What is Religion, and wherein lies its Essence?",
    "kind": "chapter",
    "start": 300,
-   "end": 350
+   "end": 349
   },
   {
    "label": "XXIV. Letter on Education",
@@ -317,7 +317,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 13,
+ "unperiodised_count": 12,
  "frontispiece": {},
  "title_page": {
   "page": 7,
@@ -327,27 +327,27 @@
   {
    "format": "epub",
    "file": "tolstoy-essays-letters-1903.epub",
-   "bytes": 319700,
-   "sha256": "b68032e1e6a24900154560ef99160b6e9e9565299a4e99d915019121b8f07445"
+   "bytes": 357500,
+   "sha256": "854dfc69f7d88915b7a57ba820a6a91f72d377eeac159925b157cb3e8a68edb6"
   },
   {
    "format": "markdown",
    "file": "tolstoy-essays-letters-1903.md",
-   "bytes": 736039,
-   "sha256": "3288d85da299313e04f6d9a074f74985d760679a14d2b67b7007203b4d8b42b1"
+   "bytes": 736979,
+   "sha256": "0e8b5537b7863ce8fc236d7f9127a2597b2d92b15c0ba476fa10ac3e1f7002b0"
   },
   {
    "format": "tei",
    "file": "tolstoy-essays-letters-1903.tei.xml",
-   "bytes": 804709,
-   "sha256": "2fcccf33dd839d452744757e2b397e1977e3d1bce209521eec95b12087e9a1a5"
+   "bytes": 805170,
+   "sha256": "609dd8c9dce7d19281b96350fdfff1267b3c688254cd86b5bf53de42197781e1"
   }
  ],
  "scan_base": "https://archive.org/download/essaysletters03tols/page/",
  "provenance": {
   "active_run_id": "canonical-20261116-132507",
-  "compiled_at": "2026-11-20T16:24:50Z",
-  "source_ast_sha256": "4e29c83d3a2c0a86c99e7ab6da6367247ee518a7a721329d52bdc00d49006c16",
+  "compiled_at": "2026-11-22T08:58:48Z",
+  "source_ast_sha256": "5865ec51aadc75b11b9bd5264da22ccfcabd05ce89965bceef75759b4f8459ff",
   "hugo_renderer_version": "1.0.0"
  }
 }

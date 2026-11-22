@@ -7,18 +7,13 @@
 
 ## Frontmatter
 
-### Letters of
-Fyodor Michailovitch
-Dostoevsky
-to his Family and Friends
+### Letters of Fyodor Michailovitch Dostoevsky to his Family and Friends
 
 *[Illustration, p. 6]*
 
 FYODOR MICHAILOVITCH DOSTOEVSKY, PETERSBURG, 1879.
 
-### Letters of
-Fyodor Michailovitch
-Dostoevsky
+### Letters of Fyodor Michailovitch Dostoevsky
 
 ### to his Family and Friends
 
@@ -273,8 +268,7 @@ originals in the Moscow Museum.*
 DOSTOEVSKY'S BIRTHPLACE.  
 (THE WORKHOUSE HOSPITAL AT MOSCOW.)
 
-### CHRONOLOGICAL TABLE OF
-DOSTOEVSKY'S LIFE
+### CHRONOLOGICAL TABLE OF DOSTOEVSKY'S LIFE
 
 ### <span class="small-caps">After</span> V. TCHECHICHIN
 
@@ -400,31 +394,31 @@ June 10: Death of his brother Michael.
 
 December 25: Death of his friend and collaborator, Apollon Grigoryev.
 
-- 1865. "An Unusual Occurrence" (*Epoch,* No. 2).
-At the end of July, goes abroad. Begins the novel "Rodion Raskolnikov" ("Crime and Punishment").
-Autumn in Wiesbaden.
-October: Visit to Baron Vrangel at Copenhagen.
-November: Return to Russia. Sale of his author's rights to the publisher Stellovsky.
-- 1865-66. First Collected Edition, in three volumes. Petersburg: Stellovsky.
-Publication of "Rodion Raskolnikov" ("Crime and Punishment") in the *Roussky Viestnik* (Nos. 1-2, 4, 6, 8, 11-12) and in book form.
-Summer at Lublin, near Moscow.
-End of the year, at work on "The Gambler." Intercourse with the stenographer Anna Grigorevna Snitkin.
+- 1865. "An Unusual Occurrence" (*Epoch,* No. 2).  
+  At the end of July, goes abroad. Begins the novel "Rodion Raskolnikov" ("Crime and Punishment").  
+  Autumn in Wiesbaden.  
+  October: Visit to Baron Vrangel at Copenhagen.  
+  November: Return to Russia. Sale of his author's rights to the publisher Stellovsky.
+- 1865-66. First Collected Edition, in three volumes. Petersburg: Stellovsky.  
+  Publication of "Rodion Raskolnikov" ("Crime and Punishment") in the *Roussky Viestnik* (Nos. 1-2, 4, 6, 8, 11-12) and in book form.  
+  Summer at Lublin, near Moscow.  
+  End of the year, at work on "The Gambler." Intercourse with the stenographer Anna Grigorevna Snitkin.
 - 1867. February 15: Marriage to A. G. Snitkin.
 - 1867-71. Life abroad.
-- 1867. April 14: Goes abroad. Two months in Dresden. Article on Bielinsky (not preserved).
-August 16: Letter to Apollon Maikov on the quarrel with Turgenev, and Dostoevsky's losses at roulette.
-Plan for the "Diary of a Writer." (Letter to his niece of September 29.)
-At the end of the year, begins "The Idiot."
-Third edition of "The House of the Dead"; second and third editions of "Crime and Punishment."
-- 1868. Publication of "The Idiot" in the *Roussky Viestnik* (Nos. 1, 2, 4-12) and in book form.
-Summer in Switzerland and Italy.
-Idea of a novel on Atheism (prototype of "The Brothers Karamazov"). Letters about this to Maikov and his niece.
+- 1867. April 14: Goes abroad. Two months in Dresden. Article on Bielinsky (not preserved).  
+  August 16: Letter to Apollon Maikov on the quarrel with Turgenev, and Dostoevsky's losses at roulette.  
+  Plan for the "Diary of a Writer." (Letter to his niece of September 29.)  
+  At the end of the year, begins "The Idiot."  
+  Third edition of "The House of the Dead"; second and third editions of "Crime and Punishment."
+- 1868. Publication of "The Idiot" in the *Roussky Viestnik* (Nos. 1, 2, 4-12) and in book form.  
+  Summer in Switzerland and Italy.  
+  Idea of a novel on Atheism (prototype of "The Brothers Karamazov"). Letters about this to Maikov and his niece.
 - 1869. Beginning of the year, in Florence. Connection with the new journal *Sarya,* and lively interest in Danilevsky's essay on "Russia and Europe."
 - 1870. "The Permanent Husband" (*Sarya,* Nos. 1, 2). Beginning of "The Possessed." Fourth edition of "Crime and Punishment."
 - 1871-72. Publication of "The Possessed" (*Roussky Viestnik,* 1871, Nos. 1-2, 4, 7, 9-12; and 1872, Nos. 11-12).
 - 1871. July 8: Return from abroad to Petersburg.
-- 1872. Project of a trip to the East.
-"The Permanent Husband" in book form.
+- 1872. Project of a trip to the East.  
+  "The Permanent Husband" in book form.
 - 1873. Joins editorial staff of *Grajdanin (The Citizen)*, and publishes the “Diary of a Writer” (first sixteen chapters) and his “Survey of Foreign Occurrences.” “The Possessed” in book form.
 - 1874. At the end of March, arrest for infraction of the Censorship regulations. Autumn and winter, at Staraya-Roussa. Second edition of “The Idiot.” Beginning of the novel, “The Hobbledehoy.”
 - 1875. “The Hobbledehoy” (*Otetschestvennia Zapiski*, Nos. 1, 2, 4, 5, 9, 11, 12), and in book form. Fourth edition of “The House of the Dead.” Summer at Ems.
@@ -455,7 +449,7 @@ Idea of a novel on Atheism (prototype of "The Brothers Karamazov"). Letters abou
 
 Can you really think that your son is asking too much when he applies to you for an allowance ? God be my witness that not for self-interest, nor even in actual extremest need, could I ever wish to despoil you in any way. How bitter it is to have to ask my flesh and blood a favour which so heavily oppresses them ! I have my own head, my own hands. Were I but free and independent, I should never have asked you for so much as a kopeck—I should have inured myself to the bitterest poverty. I should have been ashamed to write from my very death-bed, asking for support. As things are, I can only console you with promises for the future ; however, that future is no longer a distant one, and time will convince you of its reality.
 
-At present I beg you, dearest Papa, to reflect that in the literal sense of the word—I *serve.* I must, whether I wish it or not, conform to the obligations of my immediate environment. Why should I set up as an exception ? Such exceptional attitudes, moreover, are often attended by the greatest unpleasantnesses . You will readily understand this, dear Papa. You have mixed enough with men to do that. And therefore consider, please, the following points : Life in camp, for every student of the Military Academy, demands at least forty roubles. (I write this, because I am addressing my father.) In that sum are not included such necessities as tea, sugar, etc. Yet all those things I must have as well— assuredly not only as comforts, but as sheer indispensables. When one has to sleep in a canvas tent during damp and rain, or when, in such weather, one returns weary and chilled from practice, one may easily fall ill for want of tea, as I have frequently experienced in former years at these times. But I want to consider your difficulties, and so I will give up tea altogether, and ask you only for the barest necessary of all—sixteen roubles for two pairs of ordinary boots. Again : I *must* keep my things, such as books, footgear, writing materials, paper, etc., somewhere or other. I need for that a trunk, for in camp there is no kind of shelter but the tents. Our beds are bundles of straw covered with sheets. Now I ask you where, without a trunk, am I to keep my things ? You must know that the Treasury does not care in the least whether I have one or not. For the exams will soon be over, and then I shall need no books ; and as it is supposed to look after my uniform, I ought not to require boots, etc. But how can I pass the time without books ? and the boots with which we are supplied are so bad that three pairs scarcely see one through six months, even in the town.
+At present I beg you, dearest Papa, to reflect that in the literal sense of the word—I *serve.* I must, whether I wish it or not, conform to the obligations of my immediate environment. Why should I set up as an exception ? Such exceptional attitudes, moreover, are often attended by the greatest unpleasantnesses. You will readily understand this, dear Papa. You have mixed enough with men to do that. And therefore consider, please, the following points : Life in camp, for every student of the Military Academy, demands at least forty roubles. (I write this, because I am addressing my father.) In that sum are not included such necessities as tea, sugar, etc. Yet all those things I must have as well— assuredly not only as comforts, but as sheer indispensables. When one has to sleep in a canvas tent during damp and rain, or when, in such weather, one returns weary and chilled from practice, one may easily fall ill for want of tea, as I have frequently experienced in former years at these times. But I want to consider your difficulties, and so I will give up tea altogether, and ask you only for the barest necessary of all—sixteen roubles for two pairs of ordinary boots. Again : I *must* keep my things, such as books, footgear, writing materials, paper, etc., somewhere or other. I need for that a trunk, for in camp there is no kind of shelter but the tents. Our beds are bundles of straw covered with sheets. Now I ask you where, without a trunk, am I to keep my things ? You must know that the Treasury does not care in the least whether I have one or not. For the exams will soon be over, and then I shall need no books ; and as it is supposed to look after my uniform, I ought not to require boots, etc. But how can I pass the time without books ? and the boots with which we are supplied are so bad that three pairs scarcely see one through six months, even in the town.
 
 [Here follows a further catalogue of necessary purchases.]
 
@@ -463,8 +457,7 @@ From your last remittance I have laid by fifteen roubles. So you see, dear Papa,
 
 ### Letter 2: F. Dostoevsky → his Brother Michael
 
-### II
-*To his Brother Michael*
+### II *To his Brother Michael*
 
 <span class="small-caps">Petersburg</span>,  
 *August 9*, 1838.
@@ -489,8 +482,7 @@ I have a new plan: to go mad. That's the way: for people to lose their heads, an
 
 ### Letter 3: F. Dostoevsky → his Brother Michael
 
-### III
-*To his Brother Michael*
+### III *To his Brother Michael*
 
 <span class="small-caps">Petersburg,</span>  
 *October* 31, 1838.
@@ -525,8 +517,7 @@ I pity our poor father ! He has such a remarkable character. What trouble he has
 
 ### Letter 4: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### IV
-*To his Brother Michael*
+### IV *To his Brother Michael*
 
 <span class="small-caps">Petersburg</span>,  
 *January* 1, 1840.
@@ -575,9 +566,7 @@ purest poetry, I don't know what I shall think of
 you. Why, there's the force of a Shakespeare in it,  
 if the medium *is* plaster of Paris instead of marble.
 
-Now about Corneille. Listen again, brother! I
-
-really don't know how to talk to you ; perhaps, like Ivan Nikiforovitch,[^fn-p0039-1] I ought to eat a substantial portion of herbs first. I cannot believe that you've read him at all ; that's why you talk such nonsense. Why, don't you know that Corneille, with his titanic figures and his romantic spirit, nearly approaches Shakespeare ? You miserable wretch ! Do you happen to know that it was not until fifty years later than the inept miserable Jodelle (author of that disgusting “ Cléopâtre ”) and Ronsard, who was a forewarning of our own Trediakovsky, that Corneille made his appearance, and that he was almost a contemporary of the insipid poetaster Malherbe ? How can you demand form from him ? It was as much as one could expect that he should borrow his form from Seneca. Have you read his “ Cinna ” ? What, before the divine figure of Octavius, becomes of Karl Moor, of Fiesco, of Tell, of Don Carlos ? That work would have done honour to Shakespeare. You wretch ! If you haven't read it yet, read now at least the dialogue between Augustus and Cinna, where he forgives him for his treachery. Good Heavens ! You will see that only offended seraphs could so speak. Particularly the passage where Augustus says : “ *Soyons amis, Cinna.*” Have you read his “ Horace ” ? Decidedly only in Homer can you find such figures. Old Horace is another Diomedes ; young Horace an Ajax, son of Telamon, but with the spirit of an Achilles ; Curias is Patrocles and Achilles in one person ; he is the very consummation of conflicting love and duty. It's all so lofty ! Have you read “ Le Cid ” ? Read it, unhappy man, and fall in the dust before Corneille. You have blasphemed him. Anyhow, read him. What does the romantic stand for, if it doesn't reach its highest development in the " Cid "? How wonderful are the figures of Don Rodrigo, of his son, and of that son's beloved—and then, the end !
+Now about Corneille. Listen again, brother! I really don't know how to talk to you ; perhaps, like Ivan Nikiforovitch,[^fn-p0039-1] I ought to eat a substantial portion of herbs first. I cannot believe that you've read him at all ; that's why you talk such nonsense. Why, don't you know that Corneille, with his titanic figures and his romantic spirit, nearly approaches Shakespeare ? You miserable wretch ! Do you happen to know that it was not until fifty years later than the inept miserable Jodelle (author of that disgusting “ Cléopâtre ”) and Ronsard, who was a forewarning of our own Trediakovsky, that Corneille made his appearance, and that he was almost a contemporary of the insipid poetaster Malherbe ? How can you demand form from him ? It was as much as one could expect that he should borrow his form from Seneca. Have you read his “ Cinna ” ? What, before the divine figure of Octavius, becomes of Karl Moor, of Fiesco, of Tell, of Don Carlos ? That work would have done honour to Shakespeare. You wretch ! If you haven't read it yet, read now at least the dialogue between Augustus and Cinna, where he forgives him for his treachery. Good Heavens ! You will see that only offended seraphs could so speak. Particularly the passage where Augustus says : “ *Soyons amis, Cinna.*” Have you read his “ Horace ” ? Decidedly only in Homer can you find such figures. Old Horace is another Diomedes ; young Horace an Ajax, son of Telamon, but with the spirit of an Achilles ; Curias is Patrocles and Achilles in one person ; he is the very consummation of conflicting love and duty. It's all so lofty ! Have you read “ Le Cid ” ? Read it, unhappy man, and fall in the dust before Corneille. You have blasphemed him. Anyhow, read him. What does the romantic stand for, if it doesn't reach its highest development in the " Cid "? How wonderful are the figures of Don Rodrigo, of his son, and of that son's beloved—and then, the end !
 
 Please don't be offended with me for my insulting expressions ; don't bear me ill-will, as Ivan Ivanovitch Pererepenko did to Gogol.
 
@@ -635,8 +624,7 @@ In the *Invalide* lately I read in the feuilleton about the German writers who d
 
 ### Letter 7: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### VII
-*To his Brother Michael*
+### VII *To his Brother Michael*
 
 *May* 4, 1845.
 
@@ -798,7 +786,7 @@ Now look, brother—from the whole business I have deduced a sage rule. First, t
 
 I must once more beg you to forgive me for not having kept my word, and written by the next post. But through all the meantime I have been so depressed in spirit that I simply *could not* write. I have thought of you with so much pain—your fate is truly grievous, dear brother! With your feeble
 
-*[Illustration, p. 23]*
+*[Illustration, p. 67]*
 
 <span class="small-caps">Michael Dostoevsky.</span>
 
@@ -812,8 +800,7 @@ I wish so much to see you again. Sometimes a nameless grief possesses me. I can'
 
 ### Letter 16: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### XVI
-*To his Brother Michael*
+### XVI *To his Brother Michael*
 
 [Postscript to a longer business letter, early in the year 1847.]
 
@@ -857,8 +844,7 @@ You most tremendously astonish me when you write that you believe they know noth
 
 ### Letter 19: F. Dostoevsky → his Brother Michael
 
-### XIX
-*To his Brother Michael*
+### XIX *To his Brother Michael*
 
 [<span class="small-caps">From the Fortress</span>],  
 *September* 14, 1849.
@@ -986,7 +972,7 @@ Yegorovitch,[^fn-p0100-1] who was to have taken it to the post, quite suddenly l
 
 Here we hourly expect the Governor-General; he may perhaps be already arrived. It is said that he will spend about five days here. But enough of that. How did you arrive at Kusnezk? I hope and pray that nothing happened to you on the way. You write that you are depressed and even ill. So I am most anxious about you. The mere move caused you such trouble and such unavoidable discomforts, and now there's this illness added! How are you to bear it all? I can think of nothing but you. You know how apprehensive I am, so you can picture my anxiety. My God, how little you—*you*, who might be an ornament to any society—deserve this fate with all its petty cares and contrarieties! Accursed destiny! I await your letter with impatience. If only it would come by this post! I went several times to find out if it had; but Alexander Yegorovitch is not back yet. You ask me how I pass the time, and how I arrange my day without you. For a fortnight I have not known what to do with myself, so sad am I. If you only knew how orphaned I now feel! It is just like the time when they arrested me in 1849, put me in prison, and tore me from all that I loved and prized. So very much
 
-*[Illustration, p. 57]*
+*[Illustration, p. 101]*
 
 <span class="small-caps">Dostoevsky's Mother.</span>
 
@@ -1062,8 +1048,7 @@ Farewell, my dear friend. Excuse the incoherence of this letter. One never can s
 
 ### Letter 26: Fyodor Dostoevsky → General E. I. Totleben
 
-### XXVI
-*To General E. I. Totleben*[^fn-p0118-1]
+### XXVI *To General E. I. Totleben*[^fn-p0118-1]
 
 <span class="small-caps">Semipalatinsk</span>,  
 *March* 24, 1856.
@@ -1136,7 +1121,7 @@ I am weary of waiting for my leave.
 
 You always write me such tidings as, for example, that Gontshazov has got 7,000 roubles for his novel, and that Katkov (from whom I now demand 100 roubles a sheet) has offered Turgenev 4,000 roubles for his “House of Gentlefolk”—which means 400 roubles a sheet. (I have read Turgenev's novel at last. It is extraordinarily good.) My friend ! I know very well that I don't write as well as Turgenev ; still the difference is really not so great, and I hope in time to write quite as well as he does. Why do *I*, then, in my need, allow myself to get only 100 roubles a sheet, while Turgenev, who has 2,000 serfs, gets 400 roubles ? I am poor, and so must write
 
-*[Illustration, p. 87]*
+*[Illustration, p. 131]*
 
 <span class="small-caps">Dostoevsky at Semipalatinsk</span>  
 <span class="small-caps">(1858), in Ensign's Uniform.</span>
@@ -1181,9 +1166,7 @@ We are thinking of starting a serious literary enterprise. We are all very busy 
 
 You have perhaps learnt from my letter to Pasha[^fn-p0136-2] that I arrived happy and well in Paris, and have settled down here, though I hardly think I shall stay long. I don't like Paris, though it's frightfully grand. There's a lot to see here, but when one undertakes the seeing, terrible boredom ensues. It would have been very different if I had come here as a student, to learn something: very different, for I should have had plenty to do, and should have *had* to see and hear a great deal; while for a tourist, who is merely observing customs, the French are disgusting, and the town as such is wholly unknown to me. The best things here are the wine and the fruit: the only things that in the long run don't pall on one. Of my private affairs I won't write you anything. "Letters are nonsense; only apothecaries write letters."[^fn-p0136-3] I will write only of a certain business matter. I have in fact a request to make of you, my dear Varvara Dmitryevna. You must know that on the way I stopped four days at Wiesbaden, and of course played roulette. And what do you think? I did not lose, but won; not, certainly, as much as I could have wished, no hundred thousand, but still a nice little sum.
 
-N.B.: Tell this to no one, dear Varvara Dmitryevna. You *can't*, it is true, tell it to anyone, for you don't meet anyone; but I really mean Pasha; he is still a little goose, and would perhaps imagine that one can make a living out of play. He took it into his head lately to be a shop-boy, and earn money that way: “and so I needn't learn anything,” he informed me. “*And so*” he needn't know that Papa frequents gaming-halls. Therefore tell him not a word about it. During those four days I watched the gamblers closely. Several hundred persons took part in the play, and only two knew really how to gamble—my word of honour! They were a Frenchwoman and an English Lord; *they* knew how, and lost nothing, indeed they nearly broke the bank. But please don't think that, in my joy at having won and not lost, I am swaggering, and imagining that *I* know the secret of play. I do know the secret, and it is extremely stupid and simple: it consists in controlling one's-self the whole time, and never getting excited at any phase of the game. That is all; in that way one can't possibly lose and *must* win. The whole point is that the man who knows this secret should have the power and capacity to turn it rightly to account. One may be ever so intelligent, one may have a character of pure iron, and yet one may come to grief. Even that philosopher Strachov would lose. Blessed therefore are they who do not gamble, who detest roulette and look upon it as the height of folly.
-
-But to the point. I have, dear Varvara Dmitryevna, won 5,000 francs; or rather, I *had* won, at first, 10,400 francs, taken the money home, put it in my wallet, and resolved to depart next day and not go into the gaming-rooms again. But I did not hold out, and played away half the money again. So only 5,000 francs are left. A part of these winnings I have reserved to myself in case of accidents, and the rest I am sending to Petersburg: half to my brother, that he may put it by till my return, and the other half to you, to give or send to Maria Dmitryevna.
+N.B.: Tell this to no one, dear Varvara Dmitryevna. You *can't*, it is true, tell it to anyone, for you don't meet anyone; but I really mean Pasha; he is still a little goose, and would perhaps imagine that one can make a living out of play. He took it into his head lately to be a shop-boy, and earn money that way: “and so I needn't learn anything,” he informed me. “*And so*” he needn't know that Papa frequents gaming-halls. Therefore tell him not a word about it. During those four days I watched the gamblers closely. Several hundred persons took part in the play, and only two knew really how to gamble—my word of honour! They were a Frenchwoman and an English Lord; *they* knew how, and lost nothing, indeed they nearly broke the bank. But please don't think that, in my joy at having won and not lost, I am swaggering, and imagining that *I* know the secret of play. I do know the secret, and it is extremely stupid and simple: it consists in controlling one's-self the whole time, and never getting excited at any phase of the game. That is all; in that way one can't possibly lose and *must* win. The whole point is that the man who knows this secret should have the power and capacity to turn it rightly to account. One may be ever so intelligent, one may have a character of pure iron, and yet one may come to grief. Even that philosopher Strachov would lose. Blessed therefore are they who do not gamble, who detest roulette and look upon it as the height of folly. But to the point. I have, dear Varvara Dmitryevna, won 5,000 francs; or rather, I *had* won, at first, 10,400 francs, taken the money home, put it in my wallet, and resolved to depart next day and not go into the gaming-rooms again. But I did not hold out, and played away half the money again. So only 5,000 francs are left. A part of these winnings I have reserved to myself in case of accidents, and the rest I am sending to Petersburg: half to my brother, that he may put it by till my return, and the other half to you, to give or send to Maria Dmitryevna.
 
 [He then discusses how the money may best be sent from abroad, and changed in Russia.]
 
@@ -1235,8 +1218,7 @@ N.B. I have not had any attacks up to the present. I drink schnaps. How does it 
 
 ### Letter 34: Apollon Nikolayevitch Maikov
 
-### XXXIV
-*To Apollon Nikolayevitch Maikov*
+### XXXIV *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Geneva,</span>  
 *August* 16 [28], 1867.
@@ -1263,11 +1245,11 @@ The devil played his games with me at the beginning; in three days I won, unusua
 
 Now to end my Baden adventures : we agonized in that hell for seven weeks. Directly after my arrival there, I met Gontscharov at the railway-station. At first Ivan Alexandrovitch was cautious before me. That State-Councillor—or State-Councillor that ought-to-be—was also occupied in gambling. But when he realized that it could not be kept a secret, and as I myself was playing with gross publicity, he soon ceased to pretend to me. He played with feverish excitement (though only for small stakes). He played during the whole fortnight that he spent in Baden, and lost, I think, quite a good deal. But God give this good fellow health ; when I had lost everything (he had, however, seen me with large sums in my hands), he gave me, at my request, 60 francs. Certainly he lectured me terribly at the same time, because I had lost all, and not only half, like him !
 
-Gontscharov talked incessantly about Turgenev ; I kept putting off my visit to him—still, eventually I had to call. I went about noon, and found him at breakfast. I'll tell you frankly—I never really liked that man. The worst of it is that since 1857,[^fn-p0151-1] at Wiesbaden, I’ve owed him 50 dollars (which even to-day I haven’t yet paid back !). I can’t stand the aristocratic and pharisaical sort of way he embraces one, and offers his cheek to be kissed. He puts on monstrous airs ; but my bitterest complaint against him is his book “ Smoke.” He told me himself that the leading idea, the point at issue, in that book, is this : “ If Russia were destroyed by an earthquake and vanished from the globe, it would mean no loss to humanity—it would not even be noticed.” He declared to me that that was his fundamental view of Russia. I found him in irritable mood ; it was on account of the failure of “ Smoke.” I must tell you that at the time the full details of that failure were unknown to me. I *had* heard by letter of Strachov’s article in the *O. Z.*, but I didn’t know that they had torn him to pieces in all the other papers as well, and that in Moscow, at a club, I believe, people had collected signatures to a protest against “ Smoke.” He told me that himself. Frankly, I never could have imagined that anyone could so naïvely and clumsily display all the wounds in his vanity, as Turgenev did that day ; and these people go about boasting that they are atheists. He told me that he was an uncompromising atheist. My God ! It is to Deism that we owe the Saviour—that is to say, the conception of a man so noble that one cannot grasp it without a sense of awe—a conception of which one cannot doubt that it represents the undying ideal of mankind. And what do we owe to these gentry— Turgenev, Herzen, Utin, Tchernychevsky ? In place of that loftiest divine beauty on which they spit, we behold in them such ugly vanity, such unashamed susceptibility, such ludicrous arrogance, that it is simply impossible to guess what it is that they hope for, and who shall take them as guides. He frightfully abused Russia and the Russians. But I have noticed this: all those Liberals and Progressives who derive chiefly from Bielinsky's school, find their pleasure and satisfaction in abusing Russia. The difference is that the adherents of Tchernychevsky merely abuse, and in so many words desire that Russia should disappear from the face of the earth (*that*, first of all!). But the others declare, in the same breath, that *they love Russia.* And yet they hate everything that is native to the soil, they delight in caricaturing it, and were one to oppose them with some fact that they could not explain away or caricature,—any fact with which they were obliged to reckon—they would, I believe, be profoundly unhappy, annoyed, even distraught. And I've noticed that Turgenev—and for that matter all who live long abroad—have no conception of the true facts (though they do read the newspapers), and have so utterly lost all affection and understanding for Russia that even those quite ordinary matters which in Russia the very Nihilists no longer deny, but only as it were caricature after their manner—*these* fellows cannot so much as grasp. Amongst other things he told me that we are bound to crawl in the dust before the Germans, that there is but one universal and irrefutable way—that of civilization, and that all attempts to create an independent Russian culture are but folly and pigheadedness. He said that he was writing a long article against the Russophils and Slavophils . I advised him to order a telescope from Paris for his better convenience. “ What do you mean ?” he asked. “ The distance is somewhat great,” I replied ; “ direct the telescope on Russia, and then you will be able to observe us ; otherwise you can’t really see anything at all.” He flew into a rage. When I saw him so angry, I said with well-simulated naïveté : “ Really I should never have supposed that all the articles derogatory to your new novel could have discomposed you to this extent ; by God, the thing’s not worth getting so angry about. Come, spit upon it all !” “ I’m not in the least discomposed. What are you thinking of ?” he answered, getting red.
+Gontscharov talked incessantly about Turgenev ; I kept putting off my visit to him—still, eventually I had to call. I went about noon, and found him at breakfast. I'll tell you frankly—I never really liked that man. The worst of it is that since 1857,[^fn-p0151-1] at Wiesbaden, I’ve owed him 50 dollars (which even to-day I haven’t yet paid back !). I can’t stand the aristocratic and pharisaical sort of way he embraces one, and offers his cheek to be kissed. He puts on monstrous airs ; but my bitterest complaint against him is his book “ Smoke.” He told me himself that the leading idea, the point at issue, in that book, is this : “ If Russia were destroyed by an earthquake and vanished from the globe, it would mean no loss to humanity—it would not even be noticed.” He declared to me that that was his fundamental view of Russia. I found him in irritable mood ; it was on account of the failure of “ Smoke.” I must tell you that at the time the full details of that failure were unknown to me. I *had* heard by letter of Strachov’s article in the *O. Z.*, but I didn’t know that they had torn him to pieces in all the other papers as well, and that in Moscow, at a club, I believe, people had collected signatures to a protest against “ Smoke.” He told me that himself. Frankly, I never could have imagined that anyone could so naïvely and clumsily display all the wounds in his vanity, as Turgenev did that day ; and these people go about boasting that they are atheists. He told me that he was an uncompromising atheist. My God ! It is to Deism that we owe the Saviour—that is to say, the conception of a man so noble that one cannot grasp it without a sense of awe—a conception of which one cannot doubt that it represents the undying ideal of mankind. And what do we owe to these gentry— Turgenev, Herzen, Utin, Tchernychevsky ? In place of that loftiest divine beauty on which they spit, we behold in them such ugly vanity, such unashamed susceptibility, such ludicrous arrogance, that it is simply impossible to guess what it is that they hope for, and who shall take them as guides. He frightfully abused Russia and the Russians. But I have noticed this: all those Liberals and Progressives who derive chiefly from Bielinsky's school, find their pleasure and satisfaction in abusing Russia. The difference is that the adherents of Tchernychevsky merely abuse, and in so many words desire that Russia should disappear from the face of the earth (*that*, first of all!). But the others declare, in the same breath, that *they love Russia.* And yet they hate everything that is native to the soil, they delight in caricaturing it, and were one to oppose them with some fact that they could not explain away or caricature,—any fact with which they were obliged to reckon—they would, I believe, be profoundly unhappy, annoyed, even distraught. And I've noticed that Turgenev—and for that matter all who live long abroad—have no conception of the true facts (though they do read the newspapers), and have so utterly lost all affection and understanding for Russia that even those quite ordinary matters which in Russia the very Nihilists no longer deny, but only as it were caricature after their manner—*these* fellows cannot so much as grasp. Amongst other things he told me that we are bound to crawl in the dust before the Germans, that there is but one universal and irrefutable way—that of civilization, and that all attempts to create an independent Russian culture are but folly and pigheadedness. He said that he was writing a long article against the Russophils and Slavophils. I advised him to order a telescope from Paris for his better convenience. “ What do you mean ?” he asked. “ The distance is somewhat great,” I replied ; “ direct the telescope on Russia, and then you will be able to observe us ; otherwise you can’t really see anything at all.” He flew into a rage. When I saw him so angry, I said with well-simulated naïveté : “ Really I should never have supposed that all the articles derogatory to your new novel could have discomposed you to this extent ; by God, the thing’s not worth getting so angry about. Come, spit upon it all !” “ I’m not in the least discomposed. What are you thinking of ?” he answered, getting red.
 
 I interrupted him, and turned the talk to personal and domestic matters. Before going away, I brought forth, as if quite casually and without any particular object, all the hatred that these three months have accumulated in me against the Germans. “ Do you know what swindlers and rogues they are here ? Verily, the common people are much more evil and dishonest here than they are with us ; and that they are stupider there can be no doubt. You are always talking of civilization ; with what has your ‘ civilization ’ endowed the Germans, and wherein do they surpass us ?” He turned pale (it is no exaggeration), and said : “ In speaking thus, you insult me personally. You know quite well that I have definitely settled here, that I consider myself a German and not a Russian, and am proud of it.” I answered : “ Although I have read your ‘ Smoke,’ and have just talked with you for a whole hour, I could never have imagined that you would say such a thing. Forgive me, therefore, if I *have* insulted you.” Then we took leave of one another very politely, and I promised myself that I would never again cross Turgenev's threshold. The next day, Turgenev came at exactly ten o'clock in the morning to my abode, and left his card with the landlady. But as I had told him the day before that I never saw anyone till noon, and that we usually slept till eleven, I naturally took his ten-o'clock call as a hint that he doesn't wish to see any more of me. During the whole seven weeks, I saw him only once more, at the railway-station. We looked at one another, but no greeting passed. The animosity with which I speak of Turgenev, and the insults we offered one another, will perhaps strike you unpleasantly. But by God, I can no other ; he offended me too deeply with his amazing views. Personally, I really feel little affected, though his uppish manners are quite disagreeable enough in themselves ; but I simply can't stand by and listen when a traitor who, if he chose, could be of service to his country, abuses Russia in the way he does. His tail-wagging to the Germans, and his hatred for the Russians, I had noticed already—four years ago. But his present rage and fury against Russia arises solely, *solely*, from the failure of “ Smoke,” and from the fact that Russia has dared refuse to hail him as a genius. It is nothing but vanity, and therefore all the more repulsive.
 
-Hear now, my friend, what I have in view. Of course it was vile in me to gamble away so much. But I have lost a relatively small sum of my own actual money. Still, it would have lasted us for two months—in our present mode of living, even for four. I have already told you that I can't resist winning. If, right at the beginning, I had lost the ten louis-d 'or that I chose to stake, I should certainly have played no more, and gone away at once. But the gain of 4,000 francs destroyed me. The temptation of winning more (which appeared so easy) and in that way paying all my debts, and being able to provide for myself and mine—Emilie Fyodorovna, Pasha, and the others . . . it was too much for me, I could not resist it. But even this is no excuse, for I was not alone. I had with me a young, warm-hearted, pretty creature who trusted me, whom I should have protected and sheltered, and whom consequently I ought not to have dragged down with myself to destitution, by setting my entire, though certainly not very great, possessions upon the turn of a game. My future appears to me very dark; above all, I cannot, for the reasons I have mentioned, return to Russia; and most heavily am I oppressed by the question: What is to become of those who depend on my help? All these thoughts murder me. . . .
+Hear now, my friend, what I have in view. Of course it was vile in me to gamble away so much. But I have lost a relatively small sum of my own actual money. Still, it would have lasted us for two months—in our present mode of living, even for four. I have already told you that I can't resist winning. If, right at the beginning, I had lost the ten louis-d' or that I chose to stake, I should certainly have played no more, and gone away at once. But the gain of 4,000 francs destroyed me. The temptation of winning more (which appeared so easy) and in that way paying all my debts, and being able to provide for myself and mine—Emilie Fyodorovna, Pasha, and the others . . . it was too much for me, I could not resist it. But even this is no excuse, for I was not alone. I had with me a young, warm-hearted, pretty creature who trusted me, whom I should have protected and sheltered, and whom consequently I ought not to have dragged down with myself to destitution, by setting my entire, though certainly not very great, possessions upon the turn of a game. My future appears to me very dark; above all, I cannot, for the reasons I have mentioned, return to Russia; and most heavily am I oppressed by the question: What is to become of those who depend on my help? All these thoughts murder me. . . .
 
 You alone, my dear friend, are kind to me; you are my Providence. Help me in the future, too. For in all my great and small matters, I shall call upon your aid.
 
@@ -1311,7 +1293,7 @@ As far as I *personally* am concerned, I don't care at all where I spend the nex
 
 Of my work I will write you nothing, for I have nothing to say about it as yet. Only one thing: I have to go at it hard, very hard indeed. In the intervals, my attacks rob me of all vitality, and after each one, I can't collect my thoughts for at least four days. And how well I was, at first, in Germany! This confounded Geneva! I don't know what on earth will become of us. And the novel is my one means of salvation. The worst of it is that it must *absolutely* come off. Nothing less will do. That's a *sine qua non.* But how *can* it, when all my capabilities are utterly crippled by my malady! I still have my power of vision intact; of late my work has shown me that. And nerves I have still. But I have lost all memory. In short, I must take this book by storm, fling myself on it head foremost, and stake all on the hazard of the die, come what may! Enough of that.
 
-I read the news about Kelsiyev[^fn-p0162-1] with much emotion . That's the right way, that's truth and reason! But be you very sure of this—that (of course excepting the Poles) all our Liberals of socialistic leanings will rage like wild beasts. It will thrill them to the marrow. They'll hate it worse than if all their noses had been cut off. What are they to say now, whom now shall they bespatter? The most they can do is to gnash their teeth; and everyone at home quite understands that. Have you ever yet heard a sensible idea from any of our Liberals? They can but gnash their teeth, at any time; and indeed it mightily impresses school-boys. Of Kelsiyev, it will now be maintained that he has denounced them all. By God, you'll see that I am right. But can anyone “denounce” them, I ask you? In the first place, they have themselves compromised themselves; in the second—who takes the slightest interest in them? They're not worth denouncing! . . .
+I read the news about Kelsiyev[^fn-p0162-1] with much emotion. That's the right way, that's truth and reason! But be you very sure of this—that (of course excepting the Poles) all our Liberals of socialistic leanings will rage like wild beasts. It will thrill them to the marrow. They'll hate it worse than if all their noses had been cut off. What are they to say now, whom now shall they bespatter? The most they can do is to gnash their teeth; and everyone at home quite understands that. Have you ever yet heard a sensible idea from any of our Liberals? They can but gnash their teeth, at any time; and indeed it mightily impresses school-boys. Of Kelsiyev, it will now be maintained that he has denounced them all. By God, you'll see that I am right. But can anyone “denounce” them, I ask you? In the first place, they have themselves compromised themselves; in the second—who takes the slightest interest in them? They're not worth denouncing! . . .
 
 [Again he writes of money and business matters.]
 
@@ -1332,8 +1314,7 @@ Your letter, dear boy, uncommonly delighted me. If you thought that I should for
 
 ### XXXVIII
 
-### *To his Sister Vera, and his Brother-in-Law
-Alexander Pavlovitch Ivanov*
+### *To his Sister Vera, and his Brother-in-Law Alexander Pavlovitch Ivanov*
 
 <span class="small-caps">Geneva</span>,  
 *January* 1 [13], 1868.
@@ -1345,7 +1326,7 @@ First of all, I embrace you, congratulate you on the New Year, and wish you of c
 
 And now, for me, nearly everything depends on this work: my existence, daily bread, and my whole future. I have had huge advances of money from the *Roussky Viestnik*—nearly 4,500 roubles; then, in Petersburg, I still have bills to meet to the amount of at least 3,000; and at the same time I must exist somehow or other—and at such a period! Therefore I stake all my hopes on the novel; I shall have to work incessantly, scarcely rising from my desk, for the next four months. I am so very much behindhand, because I have rejected nearly all that I've written up to the present. The book will, by the *Roussky Viestnik's* rates, bring me in about 6,000 roubles. Now I've had 4,500 in advance; consequently I have only 1,500 to get. If it really succeeds, I shall, in September, sell (as I am accustomed always to do) the second edition for about 3,000 roubles. In that way I shall manage to live, pay off, in September, about 1,500 roubles of my debts, and come back to Russia. Thus everything depends on my work *now*: my whole future and my whole present; and if the book is in any way good, I shall get further credit from the *Viestnik* in September. Now I'll tell you about our life and circumstances up to the present.
 
-In that respect, it's all monotonous enough; while we are in Geneva, every day resembles every other. I write, and Anna Grigorovna works at the outfit for the little person whom we are expecting, or does shorthand for me when I need her help. She bears her condition excellently (though lately she has not been quite so well); our life suits her admirably, and she only longs for her Mama. Our seclusion is to me personally of great value; without it I could not have worked at all. But, all the same, Geneva, except for the view of Mont Blanc, the lake, and the River Rhone that flows from it, is mightily tedious. I knew that before; but circumstances arranged themselves in such a way that in our situation we could find no other abode for the winter than just this Geneva, whither we came by chance in September. In Paris, for instance, the winter is much colder, and wood ten times dearer, as everything is. We really wanted to go to Italy—that is to Milan, of course (not farther south), where the winter climate is incomparably milder; while the town, with its Cathedral, theatre, and galleries, is much more attractive . But in the first place, all Europe, and particularly Italy, was at that very time threatened with a campaign ; and for a woman with child to find herself in the middle of a campaign would have been far from pleasant. Secondly, it was eminently desirable that we should be able to render ourselves intelligible to the doctor and the midwife, and we do not know Italian. Germany was out of our way, nor did we much desire to return there. Geneva is, at any rate, a cultivated town with libraries, and many doctors, etc., who all speak French. We had not, to be sure, guessed that it would be so dull here, nor that there are periodical winds (called *bises*), which come over the mountains, bringing with them the chill of the eternal ice. In our first abode we suffered much ; the houses here are shockingly built ; instead of stoves there are only fireplaces, and there are no double windows. So all day long one has to keep burning wood in the fireplace (wood is very expensive here also, though Switzerland is the only land of Western Europe where wood is really abundant)— and one might as well be trying to warm the yard outside. In my room it was often only six and even five degrees above zero ; in the others it sometimes happened that the water in the jug froze at night. But for the last month or so, we've been in a new house. Two of the rooms are very good, and one of them is so warm that one can live and work comfortably in it. With us in Geneva the temperature never fell below eight degrees ; in Florence it was ten degrees *above*, and at Montpellier in France, on the Mediterranean Sea, farther south than Geneva, it was fifteen above.
+In that respect, it's all monotonous enough; while we are in Geneva, every day resembles every other. I write, and Anna Grigorovna works at the outfit for the little person whom we are expecting, or does shorthand for me when I need her help. She bears her condition excellently (though lately she has not been quite so well); our life suits her admirably, and she only longs for her Mama. Our seclusion is to me personally of great value; without it I could not have worked at all. But, all the same, Geneva, except for the view of Mont Blanc, the lake, and the River Rhone that flows from it, is mightily tedious. I knew that before; but circumstances arranged themselves in such a way that in our situation we could find no other abode for the winter than just this Geneva, whither we came by chance in September. In Paris, for instance, the winter is much colder, and wood ten times dearer, as everything is. We really wanted to go to Italy—that is to Milan, of course (not farther south), where the winter climate is incomparably milder; while the town, with its Cathedral, theatre, and galleries, is much more attractive. But in the first place, all Europe, and particularly Italy, was at that very time threatened with a campaign ; and for a woman with child to find herself in the middle of a campaign would have been far from pleasant. Secondly, it was eminently desirable that we should be able to render ourselves intelligible to the doctor and the midwife, and we do not know Italian. Germany was out of our way, nor did we much desire to return there. Geneva is, at any rate, a cultivated town with libraries, and many doctors, etc., who all speak French. We had not, to be sure, guessed that it would be so dull here, nor that there are periodical winds (called *bises*), which come over the mountains, bringing with them the chill of the eternal ice. In our first abode we suffered much ; the houses here are shockingly built ; instead of stoves there are only fireplaces, and there are no double windows. So all day long one has to keep burning wood in the fireplace (wood is very expensive here also, though Switzerland is the only land of Western Europe where wood is really abundant)— and one might as well be trying to warm the yard outside. In my room it was often only six and even five degrees above zero ; in the others it sometimes happened that the water in the jug froze at night. But for the last month or so, we've been in a new house. Two of the rooms are very good, and one of them is so warm that one can live and work comfortably in it. With us in Geneva the temperature never fell below eight degrees ; in Florence it was ten degrees *above*, and at Montpellier in France, on the Mediterranean Sea, farther south than Geneva, it was fifteen above.
 
 I haven't written to Petersburg for a long time, and I scarcely ever hear from them. I am much perturbed by the thought that Fedya and Pasha need money, which must be sent them as soon as may be. But I can't possibly expect any large sum from the *Roussky Viestnik* until I deliver the second part of the novel, which won't be, at earliest, for three weeks ; for I have already had too much money in advance, and have only worked off about 1,000 roubles ; this worries me so that I often can't sleep at night. Fedya can't manage without extra help, and Pasha must have his money regularly. I live on the hundred roubles that the *Viestnik* sends me monthly. And soon I too shall need much more than that. At the end of February (by the Style here) Anna Grigorovna will be a mother, and for that occasion I must absolutely have money, and *a margin*—for one can't calculate with any certainty beforehand how much one will need. How goes it with you ? Your letters are real treats to me, and I wish I could go to Moscow just to see you all. But, once more, my future depends on my work. I beg you to write me most fully about yourselves and the children. By-the-bye, I was greatly vexed, Veryotchka, by your letter in November, saying that you want to get a Frenchwoman for your children. Why ? To what end ? On account of the accent ? From a Frenchwoman and even from a French tutor, one can't possibly (I know it by my own experience) acquire the French tongue in all its subtleties. One can acquire it only by firmly resolving to do so ; and even then, *perfectly* to obtain the accent, one needs an extraordinarily strong will. I consider the “ accent ” superfluous. Believe me, dear Veryotchka, by the time your children are grown-up, French will no longer be spoken in our drawing-rooms. Even to-day, it often has a most absurd effect. It is a different matter to be able to understand and read a language. Then, if one's travelling, and it's necessary, one can make shift to speak it ; but otherwise it's quite enough to understand and read it. What is the Frenchwoman going to talk to the children about ? Nothing but tomfoolery ; and affected as she is, and powerful as she'll be, she'll infect them with her vulgar, corrupt, ridiculous, and imbecile code of manners, and her distorted notions about religion and society. It's a pleasure now to observe your children. The tone in your house is unconstrained and frank ; everything bears the stamp of happy, tranquil family-life. The Frenchwoman will introduce a new and evil French element. While of the expense I need not speak.
 
@@ -1425,7 +1406,7 @@ I thank you for consenting to be godfather to the little one. She was baptized a
 
 I know and believe that your sympathy is real and true. But I have never yet been so profoundly unhappy as of late. I don't intend to describe my state to you, but the more time goes by, the more painful does remembrance become, and the more clearly does my dead Sonia's image stand before me. There are moments in which I can hardly bear it. She already knew me; when I was leaving the house on the day she died, just to read the papers, and without the least idea that she would be dead in two hours, she followed so attentively all my movements, and looked at me with such eyes that even at this moment I can see them, and the memory grows
 
-*[Illustration, p. 135]*
+*[Illustration, p. 179]*
 
 F. M. DOSTOEVSKY.
 
@@ -1446,7 +1427,7 @@ In the four chapters that you will read in the June number (perhaps there may be
 <span class="small-caps">Milan</span>,  
 *October* 7 [19], 1868.
 
-Above all, I must declare that I never have been in the least degree offended with you, and I say it sincerely and honestly; on the contrary—I supposed that you were angry with me for some reason or another. In the first place, you had ceased to write to me; though every one of your letters is to me, here, a great event—a breath from Russia, a real festival. But how could you ever have thought that I considered myself offended by anything you may have written? No; my heart is not like that. And moreover, think of this: twenty-two years ago (it was at Bielinsky's, do you remember?) I made your acquaintance. Since then life has properly rattled me about, and sometimes given me amazing surprises; and in short and in fine I have at the present moment no one but you: you are the only man on whose heart and disposition I rely, whom I love, and whose thoughts and convictions I share. How then should I not love you, almost as much as I loved my brother who is dead? Your letters have always rejoiced and encouraged me, for I was in dejected mood. My work, more than anything else, has frightfully weakened and broken me. For almost a year now I have written three and a half printed sheets every month. That is very stiff. Also I miss the Russian way of life; its impressions were always essential to my work. Finally, though you praise the idea of my novel, the execution has not hitherto been distinguished . I am chiefly distressed by the thought that if I had got the novel written in a year, and then had had two or three months to devote to re-writing and re-touching, it would have been quite a different thing; I can answer for it. Now, when I can take a bird's-eye view, as it were, of the whole, I see that very clearly. . . .
+Above all, I must declare that I never have been in the least degree offended with you, and I say it sincerely and honestly; on the contrary—I supposed that you were angry with me for some reason or another. In the first place, you had ceased to write to me; though every one of your letters is to me, here, a great event—a breath from Russia, a real festival. But how could you ever have thought that I considered myself offended by anything you may have written? No; my heart is not like that. And moreover, think of this: twenty-two years ago (it was at Bielinsky's, do you remember?) I made your acquaintance. Since then life has properly rattled me about, and sometimes given me amazing surprises; and in short and in fine I have at the present moment no one but you: you are the only man on whose heart and disposition I rely, whom I love, and whose thoughts and convictions I share. How then should I not love you, almost as much as I loved my brother who is dead? Your letters have always rejoiced and encouraged me, for I was in dejected mood. My work, more than anything else, has frightfully weakened and broken me. For almost a year now I have written three and a half printed sheets every month. That is very stiff. Also I miss the Russian way of life; its impressions were always essential to my work. Finally, though you praise the idea of my novel, the execution has not hitherto been distinguished. I am chiefly distressed by the thought that if I had got the novel written in a year, and then had had two or three months to devote to re-writing and re-touching, it would have been quite a different thing; I can answer for it. Now, when I can take a bird's-eye view, as it were, of the whole, I see that very clearly. . . .
 
 I have become totally alienated from your way of life, though my whole heart is with you; that is why your letters are like heavenly manna to me. The tidings of the new paper[^fn-p0183-1] greatly rejoiced me. . . . What more can Nikolay Nikolayevitch[^fn-p0183-2] now desire? The chief point is that he should be absolute master of the paper. It is very desirable that it be edited in the *Russian spirit,* as we both conceive it, if it is not to become purely Slavophil. I hold, my friend, that it is no part of our duty to woo the Slavs too ardently. They must come to us of their own accord. After the Pan-Slavist Congress at Moscow, some individual Slavs made insolent mock of the Russians, because they had taken on themselves to lead others, and even aspired to dominate *them,* while they themselves had so little national consciousness, and so on. Believe me: many Slavs, for instance those in Prague, judge us from a frankly Western, from a French or German, point of view; I daresay they wonder that our Slavophils trouble themselves so little about the generally accepted formulas of West-European civilization. Thus we have no motive at all for running after them and paying court. It is a different thing for us merely to study them; we could then help them in time of need; but we should not pursue them with fraternal sentiment, although we must very assuredly regard them as brothers and treat them so. I hope too that Strachov will give the paper a definite political tone, to say nothing at all of national consciousness. National consciousness is our weak spot; it lacks more than anything else. In every case, Strachov will make a brilliant thing of it, and I look forward to the great delight that his articles will afford me; I have read nothing of his since the failure of the *Epoch.* . . .
 
@@ -1687,15 +1668,14 @@ So I await your answer; and make you, besides, one great and urgent request: Sen
 
 ### Letter 54: Fyodor Michailovitch Dostoevsky → Nikolay Nikolayevitch Strachov
 
-### LIV
-*To Nikolay Nikolayevitch Strachov*
+### LIV *To Nikolay Nikolayevitch Strachov*
 
 <span class="small-caps">Dresden</span>,  
 *March* 24 [*April* 5], 1870.
 
 I hasten, much-esteemed Nikolay Nikolayevitch, to answer your letter, and I shall come at once to myself. I want to tell you, decisively and frankly, that, after the closest consideration, I cannot possibly promise to have the novel ready so soon as the autumn. It appears to me quite impracticable; and I should like to beg the staff not to press me, for I want to do my work quite as carefully and neatly as certain gentlemen (that is, the Great Ones) do theirs. All I will guarantee is that the novel shall be ready in the January of the coming year. This work is more to me than aught else. The idea is more precious to me than any of my other ideas, and I want to do it well. . . . I also set great hopes on the novel which I am now writing[^fn-p0221-1] for the *Roussky Viestnik;* I don’t mean as a work of art, but because of its tendencies; I mean to utter certain thoughts, whether all the artistic side of it goes to the dogs or not. The thoughts that have gathered themselves together in my head and my heart are pressing me on; even if it turns into a mere pamphlet, I shall say all that I have in my heart. I hope for success. For that matter, who ever sets himself to a task without so hoping? This work for the *Roussky Viestnik* I shall soon have finished, and then I can turn with gusto to *the* novel.
 
-*[Illustration, p. 175]*
+*[Illustration, p. 219]*
 
 FACSIMILE OF “THE POSSESSED,” PART III.: BEGINNING OF  
 CHAPTER I.
@@ -1727,8 +1707,7 @@ Nihilism isn't worth talking about. Only wait until this scum that has cut itsel
 
 ### LVI
 
-### *To his Sister Vera, and his Niece Sofia
-Alexandrovna*
+### *To his Sister Vera, and his Niece Sofia Alexandrovna*
 
 <span class="small-caps">Dresden</span>,  
 *May* 7 [19], 1870.
@@ -1967,7 +1946,7 @@ N.B. Dostoevsky did return to Petersburg on July 8, 1871.
 
 You write that I am squandering and abusing my talents on bagatelles in the *Diary.* You are not the first from whom I have heard that. And now I want to say this to you and others : I have been driven to the conviction that an artist is bound to make himself acquainted, down to the smallest detail, not only with the technique of writing, but with everything—current no less than historical events—relating to that reality which he designs to show forth. We have only one writer who is really remarkable in that respect : it is Count Leo Tolstoy. Victor Hugo, whom I extraordinarily admire as a novelist (only think : Tchutchev, who is now dead, once got positively angry with me on account of this view of Hugo, and said that my “ Raskolnikov ” was much greater than Hugo’s “Misérables”)—is certainly prone to be too long-winded in his description of details, but he gives us most marvellous effects of observation, which would have been lost to the world but for him. As I am now purposing to write a very big novel, I must devote myself most especially to the study of actuality : I don’t mean actuality in the literal sense, for I am fairly well versed in that, but certain peculiarities of the present moment. And in this present moment the younger generation particularly interests me, and, as akin to it, the question of Russian family-life, which, to my thinking, is to-day quite a different thing from what it was twenty years ago. Also many other questions of the moment interest me.
 
-*[Illustration, p. 213]*
+*[Illustration, p. 257]*
 
 <span class="small-caps">Dostoevsky, Petersburg, 1876.</span>
 
@@ -2006,8 +1985,7 @@ I remain here till August 7 (Old Style). I am drinking the waters, and indeed wo
 
 ### Letter 68: Fyodor Michailovitch Dostoevsky → Mlle. Gerassimov
 
-### LXVIII
-*To Mlle. Gerassimov*
+### LXVIII *To Mlle. Gerassimov*
 
 <span class="small-caps">Petersburg</span>,  
 *March* 7, 1877.
@@ -2055,7 +2033,7 @@ Your
 
 Let me beg you, first, to forgive my having, by reason of illness and various bothers, taken so long to answer you. In the second place, what can I say in reply to your momentous question, which belongs to the eternal problem of humanity ? Can one treat such matters in the narrow compass of a letter ? If I could talk with you for some hours, it would be a different thing ; and even then I might well fail to achieve anything. Least of all by words and argument does one convert an unbeliever. Would it not be better if you would read, with your best possible attention, all the epistles of St. Paul ? Therein much is said of faith, and the question could not be better handled. I recommend you to read the whole Bible through in the Russian translation. The book makes a remarkable impression when one thus reads it. One gains, for one thing, the conviction that humanity possesses, and can possess, no other book of equal significance. Quite apart from the question of whether you believe or don't believe. I can't give you any sort of idea. But I'll say just this : Every single organism exists on earth but to live—not to annihilate itself. Science has made this clear, and has laid down very precise laws upon which to ground the axiom. Humanity as a whole is, of course, no less than an organism. And that organism has, naturally, its own conditions of existence, its own laws. Human reason comprehends those laws. Now suppose that there is no God, and no personal immortality (personal immortality and God are one and the same—an identical idea). Tell me then : Why am I to live decently and do good, if I die irrevocably here below ? If there is no immortality, I need but live out my appointed day, and let the rest go hang. And if that's really so (and if I am clever enough not to let myself be caught by the standing laws), why should I not kill, rob, steal, or at any rate live at the expense of others ? For I shall die, and all the rest will die and utterly vanish ! By this road, one would reach the conclusion that the human organism alone is not subject to the universal law, that it lives but to destroy itself—not to keep itself alive. For what sort of society is one whose members are mutually hostile ? Only utter confusion can come of such a thing as that. And then reflect on the “ I ” which can grasp all this. If the “ I ” can grasp the idea of the universe and its laws, then that “ I ” stands above all other things, stands aside from all other things, judges them, fathoms them. In that case, the “ I ” is not only liberated from the earthly axioms, the earthly laws, but has its own law, which transcends the earthly. Now, whence comes that law ? Certainly not from earth, where all reaches its issue, and vanishes beyond recall. Is *that* no indication of personal immortality ? If there were no personal immortality, would you, Nikolay Lukitch, be worrying yourself about it, be searching for an answer, be writing letters like this ? So you can't get rid of your “ I,” you see ; your “ I ” will not subject itself to earthly conditions, but seeks for something which transcends earth, and to which it feels itself akin. But whatever I write falls short altogether—as it must. I cordially press your hand, and take my leave. Remain in your unrest—seek farther—it may be that you shall find.
 
-*[Illustration, p. 227]*
+*[Illustration, p. 271]*
 
 <span class="small-caps">Dostoevsky's study in Petersburg.</span>
 
@@ -2135,7 +2113,7 @@ Your devoted,
 
 <span class="small-caps">Fyodor Dostoevsky.</span>
 
-*[Illustration, p. 241]*
+*[Illustration, p. 285]*
 
 DOSTOEVSKY, PETERSBURG, 1879.
 
@@ -2177,7 +2155,7 @@ Are you on a summer holiday ? How did the Moscow news reach you ? I don’t know
 
 You ask me to send you my speech. But I have not a single transcript of it, and the only copy is at the printers, where the *Diary* is now being set up. The *Diary* will appear about August 5; bestow some attention on that number, and show it, also, to my dear collaborator, Andrey Andreyevitch. I should like to hear his opinion too.
 
-*[Illustration, p. 249]*
+*[Illustration, p. 293]*
 
 <span class="small-caps">Dostoevsky, Moscow, 1880.</span>
 
@@ -2296,7 +2274,7 @@ Yours most faithfully
 [^fn-p0135-2]: (2) This is done with arms intertwined. (Translator’s note.)
 [^fn-p0135-3]: (3) The reference is to the journal *Vremya* (*The Times*).
 [^fn-p0136-1]: (1) Dostoevsky's sister-in-law; sister of Mme. Maria Dmitryevna.
-[^fn-p0136-2]: (2) Pasha [Paul] Issayev, Dostoevsky's stepson.
+[^fn-p0136-2]: (2) Pasha [Paul] Issayev, Dostoevsky's step-son.
 [^fn-p0136-3]: (3) Quotation from Gogol's "Memoirs of a Madman."
 [^fn-p0138-1]: (1) Nikolay Nikolayevitch Strachov, critic and philosopher (1828-96) was a close friend of Dostoevsky and Grigorovitch. He headed an embittered political campaign against Nihilism and the material tendencies of the 'sixties.
 [^fn-p0138-2]: (2) Pyotr Boborykin, a still living popular novelist. At that time he was editor of the *Booklover's Library.*
@@ -2357,8 +2335,7 @@ Yours most faithfully
 
 ## Recollections of Dostoevsky by his Friends
 
-### FROM THE REMINISCENCES OF
-D. V. GRIGOROVITCH
+### FROM THE REMINISCENCES OF D. V. GRIGOROVITCH
 
 ### 1837—1846
 
@@ -2384,7 +2361,7 @@ When we set up house, Dostoevsky was working at the translation of Balzac’s �
 
 My enthusiasm for Dostoevsky was the reason why Bielinsky, to whom Nekrassov introduced me, made quite a different impression upon me from what I had expected. Properly tutored by Nekrassov, I regarded the impending visit to Bielinsky as a great joy; long beforehand I rehearsed the words in which I should describe to him my admiration for Balzac. But scarcely had I mentioned that my housemate Dostoevsky (whose name was still unknown to Bielinsky) had translated “Eugènie Grandet” than
 
-*[Illustration, p. 263]*
+*[Illustration, p. 307]*
 
 <span class="small-caps">Dostoevsky's handwriting in</span> 1838.  
 (<span class="small-caps">letter to his brother Michael, August</span> 9.)
@@ -2427,8 +2404,7 @@ This last reproach, if it *is* a reproach for a novice, was not quite unjustifie
 
 Once, I forget why, he and I fell out. The consequence was that we decided to give up living together. But we parted on good terms. Later I often met him with acquaintances, and we treated one another as old friends.
 
-### FROM THE REMINISCENCES OF
-A. P. MILYUKOV
+### FROM THE REMINISCENCES OF A. P. MILYUKOV
 
 ### 1848—1849
 
@@ -2470,9 +2446,7 @@ He gave one the impression of regarding the impending punishment as a pleasure-t
 
 This final meeting lasted over half-an-hour; although we spoke of many things, the time seemed short. The melancholy bell was sounding again when the Major entered, and said the interview was at an end. For the last time we embraced. I did not then imagine that I should never see Dourov again, and Fyodor Dostoevsky only after eight years
 
-### FROM THE MEMORANDA OF P. K.
-MARTYANOV,[^fn-p0326-1] AT THE HOUSE
-OF THE DEAD
+### FROM THE MEMORANDA OF P. K. MARTYANOV,[^fn-p0326-1] AT THE HOUSE OF THE DEAD
 
 ### 1850—1854
 
@@ -2500,9 +2474,7 @@ Once when Dostoevsky had remained behind in the prison for “ house-work,” th
 
 While he was being dragged from his plank and pushed along to the guard-room, the cadet despatched an exempt to the Commandant with a report of the occurrence. General de Grave came at once to the guard-room and stopped the whipping ; while to Major Krivzov he administered a public reprimand, and gave orders that in no circumstances were ailing prisoners to be subjected to corporal punishment.
 
-### FROM THE REMINISCENCES OF BARON
-ALEXANDER VRANGEL[^fn-p0333-1]
-1854—1865
+### FROM THE REMINISCENCES OF BARON ALEXANDER VRANGEL[^fn-p0333-1] 1854—1865
 
 <span class="small-caps">When</span> I lived in Petersburg before my transfer to Siberia, I was not acquainted with Fyodor Dostoevsky, though I knew his favourite brother, Michael. I went to see the latter before I left ; when I told him that I was going to Siberia, he begged me to take with me for his brother, a letter, some linen, some books, and fifty roubles. Apollon Maikov also gave me a letter for Fyodor Dostoevsky.
 
@@ -2594,7 +2566,7 @@ I shall never forget the leave-taking. Dostoevsky wept aloud like a little child
 
 Dostoevsky and I decided to go part of the way with the Issayevs. I took him in my carriage, the Issayevs sat in an open diligence. Before the departure, they all turned in to drink a glass of wine at my house. So as to enable Dostoevsky to have one last talk undisturbed with Maria Dmitryevna before she went, I made her husband properly drunk. On the way I gave him some more champagne, thus getting him wholly into my power—then took him into my carriage, where he forthwith fell asleep. Fyodor Michailovitch went into Maria Dmitryevna’s. It was a wonderful clear moonlight night in May ; the air was filled with soft perfume. Thus we drove a long way. At last we were obliged to part. Those two embraced for the last time, and wiped the tears from their eyes, while I dragged the drunken and drowsy Issayev over to the carriage ; he at once went off again, and never knew in the least what had been done with him. Little Pasha was fast asleep too. The diligence set off, a cloud of dust arose, already we could see it no more and the sound of the little bells was dying away in the distance ; but Dostoevsky stood stark and dumb, and the tears were streaming down his cheeks. I went up to him, took his hand— he awoke from his trance and, without saying a word, got into the carriage. We did not get back till dawn. Dostoevsky did not lie down and try to sleep, but kept walking to and fro in his room, talking to himself. After that sleepless night, he went to camp for drill. Home again, he lay there the whole day, neither eating nor drinking, and smoking pipe after pipe.
 
-Time did its work, and Dostoevsky’s morbid despair came to an end. He was in constant communication with Kusnezk, but that did not always bring him happiness. Fyodor Michailovitch had gloomy forebodings . Mme. Issayev, in her letters, complained of bitter poverty, of her own ill-health and the incurable sufferings of her husband, of the joyless future which awaited her ; and all this sorely depressed Dostoevsky. He failed more and more in health, became morose, irritable, and looked like the shadow of a man. He even gave up working at “ The House of the Dead,” which he had begun with such ardour. Only when, on warm evenings, we lay in the grass and looked up to the star-sown sky, did he know relative well-being. Such moments had a tranquillizing effect on him. We seldom spoke of religion. He was at heart religious, though he rarely entered a church ; the popes, and especially the Siberian ones, he could not stand at all. Of Christ he would speak with moving rapture. His manner in speech was most peculiar. In general he did not speak loudly, often indeed in a whisper ; but when he grew enthuiastic, his voice would become louder and more sonorous ; and when he was greatly excited, he would pour forth words, and enchain his hearers by the passion of his utterance. What wonderful hours I have passed with him ! How much I owe to my intercourse with that greatly gifted man ! In the whole of our life together there never was a single misunderstanding between us ; our friendship was untroubled by one cloud. He was ten years older, and much more experienced, than I. Whenever, in my youthful crudity, I began, terrified by the repellent environment, to lose heart, Dostoevsky would always tell me to take courage, would renew my energies by his counsel and his warm sympathy. I cherish his memory especially on account of the human feeling with which he inspired me. After all this, the reader will understand that I could not be an indifferent witness of the unhappy frame of mind into which his unfortunate relation with Mme. Issayev had brought him.
+Time did its work, and Dostoevsky’s morbid despair came to an end. He was in constant communication with Kusnezk, but that did not always bring him happiness. Fyodor Michailovitch had gloomy forebodings. Mme. Issayev, in her letters, complained of bitter poverty, of her own ill-health and the incurable sufferings of her husband, of the joyless future which awaited her ; and all this sorely depressed Dostoevsky. He failed more and more in health, became morose, irritable, and looked like the shadow of a man. He even gave up working at “ The House of the Dead,” which he had begun with such ardour. Only when, on warm evenings, we lay in the grass and looked up to the star-sown sky, did he know relative well-being. Such moments had a tranquillizing effect on him. We seldom spoke of religion. He was at heart religious, though he rarely entered a church ; the popes, and especially the Siberian ones, he could not stand at all. Of Christ he would speak with moving rapture. His manner in speech was most peculiar. In general he did not speak loudly, often indeed in a whisper ; but when he grew enthuiastic, his voice would become louder and more sonorous ; and when he was greatly excited, he would pour forth words, and enchain his hearers by the passion of his utterance. What wonderful hours I have passed with him ! How much I owe to my intercourse with that greatly gifted man ! In the whole of our life together there never was a single misunderstanding between us ; our friendship was untroubled by one cloud. He was ten years older, and much more experienced, than I. Whenever, in my youthful crudity, I began, terrified by the repellent environment, to lose heart, Dostoevsky would always tell me to take courage, would renew my energies by his counsel and his warm sympathy. I cherish his memory especially on account of the human feeling with which he inspired me. After all this, the reader will understand that I could not be an indifferent witness of the unhappy frame of mind into which his unfortunate relation with Mme. Issayev had brought him.
 
 I made up my mind to distract him from it in every way I could. On every opportunity, I brought him about with me, and made him known to the engineers of the lead and silver mines that lie near by. But I found it very hard to woo him from his mournful brooding. He had got superstitious all of a sudden, and would often tell me tales of somnambulists, or visit fortune-tellers; and as I, at twenty, had my own romance, he took me to an old man, who told fortunes by beans.
 
@@ -2686,7 +2658,7 @@ In January 1860 Dostoevsky at last got permission to settle in Petersburg. As th
 
 On one of our meetings we spoke of a forthcoming public event in Petersburg. I intended to make a speech “ upon the liberties and rights accorded by the Tsarina Catherine II. to the Russian nobility.” Dostoevsky instantly sketched a brilliant discourse for me ; but at the meeting I controlled myself, and did not deliver it.[^fn-p0360-2]
 
-*[Illustration, p. 317]*
+*[Illustration, p. 361]*
 
 DOSTOEVSKY, MOSCOW, 1863.
 
@@ -2708,9 +2680,7 @@ He told me of one incident, among others, which will show how nervous and irrita
 
 "Yes—I was too hot-tempered that time!" concluded Dostoevsky, with a shy smile. But evidently this irritability long endured ; for in one of his later letters he writes : “ I have become frightfully nervous and irritable ; my character gets worse every day, and I can’t imagine what it will end in.”[^fn-p0366-1]
 
-### <span class="small-caps">FROM THE REMINISCENCES OF
-SOPHIE KOVALEVSKY</span>[^fn-p0367-1]
-1866
+### <span class="small-caps">FROM THE REMINISCENCES OF SOPHIE KOVALEVSKY</span>[^fn-p0367-1] 1866
 
 <span class="small-caps">Anyuta</span> was so delighted by her first literary success that she at once began another story. The hero of this tale was a young man who had been brought up far away from home in a monastery by his uncle, a monk. The hero, whose name was Michael, had some resemblance to Alyosha in the “ Brothers Karamazov.” When I read that novel, some years afterwards, I was instantly struck by the resemblance ; I spoke of it to Dostoevsky, whom I very often met at that time.
 
@@ -2891,7 +2861,7 @@ After about six months, Dostoevsky wrote to my sister to say that he had learned
 
 “I am reading with great enjoyment your ‘House of the Dead.’ The description of the *bath* is worthy of a Dante; in several figures (for example, in Petrov) there are many most authentic psychological subtleties. I am truly rejoiced at the success of your journal, and repeat that I shall always be glad to give it a helping hand.”
 
-*[Illustration, p. 337]*
+*[Illustration, p. 381]*
 
 DOSTOEVSKY ON HIS DEATH-BED, JANUARY 29, 1881.
 
@@ -2935,7 +2905,7 @@ DOSTOEVSKY ON HIS DEATH-BED, JANUARY 29, 1881.
 
 “ Lately I was ill, and read Dostoevsky’s ‘ House of the Dead.’ I have read much, and forgotten much ; but I do not know in all modern literature,
 
-*[Illustration, p. 341]*
+*[Illustration, p. 385]*
 
 THE WIDOW AND CHILDREN OF DOSTOEVSKY AT HIS GRAVE IN PETERSBURG.
 

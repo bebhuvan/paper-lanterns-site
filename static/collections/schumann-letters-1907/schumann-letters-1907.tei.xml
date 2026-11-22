@@ -9,70 +9,76 @@
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
         <idno type="book_id">schumann-letters-1907</idno>
-        <availability status="free"><p>CC0 1.0 Public Domain</p></availability>
+        <availability status="free"><p>CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)</p></availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>The Letters of Robert Schumann</title>
           <date>1907</date>
+          <idno type="URI">https://archive.org/details/lettersofroberts00schu</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Diplomatic archival transcription preserving historical orthography, diacritics, epistolary layouts, and footnotes.</p>
+      </editorialDecl>
+    </encodingDesc>
     <profileDesc>
       <correspDesc xml:id="letter-0001">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Zwickau</placeName><date when="1828-03-17">March 17, 1828</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Zwickau</placeName><date when="1828-03-17">March 17, 1828.</date></correspAction>
         <correspAction type="received"><persName>Flechsig</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0002">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Monheim near Nürnberg</placeName><date when="1828-04-28">April 28, 1828</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Monheim near Nürnberg</placeName><date when="1828-04-28">April 28, 1828.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0003">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1828-05-21">May 21, 1828</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1828-05-21">May 21, 1828.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0004">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1828-06-13">June 13, 1828</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1828-06-13">June 13, 1828.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0005">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1828-08-03">August 3, 1828</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1828-08-03">August 3, 1828.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0006">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1828-08-14">August 14, 1828</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1828-08-14">August 14, 1828.</date></correspAction>
         <correspAction type="received"><persName>G. Rosen</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0007">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1829-05-24">May 24, 1829</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1829-05-24">May 24, 1829.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0008">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1829-07-17">July 17, 1829</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1829-07-17">July 17, 1829.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0009">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1829-08-03">August 3, 1829</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1829-08-03">August 3, 1829.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0010">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Berne</placeName><date when="1829-08-31">August 31, 1829</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Berne</placeName><date when="1829-08-31">August 31, 1829.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0011">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Brescia</placeName><date when="1829-09-16">September 16, 1829</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Brescia</placeName><date when="1829-09-16">September 16, 1829.</date></correspAction>
         <correspAction type="received"><persName>Theresa Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0012">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Milan</placeName><date when="1829-10-05">October 5, 1829</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Milan</placeName><date when="1829-10-05">October 5, 1829.</date></correspAction>
         <correspAction type="received"><persName>Rosalie Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0013">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1829-11-06">November 6, 1829</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1829-11-06">November 6, 1829.</date></correspAction>
         <correspAction type="received"><persName>Friedrich Wieck</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0014">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1830-02-24">February 24, 1830</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1830-02-24">February 24, 1830.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0015">
@@ -84,443 +90,443 @@
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0017">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1830-08-21">August 21, 1830</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1830-08-21">August 21, 1830.</date></correspAction>
         <correspAction type="received"><persName>Friedrich Wieck</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0018">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1830-08-22">August 22, 1830</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Heidelberg</placeName><date when="1830-08-22">August 22, 1830.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0019">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1830-10-25">October 25, 1830</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1830-10-25">October 25, 1830.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0020">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1830-11-15">November 15, 1830</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1830-11-15">November 15, 1830.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0021">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1830-12-15">December 15, 1830</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1830-12-15">December 15, 1830. The 15th, Evening.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0022">
-        <correspAction type="sent"><persName>Robert Schumann</persName><date when="1831-05-15">May 15, 1831</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><date when="1831-05-15">May 15, 1831.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0023">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1831-08-20">August 20, 1831</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1831-08-20">August 20, 1831.</date></correspAction>
         <correspAction type="received"><persName>J. N. Hummel</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0024">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1831-09-05">September 5, 1831</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1831-09-05">September 5, 1831.</date></correspAction>
         <correspAction type="received"><persName>Julius Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0025">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1831-09-21">September 21, 1831</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1831-09-21">September 21, 1831.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0026">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1832-01-11">January 11, 1832</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1832-01-11">January 11, 1832.</date></correspAction>
         <correspAction type="received"><persName>Friedrich Wieck</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0027">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1832-04-25">April 25, 1832</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1832-04-25">April 25, 1832.</date></correspAction>
         <correspAction type="received"><persName>Heinrich Dorn</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0028">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1832-05-08">May 8, 1832</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1832-05-08">May 8, 1832.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0029">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1832-08-09">August 9, 1832</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1832-08-09">August 9, 1832.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0030">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1832-11-06">November 6, 1832, at 2 a.m. precisely</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1832-11-06">November 6, 1832, at 2 a.m. precisely.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0031">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1833-06-28">June 28, 1833</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1833-06-28">June 28, 1833.</date></correspAction>
         <correspAction type="received"><persName>Johanna Christiane Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0032">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1833-08-02">August 2, 1833</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1833-08-02">August 2, 1833.</date></correspAction>
         <correspAction type="received"><persName>Clara Wieck</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0033">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1833-08-06">August 6, 1833</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1833-08-06">August 6, 1833.</date></correspAction>
         <correspAction type="received"><persName>Friedrich Wieck</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0034">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1833-08-09">August 9, 1833</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1833-08-09">August 9, 1833.</date></correspAction>
         <correspAction type="received"><persName>Franz Otto</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0035">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1833-11-27">November 27, 1833</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1833-11-27">November 27, 1833.</date></correspAction>
         <correspAction type="received"><persName>his Mother</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0036">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1834-01-04">January 4, 1834</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1834-01-04">January 4, 1834.</date></correspAction>
         <correspAction type="received"><persName>his Mother</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0037">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1834-07-02">July 2, 1834</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1834-07-02">July 2, 1834.</date></correspAction>
         <correspAction type="received"><persName>his Mother</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0038">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1834-07-28">July 28, 1834</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1834-07-28">July 28, 1834.</date></correspAction>
         <correspAction type="received"><persName>Ernestine von Fricken</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0039">
-        <correspAction type="sent"><persName>R. S.</persName><date when="1834">Undated [Summer, 1834]</date></correspAction>
+        <correspAction type="sent"><persName>R. S.</persName><date when="1834">Undated [Summer, 1834].</date></correspAction>
         <correspAction type="received"><persName>Frau Henrietta Voigt</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0040">
-        <correspAction type="sent"><placeName>[Zwickau]</placeName><date when="1834-11-20">November 20, 1834</date></correspAction>
+        <correspAction type="sent"><placeName>[Zwickau]</placeName><date when="1834-11-20">November 20, 1834.</date></correspAction>
         <correspAction type="received"><persName>Captain von Fricken</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0041">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1835-02-06">February 6, 1835</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1835-02-06">February 6, 1835.</date></correspAction>
         <correspAction type="received"><persName>Advocate Dr. Töpken</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0042">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1836-04-01">April 1, 1836</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1836-04-01">April 1, 1836.</date></correspAction>
         <correspAction type="received"><persName>Theresa Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0043">
-        <correspAction type="sent"><placeName>L(eipzig)</placeName><date when="1836-11-15">November 15, 1836</date></correspAction>
+        <correspAction type="sent"><placeName>L(eipzig)</placeName><date when="1836-11-15">November 15, 1836.</date></correspAction>
         <correspAction type="received"><persName>Theresa Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0044">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1837-01-31">January 31, 1837</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1837-01-31">January 31, 1837.</date></correspAction>
         <correspAction type="received"><persName>A. von Zuccalmaglio</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0045">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1837-05-18">May 18, 1837</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1837-05-18">May 18, 1837.</date></correspAction>
         <correspAction type="received"><persName>A. von Zuccalmaglio</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0046">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1837-08-23">August 23, 1837</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1837-08-23">August 23, 1837.</date></correspAction>
         <correspAction type="received"><persName>J. Moscheles</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0047">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1838-02-08">February 8, 1838</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1838-02-08">February 8, 1838.</date></correspAction>
         <correspAction type="received"><persName>Simonin de Sire</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0048">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1838-03-19">March 19, 1838</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1838-03-19">March 19, 1838.</date></correspAction>
         <correspAction type="received"><persName>Eduard Schumann</persName><persName>Karl Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0049">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1838-03-25">March 25, 1838</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1838-03-25">March 25, 1838.</date></correspAction>
         <correspAction type="received"><persName>Theresa Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0050">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1838-08-05">August 5, 1838</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1838-08-05">August 5, 1838.</date></correspAction>
         <correspAction type="received"><persName>J. Fischhof</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0051">
-        <correspAction type="sent"><placeName>Vienna</placeName><date when="1838-10-10">October 10, 1838</date></correspAction>
+        <correspAction type="sent"><placeName>Vienna</placeName><date when="1838-10-10">October 10, 1838.</date></correspAction>
         <correspAction type="received"><persName>his Relatives in Zwickau</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0052">
-        <correspAction type="sent"><placeName>Vienna</placeName><date when="1838-12-18">Wednesday, December 18, 1838</date></correspAction>
+        <correspAction type="sent"><placeName>Vienna</placeName><date when="1838-12-18">Wednesday, December 18, 1838.</date></correspAction>
         <correspAction type="received"><persName>Theresa Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0053">
-        <correspAction type="sent"><placeName>Vienna</placeName><date when="1839-03-15">March 15, 1839</date></correspAction>
+        <correspAction type="sent"><placeName>Vienna</placeName><date when="1839-03-15">March 15, 1839.</date></correspAction>
         <correspAction type="received"><persName>Simonin de Sire</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0054">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1839-04-27">April 27, 1839</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1839-04-27">April 27, 1839.</date></correspAction>
         <correspAction type="received"><persName>A. von Zuccalmaglio</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0055">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1839-09-05">September 5, 1839</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1839-09-05">September 5, 1839.</date></correspAction>
         <correspAction type="received"><persName>H. Dorn</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0056">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1839-12-11">December 11, 1839</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1839-12-11">December 11, 1839.</date></correspAction>
         <correspAction type="received"><persName>Ernst A. Becker</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0057">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1840-01-31">January 31, 1840</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1840-01-31">January 31, 1840.</date></correspAction>
         <correspAction type="received"><persName>Keferstein</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0058">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1840-02-08">February 8, 1840</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1840-02-08">February 8, 1840.</date></correspAction>
         <correspAction type="received"><persName>Keferstein</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0059">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1840-02-19">February 19, 1840</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1840-02-19">February 19, 1840.</date></correspAction>
         <correspAction type="received"><persName>Keferstein</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0060">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1840-02-29">February 29, 1840</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1840-02-29">February 29, 1840.</date></correspAction>
         <correspAction type="received"><persName>Keferstein</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0061">
-        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1840-08-24">August 24, 1840</date></correspAction>
+        <correspAction type="sent"><placeName>Leipzig</placeName><date when="1840-08-24">August 24, 1840.</date></correspAction>
         <correspAction type="received"><persName>Keferstein</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0062">
-        <correspAction type="sent"><persName>Robert</persName><placeName>En route for Zwickau</placeName><date when="1836-02-13">February 13, 1836</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>En route for Zwickau</placeName><date when="1836-02-13">after 10 p.m., February 13, 1836.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0063">
-        <correspAction type="sent"><persName>Robert Schumann</persName><date when="1837-08-13">August 13, 1837</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><date when="1837-08-13">August 13, 1837.</date></correspAction>
         <correspAction type="received"><persName>Clara Wieck</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0064">
-        <correspAction type="sent"><persName>Clara</persName><placeName>Leipzig</placeName><date when="1837-08-15">August 15, 1837</date></correspAction>
+        <correspAction type="sent"><persName>Clara</persName><placeName>Leipzig</placeName><date when="1837-08-15">August 15, 1837.</date></correspAction>
         <correspAction type="received"><persName>Robert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0065">
-        <correspAction type="sent"><persName>Robert Schumann</persName><date when="1837-09-13">September 13, 1837</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><date when="1837-09-13">1837).</date></correspAction>
         <correspAction type="received"><persName>F. Wieck</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0066">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1837-09-14">September 14, 1837</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1837-09-14">September 14, 1837.</date></correspAction>
         <correspAction type="received"><persName>Ernst A. Becker</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0067">
-        <correspAction type="sent"><persName>Robert</persName><date when="1837-09-18">September 18, 1837</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><date when="1837-09-18">September 18, 1837. (In the afternoon of the same day.)</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0068">
-        <correspAction type="sent"><persName>Clara</persName><placeName>Leipzig</placeName><date when="1837">1837</date></correspAction>
+        <correspAction type="sent"><persName>Clara</persName><placeName>Leipzig</placeName><date when="1837">1837.</date></correspAction>
         <correspAction type="received"><persName>Robert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0069">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1837">1837</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1837">1837.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0070">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1837-10-03">October 3, 1837</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1837-10-03">October 3, 1837.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0071">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1837-11-08">November 8, 1837</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1837-11-08">November 8, 1837, early morning.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0072">
-        <correspAction type="sent"><persName>Robert</persName><date>[November] 29</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><date>[November] 29.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0073">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1837-12-22">December 22, 1837</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1837-12-22">December 22, 1837. New Year&#x27;s Eve, 1837, after 11 p.m. On the morning of the 1st, 1838. The 2nd. Thursday, the 4th. The 5th, evening.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0074">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1838-02-06">February 6, 1838</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1838-02-06">February 6, 1838.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0075">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1838-02-11">February 11, 1838</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1838-02-11">February 11, 1838.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0076">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1838-03-17">March 17, 1838</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1838-03-17">March 17, 1838. Saturday afternoon. Monday, March 19.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0077">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1838-04-14">April 14, 1838</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1838-04-14">April 14, 1838. Saturday before Easter. Sunday morning.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0078">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1838-05-10">May 10, 1838</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1838-05-10">May 10, 1838.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0079">
-        <correspAction type="sent"><persName>Robert</persName><date when="1838-09-09">September 9, 1838</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><date when="1838-09-09">September 9, 1838.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0080">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Vienna</placeName><date when="1838-10-07">October 7, 1838</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Vienna</placeName><date when="1838-10-07">Sunday morning, October 7, 1838.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0081">
-        <correspAction type="sent"><persName>Robert</persName><date when="1838-12-03">December 3, 1838</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><date when="1838-12-03">December 3, 1838.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0082">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Vienna</placeName><date when="1838-12-18">December 18, 1838</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Vienna</placeName><date when="1838-12-18">Wednesday, December 18, 1838.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0083">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Vienna</placeName><date when="1838-12-29">December 29, 1838</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Vienna</placeName><date when="1838-12-29">December 29, 1838.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0084">
-        <correspAction type="sent"><persName>Robert</persName><date when="1839-01-15">January 15, 1839</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><date when="1839-01-15">January 15, 1839.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0085">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1839-04-10">April 10, 1839</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1839-04-10">April 10, 1839.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0086">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1839-05-04">May 4, 1839</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1839-05-04">Saturday morning, May 4, 1839.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0087">
-        <correspAction type="sent"><persName>Robert</persName><date when="1839-05-18">May 18, 1839</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><date when="1839-05-18">May 18, 1839.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0088">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1839-06-03">June 3, 1839</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1839-06-03">June 3, 1839.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0089">
-        <correspAction type="sent"><persName>Robert</persName><date when="1839-06-22">June 22, 1839</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><date when="1839-06-22">June 22, 1839.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0090">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1839-06-30">June 30, 1839</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1839-06-30">June 30, 1839.</date></correspAction>
         <correspAction type="received"><persName>Advocate Einert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0091">
-        <correspAction type="sent"><persName>R. Schumann</persName><placeName>Leipzig</placeName><date when="1839-07-03">July 3, 1839</date></correspAction>
+        <correspAction type="sent"><persName>R. Schumann</persName><placeName>Leipzig</placeName><date when="1839-07-03">[Leipzig], July 3, 1839.</date></correspAction>
         <correspAction type="received"><persName>Advocate Einert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0092">
-        <correspAction type="sent"><persName>Robert</persName><date when="1839-07-30">July 30, 1839</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><date when="1839-07-30">Tuesday, July 30, 1839.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0093">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1839-12-11">December 11, 1839</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1839-12-11">December 11, 1839.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0094">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1840-02-24">February 24, 1840</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1840-02-24">February 24, 1840.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0095">
-        <correspAction type="sent"><persName>Robert</persName><date when="1840-03-18">March 18, 1840</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><date when="1840-03-18">Wednesday, March 18, 1840.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0096">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1840-03-20">March 20, 1840</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1840-03-20">March 20, 1840.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0097">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1840-05-10">May 10, 1840</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1840-05-10">May 10, 1840.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0098">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1840-05-15">May 15, 1840</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1840-05-15">May 15, 1840.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0099">
-        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1840-05-31">May 31, 1840</date></correspAction>
+        <correspAction type="sent"><persName>Robert</persName><placeName>Leipzig</placeName><date when="1840-05-31">May 31, 1840.</date></correspAction>
         <correspAction type="received"><persName>Clara</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0100">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1840-08-12">August 12, 1840</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1840-08-12">August 12, 1840.</date></correspAction>
         <correspAction type="received"><persName>Ernst A. Becker</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0101">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1840-09-28">September 28, 1840</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1840-09-28">September 28, 1840.</date></correspAction>
         <correspAction type="received"><persName>Camille Stamaty</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0102">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1841-05-09">May 9, 1841</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1841-05-09">May 9, 1841.</date></correspAction>
         <correspAction type="received"><persName>C. Kossmaly</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0103">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1842-09-01">September 1, 1842</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1842-09-01">September 1, 1842.</date></correspAction>
         <correspAction type="received"><persName>C. Kossmaly</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0104">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1842-10-01">October 1, 1842</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1842-10-01">October 1, 1842.</date></correspAction>
         <correspAction type="received"><persName>H. C. Andersen</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0105">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1842-11-23">November 23, 1842</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1842-11-23">November 23, 1842.</date></correspAction>
         <correspAction type="received"><persName>L. Spohr</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0106">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1843-05-05">May 5, 1843</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1843-05-05">May 5, 1843.</date></correspAction>
         <correspAction type="received"><persName>C. Kossmaly</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0107">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1843-06-19">June 19, 1843</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1843-06-19">June 19, 1843.</date></correspAction>
         <correspAction type="received"><persName>Johannes Verhulst</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0108">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1844-10">Undated [Leipzig, October, 1844]</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Leipzig</placeName><date when="1844-10">Undated [Leipzig, October, 1844].</date></correspAction>
         <correspAction type="received"><persName>Dr. E. Krüger</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0109">
-        <correspAction type="sent"><persName>Robert Schumann</persName><date when="1845-09">Undated [Written about the end of September, 1845]</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><date when="1845-09">Undated [Written about the end of September, 1845].</date></correspAction>
         <correspAction type="received"><persName>Mendelssohn</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0110">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1845-10-22">October 22, 1845. Wednesday morning</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1845-10-22">October 22, 1845. Wednesday morning.</date></correspAction>
         <correspAction type="received"><persName>Mendelssohn</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0111">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1846-09-03">September 3, 1846</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1846-09-03">September 3, 1846.</date></correspAction>
         <correspAction type="received"><persName>Ludwig Meinardus</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0112">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1847-05-14">May 14, 1847</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1847-05-14">May 14, 1847.</date></correspAction>
         <correspAction type="received"><persName>Friedrich Hebbel</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0113">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1847-08-08">August 8, 1847</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1847-08-08">August 8, 1847.</date></correspAction>
         <correspAction type="received"><persName>F. Brendel</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0114">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1849-04-02">April 2, 1849</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1849-04-02">April 2, 1849.</date></correspAction>
         <correspAction type="received"><persName>Director D. G. Otten</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0115">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Bad Kreischa, near Dresden</placeName><date when="1849-05-31">May 31, 1849</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Bad Kreischa, near Dresden</placeName><date when="1849-05-31">May 31, 1849.</date></correspAction>
         <correspAction type="received"><persName>Franz Liszt</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0116">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1849-09-18">September 18, 1849</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1849-09-18">September 18, 1849.</date></correspAction>
         <correspAction type="received"><persName>F. Brendel</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0117">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1849-11-19">November 19, 1849</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1849-11-19">November 19, 1849.</date></correspAction>
         <correspAction type="received"><persName>F. Hiller</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0118">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1849-12-03">December 3, 1849</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Dresden</placeName><date when="1849-12-03">December 3, 1849.</date></correspAction>
         <correspAction type="received"><persName>F. Hiller</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0119">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1851-02-14">February 14, 1851</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1851-02-14">February 14, 1851.</date></correspAction>
         <correspAction type="received"><persName>R. Pohl</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0120">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1851-04-21">April 21, 1851</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1851-04-21">April 21, 1851.</date></correspAction>
         <correspAction type="received"><persName>Moritz Horn</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0121">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1851-05-13">May 13, 1851</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1851-05-13">May 13, 1851.</date></correspAction>
         <correspAction type="received"><persName>R. Pohl</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0122">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1851-09-22">September 22, 1851</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1851-09-22">September 22, 1851.</date></correspAction>
         <correspAction type="received"><persName>J. N.</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0123">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1851-12-25">December 25, 1851</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1851-12-25">December 25, 1851.</date></correspAction>
         <correspAction type="received"><persName>Franz Liszt</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0124">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1853-03-14">March 14, 1853</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1853-03-14">March 14, 1853.</date></correspAction>
         <correspAction type="received"><persName>F. Hebbel</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0125">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1853-03-16">March 16, 1853</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1853-03-16">March 16, 1853.</date></correspAction>
         <correspAction type="received"><persName>Director H. Krigar</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0126">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1853-05-08">May 8, 1853</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1853-05-08">May 8, 1853.</date></correspAction>
         <correspAction type="received"><persName>C. v. Bruyck</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0127">
@@ -528,33 +534,33 @@
         <correspAction type="received"><persName>Joachim</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0128">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1853-10-08">October 8, 1853</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1853-10-08">October 8, 1853.</date></correspAction>
         <correspAction type="received"><persName>Joachim</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0129">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1853-10-13">October 13, 1853</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1853-10-13">October 13, 1853. October 14.</date></correspAction>
         <correspAction type="received"><persName>Joachim</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0130">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1854-02-06">February 6, 1854</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Düsseldorf</placeName><date when="1854-02-06">February 6, 1854.</date></correspAction>
         <correspAction type="received"><persName>Joachim</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0131">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Endenich</placeName><date when="1854-09-14">September 14, 1854</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Endenich</placeName><date when="1854-09-14">September 14, 1854.</date></correspAction>
         <correspAction type="received"><persName>Clara Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0132">
-        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Endenich</placeName><date when="1854-09-18">September 18, 1854</date></correspAction>
+        <correspAction type="sent"><persName>Robert Schumann</persName><placeName>Endenich</placeName><date when="1854-09-18">September 18, 1854.</date></correspAction>
         <correspAction type="received"><persName>Clara Schumann</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0133">
-        <correspAction type="sent"><persName>R. Schumann</persName><placeName>Endenich</placeName><date when="1854-11-27">November 27, 1854</date></correspAction>
+        <correspAction type="sent"><persName>R. Schumann</persName><placeName>Endenich</placeName><date when="1854-11-27">November 27, 1854.</date></correspAction>
         <correspAction type="received"><persName>Johannes Brahms</persName></correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
+    <front>
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
@@ -581,24 +587,24 @@ ROBERT SCHUMANN</head>
 <p rend="toc_entry"><hi rend="smallcaps">Introduction</hi> - - - - - - - - - - 3</p>
 <p rend="heading">PART I</p>
 <p rend="heading">JEAN PAUL AND DRYASDUST</p>
-<table><row><cell>LETTER</cell></row><row><cell>1.</cell><cell>To Flechsig</cell><cell><hi rend="italic">March</hi> 17, 1828</cell><cell>13</cell></row><row><cell>2.</cell><cell>To his Mother</cell><cell><hi rend="italic">April</hi> 28, 1828</cell><cell>14</cell></row><row><cell>3.</cell><cell>„ „</cell><cell><hi rend="italic">May</hi> 21, 1828</cell><cell>15</cell></row><row><cell>4.</cell><cell>„ „</cell><cell><hi rend="italic">June</hi> 13, 1828</cell><cell>16</cell></row><row><cell>5.</cell><cell>„ „</cell><cell><hi rend="italic">August</hi> 3, 1828</cell><cell>17</cell></row><row><cell>6.</cell><cell>To G. Rosen</cell><cell><hi rend="italic">August</hi> 14, 1828</cell><cell>20</cell></row><row><cell>7.</cell><cell>To his Mother</cell><cell><hi rend="italic">May</hi> 24, 1829</cell><cell>23</cell></row><row><cell>8.</cell><cell>„ „</cell><cell><hi rend="italic">July</hi> 17, 1829</cell><cell>30</cell></row><row><cell>9.</cell><cell>„ „</cell><cell><hi rend="italic">August</hi> 3, 1829</cell><cell>33</cell></row><row><cell>10.</cell><cell>„ „</cell><cell><hi rend="italic">August</hi> 31, 1829</cell><cell>34</cell></row><row><cell>11.</cell><cell>To Theresa Schumann</cell><cell><hi rend="italic">September</hi> 16, 1829</cell><cell>37</cell></row><row><cell>12.</cell><cell>To Rosalie Schumann</cell><cell><hi rend="italic">October</hi> 5, 1829</cell><cell>39</cell></row><row><cell>13.</cell><cell>To Friedrich Wieck</cell><cell><hi rend="italic">November</hi> 6, 1829</cell><cell>41</cell></row><row><cell>14.</cell><cell>To his Mother</cell><cell><hi rend="italic">February</hi> 24, 1830</cell><cell>45</cell></row><row><cell>15.</cell><cell>„ „</cell><cell><hi rend="italic">July</hi> 1, 1830</cell><cell>49</cell></row><row><cell>16.</cell><cell>„ „</cell><cell><hi rend="italic">July</hi> 30, 1830</cell><cell>50</cell></row><row><cell>17.</cell><cell>To Friedrich Wieck</cell><cell><hi rend="italic">August</hi> 21, 1830</cell><cell>53</cell></row><row><cell>18.</cell><cell>To his Mother</cell><cell><hi rend="italic">August</hi> 22, 1830</cell><cell>55</cell></row></table>
+<table cols="4" rows="19"><row role="label"><cell>LETTER</cell></row><row><cell>1.</cell><cell>To Flechsig</cell><cell><hi rend="italic">March</hi> 17, 1828</cell><cell>13</cell></row><row><cell>2.</cell><cell>To his Mother</cell><cell><hi rend="italic">April</hi> 28, 1828</cell><cell>14</cell></row><row><cell>3.</cell><cell>„ „</cell><cell><hi rend="italic">May</hi> 21, 1828</cell><cell>15</cell></row><row><cell>4.</cell><cell>„ „</cell><cell><hi rend="italic">June</hi> 13, 1828</cell><cell>16</cell></row><row><cell>5.</cell><cell>„ „</cell><cell><hi rend="italic">August</hi> 3, 1828</cell><cell>17</cell></row><row><cell>6.</cell><cell>To G. Rosen</cell><cell><hi rend="italic">August</hi> 14, 1828</cell><cell>20</cell></row><row><cell>7.</cell><cell>To his Mother</cell><cell><hi rend="italic">May</hi> 24, 1829</cell><cell>23</cell></row><row><cell>8.</cell><cell>„ „</cell><cell><hi rend="italic">July</hi> 17, 1829</cell><cell>30</cell></row><row><cell>9.</cell><cell>„ „</cell><cell><hi rend="italic">August</hi> 3, 1829</cell><cell>33</cell></row><row><cell>10.</cell><cell>„ „</cell><cell><hi rend="italic">August</hi> 31, 1829</cell><cell>34</cell></row><row><cell>11.</cell><cell>To Theresa Schumann</cell><cell><hi rend="italic">September</hi> 16, 1829</cell><cell>37</cell></row><row><cell>12.</cell><cell>To Rosalie Schumann</cell><cell><hi rend="italic">October</hi> 5, 1829</cell><cell>39</cell></row><row><cell>13.</cell><cell>To Friedrich Wieck</cell><cell><hi rend="italic">November</hi> 6, 1829</cell><cell>41</cell></row><row><cell>14.</cell><cell>To his Mother</cell><cell><hi rend="italic">February</hi> 24, 1830</cell><cell>45</cell></row><row><cell>15.</cell><cell>„ „</cell><cell><hi rend="italic">July</hi> 1, 1830</cell><cell>49</cell></row><row><cell>16.</cell><cell>„ „</cell><cell><hi rend="italic">July</hi> 30, 1830</cell><cell>50</cell></row><row><cell>17.</cell><cell>To Friedrich Wieck</cell><cell><hi rend="italic">August</hi> 21, 1830</cell><cell>53</cell></row><row><cell>18.</cell><cell>To his Mother</cell><cell><hi rend="italic">August</hi> 22, 1830</cell><cell>55</cell></row></table>
 <pb xml:id="page-14" n="vi"/><p rend="heading">PART II</p>
 <p rend="heading"><hi rend="smallcaps">FLORESTAN AND EUSEBIUS</hi></p>
-<table><row><cell><hi rend="smallcaps">LETTER</hi></cell><cell></cell><cell></cell><cell><hi rend="smallcaps">PAGE</hi></cell></row><row><cell>19.</cell><cell>To his Mother</cell><cell><hi rend="italic">October</hi> 25, 1830</cell><cell>58</cell></row><row><cell>20.</cell><cell>„ „</cell><cell><hi rend="italic">November</hi> 15, 1830</cell><cell>59</cell></row><row><cell>21.</cell><cell>„ „</cell><cell><hi rend="italic">December</hi> 15, 1830</cell><cell>60</cell></row><row><cell>22.</cell><cell>„ „</cell><cell><hi rend="italic">May</hi> 15, 1831</cell><cell>63</cell></row><row><cell>23.</cell><cell>To J. N. Hummel</cell><cell><hi rend="italic">August</hi> 20, 1831</cell><cell>64</cell></row><row><cell>24.</cell><cell>To Julius Schumann</cell><cell><hi rend="italic">September</hi> 5, 1831</cell><cell>68</cell></row><row><cell>25.</cell><cell>To his Mother</cell><cell><hi rend="italic">September</hi> 21, 1831</cell><cell>69</cell></row><row><cell>26.</cell><cell>To Friedrich Wieck</cell><cell><hi rend="italic">January</hi> 11, 1832</cell><cell>70</cell></row><row><cell>27.</cell><cell>To Clara Wieck</cell><cell>„ „</cell><cell>71</cell></row><row><cell>28.</cell><cell>To Heinrich Dorn</cell><cell><hi rend="italic">April</hi> 25, 1832</cell><cell>73</cell></row><row><cell>29.</cell><cell>To his Mother</cell><cell><hi rend="italic">May</hi> 8, 1832</cell><cell>74</cell></row><row><cell>30.</cell><cell>„ „</cell><cell><hi rend="italic">August</hi> 9, 1832</cell><cell>78</cell></row><row><cell>31.</cell><cell>„ „</cell><cell><hi rend="italic">November</hi> 6, 1832</cell><cell>80</cell></row><row><cell>32.</cell><cell>„ „</cell><cell><hi rend="italic">June</hi> 28, 1833</cell><cell>81</cell></row><row><cell>33.</cell><cell>To Clara Wieck</cell><cell><hi rend="italic">August</hi> 2, 1833</cell><cell>84</cell></row></table>
+<table cols="4" rows="16"><row role="label"><cell><hi rend="smallcaps">LETTER</hi></cell><cell></cell><cell></cell><cell><hi rend="smallcaps">PAGE</hi></cell></row><row><cell>19.</cell><cell>To his Mother</cell><cell><hi rend="italic">October</hi> 25, 1830</cell><cell>58</cell></row><row><cell>20.</cell><cell>„ „</cell><cell><hi rend="italic">November</hi> 15, 1830</cell><cell>59</cell></row><row><cell>21.</cell><cell>„ „</cell><cell><hi rend="italic">December</hi> 15, 1830</cell><cell>60</cell></row><row><cell>22.</cell><cell>„ „</cell><cell><hi rend="italic">May</hi> 15, 1831</cell><cell>63</cell></row><row><cell>23.</cell><cell>To J. N. Hummel</cell><cell><hi rend="italic">August</hi> 20, 1831</cell><cell>64</cell></row><row><cell>24.</cell><cell>To Julius Schumann</cell><cell><hi rend="italic">September</hi> 5, 1831</cell><cell>68</cell></row><row><cell>25.</cell><cell>To his Mother</cell><cell><hi rend="italic">September</hi> 21, 1831</cell><cell>69</cell></row><row><cell>26.</cell><cell>To Friedrich Wieck</cell><cell><hi rend="italic">January</hi> 11, 1832</cell><cell>70</cell></row><row><cell>27.</cell><cell>To Clara Wieck</cell><cell>„ „</cell><cell>71</cell></row><row><cell>28.</cell><cell>To Heinrich Dorn</cell><cell><hi rend="italic">April</hi> 25, 1832</cell><cell>73</cell></row><row><cell>29.</cell><cell>To his Mother</cell><cell><hi rend="italic">May</hi> 8, 1832</cell><cell>74</cell></row><row><cell>30.</cell><cell>„ „</cell><cell><hi rend="italic">August</hi> 9, 1832</cell><cell>78</cell></row><row><cell>31.</cell><cell>„ „</cell><cell><hi rend="italic">November</hi> 6, 1832</cell><cell>80</cell></row><row><cell>32.</cell><cell>„ „</cell><cell><hi rend="italic">June</hi> 28, 1833</cell><cell>81</cell></row><row><cell>33.</cell><cell>To Clara Wieck</cell><cell><hi rend="italic">August</hi> 2, 1833</cell><cell>84</cell></row></table>
 <p rend="heading">PART III</p>
 <p rend="heading">THE ‘<hi rend="smallcaps">DAVIDSBÜNDLER</hi>’</p>
-<table><row><cell>34.</cell><cell>To Friedrich Wieck</cell><cell><hi rend="italic">August</hi> 6, 1833</cell><cell>86</cell></row><row><cell>35.</cell><cell>To Franz Otto</cell><cell><hi rend="italic">August</hi> 9, 1833</cell><cell>89</cell></row><row><cell>36.</cell><cell>To his Mother</cell><cell><hi rend="italic">November</hi> 27, 1833</cell><cell>90</cell></row><row><cell>37.</cell><cell>„ „</cell><cell><hi rend="italic">January</hi> 4, 1834</cell><cell>91</cell></row><row><cell>38.</cell><cell>„ „</cell><cell><hi rend="italic">July</hi> 2, 1834</cell><cell>93</cell></row><row><cell>39.</cell><cell>To Ernestine von Fricken</cell><cell><hi rend="italic">July</hi> 28, 1834</cell><cell>95</cell></row><row><cell>40.</cell><cell>To Henrietta Voigt</cell><cell><hi rend="italic">Undated [Summer,</hi> 1834]</cell><cell>96</cell></row><row><cell>41.</cell><cell>To Captain von Fricken</cell><cell><hi rend="italic">November</hi> 20, 1834</cell><cell>98</cell></row><row><cell>42.</cell><cell>To Dr. Töpken</cell><cell><hi rend="italic">February</hi> 6, 1835</cell><cell>100</cell></row><row><cell>43.</cell><cell>To Theresa Schumann</cell><cell><hi rend="italic">April</hi> 1, 1836</cell><cell>102</cell></row><row><cell>44.</cell><cell>„ „</cell><cell><hi rend="italic">November</hi> 15, 1836</cell><cell>104</cell></row><row><cell>45.</cell><cell>To A. von Zuccalmaglio</cell><cell><hi rend="italic">January</hi> 31, 1837</cell><cell>106</cell></row><row><cell>46.</cell><cell>„ „</cell><cell><hi rend="italic">May</hi> 18, 1837</cell><cell>108</cell></row><row><cell>47.</cell><cell>To J. Moscheles</cell><cell><hi rend="italic">August</hi> 23, 1837</cell><cell>109</cell></row><row><cell>48.</cell><cell>To Simonin de Sire</cell><cell><hi rend="italic">February</hi> 8, 1838</cell><cell>111</cell></row><row><cell>49.</cell><cell>To Eduard and Karl Schumann</cell><cell><hi rend="italic">March</hi> 19, 1838</cell><cell>114</cell></row><pb xml:id="page-15" n="vii"/><row><cell>LETTER</cell><cell></cell><cell></cell><cell>PAGE</cell></row><row><cell>50.</cell><cell>To Theresa Schumann -</cell><cell><hi rend="italic">March</hi> 25, 1838 -</cell><cell>116</cell></row><row><cell>51.</cell><cell>To J. Fischhof - -</cell><cell><hi rend="italic">August</hi> 5, 1838 -</cell><cell>119</cell></row><row><cell>52.</cell><cell>To his Zwickau Relatives</cell><cell><hi rend="italic">October</hi> 10, 1838 -</cell><cell>122</cell></row><row><cell>53.</cell><cell>To Theresa Schumann -</cell><cell><hi rend="italic">December</hi> 18, 1838</cell><cell>124</cell></row><row><cell>54.</cell><cell>To Simonin de Sire -</cell><cell><hi rend="italic">March</hi> 15, 1839 -</cell><cell>127</cell></row><row><cell>55.</cell><cell>To A. von Zuccalmaglio -</cell><cell><hi rend="italic">April</hi> 27, 1839 -</cell><cell>130</cell></row><row><cell>56.</cell><cell>To H. Dorn - - -</cell><cell><hi rend="italic">September</hi> 5, 1839 -</cell><cell>131</cell></row><row><cell>57.</cell><cell>To Ernst A. Becker -</cell><cell><hi rend="italic">December</hi> 11, 1839 -</cell><cell>133</cell></row><row><cell>58.</cell><cell>To Keferstein - -</cell><cell><hi rend="italic">January</hi> 31, 1840 -</cell><cell>134</cell></row><row><cell>59.</cell><cell>„ - -</cell><cell><hi rend="italic">February</hi> 8, 1840 -</cell><cell>136</cell></row><row><cell>60.</cell><cell>„ - -</cell><cell><hi rend="italic">February</hi> 19, 1840 -</cell><cell>139</cell></row><row><cell>61.</cell><cell>„ - -</cell><cell><hi rend="italic">February</hi> 29, 1840 -</cell><cell>140</cell></row><row><cell>62.</cell><cell>„ - -</cell><cell><hi rend="italic">August</hi> 24, 1840 -</cell><cell>141</cell></row></table>
+<table cols="4" rows="30"><row><cell>34.</cell><cell>To Friedrich Wieck</cell><cell><hi rend="italic">August</hi> 6, 1833</cell><cell>86</cell></row><row><cell>35.</cell><cell>To Franz Otto</cell><cell><hi rend="italic">August</hi> 9, 1833</cell><cell>89</cell></row><row><cell>36.</cell><cell>To his Mother</cell><cell><hi rend="italic">November</hi> 27, 1833</cell><cell>90</cell></row><row><cell>37.</cell><cell>„ „</cell><cell><hi rend="italic">January</hi> 4, 1834</cell><cell>91</cell></row><row><cell>38.</cell><cell>„ „</cell><cell><hi rend="italic">July</hi> 2, 1834</cell><cell>93</cell></row><row><cell>39.</cell><cell>To Ernestine von Fricken</cell><cell><hi rend="italic">July</hi> 28, 1834</cell><cell>95</cell></row><row><cell>40.</cell><cell>To Henrietta Voigt</cell><cell><hi rend="italic">Undated [Summer,</hi> 1834]</cell><cell>96</cell></row><row><cell>41.</cell><cell>To Captain von Fricken</cell><cell><hi rend="italic">November</hi> 20, 1834</cell><cell>98</cell></row><row><cell>42.</cell><cell>To Dr. Töpken</cell><cell><hi rend="italic">February</hi> 6, 1835</cell><cell>100</cell></row><row><cell>43.</cell><cell>To Theresa Schumann</cell><cell><hi rend="italic">April</hi> 1, 1836</cell><cell>102</cell></row><row><cell>44.</cell><cell>„ „</cell><cell><hi rend="italic">November</hi> 15, 1836</cell><cell>104</cell></row><row><cell>45.</cell><cell>To A. von Zuccalmaglio</cell><cell><hi rend="italic">January</hi> 31, 1837</cell><cell>106</cell></row><row><cell>46.</cell><cell>„ „</cell><cell><hi rend="italic">May</hi> 18, 1837</cell><cell>108</cell></row><row><cell>47.</cell><cell>To J. Moscheles</cell><cell><hi rend="italic">August</hi> 23, 1837</cell><cell>109</cell></row><row><cell>48.</cell><cell>To Simonin de Sire</cell><cell><hi rend="italic">February</hi> 8, 1838</cell><cell>111</cell></row><row><cell>49.</cell><cell>To Eduard and Karl Schumann</cell><cell><hi rend="italic">March</hi> 19, 1838</cell><cell>114</cell></row><pb xml:id="page-15" n="vii"/><row role="label"><cell>LETTER</cell><cell></cell><cell></cell><cell>PAGE</cell></row><row><cell>50.</cell><cell>To Theresa Schumann -</cell><cell><hi rend="italic">March</hi> 25, 1838 -</cell><cell>116</cell></row><row><cell>51.</cell><cell>To J. Fischhof - -</cell><cell><hi rend="italic">August</hi> 5, 1838 -</cell><cell>119</cell></row><row><cell>52.</cell><cell>To his Zwickau Relatives</cell><cell><hi rend="italic">October</hi> 10, 1838 -</cell><cell>122</cell></row><row><cell>53.</cell><cell>To Theresa Schumann -</cell><cell><hi rend="italic">December</hi> 18, 1838</cell><cell>124</cell></row><row><cell>54.</cell><cell>To Simonin de Sire -</cell><cell><hi rend="italic">March</hi> 15, 1839 -</cell><cell>127</cell></row><row><cell>55.</cell><cell>To A. von Zuccalmaglio -</cell><cell><hi rend="italic">April</hi> 27, 1839 -</cell><cell>130</cell></row><row><cell>56.</cell><cell>To H. Dorn - - -</cell><cell><hi rend="italic">September</hi> 5, 1839 -</cell><cell>131</cell></row><row><cell>57.</cell><cell>To Ernst A. Becker -</cell><cell><hi rend="italic">December</hi> 11, 1839 -</cell><cell>133</cell></row><row><cell>58.</cell><cell>To Keferstein - -</cell><cell><hi rend="italic">January</hi> 31, 1840 -</cell><cell>134</cell></row><row><cell>59.</cell><cell>„ - -</cell><cell><hi rend="italic">February</hi> 8, 1840 -</cell><cell>136</cell></row><row><cell>60.</cell><cell>„ - -</cell><cell><hi rend="italic">February</hi> 19, 1840 -</cell><cell>139</cell></row><row><cell>61.</cell><cell>„ - -</cell><cell><hi rend="italic">February</hi> 29, 1840 -</cell><cell>140</cell></row><row><cell>62.</cell><cell>„ - -</cell><cell><hi rend="italic">August</hi> 24, 1840 -</cell><cell>141</cell></row></table>
 <p rend="heading">BOOK II</p>
 <p rend="heading">THE FIGHT FOR CLARA</p>
 <p rend="toc_entry"><hi rend="smallcaps">Introduction</hi> - - - - - - - 147</p>
-<table><row><cell>63.</cell><cell>Robert to Clara - -</cell><cell><hi rend="italic">February</hi> 13, 1836 -</cell><cell>154</cell></row><row><cell>64.</cell><cell>Robert to Clara - -</cell><cell><hi rend="italic">August</hi> 13, 1837 -</cell><cell>156</cell></row><row><cell>Clara to Robert - -</cell><cell><hi rend="italic">August</hi> 15, 1837 -</cell><cell>157</cell></row><row><cell>65.</cell><cell>To Friedrich Wieck -</cell><cell><hi rend="italic">September</hi> 13, 1837</cell><cell>158</cell></row><row><cell>66.</cell><cell>To Ernst A. Becker -</cell><cell><hi rend="italic">September</hi> 14, 1837</cell><cell>161</cell></row><row><cell>67.</cell><cell>Robert to Clara - -</cell><cell><hi rend="italic">September</hi> 18, 1837</cell><cell>161</cell></row><row><cell>Clara to Robert - -</cell><cell>—— 1837</cell><cell>165</cell></row><row><cell>68.</cell><cell>Robert to Clara - -</cell><cell>—— 1837</cell><cell>166</cell></row><row><cell>69.</cell><cell>„ „ - -</cell><cell><hi rend="italic">October</hi>, 3, 1837</cell><cell>166</cell></row><row><cell>70.</cell><cell>„ „ - -</cell><cell><hi rend="italic">November</hi> 8, 1837</cell><cell>167</cell></row><row><cell>71.</cell><cell>„ „ - -</cell><cell><hi rend="italic">November</hi> 29, 1837</cell><cell>169</cell></row><row><cell>72.</cell><cell>„ „ - -</cell><cell><hi rend="italic">December</hi> 22, 1837</cell><cell>173</cell></row><row><cell>73.</cell><cell>„ „ - -</cell><cell><hi rend="italic">February</hi> 6, 1838</cell><cell>179</cell></row><row><cell>74.</cell><cell>„ „ - -</cell><cell><hi rend="italic">February</hi> 11, 1838</cell><cell>182</cell></row><row><cell>75.</cell><cell>„ „ - -</cell><cell><hi rend="italic">March</hi> 17, 1838</cell><cell>185</cell></row><row><cell>76.</cell><cell>„ „ - -</cell><cell><hi rend="italic">April</hi> 14, 1838 -</cell><cell>189</cell></row><row><cell>77.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 10, 1838 -</cell><cell>190</cell></row><row><cell>78.</cell><cell>„ „ - -</cell><cell><hi rend="italic">September</hi> 9, 1838</cell><cell>191</cell></row><row><cell>79.</cell><cell>„ „ - -</cell><cell><hi rend="italic">October</hi> 7, 1838</cell><cell>193</cell></row><row><cell>80.</cell><cell>„ „ - -</cell><cell><hi rend="italic">December</hi> 3, 1838</cell><cell>195</cell></row><row><cell>81.</cell><cell>Verses to Clara - -</cell><cell>—— 1838</cell><cell>196</cell></row><pb xml:id="page-16" n="viii"/><row><cell><hi rend="smallcaps">Letter</hi></cell><cell></cell><cell></cell><cell><hi rend="smallcaps">Page</hi></cell></row><row><cell>82.</cell><cell>Robert to Clara - -</cell><cell><hi rend="italic">December</hi> 18, 1838 -</cell><cell>200</cell></row><row><cell>83.</cell><cell>„ „ - -</cell><cell><hi rend="italic">December</hi> 29, 1838 -</cell><cell>202</cell></row><row><cell>84.</cell><cell>„ „ - -</cell><cell><hi rend="italic">January</hi> 15, 1839 -</cell><cell>203</cell></row><row><cell>85.</cell><cell>„ „ - -</cell><cell><hi rend="italic">April</hi> 10, 1839 - -</cell><cell>204</cell></row><row><cell>86.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 4, 1839 - -</cell><cell>205</cell></row><row><cell>87.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 18, 1839 - -</cell><cell>206</cell></row><row><cell>88.</cell><cell>„ „ - -</cell><cell><hi rend="italic">June</hi> 3, 1839 - -</cell><cell>212</cell></row><row><cell>89.</cell><cell>„ „ - -</cell><cell><hi rend="italic">June</hi> 22, 1839 - -</cell><cell>214</cell></row><row><cell>90.</cell><cell>To Advocate Einert -</cell><cell><hi rend="italic">June</hi> 30, 1839 - -</cell><cell>215</cell></row><row><cell>91.</cell><cell>„ „ -</cell><cell><hi rend="italic">July</hi> 3, 1839 - -</cell><cell>219</cell></row><row><cell>92.</cell><cell>Robert to Clara - -</cell><cell><hi rend="italic">July</hi> 30, 1839 - -</cell><cell>221</cell></row><row><cell>93.</cell><cell>„ „ - -</cell><cell><hi rend="italic">December</hi> 11, 1839 -</cell><cell>222</cell></row><row><cell>94.</cell><cell>„ „ - -</cell><cell><hi rend="italic">February</hi> 24, 1840 -</cell><cell>223</cell></row><row><cell>95.</cell><cell>„ „ - -</cell><cell><hi rend="italic">March</hi> 18, 1840 - -</cell><cell>224</cell></row><row><cell>96.</cell><cell>„ „ - -</cell><cell><hi rend="italic">March</hi> 20, 1840 - -</cell><cell>225</cell></row><row><cell>97.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 10, 1840 - -</cell><cell>226</cell></row><row><cell>98.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 15, 1840 - -</cell><cell>227</cell></row><row><cell>99.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 31, 1840 - -</cell><cell>228</cell></row><row><cell>100.</cell><cell>To Ernst A. Becker -</cell><cell><hi rend="italic">August</hi> 12, 1840 - -</cell><cell>229</cell></row><row><cell></cell><cell>From Clara's Diary -</cell><cell><hi rend="italic">September</hi> 12, 1840 -</cell><cell>230</cell></row></table>
+<table cols="4" rows="42"><row><cell>63.</cell><cell>Robert to Clara - -</cell><cell><hi rend="italic">February</hi> 13, 1836 -</cell><cell>154</cell></row><row><cell rows="2">64.</cell><cell>Robert to Clara - -</cell><cell><hi rend="italic">August</hi> 13, 1837 -</cell><cell>156</cell></row><row><cell>Clara to Robert - -</cell><cell><hi rend="italic">August</hi> 15, 1837 -</cell><cell>157</cell></row><row><cell>65.</cell><cell>To Friedrich Wieck -</cell><cell><hi rend="italic">September</hi> 13, 1837</cell><cell>158</cell></row><row><cell>66.</cell><cell>To Ernst A. Becker -</cell><cell><hi rend="italic">September</hi> 14, 1837</cell><cell>161</cell></row><row><cell rows="2">67.</cell><cell>Robert to Clara - -</cell><cell><hi rend="italic">September</hi> 18, 1837</cell><cell>161</cell></row><row><cell>Clara to Robert - -</cell><cell>—— 1837</cell><cell>165</cell></row><row><cell>68.</cell><cell>Robert to Clara - -</cell><cell>—— 1837</cell><cell>166</cell></row><row><cell>69.</cell><cell>„ „ - -</cell><cell><hi rend="italic">October</hi>, 3, 1837</cell><cell>166</cell></row><row><cell>70.</cell><cell>„ „ - -</cell><cell><hi rend="italic">November</hi> 8, 1837</cell><cell>167</cell></row><row><cell>71.</cell><cell>„ „ - -</cell><cell><hi rend="italic">November</hi> 29, 1837</cell><cell>169</cell></row><row><cell>72.</cell><cell>„ „ - -</cell><cell><hi rend="italic">December</hi> 22, 1837</cell><cell>173</cell></row><row><cell>73.</cell><cell>„ „ - -</cell><cell><hi rend="italic">February</hi> 6, 1838</cell><cell>179</cell></row><row><cell>74.</cell><cell>„ „ - -</cell><cell><hi rend="italic">February</hi> 11, 1838</cell><cell>182</cell></row><row><cell>75.</cell><cell>„ „ - -</cell><cell><hi rend="italic">March</hi> 17, 1838</cell><cell>185</cell></row><row><cell>76.</cell><cell>„ „ - -</cell><cell><hi rend="italic">April</hi> 14, 1838 -</cell><cell>189</cell></row><row><cell>77.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 10, 1838 -</cell><cell>190</cell></row><row><cell>78.</cell><cell>„ „ - -</cell><cell><hi rend="italic">September</hi> 9, 1838</cell><cell>191</cell></row><row><cell>79.</cell><cell>„ „ - -</cell><cell><hi rend="italic">October</hi> 7, 1838</cell><cell>193</cell></row><row><cell>80.</cell><cell>„ „ - -</cell><cell><hi rend="italic">December</hi> 3, 1838</cell><cell>195</cell></row><row><cell>81.</cell><cell>Verses to Clara - -</cell><cell>—— 1838</cell><cell>196</cell></row><pb xml:id="page-16" n="viii"/><row role="label"><cell><hi rend="smallcaps">Letter</hi></cell><cell></cell><cell></cell><cell><hi rend="smallcaps">Page</hi></cell></row><row><cell>82.</cell><cell>Robert to Clara - -</cell><cell><hi rend="italic">December</hi> 18, 1838 -</cell><cell>200</cell></row><row><cell>83.</cell><cell>„ „ - -</cell><cell><hi rend="italic">December</hi> 29, 1838 -</cell><cell>202</cell></row><row><cell>84.</cell><cell>„ „ - -</cell><cell><hi rend="italic">January</hi> 15, 1839 -</cell><cell>203</cell></row><row><cell>85.</cell><cell>„ „ - -</cell><cell><hi rend="italic">April</hi> 10, 1839 - -</cell><cell>204</cell></row><row><cell>86.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 4, 1839 - -</cell><cell>205</cell></row><row><cell>87.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 18, 1839 - -</cell><cell>206</cell></row><row><cell>88.</cell><cell>„ „ - -</cell><cell><hi rend="italic">June</hi> 3, 1839 - -</cell><cell>212</cell></row><row><cell>89.</cell><cell>„ „ - -</cell><cell><hi rend="italic">June</hi> 22, 1839 - -</cell><cell>214</cell></row><row><cell>90.</cell><cell>To Advocate Einert -</cell><cell><hi rend="italic">June</hi> 30, 1839 - -</cell><cell>215</cell></row><row><cell>91.</cell><cell>„ „ -</cell><cell><hi rend="italic">July</hi> 3, 1839 - -</cell><cell>219</cell></row><row><cell>92.</cell><cell>Robert to Clara - -</cell><cell><hi rend="italic">July</hi> 30, 1839 - -</cell><cell>221</cell></row><row><cell>93.</cell><cell>„ „ - -</cell><cell><hi rend="italic">December</hi> 11, 1839 -</cell><cell>222</cell></row><row><cell>94.</cell><cell>„ „ - -</cell><cell><hi rend="italic">February</hi> 24, 1840 -</cell><cell>223</cell></row><row><cell>95.</cell><cell>„ „ - -</cell><cell><hi rend="italic">March</hi> 18, 1840 - -</cell><cell>224</cell></row><row><cell>96.</cell><cell>„ „ - -</cell><cell><hi rend="italic">March</hi> 20, 1840 - -</cell><cell>225</cell></row><row><cell>97.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 10, 1840 - -</cell><cell>226</cell></row><row><cell>98.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 15, 1840 - -</cell><cell>227</cell></row><row><cell>99.</cell><cell>„ „ - -</cell><cell><hi rend="italic">May</hi> 31, 1840 - -</cell><cell>228</cell></row><row><cell>100.</cell><cell>To Ernst A. Becker -</cell><cell><hi rend="italic">August</hi> 12, 1840 - -</cell><cell>229</cell></row><row><cell></cell><cell>From Clara's Diary -</cell><cell><hi rend="italic">September</hi> 12, 1840 -</cell><cell>230</cell></row></table>
 <p rend="heading">BOOK III</p>
 <p rend="heading">AT THE ZENITH</p>
 <p rend="toc_entry"><hi rend="smallcaps">Introduction</hi> - - - - - - - - 233</p>
-<table><row><cell>101.</cell><cell>To Camille Stamaty -</cell><cell><hi rend="italic">September</hi> 28, 1840 -</cell><cell>235</cell></row><row><cell>102.</cell><cell>To C. Kossmaly - -</cell><cell><hi rend="italic">May</hi> 9, 1841 - -</cell><cell>236</cell></row><row><cell>103.</cell><cell>„ „ - -</cell><cell><hi rend="italic">September</hi> 1, 1842 -</cell><cell>237</cell></row><row><cell>104.</cell><cell>To H. C. Andersen -</cell><cell><hi rend="italic">October</hi> 1, 1842 - -</cell><cell>237</cell></row><row><cell>105.</cell><cell>To L. Spohr - - -</cell><cell><hi rend="italic">November</hi> 23, 1842 -</cell><cell>238</cell></row><row><cell>106.</cell><cell>To C. Kossmaly - -</cell><cell><hi rend="italic">May</hi> 5, 1843 - -</cell><cell>240</cell></row><row><cell>107.</cell><cell>To Johannes Verhulst -</cell><cell><hi rend="italic">June</hi> 19, 1843 - -</cell><cell>243</cell></row><row><cell>108.</cell><cell>To Dr. E. Krüger - -</cell><cell><hi rend="italic">Undated</hi> [<hi rend="italic">October,</hi> 1844]</cell><cell>246</cell></row><row><cell>109.</cell><cell>To Mendelssohn - -</cell><cell><hi rend="italic">Undated</hi> [<hi rend="italic">Sept.,</hi> 1845] -</cell><cell>248</cell></row><row><cell>110.</cell><cell>„ „ - -</cell><cell><hi rend="italic">October</hi> 22, 1845 -</cell><cell>249</cell></row><row><cell>111.</cell><cell>To Ludwig Meinardus -</cell><cell><hi rend="italic">September</hi> 3, 1846 -</cell><cell>251</cell></row><row><cell>112.</cell><cell>To Friedrich Hebbel -</cell><cell><hi rend="italic">May</hi> 14, 1847 - -</cell><cell>254</cell></row><row><cell>113.</cell><cell>To F. Brendel - -</cell><cell><hi rend="italic">August</hi> 8, 1847 - -</cell><cell>256</cell></row><row><cell>114.</cell><cell>To D. G. Otten - -</cell><cell><hi rend="italic">April</hi> 2, 1849 - -</cell><cell>259</cell></row><pb xml:id="page-17" n="ix"/><row><cell>LETTER</cell><cell></cell><cell></cell><cell>PAGE</cell></row><row><cell>115.</cell><cell>To Franz Liszt</cell><cell><hi rend="italic">May</hi> 31, 1849</cell><cell>261</cell></row><row><cell>116.</cell><cell>To F. Brendel</cell><cell><hi rend="italic">September</hi> 18, 1849</cell><cell>263</cell></row><row><cell>117.</cell><cell>To F. Hiller</cell><cell><hi rend="italic">November</hi> 19, 1849</cell><cell>265</cell></row><row><cell>118.</cell><cell>„ „</cell><cell><hi rend="italic">December</hi> 3, 1849</cell><cell>267</cell></row><row><cell>119.</cell><cell>To R. Pohl</cell><cell><hi rend="italic">February</hi> 14, 1851</cell><cell>268</cell></row><row><cell>120.</cell><cell>To Moritz Horn</cell><cell><hi rend="italic">April</hi> 21, 1851</cell><cell>270</cell></row><row><cell>121.</cell><cell>To R. Pohl</cell><cell><hi rend="italic">May</hi> 13, 1851</cell><cell>271</cell></row><row><cell>122.</cell><cell>To J. N.</cell><cell><hi rend="italic">September</hi> 22, 1851</cell><cell>272</cell></row><row><cell>123.</cell><cell>To Franz Liszt</cell><cell><hi rend="italic">December</hi> 25, 1851</cell><cell>274</cell></row><row><cell>124.</cell><cell>To Friedrich Hebbel</cell><cell><hi rend="italic">March</hi> 14, 1853</cell><cell>275</cell></row><row><cell>125.</cell><cell>To H. Krigar</cell><cell><hi rend="italic">March</hi> 16, 1853</cell><cell>276</cell></row><row><cell>126.</cell><cell>To C. von Bruyck</cell><cell><hi rend="italic">May</hi> 8, 1853</cell><cell>277</cell></row><row><cell>127.</cell><cell>To Joachim</cell><cell><hi rend="italic">June</hi> 8, 1853</cell><cell>278</cell></row><row><cell>128.</cell><cell>„</cell><cell><hi rend="italic">October</hi> 8, 1853</cell><cell>280</cell></row><row><cell>129.</cell><cell>„</cell><cell><hi rend="italic">October</hi> 13, 1853</cell><cell>282</cell></row><row><cell>130.</cell><cell>„</cell><cell><hi rend="italic">February</hi> 6, 1854</cell><cell>283</cell></row></table>
+<table cols="4" rows="31"><row><cell>101.</cell><cell>To Camille Stamaty -</cell><cell><hi rend="italic">September</hi> 28, 1840 -</cell><cell>235</cell></row><row><cell>102.</cell><cell>To C. Kossmaly - -</cell><cell><hi rend="italic">May</hi> 9, 1841 - -</cell><cell>236</cell></row><row><cell>103.</cell><cell>„ „ - -</cell><cell><hi rend="italic">September</hi> 1, 1842 -</cell><cell>237</cell></row><row><cell>104.</cell><cell>To H. C. Andersen -</cell><cell><hi rend="italic">October</hi> 1, 1842 - -</cell><cell>237</cell></row><row><cell>105.</cell><cell>To L. Spohr - - -</cell><cell><hi rend="italic">November</hi> 23, 1842 -</cell><cell>238</cell></row><row><cell>106.</cell><cell>To C. Kossmaly - -</cell><cell><hi rend="italic">May</hi> 5, 1843 - -</cell><cell>240</cell></row><row><cell>107.</cell><cell>To Johannes Verhulst -</cell><cell><hi rend="italic">June</hi> 19, 1843 - -</cell><cell>243</cell></row><row><cell>108.</cell><cell>To Dr. E. Krüger - -</cell><cell><hi rend="italic">Undated</hi> [<hi rend="italic">October,</hi> 1844]</cell><cell>246</cell></row><row><cell>109.</cell><cell>To Mendelssohn - -</cell><cell><hi rend="italic">Undated</hi> [<hi rend="italic">Sept.,</hi> 1845] -</cell><cell>248</cell></row><row><cell>110.</cell><cell>„ „ - -</cell><cell><hi rend="italic">October</hi> 22, 1845 -</cell><cell>249</cell></row><row><cell>111.</cell><cell>To Ludwig Meinardus -</cell><cell><hi rend="italic">September</hi> 3, 1846 -</cell><cell>251</cell></row><row><cell>112.</cell><cell>To Friedrich Hebbel -</cell><cell><hi rend="italic">May</hi> 14, 1847 - -</cell><cell>254</cell></row><row><cell>113.</cell><cell>To F. Brendel - -</cell><cell><hi rend="italic">August</hi> 8, 1847 - -</cell><cell>256</cell></row><row><cell>114.</cell><cell>To D. G. Otten - -</cell><cell><hi rend="italic">April</hi> 2, 1849 - -</cell><cell>259</cell></row><pb xml:id="page-17" n="ix"/><row role="label"><cell>LETTER</cell><cell></cell><cell></cell><cell>PAGE</cell></row><row><cell>115.</cell><cell>To Franz Liszt</cell><cell><hi rend="italic">May</hi> 31, 1849</cell><cell>261</cell></row><row><cell>116.</cell><cell>To F. Brendel</cell><cell><hi rend="italic">September</hi> 18, 1849</cell><cell>263</cell></row><row><cell>117.</cell><cell>To F. Hiller</cell><cell><hi rend="italic">November</hi> 19, 1849</cell><cell>265</cell></row><row><cell>118.</cell><cell>„ „</cell><cell><hi rend="italic">December</hi> 3, 1849</cell><cell>267</cell></row><row><cell>119.</cell><cell>To R. Pohl</cell><cell><hi rend="italic">February</hi> 14, 1851</cell><cell>268</cell></row><row><cell>120.</cell><cell>To Moritz Horn</cell><cell><hi rend="italic">April</hi> 21, 1851</cell><cell>270</cell></row><row><cell>121.</cell><cell>To R. Pohl</cell><cell><hi rend="italic">May</hi> 13, 1851</cell><cell>271</cell></row><row><cell>122.</cell><cell>To J. N.</cell><cell><hi rend="italic">September</hi> 22, 1851</cell><cell>272</cell></row><row><cell>123.</cell><cell>To Franz Liszt</cell><cell><hi rend="italic">December</hi> 25, 1851</cell><cell>274</cell></row><row><cell>124.</cell><cell>To Friedrich Hebbel</cell><cell><hi rend="italic">March</hi> 14, 1853</cell><cell>275</cell></row><row><cell>125.</cell><cell>To H. Krigar</cell><cell><hi rend="italic">March</hi> 16, 1853</cell><cell>276</cell></row><row><cell>126.</cell><cell>To C. von Bruyck</cell><cell><hi rend="italic">May</hi> 8, 1853</cell><cell>277</cell></row><row><cell>127.</cell><cell>To Joachim</cell><cell><hi rend="italic">June</hi> 8, 1853</cell><cell>278</cell></row><row><cell>128.</cell><cell>„</cell><cell><hi rend="italic">October</hi> 8, 1853</cell><cell>280</cell></row><row><cell>129.</cell><cell>„</cell><cell><hi rend="italic">October</hi> 13, 1853</cell><cell>282</cell></row><row><cell>130.</cell><cell>„</cell><cell><hi rend="italic">February</hi> 6, 1854</cell><cell>283</cell></row></table>
 <p rend="heading">APPENDIX</p>
 <p rend="toc_entry"><hi rend="smallcaps">The Deepening Twilight</hi> - - - - - 285</p>
-<table><row><cell>131.</cell><cell>To his Wife</cell><cell><hi rend="italic">September</hi> 14, 1854</cell><cell>288</cell></row><row><cell>132.</cell><cell>„ „</cell><cell><hi rend="italic">September</hi> 18, 1854</cell><cell>290</cell></row><row><cell>133.</cell><cell>To Johannes Brahms</cell><cell><hi rend="italic">November</hi> 27, 1854</cell><cell>293</cell></row></table>
+<table cols="4" rows="3"><row><cell>131.</cell><cell>To his Wife</cell><cell><hi rend="italic">September</hi> 14, 1854</cell><cell>288</cell></row><row><cell>132.</cell><cell>„ „</cell><cell><hi rend="italic">September</hi> 18, 1854</cell><cell>290</cell></row><row><cell>133.</cell><cell>To Johannes Brahms</cell><cell><hi rend="italic">November</hi> 27, 1854</cell><cell>293</cell></row></table>
 <p rend="toc_entry"><hi rend="smallcaps">Index</hi> - - - - - - - - - 295</p>
 </div>
 <div xml:id="div-unit-0005" type="narrative">
@@ -622,6 +628,8 @@ ROBERT SCHUMANN</head>
 <note place="foot" xml:id="fn-p0025-1" n="1"><p>See Schumann's letter to his wife from Endenich, September 14, 1854.</p></note>
 </div>
 </div>
+    </front>
+    <body>
       <div xml:id="sec-sec-02" type="chapter">
 <head>BOOK I. STURM UND DRANG</head>
 <div xml:id="div-unit-0007" type="narrative">
@@ -889,7 +897,7 @@ ROBERT SCHUMANN</head>
 <p rend="indented">You cannot believe how I long to be back with you both! I need to be with people who will draw me upward to a higher level. I am so apt to be proud and cynical with my equals or with people from whom I can admit no criticism. I shall never agree with Dorn,<ref xml:id="fnref-p0096-2" type="noteref" target="#fn-p0096-2">2</ref> who is bent on persuading me <pb n="71"/> that a fugue is the whole of music. How very differently people are constituted! Yet I admit that the theoretical studies have done me good; for where I was once content to transfer to paper the impulse of the moment, I now stand critically aside to watch the play of my inspiration, pausing now and again to take my bearings. I wonder if you ever passed through this kind of a haze yourself. There are, as I think, some who, like Mozart, never experience it; others, like Hummel, steer their way through; others, again, like Schubert, never come out of it; while some can even laugh at it with Beethoven.</p>
 <p rend="indented">And now, how are you? Do not be alarmed at a certain incoherence in this letter, for I have so much to tell you that I hardly know where to begin.</p>
 <p rend="indented">Chopin's Op. 1 (which I firmly believe to be Op. 10 at least) lies before me. A lady might call it quite pretty and piquant, rather like Moscheles. But I think you will let Clara learn it, for it is full of inspiration, and presents few difficulties. I modestly maintain, however, that it is separated from Op. 2 by a period of two years and a score of other compositions. . . .</p>
-<floatingText type="enclosure"><body><div><pb xml:id="page-97" n="71"/><head rend="center">27.</head>
+<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>27. To Clara Wieck (enclosed in the above).</p></div></front><body><div><pb xml:id="page-97" n="71"/><head rend="center">27.</head>
 <head rend="center"><hi rend="italic">To Clara Wieck (enclosed in the above).</hi></head>
 <opener><salute><hi rend="smallcaps">My very dear Clara,</hi></salute></opener>
 <p rend="indented">I could hardly repress a smile yesterday when I read in the <hi rend="italic">Didaskalia</hi> that ‘ Fräulein Clara <pb xml:id="page-98" n="72"/> Wieck ' had been playing variations by Herz, etc. Forgive this levity, my dear Fräulein, but surely the best title is—none at all. Who would say Herr Paganini or Herr Goethe ? I know you are of a thoughtful turn, and understand your crazy old inventor of charades. You are to me, my dear Clara, not a sister or a girl friend, but the pilgrim's distant shrine. While you have been away I have been to Arabia for fairy tales likely to please you. There are six new ones of a man haunted by his double, a hundred and one charades, eight droll riddles, some delightfully creepy robber tales, and a white ghost story, which positively makes me shudder. Alwin<ref xml:id="fnref-p0098-1" type="noteref" target="#fn-p0098-1">1</ref> has grown into quite a nice boy. His new blue overcoat and his leather cap, which is just like mine, suit him uncommonly well. There is no startling news of Gustav, except that he has grown so tremendously that you will hardly know him. . . . Clemens is the drollest little fellow, very lovable and very obstinate. He talks like a book, and has the most sonorous voice. He has grown a good deal too. Alwin's violin will run away with him one of these days. . . . Have you been composing vigorously ? And if so, what ? In my dreams I sometimes hear music—it must be yours.</p>
@@ -954,7 +962,7 @@ ROBERT SCHUMANN</head>
 <opener><dateline rend="right"><hi rend="smallcaps">Leipzig</hi>, <hi rend="italic">August</hi> 6, 1833.</dateline></opener>
 <p rend="indented">. . . If I understood you aright, you said, ‘Put all your heart into the matter, and I promise you my help, but if you grow lukewarm ! . . .’ I retire, were you going to say ? Are you not co-editor of the paper, and, as such, willing to take your share of weal or woe ? If you indeed cast in your lot with us, as your interest in the affair led me to <pb xml:id="page-113" n="87"/> believe, can a supposed coolness on my part be any excuse for your falling-off? Is your support really so half-hearted?</p>
 <p rend="indented">To anyone with whose manner of speech I am less familiar, I should have answered bluntly: ‘Take all the honours yourself; all I ask is that you apply the curb when my ardour runs away with me, while I, for my part, undertake to do the same by you. But it is only fair that you should lend me your spurs if I flag.’ Am I, then, so greedy of fame, or so much in love with editorship—if, indeed, you dignify the charge of correspondence, etc., by that name? If you do not consider this the greatest possible sacrifice on my side, I shall not, of course, be able to convince you. I only undertake it because I am best acquainted with the circumstances, and because I am reluctant to give up an idea which is, I see, fraught with incalculable educational benefit both to mind and to heart.</p>
-<p rend="indented">But as I may claim to know your way of talking, and am possibly taking you too seriously, I prefer to understand you as expressing some doubt as to my future perseverance, which I recognize as reasonable <pb xml:id="page-114" n="88"/> . For who will guarantee me against unforeseen changes and disturbances? Did I not say I could only promise regular assistance for two years at most, which does not necessarily imply complete severance at the end of that period? Two years would be long enough for me to learn something of business routine, to gain strength and clearness, without pedantry, in my views on art, and that without endangering my enjoyment of art for its own sake. But I confess I should like your words modified somewhat. Let us work in concert, so that if one sleeps the other is up and doing; if one draws in his horns, the other thrusts his out.</p>
+<p rend="indented">But as I may claim to know your way of talking, and am possibly taking you too seriously, I prefer to understand you as expressing some doubt as to my future perseverance, which I recognize as reasonable. <pb xml:id="page-114" n="88"/> For who will guarantee me against unforeseen changes and disturbances? Did I not say I could only promise regular assistance for two years at most, which does not necessarily imply complete severance at the end of that period? Two years would be long enough for me to learn something of business routine, to gain strength and clearness, without pedantry, in my views on art, and that without endangering my enjoyment of art for its own sake. But I confess I should like your words modified somewhat. Let us work in concert, so that if one sleeps the other is up and doing; if one draws in his horns, the other thrusts his out.</p>
 <p rend="indented">I claim your indulgence for my outspokenness, but, indeed, if our structure begins to shake in these early days of its foundation, the subsequent collapse is easy to foresee. If so complicated an undertaking is to be carried through at all, its promoters must give each other mutual and unconditional support. If your own support is conditional, as your letter of yesterday would seem to indicate, the fulfilment of the scheme must necessarily suffer.</p>
 <p rend="indented">I am not so foolish as to suppose that there is anything new to you in this letter, but I think you will hardly refuse my request to-day for an explanation of your attitude.</p>
 </div>
@@ -1093,7 +1101,7 @@ ROBERT SCHUMANN</head>
 <head rend="center"><hi rend="italic">To J. Fischhof.</hi><ref xml:id="fnref-p0145-1" type="noteref" target="#fn-p0145-1">1</ref></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Leipzig</hi>, <hi rend="italic">August 5,</hi> 1838.</dateline><salute><hi rend="smallcaps">My dear Friend</hi>,</salute></opener>
 <p rend="indented">I received your kind letter just as I was thinking of sitting down to write to you about a very important matter, as it happens, in which I need the advice of a tried friend like yourself. You must not be surprised if within a few months my double—that is, myself—comes knocking at your door, and announces that he is going to spend the next few years in Vienna, and perhaps settle there for good. . . . More when I see you ; I cannot write it. It is settled that I must be in Vienna by October at the latest. And the paper ? you will ask. Of course, I am not giving it up. Oswald Lorenz is looking after it from October to December, and from January onwards it is to be printed in Vienna, where I need your kind help. We must, of course, have a license for it, which is, I suppose, to be obtained from the censor's office under Count Sedlnitzky. I am convinced that they will not raise any great difficulties, as it is purely an art paper, and has from the first circulated in the Austrian States ; but, knowing from hearsay how cautious <pb xml:id="page-146" n="120"/> the authorities are, and how slowly such transactions are put through, I must set the matter in motion at once, and send in my request for permission to bring out the paper in Vienna immediately, if the first number of the new volume is to be distributed from Vienna in the middle of December. As I am entirely ignorant of the form and phrasing in which such a request should be couched for Austria, I beg you to come to the help of a poor artist who has had no experience of the administration and the censorship. I shall never forget any obligation to you in this matter.</p>
-<p rend="indented">Would you, then, please ask your lawyer to whom the request should be addressed, and how it should be worded? Perhaps you could ask him to draw up the actual petition by the aid of my sketch over the page, and send it on to me. I could then have a fair copy made, and perhaps send it to Sedlnitzky through our Ambassador, Prince Schönburg, to whom I have an introduction. Then, can you tell me whether the Viennese authorities will require information relative to my previous occupation, my financial position (my affairs are all in order), and so on, and if I ought to produce this with the petition? Lastly, whom do you recommend as agent for Friese? We have tried Haslinger and Diabelli, but neither of them responds as we should have liked. I should prefer a bookseller in any case, as I should then have nothing to fear from possible interference on the part of publishers. Friese is still to be the publisher; I am the proprietor <pb xml:id="page-147" n="121"/> . He really likes the idea of the change, as he only stands to gain by it. The paper would have on it the name of a Vienna firm, as well as his. I should have to begin a fresh sheet were I to tell you all the beautiful things I expect from the future: how the journal is to enlarge its range, to increase its influence, and form a bond between north and south. You are the only man I know in Vienna who is intelligent, as well as thorough and modest. You will not be disappointed in me, or lose your friendly feeling for me? Do you not also look forward to much that is beautiful in the future, which will surely not deceive us?</p>
+<p rend="indented">Would you, then, please ask your lawyer to whom the request should be addressed, and how it should be worded? Perhaps you could ask him to draw up the actual petition by the aid of my sketch over the page, and send it on to me. I could then have a fair copy made, and perhaps send it to Sedlnitzky through our Ambassador, Prince Schönburg, to whom I have an introduction. Then, can you tell me whether the Viennese authorities will require information relative to my previous occupation, my financial position (my affairs are all in order), and so on, and if I ought to produce this with the petition? Lastly, whom do you recommend as agent for Friese? We have tried Haslinger and Diabelli, but neither of them responds as we should have liked. I should prefer a bookseller in any case, as I should then have nothing to fear from possible interference on the part of publishers. Friese is still to be the publisher; I am the proprietor. <pb xml:id="page-147" n="121"/> He really likes the idea of the change, as he only stands to gain by it. The paper would have on it the name of a Vienna firm, as well as his. I should have to begin a fresh sheet were I to tell you all the beautiful things I expect from the future: how the journal is to enlarge its range, to increase its influence, and form a bond between north and south. You are the only man I know in Vienna who is intelligent, as well as thorough and modest. You will not be disappointed in me, or lose your friendly feeling for me? Do you not also look forward to much that is beautiful in the future, which will surely not deceive us?</p>
 <p rend="indented">I close my letter with unusual emotion, and with a grateful heart. Let me have your help, for my life’s happiness depends partly on it; I am no longer alone. All this is for your eyes only. . . .</p>
 <p rend="indented">The petition to be turned into the proper legal hash:—the undersigned, a Saxon by birth, resident in Leipzig, musician, editor and proprietor of the new <hi rend="italic">Zeitschrift für Musik,</hi> purposes, from love of his art and from business considerations, to exchange his present place of abode, Leipzig, for Vienna. The journal, which has always been devoted exclusively to musical matters, has had, since its beginning in 1834, the approval of the highest officials in the kingdom, and has been much read. He asks for permission to publish it in Vienna from January 1, 1839—that is, from the tenth volume—and will be happy to produce any necessary statements about his former circumstances. As he is <pb xml:id="page-148" n="122"/> prevented by business from coming to Vienna before the middle of October, he now sends in his petition with a request for consideration.</p>
 <p rend="indented">(All this with the proper professions of humility.)</p>
@@ -1173,7 +1181,7 @@ ROBERT SCHUMANN</head>
 <head rend="center">61.</head>
 <head rend="center"><hi rend="italic">To Keferstein.</hi></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Leipzig</hi>, <hi rend="italic">February 29, 1840.</hi></dateline></opener>
-<p rend="indented">My satisfaction is now complete. The eulogy<ref xml:id="fnref-p0166-1" type="noteref" target="#fn-p0166-1">1</ref> is so impressive that I suspect I have you to thank for it. It has given the greatest satisfaction to me and to my friends. A copy was sent first thing, of course, to a certain young lady who is still enough of a child to jump for joy at her new dignity in being betrothed to Dr. Schumann. She is sure to write and thank you herself, but you will have to wait until she goes to Berlin for the signed portrait. She keeps all her things there. The journey to Copenhagen, on which I was to have accompanied her and her mother, will probably be given up, as she dreads the crossing so very much. There is still a possibility of it, however <pb xml:id="page-167" n="141"/> . In any case, I shall soon see her, and I need hardly tell you what glorious times we shall have together at the piano and elsewhere. . . .</p>
+<p rend="indented">My satisfaction is now complete. The eulogy<ref xml:id="fnref-p0166-1" type="noteref" target="#fn-p0166-1">1</ref> is so impressive that I suspect I have you to thank for it. It has given the greatest satisfaction to me and to my friends. A copy was sent first thing, of course, to a certain young lady who is still enough of a child to jump for joy at her new dignity in being betrothed to Dr. Schumann. She is sure to write and thank you herself, but you will have to wait until she goes to Berlin for the signed portrait. She keeps all her things there. The journey to Copenhagen, on which I was to have accompanied her and her mother, will probably be given up, as she dreads the crossing so very much. There is still a possibility of it, however. <pb xml:id="page-167" n="141"/> In any case, I shall soon see her, and I need hardly tell you what glorious times we shall have together at the piano and elsewhere. . . .</p>
 </div>
 <div xml:id="div-letter-0061" type="letter" corresp="#letter-0061">
 <head rend="center">62.</head>
@@ -1294,13 +1302,13 @@ ROBERT SCHUMANN</head>
       <div xml:id="sec-sec-03" type="chapter">
 <head>BOOK II. THE FIGHT FOR CLARA (1836-1840)</head>
 <div xml:id="div-unit-0072" type="narrative">
-<pb xml:id="page-171" n="10"/><head rend="center">BOOK II</head>
+<pb xml:id="page-171" n="145"/><head rend="center">BOOK II</head>
 <head rend="center">THE FIGHT FOR CLARA (1836-1840)</head>
 <opener><pb xml:id="page-172" n="146"/><epigraph><p rend="indented">‘I will say no more of my happiness in possessing a girl with whom I have grown to be one through art, intellectual affinities, the regular intercourse of years, and the deepest and holiest affection. My whole life is one joyous activity.’—<hi rend="italic">To</hi> <hi rend="smallcaps">Eduard</hi> <hi rend="italic">and</hi> <hi rend="smallcaps">Karl Schumann</hi>, <hi rend="italic">March</hi> 19, 1838.</p></epigraph><epigraph><p rend="indented">‘No maiden, no angel from heaven, could be truer to me than you are; you alone could love me thus with a love so inexpressibly noble. I have no words for you; only a peep into my dreams could show you my thoughts of you. I hardly know what to say, but I have the beautiful consciousness of having been myself scrupulously true to you.’—<hi rend="italic">To</hi> <hi rend="smallcaps">Clara</hi>, <hi rend="italic">February</hi> 23, 1839.</p></epigraph></opener>
 <pb xml:id="page-173" n="147"/><p rend="heading">INTRODUCTION</p>
 <p><hi rend="smallcaps">Since</hi> music has so often been praised as the herald of love, as its special art and language, is there any wonder that in the history of music, and still more in the biographies of musicians, the passion is displayed under so many aspects ? Of all the stories and legends of love or marriage between musicians, whatever their human or their artistic interest, from J. S. Bach and his enthusiastic singer, Anna Magdalena, to Richard Wagner and Liszt's brilliant daughter Cosima—none offers so perfect a model as the union of Clara Wieck and Robert Schumann.</p>
 <p rend="indented">I do not believe that a similarly perfect example is to be found in the whole annals of art. Not only was each the heart's choice of the other, not only was it on either side the bitter-sweet love of youth, which touches the extremes of joy and despair—but they fought a hard fight in evil days before their happiness was won. They were two noble souls, distinguished by fastidious purity and true excellence of character—two buoyant minds consecrated to the service of art. And, to fill the measure of their happiness, they served the same art. Their marriage fairly symbolizes the union of the male and female elements in creative art. It is wonderful to observe how they adapted themselves one to the other ; how the man's artistic production was inspired and intensified by the woman's presence, and how her reproductive art reached its supreme <pb xml:id="page-174" n="148"/> excellence through his works. She was the ideal interpreter of her husband's music, and to her he entrusted his finest conceptions. May it not almost be called an actual marriage between the arts ? From Schumann's letters and those of his friends we gain a fair conception of their wedded happiness, but we find the real basis for our conclusions in the standard biography of <hi rend="italic">Clara Schumann</hi> (Breitkopf and Härtel, Leipzig, 1903-1905), by Berthold Litzmann, who is to be envied for his pleasant task. He may well say on his title-page, 'from diaries and letters,' for further reference was practically unnecessary. The diaries offer peculiarly interesting material in as great abundance as could be desired. There are in all forty-seven quarto volumes, which form an almost unbroken narrative of Clara Schumann's life, from her birth to the beginning of her last illness. True, her father made the greater proportion of the entries up to her nineteenth birthday (1838), but sufficient letters are available to give a vivid individual picture of her. Her father's collaboration throws some light on his own character, which, though insufficient to explain his strange subsequent behaviour, prevents us from conceiving him to be merely a madman or a criminal. Although made up of genuine letters and diaries which chronicle experiences and emotions, this book has all the fascination of an exciting novel, in which the art of the story-teller makes the joys and sorrows of his characters seem part of our personal experience. The personages of the drama might have stepped out of a novel. Between the hero and the heroine stands the lady's father, hard as stone, inexorable. The unfortunate girl has to choose between her father, to whom she owes everything and for whom she has a deep filial affection, and her lover, whom her father first rejects for no apparent reason, then repels with <pb xml:id="page-175" n="149"/> violence, and finally treats as a deadly enemy. Always capricious, but otherwise a man of strong and upright character, her father descends to heartless tyranny, and even to slander, as he sees his daughter, after her first hesitation and doubt, become more and more confirmed in her devotion to her lover. The whole affair is a puzzle. Schumann had proved the steadfastness of his love ; his powers were gaining increasing recognition, and he was able to offer his wife an assured future. Why, then, did this estimable teacher persist in opposing his daughter's marriage with the composer ? The conclusion drawn from many passages in the letters is that the old man was actuated by sheer jealousy and avarice. Yet, if he had consistently encouraged rich or aristocratic suitors, he had also favoured the pretensions of an ordinary piano teacher. This embittered struggle, which eventually became a tragi-comedy to the onlookers, was a real tragedy to the father—a tragedy to the artist in him.</p>
-<p rend="indented">Friedrich Wieck (1785-1873) remains one of the greatest pianoforte teachers of all time. He was not only absolutely conscientious, but passionately attached to his calling. In presenting his daughter to the world as a finished artist, he was peculiarly conscious of achieving his masterpiece. Even before her birth he had determined that, if a girl, she should become a great pianist, and should receive the name Clara as a presage of her brilliant destiny. He witnessed the splendid accomplishment of his task. The whole world paid tribute to his child ; he saw in her neither a phenomenal talent, nor a prodigy of iron diligence, but his own handiwork. She was both daughter and pupil. Then he saw her growing love for Robert Schumann, who had also been his pupil, but had only used Wieck's school as a means to higher ends. Schumann's nature was inaccessible to pedagogic instruction <pb xml:id="page-176" n="150"/> . His creative genius and native superiority of talent was to Wieck, whose art was purely reproductive, a standing reminder of his own creative impotence. Wieck knew well enough that once Clara became Schumann's wife, she would no longer take her art from her father direct. Had Schumann's music resembled that of Kalkbrenner, Herz, Hünten, or others of their fellows—music which is only effective in the hands of virtuosi—the case would have been different. He, however, wrote music which offered little scope for technical display but entirely captivated genuine artists. Wieck knew his daughter far too well not to foresee her whole-hearted enthusiasm for Schumann's music. He fought for the artist, not for the daughter. The artist was in a far higher degree his work; his creative power found its fullest expression in her. Could he see his work, the product of his own art, lost under the influence of another's personality and cease to exist, except in interpreting the creations of another man?</p>
+<p rend="indented">Friedrich Wieck (1785-1873) remains one of the greatest pianoforte teachers of all time. He was not only absolutely conscientious, but passionately attached to his calling. In presenting his daughter to the world as a finished artist, he was peculiarly conscious of achieving his masterpiece. Even before her birth he had determined that, if a girl, she should become a great pianist, and should receive the name Clara as a presage of her brilliant destiny. He witnessed the splendid accomplishment of his task. The whole world paid tribute to his child ; he saw in her neither a phenomenal talent, nor a prodigy of iron diligence, but his own handiwork. She was both daughter and pupil. Then he saw her growing love for Robert Schumann, who had also been his pupil, but had only used Wieck's school as a means to higher ends. Schumann's nature was inaccessible to pedagogic instruction. <pb xml:id="page-176" n="150"/> His creative genius and native superiority of talent was to Wieck, whose art was purely reproductive, a standing reminder of his own creative impotence. Wieck knew well enough that once Clara became Schumann's wife, she would no longer take her art from her father direct. Had Schumann's music resembled that of Kalkbrenner, Herz, Hünten, or others of their fellows—music which is only effective in the hands of virtuosi—the case would have been different. He, however, wrote music which offered little scope for technical display but entirely captivated genuine artists. Wieck knew his daughter far too well not to foresee her whole-hearted enthusiasm for Schumann's music. He fought for the artist, not for the daughter. The artist was in a far higher degree his work; his creative power found its fullest expression in her. Could he see his work, the product of his own art, lost under the influence of another's personality and cease to exist, except in interpreting the creations of another man?</p>
 <p rend="indented">Such was the nature of this often misunderstood and misrepresented struggle. The artist Wieck fought to retain possession of his own masterpiece. We must forgive the artist the faults of the man and the father.</p>
 <p rend="indented">The quarrel was fought out between these three principals. The others who were involved in it played no essential part, interesting as their rôles sometimes were. There was the gallery of the suitors whom the father inflicted on his daughter; also a Dr. Schilling, a wolf in sheep's clothing, who insinuated himself into the unsuspecting maiden's confidence by a pretended sympathy. But there were true friends who helped the lovers. The most touching figure is that of the elderly maid, Johanna Strobel, who was so taciturn that it was long before <pb xml:id="page-177" n="151"/> the girl ventured to confide in her, in spite of her constant and unmistakable love and fidelity to the motherless child. But the best part of the picture is formed by the lovers themselves, particularly by the woman, for in this union the woman had the stronger, one might almost say the more masculine soul. Clara was nine, when Schumann, at the age of eighteen (1828), became her father's pupil. The two soon became firm friends. He used to tell her fairy-tales ; even as a child she fascinated the artist in him, and her playing soon inspired him to compose. She quickly gained the fame which greets the virtuoso from all sides, while he painfully struggled up the thorny path of creative art. He formed an earlier attachment which proved mistaken, before he recognized that he felt more than friendship for the child in Wieck's house ; while her girlish precocity enabled her to realize what she seemed to be losing.</p>
 <p rend="indented">In November, 1835, they discovered their love for one another. Eventually they were able to marry on September 12, 1840, without the blessing of Clara's surly father, but with the full consent of her mother, who was separated from Wieck, and to whom the girl turned in her desolation.</p>
@@ -1347,10 +1355,10 @@ ROBERT SCHUMANN</head>
 <p rend="indented">Now that this vital question has found utterance I can again breathe freely, knowing myself to be full of good-will towards all men. I lay my future confidently in your hands. You owe it to my position, my talent and my character to give me a considerate and decisive answer. It would be most satisfactory if we could talk it over.</p>
 <p rend="indented">The moments which pass between now and then will be charged with the same emotion as that which thrills us when we listen for the thunderclap <pb n="160"/> after the flash, and tremble to know if it portends annihilation or a blessing. May your decision bring a blessing! I implore you, with a heart beating with love and fear, to renew your friendship with one of your oldest friends, and prove yourself the best possible father to the best of children.</p>
 <p rend="signature"><hi rend="smallcaps">Robert Schumann.</hi></p>
-<floatingText type="enclosure"><body><div><pb xml:id="page-186" n="160"/><head rend="center"><hi rend="italic">Enclosure to Frau Wieck.</hi></head>
+<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>Enclosure to Frau Wieck.</p></div></front><body><div><pb xml:id="page-186" n="160"/><head rend="center"><hi rend="italic">Enclosure to Frau Wieck.</hi></head>
 <quote><p rend="indented">Let me, above all, enlist your sympathy, my dear lady, on behalf of our future. I know that there is nothing of the step-mother in your attitude. Your clear-sightedness and kindly disposition, your genuine respect and love for Clara, will help you to find a way. We should all think it a calamity if the birthday of one who has contributed to the happiness of so many people should be turned into a day of sorrow. Will you not try to avert it?</p></quote>
 <closer><salute rend="right">Yours sincerely,</salute><signed rend="right">R. <hi rend="smallcaps">Schumann.</hi></signed></closer></div></body></floatingText>
-<floatingText type="enclosure"><body><div><head rend="center"><hi rend="italic">Enclosure to Clara.</hi></head>
+<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>Enclosure to Clara.</p></div></front><body><div><head rend="center"><hi rend="italic">Enclosure to Clara.</hi></head>
 <quote><p rend="indented">After our most painful separation, dear Clara, you will, I know, support me lovingly in all that I have said to your parents, and raise your voice where my words seem inadequate.<ref xml:id="fnref-p0186-1" type="noteref" target="#fn-p0186-1">1</ref></p></quote>
 <closer><salute rend="right">Your</salute><signed rend="right">R. S.</signed></closer></div></body></floatingText>
 </div>
@@ -1439,8 +1447,8 @@ ROBERT SCHUMANN</head>
 <p rend="indented">How happy your last letters have made me— those since Christmas Eve! I should like to call you by all the endearing epithets, and yet I can find no lovelier word than the simple word 'dear,' but there is a particular way of saying it. My dear one, then, I have wept for joy to think that you are mine, and often wonder if I deserve you. One would think that no one man's heart and brain could stand all the things that are crowded into one day. Where do these thousands of thoughts, wishes, sorrows, joys and hopes, come from? Day <pb xml:id="page-201" n="175"/> in, day out, the procession goes on. But how light-hearted I was yesterday and the day before! There shone out of your letters so noble a spirit, such faith, such a wealth of love! What would I not do for love of you, my own Clara! The knights of old were better off; they could go through fire or slay dragons to win their ladies, but we of to-day have to content ourselves with more prosaic methods, such as smoking fewer cigars, and the like. After all, though, we can love, knights or no knights; and so, as ever, only the times change, not men's hearts.</p>
 <p>I have a hundred things to write to you, great and small, if only I could do it neatly, but my writing grows more and more indistinct, a sign, I fear, of heart weakness. There are terrible hours when your image forsakes me, when I wonder anxiously whether I have ordered my life as wisely as I might, whether I had any right to bind you to me, my angel, or can really make you as happy as I should wish. These doubts all arise, I am inclined to think, from your father's attitude towards me. It is so easy to accept other people's estimate of oneself. Your father's behaviour makes me ask myself if I am really so bad—of such humble standing—as to invite such treatment from anyone. Accustomed to easy victory over difficulties, to the smiles of fortune, and to affection, I have been spoiled by having things made too easy for me, and now I have to face refusal, insult, and calumny. I have read of many such things in novels, but I <pb xml:id="page-202" n="176"/> thought too highly of myself to imagine I could ever be the hero of a family tragedy of the Kotzebue sort myself. If I had ever done your father an injury, he might well hate me ; but I cannot see why he should despise me and, as you say, hate me without any reason. But my turn will come, and I will then show him how I love you and himself ; for I will tell you, as a secret, that I really love and respect your father for his many great and fine qualities, as no one but yourself can do. I have a natural inborn devotion and reverence for him, as for all strong characters, and it makes his antipathy for me doubly painful. Well, he may some time declare peace, and say to us, ‘ Take each other, then.’</p>
 <p rend="indented">You cannot think how your letter has raised and strengthened me. . . . You are splendid, and I have much more reason to be proud of you than you of me. I have made up my mind, though, to read all your wishes in your face. Then you will think, even though you don’t say it, that your Robert is a really good sort, that he is entirely yours, and loves you more than words can say. You shall indeed have cause to think so in the happy future. I still see you as you looked in your little cap that last evening. I still hear you call me <hi rend="italic">du</hi>. Clara, I heard nothing of what you said but that <hi rend="italic">du</hi>. Don’t you remember ?</p>
-<p rend="indented">But I see you in many another unforgettable guise. Once you were in a black dress, going to the theatre with Emilia List ; it was during our <pb xml:id="page-203" n="177"/> <pb xml:id="page-205" n="177"/> separation. I know you will not have forgotten ; it is vivid with me, Another time you were walking in the Thomasgässchen with an umbrella up, and you avoided me in desperation. And yet another time, as you were putting on your hat after a concert, our eyes happened to meet, and yours were full of the old unchanging love. I picture you in all sorts of ways, as I have seen you since. I did not look at you much, but you charmed me so immeasurably. . . . Ah, I can never praise you enough for yourself or for your love of me, which I don't really deserve.</p>
-<figure type="illustration"><figDesc>illustration on p. 177</figDesc></figure>
+<p rend="indented">But I see you in many another unforgettable guise. Once you were in a black dress, going to the theatre with Emilia List ; it was during our <pb xml:id="page-203" n="203"/> <pb xml:id="page-205" n="177"/> separation. I know you will not have forgotten ; it is vivid with me, Another time you were walking in the Thomasgässchen with an umbrella up, and you avoided me in desperation. And yet another time, as you were putting on your hat after a concert, our eyes happened to meet, and yours were full of the old unchanging love. I picture you in all sorts of ways, as I have seen you since. I did not look at you much, but you charmed me so immeasurably. . . . Ah, I can never praise you enough for yourself or for your love of me, which I don't really deserve.</p>
+<figure type="illustration"><figDesc>illustration on p. 203</figDesc></figure>
 <p rend="caption">E. Fechner. Del.</p>
 <p rend="caption">Emery Walker Ph. Sc.</p>
 <p rend="caption">Clara Schumann<lb/>1832</p>
@@ -1607,7 +1615,7 @@ ROBERT SCHUMANN</head>
 <opener><dateline rend="right"><hi rend="smallcaps">Leipzig,</hi><lb/><hi rend="italic">Saturday morning, May</hi> 4, 1839.</dateline><salute rend="indented">My <hi rend="smallcaps">Heart's Dearest</hi> (so soon to be my wife) !</salute></opener>
 <p rend="indented">I spent yesterday morning with Reuter, making careful calculations, and came to the conclusion that we have been making mountains out of molehills. There is nothing to prevent our being married to-morrow if you, you obstinate little person, were willing. . . .</p>
 <p rend="indented">Our wealth seems to me quite terrific when I compare it with that of some people. How fortunate we are not to be obliged to work for our daily bread ! There is just enough for two artists with simple tastes like ourselves. The idea makes me so happy.</p>
-<pb xml:id="page-234" n="206"/><table><row><cell>Your capital ... ... ... ...</cell><cell>4,000 talers.</cell></row><row><cell>My capital: 1. Government stock ...</cell><cell>1,000 „</cell></row><row><cell>2. With Karl ... ...</cell><cell>4,000 „</cell></row><row><cell>3. With Eduard ...</cell><cell>3,540 „</cell></row><row><cell>4. From Eduard's estate</cell><cell>1,500 „</cell></row><row><cell>14,040 talers.</cell></row><row><cell>Interest ... ... ...</cell><cell>560 talers.</cell></row><row><cell>Other sources of yearly income :</cell></row><row><cell>From Friese<ref xml:id="fnref-p0234-1" type="noteref" target="#fn-p0234-1">1</ref> ... ...</cell><cell>624 talers.</cell></row><row><cell>Sale of music ... ...</cell><cell>100 „</cell></row><row><cell>From compositions ... ...</cell><cell>100 „</cell></row><row><cell>Total yearly income ...</cell><cell>1,384 talers.</cell></row></table>
+<pb xml:id="page-234" n="206"/><table cols="2" rows="12"><row><cell>Your capital ... ... ... ...</cell><cell>4,000 talers.</cell></row><row><cell>My capital: 1. Government stock ...</cell><cell>1,000 „</cell></row><row><cell>2. With Karl ... ...</cell><cell>4,000 „</cell></row><row><cell>3. With Eduard ...</cell><cell>3,540 „</cell></row><row><cell>4. From Eduard's estate</cell><cell>1,500 „</cell></row><row><cell>14,040 talers.</cell></row><row><cell>Interest ... ... ...</cell><cell>560 talers.</cell></row><row><cell>Other sources of yearly income :</cell></row><row><cell>From Friese<ref xml:id="fnref-p0234-1" type="noteref" target="#fn-p0234-1">1</ref> ... ...</cell><cell>624 talers.</cell></row><row><cell>Sale of music ... ...</cell><cell>100 „</cell></row><row><cell>From compositions ... ...</cell><cell>100 „</cell></row><row><cell>Total yearly income ...</cell><cell>1,384 talers.</cell></row></table>
 <p>Am I not a famous arithmetician ! . . . Supposing I were to insist, could you refuse to come to me now ? And is there not a margin left for an occasional bottle of champagne, or a little present to Theresa, should she need it, or to your mother ? You see, you need not worry any more, my Clärchen. I am quite as cautious as you ; I know the value of money, if anyone does. I assure you I have sometimes to guard against miserliness.</p>
 </div>
 <div xml:id="div-letter-0087" type="letter" corresp="#letter-0087">
@@ -1620,9 +1628,9 @@ ROBERT SCHUMANN</head>
 <p rend="indented">Listen, my Clärchen, our plan of waiting until Christmas before writing to your father is no good. We must do it sooner. . . . I therefore enclose two documents. The one addressed to your father I propose to send a few days before your birthday ; the other we shall present to the court without delay in the case of your father's refusal. . . .</p>
 <p rend="indented">There is no other way of deciding the matter. I cannot impress it upon you too strongly, my dear Clara. . . .</p>
 <p rend="indented">. . . One thing more, my Clara, that you may be sure of me on every point. You have sometimes asked whether the financial cares of everyday life would not overwhelm me. In the first place, we need have no cares ; but should this be the case, I would meet them smiling, even with the half of what we have. To have debts which I was unable to pay would harass me, but nothing else. I am too much of an idealist. But you must not jump to the conclusion that I am imprudent ; have I not shown that I can be parsimonious—for your sake ? . . .</p>
-<floatingText type="enclosure"><body><div><pb xml:id="page-238" n="210"/><head rend="center"><hi rend="italic">Schumann's Letter to Friedrich Wieck.</hi><ref xml:id="fnref-p0238-1" type="noteref" target="#fn-p0238-1">1</ref></head>
+<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>Schumann&#x27;s Letter to Friedrich Wieck.1</p></div></front><body><div><pb xml:id="page-238" n="210"/><head rend="center"><hi rend="italic">Schumann's Letter to Friedrich Wieck.</hi><ref xml:id="fnref-p0238-1" type="noteref" target="#fn-p0238-1">1</ref></head>
 <p rend="indented">Once more I ask you, in Clara's name and my own, to give your consent to our union next Easter. Two years have passed since my first appeal. You doubted our constancy ; but it has stood the test, and our confidence in a happy future is unshaken.</p>
-<p rend="indented">My former statement as to my means was exact. They are now better and more assured, and we can face the future fearlessly. Oh, be moved by the ties of nature ! Do not drive us to extremes. Clara's twentieth birthday is close at hand. Give your consent, and make it a day of peace. Give us rest after our hard fight. You owe it to yourself <pb xml:id="page-239" n="211"/> , to Clara, and to me. I shall await your final decision anxiously.</p>
+<p rend="indented">My former statement as to my means was exact. They are now better and more assured, and we can face the future fearlessly. Oh, be moved by the ties of nature ! Do not drive us to extremes. Clara's twentieth birthday is close at hand. Give your consent, and make it a day of peace. Give us rest after our hard fight. You owe it to yourself, <pb xml:id="page-239" n="211"/> to Clara, and to me. I shall await your final decision anxiously.</p>
 <closer><salute rend="indented">As of old, yours in affection and confidence,</salute><signed rend="right">R. <hi rend="smallcaps">Schumann.</hi></signed></closer></div></body></floatingText>
 <p rend="indented">Dear Clara, the letter is cold, but one might as well try to be affectionate towards a block of ice. It is the best I can do. Tell me what you think of it. Hermann<ref xml:id="fnref-p0239-1" type="noteref" target="#fn-p0239-1">1</ref> is responsible for the greater part of the following letter :</p>
 <floatingText type="enclosure"><body><div><quote><p rend="indented">We, the undersigned, have long entertained a strong mutual desire to be united in matrimony. There is an obstacle in our path which prevents the fulfilment of our desire. We are therefore, to our great regret, driven to seek this means of removing it. The father of the undersigned Clara Wieck persists in withholding his consent, despite our repeated requests. We are at a loss to understand the grounds of his refusal. We have not consciously offended in any way. Our financial position ensures freedom from anxiety. Herr Wieck's objection can only be due to a personal hostility to the undersigned, who, for his part, is under the impression that he amply fulfilled his obligations to his future wife's father. In any case, we are not inclined to go back on our carefully weighed resolution. We therefore present our petition as follows :</p></quote>
@@ -1781,9 +1789,9 @@ ROBERT SCHUMANN</head>
       <div xml:id="sec-sec-04" type="chapter">
 <head>BOOK III. AT THE ZENITH (1840-1854)</head>
 <div xml:id="div-unit-0114" type="apparatus">
-<pb xml:id="page-259" n="233"/><head rend="center">BOOK III
+<pb xml:id="page-259" n="231"/><head rend="center">BOOK III
 AT THE ZENITH (1840-1854)</head>
-<pb xml:id="page-260" n="234"/><quote><p rend="indented">‘The man and the musician in me have always struggled to manifest themselves simultaneously; indeed, this is still the case, although I have attained some degree of mastery over both.’—<hi rend="italic">To</hi> C. K<hi rend="smallcaps">ossmaly</hi>, <hi rend="italic">May</hi> 5, 1843.</p></quote>
+<pb xml:id="page-260" n="232"/><quote><p rend="indented">‘The man and the musician in me have always struggled to manifest themselves simultaneously; indeed, this is still the case, although I have attained some degree of mastery over both.’—<hi rend="italic">To</hi> C. K<hi rend="smallcaps">ossmaly</hi>, <hi rend="italic">May</hi> 5, 1843.</p></quote>
 <quote><p rend="indented">‘I am happy in the knowledge that greater achievements lie between me and the distant goal, of the attainment of which I am nevertheless confident.’—<hi rend="italic">From the Diary, September</hi> 13, 1840.</p></quote>
 <quote><p rend="indented">‘We are all pretty well; the melancholy birds of night still flit round me from time to time, yet they can be driven off by music.’—<hi rend="italic">To</hi> V<hi rend="smallcaps">erhulst</hi>, <hi rend="italic">November</hi> 4, 1848.</p></quote>
 </div>
@@ -2048,7 +2056,7 @@ AT THE ZENITH (1840-1854)</head>
 <p rend="indented">I have been busy, too, just now, over four fantastic pieces for clarinet, viola, and pianoforte,<ref xml:id="fnref-p0310-1" type="noteref" target="#fn-p0310-1">1</ref> which now anxiously await a visit from the first violinist of the royal Hanoverian Court and State to gain them a hearing. Johannes seems very industrious. These last three days he has been practising a great deal, fired by my wife's example, perhaps. We were amazed to hear him yesterday, the difference was so great. He is capable of putting ‘a girdle round about the earth in forty minutes.’</p>
 <p rend="indented">The other day I proposed a health in the form of a charade. My first was one loved by a god, my second and third one loved by many readers, and my whole, one beloved of us all. Long life to the whole in person !<ref xml:id="fnref-p0310-2" type="noteref" target="#fn-p0310-2">2</ref></p>
 <closer><salute rend="right">Yours in friendship,</salute><signed rend="right">R. <hi rend="smallcaps">Sch.</hi></signed></closer>
-<postscript><p rend="postscript">I have begun to collect and arrange my ideas on the young eagle. Much as I should like to assist him in his first public flight, I fear that my personal attachment is too great to admit of an impartial consideration of the lights and shadows of his plumage. When I come to a conclusion, which</p><pb xml:id="page-311" n="283"/><p>may be within a few days, I shall impart it to his playmate and companion-in-arms, who knows him even better than I.</p><p rend="dateline"><hi rend="italic">October</hi> 14.</p><p rend="indented">I have finished my essay, which I enclose. Please return it as soon as possible, together with the score of the concerto, as the parts have still to be copied.</p></postscript>
+<postscript><p rend="postscript">I have begun to collect and arrange my ideas on the young eagle. Much as I should like to assist him in his first public flight, I fear that my personal attachment is too great to admit of an impartial consideration of the lights and shadows of his plumage. When I come to a conclusion, which <pb xml:id="page-311" n="283"/> may be within a few days, I shall impart it to his playmate and companion-in-arms, who knows him even better than I.</p><p rend="dateline"><hi rend="italic">October</hi> 14.</p><p rend="indented">I have finished my essay, which I enclose. Please return it as soon as possible, together with the score of the concerto, as the parts have still to be copied.</p></postscript>
 </div>
 <div xml:id="div-letter-0130" type="letter" corresp="#letter-0130">
 <head rend="center">130.</head>
@@ -2130,14 +2138,15 @@ AT THE ZENITH (1840-1854)</head>
 <note place="foot" xml:id="fn-p0312-1" n="1"><p>In G minor, Op. 3.</p></note>
 </div>
 </div>
+    </body>
+    <back>
       <div xml:id="sec-sec-05" type="appendix">
 <head>APPENDIX. THE DEEPENING TWILIGHT (1854-1856)</head>
 <div xml:id="div-unit-0146" type="narrative">
 <pb xml:id="page-313" n="285"/><head rend="center">APPENDIX</head>
 <head rend="center">THE DEEPENING TWILIGHT (1854-1856)</head>
 <p>‘I <hi rend="smallcaps">will</hi> close now. It is growing dark.’ So the last letter ended. It was indeed growing dark in Schumann’s mind, and he was soon to be compelled to lay down his life-work for ever. Ruppert Becker, a member of the Düsseldorf orchestra, whose father had been Schumann’s friend in the days of his hardest struggle, gives in his diary an account of his condition at that time. I quote from Jansen’s new series of Schumann’s letters (p. 533).</p>
-<quote><p>‘<hi rend="italic">February</hi> 14<hi rend="italic">th.</hi>—Schumann was speaking to-day of a curious illusion of which he has been conscious for several days past. He hears inwardly exquisite musical compositions, perfect in form. The sound is generally that of distant wind-instruments, playing particularly beautiful harmonies. His inward concert actually began while we were sitting at Junge’s,<ref xml:id="fnref-p0313-1" type="noteref" target="#fn-p0313-1">1</ref> forcing him to put away the paper he was reading. Heaven send this may mean nothing serious! So it would be, he said, in the other world, when our souls have laid aside their bodily vestment. It seems so strange that this curious</p></quote>
-<pb xml:id="page-314" n="286"/><p>illusion should possess Schumann just now, when he has composed nothing for two months or more.’</p>
+<quote><p>‘<hi rend="italic">February</hi> 14<hi rend="italic">th.</hi>—Schumann was speaking to-day of a curious illusion of which he has been conscious for several days past. He hears inwardly exquisite musical compositions, perfect in form. The sound is generally that of distant wind-instruments, playing particularly beautiful harmonies. His inward concert actually began while we were sitting at Junge’s,<ref xml:id="fnref-p0313-1" type="noteref" target="#fn-p0313-1">1</ref> forcing him to put away the paper he was reading. Heaven send this may mean nothing serious! So it would be, he said, in the other world, when our souls have laid aside their bodily vestment. It seems so strange that this curious <pb xml:id="page-314" n="286"/> illusion should possess Schumann just now, when he has composed nothing for two months or more.’</p></quote>
 <p rend="indented">‘<hi rend="italic">February 21st.</hi>—The blow of which I could not trust myself to think has fallen; Schumann has been out of his mind for some days. I only heard of it yesterday from Dietrich, who further informed me that Frau Schumann is glad when anyone comes to relieve her from her unceasing watch over him. I went to see him to-day accordingly, but should never have suspected his condition, had not Dietrich assured me of it. I found him just as usual; chatted with him for half an hour, and then took leave. Frau Schumann looks worse than I have ever seen her. If no change comes, the worst is to be feared for her. To think that in her delicate condition<ref xml:id="fnref-p0314-1" type="noteref" target="#fn-p0314-1">1</ref> she has not once been able to close her eyes since his illness set in. Poor, unhappy lady! She sits by the bedside all night, listening for the least movement.’</p>
 <p rend="indented">Becker saw Schumann for the last time on February 24. He writes: ‘I called in the afternoon, and Frau Schumann asked me to go for a walk with him. During the hour I spent with him, he talked quite sensibly, except when he told me that Franz Schubert had appeared to him, and had played him an exquisite melody; he had, he further assured me, written this down and composed variations on it.’</p>
 <p rend="indented">When Becker returned to Düsseldorf on the 27th after one or two days’ absence, he wrote: ‘What <pb xml:id="page-315" n="287"/> terrible news awaited me! Schumann stole out of his room about noon, in felt slippers, and, going straight to the Rhine, walked on to the middle of the bridge, and flung himself into the water. Happily, he had attracted attention at the entrance to the bridge by offering his silk handkerchief for toll, having no money with him. Several fishermen kept him in sight, and by pushing out in a boat, immediately after his plunge, were able to save him.’</p>
@@ -2168,7 +2177,7 @@ AT THE ZENITH (1840-1854)</head>
 <pb xml:id="page-321" n="293"/><head rend="center">133.</head>
 <head rend="center"><hi rend="italic">To Johannes Brahms.</hi></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Endenich</hi>, <hi rend="italic">November</hi> 27, 1854.</dateline></opener>
-<p>How I long to see you, dear friend, and hear your lovely <hi rend="italic">Variations</hi><ref xml:id="fnref-p0321-1" type="noteref" target="#fn-p0321-1">1</ref> played either by you or by Clara, of whose beautiful rendering Joachim told me in his letter. There is an exquisite coherence about the whole work, a wealth of fantastic glamour peculiarly your own, and, moreover, evidence of what is to me a new development on your part—I mean the profound skill with which you introduce the theme at odd moments, mysteriously, passionately, and again let it disappear completely. Then the wonderful close to the 14th variation, with its ingenious imitation in the second above ; the 15th in G flat, with its glorious second part ; and the last ! Thank you, too, my dear Johannes, for all your kindness to my Clara. She speaks of it constantly in her letters. Yesterday, as perhaps you know, she sent me two volumes of my compositions and Jean Paul's <hi rend="italic">Flegeljahre,</hi> to my great delight. I shall hope soon to see your handwriting in another sense, much as I treasure your manuscript. The winter is fairly mild. You know the neighbourhood of Bonn. I can always find pleasure in Beethoven's statue and the charming view over the Siebengebirge <pb xml:id="page-322" n="294"/> . It was at Hanover that we last met. Be sure and write soon to your admiring and loving friend,</p>
+<p>How I long to see you, dear friend, and hear your lovely <hi rend="italic">Variations</hi><ref xml:id="fnref-p0321-1" type="noteref" target="#fn-p0321-1">1</ref> played either by you or by Clara, of whose beautiful rendering Joachim told me in his letter. There is an exquisite coherence about the whole work, a wealth of fantastic glamour peculiarly your own, and, moreover, evidence of what is to me a new development on your part—I mean the profound skill with which you introduce the theme at odd moments, mysteriously, passionately, and again let it disappear completely. Then the wonderful close to the 14th variation, with its ingenious imitation in the second above ; the 15th in G flat, with its glorious second part ; and the last ! Thank you, too, my dear Johannes, for all your kindness to my Clara. She speaks of it constantly in her letters. Yesterday, as perhaps you know, she sent me two volumes of my compositions and Jean Paul's <hi rend="italic">Flegeljahre,</hi> to my great delight. I shall hope soon to see your handwriting in another sense, much as I treasure your manuscript. The winter is fairly mild. You know the neighbourhood of Bonn. I can always find pleasure in Beethoven's statue and the charming view over the Siebengebirge. <pb xml:id="page-322" n="294"/> It was at Hanover that we last met. Be sure and write soon to your admiring and loving friend,</p>
 <closer><signed rend="right">R. <hi rend="smallcaps">Schumann.</hi></signed></closer>
 </div>
 <div xml:id="notes-sec-05" type="notes"><head>Notes</head>
@@ -2246,6 +2255,6 @@ AT THE ZENITH (1840-1854)</head>
 <pb xml:id="page-332" n="306"/><p rend="imprint"><hi rend="bold">Library Bureau Cat. no. 1137</hi></p>
 </div>
 </div>
-    </body>
+    </back>
   </text>
 </TEI>

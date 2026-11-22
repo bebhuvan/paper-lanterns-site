@@ -7,8 +7,7 @@
 
 ## Frontmatter
 
-### THE LIFE AND LETTERS OF
-TORU DUTT
+### THE LIFE AND LETTERS OF TORU DUTT
 
 PRINTED IN ENGLAND  
 AT THE OXFORD UNIVERSITY PRESS  
@@ -18,8 +17,7 @@ BY FREDERICK HALL
 
 Toru Dutt.
 
-### LIFE AND LETTERS OF
-TORU DUTT
+### LIFE AND LETTERS OF TORU DUTT
 
 BY
 
@@ -43,24 +41,24 @@ MARY E. R. MARTIN
 IN GRATEFUL RECOGNITION OF  
 HER TENDER SYMPATHY
 
-> Mais elle étoit du monde, où les plus belles choses
-Ont le pire destin ;
-Et, rose, elle a vécu ce que vivent les roses,
-L'espace d'un matin.
+> Mais elle étoit du monde, où les plus belles choses  
+> Ont le pire destin ;  
+> Et, rose, elle a vécu ce que vivent les roses,  
+> L'espace d'un matin.
 
 <span class="small-caps">Malherbe.</span>
 
-> Mourn rather for that holy Spirit,
-Sweet as the spring, as ocean deep ;
-For Her who, ere her summer faded,
-Has sunk into a breathless sleep.
+> Mourn rather for that holy Spirit,  
+> Sweet as the spring, as ocean deep ;  
+> For Her who, ere her summer faded,  
+> Has sunk into a breathless sleep.
 
 <span class="small-caps">Wordsworth.</span>
 
-> Nor blame I Death, because he bare
-   The use of virtue out of earth :
-   I know transplanted human worth
-Will bloom to profit, otherwhere.
+> Nor blame I Death, because he bare  
+>    The use of virtue out of earth :  
+>    I know transplanted human worth  
+> Will bloom to profit, otherwhere.
 
 <span class="small-caps">Tennyson.</span>
 
@@ -70,9 +68,7 @@ Will bloom to profit, otherwhere.
 
 I do not think that there was ever a mystery about the character of this frail and sensitive Indian lady. Even were nothing known of the external facts of her life, we should have been able to infer from her published writings the essential qualities of a nature, pure, innocent, religious, alive to beauty in all its forms, and capable of a wide range of appreciation in the field of poetic literature. The pious labours of Mr. Das have now added some welcome and altogether attractive touches. They show us how devoid was Toru of the foibles often attaching to the literary character, how exempt from ostentation, vanity, self-consciousness, how childlike and eager, with how warm a glow of affection she embraced her friends, how free was her composition from all bitter and combustible elements. They enable us also to realize how much she was helped by the fact of her Christian training to an appreciation of certain aspects of Western literature (her love of *Paradise Lost* and Lamartine are illustrations) not usually congenial to the Indian mind, and how personal friendships formed during a girlhood spent partly in France and partly in England united to strengthen her hold upon the essential soul of the two languages in which she wrought. It is pleasant too to learn more of that garden home in Calcutta which is described in ‘Our Casuarina Tree’, one of the loveliest of the lyrics contained in the *Ancient Ballads and Legends of Hindustan*. Here is a *vignette* taken from one of her letters :
 
-> ‘The night was clear, the moon resplendent, one or two stars glimmering here and there; before us stretched the long avenue bordered with high casuarinas, very like the poplars of England, dim in the distance the gateway; around us the thick mango groves; the tall
-
-betel-nut trees, straight “ like arrows shot from heaven ” ; the cocoanut palms with their proud waving plumes of green foliage, and all wrapped in a sweet and calm silence.’
+> ‘The night was clear, the moon resplendent, one or two stars glimmering here and there; before us stretched the long avenue bordered with high casuarinas, very like the poplars of England, dim in the distance the gateway; around us the thick mango groves; the tall betel-nut trees, straight “ like arrows shot from heaven ” ; the cocoanut palms with their proud waving plumes of green foliage, and all wrapped in a sweet and calm silence.’
 
 Yet it is characteristic that all this tropical loveliness never completely contents or confines her. Home, after all, is in part exile. She cannot forget the beloved West, the enchantments of frost and snow, the delicate landscapes of France, the vivid, eager College life at Cambridge. In comparison with the stir and bustle of the West, the days in India seemed monotonous and without event. So in the midst of the profuse splendours of the East her thoughts continually reach out to that other home beyond the Ocean, which travel and study had made so dear to her, as, for example, to the world (known only through books) of the Brontë sisters, living ‘ among the lonely wild moors of Yorkshire, all three so full of talent, yet living so solitary amid those Yorkshire wolds,’ or to the days which stood out with such cameo-like distinctness in her memory, when she enjoyed the free life of a student by the banks of the Cam, passing ‘ nice cosy evenings ’ with her friend, and on Sundays drinking deep draughts of music from the College organ. In the long history of the contact and interfusion of East and West, I doubt whether there is a figure more encouraging or significant.
 
@@ -203,9 +199,7 @@ Govin Chunder held a high post under the Government of India and was afterwards 
 
 > ‘ Strange events are passing around us ; and though our fears exceed our hopes, no man can say what the issue may be. You may have heard that Rasamoy Dutt is dead ; and you know that the family had always a leaning towards the Gospel.
 
-> ‘ While attending his father’s burning, the eldest son, Kishen, was taken ill of fever, and died also after a few days’ illness. The next day, Girish (the youngest son) wrote to Ogilvy Temple, asking me to go and visit him. I was very ill at the time, and confined to bed ; so I got Mr. Ewart to accompany Ogilvy ; and they saw nearly all the brothers together. They conversed with Ewart long and seriously, and begged him to pray with them, all joining in the Amen. It gradually came out that their dying brother had a dream or vision of the other world ; that he professed, not only his belief in Christianity, but his desire to be immediately baptized, and desired me to be sent for. Objections were made to this, and then he asked them to send for Mr. Wylie. This also was evaded ; and at last, Girish offered to read the baptismal service, to put the questions, and to baptize him ; and thus the youngest brother (himself not yet a Christian) actually baptized the other in the name of the Father, the Son, and the Holy Spirit of God ! The dying man then called all his family around him, and, in the presence of Mr. Naylor, bore dying testimony to Christ, and besought his family to embrace the Gospel. It appeared that old Rasamoy himself had been a careful reader of the Bible, and that he had made all the
-
-ladies of the family write out the whole of the Psalms in Bengalee.
+> ‘ While attending his father’s burning, the eldest son, Kishen, was taken ill of fever, and died also after a few days’ illness. The next day, Girish (the youngest son) wrote to Ogilvy Temple, asking me to go and visit him. I was very ill at the time, and confined to bed ; so I got Mr. Ewart to accompany Ogilvy ; and they saw nearly all the brothers together. They conversed with Ewart long and seriously, and begged him to pray with them, all joining in the Amen. It gradually came out that their dying brother had a dream or vision of the other world ; that he professed, not only his belief in Christianity, but his desire to be immediately baptized, and desired me to be sent for. Objections were made to this, and then he asked them to send for Mr. Wylie. This also was evaded ; and at last, Girish offered to read the baptismal service, to put the questions, and to baptize him ; and thus the youngest brother (himself not yet a Christian) actually baptized the other in the name of the Father, the Son, and the Holy Spirit of God ! The dying man then called all his family around him, and, in the presence of Mr. Naylor, bore dying testimony to Christ, and besought his family to embrace the Gospel. It appeared that old Rasamoy himself had been a careful reader of the Bible, and that he had made all the ladies of the family write out the whole of the Psalms in Bengalee.
 
 > ‘ We found that all the brothers and most of their sons were so far believers in Christianity that they were making preparations in their families, getting their affairs in order, and conversing with their wives, with a view of coming over to the Lord in a body—their cousin, Shosee Chunder Dutt, with them. The wives were willing to remain with their husbands, but are still firm idolaters. We have had several interviews with them since of a very interesting nature, and Lal Behari[^fn-p0033-1] has been particularly useful. . . . If the whole family are baptized together, you may suppose what an excitement it will produce ; for, take them all in all, they are the most distinguished Hindoo family under British rule. Their ideas of Christian doctrine are vague, but sound on the whole. Their guide in reading the Bible has been Scott’s *Commentary* ; and they seem to acquiesce in his views of the Trinity and Atonement. But alas, our dear friend Wylie hangs between life and death, and I fear the worst. He went to see the Dutts at my request on Wednesday week—was eagerly interested—and as soon as he got home, began a letter to one of them. While he was writing the fever struck him, and he had to lay down his pen. The half-finished letter, with a few words added by Milne, and a note from me, describing the circumstances in which it was written and Mr. Wylie’s desire that it should be sent as it was, have all been sent to Girish.’
 
@@ -288,7 +282,7 @@ We seek another far away ;
 Nor, with our hands upon the plough,  
 Dare we look back and break our vow.
 
-*[Illustration, p. 1]*
+*[Illustration, p. 37]*
 
 MRS. GOVIN CHUNDER DUTT
 
@@ -388,7 +382,7 @@ In 1863, the family went by sea to Bombay, in one of the Peninsular and Oriental
 
 On July 9, 1865, Toru’s brother Abju died at the age of
 
-*[Illustration, p. 9]*
+*[Illustration, p. 45]*
 
 <span class="small-caps">TORU, ABJU, ARU</span>
 
@@ -479,13 +473,11 @@ And gently leads each Muse and Grace along.
 
 > ‘ A few days after we are in Addison Road again. Sir Edward Ryan is at home and we have a warm welcome. In the vestibule there is a beautiful marble bust of Dwarkanath Tagore. There is an exact copy of this bust in the Town Hall at Calcutta. In the dining-room there is an engraving of Rasamoy Dutt, from the painting by Charles Grant ; an oil-painting of Lord Macaulay—the hair combed back, thick, bushy, Walter-Scott-like eyebrows—and a portrait of Lord Auckland. “ But you must come and see my library first.” So we moved onwards out of the dining-room.
 
-> ‘ I think it is Sir John William Kaye, the historian of the Afghan War and the great champion of the late East India Company, who said in an essay in the *Cornhill Magazine* that he had never seen any place more suitably fitted up for the work of a literary man than the library of Lord Macaulay. Was Sir Edward Ryan's library fitted up in imitation of that of his friend, the great historian ? I do not know, perhaps it was ; certainly it looked a paradise for a literary man. A table near the window—large, clean, free from litter, with a few bundles tied in red tape upon it ; another table opposite, with sundry articles thereon, which we did not notice at first, but which were afterwards shown to us by the owner. Book-cases all round the walls rising up to the ceiling, filled with books, and on the top of them, rolled up inside wooden frames, maps
-
-which when pulled out would cover and conceal the book-cases and form a sort of geographical tapestry. One or two globes and telescopes, I think. Not many pictures, one only I remember—an oil-painting of Mr. Babbage (of the calculating machine), who was a relative of Sir Edward Ryan. Glancing over the books I thought the collection complete. Not a history, not a poem, not a novel of any celebrity, wanting ; and the whole so beautifully arranged. Sir Edward Ryan let us look at his books for some time. There were many presentation copies from recent authors, living and dead. A copy of Henry Sumner Maine’s *Village Communities* was open on a small table in a corner. Sir Edward Ryan, who had evidently been reading it very recently, spoke very highly of it. Then he took us to the table with the mysterious objects to which I have already made a reference. What do you think they were ? Masks, a crown, daggers, a sword, false beards, periwigs, and all the small paraphernalia of the stage. There had been amateur theatricals in the house lately. Sir Edward was always stagestruck when in Calcutta, and was one of the warmest patrons of the Chowringhee and Sans Souci theatres, though I do not know that he ever acted himself. Perhaps the office of Chief Justice which he held was the obstacle in his way. Members of the Board of Revenue, like H. M. Parker, or Secretaries thereof, like Henry Torrens, might wear the buskin—but a Chief Justice ! He put on one of the masks and donned the crown, to the great amusement of my young ladies. “ Had they been to any of the London theatres yet ? ” “ Yes.” “ Where had they been ? ” “ Drury Lane, the Queen’s, the Gaiety, Covent Garden.” “ Well, and what had they seen ? ” “ Shakespeare’s *Midsummer Night’s Dream.*” “ Ah, that was very good ; it had been got up magnificently. What else ? ” “ *Amy Robsart.*” “ Ah, had they seen *Amy Robsart* at Drury Lane ? I was just going to recommend you to take them there. Sir Walter Scott’s plot has been altered—I cannot say for the better. It is Varney who falls through the trapdoor and not Amy. Did you enjoy it ? ” “ Yes, Sir Edward, we enjoyed it immensely.” Then there was talk of Talfourd and Dickens, and Thackeray, and what not besides. “ You at least know ”— to the youngest lady in the room—“ that Talfourd was a friend of my youth. Dickens I knew.” “ Yes, he dedicated *Pickwick* to Talfourd, and as Talfourd was so much your friend, we thought you must have known him also.” “ Oh yes, I knew him, but Thackeray was a very intimate friend.” “ Thackeray was born in Calcutta and was a relative of Mr. Ritchie, our Advocate-General in Calcutta.” “ Do you know Thackeray’s daughters ? they are living in your neighbourhood ? ” “ No.” [We did not then. But afterwards we made the acquaintance of Miss Thackeray at the house of the Master[^fn-p0056-1] of Trinity College in Cambridge.] “ Which of Thackeray’s novels do you like best ? ” “ Oh, *Esmond,* of course.” “ Which do you like ? ” “ *Pendennis.*” “ *Pendennis* is the most popular novel. But surely *Esmond* is far superior as a work of art.” “ I think it is the best novel that ever was written—better than the best of Scott’s—and that surely is high praise.” “ Ah, you are young, you will modify that opinion by-and-by—but Thackeray himself considered it his best work, and Trollope, no mean judge, thinks very, very highly of it. Have you read *The Small House at Allington* ? ” “ Oh yes, and I like it very much. There is nothing sensational in Trollope, that is what I like best in him. His novels are so like ordinary life.” “ Is that praise or censure ? ” “ Well, that is as you take it ; ordinary life is dull and insipid often, so are the novels of Trollope ; sensational stories can only please the young.” “ And what are you ? are you not young ? I consider your father quite a young man. I have seen him when he was younger than you are now. I have got the silver vase still, which you students of the Hindoo College gave me when I came away from India.” Some of the ladies in the house, Sir Edward Ryan’s daughters, having taken entire possession of my womenkind, Sir Edward and I had some conversation on serious subjects—religion, social progress in India, Civil Service Examinations, and the like. He was surprised that myself and all my brothers had become Christians. “ Prosono Coomar Tagore’s son too ”, he added thoughtfully ; “ as to social progress ”, he continued, “ you have brought such evidence with you, that I can hardly believe my own senses. It is a very great credit.” ’
+> ‘ I think it is Sir John William Kaye, the historian of the Afghan War and the great champion of the late East India Company, who said in an essay in the *Cornhill Magazine* that he had never seen any place more suitably fitted up for the work of a literary man than the library of Lord Macaulay. Was Sir Edward Ryan's library fitted up in imitation of that of his friend, the great historian ? I do not know, perhaps it was ; certainly it looked a paradise for a literary man. A table near the window—large, clean, free from litter, with a few bundles tied in red tape upon it ; another table opposite, with sundry articles thereon, which we did not notice at first, but which were afterwards shown to us by the owner. Book-cases all round the walls rising up to the ceiling, filled with books, and on the top of them, rolled up inside wooden frames, maps which when pulled out would cover and conceal the book-cases and form a sort of geographical tapestry. One or two globes and telescopes, I think. Not many pictures, one only I remember—an oil-painting of Mr. Babbage (of the calculating machine), who was a relative of Sir Edward Ryan. Glancing over the books I thought the collection complete. Not a history, not a poem, not a novel of any celebrity, wanting ; and the whole so beautifully arranged. Sir Edward Ryan let us look at his books for some time. There were many presentation copies from recent authors, living and dead. A copy of Henry Sumner Maine’s *Village Communities* was open on a small table in a corner. Sir Edward Ryan, who had evidently been reading it very recently, spoke very highly of it. Then he took us to the table with the mysterious objects to which I have already made a reference. What do you think they were ? Masks, a crown, daggers, a sword, false beards, periwigs, and all the small paraphernalia of the stage. There had been amateur theatricals in the house lately. Sir Edward was always stagestruck when in Calcutta, and was one of the warmest patrons of the Chowringhee and Sans Souci theatres, though I do not know that he ever acted himself. Perhaps the office of Chief Justice which he held was the obstacle in his way. Members of the Board of Revenue, like H. M. Parker, or Secretaries thereof, like Henry Torrens, might wear the buskin—but a Chief Justice ! He put on one of the masks and donned the crown, to the great amusement of my young ladies. “ Had they been to any of the London theatres yet ? ” “ Yes.” “ Where had they been ? ” “ Drury Lane, the Queen’s, the Gaiety, Covent Garden.” “ Well, and what had they seen ? ” “ Shakespeare’s *Midsummer Night’s Dream.*” “ Ah, that was very good ; it had been got up magnificently. What else ? ” “ *Amy Robsart.*” “ Ah, had they seen *Amy Robsart* at Drury Lane ? I was just going to recommend you to take them there. Sir Walter Scott’s plot has been altered—I cannot say for the better. It is Varney who falls through the trapdoor and not Amy. Did you enjoy it ? ” “ Yes, Sir Edward, we enjoyed it immensely.” Then there was talk of Talfourd and Dickens, and Thackeray, and what not besides. “ You at least know ”— to the youngest lady in the room—“ that Talfourd was a friend of my youth. Dickens I knew.” “ Yes, he dedicated *Pickwick* to Talfourd, and as Talfourd was so much your friend, we thought you must have known him also.” “ Oh yes, I knew him, but Thackeray was a very intimate friend.” “ Thackeray was born in Calcutta and was a relative of Mr. Ritchie, our Advocate-General in Calcutta.” “ Do you know Thackeray’s daughters ? they are living in your neighbourhood ? ” “ No.” [We did not then. But afterwards we made the acquaintance of Miss Thackeray at the house of the Master[^fn-p0056-1] of Trinity College in Cambridge.] “ Which of Thackeray’s novels do you like best ? ” “ Oh, *Esmond,* of course.” “ Which do you like ? ” “ *Pendennis.*” “ *Pendennis* is the most popular novel. But surely *Esmond* is far superior as a work of art.” “ I think it is the best novel that ever was written—better than the best of Scott’s—and that surely is high praise.” “ Ah, you are young, you will modify that opinion by-and-by—but Thackeray himself considered it his best work, and Trollope, no mean judge, thinks very, very highly of it. Have you read *The Small House at Allington* ? ” “ Oh yes, and I like it very much. There is nothing sensational in Trollope, that is what I like best in him. His novels are so like ordinary life.” “ Is that praise or censure ? ” “ Well, that is as you take it ; ordinary life is dull and insipid often, so are the novels of Trollope ; sensational stories can only please the young.” “ And what are you ? are you not young ? I consider your father quite a young man. I have seen him when he was younger than you are now. I have got the silver vase still, which you students of the Hindoo College gave me when I came away from India.” Some of the ladies in the house, Sir Edward Ryan’s daughters, having taken entire possession of my womenkind, Sir Edward and I had some conversation on serious subjects—religion, social progress in India, Civil Service Examinations, and the like. He was surprised that myself and all my brothers had become Christians. “ Prosono Coomar Tagore’s son too ”, he added thoughtfully ; “ as to social progress ”, he continued, “ you have brought such evidence with you, that I can hardly believe my own senses. It is a very great credit.” ’
 
 Toru was very fond of children, and wrote a characteristic Bengali letter from Brompton, London, on September 26, 1870, to a little cousin in Calcutta. It also shows the poor knowledge she had of her mother tongue, even to the extent of mis-spelling her own name.
 
-*[Illustration, p. 21]*
+*[Illustration, p. 57]*
 
 *Facsimile of Early Bengali Letters*
 
@@ -563,9 +555,7 @@ Mrs. Macfarren, our singing governess, is coming to-morrow. She has a beautiful 
 
 November 22, 1870.
 
-<span class="small-caps">My dear Cousin</span>,—I have hardly time to write any letter,
-
-as our time is entirely given up to study. First we practise on the piano from seven to half-past seven, when we have our breakfast, then we have our Bible reading. It is generally over at half-past eight. Then we practise again on the piano till half-past nine. After that I read *The Times,* for I take a great interest in the War, and I am sure I know more about it than you do. At ten, Mrs. Lawless comes. She goes away at half-past three. Then we generally read with papa at four, and on Fridays, Mrs. Macfarren comes to teach singing, and on Mondays we go to have our music lessons from Mr. Pauer. We then practise again on the piano.
+<span class="small-caps">My dear Cousin</span>,—I have hardly time to write any letter, as our time is entirely given up to study. First we practise on the piano from seven to half-past seven, when we have our breakfast, then we have our Bible reading. It is generally over at half-past eight. Then we practise again on the piano till half-past nine. After that I read *The Times,* for I take a great interest in the War, and I am sure I know more about it than you do. At ten, Mrs. Lawless comes. She goes away at half-past three. Then we generally read with papa at four, and on Fridays, Mrs. Macfarren comes to teach singing, and on Mondays we go to have our music lessons from Mr. Pauer. We then practise again on the piano.
 
 We are going to meet Dean Alford at dinner at Mr. Bullock's, who is his son-in-law.
 
@@ -640,7 +630,7 @@ Drowned in her blood, she makes no sign,
 Give her a draught of generous wine.  
     None heed, none hear, to do this grace.[^fn-p0066-1]
 
-*[Illustration, p. 31]*
+*[Illustration, p. 67]*
 
 <span class="small-caps">Aru and Toru</span>  
 Aru barely nineteen ; Toru seventeen
@@ -653,9 +643,7 @@ We have referred already to Toru's English friend, to whom this volume is dedica
 
 Miss Martin says of Toru :
 
-> ' There is no note of our first meeting, but it must have been in the summer of 1872, before my fifteenth birthday. The Dutts lodged in my father's parish, at Regent House, in Regent Street, overlooking a large open space called Parker's Piece,
-
-the latter word being a corruption of an old Saxon name for “open space ”, a term very familiar in Cambridge. The family did not attend St. Andrew’s the Great, but St. Paul’s Church, which was perhaps one reason that their acquaintance was not made as early as it might have been. Anyhow, it was not until some cousins who also attended St. Paul’s said to us one day : “ Why have you not called on the Dutts ? ” that we went. They were naturally a familiar sight in Cambridge, and the two sisters were often seen walking on the Trumpington Road and elsewhere. After we became friends, no notes were kept of our conversations or meetings, but, fortunately, many years after, some entries were found in an old diary of my mother’s. None of us at that time had any conception of the fame to be connected with the name of Toru Dutt. Many friends were made by them during their stay in Cambridge and elsewhere, and though, owing to my absence at school at Malvern Wells, others had more opportunity of intercourse, yet we, from the first, claimed friendship from each other. During the school terms we wrote weekly. Her letters were always received on Tuesday mornings, and the eagerness with which they were expected is still vividly remembered.
+> ' There is no note of our first meeting, but it must have been in the summer of 1872, before my fifteenth birthday. The Dutts lodged in my father's parish, at Regent House, in Regent Street, overlooking a large open space called Parker's Piece, the latter word being a corruption of an old Saxon name for “open space ”, a term very familiar in Cambridge. The family did not attend St. Andrew’s the Great, but St. Paul’s Church, which was perhaps one reason that their acquaintance was not made as early as it might have been. Anyhow, it was not until some cousins who also attended St. Paul’s said to us one day : “ Why have you not called on the Dutts ? ” that we went. They were naturally a familiar sight in Cambridge, and the two sisters were often seen walking on the Trumpington Road and elsewhere. After we became friends, no notes were kept of our conversations or meetings, but, fortunately, many years after, some entries were found in an old diary of my mother’s. None of us at that time had any conception of the fame to be connected with the name of Toru Dutt. Many friends were made by them during their stay in Cambridge and elsewhere, and though, owing to my absence at school at Malvern Wells, others had more opportunity of intercourse, yet we, from the first, claimed friendship from each other. During the school terms we wrote weekly. Her letters were always received on Tuesday mornings, and the eagerness with which they were expected is still vividly remembered.
 
 ‘My mother’s diary from December 1872 to April 1873 contains references to almost daily intercourse between the Dutts and ourselves, to walks with Toru and teas at 11, Park Terrace. The last entry is dated April 29, 1873 : “ The Dutts left for Hastings.” We never met again, and perhaps our correspondence became the more intimate in consequence.’
 
@@ -724,9 +712,7 @@ Croyez, mademoiselle, à mes cordiales sympathies.
 
 Chez son père, officier supérieur en retraite, officier de la Légion d’Honneur, attaché au Ministère de la Guerre, rue de Babylone 62, à Paris.
 
-P.S. Ainsi que vous me l’écrivez, mademoiselle, c’est dans l’Inde que sera publiée votre traduction anglaise. Ce ne serait
-
-que dans le cas où cette version serait publiée en Angleterre que l’intervention de mon éditeur serait nécessaire. Mais, comme il me l’a dit lui-même, il ne voit aucun inconvénient à ce que votre traduction paraisse dans une région aussi lointaine que l’Inde.
+P.S. Ainsi que vous me l’écrivez, mademoiselle, c’est dans l’Inde que sera publiée votre traduction anglaise. Ce ne serait que dans le cas où cette version serait publiée en Angleterre que l’intervention de mon éditeur serait nécessaire. Mais, comme il me l’a dit lui-même, il ne voit aucun inconvénient à ce que votre traduction paraisse dans une région aussi lointaine que l’Inde.
 
 ### Letter 9: Toru Dutt → Clarisse Bader
 
@@ -829,7 +815,7 @@ Et moi aussi, chère et intéressante amie, je demande au Seigneur de vous conse
 
 P.S. Je dépose sous ce pli une fleurette de mon pays. C’est ma plante favorite. On l’appelle rhodanthe. Cette jolie fleur rit toujours, même desséchée. Je trouve que par cela même c’est un vrai emblème de l’affection. La fleur que je vous envoie provient de ma petite chapelle domestique. Puisse-t-elle vous apporter une douce bénédiction du Seigneur en même temps que mon fidèle souvenir ! [^fn-p0080-1]
 
-*[Illustration, p. 45]*
+*[Illustration, p. 81]*
 
 CITY HOUSE  
 12, Manicktollah Street
@@ -977,7 +963,7 @@ It is ‘Rojette’ in the song, but that is all the same.
 
 We have got a number of ducks now, seventeen, and all except three are home-reared—is it not satisfying? We have also got a turkey chicken: some turkey's eggs were given to us by our grandfather, our hens sat upon those eggs, and
 
-*[Illustration, p. 59]*
+*[Illustration, p. 95]*
 
 MISS MARTIN IN EARLY GIRLHOOD
 
@@ -1264,7 +1250,9 @@ I begin this letter now, so as to be able to make it long if not interesting. Pa
 
 The *leechies* will be in soon now, the mangoes will come in later about the beginning of May. I am pretty well at present, only the cough has not left me yet. Mamma is quite well.
 
-I went this morning to see Jeunette and Gentille bathed. They are so gentle, and are very fond of me ! I go out driving almost every day in the evening. Papa is unable to accompany me just now, and Mamma stays at home for him. My uncle and aunt came to see us yesterday. 25th, Monday. Last evening we received a letter of receipt from Messrs. Hachette & Co., accompanied by the last book of those we sent for. It is the *Scènes historiques*, by Mme de Witt, *née* Guizot ; it is a beautifully and richly bound volume, with illustrations. Last night, we had what the English papers would call a thunderstorm, and which we would denominate a refreshing shower ! Yesterday, our coachman caught two large fishes ; he is a lucky angler, indeed he supplies our daily consumption of fish ; it is so pleasant having fresh fish from our own tanks.
+I went this morning to see Jeunette and Gentille bathed. They are so gentle, and are very fond of me ! I go out driving almost every day in the evening. Papa is unable to accompany me just now, and Mamma stays at home for him. My uncle and aunt came to see us yesterday.
+
+25th, Monday. Last evening we received a letter of receipt from Messrs. Hachette & Co., accompanied by the last book of those we sent for. It is the *Scènes historiques*, by Mme de Witt, *née* Guizot ; it is a beautifully and richly bound volume, with illustrations. Last night, we had what the English papers would call a thunderstorm, and which we would denominate a refreshing shower ! Yesterday, our coachman caught two large fishes ; he is a lucky angler, indeed he supplies our daily consumption of fish ; it is so pleasant having fresh fish from our own tanks.
 
 The mornings are so pleasant in the Garden. Very early, at about three in the morning, the *Bheem-raj*, a little bird, begins his song ; half an hour afterwards, all the bushes and trees burst into melody, the *Kokila*, the *Bow-kotha-kow*—which means, ‘ Speak, O bride ’—the *Papia*, &c. And the gay little humming-birds, with their brilliant colours, dive into the flowers for honey with busy twitters. Oh, it is so cool and pleasant in the morning till ten o’clock, when the warmth increases ; from noon to about four in the afternoon, all is quite still, except some lone woodpecker tapping at some far-off tree. Then in the evening, all the birds are astir again, till it gets dark, when, like wise little creatures that they are, they go to bed !
 
@@ -1911,7 +1899,7 @@ Your account of your drive with the C.'s and your horror on discovering who woul
 
 Great preparations are going on to welcome the Prince. Up-country Rajas and Maharajas are coming down in great numbers. Every day we see one or two of these Rajas with mounted retinues, all in gold and purple, pass along the broad streets of Calcutta. All the thoroughfares through which the Prince of Wales is likely to pass are almost blocked with building materials for arches, &c. The fort and the barracks have been newly painted. Even the lamp posts are re-painted a bright green. The Prince is only going to stay a week here. Some Raja or other has had an upper garment made, all studded with pearls and precious stones, which he means to wear when he meets the Prince, and which has cost him fifteen lakhs of rupees ! Another will spend thirty lakhs during the three days the Prince will stay in his dominions.
 
-During the Prince's sojourn in Bombay he visited Lady Sassoon , a Parsee lady: her husband is very rich, and they have bought a house and lands somewhere near London. On the landing of the Prince, Parsee maidens, daughters of rich and influential men in Bombay, went before him, scattering flowers and singing a welcome. One day when the Prince was out driving, a Parsee lady came out of the door of her mansion (I forget her name, she was the wife of a rich merchant and we used to know some of her kin, when we were in Bombay), and stopping the carriage, presented the Prince with a gold-embroidered smoking cap, made by her own fair hands. Of course the Prince accepted the present with many thanks and much grace, as befits a gallant gentleman! The Parsee ladies are far ahead of our Bengali ones.
+During the Prince's sojourn in Bombay he visited Lady Sassoon, a Parsee lady: her husband is very rich, and they have bought a house and lands somewhere near London. On the landing of the Prince, Parsee maidens, daughters of rich and influential men in Bombay, went before him, scattering flowers and singing a welcome. One day when the Prince was out driving, a Parsee lady came out of the door of her mansion (I forget her name, she was the wife of a rich merchant and we used to know some of her kin, when we were in Bombay), and stopping the carriage, presented the Prince with a gold-embroidered smoking cap, made by her own fair hands. Of course the Prince accepted the present with many thanks and much grace, as befits a gallant gentleman! The Parsee ladies are far ahead of our Bengali ones.
 
 I have not read anything lately, so busy am I with my Sanskrit. The grammar is awfully difficult, though in reading and understanding we get on pretty swimmingly. I have not read *Middlemarch.* I have read many reviews and critiques on the book, both in French and English, and of course that gives me a good idea of the work. You should read *Wives and Daughters* by Mrs. Gaskell; it is a highly interesting and well-written work; I am sure you would like it.
 
@@ -2416,7 +2404,7 @@ You see that we have removed to the old Garden House. We came away from Calcutta
 
 Mamma got a very bad fall yesterday, but she is all right now. At 2 p.m. (you cannot imagine how hot it is at that hour), she went downstairs, notwithstanding our protests, to give some orders about her poultry house. She was sitting on the steps, when all at once she fell down—the sun and the heat were too much for her—she was so dazed after her fall, that she could not remember anything that had happened the minute before. We thought she had received a sunstroke, and it was very like one ; however, eau-de-Cologne, cold water, and an unripe mango, boiled and made into a *sherbet*, soon set her to rights. She is quite herself to-day ; I hope this will prevent her for the future from going out of doors during the heat of the day, *malgré nous*.
 
-*[Illustration, p. 149]*
+*[Illustration, p. 185]*
 
 BAUGMAREE GARDEN-HOUSE  
 'The scene of many family reunions and the favourite playground of all the younger generation'
@@ -3317,7 +3305,7 @@ Me rendra fou !
 
 The song is very musical, and beautiful. We lately bought from an itinerant bookseller a *Life of Napoleon the Great,* by M. de Narvins. It is finely illustrated with coloured plates besides the wood engravings. It will be interesting reading to me, for I am a great admirer of the ‘bronze artillery officer’, as Carlyle styles him.
 
-October 4th. Gentille is quite well to-day, but I mean to give her a rest to-day, and commence working her from to-morrow . Papa and I went out in a hired carriage to the city, shopping. The hackney cabs are so miserable in Calcutta, that I am always afraid of their breaking down in the way.
+October 4th. Gentille is quite well to-day, but I mean to give her a rest to-day, and commence working her from to-morrow. Papa and I went out in a hired carriage to the city, shopping. The hackney cabs are so miserable in Calcutta, that I am always afraid of their breaking down in the way.
 
 We bought *Ginx's Baby*, for I had heard of its marvellous popularity. Papa read it and declared it was nothing better than *Dame Europa's School*, and that it was a catch-penny.
 
@@ -3977,7 +3965,7 @@ The *Indian Mirror*, edited by Keshub Chunder Sen, says that two Indian girls (I
 
 I must now close, dear.  Papa's and Mamma's kindest regards to yours, and their love to you, and with best love to yourself.
 
-*[Illustration, p. 265]*
+*[Illustration, p. 301]*
 
 MISS MARTIN IN MIDDLE LIFE
 
@@ -4322,9 +4310,7 @@ No longer sleep,
 I wait and weep,  
     But where art thou ?
 
-> ‘ When poetry is as good as this it does not much matter
-
-whether Rouveyre prints it upon Whatman paper, or whether it steals to light in blurred type from some press in Bhowanipore.’
+> ‘ When poetry is as good as this it does not much matter whether Rouveyre prints it upon Whatman paper, or whether it steals to light in blurred type from some press in Bhowanipore.’
 
 In May 1878 a second edition was issued by the same press containing a frontispiece portrait of the two sisters and a touching biographical notice by their father. This edition was soon exhausted. A copy of it was sent to the Viceroy and was appreciatively acknowledged.
 
@@ -4334,8 +4320,7 @@ A copy of *The Sheaf* presented to the Chevalier de Châtelain, the translator o
 
 So much for the outer history of the book. Its inner wealth now awaits our consideration. The special field of literature from which Toru principally gleaned her harvest was that which may be broadly characterized as the Romantic School of French Poetry. The Romantic movement corresponded in the realm of literary art to the Revolution in the sphere of politics. It was the assertion of freedom for the imagination and also of the rights of individuality. The seventeenth and eighteenth centuries had witnessed in connexion with poetry a process of restriction to certain forms of verse and to arbitrary rules. The seventeenth century was the period of Classicism—of servitude to the models of Greece and Rome. The eighteenth century emphasized reason. The Romantic School sought to give free play to feeling and to the imaginative faculty. It introduced changes too as regards language and metre. Simple, direct, and vivid words replaced high-sounding periphrases. The Romantic School proper was born towards the close of the first quarter of the nineteenth century, and has as its chief
 
-### The Cedars of Lebanon
-A. De Lamartine
+### The Cedars of Lebanon A. De Lamartine
 
 Eagles that wheel above our crests  
 Say to the storms that round us blow,  
@@ -4584,8 +4569,8 @@ GOVIN CHUNDER DUTT,
 BORN 4 MARCH, 1856,  
 DIED 30th AUGUST, 1877.
 
-> <span class="small-caps">Be thou faithful unto death and I will give thee a crown of life.</span>
-<span class="small-caps">Rev.</span> ii. 10.
+> <span class="small-caps">Be thou faithful unto death and I will give thee a crown of life.</span>  
+> <span class="small-caps">Rev.</span> ii. 10.
 
 In conveying the sad news of his bereavement to Miss Martin, Mr. Dutt wrote, on August 31, 1877 :
 
@@ -4601,7 +4586,7 @@ In not unnatural wonder, he asked :
 
 > ‘Why should these three young lives, so full of hope and work, be cut short, while I, old and almost infirm, linger on ? I
 
-*[Illustration, p. 313]*
+*[Illustration, p. 349]*
 
 TORU DUTT'S GRAVE
 
@@ -4617,9 +4602,7 @@ That Toru’s loss was no easier to bear as the months went by is shown by other
 
 ‘ I cannot tell you how precious to me are all your reminiscences of Toru, and the short quotations you give me from her letters to you. She always considered you her first friend, as dear to her as a sister, and she wrote to you more unreservedly and openly than she ever did to anyone else, I believe. I am become so grey now that I almost doubt if you would recognize me at first sight. Mrs. Dutt and I find it very difficult to drag on our chain, now that the sunshine of our house has gone. But the Lord will send me and her both rest and deliverance in His own good time. You are always in our hearts and in our prayers. . . .’
 
-‘ . . . I am always very glad to hear from you. Sometimes for days and days, my heart seems brass or iron, and I almost envy my wife her softer woman’s nature, but a perusal of one of your letters always brings the mist into my eyes, and I find
-
-> much relief. . . . Toru's MS. French novel has been received by Mlle Bader, and she thus writes of it in her latest letter to me from Paris : “ It is extraordinary that a young Indian girl should have so admirably mastered our language. Our dear Toru put into her dramatic and touching story the same grace, candour and pathos, which were the sources of her poetic inspiration. . . .” Toru's horses Jeunette and Gentille still continue to be our pets. We give them work just enough to keep them in health ; and Mrs. Dutt is never tired of caressing them, as well as Toru's favourite cat, “ Bag ” or “ Tiger ”, which, poor thing ! sleeps in my wife's bed. It used to answer Toru's call like a dog, and it was piteous to see how it pined for days and days after she left us. . . .’
+‘ . . . I am always very glad to hear from you. Sometimes for days and days, my heart seems brass or iron, and I almost envy my wife her softer woman’s nature, but a perusal of one of your letters always brings the mist into my eyes, and I find much relief. . . . Toru's MS. French novel has been received by Mlle Bader, and she thus writes of it in her latest letter to me from Paris : “ It is extraordinary that a young Indian girl should have so admirably mastered our language. Our dear Toru put into her dramatic and touching story the same grace, candour and pathos, which were the sources of her poetic inspiration. . . .” Toru's horses Jeunette and Gentille still continue to be our pets. We give them work just enough to keep them in health ; and Mrs. Dutt is never tired of caressing them, as well as Toru's favourite cat, “ Bag ” or “ Tiger ”, which, poor thing ! sleeps in my wife's bed. It used to answer Toru's call like a dog, and it was piteous to see how it pined for days and days after she left us. . . .’
 
 In another letter he writes :
 
@@ -4627,9 +4610,7 @@ In another letter he writes :
 
 From now on, Mr. Dutt's chief comfort lay in seeing to the editing of his daughter's works, both French and English, and in knowing how much they were appreciated. Writing again to Miss Martin on January 12, 1881, he says :
 
-> ‘. . . I am glad you like the new edition of the *Sheaf*. Mlle Bader writes to the same effect, Mrs. Trevor Grant and also Professor Cowell. The latter wrote : “ We have received the copy of the *Sheaf*, the new edition. It is beautifully got-up ; and the picture at the beginning wonderfully recalls
-
-them. It is certainly an astounding book. What a mind of poetic insight and power Toru had. I fear her very intensity of nature ‘ overwrought the tenement of clay ’. It was the sword of fine temper wearing away the sheath. Still one cannot but feel that a keen bright insight, like hers, intensely enjoyed her intellectual life, though it was so short on earth. I dare say you remember Ben Jonson’s lines in Palgrave’s *Golden Treasury,* about the short-lived lily being ‘ The flower of light ’ ”.[^fn-p0353-1] With the testimony of such dear friends, I am fain to be content, for, do you know, I have not yet received a single copy of the new edition myself ! ’
+> ‘. . . I am glad you like the new edition of the *Sheaf*. Mlle Bader writes to the same effect, Mrs. Trevor Grant and also Professor Cowell. The latter wrote : “ We have received the copy of the *Sheaf*, the new edition. It is beautifully got-up ; and the picture at the beginning wonderfully recalls them. It is certainly an astounding book. What a mind of poetic insight and power Toru had. I fear her very intensity of nature ‘ overwrought the tenement of clay ’. It was the sword of fine temper wearing away the sheath. Still one cannot but feel that a keen bright insight, like hers, intensely enjoyed her intellectual life, though it was so short on earth. I dare say you remember Ben Jonson’s lines in Palgrave’s *Golden Treasury,* about the short-lived lily being ‘ The flower of light ’ ”.[^fn-p0353-1] With the testimony of such dear friends, I am fain to be content, for, do you know, I have not yet received a single copy of the new edition myself ! ’
 
 Some short time after her death, the *Calcutta Review* published eight sonnets from one of her favourite poets, Gramont. The last of these sonnets, the chief thought of which is the moral victory of the Christian over physical weakness, may well be taken as typical of the authoress’s own experience. In paying a tribute to her genius, a writer in that magazine remarked :
 
@@ -5034,8 +5015,7 @@ The story of these gifted and heroic sisters, whose brief lives found fulfilment
 
 ### I
 
-### TRANSLATION OF THE CORRESPONDENCE
-BETWEEN M<span class="small-caps">lle</span> BADER AND TORU
+### TRANSLATION OF THE CORRESPONDENCE BETWEEN M<span class="small-caps">lle</span> BADER AND TORU
 
 ### Letter 68: Clarisse Bader → Toru Dutt
 

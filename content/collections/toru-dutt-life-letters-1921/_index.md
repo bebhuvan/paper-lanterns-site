@@ -289,34 +289,34 @@
   "caption": "Toru Dutt."
  },
  "title_page": {
-  "page": 6,
-  "leaf": 5
+  "page": 9,
+  "leaf": 8
  },
  "downloads": [
   {
    "format": "epub",
    "file": "toru-dutt-life-letters-1921.epub",
-   "bytes": 349888,
-   "sha256": "6d8f7f255eeb69cd51602786a09d234e05a73a1e6ee552de4934f8549c18fcdf"
+   "bytes": 389353,
+   "sha256": "d5e29a76482cea00238534533d2913f6342012f9e80ca24aa42b8e23432af9c6"
   },
   {
    "format": "markdown",
    "file": "toru-dutt-life-letters-1921.md",
-   "bytes": 753419,
-   "sha256": "633875f93e71b2f06f34d5278268acfc87d13093b200712f9c89c5b70567515b"
+   "bytes": 753449,
+   "sha256": "298e84f03b6d4a39445701bf6e97f72dbed8777f872d1a328f85a9d1a9f746d4"
   },
   {
    "format": "tei",
    "file": "toru-dutt-life-letters-1921.tei.xml",
-   "bytes": 879562,
-   "sha256": "1ab60d90113d187a68f5a8ca7ed6306e523240a3b9d07c76468887e9b67edde7"
+   "bytes": 881754,
+   "sha256": "408b2f440e43b3793f1b674129e31f8549b31147355dd171662ac70d63be3b34"
   }
  ],
  "scan_base": "https://archive.org/download/lifelettersoftor00duttuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:25:10Z",
-  "source_ast_sha256": "2814500dd9655b5196e3b55127ddce01ea7509587c28b002069f7e25cbb9c93c",
+  "compiled_at": "2026-11-22T08:50:08Z",
+  "source_ast_sha256": "abfe35709a0514f57a73a64c34e0ae84c3f25a2874d929bb5daa133f4ec28f7d",
   "hugo_renderer_version": "1.0.0"
  }
 }

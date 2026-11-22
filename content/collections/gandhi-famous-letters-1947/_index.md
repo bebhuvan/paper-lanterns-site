@@ -19,14 +19,14 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 31,
+  "letters": 29,
   "notes": 1,
   "pages": 154,
   "dated_letters": 5
  },
- "provenance_tier": "machine_checked",
+ "provenance_tier": "community",
  "quality": {
-  "score": 100.0,
+  "score": 98.5,
   "out_of": 100.0,
   "pillars": [
    {
@@ -46,7 +46,7 @@
    },
    {
     "key": "completeness",
-    "score": 15.0,
+    "score": 13.5,
     "out_of": 15.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 0,
+  "flagged": 1,
   "blockers": 0
  },
  "proof": {
@@ -256,37 +256,37 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 31,
+ "unperiodised_count": 29,
  "frontispiece": {},
  "title_page": {
-  "page": 1,
-  "leaf": 0
+  "page": 6,
+  "leaf": 5
  },
  "downloads": [
   {
    "format": "epub",
    "file": "gandhi-famous-letters-1947.epub",
-   "bytes": 70765,
-   "sha256": "f929c058485a787151db8c6a0b1798e70a958448ae605b019750753b53d845ac"
+   "bytes": 118588,
+   "sha256": "a2b2e35d40c985d8d2803c2189664c1640877fcae1bf40fad8c0e1e2cf7ec8a9"
   },
   {
    "format": "markdown",
    "file": "gandhi-famous-letters-1947.md",
-   "bytes": 155975,
-   "sha256": "a6e1a50c228c278e06d079ba04e9a1e0b80d41f5c70284b1bb0219a7e1e5a9d1"
+   "bytes": 155884,
+   "sha256": "3687d1f6672c0480c9b3ef2e6b6609b5897f7c6b27cc9fd96f6a459075799524"
   },
   {
    "format": "tei",
    "file": "gandhi-famous-letters-1947.tei.xml",
-   "bytes": 183842,
-   "sha256": "a00625eac41fdbd5cfa6a3554d5e9949665b83279582f9b7c49e464d7beb6a7c"
+   "bytes": 183684,
+   "sha256": "26e6b2bfd2a3a7035b747176253da8a22dba385c01256cb57a3515a13274c5a1"
   }
  ],
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.208999/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:21:49Z",
-  "source_ast_sha256": "c41a1a6577d1b8d7ad7113e63ad30f7223ed87083b917188400d348c8386eae0",
+  "compiled_at": "2026-11-22T08:49:07Z",
+  "source_ast_sha256": "cadfb2be6fd0b1f1533957d355d5378ea996cf64b43e9b03c4e6efce3614da14",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -7,8 +7,7 @@
 
 ## Frontmatter
 
-### THE
-LETTERS OF ROBERT SCHUMANN
+### THE LETTERS OF ROBERT SCHUMANN
 
 *[Illustration, p. 10]*
 
@@ -17,8 +16,7 @@ after a portrait by Adolph Menzel
 
 Emery Walker Ph. Sc.
 
-### THE LETTERS OF
-ROBERT SCHUMANN
+### THE LETTERS OF ROBERT SCHUMANN
 
 SELECTED AND EDITED BY DR. KARL STORCK
 
@@ -225,14 +223,14 @@ JOHN MURRAY, ALBEMARLE STREET, W.
 
 ### PREFACE
 
-> ‘There are many to proclaim
-Klopstock’s fame ;
-There are fewer who could quote
-What he wrote.
-Such grandeur’s little gain
-To attain ;
-For myself I choose instead
-To be read.’
+> ‘There are many to proclaim  
+> Klopstock’s fame ;  
+> There are fewer who could quote  
+> What he wrote.  
+> Such grandeur’s little gain  
+> To attain ;  
+> For myself I choose instead  
+> To be read.’
 
 I<span class="small-caps">f</span> Lessing’s pessimistic epigram is justified with regard to poetry, it may with equal truth be applied to the indifference commonly displayed towards the letters of eminent persons, and particularly towards musicians’ letters, which so seldom possess a purely literary interest. It was my conviction of this which led me to bring out the present selection of Schumann’s letters, and the earlier volumes on Beethoven and Mozart. A man’s letters undoubtedly form one of the best clues to his character ; but while the student will welcome almost any number of these documents in the hope of gaining insight into the writer’s mind, there must be many music-lovers who have neither time nor opportunity for such researches, and it is for them, primarily, that this volume has been compiled.
 
@@ -267,14 +265,14 @@ His power as a critic was very great. He was fearlessly outspoken and absolutely
 
 ### STURM UND DRANG
 
-> Weite Welt und breites Leben,
-Langer Jahre redlich Streben,
-Stets geforscht und stets gegründet,
-Nie geschlossen, oft gerühdet,
-Ältestes bewahrt mit Treue,
-Freundlich aufgefaßtes Neue,
-Heitern Sinn und reine Zwecke—
-Nun—man kommt wohl eine Strecke!
+> Weite Welt und breites Leben,  
+> Langer Jahre redlich Streben,  
+> Stets geforscht und stets gegründet,  
+> Nie geschlossen, oft gerühdet,  
+> Ältestes bewahrt mit Treue,  
+> Freundlich aufgefaßtes Neue,  
+> Heitern Sinn und reine Zwecke—  
+> Nun—man kommt wohl eine Strecke!
 
 > Wolfgang Goethe.
 
@@ -647,14 +645,14 @@ Eduard’s proposal is good and kind, but it will not do, for the loss of six mo
 
 ### FLORESTAN AND EUSEBIUS
 
-> ‘Eusebius’s mildness, Florestan’s ire—
-I can give thee, at will, my tears or my fire,
-For my soul by turns two spirits possess—
-The spirits of joy and of bitterness.’
-*From* <span class="small-caps">Schumann’s</span> *verses to* <span class="small-caps">Clara.</span>
+> ‘Eusebius’s mildness, Florestan’s ire—  
+> I can give thee, at will, my tears or my fire,  
+> For my soul by turns two spirits possess—  
+> The spirits of joy and of bitterness.’  
+> *From* <span class="small-caps">Schumann’s</span> *verses to* <span class="small-caps">Clara.</span>
 
-> ‘Florestan and Eusebius form my dual nature; I should like to melt them into the perfect man, Raro.’
-*To* <span class="small-caps">Heinrich Dorn,</span> *September* 14, 1836.
+> ‘Florestan and Eusebius form my dual nature; I should like to melt them into the perfect man, Raro.’  
+> *To* <span class="small-caps">Heinrich Dorn,</span> *September* 14, 1836.
 
 ### Letter 19: Robert Schumann → Johanna Christiane Schumann
 
@@ -760,8 +758,7 @@ I must confess to you my painful, almost childish, dread of cholera, and my fear
 
 ### Letter 26: Robert Schumann → Friedrich Wieck
 
-### 26.
-*To Friedrich Wieck, at Frankfurt-am-Main.*
+### 26. *To Friedrich Wieck, at Frankfurt-am-Main.*
 
 <span class="small-caps">Leipzig</span>, *January* 11, 1832.
 
@@ -876,8 +873,8 @@ As the weather is so very threatening to-day, I am afraid I must deny myself the
 
 ### THE ‘DAVIDSBÜNDLER’
 
-> ‘The *Davidsbund*[^fn-p0112-1] is, as you will have gathered, a spiritual and romantic league. Mozart was as much a member of it as Berlioz now is, or as you now are, without being enrolled in due form.’
-—*From a letter to* <span class="small-caps">Heinrich Dorn</span>, *September* 14, 1836.
+> ‘The *Davidsbund*[^fn-p0112-1] is, as you will have gathered, a spiritual and romantic league. Mozart was as much a member of it as Berlioz now is, or as you now are, without being enrolled in due form.’  
+> —*From a letter to* <span class="small-caps">Heinrich Dorn</span>, *September* 14, 1836.
 
 ### Letter 33: Friedrich Wieck
 
@@ -891,7 +888,7 @@ As the weather is so very threatening to-day, I am afraid I must deny myself the
 
 To anyone with whose manner of speech I am less familiar, I should have answered bluntly: ‘Take all the honours yourself; all I ask is that you apply the curb when my ardour runs away with me, while I, for my part, undertake to do the same by you. But it is only fair that you should lend me your spurs if I flag.’ Am I, then, so greedy of fame, or so much in love with editorship—if, indeed, you dignify the charge of correspondence, etc., by that name? If you do not consider this the greatest possible sacrifice on my side, I shall not, of course, be able to convince you. I only undertake it because I am best acquainted with the circumstances, and because I am reluctant to give up an idea which is, I see, fraught with incalculable educational benefit both to mind and to heart.
 
-But as I may claim to know your way of talking, and am possibly taking you too seriously, I prefer to understand you as expressing some doubt as to my future perseverance, which I recognize as reasonable . For who will guarantee me against unforeseen changes and disturbances? Did I not say I could only promise regular assistance for two years at most, which does not necessarily imply complete severance at the end of that period? Two years would be long enough for me to learn something of business routine, to gain strength and clearness, without pedantry, in my views on art, and that without endangering my enjoyment of art for its own sake. But I confess I should like your words modified somewhat. Let us work in concert, so that if one sleeps the other is up and doing; if one draws in his horns, the other thrusts his out.
+But as I may claim to know your way of talking, and am possibly taking you too seriously, I prefer to understand you as expressing some doubt as to my future perseverance, which I recognize as reasonable. For who will guarantee me against unforeseen changes and disturbances? Did I not say I could only promise regular assistance for two years at most, which does not necessarily imply complete severance at the end of that period? Two years would be long enough for me to learn something of business routine, to gain strength and clearness, without pedantry, in my views on art, and that without endangering my enjoyment of art for its own sake. But I confess I should like your words modified somewhat. Let us work in concert, so that if one sleeps the other is up and doing; if one draws in his horns, the other thrusts his out.
 
 I claim your indulgence for my outspokenness, but, indeed, if our structure begins to shake in these early days of its foundation, the subsequent collapse is easy to foresee. If so complicated an undertaking is to be carried through at all, its promoters must give each other mutual and unconditional support. If your own support is conditional, as your letter of yesterday would seem to indicate, the fulfilment of the scheme must necessarily suffer.
 
@@ -1147,7 +1144,7 @@ That I (do as you like and as you think best about giving my name) am engaged to
 
 I received your kind letter just as I was thinking of sitting down to write to you about a very important matter, as it happens, in which I need the advice of a tried friend like yourself. You must not be surprised if within a few months my double—that is, myself—comes knocking at your door, and announces that he is going to spend the next few years in Vienna, and perhaps settle there for good. . . . More when I see you ; I cannot write it. It is settled that I must be in Vienna by October at the latest. And the paper ? you will ask. Of course, I am not giving it up. Oswald Lorenz is looking after it from October to December, and from January onwards it is to be printed in Vienna, where I need your kind help. We must, of course, have a license for it, which is, I suppose, to be obtained from the censor's office under Count Sedlnitzky. I am convinced that they will not raise any great difficulties, as it is purely an art paper, and has from the first circulated in the Austrian States ; but, knowing from hearsay how cautious the authorities are, and how slowly such transactions are put through, I must set the matter in motion at once, and send in my request for permission to bring out the paper in Vienna immediately, if the first number of the new volume is to be distributed from Vienna in the middle of December. As I am entirely ignorant of the form and phrasing in which such a request should be couched for Austria, I beg you to come to the help of a poor artist who has had no experience of the administration and the censorship. I shall never forget any obligation to you in this matter.
 
-Would you, then, please ask your lawyer to whom the request should be addressed, and how it should be worded? Perhaps you could ask him to draw up the actual petition by the aid of my sketch over the page, and send it on to me. I could then have a fair copy made, and perhaps send it to Sedlnitzky through our Ambassador, Prince Schönburg, to whom I have an introduction. Then, can you tell me whether the Viennese authorities will require information relative to my previous occupation, my financial position (my affairs are all in order), and so on, and if I ought to produce this with the petition? Lastly, whom do you recommend as agent for Friese? We have tried Haslinger and Diabelli, but neither of them responds as we should have liked. I should prefer a bookseller in any case, as I should then have nothing to fear from possible interference on the part of publishers. Friese is still to be the publisher; I am the proprietor . He really likes the idea of the change, as he only stands to gain by it. The paper would have on it the name of a Vienna firm, as well as his. I should have to begin a fresh sheet were I to tell you all the beautiful things I expect from the future: how the journal is to enlarge its range, to increase its influence, and form a bond between north and south. You are the only man I know in Vienna who is intelligent, as well as thorough and modest. You will not be disappointed in me, or lose your friendly feeling for me? Do you not also look forward to much that is beautiful in the future, which will surely not deceive us?
+Would you, then, please ask your lawyer to whom the request should be addressed, and how it should be worded? Perhaps you could ask him to draw up the actual petition by the aid of my sketch over the page, and send it on to me. I could then have a fair copy made, and perhaps send it to Sedlnitzky through our Ambassador, Prince Schönburg, to whom I have an introduction. Then, can you tell me whether the Viennese authorities will require information relative to my previous occupation, my financial position (my affairs are all in order), and so on, and if I ought to produce this with the petition? Lastly, whom do you recommend as agent for Friese? We have tried Haslinger and Diabelli, but neither of them responds as we should have liked. I should prefer a bookseller in any case, as I should then have nothing to fear from possible interference on the part of publishers. Friese is still to be the publisher; I am the proprietor. He really likes the idea of the change, as he only stands to gain by it. The paper would have on it the name of a Vienna firm, as well as his. I should have to begin a fresh sheet were I to tell you all the beautiful things I expect from the future: how the journal is to enlarge its range, to increase its influence, and form a bond between north and south. You are the only man I know in Vienna who is intelligent, as well as thorough and modest. You will not be disappointed in me, or lose your friendly feeling for me? Do you not also look forward to much that is beautiful in the future, which will surely not deceive us?
 
 I close my letter with unusual emotion, and with a grateful heart. Let me have your help, for my life’s happiness depends partly on it; I am no longer alone. All this is for your eyes only. . . .
 
@@ -1291,7 +1288,7 @@ My editorial duties can only fill a secondary place, great as is my devotion to 
 
 <span class="small-caps">Leipzig</span>, *February 29, 1840.*
 
-My satisfaction is now complete. The eulogy[^fn-p0166-1] is so impressive that I suspect I have you to thank for it. It has given the greatest satisfaction to me and to my friends. A copy was sent first thing, of course, to a certain young lady who is still enough of a child to jump for joy at her new dignity in being betrothed to Dr. Schumann. She is sure to write and thank you herself, but you will have to wait until she goes to Berlin for the signed portrait. She keeps all her things there. The journey to Copenhagen, on which I was to have accompanied her and her mother, will probably be given up, as she dreads the crossing so very much. There is still a possibility of it, however . In any case, I shall soon see her, and I need hardly tell you what glorious times we shall have together at the piano and elsewhere. . . .
+My satisfaction is now complete. The eulogy[^fn-p0166-1] is so impressive that I suspect I have you to thank for it. It has given the greatest satisfaction to me and to my friends. A copy was sent first thing, of course, to a certain young lady who is still enough of a child to jump for joy at her new dignity in being betrothed to Dr. Schumann. She is sure to write and thank you herself, but you will have to wait until she goes to Berlin for the signed portrait. She keeps all her things there. The journey to Copenhagen, on which I was to have accompanied her and her mother, will probably be given up, as she dreads the crossing so very much. There is still a possibility of it, however. In any case, I shall soon see her, and I need hardly tell you what glorious times we shall have together at the piano and elsewhere. . . .
 
 ### Letter 61: Keferstein
 
@@ -1433,7 +1430,7 @@ But enough of that. It is perhaps hardly necessary to add the assurance that I a
 
 I do not believe that a similarly perfect example is to be found in the whole annals of art. Not only was each the heart's choice of the other, not only was it on either side the bitter-sweet love of youth, which touches the extremes of joy and despair—but they fought a hard fight in evil days before their happiness was won. They were two noble souls, distinguished by fastidious purity and true excellence of character—two buoyant minds consecrated to the service of art. And, to fill the measure of their happiness, they served the same art. Their marriage fairly symbolizes the union of the male and female elements in creative art. It is wonderful to observe how they adapted themselves one to the other ; how the man's artistic production was inspired and intensified by the woman's presence, and how her reproductive art reached its supreme excellence through his works. She was the ideal interpreter of her husband's music, and to her he entrusted his finest conceptions. May it not almost be called an actual marriage between the arts ? From Schumann's letters and those of his friends we gain a fair conception of their wedded happiness, but we find the real basis for our conclusions in the standard biography of *Clara Schumann* (Breitkopf and Härtel, Leipzig, 1903-1905), by Berthold Litzmann, who is to be envied for his pleasant task. He may well say on his title-page, 'from diaries and letters,' for further reference was practically unnecessary. The diaries offer peculiarly interesting material in as great abundance as could be desired. There are in all forty-seven quarto volumes, which form an almost unbroken narrative of Clara Schumann's life, from her birth to the beginning of her last illness. True, her father made the greater proportion of the entries up to her nineteenth birthday (1838), but sufficient letters are available to give a vivid individual picture of her. Her father's collaboration throws some light on his own character, which, though insufficient to explain his strange subsequent behaviour, prevents us from conceiving him to be merely a madman or a criminal. Although made up of genuine letters and diaries which chronicle experiences and emotions, this book has all the fascination of an exciting novel, in which the art of the story-teller makes the joys and sorrows of his characters seem part of our personal experience. The personages of the drama might have stepped out of a novel. Between the hero and the heroine stands the lady's father, hard as stone, inexorable. The unfortunate girl has to choose between her father, to whom she owes everything and for whom she has a deep filial affection, and her lover, whom her father first rejects for no apparent reason, then repels with violence, and finally treats as a deadly enemy. Always capricious, but otherwise a man of strong and upright character, her father descends to heartless tyranny, and even to slander, as he sees his daughter, after her first hesitation and doubt, become more and more confirmed in her devotion to her lover. The whole affair is a puzzle. Schumann had proved the steadfastness of his love ; his powers were gaining increasing recognition, and he was able to offer his wife an assured future. Why, then, did this estimable teacher persist in opposing his daughter's marriage with the composer ? The conclusion drawn from many passages in the letters is that the old man was actuated by sheer jealousy and avarice. Yet, if he had consistently encouraged rich or aristocratic suitors, he had also favoured the pretensions of an ordinary piano teacher. This embittered struggle, which eventually became a tragi-comedy to the onlookers, was a real tragedy to the father—a tragedy to the artist in him.
 
-Friedrich Wieck (1785-1873) remains one of the greatest pianoforte teachers of all time. He was not only absolutely conscientious, but passionately attached to his calling. In presenting his daughter to the world as a finished artist, he was peculiarly conscious of achieving his masterpiece. Even before her birth he had determined that, if a girl, she should become a great pianist, and should receive the name Clara as a presage of her brilliant destiny. He witnessed the splendid accomplishment of his task. The whole world paid tribute to his child ; he saw in her neither a phenomenal talent, nor a prodigy of iron diligence, but his own handiwork. She was both daughter and pupil. Then he saw her growing love for Robert Schumann, who had also been his pupil, but had only used Wieck's school as a means to higher ends. Schumann's nature was inaccessible to pedagogic instruction . His creative genius and native superiority of talent was to Wieck, whose art was purely reproductive, a standing reminder of his own creative impotence. Wieck knew well enough that once Clara became Schumann's wife, she would no longer take her art from her father direct. Had Schumann's music resembled that of Kalkbrenner, Herz, Hünten, or others of their fellows—music which is only effective in the hands of virtuosi—the case would have been different. He, however, wrote music which offered little scope for technical display but entirely captivated genuine artists. Wieck knew his daughter far too well not to foresee her whole-hearted enthusiasm for Schumann's music. He fought for the artist, not for the daughter. The artist was in a far higher degree his work; his creative power found its fullest expression in her. Could he see his work, the product of his own art, lost under the influence of another's personality and cease to exist, except in interpreting the creations of another man?
+Friedrich Wieck (1785-1873) remains one of the greatest pianoforte teachers of all time. He was not only absolutely conscientious, but passionately attached to his calling. In presenting his daughter to the world as a finished artist, he was peculiarly conscious of achieving his masterpiece. Even before her birth he had determined that, if a girl, she should become a great pianist, and should receive the name Clara as a presage of her brilliant destiny. He witnessed the splendid accomplishment of his task. The whole world paid tribute to his child ; he saw in her neither a phenomenal talent, nor a prodigy of iron diligence, but his own handiwork. She was both daughter and pupil. Then he saw her growing love for Robert Schumann, who had also been his pupil, but had only used Wieck's school as a means to higher ends. Schumann's nature was inaccessible to pedagogic instruction. His creative genius and native superiority of talent was to Wieck, whose art was purely reproductive, a standing reminder of his own creative impotence. Wieck knew well enough that once Clara became Schumann's wife, she would no longer take her art from her father direct. Had Schumann's music resembled that of Kalkbrenner, Herz, Hünten, or others of their fellows—music which is only effective in the hands of virtuosi—the case would have been different. He, however, wrote music which offered little scope for technical display but entirely captivated genuine artists. Wieck knew his daughter far too well not to foresee her whole-hearted enthusiasm for Schumann's music. He fought for the artist, not for the daughter. The artist was in a far higher degree his work; his creative power found its fullest expression in her. Could he see his work, the product of his own art, lost under the influence of another's personality and cease to exist, except in interpreting the creations of another man?
 
 Such was the nature of this often misunderstood and misrepresented struggle. The artist Wieck fought to retain possession of his own masterpiece. We must forgive the artist the faults of the man and the father.
 
@@ -1725,7 +1722,7 @@ You cannot think how your letter has raised and strengthened me. . . . You are s
 
 But I see you in many another unforgettable guise. Once you were in a black dress, going to the theatre with Emilia List ; it was during our separation. I know you will not have forgotten ; it is vivid with me, Another time you were walking in the Thomasgässchen with an umbrella up, and you avoided me in desperation. And yet another time, as you were putting on your hat after a concert, our eyes happened to meet, and yours were full of the old unchanging love. I picture you in all sorts of ways, as I have seen you since. I did not look at you much, but you charmed me so immeasurably. . . . Ah, I can never praise you enough for yourself or for your love of me, which I don't really deserve.
 
-*[Illustration, p. 177]*
+*[Illustration, p. 203]*
 
 E. Fechner. Del.
 
@@ -2147,7 +2144,7 @@ There is no other way of deciding the matter. I cannot impress it upon you too s
 
 Once more I ask you, in Clara's name and my own, to give your consent to our union next Easter. Two years have passed since my first appeal. You doubted our constancy ; but it has stood the test, and our confidence in a happy future is unshaken.
 
-My former statement as to my means was exact. They are now better and more assured, and we can face the future fearlessly. Oh, be moved by the ties of nature ! Do not drive us to extremes. Clara's twentieth birthday is close at hand. Give your consent, and make it a day of peace. Give us rest after our hard fight. You owe it to yourself , to Clara, and to me. I shall await your final decision anxiously.
+My former statement as to my means was exact. They are now better and more assured, and we can face the future fearlessly. Oh, be moved by the ties of nature ! Do not drive us to extremes. Clara's twentieth birthday is close at hand. Give your consent, and make it a day of peace. Give us rest after our hard fight. You owe it to yourself, to Clara, and to me. I shall await your final decision anxiously.
 
 As of old, yours in affection and confidence,
 
@@ -2424,8 +2421,7 @@ There was a little dancing, no excessive gaiety, but every face shone with real 
 
 ## BOOK III. AT THE ZENITH (1840-1854)
 
-### BOOK III
-AT THE ZENITH (1840-1854)
+### BOOK III AT THE ZENITH (1840-1854)
 
 > ‘The man and the musician in me have always struggled to manifest themselves simultaneously; indeed, this is still the case, although I have attained some degree of mastery over both.’—*To* C. K<span class="small-caps">ossmaly</span>, *May* 5, 1843.
 
@@ -2731,8 +2727,7 @@ One more important question. I could not leave here before next Easter, as my op
 
 ### Letter 118: Robert Schumann → F. Hiller
 
-### 118.
-*To F. Hiller.*
+### 118. *To F. Hiller.*
 
 <span class="small-caps">Dresden</span>, *December* 3, 1849.
 
@@ -2783,8 +2778,7 @@ If you could bring yourself to make certain alterations, purely in consideration
 
 ### Letter 121: Robert Schumann → R. Pohl
 
-### 121.
-*To R. Pohl.*
+### 121. *To R. Pohl.*
 
 <span class="small-caps">Düsseldorf</span>, *May* 13, 1851.
 
@@ -2921,9 +2915,7 @@ Yours in friendship,
 
 R. <span class="small-caps">Sch.</span>
 
-I have begun to collect and arrange my ideas on the young eagle. Much as I should like to assist him in his first public flight, I fear that my personal attachment is too great to admit of an impartial consideration of the lights and shadows of his plumage. When I come to a conclusion, which
-
-may be within a few days, I shall impart it to his playmate and companion-in-arms, who knows him even better than I.
+I have begun to collect and arrange my ideas on the young eagle. Much as I should like to assist him in his first public flight, I fear that my personal attachment is too great to admit of an impartial consideration of the lights and shadows of his plumage. When I come to a conclusion, which may be within a few days, I shall impart it to his playmate and companion-in-arms, who knows him even better than I.
 
 *October* 14.
 
@@ -3028,9 +3020,7 @@ I will close now. It is growing dark. . . .
 
 ‘I <span class="small-caps">will</span> close now. It is growing dark.’ So the last letter ended. It was indeed growing dark in Schumann’s mind, and he was soon to be compelled to lay down his life-work for ever. Ruppert Becker, a member of the Düsseldorf orchestra, whose father had been Schumann’s friend in the days of his hardest struggle, gives in his diary an account of his condition at that time. I quote from Jansen’s new series of Schumann’s letters (p. 533).
 
-> ‘*February* 14*th.*—Schumann was speaking to-day of a curious illusion of which he has been conscious for several days past. He hears inwardly exquisite musical compositions, perfect in form. The sound is generally that of distant wind-instruments, playing particularly beautiful harmonies. His inward concert actually began while we were sitting at Junge’s,[^fn-p0313-1] forcing him to put away the paper he was reading. Heaven send this may mean nothing serious! So it would be, he said, in the other world, when our souls have laid aside their bodily vestment. It seems so strange that this curious
-
-illusion should possess Schumann just now, when he has composed nothing for two months or more.’
+> ‘*February* 14*th.*—Schumann was speaking to-day of a curious illusion of which he has been conscious for several days past. He hears inwardly exquisite musical compositions, perfect in form. The sound is generally that of distant wind-instruments, playing particularly beautiful harmonies. His inward concert actually began while we were sitting at Junge’s,[^fn-p0313-1] forcing him to put away the paper he was reading. Heaven send this may mean nothing serious! So it would be, he said, in the other world, when our souls have laid aside their bodily vestment. It seems so strange that this curious illusion should possess Schumann just now, when he has composed nothing for two months or more.’
 
 ‘*February 21st.*—The blow of which I could not trust myself to think has fallen; Schumann has been out of his mind for some days. I only heard of it yesterday from Dietrich, who further informed me that Frau Schumann is glad when anyone comes to relieve her from her unceasing watch over him. I went to see him to-day accordingly, but should never have suspected his condition, had not Dietrich assured me of it. I found him just as usual; chatted with him for half an hour, and then took leave. Frau Schumann looks worse than I have ever seen her. If no change comes, the worst is to be feared for her. To think that in her delicate condition[^fn-p0314-1] she has not once been able to close her eyes since his illness set in. Poor, unhappy lady! She sits by the bedside all night, listening for the least movement.’
 
@@ -3092,7 +3082,7 @@ Your
 
 <span class="small-caps">Endenich</span>, *November* 27, 1854.
 
-How I long to see you, dear friend, and hear your lovely *Variations*[^fn-p0321-1] played either by you or by Clara, of whose beautiful rendering Joachim told me in his letter. There is an exquisite coherence about the whole work, a wealth of fantastic glamour peculiarly your own, and, moreover, evidence of what is to me a new development on your part—I mean the profound skill with which you introduce the theme at odd moments, mysteriously, passionately, and again let it disappear completely. Then the wonderful close to the 14th variation, with its ingenious imitation in the second above ; the 15th in G flat, with its glorious second part ; and the last ! Thank you, too, my dear Johannes, for all your kindness to my Clara. She speaks of it constantly in her letters. Yesterday, as perhaps you know, she sent me two volumes of my compositions and Jean Paul's *Flegeljahre,* to my great delight. I shall hope soon to see your handwriting in another sense, much as I treasure your manuscript. The winter is fairly mild. You know the neighbourhood of Bonn. I can always find pleasure in Beethoven's statue and the charming view over the Siebengebirge . It was at Hanover that we last met. Be sure and write soon to your admiring and loving friend,
+How I long to see you, dear friend, and hear your lovely *Variations*[^fn-p0321-1] played either by you or by Clara, of whose beautiful rendering Joachim told me in his letter. There is an exquisite coherence about the whole work, a wealth of fantastic glamour peculiarly your own, and, moreover, evidence of what is to me a new development on your part—I mean the profound skill with which you introduce the theme at odd moments, mysteriously, passionately, and again let it disappear completely. Then the wonderful close to the 14th variation, with its ingenious imitation in the second above ; the 15th in G flat, with its glorious second part ; and the last ! Thank you, too, my dear Johannes, for all your kindness to my Clara. She speaks of it constantly in her letters. Yesterday, as perhaps you know, she sent me two volumes of my compositions and Jean Paul's *Flegeljahre,* to my great delight. I shall hope soon to see your handwriting in another sense, much as I treasure your manuscript. The winter is fairly mild. You know the neighbourhood of Bonn. I can always find pleasure in Beethoven's statue and the charming view over the Siebengebirge. It was at Hanover that we last met. Be sure and write soon to your admiring and loving friend,
 
 R. <span class="small-caps">Schumann.</span>
 

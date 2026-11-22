@@ -18,10 +18,10 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 5,
+  "letters": 4,
   "notes": 0,
   "pages": 38,
-  "dated_letters": 4
+  "dated_letters": 3
  },
  "provenance_tier": "machine_checked",
  "quality": {
@@ -119,11 +119,11 @@
   ],
   [
    1693,
-   3
+   2
   ]
  ],
  "periods": [],
- "unperiodised_count": 5,
+ "unperiodised_count": 4,
  "frontispiece": {},
  "title_page": {
   "page": 1,
@@ -133,27 +133,27 @@
   {
    "format": "epub",
    "file": "newton-bentley-1756.epub",
-   "bytes": 15417,
-   "sha256": "e501801919727dea28c327a7b267cf17a926298d92f5980119616ea4c0693f78"
+   "bytes": 95232,
+   "sha256": "23ca2b262a5f2d70b6dd42c63f6704210f7d46c68d61a98ea781eca899a15e75"
   },
   {
    "format": "markdown",
    "file": "newton-bentley-1756.md",
-   "bytes": 28216,
-   "sha256": "dbcface34e80239cdf7e4666d5c4a05b2ac500355d8392eea1b2e247277c45fa"
+   "bytes": 28184,
+   "sha256": "99bd8d1ebaa895e91affbe3ae95007d76c0b391e2d01c5565b3ae12e899b5ff9"
   },
   {
    "format": "tei",
    "file": "newton-bentley-1756.tei.xml",
-   "bytes": 35143,
-   "sha256": "697c6f5bcd9a4a89b102813e6925381d2d4c8183e71d124f914390a8006d4059"
+   "bytes": 35123,
+   "sha256": "0a59b99f5bc748595f86914eb3a6bba4e5cafbc37e744e467af30a1a9179ea1f"
   }
  ],
  "scan_base": "https://archive.org/download/fourlettersfroms00newt/page/",
  "provenance": {
   "active_run_id": "canonical-v1-1756",
-  "compiled_at": "2026-11-20T16:22:38Z",
-  "source_ast_sha256": "3a6b4bb1818b55ad811b1783c4e5a96b7cb2462242b74cf0f75f249ca1ee68c7",
+  "compiled_at": "2026-11-22T08:51:48Z",
+  "source_ast_sha256": "8ab51272faae7450a3b323a1c6ccdae972ab13c559919f7d560a2b2518c8ace8",
   "hugo_renderer_version": "1.0.0"
  }
 }

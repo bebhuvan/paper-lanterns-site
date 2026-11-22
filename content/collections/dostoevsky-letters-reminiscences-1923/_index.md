@@ -20,10 +20,10 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 32,
+  "letters": 31,
   "notes": 30,
   "pages": 310,
-  "dated_letters": 29
+  "dated_letters": 28
  },
  "provenance_tier": "community",
  "quality": {
@@ -203,45 +203,45 @@
   ],
   [
    1881,
-   2
+   1
   ]
  ],
  "periods": [],
- "unperiodised_count": 32,
+ "unperiodised_count": 31,
  "frontispiece": {
   "page": 10,
   "leaf": 9,
   "caption": "F. M. Dostoevsky.\nFrom the portrait by V. G. Perov"
  },
  "title_page": {
-  "page": 10,
-  "leaf": 9
+  "page": 13,
+  "leaf": 12
  },
  "downloads": [
   {
    "format": "epub",
    "file": "dostoevsky-letters-reminiscences-1923.epub",
-   "bytes": 159021,
-   "sha256": "c847e862ab0d3e95211566527c8bad8bbcee33ab29c60623313d4e4a88a7100b"
+   "bytes": 216437,
+   "sha256": "1942bd56ee4e6b7219eb4a742faf91645d39a76991b0b718024fe7100855ee49"
   },
   {
    "format": "markdown",
    "file": "dostoevsky-letters-reminiscences-1923.md",
-   "bytes": 363442,
-   "sha256": "50309c2ad7bdb7cbb9727b3b777d547e93fa18964ed439dea1b34ec289bdcb89"
+   "bytes": 363393,
+   "sha256": "a8d6b822fc73edf02627e41a3af9fad9aee501203903994ba6e85099a924182c"
   },
   {
    "format": "tei",
    "file": "dostoevsky-letters-reminiscences-1923.tei.xml",
-   "bytes": 412995,
-   "sha256": "66aafa09017b1b6b4de9c508e1810a9b687411e0375ee2605aceeebe68e834d9"
+   "bytes": 412984,
+   "sha256": "49ef741f998011d5222dcd7a2ac112f6f0f12d6e068d5376900ecc654d3ebc92"
   }
  ],
  "scan_base": "https://archive.org/download/bwb_P8-ADV-479/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:20:35Z",
-  "source_ast_sha256": "6d8f21385423125989217e32b1762e96aa5abb042701cb47eef633c3b4717317",
+  "compiled_at": "2026-11-22T08:53:07Z",
+  "source_ast_sha256": "f11d53e41e146238ae5fe41247a5f5600373a01539e843ae83b8b44714883486",
   "hugo_renderer_version": "1.0.0"
  }
 }

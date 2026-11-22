@@ -18,10 +18,10 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 158,
+  "letters": 148,
   "notes": 15,
   "pages": 352,
-  "dated_letters": 113
+  "dated_letters": 111
  },
  "provenance_tier": "machine_checked",
  "quality": {
@@ -372,10 +372,6 @@
    5
   ],
   [
-   1700,
-   1
-  ],
-  [
    1706,
    2
   ],
@@ -452,10 +448,6 @@
    1
   ],
   [
-   1791,
-   1
-  ],
-  [
    1793,
    5
   ],
@@ -513,7 +505,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 158,
+ "unperiodised_count": 148,
  "frontispiece": {},
  "title_page": {
   "page": 7,
@@ -523,27 +515,27 @@
   {
    "format": "epub",
    "file": "old-love-letters-1883.epub",
-   "bytes": 197158,
-   "sha256": "6b8f8a7730b06c10eda91d01c2b27a8096145e8be9a5632f95e30101a7d2d54d"
+   "bytes": 275655,
+   "sha256": "4198172f62bdf3730bb16e3563be43bdcbc79ac1b4b09bc40fe1bdfbd49100a6"
   },
   {
    "format": "markdown",
    "file": "old-love-letters-1883.md",
-   "bytes": 442220,
-   "sha256": "f18eabff676859c4fce975c4df8e2986c39c3c03fcccd975a1a5f569e84287ee"
+   "bytes": 441785,
+   "sha256": "41c16f1bce2bc40ab4ae0310dd30c967dc32faea2b626adfabb0178c056f08f9"
   },
   {
    "format": "tei",
    "file": "old-love-letters-1883.tei.xml",
-   "bytes": 550319,
-   "sha256": "4a144be21f8521c0624153572d0df3b3657cc036fdc6d5b213b846c108906aad"
+   "bytes": 547855,
+   "sha256": "4798fdb8e913726b324d5e4bc63fe3fcdfff4df7372cd56ba60c38e0cb363268"
   }
  ],
  "scan_base": "https://archive.org/download/oldloveletters00rich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:23:17Z",
-  "source_ast_sha256": "72d2e0a61a0dbbc57b238687d5bbbb9af04b8e39f376badb3271959bb795cd5c",
+  "compiled_at": "2026-11-22T08:56:37Z",
+  "source_ast_sha256": "8138befe6b99ca86c9a8e6670f43c466f0fe8f7be676c700ca4417d221e39065",
   "hugo_renderer_version": "1.0.0"
  }
 }

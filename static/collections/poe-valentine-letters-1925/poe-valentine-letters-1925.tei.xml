@@ -9,171 +9,162 @@
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
         <idno type="book_id">poe-valentine-letters-1925</idno>
-        <availability status="free"><p>CC0 1.0 Public Domain</p></availability>
+        <availability status="free"><p>CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)</p></availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>Edgar Allan Poe Letters Till Now Unpublished, in the Valentine Museum, Richmond, Virginia</title>
           <date>1925</date>
+          <idno type="URI">https://archive.org/details/in.ernet.dli.2015.88404</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Diplomatic archival transcription preserving historical orthography, diacritics, epistolary layouts, and footnotes.</p>
+      </editorialDecl>
+    </encodingDesc>
     <profileDesc>
       <correspDesc xml:id="letter-0001">
         <note>Correspondents unrecorded in source</note>
       </correspDesc>
       <correspDesc xml:id="letter-0002">
-        <note>Correspondents unrecorded in source</note>
-      </correspDesc>
-      <correspDesc xml:id="letter-0003">
         <correspAction type="sent"><persName>Edgar</persName><placeName>University</placeName><date when="1826-05">May 1826</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0004">
+      <correspDesc xml:id="letter-0003">
         <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>University</placeName><date when="1826-09-21">Septemʳ 21ˢᵗ 1826</date></correspAction>
         <correspAction type="received"><persName>Jno Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0005">
-        <correspAction type="sent"><persName>E. A Poe</persName><placeName>University</placeName><date when="1826-09-21">21 Sept 1826</date></correspAction>
-        <correspAction type="received"><persName>Jno Allan</persName></correspAction>
-      </correspDesc>
-      <correspDesc xml:id="letter-0006">
+      <correspDesc xml:id="letter-0004">
         <note>Correspondents unrecorded in source</note>
       </correspDesc>
-      <correspDesc xml:id="letter-0007">
+      <correspDesc xml:id="letter-0005">
         <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>Richmond</placeName><date>Monday</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0008">
+      <correspDesc xml:id="letter-0006">
         <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>Richmond</placeName><date>Tuesday</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0009">
+      <correspDesc xml:id="letter-0007">
         <correspAction type="sent"><persName>John Allan</persName></correspAction>
         <correspAction type="received"><persName>Edgar Allan Poe</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0010">
-        <correspAction type="sent"><persName>Edgar A, Poe</persName><placeName>Fort Moultrie, Charleston Hʳ</placeName><date when="1828-12-01">December 1ˢᵗ 1828</date></correspAction>
+      <correspDesc xml:id="letter-0008">
+        <correspAction type="sent"><persName>Edgar A, Poe</persName><placeName>Fort Moultrie, Charleston Hʳ</placeName><date when="1828-12-01">December 1ˢᵗ 1828.</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0011">
+      <correspDesc xml:id="letter-0009">
         <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>Fortress Monroe (Va)</placeName><date when="1828-12-22">December 22ᵈ 1828</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0012">
+      <correspDesc xml:id="letter-0010">
         <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>Fortress Monroe</placeName><date when="1829-02-04">February 4ᵗʰ 1829</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0013">
-        <correspAction type="sent"><persName>Edgar A. Poe</persName><placeName>Fortress Monroe</placeName><date when="1829-03-10">March 10ᵗʰ 1829</date></correspAction>
+      <correspDesc xml:id="letter-0011">
+        <correspAction type="sent"><persName>Edgar A. Poe</persName><placeName>Fortress Monroe</placeName><date when="1829-03-10">March 10ᵗʰ 1829.</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0014">
+      <correspDesc xml:id="letter-0012">
         <correspAction type="sent"><persName>John Allan</persName><placeName>Richmond</placeName><date when="1829-05-18">May 18ᵗʰ 1829</date></correspAction>
         <correspAction type="received"><persName>Edgar Allan Poe</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0015">
+      <correspDesc xml:id="letter-0013">
         <correspAction type="sent"><persName>Edgar A. Poe</persName><placeName>Baltimore</placeName><date when="1829-05-20">May 20. 1829</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0016">
+      <correspDesc xml:id="letter-0014">
         <note>Correspondents unrecorded in source</note>
       </correspDesc>
-      <correspDesc xml:id="letter-0017">
+      <correspDesc xml:id="letter-0015">
         <correspAction type="sent"><persName>E A. Poe</persName><placeName>Baltimore</placeName><date when="1829-05-29">May 29ᵗʰ 1829</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0018">
+      <correspDesc xml:id="letter-0016">
         <correspAction type="sent"><persName>Edgar A. Poe</persName><placeName>Baltimore</placeName><date when="1829-06-25">June 25 1829</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0019">
+      <correspDesc xml:id="letter-0017">
         <correspAction type="sent"><persName>Edgar A. Poe</persName><placeName>Baltimore</placeName><date when="1829-07-15">July 15ᵗʰ 1829</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0020">
+      <correspDesc xml:id="letter-0018">
         <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>Baltimore</placeName><date when="1829-07-26">July 26—1829</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0021">
+      <correspDesc xml:id="letter-0019">
         <correspAction type="sent"><persName>Edgar A. Poe</persName><placeName>Baltimore</placeName><date when="1829-08-04">Aug : 4-/29</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0022">
+      <correspDesc xml:id="letter-0020">
         <correspAction type="sent"><persName>Edgar A. Poe</persName><placeName>Baltimore</placeName><date when="1829-08-10">August 10ᵗʰ 1829</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0023">
-        <correspAction type="sent"><persName>Edgar A Poe</persName><date when="1829-08-10">Augt 10ᵗʰ 1829</date></correspAction>
-        <correspAction type="received"><persName>John Allan</persName></correspAction>
-      </correspDesc>
-      <correspDesc xml:id="letter-0024">
+      <correspDesc xml:id="letter-0021">
         <correspAction type="sent"><persName>Edgar A. Poe</persName><placeName>Baltᵒ</placeName><date when="1829-10-30">Oct: 30. 1829.</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0025">
+      <correspDesc xml:id="letter-0022">
         <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>Baltᵒ</placeName><date when="1829-11-12">Nov: 12ᵗʰ 1829</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0026">
+      <correspDesc xml:id="letter-0023">
         <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>Baltᵒ</placeName><date when="1829-11-18">Nov 18ᵗʰ 1829</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0027">
+      <correspDesc xml:id="letter-0024">
         <correspAction type="sent"><persName>E A Poe</persName><placeName>Richmond</placeName><date when="1830-05-03">May 3ᵈ 1830.</date></correspAction>
         <correspAction type="received"><persName>Samuel Graves</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0028">
+      <correspDesc xml:id="letter-0025">
         <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>West Point</placeName><date when="1830-06-28">June 28ᵗʰ</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0029">
+      <correspDesc xml:id="letter-0026">
         <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>West Point</placeName><date when="1830-11-06">Novʳ 6ᵗʰ 1830</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0030">
-        <correspAction type="sent"><persName>E A Poe</persName><placeName>West Point</placeName><date when="1830-11-06">6 Nov 1830</date></correspAction>
-        <correspAction type="received"><persName>John Allan</persName></correspAction>
-      </correspDesc>
-      <correspDesc xml:id="letter-0031">
+      <correspDesc xml:id="letter-0027">
         <correspAction type="sent"><persName>E A Poe</persName><placeName>West Point</placeName><date when="1831-01-03">Janʸ 3ᵈ 1830.</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0032">
+      <correspDesc xml:id="letter-0028">
         <correspAction type="sent"><persName>E A Poe</persName><placeName>N. York</placeName><date when="1831-02-21">Feb 21, 1831</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0033">
+      <correspDesc xml:id="letter-0029">
         <note>Correspondents unrecorded in source</note>
       </correspDesc>
-      <correspDesc xml:id="letter-0034">
+      <correspDesc xml:id="letter-0030">
         <correspAction type="sent"><persName>E A Poe</persName><placeName>Baltimore</placeName><date when="1831-10-16">Octo: 16ᵗʰ 1831.</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0035">
+      <correspDesc xml:id="letter-0031">
         <correspAction type="sent"><persName>E A Poe</persName><placeName>Balt:</placeName><date when="1831-11-18">Novʳ: 18. 1831,</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0036">
+      <correspDesc xml:id="letter-0032">
         <correspAction type="sent"><persName>Mrs. Wm Clemm</persName><placeName>Balt.</placeName><date when="1831-12-05">Dec, 5 1831</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0037">
+      <correspDesc xml:id="letter-0033">
         <correspAction type="sent"><persName>E A Poe</persName><placeName>Balt.</placeName><date when="1831-12-15">Dec. 15ᵗʰ, 1831.</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0038">
+      <correspDesc xml:id="letter-0034">
         <correspAction type="sent"><persName>E A Poe</persName><placeName>Baltimore</placeName><date when="1831-12-29">Dec: 29ᵗʰ 1831</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0039">
+      <correspDesc xml:id="letter-0035">
         <correspAction type="sent"><persName>E A Poe</persName><placeName>Baltimore</placeName><date when="1833-04-12">April 12ᵗʰ 1833</date></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
+    <front>
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
@@ -207,13 +198,12 @@
 <quote><p>Richmond, Va.<lb/>April 4, 1882.”</p></quote>
 <p rend="indented">Mr. Mayo made a mistake in enumerating the letters —attributing one of Mr. Allan’s two letters to Poe and overlooking the one from Poe to Sergeant Graves.</p>
 <p rend="indented">The reader will naturally wonder why there are only two letters from the University of Virginia. The answer may be found in the fact that while Mr. Allan made a habit of preserving his own correspondence he did not preserve his wife’s. If Edgar wrote to his adored and adoring foster-mother from the University or anywhere else his letters to her are not known to exist.</p>
-<p rend="indented">Study of the letters indicates that they are the only correspondence, published or unpublished, between Poe and his foster-father. There is, after Poe left the University, evidence of one missing letter, and one only.<ref xml:id="fnref-p0015-1" type="noteref" target="#fn-p0015-1">1</ref> Poe often mentions the time that has elapsed since he last wrote or since he heard, and Mr. Allan’s comments on the reverse of letters also account for time. Furthermore, the subject matter of the letters provides internal evidence that there is one, but no other missing communication <pb xml:id="page-16" n="6"/> . Mr. Allan kept them carefully and they have come down to us intact, save for slight mutilation of a page or two. Seldom have they been seen or read. They have lain silent and dark in safes, to be taken out at long intervals and shown, confidentially, to one or more persons.</p>
+<p rend="indented">Study of the letters indicates that they are the only correspondence, published or unpublished, between Poe and his foster-father. There is, after Poe left the University, evidence of one missing letter, and one only.<ref xml:id="fnref-p0015-1" type="noteref" target="#fn-p0015-1">1</ref> Poe often mentions the time that has elapsed since he last wrote or since he heard, and Mr. Allan’s comments on the reverse of letters also account for time. Furthermore, the subject matter of the letters provides internal evidence that there is one, but no other missing communication. <pb xml:id="page-16" n="6"/> Mr. Allan kept them carefully and they have come down to us intact, save for slight mutilation of a page or two. Seldom have they been seen or read. They have lain silent and dark in safes, to be taken out at long intervals and shown, confidentially, to one or more persons.</p>
 <p rend="indented">Now, a hundred years after the first of them was written and ninety-two years after the last, they will speak to the world.</p>
 <p rend="indented">And the world must be the judge between father and son.</p>
 <p rend="indented">No advocate will appear for either. In compliance with the wish of the custodians of the letters—the Trustees of the Valentine Museum—the editor presents them with only such comment as is necessary to fit them into the pattern of the authenticated incidents—not traditions—of Poe’s life-story, and with such notes as seem necessary to explain allusions.</p>
 <p rend="indented">Abundant proof that even in quite early days these letters were unknown and unread is furnished by Mrs. Louisa G. Allan, who owned them, but evidently had not examined them for years, if ever. In a letter to Colonel Thomas H. Ellis, the son of her husband’s partner, which was printed in the <hi rend="italic">Richmond Standard</hi> and reproduced in the <hi rend="italic">Richmond News Illustrated Saturday Magazine</hi>, July 28, 1900, she says:</p>
-<quote><p rend="indented">“Mr. Poe had not lived under Mr. Allan’s roof for</p></quote>
-<pb xml:id="page-17" n="7"/><p>two years before my marriage; and no one knew his whereabouts; his letters which were very scarce, were dated from St. Petersburg Russia, although he had enlisted in the army at Boston.”</p>
+<quote><p rend="indented">“Mr. Poe had not lived under Mr. Allan’s roof for <pb xml:id="page-17" n="7"/> two years before my marriage; and no one knew his whereabouts; his letters which were very scarce, were dated from St. Petersburg Russia, although he had enlisted in the army at Boston.”</p></quote>
 <p rend="indented">It will be seen that none of the letters are dated from foreign places and the one from Fort Moultrie, December 1, 1828, explains where Poe was during the nearly two years of his army service, following his enlistment in Boston, May 26, 1827. This and the letters of March 19 and 20, 1827, make it plain that Poe had been on no sea voyages other than those from Richmond to Boston and from Boston to Charleston, and that no letters passed between Poe and Mr. Allan after those referred to of March 19 and 20, 1827—from the Court House Tavern, Richmond, requesting that his trunk be sent to him— until the Fort Moultrie letter, December, 1828. These two important letters concerning the quarrel with Mr. Allan which made Poe homeless, are without dates in the originals, but after an interesting chase the editor has been able to supply the days of the month and year on which they were written.</p>
 <p rend="indented">The letters a tragic tale unfold. A tale of a loving father and son sentenced by relentless Fate, as the boy grew out of sunny childhood into restless, dreaming youth, to incurable incompatibility. Yes, <hi rend="italic">son</hi>, for Poe had lost his actor-father at too early an age to retain any recollection of him and had been the indulged only child of <pb xml:id="page-18" n="8"/> the Allan home all of his remembered life. It is a tragedy to make many a father’s heart ache as he reads it, and fill him with questioning whether or not he gives his own boy full understanding, and to fill many a son with regretful wonder as to whether he has appreciated the father’s attempts to do all that was best for him.</p>
 <p rend="indented">It is interesting to note that in many of the letters the form of address is “Dear Pa” and conclusion (generally, “Yours affectionately”) is occasionally, “Your affectionate son.” During times of strained relation the terms become the more formal “Dear Sir” and “Yours etc.”</p>
@@ -221,7 +211,7 @@
 <p rend="indented">These finds of Professor Campbell <hi rend="italic">combined</hi> with the data supplied by Mr. Allan’s London letters in the Valentine Museum add many new details and correct many errors in the sketchy picture of Poe’s childhood drawn by his biographers. Professor Campbell has given the results of his research in an article in <hi rend="italic">Modern Language</hi> <hi rend="italic">Notes</hi>, April, 1910, another in the <hi rend="italic">Sewanee Review</hi>, April, 1912, and another in <hi rend="italic">The Dial</hi>, February 17, 1916, and also in the Introduction to his volume, “The Poems of Edgar Allan Poe,” 1917. All of the standard biographies of Poe had been published before Professor Campbell’s discoveries were made known, and could receive no benefit from them. The editor’s use of the Ellis-Allan papers is in most cases from photostat copies of the originals, procured from the Library of Congress.<ref xml:id="fnref-p0019-1" type="noteref" target="#fn-p0019-1">1</ref></p>
 <p rend="indented">The earliest document from these papers containing mention of Poe antedates the sojourn of the Allan family in England. It is a letter from Edgar’s Aunt Eliza Poe, of Baltimore, to Mrs. Allan, written little more than a year after Edgar’s adoption. It is the only letter known to exist either to or from Mrs. Allan and here it is :</p>
 </div>
-<div xml:id="div-letter-0001" type="letter" corresp="#letter-0001">
+<div xml:id="div-unit-0003" type="narrative">
 <pb xml:id="page-20" n="10"/><quote><p rend="right">“Baltimore, February 8th, 1813.</p></quote>
 <quote><p rend="indented">“Tis the Aunt of Edgar that addresses Mrs. Allen for the second time, impressed with the idea that a letter if received could not remain unacknowledged so long as from the month of July, she is induced to write again in order to inquire in her family’s as well as in her own name after the health of the Child of her Brother, as well as that of his adopted Parents. I cannot suppose my dear Mrs. Allen that a heart possessed of such original humanity as yours must without doubt be could so long keep in suspense the anxious inquiries made through the medium of my letter by the Grand Parents of the Orphan of an unfortunate son, surely ere this allowing that you did not wish to commence a correspondence with one who is utterly unknown to you had you received it Mr. Allen would have written to my Father or Brother if it had been only to let them know how he was, but I am confident you never received it, for two reasons, the first is that not having the pleasure of knowing your christian name, I merely addressed it to Mrs. Allen of Richmond, the second is as near as I can recollect you were about the time I wrote to you at the Springs where Mr. Douglas saw you. Permit me my dear madam to thank you for your kindness to the little Edgar—he is truly the Child of fortune to be placed under the fostering care of the amiable Mr. and Mrs. Allen. Oh how few meet with such a lot—the Almighty <pb xml:id="page-21" n="11"/> Father of the Universe grant that he may never abuse the kindness he has received and <hi rend="italic">that</hi> from those who were not bound by any ties except those that the feeling and humane heart dictates—I fear that I have too long intruded on your patience, will you if so have the goodness to forgive me—and dare I venture to flatter myself with the hope that this will be received with any degree of pleasure or that you will gratify me so much as to answer it—give my love to the dear little Edgar and tell him tis his Aunt Eliza who writes this to you. My mother and family desire to be affectionately remembered to Mr. Allen and yourself—Henry frequently speaks of this little Brother and expresses a great desire to see him, tell him he sends his very best love to him and is greatly pleased to hear that he is so good and also so pretty A Boy as Mr. Douglas represented him to be—I feel as if I were wrighting to A Sister and can scarcely even at the risk of your displeasure prevail on myself to lay aside my pen—with the hope of your indulgence in pardoning my temerity I remain my dear Mrs. Allen yours</p></quote>
 <quote><p rend="right">with the greatest respect</p></quote>
@@ -258,7 +248,7 @@
 <p rend="indented">The second theory exploded concerns the personal relations between Poe and Mr. Allan. The letters which have been quoted show the place held by the child Edgar in his foster-father’s affections. Contrary to the general impression that the first serious falling out between Mr. Allan and his adopted son followed Poe’s year at the University, and was caused by dissipation there, it is evident that trouble between the two began at least as early as the fall of 1824, when Poe was fifteen. Proof appears in a letter (November 1, 1824) from Mr. Allan to Poe’s sixteen year old brother, Henry, of Baltimore, filled with bitter denunciation of Edgar. Mr. Allan kept a copy of this letter and it has been quoted almost in full in Professor <pb xml:id="page-33" n="21"/> Campbell’s edition of Poe’s Poems. What had caused the difference between the father and son is one of the Poe mysteries and will, probably never be solved, but Poe’s letters home from the University, in 1826, here published, indicate that it had blown entirely over for the time being.</p>
 <p rend="indented">This book is arranged with especial consideration for the comfort of the reader. Nearly all editorial matter which does not appear in the Introduction is given in a series of Comments which serve as prefaces to single letters or to groups of letters too closely related to be considered separately. First comes the Comment, then the typescript of the entire letter or letters discussed therein.</p>
 <p rend="indented">Thus the reader approaches the letter already possessed of whatever light the editor has for him. To find it, his eye is not distracted by innumerable foot notes, nor does he have to hunt through an appendix.</p>
-<p rend="indented">Following the clearly printed typescript comes the real thing—the letter itself in facsimile.</p>
+<p rend="indented">Following the clearly printed typescript comes the real thing—the letter itself in fac-simile.</p>
 <p rend="indented">In thus reproducing <hi rend="italic">all</hi> of the letters—each one of them complete, some with address on the back—their owners and their publishers not only give the most satisfactory assurance of genuineness of the material, but are doing the nearest thing possible to placing the centuryold originals in the hands of owners and readers of these Edgar Allan Poe Letters, Till Now Unpublished.</p>
 <p rend="right">M. N. S.</p>
 </div>
@@ -282,7 +272,7 @@
 <p rend="toc_entry">X. <hi rend="smallcaps">John Allan, Richmond, May 18, 1829, to Edgar Allan Poe</hi> . . . . . . . . . . . . . . . . . . 121<lb/><hi rend="smallcaps">Fac-simile</hi> . . . . . . . . . . . . . . . . . 123</p>
 <p rend="toc_entry">XI. <hi rend="smallcaps">Edgar Allan Poe, Baltimore, May 20, 1829, to John Allan</hi> . . . . . . . . . . . . . . . . . . 125<lb/><hi rend="smallcaps">Fac-simile</hi> . . . . . . . . . . . . . . . . . 127</p>
 <p rend="toc_entry">XII. <hi rend="smallcaps">Edgar Allan Poe, Baltimore, May 29, 1829, to John Allan</hi> . . . . . . . . . . . . . . . . . . 133<lb/><hi rend="smallcaps">Fac-simile</hi> . . . . . . . . . . . . . . . . . 137</p>
-<pb xml:id="page-38" n="24"/><table><row><cell>LETTER PAGE</cell></row></table>
+<pb xml:id="page-38" n="24"/><table cols="1" rows="1"><row role="label"><cell>LETTER PAGE</cell></row></table>
 <p rend="toc_entry">XIII. E<hi rend="smallcaps">DGAR</hi> A<hi rend="smallcaps">LLAN</hi> P<hi rend="smallcaps">OE</hi>, B<hi rend="smallcaps">ALTIMORE</hi>, J<hi rend="smallcaps">UNE</hi> 25, 1829, <hi rend="smallcaps">TO</hi> J<hi rend="smallcaps">OHN</hi> A<hi rend="smallcaps">LLAN</hi> . . . . . . . . . . . . . . . 145<lb/>F<hi rend="smallcaps">AC-SIMILE</hi> . . . . . . . . . . . . . . 149</p>
 <p rend="toc_entry">XIV. E<hi rend="smallcaps">DGAR</hi> A<hi rend="smallcaps">LLAN</hi> P<hi rend="smallcaps">OE</hi>, B<hi rend="smallcaps">ALTIMORE</hi>, J<hi rend="smallcaps">ULY</hi> 15, 1829, <hi rend="smallcaps">TO</hi> J<hi rend="smallcaps">OHN</hi> A<hi rend="smallcaps">LLAN</hi> . . . . . . . . . . . . . . . 153<lb/>F<hi rend="smallcaps">AC-SIMILE</hi> . . . . . . . . . . . . . . 155</p>
 <p rend="toc_entry">XV. E<hi rend="smallcaps">DGAR</hi> A<hi rend="smallcaps">LLAN</hi> P<hi rend="smallcaps">OE</hi>, B<hi rend="smallcaps">ALTIMORE</hi>, J<hi rend="smallcaps">ULY</hi> 26, 1829, <hi rend="smallcaps">TO</hi> J<hi rend="smallcaps">OHN</hi> A<hi rend="smallcaps">LLAN</hi> . . . . . . . . . . . . . . . 157<lb/>F<hi rend="smallcaps">AC-SIMILE</hi> . . . . . . . . . . . . . . 163</p>
@@ -297,26 +287,26 @@
 <p rend="toc_entry">XXIV. E<hi rend="smallcaps">DGAR</hi> A<hi rend="smallcaps">LLAN</hi> P<hi rend="smallcaps">OE</hi>, W<hi rend="smallcaps">EST</hi> P<hi rend="smallcaps">OINT</hi>, J<hi rend="smallcaps">ANUARY</hi> 3, 1831, <hi rend="smallcaps">TO</hi> J<hi rend="smallcaps">OHN</hi> A<hi rend="smallcaps">LLAN</hi> . . . . . . . . . . . . . 253<lb/>F<hi rend="smallcaps">AC-SIMILE</hi> . . . . . . . . . . . . . . 259</p>
 <p rend="toc_entry">XXV. E<hi rend="smallcaps">DGAR</hi> A<hi rend="smallcaps">LLAN</hi> P<hi rend="smallcaps">OE</hi>, N<hi rend="smallcaps">EW</hi> Y<hi rend="smallcaps">ORK</hi>, F<hi rend="smallcaps">EBRARY</hi> 21, 1831, <hi rend="smallcaps">TO</hi> J<hi rend="smallcaps">OHN</hi> A<hi rend="smallcaps">LLAN</hi> . . . . . . . . . . . . . 267<lb/>F<hi rend="smallcaps">AC-SIMILE</hi> . . . . . . . . . . . . . . 271</p>
 <p rend="toc_entry">XXVI. E<hi rend="smallcaps">DGAR</hi> A<hi rend="smallcaps">LLAN</hi> P<hi rend="smallcaps">OE</hi>, B<hi rend="smallcaps">ALTIMORE</hi>, O<hi rend="smallcaps">CTOBER</hi> 16, 1831, <hi rend="smallcaps">TO</hi> J<hi rend="smallcaps">OHN</hi> A<hi rend="smallcaps">LLAN</hi> . . . . . . . . . . . . . 279<lb/>F<hi rend="smallcaps">AC-SIMILE</hi> . . . . . . . . . . . . . . 283</p>
-<pb xml:id="page-39" n="25"/><table><row><cell><hi rend="smallcaps">Letter</hi> <hi rend="smallcaps">Page</hi></cell></row></table>
+<pb xml:id="page-39" n="25"/><table cols="1" rows="1"><row role="label"><cell><hi rend="smallcaps">Letter</hi> <hi rend="smallcaps">Page</hi></cell></row></table>
 <p rend="toc_entry">XXVII. <hi rend="smallcaps">Edgar Allan Poe, Baltimore, November</hi> 18, 1831, <hi rend="smallcaps">to John Allan</hi> . . . . . . . . . . . 291</p>
-<p rend="toc_entry"><hi rend="smallcaps">Facsimile</hi> . . . . . . . . . . . . . . . . 293</p>
+<p rend="toc_entry"><hi rend="smallcaps">Fac-simile</hi> . . . . . . . . . . . . . . . . 293</p>
 <p rend="toc_entry">XXVIII. <hi rend="smallcaps">Mrs. Clemm, Baltimore, December</hi> 5, 1831, <hi rend="smallcaps">to John Allan</hi> . . . . . . . . . . . . . . 295</p>
-<p rend="toc_entry"><hi rend="smallcaps">Facsimile</hi> . . . . . . . . . . . . . . . . 297</p>
+<p rend="toc_entry"><hi rend="smallcaps">Fac-simile</hi> . . . . . . . . . . . . . . . . 297</p>
 <p rend="toc_entry">XXIX. <hi rend="smallcaps">Edgar Allan Poe, Baltimore, December</hi> 15, 1831, <hi rend="smallcaps">to John Allan</hi> . . . . . . . . . . . 299</p>
-<p rend="toc_entry"><hi rend="smallcaps">Facsimile</hi> . . . . . . . . . . . . . . . . 303</p>
+<p rend="toc_entry"><hi rend="smallcaps">Fac-simile</hi> . . . . . . . . . . . . . . . . 303</p>
 <p rend="toc_entry">XXX. <hi rend="smallcaps">Edgar Allan Poe, Baltimore, December</hi> 29, 1831, <hi rend="smallcaps">to John Allan</hi> . . . . . . . . . . . 305</p>
-<p rend="toc_entry"><hi rend="smallcaps">Facsimile</hi> . . . . . . . . . . . . . . . . 307</p>
+<p rend="toc_entry"><hi rend="smallcaps">Fac-simile</hi> . . . . . . . . . . . . . . . . 307</p>
 <p rend="toc_entry">XXXI. <hi rend="smallcaps">Edgar Allan Poe, Baltimore, April</hi> 12, 1833, <hi rend="smallcaps">to John Allan</hi> . . . . . . . . . . . . 313</p>
-<p rend="toc_entry"><hi rend="smallcaps">Facsimile</hi> . . . . . . . . . . . . . . . . 315</p>
+<p rend="toc_entry"><hi rend="smallcaps">Fac-simile</hi> . . . . . . . . . . . . . . . . 315</p>
 <p rend="toc_entry"><hi rend="smallcaps">Bill for Edgar Allan Poe at Manor House School</hi> . . . 319</p>
-<p rend="toc_entry"><hi rend="smallcaps">Facsimile</hi> . . . . . . . . . . . . . . . . . . . . 321</p>
+<p rend="toc_entry"><hi rend="smallcaps">Fac-simile</hi> . . . . . . . . . . . . . . . . . . . . 321</p>
 <p rend="toc_entry"><hi rend="smallcaps">Bill for Edgar Allan Poe at Manor House School</hi> . . . 323</p>
-<p rend="toc_entry"><hi rend="smallcaps">Facsimile</hi> . . . . . . . . . . . . . . . . . . . . 325</p>
+<p rend="toc_entry"><hi rend="smallcaps">Fac-simile</hi> . . . . . . . . . . . . . . . . . . . . 325</p>
 <p rend="toc_entry"><hi rend="smallcaps">Bill for Edgar Allan Poe at Manor House School</hi> . . . 327</p>
-<p rend="toc_entry"><hi rend="smallcaps">Facsimile</hi> . . . . . . . . . . . . . . . . . . . . 329</p>
+<p rend="toc_entry"><hi rend="smallcaps">Fac-simile</hi> . . . . . . . . . . . . . . . . . . . . 329</p>
 </div>
 <div xml:id="div-unit-0006" type="apparatus">
-<pb xml:id="page-41" n="5"/><head rend="center">ILLUSTRATIONS</head>
+<pb xml:id="page-41" n="27"/><head rend="center">ILLUSTRATIONS</head>
 <p rend="right"><hi rend="smallcaps">PAGE</hi></p>
 <p rend="toc_entry">Edgar Allan Poe . . . . . . . . . . . . . <hi rend="italic">Frontispiece</hi></p>
 <p rend="toc_entry">Advertisement “To the Humane Heart” . . . . . . . . . 12</p>
@@ -340,10 +330,12 @@
 <note place="foot" xml:id="fn-p0026-1" n="1"><p>For which a monthly rental of £25 4s was paid.</p></note>
 </div>
 </div>
+    </front>
+    <body>
       <div xml:id="sec-sec-02" type="epistolary_part">
 <head>Letters</head>
 <div xml:id="div-unit-0007" type="apparatus">
-<pb xml:id="page-43" n="7"/><head rend="center">LETTER NUMBER ONE</head>
+<pb xml:id="page-43" n="29"/><head rend="center">LETTER NUMBER ONE</head>
 <p rend="center">EDGAR ALLAN POE, UNIVERSITY OF VIRGINIA, MAY, 1826<lb/>TO JOHN ALLAN</p>
 <p rend="heading">LETTER NUMBER TWO</p>
 <p rend="center">EDGAR ALLAN POE, UNIVERSITY OF VIRGINIA, SEPTEMBER 21, 1826<lb/>TO JOHN ALLAN</p>
@@ -365,34 +357,34 @@
 <p rend="indented">The Valentine Museum letters prove that these debts caused a breach between the father and son which never was healed. In letter number Twenty-four from West Point, Jan. 3, 1830, Poe pleads lack of funds to meet his college expenses as excuse for his gambling at the University. He says that expenses there were $350. per annum “at the lowest estimate;” that sums he had to pay in advance were $50. for board, $60. for attendance upon two professors, $15. for room rent, $12. for a bed, $12. for room furniture, and that the amount furnished him made it impossible for him to avoid going into debt. In an advertisement in the Richmond <hi rend="italic">Enquirer</hi>, Jan. 24, 1827 (the year after Poe was at the University) the following list of charges is given:</p>
 </div>
 <div xml:id="div-unit-0009" type="apparatus">
-<pb xml:id="page-49" n="13"/><figure type="illustration"><figDesc>illustration on p. 13</figDesc></figure>
+<pb xml:id="page-49" n="49"/><figure type="illustration"><figDesc>illustration on p. 49</figDesc></figure>
 <p rend="caption">By the courtesy of Misses Mumford and Mrs. W. S. Robertson</p>
 <p rend="caption">HOME OF CHARLES ELLIS<lb/>Franklin and Second Streets, Richmond, where the Allans and Edgar Poe spent several months on their return from England</p>
 </div>
 <div xml:id="div-unit-0010" type="narrative">
-<pb xml:id="page-51" n="35"/><table><row><cell>For classes under two professors $30.00 each . . . . . . . . . . $60.00</cell></row><row><cell>For board, bedding, furniture, candles, washing and attendance (servant) . . . . . . . . . . . . . . . . . . . . . . . . . 150.00</cell></row><row><cell>Rent of dormitory $16.00, or one half for two . . . . . . . . . . 8.00</cell></row><row><cell>Participation in public apartments, library, etc. . . . . . . . . . . 15.00</cell></row><row><cell>$233.00</cell></row></table>
+<pb xml:id="page-51" n="35"/><table cols="1" rows="5"><row><cell>For classes under two professors $30.00 each . . . . . . . . . . $60.00</cell></row><row><cell>For board, bedding, furniture, candles, washing and attendance (servant) . . . . . . . . . . . . . . . . . . . . . . . . . 150.00</cell></row><row><cell>Rent of dormitory $16.00, or one half for two . . . . . . . . . . 8.00</cell></row><row><cell>Participation in public apartments, library, etc. . . . . . . . . . . 15.00</cell></row><row><cell>$233.00</cell></row></table>
 <p rend="indented">In the letter quoted from West Point (Number Twenty Four) Poe reminds Mr. Allan that toward the close of the session he was sent $100., but says that that amount was insufficient to be of any service in “extricating” him from his difficulties. He tried to borrow more to add to it, but failing in this, says: “I became desperate, and gambled—until I finally involved myself irretrievably.” Poe was always singularly neat in his dress and enjoyed good clothes when he was able to have them. Before going home at the end of the session he provided himself with an outfit rivaling that of the Lilies of the Field—and charged it to Mr. Allan. In the coat of superfine blue cloth with “best” gilt buttons, drab pantaloons (materials for which cost thirteen dollars) and a vest of black cut velvet, the handsome college boy of not yet eighteen with his perfect manners and dancing, must, have made a striking figure in the younger set of Richmond society during the Christmas holidays. A photostat copy of the bill (in the Library of Congress) of Samuel Leitch, Charlottesville merchant, for materials for this suit enables the reader to visualize young Edgar in the dashing raiment in which he was evidently <hi rend="italic">not</hi> an acceptable sight in Mr. Allan’s eyes for he refused to pay the bill of sixty-eight dollars for the cloth and trimmings, and the Ellis-Allan papers show that Mr. Leitch was still trying to collect it a year and a half later. Whether or not Mr. Allan had authorized Edgar’s ordering any clothes from Leitch (who had been Ellis and Allan’s Charlottesville agent) or the boy was gambling to reinstate himself in the favor of his lost sweetheart—Elmira Royster—does not appear. But the father was evidently incensed at the size of the bill. The Library of Congress papers contain reminders of at least two other <pb xml:id="page-52" n="36"/> unpaid bills for Poe at the University, and explode the tradition that Mr. Allan paid everything but the gambling debts. One of these reminders (from Edward G. Crump) will appear later, the other, in form of a letter to “John Allan, Esq., Richmond,” follows:</p>
 </div>
-<div xml:id="div-letter-0002" type="letter" corresp="#letter-0002">
+<div xml:id="div-letter-0001" type="letter" corresp="#letter-0001">
 <quote><p rend="right">“1st May 1827</p></quote>
 <quote><p>“Dear Sir:—</p></quote>
 <quote><p rend="indented">I presume when <hi rend="italic">you sent</hi> Mr. Poe to the University of Virginia you felt bound to pay all of his necessary expenses. One is that each young man is expected to have a servant to attend his room. Mr. Poe did not board with me but as I had hired a first rate servant who cost me a high price, I consider him under greater obligations to pay me for the price of my servant. I have written you two letters and have never received an answer to either. I beg again, Sir, that you will send me the small amount due. I am distressed for money, and I am informed you are Rich both in purse and Honour.</p></quote>
 <quote><p rend="right">Yrs. respectfully, Geo. W. Spotswood.”</p></quote>
 <p rend="indented">Probably these and other bills which Edgar made and (contrary to tradition) Mr. Allan declined to pay, were deciding factors in his refusal to send the boy back to the University and contributing causes of the quarrel (alluded to in Letters Three and Four) which cost Edgar Poe the home that had been his harbour since babyhood.</p>
 </div>
-<div xml:id="div-letter-0003" type="letter" corresp="#letter-0003">
+<div xml:id="div-letter-0002" type="letter" corresp="#letter-0002">
 <pb xml:id="page-53" n="37"/><head rend="center">LETTER NUMBER ONE</head>
 <opener><dateline rend="right">University May 1826</dateline><salute>Dear Sir,</salute></opener>
 <p rend="indented">I this morning received the clothes you sent me, viz an uniform coat, six yards of striped cloth for pantaloons &amp; four pair of socks—The coat is a beautiful one &amp; fits me exactly—I thought it best not to write ’till I received the clothes—or I should have written before this—You have heard no doubt of the disturbances in College—Soon after you left here the Grand Jury met and put the students in a terrible fright—so much so that the lectures were unattended—and those whose names were upon the Sheriff’s list—travelled off into the woods &amp; mountains—taking their beds &amp; provisions along with them—there were about 50 on the list—so you may suppose the College was very well thinn’d—this was the first day of the fright—the second day “A proclamation” was issued by the faculty forbidding “any student under pain of a major punishment to leave his dormitory between the hours of 8 &amp; 10 A M—(at which time the Sheriffs would be about) or in any way to resist the lawful authority of the Sheriffs”—This order however was very little attended to—as the fear of the Faculty could not counterbalance that of the Grand Jury—most of the “indicted” ran off a second time into the woods—and upon an examination the next morning by the Faculty—Some were reprimanded—some <pb xml:id="page-54" n="38"/> suspended—and one expelled—James Albert Clarke from Manchester (I went to school with him at Burke’s) was suspended for two months. Armstead Carter from this neighbourhood, for the remainder of the session—And Thomas Barclay for ever—There have ^been several fights since you were here—One between Turner Dixon, and Blow from Norfolk excited more interest than any I have seen, for a common fight is so trifling an occurrence that no notice is taken of it—Blow got much the advantage in the scuffle—but Dixon posted him in very indecent terms—upon which the whole Norfolk party rose in arms—&amp; nothing was talked off for a week, but Dixon’s charge &amp; Blow’s explanation—every pillar in the University was white with scratched paper—Dixon made a physical attack upon Arthur Smith one of Blow’s Norfolk friends—and a “very fine fellow”—he struck him with a large stone on one side of his head—whereupon Smith drew a pistol (which are all the fashion here) and had it not missed fire—would have put an end to the controversy—but so it was—it did miss fire—and the matter has since been more peaceably settled—as the Proctor engaged a Magistrate to bind the whole forces on both sides—over to the peace—Give my love to Ma &amp; Miss Nancy—&amp; all my friends—Will you be so good as to send me a copy of the Historiæ of Tacitus—it is a small volume—also some more soap—</p>
 <closer><salute rend="cascading">I remain<lb/>Yours affectionly</salute><signed rend="right">Edgar</signed><pb xml:id="page-55" n="39"/><address><addrLine>E. A. Poe</addrLine><addrLine>University</addrLine><addrLine>May 1826</addrLine></address><address><addrLine>12 pr</addrLine></address><address><addrLine>12½</addrLine></address><address><addrLine>John Allan Esqr</addrLine><addrLine>Richmond,</addrLine><addrLine>Va</addrLine></address><address><addrLine>care Wm &amp; Wm Galt Jr.</addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0013" type="apparatus">
-<pb xml:id="page-57" n="21"/><p rend="caption">LETTER NUMBER ONE</p>
+<pb xml:id="page-57" n="57"/><p rend="caption">LETTER NUMBER ONE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER ONE]</figDesc></figure>
-<pb xml:id="page-58" n="22"/><p rend="caption">LETTER NUMBER ONE</p>
+<pb xml:id="page-58" n="58"/><p rend="caption">LETTER NUMBER ONE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER ONE]</figDesc></figure>
 </div>
-<div xml:id="div-letter-0004" type="letter" corresp="#letter-0004">
+<div xml:id="div-letter-0003" type="letter" corresp="#letter-0003">
 <pb xml:id="page-59" n="43"/><head rend="center">LETTER NUMBER TWO</head>
 <opener><dateline rend="right">University. Septemʳ 21ˢᵗ 1826</dateline><salute>Dear Sir,</salute></opener>
 <p rend="indented">The whole college has been put in great consternation by the prospect of an examination—There is to be a general one on the first of December, which will occupy the time of the students till the fifteenth—the time for breaking up—It has not yet been determined whether there will be any diplomas, or doctor’s degrees given—but I should hardly think there will be any such thing, as this is only the second year of the institution &amp; in other colleges three and four years are required in order to take a degree—that is, that time is supposed to be necessary—altho they sometimes confer them before—if the applicants are qualified—</p>
@@ -403,10 +395,10 @@
 <closer><salute rend="right">Yours affectionatly</salute><signed rend="right">Edgar A Poe</signed></closer>
 </div>
 <div xml:id="div-unit-0015" type="apparatus">
-<pb xml:id="page-61" n="25"/><figure type="illustration"><figDesc>illustration on p. 25</figDesc></figure>
+<pb xml:id="page-61" n="61"/><figure type="illustration"><figDesc>illustration on p. 61</figDesc></figure>
 <p rend="caption">THE UNIVERSITY OF VIRGINIA WHEN POE WAS A STUDENT</p>
 </div>
-<div xml:id="div-letter-0005" type="letter" corresp="#letter-0005">
+<div xml:id="div-unit-0016" type="document">
 <pb xml:id="page-63" n="45"/><p rend="address_block">E. A Poe<lb/>University<lb/>21 Sept 1826</p>
 <p rend="address_block">12½</p>
 <p rend="address_block">Mr. Jno Allan<lb/>Richmond<lb/>Va</p>
@@ -414,11 +406,11 @@
 <p rend="address_block">Galt Jr.</p>
 </div>
 <div xml:id="div-unit-0017" type="apparatus">
-<pb xml:id="page-65" n="29"/><p rend="caption">LETTER NUMBER TWO</p>
+<pb xml:id="page-65" n="65"/><p rend="caption">LETTER NUMBER TWO</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWO]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0018" type="apparatus">
-<pb xml:id="page-67" n="31"/><p rend="heading">LETTER NUMBER THREE<lb/>EDGAR ALLAN POE, THE COURT HOUSE TAVERN, RICHMOND<lb/>MONDAY [DATED BY THE EDITOR] MARCH 19, 1827<lb/>TO JOHN ALLAN</p>
+<pb xml:id="page-67" n="49"/><p rend="heading">LETTER NUMBER THREE<lb/>EDGAR ALLAN POE, THE COURT HOUSE TAVERN, RICHMOND<lb/>MONDAY [DATED BY THE EDITOR] MARCH 19, 1827<lb/>TO JOHN ALLAN</p>
 <p rend="heading">LETTER NUMBER FOUR<lb/>EDGAR ALLAN POE, THE COURT HOUSE TAVERN, RICHMOND<lb/>TUESDAY [DATED BY THE EDITOR] MARCH 20, 1827<lb/>TO JOHN ALLAN</p>
 <p rend="heading">LETTER NUMBER FIVE<lb/>JOHN ALLAN, RICHMOND [DATED BY THE EDITOR] MARCH 20, 1827<lb/>TO EDGAR ALLAN POE</p>
 </div>
@@ -430,7 +422,7 @@
 <p>Mr. Allan’s reply to Letter Three (of Monday) was evidently written before he received that of Tuesday. There is no indication in it that he granted Poe’s request for money. A sum sufficient to meet the boy’s immediate needs may have been given or lent him by friends or the tradition followed by various biographers that he was supplied by Mrs. Allan and “Miss Nancy” Valentine may be true. On the back of Letter Four, closing: “I have not one cent in the world to provide any food,” appear, in John Allan’s handwriting, the words: “Pretty Letter.”</p>
 <p>As to just how soon after Edgar’s return from the University the breach between him and his foster father took place his biographers were hazy until Professor Killis Campbell, by combination of two letters in the Library of Congress—one from Edward G. Crump, March 25, 1827, to Poe, and one from John Allan to a sister in Scotland, March 27, 1827—placed the date somewhere between the 20th and 25th of March. This was getting quite “warm.” In Crump’s letter he tells Poe: “I saw you a few days ago in Richmond.” Mr. Allan writes: “I’m thinking Edgar <pb xml:id="page-70" n="52"/> has gone to sea to seek his fortune.” Combination of these two letters from the Library of Congress collection with Number Three and Number Four in the Valentine Museum fixes the exact day of the quarrel and of Poe’s leaving home. March 27, 1827, when Mr. Allan wrote: “I’m thinking Edgar has gone to sea” fell on a Tuesday. Poe’s letter of “Tuesday”—no date—saying, “I sail on Saturday” was evidently the Tuesday preceding (March 20), for Crump had written on the 25th, “I saw you a few days ago in Richmond” and Poe’s letter of “Monday”—the day before the “Tuesday” letter—must have been written on March 19. It alludes to the quarrel of “yesterday”—which was, of course, Sunday, March 18, 1827. Poe sailed the Saturday following the quarrel—March 24—the day before Crump’s letter [Sunday] March 25, was written. Poe never received it, hence it is still in the Ellis-Allan papers. Here it is, from a photostat copy of the original in the Library of Congress:</p>
 </div>
-<div xml:id="div-letter-0006" type="letter" corresp="#letter-0006">
+<div xml:id="div-letter-0004" type="letter" corresp="#letter-0004">
 <quote><p rend="right">“Dinwiddie County March 25, 1827.</p></quote>
 <quote><p>“Dear Sir:—</p></quote>
 <quote><p rend="indented">When I saw you in Richmond a few days ago I should have mentioned the difference between us if there had not been so many persons present. I must of course, as you did not mention it to me, enquire of you if you ever intend to pay it. If you have not the money write me word that you have not, but do not be perfectly silent. I should be glad if you would write to me even as a friend, there can certainly be no harm in your avowing candidly that you have no money, if you have none, but you can say when you can pay me if you cannot now. I heard when I was in Richmond that Mr. Allan would probably discharge all your debts. If mine was a gambling debt I should not think much of it. But under the present circumstances I think very strangely of it. Write to me upon the receipt of this letter and tell me candidly what is the matter.</p></quote>
@@ -439,7 +431,7 @@
 <pb xml:id="page-71" n="53"/><p rend="indented">On the back of this letter is written in Mr. Allan’s handwriting: “Edw’d. G. Crump, Mar. 25, 1827 to E. A. Poe, alias Henri Le Rennet.”</p>
 <p rend="indented">Having determined the date of Edgar’s sailing the next task for the editor was to find the ship. The <hi rend="italic">Boston Commercial Gazette</hi> from March 26, to April 7 (kindly examined by Mr. G. A. Taylor of Boston) shows that the only vessel directly from Richmond which reached Boston during this period was <hi rend="italic">The Carrier</hi>, Captain Gill. After its passage down the winding James with perhaps stops at wharves of some of the historic homes along that river, perhaps turning into Hampton Roads and passing Old Point and Fortress Monroe, perhaps putting in at Norfolk harbour for shelter from a March gale or to take on freight—then out to sea and on up the coast, <hi rend="italic">The Carrier</hi> cast anchor in Boston’s beautiful port on April 7 and Edgar Poe, after a twelve days’ voyage, saw, for the first time within his memory, the city of his birth.</p>
 </div>
-<div xml:id="div-letter-0007" type="letter" corresp="#letter-0007">
+<div xml:id="div-letter-0005" type="letter" corresp="#letter-0005">
 <pb xml:id="page-73" n="55"/><head rend="center">LETTER NUMBER THREE</head>
 <opener><dateline rend="right">Richmond Monday</dateline><salute>Sir,</salute></opener>
 <p rend="indented">After my treatment on yesterday and what passed between us this morning, I can hardly think you will be surprised at the contents of this letter—My determination is at length taken to leave your house and endeavour to find some place in this wide world, where I will be treated—not as <hi rend="italic">you</hi> have treated me—This is not a hurried determination, but one on which I have long considered—and having so considered my resolution is unalterable—You may perhaps think that I have flown off in a passion, &amp; that I am already wishing to return; But not so—I will give you the reasons which have actuated me, and then judge—</p>
@@ -452,21 +444,21 @@
 <p>I request that you will send me my trunk containing my clothes &amp; books—and if you still have the least affection for me, As the last call I shall make on your bounty, To prevent the fulfilment of the Prediction you this morning expressed, send me as much money as will defray my the expences of my passage to some of the Northern cities &amp; then support me for one month, by which time I shall be enabled to place myself in some situation where I may not only obtain a livelihood, but lay by a sum which one day or another will support me at the University—Send my trunk &amp;c to the Court-House Tavern, send me I entreat</p>
 </div>
 <div xml:id="div-unit-0022" type="apparatus">
-<pb xml:id="page-75" n="39"/><figure type="illustration"><figDesc>illustration on p. 39</figDesc></figure>
+<pb xml:id="page-75" n="75"/><figure type="illustration"><figDesc>illustration on p. 75</figDesc></figure>
 <p rend="caption">DOORWAY OF POE'S ROOM AT THE UNIVERSITY OF VIRGINIA<lb/>The Latin inscription is "Domus parva magni poetæ." The room is kept as a memorial of the great poet whose small home it was</p>
 <pb xml:id="page-77" n="57"/><p>you some money immediately, as I am in the greatest necessity — If you fail to comply with my request — I tremble for the consequence</p>
 <closer><salute rend="right">Yours &amp;c</salute><signed rend="right">Edgar A Poe</signed></closer>
 <postscript><p rend="postscript">It depends upon yourself if hereafter you see or hear from me</p><closer><signed rend="right">Edgar A Poe</signed><pb xml:id="page-78" n="58"/><address><addrLine>John Allan Esqʳ</addrLine><addrLine>Present</addrLine></address></closer></postscript>
 </div>
 <div xml:id="div-unit-0023" type="apparatus">
-<pb xml:id="page-79" n="43"/><p rend="caption">LETTER NUMBER THREE</p>
+<pb xml:id="page-79" n="79"/><p rend="caption">LETTER NUMBER THREE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER THREE]</figDesc></figure>
-<pb xml:id="page-80" n="44"/><p rend="caption">LETTER NUMBER THREE</p>
+<pb xml:id="page-80" n="80"/><p rend="caption">LETTER NUMBER THREE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER THREE]</figDesc></figure>
-<pb xml:id="page-81" n="45"/><p rend="caption">LETTER NUMBER THREE</p>
+<pb xml:id="page-81" n="81"/><p rend="caption">LETTER NUMBER THREE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER THREE]</figDesc></figure>
 </div>
-<div xml:id="div-letter-0008" type="letter" corresp="#letter-0008">
+<div xml:id="div-letter-0006" type="letter" corresp="#letter-0006">
 <pb xml:id="page-83" n="63"/><head rend="center">LETTER NUMBER FOUR</head>
 <opener><dateline rend="right">Richmond Tuesday</dateline><salute>Dear Sir,</salute></opener>
 <p rend="indented">Be so good as to send me my trunk with my clothes—I wrote you on yesterday explaining my reasons for leaving—I suppose by my not receiving either my trunk, or an answer to my letter, that you did not receive it—I am in the greatest necessity not having tasted food since yesterday morning I have no where to sleep at night, but roam about the streets—I am nearly exhausted—I beseech you as you wish not your prediction concerning me to be fulfilled—to send me without delay my trunk containing my clothes, and to lend if you will not give me as much money as will defray the expence of my passage to Boston ($12) and a little to support me there untill I shall be enabled to engage in some business. I sail on Saturday—A letter will be received by me at the Court House Tavern, where be so good as to send my trunk</p>
@@ -475,10 +467,10 @@
 <postscript><p rend="postscript">I have not one cent in the world<lb/>to provide any food</p><closer><pb xml:id="page-84" n="64"/><address><addrLine>Edgar A Poe</addrLine><addrLine>Pretty Letter</addrLine></address><address><addrLine>John Allan Esqʳ</addrLine><addrLine>Present</addrLine></address><address><addrLine>care of Ellis &amp; Allan</addrLine></address></closer></postscript>
 </div>
 <div xml:id="div-unit-0025" type="apparatus">
-<pb xml:id="page-85" n="49"/><p rend="caption">LETTER NUMBER FOUR</p>
+<pb xml:id="page-85" n="85"/><p rend="caption">LETTER NUMBER FOUR</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER FOUR]</figDesc></figure>
 </div>
-<div xml:id="div-letter-0009" type="letter" corresp="#letter-0009">
+<div xml:id="div-letter-0007" type="letter" corresp="#letter-0007">
 <pb xml:id="page-87" n="67"/><head rend="center">LETTER NUMBER FIVE</head>
 <opener><salute>Sir,</salute></opener>
 <p rend="indented">Your letter of Monday was received this morning, I am not ^[at all] surprized at any step you may take, at any thing you can say, or any thing you may do, you are a much better judge of the propriety of your own conduct and general treatment of those who ^have had the charge of your infancy &amp; have watched with parental solicitude &amp; affection over your tender years affording you such means of instruction as was in their power &amp; which was performed with pleasure until you became a much better judge of your own conduct, rights &amp; priveledges than they, it is true I taught you to aspire, even to eminence in Public Life, but I never expected that Don Quixotte, Gil Blas, Jo: Miller &amp; such works were calculated to promote the end.</p>
@@ -486,17 +478,17 @@
 <p rend="indented">Your list of grievances require no answer the world will reply to them—&amp; now that you have shaken off your dependance &amp; declared for your own Independance —&amp; after such a list of Black charges—you Tremble for for the consequences unless I send you a supply of money.</p>
 </div>
 <div xml:id="div-unit-0027" type="apparatus">
-<pb xml:id="page-89" n="53"/><figure type="illustration"><figDesc>illustration on p. 53</figDesc></figure>
+<pb xml:id="page-89" n="89"/><figure type="illustration"><figDesc>illustration on p. 89</figDesc></figure>
 <p rend="caption">JOHN ALLAN<lb/>FOSTER-FATHER OF EDGAR ALLAN POE<lb/>From a portrait in the Allan House at Main and Fifth Streets</p>
 </div>
 <div xml:id="div-unit-0028" type="apparatus">
-<pb xml:id="page-91" n="55"/><p rend="caption">LETTER NUMBER FIVE</p>
+<pb xml:id="page-91" n="91"/><p rend="caption">LETTER NUMBER FIVE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER FIVE]</figDesc></figure>
-<pb xml:id="page-92" n="56"/><p rend="caption">LETTER NUMBER FIVE</p>
+<pb xml:id="page-92" n="92"/><p rend="caption">LETTER NUMBER FIVE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER FIVE]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0029" type="apparatus">
-<pb xml:id="page-93" n="57"/><p rend="heading">LETTER NUMBER SIX<lb/><hi rend="smallcaps">EDGAR ALLAN POE, FORT MOULTRIE, SULLIVAN’S ISLAND,</hi><lb/><hi rend="smallcaps">CHARLESTON, S. C., DECEMBER 1, 1828</hi><lb/><hi rend="smallcaps">TO JOHN ALLAN</hi></p>
+<pb xml:id="page-93" n="93"/><p rend="heading">LETTER NUMBER SIX<lb/><hi rend="smallcaps">EDGAR ALLAN POE, FORT MOULTRIE, SULLIVAN’S ISLAND,</hi><lb/><hi rend="smallcaps">CHARLESTON, S. C., DECEMBER 1, 1828</hi><lb/><hi rend="smallcaps">TO JOHN ALLAN</hi></p>
 </div>
 <div xml:id="div-unit-0030" type="narrative">
 <pb xml:id="page-95" n="73"/><head rend="center">COMMENT</head>
@@ -509,7 +501,7 @@
 <p rend="indented">Buoyed up by the good reputation given him by the officers of his regiment and by belief that his creative work would bring honour to his name and that of the Allans, he was filled with hope of making up old quarrels, being freed from army service and restored to his place in the affections and home of his foster-parents. The boy’s confident prophecies of success in his chosen field as poet and man of letters would seem at once pathetic and absurd if time had not fulfilled them.</p>
 <p rend="indented">He saw in Mr. Allan’s declaration that he had better remain in the army a suggestion that the writer believed that by enlisting as a private he was “degraded and disgraced and that anything were preferable to my returning home and entailing on yourself a portion of my infamy.” But even this did not dampen his exhilaration.</p>
 </div>
-<div xml:id="div-letter-0010" type="letter" corresp="#letter-0010">
+<div xml:id="div-letter-0008" type="letter" corresp="#letter-0008">
 <pb xml:id="page-97" n="75"/><head rend="center">LETTER NUMBER SIX</head>
 <opener><dateline rend="right">Fort Moultrie, Charleston Hʳ<lb/>December 1ˢᵗ 1828.</dateline><salute>Dear Sir,</salute></opener>
 <p rend="indented">The letter of Lieut J. Howard left by Mʳ John O. Lay for your perusal will explain the cause of my writing from Fort Moultrie.</p>
@@ -525,20 +517,20 @@
 <postscript><p rend="postscript">(P.S) We are now under orders to sail for old Point Comfort, and will arrive there before your answer can be received—Your address then will be to Lieut : J. Howard, Fortress Monroe, the same for myself.</p><closer><pb xml:id="page-100" n="78"/><address><addrLine>E. A. Poe</addrLine><addrLine>Dec.ʳ 1 1828</addrLine><addrLine>Charleston</addrLine></address><address><addrLine>John Allan Esqr</addrLine><addrLine>Richmond</addrLine><addrLine>Virginia.</addrLine></address><address><addrLine>care of Wm &amp; Wm Galt Jr</addrLine></address></closer></postscript>
 </div>
 <div xml:id="div-unit-0032" type="apparatus">
-<pb xml:id="page-101" n="65"/><figure type="illustration"><figDesc>illustration on p. 65</figDesc></figure>
+<pb xml:id="page-101" n="101"/><figure type="illustration"><figDesc>illustration on p. 101</figDesc></figure>
 <p rend="caption">Courtesy of the Edgar Allan Poe Shrine</p>
 <p rend="caption">BOSTON IN 1828, FROM THE HARBOUR<lb/>The city of Poe’s birth; the place where, at the age of 18, he published his first volume of poems; where he enlisted in the army and where his genius received its first real recognition—from the critic John Neal, in 1829</p>
 </div>
 <div xml:id="div-unit-0033" type="apparatus">
-<pb xml:id="page-103" n="67"/><p rend="caption">LETTER NUMBER SIX</p>
+<pb xml:id="page-103" n="103"/><p rend="caption">LETTER NUMBER SIX</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SIX]</figDesc></figure>
-<pb xml:id="page-104" n="68"/><p rend="caption">LETTER NUMBER SIX</p>
+<pb xml:id="page-104" n="104"/><p rend="caption">LETTER NUMBER SIX</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SIX]</figDesc></figure>
-<pb xml:id="page-105" n="69"/><p rend="caption">LETTER NUMBER SIX</p>
+<pb xml:id="page-105" n="105"/><p rend="caption">LETTER NUMBER SIX</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SIX]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0034" type="apparatus">
-<pb xml:id="page-107" n="71"/><p rend="heading">LETTER NUMBER SEVEN</p>
+<pb xml:id="page-107" n="107"/><p rend="heading">LETTER NUMBER SEVEN</p>
 <p rend="heading">EDGAR ALLAN POE, FORTRESS MONROE, OLD POINT, VIRGINIA,<lb/>DECEMBER 22, 1828<lb/>TO JOHN ALLAN</p>
 </div>
 <div xml:id="div-unit-0035" type="narrative">
@@ -546,7 +538,7 @@
 <p rend="indented">In this letter signed “Your affectionate son,” Poe “much hurt” at receiving no answer to his Fort Moultrie letter writes again to “recapitulate its contents,” presses more ardently than before his plea for reconciliation and consent of his guardian “to be freed from the army.” The letter received no reply. Soon after it was written Poe was made sergeant major—a promotion which was always a reward of merit.</p>
 <p rend="indented">The sensitive boy’s uneasiness lest his “father” should consider him “degraded” was evidently on account of his enlistment and service as a private in the army. He had done nothing else to warrant such anxiety.</p>
 </div>
-<div xml:id="div-letter-0011" type="letter" corresp="#letter-0011">
+<div xml:id="div-letter-0009" type="letter" corresp="#letter-0009">
 <pb xml:id="page-111" n="87"/><head rend="center">LETTER NUMBER SEVEN</head>
 <opener><dateline rend="right">Fortress Monroe (Va)<lb/>December 22ᵈ 1828</dateline><salute>Dear Sir;</salute></opener>
 <p rend="indented">I wrote you shortly before leaving Fort Moultrie &amp; am much hurt at receiving no answer—Perhaps my letter has not reached you &amp; under that supposition I will recapitulate its contents—It was chiefly to sollicit your interest in freeing me from the Army of the U.S. in which (as Mʳ Lay’s letter from Lieut Howard informed you) I am at present a soldier. I begged that you would suspend any judgement you might be inclined to form, upon many untoward circumstances, until you heard <hi rend="italic">of</hi> me again— &amp; begged you to give my dearest love to Ma &amp; solicit her not to let my wayward disposition wear away the affection she used to have for me. I mentioned that all that was necessary to obtain my discharge from the army was your consent in a letter to Lieut. J. Howard, who has heard of you by report, &amp; the high character given you by Mʳ Lay; this being all that I asked at your hands, I was hurt at your declining to answer my letter— Since arriving at Fort Moultrie Lieut Howard has given me an introduction to Col: James House of the 1ˢᵗ Arty to whom I was before personally known only as a soldier of his regiment—He spoke kindly to me . told me that he was personally acquainted with my Grandfather Genˡ <pb xml:id="page-112" n="88"/> Poe, with yourself &amp; family, &amp; reassured me of my immediate discharge upon your consent. It must have been a matter of regret to me, that when those who were strangers took such deep interest in my welfare, that you who called me your son should refuse me even the common civility of answering a letter. If it is your wish to forget that I have been your son I am too proud to remind you of it again—I only beg you to remember that you yourself cherished the cause of my leaving your family—Ambition—If it has not taken the channel you wished it, it is not the less certain of its object. Richmond &amp; the U.States were too narrow a sphere &amp; the world shall be my theatre.</p>
@@ -555,24 +547,24 @@
 <p>If you determine to abandon me—here take [illegible] farewell—Neglected I will be doubly [illegible] tious, &amp; the world shall hear of the son whom you have thought</p>
 </div>
 <div xml:id="div-unit-0037" type="apparatus">
-<pb xml:id="page-113" n="77"/><figure type="illustration"><figDesc>illustration on p. 77</figDesc></figure>
+<pb xml:id="page-113" n="113"/><figure type="illustration"><figDesc>illustration on p. 113</figDesc></figure>
 <p rend="caption">FORT MOULTRIE<lb/>From a drawing made by Lossing in 1849 for his <hi rend="italic">Field Book of the Revolution</hi>. Here came the 18 year old Poe and spent thirteen months (November 1827–December 1828) marked by sobriety, faithfulness to duty and striking creative work</p>
 <pb xml:id="page-115" n="89"/><p>unworthy of your notice. But if you let the love you bear me, outweigh the offence which I have given— then write me my father, quickly. My desire is for the present to be freed from the Army—Since I have been in it my character is one that will bear scrutiny &amp; has merited the esteem of my officers—but I have accomplished my own ends—&amp; I wish to be gone—Write to Lieut Howard—&amp; to Col: House, desiring my discharge —&amp; above all to myself. Lieut Howard’s direction is Lieut J. Howard, Forˢˢ Monroe, Col. House’s Col : Jas House— Fˢˢ Monroe—my own the same—</p>
 <p rend="indented">My dearest Love to Ma &amp; all my friends</p>
 <closer><salute rend="right">I am your affectionate son</salute><signed rend="right">Edgar A Poe</signed><pb xml:id="page-116" n="90"/><address><addrLine>12½</addrLine><addrLine>John Allan Esqʳ</addrLine><addrLine>Richmond</addrLine><addrLine>Va</addrLine></address><address><addrLine>Edgar A Poe</addrLine><addrLine>Decʳ 22 1828</addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0038" type="apparatus">
-<pb xml:id="page-117" n="81"/><p rend="caption">LETTER NUMBER SEVEN</p>
+<pb xml:id="page-117" n="117"/><p rend="caption">LETTER NUMBER SEVEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SEVEN]</figDesc></figure>
-<pb xml:id="page-118" n="82"/><p rend="caption">LETTER NUMBER SEVEN</p>
+<pb xml:id="page-118" n="118"/><p rend="caption">LETTER NUMBER SEVEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SEVEN]</figDesc></figure>
-<pb xml:id="page-119" n="83"/><p rend="caption">LETTER NUMBER SEVEN</p>
+<pb xml:id="page-119" n="119"/><p rend="caption">LETTER NUMBER SEVEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SEVEN]</figDesc></figure>
-<pb xml:id="page-120" n="84"/><p rend="caption">LETTER NUMBER SEVEN</p>
+<pb xml:id="page-120" n="120"/><p rend="caption">LETTER NUMBER SEVEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SEVEN]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0039" type="apparatus">
-<pb xml:id="page-121" n="85"/><p rend="heading">LETTER NUMBER EIGHT</p>
+<pb xml:id="page-121" n="95"/><p rend="heading">LETTER NUMBER EIGHT</p>
 <p rend="heading">EDGAR ALLAN POE, FORTRESS MONROE, OLD POINT, VIRGINIA,<lb/>FEBRUARY 4, 1829<lb/>TO JOHN ALLAN</p>
 </div>
 <div xml:id="div-unit-0040" type="narrative">
@@ -580,7 +572,7 @@
 <p rend="indented">Two months and over have passed since Poe’s Fort Moultrie letter was written and six weeks—including the Christmas season and Edgar’s twentieth birthday—since the one from Fortress Monroe. Discouraged at having had no answer to either and with hope of being invited “home” gone, he writes again—this time requesting Mr. Allan to help him to procure a cadet’s appointment to West Point. He says he is in “an uncomfortable situation for lack of money,” confesses “infamous conduct” at the University and throws himself upon his father’s mercy.</p>
 <p rend="indented">There is no evidence of a reply to this letter but three weeks after it was written (February 28, 1829) Mrs. Allan died. On that day Edgar was “present for duty” with his battery at Old Point, but the death of Frances Allan evidently caused her husband to relent and ask for a week’s leave for the young sergeant major who had been her only child, and of course he must have furnished means for the journey. Again proof is furnished by a combination of the Valentine Museum letters and the records in the Library of Congress. In Letter Twenty-Four from West Point, Poe reminds Mr. Allan that he “came home the night after the burial”—presumably March 2, since the death occurred on the last day of February. The Ellis-Allan papers contain a bill dated March 3, 1829, for a handsome suit of mourning clothes for Edgar Poe, including a fashionable hat. “Miss Nancy” Valentine and Mrs. Galt, to whom Edgar sends messages, doubtless attended to that.</p>
 </div>
-<div xml:id="div-letter-0012" type="letter" corresp="#letter-0012">
+<div xml:id="div-letter-0010" type="letter" corresp="#letter-0010">
 <pb xml:id="page-125" n="99"/><head rend="center">LETTER NUMBER EIGHT</head>
 <opener><dateline rend="right">Fortress Monroe<lb/>February 4ᵗʰ 1829</dateline><salute>Dear Sir,</salute></opener>
 <p rend="indented">I wrote you some time ago from this place but have as yet received no reply. Since that time I wrote to John MᶜKenzie desiring him to see you personally &amp; desire for me, of you, that you would interest yourself in procuring me a cadet’s appointment at the Military Academy.</p>
@@ -591,7 +583,7 @@
 <p>Whatever fault you may find with me I have not been ungrateful for past services—but you blame me for the part which I have taken without considering the powerful impulses which actuated me. You will remember how much I had to suffer upon my return from the University. I never meant to offer a shadow of excuse for the infamous conduct of myself &amp; others at that place. It was however at the commencement of that year that I got deeply entangled in difficulty which all my after good conduct in the close of the session (to</p>
 </div>
 <div xml:id="div-unit-0042" type="apparatus">
-<pb xml:id="page-127" n="91"/><figure type="illustration"><figDesc>illustration on p. 91</figDesc></figure>
+<pb xml:id="page-127" n="127"/><figure type="illustration"><figDesc>illustration on p. 127</figDesc></figure>
 <p rend="caption">Courtesy of the Edgar Allan Poe Shrine</p>
 <p rend="caption">FORTRESS MONROE WHEN POE WAS IN SERVICE THERE–1829</p>
 <pb xml:id="page-129" n="101"/><p>which all there can testify) could not clear away. I had never been from home before for any length of time. I say again I have no excuse to offer for my conduct except the common one of youth [illegible] —but I repeat that I was unable if my life had depended upon it to bear the consequences of that conduct in the taunts &amp; abuse that followed it even from those who had been my warmest friends.</p>
@@ -600,17 +592,17 @@
 <closer><salute rend="cascading">I am<lb/>Yours affectionately</salute><signed rend="right">Edgar A Poe</signed><pb xml:id="page-130" n="102"/><address><addrLine>Edgar A Poe</addrLine><addrLine>Feby 4ᵗʰ 1829</addrLine></address><address><addrLine>12½</addrLine><addrLine>John Allan Esqʳ</addrLine><addrLine>Richmond</addrLine><addrLine>Vᵃ</addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0043" type="apparatus">
-<pb xml:id="page-131" n="95"/><p rend="caption">LETTER NUMBER EIGHT</p>
+<pb xml:id="page-131" n="131"/><p rend="caption">LETTER NUMBER EIGHT</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER EIGHT]</figDesc></figure>
-<pb xml:id="page-132" n="96"/><p rend="caption">LETTER NUMBER EIGHT</p>
+<pb xml:id="page-132" n="132"/><p rend="caption">LETTER NUMBER EIGHT</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER EIGHT]</figDesc></figure>
-<pb xml:id="page-133" n="97"/><p rend="caption">LETTER NUMBER EIGHT</p>
+<pb xml:id="page-133" n="133"/><p rend="caption">LETTER NUMBER EIGHT</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER EIGHT]</figDesc></figure>
-<pb xml:id="page-134" n="98"/><p rend="caption">LETTER NUMBER EIGHT</p>
+<pb xml:id="page-134" n="134"/><p rend="caption">LETTER NUMBER EIGHT</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER EIGHT]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0044" type="apparatus">
-<pb xml:id="page-135" n="99"/><p rend="heading">LETTER NUMBER NINE</p>
+<pb xml:id="page-135" n="135"/><p rend="heading">LETTER NUMBER NINE</p>
 <p rend="heading">EDGAR ALLAN POE, FORTRESS MONROE, MARCH 10, 1829<lb/>TO JOHN ALLAN<lb/>[MUTILATED]</p>
 </div>
 <div xml:id="div-unit-0045" type="narrative">
@@ -619,7 +611,7 @@
 <p rend="indented">In the course of Professor George E. Woodberry’s exhaustive research for his Life of Edgar Allan Poe,<ref xml:id="fnref-p0137-1" type="noteref" target="#fn-p0137-1">1</ref> he unearthed and introduced into his book some valuable material concerning Poe’s discharge from the army and application for appointment to West Point. In a letter (Fortress Monroe, March 30, 1829) from Colonel James House of the First Artillery,<ref xml:id="fnref-p0137-2" type="noteref" target="#fn-p0137-2">2</ref> “To the General Commanding the E. Dept. U. S. A., New York,” the writer says that at the request of Poe’s “patron. . . the young man has been permitted to visit him; the result is an entire reconciliation on the part of Mr. Allan, who reinstates him in his family and favor, and who . . . requests that his son may be discharged on procuring a substitute.”</p>
 <p rend="indented">By order dated April 4, Poe received his discharge on April 15, and a satisfactory substitute took his place. Before going “home” to Richmond he lingered about Old Point long enough to secure letters of recommendation to be presented in person to Major John H. Eaton, the Secretary of War, at Washington. Thanks to Professor Woodberry, we may read these letters, also, in full.<ref xml:id="fnref-p0137-3" type="noteref" target="#fn-p0137-3">3</ref> That of Lieutenant Howard declared that “Edgar Poe . . . served under my command . . . from June 1827, to January, 1829, during which time his conduct was unexceptionable. He at once performed the duties of Company Clerk and assistant in the Subsistent Department, both of which duties were promptly</p>
 </div>
-<div xml:id="div-letter-0013" type="letter" corresp="#letter-0013">
+<div xml:id="div-letter-0011" type="letter" corresp="#letter-0011">
 <pb xml:id="page-139" n="113"/><head rend="center">LETTER NUMBER NINE</head>
 <opener><dateline rend="right">Fortress Monroe<lb/>March 10ᵗʰ 1829.</dateline><salute>My dear Pa,</salute></opener>
 <p rend="indented">I arrived on the point this morning in good health, and if it were not for the late occurrences, should feel much happier than I have for a long time. I have had a fearful warning &amp; have hardly ever known before what distress was.</p>
@@ -633,13 +625,13 @@
 <closer><address><addrLine>To</addrLine><addrLine>John Allan Esq.,</addrLine><addrLine>Richmond</addrLine><addrLine>Va</addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0047" type="apparatus">
-<pb xml:id="page-141" n="105"/><figure type="illustration"><figDesc>illustration on p. 105</figDesc></figure>
+<pb xml:id="page-141" n="141"/><figure type="illustration"><figDesc>illustration on p. 141</figDesc></figure>
 <p rend="caption">FRANCES VALENTINE ALLAN<lb/>Wife of John Allan.  From a portrait by Thomas Sully, owned by Edward V. Valentine</p>
 </div>
 <div xml:id="div-unit-0048" type="apparatus">
-<pb xml:id="page-143" n="107"/><p rend="caption">LETTER NUMBER NINE</p>
+<pb xml:id="page-143" n="143"/><p rend="caption">LETTER NUMBER NINE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER NINE]</figDesc></figure>
-<pb xml:id="page-144" n="108"/><p rend="caption">LETTER NUMBER NINE</p>
+<pb xml:id="page-144" n="144"/><p rend="caption">LETTER NUMBER NINE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER NINE]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0049" type="apparatus">
@@ -651,9 +643,9 @@
 <p rend="indented">From these letters it will be seen that Poe had presented his application and credentials at Washington and was looking up his father’s kin in Baltimore. His references to William Wirt (who had formerly lived in Richmond and moved in the circle with which the Allans were identified) shows that he was not unmindful of his literary aspirations and was making good his opportunity to improve his acquaintance with a well known man of letters.</p>
 <p rend="indented">The “warm” letter written to Mr. Allan by Colonel James P. Preston was dated May 13, 1829—about a week after Poe left Richmond.</p>
 <p rend="indented">On the reverse of Poe’s letter Mr. Allan wrote: Edgar A. Poe May 20, 1829. Answered in anticipation to Washington.</p>
-<table><row><cell>Gave Edgar . . . . . . . . . .</cell><cell>$50</cell></row><row><cell>remitted him . . . . . . . . . .</cell><cell>100</cell></row><row><cell>p’d his draft . . . . . . . . . .</cell><cell>50</cell></row><row><cell></cell><cell>$200.</cell></row></table>
+<table cols="2" rows="4"><row><cell>Gave Edgar . . . . . . . . . .</cell><cell>$50</cell></row><row><cell>remitted him . . . . . . . . . .</cell><cell>100</cell></row><row><cell>p’d his draft . . . . . . . . . .</cell><cell>50</cell></row><row><cell></cell><cell>$200.</cell></row></table>
 </div>
-<div xml:id="div-letter-0014" type="letter" corresp="#letter-0014">
+<div xml:id="div-letter-0012" type="letter" corresp="#letter-0012">
 <pb xml:id="page-149" n="121"/><head rend="center">LETTER NUMBER TEN</head>
 <opener><dateline rend="right">Richmond May 18ᵗʰ 1829</dateline><salute>Dear Edgar</salute></opener>
 <p rend="indented">I duly recᵈ your letter from Baltimore on Saturday but seeing Col. Preston I gave it to him to read, I have not yet recovered possession. The contents however are on my mind. I was agreeably pleased to hear that the Honourable Jnᵒ J Barber did interest himself so much in your favour.</p>
@@ -664,10 +656,10 @@
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-unit-0052" type="apparatus">
-<pb xml:id="page-151" n="115"/><p rend="caption">LETTER NUMBER TEN</p>
+<pb xml:id="page-151" n="151"/><p rend="caption">LETTER NUMBER TEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TEN]</figDesc></figure>
 </div>
-<div xml:id="div-letter-0015" type="letter" corresp="#letter-0015">
+<div xml:id="div-letter-0013" type="letter" corresp="#letter-0013">
 <pb xml:id="page-153" n="125"/><head rend="center">LETTER NUMBER ELEVEN</head>
 <opener><dateline rend="right">Baltimore<lb/>May 20. 1829</dateline><salute>Dear Pa,</salute></opener>
 <p rend="indented">I received your letter this morning enclosing a draft for $100 for which liberal allowance you will be sure that I feel grateful. The draft which I drew at Mʳ. Warwick’s suggestion will of course be laid aside.</p>
@@ -677,20 +669,20 @@
 <closer><salute rend="cascading">Give my best love to Miss Valentine &amp; all at home—<lb/>I remain<lb/>Yours affectionately</salute><signed rend="right">Edgar A. Poe</signed><pb xml:id="page-154" n="126"/><address><addrLine>Edgar A Poe</addrLine><addrLine>May 20 1829</addrLine></address><address><addrLine>Answered in anticipation</addrLine><addrLine>to Washington</addrLine><addrLine>gave Edgar    $ 50</addrLine><addrLine>remitted him     100</addrLine><addrLine>pᵈ his draft      50</addrLine><addrLine>$200</addrLine></address><address><addrLine>John Allan Esqʳ</addrLine><addrLine>Richmond</addrLine><addrLine>Va</addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0054" type="apparatus">
-<pb xml:id="page-155" n="119"/><p rend="caption">LETTER NUMBER ELEVEN</p>
+<pb xml:id="page-155" n="155"/><p rend="caption">LETTER NUMBER ELEVEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER ELEVEN]</figDesc></figure>
-<pb xml:id="page-156" n="120"/><p rend="caption">LETTER NUMBER ELEVEN</p>
+<pb xml:id="page-156" n="156"/><p rend="caption">LETTER NUMBER ELEVEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER ELEVEN]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0055" type="apparatus">
-<pb xml:id="page-157" n="121"/><p rend="heading">LETTER NUMBER TWELVE</p>
+<pb xml:id="page-157" n="129"/><p rend="heading">LETTER NUMBER TWELVE</p>
 <p rend="heading">EDGAR ALLAN POE, BALTIMORE, MAY 29, 1829<lb/>TO JOHN ALLAN</p>
 </div>
 <div xml:id="div-unit-0056" type="narrative">
 <pb xml:id="page-159" n="131"/><head rend="center">COMMENT</head>
 <p rend="indented">It becomes more and more evident that the master interest of Poe's life was his creative work and desire to see it in print. While waiting in Baltimore to hear from his application for a cadetship he sought the opinion and advice of William Wirt as to “Al Aaraaf” and (apparently at Wirt's suggestion) went—on May 12, 1829—to Philadelphia to see an expert critic and a leading publisher. Wirt's letter which he enclosed to Mr. Allan has been alluded to by Woodberry and Campbell, but has never been printed. Dr. Thomas Ollive Mabbott, of Columbia University, has kindly furnished the editor with a copy of the (slightly mutilated) letter, from the original manuscript in the Boston Library, and here it is:</p>
 </div>
-<div xml:id="div-letter-0016" type="letter" corresp="#letter-0016">
+<div xml:id="div-letter-0014" type="letter" corresp="#letter-0014">
 <quote><p rend="right">“Baltimore May 11, 1829.</p></quote>
 <quote><p>“Dear Sir:—</p></quote>
 <quote><p rend="indented">“It occurred to me, after you left me this morning, that I was probably losing you a day on your journey to Philadelphia, by proposing to detain your poem even until tomorrow, as I understand the day-boat <ref xml:id="fnref-p0159-1" type="noteref" target="#fn-p0159-1">1</ref> has commenced her spring trips between the cities. I thought it due to your convenience, therefore, to read the poem at once, and send it tonight.</p></quote>
@@ -700,7 +692,7 @@
 <p rend="indented">Encouraged by Wirt’s interest and Robert Walsh’s promise of notice of “Al Aaraaf” in the <hi rend="italic">American Quarterly Review</hi>, on publication, Edgar Poe (though frankly quoting both Wirt and Walsh as to the difficulty of getting poetry published in America) writes Mr. Allan, on May 29: “I am now going to make a request different from any I have ever made.”</p>
 <p rend="indented">On the reverse of this letter Mr. Allan wrote “Replied to Monday, 8th June 1829 strongly censuring his conduct and refusing my aid.”</p>
 </div>
-<div xml:id="div-letter-0017" type="letter" corresp="#letter-0017">
+<div xml:id="div-letter-0015" type="letter" corresp="#letter-0015">
 <pb xml:id="page-161" n="133"/><head rend="center">LETTER NUMBER TWELVE</head>
 <opener><dateline rend="right">Baltimore May 29ᵗʰ<lb/>1829</dateline><salute>Dear Pa,</salute></opener>
 <p rend="indented">I am now going to make a request different from any I have ever yet made—</p>
@@ -712,7 +704,7 @@
 <p>If you conclude upon giving me a <hi rend="italic">trial</hi> please enclose me the letter to Messʳˢ Carey, Lea, &amp; Carey—I shall wait anxiously for your answer—</p>
 </div>
 <div xml:id="div-unit-0059" type="apparatus">
-<pb xml:id="page-163" n="127"/><figure type="illustration"><figDesc>illustration on p. 127</figDesc></figure>
+<pb xml:id="page-163" n="163"/><figure type="illustration"><figDesc>illustration on p. 163</figDesc></figure>
 <p rend="caption">Courtesy of the Edgar Allan Poe Shrine</p>
 <p rend="caption">BALTIMORE IN 1828</p>
 <p rend="caption">The birthplace of Poe’s father. Here many of Poe’s letters to John Allan were written. Here, at the age of 20, he published his second volume of poems. Here he won the short-story prize and made the friendship of Kennedy which gave him a real start on his literary career. Here he met Virginia Clemm—and the romance of his life. Here he died and he, Virginia and her mother are buried. Here the Poe Memorial Society of Baltimore has erected a statue of him, by Sir Moses Ezekiel</p>
@@ -721,17 +713,17 @@
 <postscript><p rend="postscript">Please present my thanks to Col : Preston for his obliging letter.</p><closer><address><addrLine>replied to Monday 8ᵗʰ June 1829</addrLine><addrLine>strongly censuring his conduct—&amp; refusing any aid—</addrLine></address><pb xml:id="page-166" n="136"/><address><addrLine>3½</addrLine></address><address><addrLine>Mr. John Allan</addrLine><addrLine>Richmond,</addrLine><addrLine>Va.</addrLine></address><address><addrLine>Edgar A Poe</addrLine><addrLine>Balt. May 29 1829</addrLine><addrLine>Letter of Wᵐ Wirt</addrLine><addrLine>answᵈ 8ᵗʰ June 1829</addrLine></address></closer></postscript>
 </div>
 <div xml:id="div-unit-0060" type="apparatus">
-<pb xml:id="page-167" n="131"/><p rend="caption">LETTER NUMBER TWELVE</p>
+<pb xml:id="page-167" n="167"/><p rend="caption">LETTER NUMBER TWELVE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWELVE]</figDesc></figure>
-<pb xml:id="page-168" n="132"/><p rend="caption">LETTER NUMBER TWELVE</p>
+<pb xml:id="page-168" n="168"/><p rend="caption">LETTER NUMBER TWELVE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWELVE]</figDesc></figure>
-<pb xml:id="page-169" n="133"/><p rend="caption">LETTER NUMBER TWELVE</p>
+<pb xml:id="page-169" n="169"/><p rend="caption">LETTER NUMBER TWELVE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWELVE]</figDesc></figure>
-<pb xml:id="page-170" n="134"/><p rend="caption">LETTER NUMBER TWELVE</p>
+<pb xml:id="page-170" n="170"/><p rend="caption">LETTER NUMBER TWELVE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWELVE]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0061" type="apparatus">
-<pb xml:id="page-171" n="135"/><p rend="heading">LETTER NUMBER THIRTEEN<lb/>EDGAR ALLAN POE, BALTIMORE, JUNE 25, 1829<lb/>TO JOHN ALLAN</p>
+<pb xml:id="page-171" n="141"/><p rend="heading">LETTER NUMBER THIRTEEN<lb/>EDGAR ALLAN POE, BALTIMORE, JUNE 25, 1829<lb/>TO JOHN ALLAN</p>
 <p rend="heading">LETTER NUMBER FOURTEEN<lb/>EDGAR ALLAN POE, BALTIMORE, JULY 15, 1829<lb/>TO JOHN ALLAN</p>
 <p rend="heading">LETTER NUMBER FIFTEEN<lb/>EDGAR ALLAN POE, BALTIMORE, JULY 26, 1829<lb/>TO JOHN ALLAN</p>
 </div>
@@ -742,7 +734,7 @@
 <p rend="indented">The poet clings desperately to hope for his foster-father’s approval of the publication of “Al Aaraaf” and awaits his answer with “great anxiety.”</p>
 <p rend="indented">“The Byrd” means the Allans’ farm, the Lower Byrd Plantation in Goochland county, not far from Richmond.</p>
 </div>
-<div xml:id="div-letter-0018" type="letter" corresp="#letter-0018">
+<div xml:id="div-letter-0016" type="letter" corresp="#letter-0016">
 <pb xml:id="page-175" n="145"/><head rend="center">LETTER NUMBER THIRTEEN</head>
 <opener><dateline rend="right">Baltimore<lb/>June 25 1829</dateline><salute>Dear Pa,</salute></opener>
 <p rend="indented">I wrote you on the 10ᵗʰ of June in reply to yours of the 8ᵗʰ in which I urged my reasons in further support of my request to be allowed to publish a poem— &amp; I <hi rend="italic">did</hi> intend, but forgot to say, in conclusion, that as I had submitted the question of its being expedient to your decision—I should by no means publish it without your approbation—I say this now, because I fear from your silence that I have offended you in pressing my request any farther.</p>
@@ -758,16 +750,16 @@
 <closer><salute rend="right">I am yours affectˡʸ</salute><signed rend="right">E. A. <hi rend="smallcaps">Poe</hi></signed></closer>
 </div>
 <div xml:id="div-unit-0064" type="apparatus">
-<pb xml:id="page-179" n="143"/><p rend="caption">LETTER NUMBER THIRTEEN</p>
+<pb xml:id="page-179" n="179"/><p rend="caption">LETTER NUMBER THIRTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER THIRTEEN]</figDesc></figure>
-<pb xml:id="page-180" n="144"/><p rend="caption">LETTER NUMBER THIRTEEN</p>
+<pb xml:id="page-180" n="180"/><p rend="caption">LETTER NUMBER THIRTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER THIRTEEN]</figDesc></figure>
-<pb xml:id="page-181" n="145"/><p rend="caption">LETTER NUMBER THIRTEEN</p>
+<pb xml:id="page-181" n="181"/><p rend="caption">LETTER NUMBER THIRTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER THIRTEEN]</figDesc></figure>
-<pb xml:id="page-182" n="146"/><p rend="caption">LETTER NUMBER THIRTEEN</p>
+<pb xml:id="page-182" n="182"/><p rend="caption">LETTER NUMBER THIRTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER THIRTEEN]</figDesc></figure>
 </div>
-<div xml:id="div-letter-0019" type="letter" corresp="#letter-0019">
+<div xml:id="div-letter-0017" type="letter" corresp="#letter-0017">
 <pb xml:id="page-183" n="153"/><head rend="center">LETTER NUMBER FOURTEEN</head>
 <opener><dateline rend="right">Baltimore<lb/>July 15ᵗʰ 1829</dateline><salute>Dear Pa,</salute></opener>
 <p rend="indented">I have written you twice lately &amp; have received no answer—I would not trouble you so often with my letters, but I am afraid that being up at the Byrd you might probably not have received them—I am very anxious to return home thro’ Washington when I have every hope of being appointed for Sepʳ &amp; besides by being detained at Baltimore I am incurring uneccessary expense as Grandmother is not in a situation to give me any accomodation—</p>
@@ -776,12 +768,12 @@
 <closer><salute rend="cascading">I am<lb/>Dear Pa<lb/>Yours affectionately</salute><signed rend="right">Edgar A. Poe</signed><pb xml:id="page-184" n="154"/><address><addrLine>Edgar A Poe</addrLine></address><address><addrLine>July 15 1829</addrLine></address><address><addrLine>John Allan Esqʳ</addrLine><addrLine>Richmond</addrLine><addrLine>Va</addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0066" type="apparatus">
-<pb xml:id="page-185" n="149"/><p rend="caption">LETTER NUMBER FOURTEEN</p>
+<pb xml:id="page-185" n="185"/><p rend="caption">LETTER NUMBER FOURTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER FOURTEEN]</figDesc></figure>
-<pb xml:id="page-186" n="150"/><p rend="caption">LETTER NUMBER FOURTEEN</p>
+<pb xml:id="page-186" n="186"/><p rend="caption">LETTER NUMBER FOURTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER FOURTEEN]</figDesc></figure>
 </div>
-<div xml:id="div-letter-0020" type="letter" corresp="#letter-0020">
+<div xml:id="div-letter-0018" type="letter" corresp="#letter-0018">
 <pb xml:id="page-187" n="157"/><head rend="center">LETTER NUMBER FIFTEEN</head>
 <opener><dateline rend="right">Baltimore<lb/>July 26—1829</dateline><salute>Dear Pa,</salute></opener>
 <p rend="indented">I received yours of the 19ᵗʰ on the 22ᵈ ultᵒ &amp; am truly thankful for the money which you sent me, notwithstanding the taunt with which it was given ‘‘that men of genius ought not to apply to your aid’’—It is too often their necessity to want that little timely assistance which would prevent such applications—</p>
@@ -795,23 +787,23 @@
 <closer><salute rend="right">I am yours affectionately</salute><signed rend="right">Edgar A Poe</signed></closer>
 </div>
 <div xml:id="div-unit-0068" type="apparatus">
-<pb xml:id="page-193" n="157"/><p rend="caption">LETTER NUMBER FIFTEEN</p>
+<pb xml:id="page-193" n="193"/><p rend="caption">LETTER NUMBER FIFTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER FIFTEEN]</figDesc></figure>
-<pb xml:id="page-194" n="158"/><p rend="caption">LETTER NUMBER FIFTEEN</p>
+<pb xml:id="page-194" n="194"/><p rend="caption">LETTER NUMBER FIFTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER FIFTEEN]</figDesc></figure>
-<pb xml:id="page-195" n="159"/><p rend="caption">LETTER NUMBER FIFTEEN</p>
+<pb xml:id="page-195" n="195"/><p rend="caption">LETTER NUMBER FIFTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER FIFTEEN]</figDesc></figure>
-<pb xml:id="page-196" n="160"/><p rend="caption">LETTER NUMBER FIFTEEN</p>
+<pb xml:id="page-196" n="196"/><p rend="caption">LETTER NUMBER FIFTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER FIFTEEN]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0069" type="editorial">
-<pb xml:id="page-197" n="161"/><head rend="center">LETTER NUMBER SIXTEEN</head>
+<pb xml:id="page-197" n="167"/><head rend="center">LETTER NUMBER SIXTEEN</head>
 <head rend="center">EDGAR ALLAN POE, BALTIMORE, AUGUST 4, 1829
 TO JOHN ALLAN</head>
-<pb xml:id="page-199" n="163"/><head rend="center">COMMENT</head>
+<pb xml:id="page-199" n="169"/><head rend="center">COMMENT</head>
 <p rend="indented">No answer having been received to his letter of July 26 Poe—evidently in straits—makes another appeal for confidence, forgiveness of past faults, permission to come “home.” Three things Poe was working desperately for—to reinstate himself in Mr. Allan’s favor, to publish his work, to secure a cadetship. In the meantime his existence during the wait for his appointment—possibly in September, more probably the following June—seemed to depend on permission to go “home.” “If I could manage until that time I would be no longer a trouble to you,” he writes. And herein is a suggestion of one reason for his desire: for the cadetship—to rid Mr. Allan of responsibility of his support. In the words of Eugene L. Didier, Poe “had been taught to spend thousands, but had never been taught to earn a dollar.”<ref xml:id="fnref-p0199-1" type="noteref" target="#fn-p0199-1">4</ref></p>
 </div>
-<div xml:id="div-letter-0021" type="letter" corresp="#letter-0021">
+<div xml:id="div-letter-0019" type="letter" corresp="#letter-0019">
 <pb xml:id="page-201" n="171"/><head rend="center">LETTER NUMBER SIXTEEN</head>
 <opener><dateline rend="right">Baltimore Aug : 4-/29</dateline><salute>Dear Sir,</salute></opener>
 <p rend="indented">I am unable to account for your not answering—if you are offended with me—I repeat that I have done nothing to deserve your displeasure. If you doubt what I say &amp; think that I have neglected to use any exertions in the procuring my warrant—write yourself to Mʳ Eaton &amp; he will tell you that more exertions could not have been—the appᵗ might have been obtained for June if the application had been made 2 months sooner &amp; you will remember that I was under the impression that you were making exertions to obtain the situation for me, while I was at Old Point &amp; so situated as to be unable to use any exertions of my own—On returning home nothing had been done—it is therefore unjust to blame me for a failure, after using every endeavour, when success was impossible rendered so by your own delay—If you have not forgiven me for my former conduct—that is a different thing—but you told me that you had—I am however aware that I have many enemies at home who fancy it their interest to injure me in your estimation—</p>
@@ -820,19 +812,19 @@ TO JOHN ALLAN</head>
 <closer><salute rend="cascading">I am<lb/>Yours &amp;c</salute><signed rend="right">Edgar A. Poe</signed><pb xml:id="page-203" n="173"/><address><addrLine>Edgar A Poe</addrLine><addrLine>Augᵗ 4ᵗʰ 1829</addrLine></address><address><addrLine>Mr. John Allan</addrLine><addrLine>Richmond,</addrLine><addrLine>Va</addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0071" type="apparatus">
-<pb xml:id="page-205" n="169"/><p rend="caption">LETTER NUMBER SIXTEEN</p>
+<pb xml:id="page-205" n="205"/><p rend="caption">LETTER NUMBER SIXTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SIXTEEN]</figDesc></figure>
-<pb xml:id="page-206" n="170"/><p rend="caption">LETTER NUMBER SIXTEEN</p>
+<pb xml:id="page-206" n="206"/><p rend="caption">LETTER NUMBER SIXTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SIXTEEN]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0072" type="editorial">
-<pb xml:id="page-207" n="171"/><head rend="center">LETTER NUMBER SEVENTEEN</head>
+<pb xml:id="page-207" n="177"/><head rend="center">LETTER NUMBER SEVENTEEN</head>
 <head rend="center">EDGAR ALLAN POE, BALTIMORE, AUGUST 10, 1829
 TO JOHN ALLAN</head>
 <pb xml:id="page-209" n="179"/><head rend="center">COMMENT</head>
 <p>The opening sentence suggests that the letter received that morning from his foster-father contained kindness as well as the first money he had had since the letter of July 19, and the last he was to have until the middle of November. (See Numbers Nineteen and Twenty.) It evidently contained no invitation to come “home” and Poe’s answer—by return post—shows that he despairs of receiving one, as he sends Mr. Allan a calculation as to the least allowance upon which he can exist in a cheap boarding house in Baltimore and asks that “a small trunk containing books and some letters” which he had left in Richmond, be forwarded to him. Twenty years later, when Poe died in Baltimore, most of his estate consisted of a small black leather trunk, bound with iron hoops and containing manuscripts and a few other belongings. The trunk and its key (which was found in the dead poet’s pocket) were turned over to his cousin, Neilson Poe, who sent them to Edgar’s sister Rosalie at “Duncan Lodge,” Richmond, the home of the MacKensies, who had adopted and reared her. Rosalie gave the trunk and key to Jane MacKensie Miller, of Matthews County, Virginia, only grandchild of her foster-mother, who, in 1923, conveyed them to the “Edgar Allan Poe Shrine,” Richmond, where they may now be seen.<ref xml:id="fnref-p0209-1" type="noteref" target="#fn-p0209-1">1</ref></p>
 </div>
-<div xml:id="div-letter-0022" type="letter" corresp="#letter-0022">
+<div xml:id="div-letter-0020" type="letter" corresp="#letter-0020">
 <pb xml:id="page-211" n="181"/><head rend="center">LETTER NUMBER SEVENTEEN</head>
 <opener><dateline rend="right">Baltimore<lb/>August 10ᵗʰ 1829</dateline><salute>Dear Pa,</salute></opener>
 <p rend="indented">I received yours this morning which relieved me from more trouble than you can well imagine—I was afraid that you were offended &amp; although I knew that I had done nothing to deserve your anger, I was in a moft uncomfortable situation—without one cent of money—in a strange place &amp; so quickly engaged in difficulties after the serious misfortunes which I have just escaped—My grandmother is extremely poor &amp; ill (paralytic) My aunt Maria if possible still worse &amp; Henry entirely given up to drink &amp; unable to help himself, much less me—</p>
@@ -843,26 +835,26 @@ TO JOHN ALLAN</head>
 <closer><salute rend="cascading">I remain<lb/>Dear Pa<lb/>Yours affectionately</salute><signed rend="right">Edgar A. Poe</signed></closer>
 </div>
 <div xml:id="div-unit-0074" type="apparatus">
-<pb xml:id="page-213" n="177"/><figure type="illustration"><figDesc>illustration on p. 177</figDesc></figure>
+<pb xml:id="page-213" n="213"/><figure type="illustration"><figDesc>illustration on p. 213</figDesc></figure>
 <p rend="caption">Courtesy of the Edgar Allan Poe Shrine</p>
 <p rend="caption"><hi rend="smallcaps">POE'S TRUNK</hi><lb/>It generally had in it some of his manuscripts along with his other belongings. It was with him in Baltimore at the time of his death and its key was found in his pocket</p>
 </div>
-<div xml:id="div-letter-0023" type="letter" corresp="#letter-0023">
+<div xml:id="div-unit-0075" type="document">
 <pb xml:id="page-215" n="183"/><p rend="address_block">Edgar A Poe</p>
 <p rend="address_block">Augt 10ᵗʰ 1829</p>
 <p rend="address_block">Answd Aug 19, 1829<lb/>inclosed him $50</p>
 <p rend="address_block">Mr. John Allan<lb/>Richmond<lb/>Va</p>
 </div>
 <div xml:id="div-unit-0076" type="apparatus">
-<pb xml:id="page-217" n="181"/><p rend="caption">LETTER NUMBER SEVENTEEN</p>
+<pb xml:id="page-217" n="217"/><p rend="caption">LETTER NUMBER SEVENTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SEVENTEEN]</figDesc></figure>
-<pb xml:id="page-218" n="182"/><p rend="caption">LETTER NUMBER SEVENTEEN</p>
+<pb xml:id="page-218" n="218"/><p rend="caption">LETTER NUMBER SEVENTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SEVENTEEN]</figDesc></figure>
-<pb xml:id="page-219" n="183"/><p rend="caption">LETTER NUMBER SEVENTEEN</p>
+<pb xml:id="page-219" n="219"/><p rend="caption">LETTER NUMBER SEVENTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER SEVENTEEN]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0077" type="editorial">
-<pb xml:id="page-221" n="185"/><head rend="center">LETTER NUMBER EIGHTEEN</head>
+<pb xml:id="page-221" n="189"/><head rend="center">LETTER NUMBER EIGHTEEN</head>
 <head rend="center">EDGAR ALLAN POE, BALTIMORE, OCTOBER 30, 1829
 TO JOHN ALLAN</head>
 <pb xml:id="page-223" n="191"/><head rend="center">COMMENT</head>
@@ -871,7 +863,7 @@ TO JOHN ALLAN</head>
 <p>Mr. Allan undoubtedly saw Neal’s comment. Poe would have taken pains that he should see it and Neal’s place as a critic was of course well known to him, as the magazines for which Neal wrote had subscribers in Richmond.</p>
 <pb xml:id="page-224" n="192"/><p rend="indented">Edgar’s reply (in Letter Eighteen) to Mr. Allan’s request to see his poems is proof that such a request had been made and is the first sign of interest in the boy’s work of which there is documentary evidence. It is a significant sign coming on the heels of Neal’s notice.</p>
 </div>
-<div xml:id="div-letter-0024" type="letter" corresp="#letter-0024">
+<div xml:id="div-letter-0021" type="letter" corresp="#letter-0021">
 <pb xml:id="page-225" n="193"/><head rend="center">LETTER NUMBER EIGHTEEN</head>
 <opener><dateline rend="right">Baltᵒ Oct: 30. 1829.</dateline><salute>Dear Pa—</salute></opener>
 <p rend="indented">I received your letter this evening and am grieved that I can give you no positive evidence of my industry &amp; zeal as regards the appᵗ at W. Point: unless you will write to Mʳ Eaton himself who well remembers me &amp; the earnestness of my application.</p>
@@ -884,19 +876,19 @@ TO JOHN ALLAN</head>
 <closer><salute rend="cascading">I am<lb/>Yours affectionately</salute><signed rend="right">Edgar A. Poe</signed><pb xml:id="page-227" n="195"/><address><addrLine>E. A. Poe</addrLine><addrLine>Oct. 30 1829</addrLine></address><address><addrLine>John Allan Esqʳ</addrLine><addrLine>Richmond</addrLine><addrLine>Va.</addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0079" type="apparatus">
-<pb xml:id="page-229" n="193"/><p rend="caption">LETTER NUMBER EIGHTEEN</p>
+<pb xml:id="page-229" n="229"/><p rend="caption">LETTER NUMBER EIGHTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER EIGHTEEN]</figDesc></figure>
-<pb xml:id="page-230" n="194"/><p rend="caption">LETTER NUMBER EIGHTEEN</p>
+<pb xml:id="page-230" n="230"/><p rend="caption">LETTER NUMBER EIGHTEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER EIGHTEEN]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0080" type="editorial">
-<pb xml:id="page-231" n="195"/><head rend="center">LETTER NUMBER NINETEEN</head>
+<pb xml:id="page-231" n="199"/><head rend="center">LETTER NUMBER NINETEEN</head>
 <head rend="center">EDGAR ALLAN POE, BALTIMORE, NOVEMBER 12, 1829
 TO JOHN ALLAN</head>
 <pb xml:id="page-233" n="201"/><head rend="center">COMMENT</head>
 <p>This pitiful letter speaks for itself.</p>
 </div>
-<div xml:id="div-letter-0025" type="letter" corresp="#letter-0025">
+<div xml:id="div-letter-0022" type="letter" corresp="#letter-0022">
 <pb xml:id="page-235" n="203"/><head rend="center">LETTER NUMBER NINETEEN</head>
 <opener><dateline rend="right">Baltᵒ Nov: 12ᵗʰ 1829</dateline><salute>Dear Pa,</salute></opener>
 <p rend="indented">I wrote you about a fortnight ago and as I have not heard from you, I was afraid you had forgotten me—</p>
@@ -906,11 +898,11 @@ TO JOHN ALLAN</head>
 <closer><salute rend="cascading">I am   Dear Pa<lb/>Yours affectionately</salute><signed rend="right">Edgar A Poe</signed><pb xml:id="page-236" n="204"/><address><addrLine>E. A. Poe</addrLine><addrLine>Nov 12th 1829</addrLine></address><address><addrLine>M. John Allan</addrLine><addrLine>Richmond</addrLine><addrLine>Va</addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0082" type="apparatus">
-<pb xml:id="page-237" n="201"/><p rend="caption">LETTER NUMBER NINETEEN</p>
+<pb xml:id="page-237" n="237"/><p rend="caption">LETTER NUMBER NINETEEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER NINETEEN]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0083" type="editorial">
-<pb xml:id="page-239" n="203"/><head rend="center">LETTER NUMBER TWENTY</head>
+<pb xml:id="page-239" n="207"/><head rend="center">LETTER NUMBER TWENTY</head>
 <head rend="center">EDGAR ALLAN POE, BALTIMORE, NOVEMBER 18, 1829
 TO JOHN ALLAN</head>
 <pb xml:id="page-241" n="209"/><head rend="center">COMMENT</head>
@@ -919,8 +911,7 @@ TO JOHN ALLAN</head>
 <p rend="indented">It contains the first documentary evidence of intimacy at the home of Mrs. Clemm (“Aunt Maria”) which was of course also the home of his future wife, Virginia—then but a child.</p>
 <p rend="indented">It contains the announcement that “The poems will be printed!” Hatch and Dunning, printers of the Baltimore City directory for many years had doubtless also been impressed by editorial notice of Poe in <hi rend="italic">The Yankee</hi>—for good words in a literary journal of intellectual Boston and from a critic whose ability was so well known in Baltimore was “approbation from Sir Hubert” —and so they agreed to bring out the poems upon terms which Poe pronounced advantageous to him. He would doubtless have considered any terms advantageous which would effect the trans-mutation of his neat manuscript to a printed book. The volume contained not only “Al Aaraaf,” but “Tamerlane”—painstakingly revised—and a few short pieces.</p>
 <p rend="indented">After making his arrangement with Hatch and Dunning Poe succeeded in bringing himself a second time to the attention of John Neal, who in the December number of <hi rend="italic">The Yankee</hi> printed a letter written by Poe to one who (says the editor) “has laid it on our table for a good purpose”—with extracts from Poe’s forthcoming book and with praise and sound advice from himself. This is the earliest known letter of Poe’s until those in the Valentine Museum appearing now for the first time:</p>
-<p rend="indented">“I am young” (it says) “—not quite twenty—<hi rend="italic">am</hi> a poet—if deep worship of all beauty can make me one—and wish to be so in the more common meaning of the word. I would give the world</p>
-<pb xml:id="page-242" n="210"/><quote><p>to embody one half the ideas afloat in my imagination. (By the way, do you remember—or did you ever read the exclamation of Shelley about Shakespeare?—‘What a number of ideas must have been afloat before such an author could arise!’), I appeal to you as a man that loves the same beauty which I adore—the beauty of the natural blue sky and the sunshiny earth—there can be no tie more strong than that of brother for brother—it is not so much that they both love the same parent—their affections are always running in the same direction—the same channel—and cannot help mingling. . . . . . .</p></quote>
+<p rend="indented">“I am young” (it says) “—not quite twenty—<hi rend="italic">am</hi> a poet—if deep worship of all beauty can make me one—and wish to be so in the more common meaning of the word. I would give the world <pb xml:id="page-242" n="210"/> to embody one half the ideas afloat in my imagination. (By the way, do you remember—or did you ever read the exclamation of Shelley about Shakespeare?—‘What a number of ideas must have been afloat before such an author could arise!’), I appeal to you as a man that loves the same beauty which I adore—the beauty of the natural blue sky and the sunshiny earth—there can be no tie more strong than that of brother for brother—it is not so much that they both love the same parent—their affections are always running in the same direction—the same channel—and cannot help mingling. . . . . . .</p>
 <quote><p rend="indented">“I am about to publish a volume of ‘Poems,’ the greater part written before I was fifteen. Speaking about ‘Heaven,’ the editor of the ‘Yankee’ says, ‘He might write a beautiful, if not a magnificent poem’—(the very first words of encouragement I ever remember to have heard). I am very certain that as yet I have not written <hi rend="italic">either</hi>—but that I <hi rend="italic">can</hi>, I will take oath—if they will give me time.</p></quote>
 <quote><p rend="indented">“The poems to be published are ‘Al Aaraaf’—‘Tamerlane’— one about four and the other about three hundred lines, with smaller pieces. ‘Al Aaraaf’ has some good poetry, and much extravagance which I have not had time to throw away.</p></quote>
 <quote><p rend="indented">“ ‘Al Aaraaf’ is a tale of another world—the star discovered by Tycho Brahe, which appeared and disappeared so suddenly—or rather, it is no tale at all. I will insert an extract, about the palace of its presiding Deity, in which you will see that I have supposed many of the lost sculptures of our world to have flown (in spirit) to the star ‘Al Aaraaf’—a delicate place, more suited to their divinity.”</p></quote>
@@ -934,11 +925,11 @@ TO JOHN ALLAN</head>
 <p rend="indented">As late as 1875 Neal wrote to Judge Neilson Poe : “Edgar A. Poe was a wonderful man and he has never had justice done him.”<ref xml:id="fnref-p0244-1" type="noteref" target="#fn-p0244-1">1</ref></p>
 </div>
 <div xml:id="div-unit-0084" type="apparatus">
-<pb xml:id="page-245" n="209"/><figure type="illustration"><figDesc>illustration on p. 209</figDesc></figure>
+<pb xml:id="page-245" n="245"/><figure type="illustration"><figDesc>illustration on p. 245</figDesc></figure>
 <p rend="caption"><hi rend="italic">Courtesy of R. A. Lancaster, Jr.</hi></p>
 <p rend="caption">HOME OF THE ALLANS AT MAIN AND FIFTH STREETS, RICHMOND, VIRGINIA<lb/>There was, in front, a lawn planted in shrubbery and a circular driveway, and at the rear a walled garden</p>
 </div>
-<div xml:id="div-letter-0026" type="letter" corresp="#letter-0026">
+<div xml:id="div-letter-0023" type="letter" corresp="#letter-0023">
 <pb xml:id="page-247" n="213"/><head rend="center">LETTER NUMBER TWENTY</head>
 <opener><dateline rend="right">Baltᵒ Nov 18ᵗʰ 1829</dateline><salute>Dear Pa,</salute></opener>
 <p rend="indented">I duly recᵈ your letter enclosing a check for $80, for which I am truly thankful—This will be quite sufficient for all the expenditures you mention but I am afraid if I purchase a piece of linen of which I am much in want I shall have none left for pocket money—&amp; if you could get me a piece or a ½ piece at Mʳ Galt’s &amp; send it to me by the boat, I could get it made up gratis by my Aunt Maria—</p>
@@ -948,18 +939,18 @@ TO JOHN ALLAN</head>
 <closer><salute rend="cascading">I remain Dear Pa,<lb/>Yours affectionately</salute><signed rend="right">Edgar A Poe</signed><pb xml:id="page-248" n="214"/><address><addrLine>Edgar A. Poe</addrLine><addrLine>Nov 18ᵗʰ 1829</addrLine></address><address><addrLine>Mr. Jⁿᵒ Allan</addrLine><addrLine>Richmond</addrLine><addrLine>Va.</addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0086" type="apparatus">
-<pb xml:id="page-249" n="213"/><p rend="caption">LETTER NUMBER TWENTY</p>
+<pb xml:id="page-249" n="249"/><p rend="caption">LETTER NUMBER TWENTY</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0087" type="editorial">
-<pb xml:id="page-251" n="215"/><head rend="center">LETTER NUMBER TWENTY-ONE
+<pb xml:id="page-251" n="217"/><head rend="center">LETTER NUMBER TWENTY-ONE
 EDGAR ALLAN POE, RICHMOND, MAY 3, 1830
 TO SERGEANT SAMUEL GRAVES</head>
 <pb xml:id="page-253" n="219"/><head rend="center">COMMENT</head>
 <p rend="indented">Some persons who have seen this letter have assumed that Sergeant Graves (or “ Bully ”) was Poe’s substitute and that the debt alluded to was money due him for that service. This is evidently a mistake as the friendly tone of Poe’s letter and his message of remembrance to Mrs. Graves and others show that “Bully” was not a stranger but a former associate in the regiment. He sends a message to Sergeant Griffith about money owed to him also. He could not have had two substitutes. And his promise to pay them both “with interest” and “my best thanks for your kindness”, clearly indicates that the indebtedness to Sergeant Graves and Sergeant Griffith was for money borrowed while at Fortress Monroe. In Letter Eight from that place, February 4, 1829, he says: “Under certain expectation of kind news from home I have been led into expenses which my present income will not support.” The letter of Mrs. Louisa Allan (second wife of John Allan) quoted in the Introduction, shows that she was under the erroneous impression that “Bully” Graves was Poe’s substitute and it was evidently this letter to “Bully,” which she describes as “too black to be credited if it had not contained the author’s signature.” It was enclosed sometime later to Mr. Allan, who (says Mrs. Allan) “sent the money to the man and banished Poe from his affections.”</p>
 <p rend="indented">Poe, in the letter (Twenty-Four) to Mr. Allan from West Point, January 3, 1831, confesses authorship of the letter to “Bully” and in explanation says: “It was written a half hour after you had embittered every feeling of my heart against you by abuse of my family and myself, under your own roof—and at a time when you knew that my heart was almost breaking.” And here we have proof of a quarrel during Poe’s visit “home” between him and his foster-father, and its date—the same on which the letter to “Bully” was written.</p>
 </div>
-<div xml:id="div-letter-0027" type="letter" corresp="#letter-0027">
+<div xml:id="div-letter-0024" type="letter" corresp="#letter-0024">
 <pb xml:id="page-255" n="221"/><head rend="center">LETTER NUMBER TWENTY-ONE</head>
 <opener><dateline rend="right">Richmond<lb/>May 3ᵈ 1830.</dateline><salute>Dear Bully</salute></opener>
 <p rend="indented">I have just received your letter which is the first I have ever got from you—I suppose the reason of my not getting your other was that you directed to Washington—but I have not been there for some time—As to what you say about Downey Mʳ A very evidently misunderstood me, and I wish you to understand that I never sent any money by Downey whatsoever—Mʳ A is not very often sober—which accounts for it—I mentioned to him that I had seen Downey at Balto., as I did, &amp; that I wished to send it on by him, but he did not intend going to the point—</p>
@@ -973,22 +964,22 @@ TO SERGEANT SAMUEL GRAVES</head>
 <closer><address><addrLine>Mr Samuel Graves</addrLine><addrLine>Old Point Comfort</addrLine><addrLine>Va</addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0089" type="apparatus">
-<pb xml:id="page-259" n="223"/><p rend="caption">LETTER NUMBER TWENTY-ONE</p>
+<pb xml:id="page-259" n="259"/><p rend="caption">LETTER NUMBER TWENTY-ONE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-ONE]</figDesc></figure>
-<pb xml:id="page-260" n="224"/><p rend="caption">LETTER NUMBER TWENTY-ONE</p>
+<pb xml:id="page-260" n="260"/><p rend="caption">LETTER NUMBER TWENTY-ONE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-ONE]</figDesc></figure>
-<pb xml:id="page-261" n="225"/><p rend="caption"><hi rend="smallcaps">LETTER NUMBER TWENTY-ONE</hi></p>
+<pb xml:id="page-261" n="261"/><p rend="caption"><hi rend="smallcaps">LETTER NUMBER TWENTY-ONE</hi></p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: <hi rend="smallcaps">LETTER NUMBER TWENTY-ONE</hi>]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0090" type="editorial">
-<pb xml:id="page-263" n="227"/><head rend="center">LETTER NUMBER TWENTY-TWO</head>
+<pb xml:id="page-263" n="229"/><head rend="center">LETTER NUMBER TWENTY-TWO</head>
 <head rend="center">EDGAR ALLAN POE, WEST POINT, JUNE 28, 1830
 TO JOHN ALLAN</head>
 <pb xml:id="page-265" n="231"/><head rend="center">COMMENT</head>
 <p rend="indented">Poe matriculated at West Point on July 1, but this letter proves that he left Richmond prior to May 21 (probably soon after the quarrel of May 3) and made a visit to his Baltimore kin on his way; for he acknowledges receipt of a letter enclosing twenty dollars sent to that city and forwarded by his brother Henry to West Point, where it was permitted to lie “sometime” in the post office before being delivered to him. His allusion to having taken from Richmond “books etc.,” which he considered his “own property,” intimates that his departure was from “Edgar’s Room,” in the Allan home, furnished for him by his foster-mother.</p>
 <p rend="indented">The letter suggests cordial relations between him and Mr. Allan—who had not yet seen the letter to “Bully.”</p>
 </div>
-<div xml:id="div-letter-0028" type="letter" corresp="#letter-0028">
+<div xml:id="div-letter-0025" type="letter" corresp="#letter-0025">
 <pb xml:id="page-267" n="233"/><head rend="center">LETTER NUMBER TWENTY-TWO</head>
 <opener><dateline rend="right">West Point<lb/>June 28ᵗʰ</dateline><salute>Dear Pa,</salute></opener>
 <p rend="indented">I take the very first opportunity which I have had since arriving here of acknowledging the receipt of your letter of the 21ˢᵗ May inclosing a U. S. note for $20 I received it 3 days ago—it has been lying some time in the W. P. post office where it was forwarded from Baltᵒ by Henry. As to what you say about the books &amp;c I have taken nothing except what I considered my own property.</p>
@@ -998,19 +989,20 @@ TO JOHN ALLAN</head>
 <postscript><p rend="postscript">I will be much pleased if you will answer this letter. I am in camp at present—my tent mates are Read &amp; Henderson (nephew of Major Eaton) &amp; Stockton of Philᵃ</p><closer><pb xml:id="page-269" n="235"/><address><addrLine>Edgar A Poe</addrLine><addrLine>June 28ᵗʰ 1830</addrLine><addrLine>West Point</addrLine></address><address><addrLine>Mr. John Allan</addrLine><addrLine>Richmond</addrLine><addrLine>Va</addrLine></address></closer></postscript>
 </div>
 <div xml:id="div-unit-0092" type="apparatus">
-<pb xml:id="page-271" n="235"/><p rend="caption"><hi rend="smallcaps">LETTER NUMBER TWENTY-TWO</hi></p>
+<pb xml:id="page-271" n="271"/><p rend="caption"><hi rend="smallcaps">LETTER NUMBER TWENTY-TWO</hi></p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: <hi rend="smallcaps">LETTER NUMBER TWENTY-TWO</hi>]</figDesc></figure>
-<pb xml:id="page-272" n="236"/><p rend="caption">LETTER NUMBER TWENTY-TWO</p>
+<pb xml:id="page-272" n="272"/><p rend="caption">LETTER NUMBER TWENTY-TWO</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-TWO]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0093" type="editorial">
-<pb xml:id="page-273" n="237"/><head rend="center">LETTER NUMBER TWENTY-THREE</head>
-<head rend="center">EDGAR ALLAN POE, WEST POINT, NOVEMBER 6, 1830\nTO JOHN ALLAN</head>
+<pb xml:id="page-273" n="239"/><head rend="center">LETTER NUMBER TWENTY-THREE</head>
+<head rend="center">EDGAR ALLAN POE, WEST POINT, NOVEMBER 6, 1830
+TO JOHN ALLAN</head>
 <pb xml:id="page-275" n="241"/><head rend="center">COMMENT</head>
 <p>This letter indicates that there had been no communication between Poe and Mr. Allan since June 28. Poe makes excuse for not having written oftener that he did not know the address of Mr. Allan—who spent part of the summer on his plantation “The Byrd,” often visited the springs and had lately been in New York—as Poe had learned from Richmond friends who had visited West Point. There was another reason for the widower’s silence. He had been courting that summer and had been married on October 5, and doubtless Poe’s knowledge of this new interest in his father’s life had something to do with the length of time between his own letters.</p>
 <p>The tone of this letter is cordial and cheerful, though deep disappointment at his foster-father’s coming so near as New York without seeing him suggests the homesickness to which Poe was made liable by his naturally affectionate and domestic disposition—later to find satisfaction in his life with his wife and her mother in their cottage homes at Spring Garden, then in the suburbs of Philadelphia, and Fordham, then in the suburbs of New York. Mr. Allan and his Galt cousins had been in New York on account of his marriage to his second wife.</p>
 </div>
-<div xml:id="div-letter-0029" type="letter" corresp="#letter-0029">
+<div xml:id="div-letter-0026" type="letter" corresp="#letter-0026">
 <pb xml:id="page-277" n="243"/><head rend="center">LETTER NUMBER TWENTY-THREE</head>
 <opener><dateline rend="right">West Point<lb/>Novʳ 6ᵗʰ 1830</dateline><salute>Dear Sir,</salute></opener>
 <p rend="indented">I would have written you long before but did not know where my letters would reach you. I was greatly in hopes you would have come on to W. Point while you were in N. York, and was very much disapointed when I heard you had gone on home without letting me hear from you. I have a very excellent standing in my class—in the first section in every thing and have great hopes of doing well.</p>
@@ -1022,18 +1014,18 @@ TO JOHN ALLAN</head>
 <closer><salute rend="right">Yours affectionately</salute><signed rend="right">Edgar A Poe</signed></closer>
 </div>
 <div xml:id="div-unit-0095" type="apparatus">
-<pb xml:id="page-279" n="243"/><figure type="illustration"><figDesc>illustration on p. 243</figDesc></figure>
+<pb xml:id="page-279" n="279"/><figure type="illustration"><figDesc>illustration on p. 279</figDesc></figure>
 <p rend="caption">Courtesy of the Edgar Allan Poe Shrine</p>
 <p rend="caption">UNITED STATES MILITARY ACADEMY AT WEST POINT</p>
 <p rend="caption">When Poe was a cadet. His third volume of poems published at the age of 22, in New York immediately after he left West Point, was dedicated to "The United States Corps of Cadets"</p>
 </div>
-<div xml:id="div-letter-0030" type="letter" corresp="#letter-0030">
+<div xml:id="div-unit-0096" type="document">
 <pb xml:id="page-281" n="245"/><p rend="address_block">E A Poe<lb/>West Point<lb/>6 Nov 1830</p>
 <p rend="address_block">Mr. John Allan<lb/>Richmond<lb/>Va.</p>
 </div>
 <div xml:id="div-unit-0097" type="apparatus">
-<pb xml:id="page-283" n="247"/><figure type="illustration"><figDesc>[Collotype facsimile plate of original handwritten manuscript]</figDesc></figure>
-<pb xml:id="page-284" n="248"/><figure type="illustration"><figDesc>[Collotype facsimile plate of original handwritten manuscript]</figDesc></figure>
+<pb xml:id="page-283" n="283"/><figure type="illustration"><figDesc>[Collotype facsimile plate of original handwritten manuscript]</figDesc></figure>
+<pb xml:id="page-284" n="284"/><figure type="illustration"><figDesc>[Collotype facsimile plate of original handwritten manuscript]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0098" type="editorial">
 <pb xml:id="page-285" n="249"/><head rend="center">LETTER NUMBER TWENTY-FOUR</head>
@@ -1044,7 +1036,7 @@ TO JOHN ALLAN</hi></head>
 <p>Now all is different. Edgar has been furnished with a new guardian in the Government whose service he has entered. A second spring has come to John Allan’s life at its autumn season—a new bride is beside him. Old bonds are loosened. The letter to “Bully” turns his state of indifference toward Frances Allan’s adopted son to one of rage, which, expressed on paper in a torrent of words, begets a like mood in Poe. The result is before us in the letter under discussion. Among other things, Edgar vows he will leave West Point—by resignation if he has his guardian’s written permission, if not, by getting himself expelled. Cut off from his foster-father he seems to feel that he must get out into the world on his own resources. He does not stop to consider that he is no more than formerly trained to any bread-winning occupation, nor to take to heart the lesson which his little experiences in publishing <pb xml:id="page-288" n="252"/> should have taught him—that man cannot live by poetry alone.</p>
 <p rend="indented">In addition to the reason given for his wish to leave West Point it is likely that he was disappointed in finding that the life there gave him little leisure for magical dreams—for meditating upon, polishing and revising his published poems, or composing new ones. It will be remembered that in his letter of February 4, 1829 (Number Eight), referring to his experience as a private soldier, he had said: “Having already passed through the practical part, even the higher part of the artillery arm, my cadetship would only be considered as a necessary form which I am positive I could run through in six months.” Scant spare time as the rigid military routine allowed him, however, his third little book bears witness to the quantity and quality of his creative work during the six months of his cadetship.</p>
 </div>
-<div xml:id="div-letter-0031" type="letter" corresp="#letter-0031">
+<div xml:id="div-letter-0027" type="letter" corresp="#letter-0027">
 <pb xml:id="page-289" n="253"/><head rend="center">LETTER NUMBER TWENTY-FOUR</head>
 <opener><dateline rend="right">West Point, Janʸ 3ᵈ 1830.</dateline><salute>Sir,</salute></opener>
 <p rend="indented">I suppose, (altho’ you desire no further communication with yourself, on my part,) that your restriction does not extend to my answering your final letter.</p>
@@ -1060,13 +1052,13 @@ TO JOHN ALLAN</hi></head>
 <closer><signed rend="right">E A Poe</signed></closer>
 </div>
 <div xml:id="div-unit-0100" type="apparatus">
-<pb xml:id="page-295" n="259"/><p rend="caption">LETTER NUMBER TWENTY-FOUR</p>
+<pb xml:id="page-295" n="295"/><p rend="caption">LETTER NUMBER TWENTY-FOUR</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-FOUR]</figDesc></figure>
-<pb xml:id="page-296" n="260"/><p rend="caption">LETTER NUMBER TWENTY-FOUR</p>
+<pb xml:id="page-296" n="296"/><p rend="caption">LETTER NUMBER TWENTY-FOUR</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-FOUR]</figDesc></figure>
-<pb xml:id="page-297" n="261"/><p rend="caption">LETTER NUMBER TWENTY-FOUR</p>
+<pb xml:id="page-297" n="297"/><p rend="caption">LETTER NUMBER TWENTY-FOUR</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-FOUR]</figDesc></figure>
-<pb xml:id="page-298" n="262"/><p rend="caption">LETTER NUMBER TWENTY-FOUR</p>
+<pb xml:id="page-298" n="298"/><p rend="caption">LETTER NUMBER TWENTY-FOUR</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-FOUR]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0101" type="editorial">
@@ -1079,7 +1071,7 @@ TO JOHN ALLAN</hi></head>
 <p>That Letter Twenty-Five brought no answer may be seen from the note on its reverse, in Mr. Allan’s hand.</p>
 <pb xml:id="page-302" n="266"/><p rend="indented">Poe’s distress of mind and body are indicated by this badly scrawled and blotted letter. Indeed his hand-writing as seen in the fac-similes is often an index to his emotions. It is never so big and bold as when—after his year’s wait for the appointment to the Military Academy—he informs Sergeant Graves: “I am a cadet.” Nor is his signature ever so proud and flamboyant as in that letter to “Bully.” Something of the same exuberance is seen in the two earliest letters to his foster-father from West Point. But in the long, bitter Number Twenty-Four, answering Mr. Allan’s renunciation of him, his writing shrinks and does not recover confidence again in this correspondence.</p>
 </div>
-<div xml:id="div-letter-0032" type="letter" corresp="#letter-0032">
+<div xml:id="div-letter-0028" type="letter" corresp="#letter-0028">
 <pb xml:id="page-303" n="267"/><head rend="center">LETTER NUMBER TWENTY–FIVE</head>
 <opener><dateline rend="right">N. York   Feb 21, 1831</dateline><salute>Dear Sir,</salute></opener>
 <p rend="indented">In spite of all my resolutions to the contrary I am obliged once more to recur to you for assistance—It will however be the last time that I ever trouble any human being—I feel that I am on sick bed from which I never shall get up. I now make an appeal not to your affection because I have lost that but to your sense of justice—I wrote to you for permssion to resign—because it was <hi rend="italic">impossible</hi> that I could stay—my <hi rend="italic">ear</hi> has been too shocking for any description—I am wearing away every day—even if my last sickness had not completed it—I wrote to you as I say for permission to resign because without your permission no resignation can be received—My reason for doing so was that I should obtain my mileage amounting to $30.35—according to the rules of the institution. in my present circumstances a single dollar is of more importance ^[to me] than 10,000 are to you and you <hi rend="italic">deliberately</hi> refused to answer my letter—I, as I told you, neglected my duty when I found it impossible to attend to it, and the consequences were inevitable—dismissal. I have been <hi rend="italic">dismissed</hi> —when a single line from you would have saved it—The whole Academy have interested themselves in my behalf because my only crime was being <hi rend="italic">sick</hi>. but it was of no use—I refer you to Col Thayer <pb xml:id="page-304" n="268"/> to the public records, for my standing and reputation for talent—but it was all in vain, if you had granted me permission to resign—all might have been avoided—I have not strength nor energy left to write half what I feel—you one day or other will <hi rend="italic">feell</hi> how you have treated me. I left W*** Point two days ago and travelling to N. York without a cloak or any other clothing of importance, I have caught a most violent cold and am confined to my bed. I have no money—no friends—I have written to my brother—but he cannot help me—I shall never rise from my bed—besides a most violent cold on my lungs my <hi rend="italic">ear</hi> discharges blood and matter continually and my headache is distracting—I hardly know what I am writing—I will write no more—Please send me a little money—quickly—and forget what I said about you—</p>
@@ -1087,11 +1079,11 @@ TO JOHN ALLAN</hi></head>
 <postscript><p rend="postscript">do not say a word to my sister.<lb/>I shall send to the P. O. every day.</p><p>Apl 12, 1833 it is now upwards of 2 years since I received the above precious relict of the Blackest Heart &amp; deepest ingratitude alike destitute of honour &amp; principle every day of his life has only served to confirm his debased nature—Suffice it to say my only regret is in Pity for his failings—his Talents are of an order that can never prove a comfort to their possessor</p><closer><pb xml:id="page-305" n="269"/><address><addrLine>E A Poe</addrLine><addrLine>N York</addrLine><addrLine>21 Feby 1831</addrLine></address><address><addrLine>Mr. John Allan</addrLine><addrLine>Richmond</addrLine><addrLine>Va.</addrLine></address></closer></postscript>
 </div>
 <div xml:id="div-unit-0103" type="apparatus">
-<pb xml:id="page-307" n="271"/><p rend="caption">LETTER NUMBER TWENTY-FIVE</p>
+<pb xml:id="page-307" n="307"/><p rend="caption">LETTER NUMBER TWENTY-FIVE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-FIVE]</figDesc></figure>
-<pb xml:id="page-308" n="272"/><p rend="caption">LETTER NUMBER TWENTY-FIVE</p>
+<pb xml:id="page-308" n="308"/><p rend="caption">LETTER NUMBER TWENTY-FIVE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-FIVE]</figDesc></figure>
-<pb xml:id="page-309" n="273"/><p rend="caption">LETTER NUMBER TWENTY-FIVE</p>
+<pb xml:id="page-309" n="309"/><p rend="caption">LETTER NUMBER TWENTY-FIVE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-FIVE]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0104" type="editorial">
@@ -1101,7 +1093,7 @@ TO JOHN ALLAN</hi></head>
 <pb xml:id="page-313" n="277"/><head rend="center">COMMENT</head>
 <p rend="indented">Letter Twenty-Five, (of February 21) shows that Poe left West Point for New York on February 19. That he was there as late as March 10, and desperate for a means of keeping body and soul together, is proved by the following letter to Colonel Thayer, Superintendent of the Military Academy:</p>
 </div>
-<div xml:id="div-letter-0033" type="letter" corresp="#letter-0033">
+<div xml:id="div-letter-0029" type="letter" corresp="#letter-0029">
 <quote><p rend="right">“New York, March 10, 1831.</p></quote>
 <quote><p>“Sir:—Having no longer any ties which can bind me to my native country—no prospects—nor any friends—I intend by the first opportunity to proceed to Paris with the view of obtaining thro’ the interest of the Marquis de La Fayette an appointment (if possible) in the Polish Army.</p></quote>
 <quote><p rend="indented">In the event of the interference of France in behalf of Poland this may easily be effected—at all events it will be my only feasible plan of procedure.</p></quote>
@@ -1113,7 +1105,7 @@ TO JOHN ALLAN</hi></head>
 <pb xml:id="page-314" n="278"/><p rend="indented">Letter Number Twenty-Six and the letters which follow explode the tradition and correct the statements of biographers of an allowance from Mr. Allan. This letter of retrospection and introspection, homesickness and heartsickness, proves that though “wretchedly poor,” Poe was picking up some kind of living in Baltimore, but just what his work was will probably never be known.</p>
 <p rend="indented">Reference to Nielson Poe suggests the question, why was it that Poe’s Baltimore relatives, with the exception of his indigent widowed aunt, Mrs. Clemm, seem to have taken so little interest in him? For answer, memory goes back to the letter of violent abuse of him written when he was fifteen years old to his brother Henry, by Mr. Allan.<ref xml:id="fnref-p0314-1" type="noteref" target="#fn-p0314-1">2</ref> Could the unlovely picture of Edgar given in that letter have prejudiced his family against him to such extent that they washed their hands of him at once and forever? Who knows?</p>
 </div>
-<div xml:id="div-letter-0034" type="letter" corresp="#letter-0034">
+<div xml:id="div-letter-0030" type="letter" corresp="#letter-0030">
 <pb xml:id="page-315" n="279"/><head rend="center">LETTER NUMBER TWENTY-SIX</head>
 <opener><dateline rend="right">Baltimore<lb/>Octo: 16ᵗʰ 1831.</dateline><salute>Dear Sir,</salute></opener>
 <p rend="indented">It is a long time since I have written to you unless with an application for money or assistance. I am sorry that it is so seldom that I hear from you or even <hi rend="italic">of</hi> you—for all communication seems to be at an end; and when I think of the long twenty one years that I have called you father, and you have called me son, I could cry like a child to think that it should all end in this. You know me too well to think me interested—if so : why have I rejected your thousand offers of love and kindness? It is true that when I have been in great extremity, I have always applied to you—for I had no other friend, but it is only at such a time as the present when I can write to you with the consciousness of making no application for assistance, that I dare to open my heart, or speak one word of old affection. When I look back upon the past and think of every thing—of how much you tried to do for me—of your forbearance and your generosity, in spite of the most flagrant ingratitude on my part, I can not help thinking you myself the greatest fool in existence,—I am ready to curse the day when I was born. But I am fully—truly conscious that all these better feelings have <hi rend="italic">come too late</hi>— <pb xml:id="page-316" n="280"/> I am not the damned villain even to ask you to restore me to the twentieth part of those affections which I have so deservedly lost, and I am resigned to whatever fate is allotted me.</p>
@@ -1126,9 +1118,9 @@ TO JOHN ALLAN</hi></head>
 <pb xml:id="page-317" n="281"/><p rend="address_block">E A Poe<lb/>Baltimore<lb/>16 Oct 1831</p>
 <p rend="address_block">Mr. John Allan<lb/>Richmond<lb/>Va</p>
 <p rend="address_block">Wm Galt</p>
-<pb xml:id="page-319" n="283"/><p rend="caption">LETTER NUMBER TWENTY-SIX</p>
+<pb xml:id="page-319" n="319"/><p rend="caption">LETTER NUMBER TWENTY-SIX</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-SIX]</figDesc></figure>
-<pb xml:id="page-320" n="284"/><p rend="caption">LETTER NUMBER TWENTY-SIX</p>
+<pb xml:id="page-320" n="320"/><p rend="caption">LETTER NUMBER TWENTY-SIX</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-SIX]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0107" type="editorial">
@@ -1156,7 +1148,7 @@ TO JOHN ALLAN</head>
 <p rend="indented">There is this to be said. Formerly whenever he received aid from “home” there is some expression of gratitude. In the yellowed letters before us there is no word of thanks for the amount for which John Walsh was authorized to draw on Mr. Allan. There is one more letter to his foster-father—written from Baltimore—but it is fifteen months later. Where had Poe been during all these months? There is much tradition but no documentary evidence. He seems to have dropped over the rim of the world.</p>
 <p rend="indented">Whatever the answer to the puzzle may be it is only fair to Poe to say that none of the traditions concerning this blank space in his history suggest a life of dissipation.</p>
 </div>
-<div xml:id="div-letter-0035" type="letter" corresp="#letter-0035">
+<div xml:id="div-letter-0031" type="letter" corresp="#letter-0031">
 <pb xml:id="page-327" n="291"/><head rend="center">LETTER NUMBER TWENTY–SEVEN</head>
 <opener><dateline rend="right">Balt:<lb/>Novʳ: 18. 1831,</dateline><salute>My dear Pa,</salute></opener>
 <p rend="indented">I am in the greatest distress and have no other friend on earth to apply to except yourself if you refuse to help me I know not what I shall do. I was arrested eleven days ago for a debt which I never expected to have to pay, and which was incurred as much on Hy’ˢ. account as on my own about two years ago.</p>
@@ -1166,10 +1158,10 @@ TO JOHN ALLAN</head>
 <p rend="signature">E A Poe</p>
 <p rend="postscript">I have made every exertion but in vain</p>
 <pb xml:id="page-328" n="292"/><p rend="address_block">John Allan Esqʳ<lb/>Richmond<lb/>Va</p>
-<pb xml:id="page-329" n="293"/><p rend="caption">LETTER NUMBER TWENTY-SEVEN</p>
+<pb xml:id="page-329" n="329"/><p rend="caption">LETTER NUMBER TWENTY-SEVEN</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-SEVEN]</figDesc></figure>
 </div>
-<div xml:id="div-letter-0036" type="letter" corresp="#letter-0036">
+<div xml:id="div-letter-0032" type="letter" corresp="#letter-0032">
 <pb xml:id="page-331" n="295"/><head rend="center">LETTER NUMBER TWENTY–EIGHT</head>
 <opener><dateline rend="right">Balt. Dec, 5 1831</dateline><salute>Dear Sir</salute></opener>
 <p rend="indented">As I am extremely distressed at Edgar’s situation I take the liberty of writing to you once more in his behalf—We have made every exertion for his relief—but our circumstances are too poor to afford him any—I have with great difficulty procured $20 which I will reserve for him, with all my heart—but it is insufficient to extricate him—I beg that you will assist him out of this difficulty and I am sure that it will be a warning for him as long as he lives—to involve himself no further in debt—I am satisfied that except in this instance he does not owe one cent in the world, and would do well if you would relieve him—he is extremely distressed at your refusal to assist him—and has no other resource whatever—as not being a resident of this city he cannot take the benefit of the insolvent laws—I feel deeply interested in him, for he has been extremely kind to me as far as his opportunities would permit—I should consider it as one of the greatest obligations to myself and family if you will be so generous as to assist him for this time only—</p>
@@ -1177,10 +1169,10 @@ TO JOHN ALLAN</head>
 <p rend="signature">Mʳˢ Wm Clemm</p>
 <pb xml:id="page-332" n="296"/><p rend="address_block">Mrs. Wm Clemm<lb/>Dec 5th 1831</p>
 <p rend="address_block">Mr John Allan<lb/>Richmond<lb/>Va</p>
-<pb xml:id="page-333" n="297"/><p rend="caption">LETTER NUMBER TWENTY-EIGHT</p>
+<pb xml:id="page-333" n="333"/><p rend="caption">LETTER NUMBER TWENTY-EIGHT</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-EIGHT]</figDesc></figure>
 </div>
-<div xml:id="div-letter-0037" type="letter" corresp="#letter-0037">
+<div xml:id="div-letter-0033" type="letter" corresp="#letter-0033">
 <pb xml:id="page-335" n="299"/><head rend="center">LETTER NUMBER TWENTY-NINE</head>
 <opener><dateline rend="right">Balt. Dec. 15ᵗʰ, 1831.</dateline><salute>Dear Pa,</salute></opener>
 <p rend="indented">I am sure you could not refuse to assist me if you were well aware of the distress I am in. How often you have relieved the distress of a perfect stranger in circumstances less urgent than mine. and yet when I beg and intreat you in the name of God to send me succour you will still refuse to aid me. I know that I have offended you past all forgiveness, and I know that I have no longer any hopes of being again received into your favour, but for the sake of Christ. do not let me perish for a sum of money which you would never miss, and which would relieve me from the greatest earthly misery—especially as I promise by all that is sacred that I will never under any circumstances apply to you again. Oh ! if you knew at this moment how wretched I am you would never forgive yourself for having refused me. You are enjoying yourself in all the blessings that wealth &amp; happiness can bestow, and I am suffering every extremity of want and misery without even a chance of escape, or a friend to whom I can look up to for assistance.</p>
@@ -1192,19 +1184,19 @@ TO JOHN ALLAN</head>
 <p rend="address_block">Wrote on the 7ᵗʰ Decʳ 1831 to John Walsh to procure his liberation &amp; to give him $20 besides to keep him out of further difficulties &amp; value on me for such amᵗ as might be required—neglected sending it on till the 12ᵗʰ Janʸ 1832 Then put in the office myself</p>
 <pb xml:id="page-337" n="301"/><p rend="address_block">E A Poe<lb/>Baltimore<lb/>15 Dec. 1831</p>
 <p rend="address_block">Mr. John Allan<lb/>Richmond<lb/>Va</p>
-<pb xml:id="page-339" n="303"/><p rend="caption">LETTER NUMBER TWENTY-NINE</p>
+<pb xml:id="page-339" n="339"/><p rend="caption">LETTER NUMBER TWENTY-NINE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-NINE]</figDesc></figure>
-<pb xml:id="page-340" n="304"/><p rend="caption">LETTER NUMBER TWENTY-NINE</p>
+<pb xml:id="page-340" n="340"/><p rend="caption">LETTER NUMBER TWENTY-NINE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-NINE]</figDesc></figure>
 </div>
-<div xml:id="div-letter-0038" type="letter" corresp="#letter-0038">
+<div xml:id="div-letter-0034" type="letter" corresp="#letter-0034">
 <pb xml:id="page-341" n="305"/><head rend="center">LETTER NUMBER THIRTY</head>
 <opener><dateline rend="right">Baltimore<lb/>Dec: 29ᵗʰ 1831</dateline><salute>Dear Sir</salute></opener>
 <p>Nothing but extreme misery and distress would make me venture to intrude myself again upon your notice—If you knew how wretched I am I am sure that you would relieve me—No person in the world I am sure, could have undergone more wretchedness than I have done for some time past—and I have indeed no friend to look to but yourself—and no chance of extricating myself without your assistance. I know that I have no claim upon your generosity—and that what little share I had of your affection is long since forfeited, but, for the sake of what once was dear to you, for the sake of the love you bore me when I sat upon your knee and called you father do not forsake me this only time—and god will remember you accordingly—</p>
 <p rend="signature">E A Poe</p>
 <pb xml:id="page-342" n="306"/><p rend="address_block">Ed A Poe<lb/>Dec 29 1831<lb/>Baltimore</p>
 <p rend="address_block">John Allan Esqʳ<lb/>Richmond<lb/>Va</p>
-<pb xml:id="page-343" n="307"/><p rend="caption">LETTER NUMBER THIRTY</p>
+<pb xml:id="page-343" n="343"/><p rend="caption">LETTER NUMBER THIRTY</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER THIRTY]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0112" type="editorial">
@@ -1215,14 +1207,14 @@ TO JOHN ALLAN</head>
 <p rend="indented">This brief note without beginning or ending save the signature, “E. A. Poe,” is a cry in the dark—a signal of distress revealing Poe still (or again) destitute and on the brink of despair. There is no record of a reply or of any further communication between him and John Allan who died less than a year later— March 27, 1834. Aid from Mr. Allan alluded to in Poe’s statement: “It has now been more than two years since you have assisted me,” doubtless means the “late kindness,” referred to in Letter Number Twenty-Seven. His declaration in Letter Thirty-One; “I am not idle,” was to have corroboration of an interesting kind. Six months after this final letter to Mr. Allan was written relief came to Poe as the result of his own industry. All the World knows how <hi rend="italic">The Baltimore Saturday Visiter</hi>, a weekly literary paper, announced a prize contest offering fifty dollars for the best story and twenty-five dollars for the best poem; that Poe had, all ready to submit, six exquisitely penned short stories, neatly bound, entitled, “Tales of the Folio Club;” that he offered the whole manuscript volume of stories and his poem, “The Coliseum.” And all the world knows the result. Edgar Poe received his first fifty dollar check for the work of his brain, for his story, “The Manuscript Found A Bottle,” and would have received twenty-five dollars for the poem, but the committee would not award both prizes to the same person. More valuable than the prize did the friendship of the judges in the contest, which his work won for him, prove to be—especially that of John P. Kennedy to whom he owed, among other favours, his appearance first as a contributor to, and later as editor of <hi rend="italic">The Southern Literary Messenger</hi>. Mr. Kennedy became a veritable good angel to Poe, whose talent and personality impressed him and whose destitute condition deeply touched him. He confided to his Diary: “I found him in Baltimore in a state of starvation. I gave him clothing, free access to my table, and the use of a horse for exercise whenever he chose; in fact, brought him up from the verge of despair.”</p>
 <pb xml:id="page-348" n="312"/><p rend="indented">So long as Poe lived he let pass no opportunity of expressing gratitude to this “friend indeed,” but he also repaid him in the coin with which he unconsciously rewarded others who were kind to him. Mr. Kennedy was not only a gracious gentleman, but was himself an admirable writer. Few persons are familiar with his “Swallow Barn” and his other pleasant works today, but everybody knows how he brought Edgar Poe up “from the verge of despair” and gave him a real start on his literary career. Thus, he was one of the many upon whom Poe bestowed immortality.</p>
 </div>
-<div xml:id="div-letter-0039" type="letter" corresp="#letter-0039">
+<div xml:id="div-letter-0035" type="letter" corresp="#letter-0035">
 <pb xml:id="page-349" n="313"/><head rend="center">LETTER NUMBER THIRTY-ONE</head>
 <opener><dateline rend="right">Baltimore April 12ᵗʰ 1833</dateline></opener>
 <p rend="indented">It has now been more than two years since you have assisted me, and more than three since you have spoken to me. I feel little hope that you will pay any regard to this letter, but still I cannot refrain from making one more attempt to interest you in my behalf. If you will only consider in what a situation I am placed you will surely pity me—without friends, without any means, consequently of obtaining employment, I am perishing—absolutely perishing for want of aid. And yet I am not idle—nor addicted to any vice—nor have I committed any offence against society which would render me deserving of so hard a fate. For God’s sake pity me, and save me from destruction.</p>
 <p rend="signature">E A Poe</p>
 <pb xml:id="page-350" n="314"/><p rend="address_block">E. A. Poe<lb/>Baltimore<lb/>12th Apl 1833</p>
 <p rend="address_block">John Allan Esqʳ<lb/>Richmond<lb/>Va.</p>
-<pb xml:id="page-351" n="315"/><p rend="caption">LETTER NUMBER THIRTY-ONE</p>
+<pb xml:id="page-351" n="351"/><p rend="caption">LETTER NUMBER THIRTY-ONE</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: LETTER NUMBER THIRTY-ONE]</figDesc></figure>
 </div>
 <div xml:id="notes-sec-02" type="notes"><head>Notes</head>
@@ -1244,6 +1236,8 @@ TO JOHN ALLAN</head>
 <note place="foot" xml:id="fn-p0325-1" n="1"><p>Introduction to Campbell’s edition of <hi rend="italic">The Poems of Edgar Allan Poe,</hi> XIX.</p></note>
 </div>
 </div>
+    </body>
+    <back>
       <div xml:id="sec-sec-03" type="appendix">
 <head>Bills for Edgar Allan Poe at Manor House School</head>
 <div xml:id="div-unit-0114" type="apparatus">
@@ -1254,40 +1248,40 @@ TO JOHN ALLAN</head>
 <pb xml:id="page-355" n="319"/><head rend="center">BILL FOR EDGAR ALLAN POE AT MANOR
 HOUSE SCHOOL</head>
 <opener><dateline rend="right">Manor House School<lb/>Stoke Newington, Xmas. 1818</dateline><address><addrLine>J. Allan Esqʳ</addrLine><addrLine>for Masʳ Allan</addrLine></address><address><addrLine>To the Revᵈ John Bransby.</addrLine></address></opener>
-<table><row><cell>£ S D</cell></row><row><cell>Board &amp; Education</cell><cell>23.</cell><cell>12.</cell><cell>6.</cell></row><row><cell>Washing £1:11:6 Single Bed £2: 2: 0</cell><cell>3</cell><cell>13</cell><cell>6</cell></row><row><cell>Allowance £0: 5: 0 Pew &amp; Char<hi rend="sup">y</hi> Sermon £0: 3: 6</cell><cell>—</cell><cell>8</cell><cell>6</cell></row><row><cell>Books, Stationary &amp;c</cell><cell>—</cell><cell>14</cell><cell>11</cell></row><row><cell>French</cell><cell>—</cell><cell>—</cell><cell>—</cell></row><row><cell>Dancing £2: 2: 0 Drawing £
+<table cols="4" rows="11"><row role="label"><cell>£ S D</cell></row><row><cell>Board &amp; Education</cell><cell>23.</cell><cell>12.</cell><cell>6.</cell></row><row><cell>Washing £1:11:6 Single Bed £2: 2: 0</cell><cell>3</cell><cell>13</cell><cell>6</cell></row><row><cell>Allowance £0: 5: 0 Pew &amp; Char<hi rend="sup">y</hi> Sermon £0: 3: 6</cell><cell>—</cell><cell>8</cell><cell>6</cell></row><row><cell>Books, Stationary &amp;c</cell><cell>—</cell><cell>14</cell><cell>11</cell></row><row><cell>French</cell><cell>—</cell><cell>—</cell><cell>—</cell></row><row><cell>Dancing £2: 2: 0 Drawing £
 Music £</cell><cell>2</cell><cell>2</cell><cell>—</cell></row><row><cell>Shoemaker £1: 15: 6 Taylor £
 Hairdresser £0: 2: 0</cell><cell>1</cell><cell>17</cell><cell>6</cell></row><row><cell>Sundries</cell><cell>—</cell><cell>1</cell><cell>—</cell></row><row><cell>Apothecary</cell><cell>0</cell><cell>13</cell><cell>0</cell></row><row><cell>Please to pay to Mess<hi rend="sup">rs</hi> Sikes Snaith &amp; Co.
 Mansion House S<hi rend="sup">t</hi></cell><cell>£33.</cell><cell>2.</cell><cell>11</cell></row></table>
 <p rend="indented">The vacation will terminate Jany. 25ᵗʰ 1819.</p>
 </div>
 <div xml:id="div-unit-0116" type="apparatus">
-<pb xml:id="page-357" n="321"/><p rend="caption">BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL</p>
+<pb xml:id="page-357" n="357"/><p rend="caption">BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL</p>
 <figure type="illustration"><figDesc>[Collotype facsimile plate of original manuscript: BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL]</figDesc></figure>
 </div>
 <div xml:id="div-unit-0117" type="document">
 <pb xml:id="page-359" n="323"/><head rend="center">BILL FOR EDGAR ALLAN POE AT MANOR
 HOUSE SCHOOL</head>
-<table><head>Mast. Allan</head><row><cell>Books........</cell><cell>£</cell><cell>s</cell><cell>d</cell></row><row><cell>Sep—Biglands
+<table cols="4" rows="7"><head>Mast. Allan</head><row role="label"><cell>Books........</cell><cell>£</cell><cell>s</cell><cell>d</cell></row><row><cell>Sep—Biglands
 teſt—E. N.</cell><cell>0.</cell><cell>6.</cell><cell>6</cell></row><row><cell>2 Large Slates</cell><cell>0.</cell><cell>2.</cell><cell>4</cell></row><row><cell>Small copy
 book.......</cell><cell>0.</cell><cell>0.</cell><cell>10</cell></row><row><cell>Tables.......</cell><cell>0.</cell><cell>0.</cell><cell>3</cell></row><row><cell>Paper pens &amp;c</cell><cell>0.</cell><cell>5.</cell><cell>0</cell></row><row><cell>£0. 14. 11</cell></row></table>
-<table><head>Mast. Allan</head><row><cell>Sundries........</cell><cell>£</cell><cell>s</cell><cell>d</cell></row><row><cell>Poſtage........</cell><cell>0.</cell><cell>0.</cell><cell>6</cell></row><row><cell>Shoeſtrings.......</cell><cell>0.</cell><cell>0.</cell><cell>6</cell></row><row><cell>£0. 1. 0</cell></row></table>
+<table cols="4" rows="4"><head>Mast. Allan</head><row role="label"><cell>Sundries........</cell><cell>£</cell><cell>s</cell><cell>d</cell></row><row><cell>Poſtage........</cell><cell>0.</cell><cell>0.</cell><cell>6</cell></row><row><cell>Shoeſtrings.......</cell><cell>0.</cell><cell>0.</cell><cell>6</cell></row><row><cell>£0. 1. 0</cell></row></table>
 <p rend="dateline">London 26 Jany 1819</p>
 <p>Red of Mess’s Allan &amp; Ellis the<lb/>Sum of Thirty Three Pounds 2/11—<lb/>on Acct of the Revᵈ Jno Bransby<lb/>for Messʳˢ Sikes Snaith &amp; Co</p>
 <p>£33. 2. 11</p>
 <closer><signed rend="right">P. White</signed></closer>
 </div>
 <div xml:id="div-unit-0118" type="apparatus">
-<pb xml:id="page-361" n="325"/><p rend="caption">BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL</p>
-<figure type="illustration"><figDesc>illustration on p. 325</figDesc></figure>
+<pb xml:id="page-361" n="361"/><p rend="caption">BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL</p>
+<figure type="illustration"><figDesc>illustration on p. 361</figDesc></figure>
 </div>
 <div xml:id="div-unit-0119" type="document">
 <pb xml:id="page-363" n="327"/><head rend="center">BILL FOR EDGAR ALLAN POE AT MANOR
 HOUSE SCHOOL</head>
-<table><head>Mas Allan at Mʳ Bransbys.</head><row><cell>1818. To Thos. Smith &amp; Son Stoke Newington</cell><cell>£</cell><cell>s.</cell><cell>d</cell></row><row><cell>Aug<hi rend="sup">t</hi> 31 Dress Hand</cell><cell>—</cell><cell>10</cell><cell>6</cell></row><row><cell>Sept<hi rend="sup">t</hi> 18 Ointment &amp; Lint</cell><cell>—</cell><cell>2</cell><cell>6</cell></row><row><cell>£</cell><cell>13.</cell></row></table>
-<table><head>Mast. Allan—</head><row><cell>Shoem</cell><cell>£.</cell><cell>s.</cell><cell>d.</cell></row><row><cell>1818</cell></row><row><cell>July 27—Pair of Shoes</cell><cell>0.</cell><cell>7.</cell><cell>0</cell></row><row><cell>Aug 26—Mending</cell><cell>0.</cell><cell>1.</cell><cell>9</cell></row><row><cell>Sep. 21—Do</cell><cell>0.</cell><cell>2.</cell><cell>0</cell></row><row><cell>25—Do</cell><cell>0.</cell><cell>2.</cell><cell>0</cell></row><row><cell>New shoes &amp;c as per bill</cell><cell>0.</cell><cell>12.</cell><cell>9</cell></row><row><cell>£1.</cell><cell>15.</cell><cell>6</cell></row></table>
+<table cols="4" rows="4"><head>Mas Allan at Mʳ Bransbys.</head><row role="label"><cell>1818. To Thos. Smith &amp; Son Stoke Newington</cell><cell>£</cell><cell>s.</cell><cell>d</cell></row><row><cell>Aug<hi rend="sup">t</hi> 31 Dress Hand</cell><cell>—</cell><cell>10</cell><cell>6</cell></row><row><cell>Sept<hi rend="sup">t</hi> 18 Ointment &amp; Lint</cell><cell>—</cell><cell>2</cell><cell>6</cell></row><row><cell>£</cell><cell>13.</cell></row></table>
+<table cols="4" rows="8"><head>Mast. Allan—</head><row role="label"><cell>Shoem</cell><cell>£.</cell><cell>s.</cell><cell>d.</cell></row><row><cell>1818</cell></row><row><cell>July 27—Pair of Shoes</cell><cell>0.</cell><cell>7.</cell><cell>0</cell></row><row><cell>Aug 26—Mending</cell><cell>0.</cell><cell>1.</cell><cell>9</cell></row><row><cell>Sep. 21—Do</cell><cell>0.</cell><cell>2.</cell><cell>0</cell></row><row><cell>25—Do</cell><cell>0.</cell><cell>2.</cell><cell>0</cell></row><row><cell>New shoes &amp;c as per bill</cell><cell>0.</cell><cell>12.</cell><cell>9</cell></row><row><cell>£1.</cell><cell>15.</cell><cell>6</cell></row></table>
 </div>
 <div xml:id="div-unit-0120" type="apparatus">
-<pb xml:id="page-365" n="329"/><p rend="caption">BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL</p>
+<pb xml:id="page-365" n="365"/><p rend="caption">BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL</p>
 <figure type="illustration"><figDesc>[Facsimile of handwritten bill: Mas. Allan at Mr. Bransbys. 1818. Aug. 31 ... 10. 6 / Sep. 15 ... 2. 6 / £ 13.]</figDesc></figure>
 <figure type="illustration"><figDesc>[Facsimile of handwritten bill: Mast. Allan — Shoem — £. s. d. / 1818 ... £ 1. 15. 6]</figDesc></figure>
 </div>
@@ -1304,6 +1298,6 @@ LIFE STORY OF EDGAR ALLAN POE</head>
 <p>A permanent addition to English literature. From its pages rises an unforgettably human figure of the tragic poet. His imaginative childhood, shadowed by the loss of the beautiful mother he would see “never more ;” his boyhood at the Allans’, its fabric of dreams rent time and again by the realities of school and the severity of his foster-father ; West Point, journalism and a bitter misunderstanding which threw his sensitive fancy back into itself again ; struggle and temptation by that “Imp of the Perverse” which must always be his besetting enemy ; love and manhood in his devotion to the lovely girl-wife he must lose so tragically ; fame and forgetting and the last great dream— all is told with such rare understanding that the late F. Hopkinson Smith wrote the author he had “read it through in a night.” The story reads like a beautiful romance, yet is true to historic record and the expression of Poe in his works. It is a genuine book-lover’s book, delightfully printed and attractively bound in a very effective combination of buff and dark blue buckram. The unusual illustrations include the famous painting of Poe on the shore of Sullivan’s Island, from the Charleston Museum.</p>
 </div>
 </div>
-    </body>
+    </back>
   </text>
 </TEI>

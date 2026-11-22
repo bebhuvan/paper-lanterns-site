@@ -2,7 +2,7 @@
 
 - **Author / Editor**: John Stuart Mill, Hugh S. R. Elliot (ed.)
 - **Year**: 1910
-- **Letters**: 165
+- **Letters**: 162
 - **Pages**: 378
 
 ## Frontmatter
@@ -12,8 +12,7 @@ NOLIS NOCERE NOLIS
 Andrew James Bell  
 Toronto.
 
-### <span class="small-caps">THE LETTERS OF</span>
-<span class="small-caps">JOHN STUART MILL</span>
+### <span class="small-caps">THE LETTERS OF</span> <span class="small-caps">JOHN STUART MILL</span>
 
 ### WORKS BY JOHN STUART MILL
 
@@ -43,8 +42,7 @@ Emery Walker Ph. sc.
 John Stuart Mill  
 from a Daguerreotype
 
-### THE LETTERS OF
-JOHN STUART MILL
+### THE LETTERS OF JOHN STUART MILL
 
 EDITED, WITH AN INTRODUCTION, BY  
 HUGH S. R. ELLIOT
@@ -135,8 +133,6 @@ During his early years, John Mill was subjected to so vehement and strenuous an 
 
 That Mill continued to flourish under this severe treatment must be attributed partly to the vigour of his own constitution, and partly to the fact that his father was one of the most brilliant men, and the leading psychologist of the age. Under less able guidance, Mill's youthful mind would assuredly have been crushed and maimed ; but in the hands of James Mill that fatality was avoided, and the precise result which he desired was achieved. When John was six years old, and his father's health seemed very precarious, Bentham wrote one of his characteristic letters, offering to undertake the guardianship of the child. It is addressed to James Mill from Queen's Square Place, dated Saturday, 25th July 1812, and runs as follows :—
 
-### Letter 1: HUGH ELLIOT.
-
 > " If in the meantime any such thing as dying should happen to you (for we are all mortal ! ! ! !), you having however between the act of such dying as aforesaid and the act of receiving these presents, time to make your *will* (which to the purpose in question may be done by word of mouth, but if you cannot write it yourself better have it set down in writing and read to you), if you will appoint me guardian to Mr. John Stuart Mill, I will, in the event of his father's being disposed of elsewhere, take him to Q. S. P.[^fn-p0024-1] and there or elsewhere, by whipping or otherwise, do whatsoever may seem most necessary and proper, for teaching him to make all proper distinctions, such as between the Devil and the Holy Ghost, and how to make Codes and Encyclopædias, and whatsoever else may be proper to be made, so long as I remain an inhabitant of this vale of tears, after which—but this must remain for God's providence to determine. . . ."
 
 Clearly James Mill had been suffering from gout, for farther on in the same letter, Bentham offers to "come and sit with you, and help worship Mistink,[^fn-p0024-2] and during the armistice of your arm, help whip Mr. John Mill."
@@ -175,9 +171,7 @@ Mill's emotional bent appears in other dressings besides his love for his wife. 
 
 We are apt to imagine, as indeed we have some grounds for doing, that the emotional temperament carries with it a dreamy and inactive disposition in the practical affairs of life. But here, as so often in the study of Mill's character, we find our *à priori* anticipations altogether off the mark. For Mill possessed an endowment of practical energy to a degree far higher than the average. His life throughout was intense ; his output of literary work was astonishing ; he scarcely ever appeared to require rest. The diary which he kept while staying with Sir Samuel Bentham in France serves to illustrate the strenuous manner in which his days were spent. I quote from Bain : [^fn-p0034-1]—
 
-> “ 5*th.*—Rose at 5 ; too rainy for bathing. Five chapters of Voltaire ; from 7½ till 8½, Mr. G. corrects his French exercises, which had got into arrears as regards correction ; Music-master came ; at 9½ began new exercises (French) ; puts his room in order ; at 11¼ took out Lucian and finished Necyomantia ; five propositions of Legendre, renewed expressions of his superiority to all other geometers ; practises music-lessons ; Thomson’s Chemistry, makes out various Chemical Tables, the drift not explained ; at 3¼, tries several propositions in West (Algebra), and made out two that he had formerly failed in ; begins a table of 58 rivers in France, to show what departments each passes through, and the chief towns on their banks ; 4, dined ; finishes Chemical Table ; dancing lesson ; supped. . . . 6*th.*—Rose at 6 ; no bathing ; five chapters of Voltaire ; a quarter of an hour to West’s problems ; lesson in Music (Principes) ; problems resumed ; breakfasted, and tried problem again till 10¼ ; French exercises till 11 ; began to correct his Dialogue, formerly mentioned, till 12¼ ; summoned to dress for going out to call ; has found a French master ; at 1¼, returned and corrected Dialogue till 3¼ ; Thomson till 4 (dinner), resumed till 6 ; Mr. G. corrects his French exercises ; went out for his French lesson, but the master did not teach on Sundays and Thursdays ; back to Thomson till 8 ; repeated fables to Mr. G. ; miscellaneous affairs ; supped ; journal always written just before going to bed. 7*th.*— Rose 5¾ ; five chapters Voltaire till 7 ; till 7¼, 46 lines of Virgil ; till 8, Lucian’s Jupiter Confutatus ; goes on a family errand ; Music-lesson till 9 (Principes) ; Lucian continued till 9½, and finished after breakfast at 10¼ ; a call required him to dress ; read Thomson and made tables till 12¼ ; seven propositions of Legendre . . . ; till 1½, wrote exercises and various miscellanies ; till 2½, the treatise
-
-on Adverbs; till 3¾, Thomson ; Livre Géographique and Miscellanies till 5. . . . 9*th.*—Rose at 5 ; five chapters of Voltaire ; 6¾, Adverbs ; 7¾, the Prometheus of Lucian ; 8½ till 9, first lesson of Solféges, together with Principes ; continued Prometheus till breakfast. . . ."
+> “ 5*th.*—Rose at 5 ; too rainy for bathing. Five chapters of Voltaire ; from 7½ till 8½, Mr. G. corrects his French exercises, which had got into arrears as regards correction ; Music-master came ; at 9½ began new exercises (French) ; puts his room in order ; at 11¼ took out Lucian and finished Necyomantia ; five propositions of Legendre, renewed expressions of his superiority to all other geometers ; practises music-lessons ; Thomson’s Chemistry, makes out various Chemical Tables, the drift not explained ; at 3¼, tries several propositions in West (Algebra), and made out two that he had formerly failed in ; begins a table of 58 rivers in France, to show what departments each passes through, and the chief towns on their banks ; 4, dined ; finishes Chemical Table ; dancing lesson ; supped. . . . 6*th.*—Rose at 6 ; no bathing ; five chapters of Voltaire ; a quarter of an hour to West’s problems ; lesson in Music (Principes) ; problems resumed ; breakfasted, and tried problem again till 10¼ ; French exercises till 11 ; began to correct his Dialogue, formerly mentioned, till 12¼ ; summoned to dress for going out to call ; has found a French master ; at 1¼, returned and corrected Dialogue till 3¼ ; Thomson till 4 (dinner), resumed till 6 ; Mr. G. corrects his French exercises ; went out for his French lesson, but the master did not teach on Sundays and Thursdays ; back to Thomson till 8 ; repeated fables to Mr. G. ; miscellaneous affairs ; supped ; journal always written just before going to bed. 7*th.*— Rose 5¾ ; five chapters Voltaire till 7 ; till 7¼, 46 lines of Virgil ; till 8, Lucian’s Jupiter Confutatus ; goes on a family errand ; Music-lesson till 9 (Principes) ; Lucian continued till 9½, and finished after breakfast at 10¼ ; a call required him to dress ; read Thomson and made tables till 12¼ ; seven propositions of Legendre . . . ; till 1½, wrote exercises and various miscellanies ; till 2½, the treatise on Adverbs; till 3¾, Thomson ; Livre Géographique and Miscellanies till 5. . . . 9*th.*—Rose at 5 ; five chapters of Voltaire ; 6¾, Adverbs ; 7¾, the Prometheus of Lucian ; 8½ till 9, first lesson of Solféges, together with Principes ; continued Prometheus till breakfast. . . ."
 
 Perhaps the most interesting side of Mill's character is reached when we come to estimate his intellectual qualities. By far the most striking intellectual peculiarity which he exhibited was his marvellous receptivity. It is often the case that men who have been distinguished for originality and power of synthetic or analytic reasoning show little aptitude for absorbing the ideas of others. Their mind appears to run so strongly on its own course that in general it is little affected by what other people may be thinking or doing. The intense natural concentration of an original thinker upon his own line of thought often cannot be diverted to aspects foreign to that line of thought, even by a conscious effort on his own part. Let us compare, for instance, Mill's method of going to work with the profoundly different method of Herbert Spencer. Mill was, as I have said, receptive to an extraordinary degree ; he was for ever studying the works of others, reading on an enormous scale, a scholar in the truest sense of the word. Spencer, on the other hand, was almost completely inaccessible to ideas out of harmony with his natural modes of thought. He scarcely read at all ; when he did it was usually novels ; for many years of his life he never succeeded in reading a serious book for a longer period than an hour at a stretch. Spencer, in fact, never studied ; his philosophy welled up of its own accord from the depths of his mind ; it was a spontaneous outgrowth from his experience of life. He had a natural facility for attracting from every quarter facts which bore upon any theory he was promulgating, though without any effort to himself. It follows from this habit of mind that Spencer, though he could accumulate great stores of knowledge on any subject on which he had theorised, was plunged in abysmal ignorance on subjects on which he had formed no theory. Of history he knew nothing, of English literature very little, of German literature not a word. The difference between him and Mill could scarcely be more marked.
 
@@ -195,7 +189,7 @@ These observations bring me to the proposition that I now wish to lay down ; nam
 
 Mill, then, himself admits that he was not by nature highly endowed with respect to those qualities for which he afterwards became famous. Their development in him was due to the continual forcing to which he had been subjected in early life, and to the habits of abnegation and concentration thus acquired. Without his education, he would have done little or nothing. He lacked the characteristic of inborn genius, which shines out independently of education or acquirements. Though I should not accept Mill's belief that what he could do could be done by any boy or girl of average capacity and healthy physical constitution, still there seems to me no doubt that Mill's success was grounded on the marvellous extent of his acquirements and painstaking industry.
 
-Summing up this estimate of Mill's character, we find that he greatly excelled the average of mankind in all the higher qualities of mind—in intellectual power, in concentration , in emotional strength, in will-power, and in active energy. That a man of so high a nervous development should be lacking on other sides is inevitable. I have already pointed out the low development of sensuality as compared with the average of mankind. That lack of sensuality is betrayed, not only in his estimate of the force of sexual passion, but in his indifference to luxuries of every kind. Bain observes:[^fn-p0039-1]—
+Summing up this estimate of Mill's character, we find that he greatly excelled the average of mankind in all the higher qualities of mind—in intellectual power, in concentration, in emotional strength, in will-power, and in active energy. That a man of so high a nervous development should be lacking on other sides is inevitable. I have already pointed out the low development of sensuality as compared with the average of mankind. That lack of sensuality is betrayed, not only in his estimate of the force of sexual passion, but in his indifference to luxuries of every kind. Bain observes:[^fn-p0039-1]—
 
 > “ He was exceedingly temperate as regarded the table; there was nothing of the gourmand superadded to his healthy appetite. To have seen his simple breakfast at the India House, and to couple with that his entire abstinence from eating or drinking till his plain dinner at six o'clock,—would be decisive of his moderation in the pleasures of the palate.”
 
@@ -209,7 +203,7 @@ It is unnecessary to state in detail what were the chief maxims espoused by this
 
 It is not my purpose to attempt a criticism of Mill's various works in the light of modern knowledge. They no longer occupy, of course, the position of unassailable authority which they once occupied. But they have stood the test of time with extraordinary success. When we remember that the last half-century has witnessed an advance in knowledge, on almost every side, of unparalleled rapidity ; when we reflect that the scientific books published to-day are usually out-of-date in two or three years' time, we have reason to be astonished, not that Mill's writings have been to some extent superseded by later works, but that they still retain so large—so justifiably large—a portion of authority as they actually do. Every one of them, at the time of its first publication, was an immense advance on anything that had gone before. Many of them were held to be dangerously Radical in their expressions of opinion. An indication of the abhorrence in which he was held in some quarters may still be gathered by turning over the numerous pages devoted to his works in the Catalogue of Printed Books at the British Museum. One of these pages is headed by the entry “ Mill (John Stuart) ; see Antichrist.”
 
-Probably the most serious deficiency in Mill’s ideas, is due to the fact that they belong to the pre-evolutionary era. Nowadays the doctrine of organic evolution enters into all our thought, and colours our conclusions on almost every subject. We regard humanity as being on the move, not as a stationary manifestation of the immutable order of the Universe. We take a dynamical rather than a statical view of society. On such matters, Mill occupies a position half-way between modern views and the views of the early Utilitarians. The Utilitarians lived in an age when biology was in its infancy, and when its conclusions had neither the certainty nor the importance that would entitle them to be taken into consideration. They assumed that all men were born alike, and that education alone could mould them into any desired form. Bentham thought that the Panopticon would soon root out dishonesty. James Mill argued that the means by which the “grand objects of desire may be attained, depend almost wholly upon the political machine.” And correlated with this one-sided notion of humanity, was their belief that political economy covered the whole sphere of government, that deductions from the principle of the “Greatest happiness of the greatest number” sufficed to provide universal guidance in all political concerns. John Mill made a great advance on his predecessors. Though still believing that differences of character were traceable to differences of environment, to a far greater extent than would now be admitted, he yet perceived that this was not the whole story. He was not so convinced as his predecessors had been, that the millennium would attend upon suitable manipulations of the political machine. He saw that other considerations , besides those of political economy, were necessary to govern the activity of the State. But he had no conception, such as we now have, of a positive antithesis between the interests of the individual and the interests of the race. His philosophy did not extend beyond the attempt to promote the happiness of the population by means of supplying an apt environment. It did not occur to him to inquire what might be the effects of such action upon the fundamental qualities of the race. He perceived, as Malthus had perceived, that most social evils are consequent upon the existence of a population whose needs were greater than could be met by the existing fertility of the earth's surface. He also perceived, as Malthus also had perceived, that for every increment of productive capacity there was a further increase of population, so that the expansion of industry effected no alteration in the permanent ratio between supply and demand. And he inferred, as Malthus had inferred, that restriction of the population was the panacea for the majority of human evils.
+Probably the most serious deficiency in Mill’s ideas, is due to the fact that they belong to the pre-evolutionary era. Nowadays the doctrine of organic evolution enters into all our thought, and colours our conclusions on almost every subject. We regard humanity as being on the move, not as a stationary manifestation of the immutable order of the Universe. We take a dynamical rather than a statical view of society. On such matters, Mill occupies a position half-way between modern views and the views of the early Utilitarians. The Utilitarians lived in an age when biology was in its infancy, and when its conclusions had neither the certainty nor the importance that would entitle them to be taken into consideration. They assumed that all men were born alike, and that education alone could mould them into any desired form. Bentham thought that the Panopticon would soon root out dishonesty. James Mill argued that the means by which the “grand objects of desire may be attained, depend almost wholly upon the political machine.” And correlated with this one-sided notion of humanity, was their belief that political economy covered the whole sphere of government, that deductions from the principle of the “Greatest happiness of the greatest number” sufficed to provide universal guidance in all political concerns. John Mill made a great advance on his predecessors. Though still believing that differences of character were traceable to differences of environment, to a far greater extent than would now be admitted, he yet perceived that this was not the whole story. He was not so convinced as his predecessors had been, that the millennium would attend upon suitable manipulations of the political machine. He saw that other considerations, besides those of political economy, were necessary to govern the activity of the State. But he had no conception, such as we now have, of a positive antithesis between the interests of the individual and the interests of the race. His philosophy did not extend beyond the attempt to promote the happiness of the population by means of supplying an apt environment. It did not occur to him to inquire what might be the effects of such action upon the fundamental qualities of the race. He perceived, as Malthus had perceived, that most social evils are consequent upon the existence of a population whose needs were greater than could be met by the existing fertility of the earth's surface. He also perceived, as Malthus also had perceived, that for every increment of productive capacity there was a further increase of population, so that the expansion of industry effected no alteration in the permanent ratio between supply and demand. And he inferred, as Malthus had inferred, that restriction of the population was the panacea for the majority of human evils.
 
 In the days when these propositions were first enunciated, the discovery of “Natural Selection” had not been made. Men were in the deepest ignorance of Nature's ways in all that appertained to inheritance or the philosophy of life. A corner, at least, of the veil has now been lifted; and behold! we find Nature taking bypaths which earlier philosophers never suspected for an instant, and which vitiate, or at any rate call for careful modifications of Malthus' conclusion. For it is now known that individuals born into the world are not all of one pattern, but of extreme diversity in physical, mental, and moral development. It is known that newly-born individuals diverge from the average type, sometimes for the better, but often for the worse. So long as there are many more individuals born than there can possibly be room for (which is the normal condition), many have to die out. It is obvious that the victims are mainly the weak and imperfect. It is the strong, those most suited to the world into which they are born, who survive and carry on the race to future generations. So that Nature exercises a selective action upon new-born individuals, casting off the weak and maintaining only the fittest. Nature works, that is to say, not by producing a quantity of individuals, any one of whom is as fitted to survive as any other, but by producing a larger quantity of mixed individuals than is required, and then picking out the most robust among them. Here then is a serious flaw in Malthus' argument. By limiting the number of births, you doubtless diminish the number of deaths and the sum of contemporary human misery; but, to the precise extent that you are successful in preventing the wastage of human life, you are interfering with Nature's operation of weeding out the unfit. Unfavourable variations, instead of being destroyed on their appearance, are maintained and perpetuated, leading ultimately to race-degeneracy and extinction. In short, the Malthusian philosophy is a philosophy of the individual, and runs counter to the wider philosophy of the race. I need not pursue the argument further. The modern view would not advocate going back to the days of heedless multiplication, bringing with it so much misery to the unfortunate individuals who are in process of elimination. It would, of course, have to admit the principle of selection; but would take that selection out of the cruel hands of Nature, and pass it into human control. By taking measures to prevent multiplication of the unfit, it is believed that limitation of the population may be achieved, without incurring the disastrous effects of degeneracy. It is even suggested that positive improvements in the physique of the race might thus be ensured.
 
@@ -219,8 +213,7 @@ It is in these directions that political philosophy is widening out. If Mill liv
 
 HUGH ELLIOT.
 
-### SOME NOTES ON THE PRIVATE LIFE
-OF JOHN STUART MILL
+### SOME NOTES ON THE PRIVATE LIFE OF JOHN STUART MILL
 
 <span class="small-caps">Was</span> the private life of Mill on the whole praiseworthy, or was much of his conduct in the highest degree reprehensible? This is the kind of question which, where a great man is concerned, must always be of vital interest. We desire in our leaders that they should be good as well as great, and it is only with a chill that we are able to bear the shock of a contrary impression. We feel that if they whose knowledge and depth or height of thought so far exceeded our own capabilities were yet unable to obey the promptings of conscience, or to keep even as straight a course as the average, their intellectual superiority has not been the boon to the human race that we had fancied it, since it is counterbalanced by an evil example of conduct as far-reaching as was the inspiration of their genius.
 
@@ -279,18 +272,15 @@ Mill's letters to his own family are too many of them painful, though strangely 
 
 ## CHAPTER I
 
-### THE LETTERS OF
-JOHN STUART MILL
+### THE LETTERS OF JOHN STUART MILL
 
 ### CHAPTER I
 
 ### 1829–1832
 
-### Letter 2: J. S. Mill → John Sterling
-
 <span class="small-caps">Many</span> of Mill’s earliest letters were written to John Sterling, who was afterwards made famous by Carlyle’s Biography. Sterling is described as possessing a “genius for friendship.”
 
-### Letter 3: J. S. Mill. → John Sterling
+### Letter 1: J. S. Mill.
 
 ### To <span class="small-caps">John Sterling</span>,
 
@@ -308,7 +298,7 @@ JOHN STUART MILL
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 4: J. S. Mill → John Sterling
+### Letter 2: J. S. Mill → John Sterling
 
 ### T<span class="small-caps">o</span> J<span class="small-caps">ohn</span> S<span class="small-caps">terling</span>,
 
@@ -365,15 +355,13 @@ As for our common friends and acquaintances here, I have but little to tell you 
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 5: J. S. Mill → Gustave d'Eichthal
+### Letter 3: J. S. Mill → Gustave d'Eichthal
 
 ### To <span class="small-caps">Gustave d'Eichthal</span>.
 
 This letter was found by d'Eichthal among his papers nearly forty years after it had been written; and he was so pleased and surprised by it that he copied it on May 14, 1870, and sent the copy to Mill.
 
 > *[Margin: 1831 — Aetat. 25.]*
-
-### Letter 6: J. S. Mill.
 
 *30th Nov.* 1831.
 
@@ -399,10 +387,9 @@ But our 10 août, our 20 juin, and perhaps our 10th Brumaire are yet to come ; a
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 7: J. S. Mill → John Sterling
+### Letter 4: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling</span>,
-who was still in the West Indies.
+### To <span class="small-caps">John Sterling</span>, who was still in the West Indies.
 
 <span class="small-caps">London</span>, *24th May* 1832.
 
@@ -436,7 +423,7 @@ With many kind remembrances to Mrs. Sterling, believe me affectionately yours,
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 8: J. S. Mill → Thomas Carlyle
+### Letter 5: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle</span>.
 
@@ -476,7 +463,7 @@ I do not think I have any more facts to tell you, and I have filled my letter wi
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 9: J. S. Mill → Thomas Carlyle
+### Letter 6: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle</span>.
 
@@ -514,7 +501,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ## CHAPTER II 1833
 
-### Letter 10: J. S. Mill → Thomas Carlyle
+### Letter 7: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle.</span>
 
@@ -552,7 +539,7 @@ Make my best remembrances to Mrs. Carlyle; I sometimes hear of her through Mrs. 
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 11: J. S. Mill → Thomas Carlyle
+### Letter 8: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle</span>.
 
@@ -576,13 +563,13 @@ Fonblanque, you see, goes on hammering at the politics of the day, for better, f
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 12: J. S. M.
+### Letter 9: J. S. M.
 
 I should have availed myself of the opportunity you afforded me to make acquaintance with Leigh Hunt, did I not find it absolutely necessary, if I mean either to work or to enjoy society, to restrict rather than to extend the number of my acquaintance. He is worth knowing, and a time may come for that among other things. Have you seen Archibald Alison's “ History of the French Revolution ” ? [^fn-p0100-1] If you have, just tell me whether it is worth reading, or reviewing—I suppose it is wrong, when one has taken the trouble to accumulate knowledge on a subject, not to work it up if one can into some shape useful to others ; and if I am to write about the French Revolution, it may as well be while my recollections of the original authorities are fresh.
 
 J. S. M.
 
-### Letter 13: Thomas Carlyle
+### Letter 10: Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle</span>
 
@@ -610,7 +597,7 @@ I am sure I have twenty other things to say, but cannot think of them at this in
 
 Charles Buller is well, and in spirits, and increasingly disposed to work ; he will not be lost, it were pity he should : his career will be politics, I think ; not the best career, far from that, but he will, I now think, demean himself therein like a true man : his superiority to all those people is even *now,* little as he has yet done, beginning to be *felt,* and he is gaining influence which will enable him to utter such truth as is in him with some certainty of being listened to—he *is* pure-minded, and not a self-seeker, I am sure of that.
 
-### Letter 14: J. S. Mill → Thomas Carlyle
+### Letter 11: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle.</span>
 
@@ -620,7 +607,7 @@ Charles Buller is well, and in spirits, and increasingly disposed to work ; he w
 
 <span class="small-caps">My dear Carlyle</span>,—
 
-I wrote a short letter to you intending to send it by your brother when he went to Craigenputtock; but he did not find time to call on me again, and I, having very foolishly mislaid his address, did not find out his place of abode till some hours after he had left town. As the letter was very short and had little in it, I cancelled it, and determined to write a longer and better, which however I have not set about till now. In the meantime I have received your letter, which was welcome on many accounts, on none more than because it recognises in express words what has always been tacitly recognised but seldom spoken or written about by either of us, the *negative* part of the relation between us, the fact that we *still* differ in many of our opinions, perhaps, as you say (though of this I am not sure), throughout the range of a “half-universe.” I certainly shall not hesitate to show you “the length and breadth of my dissent.” But the truth is, I had persuaded myself for a long time that the difference was next to nothing; was such as counted for little in *my* estimation at least, being rather in some few of our speculative premises than in any of our practical conclusions. When I came to *review* my opinions and ask myself, after a considerable period of fresh thought and fresh experience, the deliberate question, which at some periods assumes a more serious and solemn aspect than at others, what I believed? what were my convictions? I found that they were, and for the present could not but be, more *materially* divergent from yours than I had for a time believed. As soon as I felt quite sure of this I told you so; and though I wrote as if in a sceptical and unsettled state of mind, the very fact that I wrote at all about it proved that I had come into a more settled state. I think that I have obtained something like a firm footing, and additional rather than new light; I can hardly say that I have changed any of my opinions, but I seem to myself to *know* more, from increased observation of other people, and increased experience of my own feelings. All which is thus acquired *must* be clear gain ; it is increased knowledge of the only valuable kind, knowledge of Realities ; and it must be for want of intellect or for want of will, if, with additional ground to build upon, I cannot raise my edifice of Thought to a greater height, and so look round and see more of Truth than I could see before. But of all these things we shall both write and speak hereafter. Concerning my journey to Craigenputtock, all I can at present say is, that if I go not thither I shall go nowhere else. However, it will not at all events be in August, for in that month my father will be absent, and it is inconvenient for both of us to be away from the India House at the same time. It cannot be till he return. I had the pleasure of an hour's conversation with Dr. Carlyle on his passing through London, and was glad to learn that he is to be an inmate of Craigenputtock all this summer and autumn. My occupations for some time back have been rather internal than external ; I have not been working much, but much has been working in me. I have written little, partly because I was better employed in obtaining whereof to write than in writing, partly also because of press of business at the India House, and of certain temporary domestic occupations in my father's house. I have completed scarcely anything but a poor, flimsy, short paper on that book of Alison's, which I undertook in an evil hour, when the subject was as remote as possible from those which were occupying my thoughts and feelings at the time, and which I accordingly performed exceedingly ill, and was obliged to cancel the part which had cost me most labour ; what is left (it is not worth your perusal), will appear in the *Monthly Repository.* Short as the whole is, it has been divided into two parts, of which one has appeared ; it had been better to reserve the whole for another number. I shall in future never write on any subject which my mind is not full of when I begin to write, unless the occasion is such that it is better the thing were ill done than not at all, that being the alternative . What you say of that paper of mine on Poetry and Art is exactly what I think respecting it myself. I do not think it contains anything erroneous, but I feel that it is far from going to the bottom of the subject, or even very deep into it; I think I see somewhat further into it now, and shall perhaps understand it in time. I think I mentioned to you that I have carried the investigation (rightly or wrongly, as it may be) one step further in a paper (being a review of a new poem) which I wrote for the *Examiner:* it proved too long for Fonblanque, and it is to appear in *Tait,* after such additions and alterations as I see it absolutely requires, and which I have not yet found time to give it. You say you wish that you could help me in this matter; you *can* and *do* help me in all such matters, not by logical definition, which, as I think I have said or written before, I agree with you in thinking not to be your peculiar walk of usefulness; but in suggesting deep and pregnant thoughts which might never have occurred to me, but which I am quite able, when I have them, to subject to all needful logical manipulation. This brings to my mind that I have never explained what I meant when, writing once before in this strain, I called you a poet and artist. I conceive that most of the highest truths are, to persons endowed by nature in certain ways which I think I could state, intuitive; that is, they need neither explanation nor proof, but if not known before are assented to as soon as stated. Now, it appears to me that the poet or artist is conversant chiefly with *such* truths, and that his office in respect to truth is to declare *them* and to make them *impressive.* This, however, supposes that the reader, hearer, or spectator is a person of the kind to whom those truths *are* intuitive. Such will, of course, receive them at once, and will lay them to heart in proportion to the impressiveness with which the artist delivers and embodies them. But the other and more numerous kind of people will consider them as nothing but dreaming or madness: and the more so, certainly, the more powerful the artist, *as* an artist. The same person may be poet and logician, but he cannot be both in the same composition : and as heroes have been frustrated of glory “ carent quia vate sacro,” so I think the *vates* himself has often been misunderstood and successfully cried down for want of a Logician in Ordinary, to supply a logical commentary on his intuitive truths. The artist’s is the highest part, for by him alone is real *knowledge* of such truths conveyed ; but it is possible to convince him who never could know the intuitive truths that they are not inconsistent with anything he *does* know, that they are even very *probable,* and that he may have faith in them when higher natures than his own affirm that they are truths. He may then build on them and act on them, or at least act nothing contradictory to them. Now, this humbler part is, I think, that which is most suitable to my faculties as a man of speculation. I am not in the least a poet in any sense, but I can do homage to poetry. I can to a very considerable extent feel it and understand it, and can make others who are my inferiors understand it in proportion to the measure of their capacity. I believe that such a person is more wanted than even the poet himself ; that there are more persons living who approximate to the latter character than to the former. I do not think myself at all fit for the one ; I do for the other : your walk I conceive to be the higher. Now one thing not useless to do would be to exemplify this difference itself ; to make those who are not poets understand that poetry is higher than logic, and that the union of the two is philosophy. I shall write out my thoughts more at length somewhere and somewhen, probably soon.—Yours faithfully,
+I wrote a short letter to you intending to send it by your brother when he went to Craigenputtock; but he did not find time to call on me again, and I, having very foolishly mislaid his address, did not find out his place of abode till some hours after he had left town. As the letter was very short and had little in it, I cancelled it, and determined to write a longer and better, which however I have not set about till now. In the meantime I have received your letter, which was welcome on many accounts, on none more than because it recognises in express words what has always been tacitly recognised but seldom spoken or written about by either of us, the *negative* part of the relation between us, the fact that we *still* differ in many of our opinions, perhaps, as you say (though of this I am not sure), throughout the range of a “half-universe.” I certainly shall not hesitate to show you “the length and breadth of my dissent.” But the truth is, I had persuaded myself for a long time that the difference was next to nothing; was such as counted for little in *my* estimation at least, being rather in some few of our speculative premises than in any of our practical conclusions. When I came to *review* my opinions and ask myself, after a considerable period of fresh thought and fresh experience, the deliberate question, which at some periods assumes a more serious and solemn aspect than at others, what I believed? what were my convictions? I found that they were, and for the present could not but be, more *materially* divergent from yours than I had for a time believed. As soon as I felt quite sure of this I told you so; and though I wrote as if in a sceptical and unsettled state of mind, the very fact that I wrote at all about it proved that I had come into a more settled state. I think that I have obtained something like a firm footing, and additional rather than new light; I can hardly say that I have changed any of my opinions, but I seem to myself to *know* more, from increased observation of other people, and increased experience of my own feelings. All which is thus acquired *must* be clear gain ; it is increased knowledge of the only valuable kind, knowledge of Realities ; and it must be for want of intellect or for want of will, if, with additional ground to build upon, I cannot raise my edifice of Thought to a greater height, and so look round and see more of Truth than I could see before. But of all these things we shall both write and speak hereafter. Concerning my journey to Craigenputtock, all I can at present say is, that if I go not thither I shall go nowhere else. However, it will not at all events be in August, for in that month my father will be absent, and it is inconvenient for both of us to be away from the India House at the same time. It cannot be till he return. I had the pleasure of an hour's conversation with Dr. Carlyle on his passing through London, and was glad to learn that he is to be an inmate of Craigenputtock all this summer and autumn. My occupations for some time back have been rather internal than external ; I have not been working much, but much has been working in me. I have written little, partly because I was better employed in obtaining whereof to write than in writing, partly also because of press of business at the India House, and of certain temporary domestic occupations in my father's house. I have completed scarcely anything but a poor, flimsy, short paper on that book of Alison's, which I undertook in an evil hour, when the subject was as remote as possible from those which were occupying my thoughts and feelings at the time, and which I accordingly performed exceedingly ill, and was obliged to cancel the part which had cost me most labour ; what is left (it is not worth your perusal), will appear in the *Monthly Repository.* Short as the whole is, it has been divided into two parts, of which one has appeared ; it had been better to reserve the whole for another number. I shall in future never write on any subject which my mind is not full of when I begin to write, unless the occasion is such that it is better the thing were ill done than not at all, that being the alternative. What you say of that paper of mine on Poetry and Art is exactly what I think respecting it myself. I do not think it contains anything erroneous, but I feel that it is far from going to the bottom of the subject, or even very deep into it; I think I see somewhat further into it now, and shall perhaps understand it in time. I think I mentioned to you that I have carried the investigation (rightly or wrongly, as it may be) one step further in a paper (being a review of a new poem) which I wrote for the *Examiner:* it proved too long for Fonblanque, and it is to appear in *Tait,* after such additions and alterations as I see it absolutely requires, and which I have not yet found time to give it. You say you wish that you could help me in this matter; you *can* and *do* help me in all such matters, not by logical definition, which, as I think I have said or written before, I agree with you in thinking not to be your peculiar walk of usefulness; but in suggesting deep and pregnant thoughts which might never have occurred to me, but which I am quite able, when I have them, to subject to all needful logical manipulation. This brings to my mind that I have never explained what I meant when, writing once before in this strain, I called you a poet and artist. I conceive that most of the highest truths are, to persons endowed by nature in certain ways which I think I could state, intuitive; that is, they need neither explanation nor proof, but if not known before are assented to as soon as stated. Now, it appears to me that the poet or artist is conversant chiefly with *such* truths, and that his office in respect to truth is to declare *them* and to make them *impressive.* This, however, supposes that the reader, hearer, or spectator is a person of the kind to whom those truths *are* intuitive. Such will, of course, receive them at once, and will lay them to heart in proportion to the impressiveness with which the artist delivers and embodies them. But the other and more numerous kind of people will consider them as nothing but dreaming or madness: and the more so, certainly, the more powerful the artist, *as* an artist. The same person may be poet and logician, but he cannot be both in the same composition : and as heroes have been frustrated of glory “ carent quia vate sacro,” so I think the *vates* himself has often been misunderstood and successfully cried down for want of a Logician in Ordinary, to supply a logical commentary on his intuitive truths. The artist’s is the highest part, for by him alone is real *knowledge* of such truths conveyed ; but it is possible to convince him who never could know the intuitive truths that they are not inconsistent with anything he *does* know, that they are even very *probable,* and that he may have faith in them when higher natures than his own affirm that they are truths. He may then build on them and act on them, or at least act nothing contradictory to them. Now, this humbler part is, I think, that which is most suitable to my faculties as a man of speculation. I am not in the least a poet in any sense, but I can do homage to poetry. I can to a very considerable extent feel it and understand it, and can make others who are my inferiors understand it in proportion to the measure of their capacity. I believe that such a person is more wanted than even the poet himself ; that there are more persons living who approximate to the latter character than to the former. I do not think myself at all fit for the one ; I do for the other : your walk I conceive to be the higher. Now one thing not useless to do would be to exemplify this difference itself ; to make those who are not poets understand that poetry is higher than logic, and that the union of the two is philosophy. I shall write out my thoughts more at length somewhere and somewhen, probably soon.—Yours faithfully,
 
 > *[Margin: 1833]*
 
@@ -632,7 +619,7 @@ I wrote a short letter to you intending to send it by your brother when he went 
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 15
+### Letter 12
 
 *5th July* 1833.
 
@@ -640,7 +627,7 @@ I am so far from seeing any *intolerance* in your dislike of speculation, unless
 
 > *[Margin: 1833 — Aetat. 27.]*
 
-### Letter 16: J. S. Mill → John Sterling
+### Letter 13: J. S. Mill → John Sterling
 
 ### To <span class="small-caps">John Sterling</span>,
 
@@ -658,7 +645,7 @@ faithfully,
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 17: J. S. Mill → Thomas Carlyle
+### Letter 14: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle.</span>
 
@@ -668,7 +655,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 18: J. S. Mill → Thomas Carlyle
+### Letter 15: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle.</span>
 
@@ -692,7 +679,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 Thanks to Mrs. Carlyle for her two lines, and best remembrances to her and to Dr. Carlyle.
 
-### Letter 19: J. S. Mill → Thomas Carlyle
+### Letter 16: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle.</span>
 
@@ -718,7 +705,7 @@ I have just received a copy of some evidence taken by the Poor Law Commissioners
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 20: J. S. Mill → Thomas Carlyle
+### Letter 17: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle.</span>
 
@@ -742,7 +729,7 @@ It was more than I hoped for that your brother should form any favourable judgme
 
 Of your friends or acquaintance here I have little to relate; most of them are away from London, and have not written to me. Only Rowland Detrosier is doing exceedingly well as a lecturer on physics—picking up also some money by writing—and he will do something and be of use: a man of clearer or quicker understanding I never saw; only he has had no help, and no materials for his understanding to work on; the most abstract truths when they are presented to him he seizes almost at a glance, and possesses himself of their spirit, not their letter merely. He will thrive best under *my* teaching just now; he is not yet ripe for yours. He is eager, ardent, and indefatigably laborious; and to the extent of his faculties, most *serious* in his purpose of knowing and teaching the truth.
 
-If I had known you as well when you were in London as I do now, how many more persons should I have brought to see you! I now know that *any* human being is interesting to you. Since you were so much pleased with Emerson, I feel encouraged to try you with almost any person whatever who has any sort of good in him; I should have thought *he* was about the last person who would have interested you so much as he seems to have done. But you, yourself, are doubtless in many things changed, and as you have several times intimated changing , I greatly desire to know in what, and how much; should be still more gratified if I could in any way aid you, paying back thereby some small part of the good, of that and so many other kinds, which I have received from you. I have done little for *you* yet; perhaps am incapable of doing much; but it was part of my former character, the character I am throwing off, that I seldom wished or ventured to argue with my teachers; I do not mean mere logic-fence, but that I was content to receive without giving, and rather avoided occasions for expressing difference of opinion. In that, however, as in much else, “I will mend,” as you said of something far less important.
+If I had known you as well when you were in London as I do now, how many more persons should I have brought to see you! I now know that *any* human being is interesting to you. Since you were so much pleased with Emerson, I feel encouraged to try you with almost any person whatever who has any sort of good in him; I should have thought *he* was about the last person who would have interested you so much as he seems to have done. But you, yourself, are doubtless in many things changed, and as you have several times intimated changing, I greatly desire to know in what, and how much; should be still more gratified if I could in any way aid you, paying back thereby some small part of the good, of that and so many other kinds, which I have received from you. I have done little for *you* yet; perhaps am incapable of doing much; but it was part of my former character, the character I am throwing off, that I seldom wished or ventured to argue with my teachers; I do not mean mere logic-fence, but that I was content to receive without giving, and rather avoided occasions for expressing difference of opinion. In that, however, as in much else, “I will mend,” as you said of something far less important.
 
 > *[Margin: 1833 — Aetat. 27.]*
 
@@ -756,7 +743,7 @@ Yours faithfully,
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 21: J. S. Mill → Thomas Carlyle
+### Letter 18: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle</span>.
 
@@ -790,15 +777,13 @@ A very different man from Carrel is Cavaignac; he is President of the *Société
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 22: J. S. Mill → Thomas Carlyle
+### Letter 19: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle.</span>
 
 <span class="small-caps">Kensington,</span> *22nd December* 1833.
 
-<span class="small-caps">My dear Carlyle,</span>—Your letter had been hoped for
-
-and expected, and in one sense waited for, a considerable time, for I had various matters of interest to write to you about, but as I hoped for a letter so soon I delayed writing till I could make my letter answer yours.
+<span class="small-caps">My dear Carlyle,</span>—Your letter had been hoped for and expected, and in one sense waited for, a considerable time, for I had various matters of interest to write to you about, but as I hoped for a letter so soon I delayed writing till I could make my letter answer yours.
 
 One of those matters is the affair of the *Examiner,* of which you have heard somewhat from Hayward. It *is* in difficulties, and those of so serious a kind that if something had not been done or attempted immediately to save it, there was danger of its stopping altogether. The cause is melancholy enough, being less the circumstances of the paper, though it is not prosperous, than those of Fonblanque himself, who, like his father before him, has wanted firmness to restrain his expenses within his means. Since he enlarged the paper in January 1831 it has yielded him little; it allows him nominally £500 a year; reckoning that in addition to its other expenses it has during these three years lost on the average £6 a week, which coming out of his £500 reduced it to below £200. He, meantime, has been living at a rate most needlessly expensive, and is at last so completely drained, and his credit I should think so completely exhausted, that he can go on no longer. Strange that a man who writes so feelingly and powerfully on this same weakness should so act; but not at all strange, only melancholy, that one who so acts, possessing intellect, should so write. If his difficulties do not ruin the paper it is in no danger. For means of retrenchment present themselves to the extent of £8 or £9 a week, by discharging Chadwick, whose work Fonblanque takes upon himself in addition to his own, and by cheaper arrangements for printing and paper, which, however, depend upon first paying off an arrear to his printer and stationer. £1000 would do all this and start him fair with £500 a year and an improving property; for advertisements, the great source of profit to a paper, have, as you must have observed with pleasure, multiplied exceedingly in the *Examiner* since the reduction of the duty. The £1000 it were to be wished that some one person of the right disposition should have advanced, become thereby proprietor in place of Fonblanque, whose personal circumstances would then have ceased to compromise the paper, and who would, of course, have been retained as editor. This I would myself have preferred to do, were not my position with regard to the India House, which hampers my freedom of action in a thousand ways, but which shall not hamper it always, in this case an insuperable obstacle. What has been attempted is to raise the money in subscriptions of £10 each from a hundred different persons, each of whom is to receive the paper gratis for ten years. Sixty promises have been obtained, the remaining forty are still to seek: as many as twenty more are, I think, as good as certain—but less than the whole hundred will not do, for the debts on the paper amount to £780, and money to the extent of the remainder will then be wanted to start it fair, or perhaps (for I know not) to keep poor Fonblanque out of the King's Bench. I am doing all I can to interest people in the matter, and should have written to you among the first, had I not known that you could do little if anything in the way either of subscribing or procuring subscriptions. I think we shall succeed, but it will require a vigorous effort. The sale of the *Examiner* does not much exceed 3000 copies. This is, as you say, a scandalous symptom, yet there are many causes that contribute to it besides the scandalous ones that first suggest themselves. Of course it can only expect buyers (*readers* are quite another matter) from Radicals; and of them the more vulgar sort find as much Radicalism in the papers, of a more direct and popular kind, with greater *breadth,* as the painters say: for Fonblanque's genius, fine as it is, goes all into the details, not into the general mode of treating a subject; he does not go straight to the main point, dwell upon that and make that tell, dropping all little side views, like the *Times,* which with material of no intrinsic value whatever writes powerfully for popular effect, as Fonblanque might do with his powers, though scarcely with his turn of mind. Then Fonblanque's allusions, expressions, style, all the *garb* of his thoughts, is intelligible, or at least impressive, only to persons of literary, one might say almost *classical,* education, and most of them are not Radicals—not to mention that such as do not take a daily paper, require in a weekly one a better abstract of news. That I hope will now, in some degree, be mended. Then the more moderate Radicals are revolted by the tone of hatred in which the paper is written. This feeling extends to many who would have no objection to, but would applaud, the utterance of the bitterest truths, but do not like a perpetual carping at *little* things, honestly indeed, yet often unfairly, and making no personal allowances, sometimes misstating altogether the kind of blame which is deserved, and meting it out in unequal measure to different people, so as to give an appearance of spleen and personal antipathy to individuals—especially to some of the Ministers, and among them, most perhaps to some of those who deserve it rather less than the others. In all this there is much truth; on the other hand, much also is to be said for Fonblanque, but on the whole not enough to acquit him entirely. So he has really no partisans at all, and loses by almost all his excellences and by his faults too. At the very time when he was offending the moderate Radicals by the nature of his attacks on the Ministry, he was losing at the rate of a hundred subscribers every week for some time by resisting the anti-police *furor.* Still, the position of the paper will be a good one if this money can be raised, and raised I hope it will be.
 
@@ -829,7 +814,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ## CHAPTER III 1834-1844
 
-### Letter 23: J. S. Mill → Thomas Carlyle
+### Letter 20: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle</span>.
 
@@ -859,15 +844,13 @@ Here is a very long letter, yet how little it says of all that is to be said ! H
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 24: J. S. Mill → Thomas Carlyle
+### Letter 21: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle</span>
 
 <span class="small-caps">Kensington</span>, *2nd March* 1834.
 
-<span class="small-caps">My dear Carlyle</span>,—This is going to be a strange
-
-miscellaneous kind of a letter. I have a long arrear of little things to bring up, and, for the present, few great ones to say, and am in a mood in which it is impossible for me to say them if I had, for nothing but the most dogged determination not to lose another post could induce me to overcome the extreme aversion which I feel to writing a letter this morning. I must take your two letters as an index of the subjects to be written about. First, to answer your questions as to the projected periodical : on a rough classification of periodicals into Tory, Whig, and Radical, there are, as you truly say, various Radical reviews and magazines already; even Radical-utilitarian ones; but the Radical-utilitarians who promote this new project, do not recognise in any of the existing works what they want; they wish to throw the combined strength of the most thoughtful and fertile-minded of the Radicals into one publication, of a more weighty and elaborate character than any magazine can be; allowing itself to treat subjects at greater length than the *Repository* or *Tait;* excluding all things which compromise the Radical cause by *platitude,* or mediocrity, or ignorance, or subservience to any popular delusion; and on the whole representing as favourably as the materials admit, the Radical intellect, which certainly has not, and never has been, fairly represented. *Tait* and the *Westminster* give an altogether exaggerated notion of its poverty and bareness. The "philosophic Radicals" are *narrow* enough, it is true, though few of them are so narrow as Colonel Thompson, the presiding spirit of the *Westminster Review.* But many of them are far from being *empty;* and they are generally much offended by the emptiness of the Radical publications, and have no doubt that this review, if it be started, will be one with which it will be pleasant to be associated; one will have not only more freedom, but far better companionship than in any publication which has yet existed. I have no doubt of its being established, except that which arises from my abundant experience of the incapacity of the Radicals to co-operate. Those of them who have money and station, are mostly impracticably fastidious; men of small objections; men to whom small difficulties appear great ones. They mostly surprised me by taking up this scheme with warmth. Your papers on Knox, and on Authors, would both, I think, be extremely suitable to such a work; suitable both in respect to the subjects, and to the light in which you are likely to place them. You have time before you, however, for as it will not be possible to start the work until the dead time of the year, we think it better to wait for the beginning of the next. Before the time, therefore, when it will be necessary to set about one or other of your articles, you will have heard more—I hope, seen; for if you come to London you can judge for yourself.
+<span class="small-caps">My dear Carlyle</span>,—This is going to be a strange miscellaneous kind of a letter. I have a long arrear of little things to bring up, and, for the present, few great ones to say, and am in a mood in which it is impossible for me to say them if I had, for nothing but the most dogged determination not to lose another post could induce me to overcome the extreme aversion which I feel to writing a letter this morning. I must take your two letters as an index of the subjects to be written about. First, to answer your questions as to the projected periodical : on a rough classification of periodicals into Tory, Whig, and Radical, there are, as you truly say, various Radical reviews and magazines already; even Radical-utilitarian ones; but the Radical-utilitarians who promote this new project, do not recognise in any of the existing works what they want; they wish to throw the combined strength of the most thoughtful and fertile-minded of the Radicals into one publication, of a more weighty and elaborate character than any magazine can be; allowing itself to treat subjects at greater length than the *Repository* or *Tait;* excluding all things which compromise the Radical cause by *platitude,* or mediocrity, or ignorance, or subservience to any popular delusion; and on the whole representing as favourably as the materials admit, the Radical intellect, which certainly has not, and never has been, fairly represented. *Tait* and the *Westminster* give an altogether exaggerated notion of its poverty and bareness. The "philosophic Radicals" are *narrow* enough, it is true, though few of them are so narrow as Colonel Thompson, the presiding spirit of the *Westminster Review.* But many of them are far from being *empty;* and they are generally much offended by the emptiness of the Radical publications, and have no doubt that this review, if it be started, will be one with which it will be pleasant to be associated; one will have not only more freedom, but far better companionship than in any publication which has yet existed. I have no doubt of its being established, except that which arises from my abundant experience of the incapacity of the Radicals to co-operate. Those of them who have money and station, are mostly impracticably fastidious; men of small objections; men to whom small difficulties appear great ones. They mostly surprised me by taking up this scheme with warmth. Your papers on Knox, and on Authors, would both, I think, be extremely suitable to such a work; suitable both in respect to the subjects, and to the light in which you are likely to place them. You have time before you, however, for as it will not be possible to start the work until the dead time of the year, we think it better to wait for the beginning of the next. Before the time, therefore, when it will be necessary to set about one or other of your articles, you will have heard more—I hope, seen; for if you come to London you can judge for yourself.
 
 > *[Margin: 1834 — Aetat. 27.]*
 
@@ -891,7 +874,7 @@ Thiers completely verifies the impression his History makes. Even among French m
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 25: J. S. Mill → Thomas Carlyle
+### Letter 22: J. S. Mill → Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle</span>
 
@@ -911,33 +894,27 @@ I long to hear all you could say about Homer. I hope you will sometime write and
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 26: J. S. Mill → Thomas Carlyle
+### Letter 23: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>,
-on the MS. of the “French Revolution.”
+### To <span class="small-caps">Thomas Carlyle</span>, on the MS. of the “French Revolution.”
 
 <span class="small-caps">India House</span>, *Wednesday* [no date, 1835 ?].
 
 > *[Margin: 1835 — Aetat. 28.]*
 
-<span class="small-caps">My dear Carlyle</span>,—My annotations and proposed
-
-alterations in phraseology amount, as you will see, to but little—less than I expected—and you will probably think most of them trifling. My object has been to remove, when it can be done without sacrifice, anything *merely* quaint in the mode of expression, but I have very often not ventured to touch it for fear of spoiling something which I could not replace. The only general remark I have to make on the style is that I think it would often *tell* better on the reader if what is said in an abrupt, exclamatory, and interjectional manner were said in the ordinary grammatical mode of nominative and verb; but in that, as in everything else, I ask nothing but that you will deal with it as you like, disregarding all my observations if you do not think them just, and in any case that you will not make the thing an annoyance to you. It is quite good enough, and too good for us, as it is.—Ever
+<span class="small-caps">My dear Carlyle</span>,—My annotations and proposed alterations in phraseology amount, as you will see, to but little—less than I expected—and you will probably think most of them trifling. My object has been to remove, when it can be done without sacrifice, anything *merely* quaint in the mode of expression, but I have very often not ventured to touch it for fear of spoiling something which I could not replace. The only general remark I have to make on the style is that I think it would often *tell* better on the reader if what is said in an abrupt, exclamatory, and interjectional manner were said in the ordinary grammatical mode of nominative and verb; but in that, as in everything else, I ask nothing but that you will deal with it as you like, disregarding all my observations if you do not think them just, and in any case that you will not make the thing an annoyance to you. It is quite good enough, and too good for us, as it is.—Ever
 
 faithfully yours,
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 27: J. S. Mill → Thomas Carlyle
+### Letter 24: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>,
-with reference to the accidental destruction of the MS. of the “French Revolution” while in Mill’s possession.
+### To <span class="small-caps">Thomas Carlyle</span>, with reference to the accidental destruction of the MS. of the “French Revolution” while in Mill’s possession.
 
 <span class="small-caps">India House</span>, *7th March* [1835].
 
-<span class="small-caps">My dear Carlyle</span>,—I will endeavour, as you advise,
-
-to think as little as I can of this misfortune, though I shall not be able to cease thinking of it until it is ascertained how far the loss is capable of being repaired, or rather reduced to a loss of time and labour only. There are hardly any means I would not joyfully take, if any existed, by which I could myself be instrumental to remedying the mischief my carelessness has caused. That, however, depends not upon me. But there is one part of the evil—though, I fear, the least part—which I could repair: the loss to yourself of time and labour, that is, of income. And I beg of you, with an earnestness with which perhaps I may never again have need to ask anything as long as we live, that you will permit me to do this, little as it is, towards remedying the consequences of my fault and lightening my self-reproach. It is what you would permit as a matter of course if I were a stranger to you, it is what is even *legally* due to you; and to have brought an evil upon a friend instead of a stranger is already a sufficient aggravation of one's regret, without the addition to it of not being allowed to make even the poor amends one would make to a stranger.
+<span class="small-caps">My dear Carlyle</span>,—I will endeavour, as you advise, to think as little as I can of this misfortune, though I shall not be able to cease thinking of it until it is ascertained how far the loss is capable of being repaired, or rather reduced to a loss of time and labour only. There are hardly any means I would not joyfully take, if any existed, by which I could myself be instrumental to remedying the mischief my carelessness has caused. That, however, depends not upon me. But there is one part of the evil—though, I fear, the least part—which I could repair: the loss to yourself of time and labour, that is, of income. And I beg of you, with an earnestness with which perhaps I may never again have need to ask anything as long as we live, that you will permit me to do this, little as it is, towards remedying the consequences of my fault and lightening my self-reproach. It is what you would permit as a matter of course if I were a stranger to you, it is what is even *legally* due to you; and to have brought an evil upon a friend instead of a stranger is already a sufficient aggravation of one's regret, without the addition to it of not being allowed to make even the poor amends one would make to a stranger.
 
 > *[Margin: 1835 — Aetat. 28.]*
 
@@ -945,7 +922,7 @@ If I could convince you what a relief this would be to me, and what an act of fr
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 28: in reply → Thomas Carlyle
+### Letter 25: Thomas Carlyle
 
 ### To <span class="small-caps">Thomas Carlyle</span>,
 
@@ -961,7 +938,7 @@ Yes, when the thing is again done, and I have realised the feeling of certainty 
 
 You shall see or hear from me again almost immediately, but I will not take the *Fête des Piques;* not that I believe such a thing could possibly happen again, but for the sake of retributive justice I would wear the badge of my untrustworthiness. If, however, you would give me the pleasure of reading it, give it to Mrs. Taylor—in her custody no harm could come to it—and I can read it aloud to her as I did much of the other, for it had not only the *one* reader you mentioned, but a second as good.
 
-### Letter 29: J. S. Mill → E. Lytton Bulwer
+### Letter 26: J. S. Mill → E. Lytton Bulwer
 
 ### To E. L<span class="small-caps">ytton</span> B<span class="small-caps">ulwer</span> (afterwards Lord L<span class="small-caps">ytton</span>)
 
@@ -985,7 +962,7 @@ Do pray think of it, and tell me the result of your thought. The time is evident
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 30: J. S. Mill → E. Lytton Bulwer
+### Letter 27: J. S. Mill → E. Lytton Bulwer
 
 ### To E. <span class="small-caps">Lytton Bulwer</span>
 
@@ -999,7 +976,7 @@ If you do not find the atmosphere of the *London and Westminster Review* more an
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 31: J. S. Mill → E. Lytton Bulwer
+### Letter 28: J. S. Mill → E. Lytton Bulwer
 
 ### To E. <span class="small-caps">Lytton Bulwer</span>
 
@@ -1017,7 +994,7 @@ I had not time the other evening to tell you how much I am delighted with “Ath
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 32: J. S. Mill → E. Lytton Bulwer
+### Letter 29: J. S. Mill → E. Lytton Bulwer
 
 ### To E. <span class="small-caps">Lytton Bulwer</span>
 
@@ -1035,7 +1012,7 @@ Robertson requests me to put you in mind of his request to you, in which I most 
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 33: J. S. Mill → E. Lytton Bulwer
+### Letter 30: J. S. Mill → E. Lytton Bulwer
 
 ### To E. <span class="small-caps">Lytton Bulwer</span>
 
@@ -1057,7 +1034,7 @@ The position I have since taken about it is a sort of neutral one.  I feel quite
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 34: J. S. Mill → John Sterling
+### Letter 31: J. S. Mill → John Sterling
 
 ### To <span class="small-caps">John Sterling</span>,
 
@@ -1067,9 +1044,7 @@ acknowledging the receipt of his article on Carlyle, written for the *London and
 
 > *[Margin: 1839 — Aetat. 33.]*
 
-<span class="small-caps">My dear Sterling</span>,—I did not need the arrival of the
-
-second packet to know whether the article would suit me or not; and if I could have had any doubts, that packet would have removed them—the contents of that same not being liable to even the minor objections which I might have raised to the first.
+<span class="small-caps">My dear Sterling</span>,—I did not need the arrival of the second packet to know whether the article would suit me or not; and if I could have had any doubts, that packet would have removed them—the contents of that same not being liable to even the minor objections which I might have raised to the first.
 
 There are, as you surmised (but confined almost entirely to the introductory part), many opinions stated in which, speculatively, I do not agree: but the time is long gone by when I considered such differences as there are, matters of first-rate moment; and if I have a fault to find with your introduction, it is a fault only with respect to my readers—viz., that it gives an account of the transcendental part (if I may so call it) of Carlyle's opinions in somewhat too transcendental a manner; and, not interpreting his views in language intelligible to persons of opposite schools, will scarcely serve to recommend him to any (some of the religious excepted) who are not already capable of appreciating him in his own writings. But “I speak as to the wise—judge ye what I say.”
 
@@ -1081,24 +1056,21 @@ I have not a word more to say in the way of criticism—I am delighted with the 
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 35: John Sterling
+### Letter 32: John Sterling
 
 ### To <span class="small-caps">John Sterling</span>
 
 <span class="small-caps">India House</span>, *28th September* 1839.
 
-<span class="small-caps">My dear Sterling</span>,—I quite think with you that it is
-
-no part of my vocation to be a party leader, but at most to give occasional good advice to such as are fitted to be so. Whether I have any better vocation for being a philosopher, or whether you will think so when you see what I am capable of performing in that line, remains for the future to decide. I hope to give materials for the decision before long, as I can hardly fail, I think, to finish my “ Logic ” in the course of next year. I have endeavoured to keep clear, as far as possible, of the controversy respecting the perception of the highest Realities by direct intuition, confining Logic to the laws of the investigation of truth by means of extrinsic evidence, whether ratiocinative or inductive. Still, I could not avoid conflict with some of the subordinate parts of the supernatural philosophy which, for aught I know, may be as necessary to it as what may appear to me its fundamental principles and its only important results. I doubt, therefore, whether I can expect anything but opposition from the only school of metaphysical speculation which has any life or activity at present. But *nous verrons.* I have, at all events, made many things much clearer to myself than they were before—and that is something, even if I am satisfied to be my own only disciple.
+<span class="small-caps">My dear Sterling</span>,—I quite think with you that it is no part of my vocation to be a party leader, but at most to give occasional good advice to such as are fitted to be so. Whether I have any better vocation for being a philosopher, or whether you will think so when you see what I am capable of performing in that line, remains for the future to decide. I hope to give materials for the decision before long, as I can hardly fail, I think, to finish my “ Logic ” in the course of next year. I have endeavoured to keep clear, as far as possible, of the controversy respecting the perception of the highest Realities by direct intuition, confining Logic to the laws of the investigation of truth by means of extrinsic evidence, whether ratiocinative or inductive. Still, I could not avoid conflict with some of the subordinate parts of the supernatural philosophy which, for aught I know, may be as necessary to it as what may appear to me its fundamental principles and its only important results. I doubt, therefore, whether I can expect anything but opposition from the only school of metaphysical speculation which has any life or activity at present. But *nous verrons.* I have, at all events, made many things much clearer to myself than they were before—and that is something, even if I am satisfied to be my own only disciple.
 
 > *[Margin: 1839 — Aetat. 33.]*
 
 I am very far from agreeing, in all things, with the “Analysis,”[^fn-p0170-1] even on its own ground—though perhaps, from your greater distance, the interval between me and it may appear but trifling. But I can understand your need of something beyond it and deeper than it, and I have often had moods in which I would most gladly postulate, like Kant, a different ultimate foundation, “subjectiver bedürfnisses willen” if I could.
 
-### Letter 36: J. S. Mill → John Sterling
+### Letter 33: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling</span>,
-on Coleridge.
+### To <span class="small-caps">John Sterling</span>, on Coleridge.
 
 <span class="small-caps">India House</span>, *2nd October* 1839.
 
@@ -1118,7 +1090,7 @@ affectionately,
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 37: John Sterling
+### Letter 34: John Sterling
 
 ### To <span class="small-caps">John Sterling.</span>
 
@@ -1128,7 +1100,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 . . . Touching your question to me, whether I think that we know a sufficient number of laws of particular phenomena to be able to mount up to the laws of the whole system of which they are a part—if you mean, to such laws as that which Coleridge ascribes to Heraclitus and Giordano Bruno, the essential polarity of all power—I do not think that the time is come for such wide generalisations, though I do not consider the attainment of them hopeless at some future period. I am afraid that the only principles which I should at present recognise as laws of *all* phenomena, are some of those which for that very reason are classed by Kant as laws of our perceptive faculties only—subjective, not objective—as, for instance, the subjection of all phenomena to the laws of time and space. But it would require a good deal of explanation before we could make ourselves understood by each other on this matter, and for my part, I dare say, I may have something to learn on this subject from the German philosophers when I have time to read them. You may think it presumptuous in a man to be finishing a treatise on logic and not to have made up his mind finally on these great matters. But mine professes to be a logic of experience only, and to throw no further light upon the existence of truths not experimental, than is thrown by showing to what extent reasoning from experience will carry us. Above all, mine is a logic of the indicative mood alone—the logic of the imperative, in which the major premiss says not *is* but *ought,* I do not meddle with.
 
-### Letter 38: J. S. Mill → John Sterling
+### Letter 35: J. S. Mill → John Sterling
 
 ### To <span class="small-caps">John Sterling.</span>
 
@@ -1150,7 +1122,7 @@ As for me, I have begun to get ready my reprint, but I find some difficulty in f
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 39: J. S. Mill → John Sterling
+### Letter 36: J. S. Mill → John Sterling
 
 ### To <span class="small-caps">John Sterling</span>.
 
@@ -1164,7 +1136,7 @@ What you say about the absence of a disinterested and heroic pursuit of Art as t
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 40: J. S. Mill → John Sterling
+### Letter 37: J. S. Mill → John Sterling
 
 ### To <span class="small-caps">John Sterling</span>.
 
@@ -1180,7 +1152,7 @@ I have been considering whether I ought to postpone revising my “ Logic ” in
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 41: John Sterling
+### Letter 38: John Sterling
 
 ### To <span class="small-caps">John Sterling</span>.
 
@@ -1194,7 +1166,7 @@ to throw himself upon, and no watchword to use but the old ones about making the
 
 No one seems to me to have raised himself by this but Guizot, and he has done what perhaps no other man could have done, and almost certainly none so well.
 
-### Letter 42: John Sterling
+### Letter 39: John Sterling
 
 ### To <span class="small-caps">John Sterling</span>
 
@@ -1208,7 +1180,7 @@ No one seems to me to have raised himself by this but Guizot, and he has done wh
 
 I need hardly say how earnestly I feel with you about the Corn Laws, and I therefore think the Anti-Corn-Law League right at Walsall. To let in for a manufacturing town any man not an out-and-out opponent of the Corn Laws would, I think, have been a folly and something worse. . . .
 
-### Letter 43: J. S. Mill → John Sterling
+### Letter 40: J. S. Mill → John Sterling
 
 ### To <span class="small-caps">John Sterling.</span>
 
@@ -1222,15 +1194,13 @@ I have been reading your review of Tennyson for the second time, after an interv
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 44: J. S. Mill → John Sterling
+### Letter 41: J. S. Mill → John Sterling
 
 ### To <span class="small-caps">John Sterling.</span>
 
 <span class="small-caps">India House,</span> *November* 1842.
 
-<span class="small-caps">My dear Sterling</span>,—I am very glad indeed to hear that
-
-you are writing the sort of paper you mention. As to Tennyson, you were right in getting so much praise of him into the *Quarterly* by no greater sacrifice than leaving some of the best of the earlier poems unmentioned. I do not differ from your principle that the highest forms of poetry cannot be built upon obsolete beliefs—although what you say of the “Ancient Mariner” and “Christabel” seems to me true of the “Lady of Shalott,” and the objection does not seem to me to lie strongly against the “Lotos-Eaters” or “Œnone.” But neither is the idyl one of the *highest* forms of poetry—neither Spenser, Tasso, nor Ovid could have been what they were by means of *that.* And greatly as I admire “Michael” and its compeers, that is not the crowning glory of Wordsworth. And how poor surely is “Dora” compared with some dozen of Wordsworth’s poems of that kind.
+<span class="small-caps">My dear Sterling</span>,—I am very glad indeed to hear that you are writing the sort of paper you mention. As to Tennyson, you were right in getting so much praise of him into the *Quarterly* by no greater sacrifice than leaving some of the best of the earlier poems unmentioned. I do not differ from your principle that the highest forms of poetry cannot be built upon obsolete beliefs—although what you say of the “Ancient Mariner” and “Christabel” seems to me true of the “Lady of Shalott,” and the objection does not seem to me to lie strongly against the “Lotos-Eaters” or “Œnone.” But neither is the idyl one of the *highest* forms of poetry—neither Spenser, Tasso, nor Ovid could have been what they were by means of *that.* And greatly as I admire “Michael” and its compeers, that is not the crowning glory of Wordsworth. And how poor surely is “Dora” compared with some dozen of Wordsworth’s poems of that kind.
 
 My remark on mechanical details does not apply to “Burleigh,” which seems to me Tennyson’s best in that style; not much, if at all, to the “Gardener’s Daughter,” a good deal to “Dora”—which I do not like; a little to some parts of “Locksley Hall”; but in a most intense degree to such things as “Audley Court,” “Walking to the Mail,” the introduction to “Morte d’Arthur”; and the *type* of what I object to is the three lines of introduction to “Godiva,” which he has stuck in, as it were, in defiance. But, mind, I do not give my opinion as worth anything, to you especially, and my feeling is only to be reckoned as that of one person, competent in so far as capable of almost any degree of *exalté* feeling from poetry.
 
@@ -1242,16 +1212,13 @@ Yours ever,
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 45: J. S. Mill → Sir E. Lytton Bulwer
+### Letter 42: J. S. Mill → Sir E. Lytton Bulwer
 
-### To Sir E. <span class="small-caps">Lytton Bulwer</span>,
-in reply to a letter from him concerning the “Logic.”
+### To Sir E. <span class="small-caps">Lytton Bulwer</span>, in reply to a letter from him concerning the “Logic.”
 
 <span class="small-caps">India House</span>, *27th March* 1843.
 
-<span class="small-caps">My dear Sir Lytton</span>,—You have very much over-
-
-praised my rather ambitious attempt, but I am very glad that you find enough in the book to repay the trouble of reading, and I shall be amply satisfied if it is found to deserve half the good you say of it. I hope you may have time to give me the benefit of the doubts and suggestions you speak of. I can say quite sincerely, and I believe from sufficient self-knowledge, that I value the finding out of an error more highly than any amount of praise.
+<span class="small-caps">My dear Sir Lytton</span>,—You have very much overpraised my rather ambitious attempt, but I am very glad that you find enough in the book to repay the trouble of reading, and I shall be amply satisfied if it is found to deserve half the good you say of it. I hope you may have time to give me the benefit of the doubts and suggestions you speak of. I can say quite sincerely, and I believe from sufficient self-knowledge, that I value the finding out of an error more highly than any amount of praise.
 
 > *[Margin: 1843 — Aetat. 36.]*
 
@@ -1263,7 +1230,7 @@ You would find Comte well worth your better knowledge. I do not always agree in 
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 46: J. S. Mill → John Sterling
+### Letter 43: J. S. Mill → John Sterling
 
 ### To <span class="small-caps">John Sterling</span>,
 
@@ -1277,7 +1244,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 > *[Margin: 1843 — Aetat. 36.]*
 
-### Letter 47: J. S. Mill → John Sterling
+### Letter 44: J. S. Mill → John Sterling
 
 ### To <span class="small-caps">John Sterling</span>,
 
@@ -1297,7 +1264,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 > *[Margin: 1844 — Aetat. 38.]*
 
-### Letter 48: in reply → John Sterling
+### Letter 45: John Sterling
 
 ### To <span class="small-caps">John Sterling,</span>
 
@@ -1326,7 +1293,7 @@ If we lose you, the remembrance of your friendship will be a precious possession
 
 ## CHAPTER IV 1847-1851
 
-### Letter 49: J. S. Mill → John Austin
+### Letter 46: J. S. Mill → John Austin
 
 ### To <span class="small-caps">John Austin</span>, the eminent jurist.
 
@@ -1368,7 +1335,7 @@ You ask what I think of the Irish measures. I expect nothing from them but misch
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 50: J. F. Mollett
+### Letter 47: J. F. Mollett
 
 ### To J. F. <span class="small-caps">Mollett</span>,
 
@@ -1382,10 +1349,9 @@ With the principles on which it appears that Mr. Lovett really acted I have much
 
 > *[Margin: 1847 — Aetat. 41.]*
 
-### Letter 51: Mrs. John Austin
+### Letter 48: Mrs. John Austin
 
-### To Mrs. <span class="small-caps">John Austin</span>,
-who was then resident in Paris, immediately after the abdication of Louis Philippe.
+### To Mrs. <span class="small-caps">John Austin</span>, who was then resident in Paris, immediately after the abdication of Louis Philippe.
 
 *27th February* 1848.
 
@@ -1399,11 +1365,9 @@ Next to the admirable conduct of the people and of the new authorities, the most
 
 Who can it be that takes Mr. Austin's name in the *Times* and attempts to imitate his style? I am afraid the letter signed “John Austin” must have been seen by many who never saw the disavowal of it in an obscure corner of the paper—and there were several things in it which it is very disagreeable that Mr. Austin should be supposed to have written, especially the flattery of the *Times*—the meanest, most malicious, and most hypocritical among our very low newspaper press.
 
-### Letter 52: John Austin with regard to the French Revolution of 1848 → Mrs. Austin
+### Letter 49: Mrs. Austin
 
-### To Mrs. <span class="small-caps">Austin</span>,
-
-indicating Mill's difference from John Austin with regard to the French Revolution of 1848.
+### To Mrs. <span class="small-caps">Austin</span>, indicating Mill's difference from John Austin with regard to the French Revolution of 1848.
 
 *March* (?) 1848.
 
@@ -1411,10 +1375,9 @@ indicating Mill's difference from John Austin with regard to the French Revoluti
 
 > *[Margin: 1848 — Aetat. 41.]*
 
-### Letter 53: J. S. Mill → Armand Marrast
+### Letter 50: J. S. Mill → Armand Marrast
 
-### To <span class="small-caps">Armand Marrast</span>,
-then a member of the Provisional Government in France, enclosing a presentation copy of the "Political Economy," which had just been published.
+### To <span class="small-caps">Armand Marrast</span>, then a member of the Provisional Government in France, enclosing a presentation copy of the "Political Economy," which had just been published.
 
 1848.
 
@@ -1428,10 +1391,9 @@ J'ai encore un autre but en vous écrivant. Je ne veux pas m'étendre en phrases
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 54: Eugène Sue
+### Letter 51: Eugène Sue
 
-### To <span class="small-caps">Eugène Sue,</span>
-enclosing a presentation copy of the “Political Economy.”
+### To <span class="small-caps">Eugène Sue,</span> enclosing a presentation copy of the “Political Economy.”
 
 1848.
 
@@ -1441,7 +1403,7 @@ enclosing a presentation copy of the “Political Economy.”
 
 Mon second motif c'est le désir de vous témoigner la vive sympathie que j'éprouve pour le noble esprit de justice et de progrès dont vos derniers romans sont pénétrés, et pour quelques idées capables dont vous vous y êtes fait l'organe. Mon livre vous prouvera que sur la grande question de l'héritage je suis absolument de l'avis du docteur Just ; tandis que sur le mariage et sur l'entière égalité de droits entre les hommes et les femmes les opinions de l'auteur de “Martin” et du “Juif Errant” sont non seulement les miennes mais j'ai la conviction profonde que la liberté, la démocratie, la fraternité, ne sont nulle part si ce n'est dans ces opinions, et que l'avenir du progrès social et moral ne se trouve que là.
 
-### Letter 55: John Jay
+### Letter 52: John Jay
 
 ### To <span class="small-caps">John Jay</span>, of New York.
 
@@ -1455,7 +1417,7 @@ I am obliged to you also for the *North American Review* containing an article o
 
 On the population question my difference with the reviewer is fundamental, and in the incidental reference which he makes to my assertion of equality of political rights and of social position in behalf of women, the tone assumed by him is really below contempt. But I fear that a country where institutions profess to be founded on equality, and which yet maintains the slavery of black men and of all women, will be one of the last to relinquish that other servitude.
 
-### Letter 56: Emile Littré
+### Letter 53: Emile Littré
 
 ### To <span class="small-caps">Emile Littré</span>,
 
@@ -1466,7 +1428,7 @@ for Auguste Comte.
 
 <span class="small-caps">Monsieur</span>,—J'ai eu l'honneur de recevoir votre circulaire au sujet de M. Comte. Je vous envoie ci-joint un billet de 250 francs comme contribution mais non comme cotisation annuelle. Je vous prie de vouloir bien m'en accuser réception. Je regrette d'apprendre que la position pécuniaire de M. Comte vient d'être encore empirée. J'ai une très haute estime pour ses travaux en ce qui regarde la théorie de la méthode positive, mais je suis très éloigné de sa manière d'appliquer cette méthode aux questions sociales. La plupart de ses opinions sociologiques sont diamétralement opposées aux miennes.
 
-### Letter 57: George Grote
+### Letter 54: George Grote
 
 ### To <span class="small-caps">George Grote</span>.
 
@@ -1478,7 +1440,7 @@ for Auguste Comte.
 
 In Comte's position I think my conduct would have been different: in the first place, I should have endeavoured by saving to provide a fund for such emergencies, and if this failed I should have preferred living as I could upon my reduced income so long as it was physically possible. But it is to be said for him, on the first point, that he had every reason to believe his income a permanent one, and on the second, that it is harder to be advised to break up all his arrangements and to alter his confirmed habits from a cause which he firmly believes to be not only temporary, but of very short duration. If, therefore, you think that it would be possible and advisable to raise another subscription for him I should be happy, in case of need, to contribute my part towards it. At the same time, as he certainly does not mean to be understood as asking for such a favour, so, if the answer be negative, it need not have the character of a refusal.
 
-### Letter 58: J. S. Mill → Dr. W. G. Ward
+### Letter 55: J. S. Mill → Dr. W. G. Ward
 
 ### To Dr. W. G. <span class="small-caps">Ward</span>,
 
@@ -1488,9 +1450,7 @@ In Comte's position I think my conduct would have been different: in the first p
 
 > *[Margin: 1849 — Aetat. 42.]*
 
-<span class="small-caps">Dear Sir</span>,—You have given me six months to answer
-
-all your questions. I think you ought to allow me six volumes too; for if the questions occupy so many pages, what must the answers? I could give no doubt some sort of replies to most of your queries in a few sentences, but they would not be such as could be satisfactory either to you or to myself. However, your letter is a sort of challenge which I am unwilling to refuse, though aware that what I say will give scarcely the faintest idea of how much there *is* to say, and though I do not undertake to carry on the discussion any further. If I did, each answer would suggest further questions, and these would require longer answers, till I should be led into writing a treatise on each point—which, though if I live I may probably do, at any rate I had rather defer until I can do it thoroughly and in a shape for permanent use.
+<span class="small-caps">Dear Sir</span>,—You have given me six months to answer all your questions. I think you ought to allow me six volumes too; for if the questions occupy so many pages, what must the answers? I could give no doubt some sort of replies to most of your queries in a few sentences, but they would not be such as could be satisfactory either to you or to myself. However, your letter is a sort of challenge which I am unwilling to refuse, though aware that what I say will give scarcely the faintest idea of how much there *is* to say, and though I do not undertake to carry on the discussion any further. If I did, each answer would suggest further questions, and these would require longer answers, till I should be led into writing a treatise on each point—which, though if I live I may probably do, at any rate I had rather defer until I can do it thoroughly and in a shape for permanent use.
 
 > *[Margin: 1849 — Aetat. 42.]*
 
@@ -1536,7 +1496,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 I should have answered your letter weeks ago had I not been out of town on account of health.
 
-### Letter 59: William Conner
+### Letter 56: William Conner
 
 ### To <span class="small-caps">William Conner</span>,
 
@@ -1552,7 +1512,7 @@ in reply to a letter from him thanking Mill for a favourable allusion to his vie
 
 I lament that exertions so promising as those in which you were engaged have been cut short by personal misfortunes. I trust there is yet a chance of your being one day in a condition to renew those exertions, in which I believe you would now find many more coadjutors than before. The progress of events and of opinion has left such political economists as those whose dicta you relate, very far behind, and their authority will soon stand as low as it deserves. My object in writing a treatise on Political Economy was to rescue from the hands of such people the truths they misapply, and by combining these with other truths to which they are strangers, to deduce conclusions capable of being of some use to the progress of mankind. The sympathy you express in this attempt induces me to request your acceptance of a copy of the book, which I hope will reach you shortly after you receive this letter.
 
-### Letter 60: W. J. Fox
+### Letter 57: W. J. Fox
 
 ### To W. J. Fox,
 
@@ -1578,10 +1538,9 @@ If it were possible to provide for giving *real* moral instruction it would be w
 
 *8th Resolution.*—This seems to be very objectionable. If any public body were empowered to prevent a person from practising as a teacher without a certificate of competency, no person believed to think or act in opposition to any of the ordinary standards, or who is supposed to be an “unbeliever,” would ever be allowed to teach. No Socialist or even Chartist would have (especially in times of political alarm) the smallest chance. No such person could keep even a private school, much less be teacher in a public one. I have never seen the body that I would trust with the power of pronouncing persons incompetent for this or any other profession. Neither do I see what purpose this resolution is intended to answer. No doubt persons grossly incompetent do try to get a living as schoolmasters, but the remedy for this is to provide better ones, and the other resolutions ensure this in every district. Besides, this evil would soon take care of itself if the mass of people had even a little education.
 
-### Letter 61: him, inviting Mill to join a society called the “Poor Law Reform Association.” → Edward Herford
+### Letter 58: Edward Herford
 
-### To <span class="small-caps">Edward Herford</span>, Coroner of Manchester,
-in reply to a letter from him, inviting Mill to join a society called the “Poor Law Reform Association.”
+### To <span class="small-caps">Edward Herford</span>, Coroner of Manchester, in reply to a letter from him, inviting Mill to join a society called the “Poor Law Reform Association.”
 
 *January* 1850.
 
@@ -1599,10 +1558,9 @@ My own opinion is, that when productive employment can be claimed by every one f
 
 At present I expect very little from any plans which aim at improving even the economical state of the people by purely economical or political means. We have come, I think, to a period, when progress even of a political kind is coming to a halt, by reason of the low intellectual and moral state of all classes, and of the rich as much as of the poorer classes only. Great improvements in education (among the first of which I reckon dissevering it from bad religion) is the only thing to which I should look for permanent good. For example, the objects of your Association, and those of the promoters of emigration, even if they could be successful in putting an end to indigence, would do no more than put off to another generation the necessity of adopting a sounder morality on the subject of over-population, which sounder morality, even if it were not necessary to prevent the evils of poverty, would equally be requisite in order to put an end to the slavery to which the existing state of things condemns women; a greater object, in my estimation, both in itself and in its tendencies, than the mere physical existence either of women or men. I am sorry to see in your circular the ignorant and immoral doctrine that the separation enforced in the workhouse is among the sources of “degradation” and diminished “self-respect” for the pauper. I consider it an essential part of the moral training which, in many ways (but in none more important), the reception of public relief affords an opportunity of administering, and the improvement of which would be a reform in Poor Law management better worth aiming at, I think, than that which you propose.
 
-### Letter 62: J. S. Mill → Edward Herford
+### Letter 59: J. S. Mill → Edward Herford
 
-### To <span class="small-caps">Edward Herford</span>;
-a sequel to the preceding letter.
+### To <span class="small-caps">Edward Herford</span>; a sequel to the preceding letter.
 
 *February* 1850.
 
@@ -1616,11 +1574,9 @@ It is not necessary that I should comment on the many things in your letter with
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 63: Walter Coulson
+### Letter 60: Walter Coulson
 
-### To <span class="small-caps">Walter Coulson</span>,
-on reading an article by Charles Kingsley on Free
-Trade.
+### To <span class="small-caps">Walter Coulson</span>, on reading an article by Charles Kingsley on Free Trade.
 
 <span class="small-caps">India House</span>, *22nd November* 1850.
 
@@ -1642,7 +1598,7 @@ The remainder of the political economy of the article I agreed with, to the best
 
 Mr. Kingsley’s notions must be little less vague about my political economy than about my socialism when he couples my name with that of a mere tyro like Harriet Martineau.
 
-### Letter 64: Editor of the Weekly Dispatch
+### Letter 61: Editor of the Weekly Dispatch
 
 ### To the Editor of the *Weekly Dispatch.*
 
@@ -1652,7 +1608,7 @@ This letter appears not to have been printed.
 
 > *[Margin: 1851 — Aetat. 44.]*
 
-<span class="small-caps">Sir</span>,—I cannot remain quite silent on the unjust and unfounded attacks made by the *Dispatch* on those whom it calls by the old-fashioned appellation of sceptics. In the first article of the number for January 26th there is a charge against all who hold merely negative opinions on religion of being “Epicureans,” who “take the world as they find it”; of “believing in nothing,” being “earnest in nothing,” being “merely speculative, and inquisitive, logical thinking machines.” Whoever wrote these accusations, believing them to be true, is as ignorant of life and the world, and of the opinions of instructed persons in the present age, as a Church of England parson. I affirm that nearly all the persons I have known who were, and are, eminently distinguished by a passion for the good of mankind hold the opinions respecting religion which your article stigmatises; that is, they think that nothing can be known on the subject. The very phrase, “believing nothing,” as a synonym for believing no religious creed, as if nothing were true or false, right or wrong, except with reference to some theory of creation, is one of the calumnies of short-sighted and ignorant intolerance. But your writer, like other heretics, must have a scapegoat to whom to pass on the slanders thrown upon themselves, and be able to say to the bigots, “It is not I, it is my brother.” According to him, those who pull down one positive religion , if it is to put up another, however slight and flimsy, are heroes; but if they see no sufficient evidence for any belief as to the origin and purpose of the world, and will not succumb to the vulgar by professing any, against them you indorse the accusations of the orthodox. The smallest ray of dogmatic religion is enough, in the opinion of its professors, to entitle them to call themselves infinitely higher and worthier than those who profess no dogmatic belief. But as all my own experience and observation lead me to an exactly opposite conclusion, I strenuously deny the accusation in the *Dispatch*, and charge the writer of it with bearing false witness against his neighbour.
+<span class="small-caps">Sir</span>,—I cannot remain quite silent on the unjust and unfounded attacks made by the *Dispatch* on those whom it calls by the old-fashioned appellation of sceptics. In the first article of the number for January 26th there is a charge against all who hold merely negative opinions on religion of being “Epicureans,” who “take the world as they find it”; of “believing in nothing,” being “earnest in nothing,” being “merely speculative, and inquisitive, logical thinking machines.” Whoever wrote these accusations, believing them to be true, is as ignorant of life and the world, and of the opinions of instructed persons in the present age, as a Church of England parson. I affirm that nearly all the persons I have known who were, and are, eminently distinguished by a passion for the good of mankind hold the opinions respecting religion which your article stigmatises; that is, they think that nothing can be known on the subject. The very phrase, “believing nothing,” as a synonym for believing no religious creed, as if nothing were true or false, right or wrong, except with reference to some theory of creation, is one of the calumnies of short-sighted and ignorant intolerance. But your writer, like other heretics, must have a scapegoat to whom to pass on the slanders thrown upon themselves, and be able to say to the bigots, “It is not I, it is my brother.” According to him, those who pull down one positive religion, if it is to put up another, however slight and flimsy, are heroes; but if they see no sufficient evidence for any belief as to the origin and purpose of the world, and will not succumb to the vulgar by professing any, against them you indorse the accusations of the orthodox. The smallest ray of dogmatic religion is enough, in the opinion of its professors, to entitle them to call themselves infinitely higher and worthier than those who profess no dogmatic belief. But as all my own experience and observation lead me to an exactly opposite conclusion, I strenuously deny the accusation in the *Dispatch*, and charge the writer of it with bearing false witness against his neighbour.
 
 > *[Margin: 1851 — Aetat. 44.]*
 
@@ -1714,18 +1670,15 @@ ill.
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 65: F. Lucas
+### Letter 62: F. Lucas
 
-### To F. <span class="small-caps">Lucas</span>,
-in reply to an invitation to stand for Parliament for an Irish county.
+### To F. <span class="small-caps">Lucas</span>, in reply to an invitation to stand for Parliament for an Irish county.
 
 <span class="small-caps">India House</span>, *28th March* 1851.
 
-<span class="small-caps">Dear Sir</span>,—I beg that you will make my respectful
+<span class="small-caps">Dear Sir</span>,—I beg that you will make my respectful acknowledgments to the Council of the Tenant League for the great honour they have done me by their proposal, communicated through you and Mr. Duffy, and by the very flattering terms of their resolution. If it were in my power to go into Parliament at present, I should be highly gratified by being returned for a purpose so congenial to my principles and convictions as the reform of the pernicious system of land tenure which, more than any other cause, keeps the great body of the agricultural population of Ireland always on the verge of starvation. You are aware, however, that I hold an office under the East India Company, which, of necessity, occupies a large portion of my time, and I have reason to believe that the Court of Directors would consider a seat in Parliament as incompatible with it. Whatever, therefore, I might have done under other circumstances, I am compelled to decline the offered honour, and I feel it right to do so at once, rather than (as you suggest) to leave the question in any degree open, since I could not in fairness allow any trouble to be taken for a purpose which would merely give greater publicity to the honour intended me, while I could not hold out the prospect of its leading to any practical result. . . .
 
-acknowledgments to the Council of the Tenant League for the great honour they have done me by their proposal, communicated through you and Mr. Duffy, and by the very flattering terms of their resolution. If it were in my power to go into Parliament at present, I should be highly gratified by being returned for a purpose so congenial to my principles and convictions as the reform of the pernicious system of land tenure which, more than any other cause, keeps the great body of the agricultural population of Ireland always on the verge of starvation. You are aware, however, that I hold an office under the East India Company, which, of necessity, occupies a large portion of my time, and I have reason to believe that the Court of Directors would consider a seat in Parliament as incompatible with it. Whatever, therefore, I might have done under other circumstances, I am compelled to decline the offered honour, and I feel it right to do so at once, rather than (as you suggest) to leave the question in any degree open, since I could not in fairness allow any trouble to be taken for a purpose which would merely give greater publicity to the honour intended me, while I could not hold out the prospect of its leading to any practical result. . . .
-
-### Letter 66: J. S. Mill → Sir George Grey
+### Letter 63: J. S. Mill → Sir George Grey
 
 ### To Sir <span class="small-caps">George Grey</span>,
 
@@ -1749,7 +1702,7 @@ The silence of all who, from their position, could have made their voices heard,
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 67: John Chapman
+### Letter 64: John Chapman
 
 ### To <span class="small-caps">John Chapman</span>,
 
@@ -1775,10 +1728,9 @@ In conclusion, I think it right to say that if your wish to consult me respectin
 
 ## CHAPTER V 1852–1856
 
-### Letter 68: him → H. W. Carr
+### Letter 65: H. W. Carr
 
-### To the Rev. H. W. <span class="small-caps">Carr</span>, of South Shields,
-in reply to a letter from him.
+### To the Rev. H. W. <span class="small-caps">Carr</span>, of South Shields, in reply to a letter from him.
 
 *7th January* 1852.
 
@@ -1796,11 +1748,9 @@ With regard to the social questions now before the public, and in which, as I ga
 
 If in applying to me you hoped that I might be able to offer you any suggestions of more specific character, I hope you will attribute my not doing so to the difficulty of the subject and not to any want of will on my part.
 
-### Letter 69: Adolph Soetbeer
+### Letter 66: Adolph Soetbeer
 
-### To Dr. <span class="small-caps">Adolph Soetbeer</span>, of Hamburg,
-on his translation of the “Political Economy” into
-German.
+### To Dr. <span class="small-caps">Adolph Soetbeer</span>, of Hamburg, on his translation of the “Political Economy” into German.
 
 18*th March* 1852.
 
@@ -1810,7 +1760,7 @@ The pressure of my occupations has left me no leisure until now to answer your l
 
 > *[Margin: 1852 — Aetat. 45.]*
 
-### Letter 70: Carl D. Heinrich Rau
+### Letter 67: Carl D. Heinrich Rau
 
 ### To Professor <span class="small-caps">Carl</span> D. <span class="small-caps">Heinrich Rau</span>, of Heidelberg.
 
@@ -1818,13 +1768,13 @@ The pressure of my occupations has left me no leisure until now to answer your l
 
 <span class="small-caps">Dear Sir</span>,—My occupations have prevented me until now from acknowledging the letter with which you favoured me as long ago as the 6th of February. It is not wonderful that, staying but a short time in London, and occupied as you were during that stay, you had not time for the somewhat idle and generally very useless task of paying visits.
 
-Though my references to your systematic work were confined to the Brussels translation, I am glad to say that I am able to read it in the original. Your writings, indeed, are the part with which I am best acquainted of the German writers on political economy, in which, as you justly surmise , I am not by any means well read. What you say of MacCulloch [^fn-p0229-1] does not surprise me. He is both prejudiced and inaccurate. I never place any confidence in the first edition of any of his books; but as the plan of most of them is good, people generally supply him with information which enables him to improve them very much in the second. His “Literature of Political Economy” has, however, I should think, but a small chance of making a second edition. Your plan of separating the scientific inquiry into the production and distribution of wealth, as a branch of social service, from the consideration of the economic policy of governments appears to me both logically and didactically the best, and I have made the same separation in my own treatise. Of this I am just about to print a new edition, in which, among various other improvements, I have entirely rewritten the chapter which contains the discussion of Socialism, and the greater part of that on the future of the labouring classes. I regret that the German translation, of which one volume was lately published at Hamburg, was made from the previous edition, as it gives in many respects an erroneous idea of my opinions on Socialism. Even in the former editions, though I stated a number of objections to the best known Socialist theories, I never represented those objections as final and conclusive, and I think them of very little weight so far as regards the ultimate prospects of humanity. It is true that the low normal state of mankind, generally, and of the labouring classes in particular, renders them at present unfit for any order of things which would presuppose, as its necessary condition, a certain measure of conscience and of intellect. But it appears to me that the great end of social improvement should be to fit them by cultivation for a state of society combining the greatest personal freedom with that just distribution of the fruits of labour which the present laws of property do not even propose to aim at. To explain what I mean by a just distribution, and to what extent I think it could be approximated to a practice, would require more space than that of a letter. I confess that I regard the purely abstract investigations of political economy (beyond those elementary ones which are necessary for the correction of mischievous prejudices), as of very minor importance compared with the great practical questions which the progress of democracy and the spread of Socialist opinions are pressing on, and for which both governing and the governed classes are very far from being in a fit state of preparation. It is to be decided whether Europe shall enter peacefully and prosperously into a better order of things, or whether the new ideas will be inaugurated by a century of war and violence like that which followed the Reformation of Luther; and this alternative probably depends on the moral and intellectual movement of the next ten or twenty years. There is therefore abundance of occupation for moral and political teachers such as we aspire to be.
+Though my references to your systematic work were confined to the Brussels translation, I am glad to say that I am able to read it in the original. Your writings, indeed, are the part with which I am best acquainted of the German writers on political economy, in which, as you justly surmise, I am not by any means well read. What you say of MacCulloch [^fn-p0229-1] does not surprise me. He is both prejudiced and inaccurate. I never place any confidence in the first edition of any of his books; but as the plan of most of them is good, people generally supply him with information which enables him to improve them very much in the second. His “Literature of Political Economy” has, however, I should think, but a small chance of making a second edition. Your plan of separating the scientific inquiry into the production and distribution of wealth, as a branch of social service, from the consideration of the economic policy of governments appears to me both logically and didactically the best, and I have made the same separation in my own treatise. Of this I am just about to print a new edition, in which, among various other improvements, I have entirely rewritten the chapter which contains the discussion of Socialism, and the greater part of that on the future of the labouring classes. I regret that the German translation, of which one volume was lately published at Hamburg, was made from the previous edition, as it gives in many respects an erroneous idea of my opinions on Socialism. Even in the former editions, though I stated a number of objections to the best known Socialist theories, I never represented those objections as final and conclusive, and I think them of very little weight so far as regards the ultimate prospects of humanity. It is true that the low normal state of mankind, generally, and of the labouring classes in particular, renders them at present unfit for any order of things which would presuppose, as its necessary condition, a certain measure of conscience and of intellect. But it appears to me that the great end of social improvement should be to fit them by cultivation for a state of society combining the greatest personal freedom with that just distribution of the fruits of labour which the present laws of property do not even propose to aim at. To explain what I mean by a just distribution, and to what extent I think it could be approximated to a practice, would require more space than that of a letter. I confess that I regard the purely abstract investigations of political economy (beyond those elementary ones which are necessary for the correction of mischievous prejudices), as of very minor importance compared with the great practical questions which the progress of democracy and the spread of Socialist opinions are pressing on, and for which both governing and the governed classes are very far from being in a fit state of preparation. It is to be decided whether Europe shall enter peacefully and prosperously into a better order of things, or whether the new ideas will be inaugurated by a century of war and violence like that which followed the Reformation of Luther; and this alternative probably depends on the moral and intellectual movement of the next ten or twenty years. There is therefore abundance of occupation for moral and political teachers such as we aspire to be.
 
 > *[Margin: 1852 — Aetat. 45.]*
 
 > *[Margin: 1852 — Aetat. 45.]*
 
-### Letter 71: Green
+### Letter 68: Green
 
 ### To Professor <span class="small-caps">Green</span>, of Poona.
 
@@ -1834,12 +1784,11 @@ Though my references to your systematic work were confined to the Brussels trans
 
 > *[Margin: 1852 — Aetat. 46.]*
 
-### Letter 72: in answer → Rau
+### Letter 69: Rau
 
 ### To Professor <span class="small-caps">Rau</span>,
 
-### in answer to a question concerning the position of
-Labour Co-partnership in England.
+### in answer to a question concerning the position of Labour Co-partnership in England.
 
 <span class="small-caps">East India House</span>, *7th July* 1852.
 
@@ -1849,7 +1798,7 @@ Labour Co-partnership in England.
 
 > *[Margin: 1852 — Aetat. 46.]*
 
-### Letter 73: J. S. Mill → Lord Monteagle
+### Letter 70: J. S. Mill → Lord Monteagle
 
 ### To Lord <span class="small-caps">Monteagle</span>,
 
@@ -1857,9 +1806,7 @@ Labour Co-partnership in England.
 
 *20th March* 1853.
 
-<span class="small-caps">Dear Lord Monteagle</span>,—The suggestion in the paper
-
-you sent me is intended to meet a difficulty which has always appeared to me one of the chief stumbling-blocks of representative government. “Whoever could devise a means of preventing minorities from being, as they now are, swamped, and enabling them to obtain a share of the representation proportional to their numbers and not more than proportional, would render a great service.” Whether the plan proposed would do this, and to what objections it may be liable, I should be sorry to be obliged to say without more consideration than I have yet given to it. One thing seems to me evident; that if this plan were adopted, no constituency ought to elect fewer than three members. For if the number be two, as the proposed plan would enable a minority to count for double its number, any minority exceeding one-third could ensure half the representation; which, unless the minority can be presumed to consist of wiser or better persons than the majority, would be contrary to all principle.
+<span class="small-caps">Dear Lord Monteagle</span>,—The suggestion in the paper you sent me is intended to meet a difficulty which has always appeared to me one of the chief stumbling-blocks of representative government. “Whoever could devise a means of preventing minorities from being, as they now are, swamped, and enabling them to obtain a share of the representation proportional to their numbers and not more than proportional, would render a great service.” Whether the plan proposed would do this, and to what objections it may be liable, I should be sorry to be obliged to say without more consideration than I have yet given to it. One thing seems to me evident; that if this plan were adopted, no constituency ought to elect fewer than three members. For if the number be two, as the proposed plan would enable a minority to count for double its number, any minority exceeding one-third could ensure half the representation; which, unless the minority can be presumed to consist of wiser or better persons than the majority, would be contrary to all principle.
 
 > *[Margin: 1853 — Aetat. 46.]*
 
@@ -1877,7 +1824,7 @@ I beg to apologise for not having answered sooner, but I did not like to give an
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 74: in reply → William Molesworth
+### Letter 71: William Molesworth
 
 ### To Sir <span class="small-caps">William Molesworth</span>,
 
@@ -1891,7 +1838,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 I do not know any writers who have discussed taxes on succession at much length, except some of the French Socialists, and they (besides that they are bad political economists) derive their arguments from premises not suited to the atmosphere of the House of Commons.
 
-### Letter 75: Lord Hobart
+### Letter 72: Lord Hobart
 
 ### To Lord <span class="small-caps">Hobart</span>,
 
@@ -1899,15 +1846,13 @@ I do not know any writers who have discussed taxes on succession at much length,
 
 <span class="small-caps">Blackheath</span>, *7th August* [1853?].
 
-<span class="small-caps">My Lord</span>,—Allow me to thank you for a copy of your
-
-pamphlet on the Law of Partnership. Such subjects are not often discussed with so much closeness of reasoning and precision of expression; and it is still more rare to find the question of justice separated from that of expediency and made paramount to it. I prefer to say “justice” rather than, in your words, “natural justice,” both because Nature is often grossly unjust, and because I do not think that the first spontaneous sentiment of justice always agrees with that which is the result of enlightened reflection.
+<span class="small-caps">My Lord</span>,—Allow me to thank you for a copy of your pamphlet on the Law of Partnership. Such subjects are not often discussed with so much closeness of reasoning and precision of expression; and it is still more rare to find the question of justice separated from that of expediency and made paramount to it. I prefer to say “justice” rather than, in your words, “natural justice,” both because Nature is often grossly unjust, and because I do not think that the first spontaneous sentiment of justice always agrees with that which is the result of enlightened reflection.
 
 As you do me the honour to ask my opinion of your argument, I think that much of it is sound, and conclusively stated. But you have not convinced me that either justice or expediency requires the unlimited liability of all who take part in the management, or in other words, that there ought to be no *compagnies anonymes.* Justice, it appears to me, is fully satisfied if those who become creditors of the partnership know beforehand that they will have no claim beyond the amount of the subscribed capital. The points of additional information mentioned in pages 5 and 7, and which you say cannot be possessed by the public, do not seem to me required in justice even if they were in point of expediency. *Volenti non fit injuria:* if a person chooses to lend either to an individual or a company, knowing that the borrowers only pledge a certain sum and not their whole property for the debt, I cannot see that there is any injustice done merely because the lender cannot watch that certain sum and know at all times where it is and what is being done with it. I differ from you also, though with somewhat less confidence, on the question of expediency. I do not doubt that the unlimited liability of railway directors would be some additional security for prudent management, but the additional security would, I think, be too dearly purchased by the abrogation of all power in the shareholders to control the directors or to change them. The publicity afforded by the periodical meetings of shareholders, and by the necessity of laying before them the entire state of the concern and their power of verifying the statements, seems to me a far greater protection to the public as well as to shareholders than the liability of the directors to the full extent of their property, especially considering how imperfect a check to rash speculation this is in private transactions.
 
 > *[Margin: 1853 — Aetat. 47.]*
 
-### Letter 76: in reply → T. J. Furnivale
+### Letter 73: T. J. Furnivale
 
 ### To T. J. <span class="small-caps">Furnivale</span>,
 
@@ -1923,7 +1868,7 @@ As you do me the honour to ask my opinion of your argument, I think that much of
 
 honour as that made in your letter of the 3rd respecting the chapter of my “Political Economy” on “The Future of the Labouring Classes.” I am glad you think its circulation among the working people likely to be useful, and I am sure that whatever helps to make them connect their hopes with co-operation, and with the moral qualities necessary to make co-operation succeed, rather than with strikes to impose bad restrictions on employers, or simply to extort more money, will do for them what they are greatly in need of; and I therefore, so far as depends upon me, give my full consent and approbation to your public-spirited project. But I should like first to make some little additions to the chapter, tending to increase its usefulness; and I must add also that the consent of Mr. Parker is necessary, the edition of the “Political Economy” now on sale being his property.
 
-### Letter 77: Arthur Gore
+### Letter 74: Arthur Gore
 
 ### To <span class="small-caps">Arthur Gore</span>,
 
@@ -1941,10 +1886,9 @@ It seems to me that there is a fundamental difference between the case of the ru
 
 Our difference is more one of expression than of fact. It seems to me that when there is a *change* of any sort at that precise point, we ought to say that a fresh causation commences. It is only when things remain exactly as the original cause left them, that the original can be also termed the proximate cause of their state.
 
-### Letter 78: J. S. Mill → Library Committees, South Carolina
+### Letter 75: J. S. Mill → Library Committees, South Carolina
 
-### To the Chairman of the Library Committees,
-South Carolina.
+### To the Chairman of the Library Committees, South Carolina.
 
 *3rd March* 1854.
 
@@ -1958,10 +1902,9 @@ With the warmest good wishes for the continued progress of the United States, an
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 79: Neophyte Writers' Society
+### Letter 76: Neophyte Writers' Society
 
-### To the Secretary of the Neophyte Writers'
-Society.
+### To the Secretary of the Neophyte Writers' Society.
 
 *23rd April* 1854.
 
@@ -1975,12 +1918,11 @@ Now, I set no value whatever on writing for its own sake, and have much less res
 
 For these reasons I cannot consent that my name should be added to the list of writers you send me.
 
-### Letter 80: William Stigant
+### Letter 77: William Stigant
 
 ### To <span class="small-caps">William Stigant</span>,
 
-### who sought Mill's advice on a course of reading in
-Moral Philosophy.
+### who sought Mill's advice on a course of reading in Moral Philosophy.
 
 <span class="small-caps">East India House</span>, 1*st August* 1854.
 
@@ -1988,10 +1930,9 @@ Moral Philosophy.
 
 > *[Margin: 1854 — Aetat. 48.]*
 
-### Letter 81: Barbot de Chément
+### Letter 78: Barbot de Chément
 
-### <span class="small-caps">To Barbot de Chément</span>,
-*a French captain of artillery.*
+### <span class="small-caps">To Barbot de Chément</span>, *a French captain of artillery.*
 
 <span class="small-caps">East India House</span>, *7th August* 1854.
 
@@ -2015,10 +1956,9 @@ Il me parait, donc, peu probable, Monsieur, que vos sentiments envers la doctrin
 
 > *[Margin: 1854 — Aetat. 48.]*
 
-### Letter 82: John M'Neill
+### Letter 79: John M'Neill
 
-### To Sir <span class="small-caps">John</span> M‘<span class="small-caps">Neill</span>,
-on James Ferrier’s work “ Institutes of Metaphysic.”
+### To Sir <span class="small-caps">John</span> M‘<span class="small-caps">Neill</span>, on James Ferrier’s work “ Institutes of Metaphysic.”
 
 <span class="small-caps">Torquay</span>, *5th December* 1854.
 
@@ -2032,7 +1972,7 @@ I should be very happy if I could add that I believed it had done what the autho
 
 Pray excuse the seeming crudity with which I have expressed the opinion you asked from me—it has not been crudely formed.
 
-### Letter 83: Wentworth Holworthy
+### Letter 80: Wentworth Holworthy
 
 ### To <span class="small-caps">Wentworth Holworthy.</span>
 
@@ -2046,7 +1986,7 @@ Pray excuse the seeming crudity with which I have expressed the opinion you aske
 
 The following letter was addressed to a correspondent, after Sir William Molesworth's death in 1855:—
 
-### Letter 84
+### Letter 81
 
 <span class="small-caps">Dear Sir</span>,—
 
@@ -2062,7 +2002,7 @@ Molesworth died a firm adherent of anti-religious opinions. On the day before hi
 
 On Sir William Molesworth’s death, it was suggested to Mill that he should write an epitaph. In acceding to the request he wrote :—
 
-### Letter 85: J. S. Mill
+### Letter 82: J. S. Mill
 
 <span class="small-caps">Blackheath,</span> 5*th November* 1855.
 
@@ -2078,14 +2018,14 @@ J. S. <span class="small-caps">Mill.</span>
 
 The epitaph ran as follows:—
 
-> A laborious and thoughtful student from an early age,
-both of speculative truth and of the practical questions of political life,
-His opinions were his own.
-He lived to see some of them triumphant
-partly through his own efforts,
-and died as he had lived, faithful to them all.
+> A laborious and thoughtful student from an early age,  
+> both of speculative truth and of the practical questions of political life,  
+> His opinions were his own.  
+> He lived to see some of them triumphant  
+> partly through his own efforts,  
+> and died as he had lived, faithful to them all.
 
-### Letter 86: Arthur Hardy
+### Letter 83: Arthur Hardy
 
 ### To <span class="small-caps">Arthur Hardy</span>, of Adelaide.
 
@@ -2093,13 +2033,11 @@ and died as he had lived, faithful to them all.
 
 > *[Margin: 1856 — Aetat. 50.]*
 
-<span class="small-caps">My dear Hardy</span>,— . . . I suppose Macaulay's third
-
-and fourth volumes are as popular at Adelaide as in London. They are, as you say, “pleasant reading but not exactly history.” His object is to strike, and he attains it; but it is by scene-painting—he aims at stronger effects than truth warrants, and so caricatures many of his personages as to leave it unaccountable how they can have done what they did. If Sarah, Duchess of Marlborough, had been nothing but a thoroughly unprincipled shrew, without talent or any one valuable or amiable quality (as he makes her), could she have been, by mere personal influence, for many years the most powerful person in England? This disregard of consistency and probability spoils the book even as a work of art. What a difference between it and Grote's "History of Greece," which is less brilliant, but far more interesting in its simple veracity, and because, instead of striving to astonish, he strives to comprehend and explain. . . .
+<span class="small-caps">My dear Hardy</span>,— . . . I suppose Macaulay's third and fourth volumes are as popular at Adelaide as in London. They are, as you say, “pleasant reading but not exactly history.” His object is to strike, and he attains it; but it is by scene-painting—he aims at stronger effects than truth warrants, and so caricatures many of his personages as to leave it unaccountable how they can have done what they did. If Sarah, Duchess of Marlborough, had been nothing but a thoroughly unprincipled shrew, without talent or any one valuable or amiable quality (as he makes her), could she have been, by mere personal influence, for many years the most powerful person in England? This disregard of consistency and probability spoils the book even as a work of art. What a difference between it and Grote's "History of Greece," which is less brilliant, but far more interesting in its simple veracity, and because, instead of striving to astonish, he strives to comprehend and explain. . . .
 
 > *[Margin: 1856 — Aetat. 50.]*
 
-### Letter 87: Sunday League
+### Letter 84: Sunday League
 
 ### To the Secretary of the Sunday League.
 
@@ -2111,10 +2049,9 @@ and fourth volumes are as popular at Adelaide as in London. They are, as you say
 
 I am also unable to give my adhesion to various expressions in the Declaration which partake of the nature of a compliance with cant ; such as the “desecration of the Sunday, and the preservation of its original purpose of a day of devotion.” The devotion which is not felt equally at all times does not deserve the name ; and it is one thing to regard the observance of a holiday from ordinary work on one day in the week as a highly beneficial institution, and another to ascribe any sacredness to the day, a notion so forcibly repudiated in the quotations from great religious authorities on your fourth page, and which I hold to be as mere a superstition as any of the analogous prejudices which existed in times antecedent to Christianity.
 
-### Letter 88: the author of “Currency Self-Regulating and Elastic.”
+### Letter 85
 
-### To the author of “Currency Self-Regulating
-and Elastic.”
+### To the author of “Currency Self-Regulating and Elastic.”
 
 <span class="small-caps">East India House</span>, *24th November* 1856.
 
@@ -2130,10 +2067,9 @@ If it were true that no increase of the quantity of money when taking place thro
 
 I must add that I agree with most of your comments on the Act of 1844, and should think them calculated to be very useful if they were dissevered from so much that I conceive to be erroneous.
 
-### Letter 89: Costantino Baer
+### Letter 86: Costantino Baer
 
-### To <span class="small-caps">Costantino Baer</span>, attaché au Ministère
-de l’Intérieur à Naples.
+### To <span class="small-caps">Costantino Baer</span>, attaché au Ministère de l’Intérieur à Naples.
 
 <span class="small-caps">East India House</span>, *13th December* 1856.
 
@@ -2149,7 +2085,7 @@ Pour ce qui regarde les applications de l'économie politique, je vois que, ains
 
 ## CHAPTER VI 1857-1859
 
-### Letter 90: J. S. Mill → Pasquale Villari
+### Letter 87: J. S. Mill → Pasquale Villari
 
 ### To <span class="small-caps">Pasquale Villari.</span>
 
@@ -2173,7 +2109,7 @@ Vous me feriez grand plaisir en m'écrivant quelquefois. Notre entrevue d'il y a
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 91: Henry Carleton
+### Letter 88: Henry Carleton
 
 ### To <span class="small-caps">Henry Carleton</span>, of Philadelphia.
 
@@ -2187,7 +2123,7 @@ There is something doing in this country also for the “Association Philosophy.
 
 I hope that like myself you have been successful in warding off your chest complaint, and that your eyesight, to which your preface alludes, is at least not getting worse.
 
-### Letter 92: F. Sinnett
+### Letter 89: F. Sinnett
 
 ### To F. <span class="small-caps">Sinnett</span>, of Melbourne.
 
@@ -2203,7 +2139,7 @@ The newly introduced Parliamentary government of the provinces seems to have som
 
 The following letter was written in reply to a request to sign a Memorial demanding an Educational Franchise:—
 
-### Letter 93
+### Letter 90
 
 <span class="small-caps">East India House</span>, *11th December* 1857.
 
@@ -2217,7 +2153,7 @@ The only provisions for increasing the influence of the educated class of voters
 
 I may add that I *should* be glad to see a representation given to the graduates of the University of London, such as is already possessed by Oxford, Cambridge, and Dublin.
 
-### Letter 94: John Holmes
+### Letter 91: John Holmes
 
 ### To <span class="small-caps">John Holmes</span>, of Leeds,
 
@@ -2231,7 +2167,7 @@ I may add that I *should* be glad to see a representation given to the graduates
 
 > *[Margin: 1858 — Aetat. 51.]*
 
-### Letter 95: Giuseppe Mazzini
+### Letter 92: Giuseppe Mazzini
 
 ### <span class="small-caps">To Giuseppe Mazzini.</span>
 
@@ -2243,7 +2179,7 @@ I may add that I *should* be glad to see a representation given to the graduates
 
 > *[Margin: 1858 — Aetat. 51.]*
 
-### Letter 96: J. S. Mill → Pasquale Villari
+### Letter 93: J. S. Mill → Pasquale Villari
 
 ### To <span class="small-caps">Pasquale Villari</span>.
 
@@ -2261,7 +2197,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 J'espérais vous offrir depuis longtemps mon petit livre sur la Liberté, mais plusieurs raisons m'ont décidé à ne pas le faire imprimer cet hiver. Au reste il n'a guère de valoir que pour l'Angleterre. Il traite de la liberté morale et intellectuelle, en quoi les nations du Continent sont autant au-dessus de l'Angleterre qu'elles lui sont inférieures quant à la liberté politique.
 
-### Letter 97: William Newmarch
+### Letter 94: William Newmarch
 
 ### To <span class="small-caps">William Newmarch</span>.
 
@@ -2275,7 +2211,7 @@ I have been turning over in my mind the proposal which was the subject of your n
 
 > *[Margin: 1858 — Aetat. 51.]*
 
-### Letter 98: Giuseppe Mazzini
+### Letter 95: Giuseppe Mazzini
 
 ### To <span class="small-caps">Giuseppe Mazzini</span>,
 
@@ -2289,7 +2225,7 @@ Mill received a very large number of letters from unknown correspondents. These 
 
 > *[Margin: 1858 — Aetat. 52.]*
 
-### Letter 99: J. Britten
+### Letter 96: J. Britten
 
 ### To J. <span class="small-caps">Britten.</span>
 
@@ -2299,7 +2235,7 @@ Mill received a very large number of letters from unknown correspondents. These 
 
 You are not the first, nor the hundredth, person who has thought that he was able to prove “that a large majority of the principles or dogmas usually accepted by economists as being the settled principles of the science are wholly fallacious.” I have read many such attempts; some of them more or less ingenious, others merely stupid, but all showing equal incapacity of seeing through the most obvious paralogisms; and not only did none of them, in my judgment, effect their object, but I have rarely found that anything was to be learnt from them, even incidentally. Having obtained no better fruits from a considerable course of such reading, I may claim to be excused from giving time which I can ill spare, to the examination of any new attempts of the kind, unless I have some special reason to expect that it will differ very much from its predecessors. And I certainly cannot accede to your proposal, that I should not merely study the book which is to refute me and all other political economists, but also assist you in writing it.
 
-### Letter 100: Pasquale Villari
+### Letter 97: Pasquale Villari
 
 ### To <span class="small-caps">Pasquale Villari.</span>
 
@@ -2313,7 +2249,7 @@ Vos observations sur l'Inde sont d'une grande justesse, vu le peu de documents q
 
 > *[Margin: 1858 — Aetat. 52.]*
 
-### Letter 101: Judge Chapman
+### Letter 98: Judge Chapman
 
 ### To Judge <span class="small-caps">Chapman</span>,
 
@@ -2321,9 +2257,7 @@ Vos observations sur l'Inde sont d'une grande justesse, vu le peu de documents q
 
 <span class="small-caps">East India House</span>, *8th July* 1858.
 
-<span class="small-caps">My dear Chapman</span>,—You are a much better corre-
-
-spondent than I am, and I really do not know how many letters I have received from you since I wrote one. I am always busy and have been particularly so of late, but your last letter especially contains so many points of interest that I will not delay any longer replying to it.
+<span class="small-caps">My dear Chapman</span>,—You are a much better correspondent than I am, and I really do not know how many letters I have received from you since I wrote one. I am always busy and have been particularly so of late, but your last letter especially contains so many points of interest that I will not delay any longer replying to it.
 
 The history it contains of the constitutional changes which have succeeded one another in your colony since what may be called its enfranchisement, has connected and made intelligible the scattered information I had picked up from the newspapers. You have certainly now obtained a very democratic constitution, and I am glad to see by the papers that you have yourself, since you wrote, had the forming of an administration to work it. No constitution, less democratic, would be either practicable or probably desirable in the long run, in a society composed like that of the Australian colonies. The only thing which seems wanting to make the suffrage really universal is to get rid of the Toryism of sex, by admitting women to vote, and it will be a great test how far the bulk of your population deserve to have the suffrage themselves, their being willing or not to extend it to women. I am sorry, by the way, that the vulgar and insulting expression “manhood suffrage” has found its way to Australia: whether so intended or not, it asserts the exclusion of women as a doctrine, which is worse than merely ignoring them, as was done by giving the name universal suffrage to a suffrage limited to men. The adoption of the ballot in Victoria has made some noise here, and has been a good deal appealed to by its advocates in Parliament. You have heard no doubt of the dinner given to Nicholson. It will perhaps surprise you that I am not now a supporter of the ballot, though I am far from thinking that I was wrong in supporting it formerly. You remember, I dare say, a passage which always seemed to me highly philosophical in my father's “History of India,” when he discriminates between the cases in which the ballot is in his estimation desirable and those in which it is undesirable: now I think that the election of members of Parliament has passed, in the course of the last twenty-five years, out of the former class into the latter. In the early part of the century there was more probability of bad votes from the coercion of others than from the voter's own choice; but I hold that the case is now reversed, and that an elector gives a rascally vote incalculably oftener from his own personal or class interest, or some mean feeling of his own, the influence of which would be greater under secret suffrage, than from the prompting of some other person who has power over him. Coercive influences have vastly abated, and are abating every day: a landlord cannot now afford to part with a good tenant because he is not politically subservient; and even if there were universal suffrage, the idea of a manufacturer forcing his workpeople to vote against the general policy of their class, is almost out of the question; in this as in so many other things, *defendit numerus.* If these things are true in England, they must be still more true in Australia, where I cannot imagine that any artificial security can be required to ensure freedom of voting. But if there be even a doubt on the subject the doubt ought merely to turn the scale in favour of publicity. Nothing less than the most positive and powerful reasons of expediency would justify putting in abeyance a principle so important in forming the moral character either of an individual or a people, as the obligation on every one to be ready to avow and justify whatever he does affecting the interests of others. I have long thought that in this lies the main advantage of the public opinion sanction; not in compelling or inducing people to act as public opinion dictates, but in making it necessary for them if they do not, to have firm ground in their own conviction to stand on, and to be capable of maintaining it against attack. I shall probably at some time write and publish something about the ballot which will show the grounds of my present opinion more fully and perhaps more clearly than I have now done. There is another constitutional point which I must touch upon, because you say you have quoted me on the subject and my former opinion is, to say the least, very much shaken—the payment of members of Parliament. There is, no doubt, something to be said for it, especially where, as you remark, there is no unoccupied class; but I am afraid of its raising up just such a class, of men without any fixed occupation but that of being in Parliament, for the sake of the certain payment as members and the possible one as placemen. Certainly, by all accounts the American legislatures, both State and Federal, are very much composed of a low class of adventurers whose principal object is money, and some Americans have a decided opinion that the payment of members is one great cause of this. By the way, as you have quoted Bailey and me on this subject, I wish you would quote us on the subject of women's suffrage also. The representation of minorities seems to me not only a good but a highly democratic measure. The ideal of a democracy is not that a mere majority of the people should have all the representation, but that if possible every portion of the constituency should possess an influence in the election proportional to its numbers. This cannot be realised literally, but it seems to me a good arrangement that any portion of the constituency amounting to a third should be able to obtain a third of the representation by concerting to aim at no more. This should not be done by limiting each voter to fewer votes than there are members to be elected, which, curtailing the power of the individual voter, must always be unpopular. The plan I like is the cumulative method, which I am glad to see has been carried. This plan has also the advantage that when a voter can give all his votes to one person, intensity of preference carries weight as well as the mere fact of preference, an arrangement very favourable to candidates who stand on personal merit as compared with those who are voted for only because they belong to a party. I see you think that this plan will increase the influence of the Irish Catholics: notwithstanding my good opinion of Duffy, I should be sorry for this result, but the objection is only temporary and the advantage permanent. About education and the public lands, you seem to be in the right track, and with a good prospect of keeping in it.
 
@@ -2335,24 +2269,21 @@ The history it contains of the constitutional changes which have succeeded one a
 
 There is probably little I could tell you about English politics that you do not already know. The East India Company has fought its last battle, and I have been in the thick of the fight. The Company is to be abolished, but we have succeeded in getting nearly all the principles that we contended for adopted in constituting the new government, and our original assailants feel themselves much more beaten than we do. The change—though not so bad as at first seemed probable—is still, in my opinion, much for the worse. The difficulty of governing India in any tolerable manner, already so much increased by the Mutiny and its consequences, will become an impossibility if a body so ignorant and incompetent on Indian (to say nothing of other) subjects as Parliament, comes to make a practice of interfering. In other respects politics are more satisfactory than usual; the defeat of all the attempts to make England instrumental in keeping Louis Napoleon where he is, and the conversion of the Tory chiefs into temporary Radicals for the purpose of remaining in place, are the best things that have happened in Europe for a long time. The complete disconcerting of the old place-hunters, and the failure of all their attempts to form a party, are very agreeable and amusing to all but themselves.
 
-### Letter 102: J. S. Mill → Louis Blanc
+### Letter 99: J. S. Mill → Louis Blanc
 
 ### To <span class="small-caps">Louis Blanc</span>,
 
-### acknowledging his book, “ 1848: Historical Revela-
-tions.”
+### acknowledging his book, “ 1848: Historical Revela- tions.”
 
 <span class="small-caps">Blackheath Park</span>, *le* 9 *juillet* 1858.
 
 > *[Margin: 1858 — Aetat. 52.]*
 
-<span class="small-caps">Mon cher Monsieur Louis Blanc</span>,—Pardonnez moi
-
-de n’avoir pas encore reconnu réception de votre excellent livre. D’abord je voulais le lire avant de parler, et plus tard je fus si occupé que j’ai ajourné toute lettre qui pouvait souffrir un retard. Je vous aurais assurément témoigné mes remercîments la première fois que je vous eusse vu.
+<span class="small-caps">Mon cher Monsieur Louis Blanc</span>,—Pardonnez moi de n’avoir pas encore reconnu réception de votre excellent livre. D’abord je voulais le lire avant de parler, et plus tard je fus si occupé que j’ai ajourné toute lettre qui pouvait souffrir un retard. Je vous aurais assurément témoigné mes remercîments la première fois que je vous eusse vu.
 
 C’est presque une chose heureuse qu’un homme léger et sans autorité comme Lord Normanby, ait reproduit les calomnies ridicules et atroces de 1848, puisque cela vous a donné une occasion de les écraser comme vous avez fait. Lord Normanby, comme l’aristocratie et la bourgeoisie anglaise en général, a tout simplement cru ce que lui disaient les contre-révolutionnaires français qu’il voyait, et dont l’opinion anglaise vulgaire est devenue l’écho. Parmi les membres du gouvernement provisoire, Lamartine est le seul qu’il voyait aussi, et le seul, par conséquent, qu’il n’a pas injurié. S’il vous eût fréquenté, il aurait fait de vous aussi une exception. Ce n’est pas un malhonnête homme mais il a toutes les faiblesses de sa classe, et entre autres celle d’adopter sans examen sur les affaires des autres pays, tous les préjugés et tous les *on dits* de ceux qu’il regarde comme représentant l’opinion conforme à celle de son parti en Angleterre. Tous ces mensonges-là étaient oubliés, mais l’impression restait, et il fallait qu’on les rappelât de l’oubli pour qu’il fût possible en les répétant d’en atténuer l’effet. Il n’y a pas d’opinion à laquelle on tient aussi fortement qu’à celle dont on a oublié les fondements. Vous avez bien profité de l’occasion. Votre ouvrage sera historique et ceux qui désirent la vérité pourront désormais en juger par eux-mêmes en comparant l’accusation et la réponse. Aussi vous avez dû voir que la réfutation n’a pas été sans effet. Toutes les notices qu’on a faites sur votre ouvrage, du moins, toutes celles que j'ai vues, malgré l'extrême ignorance propre aux écrivains anglais sur la politique étrangère, laissent voir que si vous n'avez pas beaucoup ébranlé les préventions contraires aux hommes et aux évènements de 1848, du moins on a ressenti l'effet de la loyauté et de la franchise de vos explications.
 
-*[Illustration, p. 220]*
+*[Illustration, p. 274]*
 
 M<span class="small-caps">rs.</span> <span class="small-caps">JOHN STUART MILL</span>  
 *From a Cameo*
@@ -2363,7 +2294,7 @@ Vous n'êtes pas oublié ici. Ma femme vous cite souvent et me prie aussi de vou
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 103: in reply → George Grote
+### Letter 100: George Grote
 
 ### To <span class="small-caps">George Grote</span>,
 
@@ -2377,10 +2308,9 @@ If I were to attempt to express in the most moderate terms what she was, even yo
 
 Pray express to Mrs. Grote my gratitude for her kind sympathy. I will write again soon.
 
-### Letter 104: James Lorimer
+### Letter 101: James Lorimer
 
-### To <span class="small-caps">James Lorimer</span>,
-on Plural Voting.
+### To <span class="small-caps">James Lorimer</span>, on Plural Voting.
 
 <span class="small-caps">Blackheath</span>, *3rd March* 1859.
 
@@ -2398,7 +2328,7 @@ acknowledging his book on Representation. In this book was described the scheme,
 
 > *[Margin: 1859 — Aetat. 52.]*
 
-### Letter 105: J. S. Mill → Thomas Hare
+### Letter 102: J. S. Mill → Thomas Hare
 
 *3rd March* 1859.
 
@@ -2412,22 +2342,19 @@ Allow me to add that while I so entirely concur both in the principles of your b
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 106: Pasquale Villari
+### Letter 103: Pasquale Villari
 
-### To <span class="small-caps">Pasquale Villari</span>,
-in reply to a letter of condolence on the death of Mrs. Mill.
+### To <span class="small-caps">Pasquale Villari</span>, in reply to a letter of condolence on the death of Mrs. Mill.
 
 *le* 6 *mars* 1859.
 
-<span class="small-caps">Mon cher M. Villari</span>,—A mon retour d'une absence
-
-j'ai trouvé votre bonne et affectueuse lettre. J'y reconnais une sincérité de sympathie qui toujours soulage un peu le malheur dont elle ne console point. Je voudrais pouvoir, de quelque façon que ce soit, vous rendre ce bien. Si j'avais pu vous faire connaître celle qui n'est plus, il me semble que je vous aurais plus que payé de tout bienfait et de toute amitié qu'il eût été possible de recevoir. Elle était non seulement le cœur le plus aimant et l'âme la plus élevée, mais aussi l'esprit le plus profond et le jugement le plus infaillible qu'il m'a été donné de connaître. Tout ce qu'on trouve de meilleur dans mes écrits n'est que la plus pâle réflexion de ses lumières et de sa grande âme—et l'on s'en apercevra bien, je le crains, dans ce qui me reste à faire, malgré tous mes efforts pour me diriger toujours par son souvenir.
+<span class="small-caps">Mon cher M. Villari</span>,—A mon retour d'une absence j'ai trouvé votre bonne et affectueuse lettre. J'y reconnais une sincérité de sympathie qui toujours soulage un peu le malheur dont elle ne console point. Je voudrais pouvoir, de quelque façon que ce soit, vous rendre ce bien. Si j'avais pu vous faire connaître celle qui n'est plus, il me semble que je vous aurais plus que payé de tout bienfait et de toute amitié qu'il eût été possible de recevoir. Elle était non seulement le cœur le plus aimant et l'âme la plus élevée, mais aussi l'esprit le plus profond et le jugement le plus infaillible qu'il m'a été donné de connaître. Tout ce qu'on trouve de meilleur dans mes écrits n'est que la plus pâle réflexion de ses lumières et de sa grande âme—et l'on s'en apercevra bien, je le crains, dans ce qui me reste à faire, malgré tous mes efforts pour me diriger toujours par son souvenir.
 
 Vous me demandez comment cette catastrophe est arrivée. Nous étions en route pour le midi—nous voulions passer l'hiver à Hyères et le printemps en Italie, peut-être à Florence. Quoique délicate, elle se portait bien lors de notre départ, mais la fatigue du voyage ou quelque cause inconnue a déterminé à Avignon une attaque de poitrine qui, quoique sérieuse, ne sembla dangereuse que le jour même qui fut le dernier de sa vie. Ainsi l'affranchissement que j'avais désiré et dont je me promettais tant de bien pour nous deux, est devenu le malheur de ma vie, et c'est peu de chose ; car Dieu sait que j'aurais racheté de tout mon bonheur sa simple existence même eloignée de moi. Il me semble que j'aurais pu tout supporter excepté qu'elle cessât d'être.
 
 J'ai acheté une petite maison près de son tombeau. . . .
 
-### Letter 107: Alexander Bain
+### Letter 104: Alexander Bain
 
 ### To <span class="small-caps">Alexander Bain</span>.
 
@@ -2437,7 +2364,7 @@ J'ai acheté une petite maison près de son tombeau. . . .
 
 <span class="small-caps">Dear Bain</span>,—I am glad that you like the “Liberty” so much and agree with so many of the heresies of the Reform pamphlet. With regard to the plural voting, one must not withhold one’s opinion as to what is right in principle because one does not see one’s way to getting it fully acted on. The right principle, put into a legislator’s head, may decide his judgment on some important practical question involving the same principle. It is a great point also to meet the claims of mere numbers with something which appeals to the reason and sense of justice of the numbers themselves, which no other mode of inequality of political rights does. One must never suppose what is good in itself to be visionary because it may be far off. That this is not really visionary is illustrated by the fact that Mr. Holyoake has already taken it up warmly and in the most unqualified form. . . .
 
-### Letter 108: in reply → Pasquale Villari
+### Letter 105: Pasquale Villari
 
 ### To <span class="small-caps">Pasquale Villari</span>,
 
@@ -2453,7 +2380,7 @@ Passons maintenant aux affaires de l'Italie. Je ne m'étonne point de l'illusion
 
 > *[Margin: 1859 — Aetat. 52.]*
 
-### Letter 109: Thomas Hare
+### Letter 106: Thomas Hare
 
 ### To <span class="small-caps">Thomas Hare.</span>
 
@@ -2465,7 +2392,7 @@ Your plan, if kept before the public, will be adopted as soon as any really larg
 
 Does Gladstone know of your book? I should think him, of all prominent public men, the likeliest to appreciate it. . . .
 
-### Letter 110: James Lorimer
+### Letter 107: James Lorimer
 
 ### To <span class="small-caps">James Lorimer</span>,
 
@@ -2479,16 +2406,13 @@ who was beginning to be known as an author.
 
 I hope you may yet find some channel for saying all you would wish to say in reply to me. If you do, you could not oblige me more than by telling me where it is to be found.
 
-### Letter 111: Thomas Hare
+### Letter 108: Thomas Hare
 
-### To <span class="small-caps">Thomas Hare</span>,
-after Lord Derby's resignation, when Lord Granville was endeavouring to form a Cabinet.
+### To <span class="small-caps">Thomas Hare</span>, after Lord Derby's resignation, when Lord Granville was endeavouring to form a Cabinet.
 
 <span class="small-caps">St. Véran</span>, *17th June* 1859.
 
-<span class="small-caps">Dear Sir</span>,—I was very glad to hear from you again,
-
-and particularly so to hear that you are going to have the opportunity of a public discussion at the Social Science meeting. What is wanted is to get the subject much written about and talked of, previously to which the theory that two and two make four was no doubt regarded as a paradox, and such people as Disraeli got up in public places and attacked their political opponents for maintaining it. How I should have liked to have been there to answer him on the spot. But there was nobody to do it. I like your idea of writing a paper and sending it to the members of the Association; but am doubtful about attaching signatures to it. That foolish memorial to Lord Palmerston has thrown a wet blanket on the idea. I suppose you will give brief and pungent answers to the popular objections against the plan, which are only expressions in varied phrase of the popular inability to understand it. When there is anything definite in the objections the truth is generally the reverse of what is asserted. For instance, it is supposed that the plan would enable minorities to govern, whereas the fact is that *now* a minority very often governs (by being the majority of a majority), while under your plan a minority never could by any possibility do so. It is the only plan which *ensures* government by the majority.
+<span class="small-caps">Dear Sir</span>,—I was very glad to hear from you again, and particularly so to hear that you are going to have the opportunity of a public discussion at the Social Science meeting. What is wanted is to get the subject much written about and talked of, previously to which the theory that two and two make four was no doubt regarded as a paradox, and such people as Disraeli got up in public places and attacked their political opponents for maintaining it. How I should have liked to have been there to answer him on the spot. But there was nobody to do it. I like your idea of writing a paper and sending it to the members of the Association; but am doubtful about attaching signatures to it. That foolish memorial to Lord Palmerston has thrown a wet blanket on the idea. I suppose you will give brief and pungent answers to the popular objections against the plan, which are only expressions in varied phrase of the popular inability to understand it. When there is anything definite in the objections the truth is generally the reverse of what is asserted. For instance, it is supposed that the plan would enable minorities to govern, whereas the fact is that *now* a minority very often governs (by being the majority of a majority), while under your plan a minority never could by any possibility do so. It is the only plan which *ensures* government by the majority.
 
 I see no prospect of anything but mischief from the change of Ministry. Its effect on foreign affairs will be bad, and dangerously so, while reform will not be benefited. The new Cabinet will never be able to agree on anything but the well-worn useless shibboleths of Whig mitigated democracy, and besides, they will be unwilling to propose anything new from the certainty that the Tories would oppose it, would by misrepresentation rouse vulgar prejudices against it, and finally throw it out in the Lords. The Liberals by refusing to take the bill of the late Government as the foundation for theirs, have given redoubled force to the mischievous custom almost universal in Parliament that whatever one party brings forward the other is sure to oppose, whereby the enemies of change, even if very far from being a majority, are able to combine with the opponents and defeat the proposals of either. All parties seem to have joined in working the vices and weak points of popular representation for their miserably low selfish ends, instead of uniting to free representative institutions from the mischief and discredit of them.
 
@@ -2496,7 +2420,7 @@ I see no prospect of anything but mischief from the change of Ministry. Its effe
 
 > *[Margin: — Aetat. 53.]*
 
-### Letter 112: Pasquale Villari
+### Letter 109: Pasquale Villari
 
 ### To <span class="small-caps">Pasquale Villari</span>
 
@@ -2506,7 +2430,7 @@ I see no prospect of anything but mischief from the change of Ministry. Its effe
 
 <span class="small-caps">Mon cher Monsieur Villari</span>,—Je ne vais pas renouveler notre discussion sur les affaires politiques. S'il dépendait de moi je ne voudrais pas maintenant vous décourager. Le sort est jeté et je souhaite ardemment que l'évènement réponde à vos désirs. Seulement tâchez de ne pas mal penser de l'Angleterre à cette occasion, et surtout gardez vous de croire qu'elle ne sympathise pas avec l'Italie. Cette sympathie est tellement forte qu'en ce moment elle suffit pour balancer non seulement la méfiance et la haine que doit inspirer une ambition criminelle, mais encore les motifs les plus graves de sûreté nationale. Songez que l'Autriche est la seule alliée sur laquelle nous aurions pu compter (car il n'y a pas de fonds à faire sur la Prusse et l'Allemagne sans l'Autriche) dans le cas très probable où nous aurions à lutter pour notre existence nationale contre la France et la Russie réunies. Dans cette lutte nous n'aurons plus l'Autriche avec nous, d'abord parcequ'elle sera probablement trop affaiblie, ensuite parcequ'elle sera trop offensée de notre neutralité actuelle. Nous aurons, hélas, l'Italie contre nous, car vous serez forcés de suivre dans toutes ses guerres votre prétendu libérateur. Ainsi l'ombre d'indépendance dont on vous flatte aura pour résultat que vous aiderez à abattre la seule liberté bien affermie qui existe dans l'ancien Continent. Vous nous pardonnerez, j'espère, de n'être pas très enthousiasmés de cette perspective. Si vous pensez sérieusement là-dessus vous verrez que ce danger doit être désormais la principale préoccupation de nos hommes d'état. Assurément tout le parti liberal aurait demandé la guerre contre la France, pendant que nous avons encore des alliés, n'étant la répugnance que lui inspire l'idée d'appuyer la domination de l'Autriche sur l'Italie. . . .
 
-### Letter 113: Alexander Bain
+### Letter 110: Alexander Bain
 
 ### To <span class="small-caps">Alexander Bain</span>.
 
@@ -2520,7 +2444,7 @@ The “Liberty” has produced an effect on you which it was never intended to p
 
 > *[Margin: 1859 — Aetat. 53.]*
 
-### Letter 114: Alexander Bain
+### Letter 111: Alexander Bain
 
 ### To <span class="small-caps">Alexander Bain.</span>
 
@@ -2530,7 +2454,7 @@ The “Liberty” has produced an effect on you which it was never intended to p
 
 > *[Margin: 1859 — Aetat. 53.]*
 
-### Letter 115: Alexander Bain
+### Letter 112: Alexander Bain
 
 ### To <span class="small-caps">Alexander Bain.</span>
 
@@ -2538,9 +2462,7 @@ The *Edinburgh* article referred to in the following letter, was Mill's review o
 
 <span class="small-caps">St. Véran</span>, 14*th November* 1859.
 
-<span class="small-caps">Dear Bain</span>,—I am glad that you and Grote like the
-
-article in the *Edinburgh*. It is a considerable thing to have got the editor to say that the experience philosophy and the association psychology are getting up again, and to praise and recommend a book on that side of the question. I shall look with interest for Grote's article when he is able to write it. With regard to his Plato, one would be reconciled to the long time he spends over it if he were going to speak out his whole mind at last. But his timidity on the population subject is of bad augury. It would be easy enough to keep from any close contact with the physical part of the subject, and yet convey clearly enough all he means, or needs to say. But he seems to be incurable. I have no doubt, however, that there will be much useful and improving matter in his book, and the longer he is in finishing it, the more thought there is likely to be in it when it is done. And with this I shall have to be contented, in default of better.
+<span class="small-caps">Dear Bain</span>,—I am glad that you and Grote like the article in the *Edinburgh*. It is a considerable thing to have got the editor to say that the experience philosophy and the association psychology are getting up again, and to praise and recommend a book on that side of the question. I shall look with interest for Grote's article when he is able to write it. With regard to his Plato, one would be reconciled to the long time he spends over it if he were going to speak out his whole mind at last. But his timidity on the population subject is of bad augury. It would be easy enough to keep from any close contact with the physical part of the subject, and yet convey clearly enough all he means, or needs to say. But he seems to be incurable. I have no doubt, however, that there will be much useful and improving matter in his book, and the longer he is in finishing it, the more thought there is likely to be in it when it is done. And with this I shall have to be contented, in default of better.
 
 > *[Margin: 1859 — Aetat. 53.]*
 
@@ -2548,7 +2470,7 @@ It is very pleasant to hear that you will be ready with the discussion of Phreno
 
 I have just sent to Parker for next month's *Fraser* a paper on Non-Intervention, in which there are some severe things said of Lord Palmerston's conduct in opposing the Suez Canal. That affair is damaging the character of England on the Continent more than most people are aware of; it is so direct a confirmation of the old and false ideas respecting the selfish foreign policy of England.
 
-### Letter 116: J. S. Mill → Dr. W. G. Ward
+### Letter 113: J. S. Mill → Dr. W. G. Ward
 
 ### To Dr. W. G. W<span class="small-caps">ard</span>.
 
@@ -2580,12 +2502,11 @@ This is the nearest approach I am able to make to a theory of our moral feelings
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 117: J. S. Mill → Pasquale Villari
+### Letter 114: J. S. Mill → Pasquale Villari
 
 ### To <span class="small-caps">Pasquale Villari</span>,
 
-### who had been reviewing the “Political Economy” in
-an Italian Review.
+### who had been reviewing the “Political Economy” in an Italian Review.
 
 <span class="small-caps">St. Véran</span>, *le 29 novembre* 1859.
 
@@ -2601,10 +2522,9 @@ Je félicite le gouvernement toscan de votre nomination à la chaire d'histoire 
 
 J. S. <span class="small-caps">Mill</span>.
 
-### Letter 118: Edwin Chadwick
+### Letter 115: Edwin Chadwick
 
-### To <span class="small-caps">Edwin</span> (afterwards Sir <span class="small-caps">Edwin</span>) <span class="small-caps">Chadwick</span>,
-the sanitary reformer.
+### To <span class="small-caps">Edwin</span> (afterwards Sir <span class="small-caps">Edwin</span>) <span class="small-caps">Chadwick</span>, the sanitary reformer.
 
 *20th December* 1859.
 
@@ -2626,10 +2546,9 @@ I quite agree with you in expecting no benefit whatever from any Reform Bill lik
 
 ## CHAPTER VII 1860–1862
 
-### Letter 119: J. S. Mill → Charles Dupont-White
+### Letter 116: J. S. Mill → Charles Dupont-White
 
-### To <span class="small-caps">Charles Dupont-White</span>,
-on his book “La Centralisation.”
+### To <span class="small-caps">Charles Dupont-White</span>, on his book “La Centralisation.”
 
 <span class="small-caps">St. Véran</span>, *le 6 avril* 1860.
 
@@ -2649,7 +2568,7 @@ L'autre point sur lequel je veux dire un mot, c'est celui-ci. Je reconnais plein
 
 J. S. <span class="small-caps">Mill.</span>
 
-### Letter 120: Alexander Bain
+### Letter 117: Alexander Bain
 
 ### To <span class="small-caps">Alexander Bain</span>,
 
@@ -2663,7 +2582,7 @@ Another book I have been reading is Baden Powell's last,[^fn-p0298-1] which, tho
 
 > *[Margin: 1860 — Aetat. 54.]*
 
-### Letter 121: Charles Dupont-White
+### Letter 118: Charles Dupont-White
 
 ### To <span class="small-caps">Charles Dupont-White.</span>
 
@@ -2673,7 +2592,7 @@ Another book I have been reading is Baden Powell's last,[^fn-p0298-1] which, tho
 
 Il est vrai, comme vous dites, que l'Angleterre n'a plus à lutter contre la tyrannie ou la compression officielle, et en cela elle est sans doute plus avancée que la France—mais de même que beaucoup d'autres progrès, celui-ci promet plus qu'il ne tient. L'opinion a hérité de toutes les autres tyrannies. Son joug paraît léger, parce qu'on ne songe pas ordinairement à lutter contre lui. Il est entré dans les âmes. Tout se fait chez nous par contrainte morale. On trouve tant de petits obstacles à sortir de la voie commune en quoi que ce soit, que peu de monde le fait même en théorie, et il est presque impossible de le faire en pratique. Les classes supérieures, soit par leur position, soir par leur intelligence, n'y songent pas plus que les autres, et c'est ce qui fait que je ne fonde pas sur ces classes autant d'espérance que vous semblez le faire. Toutefois il y a en Angleterre beaucoup de choses qui semblent mortes, mais qui ne font que dormir, et qui sont capables de s'éveiller; témoin la renaissance de l'esprit militaire, qui peut-être ne contribuera pas peu à fausser les calculs de l'homme qui gouverne actuellement la France.
 
-### Letter 122: T. Cliffe Leslie
+### Letter 119: T. Cliffe Leslie
 
 ### To T. <span class="small-caps">Cliffe Leslie</span>, the political economist.
 
@@ -2687,7 +2606,7 @@ Il est vrai, comme vous dites, que l'Angleterre n'a plus à lutter contre la tyr
 
 The generalities of Buckle's theory are very vulnerable, and I hardly think he could have held by them if any competent person had criticised them before publication. He could have afforded to part with most of them, for the premises are much broader than was required to support his conclusions, and it is exactly in this unnecessary margin and overplus of premises that, as it seems to me, the error lies.
 
-### Letter 123: a Correspondent
+### Letter 120
 
 ### To a Correspondent.
 
@@ -2713,7 +2632,7 @@ With all that you say in affirmation of the universality of Law, and in refutati
 
 > *[Margin: 1860 — Aetat. 54.]*
 
-### Letter 124: the same Correspondent
+### Letter 121
 
 ### To the same Correspondent.
 
@@ -2729,7 +2648,7 @@ My address while abroad will be St. Véran, près Avignon, Vaucluse, France, and
 
 I have returned your treatise to-day by the book post.
 
-### Letter 125: Pasquale Villari
+### Letter 122: Pasquale Villari
 
 ### To <span class="small-caps">Pasquale Villari.</span>
 
@@ -2743,7 +2662,7 @@ I have returned your treatise to-day by the book post.
 
 Si cette lettre vous parvient, donnez moi je vous prie de vos nouvelles et croyez toujours à mon devouement et à ma véritable sympathie.
 
-### Letter 126: Gustave de Beaumont
+### Letter 123: Gustave de Beaumont
 
 ### To <span class="small-caps">Gustave de Beaumont</span>,
 
@@ -2759,7 +2678,7 @@ Si cette lettre vous parvient, donnez moi je vous prie de vos nouvelles et croye
 
 Quant à la correspondance je me réjouis d'apprendre que la partie sans doute très considérable, qui ne pourrait être imprimée quant à présent, est toute prête à l'être en temps convenable. Ce que vous en avez pu donner est d'une grande valeur par lui-même, et encore plus en faisant connaître ce qu'a été l'homme. Quelle idée ne se fait-on pas de la face d'intelligence et de la haute vertu de celui qui a pu se maintenir comme penseur et comme écrivain dans une élévation si sereine et si impartial au-dessus de toutes les misères de notre temps, quand on vient à apprendre que cet esprit si calme n'était rien moins que calme par nature et par tempérament, qu'il était d'un type tout opposé et que cela même faisait la plus grande souffrance de sa vie ? C'est une consolation pour ceux à qui sa mémoire est chère, qu'il fut heureux dans sa famille, qu'il eut des amis vrais, et qu'il fut apprécié de son vivant autant que cela puisse jamais arriver à un homme très au-dessus du vulgaire par l'esprit et par les sentiments.
 
-### Letter 127: Edwin Chadwick
+### Letter 124: Edwin Chadwick
 
 ### <span class="small-caps">To Edwin Chadwick.</span>
 
@@ -2769,7 +2688,7 @@ Quant à la correspondance je me réjouis d'apprendre que la partie sans doute t
 
 > *[Margin: 1861 — Aetat. 55.]*
 
-### Letter 128: in reply → Sir Henry Taylor
+### Letter 125: Sir Henry Taylor
 
 ### To Sir <span class="small-caps">Henry Taylor</span>,
 
@@ -2785,7 +2704,7 @@ Your letter of 28th May came while I was abroad, and I have not hitherto had tim
 
 I am very sorry to hear that your health imposes on you so much confinement. I hope that is the worst of the inconveniences it causes you. I too am not likely to forget the old days you remind me of, nor any of those with whom I used to discuss and compare notes, so agreeably and usefully to myself. If I have ceased to frequent them it is not from estrangement, but because society even of a good kind does less and less for me, and I have so much to do in the few years of life and health I can look forward to (though my health is now on the whole good), that I really have no time to spare for anything but what is at once absolutely necessary to me, and the only thing besides reading which is a real relaxation, active outdoor exercise. I do not, however, give up the hope of again seeing you, and to do so will always be a pleasure.
 
-### Letter 129: with reference → John Chapman
+### Letter 126: John Chapman
 
 ### To <span class="small-caps">John Chapman</span>,
 
@@ -2799,7 +2718,7 @@ I am very sorry to hear that your health imposes on you so much confinement. I h
 
 in the manner which he seems to suppose. I believe that I agree entirely with the views taken in Mr. Fawcett's article. But I do so specifically on the ground stated, I believe for the first time, by him, viz., that the power of striking tends to bring about something approximating to what I consider the only right organisation of labour, the association of workpeople with the employers by a participation of profits. I regard the payment of a fixed sum per day as essentially demoralising, and I disapprove of what the men are doing precisely because, as Mr. Harrison says, they are on the conservative side, standing up for the existing practice, a practice which is making workmen more and more fraudulent in the quality of their labour, just as dealers are in that of their goods. I see no hope of improvement but by altering this, and payment by the hour appears to be a step, though but a small one, towards making the pay proportional to the work done. At the same time, I think the men would be right in standing out for the recognition of a certain length of working day, beyond which the payment per hour should be higher, and that in this way it should be made the interest of the masters not to overwork the men.
 
-### Letter 130: T. Cliffe Leslie
+### Letter 127: T. Cliffe Leslie
 
 ### To T. <span class="small-caps">Cliffe Leslie</span>,
 
@@ -2807,9 +2726,7 @@ in the manner which he seems to suppose. I believe that I agree entirely with th
 
 <span class="small-caps">St. Véran</span>, 20*th December* 1861.
 
-<span class="small-caps">Dear Sir</span>,—I received the proof of your article only
-
-this morning. It is an able, and will be a useful paper, and puts some points in a new and forcible way, though I differ from it on several matters of detail and some of principle. The chief of these is the question of exempting savings, on which your arguments have not shaken my conviction. The strongest of them is that a tax on expenditure is unjust to those professional persons who are obliged to spend more than they gain in the early years of their career. It is impossible to answer this argument completely. But the force of it is much weakened by several considerations. In the first place, what the professional man is obliged to expend in maintaining himself before his earnings come in, is capital, and as such would, on my plan, have been *previously relieved* from the portion of income tax it now pays. The not taxing the capital when it was formed, is an equivalent for taxing it, when it is laid out. In the second place, the tax he pays on this outlay would, if savings were untaxed, be entirely refunded to him by the exemption he would enjoy in the process of replacing the outlay from his subsequent earnings. (This entirely refutes the last sentence of the first paragraph of page 114.) The inconvenience is thus limited to that of making an advance. That is doubtless a special disadvantage. But some inequalities are unavoidable in all modes of taxation; and even your plan would not relieve him from the whole of it, since taxing him on only two-thirds of his income would not come up to the requirements of the case of one whose income is less than half of his present expenditure.
+<span class="small-caps">Dear Sir</span>,—I received the proof of your article only this morning. It is an able, and will be a useful paper, and puts some points in a new and forcible way, though I differ from it on several matters of detail and some of principle. The chief of these is the question of exempting savings, on which your arguments have not shaken my conviction. The strongest of them is that a tax on expenditure is unjust to those professional persons who are obliged to spend more than they gain in the early years of their career. It is impossible to answer this argument completely. But the force of it is much weakened by several considerations. In the first place, what the professional man is obliged to expend in maintaining himself before his earnings come in, is capital, and as such would, on my plan, have been *previously relieved* from the portion of income tax it now pays. The not taxing the capital when it was formed, is an equivalent for taxing it, when it is laid out. In the second place, the tax he pays on this outlay would, if savings were untaxed, be entirely refunded to him by the exemption he would enjoy in the process of replacing the outlay from his subsequent earnings. (This entirely refutes the last sentence of the first paragraph of page 114.) The inconvenience is thus limited to that of making an advance. That is doubtless a special disadvantage. But some inequalities are unavoidable in all modes of taxation; and even your plan would not relieve him from the whole of it, since taxing him on only two-thirds of his income would not come up to the requirements of the case of one whose income is less than half of his present expenditure.
 
 > *[Margin: 1861 — Aetat. 55.]*
 
@@ -2817,7 +2734,7 @@ this morning. It is an able, and will be a useful paper, and puts some points in
 
 I think you overstate the case against taxes on articles of general consumption. You say that a duke's family does not consume very much more “of certain things” than an artisan's or a clerk's. Not nearly so much in proportion to their means; but much more absolutely, since they pay for all that is consumed by their servants and dependants. . . .
 
-### Letter 131: George Grote
+### Letter 128: George Grote
 
 ### To <span class="small-caps">George Grote.</span>
 
@@ -2837,19 +2754,15 @@ I am very glad that you like the papers on Utilitarianism so much. I am not more
 
 *P.S.*—As you truly say, the Protagorean Socrates lays down as the standard the happiness of the agent himself ; but this standard is composed of pleasure and pain, which ranges him upon the whole on the utilitarian side of the controversy.
 
-### Letter 132: Célestin de Blignières
+### Letter 129: Célestin de Blignières
 
-### <span class="small-caps">To Célestin de Blignières</span>,
-on his book “Exposition de la philosophie et de la
-religion positives.”
+### <span class="small-caps">To Célestin de Blignières</span>, on his book “Exposition de la philosophie et de la religion positives.”
 
 <span class="small-caps">St. Véran</span>, *le 22 janvier* 1862.
 
 > *[Margin: 1862 — Aetat. 55.]*
 
-<span class="small-caps">Monsieur</span>,—Le livre que vous avez eu la bonté de
-
-m’envoyer s’est trouvé être en effet le même que j’avais reçu il y a trois ou quatre ans. Il ne m’est pas pour cela inutile ; je suis en train de le relire et j’en ai déjà relu une grande partie. Ce livre me paraît très remarquable sous le rapport de l’exposition et de l’expression. Il résume les plus importantes doctrines de M. Comte avec une clarté que lui-même n’a pas surpassée, et de manière à offrir souvent, pour ainsi dire, de nouveaux reflets de lumière par la manière de présenter les ideés. Quant à la question qui fait, à ce qu’il paraît, votre principale différence avec M. Comte je suis assurément et pleinement de votre avis. Je crois, pourtant, que mon dissentiment va plus loin que le vôtre. On ne saurait faire mieux sentir que vous ne le faites la distinction fondamentale des pouvoirs temporel et spirituel, la nécessité de ce dernier, son existence universelle sous une forme ou sous une autre, et les suites funestes de sa réunion avec le pouvoir temporel. Voici maintenant en quoi je crois être en dissentiment avec vous. Je suis très porté à croire (sans vouloir décider positivement cette question pour l’avenir) que la nature même d’un pouvoir spirituel légitime ne comporte pas une organisation réelle. Tant qu’un accord essentiel de doctrines n’existe pas parmi les chefs spirituels, toute tentative d’organisation, en la supposant praticable, serait évidemment nuisible. Si au contraire, cet accord existait il me semble que l’organisation en corps ne serait pas nécessaire. L’autorité, qu’exerce dans les sciences positives l’opinion des savants, ne repose pas, ce me semble, sur leur réunion en Académies ou sous tout autre nom, mais sur le fait même de leur unanimité. D’ailleurs, leur organisation me donnerait des craintes sérieuses pour l’indépendance de la pensée. Tout corps scientifique organisé est toujours plus ou moins porté à repousser les innovations scientifiques, qui, pourtant, ne laissent pas d'être quelquefois nécessaires même dans les sciences qui ont reçu définitivement leur constitution positive. J'incline à croire que, lorsque l'accord général des opinions de ceux qui ont fait les études nécessaires s'étendra aux questions morales et sociologiques, la classe spéculative pourra être la classe enseignante, et exercer une grande et salutaire autorité morale, sans être organisée en corps sous une autorité dirigeante qui me semble toujours dangereuse. Je sais que la morale positive repousse toute prétention à se servir de moyens coercitifs pour agir sur les rénovateurs ; mais l'opinion générale, ralliée par une puissante autorité morale suffit toujours pour exercer une pression tyrannique sur la pensée ; et je ne puis oublier que M. Comte lui-même est allé jusqu'à vouloir détruire, à la manière des premiers chrétiens, les documents historiques du passé.
+<span class="small-caps">Monsieur</span>,—Le livre que vous avez eu la bonté de m’envoyer s’est trouvé être en effet le même que j’avais reçu il y a trois ou quatre ans. Il ne m’est pas pour cela inutile ; je suis en train de le relire et j’en ai déjà relu une grande partie. Ce livre me paraît très remarquable sous le rapport de l’exposition et de l’expression. Il résume les plus importantes doctrines de M. Comte avec une clarté que lui-même n’a pas surpassée, et de manière à offrir souvent, pour ainsi dire, de nouveaux reflets de lumière par la manière de présenter les ideés. Quant à la question qui fait, à ce qu’il paraît, votre principale différence avec M. Comte je suis assurément et pleinement de votre avis. Je crois, pourtant, que mon dissentiment va plus loin que le vôtre. On ne saurait faire mieux sentir que vous ne le faites la distinction fondamentale des pouvoirs temporel et spirituel, la nécessité de ce dernier, son existence universelle sous une forme ou sous une autre, et les suites funestes de sa réunion avec le pouvoir temporel. Voici maintenant en quoi je crois être en dissentiment avec vous. Je suis très porté à croire (sans vouloir décider positivement cette question pour l’avenir) que la nature même d’un pouvoir spirituel légitime ne comporte pas une organisation réelle. Tant qu’un accord essentiel de doctrines n’existe pas parmi les chefs spirituels, toute tentative d’organisation, en la supposant praticable, serait évidemment nuisible. Si au contraire, cet accord existait il me semble que l’organisation en corps ne serait pas nécessaire. L’autorité, qu’exerce dans les sciences positives l’opinion des savants, ne repose pas, ce me semble, sur leur réunion en Académies ou sous tout autre nom, mais sur le fait même de leur unanimité. D’ailleurs, leur organisation me donnerait des craintes sérieuses pour l’indépendance de la pensée. Tout corps scientifique organisé est toujours plus ou moins porté à repousser les innovations scientifiques, qui, pourtant, ne laissent pas d'être quelquefois nécessaires même dans les sciences qui ont reçu définitivement leur constitution positive. J'incline à croire que, lorsque l'accord général des opinions de ceux qui ont fait les études nécessaires s'étendra aux questions morales et sociologiques, la classe spéculative pourra être la classe enseignante, et exercer une grande et salutaire autorité morale, sans être organisée en corps sous une autorité dirigeante qui me semble toujours dangereuse. Je sais que la morale positive repousse toute prétention à se servir de moyens coercitifs pour agir sur les rénovateurs ; mais l'opinion générale, ralliée par une puissante autorité morale suffit toujours pour exercer une pression tyrannique sur la pensée ; et je ne puis oublier que M. Comte lui-même est allé jusqu'à vouloir détruire, à la manière des premiers chrétiens, les documents historiques du passé.
 
 > *[Margin: 1862 — Aetat. 55.]*
 
@@ -2859,10 +2772,9 @@ Cette manière de penser me conduit à admettre une certaine modification dans l
 
 Je compte partir dans huit jours pour un voyage en Orient, et ne retourner ici qu'à la fin de l'été. Bien qu'une lettre adressée Poste Restante à Athènes avant le milieu de mai me trouverait probablement, je n'ose vous proposer de m'écrire pendant mon absence ; mais ce serait toujours pour moi un plaisir de comparer mes idées avec celles de l'auteur d'un livre si recommandable par les qualités morales et intellectuelles qu'on ne peut pas manquer d'y reconnaître dans le vôtre.
 
-### Letter 133: Pasquale Villari
+### Letter 130: Pasquale Villari
 
-### To <span class="small-caps">Pasquale Villari</span>,
-on some characteristics of the Latin and Germanic races.
+### To <span class="small-caps">Pasquale Villari</span>, on some characteristics of the Latin and Germanic races.
 
 <span class="small-caps">St. Véran</span>, *le 26 janvier* 1862.
 
@@ -2878,7 +2790,7 @@ Ensuite, vous dites des peuples germaniques, qu'ils oscillent entre un mysticism
 
 Je pourrais remplir plusieurs feuilles des observations que vous avez bien voulu me demander sur votre brochure mais j'aime mieux réserver ces questions pour un temps où, soit en Italie, soit ici ou en Angleterre, nous pourrions discuter ensemble d'une manière plus satisfaisante les grandes questions philosophiques. En attendant je vous prie de me tenir au courant de tout ce que vous écrivez, car je tiens extrêmement à suivre vos idées. . . .
 
-### Letter 134: in reply → W. T. Thornton
+### Letter 131: W. T. Thornton
 
 ### To <span class="small-caps">W. T. Thornton</span>,
 
@@ -2886,9 +2798,7 @@ Je pourrais remplir plusieurs feuilles des observations que vous avez bien voulu
 
 <span class="small-caps">St. Véran</span>, 28*th January* 1862.
 
-<span class="small-caps">Dear Thornton</span>,—I have been very long in answering
-
-your letter of 25th December. The reason is that I waited for the return from Paris of the only person I know here, who has in any degree the same tastes, pursuits, and opinions with myself, and from whom I hoped to procure better information than any I have respecting the small landed proprietors here. He has not yet returned, and I am therefore less able than I hoped I should be to answer your questions. But I hope you will be here next autumn, when you can see him yourself and when we can investigate the matter together, so far as relates to this district, which, however, is in many respects unlike many other parts of France; as the south, also, is in many particulars unlike the north. One point of unlikeness here, to many other French provinces (but to how many I do not know) is that nearly all the working people have large families—that is, when the greater part of the children do not die; I fear that in many parts of France besides this, the population is kept down more by death, and less by prudence, than I formerly believed. There seems to be hardly such a thing as prudence in pecuniary matters here, on the part of the men, though often a great deal in the women, to whom exclusively the well-doing and prosperity of any working family seems here to be attributable. In consequence probably of the large families the idea of all the children supporting themselves on the parental bit of land seems not to exist in this country. Most peasants, who have land, seem to farm other land with it, as metayers or as bailiffs, and the majority of the children go out as domestic servants or labourers or artisans; these (one may suppose, and what little I know confirms it) do not desire, when the parents die, to take their share of the land; as they say, what could they do with it? but take their portion in money. This payment in money, however, as I surmise, helps to encumber the little landed proprietors. Another mode in which the large families tend to prevent division is that when the parent dies there are usually children under age, and as the legal difficulties of dividing the inheritance are in that case considerable, it sometimes remains undivided in the first instance, and is managed by one of the family on the joint account. There is an example of this in the case of a woman servant of ours, one of a large family, the youngest of whom, a son, is not yet of age, and the land is managed for them by an uncle, who pays them nothing, but is *censé* to expend the proceeds, whatever they are, on the land itself. Her notion of what should be done is, that when the youngest brother comes of age, those of the family who are well off, among whom she reckons herself, should give up their share to the rest, that of the remainder one brother should retain the land, and the others receive their shares in money. Then, she says, “when we are old we can go sometimes to see the home of our childhood.” This does not throw any light on the question of indebtedness as regards the land generally. But in this aspect Lavergne’s book, which I have read and which is on the whole very favourable to peasant proprietors, is extremely *rassurant.* I have never seen the burthens of the small proprietors estimated at so low an amount by anybody as they are by this most careful and well-informed authority. He says that the average indebtedness of the whole landed property of France does not exceed a tenth of the value, and in the case of rural property, a twentieth. The burthen of interest he estimates up to a late period at 10 per cent., but thinks that it must now be considerably less ; but the previous amount of mortgage debts, you see, is not at all consistent with Louis Blanc's impressions.
+<span class="small-caps">Dear Thornton</span>,—I have been very long in answering your letter of 25th December. The reason is that I waited for the return from Paris of the only person I know here, who has in any degree the same tastes, pursuits, and opinions with myself, and from whom I hoped to procure better information than any I have respecting the small landed proprietors here. He has not yet returned, and I am therefore less able than I hoped I should be to answer your questions. But I hope you will be here next autumn, when you can see him yourself and when we can investigate the matter together, so far as relates to this district, which, however, is in many respects unlike many other parts of France; as the south, also, is in many particulars unlike the north. One point of unlikeness here, to many other French provinces (but to how many I do not know) is that nearly all the working people have large families—that is, when the greater part of the children do not die; I fear that in many parts of France besides this, the population is kept down more by death, and less by prudence, than I formerly believed. There seems to be hardly such a thing as prudence in pecuniary matters here, on the part of the men, though often a great deal in the women, to whom exclusively the well-doing and prosperity of any working family seems here to be attributable. In consequence probably of the large families the idea of all the children supporting themselves on the parental bit of land seems not to exist in this country. Most peasants, who have land, seem to farm other land with it, as metayers or as bailiffs, and the majority of the children go out as domestic servants or labourers or artisans; these (one may suppose, and what little I know confirms it) do not desire, when the parents die, to take their share of the land; as they say, what could they do with it? but take their portion in money. This payment in money, however, as I surmise, helps to encumber the little landed proprietors. Another mode in which the large families tend to prevent division is that when the parent dies there are usually children under age, and as the legal difficulties of dividing the inheritance are in that case considerable, it sometimes remains undivided in the first instance, and is managed by one of the family on the joint account. There is an example of this in the case of a woman servant of ours, one of a large family, the youngest of whom, a son, is not yet of age, and the land is managed for them by an uncle, who pays them nothing, but is *censé* to expend the proceeds, whatever they are, on the land itself. Her notion of what should be done is, that when the youngest brother comes of age, those of the family who are well off, among whom she reckons herself, should give up their share to the rest, that of the remainder one brother should retain the land, and the others receive their shares in money. Then, she says, “when we are old we can go sometimes to see the home of our childhood.” This does not throw any light on the question of indebtedness as regards the land generally. But in this aspect Lavergne’s book, which I have read and which is on the whole very favourable to peasant proprietors, is extremely *rassurant.* I have never seen the burthens of the small proprietors estimated at so low an amount by anybody as they are by this most careful and well-informed authority. He says that the average indebtedness of the whole landed property of France does not exceed a tenth of the value, and in the case of rural property, a twentieth. The burthen of interest he estimates up to a late period at 10 per cent., but thinks that it must now be considerably less ; but the previous amount of mortgage debts, you see, is not at all consistent with Louis Blanc's impressions.
 
 > *[Margin: 1862 — Aetat. 55.]*
 
@@ -2896,10 +2806,9 @@ your letter of 25th December. The reason is that I waited for the return from Pa
 
 About Lord Canning's measure[^fn-p0320-1] I entirely agree with you. I have always thought that a general redemption of even the permanently settled revenues must be a bad bargain to the Government, for the simple reason that it cannot answer to the proprietor to give as much for it as it would answer to the Government to take. We know that in all countries in which the good faith of the Government is relied on, the Government can borrow at lower interest than an individual can do even on good landed security. Suppose that the difference is no greater than that between 4 and 5 per cent., the Government makes a losing bargain unless it can get twenty-five years' purchase while the proprietor cannot afford to give more than twenty, since he must pay 5 per cent. for the money if borrowed, and if he has it of his own, can get that or still better interest for it in any other ways. The effect on agriculture of the redemption must be wholly injurious. If the proprietor has capital or can borrow it, he would do much better by expending it in cultivating and improving the land than in freeing himself from an annual payment, which being fixed, in no way diminishes the profits of improvement. I observe that Lord Canning does not mean to sell at less than twenty years' purchase ; this can only answer if Government will never be able hereafter to borrow under 5 per cent. . . .
 
-### Letter 135: W. T. Thornton
+### Letter 132: W. T. Thornton
 
-### To W. T. <span class="small-caps">Thornton</span>,
-indicating Mill's attitude towards Spiritualism.
+### To W. T. <span class="small-caps">Thornton</span>, indicating Mill's attitude towards Spiritualism.
 
 <span class="small-caps">Athens</span>, 11*th June* 1862.
 
@@ -2907,16 +2816,15 @@ indicating Mill's attitude towards Spiritualism.
 
 . . . I confess I am surprised that you attach any importance to Forster's or any other exhibitions of what they call spiritualism. Since in all that relates to the communications with spirits, the men are manifestly impostors, why should one feel any difficulty in believing them to be so altogether, and their apparent marvels to be juggling or other tricks ? Their exploits certainly would never do anything to shake my total disbelief in clairvoyance, of which, apart from its extreme antecedent improbability, I have never read any case the evidence of which did not leave the most obvious loopholes for fraud. That so many people should have believed in it is to me one of the many proofs that honest people do not in general at all appreciate either the facility of being cheated or the frequency of the disposition to cheat.
 
-### Letter 136: E. R. Edger
+### Letter 133: E. R. Edger
 
-### To E. R. <span class="small-caps">Edger</span>,
-in acknowledgment of a work entitled “ Social Freedom.”
+### To E. R. <span class="small-caps">Edger</span>, in acknowledgment of a work entitled “ Social Freedom.”
 
 <span class="small-caps">St. Véran</span>, 13*th September* 1862.
 
 <span class="small-caps">Sir</span>,—On returning a few days ago from a distant journey I found your note dated June last, and I have read attentively the MS. which accompanied it.
 
-I should have much to say against several of your positions, and especially against your definition of liberty ; but I do not understand that you wish to discuss the subject with me, for which in any case I have not time. I understand you as wishing me to tell you whether, as far as I can judge from your MS., I consider you competent in point of ability to pursue inquiries of this nature with a useful result. And I need not hesitate to answer that I do think you competent. But what I seem to myself to see in your paper is promise rather than performance . It gives signs of several of the qualities which go towards making a genuine thinker; a real desire to go to the bottom of a subject, and not merely to skim its surface; a certain faculty of laying out a large subject and looking at it as a whole; finally, whatever you see, you see clearly, and are able to express clearly to others. I would therefore exhort you by all means not only to continue thinking, but to continue writing—not, however, I would recommend, with a view to early publication. The way to cultivate a really philosophical intellect is to go on long thinking out subjects for one's own instruction, with a view to understand them as thoroughly as possible oneself; reading in the meanwhile whatever is best worth reading on the subject one is studying, collating one's own thoughts with those of the books one reads, and gathering from them new materials for thinking. Those who do this patiently and unambitiously, without looking much to any ulterior object, are the most likely to be able, sooner or later, to teach something valuable to others. They may never discover any great new truths; to do this is a good fortune which happens to few persons in a century, and the less we think of it as likely to happen to ourselves the better for us. But originality does not consist solely in making great discoveries; whoever thinks out a subject with his own mind, not accepting the phrases of his predecessors instead of facts, is original, and it is hardly possible for any one to do this even on the most hackneyed subject without turning up some new or neglected aspects of truths, or making some unexpected and perhaps fruitful application of them.
+I should have much to say against several of your positions, and especially against your definition of liberty ; but I do not understand that you wish to discuss the subject with me, for which in any case I have not time. I understand you as wishing me to tell you whether, as far as I can judge from your MS., I consider you competent in point of ability to pursue inquiries of this nature with a useful result. And I need not hesitate to answer that I do think you competent. But what I seem to myself to see in your paper is promise rather than performance. It gives signs of several of the qualities which go towards making a genuine thinker; a real desire to go to the bottom of a subject, and not merely to skim its surface; a certain faculty of laying out a large subject and looking at it as a whole; finally, whatever you see, you see clearly, and are able to express clearly to others. I would therefore exhort you by all means not only to continue thinking, but to continue writing—not, however, I would recommend, with a view to early publication. The way to cultivate a really philosophical intellect is to go on long thinking out subjects for one's own instruction, with a view to understand them as thoroughly as possible oneself; reading in the meanwhile whatever is best worth reading on the subject one is studying, collating one's own thoughts with those of the books one reads, and gathering from them new materials for thinking. Those who do this patiently and unambitiously, without looking much to any ulterior object, are the most likely to be able, sooner or later, to teach something valuable to others. They may never discover any great new truths; to do this is a good fortune which happens to few persons in a century, and the less we think of it as likely to happen to ourselves the better for us. But originality does not consist solely in making great discoveries; whoever thinks out a subject with his own mind, not accepting the phrases of his predecessors instead of facts, is original, and it is hardly possible for any one to do this even on the most hackneyed subject without turning up some new or neglected aspects of truths, or making some unexpected and perhaps fruitful application of them.
 
 > *[Margin: 1862 — Aetat. 56.]*
 
@@ -2924,10 +2832,9 @@ I would recommend to you, then, by all means to persevere in your speculations; 
 
 > *[Margin: 1862 — Aetat. 56.]*
 
-### Letter 137: W. T. Thornton → Henry Fawcett
+### Letter 134: W. T. Thornton → Henry Fawcett
 
-### From W. T. <span class="small-caps">Thornton</span> to <span class="small-caps">Henry Fawcett</span>,
-describing Mill’s mode of life at Avignon.
+### From W. T. <span class="small-caps">Thornton</span> to <span class="small-caps">Henry Fawcett</span>, describing Mill’s mode of life at Avignon.
 
 <span class="small-caps">St. Véran, Avignon</span>, *October* 1862.
 
@@ -2943,7 +2850,7 @@ I hope you will not find these details tedious. At any rate, having filled my pa
 
 W. T. <span class="small-caps">Thornton.</span>
 
-### Letter 138: then American ambassador → John Lothrop Motley
+### Letter 135: John Lothrop Motley
 
 ### To <span class="small-caps">John Lothrop Motley</span>,
 
@@ -2969,10 +2876,9 @@ It is very possible that too much may have been made of Butler's proclamation, a
 
 But while I am anxious that liberal and friendly Americans should not think worse of us than we really deserve, I am deeply conscious and profoundly grieved and mortified that we deserve so ill; and are making, in consequence, so pitiful a figure before the world, with which, if we are not daily and insultingly taxed by all Europe, it is only because our enemies are glad to see us doing exactly what they expected, justifying their opinion of us, and acting in a way which they think perfectly natural, because they think it perfectly selfish.
 
-### Letter 139: Nikolai Ogareff
+### Letter 136: Nikolai Ogareff
 
-### To <span class="small-caps">Nikolai Ogareff</span>,
-on his book “Essai sur la situation russe.”
+### To <span class="small-caps">Nikolai Ogareff</span>, on his book “Essai sur la situation russe.”
 
 <span class="small-caps">St. Véran</span>, *le 7 novembre* 1862.
 
@@ -2984,10 +2890,9 @@ sociale qui s'avance à pas croissants en Russie, je la regarde comme un des ph�
 
 Quant à vos conclusions dont vous pensez que quelques unes pourraient me sembler douteuses il faudrait que je fusse bien présomptueux pour avoir des opinions décidées sur la manière dont les principes généraux de science sociale doivent être appliqués à un état de choses si éloigné de tous ceux dont j'ai une vraie connaissance. Mais je n'ai aucune répugnance doctrinaire envers l'administration communale des terres, et je ne suis pas éloigné de penser avec vous que la réorganisation sociale de la Russie doit respecter une institution si profondément historique et si enracinée dans les mœurs populaires. Cela admis, la plupart de vos conclusions en découlent naturellement. Quoiqu'il en soit, il me semble impossible de ne pas accepter l'idée qui fait l'esprit de tout votre livre—savoir que le fonctionarisme est le véritable fléau de la Russie et qu'une réforme quelconque ne peut réussir qu'autant qu'elle émancipe les personnes et les choses de ce joug insupportable, et fasse décider les intérêts tant communs que particuliers par les intéressés. Ceci est dans ma conviction plus important que le système représentatif même le mieux ordonné, bien qu'en Russie les deux choses paraissent devoir aller pas à pas et être nécessaires l'une à l'autre.
 
-### Letter 140: George Finlay
+### Letter 137: George Finlay
 
-### <span class="small-caps">To George Finlay</span>,
-on taxation of land in Greece.
+### <span class="small-caps">To George Finlay</span>, on taxation of land in Greece.
 
 <span class="small-caps">Blackheath Park</span>, *24th December* 1862.
 
@@ -2995,7 +2900,7 @@ on taxation of land in Greece.
 
 > *[Margin: 1862 — Aetat. 56.]*
 
-### Letter 141: in reply → Max Kyllman
+### Letter 138: Max Kyllman
 
 ### To <span class="small-caps">Max Kyllman</span>, of Manchester,
 
@@ -3011,10 +2916,9 @@ I am very well pleased with the Resolutions and Address. I applaud your endeavou
 
 On the subject of the query you put to me, I perfectly agree in your opinion as far as you have stated it. The improvement in the condition of the working classes through the success of co-operation could not be used up in increase of numbers in less than a generation, and in that time the moral and intellectual influences of co-operation, which are of still greater value than the physical, will have had a considerable period in which to operate. If co-operation were universal the necessity of regulating population would be palpable to every one. And even a partial application contains lessons of the same kind.
 
-### Letter 142: Joseph Napier
+### Letter 139: Joseph Napier
 
-### To the Right Hon. <span class="small-caps">Joseph Napier</span>,
-who afterwards became Lord Chancellor of Ireland, and received a baronetcy. This is in reply to a letter on the subject of Mill’s criticism of Butler’s “Analogy” in his “Logic.”
+### To the Right Hon. <span class="small-caps">Joseph Napier</span>, who afterwards became Lord Chancellor of Ireland, and received a baronetcy. This is in reply to a letter on the subject of Mill’s criticism of Butler’s “Analogy” in his “Logic.”
 
 <span class="small-caps">Blackheath Park</span>, *24th December* 1862.
 
@@ -3037,7 +2941,7 @@ My view of the general question is briefly this: that a miracle, considered mere
 
 ## CHAPTER VIII 1863
 
-### Letter 143: John Stuart Mill → Alexander Bain
+### Letter 140: John Stuart Mill → Alexander Bain
 
 ### To <span class="small-caps">Alexander Bain.</span>
 
@@ -3045,9 +2949,7 @@ My view of the general question is briefly this: that a miracle, considered mere
 
 > *[Margin: 1863 — Aetat. 56.]*
 
-<span class="small-caps">Dear Bain,</span>—I have been here now for about a month,
-
-and as it is a long time since I either wrote to you or heard from you, I think it is time to send you a bulletin from myself and to ask for one from you.
+<span class="small-caps">Dear Bain,</span>—I have been here now for about a month, and as it is a long time since I either wrote to you or heard from you, I think it is time to send you a bulletin from myself and to ask for one from you.
 
 I have done a good deal of work on Hamilton at Avignon and some here, though in both places I have had, and shall have for some time longer, exceptional occupation which makes me rather slow in getting on! My plan has been to go deliberately through the whole writings of Hamilton, writing down in the form of notes the substance of what I as yet find to say on each point. This will make it comparatively easy to write the book when I have finished the preparatory work. The only point which I have yet developed at any length is the formation of the idea of externality, and consequently of matter, and this, I think, I have brought out more fully and clearly than had ever been done before, though my theory does not differ essentially from yours or from Grote's, as indeed from our premisses there can be but one theory. But I have grappled with the details of the subject in a manner which I have nowhere yet seen. I mean in this book to do what the nature and scope of the "Logic" forbade me to do there, to face the ultimate metaphysical difficulties of every question on which I touch.
 
@@ -3065,10 +2967,9 @@ We have just returned from a visit to Grote, during which I had an opportunity o
 
 > *[Margin: 1863 — Aetat. 56.]*
 
-### Letter 144: John Stuart Mill → Samuel Bailey
+### Letter 141: John Stuart Mill → Samuel Bailey
 
-### To <span class="small-caps">Samuel Bailey</span>,
-on his books, “On the Received Text of Shakespeare,” and “Letters on the Philosophy of the Mind.”
+### To <span class="small-caps">Samuel Bailey</span>, on his books, “On the Received Text of Shakespeare,” and “Letters on the Philosophy of the Mind.”
 
 <span class="small-caps">Blackheath Park</span>, *21st January* 1863.
 
@@ -3084,10 +2985,9 @@ On the subject of Language I of course agree in your principal thesis. The origi
 
 > *[Margin: 1863 — Aetat. 56.]*
 
-### Letter 145: John Stuart Mill → John Lothrop Motley
+### Letter 142: John Stuart Mill → John Lothrop Motley
 
-### To <span class="small-caps">John Lothrop Motley</span>,
-on the American civil war.
+### To <span class="small-caps">John Lothrop Motley</span>, on the American civil war.
 
 <span class="small-caps">Blackheath Park</span>, *26th January* 1863.
 
@@ -3107,40 +3007,35 @@ Foreigners ought not to regard the *Times* as representing the British nation. O
 
 If you are really going to do these things, you need not mind being misunderstood. You can afford to wait.
 
-### Letter 146: John Stuart Mill → Joseph Napier
+### Letter 143: John Stuart Mill → Joseph Napier
 
-### To the Right Hon. <span class="small-caps">Joseph Napier</span>,
-on Miracles.
+### To the Right Hon. <span class="small-caps">Joseph Napier</span>, on Miracles.
 
 <span class="small-caps">Blackheath Park</span>, *27th January* 1863.
 
 <span class="small-caps">Dear Sir</span>,—
 
-I have at your suggestion re-read the second chapter of the second part of the “Analogy,” and the result is somewhat different from what you seemed to expect. I am afraid I must admit that Butler's authority is against me, and that he rather overlooked, or did not admit, the distinction which I endeavoured to draw between two kinds of improbability, improbability before the fact and improbability of an alleged fact. For though, as you say, he does not deny that there is a certain small antecedent presumption against a miracle, he looks upon this as being exactly the same sort of presumption which there is against any common event (of the conditions of which we have no special antecedent knowledge) before it has happened. Now, in my view it is a totally different sort of presumption —one which constitutes, as far as it goes, a ground of disbelief , which the other and universal presumption does not even in the smallest degree. In proof of this, let there be a million of tickets in some repository, numbered and placed indiscriminately. Of these I take out one ; the antecedent presumption against its being No. 72 is a million to one ; but when I *have* selected a ticket and it is affirmed to be No. 72, the antecedent presumption does not render this in the smallest degree incredible, because, instead of its being unlikely that an event with a million to one against it would happen it was certain that such an event would happen, and it is certain that such an event did happen when I took out the ticket, whether it was No. 72 or not.
+I have at your suggestion re-read the second chapter of the second part of the “Analogy,” and the result is somewhat different from what you seemed to expect. I am afraid I must admit that Butler's authority is against me, and that he rather overlooked, or did not admit, the distinction which I endeavoured to draw between two kinds of improbability, improbability before the fact and improbability of an alleged fact. For though, as you say, he does not deny that there is a certain small antecedent presumption against a miracle, he looks upon this as being exactly the same sort of presumption which there is against any common event (of the conditions of which we have no special antecedent knowledge) before it has happened. Now, in my view it is a totally different sort of presumption —one which constitutes, as far as it goes, a ground of disbelief, which the other and universal presumption does not even in the smallest degree. In proof of this, let there be a million of tickets in some repository, numbered and placed indiscriminately. Of these I take out one ; the antecedent presumption against its being No. 72 is a million to one ; but when I *have* selected a ticket and it is affirmed to be No. 72, the antecedent presumption does not render this in the smallest degree incredible, because, instead of its being unlikely that an event with a million to one against it would happen it was certain that such an event would happen, and it is certain that such an event did happen when I took out the ticket, whether it was No. 72 or not.
 
 > *[Margin: 1863 — Aetat. 56.]*
 
 Now (without further purpose distinguishing miracles from any other kind of extraordinary event) it seems to me clear that against any extraordinary event there exists not a slight addition to this entirely unimportant kind of probability, but an improbability generically different from it, and Butler surely must have thought so. . . .
 
-### Letter 147: John Stuart Mill → George Finlay
+### Letter 144: John Stuart Mill → George Finlay
 
-### To <span class="small-caps">George Finlay</span>, the Greek historian,
-who was then living at Athens.
+### To <span class="small-caps">George Finlay</span>, the Greek historian, who was then living at Athens.
 
 <span class="small-caps">Blackheath Park</span>, *2nd February* 1863.
 
-<span class="small-caps">My dear Mr. Finlay</span>,—Many thanks for your letter,
-
-which was both interesting and encouraging. I now write in high spirits on the subject of Greece, as to-day's newspapers for the first time state positively and authentically that the Duke of Saxe-Coburg consents to be a candidate. I earnestly hope that the Greeks will not throw away the opportunity of getting a king who would bring them every possible advantage they could have had from Prince Alfred, with the addition of being a man of mature age and *tried* principles. It seems to me that they have drawn the one solitary prize in the lottery, and that his election and acceptance would be the very happiest event which the chances of politics could have turned up for Greece. I had never ventured to hope for anything so good as a prince who is more liberal and constitutional than his German subjects understand or care for, and who is looked to by the Liberals in Germany at large as a possible head of the future German Empire. If he is elected, it will be his object to make Greece a great country by making her a free and prosperous one to begin with, and all the best European thought will have a greater chance of access to her than to any crowned head in Europe, except his uncle Leopold.
+<span class="small-caps">My dear Mr. Finlay</span>,—Many thanks for your letter, which was both interesting and encouraging. I now write in high spirits on the subject of Greece, as to-day's newspapers for the first time state positively and authentically that the Duke of Saxe-Coburg consents to be a candidate. I earnestly hope that the Greeks will not throw away the opportunity of getting a king who would bring them every possible advantage they could have had from Prince Alfred, with the addition of being a man of mature age and *tried* principles. It seems to me that they have drawn the one solitary prize in the lottery, and that his election and acceptance would be the very happiest event which the chances of politics could have turned up for Greece. I had never ventured to hope for anything so good as a prince who is more liberal and constitutional than his German subjects understand or care for, and who is looked to by the Liberals in Germany at large as a possible head of the future German Empire. If he is elected, it will be his object to make Greece a great country by making her a free and prosperous one to begin with, and all the best European thought will have a greater chance of access to her than to any crowned head in Europe, except his uncle Leopold.
 
 > *[Margin: 1863 — Aetat. 56.]*
 
 I was very happy to learn from you that there is a real desire in the Assembly for moderate establishments and a great retrenchment of expenditure. This is good not only in itself, but because it implies putting a restriction on the evils of centralisation and functionarism. But the land tax, or rather *a* land tax, will be wanted nevertheless, for a time at least, if they intend to be honest to their creditors. . . .
 
-### Letter 148: John Stuart Mill → R. C. Wyllie
+### Letter 145: John Stuart Mill → R. C. Wyllie
 
-### To R. C. <span class="small-caps">Wyllie</span>,
-Foreign Minister at the Sandwich Islands.
+### To R. C. <span class="small-caps">Wyllie</span>, Foreign Minister at the Sandwich Islands.
 
 <span class="small-caps">Blackheath Park</span>, *3rd February* 1863.
 
@@ -3154,10 +3049,9 @@ It must be of great value to your country to have such a man as Dr. Rae settled 
 
 It is very gratifying to me that you are disposed to carry the principle of representation of minorities into practical operation. That such should be the questions agitated in a country which three-quarters of a century ago was in a savage state is surely one of the most remarkable signs of the very hopeful times in which we live.
 
-### Letter 149: John Stuart Mill → Alexander Bain
+### Letter 146: John Stuart Mill → Alexander Bain
 
-### To <span class="small-caps">Alexander Bain,</span>
-on James Ferrier's “Institutes of Metaphysic.”
+### To <span class="small-caps">Alexander Bain,</span> on James Ferrier's “Institutes of Metaphysic.”
 
 <span class="small-caps">Blackheath Park,</span> 13*th February* 1863.
 
@@ -3173,7 +3067,7 @@ Then how strangely absurd are his representations of other writers, above all hi
 
 In spite of all this, however, and of the flourishing of trumpets which accompanies every fresh paralogism or disguised assumption, one cannot help being struck in almost every page with the ability of the writer, though I cannot think that it lies in the direction of metaphysical speculation. And the book, like all books by persons of talent on difficult subjects of thought, helps to clear up one’s own ideas. . . .
 
-### Letter 150: John Stuart Mill → Max Kyllman
+### Letter 147: John Stuart Mill → Max Kyllman
 
 ### To <span class="small-caps">Max Kyllman</span>,
 
@@ -3197,7 +3091,7 @@ The Anthropological Society I hear of for the first time from your letter. I sho
 
 Mr. Lincoln's answer is excellent—quite beyond my expectations.
 
-### Letter 151: John Stuart Mill → C. A. Cummings
+### Letter 148: John Stuart Mill → C. A. Cummings
 
 ### To C. A. <span class="small-caps">Cummings</span>, of Boston (U.S.)
 
@@ -3213,10 +3107,9 @@ For the other misapprehension I am probably myself accountable, and I only adver
 
 I omitted to say that I was not the founder of the *Westminster Review*, though I was one of its writers from the commencement. At a much later period of my life I was for several years its proprietor and chief conductor.
 
-### Letter 152: John Stuart Mill → Henry Solly
+### Letter 149: John Stuart Mill → Henry Solly
 
-### To <span class="small-caps">Henry Solly</span>,
-of the Working Men's Club and Institute Union, on working men's clubs.
+### To <span class="small-caps">Henry Solly</span>, of the Working Men's Club and Institute Union, on working men's clubs.
 
 <span class="small-caps">St. Véran</span>, *6th April* 1863.
 
@@ -3224,10 +3117,9 @@ of the Working Men's Club and Institute Union, on working men's clubs.
 
 <span class="small-caps">Dear Sir</span>,—I am obliged to you for your letter, and am glad of the information it gives respecting the Working Men's Club and Institute Union, of which I previously knew very little. I have no doubt that, in so far as these clubs take the place of the public-house, they will be very useful, but I confess to some uncertainty whether they are a movement sufficiently in advance to meet the demands of the present time. I am doubtful whether an organised movement and subscriptions for the purpose of making the men of the working classes more comfortable away from the homes and children, is the thing wanted now, so much as an effort on a large scale to improve their dwellings, and bring co-operative arrangements for comfort and mental improvement home to all of them without distinction of sex or age. I do not say this to discourage you, nor with any fear of its doing so, but to account for my not taking so warm an interest in the scheme as you seem to expect that I should do. I think your plan likely to do good, but that there are others likely to be still more useful.
 
-### Letter 153: John Stuart Mill → W. T. Thornton
+### Letter 150: John Stuart Mill → W. T. Thornton
 
-### To W. T. <span class="small-caps">Thornton</span>,
-in reply to a criticism of his on the “Utilitarianism.”
+### To W. T. <span class="small-caps">Thornton</span>, in reply to a criticism of his on the “Utilitarianism.”
 
 <span class="small-caps">St. Véran</span>, *17th April* 1863.
 
@@ -3237,7 +3129,7 @@ in reply to a criticism of his on the “Utilitarianism.”
 
 I think such a case as that of Hannibal comes within these reasons, and indeed is a mere case of the same principle.
 
-### Letter 154: John Stuart Mill → Theodor Gomperz
+### Letter 151: John Stuart Mill → Theodor Gomperz
 
 ### To <span class="small-caps">Theodor Gomperz</span> (Mill's German translator).
 
@@ -3251,10 +3143,9 @@ Gomperz, who was an enthusiastic admirer of Mill, had suggested coming to see hi
 
 Come by all means if you like, though I should not for an instant have thought of proposing it to you. I do not invite my friends to this place, unless in very rare cases, when I happen to have an interval of leisure, because it is impossible for me when here to give them the time I should wish to give, or show them the attention to which they are entitled. The greater part of all my intellectual work is done in the virtual solitude in which we live here, and the time which is not taken up in writing (in which at present both of us are occupied) we spend in wandering alone about the mountains and wilds of this part of France, gathering the health and spirits which are necessary to render life in England endurable to us. If, knowing this, you still like to come, I can only say that I shall be glad to see what I can of you ; and I should not have said so much if you had not expressed yourself as if your motive for coming to Avignon was chiefly to see us ; and I should very much regret that you should either be disappointed or think us unfriendly in case you should see less of us than you expect. . . .
 
-### Letter 155: John Stuart Mill → T. Cliffe Leslie
+### Letter 152: John Stuart Mill → T. Cliffe Leslie
 
-### To T. <span class="small-caps">Cliffe Leslie</span>,
-on labour co-partnership.
+### To T. <span class="small-caps">Cliffe Leslie</span>, on labour co-partnership.
 
 <span class="small-caps">St. Véran</span>, *4th May* 1863.
 
@@ -3262,7 +3153,7 @@ on labour co-partnership.
 
 > *[Margin: 1863 — Aetat. 56.]*
 
-### Letter 156: John Stuart Mill → Theodor Gomperz
+### Letter 153: John Stuart Mill → Theodor Gomperz
 
 ### To <span class="small-caps">Theodor Gomperz.</span>
 
@@ -3276,11 +3167,9 @@ Our life, which has been more than usually broken in upon during the last month,
 
 > *[Margin: 1863 — Aetat. 57.]*
 
-### Letter 157: John Stuart Mill → J. G. Palfrey
+### Letter 154: John Stuart Mill → J. G. Palfrey
 
-### To J. G. <span class="small-caps">Palfrey</span>, of Boston,
-acknowledging his “History of New England,” and
-“Papers on the Slave Power.”
+### To J. G. <span class="small-caps">Palfrey</span>, of Boston, acknowledging his “History of New England,” and “Papers on the Slave Power.”
 
 <span class="small-caps">Blackheath Park</span>, 18*th July* 1863.
 
@@ -3288,7 +3177,7 @@ acknowledging his “History of New England,” and
 
 <span class="small-caps">Dear Sir</span>,—Want of time has prevented me from sooner acknowledging the present of your two works; as it still obliges me to postpone the pleasure I expect to derive from your “History of New England.” But I will not any longer defer expressing to you my sincere thanks for your having given me the opportunity of reading your two series of papers on the “Slave Power.” Had but such a book as yours been in the hands of our people at the commencement of the present contest, I think that it would have saved many from disgracing themselves and their country, by sympathising with the atrocious slave-holding conspiracy. They had a slight though wholly insufficient excuse in their total ignorance of all the antecedents of the question. But now they have contracted the habit of siding with tyrants, and the most complete proof that could be laid before them of the character of the tyranny would now make comparatively little impression on them. I feel the utmost sympathy with the tone and spirit of your book, and the highest admiration for the band of men, of whom you are one, who founded and led the Anti-Slavery party in the United States in still worse times than these, and I have found myself often exclaiming, as I read your book, that the noble Commonwealth of Massachusetts will yet redeem America and the world.
 
-### Letter 158: John Stuart Mill → J. Stuart Glennie
+### Letter 155: John Stuart Mill → J. Stuart Glennie
 
 ### To J. <span class="small-caps">Stuart Glennie</span>.
 
@@ -3312,21 +3201,19 @@ I may add that if a different definition is now wanted of Cause and Effect it wo
 
 I shall always be happy to discuss these matters further with you either by word of mouth or in writing.
 
-### Letter 159: John Stuart Mill → T. Cliffe Leslie
+### Letter 156: John Stuart Mill → T. Cliffe Leslie
 
 ### To T. <span class="small-caps">Cliffe Leslie</span>.
 
 <span class="small-caps">St. Véran</span>, 15*th September* 1863.
 
-<span class="small-caps">Dear Sir</span>,—You wished to be informed of anything
-
-worth reading which came out on the gold question. If you have not yet returned to England you may not be aware of Fawcett’s paper read at the British Association, and the newspaper discussion which has followed it, at the rate of two or more long letters in the *Times* every day—Cairnes, among others, taking part. If you have not yet done so, you will find it worth while to look through a file of the *Times*, as well as to read Fawcett’s paper, which I doubt not he will gladly communicate to you. The *Daily Mail* had a fuller report of it than the *Times*. It seems to me that three important ideas have emerged from the discussion, all tending to explain in their several degrees why the apparent depreciation has been so much less than might have been expected from so great an addition to the quantity of gold in the world. The first is, that the increase must be compared, not with the gold alone which existed before, but with the gold plus the silver, which last is said to be double the value of the gold. This was brought forward by Cairnes. Second: one writer has urged that railways and free trade are rapidly producing an approach to equality of prices all over the world, in place of the great inequality that existed before, England being the place where they were, as a rule, highest. This change, if there had been no gold discovery, would have taken place by a fall in some places and a rise in others; consequently the operation of the new gold for such time in such places as England, would chiefly consist in preventing a fall; and its only manifest effect might for some time be that of raising prices in the cheap countries to nearly the level of the dear ones. This, which is an original and I think a just remark, Cairnes notices but rejects, having I think been set against it by a stupid metaphorical way of putting it in a leading article of the *Times.* The third idea is one I have myself for some time entertained, and it has been taken up by one writer in a newspaper letter. It is this: we are already suffering a much greater depreciation than appears on the surface, because the diminished purchasing power of money is experienced in the form of deteriorated quality rather than of higher price. It is the interest of dealers thus to disguise the progressive rise of prices. There are always things to be had at the prices or something like the prices one has been accustomed to pay, but they are no longer of the same quality. The same purpose is also often effected by giving smaller and smaller measure without change of name.
+<span class="small-caps">Dear Sir</span>,—You wished to be informed of anything worth reading which came out on the gold question. If you have not yet returned to England you may not be aware of Fawcett’s paper read at the British Association, and the newspaper discussion which has followed it, at the rate of two or more long letters in the *Times* every day—Cairnes, among others, taking part. If you have not yet done so, you will find it worth while to look through a file of the *Times*, as well as to read Fawcett’s paper, which I doubt not he will gladly communicate to you. The *Daily Mail* had a fuller report of it than the *Times*. It seems to me that three important ideas have emerged from the discussion, all tending to explain in their several degrees why the apparent depreciation has been so much less than might have been expected from so great an addition to the quantity of gold in the world. The first is, that the increase must be compared, not with the gold alone which existed before, but with the gold plus the silver, which last is said to be double the value of the gold. This was brought forward by Cairnes. Second: one writer has urged that railways and free trade are rapidly producing an approach to equality of prices all over the world, in place of the great inequality that existed before, England being the place where they were, as a rule, highest. This change, if there had been no gold discovery, would have taken place by a fall in some places and a rise in others; consequently the operation of the new gold for such time in such places as England, would chiefly consist in preventing a fall; and its only manifest effect might for some time be that of raising prices in the cheap countries to nearly the level of the dear ones. This, which is an original and I think a just remark, Cairnes notices but rejects, having I think been set against it by a stupid metaphorical way of putting it in a leading article of the *Times.* The third idea is one I have myself for some time entertained, and it has been taken up by one writer in a newspaper letter. It is this: we are already suffering a much greater depreciation than appears on the surface, because the diminished purchasing power of money is experienced in the form of deteriorated quality rather than of higher price. It is the interest of dealers thus to disguise the progressive rise of prices. There are always things to be had at the prices or something like the prices one has been accustomed to pay, but they are no longer of the same quality. The same purpose is also often effected by giving smaller and smaller measure without change of name.
 
 > *[Margin: 1863 — Aetat. 57.]*
 
 Of course all these circumstances affect only the rapidity of the depreciation, and have nothing to do with what it will ultimately amount to, which is a question of permanent cost of production, and as the business gets out of the hands of private diggers into those of quartz-crushing companies conducting it on ordinary mercantile principles, gold will ultimately be of the value which will yield to such companies the ordinary rate of companies' profit.
 
-### Letter 160: John Stuart Mill → Judge Appleton
+### Letter 157: John Stuart Mill → Judge Appleton
 
 ### To Judge <span class="small-caps">Appleton.</span>
 
@@ -3346,7 +3233,7 @@ I am in hopes too that this great trial of American institutions, which has nece
 
 Many thanks for the documents you kindly sent. I have received so many from various quarters in the United States that I have not yet had time to read half of them. All that I have read are extremely interesting and valuable.
 
-### Letter 161: John Stuart Mill → W. T. Thornton
+### Letter 158: John Stuart Mill → W. T. Thornton
 
 ### To W. T. <span class="small-caps">Thornton.</span>
 
@@ -3362,10 +3249,9 @@ As for the American question, if you had time to read one or two books I could r
 
 > *[Margin: 1863 — Aetat. 57.]*
 
-### Letter 162: John Stuart Mill → Henry Chenevix
+### Letter 159: John Stuart Mill → Henry Chenevix
 
-### To <span class="small-caps">Henry Chenevix</span>,
-on Miracles.
+### To <span class="small-caps">Henry Chenevix</span>, on Miracles.
 
 <span class="small-caps">St. Véran</span>, *4th November* 1863.
 
@@ -3381,7 +3267,7 @@ Unless I could pretend to know either that there is no supernatural power or tha
 
 I do not suppose that what I have said will help you much in your difficulties, but it will show you that I judge of the credibility of alleged miracles from the probabilities of each particular case and the value of the evidence adduced in it; and no other principle of judgment seems to me tenable.
 
-### Letter 163: John Stuart Mill → Antoine Elisée Cherbuliez
+### Letter 160: John Stuart Mill → Antoine Elisée Cherbuliez
 
 ### To Professor <span class="small-caps">Antoine Elisée Cherbuliez</span>, of Zurich, acknowledging his book, “Précis de la Science Economique.”
 
@@ -3393,15 +3279,13 @@ I do not suppose that what I have said will help you much in your difficulties, 
 
 En me félicitant, Monsieur, que la chaire d'Economie Politique dans une des institutions les plus importantes de la Suisse soit remplie par une intelligence aussi forte et aussi éclairée que la vôtre, je vous prie d'agréer l'expression sincère de ma considération la plus distinguée.
 
-### Letter 164: John Stuart Mill → T. Cliffe Leslie
+### Letter 161: John Stuart Mill → T. Cliffe Leslie
 
 ### To T. <span class="small-caps">Cliffe Leslie.</span>
 
 <span class="small-caps">St. Véran,</span> *14th November* 1863.
 
-<span class="small-caps">Dear Sir,</span>—I have read the papers you sent, and I
-
-think there is a great deal of valuable matter in them, and I would encourage you on every account to go on with your project. There is very little in them that I at all disagree with—only a sentence here and there. Wherever this is the case I have made a pencil note, or will do so, for I will venture to keep the MS. a day or two days longer for the purpose of reading it again. I am not sure that I rightly understand a sentence in one of your letters in which you seemed to speak of sending the paper for the editor's consideration before completing it. You know the editor and all the elements of the case much better than I can do, but I should think they would very much diminish the chance of the article's being accepted. If 1 were you I would give it the very utmost finish of execution in my power before letting him see it. There are very few editors who would not, on such a subject, care very much more about what an article *seems* than about what it *is.* Your paper will be judged by its composition, its mode of laying out the subject, and the degree in which it makes its theory plausible. As to whether the theory is true or not, the editor probably is not political economist enough to think himself able to judge, and most likely cares very little.
+<span class="small-caps">Dear Sir,</span>—I have read the papers you sent, and I think there is a great deal of valuable matter in them, and I would encourage you on every account to go on with your project. There is very little in them that I at all disagree with—only a sentence here and there. Wherever this is the case I have made a pencil note, or will do so, for I will venture to keep the MS. a day or two days longer for the purpose of reading it again. I am not sure that I rightly understand a sentence in one of your letters in which you seemed to speak of sending the paper for the editor's consideration before completing it. You know the editor and all the elements of the case much better than I can do, but I should think they would very much diminish the chance of the article's being accepted. If 1 were you I would give it the very utmost finish of execution in my power before letting him see it. There are very few editors who would not, on such a subject, care very much more about what an article *seems* than about what it *is.* Your paper will be judged by its composition, its mode of laying out the subject, and the degree in which it makes its theory plausible. As to whether the theory is true or not, the editor probably is not political economist enough to think himself able to judge, and most likely cares very little.
 
 > *[Margin: 1863 — Aetat. 57.]*
 
@@ -3421,7 +3305,7 @@ I do not like Courcelle-Seneuil's Etudes, though his treatise on Political Econo
 
 If the second reading of your paper suggests any additional remarks worth sending I will write again. If not I will merely post the MS.
 
-### Letter 165: John Stuart Mill → Alexander Bain
+### Letter 162: John Stuart Mill → Alexander Bain
 
 ### To <span class="small-caps">Alexander Bain.</span>
 

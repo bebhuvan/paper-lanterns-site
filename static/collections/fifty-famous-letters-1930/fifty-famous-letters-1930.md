@@ -2,18 +2,14 @@
 
 - **Author / Editor**: Curtis Gentry (ed.)
 - **Year**: 1930
-- **Letters**: 62
+- **Letters**: 55
 - **Pages**: 220
 
 ## Frontmatter
 
 ### *CURTIS GENTRY*
 
-### FIFTY
-FAMOUS
-LETTERS
-OF
-HISTORY
+### FIFTY FAMOUS LETTERS OF HISTORY
 
 *NEW YORK*  
 *THOMAS·Y·CROWELL CO.*
@@ -23,8 +19,7 @@ HISTORY
 *Designed by Werner Helmer*  
 <span class="small-caps">MADE IN THE U. S. A. BY THE VAN REES PRESS</span>
 
-### *TO
-GRACE*
+### *TO GRACE*
 
 *In appreciation for helpful suggestions  
 These pages are dedicated*
@@ -237,11 +232,7 @@ is made to the following:
 
 Effort has been made to trace all copyrighted material to original sources; if any discrepancy has been made the author will make the necessary corrections.
 
-### FIFTY
-FAMOUS
-LETTERS
-OF
-HISTORY
+### FIFTY FAMOUS LETTERS OF HISTORY
 
 ## FIFTY FAMOUS LETTERS OF HISTORY
 
@@ -261,16 +252,13 @@ Farewell,
 
 *Socrates lived 469 - 399 B.C.*
 
-### Letter 2: DARIUS
+### Letter 2: Alexander the Great → Darius
 
 ### 2
 
-### *ALEXANDER THE GREAT
-TO DARIUS*
+### *ALEXANDER THE GREAT TO DARIUS*
 
-A <span class="small-caps">young</span> *man, only twenty-three years of age, who had conquered more than half of the civilized world, was sitting in his tent reading a letter. The message was from Darius, the great king of the rich Persian dominions, whose army Alexander had practically destroyed a while before on the plains of Issus. Darius had managed to get together a remnant of his followers and did not stop running until he crossed the Euphrates. Then he organized another great army, larger than that of his pursuer. In this message he was admonishing the upstart from Macedonia for overrunning his kingdom. He did not even address Alexander as king. But fear of further conquest prompted him to offer Alexander half of his realm, with the Euphrates as a boundary, if he would return to Greece. General Parmenio, a wise old counsellor who had followed Phillip, Alexander's father, was urging the young king to accept the proffered terms of peace. Parmenio warned him of the great Persian fleet in his rear, of revolt and other dangers, if he advanced. But in his veins was the lust for power and a vision of a world empire opened before the eyes of the young conqueror* *. It was a decisive hour and the destiny of the world was lodged in Alexander's reply. He sent Darius the following letter:*
-
-### Letter 3: Alexander the Great → Darius
+A <span class="small-caps">young</span> *man, only twenty-three years of age, who had conquered more than half of the civilized world, was sitting in his tent reading a letter. The message was from Darius, the great king of the rich Persian dominions, whose army Alexander had practically destroyed a while before on the plains of Issus. Darius had managed to get together a remnant of his followers and did not stop running until he crossed the Euphrates. Then he organized another great army, larger than that of his pursuer. In this message he was admonishing the upstart from Macedonia for overrunning his kingdom. He did not even address Alexander as king. But fear of further conquest prompted him to offer Alexander half of his realm, with the Euphrates as a boundary, if he would return to Greece. General Parmenio, a wise old counsellor who had followed Phillip, Alexander's father, was urging the young king to accept the proffered terms of peace. Parmenio warned him of the great Persian fleet in his rear, of revolt and other dangers, if he advanced. But in his veins was the lust for power and a vision of a world empire opened before the eyes of the young conqueror.* *It was a decisive hour and the destiny of the world was lodged in Alexander's reply. He sent Darius the following letter:*
 
 ### *"Call Me King"*
 
@@ -284,16 +272,13 @@ Darius ( By whose name you are called ), if history tell true, long ago laid was
 
 *Alexander lived 356 - 323 B.C.*
 
-### Letter 4: DIOGENES → THE PEOPLE OF SYNOPE
+### Letter 3: Diogenes → People of Synope
 
 ### 3
 
-### *DIOGENES TO THE PEOPLE
-OF SYNOPE*
+### *DIOGENES TO THE PEOPLE OF SYNOPE*
 
 <span class="small-caps">Diogenes</span>, *the great cynic philosopher, made himself immortal by going about the streets of Athens with a lantern in broad daylight looking for an honest man. Some time before this he had been banished from his native city, Synope, because he had become involved in some financial matters in the banking business. He went to Athens, met the great philosopher Socrates, and became a cynic. Most of the time he begged his living, saying that a philosopher had as much right to ask the people to support him as any king did in levying taxes to support a royal palace. He regarded both as begging. Becoming very happy at Athens he wrote to the people of Synope the following letter:*
-
-### Letter 5: Diogenes → People of Synope
 
 ### *“I Choose to Be a Vagabond”*
 
@@ -309,7 +294,7 @@ Farewell.
 
 <span class="small-caps">Alexander</span> *the Great had heard of the great philosopher, Diogenes, and expressed a desire to see him. He had Aristippus write to Diogenes informing him of this desire. The following letter was written by Diogenes in reply:*
 
-### Letter 6: Diogenes → Aristippus
+### Letter 4: Diogenes → Aristippus
 
 ### *“I Am Subject to Nobody”*
 
@@ -327,14 +312,11 @@ Farewell.
 
 *Tradition says that they both died on the same day. Alexander spent his life in grand robbery, Diogenes in vagabondage; the richest and the poorest; or might it not be reversed? Alexander thought that the greatest virtues were glory and splendor. Diogenes believed that to gain virtue one must avoid all physical pleasure.*
 
-### Letter 7: CICERO → JULIUS CÆSAR
+### Letter 5: Cicero → Julius Cæsar
 
-### 4
-*CICERO TO JULIUS CÆSAR*
+### 4 *CICERO TO JULIUS CÆSAR*
 
 <span class="small-caps">During</span> *the great conflict in Rome between Julius Cæsar and Pompey, both of whom were struggling for supreme power, Cicero found himself in a difficult position. By political party and conviction he favored Pompey. At the same time he wanted to help bring peace to his country. Cæsar was very anxious to have Cicero's support. “Still, I have no doubt,” said Cæsar to a friend, “that he hates me bitterly.” Cicero had once saved the nation by thwarting the conspiracy of Cataline, and for which he had been honored with the epithet, “The father of his country.” He was an honest, noble figure; above all a patriot. He saw that the foundations of the Republic were about to give way, and he was doing all he could to save it. The following letter shows a great soul struggling in the midst of a turmoil which involved his personal friendship for Pompey and his love for his country:*
-
-### Letter 8: Cicero → Julius Cæsar
 
 ### *“A Pious, Good and Grateful Man”*
 
@@ -352,21 +334,18 @@ No *lasting peace was made between Cæsar and Pompey. Cicero finally joined Pomp
 
 *Cicero lived 106 – 43 B.C.*
 
-### Letter 9: BRUTUS AND CASSIUS → MARK ANTONY
+### Letter 6: Brutus / Cassius → Mark Antony
 
 ### 5
 
 ### *BRUTUS AND CASSIUS TO MARK ANTONY*
 
-> *“The fault, dear ‘Brutus, is not in our stars,
-But in ourselves that we are underlings.”*
+> *“The fault, dear ‘Brutus, is not in our stars,  
+> But in ourselves that we are underlings.”*
 
 <span class="small-caps">Thus</span> *Cassius spurs Brutus on to the assassination of Julius Cæsar. These Roman gentlemen were somewhat surprised when Cæsar’s friend, the romantic Mark Antony, then consul, took Cæsar’s murder seriously to heart. The following letter from Brutus and Cassius is indicative of the temper of the time.*
 
-### Letter 10: Brutus / Cassius → Mark Antony
-
-### *“Think Not How Long Cæsar Lived,
-But How Little He Reigned”*
+### *“Think Not How Long Cæsar Lived, But How Little He Reigned”*
 
 WE have read your letters, much of a piece with your edict, outrageous, threatening and unworthy yourself and us. Mark Antony, we have no ways injured you, neither could we have thought you would have wondered at, as Praetors and men of quality, we should demand anything of the Consul. . . . Whereas you say, you complained not of our levying soldiers, imposing tribute, mustering armies, and sending messengers beyond sea, we believe you, nevertheless we confess that we have never done any of these things. We rather wonder that having concealed these matters you could not now suppress your anger, which has carried you to such an extent that you cast in our teeth the death of Cæsar. How that can be defended we leave to your imagination. What the Praetors have done to maintain their liberty and property, by way of edict, is no sufficient cause for the Consul to threaten them with arms. It matters little that you should go about to frighten us, neither is it probable we, on any account whatever, would be frightened. Mark Antony does ill in endeavoring to enslave those very persons by whom he himself and the whole commonwealth have obtained freedom.
 
@@ -381,12 +360,11 @@ to an end in the same year, 42 B.C.*
 
 ### 6
 
-### *HEROD THE GREAT TO
-AUGUSTUS CÆSAR*
+### *HEROD THE GREAT TO AUGUSTUS CÆSAR*
 
 <span class="small-caps">Mark Antony</span> *became so infatuated with Cleopatra that he forgot himself and Rome and lost the rulership of his country. Herod the Great ( father of the Herod referred to in the Gospels ), King of the Jews, owed his throne to Antony. When Augustus Cæsar defeated Antony at the battle of Actium Herod's throne was at the mercy of Augustus. The following letter from Herod to Augustus reveals a faithfulness that is truly inspiring, at the same time gives us an interesting glimpse into the relationship between Antony and the “Serpent of the Nile,” the fascinating Cleopatra:*
 
-### Letter 11: Herod the Great → Augustus Cæsar
+### Letter 7: Herod the Great → Augustus Cæsar
 
 ### *“My Friend and His Wicked Woman”*
 
@@ -406,15 +384,11 @@ Farewell.
 
 *Herod lived 62 – 4 B.C.*
 
-### Letter 12: ROMAN BACHELORS
+### Letter 8: Augustus Cæsar → Roman Bachelors
 
-### 7
-*AUGUSTUS CÆSAR
-TO ROMAN BACHELORS*
+### 7 *AUGUSTUS CÆSAR TO ROMAN BACHELORS*
 
 <span class="small-caps">Like</span> *the poor, bachelors are always with us. The Roman Empire's population was being depleted. Wars against the barbarians, as well as the general habits of the Romans, contributed to this situation. Augustus Cæsar, one of the greatest of Roman rulers, unlike many emperors, had his country's welfare sincerely at heart. This interesting and scathing letter to the Roman bachelors, however effective it was at the moment, did not save Rome from its decline and fall.*
-
-### Letter 13: Augustus Cæsar → Roman Bachelors
 
 ### *“Virgins of Rome Are Neglected”*
 
@@ -430,7 +404,7 @@ Farewell.
 
 *Augustus reigned between 31 B.C. and 14 A.D.*
 
-### Letter 14: ST. PAUL → TIMOTHY
+### Letter 9: St. Paul → Timothy
 
 ### 8
 
@@ -438,11 +412,9 @@ Farewell.
 
 <span class="small-caps">It</span> *has been said that the greatness of a man is determined by the influences for good that he sets in motion. Beginning his work for a religious sect when a greater part of the world was against him, losing his family, friends, and even his reputation, yet by his undying love for a cause, by the strength of his intellect and the force of his will, St. Paul commanded a hearing, caused thrones to bow before his influence and lifted the Cross of Jesus above the Roman Eagle. We can see how a man will go forth in a blaze of glory and give his life for his country. But here is a man who picked up the thread of a religion, and it so appealed to him that he wanted to give his life for others as part payment for the great joy which had come to him. He died daily for mankind through his sufferings. It is all very strange to some of us. At three different times he was flogged with Roman rods. Once he was stoned almost to death. Three times he was shipwrecked, and for a whole day and night floated upon the face of the deep. On three different occasions he looked death in the face without wincing: once when the mob was about to kill him in the Temple; once when his ship was wrecked on the Mediter-ranean, and again when he sat in the prison in Rome waiting* *the end. “When I am weak I am strong,” he said. When he became old he had only an old coat and a few books. But when he died he left an influence that was destined to change the course of civilization. His second letter to Timothy, written from Rome, when Paul was brought before Nero the second time, gives us the picture of a man who has given his strength, his days, for a noble cause; he has loved deeply, fought hard and suffered long; he has grown old in the service of His Master; material rewards he knows not. Tired, spent, yet a smile lights his careworn face; he stands erect once more, inspired by the consciousness that he has done his best; he looks back upon the world which has buffeted him and drops from his heart the greatest exultation of success that has ever been given to mankind:*
 
-### Letter 15: St. Paul → Timothy
-
-> *“I Have Fought a Good Fight,
-I Have Finished My Course,
-I Have Kept the Faith”*
+> *“I Have Fought a Good Fight,  
+> I Have Finished My Course,  
+> I Have Kept the Faith”*
 
 PAUL, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus, to Timothy, my dearly beloved son: Grace, mercy, and peace from God the Father, and Christ Jesus our Lord. . . .
 
@@ -466,15 +438,11 @@ And the Lord shall deliver me from every evil work, and will preserve me unto hi
 
 <span class="small-caps">It</span> *is supposed that St. Paul was executed, and was buried in or near Rome.*
 
-### Letter 16: EMPRESS AGRIPPINA → HER SON, NERO
+### Letter 10: Empress Agrippina → Nero
 
-### 9
-*EMPRESS AGRIPPINA TO
-HER SON, NERO*
+### 9 *EMPRESS AGRIPPINA TO HER SON, NERO*
 
 <span class="small-caps">Nero</span> *is the blackest of all the villainous rulers in history. He started well, but ended his own life in disgrace. It was through the influence of his strong-minded mother, Agrippina, that Nero was made emperor, instead of a step-son, Britannicus, who was entitled to the emperorship. His suspicious and cowardly nature led him to put to death his old teacher, Seneca, many innocent and worthy men, his own wife; and, to crown his infamy, he even had his own mother assassinated. On hearing that the Senate had voted his death, he went into hiding, and theatrically stabbing himself, said before passing away, “What a pity for such an artist to die!” The following letter from his mother to him, after hearing that she had been accused of wanting to take his life, is unique among human documents:*
-
-### Letter 17: Empress Agrippina → Nero
 
 *“Unhappy Agrippina!”*
 
@@ -490,12 +458,11 @@ Farewell.
 
 ### 10
 
-### *PLINY, THE YOUNGER, TO TACITUS, ON
-THE ERUPTION OF VESUVIUS*
+### *PLINY, THE YOUNGER, TO TACITUS, ON THE ERUPTION OF VESUVIUS*
 
 <span class="small-caps">The</span> *name* <span class="small-caps">vesuvius</span> *has meant horror, despair, poetic wonderment and historic grandeur through nearly two thousand years. Natives still fear its eruptions, poets sing of the cities which it has destroyed, and historians are forever busy trying to find traces of the ancients who lived in Herculaneum and Pompeii. These two cities were destroyed by the eruption of Vesuvius in the summer of 79 A.D. It is said that liquid mud covered the buildings while people were sitting in the theater. The following letter written by Pliny, the younger, to the historian Tacitus, has come down to us as a classic from the ancient times. It was written several years after the eruption.*
 
-### Letter 18: Pliny → Tacitus
+### Letter 11: Pliny → Tacitus
 
 ### *“The Universe Seemed to Be Perishing”*
 
@@ -513,15 +480,13 @@ Pliny
 
 ### 11
 
-### *MARCUS AURELIUS
-TO SOME WOMEN OF ROME*
+### *MARCUS AURELIUS TO SOME WOMEN OF ROME*
 
 A <span class="small-caps">few</span> *clever women, for once at least, found a match for their wit in the great philosopher and Emperor of Rome, Marcus Aurelius. Rudyard Kipling, who wrote “The Female of the Species,” a poem which aroused the ire of the women of two continents a few years ago, must have been familiar with Aurelius' letter to these presumptuous ladies of Rome. After satirizing the great philosopher, they had the audacity to ask of him a favor. He surprised them by granting it. His reply to a certain question which they propounded to him was the occasion for one of the greatest satires on women that has ever been written. It follows:*
 
-### Letter 19: Marcus Aurelius → Women of Rome
+### Letter 12: Marcus Aurelius → Women of Rome
 
-### *“The Lion May Be Subdued,
-But Woman—?”*
+### *“The Lion May Be Subdued, But Woman—?”*
 
 WHILST I continue at Rhodes, improving myself in the art of oratory, you, I understand, have made and played a farce upon me at Rome. . . . It seems you presented me after different manners. You gave me a book turned upside down, to signify I was an absurd philosopher. You made me go with my tongue lolling out to show I was a bold speaker. You planted horns upon my head to make me pass for a common cuckold. You put a trayling pike in my hand to denote me a cowardly leader. You represented me with no beard as an effeminate person. And lastly, bound a handkerchief about my eyes to make me look as if I had been a condemned criminal. . . .
 
@@ -535,18 +500,17 @@ Farewell.
 
 ### 12
 
-### *THE EMPEROR AURELIAN TO
-QUEEN ZENOBIA, AND HER REPLY*
+### *THE EMPEROR AURELIAN TO QUEEN ZENOBIA, AND HER REPLY*
 
 <span class="small-caps">Zenobia</span>, *Queen of Palmyra, a city state in Persia, was famed for her virtue in private life. A brave, capable and determined ruler, she defied Aurelian, Emperor of Rome, when he demanded that she deliver her city to him. Although the Romans usually heaped praise upon the Emperor who extended the Roman territory, in this instance they ridiculed their Emperor for his ungallant attitude toward the popular Queen of the East. His letter to her follows:*
 
-### Letter 20: Emperor Aurelian → Queen Zenobia
+### Letter 13: Emperor Aurelian → Queen Zenobia
 
 ### *“Give Rome Your Jewels”*
 
 WHAT I now require you ought to have done long since of your own accord. I command you to surrender the city, and thereupon promise both you and yours your lives, but not your liberty. You, Zenobia, and your children must be content to go, where I and the most august senate of Rome think fit to place you. Your jewels, gold, silver and other riches, must all be confiscated to the Roman treasury. Your subjects alone will be freed from captivity, and have their privilege confirmed to them.
 
-### Letter 21: Queen Zenobia → Emperor Aurelian
+### Letter 14: Queen Zenobia → Emperor Aurelian
 
 ### *A WOMAN'S REPLY*
 
@@ -562,12 +526,11 @@ We wait for the succors of the Persians. The Saracens arm for us; the Armenians 
 
 ### 13
 
-### *POPE GREGORY VII.
-TO HENRY IV. OF GERMANY*
+### *POPE GREGORY VII. TO HENRY IV. OF GERMANY*
 
 <span class="small-caps">Hildebrand</span>, *son of a Tuscany laborer, a monk while yet a youth, the Pope's chaplain at twenty-one, and for eighteen years directing the policy of the papacy under five successive popes, more than once refusing the opportunity to become pope, but at last, 1073, yielding to the wishes of the people of Rome, becoming Pope Gregory VII—this unusual man's life presents one of the most remarkable stories in history. He had a frail body, but a fiery soul and possessed great ability as a leader and statesman. He established the temporal power of the papacy on such a basis that he and the later popes could depose emperors at will. Henry IV. of Germany had been guilty of a number of irregularities as a supposedly Christian ruler. The Pope was desirous of bringing the straying sheep back into the fold. Henry did not like Gregory's assumption of temporal power. It was a war of words that started a contest between popes and emperors which lasted for several hundred years, ending in the Pope shutting himself up as a “prisoner of the Vatican,” and released only recently by a treaty between Pope Pius and Mussolini. The following letter to Henry, and* *Henry's stinging reply (the next letter in this series) form an epistolary record which will stand for ages. In this letter Gregory asserts his power, through Peter, over temporal princes.*
 
-### Letter 22: Pope Gregory VII → Henry IV. of Germany
+### Letter 15: Pope Gregory VII → Henry IV. of Germany
 
 ### *“Confess Your Sins”*
 
@@ -581,13 +544,11 @@ We wonder, moreover, that you should continue to assure us by letter and messeng
 
 But from what you have since done and decreed, it is evident how little you care for our warnings, or for the observance of justice. . . . But since we hope that, while the long-suffering patience of God still invites you to repent, you may become wiser and your heart may be turned to obey the commands of God, we warn you with fatherly love that . . . you should consider how dangerous it is to place your honor above <span class="small-caps">His</span>.
 
-### 14
-*HENRY IV. OF GERMANY TO
-POPE GREGORY VII.*
+### 14 *HENRY IV. OF GERMANY TO POPE GREGORY VII.*
 
 <span class="small-caps">For</span> *writing the following letter to Pope Gregory, Henry IV. was excommunicated. It was in answer to Gregory's letter to him requesting the King to confess his sins. Henry's friends fell away, unable to stand before the terrible papal bull. The King hurried to meet the Pope at Conossa, who was already on his way across the Alps. Gregory refused to see Henry, and the latter stood barefoot in the snow for three days, wearing a penitent's garb. Admitted finally into the presence of the Pope, Henry threw himself at Gregory's feet crying, "Spare me, Holy Father, spare me!" Gregory was moved to tears and gave Henry the kiss of peace. In this letter Henry hints at the irregularity of the election of Gregory to the head of the church. Gregory was elected Pope by the people of Rome, but this action was later approved by the cardinals. Here is the fiery epistle which made this great chapter in history:*
 
-### Letter 23: Henry IV. of Germany → Pope Gregory VII
+### Letter 16: Henry IV. of Germany → Pope Gregory VII
 
 ### *“Get Thee Down to Everlasting Damnation”*
 
@@ -595,19 +556,17 @@ January 24, 1076
 
 HENRY, king not by usurpation, but by the holy ordination of God, to Hildebrand, not pope, but false monk.
 
-This is the salutation which you deserve, for you have never held any office in the Church without making it a source of confusion and a curse to Christian men, instead of an honor and a blessing. To mention only the most obvious causes out of many, you have not only dared to lay hands on the Lord’s anointed, the archbishops, bishops, and priests, but you have scorned them and abused them, as if they were ignorant servants not fit to know what their master was doing. This you have done to gain favor with the vulgar crowd. You have declared that the bishops know nothing and that you know everything; but if you have such great wisdom you have used it not to build but to destroy. Therefore we believe that St. Gregory, whose name you have presumed to take, had you in mind when he said: “The heart of the prelate is puffed up by the abundance of subjects, and he thinks himself more powerful than all others.” All this we have endured because of our respect for the papal office, but you have mistaken our humility for fear, and have dared to make an attack upon the royal and imperial authority which we received from God. You have threatened to take it away, as if we had received it from you, and as if the Empire and kingdom were in your disposal and not in the disposal of God. Our Lord Jesus Christ has called us to the government of the Empire, but He never called you to the rule of the Church. This is the way you have gained advancement in the Church; through craft you have obtained wealth; through wealth you have obtained favor; through favor, the power of the sword; and through the power of the sword, the papal seat, which is the seat of peace; and then from the seat of peace you have expelled peace. For you have incited subjects to rebel against their prelates by teaching them to despise the bishops, their rightful rulers.... St. Paul, who said that even an angel from heaven should be accursed who taught any other than the true doctrine, did not make an exception in your favor, to permit you to teach false doctrines. For he says, “But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.” ( Galatians 1:8 ). Come down, then, from that apostolic seat which you have obtained by violence ; for you have been declared accursed by St. Paul for your false doctrines, and have been condemned by us and our bishops for your evil rule. Let another ascend the throne of St. Peter, one who will not use religion as a cloak of violence, but will teach the life-giving doctrine of that prince of the apostles. I, Henry, king by the grace of God, with all my bishops, say unto you: “Get thee down, get thee down to everlasting damnation!”
+This is the salutation which you deserve, for you have never held any office in the Church without making it a source of confusion and a curse to Christian men, instead of an honor and a blessing. To mention only the most obvious causes out of many, you have not only dared to lay hands on the Lord’s anointed, the archbishops, bishops, and priests, but you have scorned them and abused them, as if they were ignorant servants not fit to know what their master was doing. This you have done to gain favor with the vulgar crowd. You have declared that the bishops know nothing and that you know everything; but if you have such great wisdom you have used it not to build but to destroy. Therefore we believe that St. Gregory, whose name you have presumed to take, had you in mind when he said: “The heart of the prelate is puffed up by the abundance of subjects, and he thinks himself more powerful than all others.” All this we have endured because of our respect for the papal office, but you have mistaken our humility for fear, and have dared to make an attack upon the royal and imperial authority which we received from God. You have threatened to take it away, as if we had received it from you, and as if the Empire and kingdom were in your disposal and not in the disposal of God. Our Lord Jesus Christ has called us to the government of the Empire, but He never called you to the rule of the Church. This is the way you have gained advancement in the Church; through craft you have obtained wealth; through wealth you have obtained favor; through favor, the power of the sword; and through the power of the sword, the papal seat, which is the seat of peace; and then from the seat of peace you have expelled peace. For you have incited subjects to rebel against their prelates by teaching them to despise the bishops, their rightful rulers.... St. Paul, who said that even an angel from heaven should be accursed who taught any other than the true doctrine, did not make an exception in your favor, to permit you to teach false doctrines. For he says, “But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.” ( Galatians 1:8 ). Come down, then, from that apostolic seat which you have obtained by violence; for you have been declared accursed by St. Paul for your false doctrines, and have been condemned by us and our bishops for your evil rule. Let another ascend the throne of St. Peter, one who will not use religion as a cloak of violence, but will teach the life-giving doctrine of that prince of the apostles. I, Henry, king by the grace of God, with all my bishops, say unto you: “Get thee down, get thee down to everlasting damnation!”
 
 * * *
 
 <span class="small-caps">This</span> *mighty struggle between these two princes ended tragically. After some time Gregory was driven from Rome, and died soon in the Southern part of Italy, exclaiming sadly, “I have loved righteousness and hated iniquity; therefore I die in exile.”* *Henry had a similar fate. He quarreled with Gregory’s successor; his sons stirred up revolts against him; his old age was full of trouble; for years he was a prisoner, and died in 1106, “broken-hearted, in the midst of defeat and shame.”*
 
-### 15
-*A CRUSADER'S LETTER TO
-HIS WIFE*
+### 15 *A CRUSADER'S LETTER TO HIS WIFE*
 
 <span class="small-caps">There</span> *are two things which will suffice to move heaven and earth: religion and love. Men and women have done the impossible for both in the ages past; they will continue to do the impossible for religion and love in the ages to come. Thousands of men, women and children lost their lives in the crusades to the Holy Lands, in an effort to wrest Palestine from the hands of the Turks. Pope Urban's fiery eloquence at a great gathering of French nobles at Clermont in 1095 thrilled the multitude to a frenzy of enthusiasm, when he "preached a war of the Cross to recover the Holy Sepulcher from the infidel." They caught up his cry: "God wills it! God wills it!" and for two hundred years the Crusades were a continuous movement, hordes of Christians moving slowly, laboriously, often disastrously, toward Asia. The following letter from Count Stephen to his wife is a historical gem and the most famous of all the letters written by the Crusaders.*
 
-### Letter 24: Count Stephen → Adele
+### Letter 17: Count Stephen → Adele
 
 ### *“Enemies of God”*
 
@@ -635,10 +594,9 @@ Farewell.
 
 <span class="small-caps">The</span> *vanity in us all makes us want to leave something to be remembered by when we are gone. This was especially characteristic of Petrarch and the scholars of the Renaissance. Petrarch was the greatest scholar of this period. He was intensely human, as the following letter will show. Some peculiar whim moved him to write this letter to posterity. The idea of the letter itself, and the wit and subtle humor of its passages, have made it one of the world's greatest epistles.*
 
-### Letter 25: Petrarch → Posterity
+### Letter 18: Petrarch → Posterity
 
-### *"If I Only Lived Well,
-It Matters Little How I Talked"*
+### *"If I Only Lived Well, It Matters Little How I Talked"*
 
 <span class="small-caps">Greeting</span>— It is possible that some word of me have come to you, though even this is doubtful, since an insignificant and obscure name will scarcely penetrate far in either time or space. If, however, you should have heard of me, you may desire to know what manner of man I was. . . .
 
@@ -656,13 +614,11 @@ My style, as many claimed, was clear and forcible, but to me it seemed weak and 
 
 *Supposedly written in his 66th year, 1370.*
 
-### 17
-*MICHEL ANGELO
-TO THE POPE'S ARCHITECT*
+### 17 *MICHEL ANGELO TO THE POPE'S ARCHITECT*
 
 <span class="small-caps">Michel Angelo</span> *denied himself to such an extent, while doing sculptural work in Rome, that at one time he slept in one bed with three working men. But he spent most of his life in Rome alone. He never knew the love of woman. As an architect, engineer, sculptor, painter and poet, winning fame in all, he had little time for other things. That he also had an eye for finances is shown in his relations with Pope Julius II. The following letter, relating his difficulties with Julius, shows that he was very much human as well as a genius:*
 
-### Letter 26: Michel Angelo → Maestro Guliano
+### Letter 19: Michel Angelo → Maestro Guliano
 
 ### *"The Whole of Florence for Security"*
 
@@ -689,7 +645,7 @@ Sculptor, in Florence.
 
 <span class="small-caps">Some</span> *of the finest gems in literature are letters of great persons to children. Martin Luther wrote a letter to his son in 1533, which has never been forgotten during all these generations. As a child how would you like to have lived in a garden like this?*
 
-### Letter 27: Martin Luther → Hans
+### Letter 20: Martin Luther → Hans
 
 ### *The Wonderful Garden*
 
@@ -705,12 +661,11 @@ Martin Luther.
 
 ### 19
 
-### *POPE LEO X. TO DUKE GEORGE
-OF SAXONY*
+### *POPE LEO X. TO DUKE GEORGE OF SAXONY*
 
 <span class="small-caps">When</span> *Pope Leo X heard that Martin Luther had rebelled against certain practices of the Catholic church, he “flew up in arms” and wrote the most powerful princes and churchmen in Germany to extirpate the “only son of Satan.” In one of these letters he calls Luther an “infected scrofulous sheep” which must not be allowed to “grow strong in the healthy sheepfold of the Lord.” The following letter reveals the indignation of the Pope, and at the same time marks the beginning of one of the greatest movements in history, the Reformation:*
 
-### Letter 28: Pope Leo X → Duke George of Saxony
+### Letter 21: Pope Leo X → Duke George of Saxony
 
 ### *“Martin Luther, Son of Perdition”*
 
@@ -726,7 +681,7 @@ Desiring to extirpate this tare and cockle from the fertile field of the Lord, b
 
 <span class="small-caps">The</span> *world has had many periods of woe, but perhaps none comparable to the suffering visited upon Europe and Asia by the Black Death, a plague which carried off from one-fourth to one-half of the population in many cities and countries during the fourteenth century. In some places so many died there were not enough left to bury the dead. In describing a plague at Florence, Petrarch wrote to a friend: “O happy posterity, who will not experience such dismal woe and will look upon our testimony as a fable!” Plagues of this nature visited Europe at intervals during the fourteenth and seventeenth centuries. At Danzig so many died that often from thirty to fifty were buried in one grave, piled one upon another. The following remarkable letter, describing the plague in Italy, was written by John Baptista Spinell to an unknown friend.*
 
-### Letter 29: John Baptista Spinell
+### Letter 22: John Baptista Spinell
 
 ### *“The People Are Perishing”*
 
@@ -754,7 +709,7 @@ Thy devoted, John Baptista Spinell.
 
 “<span class="small-caps">My</span> *favorite character in English history,” a school boy once wrote, “is Henry VIII. because he had eight wives and killed them all.” The boy made him a Bluebeard. Henry was married only six times and killed only two of his wives, but he treated a few of the others rather cruelly. He divorced his dutiful Catherine of Aragon after twenty years of married life. She was greatly beloved by her subjects. Her last plea before the King is one of the most pathetic incidents in history. Henry’s heart was set on a beautiful maid of honor, Anne Boleyn. She is said to have been even more charming than beautiful. She was a brunette, rather tall and slender, engaging in personality, with a ready wit and vivacious manner, and was proud of a very small and beautiful neck. After awhile the King grew tired of her and centred his affections upon Jane Seymour. Anne Boleyn had already become the mother of Elizabeth, the future great Queen of England. Henry charged his wife with disloyalty. He confined her to the Tower and sentenced her to death. Young, beautiful, intelligent, mother of a promising child who needed her counsel, Anne Boleyn in the Tower presents a pitiable figure, one of the sad victims* *of the whims of fate. Her last plea to Henry was the following famous letter written to him from her “doleful prison”:*
 
-### Letter 30: Anne Boleyn → Henry VIII.
+### Letter 23: Anne Boleyn → Henry VIII.
 
 ### *“My Doleful Prison in the Tower”*
 
@@ -774,12 +729,11 @@ Anne Boleyn.
 
 ### 22
 
-### *WALTER, EARL OF ESSEX, TO LORD
-BURLEIGH, LORD TREASURER*
+### *WALTER, EARL OF ESSEX, TO LORD BURLEIGH, LORD TREASURER*
 
 How *much should parents interfere in the marriage engagements of their children? History reveals that in many countries it has been a very important part of the parental duty to see that the son or daughter was well-married. Parents have looked upon elopements as something terrible. In the selection of mates, which is the wiser course, to follow instinct and love entirely, or the advice of older ones? The experience of mankind has not fully answered this question. Great mistakes have been made both ways. Perhaps they will continue to be made for a long time to come. That contracting marriage was a very business-like proposition among the noblemen of old England, is indicated by the following letter from the Earl of Essex to Lord Burleigh, proposing marriage between the former's son and the latter's daughter.*
 
-### Letter 31: W. Essex → Lord Burleigh
+### Letter 24: W. Essex → Lord Burleigh
 
 ### *“The Countess, Your Daughter”*
 
@@ -795,13 +749,11 @@ W. Essex.
 
 To *the Right Honorable my very good Lord, the Lord Burleigh, Lord Treasurer of England.*
 
-### 23
-*MARY QUEEN OF SCOTS TO HER LOVER,
-THE EARL OF BOTHWELL*
+### 23 *MARY QUEEN OF SCOTS TO HER LOVER, THE EARL OF BOTHWELL*
 
 <span class="small-caps">Unhappy</span> *Mary Queen of Scots! Beautiful, as a queen should be, brilliant, affable, defiant, fervent in love, she was the victim of an indecent court in youth, being trained by Catherine de Medici in France; a victim of two unhappy marriages which were forced upon her by circumstances, a third and the only marriage of love ending in the banishment of her husband and the loss of her throne; accused of the murder of her second husband; thrown into the hands of her English enemies, once befriended by her cousin, Queen Elizabeth, who later signed Mary's death warrant, though reluctantly; going to her death praying for her enemies and Queen Elizabeth, asking her executioners to admit some of her subjects so that they might see how bravely a queen could die; misrepresented, the victim of ambitious plots and her own passions, welcoming death to put an end to her troubles — this queen presents a life which those who read with an unbiased mind, find much to censure, more to love, and still more to pity — truly a tragic life, a life which found itself unable to withstand the cruel flings of an indifferent world. The following is one of the love letters for which she has become famous:*
 
-### Letter 32: M. R. → Earl of Bothwell
+### Letter 25: M. R. → Earl of Bothwell
 
 ### *“This Burden of a Crown”*
 
@@ -817,17 +769,15 @@ Farewell.
 
 ### 24
 
-### *QUEEN ELIZABETH TO MARY,
-QUEEN OF SCOTS*
+### *QUEEN ELIZABETH TO MARY, QUEEN OF SCOTS*
 
 <span class="small-caps">The</span> *world will perhaps never know exactly how Queen Elizabeth felt about executing her cousin, the beautiful Mary Queen of Scots. It is known that Elizabeth, more than once, expressed sympathy for Mary because of the many troubles that had beset the ill-fated Queen from the day she left France, where she was brought up, until she was banished from the throne of Scotland. At one time Elizabeth was about to intercede in behalf of Mary, when the great Cecil advised her that, in siding with Mary, she would be offending a faction in Scotland, whose friendship at that time, was necessary to be kept intact for the benefit of England.*
 
 *Elizabeth was driven, step by step, by political circumstances, to imprison Mary. Although accused of being jealous of Mary's beauty and power, to which there may be some truth, at the same time, Elizabeth's position as Queen, surrounded by factions also, naturally made her sympathize with her cousin. Mary was accused of conspiring against Elizabeth's life, was tried and sentenced to death. Elizabeth was reluctant to sign the death warrant, and after she had done so, expressed regret that one of Mary's* *keepers had not found a way to shorten the latter's life, thereby relieving her of a great responsibility. Mary was of a defiant disposition. The following letter gives us an insight into the relations between the two, which ended in the tragedy the world will never forget:*
 
-### Letter 33: Queen Elizabeth → Mary, Queen of Scots
+### Letter 26: Queen Elizabeth → Mary, Queen of Scots
 
-### *“Your Cousin That Wisheth
-You a Better Mind”*
+### *“Your Cousin That Wisheth You a Better Mind”*
 
 February 1, 1571.
 
@@ -846,7 +796,7 @@ you a better mind.
 
 <span class="small-caps">If</span> *you were sentenced to die, and you had an opportunity to write to your wife, whom you would never see again, what would you say? How would you dispose of your property? What advice would you give with regard to your children? Would you advise her to marry again? These and a number of other matters are touched upon in the letter which Sir Walter Raleigh wrote to his wife the night before he expected to be beheaded at Winchester, England. Raleigh had been accused of conspiracy, was tried and condemned to death. The following letter was written in 1603:*
 
-### Letter 34: Walter Raleigh → Wife
+### Letter 27: Walter Raleigh → Wife
 
 ### *“Time and Death Call Me Away”*
 
@@ -870,12 +820,11 @@ Walter Raleigh.
 
 <span class="small-caps">Raleigh's</span> *execution did not come the next day. He remained in prison for twelve years, was pardoned to make a sea voyage, but failing in this enterprise, he was again imprisoned, and was executed in October, 1618.*
 
-### 26
-*SIR FRANCIS BACON TO KING JAMES I.*
+### 26 *SIR FRANCIS BACON TO KING JAMES I.*
 
 “<span class="small-caps">The</span> *smartest and meanest of mankind,” Macaulay said of Bacon; a rather unfair estimate of the man, yet it was characteristic of Macaulay to use contrast to an exaggerated degree. Born of noble parentage, Bacon was thwarted in his youthful ambitions by his uncle, Lord Burleigh, one of Elizabeth’s ministers. But he studied law, entered Parliament, where he became famed for his pithy speeches, rose to the highest legal position in England, was a writer of immortal essays, is the father of the present age of scientific experiment and progress, because he taught men to think, in his scientific writings; yet in spite of all this learning, in spite of his powerful intellect, he accepted bribes as a judge, was tried, found guilty, fined forty thousand pounds, and sentenced to be imprisoned in the Tower during the King’s pleasure. The King released him, remitted the fine, and gave him an annual pension of twelve hundred pounds. The following letter to the King after his disgrace shows his misery, and gives in his own words an account of how far in the world he had gone, and how low he had fallen, a unique document in all literature:*
 
-### Letter 35: Francis St. Albans → King James I.
+### Letter 28: Francis St. Albans → King James I.
 
 ### *“Help Me, Dear Sovereign, and Pity Me”*
 
@@ -903,10 +852,9 @@ Francis St. Albans.
 
 <span class="small-caps">Oliver Cromwell</span> *won the great battle of Marston Moor with an army of farmers who went into the fight singing the Old Testament Psalms. His troop was known as “Ironsides.” He felt that religious enthusiasm was a great factor in winning battles. His men were free from the usual license of the camp. They were truly Godly men. In selecting these men for soldiers there was a bit of strategy, as well as sincerity, on Cromwell’s part. It is well known to students of history that he was uniformly successful in this war against the tyrannical Charles I., the latter losing his throne and his head as a result of the war, and Cromwell becoming Lord Protector of England. The following letter to one of his subordinates is significant because it gives Cromwell’s idea of what he wanted his army to be:*
 
-### Letter 36: O. Cromwell → Colonel Francis Hacker
+### Letter 29: O. Cromwell → Colonel Francis Hacker
 
-### *“He That Prays and Preaches Best
-Will Fight Best”*
+### *“He That Prays and Preaches Best Will Fight Best”*
 
 December 25, 1650
 
@@ -924,12 +872,11 @@ Two *other great generals of history who claimed that prayer played a great part
 
 ### 28
 
-### *DAVID HUME TO AN UNKNOWN FRIEND
-CONCERNING ROUSSEAU*
+### *DAVID HUME TO AN UNKNOWN FRIEND CONCERNING ROUSSEAU*
 
 “<span class="small-caps">Man</span> *is born free and yet is now everywhere in chains.” These eleven words, written by the great French writer, Rousseau, in the eighteenth century, have played an inestimable part in revolutionizing the governments of mankind. This clarion call to men the world over to rise and shake off their ancient bondage was answered in the American and French Revolutions. Rousseau was also influential in education. In his book, “Emile,” he says that men are overcivilized. He wanted them to return to nature. “All things are good as their Author made them,” he writes, “but everything degenerates in the hands of man. . . . Civilized man is born, lives, dies in a state of slavery. At his birth he is sewed in swaddling clothes; at his death he is nailed in a coffin.” But this unusual man, this inspiring apostle of human freedom, in addition to the troubles heaped upon him by his countrymen, was subject to the eccentricities of genius, and fell into strange imaginings. A contemporary of his was the English philosopher, David Hume. It was inevitable that these two unusual minds should come into contact. The following letter on an incident in the life of Rousseau shows to what extremity genius will sometimes go:*
 
-### Letter 37: David Hume
+### Letter 30: David Hume
 
 ### *“The Poor Man Is Mad”*
 
@@ -945,15 +892,13 @@ David Hume.
 
 ### 29
 
-### *VOLTAIRE TO FREDERICK WILLIAM,
-PRINCE OF PRUSSIA*
+### *VOLTAIRE TO FREDERICK WILLIAM, PRINCE OF PRUSSIA*
 
 <span class="small-caps">It</span> *is not easy to judge the religion of a man who criticizes the Church. Voltaire attacked the Church mercilessly. He believed that it was responsible for most of the evils of his day. He was blind to the good that it had done. As a result, his attitude toward religion has many times been misunderstood. There is a work entitled: “Voltaire in Hades.” The truth is, Voltaire was a firm believer in God. At his country home on Lake Geneva he erected a temple which he dedicated to the God of Nature. He defended the existence of the soul, and pronounced Baron d’ Holbach’s book, “The System of Nature” (on the necessity of Atheism) as a “sin against nature.” Truly he was a breaker of images, but he wrote in defense of human freedom, especially the free exercise of reason. Lowell said that we owe half of our liberties to that “leering old mocker.” He wrote dramas, histories, philosophic works, romances, epics and innumerable letters. The following letter is of interest because of Voltaire’s defense of God and the soul.*
 
-### Letter 38: Voltaire → Frederick William, Prince of Prussia
+### Letter 31: Voltaire → Frederick William, Prince of Prussia
 
-### *‘If There Were No God It Would
-Be Necessary to Invent One”*
+### *‘If There Were No God It Would Be Necessary to Invent One”*
 
 MONSEIGNEUR, the royal family of Prussia has excellent reasons for not wishing the annihilation of the soul. It has more right than anyone to immortality.
 
@@ -983,7 +928,7 @@ Voltaire.
 
 “<span class="small-caps">If</span> *your works deserve statues, your conduct deserves chains,” wrote Frederick the Great to Voltaire. Voltaire replied: “I demand justice and death.” This came at the end of a friendship between the two that had attracted the attention of the civilized world. Voltaire had been invited to live with Frederick at the latter's court. For a while they got along well together, but their eccentricities, the differences in their personalities, inevitably led to trouble. They quarreled and parted. The break came about in a rather unusual way. Frederick had given Voltaire permission to have published in the royal printing office a Defense of Lord Bolingbroke. Voltaire was accused of slipping in an additional work, “The Diatribe of Dr. Akakia.” The latter was a merciless onslaught on Maupertuis, the President of the Royal Academy of Berlin, and Frederick's very close friend. There was some controversy as to whether Voltaire or the printer was responsible for the insertion of Akakia. “Your effrontery amazes me,” said Frederick. “Do not imagine you can make people believe black is white.” On New Year's Day, 1753, Voltaire returned to Frederick the* *cross and ribbon of the Prussian honor which had been conferred upon him, and wrote the following farewell:*
 
-### Letter 39: Voltaire → Sire
+### Letter 32: Voltaire → Sire
 
 ### *“I Made You My Idol”*
 
@@ -1001,19 +946,17 @@ Voltaire.
 
 <span class="small-caps">In</span> *spite of the differences which had arisen between the two, and after Voltaire had written the above letter, Frederick would not let Voltaire leave Germany. Three months later, March 1st, Voltaire wrote Frederick pleading for permission to go to Plombieres and drink the waters there for his health. The following famous dismissal was written by Frederick, March 16, 1753:*
 
-### Letter 40: Frederick
+### Letter 33: Frederick
 
 He can leave my service when he feels inclined: he need not trouble to invent the excuse of the waters of Plombieres, but he must have the goodness before he goes, to return to me the contract of the engagement, the key, the cross and the volume of poetry which I have confided to him. I could wish that he and Koenig had only attacked my works, which I sacrifice willingly to those who desire to belittle other people’s reputations. I have none of the vanity and folly of authors, and the cabals of men of letters seem to me the depth of baseness.
 
 Frederick.
 
-### 31
-*THE EARL OF CHESTERFIELD TO
-HIS SON, PHILIP STANHOPE*
+### 31 *THE EARL OF CHESTERFIELD TO HIS SON, PHILIP STANHOPE*
 
 <span class="small-caps">The</span> *Earl of Chesterfield, who married the daughter of a king, rose to be Lord Protector of Ireland and became Secretary of State, is remembered best for what he wanted to be remembered by least, or not at all, and that is, the letters to his son. And what he wanted to be remembered by, his acts and writings, have been forgotten. He became an ally of the great Pitt and an enemy of Robert Walpole. He was tremendously in earnest about the education of his son, and his letters are full of sincere advice. Much of this advice is of the best kind, while a great deal of it would not today, or even then, be suitable for any son, according to critics of the great Earl. It many times happens that what is not intended to be literature is the most interesting of all literature, because such writings very often are unaffected effusions of the heart and soul. The following is typical:*
 
-### Letter 41: Earl of Chesterfield → Philip Stanhope
+### Letter 34: Earl of Chesterfield → Philip Stanhope
 
 ### *Concerning Women*
 
@@ -1029,7 +972,7 @@ But these are secrets that you must keep inviolably, if you would not, like Orph
 
 A <span class="small-caps">great</span> *English philosopher at a dinner table would, “in a fit of absence, stoop down and twitch off a lady’s shoe. He would amaze a drawing room by suddenly ejaculating a clause of the Lord’s prayer.” That man was Dr. Samuel Johnson, literary dictator and conversationalist. He was a great man who fought a lifelong struggle against his own peculiarities. It was because of these eccentricities that his wealthy friend and literary patron, the Earl of Chesterfield, finally refused to admit him to his home. Years later Dr. Johnson was preparing a great dictionary. The public was eager to see it. Johnson was now famous. Chesterfield, who as a patron, should have assisted Johnson during his early literary struggles, seeing the latter’s growing popularity, wanted to renew the friendship. It is a pitiable figure, this eccentric young Johnson struggling, with so little hope, against his own weaknesses, poverty and disease. It is no wonder that when success came to him he looked back upon his past and his relations with Chesterfield with mixed emotions of pride and bitterness. Hearing of Chesterfield’s* *desire to renew the friendship, Johnson wrote him the caustic letter which follows:*
 
-### Letter 42: Sam. Johnson → Chesterfield
+### Letter 35: Sam. Johnson → Chesterfield
 
 ### *“Now That I Am Great”*
 
@@ -1051,16 +994,13 @@ Most obedient servant,
 
 Sam. Johnson.
 
-### 33
-*GEORGE WASHINGTON TO THE
-CONTINENTAL CONGRESS*
+### 33 *GEORGE WASHINGTON TO THE CONTINENTAL CONGRESS*
 
 “<span class="small-caps">Fighting</span> *will be far preferable to starving,”* *wrote General Huntington to General Washington, when the latter ordered him to be in readiness to march against the enemy. This was during the terrible winter at Valley Forge. Washington’s generals were complaining because of a lack of provisions. In vain the great commander had urged the Continental Congress to send food and clothing. He was forced to do what all honest generals dislike very much to do — forage the surrounding country and seize supplies wherever he could find them. Although he had been given this authority by Congress, he “had a strong sympathy with the cultivators of the soil and ever regarded the yeomanry with a paternal eye.” He was accused, by his enemies, of being wilfully inactive, when in reality he could not fight because he had nothing with which to fight. His army was small, and what men he had were either freezing to death or starving. A dangerous mutiny had occurred among General Varnum’s men which had been very difficult to put down. There were provisions aplenty lying at different places “on the roads and in the woods,” perishing for want of ways to transport them. Such was the inefficiency of* *Congress and the commissariat. It was under these circumstances that Washington wrote the following famous letter:*
 
-### Letter 43: George Washington → Continental Congress
+### Letter 36: George Washington → Continental Congress
 
-### *“On a Cold, Bleak Hill Without
-Clothes or Blankets”*
+### *“On a Cold, Bleak Hill Without Clothes or Blankets”*
 
 December 23, 1777
 
@@ -1078,12 +1018,11 @@ George Washington.
 
 ### 34
 
-### *THOMAS PAINE
-TO GEORGE WASHINGTON*
+### *THOMAS PAINE TO GEORGE WASHINGTON*
 
 “<span class="small-caps">Tyranny</span>, *like hell, is not easily conquered,”* *were a few of the ringing words which Thomas Paine, soldier of fortune, wrote during the American Revolution to stir the people to action against the British. Benjamin Franklin had persuaded him to come to America and edit the Pennsylvania Magazine. After the Revolution Paine went to France and became involved in the intrigues of the French Revolution. He was arrested and imprisoned. He disliked Washington very much because the latter did not get him released. He also had a natural dislike for Washington’s conservative policies, Paine thinking the United States should have had a freer government. This stinging letter to Washington is unique of its kind in all history. It has become so famous that it is known as Thomas Paine’s letter.*
 
-### Letter 44: Thomas Paine → George Washington
+### Letter 37: Thomas Paine → George Washington
 
 ### *“A Hypocrite in Public Life”*
 
@@ -1099,13 +1038,11 @@ And as to you, sir, treacherous to private friendship ( for so you have been to 
 
 Thomas Paine.
 
-### 35
-*MADAME SEVIGNE TO HER DAUGHTER,
-MADAME DE GRIGNAN*
+### 35 *MADAME SEVIGNE TO HER DAUGHTER, MADAME DE GRIGNAN*
 
 <span class="small-caps">Every</span> *honest trade has its noblemen. "Put thy heart into thy trowel," said an old Frenchman. Joy comes to the man who does his work well, be it ever so small. Men and women bury themselves in their trade and forget the cares of a troublous world. The butcher is just as proud of the finesse with which he cuts a steak, as the statesman is of an eloquent speech; the cook is just as proud of her cake, as the poet is of his verse. Pride in achievement is the mainspring of human progress. There is honor in every trade. A brick mason can rightly feel himself disgraced if his work is toppled by the first storm. Even the housewife has her pride. What hostess has not at some time been embarrassed by the insufficiency of her table? The meat would not go round, or the biscuits ran out. Men have died for the honor of their trade. The little story narrated in the following letter by Madame Sévigné, the celebrated Frenchwoman, whose beautiful letters have become known far beyond the realm of France, shows to what extremities men may go for the glory of their handiwork:*
 
-### Letter 45: Madame Sevigne → Madame de Grignan
+### Letter 38: Madame Sevigne → Madame de Grignan
 
 ### *“For the Honor of His Trade”*
 
@@ -1113,12 +1050,11 @@ Paris, Sunday, April 26, 1671
 
 THIS is Sunday, April 26th, and this letter will not go out till Wednesday; but it is not so much a letter as a narrative that I have just learned from Moreuil, of what passed at Chantilly with regard to poor Vatel. I wrote to you last Friday that he had stabbed himself — these are the particulars of the affair: The King arrived there on Thursday night; the walk, and the collation, which was served in a place set apart for the purpose, and strewed with jonquils, were just as they should be. Supper was served, but there was no roast meat at one or two of the tables, on account of Vatel’s having been obliged to provide several dinners more than were expected. This affected his spirits, and he was heard to say, several times, “I have lost my honor! I cannot bear this disgrace!” “My head is quite bewildered,” said he to Gourville. “I have not had a wink of sleep these twelve nights; I wish you would assist me in giving orders.” Gourville did all he could to comfort and assist him; but the failure of the roast meat ( which, however, did not happen at the King’s table, but at some of the other twenty-five), was always uppermost with him. Gourville mentioned it to the Prince, who went directly to Vatel's apartment, and said to him: “Everything is extremely well conducted, Vatel; nothing could be more admirable than his majesty's supper.” “Your highness's goodness,” replied he, “overwhelms me; I am sensible that there was a deficiency of roast meat at two tables.” “Not at all,” said the Prince; “do not perplex yourself, and all will go well.” Midnight came; the fireworks did not succeed, they were covered with a thick cloud; they cost sixteen thousand franks. At four o'clock in the morning Vatel went round and found everybody asleep; he met one of the under-purveyors, who had just come in with only two loads of fish. “What!” said he, “is this all?” “Yes, sir,” said the man, not knowing that Vatel had dispatched other people to all the seaports around. Vatel waited for some time; the other purveyors did not arrive; his head grew distracted; he thought there was no more fish to be had. He flew to Gourville: “Sir,” said he, “I cannot outlive this disgrace.” Gourville laughed at him. Vatel, however, went to his apartment, and setting the hilt of his sword against the door, after two ineffectual attempts, succeeded in the third, in forcing his sword through his heart. At that instant the carriers arrived with the fish; Vatel was inquired after to distribute it. They ran to his apartment, knocked at the door, but received no answer, upon which they broke it open, and found him lying in a sea of blood. A messenger was immediately dispatched to acquaint the Prince with what had happened, who was like a man in despair. The Duke wept, for his Burgundy journey depended upon Vatel. The Prince related the whole affair to his majesty with great concern; it was considered as a consequence of too nice a sense of honor; some blamed, others praised him for his courage. The King said he had put off this excursion for more than five years because he was aware it would be attended with infinite trouble. He told the Prince that he ought to have had but two tables, and not have been at the expense of so many, and declared that he would never suffer him to do so again; but all this was too late for poor Vatel. However, Gourville attempted to supply the loss of Vatel which he did in great measure. The dinner was elegant, the collation the same. They supped, they walked, they hunted; all was perfumed with jonquils, all was enchantment. . . .
 
-### 36
-*FRANKLIN TO STRAHAN*
+### 36 *FRANKLIN TO STRAHAN*
 
 A <span class="small-caps">poor</span> *boy at sixteen, wealthy enough to retire at forty-two and devote the rest of his life to public service, printer, inventor, scientist, philosopher, statesman, Benjamin Franklin, Doctor Franklin, they called him in Europe, the first self-made American, set an example of success, human benefaction and patriotism that has never been surpassed in our history. His patriotism never received the glamour that surrounded Washington, because its expression lay along quieter channels, but through his negotiations in England and France he proved himself to be so valuable a factor that, without his labors, America might not have gained her freedom. The following cryptic letter to his old friend, Strahan, in England, has long been famous because of its patriotic fervor and unique ending. It is the shortest famous letter ever written by an American.*
 
-### Letter 46: B. Franklin → Strahan
+### Letter 39: B. Franklin → Strahan
 
 ### *“My Enemy”*
 
@@ -1136,7 +1072,7 @@ B. Franklin.
 
 <span class="small-caps">In</span> *the midst of Napoleon's brilliant military successes in Italy he was torn with the vicissitudes of love. The charming young widow, Josephine de Beauharnais, whom he had married not long before departing for his campaign, was anything but true to him while he was away. He was now only twenty-seven years of age. His letters to her while he was in Italy are among the most compassionate in any language. "No letters from you," he is continually complaining as he writes to her. "I write to you very often," he says, "and you write me very little." And when he does hear from her, he writes, "Your letters are as cold as fifty years." It was due to Josephine's influence with government officials that Napoleon received the command in Italy. She used her charm to advantage. When he left she spent her time at gay parties and in company with numerous paramours, all of which Napoleon heard about, yet he continued to love her. Thus this "adventurer and wrecker," as H. G. Wells calls him; "this dark little archaic personage, hard, compact, capable, unscrupulous, imitative and neatly vulgar," whom the artists have painted as living in hell tortured by the accusing cries of the thousands whom he murdered, was as great a lover as he was a conqueror, as* *fervent in affection as he was brave on the battlefield. Of his ability to love, this burning letter is evidence:*
 
-### Letter 47: Bonaparte → Josephine
+### Letter 40: Bonaparte → Josephine
 
 ### *“Ah! Josephine! Josephine!”*
 
@@ -1160,7 +1096,7 @@ Bonaparte.
 
 “<span class="small-caps">Jefferson</span> *still lives,” said John Adams on his dying bed. He did not know that Jefferson was then dying also. This was July 4, 1826. What a fine day for two great friends, two immortal patriots, to die! A day which they had helped to make glorious! The friendship of these two famous Americans is perhaps the most splendid in our history. Long political enemies, they were philosophical enough to realize that intellectual differences should not mar personal friendship. Both saw the nation ushered in. Both became president, rival political leaders. Yet they were like playmates after a game. The contest had not marred their souls. It had, in fact, brought them closer together. It had shown them the worth of each. There is no party, no caste, no class, when two great men stand face to face. These two men led a nation in war, in peace. Moreover, they have given to our countrymen the splendid example of a friendship which even trickery cannot undermine. The sentiment expressed in the following letter from Jefferson to Adams, at a most embarrassing moment for both of them, when the least word might have broken the “sweet peace” of declining years, will live, we hope, long after the world shall have* *reached that stage of civilization when the cheap bickering of party spirit is no more:*
 
-### Letter 48: Thomas Jefferson → John Adams
+### Letter 41: Thomas Jefferson → John Adams
 
 ### *“Thorns on the Pillow of Age”*
 
@@ -1174,12 +1110,11 @@ Thomas Jefferson.
 
 ### 39
 
-### *SIR WALTER SCOTT TO THE DUKE
-OF BUCCLEUCH*
+### *SIR WALTER SCOTT TO THE DUKE OF BUCCLEUCH*
 
 <span class="small-caps">At</span> *Waterloo, the little Emperor who had boasted that Europe needed a Big Boss, took to his heels and left the field of honor in the hands of his old enemy, England, with the Duke of Wellington made immortal. As one star rose another fell. The days of glory of the great Corsican were over; the rest was retribution. Lucifer had fallen. Yesterday he was dispensing thrones to his brothers and generals. Within a few years he had risen from poverty and obscurity to be the most powerful man of his age, if not of all time. It had been a wonderful drama. The world stood aghast! It had admired his rise, had cursed his ambition, and now it was to laugh at him, scorn him, pity him. The lion was to be caged. St. Helena was to be his grave, Paris his sepulcher. He once had the whole of Europe almost within his grasp, but his last days were spent in a little, cramped, imprisoned place, hardly big enough in which to die. Yet today he remains the most fascinating figure the world has ever known. The following letter, describing his behavior at the battle of Waterloo, will live for years to come:*
 
-### Letter 49: Walter Scott → Duke of Buccleuch
+### Letter 42: Walter Scott → Duke of Buccleuch
 
 ### *“It Is Too Late”*
 
@@ -1193,12 +1128,11 @@ Walter Scott.
 
 ### 40
 
-### *JANE WELSH CARLYLE TO
-THOMAS CARLYLE*
+### *JANE WELSH CARLYLE TO THOMAS CARLYLE*
 
 A <span class="small-caps">great</span> *genius is often a poor husband. The marital life of Thomas Carlyle and Jane Welsh was a domestic drama of bitterness and the deepest love. Both were irritable, due to considerable illness; both were quick-tempered. Carlyle was afflicted with chronic indigestion. The worst punishment he thought suitable for Satan would be to compel the latter to “try to digest for all eternity with my stomach.” Mrs. Carlyle once said that living with him was like living with a lunatic. But she loved him deeply. He had found it very difficult to win the brilliant and beautiful Jane Welsh, descendant of John Knox and William Wallace. Their early married life was filled with poverty and spiritual stress. Her letters written to him during periods of absences from each other are among the best in the English language. They reflect a very interesting personality. She was a woman and wanted her husband to show the affection due to a wife. “You don’t want to be praised for doing your duty,” he once said to her. “I did though,” she wrote. What woman doesn’t? She was proud of Carlyle and was one of the first to recognize his genius. What wife, what* *husband, has not experienced something like the incident described in the following touching little letter?*
 
-### Letter 50: J. C. → Thomas Carlyle
+### Letter 43: J. C. → Thomas Carlyle
 
 ### *“Dearer Than Any Earthly Creature”*
 
@@ -1224,7 +1158,7 @@ J. C.
 
 <span class="small-caps">Poor</span> *John Keats lived the last part of his few short years between the consuming fires of an insatiable love and an incurable disease, the latter, or both, taking him to the grave when he was only twenty-five years of age. He fell deeply in love with Fannie Brawne, an eighteen year old girl, and the next six months of his life were the most productive of his whole career. Soon after he met Miss Brawne the dreaded disease, consumption, appeared and he knew that his life was doomed. He knew that he would never marry. His letters to Miss Brawne are tragic. “I can bear to die,” he said, “I cannot bear to leave her.” He was the apostle of beauty, writing the immortal line, “A thing of beauty is a joy forever.” He died in Rome, and was buried there. On the modest stone which marks his grave was placed at his request: “Here lies one whose name was writ in water.” No one can read his letters to Fannie Brawne without being profoundly moved.*
 
-### Letter 51: J. K. → Fannie Brawne
+### Letter 44: J. K. → Fannie Brawne
 
 ### *“I Am Glad There Is a Grave”*
 
@@ -1244,7 +1178,7 @@ J. K.
 
 <span class="small-caps">What</span> *made Edgar Allan Poe's life so tragic? Was he really intended by nature to be melancholy, or was it due largely to circumstances? Letters to his foster father, published for the first time in 1925, may throw some light on these questions. Bereft of his parents at an early age, he was adopted by a man who misunderstood him, and, consequently failed to give the young genius the sympathy and encouragement which his temperament needed. Poe seemed always to have been out of place in the world. The cruel twists of fortune he never could understand. To him life was a realm of dismal shadows, and he was never able to find his way to sunshine. The following letter to his foster father is a splendid picture of a youth who had found this world a sad disappointment:*
 
-### Letter 52: E. A. Poe → John Allan
+### Letter 45: E. A. Poe → John Allan
 
 ### *“My Heart Was Breaking”*
 
@@ -1269,7 +1203,7 @@ If the children were no more?”*
 
 *he once wrote. When Edward Bok as a boy visited Longfellow he was entertained by hours by the great poet, as though Bok were a distinguished grown man. Bok noticed the large number of requests which came to Longfellow for his autograph. Sometimes more than a dozen would come in one mail. Longfellow would take a card out of a drawer and write his name on it. “There are a good many of these every day,” said the great poet, “but I always like to do this little favor. It seems so little to do, to write your name on a card; and if I didn’t do it some boy or girl might be looking, day by day, for the postman and be disappointed. In his poem, “The Children’s Hour,” Longfellow immortalizes his three daughters, using their real names: “Grave Alice and laughing Allegra and Edith with golden hair.” No collection of* *great letters would be complete without one such as the following:*
 
-### Letter 53: Henry Wadsworth Longfellow → Emily A.
+### Letter 46: Henry Wadsworth Longfellow → Emily A.
 
 ### *“Alice, Allegra and Edith”*
 
@@ -1291,7 +1225,7 @@ Henry Wadsworth Longfellow.
 
 <span class="small-caps">Trouble</span> *over the theory of evolution, suggested by Charles Darwin in his monumental work,* <span class="small-caps">origin of species,</span> *and which started the controversy about the “monkey” ancestry of man, was predicted by Thomas Huxley, Darwin’s friend, when the book was first published. Huxley was also a great scientist, with the gift of expressing scientific matters in an interesting and popular manner. He was ready to defend Darwin to the limit, as the following famous letter indicates:*
 
-### Letter 54: Thomas Huxley → Charles Darwin
+### Letter 47: Thomas Huxley → Charles Darwin
 
 ### *“I Am Sharpening Up My Claws”*
 
@@ -1319,12 +1253,11 @@ My Dear Huxley, I thank you cordially for your letter.
 
 Yours very sincerely.
 
-### 45
-*LINCOLN TO GENERAL HOOKER*
+### 45 *LINCOLN TO GENERAL HOOKER*
 
 <span class="small-caps">The</span> *Civil War at its height. The South was winning. Lincoln had tried one general after another, and they had failed him. He was looking for a real fighter to cope with the genius of Lee and his generals. He saw such a fighter in General Hooker. Although Hooker had ability he was ambitious, and had distrusted his commander, General Burnsides. Moreover he had spoken disrespectfully of President Lincoln. In such a crisis Lincoln knew that a mistake in the selection might lose the war. But he decided that Hooker, in spite of his shortcomings, was the man. He wrote Hooker appointing him as commander of the Army of the Potomac. No letter that Lincoln ever wrote, or few of his acts, show the greatness of the man more than this incident. The original letter was sold a few years ago for $10,000. “Cheap at the price,” said the editor of one of our great periodicals. The letter follows:*
 
-### Letter 55: A. Lincoln → General Hooker
+### Letter 48: A. Lincoln → General Hooker
 
 ### *“Go Forth and Give Us Victories”*
 
@@ -1338,12 +1271,11 @@ Yours very truly,
 
 A. Lincoln.
 
-### *46*
-*LINCOLN TO MRS. BIXBY*
+### *46* *LINCOLN TO MRS. BIXBY*
 
-<span class="small-caps">All</span> *the world knows Abraham Lincoln's letter to Mrs. Bixby. Lincoln suffered deeply with every wounded soldier and every war widow and mother. The War Department complained that Lincoln pardoned so many soldiers who were sentenced to death, that it was difficult to maintain discipline. Far into the night he would be seen poring over war files, looking for clues to enable him to save the life of some mother's son. His official duty did not call for a lot of this extra work, but he had a conscience. Somehow the soldiers at the front felt that there was a sympathetic father in the White House. No wonder they voted for him when the crisis arose over his reëlection. But this tendency to pardon soldiers was not a weakness. He could be firm when he felt that it was necessary. The War Department looked at details; he looked at human lives. War Departments are machines, and machines do not have souls. Lincoln had efficiency plus a soul, and he could see good in what seemed to others to be harmful. This letter to Mrs. Bixby is typical of the sentiment which he would have expressed to every mother and widow. For beauty of sentiment* *, phrasing and sincerity, no letter surpasses this gem, and hard indeed is he who is not moved by it.*
+<span class="small-caps">All</span> *the world knows Abraham Lincoln's letter to Mrs. Bixby. Lincoln suffered deeply with every wounded soldier and every war widow and mother. The War Department complained that Lincoln pardoned so many soldiers who were sentenced to death, that it was difficult to maintain discipline. Far into the night he would be seen poring over war files, looking for clues to enable him to save the life of some mother's son. His official duty did not call for a lot of this extra work, but he had a conscience. Somehow the soldiers at the front felt that there was a sympathetic father in the White House. No wonder they voted for him when the crisis arose over his reëlection. But this tendency to pardon soldiers was not a weakness. He could be firm when he felt that it was necessary. The War Department looked at details; he looked at human lives. War Departments are machines, and machines do not have souls. Lincoln had efficiency plus a soul, and he could see good in what seemed to others to be harmful. This letter to Mrs. Bixby is typical of the sentiment which he would have expressed to every mother and widow. For beauty of sentiment,* *phrasing and sincerity, no letter surpasses this gem, and hard indeed is he who is not moved by it.*
 
-### Letter 56: Abraham Lincoln → Mrs. Bixby
+### Letter 49: Abraham Lincoln → Mrs. Bixby
 
 ### *“The Altar of Freedom”*
 
@@ -1375,7 +1307,7 @@ Abraham Lincoln.
 
 <span class="small-caps">Not</span> *all princesses are the dream creatures which children read about in story books. Not all of them are courted by a handsome prince wearing a glorious uniform, with trappings and plumes. Not all princesses are as beautiful as a goddess nor as good as angels. Many of them live very real lives, suffer the pangs of disappointed love, pass dreary days waiting for news of the battle-front, or go into mourning for the loss of loved ones. A modern princess who was greatly beloved by the people of her country, was Princess Alice of England, the daughter of Queen Victoria. She seemed to possess all of the qualities which every princess should have. When Queen Victoria's husband, Prince Albert, died, the Queen's grief was unbounded. It was a tragedy which seriously threatened the normal course of her life. During these dark days it was the faithfulness of the young princess which attracted the attention of the English people and called forth a beautiful tribute to her from the London Times. Princess Alice was tender-hearted, charitable, courageous, energetic, religious. She was happily married to Prince Louis of Hesse. The letters which this ideal princess wrote to a wonderful queen reveal the beauty* *of a splendid life and merit the fame which they have received.*
 
-### Letter 57: Alice → Queen Victoria
+### Letter 50: Alice → Queen Victoria
 
 ### *“God Bless You, My Own Mama”*
 
@@ -1393,7 +1325,7 @@ Alice.
 
 <span class="small-caps">The</span> *two letters which follow show how deeply Princess Alice and Queen Victoria were touched by the memory of the beloved father and husband, Prince Albert:*
 
-### Letter 58: Alice → Queen Victoria
+### Letter 51: Alice → Queen Victoria
 
 Darmstadt, July 19, 1866
 
@@ -1401,7 +1333,7 @@ As every year during these days my thoughts are with you, and as each year bring
 
 Alice.
 
-### Letter 59: Alice → Queen Victoria
+### Letter 52: Alice → Queen Victoria
 
 Darmstadt, December 11, 1866
 
@@ -1415,7 +1347,7 @@ Alice.
 
 <span class="small-caps">Between</span> *1894 and 1914 Kaiser Wilhelm II, of Germany, wrote his cousin, Czar Nicholas, of Russia, dozens of letters bearing upon important international relations. A few years ago these letters were copied from the originals in the archives of Moscow by Isaac Don Levine. He published them in England and the United States. When the London editors read the letters, they seemed to see “vast and unscrupulous intrigues and the grandiose ambitions” of the Kaiser running through these epistles. The Kaiser's astute suggestion to the Czar that the latter was threatened in the East had a part in bringing on the Russo-Japanese War, according to the London Morning Post. “It was the Kaiser's object,” says this paper, “to weaken Russia and subjugate Great Britain.” Was the Kaiser in reality a friend, trying to help the Czar, or was he “playing a great game” and using the weak Czar as a dupe? The following letter will always be of interest to students of international relations:*
 
-### Letter 60: Willy → Nicky
+### Letter 53: Willy → Nicky
 
 ### *“The Yellow Peril”*
 
@@ -1427,16 +1359,13 @@ With all my heart warmest wishes for 1908. God bless and protect you, Alix and t
 
 Willy.
 
-### 49
-*WALTER HINES PAGE TO
-ARTHUR W. PAGE*
+### 49 *WALTER HINES PAGE TO ARTHUR W. PAGE*
 
 <span class="small-caps">Some</span> *day a great writer with the imagination of a Milton and the philosophy of a Schopenhauer will write a tragedy of the nations. And what a piece of work it will be! It will contain all the tears of five thousand years, and the wailings of humanity will furnish the orchestral music. Open your ancient history and you can hear the voices of old Babylonia, with her many states and gilded kings, crying out of the dust of the centuries. Purple robes and Hanging Gardens! Ah, Belshazzar! And where is the glory of Greece and the grandeur of Rome? Where are the beautiful cedars of Lebanon, the magnificent ships of Tyre and Sidon! And where are the “topless towers of Ilium”? The strewn and wasted columns of materialistic Rome; Rome with the burden of slaves on her back; Rome that fed her Christians to the beasts, attest the fact that “man’s inhumanity to man” does not pay. And what excellent material would the author of this tragedy find for his fifth act in the seething years of the World War! It is of a war-weary world, a world that knew not itself, a world not of the dim ages past, but of our own day, that Walter Hines Page writes in the following* *letter, perhaps the most significant of the many celebrated letters which he wrote:*
 
-### Letter 61: W. H. P. → Arthur
+### Letter 54: W. H. P. → Arthur
 
-### *“The Curtains Are Drawn and
-the Music Is Muffled”*
+### *“The Curtains Are Drawn and the Music Is Muffled”*
 
 American Embassy, London, December 23, 1917
 
@@ -1458,7 +1387,7 @@ W. H. P.
 
 <span class="small-caps">President Wilson</span> *was desperately ill. There was deep concern among the people, and especially among members of his cabinet as to what steps should be taken toward carrying on the executive branch of the government. In emergencies Secretary of State Robert Lansing called cabinet meetings to discuss matters of state. For more than a year misunderstanding had been growing between the two. It began at the Paris Peace Conference. Calling of the cabinet meetings during Mr. Wilson's illness served to bring this estranged feeling between them to a point. Men in high places sometimes forget their positions and allow their passions to lead them into regrettable incidents. It happened with these two men. “The people dislike exhibitions of high feeling in these exalted places,” said the New York Times. “They are unpleasant and disquieting.” The New York World declared, “The country will not rest satisfied with the cryptic correspondence between Mr. Wilson and Mr. Lansing. There will be a general demand for a bill of particulars to explain the President's extraordinary action.” The letter which caused the unhappy incident, unprecedented in our history, is as follows:*
 
-### Letter 62: Woodrow Wilson → Robert Lansing
+### Letter 55: Woodrow Wilson → Robert Lansing
 
 ### *“Is It True?”*
 

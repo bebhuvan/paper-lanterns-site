@@ -9,15 +9,21 @@
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
         <idno type="book_id">sand-flaubert-letters-1922</idno>
-        <availability status="free"><p>CC0 1.0 Public Domain</p></availability>
+        <availability status="free"><p>CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)</p></availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>The George Sand-Gustave Flaubert Letters</title>
           <date>1922</date>
+          <idno type="URI">https://archive.org/details/georgesandgustav00sand</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Diplomatic archival transcription preserving historical orthography, diacritics, epistolary layouts, and footnotes.</p>
+      </editorialDecl>
+    </encodingDesc>
     <profileDesc>
       <correspDesc xml:id="letter-0001">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1863">1863</date></correspAction>
@@ -32,7 +38,7 @@
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0004">
-        <correspAction type="sent"><persName>Goulard</persName><placeName>Paris</placeName><date when="1866-05-10">10 May, 1866</date></correspAction>
+        <correspAction type="sent"><persName>Goulard</persName><placeName>Paris</placeName><date when="1866-05-10">10 May, 1866 At Palaiseau with the Monks</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0005">
@@ -56,7 +62,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0010">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1866-08-04">4 Aug., 1866</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1866-08-04">4 Aug., 1866 Saturday evening.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0011">
@@ -72,11 +78,11 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0014">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1866-08-31">31 August, 1866</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1866-08-31">31 August, 1866 Paris, Friday.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0015">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1866-09-02">2 September, 1866</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1866-09-02">2 September, 1866 Sunday evening</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0016">
@@ -116,7 +122,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0025">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1866-11-11">11 November, 1866</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1866-11-11">11 November, 1866 Paris, Sunday</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0026">
@@ -132,11 +138,11 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0029">
-        <correspAction type="sent"><persName>George Sand</persName><date when="1866-11-16">16 November, 1866</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><date when="1866-11-16">16 November, 1866 Friday</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0030">
-        <correspAction type="sent"><persName>George Sand</persName><date>18 November (?), 1866</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><date>18 November (?), 1866 Sunday</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0031">
@@ -180,7 +186,7 @@
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0041">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1866-12-07">7 December, 1866</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1866-12-07">7 December, 1866 Monday.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0042">
@@ -228,7 +234,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0053">
-        <correspAction type="sent"><persName>George Sand</persName><persName>Maurice Sand</persName><date when="1867">1867 (?)</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><persName>Maurice Sand</persName><date when="1867">1867 (?) Saturday evening.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0054">
@@ -331,7 +337,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0079">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1868-05-11">11 May, 1868</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1868-05-11">11 May, 1868 Monday evening.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0080">
@@ -347,11 +353,11 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0083">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1868-05-26">26 May, 1868</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1868-05-26">26 May, 1868 Tuesday evening, rue Gay-Lussac, 5.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0084">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1868-05-28">28 May, 1868</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1868-05-28">28 May, 1868 Thursday evening.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0085">
@@ -387,7 +393,7 @@
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0093">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date>Friday evening, 28 August or 4 September, 1868</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date>Friday evening, 28 August or 4 September, 1868.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0094">
@@ -467,7 +473,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0113">
-        <correspAction type="sent"><persName>George Sand</persName><date when="1869-04-26">Monday, 26 April, 1869</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><date when="1869-04-26">Monday, 26 April, 1869 Monday.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0114">
@@ -479,11 +485,11 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0116">
-        <correspAction type="sent"><persName>G. Sand</persName><date when="1869-05-03">3 May, 1869</date></correspAction>
+        <correspAction type="sent"><persName>G. Sand</persName><date when="1869-05-03">3 May, 1869 Monday.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0117">
-        <correspAction type="sent"><persName>G. Sand</persName><placeName>Paris</placeName><date when="1869-05-04">4 May, 1869</date></correspAction>
+        <correspAction type="sent"><persName>G. Sand</persName><placeName>Paris</placeName><date when="1869-05-04">4 May, 1869 Tues. evening.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0118">
@@ -519,7 +525,7 @@
         <correspAction type="received"><persName>GUSTAVE FLAUBERT</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0126">
-        <correspAction type="sent"><persName>G. Sand</persName><date>Thursday</date></correspAction>
+        <correspAction type="sent"><persName>G. Sand</persName><date>Thursday Saturday evening</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0127">
@@ -527,7 +533,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0128">
-        <correspAction type="sent"><persName>G. Sand</persName><placeName>Paris</placeName><date when="1869-09-08">8 September, 1869</date></correspAction>
+        <correspAction type="sent"><persName>G. Sand</persName><placeName>Paris</placeName><date when="1869-09-08">8 September, 1869 Wednesday morning.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0129">
@@ -575,7 +581,7 @@
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0140">
-        <correspAction type="sent"><persName>G. S.</persName><persName>Lina</persName><placeName>Nohant</placeName><date>Friday to Saturday during the night, 10 to 11 December, 1869</date></correspAction>
+        <correspAction type="sent"><persName>G. S.</persName><persName>Lina</persName><placeName>Nohant</placeName><date>Friday to Saturday during the night, 10 to 11 December, 1869 4 o’clock in the afternoon.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0141">
@@ -607,7 +613,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0148">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1870-01-19">19 January, 1870</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Paris</placeName><date when="1870-01-19">19 January, 1870 Wednesday evening.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0149">
@@ -615,7 +621,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0150">
-        <correspAction type="sent"><persName>G. Sand</persName><placeName>Paris</placeName><date when="1870-02-15">15 February, 1870</date></correspAction>
+        <correspAction type="sent"><persName>G. Sand</persName><placeName>Paris</placeName><date when="1870-02-15">15 February, 1870 Tuesday evening</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0151">
@@ -711,7 +717,7 @@
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0174">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1870-08-08">8 August, 1870</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1870-08-08">8 August, 1870 Nohant, Sunday evening.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0175">
@@ -807,7 +813,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0198">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1871-09-14">14 September, 1871</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1871-09-14">14 September, 1871, Nohant</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0199">
@@ -927,7 +933,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0228">
-        <correspAction type="sent"><persName>G. Sand</persName><placeName>Paris, Rue Gay Lussac, 5</placeName><date when="1872-06-03">Monday, 3 June, 1872</date></correspAction>
+        <correspAction type="sent"><persName>G. Sand</persName><placeName>Paris, Rue Gay Lussac, 5</placeName><date when="1872-06-03">Paris, Monday, 3 June, 1872, Rue Gay Lussac, 5</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0229">
@@ -939,7 +945,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0231">
-        <correspAction type="sent"><persName>G. Flaubert</persName><date when="1872-06-13">Thursday, three o’clock, 13 June, 1872</date></correspAction>
+        <correspAction type="sent"><persName>G. Flaubert</persName><date when="1872-06-13">Thursday, three o’clock, 13 June, 1872.</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0232">
@@ -1067,244 +1073,241 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0263">
-        <correspAction type="received"><persName>George Sand</persName></correspAction>
-      </correspDesc>
-      <correspDesc xml:id="letter-0264">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date when="1873-09-05">Friday, 5th September, 1873</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0265">
+      <correspDesc xml:id="letter-0264">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1873-10-03">3d October, 1873</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0266">
+      <correspDesc xml:id="letter-0265">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date>Thursday</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0267">
+      <correspDesc xml:id="letter-0266">
         <correspAction type="sent"><persName>George Sand</persName><date>Monday</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0268">
+      <correspDesc xml:id="letter-0267">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1874-01">January, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0269">
+      <correspDesc xml:id="letter-0268">
         <correspAction type="sent"><persName>George Sand</persName><date when="1874-01">January, 1874</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0270">
+      <correspDesc xml:id="letter-0269">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1874-02-07">Saturday evening, 7th February, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0271">
+      <correspDesc xml:id="letter-0270">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1874-02-15">15 February, 1874</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0272">
+      <correspDesc xml:id="letter-0271">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1874-02-28">Saturday evening, 28 February, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0273">
+      <correspDesc xml:id="letter-0272">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1874-03">March, 1874</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0274">
+      <correspDesc xml:id="letter-0273">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1874-03-12">Thursday, one o’clock, 12 March, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0275">
+      <correspDesc xml:id="letter-0274">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1874-04">Wednesday, April, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0276">
+      <correspDesc xml:id="letter-0275">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1874-04">April, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0277">
+      <correspDesc xml:id="letter-0276">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1874-04-10">10 April, 1874</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0278">
+      <correspDesc xml:id="letter-0277">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1874-05-01">Friday evening, 1st May, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0279">
+      <correspDesc xml:id="letter-0278">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1874-05-04">4th May, 1874</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0280">
+      <correspDesc xml:id="letter-0279">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date when="1874-03-26">Tuesday, 26th March, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0281">
+      <correspDesc xml:id="letter-0280">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Kalt-Bad. Righi</placeName><date when="1874-07-03">Friday, 3d July, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0282">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1874-07-06">6th July, 1874 (Yesterday, seventy years.)</date></correspAction>
+      <correspDesc xml:id="letter-0281">
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1874-07-06">6th July, 1874 (Yesterday, seventy years.) The 7th The 8th</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0283">
+      <correspDesc xml:id="letter-0282">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Righi</placeName><date when="1874-07-14">14 July, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0284">
+      <correspDesc xml:id="letter-0283">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1874-09-26">Saturday, 26 September, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0285">
+      <correspDesc xml:id="letter-0284">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1874-11-05">5th November, 1874</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0286">
+      <correspDesc xml:id="letter-0285">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1874-12-02">Wednesday, 2nd December, 1874</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0287">
+      <correspDesc xml:id="letter-0286">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1874-12-08">8th December, 1874</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0288">
+      <correspDesc xml:id="letter-0287">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1875-01-16">16th January, 1875</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0289">
+      <correspDesc xml:id="letter-0288">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Paris</placeName><date>Saturday evening</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0290">
+      <correspDesc xml:id="letter-0289">
         <correspAction type="sent"><persName>George Sand</persName><date>20th February</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0291">
+      <correspDesc xml:id="letter-0290">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1875-03-25">25th March, 1875</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0292">
+      <correspDesc xml:id="letter-0291">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1875-05-07">7th May, 1875</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0293">
+      <correspDesc xml:id="letter-0292">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date when="1875-05-10">10th May, 1875</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0294">
+      <correspDesc xml:id="letter-0293">
         <correspAction type="sent"><persName>George Sand</persName><date when="1875-06-10">Thursday morning, 10th June, 1875</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0295">
+      <correspDesc xml:id="letter-0294">
         <correspAction type="sent"><persName>George Sand</persName></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0296">
+      <correspDesc xml:id="letter-0295">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date>15 August</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0297">
+      <correspDesc xml:id="letter-0296">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Wednesday</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0298">
+      <correspDesc xml:id="letter-0297">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1875-09-07">7th September, 1875</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0299">
+      <correspDesc xml:id="letter-0298">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1875-10-08">8th October, 1875</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0300">
+      <correspDesc xml:id="letter-0299">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1875-11-15">15 November, 1875</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0301">
+      <correspDesc xml:id="letter-0300">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Paris</placeName><date when="1875-12-11">11 December, 1875</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0302">
+      <correspDesc xml:id="letter-0301">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date>18th and 19th December, 1875</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0303">
+      <correspDesc xml:id="letter-0302">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1875-12">December, 1875</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0304">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1876-01-12">12th January, 1876</date></correspAction>
+      <correspDesc xml:id="letter-0303">
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1876-01-12">12th January, 1876 15th January, 1876</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0305">
+      <correspDesc xml:id="letter-0304">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1876-03-06">6th March, 1876</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0306">
+      <correspDesc xml:id="letter-0305">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1876-03-08">8th March, 1876</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0307">
+      <correspDesc xml:id="letter-0306">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1876-03-09">Wednesday, 9th March, 1876</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0308">
+      <correspDesc xml:id="letter-0307">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1876-03-15">15th March, 1876</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0309">
+      <correspDesc xml:id="letter-0308">
         <correspAction type="sent"><persName>George Sand</persName><date when="1876-03-30">30th March, 1876</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0310">
+      <correspDesc xml:id="letter-0309">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1876-04-03">Monday evening, 3rd April, 1876</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0311">
+      <correspDesc xml:id="letter-0310">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1876">Sunday evening . . . 1876</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0312">
+      <correspDesc xml:id="letter-0311">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1876">Friday evening . . . 1876</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0313">
+      <correspDesc xml:id="letter-0312">
         <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1876-04-05">Sunday, Nohant, 5th April, 1876.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0314">
+      <correspDesc xml:id="letter-0313">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Monday evening</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0315">
+      <correspDesc xml:id="letter-0314">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Tuesday evening, 27th</date></correspAction>
         <correspAction type="received"><persName>Maurice Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0316">
+      <correspDesc xml:id="letter-0315">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1876-05-25">Thursday evening, 25th May, 1876</date></correspAction>
         <correspAction type="received"><persName>Madam Maurice Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0317">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1876-06-03">Saturday morning, 3d June, 1876</date></correspAction>
+      <correspDesc xml:id="letter-0316">
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1876-06-03">Saturday morning, 3d June, 1876.</date></correspAction>
         <correspAction type="received"><persName>Madam Lina Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0318">
+      <correspDesc xml:id="letter-0317">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date when="1876-06-24">Sunday, 24 June, 1876</date></correspAction>
         <correspAction type="received"><persName>Maurice Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0319">
+      <correspDesc xml:id="letter-0318">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date when="1876-10-03">Tuesday, 3rd October, 1876</date></correspAction>
         <correspAction type="received"><persName>Maurice Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0320">
+      <correspDesc xml:id="letter-0319">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Saint-Gratien par Sannois</placeName><date when="1877-08-20">20th August, 1877</date></correspAction>
         <correspAction type="received"><persName>Maurice Sand</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0321">
+      <correspDesc xml:id="letter-0320">
         <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1880-04">Tuesday morning, April, 1880</date></correspAction>
         <correspAction type="received"><persName>Maurice Sand</persName></correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
+    <front>
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
@@ -1365,8 +1368,7 @@ LETTERS</head>
 <p rend="indented">“I pass entire weeks without exchanging a word with a human being; and at the end of the week it is not possible for me to recall a single day nor any event whatsoever. I see my mother and my niece on Sundays, and that is all. My only company consists of a band of rats in the garret, which make an infernal racket above my head, when the water does not roar or the wind blow. The nights are black as ink, and a silence surrounds me comparable to that of the desert. Sensitiveness is increased immeasurably in such a setting. I have palpitations of the heart for nothing.</p>
 <p rend="indented">“All that results from our charming profession. That is what it means to torment the soul and the body. But perhaps this torment is our proper lot here below.”</p>
 <p rend="indented">To George Sand, who wrote as naturally as she breathed and almost as easily, seclusion and torment were by no means <pb xml:id="page-31" n="xxvii"/> the necessary conditions of literary activity. Enormously productive, with a hundred books to his half-a-dozen, she has never dedicated and consecrated herself to her profession but has lived heartily and a bit recklessly from day to day, spending herself in many directions freely, gaily, extravagantly. Now that she has definitely said farewell to her youth, she finds that she is twenty years younger; and now that she is, in a sense, dissipating her personality and living in the lives of others, she finds that she is happier than ever before. “It can’t be imperative to work so painfully”—such is the burden of her earlier counsels to Flaubert; “spare yourself a little, take some exercise, relax the tendons of your mind, indulge a little the physical man. Live a little as I do; and you will take your fatigues and illnesses and occasional dolours and dumps as incidents of the day’s work and not magnify them into the mountainous overshadowing calamities from which you deduce your philosophy of universal misery.” No advice could have been more wholesome or more timely. And with what pictures of her own busy felicity she reënforces her advice! I shall produce three of them here in order to emphasize that precious thing which George Sand loved to impart, and which she had the gift of imparting, namely, joy, the spontaneous joyousness of her own nature. The first passage is from a letter of June 14, 1867:</p>
-<quote><p rend="indented">“I am a little remorseful to take whole days from your work, I who am never bored with loafing, and whom you could leave for whole hours under a tree, or before two lighted logs, with the assurance that I should find there something interesting. I know so well how to live <hi rend="italic">outside of myself</hi>. It hasn’t always been like that. I also was young and subject to indignations. It is over! Since I have dipped into real nature, I have found there an order, a system, a calmness of cycles which is lacking in mankind, but which man can, up to a certain point, assimilate when he is not too directly at odds with the difficulties of</p></quote>
-<pb xml:id="page-32" n="xxviii"/><p>his own life. When these difficulties return, he must endeavor to avoid them; but if he has drunk the cup of the eternally true, he does not get too excited for or against the ephemeral and relative truth.”</p>
+<quote><p rend="indented">“I am a little remorseful to take whole days from your work, I who am never bored with loafing, and whom you could leave for whole hours under a tree, or before two lighted logs, with the assurance that I should find there something interesting. I know so well how to live <hi rend="italic">outside of myself</hi>. It hasn’t always been like that. I also was young and subject to indignations. It is over! Since I have dipped into real nature, I have found there an order, a system, a calmness of cycles which is lacking in mankind, but which man can, up to a certain point, assimilate when he is not too directly at odds with the difficulties of <pb xml:id="page-32" n="xxviii"/> his own life. When these difficulties return, he must endeavor to avoid them; but if he has drunk the cup of the eternally true, he does not get too excited for or against the ephemeral and relative truth.”</p></quote>
 <p>The second passage is of June 21:</p>
 <p>“I love everything that makes up a <hi rend="italic">milieu</hi>, the rolling of the carriages and the noise of the workmen in Paris, the cries of a thousand birds in the country, the movement of the ships on the waters. I love also absolute, profound silence, and, in short, I love everything that is around me, no matter where I am.”</p>
 <p>The last passage gives a glimpse of the seventeenth of January, 1869, a typical day in Nohant:</p>
@@ -1395,6 +1397,8 @@ LETTERS</head>
 <pb xml:id="page-43" n="43"/><p rend="heading">THE GEORGE SAND-<lb/>GUSTAVE FLAUBERT LETTERS</p>
 </div>
 </div>
+    </front>
+    <body>
       <div xml:id="sec-sec-02" type="epistolary_part">
 <head>THE GEORGE SAND- GUSTAVE FLAUBERT LETTERS</head>
 <pb xml:id="page-45" n="1"/>
@@ -1935,7 +1939,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Well, if, before your departure from Paris, I can finish <hi rend="italic">Cadio</hi>, to which I am bound under pain of having nothing wherewith to pay for my tobacco and my shoes, I shall go with Maurice to embrace you. If not, I shall hope for you about the middle of the summer. My children, quite unhappy by this delay, beg to hope for you also, and we hope it so much the more because it would be a good sign for the dear mother.</p>
 <p rend="indented">Maurice has plunged again into Natural History; he wants to perfect himself in the <hi rend="italic">micros</hi>; I learn on the rebound. When I shall have fixed in my head the name and the appearance of two or three thousand imperceptible varieties, I shall be well advanced, don’t you think so? Well, these studies are veritable <hi rend="italic">octopuses</hi>, which entwine about you and which open to you I don’t know what infinity. You ask if it is the destiny of man to <hi rend="italic">drink the infinite</hi>; my heavens, yes, don’t doubt it, it is his destiny, since it is his dream and his passion.</p>
 <p rend="indented">Inventing is absorbing also; but what fatigue afterwards! How empty and worn out intellectually one feels, when one has scribbled for weeks and months about that animal with two legs which has the only right to be represented in novels! I see Maurice quite refreshed and rejuvenated when he returns from his beasts and his pebbles, and if I aspire to come out from my misery, it is to bury myself also in studies, which in the speech of the Philistines, are not of any use. Still it is worth more than to say mass and to ring the bell for the adoration of the Creator.</p>
-<p rend="indented">Is it true what you tell me of G——? Is it possible? I can not believe it. Is there in the atmosphere which the earth engenders nowadays, a gas, laughing or otherwise, which suddenly seizes the brain, and carries it on to commit extravagances <pb xml:id="page-109" n="65"/> , as there was under the first revolution a maddening fluid which inspired one to commit cruelties? We have fallen from the Hell of Dante into that of Scarron.</p>
+<p rend="indented">Is it true what you tell me of G——? Is it possible? I can not believe it. Is there in the atmosphere which the earth engenders nowadays, a gas, laughing or otherwise, which suddenly seizes the brain, and carries it on to commit extravagances, <pb xml:id="page-109" n="65"/> as there was under the first revolution a maddening fluid which inspired one to commit cruelties? We have fallen from the Hell of Dante into that of Scarron.</p>
 <p rend="indented">Of what are you thinking, good head and good heart, in the midst of this bacchanal? You are wrathful, oh very well, I like that better than if you were laughing at it; but when you are calmer and when you reflect?</p>
 <p rend="indented">Must one find some fashion of accepting the honor, the duty, and the fatigue of living? As for me, I revert to the idea of an everlasting journey through worlds more amusing, but it would be necessary to go there quickly and change continually. The life that one fears so much to lose is always too long for those who understand quickly what they see. Everything repeats itself and goes over and over again in it.</p>
 <p rend="indented">I assure you that there is only one pleasure: learning what one does not know, and one happiness: loving the exceptions. Therefore I love you and I embrace you tenderly.</p>
@@ -2154,7 +2158,7 @@ du Temple, 42, Paris</hi></head>
 <div xml:id="div-letter-0078" type="letter" corresp="#letter-0078">
 <head rend="center"><hi rend="smallcaps">LXXVII. To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Paris, 10 May, 1868</dateline></opener>
-<p rend="indented">Yes, friend of my heart, am I not in the midst of terrible things ; that poor little Madame Lambert<ref xml:id="fnref-p0134-1" type="noteref" target="#fn-p0134-1">1</ref> is severely threatened <pb xml:id="page-135" n="91"/> . I saw M. Depaul today. One must be prepared for anything!—If the crisis is passed or delayed, for there is question of bringing on the event, I shall be happy to spend two days with my old troubadour, whom I love tenderly.</p>
+<p rend="indented">Yes, friend of my heart, am I not in the midst of terrible things ; that poor little Madame Lambert<ref xml:id="fnref-p0134-1" type="noteref" target="#fn-p0134-1">1</ref> is severely threatened. <pb xml:id="page-135" n="91"/> I saw M. Depaul today. One must be prepared for anything!—If the crisis is passed or delayed, for there is question of bringing on the event, I shall be happy to spend two days with my old troubadour, whom I love tenderly.</p>
 <closer><signed rend="right">G. Sand.</signed></closer>
 </div>
 <div xml:id="div-letter-0079" type="letter" corresp="#letter-0079">
@@ -2427,7 +2431,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Your strength charms me and amazes me. I mean the strength of your entire being, not only that of your brain.</p>
 <p rend="indented">You speak of criticism in your last letter to me, telling me that it will soon disappear. I think, on the contrary, that it is, at most, only at its dawning. They are on a different tack from before, but nothing more. At the time of La Harpe, they were grammarians; at the time of Sainte-Beuve and of Taine, they are historians. When will they be artists, only artists, but really artists? Where do you know a criticism? Who is there who is anxious about the work in itself, in an intense way? They analyze very keenly the setting in which <pb xml:id="page-166" n="122"/> it was written, and the causes that produced it; but the <hi rend="italic">unconscious</hi> poetic expression? Where it comes from? its composition, its style? the point of view of the author? Never.</p>
 <p rend="indented">That criticism would require great imagination and great sympathy. I mean a faculty of enthusiasm that is always ready, and then <hi rend="italic">taste</hi>, a rare quality, even among the best, so much so that one does not talk about it any longer.</p>
-<p rend="indented">What irritates me every day, is to see a masterpiece and a disgrace put on the same level. They exalt the little, and they lower the great, nothing is more imbecile nor more immoral.</p>
+<p rend="indented">What irritates me every day, is to see a master-piece and a disgrace put on the same level. They exalt the little, and they lower the great, nothing is more imbecile nor more immoral.</p>
 <p rend="indented">At Père-Lachaise I was seized with a profound and sorrowful disgust for humanity. You can not imagine the fetichism of the tombs. The real Parisian is more of an idolater than a negro is! It made me long to lie down in one of the graves.</p>
 <p rend="indented">And the <hi rend="italic">progressives</hi> think that there is nothing better than to rehabilitate Robespierre! Note Hamel’s book! If the Republic returned they would bless the liberty poles out of policy and believing that measure strong.</p>
 <p rend="indented">When shall I see you? I plan to be in Paris from Easter to the end of May. This spring I shall go to see you at Nohant, I swear it.</p>
@@ -2633,7 +2637,7 @@ du Temple, 42, Paris</hi></head>
 <div xml:id="div-letter-0131" type="letter" corresp="#letter-0131">
 <head rend="center">CXXX. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Wednesday evening, 13 October, 1869</dateline></opener>
-<p rend="indented">Our poor friend is not to be buried till the day after tomorrow, they will let me know where and when we ought to be there, I shall tell you by telegram.</p>
+<p rend="indented">Our poor friend is not to be buried till the day after to-morrow, they will let me know where and when we ought to be there, I shall tell you by telegram.</p>
 <p rend="indented">I have seen the directors twice. It was agreed this morning with Duquesnel that they should make an attempt with de la T(our) Saint-Y(bars). I yielded my turn to <hi rend="italic">Aïssé</hi>. I was not to come till March. I went back there this evening, Chilly <hi rend="italic">is unwilling</hi>, and Duquesnel, better informed than this morning, regards the step as useless and harmful. I then quoted my contract, my right. What a fine thing, the theatre! M. Saint-Ybars’ contract antedates mine. They had thought <hi rend="italic">le Bâtard</hi> would last two weeks and it will last forty days longer. Then La Tour Saint-Ybars precedes us<ref xml:id="fnref-p0185-1" type="noteref" target="#fn-p0185-1">1</ref> and I can not give up my turn to <hi rend="italic">Aïssé</hi> without being postponed till next year, which I’ll do if you want me to; but it would do me a good deal of harm, for I have gotten into debt with the <hi rend="italic">Revue</hi> and I must refill my purse.—Are directors rascals in all that? No, but incompetents who are always afraid of not having enough plays, and accept too many, foreseeing that they will have failures.—When they are successful, if the authors contracted for are <hi rend="italic">angry</hi> they have to go to court. I have no taste for disputes and the scandals of the side-scenes and the newspapers; and neither have you. What would be the result? <pb xml:id="page-186" n="142"/> Inadequate compensation and a deal of uproar for nothing. One needs patience in any event, I have it, and I tell you again if you are really upset at this delay, I am ready to sacrifice myself.</p>
 <closer><salute rend="indented">With this I embrace you and I love you.</salute><signed rend="right">G. Sand</signed></closer>
 </div>
@@ -3101,7 +3105,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Whatever happens, another world is going to begin, and I feel that I am very old to adapt myself to new customs.</p>
 <p rend="indented">Oh! how I miss you, how I want to see you!</p>
 <p rend="indented">We have decided here to all march on Paris if the compatriots of Hegel lay siege to it. Try to get your Berrichons to buck up. Call to them: “Come to help me prevent the enemy from drinking and eating in a country which is foreign to them!”</p>
-<p rend="indented">The war (I hope) will make a home thrust at the “authorities <pb xml:id="page-231" n="187"/> .” The individual, disowned, overwhelmed by the modern world, will he regain his importance? Let us hope so!</p>
+<p rend="indented">The war (I hope) will make a home thrust at the “authorities.” <pb xml:id="page-231" n="187"/> The individual, disowned, overwhelmed by the modern world, will he regain his importance? Let us hope so!</p>
 </div>
 <div xml:id="div-letter-0180" type="letter" corresp="#letter-0180">
 <head rend="center">CLXXIX. <hi rend="smallcaps">To George Sand</hi></head>
@@ -3330,7 +3334,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">That is why we are so sick and why my heart is broken.</p>
 <p rend="indented">But it is not in scorn of our misery that I regard the extent of it. I do not want to believe that this holy country, that this cherished race, all of whose chords I feel vibrate in me, both harmonious and discordant,—whose qualities and whose defects I love in spite of everything, all of whose good or bad responsibilities I consent to accept rather than to detach myself from them through disdain; no, I do not want to believe that my country and my race are struck to death. I feel it in my suffering, in my mourning, in my hours of pure dejection even, I love, therefore I live; let us love and live.</p>
 <p rend="indented">Frenchmen, let us love one another, my God! my God! let <pb xml:id="page-265" n="221"/> us love one another or we are lost. Let us destroy, let us deny, let us annihilate politics, since it divides us and arms us against one another; let us ask from no one what he was and what he wanted yesterday. Yesterday all the world was mistaken, let us know what we want today. If it is not liberty for all and fraternity towards all, do not let us attempt to solve the problem of humanity, we are not worthy of defining it, we are not capable of comprehending it. Equality is a thing that does not impose itself, it is a free plant that grows only on fertile lands, in salubrious air. It does not take root on barricades, we know that now! It is immediately trodden under the foot of the conqueror, whoever he may be. Let us desire to establish it in our customs, let us be eager to consecrate it in our ideas. Let us give it for a starting point, patriotic charity, love! It is the part of a madman to think that one issues from a battle with respect for human rights. All civil war has brought forth and will bring forth great crime. . . .</p>
-<p rend="indented">Unfortunate International, is it true that you believe in the lie that strength is superior to right? If you are as numerous, as powerful as one fancies, is it possible that you profess destruction and hatred as a duty? No, your power is a phantom of death. A great number of men of every nationality would not, could not, deliberate and act in favor of an iniquitous principle. If you are the ferocious party of the European people, something like the Anabaptists of Munster, like them you will destroy yourself with your own hands. If, on the contrary, you are a great and legitimate fraternal association, your duty is to enlighten your adherents and to deny those who cheapen and compromise your principles. I hope still that you include in your bosom, humane and hard-working men in great numbers, and that they suffer and blush at seeing bandits take shelter under your name. In this case your silence is inept and cowardly. Have you not a single member capable of protesting against ignoble attacks, against idiotic principles <pb xml:id="page-266" n="222"/> , against furious madness? Your chosen chiefs, your governors, your inspirers, are they all brigands and idiots? No, it is impossible; there are no groups, there is no club, there are no crossroads where a voice of truth could not make itself heard. Speak then, justify yourself, proclaim your gospel. Dissolve yourself in order to make yourself over if the discord is in your own midst. Make an appeal to the future if you are not an ancient invasion of Barbarians. Tell those who still love the people what they ought to do for them, and if you have nothing to say, if you cannot speak a word of life, if the iniquities of your mysteries are sealed by fear, renounce noble sympathies, live on the scorn of honest folk, and struggle between the jailer and the police.</p>
+<p rend="indented">Unfortunate International, is it true that you believe in the lie that strength is superior to right? If you are as numerous, as powerful as one fancies, is it possible that you profess destruction and hatred as a duty? No, your power is a phantom of death. A great number of men of every nationality would not, could not, deliberate and act in favor of an iniquitous principle. If you are the ferocious party of the European people, something like the Anabaptists of Munster, like them you will destroy yourself with your own hands. If, on the contrary, you are a great and legitimate fraternal association, your duty is to enlighten your adherents and to deny those who cheapen and compromise your principles. I hope still that you include in your bosom, humane and hard-working men in great numbers, and that they suffer and blush at seeing bandits take shelter under your name. In this case your silence is inept and cowardly. Have you not a single member capable of protesting against ignoble attacks, against idiotic principles, <pb xml:id="page-266" n="222"/> against furious madness? Your chosen chiefs, your governors, your inspirers, are they all brigands and idiots? No, it is impossible; there are no groups, there is no club, there are no crossroads where a voice of truth could not make itself heard. Speak then, justify yourself, proclaim your gospel. Dissolve yourself in order to make yourself over if the discord is in your own midst. Make an appeal to the future if you are not an ancient invasion of Barbarians. Tell those who still love the people what they ought to do for them, and if you have nothing to say, if you cannot speak a word of life, if the iniquities of your mysteries are sealed by fear, renounce noble sympathies, live on the scorn of honest folk, and struggle between the jailer and the police.</p>
 <p rend="indented">All France has heard the word of your destiny which might have been the word of hers. She has waited for it in vain. I too, simple, I waited. While blaming the means I did not want to prejudice the end. There has always been one in revolutions, and the revolutions that fail are not always those with the weakest basis. A patriotic fanaticism seems to have been the first sentiment of this struggle. These lost children of the democratic army were going perhaps to subscribe to an inevitable peace that they judged shameful: Paris had sworn to bury herself under her ruins.</p>
 <p rend="indented">The democratic people were going to force the bourgeois to keep their word. They took possession of the cannon, they were going to turn them on the Prussians, it was mad, but it was grand. . . . Not at all. The first act of the Commune is to consent to the peace, and in all the course of its management, it does not have an insult, not a threat for the enemy, it conceives and commits the remarkable cowardice of overturning under the eyes of the enemy the column that recalls his defeats and our victories. It is angry against the powers emanating from universal suffrage, and yet it invokes this suffrage in Paris to constitute itself. It is true that this was <pb xml:id="page-267" n="223"/> not favorable to it; it dispenses with the appearance of legality that it intended to give itself and functions by brute force, without invoking any other right than that of hate and scorn for all that is not itself. It proclaims <hi rend="italic">positive social science</hi> of which it calls itself the sole depository, but about which it does not let a word escape in its deliberations and in its decrees. It declares that it is going to free man from his shackles and his prejudices, and at that very instant, it exercises a power without control and threatens with death whoever is not convinced of its infallibility. At the same time it pretends to take up the tradition of the Jacobins, it usurps the papal social authority and assumes the dictatorship. What sort of a republic is that? I see nothing vital in it, nothing rational, nothing constituted, nothing constitutable. It is an orgy of false reformers who have not one idea, not one principle, not the least serious organization, not the least solidarity with the nation, not the least outlook towards the future. Ignorance, cynicism and brutality, that is all that emanates from this false social revolution. Liberation of the lowest instincts, impotence of bold ambitions, scandal of shameless usurpations. That is the spectacle which we have just seen. Moreover, this Commune has inspired the most deadly disgust in the most ardent political men, men most devoted to the democracy. After useless essays, they have understood that there was no reconciliation possible where there were no principles; they withdrew from it with consternation, with sorrow, and, the next day, the Commune declared them traitors, and decreed their arrest. They would have been shot if they had remained in its hands.</p>
 <p rend="indented">And you, friend, you want me to see these things with a stoic indifference? You want me to say: man is made thus, crime is his expression, infamy is his nature?</p>
@@ -3990,9 +3994,7 @@ du Temple, 42, Paris</hi></head>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
 <div xml:id="div-letter-0263" type="letter" corresp="#letter-0263">
-<p rend="letter_header">CCLXII. <hi rend="smallcaps">To George Sand</hi></p>
-</div>
-<div xml:id="div-letter-0264" type="letter" corresp="#letter-0264">
+<head rend="center">CCLXII. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Croisset, Friday, 5th September, 1873</dateline></opener>
 <p rend="indented">On arriving here yesterday, I found your letter, dear good master. All is well with you then, God be praised!</p>
 <p rend="indented">I spent the month of August in wandering about, for I was in Dieppe, in Paris, in Saint-Gratien, in Brie, and in Beauce, hunting for a certain country that I had in mind, and I think that I have found it at last in the neighborhood of Houdan. But, before starting at my terrifying book, I shall make a last search on the road that goes from Loupe to Laigle. After that, good night.</p>
@@ -4003,7 +4005,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">At Rouen they are having processions, but the effect is completely spoiled, and the result of it is deplorable for fusion! What a misfortune! Among the imbecilities of our times, that (fusion) is perhaps the greatest. I should not be surprised if we should see little Father Thiers again! On the other hand many Reds, from fear of the clerical reaction, have gone over to Bonapartism. One needs a fine dose of simplicity to keep any political faith.</p>
 <p rend="indented">Have you read the <hi rend="italic">Antichrist?</hi> I find that indeed a beautiful book, aside from some faults of taste, some modern expressions applied to ancient things. Renan seems to me on the whole to have progressed. I passed all one evening recently with him and I thought him adorable.</p>
 </div>
-<div xml:id="div-letter-0265" type="letter" corresp="#letter-0265">
+<div xml:id="div-letter-0264" type="letter" corresp="#letter-0264">
 <pb xml:id="page-343" n="299"/><head rend="center">CCLXIII. <hi rend="smallcaps">To Gustave Flaubert, at Croisset</hi></head>
 <opener><dateline rend="right">Nohant, 3d October, 1873</dateline></opener>
 <p rend="indented">The existence of Cruchard is a beautiful poem, so much in keeping, that I don’t know if it is a fictitious biography or the copy for a real article done in good faith. I had to laugh a bit after the departure of all the Viardots (except Viardot) and the big <hi rend="italic">Muscovite,</hi> who was charming although very much indisposed from time to time. He left very well and very gay, but regretting not to have been to see you. The truth is that he was ill just then. He has had a disordered stomach, like me, for some time. I get well by being moderate, and he does not! I excuse him; after these crises one is famished, and if it is because of an empty stomach that one has to fill up, he must be terribly famished. What a kind, excellent and worthy man! And what modest talent! Everyone adores him here and I give them the example. We adore you too, Cruchard of my heart. But you love your work better than your friends, and in that you are inferior to the real Cruchard, who at least adored our holy religion.</p>
@@ -4012,7 +4014,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">My Aurore, whom I have not neglected, and who is working well, sends you a big kiss. Lina, Maurice send affection.</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0266" type="letter" corresp="#letter-0266">
+<div xml:id="div-letter-0265" type="letter" corresp="#letter-0265">
 <head rend="center"><hi rend="smallcaps">CCLXIV. To George Sand</hi></head>
 <opener><dateline rend="right">Croisset, Thursday</dateline></opener>
 <p rend="indented">Whatever happens, catholicism will receive a terrible blow, and if I were a devotee, I should spend my time before a crucifix saying: “Maintain the Republic for us, O my God!”</p>
@@ -4023,7 +4025,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I am glad to have diverted you a little with the biography of Cruchard. But I find it is hybrid and the character of Cruchard is not consistent! A man with such an executive ability does not have so many literary preoccupations. The archeology is superfluous. It belongs to another kind of ecclesiastics. Perhaps there is a transition that is lacking. Such is my humble criticism.</p>
 <p rend="indented">They had said in a theatrical bulletin that you were in Paris; I had a mistaken joy about it, dear good master whom I adore and whom I embrace.</p>
 </div>
-<div xml:id="div-letter-0267" type="letter" corresp="#letter-0267">
+<div xml:id="div-letter-0266" type="letter" corresp="#letter-0266">
 <head rend="center">CCLXV. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <p rend="indented">Your poor old troubadour, just getting well from a cruel attack of rheumatism, during which he could not lie down, nor eat, nor dress without aid, is at last up again. He suffered liver trouble, jaundice, rash, fever, in short he was fit to be thrown out on a pile of rubbish.</p>
 <p rend="indented">Here he is up again, very feeble, but able to write a few lines and to say with you <hi rend="italic">amen</hi> to the buried catholic dictatorships; it is not even <hi rend="italic">Catholics</hi> that they should be called, those people are not. They are only clericals.</p>
@@ -4032,7 +4034,7 @@ du Temple, 42, Paris</hi></head>
 <closer><signed rend="right">G. Sand</signed><dateline>Monday</dateline></closer>
 <postscript><p rend="postscript">Hard work? When indeed can I start at it? I am <hi rend="italic">no good</hi>.</p></postscript>
 </div>
-<div xml:id="div-letter-0268" type="letter" corresp="#letter-0268">
+<div xml:id="div-letter-0267" type="letter" corresp="#letter-0267">
 <head rend="center">CCLXVI. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">January, 1874</dateline></opener>
 <p rend="indented">As I have a quiet moment, I am going to profit by it by talking a little with you, dear good master! And first of all, embrace for me all your family and accept all my wishes for a Happy New Year!</p>
@@ -4053,7 +4055,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented"><hi rend="italic">Saint-Antoine</hi> will be in galley proof at the end of January.</p>
 <p rend="indented">Adieu, dear master! When shall we meet? Nohant is very far away! and I am going to be, all this winter, very busy.</p>
 </div>
-<div xml:id="div-letter-0269" type="letter" corresp="#letter-0269">
+<div xml:id="div-letter-0268" type="letter" corresp="#letter-0268">
 <head rend="center">CCLXVII. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">January, 1874</dateline></opener>
 <p rend="indented">I am seized with a headache, but, although perfectly imbecile, I want to embrace you and thank you for having written to me on New Year’s day. All Nohant loves you and smacks you, as they say in the country.</p>
@@ -4062,7 +4064,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Keep in touch with your play and don’t get ill this hateful winter.</p>
 <closer><salute rend="right">Your old troubadour who loves you.</salute><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0270" type="letter" corresp="#letter-0270">
+<div xml:id="div-letter-0269" type="letter" corresp="#letter-0269">
 <head rend="center">CCLXVIII. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Saturday evening, 7th February, 1874</dateline></opener>
 <p rend="indented">I have at last a moment to myself, dear master; now let us talk a little.</p>
@@ -4073,13 +4075,13 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">One thing vexes me. The censorship has ruined the rôle of a little legitimist ragamuffin, so that the play, conceived in the spirit of strict unpartisanship, has now to flatter the reactionaries: a result that distresses me. For I don’t want to please the political passions of anyone, no matter who it may be, having, as you know, an essential hatred of dogmatism, of all parties.</p>
 <p rend="indented">Well, the good Alexander Dumas has made the plunge! Here he is an Academician! I think him very modest. He must be, to think himself honored by honors.</p>
 </div>
-<div xml:id="div-letter-0271" type="letter" corresp="#letter-0271">
+<div xml:id="div-letter-0270" type="letter" corresp="#letter-0270">
 <head rend="center">CCLXIX.  <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Nohant, 15 February, 1874</dateline></opener>
 <p rend="indented">Everything is going well, and you are satisfied, my troubadour. Then we are happy here over your satisfaction and we are praying for success, and we are waiting impatiently for <hi rend="italic">Saint-Antoine</hi> so as to read it again. Maurice has had a cold which attacks him every other day. Lina and I are well, the little girls superlatively so. Aurore learns everything with admirable facility and docility; that child is my life and my ideal. I no longer enjoy anything except her progress. All my past, all that I have been able to acquire or to produce, has no value in my eyes unless it can profit her. If a certain portion of intelligence and goodness was granted to me, it is so that <pb xml:id="page-351" n="307"/> she may have a greater share. You have no children, be therefore a littérateur, an artist, a master; that is logical, that is your compensation, your happiness, and your strength. And do tell us that you are getting on, that seems to us the main thing in life.—And keep well, I think that these rehearsals which make you go to and fro are good for you.</p>
 <closer><salute rend="indented">We all embrace you fondly.</salute><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0272" type="letter" corresp="#letter-0272">
+<div xml:id="div-letter-0271" type="letter" corresp="#letter-0271">
 <head rend="center">CCLXX. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Saturday evening, 28 February, 1874</dateline><salute>Dear master,</salute></opener>
 <p rend="indented">The first performance of <hi rend="italic">le Candidat</hi> is set for next Friday, unless it is Saturday, or perhaps Monday the 9th? It has been postponed by Delannoy’s illness and by <hi rend="italic">l’Oncle Sam</hi>, for we had to wait until the said Sam had come down to under fifteen hundred francs.</p>
@@ -4090,7 +4092,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I am reading now books on hygiene. Oh! but they are comic! What assurance physicians have! what effrontery! what asses, for the most part! I have just finished the <hi rend="italic">Gaule poétique</hi> of Marchangy (the enemy of Béranger). This book gave me hysterics.</p>
 <p rend="indented">So as to retemper myself in something stronger, I reread the great, the most holy, the incomparable Aristophanes! There is a man, that fellow! What a world in which such works were produced!</p>
 </div>
-<div xml:id="div-letter-0273" type="letter" corresp="#letter-0273">
+<div xml:id="div-letter-0272" type="letter" corresp="#letter-0272">
 <head rend="center">CCLXXI</head>
 <opener><dateline rend="right">Nohant, March, 1874</dateline></opener>
 <p rend="indented">Our two little girls cruelly ill with the grippe have taken up all my time, but I am following, in the papers, the course of your play. I would go to applaud it, my cherished Cruchard, if I could leave these dear little invalids.</p>
@@ -4099,7 +4101,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Don’t you delay to give me the news on Thursday, I don’t need to tell you that success and the lack of it prove nothing, and that it is a ticket in a lottery. It is agreeable to succeed; to a philosophical spirit it ought not to be very distressing to fail. As for me, without knowing the play, I predict a success on the first day. As for its continuance, that is always unknown and unforeseen from day to day.</p>
 <closer><salute rend="indented">We all embrace you very affectionately.</salute><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0274" type="letter" corresp="#letter-0274">
+<div xml:id="div-letter-0273" type="letter" corresp="#letter-0273">
 <head rend="center">CCLXXII. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Thursday, one o’clock, 12 March, 1874</dateline></opener>
 <p rend="indented">Speaking of <hi rend="italic">frosts</hi>, this is one! People who want to flatter me insist that the play will do better before the real public, but I don’t think so! I know the defects of my play better than anyone. If Carvalho had not, for a month, bored me to death with corrections that I have cut out, I would have made retouches or perhaps changes which would perhaps have modified the final issue. But I was so disgusted with it that I would not have changed a line for a million francs. In a word, I am dished.</p>
@@ -4110,9 +4112,9 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I tell myself: “well, it’s over!” and I experience a feeling of freedom. The worst of it all is the scandal about the tickets. Observe that I had twelve orchestra seats and a box! (<hi rend="italic">Le Figaro</hi> had eighteen orchestra seats and three boxes.) I did not even see the chief of the claque. One would say that the management of the Vaudeville had arranged for me to fail. Its dream is fulfilled.</p>
 <p rend="indented">I did not give away a quarter of the seats that I needed and I bought a great many for people who slandered me eloquently in the lobbies. The “bravos” of a devoted few were drowned at once by the “hushes.” When they mentioned my name at the end, there was applause (for the man but not for the work) accompanied by two beautiful catcalls from the gallery gods. That is the truth.</p>
 <p rend="indented"><hi rend="italic">La Petite Presse</hi> of this morning is polite. I can ask no more of it. Farewell, dear good master, do not pity me, for I don’t feel pitiable.</p>
-<postscript><p rend="postscript">P. S.—A nice bit from my servant when he handed me your letter this morning. Knowing your handwriting, he said</p><pb xml:id="page-355" n="311"/><p>sighing: “Ah! the best one was not there last evening!” That is just what I think.</p></postscript>
+<postscript><p rend="postscript">P. S.—A nice bit from my servant when he handed me your letter this morning. Knowing your handwriting, he said <pb xml:id="page-355" n="311"/> sighing: “Ah! the best one was not there last evening!” That is just what I think.</p></postscript>
 </div>
-<div xml:id="div-letter-0275" type="letter" corresp="#letter-0275">
+<div xml:id="div-letter-0274" type="letter" corresp="#letter-0274">
 <head rend="center">CCLXXIII. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Wednesday, April, 1874</dateline></opener>
 <p rend="indented">Thank you for your long letter about <hi rend="italic">le Candidat</hi>. Now here are the criticisms that I add to yours: we ought to have: (1) lowered the curtain after the electoral meeting and put the entire half of the third act into the beginning of the fourth; (2) cut out the anonymous letter, which is unnecessary, since Arabelle informs Rousselin that his wife has a lover; (3) inverted the order of the scenes in the fourth act, that is to say, beginning with the announcement of the tryst between Madame Rousselin and Julien and, making Rousselin a little more jealous. The anxieties of his election turn him aside from his desire to go to entrap his wife. Not enough is made of the exploiters. There should be ten instead of three. Then, he gives his daughter. The end was there, and at the instant that he notices the blackguardism, he is elected. Then his dream is accomplished, but he feels no joy over it. In that manner there would have been moral progress.</p>
@@ -4122,7 +4124,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I have been <hi rend="italic">execrated</hi> by the Messrs. Villemessant and Buloz, who will do all they can to be disagreeable to me. Villemessant reproaches me for not “having been killed by the Prussians.” All that is nauseous!</p>
 <p rend="indented">And you beg me not to notice human folly, and to deprive myself of the pleasure of depicting it! But the comic is the only consolation of virtue. There is, moreover, a manner of taking it which is elevated; that is what I am aiming at with my two good people. Don’t fear that they are too realistic! I am afraid, on the contrary, that it may seem beyond the bounds of possibility, for I shall push the idea to the limit. This little work that I shall start in six weeks will keep me busy for four or five years!</p>
 </div>
-<div xml:id="div-letter-0276" type="letter" corresp="#letter-0276">
+<div xml:id="div-letter-0275" type="letter" corresp="#letter-0275">
 <head rend="center">CCLXXIV. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">April, 1874</dateline></opener>
 <p rend="indented">As it would have necessitated a <hi rend="italic">struggle</hi>, and as Cruchard has lawsuits in horror, I have withdrawn my play on the payment of five thousand francs, so much the worse! I will not have my actors hissed! The night of the second performance <pb xml:id="page-357" n="313"/> when I saw Delannoy come back into the wings with his eyes wet, I felt myself a criminal and said to myself: “Enough.” (Three persons affect me: Delannoy, Tourgueneff and my servant!) In short, it is over. I am printing my play, you will get it towards the end of the week.</p>
@@ -4134,7 +4136,7 @@ du Temple, 42, Paris</hi></head>
 <closer><salute rend="indented">Farewell, dear good adored master, friendly regards to yours. Kisses to the dear little girls, and all my love to you.</salute></closer>
 <postscript><p rend="postscript">P.S. Could you give me a copy or the original of <hi rend="italic">Cruchard’s</hi> biography; I have no draft of it and I want to reread it to freshen up <hi rend="italic">my ideal.</hi></p></postscript>
 </div>
-<div xml:id="div-letter-0277" type="letter" corresp="#letter-0277">
+<div xml:id="div-letter-0276" type="letter" corresp="#letter-0276">
 <head rend="center">CCLXXV. <hi rend="smallcaps">To Gustave Flaubert, at Croisset</hi></head>
 <opener><dateline rend="right">Nohant, 10 April, 1874</dateline></opener>
 <p rend="indented">Those who say that I do not think <hi rend="italic">Saint-Antoine</hi> beautiful and excellent, lie about it, I do not need to tell you. Let me ask you how I could have confided in the Lévy clerks whom I do not know! I remember, as for Lévy himself, saying to him last summer, that I found the thing superb and first class.</p>
@@ -4143,7 +4145,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">So make fun of all this <hi rend="italic">gossip</hi>; the guiltiest ones are those who report it to you. I think it is very odd that they say so much against you to your friends. No one indeed ever says anything to me: they know that I would not allow it. Be valiant and <hi rend="italic">content</hi> since <hi rend="italic">Saint-Antoine</hi> is doing well and selling better. What difference does it make if they cut you up in this or that paper? In former times it meant something; in these days, nothing. The public is not the public of other days, and journalism has not the least literary influence. Every one is a critic and forms his own opinions. They never write articles about my novels. That doesn’t make any difference to me.</p>
 <closer><salute rend="cascading">I embrace you and we love you.<lb/>Your old troubadour.</salute></closer>
 </div>
-<div xml:id="div-letter-0278" type="letter" corresp="#letter-0278">
+<div xml:id="div-letter-0277" type="letter" corresp="#letter-0277">
 <head rend="center">CCLXXVI. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Friday evening, 1st May, 1874</dateline></opener>
 <p rend="indented">Things are progressing, dear master, insults are accumulating! It is a concerto, a symphony in which each one is intent on his own instrument. I have been cut up beginning with <hi rend="italic">le Figaro</hi> up to <hi rend="italic">la Revue des Deux Mondes</hi>, including <hi rend="italic">la Gazette de France</hi> and <hi rend="italic">le Constitutionnel</hi>. And <hi rend="italic">they</hi> have <pb xml:id="page-360" n="316"/> not finished yet! Barbey d’Aurevilly has insulted me personally, and the good Saint-René Taillandier, who declares me “unreadable,” attributes ridiculous words to me. So much for printing. As for speech, it is in <hi rend="italic">accord</hi>. Saint-Victor (is it servility towards Michel Lévy) rends me at the Brabant dinner, as does that excellent Charles Edmond, etc. On the other hand I am admired by the professors of the Faculty of Theology at Strasbourg, by Renan, and by the cashier at my butcher’s! not to mention some others. There is the truth.</p>
@@ -4156,7 +4158,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Kiss the dear little girls for me and let them return it to you from me.</p>
 <closer><salute rend="right">Your old friend.</salute></closer>
 </div>
-<div xml:id="div-letter-0279" type="letter" corresp="#letter-0279">
+<div xml:id="div-letter-0278" type="letter" corresp="#letter-0278">
 <head rend="center">CCLXXVII. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Nohant, 4th May, 1874</dateline></opener>
 <p rend="indented">Let them say what they like, <hi rend="italic">Saint-Antoine</hi> is a masterpiece, a magnificent book. Ridicule the critics, they are blockheads. The present century does not like lyricism. Let us wait for the reaction, it will come for you, and a splendid one. Rejoice in your insults, they are great promises for the future.</p>
@@ -4166,7 +4168,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">We all love you and all my dear world embraces you with a <hi rend="italic">great good heart</hi>.</p>
 <closer><salute rend="center">Your old troubadour always,</salute><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0280" type="letter" corresp="#letter-0280">
+<div xml:id="div-letter-0279" type="letter" corresp="#letter-0279">
 <pb xml:id="page-362" n="318"/><head rend="center">CCLXXVIII. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Croisset, Tuesday, 26th March, 1874</dateline><salute>Dear good master,</salute></opener>
 <p rend="indented">Here I am back again in my solitude! But I shall not remain in it long, for, in a short month, I shall go to spend three weeks on the Righi, so as to breathe a bit, to relax myself, to deneurasthenize myself! It is a long time since I took the air, I am tired. I need a little rest. After that I shall start at my big book which will take at least four years. It will have that good quality!</p>
@@ -4179,7 +4181,7 @@ du Temple, 42, Paris</hi></head>
 <closer><salute rend="indented">Embrace warmly the dear little girls for me, and entirely yours.</salute><signed rend="right">R. P. Cruchard</signed></closer>
 <postscript><p rend="postscript">More Cruchard than ever. I feel like a good-for-nothing, a cow, damned, antique, deliquescent, in short calm and moderate, which is the last term in decadence.</p></postscript>
 </div>
-<div xml:id="div-letter-0281" type="letter" corresp="#letter-0281">
+<div xml:id="div-letter-0280" type="letter" corresp="#letter-0280">
 <head rend="center">CCLXXIX. T<hi rend="smallcaps">o</hi> G<hi rend="smallcaps">eorge</hi> S<hi rend="smallcaps">and</hi></head>
 <opener><dateline rend="right">Kalt-Bad. Righi. Friday, 3d July, 1874</dateline></opener>
 <p rend="indented">Is it true, dear master, that last week you came to Paris? I went through it to go to Switzerland, and I read “in a sheet” that you had been to see <hi rend="italic">les Deux Orphelines</hi>, had taken a walk in the Bois de Boulogne, had dined at Magny’s, etc.; all of which goes to prove that, thanks to the freedom of the press, one is not master of one’s own actions. Whence it results that Father Cruchard is wrathful with you for not having advised him of your presence in the “new Athens.” It seems to me that people are sillier and flatter there than usual. The state of politics has become drivel! They have tickled my ears <pb xml:id="page-364" n="320"/> with the return of the Empire. I don’t believe in it! However? . . . We should have to expatriate ourselves then. But how and where?</p>
@@ -4195,7 +4197,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Beginning with September, then, I shall start that hard task! it makes me afraid, and I am overwhelmed by it in advance.</p>
 <p rend="indented">As you know Switzerland, it is useless for me to talk to you of it, and you would scorn me if I were to tell you that I am bored to extinction here. I came here obediently because they ordered me to, for the purpose of bleaching my face and calming my nerves! I don’t think that the remedy will be efficacious; anyhow it has been deadly boring to me. I am not a man of nature, and I do not understand anything in a country where there is no history. I would give all these glaciers for the Vatican Museum. One can dream there. Well, in three weeks I shall be glued to my green table! in a humble refuge, where it seems to me you never want to come!</p>
 </div>
-<div xml:id="div-letter-0282" type="letter" corresp="#letter-0282">
+<div xml:id="div-letter-0281" type="letter" corresp="#letter-0281">
 <head rend="center">CCLXXX. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Nohant, 6th July, 1874<lb/>(Yesterday, seventy years.)</dateline></opener>
 <p rend="indented">I was in Paris from the 30th of May to the 10th of June, you were not there. Since my return here, I have been ill with the grippe, rheumatic, and often absolutely deprived of the use of my right arm. I have not the courage to stay in bed: <pb xml:id="page-366" n="322"/> I spend the evening with my children and I forget my little miseries which will pass; everything passes. That is why I was not able to write to you, even to thank you for the good letter which you wrote to me about my novel. In Paris I was overwhelmed by fatigue. That is the way I am growing old, and now I am beginning to feel it; I am not more often ill, but now, illness <hi rend="italic">prostrates</hi> me more. That is nothing, I have not the right to complain, being well loved and well cared for in my nest. I urge Maurice to go about without me, since my strength is not equal to going with him. He leaves tomorrow for Cantal with a servant, a tent, a lamp, and a quantity of utensils to examine the <hi rend="italic">micros</hi> of his entomological <hi rend="italic">division</hi>. I am telling him that you are bored on the Righi. He cannot understand it.</p>
@@ -4208,7 +4210,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Nature alone knows how to speak to the intelligence in a language that is imperishable, always the same, because it does not depart from the eternally true, the absolutely beautiful. The hard thing, when one travels, is to find nature, because man has arranged it everywhere and has almost spoiled it everywhere; probably it is because of that that you are bored, it is because it is disguised and travestied everywhere. However, the glaciers are still intact, I presume.</p>
 <p rend="indented">But I cannot write further, I must tell you quickly that I love you, that I embrace you affectionately. Give me news of yourself. I hope to be on my feet in a few days. Maurice is waiting until I am robust before he goes: I am hurrying as much as I can! My little girls embrace you, they are superb. Aurore is devoted to mythology (George Cox, Baudry translation). You know that? An adorable work for children and parents. Enough, I can no more. I love you; don’t have black ideas, and resign yourself to being bored if the air is good there.</p>
 </div>
-<div xml:id="div-letter-0283" type="letter" corresp="#letter-0283">
+<div xml:id="div-letter-0282" type="letter" corresp="#letter-0282">
 <pb xml:id="page-368" n="324"/><head rend="center">CCLXXXI. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Righi, 14 July, 1874</dateline></opener>
 <p rend="indented">What? ill? poor, dear master! If it is rheumatism, do as my brother does, who in his character of physician, scarcely believes in medicine. Last year he went t the baths at Aix, in Savoy, and in two weeks he was cured of the pains that had tormented him for six years. But to do that you would have to move, to resign your habits, Nohant and the dear little girls. You will remain at home and <hi rend="italic">you will be wrong</hi>. You ought to take care of yourself . . . for those who love you.</p>
@@ -4218,7 +4220,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">It is a strange thing how much pleasure imbeciles find in floundering about in the work of another! in cutting it, correcting it, playing the pedagogue! Did I tell you that I was, because of that, very much at odds with a certain *****. He wanted to make over, sometime ago, a novel that I had recommended to him, which was not very good, but of which he is incapable of turning the least phrase. And I did not hide from him my opinion about him; <hi rend="italic">inde irae</hi>. However, it is impossible for me to be so modest as to think that that good Pole is better than I am in French prose. And you want me to remain calm! dear master! I have not your temperament! I am not like you, always soaring above the miseries of this world. Your Cruchard is as sensitive as if he were divested of skin. And imbecility, self-sufficiency, injustice exasperate him more and more. Thus the ugliness of the Germans who surround me shuts off the view of the Righi!!! Zounds! What mugs!</p>
 <p rend="indented">God be thanked, “of my horrible sight I purge their States.”</p>
 </div>
-<div xml:id="div-letter-0284" type="letter" corresp="#letter-0284">
+<div xml:id="div-letter-0283" type="letter" corresp="#letter-0283">
 <head rend="center">CCLXXXII. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Saturday, 26 September, 1874</dateline></opener>
 <p rend="indented">Then, after having been bored like an ass on the top of the Righi, I returned home the first of August and started my book. The beginning was not easy, it was even “direful,” and “methought” I should die of despair; but now things are going, I am all right, come what may! But one needs to be absolutely mad to undertake such a book. I fear that, by its very conception, it is radically impossible. We shall see. <pb xml:id="page-370" n="326"/> Ah! supposing I should carry it out well . . . what a dream!</p>
@@ -4229,7 +4231,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I am sure that you are finding me grouchy and that you are going to answer me : “What difference does all that make?” But everything makes a difference, and we are dying of humbug, of ignorance, of self-confidence, of scorn of grandeur, of love of banality, and imbecile babble.</p>
 <p rend="indented">“Europe which hates us, looks at us and laughs,” said Ruy Blas. My Heavens, she has a right to laugh.</p>
 </div>
-<div xml:id="div-letter-0285" type="letter" corresp="#letter-0285">
+<div xml:id="div-letter-0284" type="letter" corresp="#letter-0284">
 <head rend="center">CCLXXXIII  <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Nohant, 5th November, 1874</dateline></opener>
 <p rend="indented">What, my Cruchard, you have been ill? That is what I feared, I who live in the woes of indigestion and yet hardly work at all, I am disquieted at your kind of life, the excess of intellectual expenditure and the seclusion. In spite of the charm that I have proved and appreciated at Croisset, I fear for you that solitude where you have no longer anyone to remind you that you must eat, drink and sleep, and above all walk. Your rainy climate makes you keep to the house. Here, where it does not rain enough, we are at least hustled out of doors by the beautiful warm sun and that Phœbus invigorates us, while our Phœbus-Apollo murders us.</p>
@@ -4239,7 +4241,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Tell us about yourself, do not be ill, always love your old troubadour and his people who love you too.</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0286" type="letter" corresp="#letter-0286">
+<div xml:id="div-letter-0285" type="letter" corresp="#letter-0285">
 <head rend="center">CCLXXXIV. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Wednesday, 2nd December, 1874</dateline></opener>
 <p rend="indented">I am having remorse about you. It is a crime to let so long a time elapse without answering such a letter as your last. I was waiting to write to you until I had something definite to tell you about <hi rend="italic">le Sexe faible</hi>. What is definite is, that I took it away from the Cluny a week ago. The cast that Weinschenk proposed to me was odiously stupid and he <pb xml:id="page-373" n="329"/> did not keep the promises that he made. But, God be thanked, I withdrew in time. At present my play has been offered to the Gymnase. No news up to now from Montigny.</p>
@@ -4247,7 +4249,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Speaking of books, do read <hi rend="italic">Fromont et Risler</hi>, by my friend Daudet, and <hi rend="italic">les Diaboliques</hi>, by my enemy Barbey d’Aurevilly. You will writhe with laughter. It is perhaps owing to the perversity of my mind, which likes unhealthy things, but the latter work seemed to me extremely amusing; it is the last word in the involuntary grotesque. In other respects, dead calm, France is sinking gently like a rotten hulk, and the hope of salvage, even for the staunchest, seems chimerical. You need to be here, in Paris, to have an idea of the universal depression, of the stupidity, of the decrepitude in which we are floundering.</p>
 <p rend="indented">The sentiment of that agony penetrates me and I am sad enough to die. When I am not torturing myself about my work, I am groaning about myself. That is the truth. In my leisure moments, all I do is to think of the dead, and I am going to say a very pretentious thing to you. No one understands me; I belong to another world. The men of my profession are so little of my profession! There is hardly anyone except Victor Hugo with whom I can talk of what interests me. Day before yesterday he recited by heart to me from Boileau and from Tacitus. That was like a gift to me, the thing is so rare. Moreover, the days when there are not politicians at his house, he is an adorable man.</p>
 </div>
-<div xml:id="div-letter-0287" type="letter" corresp="#letter-0287">
+<div xml:id="div-letter-0286" type="letter" corresp="#letter-0286">
 <pb xml:id="page-374" n="330"/><head rend="center">CCLXXXV.  <hi rend="smallcaps">To Gustave Flaubert, at Croisset</hi></head>
 <opener><dateline rend="right">Nohant, 8th December, 1874</dateline><salute>Poor dear friend,</salute></opener>
 <p rend="indented">I love you all the more because you are growing more unhappy. How you torment yourself, and how you disturb yourself about life! for all of which you complain, is life; it has never been better for anyone or in any time. One feels it more or less, one understands it more or less, one suffers with it more or less, and the more one is in advance of the age one lives in, the more one suffers. We pass like shadows on a background of clouds which the sun seldom pierces, and we cry ceaselessly for the sun which can do no more for us. It is for us to clear away our clouds.</p>
@@ -4258,7 +4260,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Every one is well, and embraces you. As for me, I do not get well, but I have hopes, well or not, to keep on still so as to bring up my grandchildren, and to love you as long as I have a breath left.</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0288" type="letter" corresp="#letter-0288">
+<div xml:id="div-letter-0287" type="letter" corresp="#letter-0287">
 <head rend="center">CCLXXXVI. <hi rend="smallcaps">To Gustave Flaubert, at Croisset</hi></head>
 <opener><dateline rend="right">Nohant, 16th January, 1875</dateline></opener>
 <p rend="indented">I too, dear Cruchard, embrace you at the New Year, and wish that you may have a tolerable one, since you do not care to hear the myth happiness spoken of. You admire my serenity; it does not come from my depths, it comes from my necessity of thinking only of others. There is but a little time left, old age creeps on and death is pushing me by the shoulders.</p>
@@ -4271,7 +4273,7 @@ du Temple, 42, Paris</hi></head>
 <pb xml:id="page-377" n="333"/><p rend="indented">I love you and I embrace you with all my heart, my dear Polycarp. My children large and small join with me.</p>
 <p rend="indented">Come now, no weakness! We all ought to be examples to our friends, our neighbors, our fellow citizens. And how about me, don’t you think that I need help and support in my long task that is not yet finished? Don’t you love anyone, not even your old <hi rend="italic">troubadour</hi>, who still sings, and often weeps, but who conceals himself when he weeps, as cats do when they die?</p>
 </div>
-<div xml:id="div-letter-0289" type="letter" corresp="#letter-0289">
+<div xml:id="div-letter-0288" type="letter" corresp="#letter-0288">
 <head rend="center">CCLXXXVII. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Paris, Saturday evening</dateline><salute>Dear master,</salute></opener>
 <p rend="indented">I curse once more <hi rend="italic">the dramatic mania</hi> and the pleasure that certain people have in announcing remarkable news! Someone had told me that you were <hi rend="italic">very</hi> ill. Your good handwriting came to reassure me yesterday morning, and this morning I have received the letter from Maurice, so the Lord be praised!</p>
@@ -4286,7 +4288,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Send me <hi rend="italic">Flamarande</hi>; that will give me a little air.</p>
 <p rend="indented">I embrace you all, and especially you, dear master, so great, so strong, and so gentle. Your Cruchard, who is more and more cracked, if cracked is the right word, for I perceive that the contents are escaping.</p>
 </div>
-<div xml:id="div-letter-0290" type="letter" corresp="#letter-0290">
+<div xml:id="div-letter-0289" type="letter" corresp="#letter-0289">
 <head rend="center">CCLXXXVIII.  <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">20th February</dateline></opener>
 <p rend="indented">Then you are quite ill, dear old fellow? I am not worried about it, since it concerns only nerves and rheumatisms, and I have lived seventy years with all that nuisance in my body, and I am still healthy. But I am sad to know that you are bored, suffering, and your spirit turned to darkness as it necessarily is when one is ill.</p>
@@ -4297,7 +4299,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I love you, and I embrace you, as does every one of my brood.</p>
 <closer><salute rend="right">Your old troubadour</salute></closer>
 </div>
-<div xml:id="div-letter-0291" type="letter" corresp="#letter-0291">
+<div xml:id="div-letter-0290" type="letter" corresp="#letter-0290">
 <head rend="center"><hi rend="smallcaps">CCLXXXIX. To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Nohant, 25th March, 1875</dateline></opener>
 <p rend="indented">Don’t be worried about me, my Polycarp. I have nothing serious, a little grippe, and this right arm which hardly moves but which electricity will cure. One thinks that it is an effort.</p>
@@ -4309,7 +4311,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Tell us of yourself and always love us as we love you.</p>
 <closer><salute rend="right">Your old troubadour</salute></closer>
 </div>
-<div xml:id="div-letter-0292" type="letter" corresp="#letter-0292">
+<div xml:id="div-letter-0291" type="letter" corresp="#letter-0291">
 <head rend="center">CCXC. T<hi rend="smallcaps">O</hi> G<hi rend="smallcaps">USTAVE</hi> F<hi rend="smallcaps">LAUBERT</hi></head>
 <opener><dateline rend="right">Nohant, 7th May, 1875</dateline></opener>
 <p rend="indented">You leave me without news of you? You say that you prefer to be forgotten, rather than to complain ceaselessly, as it is very useless and since you will not be forgotten; complain then, but tell us that you are alive and that you still love us.</p>
@@ -4321,7 +4323,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I am thinking of going to Paris next month, shall you be there?</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0293" type="letter" corresp="#letter-0293">
+<div xml:id="div-letter-0292" type="letter" corresp="#letter-0292">
 <head rend="center">CCXCI. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Croisset, 10th May, 1875</dateline></opener>
 <p rend="indented">A wandering gout, pains that go all over me, an invincible melancholy, the feeling of “universal uselessness” and grave doubts about the book that I am writing, that is what is the matter with me, dear and valiant master. Add to that worries about money with melancholic recollections of the past, that is my condition, and I assure you that I make great efforts to get out of it. But my will is tired. I cannot decide about anything effective! Ah! I have eaten my white bread first, and old age is not announcing itself under gay colors. Since I have begun hydrotherapy, however, I feel a little less like a <hi rend="italic">cow</hi>, and this evening I am going to begin work without looking behind me.</p>
@@ -4331,19 +4333,19 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">No, I do not rejoice at Michel Lévy’s death, and I even envy him that death so quiet. Just the same, that man did me a great deal of harm. He wounded me deeply. It is true that I am endowed with an absurd sensitiveness; what scratches others tears me to pieces. Why am I not organized for enjoyment as I am for suffering!</p>
 <p rend="indented">The bit you sent me about <hi rend="italic">Aurore</hi> who is reading Homer, did me good. That is what I miss: a little girl like that! But one does not arrange one’s own destiny, one submits to it. I have always lived from day to day, without plans for the future and pursuing my end (one alone, literature) without looking to the right or to the left. Everything that was around me has disappeared, and now I find I am in a desert. In short, the element of distraction is absolutely lacking to me. One needs a certain vivacity to write good things! What can one do to get it again? How can one proceed, to avoid thinking continually about one’s miserable person? The sickest thing in me is my humor: the rest doubtless would go well. You see, dear, good master, that I am right to spare you my letters. Nothing is as imbecile as the whiners.</p>
 </div>
-<div xml:id="div-letter-0294" type="letter" corresp="#letter-0294">
+<div xml:id="div-letter-0293" type="letter" corresp="#letter-0293">
 <head rend="center">CCXCII. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Thursday morning, 10th June, 1875</dateline></opener>
 <p rend="indented">We are leaving, Lina and I, on Saturday morning, and up to then we shall be on the move. If you wanted to come to dine <pb xml:id="page-383" n="339"/> with us Friday at Magny’s at six o’clock, at least we could say farewell. You should be free at nine o’clock, for we go to bed with the chickens in order to leave early the next day. What do you say?</p>
 <p rend="indented">I love you with all my heart.</p>
 </div>
-<div xml:id="div-letter-0295" type="letter" corresp="#letter-0295">
+<div xml:id="div-letter-0294" type="letter" corresp="#letter-0294">
 <head rend="center">CCXCIII. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <p rend="indented">Friend, I shall come at your call as soon as you say to me, “I have finished.”</p>
 <p rend="indented">I love you, and I embrace you.</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0296" type="letter" corresp="#letter-0296">
+<div xml:id="div-letter-0295" type="letter" corresp="#letter-0295">
 <head rend="center">CCXCIV. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Nohant, 15 August</dateline><salute>My poor, dear, old fellow,</salute></opener>
 <p rend="indented">I learn only today in a letter from that dear, lazy soul of a Tourgueneff, about the misfortune which has come to your niece. Is it then irreparable? Her husband is very young and intelligent, can’t he begin over again, or take a position that will give him a living? They have no children, they do not need millions to live on, young and well as they both are. Tourgueneff tells me that your property has been affected by this failure. If it is <hi rend="italic">affected merely</hi> you will bear this serious annoyance philosophically. You have no vices to satisfy, nor ambitions to appease. I am sure that you will accommodate your life to your resources. The hardest thing for you to bear, is the chagrin of that young woman who is as a daughter to you. But you will give her courage and consolation, it is the moment to be above your own worries, in order to assuage those of others. I am sure that as I write, you have <pb xml:id="page-384" n="340"/> already calmed her mind and soothed her heart. Perhaps, too, the disaster is not what it seems at the first moment. There will be a change for the better, a new way will be found, for it is always so, and the worth of men is measured according to their energy, to the hopes which are always a sign of their force and intelligence. More than one has risen again bravely. Be sure that better days will come and tell them so continually, for it is true. Your moral and physical welfare must not be shaken by this rebuff. Think of healing those whom you love, and forget yourself. We shall be thinking of you, and we shall be suffering for you; for I am keenly affected at seeing that you have a new subject of sadness amidst your spleen.</p>
@@ -4351,7 +4353,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">We all embrace you very tenderly. Do not write if it bores you, say to us only, “I am well, and I love you.”</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0297" type="letter" corresp="#letter-0297">
+<div xml:id="div-letter-0296" type="letter" corresp="#letter-0296">
 <head rend="center">CCXCV. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Wednesday</dateline></opener>
 <p rend="indented">Will you forgive my long delay, dear master? But I think that I must bore you with my eternal jeremiads. I repeat myself like a dotard! I am becoming too stupid! I am boring everybody. In short, your Cruchard has become an intolerable old codger, because he has been intolerant. And as I cannot do anything that I ought to do, I must, out of consideration for others, spare them the overflow of my bile.</p>
@@ -4360,7 +4362,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I work all the more, so as not to think about myself. But since I have undertaken a book that has absurd difficulties in its execution, the feeling of my powerlessness adds to my chagrin.</p>
 <p rend="indented">Don’t tell me again that imbecility is sacred like childhood, for imbecility contains no germ. Let me believe that the dead do not “search any more,” and that they are at rest. We are sufficiently tormented on earth to be at rest when we are beneath it! Ah! How I envy you, how I long to have your serenity! To say nothing of the rest! and your two dear little girls, whom I embrace as tenderly as I do you.</p>
 </div>
-<div xml:id="div-letter-0298" type="letter" corresp="#letter-0298">
+<div xml:id="div-letter-0297" type="letter" corresp="#letter-0297">
 <head rend="center"><hi rend="smallcaps">CCXCVI. To Gustave Flaubert, at Croisset</hi></head>
 <opener><dateline rend="right">Nohant, 7th September, 1875</dateline></opener>
 <p rend="indented">You are distressed, you are discouraged, you distress me too. That is all right, I would rather have you complain than keep silent, dear friend. And I don’t want you to stop writing to me.</p>
@@ -4370,14 +4372,14 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Give us news of yourself.</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0299" type="letter" corresp="#letter-0299">
+<div xml:id="div-letter-0298" type="letter" corresp="#letter-0298">
 <head rend="center">CCXCVII. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Nohant, 8th October, 1875</dateline></opener>
 <p rend="indented">Well, well, your health has come back in spite of you, since you are sleeping all night. The sea air forces you to live and you have made progress, you have given up a work that would not have made a success. Do something more of earth earthy, which would reach everybody. Tell me what price they would sell Croisset for if they are obliged to sell it. Is it a house and garden, or is there a farm and grounds! If it is not beyond my means I might buy it and you should spend the rest of your life there. I have no money, but I should try to shift a little capital. Answer me seriously, I beg of you; if I can do it, it shall be done.</p>
 <p rend="indented">I have been ill all the summer, that is to say, that I have suffered continually, but I have worked all the more not to think of it. In fact they are to put on <hi rend="italic">Villemer</hi> and <hi rend="italic">Victorine</hi> at the Théâtre Français again. But there is nothing now in preparation. I do not know at what time in the autumn or winter I shall have to go to Paris. I shall find you there ready and courageous, shan’t I? If you have made, through goodness and devotion, as I think, a great sacrifice for your niece, who, <pb xml:id="page-387" n="343"/> in truth, is your real daughter, you will forget all about it and will begin your life again as a young man. Is one old when one does not choose to be? Stay at the seaside as long as you can. The important thing is to patch up the physical machine. Here with us it is as warm as in midsummer. I hope that you still have the sun down there. Study the life of the mollusc! They are creatures better endowed than one thinks, and, for my part, I should love to take a walk with Georges Pouchet! Natural history is the inexhaustible source of agreeable occupations for even those who seek only amusement in it, and if you actually attacked it you would be saved. But you must by all means save yourself, for you are somebody, and you cannot drop out of the running, as can a mere ruined grocer. We all embrace you with our best love.</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0300" type="letter" corresp="#letter-0300">
+<div xml:id="div-letter-0299" type="letter" corresp="#letter-0299">
 <head rend="center">CCXCVIII. <hi rend="smallcaps">To Gustave Flaubert, in Paris</hi></head>
 <opener><dateline rend="right">Nohant, 15 November, 1875</dateline></opener>
 <p rend="indented">So you are there in Paris, and have you left your apartment at the rue Murillo? You are working? Good luck and good courage! The old man is coming to the top again! I know that they are rehearsing <hi rend="italic">Victorine</hi> at the Théâtre Français; but I don’t know whether I shall go to see that revival. I have been so ill all the summer and I am still suffering so much with intestinal trouble, that I do not know if I shall ever be strong enough to move in winter. Well, we shall see. The hope of finding you there will give me courage; that is not what will be lacking, but, since I passed my seventieth birthday, I have been very much upset, and I do not yet know if I shall get over it. I cannot walk any more, I who used to love to be on my feet so much, without risking atrocious pains. I am patient with <pb xml:id="page-388" n="344"/> these miseries, I work all the more, and I do water-colors in my hours of recreation.</p>
@@ -4386,7 +4388,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">We all <hi rend="italic">kiss</hi> you very tenderly, and we love you, Cruchard or not.</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0301" type="letter" corresp="#letter-0301">
+<div xml:id="div-letter-0300" type="letter" corresp="#letter-0300">
 <head rend="center">CCXCIX. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Paris, 11 December, 1875</dateline></opener>
 <p rend="indented">Things are going a little better, and I am profiting by the occasion to write to you, dear, good, adorable master.</p>
@@ -4397,7 +4399,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">The senatorial elections are a subject of diversion to the public of which I am a part. There must have occurred, in the corridors of the Assembly, dialogues incredibly grotesque and base. The XIXth century is destined to see all religions perish. Amen! I do not mourn any of them.</p>
 <p rend="indented">At the Odéon, a live bear is going to appear on the boards. That is all that I know about literature.</p>
 </div>
-<div xml:id="div-letter-0302" type="letter" corresp="#letter-0302">
+<div xml:id="div-letter-0301" type="letter" corresp="#letter-0301">
 <head rend="center">CCC. <hi rend="smallcaps">To Gustave Flaubert, in Paris</hi></head>
 <opener><dateline rend="right">Nohant, 18th and 19th December, 1875</dateline></opener>
 <p rend="indented">At last I discover my old troubadour who was a subject of chagrin and serious worry to me. Here you are yourself again, trusting in the very natural luck of external events, and discovering in yourself the strength to control them, whatever they may be, by effort. What is it that you call some one in <hi rend="italic">high finance?</hi> For my part, I don’t know; I am in relations with Victor Borie. He will do me a favor if he sees it to his interest. Must I write him?</p>
@@ -4414,7 +4416,7 @@ du Temple, 42, Paris</hi></head>
 <pb xml:id="page-392" n="348"/><p rend="indented">Embrace your charming niece for me. What a good and lovely letter she wrote me! Tell her that I beg her to take care of herself and to please get well quickly.</p>
 <p rend="indented">What do you mean! Littré a senator? It is impossible to believe it when one knows what the Chamber is. All the same it must be congratulated for this attempt at self-respect.</p>
 </div>
-<div xml:id="div-letter-0303" type="letter" corresp="#letter-0303">
+<div xml:id="div-letter-0302" type="letter" corresp="#letter-0302">
 <head rend="center">CCCI. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">December, 1875</dateline></opener>
 <p rend="indented">Your good letter of the 18th, so maternally tender, has made me reflect a great deal. I have reread it ten times, and I shall confess to you that I am not sure that I understand it. Briefly, what do you want me to do? Make your instructions exact.</p>
@@ -4430,7 +4432,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Nothing sustains me better than the hope of leaving it soon, and of not going to another which might be worse. “I would rather not die,” as Marat said. Ah! no! enough, enough weariness!</p>
 <p rend="indented">I am writing now a little silly story, which a mother can permit her child to read. The whole will be about thirty pages, I shall have two months more at it. Such is my energy, I shall send it to you as soon as it appears (not my energy, but the little story).</p>
 </div>
-<div xml:id="div-letter-0304" type="letter" corresp="#letter-0304">
+<div xml:id="div-letter-0303" type="letter" corresp="#letter-0303">
 <head rend="center"><hi rend="smallcaps">CCCII. To Gustave Flaubert, in Paris</hi></head>
 <opener><dateline rend="right">Nohant, 12th January, 1876</dateline><salute>My cherished Cruchard,</salute></opener>
 <p rend="indented">I want to write to you every day; time is lacking absolutely. At last here is a free moment; we are buried under the snow; it is the sort of weather that I adore: this whiteness is like general purification, and the amusements of the house seem more intimate and sweeter. Can anyone hate the winter in the country? The snow is one of the most beautiful sights of the year!</p>
@@ -4451,7 +4453,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">You must have success after that bad luck which has troubled you deeply. I tell you wherein lie the certain conditions for your success. Keep your cult for form; but pay more attention to the substance. Do not take true virtue for a commonplace in literature. Give it its representative, make honest and strong men pass among the fools and the imbeciles that you love to ridicule. Show what is solid at the bottom of these intellectual abortions; in short, abandon the convention of the realist and return to the true reality, which is a mingling of the beautiful and the ugly, the dull and the brilliant, but in which the desire of good finds its place and its occupation all the same.</p>
 <closer><salute rend="indented">I embrace you for all of us.</salute><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0305" type="letter" corresp="#letter-0305">
+<div xml:id="div-letter-0304" type="letter" corresp="#letter-0304">
 <pb xml:id="page-401" n="357"/><head rend="center">CCCIII. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Nohant, 6th March, 1876</dateline></opener>
 <p rend="indented">I am writing to you in a hurry this morning because I have just received news from M. Perrin of the first performance of the revival of the <hi rend="italic">Mariage de Victorine</hi>, a play of mine, at the Théâtre Français.</p>
@@ -4460,16 +4462,16 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Give me news of your niece and embrace her for me.</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0306" type="letter" corresp="#letter-0306">
+<div xml:id="div-letter-0305" type="letter" corresp="#letter-0305">
 <head rend="center">CCCIV. <hi rend="smallcaps">To Gustave Flaubert, at Paris</hi></head>
 <opener><dateline rend="right">Nohant, 8th March, 1876</dateline></opener>
 <p rend="indented">You scorn Sedaine, you great profane soul! That is where the doctrine of form destroys your eye! Sedaine is not a writer, that is true, although he falls but little short of it, but he is a man, with a heart and soul, with the sense of moral truth, the direct insight into human feelings. I don’t mind his out-of-date reasonings and dry phraseology! The right thought is always there, and it penetrates you deeply!</p>
 <p rend="indented">My dear old Sedaine! He is one of my well-beloved papas, and I consider <hi rend="italic">le Philosophe sans le savior</hi> far superior to <pb xml:id="page-402" n="358"/> <hi rend="italic">Victorine</hi>; it is such a distressing drama and so well carried out! But you only look for the well-turned phrase, that is one thing—only one thing, it is not all of art, it is not even half of it, it is a quarter at most, and if three-quarters are beautiful, one overlooks the part that is not.</p>
-<p rend="indented">I hope that you will not go to seek for your countryside before the good weather; here, we have been pretty well spared; but for the past three days there has been a deluge, and it makes me ill. I should not have been able to go to Paris. Your niece is better, God be praised! I love you and I embrace you with all my soul.</p>
+<p rend="indented">I hope that you will not go to seek for your country-side before the good weather; here, we have been pretty well spared; but for the past three days there has been a deluge, and it makes me ill. I should not have been able to go to Paris. Your niece is better, God be praised! I love you and I embrace you with all my soul.</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 <postscript><p rend="postscript">Do tell M. Zola to send me his book. I shall certainly read it with great interest.</p></postscript>
 </div>
-<div xml:id="div-letter-0307" type="letter" corresp="#letter-0307">
+<div xml:id="div-letter-0306" type="letter" corresp="#letter-0306">
 <head rend="center"><hi rend="smallcaps">CCCV. To George Sand</hi></head>
 <opener><dateline rend="right">Wednesday, 9th March, 1876</dateline></opener>
 <p rend="indented"><hi rend="italic">Complete success</hi>, dear master. The actors were recalled after each act, and warmly applauded. The public was pleased and from time to time cries of approval were heard. All your friends who had come at your summons were sorry that you were not there.</p>
@@ -4488,7 +4490,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I have written to Zola to send you his book. I shall tell Daudet also to send you his <hi rend="italic">Jack</hi>, as I am very curious to have your opinion on these two books, which are very different in composition and temperament, but quite remarkable, both of them.</p>
 <p rend="indented">The fright which the elections caused to the bourgeois has been diverting.</p>
 </div>
-<div xml:id="div-letter-0308" type="letter" corresp="#letter-0308">
+<div xml:id="div-letter-0307" type="letter" corresp="#letter-0307">
 <head rend="center">CCCVI. <hi rend="smallcaps">To Gustave Flaubert, at Croisset</hi></head>
 <opener><dateline rend="right">Nohant, 15th March, 1876</dateline></opener>
 <p rend="indented">I should have a good deal to say about the novels of M. Zola, and it would be better to say it in an article than in a letter, because there is a general question there which must be formulated with a refreshed brain. I should like to read <pb xml:id="page-405" n="361"/> M. Daudet’s book first, the book you spoke of to me, the title of which I cannot recall. Have the publisher send it to me collect, if he does not want to give it to me; that is very simple. On the whole, the thing that I shall not gainsay, meanwhile making a <hi rend="italic">philosophical</hi> criticism of the method, is that <hi rend="italic">Rougon</hi> is a strong book, as you say, and worthy of being placed in the first rank.</p>
@@ -4501,14 +4503,14 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I embrace you and I love you. Do have your legend published quickly, so that we may read it.</p>
 <closer><salute rend="right">Your old troubadour,</salute><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0309" type="letter" corresp="#letter-0309">
+<div xml:id="div-letter-0308" type="letter" corresp="#letter-0308">
 <head rend="center">CCCVII. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">30th March, 1876</dateline><salute>Dear Cruchard,</salute></opener>
 <p rend="indented">I am enthusiastic about <hi rend="italic">Jack</hi>, and I beg you to send my thanks to M. Daudet. Ah, yes! He has talent and heart! and how well all that is done and <hi rend="italic">seen!</hi></p>
 <p rend="indented">I am sending you a volume of old things that have just been collected. I embrace you, and I love you.</p>
 <closer><salute rend="right">Your old troubadour,</salute><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0310" type="letter" corresp="#letter-0310">
+<div xml:id="div-letter-0309" type="letter" corresp="#letter-0309">
 <head rend="center">CCCVIII. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Monday evening, 3rd April, 1876</dateline></opener>
 <p rend="indented">I have received your volume this morning, dear master. I have two or three others that have been loaned to me for a <pb xml:id="page-407" n="363"/> long time; I shall send them off, and I shall read yours at the end of the week, during a little two-days’ trip that I am forced to take to Pont-l’Evêque and to Honfleur for my <hi rend="italic">Histoire d’un cœur simple</hi>, a trifle now “on the stocks,” as M. Prudhomme would say.</p>
@@ -4516,7 +4518,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I do not share in Tourgueneff’s severity as regards <hi rend="italic">Jack</hi>, nor in the immensity of his admiration for <hi rend="italic">Rougon</hi>. The one has charm, the other force. But neither one is concerned <hi rend="italic">above all</hi> else with what is for me the end of art, namely, beauty. I remember having felt my heart beat violently, having felt a fierce pleasure in contemplating a wall of the Acropolis, a perfectly bare wall (the one on the left as you go up to the Propylæa). Well! I wonder if a book independently of what it says, cannot produce the same effect! In the exactness of its assembling, the rarity of its elements, the polish of its surface, the harmony of its ensemble, is there not an intrinsic virtue, a sort of divine force, something eternal as a principle? (I speak as a Platonist.) Thus, why is a relation necessary between the exact word and the musical word? Why does it happen that one always makes a verse when one restrains his thought too much? Does the law of numbers govern then the feelings and the images, and is what seems to be the exterior quite simply inside it? If I should continue a long time in this vein, I should blind myself entirely, for on the other side art has to be a good fellow; or rather art is what one can make it, we are not free. Each one follows his path, in spite of his own desire. In short, your Cruchard no longer knows where he stands.</p>
 <p rend="indented">But how difficult it is to understand one another! There <pb xml:id="page-408" n="364"/> are two men whom I admire a great deal and whom I consider real artists, Tourgueneff and Zola. Yet they do not admire the prose of Chateaubriand at all, and even less that of Gautier. Phrases which ravish me seem hollow to them. Who is wrong? And how please the public when one’s nearest friends are so remote? All that saddens me very much. Do not laugh.</p>
 </div>
-<div xml:id="div-letter-0311" type="letter" corresp="#letter-0311">
+<div xml:id="div-letter-0310" type="letter" corresp="#letter-0310">
 <head rend="center">CCCIX. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Sunday evening . . . 1876</dateline></opener>
 <p rend="indented">You <hi rend="italic">ought</hi> to call me inwardly, dear master, “a confounded pig,”—for I have not answered your last letter, and I have said nothing to you about your two volumes, not to mention a third that I received this morning from you. But I have been, for the last two weeks, entirely taken up by my little tale which will be finished soon. I have had several errands to do, various readings to finish up with, and a thing more serious than all that, the health of my poor niece worries me extremely and, at times, disturbs my brain, so that I do not know at all what I am doing! You see that my cup is bitter! That young woman is anemic to the last degree. She is wasting away. She has been obliged to leave off painting, which is her sole distraction. All the usual tonics do no good. Three days ago, by the orders of another physician, who seems to me more learned than the others, she began hydrotherapy. Will he succeed in making her digest and sleep? in building up her strength? Your poor Cruchard takes less and less pleasure in life, and he even has too much of it, infinitely too much. Let us speak of your books, that will be better.</p>
@@ -4528,13 +4530,13 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">As for the public, its taste disgusts me more and more. Yesterday, for instance, I was present at the first night of the <hi rend="italic">Prix Martin</hi>, a piece of buffoonery that, for my part, I think full of wit. Not one of the witty things in the play produced a laugh, and the dénouement, which seems out of the ordinary, passed unperceived. Then to look for what can please seems to me the most chimerical of undertakings. For I defy anyone to tell me by what means one pleases. Success is a consequence and must not be an end. I have never sought it (although I desire it) and I seek it less and less.</p>
 <p rend="indented">After my little story, I shall do another,—for I am too deeply shaken to start on a great work. I had thought first of publishing <hi rend="italic">Saint-Julien</hi> in a periodical, but I have given the plan up.</p>
 </div>
-<div xml:id="div-letter-0312" type="letter" corresp="#letter-0312">
+<div xml:id="div-letter-0311" type="letter" corresp="#letter-0311">
 <head rend="center">CCCX. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Friday evening . . . 1876</dateline></opener>
 <p rend="indented">Ah! thank you from the bottom of my heart, dear master! You have made me pass an exquisite day, for I have read your last volume, <hi rend="italic">la Tour de Percemont.—Marianne</hi> only today; as I had many things to finish, among others my tale of <hi rend="italic">Saint-Julien</hi>, I had shut up the aforesaid volume in a drawer <pb xml:id="page-411" n="367"/> so as not to succumb to the temptation. As my little story was finished last night, I rushed upon your book when morning came and devoured it.</p>
 <p rend="indented">I find it perfect, two jewels! <hi rend="italic">Marianne</hi> moved me deeply and two or three times I wept. I recognized myself in the character of Pierre. Certain pages seemed to me fragments of my own memoirs, supposing I had the talent to write them in such a way! How charming, poetic and true to life all that is! <hi rend="italic">La Tour de Percemont</hi> pleased me extremely. But <hi rend="italic">Marianne</hi> literally enchanted me. The English think as I do, for in the last number of the <hi rend="italic">Athenæum</hi> there is a very fine article about you. Did you know that? So then, for this time, I admire you completely and without the least reserve. There you are, and I am very glad of it. You have never done anything to me that was not good; I love you tenderly!</p>
 </div>
-<div xml:id="div-letter-0313" type="letter" corresp="#letter-0313">
+<div xml:id="div-letter-0312" type="letter" corresp="#letter-0312">
 <head rend="center">CCCXI. <hi rend="smallcaps">To Gustave Flaubert</hi></head>
 <opener><dateline rend="right">Sunday, Nohant, 5th April, 1876.</dateline></opener>
 <p rend="indented">Victor Borie is in Italy, what must I write him? Are you the man to go to find him and explain the affair to him? He is somewhere near Civita-Vecchia, very much on the go and perhaps not easy to catch up with.</p>
@@ -4543,7 +4545,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">I embrace you and I love you, when will you give me some Flaubert to read?</p>
 <closer><signed rend="right">G. Sand</signed></closer>
 </div>
-<div xml:id="div-letter-0314" type="letter" corresp="#letter-0314">
+<div xml:id="div-letter-0313" type="letter" corresp="#letter-0313">
 <head rend="center">CCCXII. <hi rend="smallcaps">To George Sand</hi></head>
 <opener><dateline rend="right">Monday evening</dateline><salute>Dear master,</salute></opener>
 <p rend="indented">Thanks to Madame Lina’s kind note, I betook myself to V. Borie’s yesterday and was most pleasantly received. My nephew went to carry him the documents today. Borie has promised to look after the affair; will he do it?</p>
@@ -4555,7 +4557,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">You will see by my <hi rend="italic">Histoire d’un cœur simple</hi> where you will recognize your immediate influence, that I am not so obstinate as you think. I believe that the moral tendency, or rather the human basis of this little work will please you!</p>
 <closer><salute rend="indented">Adieu, dear good master. Remembrances to all yours.<lb/>I embrace you very tenderly.</salute><signed rend="right">Your old Gustave Flaubert</signed></closer>
 </div>
-<div xml:id="div-letter-0315" type="letter" corresp="#letter-0315">
+<div xml:id="div-letter-0314" type="letter" corresp="#letter-0314">
 <head rend="center">CCCXIII. <hi rend="smallcaps">To Maurice Sand</hi></head>
 <opener><dateline rend="right">Tuesday evening, 27th</dateline></opener>
 <p rend="indented">All I can say to you, in the first place, my dear friend, is, that your book has made me pass a sleepless night. I read it instantly, at one fell swoop, only stopping to fill my good pipe from time to time and then to resume my reading.</p>
@@ -4574,7 +4576,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">And I grasp your two hands heartily and say “bravo” to you again, and faithfully yours.</p>
 <closer><signed rend="right">Gustave Flaubert</signed></closer>
 </div>
-<div xml:id="div-letter-0316" type="letter" corresp="#letter-0316">
+<div xml:id="div-letter-0315" type="letter" corresp="#letter-0315">
 <head rend="center">CCCXIV. <hi rend="smallcaps">To Madam Maurice Sand</hi></head>
 <opener><dateline rend="right">Thursday evening, 25th May, 1876</dateline><salute>Dear Madam,</salute></opener>
 <p rend="indented">I sent a telegram to Maurice this morning, asking for news of Madam Sand.</p>
@@ -4583,7 +4585,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Be good enough to answer me immediately and believe me, dear madam,</p>
 <closer><salute rend="center">Your very affectionate,</salute><signed rend="right">Gustave Flaubert</signed><address><addrLine>4 rue Murillo, Parc Monceau</addrLine></address></closer>
 </div>
-<div xml:id="div-letter-0317" type="letter" corresp="#letter-0317">
+<div xml:id="div-letter-0316" type="letter" corresp="#letter-0316">
 <head rend="center">CCCXV. <hi rend="smallcaps">To Madam Lina Sand</hi></head>
 <opener><salute>Dear Madam,</salute></opener>
 <p rend="indented">Your note of this morning reassures me a little. But that of last night had absolutely upset me.</p>
@@ -4592,7 +4594,7 @@ du Temple, 42, Paris</hi></head>
 <closer><salute rend="center">Your very devoted</salute><signed rend="right">Gustave Flaubert</signed></closer>
 <postscript><p rend="postscript">Beginning with the middle of next week, about Wednesday or Thursday, I shall be at Croisset.</p><closer><dateline rend="indented">Saturday morning, 3d June, 1876.</dateline></closer></postscript>
 </div>
-<div xml:id="div-letter-0318" type="letter" corresp="#letter-0318">
+<div xml:id="div-letter-0317" type="letter" corresp="#letter-0317">
 <head rend="center">CCCXVI. <hi rend="smallcaps">To Maurice Sand</hi></head>
 <opener><dateline rend="right">Croisset, Sunday, 24 June, 1876</dateline></opener>
 <p rend="indented">You had prepared me, my dear Maurice, I wanted to write to you, but I was waiting till you were a little freer, more alone. Thank you for your kind thought.</p>
@@ -4607,7 +4609,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Embrace Madam Maurice for me, as I did on the stairway at Nohant, and your little girls.</p>
 <closer><salute rend="indented">Yours, from the depths of my heart,</salute><signed rend="right">Your Gustave Flaubert</signed></closer>
 </div>
-<div xml:id="div-letter-0319" type="letter" corresp="#letter-0319">
+<div xml:id="div-letter-0318" type="letter" corresp="#letter-0318">
 <head rend="center">CCCXVII. <hi rend="smallcaps">To Maurice Sand</hi></head>
 <opener><dateline rend="right">Croisset, Tuesday, 3rd October, 1876</dateline></opener>
 <p rend="indented">Thank you for your kind remembrance, my dear friend. Neither do I forget, and I dream of your poor, dear mamma in a sadness that does not disappear. Her death has left a great emptiness for me. After you, your wife and the good Plauchut, I am perhaps the one who misses her most! I need her.</p>
@@ -4618,7 +4620,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Embrace your dear little girls warmly for me, my respects to Madam Maurice, and—sincerely yours, <hi rend="italic">ex imo.</hi></p>
 <closer><signed rend="right">Gustave Flaubert</signed></closer>
 </div>
-<div xml:id="div-letter-0320" type="letter" corresp="#letter-0320">
+<div xml:id="div-letter-0319" type="letter" corresp="#letter-0319">
 <head rend="center">CCCXVIII. <hi rend="smallcaps">To Maurice Sand</hi></head>
 <opener><dateline rend="right">Saint-Gratien par Sannois, 20th August, 1877</dateline></opener>
 <p rend="indented">Thank you for your kind remembrance, my dear Maurice. Next winter you will be in Passy, I hope,—and from time to time we can have a good chat. I even count on seeing myself at your table by the side of your friends whose “idol” I am.</p>
@@ -4631,7 +4633,7 @@ du Temple, 42, Paris</hi></head>
 <p rend="indented">Don’t leave me so long without news. Give a long look for me at the little corner of the holy ground! . . . My regards to your dear wife, embrace the dear little girls and sincerely yours, my good Maurice,</p>
 <closer><salute rend="center">Your old friend</salute><signed rend="right">Gustave Flaubert</signed></closer>
 </div>
-<div xml:id="div-letter-0321" type="letter" corresp="#letter-0321">
+<div xml:id="div-letter-0320" type="letter" corresp="#letter-0320">
 <head rend="center">CCCXIX. <hi rend="smallcaps">To Maurice Sand</hi></head>
 <opener><dateline rend="right">Tuesday morning, April, 1880</dateline><salute>My dear Maurice,</salute></opener>
 <p rend="indented">No! Erase Cruchard and Polycarp and replace those words by what you like.</p>
@@ -4684,10 +4686,12 @@ du Temple, 42, Paris</hi></head>
 <note place="foot" xml:id="fn-p0416-2" n="2"><p>George Sand’s maid.</p></note>
 </div>
 </div>
+    </body>
+    <back>
       <div xml:id="sec-sec-03" type="index">
 <head>INDEX</head>
 <pb xml:id="page-421" n="377"/>
-<div xml:id="div-unit-0327" type="apparatus">
+<div xml:id="div-unit-0326" type="apparatus">
 <p rend="center">(Titles of books are in italics.)</p>
 <p rend="index_entry">About, E., 87.</p>
 <p rend="index_entry">Academy, the French, 96, 160, 267.</p>
@@ -5095,6 +5099,6 @@ du Temple, 42, Paris</hi></head>
 <p rend="index_entry">Zola, Emile, 326, 344, 358, 359, 360, 364.</p>
 </div>
 </div>
-    </body>
+    </back>
   </text>
 </TEI>

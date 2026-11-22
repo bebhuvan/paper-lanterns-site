@@ -102,34 +102,34 @@
  "unperiodised_count": 13,
  "frontispiece": {},
  "title_page": {
-  "page": 2,
-  "leaf": 1
+  "page": 3,
+  "leaf": 2
  },
  "downloads": [
   {
    "format": "epub",
    "file": "tagore-letters-1917.epub",
-   "bytes": 15308,
-   "sha256": "2e39283cf822874c9471c26af7fa15c26737d1655d841eff0a31593608a7bc59"
+   "bytes": 43673,
+   "sha256": "7630a2379eb9da166137034cdd9f9bced3746b97f66edc1549419b9228c10755"
   },
   {
    "format": "markdown",
    "file": "tagore-letters-1917.md",
-   "bytes": 22574,
-   "sha256": "2170f0105c2dcffd134d6431bad7ae0a0d812ea765e0be322fc3d181d67f07c5"
+   "bytes": 22573,
+   "sha256": "f239f3ef47e9ce67a3178223ccf89feeef2b45f53e98ed04989b36bc0b436f04"
   },
   {
    "format": "tei",
    "file": "tagore-letters-1917.tei.xml",
-   "bytes": 31029,
-   "sha256": "0551b4579b6d7bf4a23c8673074a402a7cc27bfab313a17f129d1926136febb7"
+   "bytes": 31379,
+   "sha256": "012a658695a3c86a70193eadc50df4a8bfe53f5e56919986d8a28f080dbc5942"
   }
  ],
  "scan_base": "https://archive.org/download/letters00tago/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T16:24:21Z",
-  "source_ast_sha256": "2ae890892ea2757144480f5c94b244556e54f3146c601b34eb0780b9d139717f",
+  "compiled_at": "2026-11-22T08:49:38Z",
+  "source_ast_sha256": "ba4c91e9abd7ecd043dd92294edc34197ed8fca1329696fe8aa40b078307240f",
   "hugo_renderer_version": "1.0.0"
  }
 }

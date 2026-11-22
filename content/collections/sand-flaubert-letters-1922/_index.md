@@ -20,19 +20,19 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 321,
+  "letters": 320,
   "notes": 42,
   "pages": 432,
   "dated_letters": 250
  },
- "provenance_tier": "machine_checked",
+ "provenance_tier": "community",
  "quality": {
-  "score": 100.0,
+  "score": 94.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 30.0,
+    "score": 24.0,
     "out_of": 30.0
    },
    {
@@ -56,7 +56,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 0,
+  "flagged": 3,
   "blockers": 0
  },
  "proof": {
@@ -171,7 +171,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 321,
+ "unperiodised_count": 320,
  "frontispiece": {},
  "title_page": {
   "page": 9,
@@ -181,27 +181,27 @@
   {
    "format": "epub",
    "file": "sand-flaubert-letters-1922.epub",
-   "bytes": 318178,
-   "sha256": "6e7eb76442c0ca3472e8f3b4591e0f1ce68b2f855b8719772b2aeeac193f6076"
+   "bytes": 381417,
+   "sha256": "8c52f0b121c67b9ca310271c0a9a920ffd2b7a9896141311f15ab156ad981c09"
   },
   {
    "format": "markdown",
    "file": "sand-flaubert-letters-1922.md",
-   "bytes": 728315,
-   "sha256": "b2941a6ef98ba69af8149042584672754d4ecf91215e64109389e9e13d3f6676"
+   "bytes": 728283,
+   "sha256": "dff10aab19132a87c51748b7935ce3dcd37b73886154eb778134ba66c3eec34d"
   },
   {
    "format": "tei",
    "file": "sand-flaubert-letters-1922.tei.xml",
-   "bytes": 956594,
-   "sha256": "2f1a9b49bab20bc2516c3d49af132cdf0643c089d0bc572f1ea0f676cc4522a9"
+   "bytes": 957167,
+   "sha256": "90280da0219a26a206b293b47d3a9feda96f3e029cf608584d31556c31a70581"
   }
  ],
  "scan_base": "https://archive.org/download/georgesandgustav00sand/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-20T16:24:33Z",
-  "source_ast_sha256": "ddc66b7e7d4a81c319206b6d72a2268c33d975121c627dab69233a6140aef703",
+  "compiled_at": "2026-11-22T08:57:30Z",
+  "source_ast_sha256": "9c708849e22cabbe4264f87b84d548dfb09bf0125b36297f91cc7dbfcbf78459",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -7,8 +7,7 @@
 
 ## Frontmatter
 
-### THE LETTERS OF
-VICTOR HUGO
+### THE LETTERS OF VICTOR HUGO
 
 * * *
 
@@ -16,11 +15,9 @@ Portrait engraving of Victor Hugo signed 'Devéria 1826', with facsimile signatu
 
 Victor Hugo
 
-### THE LETTERS OF
-VICTOR HUGO
+### THE LETTERS OF VICTOR HUGO
 
-### TO HIS FAMILY, TO SAINTE-BEUVE
-AND OTHERS
+### TO HIS FAMILY, TO SAINTE-BEUVE AND OTHERS
 
 EDITED BY  
 PAUL MEURICE
@@ -67,8 +64,7 @@ II. Additional Letters to Various Persons . . . . 269
 
 ### THE LETTERS OF VICTOR HUGO.
 
-### I. LETTERS TO HIS FATHER AND MOTHER.
-1815–1826.
+### I. LETTERS TO HIS FATHER AND MOTHER. 1815–1826.
 
 ### Letter 1: Victor Hugo → Madame la Comtesse Hugo
 
@@ -90,8 +86,7 @@ Your dutiful son,
 
 ### II.
 
-### *To* <span class="small-caps">Monsieur le General Hugo</span>, *at his country-place of Saint
-Lazare, near Blois.*
+### *To* <span class="small-caps">Monsieur le General Hugo</span>, *at his country-place of Saint Lazare, near Blois.*
 
 <span class="small-caps">Paris</span>, *4th July,* 1822.
 
@@ -117,9 +112,7 @@ With love, your dutiful son,
 
 <span class="small-caps">Paris</span>, 26*th July*, 1822.
 
-<span class="small-caps">My dear Papa</span>, — Your letter has made my joy and gratitude complete, but I did not expect anything less from my good and loving father. I have just come
-
-back from seeing M. Lourdoneix; in a few days he is to give me an exact date, and then I will show your letter to M. and Mme. Foucher. So I shall owe all to you, — my life, my happiness, everything! You have the right to expect the deepest gratitude from me, you who have filled the great blank left in my heart by the death of my beloved mother!
+<span class="small-caps">My dear Papa</span>, — Your letter has made my joy and gratitude complete, but I did not expect anything less from my good and loving father. I have just come back from seeing M. Lourdoneix; in a few days he is to give me an exact date, and then I will show your letter to M. and Mme. Foucher. So I shall owe all to you, — my life, my happiness, everything! You have the right to expect the deepest gratitude from me, you who have filled the great blank left in my heart by the death of my beloved mother!
 
 As regards the pension I have just got from the King's Privy Purse, I must tell you that I do not receive the July quarterly installment, so that it will not begin till the 1st of October, which puts off the happy day to the end of September; it is a long time to wait, but I console myself by thinking that my happiness is settled. When hope has been changed into certainty, patience is an easier matter. Dear papa, if you only knew what an angel you will have for a daughter! I am still anxiously awaiting your poem, and I shall use the numbers of the Thionville paper in the way you suggest. A Spaniard named d'Abayma, who came to see me yesterday, spoke to me of my father in a way which would have made me feel proud of him, if I had not been so already.
 
@@ -193,9 +186,7 @@ Your loving and dutiful son,
 
 <span class="small-caps">Paris</span>, 18*th September*, 1822.
 
-<span class="small-caps">My dear Papa</span>,—I am answering your letter by
-
-return of post to thank you for the declaration you have sent me, and I beg you will be as prompt in letting me have your duly authenticated consent. I am most anxious that my marriage should take place on the 7th or 8th of October, for a very important reason (in addition to the sentimental ones, which, you know, are not less so), viz. that I am obliged to give up the rooms I am now occupying on the 7th of October. I have therefore begged M. and Mme. Foucher to have the banns published for the first time on Sunday next, the 22d; they will be over by Sunday the 6th of October; but these banns must also be published where you reside, and by the 6th of October notice must be received at our parish of Saint Sulpice of the complete publication of the banns at Blois, which cannot be done unless you will kindly buy off one of them from your parish. You understand, my dear papa, how pressing is the necessity which makes me prefer this urgent request. It is a question of sparing me the trouble and expense of two moves, one after the other, at a time which is naturally attended with so much trouble and expense; it is also a question of hastening on my happiness by a few days, and I know your kind heart too well to say more.
+<span class="small-caps">My dear Papa</span>,—I am answering your letter by return of post to thank you for the declaration you have sent me, and I beg you will be as prompt in letting me have your duly authenticated consent. I am most anxious that my marriage should take place on the 7th or 8th of October, for a very important reason (in addition to the sentimental ones, which, you know, are not less so), viz. that I am obliged to give up the rooms I am now occupying on the 7th of October. I have therefore begged M. and Mme. Foucher to have the banns published for the first time on Sunday next, the 22d; they will be over by Sunday the 6th of October; but these banns must also be published where you reside, and by the 6th of October notice must be received at our parish of Saint Sulpice of the complete publication of the banns at Blois, which cannot be done unless you will kindly buy off one of them from your parish. You understand, my dear papa, how pressing is the necessity which makes me prefer this urgent request. It is a question of sparing me the trouble and expense of two moves, one after the other, at a time which is naturally attended with so much trouble and expense; it is also a question of hastening on my happiness by a few days, and I know your kind heart too well to say more.
 
 I have everything in order; I have had a notarial copy made of the certificate of birth left at the Law School, which is as good as the original. When I have received your consent, I shall be able to comply with all the civil formalities; the document you have sent me to-day will do also for the religious formalities.
 
@@ -255,9 +246,7 @@ Your dutiful and respectful son,
 
 20*th December*, 1822.
 
-<span class="small-caps">My dear Papa</span>, — I am writing to you from the bedside of Eugène, who is ill, and dangerously ill. His deplorable state of mind, about which I had so often told you, grew so much worse during the last few months as to profoundly alarm us all, although we
-
-could not seriously remedy it, for, as he retained the free use of his will, he obstinately declined all help and attention. His love of solitude, indulged in to a frightful extent, has accelerated a crisis, which may perhaps be salutary, at least, one must hope so, but which is none the less extremely serious, and will leave him in a critical condition for a long time to come. Abel and M. Foucher will give you more details on this melancholy subject. For the present I hasten to beg you to be good enough to send us some money; you will easily understand what difficulties I was in when this sad event overtook me. Abel is also taken by surprise, and we apply to you, as to a father whom your sons have ever found ready to help them in their troubles, and to whom the misfortunes of his children come before all others.
+<span class="small-caps">My dear Papa</span>, — I am writing to you from the bedside of Eugène, who is ill, and dangerously ill. His deplorable state of mind, about which I had so often told you, grew so much worse during the last few months as to profoundly alarm us all, although we could not seriously remedy it, for, as he retained the free use of his will, he obstinately declined all help and attention. His love of solitude, indulged in to a frightful extent, has accelerated a crisis, which may perhaps be salutary, at least, one must hope so, but which is none the less extremely serious, and will leave him in a critical condition for a long time to come. Abel and M. Foucher will give you more details on this melancholy subject. For the present I hasten to beg you to be good enough to send us some money; you will easily understand what difficulties I was in when this sad event overtook me. Abel is also taken by surprise, and we apply to you, as to a father whom your sons have ever found ready to help them in their troubles, and to whom the misfortunes of his children come before all others.
 
 In this sad position we have, at any rate, been fortunate in the chance which made us take one of your old acquaintances, Dr. Fleury, as our doctor.
 
@@ -271,8 +260,7 @@ Your loving and dutiful son,
 
 ### XI.
 
-### *To* M. <span class="small-caps">Eugène Hugo, care of General Hugo,</span> *his father,* 73
-*Grande Rue du Foix, Blois.*
+### *To* M. <span class="small-caps">Eugène Hugo, care of General Hugo,</span> *his father,* 73 *Grande Rue du Foix, Blois.*
 
 *Tuesday, 5th March,* 1823.
 
@@ -308,9 +296,7 @@ Our kind regards to our stepmother.
 
 *24th May,* 1823.
 
-<span class="small-caps">My dear Papa,</span>—I gave your letter to Eugène
-
-yesterday; it both touched him and grieved him; his disappointment at not being able to see you again at Blois has been a little softened by the hope I held out to him of seeing you at Paris two months hence; this seemed a long time to him. I must also tell you, dear papa, that I did not find him so well. The patients in M. Esquirol's establishment have the greatest attention paid them, but what is so fatal to Eugène is the solitude and idleness to which he is condemned there. A few words that dropped from him showed me that in his overheated brain he has conceived a horror of this *prison,* as he calls it; he told me in a low tone that *women were being murdered in the cellars, and that he had heard their shrieks.* You see, dear papa, that his stay there is doing him more harm than good.
+<span class="small-caps">My dear Papa,</span>—I gave your letter to Eugène yesterday; it both touched him and grieved him; his disappointment at not being able to see you again at Blois has been a little softened by the hope I held out to him of seeing you at Paris two months hence; this seemed a long time to him. I must also tell you, dear papa, that I did not find him so well. The patients in M. Esquirol's establishment have the greatest attention paid them, but what is so fatal to Eugène is the solitude and idleness to which he is condemned there. A few words that dropped from him showed me that in his overheated brain he has conceived a horror of this *prison,* as he calls it; he told me in a low tone that *women were being murdered in the cellars, and that he had heard their shrieks.* You see, dear papa, that his stay there is doing him more harm than good.
 
 Again, the terms (which M. Esquirol is to tell you about) are very high, four hundred francs a month. Besides, Dr. Fleury thinks that walking and exercise are absolutely necessary for the patient. I transmit all these details, my dear father, without giving advice. You know better than I what ought to be done, still, I think I may tell you that there are, as I am assured, other establishments of the same kind where patients are just as well treated and do not pay as much.
 
@@ -374,9 +360,7 @@ V. M. H.
 
 24*th July,* 1823.
 
-<span class="small-caps">My dear Papa,</span> —I did not tell you sooner of the
-
-event which gives you one more being in the world to love, because I wished to spare your fatherly heart all the uneasiness, anxiety, and anguish I have been tortured by during the last week. My wife has had a very bad confinement, and has suffered a good deal in consequence ever since; the child was almost dying when it came into the world; its mother's milk, which had become deteriorated by all she had gone through during her pregnancy and at her confinement, did not agree with the feeble little creature. After several trials of it, which nearly endangered your grandson's life, we were obliged to think of having him nursed by a stranger. You can imagine what difficulty I had in persuading Adèle to consent to this, as she was looking forward so much to the fatigues of nursing. It was not the serious risk to her own health, but the danger which threatened that of the child that decided her; so she has bravely sacrificed her mother's right to the interests of her son, and we have put the child out to nurse. In this emergency we have been fortunate enough to find a very good wet-nurse who lives in our part of the town, and, although these women are very expensive in Paris, still the urgency of the case, and the facility of getting news of your grandson, Leopold, at any moment, made me readily incur the expense.
+<span class="small-caps">My dear Papa,</span> —I did not tell you sooner of the event which gives you one more being in the world to love, because I wished to spare your fatherly heart all the uneasiness, anxiety, and anguish I have been tortured by during the last week. My wife has had a very bad confinement, and has suffered a good deal in consequence ever since; the child was almost dying when it came into the world; its mother's milk, which had become deteriorated by all she had gone through during her pregnancy and at her confinement, did not agree with the feeble little creature. After several trials of it, which nearly endangered your grandson's life, we were obliged to think of having him nursed by a stranger. You can imagine what difficulty I had in persuading Adèle to consent to this, as she was looking forward so much to the fatigues of nursing. It was not the serious risk to her own health, but the danger which threatened that of the child that decided her; so she has bravely sacrificed her mother's right to the interests of her son, and we have put the child out to nurse. In this emergency we have been fortunate enough to find a very good wet-nurse who lives in our part of the town, and, although these women are very expensive in Paris, still the urgency of the case, and the facility of getting news of your grandson, Leopold, at any moment, made me readily incur the expense.
 
 Now, at last, after so much anxiety and uncertainty, I can give you some good news. My beloved Adèle is improving visibly; we hope she will soon have got rid of her milk. The child, strengthened by its healthy and abundant supply of food, is going on very well, and bids fair to become a grandfather, some day, like you.
 
@@ -396,9 +380,7 @@ Give our love to our stepmother, whom we expect to see with you. During the last
 
 29*th July,* 1823.
 
-<span class="small-caps">My dear Papa</span>,—I was congratulating myself on
-
-having only good news to send you, when unforeseen circumstances oblige me to apply to you for advice and assistance: the wet-nurse to whom we were obliged to intrust our child does not suit us at all. She deceives us; she seems to be bad-tempered and insincere; she has taken advantage of our having been compelled to find a nurse for the child. At first we thought she was kind and gentle; now we have but too many reasons for taking our poor little Leopold out of her hands as quickly as possible. So Adèle and I, now that we have settled to take him away from this woman, would be very glad if you would be kind enough to find for us, either at Blois or in the neighborhood, a wet-nurse who has not been nursing more than five months, and whose antecedents and character are satisfactory; anyhow, we should both be quite easy in our mind, knowing that our Leopold would be looked after by you and your wife. This is why we have decided to send him to Blois rather than anywhere else.
+<span class="small-caps">My dear Papa</span>,—I was congratulating myself on having only good news to send you, when unforeseen circumstances oblige me to apply to you for advice and assistance: the wet-nurse to whom we were obliged to intrust our child does not suit us at all. She deceives us; she seems to be bad-tempered and insincere; she has taken advantage of our having been compelled to find a nurse for the child. At first we thought she was kind and gentle; now we have but too many reasons for taking our poor little Leopold out of her hands as quickly as possible. So Adèle and I, now that we have settled to take him away from this woman, would be very glad if you would be kind enough to find for us, either at Blois or in the neighborhood, a wet-nurse who has not been nursing more than five months, and whose antecedents and character are satisfactory; anyhow, we should both be quite easy in our mind, knowing that our Leopold would be looked after by you and your wife. This is why we have decided to send him to Blois rather than anywhere else.
 
 It is needless, my dear, good father, to press you for a speedy reply; the slightest delay might be injurious to your little grandson's health. I do not ask you to forgive us for all the trouble we are causing you; I know that your kind paternal heart takes a pleasure in it.
 
@@ -416,9 +398,7 @@ It is of great importance that the wet-nurse, whom you will be kind enough to fi
 
 *3d August,* [1823].
 
-<span class="small-caps">My dear Papa,</span>— To be able to express the joy
-
-and gratitude with which your letter fills us, one would require the power of describing all the tender affection and touching kindness contained in your fatherly heart. So you wish to perform my paternal duties even better than I do, and indeed, poor little Leopold's first smile and his first look will be for you. I should like to pour out here all the love your daughter and I feel for you, our best of fathers, but I should have to repeat the subject of all our conversation for the last two days, so I confine myself to the limits of this sheet of paper.
+<span class="small-caps">My dear Papa,</span>— To be able to express the joy and gratitude with which your letter fills us, one would require the power of describing all the tender affection and touching kindness contained in your fatherly heart. So you wish to perform my paternal duties even better than I do, and indeed, poor little Leopold's first smile and his first look will be for you. I should like to pour out here all the love your daughter and I feel for you, our best of fathers, but I should have to repeat the subject of all our conversation for the last two days, so I confine myself to the limits of this sheet of paper.
 
 When I received your letter, my heart was so full that I wanted to answer it immediately, but your wise advice got the better of my impatience, and I waited until your excellent arrangements had been carried out, to express our warmest gratitude to you, and at the same time give you news of your Leopold, the wet-nurse, and my Adèle.
 
@@ -438,9 +418,7 @@ Eugène's bodily health continues good, but he is still painfully slovenly. A pa
 
 <span class="small-caps">War Office</span>, 6*th August*, 1823.
 
-<span class="small-caps">My dear Papa</span>,—Your letter has given me real
-
-pain, and I long for you to receive this one, that I may feel somewhat comforted; how could you imagine for one moment that I was not most deeply grateful for all the kindness your wife has lavished on our Eugène and our Leopold? I could not have been a brother or father, and remain insensible to the value of all she has done for them, and, in consequence, for me. If my thanks were addressed principally to you, the reason was, that we look on our father as the source of all love and tenderness, and that I thought it would please you to pass on to your wife the expression of my deep and tender filial gratitude, and that, coming from you, this tribute would be far more highly appreciated than if it came from me.
+<span class="small-caps">My dear Papa</span>,—Your letter has given me real pain, and I long for you to receive this one, that I may feel somewhat comforted; how could you imagine for one moment that I was not most deeply grateful for all the kindness your wife has lavished on our Eugène and our Leopold? I could not have been a brother or father, and remain insensible to the value of all she has done for them, and, in consequence, for me. If my thanks were addressed principally to you, the reason was, that we look on our father as the source of all love and tenderness, and that I thought it would please you to pass on to your wife the expression of my deep and tender filial gratitude, and that, coming from you, this tribute would be far more highly appreciated than if it came from me.
 
 I implore you, my dear, kind father, do not pain me so again; I am quite sure your wife could not have thought me ungrateful, or have believed that I was not sincerely touched by all her care of poor Leopold; and how, indeed, would it be possible for me not to feel deeply moved by her kindly solicitude, which has probably saved my child's life? Dear papa, I repeat, hasten to make up to me for the pain which you have so unjustly caused me amid so much joy, and which seemed to me still more hard at a time when my heart was so freely opening to every tender and happy feeling.
 
@@ -478,9 +456,7 @@ I will try to give you news of Eugène in my next letter.
 
 *4th October*, 1823.
 
-<span class="small-caps">My dear, kind Papa</span>, —Too long a time has elapsed
-
-since I wrote you a good long letter, not to feel the necessity of telling you how deeply moved I am by all the kindness lavished on our Leopold by you and his excellent grandmamma. The first letter I am able to write with my hand, which is nearly well, must be for you, dear papa. I do not know how I am to express all my feelings of gratitude and affection, but this inability is itself a source of happiness to me. May your grandson one day become worthy of you, and repay you, as well as the second mother he has found in your wife, with the tenderest and most devoted filial affection. It will be easy for me to inspire him with these sentiments. We hope that his new diet continues to agree with the poor little lamb. Paul told us of the way in which he is petted by you, as well as by his grandmother and the whole household; Adèle was moved to tears at hearing this, and it made the same impression on me.
+<span class="small-caps">My dear, kind Papa</span>, —Too long a time has elapsed since I wrote you a good long letter, not to feel the necessity of telling you how deeply moved I am by all the kindness lavished on our Leopold by you and his excellent grandmamma. The first letter I am able to write with my hand, which is nearly well, must be for you, dear papa. I do not know how I am to express all my feelings of gratitude and affection, but this inability is itself a source of happiness to me. May your grandson one day become worthy of you, and repay you, as well as the second mother he has found in your wife, with the tenderest and most devoted filial affection. It will be easy for me to inspire him with these sentiments. We hope that his new diet continues to agree with the poor little lamb. Paul told us of the way in which he is petted by you, as well as by his grandmother and the whole household; Adèle was moved to tears at hearing this, and it made the same impression on me.
 
 My wife, who is not very well, and is dosing herself, wishes very much to be the first to read your memoirs.
 
@@ -540,9 +516,7 @@ Your dutiful son,
 
 *Saturday, November,* [1823].
 
-<span class="small-caps">My dear Papa</span>,—I write you a few lines in great
-
-haste; M. de Féraudy is waiting for my letter and the parcel; my wife is hastening to finish the drawing she is sending to her kind parents at Blois; I hope you will be pleased with it; I say no more, for I should be afraid, in praising my Adèle's talent, to seem as if I wished to enhance the value of her present. We should much have liked to send you this one framed; but as M. de Féraudy made some remarks about the difficulty of carrying it, you will understand that imperative reasons of good-breeding prevented us from sending you this fine drawing in all its glory.
+<span class="small-caps">My dear Papa</span>,—I write you a few lines in great haste; M. de Féraudy is waiting for my letter and the parcel; my wife is hastening to finish the drawing she is sending to her kind parents at Blois; I hope you will be pleased with it; I say no more, for I should be afraid, in praising my Adèle's talent, to seem as if I wished to enhance the value of her present. We should much have liked to send you this one framed; but as M. de Féraudy made some remarks about the difficulty of carrying it, you will understand that imperative reasons of good-breeding prevented us from sending you this fine drawing in all its glory.
 
 Good-by till we meet again. M. de Féraudy undertook the commission in the most obliging way, and I beg you to repeat to him at Blois how much indebted we are to him.
 
@@ -628,9 +602,7 @@ V. H.
 
 *27th February,* 1825.
 
-<span class="small-caps">My dear Papa</span>,—You will have seen that our
-
-letters have crossed. I hope that our letter will have given you as much pleasure as yours has us; it could not have brought us pleasanter news than that of your speedy arrival, and in writing this I almost hope it may not find you at Blois.
+<span class="small-caps">My dear Papa</span>,—You will have seen that our letters have crossed. I hope that our letter will have given you as much pleasure as yours has us; it could not have brought us pleasanter news than that of your speedy arrival, and in writing this I almost hope it may not find you at Blois.
 
 You cannot imagine how much we are looking forward to showing you our Léopoldine, who is still very small, but quite well, and so charming!—she will love you both as we love you; we cannot say more.
 
@@ -650,9 +622,7 @@ Give our love to Léopoldine’s kind godmother.
 
 <span class="small-caps">Gentilly</span>, *19th June,* 1825.
 
-<span class="small-caps">My dear Papa</span>,—I am answering your letter from
-
-the country, where I went to spend a few days with a friend of mine, who lives about six miles from Paris. I am sorry you are in the country too just now; the excessive heat, the loneliness and want of comfort of La Miltière, make me uneasy about your precious health. I think you ought to have put off this journey, however important it might have been, and not have ventured alone into the arid regions of La Sologne at this time of year. You know as well as I do what unhealthy exhalations arise from damp and sandy places in very hot weather, and my Adèle scolds you gently for giving us the anxiety of knowing that you are in those parts.
+<span class="small-caps">My dear Papa</span>,—I am answering your letter from the country, where I went to spend a few days with a friend of mine, who lives about six miles from Paris. I am sorry you are in the country too just now; the excessive heat, the loneliness and want of comfort of La Miltière, make me uneasy about your precious health. I think you ought to have put off this journey, however important it might have been, and not have ventured alone into the arid regions of La Sologne at this time of year. You know as well as I do what unhealthy exhalations arise from damp and sandy places in very hot weather, and my Adèle scolds you gently for giving us the anxiety of knowing that you are in those parts.
 
 The Paris newspapers have announced your promotion in the most flattering terms. Never mind the omission which they so often make. What does jealousy matter to you? Your name and your reputation are enough to excite envy; make up your mind, dear father, to bear this drawback to every high position.
 
@@ -670,9 +640,7 @@ I have this moment received a letter from Emile Deschamps, who says: “General 
 
 <span class="small-caps">Paris</span>, 18*th July*, 1825.
 
-<span class="small-caps">My dear Papa</span>,—I am really very sorry to be
-
-obliged to send you the inclosed letter and memorandum. These two documents need a little explanation, and here it is. A few days ago my old and worthy master, M. de la Rivière, called on me; I was not at home. He left word that he had something of importance to communicate to me; I lost no time in going to see him, as I always do when I think he may want me. The worthy man then explained to me that his position, his age, and that of his wife, made it every day more incumbent on him to remind me of a debt which he had not mentioned before, thinking that neither your means nor ours would allow us to discharge it; but that necessity getting the better of his excessive scrupulousness, he was at last forced to take this step. The debt amounts to 486 francs, 80 centimes, and particulars of it are given in the inclosed memorandum. I remember perfectly well our finding this account at my mother’s death among her papers, but I thought Abel had undertaken to send it to you, and I have since completely forgotten the debt, which I thought had been paid with a few other trifling debts left by my mother, the greater part of which were defrayed at the time by the sale of her plate and dresses; besides, I knew you had satisfied the other creditors, and I thought M. de la Rivière was among their number.
+<span class="small-caps">My dear Papa</span>,—I am really very sorry to be obliged to send you the inclosed letter and memorandum. These two documents need a little explanation, and here it is. A few days ago my old and worthy master, M. de la Rivière, called on me; I was not at home. He left word that he had something of importance to communicate to me; I lost no time in going to see him, as I always do when I think he may want me. The worthy man then explained to me that his position, his age, and that of his wife, made it every day more incumbent on him to remind me of a debt which he had not mentioned before, thinking that neither your means nor ours would allow us to discharge it; but that necessity getting the better of his excessive scrupulousness, he was at last forced to take this step. The debt amounts to 486 francs, 80 centimes, and particulars of it are given in the inclosed memorandum. I remember perfectly well our finding this account at my mother’s death among her papers, but I thought Abel had undertaken to send it to you, and I have since completely forgotten the debt, which I thought had been paid with a few other trifling debts left by my mother, the greater part of which were defrayed at the time by the sale of her plate and dresses; besides, I knew you had satisfied the other creditors, and I thought M. de la Rivière was among their number.
 
 As the matter was pressing, I consulted my wife, and with her consent I hastened to send M. de la Rivière a sum of 200 francs which I had at my disposal, and with which I intended to buy myself a watch; this sum, dear papa, will be so much towards the total of the debt,—giving up this watch is a very small privation to me, and I can do it without inconvenience. Besides, I know, my good father, that you are far from rich, and as some of the expense incurred by M. de la Rivière was on my account, these 200 francs will be my personal contribution; therefore you have to provide only the remaining balance of 286 fr. 80 c. It is quite unnecessary for me to tell you, dear papa, how sacred a debt of this kind is. The little we know, the little we are, we owe in great measure to this venerable man, and I have no doubt you will hasten to pay him, the more so, as he is in need of the money; he has nothing to depend on but the proceeds of a small elementary school, the slender income from which is diminishing daily, his increasing weakness of body and mind causing him to lose all his pupils by degrees. He has waited for ten years, and with admirable delicacy, and that is the only fault we can find with him, for I am sure you would have settled his claim had you known of it sooner. This is what I told him when I begged him to send in his account at once, that I might forward it to you; you will find it inclosed with the letter he wrote to me. I will look for the old detailed memorandum, and if I find it among my mother's few remaining papers, I will send it to you without delay; in the mean while you can consider his account as correct.
 
@@ -712,9 +680,7 @@ Your dutiful and devoted son,
 
 <span class="small-caps">Paris</span>, 10*th October*, 1825.
 
-<span class="small-caps">My Dear Papa</span>, — We have now returned to Paris
-
-for good. We did nothing but run about here and there all the month of September, and a few days ago we brought our outing to a close with an excursion to Montfort-l'Amaury, a charming little place about thirty miles from Paris, with ruins, woods, and a friend of yours and mine, Colonel Derivoire, who has served under you. I talked a great deal about you with the worthy man, who loves and respects you, and is very anxious to see you. He hopes to pay a visit to Paris the first time you are here.
+<span class="small-caps">My Dear Papa</span>, — We have now returned to Paris for good. We did nothing but run about here and there all the month of September, and a few days ago we brought our outing to a close with an excursion to Montfort-l'Amaury, a charming little place about thirty miles from Paris, with ruins, woods, and a friend of yours and mine, Colonel Derivoire, who has served under you. I talked a great deal about you with the worthy man, who loves and respects you, and is very anxious to see you. He hopes to pay a visit to Paris the first time you are here.
 
 As the season advances without bringing you, dear papa, we almost despair of having the pleasure of seeing you here this year. M. Lambert, however, had almost promised all your friends that you would come. It is unfortunately impossible for me to do anything for the professor whose letter you send me. I have much less interest than I am credited with, and I have been obliged lately to use the little I may have with the Bishop of Hermopolis to get a scholarship for one of our Trebuchet cousins. I am not even yet sure of success. You understand that all my efforts must be directed to this object, which is of such great importance to our unfortunate Uncle Trebuchet, and that I could not trouble the Minister about another matter without injuring his prospects. One may fall between two stools.
 
@@ -730,9 +696,7 @@ Your loving and dutiful son,
 
 <span class="small-caps">Paris</span>, 3*d November*, 1826.
 
-<span class="small-caps">My dear Papa</span>,—You see you have not had to
-
-wait long for the news. My Adèle was confined last night at twenty minutes to five <span class="small-caps">a. m.</span> of a healthy boy. My poor darling suffered terribly. I am now writing to you from her bedside; she feels pretty well, but she thinks she is rather feverish, so I beg her not to talk.
+<span class="small-caps">My dear Papa</span>,—You see you have not had to wait long for the news. My Adèle was confined last night at twenty minutes to five <span class="small-caps">a. m.</span> of a healthy boy. My poor darling suffered terribly. I am now writing to you from her bedside; she feels pretty well, but she thinks she is rather feverish, so I beg her not to talk.
 
 Our kind parents will doubtless give a joyful welcome to this new-comer, who will fill the place of the little angel we lost so sadly three years ago. Your happiness adds to ours.
 
@@ -752,8 +716,7 @@ Are you not coming to Paris soon? we shall expect you for the christening; it wo
 
 ## II. To Adèle Hugo, and Others.—Journey to Reims.—Coronation of Charles X.
 
-### II. TO ADÈLE HUGO, AND OTHERS.—JOURNEY TO
-REIMS.—CORONATION OF CHARLES X.
+### II. TO ADÈLE HUGO, AND OTHERS.—JOURNEY TO REIMS.—CORONATION OF CHARLES X.
 
 * * *
 
@@ -761,8 +724,7 @@ REIMS.—CORONATION OF CHARLES X.
 
 ### I.
 
-### *To* J. B. <span class="small-caps">Soulié</span>, *Hotel de Hollande, Rue Neuve des Bons
-Enfants, Paris.*
+### *To* J. B. <span class="small-caps">Soulié</span>, *Hotel de Hollande, Rue Neuve des Bons Enfants, Paris.*
 
 [<span class="small-caps">Blois</span>, *27th April*, 1825, *morning.*]
 
@@ -1074,9 +1036,7 @@ Thank my good and worthy father very much, and be ready. No time for more. I won
 
 <span class="small-caps">Reims</span>, 31*st May*, 1825.
 
-<span class="small-caps">My dear Mamma</span>, — We leave Reims this morning,
-
-after having seen all the splendid Coronation ceremonies. I shall be with you the day after to-morrow morning, the 2d of June, about noon, and I shall start off again for Blois the same day at six, if there is room in the coach.
+<span class="small-caps">My dear Mamma</span>, — We leave Reims this morning, after having seen all the splendid Coronation ceremonies. I shall be with you the day after to-morrow morning, the 2d of June, about noon, and I shall start off again for Blois the same day at six, if there is room in the coach.
 
 As I have many matters to attend to, and above all the Ode that I must write, I shall doubtless return to Paris at once, bringing Adèle and Didine with me. My presence there is absolutely necessary.
 
@@ -1154,7 +1114,7 @@ It is a strange effect of misfortune that we should already have to discharge th
 
 You see, my friend, that your letter has engendered very painful reflections in my mind. Forgive my ramblings, and, above all, pray forget that I have been selfish enough to speak to you of my grief before thinking of alleviating yours. I feel strongly the extent of the loss which you have just suffered, and I can only sympathize with your distress. It is said that sympathy renders sorrow less acute; if so, dear friend, no sorrow has ever been more truly sympathized with than yours.
 
-Do not, I implore you, give way to despair, Adolphe; be a man! Think of your good father, of your sisters . Rest assured you will see your mother again; it is impossible that we can part like this forever. You are pious, and your piety will give you courage.
+Do not, I implore you, give way to despair, Adolphe; be a man! Think of your good father, of your sisters. Rest assured you will see your mother again; it is impossible that we can part like this forever. You are pious, and your piety will give you courage.
 
 Forgive this incoherent letter, and love me as I love you. With best love, your attached cousin,
 
@@ -1221,9 +1181,7 @@ Farewell, my good cousin; I leave the rest of this letter to Abel, who wants to 
 
 V. M. <span class="small-caps">Hugo.</span>
 
-P.S.[^fn-p0089-1] — As Abel has mentioned the departure of His Majesty Duc de Decazes to you, I will tell you a curious and little-known fact connected with it. The papers announced that he had left on the 10th at *four o'clock in the afternoon,* whereas, in reality, he went off *before daybreak.* The reason of this is, that the Duchesse Decazes had insisted on her husband starting before Mme. Crinstot (the duke's sister), whom she wishes to deprive of the honor of a triumphal entry into London. Mme. Crinstot is in tears. It was she who did not leave
-
-Paris till *four o'clock.* Discord, it appears, has crept into the honorable family, and war has broken out.
+P.S.[^fn-p0089-1] — As Abel has mentioned the departure of His Majesty Duc de Decazes to you, I will tell you a curious and little-known fact connected with it. The papers announced that he had left on the 10th at *four o'clock in the afternoon,* whereas, in reality, he went off *before daybreak.* The reason of this is, that the Duchesse Decazes had insisted on her husband starting before Mme. Crinstot (the duke's sister), whom she wishes to deprive of the honor of a triumphal entry into London. Mme. Crinstot is in tears. It was she who did not leave Paris till *four o'clock.* Discord, it appears, has crept into the honorable family, and war has broken out.
 
 I had these details from a *noble peer,* who had them from a good authority: you may consider them *authentic.*
 
@@ -1249,8 +1207,7 @@ We are still expecting the destruction or *the salvation of the Monarchy,* viz.,
 
 ### <span class="small-caps">VI.</span>
 
-### *To* <span class="small-caps">Count Alfred de Vigny</span>, *5th Regiment of the Royal Guards,
-Rouen.*
+### *To* <span class="small-caps">Count Alfred de Vigny</span>, *5th Regiment of the Royal Guards, Rouen.*
 
 [1821.]
 
@@ -1282,9 +1239,7 @@ Abel will write to you immediately; he is delighted with your letter. If I go to
 
 *July,* 1821.
 
-<span class="small-caps">My dear Colleague,</span> — You may have read of my terrible misfortune in the papers. I have lost my mother.
-
-I should have long ago had to reproach myself for not having responded to all your kind marks of friendship had it not been for her illness and death.
+<span class="small-caps">My dear Colleague,</span> — You may have read of my terrible misfortune in the papers. I have lost my mother. I should have long ago had to reproach myself for not having responded to all your kind marks of friendship had it not been for her illness and death.
 
 You did not know my noble mother, of whom I do not speak, because I could not speak of her as she deserves; but I am sure you will sympathize with my grief, and if your pity for me equals my affection for you, it will be great indeed.
 
@@ -1508,9 +1463,7 @@ Eugène's physical health is good, but as to the state of his mind. . . . Still,
 
 [1824].
 
-<span class="small-caps">Dear Sir,</span> —I see with real concern that you have
-
-misunderstood me both in point of form and in substance. I cannot imagine how you can have interpreted as a *command* my — as it seems to me — very polite request to you to publish my reply to your article, and, above all, how you could have made an apology for my new odes out of what is only a somewhat mild refutation of your ingenious paradox on the classical and romantic schools.
+<span class="small-caps">Dear Sir,</span> —I see with real concern that you have misunderstood me both in point of form and in substance. I cannot imagine how you can have interpreted as a *command* my — as it seems to me — very polite request to you to publish my reply to your article, and, above all, how you could have made an apology for my new odes out of what is only a somewhat mild refutation of your ingenious paradox on the classical and romantic schools.
 
 You are good enough to promise to go through the new odes for a second and last time. I am flattered at being the object of so much attention on your part; but I own I expected more a rejoinder to my reply than a fresh article on these odes. I am not going to defend these compositions, which are so open to criticism in every respect; but I think that, when you have shown with great ease that my verses are bad, you will still have to prove that your literary theory on the classical and romantic school is not wrong; and that, allow me to tell you, dear sir, is the real point at issue.
 
@@ -1993,9 +1946,7 @@ Yours with all my heart,
 
 *Saturday the* 13*th,* . . . [1828].
 
-<span class="small-caps">My dear Taylor</span>,— A tragedy has just been writ-
-
-ten in my family, and I do not think you need to be told that I am not the author of it. I never flew at such high game! My young brother-in-law Paul (who, by the way, is passionately attached to you) is the culprit.
+<span class="small-caps">My dear Taylor</span>,— A tragedy has just been written in my family, and I do not think you need to be told that I am not the author of it. I never flew at such high game! My young brother-in-law Paul (who, by the way, is passionately attached to you) is the culprit.
 
 Now, I will not bestow praise on this tragedy here, because it would be altogether suspicious, coming from me ; but I do not think I am going too far when I say that it is quite as good as many of those which from time immemorial have been received, put on the stage, acted, and *applauded* at the Français.
 
@@ -2157,7 +2108,7 @@ This is what the then censor said to me. Such language would doubtless have reas
 
 This, however, is what has happened since *Hernani* has been submitted to the censors. Some verses of the drama, partly travestied, or wholly turned into ridicule, a few quoted correctly, but ingeniously dovetailed with spurious ones, bits of scenes, in fact, more or less skillfully disfigured and outrageously parodied, have been put into circulation.
 
-Portions of the work dressed up in this way have received the semi-publicity which writers and theatres so justly dread. The authors of these underhand tricks have hardly taken the trouble to hide themselves ; they have done it in broad daylight, and have simply selected the newspapers as the medium of their discreet confidences . They have gone further. Not content with prostituting the piece to their papers, they are now engaged in prostituting it to their *salons.*
+Portions of the work dressed up in this way have received the semi-publicity which writers and theatres so justly dread. The authors of these underhand tricks have hardly taken the trouble to hide themselves ; they have done it in broad daylight, and have simply selected the newspapers as the medium of their discreet confidences. They have gone further. Not content with prostituting the piece to their papers, they are now engaged in prostituting it to their *salons.*
 
 I hear on all sides (and the matter has attained a public notoriety to which I can bear witness) that spurious copies of *Hernani* have been made, and that the whole drama, or part of it, has been read in many places, and especially in the house of a head clerk in M. de Corbière’s department.
 
@@ -2337,8 +2288,7 @@ My love to you and yours.
 
 ### LX.
 
-### *To* M. <span class="small-caps">Froidefond des Forges</span>, *commanding the 4th battalion
-of the 1st Legion of the National Guard in Paris.*
+### *To* M. <span class="small-caps">Froidefond des Forges</span>, *commanding the 4th battalion of the 1st Legion of the National Guard in Paris.*
 
 <span class="small-caps">Paris</span>, *7th October*, 1830.
 
@@ -2542,15 +2492,15 @@ It is very desirable that M. Ciceri and the costume designer should be at the th
 | M. <span class="small-caps">de Pienne</span> | M. <span class="small-caps">Geffroy.</span> |
 | M. <span class="small-caps">de Pardaillan</span> (*page*) | <span class="small-caps">Mme. Menjaud.</span> |
 
-- M. <span class="small-caps">de Cossé</span>. . . . . M. <span class="small-caps">Duparay</span>.
-Mme. <span class="small-caps">de Cossé</span> . . . . Mme. <span class="small-caps">Masson</span>.
-M. <span class="small-caps">de Gordes</span> . . . . M. <span class="small-caps">Marius</span>.
-M. <span class="small-caps">de Vic</span> . . . . . M. <span class="small-caps">Bouchet</span>.
-M. <span class="small-caps">de la Tour Landry</span> . M. <span class="small-caps">Mirecour</span>.
-MM. <span class="small-caps">de Montchenu, de Brion, and de Montmorency</span>. } { M. <span class="small-caps">Regnier</span>. M. <span class="small-caps">Albert</span>. M. <span class="small-caps">Montlaur</span>.
-<span class="small-caps">Dame Bérarde</span> . . . Mme. <span class="small-caps">Tousez</span>.
-A <span class="small-caps">Woman of the People</span> . Mlle. <span class="small-caps">Petit</span>.
-A <span class="small-caps">Doctor</span> . . . . . M. <span class="small-caps">Dumilatre</span>.
+- M. <span class="small-caps">de Cossé</span>. . . . . M. <span class="small-caps">Duparay</span>.  
+  Mme. <span class="small-caps">de Cossé</span> . . . . Mme. <span class="small-caps">Masson</span>.  
+  M. <span class="small-caps">de Gordes</span> . . . . M. <span class="small-caps">Marius</span>.  
+  M. <span class="small-caps">de Vic</span> . . . . . M. <span class="small-caps">Bouchet</span>.  
+  M. <span class="small-caps">de la Tour Landry</span> . M. <span class="small-caps">Mirecour</span>.  
+  MM. <span class="small-caps">de Montchenu, de Brion, and de Montmorency</span>. } { M. <span class="small-caps">Regnier</span>. M. <span class="small-caps">Albert</span>. M. <span class="small-caps">Montlaur</span>.  
+  <span class="small-caps">Dame Bérarde</span> . . . Mme. <span class="small-caps">Tousez</span>.  
+  A <span class="small-caps">Woman of the People</span> . Mlle. <span class="small-caps">Petit</span>.  
+  A <span class="small-caps">Doctor</span> . . . . . M. <span class="small-caps">Dumilatre</span>.
 <span class="small-caps">Victor Hugo.</span>
 
 You see I need your advice for these secondary parts, which, however, can be distributed later without any inconvenience.
@@ -3143,8 +3093,7 @@ Yours with all my heart,
 
 ### VIII.
 
-### *To* M. <span class="small-caps">Sainte-Beuve</span>, c/o M. <span class="small-caps">Ulrich Güttinguer</span>, *Rue Fon-
-tenelle, Rouen.*
+### *To* M. <span class="small-caps">Sainte-Beuve</span>, c/o M. <span class="small-caps">Ulrich Güttinguer</span>, *Rue Fon- tenelle, Rouen.*
 
 <span class="small-caps">Paris</span>, *Sunday*, 16*th May*, 1830.
 
@@ -3166,7 +3115,7 @@ Farewell, my friend. We all send our love to you, and I embrace you for them all
 
 *Friday evening*, [*4th June*, 1830].
 
-We were at home, dear friend ! Fancy our annoy-ance ! Our porters are stupid ! Never heed what they say, but always come upstairs. On Sunday then ? without fail ! You ought to come to dinner with us.
+We were at home, dear friend ! Fancy our annoy-ance ! Our porters are stupid ! Never heed what they say, but always come upstairs. On Sunday then ? with-out fail ! You ought to come to dinner with us.
 
 <span class="small-caps">Victor.</span>
 
@@ -3278,9 +3227,7 @@ V. H.
 
 *Friday, 18th March,* 1831.
 
-<span class="small-caps">My Friend</span>,—I did not wish to write to you with
-
-the impression made by your letter fresh in my mind. It was too sad and too bitter. I should have been unjust in my turn. I wanted to wait for a few days. To-day, at all events, I am calm, and I can read your letter again without reopening too widely the deep wound it gave me. I must tell you, I did not think that what has passed between us, *what is known to us alone,* could ever be forgotten, especially by you, by the Sainte-Beuve that I have known. Oh, yes! I say it with greater sorrow for you than for myself, you are very different from what you were. You must remember, if your new friends have not made even the shadow of your old ones fade from your mind, you must remember what passed between us in the most painful moment of my life, when I had to choose between her and you; recollect what I said to you, what I proposed to you, what I offered you with the firm resolution, as you know, of keeping my promise, and doing what you wished. Recollect all this, and then reflect that you have just written to me that I showed a want of openness, of confidence, and of sincerity towards you in this matter. This is what you brought yourself to write hardly three months afterwards. I forgive you from this moment. Perhaps a day will come when you will not forgive yourself for it.
+<span class="small-caps">My Friend</span>,—I did not wish to write to you with the impression made by your letter fresh in my mind. It was too sad and too bitter. I should have been unjust in my turn. I wanted to wait for a few days. To-day, at all events, I am calm, and I can read your letter again without reopening too widely the deep wound it gave me. I must tell you, I did not think that what has passed between us, *what is known to us alone,* could ever be forgotten, especially by you, by the Sainte-Beuve that I have known. Oh, yes! I say it with greater sorrow for you than for myself, you are very different from what you were. You must remember, if your new friends have not made even the shadow of your old ones fade from your mind, you must remember what passed between us in the most painful moment of my life, when I had to choose between her and you; recollect what I said to you, what I proposed to you, what I offered you with the firm resolution, as you know, of keeping my promise, and doing what you wished. Recollect all this, and then reflect that you have just written to me that I showed a want of openness, of confidence, and of sincerity towards you in this matter. This is what you brought yourself to write hardly three months afterwards. I forgive you from this moment. Perhaps a day will come when you will not forgive yourself for it.
 
 Your friend still, in spite of yourself,
 
@@ -3507,9 +3454,7 @@ I think Renduel has sent you your copy. What is our worthy Leroux about? I never
 
 31*st December*, 1832.
 
-<span class="small-caps">My dear Saint-de-Beuve</span>, —Thank you very much
-
-for the beautiful book *Paul et Virginie* that you sent me. Toto and Charles are very pleased with their Zoölogical Gardens and box of soldiers. Dédé is very pleased with the beautiful boa you gave her. She thinks it is a little pussy-cat; if they would let her always have it, she would be very happy. But, unfortunately, they won't let her have it always. Papa tells me to send you his love; so does mamma. Good-by, my dear Saint-de-Beuve,
+<span class="small-caps">My dear Saint-de-Beuve</span>, —Thank you very much for the beautiful book *Paul et Virginie* that you sent me. Toto and Charles are very pleased with their Zoölogical Gardens and box of soldiers. Dédé is very pleased with the beautiful boa you gave her. She thinks it is a little pussy-cat; if they would let her always have it, she would be very happy. But, unfortunately, they won't let her have it always. Papa tells me to send you his love; so does mamma. Good-by, my dear Saint-de-Beuve,
 
 <span class="small-caps">Léopoldine Hugo.</span>[^fn-p0219-1]
 
@@ -3879,9 +3824,7 @@ V.
 
 <span class="small-caps">Mayence,</span> 1*st October,* [1838].
 
-<span class="small-caps">My dear old Charlie,</span> — You must write me a good
-
-long letter (to Trèves), beginning it early and finishing it late. You know how much I love you, dear child. I must have a long letter from you. You must also write a little diary for me, telling me how you have spent your time at Saint-Prix during the holidays, and if, as I hope, you have prepared for next year's work amid your play and leisure time. I want you, my dear Charlie, to be a good, hard-working boy, and an industrious scholar.
+<span class="small-caps">My dear old Charlie,</span> — You must write me a good long letter (to Trèves), beginning it early and finishing it late. You know how much I love you, dear child. I must have a long letter from you. You must also write a little diary for me, telling me how you have spent your time at Saint-Prix during the holidays, and if, as I hope, you have prepared for next year's work amid your play and leisure time. I want you, my dear Charlie, to be a good, hard-working boy, and an industrious scholar.
 
 Talking of this reminds me that in one of my letters I gave you an exercise to write. Neither you nor Toto have sent it to me. Now that the holidays are nearly over, and you have only a few days left to play, I will let you off this exercise.
 
@@ -4089,8 +4032,7 @@ Your own daddy,                    V.
 
 ### XXI.
 
-### *To* <span class="small-caps">Madame Vacquerie-Hugo.</span>
-[<span class="small-caps">Léopoldine Hugo.</span>]
+### *To* <span class="small-caps">Madame Vacquerie-Hugo.</span> [<span class="small-caps">Léopoldine Hugo.</span>]
 
 16*th March,* [1843].
 
@@ -4296,16 +4238,13 @@ Autograph illustrated letter of Victor Hugo from the Pyrenees, mentioning 'la Ro
 
 ### Letter 224: V. M. Hugo → M. Pinaud / Académie des Jeux Floraux
 
-### *To* M. <span class="small-caps">Pinaud</span>, *Permanent Secretary to the Académie des Jeux
-Floraux, Toulouse.*
+### *To* M. <span class="small-caps">Pinaud</span>, *Permanent Secretary to the Académie des Jeux Floraux, Toulouse.*
 
 ### I.
 
 <span class="small-caps">Paris</span>, 29*th March*, 1819.
 
-<span class="small-caps">Dear Sir</span>, — The flattering news you give me, and
-
-your still more flattering letter, have caused me very great pleasure, which, however, would have been still greater if the decisions of the Academy had been more favorable to my brother. However severe they must have appeared to him, I must do him the justice to acknowledge that he never complained of them for one moment, and that he was the first to recognize their equity ; he begs me, dear sir, to thank you in his name for the encomiums and encouragement which you are kind enough to bestow on him. His ode on the Duke of Enghien, which he is now endeavoring to make more worthy of the Academy, will doubtless prove to you how eagerly he responds to your request.
+<span class="small-caps">Dear Sir</span>, — The flattering news you give me, and your still more flattering letter, have caused me very great pleasure, which, however, would have been still greater if the decisions of the Academy had been more favorable to my brother. However severe they must have appeared to him, I must do him the justice to acknowledge that he never complained of them for one moment, and that he was the first to recognize their equity ; he begs me, dear sir, to thank you in his name for the encomiums and encouragement which you are kind enough to bestow on him. His ode on the Duke of Enghien, which he is now endeavoring to make more worthy of the Academy, will doubtless prove to you how eagerly he responds to your request.
 
 As for me, dear sir, I am as much overcome by the indulgence shown me by the Academy as I am filled with gratitude for the signal proofs of it with which I have been honored. Be so good as to assure your colleagues that I look on their approbation rather as an encouragement than as a reward, and that in future all my efforts will be directed towards rendering myself worthy of the glorious palm-leaves they have been pleased to award me, and which I feel I am still far from deserving. If time permits me, I shall try to prove how anxious I am to make the two prize poems as nearly perfect as possible, by scrupulously assenting to their criticism. As the opportunity offers, I think it right, dear sir, to communicate to you the corrections which I have already been able to make, or to which I think I can show good reasons for objecting.
 
@@ -4344,9 +4283,7 @@ V. M. <span class="small-caps">Hugo.</span>
 
 <span class="small-caps">Paris</span>, *9th April*, 1819.
 
-<span class="small-caps">Dear Sir</span>, — I have the honor to send you such of
-
-the corrections pointed out as I am now able to accept. The passages which I have not been able to change are few in number, and I venture to hope that if I have not complied with the Academy on some points, it is not for lack of good will or readiness to be taught. Their indulgence has been too great, the marks of it have been too flattering for me not to have exerted all my feeble abilities to make myself worthy both of the one and of the other.
+<span class="small-caps">Dear Sir</span>, — I have the honor to send you such of the corrections pointed out as I am now able to accept. The passages which I have not been able to change are few in number, and I venture to hope that if I have not complied with the Academy on some points, it is not for lack of good will or readiness to be taught. Their indulgence has been too great, the marks of it have been too flattering for me not to have exerted all my feeble abilities to make myself worthy both of the one and of the other.
 
 I do not flatter myself that I have been equally successful in every point. But I must confess, and you perhaps will not be surprised at it, dear sir, that it has given me more trouble to touch up these odes than to compose them. That is the chief reason why I am doubtful of the success of my work. When I hesitated between two versions, I thought it right to submit them both for the decision of the Academy.
 
@@ -4405,9 +4342,7 @@ I think, however, it is more frank and more seemly to admit how little I have su
 
 *7th Strophe.* — The following note might come after it : —
 
-> Moreau took the fort of l'Ecluse on the island of Cazand from a superior force of the enemy the very day on which his aged father was led to the scaffold. Patriotism must indeed have had a strong
-
-hold on the hearts of our soldiers to make them defend with such heroic resignation a country in which their dearest interests were daily betrayed in a disgraceful manner. Our army was fortunate in always being free from the reproaches which were leveled against our executioners. Do not let us forget that if it fought against its king, this was in opposing a foreign invasion, and that, as an illustrious author has said, its sword, thrown in the balance, weighed down the axe of the Revolution.
+> Moreau took the fort of l'Ecluse on the island of Cazand from a superior force of the enemy the very day on which his aged father was led to the scaffold. Patriotism must indeed have had a strong hold on the hearts of our soldiers to make them defend with such heroic resignation a country in which their dearest interests were daily betrayed in a disgraceful manner. Our army was fortunate in always being free from the reproaches which were leveled against our executioners. Do not let us forget that if it fought against its king, this was in opposing a foreign invasion, and that, as an illustrious author has said, its sword, thrown in the balance, weighed down the axe of the Revolution.
 
 *8th Strophe.*—For the three first lines one of the two following versions may be substituted:—
 
@@ -4476,9 +4411,7 @@ V. M. <span class="small-caps">Hugo</span>.
 
 18*th April*, 1820.
 
-<span class="small-caps">Dear Sir</span>, — It was only the entreaties of some of my friends that induced me to send the *Académie des Jeux Floraux* the ode *Moyse*, the many imperfections
-
-of which I was the first to feel. In according an *amaranthe réservée* to this work, the Academy has far surpassed all my hopes, and I feel I ought to look on this prize more as an encouragement than as a reward. I take pleasure in acknowledging the justice of the criticisms addressed to me, and besides, I think that in finding fault with the absence of all lyric movement in my ode the Academy might have detected one of the reasons for it in the choice of the metre, which, with its feminine terminations, is incapable of rendering with marked effect the imposing imagery and the grand thoughts which such a subject ought to have called forth. This metre, which André de Chénier has employed with such success in his *Jeune captive,* is no doubt naturally melodious, but it is not sufficiently solemn or sonorous for grand poetry. Here, then, is another mistake of mine; in adding this fresh criticism to the very judicious observations of the Academy I may be making a blunder, but I know I am acting frankly, and I am sure you will not think the worse of me for it. As to the points of detail, I regret that I have no time to make my ode more worthy of the flattering distinction which you have bestowed on it. I think, however, that in the 1st strophe, “*chastes plaisirs*” might be altered to “*jeux innocents,*” and in the 8th, “*Ses malheurs ont ému mon amour*” to “*Ses malheurs éveillent mon amour,*” if you think these corrections are admissible. I repeat, I regret that I have not the time; if I had I would have endeavored, by a searching revision of my ode, to make myself worthier of your distinguished approbation. As this is impossible, I can only beg you, dear sir, to convey my excuses and my warm acknowledgments to your colleagues.
+<span class="small-caps">Dear Sir</span>, — It was only the entreaties of some of my friends that induced me to send the *Académie des Jeux Floraux* the ode *Moyse*, the many imperfections of which I was the first to feel. In according an *amaranthe réservée* to this work, the Academy has far surpassed all my hopes, and I feel I ought to look on this prize more as an encouragement than as a reward. I take pleasure in acknowledging the justice of the criticisms addressed to me, and besides, I think that in finding fault with the absence of all lyric movement in my ode the Academy might have detected one of the reasons for it in the choice of the metre, which, with its feminine terminations, is incapable of rendering with marked effect the imposing imagery and the grand thoughts which such a subject ought to have called forth. This metre, which André de Chénier has employed with such success in his *Jeune captive,* is no doubt naturally melodious, but it is not sufficiently solemn or sonorous for grand poetry. Here, then, is another mistake of mine; in adding this fresh criticism to the very judicious observations of the Academy I may be making a blunder, but I know I am acting frankly, and I am sure you will not think the worse of me for it. As to the points of detail, I regret that I have no time to make my ode more worthy of the flattering distinction which you have bestowed on it. I think, however, that in the 1st strophe, “*chastes plaisirs*” might be altered to “*jeux innocents,*” and in the 8th, “*Ses malheurs ont ému mon amour*” to “*Ses malheurs éveillent mon amour,*” if you think these corrections are admissible. I repeat, I regret that I have not the time; if I had I would have endeavored, by a searching revision of my ode, to make myself worthier of your distinguished approbation. As this is impossible, I can only beg you, dear sir, to convey my excuses and my warm acknowledgments to your colleagues.
 
 If the idyl of the Two Ages could have obtained a prize, it would have been a great pleasure and a great honor to me ; but, as it is, I can only bow with respect to the decision which prevented it from achieving this distinction.
 
@@ -4580,9 +4513,7 @@ I have the honor to be, with the highest esteem and the most complete devotion, 
 
 <span class="small-caps">Paris</span>, 24*th October*, 1822.
 
-<span class="small-caps">My dear Colleague</span>,—Your kind letter came
-
-upon me as a gentle surprise in a moment of happiness. I have always highly valued the proofs of your kind friendship, and when I received this last token of it, it gave me all the greater pleasure because it seemed as if a part of yourself, my dear friend, was a witness of my felicity.
+<span class="small-caps">My dear Colleague</span>,—Your kind letter came upon me as a gentle surprise in a moment of happiness. I have always highly valued the proofs of your kind friendship, and when I received this last token of it, it gave me all the greater pleasure because it seemed as if a part of yourself, my dear friend, was a witness of my felicity.
 
 I am anxious to be the first to tell you that I am married, that I have just been united to the sweetest, the most angelic, and the most beloved of women. You have contributed to what you are good enough to call my success, you sympathized with me in my sorrow, and I have no doubt that you will also rejoice with me in my happiness.
 
@@ -4624,9 +4555,7 @@ My wife was much pleased with your kind messages, and begs me to thank you for t
 
 <span class="small-caps">Paris</span>, *8th January,* 1823.
 
-<span class="small-caps">My dear Colleague</span>, — What pleases me most in the important service you have just so kindly rendered
-
-me is the fact that it was rendered by you. For a long time I have fallen into the pleasant habit of being indebted to you, and all I can wish for now is to have the good fortune of being able to serve you sometimes in return. I was much gratified by your kind thought in sending me your application on my behalf, and quite overcome by all the expressions of kindness and praise with which your friendship inspired you for the least worthy of your colleagues.
+<span class="small-caps">My dear Colleague</span>, — What pleases me most in the important service you have just so kindly rendered me is the fact that it was rendered by you. For a long time I have fallen into the pleasant habit of being indebted to you, and all I can wish for now is to have the good fortune of being able to serve you sometimes in return. I was much gratified by your kind thought in sending me your application on my behalf, and quite overcome by all the expressions of kindness and praise with which your friendship inspired you for the least worthy of your colleagues.
 
 I have just published the second edition of my odes, with additions and corrections. I have told my publisher to send you two copies; one of these I hope you will be kind enough to accept from me, and the other I beg you to present to the Academy on my behalf.
 
@@ -4644,9 +4573,7 @@ My wife thanks you, as I do, for all the kind messages to her in your letter.
 
 <span class="small-caps">Gentilly</span>, 9*th June*, 1823.
 
-<span class="small-caps">My dear Colleague</span>,—Our good friend Jules de Rességuier has shown me your letter, and I was much
-
-touched by the kind and affectionate messages for me in it. I was not less sensible of the kind feeling that prompted you to mention my name at your memorable meeting; you wished that some of the glory conferred on the old *fête des fleurs* by the presence of an illustrious spectator might be reflected on me. I thank you for this. You have touched my heart even more than you have flattered my pride.
+<span class="small-caps">My dear Colleague</span>,—Our good friend Jules de Rességuier has shown me your letter, and I was much touched by the kind and affectionate messages for me in it. I was not less sensible of the kind feeling that prompted you to mention my name at your memorable meeting; you wished that some of the glory conferred on the old *fête des fleurs* by the presence of an illustrious spectator might be reflected on me. I thank you for this. You have touched my heart even more than you have flattered my pride.
 
 Please let me know if you have received the second edition of my odes, as well as an indifferent work in four volumes entitled *Han d'Islande.* Some time ago I told my former publisher, Persan, to forward you these works, which I was also sending to the Academy. He has since become bankrupt, and having discovered several cases in which he had neglected to carry out my orders, I should like to make sure that yours was not among the number.
 
@@ -4656,8 +4583,7 @@ Farewell, my good colleague; my wife, who is going on well, shares the deep feel
 
 ## II. Additional Letters to Various Persons.
 
-### II. ADDITIONAL LETTERS TO VARIOUS
-PERSONS.
+### II. ADDITIONAL LETTERS TO VARIOUS PERSONS.
 
 ### Letter 237: Victor Marie Hugo → M. Raynouard
 
@@ -4740,8 +4666,7 @@ I must write to you, my illustrious friend ; I am about to be happy. Something w
 
 ### III.
 
-### *To* <span class="small-caps">Count François de Neufchâteau</span>, *of the French Academy,
-Rue Saint Marc-Feydeau.*
+### *To* <span class="small-caps">Count François de Neufchâteau</span>, *of the French Academy, Rue Saint Marc-Feydeau.*
 
 *15th November,* 1824.
 
@@ -4797,9 +4722,7 @@ I count on your box for Monday. Do not forget that this is as important to the t
 
 *Tuesday, 10th March,* 1831.
 
-<span class="small-caps">Madam</span>, —Every day I wish to go and see you, and
-
-every day my time is taken up by a crowd of engagements. But I really want to talk to you, to give you a number of explanations to which you will listen with your usual charming kindness, to convey to you many regrets which you will have no difficulty in believing. You have been good enough to call on me twice. I was very sorry not to have been at home. You would have seen that I am in no way to blame for the decision I was obliged to take to withdraw *Marion de Lorme* once and for all from the Théâtre Français. You know that the Ministry has had the hardihood to reëstablish the censorship, the authors were obliged to bind themselves not to give any play to the censured theatres, the Théâtre Français was in this category; I adhered, as in duty bound, to the authors' agreement. The Porte-Saint-Martin offered to act my play and to fight the censorship as much as I like. I informed Taylor of this, in accordance with my promise, by communicating to him the conditions to which M. Crosnier was willing to subscribe; I told him that I would give the preference to the Théâtre Français on the same terms. I asked him to let you and the committee know of it, and I promised him that I would wait for four and twenty hours before signing anything. I heard nothing more from him, although I waited three days instead of four and twenty hours, and finally, no answer being forthcoming, I signed. Another consideration of a most imperious nature influenced my decision. I received information that my subject had been purloined from me, and that two *Marion de Lormes,* in prose, had already been offered to two theatres. (I am assured at this very moment that one of these pieces has lately been read at the Théâtre Français.) There was, therefore, not a moment to lose. The Théâtre Français being under prohibition owing to the censorship business, your action against the members, the well-nigh certainty (admitted by Taylor himself and confirmed since by the steps taken by the Théâtre Français to secure Mme. Dorval) that you would not act any more, the necessity in any event of waiting for an indefinite time during which my subject would have been stolen from me and the bloom taken off my piece by other theatres, — all this made me decide for the Porte-Saint-Martin. I hear to-day that you would have been able to act for me. I am truly sorry. I am also told that you are kind enough to somewhat regret the loss of the part which I thought you filled so admirably. That is almost a consolation. It is equivalent to a hope that you will not refuse the next part which I shall be delighted to offer you. In the meanwhile, Madam, forgive me, if you think there is anything to forgive me for. Write me a line to say that you will not be too angry with me, and that you will permit me to work once more for you; above all pity me, and keep some friendship for me in return for my unbounded admiration and profound devotion.
+<span class="small-caps">Madam</span>, —Every day I wish to go and see you, and every day my time is taken up by a crowd of engagements. But I really want to talk to you, to give you a number of explanations to which you will listen with your usual charming kindness, to convey to you many regrets which you will have no difficulty in believing. You have been good enough to call on me twice. I was very sorry not to have been at home. You would have seen that I am in no way to blame for the decision I was obliged to take to withdraw *Marion de Lorme* once and for all from the Théâtre Français. You know that the Ministry has had the hardihood to reëstablish the censorship, the authors were obliged to bind themselves not to give any play to the censured theatres, the Théâtre Français was in this category; I adhered, as in duty bound, to the authors' agreement. The Porte-Saint-Martin offered to act my play and to fight the censorship as much as I like. I informed Taylor of this, in accordance with my promise, by communicating to him the conditions to which M. Crosnier was willing to subscribe; I told him that I would give the preference to the Théâtre Français on the same terms. I asked him to let you and the committee know of it, and I promised him that I would wait for four and twenty hours before signing anything. I heard nothing more from him, although I waited three days instead of four and twenty hours, and finally, no answer being forthcoming, I signed. Another consideration of a most imperious nature influenced my decision. I received information that my subject had been purloined from me, and that two *Marion de Lormes,* in prose, had already been offered to two theatres. (I am assured at this very moment that one of these pieces has lately been read at the Théâtre Français.) There was, therefore, not a moment to lose. The Théâtre Français being under prohibition owing to the censorship business, your action against the members, the well-nigh certainty (admitted by Taylor himself and confirmed since by the steps taken by the Théâtre Français to secure Mme. Dorval) that you would not act any more, the necessity in any event of waiting for an indefinite time during which my subject would have been stolen from me and the bloom taken off my piece by other theatres, — all this made me decide for the Porte-Saint-Martin. I hear to-day that you would have been able to act for me. I am truly sorry. I am also told that you are kind enough to somewhat regret the loss of the part which I thought you filled so admirably. That is almost a consolation. It is equivalent to a hope that you will not refuse the next part which I shall be delighted to offer you. In the meanwhile, Madam, forgive me, if you think there is anything to forgive me for. Write me a line to say that you will not be too angry with me, and that you will permit me to work once more for you; above all pity me, and keep some friendship for me in return for my unbounded admiration and profound devotion.
 
 <span class="small-caps">Victor Hugo.</span>
 

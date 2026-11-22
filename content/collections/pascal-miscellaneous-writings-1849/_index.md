@@ -20,10 +20,10 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 9,
+  "letters": 8,
   "notes": 319,
   "pages": 468,
-  "dated_letters": 7
+  "dated_letters": 6
  },
  "provenance_tier": "community",
  "quality": {
@@ -243,7 +243,7 @@
   ],
   [
    1648,
-   3
+   2
   ],
   [
    1650,
@@ -259,7 +259,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 9,
+ "unperiodised_count": 8,
  "frontispiece": {},
  "title_page": {
   "page": 7,
@@ -269,27 +269,27 @@
   {
    "format": "epub",
    "file": "pascal-miscellaneous-writings-1849.epub",
-   "bytes": 305207,
-   "sha256": "f38bce390bba57f21fcd434a3954b0aec8ad1b67ba373c82f521d027b3d5b88b"
+   "bytes": 395710,
+   "sha256": "83e1cd004a536b453ee78efcb3864cdd38d6269b01d837aab8d5ad87ea2f5a4d"
   },
   {
    "format": "markdown",
    "file": "pascal-miscellaneous-writings-1849.md",
-   "bytes": 661289,
-   "sha256": "9f4868eef8a96efe4871bc8fb6656d1ac92c1cb59f8cd0f8012710756588d65f"
+   "bytes": 661263,
+   "sha256": "f4cab86611cd542bd80e7282e0f8315e69dda512607903d53590735a9347149d"
   },
   {
    "format": "tei",
    "file": "pascal-miscellaneous-writings-1849.tei.xml",
-   "bytes": 778134,
-   "sha256": "edb1de56ea28fa0daa1ddbb94e85e42eb81b1b82a82c6be69d659ed5ea7e41ab"
+   "bytes": 778236,
+   "sha256": "5763bc4911098ade7302c13d2cd200c920b66f9085b5447c03f9ddcde5f2e8ab"
   }
  ],
  "scan_base": "https://archive.org/download/cu31924029054439/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-20T17:02:44Z",
-  "source_ast_sha256": "8f16577ff6f602ff9b97e403697af186b89cd48281e6e5cef85fa80bf6ec742b",
+  "compiled_at": "2026-11-22T08:52:06Z",
+  "source_ast_sha256": "d30ad5c85a018bf0c62340bcae2895b532b6c8bc5d4fb1288313b9181810554b",
   "hugo_renderer_version": "1.0.0"
  }
 }

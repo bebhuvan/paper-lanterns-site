@@ -9,15 +9,21 @@
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
         <idno type="book_id">tagore-letters-1917</idno>
-        <availability status="free"><p>CC0 1.0 Public Domain</p></availability>
+        <availability status="free"><p>CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)</p></availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>Letters</title>
           <date>1917</date>
+          <idno type="URI">https://archive.org/details/letters00tago</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Diplomatic archival transcription preserving historical orthography, diacritics, epistolary layouts, and footnotes.</p>
+      </editorialDecl>
+    </encodingDesc>
     <profileDesc>
       <correspDesc xml:id="letter-0001">
         <correspAction type="sent"><persName>Rabindranath Tagore</persName><placeName>Cuttack</placeName><date when="1893-02">February: 1893.</date></correspAction>
@@ -61,7 +67,7 @@
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
+    <front>
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
@@ -73,6 +79,8 @@
 <pb xml:id="page-4" n="4"/><p rend="imprint"><hi rend="smallcaps">Copyright</hi>, 1917<lb/><hi rend="smallcaps">By</hi> THE MACMILLAN COMPANY<lb/>Set up and electrotyped. Published       , 1917.</p>
 </div>
 </div>
+    </front>
+    <body>
       <div xml:id="sec-sec-02" type="epistolary_part">
 <head>Extracts from Old Letters of Rabindranath Tagore</head>
 <div xml:id="div-letter-0001" type="letter" corresp="#letter-0001">
@@ -98,7 +106,7 @@
 <pb xml:id="page-8" n="6"/><p rend="indented">But these few tiresome days have come between, and now I find many of the details have grown hazy. Another reason for this is the sea, which in Puri lies before me night and day. It has captured the whole of my attention, leaving me no opportunity to hark back to the incidents of the journey.</p>
 <p rend="indented">After our midday meal on Saturday, B—— babu, Balu and I placed our rugs on the back seat of a hired phaeton, leaned back against our pillows, and, with a servant mounted on the coach box, made a start.</p>
 <p rend="indented">Where our road crossed the Katjuri<ref xml:id="fnref-p0008-1" type="noteref" target="#fn-p0008-1">1</ref> river we had to leave the carriage and get into palanquins. The grey sands of the river stretched away in every direction. They rightly call it the <hi rend="italic">bed</hi> of the river in English. It is indeed like a bed which the sleeper has left in the morning. Every movement of the river, as it rolled from side to side, and pressed with the weight of its water now here now there, is left impressed on the hollows and billows of its sand bed, which has not been made since.</p>
-<p rend="indented">At the further edge of this vast sandy course, the thin crystal-clear stream of the river is seen. In the <hi rend="italic">Meghaduta</hi> of Kalidas there is a description of a <hi rend="italic">Yaksha</hi> woman, pining for her banished husband <pb xml:id="page-9" n="7"/> , <hi rend="italic">lying merged in the edge of her deserted bed, like the thin line of the old moon in its last phase at the limit of the eastern horizon.</hi> This thin, worn river, athirst for the rains, furnishes another simile.</p>
+<p rend="indented">At the further edge of this vast sandy course, the thin crystal-clear stream of the river is seen. In the <hi rend="italic">Meghaduta</hi> of Kalidas there is a description of a <hi rend="italic">Yaksha</hi> woman, pining for her banished husband, <pb xml:id="page-9" n="7"/> <hi rend="italic">lying merged in the edge of her deserted bed, like the thin line of the old moon in its last phase at the limit of the eastern horizon.</hi> This thin, worn river, athirst for the rains, furnishes another simile.</p>
 <p rend="indented">A fine road runs from Cuttack to Puri. It rises high out of the fields on either side, and is shaded with great big trees, mostly mangoes, which in this season are in flower, charging the air with their cloying fragrance. It passes by village after village surrounded with groves of mango, <hi rend="italic">aswattha,</hi> cocoanut and day palm.</p>
 <p rend="indented">Here and there half dry water courses crossed our path, and near these, strings of mat-covered bullock-carts were drawn up; little thatched sweet-meat shops lined the road-side; and in shelters under the shade of trees pilgrims were busy attending to their meals. At the sight of each newly arriving carriage or cart, beggars swarmed round with a variety of wails in a medley of tongues.</p>
 <p rend="indented">As we drew nearer and nearer to Puri, the concourse of pilgrims grew denser and denser, some scattered in groups along the road, others under the trees or by the side of pools, stretched in repose, or cooking their food. At frequent intervals there came temples, pilgrim rest houses and big artificial tanks.<ref xml:id="fnref-p0009-1" type="noteref" target="#fn-p0009-1">1</ref> <pb xml:id="page-10" n="8"/> Then, to our right hand there spreads a large lake-like sheet of water beyond which the temple of Jagannath towers into view. And, suddenly, as we emerge from a clump of trees, we see before us a broad stretch of sand, edged with a deep blue line—the sea!</p>

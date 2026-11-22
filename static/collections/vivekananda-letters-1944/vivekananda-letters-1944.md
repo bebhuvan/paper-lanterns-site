@@ -2,17 +2,14 @@
 
 - **Author / Editor**: Swami Vivekananda
 - **Year**: 1944
-- **Letters**: 320
+- **Letters**: 317
 - **Pages**: 522
 
 ## Frontmatter
 
-### LETTERS OF
-SWAMI VIVEKANANDA
+### LETTERS OF SWAMI VIVEKANANDA
 
-### LETTERS
-OF
-SWAMI VIVEKANANDA
+### LETTERS OF SWAMI VIVEKANANDA
 
 Ramakrishna Order Emblem
 
@@ -83,8 +80,7 @@ Photogravure portrait of Swami Vivekananda
 
 ### Letter 1: Vivekananda → “Master Mahashay”
 
-### *(1)
-To “Master Mahashay”*
+### *(1) To “Master Mahashay”*
 
 <span class="small-caps">Auntpur</span>,  
 *February*, 1888.
@@ -97,8 +93,7 @@ P.S. My heart leaps with joy—and it is a wonder that I do not go mad when I fi
 
 ### Letter 2: Pramada Das Mitra
 
-### *(2)
-To Sj. Pramada Das Mitra*
+### *(2) To Sj. Pramada Das Mitra*
 
 <span class="small-caps">Brindaban</span>,[^fn-p0016-1]  
 *12th Aug.*, 1888.
@@ -107,8 +102,7 @@ To Sj. Pramada Das Mitra*
 
 ### Letter 3: Pramada Das Mitra
 
-### (3)
-*To The Same*
+### (3) *To The Same*
 
 <span class="small-caps">Brindaban</span>,*  
 *20th Aug., 1888.*
@@ -117,8 +111,7 @@ To Sj. Pramada Das Mitra*
 
 ### Letter 4: Pramada Das Mitra
 
-### (4)
-*To The Same*
+### (4) *To The Same*
 
 <span class="small-caps">The Baranagore Math</span>,*  
 *19th Nov., 1888.*
@@ -299,8 +292,7 @@ Well, your disease is not leaving off yet ! I don’t think this is a place for 
 
 ### Letter 14: Pramada Das Mitra
 
-### (14)
-*To Sj. Pramada Das Mitra*
+### (14) *To Sj. Pramada Das Mitra*
 
 <span class="small-caps">Baidyanath,</span>*  
 *26th Dec., 1889.*
@@ -313,8 +305,7 @@ My idea is to remain there for some time, and to watch how Vishwanatha and Annap
 
 ### Letter 15: Pramada Das Mitra
 
-### (15)
-*To The Same*
+### (15) *To The Same*
 
 <span class="small-caps">Allahabad,</span>*  
 *30th Dec., 1889.*
@@ -349,8 +340,7 @@ My address is—C/o Govinda Chandra Basu, Chauk, Allahabad.
 
 ### Letter 18: Ram / Krishnamayi / Indu
 
-### (18)
-*Ram, Krishnamayi and Indu*
+### (18) *Ram, Krishnamayi and Indu*
 
 <span class="small-caps">ALLAHABAD</span>,  
 *5th January, 1890.*
@@ -359,8 +349,7 @@ My address is—C/o Govinda Chandra Basu, Chauk, Allahabad.
 
 ### Letter 19: Vivekananda → Pramada Das Mitra
 
-### (19)
-*To Sj. Pramada Das Mitra*
+### (19) *To Sj. Pramada Das Mitra*
 
 C/o <span class="small-caps">BABU SATISHCHANDRA MUKHERJI</span>,*  
 <span class="small-caps">GORABAZAR, GHAZIPUR</span>,  
@@ -437,8 +426,7 @@ P.S. Even though one can’t have his company, no trouble taken for the sake of 
 
 ### Letter 25: Pramada Das Mitra
 
-### (25)
-*To The Same*
+### (25) *To The Same*
 
 <span class="small-caps">Ghazipur,</span>  
 *14th Feb., 1890.*
@@ -449,8 +437,7 @@ P. S. Rakhal and Subodh have come to Brindaban after visiting Omkar, Girnar, Abu
 
 ### Letter 26: Balaram Bose
 
-### (26)
-*To Sj. Balaram Bose*
+### (26) *To Sj. Balaram Bose*
 
 <span class="small-caps">C/o Satish Mukherji,</span>*  
 <span class="small-caps">Gorabazar, Ghazipur,</span>  
@@ -473,8 +460,7 @@ P.S. If Mother has come, please convey to her my countless salutations, and ask 
 
 ### Letter 28: Pramada Das Mitra
 
-### (28)
-*To Sj. Pramada Das Mitra*
+### (28) *To Sj. Pramada Das Mitra*
 
 <span class="small-caps">Ghazipur,</span>*  
 *Feb., 1890.*
@@ -483,15 +469,14 @@ P.S. If Mother has come, please convey to her my countless salutations, and ask 
 
 ### Letter 29: VIVEKANANDA → Swami Akhandananda
 
-### (29)
-*To Swami Akhandananda*
+### (29) *To Swami Akhandananda*
 
 <span class="small-caps">Ghazipur,</span>*  
 *February, 1890.*
 
 <span class="small-caps">Beloved Akhandananda</span>—Very glad to receive your letter. What you have written about Thibet is very promising, and I shall try to go there once. In Sanskrit Thibet is called the Uttarakuruvarsha, and is not a land of Mlechchhas. Being the highest tableland in the world it is extremely cold, but by degrees one may become accustomed to it. Of the manners and customs of the Thibetans you have written nothing; why, if they are so hospitable, did they not allow you to go on? Please write everything in detail, in a long letter. I am sorry to learn that you will not be able to come, for I had a great longing to see you. It seems that I love you more than all others. However, I shall try to get rid of this Maya too.
 
-The Tântric rites among the Thibetans that you have spoken of arose in India itself during the decline of Buddhism. It is my belief that the Tantras in vogue amongst us, were the creation of the Buddhists themselves Those Tantric rites are even more dreadful than our doctrine of Vâmâchâra; for in them adultery had got a free rein, and it was only when the Buddhists became demoralised through immorality, that they were driven away by Kumarila Bhatta. As some Sannyasins speak of Shankara, or the Bâuls of Sri Chaitanya, that he was in secret an epicure, a drunkard and one addicted to all sorts of abominable practices—so the modern Tantric Buddhists speak of the Lord Buddha as a dire Vâmâchârin, and give an obscene interpretation to the many beautiful precepts of the Prajnâpâramitâ, such as the Tattvagatha and the like. The result of all this has been that the Buddhists are divided into two sects nowadays; the Burmese and the Sinhalese have generally set the Tantras at naught, have likewise banished the Hindu gods and goddesses, and at the same time have thrown overboard the Amitâbha Buddha held in regard among the Northern School of Buddhists. The long and short of it is that the Amitabha Buddha and the other gods whom the Northern School worship, are not mentioned in books like the Prajnaparamita , but a lot of gods and goddesses are recommended for worship. And the Southern people have wilfully transgressed the Shastras and eschewed the gods and goddesses. The phase of Buddhism which declares “Everything for others,” and which you find spread throughout Thibet, has greatly struck modern Europe. Concerning that phase, however, I have a good deal to say—which it is impossible to do in this letter. What Buddha did was to break wide open the gates of that very religion which was confined in the Upanishads to a particular caste. What special greatness does his theory of Nirvana confer on him? His greatness lies in his unrivalled sympathy. The high orders of Samadhi etc., that lend gravity to his religion, are almost all there in the Vedas; what are absent there are his intellect and heart, which have never since been paralleled throughout the history of the world.
+The Tântric rites among the Thibetans that you have spoken of arose in India itself during the decline of Buddhism. It is my belief that the Tantras in vogue amongst us, were the creation of the Buddhists themselves Those Tantric rites are even more dreadful than our doctrine of Vâmâchâra; for in them adultery had got a free rein, and it was only when the Buddhists became demoralised through immorality, that they were driven away by Kumarila Bhatta. As some Sannyasins speak of Shankara, or the Bâuls of Sri Chaitanya, that he was in secret an epicure, a drunkard and one addicted to all sorts of abominable practices—so the modern Tantric Buddhists speak of the Lord Buddha as a dire Vâmâchârin, and give an obscene interpretation to the many beautiful precepts of the Prajnâpâramitâ, such as the Tattvagatha and the like. The result of all this has been that the Buddhists are divided into two sects nowadays; the Burmese and the Sinhalese have generally set the Tantras at naught, have likewise banished the Hindu gods and goddesses, and at the same time have thrown overboard the Amitâbha Buddha held in regard among the Northern School of Buddhists. The long and short of it is that the Amitabha Buddha and the other gods whom the Northern School worship, are not mentioned in books like the Prajnaparamita, but a lot of gods and goddesses are recommended for worship. And the Southern people have wilfully transgressed the Shastras and eschewed the gods and goddesses. The phase of Buddhism which declares “Everything for others,” and which you find spread throughout Thibet, has greatly struck modern Europe. Concerning that phase, however, I have a good deal to say—which it is impossible to do in this letter. What Buddha did was to break wide open the gates of that very religion which was confined in the Upanishads to a particular caste. What special greatness does his theory of Nirvana confer on him? His greatness lies in his unrivalled sympathy. The high orders of Samadhi etc., that lend gravity to his religion, are almost all there in the Vedas; what are absent there are his intellect and heart, which have never since been paralleled throughout the history of the world.
 
 The Vedic doctrine of Karma is the same as in Judaism and all other religions, that is to say, the purification of the mind through sacrifices and such other external means—and Buddha was the first man who stood against it. But the inner essence of the ideas remained as of old—look at that doctrine of mental exercises which he preached, and that mandate of his to believe in the Suttas instead of the Vedas. Caste also remained as of old, (caste was not wholly obsolete at the time of Buddha) but it was now determined by personal qualifications, and those that were not believers in his religion were declared as heretics, all in the old style. “Heretic” was a very ancient word with the Buddhists, but then they never had recourse to the sword (good souls !) and had great toleration. Argument blew up the Vedas, but what is the proof of your religion ?—Well, put faith in it !—the same procedure as in all religions. It was however an imperative necessity of the times and that was the reason of his having incarnated himself. His doctrine is like that of Kapila. But that of Shankara, how far more grand and rational ! Buddha and Kapila are always saying—the world is full of grief and nothing but that—flee from it—aye, for your life, do ! Is happiness altogether absent here? It is a statement of the nature of what the Brahmos say—the world is full of happiness ! There is grief, forsooth, but what can be done? Perchance some will suggest that grief itself will appear as happiness when you become used to it by constant sufferance. Shankara does not take this line of argument—he says this world *is and is not*—*manifold* yet *one*, I shall unravel its mystery—I shall know whether grief be there, or anything else; I do not flee from it as from a bugbear. I will know all about it—as to the infinite pain that attends its search, well, I am embracing it in its fullest measure .Am I a beast that you frighten me with happiness and misery, decay and death, which are but the outcome of the senses? I will know about it—will give up my life for it. There is nothing to know about in this world—therefore, if there be anything beyond this relative existence—what the Lord Buddha has designated as Prajnâpâram—the transcendental—if such there be, I want that alone. Whether happiness attends it or grief, I do not care. What a lofty idea ! How grand ! The religion of Buddha has reared itself on the Upanishads, and upon that also the philosophy of Shankara. Only, Shankara had not the slightest bit of Buddha's wonderful heart, dry intellect merely—for fear of the Tantras, for fear of the mob, in his attempt to cure a boil he amputated the very arm itself ![^fn-p0047-1] One has to write a big volume if one has to write about them at all—but I have neither the learning nor the leisure for it.
 
@@ -572,9 +557,7 @@ P.S. To no big person am I going any longer,—
 
 “Remain, O mind, within yourself, go not to anybody else’s door; whatever you seek, you shall obtain sitting at your ease, only seek for it in the privacy of your heart. There is the supreme Treasure, the philosopher’s stone, and He can give whatever you ask for; for countless gems, O mind, lie strewn about the portals of His abode. He is the wishing-stone that confers boons at the mere thought.” Thus says the poet Kamalakanta.
 
-So now the great conclusion is that Ramakrishna has no peer; nowhere else in this world exists that unprecedented perfection, that wonderful kindness for all that
-
-does not stop to justify itself, that intense sympathy for man in bondage. Either he must be the Avatara as he himself used to say, or else the ever-perfected divine man, whom the Vedanta speaks of as the free one, who assumes a body for the good of humanity. This is my conviction sure and certain—and the worship of such a divine man has been referred to by Patanjali in the aphorism, “Or the goal may be attained by meditating on a saint.”[^fn-p0054-1]
+So now the great conclusion is that Ramakrishna has no peer; nowhere else in this world exists that unprecedented perfection, that wonderful kindness for all that does not stop to justify itself, that intense sympathy for man in bondage. Either he must be the Avatara as he himself used to say, or else the ever-perfected divine man, whom the Vedanta speaks of as the free one, who assumes a body for the good of humanity. This is my conviction sure and certain—and the worship of such a divine man has been referred to by Patanjali in the aphorism, “Or the goal may be attained by meditating on a saint.”[^fn-p0054-1]
 
 Never during his life did he refuse a single prayer of mine. Millions of offences has he forgiven me. Such great love even my parents never had for me. There is no poetry, no exaggeration in all this. It is the bare truth and every disciple of his knows it. In times of great danger, great temptation, I have wept in extreme agony with the prayer, “O God, do save me,” and no response has come from anybody, but this wonderful saint, or Avatara, or anything else he may be, has come to know of all my affliction through his powers of insight into human hearts and has lifted it off—in spite of my desire to the contrary—after getting me brought to his presence. If the soul be deathless and so if he still lives, I pray to him again and again, “O Bhagavân Ramakrishna, thou infinite ocean of mercy and my only refuge, do graciously fulfil the desires of my esteemed friend, who is every inch a great man.” May he impart to you all good, he whom alone I have found in this world to be like an ocean of unconditioned mercy ! Shantih, Shantih, Shantih.
 
@@ -774,11 +757,9 @@ So many gushing inquiries simply betray a weak mind. Arise, ye mighty one, and b
 
 <span class="small-caps">Dear</span> Govinda Sahay—. . . . Try to be pure and unselfish—that is the whole of religion. . . . —Yours with love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 44
+### Letter 44: Govinda Sahay
 
 ### (44)
-
-### Letter 45: Govinda Sahay
 
 ### *To The Same.*
 
@@ -789,7 +770,7 @@ So many gushing inquiries simply betray a weak mind. Arise, ye mighty one, and b
 
 P. S. Don’t be ruffled if now and then you get a brush from the world; it will be over in no time, and everything will be all right.
 
-### Letter 46: VIVEKANANDA → Govinda Sahay
+### Letter 45: VIVEKANANDA → Govinda Sahay
 
 ### (45)
 
@@ -802,7 +783,7 @@ P. S. Don’t be ruffled if now and then you get a brush from the world; it will
 
 Try hard with your Sanskrit, studies.—Yours with love, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 47: Pandit Shankarlal
+### Letter 46: Pandit Shankarlal
 
 ### (46)
 
@@ -819,7 +800,7 @@ Now I would tell you something else. The Hindu mind was ever deductive and never
 
 So you see, we must travel, we must go to foreign parts. We must see how the engine of society works in other countries, and keep free and open communication with what is going on in the minds of other nations, if we really want to be a nation again. And over and above all, we must cease to tyrannise. To what a ludicrous state are we brought! If a Bhângi comes to anybody, as a Bhângi, he would be shunned as the plague; but no sooner does he get a cupful of water poured upon his head with some mutterings of prayers by a Pâdri, and get a coat to his back, no matter how threadbare, and come into the room of the most orthodox Hindu—I don’t see the man who then dares refuse him a chair and a hearty shake of the hands!! Irony can go no farther. And come and see what they, the Padris, are doing here in the Dakshin (Deccan). They are converting the lower classes by lakhs; and in Travancore, the most priest-ridden country in India—where every bit of land is owned by the Brahmins, and where the females, even of the *royal family*, hold it as high honour to live in concubinage with the Brahmins—nearly one-fourth has become Christian! And I cannot blame them; what part have they in David and what in Jesse? When, when, O Lord, shall man be brother to man?—Yours etc., <span class="small-caps">Vivekananda.</span>
 
-### Letter 48: Sj. Alasinga Perumal
+### Letter 47: Sj. Alasinga Perumal
 
 ### (47)
 
@@ -834,10 +815,9 @@ So all my plans have been dashed to the ground. That is why I wanted to hurry of
 
 “ Thy will be done on earth as it is in heaven, for Thine is the glory and the kingdom for ever and ever.” My compliments to you all.—Yours etc., <span class="small-caps">Sacchidananda</span>.[^fn-p0071-1]
 
-### Letter 49: Vivekananda → Dr. Nanjunda Rao, M.D.
+### Letter 48: Vivekananda → Dr. Nanjunda Rao, M.D.
 
-### (48)
-*To Dr. Nanjunda Rao, M.D.*
+### (48) *To Dr. Nanjunda Rao, M.D.*
 
 <span class="small-caps">Khetri</span>,  
 *27th April, 1893.*
@@ -848,7 +828,7 @@ As to my taking ship I have already made arrangements from Bombay. Tell Mr. Bhat
 
 May the Giver of all good bless you all here and hereafter, will be the constant prayer of—<span class="small-caps">Vivekananda</span>.
 
-### Letter 50: Sj. Haridas Viharidas Desai
+### Letter 49: Sj. Haridas Viharidas Desai
 
 ### (49)
 
@@ -865,7 +845,7 @@ May the Giver of all good bless you all here and hereafter, will be the constant
 
 I thoroughly believe that a good, unselfish and holy man like you, whose whole life has been devoted to doing good to others, has already reached this basis of firmness which the Lord Himself has styled as “rest upon Brahma” in the Gita. May the blows you have received draw thee closer to that Being who is the only one to be loved here and hereafter, so that you may realise Him in everything past, present and future, and find everything present or lost in Him and Him alone. Amen.—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 51: Srimati Indumati Mitra
+### Letter 50: Srimati Indumati Mitra
 
 ### (50)
 
@@ -876,7 +856,7 @@ I thoroughly believe that a good, unselfish and holy man like you, whose whole l
 
 <span class="small-caps">Dear Mother</span>—Very glad to receive your letter and that of dear Haripada. Please be not sorry that I could not write to you very often. I am always praying to the Lord for your welfare. I cannot go to Belgaum now as arrangements are all ready for my starting for America on the 31st next. The Lord willing, I shall see you on returning from my travels in America and Europe. Always resign yourselves to Lord Sri Krishna. Always remember that we are but puppets in the Lord’s hands. Remain pure always. Please take care not to become impure even in thought, as in speech and action; always try to do good to others as far as in you lies. And remember that the paramount duty of a woman is to serve her husband by thought, word and deed. Please read the Gita every day to the best of your opportunity. Why have you signed yourself as Indumati *Dasi*? The Vaishya and the Shudra should sign as *Dâsa* and *Dâsi*, but the Brahmin and Kshatriya should write *Deva* and *Devi*. Moreover, these distinctions of caste and the like have been the invention of our modern sapient Brahmins. Who is a servant and to whom? Everyone is a servant of the Lord Hari. Hence a woman should use her patronymic, that is, the surname of her husband. This is the ancient Vedic custom, as for example, such and such *Mitra* or the like. It is needless to write much, dear mother; always know that I am constantly praying for your well-being. From America I shall now and then write to you letters with descriptions of the wonderful things there. I am now at Bombay, and shall stay here up to the 31st. The Private Secretary to the Maharaja of Khetri has come here to see me off. With blessings,—Yours sincerely, <span class="small-caps">Vivekananda.</span>
 
-### Letter 52: V. → Sj. Alasinga Perumal
+### Letter 51: V. → Sj. Alasinga Perumal
 
 ### *(51)*
 
@@ -915,7 +895,7 @@ The Japanese seem now to have fully awakened themselves to the necessity of the 
 
 The match factories are simply a sight to see, and they are bent upon making everything they want in their own country. There is a Japanese line of steamers plying between China and Japan, which shortly intends running between Bombay and Yokohama.
 
-I saw quite a lot of temples. In every temple there are some Sanskrit Mantras written in old Bengali characters. Only a few of the priests know Sanskrit. But they are an intelligent sect. The modern rage for progress has penetrated even the priesthood. I cannot write what I have in my mind about the Japs in one short letter. Only I want that numbers of our young men should pay a visit to Japan every year. To the Japanese, India is still the dreamland of everything high and good. And you, what are you? . . . talking twaddle all your lives, vain talkers, what are you? Come, see these people and then go and hide your faces in shame. A race of dotards, you lose your caste if you come out! Sitting down these hundreds of years with an ever-increasing load of crystallised superstition on your heads, for hundreds of years spending all your energy upon discussing the touchableness or untouchableness of this food or that, with all humanity crushed out of you by the continuous social tyranny of ages—what are you? And what are you doing now? . . . promenading the sea-shores with books in your hands—repeating undigested stray bits of European brainwork , and the whole soul bent upon getting a thirty rupees clerkship or at best becoming a lawyer—the height of young India’s ambition—and every student with a whole brood of hungry children cackling at his heels and asking for bread ! Is there not water enough in the sea to drown you, books, gowns, university diplomas, and all ?
+I saw quite a lot of temples. In every temple there are some Sanskrit Mantras written in old Bengali characters. Only a few of the priests know Sanskrit. But they are an intelligent sect. The modern rage for progress has penetrated even the priesthood. I cannot write what I have in my mind about the Japs in one short letter. Only I want that numbers of our young men should pay a visit to Japan every year. To the Japanese, India is still the dreamland of everything high and good. And you, what are you? . . . talking twaddle all your lives, vain talkers, what are you? Come, see these people and then go and hide your faces in shame. A race of dotards, you lose your caste if you come out! Sitting down these hundreds of years with an ever-increasing load of crystallised superstition on your heads, for hundreds of years spending all your energy upon discussing the touchableness or untouchableness of this food or that, with all humanity crushed out of you by the continuous social tyranny of ages—what are you? And what are you doing now? . . . promenading the sea-shores with books in your hands—repeating undigested stray bits of European brainwork, and the whole soul bent upon getting a thirty rupees clerkship or at best becoming a lawyer—the height of young India’s ambition—and every student with a whole brood of hungry children cackling at his heels and asking for bread ! Is there not water enough in the sea to drown you, books, gowns, university diplomas, and all ?
 
 Come, be men ! Kick out the priests who are always against progress. Because they would never mend; their hearts would never become big. They are the offspring of centuries of superstition and tyranny. Root out priestcraft first. Come, be men. Come out of your narrow holes and have a look abroad. See how nations are on the march. Do you love man ? Do you love your country ? Then come, let us struggle for higher and better things, look not back, no, not even if you see the dearest and nearest cry. Look not back, but forward !
 
@@ -925,7 +905,7 @@ P. S. Calm and silent and steady work, and no newspaper humbug, no name-making, 
 
 —V.
 
-### Letter 53: Alasinga
+### Letter 52: Alasinga
 
 ### (52)
 
@@ -973,7 +953,7 @@ Gradually I can make my way; but that means a longer residence in this horribly 
 
 I must try to the end, and even if I die of cold or disease or hunger here, you take up the task. Holiness, sincerity and faith. First, I will try in America and if I fail, I will try in England; if I fail there too, I can go back to India and wait for further commands from On High.—Yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 54: V. → Alasinga
+### Letter 53: V. → Alasinga
 
 ### (53)
 
@@ -984,7 +964,7 @@ I must try to the end, and even if I die of cold or disease or hunger here, you 
 
 <span class="small-caps">Dear</span> Alasinga—I am so sorry that a moment’s weakness on my part should cause you so much trouble; I was out of pocket at that time. Since then the Lord sent me friends. At a village near Boston I made the acquaintance of Dr. Wright, Professor of Greek in the Harvard University. He sympathised with me very much and urged upon me the necessity of going to the Parliament of Religions, which he thought would give me an introduction to the nation. As I was not acquainted with anybody, the Professor undertook to arrange everything for me, and eventually I came back to Chicago. Here I, together with the oriental and occidental delegates to the Parliament of Religions, were all lodged in the house of a gentleman.
 
-On the morning of the opening of the Parliament, we all assembled in a building called the Art Palace, where one huge, and other smaller temporary halls were erected for the sittings of the Parliament. Men from all nations were there. From India, were Mazoomdar of the Brahmo Samaj, and Nagarkar of Bombay, Mr. Gandhi representing the Jains and Mr. Chakravarti representing Theosophy with Mrs. Annie Besant. Of these men, Mazoomdar and I were, of course, old friends, and Chakravarti knew me by name. There was a grand procession, and we were all marshalled on to the platform. Imagine a hall below and a huge gallery above, packed with six or seven thousand men and women representing the best culture of the country, and on the platform learned men of all the nations of the earth. And I, who never spoke in public in my life, to address this august assemblage !! It was opened in great form with music and ceremony and speeches; then the delegates were introduced one by one, and they stepped up and spoke. Of course my heart was fluttering and my tongue nearly dried up; I was so nervous, and could not venture to speak in the morning. Mazoomdar made a nice speech—Chakravarti a nicer one, and they were much applauded. They were all prepared and came with ready-made speeches. I was a fool and had none, but bowed down to Devi Sarasvati and stepped up, and Dr. Barrows introduced me. I made a short speech. I addressed the assembly as, “Sisters and Brothers of America”—a deafening applause of two minutes followed, and then I proceeded , and when it was finished I sat down, almost exhausted with emotion. The next day all the papers announced that my speech was the hit of the day, and I became known to the whole of America. Truly has it been said by the great commentator Shridhara मूकं करोति वाचालं—“Who maketh the dumb a fluent speaker.” His name be praised! From that day I became a celebrity, and the day I read my paper on Hinduism, the hall was packed as it had never been before. I quote to you from one of the papers: “Ladies, ladies, ladies packing every place—filling every corner, they patiently waited and waited while the papers that separated them from Vivekananda were read,” etc. You would be astonished if I sent over to you the newspaper cuttings, but you already know that I am a hater of celebrity. Suffice it to say, that whenever I went on the platform a deafening applause would be raised for me. Nearly all the papers paid high tributes to me, and even the most bigoted had to admit that “This man with his handsome face and magnetic presence and wonderful oratory is the most prominent figure in the Parliament.” etc., etc.
+On the morning of the opening of the Parliament, we all assembled in a building called the Art Palace, where one huge, and other smaller temporary halls were erected for the sittings of the Parliament. Men from all nations were there. From India, were Mazoomdar of the Brahmo Samaj, and Nagarkar of Bombay, Mr. Gandhi representing the Jains and Mr. Chakravarti representing Theosophy with Mrs. Annie Besant. Of these men, Mazoomdar and I were, of course, old friends, and Chakravarti knew me by name. There was a grand procession, and we were all marshalled on to the platform. Imagine a hall below and a huge gallery above, packed with six or seven thousand men and women representing the best culture of the country, and on the platform learned men of all the nations of the earth. And I, who never spoke in public in my life, to address this august assemblage !! It was opened in great form with music and ceremony and speeches; then the delegates were introduced one by one, and they stepped up and spoke. Of course my heart was fluttering and my tongue nearly dried up; I was so nervous, and could not venture to speak in the morning. Mazoomdar made a nice speech—Chakravarti a nicer one, and they were much applauded. They were all prepared and came with ready-made speeches. I was a fool and had none, but bowed down to Devi Sarasvati and stepped up, and Dr. Barrows introduced me. I made a short speech. I addressed the assembly as, “Sisters and Brothers of America”—a deafening applause of two minutes followed, and then I proceeded, and when it was finished I sat down, almost exhausted with emotion. The next day all the papers announced that my speech was the hit of the day, and I became known to the whole of America. Truly has it been said by the great commentator Shridhara मूकं करोति वाचालं—“Who maketh the dumb a fluent speaker.” His name be praised! From that day I became a celebrity, and the day I read my paper on Hinduism, the hall was packed as it had never been before. I quote to you from one of the papers: “Ladies, ladies, ladies packing every place—filling every corner, they patiently waited and waited while the papers that separated them from Vivekananda were read,” etc. You would be astonished if I sent over to you the newspaper cuttings, but you already know that I am a hater of celebrity. Suffice it to say, that whenever I went on the platform a deafening applause would be raised for me. Nearly all the papers paid high tributes to me, and even the most bigoted had to admit that “This man with his handsome face and magnetic presence and wonderful oratory is the most prominent figure in the Parliament.” etc., etc.
 
 And how to speak of their kindness! I have no more wants now, I am well-off, and all the money that I require to visit Europe I shall get from here. . . . A boy called ——Acharya has cropped up in our midst. He has been loafing about the city for the last three years. Loafing or no loafing, I like him, but please write to me all about him, if you know anything. He knows you. He came in the year of the Paris Exhibition to Europe.
 
@@ -996,7 +976,7 @@ I must remain in this country at least through the winter, and then go to Europe
 
 Day by day I am feeling that the Lord is with me, and I am trying to follow His direction. His will be done. . . . We will do great things for the world, and that for the sake of doing good and not for name and fame.
 
-“Ours not to reason why, ours but to do and die.” Be of good cheer and believe that we are selected by the Lord to do great things, and we will do them. Hold yourself in readiness, i.e., be pure and holy, and love for love’s sake. Love the poor, the miserable, the downtrodden, and the Lord will bless you.
+“Ours not to reason why, ours but to do and die.” Be of good cheer and believe that we are selected by the Lord to do great things, and we will do them. Hold yourself in readiness, i.e., be pure and holy, and love for love’s sake. Love the poor, the miserable, the down-trodden, and the Lord will bless you.
 
 See the Raja of Ramnad and other friends from time to time, and urge them to sympathise with the masses of India. Tell them how they are standing on the neck of the poor, and that they are not fit to be called men if they do not try to raise them up. Be fearless, the Lord is with you, and He will yet raise the starving and ignorant millions of India. A railway porter here is better educated than many of your young men and most of your princes. Every American woman has far better education than can be conceived of by the majority of Hindu women. Why cannot we have the same education? We must.
 
@@ -1010,7 +990,7 @@ A Christian lady from Poona, Miss Sorabji and the Jain representative, Mr. Gandh
 
 Mr. Ingersoll gets five to six hundred dollars a lecture. He is the most celebrated lecturer in this country.—V.
 
-### Letter 55: Vivekananda → Sj. Haripada Mitra
+### Letter 54: Vivekananda → Sj. Haripada Mitra
 
 ### (54)
 
@@ -1034,7 +1014,7 @@ As regards spirituality, the Americans are far inferior to us, but their society
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 56: Sj. D. R. Balaji Rao
+### Letter 55: Sj. D. R. Balaji Rao
 
 ### (55)
 
@@ -1053,7 +1033,7 @@ Ours but to do and die.”
 
 Blessed be Thy name, O Lord ! And Thy will be done. Lord, we know that we are to submit; Lord, we know that it is the Mother’s hand that is striking, and “the spirit is willing but the flesh is weak.” There is, Father of Love, an agony at the heart which is fighting against that calm resignation which Thou teachest. Give us strength, O Thou who saw Thy whole family destroyed before Thine eyes, with Thine hands crossed on Thy breast. Come, Lord, Thou Great Teacher, who hast taught us that the soldier is only to obey and speak not. Come Lord, come, Arjuna’s charioteer, and teach me, as Thou once taughtest him, that resignation in *Thyself* is the highest end and aim of this life, so that with those great ones of old, I may also firmly and resignedly cry, *Om Sri Krishnârpanamastu.* May the Lord send you peace is the prayer, day and night, of—<span class="small-caps">Vivekananda.</span>
 
-### Letter 57: Vivekananda → Madras Disciples
+### Letter 56: Vivekananda → Madras Disciples
 
 ### (56)
 
@@ -1080,10 +1060,9 @@ Onward, brave lads !—Yours affectionately, <span class="small-caps">Vivekanand
 
 P.S. Preach the idea of elevating the masses by means of a central college, and bringing education as well as religion to the door of the poor by means of missionaries trained in this college. Try to interest everybody.—V.
 
-### Letter 58: Sj. Haridas Viharidas Desai
+### Letter 57: Sj. Haridas Viharidas Desai
 
-### (57)
-*To Sj. Haridas Viharidas Desai*
+### (57) *To Sj. Haridas Viharidas Desai*
 
 <span class="small-caps">Chicago,</span>  
 *29th January, 1894.*
@@ -1109,7 +1088,7 @@ Three men cannot act in concert together in India for five minutes. Each one str
 
 You are one of the few noble natures who stand out as rocks out of water in this sea of universal stagnation. Lord bless you for ever and ever !—Yours ever faithfully, <span class="small-caps">Vivekananda.</span>
 
-### Letter 59: Vivekananda → “ Kidi ”
+### Letter 58: Vivekananda → “ Kidi ”
 
 ### (58)
 
@@ -1167,7 +1146,7 @@ Think of me as one who has done all his duty and is now dead and gone. Think tha
 
 With my blessings on you all, my brave steadfast and loving souls.—Yours, <span class="small-caps">Vivekananda.</span>
 
-### Letter 60: an American friend
+### Letter 59
 
 ### (59)
 
@@ -1184,7 +1163,7 @@ I am really not “cyclonic” at all. Far from it. The thing that I want it not
 
 How I should like to become dumb for some years, and not talk at all ! I was not made for these worldly fights and struggles. I am naturally dreamy and slothful. I am a born idealist, and can only live in a world of dreams. The touch of material things disturbs my visions and makes me unhappy. But Thy will be done !
 
-### Letter 61: Swami Brahmananda
+### Letter 60: Swami Brahmananda
 
 ### (60)
 
@@ -1230,7 +1209,7 @@ You may perhaps think what Utopian nonsense all this is ! You little know what i
 
 Nowhere in the world have I come across such “frogs-in-the-well” as we are. Let anything new come from some foreign country, and America will be the first to accept it. But we?—oh, there are none like us in the world, we men of Aryan blood!! Where that heredity really expresses itself, I do not see. . . . Yet they are descendants of the Aryans!—Ever yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 62: Sj. Alasinga Perumal
+### Letter 61: Sj. Alasinga Perumal
 
 ### (61)
 
@@ -1247,7 +1226,7 @@ Old Hinduism for ever ! . . . Up, up, my boys, we are sure to win !
 
 . . . When once we begin to work we shall have a tremendous “boom,” but I do not want to talk without working. . . . Yours, with all blessings, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 63: DEAR ALASINGA
+### Letter 62: DEAR ALASINGA
 
 ### (62)
 
@@ -1270,7 +1249,7 @@ My blessings on all. Tell all the noble souls there who helped our cause, that I
 
 I do not require any help. Try to get up a fund, buy some magic-lanterns, maps, globes, etc., and some chemicals. Get every evening a crowd of the poor and the low, even the pariahs, and lecture to them about religion first, and then teach them through the magic-lantern and other things, astronomy, geography, etc., in the dialect of the people. Train up a band of fiery young men. Put your fire in them and gradually increase the organisation letting it widen and widen its circle. Do the best you can, do not wait to cross the river when the water has all run down. Printing magazines, papers, etc., is good, no doubt, but actual work, my boys, even if infinitesimal, is better than eternal scribbling and talking. Call a meeting at Bhattacharya’s, get a little money and buy those things I have just now stated, hire a hut and go to work. Magazines are *secondary*, but this is primary. You must have a hold on the masses. Do not be afraid of a small beginning, great things come afterwards. Be courageous. Do not try to lead your brethren, but serve them. The brutal mania for leading has sunk many a great ship in the waters of life. Take care especially of that, i.e., be unselfish even unto death, and work. I could not write all I was going to say, but the Lord will give you all understanding, my brave boys. At it, my boys ! Glory unto the Lord !—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 64: Sj. Haridas Viharidas Desai
+### Letter 63: Sj. Haridas Viharidas Desai
 
 ### (63)
 
@@ -1293,7 +1272,7 @@ Even supposing, we are in a position to open schools in each village free, still
 
 Now suppose the villagers after their day’s work have come to their village, and sitting under a tree or somewhere are smoking and talking the time away. Suppose two of these educated Sannyasins get hold of them there and with a camera throw astronomical or other pictures, scenes from different nations, histories, etc. Thus with globes, maps, etc.—and all this orally—how much can be done that way, Diwanji ! It is not that the eye is the only door of knowledge, the ear can be the same. So they would have ideas and morality and hope for better. Here our work ends. Let them do the rest. What would make the Sannyasins do this sacrifice, undertake such a task?—religious enthusiasm. Every new religious wave requires a new centre. The old religion can be revivified only by a new centre. Hang your dogmas or doctrines, they never pay. It is a character, a life, a centre, a God-man that must lead the way, that must be the centre round which all other elements will gather themselves and then fall like a tidal wave upon the society, carrying all before them, washing away all impurities. Again, a piece of wood can be easily cut only along the grains. So the old Hinduism can be reformed only through Hinduism, and not through the new-fangled reform movements. At the same time, the reformers must be able to unite in themselves the culture of both the East and the West. Now, do you not think that you have already seen the nucleus of such a great movement, that you have heard the low rumblings of the coming tidal wave ? That centre, that God-man to lead, was born in India. He was the great Ramakrishna Paramahamsa, and round him this band is slowly gathering. They will do the work. Now, Diwanji Maharaj, this requires an organisation and money—a little at least to set the wheel in motion. Who would have given us money in India ? . . . So, Diwanji Maharaj, I crossed over to America. You may remember I begged all the money from the poor, and the offers of the rich I would not accept because they could not understand my ideas. Now lecturing for a year in this country, I could not succeed at all (of course, I have no wants for myself) in my plan of raising some funds for setting up my work. First, this year is a very bad year in America: thousands of their poor are without work. Secondly, the missionaries and the . . . try to thwart all my views. Thirdly, a year has rolled by, and our countrymen could not do even so much for me as to say to the American people that I was a real Sannyasin and no cheat, and that I represented the Hindu religion. Even this much, the expenditure of a few words, they could not do ! Bravo, my countrymen ! I love them, Diwanji Saheb. Human help I spurn with my foot. He who has been with me through hills and dales, through deserts or forests, will be with me, I hope; if not, some heroic soul would arise sometime or other in India, far abler than myself and carry it out. So I have told you all about it. Diwanji, excuse my long letter, my noble friend, one of the few who really feel for me, have real kindness for me. You are at liberty, my friend, to think that I am a dreamer, a visionary; but believe at least that I am sincere to the backbone, and my greatest fault is that I love my country only too, too well. May you and yours be blessed ever and ever, my noble, noble friend. May the shadow of the Almighty ever rest on all those you love. I offer my eternal gratitude to you. My debt to you is immense, not only because you are my friend, but also because you have all your life served the Lord and your motherland so well.—Ever yours in gratitude, <span class="small-caps">Vivekananda</span>.
 
-### Letter 65: H. H. The Maharaja of Mysore
+### Letter 64: H. H. The Maharaja of Mysore
 
 ### (64)
 
@@ -1308,11 +1287,11 @@ Nowhere on earth have women so many privileges as in America. They are slowly ta
 
 No country on earth has so many laws, and in no country are they so little regarded. On the whole our poor Hindu people are infinitely more moral than any of the Westerns. In religion they practise either hypocrisy or fanaticism. Sober-minded men have become disgusted with their superstitious religions and are looking forward to India for new light. Your Highness cannot realise without seeing, how eagerly they take in any little bit of the grand thoughts of the holy Vedas, which resist and are unharmed by the terrible onslaughts of modern science. The theories of creation out of nothing, of a created soul, and of the big tyrant of a God sitting on a throne in a place called heaven, and of the eternal hell-fires, have disgusted all the educated; and the noble thoughts of the Vedas about the eternity of creation and of the soul, and about the God in our own soul, they are imbibing fast in one shape or other. Within fifty years the educated of the world will come to believe in the eternity of both soul and creation, and in God as our highest and perfect nature, as taught in our holy Vedas. Even now their learned priests are interpreting the Bible that way. My conclusion is, that they require more spiritual civilisation, and we, more material.
 
-The one thing that is at the root of all evils in India is the condition of the poor. The poor in the West are devils; compared with them ours are angels, and it is therefore so much the easier to raise our poor. The only service to be done for our lower classes, is to give them education, *to develop their lost individuality*. That is the great task between our people and princes. Up to now nothing has been done in that direction. Priest-power and foreign conquest have trodden them down for centuries, and at last the poor of India have forgotten that they are human beings. They are to be given ideas; their eyes are to be opened to what is going on in the world around them, and then they will work out their own salvation. Every nation, every man, every woman, must work out one’s own salvation. Give them ideas—that is the only help they require, and then the rest must follow as the effect. Ours is to put the chemicals together, the crystallisation comes in the law of nature. Our duty is to put ideas into their heads, they will do the rest. This is what is to be done in India. It is this idea that has been in my mind for a long time. I could not accomplish it in India, and that was the reason of my coming to this country. The great difficulty in the way of educating the poor is this. Supposing even your Highness opens a free school in every village, still it would do no good, for the poverty in India is such, that the poor boys would rather go to help their fathers in the fields, or otherwise try to make a living, than come to the school. Now, if the mountain does not come to Mohammed, Mohammed must go to the mountain. If the poor boy cannot come to education, education must go to him. There are thousands of single-minded, self-sacrificing Sannyasins in our own country, going from village to village, teaching religion. If a part of them can be organised as teachers of secular things also, they will go from place to place, from door to door, not only preaching but teaching also. Suppose two of these men go to a village in the evening with a camera, a globe, some maps, etc. They can teach a great deal of astronomy and geography to the ignorant. By telling stories about different nations, they can give the poor a hundred times more information through the ear than they can get in a lifetime through books. This requires an organisation, which again means money. Men enough there are in India to work out this plan, but alas ! they have no money. It is very difficult to set a wheel in motion, but when once set, it goes on with increasing velocity. After seeking help in my own country and failing to get any sympathy from the rich, I came over to this country through your Highness’ aid. The Americans do not care a bit whether the poor of India die or live. And why should they, when our own people never think of anything but their own selfish ends?
+The one thing that is at the root of all evils in India is the condition of the poor. The poor in the West are devils; compared with them ours are angels, and it is therefore so much the easier to raise our poor. The only service to be done for our lower classes, is to give them education, *to develop their lost individuality*. That is the great task between our people and princes. Up to now nothing has been done in that direction. Priest-power and foreign conquest have trodden them down for centuries, and at last the poor of India have forgotten that they are human beings. They are to be given ideas; their eyes are to be opened to what is going on in the world around them, and then they will work out their own salvation. Every nation, every man, every woman, must work out one’s own salvation. Give them ideas—that is the only help they require, and then the rest must follow as the effect. Ours is to put the chemicals together, the crystallisation comes in the law of nature. Our duty is to put ideas into their heads, they will do the rest. This is what is to be done in India. It is this idea that has been in my mind for a long time. I could not accomplish it in India, and that was the reason of my coming to this country. The great difficulty in the way of educating the poor is this. Supposing even your Highness opens a free school in every village, still it would do no good, for the poverty in India is such, that the poor boys would rather go to help their fathers in the fields, or otherwise try to make a living, than come to the school. Now, if the mountain does not come to Mohammed, Mohammed must go to the mountain. If the poor boy cannot come to education, education must go to him. There are thousands of single-minded, self-sacrificing Sannyasins in our own country, going from village to village, teaching religion. If a part of them can be organised as teachers of secular things also, they will go from place to place, from door to door, not only preaching but teaching also. Suppose two of these men go to a village in the evening with a camera, a globe, some maps, etc. They can teach a great deal of astronomy and geography to the ignorant. By telling stories about different nations, they can give the poor a hundred times more information through the ear than they can get in a life-time through books. This requires an organisation, which again means money. Men enough there are in India to work out this plan, but alas ! they have no money. It is very difficult to set a wheel in motion, but when once set, it goes on with increasing velocity. After seeking help in my own country and failing to get any sympathy from the rich, I came over to this country through your Highness’ aid. The Americans do not care a bit whether the poor of India die or live. And why should they, when our own people never think of anything but their own selfish ends?
 
 My noble prince, this life is short, the vanities of the world are transient, but they alone live who live for others, the rest are more dead than alive. One such high, noble-minded and royal son of India as your Highness, can do much towards raising India on her feet again, and thus leave a name to posterity which shall be worshipped. That the Lord may make your noble heart feel intensely for the suffering millions of India sunk in ignorance, is the prayer of—<span class="small-caps">Vivekananda</span>.
 
-### Letter 66: Vivekananda → Rao Bahadur Narasimhachariar
+### Letter 65: Vivekananda → Rao Bahadur Narasimhachariar
 
 ### (65)
 
@@ -1325,7 +1304,7 @@ My noble prince, this life is short, the vanities of the world are transient, bu
 
 May the Lord bless you.—Yours for ever and ever affectionate, <span class="small-caps">Vivekananda</span>.
 
-### Letter 67: Misses Mary and Harriet Hale
+### Letter 66: Misses Mary and Harriet Hale
 
 ### (66)
 
@@ -1346,7 +1325,7 @@ Now, good dreams, good thoughts for you. You are good and noble. Instead of mate
 
 Stick to God ! Who cares what comes to the body or to anything else. Through the terrors of evil, say—my God, my love ! Through the pangs of death, say—my God, my love ! Through all the evils under the sun, say—my God, my love ! Thou art here, I see Thee. Thou art with me, I feel Thee. I am Thine, take me. I am not of the world’s but Thine, leave not then me. Do not go for glass beads leaving the mine of diamonds ! This life is a great chance. What, seekest thou the pleasures of the world ?—He is the fountain of all bliss. Seek for the highest, aim at that highest and you *shall* reach the highest.—Yours with all blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 68
+### Letter 67
 
 ### (67)
 
@@ -1376,7 +1355,7 @@ May even the dust of the world never touch you, for after all, the poets say, it
 
 Excuse my mad scribbling, excuse my foolery in trying to express the inexpressible. It is to be felt only.—Ever with blessings, your brother, <span class="small-caps">Vivekananda</span>.
 
-### Letter 69: a Madrasi disciple
+### Letter 68
 
 ### (68)
 
@@ -1388,7 +1367,7 @@ Excuse my mad scribbling, excuse my foolery in trying to express the inexpressib
 
 <span class="small-caps">Dear</span>—, . . .On the whole the Americans are a million times nobler than the Hindus, and I can work more good here than in the country of the ingrate and the heartless. . . The number of T—s in all America is only 625 by the last census. Mixing up with them will smash me in a minute than help me in any way. . . . The Madras people have done for me more than I deserved and more than was in their power. . . . America is the best field in the world to carry on any idea, so I do not think of leaving America soon. And why? Here I have food and drink and clothes, and everybody so kind, and all this for a few good words!! Why should I give up such a noble nation to go to the land of brutes and the ingrates and the brainless boobies held in the eternal thraldom of superstition, merciless, pitiless wretches? . . .—Yours truly, <span class="small-caps">Vivekananda</span>.
 
-### Letter 70: Vivekananda → Sj. Alasinga Perumal
+### Letter 69: Vivekananda → Sj. Alasinga Perumal
 
 ### (69)
 
@@ -1417,7 +1396,7 @@ Work hard. Be holy and pure, and the fire will come.
 
 <span class="small-caps">Vivekananda</span>.
 
-### Letter 71: Vivekananda → Alasinga Perumal
+### Letter 70: Vivekananda → Alasinga Perumal
 
 ### (70)
 
@@ -1442,7 +1421,7 @@ You know the greatest difficulty with me is to keep or even to touch money. It i
 
 Ever yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 72: Vivekananda → a Sannyasin
+### Letter 71: Vivekananda → a Sannyasin
 
 ### (71)
 
@@ -1460,7 +1439,7 @@ With all blessings and prayers for your success,—
 
 Yours, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 73: Vivekananda → Mrs. Ole Bull
+### Letter 72: Vivekananda → Mrs. Ole Bull
 
 ### *(72)*
 
@@ -1480,7 +1459,7 @@ I am at present lecturing in several places in Boston. What I want is to get a p
 
 P.S. Kindly write me whether the Guernseys have returned to town or are still in Fishkill.—V.
 
-### Letter 74: Vivekananda → Sj. Alasinga Perumal
+### Letter 73: Vivekananda → Sj. Alasinga Perumal
 
 ### (73)
 
@@ -1499,7 +1478,7 @@ I am going to live for a few months in New York. That city is the head, hand and
 
 Give to Balaji, G. G., and all of our friends my best love.—Yours with everlasting love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 75: Kidi
+### Letter 74: Kidi
 
 ### (74)
 
@@ -1510,7 +1489,7 @@ U. S. A.,
 
 <span class="small-caps">Dear Kidi</span>—I am very sorry to hear your determination of giving up the world so soon. The fruit falls from the tree when it gets ripe. So wait for the time to come. Do not hurry. Moreover, no one has the right to make others miserable by his foolish acts. Wait, have patience, everything will come right in time.....—Yours with blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 76
+### Letter 75
 
 ### (75)
 
@@ -1593,7 +1572,7 @@ We must work among the English-educated young men. *त्यागेनैक�
 
 Why are Baburam and Jogen suffering so much ? It is owing to their negative, their self-abasing spirit. Tell them to brush aside their illness by mental strength, and in an hour it will disappear ! Is the Atman smitten with disease ? Off with it ! Tell them to meditate for an hour at a stretch, “I am the Atman, how can I be affected by disease !”—and everything will vanish. Think all of you that you are the infinitely powerful Atman, and see what strength comes out. . . . Self-depreciating ! What is it for ? I am the child of the infinite, the all-powerful Divine Mother. What means disease, or fear, or want, to me ? Stamp out the negative spirit as if it were a pestilence, and it will conduce to your welfare in every way. No negative, all positive, affirmative. I am, God is, everything is in me. I *will* manifest health, purity, knowledge, whatever I want. Well, these foreign people could grasp my teachings and you are suffering from illness owing to your negative spirit ! Who says you are ill—what is disease to you ? Brush it aside !. . . वीर्य्यमसि वीर्य्य, बलमसि बलं, ओजोऽसि ओजो, सहोऽसि सहो मयि धेहि ।—“Thou art Energy, impart energy unto me. Thou art Strength, impart strength unto me. Thou art Spirituality, impart spirituality unto me. Thou art Fortitude, impart fortitude unto me !” The ceremony of steadying one’s seat (âsana-pratishthâ) that you perform every day when you sit down to worship the Lord आत्मानमच्छिद्रं भावयेत्—“One must think of himself strong and invulnerable” and so forth—what does it all mean ? Say, “Everything is in me, and I can manifest it at will.” Repeat to yourself that such and such are Atman, that they are infinite, and how can they have any disease ? Repeat this an hour or so, on a few successive days, and all disease and trouble will vanish into nought. --Yours ever, <span class="small-caps">Vivekananda</span>.
 
-### Letter 77: Mrs. Ole Bull
+### Letter 76: Mrs. Ole Bull
 
 ### (76)
 
@@ -1604,7 +1583,7 @@ Why are Baburam and Jogen suffering so much ? It is owing to their negative, the
 
 <span class="small-caps">Dear Mrs. Bull</span>—I have received both of your kind notes. I cannot express my gratitude for your kindness. I will have to go back to Melrose on Saturday and remain there till Monday. On Tuesday I will come over to your place. . . . For that is exactly what I wanted, a quiet place to write. Of course much less space will suffice me than what you have kindly proposed to put at my disposal. I can bundle myself up anywhere and feel quite comfortable.—Yours very sincerely, <span class="small-caps">Vivekananda</span>.
 
-### Letter 78: Vivekananda → Sj. Alasinga Perumal
+### Letter 77: Vivekananda → Sj. Alasinga Perumal
 
 ### (77)
 
@@ -1623,10 +1602,9 @@ Ever yours affectionately,
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 79: Vivekananda → Sj. Alasinga Perumal
+### Letter 78: Vivekananda → Sj. Alasinga Perumal
 
-### (78)
-*To The Same*
+### (78) *To The Same*
 
 U. S. A.,  
 *29th September, 1894.*
@@ -1645,7 +1623,7 @@ P. S. The present Hindu society is organised only for spiritual men, and hopeles
 
 —V.
 
-### Letter 80: Vivekananda → Sj. Haridas Viharidas Desai
+### Letter 79: Vivekananda → Sj. Haridas Viharidas Desai
 
 ### (79)
 
@@ -1662,7 +1640,7 @@ I do not know when I come back but I have seen enough of this country, I think, 
 
 With my best love, gratitude to you and all your brothers,—I remain, Yours faithfully, <span class="small-caps">VIVEKANANDIA</span>.
 
-### Letter 81: Sj. Haridas Viharidas Desai
+### Letter 80: Sj. Haridas Viharidas Desai
 
 ### (80)
 
@@ -1670,7 +1648,7 @@ With my best love, gratitude to you and all your brothers,—I remain, Yours fai
 
 <span class="small-caps">DEAR DIWANJI SAHEB</span>—Very kind of you to send up a man inquiring about my health and comfort. But that's quite of a piece to your fatherly character. I am all right here. Your kindness has left nothing more to be desired here. I hope soon to see you in a few days. I don't require any conveyance while going down. Descent is very bad and the ascent is the worst part of the job, that's the same in everything in the world. My heart-felt gratitude to you.—Yours faithfully, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 82: Swami Brahmananda
+### Letter 81: Swami Brahmananda
 
 ### (81)
 
@@ -1687,7 +1665,7 @@ Now you have come to know your own powers. Strike the iron while it is hot. Idle
 
 . . . Try to give less of material food in the anniversary celebrations, and give some food for the brain instead. . . . —<span class="small-caps">Vivekananda</span>.
 
-### Letter 83: Vivekananda → Sj. Vehemia Chand
+### Letter 82: Vivekananda → Sj. Vehemia Chand
 
 ### (82)
 
@@ -1702,7 +1680,7 @@ Now you have come to know your own powers. Strike the iron while it is hot. Idle
 
 With my love to you and all my friends there (Limbdi, Rajputana),—Yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 84: Mrs. Ole Bull
+### Letter 83: Mrs. Ole Bull
 
 ### (83)
 
@@ -1717,7 +1695,7 @@ And then the American women as everywhere came to my rescue, and I had very good
 
 In Washington I am the guest of Mrs. E. Totten who is an influential lady here and a metaphysician. . . . Everything is going on all right. . . . With eternal love and gratitude for you,—I remain, Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 85: Vivekananda → Sj. Alasinga Perumal
+### Letter 84: Vivekananda → Sj. Alasinga Perumal
 
 ### (84)
 
@@ -1736,7 +1714,7 @@ P.S. Take care of these two things—love of power and jealousy. Cultivate alway
 
 —V.
 
-### Letter 86: Sj. Haridas Viharidas Desai
+### Letter 85: Sj. Haridas Viharidas Desai
 
 ### (85)
 
@@ -1779,7 +1757,7 @@ Please do not publish it. I hate notoriety in the same manner as I did in India.
 
 I am doing the Lord’s work and wherever He leads I follow. मूकं करोति वाचालं etc.—He who makes the dumb eloquent and the lame cross a mountain, He will help me. I do not care for human help. He is ready to help me in India, in America, in the North Pole, if He thinks fit. If He does not, none else can help me. Glory unto the Lord for ever and ever.—Yours with blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 87: Vivekananda → Sj. Haridas Viharidas Desai
+### Letter 86: Vivekananda → Sj. Haridas Viharidas Desai
 
 ### (86)
 
@@ -1795,11 +1773,11 @@ The secret of success of the Westerners is the power of organisation and combina
 
 Here were . . . ; they were all trying to lecture and get money thereby. They did something, but I succeeded better than they—why, I did not put myself as a bar to their success. It was the will of the Lord. But all these . . . except . . . have fabricated and circulated the most horrible lies about me in this country, and at my back. Americans will never stoop to such meanness.
 
-. . . If any man tries to move forward, here everybody is ready to help him. In India you may try to-morrow by writing a single line of praise for me in any one of our papers (Hindu), and next day they would be all against me. Why? It is the nature of slaves. They cannot suffer to see anyone of their brethren putting his head the least above their rank. . . . Do you mean to compare such stuff with these children of liberty, self-help and brotherly love? The nearest approach to our people are the freed slaves of the U. S. A., the Negroes. Why, in the South they are about twenty millions and are now free. The whites are a handful, still the whites hold them down all the same. Why, even when they have every right by law, has a bloody war between the brothers been fought to free these slaves? The same defect—jealousy. Not one of these Negroes would bear to see his brother-Negro praised or pushing on. Immediately they would join the whites to crush him down. You can have no idea about it until you come out of India. It is all right for those who have plenty of money and position to let the world roll on as such, but I call him a traitor who, having been educated and nursed in luxury by the heart’s blood of the downtrodden millions of the toiling poor, never even takes a thought for them. Where, in what period of history did your rich men and noble men, your priests and potentates take any thought for the poor—the grinding of whose faces is the very life-blood of their power?
+. . . If any man tries to move forward, here everybody is ready to help him. In India you may try to-morrow by writing a single line of praise for me in any one of our papers (Hindu), and next day they would be all against me. Why? It is the nature of slaves. They cannot suffer to see anyone of their brethren putting his head the least above their rank. . . . Do you mean to compare such stuff with these children of liberty, self-help and brotherly love? The nearest approach to our people are the freed slaves of the U. S. A., the Negroes. Why, in the South they are about twenty millions and are now free. The whites are a handful, still the whites hold them down all the same. Why, even when they have every right by law, has a bloody war between the brothers been fought to free these slaves? The same defect—jealousy. Not one of these Negroes would bear to see his brother-Negro praised or pushing on. Immediately they would join the whites to crush him down. You can have no idea about it until you come out of India. It is all right for those who have plenty of money and position to let the world roll on as such, but I call him a traitor who, having been educated and nursed in luxury by the heart’s blood of the down-trodden millions of the toiling poor, never even takes a thought for them. Where, in what period of history did your rich men and noble men, your priests and potentates take any thought for the poor—the grinding of whose faces is the very life-blood of their power?
 
 But the Lord is great. The vengeance came sooner or later, and they who sucked the life-blood of the poor, whose very education was at their expense, whose very power was built on their poverty, were in their turn sold as slaves by hundreds and thousands, their wives and daughters dishonoured, their property robbed for the last one thousand years, and do you think it was for no cause?
 
-Why amongst the poor of India are so many Mohammedans? It is nonsense to say they were converted by the sword. It was to gain their liberty from the . . . zemindars and from the . . . priests. And as a consequence you find in Bengal there are more Mohammedans than Hindus amongst the cultivators, because there were so many zemindars there. Who thinks of raising these sunken downtrodden millions? A few thousand graduates do not make a nation; a few rich men do not make a nation. True, our opportunities are fewer, but still there are enough to feed and clothe and make three hundred millions more comfortable, nay, luxurious. Ninety per cent of our people are without education—who thinks of that? These Babus, the so-called patriots?
+Why amongst the poor of India are so many Mohammedans? It is nonsense to say they were converted by the sword. It was to gain their liberty from the . . . zemindars and from the . . . priests. And as a consequence you find in Bengal there are more Mohammedans than Hindus amongst the cultivators, because there were so many zemindars there. Who thinks of raising these sunken down-trodden millions? A few thousand graduates do not make a nation; a few rich men do not make a nation. True, our opportunities are fewer, but still there are enough to feed and clothe and make three hundred millions more comfortable, nay, luxurious. Ninety per cent of our people are without education—who thinks of that? These Babus, the so-called patriots?
 
 Now, let me tell you—still there is a God, no joke. He is ordering our lives, and although I know a nation of slaves cannot but try to bite at the hand that wants to give them medicine, yet, pray with me, you—one of the few that have real sympathy for everything good, for everything great, one at least whom I know to be a man of true ring, nobility of nature and a thorough sincerity of head and heart—pray with me:
 
@@ -1814,7 +1792,7 @@ The only way is love and sympathy. The only worship is love.
 
 May He help you and yours ever and ever !—With prayers and blessings, <span class="small-caps">VIVEKANANDA.</span>
 
-### Letter 88: Raja Pyari Mohan Mukherjee
+### Letter 87: Raja Pyari Mohan Mukherjee
 
 ### (87)
 
@@ -1839,7 +1817,7 @@ We must mix, therefore, with all the races of the earth. And every Hindu that go
 
 Do any deserve liberty who are not ready to give it to others? Let us calmly and in a manly fashion go to work, instead of dissipating our energy in unnecessary frettings and fumings. I, for one, thoroughly believe that no power in the universe can withhold from any one anything he really deserves. The past was great no doubt, but I sincerely believe that the future will be more glorious still. May Shankara keep us steady in purity, patience, and perseverance.—Yours faithfully, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 89: Sj. Alasinga Perumal
+### Letter 88: Sj. Alasinga Perumal
 
 ### (88)
 
@@ -1868,10 +1846,9 @@ How absurd ! The Theosophical magazines saying that they prepared the way to my 
 
 Take care ! Beware of everything that is untrue; stick to truth and we shall succeed, maybe slowly but surely. Work on as if I never existed. Work as if on each of you depended the whole work. Fifty centuries are looking on you, the future of India depends on you. Work on. I do not know when I shall be able to come. This is a great field for work. They can at best praise in India, but they will not give a cent for anything; and where shall they get it, *beggars* themselves ? Then they have lost the faculty of doing public good for the last two thousand years or more. They are just learning the ideas of nation, public, etc. So I need not blame them. More afterwards.—With blessings, yours, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 90: Vivekananda → Sj. Alasinga Perumal
+### Letter 89: Vivekananda → Sj. Alasinga Perumal
 
-### (89)
-*To The Same*
+### (89) *To The Same*
 
 *30th Nov., 1894.*
 
@@ -1881,7 +1858,7 @@ If anyone can write a real life of Sri Ramakrishna with the idea of showing what
 
 Yours ever with blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 91: Kidi
+### Letter 90: Kidi
 
 ### (90)
 
@@ -1891,7 +1868,7 @@ Yours ever with blessings, <span class="small-caps">Vivekananda</span>.
 
 <span class="small-caps">Dear Kidi</span>—. . . As to the wonderful stories published about Sri Ramakrishna, I advise you to keep clear of them and the fools who write them. They are true, but the fools will make a mess of the whole thing, I am sure. He had a whole world of knowledge to teach, why insist upon unnecessary things as miracles really are. They do not prove anything. Matter does not prove spirit. What connection is there between the existence of God, soul, or immortality, and the working of miracles. . . . Preach Sri Ramakrishna. Pass the cup that has satisfied your thirst. . . . Do not disturb your head with metaphysical nonsense, and do not disturb others by your bigotry.—Yours ever with blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 92
+### Letter 91
 
 ### (91)
 
@@ -1904,7 +1881,7 @@ Throughout the history of the world you find great men make great sacrifices and
 
 But, my son, here are the drawbacks. Nothing shall be done in haste. Purity, patience and perseverance are the three essentials to success and, above all, *love*. All time is yours, there is no indecent haste. Everything will come right if you are pure and sincere. We want hundreds like you bursting upon society and bringing new life and vigour of the Spirit wherever they go. Godspeed to you.—Yours with all blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 93
+### Letter 92
 
 ### (92)
 
@@ -1917,7 +1894,7 @@ Every day the people here are appreciating me. Everything must proceed slowly. .
 
 Missionary misrepresentations should be beneath your notice. . . . Perfect silence is the best refutation, and I wish you to maintain the same. . . . Make Mr. Subrahmanyam Ayer the President of your Society. He is one of the sincerest and noblest men I know, and in him, intellect and emotion are beautifully blended. Push on in your work, without counting much on me; work on your own account. . . . As for me, I do not know when I shall go back; I am working here and in India as well. . . . With my love to you all,—Yours ever with blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 94: Lala Govinda Sahay
+### Letter 93: Lala Govinda Sahay
 
 ### (93)
 
@@ -1929,7 +1906,7 @@ C/o <span class="small-caps">G. W. Hale, Esq.</span>,
 
 <span class="small-caps">Dear Govinda Sahay</span>—Do you keep any correspondence with my Gurubhais of Calcutta? Are you progressing morally, spiritually and in your worldly affairs? . . . Perhaps you have heard how for more than a year I have been preaching Hindu religion in America. I am doing very well here. Write to me as soon as you can and as often as you like.—Yours with love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 95: Lala Govinda Sahay
+### Letter 94: Lala Govinda Sahay
 
 ### (94)
 
@@ -1940,7 +1917,7 @@ C/o <span class="small-caps">G. W. Hale, Esq.</span>,
 
 <span class="small-caps">Dear Govinda Sahay</span>—. . . Honesty is the best policy, and a virtuous man must gain in the end. . . . You must always bear in mind, my son, that however busy or however distant, or living with men however high in position I may be, I am always praying, blessing and remembering everyone of my friends, even the humblest.—Yours with blessings, <span class="small-caps">Vivekananda.</span>
 
-### Letter 96: Swami Brahmananda
+### Letter 95: Swami Brahmananda
 
 ### (95)
 
@@ -1974,10 +1951,9 @@ Let character be formed, and then I shall be in your midst. Do you see? We want 
 
 P.S. . . . The term Organisation means division of labour. Each does his own part and all the parts taken together express an ideal of harmony. . . .
 
-### Letter 97: Vivekananda → Swami Brahmananda
+### Letter 96: Vivekananda → Swami Brahmananda
 
-### (96)
-*To Swami Brahmananda*
+### (96) *To Swami Brahmananda*
 
 C/o <span class="small-caps">George W. Hale</span>,*  
 541, <span class="small-caps">Dearborn Avenue</span>, <span class="small-caps">Chicago</span>,  
@@ -2007,7 +1983,7 @@ My heart’s love to all.—Ever yours in love,
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 98: Swami Akhandananda
+### Letter 97: Swami Akhandananda
 
 ### (97)
 
@@ -2025,7 +2001,7 @@ Try to develop spirituality and philanthropy amongst the Thakurs in the differen
 
 Go from door to door amongst the poor and lower classes of the town of Khetri and teach them religion. Also, let them have oral lessons on geography and such other subjects. No good will come of sitting idle and having princely dishes, and saying “Ramakrishna, O Lord !”—unless you can do some good to the poor. Go to other villages from time to time, and teach the people the art of life as well as religion. Work, worship and Jnanam (knowledge)—first work, and your mind will be purified; otherwise everything will be fruitless like pouring oblations on a pile of ashes instead of in the sacred fire. When Gunanidhi comes, move from door to door of the poor and the destitute in every village of Rajputana. If people object to the kind of food you take, give it up immediately. It is preferable to live on grass for the sake of doing good to others. The *geruâ* robe is not for enjoyment. It is the banner of heroic work. You must give your body, mind and speech to “the welfare of the world.” You have read मातृदेवो भव, पितृदेवो भव —“Look upon your mother as God, look upon your father as God,”—but I say, दरिद्रदेवो भव, मूर्खदेवो भव—The poor, the illiterate, the ignorant, the afflicted—let these be your God. Know that service to these alone is the highest religion.—Ever yours, with blessings, <span class="small-caps">Vivekananda.</span>
 
-### Letter 99: Vivekananda → Sj. Alasinga Perumal
+### Letter 98: Vivekananda → Sj. Alasinga Perumal
 
 ### (98)
 
@@ -2041,11 +2017,11 @@ I have read what you say about the Indian papers, and their criticisms, which ar
 
 Let me remind you again, “ Thou hast the right to work but not to the fruits thereof.” Stand firm like a rock. Truth always triumphs. Let the children of Sri Ramakrishna be true to themselves, and everything will be all right. We may not live to see the outcome, but as sure as we live, it will come sooner or later. What India wants is a new electric fire to stir up a fresh vigour in the national veins. This was ever, and always will be slow work. Be content to work and above all, be true to yourself. Be pure, staunch and sincere, to the very backbone and everything will be all right. If you have marked anything in the disciples of Sri Ramakrishna, it is this—they are sincere to the backbone. My task will be done and I shall be quite content to die, if I can bring up and launch one hundred such men over India. He, the Lord, knows best. Let ignorant men talk nonsense. We neither seek aid nor avoid it—we are the servants of the Most High. The petty attempts of small men should be beneath our notice. Onward ! Upon ages of struggle a character is built. Be not discouraged. One word of truth can never be lost; for ages it may be hidden under rubbish, but it will show itself sooner or later. Truth is indestructible, virtue is indestructible, purity is indestructible. Give me a genuine man; I do not want masses of converts. My son, hold fast ! Do not care for anybody to help you. Is not the Lord infinitely greater than all human help? Be holy—trust in the Lord, depend on Him always, and you are on the right track; nothing can prevail against you. . . .
 
-Let us pray, “Lead, Kindly Light”—a beam will come through the dark, and a hand will be stretched forth to lead us. I always pray for you: you must pray for me. Let each one of us pray day and night for the downtrodden millions in India, who are held fast by poverty, priestcraft and tyranny—pray day and night for them. I care more to preach religion to them than to the high and the rich. I am no metaphysician, no philosopher, nay, no saint. But I am poor, I love the poor. I see what they call the poor of this country and how many there are who feel for them. What an immense difference in India ! Who feels there for the two hundred millions of men and women sunken for ever in poverty and ignorance? Where is the way out? Who feels for them? They cannot find light or education. Who will bring the light to them—who will travel from door to door bringing education to them? Let these people be your God—think of them, work for them, pray for them incessantly—the Lord will show you the way. Him I call a Mahâtman whose heart bleeds for the poor, otherwise he is a Durâtman. Let us unite our wills in continued prayer for their good. We may die unknown, unpitied, unbewailed, without accomplishing anything—but not one thought will be lost. It will take effect, sooner or later. My heart is too full to express my feeling; you know it, you can imagine it. So long as the millions live in hunger and ignorance, I hold every man a traitor, who having been educated at their expense, pays not the least heed to them. I call those men—who strut about in their finery, having got all their money by grinding the poor—wretches, so long as they do not do anything for those two hundred millions who are now no better than hungry savages. We are poor, my brothers, we are nobodies, but such have been always the instruments of the Most High. The Lord bless you all.—With all love,
+Let us pray, “Lead, Kindly Light”—a beam will come through the dark, and a hand will be stretched forth to lead us. I always pray for you: you must pray for me. Let each one of us pray day and night for the downtrodden millions in India, who are held fast by poverty, priest-craft and tyranny—pray day and night for them. I care more to preach religion to them than to the high and the rich. I am no metaphysician, no philosopher, nay, no saint. But I am poor, I love the poor. I see what they call the poor of this country and how many there are who feel for them. What an immense difference in India ! Who feels there for the two hundred millions of men and women sunken for ever in poverty and ignorance? Where is the way out? Who feels for them? They cannot find light or education. Who will bring the light to them—who will travel from door to door bringing education to them? Let these people be your God—think of them, work for them, pray for them incessantly—the Lord will show you the way. Him I call a Mahâtman whose heart bleeds for the poor, otherwise he is a Durâtman. Let us unite our wills in continued prayer for their good. We may die unknown, unpitied, unbewailed, without accomplishing anything—but not one thought will be lost. It will take effect, sooner or later. My heart is too full to express my feeling; you know it, you can imagine it. So long as the millions live in hunger and ignorance, I hold every man a traitor, who having been educated at their expense, pays not the least heed to them. I call those men—who strut about in their finery, having got all their money by grinding the poor—wretches, so long as they do not do anything for those two hundred millions who are now no better than hungry savages. We are poor, my brothers, we are nobodies, but such have been always the instruments of the Most High. The Lord bless you all.—With all love,
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 100: Anâgarika Dharmapala
+### Letter 99: Anâgarika Dharmapala
 
 ### (99)
 
@@ -2058,11 +2034,9 @@ U. S. A.,
 
 . . . The Christianity that is preached in India is quite different from what one sees here; you will be astonished to hear, Dharmapala, that I have friends in this country amongst the clergy of the Episcopal and even Presbyterian churches, who are as broad, as liberal and as sincere, as you are in your own religion. The real spiritual man is broad everywhere. His love forces him to be so. Those to whom religion in a trade, are forced to become narrow and mischievous by their introduction into religion of the competitive, fighting and selfish methods of the world.—Yours ever in brotherly love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 101
+### Letter 100: Sj. Alasinga Perumal
 
 ### (100)
-
-### Letter 102: Sj. Alasinga Perumal
 
 ### *To Sj. Alasinga Perumal*
 
@@ -2093,7 +2067,7 @@ Do not send me any more newspapers, as I do not notice the missionary criticism 
 
 . . . Do not fight with people; do not antagonise anyone. Why should we mind if Jack or John become Christians? Let them follow whatever religion suits them. Why should you mix in controversies? Bear with the various opinions of everybody. Patience, purity and perseverance will prevail.—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 103: Maharaja of Khetri
+### Letter 101: Maharaja of Khetri
 
 ### (101)
 
@@ -2116,10 +2090,9 @@ And then the modern American women—I admire their broad and liberal minds. I h
 
 What a wonderful achievement was that World's Fair at Chicago! And that wonderful Parliament of Religions where voices from every corner of the earth expressed their religious ideas! I was also allowed to place my own ideas through the kindness of Dr. Barrows and Mr. Bonney. Mr. Bonney is such a wonderful man! Think of that mind that planned and carried out with great success that gigantic undertaking, and he, no clergyman, a lawyer presiding over the dignitaries of all the churches, the sweet, learned, patient Mr. Bonney with all his soul speaking through his bright eyes. . . .—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 104: Swami Abhedananda
+### Letter 102: Swami Abhedananda
 
-### (102)
-*To Swami Abhedananda*
+### (102) *To Swami Abhedananda*
 
 U. S. A.,*  
 *1894.*
@@ -2141,10 +2114,9 @@ Bear in mind—the eyes are two in number and so the ears, but the mouth is but 
 
 You need not even mix with the humdrum people, nor beg of them either. The Lord is supplying everything and will do so in future. What fear, my brother ? All great undertakings are achieved through mighty obstacles. हे वीर कुरु पौरुषमात्मनः, उपेक्षितव्या जनाः सुकृपणाः कामकाञ्चनवशगाः—“ You valiant one, put forth your manly efforts; wretched people under the grip of lust and gold deserve to be looked upon with indifference.” Now I have got a firm footing in this country, and therefore need no assistance. But my one prayer to you all is that you should apply to the service of the Lord that active impulse of manliness which your eagerness to help me through brotherly love has brought out in you. Do not open out your mind, unless you feel it will be positively beneficial. Use agreeable and wholesome language towards even the greatest enemy. The desire for fame, for riches, for enjoyment is quite natural to every mortal, dear brother, and if that agrees well with serving both ways (i.e., serving both God and mammon), why, all men would exhibit great zeal! It is only the great saint who can work, making a mountain of an atom of virtue in others and cherishing no desire but that of the good of the world—परगुणपरमाणु पर्वतीकृत्य, अपिच, त्रिभुवनमुपकारश्रेणिभिः प्रीयमानः, etc.[^fn-p0200-1] Therefore let dullards whose intellect is steeped in ignorance and who look upon the non-Self as all in all, play out their boyish pranks. They will of themselves leave off the moment they find it too hot! Let them try to spit upon the moon—it will but recoil upon themselves. शुभं भवतु तेषाम् —Godspeed to them! If they have got anything substantial in them, who can bar their success? But if it be only empty swagger due to jealousy, then all will be in vain. Hara Mohan has sent rosaries. All right. But you should know that religion of the type that obtains in our country has no go here. You must suit it to the taste of the people. If you ask them to become Hindus, they will all give you the wide berth and hate you, as we do the Christian missionaries. They like some of the ideas of the Hindu scriptures—that is all. Nothing more than that, you should know. The men, most of them, do not trouble about religion and all that. The women are a little interested—that is all, but no large doses of it! A few thousands of people have faith in the Advaita doctrine. But they will give you the go-by if you talk obscure mannerisms about sacred writings, caste or women. Everything proceeds slowly, by degrees. Patience, purity, perseverance.—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 105: Swami Shivananda
+### Letter 103: Swami Shivananda
 
-### (103)
-*To Swami Shivananda*
+### (103) *To Swami Shivananda*
 
 U. S. A.,*  
 *1894.*
@@ -2163,7 +2135,7 @@ You have not yet understood the wonderful significance of Mother’s life—none
 
 The chief cause of malaria lies in water. Why do you not construct two or three filters? If you first boil the water and then filter it, it will be harmless. . . . Please buy two big Pasteur’s bacteria-proof filters. Let the cooking be done in that water and use it for drinking purposes also, and you will never hear of malaria any more. . . . On and on; work, work, work; this is only the beginning.—Yours ever, <span class="small-caps">Vivekananda</span>.
 
-### Letter 106: Vivekananda → Mrs. Ole Bull
+### Letter 104: Vivekananda → Mrs. Ole Bull
 
 ### *(104)*
 
@@ -2182,7 +2154,7 @@ Herewith I send a copy of that pamphlet Mr. Higgins has published about me. Hope
 
 With my love to Miss Farmer and all the holy family,—I am ever sincerely yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 107
+### Letter 105
 
 ### (105)
 
@@ -2194,10 +2166,9 @@ To return home ! Where is the home ! I do not care for liberation, or for devoti
 
 . . . Please convey to all my love, I want the help of everyone. *Neither money pays, nor name, nor fame, nor learning; it is character that can cleave through adamantine walls of difficulties.* Bear this in mind. . . . —Ever yours in love, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 108: Vivekananda → Justice Sir S. Subrahmanya Iyer
+### Letter 106: Vivekananda → Justice Sir S. Subrahmanya Iyer
 
-### (106)
-*To Justice Sir S. Subrahmanya Iyer*
+### (106) *To Justice Sir S. Subrahmanya Iyer*
 
 541, <span class="small-caps">DEARBORN AVENUE</span>,  
 <span class="small-caps">CHICAGO</span>,  
@@ -2219,10 +2190,9 @@ I fully agree with the educated classes in India, that a thorough overhauling of
 
 May the Lord bless you for ever and ever !—Yours ever gratefully, <span class="small-caps">Vivekananda</span>.
 
-### Letter 109: Sj. G. G. Narasimhachariar
+### Letter 107: Sj. G. G. Narasimhachariar
 
-### (107)
-*To Sj. G. G. Narasimhachariar*
+### (107) *To Sj. G. G. Narasimhachariar*
 
 <span class="small-caps">Chicago</span>,  
 *11th Jan.*, 1895.
@@ -2245,10 +2215,9 @@ That you may catch my fire, that you may be intensely sincere, that you may die 
 
 P. S. Tell Alasinga, Kidi, Doctor, Balaji and all the others not to pin their faith on what Tom, Dick and Harry say for or against us, but to concentrate all their energy on work.—<span class="small-caps">Vivekananda</span>.
 
-### Letter 110: Sj. Alasinga Perumal
+### Letter 108: Sj. Alasinga Perumal
 
-### (108)
-*To Sj. Alasinga Perumal*
+### (108) *To Sj. Alasinga Perumal*
 
 <span class="small-caps">Chicago</span>,  
 *12th Jan., 1895.*
@@ -2261,7 +2230,7 @@ I have given up at present my plan for the education of the masses. It will come
 
 My name should not be made prominent; it is my ideas that I want to see realised. The disciples of all the prophets have always inextricably mixed up the ideas of the Master with the *person*, and at last killed the ideas for the *person*. The disciples of Sri Ramakrishna must guard against doing the same thing. Work for the *idea*, not the person. The Lord bless you.——Yours ever with blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 111: Swami Trigunatitananda
+### Letter 109: Swami Trigunatitananda
 
 ### (109)
 
@@ -2277,16 +2246,13 @@ Now is the time for you to apply yourself to start the magazine. Tell Ramdayal B
 
 P. S. Throw the whole of Bengal and, for the matter of that, the whole of India into convulsion ! Start centres at different places.
 
-The Bhâgavatam has reached me—a very nice edition indeed, but people of this country have not the least inclination for studying Sanskrit, hence there is very little hope for its sale. There may be a little in England, for, there many are interested in the study of Sanskrit. Give my special thanks to the editor. I hope his noble attempt will meet with complete success. I shall try my best to push his book here. I have sent his prospectus to different places. Tell Ramdayal Babu that a flourishing trade can be set on foot with England and America in *mûng dâl*, *arhar dâl*, etc. *Dâl* soup will have a go if properly introduced. There will be a good demand for them if they be sent from house to house, in small packets, with directions for cooking on them and a depot started for storing
+The Bhâgavatam has reached me—a very nice edition indeed, but people of this country have not the least inclination for studying Sanskrit, hence there is very little hope for its sale. There may be a little in England, for, there many are interested in the study of Sanskrit. Give my special thanks to the editor. I hope his noble attempt will meet with complete success. I shall try my best to push his book here. I have sent his prospectus to different places. Tell Ramdayal Babu that a flourishing trade can be set on foot with England and America in *mûng dâl*, *arhar dâl*, etc. *Dâl* soup will have a go if properly introduced. There will be a good demand for them if they be sent from house to house, in small packets, with directions for cooking on them and a depot started for storing a quantity of them. Similarly *barhis*[^fn-p0215-1] too will have a good market. We want an enterprising spirit. Nothing is done by leading idle lives. If anyone forms a company and exports Indian goods here and into England, it will be a good trade. But they are a lazy set. . . .
 
-a quantity of them. Similarly *barhis*[^fn-p0215-1] too will have a good market. We want an enterprising spirit. Nothing is done by leading idle lives. If anyone forms a company and exports Indian goods here and into England, it will be a good trade. But they are a lazy set. . . .
-
-### Letter 112: Mrs. Ole Bull
+### Letter 110: Mrs. Ole Bull
 
 ### (110)
 
-### *To Mrs. Ole Bull,*
-on the occasion of the loss of her father
+### *To Mrs. Ole Bull,* on the occasion of the loss of her father
 
 <span class="small-caps">Brooklyn,</span>  
 *20th January, 1895.*
@@ -2301,7 +2267,7 @@ The cloud moves across the face of the moon, creating the illusion that the moon
 
 Each soul is a star, and all stars are set in that infinite azure, that eternal sky, the Lord. There is the root, the reality, the real individuality of each and all. Religion began with the search after some of these stars that had passed beyond our horizon, and ended in finding them all in God, and ourselves in the same place. The whole secret is, then, that your father has given up the old garment he was wearing, and is standing where he was through all eternity. Will he manifest another such garment in this or any other world? I sincerely pray that he may not, until he does so in full consciousness. I pray that none may be dragged anywhither by the unseen power of his own past actions. I pray that all may be free, that is to say, may know that they are free. And if they are to dream again, let us pray that their dreams be all of peace and bliss. . . .—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 113: Sj. Alasinga Perumal
+### Letter 111: Sj. Alasinga Perumal
 
 ### (111)
 
@@ -2312,7 +2278,7 @@ U. S. A.,
 
 <span class="small-caps">Dear Alasinga</span>—. . . I only want men to follow me who will be true and faithful unto death. I do not care for success or non-success. . . . I must keep my movement *pure* or I will have none of it. . . .—Yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 114: Vivekananda → Mrs. Ole Bull
+### Letter 112: Vivekananda → Mrs. Ole Bull
 
 ### (112)
 
@@ -2335,10 +2301,9 @@ I have worked my best. If there is any seed of truth in it, it will come to life
 
 <span class="small-caps">Vivekananda</span>.
 
-### Letter 115: Miss Mary Hale
+### Letter 113: Miss Mary Hale
 
-### (113)
-*To Miss Mary Hale*
+### (113) *To Miss Mary Hale*
 
 54, W. 33<span class="small-caps">RD</span> <span class="small-caps">STREET</span>, N. Y.,  
 *1st Feb., 1895.*
@@ -2359,7 +2324,7 @@ I am living with Landsberg at 54, W. 33rd Street. He is a brave and noble soul, 
 
 Lord bless you all ever and ever—and may He lead you quickly out of this big humbug, the world! May you never be enchanted by this old witch, the world! May Shankara help you! May Umâ open the door of truth for you and take away all your delusions!—Yours with love and blessings, <span class="small-caps">Vivekananda.</span>
 
-### Letter 116: Vivekananda → Sj. Vaikuntha Nath Sanyal
+### Letter 114: Vivekananda → Sj. Vaikuntha Nath Sanyal
 
 ### *(114)*
 
@@ -2380,7 +2345,7 @@ Don’t forget those books I asked for before, viz., Sanskrit Narada and Shandil
 
 Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 117: Vivekananda → Mrs. Ole Bull
+### Letter 115: Vivekananda → Mrs. Ole Bull
 
 ### (115)
 
@@ -2411,7 +2376,7 @@ I am no more seeking for these things. If they come the Lord be blessed, if not,
 
 Again accept my eternal gratitude.—Your devoted son, <span class="small-caps">Vivekananda</span>.
 
-### Letter 118: Sj. Alasinga Perumal
+### Letter 116: Sj. Alasinga Perumal
 
 ### (116)
 
@@ -2423,10 +2388,9 @@ Again accept my eternal gratitude.—Your devoted son, <span class="small-caps">
 
 <span class="small-caps">Dear Alasinga</span>—. . . Meddle not with so-called social reform, for there cannot be any reform without spiritual reform first. . . . Preach the Lord—say neither good nor bad about the superstitions and evils. . . . Do not lose heart, do not lose faith in your Guru, do not lose faith in God. So long as you possess these three, nothing can harm you, my child. I am growing stronger every day. Work on, my brave boys.—Ever yours with blessings, <span class="small-caps">Vivekananda.</span>
 
-### Letter 119: Vivekananda → Sj. Alasinga Perumal
+### Letter 117: Vivekananda → Sj. Alasinga Perumal
 
-### (117)
-*To The Same*
+### (117) *To The Same*
 
 *6th March, 1895.*
 
@@ -2438,10 +2402,9 @@ Harmony and peace. . . . Let things slowly grow. Rome was not built in a day. Th
 
 Send some Kushâsanas if you can.—Yours ever with blessings, <span class="small-caps">Vivekananda.</span>
 
-### Letter 120: Mrs. Ole Bull
+### Letter 118: Mrs. Ole Bull
 
-### (118)
-*To Mrs. Ole Bull*
+### (118) *To Mrs. Ole Bull*
 
 54, W. 33<span class="small-caps">rd St., New York</span>,  
 *21st March, 1895.*
@@ -2460,7 +2423,7 @@ I went to Miss Corbin’s last Saturday and told her that I would not be able to
 
 My *idea* and all my life with it—and to *God* for help; to none else! This is the only secret of success. I am sure you are one with me here. . . . —Ever yours in grateful affection, <span class="small-caps">Vivekananda</span>.
 
-### Letter 121: Si. Alasinga Perumal
+### Letter 119: Si. Alasinga Perumal
 
 ### (119)
 
@@ -2475,7 +2438,7 @@ I am in His hands. What is the use of going back to India? India cannot further 
 
 Be cheerful. . . . Hold on to your own ideal. . . . Above all, never attempt to guide or rule others, or, as the Yankees say, “boss” others. Be the servant of all.—Ever with blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 122: Vivekananda → Mrs. Ole Bull
+### Letter 120: Vivekananda → Mrs. Ole Bull
 
 ### (120)
 
@@ -2500,7 +2463,7 @@ He will never leave me, I am sure, mother.—Your son,
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 123: Swami Ramakrishnananda
+### Letter 121: Swami Ramakrishnananda
 
 ### (121)
 
@@ -2513,10 +2476,9 @@ U. S. A.,*
 
 Take up everyone with sympathy, whether he believes in Sri Ramakrishna or not. If anybody comes to you for vain dispute, politely withdraw yourselves. . . . You must express your sympathy with people of all sects. When these cardinal virtues will be manifested in you, then only you will be able to work with great energy. Otherwise, mere taking the name of the Guru will not do. However, there is no doubt that this year’s Festival has been a great success, and you deserve special thanks for it, but you must push forward, do you see? What is Sarat doing? Never shall you be able to know anything if you persist in pleading ignorance. . . . We want something of a higher tone—that will appeal to the intellect of the learned. It won’t do merely to get up musical parties and all that. Not only will this Festival be his memorial but also the central union of an intense propaganda of his doctrines. . . . All will come in good time. But at times I fret and stamp like a leashed hound. Onward and forward, my old watchword. I am doing well. No use going back to India in a hurry. Summon all your energies and set yourselves to work, heart and soul; that will really be heroic.—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 124: Mr. E. T. Sturdy
+### Letter 122: Mr. E. T. Sturdy
 
-### (122)
-*To Mr. E. T. Sturdy*
+### (122) *To Mr. E. T. Sturdy*
 
 54, W. 33<span class="small-caps">rd</span> <span class="small-caps">St.</span>, <span class="small-caps">New York</span>,  
 *24th April*, 1895.
@@ -2529,10 +2491,9 @@ Perfect sincerity, holiness, gigantic intellect, and an all-conquering will. Let
 
 “Truth alone triumphs, not untruth; through truth alone stretches the way to the Lord” (Yajurveda). He who gives up the little self for the world will find the whole universe his. . . . I am very uncertain about coming to England. I know no one there, and here I am doing some work. The Lord will guide, in His own time.
 
-### Letter 125: Mr. E. T. Sturdy
+### Letter 123: Mr. E. T. Sturdy
 
-### (123)
-*To The Same*
+### (123) *To The Same*
 
 19, <span class="small-caps">W. 38th St.,</span>  
 <span class="small-caps">New York.</span>
@@ -2543,7 +2504,7 @@ Perfect sincerity, holiness, gigantic intellect, and an all-conquering will. Let
 
 Europe has always been the source of social and Asia, of spiritual power; and the whole history of the world is the tale of the varying combinations of these two powers. Slowly a new leaf is being turned in the story of humanity. The signs of this are everywhere. Hundreds of new plans will be created and destroyed. Only the fit will survive, and what, but the true and the good, is the fit ?—Yours etc. <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 126: Mrs. Ole Bull
+### Letter 124: Mrs. Ole Bull
 
 ### (124)
 
@@ -2566,7 +2527,7 @@ I am only glad that you have such a great opinion about Miss Hamlin. I for one a
 
 Herewith I send the English gentleman’s letter. I have made a few notes on the margin to explain Hindusthanee words.—Ever your son, <span class="small-caps">Vivekananda</span>.
 
-### Letter 127
+### Letter 125
 
 ### (125)
 
@@ -2581,7 +2542,7 @@ Cultivate the virtue of obedience, but you must not sacrifice your own faith. No
 
 Give up jealousy and conceit. Learn to work unitedly for others. This is the great need of our country.—Yours with blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 128: Sj. Alasinga Perumal
+### Letter 126: Sj. Alasinga Perumal
 
 ### (126)
 
@@ -2603,7 +2564,7 @@ Now I will tell you my discovery.  All of religion is contained in the Vedanta, 
 
 P. S. Nobody will come to help you, if you put yourself forward as a leader. . . . Kill self first if you want to succeed.
 
-### Letter 129: Vivekananda → Mrs. Ole Bull
+### Letter 127: Vivekananda → Mrs. Ole Bull
 
 ### (127)
 
@@ -2620,7 +2581,7 @@ Ever gratefully your son,
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 130: Sj. Alasinga Perumal
+### Letter 128: Sj. Alasinga Perumal
 
 ### (128)
 
@@ -2635,10 +2596,9 @@ You need not worry about me. The Lord is always protecting me. My coming to this
 
 The Lord is merciful and although there are many who try to injure me any way they can, there are many also who will befriend me to the last. Infinite patience, infinite purity, and infinite perseverance are the secret of success in a good cause.—Yours ever with blessings, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 131: Swami Saradananda
+### Letter 129: Swami Saradananda
 
-### (129)
-*To Swami Saradananda*
+### (129) *To Swami Saradananda*
 
 U. S. A.,  
 *20th May, 1895.*
@@ -2647,10 +2607,9 @@ U. S. A.,
 
 I cannot understand why Sanyal is so miserable on account of his daughters’ marriage. After all, he is going to drag his daughters through the dirty Samsâra which he himself wants to escape ! I can have but one opinion of that—condemnation ! I hate the very name of marriage, in regard to a boy or girl. Do you mean to say that I have to help in putting someone into bondage, you fool ! If my brother Mohin marries, I will throw him off. I am very decided about that. . . .—Yours in love, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 132: Mrs. Ole Bull
+### Letter 130: Mrs. Ole Bull
 
-### (130)
-*To Mrs. Ole Bull*
+### (130) *To Mrs. Ole Bull*
 
 54, <span class="small-caps">W. 33RD ST., NEW YORK</span>,  
 *May, 1895.*
@@ -2661,7 +2620,7 @@ I am going this summer to the Thousand Islands to Miss Dutcher's, one of my stud
 
 I am rather busy just now in writing a promised article for the Press Association on Immortality.—Yours, V<span class="small-caps">IVEKANANDA</span>.
 
-### Letter 133: Mrs. Ole Bull
+### Letter 131: Mrs. Ole Bull
 
 ### (131)
 
@@ -2674,7 +2633,7 @@ D<span class="small-caps">EAR</span> M<span class="small-caps">RS.</span> B<span
 
 P. S. . . . How easily this world can be deluded by humbugs! What a mass of fraud has gathered over the devoted head of poor humanity since the dawn of civilisation!
 
-### Letter 134
+### Letter 132
 
 ### (132)
 
@@ -2685,7 +2644,7 @@ D<span class="small-caps">EAR</span>—, I am here at last with Mr. Leggett. Thi
 
 It gives me a new lease of life to be here. I go into the forest alone and read my Gita and am quite happy. I will leave this place in about ten days and go to the Thousand Island Park. I will meditate by the hour there and be all alone to myself. The very idea is ennobling.—Yours, <span class="small-caps">Vivekananda.</span>
 
-### Letter 135
+### Letter 133
 
 ### *(133)*
 
@@ -2698,7 +2657,7 @@ May the Lord bless Landsberg wherever he goes. He is one of the few sincere soul
 
 All is for good. All conjunctions are for subsequent disjunction. I hope I will be perfectly able to work alone. The less help from men the more from the Lord! Just now I received a letter from an English gentleman in London who had lived in India in the Himalayas with two of my brethren. He asks me to come to London.—Yours, <span class="small-caps">Vivekananda.</span>
 
-### Letter 136: Vivekananda → Kidi
+### Letter 134: Vivekananda → Kidi
 
 ### *(134)*
 
@@ -2715,7 +2674,7 @@ With my love ever and ever to you.—Yours sincerely,
 
 <span class="small-caps">Vivekananda</span>.
 
-### Letter 137: Swami Ramakrishnananda
+### Letter 135: Swami Ramakrishnananda
 
 ### (135)
 
@@ -2727,9 +2686,9 @@ With my love ever and ever to you.—Yours sincerely,
 
 <span class="small-caps">Dear</span>—,. . . I am quite in agreement with what Sarada is doing, but it is not necessary to preach that Ramakrishna Paramahamsa was an Incarnation, and things of that sort. He came to do good to the world, not to trumpet his own name—you must always remember this. Disciples pay their whole attention to the preservation of their master's name, and throw overboard his teachings, and sectarianism etc., are its result. Alasinga writes of Charu, but I do not recollect him. Write all about him and convey him my thanks. Write in detail about all, I have no time to spare for idle gossip. . . . Try to give up ceremonials. They are not meant for Sannyasins, and one must work only so long as he does not attain to illumination. . . . I have nothing to do with sectarianism, or party-forming and playing the frog-in-the-well, whatever else I may do. . . . It is impossible to preach the catholic ideas of Ramakrishna Paramahamsa and form sects at the same time. . . . Only one kind of work I understand, and that is doing good to others, all else is doing evil. I therefore prostrate myself before the Lord Buddha. . . . I am a Vedantist, Sachchidananda—Existence-Knowledge-Bliss-Absolute—is my God, I scarcely find any other God than the majestic form of my own Self. By the word “Incarnation” are meant those who have attained that Brahmanhood, in other words, the Jivanmuktas—those who have realised this Freedom in this very life. I do not find any speciality in Incarnations : all beings from Brahmâ down to a clump of grass will attain to liberation-in-life in course of time, and our duty lies in helping all to reach that state. This help is called religion—the rest is irreligion. This help is work, the rest is evil-doing—I see nothing else. Other kinds of work, for example, the Vaidika or the Tântrika, may produce results—but resorting to them is simply waste of life—for that purity which is the goal of work is realisable only through doing good to others. Through works such as sacrifices etc., one may get enjoyments, but it is impossible to have the purity of soul. . . Everything exists already in the Self of all beings. He who asserts he is free, shall be free. He who says he is bound, bound he shall remain. To me, the thought of oneself as low and humble is a sin and ignorance. नायमात्मा बलहीनेन लभ्यः—“ This Atman is not to be attained by one who is weak.” अस्ति ब्रह्म वदसि चेदस्ति भविष्यति नास्ति ब्रह्म वदसि चेन्नास्त्येव भविष्यति—“If you say Brahman *is*, existence will be the result, but if you say Brahman is *not*, non-existent It shall verily become.” He who always thinks of himself as weak will never become strong, but he who knows himself to be a lion, “rushes out from the world’s meshes, as a lion from its cage”— निर्गच्छति जगज्जालात् पिंजरादिव केशरी । Another point, it was no new truths that Ramakrishna Paramahamsa came to preach, though his advent brought the old truths to light. In other words, he was the embodiment of all the past religious thought of India. His life alone made me understand what the Shâstras really meant, and the whole plan and scope of the old Shastras.
 
-Missionaries and others could not do much against me in this country. Through the Lord’s grace the people here like me greatly and are not to be tricked by the opinions of any particular class. They appreciate my ideas in a manner my own countrymen cannot do, and are not selfish. I mean, when it comes to practical work, they will give up jealousy and all those ideas of self-sufficiency. Then all of them agree and act under the direction of a capable man. That is what makes them so great. But then they are a nation of Mammon-worshippers. Money comes before everything. People of our country are very liberal in pecuniary matters, but not so much these people. Every home has a miser. It is almost a religion here. But they fall into the clutches of the priests when they do something bad, and then buy their passage to heaven with money. These things are the same in every country—priestcraft. I can say nothing as to whether I shall go back to India and when. There also I shall have to lead a wandering life as I do here, but here thousands of people listen to and understand my lectures, and these thousands are benefited. But can you say the same thing about India? . . . I am perfectly at one with what Sarada is doing. A thousand thanks to him. . . . In Madras and Bombay I have lots of men who are after my heart. They are learned and understand everything. Moreover, they are kind-hearted and can therefore appreciate the philanthropic spirit. . . . I have printed neither books nor anything of the kind, I simply go on lecturing tours. . . . When I take a retrospective view of my past life, I feel no remorse. From country to country I have travelled teaching something, however little, to people, and in exchange for that have partaken of their slices of bread. If I had found I had done no work, but simply supported myself by imposing upon people, I would have committed suicide to-day. Why do those who think themselves unfit to teach their fellowbeings , wear the teacher’s garb and earn their bread by cheating them? Is not that a deadly sin? . . .—Yours etc., <span class="small-caps">Vivekananda.</span>
+Missionaries and others could not do much against me in this country. Through the Lord’s grace the people here like me greatly and are not to be tricked by the opinions of any particular class. They appreciate my ideas in a manner my own countrymen cannot do, and are not selfish. I mean, when it comes to practical work, they will give up jealousy and all those ideas of self-sufficiency. Then all of them agree and act under the direction of a capable man. That is what makes them so great. But then they are a nation of Mammon-worshippers. Money comes before everything. People of our country are very liberal in pecuniary matters, but not so much these people. Every home has a miser. It is almost a religion here. But they fall into the clutches of the priests when they do something bad, and then buy their passage to heaven with money. These things are the same in every country—priestcraft. I can say nothing as to whether I shall go back to India and when. There also I shall have to lead a wandering life as I do here, but here thousands of people listen to and understand my lectures, and these thousands are benefited. But can you say the same thing about India? . . . I am perfectly at one with what Sarada is doing. A thousand thanks to him. . . . In Madras and Bombay I have lots of men who are after my heart. They are learned and understand everything. Moreover, they are kind-hearted and can therefore appreciate the philanthropic spirit. . . . I have printed neither books nor anything of the kind, I simply go on lecturing tours. . . . When I take a retrospective view of my past life, I feel no remorse. From country to country I have travelled teaching something, however little, to people, and in exchange for that have partaken of their slices of bread. If I had found I had done no work, but simply supported myself by imposing upon people, I would have committed suicide to-day. Why do those who think themselves unfit to teach their fellowbeings, wear the teacher’s garb and earn their bread by cheating them? Is not that a deadly sin? . . .—Yours etc., <span class="small-caps">Vivekananda.</span>
 
-### Letter 138: Sj. Alasinga Perumal
+### Letter 136: Sj. Alasinga Perumal
 
 ### (136)
 
@@ -2746,7 +2705,7 @@ I know, my son, I shall have to come and manufacture men out of you. I know that
 
 The brave alone do great things, not the cowards. Know once for all, you faithless ones, that I am in the hands of the Lord. So long as I am pure and His servant, not a hair of my head will be touched. . . . Do something for the nation, then they will help you, then the nation will be with you. Be brave, be brave, man dies but once. My disciples must not be cowards.—Ever yours with love, <span class="small-caps">Vivekananda.</span>
 
-### Letter 139: Maharaja of Khetri
+### Letter 137: Maharaja of Khetri
 
 ### (137)
 
@@ -2757,7 +2716,7 @@ U. S. A.,
 
 . . . About my coming to India, the matter stands thus. I am, as Your Highness well knows, a man of dogged perseverance. I have planted a seed in this country; it is already a plant, and I expect it to be a tree very soon. I have got a few hundred followers. I shall make several Sannyasins and then I go to India, leaving the work to them. The more the Christian priests oppose me, the more I am determined to leave a permanent mark on their country. . . . I have already some friends in London. I am going there by the end of August. . . . This winter anyway has to be spent partly in London, and partly in New York, and then I shall be free to go to India. There will be enough men to carry on the work here after this winter, if the Lord is kind. Each work has to pass through these stages—ridicule, opposition, and then acceptance. Each man who thinks ahead of his time is sure to be misunderstood. So opposition and persecution are welcome, only I have to be steady and pure and must have immense faith in God, and all these will vanish.
 
-### Letter 140: Mr. E. T. Sturdy
+### Letter 138: Mr. E. T. Sturdy
 
 ### (138)
 
@@ -2770,7 +2729,7 @@ U. S. A.,
 
 May the *Sat* in you be always your infallible guide ! May He speedily attain to freedom, and help others to attain it !
 
-### Letter 141: Mr. E. T. Sturdy
+### Letter 139: Mr. E. T. Sturdy
 
 ### (139)
 
@@ -2800,10 +2759,9 @@ There is no willing without knowing. How can we desire unless we know the object
 
 The apparent difficulty vanishes as soon as you divide knowledge also into subconscious and conscious. And why not? If will can be so treated, why not its father?
 
-### Letter 142: Swami Vivekananda → Swami Brahmananda
+### Letter 140: Swami Vivekananda → Swami Brahmananda
 
-### (140)
-*To Swami Brahmananda*
+### (140) *To Swami Brahmananda*
 
 <span class="small-caps">New York</span>,*  
 19, <span class="small-caps">West 38th Street</span>,  
@@ -2811,10 +2769,9 @@ The apparent difficulty vanishes as soon as you divide knowledge also into subco
 
 <span class="small-caps">Beloved Rakhal</span>—. . . I am now in New York City. This city is hot in summer, exactly like Calcutta. You perspire profusely, and there is not a breath of air. I made a tour in the north for a couple of months. Please answer this letter by return of post to England, for which I shall start before this will have reached you.—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 143: Swami Vivekananda → Mr. E. T. Sturdy
+### Letter 141: Swami Vivekananda → Mr. E. T. Sturdy
 
-### (141)
-*To Mr. E. T. Sturdy*
+### (141) *To Mr. E. T. Sturdy*
 
 <span class="small-caps">New York</span>,  
 19, <span class="small-caps">West 38th Street</span>,  
@@ -2844,7 +2801,7 @@ There is but one basis of well-being, social, political or spiritual, to know th
 
 Let us work without desire for name or fame or rule over the others. Let us be free from the triple bonds of lust, greed of gain and anger. And the truth is with us!—Ever yours in the Lord, <span class="small-caps">VIVEKANANDA.</span>
 
-### Letter 144: Swami Vivekananda → Mrs. Ole Bull
+### Letter 142: Swami Vivekananda → Mrs. Ole Bull
 
 ### *(142)*
 
@@ -2861,7 +2818,7 @@ The older I grow the more I see behind the idea of the Hindus that *man* is the 
 
 —Yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 145: Swami Vivekananda → Sj. Alasinga Perumal
+### Letter 143: Swami Vivekananda → Sj. Alasinga Perumal
 
 ### (143)
 
@@ -2872,7 +2829,7 @@ U. S. A.,
 
 By the time this reaches you, dear Alasinga, I shall be in Paris. . . . I have done a good deal of work this year and hope to do a good deal more in the next. Don’t bother about the missionaries. It is quite natural that they should cry. Who does not when his bread is dwindling away? The missionary funds have got a big gap the last two years, and it is on the increase. However I wish the missionaries all success. So long as you have love for God and Guru, and faith in truth, nothing can hurt you, my son. But the loss of any of these is dangerous. You have remarked well; my ideas are going to work in the West better than in India. . . . I have done more for India than India ever did for me. I believe in truth, the Lord sends me workers by the scores wherever I go—and they are not like the . . . disciples either—they are ready to give up their lives for their Guru. Truth is my God, the Universe my country. I do not believe in duty. Duty is the curse of the Samsâri, not for the Sannyasin. Duty is a humbug. I am free, my bonds are cut, what care I where this body goes or does not go? You have helped me well right along. The Lord will reward you. I sought praise neither from India nor from America, nor do I seek such bubbles. I have a truth to teach, I, the child of God. And He that gave me the truth will send me fellow-workers from the Earth’s bravest and best. You Hindus will see in a few years what the Lord does in the West. You are like the Jews of old—dogs in the manger, neither eat nor give others to eat. You have no religion, your God is the kitchen, your Bible the cooking pots. You are a few brave lads . . . . Hold on, boys, no cowards among my children . . . . Are great things ever done smoothly? Time, patience and indomitable will must show. I could have told you many things that could have made your heart leap, but I will not. I want iron wills and hearts that do not know how to quake. Hold on. The Lord bless you.—Yours ever with blessings, <span class="small-caps">Vivekananda.</span>
 
-### Letter 146: Swami Vivekananda → Sj. Alasinga Perumal
+### Letter 144: Swami Vivekananda → Sj. Alasinga Perumal
 
 ### (144)
 
@@ -2891,7 +2848,7 @@ Do you mean to say I am born to live and die one of those caste-ridden, supersti
 
 I am going to-morrow to London. . . . —Yours with blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 147: Swami Vivekananda
+### Letter 145: Swami Vivekananda
 
 ### (*145*)
 
@@ -2919,11 +2876,9 @@ Talking of the restlessness of Tulsi and Subodh’s mind, it all means that they
 
 Whether I live or die, whether I go back to India or not, you go on spreading love, love that knows no bounds. Put Gupta, too, to this task. But remember one needs weapons to overcome others. सन्निमित्ते वरं त्यागो विनाशे नियते सति —“When death is so certain, it is better to die for a good cause.”—Yours affly., <span class="small-caps">Vivekananda</span>.
 
-P. S. Remember my previous letter—we want both men and women. There is no distinction of sex in the soul. It won’t do merely to call Sri Ramakrishna an Incarnation, you must manifest power. Where are Gaur Ma, Jogen Ma and Golap Ma? Tell them to spread these ideas. We want thousands of men, and thousands of women, who will spread like wild fire from the Himalayas to Cape Comorin, from the North Pole to the South Pole—all over the world. It is no use indulging in child’s play—neither is there time for it. Let those who have come for child’s play be off now, while there is time, or they will surely come to grief. We want an organisation. Off with laziness. Spread! Spread! Run like fire to all places.
+P. S. Remember my previous letter—we want both men and women. There is no distinction of sex in the soul. It won’t do merely to call Sri Ramakrishna an Incarnation, you must manifest power. Where are Gaur Ma, Jogen Ma and Golap Ma? Tell them to spread these ideas. We want thousands of men, and thousands of women, who will spread like wild fire from the Himalayas to Cape Comorin, from the North Pole to the South Pole—all over the world. It is no use indulging in child’s play—neither is there time for it. Let those who have come for child’s play be off now, while there is time, or they will surely come to grief. We want an organisation. Off with laziness. Spread! Spread! Run like fire to all places. Do not depend upon me. Whether I live or die, go on spreading, yourselves.—Yours affly., <span class="small-caps">VIVEKANANDA</span>.
 
-Do not depend upon me. Whether I live or die, go on spreading, yourselves.—Yours affly., <span class="small-caps">VIVEKANANDA</span>.
-
-### Letter 148: Swami Vivekananda → Swami Brahmananda
+### Letter 146: Swami Vivekananda → Swami Brahmananda
 
 ### *(146)*
 
@@ -2960,11 +2915,11 @@ The only way of getting our divine nature manifested is by helping others do the
 
 If there is inequality in nature, still there must be equal chance for all—or if greater for some and for some less—the weaker should be given more chance than the strong.
 
-In other words, a Brahmin is not so much in need of education as a Chandâla. If the son of a Brahmin needs one teacher, that of a Chandala needs ten. For, greater help must be given to him whom nature has not endowed witn acute intellect from birth. It is a mad man who carries coals to Newcastle. The poor, the downtrodden, the ignorant, let these be your God.
+In other words, a Brahmin is not so much in need of education as a Chandâla. If the son of a Brahmin needs one teacher, that of a Chandala needs ten. For, greater help must be given to him whom nature has not endowed witn acute intellect from birth. It is a mad man who carries coals to Newcastle. The poor, the down-trodden, the ignorant, let these be your God.
 
 A dreadful slough is in front of you—take care; many fall into it and die. The slough is this, that the present religion of the Hindus is not in the Vedas, nor in the Puranas, nor in Bhakti, nor in Mukti—religion has entered into the cooking-pot. The present religion of the Hindus is neither the path of Knowledge nor that of Reason—it is “ Don’t-touchism.”—“ Don’t touch me !” “ Don’t touch me !”—that exhausts its description. See that you do not lose your lives in this dire irreligion of “ Don’t-touchism.” Must the teaching आत्मवत्सर्वभूतेषु— “Looking upon all beings as your own self”—be confined to books alone ? How will they grant salvation who cannot feed a hungry mouth with a crumb of bread ? How will those who become impure at the mere breath of others, purify others ? Don’t-touchism is a form of mental disease. Beware ! All expansion is life, all contraction is death. All love is expansion, all selfishness is contraction. Love is therefore the only law of life. He who loves lives, he who is selfish is dying. Therefore love for love’s sake, because it is the only law of life, just as you breathe to live. This is the secret of selfless love, selfless action and the rest. . . . Try to help Sasi (Sanyal) if you can in any way. He is a very good and pious man, but is of a narrow heart. It does not fall to the lot of all to feel for the misery of others. Good Lord ! Of all Incarnations Lord Chaitanya was the greatest, but he was comparatively lacking in Knowledge; in the Ramakrishna Incarnation there is Knowledge, Devotion and Love—infinite Knowledge, infinite Love, infinite Work, infinite Compassion for all beings. You have not yet been able to understand him. श्रुत्वाप्येनं वेद न चैव कश्चित् —“ Even hearing about Him, most people do not understand Him.” What the whole Hindu race has thought in ages, he *lived* in one life. His life is the living commentary to the Vedas of all nations. People will come to know him by degrees. My old watchword—struggle, struggle up to light ! Onward !—Yours in service, <span class="small-caps">Vivekananda</span>.
 
-### Letter 149: Swami Vivekananda → Swami Akhandananda
+### Letter 147: Swami Vivekananda → Swami Akhandananda
 
 ### (147)
 
@@ -2974,9 +2929,9 @@ C/o <span class="small-caps">E. T. Sturdy, Esq.</span>,*
 <span class="small-caps">High View, etc.</span>,  
 *1895.*
 
-<span class="small-caps">Beloved Akhandananda</span>—I am glad to go through the contents of your letter. Your idea is grand but our nation is totally lacking in the faculty of organisation. It is this one drawback which produces all sorts of evil. We are altogether averse to making a common cause for anything. The first requisite for organisation is obedience. I do a little bit of work when I feel so disposed, and then let it go to the dogs—this kind of work is of no avail. We must have plodding industry and perseverance. Keep a regular correspondence, I mean, make it a point to write to me every month, or twice a month, what work you are doing, and what has been its outcome. We want here (in England) a Sannyasin well versed in English and Sanskrit. I shall soon go to America again, and he is to work here in my absence. Except Sarat and Sasi—I find no one else for this task. I have sent money to S—and written to him to start at once. I have requested Rajaji that his Bombay agent may help Sarat in embarking. I forgot to write—but if you can take the trouble to do it, please send through Sarat a bag of *mûng*, *gram*, and *arhar* *dâl*, also a little of the spice called *methi*. Please convey my love to Pandit Narayan Das, Mr. Shankar Lal, Ojhaji, Doctor, and all. Do you think you can get the medicine for Gopi’s eyes here? Everywhere you find patent medicines, which are all humbug. Please give my blessings to him and to the other boys. Jajneswar Babu has founded a certain society at Meerut and wants to work conjointly with us. By-the-bye, he has got a certain paper too; send Kali there, and let him start a Meerut centre, if he can, and try to have the paper in Hindi. I shall help a little now and then. I shall send some money when Kali goes to Meerut and reports to me exactly how matters stand. Try to open a centre at Ajmere. . . . Pandit Agnihotri has started some society at Saharanpur. They wrote me a letter. Please keep in correspondence with them. Live on friendly terms with all. Work ! Work ! Go on opening centres in this way. We have them already in Calcutta and Madras, and it will be excellent if you can start new ones at Meerut and Ajmere. Go on slowly starting centres at different places like that. Here all my letters etc., are to be addressed in C/o E. T. Sturdy, Esq., High View, Caversham, Reading, England, and those for America, C/o Miss Phillips, 19 W. 38th Street, New York. By degrees we must spread the world over. The first thing needed is obedience. You must be ready to plunge into fire—then will work be done. . . . Form societies like that at different villages in Rajputana . There you have a hint.—Yours affectionately, <span class="small-caps">Vivekananda.</span>
+<span class="small-caps">Beloved Akhandananda</span>—I am glad to go through the contents of your letter. Your idea is grand but our nation is totally lacking in the faculty of organisation. It is this one drawback which produces all sorts of evil. We are altogether averse to making a common cause for anything. The first requisite for organisation is obedience. I do a little bit of work when I feel so disposed, and then let it go to the dogs—this kind of work is of no avail. We must have plodding industry and perseverance. Keep a regular correspondence, I mean, make it a point to write to me every month, or twice a month, what work you are doing, and what has been its outcome. We want here (in England) a Sannyasin well versed in English and Sanskrit. I shall soon go to America again, and he is to work here in my absence. Except Sarat and Sasi—I find no one else for this task. I have sent money to S—and written to him to start at once. I have requested Rajaji that his Bombay agent may help Sarat in embarking. I forgot to write—but if you can take the trouble to do it, please send through Sarat a bag of *mûng*, *gram*, and *arhar* *dâl*, also a little of the spice called *methi*. Please convey my love to Pandit Narayan Das, Mr. Shankar Lal, Ojhaji, Doctor, and all. Do you think you can get the medicine for Gopi’s eyes here? Everywhere you find patent medicines, which are all humbug. Please give my blessings to him and to the other boys. Jajneswar Babu has founded a certain society at Meerut and wants to work conjointly with us. By-the-bye, he has got a certain paper too; send Kali there, and let him start a Meerut centre, if he can, and try to have the paper in Hindi. I shall help a little now and then. I shall send some money when Kali goes to Meerut and reports to me exactly how matters stand. Try to open a centre at Ajmere. . . . Pandit Agnihotri has started some society at Saharanpur. They wrote me a letter. Please keep in correspondence with them. Live on friendly terms with all. Work ! Work ! Go on opening centres in this way. We have them already in Calcutta and Madras, and it will be excellent if you can start new ones at Meerut and Ajmere. Go on slowly starting centres at different places like that. Here all my letters etc., are to be addressed in C/o E. T. Sturdy, Esq., High View, Caversham, Reading, England, and those for America, C/o Miss Phillips, 19 W. 38th Street, New York. By degrees we must spread the world over. The first thing needed is obedience. You must be ready to plunge into fire—then will work be done. . . . Form societies like that at different villages in Rajputana. There you have a hint.—Yours affectionately, <span class="small-caps">Vivekananda.</span>
 
-### Letter 150: Swami Vivekananda → Mrs. Ole Bull
+### Letter 148: Swami Vivekananda → Mrs. Ole Bull
 
 ### (148)
 
@@ -2989,7 +2944,7 @@ C/o <span class="small-caps">E. T. Sturdy, Esq.</span>,*
 
 <span class="small-caps">Dear Mrs. Bull</span>—Mr. Sturdy and I want to get hold of a few of the best, say, strong and intelligent men in England to form a society and therefore we must proceed slowly. We must take care not to be run over with “ fads ” from the first. This you will know has been my policy in America too. Mr. Sturdy has been in India living with our Sannyasins in their manner for some time. He is an exceedingly energetic man, educated and well versed in Sanskrit. . . . So far so good. . . . Purity, perseverance and energy—these three I want, and if I get only half a dozen here my work will go on. I have a great chance of such a few.—Yours, <span class="small-caps">Vivekananda.</span>
 
-### Letter 151: Swami Vivekananda → Mrs. Ole Bull
+### Letter 149: Swami Vivekananda → Mrs. Ole Bull
 
 ### (149)
 
@@ -3000,7 +2955,7 @@ C/o <span class="small-caps">E. T. Sturdy, Esq.</span>,*
 
 <span class="small-caps">Dear Mrs. Bull</span>—. . . I have been helping Mr. Sturdy in studying Sanskrit. . . . Mr. Sturdy wants me to bring over a monk from India from amongst my brethren to help him when I am away in America. I have written to India for one. . . . So far it is all right. I am waiting for the next wave. “ Avoid not and seek not—wait for what the Lord sends,” is my motto. . . . I am a slow writer, but the heart is full of gratitude.—Yours with best wishes, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 152: Swami Vivekananda
+### Letter 150: Swami Vivekananda
 
 ### *(150)*
 
@@ -3009,7 +2964,7 @@ C/o <span class="small-caps">E. T. Sturdy, Esq.</span>,*
 
 <span class="small-caps">DEAR</span>—,. . . Purity, patience and perseverance overcome all obstacles. All great things must of necessity be slow. . . . —Yours with love, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 153: Swami Vivekananda → Swami Brahmananda
+### Letter 151: Swami Vivekananda → Swami Brahmananda
 
 ### *(151)*
 
@@ -3029,20 +2984,18 @@ I give you a bit of my mind; don’t be angry, pray. I am your slave so long as 
 
 . . . Haramohan has written about his troubled circumstances, and says he will be dislodged from his home soon. He has asked for some lectures, but I have none at present, but have still some money left in my purse which I shall send him. So he need not be afraid. I could send him at once, but I suspect that the money I last sent miscarried, therefore I postpone sending it. Secondly, I know, besides, of no address to send it to. I see the Madrasees have failed to start the paper. Practical wisdom is altogether wanting in the Hindu nation, I see. Whenever you promise to do any work, you must do it exactly at the appointed time, or people lose their faith in you. Money matters require a speedy reply. . . . If Master Mahashay be willing, tell him to be my Calcutta agent, for I have an implicit faith in him and he understands a good deal of these things, it is not for a childish and noisy rabble to do it. Tell him to fix upon a centre, an address that will not change every hour and to which I shall direct all my Calcutta correspondence. . . . Business is business. . . .—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 154: Swami Vivekananda → Mrs. Ole Bull
+### Letter 152: Swami Vivekananda → Mrs. Ole Bull
 
-### (152)
-*To Mrs. Ole Bull*
+### (152) *To Mrs. Ole Bull*
 
 <span class="small-caps">Reading</span>,  
 *6th Oct.*, 1895.
 
 <span class="small-caps">Dear Mrs. Bull</span>—. . . I am translating a little book on Bhakti with Mr. Sturdy with copious commentaries, which is to be published soon. This month I am to give two lectures in London and one in Maidenhead. This will open up the way to some classes and parlour lectures. We do not wish to make any noise but to go quietly. . . .—Yours with best wishes, <span class="small-caps">Vivekananda</span>.
 
-### Letter 155: Swami Vivekananda → Sj. Alasinga Perumal
+### Letter 153: Swami Vivekananda → Sj. Alasinga Perumal
 
-### (153)
-*To Sj. Alasinga Perumal*
+### (153) *To Sj. Alasinga Perumal*
 
 <span class="small-caps">London</span>,  
 *24th Oct.*, 1895.
@@ -3051,10 +3004,9 @@ I give you a bit of my mind; don’t be angry, pray. I am your slave so long as 
 
 Take courage and work on. Patience and steady work—this is the only way. Go on, remember patience and purity and courage and steady work. . . . So long as you are pure and true to your principles you will never fail. Mother will never leave you, and all blessings will be yours.—Yours, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 156: Swami Vivekananda → Mr. E. T. Sturdy
+### Letter 154: Swami Vivekananda → Mr. E. T. Sturdy
 
-### (154)
-*To Mr. E. T. Sturdy*
+### (154) *To Mr. E. T. Sturdy*
 
 80, <span class="small-caps">OAKLEY ST., CHELSEA</span>,  
 *31st October, 1895, 5 p.m.*
@@ -3071,7 +3023,7 @@ The Ethical Society has sent me another letter thanking me for the acceptance of
 
 I would not do anything in this matter without seeing you first.—Yours with love and blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 157: Swami Vivekananda → Swami Ramakrishnananda
+### Letter 155: Swami Vivekananda → Swami Ramakrishnananda
 
 ### *(155)*
 
@@ -3082,14 +3034,13 @@ I would not do anything in this matter without seeing you first.—Yours with lo
 <span class="small-caps">Reading, England,</span>  
 *1895.*
 
-<span class="small-caps">Dear Sasi</span>—. . . I am in receipt of Rakhal’s letter to-day. I am sorry to hear that—has suffered from gravel. Most probably it was due to indigestion. Gopal’s debts have been cleared, now ask him to join the monastic order. The worldly-wise instinct is most difficult to root out. . . . Let him come and work in the Math. One is apt to imbibe a lot of mischievous ideas by concerning oneself too long in worldly affairs. If he refuses to take the monastic vow, please tell him to clear out. I don’t want amphibious types of men who will be half monks and half householders. . . . Haramohan has coined a *Lord Ramakrishna* Paramahamsa, I see. What does he mean? English Lord, or Duke? Tell Rakhal, let people say whatever they will—“ Men (who wrongly criticise) are to be treated as worms !” as Sri Ramakrishna used to say. Let there be no disparity between what you profess and what you do, also eschew the very name of Jesuitism. Was I ever an orthodox, Paurânika Hindu, an adherent of social usages? I do not pose as one. You will not have to say things that will be *pleasant* to any section of people. You must not so much as notice what the—say for or against us. . . . They could not do a penny-worth of service to him whose birth has sanctified their country where the primary laws of health and sanitation are trampled, and yet they would talk big ! What matters it, my brother, that such men have got to say ! . . . It is for you to go on doing your own work. Why look up to men for approbation, look up to God ! I hope Sarat will be able to teach them the Gita and the Upanishads and their commentaries somehow, with the help of the dictionary. Or, is it an empty Vairâgya that you have? The days of such Vairagya are gone ! It is not for everyone, my boy, to become Ramakrishna Paramahamsa ! I hope Sarat has started by this time. Please send a copy of the Panchadashi, a copy of the Gita (with as many commentaries as possible), a copy each of the Narada and Shandilya Sutras (published from Benares), a translation (good, not worthless) of the Panchadashi, if it is available, translation by Kalivar Vedantavagish of Shankara’s commentary. And if there be any translation, Bengali or English (by Srish Basu of Allahabad), of Pânini’s Sutras, or the Kâshikâ Vritti, or the Phani Bhâshya, please send a copy of each. . . . Now, just tell your—s to send me a copy of the Vâchaspatya Dictionary, and that will be a good test for those tall-talking people. In England religious movements make very slow progress. These people here are either bigots or atheists. And the former again have only a bit of formal religion. They say, “ Patriotism is our religion.” That is all.
+<span class="small-caps">Dear Sasi</span>—. . . I am in receipt of Rakhal’s letter to-day. I am sorry to hear that—has suffered from gravel. Most probably it was due to indigestion. Gopal’s debts have been cleared, now ask him to join the monastic order. The worldly-wise instinct is most difficult to root out. . . . Let him come and work in the Math. One is apt to imbibe a lot of mischievous ideas by concerning oneself too long in worldly affairs. If he refuses to take the monastic vow, please tell him to clear out. I don’t want amphibious types of men who will be half monks and half householders. . . . Haramohan has coined a *Lord Rama*krishna Paramahamsa, I see. What does he mean? English Lord, or Duke? Tell Rakhal, let people say whatever they will—“ Men (who wrongly criticise) are to be treated as worms !” as Sri Ramakrishna used to say. Let there be no disparity between what you profess and what you do, also eschew the very name of Jesuitism. Was I ever an orthodox, Paurânika Hindu, an adherent of social usages? I do not pose as one. You will not have to say things that will be *pleasant* to any section of people. You must not so much as notice what the—say for or against us. . . . They could not do a penny-worth of service to him whose birth has sanctified their country where the primary laws of health and sanitation are trampled, and yet they would talk big ! What matters it, my brother, that such men have got to say ! . . . It is for you to go on doing your own work. Why look up to men for approbation, look up to God ! I hope Sarat will be able to teach them the Gita and the Upanishads and their commentaries somehow, with the help of the dictionary. Or, is it an empty Vairâgya that you have? The days of such Vairagya are gone ! It is not for everyone, my boy, to become Ramakrishna Paramahamsa ! I hope Sarat has started by this time. Please send a copy of the Panchadashi, a copy of the Gita (with as many commentaries as possible), a copy each of the Narada and Shandilya Sutras (published from Benares), a translation (good, not worthless) of the Panchadashi, if it is available, translation by Kalivar Vedantavagish of Shankara’s commentary. And if there be any translation, Bengali or English (by Srish Basu of Allahabad), of Pânini’s Sutras, or the Kâshikâ Vritti, or the Phani Bhâshya, please send a copy of each. . . . Now, just tell your—s to send me a copy of the Vâchaspatya Dictionary, and that will be a good test for those tall-talking people. In England religious movements make very slow progress. These people here are either bigots or atheists. And the former again have only a bit of formal religion. They say, “ Patriotism is our religion.” That is all.
 
 Send the books to America, C/o Miss Mary Phillips, 19, W. 38th Street, New York, U. S. America. That is my American address. By the end of November I shall go to America. So send my books etc., there. If Sarat has started immediately on your receipt of my letter, then only I may meet him, otherwise not. Business is business, no child’s play. Mr. Sturdy will see him in and accommodate him. This time I have come to England just to probe a little. Next summer I shall try to make some stir. The winter after that, I shall go to India. . . . Correspond regularly with those who are interested in us, so as to keep up their interest. Try to open centres in places all over Bengal. . . . This much for the present. In my next I shall give you more details. Mr. Sturdy is a very nice gentleman, a staunch Vedantist, and understands a smattering of Sanskrit. It is with a good deal of labour that you can do a little bit of work in these countries; a sheer uphill task, with cold and rain into the bargain. Moreover, here you must support yourself and do your labour of love. Englishmen won’t spend a penny on lectures or things of that sort. If they do come to listen to you, well, thank your stars—as is the case in our country. Besides the common people here do not even know of me now. In addition to all this, they will give you a wide berth if you preach God and such like things to them. They think this must be another clergyman! Well, you just patiently do one thing—set about collecting everything that books, beginning with the Rigveda down to the most insignificant of Purânas and Tantras, have got to say about creation and annihilation of the universe, about race, heaven and hell, the soul, consciousness and intellect, etc., sense-organs, Mukti, transmigration and such like things. No child’s play would do, I want real scholarly work. The most important thing is to collect the materials. My love to you all.—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 158: Swami Vivekananda → Swami Akhandananda
+### Letter 156: Swami Vivekananda → Swami Akhandananda
 
-### (156)
-*To Swami Akhandananda*
+### (156) *To Swami Akhandananda*
 
 <span class="small-caps">London</span>,*  
 *13th Nov., 1895.*
@@ -3104,7 +3055,7 @@ Let me now address myself to you—take particular care to start a centre in Raj
 
 Teach against the marriage of boys. No scripture ever sanctions it. But for the present say nothing against little girls being married. Directly you stop the marriage of boys, that of girls will stop of itself. Girls surely are not going to marry among themselves! Write to the Secretary, Arya Samaj, Lahore, asking the whereabouts of a Sannyasin named Achyutananda who used to live with them. Make special inquiry of the man. . . . Never fear.—Yours affectionately, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 159: Swami Vivekananda → Sj. Alasinga Perumal
+### Letter 157: Swami Vivekananda → Sj. Alasinga Perumal
 
 ### (157)
 
@@ -3121,7 +3072,7 @@ I have no time even to die, as the Bengalees say. I work, work, work, and earn m
 
 . . . I am really tired from incessant work. Any other Hindu would have died if he had to work as hard as I have to. . . . I want to go to India for a long rest.—Ever yours with love and blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 160: Swami Vivekananda → Swami Brahmananda
+### Letter 158: Swami Vivekananda → Swami Brahmananda
 
 ### (158)
 
@@ -3136,7 +3087,7 @@ I have no time even to die, as the Bengalees say. I work, work, work, and earn m
 
 Black as chimney sweeps, and calling themselves Europeans! Why not wear one’s country-dress, as befits gentlemen?—Instead of that, to add to that frightfulness of appearance! Good heavens! . . . Here, as in our country, one has to spend from his own pocket to give lectures, but one can make good the expenses if he lives long enough and makes a reputation. Another thing, my incessant lecturing tours are making my constitution very nervous causing insomnia and other troubles. Over and above that, I have to work single-handed. It is no use depending on my countrymen. No one (in Bengal) has hitherto helped me with a penny, nor has a single soul stepped forward to my assistance. Everybody in this world seeks help, and the more you help him, the more he wants. And if you can do no further, he will call you a cheat. . . . I love—and trust him. . . . He will be free from disease through the Lord’s grace. I take all his responsibility. . . .—Yours affectionately, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 161: Swami Vivekananda
+### Letter 159: Swami Vivekananda
 
 ### *(159)*
 
@@ -3145,7 +3096,7 @@ Black as chimney sweeps, and calling themselves Europeans! Why not wear one’s 
 
 <span class="small-caps">DEAR</span>—, I sail by the *Britannia* on Wednesday the 27th. My work so far has been very satisfactory here, and I am sure to do splendid work here next summer. . . . —Yours with love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 162: Swami Vivekananda
+### Letter 160: Swami Vivekananda
 
 ### *(160)*
 
@@ -3158,7 +3109,7 @@ In England I worked on this principle and refused even the voluntary collections
 
 My idea is for autonomic, independent groups in different places. Let them work on their own account and do the best they can. As for myself, I do not want to entangle myself in any organisation. . . .—Yours with blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 163: Swami Vivekananda
+### Letter 161: Swami Vivekananda
 
 ### (161)
 
@@ -3169,10 +3120,9 @@ My idea is for autonomic, independent groups in different places. Let them work 
 
 This month notices are out for the four Sunday lectures. The lectures for the first week of February in Brooklyn are being arranged by Dr. Janes and others.— Yours with best wishes, <span class="small-caps">Vivekananda</span>.
 
-### Letter 164: Swami Vivekananda → Mr. E. T. Sturdy
+### Letter 162: Swami Vivekananda → Mr. E. T. Sturdy
 
-### (162)
-*To Mr. E. T. Sturdy*
+### (162) *To Mr. E. T. Sturdy*
 
 228, W. 39<span class="small-caps">th</span> <span class="small-caps">St.</span>, <span class="small-caps">New York</span>,  
 *16th (?) Dec., 1895.*
@@ -3187,7 +3137,7 @@ Again I am afraid my health is breaking down under constant work. I want some re
 
 Next month I go to Detroit, then to Boston, and Harvard University. Then I will have a rest, and then I come to England, unless you think that things go on without me and with Krishnananda.—Ever yours with love and blessings, <span class="small-caps">Vivekananda.</span>
 
-### Letter 165: Swami Vivekananda → Sj. Alasinga Perumal
+### Letter 163: Swami Vivekananda → Sj. Alasinga Perumal
 
 ### *(163)*
 
@@ -3204,7 +3154,7 @@ Next month I go to Detroit, then to Boston, and Harvard University. Then I will 
 
 . . . Hold on with faith and strength; be true, be honest, be pure, and don’t quarrel amongst yourselves. Jealousy is the bane of our race.—With love to you and all our friends, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 166: Swami Vivekananda → Swami Saradananda
+### Letter 164: Swami Vivekananda → Swami Saradananda
 
 ### (164)
 
@@ -3213,11 +3163,11 @@ Next month I go to Detroit, then to Boston, and Harvard University. Then I will 
 228, W. 39<span class="small-caps">th</span> <span class="small-caps">St.</span>, <span class="small-caps">New York</span>,  
 *23rd Dec., 1895.*
 
-D<span class="small-caps">ear</span> S<span class="small-caps">arat</span>—Your letter only made me sad. I see you have lost all enthusiasm. I know all of you, your powers and your limitations. I would not have called you to any task which you are incompetent to do. The only task I would have given you was to teach Elementary Sanskrit, and with the help of dictionaries and other things assist S. in his translations and teachings. I would have moulded you to it. Any one could have done as well—only a little smattering of Sanskrit was absolutely necessary. Well, everything is for the best. If it is the Lord’s work the right man for the right place will be forthcoming in the right time. None of you need feel disturbed. As for Sanyal, I don’t care who takes money or not, but I have a strong hatred for child-marriage. I have suffered terribly from it and it is the great sin for which our nation has to suffer. As such I would hate myself if I help such a diabolical custom directly or indirectly. I wrote to you pretty plain about it and Sanyal had no right to play a hoax upon me about his “ law-suit ” and his attempts to become free. I am sorry for his playing tricks on me who have never done him any harm. This is the world. What good you do goes for nothing, but if you stop doing it, then, Lord help you, you are counted as a rogue. Isn’t it? Emotional natures like mine are always preyed upon by relatives and friends. This world is merciless. This world is our friend when we are its slaves and no more. This world is broad enough for me. There will always be a corner found for me somewhere . If the people of India do not like me, there will be others who like. I must set my foot to the best of my ability upon this devilish custom of child-marriage. No blame will entail on you. You keep at a safe distance, if you are afraid. I am sorry, very sorry, I cannot have any partnership with such doings as getting husbands for babies. Lord help me, I never had and never will have. Think of the case of—Babu! Did you ever meet a more cowardly or brutal one than that? I can kill the man who gets a husband for a baby. The upshot of the whole thing is—I want bold, daring, adventurous spirits to help me. Else I will work alone. I have a mission to fulfil. I will work it out alone. I do not care who comes or who goes. Sanyal is already done for by Samsâra. Beware, boy! That was all the advice I thought it my duty to give you. Of course you are great folks now—my words will have no value with you. But I hope the time will come when you will see clearer, know better and think other thoughts than you are now doing.
+D<span class="small-caps">ear</span> S<span class="small-caps">arat</span>—Your letter only made me sad. I see you have lost all enthusiasm. I know all of you, your powers and your limitations. I would not have called you to any task which you are incompetent to do. The only task I would have given you was to teach Elementary Sanskrit, and with the help of dictionaries and other things assist S. in his translations and teachings. I would have moulded you to it. Any one could have done as well—only a little smattering of Sanskrit was absolutely necessary. Well, everything is for the best. If it is the Lord’s work the right man for the right place will be forthcoming in the right time. None of you need feel disturbed. As for Sanyal, I don’t care who takes money or not, but I have a strong hatred for child-marriage. I have suffered terribly from it and it is the great sin for which our nation has to suffer. As such I would hate myself if I help such a diabolical custom directly or indirectly. I wrote to you pretty plain about it and Sanyal had no right to play a hoax upon me about his “ law-suit ” and his attempts to become free. I am sorry for his playing tricks on me who have never done him any harm. This is the world. What good you do goes for nothing, but if you stop doing it, then, Lord help you, you are counted as a rogue. Isn’t it? Emotional natures like mine are always preyed upon by relatives and friends. This world is merciless. This world is our friend when we are its slaves and no more. This world is broad enough for me. There will always be a corner found for me somewhere. If the people of India do not like me, there will be others who like. I must set my foot to the best of my ability upon this devilish custom of child-marriage. No blame will entail on you. You keep at a safe distance, if you are afraid. I am sorry, very sorry, I cannot have any partnership with such doings as getting husbands for babies. Lord help me, I never had and never will have. Think of the case of—Babu! Did you ever meet a more cowardly or brutal one than that? I can kill the man who gets a husband for a baby. The upshot of the whole thing is—I want bold, daring, adventurous spirits to help me. Else I will work alone. I have a mission to fulfil. I will work it out alone. I do not care who comes or who goes. Sanyal is already done for by Samsâra. Beware, boy! That was all the advice I thought it my duty to give you. Of course you are great folks now—my words will have no value with you. But I hope the time will come when you will see clearer, know better and think other thoughts than you are now doing.
 
 Good-bye! I would not bother you any more, and all blessings go with you all. I am very glad I have been of some service to you sometimes if you think so. At least I am pleased with myself for having tried my best to discharge the duties laid on me by my Guru, and well done or ill, I am glad that I tried. So good-bye. Tell Sanyal that I am not at all angry with him, but I am sorry, very sorry. It is not the money—that counts nothing—but the violation of a principle that pained me, and the trick he played on me. Good-bye to him also, and to you all. One chapter is closed of my life. Let others come in their due order. They will find me ready. You need not disturb yourselves at all about me. I want no help from any human being in any country. So good-bye! May the Lord bless you all for ever and ever!
 
-### Letter 167: Swami Vivekananda → Miss S. Farmer
+### Letter 165: Swami Vivekananda → Miss S. Farmer
 
 ### (165)
 
@@ -3236,7 +3186,7 @@ You have been consecrated and chosen by the Lord as a channel for converting thi
 
 Our Gita teaches that he who serves the servants of the Lord is His highest worshipper. You are a servant of the Lord, and as a disciple of Krishna I will always consider it a privilege and worship to render you any service in the carrying out of your inspired mission wherever I be.—Ever your affectionate brother, <span class="small-caps">Vivekananda</span>.
 
-### Letter 168: Swami Vivekananda
+### Letter 166: Swami Vivekananda
 
 ### (166)
 
@@ -3259,7 +3209,7 @@ Every morning there should be a little reading from the scriptures, which Kali, 
 
 What about a certain magazine that Haramohan was trying to publish? If you can manage to start one, it will indeed be nice.—Yours affectionately, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 169: Swami Vivekananda → Swami Brahmananda
+### Letter 167: Swami Vivekananda → Swami Brahmananda
 
 ### (167)
 
@@ -3275,7 +3225,7 @@ What fear! Whom to fear! Steel your hearts and set yourselves to work!—Yours a
 
 P. S.—Sarada is talking of bringing out a Bengali magazine. Help it with all your might. It is not a bad idea. You must not throw cold water on anybody’s project. Give up criticism altogether. Help all as long as you find they are doing all right, and in cases where they seem to be going wrong, show them their mistakes gently. It is criticising each other that is at the root of all mischief. That is the chief factor in breaking down organisations. . . .
 
-### Letter 170: Swami Vivekananda → Swami Ramakrishnananda
+### Letter 168: Swami Vivekananda → Swami Ramakrishnananda
 
 ### (168)
 
@@ -3361,7 +3311,7 @@ Tell him to write in this strain. Never mind for anything—the Lord will be at 
 
 P. S. . . . Ask Sanyal to send me a copy each of the Narada and Shandilya Sutras, and one of the Yoga-vashishtha, that has been translated in Calcutta. I want the English translation of the last, not a Bengali edition. . . .
 
-### Letter 171: Swami Vivekananda → Swami Brahmananda
+### Letter 169: Swami Vivekananda → Swami Brahmananda
 
 ### (169)
 
@@ -3371,9 +3321,9 @@ P. S. . . . Ask Sanyal to send me a copy each of the Narada and Shandilya Sutras
 
 <span class="small-caps">Dear Rakhal</span>—. . . Your suggestion to me to go back to India is no doubt right, but a seed has been sown in this country, and there is the possibility of its being nipped in the bud if I go away all on a sudden. Hence I have to wait some time. Moreover, it will be possible to manage everything nicely from here. Everybody requests me to return to India. It is all right, but don’t you see it is not wise to depend upon others. A wise man should stand firm on his own legs and act. Everything will come about slowly. For the present don’t forget to be on the look out for a site. We want a big plot—of about ten to twenty thousand rupees—it must be right on the Ganges. Though my capital is small, I am exceedingly bold. Have an eye on securing the land. At present we shall have to work three centres, one in New York, another in Calcutta and a third in Madras. Then, by degrees, as the Lord will arrange. . . . You must keep a strict eye on health; let everything else be subordinated to that. . . .
 
-Brother Tarak is eager for travel. Well, it is good, but these are very expensive countries; a preacher needs here at least a thousand rupees a month. But Brother Tarak has boldness, and it is God who provides everything. Quite true, but he must have to improve his English a little. The thing is, one has to snatch one’s bread from the jaws of the missionary scholars. That is, one must prevail over these people by dint of learning, or he will be blown off at a puff. They understand neither Sâdhus nor your Sannyasins, nor the spirit of renunciation. What they do understand is the vastness of learning, the display of eloquence and tremendous activity. Over and above that, the whole country will be searching for flaws, the clergy will day and night try to snub you, through force or guile. You must get rid of these obstructions to preach your doctrines. Through the mercy of the Divine Mother everything is possible. But in my opinion if Brother Tarak goes on starting some societies in the Punjab and Madras, and you become organised, it will be the best thing. It is indeed a great thing to discover a new path, but it is as difficult a task to cleanse that path and make it spacious and nice. If you live for some time in places where I have sown the seeds of our Master’s ideals, and succeed in developing the seeds into plants, you will be doing much greater work than I did. What will they who cannot manage some ready-made thing do with regard to things that are yet to come? If you cannot add a little salt to a dish almost done, how am I to believe that you will collect all the ingredients? Let Brother Tarak, as an alternative, start a Himalayan Math at Almora, and have a library there; so that we may spend some of our spare time in a cool place, and practise spiritual exercises. However, I have nothing to say against any particular course which anyone may be led to adopt; on the contrary, Godspeed. शिवा वः सन्तु पन्थानः—“May your journey be prosperous.” Tell him to wait a bit. What’s the good of being in a hurry? You shall all travel the whole world. Courage! Brother Tarak has a great capacity for work within him. Hence I expect much of him. . . . You remember, I suppose, how after Sri Ramakrishna’s passing away, all forsook us as so many worthless, ragged boys. Only people like Balaram, Suresh, Master and Chuni Babu were our friends at that hour of need. And we shall never be able to repay our debts to them. . . . Tell Chuni Babu in private that he has nothing to fear, that those who are protected by the Lord must be above fear. I am a puny man, but the glories of the Lord are infinite. माभैः माभैः—discard fear. Let not your faith be shaken. . . . Has danger any power over one whom the Lord has taken into His fold?—Ever yours, <span class="small-caps">Vivekananda</span>.
+Brother Tarak is eager for travel. Well, it is good, but these are very expensive countries; a preacher needs here at least a thousand rupees a month. But Brother Tarak has boldness, and it is God who provides everything. Quite true, but he must have to improve his English a little. The thing is, one has to snatch one’s bread from the jaws of the missionary scholars. That is, one must prevail over these people by dint of learning, or he will be blown off at a puff. They understand neither Sâdhus nor your Sannyasins, nor the spirit of renunciation. What they do understand is the vastness of learning, the display of eloquence and tremendous activity. Over and above that, the whole country will be searching for flaws, the clergy will day and night try to snub you, through force or guile. You must get rid of these obstructions to preach your doctrines. Through the mercy of the Divine Mother everything is possible. But in my opinion if Brother Tarak goes on starting some societies in the Punjab and Madras, and you become organised, it will be the best thing. It is indeed a great thing to discover a new path, but it is as difficult a task to cleanse that path and make it spacious and nice. If you live for some time in places where I have sown the seeds of our Master’s ideals, and succeed in developing the seeds into plants, you will be doing much greater work than I did. What will they who cannot manage some ready-made thing do with regard to things that are yet to come? If you cannot add a little salt to a dish almost done, how am I to believe that you will collect all the ingredients? Let Brother Tarak, as an alternative, start a Himalayan Math at Almora, and have a library there; so that we may spend some of our spare time in a cool place, and practise spiritual exercises. However, I have nothing to say against any particular course which anyone may be led to adopt; on the contrary, God-speed. शिवा वः सन्तु पन्थानः—“May your journey be prosperous.” Tell him to wait a bit. What’s the good of being in a hurry? You shall all travel the whole world. Courage! Brother Tarak has a great capacity for work within him. Hence I expect much of him. . . . You remember, I suppose, how after Sri Ramakrishna’s passing away, all forsook us as so many worthless, ragged boys. Only people like Balaram, Suresh, Master and Chuni Babu were our friends at that hour of need. And we shall never be able to repay our debts to them. . . . Tell Chuni Babu in private that he has nothing to fear, that those who are protected by the Lord must be above fear. I am a puny man, but the glories of the Lord are infinite. माभैः माभैः—discard fear. Let not your faith be shaken. . . . Has danger any power over one whom the Lord has taken into His fold?—Ever yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 172: Swami Vivekananda → Sj. Alasinga Perumal
+### Letter 170: Swami Vivekananda → Sj. Alasinga Perumal
 
 ### (170)
 
@@ -3391,7 +3341,7 @@ Each one will have to save himself, each one to do his own work. I seek no help,
 
 When I became a Sannyasin I consciously took the step, knowing that this body would have to die of starvation. What of that, I am a beggar. My friends are poor, I love the poor, I welcome poverty. I am glad that I sometimes have to starve. I ask help of none. What is the use? Truth will preach itself, it will not die for the want of the helping hands of me! “Making happiness and misery the same, making success and failure the same, fight thou on.” (Gita). It is that eternal love, unruffled equanimity under all circumstances, and perfect freedom from jealousy or animosity that will tell. That will tell, nothing else. . . . —Yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 173: Swami Vivekananda → Swami Trigunatitananda
+### Letter 171: Swami Vivekananda → Swami Trigunatitananda
 
 ### (171)
 
@@ -3403,7 +3353,7 @@ When I became a Sannyasin I consciously took the step, knowing that this body wo
 
 Gangadhar has done right heroic work! Well done! Kali has joined him in work—thrice well done!! Let one go to Madras, and another to Bombay, let the world shake in its hinges! O the grief! If I could get two or three like me, I could have left the world convulsed. As it is, I have to proceed gently. Move the world to its foundations! Send one to China, another to Japan! What will the poor householders do, with their little bits of life? It is for the Sannyasins, Shiva’s demons, to rend the skies with their shouts of हर हर शम्भो —Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 174: Swami Vivekananda → Mr. E. T. Sturdy
+### Letter 172: Swami Vivekananda → Mr. E. T. Sturdy
 
 ### *(172)*
 
@@ -3426,7 +3376,7 @@ I have separated myself entirely from money questions, yet without it the moveme
 
 The committee is entirely executive and it is confined to New York alone. . . .—Ever yours with love and blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 175: Swami Vivekananda
+### Letter 173: Swami Vivekananda
 
 ### *(173)*
 
@@ -3440,7 +3390,7 @@ Now I would have no traitors, I tell you plainly, I would not be played upon by 
 
 P. S. Reply sharp your decision. I am very decided on this point. The *Brahmavadin* is for preaching Vedanta and not —. . . . I almost lose my patience when I see these underhand dealings. . . . This is the world—those whom you love best and help most try to cheat you. . . .
 
-### Letter 176: Swami Vivekananda → Swami Yogananda
+### Letter 174: Swami Vivekananda → Swami Yogananda
 
 ### (174)
 
@@ -3457,7 +3407,7 @@ Put forth all nerve for the magazine that Sarada is wanting to publish. Ask Sasi
 
 We would do nothing ourselves and would scoff at others who try to do something—this is the bane that has brought about our downfall as a nation. Want of sympathy and lack of energy are at the root of all misery, and you must therefore give these two up. Who but the Lord knows what potentialities there are in particular individuals—let all have opportunities, and leave the rest to the Lord. It is indeed very difficult to have an equal love for all, but without it there is no Mukti.—Yours affectionately, V<span class="small-caps">IVEKANANDA</span>.
 
-### Letter 177: Vivekananda → Mr. E. T. Sturdy
+### Letter 175: Vivekananda → Mr. E. T. Sturdy
 
 ### *(175)*
 
@@ -3488,7 +3438,7 @@ I want to work all this out carefully, but you will see at a glance that I am on
 
 Yours with blessings and love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 178: Sj. Alasinga Perumal
+### Letter 176: Sj. Alasinga Perumal
 
 ### *(176)*
 
@@ -3502,7 +3452,7 @@ I have succeeded now in rousing the very heart of the American civilisation, New
 
 To put the Hindu ideas into English and then make out of dry Philosophy and intricate Mythology and queer startling Psychology, a religion which shall be easy, simple, popular and at the same time meet the requirements of the highest minds—is a task only those can understand who have attempted it. The abstract Advaita must become living—poetic—in everyday life; out of hopelessly intricate Mythology must come concrete moral forms; and out of bewildering Yogi-ism must come the most scientific and practical Psychology—and all this must be put in a form so that a child may grasp it. That is my life's work. The Lord only knows how far I shall succeed. To work we have the right, not to the fruits thereof. It is hard work, my boy, hard work ! To keep one's self steady in the midst of this whirl of Kâma-Kânchana, and hold on to one's own ideals, until disciples are moulded to conceive of the ideas of realisation and perfect renunciation, is indeed difficult work. Thank God, already there is great success. I cannot blame the missionaries and others for not understanding me—they hardly ever saw a man who did not care about women and money. At first they could not believe it; how could they ? You must not think that the Western nations have the same ideas of chastity and purity as the Indians. Their equivalents are virtue and courage. . . . People are now flocking to me. Hundreds have become convinced that there are men who can really control their bodily desires; and reverence and respect for these principles are growing. All things come to him who waits. May you be blessed for ever and ever.—Yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 179: Mr. E. T. Sturdy
+### Letter 177: Mr. E. T. Sturdy
 
 ### (177)
 
@@ -3513,7 +3463,7 @@ To put the Hindu ideas into English and then make out of dry Philosophy and intr
 
 . . . I pray you again to think about this publishing business. . . . remembering “Ours is the gospel of the oneness of all beings” and all national feelings are but wicked superstitions. Moreover, I am sure that the person who is always ready to give way to others’ opinions finds at last that his opinion has triumphed. Yielding always conquers at last.
 
-### Letter 180: Vivekananda → Swami Trigunatitananda
+### Letter 178: Vivekananda → Swami Trigunatitananda
 
 ### (178)
 
@@ -3526,7 +3476,7 @@ To put the Hindu ideas into English and then make out of dry Philosophy and intr
 
 . . . What you need is only obedience. . . .—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 181: Sj. Alasinga Perumal
+### Letter 179: Sj. Alasinga Perumal
 
 ### (179)
 
@@ -3541,7 +3491,7 @@ My success is due to my popular style—the greatness of a teacher consists in t
 
 . . . I am going to England next month. I am afraid I have worked too much; my nerves are almost shattered by this long continued work. I don’t want you to sympathise, but only I write this so that you may not expect much from me now. Work on, the best way you can. I have very little hope of being able to do great things now. I am glad, however, that a good deal of literature has been created by taking down stenographic notes of my lectures. Four books are ready. . . . Well, I am satisfied that I have tried my best to do good, and shall have a clear conscience when I retire from work and sit down in a cave.––With love and blessings to all, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 182: Sj. Alasinga Perumal
+### Letter 180: Sj. Alasinga Perumal
 
 ### *(180)*
 
@@ -3556,7 +3506,7 @@ Mind, so long you have faith in your Guru, nothing will be able to obstruct your
 
 . . . Wait, my child, wait and work on. Patience, patience. . . . I will burst on the public again in good time. . . .—Yours with love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 183: Sj. Alasinga Perumal
+### Letter 181: Sj. Alasinga Perumal
 
 ### (181)
 
@@ -3571,7 +3521,7 @@ A letter you published from K— in the *Brahmavadin* was rather unfortunate. K�
 
 Before this reaches you I will be in England. So address me C/o E. T. Sturdy, Esq., High View, Caversham, Eng.—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 184: Vivekananda → Mrs. Ole Bull
+### Letter 182: Vivekananda → Mrs. Ole Bull
 
 ### (182)
 
@@ -3588,7 +3538,7 @@ I am suffering from slight fever the last two days; so I can’t write a long le
 
 My love to all in Boston.—Yours with kind regards, <span class="small-caps">Vivekananda</span>.
 
-### Letter 185
+### Letter 183
 
 ### (183)
 
@@ -3599,7 +3549,7 @@ My love to all in Boston.—Yours with kind regards, <span class="small-caps">Vi
 
 Now, if after testing his genuineness of spirit you feel satisfied, all he wants is to get some opportunities of seeing these manufactories. I hope he is true and that you can manage to help him in this.—Yours with kind regards, <span class="small-caps">Vivekananda.</span>
 
-### Letter 186: Dr. Nanjunda Rao, M.D.
+### Letter 184: Dr. Nanjunda Rao, M.D.
 
 ### (184)
 
@@ -3612,7 +3562,7 @@ Now, if after testing his genuineness of spirit you feel satisfied, all he wants
 
 . . . Go on bravely. Do not expect success in a day or a year. Always hold on to the highest. Be steady. Avoid jealousy and selfishness. Be obedient and eternally faithful to the cause of truth, humanity and your country, and you will move the world. Remember, it is the *person*, the life, which is the secret of power—nothing else. Keep this letter and read the last lines whenever you feel worried or jealous. Jealousy is the bane of all slaves. It is the bane of our nation. Avoid that always. All blessings attend you and all success.—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 187: Swami Trigunatitananda
+### Letter 185: Swami Trigunatitananda
 
 ### (185)
 
@@ -3625,7 +3575,7 @@ Now, if after testing his genuineness of spirit you feel satisfied, all he wants
 
 The term “ Friend ” can be used with all. In the English language you have not that sort of cringing politeness common in Bengali, and such Bengali terms done into English become ridiculous. That Ramakrishna Paramahamsa was God—and all that sort of thing, has no go in countries like this. M.—has a tendency to put that stuff down everybody’s throat, but that will make our movement a little sect. You keep separate from such attempts; at the same time if people worship him as God, no harm. Neither encourage nor discourage. The masses will always have the *person*, the higher ones, the *principle*. We want both. But principles are universal, *not* persons. Therefore stick to the principles he taught, let people think whatever they like of his person. . . . Truce to all quarrels and jealousies and <span class="small-caps">BIGOTRY</span>! These will spoil everything. “The first should be last.” . . . मद्भक्तानाञ्च ये भक्तास्ते मे भक्ततमा मताः —“Those who are the devotees of My devotees are My best devotees.”—Yours affectionately, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 188
+### Letter 186
 
 ### *(186)*
 
@@ -3697,7 +3647,7 @@ My friends, many have no doubt served the Master, but whenever anyone would be d
 
 P. S. Please read the contents of this letter to all, and let me know whether you consider the suggestions worth carrying out. Please tell Rakhal that he who is the servant of all is their true master. He never becomes a leader in whose love there is a consideration of high or low. He whose love knows no end, and never stops to consider high or low, has the whole world lying at his feet.—V.
 
-### Letter 189: Vivekananda
+### Letter 187: Vivekananda
 
 ### *(187)*
 
@@ -3708,7 +3658,7 @@ P. S. Please read the contents of this letter to all, and let me know whether yo
 
 I am very well indeed and enjoying life immensely.—Yours ever with love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 190: Miss Mary Hale
+### Letter 188: Miss Mary Hale
 
 ### (188)
 
@@ -3724,10 +3674,9 @@ Above all, his reverence for Ramakrishna Paramahamsa is extreme, and he has writ
 
 Things are going on here slowly but steadily. I am to begin from next Sunday my public lectures.—Yours ever in grateful affection, <span class="small-caps">Vivekananda</span>.
 
-### Letter 191: Miss Mary Hale
+### Letter 189: Miss Mary Hale
 
-### (189)
-*To the Same*
+### (189) *To the Same*
 
 63, <span class="small-caps">St. George’s Road,</span>  
 <span class="small-caps">London, S. W.,</span>  
@@ -3737,7 +3686,7 @@ Things are going on here slowly but steadily. I am to begin from next Sunday my 
 
 Yesterday I went to a marriage *a la mode*. Miss Müller, a rich lady, a friend who has adopted a Hindu boy and to help my work has taken rooms in this house, took us to see it. One of her nieces was married to somebody’s nephew I suppose. What tiring nonsense! I am glad you do not marry. Good-bye, love to all. No more time as I am going to lunch with Miss MacLeod.—Yours ever affly., <span class="small-caps">Vivekananda</span>.
 
-### Letter 192
+### Letter 190
 
 ### (190)
 
@@ -3751,11 +3700,9 @@ I do not like any one of my blood to become a lawyer, although my father was one
 
 P.S. Goodwin is writing to you this mail with reference to a magazine in America. I think something of the sort is necessary to keep the work together, and shall of course do all that I can to help it on in the line he suggests. . . . I think it very probable that he will come over with Saradananda.—Yours with love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 193
+### Letter 191: Vivekananda → Sister Nivedita
 
 ### (191)
-
-### Letter 194: Vivekananda → Sister Nivedita
 
 ### *To Sister Nivedita*
 
@@ -3774,7 +3721,7 @@ It is no superstition with you, I am sure, you have the making in you of a world
 
 May all blessings attend you for ever !—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 195: Swami Ramakrishnananda
+### Letter 192: Swami Ramakrishnananda
 
 ### (192)
 
@@ -3788,7 +3735,7 @@ May all blessings attend you for ever !—Yours affectionately, <span class="sma
 
 Sarat starts for America to-morrow. The work here is coming to a head. We have already got funds to start a London Centre. Next month I go to Switzerland to pass a month or two there, then I shall return to London. What will be the good of my going home—this London is the hub of the world. The heart of India is here. How can I leave without laying a sure foundation here? Nonesense ! For the present, I shall have Kali here, tell him to be ready. . . . We want great spirit, tremendous energy and boundless enthusiasm, no womanishness will do. Try to go on exactly as I wrote you to, in my last. We want organisation. Organisation is power, and the secret of that is obedience.—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 196: Swami Ramakrishnananda
+### Letter 193: Swami Ramakrishnananda
 
 ### (193)
 
@@ -3802,7 +3749,7 @@ Sarat starts for America to-morrow. The work here is coming to a head. We have a
 
 Let there be no delay as in Sarat’s case, but let Abhedananda come at once. Sarat has gone to America, as he had no work to do here. That is to say, he came here several months too late, when I was here. . . . —Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 197: Mr. Francis Leggett
+### Letter 194: Mr. Francis Leggett
 
 ### (194)
 
@@ -3826,7 +3773,7 @@ It is funny world, and the funniest chap you ever saw is He—the Beloved-Infini
 
 I have learnt a thing or two: Beyond, beyond reason and learning and talking is the feeling, the “Love,” the “Beloved.” Aye, *Sake* fill up the cup and we will be mad. —Yours ever in madness, <span class="small-caps">Vivekananda</span>.
 
-### Letter 198
+### Letter 195
 
 ### *(195)*
 
@@ -3836,10 +3783,9 @@ I have learnt a thing or two: Beyond, beyond reason and learning and talking is 
 
 <span class="small-caps">Dear</span>—, The English people are very generous. In three minutes’ time the other evening my class raised £150 for the new quarters for next autumn’s work. They would have given £500 on the spot if wanted, but we want to go slow, and not rush into expense. There will be many hands here to carry on the work and they understand a bit of renunciation here—the deep English character.— Yours with best wishes, <span class="small-caps">Vivekananda</span>.
 
-### Letter 199: Dr. Nanjunda Rao, M.D.
+### Letter 196: Dr. Nanjunda Rao, M.D.
 
-### *(196)*
-*To Dr. Nanjunda Rao, M.D.*
+### *(196)* *To Dr. Nanjunda Rao, M.D.*
 
 <span class="small-caps">England</span>,  
 *14th July, 1896.*
@@ -3852,7 +3798,7 @@ The lotus is a symbol of regeneration. We are awfully behindhand in art, especia
 
 I am going to Switzerland next Sunday, and shall return to London in the autumn and take up the work again. . . . I want rest very badly, you know.—With all blessings etc., Yours, <span class="small-caps">VIVEKANANDA.</span>
 
-### Letter 200: VIVEKANANDA
+### Letter 197: VIVEKANANDA
 
 ### (197)
 
@@ -3863,7 +3809,7 @@ I am going to Switzerland next Sunday, and shall return to London in the autumn 
 
 My love to all friends.—Yours etc., <span class="small-caps">VIVEKANANDA.</span>
 
-### Letter 201: Mr. E. T. Sturdy
+### Letter 198: Mr. E. T. Sturdy
 
 ### (198)
 
@@ -3877,7 +3823,7 @@ I am reading a little, starving a good deal, and practising a good deal more. Th
 
 By-the-bye, whatever scruples I may have had as to the Swiss-lake origin of the Aryans, have been taken clean off my mind. The Swiss is a Tartar *minus* a pigtail.
 
-### Letter 202: Vivekananda → Sj. Lala Badri Sah
+### Letter 199: Vivekananda → Sj. Lala Badri Sah
 
 ### (199)
 
@@ -3895,7 +3841,7 @@ Do you know of any suitable place near Almora where I can build my monastery wit
 
 Hoping to get an early reply, I remain with blessings and love to you and all the rest of our friends in Almora. —<span class="small-caps">Vivekananda</span>.
 
-### Letter 203: Mr. E. T. Sturdy
+### Letter 200: Mr. E. T. Sturdy
 
 ### (200)
 
@@ -3910,7 +3856,7 @@ I think it is better that you should directly correspond with him about the maga
 
 P. S. I hope you will consider well the plan for the big magazine. Some money can be raised in America and we can keep the magazine all to ourselves at the same time. I intend to write to America on hearing about the plan you and Prof. Max Müller decide upon. “ A great tree is to be taken refuge in, when it has both fruits and shade. If, however, we do not get the fruit who prevents our enjoyment of the shade ?” So ought great attempts to be made, is the moral.
 
-### Letter 204: Sj. Alasinga Perumal
+### Letter 201: Sj. Alasinga Perumal
 
 ### (201)
 
@@ -3929,7 +3875,7 @@ I am, as you see, now in Switzerland, and am always on the move. I cannot and mu
 
 My love to all. Work on, brave hearts, fail not—no saying nay; work on—the Lord is behind the work. *Mahâshakti* is with you.—Yours with love and blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 205: Vivekananda → Sj. Alasinga Perumal
+### Letter 202: Vivekananda → Sj. Alasinga Perumal
 
 ### (202)
 
@@ -3954,7 +3900,7 @@ Work on ! Hold on ! Be brave ! Dare anything and everything !
 
 It is all misery, this Samsâra, don’t you see !—Yours with blessings and love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 206: Mr. J. J. Goodwin
+### Letter 203: Mr. J. J. Goodwin
 
 ### (203)
 
@@ -3985,7 +3931,7 @@ Brahman is beyond both of these, and is not a state. It is the only unit not com
 
 A few days ago, I felt a sudden irresistible desire to write to Kripananda. Perhaps he was unhappy and thinking of me. So I wrote him a warm letter. To-day from the American news, I see why it was so. I sent him flowers gathered near the glaciers. Ask Miss Waldo to send him some money and plenty of love. Love never dies. The love of the father never dies, whatever the children may do or be. He is my child. He has the same or more share in my love and help, now that he is in misery.—Yours with blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 207: Mr. E. T. Sturdy
+### Letter 204: Mr. E. T. Sturdy
 
 ### (204)
 
@@ -3998,7 +3944,7 @@ A few days ago, I felt a sudden irresistible desire to write to Kripananda. Perh
 
 “America is a good training ground to bring out all that is in a man. There is such a sympathy in the air!”
 
-### Letter 208
+### Letter 205
 
 ### (205)
 
@@ -4013,7 +3959,7 @@ I do not want to have anything to do with money matters from this time—spend w
 
 P.S. . . . It was an awful mistake in the Greenacre programme that it was printed that Saradananda was there by the kind permission (leave of absence from England) of Mr. Sturdy. Who is Mr. Sturdy or anybody else to *permit* a Sannyasin ? . . . I am no master to any Sannyasin in this world. They do whatever it suits them and if I can help them—that is all my connection with them. I have given up the bondage of iron, the family tie—I am not to take up the golden chain of religious brotherhood. I am free, must always be free. And I wish everyone to be free—free as the air. If New York or Boston or any other place in the U. S. needs Vedanta teachers, they must receive them and keep them and provide for them. As for me I am as good as retired. I have played my part in the world.
 
-### Letter 209: Vivekananda
+### Letter 206: Vivekananda
 
 ### *(206)*
 
@@ -4038,7 +3984,7 @@ I am at present travelling in Switzerland, and shall soon go to Germany, to see 
 
 My love to you and all.—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 210: Dr. Nanjunda Rao, M.D.
+### Letter 207: Dr. Nanjunda Rao, M.D.
 
 ### (207)
 
@@ -4061,7 +4007,7 @@ My children must plunge into the breach, must renounce the world—then the firm
 
 Go on bravely—never mind about designs and other details at present—“With the horse will come the reins.” Work on unto death—I am with you, and when I am gone, my spirit will work with you. This life comes and goes—wealth, fame, enjoyments are only of a few days. It is better, far better to die on the field of duty, preaching the truth, than to die like a worldly worm. Advance ! —Yours with love and blessings, <span class="small-caps">Vivekananda.</span>
 
-### Letter 211: a Western disciple
+### Letter 208: a Western disciple
 
 ### *(208)*
 
@@ -4080,7 +4026,7 @@ Well, do not be anxious, do not be in a hurry. Slow, persistent and silent work 
 
 Here in America are no Ashramas. Would there was one ! How would I like it and what an amount of good it would do to this country !
 
-### Letter 212: Mr. E. T. Sturdy
+### Letter 209: Mr. E. T. Sturdy
 
 ### (209)
 
@@ -4093,7 +4039,7 @@ I have at last seen Prof. Deussen. . . . the whole of yesterday was spent very n
 
 He is what I should call “a warring Advaitist.” No compromise with anything else. “Ishwara” is his bugbear. He would have none of it if he could. He is very much delighted with the idea of your magazine, and wants to confer with you on these subjects in London, where he is shortly going. . . .
 
-### Letter 213: Miss Harriet Hale
+### Letter 210: Miss Harriet Hale
 
 ### *(210)*
 
@@ -4111,7 +4057,7 @@ From what I know of you, you have the calm power which bears and forbears to a g
 
 All blessings attend you and your *fiancé*. . . . May you be like Uma, chaste and pure throughout life—may your husband be like Shiva, whose life was in Uma !—Your loving brother, <span class="small-caps">Vivekananda</span>.
 
-### Letter 214
+### Letter 211
 
 ### (211)
 
@@ -4122,7 +4068,7 @@ C/o E. T. <span class="small-caps">Sturdy</span>, <span class="small-caps">Esq.<
 
 <span class="small-caps">Dear</span>—,. . . This City of London is a sea of human heads —ten or fifteen Calcuttas put together. One is apt to be lost in the mazes unless he arranges for somebody to meet him on arrival. . . . However, let Kali start at once. If he be late in starting like Sarat, better let no one come. It won’t do to loiter and procrastinate like that. It is a task that requires the height of Rajas (activity). . . . Our whole country is steeped in Tamas, and nothing but that. We want Rajas first, and Sattva will come afterwards—a thing far, far removed.—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 215: Sj. Alasinga Perumal
+### Letter 212: Sj. Alasinga Perumal
 
 ### (212)
 
@@ -4146,7 +4092,7 @@ There was a book published in Mysore in Tamil characters, comprising all the one
 
 . . . Persevere on, my brave lads. We have only just begun. Never despond ! Never say, enough !. . . As soon as a man comes over to the West and sees different nations, his eyes open. This way I get strong workers, not by talking, but by practically showing what we have in India and what we have not. I wish at least that a million Hindus had travelled all over the world !—Yours ever with love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 216: Vivekananda → Alasinga
+### Letter 213: Vivekananda → Alasinga
 
 ### (213)
 
@@ -4167,7 +4113,7 @@ Yours,
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 217
+### Letter 214
 
 ### *(214)*
 
@@ -4178,7 +4124,7 @@ C/o <span class="small-caps">E. T. Sturdy, Esq.,</span>*
 
 Can anything be done unless everybody exerts himself to his utmost? उद्योगिनं पुरुषसिंहमुपैति लक्ष्मीः etc.—“It is the man of action, the lion-heart, that the Goddess of Wealth resorts to.” No need of looking behind, <span class="small-caps">Forward</span>! We want infinite energy, infinite zeal, infinite courage and infinite patience, then only will great things be achieved. . . . —Yours affectionately, <span class="small-caps">Vivekananda.</span>
 
-### Letter 218: V. → Miss Josephine MacLeod
+### Letter 215: V. → Miss Josephine MacLeod
 
 ### *(215)*
 
@@ -4217,7 +4163,7 @@ P. S. Mr. and Mrs. Sevier in whose house (flat) I am writing now send their kind
 
 —V.
 
-### Letter 219: VIVEKANANDA → Miss S. E. Waldo
+### Letter 216: VIVEKANANDA → Miss S. E. Waldo
 
 ### (216)
 
@@ -4235,7 +4181,7 @@ I know very little of the young man R— . . . . You know my settled doctrine. I
 
 . . . Make a blaze ! Make a blaze !—With all love and blessings, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 220
+### Letter 217
 
 ### (217)
 
@@ -4246,7 +4192,7 @@ I know very little of the young man R— . . . . You know my settled doctrine. I
 
 Did you read Max Müller’s article on Ramakrishna ? . . . Things are working very favourably here in England. The work is not only popular but appreciated.—Yours affly., <span class="small-caps">Vivekananda</span>.
 
-### Letter 221: Sj. Alasinga Perumal
+### Letter 218: Sj. Alasinga Perumal
 
 ### (218)
 
@@ -4260,7 +4206,7 @@ Did you read Max Müller’s article on Ramakrishna ? . . . Things are working v
 
 . . . You have not yet printed the Karma Yoga. . . . Again, books must be cheap for India to have a large sale; the types must be bigger to satisfy the public. . . . You can very well get out a cheap edition of the Raja Yoga if you like. I have not reserved any copyright on it purposely. You have missed a good opportunity by not getting it out earlier, but we Hindus are so slow that when we have done a work the opportunity has already passed away, and thus we are the losers. Your Bhakti Yoga came out after a year’s talk ! Did you think the Western people would wait for it till Doomsday ? You have lost threefourths of the sale by this delay. . . . That Haramohan is a fool, slower than you. . . , and his printing is diabolical. There is no use in publishing books that way; it is cheating the public, and should not be done. I shall most probably return to India accompanied by Mr. and Mrs. Sevier, Miss Müller and Mr. Goodwin. Mr. and Mrs. Sevier are probably going to settle in Almora at least for some time, and Goodwin is going to become a Sannyasin. He of course will travel with me. It is he to whom we owe all our books. He took shorthand notes of my lectures, which enabled the books to be published. All these lectures were delivered on the spur of the moment, without the least preparation. Goodwin will have to live with me. He is a strict vegetarian.—With love, Yours etc., <span class="small-caps">Vivekananda.</span>
 
-### Letter 222: VIVEKANANDA → Miss Mary Hale
+### Letter 219: VIVEKANANDA → Miss Mary Hale
 
 ### **(219)**
 
@@ -4306,7 +4252,7 @@ With love to you all.—Ever your faithful brother,
 
 <span class="small-caps">VIVEKANANDA.</span>
 
-### Letter 223: Sj. Alasinga Perumal
+### Letter 220: Sj. Alasinga Perumal
 
 ### (220)
 
@@ -4320,7 +4266,7 @@ With love to you all.—Ever your faithful brother,
 
 The first edition of Raja-Yoga is sold out, and a second is in the press. India and America are the biggest buyers. . . .—Yours with love and blessings, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 224
+### Letter 221
 
 ### *(221)*
 
@@ -4334,7 +4280,7 @@ Dr. Janes is doing splendid work indeed. I can hardly express my gratitude for t
 
 You will be interested to know that the first edition of Raja-Yoga is sold out, and there is standing order for several hundreds more.—Yours, etc., <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 225: Vivekananda → Sj. Alasinga Perumal
+### Letter 222: Vivekananda → Sj. Alasinga Perumal
 
 ### (222)
 
@@ -4358,7 +4304,7 @@ We will begin work with these three centres; and later on, we will get to Bombay
 
 Miss M. Noble of Wimbledon is a great worker. . . . —With all love and blessings, Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 226: Vivekananda → Sj. Lala Badri Sah
+### Letter 223: Vivekananda → Sj. Lala Badri Sah
 
 ### (223)
 
@@ -4376,7 +4322,7 @@ You need not reply to this letter, as before your reply will reach me I shall be
 
 With love and blessings to you all,—Yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 227: Miss Mary Hale / Harriet Hale
+### Letter 224: Miss Mary Hale / Harriet Hale
 
 ### (224)
 
@@ -4396,7 +4342,7 @@ Here I must end to catch the mail. Things are opening for me. I am glad, and I k
 
 P.S. What about Dharmapal? What is he doing? Give him my love if you meet him.
 
-### Letter 228: Vivekananda → Mrs. Ole Bull
+### Letter 225: Vivekananda → Mrs. Ole Bull
 
 ### (225)
 
@@ -4417,7 +4363,7 @@ Kindly convey my love to Mrs. Vaughan and Saradananda and to the rest of my frie
 
 With love and blessings,—<span class="small-caps">Vivekananda.</span>
 
-### Letter 229: Indian Mirror, Calcutta
+### Letter 226: Indian Mirror, Calcutta
 
 ### (226)
 
@@ -4434,7 +4380,7 @@ India, its people and their thoughts, have been brought more prominently before 
 
 Moreover, he comes to us in the sacred name of religion, in the name of one of the great teachers of mankind, and I am sure, his exposition of the system of the Prophet of Nazareth would be extremely liberal and elevating. The Christ-power this man intends to bring to India, is not that of the intolerant, dominant Superior with heart full of contempt for everything else but its own self, but that of a brother who craves for a brother’s place as a co-worker of the various powers, already working in India. Above all, we must remember that gratitude and hospitality are the peculiar characteristics of Indian humanity, and as such, I would beg my countrymen to behave in such a manner, that this stranger from the other side of the globe, may find that in the midst of all our misery, our poverty and degradation, the heart beats as warm as of yore, when the “wealth of Ind” was the proverb of nations, and India was the land of the “ Aryas.”
 
-### Letter 230: VIVEKANANDA → an American lady
+### Letter 227: VIVEKANANDA
 
 ### (227)
 
@@ -4461,7 +4407,7 @@ Yours affectionately,
 
 V<span class="small-caps">IVEKANANDA</span>.
 
-### Letter 231: VIVEKANANDA → Miss Mary Hale
+### Letter 228: VIVEKANANDA → Miss Mary Hale
 
 ### (228)
 
@@ -4478,7 +4424,7 @@ With all love to mother, father and you all,—I remain, Yours affectionately,
 
 <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 232: Swami Brahmananda
+### Letter 229: Swami Brahmananda
 
 ### (229)
 
@@ -4493,7 +4439,7 @@ I am to start next Sunday. I had to refuse invitations from Poona and other plac
 
 The T—s and others wanted to intimidate me. Therefore I had to give them a bit of my mind. You know they persecuted me all the time in America because I did not join them. They wanted to begin it here. So I had to clear my position. If that displeases any of my Calcutta friends, “God help them.” You need not be afraid, I do not work alone, but He is always with me. What could I do otherwise?—Yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 233: Vivekananda → Mrs. Ole Bull
+### Letter 230: Vivekananda → Mrs. Ole Bull
 
 ### (230)
 
@@ -4516,7 +4462,7 @@ I have already £500 from England, about £500 from Mr. Sturdy and if your money
 
 With love to Saradananda and eternal love and gratitude to yourself,—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 234: Vivekananda → Sj. Sarat Chandra Chakravarty
+### Letter 231: Vivekananda → Sj. Sarat Chandra Chakravarty
 
 ### (231)
 
@@ -4535,7 +4481,7 @@ Ever your well-wisher,
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 235: Vivekananda → Srimati Sarala Ghoshal, B.A., Editor, Bhârati
+### Letter 232: Vivekananda → Srimati Sarala Ghoshal, B.A., Editor, Bhârati
 
 ### (232)
 
@@ -4566,10 +4512,9 @@ Ever grateful and ever praying to the Lord for your welfare,—
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 236: Srimati Sarala Ghoshal
+### Letter 233: Srimati Sarala Ghoshal
 
-### (233)
-*To the Same*
+### (233) *To the Same*
 
 <span class="small-caps">Darjeeling,</span>*  
 C/o <span class="small-caps">M. N. Banerjee, Esq.,</span>  
@@ -4583,7 +4528,7 @@ The king now has nothing to say to any social matter; on the other hand, the Ind
 
 Now about work. From the day when education and culture etc., began to spread gradually from patricians to plebeians, grew the distinction between the modern civilisation as of Western countries and the ancient civilisation as of India, Egypt, Rome, etc. I see it before my eyes, a nation is advanced in proportion as education and intelligence spread among the masses. The chief cause of India’s ruin has been the monopolising of the whole education and intelligence of the land, by dint of pride and royal authority, among a handful of men. If we are to rise again, we shall have to do it in the same way, i.e., by spreading education among the masses. A great fuss has been made for half a century about social reform. Travelling through various places of India these last ten years, I observed the country full of social reform associations. But I did not find one association for them by sucking whose blood the people known as “gentlemen” have become and continued to be gentlemen! How many sepoys were brought by the Musalmans? How many Englishmen are there? Where except in India can be had millions of men who will cut the throats of their own fathers and brothers for six rupees? Sixty millions of Musalmans in seven hundred years of Mohammedan rule, and two millions of Christians in hundred years of Christian rule—what makes it so? Why has originality entirely forsaken the country? Why are our deft-fingered artisans daily becoming extinct, unable to compete with the Europeans? By what power again has the German labourer succeeded in shaking the many-century-grounded firm footing of the English labourer?
 
-Education, education, education alone! Travelling through many cities of Europe and observing in them the comforts and education of even the poor people, there was brought to my mind the state of our own poor people and I used to shed tears. What made the difference? Education was the answer I got. Through education, faith in one’s own self, and through faith in one’s own self the inherent Brahman is waking up in them, while the Brahman in us is gradually becoming dormant. In New York I used to observe the Irish colonists come—downtrodden, haggard-looking, destitute of all possessions at home, penniless and wooden-headed—with their only belongings, a stick and a bundle of rags hanging at the end of it, fright in their steps, alarm in their eyes. A different spectacle in six months—the man walks upright, his attire is changed. In his eyes and steps there is no more sign of fright. What is the cause? Our Vedanta says that that Irishman was kept surrounded by contempt in his own country—the whole of Nature was telling him with one voice,—“ Pat, you have no more hope, you were born a slave and will remain so.” Having been thus told from his birth, Pat believed in it and hypnotised himself that he was very low, and the Brahman in him shrank away. While no sooner had he landed in America than the shout went up on all sides—“ Pat, you are a man as we are, it is man who has done all, a man like you and me can do everything; have courage !” Pat raised his head and saw that it was so, the Brahman within woke up, Nature herself spoke, as it were, “ Arise, awake, etc.” (Katha Upa., I. iii. 4).
+Education, education, education alone! Travelling through many cities of Europe and observing in them the comforts and education of even the poor people, there was brought to my mind the state of our own poor people and I used to shed tears. What made the difference? Education was the answer I got. Through education, faith in one’s own self, and through faith in one’s own self the inherent Brahman is waking up in them, while the Brahman in us is gradually becoming dormant. In New York I used to observe the Irish colonists come—down-trodden, haggard-looking, destitute of all possessions at home, penniless and wooden-headed—with their only belongings, a stick and a bundle of rags hanging at the end of it, fright in their steps, alarm in their eyes. A different spectacle in six months—the man walks upright, his attire is changed. In his eyes and steps there is no more sign of fright. What is the cause? Our Vedanta says that that Irishman was kept surrounded by contempt in his own country—the whole of Nature was telling him with one voice,—“ Pat, you have no more hope, you were born a slave and will remain so.” Having been thus told from his birth, Pat believed in it and hypnotised himself that he was very low, and the Brahman in him shrank away. While no sooner had he landed in America than the shout went up on all sides—“ Pat, you are a man as we are, it is man who has done all, a man like you and me can do everything; have courage !” Pat raised his head and saw that it was so, the Brahman within woke up, Nature herself spoke, as it were, “ Arise, awake, etc.” (Katha Upa., I. iii. 4).
 
 Likewise the education that our boys receive is very negative. The school-boy learns nothing, but has everything of his own broken down—want of Shraddhâ is the result. The Shraddha which is the key-note of the Vedas and the Vedanta—the Shraddha which emboldened Nachiketa to face Yama and question him, through which Shraddha this world moves—the annihilation of that Shraddha ! अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति । —“ The ignorant, the man devoid of Shraddha, the doubting self runs to ruin.” Therefore are we so near destruction. The remedy now is, the spread of education. First of all, Self-knowledge. I do not mean thereby, matted hair, staff, Kamandalu and mountain caves which the word suggests. What do I mean then ? Cannot the knowledge by which is attained even freedom from the bondage of worldly existence, bring ordinary material prosperity ? Certainly it can. Freedom, dispassion, renunciation—all these are the very highest ideals, but स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् । —“ Even a little of this Dharma saves from the great fear (of birth and death).” Dualist, qualified Monist, Monist, Shaiva, Vaishnava, Shâkta, even the Buddhist and the Jain and others—whatever sects have arisen in India are all at one in this respect, that infinite power is latent in this Jivâtman (individualised soul); from the ant to the perfect man there is the same Atman in all, the difference being only in manifestation. “As a farmer breaks the obstacles (to the course of water)” (Patanjali’s Yoga Sutra, Kaivalyapâda, 3). That power manifests as soon as it gets the opportunity and the right place and time. From the highest god to the meanest grass, the same power is present in all—whether manifested or not. We shall have to call forth that power by going from door to door.
 
@@ -4598,10 +4543,9 @@ In the West, women rule; all influence and power are theirs. If bold and talente
 
 About vegetarian diet I have to say this : first, my Master was a vegetarian; but if he was given meat offered to the Goddess, he used to hold it up to his head. The taking of life is undoubtedly sinful, but so long as vegetable food is not made suitable to the human system, through progress in chemistry, there is no other alternative but meat-eating. So long as man shall have to live a Râjasika (active) life under circumstances like the present, there is no other way except through meat-eating. It is true that the Emperor Ashoka saved the lives of millions of animals by the threat of the sword, but is not the slavery of a thousand years more dreadful than that ? Taking the life of a few goats as against the inability to protect the honour of one’s own wife and daughter, and to save the morsels for one’s children from robbing hands —which of these is more sinful ? Rather let those belonging to the upper ten, who do not earn their livelihood by manual labour, not take meat; but the forcing of vegetarianism upon those who have to earn their bread by labouring day and night, is one of the causes of the loss of our national freedom. Japan is an example of what good and nourishing food can do. May All-powerful Vishveshvari inspire your heart !—<span class="small-caps">Vivekananda</span>.
 
-### Letter 237: Vivekananda → Miss Mary Hale
+### Letter 234: Vivekananda → Miss Mary Hale
 
-### (234)
-*To Miss Mary Hale*
+### (234) *To Miss Mary Hale*
 
 <span class="small-caps">DARJEELING</span>,  
 *28th April, 1897.*
@@ -4624,7 +4568,7 @@ With love to father and mother and you all.—Yours,
 
 <span class="small-caps">Vivekananda</span>.
 
-### Letter 238
+### Letter 235
 
 ### (235)
 
@@ -4645,7 +4589,7 @@ About the Theosophists, you must remember first that in India Theosophists and B
 
 I was one man in America and another here. Here the whole nation is looking upon me as their authority—there I was a much reviled preacher. Here Princes draw my carriage, there I would not be admitted to a decent hotel. My utterances here, therefore, must be for the good of the race, my people—however unpleasant they might appear to a few. Acceptance, love, toleration for everything sincere and honest—but never for hypocrisy. The ——s tried to fawn upon and flatter me as I am the authority now in India and therefore it was necessary for me to stop my work giving any sanction to their humbugs, by a few bold, decisive words, and the thing is done. I am very glad. If my health had permitted, I would have cleared India by this time of these upstart humbugs, at least tried my best. . . . Let me tell you that India is already Ramakrishna’s, and for a purified Hinduism I have organised my work here a bit.—Yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 239: Sister Nivedita
+### Letter 236: Sister Nivedita
 
 ### *(236)*
 
@@ -4666,9 +4610,9 @@ I may come over for a month or so very soon however. Only if I could see my work
 
 So far about work. Now about you personally. Such love and faith and devotion and appreciation like yours, dear Miss Noble, repays a hundred times over any amount of labour one undergoes in this life. May all blessings be yours. My whole life is at your service, as we may say in our mother tongue.
 
-It never was and never will be anything but very very welcome, any letters from you and other friends in England . Mr. and Mrs. Hammond wrote two very kind and nice letters and Mr. Hammond a beautiful poem in the *Brahmavadin*, although I did not deserve it a bit. I will write to you again from the Himalayas, where thought will be clearer in sight of the snows and the nerves more settled than in this burning plain. Miss Müller is already in Almora. Mr. and Mrs. Sevier go to Simla. They have been in Darjeeling so long. So things come and go, dear friend. Only the Lord is unchangeable and He is Love. May He make your heart His eternal habitation is the constant prayer of—<span class="small-caps">Vivekananda</span>.
+It never was and never will be anything but very very welcome, any letters from you and other friends in England. Mr. and Mrs. Hammond wrote two very kind and nice letters and Mr. Hammond a beautiful poem in the *Brahmavadin*, although I did not deserve it a bit. I will write to you again from the Himalayas, where thought will be clearer in sight of the snows and the nerves more settled than in this burning plain. Miss Müller is already in Almora. Mr. and Mrs. Sevier go to Simla. They have been in Darjeeling so long. So things come and go, dear friend. Only the Lord is unchangeable and He is Love. May He make your heart His eternal habitation is the constant prayer of—<span class="small-caps">Vivekananda</span>.
 
-### Letter 240: Vivekananda
+### Letter 237: Vivekananda
 
 ### (237)
 
@@ -4683,10 +4627,9 @@ Jogen is doing well. As Almora was very hot, I am living in a beautiful garden t
 
 Tender my love to all at the Math and give my greetings to the next meeting of the Association, and say that though I am not present in body, yet my soul is there where my Lord’s name is sung. यावत्तव कथा राम सञ्चरिष्यति मेदिनीम् etc.—“ As far as talk of Thee circulates in the world, O Rama ! I am present there !” (Hanumân)— because, forsooth, the Atman is all-pervading.—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 241: Dr. Sasi Bhushan Ghose
+### Letter 238: Dr. Sasi Bhushan Ghose
 
-### (238)
-*To Dr. Sasi Bhushan Ghose*
+### (238) *To Dr. Sasi Bhushan Ghose*
 
 <span class="small-caps">Almora</span>,  
 *29th May, 1897.*
@@ -4697,7 +4640,7 @@ Tender my love to all at the Math and give my greetings to the next meeting of t
 
 I am very glad to learn of the success of the meetings of the Ramakrishna Mission at Calcutta. All blessings attend those that help in the great work. . . . —With all love, Yours in the Lord, <span class="small-caps">Vivekananda</span>.
 
-### Letter 242: Sj. Pramada Das Mitra
+### Letter 239: Sj. Pramada Das Mitra
 
 ### (239)
 
@@ -4722,7 +4665,7 @@ Over and above, I come to see from my studies that the disciplines of religion a
 
 Another truth I have realised is that altruistic service only is religion, the rest such as ceremonial observances is madness—even it is wrong to hanker after one’s own salvation. Liberation is only for him who gives up everything for others, whereas others who tax their brains day and night harping on “my salvation,” “my salvation,” wander about with their true well-being ruined both present and prospective, and this I have seen many a time with my own eyes. Reflecting on all these sundry matters I had no heart for writing a letter to you. If notwithstanding all these discrepancies you find your attachment for me intact, I shall feel it to be a very happy issue indeed.[^fn-p0399-1]—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 243
+### Letter 240
 
 ### *(240)*
 
@@ -4739,7 +4682,7 @@ Now if it is possible to build a consistent religion on the Samhitas, it is a th
 
 The Gita no doubt has already become the Bible of Hinduism, and it fully deserves to be so, but the personality of Krishna has become so covered with haze, that it is impossible to-day to draw any life-giving inspiration from that *life*. Moreover, the present age requires new modes of thought and new life. Hoping this will help you in thinking along these lines—I am yours with blessings,—<span class="small-caps">Vivekananda</span>.
 
-### Letter 244: Vivekananda → Swami Suddhananda
+### Letter 241: Vivekananda → Swami Suddhananda
 
 ### (241)
 
@@ -4776,7 +4719,7 @@ With blessings and good wishes,—Yours,
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 245
+### Letter 242
 
 ### (242)
 
@@ -4791,7 +4734,7 @@ It is a beautiful mountain park I am living in now. On the north, extending almo
 
 I was born for the life of a scholar—retired, quiet, poring over my books. But the Mother dispenses otherwise—yet the tendency is there.—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 246: V. → Swami Brahmananda
+### Letter 243: V. → Swami Brahmananda
 
 ### (243)
 
@@ -4815,7 +4758,7 @@ Have this written in correct English and send it to me at Almora, and I shall si
 
 P. S.—Let Suddhananda preserve a copy of the weekly letters that he writes to me from the Math.—V.
 
-### Letter 247: Swami Akhandananda
+### Letter 244: Swami Akhandananda
 
 ### (244)
 
@@ -4824,11 +4767,11 @@ P. S.—Let Suddhananda preserve a copy of the weekly letters that he writes to 
 <span class="small-caps">Almora</span>,*  
 *15th June, 1897.*
 
-<span class="small-caps">My Dear Akhandananda</span>—I am getting detailed reports of you and getting more and more delighted. It is that sort of work which can conquer the world. What do differences of sect and opinion matter? Bravo ! Accept a hundred thousand embraces and blessings from me. Work, work, work—I care for nothing else. Work, work, work, even unto death ! Those that are weak must make themselves great workers, great heroes—never mind for money, it will drop from the heavens. Let them whose gifts you will accept, give in their own name if they like, no harm. Whose name, and what is it worth? Who cares for name? Off with it ! If in the attempt to carry morsels of food to starving mouths, name and possession and all be doomed even— **अहो भाग्यमहो भाग्यम्** —thrice blessed art thou ! It is the heart, the heart, that conquers, not the brain. Books and learning, Yoga and meditation and illumination—all are but dust compared with love. It is love that gives you the supernatural powers, love that gives you Bhakti, love that gives illumination , and love, again, that leads to emancipation. This indeed is worship, worship of the Lord in the human tabernacle, नेदं यदिदमुपासते —“not this that people worship.”[^fn-p0405-1] This is but the beginning, and unless we spread over the whole of India, nay, the whole earth, in that way, where lies the greatness of our Lord!
+<span class="small-caps">My Dear Akhandananda</span>—I am getting detailed reports of you and getting more and more delighted. It is that sort of work which can conquer the world. What do differences of sect and opinion matter? Bravo ! Accept a hundred thousand embraces and blessings from me. Work, work, work—I care for nothing else. Work, work, work, even unto death ! Those that are weak must make themselves great workers, great heroes—never mind for money, it will drop from the heavens. Let them whose gifts you will accept, give in their own name if they like, no harm. Whose name, and what is it worth? Who cares for name? Off with it ! If in the attempt to carry morsels of food to starving mouths, name and possession and all be doomed even— **अहो भाग्यमहो भाग्यम्** —thrice blessed art thou ! It is the heart, the heart, that conquers, not the brain. Books and learning, Yoga and meditation and illumination—all are but dust compared with love. It is love that gives you the supernatural powers, love that gives you Bhakti, love that gives illumination, and love, again, that leads to emancipation. This indeed is worship, worship of the Lord in the human tabernacle, नेदं यदिदमुपासते —“not this that people worship.”[^fn-p0405-1] This is but the beginning, and unless we spread over the whole of India, nay, the whole earth, in that way, where lies the greatness of our Lord!
 
 Let people see whether or not the touch of our Lord’s feet confers divinity on man! It is this that is called liberation-in-life—when the last trace of egoism and selfishness is gone. Well done! Glory to the Lord! Gradually try to spread. If you can, go to Calcutta, and raise a fund with the help of another band of boys; set one or two of them to work at some place, and begin somewhere else. Spread in that way, and go on inspecting them. You will see that the work will gradually become permanent, and spread of religion and education will follow as a matter of course. I have given particular instructions to them in Calcutta. Do that kind of work, and I shall carry you on my shoulders—bravo! You will see that by degrees every district will become a centre—and that a permanent one. I am soon going down to the plains. I am a fighter and shall die in the battle-field. Does it behoove me to sit up here like a zenana lady?—Yours with all love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 248: Sister Nivedita
+### Letter 245: Sister Nivedita
 
 ### (245)
 
@@ -4845,7 +4788,7 @@ A number of boys are already in training, but the recent earthquake has destroye
 
 It is true in one way that the people here have so little to give up—yet renunciation is in our blood. One of my boys in training has been an executive engineer, in charge of a district. That means a very big position here. He gave it up like straw!. . . With all love, yours in the Truth, <span class="small-caps">Vivekananda</span>.
 
-### Letter 249: Swami Vivekananda → Swami Brahmananda
+### Letter 246: Swami Vivekananda → Swami Brahmananda
 
 ### (246)
 
@@ -4864,7 +4807,7 @@ Yours affectionately,
 
 <span class="small-caps">Vivekananda</span>.
 
-### Letter 250: Swami Vivekananda → Swami Akhandananda
+### Letter 247: Swami Vivekananda → Swami Akhandananda
 
 ### (247)
 
@@ -4885,7 +4828,7 @@ Of course we must have a permanent centre. And can anything be done in this coun
 
 Monday next, trip to Bareilly, then to Saharanpur, next to Umballa, thence, most probably, to Mussoorie with Captain Sevier, and as soon as it is a little cool, return to the plains and journey to Rajputana etc. Go on working at top-speed. Never fear ! I, too, have become very idle, I see. The body must go, no mistake about that. Why then let it go in idleness? “It is better to wear out than rust out.” Don’t be anxious; even when I die, my very bones will work miracles. We must spread over the whole of India in ten years, short of this it is no good. To work, like an athlete !—Victory to the Guru ! Money and all will come of themselves, we want men, not money. It is man that makes everything, what can money do?—Men we want, the more you get, the better. . . . Here, for instance, was M— who brought together a lot of money, but there was no man, and what good did he achieve? —Yours affectionately, <span class="small-caps">Vivekananda.</span>
 
-### Letter 251: Swami Vivekananda → Sj. Sarat Chandra Chakravarty
+### Letter 248: Swami Vivekananda → Sj. Sarat Chandra Chakravarty
 
 ### (248)
 
@@ -4906,7 +4849,7 @@ It has been said that adversity is the touchstone of true knowledge, and this ma
 
 O Sharman, may thine for thy good be Vairagya, —the feeling of which is love, which unifies all inequalities, cures the disease of Samsâra, removes the threefold misery inevitable in this phenomenal world, reveals the true nature of all things, destroys the darkness of Maya, and which brings out the Selfhood of everything from Brahmâ to the blade of grass! This is the constant prayer of <span class="small-caps">Vivekananda</span>, ever bound to thee in love.
 
-### Letter 252: Swami Vivekananda → Sister Nivedita
+### Letter 249: Swami Vivekananda → Sister Nivedita
 
 ### (249)
 
@@ -4923,7 +4866,7 @@ Just now I am very busy with the famine, and except for training a number of you
 
 In India, lectures and teaching cannot do any good. What we want is Dynamic Religion. And that, “God willing,” as the Mohammedans say, I am determined to show. . . . I entirely agree with the prospectus of your Society, and you may take for granted my agreement with everything you will do in the future. I have entire faith in your ability and sympathy. I already owe you an immense debt and you are laying me every day under infinite obligations. My only consolation is that it is for the good of others. Else I do not deserve in the least the wonderful kindness shown to me by the Wimbledon friends. You good, steady, genuine English people, may the Lord always bless you. I appreciate you every day more and more from a distance. Kindly convey my love everlasting to—and all the rest of our friends there. With all love, yours ever in the Truth, <span class="small-caps">Vivekananda</span>.
 
-### Letter 253: Swami Vivekananda → Miss Mary Hale
+### Letter 250: Swami Vivekananda → Miss Mary Hale
 
 ### (250)
 
@@ -4956,7 +4899,7 @@ My time is short. I have got to unbreast whatever I have to say, without caring 
 
 Even these earthworms must stand erect, even children must see light. The Americans are drunk with new wine. A hundred waves of prosperity have come and gone over my country. We have learned the lesson which no child can yet understand. It is vanity. This hideous world is Maya. Renounce and be happy. Cive up the idea of sex and possessions. There is no other bond. Marriage and sex and money are the only living devils. All earthly love proceeds from the body. No sex, no possessions; as these fall off, the eyes open to spiritual vision. The soul regains its own infinite power. . . . —Yours ever affly., <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 254: Swami Vivekananda → Swami Brahmananda
+### Letter 251: Swami Vivekananda → Swami Brahmananda
 
 ### (251)
 
@@ -4977,10 +4920,9 @@ Please write to Sasi to open a work department like this for the service of the 
 
 . . . Curtail the expenses of worship to a rupee or two per mensem. The children of the Lord are dying of starvation. . . . Worship with water and *tulasi* leaves alone, and let the allowance for His Bhoga (food offerings) be spent in offering food to the Living God who dwells in persons of the poor—then will His grace descend on everything. Jogen felt unwell here; so to-day he started for Calcutta. I shall again go to Dewaldhar to-morrow. Please accept my love and tender it to all.—Affectionately yours, <span class="small-caps">Vivekananda</span>.
 
-### Letter 255: Swami Vivekananda → Swami Suddhananda
+### Letter 252: Swami Vivekananda → Swami Suddhananda
 
-### (252)
-*To Swami Suddhananda*
+### (252) *To Swami Suddhananda*
 
 <span class="small-caps">Almora</span>,  
 *11th July, 1897.*
@@ -5011,7 +4953,7 @@ Now you see you must try to think out original ideas—else, as soon as I die, t
 
 Lastly, you must remember I expect more from my children than from my brethren. I want each one of my children to be a hundred times greater than I could ever be. Everyone of you *must be a giant—must*, that is my word. Obedience, readiness, and love for the cause—if you have these three, nothing can hold you back.—With love and blessings, <span class="small-caps">Vivekananda.</span>
 
-### Letter 256: Swami Vivekananda → Sister Nivedita
+### Letter 253: Swami Vivekananda → Sister Nivedita
 
 ### *(253)*
 
@@ -5032,7 +4974,7 @@ You can do more work for us from England than by coming here. Lord bless you for
 
 I entirely agree with you that the work in England will look up when I am there. But all the same it is not proper to leave India before the machine is moving at some rate, and I am sure that there are many to guide it in my absence. That will be done in a few months, “ God willing,” as the Mussalmans say. One of my best workers is now in England, the Raja of Khetri. I expect him soon in India and he will be of great service to me no doubt. With everlasting love and blessings from <span class="small-caps">Vivekananda</span>.
 
-### Letter 257: Swami Vivekananda → Swami Akhandananda
+### Letter 254: Swami Vivekananda → Swami Akhandananda
 
 ### (254)
 
@@ -5045,7 +4987,7 @@ I entirely agree with you that the work in England will look up when I am there.
 
 All strength is in you, have faith in it. It will not go unmanifested. Accept my heartiest love and blessings, and convey them to the Brahmacharin. Write now and then fiery letters to the Math so that all may take heart and work. Victory to the Guru!—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 258: Swami Vivekananda → Sister Nivedita
+### Letter 255: Swami Vivekananda → Sister Nivedita
 
 ### (255)
 
@@ -5082,7 +5024,7 @@ With everlasting love,—Yours ever in the Lord,
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 259: Swami Vivekananda → Mrs. Ole Bull
+### Letter 256: Swami Vivekananda → Mrs. Ole Bull
 
 ### (256)
 
@@ -5101,7 +5043,7 @@ If Saradananda wants to come he may and I am sure he will be of very good servic
 
 You ought to think that you are starting for the interior of Africa and if you meet anything better that will be unexpected. . . . Ever yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 260: Swami Vivekananda → Srimati Indumati Mitra
+### Letter 257: Swami Vivekananda → Srimati Indumati Mitra
 
 ### (257)
 
@@ -5113,7 +5055,7 @@ You ought to think that you are starting for the interior of Africa and if you m
 
 This Kashmir is a veritable heaven on earth. Nowhere else in the world is such a country as this. Mountains and rivers, trees and plants, men and women, beasts and birds—all vie with one another for excellence. I feel a pang at heart not to have visited it so long. Please write to me in detail how you are doing, mentally and physically, and accept my special blessings. I am constantly having your welfare at heart, know this for certain. —Yours sincerely, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 261: Swami Vivekananda → Swami Brahmananda
+### Letter 258: Swami Vivekananda → Swami Brahmananda
 
 ### (258)
 
@@ -5143,7 +5085,7 @@ Reply to Miss Noble according to these hints.—
 
 <span class="small-caps">Vivekananda</span>.
 
-### Letter 262: Swami Vivekananda → Sister Nivedita
+### Letter 259: Swami Vivekananda → Sister Nivedita
 
 ### (259)
 
@@ -5158,7 +5100,7 @@ I shall not try to describe Kashmir to you. Suffice it to say, I never felt sorr
 
 The great difficulty is this : I see persons giving me almost the whole of their love. But I must not give any one the whole of mine in return, for that day the work would be ruined. Yet there are some who will look for such a return, not having the breadth of the impersonal view. It is absolutely necessary to the work that I should have the enthusiastic love of as many as possible, while I myself remain entirely impersonal. Otherwise jealousy and quarrels would break up everything. A leader must be impersonal. I am sure you understand this. I do not mean that one should be a brute, making use of the devotion of others for his own ends, and laughing in his sleeve meanwhile. What I mean is what I am, intensely personal in my love, but having the power to pluck out my own heart with my own hand, if it becomes necessary, “ for the good of many, for the welfare of many,” as Buddha said. Madness of love, and yet in it no bondage. Matter changed into spirit by the force of love. Nay, that is the gist of our Vedanta. There is but One, seen by the ignorant as matter, by the wise as God. And the history of civilisation is the progressive reading of spirit into matter. The ignorant see the person in the non-person. The sage sees the non-person in the person. Through pain and pleasure, joy and sorrow, this is the one lesson we are learning. . . . Yours ever with love and truth, <span class="small-caps">Vivekananda</span>.
 
-### Letter 263: Swami Vivekananda → Swami Brahmananda
+### Letter 260: Swami Vivekananda → Swami Brahmananda
 
 ### (260)
 
@@ -5170,7 +5112,7 @@ The great difficulty is this : I see persons giving me almost the whole of their
 
 . . . Captain Sevier says he is very anxious for a site. He wishes to have a spot near Mussoorie or in some other central place, as soon as possible. . . . The thing is that we do not want a place which is too cold, at the same time it must not be too hot. Dehra Dun is unbearable in summer, but pleasant in winter; Mussoorie itself is, I dare say, not the right place for many in winter. Above or below it, that is, in British or Gharwal territory, some land is sure to be found. At the same time there must be a supply of water at the place throughout the year, for drinking purposes and for everyday use. My plan is this: With only Achyutananda and Gupta I go from Murree to Rawalpindi, thence to Jammu, thence to Lahore, and from Lahore straight to Karachi. . . . Give my hearty love and blessings to Sasi Babu. I see that Master Mahashay has buckled to work after such a long time. Give him my special love and greetings. To see him, with his feminine retiringness, stirred to work, my courage has gone up by leaps and bounds. I am writing to him to-morrow even. Victory to the Lord !—To work ! To work !—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 264: Swami Vivekananda
+### Letter 261: Swami Vivekananda
 
 ### *(261)*
 
@@ -5183,15 +5125,14 @@ I shall very soon begin my work in the plains. I have now no need of travelling 
 
 Keep watch over your health.—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 265: Swami Vivekananda → Swami Akhandananda
+### Letter 262: Swami Vivekananda → Swami Akhandananda
 
-### *(262)*
-*To Swami Akhandananda*
+### *(262)* *To Swami Akhandananda*
 
 <span class="small-caps">Murree</span>,*  
 *10th October, 1897.*
 
-<span class="small-caps">My Dear Akhandananda</span>—I am very glad to receive your letter. You need not make a big plan for the present, but do only what is possible under existing circumstances . Gradually the way will open to you. We must certainly have the orphanage, no hesitating in that. We must not leave the girls in the lurch, either. But then we must have a lady superintendent for an orphanage of girls. I believe Mother — will be a very good hand for that. Or, engage for this task some aged widow of the village, who has no issue. And there must be separate places for the boys and girls. Captain Sevier is ready to send you money to help in this. Nedou’s Hotel, Lahore — that is his address. If you write to him, write the words, “ To wait arrival,” on the letter. I am soon going to Rawalpindi, to-morrow, or the day after; then I visit Lahore and other places via Jammu, and return to Rajputana via Karachi etc.
+<span class="small-caps">My Dear Akhandananda</span>—I am very glad to receive your letter. You need not make a big plan for the present, but do only what is possible under existing circumstances. Gradually the way will open to you. We must certainly have the orphanage, no hesitating in that. We must not leave the girls in the lurch, either. But then we must have a lady superintendent for an orphanage of girls. I believe Mother — will be a very good hand for that. Or, engage for this task some aged widow of the village, who has no issue. And there must be separate places for the boys and girls. Captain Sevier is ready to send you money to help in this. Nedou’s Hotel, Lahore — that is his address. If you write to him, write the words, “ To wait arrival,” on the letter. I am soon going to Rawalpindi, to-morrow, or the day after; then I visit Lahore and other places via Jammu, and return to Rajputana via Karachi etc.
 
 I am doing well.—Yours, <span class="small-caps">VIVEKANANDA</span>.
 
@@ -5199,13 +5140,11 @@ P. S. You must admit Mohammedan boys too, but never tamper with their religion. 
 
 Shelve your intricate philosophical speculations for the present.—V.
 
-In our country we at present need manhood and kindness. स ईशः अनिर्वचनीयप्रेमस्वरूपः—“The Lord is the Essence of unutterable Love.” But instead of saying प्रकाश्यते क्वापि पात्रे —“ He is manifested in special objects,” we should say, स प्रत्यक्ष एव सर्वेषां प्रेमरूपः—“He is ever manifest as Love in all beings.” What other God—the creation of your mind—are you then going to worship ? Let the Vedas, the Koran, the Puranas, and all scriptural lumber rest now for some time—let there be worship of the visible God of Love and Kindness in the country. All idea of separation is bondage, that of non-differentiation is Mukti. Let not the words of people dead-drunk with worldliness terrify you. अभीरभीः —“Be fearless !” Not men, but worms ! Admit boys of all religions—Hindu, Mohammedan, Christian or anything,
-
-but begin rather gently—I mean, see that they get their food and drink a little separately, and teach them only the universal side of religion.—V.
+In our country we at present need manhood and kindness. स ईशः अनिर्वचनीयप्रेमस्वरूपः—“The Lord is the Essence of unutterable Love.” But instead of saying प्रकाश्यते क्वापि पात्रे —“ He is manifested in special objects,” we should say, स प्रत्यक्ष एव सर्वेषां प्रेमरूपः—“He is ever manifest as Love in all beings.” What other God—the creation of your mind—are you then going to worship ? Let the Vedas, the Koran, the Puranas, and all scriptural lumber rest now for some time—let there be worship of the visible God of Love and Kindness in the country. All idea of separation is bondage, that of non-differentiation is Mukti. Let not the words of people dead-drunk with worldliness terrify you. अभीरभीः —“Be fearless !” Not men, but worms ! Admit boys of all religions—Hindu, Mohammedan, Christian or anything, but begin rather gently—I mean, see that they get their food and drink a little separately, and teach them only the universal side of religion.—V.
 
 Be mad over this, and strike others with this madness ! This life has no other end. Preach His name, let His teachings penetrate the world to the very bone. Never forget. Repeat this Mantram in your heart of hearts unceasingly, as you go the round of your daily duties.—Yours, V.
 
-### Letter 266: Swami Vivekananda → Master Mahashay
+### Letter 263: Swami Vivekananda → Master Mahashay
 
 ### (263)
 
@@ -5221,7 +5160,7 @@ Many thanks for your publication—only I am afraid it will not pay its way in a
 
 This is the time.—Yours in the Lord, <span class="small-caps">Vivekananda</span>.
 
-### Letter 267: Swami Vivekananda → Sister Nivedita
+### Letter 264: Swami Vivekananda → Sister Nivedita
 
 ### (264)
 
@@ -5236,7 +5175,7 @@ I shall soon write to Sturdy. He is right to tell you that in case of trouble I 
 
 With everlasting love,—Yours, <span class="small-caps">Vivekananda</span>.[^fn-p0434-1]
 
-### Letter 268: Swami Vivekananda → Srimati Indumati Mitra
+### Letter 265: Swami Vivekananda → Srimati Indumati Mitra
 
 ### (265)
 
@@ -5253,7 +5192,7 @@ Secondly, owing to my kidney troubles I cannot count upon a long life. Even now 
 
 With blessings,—Yours sincerely, <span class="small-caps">Vivekananda</span>
 
-### Letter 269: Swami Vivekananda → Srimati Indumati Mitra
+### Letter 266: Swami Vivekananda → Srimati Indumati Mitra
 
 ### (266)
 
@@ -5267,7 +5206,7 @@ With blessings,—Yours sincerely, <span class="small-caps">Vivekananda</span>
 With best love and blessings,—Yours sincerely,  
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 270: Swami Vivekananda → Master Mahashay
+### Letter 267: Swami Vivekananda → Master Mahashay
 
 ### (267)
 
@@ -5282,7 +5221,7 @@ I cannot express in adequate terms how I have enjoyed them. I am really in a tra
 
 P. S. The Socratic dialogues are Plato all over; you are entirely hidden. Moreover, the dramatic part is infinitely beautiful. Everybody likes it, here and in the West.
 
-### Letter 271: Swami Vivekananda → Swami Shivananda
+### Letter 268: Swami Vivekananda → Swami Shivananda
 
 ### (268)
 
@@ -5293,9 +5232,9 @@ P. S. The Socratic dialogues are Plato all over; you are entirely hidden. Moreov
 
 <span class="small-caps">MY DEAR SHIVANANDA,</span> Mr. Setlur of Girgaon, Bombay, whom you know very well from Madras, writes to me to send somebody to Africa to look after the religious needs of the Indian emigrants in Africa. He will of course send the man and bear all expenses.
 
-The work will not be very congenial at present, I am afraid, but it is really the work for a perfect man. You know the emigrants are not liked at all by the white people there. To look after the Indians, at the same time with a cool-headedness not to create more strife—is the work there. No immediate result can be expected, but in the long run it will prove a more beneficial work for India than any yet attempted. I wish you try your luck in this. If so, please write to Setlur about your willingness and asking more information, mentioning this letter, and godspeed to you. I am not very well, but am going to Calcutta in a few days and will be all right.—Yours in the Lord, <span class="small-caps">Vivekananda</span>.
+The work will not be very congenial at present, I am afraid, but it is really the work for a perfect man. You know the emigrants are not liked at all by the white people there. To look after the Indians, at the same time with a cool-headedness not to create more strife—is the work there. No immediate result can be expected, but in the long run it will prove a more beneficial work for India than any yet attempted. I wish you try your luck in this. If so, please write to Setlur about your willingness and asking more information, mentioning this letter, and god-speed to you. I am not very well, but am going to Calcutta in a few days and will be all right.—Yours in the Lord, <span class="small-caps">Vivekananda</span>.
 
-### Letter 272: Swami Vivekananda → Srimati Mrinalini Bose
+### Letter 269: Swami Vivekananda → Srimati Mrinalini Bose
 
 ### (269)
 
@@ -5338,7 +5277,7 @@ In the preliminary state, the form of the Guru is to be meditated upon by the di
 
 It is very difficult to superimpose divinity on man, but one is sure to succeed by repeated efforts. God is in every man, whether man knows it or not; your loving devotion is bound to call up the divinity in him.—Ever your well-wisher, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 273: Swami Vivekananda
+### Letter 270: Swami Vivekananda
 
 ### *(270)*
 
@@ -5349,7 +5288,7 @@ It is very difficult to superimpose divinity on man, but one is sure to succeed 
 
 Be of good cheer. “Never a worker of good came to grief.” . . . —Ever yours etc., <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 274: Swami Vivekananda → Mohammed Sarfaraz Husain
+### Letter 271: Swami Vivekananda → Mohammed Sarfaraz Husain
 
 ### *(271)*
 
@@ -5372,7 +5311,7 @@ I see in my mind's eye the future perfect India rising out of this chaos and str
 
 Ever praying that the Lord may make of you a great instrument for the help of mankind, and especially of our poor, poor motherland.—Yours with love, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 275: Swami Vivekananda
+### Letter 272: Swami Vivekananda
 
 ### (272)
 
@@ -5383,7 +5322,7 @@ Ever praying that the Lord may make of you a great instrument for the help of ma
 
 Do not work yourself out. It is no use; always remember, “Duty is the midday sun whose fierce rays are burning the very vitals of humanity.” It is necessary for a time as a discipline; beyond that, it is a morbid dream. Things go on all right whether we lend them a helping hand or not. We in delusion only break ourselves. There is a false sentiment which goes the extreme of unselfishness, “only to injure others by its submission to every evil.” We have no right to make others selfish by our unselfishness; have we ? . . .—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 276: Swami Vivekananda
+### Letter 273: Swami Vivekananda
 
 ### *(273)*
 
@@ -5392,7 +5331,7 @@ Do not work yourself out. It is no use; always remember, “Duty is the midday s
 
 <span class="small-caps">Dear</span>—, . . . The Mother is our guide and whatever happens or will happen is under Her ordination. . . . Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 277: Swami Vivekananda → Mrs. Ole Bull
+### Letter 274: Swami Vivekananda → Mrs. Ole Bull
 
 ### *(274)*
 
@@ -5409,7 +5348,7 @@ Ere this I had only love for you, but recent developments prove that you are app
 
 Hoping soon to join you in Europe or America.—I remain, ever your loving son, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 278: Swami Vivekananda
+### Letter 275: Swami Vivekananda
 
 ### (275)
 
@@ -5418,7 +5357,7 @@ Hoping soon to join you in Europe or America.—I remain, ever your loving son, 
 
 <span class="small-caps">DEAR</span>—, . . . Two years of physical suffering have taken away twenty years off my life. Well, but the soul changeth not, does it? It is there, the same madcap Atman, mad upon one idea, intent and intense. . . . —Yours etc., <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 279: Swami Vivekananda → Srimati Sarala Ghoshal
+### Letter 276: Swami Vivekananda → Srimati Sarala Ghoshal
 
 ### (276)
 
@@ -5439,7 +5378,7 @@ This much from my side. Please know that not one word of it is exaggerated—whi
 
 But then I have some doubts about those patriotic souls who can join with us if only we give up the worship of the Guru. Well, if, as they pose, they are indeed panting and struggling so much—almost to the point of dissolution from their body—to serve the country, how can the single accident of Guru-worship stop everything?
 
-### Letter 280: Swami Vivekananda → Mr. E. T. Sturdy
+### Letter 277: Swami Vivekananda → Mr. E. T. Sturdy
 
 ### (277)
 
@@ -5454,7 +5393,7 @@ M. Nobel writes to me to defer my visit to him at Paris to some other date, from
 
 I think you are absolutely wanted to gather up, as it were, the American work. If you can, therefore, you ought to come over with me. Turiyananda is with me. Saradananda’s brother is going to Boston. . . . In case you cannot come to America, I ought to go, ought I not?
 
-### Letter 281: Swami Vivekananda
+### Letter 278: Swami Vivekananda
 
 ### (278)
 
@@ -5463,7 +5402,7 @@ I think you are absolutely wanted to gather up, as it were, the American work. I
 
 <span class="small-caps">DEAR</span>—, . . . Life is a series of fights and disillusion ments. . . . The secret of life is not enjoyment but educa tion through experience. But, alas, we are called off the moment we begin really to learn. That seems to many a potent argument for a future existence. . . . Everywhere it is better to have a whirlwind come over the work. That clears the atmosphere and gives us a true insight into the nature of things. It is begun anew, but on adamantine foundations. . . . —Yours with best wishes, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 282: Swami Vivekananda → Mr. E. T. Sturdy
+### Letter 279: Swami Vivekananda → Mr. E. T. Sturdy
 
 ### (279)
 
@@ -5496,7 +5435,7 @@ I remain as ever with love and blessings,—
 
 <span class="small-caps">Vivekananda.</span>
 
-### Letter 283: Swami Vivekananda
+### Letter 280: Swami Vivekananda
 
 ### (280)
 
@@ -5505,7 +5444,7 @@ I remain as ever with love and blessings,—
 
 <span class="small-caps">Dear</span>—,. . . Mother knows best, that is all about me. . . .—Yours etc., <span class="small-caps">Vivekananda.</span>
 
-### Letter 284: Swami Vivekananda
+### Letter 281: Swami Vivekananda
 
 ### (281)
 
@@ -5514,7 +5453,7 @@ I remain as ever with love and blessings,—
 
 <span class="small-caps">Dear</span>—,. . . It seems there is a gloom over your mind. Never mind, nothing is to last for ever. Anyhow life is not eternal. I am so, so thankful for it. Suffering is the lot of the world's best and bravest—yet, for aeons yet—till things are righted, if possible, here—at least it is a discipline which breaks the dream. In my sane moments I rejoice for my sufferings. Some one must suffer here;—I am glad it is I, amongst others of nature's sacrifices.—Yours etc., <span class="small-caps">Vivekananda.</span>
 
-### Letter 285: Swami Vivekananda
+### Letter 282: Swami Vivekananda
 
 ### *(282)*
 
@@ -5523,10 +5462,9 @@ I remain as ever with love and blessings,—
 
 <span class="small-caps">Dear</span>—, . . . On the whole I don’t think there is any cause for anxiety about my body. This sort of nervous body is just the instrument to play great music at times and at times to moan in darkness.—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 286: Swami Vivekananda → Sister Nivedita
+### Letter 283: Swami Vivekananda → Sister Nivedita
 
-### *(283)*
-*To Sister Nivedita*
+### *(283)* *To Sister Nivedita*
 
 <span class="small-caps">Los Angeles</span>,  
 *6th December*, 1899.
@@ -5537,10 +5475,9 @@ This is the only light I have caught this morning. This is enough if it has come
 
 Come ye that are heavily laden and lay all your burden on me and then do whatever you like and be happy and forget that I ever existed.—Ever with love, Your father, <span class="small-caps">Vivekananda</span>.
 
-### Letter 287: Swami Vivekananda → Mrs. Ole Bull
+### Letter 284: Swami Vivekananda → Mrs. Ole Bull
 
-### *(284)*
-*To Mrs. Ole Bull*
+### *(284)* *To Mrs. Ole Bull*
 
 *12th December, 1899.*
 
@@ -5556,10 +5493,9 @@ All blessings on you and yours. You have done for me more, much more, than I des
 
 Love to Christine and Turiyananda.—<span class="small-caps">Vivekananda.</span>
 
-### Letter 288: Swami Vivekananda → Sister Nivedita
+### Letter 285: Swami Vivekananda → Sister Nivedita
 
-### (285)
-*To Sister Nivedita*
+### (285) *To Sister Nivedita*
 
 <span class="small-caps">Los Angeles,</span>  
 421, 21<span class="small-caps">st.</span> <span class="small-caps">Street,</span>  
@@ -5573,7 +5509,7 @@ The wheel is turning up, Mother is working it up. She cannot let me go before He
 
 See, how England is working up. After this blood-letting people will then have time of thinking better and higher things than war, war, war. That is our opportunity. We run in quick, get hold of them by the dozens, and then set the Indian work in full swing. . . . —<span class="small-caps">Vivekananda.</span>
 
-### Letter 289: Swami Vivekananda
+### Letter 286: Swami Vivekananda
 
 ### (286)
 
@@ -5582,7 +5518,7 @@ See, how England is working up. After this blood-letting people will then have t
 
 <span class="small-caps">Dear</span>—, I am afraid that the rest and peace I seek for will never come. But Mother does good to others through me, at least some to my native land, and it is easier to be reconciled to one’s fate as a sacrifice. We are all sacrifices—each in his own way. The great worship is going on—no one can see its meaning except that it is a great sacrifice. Those that are willing, escape a lot of pain. Those who resist are broken into submission and suffer more. I am now determined to be a willing one.—Yours etc., <span class="small-caps">Vivekananda.</span>
 
-### Letter 290: Swami Vivekananda → Sister Nivedita
+### Letter 287: Swami Vivekananda → Sister Nivedita
 
 ### (287)
 
@@ -5615,10 +5551,9 @@ You are learning your lessons—that is all I want. So am I; the moment we are f
 
 . . . I am getting cool as a cucumber—let anything come, I am ready—the next move—any blow shall tell— not one miss—such is the next chapter.—With all love, <span class="small-caps">Vivekananda.</span>
 
-### Letter 291: Swami Vivekananda → Swami Akhandananda
+### Letter 288: Swami Vivekananda → Swami Akhandananda
 
-### (288)
-*To Swami Akhandananda*
+### (288) *To Swami Akhandananda*
 
 <span class="small-caps">California,</span>*  
 *21st February, 1900.*
@@ -5637,7 +5572,7 @@ Teach some boys and girls of the peasant classes the rudiments of learning and i
 
 Victory to the Guru ! Victory to the Mother of the Universe ! What fear ! Opportunity, remedy and its application—will present themselves. I do not care about the results, well or ill. I shall be happy if only you do this much of work. Wordy warfares, texts and scriptures, doctrines and dogmas—all these I am coming to loathe as poison in this my advanced age. Know this for certain that he who will work will be the crown on my head. Useless bandying of words and making noise is taking away our time, is consuming our life-energy, without pushing the cause of humanitarianism a step farther. माभैः—“Away with fear !” Bravo ! There is a hero indeed ! May the blessed Guru be enthroned in your heart, and the Divine Mother guide your hands !—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
-### Letter 292: Swami Vivekananda → Mrs. Ole Bull
+### Letter 289: Swami Vivekananda → Mrs. Ole Bull
 
 ### *(291)*
 
@@ -5652,7 +5587,7 @@ What a mass of namby-pamby nonsense we create round ourselves!! It does us no go
 
 Oh, to become fearless, to be daring, to be careless of everything ! . . .—Yours etc., <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 293: Swami Vivekananda
+### Letter 290: Swami Vivekananda
 
 ### (290)
 
@@ -5667,16 +5602,15 @@ I am trying to get a taste of that peace which I know is my nature and every one
 
 My dreams are breaking, Om Tat Sat !—Yours, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 294: Swami Vivekananda → Sister Nivedita
+### Letter 291: Swami Vivekananda → Sister Nivedita
 
-### (291)
-*To Sister Nivedita*
+### (291) *To Sister Nivedita*
 
 1779, <span class="small-caps">TURK STREET</span>,  
 <span class="small-caps">SAN FRANCISCO</span>,  
 *28th March, 1900.*
 
-<span class="small-caps">MY DEAR MARGO</span>—I am so glad at your good fortune . Things have got to come round if we are steady. I am sure you will get all the money you require here or in England.
+<span class="small-caps">MY DEAR MARGO</span>—I am so glad at your good fortune. Things have got to come round if we are steady. I am sure you will get all the money you require here or in England.
 
 I am working hard—and the harder I work the better I feel. This ill health has done me a great good, sure. I am really understanding what non-attachment means. And I hope very soon to be perfectly non-attached.
 
@@ -5694,7 +5628,7 @@ I had a nice letter from Max Geysic, the young Swiss who is a great friend of Mi
 
 Things have got to come round—the seed must die underground to come up as the tree. The last two years were the underground rotting. I never had a struggle in the jaws of death but it meant a tremendous upheaval of the whole life. One such brought me to Ramakrishna, another sent me to the U. S., this has been the greatest of all. It is gone—I am so calm that it astonishes me sometimes !! I work every day morning and evening, eat anything any hour—and go to bed at 12 <span class="small-caps">P.M.</span> in the night—but such fine sleep !! I never had such power of sleeping before !!—Yours with all love and blessings, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 295: Swami Vivekananda
+### Letter 292: Swami Vivekananda
 
 ### (292)
 
@@ -5703,7 +5637,7 @@ Things have got to come round—the seed must die underground to come up as the 
 
 <span class="small-caps">Dear</span>—, . . . The mind is omnipresent and can be heard and felt anywhere. . . . —Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 296: Swami Vivekananda → an American friend
+### Letter 293: Swami Vivekananda
 
 ### (293)
 
@@ -5718,7 +5652,7 @@ You see, I shall have to stay here longer than I intended, and work. But don’t
 
 My boat is nearing the calm harbour from which it is never more to be driven out. Glory, glory unto Mother ! I have no wish, no ambition now. Blessed be Mother ! I am the servant of Ramakrishna. I am merely a machine. I know nothing else. Nor do I want to know. Glory, glory unto Sri Guru !
 
-### Letter 297: Swami Vivekananda → an American friend
+### Letter 294: Swami Vivekananda
 
 ### (294)
 
@@ -5737,7 +5671,7 @@ I am happy, at peace with myself, and more of the Sannyasin than I ever was befo
 
 I am free. I am Mother’s child. She works, She plays. Why should I plan ? What should I plan ? Things came and went, just as She liked, without my planning. We are Her automata. She is the wire-puller.
 
-### Letter 298: Swami Vivekananda → Miss Josephine MacLeod
+### Letter 295: Swami Vivekananda → Miss Josephine MacLeod
 
 ### (295)
 
@@ -5782,7 +5716,7 @@ I hope great things to come to you all in London and Paris. Fresh joy — fresh 
 
 With love as ever to you and Mrs. Bull, —Yours faithfully, <span class="small-caps">Vivekananda.</span>
 
-### Letter 299: Swami Vivekananda → Sister Nivedita
+### Letter 296: Swami Vivekananda → Sister Nivedita
 
 ### (296)
 
@@ -5819,10 +5753,9 @@ He from his childhood was against Snake-worship and Indra-worship. Indra-worship
 
 This is the period of his love to Gopis. He was fifteen years of age.
 
-### Letter 300: Swami Vivekananda → Sister Nivedita
+### Letter 297: Swami Vivekananda → Sister Nivedita
 
-### (297)
-*To Sister Nivedita*
+### (297) *To Sister Nivedita*
 
 <span class="small-caps">San Francisco</span>,  
 *26th May, 1900.*
@@ -5831,7 +5764,7 @@ All blessings on you. Don’t despond in the least. *Sri wah Guru! Sri wah Guru!
 
 Black and thick are the folds of sinister fate. But I am the Master. I raise my hand, and lo, they vanish! All this is nonsense and fear. I am the Fear of fear, the Terror of terror. I am the fearless, secondless One. I am the Ruler of destiny, the Wiper-out of fact. *Sri wah Guru!* Steady, child, don’t be bought by gold or anything else, and we win!
 
-### Letter 301: Swami Vivekananda
+### Letter 298: Swami Vivekananda
 
 ### (298)
 
@@ -5840,7 +5773,7 @@ Black and thick are the folds of sinister fate. But I am the Master. I raise my 
 
 <span class="small-caps">Dear</span>—,. . . Well, Mother seems to be kind again and the wheel is slowly rising up. . .—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 302: Swami Vivekananda
+### Letter 299: Swami Vivekananda
 
 ### (299)
 
@@ -5849,7 +5782,7 @@ Black and thick are the folds of sinister fate. But I am the Master. I raise my 
 
 <span class="small-caps">Dear</span>—,. . . Mother knows, as I always say. Pray to Mother. It is hard work to be a leader—one must crush all one’s own self under the feet of the community. . . .—Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 303: Swami Vivekananda → Sister Christine
+### Letter 300: Swami Vivekananda → Sister Christine
 
 ### *(300)*
 
@@ -5875,7 +5808,7 @@ Thy touch makes deserts bloom to life,
 Harsh thunder blessed song,  
 Fell death the sweet release.
 
-### Letter 304: Swami Vivekananda → Sister Nivedita
+### Letter 301: Swami Vivekananda → Sister Nivedita
 
 ### *(301)*
 
@@ -5909,7 +5842,7 @@ With all love and blessings,—Yours truly,
 
 <span class="small-caps">Vivekananda</span>.
 
-### Letter 305: Swami Vivekananda
+### Letter 302: Swami Vivekananda
 
 ### *(302)*
 
@@ -5930,7 +5863,7 @@ I had not much time to think of the body. So it must be well. Nothing is ever we
 
 We play our parts here—good or bad. When the dream is finished, and we have left the stage, we shall have a hearty laugh at all this—of this only I am sure. —Yours etc., <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 306: Swami Vivekananda → Swami Turiyananda
+### Letter 303: Swami Vivekananda → Swami Turiyananda
 
 ### (303)
 
@@ -5948,7 +5881,7 @@ For some time now I have been living *incognito*. I shall stay with the French t
 
 I have no longer any desire to kill myself by touring. For the present I feel like settling down somewhere and spending my time among books etc. I have somewhat mastered the French language; but if I stay among them for a month or two, I shall have proficiency in carrying on conversations well. If one can master this language and German sufficiently, one can virtually become well acquainted with European learning. The people of this France are mere intellectualists, run after worldly things, and firmly believe God and souls to be superstitions; they are extremely loath to talk on such subjects. This is a truly materialistic country ! Let me see what the Lord does. But this country is at the head of Western culture, and Paris is the capital of that culture.
 
-Brother, free me from all work connected with preaching. I am now aloof from all that, you manage it yourselves . It is my firm conviction that Mother will get works done through a hundredfold more than through me.
+Brother, free me from all work connected with preaching. I am now aloof from all that, you manage it yourselves. It is my firm conviction that Mother will get works done through a hundredfold more than through me.
 
 Many days ago I received a letter from Kali. He must have reached New York by now. Miss Waldo sends news now and then.
 
@@ -5960,7 +5893,7 @@ There is a beautiful public park round the house. The gentleman cannot speak Eng
 
 Please convey my love to Miss Boocke, Miss Bell, Mrs. Aspinel, Miss Beckham, Mr. George, Dr. Logan, and other friends and accept it yourself. My love to all in Los Angeles also.—Yours, <span class="small-caps">Vivekananda.</span>
 
-### Letter 307: Swami Vivekananda → Swami Turiyananda
+### Letter 304: Swami Vivekananda → Swami Turiyananda
 
 ### (304)
 
@@ -5978,10 +5911,9 @@ I received a letter from Kali, too, to-day. I shall send him a reply to-morrow. 
 
 My love to you. But I have nothing more to advise as regards work.—Yours in service, <span class="small-caps">Vivekananda.</span>
 
-### Letter 308: Swami Vivekananda → Miss Alberta Sturgis
+### Letter 305: Swami Vivekananda → Miss Alberta Sturgis
 
-### (305)
-*To Miss Alberta Sturgis*
+### (305) *To Miss Alberta Sturgis*
 
 <span class="small-caps">Perros Guirce,  
 Bretagne,</span>  
@@ -6005,7 +5937,7 @@ Ever yours with love and blessings,
 
 <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 309: Swami Vivekananda → Miss Josephine MacLeod
+### Letter 306: Swami Vivekananda → Miss Josephine MacLeod
 
 ### (306)
 
@@ -6020,7 +5952,7 @@ Poor Captain Sevier passed away, a few days ago—thus two great Englishmen gave
 
 I am well, things are well here—every way. Excuse this haste. I will write longer ere long.—Ever yours in truth, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 310: Swami Vivekananda
+### Letter 307: Swami Vivekananda
 
 ### (307)
 
@@ -6029,7 +5961,7 @@ I am well, things are well here—every way. Excuse this haste. I will write lon
 
 <span class="small-caps">DEAR</span>—, Just a voice across the continents to say, how do you do ? Are you not surprised.? Verily I am a bird of passage. Gay and busy Paris, grim old Constantinople, sparkling little Athens, and pyramidal Cairo, are left behind, and here I am writing in my room on the Ganges, in the Math. It is so quiet and still ! The broad river is dancing in the bright sunshine, only now and then an occasional cargo boat breaking the silence with the splashing of the oars. It is the cold season here, but the middle of the day is warm and bright every day. But it is the winter of Southern California. Everything is green and gold and the grass is like velvet, yet the air is cold and crisp and delightful.—Yours etc., <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 311: Swami Vivekananda → Srimati Mrinalini Basu
+### Letter 308: Swami Vivekananda → Srimati Mrinalini Basu
 
 ### (308)
 
@@ -6043,7 +5975,7 @@ C/o <span class="small-caps">BABU PRIYANATH MUKHERJI</span>,
 
 I am very glad to receive your letter. What you have understood is right. स ईशोऽनिर्वचनीयप्रेमस्वरूपः —“ The Lord is identical with unspeakable love.” That this characteristic of God mentioned by Narada is manifest and admitted on all hands is the firm conviction of my life. The aggregate of many individuals is called Samashti (the whole), and each individual is called Vyashti (a part). You, and I—each is Vyashti, society is Samashti. You, I, an animal, a bird, a worm, an insect, a tree, a creeper, the earth, a planet, a star—each is Vyashti, while this universe is Samashti, which is called Virât, Hiranyagarbha, or Ishvara in Vedanta, and Brahmâ, Vishnu, Devi, etc., in the Puranas. Whether or not Vyashti has individual freedom, and if it has, what should be its measure, whether or not Vyashti should completely sacrifice its own will, its own happiness for Samashti—are the perennial problems before every society. Society everywhere is busy finding the solution of these problems. These, like big waves, are agitating modern Western society. The doctrine which demands the sacrifice of individual freedom to social supremacy is called socialism, while that which advocates the cause of the individual is called individualism.
 
-Our motherland is a glowing example of the results and consequences of the eternal subjection of the individual to society and forced self-sacrifice by dint of institution and discipline. In this country men are born according to Shâstric injunctions, they eat and drink by prescribed rules throughout life, they go through marriage and kindred functions in the same way; in short, they even die according to Shastric injunctions. This hard discipline, with the exception of one great good point, is fraught with evil. The good point is that men can do one or two things well, with very little effort, having practised them every day through generations. The delicious rice and curry which a cook of this country prepares with the aid of three lumps of earth and a few sticks can be had nowhere else. With the simple mechanism of an antediluvian loom, worth one rupee, and the feet put in a pit, it is possible to make kincobs worth twenty rupees a yard, in this country alone. A torn mat, an earthen lamp, and that fed by castor oil,—with the aid of materials such as these, wonderful *savants* are produced in this country alone. An all-forbearing attachment to an ugly and deformed wife, and a lifelong devotion to a worthless and villainous husband, are possible in this country alone. Thus far the bright side.
+Our motherland is a glowing example of the results and consequences of the eternal subjection of the individual to society and forced self-sacrifice by dint of institution and discipline. In this country men are born according to Shâstric injunctions, they eat and drink by prescribed rules throughout life, they go through marriage and kindred functions in the same way; in short, they even die according to Shastric injunctions. This hard discipline, with the exception of one great good point, is fraught with evil. The good point is that men can do one or two things well, with very little effort, having practised them every day through generations. The delicious rice and curry which a cook of this country prepares with the aid of three lumps of earth and a few sticks can be had nowhere else. With the simple mechanism of an antediluvian loom, worth one rupee, and the feet put in a pit, it is possible to make kincobs worth twenty rupees a yard, in this country alone. A torn mat, an earthen lamp, and that fed by castor oil,—with the aid of materials such as these, wonderful *savants* are produced in this country alone. An all-forbearing attachment to an ugly and deformed wife, and a life-long devotion to a worthless and villainous husband, are possible in this country alone. Thus far the bright side.
 
 But all these things are done by people guided like lifeless machines;—there is no mental activity, no unfoldment of the heart, no vibration of life, no flux of hope; there is no strong stimulation of the will, no experience of keen pleasure, nor the contact of intense sorrow; there is no stir of inventive genius, no desire for novelty, no appreciation of new things. Clouds never pass away from this mind, the radiant picture of the morning sun never charms this heart. It never even occurs to the mind if there is any better state than this; where it does, it cannot convince; in the event of conviction, effort is lacking; and even where there is effort, lack of enthusiasm kills it out.
 
@@ -6066,7 +5998,7 @@ Mother, be not anxious. It is against the big tree that the great wind strikes. 
 
 “Verily, seeing the same God equally existent everywhere, he does not injure the self by the self, and so goes to the Supreme Goal.”—Ever your well-wisher, <span class="small-caps">VIVEKANANDA</span>.
 
-### Letter 312: Swami Vivekananda → Miss Josephine MacLeod
+### Letter 309: Swami Vivekananda → Miss Josephine MacLeod
 
 ### (310)
 
@@ -6104,7 +6036,7 @@ There is a soul of light.
 
 All love to M—, Mrs. C—, to dear Jules Bois, and to you, dear Joe, Pranams.—<span class="small-caps">VIVEKANANDA.</span>
 
-### Letter 313: Swami Vivekananda → Mr. E. T. Sturdy
+### Letter 310: Swami Vivekananda → Mr. E. T. Sturdy
 
 ### (311)
 
@@ -6130,7 +6062,7 @@ Kindly tender my regards and love to Mrs. Johnson and other friends if you meet 
 
 And I am ever yours in the Truth,—<span class="small-caps">Vivekananda</span>.
 
-### Letter 314: Swami Vivekananda
+### Letter 311: Swami Vivekananda
 
 ### *(312)*
 
@@ -6141,7 +6073,7 @@ And I am ever yours in the Truth,—<span class="small-caps">Vivekananda</span>.
 
 If some real good comes out of a visit to H. H. of—— I am ready to come over, otherwise I don’t want to undergo the expense and exertion of the long journey. Think it well over and make enquiries, and write me if you still think it would be best for the Cause for me to come to see H. H. . . . —Yours with love and blessings, <span class="small-caps">Vivekananda</span>.
 
-### Letter 315: Swami Vivekananda
+### Letter 312: Swami Vivekananda
 
 ### *(313)*
 
@@ -6150,7 +6082,7 @@ If some real good comes out of a visit to H. H. of—— I am ready to come over
 
 Things come to me by fits––to-day I am in a fit of writing. The first thing to do is, therefore, to pen a few lines to you. I am known to be nervous, I worry much; but it seems, dear Christine, you are not far behind in that trick. One of our poets says: “Even the mountains will fly, the fire will be cold, yet the heart of the great will never change.” I am small, very, but I know you are great, and my faith is always in your true heart. *I worry about everything except you.* I have dedicated you to the *Mother*. She is your shield, your guide. No harm can reach you––nothing hold you down a minute, I know it.—Ever yours in the Lord, <span class="small-caps">Vivekananda</span>.
 
-### Letter 316: Swami Vivekananda
+### Letter 313: Swami Vivekananda
 
 ### (314)
 
@@ -6163,7 +6095,7 @@ Well, about the rains—they have come down now in right earnest and it is a del
 
 One of the geese had her plumes falling off. Knowing no other method I left her some minutes in a tub of water mixed with mild carbolic, so that it might either kill or heal—and she is all right now.—Yours etc., <span class="small-caps">Vivekananda.</span>
 
-### Letter 317: Swami Vivekananda
+### Letter 314: Swami Vivekananda
 
 ### (315)
 
@@ -6172,7 +6104,7 @@ One of the geese had her plumes falling off. Knowing no other method I left her 
 
 <span class="small-caps">Dear</span>—, . . . I am bobbing up and down in the current of life—to-day it is rather down. . . . —Yours etc., <span class="small-caps">Vivekananda.</span>
 
-### Letter 318: Swami Vivekananda → Swami Swarupananda
+### Letter 315: Swami Vivekananda → Swami Swarupananda
 
 ### (316)
 
@@ -6204,7 +6136,7 @@ I am rather well here, in Benares, and if I go on improving in this way it will 
 
 A total revolution has occurred in my mind about the relation of Buddhism and Neo-Hinduism. I may not live to work out the glimpses, but I shall leave the lines of work indicated, and you and your brethren will have to work it out.—Yours with all blessings and love, <span class="small-caps">Vivekananda</span>.
 
-### Letter 319: Swami Vivekananda → Sister Nivedita
+### Letter 316: Swami Vivekananda → Sister Nivedita
 
 ### *(317)*
 
@@ -6217,7 +6149,7 @@ May all powers come unto you ! May Mother Herself be your hands and mind ! It is
 
 If there was any truth in Sri Ramakrishna, may He take you into His leading, even as He did me, nay, a thousand times more !
 
-### Letter 320: Swami Vivekananda → Mrs. Ole Bull
+### Letter 317: Swami Vivekananda → Mrs. Ole Bull
 
 ### *(318)*
 
@@ -6272,7 +6204,7 @@ I wanted to write many things, but the flesh is weak . . . . “Whosoever worshi
 [^fn-p0194-1]: (१) न गृहं गृहमित्याहुर्गृहिणी गृहमुच्यते ।
 [^fn-p0195-1]: (1) Adapted from the Mahimnah Stotra.
 [^fn-p0198-1]: (1) The Ramakrishna Birthday Anniversary.
-[^fn-p0199-1]: (1) 1 Bhartrihari.
+[^fn-p0199-1]: (1) Bhartrihari.
 [^fn-p0200-1]: (1) Vivekachudamani.
 [^fn-p0201-1]: (1) The Holy Mother.
 [^fn-p0202-1]: (1) The first two paras as well as the last half of this para are in the original.
@@ -6289,7 +6221,7 @@ I wanted to write many things, but the flesh is weak . . . . “Whosoever worshi
 [^fn-p0401-1]: (१) यावानर्थ उदपाने सर्वतः संप्लुतोदके । तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ॥ —Gita, II. 46.
 [^fn-p0405-1]: (1) Things other than God.
 [^fn-p0419-1]: (1) This paragraph only is translated from Bengali.
-[^fn-p0434-1]: (1) 1 This was the last letter received by Sister Nivedita in England.
+[^fn-p0434-1]: (1) This was the last letter received by Sister Nivedita in England.
 [^fn-p0436-1]: (1) The Leaves, etc.
 
 ## Notes on Persons mentioned in the Letters

@@ -364,6 +364,7 @@
   ],
   "curated": [],
   "letters": {
+   "nineteenth-century-letters-1919": 1,
    "poe-whitman-last-letters-1909": 10
   },
   "name": "Edgar Allan Poe",
@@ -493,7 +494,7 @@
    "/letters/nietzsche-overbeck-1889"
   ],
   "letters": {
-   "nietzsche-wagner-1921": 18
+   "nietzsche-wagner-1921": 16
   },
   "name": "Friedrich Nietzsche",
   "slug": "friedrich-nietzsche"
@@ -742,11 +743,18 @@
  },
  {
   "also": [],
-  "credits": [],
+  "credits": [
+   {
+    "book_id": "nehru-father-daughter-letters-1929",
+    "role": ""
+   }
+  ],
   "curated": [
    "/speeches/nehru-tryst-destiny-1947"
   ],
-  "letters": {},
+  "letters": {
+   "nehru-father-daughter-letters-1929": 31
+  },
   "name": "Jawaharlal Nehru",
   "slug": "jawaharlal-nehru"
  },
@@ -1056,6 +1064,10 @@
   "also": [],
   "credits": [
    {
+    "book_id": "tagore-glimpses-of-bengal-1921",
+    "role": ""
+   },
+   {
     "book_id": "tagore-letters-1917",
     "role": ""
    },
@@ -1079,6 +1091,7 @@
    "/lectures/tagore-personality-1917"
   ],
   "letters": {
+   "tagore-glimpses-of-bengal-1921": 78,
    "tagore-letters-1917": 13,
    "tagore-letters-to-a-friend-1928": 32
   },
@@ -1354,7 +1367,9 @@
   "curated": [
    "/letters/whitman-emerson-1856"
   ],
-  "letters": {},
+  "letters": {
+   "nineteenth-century-letters-1919": 1
+  },
   "name": "Walt Whitman",
   "slug": "walt-whitman"
  },

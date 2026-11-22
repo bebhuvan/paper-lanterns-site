@@ -19,19 +19,19 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 183,
+  "letters": 181,
   "notes": 594,
   "pages": 200,
   "dated_letters": 52
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 94.0,
+  "score": 90.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 24.0,
+    "score": 20.0,
     "out_of": 30.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 3,
+  "flagged": 82,
   "blockers": 0
  },
  "proof": {
@@ -202,7 +202,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 183,
+ "unperiodised_count": 181,
  "frontispiece": {},
  "title_page": {
   "page": 5,
@@ -212,27 +212,27 @@
   {
    "format": "epub",
    "file": "rukaat-i-alamgiri-aurangzeb-1908.epub",
-   "bytes": 169829,
-   "sha256": "cc4e31f3150c1edc793c89eb9370f601df73956ee1bd1911a2dc9af19a4da12b"
+   "bytes": 249797,
+   "sha256": "dec4c06a75ea914769e6ac0b5775d5290e6040c26e6d856794356f4e8a95ec53"
   },
   {
    "format": "markdown",
    "file": "rukaat-i-alamgiri-aurangzeb-1908.md",
-   "bytes": 389031,
-   "sha256": "30052a6593a812eb9c3174c531423bf780ed0527f626c314cec9007501aa5384"
+   "bytes": 387331,
+   "sha256": "bd2099d007ae19e34e6f2046f2495ed8832a046fe78a35fce95446ff9ca710dd"
   },
   {
    "format": "tei",
    "file": "rukaat-i-alamgiri-aurangzeb-1908.tei.xml",
-   "bytes": 541832,
-   "sha256": "4c292290c5568ffe5de733224c8778215f88da2f590bd83a5806b11d1de4aac7"
+   "bytes": 540173,
+   "sha256": "b1a9aa80164f28335fe135f0664f6a63dbc01fe7dd0c0c4e2c20778c36fa4f79"
   }
  ],
  "scan_base": "https://archive.org/download/rukaatialamgirio00aurarich/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-v1",
-  "compiled_at": "2026-11-20T16:24:09Z",
-  "source_ast_sha256": "7c95eb13d831ce138b93cf0d54966e7c3e674e98880fc7865b9200a382623822",
+  "compiled_at": "2026-11-22T08:49:30Z",
+  "source_ast_sha256": "4a12c0cb81b3c700bd1ddc2f52659b319a0664ac3d075b1e42c572c78b6e78af",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -7,14 +7,11 @@
 
 ## INTRODUCTORY
 
-### SELECTED
-ENGLISH
-LETTERS
+### SELECTED ENGLISH LETTERS
 
 Houghton Mifflin Co.
 
-### SELECTED
-ENGLISH LETTERS
+### SELECTED ENGLISH LETTERS
 
 EDITED BY  
 CLAUDE M. FUESS, <span class="small-caps">Ph.D.</span>  
@@ -356,8 +353,7 @@ The letters of the 4th Earl of Chesterfield (1694–1773) to his natural son, Ph
 
 ### Letter 10: The Earl of Chesterfield → Philip Stanhope, Esq.
 
-### *The Earl of Chesterfield to his Son, Philip
-Stanhope, Esq.*
+### *The Earl of Chesterfield to his Son, Philip Stanhope, Esq.*
 
 <span class="small-caps">London</span>: November 24, 1747.
 
@@ -373,7 +369,7 @@ True friendship requires certain proportions of age and manners, and can never s
 
 The young leading the young, is like the blind leading the blind; “ they will both fall into the ditch.” The only sure guide is he who has often gone the road which you want to go. Let me be that guide: who have gone all roads; and who can consequently point out to you the best. If you ask me why I went any of the bad roads myself, I will answer you very truly, that is for want of a good guide; ill example invited me one way, and a good guide was wanting to show me a better. But if anybody, capable of advising me, had taken the same pains with me, which I have taken, and will continue to take with you, I should have avoided many follies and inconveniences, which undirected youth ran me into. My father was neither able nor desirous to advise me; which is what I hope you cannot say of yours. You see that I make use only of the word *advise;* because I would much rather have the assent of your reason to my advice, than the submission of your will to my authority. This, I persuade myself, will happen, from that degree of sense which I think you have; and therefore I will go on advising, and with hopes of success. You are now settled for some time at Leipsic: the principal object of your stay there is the knowledge of books and sciences; which if you do not, by attention and application, make yourself master of while you are there, you will be ignorant of them all the rest of your life: and take my word for it a life of ignorance is not only a very contemptible, but a very tiresome one. Redouble your attention then, to M<sup>r</sup> Harte, in your private studies of the Literæ Humaniores,[^fn-p0032-1] especially Greek. State your difficulties whenever you have any; do not suppress them either from mistaken shame, lazy indifference or in order to have done the sooner. Do the same with Professor Mascow, or any other professor.
 
-When you have thus usefully employed your mornings , you may with a safe conscience divert yourself in the evenings, and make those evenings very useful too, by passing them in good company, and, by observation and attention, learning as much of the world as Leipsic can teach you. You will observe and imitate the manners of the people of the best fashion there; not that they are (it may be) the best manners in the world; but because they are the best manners of the place where you are, to which a man of sense always conforms. The nature of things is always and everywhere the same; but the modes of them vary, more or less, in every country; and an easy and genteel conformity to them, or rather the assuming of them at proper times, and in proper places, is what particularly constitutes a man of the world, and a well-bred man.
+When you have thus usefully employed your mornings, you may with a safe conscience divert yourself in the evenings, and make those evenings very useful too, by passing them in good company, and, by observation and attention, learning as much of the world as Leipsic can teach you. You will observe and imitate the manners of the people of the best fashion there; not that they are (it may be) the best manners in the world; but because they are the best manners of the place where you are, to which a man of sense always conforms. The nature of things is always and everywhere the same; but the modes of them vary, more or less, in every country; and an easy and genteel conformity to them, or rather the assuming of them at proper times, and in proper places, is what particularly constitutes a man of the world, and a well-bred man.
 
 Here is advice enough, I think, and too much, it may be, you will think, for one letter; if you follow it, you will get knowledge, character, and pleasure by it; if you do not, I only lose *operam et oleum*,[^fn-p0033-1] which, in all events, I do not grudge you.
 
@@ -697,10 +693,10 @@ No English letter-writer is more easy, more spontaneous, and more varied than Lo
 
 <span class="small-caps">Newstead Abbey</span>, Sept. 20, 1814.
 
-> “Here 's to her who long
-Hath waked the poet's sigh!
-The girl who gave to song
-What gold could never buy.”
+> “Here 's to her who long  
+> Hath waked the poet's sigh!  
+> The girl who gave to song  
+> What gold could never buy.”
 
 <span class="small-caps">My dear Moore</span>,—
 
@@ -808,9 +804,7 @@ Ever most faithfully yours,
 
 P. B. S.
 
-After I have sealed my letter, I find that my enumeration of the animals in this Circean[^fn-p0071-2] Palace was defective, and that in a material point. I have just met on the grand staircase five peacocks, two guinea hens, and an Egyptian crane. I wonder who all these
-
-animals were before they were changed into these shapes.
+After I have sealed my letter, I find that my enumeration of the animals in this Circean[^fn-p0071-2] Palace was defective, and that in a material point. I have just met on the grand staircase five peacocks, two guinea hens, and an Egyptian crane. I wonder who all these animals were before they were changed into these shapes.
 
 ### Letter 31: Thomas Carlyle → Benjamin Disraeli
 
@@ -1077,7 +1071,7 @@ Now, don't you in your own heart and soul quarrel with me for this long silence?
 
 Not half so much as I quarrel with myself, I know; but if you could read half the letters I write you in imagination, you would swear by me for the best of correspondents. The truth is, that when I have done my morning's work, down goes my pen, and from that minute I feel it a positive impossibility to take it up again, until imaginary butchers and bakers wave me to my desk. The post-office is my rock ahead. My average number of letters that *must* be written every day is, at the least, a dozen. And you could no more know what I was writing to you spiritually, from the perusal of the bodily thirteenth, than you could tell from my hat what was going on in my head, or could hear my heart on the surface of my flannel waistcoat.
 
-This is a little fishing place; intensely quiet; built on a cliff, whereon — in the center of a tiny semicircular bay — our house stands; the sea rolling and dashing under the windows. Seven miles out are the Goodwin Sands (you've heard of the Goodwin Sands?) whence floating lights perpetually wink after dark, as if they were carrying on intrigues with the servants. Also there is a big lighthouse called the North Foreland on a hill behind the village, a severe parsonic light, which reproves the young and giddy floaters, and stares grimly out upon the sea. Under the cliff are rare good sands, where all the children assemble every morning and throw up impossible fortifications, which the sea throws down again at high water. Old gentlemen and ancient ladies look all day through telescopes and never see anything. In a bay-window in a one-pair sits, from nine o'clock until one, a gentleman with rather long hair and no neck-cloth, who writes and grins as if he thought he were very funny indeed. His name is Boz.[^fn-p0092-1] At one he disappears , and presently emerges from a bathing-machine, and may be seen—a kind of salmon-coloured porpoise —splashing about in the ocean. After that he may be seen in another bay-window on the ground floor, eating a strong lunch; after that, walking a dozen miles or so, or lying on his back in the sand reading a book. Nobody bothers him unless they know he is disposed to be talked to; and I am told he is very comfortable indeed. He 's as brown as a berry, and they *do* say is a small fortune to the innkeeper who sells beer and cold punch. But this is mere rumour. Sometimes he goes up to London (eighty miles, or so, away), and then I 'm told there is a sound in Lincoln's Inn Fields at night, as men laughing, together with a clinking of knives and forks and wine glasses.
+This is a little fishing place; intensely quiet; built on a cliff, whereon — in the center of a tiny semicircular bay — our house stands; the sea rolling and dashing under the windows. Seven miles out are the Goodwin Sands (you've heard of the Goodwin Sands?) whence floating lights perpetually wink after dark, as if they were carrying on intrigues with the servants. Also there is a big lighthouse called the North Foreland on a hill behind the village, a severe parsonic light, which reproves the young and giddy floaters, and stares grimly out upon the sea. Under the cliff are rare good sands, where all the children assemble every morning and throw up impossible fortifications, which the sea throws down again at high water. Old gentlemen and ancient ladies look all day through telescopes and never see anything. In a bay-window in a one-pair sits, from nine o'clock until one, a gentleman with rather long hair and no neck-cloth, who writes and grins as if he thought he were very funny indeed. His name is Boz.[^fn-p0092-1] At one he disappears, and presently emerges from a bathing-machine, and may be seen—a kind of salmon-coloured porpoise —splashing about in the ocean. After that he may be seen in another bay-window on the ground floor, eating a strong lunch; after that, walking a dozen miles or so, or lying on his back in the sand reading a book. Nobody bothers him unless they know he is disposed to be talked to; and I am told he is very comfortable indeed. He 's as brown as a berry, and they *do* say is a small fortune to the innkeeper who sells beer and cold punch. But this is mere rumour. Sometimes he goes up to London (eighty miles, or so, away), and then I 'm told there is a sound in Lincoln's Inn Fields at night, as men laughing, together with a clinking of knives and forks and wine glasses.
 
 I often dream that I am in America again; but, strange to say, I never dream of you. I am always endeavouring to get home in disguise, and have a dreary sense of distance. Apropos of dreams, is it not a strange thing if writers of fiction never dream of their own creations; recollecting, I suppose, even in their dreams, that they have no real existence? I never dream of any of my own characters, and I feel it so impossible that I would wager Scott never did of his, real as they are. I had a good piece of absurdity in my head a night or two ago. I dreamed that somebody was dead. I don't know who, but it 's not to the purpose. It was a private gentleman, or a particular friend; and I was greatly overcome when the news was broken to me (very delicately) by a gentleman in a cocked hat, top boots, and a sheet. Nothing else. " Good God!" I said, " is he dead?" " He is as dead, sir," rejoined the gentleman, " as a door-nail. But we all must die, Mr. Dickens, sooner or later, my dear sir.” “ Ah ! ” I said, “ Yes, to be sure. Very true. But what did he die of ? ” The gentleman burst into a flood of tears, and said in a voice broken by emotion : “ He christened his youngest child, Sir, with a toasting fork.” I never in my life was so affected as at his having fallen a victim to this complaint. It carried a conviction to my mind that he never could have recovered. I knew it was the most interesting and fatal malady in the world ; and I wrung the gentleman’s hand in a convulsion of respectful admiration, for I felt that this explanation did equal honour to his head and heart.
 
@@ -1255,7 +1249,7 @@ Thomas Bailey Aldrich (1836–1907) writes to thank his friend, W. D. Howells, f
 
 <span class="small-caps">Dear Howells</span>,—
 
-We had so charming a visit at your house that I have about made up my mind to reside with you permanently . I am tired of writing. I would like to settle down in just such a comfortable home as yours, with a man who can work regularly four or five hours a day, thereby relieving one of all painful apprehensions in respect to clothes and pocket-money. I am easy to get along with. I have few unreasonable wants and never complain when they are constantly supplied. I think I could depend on you.
+We had so charming a visit at your house that I have about made up my mind to reside with you permanently. I am tired of writing. I would like to settle down in just such a comfortable home as yours, with a man who can work regularly four or five hours a day, thereby relieving one of all painful apprehensions in respect to clothes and pocket-money. I am easy to get along with. I have few unreasonable wants and never complain when they are constantly supplied. I think I could depend on you.
 
 Ever yours,
 
@@ -1395,7 +1389,7 @@ I thoroughly envy you your stay at Milton — wrist, Daemon, and all. You must s
 
 <span class="small-caps">William Vaughn Moody.</span>
 
-### Letter 56: Charles W. Eliot → ———
+### Letter 56: Charles W. Eliot
 
 ### LVII
 
@@ -1453,8 +1447,7 @@ August 23, 1909.
 
 This is an admirable example of the best type of modern business letter: courteous, lucid, and very much to the point.
 
-### *Hart, Schaffner & Marx to The John R. Jones
-Company*
+### *Hart, Schaffner & Marx to The John R. Jones Company*
 
 <span class="small-caps">Chicago</span>, January 23, 1913.
 
@@ -1466,7 +1459,7 @@ Examples make the best arguments, and we are therefore mailing some newspapers s
 
 The fact that you asked the other day for a personal letter indicates that you believe in that form of publicity. There is none better, providing you link it with newspaper copy. Advertising experts everywhere agree that newspaper advertising, even where the medium is only fairly efficient, is the best means of getting trade.
 
-In the old days, the merchant depended on his personality , his acquaintances, for trade. You know how times have changed, how people read the newspapers, how men depend on publicity, how they look in the daily paper not only for general news, but news of “ where to buy.”
+In the old days, the merchant depended on his personality, his acquaintances, for trade. You know how times have changed, how people read the newspapers, how men depend on publicity, how they look in the daily paper not only for general news, but news of “ where to buy.”
 
 When the spring season opens up, we are going to take the liberty of sending you some fine, new, attractive newspaper illustrations, together with some copy particularly suited to your people. We hope you will permit us to do this, and that you will be willing to give us some information about your trade, your newspapers, and the things you want to feature specially. We shall be glad to have your ideas on the subject. It is only because we think you can sell more goods under this plan that we mention it.
 
@@ -1480,8 +1473,7 @@ Yours truly,
 
 This letter gives a happy and graceful touch to what, at bottom, is a simple matter of business.
 
-### *Houghton Mifflin Company to Honorable Woodrow
-Wilson*
+### *Houghton Mifflin Company to Honorable Woodrow Wilson*
 
 December 18th, 1912.
 

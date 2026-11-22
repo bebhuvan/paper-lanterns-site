@@ -2,7 +2,7 @@
 
 - **Author / Editor**: Edgar Allan Poe (ed. Mary Newton Stanard)
 - **Year**: 1925
-- **Letters**: 39
+- **Letters**: 35
 - **Pages**: 376
 
 ## Frontmatter
@@ -20,11 +20,9 @@ EDGAR ALLAN POE
 From a crayon portrait drawn by F. J. Fisher about 1858, from a daguerreotype owned by John R. Thompson, editor of the *Southern Literary Messenger*  
 Presented to Edward V. Valentine by the artist
 
-### EDGAR ALLAN POE LETTERS
-TILL NOW UNPUBLISHED
+### EDGAR ALLAN POE LETTERS TILL NOW UNPUBLISHED
 
-### IN THE VALENTINE MUSEUM
-RICHMOND, VIRGINIA
+### IN THE VALENTINE MUSEUM RICHMOND, VIRGINIA
 
 INTRODUCTORY ESSAY AND COMMENTARY  
 BY  
@@ -71,14 +69,14 @@ In April, 1882, Mr. Mayo transferred this packet of letters to Mann S. Valentine
 
 > “George W. Mayo.
 
-> Richmond, Va.
-April 4, 1882.”
+> Richmond, Va.  
+> April 4, 1882.”
 
 Mr. Mayo made a mistake in enumerating the letters —attributing one of Mr. Allan’s two letters to Poe and overlooking the one from Poe to Sergeant Graves.
 
 The reader will naturally wonder why there are only two letters from the University of Virginia. The answer may be found in the fact that while Mr. Allan made a habit of preserving his own correspondence he did not preserve his wife’s. If Edgar wrote to his adored and adoring foster-mother from the University or anywhere else his letters to her are not known to exist.
 
-Study of the letters indicates that they are the only correspondence, published or unpublished, between Poe and his foster-father. There is, after Poe left the University, evidence of one missing letter, and one only.[^fn-p0015-1] Poe often mentions the time that has elapsed since he last wrote or since he heard, and Mr. Allan’s comments on the reverse of letters also account for time. Furthermore, the subject matter of the letters provides internal evidence that there is one, but no other missing communication . Mr. Allan kept them carefully and they have come down to us intact, save for slight mutilation of a page or two. Seldom have they been seen or read. They have lain silent and dark in safes, to be taken out at long intervals and shown, confidentially, to one or more persons.
+Study of the letters indicates that they are the only correspondence, published or unpublished, between Poe and his foster-father. There is, after Poe left the University, evidence of one missing letter, and one only.[^fn-p0015-1] Poe often mentions the time that has elapsed since he last wrote or since he heard, and Mr. Allan’s comments on the reverse of letters also account for time. Furthermore, the subject matter of the letters provides internal evidence that there is one, but no other missing communication. Mr. Allan kept them carefully and they have come down to us intact, save for slight mutilation of a page or two. Seldom have they been seen or read. They have lain silent and dark in safes, to be taken out at long intervals and shown, confidentially, to one or more persons.
 
 Now, a hundred years after the first of them was written and ninety-two years after the last, they will speak to the world.
 
@@ -88,9 +86,7 @@ No advocate will appear for either. In compliance with the wish of the custodian
 
 Abundant proof that even in quite early days these letters were unknown and unread is furnished by Mrs. Louisa G. Allan, who owned them, but evidently had not examined them for years, if ever. In a letter to Colonel Thomas H. Ellis, the son of her husband’s partner, which was printed in the *Richmond Standard* and reproduced in the *Richmond News Illustrated Saturday Magazine*, July 28, 1900, she says:
 
-> “Mr. Poe had not lived under Mr. Allan’s roof for
-
-two years before my marriage; and no one knew his whereabouts; his letters which were very scarce, were dated from St. Petersburg Russia, although he had enlisted in the army at Boston.”
+> “Mr. Poe had not lived under Mr. Allan’s roof for two years before my marriage; and no one knew his whereabouts; his letters which were very scarce, were dated from St. Petersburg Russia, although he had enlisted in the army at Boston.”
 
 It will be seen that none of the letters are dated from foreign places and the one from Fort Moultrie, December 1, 1828, explains where Poe was during the nearly two years of his army service, following his enlistment in Boston, May 26, 1827. This and the letters of March 19 and 20, 1827, make it plain that Poe had been on no sea voyages other than those from Richmond to Boston and from Boston to Charleston, and that no letters passed between Poe and Mr. Allan after those referred to of March 19 and 20, 1827—from the Court House Tavern, Richmond, requesting that his trunk be sent to him— until the Fort Moultrie letter, December, 1828. These two important letters concerning the quarrel with Mr. Allan which made Poe homeless, are without dates in the originals, but after an interesting chase the editor has been able to supply the days of the month and year on which they were written.
 
@@ -104,8 +100,6 @@ These finds of Professor Campbell *combined* with the data supplied by Mr. Allan
 
 The earliest document from these papers containing mention of Poe antedates the sojourn of the Allan family in England. It is a letter from Edgar’s Aunt Eliza Poe, of Baltimore, to Mrs. Allan, written little more than a year after Edgar’s adoption. It is the only letter known to exist either to or from Mrs. Allan and here it is :
 
-### Letter 1
-
 > “Baltimore, February 8th, 1813.
 
 > “Tis the Aunt of Edgar that addresses Mrs. Allen for the second time, impressed with the idea that a letter if received could not remain unacknowledged so long as from the month of July, she is induced to write again in order to inquire in her family’s as well as in her own name after the health of the Child of her Brother, as well as that of his adopted Parents. I cannot suppose my dear Mrs. Allen that a heart possessed of such original humanity as yours must without doubt be could so long keep in suspense the anxious inquiries made through the medium of my letter by the Grand Parents of the Orphan of an unfortunate son, surely ere this allowing that you did not wish to commence a correspondence with one who is utterly unknown to you had you received it Mr. Allen would have written to my Father or Brother if it had been only to let them know how he was, but I am confident you never received it, for two reasons, the first is that not having the pleasure of knowing your christian name, I merely addressed it to Mrs. Allen of Richmond, the second is as near as I can recollect you were about the time I wrote to you at the Springs where Mr. Douglas saw you. Permit me my dear madam to thank you for your kindness to the little Edgar—he is truly the Child of fortune to be placed under the fostering care of the amiable Mr. and Mrs. Allen. Oh how few meet with such a lot—the Almighty Father of the Universe grant that he may never abuse the kindness he has received and *that* from those who were not bound by any ties except those that the feeling and humane heart dictates—I fear that I have too long intruded on your patience, will you if so have the goodness to forgive me—and dare I venture to flatter myself with the hope that this will be received with any degree of pleasure or that you will gratify me so much as to answer it—give my love to the dear little Edgar and tell him tis his Aunt Eliza who writes this to you. My mother and family desire to be affectionately remembered to Mr. Allen and yourself—Henry frequently speaks of this little Brother and expresses a great desire to see him, tell him he sends his very best love to him and is greatly pleased to hear that he is so good and also so pretty A Boy as Mr. Douglas represented him to be—I feel as if I were wrighting to A Sister and can scarcely even at the risk of your displeasure prevail on myself to lay aside my pen—with the hope of your indulgence in pardoning my temerity I remain my dear Mrs. Allen yours
@@ -114,8 +108,8 @@ The earliest document from these papers containing mention of Poe antedates the 
 
 > Eliza Poe
 
-> Mrs. Allen the kind Benefactress
-of the infant Orphan Edgar, Allen, Poe.”
+> Mrs. Allen the kind Benefactress  
+> of the infant Orphan Edgar, Allen, Poe.”
 
 Both the letters in the Valentine Museum and those in the Library of Congress show that when the Allans went abroad they made visits to several homes of Mr. Allan’s relatives in his native Scotland before going to London. They sailed from Norfolk, Virginia, June 22, 1815, and on the day after their arrival in England, July 29, 1815, Mr. Allan wrote to his partner, Charles Ellis, in Richmond (Library of Congress collection), describing the voyage across the Atlantic. The ladies had suffered severely in crossing the ocean but Edgar had been only “a little sick and soon recovered.”
 
@@ -181,7 +175,7 @@ This book is arranged with especial consideration for the comfort of the reader.
 
 Thus the reader approaches the letter already possessed of whatever light the editor has for him. To find it, his eye is not distracted by innumerable foot notes, nor does he have to hunt through an appendix.
 
-Following the clearly printed typescript comes the real thing—the letter itself in facsimile.
+Following the clearly printed typescript comes the real thing—the letter itself in fac-simile.
 
 In thus reproducing *all* of the letters—each one of them complete, some with address on the back—their owners and their publishers not only give the most satisfactory assurance of genuineness of the material, but are doing the nearest thing possible to placing the centuryold originals in the hands of owners and readers of these Edgar Allan Poe Letters, Till Now Unpublished.
 
@@ -285,35 +279,35 @@ F<span class="small-caps">AC-SIMILE</span> . . . . . . . . . . . . . . 283
 
 XXVII. <span class="small-caps">Edgar Allan Poe, Baltimore, November</span> 18, 1831, <span class="small-caps">to John Allan</span> . . . . . . . . . . . 291
 
-<span class="small-caps">Facsimile</span> . . . . . . . . . . . . . . . . 293
+<span class="small-caps">Fac-simile</span> . . . . . . . . . . . . . . . . 293
 
 XXVIII. <span class="small-caps">Mrs. Clemm, Baltimore, December</span> 5, 1831, <span class="small-caps">to John Allan</span> . . . . . . . . . . . . . . 295
 
-<span class="small-caps">Facsimile</span> . . . . . . . . . . . . . . . . 297
+<span class="small-caps">Fac-simile</span> . . . . . . . . . . . . . . . . 297
 
 XXIX. <span class="small-caps">Edgar Allan Poe, Baltimore, December</span> 15, 1831, <span class="small-caps">to John Allan</span> . . . . . . . . . . . 299
 
-<span class="small-caps">Facsimile</span> . . . . . . . . . . . . . . . . 303
+<span class="small-caps">Fac-simile</span> . . . . . . . . . . . . . . . . 303
 
 XXX. <span class="small-caps">Edgar Allan Poe, Baltimore, December</span> 29, 1831, <span class="small-caps">to John Allan</span> . . . . . . . . . . . 305
 
-<span class="small-caps">Facsimile</span> . . . . . . . . . . . . . . . . 307
+<span class="small-caps">Fac-simile</span> . . . . . . . . . . . . . . . . 307
 
 XXXI. <span class="small-caps">Edgar Allan Poe, Baltimore, April</span> 12, 1833, <span class="small-caps">to John Allan</span> . . . . . . . . . . . . 313
 
-<span class="small-caps">Facsimile</span> . . . . . . . . . . . . . . . . 315
+<span class="small-caps">Fac-simile</span> . . . . . . . . . . . . . . . . 315
 
 <span class="small-caps">Bill for Edgar Allan Poe at Manor House School</span> . . . 319
 
-<span class="small-caps">Facsimile</span> . . . . . . . . . . . . . . . . . . . . 321
+<span class="small-caps">Fac-simile</span> . . . . . . . . . . . . . . . . . . . . 321
 
 <span class="small-caps">Bill for Edgar Allan Poe at Manor House School</span> . . . 323
 
-<span class="small-caps">Facsimile</span> . . . . . . . . . . . . . . . . . . . . 325
+<span class="small-caps">Fac-simile</span> . . . . . . . . . . . . . . . . . . . . 325
 
 <span class="small-caps">Bill for Edgar Allan Poe at Manor House School</span> . . . 327
 
-<span class="small-caps">Facsimile</span> . . . . . . . . . . . . . . . . . . . . 329
+<span class="small-caps">Fac-simile</span> . . . . . . . . . . . . . . . . . . . . 329
 
 ### ILLUSTRATIONS
 
@@ -395,7 +389,7 @@ There are other evidences that he played cards at the University—not very clev
 
 The Valentine Museum letters prove that these debts caused a breach between the father and son which never was healed. In letter number Twenty-four from West Point, Jan. 3, 1830, Poe pleads lack of funds to meet his college expenses as excuse for his gambling at the University. He says that expenses there were $350. per annum “at the lowest estimate;” that sums he had to pay in advance were $50. for board, $60. for attendance upon two professors, $15. for room rent, $12. for a bed, $12. for room furniture, and that the amount furnished him made it impossible for him to avoid going into debt. In an advertisement in the Richmond *Enquirer*, Jan. 24, 1827 (the year after Poe was at the University) the following list of charges is given:
 
-*[Illustration, p. 13]*
+*[Illustration, p. 49]*
 
 By the courtesy of Misses Mumford and Mrs. W. S. Robertson
 
@@ -411,7 +405,7 @@ Franklin and Second Streets, Richmond, where the Allans and Edgar Poe spent seve
 
 In the letter quoted from West Point (Number Twenty Four) Poe reminds Mr. Allan that toward the close of the session he was sent $100., but says that that amount was insufficient to be of any service in “extricating” him from his difficulties. He tried to borrow more to add to it, but failing in this, says: “I became desperate, and gambled—until I finally involved myself irretrievably.” Poe was always singularly neat in his dress and enjoyed good clothes when he was able to have them. Before going home at the end of the session he provided himself with an outfit rivaling that of the Lilies of the Field—and charged it to Mr. Allan. In the coat of superfine blue cloth with “best” gilt buttons, drab pantaloons (materials for which cost thirteen dollars) and a vest of black cut velvet, the handsome college boy of not yet eighteen with his perfect manners and dancing, must, have made a striking figure in the younger set of Richmond society during the Christmas holidays. A photostat copy of the bill (in the Library of Congress) of Samuel Leitch, Charlottesville merchant, for materials for this suit enables the reader to visualize young Edgar in the dashing raiment in which he was evidently *not* an acceptable sight in Mr. Allan’s eyes for he refused to pay the bill of sixty-eight dollars for the cloth and trimmings, and the Ellis-Allan papers show that Mr. Leitch was still trying to collect it a year and a half later. Whether or not Mr. Allan had authorized Edgar’s ordering any clothes from Leitch (who had been Ellis and Allan’s Charlottesville agent) or the boy was gambling to reinstate himself in the favor of his lost sweetheart—Elmira Royster—does not appear. But the father was evidently incensed at the size of the bill. The Library of Congress papers contain reminders of at least two other unpaid bills for Poe at the University, and explode the tradition that Mr. Allan paid everything but the gambling debts. One of these reminders (from Edward G. Crump) will appear later, the other, in form of a letter to “John Allan, Esq., Richmond,” follows:
 
-### Letter 2
+### Letter 1
 
 > “1st May 1827
 
@@ -423,7 +417,7 @@ In the letter quoted from West Point (Number Twenty Four) Poe reminds Mr. Allan 
 
 Probably these and other bills which Edgar made and (contrary to tradition) Mr. Allan declined to pay, were deciding factors in his refusal to send the boy back to the University and contributing causes of the quarrel (alluded to in Letters Three and Four) which cost Edgar Poe the home that had been his harbour since babyhood.
 
-### Letter 3: Edgar → John Allan
+### Letter 2: Edgar → John Allan
 
 ### LETTER NUMBER ONE
 
@@ -460,7 +454,7 @@ LETTER NUMBER ONE
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER ONE]
 
-### Letter 4: Edgar A Poe → Jno Allan
+### Letter 3: Edgar A Poe → Jno Allan
 
 ### LETTER NUMBER TWO
 
@@ -482,11 +476,9 @@ Yours affectionatly
 
 Edgar A Poe
 
-*[Illustration, p. 25]*
+*[Illustration, p. 61]*
 
 THE UNIVERSITY OF VIRGINIA WHEN POE WAS A STUDENT
-
-### Letter 5: E. A Poe → Jno Allan
 
 E. A Poe  
 University  
@@ -506,19 +498,11 @@ LETTER NUMBER TWO
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWO]
 
-### LETTER NUMBER THREE
-EDGAR ALLAN POE, THE COURT HOUSE TAVERN, RICHMOND
-MONDAY [DATED BY THE EDITOR] MARCH 19, 1827
-TO JOHN ALLAN
+### LETTER NUMBER THREE EDGAR ALLAN POE, THE COURT HOUSE TAVERN, RICHMOND MONDAY [DATED BY THE EDITOR] MARCH 19, 1827 TO JOHN ALLAN
 
-### LETTER NUMBER FOUR
-EDGAR ALLAN POE, THE COURT HOUSE TAVERN, RICHMOND
-TUESDAY [DATED BY THE EDITOR] MARCH 20, 1827
-TO JOHN ALLAN
+### LETTER NUMBER FOUR EDGAR ALLAN POE, THE COURT HOUSE TAVERN, RICHMOND TUESDAY [DATED BY THE EDITOR] MARCH 20, 1827 TO JOHN ALLAN
 
-### LETTER NUMBER FIVE
-JOHN ALLAN, RICHMOND [DATED BY THE EDITOR] MARCH 20, 1827
-TO EDGAR ALLAN POE
+### LETTER NUMBER FIVE JOHN ALLAN, RICHMOND [DATED BY THE EDITOR] MARCH 20, 1827 TO EDGAR ALLAN POE
 
 ### COMMENT
 
@@ -532,7 +516,7 @@ Mr. Allan’s reply to Letter Three (of Monday) was evidently written before he 
 
 As to just how soon after Edgar’s return from the University the breach between him and his foster father took place his biographers were hazy until Professor Killis Campbell, by combination of two letters in the Library of Congress—one from Edward G. Crump, March 25, 1827, to Poe, and one from John Allan to a sister in Scotland, March 27, 1827—placed the date somewhere between the 20th and 25th of March. This was getting quite “warm.” In Crump’s letter he tells Poe: “I saw you a few days ago in Richmond.” Mr. Allan writes: “I’m thinking Edgar has gone to sea to seek his fortune.” Combination of these two letters from the Library of Congress collection with Number Three and Number Four in the Valentine Museum fixes the exact day of the quarrel and of Poe’s leaving home. March 27, 1827, when Mr. Allan wrote: “I’m thinking Edgar has gone to sea” fell on a Tuesday. Poe’s letter of “Tuesday”—no date—saying, “I sail on Saturday” was evidently the Tuesday preceding (March 20), for Crump had written on the 25th, “I saw you a few days ago in Richmond” and Poe’s letter of “Monday”—the day before the “Tuesday” letter—must have been written on March 19. It alludes to the quarrel of “yesterday”—which was, of course, Sunday, March 18, 1827. Poe sailed the Saturday following the quarrel—March 24—the day before Crump’s letter [Sunday] March 25, was written. Poe never received it, hence it is still in the Ellis-Allan papers. Here it is, from a photostat copy of the original in the Library of Congress:
 
-### Letter 6
+### Letter 4
 
 > “Dinwiddie County March 25, 1827.
 
@@ -548,7 +532,7 @@ On the back of this letter is written in Mr. Allan’s handwriting: “Edw’d. 
 
 Having determined the date of Edgar’s sailing the next task for the editor was to find the ship. The *Boston Commercial Gazette* from March 26, to April 7 (kindly examined by Mr. G. A. Taylor of Boston) shows that the only vessel directly from Richmond which reached Boston during this period was *The Carrier*, Captain Gill. After its passage down the winding James with perhaps stops at wharves of some of the historic homes along that river, perhaps turning into Hampton Roads and passing Old Point and Fortress Monroe, perhaps putting in at Norfolk harbour for shelter from a March gale or to take on freight—then out to sea and on up the coast, *The Carrier* cast anchor in Boston’s beautiful port on April 7 and Edgar Poe, after a twelve days’ voyage, saw, for the first time within his memory, the city of his birth.
 
-### Letter 7: Edgar A Poe → John Allan
+### Letter 5: Edgar A Poe → John Allan
 
 ### LETTER NUMBER THREE
 
@@ -572,7 +556,7 @@ You suffer me to be subjected to the whims & caprice, not only of your white fam
 
 I request that you will send me my trunk containing my clothes & books—and if you still have the least affection for me, As the last call I shall make on your bounty, To prevent the fulfilment of the Prediction you this morning expressed, send me as much money as will defray my the expences of my passage to some of the Northern cities & then support me for one month, by which time I shall be enabled to place myself in some situation where I may not only obtain a livelihood, but lay by a sum which one day or another will support me at the University—Send my trunk &c to the Court-House Tavern, send me I entreat
 
-*[Illustration, p. 39]*
+*[Illustration, p. 75]*
 
 DOORWAY OF POE'S ROOM AT THE UNIVERSITY OF VIRGINIA  
 The Latin inscription is "Domus parva magni poetæ." The room is kept as a memorial of the great poet whose small home it was
@@ -602,7 +586,7 @@ LETTER NUMBER THREE
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER THREE]
 
-### Letter 8: Edgar A Poe → John Allan
+### Letter 6: Edgar A Poe → John Allan
 
 ### LETTER NUMBER FOUR
 
@@ -634,7 +618,7 @@ LETTER NUMBER FOUR
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER FOUR]
 
-### Letter 9: John Allan → Edgar Allan Poe
+### Letter 7: John Allan → Edgar Allan Poe
 
 ### LETTER NUMBER FIVE
 
@@ -646,7 +630,7 @@ It is true and you will not deny it, that the charge of eating the Bread of idle
 
 Your list of grievances require no answer the world will reply to them—& now that you have shaken off your dependance & declared for your own Independance —& after such a list of Black charges—you Tremble for for the consequences unless I send you a supply of money.
 
-*[Illustration, p. 53]*
+*[Illustration, p. 89]*
 
 JOHN ALLAN  
 FOSTER-FATHER OF EDGAR ALLAN POE  
@@ -660,10 +644,7 @@ LETTER NUMBER FIVE
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER FIVE]
 
-### LETTER NUMBER SIX
-<span class="small-caps">EDGAR ALLAN POE, FORT MOULTRIE, SULLIVAN’S ISLAND,
-CHARLESTON, S. C., DECEMBER 1, 1828
-TO JOHN ALLAN</span>
+### LETTER NUMBER SIX <span class="small-caps">EDGAR ALLAN POE, FORT MOULTRIE, SULLIVAN’S ISLAND, CHARLESTON, S. C., DECEMBER 1, 1828 TO JOHN ALLAN</span>
 
 ### COMMENT
 
@@ -683,7 +664,7 @@ Buoyed up by the good reputation given him by the officers of his regiment and b
 
 He saw in Mr. Allan’s declaration that he had better remain in the army a suggestion that the writer believed that by enlisting as a private he was “degraded and disgraced and that anything were preferable to my returning home and entailing on yourself a portion of my infamy.” But even this did not dampen his exhilaration.
 
-### Letter 10: Edgar A, Poe → John Allan
+### Letter 8: Edgar A, Poe → John Allan
 
 ### LETTER NUMBER SIX
 
@@ -726,7 +707,7 @@ Virginia.
 
 care of Wm & Wm Galt Jr
 
-*[Illustration, p. 65]*
+*[Illustration, p. 101]*
 
 Courtesy of the Edgar Allan Poe Shrine
 
@@ -747,9 +728,7 @@ LETTER NUMBER SIX
 
 ### LETTER NUMBER SEVEN
 
-### EDGAR ALLAN POE, FORTRESS MONROE, OLD POINT, VIRGINIA,
-DECEMBER 22, 1828
-TO JOHN ALLAN
+### EDGAR ALLAN POE, FORTRESS MONROE, OLD POINT, VIRGINIA, DECEMBER 22, 1828 TO JOHN ALLAN
 
 ### COMMENT
 
@@ -757,7 +736,7 @@ In this letter signed “Your affectionate son,” Poe “much hurt” at receiv
 
 The sensitive boy’s uneasiness lest his “father” should consider him “degraded” was evidently on account of his enlistment and service as a private in the army. He had done nothing else to warrant such anxiety.
 
-### Letter 11: Edgar A Poe → John Allan
+### Letter 9: Edgar A Poe → John Allan
 
 ### LETTER NUMBER SEVEN
 
@@ -774,7 +753,7 @@ Give my best love to my Ma & to all friends.
 
 If you determine to abandon me—here take [illegible] farewell—Neglected I will be doubly [illegible] tious, & the world shall hear of the son whom you have thought
 
-*[Illustration, p. 77]*
+*[Illustration, p. 113]*
 
 FORT MOULTRIE  
 From a drawing made by Lossing in 1849 for his *Field Book of the Revolution*. Here came the 18 year old Poe and spent thirteen months (November 1827–December 1828) marked by sobriety, faithfulness to duty and striking creative work
@@ -813,9 +792,7 @@ LETTER NUMBER SEVEN
 
 ### LETTER NUMBER EIGHT
 
-### EDGAR ALLAN POE, FORTRESS MONROE, OLD POINT, VIRGINIA,
-FEBRUARY 4, 1829
-TO JOHN ALLAN
+### EDGAR ALLAN POE, FORTRESS MONROE, OLD POINT, VIRGINIA, FEBRUARY 4, 1829 TO JOHN ALLAN
 
 ### COMMENT
 
@@ -823,7 +800,7 @@ Two months and over have passed since Poe’s Fort Moultrie letter was written a
 
 There is no evidence of a reply to this letter but three weeks after it was written (February 28, 1829) Mrs. Allan died. On that day Edgar was “present for duty” with his battery at Old Point, but the death of Frances Allan evidently caused her husband to relent and ask for a week’s leave for the young sergeant major who had been her only child, and of course he must have furnished means for the journey. Again proof is furnished by a combination of the Valentine Museum letters and the records in the Library of Congress. In Letter Twenty-Four from West Point, Poe reminds Mr. Allan that he “came home the night after the burial”—presumably March 2, since the death occurred on the last day of February. The Ellis-Allan papers contain a bill dated March 3, 1829, for a handsome suit of mourning clothes for Edgar Poe, including a fashionable hat. “Miss Nancy” Valentine and Mrs. Galt, to whom Edgar sends messages, doubtless attended to that.
 
-### Letter 12: Edgar A Poe → John Allan
+### Letter 10: Edgar A Poe → John Allan
 
 ### LETTER NUMBER EIGHT
 
@@ -844,7 +821,7 @@ Under the certain expectation of kind news from home I have been led into expenc
 
 Whatever fault you may find with me I have not been ungrateful for past services—but you blame me for the part which I have taken without considering the powerful impulses which actuated me. You will remember how much I had to suffer upon my return from the University. I never meant to offer a shadow of excuse for the infamous conduct of myself & others at that place. It was however at the commencement of that year that I got deeply entangled in difficulty which all my after good conduct in the close of the session (to
 
-*[Illustration, p. 91]*
+*[Illustration, p. 127]*
 
 Courtesy of the Edgar Allan Poe Shrine
 
@@ -887,9 +864,7 @@ LETTER NUMBER EIGHT
 
 ### LETTER NUMBER NINE
 
-### EDGAR ALLAN POE, FORTRESS MONROE, MARCH 10, 1829
-TO JOHN ALLAN
-[MUTILATED]
+### EDGAR ALLAN POE, FORTRESS MONROE, MARCH 10, 1829 TO JOHN ALLAN [MUTILATED]
 
 ### COMMENT
 
@@ -899,7 +874,7 @@ In the course of Professor George E. Woodberry’s exhaustive research for his L
 
 By order dated April 4, Poe received his discharge on April 15, and a satisfactory substitute took his place. Before going “home” to Richmond he lingered about Old Point long enough to secure letters of recommendation to be presented in person to Major John H. Eaton, the Secretary of War, at Washington. Thanks to Professor Woodberry, we may read these letters, also, in full.[^fn-p0137-3] That of Lieutenant Howard declared that “Edgar Poe . . . served under my command . . . from June 1827, to January, 1829, during which time his conduct was unexceptionable. He at once performed the duties of Company Clerk and assistant in the Subsistent Department, both of which duties were promptly
 
-### Letter 13: Edgar A. Poe → John Allan
+### Letter 11: Edgar A. Poe → John Allan
 
 ### LETTER NUMBER NINE
 
@@ -931,7 +906,7 @@ John Allan Esq.,
 Richmond  
 Va
 
-*[Illustration, p. 105]*
+*[Illustration, p. 141]*
 
 FRANCES VALENTINE ALLAN  
 Wife of John Allan.  From a portrait by Thomas Sully, owned by Edward V. Valentine
@@ -944,13 +919,9 @@ LETTER NUMBER NINE
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER NINE]
 
-### LETTER NUMBER TEN
-JOHN ALLAN, RICHMOND, MAY 18, 1829
-TO EDGAR ALLAN POE
+### LETTER NUMBER TEN JOHN ALLAN, RICHMOND, MAY 18, 1829 TO EDGAR ALLAN POE
 
-### LETTER NUMBER ELEVEN
-EDGAR ALLAN POE, BALTIMORE, MAY 20, 1829
-TO JOHN ALLAN
+### LETTER NUMBER ELEVEN EDGAR ALLAN POE, BALTIMORE, MAY 20, 1829 TO JOHN ALLAN
 
 ### COMMENT
 
@@ -966,7 +937,7 @@ On the reverse of Poe’s letter Mr. Allan wrote: Edgar A. Poe May 20, 1829. Ans
 | p’d his draft . . . . . . . . . . | 50 |
 |  | $200. |
 
-### Letter 14: John Allan → Edgar Allan Poe
+### Letter 12: John Allan → Edgar Allan Poe
 
 ### LETTER NUMBER TEN
 
@@ -993,7 +964,7 @@ LETTER NUMBER TEN
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TEN]
 
-### Letter 15: Edgar A. Poe → John Allan
+### Letter 13: Edgar A. Poe → John Allan
 
 ### LETTER NUMBER ELEVEN
 
@@ -1040,14 +1011,13 @@ LETTER NUMBER ELEVEN
 
 ### LETTER NUMBER TWELVE
 
-### EDGAR ALLAN POE, BALTIMORE, MAY 29, 1829
-TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, MAY 29, 1829 TO JOHN ALLAN
 
 ### COMMENT
 
 It becomes more and more evident that the master interest of Poe's life was his creative work and desire to see it in print. While waiting in Baltimore to hear from his application for a cadetship he sought the opinion and advice of William Wirt as to “Al Aaraaf” and (apparently at Wirt's suggestion) went—on May 12, 1829—to Philadelphia to see an expert critic and a leading publisher. Wirt's letter which he enclosed to Mr. Allan has been alluded to by Woodberry and Campbell, but has never been printed. Dr. Thomas Ollive Mabbott, of Columbia University, has kindly furnished the editor with a copy of the (slightly mutilated) letter, from the original manuscript in the Boston Library, and here it is:
 
-### Letter 16
+### Letter 14
 
 > “Baltimore May 11, 1829.
 
@@ -1065,7 +1035,7 @@ Encouraged by Wirt’s interest and Robert Walsh’s promise of notice of “Al 
 
 On the reverse of this letter Mr. Allan wrote “Replied to Monday, 8th June 1829 strongly censuring his conduct and refusing my aid.”
 
-### Letter 17: E A. Poe → John Allan
+### Letter 15: E A. Poe → John Allan
 
 ### LETTER NUMBER TWELVE
 
@@ -1088,7 +1058,7 @@ If Mˢˢʳˢ Carey, Lea & Carey, should decline publishing (as I have no reason 
 
 If you conclude upon giving me a *trial* please enclose me the letter to Messʳˢ Carey, Lea, & Carey—I shall wait anxiously for your answer—
 
-*[Illustration, p. 127]*
+*[Illustration, p. 163]*
 
 Courtesy of the Edgar Allan Poe Shrine
 
@@ -1132,17 +1102,11 @@ LETTER NUMBER TWELVE
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWELVE]
 
-### LETTER NUMBER THIRTEEN
-EDGAR ALLAN POE, BALTIMORE, JUNE 25, 1829
-TO JOHN ALLAN
+### LETTER NUMBER THIRTEEN EDGAR ALLAN POE, BALTIMORE, JUNE 25, 1829 TO JOHN ALLAN
 
-### LETTER NUMBER FOURTEEN
-EDGAR ALLAN POE, BALTIMORE, JULY 15, 1829
-TO JOHN ALLAN
+### LETTER NUMBER FOURTEEN EDGAR ALLAN POE, BALTIMORE, JULY 15, 1829 TO JOHN ALLAN
 
-### LETTER NUMBER FIFTEEN
-EDGAR ALLAN POE, BALTIMORE, JULY 26, 1829
-TO JOHN ALLAN
+### LETTER NUMBER FIFTEEN EDGAR ALLAN POE, BALTIMORE, JULY 26, 1829 TO JOHN ALLAN
 
 ### COMMENT
 
@@ -1154,7 +1118,7 @@ The poet clings desperately to hope for his foster-father’s approval of the pu
 
 “The Byrd” means the Allans’ farm, the Lower Byrd Plantation in Goochland county, not far from Richmond.
 
-### Letter 18: Edgar A. Poe → John Allan
+### Letter 16: Edgar A. Poe → John Allan
 
 ### LETTER NUMBER THIRTEEN
 
@@ -1206,7 +1170,7 @@ LETTER NUMBER THIRTEEN
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER THIRTEEN]
 
-### Letter 19: Edgar A. Poe → John Allan
+### Letter 17: Edgar A. Poe → John Allan
 
 ### LETTER NUMBER FOURTEEN
 
@@ -1243,7 +1207,7 @@ LETTER NUMBER FOURTEEN
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER FOURTEEN]
 
-### Letter 20: Edgar A Poe → John Allan
+### Letter 18: Edgar A Poe → John Allan
 
 ### LETTER NUMBER FIFTEEN
 
@@ -1293,14 +1257,13 @@ LETTER NUMBER FIFTEEN
 
 ### LETTER NUMBER SIXTEEN
 
-### EDGAR ALLAN POE, BALTIMORE, AUGUST 4, 1829
-TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, AUGUST 4, 1829 TO JOHN ALLAN
 
 ### COMMENT
 
 No answer having been received to his letter of July 26 Poe—evidently in straits—makes another appeal for confidence, forgiveness of past faults, permission to come “home.” Three things Poe was working desperately for—to reinstate himself in Mr. Allan’s favor, to publish his work, to secure a cadetship. In the meantime his existence during the wait for his appointment—possibly in September, more probably the following June—seemed to depend on permission to go “home.” “If I could manage until that time I would be no longer a trouble to you,” he writes. And herein is a suggestion of one reason for his desire: for the cadetship—to rid Mr. Allan of responsibility of his support. In the words of Eugene L. Didier, Poe “had been taught to spend thousands, but had never been taught to earn a dollar.”[^fn-p0199-1]
 
-### Letter 21: Edgar A. Poe → John Allan
+### Letter 19: Edgar A. Poe → John Allan
 
 ### LETTER NUMBER SIXTEEN
 
@@ -1336,14 +1299,13 @@ LETTER NUMBER SIXTEEN
 
 ### LETTER NUMBER SEVENTEEN
 
-### EDGAR ALLAN POE, BALTIMORE, AUGUST 10, 1829
-TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, AUGUST 10, 1829 TO JOHN ALLAN
 
 ### COMMENT
 
 The opening sentence suggests that the letter received that morning from his foster-father contained kindness as well as the first money he had had since the letter of July 19, and the last he was to have until the middle of November. (See Numbers Nineteen and Twenty.) It evidently contained no invitation to come “home” and Poe’s answer—by return post—shows that he despairs of receiving one, as he sends Mr. Allan a calculation as to the least allowance upon which he can exist in a cheap boarding house in Baltimore and asks that “a small trunk containing books and some letters” which he had left in Richmond, be forwarded to him. Twenty years later, when Poe died in Baltimore, most of his estate consisted of a small black leather trunk, bound with iron hoops and containing manuscripts and a few other belongings. The trunk and its key (which was found in the dead poet’s pocket) were turned over to his cousin, Neilson Poe, who sent them to Edgar’s sister Rosalie at “Duncan Lodge,” Richmond, the home of the MacKensies, who had adopted and reared her. Rosalie gave the trunk and key to Jane MacKensie Miller, of Matthews County, Virginia, only grandchild of her foster-mother, who, in 1923, conveyed them to the “Edgar Allan Poe Shrine,” Richmond, where they may now be seen.[^fn-p0209-1]
 
-### Letter 22: Edgar A. Poe → John Allan
+### Letter 20: Edgar A. Poe → John Allan
 
 ### LETTER NUMBER SEVENTEEN
 
@@ -1368,14 +1330,12 @@ Yours affectionately
 
 Edgar A. Poe
 
-*[Illustration, p. 177]*
+*[Illustration, p. 213]*
 
 Courtesy of the Edgar Allan Poe Shrine
 
 <span class="small-caps">POE'S TRUNK</span>  
 It generally had in it some of his manuscripts along with his other belongings. It was with him in Baltimore at the time of his death and its key was found in his pocket
-
-### Letter 23: Edgar A Poe → John Allan
 
 Edgar A Poe
 
@@ -1402,8 +1362,7 @@ LETTER NUMBER SEVENTEEN
 
 ### LETTER NUMBER EIGHTEEN
 
-### EDGAR ALLAN POE, BALTIMORE, OCTOBER 30, 1829
-TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, OCTOBER 30, 1829 TO JOHN ALLAN
 
 ### COMMENT
 
@@ -1415,7 +1374,7 @@ Mr. Allan undoubtedly saw Neal’s comment. Poe would have taken pains that he s
 
 Edgar’s reply (in Letter Eighteen) to Mr. Allan’s request to see his poems is proof that such a request had been made and is the first sign of interest in the boy’s work of which there is documentary evidence. It is a significant sign coming on the heels of Neal’s notice.
 
-### Letter 24: Edgar A. Poe → John Allan
+### Letter 21: Edgar A. Poe → John Allan
 
 ### LETTER NUMBER EIGHTEEN
 
@@ -1459,14 +1418,13 @@ LETTER NUMBER EIGHTEEN
 
 ### LETTER NUMBER NINETEEN
 
-### EDGAR ALLAN POE, BALTIMORE, NOVEMBER 12, 1829
-TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, NOVEMBER 12, 1829 TO JOHN ALLAN
 
 ### COMMENT
 
 This pitiful letter speaks for itself.
 
-### Letter 25: Edgar A Poe → John Allan
+### Letter 22: Edgar A Poe → John Allan
 
 ### LETTER NUMBER NINETEEN
 
@@ -1500,8 +1458,7 @@ LETTER NUMBER NINETEEN
 
 ### LETTER NUMBER TWENTY
 
-### EDGAR ALLAN POE, BALTIMORE, NOVEMBER 18, 1829
-TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, NOVEMBER 18, 1829 TO JOHN ALLAN
 
 ### COMMENT
 
@@ -1515,9 +1472,7 @@ It contains the announcement that “The poems will be printed!” Hatch and Dun
 
 After making his arrangement with Hatch and Dunning Poe succeeded in bringing himself a second time to the attention of John Neal, who in the December number of *The Yankee* printed a letter written by Poe to one who (says the editor) “has laid it on our table for a good purpose”—with extracts from Poe’s forthcoming book and with praise and sound advice from himself. This is the earliest known letter of Poe’s until those in the Valentine Museum appearing now for the first time:
 
-“I am young” (it says) “—not quite twenty—*am* a poet—if deep worship of all beauty can make me one—and wish to be so in the more common meaning of the word. I would give the world
-
-> to embody one half the ideas afloat in my imagination. (By the way, do you remember—or did you ever read the exclamation of Shelley about Shakespeare?—‘What a number of ideas must have been afloat before such an author could arise!’), I appeal to you as a man that loves the same beauty which I adore—the beauty of the natural blue sky and the sunshiny earth—there can be no tie more strong than that of brother for brother—it is not so much that they both love the same parent—their affections are always running in the same direction—the same channel—and cannot help mingling. . . . . . .
+“I am young” (it says) “—not quite twenty—*am* a poet—if deep worship of all beauty can make me one—and wish to be so in the more common meaning of the word. I would give the world to embody one half the ideas afloat in my imagination. (By the way, do you remember—or did you ever read the exclamation of Shelley about Shakespeare?—‘What a number of ideas must have been afloat before such an author could arise!’), I appeal to you as a man that loves the same beauty which I adore—the beauty of the natural blue sky and the sunshiny earth—there can be no tie more strong than that of brother for brother—it is not so much that they both love the same parent—their affections are always running in the same direction—the same channel—and cannot help mingling. . . . . . .
 
 > “I am about to publish a volume of ‘Poems,’ the greater part written before I was fifteen. Speaking about ‘Heaven,’ the editor of the ‘Yankee’ says, ‘He might write a beautiful, if not a magnificent poem’—(the very first words of encouragement I ever remember to have heard). I am very certain that as yet I have not written *either*—but that I *can*, I will take oath—if they will give me time.
 
@@ -1541,14 +1496,14 @@ This brief discussion of the publication of Poe’s second collection of poems s
 
 As late as 1875 Neal wrote to Judge Neilson Poe : “Edgar A. Poe was a wonderful man and he has never had justice done him.”[^fn-p0244-1]
 
-*[Illustration, p. 209]*
+*[Illustration, p. 245]*
 
 *Courtesy of R. A. Lancaster, Jr.*
 
 HOME OF THE ALLANS AT MAIN AND FIFTH STREETS, RICHMOND, VIRGINIA  
 There was, in front, a lawn planted in shrubbery and a circular driveway, and at the rear a walled garden
 
-### Letter 26: Edgar A Poe → John Allan
+### Letter 23: Edgar A Poe → John Allan
 
 ### LETTER NUMBER TWENTY
 
@@ -1580,9 +1535,7 @@ LETTER NUMBER TWENTY
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY]
 
-### LETTER NUMBER TWENTY-ONE
-EDGAR ALLAN POE, RICHMOND, MAY 3, 1830
-TO SERGEANT SAMUEL GRAVES
+### LETTER NUMBER TWENTY-ONE EDGAR ALLAN POE, RICHMOND, MAY 3, 1830 TO SERGEANT SAMUEL GRAVES
 
 ### COMMENT
 
@@ -1590,7 +1543,7 @@ Some persons who have seen this letter have assumed that Sergeant Graves (or “
 
 Poe, in the letter (Twenty-Four) to Mr. Allan from West Point, January 3, 1831, confesses authorship of the letter to “Bully” and in explanation says: “It was written a half hour after you had embittered every feeling of my heart against you by abuse of my family and myself, under your own roof—and at a time when you knew that my heart was almost breaking.” And here we have proof of a quarrel during Poe’s visit “home” between him and his foster-father, and its date—the same on which the letter to “Bully” was written.
 
-### Letter 27: E A Poe → Samuel Graves
+### Letter 24: E A Poe → Samuel Graves
 
 ### LETTER NUMBER TWENTY-ONE
 
@@ -1636,8 +1589,7 @@ LETTER NUMBER TWENTY-ONE
 
 ### LETTER NUMBER TWENTY-TWO
 
-### EDGAR ALLAN POE, WEST POINT, JUNE 28, 1830
-TO JOHN ALLAN
+### EDGAR ALLAN POE, WEST POINT, JUNE 28, 1830 TO JOHN ALLAN
 
 ### COMMENT
 
@@ -1645,7 +1597,7 @@ Poe matriculated at West Point on July 1, but this letter proves that he left Ri
 
 The letter suggests cordial relations between him and Mr. Allan—who had not yet seen the letter to “Bully.”
 
-### Letter 28: Edgar A Poe → John Allan
+### Letter 25: Edgar A Poe → John Allan
 
 ### LETTER NUMBER TWENTY-TWO
 
@@ -1686,7 +1638,7 @@ LETTER NUMBER TWENTY-TWO
 
 ### LETTER NUMBER TWENTY-THREE
 
-### EDGAR ALLAN POE, WEST POINT, NOVEMBER 6, 1830\nTO JOHN ALLAN
+### EDGAR ALLAN POE, WEST POINT, NOVEMBER 6, 1830 TO JOHN ALLAN
 
 ### COMMENT
 
@@ -1694,7 +1646,7 @@ This letter indicates that there had been no communication between Poe and Mr. A
 
 The tone of this letter is cordial and cheerful, though deep disappointment at his foster-father’s coming so near as New York without seeing him suggests the homesickness to which Poe was made liable by his naturally affectionate and domestic disposition—later to find satisfaction in his life with his wife and her mother in their cottage homes at Spring Garden, then in the suburbs of Philadelphia, and Fordham, then in the suburbs of New York. Mr. Allan and his Galt cousins had been in New York on account of his marriage to his second wife.
 
-### Letter 29: Edgar A Poe → John Allan
+### Letter 26: Edgar A Poe → John Allan
 
 ### LETTER NUMBER TWENTY-THREE
 
@@ -1719,15 +1671,13 @@ Yours affectionately
 
 Edgar A Poe
 
-*[Illustration, p. 243]*
+*[Illustration, p. 279]*
 
 Courtesy of the Edgar Allan Poe Shrine
 
 UNITED STATES MILITARY ACADEMY AT WEST POINT
 
 When Poe was a cadet. His third volume of poems published at the age of 22, in New York immediately after he left West Point, was dedicated to "The United States Corps of Cadets"
-
-### Letter 30: E A Poe → John Allan
 
 E A Poe  
 West Point  
@@ -1743,8 +1693,7 @@ Va.
 
 ### LETTER NUMBER TWENTY-FOUR
 
-### <span class="small-caps">EDGAR ALLAN POE, WEST POINT, JANUARY 3, 1831
-TO JOHN ALLAN</span>
+### <span class="small-caps">EDGAR ALLAN POE, WEST POINT, JANUARY 3, 1831 TO JOHN ALLAN</span>
 
 ### COMMENT
 
@@ -1754,7 +1703,7 @@ Now all is different. Edgar has been furnished with a new guardian in the Govern
 
 In addition to the reason given for his wish to leave West Point it is likely that he was disappointed in finding that the life there gave him little leisure for magical dreams—for meditating upon, polishing and revising his published poems, or composing new ones. It will be remembered that in his letter of February 4, 1829 (Number Eight), referring to his experience as a private soldier, he had said: “Having already passed through the practical part, even the higher part of the artillery arm, my cadetship would only be considered as a necessary form which I am positive I could run through in six months.” Scant spare time as the rigid military routine allowed him, however, his third little book bears witness to the quantity and quality of his creative work during the six months of his cadetship.
 
-### Letter 31: E A Poe → John Allan
+### Letter 27: E A Poe → John Allan
 
 ### LETTER NUMBER TWENTY-FOUR
 
@@ -1804,9 +1753,7 @@ LETTER NUMBER TWENTY-FOUR
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-FOUR]
 
-### LETTER NUMBER TWENTY-FIVE
-<span class="small-caps">EDGAR ALLAN POE, NEW YORK, FEBRUARY 21, 1831</span>
-<span class="small-caps">TO JOHN ALLAN</span>
+### LETTER NUMBER TWENTY-FIVE <span class="small-caps">EDGAR ALLAN POE, NEW YORK, FEBRUARY 21, 1831</span> <span class="small-caps">TO JOHN ALLAN</span>
 
 ### COMMENT
 
@@ -1818,7 +1765,7 @@ That Letter Twenty-Five brought no answer may be seen from the note on its rever
 
 Poe’s distress of mind and body are indicated by this badly scrawled and blotted letter. Indeed his hand-writing as seen in the fac-similes is often an index to his emotions. It is never so big and bold as when—after his year’s wait for the appointment to the Military Academy—he informs Sergeant Graves: “I am a cadet.” Nor is his signature ever so proud and flamboyant as in that letter to “Bully.” Something of the same exuberance is seen in the two earliest letters to his foster-father from West Point. But in the long, bitter Number Twenty-Four, answering Mr. Allan’s renunciation of him, his writing shrinks and does not recover confidence again in this correspondence.
 
-### Letter 32: E A Poe → John Allan
+### Letter 28: E A Poe → John Allan
 
 ### LETTER NUMBER TWENTY–FIVE
 
@@ -1859,14 +1806,13 @@ LETTER NUMBER TWENTY-FIVE
 
 ### LETTER NUMBER TWENTY-SIX
 
-### <span class="small-caps">EDGAR ALLAN POE, BALTIMORE, OCTOBER 16, 1831</span>
-<span class="small-caps">TO JOHN ALLAN</span>
+### <span class="small-caps">EDGAR ALLAN POE, BALTIMORE, OCTOBER 16, 1831</span> <span class="small-caps">TO JOHN ALLAN</span>
 
 ### COMMENT
 
 Letter Twenty-Five, (of February 21) shows that Poe left West Point for New York on February 19. That he was there as late as March 10, and desperate for a means of keeping body and soul together, is proved by the following letter to Colonel Thayer, Superintendent of the Military Academy:
 
-### Letter 33
+### Letter 29
 
 > “New York, March 10, 1831.
 
@@ -1888,7 +1834,7 @@ Letter Number Twenty-Six and the letters which follow explode the tradition and 
 
 Reference to Nielson Poe suggests the question, why was it that Poe’s Baltimore relatives, with the exception of his indigent widowed aunt, Mrs. Clemm, seem to have taken so little interest in him? For answer, memory goes back to the letter of violent abuse of him written when he was fifteen years old to his brother Henry, by Mr. Allan.[^fn-p0314-1] Could the unlovely picture of Edgar given in that letter have prejudiced his family against him to such extent that they washed their hands of him at once and forever? Who knows?
 
-### Letter 34: E A Poe → John Allan
+### Letter 30: E A Poe → John Allan
 
 ### LETTER NUMBER TWENTY-SIX
 
@@ -1929,21 +1875,13 @@ LETTER NUMBER TWENTY-SIX
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-SIX]
 
-### LETTER NUMBER TWENTY-SEVEN
-EDGAR ALLAN POE, BALTIMORE, NOVEMBER 18, 1831
-TO JOHN ALLAN
+### LETTER NUMBER TWENTY-SEVEN EDGAR ALLAN POE, BALTIMORE, NOVEMBER 18, 1831 TO JOHN ALLAN
 
-### LETTER NUMBER TWENTY-EIGHT
-MRS. CLEMM, BALTIMORE, DECEMBER 5, 1831
-TO JOHN ALLAN
+### LETTER NUMBER TWENTY-EIGHT MRS. CLEMM, BALTIMORE, DECEMBER 5, 1831 TO JOHN ALLAN
 
-### LETTER NUMBER TWENTY-NINE
-EDGAR ALLAN POE, BALTIMORE, DECEMBER 15, 1831
-TO JOHN ALLAN
+### LETTER NUMBER TWENTY-NINE EDGAR ALLAN POE, BALTIMORE, DECEMBER 15, 1831 TO JOHN ALLAN
 
-### LETTER NUMBER THIRTY
-EDGAR ALLAN POE, BALTIMORE, DECEMBER 29, 1831
-TO JOHN ALLAN
+### LETTER NUMBER THIRTY EDGAR ALLAN POE, BALTIMORE, DECEMBER 29, 1831 TO JOHN ALLAN
 
 The twenty-six letters which have been read and discussed— with the material which it has been possible to combine with them —throw much new light upon Poe’s story, correct many erroneous traditions and clear up some mysteries. The four letters now to be considered offer a new mystery not touched upon in the biographies because the fact of its existence was locked up in this unpublished correspondence with his foster-father. The few persons who have learned of it from the manuscript letters have concluded that Poe’s arrest for a debt “incurred as much on Henry’s [^fn-p0323-1] account” as on his own, two years before, meant that he was in jail, or expecting a jail sentence. Mr. Allan came to the same conclusion (see his use of the word “liberation” in note on reverse of Letter Twenty-Nine), but Dr. J. Hall Pleasants, of Baltimore has recently most kindly, made for the editor, a thorough search of the records of all Baltimore courts which might have contained proceedings against Poe for debt for the years 1831 and 1832, and also the full records of imprisonment for debt and those in regard to insolvent debtors. He has found many such imprisonments—a large percentage of them for amounts of less than ten dollars—but no mention of Poe.
 
@@ -1967,7 +1905,7 @@ There is this to be said. Formerly whenever he received aid from “home” ther
 
 Whatever the answer to the puzzle may be it is only fair to Poe to say that none of the traditions concerning this blank space in his history suggest a life of dissipation.
 
-### Letter 35: E A Poe → John Allan
+### Letter 31: E A Poe → John Allan
 
 ### LETTER NUMBER TWENTY–SEVEN
 
@@ -1996,7 +1934,7 @@ LETTER NUMBER TWENTY-SEVEN
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-SEVEN]
 
-### Letter 36: Mrs. Wm Clemm → John Allan
+### Letter 32: Mrs. Wm Clemm → John Allan
 
 ### LETTER NUMBER TWENTY–EIGHT
 
@@ -2022,7 +1960,7 @@ LETTER NUMBER TWENTY-EIGHT
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-EIGHT]
 
-### Letter 37: E A Poe → John Allan
+### Letter 33: E A Poe → John Allan
 
 ### LETTER NUMBER TWENTY-NINE
 
@@ -2060,7 +1998,7 @@ LETTER NUMBER TWENTY-NINE
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-NINE]
 
-### Letter 38: E A Poe → John Allan
+### Letter 34: E A Poe → John Allan
 
 ### LETTER NUMBER THIRTY
 
@@ -2085,9 +2023,7 @@ LETTER NUMBER THIRTY
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER THIRTY]
 
-### LETTER NUMBER THIRTY-ONE
-EDGAR ALLAN POE, BALTIMORE, APRIL 12, 1833
-TO JOHN ALLAN
+### LETTER NUMBER THIRTY-ONE EDGAR ALLAN POE, BALTIMORE, APRIL 12, 1833 TO JOHN ALLAN
 
 ### COMMENT
 
@@ -2095,7 +2031,7 @@ This brief note without beginning or ending save the signature, “E. A. Poe,”
 
 So long as Poe lived he let pass no opportunity of expressing gratitude to this “friend indeed,” but he also repaid him in the coin with which he unconsciously rewarded others who were kind to him. Mr. Kennedy was not only a gracious gentleman, but was himself an admirable writer. Few persons are familiar with his “Swallow Barn” and his other pleasant works today, but everybody knows how he brought Edgar Poe up “from the verge of despair” and gave him a real start on his literary career. Thus, he was one of the many upon whom Poe bestowed immortality.
 
-### Letter 39: E A Poe → John Allan
+### Letter 35: E A Poe → John Allan
 
 ### LETTER NUMBER THIRTY-ONE
 
@@ -2138,13 +2074,11 @@ LETTER NUMBER THIRTY-ONE
 
 ## Bills for Edgar Allan Poe at Manor House School
 
-### BILLS FOR EDGAR ALLAN POE AT MANOR
-HOUSE SCHOOL
+### BILLS FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
 
 ### REFERRED TO IN THE INTRODUCTION
 
-### BILL FOR EDGAR ALLAN POE AT MANOR
-HOUSE SCHOOL
+### BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
 
 Manor House School  
 Stoke Newington, Xmas. 1818
@@ -2173,8 +2107,7 @@ BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
 
 [Collotype facsimile plate of original manuscript: BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL]
 
-### BILL FOR EDGAR ALLAN POE AT MANOR
-HOUSE SCHOOL
+### BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
 
 **Mast. Allan**
 
@@ -2208,10 +2141,9 @@ P. White
 
 BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
 
-*[Illustration, p. 325]*
+*[Illustration, p. 361]*
 
-### BILL FOR EDGAR ALLAN POE AT MANOR
-HOUSE SCHOOL
+### BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
 
 **Mas Allan at Mʳ Bransbys.**
 
@@ -2243,8 +2175,7 @@ BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
 
 ### THE DREAMER
 
-### A ROMANTIC RENDERING OF THE
-LIFE STORY OF EDGAR ALLAN POE
+### A ROMANTIC RENDERING OF THE LIFE STORY OF EDGAR ALLAN POE
 
 By MARY NEWTON STANARD
 

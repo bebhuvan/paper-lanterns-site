@@ -117,27 +117,27 @@
   {
    "format": "epub",
    "file": "hooker-tour-1848.epub",
-   "bytes": 58295,
-   "sha256": "b299cc781fd211c8987175ba63df291eb16310d03a3e81a3ade106a2e92eb6b9"
+   "bytes": 144621,
+   "sha256": "145dce83f5ae26fd010af7244d8d3eb783dd0ec85dfed3c83c2eeb4b3cbf55bb"
   },
   {
    "format": "markdown",
    "file": "hooker-tour-1848.md",
-   "bytes": 128042,
-   "sha256": "1886a02746cf455af9873dc6d7690459939a48e2a992e47a7e0c8166c3f10664"
+   "bytes": 128049,
+   "sha256": "21c170bae93e3dd1369832b57cbaee0ae73f75cea3709f18636e564181e57b16"
   },
   {
    "format": "tei",
    "file": "hooker-tour-1848.tei.xml",
-   "bytes": 139783,
-   "sha256": "b6efe26b0a7d88c117a6cd5691d61aa9c86fea9be082bf0ce609b73427baaa81"
+   "bytes": 140153,
+   "sha256": "9a9ca9585545f5e8f280ecc1c3346f23445f75ed493c1e568a7a30900cb0edb7"
   }
  ],
  "scan_base": "https://archive.org/download/b30361126/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-v1",
-  "compiled_at": "2026-11-20T16:21:55Z",
-  "source_ast_sha256": "b9c32ada747a8fb0e5c3613bfe9452d8931ffb3f2b5a8458238d9cae707041c1",
+  "compiled_at": "2026-11-22T08:51:01Z",
+  "source_ast_sha256": "ba0bc58a41db81bb2fe728653f5cd2317e57a94403e6f93434f551002b625c47",
   "hugo_renderer_version": "1.0.0"
  }
 }
