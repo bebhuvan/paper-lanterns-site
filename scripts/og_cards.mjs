@@ -13,7 +13,7 @@ import { copyFileSync, existsSync, mkdirSync, mkdtempSync, readdirSync, readFile
 import { tmpdir } from "node:os";
 import { dirname, join, relative, resolve, sep } from "node:path";
 import { fileURLToPath } from "node:url";
-import { cdp, findChrome, launch, serve } from "./chromium.mjs";
+import { cdp, findChrome, launch, serve, stop } from "./chromium.mjs";
 import { availableParallelism } from "node:os";
 import { Worker } from "node:worker_threads";
 
@@ -171,13 +171,8 @@ if (todo.length) {
     await Promise.all(writes);
     c.close();
   } finally {
-    if (browser) {
-      const exited = new Promise((r) => browser.proc.once("exit", r));
-      browser.proc.kill();
-      await exited;
-    }
     server.close();
-    rmSync(profile, { recursive: true, force: true, maxRetries: 5, retryDelay: 200 });
+    await stop(browser, profile);
   }
 }
 

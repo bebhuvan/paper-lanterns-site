@@ -2,7 +2,7 @@
 // Node's built-in http serves the built site and its built-in WebSocket speaks Chromium's DevTools protocol.
 
 import { spawn } from "node:child_process";
-import { existsSync, readFileSync, statSync } from "node:fs";
+import { existsSync, readFileSync, rmSync, statSync } from "node:fs";
 import { createServer } from "node:http";
 import { extname, join, normalize, sep } from "node:path";
 
@@ -39,7 +39,8 @@ export function launch(chrome, profile) {
   const proc = spawn(chrome, [
     "--headless=new", "--no-first-run", "--no-default-browser-check", "--disable-gpu", "--disable-extensions",
     "--remote-debugging-port=0", `--user-data-dir=${profile}`, "about:blank",
-  ], { stdio: ["ignore", "ignore", "pipe"] });
+  // Its own process group, so stop() can end Chromium and every helper process together.
+  ], { stdio: ["ignore", "ignore", "pipe"], detached: true });
   return new Promise((resolve, reject) => {
     let buf = "";
     const timer = setTimeout(() => reject(new Error("Chromium did not start within 20s")), 20000);
@@ -50,6 +51,17 @@ export function launch(chrome, profile) {
     });
     proc.on("exit", (code) => reject(new Error(`Chromium exited early (${code}): ${buf.slice(-400)}`)));
   });
+}
+
+// End Chromium and all its helpers, then delete its profile. Killing only the main process leaves helpers (the
+// network service) writing into the profile, so deleting it raced them and failed with ENOTEMPTY in CI.
+export async function stop(browser, profile) {
+  if (browser && browser.proc.exitCode === null && browser.proc.signalCode === null) {
+    const exited = new Promise((r) => browser.proc.once("exit", r));
+    try { process.kill(-browser.proc.pid, "SIGKILL"); } catch (err) { if (err.code !== "ESRCH") throw err; }
+    await exited;
+  }
+  rmSync(profile, { recursive: true, force: true, maxRetries: 10, retryDelay: 100 });
 }
 
 export function cdp(wsUrl) {

@@ -9,10 +9,10 @@
 //
 // Usage: node scripts/check_mobile.mjs <built-site-dir>    (CHROME=/path/to/chromium to choose the browser)
 
-import { existsSync, mkdtempSync, rmSync } from "node:fs";
+import { existsSync, mkdtempSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
-import { cdp, findChrome, launch, serve } from "./chromium.mjs";
+import { cdp, findChrome, launch, serve, stop } from "./chromium.mjs";
 
 const WIDTHS = [360, 390, 768, 935, 1280];
 const PAGES = [
@@ -116,9 +116,8 @@ try {
   }
   c.close();
 } finally {
-  if (browser) browser.proc.kill();
   server.close();
-  rmSync(profile, { recursive: true, force: true });
+  await stop(browser, profile);
 }
 
 if (problems.length) {
