@@ -388,9 +388,14 @@ how the site is built; say why if you overturn one.
   or more is named and bracketed. The block for the home page's P.S. letter is in the lamp colour, with a leader
   line up to its date and `featured_note` (from `content/_index.md`). Everything comes from each book's
   `year_counts` and `periods`.
-- **Which periods are shaded:** every second one. The canvas shaded only Dostoevsky's prison and exile, but the
-  pipeline's data says nothing about which periods were hardships. Choosing them would mean hand-editing each book,
-  so it waits until the owner asks for it.
+- **Which periods are shaded:** none, by default. Every period name is set in the same grey italic. A book can
+  mark periods in `data/marked_periods.json`, which shades them and darkens their names. For Dostoevsky the marked
+  periods are The Fortress, Prison at Omsk and Semipalatinsk: his arrest, prison and Siberian exile. The flag lives
+  in the site, not the book data, because the book data is copied from the pipeline and verify rejects edits to it.
+  The build fails if a marked name doesn't match one of the book's periods. Shading every second period was tried
+  first and rejected in design review: it suggested a meaning that isn't there.
+- **The silence label:** centred on the gap, with a bracket spanning the gap's full width and no background. When
+  the gap is too narrow for two lines, the label goes on three shorter ones. Band edges step around the label.
 - **Rejected:** HTML blocks with inline positions, as the canvas drew them. The CSP forbids inline styles, so the
   chart stays an SVG and scrolls inside its own box on phones.
 

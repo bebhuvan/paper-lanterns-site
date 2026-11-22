@@ -1,0 +1,7 @@
+{
+  "_note": "Life periods to shade on a book's year chart (D29), keyed by book_id. The pipeline's data does not say which periods were hardships, so this is an editorial choice made here. Each label must match one of the book's periods exactly; the build fails otherwise.",
+  "dostoevsky-family-friends-1914": {
+    "periods": ["The Fortress", "Prison at Omsk", "Semipalatinsk"],
+    "key": "Arrest, prison and Siberian exile"
+  }
+}
