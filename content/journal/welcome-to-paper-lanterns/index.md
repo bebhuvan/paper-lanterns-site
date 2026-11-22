@@ -5,6 +5,10 @@ date: 2026-11-22
 author: Bhuvan
 slug: welcome-to-paper-lanterns
 description: "The backstory of Paper Lanterns—why historical correspondence is so good, how vision-language models digitize whole letter collections, and how you can help."
+cover:
+  alt: "Fine-line ink etching of a wooden writing desk beside a shuttered window, with a hanging pleated paper lantern, twine-tied letters, an inkwell with dip pen, and a sealed envelope bearing a single vermilion wax seal."
+  credit: "Paper Lanterns"
+  licence: "CC BY 4.0"
 ---
 
 Hello, fellow traveler. Welcome to Paper Lanterns.
