@@ -105,14 +105,16 @@ enableRobotsTXT = true
   scanWidth2x = 1200
 
 [params.security]
-  # 'wasm-unsafe-eval' is the one allowance beyond 'self': Pagefind search runs a WebAssembly module (D17).
+  # 'wasm-unsafe-eval' lets Pagefind search run its WebAssembly module (D17). Cloudflare Web Analytics adds its
+  # beacon to every page from static.cloudflareinsights.com and reports to cloudflareinsights.com / same-origin
+  # /cdn-cgi/rum (D33).
   # One owner for the policy: layouts/index.headers writes it into Cloudflare's _headers file and
   # scripts/check_site.py fails the build if the dev-server copy below drifts from it.
-  csp = "default-src 'none'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self'; img-src 'self' https://archive.org https://*.archive.org; font-src 'self'; connect-src 'self'; manifest-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'"
+  csp = "default-src 'none'; script-src 'self' 'wasm-unsafe-eval' https://static.cloudflareinsights.com; style-src 'self'; img-src 'self' https://archive.org https://*.archive.org; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; manifest-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'"
 
 [[server.headers]]
   for = "/**"
   [server.headers.values]
-    Content-Security-Policy = "default-src 'none'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self'; img-src 'self' https://archive.org https://*.archive.org; font-src 'self'; connect-src 'self'; manifest-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'"
+    Content-Security-Policy = "default-src 'none'; script-src 'self' 'wasm-unsafe-eval' https://static.cloudflareinsights.com; style-src 'self'; img-src 'self' https://archive.org https://*.archive.org; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; manifest-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"

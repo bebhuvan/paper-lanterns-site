@@ -490,6 +490,15 @@ how the site is built; say why if you overturn one.
 - **Rejected:** a separate blog tool or subdomain (a second thing to maintain and deploy); comments (a server,
   moderation and personal data); a newsletter signup (the same, plus a third party). The feed covers following.
 
+## D33 — Cloudflare Web Analytics counts visits (2026-11-22)
+
+- **Decision:** allow Cloudflare Web Analytics in `params.security.csp` (and the matching `[server.headers]` copy in
+  `hugo.toml`): `https://static.cloudflareinsights.com` in `script-src` and `https://cloudflareinsights.com` in
+  `connect-src` (in addition to `'self'`, which covers `/cdn-cgi/rum`). Cloudflare injects the beacon on the
+  `paperlanterns.ink` zone, so the templates stay unchanged.
+- **Why:** after launch the strict CSP blocked `beacon.min.js` on every page and no visits were counted. Cloudflare
+  already serves every request, sets no cookies, and adds no new third party.
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should

@@ -6,6 +6,7 @@ import hashlib
 import json
 import sys
 import tempfile
+import tomllib
 import unittest
 from pathlib import Path
 
@@ -346,6 +347,31 @@ class ImportLegacyTests(unittest.TestCase):
             (old / "src" / "content" / "garden" / "p.md").write_text('---\ntitle: "P"\nprivate: true\n---\nx\n', encoding="utf-8")
             names = sorted(p.name for p in import_legacy.plan(old))
             self.assertEqual(names, ["a.md"])
+
+
+class SecurityPolicyTests(unittest.TestCase):
+    """The policy blocked Cloudflare's visitor-count beacon after launch, so no visits were counted (D33)."""
+
+    def directive(self, name: str) -> list[str]:
+        config = tomllib.loads((Path(__file__).resolve().parents[1] / "hugo.toml").read_text(encoding="utf-8"))
+        policy = config["params"]["security"]["csp"]
+        for part in policy.split(";"):
+            words = part.split()
+            if words and words[0] == name:
+                return words[1:]
+        self.fail(f"{name} is missing from params.security.csp")
+
+    def test_the_analytics_beacon_may_load(self) -> None:
+        self.assertIn("https://static.cloudflareinsights.com", self.directive("script-src"))
+
+    def test_the_analytics_beacon_may_report(self) -> None:
+        self.assertIn("https://cloudflareinsights.com", self.directive("connect-src"))
+
+    def test_no_other_script_source_is_allowed(self) -> None:
+        self.assertEqual(
+            self.directive("script-src"),
+            ["'self'", "'wasm-unsafe-eval'", "https://static.cloudflareinsights.com"],
+        )
 
 
 if __name__ == "__main__":
