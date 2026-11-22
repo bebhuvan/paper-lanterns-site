@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
 {{- $posts := .RegularPages.ByDate.Reverse -}}
-{{- $lead := index $posts 0 -}}
+{{- $lead := false }}{{ with $posts }}{{ $lead = index . 0 }}{{ end -}}
 {{- range $posts }}{{ if .Params.featured }}{{ $lead = . }}{{ break }}{{ end }}{{ end -}}
 <main id="main" class="journal-home">
 <section class="wrap page-title j-masthead" aria-labelledby="title">
@@ -27,6 +27,7 @@
 </a>
 </section>
 {{- end }}
+{{- if not $posts }}<p class="wrap j-feed">The first entry is being written.</p>{{ end }}
 {{- $rest := slice }}{{ range $posts }}{{ if ne .RelPermalink $lead.RelPermalink }}{{ $rest = $rest | append . }}{{ end }}{{ end }}
 {{- with $rest }}
 <section class="wrap j-list" aria-labelledby="earlier">
