@@ -595,8 +595,10 @@ html.js .panel.open { display: flex; order: 0; border-top: 0; border-bottom: 1px
 .text .sc { font-variant: small-caps; }
 .text .unclear { text-decoration: underline dotted var(--ink-4); }
 .text sup, .text sub { font-size: 0.68em; line-height: 0; }
-/* Note callouts get a larger tap area than the printed figure. */
-.text .fnref a { color: var(--lamp); display: inline-block; min-width: 24px; min-height: 24px; padding: 0 4px; text-align: center; }
+/* Note callouts get a larger tap area than the printed figure, drawn by an invisible box around it so the figure
+   itself sits right against its word. (An inline-block here inherited the paragraph's first-line indent.) */
+.text .fnref a { position: relative; color: var(--lamp); padding: 0 1px; text-decoration: none; }
+.text .fnref a::after { content: ""; position: absolute; inset: -10px -9px; }
 .blk { margin: 0; border-radius: 1px; }
 html.js .reading:has([data-scan]) .blk { cursor: pointer; }
 @media (hover: hover) { html.js .reading:has([data-scan]) .blk:hover { background: rgba(200, 54, 27, 0.06); } }

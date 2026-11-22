@@ -2,6 +2,7 @@
 //   - the page scrolls sideways (charts may scroll inside their own .chart-box);
 //   - a button, menu toggle or block-level link is shorter than 44px;
 //   - letter text is smaller than 18px;
+//   - a note figure sits more than 6px away from the word it marks;
 //   - the logo or a header link wraps onto two lines.
 // No dependencies: Node's built-in http and WebSocket talk to Chromium's DevTools protocol.
 // Requests to anything but the local server are blocked, so the check needs no network.
@@ -20,6 +21,7 @@ const PAGES = [
   "/collections/",
   "/collections/dostoevsky-family-friends-1914/",
   "/collections/dostoevsky-family-friends-1914/20/",
+  "/collections/sand-flaubert-letters-1922/1/",
   "/collections/tipu-sultan-select-letters-1811/",
   "/collections/fifty-famous-letters-1930/",
   "/collections/vivekananda-letters-1944/1/",
@@ -143,6 +145,16 @@ const PROBE = `(() => {
       return new Set([...range.getClientRects()].map((r) => Math.round(r.top))).size > 1;
     })
     .map((el) => el.textContent.trim());
+  // A note figure must sit against the word before it, not float away from it.
+  out.farNotes = [];
+  for (const sup of document.querySelectorAll(".text sup.fnref")) {
+    const prev = sup.previousSibling, a = sup.querySelector("a");
+    if (!prev || prev.nodeType !== 3 || !prev.textContent.length || /\s$/.test(prev.textContent) || !a || !a.firstChild) continue;
+    const r1 = document.createRange(); r1.setStart(prev, prev.textContent.length - 1); r1.setEnd(prev, prev.textContent.length);
+    const r2 = document.createRange(); r2.selectNodeContents(a);
+    const end = [...r1.getClientRects()].pop(), start = r2.getClientRects()[0];
+    if (end && start && Math.abs(start.top - end.top) < 30 && start.left - end.right > 6) out.farNotes.push(a.textContent + " " + Math.round(start.left - end.right) + "px");
+  }
   const t = document.querySelector(".text");
   if (t) out.text = parseFloat(getComputedStyle(t).fontSize);
   return JSON.stringify(out);
@@ -175,6 +187,7 @@ try {
       else if (r.wide.length) problems.push(`${where}: elements past the screen edge: ${r.wide.slice(0, 4).join("; ")}`);
       if (r.wrapped.length) problems.push(`${where}: header text wraps onto two lines: ${r.wrapped.join(", ")}`);
       if (r.small.length) problems.push(`${where}: touch targets under 44px: ${r.small.slice(0, 6).join("; ")}`);
+      if (r.farNotes.length) problems.push(`${where}: note figures float away from their words: ${r.farNotes.slice(0, 4).join("; ")}`);
       if (r.text !== null && width < 768 && r.text < 18) problems.push(`${where}: letter text is ${r.text}px (minimum 18px)`);
     }
   }
@@ -190,4 +203,4 @@ if (problems.length) {
   console.error(`check_mobile: ${problems.length} problem(s)`);
   process.exit(1);
 }
-console.log(`check_mobile: ${PAGES.length} pages at ${WIDTHS.join(", ")}px: no sideways scroll, no wrapped header, touch targets 44px+, letter text 18px+`);
+console.log(`check_mobile: ${PAGES.length} pages at ${WIDTHS.join(", ")}px: no sideways scroll, no wrapped header, touch targets 44px+, letter text 18px+, note figures against their words`);
