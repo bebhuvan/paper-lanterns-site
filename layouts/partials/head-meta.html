@@ -37,6 +37,8 @@
 <meta name="twitter:image:alt" content="{{ $alt }}">
 <meta name="twitter:title" content="{{ $title }}">
 <meta name="twitter:description" content="{{ $desc }}">
+{{- if eq .Section "journal" }}{{ with site.GetPage "/journal" }}{{ with .OutputFormats.Get "rss" }}
+<link rel="alternate" type="application/rss+xml" title="Paper Lanterns journal" href="{{ .Permalink }}">{{ end }}{{ end }}{{ end }}
 {{- with partial "jsonld.html" . }}
 <script type="application/ld+json">{{ . | jsonify | safeJS }}</script>
 {{- end }}

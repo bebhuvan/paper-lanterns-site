@@ -1,9 +1,21 @@
-{{- /* Quotations in a journal post (D32). A last paragraph that starts with a dash ("— Thoreau, Walking") becomes
-       the quotation's source line. A blockquote marked {.pull} is a pull quote and takes no source line. */ -}}
+{{- /* Quotations in a journal post (D32). A last line that starts with a dash ("— Thoreau, Walking") becomes the
+       quotation's source, whether it is its own paragraph or the last line of the final one. The typographer has
+       already turned "--" and "---" into dashes by now. A quotation with nothing before that line stays as it is
+       (it may be dialogue), and a {.pull} quotation never takes a source. */ -}}
 {{- $text := .Text -}}
 {{- $cite := "" -}}
-{{- with findRESubmatch `(?s)^(.*)<p>(?:—|–|--)\s*(.*?)</p>\s*$` $text 1 }}{{ $text = index (index . 0) 1 }}{{ $cite = index (index . 0) 2 }}{{ end -}}
 {{- $class := .Attributes.class | default "" -}}
+{{- $dash := `(?:—|–|&mdash;|&ndash;)` -}}
+{{- if ne $class "pull" -}}
+{{- with findRESubmatch (printf `(?s)^(.*</p>)\s*<p>%s\s*(.+?)</p>\s*$` $dash) $text 1 -}}
+{{- $text = index (index . 0) 1 }}{{ $cite = index (index . 0) 2 -}}
+{{- else -}}
+{{- with findRESubmatch (printf `(?s)^(.*\S)\s*\n%s\s*([^\n]+?)</p>\s*$` $dash) $text 1 -}}
+{{- $text = printf "%s</p>" (index (index . 0) 1) }}{{ $cite = index (index . 0) 2 -}}
+{{- end -}}
+{{- end -}}
+{{- if not (findRE `(?s)<p>\s*\S` $text 1) }}{{ $text = .Text }}{{ $cite = "" }}{{ end -}}
+{{- end -}}
 <blockquote{{ with $class }} class="{{ . }}"{{ end }}>
 {{ $text | safeHTML }}
 {{- with $cite }}<footer class="j-cite">{{ . | safeHTML }}</footer>{{ end }}

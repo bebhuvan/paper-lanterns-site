@@ -1,0 +1,8 @@
+{{- /* Curly quotes for a title or subtitle typed in front matter, which Hugo's typographer never sees. Only the
+       quote characters change; the result is still plain text, escaped where it is printed. */ -}}
+{{- $s := . -}}
+{{- $s = replaceRE `(^|[\s(\[—–-])"` "$1“" $s -}}
+{{- $s = replace $s `"` "”" -}}
+{{- $s = replaceRE `(^|[\s(\[—–-])'` "$1‘" $s -}}
+{{- $s = replace $s `'` "’" -}}
+{{- return $s -}}

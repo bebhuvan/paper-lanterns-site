@@ -1,23 +1,61 @@
-{{- /* Turns a post's Markdown footnotes into notes beside their line (D32). Goldmark writes every footnote into one
-       list at the end; this moves each note to just after the paragraph that cites it, as an <aside> with the
-       footnote's own id, so the reference still links to it. CSS sets it in the margin on wide screens and
-       under its paragraph on phones. With no footnotes the text is returned untouched. */ -}}
+{{- /* Sets a post's Markdown footnotes beside their paragraph (D32).
+       Goldmark writes every footnote into one list at the very end of the content. Each note cited from a top-level
+       paragraph is moved to just after that paragraph, as a block with the footnote's own id (so the reference
+       still links to it); CSS sets it in the margin on wide screens and under the paragraph on phones. A note cited
+       only from inside a list, quotation, table or heading stays in a short "Notes" list at the end, where the
+       reference also points. A reference to a note that does not exist stops the build. */ -}}
 {{- $html := . -}}
-{{- $block := index (findRE `(?s)<div class="footnotes" role="doc-endnotes">.*?</div>` $html 1) 0 | default "" -}}
-{{- if $block -}}
+{{- $marker := `<div class="footnotes" role="doc-endnotes">` -}}
+{{- if strings.Contains $html $marker -}}
+{{- $pieces := split $html $marker -}}
+{{- $body := index $pieces 0 -}}
+{{- $block := delimit (after 1 $pieces) $marker -}}
+{{- /* Notes, in order: the list ends the content, so split on each item's opening tag. */ -}}
+{{- $order := slice -}}
 {{- $notes := dict -}}
-{{- range findRESubmatch `(?s)<li id="fn:([^"]+)">\s*(.*?)\s*</li>` $block -}}
-{{- $body := replaceRE `(?s)&#160;<a href="#fnref:[^"]+" class="footnote-backref"[^>]*>.*?</a>` "" (index . 2) -}}
-{{- $body = replaceRE `(?s)^<p>(.*)</p>$` "$1" $body -}}
-{{- $notes = merge $notes (dict (index . 1) $body) -}}
+{{- range after 1 (split $block `<li id="fn:`) -}}
+{{- $id := index (split . `"`) 0 -}}
+{{- $note := replaceRE `^[^>]*>\s*` "" . -}}
+{{- $note = replaceRE `(?s)\s*</li>\s*(?:</ol>\s*</div>\s*)?$` "" $note -}}
+{{- $note = replaceRE `(?s)&#160;<a href="#fnref\d*:[^"]+" class="footnote-backref"[^>]*>.*?</a>` "" $note -}}
+{{- $order = $order | append $id -}}
+{{- $notes = merge $notes (dict $id $note) -}}
 {{- end -}}
-{{- $html = replace $html $block "" -}}
+{{- /* Walk the paragraphs. A paragraph is top level when every list, quotation, table, figure and div opened
+       before it has closed again. */ -}}
+{{- $opens := `<(?:blockquote|ul|ol|table|figure|div|details)[\s>]` -}}
+{{- $closes := `</(?:blockquote|ul|ol|table|figure|div|details)>` -}}
+{{- $placed := dict -}}
 {{- $out := "" -}}
-{{- range $part := split $html "</p>" -}}
+{{- $parts := split $body "</p>" -}}
+{{- $last := sub (len $parts) 1 -}}
+{{- range $i, $part := $parts -}}
 {{- $out = printf "%s%s" $out $part -}}
-{{- $refs := findRESubmatch `id="fnref:([^"]+)"` $part -}}
-{{- if $refs }}{{ $out = printf "%s</p>" $out }}{{ range $refs }}{{ $id := index . 1 }}{{ $out = printf "%s<aside class=\"j-note\" id=\"fn:%s\"><span class=\"n\">%s</span> %s</aside>" $out $id $id (index $notes $id) }}{{ end }}{{ else }}{{ $out = printf "%s</p>" $out }}{{ end -}}
+{{- if lt $i $last -}}
+{{- $out = printf "%s</p>" $out -}}
+{{- $depth := sub (len (findRE $opens $out)) (len (findRE $closes $out)) -}}
+{{- if eq $depth 0 -}}
+{{- /* Only references inside this paragraph itself count, not ones in a list or heading just before it. */ -}}
+{{- $para := replaceRE `(?s)^.*<p(?:\s[^>]*)?>` "" $part -}}
+{{- range findRESubmatch `id="fnref\d*:([^"]+)"` $para -}}
+{{- $id := index . 1 -}}
+{{- if not (isset $notes $id) }}{{ errorf "journal: footnote reference [^%s] has no footnote text" $id }}{{ end -}}
+{{- if not (isset $placed $id) -}}
+{{- $text := index $notes $id -}}
+{{- $text = replaceRE `^<p>` (printf `<p><span class="n">%s</span> ` $id) $text -}}
+{{- $out = printf `%s<div class="j-note" role="note" id="fn:%s">%s</div>` $out $id $text -}}
+{{- $placed = merge $placed (dict $id true) -}}
 {{- end -}}
-{{- $html = strings.TrimSuffix "</p>" $out -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- $rest := slice }}{{ range $order }}{{ if not (isset $placed .) }}{{ $rest = $rest | append . }}{{ end }}{{ end -}}
+{{- with $rest -}}
+{{- $out = printf `%s<section class="j-notes" aria-labelledby="notes-h"><h2 id="notes-h">Notes</h2><ol>` $out -}}
+{{- range . }}{{ $out = printf `%s<li id="fn:%s" value="%s">%s</li>` $out . . (index $notes .) }}{{ end -}}
+{{- $out = printf "%s</ol></section>" $out -}}
+{{- end -}}
+{{- $html = $out -}}
 {{- end -}}
 {{- return $html -}}

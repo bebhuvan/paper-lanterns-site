@@ -1021,7 +1021,7 @@ html.js .site-header.is-hidden { transform: translateY(-100%); box-shadow: none;
 .j-mast { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 6px 32px; padding-bottom: 14px; border-bottom: 1px solid var(--ink); }
 .j-mast h1 { font-size: 15px; letter-spacing: 0.16em; text-transform: uppercase; }
 .j-mast p { margin: 0; font-size: 16px; color: var(--ink-2); }
-.j-mast-d { font-style: italic; flex: 1 1 320px; }
+.j-mast-d { font-style: italic; flex: 1 1 320px; text-wrap: balance; }
 .j-mast-n { font-variant-numeric: oldstyle-nums; }
 @media (min-width: 761px) { .j-mast h1, .j-mast p { font-size: 17px; } }
 @media (min-width: 1100px) { .j-mast { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; column-gap: 40px; } .j-mast-d { text-align: center; } }
@@ -1038,7 +1038,6 @@ html.js .site-header.is-hidden { transform: translateY(-100%); box-shadow: none;
 .j-open { margin-top: 36px; max-width: 1040px; font-size: 19px; line-height: 1.62; color: var(--ink-body); font-variant-numeric: oldstyle-nums proportional-nums; }
 .j-open p { margin: 0 0 0.9em; }
 .j-open p:first-child::first-line { font-variant: small-caps; letter-spacing: 0.05em; }
-.j-open a { pointer-events: none; }
 .j-go { display: inline-flex; align-items: center; min-height: 44px; margin-top: 4px; font-size: 19px; font-style: italic; border-bottom: 1px solid var(--ink); }
 @media (hover: hover) { .j-go:hover { color: var(--lamp); border-color: var(--lamp); } }
 @media (min-width: 901px) {
@@ -1102,7 +1101,13 @@ html.js .site-header.is-hidden { transform: translateY(-100%); box-shadow: none;
 .j-body h2 { counter-increment: section; margin: 2.2em 0 0.75em; font-size: 1.4em; line-height: 1.15; letter-spacing: -0.015em; color: var(--ink); text-wrap: balance; }
 .j-body h2::before { content: counter(section, lower-roman); display: block; margin-bottom: 0.3em; font-size: 1.1em; font-style: italic; font-weight: 300; line-height: 1; color: var(--lamp); }
 .j-body > h2:first-child { margin-top: 0.4em; }
-.j-body h3 { margin: 1.8em 0 0.6em; font-size: 0.8em; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-2); }
+.j-body h3 { margin: 1.8em 0 0.5em; font-size: 1.1em; font-style: italic; line-height: 1.25; color: var(--ink); }
+.j-body h4 { margin: 1.6em 0 0.4em; font-size: 0.8em; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-2); }
+.j-body pre { margin: 1.4em 0 1.8em; padding: 16px 18px; overflow-x: auto; background: var(--wash); font-family: var(--mono); font-size: 14px; line-height: 1.6; }
+.j-body code { font-family: var(--mono); font-size: 0.82em; }
+.j-body pre code { font-size: inherit; }
+.j-body table { width: 100%; margin: 1.4em 0 1.8em; border-collapse: collapse; font-size: 0.85em; display: block; overflow-x: auto; }
+.j-body th, .j-body td { padding: 8px 12px 8px 0; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
 .j-body blockquote { margin: 1.4em 0 1.8em; padding-left: 1.1em; border-left: 1px solid var(--lamp); font-style: italic; color: var(--ink-2); }
 .j-body blockquote p:last-child { margin-bottom: 0; }
 .j-body blockquote em, .j-body blockquote i { font-style: normal; }
@@ -1116,6 +1121,13 @@ html.js .site-header.is-hidden { transform: translateY(-100%); box-shadow: none;
 .j-body hr { border: 0; margin: 2.2em 0; height: auto; text-align: center; }
 .j-body hr::after { content: "· · ·"; letter-spacing: 0.6em; color: var(--ink-3); }
 .j-body sup a { text-decoration: none; color: var(--lamp); padding: 0 0.12em; font-variant-numeric: lining-nums; }
+.j-note p { margin: 0 0 0.5em; }
+.j-note p:last-child { margin-bottom: 0; }
+.j-notes { margin-top: 2.4em; padding-top: 1em; border-top: 1px solid var(--rule); font-size: 16px; line-height: 1.55; color: var(--ink-2); }
+.j-body .j-notes h2 { counter-increment: none; margin: 0 0 0.8em; font-size: 14px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-3); }
+.j-body .j-notes h2::before { content: none; }
+.j-notes ol { padding-left: 1.4em; }
+.j-notes li::marker { color: var(--lamp); }
 .j-note { margin: -0.4em 0 1.4em; padding: 8px 0 8px 14px; border-left: 1px solid var(--lamp); font-size: 15px; line-height: 1.5; color: var(--ink-3); font-variant-numeric: oldstyle-nums; }
 .j-note .n { color: var(--lamp); font-variant-numeric: lining-nums; margin-right: 0.3em; }
 .j-note:target { color: var(--ink); }

@@ -13,6 +13,14 @@ enableRobotsTXT = true
   # Templates escape every run of letter text; nothing needs raw HTML (D6).
   unsafe = false
 
+[markup.goldmark.parser]
+  # A picture on its own line is a <figure> (journal render hook), which may not sit inside a <p> (D32).
+  wrapStandAloneImageWithinParagraph = false
+
+[markup.highlight]
+  # Code blocks get classes, not inline style= attributes, which the CSP forbids (D32).
+  noClasses = false
+
 [markup.goldmark.parser.attribute]
   # Lets imported essays mark verse paragraphs with {.poem} (D15).
   block = true

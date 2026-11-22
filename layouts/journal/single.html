@@ -5,6 +5,7 @@
 {{- $idx := 0 -}}{{- range $i, $s := $posts }}{{ if eq $s.RelPermalink $p.RelPermalink }}{{ $idx = $i }}{{ end }}{{ end -}}
 {{- $prev := false -}}{{- if gt $idx 0 }}{{ $prev = index $posts (sub $idx 1) }}{{ end -}}
 {{- $next := false -}}{{- if lt $idx (sub (len $posts) 1) }}{{ $next = index $posts (add $idx 1) }}{{ end -}}
+{{- if not .Params.slug }}{{ errorf "%s: a journal post needs slug: in front matter, so its address never changes when the title does" .File.Path }}{{ end -}}
 {{- $cover := .Resources.GetMatch "cover.*" -}}
 {{- $num := partial "journal/number.html" . -}}
 <main id="main" class="journal-post">
@@ -12,15 +13,15 @@
 <span hidden data-pagefind-filter="kind">Journal</span>
 <header class="j-head wrap">
 <p class="j-rule" data-pagefind-ignore><a href="{{ .CurrentSection.RelPermalink }}">The Journal · No. {{ $num }}</a><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></p>
-<h1 class="j-title">{{ .Title }}</h1>
+<h1 class="j-title">{{ partial "journal/curly.html" .Title }}</h1>
 <div class="j-standfirst">
-{{- with (.Params.subtitle | default .Description) }}<p class="j-dek">{{ . }}</p>{{ end }}
+{{- with (.Params.subtitle | default .Description) }}<p class="j-dek">{{ partial "journal/curly.html" . }}</p>{{ end }}
 <p class="j-by" data-pagefind-ignore>{{ with .Params.author }}By <span>{{ . }}</span><br>{{ end }}{{ partial "journal/minutes.html" .ReadingTime }}</p>
 </div>
 </header>
 {{- if $cover }}
 <figure class="j-cover wrap">{{ partial "journal/cover.html" (dict "page" . "sizes" "(min-width: 1340px) 1240px, 100vw" "eager" true) }}
-<figcaption>{{ with .Params.cover.caption }}{{ . | markdownify }} {{ end }}<span class="credit">{{ .Params.cover.credit | markdownify }} · {{ with .Params.cover.source_url }}<a href="{{ . }}">{{ $p.Params.cover.licence }}</a>{{ else }}{{ $p.Params.cover.licence }}{{ end }}</span></figcaption>
+<figcaption>{{ with .Params.cover.caption }}{{ partial "journal/curly.html" . }} {{ end }}<span class="credit">{{ .Params.cover.credit | markdownify }} · {{ with .Params.cover.source_url }}<a href="{{ . }}">{{ $p.Params.cover.licence }}</a>{{ else }}{{ $p.Params.cover.licence }}{{ end }}</span></figcaption>
 </figure>
 {{- end }}
 <div class="j-body wrap">
@@ -32,8 +33,8 @@
 </div>
 </article>
 <nav class="j-more wrap" aria-label="More from the journal">
-{{- with $prev }}<a href="{{ .RelPermalink }}"><span class="k">Earlier · No. {{ partial "journal/number.html" . }}</span><span class="t">{{ .Title }}</span>{{ with (.Params.subtitle | default .Description) }}<span class="s">{{ . }}</span>{{ end }}</a>{{ end }}
-{{- with $next }}<a class="r" href="{{ .RelPermalink }}"><span class="k">Later · No. {{ partial "journal/number.html" . }}</span><span class="t">{{ .Title }}</span>{{ with (.Params.subtitle | default .Description) }}<span class="s">{{ . }}</span>{{ end }}</a>
+{{- with $prev }}<a href="{{ .RelPermalink }}"><span class="k">Earlier · No. {{ partial "journal/number.html" . }}</span><span class="t">{{ partial "journal/curly.html" .Title }}</span>{{ with (.Params.subtitle | default .Description) }}<span class="s">{{ partial "journal/curly.html" . }}</span>{{ end }}</a>{{ end }}
+{{- with $next }}<a class="r" href="{{ .RelPermalink }}"><span class="k">Later · No. {{ partial "journal/number.html" . }}</span><span class="t">{{ partial "journal/curly.html" .Title }}</span>{{ with (.Params.subtitle | default .Description) }}<span class="s">{{ partial "journal/curly.html" . }}</span>{{ end }}</a>
 {{- else }}<a class="r" href="{{ $p.CurrentSection.RelPermalink }}"><span class="k">The whole journal</span><span class="t">{{ $l := len $posts }}{{ cond (eq $l 1) "One entry" (printf "%d entries" $l) }}</span><span class="s">and a feed for new ones</span></a>{{ end }}
 </nav>
 </main>

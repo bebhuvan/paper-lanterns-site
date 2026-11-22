@@ -1,5 +1,5 @@
 {{- /* Reading time in words ("Fourteen minutes"), the way the rest of the journal's front matter reads. */ -}}
-{{- $n := int . -}}
+{{- $n := math.Max 1 (int .) | int -}}
 {{- $words := slice "" "One" "Two" "Three" "Four" "Five" "Six" "Seven" "Eight" "Nine" "Ten" "Eleven" "Twelve" "Thirteen" "Fourteen" "Fifteen" "Sixteen" "Seventeen" "Eighteen" "Nineteen" "Twenty" -}}
 {{- $tens := dict "2" "Twenty" "3" "Thirty" "4" "Forty" "5" "Fifty" -}}
 {{- $w := printf "%d" $n -}}

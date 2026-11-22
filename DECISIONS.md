@@ -454,7 +454,8 @@ how the site is built; say why if you overturn one.
 
 - **What:** a new section at `/journal/`, in the header between Explore and About, with its own feed at
   `/journal/rss.xml` (every post in full). The first post, the owner's introduction, is still being written; the
-  journal stays out of the header and off the live site until it exists.
+  journal stays out of the header until it exists; `/journal/` itself is built and says the first entry is being
+  written.
 - **Name:** "Journal" rather than "Blog": the site reads like a press, and a press keeps a journal. The existing
   Garden (short links and quotations from the old site) stays where it is, at its old addresses; it can fold into
   the journal later if the owner wants one place.
@@ -478,6 +479,12 @@ how the site is built; say why if you overturn one.
   blocks other sites anyway) and need alt text. Hugo resizes them to WebP at build time and never enlarges them.
 - **Share card:** each post gets one (D31's machinery, a fourth kind): "From the journal", the title large, the
   subtitle, author and date.
+- **Markdown from elsewhere:** posts are expected to be pasted from a chat tool, so the journal's render hooks are
+  strict where a mistake would be silent: a `#` heading, a footnote reference with no note and a post with no
+  `slug` stop the build with a plain message. Code blocks use CSS classes (Hugo's inline colours break the CSP),
+  and a picture on its own line is a figure, not wrapped in a paragraph. `check_site.py` now also fails a feed
+  that is escaped twice or uses relative addresses, and any page where a template printed a Go error such as
+  `%!s(<nil>)`.
 - **No licence claimed** on journal posts: they are the owner's own writing, unlike the public-domain letters,
   so the footer's CC BY line for transcriptions does not cover them and the JSON-LD names no licence.
 - **Rejected:** a separate blog tool or subdomain (a second thing to maintain and deploy); comments (a server,

@@ -13,14 +13,21 @@
 </div>
 {{- with $lead }}
 {{- $cover := .Resources.GetMatch "cover.*" }}
-{{- $opening := findRE `(?s)<p>.*?</p>` (replaceRE `(?s)<sup[^>]*>.*?</sup>` "" .Content) 2 }}
+{{- /* The opening: the first two paragraphs of the essay itself. Notes, quotations, lists, tables, pictures and
+       code are left out, footnote marks dropped, and links reduced to their words (this is a preview, not the text). */ -}}
+{{- $text := .Content -}}
+{{- $text = index (split $text `<div class="footnotes"`) 0 -}}
+{{- range slice "blockquote" "ul" "ol" "table" "figure" "div" "pre" }}{{ $text = replaceRE (printf `(?s)<%s[\s>].*?</%s>` . .) "" $text }}{{ end -}}
+{{- $text = replaceRE `(?s)<sup[^>]*>.*?</sup>` "" $text -}}
+{{- $text = replaceRE `</?a[^>]*>` "" $text -}}
+{{- $opening := findRE `(?s)<p>.*?</p>` $text 2 }}
 <article class="j-lead">
 {{ partial "journal/lamp.html" (dict "lit" (eq .RelPermalink (index $posts 0).RelPermalink) "h" 52) }}
 <p class="j-num" aria-hidden="true">{{ partial "journal/number.html" . }}</p>
 <div>
 <p class="j-when"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time> · {{ partial "journal/minutes.html" .ReadingTime }}</p>
-<h2 class="j-lead-t"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-{{- with (.Params.subtitle | default .Description) }}<p class="j-dek">{{ . }}</p>{{ end }}
+<h2 class="j-lead-t"><a href="{{ .RelPermalink }}">{{ partial "journal/curly.html" .Title }}</a></h2>
+{{- with (.Params.subtitle | default .Description) }}<p class="j-dek">{{ partial "journal/curly.html" . }}</p>{{ end }}
 {{- if $cover }}<a class="j-lead-cover" href="{{ .RelPermalink }}" tabindex="-1">{{ partial "journal/cover.html" (dict "page" . "sizes" "(min-width: 901px) 960px, 100vw" "eager" true) }}</a>{{ end }}
 {{- with $opening }}<div class="j-open">{{ range . }}{{ . | safeHTML }}{{ end }}</div>{{ end }}
 <a class="j-go" href="{{ .RelPermalink }}">Continue reading<span class="visually-hidden"> {{ .Title }}</span></a>
@@ -33,9 +40,9 @@
 <h2 id="earlier" class="j-label">Earlier entries</h2>
 <ol>
 {{- range . }}
-<li>{{ partial "journal/lamp.html" (dict "lit" false "h" 34) }}<a href="{{ .RelPermalink }}">
+<li>{{ partial "journal/lamp.html" (dict "lit" (eq .RelPermalink (index $posts 0).RelPermalink) "h" 34) }}<a href="{{ .RelPermalink }}">
 <span class="j-num" aria-hidden="true">{{ partial "journal/number.html" . }}</span>
-<span class="j-entry"><span class="j-line"><span class="t">{{ .Title }}</span><span class="leader" aria-hidden="true"></span></span>{{ with (.Params.subtitle | default .Description) }}<span class="d">{{ . }}</span>{{ end }}</span>
+<span class="j-entry"><span class="j-line"><span class="t">{{ partial "journal/curly.html" .Title }}</span><span class="leader" aria-hidden="true"></span></span>{{ with (.Params.subtitle | default .Description) }}<span class="d">{{ partial "journal/curly.html" . }}</span>{{ end }}</span>
 <span class="j-when"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time><br>{{ partial "journal/minutes.html" .ReadingTime }}</span>
 </a></li>
 {{- end }}

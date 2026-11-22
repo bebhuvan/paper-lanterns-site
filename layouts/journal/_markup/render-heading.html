@@ -1,0 +1,7 @@
+{{- /* Headings in a journal post (D32). The post's title is its only top-level heading, so a "# Heading" in the text
+       stops the build with a message saying what to write instead. Sections are numbered by the page itself, so a
+       number typed at the start of a "## " heading ("I. ", "2. ", "Part 3: ") is left out rather than shown twice. */ -}}
+{{- if eq .Level 1 }}{{ errorf "%s: the heading %q uses a single #; the title comes from front matter, so start sections with ## (and sub-sections with ###)" .Page.File.Path .PlainText }}{{ end -}}
+{{- $text := .Text -}}
+{{- if eq .Level 2 }}{{ $text = replaceRE `^(?:(?:Part|Section)\s+)?(?:[IVXLC]+|[0-9]+)[.:)]\s+` "" $text }}{{ end -}}
+<h{{ .Level }} id="{{ .Anchor }}">{{ $text | safeHTML }}</h{{ .Level }}>

@@ -94,13 +94,13 @@ subtitle: "An optional line under it"
 date: 2026-11-22
 author: Bhuvan
 slug: the-title
-description: "One sentence. It is the summary in link previews, and the plate on the journal page when there is no cover."
+description: "One sentence. It is the summary in link previews, and the line under the title when there is no subtitle."
 ---
 ```
 
-Then write in Markdown. `## Heading` opens a numbered section; `> quote` is a quotation, and a last line in it
+Then write in Markdown. Leave out a `# Title` line (the title comes from the front matter above; a single `#` stops the build). `## Heading` opens a numbered section (a number you type, like `I.` or `2.`, is dropped, since the page numbers sections itself) and `### Heading` a smaller one; `> quote` is a quotation, and a last line in it
 starting with `— ` (`— Thoreau, *Walking*, 1862`) becomes its source; a quotation followed by a line `{.pull}` is
-a pull quote; `[^1]` makes a note, shown in the margin beside its paragraph; `![alt text](picture.jpg "Caption")` places a picture saved in
+a pull quote; `[^1]` makes a note, shown in the margin beside its paragraph (a note cited from a list, quotation or heading goes in a Notes list at the end instead); `![alt text](picture.jpg "Caption")` places a picture saved in
 the same folder. For a cover, save `cover.jpg` in the folder and add `cover:` with `alt`, `credit`, `licence`, and
 optionally `caption` and `source_url`; the build stops if any of the first three is missing. `featured: true` puts a
 post at the top of the journal page instead of the newest one. Add the new address with
