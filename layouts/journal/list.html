@@ -1,0 +1,44 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+{{- $posts := .RegularPages.ByDate.Reverse -}}
+{{- $lead := index $posts 0 -}}
+{{- range $posts }}{{ if .Params.featured }}{{ $lead = . }}{{ break }}{{ end }}{{ end -}}
+<main id="main" class="journal-home">
+<section class="wrap page-title j-masthead" aria-labelledby="title">
+<h1 id="title">{{ .Title }}</h1>
+<p>{{ .Params.intro }}</p>
+</section>
+{{- with $lead }}
+{{- $cover := .Resources.GetMatch "cover.*" }}
+<section class="wrap" aria-label="Latest">
+<a class="j-lead{{ if not $cover }} no-cover{{ end }}" href="{{ .RelPermalink }}">
+<div class="plate">
+{{- if $cover }}{{ partial "journal/cover.html" (dict "page" . "sizes" "(min-width: 901px) 640px, 100vw" "eager" true) }}
+{{- else }}<p class="opening">“{{ .Description | markdownify }}”</p><span class="mark" aria-hidden="true">{{ partial "logo.html" (dict "w" 44 "sw" 1) }}</span>{{ end }}
+</div>
+<div class="words">
+<p class="k"><span class="dot" aria-hidden="true"></span>Latest</p>
+<h2 class="t">{{ .Title }}</h2>
+{{- with .Params.subtitle }}<p class="s">{{ . }}</p>{{ end }}
+{{- if $cover }}{{ with .Description }}<p class="d">{{ . }}</p>{{ end }}{{ end }}
+<p class="m">{{ with .Params.author }}By {{ . }} · {{ end }}{{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} min read</p>
+<span class="go">Read the essay <span aria-hidden="true">→</span></span>
+</div>
+</a>
+</section>
+{{- end }}
+{{- $rest := slice }}{{ range $posts }}{{ if ne .RelPermalink $lead.RelPermalink }}{{ $rest = $rest | append . }}{{ end }}{{ end }}
+{{- with $rest }}
+<section class="wrap j-list" aria-labelledby="earlier">
+<h2 id="earlier" class="j-list-h">Earlier</h2>
+<ol class="rows">
+{{- range . }}
+<li><a href="{{ .RelPermalink }}"><span class="n"><span class="num">{{ .Date.Format "2 Jan 2006" }}</span><span class="d">{{ .ReadingTime }} min read</span></span><span class="txt"><span class="inc">{{ .Title }}</span>{{ with .Params.subtitle }}<span class="to">{{ . }}</span>{{ end }}{{ with .Description }}<span class="ex">{{ . }}</span>{{ end }}</span></a></li>
+{{- end }}
+</ol>
+</section>
+{{- end }}
+<p class="wrap j-feed">New posts arrive in the <a href="{{ with .OutputFormats.Get "rss" }}{{ .RelPermalink }}{{ end }}">journal’s feed</a>.</p>
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

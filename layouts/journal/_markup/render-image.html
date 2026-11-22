@@ -1,0 +1,9 @@
+{{- /* Pictures inside a journal post: the file sits beside the post, is resized at build time and carries its
+       caption (the Markdown title). Pictures from other sites are refused: the CSP would block them anyway (D32). */ -}}
+{{- $img := .Page.Resources.Get .Destination -}}
+{{- if not $img }}{{ errorf "%s: picture %q must be a file beside the post" .Page.File.Path .Destination }}{{ end -}}
+{{- if not .Text }}{{ errorf "%s: picture %q needs alt text" .Page.File.Path .Destination }}{{ end -}}
+{{- /* Never enlarged: a picture smaller than the large size is used at its own width. */ -}}
+{{- $small := $img.Resize (printf "%dx webp q82" (int (math.Min 720 $img.Width))) -}}
+{{- $large := $img.Resize (printf "%dx webp q80" (int (math.Min 1440 $img.Width))) -}}
+<figure class="j-figure"><img src="{{ $large.RelPermalink }}" srcset="{{ $small.RelPermalink }} {{ $small.Width }}w, {{ $large.RelPermalink }} {{ $large.Width }}w" sizes="(min-width: 761px) 720px, 100vw" width="{{ $large.Width }}" height="{{ $large.Height }}" alt="{{ .PlainText }}" loading="lazy" decoding="async">{{ with .Title }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}</figure>

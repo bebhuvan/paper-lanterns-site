@@ -1,0 +1,42 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+{{- $posts := .CurrentSection.RegularPages.ByDate -}}
+{{- $p := . -}}
+{{- $idx := 0 -}}{{- range $i, $s := $posts }}{{ if eq $s.RelPermalink $p.RelPermalink }}{{ $idx = $i }}{{ end }}{{ end -}}
+{{- $prev := false -}}{{- if gt $idx 0 }}{{ $prev = index $posts (sub $idx 1) }}{{ end -}}
+{{- $next := false -}}{{- if lt $idx (sub (len $posts) 1) }}{{ $next = index $posts (add $idx 1) }}{{ end -}}
+{{- $cover := .Resources.GetMatch "cover.*" -}}
+<main id="main" class="journal-post">
+<article data-pagefind-body>
+<span hidden data-pagefind-filter="kind">Journal</span>
+<header class="j-head wrap">
+<p class="j-kicker" data-pagefind-ignore><a href="{{ .CurrentSection.RelPermalink }}">Journal</a></p>
+<h1 class="j-title">{{ .Title }}</h1>
+{{- with .Params.subtitle }}<p class="j-sub">{{ . }}</p>{{ end }}
+{{ partial "journal/byline.html" . }}
+</header>
+{{- if $cover }}
+<figure class="j-cover">{{ partial "journal/cover.html" (dict "page" . "sizes" "(min-width: 1200px) 1120px, 100vw" "eager" true) }}
+<figcaption>{{ with .Params.cover.caption }}{{ . | markdownify }} {{ end }}<span class="credit">{{ .Params.cover.credit | markdownify }} · {{ with .Params.cover.source_url }}<a href="{{ . }}">{{ $p.Params.cover.licence }}</a>{{ else }}{{ $p.Params.cover.licence }}{{ end }}</span></figcaption>
+</figure>
+{{- else }}
+<div class="j-orn" aria-hidden="true">{{ partial "logo.html" (dict "w" 48 "sw" 1) }}</div>
+{{- end }}
+<div class="j-body">
+{{ .Content }}
+</div>
+<footer class="j-end">
+<span class="j-fin" aria-hidden="true"></span>
+{{- with .Params.author }}<p class="j-sign">{{ . }}</p>{{ end }}
+<p class="j-filed" data-pagefind-ignore>Written for the <a href="{{ $p.CurrentSection.RelPermalink }}">Paper Lanterns journal</a> on {{ .Date.Format "2 January 2006" }}. Follow new posts with the <a href="{{ with $p.CurrentSection.OutputFormats.Get "rss" }}{{ .RelPermalink }}{{ end }}">feed</a>.</p>
+</footer>
+</article>
+{{- if or $prev $next }}
+<nav class="j-more wrap" aria-label="More from the journal">
+{{- with $next }}<a href="{{ .RelPermalink }}"><span class="k">Newer</span><span class="t">{{ .Title }}</span>{{ with .Params.subtitle }}<span class="s">{{ . }}</span>{{ end }}</a>{{ end }}
+{{- with $prev }}<a href="{{ .RelPermalink }}"><span class="k">Earlier</span><span class="t">{{ .Title }}</span>{{ with .Params.subtitle }}<span class="s">{{ . }}</span>{{ end }}</a>{{ end }}
+</nav>
+{{- end }}
+</main>
+{{ partial "footer.html" . }}
+{{ end }}

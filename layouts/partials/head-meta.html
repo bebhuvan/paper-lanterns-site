@@ -7,7 +7,7 @@
 {{- $desc = printf "%s. %s. %d letters, each set beside its printed page, free to read and download." .Title .Params.subtitle (int .Params.counts.letters) -}}
 {{- end -}}
 {{- $desc = $desc | default site.Params.description -}}
-{{- /* Share card (D31): the home page, each book and each letter have their own; every other page uses the home card. */ -}}
+{{- /* Share card (D31, D32): the home page, each book, each letter and each journal post have their own; every other page uses the home card. */ -}}
 {{- $card := site.Home -}}
 {{- if .OutputFormats.Get "ogcard" }}{{ $card = . }}{{ end -}}
 {{- $image := printf "%s%s" $card.Permalink (partial "og/file.html" $card) -}}
@@ -16,6 +16,8 @@
 {{- $alt = printf "“%s”" $card.Title -}}{{ with $card.Params.page_title }}{{ $alt = printf "%s: %s" . $alt }}{{ end -}}
 {{- else if eq $card.Params.layout "book" -}}
 {{- $alt = printf "%s, %s letters, on Paper Lanterns" $card.Title (lang.FormatNumber 0 (int $card.Params.counts.letters)) -}}
+{{- else if eq $card.Type "journal" -}}
+{{- $alt = $card.Title }}{{ with $card.Params.subtitle }}{{ $alt = printf "%s: %s" $alt . }}{{ end }}{{ $alt = printf "%s, from the Paper Lanterns journal" $alt -}}
 {{- end }}
 <title>{{ $full }}</title>
 <meta name="description" content="{{ $desc }}">
@@ -24,7 +26,7 @@
 <meta property="og:title" content="{{ $title }}">
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:type" content="{{ cond (or (eq .Params.layout "letter") (and .IsPage (in (slice "curated" "garden") .Type))) "article" (cond (eq .Params.layout "book") "book" "website") }}">
+<meta property="og:type" content="{{ cond (or (eq .Params.layout "letter") (and .IsPage (in (slice "curated" "garden" "journal") .Type))) "article" (cond (eq .Params.layout "book") "book" "website") }}">
 <meta property="og:locale" content="en">
 <meta property="og:image" content="{{ $image }}">
 <meta property="og:image:width" content="1200">

@@ -1,0 +1,7 @@
+{{ partial "og/head.html" (dict "page" . "kind" "journal") }}
+<div class="head"><span class="dot"></span>From the journal</div>
+<p class="title" data-fit="title">{{ .Title }}</p>
+{{- with .Params.subtitle }}<p class="sub">{{ . }}</p>{{ end }}
+<div class="foot" data-fit="foot">{{ partial "og/brand.html" . }}<span class="meta">{{ with .Params.author }}By {{ . }} · {{ end }}{{ .Date.Format "2 January 2006" }}</span></div>
+</body>
+</html>

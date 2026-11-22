@@ -65,3 +65,12 @@ body.og {
 .og-letter .who.s1 { font-size: 26px; }
 .og-letter .who.s1 .d { font-size: 24px; }
 .og-letter > .foot { border-top: 1px solid var(--rule); padding-top: 22px; bottom: 48px; }
+
+/* Journal post (D32): the title is the picture, set large and upright like the post's own heading. */
+.og-journal .head { position: absolute; left: 80px; top: 64px; display: flex; align-items: center; gap: 14px; font-size: 26px; color: var(--ink-3); }
+.og-journal .title { position: absolute; left: 80px; right: 80px; top: 140px; margin: 0; font-size: 104px; line-height: 1; letter-spacing: -0.035em; text-wrap: balance; color: var(--ink); }
+.og-journal .title.s1 { font-size: 90px; }
+.og-journal .title.s2 { font-size: 78px; }
+.og-journal .title.s3 { font-size: 66px; }
+.og-journal .sub { position: absolute; left: 80px; right: 80px; bottom: 150px; margin: 0; font-size: 38px; line-height: 1.25; font-style: italic; color: var(--ink-2); }
+.og-journal > .foot { border-top: 1px solid var(--rule); padding-top: 22px; bottom: 48px; }

@@ -1,0 +1,2 @@
+{{- /* Author, date and reading time for a journal post. */ -}}
+<p class="j-byline"><span class="dot" aria-hidden="true"></span>{{ with .Params.author }}<span>By {{ . }}</span>{{ end }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time><span>{{ .ReadingTime }} min read</span></p>

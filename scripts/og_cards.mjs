@@ -74,6 +74,9 @@ const FIT = `(async () => {
     if (!fit(words, () => box(words).bottom <= box(who).top - 24)) problems.push("the first words run into the names");
     if (!fit(who, () => box(who).bottom <= box(foot).top - 12, 2)) problems.push("the names and date run into the footer");
     if (head.scrollWidth > head.clientWidth + 1) problems.push("the heading is cut off");
+  } else if (kind === "journal") {
+    const t = q(".title"), below = q(".sub") || q(".foot");
+    if (!fit(t, () => lines(t) <= 3 && box(t).bottom <= box(below).top - 28)) problems.push("the title runs into the subtitle");
   } else if (kind === "home") {
     if (box(q(".line")).bottom > box(q(".foot")).top - 20) problems.push("the description runs into the footer");
   } else {

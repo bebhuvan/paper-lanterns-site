@@ -33,6 +33,7 @@ const PAGES = [
   "/explore/1840s/",
   "/people/",
   "/people/fyodor-dostoevsky/",
+  "/journal/",
 ];
 
 const root = process.argv[2];

@@ -1,0 +1,12 @@
+{{- /* A post's cover picture (D32): cover.jpg/png/webp beside the post, with alt text, credit and licence in front
+       matter. Without them the build stops, so no picture is ever published without saying whose it is.
+       Args: page, sizes (the CSS sizes attribute), eager (load at once, for the picture at the top of a page). */ -}}
+{{- $p := .page -}}
+{{- with $p.Resources.GetMatch "cover.*" -}}
+{{- $c := $p.Params.cover | default dict -}}
+{{- if not (and $c.alt $c.credit $c.licence) }}{{ errorf "%s: a cover picture needs cover.alt, cover.credit and cover.licence in front matter" $p.File.Path }}{{ end -}}
+{{- /* Never enlarged: a scan smaller than the large size is used at its own width. */ -}}
+{{- $small := .Resize (printf "%dx webp q82" (int (math.Min 800 .Width))) -}}
+{{- $large := .Resize (printf "%dx webp q80" (int (math.Min 1600 .Width))) -}}
+<img src="{{ $large.RelPermalink }}" srcset="{{ $small.RelPermalink }} {{ $small.Width }}w, {{ $large.RelPermalink }} {{ $large.Width }}w" sizes="{{ $.sizes }}" width="{{ $large.Width }}" height="{{ $large.Height }}" alt="{{ $c.alt }}"{{ if not $.eager }} loading="lazy"{{ end }} decoding="async">
+{{- end -}}

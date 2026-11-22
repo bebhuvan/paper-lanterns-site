@@ -10,6 +10,11 @@
 {{- with .Params.letter_date.iso }}{{ $out = merge $out (dict "dateCreated" .) }}{{ end -}}
 {{- with .Params.place }}{{ $out = merge $out (dict "locationCreated" (dict "@type" "Place" "name" .)) }}{{ end -}}
 {{- $out = merge $out (dict "isPartOf" (partial "jsonld-book.html" .Parent)) -}}
+{{- else if and .IsPage (eq .Type "journal") -}}
+{{- /* No licence is claimed: the journal is the owner's own writing (D32). */ -}}
+{{- $out = dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "description" .Description "url" .Permalink "datePublished" (.Date.Format "2006-01-02") "inLanguage" "en" "isPartOf" (dict "@type" "Blog" "name" "Paper Lanterns journal" "url" .CurrentSection.Permalink) -}}
+{{- with .Params.author }}{{ $out = merge $out (dict "author" (dict "@type" "Person" "name" .)) }}{{ end -}}
+{{- with .Params.subtitle }}{{ $out = merge $out (dict "alternativeHeadline" .) }}{{ end -}}
 {{- else if .IsHome -}}
 {{- $out = dict "@context" "https://schema.org" "@type" "WebSite" "name" site.Title "url" .Permalink "description" site.Params.description "license" $license -}}
 {{- end -}}

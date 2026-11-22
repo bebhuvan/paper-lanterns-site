@@ -18,6 +18,7 @@
   (dict "href" "/essays/" "label" "Essays" "sub" (printf "%d essays, %d lectures, %d speeches" $c.essays $c.lectures $c.speeches) "on" (in (slice "essays" "lectures" "speeches") $here.Section))
   (dict "href" "/people/" "label" "People" "sub" (printf "%d people, as the volumes credit them" $c.people) "on" (eq $here.Section "people"))
   (dict "href" "/explore/" "label" "Explore" "sub" (printf "%d decades of letters, the %s to the %s" $c.decades $c.first $c.last) "on" (eq $here.Section "explore"))
+  (dict "href" "/journal/" "label" "Journal" "sub" "Essays and notes from the making of Paper Lanterns" "on" (eq $here.Section "journal"))
   (dict "href" "/about/" "label" "About" "sub" "Why Paper Lanterns exists, and how it is made" "on" (eq $here.RelPermalink "/about/"))
 -}}
 <ol>

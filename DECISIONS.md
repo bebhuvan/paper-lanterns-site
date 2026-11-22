@@ -450,6 +450,31 @@ how the site is built; say why if you overturn one.
 - **Letter number:** the card says "Letter XX of 87" with the book's own numbering, stripped of "LETTER", dots and
   brackets, or the letter's place in the book where it has none or where the record holds a heading there instead.
 
+## D32. A journal for essays and notes from the making of Paper Lanterns (2026-11-22)
+
+- **What:** a new section at `/journal/`, in the header between Explore and About, with its own feed at
+  `/journal/rss.xml` (every post in full). The first post, the owner's introduction, is still being written; the
+  journal stays out of the header and off the live site until it exists.
+- **Name:** "Journal" rather than "Blog": the site reads like a press, and a press keeps a journal. The existing
+  Garden (short links and quotations from the old site) stays where it is, at its old addresses; it can fold into
+  the journal later if the owner wants one place.
+- **How it looks:** a display title in Newsreader at its large optical size, an italic subtitle, byline with
+  reading time; the body at 20 to 21px on a 680px measure, opening with a three-line initial and small capitals;
+  sections opened by a short lamp-red rule and an italic heading; quotations hung on a red quotation mark; a
+  `{.pull}` blockquote is a pull quote between rules; footnotes, lists and pictures with captions are styled. The
+  journal page leads with the latest post (or one marked `featured: true`) as a plate and its title; a post with
+  no cover shows its opening sentence (its `description`) on the plate instead. Earlier posts follow as rows.
+- **Pictures:** a post is a folder (`content/journal/<slug>/index.md`). A file named `cover.*` beside it is the
+  cover; it needs `cover.alt`, `cover.credit` and `cover.licence` in front matter or the build stops, so no
+  picture is published without saying whose it is. Pictures in the text must be files beside the post (the CSP
+  blocks other sites anyway) and need alt text. Hugo resizes them to WebP at build time and never enlarges them.
+- **Share card:** each post gets one (D31's machinery, a fourth kind): "From the journal", the title large, the
+  subtitle, author and date.
+- **No licence claimed** on journal posts: they are the owner's own writing, unlike the public-domain letters,
+  so the footer's CC BY line for transcriptions does not cover them and the JSON-LD names no licence.
+- **Rejected:** a separate blog tool or subdomain (a second thing to maintain and deploy); comments (a server,
+  moderation and personal data); a newsletter signup (the same, plus a third party). The feed covers following.
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should
@@ -458,3 +483,5 @@ how the site is built; say why if you overturn one.
    (for example, separating the East India Company, which received its letters, from the factors who wrote them)?
 3. **Akshara community link.** The notice links to https://akshara.ink/. Is there a page for joining the community or
    proofreading that it should point to instead?
+4. **Journal licence.** Should your journal posts carry a licence (for example CC BY 4.0, like the transcriptions),
+   or stay all rights reserved? Today the site claims none for them (D32).

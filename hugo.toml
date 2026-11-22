@@ -24,6 +24,7 @@ enableRobotsTXT = true
   lectures = "/lecture/:filename/"
   speeches = "/speech/:filename/"
   garden = "/garden/:filename/"
+  journal = "/journal/:slug/"
   sets = "/collection/:filename/"
 
 [mediaTypes."text/cfheaders"]
@@ -76,6 +77,19 @@ enableRobotsTXT = true
   [cascade._target]
     kind = "page"
     path = "/collections/**"
+
+# The journal (D32): each post gets a share card, and the journal has its own feed at /journal/rss.xml.
+[[cascade]]
+  outputs = ["HTML", "RSS"]
+  [cascade._target]
+    kind = "section"
+    path = "/journal"
+
+[[cascade]]
+  outputs = ["HTML", "ogcard"]
+  [cascade._target]
+    kind = "page"
+    path = "/journal/**"
 
 [params]
   description = "Whole collections of public-domain letters, read from the printed page and set beside the scan they came from."

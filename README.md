@@ -21,6 +21,7 @@ letters), plus the old site's 105 hand-curated letters, essays, lectures, speech
 | `content/collections/<book_id>/` | Synced from the pipeline. Do not edit by hand. |
 | `static/collections/<book_id>/` | The book's EPUB, Markdown and TEI downloads, synced from the pipeline |
 | `content/{letters,essays,lectures,speeches,garden,sets}/` | Hand-curated pages from the old site, copied verbatim by `scripts/import_legacy.py` (do not edit by hand; edit at the source and re-import) |
+| `content/journal/<slug>/index.md` | Journal posts, written here by hand (D32). A `cover.*` file and any pictures sit beside the post |
 | `legacy-addresses.txt` | The 128 addresses the old site served; each stays in `published-addresses.txt` for good |
 | `layouts/` | Templates: `index.html` (home), `collections/list.html`, `collections/book.html`, `collections/letter.html` |
 | `assets/css/site.css`, `assets/js/site.js` | All styling and all interactivity (the pages read fully without the script) |
@@ -81,6 +82,28 @@ hugo --destination /tmp/pl-build && python3 scripts/addresses.py update /tmp/pl-
 
 The site must build without the pipeline present (CI and the host have only this repository). Letter
 addresses are numbers (`/collections/<book_id>/<n>/`) and are frozen once published (DECISIONS.md D12).
+
+## Write a journal post
+
+Make a folder `content/journal/<slug>/` with an `index.md` that starts like this:
+
+```yaml
+---
+title: "The title"
+subtitle: "An optional line under it"
+date: 2026-11-22
+author: Bhuvan
+slug: the-title
+description: "One sentence. It is the summary in link previews, and the plate on the journal page when there is no cover."
+---
+```
+
+Then write in Markdown. `## Heading` opens a section; `> quote` is a quotation; a quotation followed by a line
+`{.pull}` is a pull quote; `[^1]` makes a footnote; `![alt text](picture.jpg "Caption")` places a picture saved in
+the same folder. For a cover, save `cover.jpg` in the folder and add `cover:` with `alt`, `credit`, `licence`, and
+optionally `caption` and `source_url`; the build stops if any of the first three is missing. `featured: true` puts a
+post at the top of the journal page instead of the newest one. Add the new address with
+`python3 scripts/addresses.py update <built dir>` and commit it with the post.
 
 ## Check it
 
