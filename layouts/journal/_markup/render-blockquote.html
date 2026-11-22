@@ -1,0 +1,10 @@
+{{- /* Quotations in a journal post (D32). A last paragraph that starts with a dash ("— Thoreau, Walking") becomes
+       the quotation's source line. A blockquote marked {.pull} is a pull quote and takes no source line. */ -}}
+{{- $text := .Text -}}
+{{- $cite := "" -}}
+{{- with findRESubmatch `(?s)^(.*)<p>(?:—|–|--)\s*(.*?)</p>\s*$` $text 1 }}{{ $text = index (index . 0) 1 }}{{ $cite = index (index . 0) 2 }}{{ end -}}
+{{- $class := .Attributes.class | default "" -}}
+<blockquote{{ with $class }} class="{{ . }}"{{ end }}>
+{{ $text | safeHTML }}
+{{- with $cite }}<footer class="j-cite">{{ . | safeHTML }}</footer>{{ end }}
+</blockquote>

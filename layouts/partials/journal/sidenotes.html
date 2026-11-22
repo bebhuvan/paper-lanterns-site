@@ -1,0 +1,23 @@
+{{- /* Turns a post's Markdown footnotes into notes beside their line (D32). Goldmark writes every footnote into one
+       list at the end; this moves each note to just after the paragraph that cites it, as an <aside> with the
+       footnote's own id, so the reference still links to it. CSS sets it in the margin on wide screens and
+       under its paragraph on phones. With no footnotes the text is returned untouched. */ -}}
+{{- $html := . -}}
+{{- $block := index (findRE `(?s)<div class="footnotes" role="doc-endnotes">.*?</div>` $html 1) 0 | default "" -}}
+{{- if $block -}}
+{{- $notes := dict -}}
+{{- range findRESubmatch `(?s)<li id="fn:([^"]+)">\s*(.*?)\s*</li>` $block -}}
+{{- $body := replaceRE `(?s)&#160;<a href="#fnref:[^"]+" class="footnote-backref"[^>]*>.*?</a>` "" (index . 2) -}}
+{{- $body = replaceRE `(?s)^<p>(.*)</p>$` "$1" $body -}}
+{{- $notes = merge $notes (dict (index . 1) $body) -}}
+{{- end -}}
+{{- $html = replace $html $block "" -}}
+{{- $out := "" -}}
+{{- range $part := split $html "</p>" -}}
+{{- $out = printf "%s%s" $out $part -}}
+{{- $refs := findRESubmatch `id="fnref:([^"]+)"` $part -}}
+{{- if $refs }}{{ $out = printf "%s</p>" $out }}{{ range $refs }}{{ $id := index . 1 }}{{ $out = printf "%s<aside class=\"j-note\" id=\"fn:%s\"><span class=\"n\">%s</span> %s</aside>" $out $id $id (index $notes $id) }}{{ end }}{{ else }}{{ $out = printf "%s</p>" $out }}{{ end -}}
+{{- end -}}
+{{- $html = strings.TrimSuffix "</p>" $out -}}
+{{- end -}}
+{{- return $html -}}

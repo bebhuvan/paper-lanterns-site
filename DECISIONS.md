@@ -458,12 +458,20 @@ how the site is built; say why if you overturn one.
 - **Name:** "Journal" rather than "Blog": the site reads like a press, and a press keeps a journal. The existing
   Garden (short links and quotations from the old site) stays where it is, at its old addresses; it can fold into
   the journal later if the owner wants one place.
-- **How it looks:** a display title in Newsreader at its large optical size, an italic subtitle, byline with
-  reading time; the body at 20 to 21px on a 680px measure, opening with a three-line initial and small capitals;
-  sections opened by a short lamp-red rule and an italic heading; quotations hung on a red quotation mark; a
-  `{.pull}` blockquote is a pull quote between rules; footnotes, lists and pictures with captions are styled. The
-  journal page leads with the latest post (or one marked `featured: true`) as a plate and its title; a post with
-  no cover shows its opening sentence (its `description`) on the plate instead. Earlier posts follow as rows.
+- **How it looks:** chosen by the owner from three directions on a design canvas ("The Contents", over "The Open
+  Book" and "The Lantern String"). The journal page is a review's contents page: entries numbered in lower-case
+  Roman numerals counted from the first post, each with a lantern from the mark hanging from the rule above it, the
+  newest lit. The newest entry (or one marked `featured: true`) is set at length: date and reading time in words,
+  a display title, its italic subtitle and its opening two paragraphs; earlier ones follow as numbered lines with
+  dotted leaders to the date. A post opens with a ruled line naming its number and date, a display title in
+  Newsreader's large optical size, its subtitle and byline; the first paragraph is set larger. From 1100px the body
+  is a three-column page: section numbers (Roman, from CSS counters) in the left margin, the text on a 680px
+  measure, and footnotes moved beside their paragraph in the right margin; on phones they sit under it. A `{.pull}`
+  blockquote is a pull quote reaching into the margin; a blockquote whose last line starts with a dash shows that
+  line as its source. Each post ends with the author's name beside the lantern mark and a "Cite this entry" line.
+  Rejected: the open book (its two-page spread falls apart on a phone and repeats the post's opening) and the
+  lantern string as navigation (crowded past eight entries, needs JavaScript, small touch targets); the string
+  survives as the lanterns beside each number. No JavaScript is used.
 - **Pictures:** a post is a folder (`content/journal/<slug>/index.md`). A file named `cover.*` beside it is the
   cover; it needs `cover.alt`, `cover.credit` and `cover.licence` in front matter or the build stops, so no
   picture is published without saying whose it is. Pictures in the text must be files beside the post (the CSP

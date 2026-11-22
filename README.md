@@ -98,12 +98,13 @@ description: "One sentence. It is the summary in link previews, and the plate on
 ---
 ```
 
-Then write in Markdown. `## Heading` opens a section; `> quote` is a quotation; a quotation followed by a line
-`{.pull}` is a pull quote; `[^1]` makes a footnote; `![alt text](picture.jpg "Caption")` places a picture saved in
+Then write in Markdown. `## Heading` opens a numbered section; `> quote` is a quotation, and a last line in it
+starting with `— ` (`— Thoreau, *Walking*, 1862`) becomes its source; a quotation followed by a line `{.pull}` is
+a pull quote; `[^1]` makes a note, shown in the margin beside its paragraph; `![alt text](picture.jpg "Caption")` places a picture saved in
 the same folder. For a cover, save `cover.jpg` in the folder and add `cover:` with `alt`, `credit`, `licence`, and
 optionally `caption` and `source_url`; the build stops if any of the first three is missing. `featured: true` puts a
 post at the top of the journal page instead of the newest one. Add the new address with
-`python3 scripts/addresses.py update <built dir>` and commit it with the post.
+`python3 scripts/addresses.py update <built dir>` and commit it with the post. For the first post, also add its address to `PAGES` in `scripts/check_mobile.mjs`, so `verify` checks a post page at phone width.
 
 ## Check it
 

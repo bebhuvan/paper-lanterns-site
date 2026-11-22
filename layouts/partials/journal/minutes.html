@@ -1,0 +1,7 @@
+{{- /* Reading time in words ("Fourteen minutes"), the way the rest of the journal's front matter reads. */ -}}
+{{- $n := int . -}}
+{{- $words := slice "" "One" "Two" "Three" "Four" "Five" "Six" "Seven" "Eight" "Nine" "Ten" "Eleven" "Twelve" "Thirteen" "Fourteen" "Fifteen" "Sixteen" "Seventeen" "Eighteen" "Nineteen" "Twenty" -}}
+{{- $tens := dict "2" "Twenty" "3" "Thirty" "4" "Forty" "5" "Fifty" -}}
+{{- $w := printf "%d" $n -}}
+{{- if le $n 20 }}{{ $w = index $words $n }}{{ else if lt $n 60 }}{{ $w = index $tens (printf "%d" (div $n 10)) }}{{ with mod $n 10 }}{{ $w = printf "%s-%s" $w (lower (index $words .)) }}{{ end }}{{ end -}}
+{{- return (printf "%s %s" $w (cond (eq $n 1) "minute" "minutes")) -}}

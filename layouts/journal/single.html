@@ -6,37 +6,36 @@
 {{- $prev := false -}}{{- if gt $idx 0 }}{{ $prev = index $posts (sub $idx 1) }}{{ end -}}
 {{- $next := false -}}{{- if lt $idx (sub (len $posts) 1) }}{{ $next = index $posts (add $idx 1) }}{{ end -}}
 {{- $cover := .Resources.GetMatch "cover.*" -}}
+{{- $num := partial "journal/number.html" . -}}
 <main id="main" class="journal-post">
 <article data-pagefind-body>
 <span hidden data-pagefind-filter="kind">Journal</span>
 <header class="j-head wrap">
-<p class="j-kicker" data-pagefind-ignore><a href="{{ .CurrentSection.RelPermalink }}">Journal</a></p>
+<p class="j-rule" data-pagefind-ignore><a href="{{ .CurrentSection.RelPermalink }}">The Journal · No. {{ $num }}</a><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></p>
 <h1 class="j-title">{{ .Title }}</h1>
-{{- with .Params.subtitle }}<p class="j-sub">{{ . }}</p>{{ end }}
-{{ partial "journal/byline.html" . }}
+<div class="j-standfirst">
+{{- with (.Params.subtitle | default .Description) }}<p class="j-dek">{{ . }}</p>{{ end }}
+<p class="j-by" data-pagefind-ignore>{{ with .Params.author }}By <span>{{ . }}</span><br>{{ end }}{{ partial "journal/minutes.html" .ReadingTime }}</p>
+</div>
 </header>
 {{- if $cover }}
-<figure class="j-cover">{{ partial "journal/cover.html" (dict "page" . "sizes" "(min-width: 1200px) 1120px, 100vw" "eager" true) }}
+<figure class="j-cover wrap">{{ partial "journal/cover.html" (dict "page" . "sizes" "(min-width: 1340px) 1240px, 100vw" "eager" true) }}
 <figcaption>{{ with .Params.cover.caption }}{{ . | markdownify }} {{ end }}<span class="credit">{{ .Params.cover.credit | markdownify }} · {{ with .Params.cover.source_url }}<a href="{{ . }}">{{ $p.Params.cover.licence }}</a>{{ else }}{{ $p.Params.cover.licence }}{{ end }}</span></figcaption>
 </figure>
-{{- else }}
-<div class="j-orn" aria-hidden="true">{{ partial "logo.html" (dict "w" 48 "sw" 1) }}</div>
 {{- end }}
-<div class="j-body">
-{{ .Content }}
-</div>
-<footer class="j-end">
-<span class="j-fin" aria-hidden="true"></span>
-{{- with .Params.author }}<p class="j-sign">{{ . }}</p>{{ end }}
-<p class="j-filed" data-pagefind-ignore>Written for the <a href="{{ $p.CurrentSection.RelPermalink }}">Paper Lanterns journal</a> on {{ .Date.Format "2 January 2006" }}. Follow new posts with the <a href="{{ with $p.CurrentSection.OutputFormats.Get "rss" }}{{ .RelPermalink }}{{ end }}">feed</a>.</p>
+<div class="j-body wrap">
+{{ partial "journal/sidenotes.html" .Content | safeHTML }}
+<footer class="j-end" data-pagefind-ignore>
+{{- with .Params.author }}<p class="j-sign">{{ partial "logo.html" (dict "w" 40 "sw" 1) }}<span>{{ . }}</span></p>{{ end }}
+<p class="j-citation"><span class="k">Cite this entry</span><br>{{ with .Params.author }}{{ . }}, {{ end }}“{{ .Title }},” <i>Paper Lanterns</i> journal, {{ .Date.Format "2 January 2006" }}, {{ .Permalink }}</p>
 </footer>
+</div>
 </article>
-{{- if or $prev $next }}
 <nav class="j-more wrap" aria-label="More from the journal">
-{{- with $next }}<a href="{{ .RelPermalink }}"><span class="k">Newer</span><span class="t">{{ .Title }}</span>{{ with .Params.subtitle }}<span class="s">{{ . }}</span>{{ end }}</a>{{ end }}
-{{- with $prev }}<a href="{{ .RelPermalink }}"><span class="k">Earlier</span><span class="t">{{ .Title }}</span>{{ with .Params.subtitle }}<span class="s">{{ . }}</span>{{ end }}</a>{{ end }}
+{{- with $prev }}<a href="{{ .RelPermalink }}"><span class="k">Earlier · No. {{ partial "journal/number.html" . }}</span><span class="t">{{ .Title }}</span>{{ with (.Params.subtitle | default .Description) }}<span class="s">{{ . }}</span>{{ end }}</a>{{ end }}
+{{- with $next }}<a class="r" href="{{ .RelPermalink }}"><span class="k">Later · No. {{ partial "journal/number.html" . }}</span><span class="t">{{ .Title }}</span>{{ with (.Params.subtitle | default .Description) }}<span class="s">{{ . }}</span>{{ end }}</a>
+{{- else }}<a class="r" href="{{ $p.CurrentSection.RelPermalink }}"><span class="k">The whole journal</span><span class="t">{{ $l := len $posts }}{{ cond (eq $l 1) "One entry" (printf "%d entries" $l) }}</span><span class="s">and a feed for new ones</span></a>{{ end }}
 </nav>
-{{- end }}
 </main>
 {{ partial "footer.html" . }}
 {{ end }}

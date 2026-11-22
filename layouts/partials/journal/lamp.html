@@ -1,0 +1,4 @@
+{{- /* One lantern from the mark, hanging on its thread from the rule above an entry: lit for the newest entry, unlit
+       for the others (D32). Args: lit (bool), h (height in px, thread included). */ -}}
+{{- $h := .h | default 40 -}}
+<svg class="j-lamp{{ if .lit }} lit{{ end }}" aria-hidden="true" focusable="false" width="16" height="{{ $h }}" viewBox="0 0 16 {{ $h }}" fill="none"><path d="M8 0 V{{ sub $h 12 }}" stroke-width="1"/><circle cx="8" cy="{{ sub $h 6.5 }}" r="{{ if .lit }}5.5{{ else }}4.8{{ end }}" stroke-width="1"/></svg>

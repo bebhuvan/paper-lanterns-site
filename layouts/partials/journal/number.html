@@ -1,0 +1,5 @@
+{{- /* An entry's place in the journal, counted from the first post: returns its Roman numeral. */ -}}
+{{- $p := . -}}
+{{- $n := 0 -}}
+{{- range $i, $e := $p.CurrentSection.RegularPages.ByDate }}{{ if eq $e.RelPermalink $p.RelPermalink }}{{ $n = add $i 1 }}{{ end }}{{ end -}}
+{{- return (partial "journal/roman.html" $n) -}}

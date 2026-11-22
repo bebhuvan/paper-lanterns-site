@@ -1,0 +1,8 @@
+{{- /* A journal entry's number in lower-case Roman numerals (i, ii, iii …), as a printed review numbers its pieces. */ -}}
+{{- $n := int . -}}
+{{- $out := "" -}}
+{{- range $pair := slice (slice 1000 "m") (slice 900 "cm") (slice 500 "d") (slice 400 "cd") (slice 100 "c") (slice 90 "xc") (slice 50 "l") (slice 40 "xl") (slice 10 "x") (slice 9 "ix") (slice 5 "v") (slice 4 "iv") (slice 1 "i") -}}
+{{- $v := index $pair 0 -}}
+{{- range seq 4 }}{{ if ge $n $v }}{{ $out = printf "%s%s" $out (index $pair 1) }}{{ $n = sub $n $v }}{{ end }}{{ end -}}
+{{- end -}}
+{{- return $out -}}
