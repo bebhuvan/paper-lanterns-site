@@ -973,6 +973,16 @@ html.js .site-header:has(.menu[open]) { transform: none; }
 .ed-block .chart-box { margin-top: 24px; }
 .ed-block .files { margin-top: 20px; }
 .ed-block .stages { margin-top: 20px; }
+.ed-people { margin: 20px 0 0; display: grid; gap: 24px; max-width: 680px; }
+.ed-people dt { font-size: 20px; font-weight: 500; color: var(--ink); }
+.ed-people dt .dates { font-family: var(--mono); font-size: 13px; font-weight: 400; color: var(--ink-3); margin-left: 6px; }
+.ed-people dd { margin: 6px 0 0; font-size: 18px; line-height: 1.65; color: var(--ink-2); }
+.ref-links { list-style: none; margin: 16px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
+.ref-links a { display: inline-flex; align-items: center; min-height: 44px; padding: 8px 14px; border: 1px solid var(--rule); border-radius: 2px; font-size: 15px; line-height: 1.3; color: var(--ink); background: var(--paper); }
+@media (hover: hover) { .ref-links a:hover { border-color: var(--ink); color: var(--lamp); } }
+.person-dates { font-family: var(--mono); font-size: 14px; color: var(--ink-3); margin: 10px 0 0; }
+.person-bio { margin: 14px 0 0; max-width: 640px; font-size: 19px; line-height: 1.65; color: var(--ink); }
+.person-stats { margin: 12px 0 0; font-size: 16px; color: var(--ink-3); }
 @media (min-width: 901px) {
   .ed-intro { grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 64px; }
   .ed-intro .text > p { font-size: 21px; }

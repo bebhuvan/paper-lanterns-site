@@ -26,18 +26,30 @@
 {{- $totalSigned := len $signedLetters -}}
 {{- $volCount := len (.Params.credits | default slice) -}}
 {{- $curCount := len (.Params.curated | default slice) -}}
+{{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
+{{- $pNote := index (index site.Data "people-notes" | default dict) $slug | default dict -}}
+{{- $wdUrl := index (site.Data.wikidata | default dict) $slug | default "" -}}
 <main id="main">
 <section class="wrap page-title" aria-labelledby="title">
 <nav class="crumb" aria-label="Breadcrumb"><a href="{{ .CurrentSection.RelPermalink }}">People</a></nav>
 <h1 id="title">{{ .Title }}</h1>
+{{- with $pNote.dates }}<p class="person-dates">{{ . }}</p>{{ end }}
+{{- with $pNote.bio }}<p class="person-bio">{{ . }}</p>{{ end }}
 {{- $bits := slice -}}
 {{- if gt $volCount 0 }}{{ $bits = $bits | append (printf "%d %s" $volCount (cond (eq $volCount 1) "volume" "volumes")) }}{{ end -}}
 {{- if gt $totalSigned 0 }}{{ $bits = $bits | append (printf "%s %s" (lang.FormatNumber 0 $totalSigned) (cond (eq $totalSigned 1) "letter" "letters")) }}{{ end -}}
 {{- if gt $curCount 0 }}{{ $bits = $bits | append (printf "%d hand-curated %s" $curCount (cond (eq $curCount 1) "work" "works")) }}{{ end -}}
 {{- if gt (len $bits) 0 }}
-<p>{{ delimit $bits " · " }}{{ if and (lt $minYear 9999) (gt $maxYear 0) }} ({{ if eq $minYear $maxYear }}{{ $minYear }}{{ else }}{{ $minYear }}–{{ $maxYear }}{{ end }}){{ end }}.</p>
+<p class="person-stats">{{ delimit $bits " · " }}{{ if and (lt $minYear 9999) (gt $maxYear 0) }} ({{ if eq $minYear $maxYear }}{{ $minYear }}{{ else }}{{ $minYear }}–{{ $maxYear }}{{ end }}){{ end }}.</p>
 {{- end }}
 {{- with .Params.also }}<p>Also printed as {{ delimit . ", " " and " }}.</p>{{ end }}
+{{- if or $pNote.wikipedia $pNote.wikisource $wdUrl }}
+<ul class="ref-links" aria-label="External references">
+{{- with $pNote.wikipedia }}<li><a href="{{ . }}">Wikipedia</a></li>{{ end }}
+{{- with $pNote.wikisource }}<li><a href="{{ . }}">Wikisource</a></li>{{ end }}
+{{- with $wdUrl }}<li><a href="{{ . }}">Wikidata</a></li>{{ end }}
+</ul>
+{{- end }}
 </section>
 {{- with .Params.credits }}
 <section class="wrap contents-plain" aria-labelledby="vol-h">

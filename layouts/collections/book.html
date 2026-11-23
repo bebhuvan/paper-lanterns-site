@@ -11,6 +11,7 @@
 {{- $tr := partial "book-traits.html" . -}}
 {{- $rs := partial "reading-status.html" . -}}
 {{- $names := dict "epub" "EPUB" "markdown" "Markdown" "tei" "TEI" -}}
+{{- $note := index (index site.Data "book-notes" | default dict) .Params.book_id | default dict -}}
 <main id="main" class="book">
 
 <section class="book-hero era-{{ $tr.era }}" aria-labelledby="title">
@@ -108,8 +109,10 @@
 
 <div class="ed-intro">
 <div class="text">
-<p>This edition reproduces <i>{{ .Title }}</i>{{ with .Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}{{ with .Params.imprint }} ({{ . }}){{ end }}. It was read page by page by machine from {{ if $id }}the Internet Archive scan{{ else }}a scan of the printed book{{ end }}, keeping the printed spelling and punctuation.</p>
-<p>Every printed page is included: {{ lang.FormatNumber 0 (int $c.letters) }} letters and {{ lang.FormatNumber 0 (int $c.notes) }} notes across {{ $c.pages }} scan leaves, with the editor’s own pages between the letters. The text is in the public domain, and this transcription is free to reuse under CC BY 4.0, with credit to Paper Lanterns.</p>
+{{- range ($note.book | default slice) }}
+<p>{{ . }}</p>
+{{- end }}
+<p>This Paper Lanterns edition reproduces <i>{{ .Title }}</i>{{ with .Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}{{ with .Params.imprint }} ({{ . }}){{ end }}, read page by page by machine from {{ if $id }}the Internet Archive scan{{ else }}a scan of the printed book{{ end }} while keeping the original spelling and punctuation: {{ lang.FormatNumber 0 (int $c.letters) }} letters and {{ lang.FormatNumber 0 (int $c.notes) }} notes across {{ $c.pages }} scan leaves. The letters are in the public domain; this transcription is free to reuse under CC BY 4.0, with credit to Paper Lanterns.</p>
 {{- $pLinks := slice -}}
 {{- range .Params.authors -}}
   {{- $clean := replaceRE `\s*\([^)]*\)\s*$` "" . -}}
@@ -140,6 +143,41 @@
 <div><dt>Pages</dt><dd>{{ $c.pages }}</dd></div>
 <div><dt>Proofread by people</dt><dd>{{ printf "%.0f" (mul (div (float $humanPages) $proof.total_pages) 100) }}%</dd></div>
 </dl>
+
+{{- with $note.people }}
+<div class="ed-block" id="people-in-book">
+<h3>{{ if eq (len .) 1 }}About the writer{{ else }}The people in this book{{ end }}</h3>
+<dl class="ed-people">
+{{- range . }}
+{{- $person := . }}
+<div>
+<dt>{{ with .slug }}<a class="u" href="{{ printf "/people/%s/" . | relURL }}">{{ $person.name }}</a>{{ else }}{{ .name }}{{ end }}{{ with .dates }} <span class="dates">{{ . }}</span>{{ end }}</dt>
+<dd>{{ .bio }}</dd>
+</div>
+{{- end }}
+</dl>
+</div>
+{{- end }}
+
+{{- $extLinks := $note.links | default slice -}}
+{{- $relBooks := $note.related | default slice -}}
+{{- if or $id (gt (len $extLinks) 0) (gt (len $relBooks) 0) }}
+<div class="ed-block" id="further">
+<h3>Reference and related editions</h3>
+{{- if or $id (gt (len $extLinks) 0) }}
+<ul class="ref-links" aria-label="External reference links">
+{{- with $id }}<li><a href="https://archive.org/details/{{ . }}">Original scan on the Internet Archive</a></li>{{ end }}
+{{- range $extLinks }}<li><a href="{{ .url }}">{{ .label }}</a></li>{{ end }}
+</ul>
+{{- end }}
+{{- if gt (len $relBooks) 0 }}
+<p class="ed-note">Related collections on Paper Lanterns:</p>
+<ul class="ref-links" aria-label="Related collections on Paper Lanterns">
+{{- range $relBooks }}{{ with site.GetPage (printf "/collections/%s" .) }}<li><a href="{{ .RelPermalink }}">{{ .Title }}{{ with .Params.year }} ({{ int . }}){{ end }}</a></li>{{ end }}{{ end }}
+</ul>
+{{- end }}
+</div>
+{{- end }}
 
 {{- with .Params.year_counts }}
 <div class="ed-block">

@@ -1,0 +1,531 @@
+{
+  "abby-sage-richardson": {
+    "dates": "1837–1900",
+    "bio": "American writer, actress, and literary historian who edited classic English prose and verse collections for late nineteenth-century readers.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abby_Sage_Richardson",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Abby_Sage_Richardson"
+  },
+  "abel-francois-villemain": {
+    "dates": "1790–1870",
+    "bio": "French literary historian, critic, and Minister of Public Instruction whose essay on Pascal opens this 1847 edition.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abel-Fran%C3%A7ois_Villemain",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Abel-Fran%C3%A7ois_Villemain"
+  },
+  "abigail-adams": {
+    "dates": "1744–1818",
+    "bio": "Second First Lady of the United States and one of the sharpest epistolary voices of the American Revolution, whose letters to John Adams press plainly for legal rights for women.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Adams",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Abigail_Adams"
+  },
+  "abraham-lincoln": {
+    "dates": "1809–1865",
+    "bio": "Sixteenth President of the United States. In both private notes and public letters, he wrote English of extraordinary spareness, legal lucidity, and moral gravity.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Abraham_Lincoln"
+  },
+  "albert-einstein": {
+    "dates": "1879–1955",
+    "bio": "Theoretical physicist whose relativity papers transformed twentieth-century physics, and whose letters range from quantum mechanics to nuclear disarmament and civil rights.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Albert_Einstein"
+  },
+  "alexander-von-humboldt": {
+    "dates": "1769–1859",
+    "bio": "Prussian naturalist, geographer, and explorer of the Americas whose holistic vision of nature—and encyclopaedic correspondence with thousands of scientists—shaped modern ecology and earth science.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Friedrich_Wilhelm_Heinrich_Alexander_Freiherr_von_Humboldt"
+  },
+  "anton-chekhov": {
+    "dates": "1860–1904",
+    "bio": "Russian physician, playwright, and master of the short story. His letters to family, editors, and fellow writers are famously warm, self-deprecating, and impatient with pomposity.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anton_Chekhov",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Anton_Pavlovich_Chekhov"
+  },
+  "aurangzeb": {
+    "dates": "1618–1707",
+    "bio": "Sixth Mughal Emperor, ruling for nearly half a century (1658–1707) over the largest territorial extent of the Mughal Empire. His private Persian letters—studded with couplets and sharp reprimands—reveal a voice far more complex than caricature.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aurangzeb",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Aurangzeb_Alamgir"
+  },
+  "benjamin-franklin": {
+    "dates": "1706–1790",
+    "bio": "Printer, scientist, diplomat, and American Founding Father whose correspondence moves smoothly between electricity, satire, diplomacy, and practical advice.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Benjamin_Franklin"
+  },
+  "bhagat-singh": {
+    "dates": "1907–1931",
+    "bio": "Indian revolutionary and political writer executed by the British Raj at twenty-three. His prison letters and essays remain landmark documents of Indian radical thought.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Singh",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Bhagat_Singh"
+  },
+  "blaise-pascal": {
+    "dates": "1623–1662",
+    "bio": "French mathematician, physicist, inventor, and Christian philosopher whose experiments on atmospheric pressure and probability theory sit beside some of the sharpest religious prose in French.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Blaise_Pascal"
+  },
+  "byron-johnson-rees": {
+    "dates": "1877–1920",
+    "bio": "Professor of English at Williams College who curated this generous anthology to show nineteenth-century prose at its most natural and unguarded."
+  },
+  "c-f-andrews": {
+    "dates": "1871–1940",
+    "bio": "English missionary, social reformer, and teacher at Santiniketan whom Gandhi called ‘Deenabandhu’ (‘Friend of the Poor’). His friendship bridged Tagore and Gandhi across a turbulent decade.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Freer_Andrews",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Charles_Freer_Andrews"
+  },
+  "c-v-raman": {
+    "dates": "1888–1970",
+    "bio": "Indian physicist awarded the 1930 Nobel Prize in Physics for discovering the Raman effect—the inelastic scattering of light by molecules.",
+    "wikipedia": "https://en.wikipedia.org/wiki/C._V._Raman",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Chandrasekhara_Venkata_Raman"
+  },
+  "caroline-v-kerr": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Caroline_V._Kerr"
+  },
+  "charles-darwin": {
+    "dates": "1809–1882",
+    "bio": "English naturalist whose Origin of Species reshaped biology. From Down House he conducted a vast global correspondence, gathering observations from botanists, breeders, and travellers.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Darwin",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Charles_Robert_Darwin"
+  },
+  "christian-friedrich-schoenbein": {
+    "dates": "1799–1868",
+    "bio": "Professor of chemistry at the University of Basel, discoverer of ozone and gun-cotton (nitrocellulose), and one of Faraday’s closest scientific confidants.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Friedrich_Sch%C3%B6nbein",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Christian_Friedrich_Sch%C3%B6nbein"
+  },
+  "claude-m-fuess": {
+    "dates": "1885–1963",
+    "bio": "American historian, biographer of Byron and Daniel Webster, and longtime headmaster of Phillips Academy, Andover."
+  },
+  "curtis-gentry": {
+    "dates": "fl. 1930",
+    "bio": "American educator and anthologist who assembled this volume for general readers, pairing each letter with the immediate scene in which it was written."
+  },
+  "dadabhai-naoroji": {
+    "dates": "1825–1917",
+    "bio": "Indian political leader, scholar, and first Indian Member of the British Parliament, whose economic critique of the ‘drain of wealth’ shaped early Indian nationalism.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dadabhai_Naoroji",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Dadabhai_Naoroji"
+  },
+  "dr-b-r-ambedkar": {
+    "dates": "1891–1956",
+    "bio": "Jurist, economist, social reformer, and principal architect of the Constitution of India, whose writings and letters confronted caste and argued for constitutional equality.",
+    "wikipedia": "https://en.wikipedia.org/wiki/B._R._Ambedkar",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Bhimrao_Ramji_Ambedkar"
+  },
+  "east-india-company": {
+    "dates": "1600–1874",
+    "bio": "English joint-stock trading company chartered by Elizabeth I in 1600. Its early factors wrote from precarious coastal trading posts long before the Company acquired territorial rule in India.",
+    "wikipedia": "https://en.wikipedia.org/wiki/East_India_Company"
+  },
+  "edgar-allan-poe": {
+    "dates": "1809–1849",
+    "bio": "American poet, critic, and master of the short story and detective tale. These early letters show him before literary fame, wrestling with debt, ambition, and estrangement from the only home he knew.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Edgar_Allan_Poe"
+  },
+  "elisabeth-forster-nietzsche": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Elisabeth_F%C3%B6rster-Nietzsche",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Therese_Elisabeth_Alexandra_F%C3%B6rster-Nietzsche"
+  },
+  "emily-dickinson": {
+    "dates": "1830–1886",
+    "bio": "American poet of Amherst, Massachusetts, who published almost nothing in her lifetime and circulated her poems largely inside intense, compressed, radiant letters to friends.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Dickinson",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Emily_Dickinson"
+  },
+  "ethel-colburn-mayne": {
+    "dates": "1865–1941",
+    "bio": "Irish biographer, short-story writer, and translator of Byron, Nietzsche, and Dostoevsky whose 1914 translation remained the standard English selection for decades.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ethel_Colburn_Mayne",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Ethel_Colburn_Mayne"
+  },
+  "francis-augustus-macnutt": {
+    "dates": "1863–1927",
+    "bio": "American diplomat, historian, and translator of early Spanish-American chronicles who prepared the first complete English translation of all five letters.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Augustus_MacNutt",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Francis_Augustus_MacNutt"
+  },
+  "francis-bacon": {
+    "dates": "1561–1626",
+    "bio": "English philosopher, statesman, and Lord Chancellor whose essays and treatises helped define empirical scientific method and early modern English prose.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Bacon",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Francis_Bacon"
+  },
+  "frederick-charles-danvers": {
+    "dates": "1833–1906",
+    "bio": "India Office archivist and historian of the Portuguese in India who initiated this series before handing editorial duties to William Foster.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederic_Charles_Danvers",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Frederic_Charles_Danvers"
+  },
+  "frederick-douglass": {
+    "dates": "c. 1818–1895",
+    "bio": "Abolitionist, orator, newspaper editor, and former enslaved man whose letters and speeches exposed the moral contradictions of American slavery with unsparing clarity.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Douglass",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Frederick_Douglass"
+  },
+  "friedrich-kapp": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Kapp",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Friedrich_Kapp"
+  },
+  "friedrich-nietzsche": {
+    "dates": "1844–1900",
+    "bio": "German philologist and philosopher appointed professor at Basel at twenty-four. His years beside Wagner shaped his early aesthetic philosophy; his break from Wagner liberated his mature work.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Friedrich_Nietzsche"
+  },
+  "fyodor-dostoevsky": {
+    "dates": "1821–1881",
+    "bio": "Russian novelist and journalist whose imprisonment in Siberia reshaped both his politics and his fiction. His letters are urgent, feverish, and candid about money, epilepsy, faith, and writing under deadline.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Fyodor_Mikhailovich_Dostoevsky"
+  },
+  "george-sand": {
+    "dates": "1804–1876",
+    "bio": "Pen name of Amantine Lucile Aurore Dupin—French novelist, memoirist, and republican—whom Flaubert addressed tenderly as ‘Chère Maître’ (‘Dear Master’).",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Sand",
+    "wikisource": "https://en.wikisource.org/wiki/Author:George_Sand"
+  },
+  "george-washington": {
+    "dates": "1732–1799",
+    "bio": "Commander of the Continental Army and first President of the United States, whose correspondence defined the early precedents of republican civic restraint.",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Washington",
+    "wikisource": "https://en.wikisource.org/wiki/Author:George_Washington"
+  },
+  "gustave-flaubert": {
+    "dates": "1821–1880",
+    "bio": "Author of Madame Bovary and Sentimental Education, whose letters to Sand contain his clearest, funniest, and most moving reflections on literary craft, solitude, and the Franco-Prussian War.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gustave_Flaubert",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Gustave_Flaubert"
+  },
+  "h-l-mencken": {
+    "dates": "1880–1956",
+    "bio": "American critic and journalist whose 1921 introduction frames the correspondence with characteristic irreverence.",
+    "wikipedia": "https://en.wikipedia.org/wiki/H._L._Mencken",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Henry_Louis_Mencken"
+  },
+  "harihar-das": {
+    "dates": "1892–1951",
+    "bio": "Bengali historian and biographer who tracked down Toru Dutt’s correspondence with Mary Martin and Clarisse Bader in England and France to assemble this 1921 volume."
+  },
+  "helen-keller": {
+    "dates": "1880–1968",
+    "bio": "American author, lecturer, and disability-rights advocate—deafblind from infancy—whose letters and essays argued fiercely for education, labour rights, and political equality.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helen_Keller",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Helen_Adams_Keller"
+  },
+  "henri-bergson": {
+    "dates": "1859–1941",
+    "bio": "French philosopher of time, memory, and intuition, awarded the 1927 Nobel Prize in Literature.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Bergson",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Henri-Louis_Bergson"
+  },
+  "henry-david-thoreau": {
+    "dates": "1817–1862",
+    "bio": "American naturalist, essayist, and transcendentalist of Concord, Massachusetts—author of Walden and ‘Civil Disobedience’.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_David_Thoreau",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Henry_David_Thoreau"
+  },
+  "hernan-cortes": {
+    "dates": "1485–1547",
+    "bio": "Spanish conquistador who led the expedition that brought down the Aztec Empire between 1519 and 1521. His five dispatches to Charles V became the foundational European narrative of the conquest of Mexico.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Hern%C3%A1n_Cort%C3%A9s"
+  },
+  "hugh-s-r-elliot": {
+    "dates": "1881–1930",
+    "bio": "English scientific writer and editor chosen by Mill’s literary executrix to assemble the first major edition of Mill’s correspondence.",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Hugh_Samuel_Roger_Elliot"
+  },
+  "j-middleton-murry": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Middleton_Murry",
+    "wikisource": "https://en.wikisource.org/wiki/Author:John_Middleton_Murry"
+  },
+  "jamshedji-hormasji-bilimoriya": {
+    "dates": "fl. 1908",
+    "bio": "Parsi scholar and translator whose 1908 English rendering of the Ruq‘at-i-Alamgiri remains the most widely cited English text of Aurangzeb’s letters.",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Jamshedji_Hormasji_Bilimoriya"
+  },
+  "jane-austen": {
+    "dates": "1775–1817",
+    "bio": "English novelist whose surviving letters—most of them written to her sister Cassandra—are brisk, ironic, observant, and full of country balls, money, and family news.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Austen",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Jane_Austen"
+  },
+  "jawaharlal-nehru": {
+    "dates": "1889–1964",
+    "bio": "Indian independence leader, writer, and the first Prime Minister of independent India. Separated from his daughter by politics and prison, he turned letters into a portable classroom.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Jawaharlal_Nehru"
+  },
+  "john-adams": {
+    "dates": "1735–1826",
+    "bio": "American Founding Father and second President of the United States, whose lifelong letters to Abigail Adams and late-life exchange with Thomas Jefferson rank among the finest in American history.",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Adams",
+    "wikisource": "https://en.wikisource.org/wiki/Author:John_Adams_(1735-1826)"
+  },
+  "john-keats": {
+    "dates": "1795–1821",
+    "bio": "English Romantic poet who died in Rome at twenty-five. Written at breakneck speed to his brothers, friends, and Fanny Brawne, his letters—where he coined ‘Negative Capability’—are among the most luminous in the language.",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Keats",
+    "wikisource": "https://en.wikisource.org/wiki/Author:John_Keats"
+  },
+  "john-maynard-keynes": {
+    "dates": "1883–1946",
+    "bio": "British economist and Bloomsbury writer whose public letters and essays reshaped twentieth-century macroeconomics and monetary policy.",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Maynard_Keynes",
+    "wikisource": "https://en.wikisource.org/wiki/Author:John_Maynard_Keynes"
+  },
+  "john-stuart-mill": {
+    "dates": "1806–1873",
+    "bio": "English philosopher, political economist, and Member of Parliament whose essays On Liberty and The Subjection of Women became cornerstones of modern liberal thought.",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Stuart_Mill",
+    "wikisource": "https://en.wikisource.org/wiki/Author:John_Stuart_Mill"
+  },
+  "joseph-dalton-hooker": {
+    "dates": "1817–1911",
+    "bio": "British botanist, explorer, and Director of the Royal Botanic Gardens, Kew. One of Charles Darwin’s closest friends and earliest scientific allies, he introduced dozens of Himalayan rhododendrons to Britain.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Dalton_Hooker",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Joseph_Dalton_Hooker"
+  },
+  "karl-marx": {
+    "dates": "1818–1883",
+    "bio": "German philosopher, historian, and political economist whose correspondence and pamphlets shaped modern socialist thought.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Marx",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Karl_Marx"
+  },
+  "lajpat-rai": {
+    "dates": "1865–1928",
+    "bio": "Punjabi writer, lawyer, and Indian nationalist leader—known as Punjab Kesari—who wrote widely on Indian self-rule and education.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lala_Lajpat_Rai",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Lala_Lajpat_Rai"
+  },
+  "leo-tolstoy": {
+    "dates": "1828–1910",
+    "bio": "Russian novelist—author of War and Peace and Anna Karenina—whose late moral essays and open letters turned Yasnaya Polyana into a beacon for pacifists and reformers worldwide.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Lev_Nikolayevich_Tolstoy"
+  },
+  "lucius-annaeus-seneca": {
+    "dates": "c. 4 BC–AD 65",
+    "bio": "Roman Stoic philosopher, dramatist, and statesman whose Moral Letters to Lucilius invented the philosophical essay in epistolary form.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Seneca"
+  },
+  "ludwig-van-beethoven": {
+    "dates": "1770–1827",
+    "bio": "German composer whose Heiligenstadt Testament and letters reveal the private anguish of his encroaching deafness alongside fierce artistic resolve.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Ludwig_van_Beethoven"
+  },
+  "m-k-gandhi": {
+    "dates": "1869–1948",
+    "bio": "Lawyer, writer, and leader of the Indian independence movement. A relentless correspondent, he wrote thousands of letters by hand—often before dawn—treating personal letters as an instrument of moral instruction and friendship.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Mohandas_Karamchand_Gandhi"
+  },
+  "mark-twain": {
+    "dates": "1835–1910",
+    "bio": "Pen name of Samuel Langhorne Clemens—American novelist, satirist, and inveterate letter-writer whose private notes are as sharp and irreverent as his books.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Twain",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Samuel_Langhorne_Clemens"
+  },
+  "martin-luther-king-jr": {
+    "dates": "1929–1968",
+    "bio": "American Baptist minister and civil-rights leader whose 1963 ‘Letter from Birmingham Jail’ stands as one of the great public letters of the twentieth century.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Martin_Luther_King"
+  },
+  "mary-newton-stanard": {
+    "dates": "1865–1929",
+    "bio": "Virginia historian and Poe biographer who edited the Valentine Museum manuscripts and supplied the historical commentary connecting them.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Newton_Stanard"
+  },
+  "meriwether-lewis": {
+    "dates": "1774–1809",
+    "bio": "American explorer and soldier who co-led the Lewis and Clark Expedition to the Pacific and reported its progress directly to Thomas Jefferson.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Meriwether_Lewis",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Meriwether_Lewis"
+  },
+  "michael-faraday": {
+    "dates": "1791–1867",
+    "bio": "Self-taught English experimentalist at the Royal Institution whose discoveries of electromagnetic induction and benzene laid the foundations of modern electrical engineering and chemistry.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Faraday",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Michael_Faraday"
+  },
+  "mountstuart-elphinstone-grant-duff": {
+    "dates": "1829–1906",
+    "bio": "Scottish Liberal politician, Governor of Madras (1881–1886), and diarist who wrote the historical introduction to this 1892 edition.",
+    "wikipedia": "https://en.wikipedia.org/wiki/M._E._Grant_Duff",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Mountstuart_Elphinstone_Grant_Duff"
+  },
+  "napoleon-bonaparte": {
+    "dates": "1769–1821",
+    "bio": "French military commander and Emperor whose dictations and letters—over thirty thousand survive—combine clipped command with melodramatic private passion.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Napoleon",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Napoleon_Bonaparte"
+  },
+  "oscar-wilde": {
+    "dates": "1854–1900",
+    "bio": "Irish poet, playwright, and wit whose letters move from sparkling London epigrams to the anguished self-reckoning of De Profundis, written in Reading Gaol.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Oscar_O'Flahertie_Wills_Wilde"
+  },
+  "paul-meurice": {
+    "dates": "1818–1905",
+    "bio": "French playwright, journalist, and devoted friend of Hugo who acted as his Paris agent during his nineteen years of exile and later edited his correspondence.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Meurice",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Fran%C3%A7ois_Paul_Meurice"
+  },
+  "prosper-faugere": {
+    "dates": "1810–1887",
+    "bio": "French archivist and literary scholar whose 1844 manuscript edition rescued Pascal’s writings from two centuries of cautious editorial smoothing.",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Armand-Prosper_Faug%C3%A8re"
+  },
+  "rabindranath-tagore": {
+    "dates": "1861–1941",
+    "bio": "Bengali poet, songwriter, novelist, painter, and educator—the first non-European Nobel laureate in Literature (1913)—whose Padma letters (Chhinnapatra) are among the finest prose in modern Indian literature.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Rabindranath_Tagore"
+  },
+  "ralph-waldo-emerson": {
+    "dates": "1803–1882",
+    "bio": "American essayist, lecturer, and poet at the centre of New England Transcendentalism, whose encouraging 1855 letter greeted Walt Whitman ‘at the beginning of a great career’.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Ralph_Waldo_Emerson"
+  },
+  "richard-wagner": {
+    "dates": "1813–1883",
+    "bio": "German composer, dramatist, and theorist of the Gesamtkunstwerk who saw in the brilliant young Nietzsche a champion for his Bayreuth festival.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Wagner",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Richard_Wagner"
+  },
+  "robert-schumann": {
+    "dates": "1810–1856",
+    "bio": "German Romantic composer and music critic whose poetic sensibility made him as vivid a letter-writer as a composer of piano cycles and Lieder.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Schumann",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Robert_Schumann"
+  },
+  "s-g-tallentyre": {
+    "dates": "1868–1956",
+    "bio": "English biographer of Voltaire—famous for coining the summary ‘I disapprove of what you say, but I will defend to the death your right to say it’—who translated and introduced this selection.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Evelyn_Beatrice_Hall"
+  },
+  "s-s-koteliansky": {
+    "dates": "1880–1955 / 1889–1957",
+    "bio": "Ukrainian-born translator and English critic who collaborated across the 1920s to bring Russian letters, notebooks, and memoirs into English.",
+    "wikipedia": "https://en.wikipedia.org/wiki/S._S._Koteliansky",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Samuel_Solomonovich_Koteliansky"
+  },
+  "sarojini-naidu": {
+    "dates": "1879–1949",
+    "bio": "Indian poet, independence leader, and first woman Governor of an Indian state, known for her lively correspondence with Gandhi, Nehru, and Tagore.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarojini_Naidu",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Sarojini_Naidu"
+  },
+  "sharpless-dobson-green": {
+    "dates": "fl. 1925",
+    "bio": "English teacher at Trenton Senior High School who conceived the correspondence project as a practical lesson in letter-writing and civic curiosity."
+  },
+  "sir-isaac-newton": {
+    "dates": "1642–1727",
+    "bio": "English mathematician, physicist, and natural philosopher whose Principia Mathematica (1687) unified terrestrial and celestial mechanics. He rarely discussed the theological implications of his work as plainly as he does here.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Newton",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Isaac_Newton"
+  },
+  "sister-nivedita": {
+    "dates": "1867–1911",
+    "bio": "Born Margaret Elizabeth Noble in Ireland; educator, writer, and disciple of Swami Vivekananda who founded a girls’ school in Calcutta and championed Indian art and nationalism.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sister_Nivedita",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Nivedita"
+  },
+  "sullivan-ballou": {
+    "dates": "1829–1861",
+    "bio": "Rhode Island lawyer and Union Army major killed at the First Battle of Bull Run, remembered for the devastating love letter he wrote to his wife Sarah a week before the battle.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sullivan_Ballou",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Sullivan_Ballou"
+  },
+  "swami-vivekananda": {
+    "dates": "1863–1902",
+    "bio": "Born Narendranath Datta in Calcutta; chief disciple of Sri Ramakrishna, philosopher of Vedanta, and founder of the Ramakrishna Math and Mission. He died at thirty-nine, leaving behind a fiercely energetic body of letters.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Swami_Vivekananda",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Vivekananda"
+  },
+  "theodore-roosevelt": {
+    "dates": "1858–1919",
+    "bio": "Twenty-sixth President of the United States, naturalist, and historian, whose energetic letters to his children and friends span politics, books, and wilderness.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Theodore_Roosevelt"
+  },
+  "thomas-duer-broughton": {
+    "dates": "1778–1835",
+    "bio": "East India Company officer and Persian scholar who served at Seringapatam before joining the Residency at Sindhia’s court. He also published early English translations of Hindustani poetry.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Duer_Broughton",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Thomas_Duer_Broughton"
+  },
+  "thomas-jefferson": {
+    "dates": "1743–1826",
+    "bio": "Author of the Declaration of Independence and third President of the United States, whose reconciliation correspondence with John Adams in old age ranges across books, religion, and the American experiment.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Thomas_Jefferson"
+  },
+  "tipu-sultan": {
+    "dates": "1751–1799",
+    "bio": "Ruler of the Kingdom of Mysore from 1782 until his death defending Seringapatam in 1799. Known for his rocketry, state-run trade, and relentless resistance to East India Company expansion.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tipu_Sultan"
+  },
+  "toru-dutt": {
+    "dates": "1856–1877",
+    "bio": "Bengali poet, novelist, and translator who mastered French and English in Europe before returning to Calcutta to study Sanskrit and write Ancient Ballads and Legends of Hindustan. Her letters preserve a remarkably fresh, spirited nineteenth-century Indian voice.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toru_Dutt",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Toru_Dutt"
+  },
+  "victor-hugo": {
+    "dates": "1802–1885",
+    "bio": "French poet, dramatist, and novelist—author of Notre-Dame de Paris and Les Misérables—who stood at the centre of French Romanticism and nineteenth-century republican politics.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Hugo",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Victor_Hugo"
+  },
+  "vincent-van-gogh": {
+    "dates": "1853–1890",
+    "bio": "Dutch painter whose hundreds of letters—chiefly to his brother Theo—form one of the deepest, most honest records of artistic labour ever written.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Vincent_van_Gogh"
+  },
+  "voltaire": {
+    "dates": "1694–1778",
+    "bio": "Born François-Marie Arouet; French Enlightenment writer, historian, and satirist whose letters—fast, lethal, and endlessly curious—were Europe’s informal newspaper for half a century.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Voltaire",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Voltaire"
+  },
+  "w-e-b-du-bois": {
+    "dates": "1868–1963",
+    "bio": "American sociologist, historian, and civil-rights leader—author of The Souls of Black Folk—whose international correspondence reached thinkers from B. R. Ambedkar to anti-colonial leaders worldwide.",
+    "wikipedia": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois",
+    "wikisource": "https://en.wikisource.org/wiki/Author:William_Edward_Burghardt_Du_Bois"
+  },
+  "walt-whitman": {
+    "dates": "1819–1892",
+    "bio": "American poet of Leaves of Grass, journalist, and Civil War hospital volunteer whose letters and open prefaces celebrate democratic speech.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walt_Whitman",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Walt_Whitman"
+  },
+  "william-foster": {
+    "dates": "1863–1951",
+    "bio": "Historiographer to the India Office and editor of Volumes II–VI of Letters Received, as well as the later English Factories in India series."
+  },
+  "william-james": {
+    "dates": "1842–1910",
+    "bio": "American philosopher and psychologist—author of The Principles of Psychology and The Varieties of Religious Experience—and one of the most conversational minds in American letters.",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_James",
+    "wikisource": "https://en.wikisource.org/wiki/Author:William_James_(1842-1910)"
+  },
+  "william-kirkpatrick": {
+    "dates": "1754–1812",
+    "bio": "East India Company officer, Persian scholar, and secretary to Lord Wellesley who examined the captured Mysore archives and translated this selection in 1811."
+  }
+}

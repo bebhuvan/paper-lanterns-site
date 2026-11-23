@@ -40,17 +40,23 @@
   {{- $raw := .Params.excerpt | default .Params.context | default (.Summary | plainify) -}}
   {{- $desc = $raw | plainify | replaceRE `\s+` " " | strings.TrimSpace | truncate 160 -}}
 {{- else if and (not $desc) .IsPage (eq .Section "people") -}}
-  {{- $vols := len (.Params.credits | default slice) -}}
-  {{- $cur := len (.Params.curated | default slice) -}}
-  {{- $lt := 0 -}}{{- range $k, $v := (.Params.letters | default dict) }}{{ $lt = add $lt (int $v) }}{{ end -}}
-  {{- $parts := slice -}}
-  {{- if gt $vols 0 }}{{ $parts = $parts | append (printf "%d %s" $vols (cond (eq $vols 1) "volume" "volumes")) }}{{ end -}}
-  {{- if gt $lt 0 }}{{ $parts = $parts | append (printf "%d letters" $lt) }}{{ end -}}
-  {{- if gt $cur 0 }}{{ $parts = $parts | append (printf "%d hand-curated %s" $cur (cond (eq $cur 1) "work" "works")) }}{{ end -}}
-  {{- if gt (len $parts) 0 -}}
-    {{- $desc = printf "Read %s on Paper Lanterns: %s, set beside original printed scans and free to read and download." .Title (delimit $parts ", " " and ") -}}
+  {{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
+  {{- $pNote := index (index site.Data "people-notes" | default dict) $slug | default dict -}}
+  {{- if $pNote.bio -}}
+    {{- $desc = $pNote.bio | truncate 160 -}}
   {{- else -}}
-    {{- $desc = printf "Letters and archival editions associated with %s on Paper Lanterns." .Title -}}
+    {{- $vols := len (.Params.credits | default slice) -}}
+    {{- $cur := len (.Params.curated | default slice) -}}
+    {{- $lt := 0 -}}{{- range $k, $v := (.Params.letters | default dict) }}{{ $lt = add $lt (int $v) }}{{ end -}}
+    {{- $parts := slice -}}
+    {{- if gt $vols 0 }}{{ $parts = $parts | append (printf "%d %s" $vols (cond (eq $vols 1) "volume" "volumes")) }}{{ end -}}
+    {{- if gt $lt 0 }}{{ $parts = $parts | append (printf "%d letters" $lt) }}{{ end -}}
+    {{- if gt $cur 0 }}{{ $parts = $parts | append (printf "%d hand-curated %s" $cur (cond (eq $cur 1) "work" "works")) }}{{ end -}}
+    {{- if gt (len $parts) 0 -}}
+      {{- $desc = printf "Read %s on Paper Lanterns: %s, set beside original printed scans and free to read and download." .Title (delimit $parts ", " " and ") -}}
+    {{- else -}}
+      {{- $desc = printf "Letters and archival editions associated with %s on Paper Lanterns." .Title -}}
+    {{- end -}}
   {{- end -}}
 {{- else if and (not $desc) .IsPage (eq .Section "explore") -}}
   {{- $bnames := slice -}}

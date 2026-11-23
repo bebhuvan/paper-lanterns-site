@@ -104,9 +104,15 @@
   {{- with .Params.source_url }}{{ $out = merge $out (dict "isBasedOn" .) }}{{ end -}}
 {{- else if and .IsPage (eq .Section "people") -}}
   {{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
+  {{- $pNote := index (index site.Data "people-notes" | default dict) $slug | default dict -}}
   {{- $person := dict "@type" "Person" "name" .Title "url" .Permalink -}}
   {{- with .Params.also }}{{ $person = merge $person (dict "alternateName" .) }}{{ end -}}
-  {{- with index $wd $slug }}{{ $person = merge $person (dict "sameAs" .) }}{{ end -}}
+  {{- with $pNote.bio }}{{ $person = merge $person (dict "description" .) }}{{ end -}}
+  {{- $same := slice -}}
+  {{- with index $wd $slug }}{{ $same = $same | append . }}{{ end -}}
+  {{- with $pNote.wikipedia }}{{ $same = $same | append . }}{{ end -}}
+  {{- with $pNote.wikisource }}{{ $same = $same | append . }}{{ end -}}
+  {{- if eq (len $same) 1 }}{{ $person = merge $person (dict "sameAs" (index $same 0)) }}{{ else if gt (len $same) 1 }}{{ $person = merge $person (dict "sameAs" $same) }}{{ end -}}
   {{- $out = dict
     "@context" "https://schema.org"
     "@type" "ProfilePage"

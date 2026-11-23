@@ -412,5 +412,29 @@ class SecurityPolicyTests(unittest.TestCase):
         )
 
 
+class EditorialNotesTests(unittest.TestCase):
+    def test_book_and_people_notes_reference_valid_ids_and_https_links(self) -> None:
+        root = Path(__file__).resolve().parents[1]
+        books = {p.parent.name for p in (root / "content" / "collections").glob("*/_index.md")}
+        people = {p["slug"] for p in json.loads((root / "data" / "people.json").read_text(encoding="utf-8"))}
+        bnotes = json.loads((root / "data" / "book-notes.json").read_text(encoding="utf-8"))
+        pnotes = json.loads((root / "data" / "people-notes.json").read_text(encoding="utf-8"))
+        self.assertEqual(set(bnotes), books)
+        for bid, entry in bnotes.items():
+            self.assertTrue(entry.get("book"), f"{bid}: missing book prose")
+            for rel in entry.get("related", []):
+                self.assertIn(rel, books, f"{bid}: unknown related book {rel}")
+            for person in entry.get("people", []):
+                if "slug" in person:
+                    self.assertIn(person["slug"], people, f"{bid}: unknown person slug {person['slug']}")
+            for link in entry.get("links", []):
+                self.assertTrue(link["url"].startswith("https://"), f"{bid}: non-https link {link['url']}")
+        for slug, entry in pnotes.items():
+            self.assertIn(slug, people, f"unknown slug in people-notes.json: {slug}")
+            for key in ("wikipedia", "wikisource"):
+                if key in entry:
+                    self.assertTrue(entry[key].startswith("https://"), f"{slug}: non-https {key}")
+
+
 if __name__ == "__main__":
     unittest.main()
