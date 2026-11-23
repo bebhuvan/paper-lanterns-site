@@ -16,6 +16,7 @@ import addresses  # noqa: E402
 import build_indexes  # noqa: E402
 import import_legacy  # noqa: E402
 import check_site  # noqa: E402
+import ping_indexnow  # noqa: E402
 import sync_from_pipeline as sync  # noqa: E402
 
 CSP = "default-src 'none'; img-src 'self' https://archive.org"
@@ -155,6 +156,43 @@ class CheckSiteTests(unittest.TestCase):
             (public / "_headers").write_text("/*\n  Content-Security-Policy: default-src *\n", encoding="utf-8")
             found = check_site.check_site(public, Path(tmp) / "hugo.toml")
         self.assertTrue(any("_headers CSP" in p for p in found), found)
+
+    def test_discovery_checks_robots_sitemap_and_llms(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            public = write_site(Path(tmp), GOOD)
+            (public / "robots.txt").write_text("User-agent: *\n", encoding="utf-8")
+            (public / "sitemap.xml").write_text(
+                '<?xml version="1.0"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+                "<url><loc>https://paperlanterns.ink/search/</loc></url></urlset>",
+                encoding="utf-8",
+            )
+            (public / "llms.txt").write_text("empty\n", encoding="utf-8")
+            (public / "cmif.xml").write_text("<TEI/>", encoding="utf-8")
+            (public / ".well-known").mkdir()
+            (public / ".well-known" / "tdmrep.json").write_text("{bad", encoding="utf-8")
+            found = "\n".join(check_site.check_discovery(public))
+            self.assertIn("Sitemap:", found)
+            self.assertIn("/search/", found)
+            self.assertIn("Paper Lanterns heading", found)
+            self.assertIn("<correspDesc>", found)
+            self.assertIn("tdmrep.json", found)
+
+
+class IndexNowTests(unittest.TestCase):
+    def test_reads_sitemap_and_builds_payload(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            sm = Path(tmp) / "sitemap.xml"
+            sm.write_text(
+                '<?xml version="1.0"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+                "<url><loc>https://paperlanterns.ink/</loc></url>"
+                "<url><loc>https://paperlanterns.ink/collections/</loc></url></urlset>",
+                encoding="utf-8",
+            )
+            urls = ping_indexnow.urls_from_sitemap(sm)
+            self.assertEqual(urls, ["https://paperlanterns.ink/", "https://paperlanterns.ink/collections/"])
+            payload = ping_indexnow.build_payload("paperlanterns.ink", "abc123", urls)
+            self.assertEqual(payload["keyLocation"], "https://paperlanterns.ink/abc123.txt")
+            self.assertEqual(payload["urlList"], urls)
 
 
 def make_pipeline(root: Path, *, tamper: bool = False) -> Path:

@@ -1,0 +1,67 @@
+{{- /* TEI P5 Correspondence Metadata Interchange Format (CMIF) for correspSearch.net and digital humanities aggregators. */ -}}
+{{- $books := sort (partial "books.html" .) "Params.book_id" -}}
+{{- $wd := site.Data.wikidata | default dict -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" | safeHTML }}
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Paper Lanterns — Correspondence Metadata Interchange Format (CMIF)</title>
+        <editor>Paper Lanterns (https://paperlanterns.ink/)</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ref target="https://paperlanterns.ink/">Paper Lanterns</ref>
+        </publisher>
+        <idno type="url">{{ "cmif.xml" | absURL }}</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        {{- range $books }}
+        <bibl type="online" xml:id="{{ .Params.book_id | transform.XMLEscape | safeHTML }}">{{ .Title | transform.XMLEscape | safeHTML }}{{ with .Params.subtitle }}, {{ . | transform.XMLEscape | safeHTML }}{{ end }}{{ with .Params.year }} ({{ int . }}){{ end }}. Paper Lanterns edition: <ref target="{{ .Permalink }}">{{ .Permalink }}</ref></bibl>
+        {{- end }}
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      {{- range $books -}}
+        {{- $book := . -}}
+        {{- range (where $book.RegularPages "Params.layout" "letter").ByWeight -}}
+          {{- $sName := .Params.sender_full | default .Params.sender -}}
+          {{- $rName := .Params.recipient_full | default .Params.recipient -}}
+          {{- $sSlug := partial "person-slug.html" $sName -}}
+          {{- $rSlug := partial "person-slug.html" $rName -}}
+          {{- $sRef := "" -}}{{- if $sSlug }}{{ $sRef = index $wd $sSlug | default "" }}{{ end -}}
+          {{- $rRef := "" -}}{{- if $rSlug }}{{ $rRef = index $wd $rSlug | default "" }}{{ end -}}
+          {{- $iso := .Params.letter_date.iso | default "" -}}
+      <correspDesc ref="{{ .Permalink }}" source="#{{ $book.Params.book_id | transform.XMLEscape | safeHTML }}">
+        {{- if or $sName .Params.place $iso }}
+        <correspAction type="sent">
+          {{- with $sName }}
+          <persName{{ with $sRef }} ref="{{ . }}"{{ end }}>{{ . | transform.XMLEscape | safeHTML }}</persName>
+          {{- end }}
+          {{- with .Params.place }}
+          <placeName>{{ . | transform.XMLEscape | safeHTML }}</placeName>
+          {{- end }}
+          {{- with $iso }}
+          <date when="{{ . | transform.XMLEscape | safeHTML }}"/>
+          {{- end }}
+        </correspAction>
+        {{- end }}
+        {{- with $rName }}
+        <correspAction type="received">
+          <persName{{ with $rRef }} ref="{{ . }}"{{ end }}>{{ . | transform.XMLEscape | safeHTML }}</persName>
+        </correspAction>
+        {{- end }}
+      </correspDesc>
+        {{- end -}}
+      {{- end }}
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Correspondence metadata index for Paper Lanterns (https://paperlanterns.ink/).</p>
+    </body>
+  </text>
+</TEI>

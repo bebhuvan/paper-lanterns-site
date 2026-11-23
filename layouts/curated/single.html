@@ -15,7 +15,7 @@
 <p class="kicker-heading" data-pagefind-ignore><a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a>{{ with $date.display }} · {{ . }}{{ end }}</p>
 <div class="pair" data-pagefind-ignore><span>{{ .Params.author.name }}</span>{{ with .Params.recipient }}<span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ . }}</span>{{ end }}</div>
 <h1>{{ .Title }}</h1>
-<div class="meta" data-pagefind-ignore>{{ with $date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.location }}<span>{{ . }}</span>{{ end }}{{ with .Params.occasion }}<span>{{ . }}</span>{{ end }}{{ with .Params.institution }}<span>{{ . }}</span>{{ end }}</div>
+<div class="meta" data-pagefind-ignore>{{ with $date.short }}<time class="mono"{{ with $date.year }} datetime="{{ . }}"{{ end }}>{{ . }}</time>{{ end }}{{ with .Params.location }}<span>{{ . }}</span>{{ end }}{{ with .Params.occasion }}<span>{{ . }}</span>{{ end }}{{ with .Params.institution }}<span>{{ . }}</span>{{ end }}</div>
 <div class="text prose">
 {{ .Content }}
 {{- with .Params.signature }}<p class="t-signature a-right">{{ . }}</p>{{ end }}
@@ -40,7 +40,7 @@
 {{- with .Params.context }}<div><dt>Context</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
 {{- with $about.context }}{{ if ne . $p.Params.context }}<div><dt>Background</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}{{ end }}
 {{- with $about.significance }}<div><dt>Why it matters</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
-{{- with ($about.author_bio | default .Params.author.bio | default .Params.author.description) }}<div><dt>{{ $p.Params.author.name }}{{ with $p.Params.author.birth_year }} ({{ . }}{{ with $p.Params.author.death_year }}–{{ . }}{{ end }}){{ end }}</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
+{{- with ($about.author_bio | default .Params.author.bio | default .Params.author.description) }}{{ $aSlug := partial "person-slug.html" $p.Params.author.name }}<div><dt>{{ if $aSlug }}<a class="u" href="{{ printf "/people/%s/" $aSlug | relURL }}">{{ $p.Params.author.name }}</a>{{ else }}{{ $p.Params.author.name }}{{ end }}{{ with $p.Params.author.birth_year }} ({{ . }}{{ with $p.Params.author.death_year }}–{{ . }}{{ end }}){{ end }}</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
 {{- with $about.recipient_info }}<div><dt>{{ $p.Params.recipient | default "The recipient" }}</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
 {{- range $k := slice "occasion_info" "series_info" "publication_info" }}{{ with index $about $k }}<div><dt>{{ humanize (replace $k "_info" "") }}</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}{{ end }}
 </dl>
@@ -53,6 +53,7 @@
 </dl>
 </div>
 </section>
+{{ partial "coins.html" . }}
 </div>
 </main>
 {{ partial "footer.html" . }}

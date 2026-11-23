@@ -1,0 +1,51 @@
+{{- /* JSON Feed 1.1 (https://www.jsonfeed.org/version/1.1/) covering collections, journal posts, and hand-curated works. */ -}}
+{{- $items := slice -}}
+{{- with site.GetPage "/journal" -}}
+  {{- range .RegularPages.ByDate.Reverse -}}
+    {{- $items = $items | append (dict
+      "id" .Permalink
+      "url" .Permalink
+      "title" .Title
+      "summary" (.Description | default .Params.subtitle | default "")
+      "date_published" (.Date.Format "2006-01-02T15:04:05Z07:00")
+      "authors" (cond (ne (.Params.author | default "") "") (slice (dict "name" .Params.author)) slice)
+      "tags" (slice "journal")
+    ) -}}
+  {{- end -}}
+{{- end -}}
+{{- range sort (partial "books.html" .) "Params.provenance.compiled_at" "desc" -}}
+  {{- $b := . -}}
+  {{- $sub := "" -}}{{- with .Params.subtitle }}{{ $sub = printf " %s." . }}{{ end -}}
+  {{- $entry := dict
+    "id" .Permalink
+    "url" .Permalink
+    "title" .Title
+    "summary" (printf "%s.%s %d public-domain letters, set beside original printed scans." .Title $sub (int .Params.counts.letters))
+    "tags" (slice "collection" (.Params.collection | default "letters"))
+  -}}
+  {{- with .Params.provenance.compiled_at }}{{ $entry = merge $entry (dict "date_published" .) }}{{ end -}}
+  {{- with .Params.default_sender }}{{ $entry = merge $entry (dict "authors" (slice (dict "name" .))) }}{{ end -}}
+  {{- $items = $items | append $entry -}}
+{{- end -}}
+{{- range partial "curated-items.html" . -}}
+  {{- $entry := dict
+    "id" .Permalink
+    "url" .Permalink
+    "title" .Title
+    "summary" ((.Params.excerpt | default .Params.context | default "") | plainify | truncate 200)
+    "tags" (slice (.Params.form | default "letter"))
+  -}}
+  {{- with .Params.author.name }}{{ $entry = merge $entry (dict "authors" (slice (dict "name" .))) }}{{ end -}}
+  {{- $items = $items | append $entry -}}
+{{- end -}}
+{{- $feed := dict
+  "version" "https://jsonfeed.org/version/1.1"
+  "title" site.Title
+  "home_page_url" site.Home.Permalink
+  "feed_url" ("feed.json" | absURL)
+  "description" site.Params.description
+  "language" "en"
+  "icon" ("card.png" | absURL)
+  "items" $items
+-}}
+{{- $feed | jsonify (dict "indent" "  ") }}

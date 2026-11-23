@@ -38,9 +38,36 @@ enableRobotsTXT = true
 [mediaTypes."text/cfheaders"]
   delimiter = ""
 
+[mediaTypes."text/llms"]
+  suffixes = ["txt"]
+
 [outputFormats.headers]
   mediaType = "text/cfheaders"
   baseName = "_headers"
+  isPlainText = true
+  notAlternative = true
+
+[outputFormats.llmstxt]
+  mediaType = "text/llms"
+  baseName = "llms"
+  isPlainText = true
+  notAlternative = true
+
+[outputFormats.catalog]
+  mediaType = "application/json"
+  baseName = "catalog"
+  isPlainText = true
+  notAlternative = true
+
+[outputFormats.jsonfeed]
+  mediaType = "application/json"
+  baseName = "feed"
+  isPlainText = true
+  notAlternative = true
+
+[outputFormats.cmif]
+  mediaType = "application/xml"
+  baseName = "cmif"
   isPlainText = true
   notAlternative = true
 
@@ -70,7 +97,7 @@ enableRobotsTXT = true
   notAlternative = true
 
 [outputs]
-  home = ["HTML", "headers", "RSS", "searchdata", "randomcontent", "ogcard"]
+  home = ["HTML", "headers", "RSS", "searchdata", "randomcontent", "ogcard", "llmstxt", "catalog", "jsonfeed", "cmif"]
   section = ["HTML"]
   page = ["HTML"]
 

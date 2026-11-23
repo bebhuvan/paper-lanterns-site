@@ -12,3 +12,5 @@ __pycache__/
 dist/
 # Share cards drawn by scripts/og_cards.mjs, cached between builds
 /.cache/
+# Private SEO & GEO/AEO optimization playbook (intentionally untracked)
+SEO_GEO_PLAYBOOK.md

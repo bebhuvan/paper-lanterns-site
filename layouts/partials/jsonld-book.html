@@ -1,12 +1,57 @@
-{{- /* schema.org Book for an edition page. */ -}}
+{{- /* schema.org Book for an edition page, enriched with Wikidata sameAs, MediaObject encodings, share card image, and Internet Archive provenance. */ -}}
 {{- $b := . -}}
-{{- $out := dict "@context" "https://schema.org" "@type" "Book" "name" $b.Title "url" $b.Permalink "inLanguage" ($b.Params.language | default "en") "license" "https://creativecommons.org/licenses/by/4.0/" "isAccessibleForFree" true "numberOfPages" $b.Params.counts.pages -}}
+{{- $wd := site.Data.wikidata | default dict -}}
+{{- $card := printf "%s%s" $b.Permalink (partial "og/file.html" $b) -}}
+{{- $pub := dict "@type" "Organization" "name" "Paper Lanterns" "url" site.Home.Permalink -}}
+{{- $out := dict
+  "@context" "https://schema.org"
+  "@type" "Book"
+  "@id" (printf "%s#book" $b.Permalink)
+  "name" $b.Title
+  "url" $b.Permalink
+  "image" $card
+  "inLanguage" ($b.Params.language | default "en")
+  "license" "https://creativecommons.org/licenses/by/4.0/"
+  "isAccessibleForFree" true
+  "bookEdition" "Paper Lanterns diplomatic digital edition"
+  "numberOfPages" (int $b.Params.counts.pages)
+  "publisher" $pub
+-}}
+{{- with $b.Params.subtitle }}{{ $out = merge $out (dict "alternativeHeadline" .) }}{{ end -}}
 {{- with $b.Params.year }}{{ $out = merge $out (dict "datePublished" (printf "%d" (int .))) }}{{ end -}}
-{{- with $b.Params.default_sender }}{{ $out = merge $out (dict "author" (dict "@type" "Person" "name" .)) }}{{ end -}}
-{{- with $b.Params.publisher }}{{ $out = merge $out (dict "publisher" (dict "@type" "Organization" "name" .)) }}{{ end -}}
-{{- with $b.Params.translators -}}
-{{- $t := slice -}}{{- range . }}{{ $t = $t | append (dict "@type" "Person" "name" .) }}{{ end -}}
-{{- $out = merge $out (dict "translator" $t) -}}
+{{- with $b.Params.default_sender -}}
+  {{- $p := dict "@type" "Person" "name" . -}}
+  {{- $slug := partial "person-slug.html" . -}}
+  {{- if $slug -}}
+    {{- $p = merge $p (dict "url" (printf "%speople/%s/" site.Home.Permalink $slug)) -}}
+    {{- with index $wd $slug }}{{ $p = merge $p (dict "sameAs" .) }}{{ end -}}
+  {{- end -}}
+  {{- $out = merge $out (dict "author" $p) -}}
 {{- end -}}
-{{- with $b.Params.archive_id }}{{ $out = merge $out (dict "sameAs" (printf "https://archive.org/details/%s" .)) }}{{ end -}}
+{{- with $b.Params.translators -}}
+  {{- $t := slice -}}
+  {{- range . -}}
+    {{- $tp := dict "@type" "Person" "name" . -}}
+    {{- $slug := partial "person-slug.html" . -}}
+    {{- if $slug -}}
+      {{- $tp = merge $tp (dict "url" (printf "%speople/%s/" site.Home.Permalink $slug)) -}}
+      {{- with index $wd $slug }}{{ $tp = merge $tp (dict "sameAs" .) }}{{ end -}}
+    {{- end -}}
+    {{- $t = $t | append $tp -}}
+  {{- end -}}
+  {{- $out = merge $out (dict "translator" $t) -}}
+{{- end -}}
+{{- with $b.Params.archive_id -}}
+  {{- $arch := printf "https://archive.org/details/%s" . -}}
+  {{- $out = merge $out (dict "sameAs" $arch "isBasedOn" $arch) -}}
+{{- end -}}
+{{- $mimes := dict "epub" "application/epub+zip" "markdown" "text/markdown" "tei" "application/tei+xml" -}}
+{{- $enc := slice -}}
+{{- range $b.Params.downloads -}}
+  {{- $dl := . -}}
+  {{- with index $mimes .format -}}
+    {{- $enc = $enc | append (dict "@type" "MediaObject" "encodingFormat" . "contentUrl" (printf "%s%s" $b.Permalink $dl.file) "contentSize" (printf "%d B" (int $dl.bytes))) -}}
+  {{- end -}}
+{{- end -}}
+{{- if gt (len $enc) 0 }}{{ $out = merge $out (dict "encoding" $enc) }}{{ end -}}
 {{- return $out -}}

@@ -403,6 +403,58 @@
     update();
   }
 
-  function start() { initHeader(); initMenu(); initHome(); initBook(); initLetter(); initSearch(); }
+  // WebMCP (W3C draft): expose read-only search and citation tools to agentic browsers when supported.
+  function initWebMCP() {
+    if (!navigator.modelContext || typeof navigator.modelContext.registerTool !== "function") { return; }
+    try {
+      navigator.modelContext.registerTool({
+        name: "search_paper_lanterns",
+        description: "Search all public-domain letters, books, essays, lectures, and speeches on Paper Lanterns.",
+        inputSchema: {
+          type: "object",
+          properties: { query: { type: "string", description: "Search keywords, correspondent name, or quote" } },
+          required: ["query"]
+        },
+        execute: function (args) {
+          var q = String((args && args.query) || "").trim();
+          if (!q) { return Promise.resolve({ results: [] }); }
+          return import("/pagefind/pagefind.js")
+            .then(function (pf) { return pf.search(q); })
+            .then(function (res) { return Promise.all(res.results.slice(0, 10).map(function (r) { return r.data(); })); })
+            .then(function (items) {
+              return {
+                results: items.map(function (d) {
+                  return {
+                    title: (d.meta && d.meta.title) || d.url,
+                    where: (d.meta && d.meta.where) || "",
+                    url: new URL(d.url, location.origin).href,
+                    excerpt: (d.excerpt || "").replace(/<[^>]+>/g, "")
+                  };
+                })
+              };
+            });
+        }
+      });
+      navigator.modelContext.registerTool({
+        name: "get_page_metadata",
+        description: "Return canonical URL, citation, and Schema.org JSON-LD metadata for the current Paper Lanterns page.",
+        inputSchema: { type: "object", properties: {} },
+        execute: function () {
+          var ld = all('script[type="application/ld+json"]').map(function (s) {
+            try { return JSON.parse(s.textContent); } catch (e) { return null; }
+          }).filter(Boolean);
+          var cite = document.querySelector('[data-fmt-panel="text"]');
+          return Promise.resolve({
+            url: location.href,
+            title: document.title,
+            citation: cite ? cite.textContent.replace(/^Citation/, "").trim() : "",
+            schema: ld
+          });
+        }
+      });
+    } catch (err) { /* ignore unsupported WebMCP draft signatures */ }
+  }
+
+  function start() { initHeader(); initMenu(); initHome(); initBook(); initLetter(); initSearch(); initWebMCP(); }
   if (document.readyState === "loading") { document.addEventListener("DOMContentLoaded", start); } else { start(); }
 })();

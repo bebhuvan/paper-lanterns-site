@@ -1,0 +1,52 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://paperlanterns.ink/",
+      "describedby": [
+        {
+          "href": "https://paperlanterns.ink/llms.txt",
+          "type": "text/markdown",
+          "title": "Paper Lanterns LLM & Agent Directory"
+        },
+        {
+          "href": "https://paperlanterns.ink/catalog.json",
+          "type": "application/json",
+          "title": "Paper Lanterns Complete Editions Catalog (JSON)"
+        },
+        {
+          "href": "https://paperlanterns.ink/cmif.xml",
+          "type": "application/xml",
+          "title": "TEI P5 Correspondence Metadata Interchange Format (CMIF)"
+        }
+      ],
+      "item": [
+        {
+          "href": "https://paperlanterns.ink/feed.json",
+          "type": "application/feed+json",
+          "title": "Paper Lanterns JSON Feed"
+        },
+        {
+          "href": "https://paperlanterns.ink/rss.xml",
+          "type": "application/rss+xml",
+          "title": "Paper Lanterns RSS Feed"
+        },
+        {
+          "href": "https://paperlanterns.ink/journal/rss.xml",
+          "type": "application/rss+xml",
+          "title": "Paper Lanterns Journal RSS Feed"
+        },
+        {
+          "href": "https://paperlanterns.ink/search-data.json",
+          "type": "application/json",
+          "title": "Paper Lanterns Curated Search Index"
+        }
+      ],
+      "license": [
+        {
+          "href": "https://creativecommons.org/licenses/by/4.0/",
+          "title": "CC BY 4.0 for transcriptions and data"
+        }
+      ]
+    }
+  ]
+}

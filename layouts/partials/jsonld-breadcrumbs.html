@@ -1,0 +1,29 @@
+{{- /* schema.org BreadcrumbList for every indexable non-home page. */ -}}
+{{- $out := false -}}
+{{- if not (or .IsHome (eq .Kind "404") (eq .Params.layout "search")) -}}
+  {{- $items := slice (dict "@type" "ListItem" "position" 1 "name" "Paper Lanterns" "item" site.Home.Permalink) -}}
+  {{- $pos := 2 -}}
+  {{- if eq .Params.layout "letter" -}}
+    {{- with site.GetPage "/collections" -}}
+      {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .Title "item" .Permalink) -}}
+      {{- $pos = add $pos 1 -}}
+    {{- end -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .Parent.Title "item" .Parent.Permalink) -}}
+    {{- $pos = add $pos 1 -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" (.Params.page_title | default .Params.heading) "item" .Permalink) -}}
+  {{- else if eq .Params.layout "book" -}}
+    {{- with site.GetPage "/collections" -}}
+      {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .Title "item" .Permalink) -}}
+      {{- $pos = add $pos 1 -}}
+    {{- end -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .Title "item" .Permalink) -}}
+  {{- else if and .IsPage .CurrentSection (ne .CurrentSection site.Home) -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .CurrentSection.Title "item" .CurrentSection.Permalink) -}}
+    {{- $pos = add $pos 1 -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" (.Title | default .Params.name) "item" .Permalink) -}}
+  {{- else -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" (.Title | default .Params.name) "item" .Permalink) -}}
+  {{- end -}}
+  {{- $out = dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items -}}
+{{- end -}}
+{{- return $out -}}

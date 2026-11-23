@@ -1,0 +1,48 @@
+{{- /* Highwire Press (Google Scholar, Zotero, Wikipedia Citoid) and Dublin Core scholarly citation metadata. */ -}}
+{{- if eq .Params.layout "letter" -}}
+  {{- $book := .Parent -}}
+  {{- $author := .Params.sender_full | default .Params.sender -}}
+  {{- $title := .Params.page_title | default .Params.heading -}}
+<meta name="citation_title" content="{{ $title }}">
+{{- with $author }}<meta name="citation_author" content="{{ . }}">{{ end }}
+{{- with .Params.letter_date.iso }}<meta name="citation_date" content="{{ . }}">{{ end }}
+{{- with $book.Params.year }}<meta name="citation_publication_date" content="{{ int . }}">{{ end }}
+<meta name="citation_inbook_title" content="{{ $book.Title }}">
+<meta name="citation_publisher" content="Paper Lanterns">
+{{- with .Params.start_folio }}<meta name="citation_firstpage" content="{{ . }}">{{ end }}
+{{- with .Params.end_folio }}<meta name="citation_lastpage" content="{{ . }}">{{ end }}
+<meta name="citation_language" content="{{ $book.Params.language | default "en" }}">
+<meta name="citation_public_url" content="{{ .Permalink }}">
+<meta name="DC.title" content="{{ $title }}">
+{{- with $author }}<meta name="DC.creator" content="{{ . }}">{{ end }}
+{{- with .Params.letter_date.iso }}<meta name="DC.date" content="{{ . }}">{{ end }}
+<meta name="DC.publisher" content="Paper Lanterns">
+<meta name="DC.source" content="{{ $book.Title }}{{ with $book.Params.year }} ({{ int . }}){{ end }}">
+<meta name="DC.rights" content="https://creativecommons.org/licenses/by/4.0/">
+{{- else if eq .Params.layout "book" -}}
+<meta name="citation_title" content="{{ .Title }}">
+{{- range .Params.authors }}<meta name="citation_author" content="{{ . }}">{{ end }}
+{{- with .Params.year }}<meta name="citation_publication_date" content="{{ int . }}">{{ end }}
+<meta name="citation_publisher" content="{{ .Params.publisher | default "Paper Lanterns" }}">
+<meta name="citation_language" content="{{ .Params.language | default "en" }}">
+<meta name="citation_public_url" content="{{ .Permalink }}">
+<meta name="DC.title" content="{{ .Title }}">
+{{- range .Params.authors }}<meta name="DC.creator" content="{{ . }}">{{ end }}
+{{- with .Params.year }}<meta name="DC.date" content="{{ int . }}">{{ end }}
+<meta name="DC.publisher" content="Paper Lanterns">
+<meta name="DC.rights" content="https://creativecommons.org/licenses/by/4.0/">
+{{- else if and .IsPage (eq .Type "curated") -}}
+  {{- $d := partial "curated-date.html" . -}}
+<meta name="citation_title" content="{{ .Title }}">
+{{- with .Params.author.name }}<meta name="citation_author" content="{{ . }}">{{ end }}
+{{- with $d.year }}<meta name="citation_publication_date" content="{{ . }}">{{ end }}
+<meta name="citation_publisher" content="Paper Lanterns">
+<meta name="citation_language" content="en">
+<meta name="citation_public_url" content="{{ .Permalink }}">
+<meta name="DC.title" content="{{ .Title }}">
+{{- with .Params.author.name }}<meta name="DC.creator" content="{{ . }}">{{ end }}
+{{- with $d.year }}<meta name="DC.date" content="{{ . }}">{{ end }}
+<meta name="DC.publisher" content="Paper Lanterns">
+{{- with .Params.source }}<meta name="DC.source" content="{{ . | plainify }}">{{ end }}
+<meta name="DC.rights" content="https://creativecommons.org/licenses/by/4.0/">
+{{- end -}}

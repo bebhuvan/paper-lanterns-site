@@ -1,0 +1,61 @@
+# Paper Lanterns — https://paperlanterns.ink/
+# Public-domain historical letters; transcriptions CC BY 4.0.
+# Search indexing, live AI/agent retrieval, and archival ingestion are welcomed with attribution.
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: *
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+Sitemap: {{ "sitemap.xml" | absURL }}

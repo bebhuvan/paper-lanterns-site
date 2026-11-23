@@ -1,26 +1,96 @@
-{{- /* Page title, description, canonical link, Open Graph and Twitter tags, and schema.org JSON-LD. */ -}}
+{{- /* Page title, description, robots directives, canonical link, alternate feeds/downloads, OG/Twitter, scholarly citation tags, and schema.org JSON-LD. */ -}}
 {{- $title := .Title | default .Params.name -}}
-{{- with .Params.page_title }}{{ $title = . }}{{ end -}}
-{{- $full := cond .IsHome site.Title (printf "%s · %s" $title site.Title) -}}
+{{- if eq .Params.layout "letter" -}}
+  {{- $base := .Params.page_title | default .Title -}}
+  {{- $seq := int .Params.sequence -}}
+  {{- $iso := .Params.letter_date.iso | default "" -}}
+  {{- $collides := gt (len (where .Parent.RegularPages "Params.page_title" $base)) 1 -}}
+  {{- if or (not $base) (eq $base "Letter") -}}
+    {{- $title = printf "%s (#%d) — %s" .Params.heading $seq .Parent.Title -}}
+  {{- else if or $collides (le (len $iso) 7) -}}
+    {{- /* Disambiguate colliding, undated, year-only, or month-only letters cleanly by sequence number. */ -}}
+    {{- $title = printf "%s (Letter %d)" $base $seq -}}
+  {{- else -}}
+    {{- $title = $base -}}
+  {{- end -}}
+{{- else if and .IsPage (eq .Type "curated") -}}
+  {{- $d := partial "curated-date.html" . -}}
+  {{- $by := .Params.author.name | default "" -}}
+  {{- with .Params.recipient }}{{ if $by }}{{ $by = printf "%s to %s" $by . }}{{ end }}{{ end -}}
+  {{- if $by -}}
+    {{- $title = printf "%s — %s%s" .Title $by (cond (ne ($d.year | default "") "") (printf " (%s)" $d.year) "") -}}
+  {{- end -}}
+{{- else if and .IsPage (eq .Section "people") -}}
+  {{- $title = printf "%s — Letters & Editions" .Title -}}
+{{- else if and .IsPage (eq .Type "sets") -}}
+  {{- $title = .Params.name | default .Title -}}
+{{- else -}}
+  {{- with .Params.page_title }}{{ $title = . }}{{ end -}}
+{{- end -}}
+{{- $full := cond .IsHome "Paper Lanterns — Public-Domain Historical Letters & Archival Editions" (printf "%s · %s" $title site.Title) -}}
+
 {{- $desc := .Description -}}
+{{- if eq (strings.Trim ($desc | default "") ". \t\n\r…—–-") "" }}{{ $desc = "" }}{{ end -}}
 {{- if and (not $desc) (eq .Params.layout "book") -}}
-{{- $desc = printf "%s. %s. %d letters, each set beside its printed page, free to read and download." .Title .Params.subtitle (int .Params.counts.letters) -}}
+  {{- $sub := "" -}}{{- with .Params.subtitle }}{{ $sub = printf " %s." . }}{{ end -}}
+  {{- $desc = printf "%s.%s %d public-domain letters, each set beside its printed page scan, free to read and download in EPUB, Markdown, and TEI." .Title $sub (int .Params.counts.letters) -}}
+{{- else if and (not $desc) (eq .Params.layout "letter") -}}
+  {{- $desc = printf "Read %s from %s (%d), set beside the original printed page scan on Paper Lanterns." $title .Parent.Title (int .Parent.Params.year) -}}
+{{- else if and (not $desc) .IsPage (eq .Type "curated") -}}
+  {{- $raw := .Params.excerpt | default .Params.context | default (.Summary | plainify) -}}
+  {{- $desc = $raw | plainify | replaceRE `\s+` " " | strings.TrimSpace | truncate 160 -}}
+{{- else if and (not $desc) .IsPage (eq .Section "people") -}}
+  {{- $vols := len (.Params.credits | default slice) -}}
+  {{- $cur := len (.Params.curated | default slice) -}}
+  {{- $lt := 0 -}}{{- range $k, $v := (.Params.letters | default dict) }}{{ $lt = add $lt (int $v) }}{{ end -}}
+  {{- $parts := slice -}}
+  {{- if gt $vols 0 }}{{ $parts = $parts | append (printf "%d %s" $vols (cond (eq $vols 1) "volume" "volumes")) }}{{ end -}}
+  {{- if gt $lt 0 }}{{ $parts = $parts | append (printf "%d letters" $lt) }}{{ end -}}
+  {{- if gt $cur 0 }}{{ $parts = $parts | append (printf "%d hand-curated %s" $cur (cond (eq $cur 1) "work" "works")) }}{{ end -}}
+  {{- if gt (len $parts) 0 -}}
+    {{- $desc = printf "Read %s on Paper Lanterns: %s, set beside original printed scans and free to read and download." .Title (delimit $parts ", " " and ") -}}
+  {{- else -}}
+    {{- $desc = printf "Letters and archival editions associated with %s on Paper Lanterns." .Title -}}
+  {{- end -}}
+{{- else if and (not $desc) .IsPage (eq .Section "explore") -}}
+  {{- $bnames := slice -}}
+  {{- range first 3 (.Params.books | default slice) -}}
+    {{- with site.GetPage (printf "/collections/%s" .book_id) }}{{ $bnames = $bnames | append .Title }}{{ end -}}
+  {{- end -}}
+  {{- $cnt := int (.Params.count | default 0) -}}
+  {{- if gt (len $bnames) 0 -}}
+    {{- $desc = printf "Read %d dated historical %s from the %s on Paper Lanterns, including %s, set beside original printed page scans." $cnt (cond (eq $cnt 1) "letter" "letters") .Params.label (delimit $bnames ", ") | truncate 160 -}}
+  {{- else -}}
+    {{- $desc = printf "Read %d dated historical %s from the %s on Paper Lanterns." $cnt (cond (eq $cnt 1) "letter" "letters") .Params.label -}}
+  {{- end -}}
+{{- else if and (not $desc) .IsPage (eq .Type "sets") -}}
+  {{- $desc = (.Params.description | default (.Summary | plainify)) | plainify | replaceRE `\s+` " " | strings.TrimSpace | truncate 160 -}}
+{{- else if and (not $desc) .IsPage (eq .Type "garden") -}}
+  {{- $raw := index .Params "content" | default (.Summary | plainify) -}}
+  {{- $desc = $raw | plainify | replaceRE `\s+` " " | strings.TrimSpace | truncate 160 -}}
+  {{- if not $desc }}{{ $desc = printf "%s — a note from the Paper Lanterns garden." .Title }}{{ end -}}
 {{- end -}}
 {{- $desc = $desc | default site.Params.description -}}
+
 {{- /* Share card (D31, D32): the home page, each book, each letter and each journal post have their own; every other page uses the home card. */ -}}
 {{- $card := site.Home -}}
 {{- if .OutputFormats.Get "ogcard" }}{{ $card = . }}{{ end -}}
 {{- $image := printf "%s%s" $card.Permalink (partial "og/file.html" $card) -}}
 {{- $alt := printf "Paper Lanterns: “Dear reader,” %s" site.Params.description -}}
 {{- if eq $card.Params.layout "letter" -}}
-{{- $alt = printf "“%s”" $card.Title -}}{{ with $card.Params.page_title }}{{ $alt = printf "%s: %s" . $alt }}{{ end -}}
+  {{- $alt = printf "“%s”" $card.Title -}}{{ with $card.Params.page_title }}{{ $alt = printf "%s: %s" . $alt }}{{ end -}}
 {{- else if eq $card.Params.layout "book" -}}
-{{- $alt = printf "%s, %s letters, on Paper Lanterns" $card.Title (lang.FormatNumber 0 (int $card.Params.counts.letters)) -}}
+  {{- $alt = printf "%s, %s letters, on Paper Lanterns" $card.Title (lang.FormatNumber 0 (int $card.Params.counts.letters)) -}}
 {{- else if eq $card.Type "journal" -}}
-{{- $alt = $card.Title }}{{ with $card.Params.subtitle }}{{ $alt = printf "%s: %s" $alt . }}{{ end }}{{ $alt = printf "%s, from the Paper Lanterns journal" $alt -}}
+  {{- $alt = $card.Title }}{{ with $card.Params.subtitle }}{{ $alt = printf "%s: %s" $alt . }}{{ end }}{{ $alt = printf "%s, from the Paper Lanterns journal" $alt -}}
 {{- end }}
 <title>{{ $full }}</title>
 <meta name="description" content="{{ $desc }}">
+{{- if or (eq .Params.layout "search") .Params.noindex }}
+<meta name="robots" content="noindex, follow">
+{{- else }}
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+{{- end }}
 <link rel="canonical" href="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ site.Title }}">
 <meta property="og:title" content="{{ $title }}">
@@ -37,8 +107,25 @@
 <meta name="twitter:image:alt" content="{{ $alt }}">
 <meta name="twitter:title" content="{{ $title }}">
 <meta name="twitter:description" content="{{ $desc }}">
+<link rel="alternate" type="application/rss+xml" title="Paper Lanterns" href="{{ "rss.xml" | absURL }}">
+<link rel="alternate" type="application/feed+json" title="Paper Lanterns (JSON Feed)" href="{{ "feed.json" | absURL }}">
 {{- if eq .Section "journal" }}{{ with site.GetPage "/journal" }}{{ with .OutputFormats.Get "rss" }}
 <link rel="alternate" type="application/rss+xml" title="Paper Lanterns journal" href="{{ .Permalink }}">{{ end }}{{ end }}{{ end }}
+{{- if .IsHome }}
+<link rel="alternate" type="text/markdown" title="Paper Lanterns LLM Directory" href="{{ "llms.txt" | absURL }}">
+{{- end }}
+{{- if eq .Params.layout "book" -}}
+  {{- $b := . -}}
+  {{- $mimes := dict "markdown" "text/markdown" "tei" "application/tei+xml" "epub" "application/epub+zip" -}}
+  {{- $labels := dict "markdown" "Complete edition in Markdown" "tei" "TEI P5 XML scholarly edition" "epub" "EPUB e-book edition" -}}
+  {{- range .Params.downloads }}{{ $dl := . }}{{ with index $mimes .format }}
+<link rel="alternate" type="{{ . }}" title="{{ index $labels $dl.format }}" href="{{ $b.Permalink }}{{ $dl.file }}">
+  {{- end }}{{ end -}}
+{{- end }}
+{{ partial "scholar-meta.html" . }}
 {{- with partial "jsonld.html" . }}
+<script type="application/ld+json">{{ . | jsonify | safeJS }}</script>
+{{- end }}
+{{- with partial "jsonld-breadcrumbs.html" . }}
 <script type="application/ld+json">{{ . | jsonify | safeJS }}</script>
 {{- end }}

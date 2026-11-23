@@ -7,6 +7,9 @@
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
 <link rel="preload" href="{{ "fonts/newsreader-latin-400-normal.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+{{- if and (in (slice "book" "letter") (.Params.layout | default "")) .Params.archive_id }}
+<link rel="preconnect" href="https://archive.org" crossorigin>
+{{- end }}
 {{- $css := resources.Get "css/site.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{- $js := resources.Get "js/site.js" | minify | fingerprint }}

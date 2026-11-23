@@ -1,22 +1,214 @@
-{{- /* schema.org data built only from front matter. Returns a dict (or nil for pages without structured data). */ -}}
+{{- /* schema.org structured data across every content page type. Returns a dict (or false for 404/search). */ -}}
 {{- $license := "https://creativecommons.org/licenses/by/4.0/" -}}
+{{- $wd := site.Data.wikidata | default dict -}}
+{{- $org := dict
+  "@type" "Organization"
+  "@id" (printf "%s#organization" site.Home.Permalink)
+  "name" "Paper Lanterns"
+  "url" site.Home.Permalink
+  "sameAs" (slice
+    "https://github.com/bebhuvan/paper-lanterns-site"
+    "https://github.com/bebhuvan/paper-lanterns-pipeline"
+    "https://akshara.ink/"
+  )
+-}}
+{{- $card := site.Home -}}
+{{- if .OutputFormats.Get "ogcard" }}{{ $card = . }}{{ end -}}
+{{- $image := printf "%s%s" $card.Permalink (partial "og/file.html" $card) -}}
 {{- $out := false -}}
+
 {{- if eq .Params.layout "book" -}}
-{{- $out = partial "jsonld-book.html" . -}}
+  {{- $out = partial "jsonld-book.html" . -}}
 {{- else if eq .Params.layout "letter" -}}
-{{- $out = dict "@context" "https://schema.org" "@type" "Message" "name" .Params.page_title "headline" .Title "description" .Description "url" .Permalink "inLanguage" (.Parent.Params.language | default "en") "license" $license "isAccessibleForFree" true -}}
-{{- with .Params.sender_full }}{{ $out = merge $out (dict "author" (dict "@type" "Person" "name" .)) }}{{ end -}}
-{{- with .Params.recipient_full }}{{ $out = merge $out (dict "recipient" (dict "@type" "Person" "name" .)) }}{{ end -}}
-{{- with .Params.letter_date.iso }}{{ $out = merge $out (dict "dateCreated" .) }}{{ end -}}
-{{- with .Params.place }}{{ $out = merge $out (dict "locationCreated" (dict "@type" "Place" "name" .)) }}{{ end -}}
-{{- $out = merge $out (dict "isPartOf" (partial "jsonld-book.html" .Parent)) -}}
+  {{- $out = dict
+    "@context" "https://schema.org"
+    "@type" "Message"
+    "@id" (printf "%s#letter" .Permalink)
+    "name" (.Params.page_title | default .Params.heading)
+    "headline" .Title
+    "description" .Description
+    "url" .Permalink
+    "mainEntityOfPage" .Permalink
+    "image" $image
+    "inLanguage" (.Parent.Params.language | default "en")
+    "license" $license
+    "isAccessibleForFree" true
+    "publisher" $org
+    "isPartOf" (partial "jsonld-book.html" .Parent)
+  -}}
+  {{- with (.Params.sender_full | default .Params.sender) -}}
+    {{- $p := dict "@type" "Person" "name" . -}}
+    {{- $slug := partial "person-slug.html" . -}}
+    {{- if $slug -}}
+      {{- $p = merge $p (dict "url" (printf "%speople/%s/" site.Home.Permalink $slug)) -}}
+      {{- with index $wd $slug }}{{ $p = merge $p (dict "sameAs" .) }}{{ end -}}
+    {{- end -}}
+    {{- $out = merge $out (dict "author" $p "sender" $p) -}}
+  {{- end -}}
+  {{- with (.Params.recipient_full | default .Params.recipient) -}}
+    {{- $rp := dict "@type" "Person" "name" . -}}
+    {{- $rslug := partial "person-slug.html" . -}}
+    {{- if $rslug -}}
+      {{- $rp = merge $rp (dict "url" (printf "%speople/%s/" site.Home.Permalink $rslug)) -}}
+      {{- with index $wd $rslug }}{{ $rp = merge $rp (dict "sameAs" .) }}{{ end -}}
+    {{- end -}}
+    {{- $out = merge $out (dict "recipient" $rp) -}}
+  {{- end -}}
+  {{- with .Params.letter_date.iso }}{{ $out = merge $out (dict "dateCreated" . "dateSent" .) }}{{ end -}}
+  {{- with .Params.place }}{{ $out = merge $out (dict "locationCreated" (dict "@type" "Place" "name" .)) }}{{ end -}}
+  {{- with .Params.start_folio -}}
+    {{- $pg := cond (eq . $.Params.end_folio) . (printf "%s-%s" . $.Params.end_folio) -}}
+    {{- $out = merge $out (dict "pagination" $pg) -}}
+  {{- end -}}
+  {{- with .Params.archive_id -}}
+    {{- $leaf := sub (int $.Params.start_page) 1 -}}
+    {{- $out = merge $out (dict "isBasedOn" (printf "https://archive.org/details/%s/page/n%d/mode/1up" . $leaf)) -}}
+  {{- end -}}
+{{- else if and .IsPage (eq .Type "curated") -}}
+  {{- $form := .Params.form | default "letter" -}}
+  {{- $schemaType := cond (eq $form "letter") "Message" "Article" -}}
+  {{- $d := partial "curated-date.html" . -}}
+  {{- $desc := (.Params.excerpt | default .Params.context | default (.Summary | plainify)) | plainify | replaceRE `\s+` " " | strings.TrimSpace | truncate 200 -}}
+  {{- $out = dict
+    "@context" "https://schema.org"
+    "@type" $schemaType
+    "name" .Title
+    "headline" .Title
+    "description" $desc
+    "url" .Permalink
+    "mainEntityOfPage" .Permalink
+    "image" $image
+    "inLanguage" "en"
+    "license" $license
+    "isAccessibleForFree" true
+    "publisher" $org
+  -}}
+  {{- with .Params.author.name -}}
+    {{- $ap := dict "@type" "Person" "name" . -}}
+    {{- with $.Params.author.birth_year }}{{ $ap = merge $ap (dict "birthDate" (printf "%v" .)) }}{{ end -}}
+    {{- with $.Params.author.death_year }}{{ $ap = merge $ap (dict "deathDate" (printf "%v" .)) }}{{ end -}}
+    {{- with ($.Params.author.bio | default $.Params.author.description) }}{{ $ap = merge $ap (dict "description" .) }}{{ end -}}
+    {{- $slug := partial "person-slug.html" . -}}
+    {{- if $slug -}}
+      {{- $ap = merge $ap (dict "url" (printf "%speople/%s/" site.Home.Permalink $slug)) -}}
+      {{- with index $wd $slug }}{{ $ap = merge $ap (dict "sameAs" .) }}{{ end -}}
+    {{- end -}}
+    {{- $out = merge $out (dict "author" $ap) -}}
+    {{- if eq $schemaType "Message" }}{{ $out = merge $out (dict "sender" $ap) }}{{ end -}}
+  {{- end -}}
+  {{- with .Params.recipient }}{{ $out = merge $out (dict "recipient" (dict "@type" "Person" "name" .)) }}{{ end -}}
+  {{- if $d.year }}{{ $out = merge $out (dict "dateCreated" $d.year) }}{{ end -}}
+  {{- with .Params.location }}{{ $out = merge $out (dict "locationCreated" (dict "@type" "Place" "name" .)) }}{{ end -}}
+  {{- with .Params.tags }}{{ $out = merge $out (dict "keywords" (delimit . ", ")) }}{{ end -}}
+  {{- with .Params.source }}{{ $out = merge $out (dict "citation" (. | plainify)) }}{{ end -}}
+  {{- with .Params.source_url }}{{ $out = merge $out (dict "isBasedOn" .) }}{{ end -}}
+{{- else if and .IsPage (eq .Section "people") -}}
+  {{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
+  {{- $person := dict "@type" "Person" "name" .Title "url" .Permalink -}}
+  {{- with .Params.also }}{{ $person = merge $person (dict "alternateName" .) }}{{ end -}}
+  {{- with index $wd $slug }}{{ $person = merge $person (dict "sameAs" .) }}{{ end -}}
+  {{- $out = dict
+    "@context" "https://schema.org"
+    "@type" "ProfilePage"
+    "name" .Title
+    "url" .Permalink
+    "mainEntity" $person
+    "isPartOf" (dict "@type" "WebSite" "name" site.Title "url" site.Home.Permalink)
+  -}}
+{{- else if and .IsPage (eq .Section "explore") -}}
+  {{- $out = dict
+    "@context" "https://schema.org"
+    "@type" "CollectionPage"
+    "name" .Title
+    "url" .Permalink
+    "inLanguage" "en"
+    "isAccessibleForFree" true
+    "license" $license
+    "isPartOf" (dict "@type" "WebSite" "name" site.Title "url" site.Home.Permalink)
+  -}}
 {{- else if and .IsPage (eq .Type "journal") -}}
-{{- /* No licence is claimed: the journal is the owner's own writing (D32). */ -}}
-{{- $out = dict "@context" "https://schema.org" "@type" "BlogPosting" "headline" .Title "url" .Permalink "datePublished" (.Date.Format "2006-01-02") "inLanguage" "en" "isPartOf" (dict "@type" "Blog" "name" "Paper Lanterns journal" "url" .CurrentSection.Permalink) -}}
-{{- with .Params.author }}{{ $out = merge $out (dict "author" (dict "@type" "Person" "name" .)) }}{{ end -}}
-{{- with .Params.subtitle }}{{ $out = merge $out (dict "alternativeHeadline" .) }}{{ end -}}
-{{- with .Description }}{{ $out = merge $out (dict "description" .) }}{{ end -}}
+  {{- /* No licence is claimed: the journal is the owner's own writing (D32). */ -}}
+  {{- $out = dict
+    "@context" "https://schema.org"
+    "@type" "BlogPosting"
+    "headline" .Title
+    "url" .Permalink
+    "mainEntityOfPage" .Permalink
+    "image" $image
+    "datePublished" (.Date.Format "2006-01-02")
+    "inLanguage" "en"
+    "publisher" $org
+    "isPartOf" (dict "@type" "Blog" "name" "Paper Lanterns journal" "url" .CurrentSection.Permalink)
+  -}}
+  {{- with .Params.author }}{{ $out = merge $out (dict "author" (dict "@type" "Person" "name" .)) }}{{ end -}}
+  {{- with .Params.subtitle }}{{ $out = merge $out (dict "alternativeHeadline" .) }}{{ end -}}
+  {{- with .Description }}{{ $out = merge $out (dict "description" .) }}{{ end -}}
+{{- else if and .IsPage (eq .Type "sets") -}}
+  {{- $out = dict
+    "@context" "https://schema.org"
+    "@type" "CollectionPage"
+    "name" (.Params.name | default .Title)
+    "description" (.Params.description | default "")
+    "url" .Permalink
+    "inLanguage" "en"
+    "isAccessibleForFree" true
+    "license" $license
+    "publisher" $org
+  -}}
+{{- else if and .IsPage (eq .Type "garden") -}}
+  {{- $out = dict
+    "@context" "https://schema.org"
+    "@type" "Article"
+    "headline" .Title
+    "url" .Permalink
+    "datePublished" (.Date.Format "2006-01-02")
+    "inLanguage" "en"
+    "publisher" $org
+  -}}
 {{- else if .IsHome -}}
-{{- $out = dict "@context" "https://schema.org" "@type" "WebSite" "name" site.Title "url" .Permalink "description" site.Params.description "license" $license -}}
+  {{- $out = dict
+    "@context" "https://schema.org"
+    "@type" "WebSite"
+    "@id" (printf "%s#website" site.Home.Permalink)
+    "name" site.Title
+    "url" .Permalink
+    "description" site.Params.description
+    "license" $license
+    "inLanguage" "en"
+    "publisher" $org
+    "potentialAction" (dict
+      "@type" "SearchAction"
+      "target" (dict "@type" "EntryPoint" "urlTemplate" (printf "%ssearch/?q={search_term_string}" site.Home.Permalink))
+      "query-input" "required name=search_term_string"
+    )
+  -}}
+{{- else if eq .RelPermalink "/about/" -}}
+  {{- $out = dict
+    "@context" "https://schema.org"
+    "@type" "AboutPage"
+    "name" .Title
+    "description" .Description
+    "url" .Permalink
+    "mainEntity" $org
+  -}}
+{{- else if eq .RelPermalink "/reading/" -}}
+  {{- $out = dict
+    "@context" "https://schema.org"
+    "@type" "WebPage"
+    "name" .Title
+    "description" .Description
+    "url" .Permalink
+    "publisher" $org
+  -}}
+{{- else if and .IsSection (ne .Params.layout "search") -}}
+  {{- $out = dict
+    "@context" "https://schema.org"
+    "@type" "CollectionPage"
+    "name" .Title
+    "description" (.Description | default site.Params.description)
+    "url" .Permalink
+    "inLanguage" "en"
+    "publisher" $org
+  -}}
 {{- end -}}
 {{- return $out -}}

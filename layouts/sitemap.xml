@@ -1,0 +1,37 @@
+{{- /* Ordered XML sitemap: hub pages and volumes first, truthful lastmod only, /search/ excluded. */ -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{{- $seen := dict -}}
+{{- $tiers := slice
+  (slice site.Home)
+  (where .Data.Pages "Kind" "section")
+  (where .Data.Pages "Params.layout" "book")
+  (where .Data.Pages "Section" "journal")
+  (where .Data.Pages "Type" "in" (slice "curated" "sets" "garden"))
+  (where .Data.Pages "Section" "in" (slice "people" "explore"))
+  .Data.Pages
+-}}
+{{- range $tiers }}
+{{- range . }}
+{{- if and .Permalink (not (index $seen .Permalink)) (ne .Params.layout "search") (not .Params.noindex) }}
+{{- $seen = merge $seen (dict .Permalink true) -}}
+{{- $lastmod := "" -}}
+{{- if eq .Params.layout "book" -}}
+{{- with .Params.provenance.compiled_at }}{{ $lastmod = . }}{{ end -}}
+{{- else if eq .Params.layout "letter" -}}
+{{- with .Parent.Params.provenance.compiled_at }}{{ $lastmod = . }}{{ end -}}
+{{- else if and (eq .Section "journal") .IsPage (ge .Date.Year 2020) -}}
+{{- $lastmod = .Date.Format "2006-01-02" -}}
+{{- else if and (not .Lastmod.IsZero) (ge .Lastmod.Year 2020) -}}
+{{- $lastmod = .Lastmod.Format "2006-01-02" -}}
+{{- end }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- with $lastmod }}
+    <lastmod>{{ . }}</lastmod>
+    {{- end }}
+  </url>
+{{- end }}
+{{- end }}
+{{- end }}
+</urlset>

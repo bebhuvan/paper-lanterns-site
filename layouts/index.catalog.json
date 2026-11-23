@@ -1,0 +1,79 @@
+{{- $books := partial "books.html" . -}}
+{{- $letters := partial "letters.html" . -}}
+{{- $curated := partial "curated-items.html" . -}}
+{{- $journal := slice -}}{{- with site.GetPage "/journal" }}{{ $journal = .RegularPages.ByDate.Reverse }}{{ end -}}
+{{- $bookItems := slice -}}
+{{- range sort $books "Params.book_id" -}}
+  {{- $b := . -}}
+  {{- $rs := partial "reading-status.html" . -}}
+  {{- $dls := slice -}}
+  {{- range .Params.downloads -}}
+    {{- $dls = $dls | append (dict "format" .format "url" (printf "%s%s" $b.Permalink .file) "bytes" (int .bytes) "sha256" .sha256) -}}
+  {{- end -}}
+  {{- $item := dict
+    "book_id" .Params.book_id
+    "title" .Title
+    "subtitle" (.Params.subtitle | default "")
+    "collection" (.Params.collection | default "")
+    "url" .Permalink
+    "year" (int (.Params.year | default 0))
+    "language" (.Params.language | default "en")
+    "authors" (.Params.authors | default slice)
+    "translators" (.Params.translators | default slice)
+    "letter_count" (int .Params.counts.letters)
+    "page_count" (int .Params.counts.pages)
+    "note_count" (int .Params.counts.notes)
+    "reading_score" $rs.score
+    "reading_score_out_of" $rs.out_of
+    "archive_id" (.Params.archive_id | default "")
+    "compiled_at" (.Params.provenance.compiled_at | default "")
+    "downloads" $dls
+  -}}
+  {{- with .Params.archive_id }}{{ $item = merge $item (dict "archive_url" (printf "https://archive.org/details/%s" .)) }}{{ end -}}
+  {{- $bookItems = $bookItems | append $item -}}
+{{- end -}}
+{{- $curatedItems := slice -}}
+{{- range sort $curated "Permalink" -}}
+  {{- $d := partial "curated-date.html" . -}}
+  {{- $curatedItems = $curatedItems | append (dict
+    "title" .Title
+    "form" (.Params.form | default "letter")
+    "author" .Params.author.name
+    "recipient" (.Params.recipient | default "")
+    "year" ($d.year | default "")
+    "url" .Permalink
+    "source" (.Params.source | default "")
+  ) -}}
+{{- end -}}
+{{- $journalItems := slice -}}
+{{- range $journal -}}
+  {{- $journalItems = $journalItems | append (dict
+    "title" .Title
+    "subtitle" (.Params.subtitle | default "")
+    "author" (.Params.author | default "")
+    "date" (.Date.Format "2006-01-02")
+    "description" (.Description | default "")
+    "url" .Permalink
+  ) -}}
+{{- end -}}
+{{- $payload := dict
+  "name" site.Title
+  "url" site.Home.Permalink
+  "description" site.Params.description
+  "license" "https://creativecommons.org/licenses/by/4.0/"
+  "llms_txt" ("llms.txt" | absURL)
+  "sitemap" ("sitemap.xml" | absURL)
+  "rss" ("rss.xml" | absURL)
+  "counts" (dict
+    "books" (len $books)
+    "collection_letters" (len $letters)
+    "curated_works" (len $curated)
+    "people" (len site.Data.people)
+    "decades" (len site.Data.decades)
+    "journal_posts" (len $journal)
+  )
+  "books" $bookItems
+  "curated" $curatedItems
+  "journal" $journalItems
+-}}
+{{- $payload | jsonify (dict "indent" "  ") }}

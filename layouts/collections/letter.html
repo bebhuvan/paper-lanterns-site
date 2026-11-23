@@ -73,7 +73,7 @@
 {{- if not (where .Params.blocks "type" "letter_header") }}<p class="kicker-heading">{{ .Params.heading }}</p>{{ end }}
 <div class="pair" data-pagefind-ignore><span>{{ .Params.sender }}</span><span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ .Params.recipient }}</span></div>
 <h1>{{ .Title }}</h1>
-<div class="meta" data-pagefind-ignore>{{ with .Params.letter_date.short }}<span class="mono">{{ . }}</span>{{ end }}{{ with .Params.place }}<span>{{ . }}</span>{{ end }}<span>Printed {{ $folios }}</span></div>
+<div class="meta" data-pagefind-ignore>{{ with .Params.letter_date.short }}<time class="mono"{{ with $.Params.letter_date.iso }} datetime="{{ . }}"{{ end }}>{{ . }}</time>{{ end }}{{ with .Params.place }}<span>{{ . }}</span>{{ end }}<span>Printed {{ $folios }}</span></div>
 <div class="text" data-letter-text>
 {{- $last := int .Params.start_page -}}
 {{- range .Params.blocks -}}
@@ -149,7 +149,21 @@
 <p class="legend">Where it sits in the book: black are letters, grey the editor’s narrative, pale the front matter, appendices and index.</p>
 <div class="grid">
 <dl>
-<div><dt>Source</dt><dd><i>{{ $book.Title }}</i>{{ with $book.Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}, {{ $book.Params.year }}, {{ $folios }}.</dd></div>
+{{- $sName := .Params.sender_full | default .Params.sender -}}
+{{- $rName := .Params.recipient_full | default .Params.recipient -}}
+{{- $sSlug := partial "person-slug.html" $sName -}}
+{{- $rSlug := partial "person-slug.html" $rName -}}
+{{- $dec := partial "letter-decade.html" . -}}
+{{- $decPage := false -}}{{- if $dec }}{{ $decPage = site.GetPage (printf "/explore/%ds" (int $dec)) }}{{ end -}}
+{{- if or $sName $rName .Params.letter_date.display .Params.place }}
+<div><dt>Letter</dt><dd>
+{{- if $sName }}{{ if $sSlug }}<a class="u" href="{{ printf "/people/%s/" $sSlug | relURL }}">{{ $sName }}</a>{{ else }}{{ $sName }}{{ end }}{{ end -}}
+{{- if $rName }}{{ if $sName }} to {{ else }}To {{ end }}{{ if $rSlug }}<a class="u" href="{{ printf "/people/%s/" $rSlug | relURL }}">{{ $rName }}</a>{{ else }}{{ $rName }}{{ end }}{{ end -}}
+{{- with .Params.letter_date.display }}{{ if or $sName $rName }}, {{ end }}{{ if $decPage }}<a class="u" href="{{ $decPage.RelPermalink }}"><time datetime="{{ $.Params.letter_date.iso }}">{{ . }}</time></a>{{ else }}<time datetime="{{ $.Params.letter_date.iso }}">{{ . }}</time>{{ end }}{{ end -}}
+{{- with .Params.place }}{{ if or $sName $rName $.Params.letter_date.display }} · {{ end }}{{ . }}{{ end }}.
+</dd></div>
+{{- end }}
+<div><dt>Source</dt><dd><a class="u" href="{{ $book.RelPermalink }}"><i>{{ $book.Title }}</i></a>{{ with $book.Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}, {{ $book.Params.year }}, {{ $folios }}.</dd></div>
 <div><dt>How it was read</dt><dd>{{ $rs.line }} The book’s reading score is {{ $rs.score }} out of {{ $rs.out_of }}. <a class="u" href="{{ $book.RelPermalink }}#how-read">How this text was read</a></dd></div>
 <div><dt>Take the whole book with you</dt><dd class="chips">{{ range $book.Params.downloads }}<a href="{{ $book.RelPermalink }}{{ .file }}" download>{{ index (dict "epub" "EPUB" "markdown" "Markdown" "tei" "TEI") .format }}</a>{{ end }}</dd></div>
 </dl>
@@ -176,6 +190,7 @@
 }</pre>
 <p class="fmt" data-fmt-panel="link"><span class="k">Link</span>{{ .Permalink }}</p>
 <div class="tip">The link is permanent and will always lead to this letter.</div>
+{{ partial "coins.html" . }}
 </div>
 </div>
 </section>

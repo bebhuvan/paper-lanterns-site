@@ -1,0 +1,51 @@
+{{- $books := partial "books.html" . -}}
+{{- $letters := partial "letters.html" . -}}
+{{- $curated := partial "curated-items.html" . -}}
+{{- $journal := slice -}}{{- with site.GetPage "/journal" }}{{ $journal = .RegularPages.ByDate.Reverse }}{{ end -}}
+# Paper Lanterns
+
+> {{ site.Params.description }} Paper Lanterns publishes {{ len $books }} complete public-domain letter volumes ({{ len $letters }} individual letters, each aligned with its Internet Archive printed page scan) alongside {{ len $curated }} hand-curated historical letters, essays, lectures, and speeches. All transcriptions preserve original printed spelling, punctuation, and footnotes and are free to reuse under CC BY 4.0 with attribution to Paper Lanterns (https://paperlanterns.ink/). Every letter URL is permanent.
+
+## Core Pages & Machine-Readable Feeds
+
+- [Home]({{ "/" | absURL }}): Overview, opening salutations across four centuries, and decade timeline.
+- [All Collections]({{ "/collections/" | absURL }}): Complete index of {{ len $books }} digitized public-domain volumes.
+- [People Index]({{ "/people/" | absURL }}): {{ len site.Data.people }} writers, translators, and editors credited across the library.
+- [Explore by Decade]({{ "/explore/" | absURL }}): {{ len site.Data.decades }} decades of dated historical correspondence.
+- [How These Letters Are Read]({{ "/reading/" | absURL }}): Methodology, 100-point machine reading rubric, known failure modes, and proofreading stages.
+- [About Paper Lanterns]({{ "/about/" | absURL }}): Mission, provenance, and relationship to Project Akshara (https://akshara.ink/).
+- [Machine-Readable Catalog (JSON)]({{ "/catalog.json" | absURL }}): Complete metadata, reading scores, Internet Archive IDs, and direct EPUB, Markdown, and TEI P5 XML download URLs for every volume.
+- [TEI P5 CMIF Correspondence Index (XML)]({{ "/cmif.xml" | absURL }}): Standard Correspondence Metadata Interchange Format covering all collection letters with Wikidata entity references.
+- [API Catalog (RFC 9727)]({{ "/.well-known/api-catalog" | absURL }}): Machine-readable linkset of all feeds, endpoints, and licences.
+- [W3C TDM Reservation Protocol]({{ "/.well-known/tdmrep.json" | absURL }}): Explicit text and data mining permission (`tdm-reservation: 0`, CC BY 4.0).
+- [XML Sitemap]({{ "/sitemap.xml" | absURL }}): Full list of indexable pages with compilation timestamps.
+- [JSON Feed 1.1]({{ "/feed.json" | absURL }}) & [RSS Feed]({{ "/rss.xml" | absURL }}): Updates across collections, journal, and curated works.
+
+## Complete Letter Collections ({{ len $books }} Volumes, {{ len $letters }} Letters)
+
+Every collection below is available as individual permanent letter pages (`/collections/<book_id>/<n>/`) and as full-book downloads in Markdown (`.md`), TEI P5 XML (`.tei.xml`), and EPUB (`.epub`).
+{{ range sort $books "Title" }}
+{{- $b := . -}}
+{{- $tr := partial "book-traits.html" . -}}
+{{- $rs := partial "reading-status.html" . -}}
+{{- $md := "" -}}{{- $tei := "" -}}
+{{- range .Params.downloads }}{{ if eq .format "markdown" }}{{ $md = printf "%s%s" $b.Permalink .file }}{{ else if eq .format "tei" }}{{ $tei = printf "%s%s" $b.Permalink .file }}{{ end }}{{ end }}
+- [{{ .Title }}]({{ .Permalink }}): {{ int .Params.counts.letters }} letters{{ with $tr.years }} ({{ . }}){{ end }}{{ with .Params.year }}, printed {{ . }}{{ end }}{{ with .Params.authors }}; {{ delimit . ", " }}{{ end }}; reading score {{ $rs.score }}/{{ $rs.out_of }}.{{ with $md }} [Full Markdown]({{ . }}){{ end }}{{ with $tei }} | [TEI P5 XML]({{ . }}){{ end }}{{ with .Params.archive_id }} | [Internet Archive scan](https://archive.org/details/{{ . }}){{ end }}
+{{- end }}
+
+## Hand-Curated Letters, Essays, Lectures & Speeches ({{ len $curated }} Works)
+
+Browse by form: [Letters]({{ "/letters/" | absURL }}), [Essays]({{ "/essays/" | absURL }}), [Lectures]({{ "/lectures/" | absURL }}), [Speeches]({{ "/speeches/" | absURL }}), [Garden]({{ "/garden/" | absURL }}).
+{{ range sort $curated "Title" }}
+{{- $d := partial "curated-date.html" . }}
+- [{{ .Title }}]({{ .Permalink }}) — {{ .Params.author.name }}{{ with .Params.recipient }} to {{ . }}{{ end }}{{ with $d.year }} ({{ . }}){{ end }} [{{ .Params.form | default "letter" }}]
+{{- end }}
+{{ with $journal }}
+## Journal
+{{ range . }}
+- [{{ .Title }}]({{ .Permalink }}) ({{ .Date.Format "2006-01-02" }}){{ with (.Params.subtitle | default .Description) }}: {{ . }}{{ end }}
+{{- end }}
+{{ end }}
+## How to Cite Paper Lanterns
+
+When quoting or citing a letter from Paper Lanterns, please cite the correspondent, recipient, date, printed volume title and page numbers, and the permanent Paper Lanterns URL (e.g., `https://paperlanterns.ink/collections/dostoevsky-family-friends-1914/20/`). Transcriptions are licensed under CC BY 4.0; the underlying historical letters are in the public domain.

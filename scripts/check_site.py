@@ -287,7 +287,37 @@ def check_site(public: Path, hugo_toml: Path) -> list[str]:
                 problems.append(f"{rel}: {err}")
     problems.extend(check_headers(public, hugo_toml))
     problems.extend(check_feeds(public))
+    problems.extend(check_discovery(public))
     return problems
+
+
+def check_discovery(public: Path) -> list[str]:
+    """Verify robots.txt, sitemap.xml, llms.txt, cmif.xml, feed.json, and .well-known discovery files."""
+    errors: list[str] = []
+    robots = public / "robots.txt"
+    if robots.is_file():
+        text = robots.read_text(encoding="utf-8")
+        if "Sitemap: https://paperlanterns.ink/sitemap.xml" not in text:
+            errors.append("robots.txt is missing Sitemap: https://paperlanterns.ink/sitemap.xml")
+    sitemap = public / "sitemap.xml"
+    if sitemap.is_file():
+        sm = sitemap.read_text(encoding="utf-8")
+        if "/search/</loc>" in sm:
+            errors.append("sitemap.xml must not include /search/")
+    llms = public / "llms.txt"
+    if llms.is_file() and "# Paper Lanterns" not in llms.read_text(encoding="utf-8"):
+        errors.append("llms.txt is missing the Paper Lanterns heading")
+    cmif = public / "cmif.xml"
+    if cmif.is_file() and "<correspDesc " not in cmif.read_text(encoding="utf-8"):
+        errors.append("cmif.xml contains no <correspDesc> entries")
+    for rel_json in (".well-known/tdmrep.json", ".well-known/api-catalog", "speculation.json"):
+        p = public / rel_json
+        if p.is_file():
+            try:
+                json.loads(p.read_text(encoding="utf-8"))
+            except ValueError as exc:
+                errors.append(f"{rel_json}: does not parse as JSON: {exc}")
+    return errors
 
 
 # After XML parsing, a feed's text holds the real characters. An entity still visible there ("&amp;", "&lt;p&gt;")

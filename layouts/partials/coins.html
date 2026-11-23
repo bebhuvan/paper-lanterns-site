@@ -1,0 +1,29 @@
+{{- /* OpenURL 1.0 COinS span for Zotero, Mendeley, EndNote, and university library resolvers. */ -}}
+{{- $q := slice "url_ver=Z39.88-2004" "ctx_ver=Z39.88-2004" "rfr_id=info%3Asid%2Fpaperlanterns.ink" -}}
+{{- if eq .Params.layout "letter" -}}
+  {{- $book := .Parent -}}
+  {{- $q = $q | append "rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" "rft.genre=bookitem" -}}
+  {{- $q = $q | append (printf "rft.atitle=%s" (urlquery (.Params.page_title | default .Params.heading))) -}}
+  {{- $q = $q | append (printf "rft.btitle=%s" (urlquery $book.Title)) -}}
+  {{- with (.Params.sender_full | default .Params.sender) }}{{ $q = $q | append (printf "rft.au=%s" (urlquery .)) }}{{ end -}}
+  {{- with $book.Params.year }}{{ $q = $q | append (printf "rft.date=%d" (int .)) }}{{ end -}}
+  {{- with .Params.start_folio }}{{ $q = $q | append (printf "rft.spage=%s" (urlquery .)) }}{{ end -}}
+  {{- with .Params.end_folio }}{{ $q = $q | append (printf "rft.epage=%s" (urlquery .)) }}{{ end -}}
+  {{- $q = $q | append "rft.pub=Paper+Lanterns" (printf "rft_id=%s" (urlquery .Permalink)) -}}
+<span class="Z3988" title="{{ delimit $q "&" }}" aria-hidden="true"></span>
+{{- else if eq .Params.layout "book" -}}
+  {{- $q = $q | append "rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" "rft.genre=book" -}}
+  {{- $q = $q | append (printf "rft.btitle=%s" (urlquery .Title)) -}}
+  {{- range .Params.authors }}{{ $q = $q | append (printf "rft.au=%s" (urlquery .)) }}{{ end -}}
+  {{- with .Params.year }}{{ $q = $q | append (printf "rft.date=%d" (int .)) }}{{ end -}}
+  {{- $q = $q | append (printf "rft.pub=%s" (urlquery (.Params.publisher | default "Paper Lanterns"))) (printf "rft_id=%s" (urlquery .Permalink)) -}}
+<span class="Z3988" title="{{ delimit $q "&" }}" aria-hidden="true"></span>
+{{- else if and .IsPage (eq .Type "curated") -}}
+  {{- $d := partial "curated-date.html" . -}}
+  {{- $q = $q | append "rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc" -}}
+  {{- $q = $q | append (printf "rft.title=%s" (urlquery .Title)) -}}
+  {{- with .Params.author.name }}{{ $q = $q | append (printf "rft.creator=%s" (urlquery .)) }}{{ end -}}
+  {{- with $d.year }}{{ $q = $q | append (printf "rft.date=%s" (urlquery .)) }}{{ end -}}
+  {{- $q = $q | append "rft.publisher=Paper+Lanterns" (printf "rft.identifier=%s" (urlquery .Permalink)) -}}
+<span class="Z3988" title="{{ delimit $q "&" }}" aria-hidden="true"></span>
+{{- end -}}

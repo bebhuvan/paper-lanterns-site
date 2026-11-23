@@ -1,0 +1,13 @@
+{{- /* Resolve a person's display name (or alias from people-same-person.json) to their /people/<slug>/ slug, or "" if no person page exists. */ -}}
+{{- $raw := strings.TrimSpace (. | default "") -}}
+{{- $slug := "" -}}
+{{- if $raw -}}
+  {{- $same := index site.Data "people-same-person" | default dict -}}
+  {{- $canon := index $same $raw | default $raw -}}
+  {{- range site.Data.people -}}
+    {{- if or (eq .name $canon) (eq .name $raw) -}}
+      {{- $slug = .slug -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $slug -}}

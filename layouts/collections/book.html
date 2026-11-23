@@ -110,6 +110,15 @@
 <div class="text">
 <p>This edition reproduces <i>{{ .Title }}</i>{{ with .Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}{{ with .Params.imprint }} ({{ . }}){{ end }}. It was read page by page by machine from {{ if $id }}the Internet Archive scan{{ else }}a scan of the printed book{{ end }}, keeping the printed spelling and punctuation.</p>
 <p>Every printed page is included: {{ lang.FormatNumber 0 (int $c.letters) }} letters and {{ lang.FormatNumber 0 (int $c.notes) }} notes across {{ $c.pages }} scan leaves, with the editor’s own pages between the letters. The text is in the public domain, and this transcription is free to reuse under CC BY 4.0, with credit to Paper Lanterns.</p>
+{{- $pLinks := slice -}}
+{{- range .Params.authors -}}
+  {{- $clean := replaceRE `\s*\([^)]*\)\s*$` "" . -}}
+  {{- $slug := partial "person-slug.html" $clean -}}
+  {{- if $slug }}{{ $pLinks = $pLinks | append (dict "name" $clean "slug" $slug) }}{{ end -}}
+{{- end -}}
+{{- if gt (len $pLinks) 0 }}
+<p>In the People index: {{ range $i, $pl := $pLinks }}{{ if $i }}, {{ end }}<a class="u" href="{{ printf "/people/%s/" $pl.slug | relURL }}">{{ $pl.name }}</a>{{ end }}.</p>
+{{- end }}
 </div>
 {{- $plates := slice -}}
 {{- if $id }}{{ with .Params.frontispiece }}{{ $plates = $plates | append (dict "leaf" .leaf "page" .page "cap" .caption "what" "The frontispiece") }}{{ end }}{{ with .Params.title_page }}{{ $plates = $plates | append (dict "leaf" .leaf "page" .page "cap" (printf "The title page, %d" (int $p.Params.year)) "what" "The title page") }}{{ end }}{{ end -}}
@@ -197,6 +206,7 @@
 <p>Paper Lanterns is a sister project of <a class="u" href="https://akshara.ink/">Akshara</a>, the open library of Indian books. Akshara’s community exists for exactly this: people who care about keeping the written past readable, proofreading these pages one at a time until no slip is left. If that sounds like you, join them.</p>
 </div>
 <div class="set-in">{{ partial "logo.html" (dict "w" 40 "sw" 1.1) }}<span>Set in Newsreader for Paper Lanterns{{ if $id }}, from a scan in the Internet Archive{{ end }}.</span></div>
+{{ partial "coins.html" . }}
 </div>
 </div>
 </section>

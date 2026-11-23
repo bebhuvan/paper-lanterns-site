@@ -1,10 +1,42 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
+{{- $p := . -}}
 {{- $roles := dict "tr." "translator" "trans." "translator" "ed." "editor" "comp." "compiler" "intro." "introduction" "tr. & ed." "translator and editor" "trans. & ed." "translator and editor" "comp. & ed." "compiler and editor" -}}
+{{- $names := slice .Title -}}
+{{- range (.Params.also | default slice) }}{{ $names = $names | append . }}{{ end -}}
+{{- $signedLetters := slice -}}
+{{- $minYear := 9999 -}}{{- $maxYear := 0 -}}
+{{- range $bookId, $_ := (.Params.letters | default dict) -}}
+  {{- with site.GetPage (printf "/collections/%s" $bookId) -}}
+    {{- range (where .RegularPages "Params.layout" "letter").ByWeight -}}
+      {{- $sf := .Params.sender_full | default "" -}}
+      {{- $s := .Params.sender | default "" -}}
+      {{- if or (in $names $sf) (in $names $s) -}}
+        {{- $signedLetters = $signedLetters | append . -}}
+        {{- $iso := .Params.letter_date.iso | default "" -}}
+        {{- if ge (len $iso) 4 -}}
+          {{- $yr := int (substr $iso 0 4) -}}
+          {{- if and (gt $yr 0) (lt $yr $minYear) }}{{ $minYear = $yr }}{{ end -}}
+          {{- if gt $yr $maxYear }}{{ $maxYear = $yr }}{{ end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $totalSigned := len $signedLetters -}}
+{{- $volCount := len (.Params.credits | default slice) -}}
+{{- $curCount := len (.Params.curated | default slice) -}}
 <main id="main">
 <section class="wrap page-title" aria-labelledby="title">
 <nav class="crumb" aria-label="Breadcrumb"><a href="{{ .CurrentSection.RelPermalink }}">People</a></nav>
 <h1 id="title">{{ .Title }}</h1>
+{{- $bits := slice -}}
+{{- if gt $volCount 0 }}{{ $bits = $bits | append (printf "%d %s" $volCount (cond (eq $volCount 1) "volume" "volumes")) }}{{ end -}}
+{{- if gt $totalSigned 0 }}{{ $bits = $bits | append (printf "%s %s" (lang.FormatNumber 0 $totalSigned) (cond (eq $totalSigned 1) "letter" "letters")) }}{{ end -}}
+{{- if gt $curCount 0 }}{{ $bits = $bits | append (printf "%d hand-curated %s" $curCount (cond (eq $curCount 1) "work" "works")) }}{{ end -}}
+{{- if gt (len $bits) 0 }}
+<p>{{ delimit $bits " · " }}{{ if and (lt $minYear 9999) (gt $maxYear 0) }} ({{ if eq $minYear $maxYear }}{{ $minYear }}{{ else }}{{ $minYear }}–{{ $maxYear }}{{ end }}){{ end }}.</p>
+{{- end }}
 {{- with .Params.also }}<p>Also printed as {{ delimit . ", " " and " }}.</p>{{ end }}
 </section>
 {{- with .Params.credits }}
@@ -36,6 +68,19 @@
 {{- range . }}{{ with site.GetPage . }}{{ $d := partial "curated-date.html" . }}
 <li><a href="{{ .RelPermalink }}"><span class="n"><span class="num">{{ $d.year }}</span><span class="d">{{ .CurrentSection.Title }}</span></span><span class="txt"><span class="inc">{{ .Title }}</span><span class="to">{{ with .Params.recipient }}To {{ . }}{{ end }}</span></span></a></li>
 {{- end }}{{ end }}
+</ol>
+</section>
+{{- end }}
+{{- if gt $totalSigned 0 }}
+{{- $dated := sort (where $signedLetters "Params.letter_date.iso" "!=" "") "Params.letter_date.iso" -}}
+{{- $pool := cond (gt (len $dated) 0) $dated $signedLetters -}}
+{{- $shown := first 20 $pool -}}
+<section class="wrap contents-plain" aria-labelledby="letters-h">
+<h2 id="letters-h" class="set-count">{{ if gt $totalSigned 20 }}First 20 of {{ lang.FormatNumber 0 $totalSigned }} letters{{ else }}Letters{{ end }}</h2>
+<ol class="rows">
+{{- range $shown }}
+<li><a href="{{ .RelPermalink }}"><span class="n"><span class="num">{{ .Params.number | default (printf "%d" (int .Params.sequence)) }}</span><span class="d">{{ .Params.letter_date.display | default "Undated" }}</span></span><span class="txt"><span class="inc">“{{ .Title }}”</span><span class="to">{{ with (.Params.recipient_full | default .Params.recipient) }}To {{ . }} · {{ end }}{{ .Parent.Title }}</span></span></a></li>
+{{- end }}
 </ol>
 </section>
 {{- end }}
