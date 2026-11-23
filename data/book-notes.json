@@ -1,20 +1,20 @@
 {
   "bapu-mira-letters": {
     "book": [
-      "Nearly four hundred letters written by M. K. Gandhi between 1924 and 1948 to Madeleine Slade—the daughter of a British rear-admiral who left London to join Sabarmati Ashram and became known as Mirabehn. Written from ashrams, third-class railway carriages, prisons, and political conferences, the letters move effortlessly from hand-spinning, diet, and fever cures to solitude, non-violence, and the political convulsions of late-colonial India.",
-      "Navajivan Publishing House brought the collection out in Ahmedabad in 1949, a year after Gandhi’s assassination, edited and introduced by Mirabehn herself. Because Gandhi answered her with steady tenderness even at the height of national campaigns, the volume reads as an unusually intimate diary of his daily discipline across twenty-four years."
+      "In November 1925 Madeleine Slade—the daughter of a British rear-admiral who had read Romain Rolland’s life of Gandhi in Paris—stepped off a train in Ahmedabad to join Sabarmati Ashram. For the next twenty-three years, from ashrams, third-class railway carriages, Yeravda prison, and London conference rooms, Gandhi wrote to her as ‘Mira’. The letters range without seam from carding cotton, boiling drinking water, and curing fevers to solitude, anger, prayer, and the dismantling of an empire.",
+      "Mirabehn edited and introduced this collection herself for Navajivan Publishing House in 1949, the year after Gandhi’s assassination. Because he answered her steadily even during fasts and national campaigns, the book reads like a private ledger of his daily discipline."
     ],
     "people": [
       {
         "name": "M. K. Gandhi",
         "dates": "1869–1948",
         "slug": "m-k-gandhi",
-        "bio": "Lawyer, writer, and leader of the Indian independence movement. A relentless correspondent, he wrote thousands of letters by hand—often before dawn—treating personal letters as an instrument of moral instruction and friendship."
+        "bio": "Lawyer, writer, and leader of the Indian independence movement. He rose before dawn to answer correspondents by hand, treating an ordinary postcard with the same moral attention as a dispatch to the Viceroy."
       },
       {
         "name": "Mirabehn (Madeleine Slade)",
         "dates": "1892–1982",
-        "bio": "Englishwoman drawn to Gandhi through Romain Rolland’s biography. She arrived at Sabarmati in 1925, adopted khadi and ashram life, accompanied Gandhi to the 1931 Round Table Conference in London, and preserved these letters."
+        "bio": "Englishwoman who left London for Sabarmati Ashram in 1925, spun her own cloth, accompanied Gandhi to the 1931 Round Table Conference, and kept these letters intact through decades of travel and imprisonment."
       }
     ],
     "links": [
@@ -26,21 +26,21 @@
   },
   "broughton-mahratta-1809": {
     "book": [
-      "Thirty-three letters written from the moving military camp of Daulat Rao Sindhia during the year 1809, when Thomas Duer Broughton commanded the British Resident’s escort in Rajputana and central India. Addressed to his brother, the letters record day-to-day life inside a vast mobile Maratha court: festivals, Holi celebrations, courtly etiquette, mutinous mercenaries, tax raids, music, and the precarious politics of the Deccan and Malwa.",
-      "First published in London in 1813 with coloured plates, the book was reissued by Archibald Constable in 1892 with an introduction by Mountstuart Elphinstone Grant Duff. Despite its colonial vantage point, it remains one of the sharpest eyewitness accounts in English of late Maratha camp society."
+      "Through the year 1809, Thomas Duer Broughton commanded the British Resident’s escort inside the mobile military camp of Daulat Rao Sindhia—a tented city of soldiers, merchants, courtiers, elephants, and camp followers shifting across Rajputana and central India. Writing home to his brother, he set down what passed outside his tent: Holi celebrations, court etiquette, unpaid cavalry mutinies, revenue raids, monsoon marches, and street theatre.",
+      "First issued in London in 1813 with hand-coloured plates, the letters were reprinted by Archibald Constable in 1892 with an introduction by Mountstuart Elphinstone Grant Duff. Read with an eye to its colonial vantage point, it remains an unusually vivid eyewitness record of late Maratha court life."
     ],
     "people": [
       {
         "name": "Thomas Duer Broughton",
         "dates": "1778–1835",
         "slug": "thomas-duer-broughton",
-        "bio": "East India Company officer and Persian scholar who served at Seringapatam before joining the Residency at Sindhia’s court. He also published early English translations of Hindustani poetry."
+        "bio": "East India Company officer and Persian scholar who fought at Seringapatam before joining the Residency at Sindhia’s camp. He later published one of the earliest English anthologies of Hindustani verse."
       },
       {
         "name": "Mountstuart Elphinstone Grant Duff",
         "dates": "1829–1906",
         "slug": "mountstuart-elphinstone-grant-duff",
-        "bio": "Scottish Liberal politician, Governor of Madras (1881–1886), and diarist who wrote the historical introduction to this 1892 edition."
+        "bio": "Scottish Liberal politician, Governor of Madras (1881–1886), and diarist who supplied the historical introduction to this 1892 reprint."
       }
     ],
     "links": [
@@ -52,21 +52,21 @@
   },
   "cortes-letters-vol1-1908": {
     "book": [
-      "The opening volume of Hernán Cortés’s Five Letters of Relation (Cartas de relación), dispatches sent from New Spain to Emperor Charles V justifying his unauthorized march into Mexico, the founding of Veracruz, and the first encounter with Moctezuma and Tenochtitlan. Written under immense legal and military pressure, the dispatches combine field reportage, ethnographic amazement, and calculated political self-defence.",
-      "Translated, annotated, and introduced by Francis Augustus MacNutt for G. P. Putnam’s Sons in 1908, this first volume pairs the early dispatches with a biographical sketch, Cortés’s last will and testament, and a bibliographical note on the sixteenth-century printings."
+      "When Hernán Cortés sailed from Cuba in 1519 without his governor’s leave, his legal survival depended on convincing the nineteen-year-old Emperor Charles V that the prize justified the disobedience. His Cartas de relación—the first dispatches appear in this volume—combine field report, astonished inventory of Tenochtitlan’s markets and causeways, and cool political self-justification.",
+      "Francis Augustus MacNutt translated and annotated the series for G. P. Putnam’s Sons in 1908. This opening volume sets the early letters beside a biographical sketch, Cortés’s last will and testament, and a bibliography of the sixteenth-century printings."
     ],
     "people": [
       {
         "name": "Hernán Cortés",
         "dates": "1485–1547",
         "slug": "hernan-cortes",
-        "bio": "Spanish conquistador who led the expedition that brought down the Aztec Empire between 1519 and 1521. His five dispatches to Charles V became the foundational European narrative of the conquest of Mexico."
+        "bio": "Spanish conquistador who led the campaign that overturned the Aztec Empire between 1519 and 1521. His five dispatches to Charles V became Europe’s primary account of the conquest of Mexico."
       },
       {
         "name": "Francis Augustus MacNutt",
         "dates": "1863–1927",
         "slug": "francis-augustus-macnutt",
-        "bio": "American diplomat, historian, and translator of early Spanish-American chronicles who prepared the first complete English translation of all five letters."
+        "bio": "American diplomat and historian of early Spanish America who prepared the first complete English translation of all five letters of relation."
       }
     ],
     "links": [
@@ -78,21 +78,21 @@
   },
   "dostoevsky-family-friends-1914": {
     "book": [
-      "Eighty-seven letters tracing Fyodor Dostoevsky’s life from his student years at the Petersburg Engineering School to his final months in 1881. At the centre stands the famous letter to his brother Michael written hours after his mock execution on Semjonovsky Square on 22 December 1849, followed by four years of prison silence at Omsk, exile in Siberia, desperate debts in Western Europe, and the composition of Crime and Punishment, The Idiot, and The Brothers Karamazov.",
-      "Translated by Ethel Colburn Mayne in 1914 from Alexander Eliasberg’s German selection, this was the book that first introduced English readers to Dostoevsky’s unguarded voice. It concludes with contemporaries’ recollections and a chronological table of his life."
+      "At the heart of this volume sits the letter Dostoevsky wrote to his brother Michael on the evening of 22 December 1849, hours after standing blindfolded in a white shroud on Semjonovsky Square waiting for a firing squad that never shot. Around it stretch forty years of correspondence: engineering school in Petersburg, four silent years in the convict barracks at Omsk, exile in Siberia, pawnshops in Baden-Baden, and the feverish writing of Crime and Punishment and The Brothers Karamazov.",
+      "Ethel Colburn Mayne translated this selection in 1914 from Alexander Eliasberg’s German edition, giving English readers their first sustained look at Dostoevsky off the page of his novels. Recollections by friends and a chronological table of his life close the book."
     ],
     "people": [
       {
         "name": "Fyodor Dostoevsky",
         "dates": "1821–1881",
         "slug": "fyodor-dostoevsky",
-        "bio": "Russian novelist and journalist whose imprisonment in Siberia reshaped both his politics and his fiction. His letters are urgent, feverish, and candid about money, epilepsy, faith, and writing under deadline."
+        "bio": "Russian novelist and journalist whose years in Siberian prison broke his health and remade his imagination. His letters are headlong, candid about debt and epilepsy, and written mostly against impossible deadlines."
       },
       {
         "name": "Ethel Colburn Mayne",
         "dates": "1865–1941",
         "slug": "ethel-colburn-mayne",
-        "bio": "Irish biographer, short-story writer, and translator of Byron, Nietzsche, and Dostoevsky whose 1914 translation remained the standard English selection for decades."
+        "bio": "Irish biographer, short-story writer, and translator of Byron, Nietzsche, and Dostoevsky whose 1914 volume shaped how English-speaking readers first heard Dostoevsky’s voice."
       }
     ],
     "links": [
@@ -103,26 +103,26 @@
   },
   "dostoevsky-letters-reminiscences-1923": {
     "book": [
-      "Thirty-one letters newly released from Russian archives after the 1917 revolution, paired with reminiscences by Dostoevsky’s second wife, Anna Grigoryevna. The volume opens with the unedited letter to his brother from the Peter and Paul Fortress, continues through long literary and political letters to the poet Apollon Maikov during his years in Geneva and Dresden, and closes with his ecstatic, exhausted dispatches to his wife from the 1880 Pushkin Celebration in Moscow.",
-      "Translated directly from the Russian by S. S. Koteliansky and J. Middleton Murry in 1923, it forms the natural companion to Ethel Colburn Mayne’s 1914 selection, restoring passages earlier editors had omitted."
+      "After the Russian archives opened in 1917, a cache of Dostoevsky’s papers emerged that earlier editors had cut or suppressed. Here are the unexpurgated letter from the Peter and Paul Fortress, long political and literary letters to the poet Apollon Maikov from Geneva and Dresden, reminiscences by his second wife Anna Grigoryevna, and the breathless dispatches he sent home to her from the 1880 Pushkin Celebration in Moscow—months before he died.",
+      "Translated straight from the Russian by S. S. Koteliansky and J. Middleton Murry in 1923, it serves as the sharper, more intimate companion to Ethel Colburn Mayne’s 1914 collection."
     ],
     "people": [
       {
         "name": "Fyodor Dostoevsky",
         "dates": "1821–1881",
         "slug": "fyodor-dostoevsky",
-        "bio": "Russian novelist whose later letters to Maikov and to his wife show him balancing gambling debts, exile, and the grand moral architecture of his last four novels."
+        "bio": "Russian novelist whose late letters to Maikov and to his wife catch him balancing gambling ruin, homesickness in Europe, and the architecture of his last four novels."
       },
       {
         "name": "Anna Dostoevskaya",
         "dates": "1846–1918",
-        "bio": "Stenographer who took down The Gambler in twenty-six days, married Dostoevsky in 1867, managed his finances and publishing, and preserved his notebooks and correspondence."
+        "bio": "Young stenographer hired to take down The Gambler in twenty-six days. She married Dostoevsky in 1867, rescued him from creditors, became his publisher, and kept his archive alive."
       },
       {
         "name": "S. S. Koteliansky & J. Middleton Murry",
         "dates": "1880–1955 / 1889–1957",
         "slug": "s-s-koteliansky",
-        "bio": "Ukrainian-born translator and English critic who collaborated across the 1920s to bring Russian letters, notebooks, and memoirs into English."
+        "bio": "Ukrainian-born translator and English critic whose 1920s collaborations brought Russian notebooks, letters, and memoirs directly from newly published Moscow texts into English."
       }
     ],
     "links": [
@@ -134,21 +134,21 @@
   },
   "eic-letters-received-vol-1-1602-1613": {
     "book": [
-      "The first volume of the India Office’s landmark six-volume transcription of the East India Company’s ‘Original Correspondence’—dispatches sent back to London by sea captains, factors, and merchants stationed at Bantam, Surat, Mocha, and the Spice Islands during the Company’s fragile first decade. Written in vigorous Jacobean English, they document shipwrecks, Dutch and Portuguese rivalries, pepper prices, and the first English embassies to the Mughal court.",
-      "Edited by Frederick Charles Danvers, Registrar and Superintendent of Records at the India Office, and published in London in 1896, this volume covers the years 1602 to 1613 and includes a glossary of early seventeenth-century trade terms."
+      "Long before the East India Company governed a single acre of India, its servants were merchants clinging to rented warehouses at Bantam, Surat, Mocha, and the Spice Islands, waiting on monsoon winds and royal permission to trade. These dispatches from 1602 to 1613—written in salty Jacobean English—report shipwrecks, Dutch and Portuguese skirmishes, pepper prices, and the first fumbling English embassies to the Mughal court.",
+      "Frederick Charles Danvers, Registrar of the India Office, opened this six-volume transcription of the Company’s ‘Original Correspondence’ in London in 1896, preserving original spelling alongside a glossary of seventeenth-century trade terms."
     ],
     "people": [
       {
         "name": "East India Company",
         "dates": "1600–1874",
         "slug": "east-india-company",
-        "bio": "English joint-stock trading company chartered by Elizabeth I in 1600. Its early factors wrote from precarious coastal trading posts long before the Company acquired territorial rule in India."
+        "bio": "English joint-stock trading company chartered by Elizabeth I in 1600. In its first decade its factors operated as vulnerable foreign merchants competing for cloves, pepper, and textiles across the Indian Ocean."
       },
       {
         "name": "Frederick Charles Danvers",
         "dates": "1833–1906",
         "slug": "frederick-charles-danvers",
-        "bio": "India Office archivist and historian of the Portuguese in India who initiated this series before handing editorial duties to William Foster."
+        "bio": "India Office archivist and historian of the Portuguese in India who edited this opening volume before passing the series to William Foster."
       }
     ],
     "links": [
@@ -159,21 +159,21 @@
   },
   "eic-letters-received-vol-2-1613-1615": {
     "book": [
-      "The second volume of the East India Company’s ‘Original Correspondence’ covers 1613 to 1615, as English factors established a permanent foothold at Surat and pushed inland toward Agra, Ahmedabad, and Ajmer—while also opening factories as far east as Hirado in Japan. The 126 letters record Thomas Aldworth’s struggles at Surat, William Adams’s dispatches from Japan, and the skirmishes off Swally against Portuguese fleets.",
-      "Published in London in 1897, this was the first volume edited by William Foster, whose meticulous historical introductions, textual fidelity, and glossaries turned the series into an enduring primary source for early modern Indian Ocean history."
+      "Between 1613 and 1615 English factors secured their first permanent factory at Surat, sent buyers inland toward Ahmedabad, Agra, and Ajmer, and opened an unlikely outpost at Hirado in Japan. The letters trace Thomas Aldworth’s obstinate defence of the Surat post, naval clashes with Portuguese galleons off Swally, and William Adams’s dispatches from Tokugawa Japan.",
+      "Published in London in 1897, this was the first volume edited by William Foster, whose scrupulous introductions, notes, and glossaries turned the India Office records into a cornerstone of early modern Asian history."
     ],
     "people": [
       {
         "name": "East India Company",
         "dates": "1600–1874",
         "slug": "east-india-company",
-        "bio": "During 1613–1615 the Company’s factors operated across a sprawling arc from the Red Sea and Gujarat to Bantam and Japan, wholly dependent on monsoon winds and local royal farmans."
+        "bio": "During 1613–1615 the Company’s factors worked across an arc stretching from the Red Sea and Gujarat to Java and Japan, entirely dependent on seasonal fleets and local court charters."
       },
       {
         "name": "Sir William Foster",
         "dates": "1863–1951",
         "slug": "william-foster",
-        "bio": "Historiographer to the India Office and editor of Volumes II–VI of Letters Received, as well as the later English Factories in India series."
+        "bio": "Historiographer to the India Office and editor of Volumes II–VI of Letters Received, followed by thirteen volumes of The English Factories in India."
       }
     ],
     "links": [
@@ -184,21 +184,21 @@
   },
   "eic-letters-received-vol-3-1615": {
     "book": [
-      "Seventy-eight dispatches from the single year 1615, capturing the arrival of Sir Thomas Roe—King James I’s first accredited ambassador to the Mughal Emperor Jahangir—alongside intense correspondence from Surat, Ajmer, Masulipatam, Sumatra, and Japan. The letters trace Nicholas Downton’s naval defence off Swally, indigo and calico purchasing inland, and the Company’s first probes into Persia.",
-      "Edited by William Foster and published in London in 1899, Volume III preserves the unvarnished language of Jacobean merchants negotiating with Mughal governors, local brokers, and rival European factors."
+      "In the single year 1615, Sir Thomas Roe landed at Surat as King James I’s first accredited ambassador to the Mughal Emperor Jahangir, while Nicholas Downton beat off a Portuguese fleet in the Swally roadstead. Dispatches from Surat, Ajmer, Masulipatam, Sumatra, and Japan follow indigo and calico buying inland and the Company’s first tentative probes toward Safavid Persia.",
+      "Edited by William Foster for Sampson Low in 1899, Volume III keeps the exact spelling and blunt commercial idiom of Jacobean factors dealing with Mughal governors, local brokers, and European rivals."
     ],
     "people": [
       {
         "name": "East India Company",
         "dates": "1600–1874",
         "slug": "east-india-company",
-        "bio": "By 1615 the Company was shifting from improvised single voyages to permanent factories in Mughal India and Southeast Asia, seeking formal diplomatic protection at Jahangir’s court."
+        "bio": "By 1615 the Company was moving from single speculative voyages to permanent coastal and inland factories, pressing for formal protection at Jahangir’s court."
       },
       {
         "name": "Sir William Foster",
         "dates": "1863–1951",
         "slug": "william-foster",
-        "bio": "Archivist and editor who annotated these India Office manuscripts with exact provenance notes, appendices, and cross-references."
+        "bio": "India Office archivist who annotated these manuscripts with provenance notes, cross-references, and appendices."
       }
     ],
     "links": [
@@ -209,21 +209,21 @@
   },
   "eic-letters-received-vol-4-1616": {
     "book": [
-      "Eighty-seven letters from 1616, when Sir Thomas Roe followed Emperor Jahangir’s court at Ajmer and Mandu while factors across western India, Persia, Siam, and the Moluccas reported on silk, indigo, cloves, and fierce commercial clashes with the Dutch East India Company (VOC). The volume captures the practical strain of running a transoceanic trading network where a single reply from London took more than a year.",
-      "Edited by William Foster and published in London in 1900 from the India Office’s ‘Original Correspondence’ files, with an extensive historical introduction and index."
+      "Through 1616 Sir Thomas Roe trailed Emperor Jahangir’s court at Ajmer and Mandu, trying to turn courtly gifts and patience into a lasting commercial treaty, while factors in Persia, Siam, and the Moluccas reported on silk, indigo, cloves, and hardening friction with the Dutch East India Company. Every page reflects the sheer lag of seventeenth-century distance, where a letter to London might wait eighteen months for an answer.",
+      "Edited by William Foster and published in London in 1900 from the India Office’s ‘Original Correspondence’ files."
     ],
     "people": [
       {
         "name": "East India Company",
         "dates": "1600–1874",
         "slug": "east-india-company",
-        "bio": "In 1616 the Company’s servants in India, Persia, and the Malay Archipelago faced sharpening Dutch competition and delicate diplomacy at the Mughal court."
+        "bio": "In 1616 the Company’s factors across Mughal India, Persia, and the Malay Archipelago faced aggressive Dutch competition and complex negotiations at imperial courts."
       },
       {
         "name": "Sir William Foster",
         "dates": "1863–1951",
         "slug": "william-foster",
-        "bio": "India Office historiographer whose six-volume edition made the earliest surviving English commercial archives from Asia accessible to scholars."
+        "bio": "India Office historiographer whose editions opened the earliest surviving English commercial archives from Asia to modern historians."
       }
     ],
     "links": [
@@ -234,21 +234,21 @@
   },
   "eic-letters-received-vol-5-1617a": {
     "book": [
-      "Seventy-eight letters from the first half of 1617 (January to June), written from Surat, Burhanpur, Agra, Isfahan, Bantam, and Hirado. The volume documents the Company’s first trade mission to Shah Abbas’s Persia, the bitter stand-off with Dutch ships in the Banda Islands, and Thomas Roe’s patient, exasperated lobbying at Jahangir’s moving imperial camp.",
-      "Edited by William Foster and published in London in 1901, Volume V reflects the growing volume of surviving correspondence—so dense by 1617 that a single calendar year required two separate books."
+      "By 1617 the Company’s surviving paperwork had grown so dense that six months filled a volume of its own. These dispatches from January to June—sent from Surat, Burhanpur, Agra, Isfahan, Bantam, and Hirado—record the Company’s first silk mission to Shah Abbas’s Persia, an armed stand-off with Dutch ships in the Banda Islands, and Roe’s dry, exasperated lobbying inside Jahangir’s travelling camp.",
+      "Edited by William Foster and published in London in 1901, complete with appendices and a detailed subject index."
     ],
     "people": [
       {
         "name": "East India Company",
         "dates": "1600–1874",
         "slug": "east-india-company",
-        "bio": "By early 1617 the Company maintained interconnected factories across Mughal India, Safavid Persia, Java, and Japan, linked by seasonal fleets and overland messengers."
+        "bio": "By early 1617 the Company ran interconnected factories across Mughal India, Safavid Persia, Java, and Japan, tied together by monsoon sailings and overland couriers."
       },
       {
         "name": "Sir William Foster",
         "dates": "1863–1951",
         "slug": "william-foster",
-        "bio": "Editor of Volumes II–VI of Letters Received, transcribing original seventeenth-century spelling, abbreviations, and endorsements with archival precision."
+        "bio": "Editor of Volumes II–VI of Letters Received, transcribing original seventeenth-century abbreviations, spelling, and endorsements without modernising them."
       }
     ],
     "links": [
@@ -259,21 +259,21 @@
   },
   "eic-letters-received-vol-6-1617b": {
     "book": [
-      "The sixth and final volume of the series, covering July to December 1617 in seventy-three letters from Surat, Ahmedabad, Mandu, Persia, Sumatra, and Java. It records the worsening conflict with the Dutch in the Spice Islands—which would eventually push the English Company to concentrate its ambitions on the Indian subcontinent—alongside intimate details of illness, private trade, and life in Mughal cities.",
-      "Edited by William Foster and published in London in 1902. After this volume, the India Office continued the record in Foster’s calendared series The English Factories in India, beginning with 1618."
+      "The closing half of 1617 brings the six-volume series to an end at a pivot point. As Dutch warships squeezed English factors out of the Banda spice trade, the Company’s centre of gravity shifted steadily toward Surat, Ahmedabad, and the Mughal interior—while everyday letters still pause over fevers, private debts, Persian silk, and life inside Indian cities.",
+      "Edited by William Foster and published in London in 1902. From 1618 onward, Foster carried the archive forward in his calendared series The English Factories in India."
     ],
     "people": [
       {
         "name": "East India Company",
         "dates": "1600–1874",
         "slug": "east-india-company",
-        "bio": "The closing months of 1617 mark a turning point in the Company’s early history, as setbacks in Southeast Asia deepened its commitment to Indian trade."
+        "bio": "The second half of 1617 marked the turn away from the Spice Islands that eventually anchored the Company’s fortunes on the Indian subcontinent."
       },
       {
         "name": "Sir William Foster",
         "dates": "1863–1951",
         "slug": "william-foster",
-        "bio": "India Office historiographer who completed the six-volume Letters Received series in 1902 before editing thirteen subsequent volumes on seventeenth-century India."
+        "bio": "India Office historiographer who completed this six-volume transcription in 1902 before editing thirteen subsequent volumes on seventeenth-century India."
       }
     ],
     "links": [
@@ -284,21 +284,21 @@
   },
   "faraday-schoenbein-1899": {
     "book": [
-      "Twenty-six years of scientific friendship between Michael Faraday in London and the German-Swiss chemist Christian Friedrich Schoenbein in Basel, preserved in 158 letters exchanged between 1836 and 1862. Across these pages they test each other’s hypotheses on passive iron, ozone, gun-cotton, electromagnetism, and the nature of light—interspersed with warm family news, travel notes, and Faraday’s quiet, unblinking account of his failing memory in old age.",
-      "Edited by Georg W. A. Kahlbaum and Francis V. Darbishire and published jointly in Basel and London in 1899, the volume reproduces Schoenbein’s charmingly idiomatic English verbatim alongside exhaustive chemical and bibliographic notes."
+      "For twenty-six years, Michael Faraday at the Royal Institution in London and the German-Swiss chemist Christian Friedrich Schoenbein in Basel swapped experiments, doubts, and family news across the Channel. In these letters (1836–1862) they argue over passive iron, ozone, gun-cotton, electromagnetism, and the nature of light—until, in the final years, Faraday writes with quiet dignity about his own failing memory and lays down his notebooks.",
+      "Georg W. A. Kahlbaum and Francis V. Darbishire edited the exchange for joint publication in Basel and London in 1899, keeping Schoenbein’s lively, slightly unidiomatic English intact alongside thorough chemical and historical notes."
     ],
     "people": [
       {
         "name": "Michael Faraday",
         "dates": "1791–1867",
         "slug": "michael-faraday",
-        "bio": "Self-taught English experimentalist at the Royal Institution whose discoveries of electromagnetic induction and benzene laid the foundations of modern electrical engineering and chemistry."
+        "bio": "Bookbinder’s apprentice turned experimental physicist at the Royal Institution whose discoveries of electromagnetic induction and benzene laid the groundwork for electrical engineering and modern chemistry."
       },
       {
         "name": "Christian Friedrich Schoenbein",
         "dates": "1799–1868",
         "slug": "christian-friedrich-schoenbein",
-        "bio": "Professor of chemistry at the University of Basel, discoverer of ozone and gun-cotton (nitrocellulose), and one of Faraday’s closest scientific confidants."
+        "bio": "Professor of chemistry at Basel, discoverer of ozone and gun-cotton (nitrocellulose), and one of Faraday’s warmest scientific confidants."
       }
     ],
     "links": [
@@ -310,15 +310,15 @@
   },
   "fifty-famous-letters-1930": {
     "book": [
-      "A sweeping historical anthology of fifty-five landmark letters spanning more than eight centuries, from Pope Gregory VII’s 1075 rebuke of Emperor Henry IV to early twentieth-century dispatches. Arranged chronologically, it gathers moments when history turned on a single sheet of paper: Columbus announcing the New World, Anne Boleyn writing from the Tower, Samuel Johnson rejecting Lord Chesterfield’s patronage, Abraham Lincoln consoling Mrs. Bixby, and Robert Falcon Scott’s final note from the Antarctic.",
-      "Selected and introduced with concise historical headnotes by Curtis Gentry for Thomas Y. Crowell in New York in 1930."
+      "From Pope Gregory VII’s 1075 rebuke of Emperor Henry IV to Robert Falcon Scott’s last pencil note in an Antarctic tent, this anthology collects moments when public history narrowed to a single sheet of paper. Columbus reporting the New World, Anne Boleyn writing from the Tower, Samuel Johnson turning down Lord Chesterfield’s late patronage, and Abraham Lincoln consoling Mrs. Bixby sit side by side in chronological order.",
+      "Curtis Gentry chose and introduced the letters for Thomas Y. Crowell in New York in 1930, prefacing each one with the immediate scene in which it was written."
     ],
     "people": [
       {
         "name": "Curtis Gentry",
         "dates": "fl. 1930",
         "slug": "curtis-gentry",
-        "bio": "American educator and anthologist who assembled this volume for general readers, pairing each letter with the immediate scene in which it was written."
+        "bio": "American educator and anthologist who assembled this volume for general readers, keeping the commentary short so the letters themselves carry the weight."
       }
     ],
     "links": [],
@@ -326,15 +326,15 @@
   },
   "gandhi-famous-letters-1947": {
     "book": [
-      "Twenty-nine of M. K. Gandhi’s most consequential public and political letters, written between 1920 and 1943 during the height of India’s struggle for independence. Included are his 1920 letter returning the Kaisar-i-Hind medal to the Viceroy, his March 1930 ultimatum to Lord Irwin on the eve of the Salt March, his open appeals to ‘Every Briton’ and to Adolf Hitler in 1939–1940, and his wartime correspondence with Viceroy Linlithgow from the Aga Khan Palace.",
-      "Compiled and edited by R. L. Khipple and printed in Lahore in 1947—the very year of Independence and Partition—preserving the contemporary nationalist framing in which these letters circulated."
+      "Gandhi treated the open letter to an adversary—always beginning ‘Dear Friend’—as a formal step of satyagraha: state your case plainly before acting. Gathered here are twenty-nine of his most consequential public letters from 1920 to 1943, including his return of the Kaisar-i-Hind medal, his March 1930 ultimatum to Lord Irwin on the eve of the Salt March, his wartime appeals to ‘Every Briton’ and to Adolf Hitler, and his exchanges with Viceroy Linlithgow from the Aga Khan Palace.",
+      "Compiled by R. L. Khipple and printed in Lahore in 1947—the year of Independence and Partition—preserving the contemporary framing in which these letters first reached Indian readers."
     ],
     "people": [
       {
         "name": "M. K. Gandhi",
         "dates": "1869–1948",
         "slug": "m-k-gandhi",
-        "bio": "Indian independence leader who treated the open letter to an adversary—always beginning ‘Dear Friend’—as an essential stage of satyagraha, stating his case plainly before launching civil disobedience."
+        "bio": "Indian independence leader whose public letters turned formal colonial correspondence into a plain-spoken arena of moral argument."
       }
     ],
     "links": [
@@ -345,15 +345,15 @@
   },
   "hooker-tour-1848": {
     "book": [
-      "Four long, observant private letters written by the young botanist Joseph Dalton Hooker between November 1847 and early 1848 during the outbound voyage from England via Madeira, Alexandria, Cairo, Suez, Aden, and Ceylon to Calcutta—the opening leg of his famous Himalayan expedition. Traveling aboard the steam-frigate Sidon alongside the incoming Governor-General Lord Dalhousie, Hooker sketches coastal geology, desert flora, ships’ quarters, and first impressions of Bengal.",
-      "Privately printed in 1848 as Part I of extracts from Hooker’s letters home, before the fuller narrative later grew into his classic Himalayan Journals (1854)."
+      "In November 1847 the young botanist Joseph Dalton Hooker boarded the steam-frigate Sidon alongside the incoming Governor-General Lord Dalhousie, bound for Calcutta and the Himalayas. In four long, observant letters sent home from Madeira, Alexandria, Cairo, Suez, Aden, Ceylon, and Bengal, he sketches desert plants, coastal rock strata, shipboard boredom, and his first bewildered days on the Hooghly.",
+      "Privately printed in 1848 as extracts from his correspondence, these letters capture the raw field notes out of which his classic Himalayan Journals (1854) later grew."
     ],
     "people": [
       {
         "name": "Joseph Dalton Hooker",
         "dates": "1817–1911",
         "slug": "joseph-dalton-hooker",
-        "bio": "British botanist, explorer, and Director of the Royal Botanic Gardens, Kew. One of Charles Darwin’s closest friends and earliest scientific allies, he introduced dozens of Himalayan rhododendrons to Britain."
+        "bio": "British botanist, explorer, and Director of the Royal Botanic Gardens, Kew. Charles Darwin’s closest scientific confidant, he spent three years botanising in Sikkim, Nepal, and eastern Bengal."
       }
     ],
     "links": [
@@ -364,21 +364,21 @@
   },
   "hugo-letters-vol1-1896": {
     "book": [
-      "Two hundred and forty-four letters spanning Victor Hugo’s youth and rise to fame between 1815 and 1845. They open with schoolboy notes to his separated parents, move through ardent courtship letters to Adèle Foucher and reports from the coronation of Charles X at Reims, and culminate in his intense, complicated correspondence with the critic Charles Augustin Sainte-Beuve—a friendship fractured by literary rivalry and love.",
-      "Edited by Hugo’s lifelong friend and literary executor Paul Meurice, and published in English by Houghton, Mifflin and Company in 1896 as the first of two volumes."
+      "Victor Hugo’s correspondence from 1815 to 1845 begins with a fourteen-year-old writing between separated parents and rises quickly through ardent courtship letters to Adèle Foucher, dispatches from the coronation of Charles X at Reims, and the battles of French Romanticism. Its sharpest drama lies in the long exchange with the critic Charles Augustin Sainte-Beuve—a close literary alliance slowly undone by jealousy and love.",
+      "Edited by Hugo’s devoted friend and literary executor Paul Meurice, and published in English by Houghton, Mifflin and Company in 1896 as the first of two volumes."
     ],
     "people": [
       {
         "name": "Victor Hugo",
         "dates": "1802–1885",
         "slug": "victor-hugo",
-        "bio": "French poet, dramatist, and novelist—author of Notre-Dame de Paris and Les Misérables—who stood at the centre of French Romanticism and nineteenth-century republican politics."
+        "bio": "French poet, playwright, and novelist—author of Notre-Dame de Paris and Les Misérables—who stood at the storm-centre of French Romanticism and nineteenth-century politics."
       },
       {
         "name": "Paul Meurice",
         "dates": "1818–1905",
         "slug": "paul-meurice",
-        "bio": "French playwright, journalist, and devoted friend of Hugo who acted as his Paris agent during his nineteen years of exile and later edited his correspondence."
+        "bio": "French dramatist, journalist, and lifelong friend who handled Hugo’s publishing in Paris during his nineteen years of exile and later edited his letters."
       }
     ],
     "links": [
@@ -389,21 +389,21 @@
   },
   "hugo-letters-vol2-1898": {
     "book": [
-      "The second volume of Victor Hugo’s correspondence (233 letters, 1836–1882) follows him from Rhine travel sketches into the political storm of Louis-Napoleon’s December 1851 coup d’état, nineteen years of defiant exile on Jersey and Guernsey, and his return to Paris after the fall of the Second Empire. From Hauteville House he corresponds with Garibaldi, Mazzini, Swinburne, Baudelaire, and his family while finishing Les Misérables.",
-      "Edited by Paul Meurice and published by Houghton, Mifflin and Company in 1898 as the companion to Volume I."
+      "Volume II follows Hugo from leisurely sketches along the Rhine into the rupture of Louis-Napoleon’s December 1851 coup d’état, flight to Brussels, and nineteen years of defiant exile on Jersey and Guernsey. From Hauteville House—refusing every imperial amnesty—he writes to Garibaldi, Mazzini, Baudelaire, Swinburne, and his children while finishing Les Misérables, before returning to Paris after the collapse of the Second Empire.",
+      "Edited by Paul Meurice and issued by Houghton, Mifflin and Company in 1898 as the companion to Volume I."
     ],
     "people": [
       {
         "name": "Victor Hugo",
         "dates": "1802–1885",
         "slug": "victor-hugo",
-        "bio": "Refusing Napoleon III’s amnesty, Hugo spent nearly two decades in the Channel Islands turning exile itself into a moral pulpit for European democracy and the abolition of the death penalty."
+        "bio": "During two decades on the Channel Islands, Hugo turned exile into a European pulpit—fighting capital punishment, defending the Paris Communards, and writing at full stretch."
       },
       {
         "name": "Paul Meurice",
         "dates": "1818–1905",
         "slug": "paul-meurice",
-        "bio": "Hugo’s literary executor who assembled this volume’s four chronological sections from the Rhine journeys through Hugo’s final decade in Paris."
+        "bio": "Hugo’s literary executor who arranged this second volume into four movements, from the Rhine journeys to Hugo’s final decade back in Paris."
       }
     ],
     "links": [
@@ -414,20 +414,20 @@
   },
   "humboldt-varnhagen-letters-1860": {
     "book": [
-      "Two hundred and twenty-six letters written between 1827 and 1858 by the aging explorer and polymath Alexander von Humboldt to the Berlin diplomat and literary chronicler Karl August Varnhagen von Ense, interleaved with Varnhagen’s sharply observed diary entries. Behind his public role as chamberlain at the Prussian court, Humboldt speaks here with astonishingly acid wit—mocking reactionary ministers, defending liberal scholars, worrying over his monumental Kosmos, and gossiping across European science.",
-      "Published immediately after both men’s deaths, the book caused a sensation across Europe; this 1860 New York edition was translated from the German by Friedrich Kapp."
+      "In public, the elderly Alexander von Humboldt played the polite chamberlain at the Prussian court in Berlin; in private letters to the diplomat Karl August Varnhagen von Ense (1827–1858), he let the mask drop. Interleaved with Varnhagen’s own biting diary notes, the book is full of acid court gossip, quiet defences of harassed liberal scholars, and complaints about finishing his encyclopaedic Kosmos while half of Europe clamours at his door.",
+      "Published almost immediately after both men died, the unvarnished candour caused a scandal in Berlin and sold out across Europe. Friedrich Kapp translated this New York edition for Rudd & Carleton in 1860."
     ],
     "people": [
       {
         "name": "Alexander von Humboldt",
         "dates": "1769–1859",
         "slug": "alexander-von-humboldt",
-        "bio": "Prussian naturalist, geographer, and explorer of the Americas whose holistic vision of nature—and encyclopaedic correspondence with thousands of scientists—shaped modern ecology and earth science."
+        "bio": "Prussian naturalist, geographer, and explorer of South America who saw nature as an interconnected web and maintained one of the largest scientific correspondences of the nineteenth century."
       },
       {
         "name": "Karl August Varnhagen von Ense",
         "dates": "1785–1858",
-        "bio": "Prussian diplomat, biographer, and husband of salonnière Rahel Varnhagen. His private diaries and correspondence preserve an unrivalled inside view of nineteenth-century Berlin intellectual life."
+        "bio": "Prussian diplomat, biographer, and husband of the salonnière Rahel Varnhagen, whose diaries preserve the sharper private talk of nineteenth-century Berlin."
       }
     ],
     "links": [
@@ -439,15 +439,15 @@
   },
   "letters-from-famous-people-1925": {
     "book": [
-      "An unusual 1925 time capsule: three hundred and twenty-six letters written directly to the high-school students of Trenton, New Jersey, by living writers, scientists, jurists, statesmen, and inventors in response to an invitation from their teacher, Sharpless Dobson Green. Contributors offer candid, unguarded advice on work, ambition, reading, and character—forming a snapshot of early twentieth-century public life in its own voice.",
-      "Compiled by Sharpless Dobson Green and published by the Gregg Publishing Company in 1925, complete with brief contemporary biographies of the contributors."
+      "In the early 1920s a Trenton, New Jersey high-school English teacher named Sharpless Dobson Green asked his students to write to living scientists, writers, judges, inventors, and politicians—and over three hundred of them wrote back. Some sent stiff homilies, others unexpectedly candid notes on failure, reading, and how to spend a working life; taken together, they form an accidental self-portrait of public America in 1925.",
+      "Published by the Gregg Publishing Company in 1925, with brief contemporary biographies of the contributors appended at the back."
     ],
     "people": [
       {
         "name": "Sharpless Dobson Green",
         "dates": "fl. 1925",
         "slug": "sharpless-dobson-green",
-        "bio": "English teacher at Trenton Senior High School who conceived the correspondence project as a practical lesson in letter-writing and civic curiosity."
+        "bio": "English teacher at Trenton Senior High School who turned a classroom correspondence assignment into this curious 1925 anthology."
       }
     ],
     "links": [],
@@ -455,21 +455,21 @@
   },
   "mill-letters-vol1-1910": {
     "book": [
-      "The first volume of John Stuart Mill’s collected correspondence—162 letters spanning 1831 to 1863—tracing his intellectual evolution from orthodox Benthamite utilitarianism through his friendship with Thomas Carlyle and Alexis de Tocqueville, his thirty-five years at East India House, his marriage to Harriet Taylor, and the publication of On Liberty and Representative Government. Mill writes with cool precision, generosity toward opponents, and fierce clarity on liberty, suffrage, and political economy.",
-      "Edited with a substantial biographical introduction by Hugh S. R. Elliot and published by Longmans, Green and Co. in London in 1910, drawing on papers preserved by Mill’s stepdaughter Helen Taylor."
+      "John Stuart Mill’s letters from 1831 to 1863 trace a mind steadily outgrowing the rigid Benthamite mould in which his father raised him. Written alongside his thirty-five years as an examiner at East India House, they follow his intense intellectual friendships with Thomas Carlyle and Alexis de Tocqueville, his marriage to Harriet Taylor, and the gestation of On Liberty and Representative Government—always in prose of cool precision and rare fairness toward opponents.",
+      "Hugh S. R. Elliot edited the collection with a substantial biographical introduction for Longmans, Green and Co. in 1910, working from papers preserved by Mill’s stepdaughter Helen Taylor."
     ],
     "people": [
       {
         "name": "John Stuart Mill",
         "dates": "1806–1873",
         "slug": "john-stuart-mill",
-        "bio": "English philosopher, political economist, and Member of Parliament whose essays On Liberty and The Subjection of Women became cornerstones of modern liberal thought."
+        "bio": "English philosopher, political economist, and Member of Parliament whose books On Liberty and The Subjection of Women became cornerstones of modern liberal argument."
       },
       {
         "name": "Hugh S. R. Elliot",
         "dates": "1881–1930",
         "slug": "hugh-s-r-elliot",
-        "bio": "English scientific writer and editor chosen by Mill’s literary executrix to assemble the first major edition of Mill’s correspondence."
+        "bio": "English scientific writer chosen by Mill’s literary executrix to prepare the first collected edition of his correspondence."
       }
     ],
     "links": [
@@ -480,15 +480,15 @@
   },
   "nehru-father-daughter-letters-1929": {
     "book": [
-      "Thirty-one letters written during the summer of 1928 by Jawaharlal Nehru in Allahabad to his ten-year-old daughter Indira, who was staying in the hill station of Mussoorie. Beginning with how the earth broke away from the sun and how life first stirred in the oceans, Nehru walks her through fossils, early languages, tribes, river civilizations, and the Ramayana and Mahabharata—explaining big ideas without once talking down to a child.",
-      "First published as a book in Allahabad in 1929, these summer letters became the prelude to Nehru’s much larger prison correspondence, Glimpses of World History."
+      "In the summer of 1928, while his ten-year-old daughter Indira was staying in the hill station of Mussoorie, Jawaharlal Nehru sat in Allahabad and wrote her thirty-one short letters about the beginnings of the world. Starting with the cooling earth and the first stirrings of ocean life, he walks through fossils, early languages, tribes, river civilisations, and the Ramayana and Mahabharata—clear, affectionate, and never once talking down to a child.",
+      "First published in Allahabad in 1929, this small summer book became the rehearsal for the far larger prison letters Nehru later gathered as Glimpses of World History."
     ],
     "people": [
       {
         "name": "Jawaharlal Nehru",
         "dates": "1889–1964",
         "slug": "jawaharlal-nehru",
-        "bio": "Indian independence leader, writer, and the first Prime Minister of independent India. Separated from his daughter by politics and prison, he turned letters into a portable classroom."
+        "bio": "Indian independence leader, writer, and the first Prime Minister of independent India. Separated from his daughter by politics and prison sentences, he turned letters into a portable schoolroom."
       }
     ],
     "links": [
@@ -500,20 +500,20 @@
   },
   "newton-bentley-1756": {
     "book": [
-      "Four brief, extraordinary letters written by Isaac Newton in late 1692 and early 1693 to the young classical scholar Richard Bentley, who was preparing the inaugural Boyle Lectures in London and had asked whether the new physics of the Principia supported belief in a Creator. In answering Bentley’s questions about gravity, infinite space, and the stability of planetary orbits, Newton clarifies his own cosmological reasoning—and utters his famous rejection of gravity as an ‘innate’ action at a distance.",
-      "First printed posthumously in London in 1756 for R. and J. Dodsley from manuscripts preserved by Bentley’s executor, retaining eighteenth-century typography and long-s letterforms."
+      "In late 1692 the young classical scholar Richard Bentley—chosen to deliver the inaugural Boyle Lectures in London—wrote to Cambridge to ask whether the new mechanics of the Principia pointed to a Creator. Over four brief, dense letters (1692–1693), Isaac Newton answers Bentley’s questions about gravity, infinite space, and why the fixed stars do not collapse together—and drops his famous dismissal of gravity as an ‘innate’ action at a distance across empty space.",
+      "First printed posthumously in London in 1756 for R. and J. Dodsley from manuscripts preserved by Bentley’s executor, keeping the original eighteenth-century spelling and long-s typography."
     ],
     "people": [
       {
         "name": "Sir Isaac Newton",
         "dates": "1642–1727",
         "slug": "sir-isaac-newton",
-        "bio": "English mathematician, physicist, and natural philosopher whose Principia Mathematica (1687) unified terrestrial and celestial mechanics. He rarely discussed the theological implications of his work as plainly as he does here."
+        "bio": "English mathematician and natural philosopher whose Principia Mathematica (1687) unified terrestrial and celestial mechanics. Nowhere else did he state his cosmological assumptions so plainly."
       },
       {
         "name": "Richard Bentley",
         "dates": "1662–1742",
-        "bio": "English classical scholar, Master of Trinity College, Cambridge, and first Boyle Lecturer, whose sharp questions drew Newton into some of his clearest statements on gravity and cosmology."
+        "bio": "English classical scholar, Master of Trinity College, Cambridge, and first Boyle Lecturer, whose sharp questions drew Newton out of his usual reticence."
       }
     ],
     "links": [
@@ -525,27 +525,27 @@
   },
   "nietzsche-wagner-1921": {
     "book": [
-      "Fifty-six letters exchanged between Friedrich Nietzsche and Richard Wagner from 1869 to 1876—the rise and fracture of one of the most consequential friendships in modern European culture. Opening with the young Basel philology professor’s enchanted visits to Wagner’s lakeside villa at Tribschen, the letters trace the birth of Bayreuth and The Birth of Tragedy before cooling into mutual disillusionment as Nietzsche broke away toward his own philosophy.",
-      "Edited with connecting narrative by Nietzsche’s sister Elisabeth Förster-Nietzsche, translated by Caroline V. Kerr, and published in New York by Boni and Liveright in 1921 with a bracing introduction by H. L. Mencken. Readers should bear in mind Elisabeth’s protective editorial hand, which later scholars documented carefully."
+      "Between 1869 and 1876 Friedrich Nietzsche and Richard Wagner enacted the rise and breakup of modern Europe’s most combustible intellectual friendship. The early letters glow with the twenty-four-year-old Basel professor’s weekend visits to Wagner’s villa on Lake Lucerne and the planning of Bayreuth; by the end, mutual adoration has cooled into silence as Nietzsche pulls free toward his own philosophy.",
+      "Elisabeth Förster-Nietzsche stitched the letters together with connecting narrative, Caroline V. Kerr translated them, and Boni and Liveright published the book in New York in 1921 with a sharp, irreverent introduction by H. L. Mencken. Readers should keep Elisabeth’s protective editing in mind—later scholarship showed how carefully she shaped her brother’s archive."
     ],
     "people": [
       {
         "name": "Friedrich Nietzsche",
         "dates": "1844–1900",
         "slug": "friedrich-nietzsche",
-        "bio": "German philologist and philosopher appointed professor at Basel at twenty-four. His years beside Wagner shaped his early aesthetic philosophy; his break from Wagner liberated his mature work."
+        "bio": "German philologist and philosopher appointed professor at Basel at twenty-four. His years beside Wagner shaped The Birth of Tragedy; breaking with Wagner set his mature voice free."
       },
       {
         "name": "Richard Wagner",
         "dates": "1813–1883",
         "slug": "richard-wagner",
-        "bio": "German composer, dramatist, and theorist of the Gesamtkunstwerk who saw in the brilliant young Nietzsche a champion for his Bayreuth festival."
+        "bio": "German composer and dramatist who saw in the brilliant young professor a public champion for Bayreuth—and struggled when his disciple refused to remain one."
       },
       {
         "name": "H. L. Mencken",
         "dates": "1880–1956",
         "slug": "h-l-mencken",
-        "bio": "American critic and journalist whose 1921 introduction frames the correspondence with characteristic irreverence."
+        "bio": "American critic and journalist whose 1921 introduction frames the correspondence with characteristic scepticism."
       }
     ],
     "links": [
@@ -557,15 +557,15 @@
   },
   "nineteenth-century-letters-1919": {
     "book": [
-      "Three hundred and thirty-eight letters surveying the golden century of English and American letter-writing, from William Blake, Jane Austen, Charles Lamb, and John Keats through the Brownings, Charlotte Brontë, Dickens, Lincoln, Emily Dickinson, and Robert Louis Stevenson. Designed to be read straight through as a portrait of an era, it highlights the informal brilliance of the familiar letter—gossip, grief, travel, craft, and jokes among friends.",
-      "Selected and edited by Byron Johnson Rees for Charles Scribner’s Sons’ Modern Student’s Library in 1919, with a concise critical introduction on the art of the letter."
+      "Before the telephone thinned out daily correspondence, the familiar letter was the freest form in English prose. This generous anthology gathers over three hundred letters from William Blake, Jane Austen, Charles Lamb, and John Keats through the Brownings, Charlotte Brontë, Dickens, Lincoln, Emily Dickinson, and Robert Louis Stevenson—full of gossip, jokes, money worries, grief, and writers thinking aloud among friends.",
+      "Selected and introduced by Byron Johnson Rees for Charles Scribner’s Sons’ Modern Student’s Library in 1919."
     ],
     "people": [
       {
         "name": "Byron Johnson Rees",
         "dates": "1877–1920",
         "slug": "byron-johnson-rees",
-        "bio": "Professor of English at Williams College who curated this generous anthology to show nineteenth-century prose at its most natural and unguarded."
+        "bio": "Professor of English at Williams College who edited this anthology to catch nineteenth-century prose off its guard."
       }
     ],
     "links": [],
@@ -573,15 +573,15 @@
   },
   "old-love-letters-1883": {
     "book": [
-      "One hundred and forty-eight letters of devotion, courtship, jealousy, and long marriage written across four centuries of English and European history (1443–1844). Divided into three parts—Poets and Men of Letters, Royal Personages, and Statesmen and Men of Affairs—it brings together John Keats to Fanny Brawne, Jonathan Swift to Stella, Richard Steele’s rushed notes to his ‘dear Prue’, Henry VIII to Anne Boleyn, and Oliver Cromwell to his wife.",
-      "Edited by Abby Sage Richardson and published in Boston by James R. Osgood and Company in 1883, with brief biographical notes setting the scene for each pair."
+      "Courtship, jealousy, longing, and long marriage across four centuries (1443–1844), arranged in three sections: Poets and Men of Letters, Royal Personages, and Statesmen and Men of Affairs. Inside are John Keats writing in fever to Fanny Brawne, Jonathan Swift’s coded baby-talk to Stella, Richard Steele’s rushed tavern notes to his ‘dear Prue’, Henry VIII wooing Anne Boleyn, and Oliver Cromwell writing quietly to his wife between campaigns.",
+      "Edited with short biographical headnotes by Abby Sage Richardson and published in Boston by James R. Osgood and Company in 1883."
     ],
     "people": [
       {
         "name": "Abby Sage Richardson",
         "dates": "1837–1900",
         "slug": "abby-sage-richardson",
-        "bio": "American writer, actress, and literary historian who edited classic English prose and verse collections for late nineteenth-century readers."
+        "bio": "American writer, actress, and literary historian who edited classic English prose and verse for late nineteenth-century readers."
       }
     ],
     "links": [
@@ -592,21 +592,21 @@
   },
   "pascal-miscellaneous-writings-1849": {
     "book": [
-      "Blaise Pascal’s intimate family letters—written to his sisters Gilberte and Jacqueline and to his brother-in-law Florin Périer between 1643 and 1660, including his famous meditation on the death of his father—gathered alongside his shorter scientific and philosophical essays, among them On the Geometrical Spirit, the Preface to the Treatise on Vacuum, and On the Passion of Love.",
-      "Translated by George Pearce in London in 1849 from Armand-Prosper Faugère’s groundbreaking French edition, which was the first to restore Pascal’s texts directly from the surviving manuscripts."
+      "Alongside his shorter scientific and philosophical essays—On the Geometrical Spirit, the Preface to the Treatise on Vacuum, and On the Passion of Love—this volume gathers Blaise Pascal’s surviving private letters (1643–1660) to his sisters Gilberte and Jacqueline and his brother-in-law Florin Périer, including the stark, steadying letter he wrote on the death of his father.",
+      "George Pearce translated the book in London in 1849 from Armand-Prosper Faugère’s Paris edition, the first to restore Pascal’s writings straight from the manuscripts after two centuries of editorial smoothing."
     ],
     "people": [
       {
         "name": "Blaise Pascal",
         "dates": "1623–1662",
         "slug": "blaise-pascal",
-        "bio": "French mathematician, physicist, inventor, and Christian philosopher whose experiments on atmospheric pressure and probability theory sit beside some of the sharpest religious prose in French."
+        "bio": "French mathematician, physicist, inventor, and Christian thinker whose experiments on barometric pressure and probability sit beside some of the tautest prose in French."
       },
       {
         "name": "Armand-Prosper Faugère",
         "dates": "1810–1887",
         "slug": "prosper-faugere",
-        "bio": "French archivist and literary scholar whose 1844 manuscript edition rescued Pascal’s writings from two centuries of cautious editorial smoothing."
+        "bio": "French archivist whose 1844 manuscript edition returned Pascal’s jagged, authentic texts to print."
       }
     ],
     "links": [
@@ -617,15 +617,15 @@
   },
   "pascal-provincial-letters-1847": {
     "book": [
-      "Published clandestinely in Paris between January 1656 and March 1657 under the pseudonym ‘Louis de Montalte’, Blaise Pascal’s eighteen Provincial Letters (Lettres provinciales) began as a defence of the Jansenist theologian Antoine Arnauld and grew into one of the supreme masterpieces of European satire. Cast as witty reports to a friend in the provinces, they dissect Jesuit casuistry with deadly irony, clarity, and moral force—and helped forge modern French prose.",
-      "Translated by George Pearce and published in London in 1847, prefaced by Abel-François Villemain’s celebrated critical essay on Pascal as writer and moralist, with contemporary replies and appendices."
+      "Printed in secret and hawked across Paris between January 1656 and March 1657 under the pen name ‘Louis de Montalte’, Blaise Pascal’s eighteen Provincial Letters began as a defence of the Jansenist theologian Antoine Arnauld and turned into one of Europe’s sharpest satires. Posing as a curious layman writing to a friend in the provinces, Pascal lets Jesuit casuists condemn themselves in their own words—inventing, almost in passing, the clarity and speed of modern French prose.",
+      "Translated by George Pearce for Longman in London in 1847, opening with Abel-François Villemain’s critical essay on Pascal as writer and moralist, with contemporary replies in the appendix."
     ],
     "people": [
       {
         "name": "Blaise Pascal",
         "dates": "1623–1662",
         "slug": "blaise-pascal",
-        "bio": "Turning from mathematics to polemic after his 1654 spiritual crisis, Pascal wrote the Provincial Letters at white heat; Voltaire later called them the first work of genius in French prose."
+        "bio": "Turning from mathematics to polemic after his 1654 religious conversion, Pascal wrote the Provincial Letters at white heat; Voltaire later called them the first work of genius in French prose."
       },
       {
         "name": "Abel-François Villemain",
@@ -643,21 +643,21 @@
   },
   "poe-valentine-letters-1925": {
     "book": [
-      "Thirty-five early letters written by Edgar Allan Poe between 1826 and 1833—nearly all of them addressed to his foster father, the Richmond merchant John Allan—tracing the painful unravelling of their relationship across the University of Virginia, Poe’s secret enlistment in the U.S. Army, West Point, and destitute months in Baltimore. Read in sequence, they strip away later myth to reveal a proud, gifted, penniless young man pleading for support and forgiveness.",
-      "Long kept sealed in the Valentine Museum in Richmond, Virginia, the letters were first published in full in 1925 by J. B. Lippincott with commentary and historical context by Mary Newton Stanard."
+      "Before the raven and the legend, there was a proud, penniless young man writing desperately to the Richmond merchant who had raised him without ever formally adopting him. These thirty-five letters from 1826 to 1833 follow the slow rupture between Edgar Allan Poe and John Allan across gambling debts at the University of Virginia, secret army enlistment, dismissal from West Point, and hunger in Baltimore.",
+      "Kept sealed for decades in the Valentine Museum in Richmond, Virginia, the correspondence was first published in full in 1925 by J. B. Lippincott with commentary and surviving school bills edited by Mary Newton Stanard."
     ],
     "people": [
       {
         "name": "Edgar Allan Poe",
         "dates": "1809–1849",
         "slug": "edgar-allan-poe",
-        "bio": "American poet, critic, and master of the short story and detective tale. These early letters show him before literary fame, wrestling with debt, ambition, and estrangement from the only home he knew."
+        "bio": "American poet, critic, and pioneer of the short story and detective tale. These early letters catch him before fame—alternately defiant, contrite, and broke."
       },
       {
         "name": "Mary Newton Stanard",
         "dates": "1865–1929",
         "slug": "mary-newton-stanard",
-        "bio": "Virginia historian and Poe biographer who edited the Valentine Museum manuscripts and supplied the historical commentary connecting them."
+        "bio": "Virginia historian and Poe biographer who edited the Valentine Museum manuscripts and supplied the narrative linking them."
       }
     ],
     "links": [
@@ -668,20 +668,20 @@
   },
   "poe-whitman-last-letters-1909": {
     "book": [
-      "Eleven intense, feverish letters written by Edgar Allan Poe in the autumn of 1848—the final year of his life—to the Providence poet Sarah Helen Whitman, during their brief, turbulent engagement. Written after the death of his wife Virginia, the letters move between rapturous romantic longing, dread of relapse, and desperate pleas against the gossips and relatives urging Whitman to break off the match.",
-      "Edited by the Poe scholar James A. Harrison and published by G. P. Putnam’s Sons in 1909 to mark the centenary of Poe’s birth."
+      "In the autumn of 1848—a year after his wife Virginia’s death and a year before his own in Baltimore—Edgar Allan Poe courted the Providence poet Sarah Helen Whitman in eleven feverish, eloquent letters. Torn between romantic ardour, terror of relapse, and the opposition of Whitman’s family, they read like a late Poe poem spoken directly to a living listener.",
+      "James A. Harrison edited the small volume for G. P. Putnam’s Sons in 1909 to mark the centenary of Poe’s birth."
     ],
     "people": [
       {
         "name": "Edgar Allan Poe",
         "dates": "1809–1849",
         "slug": "edgar-allan-poe",
-        "bio": "Writing in the last twelve months before his mysterious death in Baltimore, Poe poured into these letters the same haunted cadence that marks his late poems."
+        "bio": "Writing during the last twelve months of his life, Poe carried the same haunted rhythm from his poems straight into his courtship letters."
       },
       {
         "name": "Sarah Helen Whitman",
         "dates": "1803–1878",
-        "bio": "American poet, essayist, and transcendentalist in Providence, Rhode Island, who broke off her engagement to Poe in December 1848 yet defended his character and reputation for the rest of her life."
+        "bio": "American poet, essayist, and transcendentalist in Providence, Rhode Island, who ended her engagement to Poe in December 1848 yet defended his name for the rest of her life."
       }
     ],
     "links": [
@@ -693,21 +693,21 @@
   },
   "rukaat-i-alamgiri-aurangzeb-1908": {
     "book": [
-      "One hundred and eighty-one imperial letters written by the sixth Mughal Emperor, Aurangzeb (Alamgir I), mostly in his austere old age during the long Deccan campaigns (1659–1707), addressed to his sons—especially Prince Muhammad A‘azam Shah and Prince Bidar Bakht—and to his grand vizier Asad Khan. By turns dryly sarcastic, suspicious, administrative, and elegiac, they show the emperor micromanaging forts, court etiquette, mangoes, and revenues while confronting the slow exhaustion of his empire and his own mortality.",
-      "Translated from the Persian into English with historical and explanatory notes by Jamshedji Hormasji Bilimoriya, and published jointly in London (Luzac & Co.) and Bombay in 1908."
+      "Dictated largely in old age from imperial field camps in the Deccan (1659–1707), the Ruq‘at-i-Alamgiri preserves the private Persian notes of the sixth Mughal Emperor, Aurangzeb, to his sons—especially Prince Muhammad A‘azam Shah and Prince Bidar Bakht—and to his grand vizier Asad Khan. Threaded with Persian couplets and dry sarcasm, they catch an emperor who micromanages forts, revenue, court manners, and baskets of mangoes even as he watches his empire—and his own strength—give way.",
+      "Jamshedji Hormasji Bilimoriya translated the 181 letters into English with historical notes for joint publication in London (Luzac & Co.) and Bombay in 1908."
     ],
     "people": [
       {
         "name": "Aurangzeb (Alamgir I)",
         "dates": "1618–1707",
         "slug": "aurangzeb",
-        "bio": "Sixth Mughal Emperor, ruling for nearly half a century (1658–1707) over the largest territorial extent of the Mughal Empire. His private Persian letters—studded with couplets and sharp reprimands—reveal a voice far more complex than caricature."
+        "bio": "Sixth Mughal Emperor, ruling for forty-nine years (1658–1707) over the empire’s widest territorial span. His private letters reveal a sharp, suspicious, austere, and unexpectedly self-ironic voice."
       },
       {
         "name": "Jamshedji Hormasji Bilimoriya",
         "dates": "fl. 1908",
         "slug": "jamshedji-hormasji-bilimoriya",
-        "bio": "Parsi scholar and translator whose 1908 English rendering of the Ruq‘at-i-Alamgiri remains the most widely cited English text of Aurangzeb’s letters."
+        "bio": "Parsi scholar whose 1908 English translation and historical notes remain the standard English reference for the Ruq‘at-i-Alamgiri."
       }
     ],
     "links": [
@@ -718,21 +718,21 @@
   },
   "sand-flaubert-letters-1922": {
     "book": [
-      "Three hundred and twenty letters exchanged between George Sand and Gustave Flaubert from 1863 until Sand’s death in 1876—one of the great literary dialogues of the nineteenth century. No two temperaments could have been more opposed: Sand warm, prolific, socially hopeful, writing from her country estate at Nohant; Flaubert solitary, monastic, fiercely devoted to impersonality and the exact word at Croisset. Their affectionate argument over whether art exists for humanity or only for beauty never once grows stale.",
-      "Translated by Aimée L. McKenzie with an introduction by Stuart P. Sherman, and published in 1922 by Duckworth in London and Boni & Liveright in New York."
+      "No two writers could have been built more differently than George Sand—warm, prolific, socially hopeful, writing from her country house at Nohant—and Gustave Flaubert—solitary, monastic, agonising for a week over a single sentence at Croisset. Yet between 1863 and Sand’s death in 1876 they exchanged over three hundred letters of deep affection and tireless argument over whether art owes anything to humanity or answers only to itself.",
+      "Translated by Aimée L. McKenzie with an introduction by Stuart P. Sherman, and issued in 1922 by Duckworth in London and Boni & Liveright in New York."
     ],
     "people": [
       {
         "name": "George Sand",
         "dates": "1804–1876",
         "slug": "george-sand",
-        "bio": "Pen name of Amantine Lucile Aurore Dupin—French novelist, memoirist, and republican—whom Flaubert addressed tenderly as ‘Chère Maître’ (‘Dear Master’)."
+        "bio": "Pen name of Amantine Lucile Aurore Dupin—French novelist, memoirist, and republican—whom Flaubert addressed affectionately as ‘Chère Maître’ (‘Dear Master’)."
       },
       {
         "name": "Gustave Flaubert",
         "dates": "1821–1880",
         "slug": "gustave-flaubert",
-        "bio": "Author of Madame Bovary and Sentimental Education, whose letters to Sand contain his clearest, funniest, and most moving reflections on literary craft, solitude, and the Franco-Prussian War."
+        "bio": "Author of Madame Bovary and Sentimental Education, whose letters to Sand hold his funniest, bleakest, and clearest reflections on literary craft, solitude, and the Franco-Prussian War."
       }
     ],
     "links": [
@@ -744,20 +744,20 @@
   },
   "schumann-letters-1907": {
     "book": [
-      "One hundred and thirty-three letters spanning Robert Schumann’s life from his law-student days in Leipzig and Heidelberg (1828) to the shadow of his final illness in 1854. Arranged in three books—Sturm und Drang, The Fight for Clara (1836–1840), and At the Zenith—they follow his decision to abandon law for music, the founding of the Neue Zeitschrift für Musik, his exhausting legal battle against Friedrich Wieck to marry Clara, and his generous recognition of the young Johannes Brahms.",
-      "Selected and edited by the German musicologist Karl Storck, translated into English by Hannah Bryant, and published in London by John Murray in 1907."
+      "Robert Schumann’s letters follow him from a reluctant law student in Leipzig and Heidelberg (1828) through the founding of the Neue Zeitschrift für Musik, his exhausting four-year legal battle against Friedrich Wieck to marry Clara, his joyful recognition of the young Johannes Brahms, and the gathering shadow of his final illness in 1854. Written with the same impulsive lyricism as his piano cycles, they read like a Romantic novel lived in real time.",
+      "Selected and arranged in three books by the German musicologist Karl Storck, translated by Hannah Bryant, and published in London by John Murray in 1907."
     ],
     "people": [
       {
         "name": "Robert Schumann",
         "dates": "1810–1856",
         "slug": "robert-schumann",
-        "bio": "German Romantic composer and music critic whose poetic sensibility made him as vivid a letter-writer as a composer of piano cycles and Lieder."
+        "bio": "German Romantic composer and music critic whose quick, poetic eye made him nearly as vivid a correspondent as a composer of Lieder and piano music."
       },
       {
         "name": "Clara Schumann",
         "dates": "1819–1896",
-        "bio": "Virtuoso pianist and composer whose courtship with Robert—conducted through secret letters during years of parental opposition—forms the emotional spine of this volume."
+        "bio": "Virtuoso pianist and composer whose secret courtship with Robert during years of her father’s opposition forms the emotional spine of this book."
       }
     ],
     "links": [
@@ -769,8 +769,8 @@
   },
   "selected-english-letters-1914": {
     "book": [
-      "A compact, discerning anthology of fifty-nine letters spanning four centuries of English prose, from the fifteenth-century Paston Letters and Sir Thomas More to William Cowper, Horace Walpole, Samuel Johnson, Lady Mary Wortley Montagu, Jane Austen, Byron, Shelley, Keats, and Robert Louis Stevenson. Each selection is chosen not merely for historical weight, but for ease, wit, and cadence on the page.",
-      "Edited with biographical notes and an introductory essay on English epistolary style by Claude M. Fuess, and published by Houghton Mifflin at the Riverside Press in 1914."
+      "A trim, sharp-eyed anthology of fifty-nine letters stretching from the fifteenth-century Paston family and Sir Thomas More to William Cowper, Horace Walpole, Samuel Johnson, Lady Mary Wortley Montagu, Jane Austen, Byron, Shelley, Keats, and Robert Louis Stevenson. The test for inclusion here is prose pleasure—cadence, humour, and the sound of a real voice talking on paper.",
+      "Edited with short biographical notes and an essay on English epistolary style by Claude M. Fuess for Houghton Mifflin at the Riverside Press in 1914."
     ],
     "people": [
       {
@@ -785,8 +785,8 @@
   },
   "tagore-glimpses-of-bengal-1921": {
     "book": [
-      "Seventy-eight letters written between 1885 and 1895 by Rabindranath Tagore in his twenties and early thirties—mostly from his houseboat on the Padma River while managing his family’s rural estates at Shelidah and Patisar in eastern Bengal. Written originally in Bengali to his niece Indira Devi (and translated into English under Tagore’s supervision), they are luminous studies of monsoon skies, sandbanks, village ferries, peasant life, and the quiet solitude out of which his greatest short stories were born.",
-      "Published by Macmillan in 1921 as Glimpses of Bengal, the book captures Tagore before international fame, when his eye was fixed entirely on the rivers and seasons of Bengal."
+      "Between 1885 and 1895, in his twenties and early thirties, Rabindranath Tagore spent long stretches living on a houseboat on the Padma River while managing his family’s estates at Shelidah and Patisar in eastern Bengal. Writing home in Bengali to his niece Indira Devi—translated here under his own eye—he sets down monsoon clouds, sandbanks, village ferries, and the quiet solitude out of which his finest short stories emerged.",
+      "Published by Macmillan in 1921, Glimpses of Bengal preserves Tagore before the Nobel Prize and global lecture tours, when his attention belonged entirely to the rivers and seasons of Bengal."
     ],
     "people": [
       {
@@ -805,15 +805,15 @@
   },
   "tagore-letters-1917": {
     "book": [
-      "A slender, little-known 1917 Macmillan booklet gathering thirteen extracts from Rabindranath Tagore’s 1893 letters—written during the same rural Bengal decade that later produced Glimpses of Bengal. Moving from Calcutta and Cuttack back to Shelidah and the Padma sandbanks, these early English renderings give an intimate first tasting of Tagore’s epistolary prose, where everyday weather and village scenes open suddenly into quiet philosophical reflection.",
-      "Issued in New York by The Macmillan Company in 1917, four years before the fuller 1921 collection."
+      "A slim, rarely seen Macmillan booklet from 1917 gathering thirteen extracts from Rabindranath Tagore’s 1893 letters—written during the same rural Bengal years that later yielded Glimpses of Bengal. Moving between Calcutta, Cuttack, and the Padma sandbanks at Shelidah, these early English translations offer a brief first look at how Tagore let ordinary weather and river light open into quiet reflection.",
+      "Issued in New York by The Macmillan Company in 1917, four years before the fuller 1921 selection."
     ],
     "people": [
       {
         "name": "Rabindranath Tagore",
         "dates": "1861–1941",
         "slug": "rabindranath-tagore",
-        "bio": "Bengali poet and polymath whose 1890s letters from eastern Bengal were first introduced to English-speaking readers through brief extracts such as this 1917 booklet."
+        "bio": "Bengali poet and polymath whose 1890s letters from eastern Bengal first reached English readers through short selections like this 1917 booklet."
       }
     ],
     "links": [
@@ -824,21 +824,21 @@
   },
   "tagore-letters-to-a-friend-1928": {
     "book": [
-      "One hundred and fourteen letters written by Rabindranath Tagore between 1913 and 1923 to Charles Freer Andrews—the Anglican missionary, educator, and confidant of both Tagore and Gandhi. Spanning the First World War, the Jallianwala Bagh massacre, the Non-Cooperation Movement, and Tagore’s lecture tours across Japan, Europe, and America, the letters reveal Tagore’s anguish over aggressive nationalism, his loving disagreements with Gandhi, and his vision for Visva-Bharati at Santiniketan.",
-      "Edited and framed by two introductory essays from C. F. Andrews, and published in London by George Allen & Unwin in 1928."
+      "Across the turbulent decade from 1913 to 1923, Rabindranath Tagore wrote over a hundred letters to Charles Freer Andrews—the English missionary and teacher who stood close to both Tagore and Gandhi. Written through the First World War, the Jallianwala Bagh massacre, the Non-Cooperation Movement, and exhausting lecture tours across Japan, Europe, and America, they lay bare Tagore’s dread of militant nationalism, his affectionate disagreements with Gandhi, and his hopes for his school at Santiniketan.",
+      "C. F. Andrews edited the letters and prefaced them with two introductory essays for George Allen & Unwin in London in 1928."
     ],
     "people": [
       {
         "name": "Rabindranath Tagore",
         "dates": "1861–1941",
         "slug": "rabindranath-tagore",
-        "bio": "Following his 1913 Nobel Prize, Tagore became an uneasy global figure—torn between public lecturing abroad and his quiet school at Santiniketan, a tension felt on every page here."
+        "bio": "After his 1913 Nobel Prize, Tagore found himself an uneasy public sage—torn between foreign lecture halls and his quiet campus at Santiniketan, a pull felt throughout this book."
       },
       {
         "name": "C. F. Andrews",
         "dates": "1871–1940",
         "slug": "c-f-andrews",
-        "bio": "English missionary, social reformer, and teacher at Santiniketan whom Gandhi called ‘Deenabandhu’ (‘Friend of the Poor’). His friendship bridged Tagore and Gandhi across a turbulent decade."
+        "bio": "English missionary, reformer, and teacher at Santiniketan whom Gandhi called ‘Deenabandhu’ (‘Friend of the Poor’). His loyalty bridged Tagore and Gandhi through ten difficult years."
       }
     ],
     "links": [
@@ -850,21 +850,21 @@
   },
   "tipu-sultan-select-letters-1811": {
     "book": [
-      "Four hundred and thirty-one state letters and executive orders issued by Tipu Sultan, ruler of Mysore, between 1785 and 1799 to his military commanders, fort governors, ambassadors, and commercial agents. Drawn from Persian letter-books captured in the palace at Seringapatam after Tipu’s death in May 1799, they offer an astonishingly granular window into an eighteenth-century Indian state: artillery logistics, silk and sandalwood monopolies, diplomatic embassies to Constantinople and France, coinage reforms, and ruthless discipline.",
-      "Selected, translated from the Persian, and annotated by Major-General William Kirkpatrick—himself a seasoned East India Company soldier and orientalist—and published in London by Black, Parry, and Kingsbury in 1811. Kirkpatrick’s hostile commentary sits beside primary documents of unmatched administrative detail."
+      "After Seringapatam fell and Tipu Sultan was killed in May 1799, East India Company officers carried off the Persian letter-books of the Mysore palace. These 431 state dispatches and orders (1785–1799)—addressed to fort governors, army commanders, commercial agents, and envoys to Constantinople and France—show an eighteenth-century Indian ruler running a tightly wound state: rocket batteries, silk and sandalwood monopolies, coinage, spies, and unforgiving discipline.",
+      "Major-General William Kirkpatrick, a veteran Company soldier and Persian scholar, selected, translated, and annotated the letters for Black, Parry, and Kingsbury in London in 1811. His adversarial British commentary sits right beside primary documents of rare administrative granularity."
     ],
     "people": [
       {
         "name": "Tipu Sultan",
         "dates": "1751–1799",
         "slug": "tipu-sultan",
-        "bio": "Ruler of the Kingdom of Mysore from 1782 until his death defending Seringapatam in 1799. Known for his rocketry, state-run trade, and relentless resistance to East India Company expansion."
+        "bio": "Ruler of Mysore from 1782 until his death defending Seringapatam in 1799, remembered for his iron-cased rockets, state trading factories, and relentless resistance to East India Company rule."
       },
       {
         "name": "William Kirkpatrick",
         "dates": "1754–1812",
         "slug": "william-kirkpatrick",
-        "bio": "East India Company officer, Persian scholar, and secretary to Lord Wellesley who examined the captured Mysore archives and translated this selection in 1811."
+        "bio": "East India Company officer, Persian scholar, and military secretary to Lord Wellesley who combed the captured Mysore records to produce this 1811 edition."
       }
     ],
     "links": [
@@ -876,7 +876,7 @@
   },
   "tolstoy-essays-letters-1903": {
     "book": [
-      "Late essays and twelve forceful public letters written by Leo Tolstoy between 1893 and 1902, when the novelist had largely turned away from fiction to radical Christian pacifism, agrarian ethics, and direct confrontation with the Tsarist church and state. Included are his replies to the Holy Synod’s excommunication, his appeals to Tsar Nicholas II and Russian ministers, and his letters on conscientious objection and non-resistance—ideas that directly moved the young Mahatma Gandhi.",
+      "By the 1890s Leo Tolstoy had largely set novels aside for a sterner vocation: radical Christian pacifism, manual labour, and open confrontation with the Russian church and state. Alongside late essays, this volume gathers twelve public letters (1893–1902)—including his calm reply to the Holy Synod’s excommunication, his direct appeals to Tsar Nicholas II, and his defences of conscientious objectors, arguments that soon reached and moved the young Gandhi in South Africa.",
       "Translated by Aylmer Maude and published in London by Grant Richards in 1903 as Volume XLVI of The World’s Classics."
     ],
     "people": [
@@ -884,7 +884,7 @@
         "name": "Leo Tolstoy",
         "dates": "1828–1910",
         "slug": "leo-tolstoy",
-        "bio": "Russian novelist—author of War and Peace and Anna Karenina—whose late moral essays and open letters turned Yasnaya Polyana into a beacon for pacifists and reformers worldwide."
+        "bio": "Author of War and Peace and Anna Karenina whose late moral essays and open letters turned Yasnaya Polyana into a clearing-house for pacifists and dissenters worldwide."
       }
     ],
     "links": [
@@ -895,21 +895,21 @@
   },
   "toru-dutt-life-letters-1921": {
     "book": [
-      "The surviving correspondence and biography of Toru Dutt, the young Bengali poet who wrote fluently in English and French and died of consumption at twenty-one. Seventy-five letters—principally written from Calcutta and her family’s garden house at Baugmaree between 1873 and 1877 to her English friend Mary Martin in Cambridge—sparkle with wit, bookish hunger, fierce love of horses and mangoes, Sanskrit study, and candid commentary on colonial Calcutta.",
-      "Compiled by Harihar Das and published by Oxford University Press in 1921 with a foreword by H. A. L. Fisher, interleaving biographical chapters with the letters themselves."
+      "Toru Dutt died of consumption in Calcutta in August 1877 at twenty-one, leaving behind translations from French poetry, a French novel, English ballads drawn from Sanskrit epics, and a stack of letters to her English friend Mary Martin in Cambridge. Written from her family’s town house and their mango-orchard retreat at Baugmaree, the letters are quick, funny, and full of life—horses, books ordered from London, Sanskrit lessons with her father, and sharp asides on colonial Calcutta.",
+      "Harihar Das tracked down her correspondence in England and France and wove it into this biography for Oxford University Press in 1921, with a foreword by H. A. L. Fisher."
     ],
     "people": [
       {
         "name": "Toru Dutt",
         "dates": "1856–1877",
         "slug": "toru-dutt",
-        "bio": "Bengali poet, novelist, and translator who mastered French and English in Europe before returning to Calcutta to study Sanskrit and write Ancient Ballads and Legends of Hindustan. Her letters preserve a remarkably fresh, spirited nineteenth-century Indian voice."
+        "bio": "Bengali poet, novelist, and translator who mastered French and English during four years in Europe before returning to Calcutta to study Sanskrit and write Ancient Ballads and Legends of Hindustan."
       },
       {
         "name": "Harihar Das",
         "dates": "1892–1951",
         "slug": "harihar-das",
-        "bio": "Bengali historian and biographer who tracked down Toru Dutt’s correspondence with Mary Martin and Clarisse Bader in England and France to assemble this 1921 volume."
+        "bio": "Bengali historian and biographer who gathered Toru Dutt’s surviving letters to Mary Martin and Clarisse Bader to assemble this 1921 volume."
       }
     ],
     "links": [
@@ -920,15 +920,15 @@
   },
   "vivekananda-letters-1944": {
     "book": [
-      "Three hundred and seventeen letters written by Swami Vivekananda between 1888 and 1902—from his wandering years across India as an unknown monk, through the 1893 Parliament of the World’s Religions in Chicago and exhausting lecture tours across America and Britain, to his final years founding the Ramakrishna Mission at Belur Math. Addressed to disciples in Madras, brother monks in Calcutta, and friends in the West, they are electric, impatient, tender, and strikingly direct—often far more candid than his formal lectures.",
-      "Published as the fourth edition by Advaita Ashrama at Mayavati in the Himalayas in 1944, complete with biographical notes on the persons mentioned in the correspondence."
+      "Swami Vivekananda’s letters (1888–1902) move at a pace his formal lectures rarely match. Starting from his years as a wandering monk with no fixed address, they sweep through the 1893 Parliament of the World’s Religions in Chicago, winter train journeys across America, friendships in England, and the exhausting work of building the Ramakrishna Mission at Belur Math—alternately blazing with impatience, funny, tender, and bone-tired.",
+      "Issued in its fourth edition by Advaita Ashrama at Mayavati in the Himalayas in 1944, with biographical notes on the disciples and friends addressed across the book."
     ],
     "people": [
       {
         "name": "Swami Vivekananda",
         "dates": "1863–1902",
         "slug": "swami-vivekananda",
-        "bio": "Born Narendranath Datta in Calcutta; chief disciple of Sri Ramakrishna, philosopher of Vedanta, and founder of the Ramakrishna Math and Mission. He died at thirty-nine, leaving behind a fiercely energetic body of letters."
+        "bio": "Born Narendranath Datta in Calcutta; chief disciple of Sri Ramakrishna, philosopher of Vedanta, and founder of the Ramakrishna Math and Mission. He died at thirty-nine, leaving behind more than three hundred vivid letters."
       }
     ],
     "links": [
@@ -940,21 +940,21 @@
   },
   "voltaire-in-his-letters-1919": {
     "book": [
-      "Ninety-one letters chosen from the vast ocean of Voltaire’s correspondence (more than twenty thousand letters survive), tracing his life from his fiery youth in 1713 through exile in England, scientific years with Émilie du Châtelet at Cirey, his stormy stay at Frederick the Great’s Prussian court, and his triumphant old age as the ‘patriarch of Ferney’ campaigning against judicial cruelty and intolerance.",
-      "Selected, translated, and linked with crisp biographical sketches by Evelyn Beatrice Hall—writing under her pen name S. G. Tallentyre—and published in 1919."
+      "More than twenty thousand of Voltaire’s letters survive—fast, lethal, and endlessly curious, serving as eighteenth-century Europe’s informal newspaper. This selection of ninety-one follows him from his cocky Parisian youth in 1713 through exile in England, scientific years with Émilie du Châtelet at Cirey, his souring stay at Frederick the Great’s court in Potsdam, and his vigorous old age at Ferney campaigning against judicial torture and religious intolerance.",
+      "Evelyn Beatrice Hall—writing under her pen name S. G. Tallentyre—translated the letters and linked them with crisp biographical sketches in 1919."
     ],
     "people": [
       {
         "name": "Voltaire",
         "dates": "1694–1778",
         "slug": "voltaire",
-        "bio": "Born François-Marie Arouet; French Enlightenment writer, historian, and satirist whose letters—fast, lethal, and endlessly curious—were Europe’s informal newspaper for half a century."
+        "bio": "Born François-Marie Arouet; French Enlightenment satirist, historian, and polemicist whose private letters often hit harder—and travelled faster—than his published books."
       },
       {
         "name": "S. G. Tallentyre (Evelyn Beatrice Hall)",
         "dates": "1868–1956",
         "slug": "s-g-tallentyre",
-        "bio": "English biographer of Voltaire—famous for coining the summary ‘I disapprove of what you say, but I will defend to the death your right to say it’—who translated and introduced this selection."
+        "bio": "English biographer of Voltaire—author of the famous summary ‘I disapprove of what you say, but I will defend to the death your right to say it’—who translated and framed this selection."
       }
     ],
     "links": [
