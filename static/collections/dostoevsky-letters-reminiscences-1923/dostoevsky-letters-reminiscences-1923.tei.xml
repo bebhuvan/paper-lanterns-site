@@ -4,7 +4,9 @@
     <fileDesc>
       <titleStmt>
         <title>Dostoevsky: Letters and Reminiscences</title>
-        <author>Fyodor Dostoevsky (tr. S. S. Koteliansky &amp; J. Middleton Murry)</author>
+        <author>Fyodor Dostoevsky</author>
+        <respStmt><resp>Translator</resp><name>S. S. Koteliansky</name></respStmt>
+        <respStmt><resp>Translator</resp><name>J. Middleton Murry</name></respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +16,7 @@
       <sourceDesc>
         <bibl>
           <title>Dostoevsky: Letters and Reminiscences</title>
+          <publisher>New York: Alfred A. Knopf / London: Chatto &amp; Windus, 1923</publisher>
           <date>1923</date>
           <idno type="URI">https://archive.org/details/bwb_P8-ADV-479</idno>
         </bibl>
@@ -121,7 +124,7 @@
         <correspAction type="received"><persName>Konstantin Petrovich</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0025">
-        <correspAction type="sent"><persName>F. Dostoevsky</persName><placeName>Bad-Ems</placeName><date>August 9-21, 1879.</date></correspAction>
+        <correspAction type="sent"><persName>F. Dostoevsky</persName><placeName>Bad-Ems</placeName><date when="1879-08">August 9-21, 1879.</date></correspAction>
         <correspAction type="received"><persName>Konstantin Petrovich</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0026">
@@ -141,7 +144,7 @@
         <correspAction type="received"><persName>Konstantin Petrovich</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0030">
-        <correspAction type="sent"><date>January 29, 1881.</date></correspAction>
+        <correspAction type="sent"><date when="1881-01-29">January 29, 1881.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0031">
         <correspAction type="sent"><persName>K. Pobiedonoszev</persName><date when="1881-02-01">February 1, 1881.</date></correspAction>
@@ -490,8 +493,7 @@
 <p rend="indented">Dostoevsky made still more bitter confession concerning contemporary criticisms of his speech in a letter to O. F. Miller (August 26, 1880) : ‘ You see how I have got it from nearly all our Press for my speech in Moscow : it 's as though I 'd committed a theft, fraud, or forgery in a bank. Even on Yukhanzev (a notorious swindler of the time) they did not pour such filth as they 've poured on me.’ (<hi rend="italic">Dostoevsky's Biography</hi>, etc., Petersburg, 1883, p. 343.)</p>
 </div>
 <div xml:id="div-letter-0011" type="letter" corresp="#letter-0011">
-<pb xml:id="page-188" n="172"/><head rend="center">F. M. DOSTOEVSKY'S LETTERS TO HIS WIFE
-ANNA GREGOREVNA DOSTOEVSKY</head>
+<pb xml:id="page-188" n="172"/><head rend="center">F. M. DOSTOEVSKY'S LETTERS TO HIS WIFE<lb/>ANNA GREGOREVNA DOSTOEVSKY</head>
 <p rend="center"><hi rend="italic">(During May and June,</hi> 1888, <hi rend="italic">from Moscow,</hi><lb/><hi rend="italic">on the Poushkin Anniversary.)</hi></p>
 <p rend="letter_header">I</p>
 <p rend="dateline">Moscow, <hi rend="italic">May</hi> 23-24, 1880.</p>
@@ -671,7 +673,7 @@ ANNA GREGOREVNA DOSTOEVSKY</head>
 <closer><salute>adherent and admirer</salute><signed rend="right">F. <hi rend="smallcaps">Dostoevsky.</hi></signed></closer>
 </div>
 <div xml:id="div-unit-0042" type="editorial">
-<pb xml:id="page-280" n="264"/><p rend="heading">POBIEDONOSZEV'S LETTERS TO ALEX-<lb/>ANDER III <hi rend="smallcaps">(at that time Tsarevitch) on</hi><lb/><hi rend="smallcaps">the Occasion of Dostoevsky's Death</hi></p>
+<pb xml:id="page-280" n="264"/><head rend="center">POBIEDONOSZEV'S LETTERS TO ALEX-<lb/>ANDER III <hi rend="smallcaps">(at that time Tsarevitch) on</hi><lb/><hi rend="smallcaps">the Occasion of Dostoevsky's Death</hi></head>
 </div>
 <div xml:id="div-letter-0030" type="letter" corresp="#letter-0030">
 <head rend="center">I</head>

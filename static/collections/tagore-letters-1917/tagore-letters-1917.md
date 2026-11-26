@@ -11,7 +11,7 @@ Hollinger Corp.
 
 ### LETTERS
 
-### EXTRACTS FROM OLD LETTERS OF RABINDRANATH TAGORE
+#### EXTRACTS FROM OLD LETTERS OF<br />RABINDRANATH TAGORE
 
 New York  
 THE MACMILLAN COMPANY  
@@ -27,7 +27,7 @@ Set up and electrotyped. Published       , 1917.
 
 ### Letter 1: Rabindranath Tagore
 
-### (68)
+#### (68)
 
 <span class="small-caps">Cuttack</span>,  
 *February:* 1893.
@@ -42,7 +42,7 @@ They all eat and drink, do their office work, smoke and sleep, and chatter nonse
 
 ### Letter 2: Rabindranath Tagore
 
-### (69)
+#### (69)
 
 <span class="small-caps">Cuttack</span>,  
 *10th February: 1893.*
@@ -57,7 +57,7 @@ How incongruous seemed the *memsahibs* there, in their evening dresses, the hum 
 
 ### Letter 3: Rabindranath Tagore
 
-### (70)
+#### (70)
 
 <span class="small-caps">Puri</span>,  
 *14th February: *1893.
@@ -80,7 +80,7 @@ As we drew nearer and nearer to Puri, the concourse of pilgrims grew denser and 
 
 ### Letter 4: Rabindranath Tagore
 
-### (71)
+#### (71)
 
 <span class="small-caps">Balia</span>,  
 *11th March: 1893.*
@@ -93,7 +93,7 @@ The birds are singing and the big leaves of the banyan tree on the bank are maki
 
 ### Letter 5: Rabindranath Tagore
 
-### (72)
+#### (72)
 
 <span class="small-caps">Tiran</span>,  
 *March:* 1893.
@@ -114,7 +114,7 @@ I am hardly ever without the old *Vaishnava* poets and the Sanskrit classics, bu
 
 ### Letter 6: Rabindranath Tagore
 
-### (73)
+#### (73)
 
 <span class="small-caps">Cuttack</span>,  
 *March:* 1893.
@@ -131,7 +131,7 @@ Let the metal pot ornament wealthy homes, you have your work to do in those of t
 
 ### Letter 7: Rabindranath Tagore
 
-### (74)
+#### (74)
 
 <span class="small-caps">Calcutta</span>,  
 *16th April:* 1893.
@@ -144,7 +144,7 @@ The sea of my mind to-day is heaving much in the same way, as though something w
 
 ### Letter 8: Rabindranath Tagore
 
-### (75)
+#### (75)
 
 <span class="small-caps">Calcutta</span>,  
 *30th April:* 1893.
@@ -155,7 +155,7 @@ Imagination and reminiscence do not suffice a man in his youth,—his warm blood
 
 ### Letter 9: Rabindranath Tagore
 
-### (76)
+#### (76)
 
 <span class="small-caps">Shelidah</span>,  
 *May:* 1893.
@@ -178,7 +178,7 @@ If only I could go on with my work, in the fullness of joy, under this open sky,
 
 ### Letter 10: Rabindranath Tagore
 
-### (77)
+#### (77)
 
 <span class="small-caps">Shelidah</span>,  
 *8th May:* 1893.
@@ -191,7 +191,7 @@ Consciously or unconsciously, I may have done many things that were untrue, but 
 
 ### Letter 11: Rabindranath Tagore
 
-### (78)
+#### (78)
 
 <span class="small-caps">Shelidah</span>,  
 *10th May:* 1893.
@@ -210,7 +210,7 @@ But the sun shines forth again, though the clouds are still banked up in the Wes
 
 ### Letter 12: Rabindranath Tagore
 
-### (79)
+#### (79)
 
 <span class="small-caps">Shelidah</span>,  
 *11th May:* 1893.
@@ -225,7 +225,7 @@ As I, too, sit silent with responsive ear, I seem to hear a faint, but insistent
 
 ### Letter 13: Rabindranath Tagore
 
-### (80)
+#### (80)
 
 <span class="small-caps">Idem.</span>
 

@@ -387,27 +387,27 @@
   {
    "format": "epub",
    "file": "dostoevsky-family-friends-1914.epub",
-   "bytes": 323564,
-   "sha256": "1af56cb11efe88a49383dae98e49dd55c4ad77f1666751530d90da0640b77854"
+   "bytes": 323782,
+   "sha256": "ce90944f7538e858c9817ba6d4e21d8361900698a78ffc35a4f038c023b047f2"
   },
   {
    "format": "markdown",
    "file": "dostoevsky-family-friends-1914.md",
-   "bytes": 586605,
-   "sha256": "9b19769af766d2600b30cb63cd24ab35eb5ea65cd6d4be17a74b33a6bf993809"
+   "bytes": 587106,
+   "sha256": "b720bb0dbf092ebe4544d5dd65d59f2b8e4e9618f322b0a8ab930d8f240467a2"
   },
   {
    "format": "tei",
    "file": "dostoevsky-family-friends-1914.tei.xml",
-   "bytes": 688452,
-   "sha256": "2f36f1171e8bcab311863096cbd19a9d656f8fb255aecf7dfb0c77f7e5d40fff"
+   "bytes": 688897,
+   "sha256": "c455d21c5f1ba8f3cf7587de521ca4829d99d789e46b5a2a71f8ab8b1de44f45"
   }
  ],
  "scan_base": "https://archive.org/download/lettersoffyodorm00dostrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:52:55Z",
-  "source_ast_sha256": "dd1204b68d44fe83aa40b082a7a716ade6e12f72ea6807c01ecaae343924b460",
+  "compiled_at": "2026-11-24T19:21:29Z",
+  "source_ast_sha256": "5790d4705c9060051803b6fdfad9e6e19fc28794fe2b83efc026057badd42a43",
   "hugo_renderer_version": "1.0.0"
  }
 }

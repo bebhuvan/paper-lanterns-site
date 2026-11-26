@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>The Last Letters of Edgar Allan Poe to Sarah Helen Whitman</title>
-        <author>Edgar Allan Poe (ed. James A. Harrison)</author>
+        <author>Edgar Allan Poe</author>
+        <editor>James A. Harrison</editor>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +15,7 @@
       <sourceDesc>
         <bibl>
           <title>The Last Letters of Edgar Allan Poe to Sarah Helen Whitman</title>
+          <publisher>New York &amp; London: G. P. Putnam&#x27;s Sons, 1909</publisher>
           <date>1909</date>
           <idno type="URI">https://archive.org/details/lastlettersofedg00poeeuoft</idno>
         </bibl>
@@ -93,8 +95,7 @@
 <p rend="indented">Poe matriculated at the University of Virginia on the 14th of February, 1826, and his Alma Mater might <pb xml:id="page-14" n="vi"/> almost be said to send him this belated <hi rend="italic">Valentine</hi> in honor of that signal event.</p>
 <p rend="indented">The editor's warmest acknowledgments are due to Miss Charlotte F. Dailey and Mrs. Henry R. Chace, of Providence, Rhode Island—Mrs. Whitman's heirs—for permission to print these letters; and to Mrs. R. L. Traylor, of Richmond, Va., for the use of the miniature of Poe. This rare likeness belonged to the late Robert Lee Traylor and is painted in oil on an ivory disk. It represents the poet at twenty-six years of age and is the earliest known portrait of him.</p>
 <p rend="indented">Acknowledgment is also due to the Century Company for permission to reprint the banns of matrimony and the marriage contract between Mrs. Whitman and Poe, and also for permission to reproduce the portraits of Poe and Mrs. Whitman.</p>
-<p rend="signature">J. A. H.</p>
-<p rend="dateline">University of Virginia,<lb/>January, 1909.</p>
+<closer><signed rend="right">J. A. H.</signed><dateline rend="indented">University of Virginia,<lb/>January, 1909.</dateline></closer>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-unit-0003" type="apparatus">
@@ -119,10 +120,8 @@
       <div xml:id="sec-sec-02" type="frontmatter">
 <head>Introduction</head>
 <div xml:id="div-unit-0004" type="narrative">
-<pb xml:id="page-17" n="17"/><head rend="center">The Last Letters of Edgar Allan Poe to
-Sarah Helen Whitman</head>
-<pb xml:id="page-19" n="I"/><head rend="center">The Last Letters of Edgar Allan Poe to
-Sarah Helen Whitman</head>
+<pb xml:id="page-17" n="17"/><head rend="center">The Last Letters of Edgar Allan Poe to<lb/>Sarah Helen Whitman</head>
+<pb xml:id="page-19" n="I"/><head rend="center">The Last Letters of Edgar Allan Poe to<lb/>Sarah Helen Whitman</head>
 <milestone unit="section" rend="ornament"/>
 <p rend="heading">INTRODUCTION</p>
 <p>IN publishing the following correspondence between Mrs. Sarah Helen Whitman and Edgar Allan Poe exactly as it occurs in the original MSS., without change or alteration of any kind, the editor feels that he is not dealing with a hackneyed subject, but one which, in its present form, is almost entirely new. For the first time this celebrated courtship, involving one of the loveliest women and the most talked of poet of their day, is revealed in full, with all the authenticity possible to accurately copied MSS., and the most scrupulous care taken in abstaining from “editing,” adding, or condensing in any shape or form.</p>
@@ -207,10 +206,8 @@ Sarah Helen Whitman</head>
 <head rend="center"><hi rend="smallcaps">FIFTH LETTER</hi></head>
 <opener><dateline rend="right">Wednesday Morning—<hi rend="italic">the 22d. Nov.</hi><ref xml:id="fnref-p0054-1" type="noteref" target="#fn-p0054-1">1</ref></dateline></opener>
 <p>My dearest Helen—Last Monday I received your note, dated Friday, and promising that on Tuesday I should get a long letter from you. It has not yet reached me, but I presume will be at the P. O. when I send this in.—In the meantime I write these few words to thank you, from the depths of my heart, for the dear expressions of your note—expressions of tenderness so wholly undeserved by me—and to assure you of my safety and health. The terrible excitement under which I suffered, has subsided, and I am as calm as I well could be, remembering what is past. <hi rend="italic">Still</hi> the Shadow of Evil <hi rend="italic">haunts</hi> me, and although tranquil, I am unhappy. I dread the Future—and you alone can reassure me. I have <hi rend="italic">so</hi> much to say to you, but must wait until I hear from <pb xml:id="page-55" n="35"/> you. My mother was delighted with your wish to be remembered and begs me to express the pleasure it gave her.</p>
-<p rend="valediction">Forever your own</p>
-<p rend="signature"><hi rend="smallcaps">Edgar.</hi></p>
-<p rend="postscript">Remember me to Mr. Pabodie.</p>
-<milestone unit="section" rend="ornament"/>
+<closer><salute rend="right">Forever your own</salute><signed rend="right"><hi rend="smallcaps">Edgar.</hi></signed></closer>
+<postscript><p rend="postscript">Remember me to Mr. Pabodie.</p><milestone unit="section" rend="ornament"/></postscript>
 </div>
 <div xml:id="div-letter-0006" type="letter" corresp="#letter-0006">
 <pb xml:id="page-56" n="36"/><head rend="center">POE TO MRS. WHITMAN</head>
@@ -221,12 +218,8 @@ Sarah Helen Whitman</head>
 <p rend="indented">Your lines “To Arcturus” are truly beautiful I would retain the Vergilian words—omitting the translation. The first note leave out:—61 Cygni has been proved nearer than Arcturus and Alpha Lyræ is presumably so.—Bessel, also, has shown 6 other stars to be nearer than the brighter one of this hemisphere—There is an obvious tautology in “pale candescent.” To be <hi rend="italic">candescent</hi> is to become <hi rend="italic">white</hi> with <hi rend="italic">heat.</hi> Why not read—“To blend with thine its incandescent fire?” Forgive me <hi rend="italic">sweet</hi> Helen, for these <hi rend="italic">very</hi> stupid and captious criticisms. Take <pb xml:id="page-60" n="40"/> vengeance on my next poem.—When “Ulalume” appears, cut it out and enclose it:—newspapers seldom reach me.—In last Saturday’s “Home Journal” is a letter from M. C. (who is it?) I enclose a passage which seems to refer to my lines:</p>
 <quote><p rend="center">—the very roses’ odors<lb/>[Died in the arms of the adoring airs.]</p></quote>
 <p>The accusation will enable you to see how groundless such accusations may be, even when seemingly best founded. Mrs. H.’s book was published 3 months ago. You had my poem about the first of June—was it not?</p>
-<p rend="signature"><hi rend="italic">Forever your own, Edgar.</hi></p>
-<p rend="postscript">Remember me to Mr. Pabodie—Mrs. Burgess and Mrs. Newcomb.</p>
-<p rend="dateline">Fordham<lb/>November 24th. 1848</p>
-<p rend="center">From Edgar Poe<lb/>to Sarah Helen Whitman.</p>
-<p>[Stationery square, like former letters with cartouch enclosing B &amp; S.—C. F. D.]</p>
-<milestone unit="section" rend="ornament"/>
+<closer><signed rend="right"><hi rend="italic">Forever your own, Edgar.</hi></signed></closer>
+<postscript><p rend="postscript">Remember me to Mr. Pabodie—Mrs. Burgess and Mrs. Newcomb.</p><p rend="dateline">Fordham<lb/>November 24th. 1848</p><p rend="center">From Edgar Poe<lb/>to Sarah Helen Whitman.</p><p>[Stationery square, like former letters with cartouch enclosing B &amp; S.—C. F. D.]</p><milestone unit="section" rend="ornament"/></postscript>
 </div>
 <div xml:id="div-letter-0007" type="letter" corresp="#letter-0007">
 <head rend="center">POE TO MRS. WHITMAN</head>
@@ -247,9 +240,7 @@ Sarah Helen Whitman</head>
 <p>Signature and postscript cut out and given to James T. Fields, 1865.]</p>
 <floatingText type="letter_excerpt"><body><div><pb xml:id="page-63" n="43"/><quote><p>“P. S.—” Preserve the printed lines. I send the MS.—Perhaps you may recognize it. As one of the signs of the times I notice that Griswold has lately copied my Raven in his Hartford Weekly Gazette — I enclose his editorial comments so that you have quite a budget of enclosures.”</p></quote></div></body></floatingText>
 <p rend="center">[<hi rend="italic">The letter now continues:</hi>]</p>
-<p rend="postscript">P. S.—I open this letter, <hi rend="italic">dearest love</hi>, to ask you to mail me, <hi rend="italic">as soon as possible</hi>, three articles of mine which you will find among the <hi rend="italic">critical papers</hi> I gave you—viz.: “The Philosophy of Composition”—Tale Writing—Nathl. Hawthorne—and a review of Longfellow’s poems. I wish to refer to them in writing my Lecture and can find no other copies. Do not fail to send them <hi rend="italic">dear—dear</hi> Helen, as soon as you get this. Enclose them <hi rend="italic">in a letter</hi>—so that I may be sure to get them in season.</p>
-<p rend="postscript">Mrs. B’s. “Ida Grey” is in “Graham” for August—45.</p>
-<milestone unit="section" rend="ornament"/>
+<postscript><p rend="postscript">P. S.—I open this letter, <hi rend="italic">dearest love</hi>, to ask you to mail me, <hi rend="italic">as soon as possible</hi>, three articles of mine which you will find among the <hi rend="italic">critical papers</hi> I gave you—viz.: “The Philosophy of Composition”—Tale Writing—Nathl. Hawthorne—and a review of Longfellow’s poems. I wish to refer to them in writing my Lecture and can find no other copies. Do not fail to send them <hi rend="italic">dear—dear</hi> Helen, as soon as you get this. Enclose them <hi rend="italic">in a letter</hi>—so that I may be sure to get them in season.</p><p rend="postscript">Mrs. B’s. “Ida Grey” is in “Graham” for August—45.</p><milestone unit="section" rend="ornament"/></postscript>
 </div>
 <div xml:id="div-letter-0008" type="letter" corresp="#letter-0008">
 <pb xml:id="page-64" n="44"/><head rend="center">POE TO MRS. WHITMAN</head>
@@ -264,7 +255,7 @@ Sarah Helen Whitman</head>
 <head rend="center"><hi rend="smallcaps">NINTH AND LAST LETTER</hi></head>
 <p>[Fragments of a letter received from Edgar Poe in the beginning of January, 1849. A letter to which I never replied. Mrs. Whitman's own note.—C. F. D.]</p>
 <p>HEAVEN knows that I would shrink from wounding or grieving you. I blame no one but your mother. Mr. Pabodie will tell you all. May Heaven shield you from all ill.</p>
-<p rend="signature">[No signature]</p>
+<closer><signed rend="center">[No signature]</signed></closer>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0010" type="letter" corresp="#letter-0010">
@@ -274,8 +265,7 @@ Sarah Helen Whitman</head>
 <closer><salute rend="right">Respy. yr. Ob. St.</salute><signed rend="right"><hi rend="smallcaps">Edgar</hi> A. <hi rend="smallcaps">Poe</hi>.</signed></closer>
 </div>
 <div xml:id="div-unit-0015" type="document">
-<pb xml:id="page-67" n="47"/><head rend="center">CONTRACT CONCERNING MARRIAGE BE-
-TWEEN POE AND MRS. WHITMAN</head>
+<pb xml:id="page-67" n="47"/><head rend="center">CONTRACT CONCERNING MARRIAGE BE-<lb/>TWEEN POE AND MRS. WHITMAN</head>
 <opener><dateline rend="right"><hi rend="smallcaps">Providence</hi>, <hi rend="italic">December</hi> 15, 1848.</dateline><salute>TO Charles F. Tillinghast Administrator with the Will annexed of the estate of Ruth Marsh late of Providence deceased.</salute></opener>
 <p>You are hereby required in conformity to the provisions of the Will of the above named Ruth Marsh to pay to me the Subscriber the whole of the Estate of the said Ruth Marsh now in your possession or Control—the said Estate consisting of Bank Stock and Notes as follows namely</p>
 <list><item>Fifteen Shares of the Merchants Bank.
@@ -294,8 +284,7 @@ Tallman and Bucklin's Note for Two thousand Dollars.</item><pb xml:id="page-68" 
 <pb xml:id="page-69" n="49"/><p>Whereas a Marriage is intended between the above named Sarah H. Whitman and the Subscriber Edgar A. Poe,—I hereby approve of and assent to the transfer of the property in the manner proposed in the papers of which the preceding are copies.</p>
 <p rend="dateline">Providence December 22 1848</p>
 <p>In presence of</p>
-<p rend="signature">William J. Pabodie</p>
-<p rend="signature"><hi rend="smallcaps">Edgar A. Poe</hi></p>
+<closer><signed rend="indented">William J. Pabodie</signed><signed rend="right"><hi rend="smallcaps">Edgar A. Poe</hi></signed></closer>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0011" type="letter" corresp="#letter-0011">

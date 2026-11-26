@@ -7,7 +7,7 @@
 
 ## Frontmatter
 
-### XLVI. THE WORKS OF LEO TOLSTOY.—I. ESSAYS AND LETTERS
+### XLVI.<br />THE WORKS<br />OF<br />LEO TOLSTOY.—I.<br />ESSAYS AND LETTERS
 
 ### The World's Classics
 
@@ -94,11 +94,11 @@
   77 Montaigne's ESSAYS. Vol. III.  
   78 DON QUIXOTE. Vol. I.  
   79 Borrow's BIBLE IN SPAIN.
-### ESSAYS AND LETTERS
+### ESSAYS AND<br />LETTERS
 
-### BY LEO TOLSTOY
+#### BY<br />LEO TOLSTOY
 
-### TRANSLATED BY AYLMER MAUDE
+##### TRANSLATED BY<br />AYLMER MAUDE
 
 *[Illustration, p. 7]*
 
@@ -210,9 +210,9 @@ The articles marked in the above Table of Contents with an asterisk (*) are not 
 
 ### ESSAYS AND LETTERS
 
-### I
+#### I
 
-### INDUSTRY AND IDLENESS
+#### INDUSTRY AND IDLENESS
 
 > ‘In the sweat of thy face shalt thou eat bread, till thou  
 > return unto the ground ; for out of it wast thou taken.’—  
@@ -366,14 +366,13 @@ You will see that what seemed to you like an island on which you were saved from
 
 ### Notes
 
-[^fn-p0013-1]: (*) T. M. Bóndaref was born a serf in 1820. In 1858 he was sent to serve for twenty-five years in the army, but joining the sect of ‘Sabbatarians’ (who accept the Old Testament as authoritative, and follow the Jewish faith in many things), he was banished in 1867 to Údina in Siberia. There, as a ploughman of great energy, he built up for himself a fairly comfortable peasant home, but again impoverished himself by efforts to spread his doctrine of ‘bread-labour.’ His book could not be published in Russia, but has been translated into French and other languages. Another title Bóndaref gave to his book is ‘The Agriculturist’s Triumph.’
 [^fn-p0017-1]: (*) Saints' days are numerous in Russia, but on the other hand, no Saturday or other weekly half-holiday is customary, so that the total time allowed for holidays comes to much the same in Russia as in England.
 
 ## II. Why do Men Stupefy themselves?
 
 ### WHY DO MEN STUPEFY THEMSELVES?
 
-### I.
+##### I.
 
 <span class="small-caps">What</span> is the explanation of the fact that people use things that stupefy them: vódka, wine, beer, hashish, opium, tobacco, and other things less common: ether, morphia, fly-agaric, etc. ? Why did the practice begin? Why has it spread so rapidly, and why is it still spreading among all sorts of people, savage and civilized? How is that where there is no vódka, wine or beer, there we find opium, hashish, fly-agaric, etc., and that tobacco is used everywhere?
 
@@ -407,7 +406,7 @@ The external means do not quite divert attention from the consciousness of disco
 
 One is not living as conscience demands, yet lacks the strength to reshape one's life in accord with its demands. The diversions which might distract attention from the consciousness of this discord are insufficient, or have become stale, and so—in order to be able to live on, disregarding the indications conscience gives of the wrongness of their life—people (by poisoning it temporarily) stop the activity of the organ through which conscience manifests itself, as a man by covering his eyes hides from himself what he does not wish to see.
 
-### **II.**
+#### **II.**
 
 Not in the taste, nor in any pleasure, recreation, or mirth they afford, lies the cause of the world-wide consumption of hashish, opium, wine, and tobacco, but simply in man's need to hide from himself the demands of conscience.
 
@@ -441,7 +440,7 @@ But one need only think of the matter seriously and impartially—not trying to 
 
 In a word, it is impossible to avoid understanding that the use of stupefiers, in large or small amounts, occasionally or regularly, in the higher or lower circles of society, is evoked by one and the same cause, the need to stifle the voice of conscience in order not to be aware of the discord existing between one's way of life and the demands of one's conscience.
 
-### III.
+#### III.
 
 In that alone lies the reason of the widespread use of all stupefying substances, and among the rest of tobacco—probably the most generally used and most harmful.
 
@@ -469,7 +468,7 @@ When a man works, he is always conscious of two beings in himself: the one works
 
 'If I do not smoke I cannot write. I cannot get on; I begin and cannot continue,' is what is usually said, and what I used to say. What does it really mean? It means either that you have nothing to write, or that what you wish to write has not yet matured in your consciousness, but is only beginning dimly to present itself to you, and the appraising critic within, when not stupefied with tobacco, tells you so. If you did not smoke you would either abandon what you have begun, or you would wait until your thought has cleared itself in your mind; you would try to penetrate into what presents itself dimly to you, would consider the objections that offer themselves, and would turn all your attention to the elucidation of the thought. But you smoke, the critic within you is stupefied, and the hindrance to your work is removed. What to you when not inebriated by tobacco seemed insignificant, again seems important; what seemed obscure, no longer seems so; the objections that presented themselves vanish, and you continue to write, and write much and rapidly.
 
-### IV.
+#### IV.
 
 But can such a small—such a trifling—alteration as the slight intoxication produced by the moderate use of wine or tobacco produce important consequences? ‘If a man smokes opium or hashish, or intoxicates himself with wine till he falls down and loses his senses, of course the consequences may be very serious ; but for a man merely to come slightly under the influence of hops or tobacco, surely cannot have any serious consequences,’ is what is usually said. It seems to people that a slight stupefaction, a little darkening of the judgment, cannot have any important influence. But to think so, is as if one supposed that it may harm a watch to be struck against a stone, but that a little dirt introduced into it cannot do it any harm.
 
@@ -491,7 +490,7 @@ Do not let it be supposed that what I am saying has anything to do with the ques
 
 For man is a spiritual as well as an animal being. Man may be moved by things that influence his spiritual nature, or may be moved by things that influence his animal nature, as a clock may be moved by its hands or by its main wheel. And just as it is best to regulate the movement of a clock by means of its inner mechanism, so a man—one's self or another—is best regulated by means of his consciousness. And as with a clock one has to take special care of the thing by means of which one can best move the inner mechanism, so with a man, one must attend most of all to the cleanness and clearness of consciousness; consciousness being the thing that best moves the whole man. To doubt this is impossible; every one knows it. But a need to deceive one's self arises. People are not as anxious that consciousness should work correctly, as they are that it should seem to them that what they are doing is right, and they knowingly make use of substances that disturb the proper working of their consciousness.
 
-### **V.**
+#### **V.**
 
 People drink and smoke, not casually, not from dulness, not to cheer themselves up, not because it is pleasant, but in order to drown the voice of conscience in themselves. And if that is so, how terrible must be the consequences ! Indeed, think what a building would be like erected by people who did not use a straight plumb-rule to get the walls perpendicular, nor right-angled squares to get the corners correct, but used a soft rule which would bend to suit all irregularities in the walls, and a square that expanded to fit any angle, acute or obtuse.
 
@@ -505,7 +504,7 @@ What occurs is as if a man who needs to see to the bottom of some muddy water to
 
 Let each man remember himself as he has been during the years of his drinking or smoking, and let him test the matter in his experience of other people, and every one will see a definite constant line dividing those who are addicted to stupefiers from those who are free from them. The more a man stupefies himself, the more he is morally immovable.
 
-### <span class="small-caps">vi.</span>
+##### <span class="small-caps">vi.</span>
 
 Terrible, as they are described to us, are the consequences of opium and hashish on individuals ; terrible, as we know them, are the consequences of alcohol to flagrant drunkards; but incomparably more terrible to our whole society are the consequences of what is considered the harmless, moderate use of spirits, wine, beer, and tobacco, to which the majority of men, and especially our so-called cultured classes, are addicted.
 
@@ -545,7 +544,7 @@ The above essay was written by Leo Tolstoy as a preface to a book on *Drunkennes
 
 ### III
 
-### AN AFTERWORD TO ‘THE KREUTZER SONATA’
+### AN AFTERWORD TO ‘THE KREUTZER<br />SONATA’
 
 <span class="small-caps">Many</span> letters from strangers have reached and still continue to reach me asking for a clear and simple explanation of what I meant by the story called ‘The Kreutzer Sonata.’ I will try, to the best of my ability, to do what is asked of me, and explain briefly the essence of what I wished that story to convey, as well as the conclusions which, I think, may be derived from it.
 
@@ -735,7 +734,7 @@ The above is a new translation, in preparing which I have been allowed to make f
 
 ### THE FIRST STEP
 
-### I.
+##### I.
 
 <span class="small-caps">If</span> a man is not making a pretence of work, but is working in order to accomplish the matter he has in hand, his actions will necessarily follow one another in a certain sequence determined by the nature of the work. If he postpones to a later time what from the nature of the work should be done first, or if he altogether omits some essential part, he is certainly not working seriously, but only pretending. This rule holds unalterably true whether the work be physical or not. As one cannot seriously wish to bake bread unless one first kneads the flour and then heats the brick-oven, sweeps out the ashes, and so on, so also one cannot seriously wish to lead a good life without adopting a certain order of succession in the attainment of the necessary qualities.
 
@@ -749,7 +748,7 @@ All moral teachings set up that ladder which, as the Chinese wisdom has it, reac
 
 But, strange to say, from the time Church-Christianity spread widely, the consciousness of this necessary order appears to have been more and more lost, and is now retained only among ascetics and monks. Among worldly Christians it is taken for granted that the higher virtues may be attained not only in the absence of the lower ones, which are a necessary condition of the higher, but even in company with the greatest vices; and consequently the very conception of what it is that constitutes a good life, has reached, in the minds of the majority of worldly people to-day, a state of the greatest confusion.
 
-### II.
+##### II.
 
 In our times people have quite lost the consciousness of the necessity of a sequence in the qualities a man must have to enable him to live a good life, and, as a consequence, they have lost the very conception of what constitutes a good life. This, it seems to me, has come about in the following way.
 
@@ -773,7 +772,7 @@ But not all men have understood Christianity as an aspiration towards the perfec
 
 And it is precisely this teaching that has destroyed the sincerity and seriousness of men's relation to the moral teaching of Christianity. However much the representatives of these faiths may preach that these means of salvation do not hinder man in his aspiration after a righteous life, but on the contrary contribute toward it—still, from certain assertions certain deductions necessarily follow, and no arguments can prevent men from making these deductions, when once they have accepted the assertions from which they flow. If a man believe that he can be saved through grace transmitted by the Church, or through the sacrifice of the Redemption, it is natural for him to think that efforts of his own to live a right life are unnecessary—the more so when he is told that even the hope that his efforts will make him better is a sin. Consequently a man who believes that there are means other than personal effort by which he may escape sin or its results, cannot strive with the same energy and seriousness as the man who knows no other means. And not striving with perfect seriousness, and knowing of other means besides personal effort, a man will inevitably neglect the unalterable order of succession for the attainment of the good qualities necessary to a good life. And this has happened with the majority of those who profess Christianity.
 
-### III.
+#### III.
 
 The doctrine that personal effort is not necessary for the attainment of spiritual perfection by man, but that there are other means for its acquirement, caused a relaxation of efforts to live a good life and a neglect of the consecutiveness indispensable for such a life. The great mass of those who accepted Christianity, accepting it only externally, took advantage of the substitution of Christianity for paganism to rid themselves of the demands of the heathen virtues—no longer necessary for a Christian—and to free themselves from all conflict with their animal nature. The same thing happens with those who cease to believe in the teaching of the Church. They are like the before-mentioned believers, only they put forward —instead of grace, bestowed by the Church or through Redemption—some imaginary good work, approved of by the majority of men, such as the service of science, art, or humanity ; and in the name of this imaginary good work they liberate themselves from the consecutive attainment of the qualities necessary for a good life, and are satisfied, like men on the stage, with pretending to live a good life.
 
@@ -791,7 +790,7 @@ So speak the Church people; and those who reject not only the Church but also th
 
 Men have thrown aside the heathen sequence of virtues; but, not assimilating the Christian teaching in its true significance, they have not accepted the Christian sequence, and are left quite without guidance.
 
-### IV.
+#### IV.
 
 In olden times, when there was no Christian teaching, all the teachers of life, beginning with Socrates, regarded as the first virtue of life, self-control—ἐγκράτεια or σωφροσύνη; and it was understood that every virtue must begin with and pass through this one. It was clear that a man who had no self-control, who had developed an immense number of desires and had yielded himself up to them, could not lead a good life. It was evident that before a man could even think of disinterestedness, justice—to say nothing of generosity or love—he must learn to exercise control over himself. According to our ideas now, nothing of the sort is necessary. We are convinced that a man who has developed his desires to the climax reached in our society, a man who cannot live without satisfying the hundred unnecessary habits that enslave him, can yet lead an altogether moral and good life. Looked at from any point of view : the lowest, utilitarian ; the higher, pagan, which demands justice ; but especially from the highest, Christian, which demands love—it should surely be clear to every one that a man who uses for his own pleasure (which he might easily forego) the labour, often the painful labour, of others, behaves wrongly ; and that this is the very first wrong he must cease to commit if he wishes to live a good life.
 
@@ -815,7 +814,7 @@ In most cases the men who are meant to represent something noble and lofty—fro
 
 I do not refer to the representations of really abstemious and industrious people one occasionally meets with in literature. I am speaking of the usual type that serves as an ideal to the masses : of the character that the majority of men and women are trying to resemble. I remember the difficulty (inexplicable to me at the time) that I experienced when I wrote novels, a difficulty with which I contended and with which I know all novelists now contend who have even the dimmest conception of what constitutes real moral beauty—the difficulty of portraying a type taken from the upper classes as ideally good and kind, and at the same time true to life. To be true to life, a description of a man or woman of the upper, educated classes must show him in his usual surroundings—that is, in luxury, physical idleness, and demanding much. From a moral point of view such a person is undoubtedly objectionable. But it is necessary to represent this person in such a way that he may appear attractive. And novelists try so to represent him. I also tried. And, strange to say, such a representation, making an immoral fornicator and murderer (duellist or soldier), an utterly useless, idly drifting, fashionable buffoon, appear attractive, does not require much art or effort. The readers of novels are, for the most part, exactly such men, and therefore readily believe that these Childe Harolds, Onégins, Monsieurs de Camors,[^fn-p0075-1] etc., are very excellent people.
 
-### V.
+#### V.
 
 Clear proof that the men of our time really do not admit pagan self-control and Christian self-renunciation to be good and desirable qualities, but, on the contrary, regard the augmentation of wants as good and elevated, is to be found in the education given to the vast majority of children in our society. Not only are they not trained to self-control, as among the pagans, or to the self-renunciation proper to Christians, but they are deliberately inoculated with habits of effeminacy, physical idleness, and luxury.
 
@@ -831,7 +830,7 @@ A man feels that his life is bad, that he must reform it from the very roots, an
 
 It seldom happens, amid all the temptations that surround him, that a man of our society understands what was thousands of years ago, and still is, an elementary truth for all reasonable people: namely, that for the attainment of a good life it is necessary, first of all, to cease to live an evil life; that for the attainment of the higher virtues it is needful, first of all, to acquire the virtue of abstinence or self-control, as the pagans called it, or of self-renunciation, as Christianity has it, and therefore it seldom happens that, by gradual efforts, he succeeds in attaining this primary virtue.
 
-### VI.
+#### VI.
 
 I have just been reading the letters of one of our highly educated and advanced men of the ’forties, the exile Ogaryóf, to another yet more highly educated and gifted man, Herzen. In these letters Ogaryóf gives expression to his sincere thoughts and highest aspirations, and one cannot fail to see that—as was natural to a young man—he rather shows off before his friend. He talks of self-perfecting, of sacred friendship, love, the service of science, of humanity, and the like. And at the same time he calmly writes that he often irritates the companion of his life by, as he expresses it, ‘returning home in an unsober state, or disappearing for many hours with a fallen, but dear creature. . . .’
 
@@ -843,7 +842,7 @@ And the tragedy of such lives is indeed terrible. And this same tragedy apparent
 
 What is also strange in the case is that these people know that the distribution of pleasures among men is unequal, and regard this inequality as an evil, and wish to correct it, yet do not cease to strive to augment their own pleasures—*i.e.*, to augment inequality in the distribution of pleasures. In acting thus, these people are like men who being the first to enter an orchard hasten to gather all the fruit they can lay their hands on, and yet wish to organize a more equal distribution of the fruit of the orchard between themselves and later comers, while they continue to pluck all the fruit they can reach.
 
-### VII.
+##### VII.
 
 The delusion that men while addicting themselves to their desires and regarding this life of desire as good, can yet lead a good, useful, just and loving life, is so astonishing, that men of later generations will, I should think, simply fail to understand what the men of our time meant by the words ‘good life,’ when they said that the gluttons—the effeminate, lustful sluggards—of our wealthy classes led good lives. Indeed, one need only put aside for a moment the customary view of the life of our wealthy classes, and look at it, I do not say from the Christian point of view, but from the pagan standpoint, from the standpoint of the very lowest demands of justice, to be convinced that, living amidst the violation of the plainest laws of justice or fairness, such as even children in their games think it wrong to violate, we, men of the wealthy classes, have no right even to talk about a good life.
 
@@ -897,7 +896,7 @@ And all this arises from people imagining that it is possible to lead a good lif
 
 And this first quality is self-control.
 
-### VIII.
+#### VIII.
 
 There never has been, and cannot be, a good life without self-control. Apart from self-control, no good life is imaginable. The attainment of goodness must begin with that.
 
@@ -937,7 +936,7 @@ Bread is a necessary and sufficient food. (This is proved by the millions of men
 
 And, strange to say, men who daily overeat themselves at such dinners—in comparison with which the feast of Belshazzar, that evoked the prophetic warning, was nothing—are naïvely persuaded that they may yet be leading a moral life.
 
-### IX.
+#### IX.
 
 Fasting is an indispensable condition of a good life ; but in fasting, as in self-control in general, the question arises, with what shall we begin ?—How to fast, how often to eat, what to eat, what to avoid eating ? And as we can do no work seriously without regarding the necessary order of sequence, so also we cannot fast without knowing where to begin—with what to commence self-control in food.
 
@@ -1009,7 +1008,7 @@ First, that she is, as her doctor assures her, so delicate that she cannot be su
 
 Whereas the poor lady is weak precisely because she has been taught to live upon food unnatural to man ; and she cannot avoid causing suffering to animals—for she eats them.
 
-### X.
+##### X.
 
 We cannot pretend that we do not know this. We are not ostriches, and cannot believe that if we refuse to look at what we do not wish to see, it will not exist. This is especially the case when what we do not wish to see is what we wish to eat. If it were really indispensable, or, if not indispensable, at least in some way useful ! But it is quite unnecessary,[^fn-p0102-1] and only serves to develop animal feelings, to excite desire, and to promote fornication and drunkenness. And this is continually being confirmed by the fact that young, kind, undepraved people—especially women and girls—without knowing how it logically follows, feel that virtue is incompatible with beefsteaks, and, as soon as they wish to be good, give up eating flesh.
 
@@ -1048,7 +1047,7 @@ The above essay was written as Preface to a Russian translation of Howard Willia
 
 ### NON-ACTING
 
-### I.
+##### I.
 
 <span class="small-caps">The</span> editor of a Paris review, thinking that the opinions of two celebrated writers on the state of mind that is common to-day would interest me, has sent me two extracts from French newspapers—one containing Zola's speech delivered at the banquet of the General Association of Students, the other containing a letter from Dumas to the editor of the *Gaulois.*
 
@@ -1130,7 +1129,7 @@ We all know that what the Romans valued as the greatest science and the most imp
 
 Unless, then, our century forms an exception (which is a supposition we have no right to make), it needs no great boldness to conclude, by analogy, that among the kinds of knowledge occupying the attention of our learned men, and called science, there must necessarily be some which will be regarded by our descendants much as we now regard the rhetoric of the ancients and the scholasticism of the Middle Ages.
 
-### II.
+#### II.
 
 M. Zola's speech is chiefly directed against certain leaders who are persuading the young generation to return to religious beliefs ; for M. Zola, as champion of science, considers himself an adversary of theirs. Really he is nothing of the sort, for his reasoning rests on the same basis as that of his opponents, namely (as he himself admits), on faith.
 
@@ -1160,7 +1159,7 @@ In my opinion, not only is work not a virtue, but in our ill-organized society i
 
 Dumas says something quite different.
 
-### III.
+#### III.
 
 The following is the letter he sent to the editor of the *Gaulois*:
 
@@ -1224,7 +1223,7 @@ No one doubts that if men continue to snatch from one another the ownership of t
 
 Men of our day continue to live as they have lived, and do not cease to do things that must inevitably lead to their destruction. Moreover, men of our world recognise, if not the religious law of love, at least the moral rule of that Christian principle : not to do to others what one does not wish done to one's self ; but they do not practise it. Evidently some greater reason exists preventing their doing what is to their advantage, what would save them from menacing dangers, and what is dictated by the law of their God and by their conscience. Must it be said that love applied to life is a chimera ? If so, how is it that for so many centuries men have allowed themselves to be deceived by this unrealizable dream ? It were time to see through it. But mankind can neither decide to follow the law of love in daily life, nor to abandon the idea. How is this to be explained ? What is the reason of this contradiction lasting through centuries ? It is not that the men of our time neither wish nor are able to do what is dictated alike by their good sense, by the dangers of their situation, and above all by the law of him whom they call God and by their conscience—but it is because they act just as M. Zola advises : they are busy, they all labour at some work commenced long ago and in which it is impossible to pause to concentrate their thoughts, or to consider what they ought to be. All the great revolutions in men's lives are made in thought. When a change takes place in man's thought, action follows the direction of thought as inevitably as a ship follows the direction given by its rudder.
 
-### IV.
+#### IV.
 
 When he first preached, Jesus did not say, ‘Love one another’ (he taught love later on to his disciples: to men who had understood his teaching), but he said what John the Baptist had preached before: repentance, μετάνοια—that is to say, a change in the conception of life. Μετανοεῖτε—change your view of life, or you will all perish, said he. The meaning of your life cannot consist in the pursuit of your personal well-being, or in that of your family or of your nation, for such happiness can be obtained only at the expense of others. Realize that the meaning of your life can consist only in accomplishing the will of him that sent you into this life, and who demands of you, not the pursuit of your personal interests, but the accomplishment of his aims—the establishment of the Kingdom of Heaven, as Jesus said.
 
@@ -1236,7 +1235,7 @@ An ideal in geometry is the perfectly straight line or the circle whose radii ar
 
 It is commonly said that reality is that which exists; or, that only what exists is real. Just the contrary is the case: true reality, that which we really know, is what has never existed. The ideal is the only thing we know with certainty, and it has never existed. It is only thanks to the ideal that we know anything at all; and that is why the ideal alone can guide us in our lives, either individually or collectively. The Christian ideal has stood before us for eighteen centuries; it shines, to-day, with such intensity that it needs great effort to avoid seeing that all our woes arise from the fact that we do not accept its guidance. But the more difficult it becomes to avoid seeing this, the more some people increase their efforts to persuade us to do as they do: to close our eyes in order not to see. To be quite sure to reach port one must, above all, throw the compass overboard, say they, and forge ahead. Men of our Christian world are like people who strain themselves with efforts to get rid of some object that spoils life for them, but who, in their hurry, have no time to agree, and all pull in different directions. It would be enough for man to-day to pause in his activity and to reflect—comparing the demands of his reason and of his heart with the actual conditions of life—in order to perceive that his whole life and all his actions are in incessant and glaring contradiction to his reason and his heart. Ask each man of our time separately what are the moral bases of his conduct, and they will almost all tell you that they are the principles of Christianity, or at least those of justice. And in saying this they will be sincere. According to their consciences, all men should live as Christians; but see how they behave: they behave like wild beasts. So that for the great majority of men in our Christian world, the organization of their life corresponds, not to their way of perceiving or feeling, but to certain forms once necessary for other people with quite different perceptions of life, but existing now merely because the constant bustle men live in allows them no time for reflection.
 
-### V.
+#### V.
 
 If in former times (when the evils produced by pagan life were not so evident, and especially when Christian principles were not yet so generally accepted) men were able conscientiously to uphold the servitude of the workers, the oppression of man by man, penal law, and, above all, war—it has now become quite impossible to explain the *raison d'être* of such institutions. In our time men may continue to live a pagan life, but they cannot excuse it.
 
@@ -1262,7 +1261,7 @@ Grateful acknowledgment is due to the *Gaulois* for permission to reproduce Duma
 
 ### VI
 
-### AN AFTERWORD TO AN ACCOUNT RENDERED OF RELIEF SUPPLIED TO THE FAMINE-STRICKEN, IN THE GOVERNMENT OF TOÚLA, IN 1891 AND 1892
+### AN AFTERWORD TO AN ACCOUNT RENDERED<br />OF RELIEF SUPPLIED TO THE FAMINE-STRICKEN, IN THE GOVERNMENT OF<br />TOÚLA, IN 1891 AND 1892
 
 <span class="small-caps">Our</span> two years' experience in distributing among a suffering population contributions that passed through our hands, have quite confirmed our long-established conviction that most of the want and destitution—and the suffering and grief that go with them—which we, almost in vain, have tried to counteract by external means in one small corner of Russia, has arisen, not from some exceptional, temporary cause independent of us, but from general permanent causes quite dependent on us, and consisting entirely in the antichristian, unbrotherly relations maintained by us educated people towards the poor, simple labourers who constantly endure distress and want and the accompanying bitterness and suffering—things that have merely been more conspicuous than usual during the past two years. If this year we do not hear of want, cold, and hunger—of the dying-off, by hundreds of thousands, of adults worn out with overwork and of underfed old people and children—this is not because these things will not occur, but only because we shall not see them—shall forget about them, shall assure ourselves that they do not exist, or that, if they do, they are inevitable and cannot be helped.
 
@@ -1292,9 +1291,9 @@ This *Afterword*, written by Tolstoy as a conclusion to his *Account* relating t
 
 ### Letter 2
 
-### VII
+#### VII
 
-### RELIGION AND MORALITY[^fn-p0140-1]
+#### RELIGION AND MORALITY[^fn-p0140-1]
 
 You ask me: (1) What I understand by the word *religion,* and, (2) Is it possible to have a morality independent of *religion,* in the sense in which I understand that word?
 
@@ -1497,13 +1496,13 @@ So in answer to your two questions, I say: ‘*Religion is a certain relation es
 
 ## VIII. Reason and Religion
 
-### Letter 3
+### Letter 3: AN INQUIRER
 
-### VIII
+#### VIII
 
-### REASON AND RELIGION
+#### REASON AND RELIGION
 
-### A LETTER TO AN INQUIRER
+#### A LETTER TO AN INQUIRER
 
 You ask me:
 
@@ -1536,7 +1535,7 @@ I shall be very glad if my reply, in any degree, satisfies you.
 
 ### IX
 
-### SHAME !
+#### SHAME !
 
 <span class="small-caps">There</span> was a time, between 1820 and 1830, when the officers of the Semenof Regiment, the flower of the young generation of that time, men who were for the most part Freemasons, and subsequently Decembrists,[^fn-p0172-1] decided not to use corporal punishment in their regiment, and, notwithstanding the stringent discipline then required, without using corporal punishment, theirs continued to be a model regiment.
 
@@ -1600,9 +1599,9 @@ Therefore, the emancipation of the Russian people from the degrading influence o
 
 ### Letter 4: Leo Tolstoy → Peter Verígin
 
-### X
+#### X
 
-### LETTER TO PETER VERÍGIN, THE DOUKHOBÓR LEADER—I
+#### LETTER TO PETER VERÍGIN, THE<br />DOUKHOBÓR LEADER—I
 
 <span class="small-caps">Dear Brother</span>,
 
@@ -1624,9 +1623,9 @@ This letter and the one that follows were written to Peter Verígin while he was
 
 ### Letter 5: Leo Tolstoy → Peter Verígin
 
-### XI
+#### XI
 
-### LETTER TO PETER VERÍGIN, THE DOUKHOBÓR LEADER—II
+#### LETTER TO PETER VERÍGIN, THE<br />DOUKHOBÓR LEADER—II
 
 <span class="small-caps">Dear Friend</span>,
 
@@ -1672,9 +1671,9 @@ Yours lovingly,
 
 ### Letter 6: ERNEST H. CROSBY
 
-### XII
+#### XII
 
-### LETTER ON NON-RESISTANCE: TO ERNEST H. CROSBY, OF NEW YORK
+#### LETTER ON NON-RESISTANCE: TO ERNEST H.<br />CROSBY, OF NEW YORK
 
 <span class="small-caps">Dear Mr. Crosby,</span>
 
@@ -1779,7 +1778,7 @@ The real question is not whether it would be good or bad for a certain human soc
 
 ### XIII
 
-### HOW TO READ THE GOSPELS, AND WHAT IS ESSENTIAL IN THEM
+### HOW TO READ THE GOSPELS, AND WHAT IS<br />ESSENTIAL IN THEM
 
 <span class="small-caps">There</span> is so much that is strange, improbable, unintelligible, and even contradictory, in what professes to be Christ's teaching, that people do not know how to understand it.
 
@@ -1809,9 +1808,9 @@ Very likely in selecting what is, from what is not, fully comprehensible, people
 
 ### Letter 7: Russian Liberals
 
-### XIV
+#### XIV
 
-### A LETTER TO RUSSIAN LIBERALS[^fn-p0205-1]
+#### A LETTER TO RUSSIAN LIBERALS[^fn-p0205-1]
 
 I <span class="small-caps">should</span> be very glad to join you and your associates —whose work I know and appreciate—in standing up for the rights of the Literature Committee and opposing the enemies of popular education. But in the sphere in which you are working I see no way to resist them.
 
@@ -1908,7 +1907,7 @@ Forgive me for sending you so long a letter, which perhaps you did not at all ne
 
 ### XV
 
-### TIMOTHY BÓNDAREF
+#### TIMOTHY BÓNDAREF
 
 How strange and odd it would have seemed to the educated Romans of the middle of the first century, had anyone told them that the obscure, confused, and often unintelligible letters addressed by a wandering Jew to his friends and pupils would have a hundred, a thousand, a hundred thousand times more readers, more circulation, and more influence over people, than all the poems, odes, elegies, and elegant epistles of the authors of that age! And yet that is what has happened.
 
@@ -1932,9 +1931,9 @@ The above article was contributed to Vengerof's *Biographical Dictionary of Russ
 
 ### Letter 8: T. M. Bóndaref
 
-### I.
+#### I.
 
-### *To T. M. Bóndaref, who had written from Siberia asking for information about the Single-Tax.*
+#### *To T. M. Bóndaref, who had written from Siberia asking<br />for information about the Single-Tax.*
 
 <span class="small-caps">This</span> is Henry George's plan:
 
@@ -1956,11 +1955,11 @@ The advantages of such an arrangement would be :
 
 6 (and chiefly). That the non-workers will be saved from the sin of exploiting other people's labour (in doing which they are often not the guilty parties, for they have from childhood been educated in idleness, and do not know how to work), and from the yet greater sin of all kinds of shuffling and lying to justify themselves in commiting that sin ; and the workers will be saved from the temptation and sin of envying, condemning and being exasperated with the non-workers, so that one cause of separation among men will be destroyed.
 
-### Letter 9
+### Letter 9: a German Propagandist of Henry George's Views
 
-### **II.**
+#### **II.**
 
-### *To a German Propagandist of Henry George's Views.*
+#### *To a German Propagandist of Henry George's Views.*
 
 It is with particular pleasure that I hasten to answer your letter, and say that I have known of Henry George since the appearance of his *Social Problems.* I read that book and was struck by the justice of his main thought—by the exceptional manner (unparalleled in scientific literature), clear, popular and forcible, in which he stated his cause—and especially by (what is also exceptional in scientific literature) the Christian spirit that permeates the whole work. After reading it I went back to his earlier *Progress and Poverty,* and still more deeply appreciated the importance of its author's activity.
 
@@ -1996,7 +1995,7 @@ The need of altering the present system has been explained, and the possibility 
 
 ## XVII. Modern Science
 
-### XVII
+#### XVII
 
 ### MODERN SCIENCE[^fn-p0231-1]
 
@@ -2078,9 +2077,9 @@ Chapter xx. of *What is Art?* forms a companion article to the above essay. They
 
 ### Letter 10: NON-COMMISSIONED OFFICER
 
-### XVIII
+#### XVIII
 
-### LETTER TO A NON-COMMISSIONED OFFICER
+#### LETTER TO A NON-COMMISSIONED OFFICER
 
 You are surprised that soldiers are taught that it is right to kill people in certain cases and in war, while in the books admitted to be holy by those who so teach, there is nothing like such a permission, but, on the contrary, not only is all murder forbidden but all insulting of others is forbidden also, and we are told not to do to others what we do not wish done to us. And you ask, Is there not some fraud in all this? And if so, then for whose sake is it committed?
 
@@ -2146,7 +2145,7 @@ These are the thoughts your letter has aroused in me. I shall be very glad if th
 
 > ‘The time is fast approaching when to call a man a patriot will be the deepest insult you can offer him. Patriotism now means advocating plunder in the interests of the privileged classes of the particular State system into which we have happened to be born.’—E. <span class="small-caps">Belfort Bax</span>.
 
-### I.
+#### I.
 
 I <span class="small-caps">have</span> already several times expressed the thought that in our day the feeling of patriotism is an unnatural, irrational, and harmful feeling, and a cause of a great part of the ills from which mankind is suffering ; and that, consequently, this feeling should not be cultivated, as is now being done, but should, on the contrary, be suppressed and eradicated by all means available to rational men. Yet, strange to say—though it is undeniable that the universal armaments and destructive wars which are ruining the peoples result from that one feeling—all my arguments showing the backwardness, anachronism, and harmfulness of patriotism have been met, and are still met, either by silence, by intentional misinterpretation, or by a strange unvarying reply to the effect that only bad patriotism (Jingoism, or Chauvinism) is evil, but that real good patriotism is a very elevated moral feeling, to condemn which is not only irrational but wicked.
 
@@ -2166,7 +2165,7 @@ So that not the imaginary but the real patriotism, which we all know, by which m
 
 It would, therefore, seem obvious that patriotism as a feeling is bad and harmful, and as a doctrine is stupid. For it is clear that if each people and each State considers itself the best of peoples and States, they all live in a gross and harmful delusion.
 
-### II.
+#### II.
 
 One would expect the harmfulness and irrationality of patriotism to be evident to everybody. But the surprising fact is that cultured and learned men not only do not themselves notice the harm and stupidity of patriotism, but they resist every exposure of it with the greatest obstinacy and ardour (though without any rational grounds), and continue to belaud it as beneficent and elevating.
 
@@ -2194,7 +2193,7 @@ The same thing occurs, and for similar reasons, in the political sphere, with re
 
 In this, it seems to me, lies the explanation of the strange contrast between the antiquated patriotic idea, and that whole drift of ideas making in a contrary direction, which have already entered into the consciousness of the Christian world.
 
-### <span class="small-caps">iii.</span>
+#### <span class="small-caps">iii.</span>
 
 Patriotism, as a feeling of exclusive love for one's own people, and as a doctrine of the virtue of sacrificing one's tranquillity, one's property, and even one's life, in defence of one's own people from slaughter and outrage by their enemies, was the highest idea of the period when each nation considered it feasible and just, for its own advantage, to subject to slaughter and outrage the people of other nations.
 
@@ -2212,7 +2211,7 @@ The ruling classes have in their hands the army, money, the schools, the churche
 
 The intensification of this terrible feeling of patriotism has gone on among the European peoples in a rapidly increasing progression, and in our time has reached the utmost limits, beyond which there is no room for it to extend.
 
-### IV.
+#### IV.
 
 Within the memory of people not yet old, an occurrence took place showing most obviously the amazing intoxication caused by patriotism among the people of Christendom.
 
@@ -2236,7 +2235,7 @@ And the same thing occurs with fortifications and navies: one State has built te
 
 ‘I’ll pinch you.’ ‘And I’ll punch your head.’ ‘And I’ll stab you with a dagger.’ ‘And I’ll bludgeon you.’ ‘And I’ll shoot you.’ . . . Only bad children, drunken men, or animals, quarrel or fight so, but yet it is just what is going on among the highest representatives of the most enlightened Governments, the very men who undertake to direct the education and the morality of their subjects.
 
-### V.
+#### V.
 
 The position is becoming worse and worse, and there is no stopping this descent towards evident perdition.
 
@@ -2260,7 +2259,7 @@ If, in former times, Governments were necessary to defend their people from othe
 
 When it was necessary to plough in order to sow, ploughing was wise ; but evidently it is absurd and harmful to go on ploughing after the seed has been sown. But this is just what the Governments are obliging their people to do: to infringe the unity which exists, and which nothing would infringe if it were not for the Governments.
 
-### VI.
+##### VI.
 
 In reality what are these Governments, without which people think they could not exist ?
 
@@ -2288,7 +2287,7 @@ They carefully tie themselves up so that one man can have them all at his mercy 
 
 Really, what are people doing but just that—when they set up, submit to, and maintain an organized and military Government ?
 
-### VII.
+#### VII.
 
 To deliver men from the terrible and ever-increasing evils of armaments and wars, we want neither congresses nor conferences, nor treaties, nor courts of arbitration, but the destruction of those instruments of violence which are called Governments, and from which humanity's greatest evils flow.
 
@@ -2350,7 +2349,7 @@ This is what a German soldier writes :
 
 People are beginning to understand the fraud of patriotism, in which all the Governments take such pains to keep them involved.
 
-### VIII.
+#### VIII.
 
 ‘But,’ it is usually asked, ‘what will there be instead of Governments?’
 
@@ -2378,7 +2377,7 @@ So that even if the absence of Government really meant Anarchy in the negative, 
 
 And therefore emancipation from patriotism, and the destruction of the despotism of Government that rests upon it, cannot but be beneficial to mankind.
 
-### IX.
+#### IX.
 
 Men, recollect yourselves ! For the sake of your well-being, physical and spiritual, for the sake of your brothers and sisters, pause, consider, and think of what you are doing !
 
@@ -2468,9 +2467,9 @@ Prohibited in Russia, an attempt was made to print this article in the Russian l
 
 ### Letter 11: Leo Tolstoy → Tsar / Assistants
 
-### XXI
+#### XXI
 
-### TO THE TSAR AND HIS ASSISTANTS
+#### TO THE TSAR AND HIS ASSISTANTS
 
 <span class="small-caps">Again</span> there are murders, again disturbances and slaughter in the streets, again we shall have executions, terror, false accusations, threats and anger on the one side ; and hatred, thirst for vengeance, and readiness for self-sacrifice, on the other. Again all Russians are divided into two hostile camps, and are committing and preparing to commit the greatest crimes.
 
@@ -2633,9 +2632,9 @@ I travelled the contrary way. I began by loving my Orthodox faith more than my p
 
 ### XXIII
 
-### WHAT IS RELIGION, AND WHEREIN LIES ITS ESSENCE?
+### WHAT IS RELIGION, AND WHEREIN LIES ITS<br />ESSENCE?
 
-### I.
+##### I.
 
 <span class="small-caps">In</span> all human societies, at certain periods of their existence, a time has come when religion has first swerved from its original purpose, then, diverging more and more, it has lost sight of that purpose, and has finally petrified into fixed forms, so that its influence on men's lives has become ever less and less.
 
@@ -2655,11 +2654,11 @@ Yet men who are said to be, and who consider themselves to be, educated, are qui
 
 ‘Religion is obsolete: belief in anything but science is ignorance. Science will arrange all that is needful, and one must be guided in life by science alone.’ This is what is thought and said both by scientists themselves and also by those men of the crowd who, though far from scientific, believe in the scientists and join them in asserting that religion is an obsolete superstition, and that we must be guided in life by science only: that is, in reality, by nothing at all; for science, by reason of its very aim (which is to study all that exists), can afford no guidance for the life of man.
 
-### II.
+#### II.
 
 The learned men of our times have decided that religion is not wanted, and that science will replace it, or has already done so; but the fact remains that, now as formerly, no human society and no rational man has existed or can exist without a religion. I use the term *rational* man because an irrational man may live, as the beasts do, without a religion. But a rational man cannot live without one; for only religion gives a rational man the guidance he needs, telling him what he should do, and what first and what next. A rational man cannot live without religion, precisely because reason is characteristic of his nature. Every animal is guided in its actions (apart from those to which it is impelled by the need to satisfy its immediate desires) by a consideration of the direct results of its actions. Having considered those results by such means of comprehension as it possesses, an animal makes its actions conform to those consequences, and it always unhesitatingly acts in one and the same way, in accord with those considerations. A bee, for instance, flies for honey and stores it in the hive because in winter it will need food for itself and for the young, and beyond these considerations it knows, and can know, nothing. So also a bird is influenced when it builds its nest, or migrates from the north to the south and back again. Every animal acts in a like way when it does anything not resulting from direct, immediate necessity, but prompted by considerations of anticipated results. With man, however, it is not so. The difference between a man and an animal lies in the fact that the perceptive capacities possessed by an animal are limited to what we call instinct, whereas man’s fundamental perceptive capacity is reason. A bee, collecting honey, can have no doubts as to whether it is good or bad to collect honey; but a man gathering in his corn or fruit cannot but consider whether he is diminishing the prospects of obtaining future harvests, and whether he is not depriving his neighbour of food. Nor can he help wondering what the children whom he now feeds will become like—and much else. The most important questions of conduct in life cannot be solved conclusively by a reasonable man, just because there is such a superabundance of possible consequences which he cannot but be aware of. Every rational man knows, or at least feels, that in the most important questions of life he can guide himself neither by personal impulses, nor by considerations of the immediate consequences of his activity—for the consequences he foresees are too numerous and too various, and are often contradictory one to another, being as likely to prove harmful as beneficial to himself and to other people. There is a legend which tells of an angel who descended to earth and, entering a devout family, slew a child in its cradle ; when asked why he did so, he explained that the child would have become the greatest of malefactors, and would have destroyed the happiness of the family. But it is thus not only with the question, Which human lives are useful, useless, or harmful ? None of the most important questions of life can a reasonable man decide by considerations of their immediate results and consequences. A reasonable man cannot be satisfied with the considerations that guide the actions of an animal. A man may regard himself as an animal among animals—living for the passing day ; or he may consider himself as a member of a family, a society, or a nation, living for centuries ; or he may, and even must necessarily (for reason irresistibly prompts him to this) consider himself as part of the whole infinite universe existing eternally. And therefore reasonable men should do, and always have done, in reference to the infinitely small affairs of life affecting their actions, what in mathematics is called *integrate* : that is to say, they must set up, besides their relation to the immediate facts of life, a relation to the whole immense Infinite in time and space, conceived as one whole. And such establishment of man’s relation to that whole of which he feels himself to be a part, from which he draws guidance for his actions, is what has been called, and is called, Religion. And therefore religion always has been, and cannot cease to be, a necessary and an indispensable condition of the life of a reasonable man and of all reasonable humanity.
 
-### III.
+##### III.
 
 That is how religion has always been understood by men who were not devoid of the highest (that is, religious) consciousness, which distinguishes man from the beasts. The word religion itself comes either from *relegere, religens,* revering the Gods ; or, as has been commonly supposed, from *religare,* to bind (in obligation to the higher powers). The oldest and most common definition of religion is that *religion is the link between man and God.* *‘Les obligations de l’homme enver Dieu : voilà la religion’* (Man’s obligations to God : that is religion) says Vauvenargues.[^fn-p0305-1] A similar meaning is given to religion by Schleiermacher[^fn-p0305-2] and by Feuerbach,[^fn-p0305-3] who acknowledge *the basis of religion to be man’s consciousness of his dependence on God.* *‘La religion est une affaire entre chaque homme et Dieu’* (Religion is a matter between each man and God).—Bayle.[^fn-p0305-4] *‘La religion est le résultat des besoins de l’âme et des effets de l’intelligence’* (Religion is the outcome of the needs of the soul and of the effects of intelligence).—B. Constant.[^fn-p0305-5] *‘Religion is a particular means by which man* *realizes his relation with the superhuman and mysterious forces on which he considers himself dependent.’*—Goblet d’Alviella.[^fn-p0306-1] *‘ Religion is a definition of human life, based on the connection between the human soul and that mysterious spirit whose dominion over the world and over himself man recognises, and with which he feels himself united.’*—A. Réville.[^fn-p0306-2]
 
@@ -2667,13 +2666,13 @@ So that the essence of religion has always been understood—and is now understo
 
 *True religion is a relation, accordant with reason and knowledge, which man establishes with the infinite life surrounding him, and it is such as binds his life to that infinity, and guides his conduct.*
 
-### IV.
+#### IV.
 
 Though there never was an age when, or a place where, men lived without a religion, yet the learned men of to-day say, like Molière's ‘Involuntary Doctor’ who asserted that the liver is on the left side: *Nous avons changé tout cela* (We have changed all that); and they think that we can and should live without any religion. But, nevertheless, religion remains what it has been in the past: the chief motor and heart of human societies; and without it, as without a heart, human life is impossible. There have been, and there are, many different religions—for the expression of man's relation to the Infinite and to God, or to the Gods, differs at different times and in different places, according to the stages of development of different nations—but never in any society of men, since men first became rational creatures, could they live, or have they lived, without a religion.
 
 It is true that there have been, and sometimes are, periods in the life of nations when the existing religion has been so perverted and has lagged so far behind life as to cease to guide it. But this cessation of its action on men's lives (occurring at times in all religions) has been but temporary. It is characteristic of religion—as of all that is really alive—that it is born, develops, grows old, dies and again comes to life, and comes to life ever in forms more perfect than before. After a period of higher development in religion, a period of decrepitude and lifelessness always follows, to be usually succeeded in its turn by a period of regeneration, and the establishment of a religious doctrine wiser and clearer than before. Such periods of development, decrepitude, and regeneration have occurred in all religions. In the profound religion of Brahmanism, as soon as it began to grow old and to petrify into fixed and coarse forms not suited to its fundamental meaning, came on one side a renascence of Brahmanism itself, and on the other the lofty teachings of Buddhism, which advanced humanity's comprehension of its relation to the Infinite. A similar decline occurred in the Greek and Roman religions, and then, following the lowest depths of that decline, appeared Christianity. The same thing occurred again with Church-Christianity, which in Byzantium degenerated into idolatry and polytheism. To counterbalance this perverted Christianity there arose, on one hand, the Paulicians,[^fn-p0308-1] and on the other (in opposition to the doctrine of the Trinity and to Mariolatry) came strict Mohammedanism with its fundamental dogma of One God. The same thing happened again with Papal Mediæval Christianity, which evoked the Reformation, so that periods when religion weakens in its influence on the majority of men are a necessary condition of the life and development of all religious teachings. This occurs because every religious teaching in its true meaning, however crude it may be, always establishes a relation between man and the Infinite, which is alike for all men. Every religion regards men as equally insignificant compared to Infinity ; and therefore every religion contains the conception of the equality of all men before that which it regards as God : whether that be lightning, wind, a tree, an animal, a hero, or a deceased—or even a living—king (as occurred in Rome). So that the admission of the equality of man, is an inevitable and fundamental characteristic of every religion. But as equality among men never has existed anywhere in actual life, and does not now exist, it has happened that as soon as a new religious teaching appeared (always including a confession of equality among all men[^fn-p0309-1]) then at once those people for whom inequality was profitable tried to hide this essential feature by perverting the teaching itself. So it has happened always, wherever a new religious teaching appeared. And this has been done for the most part not consciously, but merely because those to whom inequality was profitable—the rulers and the rich—in order to feel themselves justified by the teaching without having to alter their position, have tried by all means to fasten upon the religious teaching an interpretation sanctioning inequality. And, naturally, a religion so perverted that those who lorded it over others could consider themselves justified in so doing—when passed on to the common people, instilled into them also the idea that submission to those who exercise authority is demanded by the religion they profess.
 
-### V.
+#### V.
 
 All human activity is evoked by three motive causes : Feeling, Reason, and Suggestion, the last-named being the same thing that doctors call hypnotism. Sometimes man acts only under the influence of feeling—simply striving to get what he desires. Sometimes he acts solely under the influence of reason, which shows him what he ought to do. Sometimes, and most frequently, man acts because he himself has, or other people have, suggested an activity to him, and he unconsciously submits to the suggestion. Under normal conditions of life all three influences play their part in prompting a man's activity. Feeling draws him towards a certain activity; reason judges of this activity in the light of present circumstances, as well as by past experience and future expectation; and suggestion causes a man, apart from feeling and reason, to carry out the actions evoked by feeling and approved by reason. Were there no feeling, man would undertake nothing; if reason did not exist, man would yield at once to many contradictory feelings, harmful to himself and to others; were there no capacity of yielding to one's own or other people's suggestion, man would have unceasingly to experience the feeling that prompted him to a particular activity, and to keep his reason continually intent on the verification of the expediency of that feeling. And, therefore, all these three influences are indispensable for even the simplest human activity. If a man walks from one place to another, this occurs because feeling has impelled him to move from one place to another; reason has approved of this intention and dictated means for its accomplishment (in this case—stepping along a certain road), and the muscles of the body obey, and the man moves along the road indicated. While he is going along, both his feeling and his reason are freed for other activity, which could not be the case but for his capacity to submit to suggestion. This is what happens with all human activities, and among the rest with the most important of them: religious activity. Feeling evokes the need to establish a man's relation to God; reason defines that relation; and suggestion impels man to the activity flowing from that relation. But this is so, only as long as religion remains unperverted. As soon as perversion commences, the part played by suggestion grows ever stronger and stronger, and the activity of feeling and of reason weakens. The methods of suggestion are always and everywhere the same. They consist in taking advantage of man at times when he is most susceptible to suggestion (during childhood, and at important occurrences of life : deaths, births, or marriages), and then acting on him by means of art : architecture, sculpture, painting, music, and dramatic performances, and, while he is in a condition of receptivity (comparable to that produced on individuals by semi-hypnotization), instilling into him whatever the suggestors wish.
 
@@ -2681,7 +2680,7 @@ This process may be observed in all ancient religions : in the lofty religion of
 
 Always, in all religious teachings when they began to be perverted, their guardians, having brought men into a state in which their reason acted but feebly, employed every effort to suggest, and instil into men, whatever they wished them to believe. And in all religions it was found necessary to suggest the same three things, which serve as a basis for all the perversions to which a degenerating religion is exposed. First, it is suggested that there are men of a particular kind, who alone can act as intermediaries between man and God (or the Gods) ; secondly, that miracles have been, and are, performed, proving and confirming the truth of what is told by these intermediaries between man and God ; and thirdly, that there are certain words—repeated verbally, or written in books—which express the unalterable will of God (or of the Gods), and which are therefore sacred and infallible. And as soon as, under the influence of hypnotism, these propositions are accepted, then also all that the intermediaries between man and God say, is also accepted as sacred truth, and the chief aim of the perversion of religion is attained, namely: the concealment of the law of human equality, and even the establishment and assertion of the greatest inequality ; the separation into castes, the separation into chosen people and Gentiles, into orthodox and heretics, saints and sinners. This very thing has occurred and is occurring in Christianity: complete inequality among men has been admitted, and they are divided, not only, with reference to their comprehension of the teaching, into clerics and laity, but, with reference to social position, into those who have power and those who ought to submit to power—which, in accord with the teaching of Paul, is acknowledged as having been ordained of God.
 
-### VI.
+#### VI.
 
 Inequality among men, not only as clergy and laity, but also as rich and poor, masters and slaves, is established by the Church-Christian religion as definitely and glaringly as by other religions. Yet, judging by what we know of Christian teaching in its earliest form in the Gospels, it would seem that the chief methods of perversion made use of in other religions had been foreseen, and a clear warning against them had been uttered. Against a priestly caste, it was plainly said that no man may be the teacher of another (‘Call no man your father—neither be ye called masters’). Against attributing sanctity to books it was said, that the spirit is important, but not the letter, that man should not believe in human traditions, and that all the law and the prophets (that is, all the books regarded as sacred writing) amount only to this, that we should do to others as we wish them to do to us. If nothing is said against miracles, and if in the Gospels themselves miracles are described which Jesus is supposed to have performed, it is, nevertheless, evident from the whole spirit of the teaching, that Jesus based the proof of the validity of his doctrine, not on miracles, but on the merits of the teaching itself. ('If any man willeth to do his will, he shall know of the teaching, whether it be of God, or whether I speak from myself.') And, above all, Christianity proclaims the equality of men, no longer merely as a deduction from man's relation to the infinite, but as a basic doctrine of the brotherhood of all men, resulting from their being acknowledged as sons of God.
 
@@ -2697,7 +2696,7 @@ So that, leaving aside things some people consider as additions to the chief dog
 
 And that is the peculiar characteristic of our time.
 
-### VII.
+#### VII.
 
 People in our time do not believe in anything, yet, using a false definition of faith which they take from the *Epistle to the Hebrews* (wrongly ascribed to Paul), they imagine they have faith. Faith according to that definition is ‘the substance of things hoped for, the evidence of things not seen’ (Heb. xi. 1). But—not to mention the fact that faith cannot be a ‘substance,’ since it is a mental condition and not an objective reality—faith is also not ‘the evidence of things not seen,’ for the ‘evidence’ referred to in the Epistle, as the context shows, is simply credulity, and credulity and faith are two different things.[^fn-p0316-1]
 
@@ -2717,7 +2716,7 @@ All these faiths, if they cannot be demonstrated, are in themselves not irration
 
 And just this faith is lacking among the men of our time—they do not even understand what it is like, and by faith they mean, either repeating with their lips what is given to them as the essence of faith, or the performance of ceremonies which, as Church-Christianity teaches, help them to attain their desires.
 
-### VIII.
+#### VIII.
 
 People in our world live without any faith. One part, the educated, wealthy minority, having freed themselves from the Church hypnotism, believe in nothing at all, and look upon every faith as an absurdity, or as merely a useful means of keeping the masses in subjection. The immense, poor, uneducated majority—consisting of people who, with few exceptions, are really sincere—being still under the hypnotism of the Church, think they believe in what is suggested to them as a faith, although it is not really a faith, for instead of elucidating to man his position in the world it only darkens it.
 
@@ -2743,7 +2742,7 @@ Christian nations have conquered and subdued the American Indians, Hindus, and A
 
 And what these hypnotizers demand is, what Nero and all like him, who have tried in some way to fill the emptiness of their lives, have always demanded: the satisfaction of their insane and superabounding luxury. Luxury is obtained in no other way than by enslaving men, and as soon as there is enslavement luxury increases; and the increase of luxury inevitably drags after it an increase of slavery; for only people who are cold and hungry, and bound down by want, will continue all their lives long doing not what *they* want, but what is wanted only for the pleasure of their masters.
 
-### IX.
+#### IX.
 
 In chapter vi. of the Book of Genesis there is a profound passage in which the author says that God, before the Flood, having seen that the spirit He had given to men that they might serve Him was used by them only to serve their own desires, became so angry with men that He repented of having created them, and, before entirely destroying them, decided to shorten the life of man to 120 years. And the very thing that, according to the Bible, then so provoked God's anger that it caused Him to shorten man's life, is again going on among the people of our Christian world.
 
@@ -2757,7 +2756,7 @@ Among the pagans men may be found who, recognising the inconsistency of their fa
 
 Proud of their improvements in things that regard the bodily life, as well as of their refined, idle reasonings (in which they aim not only at justifying themselves, but also at proving their superiority to any other people of any age of history), they petrify in ignorance and immorality, while feeling fully assured that they stand on an elevation never before reached by humanity, and that every step forward along the path of ignorance and immorality raises them to yet greater heights of enlightenment and progress.
 
-### X.
+#### X.
 
 Man naturally wishes to bring his bodily (physical) and his rational (spiritual) activity into conformity. He cannot be at peace until, in one way or other, he has reached that conformity. But it is attainable in two different ways. One way is for a man to decide by the use of his reason on the necessity or desirability of a certain action or actions, and then to behave accordingly; the other way is for a man to commit actions under the influence of his feelings, and then to invent intellectual explanations or justifications for what he has done.
 
@@ -2775,7 +2774,7 @@ And therefore the men of our world, having, in consequence of their lack of reli
 
 There is not a single question the men of our world can approach directly and simply: all questions—economic, national, political (whether home or foreign), diplomatic or scientific, not to mention questions of philosophy and religion—are presented so artificially and incorrectly, and are swathed in such thick shrouds of complex, unnecessary disputations—such subtle perversions of meanings and words, such sophistries and disputes—that all arguments about such questions revolve on one spot, connected with nothing, and, like driving-wheels without a connecting strap, effect nothing except the one object for which they were produced: to hide from one's self and from others the evil in which men live and the evil they commit.
 
-### XI.
+#### XI.
 
 In every domain of what is now called science, one and the same feature is encountered, baffling the mental efforts men direct to the investigation of various domains of knowledge. This feature is, that all these scientific investigations evade the essential question calling for an answer, and examine side-issues the investigation of which brings one to no definite result, but becomes more intricate the further one advances. Nor can this be otherwise in a science which selects the objects of its investigation haphazard, and not according to the demands of a religious conception of life, defining what should be studied and why ; what first and what afterwards. For instance, in the now fashionable subjects of Sociology and Political Economy, it would seem that there is really only one question : ‘How is it, and why is it, that some people do nothing, while others are working for them?’ (If there is another question : ‘Why do people work separately, hindering one another, and not together in common, as would be more profitable?’ that question is included in the first. For were there no inequality, there would be no strife.) It would seem that there ought to be only that one question, but science does not even think of propounding and replying to it, but commences its discussions from afar off, and conducts them so that its conclusions can never either solve or assist the solution of the fundamental problem. Discussions are started concerning what used to be and what now is ; and the past and the present are regarded as something as unalterable as the course of the stars in the heavens ; and abstract conceptions are devised—value, capital, profit, and interest—and a complex play of wits results (which has now already continued for a hundred years) among the disputants. In reality the question can be settled very easily and simply.
 
@@ -2805,7 +2804,7 @@ In the same way, the whole world knows that virtue consists in subduing one’s 
 
 And all this has happened because the majority of pseudo-enlightened men of to-day dislike anything reminding them of virtue, or of its chief basis : self-renunciation and love—things that restrain and condemn the animal life they lead ; and they gladly welcome a doctrine of egotism and cruelty—however poorly, unintelligibly and disjointedly expressed—which justifies the system of founding one’s own happiness and greatness upon the lives of others : the system in which they live.
 
-### XII.
+#### XII.
 
 Christ reproached the scribes and Pharisees, because they took the keys of the Kingdom of Heaven, but neither themselves entered in nor let others enter.
 
@@ -2827,7 +2826,7 @@ Yet, strange to say, the learned, advanced people of to-day, who understand and 
 
 But if they are sincere, the only explanation of so strange an eclipse of reason is, that just as the masses are hypnotized by a false religion, so also are the pseudo-enlightened men of to-day hypnotized by a false science which has decided that the chief motor-nerve, that now as heretofore actuates humanity, has become altogether useless, and can be replaced by something else.
 
-### XIII.
+#### XIII.
 
 This delusion or deceit of the scribes—the educated men of our world—is the peculiarity of our times, and in this lies the cause of the miserable condition in which Christian humanity now lives, as well as of the brutalization into which it is sinking deeper and deeper.
 
@@ -2845,7 +2844,7 @@ And it is this terrible deception that advanced and learned men consider unimpor
 
 Mankind can be saved from its ills only by being freed both from the hypnotism in which the priests are holding it, and from that into which the learned are leading it. To pour anything into a full bottle one must first empty out what it contains. And similarly it is necessary to free men from the deception of their false faith, in order that they may be able to adopt a true religion : that is, a correct relation (in accord with the development humanity has attained) towards the Source of all—towards God ; and that from this relation, they may obtain guidance for their actions.
 
-### XIV.
+#### XIV.
 
 ‘But is there any true religion? Religions are endlessly various, and we have no right to call one of them true, just because it most nearly suits our own taste,’—is what people say who look at the external forms of religion as at some disease from which they feel themselves free, but from which other people still suffer. But this is a mistake ; religions differ in their external forms, but they are all alike in their fundamental principles. And it is these principles, that are fundamental to all religions, that form the true religion which alone at the present time is suitable for us all, and the adoption of which alone can save men from their ills.
 
@@ -2865,7 +2864,7 @@ People often doubt, and I myself at one time doubted, whether such an abstract r
 
 Why should demands flowing from the rule of doing to others as you wish them to do to you—such, for instance, as : not killing one's brother man, not reviling, not committing adultery, not revenging one's self, not taking advantage of the need of one's brethren to satisfy one's own caprice, and many others,—why should not they be instilled as forcibly, and become as binding and inviolable, as the belief in the sanctity of the Sacraments, or of images, etc., now is to men whose faith is founded more on credulity than on any clear inward consciousness.
 
-### <span class="small-caps">xv.</span>
+##### <span class="small-caps">xv.</span>
 
 The truths of the religion common to all men of our time are so simple, so intelligible, and so near the heart of each man, that it would seem only necessary for parents, rulers and teachers to instil into children and adults—instead of the obsolete and absurd doctrines, in which they themselves often do not believe: about Trinities, virgin-mothers, redemptions, Indras, Trimurti, and about Buddhas and Mohammeds who fly away into the sky—those clear and simple truths, the metaphysical essence of which is, that the spirit of God dwells in man; and the practical rule of which is, that man should do to others as he wishes them to do to him—for the whole life of humanity to change. If only—in the same way that the belief is now instilled into children and confirmed in adults, that God sent His son to redeem Adam's sin, and that He established His Church which must be obeyed; as well as rules deduced from these beliefs: telling when and where to pray and make offerings, when to refrain from such and such food, and on what days to abstain from work—if only it were instilled and confirmed that God is a spirit whose manifestation is present in us, the strength of which we can increase by our lives: if only this and all that naturally flows from this, were instilled in the same way that quite useless stories of impossible occurrences, and rules of meaningless ceremonies deduced from those stories, are now instilled—then, instead of purposeless strife and discord, we should very soon (without the aid of diplomatists, international law, peace-congresses, political economists, and Socialists in all their various subdivisions) see humanity living a peaceful, united, and happy life guided by the one religion.
 
@@ -2887,7 +2886,7 @@ And the more they are confirmed in that thought, which degrades them to the plan
 
 A vicious circle has been established : the absence of religion makes possible an animal life based on violence ; an animal life based on violence makes emancipation from hypnotism and an adoption of true religion more and more impossible. And, therefore, men do not do what is natural, possible and necessary in our times: do not destroy the deception and simulacrum of religion, and do not assimilate and preach the true religion.
 
-### XVI.
+#### XVI.
 
 Is any issue from this enchanted circle possible, and if so, what is it?
 
@@ -2901,7 +2900,7 @@ There remain those great masses of unlearned men who are under the hypnotic infl
 
 So that for some men the work is unprofitable, while for others it is impossible.
 
-### XVII.
+#### XVII.
 
 **It looks as if no issue were possible.**
 
@@ -2942,9 +2941,9 @@ So this is what religion is, and in what its essence consists.
 
 ### Letter 12: S.
 
-### XXIV
+#### XXIV
 
-### LETTER ON EDUCATION
+#### LETTER ON EDUCATION
 
 <span class="small-caps">Dear</span> S.,
 
@@ -2972,7 +2971,7 @@ This letter was written to a near relation, belonging to the upper class of Russ
 
 ### AN APPEAL TO THE CLERGY
 
-### **I.**
+##### **I.**
 
 <span class="small-caps">Whoever</span> you may be: popes, cardinals, bishops, superintendents, priests, or pastors, of whatever Church, forego for a while your assurance that you—you in particular—are the only true disciples of the God Christ, appointed to preach his only true teaching ; and remember that before being popes, cardinals, bishops, or superintendents, etc., you are first of all men : that is, according to your own teaching, beings sent into this world by God to fulfil His will ; remember this, and ask yourselves what you are doing. Your whole life is devoted to preaching, maintaining, and spreading among men a teaching which you say was revealed to you by God Himself, and is, therefore, the only one that is true and brings redemption.
 
@@ -3004,7 +3003,7 @@ In what, then, does this one true and redeeming doctrine that you preach, consis
 
 Not to speak of things taught by some of your largest Churches (the Roman Catholic and Russo-Greek Orthodox)—such as the belief in saints, and in the good effects of bowing to their bodily remains, and to representations of them as well as of Jesus and the mother of God—the above twelve points embrace the fundamental positions of that truth which you say has been revealed to you by God Himself for the redemption of man. Some of you preach these doctrines simply as they are expressed; others try to give them an allegorical meaning more or less in accord with present-day knowledge and common-sense; but you all alike are bound to confess, and do confess, these statements to be the exact expression of that unique truth which God Himself has revealed to you, and which you preach to men for their salvation.
 
-### II.
+#### II.
 
 Very well. You have had the one truth capable of saving mankind revealed to you by God Himself. It is natural for men to strive towards truth, and when it is clearly presented to them they are always glad to accept it, and to be guided by it.
 
@@ -3018,7 +3017,7 @@ Another means was through external action on people's feelings—by solemnity of
 
 But all the strength of the clergy is now directed to a third and most powerful method, which has always been used, and is now with special jealousy retained by the clergy in their own hands. This method is that of instilling Church doctrine into people who are not in a position to judge of what is given them : for instance, into quite uneducated working people who have no time for thought, and chiefly into children, who accept indiscriminately what is imparted to them and on whose minds it remains permanently impressed.
 
-### III.
+##### III.
 
 So that in our day your chief method of imparting to men the truth God has revealed to you, consists in teaching this truth to uneducated adults, and to children who do not reason, but accept everything.
 
@@ -3032,7 +3031,7 @@ If all these stories, both from the Old and New Testaments, were taught as a ser
 
 People talk of harmful books! But is there in Christendom a book that has done more harm to mankind than this terrible book, called ‘Scripture History from the Old and New Testaments ’?[^fn-p0358-1] And all the men and women of Christendom have to pass through a course of this Scripture History during their childhood, and this same history is also taught to ignorant adults as the first and most essential foundation of knowledge—as the one, eternal, truth of God.
 
-### IV.
+#### IV.
 
 You cannot introduce a foreign substance into a living organism without the organism suffering, and sometimes perishing, from its efforts to rid itself of this foreign substance. What terrible evil to a man's mind must, then, result from this rendering of the teaching of the Old and New Testaments—foreign alike to present-day knowledge, and to common-sense, and to moral feeling—and instilled into him at a time when he is unable to judge, but accepts all that is given him !
 
@@ -3048,7 +3047,7 @@ In either of these three cases, a man into whom, during childhood, meaningless a
 
 And such the majority of people in Christendom—by the inculcation of nonsensical beliefs deprived from childhood of the capacity to think clearly and firmly—actually are.
 
-### V.
+#### V.
 
 Such is the evil done to man's mind by having it impregnated with Church doctrines. But much worse than this is the moral perversion which that impregnation produces in man's soul. Every man comes into the world with a consciousness of his dependence on a mysterious, all-powerful Source which has given him life, and consciousness of his equality with all men, the equality of all men with one another, a desire to love and be loved, and a consciousness of the need of striving towards perfection. But what do you instil into him?
 
@@ -3062,7 +3061,7 @@ In place of the need of self-improvement, you tell him that man's salvation lies
 
 It is terrible to think of the perversion of thought and feeling produced in the soul of a child or an ignorant adult by such teaching.
 
-### VI.
+#### VI.
 
 Only to think of the things I know of, that have been done in Russia during the sixty years of my conscious life, and that are still being done!
 
@@ -3084,7 +3083,7 @@ One part—most of the women—remain as superstitious as they were 600 years ag
 
 In proof of this, it is sufficient to remember the age-old fraud of the flame that kindles in Jerusalem on the day of the Resurrection, and which no one of the Church people exposes; or the faith in the Redemption, which is preached with peculiar energy in the very latest phases of Christian Protestantism.
 
-### <span class="small-caps">vii.</span>
+#### <span class="small-caps">vii.</span>
 
 But not only is the Church teaching harmful by its irrationality and immorality, it is specially harmful because people professing this teaching, while living without any moral demands to restrain them, feel quite convinced they are living a really Christian life.
 
@@ -3100,7 +3099,7 @@ The Christianity preached by you is an inoculation of false Christianity, resemb
 
 People having for many generations built their lives on foundations irreconcilable with true Christianity, feel fully persuaded that they are living Christian lives, and thus they are unable to return to true Christianity.
 
-### <span class="small-caps">viii.</span>
+##### <span class="small-caps">viii.</span>
 
 Thus it is with those who profess your doctrines; but there are others, who have emancipated themselves from those doctrines: the so-called unbelievers.
 
@@ -3118,7 +3117,7 @@ And among these people sprang up that teaching of egotism, evil and hatred, whic
 
 So that, on the one hand, the so-called believers find complete approval of their evil way of life in your teaching, which recognises as compatible with Christianity those actions and conditions which are most contrary to it; while, on the other hand, unbelievers—arriving at the denial of all religion, as a consequence of your teaching—wipe out all distinction between good and evil, preach a doctrine of inequality among men, of egotism, of strife, and of the oppression of the weak by the strong—and preach this as the highest truth attainable by man.
 
-### IX.
+#### IX.
 
 You, and none but you, by your teaching forcibly instilled into people, are the cause of this dreadful evil from which they suffer so cruelly.
 
@@ -3142,7 +3141,7 @@ Père Didon affirms that he has faith both in God and in the ascension of Jesus,
 
 Evidently Père Didon does not even know what faith is, and only says he believes : while the Samára peasant knows what faith is, and, though he says he does not believe in God, really believes in Him in the very way that is true faith.
 
-### X.
+##### X.
 
 But I know that arguments addressed to the intellect do not persuade—only feeling persuades, and therefore, leaving arguments aside, I appeal to you—whoever you may be : popes, bishops, archdeacons, priests, or what not—I appeal to your feelings and to your conscience.
 
@@ -3194,7 +3193,7 @@ But what if this that you teach, or are preparing to teach, be untrue ?
 
 Is it possible that this cannot be, or must not be, considered ? If you consider it and compare this teaching with other teachings claiming to be equally unique and infallible, and compare it with what you yourselves know, and with common-sense ; if, in a word, you consider it, not in a spirit of blind credulity, but freely—you cannot fail to see that what has been given to you as sacred truth, is not only not sacred truth, but is simply an obsolete and superstitious belief, which, like other similar beliefs, is maintained and preached by men not for the benefit of their brother-men but for some other object. And as soon as you have understood that, all those of you who look on life seriously and attend to the voice of conscience, will be unable to continue to preach this doctrine, or to prepare to preach it.
 
-### XI.
+#### XI.
 
 But I hear the usual reply : ‘What will become of men if they cease to believe the Church doctrines? Won’t things be worse than they now are?’
 
@@ -3237,9 +3236,9 @@ May God, who sees your hearts, help you in the effort.
 
 ### XXVI
 
-### THOUGHTS SELECTED FROM PRIVATE LETTERS
+### THOUGHTS SELECTED FROM PRIVATE<br />LETTERS
 
-### <span class="small-caps">Two Views of Life.</span>
+#### <span class="small-caps">Two Views of Life.</span>
 
 <span class="small-caps">There</span> are only two strictly logical views of life : one, a false one, which understands life to mean those visible phenomena that occur in our bodies from the time of birth to the time of death ; the other, a true one, which understands life to be the invisible consciousness which dwells within us. One view is false, the other true, but both are logical.
 
@@ -3253,7 +3252,7 @@ The other view of life is this. Life is only what I am conscious of in myself. A
 
 Therefore, in this view, the cessation of my physical existence in time and space has no reality, and cannot end, or even hinder, my true life. And, according to this view, death does not exist.
 
-### <span class="small-caps">Matter is the Limit of Spirit.</span>
+#### <span class="small-caps">Matter is the Limit of Spirit.</span>
 
 The material form in which the awakening of our consciousness of true life finds us in this world, is, so to speak, the boundary limiting the free development of our spirit.
 
@@ -3263,7 +3262,7 @@ In this understanding of life lies the very essence of the understanding of trut
 
 Materialists mistake that which limits life, for life itself.
 
-### <span class="small-caps">The Scaffolding.</span>
+##### <span class="small-caps">The Scaffolding.</span>
 
 We must remind ourselves as often as possible that our true life is not this external, material life that passes before our eyes here on earth, but that it is the inner life of our spirit, for which the visible life serves only as a scaffolding—a necessary aid to our spiritual growth. The scaffolding itself is only of temporary importance, and, after it has served its purpose, is no longer wanted, but even becomes a hindrance.
 
@@ -3271,7 +3270,7 @@ Seeing before him an enormously high and elaborately constructed scaffolding, wh
 
 We must remind ourselves and one another, that the scaffolding has no meaning or importance, except to make possible the erection of the building itself.
 
-### <span class="small-caps">The Life of the Spirit.</span>
+##### <span class="small-caps">The Life of the Spirit.</span>
 
 There are moments when one ceases to believe in spiritual life.
 

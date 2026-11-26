@@ -2,16 +2,16 @@
 
 - **Author / Editor**: Claude M. Fuess (ed.)
 - **Year**: 1914
-- **Letters**: 59
+- **Letters**: 60
 - **Pages**: 136
 
 ## INTRODUCTORY
 
-### SELECTED ENGLISH LETTERS
+### SELECTED<br />ENGLISH<br />LETTERS
 
 Houghton Mifflin Co.
 
-### SELECTED ENGLISH LETTERS
+### SELECTED<br />ENGLISH LETTERS
 
 EDITED BY  
 CLAUDE M. FUESS, <span class="small-caps">Ph.D.</span>  
@@ -182,7 +182,7 @@ A fortunate chance has preserved to us a large portion of the correspondence of 
 
 ### Letter 1: William Paston, Junior → John Paston
 
-### *William Paston, Junior, to his Brother, John Paston*
+#### *William Paston, Junior, to his Brother, John Paston*
 
 Nov. 7, 1478.
 
@@ -202,7 +202,7 @@ This letter was sent by Sir Henry Sidney (1529–86) to his more famous son, Phi
 
 ### Letter 2: Sir Henry Sidney → Philip Sidney
 
-### *Sir Henry Sidney to his Son, Philip Sidney*
+#### *Sir Henry Sidney to his Son, Philip Sidney*
 
 [1566.]
 
@@ -214,7 +214,7 @@ Francis Bacon (1561–1626), essayist, statesman, and philosopher, passed throug
 
 ### Letter 3: Sir Francis Bacon → Sir Edward Coke
 
-### *Sir Francis Bacon to Sir Edward Coke*
+#### *Sir Francis Bacon to Sir Edward Coke*
 
 [Before June, 1606.]
 
@@ -230,7 +230,7 @@ Jonathan Swift (1667–1745), the vigorous English satirist who wrote *Gulliver'
 
 ### Letter 4: Dean Swift → Alexander Pope
 
-### *Dean Swift to Alexander Pope*
+#### *Dean Swift to Alexander Pope*
 
 September 29, 1725.
 
@@ -258,7 +258,7 @@ Joseph Addison (1672–1719), not yet famous as the essayist of the *Tatler* and
 
 ### Letter 5: Joseph Addison → Chamberlain Dashwood
 
-### *Joseph Addison to Chamberlain Dashwood*
+#### *Joseph Addison to Chamberlain Dashwood*
 
 <span class="small-caps">Geneva</span>: July, 1702.
 
@@ -266,7 +266,9 @@ Joseph Addison (1672–1719), not yet famous as the essayist of the *Tatler* and
 
 About three days ago Mr. Bocher put a very pretty snuffbox in my hand. I was not a little pleas'd to hear that it belonged to myself, and was much more so when I found it was a present from a Gentleman that I have so great an honour for. You did not probably foresee that it would draw on you y<sup>e</sup> trouble of a Letter, but you must blame yourself for it. For my part I can no more accept of a Snuffbox without returning my Acknowledgements, than I can take Snuff without sneezing after it. This last I must own to you is so great an absurdity that I should be ashamed to confess it, were not I in hopes of correcting it very speedily. I am observ'd to have my Box oft'ner in my hand than those that have been used to one these twenty years, for I can't forbear taking it out of my pocket whenever I think of Mr. Dashwood. You know Mr. Bays[^fn-p0023-1] recommends Snuff as a great provocative to Wit, but you may produce this Letter as a Standing Evidence against him. I have since y<sup>e</sup> beginning of it taken above a dozen pinches, and still find myself much more inclin'd to sneeze than to jest. From whence I conclude that Wit and Tobacco are not inseparable, or to make a Pun of it, tho' a Man may be master of a snuffbox,
 
-*Non cuicunque datum est habere Nasam.*[^fn-p0023-2]
+> **[verse_insert]**
+>
+> *Non cuicunque datum est habere Nasam.*[^fn-p0023-2]
 
 I should be afraid of being thought a Pedant for my Quotation did not I know that y<sup>e</sup> Gentleman I am writing to always carries a Horace[^fn-p0023-3] in his pocket. But whatever you may think me, pray S<sup>r</sup> do me y<sup>e</sup> Justice to esteem me
 
@@ -278,14 +280,16 @@ The first of these two letters of Richard Steele (1672–1729), the warm-hearted
 
 ### Letter 6: Richard Steele → Mary Scurlock
 
-### *Richard Steele to Mary Scurlock*
+#### *Richard Steele to Mary Scurlock*
 
 September 1, 1707.
 
 It is the hardest thing in the world to be in love, and yet attend to business. As for me, all who speak to me find me out, and I must lock myself up, or other people will do it for me. A gentleman asked me this morning, “What news from Lisbon?” and I answered, “She is exquisitely handsome.” Another desired to know when I had been last at Hampton Court. I replied, “I will be on Tuesday come se’nnight.” Pr’ythee, allow me at least to kiss your hand before that day, that my mind may be in some composure. O love!
 
-A thousand torments dwell about thee!  
-Yet who would live to live without thee?
+> **[verse_insert]**
+>
+> A thousand torments dwell about thee!  
+> Yet who would live to live without thee?
 
 Methinks I could write a volume to you; but all the language on earth would fail in saying how much, and with what disinterested passion, I am ever yours,
 
@@ -297,7 +301,7 @@ That the second Mrs. Steele turned him into a somewhat henpecked husband is quit
 
 ### Letter 7: Richard Steele → Mrs. Steele
 
-### *Richard Steele to Mrs. Steele*
+#### *Richard Steele to Mrs. Steele*
 
 Jan. 3, 1708, <span class="small-caps">Devil Tavern, Temple-Bar.</span>
 
@@ -317,7 +321,7 @@ Alexander Pope (1688–1744), the guest of Lord Bolingbroke at the latter's coun
 
 ### Letter 8: Alexander Pope → Dean Swift
 
-### *Alexander Pope to Dean Swift*
+#### *Alexander Pope to Dean Swift*
 
 <span class="small-caps">Dawley</span> : June 28, 1728.
 
@@ -335,7 +339,7 @@ Lady Mary Wortley Montagu (1690–1762), the most copious and brilliant woman le
 
 ### Letter 9: Lady Mary Wortley Montagu → Mrs. S. C———
 
-### *Lady Mary Wortley Montagu to Mrs. S. C———*
+#### *Lady Mary Wortley Montagu to Mrs. S. C———*
 
 <span class="small-caps">Adrianople</span>: April 1, 1717.
 
@@ -353,7 +357,7 @@ The letters of the 4th Earl of Chesterfield (1694–1773) to his natural son, Ph
 
 ### Letter 10: The Earl of Chesterfield → Philip Stanhope, Esq.
 
-### *The Earl of Chesterfield to his Son, Philip Stanhope, Esq.*
+#### *The Earl of Chesterfield to his Son, Philip<br />Stanhope, Esq.*
 
 <span class="small-caps">London</span>: November 24, 1747.
 
@@ -381,7 +385,7 @@ Benjamin Franklin (1706–90), attending the meeting of the Continental Congress
 
 ### Letter 11: Benjamin Franklin → Joseph Priestley
 
-### *Benjamin Franklin to Joseph Priestley*
+#### *Benjamin Franklin to Joseph Priestley*
 
 <span class="small-caps">Philadelphia</span>, 3 October, 1775.
 
@@ -397,7 +401,7 @@ Samuel Johnson (1709–84), after several years of privation in Grub Street, was
 
 ### Letter 12: Dr. Samuel Johnson → the Earl of Chesterfield
 
-### *Dr. Samuel Johnson to the Earl of Chesterfield*
+#### *Dr. Samuel Johnson to the Earl of Chesterfield*
 
 February, 1755.
 
@@ -425,7 +429,7 @@ Dr. Johnson perceived at once that the so-called “ Ossianic poems,” printed 
 
 ### Letter 13: Dr. Samuel Johnson → Mr. Macpherson
 
-### *Dr. Samuel Johnson to Mr. Macpherson*
+#### *Dr. Samuel Johnson to Mr. Macpherson*
 
 <span class="small-caps">Mr. James Macpherson,</span>—
 
@@ -441,7 +445,7 @@ Horace Walpole (1717–97), the third son of Sir Robert Walpole, took little par
 
 ### Letter 14: The Honourable Horace Walpole → George Montagu
 
-### *The Honourable Horace Walpole to George Montagu*
+#### *The Honourable Horace Walpole to George Montagu*
 
 <span class="small-caps">Arlington Street</span>: November 13, 1760.
 
@@ -463,7 +467,7 @@ Oliver Goldsmith (1728–74), the author of *The Vicar of Wakefield* (1766) and 
 
 ### Letter 15: Oliver Goldsmith → Maurice Goldsmith
 
-### *Oliver Goldsmith to Maurice Goldsmith*
+#### *Oliver Goldsmith to Maurice Goldsmith*
 
 January, 1770.
 
@@ -491,7 +495,7 @@ William Cowper (1731–1800) is, in the opinion of his editor, Thomas Wright, �
 
 ### Letter 16: William Cowper → the Reverend William Unwin
 
-### *William Cowper to the Reverend William Unwin*
+#### *William Cowper to the Reverend William Unwin*
 
 Oct. 31, 1779.
 
@@ -511,7 +515,7 @@ Cowper's best letters were written to his friends, Mrs. Unwin and Lady Hesketh, 
 
 ### Letter 17: William Cowper → Lady Hesketh
 
-### *William Cowper to Lady Hesketh*
+#### *William Cowper to Lady Hesketh*
 
 May 29, 1786.
 
@@ -533,7 +537,7 @@ John Adams (1735–1826), a short time before his inauguration as second Preside
 
 ### Letter 18: John Adams → his Wife
 
-### *John Adams to his Wife*
+#### *John Adams to his Wife*
 
 <span class="small-caps">Philadelphia</span>, 4 February, 1797.
 
@@ -553,7 +557,7 @@ In the pathetic letter which follows, Robert Burns (1759–96), the marvelously 
 
 ### Letter 19: Robert Burns → the Earl of Glencairn
 
-### *Robert Burns to the Earl of Glencairn*
+#### *Robert Burns to the Earl of Glencairn*
 
 <span class="small-caps">Edinburgh</span>: 1787.
 
@@ -574,7 +578,7 @@ Walter Scott (1771–1832), at this date known as the author of *The Lay of the 
 
 ### Letter 20: Sir Walter Scott → George Crabbe
 
-### *Sir Walter Scott to George Crabbe*
+#### *Sir Walter Scott to George Crabbe*
 
 <span class="small-caps">Ashestiel</span>: October 2, 1809.
 
@@ -590,7 +594,7 @@ Sydney Smith (1771–1845), the witty and brilliant editor of the *Edinburgh Rev
 
 ### Letter 21: Sydney Smith → Lady Georgiana Morpeth
 
-### *Sydney Smith to Lady Georgiana Morpeth*
+#### *Sydney Smith to Lady Georgiana Morpeth*
 
 <span class="small-caps">Foston</span>, Dec. 1st, 1821.
 
@@ -608,7 +612,7 @@ This note from Sydney Smith to a girl friend of his is an example of a type of l
 
 ### Letter 22: Sydney Smith → Miss ———
 
-### *Sydney Smith to Miss ———*
+#### *Sydney Smith to Miss ———*
 
 <span class="small-caps">London</span>, July 22d, 1835.
 
@@ -626,7 +630,7 @@ Samuel Taylor Coleridge (1772–1834), the author of *The Ancient Mariner*, was 
 
 ### Letter 23: Samuel Taylor Coleridge → William Godwin
 
-### *Samuel Taylor Coleridge to William Godwin*
+#### *Samuel Taylor Coleridge to William Godwin*
 
 <span class="small-caps">At Mr. Lamb's, 36, Chapel Street,</span>  
 March 3, 1800.
@@ -643,7 +647,7 @@ Charles Lamb (1775–1834) shows in his correspondence the same oddities, the sa
 
 ### Letter 24: Charles Lamb → William Wordsworth
 
-### *Charles Lamb to William Wordsworth*
+#### *Charles Lamb to William Wordsworth*
 
 <span class="small-caps">Colebrook Cottage,</span>  
 April 6, 1825.
@@ -664,7 +668,7 @@ Benjamin Robert Haydon (1786–1846), artist and critic, was the friend of many 
 
 ### Letter 25: Benjamin Robert Haydon → Miss Mitford
 
-### *Benjamin Robert Haydon to Miss Mitford*
+#### *Benjamin Robert Haydon to Miss Mitford*
 
 [1824.]
 
@@ -672,12 +676,14 @@ You are unjust, depend upon it, in your estimate of Byron's poetry, and wrong in
 
 When he came back from his tour, I breakfasted with him in Oxford Street. He read *Laodamia*[^fn-p0060-1] to me, and very finely. He had altered, at the suggestion of his wife, Laodamia’s fate (but I cannot refer to it at this moment), because she had shown such weakness as to wish her husband’s stay. Mrs. Wordsworth held that Laodamia ought to be punished, and punished she was. I will refer to it. Here it is—
 
-She whom a trance of passion thus removed,  
-As she departed, not without the crime  
-Of lovers, who, in reason’s spite have loved,  
-Was doomed to wander in a joyless clime  
-Apart from happy ghosts, that gather flowers  
-Of blissful quiet in Elysian bowers.
+> **[verse_insert]**
+>
+> She whom a trance of passion thus removed,  
+> As she departed, not without the crime  
+> Of lovers, who, in reason’s spite have loved,  
+> Was doomed to wander in a joyless clime  
+> Apart from happy ghosts, that gather flowers  
+> Of blissful quiet in Elysian bowers.
 
 I have it in his own hand. This is different from the first edition. And as he repeated it with self-approbation of his own heroic feelings for banishing a wife because she felt a pang at her husband going to hell again, his own wife sat crouched by the fire-place and chanted every line to the echo, apparently congratulating herself at being above the mortal frailty of loving her William.
 
@@ -689,7 +695,7 @@ No English letter-writer is more easy, more spontaneous, and more varied than Lo
 
 ### Letter 26: Lord Byron → Thomas Moore
 
-### *Lord Byron to Thomas Moore*
+#### *Lord Byron to Thomas Moore*
 
 <span class="small-caps">Newstead Abbey</span>, Sept. 20, 1814.
 
@@ -716,7 +722,7 @@ Much of Byron’s correspondence with his publisher, John Murray, is of exceptio
 
 ### Letter 27: Lord Byron → John Murray
 
-### *Lord Byron to John Murray*
+#### *Lord Byron to John Murray*
 
 <span class="small-caps">Venice</span>, April 6, 1819.
 
@@ -746,7 +752,7 @@ Percy Bysshe Shelley (1792–1822), settled with his wife and family in Italy, w
 
 ### Letter 28: Percy Bysshe Shelley → John Keats
 
-### *Percy Bysshe Shelley to John Keats*
+#### *Percy Bysshe Shelley to John Keats*
 
 <span class="small-caps">Pisa</span>, 27 July, 1820.
 
@@ -772,7 +778,7 @@ The response of John Keats (1795–1821) to Shelley’s invitation is somewhat i
 
 ### Letter 29: John Keats → Percy Bysshe Shelley
 
-### *John Keats to Percy Bysshe Shelley*
+#### *John Keats to Percy Bysshe Shelley*
 
 <span class="small-caps">Hampstead</span>, August, 1820.
 
@@ -788,7 +794,7 @@ While in Italy, Shelley carried on a most entertaining correspondence with Thoma
 
 ### Letter 30: Percy Bysshe Shelley → Thomas Love Peacock
 
-### *Percy Bysshe Shelley to Thomas Love Peacock*
+#### *Percy Bysshe Shelley to Thomas Love Peacock*
 
 <span class="small-caps">Ravenna</span>, August, 1821.
 
@@ -808,11 +814,11 @@ After I have sealed my letter, I find that my enumeration of the animals in this
 
 ### Letter 31: Thomas Carlyle → Benjamin Disraeli
 
-### XXXI
+#### XXXI
 
 Thomas Carlyle (1795–1881), the author of *Sartor Resartus, Heroes and Hero Worship, The French Revolution*, etc., although somewhat irascible and crotchety by nature, had at bottom a sturdy manhood which shows itself in this letter to Benjamin Disraeli, who, as Prime Minister, had offered him the choice of the Grand Cross of the Bath or a baronetcy and a pension. The spirit of Carlyle's reply is not unlike that of Johnson's *Letter to Chesterfield* (page 21) ; but it must be remembered that Johnson, unlike Carlyle, did actually accept a pension from the king.
 
-### *Thomas Carlyle to Benjamin Disraeli*
+#### *Thomas Carlyle to Benjamin Disraeli*
 
 5, <span class="small-caps">Cheyne Row, Chelsea</span>,  
 December 29, 1874.
@@ -831,11 +837,11 @@ T. <span class="small-caps">Carlyle.</span>
 
 ### Letter 32: Thomas Hood → May
 
-### XXXII
+#### XXXII
 
 Thomas Hood (1799–1845), poet and wit, struggled during most of his short life with disease and misfortune, but his courage never failed him and his letters, many of them written in times of depression, are filled with kindliness and humor. An example of his playfulness is this letter to May Elliot, a little girl favorite of his. It should be compared with Sydney Smith's letter to Lucy (page 41), which is equally witty but has less of the true comic spirit.
 
-### *Thomas Hood to May*
+#### *Thomas Hood to May*
 
 17, <span class="small-caps">Elm Tree Road, St. John's Wood,</span>  
 Monday, April, 1844.
@@ -856,11 +862,11 @@ Your affectionate lover,
 
 ### Letter 33: Thomas Hood → Sir Robert Peel
 
-### XXXIII
+#### XXXIII
 
 Sir Robert Peel, the English Premier, had arranged that Hood's pension of one hundred pounds should be transferred to Mrs. Hood, and the poet writes, almost on his deathbed, to thank him. His indomitable cheerfulness appears in the closing pun, which proved to be practically his last.
 
-### *Thomas Hood to Sir Robert Peel*
+#### *Thomas Hood to Sir Robert Peel*
 
 1845.
 
@@ -877,11 +883,11 @@ Your most grateful and obedient servant,
 
 ### Letter 34: Thomas Macaulay → Father
 
-### XXXIV
+#### XXXIV
 
 In the following letter, Thomas Babington Macaulay (1800–59), then a comparatively unknown young man, writes of a visit to the eminent wit and divine, Sydney Smith (page 40).
 
-### *Thomas Macaulay to his Father*
+#### *Thomas Macaulay to his Father*
 
 <span class="small-caps">Bradford</span>: July 26, 1826.
 
@@ -901,11 +907,11 @@ T. B. M.
 
 ### Letter 35: Jane Welsh Carlyle → Mrs. Welsh
 
-### XXXV
+#### XXXV
 
 Jane Welsh Carlyle (1801–66), wife of Thomas Carlyle, carried on a copious correspondence with many friends and relatives. This letter, written from Chelsea, where she and her husband had their home for many years, gives an idea of some of their domestic difficulties.
 
-### *Jane Welsh Carlyle to Mrs. Welsh*
+#### *Jane Welsh Carlyle to Mrs. Welsh*
 
 5 <span class="small-caps">Cheyne Walk</span>,  
 February 23, 1842.
@@ -918,11 +924,11 @@ This despicable nuisance is not at all unlikely to drive us out of the house aft
 
 ### Letter 36: John Sterling → Thomas Carlyle
 
-### XXXVI
+#### XXXVI
 
 A rugged nobility and somber earnestness lend distinction to this tragic letter from John Sterling (1806–44), the essayist, to his friend and biographer, Carlyle. It should be compared with Hood's letter to Peel (page 61), also written on a deathbed and at very nearly the same time.
 
-### *John Sterling to Thomas Carlyle*
+#### *John Sterling to Thomas Carlyle*
 
 August 10, 1844.
 
@@ -936,11 +942,11 @@ Yours to the last,
 
 ### Letter 37: John Greenleaf Whittier → Lucy Larcom
 
-### XXXVII
+#### XXXVII
 
 John Greenleaf Whittier (1807–92), the “Quaker Poet,” became, after the publication of *Snow-Bound* in 1866, a popular public character. In this letter to Lucy Larcom, his sister's dearest friend, he complains good-naturedly of newspaper gossip.
 
-### *John Greenleaf Whittier to Lucy Larcom*
+#### *John Greenleaf Whittier to Lucy Larcom*
 
 <span class="small-caps">Amesbury</span>, 10th mo., 30, 1876.
 
@@ -948,11 +954,11 @@ No, I am not going to Newburyport. It is passing droll to see how the newspapers
 
 ### Letter 38: Abraham Lincoln → Horace Greeley
 
-### XXXVIII
+#### XXXVIII
 
 The letters of Abraham Lincoln (1809–65), like his speeches, have, at their best, a dignity, simplicity, and directness that stamp them as masterpieces. The specimen printed here, sent in reply to a critical and somewhat impatient attack on the government policy printed in the New York *Tribune*, is a spirited defense and explanation of the President's attitude towards the great public questions then at issue.
 
-### *Abraham Lincoln to Horace Greeley*
+#### *Abraham Lincoln to Horace Greeley*
 
 <span class="small-caps">Executive Mansion, Washington</span>,  
 August 22, 1862.
@@ -971,11 +977,11 @@ A. <span class="small-caps">Lincoln.</span>
 
 ### Letter 39: Oliver Wendell Holmes → James T. Fields
 
-### XXXIX
+#### XXXIX
 
 Oliver Wendell Holmes (1809–94), the genial author of the *Autocrat of the Breakfast-Table* and of numerous poems, was ordinarily a poor correspondent. This letter, however, written while he was traveling in Canada, has much of the quiet humor which appears in his essays.
 
-### *Oliver Wendell Holmes to James T. Fields*
+#### *Oliver Wendell Holmes to James T. Fields*
 
 <span class="small-caps">Montreal</span>, October 23, 1867.
 
@@ -999,11 +1005,11 @@ P.S. Made a pretty good dinner, after all; but better a hash at home than a roas
 
 ### Letter 40: Edward FitzGerald → John Allen
 
-### XL
+#### XL
 
 Edward FitzGerald (1809–83), the translator of Calderón and Omar Khayyám, is, with Byron and Stevenson, one of the three great letter-writers of the nineteenth century. His correspondence is easy, entertaining, and original, and, as his acquaintance was a wide one, what he has to say is of exceptional interest. His familiar letters are, therefore, models of their kind.
 
-### *Edward FitzGerald to John Allen*
+#### *Edward FitzGerald to John Allen*
 
 <span class="small-caps">Manchester</span>, May 23, 1835.
 
@@ -1030,13 +1036,13 @@ I suppose you may see one of the Carlyle Medallions: and you can judge better of
 
 I know of course (in Books) several of those you name in your Letter: Longfellow, whom I may say I love, and so (I see) can't call him *Mister:* and Emerson whom I admire, for I don't feel that I know the Philosopher so well as the Poet: and Mr. Lowell's “ Among my Books ” is among mine. I also have always much liked, I think rather loved, O. W. Holmes. I scarce know why I could never take to that man of true Genius, Hawthorne. There is a little of my Confession of Faith about your Countrymen, and I should say mine, if I were not more Irish than English.
 
-### Letter 41: William Makepeace Thackeray → Edward FitzGerald
+### Letter 42: William Makepeace Thackeray → Edward FitzGerald
 
-### XLII
+#### XLII
 
 This affectionate note of farewell from William Makepeace Thackeray (1811–63), the novelist, to his old friend FitzGerald shows the large-heartedness which made the writer a universal favorite. The solemnity of it all, however. seems a little ludicrous to-day, when we remember that the “ great voyage ” was one merely across the Atlantic to the United States.
 
-### *William Makepeace Thackeray to Edward FitzGerald*
+#### *William Makepeace Thackeray to Edward FitzGerald*
 
 October 27, 1852.
 
@@ -1052,13 +1058,13 @@ W. M. T.
 
 I sail from Liverpool on Saturday morning by the Canada for Boston.
 
-### Letter 42: Charles Dickens → Mr. Felton
+### Letter 43: Charles Dickens → Mr. Felton
 
-### XLIII
+#### XLIII
 
 Much of the early correspondence of Charles Dickens (1812–70) is rich in that exuberance of animal spirits and that broad merriment which found inimitable expression in the *Pickwick Papers* (1837–39). At the time of this letter, Dickens, just returned from America, had completed *Martin Chuzzlewit*, which contained some caustic satire on American vulgarity and provincialism. Mr. Felton was but one of many readers whom this unnecessary attack had displeased.
 
-### *Charles Dickens to Mr. Felton*
+#### *Charles Dickens to Mr. Felton*
 
 <span class="small-caps">Broadstairs, Kent</span>,  
 September 1, 1843.
@@ -1075,13 +1081,13 @@ This is a little fishing place; intensely quiet; built on a cliff, whereon — i
 
 I often dream that I am in America again; but, strange to say, I never dream of you. I am always endeavouring to get home in disguise, and have a dreary sense of distance. Apropos of dreams, is it not a strange thing if writers of fiction never dream of their own creations; recollecting, I suppose, even in their dreams, that they have no real existence? I never dream of any of my own characters, and I feel it so impossible that I would wager Scott never did of his, real as they are. I had a good piece of absurdity in my head a night or two ago. I dreamed that somebody was dead. I don't know who, but it 's not to the purpose. It was a private gentleman, or a particular friend; and I was greatly overcome when the news was broken to me (very delicately) by a gentleman in a cocked hat, top boots, and a sheet. Nothing else. " Good God!" I said, " is he dead?" " He is as dead, sir," rejoined the gentleman, " as a door-nail. But we all must die, Mr. Dickens, sooner or later, my dear sir.” “ Ah ! ” I said, “ Yes, to be sure. Very true. But what did he die of ? ” The gentleman burst into a flood of tears, and said in a voice broken by emotion : “ He christened his youngest child, Sir, with a toasting fork.” I never in my life was so affected as at his having fallen a victim to this complaint. It carried a conviction to my mind that he never could have recovered. I knew it was the most interesting and fatal malady in the world ; and I wrung the gentleman’s hand in a convulsion of respectful admiration, for I felt that this explanation did equal honour to his head and heart.
 
-### Letter 43: Robert Browning → Miss Euphrasia Haworth
+### Letter 44: Robert Browning → Miss Euphrasia Haworth
 
-### XLIV
+#### XLIV
 
 Robert Browning (1812–1889), one of the great poets of his century, married in 1846 Elizabeth Barrett (1806–1861), already a poetess of distinction. Mrs. Browning being in delicate health, the two took up their residence in Italy, where, in Florence, after fifteen years of happy married life, she died. This letter, written by Browning to his friend, Miss Euphrasia Haworth, describes Mrs. Browning’s last hours. “ Peni ” or “ Pen ” was their son.
 
-### *Robert Browning to Miss Euphrasia Haworth*
+#### *Robert Browning to Miss Euphrasia Haworth*
 
 <span class="small-caps">Florence</span> : July 20, 1861.
 
@@ -1099,13 +1105,13 @@ Faithfully and affectionately yours,
 
 <span class="small-caps">Robert Browning.</span>
 
-### Letter 44: Charlotte Brontë → Robert Southey
+### Letter 45: Charlotte Brontë → Robert Southey
 
-### XLV
+#### XLV
 
 Charlotte Brontë (1816–55), who was to become known later as the author of *Jane Eyre* (1847), had, while still a girl, sent some of her verses to Robert Southey (1774–1843), the poet and critic, asking for his comment and advice. He replied, attempting to dissuade her from further writing, and said, among other things : “Literature cannot be the business of a woman’s life, and it ought not to be.” This letter is her answer.
 
-### *Charlotte Brontë to Robert Southey*
+#### *Charlotte Brontë to Robert Southey*
 
 March 16, 1837.
 
@@ -1121,13 +1127,13 @@ P.S. Pray, sir, excuse me for writing to you a second time ; I could not help wr
 
 C. B.
 
-### Letter 45: Ebenezer Rockwood Hoar → John M. Forbes
+### Letter 46: Ebenezer Rockwood Hoar → John M. Forbes
 
-### XLVI
+#### XLVI
 
 Ebenezer Rockwood Hoar (1816–95), Attorney-General of the United States under President Grant, was a versatile and entertaining correspondent. This letter was written after his retirement to private life.
 
-### *Ebenezer Rockwood Hoar to John M. Forbes*
+#### *Ebenezer Rockwood Hoar to John M. Forbes*
 
 <span class="small-caps">Concord</span>, May 10, 1892.
 
@@ -1141,13 +1147,13 @@ Faithfully yours,
 
 E. R. <span class="small-caps">Hoar.</span>
 
-### Letter 46: Henry David Thoreau → Horace Greeley
+### Letter 47: Henry David Thoreau → Horace Greeley
 
-### XLVII
+#### XLVII
 
 Henry David Thoreau (1817–62), the naturalist and author of *Walden*, had sent to Horace Greeley an essay on Carlyle, asking him to dispose of it. The publisher to whom Greeley sold the article did not send payment for over a year; but finally Greeley secured the money by a sight draft, and turned it over to Thoreau.
 
-### *Henry David Thoreau to Horace Greeley*
+#### *Henry David Thoreau to Horace Greeley*
 
 <span class="small-caps">Concord</span>, May 19, 1848.
 
@@ -1159,13 +1165,13 @@ Why should the scholar make a constant complaint that his fate is specially hard
 
 My friend, how can I thank you for your kindness? Perhaps there is a better way, — I will convince you that it is felt and appreciated. Here have I been sitting idle, as it were, while you have been busy in my cause, and have done so much for me. I wish you had had a better subject; but good deeds are no less good because their object is unworthy.
 
-### Letter 47: John Ruskin → Charles Eliot Norton
+### Letter 48: John Ruskin → Charles Eliot Norton
 
-### XLVIII
+#### XLVIII
 
 John Ruskin (1819–1900), the English essayist and art critic, met the American scholar, Charles Eliot Norton, for the first time in 1855, and from that date until 1887 the two maintained a regular correspondence. This letter, written during the Civil War, expresses Ruskin's irritation at that conflict and tells something of his pessimistic moods.
 
-### *John Ruskin to Charles Eliot Norton*
+#### *John Ruskin to Charles Eliot Norton*
 
 <span class="small-caps">Denmark Hill</span>, 6 January, '62.
 
@@ -1183,13 +1189,13 @@ Ever affectionately yours,
 
 J. <span class="small-caps">Ruskin</span>.
 
-### Letter 48: James Russell Lowell → Ralph Waldo Emerson
+### Letter 49: James Russell Lowell → Ralph Waldo Emerson
 
-### XLIX
+#### XLIX
 
 James Russell Lowell (1819–91), while still a boy and unknown to the literary world, had printed his Harvard Class Poem, in which, with more warmth than discretion, he made a rather bitter attack on Emerson. Hearing that his verses had met with some criticism on the ground of good taste, Lowell sent at once the following letter to the Concord essayist and poet.
 
-### *James Russell Lowell to Ralph Waldo Emerson*
+#### *James Russell Lowell to Ralph Waldo Emerson*
 
 <span class="small-caps">Cambridge</span>, Sept. 1st, 1838.
 
@@ -1211,13 +1217,13 @@ P.S. I have sent with this a copy of my “poem”— if it be not too tiresome,
 
 J. R. L.
 
-### Letter 49: Charles Godfrey Leland → Miss Mary A. Owen
+### Letter 50: Charles Godfrey Leland → Miss Mary A. Owen
 
-### L
+#### L
 
 Charles Godfrey Leland (1824–1903), an American scholar whose fame rests chiefly on his *Hans Breitmann Ballads* and his studies of gypsy lore and life, was a man of wide interests and rich humor, as the following letter shows.
 
-### *Charles Godfrey Leland to Miss Mary A. Owen*
+#### *Charles Godfrey Leland to Miss Mary A. Owen*
 
 <span class="small-caps">Hotel Victoria, Florence</span>,  
 Feb. 3, 1895.
@@ -1226,10 +1232,12 @@ Many thanks for the letter, which is indeed a letter worth reading, which few ar
 
 Then there were the wild outbursts of poems such as—
 
-I seen her out a-walking  
-In her *habit de la rue*,  
-But ’t aint no use a-talking—  
-But she ’s pumpkins and a few.
+> **[verse_insert]**
+>
+> I seen her out a-walking  
+> In her *habit de la rue*,  
+> But ’t aint no use a-talking—  
+> But she ’s pumpkins and a few.
 
 There was something Indian-like, aboriginal, and wild in the American fun of 40 years ago (*vide* Albert Pike's[^fn-p0107-1] *Arkansas Gentleman* and the *Harp of a Thousand Strings*) which has no parallel now. My own “beautiful poem” on a girl who had her underskirt made out of a coffee bag was republished a thousand times,—we were wilder in those days, and more eccentric. All of these which you send me are very good, but they might all have been made in England. They are *mild.* Ere long there will be no *America.*
 
@@ -1237,13 +1245,13 @@ I have often thought of collecting and publishing all the eccentric poems I coul
 
 My forthcoming *Florentine Legends* will be nice, but I have got far better ones since I made it. The *Breitmann* I really think is fairly good—perhaps it will sell well. I have not much hope for *Songs of the Sea* and *Lays of the Land* by Sea G. Lay-land—yet there are three or four good ballads in it. But what I await, with gasping hope, is *Flaxius*, which is in Watt's hands. I have not yet heard that he has found a publisher. It is my great work and as mad as a hatter.
 
-### Letter 50: Thomas Bailey Aldrich → William Dean Howells
+### Letter 51: Thomas Bailey Aldrich → William Dean Howells
 
-### LI
+#### LI
 
 Thomas Bailey Aldrich (1836–1907) writes to thank his friend, W. D. Howells, for a delightful visit at his home. This note, simple, informal, and graceful, should be compared with the solid sonorous letters of the early eighteenth century.
 
-### *Thomas Bailey Aldrich to William Dean Howells*
+#### *Thomas Bailey Aldrich to William Dean Howells*
 
 <span class="small-caps">Ponkapog, Mass.</span>, Dec. 13, 1875.
 
@@ -1257,26 +1265,28 @@ T. B. A.
 
 P.S. I should want to bring my two mothers, my two boys (I seem to have everything in twos), my wife, and her sister.
 
-### Letter 51: Thomas Bailey Aldrich → George E. Woodberry
+### Letter 52: Thomas Bailey Aldrich → George E. Woodberry
 
-### LII
+#### LII
 
 In this letter, Aldrich, writing to a sympathetic friend, Mr. George E. Woodberry, the living poet and critic, airs some original and positive literary opinions.
 
-### *Thomas Bailey Aldrich to George E. Woodberry*
+#### *Thomas Bailey Aldrich to George E. Woodberry*
 
 <span class="small-caps">Ponkapog, Mass.</span>, June 12, 1899.
 
 <span class="small-caps">Dear Woodberry</span>,—
 
-Don't ever go away from home on a ten months' absence without leaving somebody behind to answer your letters for you. I have been swamped, and am only just getting my head out of my correspondence. I found my private affairs in a tangle, too, and not easy to straighten out. But the slug 's in the bud, and God 's in the sky, and the world is all O.K., as Browning incidentally remarks. Apropos of Browning, I 've been reading his letters to “ Ba ” and “ Ba 's ” letters to him,[^fn-p0108-1] and think it a shameful thing that they should be printed. All that ponderous lovemaking — a queer mixture of Greek roots and middle-age stickiness (“ Ba ” was forty years old) — is very tedious. Here and there is a fine passage, and one is amused by the way the lovers patronize everybody they don’t despise. But as a whole the book takes away from Browning’s dignity. A man — even the greatest — cannot stand being photographed in his pajahmas. Thank God, we are spared Shakespeare’s letters to Anne Hathaway! Doubtless he wrote her some sappy notes. He did everything that ever man did.
+Don't ever go away from home on a ten months' absence without leaving somebody behind to answer your letters for you. I have been swamped, and am only just getting my head out of my correspondence. I found my private affairs in a tangle, too, and not easy to straighten out. But the slug 's in the bud, and God 's in the sky, and the world is all O.K., as Browning incidentally remarks. Apropos of Browning, I 've been reading his letters to “ Ba ” and “ Ba 's ” letters to him,[^fn-p0108-1] and think it a shameful thing that they should be printed. All that ponderous love-making — a queer mixture of Greek roots and middle-age stickiness (“ Ba ” was forty years old) — is very tedious. Here and there is a fine passage, and one is amused by the way the lovers patronize everybody they don’t despise. But as a whole the book takes away from Browning’s dignity. A man — even the greatest — cannot stand being photographed in his pajahmas. Thank God, we are spared Shakespeare’s letters to Anne Hathaway! Doubtless he wrote her some sappy notes. He did everything that ever man did.
 
 We are gradually breaking up here, preparatory to moving to The Crags, which has been closed these three summers. I shall go there without any literary plans, unless I carry out my idea of turning *The Eve of St. Agnes*[^fn-p0109-1] into Kiplingese. Would n’t it be delicious! —
 
-St. Hagnes Heve ! ’ow bloomin’ chill it was !  
-The Howl, for all his hulster, was acold.  
-The ’are limped tremblin’ through the blarsted grass,  
-Etc., etc.
+> **[verse_insert]**
+>
+> St. Hagnes Heve ! ’ow bloomin’ chill it was !  
+> The Howl, for all his hulster, was acold.  
+> The ’are limped tremblin’ through the blarsted grass,  
+> Etc., etc.
 
 I think it might make Keats popular again — poor Keats, who did n’t know any better than to write pure English. The dear boy was n’t “ up ” to writing “ Gawd ” instead of God.
 
@@ -1286,13 +1296,13 @@ T. B. A.
 
 P.S. I met Browning on three occasions. He was very cordial to me in a man-of-the-world fashion. I did not greatly care for him personally. Good head, long body, short legs. Seated, he looked like a giant; standing, he just missed being a dwarf. He talked well, but not so well as Lowell. —
 
-### Letter 52: Robert Louis Stevenson → Sidney Colvin
+### Letter 53: Robert Louis Stevenson → Sidney Colvin
 
-### LIII
+#### LIII
 
 It is not improbable that Robert Louis Stevenson (1850–1894) will be remembered as long for his letters as for *Treasure Island* and *Virginibus Puerisque.* Despite an occasional touch of too conscious artistry, most of his correspondence, with its frankness, its gracefulness, and its intimate charm, is of high literary value. This letter is a fragment of unconventional autobiography.
 
-### *Robert Louis Stevenson to Sidney Colvin*
+#### *Robert Louis Stevenson to Sidney Colvin*
 
 608 <span class="small-caps">Bush Street, San Francisco,</span>  
 (January 10, 1880)
@@ -1317,13 +1327,13 @@ Ever yours,
 
 R. L. S.
 
-### Letter 53: Lafcadio Hearn → Joseph Tunison
+### Letter 54: Lafcadio Hearn → Joseph Tunison
 
-### LIV
+#### LIV
 
 Lafcadio Hearn (1850–1906), the brilliant writer on Oriental subjects, had a romantic career as journalist and teacher, most of his later life being spent in Japan, of which country he became a naturalized subject. The vivid imaginative power and highly colored style of his essays appear also in his letters, of which at least three large volumes have been published. The outburst printed here is entirely characteristic of the man.
 
-### *Lafcadio Hearn to Joseph Tunison*
+#### *Lafcadio Hearn to Joseph Tunison*
 
 <span class="small-caps">New York</span>, 1889.
 
@@ -1337,13 +1347,13 @@ Best affection,
 
 L. H.
 
-### Letter 54: Lafcadio Hearn → Mitchell McDonald
+### Letter 55: Lafcadio Hearn → Mitchell McDonald
 
-### LV
+#### LV
 
 Hearn's delightful fund of humor, comparatively rare in his essays, finds frequent expression in his intimate letters to friends.
 
-### *Lafcadio Hearn to Mitchell McDonald*
+#### *Lafcadio Hearn to Mitchell McDonald*
 
 <span class="small-caps">Tokyo</span>, July, 1898.
 
@@ -1367,13 +1377,13 @@ Hope I may be able to see you again *soon*, — 4th, if possible. Love to you an
 
 <span class="small-caps">Lafcadio.</span>
 
-### Letter 55: William Vaughn Moody → Daniel Gregory Mason
+### Letter 56: William Vaughn Moody → Daniel Gregory Mason
 
-### LVI
+#### LVI
 
 A recently published volume of selected letters of William Vaughn Moody (1869–1910), the American poet whose early death has been so much lamented, shows him to have been a versatile and vivacious correspondent, worthy to be ranked with the best modern letter-writers. The specimen quoted here is rich in original touches, and is full of individuality.
 
-### *William Vaughn Moody to Daniel Gregory Mason*
+#### *William Vaughn Moody to Daniel Gregory Mason*
 
 <span class="small-caps">Chicago</span>, Feb. 16, 1896.
 
@@ -1389,13 +1399,13 @@ I thoroughly envy you your stay at Milton — wrist, Daemon, and all. You must s
 
 <span class="small-caps">William Vaughn Moody.</span>
 
-### Letter 56: Charles W. Eliot
+### Letter 57: Charles W. Eliot
 
-### LVII
+#### LVII
 
 Charles W. Eliot (1834–     ), President Emeritus of Harvard College, educator and publicist of international reputation, writes in answer to a question as to his part in initiating and developing the study of English in American schools and colleges. More than any one else, he is responsible for placing English in its proper position as a major study in the curriculum of our educational institutions.
 
-### *Charles W. Eliot to* ———
+#### *Charles W. Eliot to* ———
 
 <span class="small-caps">Cambridge, Mass.</span>,  
 February 4, 1913.
@@ -1412,13 +1422,13 @@ Sincerely yours,
 
 <span class="small-caps">Charles W. Eliot.</span>
 
-### Letter 57: Henry van Dyke → Madison Cawein
+### Letter 58: Henry van Dyke → Madison Cawein
 
-### LVIII
+#### LVIII
 
 Dr. Henry van Dyke, the well-known essayist and poet, writes to congratulate his friend, Mr. Madison Cawein, on the appearance of a new and brilliant volume of verse.
 
-### *Henry van Dyke to Madison Cawein*
+#### *Henry van Dyke to Madison Cawein*
 
 <span class="small-caps">Grand Hotel Alpina, Gstaad.</span>
 
@@ -1426,8 +1436,10 @@ Dr. Henry van Dyke, the well-known essayist and poet, writes to congratulate his
 
 Some procrastinating imp must have slipped into my fountain pen, to make me put off for so long a time the warm and hearty thanks which I have owed you since you sent me your *New Poems.* The other little volume by your young admirer had some pretty touches and sweet notes in it, — but here comes the master-lyrist and the disciple fades. This new book of yours is extraordinarily rich in music and colour. It is in these bits of pure song and absolute picture that I think you at your best. You have often words so vivid that they seem to convey an actual form, colour, movement, to the page: and you have sometimes cadences so delicately melodious that they seem to carry music with them. Next to this I put your elfin fancy, — for example as it plays in “Witchery.” In this volume your lyrics “with a story to tell” are very different in tone. There is a strong contrast between the Italian Renaissance of “That Night when I came to the Grange,” and the pure Kentucky of “The Old Gate made of Pickets,” and the *anywhere* of “Tramps.” But each one has its own kind of imaginative passion. You tend to the intense in your poetry, — always, — and sometimes I think you agitate Nature a little too much with piercing adjectives and violent verbs. She has her wild moods, her fantastic hours, and these you render wonderfully. But most of the time she is as simple as a milk-maid and as great as the Venus of Melos, — sure of herself, inexhaustible, a little lazy, and full of intimate and tranquil charm. I don't mean to say that you fail to see or to express this ; but now and then you yield to the temptation to make her scream, — you " stab " the haws with a sunbeam, — or you give the innocent grasshopper a dagger, — or you make the poor bat very, very drunk. This is naughty, Madison, naughty, naughty ! But I 'll forgive you all these agitating escapades when you can write such a couplet as,
 
-" While from a curved and azure jar  
-She poured the white moon and a star."
+> **[verse_insert]**
+>
+> " While from a curved and azure jar  
+> She poured the white moon and a star."
 
 The sonnet sequence at the end of the book *Mutatis Mutandis* is full of curious strength. You have done well to use the double rhyme, the feminine ending, to mark the change of manner with the change of form. This is not like any of your other work, but it is very interesting, picturesque, and mordant. Sometimes I think the next famous poetry will be satire, and sometimes I think satire can never be great poetry.
 
@@ -1441,13 +1453,13 @@ Yours ever,
 
 August 23, 1909.
 
-### Letter 58: Hart, Schaffner & Marx → The John R. Jones Company
+### Letter 59: Hart, Schaffner & Marx → The John R. Jones Company
 
-### LIX
+#### LIX
 
 This is an admirable example of the best type of modern business letter: courteous, lucid, and very much to the point.
 
-### *Hart, Schaffner & Marx to The John R. Jones Company*
+#### *Hart, Schaffner & Marx to The John R. Jones<br />Company*
 
 <span class="small-caps">Chicago</span>, January 23, 1913.
 
@@ -1467,13 +1479,13 @@ Yours truly,
 
 <span class="small-caps">Hart, Schaffner & Marx.</span>
 
-### Letter 59: Houghton Mifflin Company → Honorable Woodrow Wilson
+### Letter 60: Houghton Mifflin Company → Honorable Woodrow Wilson
 
-### LX
+#### LX
 
 This letter gives a happy and graceful touch to what, at bottom, is a simple matter of business.
 
-### *Houghton Mifflin Company to Honorable Woodrow Wilson*
+#### *Houghton Mifflin Company to Honorable Woodrow<br />Wilson*
 
 December 18th, 1912.
 
@@ -1592,12 +1604,12 @@ Faithfully yours,
 HOUGHTON MIFFLIN COMPANY  
 BOSTON          NEW YORK          CHICAGO
 
-### ENGLISH LITERATURE
+#### ENGLISH LITERATURE
 
 - A Short History of England's Literature. By <span class="small-caps">Eva March Tappan</span>, formerly of the English Department, English High School, Worcester, Mass., author of *England's Story*, *Our Country's Story*, etc. 253 pages, 85 cents, *net*.
 - A Student's History of English Literature. By William E. Simonds, Professor of English Literature in Knox College. 483 pages, $1.25, *net*.
 - Lives of Great English Writers. From Chaucer to Browning. By W. S. <span class="small-caps">Hinchman</span>, Instructor in English at the Groton School, and <span class="small-caps">Francis B. Gummere</span>, Professor of English at Haverford College. 555 pages, $1.50, *net*.
-### AMERICAN LITERATURE
+#### AMERICAN LITERATURE
 
 - A Short History of England's and America's Literature. By <span class="small-caps">Eva March Tappan</span>. 399 pages, $1.20, *net*.
 - A Short History of America's Literature. With Selections from Colonial and Revolutionary writers. By <span class="small-caps">Eva March Tappan</span>. 246 pages, 80 cents, *net*.

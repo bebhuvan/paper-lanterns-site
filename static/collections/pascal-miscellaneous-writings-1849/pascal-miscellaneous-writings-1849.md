@@ -2,12 +2,12 @@
 
 - **Author / Editor**: Blaise Pascal (tr. George Pearce)
 - **Year**: 1849
-- **Letters**: 8
+- **Letters**: 15
 - **Pages**: 468
 
 ## Front Matter and Introduction
 
-### THE MISCELLANEOUS WRITINGS OF PASCAL; CONSISTING OF LETTERS, ESSAYS, CONVERSATIONS, AND MISCELLANEOUS THOUGHTS. (THE GREATER PART HERETOFORE UNPUBLISHED IN THIS COUNTRY, AND A LARGE PORTION FROM ORIGINAL MSS.) NEWLY TRANSLATED FROM THE FRENCH EDITION OF M. P. FAUGÈRE.
+### THE<br />MISCELLANEOUS WRITINGS<br />OF<br />PASCAL;<br />CONSISTING OF<br />LETTERS, ESSAYS, CONVERSATIONS, AND<br />MISCELLANEOUS THOUGHTS.<br />(THE GREATER PART HERETOFORE UNPUBLISHED IN THIS COUNTRY,<br />AND A LARGE PORTION FROM ORIGINAL MSS.)<br />NEWLY TRANSLATED FROM THE FRENCH EDITION OF<br />M. P. FAUGÈRE.
 
 WITH INTRODUCTION, AND NOTES,  
 BY GEORGE PEARCE, ESQ.,  
@@ -34,7 +34,7 @@ R. NEEDHAM, PRINTER, PATERNOSTER-ROW.
 
 <span class="small-caps">Introduction</span> . . . . . . . . . . . . . . vii
 
-### LETTERS.
+#### LETTERS.
 
 Editorial Notices. . . . . . . . . . . . . . 3
 
@@ -74,7 +74,7 @@ Letter to Queen Christina, of Sweden, on occasion of
 sending her his Arithmetical Machine, in the year  
 1650 . . . . . . . . . . . . . . . . 62
 
-### TREATISE ON THE GEOMETRICAL SPIRIT (<span class="small-caps">or, as it was formerly entitled, The Science of Geometry in General, and the Two Infinitudes</span>).—DISTINCTION BETWEEN THE SPIRIT OF GEOMETRY AND THE SPIRIT OF INTELLECTUAL ACUTENESS.—GEOMETRY—QUICKNESS OF INTELLECT.
+#### TREATISE ON THE GEOMETRICAL SPIRIT (<span class="small-caps">or, as it was formerly entitled, The Science of Geometry in General, and the Two Infinitudes</span>).—DISTINCTION BETWEEN THE SPIRIT OF GEOMETRY AND THE SPIRIT OF INTELLECTUAL ACUTENESS.—GEOMETRY—QUICKNESS OF INTELLECT.
 
 <span class="small-caps">Page.</span>
 
@@ -90,7 +90,7 @@ Geometry—Quickness of Intellect . . . . . 100
 
 * * *
 
-### A PREFACE TO THE TREATISE ON VACUUM, OR, ON AUTHORITY IN MATTERS OF PHILOSOPHY.
+#### A PREFACE TO THE TREATISE ON VACUUM, OR, ON AUTHORITY IN MATTERS OF PHILOSOPHY.
 
 Editorial Notices . . . . . . . . . . . . . 105
 
@@ -100,7 +100,7 @@ New Fragment of a Tract on Vacuum . . . . . . 120
 
 * * *
 
-### ON THE PASSION OF LOVE.
+#### ON THE PASSION OF LOVE.
 
 Editorial Notices . . . . . . . . . . . . . 123
 
@@ -108,13 +108,13 @@ On the Passion of Love . . . . . . . . . . 129
 
 * * *
 
-### ON THE ART OF PERSUASION, OR ELOQUENCE. (L'<span class="small-caps">Art de Persuader</span>.)
+#### ON THE ART OF PERSUASION, OR ELOQUENCE.<br />(L'<span class="small-caps">Art de Persuader</span>.)
 
 Editorial Notices . . . . . . . . . . . . . 147
 
 On the Art of Persuasion, or Eloquence . . . 149
 
-### THOUGHTS ON ELOQUENCE AND STYLE.
+#### THOUGHTS ON ELOQUENCE AND STYLE.
 
 <span class="small-caps">Page.</span>
 
@@ -124,7 +124,7 @@ Editorial Notices . . . . . . . . . . . . . 171
 
 * * *
 
-### MISCELLANEOUS THOUGHTS.
+#### MISCELLANEOUS THOUGHTS.
 
 Editorial Notices . . . . . . . . . . . . . 189
 
@@ -132,7 +132,7 @@ Editorial Notices . . . . . . . . . . . . . 189
 
 * * *
 
-### CONVERSATIONS OF PASCAL:—ON THE CONDITION OF THE GREAT.—EPICTETUS AND MONTAIGNE.—DETACHED CONVERSATIONS AND REMARKS.
+#### CONVERSATIONS OF PASCAL:—ON THE CONDITION OF THE GREAT.—EPICTETUS AND MONTAIGNE.—DETACHED CONVERSATIONS AND REMARKS.
 
 Editorial Notices. . . . . . . . . . . . . . 253
 
@@ -150,7 +150,7 @@ Discourse III. . . . . . . . . . . . . . 270
 
 Narrative of Discourses which I (Marguerite Perier) heard from my uncle, M. Pascal ; not addressed to me, but to other persons, friends of his, in my presence. I was then about sixteen and a half years of age . . . . . . . . . . . . . 296
 
-### THOUGHTS ON THE JESUITS AND THE JAN- SENISTS.—THOUGHTS AND NOTES FOR THE PROVINCIAL LETTERS.
+#### THOUGHTS ON THE JESUITS AND THE JAN-<br />SENISTS.—THOUGHTS AND NOTES FOR THE<br />PROVINCIAL LETTERS.
 
 <span class="small-caps">Page.</span>
 
@@ -162,7 +162,7 @@ Editorial Notices . . . . . . . . . . . . 305
 
 * * *
 
-### THOUGHTS ON THE POPE AND THE CHURCH.
+#### THOUGHTS ON THE POPE AND THE CHURCH.
 
 Editorial Notices . . . . . . . . . . . . . 369
 
@@ -175,7 +175,7 @@ themselves in it at the present time . . . . . 384
 
 * * *
 
-### CONVERSATION ON HIS WORK ON RELIGION.
+#### CONVERSATION ON HIS WORK ON RELIGION.
 
 Narrative of a Conversation in which Pascal related the  
 Plan and Substance of his contemplated Work on  
@@ -338,9 +338,9 @@ The fragmentary series of letters addressed to his youthful pupil, Mademoiselle 
 
 * * *
 
-### Letter 1
+### Letter 1: PASCAL → HIS SISTER JACQUELINE
 
-### FROM PASCAL TO HIS SISTER JACQUELINE.[^fn-p0055-1]
+#### FROM PASCAL TO HIS SISTER JACQUELINE.[^fn-p0055-1]
 
 <span class="small-caps">My dear Sister,</span>
 
@@ -360,7 +360,7 @@ On my introduction to M. Rebours,[^fn-p0057-1] I was received by him with all th
 
 ### Letter 2: Pascal / Jacqueline Pascal → Madame Perier
 
-### <span class="small-caps">FROM PASCAL AND HIS SISTER JACQUELINE, TO THEIR SISTER MADAME PERIER.</span>[^fn-p0059-1]
+#### <span class="small-caps">FROM PASCAL AND HIS SISTER JACQUELINE, TO THEIR<br />SISTER MADAME PERIER.</span>[^fn-p0059-1]
 
 1*st April,* 1648.
 
@@ -378,7 +378,7 @@ It follows then, that it is a prejudicial, but a too common error among Christia
 
 ### Letter 3: Pascal / Jacqueline Pascal → Madame Perier
 
-### FROM PASCAL AND JACQUELINE TO MADAME PERIER.
+#### FROM PASCAL AND JACQUELINE TO MADAME PERIER.
 
 *Paris, 5th November, (afternoon,)* 1648.
 
@@ -406,11 +406,11 @@ B. P.——J. P.
 
 If you are acquainted with any pious spirit, let him pray for me also.[^fn-p0069-1]
 
-### EXTRACTS FROM LETTERS TO MADEMOISELLE DE ROANNEZ.[^fn-p0070-1]
+### EXTRACTS FROM LETTERS TO MADEMOISELLE<br />DE ROANNEZ.[^fn-p0070-1]
 
 ### Letter 4
 
-### LETTER I.
+#### LETTER I.
 
 1656.
 
@@ -508,9 +508,9 @@ But why need I repeat these things to you who know them so well? They would be m
 
 (*Note of Père Guerrier.*) “I have transcribed the above from a manuscript which I found among those given by Mademoiselle Perier to the P. P. of the Oratory of Clermont.”
 
-### Letter 5: Blaise Pascal → Marquise de Sablé
+### Letter 11: Blaise Pascal → Marquise de Sablé
 
-### TO THE MARQUISE DE SABLÉ.[^fn-p0088-1]
+#### TO THE MARQUISE DE SABLÉ.[^fn-p0088-1]
 
 *December,* 1660.
 
@@ -538,9 +538,9 @@ Had you checked my former freedoms, I should perhaps not have thus repeated them
 
 * * *
 
-### Letter 6: Blaise Pascal → M. Perier
+### Letter 13: Blaise Pascal → M. Perier
 
-### TO HIS BROTHER-IN-LAW, M. PERIER, ON THE DEATH OF M. PASCAL, HIS FATHER.[^fn-p0092-2]
+#### TO HIS BROTHER-IN-LAW, M. PERIER, ON THE DEATH<br />OF M. PASCAL, HIS FATHER.[^fn-p0092-2]
 
 *Paris, 17th October, 1651.*
 
@@ -652,9 +652,9 @@ Let then, if so it must be, the serpent and the woman still harass with their te
 
 * * *
 
-### Letter 7: Blaise Pascal / Stephen Pascal → Madame Perier
+### Letter 14: Blaise Pascal / Stephen Pascal → Madame Perier
 
-### LETTER TO MADAME PERIER.[^fn-p0110-1]
+#### LETTER TO MADAME PERIER.[^fn-p0110-1]
 
 *Rouen, Saturday, 31st Jan.,* 1643.
 
@@ -680,9 +680,9 @@ Your humble servant, and affectionate brother,
 
 * * *
 
-### Letter 8: Blaise Pascal → Christina
+### Letter 15: Blaise Pascal → Christina
 
-### LETTER TO QUEEN CHRISTINA, OF SWEDEN, ON OCCASION OF SENDING HER HIS ARITHMETICAL MACHINE IN THE YEAR 1650.[^fn-p0112-1]
+#### LETTER TO QUEEN CHRISTINA, OF SWEDEN, ON OCCASION OF SENDING HER HIS ARITHMETICAL MACHINE IN THE YEAR 1650.[^fn-p0112-1]
 
 <span class="small-caps">Madam,</span>
 
@@ -712,21 +712,23 @@ Now for the relation which these remarks bear to the subject to which they are w
 
 The following is the graceful dedication by which the work is preceded:—
 
-> “TO THE QUEEN'S MOST EXCELLENT MAJESTY.
-
-> “<span class="small-caps">Madam,</span>
-
-> “ <span class="small-caps">Humble</span> as is this tribute of loyalty, it is not without significance. “No Sovereign ever presented stronger claims to the love and allegiance “of her industrious subjects; and it tells how happy is our Constitution, “and how condescending is our Monarch, that pages written by a “labourer's daughter should find a patron in the Queen.
-
-> “ Nor will the tract itself be without its interest to Your Majesty, to “ whose royal halls such glory is added by the piety, virtue, and domestic “ tastes so often found in Britain's lowliest homes.
-
-> “ This tract discusses the temporal advantages of the Sabbath-day. “The same topic has recently engaged the pens of nearly a thousand “ working-men. And it is not the least advantage of the Lord's-day, “ that every labourer who learns to keep it holy, is another peaceful citizen “ gained to the community; and another added to those best subjects who, “ in their weekly assemblies, pray, ‘ God save the Queen.’
-
-> “ I have the honour to be, &c.
-
-> “<span class="small-caps">The Proposer of the Essay.</span>”
-
-> “July 1848.” The moral which I would venture to deduce from this digressive reference is this:—Years of exhausting labour were consumed by Pascal—then in the fulness of youthful talent—in a work, which his ambition deemed worthy alone of the patronage and ownership of the most gifted Sovereign of her time. That work is forgotten; its royal patroness is remembered only for perverted talent, and an unfeminine and eccentric career; and had its laborious inventor established no higher claim upon the memory of posterity, he too would have shared no other fate. Mark now the contrast. The Queen of England,—aiming not to measure strength with philosophers and literati,—the model of British womanhood; the Sovereign whose palace is the chosen seat of domestic virtues, and refined tastes; has already, by her homefelt graces and gentle benevolence, established an imperishable record in the hearts and remembrances of her great people. And—for the humble object of this august patronage—although her little volume will be unknown beyond the present generation, yet the fruit of her labour will assuredly survive, as long as the blessings of the “ day of rest” shall beam upon a toil-worn nation, and wherever the heart of a labouring man shall be gladdened by its tranquil hours, and its sacred duties. (Transl.)
+> **[enclosure: TO THE QUEEN'S MOST EXCELLENT MAJESTY.]**
+>
+> > “TO THE QUEEN'S MOST EXCELLENT MAJESTY.
+>
+> > “<span class="small-caps">Madam,</span>
+>
+> > “ <span class="small-caps">Humble</span> as is this tribute of loyalty, it is not without significance. “No Sovereign ever presented stronger claims to the love and allegiance “of her industrious subjects; and it tells how happy is our Constitution, “and how condescending is our Monarch, that pages written by a “labourer's daughter should find a patron in the Queen.
+>
+> > “ Nor will the tract itself be without its interest to Your Majesty, to “ whose royal halls such glory is added by the piety, virtue, and domestic “ tastes so often found in Britain's lowliest homes.
+>
+> > “ This tract discusses the temporal advantages of the Sabbath-day. “The same topic has recently engaged the pens of nearly a thousand “ working-men. And it is not the least advantage of the Lord's-day, “ that every labourer who learns to keep it holy, is another peaceful citizen “ gained to the community; and another added to those best subjects who, “ in their weekly assemblies, pray, ‘ God save the Queen.’
+>
+> > “ I have the honour to be, &c.
+>
+> > “<span class="small-caps">The Proposer of the Essay.</span>”
+>
+> > “July 1848.” The moral which I would venture to deduce from this digressive reference is this:—Years of exhausting labour were consumed by Pascal—then in the fulness of youthful talent—in a work, which his ambition deemed worthy alone of the patronage and ownership of the most gifted Sovereign of her time. That work is forgotten; its royal patroness is remembered only for perverted talent, and an unfeminine and eccentric career; and had its laborious inventor established no higher claim upon the memory of posterity, he too would have shared no other fate. Mark now the contrast. The Queen of England,—aiming not to measure strength with philosophers and literati,—the model of British womanhood; the Sovereign whose palace is the chosen seat of domestic virtues, and refined tastes; has already, by her homefelt graces and gentle benevolence, established an imperishable record in the hearts and remembrances of her great people. And—for the humble object of this august patronage—although her little volume will be unknown beyond the present generation, yet the fruit of her labour will assuredly survive, as long as the blessings of the “ day of rest” shall beam upon a toil-worn nation, and wherever the heart of a labouring man shall be gladdened by its tranquil hours, and its sacred duties. (Transl.)
 
 ### Notes
 
@@ -791,15 +793,15 @@ The following is the graceful dedication by which the work is preceded:—
 
 ## Treatise on the Geometrical Spirit
 
-### TREATISE ON THE GEOMETRICAL SPIRIT; OR, AS IT WAS FORMERLY ENTITLED, THE SCIENCE OF GEOMETRY IN GENERAL, AND THE TWO INFINITUDES.
+### TREATISE<br />ON<br />THE GEOMETRICAL SPIRIT;<br />OR, AS IT WAS FORMERLY ENTITLED,<br />THE SCIENCE OF GEOMETRY IN GENERAL,<br />AND<br />THE TWO INFINITUDES.
 
 * * *
 
-### DISTINCTION BETWEEN THE SPIRIT OF GEOMETRY, AND THE SPIRIT OF INTELLECTUAL ACUTENESS.
+#### DISTINCTION<br />BETWEEN<br />THE SPIRIT OF GEOMETRY,<br />AND<br />THE SPIRIT OF INTELLECTUAL ACUTENESS.
 
 * * *
 
-### GEOMETRY—QUICKNESS OF INTELLECT.
+##### GEOMETRY—QUICKNESS OF INTELLECT.
 
 ### EDITORIAL NOTICES.
 
@@ -825,7 +827,7 @@ It is a redeeming feature in the edition which Condorcet produced of Pascal’s 
 
 Although, as observed by M. Faugère, there is a measure of connexion and similarity between this paper and the “ Art of Persuasion,” which will appear in a subsequent part of this volume, I have ventured to dissociate them ; being desirous, with the view to relieve these specimens of severer reasoning, to introduce the reader previously to another production of Pascal—the Essay, “ On the Passion of Love.” This paper, as is known by those conversant in French literature, has been only recently brought to light ; and, although it will probably be perused with some contrariety of feeling, (which will hereafter be adverted to,) it will be regarded as not the least interesting or striking of his compositions. (*Translator.*)
 
-### ON THE GEOMETRICAL SPIRIT.
+### ON<br />THE GEOMETRICAL SPIRIT.
 
 * * *
 
@@ -837,7 +839,7 @@ Geometry, which excels in all the three methods, has revealed the art of discove
 
 The art of demonstrating truths already discovered, and of elucidating them with irresistible proofs, is all that I now propose to unfold: and for this purpose, I have only to explain the method used in Geometry; for that science is able to teach by examples, without even resorting to discourse. And this being an art which consists in two leading processes,—the one to prove each individual proposition, the other to dispose all the propositions in their most appropriate order,—I shall arrange my remarks under two sections; the one comprising the rules for the conduct of geometrical, that is, methodical and perfect demonstration; the other, those of geometrical, that is, methodical and complete order. In this way the two together will combine everything requisite for the development of my design, which is to lay down a series of rules of right reasoning, for the proof and *discrimination* of truth.[^fn-p0124-1]
 
-### <span class="small-caps">Section First.</span>—<span class="small-caps">On the Method of Geometrical, that is, Methodical and Perfect Demonstration.</span>
+#### <span class="small-caps">Section First.</span>—<span class="small-caps">On the Method of Geometrical, that is, Methodical and Perfect Demonstration.</span>
 
 I <span class="small-caps">can</span> in no better way elucidate the method to be observed in the conduct of an irrefragable demonstration, than by explaining that which is pursued in Geometry. But, first of all, it is necessary to furnish some idea[^fn-p0124-2] of a process yet higher and more excellent, but one unattainable by the powers of man; for that which goes beyond Geometry, goes beyond the human understanding. Yet some notion must be conveyed of this method, although it is one that cannot be reduced to practice.
 
@@ -1060,13 +1062,13 @@ It follows, then, that there are two descriptions of minds:—the one, that whic
 
 ### A PREFACE
 
-### TO THE
+##### TO THE
 
 ### TREATISE ON VACUUM,
 
-### OR,
+##### OR,
 
-### ON AUTHORITY IN MATTERS OF PHILOSOPHY.
+#### ON AUTHORITY IN MATTERS OF PHILOSOPHY.
 
 ### EDITORIAL NOTICES.
 
@@ -1096,7 +1098,7 @@ Happy Pascal! to have been gathered to an honoured, although an early grave, wit
 
 (*Translator.*)
 
-### A PREFACE TO THE TREATISE ON VACUUM.[^fn-p0159-1]
+### A PREFACE<br />TO THE<br />TREATISE ON VACUUM.[^fn-p0159-1]
 
 * * *
 
@@ -1172,9 +1174,9 @@ Thus, without putting ourselves in an attitude of controversy with our predecess
 
 (*Note of M. Guerrier.*) "I transcribed the above from a very imperfect copy, and full of blanks."
 
-### NEW FRAGMENT OF A TRACT ON VACUUM.
+#### NEW FRAGMENT OF A TRACT ON VACUUM.
 
-### Part I. l. 2, c. 1. s. 4.
+##### Part I. l. 2, c. 1. s. 4.
 
 <span class="small-caps">What</span> can be more absurd than to say, that inanimate bodies have passions, fears, horrors : that insensible substances, without life, and even incapable of life, have passions ; which presuppose, at least, a sensitive spirit to experience them ? Further, if the object of his horror were a vacuum, what is there in vacuum to excite fear ? What can be more unworthy and ridiculous ?
 
@@ -1401,9 +1403,9 @@ Then, amidst fast succeeding troubles, the man ever longs for the presence of hi
 
 ## On the Art of Persuasion, or Eloquence
 
-### ON THE ART OF PERSUASION, OR ELOQUENCE.
+### ON THE<br />ART OF PERSUASION, OR ELOQUENCE.
 
-### (L'ART DE PERSUADER.)
+#### (L'ART DE PERSUADER.)
 
 ### EDITORIAL NOTICES.
 
@@ -1425,7 +1427,7 @@ This paper has never before been translated. If to some readers the treatise on 
 
 (*Translator.*)
 
-### ON THE ART OF PERSUASION, OR ELOQUENCE.
+### ON THE<br />ART OF PERSUASION, OR ELOQUENCE.
 
 * * *
 
@@ -1487,7 +1489,7 @@ In short, where these precautions have been observed, no demonstration can remai
 
 It is of the first importance, then, well to comprehend and digest these things ; and, for this purpose, I proceed to lay down in a small compass certain rules, which comprise all that is necessary to a complete series of definitions, axioms, and demonstrations ; and, consequently, an entire system, on geometrical principles, of the “ Art of Persuasion.”
 
-### *Rules for Definitions.*
+##### *Rules for Definitions.*
 
 - I. Not to attempt to define any things that are in themselves so well understood, as that no terms can be made use of in explanation, which are clearer than themselves.
 - II. Not to pass over without definitions any obscure
@@ -1495,13 +1497,13 @@ or equivocal terms, although they be such in only a slight degree.
 
 III. In definitions, to use no expressions but such as are perfectly familiar, or such as have been already explained.
 
-### *Rules for Axioms.*
+##### *Rules for Axioms.*
 
 I. Not to omit any necessary principles, without ascertaining that they are conceded, however clear and evident they may be.
 
 II. In axioms only to postulate things perfectly evident in themselves.
 
-### *Rules for Demonstrations.*
+##### *Rules for Demonstrations.*
 
 I. Not to attempt to demonstrate any things so evident in themselves, that nothing plainer can be brought forward to prove them.
 
@@ -1605,7 +1607,7 @@ We most usually arrive sooner at conviction by means of reasons which we ourselv
 
 ## Thoughts on Eloquence and Style
 
-### THOUGHTS ON ELOQUENCE AND STYLE.
+### THOUGHTS ON<br />ELOQUENCE AND STYLE.
 
 ### EDITORIAL NOTICES.
 
@@ -1623,11 +1625,11 @@ From this part of the volume, the reader will be pleased especially to notice, t
 
 (*Translator.*)
 
-### THOUGHTS ON ELOQUENCE AND STYLE.
+### THOUGHTS ON<br />ELOQUENCE AND STYLE.
 
 * * *
 
-### I. + *Eloquence.*
+##### I. + *Eloquence.*
 
 <span class="small-caps">We</span> require from a speaker both agreeableness and truth; but that which aims to be agreeable, must be based upon truth.
 
@@ -1655,7 +1657,7 @@ VI. There are some who speak well, but write indifferently. The reason is, that 
 
 * * *
 
-### VII. + *Miscellan.—Language.*
+##### VII. + *Miscellan.—Language.*
 
 Those who use antitheses to give effect to words, are like builders that put false windows in their houses, for the sake of symmetry.
 
@@ -1663,7 +1665,7 @@ Their rule is, not to speak accurately, but to produce exact figures.
 
 * * *
 
-### VIII. + *Language.*
+##### VIII. + *Language.*
 
 We must not turn our minds aside from their purpose, except for relaxation, and then only on suitable occasions: you may trifle when necessary, but not otherwise; if unseasonably, you will cause weariness. Whoever descends to trifling at unfitting times, will produce dissatisfaction; for such is the capriciousness of the fancy, that our feelings are apt to recoil upon themselves, and take the very opposite to the desired course, when we cease to experience pleasure: this latter is the coin for which we yield all that is asked of us.
 
@@ -1711,7 +1713,7 @@ XVIII. + It is not in *Montagne,*[^fn-p0227-1] but in *myself,* that I see every
 
 * * *
 
-### XIX. + *Montagne.*
+#### XIX. + *Montagne.*
 
 Montagne's defects are great. Lasciviousness,—a vile quality, in spite of *Mademoiselle de Gournay.* Credulity,—“*people without eyes;*” ignorance,—“*quadrature of the circle, a larger world.*” His sentiments on voluntary homicide and death; he induces an indifference respecting our salvation; “*without fear, and without repentance.*” As his work does not profess to be religious, he is not bound to inculcate piety; but none are absolved from the obligation not to deter from its observances. We might excuse his free and voluptuous sentiments, under some circumstances of life;[^fn-p0228-1] but we cannot excuse his heathenish views of death; for we must renounce every feeling of religion, not to desire to die as a Christian: while his aim throughout his whole book is to teach men how to hold life loosely, and quit it with ease.
 
@@ -1773,7 +1775,7 @@ Whatever is not adapted to this model displeases those who have a susceptibility
 
 * * *
 
-### XXIX. + *Poetical Beauty.*
+#### XXIX. + *Poetical Beauty.*
 
 If we are to have a poetical beauty, we ought also to have a geometrical beauty, and a medicinal beauty. Yet we do not speak thus ; and the reason is, that we well know the object of geometry,—that it is to work out demonstrations ; and the object of medicine,—that it is the healing of sickness ; but we do not know in what consists that satisfaction which is the object of poetry. We do not know what is the model in nature which it seeks to imitate ; and, for want of that knowledge, certain affected phrases have been invented, such as “golden age,” “miracle of the day,” “fatality,” &c.; and this jargon is called poetical beauty!
 
@@ -1845,7 +1847,7 @@ XLI. + Carriage, “*versé*” or “*renversé*,” according to the intention
 
 —+ “*Répandre*” or “*verser*,” according to the intention.
 
-### XLII. + *Symmetry.*
+##### XLII. + *Symmetry.*
 
 + It is what is perceived at a glance.
 
@@ -1943,13 +1945,13 @@ IV. The power of sovereigns is founded both on the reason, and on the folly, of 
 
 * * *
 
-### V. + *Some opinions of the people are sound.*
+##### V. + *Some opinions of the people are sound.*
 
 The greatest of calamities is civil war. It is sure to befall, if an attempt is made to elevate merit only; for all will say they are deserving. The evil to be apprehended from a fool who succeeds by right of birth, is not so great, or so certain.
 
 * * *
 
-### VI. + *Sound opinions of the people.*
+##### VI. + *Sound opinions of the people.*
 
 For a man to be handsomely dressed, is not a mere vanity; for it proves that a number of persons are employed for him: he shows by his well-arranged hair, that he has a *valet de chambre,* a perfumer, &c., to attend him; his band shows the fineness of his linen, lace, &c.
 
@@ -1983,7 +1985,7 @@ Knowledge has two extremes which meet; the one is that pure natural ignorance, i
 
 (On the reverse leaf of this last fragment, is written the following passage on Descartes' system of the world.)[^fn-p0245-1]
 
-### IX. *Descartes.*
+##### IX. *Descartes.*
 
 We are then, in substance, to say, that is produced by figure and motion; and that is true. But to say these things, (*quels*) and then compose the machine, is absurd; for it is useless, uncertain, and painful. And even were it true, we hold that all the philosophy in the world does not avail against an hour of suffering.[^fn-p0246-1]
 
@@ -2045,7 +2047,7 @@ XXIII. The highest order of minds are most capable of perceiving originality of 
 
 * * *
 
-### XXIV. † *Yours, mine.*
+##### XXIV. † *Yours, mine.*
 
 “This dog is *mine*,” you hear poor children say: “That is *my* place in the sunshine:” there is the commencement and type of usurpation throughout the world.
 
@@ -2075,7 +2077,7 @@ XXIX. Who that had enjoyed the friendship of the Kings of England and Poland, an
 
 * * *
 
-### XXX. † *Tyranny*
+##### XXX. † *Tyranny*
 
 † Consists in a desire of unusual and irregular domination.
 
@@ -2083,7 +2085,7 @@ There are various bodies of brave, of handsome, of witty, or of pious persons, e
 
 * * *
 
-### XXXI. † *Tyranny.*
+##### XXXI. † *Tyranny.*
 
 Such language, then, as this, is indecent and tyrannical:—“I am handsome, I ought to be feared. I am brave, I ought to be beloved. I am” . . . . . .
 
@@ -2093,7 +2095,7 @@ This deference ought to be yielded; it is an injustice to withhold it, and an in
 
 * * *
 
-### XXXII. + *Diversity.*
+##### XXXII. + *Diversity.*
 
 + Theology is a science; but, after all, what are sciences? A man is an instrument; but, when you anatomize it, do you find it to consist in his head, his heart, the stomach, the veins, each individual vein, each part of a vein, the blood, each of the humours of the blood?
 
@@ -2123,13 +2125,13 @@ XXXVIII. + Such a person no longer admires her whom he loved ten years ago. I do
 
 * * *
 
-### XXXIX. + *Inconstancy.*
+##### XXXIX. + *Inconstancy.*
 
 + We fancy we may play upon man as we touch an instrument. He is an instrument indeed, but how irregular, capricious, inconstant; how full of discords! In doing it, we ought to know where are the . . . .[^fn-p0255-1]
 
 * * *
 
-### XL. + *Inconstancy.*
+##### XL. + *Inconstancy.*
 
 Things possess various qualities, and the mind has various inclinations; for, nothing presents itself in a simple form to the mind; and the mind never applies itself simply to any object. Thence it happens, that we sometimes weep and smile for the same thing.
 
@@ -2213,7 +2215,7 @@ LIX. It is an injustice that others should be allowed to attach themselves to me
 
 * * *
 
-### LX. + *Vanity of Knowledge.*
+##### LX. + *Vanity of Knowledge.*
 
 Knowledge of external things will not compensate my moral ignorance in a time of affliction; but moral proficiency will always afford me consolation under the absence of external knowledge.
 
@@ -2241,7 +2243,7 @@ Fancies, with me, depend not upon weather. I have my storms and my sunshine with
 
 * * *
 
-### LXVI. † *Spongia solis.*
+##### LXVI. † *Spongia solis.*
 
 When we see certain events always recurring alike, we conclude that they originate in a natural necessity; as that day will succeed day, &c.; but nature often deceives our expectations, and does not follow her own laws.
 
@@ -2297,13 +2299,13 @@ LXXV. + If an animal performed by reason what it does instinctively, and could u
 
 * * *
 
-### LXXVI. + *Emulation.*
+##### LXXVI. + *Emulation.*
 
 Animals have no affections. A horse feels no admiration for its companions. There is an emulation between them on the race-course, but it leads to no results; when they are in the stable, the dull and ill-made horse does not give up its oats to the other, as men require their fellows to do. They have no thought but for themselves.
 
 * * *
 
-### LXXVII. + *Emulation.*
+##### LXXVII. + *Emulation.*
 
 + From early infancy, admiration spoils everything. “How well that was said! how well that was done! how clever he is!” &c.
 
@@ -2367,7 +2369,7 @@ XC. Discourses upon humility are occasions of pride to the vain, and of humiliat
 
 * * *
 
-### XCI. + *Vanity.*
+##### XCI. + *Vanity.*
 
 > + The cause and the effect of love.—Cleopatra.
 
@@ -2379,7 +2381,7 @@ Had Cleopatra’s nose been a little shorter, the whole face of the world might 
 
 * * *
 
-### XCII. + *Vanity.*
+##### XCII. + *Vanity.*
 
 Wonderful indeed is it to see a thing so palpable as the vanity of the world so little understood, that to assert the folly of aspiring to its grandeurs should excite surprise.
 
@@ -2389,7 +2391,7 @@ XCIII. Vanity is so rooted in man’s heart, that a soldier, a powder-monkey, a 
 
 * * *
 
-### XCIV. † *Pride.*
+##### XCIV. † *Pride.*
 
 Curiosity is nothing but vanity. Persons, for the most part, wish only to learn, for the purpose of speaking of their knowledge. We should never undertake voyages or travels were we not to have to talk of them,—were it for the mere pleasure of seeing, without the hope of communicating what we saw.
 
@@ -2485,7 +2487,7 @@ CXIV. [^fn-p0277-2] Memory and pleasure are feelings; and even geometrical propo
 
 * * *
 
-### CXV. *Venice.*
+##### CXV. *Venice.*
 
 † What advantage would you derive from it, except for the necessities of the princes, and the honour of the people? If they had demanded it of you, and for obtaining it had invoked the aid of Christian princes, you might have made their plea available. But, that during fifty years all the princes should have been uselessly exerting themselves, and that there should have been such a pressing necessity to obtain . . . . .†
 
@@ -2535,7 +2537,7 @@ CXXVI. In the act of writing down a thought, it sometimes escapes me; but this o
 
 * * *
 
-### CXXVII. + *Reasons, effects.*
+##### CXXVII. + *Reasons, effects.*
 
 + Epictetus. Those who say you have a headache,[^fn-p0280-1] . . . . it is not the same thing. We are certain of our good health, but not of our rectitude; and, in reality, his remark is absurd. (*Vide* inf. 87.)
 
@@ -2559,7 +2561,7 @@ We ought, as much as possible, to retire in silence within our own bosoms, and c
 
 * * *
 
-### CXXX. + *Causes and results.*
+##### CXXX. + *Causes and results.*
 
 Rank: the people pay honour to persons of high birth. The half-informed despise them, contending that birth is a mere accidental advantage. The sensible respect them, not on the same ground as the common people, but from deeper views. [^fn-p0282-1] Devotees, possessing more zeal than knowledge, despise them, notwithstanding those considerations which procure them the respect of the wise; regarding them by a species of new light which their piety supplies: but mature Christians honour them, by a yet superior kind of light.[^fn-p0282-2]
 
@@ -2567,13 +2569,13 @@ Thus we see opinions maintained on one side or another, according to the degree 
 
 * * *
 
-### CXXXI. + *Causes and results.*
+##### CXXXI. + *Causes and results.*
 
 It is true, then, that all the world lies under illusion; for even if the opinions of the people are sound, their own minds are not so; and they fancy truth to exist where it does not. There may be truth in their opinions, but it is not at the point where they suppose it to be. For instance, it is right to honour the aristocracy, but not because of any intrinsic advantage in birth, &c.
 
 * * *
 
-### CXXXII. + *Cause and results.*
+##### CXXXII. + *Cause and results.*
 
 + Continual overthrow of conflicting opinions.
 
@@ -2583,13 +2585,13 @@ It is true, then, that all the world lies under illusion; for even if the opinio
 
 * * *
 
-### CXXXIII. + *Cause and results.*
+##### CXXXIII. + *Cause and results.*
 
 We ought to have a kind of *hidden thought,*[^fn-p0283-1] whereby to judge of everything; while we hold the same language as the people.
 
 * * *
 
-### CXXXIV. + *Cause and results.*
+##### CXXXIV. + *Cause and results.*
 
 + Man's weakness is the source of many interesting demonstrations; as we learn to play skilfully on an instrument.
 
@@ -2597,19 +2599,19 @@ We ought to have a kind of *hidden thought,*[^fn-p0283-1] whereby to judge of ev
 
 * * *
 
-### CXXXV. + *Cause and effects.*
+##### CXXXV. + *Cause and effects.*
 
 Inclination and force are the origin of all our actions: inclination, of the voluntary; force, of the involuntary.
 
 * * *
 
-### CXXXVI. + *Greatness.*
+##### CXXXVI. + *Greatness.*
 
 + The habit of observing causes and effects shows the greatness of man, in dividing from his sensuality the ardour of his disposition. (See Thoughts, CLIV., CLXXXV., subs.)
 
 * * *
 
-### CXXXVII. + *Causes and results.*
+##### CXXXVII. + *Causes and results.*
 
 This is admirable! I am not to pay honour to a man clothed in brocade, and followed by seven or eight lackeys! Why, he may order me to receive lashes if I do not salute him! His very garment speaks compulsion.
 
@@ -2813,7 +2815,7 @@ CLXXIX. All that is in the world is “lust of the flesh, lust of the eye, or pr
 
 * * *
 
-### CLXXX. *External observances.*
+#### CLXXX. *External observances.*
 
 † There is nothing so dangerous as what is pleasing both to God and to man; for the states which are pleasing to God and man, have one quality which procures the favour of God, and another that of man, as is seen in the greatness of St. Theresa. That which pleases God is her deep humility under revelations; men admire her superior illuminations. And thus it is fatal to imitate such discourses as hers, in the belief that we are resembling also her holiness; and to suppose that, by such means, we are loving what God loves, and attaining to the state which secures his favour.
 
@@ -2970,15 +2972,15 @@ CLXXXIX. My fancy leads me to dislike any one that makes a disagreeable noise in
 
 * * *
 
-### ON THE CONDITION OF THE GREAT.
+#### ON THE CONDITION OF THE GREAT.
 
 * * *
 
-### EPICTETUS AND MONTAIGNE.
+#### EPICTETUS AND MONTAIGNE.
 
 * * *
 
-### DETACHED CONVERSATIONS AND REMARKS.
+#### DETACHED CONVERSATIONS AND REMARKS.
 
 ### EDITORIAL NOTICES.
 
@@ -3030,7 +3032,7 @@ The few anecdotes and remarks which follow, possess a certain amount of interest
 
 * * *
 
-### DISCOURSE ON THE CONDITION OF THE GREAT. 1652—3.
+### DISCOURSE<br />ON THE CONDITION OF THE GREAT.<br />1652—3.
 
 * * *
 
@@ -3096,7 +3098,7 @@ This, then, is what constitutes the propriety of these distinctions. Their abuse
 
 * * *
 
-### DISCOURSE III.
+#### DISCOURSE III.
 
 <span class="small-caps">My</span> endeavour is, Sir, to make you acquainted with your true condition in the world; for it is that with which persons in your station are, of all others, the least acquainted.
 
@@ -3114,7 +3116,7 @@ There are some who, like fools, destroy themselves by avarice, by brutality, by 
 
 You should despise both sensuality itself, and the sovereignty which it confers upon you; and aspire to that domain whose subjects breathe only virtue, and desire nothing but the benefits which she confers. I leave it to others to point you to her paths; let it suffice me, to have warned you from those grosser ways, in which so many of your rank delight, through mere ignorance of their proper state, and their natural position.
 
-### CONVERSATIONS OF PASCAL WITH DE SACI, ON EPICTETUS AND MONTAIGNE.
+### CONVERSATIONS OF PASCAL WITH DE SACI,<br />ON EPICTETUS AND MONTAIGNE.
 
 1654.
 
@@ -3206,7 +3208,7 @@ M. de Saci, and the whole community of Port Royal, were thus filled with joy at 
 
 * * *
 
-### NARRATIVE OF DISCOURSES WHICH I HEARD FROM MY UNCLE, M. PASCAL, NOT ADDRESSED TO ME, BUT TO OTHER PERSONS, FRIENDS OF HIS, IN MY PRESENCE. I WAS THEN ABOUT SIXTEEN AND A HALF YEARS OF AGE. [^fn-p0346-1]
+#### NARRATIVE OF DISCOURSES WHICH I HEARD FROM MY UNCLE, M. PASCAL, NOT ADDRESSED TO ME, BUT TO OTHER PERSONS, FRIENDS OF HIS, IN MY PRESENCE. I WAS THEN ABOUT SIXTEEN AND A HALF YEARS OF AGE. [^fn-p0346-1]
 
 “ <span class="small-caps">First</span>.—They ask me whether I regret having published the ‘ Provincial Letters.’ I reply, that so far from regretting, if it were now to be done again, I should do it, and with yet more force.
 
@@ -3292,11 +3294,11 @@ In the extremity of his sufferings, when those about him were expressing their c
 
 ## Thoughts on the Jesuits and the Jansenists
 
-### THOUGHTS ON THE JESUITS AND THE JANSENISTS.
+### THOUGHTS<br />ON<br />THE JESUITS AND THE JANSENISTS.
 
 * * *
 
-### THOUGHTS AND NOTES ON THE PROVINCIAL LETTERS.
+### THOUGHTS AND NOTES<br />ON THE<br />PROVINCIAL LETTERS.
 
 ### EDITORIAL NOTICES.
 
@@ -3334,7 +3336,7 @@ To return, however, from this too-extended digression:— Collections such as th
 
 ### THOUGHTS
 
-### ON
+#### ON
 
 ### THE JESUITS AND THE JANSENISTS.
 
@@ -3354,7 +3356,7 @@ III. + Can it be from anything but a worldly spirit that you allow such matters 
 
 * * *
 
-### 3.[^fn-p0362-1]
+##### 3.[^fn-p0362-1]
 
 IV. + If they do not renounce the doctrine of probability, their good maxims have as little sanctity as their evil ones, for they are founded on mere human authority; and thus, if they are more just, they will be more conformable to reason; but not more really holy. They partake still of the wild stock upon which they are grafted.
 
@@ -3412,11 +3414,11 @@ XI. † As often as the Jesuits succeed in taking the Pope by surprise, they wil
 
 * * *
 
-### XII. † *Universal.*
+##### XII. † *Universal.*
 
 † Morals and languages are particular sciences, but universal in their nature.
 
-### XIII. † *Probability.*
+##### XIII. † *Probability.*
 
 — † The zeal of the saints in the pursuit of truth would be useless, if there were safety in probabilities.
 
@@ -3424,7 +3426,7 @@ XI. † As often as the Jesuits succeed in taking the Pope by surprise, they wil
 
 † St. Theresa having always obeyed her Confessor.
 
-### XIV. † *Probable.*
+##### XIV. † *Probable.*
 
 † We may try our devotion to God, by comparing it with other things which we most regard.
 
@@ -3445,13 +3447,13 @@ XV. + Will you dare in this way to trifle with the king's edicts, by alleging th
 
 * * *
 
-### XVI. + *Probab.*
+##### XVI. + *Probab.*
 
 + Their interpretation of safety is curious. After having proved that all their ways are safe, they have pronounced to be safe, not that way which leads to heaven without danger of failure, but that which leads to it without danger of departing from that way.
 
 * * *
 
-### XVII. + *Probability.*
+##### XVII. + *Probability.*
 
 + Every one may add; none may take away.
 
@@ -3461,7 +3463,7 @@ XVIII. Those who love the church, lament the corruption of morals; but they comf
 
 * * *
 
-### XIX. + *Montalte.*[^fn-p0367-1]
+#### XIX. + *Montalte.*[^fn-p0367-1]
 
 Lax opinions are so universally acceptable, that it is surprising that those which they hold should excite disgust. It is, however, because they have exceeded in them all bounds. There are, besides, many who see what is right, although they cannot attain to it; but there are few who do not know that the purity of religion is opposed to our corruptions. They see the absurdity of supposing that an eternal reward is held out for *Escobartan* morals.
 
@@ -3485,7 +3487,7 @@ XXIII. + “Probability.” They hold some true principles, but they abuse them.
 
 + As if they maintained that there were two *hells;* one for sinners against charity, the other for sinners against justice.
 
-### XXIV. + “*Probable.*”
+##### XXIV. + “*Probable.*”
 
 + If such flagitious reasons as these are “probable,” everything may be so :—
 
@@ -3502,7 +3504,7 @@ XXIII. + “Probability.” They hold some true principles, but they abuse them.
 
 * * *
 
-### XXV. + *Casuists.*
+#### XXV. + *Casuists.*
 
 + A considerable measure of alms-giving, a reasonable penance ; although we cannot assign the just measure, we can see what is not such. It is amusing to see the Casuists pretend to fix it in the way they do !
 
@@ -3526,7 +3528,7 @@ XXVIII. + They give the reins to lust, but cherish scrupulosity : the very contr
 
 * * *
 
-### XXIX. + *Generals.*
+##### XXIX. + *Generals.*
 
 + They have not been content with introducing such morality into our temples; “*templis inducere mores.*” They have not only claimed to be tolerated in the church, but, as if they deemed themselves the stronger party, they have sought to drive out all those who are[^fn-p0370-1] . . . .
 
@@ -3570,7 +3572,7 @@ XXXIV. + *Annat.*[^fn-p0371-3] He forms a disciple without ignorance, and a mast
 
 * * *
 
-### + *The Jesuits.*
+##### + *The Jesuits.*
 
 XXXV. + The Jesuits desire to reconcile God and the world, and have gained nothing but contempt from both. In the light of conscience this is evidently perceived; and even, as regards the world, they are not good politicians. They possess power, as I have often said, but it is, so to say, power in respect of other religionists. “ They have sufficient credit to get a chapel built, and appoint a mart for indulgences; not to procure the appointment of bishoprics, or fill up ecclesiastical offices. It is a sorry position that these monks hold in the world, even by their own confession. (P. Brisacier [^fn-p0372-1] Benedictines.) Nevertheless . . . . . you yield to those whom you see to be more powerful than yourselves; and oppress, with all the puny means you possess, such as are less conversant than you in worldly intrigue.[^fn-p0372-2]
 
@@ -3644,7 +3646,7 @@ The obduracy of the Jesuits surpasses, then, that of the Jews, for they only con
 
 * * *
 
-### XLV. + Oppressors and persecutors of those who enjoy the visible protection of God.
+##### XLV. + Oppressors and persecutors of those who enjoy the visible protection of God.
 
 — + When they upbraid your obliquities, they are heretics.
 
@@ -3728,7 +3730,7 @@ LIV. + It is consistent in them to commit injustice, lest the Molinists should a
 
 LV. It is right to hear both sides: that has been my case. + When we have heard only one side, we are apt to incline to it, and then the opposite side comes, and changes our view; but here the Jesuit confirms it. — + Not what they say, but what they do. — + It is against *me* only they clamour; I am content. *I know to whom I must render account.* — + Christ has ever been a “ Rock of offence.” — + Condemnable, condemned.
 
-### LVI. † *Policy.*
+##### LVI. † *Policy.*
 
 † We have found two obstacles in our endeavour to give men comfort:—the one, the internal rules of the Gospel; the other, the external laws of the state and of religion. Of the one, we are masters; with the other, this is the way we have dealt . . . . “*amplienda, restringenda, à majori ad minus.*” *Junior.*
 
@@ -3856,7 +3858,7 @@ Miracles prove the power of God over the heart, by that which he exercises over 
 
 * * *
 
-### *On the miracle.*[^fn-p0387-1]
+##### *On the miracle.*[^fn-p0387-1]
 
 + As God never rendered a family more happy, so has he never found one more grateful.
 
@@ -3866,7 +3868,7 @@ Miracles prove the power of God over the heart, by that which he exercises over 
 
 * * *
 
-### *The end.*[^fn-p0387-3]
+##### *The end.*[^fn-p0387-3]
 
 + Are we safe : is the principle sure ? Let us examine. Our own testimony goes for nothing. St. Thomas.
 
@@ -3884,7 +3886,7 @@ Miracles prove the power of God over the heart, by that which he exercises over 
 
 * * *
 
-### I.
+##### I.
 
 Lettre des établissements violents des jésuites partout.
 
@@ -3900,7 +3902,7 @@ Si vous le trouvez bon c'est son signe.
 - — Un Dieu crucifié.
 - — Pour la foule des casuistes, tant s'en faut que ce soit un sujet d'accusation contre l'Église, que c'est au contraire un sujet de gémissement de l'Église.
 - — Et afin que nous ne soyons point suspects, comme
-### THOUGHTS AND NOTES FOR THE PROVINCIAL LETTERS.[^fn-p0389-1]
+### THOUGHTS AND NOTES FOR THE PROVINCIAL<br />LETTERS.[^fn-p0389-1]
 
 * * *
 
@@ -3960,7 +3962,7 @@ As for us, we could not lay down any general rules. If you look at our Constitut
 
 * * *
 
-### II.
+#### II.
 
 | *Notes écrites de la main d'Arnauld.* | *Contre-notes de la main de Pascal.* |
 | --- | --- |
@@ -3980,9 +3982,9 @@ The tip of a hood sets up in arms twenty-five thousand monks.
 
 * * *
 
-### II.
+#### II.
 
-### *Pascal's Notes.*
+##### *Pascal's Notes.*
 
 To bring all the Fathers into conformity with his fancies, rather than conform his opinions to those of the Fathers.
 
@@ -3994,7 +3996,7 @@ Policy.
 
 | *Notes écrites de la main d'Arnauld.* | *Contre-notes de la main de Pascal.* |
 | --- | --- |
-| 409. *Ad extremum perve-lim—circumfe<sup>r</sup>atur.* | Par un malheur ou plutôt un bonheur singulier de la société, ce que l'un fait est attribué à tous. |
+| 409. *Ad extremum perve-lim—circumferatur.* | Par un malheur ou plutôt un bonheur singulier de la société, ce que l'un fait est attribué à tous. |
 | 410. *Querimoniæ—Depre-hendetis,* p. 412. | Obéir aux évêques exacte-ment ; qu'il ne paraisse pas que nous prétendions nous mesurer à eux, à l'exemple de St. Xavier. |
 | 412. *Ad hæc si à litibus—aviditatis.* | Testaments, procès. |
 | 413. *Patris Borgiæ—illam futuram.* | Ils augmentent, ils inven-tent même de fausses his-toires. |
@@ -4056,7 +4058,7 @@ Vines, &c.
   Religion and science.  
   — “*Jesuita omnis homo*.”  
   — Colleges, relatives, friends, children, to be chosen.
-### *Constitutions.*
+##### *Constitutions.*
 
 - 253. Poverty, ambition. 257. Chiefly princes and noblemen, who can both injure and benefit. 12. Useless things rejected. Good address, riches, nobility, &c. What! Were you afraid that they would not be earlier admitted? 27. 47. To give his property to the society for the glory of God. *Dec.*[^fn-p0399-1] 51. 52. Harmony of views. *Decl.*: To submit to the society, and thus secure uniformity. But in the present day this uniformity consists in differences, for so the society determines. 117. *Const.*: The Gospel and St. Thomas. *Decl.*: some accommodating kind of theology. 65. The learned and scientific seldom pious; but now their opinion is changed. 23. 74. Falsehood.
 19. To yield nothing to relatives, and rest satisfied with the advisers appointed by the Superior.
@@ -4137,7 +4139,7 @@ And it is no excuse for the Superiors to allege that they were ignorant, for the
 
 * * *
 
-### IV.
+#### IV.
 
 To examine the motives of the censure by the phenomena.
 
@@ -4223,9 +4225,9 @@ God evidently protects us.
 
 * * *
 
-### V.
+#### V.
 
-### <span class="small-caps">Diana.</span>
+##### <span class="small-caps">Diana.</span>
 
 That is very useful to us. (Erased.)
 
@@ -4291,7 +4293,7 @@ I am an unworthy defender of religion; but you are also unworthy defenders of er
 
 * * *
 
-### VII.
+#### VII.
 
 And they set themselves to chase away from the church those who refuse to make this acknowledgment; in *v* (Erased.) . . .
 
@@ -4339,9 +4341,9 @@ On hearing the report of the Feuillants [^fn-p0413-1] . . . . I communicated it 
 
 * * *
 
-### IX.
+#### IX.
 
-### *Notes for a Nineteenth Provincial.*[^fn-p0414-2]
+##### *Notes for a Nineteenth Provincial.*[^fn-p0414-2]
 
 — The day of judgment. — This then, my father, is what you call the meaning of Jansenius; this is what you palm off as such, both to the Pope and the bishops. — If the Jesuits were corrupt, and it were true that we stood alone, the more reason have we to remain as we are.
 
@@ -4349,7 +4351,7 @@ On hearing the report of the Feuillants [^fn-p0413-1] . . . . I communicated it 
 
 * * *
 
-### *Isolated Note.* (page **110.** MS. *aut.*)
+##### *Isolated Note.* (page **110.** MS. *aut.*)
 
 We ought, my father, to judge Divine ordinances with sobriety.[^fn-p0415-1] (Erased.) St. Paul in the island of Malta. (Erased.)
 
@@ -4436,7 +4438,7 @@ We ought, my father, to judge Divine ordinances with sobriety.[^fn-p0415-1] (Era
 
 ## Thoughts on the Pope and the Church
 
-### THOUGHTS ON THE POPE AND THE CHURCH.
+### THOUGHTS<br />ON<br />THE POPE AND THE CHURCH.
 
 <span class="small-caps">The</span> latter and most finished portion of this section, the greater part of which, however, has not been before published, appeared first in Bossut's edition, under the title, " Comparison of the Ancient Christians with those of the present day." This piece is not found in the autograph MS. or the copy, but it is in the three following MSS.: namely, " *Suppl. Franç.*" No. 176. This is a very indifferent copy, without any title. At the close, is the following note :—" To this piece may be given some such title as this,—What are the causes of the indifference and deficient instruction of Christians in the present day?" This note leads to the belief that this fragment is one of the *two minor compositions,* which the Abbé Perier communicated, in 1711, to the Benedictine Dom Touttée, and at the foot of which the latter had " placed nearly the same title." Second, The little MS. in 8vo. with this title :—" Reflections on the manner in which admission was formerly obtained into the church; and how those so admitted conducted themselves : how they are admitted, and what their conduct in the present day." This copy is also incorrect, and several paragraphs are transposed. Third, The first MS. Collection of P. Guerrier, bearing the inscription, " Another writing of M. Pascal." It is the text of this last that we have adopted, as the most correct of all; attaching to it the title which it bears in the small 8vo. MS. To conclude, however, the composition is not preserved in a perfect state in any of the MSS. There are several breaks, (*lacunes,*) all traces of which Bossut has removed; but which we have thought it right to indicate, in conformity with M. Guerrier's copy, wherein, with his usual accuracy, the marks are preserved by points.
 
@@ -4452,11 +4454,11 @@ These sections will nearly close the present volume, and form a not unsuitable i
 
 (*Translator.*)
 
-### THOUGHTS ON THE POPE AND THE CHURCH.
+### THOUGHTS<br />ON<br />THE POPE AND THE CHURCH.
 
 * * *
 
-### I. *Church. Pope.*
+#### I. *Church. Pope.*
 
 <span class="small-caps">Unity</span>, multitude. Considering the Church in its unity, the Pope, for the time being, is head over all; and as it were, everything. Considering it in multitude, the Pope is but a part.
 
@@ -4612,7 +4614,7 @@ XVIII. † The church teaches, and God gives his inspiration;—both, with infal
 
 * * *
 
-### XIX. [^fn-p0430-1] On confessions and absolutions without signs of sorrow :—
+##### XIX. [^fn-p0430-1] On confessions and absolutions without signs of sorrow :—
 
 God alone sees the heart of man; the church can judge only of his external conduct. God pardons as soon as he discerns penitence in the heart; the church when she sees it in the life. God can make a church so pure within, that it may confound, by its internal and spiritual sanctity, the internal impiety of proud sages and pharisees; and the church can produce a body of men, whose external conduct may be so pure, as to confound the morality of the heathen. If, among them, there be hypocrites, but so disguised that the church cannot detect the imposture, she endures them; for although they cannot deceive God, they may escape the eye of man. Thus she suffers no dishonour from a conduct on the part of her members which bears the appearance of sanctity.
 
@@ -4640,7 +4642,7 @@ XXI. What impairs our powers of comparing the past transactions of the church wi
 
 ### REFLECTIONS
 
-### ON THE MANNER IN WHICH CONVERTS WERE FORMERLY RECEIVED INTO THE CHURCH; HOW THEY THEN CONDUCTED THEMSELVES; HOW THEY ENTER, AND CONDUCT THEMSELVES IN IT AT THE PRESENT TIME.[^fn-p0434-1]
+#### ON THE MANNER IN WHICH CONVERTS WERE FORMERLY RECEIVED INTO THE CHURCH; HOW THEY THEN CONDUCTED THEMSELVES; HOW THEY ENTER, AND CONDUCT THEMSELVES IN IT AT THE PRESENT TIME.[^fn-p0434-1]
 
 <span class="small-caps">In</span> the early ages, Christians were thoroughly instructed in all things necessary for salvation; whereas we, at present, witness such gross ignorance, as to cause deep affliction to all who feel regard and affection for the church.
 
@@ -4705,7 +4707,7 @@ And while the early Christians evinced the deepest gratitude to the church, for 
 
 ## Conversation on His Work on Religion
 
-### CONVERSATION ON HIS WORK ON RELIGION.
+### CONVERSATION<br />ON<br />HIS WORK ON RELIGION.
 
 I <span class="small-caps">have</span> thought it better to bring this paper at present before the reader, although it was intended, as before stated, to reserve it for a subsequent volume. It is extracted from the Introduction prefixed by Pascal's literary friends to their first publication of his Works, and is probably the composition of Nicole, or De Saci. For a more particular description of the circumstances under which this conversation took place, the reader is referred to the " Memoir," in a former volume. It occurred when Pascal was in about his thirtieth year; and, consequently, rather less than ten years before his death.
 
@@ -4713,7 +4715,7 @@ I <span class="small-caps">have</span> thought it better to bring this paper at 
 
 ### NARRATIVE
 
-### OF A CONVERSATION IN WHICH PASCAL RELATED THE PLAN AND SUBSTANCE OF HIS CONTEMPLATED WORK ON RELIGION.
+#### OF A CONVERSATION IN WHICH PASCAL RELATED THE<br />PLAN AND SUBSTANCE OF HIS CONTEMPLATED WORK<br />ON RELIGION.
 
 <span class="small-caps">It</span> happened on a certain occasion, about ten or twelve years since, that M. Pascal was induced to deliver what he had revolved in his mind upon the subject above referred to, in the way of verbal relation. It was done in the presence, and at the request of, several of his friends; and, among them, some of considerable distinction. He unfolded to them on this occasion, in a few words, the plan of his entire work; he described the subject, and the proposed matter; briefly recapitulated the reasons which had induced the undertaking, and the principles upon which it was to be founded; and explained the order and connexion he intended to pursue. And those persons, than whom none were more competent to judge of these things, reported that they never heard a more beautiful address, or one more powerful, affecting, and convincing. They were delighted with what they heard; and from the specimen thus afforded, in a discourse carried on for a period of between two and three hours, delivered on the spur of the moment, and without effort or premedi-tation, they drew the most exalted conclusions of the projected work, if it should ever be carried into full execution by one with whose powers they were so well acquainted, one so matured in literary composition, and one, especially, whose fastidiousness of taste in his writings was so great. He was, indeed, rarely satisfied with his first conceptions, however good they might appear to others; and was accustomed to transcribe as frequently as six or eight times, compositions which ordinary readers deemed as perfect as they could be from their very first transmission to paper.
 
@@ -4785,7 +4787,9 @@ After this, we find ourselves admitted into another of those repositories, in wh
 
 Yet all these topics, interesting and important as they were, were subordinated and eclipsed by that *one* great object to which the closing years of Pascal's life were devoted. To the noblest theme which could engage the thoughts or the pen of man, were now consecrated all his capacities, all his desires,—his toilsome days, and his watchful nights. To show the misery and hopelessness of man, without a voice and a guidance from heaven; to assert the authenticity and Divine authority of Scripture, in which that voice is heard; to silence, by the most copious evidences, internal and external, the cavils of atheism and infidelity against its revelations; to exhibit the necessities of man satisfied, and the types and prophecies which went before fulfilled, in the advent to our world, of a “God manifested in the flesh;” to show how our reconciliation with an offended Creator has been achieved by His sacrifice; and the gates of heaven and immortality opened to us by His resurrection:—
 
-> “To justify the ways of God to man;”
+> **[verse_insert]**
+>
+> > “To justify the ways of God to man;”
 
 and to unfold the mighty scheme of the Eternal Mind in the creation of his moral universe;—these were the topics, enforced by eloquence, enriched by learning, elevated by philosophy, and carrying conviction to the heart, by a profound knowledge of man: this was the undertaking, in which all his intellectual powers were absorbed, with a continually increasing intenseness, as the close of his earthly career drew near.
 
@@ -4951,11 +4955,11 @@ Xavier, St. (Chief of Jesuits) . . . . . . . . 326, 345
 
 ## Advertisements
 
-### BY THE SAME AUTHOR,
+#### BY THE SAME AUTHOR,
 
 *Price 8s. 6d., cloth, bds., and uniform with the “Miscellaneous Writings,”*
 
-### THE PROVINCIAL LETTERS OF PASCAL; WITH AN “ESSAY ON PASCAL CONSIDERED AS A WRITER AND MORALIST,” BY M. VILLEMAIN,
+### THE<br />PROVINCIAL LETTERS OF PASCAL;<br />WITH<br />AN “ESSAY ON PASCAL CONSIDERED AS A WRITER<br />AND MORALIST,”<br />BY M. VILLEMAIN,
 
 PEER OF FRANCE, LATE MINISTER OF PUBLIC INSTRUCTION, ETC.
 
@@ -4968,7 +4972,7 @@ NOTES, AND APPENDIX.
 
 *Also, preparing for Publication, uniform with the above, Price 8s. 6d., cloth, boards,*
 
-### THE THOUGHTS OF PASCAL; TOGETHER WITH THE MATERIALS FOR HIS WORK ON THE CHRISTIAN RELIGION, NEWLY TRANSLATED AND ARRANGED FROM THE FRENCH EDITION OF M. P. FAUGÈRE. WITH COPIOUS ADDITIONS FROM ORIGINAL MSS.
+### THE THOUGHTS OF PASCAL;<br />TOGETHER WITH THE MATERIALS FOR HIS WORK ON THE<br />CHRISTIAN RELIGION,<br />NEWLY TRANSLATED AND ARRANGED FROM THE FRENCH EDITION OF<br />M. P. FAUGÈRE.<br />WITH COPIOUS ADDITIONS FROM ORIGINAL MSS.
 
 * * *
 

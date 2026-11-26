@@ -7,23 +7,23 @@
 
 ## Frontmatter
 
-### EAST INDIA COMPANY'S RECORDS VOL. IV.
+### EAST INDIA COMPANY'S RECORDS<br />VOL. IV.
 
 *[Illustration, p. 6]*
 
 ### LETTERS
 
-### RECEIVED BY THE
+#### RECEIVED BY THE
 
 ### EAST INDIA COMPANY
 
-### From its Servants in the East
+#### From its Servants in the East
 
-### TRANSCRIBED FROM THE 'ORIGINAL CORRESPONDENCE' SERIES OF THE INDIA OFFICE RECORDS
+##### TRANSCRIBED FROM THE 'ORIGINAL CORRESPONDENCE'<br />SERIES OF THE INDIA OFFICE RECORDS
 
-### VOL. IV. 1616
+##### VOL. IV.<br />1616
 
-### *EDITED BY* WILLIAM FOSTER, B.A.
+##### *EDITED BY*<br />WILLIAM FOSTER, B.A.
 
 *Editor of 'The Embassy of Sir Thomas Roe to India, 1615-19.'  
 Joint Editor of 'The Register of Letters of the E. India Co., 1600-19'*
@@ -362,7 +362,7 @@ The task of transcribing the documents here printed—several of which were very
 
 *[Illustration, p. xxxvi]*
 
-### THE ‘ORIGINAL CORRESPONDENCE’ <span class="small-caps">section of the</span> EAST INDIA COMPANY’S RECORDS VOL. IV.
+### THE<br />‘ORIGINAL CORRESPONDENCE’<br /><span class="small-caps">section of the</span><br />EAST INDIA COMPANY’S<br />RECORDS<br />VOL. IV.
 
 * * *
 
@@ -394,7 +394,7 @@ The task of transcribing the documents here printed—several of which were very
 
 ### Letter 1: William Eaton → Richard Wickham
 
-### 332 William Eaton to Richard Wickham at Osaka.
+#### 332<br />William Eaton to Richard Wickham at Osaka.
 
 Sackea[^fn-p0041-1] in Japon, the 2nd of January, 1615 [1616].
 
@@ -414,16 +414,16 @@ Wm. Eaton.
 
 ### 333
 
-### John Jourdain to Richard Wickham at Firando, the 12th January, 1615 [1616].
+### John Jourdain to Richard Wickham at Firando, the 12th January,<br />1615 [1616].
 
 Original of the first of the two letters given under No. 279  
 (vol. iii., p. 111.)[^fn-p0042-3]
 
 ### Letter 2: William Nicholls → Agent at Bantam
 
-### 334
+#### 334
 
-### William Nicholls to the Agent at Bantam.[^fn-p0043-1]
+#### William Nicholls to the Agent at Bantam.[^fn-p0043-1]
 
 In Achin, this 15th of January, 1615 [1616].
 
@@ -453,9 +453,9 @@ William Nicolls.
 
 ### Letter 3: Sir Thomas Roe → East India Company
 
-### 335
+#### 335
 
-### Sir Thomas Roe to the East India Company.[^fn-p0049-1]
+#### Sir Thomas Roe to the East India Company.[^fn-p0049-1]
 
 Adsmere, 25th of January, 1615 [1616].
 
@@ -533,9 +533,9 @@ Sir Thomas Rowe's letter of 25 January 1615 [1616], by the Lion; sent from Agmer
 
 ### Letter 4: Wm. Nicholls → Tho. Aldworth
 
-### 336
+#### 336
 
-### [Wm. Nicholls] to Tho. Aldworth at Surat.[^fn-p0061-1]
+#### [Wm. Nicholls] to Tho. Aldworth at Surat.[^fn-p0061-1]
 
 In Achein, this last of January, anno 1615 [1616].
 
@@ -555,9 +555,9 @@ To come to the main scope of my drift: it may please you the staplest commodity 
 
 ### Letter 5: Richard Westby → John Jourdain
 
-### 337
+#### 337
 
-### Richard Westby to John Jourdain at Bantam.[^fn-p0064-1]
+#### Richard Westby to John Jourdain at Bantam.[^fn-p0064-1]
 
 In Jambe, this 10th February, anno 1615 [1616].
 
@@ -583,9 +583,9 @@ Richard Westby.
 
 ### Letter 6: John Tucker → Sir Thomas Smythe
 
-### 338
+#### 338
 
-### John Tucker[^fn-p0065-3] to Sir Thomas Smythe.
+#### John Tucker[^fn-p0065-3] to Sir Thomas Smythe.
 
 Laus Deo in Jambee, this 11th February, 1615 [1616].
 
@@ -614,9 +614,9 @@ John Tucker.
 
 ### Letter 7: Lucas Antheunis → Sir Thomas Roe
 
-### 339
+#### 339
 
-### Lucas Antheunis to Sir Thomas Roe.[^fn-p0068-1]
+#### Lucas Antheunis to Sir Thomas Roe.[^fn-p0068-1]
 
 Musulpatam, 1st and 15th February, 1615 [1616].
 
@@ -661,8 +661,9 @@ Here is arrived a ship out of Holland named the White Bear, which brought 40,000
 
 Wherein I shall employ our capital here I cannot particularly declare, being not yet settled, but have order to employ for Bantam to the value of 10,000 rials, besides 100 [?] peculs of iron and some steel:
 
-| Gobaris rials | 2,000 |
+|  |  |
 | --- | --- |
+| Gobaris rials | 2,000 |
 | Tapesatasse | 2,000 |
 | Tapichindaes | 1,500 |
 | Tavites and Java Girdles | 1,000 |
@@ -709,7 +710,7 @@ Ambassador for the English nation, resident in Agra, dd. in Agra. By Juan Baptis
 
 ### Letter 8: William Eaton → Richard Wickham
 
-### 340 William Eaton to Richard Wickham at Firando.
+#### 340<br />William Eaton to Richard Wickham at Firando.
 
 Ossakey in Japon, the 20th of February, 1615 [1616].
 
@@ -748,9 +749,9 @@ George Savage.
 
 ### Letter 9: Richard Cocks → East India Company
 
-### 342
+#### 342
 
-### Richard Cocks to [the East India Company].[^fn-p0083-2]
+#### Richard Cocks to [the East India Company].[^fn-p0083-2]
 
 Firando in Japon, the 25th February, 1615 [1616].
 
@@ -766,7 +767,7 @@ And in respect of the great charge that men are at here to buy them apparel and 
 
 [May it plea]se your Worships to understand that the last year [we entertained] an Italian mariner to go in our junk for Syam, named Damian Marina, and another Castalliano[^fn-p0086-2] called John [de Lievano] went with him; which coming to the knowledge of the Portingales and Spaniards at Langasaque that they had served the English, they laid hands on them and carried them prisoners aboard the great ship of Amacan.[^fn-p0086-3] The which being made known unto me, I wrote a letter to the Capitan Major of the ship, willing him to set them at liberty, for that they were not under his command nor jurisdiction, but under the English; and to the like effect I wrote another letter to Gonrocq Dono, chief Governor at Langasaque for the Emperor; but had a scornful answer from the Portingale and nothing but words from the Japon. Whereupon I got a letter testimonial from the King of Firando to the Emperor, how these two men were entertained into service of the English, and Mr. Wm. [Adames] being above with Captain Ralph Coppendalle to carry a [present to] the Emperor, gave him to understand of this matter, [who gave] his command forthwith that the two men should be [set at liberty] and all their goods restored to them; which was [thereupon accomp]lished to the great heart's grief both of [the Spaniards and Port]ingales, they having condemned them both [to death] and sent priests to confess them and exhibited [a process] against them to Gonrock Dono, as against traitors [to their] country and friends to the English and Hollanders their enemies; which process the Captain Major delivered both in Japon and Portuguese with his ferme[^fn-p0086-4] at it. But that in Portuguese Gonrocq Dono sent to the King of Firando and he gave it unto me, which hereinclosed I send unto your Worships, together with his letter written to me, in which is manifested that they hold both English and Dutch for their enemies.
 
-But that which vexed them the most is that the Hollanders took a Portingale junk on the coast of Japon laden with ebony wood the greatest part, with tin and certain bars of gold and much conserves ; which junk, with all that was in it, men and all, the Emperor alloweth for good prize, and is [to] be thought that Mr. Wm. Adames was a chief occasion to move [the] Emperor thereunto, he first asking Mr. Adames wherefore [there was] such hatred betwixt the Spaniards and Hollanders, for [that it w] as told him their Princes and Governors were [friends in all] other parts of the world and that it seemed strange [to him that they] should be enemies here. Unto which Mr. Adames answered that it was true they [had been made] friends of late years per means of the King [of England] and other potentates, but yet notwithstand [ing the King of] Spain did think himself to have more right [to these] parts of the world than any other Christian prince, by [reason] of the footing he had gotten in the Phillip-pinas and in other parts of the Indies, and therefore per force meant to keep all other nations from trading into these parts. Unto which the Emperor replied and said the Spaniards had no reason, and therefore, seeing it was a difference or dispute amongst us which were all strangers, he would not make nor meddle in the matter, but leave it to their princes to decide at home. But, said he, what is the occasion they take men as well as goods ? Because, said Mr. Adames, the Spaniards take the Hollanders and have 150 or 200 of them prisoners in the Phillip [pinas, for] which occasion the Hollanders do use the like [treatment to] their people, man for man, and goods for g [oods. To which] the Emperor answered that they had [reason]. Thus much have I thought good to ad [vise you of].
+But that which vexed them the most is that the Hollanders took a Portingale junk on the coast of Japon laden with ebony wood the greatest part, with tin and certain bars of gold and much conserves ; which junk, with all that was in it, men and all, the Emperor alloweth for good prize, and is [to] be thought that Mr. Wm. Adames was a chief occasion to move [the] Emperor thereunto, he first asking Mr. Adames wherefore [there was] such hatred betwixt the Spaniards and Hollanders, for [that it w] as told him their Princes and Governors were [friends in all] other parts of the world and that it seemed strange [to him that they] should be enemies here. Unto which Mr. Adames answered that it was true they [had been made] friends of late years per means of the King [of England] and other potentates, but yet notwithstand [ing the King of] Spain did think himself to have more right [to these] parts of the world than any other Christian prince, by [reason] of the footing he had gotten in the Phillippinas and in other parts of the Indies, and therefore per force meant to keep all other nations from trading into these parts. Unto which the Emperor replied and said the Spaniards had no reason, and therefore, seeing it was a difference or dispute amongst us which were all strangers, he would not make nor meddle in the matter, but leave it to their princes to decide at home. But, said he, what is the occasion they take men as well as goods ? Because, said Mr. Adames, the Spaniards take the Hollanders and have 150 or 200 of them prisoners in the Phillip [pinas, for] which occasion the Hollanders do use the like [treatment to] their people, man for man, and goods for g [oods. To which] the Emperor answered that they had [reason]. Thus much have I thought good to ad [vise you of].
 
 The Hollanders this year have laden [a ship of] 500 tons and a junk of 150 or 200 to [ns with] beef, biscuit, rice, wheat, barley and peas [          ] shot and powder, iron and sorts of iron [          ] they carry to the Molucas, this place being their storehouse and only supporter to keep possession of that place[^fn-p0087-1]; for besides this provision they have succours of men both for sea and land as they please, being a desperate, warlike people and ready to adventure for good pay. I make account that Captain John Saris hath informed your Worships before now how the Hollanders misused us in the Mollocos and how ready the people of the country were to have taken our parts if we would have set footing there, and to have cut the throats of all the Hollanders, esteeming them much more vile than the Spaniards in respect of their baseness and poverty, having deceived them of their expectations in promising them succour against the Spaniard [to set them] at liberty, but having got footing are [now much] more insupportable than ever the Spaniard [or Portingal] was. Thus much I have also thought good to [advise you of].
 
@@ -792,7 +793,7 @@ Mr. Adames told me his time of serving your Worships two years at one hundred po
   Per footas, single so called but double, [per] piece 8 mas.  
   [      ] ditto of a worser sort double, at 7 mas [per] piece.  
   [Chaders[^fn-p0090-2]] of Cambaia double, at 8½ mas [per] piece.  
-  [Tapis, coarse,<sup>2</sup>] double, at 6 mas per piece.  
+  [Tapis, coarse,[^fn-p0090-2]] double, at 6 mas per piece.  
   [      ] at 7 mas per piece.  
   [      ] fine, at 15 mas double piece.
 If the King had not taken them [they would] never have been put away at such a p[rice; for the] baftas were so stained and spotted and some [      that no] merchant would buy them at any rate neither g[ive us what] he paid for the rest. The Hollanders sold him [pepper] at 5 tais the pico, and have trusted him for [        ] thousand tais, whereof one thousand was in money, and have given him very rich presents in respect of their prize and carrying out victual and munition. Our broadcloth was most of it motheaten and would hardly have been put away at 7 or 8 tais per tatta [my]. The King doth take these merchandise to pay his grandfather's debts, and giveth it to them at good rates and now payeth no interest, and so per taxing his subjects will within a year or two bring himself out of debt. His chief men and bongews are bound to make payment to us, so there is no doubt, neither of any other debt is owing your Worships, but [such as are] specified per account; and good justice against [such as do] not pay. But this wars hath brought the [merchants] behindhand.
@@ -853,9 +854,9 @@ Ric. Cocks.
 
 ### Letter 10: Richard Cocks → Richard Westby
 
-### 343
+#### 343
 
-### Richard Cocks to Richard Westby at Bantam.[^fn-p0098-1]
+#### Richard Cocks to Richard Westby at Bantam.[^fn-p0098-1]
 
 Firando in Japon, the 25th of February, 1615 [1616].
 
@@ -879,9 +880,9 @@ Ric. Cocks.
 
 ### Letter 11: Richard Cocks → John Gourney
 
-### 344
+#### 344
 
-### Richard Cocks to John Gourney at Siam.[^fn-p0100-1]
+#### Richard Cocks to John Gourney at Siam.[^fn-p0100-1]
 
 Firando in Japon, the 26th February, 1615 [1616].
 
@@ -923,9 +924,9 @@ Ric. Cocks.
 
 ### Letter 12: Richard Cocks → Adam Denton
 
-### 345
+#### 345
 
-### Richard Cocks to Adam Denton at Patani.
+#### Richard Cocks to Adam Denton at Patani.
 
 Firando in Japon, the 26th of February, 1615 [1616].
 
@@ -981,13 +982,13 @@ In the port of Cran-ganor, dated aboard the Dragon, the 10th of March, anno 1615
 
 * * *
 
-### 347 William Adams to Ed. Saris. Siam, [15] March, 1615 [1616].[^fn-p0106-1] [*Missing.*]
+### 347<br />William Adams to Ed. Saris. Siam, [15] March, 1615 [1616].[^fn-p0106-1]<br />[*Missing.*]
 
 * * *
 
 ### Letter 13: John Jourdain → East India Company
 
-### 348 John Jourdain to [the East India Company].[^fn-p0106-2]
+#### 348<br />John Jourdain to [the East India Company].[^fn-p0106-2]
 
 Laus Deo in Bantam, the 17th of March, anno 1615 [1616].
 
@@ -1013,9 +1014,9 @@ Jno. Jourdain.
 
 ### Letter 14: W. Nicholls → Agent at Bantam
 
-### 349
+#### 349
 
-### W. N[icholls] to [the Agent at Bantam].[^fn-p0110-1]
+#### W. N[icholls] to [the Agent at Bantam].[^fn-p0110-1]
 
 In Achen, the 23rd of March, 1615 [1616].
 
@@ -1029,8 +1030,9 @@ The vendiblest Serratt commodities in this place and coast are blue baftas of 60
 
 I have bought of the Ambassador of Meslepotane and other merchants of that coast, viz. :—
 
-| 6,015 pieces of Besse Mallella at 40 tayle per ml.[^fn-p0111-1] is | 240 08 |
+|  |  |
 | --- | --- |
+| 6,015 pieces of Besse Mallella at 40 tayle per ml.[^fn-p0111-1] is | 240 08 |
 | 6,150 pieces of Leda Courbow[^fn-p0111-2]: 5,000 pieces cost 6 tael 9 m. per mil.: 1,150 cost 12 mass per c.[^fn-p0111-3] maketh . . . . . . . . . | 041 07 |
 | 15 corge 15 pieces Tappie Chindas at 2½ tayle per corge . . . . . . . . . . | 039 06 |
 | 1 corge 19 pieces dragams at 7½ tayle per corge . | 014 10 |
@@ -1062,7 +1064,7 @@ W. N.
 
 * * *
 
-### 350 Agreement between Captain Castleton and the Dutch, March 16/26, 1616.[^fn-p0112-1]
+### 350<br />Agreement between Captain Castleton and the Dutch,<br />March 16/26, 1616.[^fn-p0112-1]
 
 ALSOO wij ondergeschreven Commandeur ende de Presente Raeden mondelinghe gesproocken hebben met den Generael Samuel Castelton, d' welcke met zijne vier scheepen ende een Jacht ten ancker gecomen is geweest op de Reede van Poulowaij in Banda, ende dat den voorsz. Generael geswooren ende verclaert heeft bij seeckere acte[^fn-p0113-1] onder ons berustende d'jnwoonders vandt voorsz. Eijlandt Poulowaij met minste gheenderleij assistentie heeft gedaen van eenighe Ammonitie van oorlooghe, te weeten van cruijt, loot, Coegels, lonten, ofte eenighe stucken groff gheschut, noch oock veel min van Victualie ofte Volck aen d' selve gegeven te hebben, omme die vandt voorsz. Eijlandt van Poulowaij te helpen, assisteeren ofte t'selve tegens ons meede te helpen defendeeren. Soo ist dat wij onderges. Commandeur ende de Presente Raeden aen den voorsz. Generael Castelton belooft hebben ende belooven mits deesen de Engelsen opt voorsz. Eijlandt Poulowaij, in haere loge weesend, alle faveur te doen die ons mogelijck is ; mitsgaders henluijden met alle haere Coopmanschappen t' voorsz. Eijlandt Polowaij commende te veroveren vrij ende liber van daer te laeten vertrecken, met haer Jacht daer toe door den voorsz. Generael bij ons gelaeten. Ende het voorsz. Eijlandt niet veroverende sull de voorsz. Engelsen aldaer laeten blijven in sulcker manieren als die aldaer tegenwoordich zijn. Aldus gedaen ende gegeven opt Schip t' Waepen van Amsterd. deesen 26<sup>en</sup> Martio a<sup>o</sup> 1616.
 
@@ -1076,7 +1078,7 @@ Willem van Griensven.    Ths. Zuerius, 1616.
 
 * * *
 
-### 350<span class="small-caps">a</span> English translation of the foregoing.
+### 350<span class="small-caps">a</span><br />English translation of the foregoing.
 
 WHEREAS we hereunderwritten, the Commander and the Council at present, have face to face spoken with the General Samuel Castelton, who with his four ships and a pinnace came to anchor in the road of Polloway in Banda ; and whereas the said General hath sworn and declared by a certain act remaining by us, that he hath in no manner of wise assisted the inhabitants of the foresaid island of Poulloway with any kind of munition of war, viz., powder, lead or small bullets, great bullets, match, or with any pieces of ordnance, much less with men or victuals, therewith to assist those of the said island of Poulloway or to help to defend them against us : therefore we hereunderwritten, the Commander and present Council, have promised and by these presents do promise unto the said General Castelton to do all the favour we can unto the English that are in the said island of Pollowaye, being in their lodge, and to permit them to transport themselves and their goods frank and free in their pinnace, which the said General hath left here by us, so it cometh to pass that we conquer the said island ; and so it happeneth that we do not conquer the same, we will suffer the said English to remain there in the same manner as they are at this present there. Actum et datum in the ship called the Arms of Amsterdam, the 26th of March anno 1616.
 
@@ -1094,9 +1096,9 @@ Ths. *Zuerius*, 1616.
 
 ### Letter 15: Captain Castleton and his Council → Richard Hunt
 
-### 351
+#### 351
 
-### Instructions [from Captain Castleton and his Council ?] to Richard Hunt [March, 1616 ?].[^fn-p0114-1]
+#### Instructions [from Captain Castleton and his Council ?]<br />to Richard Hunt [March, 1616 ?].[^fn-p0114-1]
 
 RICHARD HUNT, These are to give you to understand that there is an agreement between us and the Hollanders, wherein they have promised and agreed to give all the kind usage, respect and furtherance unto you that may be, and to suffer our pinnace to stay there to the performance of our business. And we are further agreed that if so be the Hollanders do conquer the island you are presently to get your goods aboard and come away ; but if it so happen the Hollanders have the repulse, then you are to stay there and trade with the country people as formerly, and despatch away the pinnace with such goods as you have, having a special care that in no wise you take any party either with the Hollanders or the country people, but keep yourself quietly in your house ; and if you misdoubt any treachery by the country people, you may get aboard the pinnace and stand off, or repair to the Hollanders, of whose friendship you may be assured. During the time of your being ashore you are to do your best endeavour for the gathering in of your debts.
 
@@ -1104,9 +1106,9 @@ RICHARD HUNT, These are to give you to understand that there is an agreement bet
 
 ### Letter 16: Richard Cocks → Richard Wickham
 
-### 352
+#### 352
 
-### Richard Cocks to Richard Wickham at Osaka or Miako.
+#### Richard Cocks to Richard Wickham at Osaka or Miako.
 
 Firando in Japon, the 30th of March, 1616.
 
@@ -1203,8 +1205,9 @@ A NOTE of goods[^fn-p0121-2] the Governor took away from divers persons out of t
 
 From Mr. Hyde.[^fn-p0121-3]
 
-| One double hatched hilt with two blades, rated at | 200 00 |
+|  |  |
 | --- | --- |
+| One double hatched hilt with two blades, rated at | 200 00 |
 | One crooked sword blade, at | 100 00 |
 | One damasked piece, at | 050 00 |
 | Two dozen of scissors, at 2 ma. per piece | 048 00 |
@@ -1213,8 +1216,9 @@ From Mr. Hyde.[^fn-p0121-3]
 
 **[Mamúdis].**
 
-| From Tho. Bonner.[^fn-p0122-1] |  |
+|  |  |
 | --- | --- |
+| From Tho. Bonner.[^fn-p0122-1] |  |
 | Two fair gilded leather looking-glasses | 050 00 |
 | Six pair of gilded tablebooks | 018 00 |
 | From Mr. Jackson. |  |
@@ -1260,7 +1264,7 @@ From Mr. Hyde.[^fn-p0121-3]
 
 ### 354
 
-### A brief of *Z*ulphekcarcon his abuses to the persons of the English in Suratt.[^fn-p0123-6]
+### A brief of *Z*ulphekcarcon his abuses to the persons of the<br />English in Suratt.[^fn-p0123-6]
 
 1. UPON any spleen he would command that no man should pass the water in 4 (?) days, to the great hindrance of our business. 2. He forbade all relief of victuals to be sold to the ships, and whipped d[ivers] poor men for selling a hen.
 
@@ -1280,7 +1284,7 @@ From Mr. Hyde.[^fn-p0121-3]
 
 10. He used the Lord Ambassador very basely, and robbed him of seven basins and ewers that were presents for the King, sending them to the Prince, [and] of divers other toys.[^fn-p0124-4] And at his departure towards the Court, n[otwith]standing the Ambassador himself showed the King's gracious fir[man] for his assistance, he neither sent him horse nor foot for his [guard], but caused himself and his goods to be stopped at the gate, n[otwith]-standing the Ambassador had presented him to the value of 2 [          ] And when the Prince sent his favourable fi [rma] en for their [          ] he answered he was Governor and if the [          ] another too [he] would do as he list.
 
-### *Abuses of the Judge of the Alfandica.*
+##### *Abuses of the Judge of the Alfandica.*
 
 - 1. The Judge of the Alfandica, for licence for two parcels of [cloth ? to] go out of Suratt, took in bribes 795 ma. ready money, besides [          ].
 - 2. Our factory at Bramport having sent for lead to serve the l [eskar ?] he will not suffer it to pass, but would enforce it for a Mala [bar that] lyes at Suratt, to carry it as is thought to the Decanns, the [Mogul's ?] enemy, and the English cannot be suffered to sell it to another.
@@ -1290,9 +1294,9 @@ From Mr. Hyde.[^fn-p0121-3]
 
 ### Letter 17: William Eaton → Richard Wickham
 
-### 355
+#### 355
 
-### William Eaton to Richard Wickham at Miako.
+#### William Eaton to Richard Wickham at Miako.
 
 Ossakey in Japon, the 8th of April, 1616.
 
@@ -1345,9 +1349,9 @@ junk for Japonn with money lent per exchange, to be paid in Japonn; also for shi
 
 ### Letter 18: John Millward → East India Company
 
-### 357
+#### 357
 
-### John Millward to the East India Company.
+#### John Millward to the East India Company.
 
 Laus Deo. Teco, the 21st of April, 1616.
 
@@ -1379,9 +1383,9 @@ John Millward.
 
 ### Letter 19: Richard Cocks → Richard Wickham
 
-### 358
+#### 358
 
-### Richard Cocks to Richard Wickham at Osaka or elsewhere.
+#### Richard Cocks to Richard Wickham at Osaka or elsewhere.
 
 Firando in Japon, the 25th of April, 1616.
 
@@ -1437,7 +1441,7 @@ English Merchant, dd. in Ossaccay, Miaco, or elsewhere.
 
 ### Letter 22: Sir Thomas Roe → Rev. William Lescke
 
-### 359 Sir Thomas Roe to the Rev. William Lescke.[^fn-p0140-1]
+#### 359<br />Sir Thomas Roe to the Rev. William Lescke.[^fn-p0140-1]
 
 MR. LESCKE, I should have been glad to have heard some news from the church, for of the world I have daily too much. Unum necesse est. Though it was not my good hap to see you at my coming away, yet I left my well wishes and shall be glad to hear of you and from you. Much I cannot do, but both your place (to which I ever owed reverence), your sincere carriage (to which I must testify) command me to offer anything in my power, which you shall freely use when you will make trial. I know too well how slightly the ministry is regarded ; but he that considers that saying of our Saviour : he that despiseth me, despiseth Him that sent me, will know God takes the injuries offered to His delegates as done to Him. I write not that I doubt any such measure toward you (your own gravity will withstand it) ; but that I may let you know my desire to carry straw to God's building, and that I had rather wait on the temple than in the courts of Princes.
 
@@ -1455,9 +1459,9 @@ Tho. Roe.
 
 ### Letter 23: Sir Thomas Roe → Prince Khurram
 
-### 360
+#### 360
 
-### Sir Thomas Roe to Prince Khurram, 1st May, 1616.[^fn-p0141-1]
+#### Sir Thomas Roe to Prince Khurram, 1st May, 1616.[^fn-p0141-1]
 
 MOST royal Prince, I cannot but confess and acknowledge the great justice you have done our nation in the debts and extortions of Zulpheckcarcon, whereof I will speedily advise my lord the most mighty King of England, that his Majesty may render your Highness condign thanks, and that your fame and renown may be known in all parts. But I cannot but grieve when I consider that your Highness' good opinion and grace towards us is averted by some misfortune or misinformation, which by many circumstances is manifested to me, principally in that favour your Highness hath declared to the Portugall, our enemies. But if your Highness were pleased to regard the difference between our proceedings and theirs, that we only desire open trade for all nations, to the enriching of your Highness' kingdoms and the advancing of your customs, whereas they have ever sought to keep in subjection your subjects, suffering none to traffic but themselves and exacting duties for licence to pass upon your seas, contrary to all honour and justice, calling their king in Europe King of India; in proof whereof our readiness to embrace peace and their obstinacy in it is sufficient witness, though their force is no way terrible to us, that are so powerful in shipping that all Europe is not able to equal his Majesty therein. And if your Highness suppose that the Portugal hath or would bring either more rarities or more profit to your port, I dare affirm your Highness hath received wrong information. First, for curious and rare toys we have better means to furnish your Highness than any other, our kingdom abounding with all arts, and our shipping trading into all the world, whereby there is nothing under the sun which we are not able to bring, if we knew your Highness' pleasure what you did most affect; whereof whensoever you shall please to give a writing you shall have experience of our readiness to do you service. Secondly, for profit, our kingdom is naturally the most fruitful in Europe, and the most abundant in all sorts of arms, cloth, and whatsoever is necessary for man's use; besides which your Highness, I suppose, knows not we yearly bring into your port in ready money 50,000 royalls of eight,[^fn-p0142-1] for which we only carry away calicoes and indigos, to the enriching of your Highness' kingdoms with silver.
 
@@ -1482,9 +1486,9 @@ A copy in Persian of the preceding document ; endorsed by Roe : Copy of my lette
 
 ### Letter 24: William Eaton → William Nealson
 
-### 362
+#### 362
 
-### William Eaton to William Nealson.
+#### William Eaton to William Nealson.
 
 In prison, the 22nd of May, 1616.
 
@@ -1525,9 +1529,9 @@ I thank you for your kind remembrance.
 
 ### Letter 25: John Browne → Benjamin Farie
 
-### 363[^fn-p0146-2]
+#### 363[^fn-p0146-2]
 
-### John Browne[^fn-p0146-3] to Benjamin Farie at Siam.
+#### John Browne[^fn-p0146-3] to Benjamin Farie at Siam.
 
 Pattanya, this 30th of May, 1616.
 
@@ -1557,9 +1561,9 @@ John Browne.
 
 ### Letter 26: William Nealson → Richard Cocks
 
-### 364
+#### 364
 
-### William Nealson to Richard Cocks at Firando.[^fn-p0148-3]
+#### William Nealson to Richard Cocks at Firando.[^fn-p0148-3]
 
 [Ikanoura, May 31, 1616.]
 
@@ -1581,7 +1585,7 @@ The secretary of Umbra was not only discontent with his former bongew about his 
 
 ### Letter 27: William Eaton → Richard Cocks
 
-### 365 William Eaton to Richard Cocks at Firando.
+#### 365<br />William Eaton to Richard Cocks at Firando.
 
 [Ikanoura], June 1, 1616.
 
@@ -1603,9 +1607,9 @@ Wm. Eaton.
 
 ### Letter 28: Richard Cocks → Wm. Eaton / Wm. Nealson
 
-### 366
+#### 366
 
-### Richard Cocks to Wm. Eaton or Wm. Nealson in Ikanoura. Firando in Japan, the 2nd of June, 1616.
+#### Richard Cocks to Wm. Eaton or Wm. Nealson in Ikanoura.<br />Firando in Japan, the 2nd of June, 1616.
 
 LOVING friends, Your several letters I have received, viz., by the bark of Ikanaura three; two of them[^fn-p0151-1] from Mr. Eaton, dated the 29th and 31st ultimo, and the other from Mr. Nealson of the 31st ditto.[^fn-p0151-2] And the timber fell out according to contents. Also presently after arrived the other bark from Langasaque with the 420 small boards, but yet are not unladen, per means of a low water. The marrkis[^fn-p0151-3] and small boards came in good time, for our carpenters were out of work, so that I bought 23 marrkis yesternight, and had bought more this morning had not these arrived when they did. So now we have marrakis and small boards enough.
 
@@ -1629,9 +1633,9 @@ Ric. Cocks.
 
 ### Letter 29: Richard Cocks → Wm. Eaton / Wm. Nealson
 
-### 367
+#### 367
 
-### Richard Cocks to Wm. Eaton or Wm. Nealson in Ikanoura.
+#### Richard Cocks to Wm. Eaton or Wm. Nealson in Ikanoura.
 
 Firando in Japon, the 4th of June, 1616.
 
@@ -1653,7 +1657,7 @@ We want no timber but boards.
 
 ### Letter 30: John Browne → Benjamin Farie
 
-### 368 John Browne to Benjamin Farie at Siam. Pattanya, the 20th of June, 1616.
+#### 368<br />John Browne to Benjamin Farie at Siam.<br />Pattanya, the 20th of June, 1616.
 
 MR. FARRYE, My last unto you was the 30th May,[^fn-p0154-1] sent by way of Legor, the which I hope is come to your hands long ere this. I wrote unto you of the death of Captain Larkin, who departed this life the 12th of May, being sick and not well since eight days. He died sooner than they thought for, which made him, I think, to make no will nor yet dispose of anything to any friend he had to the value of a penny. Yours of the 10th April[^fn-p0154-2] I have received per Mr. William the Dutch skipper,[^fn-p0154-3] with a small chest of money (the which as yet is not opened), with five jars of Japon biscuit; and for the physic you write you have sent to Captain Larkin [I have not] received any. I spake to Mr. William and he [told me] you delivered him not any. [Accordin]g to your order in your letter I [have sent] 6 peculls lead to Camboja by Orrincoy Begee Roger's junk, there [to be d]elivered to the principal for the English.
 
@@ -1673,9 +1677,9 @@ John Browne.
 
 ### Letter 31: Richard Cocks → Richard Wickham
 
-### 369[^fn-p0156-1]
+#### 369[^fn-p0156-1]
 
-### Richard Cocks to Richard Wickham [at Miako or elsewhere].
+#### Richard Cocks to Richard Wickham [at Miako or elsewhere].
 
 Firando in Japon, the 22nd of June, 1616.
 
@@ -1716,7 +1720,7 @@ Ric. Cocks.
 
 ### Letter 32: William Eaton → Richard Wickham
 
-### 370 William Eaton to Richard Wickham [at Miako or elsewhere]. Firando, the 22nd of June, 1616.
+#### 370<br />William Eaton to Richard Wickham [at Miako or elsewhere].<br />Firando, the 22nd of June, 1616.
 
 MOST loving and kind friend Mr. Wickham, I commend me unto you.
 
@@ -1738,9 +1742,9 @@ I pray you commend me unto Signor Albertus and his host, and tell him I received
 
 ### Letter 33: William Eaton → Richard Wickham
 
-### 371
+#### 371
 
-### William Eaton to Richard Wickham at Miako or elsewhere.
+#### William Eaton to Richard Wickham at Miako or elsewhere.
 
 Firando, 22nd [June], 1616.
 
@@ -1768,7 +1772,7 @@ Wm. Eaton.
 
 ### 372
 
-### A writing subscribed by three condemned men set ashore at Soldan [ha] Bay, 27th June, 1616.[^fn-p0162-2]
+### A writing subscribed by three condemned men set ashore at<br />Soldan [ha] Bay, 27th June, 1616.[^fn-p0162-2]
 
 WE whose names are hereunderwritten, being by an orderly proceeding of the laws of England convicted and condemned to suffer death, do hereby acknowledge the gracious clemency and royal favour of our Sovereign Lord King James, of England, Scotland, France and Ireland King, etc. That whereas by the laws aforesaid our lives were forfeited and present execution was to be performed upon the same, yet notwithstanding it hath pleased his gracious Majesty out of his most royal inclination to offer us mercy, granting us our forfeited lives, and, according to our own desires rather than that we should taste the sharp stroke of death, hath graciously vouchsafed to let us be transported hither into this foreign land, where by our own good endeavours, God blessing us, we hope to live and to do his Majesty and our country good and acceptable service, which we promise to perform to the uttermost of our powers. And so most heartily praying for the long continuance of his Majesty's most happy reign and a blessed prosperity to him and his royal successors, in testimony of our thankfulness for his Majesty's gracious clemency towards us, we have set our hands to this present writing.
 
@@ -1783,7 +1787,7 @@ Arthur Pilliton.
 
 ### Letter 34: King of Achin → King of England
 
-### 373 The King of Achin to the King of England.
+#### 373<br />The King of Achin to the King of England.
 
 [July, 1616.]
 
@@ -1807,15 +1811,17 @@ So praying the Almighty for your life's continuance until old age, with your rei
 
 Dated in Achen 1025 according to the rate of Slam.[^fn-p0165-2]
 
-### *Privileges at Tecoo.*
-
-With remembrance of Almighty God. I, great King of Achen, give knowledge to all people within my dominions that Orankaya Chuche Atte having entreated my letters patents for trade at Tecoo two years, I have granted the same by these presents unto him: that he shall leave what merchants and other English he please there, taking house and to trade as merchants. And if in that two years time expiration, there be not there some people to clear all thence, then the Panlyma[^fn-p0165-3] of that place of Tecoo, with other of the greater rank, to bring them for Achen with their goods; permitting no manner of person to wrong any English, but suffer them peaceably to trade as merchants, and land or lade goods at their pleasures, provided they build no castles, or land any ordnance there, but two or three muskets for their own safeties. Also the weigher to afford due weight, more nor less. Also to you all, great and small: let no wrong be done to any English in any measure. And if perhaps one, two or all the English shall chance to die, do you not seize on any their goods to my use, but let any there to the last living use his trade at pleasure; and if none shall be living, then to keep safe the goods, giving it to the next English shall there arrive. If any English ship shall be in danger to be lost, that any the merchants or men come on land and desire help, let no man deny them good usage, but help them all that may be. Also if there be bargains made by any English, they causing the Corcoune[^fn-p0165-4] of the Custom House to register the same, there shall be no revoking of bargain, but accordingly to stand to bargain. Also wheresoever any English shall be within my dominions and have by breach of my law incurred the danger of death, let not the English goods be seized on for me but remain for the other English, for that the same goods appertain to the King of England.
-
-For custom take 7 per cento out and in, according to late custom, and so hereafter continue in taking the same custom out and in. Let no man take more. Let Adeck Roga[^fn-p0166-1] with the Ponlima of Tecoo take the customs, and Adeck Roga bring them hither.
-
-Moreover, if after the two years' expiration, beginning at Orankaya Chuche Attee his arrival there, the English not gone thence, let Adeck Roga bring the English and their goods hither.
-
-These are all the privileges we could procure for our nation, though desired sundry other, which much displeased him, and we were fain to give them over, etc.
+> **[enclosure]**
+>
+> ###### *Privileges at Tecoo.*
+>
+> With remembrance of Almighty God. I, great King of Achen, give knowledge to all people within my dominions that Orankaya Chuche Atte having entreated my letters patents for trade at Tecoo two years, I have granted the same by these presents unto him: that he shall leave what merchants and other English he please there, taking house and to trade as merchants. And if in that two years time expiration, there be not there some people to clear all thence, then the Panlyma[^fn-p0165-3] of that place of Tecoo, with other of the greater rank, to bring them for Achen with their goods; permitting no manner of person to wrong any English, but suffer them peaceably to trade as merchants, and land or lade goods at their pleasures, provided they build no castles, or land any ordnance there, but two or three muskets for their own safeties. Also the weigher to afford due weight, more nor less. Also to you all, great and small: let no wrong be done to any English in any measure. And if perhaps one, two or all the English shall chance to die, do you not seize on any their goods to my use, but let any there to the last living use his trade at pleasure; and if none shall be living, then to keep safe the goods, giving it to the next English shall there arrive. If any English ship shall be in danger to be lost, that any the merchants or men come on land and desire help, let no man deny them good usage, but help them all that may be. Also if there be bargains made by any English, they causing the Corcoune[^fn-p0165-4] of the Custom House to register the same, there shall be no revoking of bargain, but accordingly to stand to bargain. Also wheresoever any English shall be within my dominions and have by breach of my law incurred the danger of death, let not the English goods be seized on for me but remain for the other English, for that the same goods appertain to the King of England.
+>
+> For custom take 7 per cento out and in, according to late custom, and so hereafter continue in taking the same custom out and in. Let no man take more. Let Adeck Roga[^fn-p0166-1] with the Ponlima of Tecoo take the customs, and Adeck Roga bring them hither.
+>
+> Moreover, if after the two years' expiration, beginning at Orankaya Chuche Attee his arrival there, the English not gone thence, let Adeck Roga bring the English and their goods hither.
+>
+> These are all the privileges we could procure for our nation, though desired sundry other, which much displeased him, and we were fain to give them over, etc.
 
 *Endorsed:* The copy of the King of Achin's letter to the King of England; with the copy of the privileges granted to the English, 1615 [1616 ?], at Captain Keeling's being there.
 
@@ -1845,8 +1851,9 @@ THAT Wm. Nicolls, his sufficiency and language considered, he to be left chief f
 
 **Goods remaining of the old Account.**
 
-| Remaining in bad and good gold | 090 | 00 |
+|  |  |  |
 | --- | --- | --- |
+| Remaining in bad and good gold | 090 | 00 |
 | Remaining by 36 pieces whites | 033 | 02 |
 | 12 skins amounting to | 001 | 10 |
 | 02 fair looking-glasses at | 002 | 00 |
@@ -1890,9 +1897,9 @@ Geo. Barkeley.        Henry Patteson.
 
 ### Letter 35: Richard Cocks → Richard Wickham
 
-### 375
+#### 375
 
-### Richard Cocks to Richard Wickham at Osaka, Miako or elsewhere.
+#### Richard Cocks to Richard Wickham at Osaka, Miako or<br />elsewhere.
 
 Firando in Japon, the 12th of July, 1616.
 
@@ -1923,9 +1930,9 @@ These fellows have also bought 2 pieces candekis abalupta, at 8½ mas per piece 
 
 ### Letter 36: William Eaton → Richard Wickham
 
-### 376
+#### 376
 
-### William Eaton to Richard Wickham at Miako or elsewhere.
+#### William Eaton to Richard Wickham at Miako or elsewhere.
 
 Firando in Japon, the 12th of July, 1616.
 
@@ -1951,9 +1958,9 @@ Wm. Eaton.
 
 ### Letter 37: Richard Cocks → Richard Wickham
 
-### 377
+#### 377
 
-### Richard Cocks to Richard Wickham at Osaka, Miako, or elsewhere.
+#### Richard Cocks to Richard Wickham at Osaka, Miako,<br />or elsewhere.
 
 Firando in Japon, the 14th of July, 1616.
 
@@ -1975,9 +1982,9 @@ If you could make barter for some of the best sort copper, it will be good. Capt
 
 ### Letter 38: Richard Wickham → Richard Cocks
 
-### 378
+#### 378
 
-### [Richard Wickham to Richard Cocks.]
+#### [Richard Wickham to Richard Cocks.]
 
 July 14, 1616.[^fn-p0174-1]
 
@@ -2001,7 +2008,7 @@ And thus, not having farther at present to enlarge, I commit you and your affair
 
 ### Letter 39: Richard Wickham → John Osterwick
 
-### 378 <span class="small-caps">a</span> [Richard Wickham] to John Osterwick [at Firando].[^fn-p0179-1]
+#### 378 <span class="small-caps">a</span><br />[Richard Wickham] to John Osterwick [at Firando].[^fn-p0179-1]
 
 [July 14 ?] 1616.
 
@@ -2011,7 +2018,7 @@ LOVING friend Mr. Osterwick, I heartily commend me, etc. My last of the 6th ditt
 
 ### Letter 40: Richard Cocks → Richard Wickham
 
-### 379 Richard Cocks to Richard Wickham.
+#### 379<br />Richard Cocks to Richard Wickham.
 
 Firando in Japon, the 15th of July, 1616.
 
@@ -2031,7 +2038,7 @@ It grieveth me I can hear no news of our junk. We want Captain Adames now.
 
 ### 379 <span class="small-caps">a</span>
 
-### Copy of the Articles or Privileges granted to the English nation by Shongo Samme, Emperor of Japon, 1616.[^fn-p0180-1]
+### Copy of the Articles or Privileges granted to the English nation<br />by Shongo Samme, Emperor of Japon, 1616.[^fn-p0180-1]
 
 Be it known unto all men that the English nation throughout all Japon in what part thereof soever they arrive with [their] shipping shall, with all convenient speed they can, retire to the town and port of Firando, there to make sale of their merchandise, defending all other places and ports whatsoever in Japon not to receive any of their goods nor merchandise ashore but at Firando only.
 
@@ -2051,9 +2058,9 @@ The conclusion is to command all Tonos (or Kings), governors and other officers 
 
 ### Letter 41: Mahábat Khán → Sir Thomas Roe
 
-### 380
+#### 380
 
-### Mahábat Khán[^fn-p0181-1] to Sir Thomas Roe.[^fn-p0181-2]
+#### Mahábat Khán[^fn-p0181-1] to Sir Thomas Roe.[^fn-p0181-2]
 
 TO Sir Thomas Roe.—I was much gratified at perusing the letter which out of affection and friendliness the august and honourable Envoy was good enough to send me. I was and am extremely anxious to meet you. I trust you will not omit to send me letters, which will always be a source of pleasure.
 
@@ -2067,9 +2074,9 @@ Rest assured of this and write me news and tidings of your health. What need be 
 
 ### Letter 42: Mahábat Khán → authorities at Broach / Ismael Beag / Hoja Begradge
 
-### 381[^fn-p0182-2]
+#### 381[^fn-p0182-2]
 
-### Mahábat Khán to the authorities at Broach.
+#### Mahábat Khán to the authorities at Broach.
 
 LIBERAL Ismael Beag and faithful Hoja Begradge, Hope ye that you shall continue in my service.
 
@@ -2083,7 +2090,7 @@ The 29 of the month Teer[^fn-p0183-1] and the 11 year of the reign of the King.
 
 ### Letter 43: Sir Thomas Roe → Lucas Antheunis
 
-### 382 Sir Thomas Roe to Lucas Antheunis at Masulipatam.[^fn-p0183-3]
+#### 382<br />Sir Thomas Roe to Lucas Antheunis at Masulipatam.[^fn-p0183-3]
 
 Adsmere, the 23rd of July, 1616.
 
@@ -2112,9 +2119,9 @@ for the East India Company, these be dd.
 
 ### Letter 44: John Gourney → Wm. Nicholls
 
-### 383
+#### 383
 
-### John Gourney to Wm. Nicholls at Achin, 23rd and 28th July, 1616.[^fn-p0186-2]
+#### John Gourney to Wm. Nicholls at Achin, 23rd and<br />28th July, 1616.[^fn-p0186-2]
 
 Bantam, the 23rd of July, 1616.
 
@@ -2134,7 +2141,7 @@ John Gourney.
 
 ### Letter 45: John Osterwick → Richard Wickham
 
-### 384 John Osterwick to Richard Wickham [at Osaka or elsewhere].
+#### 384<br />John Osterwick to Richard Wickham [at Osaka or elsewhere].
 
 Firando, the 24th day of July, anno 1616.
 
@@ -2150,7 +2157,7 @@ John Osterwick.
 
 * * *
 
-### 385 Objections against the removal of the residence of the English from Suratt to Goga.[^fn-p0191-1]
+### 385<br />Objections against the removal of the residence of the English from Suratt to Goga.[^fn-p0191-1]
 
 I. FIRST, it may be said it will displease the Prince and that he will seek to revenge it. I am sure he cannot be worse enemy than he is, and being enemy, better out of his own immediate power than in it, where he can wrong us of himself without control; but cannot do so in another's government without winning the Governor, who will not yield to his own loss; nor in the general will the King, who, though he will not relieve us against his son, yet will not be drawn to oppress us for his sake, nor he adventure to move him to it. Lastly, it is better to have him our enemy, when we may thereby purchase ourselves some friend, who for his own interest may protect us, than be subject to high injuries where no man can intermeddle for us.
 
@@ -2174,9 +2181,9 @@ Tho. Roe.
 
 ### Letter 46: John Osterwick → Richard Wickham
 
-### 386
+#### 386
 
-### John Osterwick to Richard Wickham at Osaka or elsewhere.
+#### John Osterwick to Richard Wickham at Osaka or elsewhere.
 
 Laus Deo in Firando, the 8th of August, 1616.
 
@@ -2188,8 +2195,9 @@ For the money which Mr. Nelson gave to Femeja and Oman's mother, it was, as I fo
 
 You shall receive per this bark, belonging to Queamondono, 240 peculls of saponwood, containing 1,810 sticks or logs, without any allowance of tare, because he carrieth up with him the same frame or scale of sticks, being four square, together with the cords to weigh the wood withal again, and also hath bound up in a bundle two peculls of the 240, and hath marked the ends of every several stick with a chop or mark that you may see the difference of weight if any be. We are to send up a small junk for Edoe laden with wood and alum, which I hope will be ready in few days.
 
-| [    ] weight | 240 | 00 |
+|  |  |  |
 | --- | --- | --- |
+| [    ] weight | 240 | 00 |
 
 No news that is certain of Edmund Sayres. There are junks arrived in Shasma which have been in great distress, but whose not certainly known. The Captain China and Mr. Wilmott departed yesterday for Langasaque to place Mr. Wilmott, being a stranger, to stay the coming of the junks; whom I have desired to furnish you with a pair of blue velvet, if possible they could be got; and for one pair of black, I sent per Skeete unto you with your dagger and bands and cuffs, whereof you make no mention of receipt; your girdle per Mr. Eaton; and one girdle for a token per the Spanish pilot. Mr. Bailey commends him to you and desires to be excused for not writing by reason of his sickness.
 
@@ -2209,9 +2217,9 @@ Since the writing of this letter there came to my hands a letter from you bearin
 
 ### Letter 47: John Osterwick → Richard Wickham
 
-### 387
+#### 387
 
-### John Osterwick to Richard Wickham [at Osaka or elsewhere].
+#### John Osterwick to Richard Wickham [at Osaka or elsewhere].
 
 Laus Deo in Firando, the 16th of August, 1616.
 
@@ -2236,9 +2244,9 @@ John Osterwick.
 
 ### Letter 48: John Totten → Richard Wickham
 
-### 388
+#### 388
 
-### John Totten[^fn-p0198-1] to Richard Wickham at Osaka.
+#### John Totten[^fn-p0198-1] to Richard Wickham at Osaka.
 
 Laus Deo. Ferando, this 20th of August, 1616.
 
@@ -2254,7 +2262,7 @@ John Totten.
 
 ### Letter 49: Richard Cocks → Richard Wickham
 
-### 389 Richard Cocks to Richard Wickham at Miako, Osaka or elsewhere.
+#### 389<br />Richard Cocks to Richard Wickham at Miako, Osaka or elsewhere.
 
 Shrongo in Japon, the 21st of August, 1616.
 
@@ -2282,9 +2290,9 @@ Ric. Cocks.
 
 ### Letter 50: John Osterwick → Richard Wickham
 
-### 390
+#### 390
 
-### John Osterwick to Richard Wickham at Osaka or elsewhere. [Firando, August, 1616].
+#### John Osterwick to Richard Wickham at Osaka or elsewhere.<br />[Firando, August, 1616].
 
 MR. WICKHAM, I heartily commend me unto you, etc.
 
@@ -2305,9 +2313,9 @@ Captain China hath sent for Mr. Eaton one jar of conserves, [one?] jar of neepe,
 
 ### Letter 51: John Osterwick → Richard Wickham
 
-### 391
+#### 391
 
-### John Osterwick to Richard Wickham at Osaka or elsewhere.
+#### John Osterwick to Richard Wickham at Osaka or elsewhere.
 
 Laus Deo in Firando, the 1st of September, 1616.
 
@@ -2335,9 +2343,9 @@ John Osterwick.
 
 ### Letter 52: John Millward → General Keeling
 
-### 392
+#### 392
 
-### [John Millward] to General Keeling [at Bantam ?].[^fn-p0205-1]
+#### [John Millward] to General Keeling [at Bantam ?].[^fn-p0205-1]
 
 Laus Deo. Teco, 10th September, 1616.
 
@@ -2361,7 +2369,7 @@ Sir, in divers matters I should explain myself more [largely, but ?] that Captai
 
 ### Letter 53: William Stonywell → William Sheppard
 
-### 393 William Stonywell[^fn-p0209-1] to William Sheppard[^fn-p0209-2] at Bantam.
+#### 393<br />William Stonywell[^fn-p0209-1] to William Sheppard[^fn-p0209-2] at Bantam.
 
 In Jaccatra, the 10th of September, 1616.
 
@@ -2385,9 +2393,9 @@ William Stonywell.
 
 ### Letter 54: Richard Cocks → Richard Wickham
 
-### 394
+#### 394
 
-### Richard Cocks to Richard Wickham at Miako or elsewhere.
+#### Richard Cocks to Richard Wickham at Miako or elsewhere.
 
 Edo in Japon, the 13th of September, 1616.
 
@@ -2424,9 +2432,9 @@ Signor Nicolas Machievell[^fn-p0213-1] playeth the jade. I would I could set his
 
 ### Letter 55: William Eaton → Richard Wickham
 
-### 395
+#### 395
 
-### William Eaton to Richard Wickham at Miako or elsewhere.
+#### William Eaton to Richard Wickham at Miako or elsewhere.
 
 Edo, the 13th of September, 1616.
 
@@ -2453,9 +2461,9 @@ ham, merchant, this dd. [in] Miaco or elsewhere.
 
 ### Letter 56: John Osterwick → Richard Wickham
 
-### 396
+#### 396
 
-### John Osterwick to Richard Wickham, at Osaka, Miako or elsewhere.
+#### John Osterwick to Richard Wickham, at Osaka, Miako or<br />elsewhere.
 
 Laus Deo in Firando, the 15th of September, 1616.
 
@@ -2509,9 +2517,9 @@ John Osterwick.
 
 ### Letter 57: John Osterwick → John Jourdain
 
-### 397
+#### 397
 
-### John Osterwick to John Jourdain at Bantam.
+#### John Osterwick to John Jourdain at Bantam.
 
 Laus Deo. Firando in Japon, the 21st of September, 1616.
 
@@ -2532,9 +2540,9 @@ John Osterwick.
 
 ### Letter 58: Wm. Nealson / John Osterwick → the Agent at Patani
 
-### 398
+#### 398
 
-### Wm. Nealson and John Osterwick to the Agent at Patani.
+#### Wm. Nealson and John Osterwick to the Agent at Patani.
 
 Firando in Japon, the 21st of September, 1616.
 
@@ -2557,7 +2565,7 @@ John Osterwick.
 
 ### Letter 59: William Nealson / John Osterwick → Benjamin Farie
 
-### 399 William Nealson and John Osterwick to Benjamin Farie at Siam.
+#### 399<br />William Nealson and John Osterwick to Benjamin Farie at Siam.
 
 Laus Deo in Firando, the 21st of September, 1616.
 
@@ -2590,9 +2598,9 @@ John Osterwick.
 
 ### Letter 60: John Osterwick → Benjamin Farie
 
-### 400
+#### 400
 
-### John Osterwick to Benjamin Farie at Siam.
+#### John Osterwick to Benjamin Farie at Siam.
 
 Laus Deo. Firando in Japon, the 21st September, 1616.
 
@@ -2618,9 +2626,9 @@ John Osterwick.
 
 ### Letter 61: John Totten → John Jourdain
 
-### 401
+#### 401
 
-### John Totten to John Jourdain at Bantam.
+#### John Totten to John Jourdain at Bantam.
 
 Laus Deo. Ferando, the 21st of [September, 1616].
 
@@ -2642,9 +2650,9 @@ I pray you remember my love to Mr. Gourney and Mr. Shep-pard, if not gone from t
 
 ### Letter 62: John Browne → Benjamin Farie
 
-### 401 <span class="small-caps">a</span>
+#### 401 <span class="small-caps">a</span>
 
-### John Browne to [Benjamin Farie ? at Siam].[^fn-p0227-1]
+#### John Browne to [Benjamin Farie ? at Siam].[^fn-p0227-1]
 
 [Patani, October 1st ? 1616.]
 
@@ -2772,9 +2780,9 @@ Tho. Rastell.
 
 ### Letter 63: John Osterwick → Richard Wickham
 
-### 403
+#### 403
 
-### John Osterwick to Richard Wickham.
+#### John Osterwick to Richard Wickham.
 
 Laus Deo in Firando, the 7th of October, 1616.
 
@@ -2812,9 +2820,9 @@ For your p [ills ?] you write of, the chirurgeons will furnish you; but this con
 
 ### Letter 64: Sir Thomas Roe → factors at Surat
 
-### 404
+#### 404
 
-### Sir Thomas Roe to the factors at Surat.[^fn-p0242-1]
+#### Sir Thomas Roe to the factors at Surat.[^fn-p0242-1]
 
 Adsm [ere], 15th of October, 1616.
 
@@ -2846,45 +2854,47 @@ Tho. Roe.
 
 Since the finishing of this letter I received a message from the Prince, witnessed by two letters from the Judge of the Custom House, that our people are unruly ashore; that they bring goods by force to their house in spite of him, and many such.[^fn-p0246-1] This is the abuse of private men and must be ordered. My last hath given directions that all for me be brought at once under that title, all other sent to the Governor to be offered to be sold for the Prince. What is taken there is ready money ordered for; what is refused is after free. Our own disorders cause all our trouble, and make me weary. The General should suffer none to come ashore unsearched. I hear of many young gentlemen come. The Company hath advised me to warn you to lend them no money. The fewer are left here the better. Their best will be but disorder and procure my trouble to release them. I wonder at so much easiness to agree to so great an inconvenience.
 
-A Note of such things as I desire for Presents and to content the King and Prince; part whereof shall be sold as I find fitting; which I desire may be well packed, and without search (according to the Prince's order) may be sent up to me, for which no custom is to be demanded. They shall all pass under mine name.
-
-### *First, out of the general invoice.*
-
-Four dozen of knives, so they be large and fair wrought with amber, coral, gold or silver or inlaid with glass.
-
-The figure of the lion, the buck, the greyhound, the bull, the horse, the talbot [^fn-p0247-1]; or, if you have no use of them, you may send all mentioned in yours, provided they be well formed, good shapes and undefaced. Such toys will please well for ordinary turns, and the remainder will sell.
-
-The four pieces of velvets and satins, if they be good, and rich and fresh colours. Blue is not esteemed. The King is very desirous of these and I have promised the sight of them. They shall not be given but sold ; therefore they may pass to me with presents, as sent to me for my use. They are fit for no other place, and the merchants here are of the same opinion.
-
-Six fowling-pieces, if they be fair ; else none.
-
-Some five or six branches of polished coral of the largest, to lie by upon small occasions. Such I have wanted all the last year.
-
-Some of the fairest amber and coral beads.
-
-### *From among the presents.*
-
-Both the crystal boxes ; for one the King must needs have, another Normall,[^fn-p0247-2] if they be fair. The neglect of her last year I have felt heavily.
-
-The fairest embroidered sweetbag, and that of 4 lbs., with a quantity fit of powder.
-
-Some 4 lbs. spare powder.
-
-The embroidered folding case.
-
-The embroidered pillow 27.[^fn-p0247-3]
-
-The saddle for the Prince.
-
-The sword ,, ,, ,,
-
-The picture of Venus and a Satyr,[^fn-p0247-4] if it be excellent work. The price is great ; but if the art answer it not, it is here despised. The picture of the fair lady; the King's picture; the box of hats.
-
-Any other toy rare and unseen to be found of small price in the fleet, according to my last note. Especially aligant for the King. These all I expressly require; for which I will answer to the Company.
-
-My judgment is that whatsoever remains in the note that I have not chosen, of the like nature, as all the embroidered glasses, sweetbags, and others, all the pictures, will sell best here of any part in the world; therefore what the General shall not use of necessity I wish may be sent under the same colour. I will see them converted to the Company's profit. For cases of strong waters I will give no advice; I shall use little; perhaps 20 may in time sell. The unicorn's horn I will keep as a secret, and first feel the Prince whether he will buy it, and accordingly advise in my next.[^fn-p0248-1]
-
-Remember to advise that in the presents to be sent from England they be fitted of small bulk. It easeth much of carriage and passeth unregarded. Great bulk makes great show. The like in goods, such as drinking glasses.[^fn-p0248-2]
+> **[enclosure: A Note of such things as I desire for Presents and to content the King and Prince]**
+>
+> A Note of such things as I desire for Presents and to content the King and Prince; part whereof shall be sold as I find fitting; which I desire may be well packed, and without search (according to the Prince's order) may be sent up to me, for which no custom is to be demanded. They shall all pass under mine name.
+>
+> ###### *First, out of the general invoice.*
+>
+> Four dozen of knives, so they be large and fair wrought with amber, coral, gold or silver or inlaid with glass.
+>
+> The figure of the lion, the buck, the greyhound, the bull, the horse, the talbot [^fn-p0247-1]; or, if you have no use of them, you may send all mentioned in yours, provided they be well formed, good shapes and undefaced. Such toys will please well for ordinary turns, and the remainder will sell.
+>
+> The four pieces of velvets and satins, if they be good, and rich and fresh colours. Blue is not esteemed. The King is very desirous of these and I have promised the sight of them. They shall not be given but sold ; therefore they may pass to me with presents, as sent to me for my use. They are fit for no other place, and the merchants here are of the same opinion.
+>
+> Six fowling-pieces, if they be fair ; else none.
+>
+> Some five or six branches of polished coral of the largest, to lie by upon small occasions. Such I have wanted all the last year.
+>
+> Some of the fairest amber and coral beads.
+>
+> ###### *From among the presents.*
+>
+> Both the crystal boxes ; for one the King must needs have, another Normall,[^fn-p0247-2] if they be fair. The neglect of her last year I have felt heavily.
+>
+> The fairest embroidered sweetbag, and that of 4 lbs., with a quantity fit of powder.
+>
+> Some 4 lbs. spare powder.
+>
+> The embroidered folding case.
+>
+> The embroidered pillow 27.[^fn-p0247-3]
+>
+> The saddle for the Prince.
+>
+> The sword ,, ,, ,,
+>
+> The picture of Venus and a Satyr,[^fn-p0247-4] if it be excellent work. The price is great ; but if the art answer it not, it is here despised. The picture of the fair lady; the King's picture; the box of hats.
+>
+> Any other toy rare and unseen to be found of small price in the fleet, according to my last note. Especially aligant for the King. These all I expressly require; for which I will answer to the Company.
+>
+> My judgment is that whatsoever remains in the note that I have not chosen, of the like nature, as all the embroidered glasses, sweetbags, and others, all the pictures, will sell best here of any part in the world; therefore what the General shall not use of necessity I wish may be sent under the same colour. I will see them converted to the Company's profit. For cases of strong waters I will give no advice; I shall use little; perhaps 20 may in time sell. The unicorn's horn I will keep as a secret, and first feel the Prince whether he will buy it, and accordingly advise in my next.[^fn-p0248-1]
+>
+> Remember to advise that in the presents to be sent from England they be fitted of small bulk. It easeth much of carriage and passeth unregarded. Great bulk makes great show. The like in goods, such as drinking glasses.[^fn-p0248-2]
 
 *Endorsed:* A copy of a letter to Mr. Kerridge and his assistants at Suratt, dated October 15, 1616. With a note of such things as are to be sent up to court with the presents.
 
@@ -2892,7 +2902,7 @@ Remember to advise that in the presents to be sent from England they be fitted o
 
 ### Letter 65: John Browne → John Jourdain
 
-### 405 John Browne to John Jourdain at Bantam.[^fn-p0249-1]
+#### 405<br />John Browne to John Jourdain at Bantam.[^fn-p0249-1]
 
 Laus Deo in Pattanya, the 24th of October, 1616.
 
@@ -2936,7 +2946,7 @@ John Browne.
 
 ### 406
 
-### The true copy of a Commission for a v [oyage to] Banda, set forth at Bantam the 29th of October, 1616, [            ] Swan and Defence.
+### The true copy of a Commission for a v [oyage to] Banda,<br />set forth at Bantam the 29th of October, 1616,<br />[            ] Swan and Defence.
 
 WHEREAS the Right Honourable and Right Worshipful our employers [have] at their great cost sent many ships into these parts and committed the charge thereof in the way of employment unto our disposings, it doth likewise import us, their substitutes, to extend our uttermost care and endeavour in the well-ordering of their affairs. It is therefore upon good consideration ordained, and by court and council resolved, as a course above all other at present most fitting, that the Swan, John Davey[^fn-p0255-1] master, and the Defence, John Hinsley[^fn-p0255-2] master, are by God His assistance to proceed upon a voyage for Banda ; in and over which ships goeth for commander and cape merchant Nathaniel Courthoopp, and for his seconds and assistants, viz. : in the Swan (who is to carry the flag in the main-top) Thomas Spurwaye, and in the Defence (who is to carry the flag in the foretop) Saphony Cossucke, chief factor, and Richard Huntt his second. And are to follow these directions following :
 
@@ -3013,7 +3023,7 @@ I. FIRST, according to the decrees and determinations of two general consultatio
 
 ### 408
 
-### A Commission to Alexander Child, commander of the James, for the voyage to Persia, the 6th of November, 1616.[^fn-p0265-1]
+### A Commission to Alexander Child, commander of the James, for<br />the voyage to Persia, the 6th of November, 1616.[^fn-p0265-1]
 
 I, <span class="small-caps">HENRY PEPPWELL</span>, chief commander of the fleet now riding in the road of Swally, by virtue of His Majesty's commission directed unto me under his broad seal, dated the 20th day of December in anno 1615,[^fn-p0265-2] for the commanding and governing a fleet of six sail of ships, namely the Charles of the burden of 900 tons, the Unicorn of 700 tons, the James of 600 tons, the Globe of 500 tons, the Swan of 400 tons, and the Rose of 140 tons, as also to have full power and authority to dispose of all persons whatsoever going in the said fleet : the which ships and men are set forth at the costs and charges of the Honourable Company of Merchants of London trading for the East Indies, whose instructions I am to follow, with divers other matters contained in the said commission : do give knowledge by this my present writing that by the authority aforesaid I have appointed and licensed my very loving friend Alexander Childe, commander of the James, to go unto the port of Jasques in Pertia, or to the next most convenient place or port adjoining thereunto, with his said ship, company and merchandise. And there arriving (which I pray God may be in safety) do expressly order that he attend no longer than the space and term of 25 days, and that then he make his return unto the road of Swallye with all the convenient speed he can. And do further authorize him that if he be assaulted by any, he do not only repel their forces, but do his best endeavour to take and surprise such ship or ships, and to bring them, with their goods and merchandise to the road of Swallye aforesaid ; where at his return if he shall find the fleet departed, I would have him direct his course for Bantam, where he shall receive further instructions. And in case the forenamed Alexander Childe should die (which God forbid), I do appoint Anthony Fugas to succeed in his place and command, giving the like power unto him as to the said Alexander Childe, as is before written.
 
@@ -3027,9 +3037,9 @@ Henry Pepwell.
 
 ### Letter 66: Joseph Salbank → East India Company
 
-### 408<span class="small-caps">a</span>
+#### 408<span class="small-caps">a</span>
 
-### Joseph Salbank to the East India Company. [Agra, November, 1616.][^fn-p0266-1]
+#### Joseph Salbank to the East India Company.<br />[Agra, November, 1616.][^fn-p0266-1]
 
 RIGHT Honourable and Right Worshipful Gentlemen, I am persuaded that you will reprehend me of negligence and a careless omission of my duty in that, whereas the year past 1615 every Englishman of any mean quality living in the Mogol's dominion did express and manifest his dutiful respect unto your Worships by his letters written unto you to the end to advertise you of the state and occurrences of our affairs in these parts, I, that am the ancientest servant that you have in all this country, or elsewhere, and that am obliged unto you in a nearer respect than any of the rest are, have been silent and write nothing at all. This, I say, may perhaps minister unto you an occasion of some sinister and bad opinion of me, were it not that I am able to make such an apology for myself as will satisfy, I doubt not, such discreet, wise, and judicious gentlemen as you are; the substance whereof in few words is this: that I wrote as far forth as any of the rest and discovered my mind at large unto you in my letter, but this disastrous and unhappy chance happened unto me that the patamar (for so in this country they call poor footmen that are letter-bearers) by whom I sent my letters came so late to Swally (where the ship did ride) that they were gone before my letters could come thither; which did not a little grieve me. This was the only occasion that I was frustrated of sending my letters; so that I hope you will take this for a reasonable answer that I satisfied not your expectations about the premisses. But what was wanting the last year, I supply by these my present lines, hoping that you will vouchsafe to take them in as good part as any letters that you receive at this time out of the Indies, seeing they proceed from as pure sincerity of affection and as true a heart as any of my countrymen residing in these parts doth or can bear unto you.
 
@@ -3043,7 +3053,7 @@ This little digression from my main matter I have made by the way of naming a ma
 
 Moreover I wish that you would give some order from henceforth that some of us may take some pains to discover all the parts of this country, to the end to make the more sale of our cloth, for observation sake of the most commodious places of traffic, as the Portingales do; as to the country of Bengala, that belongeth to this King, and is washed by the famous river Ganges, and to such other notable places of commerce for the vent of our commodities; which you will find much better for you than that we should live so idly as we do.
 
-Amongst other matters I hold one thing more very necessary to be propounded to the public considerations of you all. There is an eminent and worthy gentleman in this country, by nation a Tartar, called Mahobet Chan[^fn-p0273-1]; one that by his virtue and wisdom hath so much insinuated himself into the favour of this Great Mogol that he is become one of the greatest personages of his whole kingdom, and is singular well respected by his Majesty for his true allegiance, fidelity and loyalty unto him. This man, being advertised by a letter from my Lord Ambassador of the insupportable oppressions, wrongs and extortions that our nation have sustained at Surrat by the means of a cruel griping governor there, made a very courteous and loving offer unto him, by an answer of his foresaid letter,[^fn-p0273-2] of the town of Boroche, where we may safely land all our goods whatsoever, faithfully promising that we should be absolutely exempted from all such exactions and injuries as we were subject unto in Surrat. The goodness and generosity of this nobleman being considered, and his love to strangers, especially to our nation in particular, I think it very convenient for you to withdraw your trade from Surrat and to settle and plant it principally at this proffered town of Baroch, as being a place very commodious for all kinds of Indian cloth that is made in those parts, as Cambaia and other towns of some note bordering about it. Only it will be requisite for you to make some provision for two good frigates that may transport your goods from the ships to the shore, and from the shore to the ships, lest otherwise they should be intercepted by the envious Portingals; for our ships will be constrained to ride a pretty way from the shore by reason of the shoaled water. So that for the prevention of the Portingals, who would be glad of any advantage against us by taking our goods and violently carry the same away from us, you shall do very providently to make two good strong frigates of a convenient length and breadth, and that may draw four or five foot water at the most and well fitted, which will thoroughly secure our goods and violent carrying the same away from us, against the invasion of our forenamed enemies, and after [your] ships are gone will be hauled up ashore and lie safely for seven or eight months till another succeeding fleet shall come thither. If you knew so certainly as we that remain amongst these vile people what grievous villainies we have received at Surrat, and that even by the connivance and permission, or rather to speak more truly by the express commandment of Sultan Corrone, the chief lord of the place, being the King's third son and one that by an inveterate hatred wisheth ill to all Christians, you would with all expedition address your trade to Baroch. For this last year 1615 (besides at other times) the Governor of Surrat very violently extorted our goods from us against all right and reason, without making full restitution for them [          ]; for his officers did not stick to take from us our knives and money out of our pockets, being autho-rized by himself, that [          ] Governor; and cloth that he did take away in the Customhouse, and other wrongs that was offered to the tin and lead and the elephants' teeth, as was griev-ous to behold, as none of our countrymen in any other Mahometan kingdom, either Turkie, Peartia, and Barbarie, did ever suffer the like. But the capital injury that was offered us was about our cloth ; for the Governor took from us a great quantity of our better sort of cloths by as great violence as ever did thief take away any goods from a true man upon the highway, and that to your great damage and loss ; promising afterward some recompense for the same. These oppressions were [made ?] the more heinous by how much the more they were countenanced by Sultan Caroone, who at this present is going to Bra[mpore] in the country of Dackan, within ten days' journey of Surrat. He is like to insult over our nation much more than when he was farther ; and there-fore whether our trade should continue there where so many insolencies and barbarous villainies have been offered us without hope of redress, or to be rather transferred to another place where we may be secure and free from all oppressions, pray judge amongst yourselves. But hereof enough, because I believe my Lord Ambassador will more particularly inform you of these matters than I am able to do. Again, concerning one commodity that you have sent in your fleet this year, I must say that you have been very ill advised, I mean your strong waters; for they redound to less profit unto you than any other thing whatsoever you send into these parts, being for the most part prodigally spent and consumed by our own people, that have lickorous throats and are addicted to quaffing. So that when you come to survey and peruse your accounts for these matters, I am persuaded you shall take little notice of any bottles that are sold, but that most of them either leaked or were given away for presents, scarce one amongst twenty being sold. Therefore, seeing this is so true as nothing more, I would advise you to send very few strong waters here after this, but only such as you mean to give away either to the King or to such other great personage that will be well pleased with such a present.
+Amongst other matters I hold one thing more very necessary to be propounded to the public considerations of you all. There is an eminent and worthy gentleman in this country, by nation a Tartar, called Mahobet Chan[^fn-p0273-1]; one that by his virtue and wisdom hath so much insinuated himself into the favour of this Great Mogol that he is become one of the greatest personages of his whole kingdom, and is singular well respected by his Majesty for his true allegiance, fidelity and loyalty unto him. This man, being advertised by a letter from my Lord Ambassador of the insupportable oppressions, wrongs and extortions that our nation have sustained at Surrat by the means of a cruel griping governor there, made a very courteous and loving offer unto him, by an answer of his foresaid letter,[^fn-p0273-2] of the town of Boroche, where we may safely land all our goods whatsoever, faithfully promising that we should be absolutely exempted from all such exactions and injuries as we were subject unto in Surrat. The goodness and generosity of this nobleman being considered, and his love to strangers, especially to our nation in particular, I think it very convenient for you to withdraw your trade from Surrat and to settle and plant it principally at this proffered town of Baroch, as being a place very commodious for all kinds of Indian cloth that is made in those parts, as Cambaia and other towns of some note bordering about it. Only it will be requisite for you to make some provision for two good frigates that may transport your goods from the ships to the shore, and from the shore to the ships, lest otherwise they should be intercepted by the envious Portingals; for our ships will be constrained to ride a pretty way from the shore by reason of the shoaled water. So that for the prevention of the Portingals, who would be glad of any advantage against us by taking our goods and violently carry the same away from us, you shall do very providently to make two good strong frigates of a convenient length and breadth, and that may draw four or five foot water at the most and well fitted, which will thoroughly secure our goods and violent carrying the same away from us, against the invasion of our forenamed enemies, and after [your] ships are gone will be hauled up ashore and lie safely for seven or eight months till another succeeding fleet shall come thither. If you knew so certainly as we that remain amongst these vile people what grievous villainies we have received at Surrat, and that even by the connivance and permission, or rather to speak more truly by the express commandment of Sultan Corrone, the chief lord of the place, being the King's third son and one that by an inveterate hatred wisheth ill to all Christians, you would with all expedition address your trade to Baroch. For this last year 1615 (besides at other times) the Governor of Surrat very violently extorted our goods from us against all right and reason, without making full restitution for them [          ]; for his officers did not stick to take from us our knives and money out of our pockets, being autho-rized by himself, that [          ] Governor; and cloth that he did take away in the Customhouse, and other wrongs that was offered to the tin and lead and the elephants' teeth, as was griev-ous to behold, as none of our countrymen in any other Mahometan kingdom, either Turkie, Peartia, and Barbarie, did ever suffer the like. But the capital injury that was offered us was about our cloth ; for the Governor took from us a great quantity of our better sort of cloths by as great violence as ever did thief take away any goods from a true man upon the highway, and that to your great damage and loss ; promising afterward some recompense for the same. These oppressions were [made ?] the more heinous by how much the more they were countenanced by Sultan Caroone, who at this present is going to Bra[mpore] in the country of Dackan, within ten days' journey of Surrat. He is like to insult over our nation much more than when he was farther ; and therefore whether our trade should continue there where so many insolencies and barbarous villainies have been offered us without hope of redress, or to be rather transferred to another place where we may be secure and free from all oppressions, pray judge amongst yourselves. But hereof enough, because I believe my Lord Ambassador will more particularly inform you of these matters than I am able to do. Again, concerning one commodity that you have sent in your fleet this year, I must say that you have been very ill advised, I mean your strong waters; for they redound to less profit unto you than any other thing whatsoever you send into these parts, being for the most part prodigally spent and consumed by our own people, that have lickorous throats and are addicted to quaffing. So that when you come to survey and peruse your accounts for these matters, I am persuaded you shall take little notice of any bottles that are sold, but that most of them either leaked or were given away for presents, scarce one amongst twenty being sold. Therefore, seeing this is so true as nothing more, I would advise you to send very few strong waters here after this, but only such as you mean to give away either to the King or to such other great personage that will be well pleased with such a present.
 
 My Lord Ambassador hath managed his place very honorably since he came to the Mogol's court, with that frugal respect of your profit that I believe you could hardly have picked out a fitter and worthier man for the administering of his place in our whole kingdom. I perceive that certain things which he in his wisdom had projected unto himself and proposed to the factors here resident to be done concerning the altering of some places of factories, have been crossed and thwarted by certain of them who (in my opinion) are a little too saucy to confront him with terms of opposition, whose wisdom, purchased by his long experience and deep knowledge in literature, ought to exempt him from the contradiction of such novices as do so boldly presume to infringe his [verdict ?]. I understand that some of our countrymen that came with your last fleet have a design to go shortly into Persia, without taking the advice of my Lord Ambassador, who seems not to be a little displeased with them. Surely herein they are like to do somewhat inconsiderately in my opinion, for as the opinion of so worthy a gentleman, whose discretion and experience in the state of the world is very much, would have been very available unto them. So their heedless going thither, if at the best they persevere in a constant determination to prosecute their voyage without solid [consideration ?] and the advice of his Lordship, may tend exceedingly both to the hazard of their lives and to the ruin of the goods they carry with them; for the Portingals do so domineer and sway in divers principal mart towns situated upon the sea betwixt Surrat and Jasques, the port town in the Persian Gulf whither our men [design ?], being in a manner the lords and chief commanders of those seas, that I believe it will be utterly inconvenient for them to go in that naked manner as they are like to expose themselves. Notwithstanding, if they persist steadfastly in their resolution I wish them a happy issue of their designments, as that they may be graciously entertained by the King, and thrive well in the country to their heart's desire and all your goods in common.
 
@@ -3061,9 +3071,9 @@ Joseph Salbancke.
 
 ### Letter 67: Francis Fettiplace → East India Company
 
-### 409
+#### 409
 
-### Francis Fettiplace to the East India Company.
+#### Francis Fettiplace to the East India Company.
 
 Ajmere and Agra, 1st September and 26th November, 1616.
 
@@ -3117,13 +3127,13 @@ Agra, the 26 November, 1616.
 
 ### Letter 68: Sir Thomas Roe → Sir Thomas Smythe
 
-### 410
+#### 410
 
-### Sir Thomas Roe to Sir Thomas Smythe.[^fn-p0285-1]
+#### Sir Thomas Roe to Sir Thomas Smythe.[^fn-p0285-1]
 
 From the way; midnight, 27 November, 1616.
 
-SIR, An hour after I had sealed my letter[^fn-p0285-2] to you in the way, the long-expected messenger returned from Spahan whom I despatched with my letters overland and with one to the Sha-bas,[^fn-p0285-3] in answer of which William Robbins returned me a letter, the material points whereof I send you. He promiseth hope of trade to profit, but withal saith Sir Robert Shirly hath confirmed at Goa a peace with the Viceroy. But, Sir, the sum is this: except the Sha-bas be assured that we will fetch all his commodity by sea, he will not lose his other ways ; and this ship now sent in the heat of his expectation, with such goods as are not pleasing to him, will disgrace our great promises and hopes. If he take any dislike and think this is our utmost, or at least a sample of our best commodities, he will reject us quite and cast off all thought of us; and either the more constantly resolve to go through with the Spaniard, or to make peace with the Turk. One of them he must do. If I had been made privy to the purpose of your servants at Suratt in sending a ship to Jasques, I could have prevented the hazard they run; but you may now see their haste and lack of respect to me. If I left them as they are, it were just; but I am to account to you, and therefore by the assistance of this Ambassador[^fn-p0286-1] I will speedily write to the King and certify him the reason of this ship's arrival, that was not fitted for Persia, but only put in to see the port and to show our forwardness. I will entreat a contract for trade, that silk may be sent down for trial and that these goods may be vented, and that he will be pleased to give me directions for such lading as will fit him. Two things I warn you of in this trade: that to bring up your goods and fetch down theirs at your own charge 1,000 mile, I find by experience here, will eat up your profit; and though the heart of Persia be quieter and better governed, yet the way to Jasques is through Lar,[^fn-p0286-2] that is scarce in good obedience and subject to the robberies of the Balooches; therefore all caravans must have great guards of horse, and this mars the traffic of merchants and leaves it only fit for the King's power to effect. The second thing is that you be not engaged at Jasques in the same trouble and charges you are at in Suratt: for I am informed the road is worse, open to Ormus (not above five leagues distant), so that you must be enforced to maintain a fleet for defence of the trader, or hazard her yearly. These two considerations made me doubtful of sending yet, where was so small ground of profit, or if any, it is not worth charge. And whensoever the Turk and Persian make peace (for their wars are too monstrous to continue) this trade will be again diverted, for the Turk will not make any conclusion but with the liberty of the free and ancient intercourse of trade. And observe one thing well: the parts of Persia that vent cloth (which in Steele's judgment will not exceed 500 a year, a small matter, and the rest will be expected to be supplied in money) are the same that produce the silk and are nearest Turky, as Gordgestan[^fn-p0286-3] and Gilan; and to those parts cloth can be brought cheaper by Aleppo than by Jasques, the voyage at sea and land both shorter; and consequently silk will return cheaper the same way, and that in time will turn back the passage. But I would not discourage you in that I so extremely desire, but only let you know that we seek it not right from England nor with English commodities ; for it will never be a trade except you can undertake for a great quantity, whereof the numbers of cloth specified will not be an eighth part. And I cannot learn that anything in England will succour it ; but that it must rise from the southward by calicoes, baftas, shashes, spices, rubies of Pegu and suchlike, with some money. The use can be made with you of this ship is that, seeing Sir Robert Shirly hath been stayed at Goa by God's providence this year, that His Majesty will be pleased to command his Ambassador resident in Spain to be attentive upon the arrival of Shirly, that when he hath delivered his message (which I assure you he had instructions for before his coming out of Europe) he may require an audience and take notice of the Persian overture, and require the King of Spain in the name of His Majesty not to prejudice the subjects of England by this new contract, for that the Persian hath already, by his command sealed, given them free trade, and upon assurance thereof you have sent a ship : that it is a free kingdom, and if the peace or league be made to the expulsion of our nation, it is a just occasion of breach, at least a great discourtesy ; and withal to declare that if they proceed to exclude us they must resolve of a war in that quarter, for if they[^fn-p0287-1] cannot trade like merchants, they<sup>1</sup> will like men of war, and then perhaps our share may be as good as theirs. Thus will I tamper with the Sha-bas, to keep him from a resolution; for whatsoever the factors think, I am peremptory in opinion all is lost and in vain until the issue of Shirley's employment be broken and a contract made for an ample trade to come down to the port, at the Persian's charge, for all the silk is his and whensoever he can be sure to pass it any way but by Turky, he will readily embrace it. This is my opinion, which I submit to you ; and, however the factors love to run without me, I will look out to mend their faults, and, like patient Job, pray and sacrifice for them as he did for his sons, whiles they banquetted.
+SIR, An hour after I had sealed my letter[^fn-p0285-2] to you in the way, the long-expected messenger returned from Spahan whom I despatched with my letters overland and with one to the Sha-bas,[^fn-p0285-3] in answer of which William Robbins returned me a letter, the material points whereof I send you. He promiseth hope of trade to profit, but withal saith Sir Robert Shirly hath confirmed at Goa a peace with the Viceroy. But, Sir, the sum is this: except the Sha-bas be assured that we will fetch all his commodity by sea, he will not lose his other ways ; and this ship now sent in the heat of his expectation, with such goods as are not pleasing to him, will disgrace our great promises and hopes. If he take any dislike and think this is our utmost, or at least a sample of our best commodities, he will reject us quite and cast off all thought of us; and either the more constantly resolve to go through with the Spaniard, or to make peace with the Turk. One of them he must do. If I had been made privy to the purpose of your servants at Suratt in sending a ship to Jasques, I could have prevented the hazard they run; but you may now see their haste and lack of respect to me. If I left them as they are, it were just; but I am to account to you, and therefore by the assistance of this Ambassador[^fn-p0286-1] I will speedily write to the King and certify him the reason of this ship's arrival, that was not fitted for Persia, but only put in to see the port and to show our forwardness. I will entreat a contract for trade, that silk may be sent down for trial and that these goods may be vented, and that he will be pleased to give me directions for such lading as will fit him. Two things I warn you of in this trade: that to bring up your goods and fetch down theirs at your own charge 1,000 mile, I find by experience here, will eat up your profit; and though the heart of Persia be quieter and better governed, yet the way to Jasques is through Lar,[^fn-p0286-2] that is scarce in good obedience and subject to the robberies of the Balooches; therefore all caravans must have great guards of horse, and this mars the traffic of merchants and leaves it only fit for the King's power to effect. The second thing is that you be not engaged at Jasques in the same trouble and charges you are at in Suratt: for I am informed the road is worse, open to Ormus (not above five leagues distant), so that you must be enforced to maintain a fleet for defence of the trader, or hazard her yearly. These two considerations made me doubtful of sending yet, where was so small ground of profit, or if any, it is not worth charge. And whensoever the Turk and Persian make peace (for their wars are too monstrous to continue) this trade will be again diverted, for the Turk will not make any conclusion but with the liberty of the free and ancient intercourse of trade. And observe one thing well: the parts of Persia that vent cloth (which in Steele's judgment will not exceed 500 a year, a small matter, and the rest will be expected to be supplied in money) are the same that produce the silk and are nearest Turky, as Gordgestan[^fn-p0286-3] and Gilan; and to those parts cloth can be brought cheaper by Aleppo than by Jasques, the voyage at sea and land both shorter; and consequently silk will return cheaper the same way, and that in time will turn back the passage. But I would not discourage you in that I so extremely desire, but only let you know that we seek it not right from England nor with English commodities ; for it will never be a trade except you can undertake for a great quantity, whereof the numbers of cloth specified will not be an eighth part. And I cannot learn that anything in England will succour it ; but that it must rise from the southward by calicoes, baftas, shashes, spices, rubies of Pegu and suchlike, with some money. The use can be made with you of this ship is that, seeing Sir Robert Shirly hath been stayed at Goa by God's providence this year, that His Majesty will be pleased to command his Ambassador resident in Spain to be attentive upon the arrival of Shirly, that when he hath delivered his message (which I assure you he had instructions for before his coming out of Europe) he may require an audience and take notice of the Persian overture, and require the King of Spain in the name of His Majesty not to prejudice the subjects of England by this new contract, for that the Persian hath already, by his command sealed, given them free trade, and upon assurance thereof you have sent a ship : that it is a free kingdom, and if the peace or league be made to the expulsion of our nation, it is a just occasion of breach, at least a great discourtesy ; and withal to declare that if they proceed to exclude us they must resolve of a war in that quarter, for if they[^fn-p0287-1] cannot trade like merchants, they[^fn-p0287-1] will like men of war, and then perhaps our share may be as good as theirs. Thus will I tamper with the Sha-bas, to keep him from a resolution; for whatsoever the factors think, I am peremptory in opinion all is lost and in vain until the issue of Shirley's employment be broken and a contract made for an ample trade to come down to the port, at the Persian's charge, for all the silk is his and whensoever he can be sure to pass it any way but by Turky, he will readily embrace it. This is my opinion, which I submit to you ; and, however the factors love to run without me, I will look out to mend their faults, and, like patient Job, pray and sacrifice for them as he did for his sons, whiles they banquetted.
 
 I pray, Sir, remember my love to Sir James Lancaster and do me the favour to communicate to him this and my former opinions and discourses concerning Persia, both in my journal and letters. I promised them to him, but I can write no more than I have, nor in one letter so amply; and for the ceremony of not writing, he will forgive me, when he hath the substance and the assurance of my respect to him by you presented.
 
@@ -3141,7 +3151,7 @@ Tho. Roe.
 
 ### Letter 69: Sir Thomas Roe → East India Company
 
-### 411 Sir Thomas Roe to the East India Company.[^fn-p0289-1]
+#### 411<br />Sir Thomas Roe to the East India Company.[^fn-p0289-1]
 
 December 1, 1616.
 
@@ -3173,9 +3183,9 @@ Tho. Roe.
 
 ### Letter 70: John Totten → Benjamin Farie
 
-### 412
+#### 412
 
-### John Totten to Benjamin Farie, at Siam.
+#### John Totten to Benjamin Farie, at Siam.
 
 Firando, this 4th December, 1616.
 
@@ -3227,9 +3237,9 @@ Matthew Pepwall.
 
 ### Letter 71: Richard Cocks → John Browne
 
-### 414
+#### 414
 
-### Richard Cocks to John Browne at Patani.
+#### Richard Cocks to John Browne at Patani.
 
 Firando in Japon, the 16th of December, 1616.
 
@@ -3247,8 +3257,9 @@ The junk Sea Adventure arrived here this year laden with red-wood and skins. The
 
 We have sold some part of our commodities as followeth, viz. :—
 
-| Broadcloth, black, stamet, and straw-colour, at several prices | from 10 to 17 tais tattamy. |
+|  |  |
 | --- | --- |
+| Broadcloth, black, stamet, and straw-colour, at several prices | from 10 to 17 tais tattamy. |
 | Baize of like colours | from 3½ to 5 tais tattamy. |
 | Lead | from 6 to 7 tais picol. |
 | Steel | from 20 to 30 tais picol. |
@@ -3277,9 +3288,9 @@ Ric. Cocks.
 
 ### Letter 72: Edward Connock / Council → Alexander Child
 
-### 415
+#### 415
 
-### Edward Connock and Council to Alexander Child at Jask.
+#### Edward Connock and Council to Alexander Child at Jask.
 
 Tuesday, the 17th of December, 1616, two days' journey short  
 of Mogustan.[^fn-p0301-2]
@@ -3332,9 +3343,9 @@ Will. Tracy.
 
 ### Letter 73: William Eaton → Sir Thomas Smythe
 
-### 417
+#### 417
 
-### William Eaton to Sir Thomas Smythe.
+#### William Eaton to Sir Thomas Smythe.
 
 Firando in Japon, the 18th of December, 1616.
 
@@ -3372,9 +3383,9 @@ William Eaton.
 
 ### Letter 74: Edward Wilmot → Benjamin Farie
 
-### 418
+#### 418
 
-### Edward Wilmot[^fn-p0309-1] to Benjamin Farie at Siam.
+#### Edward Wilmot[^fn-p0309-1] to Benjamin Farie at Siam.
 
 Laus Deo. Firandoe, December the 18th, 1616.
 
@@ -3405,9 +3416,9 @@ I most heartily salute the ball of clay,[^fn-p0311-2] Mr. Johnson, Mr. Pitt, Joh
 
 ### Letter 75: John Osterwick → Benjamin Farie
 
-### 419
+#### 419
 
-### John Osterwick to Benjamin Farie at Siam.
+#### John Osterwick to Benjamin Farie at Siam.
 
 Laus Deo in Japon, the 19th of December, 1616.
 
@@ -3425,7 +3436,7 @@ John Osterwick.
 
 ### Letter 76: Edward Connock → Captain Alexander Child
 
-### 420 Edward Connock to Captain Alexander Child.
+#### 420<br />Edward Connock to Captain Alexander Child.
 
 The 26th of December, 1616, from Costack.[^fn-p0313-1]
 
@@ -3456,9 +3467,9 @@ I have found this Governor of Jasques, Meere Tasside, an honest Moor. I pray you
 
 ### Letter 77: Robert Hughes → East India Company
 
-### 421
+#### 421
 
-### Robert Hughes[^fn-p0315-2] to the East India Company.
+#### Robert Hughes[^fn-p0315-2] to the East India Company.
 
 Agemere, December the 28th, 1616.
 
@@ -3503,7 +3514,7 @@ I entreat these enclosed may be delivered according to their direction.
 
 ### Letter 78: George Pley → Robert Middleton / Robert Bateman
 
-### 422 George Pley[^fn-p0322-1] to [Robert] Middleton and [Robert] Bateman.[^fn-p0322-2]
+#### 422<br />George Pley[^fn-p0322-1] to [Robert] Middleton and [Robert] Bateman.[^fn-p0322-2]
 
 ['Mogustan '] December 30, 1616.
 
@@ -3523,9 +3534,9 @@ Thus with many thanks for your favours vouchsafed me, praying for the continuanc
 
 ### Letter 79: William Biddulph → East India Company
 
-### 423
+#### 423
 
-### William Biddulph to the East India Company.
+#### William Biddulph to the East India Company.
 
 Laus Deo in the Lascar of the Great Magoll, the last of  
 December, 1616.
@@ -3572,9 +3583,9 @@ Wm. Biddulph.
 
 ### Letter 80: The Factors at Surat → East India Company
 
-### I.
+#### I.
 
-### The Factors at Surat to the East India Company.[^fn-p0331-1]
+#### The Factors at Surat to the East India Company.[^fn-p0331-1]
 
 [Surat] March the 10th, 1615 [1616].
 
@@ -3718,9 +3729,9 @@ Robt. Gipps.
 
 ### Letter 81: Benjamin Farie → Richard Cocks
 
-### II.
+#### II.
 
-### [Benjamin Farie] to Richard Cocks at Firando.[^fn-p0344-1]
+#### [Benjamin Farie] to Richard Cocks at Firando.[^fn-p0344-1]
 
 In Judea,[^fn-p0344-2] the 26 May, 1616.
 
@@ -3746,9 +3757,9 @@ Further, every 1,000 p[ecco]ll of wood weighed in Siam per the King's beam makes
 
 ### Letter 82: The Factors at Surat → Sir Thomas Roe
 
-### III.
+#### III.
 
-### The Factors at Surat to Sir Thomas Roe at Ajmere.[^fn-p0347-3]
+#### The Factors at Surat to Sir Thomas Roe at Ajmere.[^fn-p0347-3]
 
 Suratt, the 26th May, 1616.
 
@@ -3790,9 +3801,9 @@ At your Lordship's command.
 
 ### Letter 83: George Woolman → Captain Pepwell
 
-### IV.
+#### IV.
 
-### George Woolman to [Captain Pepwell].
+#### George Woolman to [Captain Pepwell].
 
 Callecut, the 15th of July, 16J6.[^fn-p0356-3]
 
@@ -3820,9 +3831,9 @@ We desire your Worship, if so it please you, to let us hear from your Worship. T
 
 ### Letter 84: The Factors at Surat → Sir Thomas Roe
 
-### V.
+#### V.
 
-### The Factors at Surat to Sir Thomas Roe, July 23 & 26, 1616.[^fn-p0360-1]
+#### The Factors at Surat to Sir Thomas Roe, July 23 & 26, 1616.[^fn-p0360-1]
 
 RIGHT Honourable, Your several letters of the 12th and 21st May, the 6th and 8th June we received, which long ere this had been answered, if either our business with the Customer (yet uneffected) had required the sending of a pettimare express, or opportunity by other conveyance permitted to have certified of our proceedings. . . . Soon after the dispeed of our last, Abram Chan being returned, we prosecuted the effecting of our business according to the intent of the Prince's firmaen, wherein we found the Governor very ready and willing to further us. And having proclaimed (according to the country's custom) the Prince's pleasure in the point of the continuance of our trade, a meeting for our other business was appointed at the Custom-house, where the Governor, Sally beage,[^fn-p0360-2] and the Customer being present, divers of our goods were valued, and some things of small moment returned; and since at sundry times, though with much unwillingness, delays, and dishonesty in the Customer, all our other goods, both inward and outward, are valued at reasonable rates. . . .[^fn-p0360-3] The Judge of the Alfandica[^fn-p0360-4] by the coming of another about six days' since by order from the Prince resigned his place, whether for our cause directly or other men's is incertain, for through some violence done by him to a chief bannyane, the whole multitude assembled shut up their shops and (as their custom), after a general complaint to the Governor, left the city, pretending to go to the Court for justice, but with much fair usage and fairer promises were fetched back by Abram Chan, who joining with them informed his master of many insolencies committed by this peevish Customer, which, with your Lordship's complaint, is generally observed to be the cause of his expulsion. . . .[^fn-p0360-5]
 
@@ -3892,7 +3903,7 @@ Surratt, the 26th July, 1616.
 
 ### Letter 85: The Factors at Surat → East India Company
 
-### VI. The Factors at Surat to the East India Company, November 2 & 7, 1616.[^fn-p0374-1]
+#### VI.<br />The Factors at Surat to the East India Company, November<br />2 & 7, 1616.[^fn-p0374-1]
 
 HONOURABLE, Right Worshipful, etc., Our duties being remembered, it may please you to be advertised that by the Lion, who departed from hence towards England in February, 1615 [1616], we certified the occurrences of these parts during the time of Captain Keeling's being here; and in March following, by a ship of this place bound for Judda in the Red Sea, we wrote you more particularly of the said occurrences, directed to the English Consul at Alleppo to be conveyed unto you, which we hope he hath received and effected accordingly.[^fn-p0374-2]
 
@@ -3970,28 +3981,28 @@ Aboard the James in Swallye Road, the 7th November, 1616.
 
 ### Letter 86: Thomas Kerridge / Tho. Rastell → Sir Thomas Roe
 
-### VII.
+#### VII.
 
-### Thomas Kerridge to Sir Thomas Roe, November 18 and 19, 1616.[^fn-p0383-1]
+#### Thomas Kerridge to Sir Thomas Roe, November 18 and 19, 1616.[^fn-p0383-1]
 
 RIGHT Honourable, . . . .[^fn-p0383-2] We have much desired to send your presents, but other important business (as also the expectation of your answer) deferred our resolution until the receipt of your last, and were then dispeeding the James for Jasques, which to effect the 2nd present I went to Swally, and for other men's unreadiness was there detained (for his despatch) until the 8th ; in which time I viewed the presents and resolved to have brought them with me, but in the interim understood the Customer intended to open them and to take such as he liked for the Prince his master, which caused me to defer their landing for a further promise from the Governor, etc., who the day of my departure Surrat were returned from that journey, whereof in a former I certified you.
 
-With this resolution I returned to Suratt with two chests of money, having only in my company two factors and a couple of the ship's company for conduct of the said money ; and coming near the river, it drawing towards night, being on horseback I outstripped the rest to provide a boat for our transportation, and found two at the shore's side, wherein other people were newly entered, but by no persuasion would stay for our transport over. About a guary[^fn-p0383-3] after, the rest of my company arrived with the money, when we holloaed and shot off our pieces, yet a long time could have no reply. At the last some answered there was no licence for our passage, and arguing the case (so well as the distance permitted) we resolved for the safety of our money to seek a lodging in some village adjacent ; but seeing by our light
+With this resolution I returned to Suratt with two chests of money, having only in my company two factors and a couple of the ship's company for conduct of the said money ; and coming near the river, it drawing towards night, being on horseback I outstripped the rest to provide a boat for our transportation, and found two at the shore's side, wherein other people were newly entered, but by no persuasion would stay for our transport over. About a guary[^fn-p0383-3] after, the rest of my company arrived with the money, when we holloaed and shot off our pieces, yet a long time could have no reply. At the last some answered there was no licence for our passage, and arguing the case (so well as the distance permitted) we resolved for the safety of our money to seek a lodging in some village adjacent ; but seeing by our light we departed, they holloaed us again, whereupon we attended long in hope, to as little purpose as before. So one of the sailors desired to swim over the river to advise our people of our being there, and on that shore met the preacher's boy and another, who of their own accord took a boat and bringing it over were presently pursued by a couple of boats full of armed men, who with pieces and arrows shot at them and coming near fell to blows ; whereupon (their boats being somewhat near our shore) I, fearing some mischief to be done on our people by the multitude, waded into the river to part them and, the better to appease their fury, voluntarily entered their boats and commanded our people to the shore, proffering myself to go to the Governor to understand and argue the cause of this difference ; which they were contented with. But in my passage over a third boat (likewise armed), understanding me to be there, some of their chiefs entered the boat where I was and abused me with very despiteful and reproachful terms, as dog, infidel, and the like, using me desperately as if I should not have lived to have spoken in mine own cause, took off my shash[^fn-p0384-1] and bound my hands behind me ; whereat for the time I remained silent. And being landed at the Governor's stairs, I found him sat with all the chiefs and a multitude of attendants in arms ; before whom demanding reason of these insolences and affronts and relating the manner of my coming and usage, he gave me little reason of the cause, other than the wilfulness of his people (at whom he railed and seemed to be greatly grieved and offended), covered my head with his Pambre,[^fn-p0384-2] which I refused. In which interim, at my first coming to their presence some others reviled me, and amongst the rest the present Customer, being armed, disgracefully and unmanlike thrust me with his bow, and notwithstanding the Governor's rebuke (almost to opposition) he still insisted with threats, and I, ignorant of the least cause, could have no reason or audience. Whereat the Governor entreated me to accept a convoy to our house, which accepting, by the way (to my greater amazement) I saw at least
 
-> of Ganges [*i.e.* at Húglí], and with their boats command the river. We hear of another port, called Peepell [Pippli], about a day's journey to the northwards (*sic*) of the former upon the coast of Orishaw, belonging to this King, which reports affirms less dangerous and more useful for sale of our commodities ; whereof it may please you particularly to inform yourself, and, approving thereof, procure the King's firmaen for that or any other of these parts against the next year, which this (for want of fitting shipping, etc.) is unlikely to be attempted.' we departed, they holloaed us again, whereupon we attended long in hope, to as little purpose as before. So one of the sailors desired to swim over the river to advise our people of our being there, and on that shore met the preacher's boy and another, who of their own accord took a boat and bringing it over were presently pursued by a couple of boats full of armed men, who with pieces and arrows shot at them and coming near fell to blows ; whereupon (their boats being somewhat near our shore) I, fearing some mischief to be done on our people by the multitude, waded into the river to part them and, the better to appease their fury, voluntarily entered their boats and commanded our people to the shore, proffering myself to go to the Governor to understand and argue the cause of this difference ; which they were contented with. But in my passage over a third boat (likewise armed), understanding me to be there, some of their chiefs entered the boat where I was and abused me with very despiteful and reproachful terms, as dog, infidel, and the like, using me desperately as if I should not have lived to have spoken in mine own cause, took off my shash[^fn-p0384-1] and bound my hands behind me ; whereat for the time I remained silent. And being landed at the Governor's stairs, I found him sat with all the chiefs and a multitude of attendants in arms ; before whom demanding reason of these insolences and affronts and relating the manner of my coming and usage, he gave me little reason of the cause, other than the wilfulness of his people (at whom he railed and seemed to be greatly grieved and offended), covered my head with his Pambre,[^fn-p0384-2] which I refused. In which interim, at my first coming to their presence some others reviled me, and amongst the rest the present Customer, being armed, disgracefully and unmanlike thrust me with his bow, and notwithstanding the Governor's rebuke (almost to opposition) he still insisted with threats, and I, ignorant of the least cause, could have no reason or audience. Whereat the Governor entreated me to accept a convoy to our house, which accepting, by the way (to my greater amazement) I saw at least
-
-" What triumph crowds the rich Divan to-day  
-With turban'd heads of every hue and race,  
-* * * *  
-Like tulip-beds of different shapes and dyes,  
-Bending beneath th' invisible West wind's sighs ! "
-
-" The ' Merchant-town's ' fair market-place,  
-Where over many a changing face  
-The pigeons of the temple flit,  
-And still the outland merchants sit  
-Like kings above their merchandise,  
-Lying to foolish men and wise."
+> **[verse_insert: What triumph crowds the rich Divan to-day]**
+>
+> " What triumph crowds the rich Divan to-day  
+> With turban'd heads of every hue and race,  
+> * * * *  
+> Like tulip-beds of different shapes and dyes,  
+> Bending beneath th' invisible West wind's sighs ! "
+>
+> " The ' Merchant-town's ' fair market-place,  
+> Where over many a changing face  
+> The pigeons of the temple flit,  
+> And still the outland merchants sit  
+> Like kings above their merchandise,  
+> Lying to foolish men and wise."
 
 200 horse and I think 2,000 foot in arms; and coming home I found our people (some eight or ten in number) standing upon their guard, the rude multitude beating at our doors and throwing stones, whereof inquiring, they related the cause as followeth:
 
@@ -4459,7 +4470,7 @@ Surratt, the 19th November, 1616.
 [^fn-p0218-1]: (1) Writing-desks (see note on p. 53).
 [^fn-p0218-2]: (2) A *cha-buro*, lit. tea-furnace or bath, a small portable arrangement for heating water for tea (note by Dr. Aston).
 [^fn-p0219-1]: (1) See p. 118.
-[^fn-p0219-2]: (2) Dr. Aston has been kind enough to explain these terms. He says: '*Cungy*, which we now spell *kugi*, is the ordinary Japanese word for nail; *is-sun-go-bun*, one inch, five tenths; *sansun*, three inches; *sissun* (*shi-sun*), four inches; *nissun* (*ni-sun*), two inches; *is-sun*, one inch; *rocksun* (*roku-sun*), six inches.'
+[^fn-p0219-2]: (2) Dr. Aston has been kind enough to explain these terms. He says: '*Cungy*, which we now spell *kugi*, is the ordinary Japanese word for nail; *is-sun-go-bun*, one inch, five tenths; *san-sun*, three inches; *sissun* (*shi-sun*), four inches; *nissun* (*ni-sun*), two inches; *is-sun*, one inch; *rocksun* (*roku-sun*), six inches.'
 [^fn-p0220-1]: (1) Not extant.
 [^fn-p0221-1]: (1) Thomas Coryat, the ' Odcombian leg-stretcher,' whose oddities furnished great amusement to his contemporaries. For a note on his Asian travels, see *The Embassy of Sir Thomas Roe,* p. 103.
 [^fn-p0221-2]: (2) See p. 132.
@@ -4788,7 +4799,7 @@ Surratt, the 19th November, 1616.
 [^fn-p0380-3]: (3) Some words appear to be wanting here; possibly we should read: 'transferred to the Swan at the Cape and dispeeded,' etc.
 [^fn-p0382-1]: (1) See vol. iii., Introduction, p. xxxvii.
 [^fn-p0382-2]: (2) Sátgáon, in the Húglí river.
-[^fn-p0382-3]: (3) On December 12, 1616, the factors wrote to Roe: 'Here is not now fit shipping for the discovery of Port Pequino, which (according to your Lordship's information) we understand to be no fitting port for us. The Porting[al] hath a city on that part
+[^fn-p0382-3]: (3) On December 12, 1616, the factors wrote to Roe: 'Here is not now fit shipping for the discovery of Port Pequino, which (according to your Lordship's information) we understand to be no fitting port for us. The Porting[al] hath a city on that part of Ganges [*i.e.* at Húglí], and with their boats command the river. We hear of another port, called Peepell [Pippli], about a day's journey to the northwards (*sic*) of the former upon the coast of Orishaw, belonging to this King, which reports affirms less dangerous and more useful for sale of our commodities ; whereof it may please you particularly to inform yourself, and, approving thereof, procure the King's firmaen for that or any other of these parts against the next year, which this (for want of fitting shipping, etc.) is unlikely to be attempted.'
 [^fn-p0383-1]: (1) From a copy in *Factory Records : Surat*, vol. lxxxiv., part i., f. 114.
 [^fn-p0383-2]: (2) The first eight paragraphs have been omitted, as they contain nothing of special importance.
 [^fn-p0383-3]: (3) Hind. *ghari*, meaning, as an interval of time, about twenty-four minutes. In ordinary Anglo-Indian parlance it is used as equivalent to an hour.
@@ -4826,9 +4837,9 @@ Surratt, the 19th November, 1616.
 
 ### Letter 87: Edmund Sayers → Captain John Saris
 
-### VIII.
+#### VIII.
 
-### Edmund Sayers to [Captain John Saris ?] .[^fn-p0394-2] Firando in Japan, December 4, 1616.
+#### Edmund Sayers to [Captain John Saris ?] .[^fn-p0394-2]<br />Firando in Japan, December 4, 1616.
 
 WORSHIPFUL Sir, My humble duty always remembered. Having so fit an opportunity I could not choose but trouble your Worship with these few lines, I being but newly arrived here in Firando, of a hard and tedious voyage from Siam, which went in a junk of the Right Honourable Company's, Mr. Adams being master and myself factor in her. Having bought more goods than we could lade, we freighted another junk for Japan. Mr. Benjamin Fary, being principal of the factory of Siam, thought it fit for me to go in this junk for Japan, for the safeguard of the Worshipful Company's goods ; wherein I took my voyage, the year being far spent, that we were from the first of June to the seventeenth of September between Siam and Shachmar, with much torments and foul weather, having lost twenty of our men with sickness and want of fresh water. The greatest occasion of this first was for want of a good pilot ; for we had a China pilot, which had no understanding of navigation ; for when he was out of sight of the land, he knew not where he was nor what course to take. Then he falling sick was not able to creep out of his cabin, I being forced, with the small skill I had, to do my best ; and with the help of God brought the junk safe to Shachmar, where we arrived the seventeenth of September, having but five men able to stand on their legs ; coming so late to Firando that I could not go this year to Siam, but the Company's junk is gone with Mr. Wil. Eaton and two English pilots, whose names are Robert Burges and John Burges.
 
@@ -4840,7 +4851,7 @@ Edmond Sayer.
 
 ### ADDENDUM
 
-### *To Note on page* 241.
+##### *To Note on page* 241.
 
 Since the note on page 241, relating to ' Newty ' and ' Jerry ' indigo, was printed, the following memorandum has been received, through Dr. Watt, C.I.E., from Mr. H. A. Baily, of Etáwah :—
 

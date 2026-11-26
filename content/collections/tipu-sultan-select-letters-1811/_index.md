@@ -19,19 +19,19 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 431,
+  "letters": 436,
   "notes": 1300,
   "pages": 670,
   "dated_letters": 49
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 79.0,
+  "score": 74.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 20.0,
+    "score": 15.0,
     "out_of": 30.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 138,
+  "flagged": 193,
   "blockers": 0
  },
  "proof": {
@@ -64,7 +64,7 @@
   "verified": 0,
   "machine_reread": 53
  },
- "page_kinds": "ffffffffLLLffffffffffffffffffffffffffffffffffffffffffffffff.LLnnnLLLnnLLLLLLLnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLnnnLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnnLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLnLLLLLLLLLLLnnLLLnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnnnnnnnLLnnnnaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaLaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaiiiiiiiiii",
+ "page_kinds": "ffffffffLLLffffffffffffffffffffffffffffffffffffffffffffffff.LLnnnLLLnnLLLLLLLnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLnnnLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnnLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLnLLLLLLLLLLLnLLLLnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnnnnnnnLLnnnnaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaLaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaiiiiiiiiii",
  "page_runs": [
   [
    "f",
@@ -200,11 +200,11 @@
   ],
   [
    "n",
-   2
+   1
   ],
   [
    "L",
-   3
+   4
   ],
   [
    "n",
@@ -294,7 +294,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 431,
+ "unperiodised_count": 436,
  "frontispiece": {},
  "title_page": {
   "page": 7,
@@ -304,27 +304,27 @@
   {
    "format": "epub",
    "file": "tipu-sultan-select-letters-1811.epub",
-   "bytes": 650457,
-   "sha256": "87dba54277ba9fe2e537ca605544c395a95734083eea4f6c9487d8516d43f90b"
+   "bytes": 652637,
+   "sha256": "621a3ea6b2620b719925b7bb77e48f4177c521585663e5cc25051c92358e494f"
   },
   {
    "format": "markdown",
    "file": "tipu-sultan-select-letters-1811.md",
-   "bytes": 1404593,
-   "sha256": "67f418dff747d6005f6219388e6fde62549c511fe785d94a43b926f3b76a7db1"
+   "bytes": 1407140,
+   "sha256": "e2437b4816cf6c87bc344d088da4b80f91a4b10912b31b2b6e92d2866190fca2"
   },
   {
    "format": "tei",
    "file": "tipu-sultan-select-letters-1811.tei.xml",
-   "bytes": 2015521,
-   "sha256": "e22225ea3a4970dd3507aaec396490c5cc6cf145001d140646461534bc1d1ba4"
+   "bytes": 2050164,
+   "sha256": "2661ab6ac0cf8e488c96f18cc4e6150a1c415842a7a6f5cc19a4a768033d2f26"
   }
  ],
  "scan_base": "https://archive.org/download/selectlettersoft00tipu/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-v1",
-  "compiled_at": "2026-11-22T08:00:19Z",
-  "source_ast_sha256": "2cb8314079c49ad71422a4b39eff99a576d9f26489cbb2b174b4e694ea448098",
+  "compiled_at": "2026-11-24T19:24:50Z",
+  "source_ast_sha256": "cdaa828e6c0521205ad003c108a202ab56fa78b9f864adc0d1e4caa5f82adcd4",
   "hugo_renderer_version": "1.0.0"
  }
 }

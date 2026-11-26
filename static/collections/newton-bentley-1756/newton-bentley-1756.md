@@ -17,7 +17,7 @@ M DCC LVI.
 
 ### Letter 1: Is. Newton → Richard Bentley
 
-### LETTER I.
+#### LETTER I.
 
 *To the Reverend Dr.* <span class="small-caps">Richard</span>  
 <span class="small-caps">Bentley,</span> *at the Biſhop of*  
@@ -55,7 +55,7 @@ Decemb. 10, 1692.
 
 ### Letter 2: Is. Newton → Mr. Bentley
 
-### LETTER II.
+#### LETTER II.
 
 *For Mr.* <span class="small-caps">Bentley,</span> *at the Palace  
 at Worceſter.*
@@ -90,7 +90,7 @@ Jan. 17, 1692-3.
 
 ### Letter 3: Is. Newton. → For Mr. Bentley, at the Palace at Worceſter.
 
-### LETTER III.
+#### LETTER III.
 
 *For Mr.* <span class="small-caps">Bentley</span>, *at the Palace  
 at Worceſter.*
@@ -124,7 +124,7 @@ Feb. 25, 1692-3.
 
 ### Letter 4: Is. Newton → Mr. Bentley
 
-### LETTER IV.
+#### LETTER IV.
 
 *To Mr.* <span class="small-caps">Bentley</span>, *at the Palace  
 at Worceſter.*

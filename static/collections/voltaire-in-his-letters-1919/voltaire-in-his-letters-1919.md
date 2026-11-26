@@ -7,7 +7,7 @@
 
 ## Frontmatter
 
-### ***By S. G. Tallentyre***
+#### ***By S. G. Tallentyre***
 
 * * *
 
@@ -23,7 +23,7 @@ nunc carus amicis.
 VOLTAIRE AS A YOUNG MAN  
 *From the portrait by de la Tour*
 
-### Voltaire in His Letters Being A Selection from His Correspondence
+### Voltaire in His Letters<br />Being<br />A Selection from His Correspondence
 
 Translated  
 With a Preface and Forewords  
@@ -349,11 +349,11 @@ From the portrait by Schoff.
 
 ### Letter 1: Arouet → Mdlle. Dunoyer
 
-### I
+#### I
 
-### ARRANGING AN ELOPEMENT
+#### ARRANGING AN ELOPEMENT
 
-### *To Mdlle. Dunoyer*
+#### *To Mdlle. Dunoyer*
 
 [<span class="small-caps">At</span> the date of this letter, François Marie Arouet, afterwards Voltaire, was nineteen. Having announced to his father his intention of living by his pen, he was sent to the Hague as attaché to the French Ambassador to the Netherlands, the Marquis de Châteauneuf. There he fell in love with Mdlle. Dunoyer—familiarly “Pimpette”—the daughter of a mother both impecunious and *déclassée*. Voltaire’s love-letters show the ardour, the quick vivacity, the resourcefulness, and the audacity which belonged to his temperament from the cradle to the grave: and serve to prove his own aphorism, “Love is the strongest of all the passions because it attacks at once the head, the heart, and the body.” The excitement and delightfulness of *this* passion were increased fourfold by the active disapproval of the Ambassador and of Pimpette's mother—the Ambassador going so far as to imprison his attaché, on parole, which he broke, climbed out of the window, and *did* fly with Pimpette "*like the wind*," as the letter proposes, to five-mile distant Scheveningen, where she wrote, under his direction, the "*necessary letters*" intended to help the scheme of further elopement to Paris.]
 
@@ -365,11 +365,11 @@ I am here as the King's prisoner. They may rob me of my life, but not of my love
 
 ### Letter 2: Arouet → Mdlle. Dunoyer
 
-### II
+#### II
 
-### THE COURSE OF TRUE LOVE
+#### THE COURSE OF TRUE LOVE
 
-### *To Mdlle. Dunoyer*
+#### *To Mdlle. Dunoyer*
 
 [Five days after writing this letter, Arouet was despatched back to Paris and to his father, as incorrigible.]
 
@@ -381,11 +381,11 @@ I only heard yesterday, my dear, that you were ill—as a result of all the worr
 
 ### Letter 3: Arouet → Mdlle. Dunoyer
 
-### III
+#### III
 
-### THE END OF A PASSION
+#### THE END OF A PASSION
 
-### *To Mdlle. Dunoyer*
+#### *To Mdlle. Dunoyer*
 
 [Directly he was back in Paris, the lover brought all his fervid energies to bear on a scheme for getting Pimpette there, through the agency of the Jesuits—a lost Protestant lamb for the Roman fold. This scheme was nipped in the bud by old Arouet obtaining a *lettre-de-cachet* for his scape-grace. In a year or two Pimpette became the Countess of Winterfeld: and some years later still her mother, an unscrupulous person who lived by her wits, published some of the famous Voltaire's letters to her daughter. This letter, which is the last one extant of Voltaire's to his first love, bears some evidence that his affections were cooling: and ampler evidence that Pimpette's had cooled first.]
 
@@ -397,11 +397,11 @@ February 10, 1715.
 
 ### Letter 4: Arouet → Lieutenant of Police
 
-### IV
+#### IV
 
-### ON BEING LIBERATED FROM THE BASTILLE
+#### ON BEING LIBERATED FROM THE<br />BASTILLE
 
-### *To the Lieutenant of Police*
+#### *To the Lieutenant of Police*
 
 [In 1717, Arouet, now one and twenty and beginning to be known as a man of letters, was held responsible for two stinging satires—which he had not written—on the evil state of France and on the evil life of the Regent Orléans: and was put in the Bastille—an experience which all literary men of his time and country went through as certainly as children go through measles, and, sometimes, with no more suffering. Allowed pens and ink, as well as friends, good food, and wine, Arouet employed his leisure in conceiving and beginning his epic poem, the *Henriade*, and in changing his name to Voltaire. In April, 1718, he was released from the Bastille and exiled to Châtenay (the paternal home) before being allowed to return to Paris. This letter is notable for the extreme agility with which the writer catches the Lieutenant of Police and the Regent in a net of gratitude for past favours—to assure himself of more to come: and for the fact that, if Voltaire had not satirized the Regent, he was perfectly aware, for all his flattering protestations, that his character was remarkably corrupt in an age when in high places corruption was rather the rule than the exception.]
 
@@ -423,11 +423,11 @@ With the profoundest respect, I am, sir, your most humble, obedient servant,
 
 ### Letter 5: Voltaire → Baron de Breteuil
 
-### V
+#### V
 
-### ON AN ATTACK OF SMALLPOX
+#### ON AN ATTACK OF SMALLPOX
 
-### *To the Baron de Breteuil*
+#### *To the Baron de Breteuil*
 
 [In 1723, Voltaire, when a guest in the country house of his friend, M. de Maisons, at St. Germain's, developed smallpox. This letter has a curious interest in its revelation of the medical science, and ignorance, of the day—especially in reference to the treatment and the (supposed) course of the then most inevitable of all diseases—and in showing Voltaire's (comparative) enlightenment on the subject. For this was the epoch when men died like flies, not from disease, but from the doctor, and when Dr. Tronchin, one of the few wise medical men of the age, had crystallised his professional advice into the phrase, “Dare to do nothing; fear the physicians more than the disease.” Even in smallpox, Voltaire dared to do—almost—nothing, and so saved a frail body and one of the most vigorous minds in history for another five and forty years of Herculean labours. It will be noticed that, apparently, no disinfection of the sick room was attempted, so that the fire which accidentally destroyed it was a blessing in disguise.
 
@@ -472,7 +472,7 @@ Nothing comforted me so much in my illness as the interest you took in it, the k
 
 I was impatiently awaiting the moment when I could escape the Maisons' kindness and cease to be a burden to them. The greater their goodness, the greater my anxiety not to impose on it. At last, on December 1st, I was fit to travel to Paris. A fatal day! I was scarcely two hundred yards from the château, when a part of the flooring of the room I had occupied burst into flames. The rooms adjoining and above, and their valuable furniture, were all totally destroyed, the loss being estimated at a hundred thousand livres, and without the help of the fire engines which were sent for from Paris, one of the most beautiful buildings in the kingdom would have been totally destroyed.
 
-This extraordinary news was hidden from me: I was only told of it on my recovery: you can imagine my state of mind: you know the generous kindness I had received from M. de Maisons: I had been treated in his house like his brother, and the reward of his goodness was the burning down of his house! I could not conceive how the conflagration had developed so rapidly in my bedroom, as I had left there only a small fire on the hearth, nearly out. I found out that the cause was a beam which was just under the fireplace. This defect in construction has been corrected in modern buildings: the frequent fires which it occasioned made it necessary to pass laws forbidding so dangerous an arrangement. The beam I speak of was gradually set on fire by the heat of the hearth, immediately above it: and by a strange chance, on which I can hardly congratulate myself, the fire, which had been smouldering for two days, only burst out after I had left.
+This extraordinary news was hidden from me: I was only told of it on my recovery: you can imagine my state of mind: you know the generous kindness I had received from M. de Maisons: I had been treated in his house like his brother, and the reward of his goodness was the burning down of his house! I could not conceive how the conflagration had developed so rapidly in my bed-room, as I had left there only a small fire on the hearth, nearly out. I found out that the cause was a beam which was just under the fireplace. This defect in construction has been corrected in modern buildings: the frequent fires which it occasioned made it necessary to pass laws forbidding so dangerous an arrangement. The beam I speak of was gradually set on fire by the heat of the hearth, immediately above it: and by a strange chance, on which I can hardly congratulate myself, the fire, which had been smouldering for two days, only burst out after I had left.
 
 I was not the cause of this accident; but I was its unhappy occasion: it grieved me as much as if I had been actually responsible for it: the fever came back, and I assure you that, at that moment, I did not thank M. de Gervasi for having saved my life.
 
@@ -480,11 +480,11 @@ M. and Mme. de Maisons took the news more calmly than I did: their generosity wa
 
 ### Letter 6: Voltaire → Minister for the Department of Paris
 
-### VI
+#### VI
 
-### THE PRISONER DICTATES
+#### THE PRISONER DICTATES
 
-### *To the Minister for the Department of Paris*
+#### *To the Minister for the Department of Paris*
 
 [Voltaire, having engaged in a quarrel with the “*Chevalier de Rohan*,” the representative of the haughtiest family in France, challenged him to a duel. The Chevalier replied by a warrant to imprison his enemy, who thus found himself for a second time in the Bastille. The contempt and satire the writer permits himself in this petition to be sent to England prove that he knew well the power of “l’audace, l’audace, et toujours de l’audace”—provided always the audacity has brains and character to back it. The result of his demand was his exile in England for nearly three years, and his famous work, the *English Letters*, which bear such striking witness to his keen observation and admiration of the British character and constitution.]
 
@@ -494,11 +494,11 @@ M. de Voltaire ventures humbly to point out that an attempt has been made to ass
 
 ### Letter 7: Voltaire → M. Thériot
 
-### VII
+#### VII
 
-### ON THE ADVANTAGES OF LIVING IN ENGLAND
+#### ON THE ADVANTAGES OF LIVING IN<br />ENGLAND
 
-### *To M. Thériot.*
+#### *To M. Thériot.*
 
 [This letter was written after a brief stolen visit to Paris, during the English exile. The contrast between the stolid and silent gloom of the ordinary Briton in misfortune and the lively and active despair—ay, with a certain enjoyment in that despair—of an essentially Gallic temperament is noticeable.
 
@@ -516,11 +516,11 @@ I can cheerfully renounce my pensions from the King and Queen: my only regret be
 
 ### Letter 8: Voltaire → Dean Swift
 
-### VIII
+#### VIII
 
-### MAKING A BARGAIN
+#### MAKING A BARGAIN
 
-### *To Dean Swift*
+#### *To Dean Swift*
 
 [While in England Voltaire met, among many other celebrities of these islands, Jonathan Swift: and the following letter asks the Dean of St. Patrick's to permit a dedication to him of that *Essay on the Civil Wars of France*, a presentation copy of which is now in the British Museum, inscribed on the fly-leaf in Voltaire's neat little handwriting, “to Sr han Slone from his most humble servant voltaire.” Sir Hans Sloane was the President of the Royal Society. Voltaire's definition of Swift as “Rabelais in his senses” is well known.]
 
@@ -544,11 +544,11 @@ I am, sir, with the profoundest esteem, your very humble and obedient servant,
 
 ### Letter 9: Voltaire
 
-### IX
+#### IX
 
-### ON THE TREATMENT OF SORROW
+#### ON THE TREATMENT OF SORROW
 
-### *To* . . . .
+#### *To* . . . .
 
 [Written from England to an anonymous friend in bereavement. Voltaire had lately lost his elder sister, Catherine, Mme. Mignot, who had mothered him in his childhood, and to whom he was deeply attached. This letter—commonly called The Letter of Consolation—gives evidence of a deeper feeling than Voltaire is usually credited with, and of the healing wisdom that comes from the heart. His life gave proof of his fidelity to a memory, in his unvarying kindness to Mme. Mignot's three children—Mme. Denis, Mme. de Fontaine, and the Abbé Mignot.]
 
@@ -580,11 +580,11 @@ These are counsels which, like so many others, are no doubt easier to give than 
 
 ### Letter 10: Voltaire → Mdlle. Dangeville
 
-### X
+#### X
 
-### CONSOLING A FAILURE
+#### CONSOLING A FAILURE
 
-### *To Mdlle. Dangeville*
+#### *To Mdlle. Dangeville*
 
 [Written after the production of Voltaire's Roman tragedy *Brutus,* in which the youthful Mdlle. Dangeville played, very badly, the important part of Tullie. No other playwright, surely, —not even another Frenchman,—ever reassured a timid *ingénue* who had spoilt his piece with more delicacy and consideration.]
 
@@ -600,11 +600,11 @@ Farewell: it depends on yourself to be divine to-morrow.
 
 ### Letter 11: Voltaire → M. Bertin de Rocheret
 
-### XI
+#### XI
 
-### ON WRITING CONTEMPORARY HISTORY
+#### ON WRITING CONTEMPORARY HISTORY
 
-### *To M. Bertin de Rocheret*
+#### *To M. Bertin de Rocheret*
 
 [In the autumn of 1730, Voltaire had had ready for publication his bold and vigorous "*History of Charles XII*" of Sweden, which, written in England, contained so much of the "noble liberty of thinking" he had admired in our country, that the French authorities seized and prohibited it. By October, 1731, he had had it secretly reprinted and introduced into Paris, where it was widely read.]
 
@@ -620,11 +620,11 @@ I am, etc.
 
 ### Letter 12: Voltaire → First Commissioner
 
-### XII
+#### XII
 
-### ON THE LIBERTY OF THE PRESS: AND ON THEATRES
+#### ON THE LIBERTY OF THE PRESS: AND<br />ON THEATRES
 
-### *To a First Commissioner*
+#### *To a First Commissioner*
 
 [The extreme severity of the French censorship of the press in the eighteenth century must be borne in mind in reading this letter. Almost every French author whose works expressed speculative opinions expiated them in the Bastille, and his printer and publisher at the galleys.
 
@@ -656,11 +656,11 @@ You, sir, who have at least some small opportunity of giving good advice, try an
 
 ### Letter 13: Voltaire → Mme. de Champbonin
 
-### XIII
+#### XIII
 
-### ON GETTING INTO A HOUSE
+#### ON GETTING INTO A HOUSE
 
-### *To Mme. de Champbonin*
+#### *To Mme. de Champbonin*
 
 [In 1734 Voltaire, in order to avoid arrest consequent on the appearance of his *English Letters* , went to the Château of Cirey-sur-Blaise in Champagne, a country house of the Marquis and Marquise du Châtelet. The Marquise, one of the most brilliantly accomplished women of her generation—perhaps of any generation—was for fifteen years Voltaire's mistress, and for that fifteen years Cirey was his home.
 
@@ -676,11 +676,11 @@ Mme. du Châtelet, in the midst of this confusion, is quite lively and charming.
 
 ### Letter 14: Voltaire → Mme. la Comtesse de la Neuville
 
-### XIV
+#### XIV
 
-### ON THE SAME SUBJECT
+#### ON THE SAME SUBJECT
 
-### *To Mme. la Comtesse de la Neuville*
+#### *To Mme. la Comtesse de la Neuville*
 
 <span class="small-caps">Cirey</span>, 1734.
 
@@ -688,11 +688,11 @@ It seems an age since I have seen you. Mme. du Châtelet fully intended coming t
 
 ### Letter 15: Voltaire → Abbé d’Olivet
 
-### XV
+#### XV
 
-### ON THE “PUCELLE” AND THE “CENTURY OF LOUIS XIV”
+#### ON THE “PUCELLE” AND THE “CENTURY<br />OF LOUIS XIV”
 
-### *To the Abbé d’Olivet*
+#### *To the Abbé d’Olivet*
 
 [*The Abbé d’Olivet,* to whom this letter is addressed, had been Voltaire’s tutor at the School of Louis-le-Grand and remained his friend for more than fifty years.
 
@@ -716,11 +716,11 @@ Did you know that I staged, a little while ago, at the Collège d’Harcourt, a 
 
 ### Letter 16: Voltaire → Frederick, Prince Royal of Prussia
 
-### XVI
+#### XVI
 
-### ON FREE-THINKING IN PRINCES
+#### ON FREE-THINKING IN PRINCES
 
-### *To Frederick, Prince Royal of Prussia*
+#### *To Frederick, Prince Royal of Prussia*
 
 [In August, 1736, Voltaire had begun a correspondence, and one of the most famous and chequered friendships in history, with the young prince who became Frederick the Great of Prussia.
 
@@ -752,11 +752,11 @@ Your noble character encourages me thus to think aloud to your Royal Highness. I
 
 ### Letter 17: Voltaire → Frederick, Prince Royal of Prussia
 
-### XVII
+#### XVII
 
-### ON GOD, THE SOUL, AND INNATE MORALITY
+#### ON GOD, THE SOUL, AND INNATE<br />MORALITY
 
-### *To Frederick, Prince Royal of Prussia*
+#### *To Frederick, Prince Royal of Prussia*
 
 [Three things are always conspicuous in Voltaire when he treats of grave subjects—the extreme neatness and clearness of his ideas, their rapid sequence, and the tincture of levity that inevitably creeps in somewhere. Joubert said that Voltaire was never serious. It would be truer to say he was never reverent. The paper “*On Liberty*” was enclosed.]
 
@@ -784,9 +784,9 @@ Put two men on the globe, and they will only call good, right, just, what will b
 
 ### Letter 18: Voltaire → M. Thériot
 
-### XVIII ON THE MARRIAGE OF VOLTAIRE'S NIECES
+#### XVIII<br />ON THE MARRIAGE OF VOLTAIRE'S NIECES
 
-### *To M. Thériot*
+#### *To M. Thériot*
 
 [These nieces were the daughters of Voltaire's sister Catherine, Mme. Mignot, to whom he had been so deeply attached. The elder, Louise, who eventually became Mme. Denis and no small factor in her uncle's life, he is proposing in this letter to marry to a relative of his Cirey neighbour, Mme. de Champbonin. This *parti*—and the prospect of living in "our little earthly Paradise" near Cirey—Louise declined, preferring M. Denis and Paris. The younger sister also preferred to choose her husbands herself, and became successively Mme. de Fontaine and the Marquise de Florian.]
 
@@ -804,11 +804,11 @@ I can assure you, I purpose nothing but Mdlle. Mignot's happiness, but she must 
 
 ### Letter 19: V. → Mdlle. Quinault
 
-### XIX
+#### XIX
 
-### ON A QUIET LIFE AND A FIT OF DISCOURAGEMENT
+#### ON A QUIET LIFE AND A FIT OF<br />DISCOURAGEMENT
 
-### *To Mdlle. Quinault*
+#### *To Mdlle. Quinault*
 
 [Mdlle. Quinault, a charming actress, chiefly of light comedy, was also a witty and cultivated woman of the world. She had suggested to Voltaire the subject of his play the *Prodigal Son* and herself played a part in it. She retired from the boards when she was forty, in 1741, but lived until 1783—gay, sociable, delightful, to the end.
 
@@ -842,11 +842,11 @@ Mme. du Châtelet's kindest regards. Once again, Mademoiselle, only warmest reme
 
 ### Letter 20: Voltaire → Abbé le Blanc
 
-### XX
+#### XX
 
-### ON THE FRENCH AND ENGLISH
+#### ON THE FRENCH AND ENGLISH
 
-### *To the Abbé le Blanc*
+#### *To the Abbé le Blanc*
 
 [*The Abbé le Blanc* had published a work on England, which he knew well.]
 
@@ -856,11 +856,11 @@ You have, sir, a thousand claims on my esteem and friendship—you are an Englis
 
 ### Letter 21: Voltaire → M. Thériot
 
-### XXI
+#### XXI
 
-### ON TREACHERY
+#### ON TREACHERY
 
-### *To M. Thériot*
+#### *To M. Thériot*
 
 [Since 1735 Voltaire had been engaged in a passionate war of words with *Desfontaines*—ex-abbé, journalist, and a person of scurrilous reputation, whom Voltaire had loaded with benefits and from whom he had received nothing but injuries. Finally, Desfontaines, out of malice prepense, published in a weekly Parisian newspaper which he edited, some verses, written by Algarotti—Italian savant, friend of Prince Frederick, and visitor at Cirey—in which the real relationship between Voltaire and Mme. du Châtelet stood confessed. Voltaire, stung to defend the honour of his mistress, attacked Desfontaines in a cutting pamphlet, the *Préservatif;* which Desfontaines answered by his *Voltairomanie*—“the howl of a mad dog”—falling on Voltaire’s past and present with an unclean fury. In it, Desfontaines cited Thériot, Voltaire’s oldest friend and literary confidant, as having totally denied a statement which Voltaire had made in the *Préservatif* to the effect that Thériot had seen a libel Desfontaines had written against his benefactor—Voltaire being thus declared a liar. In the following letter he appeals to Thériot—a lazy and worthless person whom Voltaire made his usual mistake of overestimating—to speak up like a man and right the wrong. In the sequel, some sort of public retractation *was* wrung out of him: Voltaire brought a suit against Desfontaines and won it: and Thériot was forgiven and restored to a friendship and favour he was far from deserving.
 
@@ -898,11 +898,11 @@ It is with these feelings, and in these sure hopes, that I bid you farewell with
 
 ### Letter 22: Voltaire → M. Helvétius
 
-### XXII
+#### XXII
 
-### HOW TO WRITE VERSE
+#### HOW TO WRITE VERSE
 
-### *To M. Helvétius*
+#### *To M. Helvétius*
 
 [*Helvétius* was to become the author of one of the most famous books of the eighteenth century, *On the Mind (De l'Esprit)*, whose frank materialism, adorned by the most easy and entertaining style, disgusted even that materialistic age, and particularly disgusted Voltaire. At the date of this letter, however, Helvétius was only twenty-four, a young man about town, gallant, delightful, just made Farmer-General, and seeking to woo fame by rhymed *Epistles* on *The Love of Study* and on *Happiness*. But not even the generous encouragement and the careful and illuminating criticism of a Voltaire could make those stilted verses poetry, and Helvétius evidently waited till he took to prose to profit by Voltaire's advice and try to write simply instead of trying to write finely.
 
@@ -922,11 +922,11 @@ Do not be afraid, then, to bring your talents to Parnassus; they will undoubtedl
 
 ### Letter 23: Voltaire → M. Helvétius
 
-### XXIII
+#### XXIII
 
-### ON THE SAME SUBJECT, AND ON BOILEAU
+#### ON THE SAME SUBJECT, AND ON BOILEAU
 
-### *To M. Helvétius*
+#### *To M. Helvétius*
 
 [*Boileau-Despréaux*, the seventeenth century poet and critic, was remarkable, as Voltaire here says, for doing excellently well, in a limited sphere. His neat, regular, and vigorous lines remind one of Pope, who imitated Boileau's masterpiece *L'Art* *Poétique* in his *Essay on Criticism*, and Boileau's *Lutrin* in the *Rape of the Lock.*]
 
@@ -1004,11 +1004,11 @@ We began by being wildly enthusiastic over those *Persian Letters* of which you 
 
 ### Letter 26: M. Martin Kahle
 
-### XXVI
+#### XXVI
 
-### CRITICISING A CRITIC
+#### CRITICISING A CRITIC
 
-### *To M. Martin Kahle*
+#### *To M. Martin Kahle*
 
 1744.
 
@@ -1064,11 +1064,11 @@ I know, madam, only one thing against your character—to have been the object o
 
 ### Letter 29: M. d'Arnaud
 
-### XXIX
+#### XXIX
 
-### ON THE SAME SUBJECT
+#### ON THE SAME SUBJECT
 
-### *To M. d'Arnaud*
+#### *To M. d'Arnaud*
 
 [*Baculard d'Arnaud* was a conceited and very mediocre young poet whom Voltaire had helped with gifts of money and for whom he had procured the post of Paris correspondent to King Frederick the Great. For several years before the death of Mme. du Châtelet Frederick had been trying to tempt Voltaire from France to Potsdam: she successfully opposed that desertion: but the phrase in this letter, "I am very far from going to Prussia," certainly means, "I am not so far from it as I used to be," and Frederick was already endeavouring by compliments and pensions to his protégé, d'Arnaud, to pique Voltaire to accept them for himself.]
 
@@ -1122,11 +1122,11 @@ Goodbye: my compliments to everyone. I hope to embrace you in November. I am wri
 
 ### Letter 32: Mme. Denis
 
-### XXXII
+#### XXXII
 
-### ON THE SAME SUBJECT
+#### ON THE SAME SUBJECT
 
-### *To Mme. Denis*
+#### *To Mme. Denis*
 
 <span class="small-caps">Potsdam</span>, October 13, 1750.
 
@@ -1299,11 +1299,11 @@ From a distance, one cannot see clearly. I receive letters from monks who would 
 
 ### Letter 39: M. Bagieu
 
-### XXXIX
+#### XXXIX
 
-### ON HEALTH
+#### ON HEALTH
 
-### *To M. Bagieu*
+#### *To M. Bagieu*
 
 [*M. Bagieu* was Surgeon-in-Chief to the body-guard of the King of France and the author of several works on surgery.
 
@@ -1323,11 +1323,11 @@ The King of Prussia, who has made peace after his five victories and is now refo
 
 ### Letter 40: Mme. Denis
 
-### XL
+#### XL
 
-### THE QUARREL WITH MAUPERTUIS
+#### THE QUARREL WITH MAUPERTUIS
 
-### *To Mme. Denis*
+#### *To Mme. Denis*
 
 [The occasion of the quarrel with Maupertuis (see Letter XXXIII, “The Little Rift within the Lute”) is sufficiently explained by Voltaire in this letter. It need only be added that Koenig—a dull man and a brilliant mathematician—had been Mme. du Châtelet’s mathematical tutor and a visitor at Cirey. (“*La Beaumelle . . . has prepared some scandalous ‘Notes’ to my ‘Century of Louis XIV’*” (see Letter LI, “On the Advantages of Civilisation and Literature”).]
 
@@ -1405,7 +1405,7 @@ The publisher has been questioned, and has confessed all.
 
 ### Letter 44: Voltaire → Frederick the Great
 
-### *Voltaire to Frederick the Great*
+#### *Voltaire to Frederick the Great*
 
 Good God, sire, what a position I am **in!** I swear to you on my life—which I will most willingly relinquish—that the whole thing is a frightful calumny. I implore you to cross-examine all my *entourage.* Surely, you would not condemn me without hearing me. I demand justice and death.
 
@@ -1490,7 +1490,7 @@ LE COMTE D'ARGENSON
 
 ### THE ESCAPE FROM PRUSSIA
 
-### *Petition to the King of France, through the Comte d'Argenson, Minister of War*
+### *Petition to the King of France, through the Comte<br />d'Argenson, Minister of War*
 
 [*The Comte d'Argenson* and his brother, the Marquis, had been at school with Voltaire, and remained thereafter his very influential friends. It was the Comte d'Argenson who had obtained for him the honour of writing the authorised account of the royal campaigns, which eventually became the *History of Louis XV.* This petition "*to be allowed to die in his own country*" was not, however, accorded to Voltaire. Only a month later d'Argenson, who is famous for having reorganised the French army, was writing in his diary, "Permission to re-enter France is refused to M. de Voltaire—to please the King of Prussia." By March 26, 1753, Voltaire had, however, effected his escape from Frederick and Potsdam. On April 11th, Frederick had practically commanded Freytag, his resident at Frankfort, to harry the parting guest when he passed through that city: and Freytag—the typical German official, literally choked with red tape—exceeded his orders in the manner described in the following letter. Despite it, it was not until the early days of July that Voltaire and his niece succeeded in getting away from Frankfort.]
 
@@ -1508,7 +1508,9 @@ The pretext for this violence and robbery is an order which MM. Freytag and Schm
 
 This book being at Hamburg, M. de Voltaire had given his word of honour on June 1st not to leave Frankfort until the book was returned: and M. Freytag, in the name of his master the King, affixed his signature to two letters, identical with each other, and running as follows:
 
-> “Sir, if the packet which you declare to be at Hamburg or Leipsic, and which contains the poetical work (*œuvre de poëshie*) of the King, arrives here and the book is given up to me, you can go when you like.”
+> **[enclosure]**
+>
+> > “Sir, if the packet which you declare to be at Hamburg or Leipsic, and which contains the poetical work (*œuvre de poëshie*) of the King, arrives here and the book is given up to me, you can go when you like.”
 
 M. de Voltaire then gave him, as pledges, two packets of papers—one literary, and the other dealing with family affairs: and M. Freytag signed the following note:
 
@@ -1542,11 +1544,11 @@ I dare not ask you to give my respects and sympathy to the Duc d'Aumont. Who wou
 
 ### Letter 51: Mme. du Deffand
 
-### XLVIII
+#### XLVIII
 
-### ON A FRIEND'S BLINDNESS
+#### ON A FRIEND'S BLINDNESS
 
-### *To Mme. du Deffand*
+#### *To Mme. du Deffand*
 
 [The Marquise du Deffand, wit, letter-writer, and *salonière*, was one of “those women of brilliant talents who” under the old régime “violated all the common duties of life and gave very pleasant little suppers.” She had visited Voltaire in the Bastille in 1726, when he was twenty-seven: he visited her when he came to Paris in 1778, when he was eighty-three. After she became blind in 1753 he was her constant and sympathetic correspondent. Only Horace Walpole excelled his devotion as her friend. "*Mme. de Staal*," who had been Mdlle. de Launay, and was still companion to the Duchesse du Maine, with whom Voltaire had first stayed at Sceaux as a brilliant youth of one and twenty (see Letter XLIX, "On the Memoirs of Lord Bolingbroke"). Mme. de Staal recounted, with a satiric pen, the gossip of the Maine court to Mme. du Deffand in Paris: and has left behind her brilliant and bitter Memoirs.
 
@@ -1576,11 +1578,11 @@ Who in the world, madam, can have told you that I am going to be married? I am a
 
 ### Letter 52: Mme. du Deffand
 
-### XLIX
+#### XLIX
 
-### ON THE “MEMOIRS OF LORD BOLINGBROKE”
+#### ON THE “MEMOIRS OF LORD<br />BOLINGBROKE”
 
-### *To Mme. du Deffand*
+#### *To Mme. du Deffand*
 
 [*Lord Bolingbroke*—Henry St. John, Viscount Bolingbroke, the famous English statesman, with whom Voltaire, as a young man, had stayed both in London and at Bolingbroke’s French home, La Source, near Orléans. It was to Bolingbroke Voltaire had read aloud the *Henriade* before its publication: and to Bolingbroke he had dedicated his play *Brutus:* and his *Defence* of Lord Bolingbroke’s *Letters on History* had been the means of his obtaining King Frederick’s permit to print *The Diatribe of Dr. Akakia* (see Letter XLII, “The Storm Bursts”).
 
@@ -1623,11 +1625,11 @@ A thousand compliments to M. de Formont: and if you see President Hénault, the 
 
 ### Letter 53: Mme. du Deffand
 
-### L
+#### L
 
-### ON POPE AND VIRGIL
+#### ON POPE AND VIRGIL
 
-### *To Mme. du Deffand*
+#### *To Mme. du Deffand*
 
 [“*The Annals, short though they are.*” Voltaire's *Annals of the Empire* (see Letter XLIX, “On the ‘Memoirs of Lord Bolingbroke’ ”).
 
@@ -1649,11 +1651,11 @@ M. d'Alembert is worthy of you: and much too good for his generation. He has rep
 
 ### Letter 54: J. J. Rousseau
 
-### LI
+#### LI
 
-### ON THE ADVANTAGES OF CIVILISATION AND LITERATURE
+#### ON THE ADVANTAGES OF CIVILISATION<br />AND LITERATURE
 
-### *To J. J. Rousseau*
+#### *To J. J. Rousseau*
 
 [In 1745, when Voltaire was basking in the brief sunshine of the favour of Louis XV, he had first had dealings with Jean Jacques Rousseau, native of Geneva, then music-copier and writer of Court *divertissements*, and, to be, the impassioned sentimentalist of golden eloquence—the author of the *Social Contract*, *The New Eloïsa*, and of the famous, infamous *Confessions*.
 
@@ -1697,11 +1699,11 @@ I am yours most philosophically and with sincere esteem.
 
 ### Letter 55: M. Tronchin, of Lyons
 
-### LII
+#### LII
 
-### ON THE EARTHQUAKE OF LISBON
+#### ON THE EARTHQUAKE OF LISBON
 
-### *To M. Tronchin, of Lyons*
+#### *To M. Tronchin, of Lyons*
 
 [“*M. Tronchin of Lyons*” was one of the honourable family of which Dr. Theodore Tronchin was the most famous member.
 
@@ -1715,11 +1717,11 @@ This is indeed a cruel piece of natural philosophy! We shall find it difficult t
 
 ### Letter 56: Mdlle. . . . .
 
-### LIII
+#### LIII
 
-### ON GOOD TASTE IN LITERATURE
+#### ON GOOD TASTE IN LITERATURE
 
-### *To Mdlle. . . . .*
+#### *To Mdlle. . . . .*
 
 [“*Mme. Deshoulières*” was a graceful verse-writer of the seventeenth century. Many of her lines have become maxims.]
 
@@ -1745,7 +1747,7 @@ I have the honour to be very respectfully yours.
 
 ### Letter 57: The Duc de Richelieu → Voltaire
 
-### *The Duc de Richelieu to Voltaire*
+#### *The Duc de Richelieu to Voltaire*
 
 December, 1756 (probably).
 
@@ -1755,7 +1757,7 @@ When two generals engage in battle, though both are equally men of honour, one *
 
 ### Letter 58: Voltaire → Admiral Byng
 
-### *Voltaire to Admiral Byng*
+#### *Voltaire to Admiral Byng*
 
 [Voltaire enclosed with this letter a copy of the above letter from Richelieu.]
 
@@ -1769,7 +1771,7 @@ I am, with respect,
 
 ### Letter 59: Voltaire → Duc de Richelieu
 
-### *Voltaire to the Duc de Richelieu*
+#### *Voltaire to the Duc de Richelieu*
 
 February 13, 1757.
 
@@ -1783,11 +1785,11 @@ Mme. Denis is always your faithful admirer, and there is no Swiss more tenderly 
 
 ### Letter 60: M. d'Alembert
 
-### LV
+#### LV
 
-### ON THE GREAT ENCYCLOPÆDIA
+#### ON THE GREAT ENCYCLOPÆDIA
 
-### *To M. d'Alembert*
+#### *To M. d'Alembert*
 
 [*D'Alembert,* one of the greatest geometricians of his age, was better known to it as the author of the Preface of that famous *Encyclopædia* of which Diderot was the chief promoter, and to which Voltaire was already a contributor. D'Alembert —whose literary style in general has not been unfairly described as "dry as a stick, hard as a stone, and cold as a cucumber"—rose in that Preface to warmth and eloquence: and by it to fame and the French Academy. In 1756 he stayed for five weeks with Voltaire at Geneva: and met at his table many Calvinistic pastors of that town, to whom his gentle and unassuming character, his detestation of Rome, and his noble mental gifts made him a *persona grata:* while he, on his side, rejoiced to find ministers of religion almost as free-thinking—or so it seemed—as the philosophers themselves. On his return to Paris he wrote for the *Encyclopædia* the famous article, *Geneva,* wherein he set it by the ears by complimenting it on the rationalism of its faith, and as having very often no other but “a perfect Socinianism, rejecting all mystery.”
 
@@ -1817,11 +1819,11 @@ When you produce the first volume, add a preface to it which will shame those co
 
 ### Letter 61: M. . . .
 
-### LVI
+#### LVI
 
-### A PROFESSION OF FAITH
+#### A PROFESSION OF FAITH
 
-### *To M. . . .*
+#### *To M. . . .*
 
 [The anonymous friend to whom this letter was addressed was evidently a Swiss. *“Montesquieu often lacks arrangement, etc.”* (see Letter XXV, “On Corneille and Racine,” and Letter LXXX, “On Monarchy and Despotism,” for further details on Montesquieu and his books). *“His book should be the breviary of those called to rule others.”* Voltaire is here referring to Montesquieu’s most famous work, *L’Esprit des Lois*, which Mme. du Deffand wittily summarised as “l’esprit *sur* les lois.” All the same, it can claim to be the most lucid and original, as it is undoubtedly the most amusing, work on the science of law ever published. Sixteen years earlier, Montesquieu had actively opposed Voltaire's election to the French Academy on the grounds, "Voltaire n'est pas beau, il n'est que joli." In a broader and more generous spirit Voltaire criticised his critic—"Humanity had lost its title deeds. Montesquieu found and restored them."]
 
@@ -1835,11 +1837,11 @@ As to your writers on agriculture, I believe that a sensible peasant knows more 
 
 ### Letter 62: Mme. du Deffand
 
-### LVII
+#### LVII
 
-### ON “CLARISSA HARLOWE”
+#### ON “CLARISSA HARLOWE”
 
-### *To Mme. du Deffand*
+#### *To Mme. du Deffand*
 
 [*Clarissa Harlowe*, published in nine volumes in 1748, and one of the most famous novels of the century, was, and is, as variously estimated in France as in England. If Voltaire found it dull and copious, Diderot ranked Richardson with Moses and Homer: while that unsentimental old worldling, Mme. du Deffand, was almost as warm in its praises as Haydon, the painter, who read it for seventeen hours at a stretch, and declared that, save by *Othello*, he had never been so moved by any work of genius. The modern reader, if he reads it at all (which, to his loss, he generally does not), is inclined to agree with Voltaire as to its “linkéd sweetness long drawn out”: or to echo the criticism of d’Alembert, “La nature est bonne à imiter, mais non pas jusquà l’ennui.” “*I am sorry I once decried him.*” Voltaire had “decried” Rabelais in *The Temple of Taste*—a sort of French *Dunciad*, published nearly thirty years before this letter was written.]
 
@@ -1865,7 +1867,7 @@ Wish President Hénault good health from me: and I hope he will not quite forget
 
 ### Letter 63: M. Palissot
 
-### LVIII IMPEACHING A TRADUCER *To M. Palissot*
+#### LVIII<br />IMPEACHING A TRADUCER<br />*To M. Palissot*
 
 [At the end of 1758 Voltaire had bought the charming little estate of *Ferney*, about three miles from Geneva.
 
@@ -1898,11 +1900,11 @@ Feeble as I am, I write to tell you that I shall never console myself for an epi
 
 ### Letter 64: M. de Bastide
 
-### LIX
+#### LIX
 
-### SOCIAL CONDITIONS IN 1760
+#### SOCIAL CONDITIONS IN 1760
 
-### *To M. de Bastide*
+#### *To M. de Bastide*
 
 [*M. de Bastide* was the author of a book called *The New Spectator.* This letter gives a good example of Voltaire's delicately ironical method, though unfortunately much of the delicacy is inevitably lost in a translation.]
 
@@ -1932,11 +1934,11 @@ The evangelical pulpit has reproached kings and the great a hundred times for th
 
 ### Letter 65: M. le Comte d'Argental
 
-### LX
+#### LX
 
-### ON LADY MARY WORTLEY MONTAGU
+#### ON LADY MARY WORTLEY MONTAGU
 
-### *To M. le Comte d'Argental*
+#### *To M. le Comte d'Argental*
 
 [“*The letters of Lady Mary Wortley Montagu, now appearing in England*” (see Letter XLVII, “On Inoculation”).
 
@@ -1950,11 +1952,11 @@ Pray tell me what happens to this *Literary Gazette.* Will the Duc de Praslin's 
 
 ### Letter 66: M. Bertrand
 
-### LXI
+#### LXI
 
-### ON RIDICULE
+#### ON RIDICULE
 
-### *To M. Bertrand*
+#### *To M. Bertrand*
 
 ["*My friend Jean-Jacques will not allow comedy,*" against which Rousseau had protested in his *Letter on Plays* (see Letter LV, "On the Great Encyclopædia").]
 
@@ -1970,11 +1972,11 @@ Religion is the target of pride and folly: superstition the objective of wisdom 
 
 ### Letter 67: M. Damilaville
 
-### LXII
+#### LXII
 
-### THE CASE OF CALAS AND OF THE SIRVENS
+#### THE CASE OF CALAS AND OF THE SIRVENS
 
-### *To M. Damilaville*
+#### *To M. Damilaville*
 
 [*Damilaville* was Voltaire's Paris correspondent and factotum in general, and was constantly employed in transmitting books and news to Ferney.
 
@@ -2054,11 +2056,11 @@ I perceive that I am painting your portrait: the resemblance would be perfect, w
 
 ### Letter 68: M. d'Alembert
 
-### LXIII
+#### LXIII
 
-### THE CHEVALIER DE LA BARRE
+#### THE CHEVALIER DE LA BARRE
 
-### *To M. d'Alembert*
+#### *To M. d'Alembert*
 
 [On October 1, 1765, the young *Chevalier de la Barre* had been arrested on a charge of mutilating crucifixes, insulting a religious procession, and “uttering blasphemies” in Abbeville. On February 28, 1766, he, d’Etallonde (a friend, who had escaped to Prussia), and Moisnel, a boy of eighteen, were condemned to death, after having their tongues cut out and their hands cut off. Ten of the best *avocats* in Paris (the “ten humane and upright judges” of this letter) declared the brutal sentence illegal. A public appeal against it was made to the King. The case was re-tried at Paris, and the sentence confirmed. On July 1, 1766, la Barre (he was scarcely twenty) died “with the firmness of Socrates,” after having been put to the torture. With his body was burnt, with other contraband works, the first volume of *The Philosophical Dictionary* of Voltaire—who, with many others, had believed up to the last in a reprieve. As it was considered that the works of the philosophers—and of the Philosopher-in-Chief, chiefly—had been largely responsible for la Barre’s folly, Voltaire went for safety to Rolle, in Vaud. There he wrote his noble tract in the cause of humanity, *The Death of the Chevalier de la Barre*, which, as he hoped, “frightened the carnivorous beasts off others,” not only saved Moisnel from a punishment so barbarously disproportionate to the crime, but forced the judges to drop the case altogether. He also obtained King Frederick’s protection for d’Étallonde: and in 1775, when d’Étallonde was at Ferney, pleaded for the restitution of his civil rights in a pamphlet entitled *The Cry of Innocent Blood* (see also Letter LXVIII, “The Case of Martin”).
 
@@ -2082,11 +2084,11 @@ N. B. The theologian Vernet complained to the Council of Geneva that he was bein
 
 ### Letter 69: M. Mariott, Advocate-General of England
 
-### LXIV
+#### LXIV
 
-### ON ROUSSEAU IN ENGLAND
+#### ON ROUSSEAU IN ENGLAND
 
-### *To M. Mariott, Advocate-General of England*
+#### *To M. Mariott, Advocate-General of England*
 
 [“*M. Mariott*”—Sir James Marriott, appointed advocate-general of England in 1764 “through interest rather than superior merit,” was a clever and versatile person, lacking depth and solidity. His poems are entirely and justly forgotten.
 
@@ -2125,7 +2127,7 @@ If you see Mr. Franklin, I pray you, sir, be so good as to give him my remembran
 
 ### LXV
 
-### ON THE JESUITS AND CATHERINE THE GREAT
+### ON THE JESUITS AND CATHERINE THE<br />GREAT
 
 ### *To Mme. du Deffand*
 
@@ -2223,7 +2225,7 @@ I have, sir, it is true, said, just as you state, that there are serious comedie
 
 You free Britons, you do not observe the *unities of time, place, and action.* Truly, you do not improve matters: probability ought to count for something. It makes art more difficult: and every description of difficulty, vanquished, is a legitimate source of pride and satisfaction.
 
-You must allow me, Englishman as you are, to plead the cause of my own nation. I so often tell it unpalatable truths, that it is only just I should stroke it when I think it is in the right. Yes, sir, I have always believed, I now believe, and I always shall believe, that Paris is very superior to Athens in the matter of tragedies and comedies. Molière, and even Regnard, seem to me to excel Aristophanes as much as Demosthenes excels our orators. I say boldly that I think all the Greek tragedies seem to me the work of schoolboys as compared with the sublime scenes of Corneille and the perfect tragedies of Racine. Admirer of the ancients as he was, Boileau himself thought this. He had no compunction in inscribing beneath the portrait of Racine that that great man had surpassed Euripides and equalled Corneille.
+You must allow me, Englishman as you are, to plead the cause of my own nation. I so often tell it unpalatable truths, that it is only just I should stroke it when I think it is in the right. Yes, sir, I have always believed, I now believe, and I always shall believe, that Paris is very superior to Athens in the matter of tragedies and comedies. Molière, and even Regnard, seem to me to excel Aristophanes as much as Demosthenes excels our orators. I say boldly that I think all the Greek tragedies seem to me the work of school-boys as compared with the sublime scenes of Corneille and the perfect tragedies of Racine. Admirer of the ancients as he was, Boileau himself thought this. He had no compunction in inscribing beneath the portrait of Racine that that great man had surpassed Euripides and equalled Corneille.
 
 Yes, I believe I can prove that there are more men of taste in Paris than in Athens. We have more than thirty thousand souls in Paris who delight in the fine arts, and Athens had not ten thousand; the lower orders of the Athenians frequented theatres only when a performance was given gratis on some great, or trivial, occasion. Our constant dealings with women have given us much greater delicacy of feeling, much more propriety of manners, and much more nicety of taste. Leave us our theatre, leave the Italians their *favole boscareccie;* you are rich enough in other respects.
 
@@ -2237,13 +2239,15 @@ I have confessed, sir, all that was in my heart. I own that I was much in the wr
 
 Before despatching this letter, I have found time, sir, to read your *Richard III.* You would be an excellent attorney-general. You weigh all the pros and cons: still, I think I detect that you have a secret liking for the hunchback. You cannot help wishing he had been a pretty fellow, if not a fine fellow. Calmet, the Benedictine, wrote a long dissertation to prove that Christ had a beautiful countenance. I wish I could agree with you that Richard III was neither so ugly nor so wicked as he is said to have been: but I should not have cared to have had anything to do with him. Your *white rose* and your *red rose* were full of fearful thorns for the nation.
 
-Those gracious kings are all a pack of rogues.
+> **[verse_insert]**
+>
+> Those gracious kings are all a pack of rogues.
 
 Truly, the history of the Yorkists and Lancastrians, and many others, is much like reading the history of highway robbers.
 
 Yours, with respects, etc.
 
-### LXVII ON THE ADVANTAGES OF BEING A BRUTE
+### LXVII<br />ON THE ADVANTAGES OF BEING A BRUTE
 
 ### *To the Comte de Schomberg*
 
@@ -2319,11 +2323,11 @@ I am seventy-six years old and scarcely recovered from a severe illness, which f
 
 ### Letter 76: Mme. Necker
 
-### LXX
+#### LXX
 
-### ON THE SAME SUBJECT
+#### ON THE SAME SUBJECT
 
-### *To Mme. Necker*
+#### *To Mme. Necker*
 
 <span class="small-caps">Ferney</span>, July 19, 1770.
 
@@ -2589,7 +2593,7 @@ No sooner has the real philosopher calculated the effect of sun and moon on the 
 
 Success to your project! May all the men of genius who adorned the time of Louis XIV reappear in the square at Montpellier, round that king's statue, and inspire the ages to come to an eternal emulation!
 
-### LXXX ON MONARCHY AND DESPOTISM
+### LXXX<br />ON MONARCHY AND DESPOTISM
 
 ### *To M. Gin*
 
@@ -2712,7 +2716,7 @@ The dying man returns to life on hearing this great news: he tenderly embraces M
 
 ## Publisher's Catalogue
 
-### *A Selection from the Catalogue of*
+#### *A Selection from the<br />Catalogue of*
 
 **G. P. PUTNAM'S SONS**
 

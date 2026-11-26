@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 82,
+  "flagged": 133,
   "blockers": 0
  },
  "proof": {
@@ -212,27 +212,27 @@
   {
    "format": "epub",
    "file": "rukaat-i-alamgiri-aurangzeb-1908.epub",
-   "bytes": 249797,
-   "sha256": "dec4c06a75ea914769e6ac0b5775d5290e6040c26e6d856794356f4e8a95ec53"
+   "bytes": 250041,
+   "sha256": "1d1f711ba994f7c8019a3222eca5db950a913594b44fdaea0d4f212f59811046"
   },
   {
    "format": "markdown",
    "file": "rukaat-i-alamgiri-aurangzeb-1908.md",
-   "bytes": 387331,
-   "sha256": "bd2099d007ae19e34e6f2046f2495ed8832a046fe78a35fce95446ff9ca710dd"
+   "bytes": 387673,
+   "sha256": "f521ed9e3b4454db23df83ab4f6eda90d9e88aeac61dcd0b064ccf8f8be6af6b"
   },
   {
    "format": "tei",
    "file": "rukaat-i-alamgiri-aurangzeb-1908.tei.xml",
-   "bytes": 540173,
-   "sha256": "b1a9aa80164f28335fe135f0664f6a63dbc01fe7dd0c0c4e2c20778c36fa4f79"
+   "bytes": 540684,
+   "sha256": "af76acb084f2f3041c4eed4cee0602daeffa27ae58f69f297de74c31abdaecf0"
   }
  ],
  "scan_base": "https://archive.org/download/rukaatialamgirio00aurarich/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-v1",
-  "compiled_at": "2026-11-22T08:49:30Z",
-  "source_ast_sha256": "4a12c0cb81b3c700bd1ddc2f52659b319a0664ac3d075b1e42c572c78b6e78af",
+  "compiled_at": "2026-11-24T19:23:48Z",
+  "source_ast_sha256": "1665de71c75f3f7e464f8b09618622a21fbdf00d62e05d00589bd5533e7bf471",
   "hugo_renderer_version": "1.0.0"
  }
 }

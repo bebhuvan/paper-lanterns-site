@@ -20,10 +20,10 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 8,
+  "letters": 15,
   "notes": 319,
   "pages": 468,
-  "dated_letters": 6
+  "dated_letters": 8
  },
  "provenance_tier": "community",
  "quality": {
@@ -65,7 +65,7 @@
   "verified": 0,
   "machine_reread": 28
  },
- "page_kinds": "ffffffffffffffffffffffffffffffffffffffffffffffffffnnnnLLLLLLLLLLLLLLLLLLnnnnnnnnnnnnnnnLnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnniiiiiiiiii",
+ "page_kinds": "ffffffffffffffffffffffffffffffffffffffffffffffffffnnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnniiiiiiiiii",
  "page_runs": [
   [
    "f",
@@ -77,23 +77,7 @@
   ],
   [
    "L",
-   18
-  ],
-  [
-   "n",
-   15
-  ],
-  [
-   "L",
-   1
-  ],
-  [
-   "n",
-   3
-  ],
-  [
-   "L",
-   27
+   64
   ],
   [
    "n",
@@ -254,12 +238,20 @@
    1
   ],
   [
+   1656,
+   1
+  ],
+  [
    1660,
+   1
+  ],
+  [
+   1661,
    1
   ]
  ],
  "periods": [],
- "unperiodised_count": 8,
+ "unperiodised_count": 15,
  "frontispiece": {},
  "title_page": {
   "page": 7,
@@ -269,27 +261,27 @@
   {
    "format": "epub",
    "file": "pascal-miscellaneous-writings-1849.epub",
-   "bytes": 395710,
-   "sha256": "83e1cd004a536b453ee78efcb3864cdd38d6269b01d837aab8d5ad87ea2f5a4d"
+   "bytes": 395937,
+   "sha256": "541a0ba224a41394b7085237e63d47856687b27e42aa5286c4f49bcfb27ddf12"
   },
   {
    "format": "markdown",
    "file": "pascal-miscellaneous-writings-1849.md",
-   "bytes": 661263,
-   "sha256": "f4cab86611cd542bd80e7282e0f8315e69dda512607903d53590735a9347149d"
+   "bytes": 661853,
+   "sha256": "b86cb7415392fc4cd26f749358848e5e7edec8fcbb34568e02e8d059cf05f7a2"
   },
   {
    "format": "tei",
    "file": "pascal-miscellaneous-writings-1849.tei.xml",
-   "bytes": 778236,
-   "sha256": "5763bc4911098ade7302c13d2cd200c920b66f9085b5447c03f9ddcde5f2e8ab"
+   "bytes": 780710,
+   "sha256": "6db0256fb97f364b5ed7416bc9d6f974098cf8d4dd11e5be4f4629f4e1b893ba"
   }
  ],
  "scan_base": "https://archive.org/download/cu31924029054439/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:52:06Z",
-  "source_ast_sha256": "d30ad5c85a018bf0c62340bcae2895b532b6c8bc5d4fb1288313b9181810554b",
+  "compiled_at": "2026-11-24T19:23:17Z",
+  "source_ast_sha256": "5aadb1f23e91dcbc987ff5e27779314b4c2830c604a5f9764633f056d0c8bbf3",
   "hugo_renderer_version": "1.0.0"
  }
 }

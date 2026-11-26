@@ -11,7 +11,7 @@ THE letters of Mahatma Gandhi are invaluable political documents and deserve to 
 
 Price Rs. 3/8/-
 
-### FAMOUS LETTERS OF MAHATMA GANDHI
+### FAMOUS LETTERS<br />OF<br />MAHATMA GANDHI
 
 COMPILED & EDITED  
 BY  
@@ -119,7 +119,7 @@ IV To Lakshmi, Gandhiji’s little adopted ‘ untouchable ’ daughter and othe
 
 ### **MAHATMA GANDHI.**
 
-### **(A short biographical sketch.)**
+#### **(A short biographical sketch.)**
 
 Mohanlal Karamchand Gandhi, now famous as Mahatma Gandhi, was born in the year 1869 in an orthodox Gujerati family known for their loyalty to the various Kathiawar States. His father was the Prime Minister of Rajkot and his grand father was the Prime Minister of Porbander. The story goes that on one occasion, consequent to some intrigues, his grand father was required to take refuge in a neighbouring State, where he saluted the Ruler with his left hand. On being questioned about it he replied that his right hand was pledged to Porbander.
 
@@ -147,7 +147,7 @@ Besides politics, social and religious reform are the other interests of Gandhij
 
 ### Letter 1: Mahatma Gandhi → Lord Chelmsford
 
-### **I LOVE THE ENGLISH NATION.**
+#### **I LOVE THE ENGLISH NATION.**
 
 Sir,—
 
@@ -173,7 +173,7 @@ Lastly, I would like you to ask His Majesty's Ministers to give definite assuran
 
 ### Letter 2: M. K. Gandhi → Lord Chelmsford
 
-### **WE HAVE LOST FAITH IN BRITISH JUSTICE!**
+#### **WE HAVE LOST FAITH IN BRITISH JUSTICE!**
 
 “ Your Excellency,—As one who has enjoyed a certain measure of Your Excellency’s confidence and as one who claims to be a devoted well wisher of the British Empire, I owe it to Your Excellency and through Your Excellency to His Majesty’s ministers to explain my connection with and my conduct in the Khilafat question.
 
@@ -215,7 +215,7 @@ Gamdevi, Bombay.
 
 ### Letter 3: M. K. Gandhi
 
-### **JOIN ME IN DESTROYING THIS SYSTEM**
+#### **JOIN ME IN DESTROYING THIS SYSTEM**
 
 Dear Friend,—I wish that every Englishman will see this appeal and give thoughtful attention to it.
 
@@ -256,13 +256,13 @@ M. K. <span class="small-caps">Gandhi.</span>
 
 * * *
 
-### Letter 4: M. K. Gandhi
+### Letter 4: M. K. Gandhi → EVERY ENGLISHMAN LIVING IN INDIA
 
-### TO EVERY ENGLISHMAN LIVING IN INDIA.
+#### TO EVERY ENGLISHMAN LIVING IN INDIA.
 
-### *SECOND LETTER.*
+#### *SECOND LETTER.*
 
-### **‘You are as much slaves—as we.’**
+#### **‘You are as much slaves—as we.’**
 
 Dear friend,
 
@@ -301,7 +301,7 @@ M. K. <span class="small-caps">Gandhi</span>.
 
 ### Letter 5: M. K. GANDHI
 
-### **The Message of Self-sacrifice, Courage and Hope.**
+#### **The Message of Self-sacrifice, Courage and Hope.**
 
 Dear Young Friend—, I have just read an account of your response to the Nation's call. It does credit to you and to Bengal. I had expected no less. I certainly expect still more. Bengal has great intelligence. It has a greater heart, it has more than its share of the spiritual heritage for which our country is specially noted. You have more imagination, more faith and more emotion than the rest of India. You have falsified the calumny of cowardice on more occasions than one. There is, therefore, no reason why Bengal should not lead now as it had done before now.
 
@@ -329,7 +329,7 @@ Your well wisher,
 
 M. K. GANDHI,
 
-### **TO HIS ROYAL HIGHNESS, THE DUKE OF CONNAUGHT.**
+### **TO HIS ROYAL HIGHNESS,<br />THE DUKE OF CONNAUGHT.**
 
 *(Mahatma Gandhi addressed the following letter to H. R. H. the Duke of Connaught in the first week of February 1921 :—*
 
@@ -339,7 +339,7 @@ M. K. GANDHI,
 
 ### Letter 6: M. K. GANDHI → Duke of Connaught
 
-### **WE ARE DETERMINED TO BATTLE WITH O'DWYERISM AND DYERISM.**
+#### **WE ARE DETERMINED TO BATTLE WITH<br />O'DWYERISM AND DYERISM.**
 
 Sir,
 
@@ -374,7 +374,7 @@ M. K. GANDHI.
 
 ### Letter 7: Mahatma Gandhi → Lord Reading
 
-### **MAKE DECLARATION WITHIN SEVEN DAYS.**
+#### **MAKE DECLARATION WITHIN SEVEN DAYS.**
 
 To His Excellency the Viceroy, Delhi.
 
@@ -410,9 +410,9 @@ But before the people of Bardoli actually commence mass civil disobedience, I wo
 
 ### Letter 8: M. K. Gandhi → Lord Irwin
 
-### *The first letter;*
+#### *The first letter;*
 
-### **WHY I REGARD THE BRITISH RULE AS A CURSE!**
+#### **WHY I REGARD THE BRITISH RULE<br />AS A CURSE!**
 
 Dear Friend,—Before embarking on Civil Disobedience and taking the risk I have dreaded to take all these years, I would fain approach you and find a way out. My personal faith is absolutely clear. I cannot intentionally hurt any thing that lives, much less fellow-human beings even though they may do the greatest wrong to me and mine. *Whilst therefore I hold British rule to be a curse, I do not intend to harm a single Englishman or any legitimate interest he may have in India.*
 
@@ -467,7 +467,7 @@ M. K. <span class="small-caps">Gandhi.</span>
 
 *Dear Friend,*
 
-### **I must Commence the March**
+###### **I must Commence the March**
 
 God willing, it is my intention ......to set out for Dharsana and reach there with my companions .,....and demand possession of the Salt Works. The public have been told that Dharsana is private property. This is mere camouflage. It is effectively under Government control as the Viceroy's house. Not a pinch of salt can be removed without the previous sanction of the authorities.
 
@@ -506,7 +506,7 @@ Your sincere friend,
 
 M. K. GANDHI.
 
-### TO THE INMATES OF SABARMATI ASHRAM.
+### TO THE INMATES OF<br />SABARMATI ASHRAM.
 
 *(Mahatma Gandhi is known to be one of the most courageous, even 'seditious' writers who ever dared to challenge the mighty British Empire in India, and yet his pen has written some of the sweetest letters — letters bubbling with love and human sympathy —. In the year 1930 when he was in Yervada Jail the inmates of Yervada Jail received very affectionate letters from him, some of which are reproduced below :)*
 
@@ -514,7 +514,7 @@ M. K. GANDHI.
 
 ### Letter 10: BAPU → MIRA BAI
 
-### **I—TO MIRA BAI.**
+#### **I—TO MIRA BAI.**
 
 Yours is the first letter I take up to write from the Jail and that on the silence day.
 
@@ -530,7 +530,7 @@ Love BAPU.
 
 ### Letter 11: Bapu → INMATES OF THE ASHRAM
 
-### II—GENERAL LETTER TO ALL THE INMATES OF THE ASHRAM.
+#### II—GENERAL LETTER TO ALL THE<br />INMATES OF THE ASHRAM.
 
 “ My health is alright. I rise in the morning at the Ashram hour (4 A.M.) I am given a light, so I can read the Gita chapters according to our custom. I am gradually recovering from my exhaustion of so many days. I rest regularly at 8 in the morning, and 12 noon, and thus get some two to three hours sleep during the day. I gave up oranges during my march, but have begun to take them again here. On the first day I took raw goat's milk and am continuing it for the present. I take about three pounds. I shall have to reduce it a little or take it in the form of curds. In the mornings, also, I take cold water instead of hot. They give me full facilities for making it hot, but if the body can be maintained on cold water, why bother about hot water. I have left off honey. I had begun taking cold water baths, but from yesterday I am again bathing with hot water. The goat is milked in my presence, so there is no question as to the cleanliness of the milk. If raw milk proves unsatisfactory I will, of course, get it heated.
 
@@ -546,7 +546,7 @@ I never saw to my speed on takli outside the Jail. Interest should be created in
 
 ### Letter 12: Bapu → KASTURBA GANDHI
 
-### **III—TO “BA” (KASTURBA GANDHI)**
+#### **III—TO “BA” (KASTURBA GANDHI)**
 
 How nice it was that I saw you and all the sisters the evening previous to my arrest. And I was able to go with you up to your residence which gave me much pleasure. God’s favours pour down upon us as rains from Heaven...
 
@@ -562,7 +562,7 @@ I do not know where you are. But there is God above to take care of us, so let u
 
 ### Letter 14: BAPU → LAKSHMI
 
-### **IV—TO LAKSHMI (THE LITTLE UNTOUCHABLE ADOPTED DAUGHTER OF GANDHIJI) AND OTHER LITTLE CHILDREN.**
+#### **IV—TO LAKSHMI (THE LITTLE UNTOUCHABLE ADOPTED DAUGHTER OF GANDHIJI) AND OTHER LITTLE CHILDREN.**
 
 Little Birds,
 
@@ -581,7 +581,7 @@ Silence day.
 
 BAPU'S blessings.
 
-### **CORRESPONDENCE WITH LORD WILLINGDON.**
+### **CORRESPONDENCE WITH<br />LORD WILLINGDON.**
 
 ### GANDHIJI'S 1ST REJOINDER.
 
@@ -591,7 +591,7 @@ BAPU'S blessings.
 
 ### Letter 15: Mahatma Gandhi → Lord Willingdon
 
-### **IT IS NOT YET TOO LATE.**
+#### **IT IS NOT YET TOO LATE.**
 
 I thank His Excellency for the wire in reply to mine of the 29th instant, It grieves me, for His Excellency has rejected, in a manner hardly befitting his high position, an advance made in the friendliest spirit. I had approached as a seeker wanting light on questions upon which I desire to understand the Government version of every serious and extraordinary measures to which I made reference. Instead of appreciating my advance, His Excellency has rejected it by asking me to repudiate my valued colleagues in advance and telling me that even if I became guilty of such dishonourable conduct and sought interview, I could not even discuss these matters of vital importance to the Nation.
 
@@ -613,7 +613,7 @@ Along with my desire and willingness to co-operate with the Goverment, I must pl
 
 I can never therefore deny my creed. In pursuance thereof, and on the strength of uncontradicted reports supported by the recent activities of the Government of India to the effect that there may be no other opportunity for me to guide the public, the Working Committee has accepted my advice and passed a resolution tentatively sketching a plan of civil disobedience. I am sending herewith the text of the resolution. If His Excellency thinks it worthwhile to see me, the operation of the resolution will be suspended pending our discussion in the hope that it may result in the resolution being finally given up. I admit that the correspondence between His Excellency and myself is of such grave importance as not to brook delay in publication. I am, therefore, sending my telegram, your reply, this rejoinder and the Working Committee's resolution for publication.
 
-### MAHATMA GANDHI'S SECNOD REJOINDER.
+### MAHATMA GANDHI'S<br />SECNOD REJOINDER.
 
 *As a retaliatory measure to Government's repressive policy on December 28, 1931 the Congress Working Committee under the guidance of Mahatma Gandhi passed a resolution involving the general revival of the Civil Disobedience movement. The then Viceroy of India in a telegram warned the Mahatma that the Government would hold him and the Congress responsible for any untoward consequences which might ensue and also apprised him of the determination of the Government to suppress the movement by all possible means. To that telegram the Mahatma issued the following rejoinder:—*
 
@@ -621,7 +621,7 @@ I can never therefore deny my creed. In pursuance thereof, and on the strength o
 
 ### Letter 16: Mahatma Gandhi → Lord Willingdon
 
-### **TIME ALONE WILL SHOW WHO WAS JUSTIFIED !**
+#### **TIME ALONE WILL SHOW WHO WAS<br />JUSTIFIED !**
 
 Thanks for your wire of even date. I cannot help expressing deep regrer for the decision of His Excellency and his Government. Surely it is wrong to describe an honest expression of opinion as a threat. May I remind the Government that the Delhi negotiations were opened and carried on whilst civil disobedience was not given up but only discontinued. This position was reasserted and accepted by His Excellency and his Government in Simla in September last prior to my departure for London. Although I had made it clear that under certain circumstances the Congress might have to resume Civil Disobedience the Government did not break off negotiations. That it was made clear by the Government that Civil Disobedience carried with it the penalty for disobedience merely proves what civil resisters bargain for but does not in any way effect my argument. Had the Government resented that attitude, it was open to them not to send me to London. On the contrary my departure had His Excellency's blessings.
 
@@ -641,7 +641,7 @@ Meanwhile I wish to assure the Government that every endeavour will be made on t
 
 ### Letter 17: Mahatma Gandhi
 
-### **WE ARE EMBARKING ON A FIERY ORDEAL.**
+#### **WE ARE EMBARKING ON A FIERY<br />ORDEAL.**
 
 It is a matter for deep regret to me to have received this telegram from H.E. the Viceroy and the Government. I cannot help saying that it has heaped error upon error, instead of courageously acknowledging the first error, in practically banging the door in my face by imposing for the coveted interview conditions which no self-respecting man can possibly accept and reopen the door. The telegram had added another error by deliberately and finally shutting the door by telling me that he cannot see me under threat of resumption of civil disobedience and introducing in the telegram an argument that is not germane to my repeated request for an interview. The Viceroy and his Government have committed a flagrant breach of the Delhi Pact by using the so called threat of resumption of civil disobedience as an excuse for refusing to see me.
 
@@ -653,7 +653,7 @@ We have faith in ourselves and therefore in human nature to feel that, if we suf
 
 * * *
 
-### GANDHIJI'S LETTER TO SIR SAMUEL HOARE IN MARCH 1932.
+### GANDHIJI'S LETTER TO<br />SIR SAMUEL HOARE IN MARCH 1932.
 
 *In the following letter dated March 11, 1932 addressed to Sir Samuel Hoare, Mahatma Gandhi informed His Majesty's Government that in the event of their creating separate electorates for the Depressed Classes, he (the Mahatma) would fast unto death.*
 
@@ -661,7 +661,7 @@ We have faith in ourselves and therefore in human nature to feel that, if we suf
 
 ### Letter 18: Mahatma Gandhi → Samuel Hoare
 
-### **THIS IS A NEGATION OF DEMOCRACY.**
+#### **THIS IS A NEGATION OF DEMOCRACY.**
 
 Dear Sir Samuel,
 
@@ -701,7 +701,7 @@ Needless to say, from my side absolute secrecy has been maintained about all the
 
 ### Letter 19: Mahatma Gandhi → Ramsay MacDonald
 
-### “FAST UNTO DEATH”
+#### “FAST UNTO DEATH”
 
 Dear friend, There can be no doubt that Sir Samuel Hoare has showed you and the Cabinet my letter to him of 11th March on the question of the representation of the Depressed Classes. That letter should be treated as part of this letter and be read together with this.
 
@@ -727,7 +727,7 @@ It may be that my judgment is warped and that I am wholly in error in regarding 
 
 ### Letter 20: M. K. Gandhi → M. A. Jinnah
 
-### **IN YOUR SPEECH I MISS THE OLD NATIONALIST.**
+#### **IN YOUR SPEECH I MISS THE OLD<br />NATIONALIST.**
 
 Dear Mr. Jinnah,
 
@@ -753,7 +753,7 @@ Yours sincerely,
 
 ### Letter 21: Mahatma Gandhi → Chiang Kai Sheck
 
-### **A FREE INDIA AND A FREE CHINA.**
+#### **A FREE INDIA AND A FREE CHINA.**
 
 Dear Generalissimo,
 
@@ -787,7 +787,7 @@ Very soon you will have completed five years of war againt Japanese aggression a
 
 ### Letter 22: Mahatma Gandhi
 
-### **INTERESTED PROPAGANDA HAS BEGUILED YOU.**
+#### **INTERESTED PROPAGANDA HAS<br />BEGUILED YOU.**
 
 I claim to be a votary of truth from my childhood. It was the most natural thing to me. My prayerful search gave me the revealing maxim “ Truth is God ” instead of the usual one “ God is Truth ”. That maxim enables me to see God face to face as it were. I feel Him pervade every fibre of my being. With this truth as witness between you and me, I assert that I would not have asked my country to invite Great Britain to withdraw her rule over India, irrespective of any demand to the contrary, if I had not seen at once that for the sake of Great Britain and the Allied cause, it was necessary for Britain boldly to perform the duty of freeing India from bondage.
 
@@ -811,7 +811,7 @@ You have made common cause with Great Britain. You cannot therefore disown respo
 
 ### Letter 23: M. K. Gandhi → Lord Linlithgow
 
-### **WHO IS GUILTY?**
+#### **WHO IS GUILTY?**
 
 Dear Lord Linlithgow,
 
@@ -847,9 +847,9 @@ M. K. <span class="small-caps">Gandhi</span>.
 
 ### Letter 24: M. K. Gandhi → Secretary, Home Department
 
-### **To the Secretary, Home Department.**
+#### **To the Secretary, Home Department.**
 
-### THE RIGHT COURSE FOR THE GOVERNMENT.
+#### THE RIGHT COURSE FOR THE<br />GOVERNMENT.
 
 *Sept. 23, 1942.*
 
@@ -869,11 +869,11 @@ I am, Yours, etc.,
 
 ### Letter 25: M. K. GANDHI → Lord Linlithgow
 
-### **Letter on New Year's Eve.**
+#### **Letter on New Year's Eve.**
 
 *New Year's Eve 1942.*
 
-### **MAY THE NEW YEAR BRING PEACE TO US.**
+##### **MAY THE NEW YEAR BRING PEACE<br />TO US.**
 
 **Personal.**
 
@@ -894,7 +894,7 @@ January 19, 1943.
 
 ### Letter 26: M. K. Gandhi → Lord Linlithgow
 
-### TO LORD LINLITHGOW.
+#### TO LORD LINLITHGOW.
 
 *Personal*
 
@@ -945,7 +945,7 @@ M. K. <span class="small-caps">Gandhi</span>.
 
 ### Letter 27: Mahatma Gandhi → Lord Linlithgow
 
-### THE GOVERNMENT GOADED THE PEOPLE TO THE POINT OF MADNESS.
+#### THE GOVERNMENT GOADED THE PEOPLE<br />TO THE POINT OF MADNESS.
 
 *January 29, 1943.*
 
@@ -967,7 +967,7 @@ If then I cannot get soothing balm for my pain I must resort to the law prescrib
 
 I am not marking this letter personal as I did the two previous ones. They were in no way confidential. They were a mere personal appeal.
 
-### **TO LORD LINLITHGOW.** *(LAST LETTER)*
+### **TO LORD LINLITHGOW.**<br />*(LAST LETTER)*
 
 *(The reply from the Viceroy to Gandhiji's intimation on fast was not only responsive but also threatening. He went to the length of describing Gandhiji's decision to fast as 'political blackmailing'. Gandhiji addressed the following last letter to the then Viceroy.)*
 
@@ -975,7 +975,7 @@ I am not marking this letter personal as I did the two previous ones. They were 
 
 ### Letter 28: M. K. Gandhi → Lord Linlithgow
 
-### THE RESPONSIBILITY IS NO DOUBT MINE BUT ...
+#### THE RESPONSIBILITY IS NO DOUBT MINE<br />BUT ...
 
 Dear Lord Linlithgow,
 
@@ -1006,7 +1006,7 @@ M. K. <span class="small-caps">Gandhi</span>.
 
 ### Letter 29: M. K. Gandhi → Sir Richard
 
-### **PRAY, DO NOT RELEASE ME !**
+#### **PRAY, DO NOT RELEASE ME !**
 
 Dear Sir Richard,
 

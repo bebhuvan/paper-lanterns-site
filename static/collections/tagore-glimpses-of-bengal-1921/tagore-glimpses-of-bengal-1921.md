@@ -9,7 +9,7 @@
 
 ### GLIMPSES OF BENGAL
 
-### RABINDRANATH TAGORE
+#### RABINDRANATH TAGORE
 
 ### LETTERS
 
@@ -24,7 +24,7 @@ DALLAS · SAN FRANCISCO
 THE MACMILLAN CO. OF CANADA, <span class="small-caps">Ltd.</span>  
 TORONTO
 
-### GLIMPSES OF BENGAL SELECTED FROM THE LETTERS OF S<span class="small-caps">ir</span> RABINDRANATH TAGORE 1885 <span class="small-caps">to</span> 1895
+### GLIMPSES OF BENGAL<br />SELECTED FROM<br />THE<br />LETTERS<br />OF<br />S<span class="small-caps">ir</span> RABINDRANATH TAGORE<br />1885 <span class="small-caps">to</span> 1895
 
 MACMILLAN AND CO., LIMITED  
 ST. MARTIN’S STREET, LONDON  
@@ -742,7 +742,7 @@ Perhaps not. The scene may be changed; I may be born with a different mind. Many
 
 Curiously enough, my greatest fear is lest I should be reborn in Europe! For there one cannot recline like this with one’s whole being laid open to the infinite above—one is liable, I am afraid, to be soundly rated for lying down at all. I should probably have been hustling strenuously in some factory or bank, or Parliament. Like the roads there, one’s mind has to be stone-metalled for heavy traffic—geometrically laid out, and kept clear and regulated.
 
-I am sure I cannot exactly say why this lazy, dreamy, self-absorbed, skyfilled state of mind seems to me the more desirable. I feel no whit inferior to the busiest men of the world as I lie here in my jolly-boat. Rather, had I girded up my loins to be strenuous, I might have seemed ever so feeble compared to those chips of old oaken blocks.
+I am sure I cannot exactly say why this lazy, dreamy, self-absorbed, sky-filled state of mind seems to me the more desirable. I feel no whit inferior to the busiest men of the world as I lie here in my jolly-boat. Rather, had I girded up my loins to be strenuous, I might have seemed ever so feeble compared to those chips of old oaken blocks.
 
 ### Letter 49
 
@@ -1169,7 +1169,7 @@ THE END
 
 ## The Works of Sir Rabindranath Tagore
 
-### THE WORKS OF SIR RABINDRANATH TAGORE
+### THE WORKS OF<br />SIR RABINDRANATH TAGORE
 
 - GITANJALI (Song Offerings). A Collection of Prose Translations made by the Author from the original Bengali. With an Introduction by W. B. <span class="small-caps">YEATS</span>, and a Portrait by W. <span class="small-caps">ROTHENSTEIN</span>. Crown 8vo. 4s. 6d. net.
 - FRUIT-GATHERING. A Sequel to “Gitanjali.” Crown 8vo. 4s. 6d. net.
@@ -1184,7 +1184,7 @@ THE END
 - THE POST OFFICE. A Play. Translated by <span class="small-caps">DEVABRATA MUKERJEA</span>. Crown 8vo. 2s. 6d. net.
 LONDON : MACMILLAN AND CO., <span class="small-caps">LTD.</span>
 
-### THE WORKS OF SIR RABINDRANATH TAGORE
+### THE WORKS OF<br />SIR RABINDRANATH TAGORE
 
 - THE CYCLE OF SPRING. A Play. Crown 8vo. 3s. 6d. net.
 - SACRIFICE AND OTHER PLAYS. Crown 8vo. 5s. net.

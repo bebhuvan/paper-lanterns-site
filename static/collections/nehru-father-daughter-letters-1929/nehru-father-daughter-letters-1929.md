@@ -7,7 +7,7 @@
 
 ## Frontmatter
 
-### B<span class="small-caps">EING A BRIEF ACCOUNT OF THE</span> E<span class="small-caps">ARLY DAYS OF THE</span> W<span class="small-caps">ORLD,</span> <span class="small-caps">WRITTEN FOR</span> C<span class="small-caps">HILDREN</span>
+### B<span class="small-caps">EING A BRIEF ACCOUNT OF THE</span><br />E<span class="small-caps">ARLY DAYS OF THE</span> W<span class="small-caps">ORLD,</span><br /><span class="small-caps">WRITTEN FOR</span> C<span class="small-caps">HILDREN</span>
 
 *By*  
 JAWAHARLAL NEHRU
@@ -27,7 +27,7 @@ were written*
 
 ### CONTENTS
 
-### <span class="small-caps">Page</span>
+#### <span class="small-caps">Page</span>
 
 *Foreword*
 
@@ -152,9 +152,9 @@ J. N.
 
 ### Letter 1
 
-### I
+#### I
 
-### THE BOOK OF NATURE
+#### THE BOOK OF NATURE
 
 WHEN you and I are together you often ask me questions about many things and I try to answer them. Now that you are at Mussoorie and I am in Allahabad we cannot have these talks. I am therefore going to write to you from time to time short accounts of the story of our earth and the many countries, great and small, in which it is divided. You have read a little about English history and Indian history. But England is only a little island and India, though a big country, is only a small part of the earth’s surface. If we want to know something about the story of this world of ours we must think of all the countries and all the peoples that have inhabited it, and not merely of one little country where we may have been born.
 
@@ -170,7 +170,7 @@ If a little pebble can tell you so much, how much more could we learn from all t
 
 * * *
 
-### II HOW EARLY HISTORY WAS WRITTEN
+#### II<br />HOW EARLY HISTORY WAS WRITTEN
 
 IN my letter to you yesterday I pointed out that we have to study the early story of the earth from the book of nature. This book consists of every thing that you see around you—the rocks and mountains and valleys and rivers and seas and volcanoes. This book is always open before us but how few of us pay any attention to it or try to read it! If we learned how to read it and understand it, how many interesting stories it could tell us! The stories we would read about in its pages of stone would be more interesting than a fairy tale.
 
@@ -192,7 +192,7 @@ In my next letter I shall begin this fascinating story of the earth from the ver
 
 * * *
 
-### III THE MAKING OF THE EARTH
+#### III<br />THE MAKING OF THE EARTH
 
 YOU know that the earth goes round the sun and the moon goes round the earth. You know also perhaps that there are several other bodies which like the earth go round the sun. All these, including our earth, are called planets of the sun. The moon is called a satellite of the earth because it hangs on to it. The other planets have also got their satellites. The sun and the planets with their satellites form a happy family. This is called the solar system. Solar means belonging to the sun, and the sun being the father of all the planets the whole group is called the solar system.
 
@@ -216,7 +216,7 @@ As the earth became cooler and the oceans also became cooler it became possible 
 
 * * *
 
-### IV THE FIRST LIVING THINGS
+#### IV<br />THE FIRST LIVING THINGS
 
 WE saw in our last letter that for a long time the earth must have been too hot for any living thing to exist on it. When did life begin on the earth and what were the first living things? That is a very interesting question but it is also a very difficult question to answer. Let us first consider what life is. You will probably say that men are living beings and so are all animals. What about trees and shrubs and flowers and vegetables? Surely they are living also. They grow and drink up the water and breath the air and die. The chief difference between a tree and an animal is that the tree does not move about. If you remember I showed you some plants in Kew gardens in London. These plants—orchids and pitcher plants—actually eat flies. Then there are some animals, like sponges, which live at the bottom of the sea and do not move about. Sometimes it is very difficult to say whether a thing is an animal or a plant. When you study botany, the science which deals with plants, or zoology, the science of animals, you will see these strange things which are neither wholly animal nor plant.
 
@@ -250,7 +250,7 @@ We shall consider in the next letter how these simple animals developed and beca
 
 * * *
 
-### V THE ANIMALS APPEAR
+#### V<br />THE ANIMALS APPEAR
 
 WE have seen that the first signs of life on our earth probably were simple little sea animals and water plants. They could only live in the water and if they came out and dried up they must have died as the jelly fish dies today if it gets stranded on the beach and dries up. But in those days there must have been plenty of water and marshy land, much more so than we have today. Now those jelly fishes and other sea animals which had slightly tougher skins could stay a little longer on dry land than the others as they did not dry up so soon. So gradually the soft jelly fishes and everything else like them became fewer and fewer as they could not face dry land easily, and those with harder coverings became more and more. This is a very interesting thing to notice. It means that animals slowly fit themselves or adapt themselves to their surroundings. You have seen in the South Kensington Museum in London how birds and animals in winter and in cold countries where there is a lot of ice become white like snow; in tropical countries where there is a lot of green vegetation and trees they become green or some other bright colour. That is, they adapt themselves to their surroundings. They change their colour to protect themselves from their enemies as they cannot easily be seen if they are the same colour as their surroundings. They grow fur in cold countries to keep warm in the cold. So also the tiger is yellow and striped. It is like sunlight coming through the trees in the jungle. It is difficult to see the tiger in the thick jungle.
 
@@ -270,7 +270,7 @@ Later came animals which are more like the animals we see today. These are calle
 
 * * *
 
-### VI THE COMING OF MAN
+#### VI<br />THE COMING OF MAN
 
 WE saw in our last letter how life came to the earth in very simple forms and slowly through millions of years evolved and became what it is today. We also noticed one very interesting and important rule in this evolution of life—animals are always trying to adapt themselves to their surroundings. In trying to do this they have developed many new qualities and have become higher and more complicated animals. We can see this change or progress in many ways. For instance, first of all there were animals without bones but as these could not survive for long they developed bones. The first bone they developed was the back bone. So we have a division of animals—the boneless ones and those with bones. Man and the animals you see about you have of course bones.
 
@@ -300,7 +300,7 @@ The first great discovery that man probably made was that of fire. We light a fi
 
 * * *
 
-### VII THE EARLY MEN
+#### VII<br />THE EARLY MEN
 
 WE saw in our last letter that the chief difference between man and the other animals was the intelligence of man. This intelligence made him cleverer and stronger than enormous animals who would otherwise have destroyed him. As man’s intelligence grew so also grew his power. To begin with man had no special weapons to fight his enemies. He could only throw stones at them. Then he began to make out of stone axes and spears and many other things including fine stone needles. We saw many of these stone weapons in the South Kensington Museum and also in the museum in Geneva.
 
@@ -340,7 +340,7 @@ You have heard, of course, and perhaps read, about the great flood. The Bible sp
 
 * * *
 
-### VIII HOW DIFFERENT RACES WERE FORMED
+#### VIII<br />HOW DIFFERENT RACES WERE FORMED
 
 WE discussed in our last letter the Neolithic men who used to live chiefly in lake dwellings. We saw that they had made great progress in many ways. They discovered agriculture and knew how to cook and to tame animals for their use. All this was many thousands of years ago and we do not know much about them. But probably most of the races of men we have in the world today have descended from these Neolithic people. We find now, as you know, white men and yellow men and brown and black. But as a matter of fact it is not easy to divide the races of men into these four divisions. Races have got mixed up and it is difficult to say about many of them to which division they belong. Scientists measure the heads of people and by this measurement they can sometimes find out the race. There are other ways of finding this out also.
 
@@ -358,7 +358,7 @@ In India you find that in the north, in Kashmir and the Punjab, people are usual
 
 * * *
 
-### IX THE RACES AND LANGUAGES OF MANKIND
+#### IX<br />THE RACES AND LANGUAGES OF MANKIND
 
 WE can not say in what part of the world man first came into existence, nor do we know where the first human settlements were. Perhaps men came into existence in several parts at more or less the same time. It is likely however that when the great glaciers of the Ice Age were melting away and going back towards the north, men lived in the warmer regions. When the ice went there must have been vast steppes, something like the tundras which we have in Siberia now. These must have become grass lands and men must have wandered about them as they wanted grass for their cattle. These people who have no fixed place to live in and are always wandering about are called “nomads”. Even now we have some nomads in many countries, including India, like the gypsies.
 
@@ -397,7 +397,7 @@ Some languages like Turkish and Japanese do not fall into any of these three gro
 
 * * *
 
-### X THE RELATIONSHIPS OF LANGUAGES
+#### X<br />THE RELATIONSHIPS OF LANGUAGES
 
 WE have seen how the Aryans spread out over many countries and carried their language, whatever it was, wherever they went. But different climates and different conditions produced many differences in various groups of the Aryans. Each group went on changing in its own way with new habits and customs. They could not meet the other groups in other countries as it was exceedingly difficult to travel about in those days. Each group was cut off from the others. If the people of one country learnt something new they could not tell it to the people of another country. So changes came in and after some generations the one Aryan family became split up into many. Perhaps they even forgot that they all belonged to one large family. Their one language became many languages, which seemed to differ greatly from each other.
 
@@ -419,7 +419,7 @@ A<span class="small-caps">n extinct</span> R<span class="small-caps">eptile—th
 
 * * *
 
-### XI WHAT IS CIVILIZATION?
+#### XI<br />WHAT IS CIVILIZATION?
 
 I AM going to tell you something about the early civilisations. But before I do so we must try to form some idea of what civilisation means. The dictionary will tell you that to civilize means to better, to refine, to replace savage habits by good ones. And it specially refers to society or a group of people. The savage condition of people when men are little better than beasts is called barbarism. Civilisation is the reverse of that. The further away we get from barbarism the more civilised we are.
 
@@ -435,7 +435,7 @@ You will say that it is not easy to understand what civilisation means, and you 
 
 * * *
 
-### XII THE FORMATION OF TRIBES
+#### XII<br />THE FORMATION OF TRIBES
 
 I HAVE told you in my previous letters how man was very much like an animal when he first appeared on the earth. Slowly, in thousands of years, he developed and became something better. At first he must have hunted all by himself like some of the wild beasts today. Then he found that it was wiser and safer to go about in herds with other men. If many men kept together, they were stronger and could defend themselves better against the attacks of beasts and may be of other men. Even the animals go about in herds in this way for their own safety. Sheep and goats and deer and even elephants move about in herds. When the herds sleep some of them remain awake and watch over them. You must have read stories of packs of wolves also. In Russia in winter these wolves go about in packs and when they are hungry, as they often are in winter, they attack men. One wolf would seldom attack a man, but a crowd of them feel strong enough to attack a party of men. And the men have to fly for their lives, and often there is a race between the wolves and the men on sledges on the ice.
 
@@ -455,7 +455,7 @@ This seems very silly to us as we know why rain comes or hail or snow. The killi
 
 * * *
 
-### XIII HOW RELIGION BEGAN AND DIVISION OF LABOUR
+#### XIII<br />HOW RELIGION BEGAN AND DIVISION OF<br />LABOUR
 
 IN the last letter I told you how the early men were afraid of everything and imagined that every misfortune was caused by angry and jealous gods. They saw these imaginary gods everywhere—in the jungle, in the mountain, in the river, in the clouds. Their idea of god was not of a kind and good person but of a very irritable person who was always losing his temper. And as they were afraid of his anger they were always trying to bribe him by giving him something, chiefly food. Sometimes if a disaster came, like an earthquake or a flood or a disease which killed large numbers of people, they would become very frightened and think that the gods were angry. And to please them they would even go so far as to sacrifice men and women, even kill their own children, and offer them to the gods. This seems horrible but a man who is afraid will do anything.
 
@@ -483,9 +483,9 @@ We see this division of labour slowly beginning in the old tribes when agricultu
 
 * * *
 
-### XIV
+#### XIV
 
-### THE CHANGES BROUGHT ABOUT BY AGRICULTURE
+#### THE CHANGES BROUGHT ABOUT BY<br />AGRICULTURE
 
 IN my last letter I told you something about the division of labour. Right at the beginning when men used to live by hunting only there was very little division of work. Everybody hunted and he could with difficulty get enough to eat. The division of work or labour must have begun between men and women—the man hunting and the women staying at home and looking after the children and domestic animals.
 
@@ -507,7 +507,7 @@ At present I should only like you to note that agriculture resulted in producing
 
 * * *
 
-### XV THE PATRIARCH—HOW HE BEGAN
+#### XV<br />THE PATRIARCH—HOW HE BEGAN
 
 I AM afraid my letters are getting a little complicated! But the life we see around us is itself very complicated. In the old days it was much simpler, but we are now considering the time when complications first began. If we follow up our enquiry slowly, and try to understand the changes in life and society as they came in, we shall find it easier to understand many things today. And if we do not try to do so we shall never be able to understand all that is happening around us. We shall be like children lost in a dark forest. It is for this reason that I am trying to take you right back to the edge of the forest so that we may be able to find a way through it.
 
@@ -530,9 +530,9 @@ We shall see how the patriarch developed in our next letter.
 
 * * *
 
-### XVI
+#### XVI
 
-### THE PATRIARCH—HOW HE DEVELOPED
+#### THE PATRIARCH—HOW HE DEVELOPED
 
 I HOPE you do not find my account of the old tribes and their patriarchs very dull.
 
@@ -552,9 +552,9 @@ I shall have something more to say about this in my next letter.
 
 * * *
 
-### XVII
+#### XVII
 
-### THE PATRIARCH BECOMES A KING
+#### THE PATRIARCH BECOMES A KING
 
 THE old patriarch has taken up a lot of our time, has he not? We shall finish with him soon, or rather he will change his name. I started by promising to tell you how kings came and what they were. And in order to understand kings one had to go right back to the patriarchs. You must have guessed that these patriarchs became later on kings or राजा and महाराजा. The word patriarch comes from the Latin “pater” or father. He was the leader and father of his tribe or people. “Patria” which means fatherland, or one’s own country, comes from the same Latin word. You know that in French it is “Patrie”. In Sanskrit and Hindi we think of our country as the mother or motherland—मातृ-भूमि the mother land. Which do you prefer?
 
@@ -576,7 +576,7 @@ In India we have still many Rajas and Maharajas and Nawabs. You see them going a
 
 * * *
 
-### XVIII THE EARLY CIVILISATIONS
+#### XVIII<br />THE EARLY CIVILISATIONS
 
 WE have said enough about patriarchs and kings for the time being. Let us now go back a little and consider the early civilisations and the kind of people that lived in those days.
 
@@ -600,7 +600,7 @@ In Mesopotamia they settled down between the two great rivers, the Tigris and th
 
 * * *
 
-### XIX THE GREAT CITIES OF THE ANCIENT WORLD
+#### XIX<br />THE GREAT CITIES OF THE ANCIENT WORLD
 
 WE have seen that people first settled down near big rivers and in fertile valleys where food and water were abundant. Their big cities were on the banks of the rivers. You may have heard the names of some of these famous old cities. In Mesopotamia there were Babylon and Nineveh and Assur. But all of these have long ceased to exist and people sometimes find remains of these cities if they dig deep enough in the sand or earth. In thousands of years they were covered up completely by sand and earth and no trace of them could be seen. In some places new cities were built right on top of the old ones which were covered up. People who have been trying to find out about these old cities have had to dig deep, and sometimes they have found several cities one on top of the other. Of course they did not exist like this at the same time. One city probably existed for hundreds of years and people lived in it and died, and their children and children's children lived and died. Gradually the city became deserted and fewer people lived in it. At last no body lived there and the whole place became a heap of ruins. The sand and the dust came and covered up these cities and there was no one to remove it. After many, many years the whole city became covered up with this sand and dust and people even forgot that the city ever existed. Hundreds of years must have passed, and then fresh people came there and built a new city. And this new city in its turn became old and deserted and fell into ruins. And that too disappeared in course of time under sand and dust. So we find sometimes the ruins of many cities one over the other. This happened specially in sandy places for the sand covers everything quickly.
 
@@ -620,7 +620,7 @@ So also there are ancient cities in China.
 
 * * *
 
-### XX EGYPT AND CRETE
+#### XX<br />EGYPT AND CRETE
 
 WHAT kind of people lived in these cities and villages of early times? We can find something about them from the great buildings and structures that they made. Also from the writing in stone tablets which they left. Then we have a few very old books which tell us a great deal of those times.
 
@@ -648,9 +648,9 @@ T<span class="small-caps">HE</span> C<span class="small-caps">OLOSSUS OF</span> 
 
 * * *
 
-### XXI
+#### XXI
 
-### CHINA AND INDIA
+#### CHINA AND INDIA
 
 WE have seen that the early civilisations began and developed in Mesopotamia and Egypt and the little island of Crete in the Mediterranean Sea. About the same time in China and in India also great civilisations began and developed in their own way.
 
@@ -666,7 +666,7 @@ In China these small states soon gave place to a great big state, an empire. It 
 
 * * *
 
-### XXII SEA VOYAGES AND TRADE
+#### XXII<br />SEA VOYAGES AND TRADE
 
 ANOTHER interesting people of ancient times were the Phoenicians. They belonged to the same race as the Jews and Arabs. They lived specially on the western coast of Asia Minor—the Turkey of today. Their chief towns were Acre, Tyre and Sidon on the Mediterranean Sea coast. They were famous for their long journeys by sea for trading purposes. They went all over the Mediterranean Sea and right up to England by sea. They may have come to India also.
 
@@ -692,7 +692,7 @@ Even now, however, you will find sometimes in villages that people actually exch
 
 * * *
 
-### XXIII LANGUAGE, WRITING AND NUMERALS
+#### XXIII<br />LANGUAGE, WRITING AND NUMERALS
 
 WE have already considered the various languages and how they are related to each other. Let us think for a while how language must have begun.
 
@@ -722,7 +722,7 @@ But I am going too fast. We have not come to the Arabs yet.
 
 * * *
 
-### XXIV DIFFERENT CLASSES OF PEOPLE
+#### XXIV<br />DIFFERENT CLASSES OF PEOPLE
 
 BOYS and girls, and even grown ups, are often taught history in a peculiar way. They learn the names of kings and others, and dates of battles and the like. But surely history does not consist of battles and a few persons who became kings and generals. History should tell us of the people of a country; how they lived, what they did, and what they thought. It should tell us of their joys and sorrows; of their difficulties and how they overcame them. And if we study history in this way we can learn a lot from it. If we have to face the same kind of difficulty or trouble, our reading of history may help us to get over it. Specially our study of past times will help us in finding out if people have been getting better and better or worse; if there has been progress or not.
 
@@ -746,7 +746,7 @@ Lastly, there were the peasants and labourers who worked in the fields and in th
 
 * * *
 
-### XXV KINGS AND TEMPLES AND PRIESTS
+#### XXV<br />KINGS AND TEMPLES AND PRIESTS
 
 WE saw in our last letter that five different classes were formed. The biggest class was those of the peasants and labourers. The peasants ploughed the land and tilled the soil and grew the food. If the peasantry had not done so and no one else had worked on the land, there would have been no food, or at any rate very little food. So the peasants were very important. Without them everybody would have starved. The labourers also did useful work on the land and in the towns. But although these people did such important work, and were so necessary to everybody, they got very little out of it. Most of what they produced went to others, specially to the king and his class of people, including the nobles.
 
@@ -772,7 +772,7 @@ It is possible that in some places when the people first settled down in towns t
 
 * * *
 
-### XXVI A LOOK BACK
+#### XXVI<br />A LOOK BACK
 
 ARE you not quite tired of my letters! I think you deserve a rest. Well, I shall not write to you anything new for sometime. I want you just to think over what we have already done. We have rushed through millions of years in a few letters. Starting from the time when the earth was a bit of the sun we saw how it separated and slowly cooled down. The moon then shot off. For long ages there was no life. Then during millions and millions of years—have you any idea how long a time a million years is?—life grew very slowly. It is enormously difficult to be able to form an idea of millions of years. You are only ten years old and how grown up and old you are! You are a jeune fille, n’est-ce pas? A young lady! A hundred years to you is a terribly long time. And then a thousand! And a million, which is a thousand times thousand! I am afraid we can not get this in our little heads properly. We imagine that we are so important and little things annoy us and worry us. But what are these little happenings in the long history of the world? It does us good to read and learn something of these vast periods of history because we will not then worry about little things much.
 
@@ -788,9 +788,9 @@ Then we come to the growth of civilisation. We have seen the early beginnings of
 
 * * *
 
-### XXVII
+#### XXVII
 
-### PICTURES OF FOSSIL FISHES
+#### PICTURES OF FOSSIL FISHES
 
 I AM sending some picture postcards. I hope you will like them better than my long and dull letters! These cards are pictures of fossil fishes in the South Kensington Museum in London. You must have seen these fossils there. Anyway the pictures will give you some idea of what these fossils of ancient fishes are like.
 
@@ -808,9 +808,9 @@ Keep these picture cards, with the paper giving a description of them, in the en
 
 * * *
 
-### XXVIII
+#### XXVIII
 
-### FOSSILS AND RUINS
+#### FOSSILS AND RUINS
 
 I <span class="small-caps">HAVE</span> not written to you for a long time. In my last two letters we were looking back on the ancient periods which we have been considering in our letters. I sent you some picture postcards of fossil fishes to give you some idea of what these fossils were like. In Mussoorie, when we met, I showed you pictures of other fossils.
 
@@ -834,7 +834,7 @@ We have now finished our brief look back. In our next letter we shall go ahead.
 
 * * *
 
-### XXIX THE ARYANS COME TO INDIA
+#### XXIX<br />THE ARYANS COME TO INDIA
 
 SO far we have discussed very, very old times. We shall now see how man developed and what he did. All these old times are called pre-historic, that is before history, as we have no real history of that period. We have to guess a lot. We are now on the verge or edge of history.
 
@@ -856,9 +856,9 @@ Like the other people of olden times they settled down in cities on the banks of
 
 * * *
 
-### XXX
+#### XXX
 
-### WHAT WERE THE ARYANS IN INDIA LIKE?
+#### WHAT WERE THE ARYANS IN INDIA LIKE?
 
 THE Aryans must have come to India five or six thousand years ago, or perhaps even more. Of course they did not all come in a bunch. Army after army, tribe after tribe, family after family, must have come for hundreds of years. Imagine them travelling in long caravans with all their household goods laden on carts or on the backs of animals. They did not come as tourists do now-a-days. There was no going back for them. They came to stay, or fight and die. Most of them, as I have told you, came over the mountains of the north-west. But perhaps some came by sea also from the Persian Gulf and went in their little ships up the river Indus.
 
@@ -882,9 +882,9 @@ The Aryans being very proud of themselves were afraid of getting mixed up with t
 
 * * *
 
-### XXXI
+#### XXXI
 
-### THE RAMAYANA AND THE MAHABHARATA
+#### THE RAMAYANA AND THE MAHABHARATA
 
 AFTER the Vedic age in India, when the *Vedas* were written, came what is called the Epic Age. It is called the Epic Age because two great epics, that is, long poems telling us the stories of great heroes, were written then. These two books were the *Ramayana* and the *Mahabharata*, which you know.
 

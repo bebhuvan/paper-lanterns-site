@@ -7,14 +7,14 @@
 
 ## Frontmatter
 
-### B[A]PU'S LE[...] ETTERS TO MIRA [ 1924-1948 ]
+### B[A]PU'S LE[...]<br />ETTERS TO MIRA<br />[ 1924-1948 ]
 
 *[Illustration, p. 1]*
 
 NAVAJIVAN PUBLISHING HOUSE  
 AHMEDABAD
 
-### BOOKS BY GANDHIJI
+### BOOKS<br />BY GANDHIJI
 
 - An Autobiography
 - Satyagraha in South Africa
@@ -44,7 +44,7 @@ Bapu coming out of his Sevagram cottage
 
 ### BAPU’S LETTERS TO MIRA
 
-### [ 1924-1948 ]
+#### [ 1924-1948 ]
 
 નવજીવન
 
@@ -118,9 +118,9 @@ Rishikesh.
 
 ### Letter 1: M. K. Gandhi → Madeleine Slade
 
-### Post Card
+#### Post Card
 
-### **1**
+#### **1**
 
 [ For the events leading up to this and the next letter see Preface page 5. ]
 
@@ -144,7 +144,7 @@ London, W 8.
 
 ### Letter 2: M. K. GANDHI → Madeleine Slade
 
-### **2**
+#### **2**
 
 Dictated
 
@@ -174,7 +174,7 @@ England.
 
 ### Letter 3: Bapu → Mira
 
-### 3
+#### 3
 
 [ Bapu had gone out of the Ashram for three days, and I spent my spare time in preparing him a Hindustani letter, which I wrote out in both Devanagari and Urdu scripts. This was my first separation from Bapu after reaching the Ashram, and it caused me terrible pain.
 
@@ -200,7 +200,7 @@ B<span class="small-caps">apu</span>
 
 ### Letter 4: बापु → मीरां
 
-### 4
+#### 4
 
 [ Again there had come a separation, and Bapu, realizing my pain, put before me that highest truth, which, only after years and years have I been able to realize. Everytime I was separated from Bapu I used to suffer excruciatingly, and if the separation was long my health used finally to break down.
 
@@ -230,7 +230,7 @@ The chapter of *Autobiography* will be posted at the same time as this. You will
 
 ### Letter 5: Bapu → मीरां
 
-### **5**
+#### **5**
 
 [ In those days Vinoba had a Brahmachari Ashram at Wardha, situated in the place now occupied by the Mahila Ashram, and it was Bapu’s custom to go there for a few days’ rest each year before attending the Congress session.]
 
@@ -249,7 +249,7 @@ Love,
 
 ### Letter 6: BAPU → मीरां / Mirabai
 
-### **6**
+#### **6**
 
 [ After one full year in Sabarmati Ashram, Bapu had sent me to the Kanya Gurukul, then at Daryaganj, Delhi, for studying Hindi. At the same time I was to teach the students carding and spinning.]
 
@@ -271,7 +271,7 @@ Delhi.
 
 ### Letter 7: BAPU → मीरां / Mirabehn
 
-### 7
+#### 7
 
 Wardha,  
 11-12-’26 (Post Mark)
@@ -317,7 +317,7 @@ B.
 
 ### Letter 8: BAPU → मीरां / Mirabai
 
-### **8**
+#### **8**
 
 Postcard
 
@@ -340,7 +340,7 @@ Delhi.
 
 ### Letter 9: Bapu → मीरां / Mirabai
 
-### 9
+#### 9
 
 [Bapu was at the Gauhati Congress.]
 
@@ -375,7 +375,7 @@ Delhi.
 
 ### Letter 10: Bapu → मीरां
 
-### **10**
+#### **10**
 
 -12-'26
 
@@ -394,7 +394,7 @@ Yours,
 
 ### Letter 11: Bapu → मीरां / Mirabai
 
-### **11**
+#### **11**
 
 चि. मीरां,
 
@@ -423,7 +423,7 @@ Delhi.
 
 ### Letter 12: Bapu → मीरां
 
-### **12**
+#### **12**
 
 Unrevised
 
@@ -444,7 +444,7 @@ Benares alias Kashi,
 
 ### Letter 13: Bapu → मीरां / Mirabai
 
-### **13**
+#### **13**
 
 [I can remember to this day how the teaching here expressed burned into my soul when I read it.
 
@@ -474,7 +474,7 @@ Dist. Bijnor.
 
 ### Letter 14: BAPU → मीरां
 
-### **14**
+#### **14**
 
 [ Bapu was on tour.]
 
@@ -511,7 +511,7 @@ Bettiah,
 
 ### Letter 15: Bapu → मीरां / Mirabai
 
-### 15
+#### 15
 
 चि. मीरां,
 
@@ -543,7 +543,7 @@ Dist. Bijnor.
 
 ### Letter 16: Bapu → मीरां / Mirabai
 
-### 16
+#### 16
 
 [ Account-keeping was always a nightmare for me, and I finally reduced it to writing down everything and giving it to others to add up and balance.]
 
@@ -578,7 +578,7 @@ Delhi.
 
 ### Letter 17: Bapu → मोरां / Mirabai
 
-### **17**
+#### **17**
 
 Unrevised
 
@@ -603,7 +603,7 @@ Dist. Bijnor.
 
 ### Letter 18: Bapu → मीरां
 
-### **18**
+#### **18**
 
 चि. मीरां,
 
@@ -624,7 +624,7 @@ Bapu
 
 ### Letter 19: Bapu → मीरां / Mirabai
 
-### **19**
+#### **19**
 
 14-3-'27
 
@@ -648,7 +648,7 @@ Dist. Bijnor.
 
 ### Letter 20: Bapu → मीरां / Mirabai
 
-### **20**
+#### **20**
 
 [Bapu had come to Gurukul Kangri Convocation, and gone again after a few days. I was once more separated from him for a long period. I left the Gurukul along with Bapu, but parted with him on the way, as I was to go to the Bhagwadbhakti Ashram, Rewari, for further Hindustani studies.
 
@@ -679,11 +679,11 @@ Rewari.
 
 ### Letter 21: Mahadev → Mirabai
 
-### 21
+#### 21
 
 [This was the breakdown from which dates the knowledge of Bapu’s blood-pressure. No doubt the blood-pressure had been present for some time past, but Bapu’s extraordinary capacity for relentless and cheerful work had kept it unnoticed.]
 
-### Telegram
+#### Telegram
 
 Office of origin : Nipani
 
@@ -697,7 +697,7 @@ Mahadev
 
 ### Letter 22: Bapu → मीरां / Miraben
 
-### 22
+#### 22
 
 चि. मीरां,
 
@@ -717,7 +717,7 @@ Rewari (B. B. C. I. Ry.)
 
 ### Letter 23: Bapu → मीरां / Miraben
 
-### 23
+#### 23
 
 चि० मीरां,
 
@@ -740,7 +740,7 @@ Rewari.
 
 ### Letter 24: Bapu → मीरां / Miraben
 
-### **24**
+#### **24**
 
 चि. मीरां,
 
@@ -765,7 +765,7 @@ Bhagwadbhakti Ashram.
 
 ### Letter 25: Bapu → मीरां / Miraben
 
-### 25
+#### 25
 
 चि. मीरां,
 
@@ -793,7 +793,7 @@ Rampura, Rewari.
 
 ### Letter 26: Bapu → मीरां / Mirabai
 
-### **26**
+#### **26**
 
 चि. मीरां,
 
@@ -820,7 +820,7 @@ Rewari.
 
 ### Letter 27: Bapu → मीरां / Mirabai
 
-### 27
+#### 27
 
 Unrevised
 
@@ -853,7 +853,7 @@ Rampura, Rewari.
 
 ### Letter 28: Bapu → मीरां / Mirabai
 
-### **28**
+#### **28**
 
 चि. मीरां,
 
@@ -878,7 +878,7 @@ Rampura, Rewari.
 
 ### Letter 29: Bapu → Shrimati Mirabai
 
-### **29**
+#### **29**
 
 Unrevised
 
@@ -901,7 +901,7 @@ Rewari.
 
 ### Letter 30: Bapu → Shrimati Mirabai
 
-### 30
+#### 30
 
 Unrevised
 
@@ -938,7 +938,7 @@ Rewari, (B. B. & C. I. Rly.).
 
 ### Letter 31: Bapu → Shrimati Mirabai
 
-### **31**
+#### **31**
 
 Unrevised
 
@@ -966,7 +966,7 @@ Rewari.
 
 ### Letter 32: Bapu → Shrimati Mirabai
 
-### **32**
+#### **32**
 
 चि. मीरां,
 
@@ -989,7 +989,7 @@ Rewari.
 
 ### Letter 33: Bapu → Shrimati Mirabai
 
-### **33**
+#### **33**
 
 Unrevised
 
@@ -1020,7 +1020,7 @@ Rampura, Rewari.
 
 ### Letter 34: Bapu → Shrimati Mirabai
 
-### **34**
+#### **34**
 
 चि. मीरां,
 
@@ -1047,7 +1047,7 @@ Rewari.
 
 ### Letter 35: Bapu → चि. मीरां
 
-### **35**
+#### **35**
 
 चि. मीरां,
 
@@ -1067,7 +1067,7 @@ Bapu
 
 ### Letter 36: Bapu → चि. मीरां
 
-### **36**
+#### **36**
 
 Unrevised
 
@@ -1093,7 +1093,7 @@ Bapu
 
 ### Letter 37: Bapu → Shrimati Mirabai
 
-### **37**
+#### **37**
 
 चि. मीरां,
 
@@ -1118,7 +1118,7 @@ Rewari.
 
 ### Letter 38: Bapu → चि. मीरां
 
-### **38**
+#### **38**
 
 Nandi Hills,  
 28th May 1927
@@ -1141,7 +1141,7 @@ Bapu
 
 ### Letter 39: Bapu → चि. मीरां
 
-### **39**
+#### **39**
 
 चि. मीरां,
 
@@ -1160,7 +1160,7 @@ Bapu
 
 ### Letter 40: Bapu → Shrimati Miraben
 
-### **40**
+#### **40**
 
 [ I had now left Bhagvadbhakti Asharm, Rewari, and was spending a short time at Sabarmati after having been to see Bapu at Bangalore, and before going to Vinoba’s Ashram at Wardha for continuing my Hindi studies.]
 
@@ -1194,7 +1194,7 @@ Sabarmati.
 
 ### Letter 41: Bapu → चि. मीरां
 
-### **41**
+#### **41**
 
 चि. मीरां,
 
@@ -1210,7 +1210,7 @@ Bapu
 
 ### Letter 42: Bapu → चि मीरां
 
-### **42**
+#### **42**
 
 Kumara Park,  
 Bangalore, 17th July '27
@@ -1231,7 +1231,7 @@ Bapu
 
 ### Letter 43: Bapu → Shrimati Miraben
 
-### **43**
+#### **43**
 
 Half revised
 
@@ -1258,7 +1258,7 @@ Satyagraha Ashram.
 
 ### Letter 44: Bapu → चि. मीरां
 
-### **44**
+#### **44**
 
 7-9-’27
 
@@ -1274,7 +1274,7 @@ Bapu
 
 ### Letter 45: Bapu → Shri Miraben
 
-### **45**
+#### **45**
 
 [After the severe attack of malaria, I was on my way to Poona for recouping my health.]
 
@@ -1304,7 +1304,7 @@ Kalbadevi Road, Bombay.
 
 ### Letter 46: Bapu → Shrimati Miraben
 
-### **46**
+#### **46**
 
 [While I was at Poona, repeated news of the severe strain Bapu was undergoing in his South Indian tour had been more than I could bear and I had been to see him.]
 
@@ -1326,7 +1326,7 @@ Sabarmati.
 
 ### Letter 47: Bapu → Shrimati Miraben
 
-### **47**
+#### **47**
 
 Post Card
 
@@ -1346,7 +1346,7 @@ Sabarmati.
 
 ### Letter 48: Bapu → Shrimati Miraben
 
-### **48**
+#### **48**
 
 चि. मीरां,
 
@@ -1367,7 +1367,7 @@ Sabarmati.
 
 ### Letter 49: Bapu → Shrimati Miraben
 
-### **49**
+#### **49**
 
 Post Card
 
@@ -1386,7 +1386,7 @@ Sabarmati.
 
 ### Letter 50: Bapu → चि. मीरां
 
-### 50
+#### 50
 
 चि. मीरां,
 
@@ -1402,7 +1402,7 @@ Bapu
 
 ### Letter 51: Bapu → Shrimati Miraben
 
-### 51
+#### 51
 
 चि. मीरां,
 
@@ -1423,7 +1423,7 @@ Sabarmati.
 
 ### Letter 52: Bapu → चि. मीरां
 
-### **52**
+#### **52**
 
 चि. मीरां,
 
@@ -1439,7 +1439,7 @@ Monday.
 
 ### Letter 53: Bapu → Shrimati Miraben
 
-### **53**
+#### **53**
 
 [ I had gone to Bardoli Ashram in connection with Khadi work. It was during the time of the celebrated Bardoli Satyagraha. ]
 
@@ -1458,7 +1458,7 @@ Bardoli.
 
 ### Letter 54: Bapu → चि. मीरां
 
-### **54**
+#### **54**
 
 [ I had returned to Sabarmati and Bapu was in Bardoli. ]
 
@@ -1481,7 +1481,7 @@ Bapu
 
 ### Letter 55: Bapu → Shrimati Mirabai
 
-### **55**
+#### **55**
 
 [ Bapu was at Sabarmati and I had gone out on a tour for Khadi work. ]
 
@@ -1516,7 +1516,7 @@ Bihar.
 
 ### Letter 56: Bapu → Shrimati Mirabai
 
-### **56**
+#### **56**
 
 29-10-’28
 
@@ -1545,7 +1545,7 @@ Bihar.
 
 ### Letter 57: Bapu → Shrimati Miraben
 
-### 57
+#### 57
 
 Dictated
 
@@ -1570,7 +1570,7 @@ Muzaffarpur (Bihar).
 
 ### Letter 58: Bapu → चि. मीरां
 
-### **58**
+#### **58**
 
 चि. मीरां,
 
@@ -1586,7 +1586,7 @@ Bapu
 
 ### Letter 59: Bapu → Mira
 
-### **59**
+#### **59**
 
 My dear Mira,
 
@@ -1600,7 +1600,7 @@ Bapu
 
 ### Letter 60: Bapu → Shrimati Mirabai
 
-### **60**
+#### **60**
 
 [ Bapu was at Sabarmati and I was back in Bihar after a visit to Shantiniketan. ]
 
@@ -1632,9 +1632,9 @@ Bihar.
 
 ### Letter 61: Bapu → Shrimati Mirabai
 
-### **61**
+#### **61**
 
-### Post Card
+#### Post Card
 
 2-2-’29
 
@@ -1653,7 +1653,7 @@ Post Chhotaipati (Bihar).
 
 ### Letter 62: Bapu → Shrimati Mirabai
 
-### **62**
+#### **62**
 
 चि मीरां,
 
@@ -1684,7 +1684,7 @@ Bihar.
 
 ### Letter 63: Bapu → Shrimati Mirabai
 
-### **63**
+#### **63**
 
 Jacobabad
 
@@ -1709,7 +1709,7 @@ Bihar.
 
 ### Letter 64: Bapu → Shrimati Mirabai
 
-### **64**
+#### **64**
 
 चि. मीरां,
 
@@ -1731,7 +1731,7 @@ Bihar.
 
 ### Letter 65: Bapu → Shrimati Mirabai
 
-### 65
+#### 65
 
 चि० मीरां,
 
@@ -1761,7 +1761,7 @@ Post Chhotaipati (Bihar).
 
 ### Letter 66: Bapu → Shrimati Mirabai
 
-### **66**
+#### **66**
 
 चि० मीरां,
 
@@ -1781,7 +1781,7 @@ Post Chhotaipati (Bihar).
 
 ### Letter 67: Bapu → Shrimati Mirabai
 
-### **67**
+#### **67**
 
 Unrevised
 
@@ -1814,7 +1814,7 @@ P. O. Chhotaipati ( Bihar ).
 
 ### Letter 68: Bapu → Shrimati Mirabai
 
-### **68**
+#### **68**
 
 16-3-’29
 
@@ -1842,7 +1842,7 @@ Post Chhotaipati (Bihar).
 
 ### Letter 69: Bapu → Shrimati Mirabai
 
-### **69**
+#### **69**
 
 Unrevised
 
@@ -1876,7 +1876,7 @@ Bihar.
 
 ### Letter 70: Bapu → Shrimati Mirabai
 
-### **70**
+#### **70**
 
 Unrevised
 
@@ -1907,7 +1907,7 @@ Bihar.
 
 ### Letter 71: Bapu → Shrimati Mirabai
 
-### **71**
+#### **71**
 
 Morvi,  
 1st April 1929
@@ -1931,7 +1931,7 @@ Bihar.
 
 ### Letter 72: Bapu → Shrimati Miraben
 
-### **72**
+#### **72**
 
 Dictated
 
@@ -1951,7 +1951,7 @@ Bihar.
 
 ### Letter 73: Bapu → Shrimati Miraben
 
-### **73**
+#### **73**
 
 Hyderabad (Deccan),  
 7-4-1929
@@ -1981,7 +1981,7 @@ Bihar.
 
 ### Letter 74: Bapu → Shrimati Mirabai
 
-### 74
+#### 74
 
 8-4-'29
 
@@ -2004,7 +2004,7 @@ Bihar.
 
 ### Letter 75: Bapu → Shrimati Mirabai
 
-### **75**
+#### **75**
 
 चि० मीरां,
 
@@ -2029,7 +2029,7 @@ Bihar.
 
 ### Letter 76: Bapu → Shrimati Mirabai
 
-### **76**
+#### **76**
 
 Post Card
 
@@ -2048,7 +2048,7 @@ Bihar.
 
 ### Letter 77: Bapu → Shrimati Mirabai
 
-### **77**
+#### **77**
 
 चि० मीरां,
 
@@ -2065,7 +2065,7 @@ Bihar.
 
 ### Letter 78: Bapu → Shrimati Mirabai
 
-### 78
+#### 78
 
 चि० मीरां,
 
@@ -2090,9 +2090,9 @@ Chhatwan, Bihar.
 
 ### Letter 79: Bapu → Mirabai
 
-### 79
+#### 79
 
-### Telegram
+#### Telegram
 
 20-4-’29
 
@@ -2104,7 +2104,7 @@ Bapu
 
 ### Letter 80: Bapu → Shrimati Mirabai
 
-### 80
+#### 80
 
 चि. मीरां,
 
@@ -2126,7 +2126,7 @@ P. O. Zeradai (Bihar).
 
 ### Letter 81: Bapu → Mirabai
 
-### 81
+#### 81
 
 Telegram
 
@@ -2140,7 +2140,7 @@ Bapu
 
 ### Letter 82: Bapu → Shrimati Miraben
 
-### **82**
+#### **82**
 
 Dictated
 
@@ -2164,7 +2164,7 @@ Muzaffarpur.
 
 ### Letter 83: Bapu → Shrimati Mirabai
 
-### **83**
+#### **83**
 
 चि. मीरां,
 
@@ -2183,7 +2183,7 @@ Muzaffarpur, Bihar.
 
 ### Letter 84: Bapu → Shrimati Mirabai
 
-### **84**
+#### **84**
 
 Post Card
 
@@ -2204,7 +2204,7 @@ Patna.
 
 ### Letter 85: Bapu → Shrimati Mirabai
 
-### **85**
+#### **85**
 
 चि० मीरां,
 
@@ -2225,7 +2225,7 @@ Patna (Bihar).
 
 ### Letter 86: Bapu → Shrimati Miraben
 
-### **86**
+#### **86**
 
 [Again anxiety over Bapu’s health, owing to the terrific strain of his work, had become too much for me, and I had rushed to him, and again, I had received a scolding, which in its turn, always broke my heart.]
 
@@ -2252,7 +2252,7 @@ Patna.
 
 ### Letter 87: Bapu → Shrimati Mirabai
 
-### **87**
+#### **87**
 
 चि० मीरां,
 
@@ -2272,7 +2272,7 @@ Bihar.
 
 ### Letter 88: Bapu
 
-### **88**
+#### **88**
 
 [ Between the last letter and this, there came a never-to-be-forgotten period in Sabarmati Ashram. Bapu devoted all his time and energy to an intensive preparation of us all for the coming national struggle, which now, had become inevitable. The Ashram reached its zenith in physical energy and moral strength. Every morning and evening Bapu spoke in the prayers, and an atmosphere of uplifting inspiration filled the air. This letter was written the day after Bapu had left the Ashram on the famous Dandi March, in order to prepare salt on the seashore, and so launch the Salt Satyagraha campaign. The demonstration of non-violence to which Bapu refers, was the enormous crowd of thousands upon thousands of men, women and children, who came out of Ahmedabad overnight and kept vigil all round the Ashram till morning. Rumours were continually flying round that the Government had decided to arrest Bapu. But not even the British Government would have cared to arrest him in the midst of that vast multitude of devotees. I think Bapu was the only person who slept that night, and he rested in that sweet sleep which never failed him. The next morning when Bapu set out with his little band of followers on the march, this vast mass of humanity marched with him for many miles. ]
 
@@ -2298,7 +2298,7 @@ Bapu
 
 ### Letter 89: Bapu
 
-### **89**
+#### **89**
 
 चि० मीरां,
 
@@ -2312,7 +2312,7 @@ Bapu
 
 ### Letter 90: Bapu
 
-### **90**
+#### **90**
 
 चि० मीरां,
 
@@ -2335,7 +2335,7 @@ Bapu
 
 ### Letter 91: Bapu
 
-### **91**
+#### **91**
 
 चि० मीरां,
 
@@ -2349,7 +2349,7 @@ Bapu
 
 ### Letter 92: Bapu
 
-### **92**
+#### **92**
 
 चि० मीरां,
 
@@ -2373,7 +2373,7 @@ The ink portion was written after prayer.
 
 ### Letter 93: Bapu → मीरां
 
-### **93**
+#### **93**
 
 चि. मीरां,
 
@@ -2389,7 +2389,7 @@ Bapu
 
 ### Letter 94: Bapu → Mira
 
-### **94**
+#### **94**
 
 My dear Mira,
 
@@ -2403,7 +2403,7 @@ Silence day or night? Silence breaks at midnight.
 
 ### Letter 95: Bapu → मीरां
 
-### **95**
+#### **95**
 
 [The arrest has come.]
 
@@ -2432,7 +2432,7 @@ I believe it will be possible for me to receive the Ashram post. You may, theref
 
 ### Letter 96: Bapu → मीरां
 
-### **96**
+#### **96**
 
 Unrevised
 
@@ -2456,7 +2456,7 @@ Bapu
 
 ### Letter 97: Bapu → नीरां
 
-### 97
+#### 97
 
 चि० नीरां,
 
@@ -2485,7 +2485,7 @@ How do you make rigid the little wheel[^fn-p0119-1] on the spindle when it gets 
 
 ### Letter 98: Bapu → मीरां
 
-### 98
+#### 98
 
 Unrevised
 
@@ -2509,7 +2509,7 @@ Bapu
 
 ### Letter 99: Bapu → मीरां
 
-### **99**
+#### **99**
 
 Unrevised
 
@@ -2536,7 +2536,7 @@ Bapu
 
 ### Letter 100: Bapu → मीरां
 
-### 100
+#### 100
 
 चि० मीरां,
 
@@ -2565,7 +2565,7 @@ Bapu
 
 ### Letter 101: Bapu → मीरां
 
-### 101
+#### 101
 
 [I had prepared a wheel on the Bihar pattern and taken it to Yeravda Jail, as I knew, it would be difficult for Bapu to understand the method of fitting it, if I did not explain it personally. But this proved not to be possible, and Bapu sent to me the following note in the Superintendent’s office.]
 
@@ -2581,7 +2581,7 @@ Bapu
 
 ### Letter 102: Bapu → मीरां
 
-### 102
+#### 102
 
 Unrevised
 
@@ -2608,7 +2608,7 @@ Bapu
 
 ### Letter 103: Bapu → मीरां
 
-### **103**
+#### **103**
 
 चि० मीरां,
 
@@ -2626,7 +2626,7 @@ Bapu
 
 ### Letter 104: Bapu → मीरां
 
-### **104**
+#### **104**
 
 चि० मीरां,
 
@@ -2649,7 +2649,7 @@ Y. M.
 
 ### Letter 105: Bapu → मीरां
 
-### **105**
+#### **105**
 
 चि० मीरां,
 
@@ -2672,7 +2672,7 @@ Y. M.
 
 ### Letter 106: Bapu → मीरां
 
-### **106**
+#### **106**
 
 चि० मीरां,
 
@@ -2690,7 +2690,7 @@ Bapu
 
 ### Letter 107: Bapu → मीरां
 
-### **107**
+#### **107**
 
 चि० मीरां,
 
@@ -2707,7 +2707,7 @@ Y. M.
 
 ### Letter 108: Bapu → मीरां
 
-### **108**
+#### **108**
 
 चि० मीरां,
 
@@ -2724,7 +2724,7 @@ You will be glad to know that the *tant*[^fn-p0130-1] has not once broken.
 
 ### Letter 109: Bapu → मीरां
 
-### **109**
+#### **109**
 
 चि० मीरां,
 
@@ -2743,7 +2743,7 @@ Bapu
 
 ### Letter 110: Bapu → मीरां
 
-### **110**
+#### **110**
 
 चि० मीरां,
 
@@ -2760,7 +2760,7 @@ Bapu
 
 ### Letter 111: Bapu → मीरां
 
-### **111**
+#### **111**
 
 चि० मीरां,
 
@@ -2777,7 +2777,7 @@ Bapu
 
 ### Letter 112: Bapu → मीरां
 
-### **112**
+#### **112**
 
 चि० मीरां,
 
@@ -2797,7 +2797,7 @@ Bapu
 
 ### Letter 113: Bapu → मोरां
 
-### **113**
+#### **113**
 
 चि० मोरां,
 
@@ -2820,7 +2820,7 @@ Bapu
 
 ### Letter 114: Bapu → मीरां
 
-### **114**
+#### **114**
 
 चि० मीरां,
 
@@ -2838,7 +2838,7 @@ Today I have finished the 100th hymn. Only two remain to be translated of the Hi
 
 ### Letter 115: Bapu → मीरां
 
-### **115**
+#### **115**
 
 चि० मीरां,
 
@@ -2857,7 +2857,7 @@ Bapu
 
 ### Letter 116: Bapu → मीरां
 
-### **116**
+#### **116**
 
 [ I had returned to the Sabarmati Ashram ]
 
@@ -2876,7 +2876,7 @@ Bapu
 
 ### Letter 117: Bapu → मीरां
 
-### 117
+#### 117
 
 चि. मीरां,
 
@@ -2897,7 +2897,7 @@ Bapu
 
 ### Letter 118: Bapu → मीरां
 
-### **118**
+#### **118**
 
 चि. मीरां,
 
@@ -2918,7 +2918,7 @@ I hope to finish the hymns earlier than I had expected.
 
 ### Letter 119: Bapu → मीरां
 
-### **119**
+#### **119**
 
 चि. मीरां,
 
@@ -2941,7 +2941,7 @@ Bapu
 
 ### Letter 120: Bapu → मीरां
 
-### **120**
+#### **120**
 
 चि० मीरां,
 
@@ -2957,7 +2957,7 @@ Bapu
 
 ### Letter 121: Bapu → मीरां
 
-### **121**
+#### **121**
 
 चि० मीरां,
 
@@ -2977,7 +2977,7 @@ Bapu
 
 ### Letter 122: Bapu → मीरां
 
-### **122**
+#### **122**
 
 Postcard
 
@@ -2993,7 +2993,7 @@ Bapu
 
 ### Letter 123: Bapu → मीरां
 
-### **123**
+#### **123**
 
 चि. मीरां,
 
@@ -3013,7 +3013,7 @@ Bapu
 
 ### Letter 124: Bapu → मीरां
 
-### **124**
+#### **124**
 
 13-12-’30
 
@@ -3033,7 +3033,7 @@ Bapu
 
 ### Letter 125: Bapu → मीरां
 
-### **125**
+#### **125**
 
 4-30 p. m.
 
@@ -3055,7 +3055,9 @@ I am glad you have taken Surendra in hand. It is criminal how he neglects his bo
 
 And now here is the first verse of the morning prayer :
 
-‘Early in the morning, I call to mind that Being which is felt in the heart, which is *sat* (the eternal), *chit* (knowledge), *sukham* (bliss), which is the state reached by perfect men and which is the super-state. I am that immaculate Brahma which ever notes the states of dream, wakefulness and deep sleep, not this body, the compound made of the elements (earth, water, space, light and air).’ You will be interested to know that the first verse was commenced on 6th May last.
+> **[verse_insert]**
+>
+> ‘Early in the morning, I call to mind that Being which is felt in the heart, which is *sat* (the eternal), *chit* (knowledge), *sukham* (bliss), which is the state reached by perfect men and which is the super-state. I am that immaculate Brahma which ever notes the states of dream, wakefulness and deep sleep, not this body, the compound made of the elements (earth, water, space, light and air).’ You will be interested to know that the first verse was commenced on 6th May last.
 
 I am sorry that the very first verse needed correcting. The more I think, the more clearly I see the meaning. And then I do not mind how often I cut about the translation. Formerly I used to shudder to utter this verse thinking that the claim made therein was arrogant. But when I saw the meaning more clearly, I perceived at once that it was the very best thought with which to commence the day. It is a solemn declaration that we are not the changeful bodies which require sleep etc. but deep down, we are the Being, the witness pervading the countless bodies. The first part is the recalling to mind the presence of the vital principle and the second part is the affirmation that we are that vital principle. The description of the Being, the Brahma is also quite apposite. It *is*, nothing else *is* (*sat*), it is all knowledge or light (*chit*), and naturally, therefore, it is all bliss (*sukham*) or the word generally used is (*anand*). The rest is simple. You will compare this translation with what you have already, translated by Valjibhai. If there is a material difference, let me have his translation. In scholarship I should yield the palm to him. So now God willing, you may expect a present of this character every week. And here goes the bugle telling me it will presently be 9 p. m.
 
@@ -3068,7 +3070,7 @@ Bapu
 
 ### Letter 126: Bapu → मीरां
 
-### **126**
+#### **126**
 
 चि. मीरां,
 
@@ -3088,7 +3090,7 @@ Bapu
 
 ### Letter 127: Bapu → मीरां
 
-### 127
+#### 127
 
 चि. मीरां,
 
@@ -3112,7 +3114,7 @@ Bapu
 
 ### Letter 128: Bapu → मीरां
 
-### **128**
+#### **128**
 
 7th January 1931
 
@@ -3148,7 +3150,7 @@ Your description of Totaramji’s love of gardening is enchanting. I wish some y
 
 ### Letter 129: Bapu → मीरां
 
-### **129**
+#### **129**
 
 14-1-’31
 
@@ -3170,7 +3172,7 @@ Bapu
 
 ### Letter 130: Bapu → मीरां
 
-### **130**
+#### **130**
 
 [ I was again on a Khadi tour.]
 
@@ -3204,7 +3206,7 @@ Bapu
 
 ### Letter 132: Bapu → मीरां
 
-### 131
+#### 131
 
 [Between the last letter and this, eventful months had gone by. Bapu had been released from jail, Pandit Motilal Nehru had passed away, the Gandhi-Irwin Pact had been signed, and the Karachi Congress had taken place.]
 
@@ -3224,7 +3226,7 @@ Bapu
 
 ### Letter 133: Bapu → मीरां
 
-### **132**
+#### **132**
 
 चि. मीरां,
 
@@ -3238,7 +3240,7 @@ Bapu
 
 ### Letter 134: Bapu → मीरां
 
-### **133**
+#### **133**
 
 Unrevised
 
@@ -3257,7 +3259,7 @@ Bapu
 
 ### Letter 135: Bapu → मीरां
 
-### 134
+#### 134
 
 चि. मीरां,
 
@@ -3279,7 +3281,7 @@ Bapu
 
 ### Letter 136: Bapu → मीरां
 
-### **135**
+#### **135**
 
 Dictated
 
@@ -3302,7 +3304,7 @@ Bapu
 
 ### Letter 137: Bapu → मीरां
 
-### **136**
+#### **136**
 
 चि. मीरां,
 
@@ -3314,7 +3316,7 @@ Bapu
 
 ### Letter 138: Bapu → मीरां
 
-### **137**
+#### **137**
 
 चि. मीरां,
 
@@ -3335,7 +3337,7 @@ On reaching Bardoli I got your letter. Your description of mother is graphic and
 
 ### Letter 139: Bapu → मीरां
 
-### 138
+#### 138
 
 Dictated
 
@@ -3356,7 +3358,7 @@ Bapu
 
 ### Letter 140: Bapu → मीरां
 
-### 139
+#### 139
 
 चि. मीरां,
 
@@ -3398,7 +3400,7 @@ Yeravda Prison,
 
 ### Letter 142: Bapu → मीरां
 
-### 141
+#### 141
 
 चि. मीरां,
 
@@ -3415,7 +3417,7 @@ Bapu
 
 ### Letter 143: Bapu → मीरां
 
-### **142**
+#### **142**
 
 चि. मीरां,
 
@@ -3438,7 +3440,7 @@ I must apologize. I discovered today that you had packed the bow in the matting.
 
 ### Letter 144: Bapu → मीरां
 
-### **143**
+#### **143**
 
 चि. मीरां,
 
@@ -3458,7 +3460,7 @@ Bapu
 
 ### Letter 145: Bapu → मीरां
 
-### **144**
+#### **144**
 
 चि. मीरां,
 
@@ -3479,7 +3481,7 @@ Bapu
 
 ### Letter 146: Bapu → मीरां
 
-### 145
+#### 145
 
 Unrevised
 
@@ -3504,7 +3506,7 @@ Bapu
 
 ### Letter 147: Bapu → मीरां
 
-### 146
+#### 146
 
 चि. मीरां,
 
@@ -3527,7 +3529,7 @@ Y. M.,
 
 ### Letter 148: Bapu → मीरां
 
-### 147
+#### 147
 
 [As a result of my sending abroad weekly bulletins of authentic news, regarding the civil disobedience movement, I had been served with a notice to quit Bombay. As I had declined to comply, I was duly arrested, tried and sentenced to three months’ simple imprisonment, A class, and sent to Bombay female jail at Arthur Road. There being no ‘A’ class accommodation in the Debtors’ jail, which had been temporarily turned into a jail for female political prisoners, I was put with the ‘C’ class prisoners for the first two nights, after which a small kitchen in the prison yard was rigged up as my cell. But as nearly all the space was taken up by a large row of stoves, there was no room for me to sleep inside. This was a piece of good luck as it meant I had to be allowed to wander by day amongst the other prisoners in the yard and to sleep under the sky at night, while the rest were locked up in their barrack. It may be mentioned that the ‘C’ class political prisoners were mostly well educated women, used to a high standard of living, certainly higher than the Ashram standard. But the Bombay Government was particularly severe in its classification, Ba, Mrs. Naidu and myself being, as far as I can remember, the only women given ‘A’ class in the whole province. A few were given ‘B’ class and all the rest ‘C’. The most vital difference in this classification was the food supplied.]
 
@@ -3554,7 +3556,7 @@ Bapu
 
 ### Letter 149: Bapu → मीरां
 
-### **148**
+#### **148**
 
 चि. मीरां,
 
@@ -3571,7 +3573,7 @@ Bapu
 
 ### Letter 150: Bapu → मीरां
 
-### **149**
+#### **149**
 
 चि. मीरां,
 
@@ -3598,9 +3600,9 @@ Bapu
 
 ### Letter 151: Bapu → मीरां / Mirabai (Slade)
 
-### 150
+#### 150
 
-### For Mirabai (Slade)
+#### For Mirabai (Slade)
 
 चि. मीरां,
 
@@ -3629,7 +3631,7 @@ Bapu
 
 ### Letter 152: Bapu → मीरां
 
-### **151**
+#### **151**
 
 चि. मीरां,
 
@@ -3663,7 +3665,7 @@ Bapu
 
 ### Letter 153: Bapu → मीरां
 
-### **152**
+#### **152**
 
 चि. मीरां,
 
@@ -3698,7 +3700,7 @@ Bapu
 
 ### Letter 154: Bapu → मीरां
 
-### **153**
+#### **153**
 
 चि. मीरां,
 
@@ -3721,7 +3723,7 @@ Bapu
 
 ### Letter 155: Bapu → मीरां
 
-### **154**
+#### **154**
 
 चि. मीरां,
 
@@ -3744,7 +3746,7 @@ Bapu
 
 ### Letter 156: Bapu → Mirabehn
 
-### 155
+#### 155
 
 चि. मीरां,
 
@@ -3768,7 +3770,7 @@ Bapu
 
 (Undated. Date of Yeravda Post Mark 26-5-’32)
 
-### GANDHIJI - ROMAIN ROLLAND MEETING <span class="small-caps">IMPRESSION OF HIS VISIT</span>
+#### GANDHIJI - ROMAIN ROLLAND MEETING<br /><span class="small-caps">IMPRESSION OF HIS VISIT</span>
 
 The following which is taken from *The Nation* (New York) is a letter written by Romain Rolland to an American friend of his on the visit of Gandhiji to his home:
 
@@ -3788,7 +3790,7 @@ The Roman bourgeoisie, and nationalist, who had at first received him with craft
 
 His mind proceeds through successive experiments into action and he follows a straight line, but he never stops, and one would risk error in attempting to judge him by what he said ten years ago, because his thought is in constant evolution. I will give you a little example of it that is characteristic.
 
-### “ <span class="small-caps">God Is Truth</span> ”
+##### “ <span class="small-caps">God Is Truth</span> ”
 
 He was asked at Lausanne to define what he understood by God. He explained how, among the noblest attributes which the Hindu scriptures ascribed to God, he had in his youth chosen the word “truth” as most truly defining the essential element. He had then said, “God is Truth”. “But,” he added “two years ago I advanced another step. I now say, ‘Truth is God’. For even the atheists do not doubt the necessity for the power of truth. In their passion for discovering the truth, the atheists have not hesitated to deny the existence of God, and, from their point of view, they are right.” You will understand from this single trait the boldness and independence of this religious spirit from the Orient. I noted in him traits similar to Vivekanand.
 
@@ -3804,7 +3806,7 @@ My sister, having survived, has gone to take ten days’ rest at a cure in Zuric
 
 ### Letter 158: Bapu → Mirabehn
 
-### **156**
+#### **156**
 
 चि. मीरां,
 
@@ -3832,7 +3834,7 @@ Verrier suggested that we should sing a Christian hymn every Friday at evening p
 
 ### Letter 159: Bapu → Mirabehn
 
-### **157**
+#### **157**
 
 चि. मीरां,
 
@@ -3855,7 +3857,7 @@ Bapu
 
 ### Letter 160: Bapu → Mirabehn
 
-### **158**
+#### **158**
 
 Unrevised
 
@@ -3882,7 +3884,7 @@ In the envelope you will admire Vallabhbhai’s art.
 
 ### Letter 161: Bapu → Mirabehn
 
-### 159
+#### 159
 
 चि० मीरां,
 
@@ -3919,7 +3921,7 @@ P. S. You know that the quaker practice during silence does not require the clos
 
 ### Letter 162: Bapu → Mirabehn
 
-### 160
+#### 160
 
 चि. मीरां,
 
@@ -3951,7 +3953,7 @@ Bapu
 
 ### Letter 163: Bapu → Mirabehn
 
-### **161**
+#### **161**
 
 चि० मीरां,
 
@@ -3976,7 +3978,7 @@ Bapu
 
 ### Letter 164: Bapu → Mirabehn
 
-### **162**
+#### **162**
 
 चि. मीरां,
 
@@ -3999,7 +4001,7 @@ Remember us to all the friends. If you at all can, try to see Devadas. He is so 
 
 ### Letter 165: Bapu → Mirabehn
 
-### 163
+#### 163
 
 Postcard
 
@@ -4016,7 +4018,7 @@ Bapu
 
 ### Letter 166: Bapu → Mirabehn
 
-### 164
+#### 164
 
 Postcard
 
@@ -4033,7 +4035,7 @@ Bapu
 
 ### Letter 167: Bapu → Mirabehn
 
-### **165**
+#### **165**
 
 चि. मीरां,
 
@@ -4054,7 +4056,7 @@ Bapu
 
 ### Letter 168: Bapu → Mirabehn
 
-### **166**
+#### **166**
 
 चि. मीरां,
 
@@ -4077,7 +4079,7 @@ Bapu
 
 ### Letter 169: Bapu → Mirabehn
 
-### **167**
+#### **167**
 
 Postcard
 
@@ -4099,7 +4101,7 @@ Bombay.
 
 ### Letter 170: Bapu → Mirabehn
 
-### **168**
+#### **168**
 
 चि. मीरां,
 
@@ -4121,7 +4123,7 @@ Bapu
 
 ### Letter 171: Bapu → Mirabehn
 
-### 169
+#### 169
 
 चि. मीरां,
 
@@ -4141,7 +4143,7 @@ Bapu
 
 ### Letter 172: Bapu → Mirabehn
 
-### **170**
+#### **170**
 
 चि० मीरां,
 
@@ -4165,7 +4167,7 @@ Bapu
 
 ### Letter 173: Bapu → Mirabehn
 
-### **171**
+#### **171**
 
 चि० मीरां,
 
@@ -4185,7 +4187,7 @@ Bapu
 
 ### Letter 174: Bapu → Mirabehn
 
-### **172**
+#### **172**
 
 चि० मीरां,
 
@@ -4200,7 +4202,7 @@ Bapu
 
 ### Letter 175: Bapu → Mirabehn
 
-### **173**
+#### **173**
 
 [ Letter from Mahadev saying Bapu was doing fairly well. And across the top of the paper Bapu writes in his own hand the following words ]:
 
@@ -4222,7 +4224,7 @@ M.
 
 ### Letter 176: Bapu → Mirabehn
 
-### **175**
+#### **175**
 
 <span class="small-caps">TELEGRAM</span>
 
@@ -4236,7 +4238,7 @@ Bapu
 
 ### Letter 177: Bapu → Mirabehn
 
-### **176**
+#### **176**
 
 चि. मीरां,
 
@@ -4253,7 +4255,7 @@ Bapu
 
 ### Letter 178: Bapu → Mirabehn
 
-### **177**
+#### **177**
 
 चि० मीरां,
 
@@ -4273,7 +4275,7 @@ Bapu
 
 ### Letter 179: Bapu → Mirabehn
 
-### **178**
+#### **178**
 
 चि० मीरां,
 
@@ -4300,7 +4302,7 @@ Bapu
 
 ### Letter 180: Bapu → Mirabehn
 
-### **179**
+#### **179**
 
 चि. मीरां,
 
@@ -4319,7 +4321,7 @@ I understand you have no other companion.
 
 ### Letter 181: Bapu → Mirabehn
 
-### **180**
+#### **180**
 
 चि० मीरां,
 
@@ -4344,7 +4346,7 @@ Bapu
 
 ### Letter 182: Bapu → Mirabehn
 
-### **181**
+#### **181**
 
 चि० मीरां,
 
@@ -4362,7 +4364,7 @@ Bapu
 
 ### Letter 183: Bapu → Mirabehn
 
-### **182**
+#### **182**
 
 चि० मीरां,
 
@@ -4387,7 +4389,7 @@ Bapu
 
 ### Letter 184: Bapu → Mirabehn
 
-### 183
+#### 183
 
 चि० मीरां,
 
@@ -4415,7 +4417,7 @@ This is going in a special envelope which I hope you will get.
 
 ### Letter 185: Bapu → Mirabehn
 
-### **184**
+#### **184**
 
 चि० मीरां,
 
@@ -4439,7 +4441,7 @@ Bapu
 
 ### Letter 186: Bapu → मीरां
 
-### **185**
+#### **185**
 
 चि० मीरां,
 
@@ -4463,7 +4465,7 @@ Bapu
 
 ### Letter 187: Bapu → मीरां
 
-### **186**
+#### **186**
 
 चि. मीरां,
 
@@ -4487,7 +4489,7 @@ It is now after 5-30 a. m. I must now go to the “ library ” and then to the 
 
 ### Letter 188: Bapu → मीराँ
 
-### **187**
+#### **187**
 
 चि. मीराँ,
 
@@ -4512,7 +4514,7 @@ Bapu
 
 ### Letter 189: Bapu → मीरां
 
-### 188
+#### 188
 
 Unrevised
 
@@ -4541,7 +4543,7 @@ I hope you have received the book on Buddhism.
 
 ### Letter 190: Bapu
 
-### **189**
+#### **189**
 
 <span class="small-caps">Telegram</span>
 
@@ -4556,7 +4558,7 @@ Bapu
 
 ### Letter 191: Bapu → मीरां
 
-### **190**
+#### **190**
 
 Postcard
 
@@ -4572,7 +4574,7 @@ Bapu
 
 ### Letter 192: Bapu → मीरां
 
-### **191**
+#### **191**
 
 चि० मीरां,
 
@@ -4603,7 +4605,7 @@ Bapu
 
 ### Letter 193: Bapu → मीरां
 
-### **192**
+#### **192**
 
 चि० मीरां,
 
@@ -4638,7 +4640,7 @@ I am sending the first nine statements save seventh and eighth. These I must fin
 
 ### Letter 194: Bapu → मीरां
 
-### 193
+#### 193
 
 चि. मीरां,
 
@@ -4663,7 +4665,7 @@ Bapu
 
 ### Letter 195: Bapu → मीरां
 
-### 194
+#### 194
 
 Morning, after prayer.
 
@@ -4691,7 +4693,7 @@ M.
 
 ### Letter 196: Bapu → मीरां
 
-### **195**
+#### **195**
 
 चि. मीरां,
 
@@ -4717,7 +4719,7 @@ Bapu
 
 ### Letter 197: Bapu → मीरां
 
-### 196
+#### 196
 
 चि. मीरां,
 
@@ -4740,7 +4742,7 @@ Bapu
 
 ### Letter 198: Bapu → मीरां
 
-### **197**
+#### **197**
 
 चि. मीरां,
 
@@ -4763,7 +4765,7 @@ Bapu
 
 ### Letter 199: Bapu → मीरां
 
-### 198
+#### 198
 
 चि. मीरां,
 
@@ -4788,7 +4790,7 @@ Bapu
 
 ### Letter 200: Bapu → मीरां
 
-### **199**
+#### **199**
 
 चि. मीरां,
 
@@ -4820,7 +4822,7 @@ Bapu
 
 ### Letter 201: Bapu → मीरां
 
-### 200
+#### 200
 
 चि. मीरां,
 
@@ -4842,7 +4844,7 @@ Bapu
 
 ### Letter 202: Bapu → मीरां
 
-### **201**
+#### **201**
 
 चि. मीरां,
 
@@ -4879,7 +4881,7 @@ Bapu
 
 ### Letter 203: Bapu → मीरां
 
-### 202
+#### 202
 
 चि. मीरां,
 
@@ -4905,7 +4907,7 @@ Bapu
 
 ### Letter 204: Bapu → मीरां
 
-### **203**
+#### **203**
 
 चि. मीरां,
 
@@ -4927,7 +4929,7 @@ Bapu
 
 ### Letter 205: Bapu → मीरां
 
-### 204
+#### 204
 
 चि. मीरां,
 
@@ -4954,7 +4956,7 @@ Bapu
 
 ### Letter 206: Bapu → मीरां
 
-### **205**
+#### **205**
 
 चि मीरां,
 
@@ -4974,7 +4976,7 @@ Bapu
 
 ### Letter 207: Bapu → मीरां
 
-### 206
+#### 206
 
 चि. मीरां,
 
@@ -5002,7 +5004,7 @@ Bapu
 
 ### Letter 208: Bapu → मीरां
 
-### 207
+#### 207
 
 चि. मीरां,
 
@@ -5034,7 +5036,7 @@ Bapu
 
 ### Letter 209: Bapu → मीरां
 
-### **208**
+#### **208**
 
 चि. मीरां,
 
@@ -5051,7 +5053,7 @@ Bapu
 
 ### Letter 210: Bapu → मीरां
 
-### 209
+#### 209
 
 चि. मीरां,
 
@@ -5100,7 +5102,7 @@ Bapu
 
 ### Letter 213: Bapu → मीरां
 
-### **211**
+#### **211**
 
 चि. मीरां,
 
@@ -5112,7 +5114,7 @@ Bapu
 
 ### Letter 214: Bapu
 
-### **212**
+#### **212**
 
 So you have no Ba to look after or to keep company. God is trying you through and through. He will give you strength.[^fn-p0275-2]
 
@@ -5124,7 +5126,7 @@ Bapu
 
 ### Letter 215: Bapu
 
-### **213**
+#### **213**
 
 You are showing wonderful bravery. There is no true bravery to be had apart from complete reliance on God.
 
@@ -5136,7 +5138,7 @@ Bapu
 
 ### Letter 216: मीरां
 
-### **214**
+#### **214**
 
 चि. मीरां,
 
@@ -5148,7 +5150,7 @@ I have just broken the fast. The next task commences. He will find the ways and 
 
 ### Letter 217: Bapu → मीरां
 
-### **215**
+#### **215**
 
 चि० मीरां,
 
@@ -5163,7 +5165,7 @@ Bapu
 
 ### Letter 218: Bapu → मीरां
 
-### **216**
+#### **216**
 
 चि. मीरां,
 
@@ -5178,7 +5180,7 @@ Bapu
 
 ### Letter 219: Bapu → मीरां
 
-### **217**
+#### **217**
 
 Dictated
 
@@ -5207,7 +5209,7 @@ Bapu
 
 ### Letter 220: Bapu → मीरां
 
-### **218**
+#### **218**
 
 Dictated
 
@@ -5226,7 +5228,7 @@ Bapu
 
 ### Letter 221: Bapu → मीरां
 
-### **219**
+#### **219**
 
 Parnakuti  
 Poona, 21-6-’33
@@ -5245,7 +5247,7 @@ Bapu
 
 ### Letter 222: Bapu → मीरां
 
-### **220**
+#### **220**
 
 Poona,  
 29-6-'33
@@ -5268,7 +5270,7 @@ Bapu
 
 ### Letter 223: Bapu → मीरां
 
-### 221
+#### 221
 
 Poona,  
 6-7-’33
@@ -5291,7 +5293,7 @@ Bapu
 
 ### Letter 224: Bapu → मीरां
 
-### **222**
+#### **222**
 
 Poona,  
 13-7-’33
@@ -5314,7 +5316,7 @@ Bapu
 
 ### Letter 225: Bapu → मीरां
 
-### **223**
+#### **223**
 
 Ashram, Sabarmati,  
 30-7-'33.
@@ -5353,7 +5355,7 @@ Bapu
 
 ### Letter 227: Bapu → मीरां
 
-### **225**
+#### **225**
 
 चि. मीरां,
 
@@ -5365,7 +5367,7 @@ Bapu
 
 ### Letter 228: Bapu → मीरां
 
-### **226**
+#### **226**
 
 चि. मीरां,
 
@@ -5377,7 +5379,7 @@ Bapu
 
 ### Letter 229: Bapu → मीरां
 
-### **227**
+#### **227**
 
 चि. मीरां,
 
@@ -5394,7 +5396,7 @@ Bapu
 
 ### Letter 230: Bapu → मीरां
 
-### **228**
+#### **228**
 
 चि. मीरां,
 
@@ -5408,7 +5410,7 @@ Bapu
 
 ### Letter 231: Bapu → मीरां
 
-### **229**
+#### **229**
 
 चि. मीरां,
 
@@ -5430,7 +5432,7 @@ Bapu
 
 ### Letter 232: Bapu → मीरां
 
-### **230**
+#### **230**
 
 चि. मीरां,
 
@@ -5450,7 +5452,7 @@ Bapu
 
 ### Letter 233: Bapu → मीरां
 
-### **231**
+#### **231**
 
 On the train,  
 25-7-'34
@@ -5465,7 +5467,7 @@ Bapu
 
 ### Letter 234: Bapu → मीरां
 
-### **232**
+#### **232**
 
 चि. मीरां,
 
@@ -5477,7 +5479,7 @@ Bapu
 
 ### Letter 235: Bapu → मीरां
 
-### **233**
+#### **233**
 
 चि. मीरां,
 
@@ -5506,7 +5508,7 @@ I have not been able to write to Maxwell. Sorry.
 
 ### Letter 236: Bapu → मीरां
 
-### 234
+#### 234
 
 चि. मीरां,
 
@@ -5532,7 +5534,7 @@ Not revised
 
 ### Letter 237: Bapu → मीरां
 
-### **235**
+#### **235**
 
 Dictated (unrevised)
 
@@ -5553,7 +5555,7 @@ Bapu
 
 ### Letter 238: Bapu → Miraben
 
-### **236**
+#### **236**
 
 Cablegram
 
@@ -5569,7 +5571,7 @@ Bapu
 
 ### Letter 239: Bapu → Mirabai
 
-### **237**
+#### **237**
 
 Cablegram
 
@@ -5582,7 +5584,7 @@ Bapu
 
 ### Letter 240: Bapu → मीरां / Mirabehn
 
-### **238**
+#### **238**
 
 Dictated
 
@@ -5607,7 +5609,7 @@ Shrimati Mirabehn,
 
 ### Letter 241: Bapu → मीरां
 
-### **239**
+#### **239**
 
 चि. मीरां,
 
@@ -5624,7 +5626,7 @@ Bapu
 
 ### Letter 242: Bapu → मीरां
 
-### **240**
+#### **240**
 
 [ On my return from Europe, I joined Bapu at Wardha Ashram. Not long after, Bapu took up residence at Maganwadi, where the Village Industries Association was then taking root. I had remained on there when Bapu wrote the following letter from Borsad.]
 
@@ -5643,7 +5645,7 @@ Bapu
 
 ### Letter 243: Bapu → मीरां
 
-### **241**
+#### **241**
 
 चि. मीरां,
 
@@ -5660,7 +5662,7 @@ Bapu
 
 ### Letter 244: Bapu → मीरां
 
-### **242**
+#### **242**
 
 चि. मीरां,
 
@@ -5674,7 +5676,7 @@ Bapu
 
 ### Letter 245: Bapu → मीरां
 
-### **243**
+#### **243**
 
 चि. मीरां,
 
@@ -5691,7 +5693,7 @@ Bapu
 
 ### Letter 246: Bapu → मीरां
 
-### **244**
+#### **244**
 
 [Between the last letter and this there comes another eventful gap. For sometime I was serving Bapu in Maganwadi. Bapu’s health had become very bad and high blood pressure had developed. At the same time Maganwadi had become overcrowded with inmates of all descriptions. The problem of Sindi village was continuing unsolved and Bapu suddenly announced that he intended to go and live in Sindi all alone, taking what help he required from the villagers. Everyone was aghast at the idea, specially in view of Bapu’s state of health. I asked Bapu that if I went instead to Sindi, would he accept the compromise. Bapu reluctantly agreed. A small one-room cottage was built and I went there to live. I felt that Sindi was no village and that our experiences of, and experiments with regard to, village life could not really be carried on there. I, therefore, suggested that as soon as someone else would be found ready to stay in Sindi, I would go on to a real village in the countryside. The following letter was addressed to me in Segaon which was the village I had gone on to from Sindi.]:
 
@@ -5710,7 +5712,7 @@ Bapu
 
 ### Letter 247: Bapu → मीरां
 
-### **245**
+#### **245**
 
 चि. मीरां,
 
@@ -5724,7 +5726,7 @@ Bapu
 
 ### Letter 248: Bapu → मीरां
 
-### **246**
+#### **246**
 
 चि. मीरां,
 
@@ -5757,7 +5759,7 @@ Bapu
 
 ### Letter 250: Bapu → मीरां
 
-### 248
+#### 248
 
 चि. मीरां,
 
@@ -5772,7 +5774,7 @@ Bapu
 
 ### Letter 251: Bapu → मीरां
 
-### **249**
+#### **249**
 
 [ By this time I had built for myself with the help of the villagers a tiny hut in the village. ]
 
@@ -5792,7 +5794,7 @@ Bapu
 
 ### Letter 252: Bapu → मीरां
 
-### **250**
+#### **250**
 
 चि. मीरां,
 
@@ -5811,7 +5813,7 @@ Bapu
 
 ### Letter 253: Bapu → मीरां
 
-### **251**
+#### **251**
 
 [ During the hot weather which had now begun, I returned to the *bagicha* and lived, under some trees, with a little matting arranged for extra protection. ]
 
@@ -5831,7 +5833,7 @@ Bapu
 
 ### Letter 254: Bapu → मीरां
 
-### **252**
+#### **252**
 
 चि. मीरां,
 
@@ -5848,7 +5850,7 @@ Bapu
 
 ### Letter 255: Bapu → मीरां
 
-### **253**
+#### **253**
 
 चि. मीरां,
 
@@ -5873,7 +5875,7 @@ Bapu
 
 ### Letter 256: Bapu → मीरां
 
-### 254
+#### 254
 
 चि. मीरां,
 
@@ -5893,7 +5895,7 @@ We are all fasting today. I have just broken mine.
 
 ### Letter 257: Bapu → मीरां
 
-### **255**
+#### **255**
 
 चि. मीरां,
 
@@ -5909,7 +5911,7 @@ Bapu
 
 ### Letter 258: Bapu → मीरां
 
-### **256**
+#### **256**
 
 [Bapu was planning to come to stay for a few days in my camp under the trees in order to choose the exact site of his cottage and give me detailed directions as to how it was to be built.]
 
@@ -5925,7 +5927,7 @@ Bapu
 
 ### Letter 259: Bapu → मीरां
 
-### **257**
+#### **257**
 
 चि. मीरां,
 
@@ -5941,7 +5943,7 @@ Bapu
 
 ### Letter 260: Bapu → मीरां
 
-### **258**
+#### **258**
 
 चि. मीरां,
 
@@ -5956,7 +5958,7 @@ Bapu
 
 ### Letter 261: Bapu → मोरां
 
-### 259
+#### 259
 
 चि. मोरां,
 
@@ -5972,7 +5974,7 @@ Bapu
 
 ### Letter 262: Bapu → मीरां
 
-### 260
+#### 260
 
 चि. मीरां,
 
@@ -5995,7 +5997,7 @@ Bapu
 
 ### Letter 263: Bapu → मीरां
 
-### 261
+#### 261
 
 चि. मीरां,
 
@@ -6016,7 +6018,7 @@ Bapu
 
 ### Letter 264: Bapu → मीरां
 
-### **262**
+#### **262**
 
 [ I had gone down with a severe attack of malaria. My temperature rose to 105 and the weather temperature had gone up to 118. I was still living under the trees, now with Balwantsingh and Munnalalbhai. When people wanted to take me away to Wardha, I resisted strongly, as I felt much more at home with the trees, the horse and the cow, than I should with a town bungalow.]
 
@@ -6035,7 +6037,7 @@ We descend to Bangalore on 31st.
 
 ### Letter 265: Bapu → मीरां
 
-### **263**
+#### **263**
 
 चि. मीरां,
 
@@ -6053,7 +6055,7 @@ Bapu
 
 ### Letter 266: Bapu → मीरां
 
-### **264**
+#### **264**
 
 चि. मीरां,
 
@@ -6071,7 +6073,7 @@ Bapu
 
 ### Letter 267: Bapu → मीरां
 
-### **265**
+#### **265**
 
 चि. मीरां,
 
@@ -6091,7 +6093,7 @@ Bapu
 
 ### Letter 268: Bapu → मीरां
 
-### **266**
+#### **266**
 
 चि. मीरां,
 
@@ -6105,7 +6107,7 @@ Bapu
 
 ### Letter 269: Bapu → मीरां
 
-### **267**
+#### **267**
 
 चि. मीरां,
 
@@ -6131,7 +6133,7 @@ Bapu
 
 ### Letter 270: Bapu → मीरां
 
-### **268**
+#### **268**
 
 Dictated
 
@@ -6152,7 +6154,7 @@ Bapu
 
 ### Letter 271: Bapu → मीरां
 
-### **269**
+#### **269**
 
 चि. मीरां,
 
@@ -6172,7 +6174,7 @@ Bapu
 
 ### Letter 272: Bapu → मीरां
 
-### **270**
+#### **270**
 
 चि. मीरां,
 
@@ -6186,7 +6188,7 @@ Bapu
 
 ### Letter 273: Bapu → मीरां
 
-### 271
+#### 271
 
 चि. मीरां,
 
@@ -6207,7 +6209,7 @@ Bapu
 
 ### Letter 274: Bapu → मीरां
 
-### 272
+#### 272
 
 [ On the early morning of the 16th, it was pouring in torrents and we three (Balwantsingh, Munnalalbhai and myself) felt practically sure that Bapu would not come until the rain eased off. As the newly-built mud cottage was still very damp, we busied ourselves with lighting charcoal stoves and placing them in the corner where Bapu was to sit when he came. Suddenly, in the midst of our operations Bapu himself walked in, drenched to the skin. ]
 
@@ -6223,7 +6225,7 @@ Bapu
 
 ### Letter 275: Bapu → मीरां
 
-### **273**
+#### **273**
 
 [Bapu was now in his cottage at Segaon and I in mine on the hill.]
 
@@ -6233,7 +6235,7 @@ This is merely a love letter. Nothing to say except that I am praying for your r
 
 ### Letter 276: Bapu → मीरां
 
-### **274**
+#### **274**
 
 चि. मीरां,
 
@@ -6247,7 +6249,7 @@ Bapu
 
 ### Letter 277: Bapu → मीरां
 
-### **275**
+#### **275**
 
 चि. मीरां,
 
@@ -6261,7 +6263,7 @@ Bapu
 
 ### Letter 278: Bapu → मीरां
 
-### **276**
+#### **276**
 
 चि. मीरां,
 
@@ -6275,7 +6277,7 @@ Bapu
 
 ### Letter 279: Bapu → मीरां
 
-### **277**
+#### **277**
 
 चि. मीरां,
 
@@ -6289,7 +6291,7 @@ Bapu
 
 ### Letter 280: Bapu → मीरां
 
-### **278**
+#### **278**
 
 चि. मीरां,
 
@@ -6303,7 +6305,7 @@ Bapu
 
 ### Letter 281: Bapu → मीरां
 
-### **279**
+#### **279**
 
 [Bapu had gone to Banaras at the request of Shivprasad Gupta to open the Bharata Mata Mandir which he had constructed. I was convalescing in Segaon.]
 
@@ -6320,7 +6322,7 @@ Bapu
 
 ### Letter 282: Bapu → मीरां
 
-### **280**
+#### **280**
 
 चि. मीरां,
 
@@ -6339,7 +6341,7 @@ Tomorrow Rajkot. 30th Ahmedabad.
 
 ### Letter 283: Bapu → मीरां
 
-### **281**
+#### **281**
 
 चि. मीरां,
 
@@ -6354,7 +6356,7 @@ Bapu
 
 ### Letter 284: Bapu → मीरां
 
-### **282**
+#### **282**
 
 चि. मीरां,
 
@@ -6369,7 +6371,7 @@ Bapu
 
 ### Letter 285: Bapu → मीरां
 
-### **283**
+#### **283**
 
 चि. मीरां,
 
@@ -6387,7 +6389,7 @@ Bapu
 
 ### Letter 286: Bapu → मीरां
 
-### **284**
+#### **284**
 
 चि. मीरां,
 
@@ -6406,7 +6408,7 @@ Bapu
 
 ### Letter 287: Bapu → मीरां
 
-### **285**
+#### **285**
 
 चि. मीरां,
 
@@ -6423,7 +6425,7 @@ Bapu
 
 ### Letter 288: Bapu → मोरां
 
-### **286**
+#### **286**
 
 चि. मोरां,
 
@@ -6439,7 +6441,7 @@ Bapu
 
 ### Letter 289: Bapu → मीरां
 
-### **287**
+#### **287**
 
 चि. मीरां,
 
@@ -6460,7 +6462,7 @@ Bapu
 
 ### Letter 290: Bapu → मीरां
 
-### **288**
+#### **288**
 
 चि. मीरां,
 
@@ -6479,7 +6481,7 @@ Bapu
 
 ### Letter 291: Bapu → मीरां
 
-### **289**
+#### **289**
 
 चि. मीरां,
 
@@ -6506,7 +6508,7 @@ Bapu
 
 ### Letter 292: Bapu → मीरां
 
-### **290**
+#### **290**
 
 चि. मीरां,
 
@@ -6523,7 +6525,7 @@ Bapu
 
 ### Letter 293: Bapu → मीरां
 
-### **291**
+#### **291**
 
 चि. मीरां,
 
@@ -6542,7 +6544,7 @@ Bapu
 
 ### Letter 294: Bapu → मीरां
 
-### **292**
+#### **292**
 
 चि. मीरां,
 
@@ -6558,7 +6560,7 @@ Bapu
 
 ### Letter 295: Bapu → मीरां
 
-### **293**
+#### **293**
 
 चि. मीरां,
 
@@ -6580,7 +6582,7 @@ Page 318
 
 ### Letter 296: Bapu → मीरां
 
-### 294
+#### 294
 
 Calcutta,  
 22-3-'38
@@ -6601,7 +6603,7 @@ Bapu
 
 ### Letter 297: Bapu → मीरां
 
-### **295**
+#### **295**
 
 चि. मीरां,
 
@@ -6616,7 +6618,7 @@ Bapu
 
 ### Letter 298: Bapu → मीरां
 
-### **296**
+#### **296**
 
 चि. मीरां,
 
@@ -6632,7 +6634,7 @@ Bapu
 
 ### Letter 299: Bapu → मीरां
 
-### **297**
+#### **297**
 
 चि. मीरां,
 
@@ -6649,7 +6651,7 @@ Bapu
 
 ### Letter 300: Bapu → मीरां
 
-### **298**
+#### **298**
 
 चि. मीरां,
 
@@ -6666,7 +6668,7 @@ Bapu
 
 ### Letter 301: Bapu → Mira
 
-### **299**
+#### **299**
 
 Telegram (From New Delhi dated 3-10-1938).
 
@@ -6678,7 +6680,7 @@ Bapu
 
 ### Letter 302: Bapu → मीरां
 
-### **300**
+#### **300**
 
 चि. मीरां,
 
@@ -6697,7 +6699,7 @@ Bapu
 
 ### Letter 303: Bapu → मीरां
 
-### **301**
+#### **301**
 
 चि. मीरां,
 
@@ -6720,7 +6722,7 @@ Bapu
 
 ### Letter 304: Bapu → मीरां
 
-### **302**
+#### **302**
 
 चि. मीरां,
 
@@ -6739,7 +6741,7 @@ Bapu
 
 ### Letter 305: Bapu → मीरां
 
-### **303**
+#### **303**
 
 चि. मीरां,
 
@@ -6755,7 +6757,7 @@ Bapu
 
 ### Letter 306: Bapu → मीरां
 
-### **304**
+#### **304**
 
 Postcard
 
@@ -6772,7 +6774,7 @@ Bapu
 
 ### Letter 307: Bapu → मीरां
 
-### **305**
+#### **305**
 
 चि. मीरां,
 
@@ -6792,7 +6794,7 @@ I have at last your letter from Peshawar. I am quite well. B. P. is in order. Th
 
 ### Letter 308: Bapu → मीरां
 
-### 306
+#### 306
 
 Segaon, Wardha,  
 27-12-'38
@@ -6809,7 +6811,7 @@ Bapu
 
 ### Letter 309: Bapu → मीरां
 
-### **307**
+#### **307**
 
 Segaon, Wardha,  
 29-12-’38
@@ -6826,7 +6828,7 @@ Bapu
 
 ### Letter 310: Bapu → मीरां
 
-### **308**
+#### **308**
 
 चि. मीरां,
 
@@ -6843,7 +6845,7 @@ Bapu
 
 ### Letter 311: Bapu → मीरां
 
-### **309**
+#### **309**
 
 Segaon, Wardha,  
 2-2-’39
@@ -6860,7 +6862,7 @@ Bapu
 
 ### Letter 312: Bapu → मीरां
 
-### **310**
+#### **310**
 
 Segaon, Wardha,  
 3-2-’39
@@ -6877,7 +6879,7 @@ Bapu
 
 ### Letter 313: Bapu → मीरां
 
-### **311**
+#### **311**
 
 चि. मीरां,
 
@@ -6897,7 +6899,7 @@ Bapu
 
 ### Letter 314: Bapu → मीरां
 
-### **312**
+#### **312**
 
 Viramgam,  
 27-2-'39
@@ -6912,7 +6914,7 @@ Bapu
 
 ### Letter 315: Bapu → Mirabehn
 
-### **313**
+#### **313**
 
 Telegram (From Rajkot dated 27-2-’39).
 
@@ -6926,7 +6928,7 @@ Bapu
 
 ### Letter 316: Bapu → Mirabai
 
-### **314**
+#### **314**
 
 Telegram (From Rajkot dated 3-3-1939).
 
@@ -6940,7 +6942,7 @@ Bapu
 
 ### Letter 317: Bapu → Mirabai
 
-### **315**
+#### **315**
 
 Telegram (From Rajkot dated 4-3-1939).
 
@@ -6952,7 +6954,7 @@ Bapu
 
 ### Letter 318: Pyarelal → Mirabehn
 
-### **316**
+#### **316**
 
 Telegram (From Rajkot dated 7-3-1939).
 
@@ -6964,7 +6966,7 @@ Pyarelal
 
 ### Letter 319: Bapu → मीरां
 
-### **317**
+#### **317**
 
 चि. मीरां,
 
@@ -6979,7 +6981,7 @@ Bapu
 
 ### Letter 320: Bapu → मीरां
 
-### **318**
+#### **318**
 
 चि. मीरां,
 
@@ -6993,7 +6995,7 @@ Bapu
 
 ### Letter 321: Bapu → मीरां
 
-### **319**
+#### **319**
 
 On the train for Calcutta,  
 25-4-’39
@@ -7014,7 +7016,7 @@ Bapu
 
 ### Letter 322: Bapu → मीरां
 
-### **320**
+#### **320**
 
 चि. मीरां,
 
@@ -7034,7 +7036,7 @@ Bapu
 
 ### Letter 323: Bapu → मीरां
 
-### **321**
+#### **321**
 
 चि. मीरां,
 
@@ -7049,7 +7051,7 @@ Bapu
 
 ### Letter 324: Bapu → Mirabai
 
-### **322**
+#### **322**
 
 Telegram  (From Rajkot dated 29-5-1939).
 
@@ -7062,7 +7064,7 @@ Bapu
 
 ### Letter 325: Bapu → Mirabehn
 
-### **323**
+#### **323**
 
 Telegram  (From Bombay dated 6-6-1939.)
 
@@ -7088,7 +7090,7 @@ Bapu
 
 ### Letter 327: Bapu → मीरां
 
-### **325**
+#### **325**
 
 चि. मीरां,
 
@@ -7128,7 +7130,7 @@ Bapu
 
 ### Letter 329: Bapu → मीरां
 
-### **327**
+#### **327**
 
 Sevagram, Wardha,  
 12-3-’40
@@ -7166,7 +7168,7 @@ Bapu
 
 ### Letter 331: Bapu → मीरां
 
-### **329**
+#### **329**
 
 Postcard
 
@@ -7183,7 +7185,7 @@ Bapu
 
 ### Letter 332: Bapu → मीरां
 
-### **330**
+#### **330**
 
 Postcard
 
@@ -7219,7 +7221,7 @@ Bapu
 
 ### Letter 334: Bapu → मीरां
 
-### **332**
+#### **332**
 
 Sevagram,  
 Wardha, C. P., 21-9-’40
@@ -7242,7 +7244,7 @@ I expect you do not want me to give you political news or even Ashram news.[^fn-
 
 ### Letter 335: Bapu → मीरां
 
-### **333**
+#### **333**
 
 Postcard
 
@@ -7261,7 +7263,7 @@ Your *khadi* has now come. If you gave me instructions about it, I have forgotte
 
 ### Letter 336: Bapu → मीरां
 
-### **334**
+#### **334**
 
 Postcard
 
@@ -7284,7 +7286,7 @@ P[^fn-p0354-1]
 
 ### Letter 337: Bapu → मीरां
 
-### **335**
+#### **335**
 
 Postcard
 
@@ -7301,7 +7303,7 @@ Bapu
 
 ### Letter 338: Bapu → मीरां
 
-### **336**
+#### **336**
 
 Postcard
 
@@ -7318,7 +7320,7 @@ Bapu
 
 ### Letter 339: Bapu → मीरां
 
-### **337**
+#### **337**
 
 Postcard
 
@@ -7339,7 +7341,7 @@ Put alum 6 gr. to a gallon of water. Let the water stand overnight. In the morni
 
 ### Letter 340: Bapu → मीरां
 
-### **338**
+#### **338**
 
 Sevagram,  
 20-12-'40
@@ -7354,7 +7356,7 @@ Bapu
 
 ### Letter 341: Bapu → मीरां
 
-### **339**
+#### **339**
 
 Postcard
 
@@ -7371,7 +7373,7 @@ Bapu
 
 ### Letter 342: Bapu → Mirabehn
 
-### **340**
+#### **340**
 
 Telegram (From Wardha dated 30-1-’41.)
 
@@ -7383,7 +7385,7 @@ Bapu
 
 ### Letter 343: Bapu → मीरां
 
-### **341**
+#### **341**
 
 [ I had returned from the mountains and was staying in my hut on the hill. ]
 
@@ -7399,7 +7401,7 @@ Bapu
 
 ### Letter 344: Bapu → मीरां
 
-### **342**
+#### **342**
 
 [ Owing to the extreme heat in the hut on the hill, Bapu was sending me to Chorwad, by the seaside, in Junagadh State. I had halted at Nasik on the way. ]
 
@@ -7418,7 +7420,7 @@ Bapu
 
 ### Letter 345: Bapu → मीरां
 
-### **343**
+#### **343**
 
 Postcard
 
@@ -7435,7 +7437,7 @@ Bapu
 
 ### Letter 346: Bapu → मीरां
 
-### **344**
+#### **344**
 
 Sevagram, Wardha,  
 13-5-’41
@@ -7452,7 +7454,7 @@ Bapu
 
 ### Letter 347: Bapu → मीरां
 
-### **345**
+#### **345**
 
 Sevagram, Wardha,  
 22-5-’41
@@ -7473,7 +7475,7 @@ Bapu
 
 ### Letter 348: Bapu → मीरां
 
-### **346**
+#### **346**
 
 [ I had returned from Chorwad and was living in a cottage by a well in a newly planted *bagicha*, about half a mile from Sevagram.]
 
@@ -7490,7 +7492,7 @@ Bapu
 
 ### Letter 349: Bapu → मीरां
 
-### 347
+#### 347
 
 Sevagram,  
 1-7-'41
@@ -7505,7 +7507,7 @@ Bapu
 
 ### Letter 350: Bapu → मीरां
 
-### 348
+#### 348
 
 12-7-'41
 
@@ -7521,7 +7523,7 @@ Bapu
 
 ### Letter 351: Bapu → मीरां
 
-### **349**
+#### **349**
 
 चि. मीरां,
 
@@ -7535,7 +7537,7 @@ Bapu
 
 ### Letter 352: Bapu → मीरां
 
-### **350**
+#### **350**
 
 Sevagram, Wardha,  
 20-11-’41
@@ -7550,7 +7552,7 @@ Bapu
 
 ### Letter 353: Bapu → मीरां
 
-### **351**
+#### **351**
 
 Bardoli,  
 13-12-’41
@@ -7567,7 +7569,7 @@ I am in excellent form.
 
 ### Letter 354: Bapu → मीरां
 
-### **352**
+#### **352**
 
 [I had now come out of my silence and was staying in Ashadevi’s home, in order to revise and complete, with her assistance, my English rendering of selected Vedic hymns. In the cottage, where I had stayed during the last months of silence, I had caught and removed to the fields not less than 52 scorpians. One or two snakes also inhabited the place. In Ashadevi’s house, I set about catching the rats and within about a week removed over thirty to a distant upland.]
 
@@ -7584,7 +7586,7 @@ Bapu
 
 ### Letter 355: Bapu → मीरां
 
-### **353**
+#### **353**
 
 Sevagram,  
 25-1-’42
@@ -7603,7 +7605,7 @@ Bapu
 
 ### Letter 356: Bapu → मीरां
 
-### **354**
+#### **354**
 
 Sevagram,  
 15-3-’42
@@ -7620,7 +7622,7 @@ Bapu
 
 ### Letter 357: Bapu → मीरां
 
-### **355**
+#### **355**
 
 [I had gone to a village near Navsari to help Kamaladevi and Mridulabehn in the preparing and running of a women’s camp. ]
 
@@ -7637,7 +7639,7 @@ Bapu
 
 ### Letter 358: Bapu → मीरां
 
-### **356**
+#### **356**
 
 [Just at this time Bapu was writing his leader for *Harijan* entitled *Foreign Soldiers*. It must have been at practically the same hour when I wrote Bapu a long letter expressing almost exactly the same sentiments, to which I had added that, if Bapu would agree, I should like to go to the A. I. C. C. meeting shortly to be held at Allahabad and plead behind the scenes with the leaders for organizing nationwide non-violent resistance to the Japanese. To this letter Bapu replied in a wire, “If you feel like that, come at once.” At the same time he wrote the following letter:]
 
@@ -7654,13 +7656,13 @@ Bapu
 
 ### Letter 359: Bapu → मीरां
 
-### **357**
+#### **357**
 
 [I took the next train to Sevagram. As soon as I came to Bapu, he said, handing me two sheets of typed paper: “Read this. If it appeals to you, you take it to Allahabad by the next train. In the meantime I will give you an hour’s talk so as fully to explain to you my state of mind which you must make clear to the members of the Working Committee.” This paper, which Bapu handed to me, was his original draft of the “Quit India” resolution. I left for Allahabad by the next train, carrying two letters from Bapu, one for Pandit Jawaharlal, and one for Maulana Saheb, with copies of the resolution.
 
 After the passing of Bapu’s original draft resolution in modified form at Allahabad, I returned straight to Sevagram with Rajendrababu, Dr. Prafulla Ghosh and Shankarrao Deo. We placed before Bapu the resolution and asked him for marching orders, which he gave in clear and decisive tones, sending each person to his province. To me he said, “I give you the choice of three undertakings : (1) To go to Madras and plead with Rajaji, (2) To go to Delhi and reason with the Viceroy and other high British officers, (3) To go to Orissa and help to prepare the masses for non-violent non-co-operative resistance to the probable Japanese invasion of the east coast. Without a moment’s hesitation, I chose the third, and was, therefore, now in Orissa. ]
 
-### Postcard
+#### Postcard
 
 Sevagram,  
 18-5-’42
@@ -7675,7 +7677,7 @@ Bapu
 
 ### Letter 360: Bapu → मीरां
 
-### **358**
+#### **358**
 
 Sevagram,  
 23-5-’42
@@ -7696,7 +7698,7 @@ Bapu
 
 [ The following report, which I sent to Bapu, I am reproducing in full, as it explains exactly the situation which was facing us in Orissa at that time, and makes clear the full meaning of Bapu’s replies to my questions which he gives in the next letter : ]
 
-### <span class="small-caps">Question of Invasion and Occupation by the Japanese</span>
+#### <span class="small-caps">Question of Invasion and Occupation by the Japanese</span>
 
 We may take it that the Japanese will land somewhere along the Orissa coast. Probably there will be no bombing or firing at the time of landing, as there are no defence measures on the coast. From the coast they will advance rapidly across the flat dry rice fields, where the only obstructions are rivers and ditches, now mostly dry and nowhere unfordable. As far as we are able to make out there will be no serious attempt to hold the Japanese advance until the hilly and wooded regions of the Orissa States are reached. The army of defence, whatever it is, is reported to be hidden in the jungle of these parts. It is likely to make a desperate attempt to defend the Jamshedpur road, but the chances of its being successful must be very small. That means we may expect a battle to be fought in the north-west of Orissa, after which the Japanese army will pass on into Bihar. At that time the Japanese are not likely to be broadly distributed over the country, but concentrated on their lines of communication between the sea and their advancing army. The British administration will have previously disappeared from the scene.
 
@@ -7730,7 +7732,7 @@ Mira
 
 ### Letter 361: Bapu → मीरां
 
-### **359**
+#### **359**
 
 [I had had an interview with two top English officials of the then Advisory regime. Since we were in possession of the fact that the Government officials were to retire to the hills, forty or fifty miles inland, the moment there was news of the Japanese coming, and such files as they could not take in their motor cars were to be burnt and all bridges were to be blown up, my object at the interview was to request them to retire in an orderly fashion, leaving the administrative machinery in our hands. I specially pleaded with them to hand us over the keys of the jails and also not to take away the doctors and medical supplies of the civil hospitals.]
 
@@ -7758,7 +7760,7 @@ Bapu
 
 ### Letter 362: Bapu → मीरां
 
-### **360**
+#### **360**
 
 [From Orissa when danger of immediate invasion by the Japanese had lessened owing to the setting in of the rains, I went with Harikrishna Mahtab to Sevagram at the time of the Working Committee. After the “Quit India” resolution had been passed by the Committee, Bapu sent me straight to explain to the Viceroy the workings of his inmost thoughts. Lord Linlithgow, through his private secretary (Laithwaite), expressed his inability to see me; but as he wished to know what was in Bapu’s mind, it was suggested that I should see Laithwaite, which I did and talked with him for a full hour.]
 
@@ -7781,11 +7783,11 @@ Bapu
 
 ### Letter 363: Bapu → मीरां
 
-### **361**
+#### **361**
 
 [ Two unforgettable years passed between the last letter and this. From Delhi I joined Bapu in Bombay in August 1942. On August 9th, Bapu, Mahadev and myself were arrested in Birla House at 5 a. m. We three, the whole of the Working Committee and all the leading Congressmen and workers of Bombay were taken off in a special train. All but the members of the Working Committee, who, except for Mrs. Naidu, were taken on to Ahmednagar Fort, were detrained at a small station outside Poona. Bapu, Mrs. Naidu, Mahadev and myself were taken away in a car to the Aga Khan's Palace. The rest were taken to Yeravda jail. On the third day, Ba and Sushila joined us in the Aga Khan's Palace. The Palace had been surrounded with a huge barbed wire fence which, in turn, was guarded day and night by large numbers of armed police. Fateful and terrible events followed one another from the first days to the last of our incarceration. Within five days of our arrival, Mahadev died of heart failure. (Pyarelal was now sent by Government to join us.) Six months later, Bapu undertook his twentyone days’ fast which brought him to the brink of death. Not long after the fast, Mrs. Naidu became dangerously ill with malaria, and was released in a precarious condition. Ba’s health now began to fail and after a long, and most painful illness, she died in February, 1944. Shortly, after this, Bapu himself had a very severe attack of malaria which completely broke down his health. Finally the Government released Bapu and the rest of us in June of that year.]
 
-### Postcard
+#### Postcard
 
 Sevagram,  
 Wardha,  
@@ -7801,7 +7803,7 @@ Bapu
 
 ### Letter 364: Bapu → मीरां
 
-### **362**
+#### **362**
 
 Bombay,  
 18-9-’44
@@ -7822,7 +7824,7 @@ Bapu
 
 ### Letter 365: Bapu → मीरां
 
-### **363**
+#### **363**
 
 Sevagram,  
 3-12-'44
@@ -7837,7 +7839,7 @@ Bapu
 
 ### Letter 366: Bapu → मीरां
 
-### **364**
+#### **364**
 
 Sevagram,  
 18-1-'45
@@ -7856,7 +7858,7 @@ Bapu
 
 ### Letter 367: Bapu → मीरां
 
-### **365**
+#### **365**
 
 Postcard
 
@@ -7873,7 +7875,7 @@ Bapu
 
 ### Letter 368: बापुके आशीर्वाद → मीरां
 
-### **366**
+#### **366**
 
 Postcard
 
@@ -7890,7 +7892,7 @@ Love,
 
 ### Letter 369: Bapu → मीरां
 
-### **367**
+#### **367**
 
 Postcard
 
@@ -7907,7 +7909,7 @@ Bapu
 
 ### Letter 370: Bapu → मीरां
 
-### **368**
+#### **368**
 
 Postcard
 
@@ -7924,7 +7926,7 @@ Bapu
 
 ### Letter 371: Bapu → मीरां
 
-### **369**
+#### **369**
 
 Postcard
 
@@ -7941,7 +7943,7 @@ Bapu
 
 ### Letter 372: Bapu → मीरां
 
-### **370**
+#### **370**
 
 Postcard
 
@@ -7958,7 +7960,7 @@ Bapu
 
 ### Letter 373: Bapu → मीरां
 
-### **371**
+#### **371**
 
 Poona,  
 29-10-'45
@@ -7977,7 +7979,7 @@ Bapu
 
 ### Letter 374: Bapu → मीरां
 
-### **372**
+#### **372**
 
 Saranima,  
 Assam,  
@@ -7995,7 +7997,7 @@ Bapu
 
 ### Letter 375: Bapu → Miraben
 
-### **373**
+#### **373**
 
 Telegram (From Poona dated 23-2-’46.)
 
@@ -8007,7 +8009,7 @@ Bapu
 
 ### Letter 376: Bapu → Miraben
 
-### **374**
+#### **374**
 
 Telegram (From Poona dated 22-3-’46.)
 
@@ -8019,7 +8021,7 @@ Bapu
 
 ### Letter 377: Bapu → मीरां
 
-### **375**
+#### **375**
 
 Simla,  
 13-5-’46
@@ -8038,7 +8040,7 @@ Bapu
 
 ### Letter 378: Bapu → Mira
 
-### **376**
+#### **376**
 
 [In April I had become Honorary Adviser to the United Provinces Government in connection with the “Grow More Food” campaign. This had entailed a lot of touring in the hot weather, and I was now in Mussoorie for recouping my health. ]
 
@@ -8059,7 +8061,7 @@ Bapu
 
 ### Letter 379: बापु → Mira
 
-### 377
+#### 377
 
 Shrirampur,  
 Via Ramganj, East Bengal,  
@@ -8079,7 +8081,7 @@ I am glad that the Spirit moved me to this place. Let us see what is in store.
 
 ### Letter 380: बापु → Mira
 
-### **378**
+#### **378**
 
 Shrirampur,  
 Noakhali District,  
@@ -8107,7 +8109,7 @@ This I have dictated before going out for my walk, i. e., as soon after 7-30 in 
 
 ### Letter 381: Mira
 
-### **379**
+#### **379**
 
 As from Kazirkhil, Ramganj Post,  
 Noakhali District.
@@ -8137,7 +8139,7 @@ Bapu
 
 ### Letter 383: Bapu → Mira Behn
 
-### **380**
+#### **380**
 
 Bhangi Colony,  
 New Delhi, the 25th May, ’47
@@ -8156,7 +8158,7 @@ Dist. Dehra Dun.
 
 ### Letter 384: Bapu → Mira
 
-### **381**
+#### **381**
 
 Calcutta,  
 29-5-'47  
@@ -8178,7 +8180,7 @@ Bapu
 
 ### Letter 385: Bapu → Mira
 
-### **382**
+#### **382**
 
 New Delhi,  
 15-6-’47
@@ -8201,7 +8203,7 @@ Bapu
 
 ### Letter 386: बापु → Mira
 
-### **383**
+#### **383**
 
 Dictated
 
@@ -8218,7 +8220,7 @@ I have your two wires and two letters giving me a vivid description of your expe
 
 ### Letter 387: Bapu → Mira Behn
 
-### **384**
+#### **384**
 
 [I had written to Bapu, saying that I had decided to go to Delhi to get my heart examined, as the strain of the Himalayan trip had left my health very unsatisfactory.]
 
@@ -8253,7 +8255,7 @@ New Delhi.
 
 ### Letter 388: Mira
 
-### 385
+#### 385
 
 [Between the last letter and the next, events passed as follows :
 
@@ -8279,7 +8281,7 @@ Don’t rush here because I am fasting. The *yagna*, as I have called it, demand
 
 ### Letter 389: Bapu → Mira
 
-### **386**
+#### **386**
 
 Postcard
 
@@ -8548,7 +8550,7 @@ THE END
 
 On page 175, line 6, read *Correspondees* for *Correspondenees.*
 
-### OTHER BOOKS OF GENERAL INTEREST
+### OTHER BOOKS<br />OF<br />GENERAL INTEREST
 
 - The Story of Bardoli
 - Constructive Programme  

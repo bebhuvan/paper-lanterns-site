@@ -4,6 +4,8 @@ from __future__ import annotations
 
 import hashlib
 import json
+import shutil
+import subprocess
 import sys
 import tempfile
 import tomllib
@@ -434,6 +436,129 @@ class EditorialNotesTests(unittest.TestCase):
             for key in ("wikipedia", "wikisource"):
                 if key in entry:
                     self.assertTrue(entry[key].startswith("https://"), f"{slug}: non-https {key}")
+
+
+class LetterTemplateContractTests(unittest.TestCase):
+    def test_letter_template_renders_structured_table_cells_and_illustration_runs(self) -> None:
+        hugo = shutil.which("hugo")
+        self.assertIsNotNone(hugo, "hugo binary must be installed on PATH")
+        site_root = Path(__file__).resolve().parents[1]
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            src = root / "site"
+            out = root / "out"
+            src.mkdir()
+            for name in ("hugo.toml", "layouts", "assets", "data"):
+                (src / name).symlink_to(site_root / name)
+            coll = src / "content" / "collections"
+            book = coll / "fixture"
+            book.mkdir(parents=True)
+            (coll / "_index.md").write_text('+++\ntitle = "The collections"\n+++\n', encoding="utf-8")
+            (book / "_index.md").write_text(
+                json.dumps(
+                    {
+                        "title": "Fixture Correspondence",
+                        "layout": "book",
+                        "book_id": "fixture",
+                        "collection": "world-correspondence",
+                        "authors": ["Test Author"],
+                        "year": 1909,
+                        "language": "en",
+                        "provenance_tier": "community",
+                        "counts": {"letters": 1, "notes": 2, "pages": 1, "dated_letters": 1},
+                        "quality": {"score": 97.5, "out_of": 100.0},
+                        "proof": {"total_pages": 1, "p1_proofed": 0, "verified": 0, "machine_reread": 0},
+                    }
+                )
+                + "\n",
+                encoding="utf-8",
+            )
+            (book / "1.md").write_text(
+                json.dumps(
+                    {
+                        "title": "My dear Friend...",
+                        "heading": "Letter 1",
+                        "page_title": "A to B, 1 May 1909",
+                        "layout": "letter",
+                        "weight": 1,
+                        "description": "Fixture letter with table and illustration fnref.",
+                        "book_id": "fixture",
+                        "letter_id": "letter-0001",
+                        "sequence": 1,
+                        "letter_count": 1,
+                        "section_id": "sec-02",
+                        "letter_date": {"iso": "1909-05-01", "display": "1 May 1909", "short": "1 · V · 1909"},
+                        "place": "Vienna",
+                        "sender": "A",
+                        "recipient": "B",
+                        "start_page": 1,
+                        "end_page": 1,
+                        "start_folio": "1",
+                        "end_folio": "1",
+                        "pages": [{"page": 1, "leaf": 0, "folio": "1"}],
+                        "archive_id": "fixture_item",
+                        "blocks": [
+                            {
+                                "id": "p0001-b0001",
+                                "type": "table_row",
+                                "table_role": "header",
+                                "align": "left",
+                                "page": 1,
+                                "bbox": [10, 10, 90, 20],
+                                "lines": [[{"t": "Col 1 | Col 2"}]],
+                                "cells": [
+                                    {"colspan": 2, "rowspan": 1, "lines": [[{"t": "Wide Header"}, {"t": "*", "tag": "sup", "fn": "fn-p0001-1"}]]},
+                                ],
+                            },
+                            {
+                                "id": "p0001-b0002",
+                                "type": "table_row",
+                                "table_role": "body",
+                                "align": "left",
+                                "page": 1,
+                                "bbox": [10, 22, 90, 32],
+                                "lines": [[{"t": "A | B"}]],
+                                "cells": [
+                                    {"colspan": 1, "rowspan": 1, "lines": [[{"t": "Cell A"}]]},
+                                    {"colspan": 1, "rowspan": 1, "lines": [[{"t": "Cell B"}]]},
+                                ],
+                            },
+                            {
+                                "id": "p0001-b0003",
+                                "type": "illustration",
+                                "align": "center",
+                                "page": 1,
+                                "bbox": [10, 40, 90, 70],
+                                "lines": [[{"t": "[Musical notation]"}, {"t": "†", "tag": "sup", "fn": "fn-p0001-2"}]],
+                            },
+                        ],
+                        "footnotes": [
+                            {"id": "fn-p0001-1", "label": "*", "page": 1, "is_orphan": False, "lines": [[{"t": "Table note."}]]},
+                            {"id": "fn-p0001-2", "label": "†", "page": 1, "is_orphan": False, "lines": [[{"t": "Score note."}]]},
+                        ],
+                    }
+                )
+                + "\n",
+                encoding="utf-8",
+            )
+            proc = subprocess.run(
+                [str(hugo), "--source", str(src), "--destination", str(out), "--panicOnWarning", "--disableKinds", "home,RSS,sitemap,taxonomy,term"],
+                capture_output=True,
+                text=True,
+                check=False,
+            )
+            self.assertEqual(proc.returncode, 0, f"{proc.stderr}\n{proc.stdout}")
+            rendered = out / "collections" / "fixture" / "1" / "index.html"
+            html = rendered.read_text(encoding="utf-8")
+            self.assertIn('<table class="letter-table">', html)
+            self.assertIn('colspan="2"', html)
+            self.assertIn("Wide Header", html)
+            self.assertIn('href="#fn-p0001-1"', html)
+            self.assertIn("Cell B", html)
+            self.assertIn('class="illu-caption"', html)
+            self.assertIn("[Musical notation]", html)
+            self.assertIn('href="#fn-p0001-2"', html)
+            self.assertEqual(check_site.parse_page(rendered).errors, [])
 
 
 if __name__ == "__main__":

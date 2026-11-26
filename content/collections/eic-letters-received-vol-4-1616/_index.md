@@ -22,7 +22,7 @@
   "letters": 87,
   "notes": 761,
   "pages": 424,
-  "dated_letters": 84
+  "dated_letters": 85
  },
  "provenance_tier": "community",
  "quality": {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 20,
+  "flagged": 21,
   "blockers": 0
  },
  "proof": {
@@ -206,7 +206,7 @@
  "year_counts": [
   [
    1616,
-   84
+   85
   ]
  ],
  "periods": [],
@@ -220,27 +220,27 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-4-1616.epub",
-   "bytes": 469567,
-   "sha256": "35c6b3ca734f797d2a687b8ab869c2a58612c6a1762a8509d9850e1914a30d9c"
+   "bytes": 469793,
+   "sha256": "505e0c5a4ca7289776fdf3f7dcfcdf31a0f380f934b891e6d0e72f199190970e"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-4-1616.md",
-   "bytes": 932876,
-   "sha256": "34a8a3d65084e758ae67060a8cefcbafb4a4b8b249785a7cf343bc9d35d1fb9f"
+   "bytes": 933662,
+   "sha256": "141712b9b5553e2aa5bf64188b8e6789207179ece6e5b3c7f6f049d02b3a1f25"
   },
   {
    "format": "tei",
    "file": "eic-letters-received-vol-4-1616.tei.xml",
-   "bytes": 1140574,
-   "sha256": "6b322a0e43107fe40c1162680e680eac040c99e15f9bfc3854acbc9d329fd9fe"
+   "bytes": 1143867,
+   "sha256": "62a45a98f016155b57adc49aaf8ad16cce083750ef9ab09c5375c8f36014ac63"
   }
  ],
  "scan_base": "https://archive.org/download/lettersreceivedb04east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:48:24Z",
-  "source_ast_sha256": "0cc9fbeee123863060cb4ae2c51e027c18a286902ca0f21a8df3578274c847b6",
+  "compiled_at": "2026-11-24T19:21:48Z",
+  "source_ast_sha256": "73828b3630e37744776e9e8ba0ed37c75ccdb150bb01bb5ea3b75e7bfaca472e",
   "hugo_renderer_version": "1.0.0"
  }
 }

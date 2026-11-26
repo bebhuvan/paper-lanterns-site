@@ -7,7 +7,7 @@
 
 ## Frontmatter
 
-### THE LETTERS OF ROBERT SCHUMANN
+### THE<br />LETTERS OF ROBERT SCHUMANN
 
 *[Illustration, p. 10]*
 
@@ -16,7 +16,7 @@ after a portrait by Adolph Menzel
 
 Emery Walker Ph. Sc.
 
-### THE LETTERS OF ROBERT SCHUMANN
+### THE LETTERS OF<br />ROBERT SCHUMANN
 
 SELECTED AND EDITED BY DR. KARL STORCK
 
@@ -34,13 +34,13 @@ JOHN MURRAY, ALBEMARLE STREET, W.
 
 ### BOOK I
 
-### STURM UND DRANG
+#### STURM UND DRANG
 
 <span class="small-caps">Introduction</span> - - - - - - - - - - 3
 
-### PART I
+#### PART I
 
-### JEAN PAUL AND DRYASDUST
+##### JEAN PAUL AND DRYASDUST
 
 | LETTER |  |  |  |
 | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ JOHN MURRAY, ALBEMARLE STREET, W.
 
 ### PART II
 
-### <span class="small-caps">FLORESTAN AND EUSEBIUS</span>
+#### <span class="small-caps">FLORESTAN AND EUSEBIUS</span>
 
 | <span class="small-caps">LETTER</span> |  |  | <span class="small-caps">PAGE</span> |
 | --- | --- | --- | --- |
@@ -87,10 +87,11 @@ JOHN MURRAY, ALBEMARLE STREET, W.
 
 ### PART III
 
-### THE ‘<span class="small-caps">DAVIDSBÜNDLER</span>’
+#### THE ‘<span class="small-caps">DAVIDSBÜNDLER</span>’
 
-| 34. | To Friedrich Wieck | *August* 6, 1833 | 86 |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| 34. | To Friedrich Wieck | *August* 6, 1833 | 86 |
 | 35. | To Franz Otto | *August* 9, 1833 | 89 |
 | 36. | To his Mother | *November* 27, 1833 | 90 |
 | 37. | „ „ | *January* 4, 1834 | 91 |
@@ -123,18 +124,19 @@ JOHN MURRAY, ALBEMARLE STREET, W.
 
 ### BOOK II
 
-### THE FIGHT FOR CLARA
+#### THE FIGHT FOR CLARA
 
 <span class="small-caps">Introduction</span> - - - - - - - 147
 
-| 63. | Robert to Clara - - | *February* 13, 1836 - | 154 |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| 63. | Robert to Clara - - | *February* 13, 1836 - | 154 |
 | 64. | Robert to Clara - - | *August* 13, 1837 - | 156 |
-| Clara to Robert - - | *August* 15, 1837 - | 157 |  |
+|  | Clara to Robert - - | *August* 15, 1837 - | 157 |
 | 65. | To Friedrich Wieck - | *September* 13, 1837 | 158 |
 | 66. | To Ernst A. Becker - | *September* 14, 1837 | 161 |
 | 67. | Robert to Clara - - | *September* 18, 1837 | 161 |
-| Clara to Robert - - | —— 1837 | 165 |  |
+|  | Clara to Robert - - | —— 1837 | 165 |
 | 68. | Robert to Clara - - | —— 1837 | 166 |
 | 69. | „ „ - - | *October*, 3, 1837 | 166 |
 | 70. | „ „ - - | *November* 8, 1837 | 167 |
@@ -173,12 +175,13 @@ JOHN MURRAY, ALBEMARLE STREET, W.
 
 ### BOOK III
 
-### AT THE ZENITH
+#### AT THE ZENITH
 
 <span class="small-caps">Introduction</span> - - - - - - - - 233
 
-| 101. | To Camille Stamaty - | *September* 28, 1840 - | 235 |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| 101. | To Camille Stamaty - | *September* 28, 1840 - | 235 |
 | 102. | To C. Kossmaly - - | *May* 9, 1841 - - | 236 |
 | 103. | „ „ - - | *September* 1, 1842 - | 237 |
 | 104. | To H. C. Andersen - | *October* 1, 1842 - - | 237 |
@@ -214,8 +217,9 @@ JOHN MURRAY, ALBEMARLE STREET, W.
 
 <span class="small-caps">The Deepening Twilight</span> - - - - - 285
 
-| 131. | To his Wife | *September* 14, 1854 | 288 |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| 131. | To his Wife | *September* 14, 1854 | 288 |
 | 132. | „ „ | *September* 18, 1854 | 290 |
 | 133. | To Johannes Brahms | *November* 27, 1854 | 293 |
 
@@ -263,7 +267,7 @@ His power as a critic was very great. He was fearlessly outspoken and absolutely
 
 ### BOOK I
 
-### STURM UND DRANG
+#### STURM UND DRANG
 
 > Weite Welt und breites Leben,  
 > Langer Jahre redlich Streben,  
@@ -333,9 +337,9 @@ But, at least, his end was sleep—tranquil melancholy—not the agony of terror
 
 ### PART I
 
-### 1828-1840
+#### 1828-1840
 
-### JEAN PAUL AND DRYASDUST
+#### JEAN PAUL AND DRYASDUST
 
 > ‘Jean Paul is still more to me than Schiller even ; Goethe I do not yet understand.’—*To* <span class="small-caps">Flechsig</span>, *March* 17, 1828.
 
@@ -345,9 +349,9 @@ But, at least, his end was sleep—tranquil melancholy—not the agony of terror
 
 ### Letter 1: Robert Schumann → Flechsig
 
-### 1.
+#### 1.
 
-### *To Flechsig*[^fn-p0039-1] *at Leipzig.*
+#### *To Flechsig*[^fn-p0039-1] *at Leipzig.*
 
 <span class="small-caps">Zwickau</span>, *March* 17, 1828.
 
@@ -355,9 +359,9 @@ But, at least, his end was sleep—tranquil melancholy—not the agony of terror
 
 ### Letter 2: Robert Schumann → Johanna Christiane Schumann
 
-### 2.
+#### 2.
 
-### *To his Mother*[^fn-p0040-1] *at Zwickau.*
+#### *To his Mother*[^fn-p0040-1] *at Zwickau.*
 
 <span class="small-caps">Monheim</span>[^fn-p0040-2] <span class="small-caps">near Nürnberg</span>, *April* 28, 1828.
 
@@ -365,9 +369,9 @@ But, at least, his end was sleep—tranquil melancholy—not the agony of terror
 
 ### Letter 3: Robert Schumann → Johanna Christiane Schumann
 
-### 3.
+#### 3.
 
-### *To his Mother at Zwickau.*
+#### *To his Mother at Zwickau.*
 
 <span class="small-caps">Leipzig</span>, *May* 21, 1828.
 
@@ -377,9 +381,9 @@ I arrived here last Thursday, quite well, though a little depressed, and took my
 
 ### Letter 4: Robert Schumann → Johanna Christiane Schumann
 
-### 4.
+#### 4.
 
-### *To his Mother at Zwickau.*
+#### *To his Mother at Zwickau.*
 
 <span class="small-caps">Leipzig</span>, *June* 13, 1828.
 
@@ -387,9 +391,9 @@ I arrived here last Thursday, quite well, though a little depressed, and took my
 
 ### Letter 5: Robert Schumann → Johanna Christiane Schumann
 
-### 5.
+#### 5.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig</span>, *August 3*, 1828.
 
@@ -397,9 +401,9 @@ My best, best thanks, dearest Mother, for your pretty and elegant present. The s
 
 ### Letter 6: Robert Schumann → G. Rosen
 
-### 6.
+#### 6.
 
-### *To G. Rosen.*[^fn-p0046-1]
+#### *To G. Rosen.*[^fn-p0046-1]
 
 <span class="small-caps">Leipzig</span>, *August* 14, 1828.
 
@@ -422,9 +426,9 @@ Your
 
 ### Letter 7: Robert Schumann → Johanna Christiane Schumann
 
-### 7.
+#### 7.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Heidelberg</span>, *May 24,* 1829.
 
@@ -457,9 +461,9 @@ Your
 
 ### Letter 8: Robert Schumann → Johanna Christiane Schumann
 
-### 8.
+#### 8.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Heidelberg</span>, *July* 17, 1829.
 
@@ -471,9 +475,9 @@ Music here is at a very low level. There is not a decent pianist in the place. M
 
 ### Letter 9: Robert Schumann → Johanna Christiane Schumann
 
-### 9.
+#### 9.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Heidelberg</span>, *August 3*, 1829.
 
@@ -485,9 +489,9 @@ Write again, if you can, my dearest Mother—another good, inspired letter like 
 
 ### Letter 10: Robert Schumann → Johanna Christiane Schumann
 
-### 10.
+#### 10.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Berne</span>, *August* 31, 1829.
 
@@ -499,9 +503,9 @@ Spare me to-day the description of my first climb on the Rigi, when I found myse
 
 ### Letter 11: Robert Schumann → Theresa Schumann
 
-### 11.
+#### 11.
 
-### *To his Sister-in-law, Theresa Schumann.*
+#### *To his Sister-in-law, Theresa Schumann.*
 
 <span class="small-caps">Brescia</span>, *September* 16, 1829.
 
@@ -513,9 +517,9 @@ I should not hear a note of decent music here, were not the whole Italian langua
 
 ### Letter 12: Robert Schumann → Rosalie Schumann
 
-### 12.
+#### 12.
 
-### *To his Sister-in-law, Rosalie Schumann, at Schneeberg.*
+#### *To his Sister-in-law, Rosalie Schumann, at Schneeberg.*
 
 <span class="small-caps">Milan</span>, *October* 5, 1829.
 
@@ -539,9 +543,9 @@ Here goes, then:
 
 ### Letter 13: Robert Schumann → Friedrich Wieck
 
-### 13.
+#### 13.
 
-### *To Friedrich Wieck.*[^fn-p0067-1]
+#### *To Friedrich Wieck.*[^fn-p0067-1]
 
 <span class="small-caps">Heidelberg</span>, *November* 6, 1829.
 
@@ -557,9 +561,9 @@ Schubert[^fn-p0070-1] is still my ‘one and only’ love, the more so as he has
 
 ### Letter 14: Robert Schumann → Johanna Christiane Schumann
 
-### 14.
+#### 14.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Heidelberg</span>, *February* 24, 1830.
 
@@ -575,9 +579,9 @@ I should not tell you all this but for my customary frankness, and my inability 
 
 ### Letter 15: Robert Schumann → Johanna Christiane Schumann
 
-### 15.
+#### 15.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Heidelberg</span>, *July* 1, 1830, 4 *a.m.*
 
@@ -585,9 +589,9 @@ I should not tell you all this but for my customary frankness, and my inability 
 
 ### Letter 16: Robert Schumann → Johanna Christiane Schumann
 
-### 16.
+#### 16.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Heidelberg</span>, *July 30, 1830, 5 a.m.*
 
@@ -603,9 +607,9 @@ You will admit that this is the most important letter I have ever written, or am
 
 ### Letter 17: Robert Schumann → Friedrich Wieck
 
-### 17.
+#### 17.
 
-### *To Friedrich Wieck.*
+#### *To Friedrich Wieck.*
 
 <span class="small-caps">Heidelberg</span>, *August* 21, 1830.
 
@@ -619,9 +623,9 @@ You may rely upon me. Your pupil shall be worthy of the name. Ah, Master, can yo
 
 ### Letter 18: Robert Schumann → Johanna Christiane Schumann
 
-### 18.
+#### 18.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Heidelberg,</span> *August 22,* 1830.
 
@@ -643,7 +647,7 @@ Eduard’s proposal is good and kind, but it will not do, for the loss of six mo
 
 ### PART II
 
-### FLORESTAN AND EUSEBIUS
+#### FLORESTAN AND EUSEBIUS
 
 > ‘Eusebius’s mildness, Florestan’s ire—  
 > I can give thee, at will, my tears or my fire,  
@@ -656,9 +660,9 @@ Eduard’s proposal is good and kind, but it will not do, for the loss of six mo
 
 ### Letter 19: Robert Schumann → Johanna Christiane Schumann
 
-### 19.
+#### 19.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig,</span> *October* 25, 1830.
 
@@ -670,9 +674,9 @@ Will you send me, some time, *all* my letters to you ?  They would be useful to 
 
 ### Letter 20: Robert Schumann → Johanna Christiane Schumann
 
-### 20.
+#### 20.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig</span>, *November* 15, 1830.
 
@@ -680,9 +684,9 @@ Three of your letters lie before me unanswered.  First of all, my best thanks fo
 
 ### Letter 21: Robert Schumann → Johanna Christiane Schumann
 
-### 21.
+#### 21.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig</span>, *December* 15, 1830.
 
@@ -700,9 +704,9 @@ It was only a joke about my looking pale and wretched. I am as blooming as a ros
 
 ### Letter 22: Robert Schumann → Johanna Christiane Schumann
 
-### 22.
+#### 22.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 *May* 15, 1831.
 
@@ -712,9 +716,9 @@ And so I potter along. Like all young, impulsive people, I make the mistake of t
 
 ### Letter 23: Robert Schumann → J. N. Hummel
 
-### 23.
+#### 23.
 
-### *To J. N. Hummel, at Weimar.*[^fn-p0090-1]
+#### *To J. N. Hummel, at Weimar.*[^fn-p0090-1]
 
 <span class="small-caps">Leipzig</span>, *August* 20, 1831.
 
@@ -736,9 +740,9 @@ If ever I closed a letter with a feeling of genuine respect, it is this.[^fn-p00
 
 ### Letter 24: Robert Schumann → Julius Schumann
 
-### 24.
+#### 24.
 
-### *To his Brother, Julius Schumann.*
+#### *To his Brother, Julius Schumann.*
 
 <span class="small-caps">Leipzig</span>, *September 5,* 1831.
 
@@ -748,9 +752,9 @@ I must confess to you my painful, almost childish, dread of cholera, and my fear
 
 ### Letter 25: Robert Schumann → Johanna Christiane Schumann
 
-### 25.
+#### 25.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig</span>, *September* 21, 1831.
 
@@ -758,7 +762,7 @@ I must confess to you my painful, almost childish, dread of cholera, and my fear
 
 ### Letter 26: Robert Schumann → Friedrich Wieck
 
-### 26. *To Friedrich Wieck, at Frankfurt-am-Main.*
+#### 26.<br />*To Friedrich Wieck, at Frankfurt-am-Main.*
 
 <span class="small-caps">Leipzig</span>, *January* 11, 1832.
 
@@ -770,23 +774,25 @@ And now, how are you? Do not be alarmed at a certain incoherence in this letter,
 
 Chopin's Op. 1 (which I firmly believe to be Op. 10 at least) lies before me. A lady might call it quite pretty and piquant, rather like Moscheles. But I think you will let Clara learn it, for it is full of inspiration, and presents few difficulties. I modestly maintain, however, that it is separated from Op. 2 by a period of two years and a score of other compositions. . . .
 
-### 27.
-
-### *To Clara Wieck (enclosed in the above).*
-
-<span class="small-caps">My very dear Clara,</span>
-
-I could hardly repress a smile yesterday when I read in the *Didaskalia* that ‘ Fräulein Clara Wieck ' had been playing variations by Herz, etc. Forgive this levity, my dear Fräulein, but surely the best title is—none at all. Who would say Herr Paganini or Herr Goethe ? I know you are of a thoughtful turn, and understand your crazy old inventor of charades. You are to me, my dear Clara, not a sister or a girl friend, but the pilgrim's distant shrine. While you have been away I have been to Arabia for fairy tales likely to please you. There are six new ones of a man haunted by his double, a hundred and one charades, eight droll riddles, some delightfully creepy robber tales, and a white ghost story, which positively makes me shudder. Alwin[^fn-p0098-1] has grown into quite a nice boy. His new blue overcoat and his leather cap, which is just like mine, suit him uncommonly well. There is no startling news of Gustav, except that he has grown so tremendously that you will hardly know him. . . . Clemens is the drollest little fellow, very lovable and very obstinate. He talks like a book, and has the most sonorous voice. He has grown a good deal too. Alwin's violin will run away with him one of these days. . . . Have you been composing vigorously ? And if so, what ? In my dreams I sometimes hear music—it must be yours.
-
-I am now doing three-part fugue with Dorn, besides which I have finished a sonata in B minor and a book of *Papillons*, which will appear within the next fortnight—in print! Dorn is giving a concert a month from now. The Polish concert was so full that three hundred people had to be turned away. The weather is glorious to-day. How do apples taste at Frankfurt? And how is the top F in that skipping variation of Chopin's? My paper is coming to an end, like everything else except the friendship which preserves to Fräulein Clara Wieck
-
-<span class="small-caps">Her Warmest Admirer.</span>
+> **[enclosure: 27. To Clara Wieck (enclosed in the above).]**
+>
+> ##### 27.
+>
+> ##### *To Clara Wieck (enclosed in the above).*
+>
+> <span class="small-caps">My very dear Clara,</span>
+>
+> I could hardly repress a smile yesterday when I read in the *Didaskalia* that ‘ Fräulein Clara Wieck ' had been playing variations by Herz, etc. Forgive this levity, my dear Fräulein, but surely the best title is—none at all. Who would say Herr Paganini or Herr Goethe ? I know you are of a thoughtful turn, and understand your crazy old inventor of charades. You are to me, my dear Clara, not a sister or a girl friend, but the pilgrim's distant shrine. While you have been away I have been to Arabia for fairy tales likely to please you. There are six new ones of a man haunted by his double, a hundred and one charades, eight droll riddles, some delightfully creepy robber tales, and a white ghost story, which positively makes me shudder. Alwin[^fn-p0098-1] has grown into quite a nice boy. His new blue overcoat and his leather cap, which is just like mine, suit him uncommonly well. There is no startling news of Gustav, except that he has grown so tremendously that you will hardly know him. . . . Clemens is the drollest little fellow, very lovable and very obstinate. He talks like a book, and has the most sonorous voice. He has grown a good deal too. Alwin's violin will run away with him one of these days. . . . Have you been composing vigorously ? And if so, what ? In my dreams I sometimes hear music—it must be yours.
+>
+> I am now doing three-part fugue with Dorn, besides which I have finished a sonata in B minor and a book of *Papillons*, which will appear within the next fortnight—in print! Dorn is giving a concert a month from now. The Polish concert was so full that three hundred people had to be turned away. The weather is glorious to-day. How do apples taste at Frankfurt? And how is the top F in that skipping variation of Chopin's? My paper is coming to an end, like everything else except the friendship which preserves to Fräulein Clara Wieck
+>
+> <span class="small-caps">Her Warmest Admirer.</span>
 
 ### Letter 27: Robert Schumann → Heinrich Dorn
 
-### 28.
+#### 28.
 
-### *To Heinrich Dorn.*
+#### *To Heinrich Dorn.*
 
 <span class="small-caps">Leipzig</span>, *April* 25, 1832.
 
@@ -800,9 +806,9 @@ But I hope, all the same, you will forgive and make excuses for
 
 ### Letter 28: Robert Schumann → Johanna Christiane Schumann
 
-### 29.
+#### 29.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig,</span> *May* 8, 1832.
 
@@ -816,9 +822,9 @@ But, as I wish to be perfectly open with you, dear Mother, I confess unblushingl
 
 ### Letter 29: Robert Schumann → Johanna Christiane Schumann
 
-### 30.
+#### 30.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig</span>, *August* 9, 1832.
 
@@ -828,9 +834,9 @@ My journey to Vienna has to be postponed on the same account. If my cure succeed
 
 ### Letter 30: Robert Schumann → Johanna Christiane Schumann
 
-### 31.
+#### 31.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig</span>, *November* 6, 1832,  
 *at* 2 *a.m. precisely.*
@@ -843,9 +849,9 @@ Farewell, dearest Mother.
 
 ### Letter 31: Robert Schumann → Johanna Christiane Schumann
 
-### 32.
+#### 32.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig</span>, *June* 28, 1833.
 
@@ -855,9 +861,9 @@ Eduard will probably have told you that I have seen a good deal of Kalkbrenner,[
 
 ### Letter 32: Clara Wieck
 
-### 33.
+#### 33.
 
-### *To Clara Wieck.*
+#### *To Clara Wieck.*
 
 <span class="small-caps">Leipzig</span>, *August 2*, 1833.
 
@@ -871,16 +877,16 @@ As the weather is so very threatening to-day, I am afraid I must deny myself the
 
 ### PART III
 
-### THE ‘DAVIDSBÜNDLER’
+#### THE ‘DAVIDSBÜNDLER’
 
 > ‘The *Davidsbund*[^fn-p0112-1] is, as you will have gathered, a spiritual and romantic league. Mozart was as much a member of it as Berlioz now is, or as you now are, without being enrolled in due form.’  
 > —*From a letter to* <span class="small-caps">Heinrich Dorn</span>, *September* 14, 1836.
 
 ### Letter 33: Friedrich Wieck
 
-### 34.
+#### 34.
 
-### *To Friedrich Wieck.*
+#### *To Friedrich Wieck.*
 
 <span class="small-caps">Leipzig</span>, *August* 6, 1833.
 
@@ -896,9 +902,9 @@ I am not so foolish as to suppose that there is anything new to you in this lett
 
 ### Letter 34: Franz Otto
 
-### 35.
+#### 35.
 
-### *To Franz Otto.*
+#### *To Franz Otto.*
 
 <span class="small-caps">Leipzig</span>, *August* 9, 1833.
 
@@ -910,9 +916,9 @@ You must accept this letter, my dear fellow, as the beginning of a really connec
 
 ### Letter 35: his Mother
 
-### 36.
+#### 36.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig</span>, *November 27, 1833.*
 
@@ -920,9 +926,9 @@ You must accept this letter, my dear fellow, as the beginning of a really connec
 
 ### Letter 36: his Mother
 
-### 37.
+#### 37.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig</span>, *January* 4, 1834.
 
@@ -932,9 +938,9 @@ You ask if I have enough money. I must confess—no. The interest I draw and my 
 
 ### Letter 37: his Mother
 
-### 38.
+#### 38.
 
-### *To his Mother.*
+#### *To his Mother.*
 
 <span class="small-caps">Leipzig</span>, *July 2*, 1834.
 
@@ -946,9 +952,9 @@ Added to this, two glorious women have entered our circle. I told you before of 
 
 ### Letter 38: Ernestine von Fricken
 
-### 39.
+#### 39.
 
-### *To Ernestine von Fricken.*[^fn-p0121-1]
+#### *To Ernestine von Fricken.*[^fn-p0121-1]
 
 <span class="small-caps">Leipzig</span>, *July* 28, 1834.
 
@@ -958,9 +964,9 @@ If ever I wished time would stand still, it is at this moment; and if ever I clo
 
 ### Letter 39: R. S. → Frau Henrietta Voigt
 
-### 40.
+#### 40.
 
-### *To Frau Henrietta Voigt.*[^fn-p0122-1]
+#### *To Frau Henrietta Voigt.*[^fn-p0122-1]
 
 *Undated* [*Summer, 1834*].
 
@@ -976,9 +982,9 @@ R. S.
 
 ### Letter 40: Captain von Fricken
 
-### 41.
+#### 41.
 
-### *To Captain von Fricken,*[^fn-p0124-1] *Asch.*
+#### *To Captain von Fricken,*[^fn-p0124-1] *Asch.*
 
 [<span class="small-caps">Zwickau</span>], *November* 20, 1834.
 
@@ -988,13 +994,13 @@ I will spare myself a detailed reply until I send the Allegro,[^fn-p0126-1] whic
 
 ### Letter 41: Advocate Dr. Töpken
 
-### 42.
+#### 42.
 
-### *To the Advocate Dr. Töpken,*[^fn-p0126-2] *Bremen.*
+#### *To the Advocate Dr. Töpken,*[^fn-p0126-2] *Bremen.*
 
 <span class="small-caps">Leipzig</span>, *February* 6, 1835.
 
-. . . But why do you leave me so long without a letter? In case you persist too long in your silence, I threaten to announce in one of the coming numbers that ‘Herr T. Töpken, Doktor, our Bremen correspondent, died on. . . .’ I assure you, all the subscribers are asking what has become of the Bremen correspondent. If good historical material is so scarce, you can always fill up with fine critical remarks. You know me well enough to be aware how little I care about artists, and how much about art. I mean that your copy can be as little personal as you like if gossip is lacking. But as I have heard nothing but good of your concerts, you should be the more inspired to write inspiringly, especially as you must have a sideinterest in them. So, my dear good fellow, I count on hearing from you soon.
+. . . But why do you leave me so long without a letter? In case you persist too long in your silence, I threaten to announce in one of the coming numbers that ‘Herr T. Töpken, Doktor, our Bremen correspondent, died on. . . .’ I assure you, all the subscribers are asking what has become of the Bremen correspondent. If good historical material is so scarce, you can always fill up with fine critical remarks. You know me well enough to be aware how little I care about artists, and how much about art. I mean that your copy can be as little personal as you like if gossip is lacking. But as I have heard nothing but good of your concerts, you should be the more inspired to write inspiringly, especially as you must have a side-interest in them. So, my dear good fellow, I count on hearing from you soon.
 
 I am now sole editor and proprietor. That is, I must put money into it for two years more, after which I hope for some return. How do you like the first numbers ? In the last quarter of last year there was not enough solid opinion and finished criticism. But there are to be many improvements now. You may count upon that, and recommend the paper wherever you can, always provided that it does not offend your convictions.
 
@@ -1004,9 +1010,9 @@ You would deserve better letters if you answered them sooner. In conclusion, her
 
 ### Letter 42: Theresa Schumann
 
-### 43.
+#### 43.
 
-### *To his Sister-in-law, Theresa Schumann.*
+#### *To his Sister-in-law, Theresa Schumann.*
 
 <span class="small-caps">Leipzig</span>, *April* 1, 1836.
 
@@ -1020,9 +1026,9 @@ Mendelssohn[^fn-p0129-1] . . . is a god among men, and you ought to know him. Da
 
 ### Letter 43: Theresa Schumann
 
-### 44.
+#### 44.
 
-### *To Theresa Schumann.*
+#### *To Theresa Schumann.*
 
 L(<span class="small-caps">eipzig</span>), *November* 15, 1836.
 
@@ -1034,9 +1040,9 @@ C[lara] loves me as much as ever, but I have quite given up hope. I often go to 
 
 ### Letter 44: A. von Zuccalmaglio
 
-### 45.
+#### 45.
 
-### *To A. von Zuccalmaglio.*[^fn-p0132-2]
+#### *To A. von Zuccalmaglio.*[^fn-p0132-2]
 
 <span class="small-caps">Leipzig</span>, *January* 31, 1837.
 
@@ -1052,9 +1058,9 @@ Have you any smaller poems, suitable for musical composition, for the paper ? I 
 
 ### Letter 45: A. von Zuccalmaglio
 
-### 46.
+#### 46.
 
-### *To A. von Zuccalmaglio.*
+#### *To A. von Zuccalmaglio.*
 
 <span class="small-caps">Leipzig</span>, *May* 18, 1837.
 
@@ -1064,9 +1070,9 @@ I am really sorry you are not coming, as there are various things I wanted to ta
 
 ### Letter 46: J. Moscheles
 
-### 47.
+#### 47.
 
-### *To J. Moscheles, Flottbeck, near Hamburg.*
+#### *To J. Moscheles, Flottbeck, near Hamburg.*
 
 <span class="small-caps">Leipzig</span>, *August 23,* 1837.
 
@@ -1078,9 +1084,9 @@ My immediate attention, however, is given to preparing four Studies of different
 
 ### Letter 47: Simonin de Sire
 
-### 48.
+#### 48.
 
-### *To Simonin de Sire, Dinant, Belgium.*[^fn-p0137-1]
+#### *To Simonin de Sire, Dinant, Belgium.*[^fn-p0137-1]
 
 <span class="small-caps">Leipzig</span>, *February* 8, 1838.
 
@@ -1098,9 +1104,9 @@ I could write much more, my dear sir, but will content myself for to-day with cl
 
 ### Letter 48: Eduard Schumann / Karl Schumann
 
-### 49.
+#### 49.
 
-### *To Eduard and Karl Schumann.*
+#### *To Eduard and Karl Schumann.*
 
 <span class="small-caps">Leipzig</span>, *March* 19, 1838.
 
@@ -1120,9 +1126,9 @@ I hope you will sympathize in my happiness, and be ever the affectionate brother
 
 ### Letter 49: Theresa Schumann
 
-### 50.
+#### 50.
 
-### *To Theresa Schumann.*
+#### *To Theresa Schumann.*
 
 <span class="small-caps">Leipzig</span>, *March 25*, 1838.
 
@@ -1134,9 +1140,9 @@ That I (do as you like and as you think best about giving my name) am engaged to
 
 ### Letter 50: J. Fischhof
 
-### 51.
+#### 51.
 
-### *To J. Fischhof.*[^fn-p0145-1]
+#### *To J. Fischhof.*[^fn-p0145-1]
 
 <span class="small-caps">Leipzig</span>, *August 5,* 1838.
 
@@ -1158,9 +1164,9 @@ I am better at composing, eh? Well, thanks once more for your kind letters. . . 
 
 ### Letter 51: his Relatives in Zwickau
 
-### 52.
+#### 52.
 
-### *To his Relatives in Zwickau.*
+#### *To his Relatives in Zwickau.*
 
 <span class="small-caps">Vienna</span>, *October* 10, 1838.
 
@@ -1174,9 +1180,9 @@ Clara was absolutely worshipped here. Wherever I inquire they tell me so, and sp
 
 ### Letter 52: Theresa Schumann
 
-### 53.
+#### 53.
 
-### *To Theresa Schumann.*
+#### *To Theresa Schumann.*
 
 <span class="small-caps">Vienna</span>, *Wednesday, December* 18, 1838.
 
@@ -1186,9 +1192,9 @@ I could tell you much of my acquaintance with great people: of the Empress, whom
 
 ### Letter 53: Simonin de Sire
 
-### 54.
+#### 54.
 
-### *To Simonin de Sire.*
+#### *To Simonin de Sire.*
 
 <span class="small-caps">Vienna</span>, *March* 15, 1839.
 
@@ -1202,9 +1208,9 @@ You really must not neglect to publish your letters on the new tendencies in pia
 
 ### Letter 54: A. von Zuccalmaglio
 
-### 55.
+#### 55.
 
-### *To A. von Zuccalmaglio.*
+#### *To A. von Zuccalmaglio.*
 
 <span class="small-caps">Leipzig</span>, *April 27, 1839.*
 
@@ -1212,9 +1218,9 @@ I think my respite from the journal has been beneficial to me, for it has regain
 
 ### Letter 55: H. Dorn
 
-### 56.
+#### 56.
 
-### *To H. Dorn.*
+#### *To H. Dorn.*
 
 <span class="small-caps">Leipzig</span>, *September 5*, 1839.
 
@@ -1228,9 +1234,9 @@ I do not know whether it is advisable to have anything in my paper about myself.
 
 ### Letter 56: Ernst A. Becker
 
-### 57.
+#### 57.
 
-### *To Ernst A. Becker.*[^fn-p0159-2]
+#### *To Ernst A. Becker.*[^fn-p0159-2]
 
 <span class="small-caps">Leipzig</span>, *December* 11, 1839.
 
@@ -1238,9 +1244,9 @@ I do not know whether it is advisable to have anything in my paper about myself.
 
 ### Letter 57: Keferstein
 
-### 58.
+#### 58.
 
-### *To Keferstein.*[^fn-p0160-1]
+#### *To Keferstein.*[^fn-p0160-1]
 
 <span class="small-caps">Leipzig</span>, *January* 31, 1840.
 
@@ -1254,9 +1260,9 @@ You will perhaps know of my engagement to Clara; also, possibly, the —— mean
 
 ### Letter 58: Keferstein
 
-### 59.
+#### 59.
 
-### *To Keferstein.*
+#### *To Keferstein.*
 
 <span class="small-caps">Leipzig</span>, *February* 8, 1840.
 
@@ -1270,9 +1276,9 @@ The enclosed portrait is intended to freshen up your recollection of me. Please 
 
 ### Letter 59: Keferstein
 
-### 60.
+#### 60.
 
-### *To Keferstein.*
+#### *To Keferstein.*
 
 <span class="small-caps">Leipzig</span>, *February* 19, 1840.
 
@@ -1282,9 +1288,9 @@ My editorial duties can only fill a secondary place, great as is my devotion to 
 
 ### Letter 60: Keferstein
 
-### 61.
+#### 61.
 
-### *To Keferstein.*
+#### *To Keferstein.*
 
 <span class="small-caps">Leipzig</span>, *February 29, 1840.*
 
@@ -1292,9 +1298,9 @@ My satisfaction is now complete. The eulogy[^fn-p0166-1] is so impressive that I
 
 ### Letter 61: Keferstein
 
-### 62.
+#### 62.
 
-### *To Keferstein.*
+#### *To Keferstein.*
 
 <span class="small-caps">Leipzig</span>, *August* 24, 1840.
 
@@ -1418,7 +1424,7 @@ But enough of that. It is perhaps hardly necessary to add the assurance that I a
 
 ### BOOK II
 
-### THE FIGHT FOR CLARA (1836-1840)
+#### THE FIGHT FOR CLARA (1836-1840)
 
 > ‘I will say no more of my happiness in possessing a girl with whom I have grown to be one through art, intellectual affinities, the regular intercourse of years, and the deepest and holiest affection. My whole life is one joyous activity.’—*To* <span class="small-caps">Eduard</span> *and* <span class="small-caps">Karl Schumann</span>, *March* 19, 1838.
 
@@ -1471,9 +1477,9 @@ In these letters the principle of selection must be even more rigidly enforced t
 
 ### Letter 62: Robert → Clara
 
-### 63.
+#### 63.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 *En route for* <span class="small-caps">Zwickau</span> *after* 10 *p.m.,*  
 *February* 13, 1836.
@@ -1494,9 +1500,9 @@ Your
 
 ### Letter 63: Robert Schumann → Clara Wieck
 
-### 64.
+#### 64.
 
-### *To Clara Wieck.*
+#### *To Clara Wieck.*
 
 *August* 13, 1837.
 
@@ -1508,7 +1514,7 @@ I write this just as the dawn is breaking. Would that there were only one more s
 
 ### Letter 64: Clara → Robert
 
-### *Clara to Robert.*
+#### *Clara to Robert.*
 
 <span class="small-caps">Leipzig</span>, *August* 15, 1837.
 
@@ -1523,9 +1529,9 @@ Your
 
 ### Letter 65: Robert Schumann → F. Wieck
 
-### 65.
+#### 65.
 
-### *To F. Wieck* (*delivered* September 13, 1837).
+#### *To F. Wieck* (*delivered* September 13, 1837).
 
 What I have to say to you is so simple, and yet the right words may sometimes fail me. It is difficult to control a pen with so trembling a hand. I must therefore ask your indulgence for any possible negligence in style or expression.
 
@@ -1539,27 +1545,31 @@ The moments which pass between now and then will be charged with the same emotio
 
 <span class="small-caps">Robert Schumann.</span>
 
-### *Enclosure to Frau Wieck.*
+> **[enclosure]**
+>
+> ##### *Enclosure to Frau Wieck.*
+>
+> > Let me, above all, enlist your sympathy, my dear lady, on behalf of our future. I know that there is nothing of the step-mother in your attitude. Your clear-sightedness and kindly disposition, your genuine respect and love for Clara, will help you to find a way. We should all think it a calamity if the birthday of one who has contributed to the happiness of so many people should be turned into a day of sorrow. Will you not try to avert it?
+>
+> Yours sincerely,
+>
+> R. <span class="small-caps">Schumann.</span>
 
-> Let me, above all, enlist your sympathy, my dear lady, on behalf of our future. I know that there is nothing of the step-mother in your attitude. Your clear-sightedness and kindly disposition, your genuine respect and love for Clara, will help you to find a way. We should all think it a calamity if the birthday of one who has contributed to the happiness of so many people should be turned into a day of sorrow. Will you not try to avert it?
-
-Yours sincerely,
-
-R. <span class="small-caps">Schumann.</span>
-
-### *Enclosure to Clara.*
-
-> After our most painful separation, dear Clara, you will, I know, support me lovingly in all that I have said to your parents, and raise your voice where my words seem inadequate.[^fn-p0186-1]
-
-Your
-
-R. S.
+> **[enclosure]**
+>
+> ##### *Enclosure to Clara.*
+>
+> > After our most painful separation, dear Clara, you will, I know, support me lovingly in all that I have said to your parents, and raise your voice where my words seem inadequate.[^fn-p0186-1]
+>
+> Your
+>
+> R. S.
 
 ### Letter 66: Robert Schumann → Ernst A. Becker
 
-### 66.
+#### 66.
 
-### *To Ernst A. Becker.*
+#### *To Ernst A. Becker.*
 
 <span class="small-caps">Leipzig</span>, *September* 14, 1837.
 
@@ -1569,9 +1579,9 @@ W[ieck]'s answer was so confused, so perplexing a mixture of refusal and consent
 
 ### Letter 67: Robert → Clara
 
-### 67.
+#### 67.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 *September* 18, 1837.
 
@@ -1601,7 +1611,7 @@ Send this back without delay, on your honour.
 
 ### Letter 68: Clara → Robert
 
-### *Clara to Robert.*
+#### *Clara to Robert.*
 
 <span class="small-caps">Leipzig</span>, 1837.
 
@@ -1617,9 +1627,9 @@ I have been very unhappy up to now, but send me a few words of comfort under the
 
 ### Letter 69: Robert → Clara
 
-### 68.
+#### 68.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, 1837.
 
@@ -1631,9 +1641,9 @@ Your
 
 ### Letter 70: Robert → Clara
 
-### 69.
+#### 69.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *October 3*, 1837.
 
@@ -1641,9 +1651,9 @@ Your
 
 ### Letter 71: Robert → Clara
 
-### 70.
+#### 70.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *November* 8, 1837, *early morning.*
 
@@ -1664,9 +1674,9 @@ Your
 
 ### Letter 72: Robert → Clara
 
-### 71.
+#### 71.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 [*November*] 29.
 
@@ -1688,9 +1698,9 @@ You say, rather unreasonably, that I jilted Ernestine. That is not true, for the
 
 ### Letter 73: Robert → Clara
 
-### 72.
+#### 72.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *December 22, 1837.*
 
@@ -1747,9 +1757,9 @@ Don't play quite so well, do you hear ? Their enthusiasm must be kept within bou
 
 ### Letter 74: Robert → Clara
 
-### 73.
+#### 73.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *February* 6, 1838.
 
@@ -1761,9 +1771,9 @@ And now I have something to ask of you. Will you not pay a visit to our beloved 
 
 ### Letter 75: Robert → Clara
 
-### 74.
+#### 74.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *February* 11, 1838.
 
@@ -1777,9 +1787,9 @@ You will blame me, but I must admit that the sum of these things cooled my attac
 
 ### Letter 76: Robert → Clara
 
-### 75.
+#### 75.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *March* 17, 1838.
 
@@ -1805,9 +1815,9 @@ My darling girl, if I could but find one word to sum up everything you are to me
 
 ### Letter 77: Robert → Clara
 
-### 76.
+#### 76.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *April* 14, 1838.  
 *Saturday before Easter.*
@@ -1820,9 +1830,9 @@ My darling girl, if I could but find one word to sum up everything you are to me
 
 ### Letter 78: Robert → Clara
 
-### 77.
+#### 77.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *May* 10, 1838.
 
@@ -1830,9 +1840,9 @@ My darling girl, if I could but find one word to sum up everything you are to me
 
 ### Letter 79: Robert → Clara
 
-### 78.
+#### 78.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 *September 9,* 1838.
 
@@ -1844,9 +1854,9 @@ yours only.
 
 ### Letter 80: Robert → Clara
 
-### 79.
+#### 79.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Vienna</span>,  
 *Sunday morning, October* 7, 1838.
@@ -1861,9 +1871,9 @@ And now, my dear Clara, you will need money in either case. I am writing by this
 
 ### Letter 81: Robert → Clara
 
-### 80.
+#### 80.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 *December 3,* 1838.
 
@@ -1883,7 +1893,7 @@ I have composed very little here; I seem to have lost the art. But I have been t
 
 (These verses were elegantly written on four slips of paper, fastened together and decorated with dainty designs.)
 
-### I.
+###### I.
 
 A maid of twenty and not yet a wife,  
 A man of thirty who is but a lover,  
@@ -1947,7 +1957,7 @@ The flames abate.
 
 * * *
 
-### II.
+##### II.
 
 If angrily Florestan scold thee,  
 Eusebius' arms shall enfold thee.
@@ -1975,7 +1985,7 @@ Wilt thou banish both from thy land ?
 
 * * *
 
-### III.
+##### III.
 
 Gladly and often have I let thee see  
 My inmost self, and from thine eye have guessed  
@@ -1999,7 +2009,7 @@ A true man is the masterpiece the inmost mind
 
 * * *
 
-### IV.
+##### IV.
 
 Years ago, when you were only a bright  
 Little maiden, they sent you to bed,  
@@ -2021,7 +2031,7 @@ Once again in memory.’
 
 * * *
 
-### V.
+##### V.
 
 ‘ Together to live, to die,’  
 Was my farewell when last we said good-bye ;  
@@ -2042,9 +2052,9 @@ Shall have a welcome there.
 
 ### Letter 82: Robert → Clara
 
-### 82.
+#### 82.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Vienna</span>,  
 *Wednesday, December* 18, 1838.
@@ -2057,9 +2067,9 @@ My festival will be a sad one this year. I shall hum many a melody, and go to th
 
 ### Letter 83: Robert → Clara
 
-### 83.
+#### 83.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Vienna</span>, *December* 29, 1838.
 
@@ -2067,9 +2077,9 @@ My festival will be a sad one this year. I shall hum many a melody, and go to th
 
 ### Letter 84: Robert → Clara
 
-### 84.
+#### 84.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 *January* 15, 1839.
 
@@ -2079,9 +2089,9 @@ I can hardly tell you how your letter inspired me. How can I be worthy of you! I
 
 ### Letter 85: Robert → Clara
 
-### 85.
+#### 85.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *April* 10, 1839.
 
@@ -2091,9 +2101,9 @@ Our dear Eduard is dead.[^fn-p0232-1] When I was travelling, last Saturday, I di
 
 ### Letter 86: Robert → Clara
 
-### 86.
+#### 86.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig,</span>  
 *Saturday morning, May* 4, 1839.
@@ -2104,8 +2114,9 @@ I spent yesterday morning with Reuter, making careful calculations, and came to 
 
 Our wealth seems to me quite terrific when I compare it with that of some people. How fortunate we are not to be obliged to work for our daily bread ! There is just enough for two artists with simple tastes like ourselves. The idea makes me so happy.
 
-| Your capital ... ... ... ... | 4,000 talers. |
+|  |  |
 | --- | --- |
+| Your capital ... ... ... ... | 4,000 talers. |
 | My capital: 1. Government stock ... | 1,000 „ |
 | 2. With Karl ... ... | 4,000 „ |
 | 3. With Eduard ... | 3,540 „ |
@@ -2122,9 +2133,9 @@ Am I not a famous arithmetician ! . . . Supposing I were to insist, could you re
 
 ### Letter 87: Robert → Clara
 
-### 87.
+#### 87.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 *May* 18, 1839.
 
@@ -2140,34 +2151,38 @@ There is no other way of deciding the matter. I cannot impress it upon you too s
 
 . . . One thing more, my Clara, that you may be sure of me on every point. You have sometimes asked whether the financial cares of everyday life would not overwhelm me. In the first place, we need have no cares ; but should this be the case, I would meet them smiling, even with the half of what we have. To have debts which I was unable to pay would harass me, but nothing else. I am too much of an idealist. But you must not jump to the conclusion that I am imprudent ; have I not shown that I can be parsimonious—for your sake ? . . .
 
-### *Schumann's Letter to Friedrich Wieck.*[^fn-p0238-1]
-
-Once more I ask you, in Clara's name and my own, to give your consent to our union next Easter. Two years have passed since my first appeal. You doubted our constancy ; but it has stood the test, and our confidence in a happy future is unshaken.
-
-My former statement as to my means was exact. They are now better and more assured, and we can face the future fearlessly. Oh, be moved by the ties of nature ! Do not drive us to extremes. Clara's twentieth birthday is close at hand. Give your consent, and make it a day of peace. Give us rest after our hard fight. You owe it to yourself, to Clara, and to me. I shall await your final decision anxiously.
-
-As of old, yours in affection and confidence,
-
-R. <span class="small-caps">Schumann.</span>
+> **[enclosure]**
+>
+> ##### *Schumann's Letter to Friedrich Wieck.*[^fn-p0238-1]
+>
+> Once more I ask you, in Clara's name and my own, to give your consent to our union next Easter. Two years have passed since my first appeal. You doubted our constancy ; but it has stood the test, and our confidence in a happy future is unshaken.
+>
+> My former statement as to my means was exact. They are now better and more assured, and we can face the future fearlessly. Oh, be moved by the ties of nature ! Do not drive us to extremes. Clara's twentieth birthday is close at hand. Give your consent, and make it a day of peace. Give us rest after our hard fight. You owe it to yourself, to Clara, and to me. I shall await your final decision anxiously.
+>
+> As of old, yours in affection and confidence,
+>
+> R. <span class="small-caps">Schumann.</span>
 
 Dear Clara, the letter is cold, but one might as well try to be affectionate towards a block of ice. It is the best I can do. Tell me what you think of it. Hermann[^fn-p0239-1] is responsible for the greater part of the following letter :
 
-> We, the undersigned, have long entertained a strong mutual desire to be united in matrimony. There is an obstacle in our path which prevents the fulfilment of our desire. We are therefore, to our great regret, driven to seek this means of removing it. The father of the undersigned Clara Wieck persists in withholding his consent, despite our repeated requests. We are at a loss to understand the grounds of his refusal. We have not consciously offended in any way. Our financial position ensures freedom from anxiety. Herr Wieck's objection can only be due to a personal hostility to the undersigned, who, for his part, is under the impression that he amply fulfilled his obligations to his future wife's father. In any case, we are not inclined to go back on our carefully weighed resolution. We therefore present our petition as follows :
-
-Will the High Court cause Herr Wieck to give his paternal consent to our marriage, or, failing that, substitute legal permission? Only the imperative need for action reconciles us to this step. We seek our consolation in the hope that this painful breach, like many another, may be healed by time.
-
-<span class="small-caps">Robert Schumann.</span>  
-<span class="small-caps">Clara Wieck</span> (*at this time in Paris*).
-
-<span class="small-caps">Leipzig</span>, *September*, 1839.
+> **[enclosure]**
+>
+> > We, the undersigned, have long entertained a strong mutual desire to be united in matrimony. There is an obstacle in our path which prevents the fulfilment of our desire. We are therefore, to our great regret, driven to seek this means of removing it. The father of the undersigned Clara Wieck persists in withholding his consent, despite our repeated requests. We are at a loss to understand the grounds of his refusal. We have not consciously offended in any way. Our financial position ensures freedom from anxiety. Herr Wieck's objection can only be due to a personal hostility to the undersigned, who, for his part, is under the impression that he amply fulfilled his obligations to his future wife's father. In any case, we are not inclined to go back on our carefully weighed resolution. We therefore present our petition as follows :
+>
+> Will the High Court cause Herr Wieck to give his paternal consent to our marriage, or, failing that, substitute legal permission? Only the imperative need for action reconciles us to this step. We seek our consolation in the hope that this painful breach, like many another, may be healed by time.
+>
+> <span class="small-caps">Robert Schumann.</span>  
+> <span class="small-caps">Clara Wieck</span> (*at this time in Paris*).
+>
+> <span class="small-caps">Leipzig</span>, *September*, 1839.
 
 For the first time you are called upon to unite your signature with mine, my dearest girl. How bitter-sweet it is! Please go carefully through the document, word by word. . . . You need not produce your birth certificate until the ceremony. The world is quite a tolerable place with you in it, dearest. . . . Remember me to Emilia and Henrietta. Tell them they must like me as much as I like them. Let Henrietta whisper you her happy word of encouragement: ‘Press on to the goal.’ Well, it will soon be settled. I believe in you again, absolutely. Write soon, my dear one.
 
 ### Letter 88: Robert → Clara
 
-### 88.
+#### 88.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *June 3*, 1839.
 
@@ -2177,9 +2192,9 @@ This letter will reach you on my twenty-ninth birthday. May it find you in the b
 
 ### Letter 89: Robert → Clara
 
-### 89.
+#### 89.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 *June 22,* 1839.
 
@@ -2195,9 +2210,9 @@ Ever, ever your own loving
 
 ### Letter 90: Robert Schumann → Advocate Einert
 
-### 90.
+#### 90.
 
-### *To Advocate Einert, Leipzig.*
+#### *To Advocate Einert, Leipzig.*
 
 <span class="small-caps">Leipzig,</span> *June 30, 1839.*
 
@@ -2238,9 +2253,9 @@ Rotes Kollegium Hinterhaus.
 
 ### Letter 91: R. Schumann → Advocate Einert
 
-### 91.
+#### 91.
 
-### *To Advocate Einert.*
+#### *To Advocate Einert.*
 
 [<span class="small-caps">Leipzig</span>], *July 3, 1839.*
 
@@ -2264,9 +2279,9 @@ R. <span class="small-caps">Schumann.</span>
 
 ### Letter 92: Robert → Clara
 
-### 92.
+#### 92.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 *Tuesday, July* 30, 1839.
 
@@ -2280,9 +2295,9 @@ As I told you in a letter, I brought your picture with me, and I wish you could 
 
 ### Letter 93: Robert → Clara
 
-### 93.
+#### 93.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *December* 11, 1839.
 
@@ -2290,9 +2305,9 @@ As I told you in a letter, I brought your picture with me, and I wish you could 
 
 ### Letter 94: Robert → Clara
 
-### 94.
+#### 94.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *February* 24, 1840.
 
@@ -2306,9 +2321,9 @@ Here I am again, breaking my resolution and saying what I ought not ; but I cann
 
 ### Letter 95: Robert → Clara
 
-### 95.
+#### 95.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 *Wednesday, March* 18, 1840.
 
@@ -2316,9 +2331,9 @@ Do not expect much of a letter this time, for I am tired out with all the excite
 
 ### Letter 96: Robert → Clara
 
-### 96.
+#### 96.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *March* 20, 1840.
 
@@ -2330,9 +2345,9 @@ Do not expect much of a letter this time, for I am tired out with all the excite
 
 ### Letter 97: Robert → Clara
 
-### 97.
+#### 97.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *May* 10, 1840.
 
@@ -2340,9 +2355,9 @@ To-day is ‘Jubilate’ Sunday, and I feel jubilant and wretched by turns over 
 
 ### Letter 98: Robert → Clara
 
-### 98.
+#### 98.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *May* 15, 1840.
 
@@ -2350,9 +2365,9 @@ I have been composing so much that I wonder at myself. But I cannot help it. I c
 
 ### Letter 99: Robert → Clara
 
-### 99.
+#### 99.
 
-### *Robert to Clara.*
+#### *Robert to Clara.*
 
 <span class="small-caps">Leipzig</span>, *May* 31, 1840.
 
@@ -2360,9 +2375,9 @@ I have been composing so much that I wonder at myself. But I cannot help it. I c
 
 ### Letter 100: Robert Schumann → Ernst A. Becker
 
-### 100.
+#### 100.
 
-### *To Ernst A. Becker.*
+#### *To Ernst A. Becker.*
 
 <span class="small-caps">Leipzig</span>, *August* 12, 1840.
 
@@ -2376,7 +2391,7 @@ Well, good-bye, old man. Remember us to all who are really interested. I hope so
 
 * * *
 
-### *From Clara's Diary.*
+##### *From Clara's Diary.*
 
 *September* 12.—What can I write about this day ? . . . We were married at Schönefeld[^fn-p0258-1] at ten o'clock. First came a chorale, and after that a short address by Wildenhahn, the preacher, a friend of Robert's youth. His words were simple, but heartfelt. My whole self was filled with gratitude to Him who had brought us safely over so many rocks and precipices to meet at last. I prayed fervently that He would preserve my Robert to me for many, many years. Indeed, the thought that I might one day lose him is enough to send me out of my mind. Heaven avert this calamity ! I could not bear it.
 
@@ -2421,7 +2436,7 @@ There was a little dancing, no excessive gaiety, but every face shone with real 
 
 ## BOOK III. AT THE ZENITH (1840-1854)
 
-### BOOK III AT THE ZENITH (1840-1854)
+### BOOK III<br />AT THE ZENITH (1840-1854)
 
 > ‘The man and the musician in me have always struggled to manifest themselves simultaneously; indeed, this is still the case, although I have attained some degree of mastery over both.’—*To* C. K<span class="small-caps">ossmaly</span>, *May* 5, 1843.
 
@@ -2441,9 +2456,9 @@ The following letters will show how prolific in impressions, given and received,
 
 ### Letter 101: Robert Schumann → Camille Stamaty
 
-### 101.
+#### 101.
 
-### *To Camille Stamaty,*[^fn-p0263-1] *in Paris.*
+#### *To Camille Stamaty,*[^fn-p0263-1] *in Paris.*
 
 <span class="small-caps">Leipzig</span>, *September* 28, 1840.
 
@@ -2459,9 +2474,9 @@ Dear Stamaty, I have an incomparable wife. There is no happiness equal to that. 
 
 ### Letter 102: Robert Schumann → C. Kossmaly
 
-### 102.
+#### 102.
 
-### *To C. Kossmaly,*[^fn-p0264-1] *at Detmold.*
+#### *To C. Kossmaly,*[^fn-p0264-1] *at Detmold.*
 
 <span class="small-caps">Leipzig</span>, *May* 9, 1841.
 
@@ -2471,9 +2486,9 @@ I wish you knew my symphony.[^fn-p0264-2] The performance was a great joy to me�
 
 ### Letter 103: Robert Schumann → C. Kossmaly
 
-### 103.
+#### 103.
 
-### *To C. Kossmaly.*
+#### *To C. Kossmaly.*
 
 <span class="small-caps">Leipzig</span>, *September* 1, 1842.
 
@@ -2481,9 +2496,9 @@ I wish you knew my symphony.[^fn-p0264-2] The performance was a great joy to me�
 
 ### Letter 104: Robert Schumann → H. C. Andersen
 
-### 104.
+#### 104.
 
-### *To H. C. Andersen,*[^fn-p0265-1] *in Copenhagen.*
+#### *To H. C. Andersen,*[^fn-p0265-1] *in Copenhagen.*
 
 <span class="small-caps">Leipzig</span>, *October* 1, 1842.
 
@@ -2493,9 +2508,9 @@ I always insist on the minutest details when my wife talks about you, and I real
 
 ### Letter 105: Robert Schumann → L. Spohr
 
-### 105.
+#### 105.
 
-### *To L. Spohr.*[^fn-p0266-3]
+#### *To L. Spohr.*[^fn-p0266-3]
 
 <span class="small-caps">Leipzig</span>, *November* 23, 1842.
 
@@ -2507,9 +2522,9 @@ I hope my music will reward you in some way for the pains you spend on it. I nee
 
 ### Letter 106: Robert Schumann → C. Kossmaly
 
-### 106.
+#### 106.
 
-### *To C. Kossmaly.*
+#### *To C. Kossmaly.*
 
 <span class="small-caps">Leipzig</span>, *May* 5, 1843.
 
@@ -2527,9 +2542,9 @@ So here you have my confessions. You will probably not need to be told that Bach
 
 ### Letter 107: Robert Schumann → Johannes Verhulst
 
-### 107.
+#### 107.
 
-### *To Johannes Verhulst,*[^fn-p0271-1] *at the Hague.*
+#### *To Johannes Verhulst,*[^fn-p0271-1] *at the Hague.*
 
 <span class="small-caps">Leipzig</span>, *June* 19, 1843.
 
@@ -2547,9 +2562,9 @@ Sometimes I see much of Mendelssohn, at others little. We are both so much engag
 
 ### Letter 108: Robert Schumann → Dr. E. Krüger
 
-### 108.
+#### 108.
 
-### *To Dr. E. Krüger.*[^fn-p0274-2]
+#### *To Dr. E. Krüger.*[^fn-p0274-2]
 
 *Undated* [<span class="small-caps">Leipzig</span>, *October*, 1844].
 
@@ -2563,9 +2578,9 @@ My *Faust* music still makes great demands on my time. What should you say to us
 
 ### Letter 109: Robert Schumann → Mendelssohn
 
-### 109.
+#### 109.
 
-### *To Mendelssohn at Leipzig.*
+#### *To Mendelssohn at Leipzig.*
 
 *Undated* [*Written about the end of September,* 1845].
 
@@ -2575,9 +2590,9 @@ My wife confidently expects to be in Leipzig in time to play at the first concer
 
 ### Letter 110: Robert Schumann → Mendelssohn
 
-### 110.
+#### 110.
 
-### *To Mendelssohn at Leipzig.*
+#### *To Mendelssohn at Leipzig.*
 
 <span class="small-caps">Dresden</span>, *October 22, 1845. Wednesday morning.*
 
@@ -2593,9 +2608,9 @@ Clara told me with genuine pleasure how good and kind you had been. You know she
 
 ### Letter 111: Robert Schumann → Ludwig Meinardus
 
-### 111.
+#### 111.
 
-### *To Ludwig Meinardus,*[^fn-p0279-1] *at the Jever Gymnasium.*
+#### *To Ludwig Meinardus,*[^fn-p0279-1] *at the Jever Gymnasium.*
 
 <span class="small-caps">Dresden,</span> *September 3,* 1846.
 
@@ -2607,9 +2622,9 @@ My advice, then, is: keep your love for art; practise yourself in composition as
 
 ### Letter 112: Robert Schumann → Friedrich Hebbel
 
-### 112.
+#### 112.
 
-### *To Friedrich Hebbel*[^fn-p0282-1] *in Vienna.*
+#### *To Friedrich Hebbel*[^fn-p0282-1] *in Vienna.*
 
 <span class="small-caps">Dresden</span>, *May* 14, 1847.
 
@@ -2629,9 +2644,9 @@ One thing more: we must all live. If you give your attention to this, you will b
 
 ### Letter 113: Robert Schumann → F. Brendel
 
-### 113.
+#### 113.
 
-### *To F. Brendel.*[^fn-p0284-1]
+#### *To F. Brendel.*[^fn-p0284-1]
 
 <span class="small-caps">Dresden</span>, *August* 8, 1847.
 
@@ -2663,9 +2678,9 @@ I was surprised to hear that you had chosen a president, as I think this should 
 
 ### Letter 114: Robert Schumann → Director D. G. Otten
 
-### 114.
+#### 114.
 
-### *To Director D. G. Otten,*[^fn-p0287-1] *at Hamburg.*
+#### *To Director D. G. Otten,*[^fn-p0287-1] *at Hamburg.*
 
 <span class="small-caps">Dresden</span>, *April* 2, 1849.
 
@@ -2681,9 +2696,9 @@ Do you know Bach's Passion-Music according to St. John, the so-called little one
 
 ### Letter 115: Robert Schumann → Franz Liszt
 
-### 115.
+#### 115.
 
-### *To Franz Liszt at Weimar.*
+#### *To Franz Liszt at Weimar.*
 
 <span class="small-caps">Bad Kreischa</span>, *near* <span class="small-caps">Dresden</span>, *May* 31, 1849.
 
@@ -2697,9 +2712,9 @@ Since the Revolution banished us we have lived peacefully here, and my appetite 
 
 ### Letter 116: Robert Schumann → F. Brendel
 
-### 116.
+#### 116.
 
-### *To F. Brendel.*
+#### *To F. Brendel.*
 
 <span class="small-caps">Dresden</span>, *September* 18, 1849.
 
@@ -2711,9 +2726,9 @@ In any case, I fail to see the non-recognition from which I am supposed to suffe
 
 ### Letter 117: Robert Schumann → F. Hiller
 
-### 117.
+#### 117.
 
-### *To F. Hiller.*
+#### *To F. Hiller.*
 
 <span class="small-caps">Dresden</span>, *November* 19, 1849.
 
@@ -2727,7 +2742,7 @@ One more important question. I could not leave here before next Easter, as my op
 
 ### Letter 118: Robert Schumann → F. Hiller
 
-### 118. *To F. Hiller.*
+#### 118.<br />*To F. Hiller.*
 
 <span class="small-caps">Dresden</span>, *December* 3, 1849.
 
@@ -2739,9 +2754,9 @@ I have to avoid very carefully any depressing associations of the kind. We music
 
 ### Letter 119: Robert Schumann → R. Pohl
 
-### 119.
+#### 119.
 
-### *To R. Pohl.*[^fn-p0296-1]
+#### *To R. Pohl.*[^fn-p0296-1]
 
 <span class="small-caps">Düsseldorf</span>, *February* 14, 1851.
 
@@ -2759,9 +2774,9 @@ We are on the verge of an undertaking, my dear sir, which is well worth a specia
 
 ### Letter 120: Robert Schumann → Moritz Horn
 
-### 120.
+#### 120.
 
-### *To Moritz Horn,*[^fn-p0298-1] *at Chemnitz.*
+#### *To Moritz Horn,*[^fn-p0298-1] *at Chemnitz.*
 
 <span class="small-caps">Düsseldorf</span>, *April* 21, 1851.
 
@@ -2769,8 +2784,10 @@ I have been so pressed by various business matters that I could not acknowledge 
 
 I have ventured to note on the enclosed paper a few suggestions for alterations. Up to the words
 
-‘und bittet freundlich hier  
-Um Obdach’
+> **[verse_insert]**
+>
+> ‘und bittet freundlich hier  
+> Um Obdach’
 
 everything is favourable to musical treatment. From that point onwards there would have to be more variety, more dramatic development.
 
@@ -2778,7 +2795,7 @@ If you could bring yourself to make certain alterations, purely in consideration
 
 ### Letter 121: Robert Schumann → R. Pohl
 
-### 121. *To R. Pohl.*
+#### 121.<br />*To R. Pohl.*
 
 <span class="small-caps">Düsseldorf</span>, *May* 13, 1851.
 
@@ -2792,9 +2809,9 @@ I should be grieved indeed to hear that the difficulties had induced you to give
 
 ### Letter 122: Robert Schumann → J. N.
 
-### 122.
+#### 122.
 
-### *To J. N., at T.*
+#### *To J. N., at T.*
 
 <span class="small-caps">Düsseldorf</span>, *September 22*, 1851.
 
@@ -2808,9 +2825,9 @@ This is my reply to your letter, of which tone and contents were alike insulting
 
 ### Letter 123: Robert Schumann → Franz Liszt
 
-### 123.
+#### 123.
 
-### *To Franz Liszt.*
+#### *To Franz Liszt.*
 
 <span class="small-caps">Düsseldorf</span>, *December* 25, 1851.
 
@@ -2822,9 +2839,9 @@ We are all quite well at home. My wife and the children are all recovered. Pleas
 
 ### Letter 124: Robert Schumann → F. Hebbel
 
-### 124.
+#### 124.
 
-### *To F. Hebbel.*
+#### *To F. Hebbel.*
 
 <span class="small-caps">Düsseldorf</span>, *March* 14, 1853.
 
@@ -2836,9 +2853,9 @@ My wife wishes to be remembered to you in return for your kind inquiries. Please
 
 ### Letter 125: Robert Schumann → Director H. Krigar
 
-### 125.
+#### 125.
 
-### *To Director H. Krigar*[^fn-p0304-2] *in Berlin.*
+#### *To Director H. Krigar*[^fn-p0304-2] *in Berlin.*
 
 <span class="small-caps">Düsseldorf</span>, *March* 16, 1853.
 
@@ -2850,9 +2867,9 @@ Thank you once more for sending me the psalm, which I might otherwise have misse
 
 ### Letter 126: Robert Schumann → C. v. Bruyck
 
-### 126.
+#### 126.
 
-### *To C. v. Bruyck.*[^fn-p0305-1]
+#### *To C. v. Bruyck.*[^fn-p0305-1]
 
 <span class="small-caps">Düsseldorf</span>, *May* 8, 1853.
 
@@ -2866,9 +2883,9 @@ I was much interested in what you said about Wagner. He is, to put it concisely,
 
 ### Letter 127: Robert Schumann → Joachim
 
-### 127.
+#### 127.
 
-### *To Joachim.*[^fn-p0306-1]
+#### *To Joachim.*[^fn-p0306-1]
 
 [*June* 8, 1853.]
 
@@ -2880,9 +2897,9 @@ I find my name in your handwriting on the score of the Beethoven concerto, which
 
 ### Letter 128: Robert Schumann → Joachim
 
-### 128.
+#### 128.
 
-### *To Joachim.*
+#### *To Joachim.*
 
 <span class="small-caps">Düsseldorf</span>, *October* 8, 1853.
 
@@ -2901,9 +2918,9 @@ The young eagle seems quite happy on the plain. He has found an old attendant wh
 
 ### Letter 129: Robert Schumann → Joachim
 
-### 129.
+#### 129.
 
-### *To Joachim.*
+#### *To Joachim.*
 
 <span class="small-caps">Düsseldorf</span>, *October* 13, 1853.
 
@@ -2923,9 +2940,9 @@ I have finished my essay, which I enclose. Please return it as soon as possible,
 
 ### Letter 130: Robert Schumann → Joachim
 
-### 130.
+#### 130.
 
-### *To Joachim.*
+#### *To Joachim.*
 
 <span class="small-caps">Düsseldorf</span>, *February* 6, 1854.
 
@@ -3016,7 +3033,7 @@ I will close now. It is growing dark. . . .
 
 ### APPENDIX
 
-### THE DEEPENING TWILIGHT (1854-1856)
+#### THE DEEPENING TWILIGHT (1854-1856)
 
 ‘I <span class="small-caps">will</span> close now. It is growing dark.’ So the last letter ended. It was indeed growing dark in Schumann’s mind, and he was soon to be compelled to lay down his life-work for ever. Ruppert Becker, a member of the Düsseldorf orchestra, whose father had been Schumann’s friend in the days of his hardest struggle, gives in his diary an account of his condition at that time. I quote from Jansen’s new series of Schumann’s letters (p. 533).
 
@@ -3040,9 +3057,9 @@ I have selected from this period three letters, which will suffice to show the s
 
 ### Letter 131: Robert Schumann → Clara Schumann
 
-### 131.
+#### 131.
 
-### *To his Wife.*
+#### *To his Wife.*
 
 <span class="small-caps">Endenich</span>, *September* 14, 1854.
 
@@ -3058,7 +3075,7 @@ Your faithful
 
 ### Letter 132: Robert Schumann → Clara Schumann
 
-### 132.
+#### 132.
 
 <span class="small-caps">Endenich</span>, *September* 18, 1854.
 
@@ -3076,9 +3093,9 @@ Your
 
 ### Letter 133: R. Schumann → Johannes Brahms
 
-### 133.
+#### 133.
 
-### *To Johannes Brahms.*
+#### *To Johannes Brahms.*
 
 <span class="small-caps">Endenich</span>, *November* 27, 1854.
 

@@ -327,27 +327,27 @@
   {
    "format": "epub",
    "file": "tolstoy-essays-letters-1903.epub",
-   "bytes": 357500,
-   "sha256": "854dfc69f7d88915b7a57ba820a6a91f72d377eeac159925b157cb3e8a68edb6"
+   "bytes": 357660,
+   "sha256": "4d617ad1c2065dd0eb4c1068de7eaad32453edcfd1224d00369e9f25136957e1"
   },
   {
    "format": "markdown",
    "file": "tolstoy-essays-letters-1903.md",
-   "bytes": 736979,
-   "sha256": "0e8b5537b7863ce8fc236d7f9127a2597b2d92b15c0ba476fa10ac3e1f7002b0"
+   "bytes": 736561,
+   "sha256": "cb22136c539c8bc238982fe383ce5951d7dbfcfd5a67584066424b9c883b41ad"
   },
   {
    "format": "tei",
    "file": "tolstoy-essays-letters-1903.tei.xml",
-   "bytes": 805170,
-   "sha256": "609dd8c9dce7d19281b96350fdfff1267b3c688254cd86b5bf53de42197781e1"
+   "bytes": 805618,
+   "sha256": "a8dd367cc7767de86767249a904af4cf34280caf0406b56ee41006cfeb872c2c"
   }
  ],
  "scan_base": "https://archive.org/download/essaysletters03tols/page/",
  "provenance": {
   "active_run_id": "canonical-20261116-132507",
-  "compiled_at": "2026-11-22T08:58:48Z",
-  "source_ast_sha256": "5865ec51aadc75b11b9bd5264da22ccfcabd05ce89965bceef75759b4f8459ff",
+  "compiled_at": "2026-11-24T19:24:18Z",
+  "source_ast_sha256": "0f5b4d2d506dbb4b63f4e110e0d290a6b502d8d2bae95bcf08337495a8402e55",
   "hugo_renderer_version": "1.0.0"
  }
 }

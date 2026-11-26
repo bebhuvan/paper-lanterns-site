@@ -4,7 +4,11 @@
     <fileDesc>
       <titleStmt>
         <title>The Nietzsche-Wagner Correspondence</title>
-        <author>Friedrich Nietzsche, Richard Wagner, Elisabeth Förster-Nietzsche (ed.), Caroline V. Kerr (tr.), H. L. Mencken (intro.)</author>
+        <author>Friedrich Nietzsche</author>
+        <author>Richard Wagner</author>
+        <editor>Elisabeth Förster-Nietzsche</editor>
+        <respStmt><resp>Translator</resp><name>Caroline V. Kerr</name></respStmt>
+        <respStmt><resp>Introduction</resp><name>H. L. Mencken</name></respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +18,7 @@
       <sourceDesc>
         <bibl>
           <title>The Nietzsche-Wagner Correspondence</title>
+          <publisher>New York: Boni and Liveright, 1921</publisher>
           <date>1921</date>
           <idno type="URI">https://archive.org/details/nietzschewagnerc00niet</idno>
         </bibl>
@@ -37,10 +42,12 @@
         <correspAction type="received"><persName>Friedrich Nietzsche</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0004">
-        <correspAction type="sent"><date>Aug. 17, 1869:</date></correspAction>
+        <correspAction type="sent"><persName>Friedrich Nietzsche</persName><date when="1869-08-17">Aug. 17, 1869:</date></correspAction>
+        <correspAction type="received"><persName>Erwin Rohde</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0005">
-        <correspAction type="sent"><persName>“Wagner.”</persName><date>Telegram, August 3, 1869.</date></correspAction>
+        <correspAction type="sent"><persName>Richard Wagner</persName><date when="1869-08-03">Telegram, August 3, 1869.</date></correspAction>
+        <correspAction type="received"><persName>Friedrich Nietzsche</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0006">
         <correspAction type="sent"><persName>Richard Wagner</persName><placeName>Tribschen</placeName><date when="1869-12-03">“Tribschen, Dec. 3, 1869.</date></correspAction>
@@ -252,8 +259,7 @@
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
-<pb xml:id="page-7" n="7"/><head>THE NIETZSCHE-WAGNER
-CORRESPONDENCE</head>
+<pb xml:id="page-7" n="7"/><head>THE NIETZSCHE-WAGNER<lb/>CORRESPONDENCE</head>
 <p rend="imprint"><hi rend="italic">This edition is limited to 1500 num-</hi><lb/><hi rend="italic">bered copies of which this volume is</hi><lb/><hi rend="italic">No.......</hi></p>
 <pb xml:id="page-9" n="9"/><p rend="heading">THE NIETZSCHE-WAGNER<lb/>CORRESPONDENCE</p>
 <p rend="imprint">EDITED BY<lb/>ELIZABETH FOERSTER-NIETZSCHE</p>
@@ -310,7 +316,7 @@ CORRESPONDENCE</head>
 <closer><signed rend="right">H. L. <hi rend="smallcaps">Mencken.</hi></signed></closer>
 </div>
 <div xml:id="div-unit-0005" type="apparatus">
-<pb xml:id="page-23" n="23"/><p rend="heading">THE NIETZSCHE-WAGNER<lb/>CORRESPONDENCE</p>
+<pb xml:id="page-23" n="23"/><head>THE NIETZSCHE-WAGNER<lb/>CORRESPONDENCE</head>
 </div>
 </div>
     </front>
@@ -318,8 +324,7 @@ CORRESPONDENCE</head>
       <div xml:id="sec-sec-02" type="chapter">
 <head>CHAPTER I. First Meeting.</head>
 <div xml:id="div-unit-0006" type="narrative">
-<pb xml:id="page-25" n="1"/><head rend="center">THE NIETZSCHE-WAGNER
-CORRESPONDENCE</head>
+<pb xml:id="page-25" n="1"/><head rend="center">THE NIETZSCHE-WAGNER<lb/>CORRESPONDENCE</head>
 <head rend="center">CHAPTER I.</head>
 <head rend="center"><hi rend="smallcaps">First Meeting.</hi></head>
 <p>MY brother writes in “<hi rend="italic">Ecce Homo</hi>”: “From the moment a piano edition of ‘<hi rend="italic">Tristan and Isolde</hi>’ appeared (my compliments, Herr von Bülow!) I became a confirmed Wagnerite.”</p>
@@ -465,8 +470,8 @@ CORRESPONDENCE</head>
       <div xml:id="sec-sec-05" type="chapter">
 <head>CHAPTER IV. LATE AUTUMN OF 1869.</head>
 <div xml:id="div-unit-0023" type="apparatus">
-<pb xml:id="page-54" n="30"/><p rend="heading">CHAPTER V.</p>
-<p rend="heading">EXPERIENCES DURING THE WINTER OF 1870.</p>
+<pb xml:id="page-54" n="30"/><head rend="center">CHAPTER V.</head>
+<head rend="center">EXPERIENCES DURING THE WINTER OF 1870.</head>
 </div>
 <div xml:id="div-unit-0024" type="narrative">
 <p>THE new year opened with increased work for my brother, as he had promised to deliver two special lectures on the “<hi rend="italic">Greek Music Drama</hi>” and “<hi rend="italic">Socrates and Tragedy.</hi>” By reason of this, his letter of thanks to Tribschen was delayed and this called forth a reproof from Wagner.</p>
@@ -809,9 +814,9 @@ CORRESPONDENCE</head>
       <div xml:id="sec-sec-10" type="chapter">
 <head>CHAPTER IX. Cares and Joys (1871).</head>
 <div xml:id="div-unit-0069" type="apparatus">
-<pb xml:id="page-117" n="93"/><p rend="heading">CHAPTER X.</p>
-<p rend="heading">THE BIRTH OF TRAGEDY OUT OF THE SPIRIT OF MUSIC.</p>
-<p rend="heading">(1872.)</p>
+<pb xml:id="page-117" n="93"/><head rend="center">CHAPTER X.</head>
+<head rend="center">THE BIRTH OF TRAGEDY OUT OF THE SPIRIT OF MUSIC.</head>
+<head rend="center">(1872.)</head>
 </div>
 <div xml:id="div-unit-0070" type="narrative">
 <p>ON New Year's Day, 1872, my brother received his first published work, and, with a heart beating high, he wrote in his own copy:</p>
@@ -998,12 +1003,10 @@ CORRESPONDENCE</head>
       <div xml:id="sec-sec-13" type="chapter">
 <head>CHAPTER XII. THE LAYING OF THE CORNERSTONE.</head>
 <div xml:id="div-unit-0092" type="apparatus">
-<pb xml:id="page-149" n="125"/><p rend="heading">CHAPTER XIII.</p>
+<pb xml:id="page-149" n="125"/><head rend="center">CHAPTER XIII.</head>
 </div>
 <div xml:id="div-letter-0028" type="letter" corresp="#letter-0028">
-<head rend="center">CIRCULAR LETTER FROM RICHARD WAGNER TO FRIEDRICH
-NIETZSCHE, PROFESSOR IN ORDINARY OF CLASSICAL
-PHILOLOGY AT THE UNIVERSITY OF BASLE.</head>
+<head rend="center">CIRCULAR LETTER FROM RICHARD WAGNER TO FRIEDRICH<lb/>NIETZSCHE, PROFESSOR IN ORDINARY OF CLASSICAL<lb/>PHILOLOGY AT THE UNIVERSITY OF BASLE.</head>
 <opener><salute>“Esteemed friend:</salute></opener>
 <p rend="indented">“I have just finished reading the pamphlet you sent me written by Dr. Phil. Ulrich von Willamowitz-Moellendorff, and this reply to your ‘<hi rend="italic">Birth of Tragedy Out of the Spirit of Music</hi>’ has created certain impressions of which I should like to relieve my mind by propounding to you a few questions, which you may deem of a surprising character. I do this in the hope of moving you to an explanatory answer, and one as stimulating as your discussion of Greek tragedy.</p>
 <p rend="indented">“First of all, I should like to ask you to explain an educational phenomenon which I have observed in my own case. At the time I was attending the Kreuz-Schule in Dresden, no boy could have had greater enthusiasm for classical antiquity than myself; although it was Greek mythology and history which interested me most deeply, I also felt strongly drawn to the study of the Greek language, to such an extent, in fact, that I was almost rebellious in my efforts to shirk my Latin tasks. It is impossible for me to judge whether or not my case was a normal one, but I may be pardoned for referring to the fact that my favorite master at the Kreuz-Schule, Dr. Sillig—still living, I hope—was so gratified <pb xml:id="page-150" n="126"/> with my enthusiasm for the classics, that he strongly urged me to adopt philology as my profession. I likewise remember well how my later teachers at the Nikolai and Thomas schools in Leipzig, succeeded in rooting out these tastes and inclinations, and I find no difficulty in explaining this when I reflect upon the general policy of these masters. As time went on, I began to entertain serious doubts as to whether these tastes and inclinations had ever taken strong hold upon me, as they seemed to degenerate rapidly into those of an entirely different character. It was only during my period of later development, that I began to grow conscious of the fact that the regular outcropping of these inclinations, indicated that something had been stifled in me by a fatal system of schooling. Again and again, amid the most absorbing tasks of a life entirely removed from these studies, the only way by which I seemed to be able to gain a breath of freedom, was by plunging into this antique world, however much I was now handicapped by having well-nigh forgotten the language. On the other hand, while envying Mendelssohn his philological fluency, I could but wonder why this philological knowledge had not prevented him from writing his music to the dramas of Sophocles, since I, despite my ignorance, had more respect for the spirit of antiquity than he seemed to display. I have also known a number of other musicians, who could make no use of their knowledge of Greek in their composing and music-making in general, whereas I, strange to say, had worked out an ideal for my musical viewpoints, despite my restricted intercourse with the antique. Be that as it may, I only know there arose in me the vague feeling that the real spirit of the antique was as little apprehended by the average teacher of Greek, for <pb xml:id="page-151" n="127"/> example, as a genuine appreciation of French history and culture is to be presupposed on the part of our French masters.</p>
@@ -1108,9 +1111,9 @@ PHILOLOGY AT THE UNIVERSITY OF BASLE.</head>
       <div xml:id="sec-sec-15" type="chapter">
 <head>CHAPTER XIV. Conflicts.</head>
 <div xml:id="div-unit-0106" type="apparatus">
-<pb xml:id="page-176" n="152"/><p rend="heading">CHAPTER XV.</p>
-<p rend="heading"><hi rend="smallcaps">MISUNDERSTANDINGS.</hi></p>
-<p rend="heading">(1873.)</p>
+<pb xml:id="page-176" n="152"/><head rend="center">CHAPTER XV.</head>
+<head rend="center"><hi rend="smallcaps">MISUNDERSTANDINGS.</hi></head>
+<head rend="center">(1873.)</head>
 </div>
 <div xml:id="div-unit-0107" type="narrative">
 <p>WHENEVER Wagner had not seen my brother for some time, he was in the habit of remarking that such long separations could easily lead to painful misunderstandings. My brother took no pains to contradict this statement as emphatically as Frau Wagner evidently expected, and this explains a passage from one of her letters in which she says: “. . . Believe me when I say that there can be no estrangement or misunderstanding between you two. I confess that I have been most uneasy on this score, but am now convinced that such a thing can never happen.”</p>
@@ -1538,8 +1541,8 @@ PHILOLOGY AT THE UNIVERSITY OF BASLE.</head>
       <div xml:id="sec-sec-21" type="chapter">
 <head>CHAPTER XX. “Schopenhauer as Educator.”</head>
 <div xml:id="div-unit-0170" type="apparatus">
-<pb xml:id="page-264" n="240"/><p rend="heading">CHAPTER XXI.</p>
-<p rend="heading"><hi rend="smallcaps">Winter in Bayreuth.</hi> (1875)</p>
+<pb xml:id="page-264" n="240"/><head rend="center">CHAPTER XXI.</head>
+<head rend="center"><hi rend="smallcaps">Winter in Bayreuth.</hi> (1875)</head>
 </div>
 <div xml:id="div-unit-0171" type="narrative">
 <p>My brother spent the Christmas holidays of 1874-75 very quietly with us in Naumburg, and we again discussed many “big plans,” the most immediate of these being my long cherished trip to Italy where I was to be joined by my brother at Easter. But nothing turned out as we expected. On January 17, 1875, I received a letter from my brother saying: “My dear Lisbeth, this year is going to be quite different from the plans we made at Christmas. See enclosed letter from Frau Wagner as to the plans that are brewing in Bayreuth.”</p>
@@ -1760,9 +1763,9 @@ PHILOLOGY AT THE UNIVERSITY OF BASLE.</head>
       <div xml:id="sec-sec-24" type="chapter">
 <head>CHAPTER XXIII. THE BAYREUTH FESTIVAL.</head>
 <div xml:id="div-unit-0195" type="apparatus">
-<pb xml:id="page-309" n="285"/><p rend="heading">CHAPTER XXIV.</p>
-<p rend="heading"><hi rend="smallcaps">END OF THE FRIENDSHIP.</hi></p>
-<p rend="heading">(1876-1878.)</p>
+<pb xml:id="page-309" n="285"/><head rend="center">CHAPTER XXIV.</head>
+<head rend="center"><hi rend="smallcaps">END OF THE FRIENDSHIP.</hi></head>
+<head rend="center">(1876-1878.)</head>
 </div>
 <div xml:id="div-unit-0196" type="narrative">
 <p>THUS my brother bade farewell to that which the world today calls “Bayreuth.” When he set out for the Festival, there floated before his mind’s eye a vision of an event in which the art-works presented and the listeners of these works would be equally worthy and admirable. But now all that he had to look back upon was a festival bearing a strong resemblance to the clamor of a Rhenish Music Festival, or the excitement prevailing at the famous Baden-Baden races. And it was for this that he had fought and made soul-wasting propaganda for years! He was seized with a fit of impatience at his own blindness and he longed to be free from outside influences, in order that he might gradually come to his senses and be able to follow his own tastes and inclinations. The period of youthful enthusiasm was over and he had no more time to waste on such extravagances.</p>

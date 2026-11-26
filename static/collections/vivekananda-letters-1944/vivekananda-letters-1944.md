@@ -7,9 +7,9 @@
 
 ## Frontmatter
 
-### LETTERS OF SWAMI VIVEKANANDA
+### LETTERS OF<br />SWAMI VIVEKANANDA
 
-### LETTERS OF SWAMI VIVEKANANDA
+### LETTERS<br />OF<br />SWAMI VIVEKANANDA
 
 Ramakrishna Order Emblem
 
@@ -80,7 +80,7 @@ Photogravure portrait of Swami Vivekananda
 
 ### Letter 1: Vivekananda → “Master Mahashay”
 
-### *(1) To “Master Mahashay”*
+#### *(1)<br />To “Master Mahashay”*
 
 <span class="small-caps">Auntpur</span>,  
 *February*, 1888.
@@ -93,7 +93,7 @@ P.S. My heart leaps with joy—and it is a wonder that I do not go mad when I fi
 
 ### Letter 2: Pramada Das Mitra
 
-### *(2) To Sj. Pramada Das Mitra*
+#### *(2)<br />To Sj. Pramada Das Mitra*
 
 <span class="small-caps">Brindaban</span>,[^fn-p0016-1]  
 *12th Aug.*, 1888.
@@ -102,7 +102,7 @@ P.S. My heart leaps with joy—and it is a wonder that I do not go mad when I fi
 
 ### Letter 3: Pramada Das Mitra
 
-### (3) *To The Same*
+#### (3)<br />*To The Same*
 
 <span class="small-caps">Brindaban</span>,*  
 *20th Aug., 1888.*
@@ -111,7 +111,7 @@ P.S. My heart leaps with joy—and it is a wonder that I do not go mad when I fi
 
 ### Letter 4: Pramada Das Mitra
 
-### (4) *To The Same*
+#### (4)<br />*To The Same*
 
 <span class="small-caps">The Baranagore Math</span>,*  
 *19th Nov., 1888.*
@@ -120,9 +120,9 @@ P.S. My heart leaps with joy—and it is a wonder that I do not go mad when I fi
 
 ### Letter 5: Pramada Das Mitra
 
-### (5)
+#### (5)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Baranagore</span>,*  
 *4th Feb., 1889.*
@@ -131,9 +131,9 @@ P.S. My heart leaps with joy—and it is a wonder that I do not go mad when I fi
 
 ### Letter 6: Pramada Das Mitra
 
-### (6)
+#### (6)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Baranagore,</span>*  
 *26th June, 1889.*
@@ -142,9 +142,9 @@ P.S. My heart leaps with joy—and it is a wonder that I do not go mad when I fi
 
 ### Letter 7: Pramada Das Mitra
 
-### (7)
+#### (7)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Baghbazar, Calcutta,</span>*  
 *4th July, 1889.*
@@ -155,8 +155,10 @@ Some relative of my former life[^fn-p0020-1] had purchased a bungalow at Simulta
 
 Words fail to describe how strong is the desire in my mind to go to Benares and have my soul blessed by meeting you and sojourning with you in good converse, but everything rests on His will ! I wonder what linking of heart existed between us, sir, from some previous incarnation that, receiving as I do the love and affection of not a few men of wealth and position in this city of Calcutta, I am apt to feel so much bored by their society, while only through one day’s interview my heart felt charmed enough to accept you as a near relative and friend in spiritual life ! One reason is that you are a favoured servant of God; another perhaps is :
 
-तच्चेतसा स्मरति नूनमबोधपूर्वं  
-भावस्थिरानि जननान्तरसौहृदानि ।[^fn-p0020-2]
+> **[verse_insert]**
+>
+> तच्चेतसा स्मरति नूनमबोधपूर्वं  
+> भावस्थिरानि जननान्तरसौहृदानि ।[^fn-p0020-2]
 
 I am indebted to you for the advice which comes from you as the outcome of your experience and spiritual practice. It is very true, and I have also found it so very often, that one has to suffer at times for holding in one’s brain novel views of all sorts.
 
@@ -168,10 +170,12 @@ They were quite well off before, but since my father’s death, it is going very
 
 Living near Calcutta I have to witness their adversity, and the quality of Rajas prevailing, my egotism sometimes develops into the form of a desire that rises to plunge me into action; in such moments, a fierce fighting ensues in my mind, and so I wrote that the state of my mind was terrible. Now their lawsuit has come to an end. So bless me that after a stay here in Calcutta for a few days more to settle matters, I may bid adieu to this place for ever.
 
-आपूर्यमाणमचलप्रतिष्ठ  
-समुद्रमापः प्रविशन्ति यद्वत् ।  
-तद्वत् कामा यं प्रविशन्ति सर्वे  
-स शान्तिमाप्नोति न कामकामी ॥[^fn-p0022-1]
+> **[verse_insert]**
+>
+> आपूर्यमाणमचलप्रतिष्ठ  
+> समुद्रमापः प्रविशन्ति यद्वत् ।  
+> तद्वत् कामा यं प्रविशन्ति सर्वे  
+> स शान्तिमाप्नोति न कामकामी ॥[^fn-p0022-1]
 
 Bless me that my heart may wax strong with supreme strength Divine and all forms of Maya may be foiled off from me far away : For “We have taken up the Cross, Thou hast laid it upon us and grant us strength that we bear it unto death. Amen.”—Imitation of Christ.
 
@@ -179,9 +183,9 @@ I am now staying in Calcutta. My address is : C/o Balaram Babu, 57, Ramkanta Bos
 
 ### Letter 8: Pramada Das Mitra
 
-### (8)
+#### (8)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Baranagore, Calcutta,</span>*  
 *7th Aug., 1889.*
@@ -199,9 +203,9 @@ I mail you, sir, a book named “Imitation of Christ” written by a Christian S
 
 ### Letter 9: Pramada Das Mitra
 
-### (9)
+#### (9)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Baranagore</span>,*  
 *17th Aug., 1889.*
@@ -238,9 +242,9 @@ I have heard it said that without inner progress in the practice of religion, no
 
 ### Letter 10: Pramada Das Mitra
 
-### *(10)*
+#### *(10)*
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Baghbazar, Calcutta</span>,*  
 *2nd Sept., 1889.*
@@ -249,9 +253,9 @@ I have heard it said that without inner progress in the practice of religion, no
 
 ### Letter 11: Pramada Das Mitra
 
-### *(11)*
+#### *(11)*
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">BAGHBAZAR</span>,*  
 *3rd Dec., 1889.*
@@ -262,9 +266,9 @@ P.S. Gangadhar is now proceeding to Kailas. The Thibetans wanted to slash him up
 
 ### Letter 12: Pramada Das Mitra
 
-### *(12)*
+#### *(12)*
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">BARANAGORE, CALCUTTA</span>,*  
 *13th Dec., 1889.*
@@ -273,9 +277,9 @@ P.S. Gangadhar is now proceeding to Kailas. The Thibetans wanted to slash him up
 
 ### Letter 13: Balaram Bose
 
-### (13)
+#### (13)
 
-### *To Sj. Balaram Bose*
+#### *To Sj. Balaram Bose*
 
 <span class="small-caps">Baidyanath</span>,*  
 *24th Dec., 1889.*
@@ -292,7 +296,7 @@ Well, your disease is not leaving off yet ! I don’t think this is a place for 
 
 ### Letter 14: Pramada Das Mitra
 
-### (14) *To Sj. Pramada Das Mitra*
+#### (14)<br />*To Sj. Pramada Das Mitra*
 
 <span class="small-caps">Baidyanath,</span>*  
 *26th Dec., 1889.*
@@ -305,7 +309,7 @@ My idea is to remain there for some time, and to watch how Vishwanatha and Annap
 
 ### Letter 15: Pramada Das Mitra
 
-### (15) *To The Same*
+#### (15)<br />*To The Same*
 
 <span class="small-caps">Allahabad,</span>*  
 *30th Dec., 1889.*
@@ -318,9 +322,9 @@ My address is—C/o Govinda Chandra Basu, Chauk, Allahabad.
 
 ### Letter 16: Balaram Bose
 
-### *(16)*
+#### *(16)*
 
-### *To Sj. Balaram Bose*
+#### *To Sj. Balaram Bose*
 
 <span class="small-caps">Allahabad</span>,*  
 *5th January, 1890.*
@@ -329,9 +333,9 @@ My address is—C/o Govinda Chandra Basu, Chauk, Allahabad.
 
 ### Letter 17: Jajneshwar Bhattacharya
 
-### (17)
+#### (17)
 
-### *To Sj. Jajneshwar Bhattacharya*
+#### *To Sj. Jajneshwar Bhattacharya*
 
 <span class="small-caps">Allahabad</span>,*  
 *5th January*, 1890.
@@ -340,7 +344,7 @@ My address is—C/o Govinda Chandra Basu, Chauk, Allahabad.
 
 ### Letter 18: Ram / Krishnamayi / Indu
 
-### (18) *Ram, Krishnamayi and Indu*
+#### (18)<br />*Ram, Krishnamayi and Indu*
 
 <span class="small-caps">ALLAHABAD</span>,  
 *5th January, 1890.*
@@ -349,7 +353,7 @@ My address is—C/o Govinda Chandra Basu, Chauk, Allahabad.
 
 ### Letter 19: Vivekananda → Pramada Das Mitra
 
-### (19) *To Sj. Pramada Das Mitra*
+#### (19)<br />*To Sj. Pramada Das Mitra*
 
 C/o <span class="small-caps">BABU SATISHCHANDRA MUKHERJI</span>,*  
 <span class="small-caps">GORABAZAR, GHAZIPUR</span>,  
@@ -365,9 +369,9 @@ P.S. Alas for the irony of our fate, that in this land of Bhagavan Shuka’s bir
 
 ### Letter 20: Balaram Bose
 
-### *(20)*
+#### *(20)*
 
-### *To Sj. Balaram Bose*
+#### *To Sj. Balaram Bose*
 
 <span class="small-caps">Ghazipur</span>,*  
 *30th Jan., 1890.*
@@ -378,9 +382,9 @@ P.S. In my opinion, it will do you much good if you come and stay for some time 
 
 ### Letter 21: Pramada Das Mitra
 
-### (21)
+#### (21)
 
-### *To Sj. Pramada Das Mitra*
+#### *To Sj. Pramada Das Mitra*
 
 <span class="small-caps">Ghazipur,</span>*  
 *31st Jan., 1890.*
@@ -391,9 +395,9 @@ P.S. The redeeming feature is that the place seems healthy.
 
 ### Letter 22: Pramada Das Mitra
 
-### (22)
+#### (22)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Ghazipur,</span>*  
 *4th Feb., 1890.*
@@ -402,9 +406,9 @@ P.S. The redeeming feature is that the place seems healthy.
 
 ### Letter 23: Pramada Das Mitra
 
-### *(23)*
+#### *(23)*
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Ghazipur</span>,*  
 *7th Feb.*, 1890.
@@ -415,9 +419,9 @@ P.S. Even though one can’t have his company, no trouble taken for the sake of 
 
 ### Letter 24: Pramada Das Mitra
 
-### (24)
+#### (24)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">GHAZIPUR</span>,*  
 *13th Feb.*, 1890.
@@ -426,7 +430,7 @@ P.S. Even though one can’t have his company, no trouble taken for the sake of 
 
 ### Letter 25: Pramada Das Mitra
 
-### (25) *To The Same*
+#### (25)<br />*To The Same*
 
 <span class="small-caps">Ghazipur,</span>  
 *14th Feb., 1890.*
@@ -437,7 +441,7 @@ P. S. Rakhal and Subodh have come to Brindaban after visiting Omkar, Girnar, Abu
 
 ### Letter 26: Balaram Bose
 
-### (26) *To Sj. Balaram Bose*
+#### (26)<br />*To Sj. Balaram Bose*
 
 <span class="small-caps">C/o Satish Mukherji,</span>*  
 <span class="small-caps">Gorabazar, Ghazipur,</span>  
@@ -449,9 +453,9 @@ P.S. If Mother has come, please convey to her my countless salutations, and ask 
 
 ### Letter 27: Swami Sadananda
 
-### (27)
+#### (27)
 
-### *To Swami Sadananda*
+#### *To Swami Sadananda*
 
 <span class="small-caps">GHAZIPUR</span>,*  
 *14th Feb., 1890.*
@@ -460,7 +464,7 @@ P.S. If Mother has come, please convey to her my countless salutations, and ask 
 
 ### Letter 28: Pramada Das Mitra
 
-### (28) *To Sj. Pramada Das Mitra*
+#### (28)<br />*To Sj. Pramada Das Mitra*
 
 <span class="small-caps">Ghazipur,</span>*  
 *Feb., 1890.*
@@ -469,7 +473,7 @@ P.S. If Mother has come, please convey to her my countless salutations, and ask 
 
 ### Letter 29: VIVEKANANDA → Swami Akhandananda
 
-### (29) *To Swami Akhandananda*
+#### (29)<br />*To Swami Akhandananda*
 
 <span class="small-caps">Ghazipur,</span>*  
 *February, 1890.*
@@ -482,23 +486,27 @@ The Vedic doctrine of Karma is the same as in Judaism and all other religions, t
 
 Lord Buddha is my Ishtam—my God. He preached no theory about Godhead—he was himself God, I fully believe it. But no one has the power to put a limit to God's infinite glory. No, not even God Himself has the power to make Himself limited. The translation of the Gandâra-Sutta that you have made from the Suttanipâta, is excellent. In that book there is another Sutta—the Dhaniya-Sutta—which has got a similar idea. There are many passages in the Dhammapadam too, with similar ideas. But that is at the last stage, when one has got perfectly satisfied with Knowledge and Realisation, is the same under all circumstances, and has gained mastery over his senses—
 
-ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः ।
+> **[verse_insert]**
+>
+> ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः ।
 
 He who has not the least regard for his body as something to be taken care of—it is he who may roam about at pleasure like the mad elephant caring for naught. Whereas a puny creature like myself should practise devotion, sitting at one spot, till he attains Realisation—and then only should he behave like that—but it is a far-off question—very far indeed.
 
-चिन्ताशून्यमदैन्यमल्पमशनं पानं सरिद्वारिषु  
-स्वातन्त्र्येण निरङ्कुशा स्थितिरभीर्निद्रा श्मशाने वने ।  
-वस्त्रं क्षालनशोषणादिरहितं दिग्वास्तु शय्या मही  
-सञ्चारो निगमान्तवीथीषु विदां क्रीडा परे ब्रह्मणि ॥
-
-विमानमालम्ब्य शरीरमेतद्-  
-भुनक्त्यशेषान् विषयानुपंस्थितान् ।  
-परेच्छया बालवदात्मवेत्ता ।  
-योऽव्यक्तलिङ्गोऽतनुषक्तबाह्यः ॥  
-दिगम्बरो वापि च साम्बरो वा  
-त्वगम्बरो वापि चिदम्बरस्थः ।  
-उन्मत्तवद्वापि च बालवद्वा  
-पिशाचवद्वापि चरत्यवन्याम् ॥[^fn-p0049-1]
+> **[verse_insert]**
+>
+> चिन्ताशून्यमदैन्यमल्पमशनं पानं सरिद्वारिषु  
+> स्वातन्त्र्येण निरङ्कुशा स्थितिरभीर्निद्रा श्मशाने वने ।  
+> वस्त्रं क्षालनशोषणादिरहितं दिग्वास्तु शय्या मही  
+> सञ्चारो निगमान्तवीथीषु विदां क्रीडा परे ब्रह्मणि ॥
+>
+> विमानमालम्ब्य शरीरमेतद्-  
+> भुनक्त्यशेषान् विषयानुपंस्थितान् ।  
+> परेच्छया बालवदात्मवेत्ता ।  
+> योऽव्यक्तलिङ्गोऽतनुषक्तबाह्यः ॥  
+> दिगम्बरो वापि च साम्बरो वा  
+> त्वगम्बरो वापि चिदम्बरस्थः ।  
+> उन्मत्तवद्वापि च बालवद्वा  
+> पिशाचवद्वापि चरत्यवन्याम् ॥[^fn-p0049-1]
 
 —To a knower of Brahman food comes of itself, without effort—he drinks water wherever he gets it. He roams at pleasure everywhere—he is fearless, sleeps sometimes in the forest, sometimes in a crematorium, and treads the Path which the Vedas have taken but whose end they have not seen. His body is like the sky, and he is guided, like a child, by others’ wishes; he is sometimes naked, sometimes in gorgeous clothes, and at times has only Jnanam as his clothing; he behaves sometimes like a child, sometimes like a madman, and at other times again like a ghoul, indifferent to cleanliness.
 
@@ -508,9 +516,9 @@ I pray to the holy feet of our Guru that you may have that state, and you may wa
 
 ### Letter 30: Pramada Das Mitra
 
-### (30)
+#### (30)
 
-### *To Sj. Pramada Das Mitra*
+#### *To Sj. Pramada Das Mitra*
 
 <span class="small-caps">GHAZIPUR</span>,*  
 *25th Feb.*, 1890.
@@ -519,9 +527,9 @@ I pray to the holy feet of our Guru that you may have that state, and you may wa
 
 ### Letter 31: Vivekananda → Swami Akhandananda
 
-### *(31)*
+#### *(31)*
 
-### *To Swami Akhandananda*
+#### *To Swami Akhandananda*
 
 <span class="small-caps">Ghazipur</span>,*  
 *March, 1890.*
@@ -538,9 +546,9 @@ With blessings and best wishes,—Ever yours, <span class="small-caps">Vivekanan
 
 ### Letter 32: Vivekananda → Pramada Das Mitra
 
-### (32)
+#### (32)
 
-### *To Sj. Pramada Das Mitra*
+#### *To Sj. Pramada Das Mitra*
 
 <span class="small-caps">Ghazipur,</span>*  
 *3rd March, 1890.*
@@ -565,9 +573,9 @@ Please send a prompt reply—Yours etc., <span class="small-caps">Vivekananda.</
 
 ### Letter 33: V. → Pramada Das Mitra
 
-### (33)
+#### (33)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Ghazipur</span>,*  
 *8th March*, 1890.
@@ -578,17 +586,19 @@ P.S. In case Abhedananda reaches your place in a day or two, I shall be much obl
 
 ### Letter 34: Balaram Bose
 
-### (*34*)
+#### (*34*)
 
-### *To Sj. Balaram Bose*
+#### *To Sj. Balaram Bose*
 
 <span class="small-caps">Ghazipur</span>,*  
 *15th March*, 1890.
 
 <span class="small-caps">Revered Sir</span>—Received your kind note yesterday. I am very sorry to learn that Suresh Babu’s illness is extremely serious. What is destined to come will transpire. It is a matter of great regret that you too have fallen ill. So long as egoism lasts, any shortcoming in adopting remedial measures is to be considered as idleness—it is a fault and a guilt. For one who has not that egoistic idea, the best course is to forbear. The dwelling-place of the Jivatman, this body, is a veritable means of work, and he who converts this into an infernal den is guilty, and he who neglects it is also to blame. Please act according to circumstances as they present themselves, without the least hesitation.
 
-नाभिनन्देत मरणं नाभिनन्देत जीवितम् ।  
-कालमेव प्रतीक्षेत नियमं भृतको यथा ॥
+> **[verse_insert]**
+>
+> नाभिनन्देत मरणं नाभिनन्देत जीवितम् ।  
+> कालमेव प्रतीक्षेत नियमं भृतको यथा ॥
 
 —“The highest duty consists in doing the little that lies in one’s power, seeking neither death nor life, and biding one’s time like a servant ready to do any behest.”
 
@@ -596,19 +606,21 @@ There is a dreadful outbreak of influenza at Benares and Pramada Babu has gone t
 
 ### Letter 35: Atul Chandra Ghose
 
-### (35)
+#### (35)
 
-### *To Sj. Atul Chandra Ghose*
+#### *To Sj. Atul Chandra Ghose*
 
 <span class="small-caps">Ghazipur</span>,*  
 *15th March, 1890.*
 
 <span class="small-caps">Dear</span> Atul Babu—I am extremely sorry to hear that you are passing through mental afflictions. Please do only what is agreeable to you.
 
-यावज्जननं तावन्मरणं  
-तावज्जननीजठरे शयनम् ।  
-इति संसारे स्फुटतरदोषः  
-कथमिह मानव तव सन्तोषः ॥
+> **[verse_insert]**
+>
+> यावज्जननं तावन्मरणं  
+> तावज्जननीजठरे शयनम् ।  
+> इति संसारे स्फुटतरदोषः  
+> कथमिह मानव तव सन्तोषः ॥
 
 —“While there is birth there is death, and again entering the mother’s womb. This is the manifest evil of transmigration. How, O man, dost thou want satisfaction in such a world?”—Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
@@ -616,9 +628,9 @@ P.S. I am leaving this place to-morrow. Let me see which way destiny leads !
 
 ### Letter 36: Swami Akhandananda
 
-### (36)
+#### (36)
 
-### *To Swami Akhandananda*
+#### *To Swami Akhandananda*
 
 <span class="small-caps">Ghazipur</span>,*  
 *March, 1890.*
@@ -629,9 +641,9 @@ You have to get down at Dildarnagar to come to Ghazipur. It is three or four sta
 
 ### Letter 37: V. → Pramada Das Mitra
 
-### (37)
+#### (37)
 
-### *To Sj. Pramada Das Mitra*
+#### *To Sj. Pramada Das Mitra*
 
 <span class="small-caps">Ghazipur</span>,*  
 *31st March, 1890.*
@@ -642,9 +654,9 @@ P.S. Abhedananda is staying in Doctor Priya’s house at Sonarpura. My lumbago i
 
 ### Letter 38: Swami Abhedananda
 
-### (38)
+#### (38)
 
-### *To Swami Abhedananda*
+#### *To Swami Abhedananda*
 
 <span class="small-caps">Ghazipur</span>,*  
 *2nd April, 1890.*
@@ -653,9 +665,9 @@ P.S. Abhedananda is staying in Doctor Priya’s house at Sonarpura. My lumbago i
 
 ### Letter 39: Pramada Das Mitra
 
-### (39)
+#### (39)
 
-### *To Sj. Pramada Das Mitra*
+#### *To Sj. Pramada Das Mitra*
 
 <span class="small-caps">GHAZIPUR</span>  
 *April, 1890.*
@@ -664,9 +676,9 @@ P.S. Abhedananda is staying in Doctor Priya’s house at Sonarpura. My lumbago i
 
 ### Letter 40: Pramada Das Mitra
 
-### (40)
+#### (40)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">BARANAGORE</span>,*  
 *10th May, 1890.*
@@ -675,9 +687,9 @@ P.S. Abhedananda is staying in Doctor Priya’s house at Sonarpura. My lumbago i
 
 ### Letter 41: VIVEKANANDA → Pramada Das Mitra
 
-### (41)
+#### (41)
 
-### *To The Same*
+#### *To The Same*
 
 57, <span class="small-caps">Ramkanta Bose’s Street,</span>*  
 <span class="small-caps">Baghbazar, Calcutta,</span>  
@@ -714,9 +726,9 @@ Please write to the address given above.—Yours etc.,
 
 ### Letter 42: Swami Saradananda
 
-### (42)
+#### (42)
 
-### *To Swami Saradananda*
+#### *To Swami Saradananda*
 
 <span class="small-caps">BAGHBAZAR, CALCUTTA,</span>  
 *6th July, 1890.*
@@ -733,10 +745,12 @@ I am in fine health now, and the good I gained by my stay in Ghazipur will last,
 
 How do you find the climate at Almora ? Neither of you need come down. What is the use of so many living together in one place and doing no good to one's soul? Don't be fools always wandering from place to place—that's all very good—but be heroes.
 
-निर्मानमोहा जितसंगदोषा  
-अध्यात्मनित्या विनिवृत्तकामाः ।  
-द्वंद्वैर्विमुक्ताः सुखदुःखसंज्ञै-  
-र्गच्छन्त्यमूढाः पदमव्ययं तत् ॥
+> **[verse_insert]**
+>
+> निर्मानमोहा जितसंगदोषा  
+> अध्यात्मनित्या विनिवृत्तकामाः ।  
+> द्वंद्वैर्विमुक्ताः सुखदुःखसंज्ञै-  
+> र्गच्छन्त्यमूढाः पदमव्ययं तत् ॥
 
 (Gita, XV. 5.)
 
@@ -748,9 +762,9 @@ So many gushing inquiries simply betray a weak mind. Arise, ye mighty one, and b
 
 ### Letter 43: Lala Govinda Sahay
 
-### (43)
+#### (43)
 
-### *To Lala Govinda Sahay*
+#### *To Lala Govinda Sahay*
 
 <span class="small-caps">Ajmere</span>,  
 *14th April, 1891.*
@@ -759,9 +773,9 @@ So many gushing inquiries simply betray a weak mind. Arise, ye mighty one, and b
 
 ### Letter 44: Govinda Sahay
 
-### (44)
+#### (44)
 
-### *To The Same.*
+#### *To The Same.*
 
 <span class="small-caps">Abu,</span>  
 *30th April, 1891.*
@@ -772,9 +786,9 @@ P. S. Don’t be ruffled if now and then you get a brush from the world; it will
 
 ### Letter 45: VIVEKANANDA → Govinda Sahay
 
-### (45)
+#### (45)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Mount Abu,</span>  
 *1891.*
@@ -785,9 +799,9 @@ Try hard with your Sanskrit, studies.—Yours with love, <span class="small-caps
 
 ### Letter 46: Pandit Shankarlal
 
-### (46)
+#### (46)
 
-### *To Pandit Shankarlal*
+#### *To Pandit Shankarlal*
 
 <span class="small-caps">BOMBAY</span>,  
 *20th September, 1892.*
@@ -802,9 +816,9 @@ So you see, we must travel, we must go to foreign parts. We must see how the eng
 
 ### Letter 47: Sj. Alasinga Perumal
 
-### (47)
+#### (47)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 <span class="small-caps">HYDERABAD</span>,  
 *21st Feb.*, 1893.
@@ -817,7 +831,7 @@ So all my plans have been dashed to the ground. That is why I wanted to hurry of
 
 ### Letter 48: Vivekananda → Dr. Nanjunda Rao, M.D.
 
-### (48) *To Dr. Nanjunda Rao, M.D.*
+#### (48)<br />*To Dr. Nanjunda Rao, M.D.*
 
 <span class="small-caps">Khetri</span>,  
 *27th April, 1893.*
@@ -830,9 +844,9 @@ May the Giver of all good bless you all here and hereafter, will be the constant
 
 ### Letter 49: Sj. Haridas Viharidas Desai
 
-### (49)
+#### (49)
 
-### *To Sj. Haridas Viharidas Desai*
+#### *To Sj. Haridas Viharidas Desai*
 
 <span class="small-caps">Bombay</span>,  
 *22nd May, 1893.*
@@ -847,9 +861,9 @@ I thoroughly believe that a good, unselfish and holy man like you, whose whole l
 
 ### Letter 50: Srimati Indumati Mitra
 
-### (50)
+#### (50)
 
-### *To Srimati Indumati Mitra*
+#### *To Srimati Indumati Mitra*
 
 <span class="small-caps">Bombay</span>,*  
 *24th May, 1893.*
@@ -858,9 +872,9 @@ I thoroughly believe that a good, unselfish and holy man like you, whose whole l
 
 ### Letter 51: V. → Sj. Alasinga Perumal
 
-### *(51)*
+#### *(51)*
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 <span class="small-caps">Yokohama,</span>  
 *10th July, 1893.*
@@ -895,7 +909,7 @@ The Japanese seem now to have fully awakened themselves to the necessity of the 
 
 The match factories are simply a sight to see, and they are bent upon making everything they want in their own country. There is a Japanese line of steamers plying between China and Japan, which shortly intends running between Bombay and Yokohama.
 
-I saw quite a lot of temples. In every temple there are some Sanskrit Mantras written in old Bengali characters. Only a few of the priests know Sanskrit. But they are an intelligent sect. The modern rage for progress has penetrated even the priesthood. I cannot write what I have in my mind about the Japs in one short letter. Only I want that numbers of our young men should pay a visit to Japan every year. To the Japanese, India is still the dreamland of everything high and good. And you, what are you? . . . talking twaddle all your lives, vain talkers, what are you? Come, see these people and then go and hide your faces in shame. A race of dotards, you lose your caste if you come out! Sitting down these hundreds of years with an ever-increasing load of crystallised superstition on your heads, for hundreds of years spending all your energy upon discussing the touchableness or untouchableness of this food or that, with all humanity crushed out of you by the continuous social tyranny of ages—what are you? And what are you doing now? . . . promenading the sea-shores with books in your hands—repeating undigested stray bits of European brainwork, and the whole soul bent upon getting a thirty rupees clerkship or at best becoming a lawyer—the height of young India’s ambition—and every student with a whole brood of hungry children cackling at his heels and asking for bread ! Is there not water enough in the sea to drown you, books, gowns, university diplomas, and all ?
+I saw quite a lot of temples. In every temple there are some Sanskrit Mantras written in old Bengali characters. Only a few of the priests know Sanskrit. But they are an intelligent sect. The modern rage for progress has penetrated even the priesthood. I cannot write what I have in my mind about the Japs in one short letter. Only I want that numbers of our young men should pay a visit to Japan every year. To the Japanese, India is still the dreamland of everything high and good. And you, what are you? . . . talking twaddle all your lives, vain talkers, what are you? Come, see these people and then go and hide your faces in shame. A race of dotards, you lose your caste if you come out! Sitting down these hundreds of years with an ever-increasing load of crystallised superstition on your heads, for hundreds of years spending all your energy upon discussing the touchableness or untouchableness of this food or that, with all humanity crushed out of you by the continuous social tyranny of ages—what are you? And what are you doing now? . . . promenading the sea-shores with books in your hands—repeating undigested stray bits of European brain-work, and the whole soul bent upon getting a thirty rupees clerkship or at best becoming a lawyer—the height of young India’s ambition—and every student with a whole brood of hungry children cackling at his heels and asking for bread ! Is there not water enough in the sea to drown you, books, gowns, university diplomas, and all ?
 
 Come, be men ! Kick out the priests who are always against progress. Because they would never mend; their hearts would never become big. They are the offspring of centuries of superstition and tyranny. Root out priestcraft first. Come, be men. Come out of your narrow holes and have a look abroad. See how nations are on the march. Do you love man ? Do you love your country ? Then come, let us struggle for higher and better things, look not back, no, not even if you see the dearest and nearest cry. Look not back, but forward !
 
@@ -907,9 +921,9 @@ P. S. Calm and silent and steady work, and no newspaper humbug, no name-making, 
 
 ### Letter 52: Alasinga
 
-### (52)
+#### (52)
 
-### *To The Same*
+#### *To The Same*
 
 Breezy Meadows,  
 Metcalf, Mass.,  
@@ -955,9 +969,9 @@ I must try to the end, and even if I die of cold or disease or hunger here, you 
 
 ### Letter 53: V. → Alasinga
 
-### (53)
+#### (53)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Chicago</span>,  
 *2nd Nov.*, 1893.
@@ -992,9 +1006,9 @@ Mr. Ingersoll gets five to six hundred dollars a lecture. He is the most celebra
 
 ### Letter 54: Vivekananda → Sj. Haripada Mitra
 
-### (54)
+#### (54)
 
-### *To Sj. Haripada Mitra*
+#### *To Sj. Haripada Mitra*
 
 <span class="small-caps">C/o George W. Hale, Esq.,</span>*  
 541, <span class="small-caps">Dearborn Avenue, Chicago,</span>  
@@ -1016,28 +1030,30 @@ As regards spirituality, the Americans are far inferior to us, but their society
 
 ### Letter 55: Sj. D. R. Balaji Rao
 
-### (55)
+#### (55)
 
-### *To Sj. D. R. Balaji Rao*
+#### *To Sj. D. R. Balaji Rao*
 
-### a Madras friend
+#### a Madras friend
 
-### who just had a severe domestic affliction
+#### who just had a severe domestic affliction
 
 *1893.*
 
 <span class="small-caps">My dear Balaji</span>—“ Naked came I out of my mother’s womb, and naked shall I return thither; the Lord gave and the Lord hath taken away; blessed be the name of the Lord.” Thus said the old Jewish saint when suffering the greatest calamities that could befall man, and he erred not. Herein lies the whole secret of Existence. Waves may roll over the surface and tempests rage, but deep down there is the stratum of infinite calmness, infinite peace, and of infinite bliss. “ Blessed are they that mourn, for they shall be comforted.” And why? Because it is during these moments of visitations, when the heart is wrung by hands which never stop for the father’s cries or the mother’s wail, when under the load of sorrow, dejection and despair, the world seems to be cut off from under our feet, and when the whole horizon seems to be nothing but an impenetrable sheet of misery and utter despair, that the internal eyes open, light flashes all of a sudden, the dream vanishes, and intuitively we come face to face with the grandest mystery in nature—Existence. Yes, then it is—when the load would be sufficient to sink a lot of frail vessels—that the man of genius, of strength, the hero, sees that infinite, absolute, ever-blissful Existence *per se*, that infinite Being who is called and worshipped under different names, in different climes. Then it is, the shackles that bind the soul down to this hole of misery, break, as it were, for a time, and unfettered, it rises and rises until it reaches the throne of the Lord, “where the wicked cease from troubling and the weary are at rest.” Cease not, brother, to send up petitions day and night, cease not to say day and night, <span class="small-caps">Thy Will be Done.</span>
 
-“ Ours not to question why,  
-Ours but to do and die.”
+> **[verse_insert]**
+>
+> “ Ours not to question why,  
+> Ours but to do and die.”
 
 Blessed be Thy name, O Lord ! And Thy will be done. Lord, we know that we are to submit; Lord, we know that it is the Mother’s hand that is striking, and “the spirit is willing but the flesh is weak.” There is, Father of Love, an agony at the heart which is fighting against that calm resignation which Thou teachest. Give us strength, O Thou who saw Thy whole family destroyed before Thine eyes, with Thine hands crossed on Thy breast. Come, Lord, Thou Great Teacher, who hast taught us that the soldier is only to obey and speak not. Come Lord, come, Arjuna’s charioteer, and teach me, as Thou once taughtest him, that resignation in *Thyself* is the highest end and aim of this life, so that with those great ones of old, I may also firmly and resignedly cry, *Om Sri Krishnârpanamastu.* May the Lord send you peace is the prayer, day and night, of—<span class="small-caps">Vivekananda.</span>
 
 ### Letter 56: Vivekananda → Madras Disciples
 
-### (56)
+#### (56)
 
-### *To Madras Disciples*
+#### *To Madras Disciples*
 
 541, <span class="small-caps">Dearborn Avenue, Chicago</span>,  
 *24th January, 1894.*
@@ -1062,7 +1078,7 @@ P.S. Preach the idea of elevating the masses by means of a central college, and 
 
 ### Letter 57: Sj. Haridas Viharidas Desai
 
-### (57) *To Sj. Haridas Viharidas Desai*
+#### (57)<br />*To Sj. Haridas Viharidas Desai*
 
 <span class="small-caps">Chicago,</span>  
 *29th January, 1894.*
@@ -1090,9 +1106,9 @@ You are one of the few noble natures who stand out as rocks out of water in this
 
 ### Letter 58: Vivekananda → “ Kidi ”
 
-### (58)
+#### (58)
 
-### *To “ Kidi ”*
+#### *To “ Kidi ”*
 
 541, <span class="small-caps">Dearborn Avenue</span>,  
 <span class="small-caps">Chicago</span>,  
@@ -1146,11 +1162,11 @@ Think of me as one who has done all his duty and is now dead and gone. Think tha
 
 With my blessings on you all, my brave steadfast and loving souls.—Yours, <span class="small-caps">Vivekananda.</span>
 
-### Letter 59
+### Letter 59: an American friend
 
-### (59)
+#### (59)
 
-### *To an American friend*
+#### *To an American friend*
 
 <span class="small-caps">Detroit,</span>  
 *15th March, 1894.*
@@ -1165,9 +1181,9 @@ How I should like to become dumb for some years, and not talk at all ! I was not
 
 ### Letter 60: Swami Brahmananda
 
-### (60)
+#### (60)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 C/<span class="small-caps">o</span> G<span class="small-caps">eorge</span> W. H<span class="small-caps">ale</span>,*  
 541, D<span class="small-caps">earborn</span> A<span class="small-caps">venue</span>,  
@@ -1190,8 +1206,10 @@ Nowhere in the world are women like those of this country. How pure, independent
 
 A country where millions of people live on flowers of the *mohua* plant, and a million or two of Sadhus and a hundred million or so of Brahmins such the blood out of these poor people, without even the least effort for their amelioration—is that a country or hell? Is that a religion, or the devil’s dance? My brother, here is one thing for you to understand fully—I have travelled all over India, and seen this country too—can there be an effect without cause? Can there be punishment without sin?
 
-सर्वशास्त्रपुराणेषु व्यासस्य वचनं ध्रुवं ।  
-परोपकारः पुण्याय पापाय परपीडनम् ॥
+> **[verse_insert]**
+>
+> सर्वशास्त्रपुराणेषु व्यासस्य वचनं ध्रुवं ।  
+> परोपकारः पुण्याय पापाय परपीडनम् ॥
 
 —“Amidst all the scriptures and Purânas, know this statement of Vyasa to be true, that doing good to others conduces to merit, and doing harm to them leads to sin.”
 
@@ -1211,9 +1229,9 @@ Nowhere in the world have I come across such “frogs-in-the-well” as we are. 
 
 ### Letter 61: Sj. Alasinga Perumal
 
-### (61)
+#### (61)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 <span class="small-caps">New York</span>,  
 *9th April, 1894.*
@@ -1228,9 +1246,9 @@ Old Hinduism for ever ! . . . Up, up, my boys, we are sure to win !
 
 ### Letter 62: DEAR ALASINGA
 
-### (62)
+#### (62)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">CHICAGO</span>,  
 *28th May*, 1894.
@@ -1251,9 +1269,9 @@ I do not require any help. Try to get up a fund, buy some magic-lanterns, maps, 
 
 ### Letter 63: Sj. Haridas Viharidas Desai
 
-### (63)
+#### (63)
 
-### *To Sj. Haridas Viharidas Desai*
+#### *To Sj. Haridas Viharidas Desai*
 
 <span class="small-caps">Chicago</span>,  
 *20th June, 1894.*
@@ -1274,9 +1292,9 @@ Now suppose the villagers after their day’s work have come to their village, a
 
 ### Letter 64: H. H. The Maharaja of Mysore
 
-### (64)
+#### (64)
 
-### *To H. H. The Maharaja of Mysore*
+#### *To H. H. The Maharaja of Mysore*
 
 <span class="small-caps">Chicago</span>,  
 *23rd June*, 1894.
@@ -1293,9 +1311,9 @@ My noble prince, this life is short, the vanities of the world are transient, bu
 
 ### Letter 65: Vivekananda → Rao Bahadur Narasimhachariar
 
-### (65)
+#### (65)
 
-### *To Rao Bahadur Narasimhachariar*
+#### *To Rao Bahadur Narasimhachariar*
 
 <span class="small-caps">Chicago</span>,  
 *23rd June*, 1894.
@@ -1306,9 +1324,9 @@ May the Lord bless you.—Yours for ever and ever affectionate, <span class="sma
 
 ### Letter 66: Misses Mary and Harriet Hale
 
-### (66)
+#### (66)
 
-### *To Misses Mary and Harriet Hale*
+#### *To Misses Mary and Harriet Hale*
 
 <span class="small-caps">Greenacre Inn, Eliot, Maine,</span>  
 *26th June, 1894.*
@@ -1327,7 +1345,7 @@ Stick to God ! Who cares what comes to the body or to anything else. Through the
 
 ### Letter 67
 
-### (67)
+#### (67)
 
 <span class="small-caps">C/o George W. Hale, Esq.,</span>  
 <span class="small-caps">541, Dearborn Avenue, Chicago,</span>  
@@ -1355,11 +1373,11 @@ May even the dust of the world never touch you, for after all, the poets say, it
 
 Excuse my mad scribbling, excuse my foolery in trying to express the inexpressible. It is to be felt only.—Ever with blessings, your brother, <span class="small-caps">Vivekananda</span>.
 
-### Letter 68
+### Letter 68: a Madrasi disciple
 
-### (68)
+#### (68)
 
-### *To a Madrasi disciple*
+#### *To a Madrasi disciple*
 
 541, <span class="small-caps">Dearborn Ave.</span>,  
 <span class="small-caps">Chicago</span>,  
@@ -1369,9 +1387,9 @@ Excuse my mad scribbling, excuse my foolery in trying to express the inexpressib
 
 ### Letter 69: Vivekananda → Sj. Alasinga Perumal
 
-### (69)
+#### (69)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 U. S. A.,  
 *11th July, 1894.*
@@ -1398,9 +1416,9 @@ Work hard. Be holy and pure, and the fire will come.
 
 ### Letter 70: Vivekananda → Alasinga Perumal
 
-### (70)
+#### (70)
 
-### *To The Same*
+#### *To The Same*
 
 U. S. A.,  
 *31st August, 1894.*
@@ -1423,9 +1441,9 @@ Ever yours affectionately, <span class="small-caps">Vivekananda</span>.
 
 ### Letter 71: Vivekananda → a Sannyasin
 
-### (71)
+#### (71)
 
-### *To a Sannyasin—an American disciple*
+#### *To a Sannyasin—an American disciple*
 
 <span class="small-caps">BELLE VUE HOTEL,</span>  
 <span class="small-caps">BOSTON,</span>  
@@ -1441,9 +1459,9 @@ Yours, <span class="small-caps">VIVEKANANDA</span>.
 
 ### Letter 72: Vivekananda → Mrs. Ole Bull
 
-### *(72)*
+#### *(72)*
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">HOTEL BELLE VUE,</span>  
 <span class="small-caps">BEACON STREET, BOSTON,</span>  
@@ -1461,9 +1479,9 @@ P.S. Kindly write me whether the Guernseys have returned to town or are still in
 
 ### Letter 73: Vivekananda → Sj. Alasinga Perumal
 
-### (73)
+#### (73)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 U. S. A.,  
 *21st September, 1894.*
@@ -1480,9 +1498,9 @@ Give to Balaji, G. G., and all of our friends my best love.—Yours with everlas
 
 ### Letter 74: Kidi
 
-### (74)
+#### (74)
 
-### *To “ Kidi ”*
+#### *To “ Kidi ”*
 
 U. S. A.,  
 *21st September, 1894.*
@@ -1491,7 +1509,7 @@ U. S. A.,
 
 ### Letter 75
 
-### (75)
+#### (75)
 
 <span class="small-caps">New York</span>,*  
 *25th September, 1894.*
@@ -1502,8 +1520,10 @@ Here in summer they go to the seaside—I also did the same. They have got almos
 
 I shall now tell you something of the Hales to whose address you direct my letters. He and his wife are an old couple, having two daughters, two nieces and a son. The son lives abroad where he earns a living. The daughters live at home. In this country relationship is through the girls. The son marries and no longer belongs to the family, but the daughter’s husband pays frequent visits to his father-in-law’s house. They say,
 
-“ Son is son till he gets a wife,  
-The daughter is daughter all her life.”
+> **[verse_insert]**
+>
+> “ Son is son till he gets a wife,  
+> The daughter is daughter all her life.”
 
 All the four are young and not yet married. Marriage is a very troublesome business here. In the first place one must have a husband after one’s heart. Secondly, he must be a moneyed man. . . . They will probably live unmarried; besides, they are now full of renunciation through my contact and are busy with thoughts of Brahman !
 
@@ -1525,8 +1545,10 @@ I am now busy writing a reply to the Madras Address, which was published in all 
 
 . . . They are good-natured, kind, and truthful. All is right with them but that enjoyment is their God. It is a country where money flows like rivers, with beauty as its ripple, and learning its waves, and which rolls in luxury.
 
-कांक्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः ।  
-क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ॥
+> **[verse_insert]**
+>
+> कांक्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः ।  
+> क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ॥
 
 —“ Longing for success in action in this world, (men) worship the deities. For success is quickly attained through action in this world of man.” (Gita).
 
@@ -1540,27 +1562,31 @@ It is welcome news that Madras is in a stir.
 
 Were you not going to start a paper or something of that sort, what about that? We must mix with all, and alienate none. All the powers of good against all the powers of evil—this is what we want. Do not insist upon everybody’s believing in our Guru. . . . You shall have to edit a magazine, half Bengali and half Hindi—and, if possible, another in English. . . . It won’t do to be roaming aimlessly. Wherever you go, you must start a permanent preaching centre. Then only will people begin to change. I am writing a book. As soon as it is finished, I run for home ! . . . Always remember that Sri Ramakrishna came for the good of the world—not for name or fame. *Spread only what he came to teach. Never mind for his name—it will spread of itself.* Directly you insist on everybody’s accepting your Guru, you will be creating a sect, and everything will come to the ground—so beware ! Have a kind word for all—it spoils work to show temper. Let people say whatever they like, stick to your own convictions, and rest assured, the world will be at your feet. They say, “Have faith in this fellow or that fellow,” but I say, “Have faith in yourself first,” that’s the way. Have faith in yourself—all power is in you,—be conscious and bring it out. Say, “I can do everything.” “Even the poison of a snake is powerless if you can firmly deny it.” Beware ! No saying “nay,” no negative thoughts ! Say, “Yea, yea,” सोऽहं, सोऽहं—“I am He ! I am He !”
 
-किन्नाम रोदिषि सखे त्वयि सर्वशक्तिः  
-आमन्त्रयस्व भगवन् भगदं स्वरूपम् ।  
-त्रैलोक्यमेतदखिलं तव पादमूले  
-आत्मैव हि प्रभवते न जडः कदाचित् ॥
+> **[verse_insert]**
+>
+> किन्नाम रोदिषि सखे त्वयि सर्वशक्तिः  
+> आमन्त्रयस्व भगवन् भगदं स्वरूपम् ।  
+> त्रैलोक्यमेतदखिलं तव पादमूले  
+> आत्मैव हि प्रभवते न जडः कदाचित् ॥
 
 “What makes you weep, my friend ? In you is all power. Summon up your all-powerful nature, O mighty one, and this whole universe will lie at your feet. It is the Self alone that predominates, and not matter.”
 
 To work with undaunted energy ! What fear ! Who is powerful enough to thwart you ! कुर्मस्तारकचर्वणं त्रिभुवनमुत्पाटयामः बलात् किं भो न विजानास्यस्मान्, रामकृष्णदासा वयम् —“ We shall crush the stars to atoms, and unhinge the universe. Don’t you know who we are? We are the servants of Sri Ramakrishna.” Fear ! Whom to fear, forsooth !
 
-क्षीणाः स्म दीनाः सकरुणाः जल्पन्ति मूढा जनाः  
-नास्तिक्यन्त्विदन्तु अहह देहात्मवादातुराः ।  
-प्राप्ताः स्म वीरा गतभया अभयं प्रतिष्ठां यदा  
-आस्तिक्यन्त्विदन्तु चिनुमः रामकृष्णदासा वयम् ॥  
-पीत्वा पीत्वा परमममृतं वीतसंसाररागाः  
-हित्वा हित्वा सकलकलहप्रापिणीं स्वार्थसिद्धि ।  
-ध्यात्वा ध्यात्वा गुरुवरपदं सर्वकल्याणरूपं  
-नत्वा नत्वा सकलभुवनम् पातुमामन्त्रयामः ॥  
-प्राप्तं यद्वै त्वनादिनिधनं वेदोदधिं मथित्वा  
-दत्तं यस्य प्रकरणे हरिहरब्रह्मादिदेवैर्बलं ।  
-पूर्णं यत्तु प्राणसारैर्भौमनारायणानां  
-रामकृष्णस्तनुं धत्ते तत्पूर्णपात्रमिदं भोः ॥
+> **[verse_insert]**
+>
+> क्षीणाः स्म दीनाः सकरुणाः जल्पन्ति मूढा जनाः  
+> नास्तिक्यन्त्विदन्तु अहह देहात्मवादातुराः ।  
+> प्राप्ताः स्म वीरा गतभया अभयं प्रतिष्ठां यदा  
+> आस्तिक्यन्त्विदन्तु चिनुमः रामकृष्णदासा वयम् ॥  
+> पीत्वा पीत्वा परमममृतं वीतसंसाररागाः  
+> हित्वा हित्वा सकलकलहप्रापिणीं स्वार्थसिद्धि ।  
+> ध्यात्वा ध्यात्वा गुरुवरपदं सर्वकल्याणरूपं  
+> नत्वा नत्वा सकलभुवनम् पातुमामन्त्रयामः ॥  
+> प्राप्तं यद्वै त्वनादिनिधनं वेदोदधिं मथित्वा  
+> दत्तं यस्य प्रकरणे हरिहरब्रह्मादिदेवैर्बलं ।  
+> पूर्णं यत्तु प्राणसारैर्भौमनारायणानां  
+> रामकृष्णस्तनुं धत्ते तत्पूर्णपात्रमिदं भोः ॥
 
 —“It is those foolish people who identify themselves with their bodies, and piteously cry ‘we are weak, we are low.’ All this is atheism. Now that we have attained the state beyond fear, we shall have no more fear and become heroes. This indeed is theism which we will choose, the servants of Sri Ramakrishna.
 
@@ -1574,9 +1600,9 @@ Why are Baburam and Jogen suffering so much ? It is owing to their negative, the
 
 ### Letter 76: Mrs. Ole Bull
 
-### (76)
+#### (76)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">Boston</span>,  
 *26th Sept., 1894.*
@@ -1585,9 +1611,9 @@ Why are Baburam and Jogen suffering so much ? It is owing to their negative, the
 
 ### Letter 77: Vivekananda → Sj. Alasinga Perumal
 
-### (77)
+#### (77)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 U. S. A.,  
 *27th September, 1894.*
@@ -1604,7 +1630,7 @@ Ever yours affectionately,
 
 ### Letter 78: Vivekananda → Sj. Alasinga Perumal
 
-### (78) *To The Same*
+#### (78)<br />*To The Same*
 
 U. S. A.,  
 *29th September, 1894.*
@@ -1625,9 +1651,9 @@ P. S. The present Hindu society is organised only for spiritual men, and hopeles
 
 ### Letter 79: Vivekananda → Sj. Haridas Viharidas Desai
 
-### (79)
+#### (79)
 
-### *To Sj. Haridas Viharidas Desai*
+#### *To Sj. Haridas Viharidas Desai*
 
 <span class="small-caps">Chicago</span>,  
 *September, 1894.*
@@ -1642,17 +1668,17 @@ With my best love, gratitude to you and all your brothers,—I remain, Yours fai
 
 ### Letter 80: Sj. Haridas Viharidas Desai
 
-### (80)
+#### (80)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">DEAR DIWANJI SAHEB</span>—Very kind of you to send up a man inquiring about my health and comfort. But that's quite of a piece to your fatherly character. I am all right here. Your kindness has left nothing more to be desired here. I hope soon to see you in a few days. I don't require any conveyance while going down. Descent is very bad and the ascent is the worst part of the job, that's the same in everything in the world. My heart-felt gratitude to you.—Yours faithfully, <span class="small-caps">VIVEKANANDA</span>.
 
 ### Letter 81: Swami Brahmananda
 
-### (81)
+#### (81)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 <span class="small-caps">BALTIMORE, U. S. A.,</span>*  
 *22nd October, 1894.*
@@ -1667,9 +1693,9 @@ Now you have come to know your own powers. Strike the iron while it is hot. Idle
 
 ### Letter 82: Vivekananda → Sj. Vehemia Chand
 
-### (82)
+#### (82)
 
-### *To Sj. Vehemia Chand*
+#### *To Sj. Vehemia Chand*
 
 <span class="small-caps">Washington</span>,  
 *23rd October, 1894.*
@@ -1682,9 +1708,9 @@ With my love to you and all my friends there (Limbdi, Rajputana),—Yours, <span
 
 ### Letter 83: Mrs. Ole Bull
 
-### (83)
+#### (83)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">Washington</span>,  
 *27th October, 1894.*
@@ -1697,9 +1723,9 @@ In Washington I am the guest of Mrs. E. Totten who is an influential lady here a
 
 ### Letter 84: Vivekananda → Sj. Alasinga Perumal
 
-### (84)
+#### (84)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 <span class="small-caps">Washington</span>,  
 *27th October, 1894.*
@@ -1716,9 +1742,9 @@ P.S. Take care of these two things—love of power and jealousy. Cultivate alway
 
 ### Letter 85: Sj. Haridas Viharidas Desai
 
-### (85)
+#### (85)
 
-### *To Sj. Haridas Viharidas Desai*
+#### *To Sj. Haridas Viharidas Desai*
 
 <span class="small-caps">Chicago</span>,  
 *15th November, 1894.*
@@ -1759,9 +1785,9 @@ I am doing the Lord’s work and wherever He leads I follow. मूकं कर
 
 ### Letter 86: Vivekananda → Sj. Haridas Viharidas Desai
 
-### (86)
+#### (86)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">Chicago</span>,  
 541, <span class="small-caps">Dearborn Avenue</span>,  
@@ -1781,8 +1807,10 @@ Why amongst the poor of India are so many Mohammedans? It is nonsense to say the
 
 Now, let me tell you—still there is a God, no joke. He is ordering our lives, and although I know a nation of slaves cannot but try to bite at the hand that wants to give them medicine, yet, pray with me, you—one of the few that have real sympathy for everything good, for everything great, one at least whom I know to be a man of true ring, nobility of nature and a thorough sincerity of head and heart—pray with me:
 
-“ Lead, Kindly Light,  
-amid the encircling gloom.”
+> **[verse_insert]**
+>
+> “ Lead, Kindly Light,  
+> amid the encircling gloom.”
 
 I do not care what they say. I love my God, my religion, my country, and above all, myself, a poor beggar. I love the poor, the ignorant, the downtrodden. I feel for them. The Lord knows how much. He will show me the way. I do not care a fig for human approbation or criticism. I think of most of them as ignorant, noisy children—they have not penetrated into the inner nature of sympathy, into the spirit which is all love.
 
@@ -1794,9 +1822,9 @@ May He help you and yours ever and ever !—With prayers and blessings, <span cl
 
 ### Letter 87: Raja Pyari Mohan Mukherjee
 
-### (87)
+#### (87)
 
-### *To Raja Pyari Mohan Mukherjee*
+#### *To Raja Pyari Mohan Mukherjee*
 
 <span class="small-caps">NEW YORK,</span>  
 *18th November, 1894.*
@@ -1819,9 +1847,9 @@ Do any deserve liberty who are not ready to give it to others? Let us calmly and
 
 ### Letter 88: Sj. Alasinga Perumal
 
-### (88)
+#### (88)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 <span class="small-caps">NEW YORK</span>,  
 *19th Nov., 1894.*
@@ -1848,7 +1876,7 @@ Take care ! Beware of everything that is untrue; stick to truth and we shall suc
 
 ### Letter 89: Vivekananda → Sj. Alasinga Perumal
 
-### (89) *To The Same*
+#### (89)<br />*To The Same*
 
 *30th Nov., 1894.*
 
@@ -1860,9 +1888,9 @@ Yours ever with blessings, <span class="small-caps">Vivekananda</span>.
 
 ### Letter 90: Kidi
 
-### (90)
+#### (90)
 
-### *To “ Kidi ”*
+#### *To “ Kidi ”*
 
 *30th Nov., 1894.*
 
@@ -1870,7 +1898,7 @@ Yours ever with blessings, <span class="small-caps">Vivekananda</span>.
 
 ### Letter 91
 
-### (91)
+#### (91)
 
 U. S. A.,  
 *30th November*, 1894.
@@ -1883,7 +1911,7 @@ But, my son, here are the drawbacks. Nothing shall be done in haste. Purity, pat
 
 ### Letter 92
 
-### (92)
+#### (92)
 
 U. S. A.,  
 *26th Dec., 1894.*
@@ -1896,9 +1924,9 @@ Missionary misrepresentations should be beneath your notice. . . . Perfect silen
 
 ### Letter 93: Lala Govinda Sahay
 
-### (93)
+#### (93)
 
-### *To Lala Govinda Sahay*
+#### *To Lala Govinda Sahay*
 
 C/o <span class="small-caps">G. W. Hale, Esq.</span>,  
 <span class="small-caps">Chicago</span>,  
@@ -1908,9 +1936,9 @@ C/o <span class="small-caps">G. W. Hale, Esq.</span>,
 
 ### Letter 94: Lala Govinda Sahay
 
-### (94)
+#### (94)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">U. S. A.</span>,  
 *1894.*
@@ -1919,9 +1947,9 @@ C/o <span class="small-caps">G. W. Hale, Esq.</span>,
 
 ### Letter 95: Swami Brahmananda
 
-### (95)
+#### (95)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 *1894.**
 
@@ -1953,7 +1981,7 @@ P.S. . . . The term Organisation means division of labour. Each does his own par
 
 ### Letter 96: Vivekananda → Swami Brahmananda
 
-### (96) *To Swami Brahmananda*
+#### (96)<br />*To Swami Brahmananda*
 
 C/o <span class="small-caps">George W. Hale</span>,*  
 541, <span class="small-caps">Dearborn Avenue</span>, <span class="small-caps">Chicago</span>,  
@@ -1985,9 +2013,9 @@ My heart’s love to all.—Ever yours in love,
 
 ### Letter 97: Swami Akhandananda
 
-### (97)
+#### (97)
 
-### *To Swami Akhandananda*
+#### *To Swami Akhandananda*
 
 *1894.**
 
@@ -2003,9 +2031,9 @@ Go from door to door amongst the poor and lower classes of the town of Khetri an
 
 ### Letter 98: Vivekananda → Sj. Alasinga Perumal
 
-### (98)
+#### (98)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 541, <span class="small-caps">Dearborn Avenue,</span>  
 <span class="small-caps">Chicago,</span>  
@@ -2023,9 +2051,9 @@ Let us pray, “Lead, Kindly Light”—a beam will come through the dark, and a
 
 ### Letter 99: Anâgarika Dharmapala
 
-### (99)
+#### (99)
 
-### *To Anâgarika Dharmapala*
+#### *To Anâgarika Dharmapala*
 
 U. S. A.,  
 1894.
@@ -2036,9 +2064,9 @@ U. S. A.,
 
 ### Letter 100: Sj. Alasinga Perumal
 
-### (100)
+#### (100)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 U. S. A.,  
 *1894.*
@@ -2069,9 +2097,9 @@ Do not send me any more newspapers, as I do not notice the missionary criticism 
 
 ### Letter 101: Maharaja of Khetri
 
-### (101)
+#### (101)
 
-### *To the Maharaja of Khetri*
+#### *To the Maharaja of Khetri*
 
 U. S. A.,  
 *1894.*
@@ -2092,7 +2120,7 @@ What a wonderful achievement was that World's Fair at Chicago! And that wonderfu
 
 ### Letter 102: Swami Abhedananda
 
-### (102) *To Swami Abhedananda*
+#### (102)<br />*To Swami Abhedananda*
 
 U. S. A.,*  
 *1894.*
@@ -2105,10 +2133,12 @@ The address you sent reached me long ago and the reply to it has also been despa
 
 Bear in mind—the eyes are two in number and so the ears, but the mouth is but one ! Indifference, indifference, indifference ! न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति—“ The doer of good deeds never comes to grief, my dear.” Ah ! To fear ! and whom are we going to fear, brother ? Here the missionaries and their ilk have howled themselves on to silence—and the whole world will but do likewise.
 
-निन्दन्तु नीतिनिपुणा यदि वा स्तुवन्तु  
-लक्ष्मीः समाविशतु गच्छतु वा यथेष्टम् ।  
-अद्यैव वा मरणमस्तु शतान्तरे वा  
-न्याय्यात्पथः प्रविचलन्ति पदं न धीराः ॥
+> **[verse_insert]**
+>
+> निन्दन्तु नीतिनिपुणा यदि वा स्तुवन्तु  
+> लक्ष्मीः समाविशतु गच्छतु वा यथेष्टम् ।  
+> अद्यैव वा मरणमस्तु शतान्तरे वा  
+> न्याय्यात्पथः प्रविचलन्ति पदं न धीराः ॥
 
 —“ Whether people skilled in policy praise or blame, whether the Goddess of Fortune favours or goes her way, whether death befalls to-day or after hundreds of years—persons of steady mind never swerve from the path of righteousness.”[^fn-p0199-1]
 
@@ -2116,7 +2146,7 @@ You need not even mix with the humdrum people, nor beg of them either. The Lord 
 
 ### Letter 103: Swami Shivananda
 
-### (103) *To Swami Shivananda*
+#### (103)<br />*To Swami Shivananda*
 
 U. S. A.,*  
 *1894.*
@@ -2137,9 +2167,9 @@ The chief cause of malaria lies in water. Why do you not construct two or three 
 
 ### Letter 104: Vivekananda → Mrs. Ole Bull
 
-### *(104)*
+#### *(104)*
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">Brooklyn</span>,  
 *28th Dec., 1894.*
@@ -2156,7 +2186,7 @@ With my love to Miss Farmer and all the holy family,—I am ever sincerely yours
 
 ### Letter 105
 
-### (105)
+#### (105)
 
 *1894.**
 
@@ -2168,7 +2198,7 @@ To return home ! Where is the home ! I do not care for liberation, or for devoti
 
 ### Letter 106: Vivekananda → Justice Sir S. Subrahmanya Iyer
 
-### (106) *To Justice Sir S. Subrahmanya Iyer*
+#### (106)<br />*To Justice Sir S. Subrahmanya Iyer*
 
 541, <span class="small-caps">DEARBORN AVENUE</span>,  
 <span class="small-caps">CHICAGO</span>,  
@@ -2192,7 +2222,7 @@ May the Lord bless you for ever and ever !—Yours ever gratefully, <span class=
 
 ### Letter 107: Sj. G. G. Narasimhachariar
 
-### (107) *To Sj. G. G. Narasimhachariar*
+#### (107)<br />*To Sj. G. G. Narasimhachariar*
 
 <span class="small-caps">Chicago</span>,  
 *11th Jan.*, 1895.
@@ -2217,7 +2247,7 @@ P. S. Tell Alasinga, Kidi, Doctor, Balaji and all the others not to pin their fa
 
 ### Letter 108: Sj. Alasinga Perumal
 
-### (108) *To Sj. Alasinga Perumal*
+#### (108)<br />*To Sj. Alasinga Perumal*
 
 <span class="small-caps">Chicago</span>,  
 *12th Jan., 1895.*
@@ -2232,9 +2262,9 @@ My name should not be made prominent; it is my ideas that I want to see realised
 
 ### Letter 109: Swami Trigunatitananda
 
-### (109)
+#### (109)
 
-### *To Swami Trigunatitananda*
+#### *To Swami Trigunatitananda*
 
 228 W. 39,*  
 <span class="small-caps">New York</span>,  
@@ -2250,9 +2280,9 @@ The Bhâgavatam has reached me—a very nice edition indeed, but people of this 
 
 ### Letter 110: Mrs. Ole Bull
 
-### (110)
+#### (110)
 
-### *To Mrs. Ole Bull,* on the occasion of the loss of her father
+#### *To Mrs. Ole Bull,*<br />on the occasion of the loss of her father
 
 <span class="small-caps">Brooklyn,</span>  
 *20th January, 1895.*
@@ -2269,9 +2299,9 @@ Each soul is a star, and all stars are set in that infinite azure, that eternal 
 
 ### Letter 111: Sj. Alasinga Perumal
 
-### (111)
+#### (111)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 U. S. A.,  
 *23rd Jan., 1895.*
@@ -2280,9 +2310,9 @@ U. S. A.,
 
 ### Letter 112: Vivekananda → Mrs. Ole Bull
 
-### (112)
+#### (112)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">New York</span>,  
 *24th Jan., 1895.*
@@ -2303,7 +2333,7 @@ I have worked my best. If there is any seed of truth in it, it will come to life
 
 ### Letter 113: Miss Mary Hale
 
-### (113) *To Miss Mary Hale*
+#### (113)<br />*To Miss Mary Hale*
 
 54, W. 33<span class="small-caps">RD</span> <span class="small-caps">STREET</span>, N. Y.,  
 *1st Feb., 1895.*
@@ -2326,9 +2356,9 @@ Lord bless you all ever and ever—and may He lead you quickly out of this big h
 
 ### Letter 114: Vivekananda → Sj. Vaikuntha Nath Sanyal
 
-### *(114)*
+#### *(114)*
 
-### *To Sj. Vaikuntha Nath Sanyal*
+#### *To Sj. Vaikuntha Nath Sanyal*
 
 <span class="small-caps">54, W. 33rd St., New York,</span>*  
 *9th February, 1895.*
@@ -2347,9 +2377,9 @@ Yours affectionately, <span class="small-caps">Vivekananda</span>.
 
 ### Letter 115: Vivekananda → Mrs. Ole Bull
 
-### (115)
+#### (115)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 54, W. 33<span class="small-caps">rd</span> <span class="small-caps">St</span>., <span class="small-caps">New York</span>,  
 *14th February, 1895.*
@@ -2378,9 +2408,9 @@ Again accept my eternal gratitude.—Your devoted son, <span class="small-caps">
 
 ### Letter 116: Sj. Alasinga Perumal
 
-### (116)
+#### (116)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 19, W. 38<span class="small-caps">th</span> <span class="small-caps">St</span>.,  
 <span class="small-caps">New York</span>,  
@@ -2390,7 +2420,7 @@ Again accept my eternal gratitude.—Your devoted son, <span class="small-caps">
 
 ### Letter 117: Vivekananda → Sj. Alasinga Perumal
 
-### (117) *To The Same*
+#### (117)<br />*To The Same*
 
 *6th March, 1895.*
 
@@ -2404,7 +2434,7 @@ Send some Kushâsanas if you can.—Yours ever with blessings, <span class="smal
 
 ### Letter 118: Mrs. Ole Bull
 
-### (118) *To Mrs. Ole Bull*
+#### (118)<br />*To Mrs. Ole Bull*
 
 54, W. 33<span class="small-caps">rd St., New York</span>,  
 *21st March, 1895.*
@@ -2425,9 +2455,9 @@ My *idea* and all my life with it—and to *God* for help; to none else! This is
 
 ### Letter 119: Si. Alasinga Perumal
 
-### (119)
+#### (119)
 
-### *To Si. Alasinga Perumal*
+#### *To Si. Alasinga Perumal*
 
 U. S. A.,  
 *4th April, 1895.*
@@ -2440,9 +2470,9 @@ Be cheerful. . . . Hold on to your own ideal. . . . Above all, never attempt to 
 
 ### Letter 120: Vivekananda → Mrs. Ole Bull
 
-### (120)
+#### (120)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 54, W. 33<span class="small-caps">RD</span> <span class="small-caps">ST</span>., <span class="small-caps">NEW YORK</span>,  
 *11th April, 1895.*
@@ -2465,9 +2495,9 @@ He will never leave me, I am sure, mother.—Your son,
 
 ### Letter 121: Swami Ramakrishnananda
 
-### (121)
+#### (121)
 
-### *To Swami Ramakrishnananda*
+#### *To Swami Ramakrishnananda*
 
 U. S. A.,*  
 *11th April*, 1895.
@@ -2478,7 +2508,7 @@ Take up everyone with sympathy, whether he believes in Sri Ramakrishna or not. I
 
 ### Letter 122: Mr. E. T. Sturdy
 
-### (122) *To Mr. E. T. Sturdy*
+#### (122)<br />*To Mr. E. T. Sturdy*
 
 54, W. 33<span class="small-caps">rd</span> <span class="small-caps">St.</span>, <span class="small-caps">New York</span>,  
 *24th April*, 1895.
@@ -2493,7 +2523,7 @@ Perfect sincerity, holiness, gigantic intellect, and an all-conquering will. Let
 
 ### Letter 123: Mr. E. T. Sturdy
 
-### (123) *To The Same*
+#### (123)<br />*To The Same*
 
 19, <span class="small-caps">W. 38th St.,</span>  
 <span class="small-caps">New York.</span>
@@ -2506,9 +2536,9 @@ Europe has always been the source of social and Asia, of spiritual power; and th
 
 ### Letter 124: Mrs. Ole Bull
 
-### (124)
+#### (124)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 54, <span class="small-caps">W.</span> 33<span class="small-caps">RD ST., NEW YORK</span>,  
 *25th April, 1895.*
@@ -2529,7 +2559,7 @@ Herewith I send the English gentleman’s letter. I have made a few notes on the
 
 ### Letter 125
 
-### (125)
+#### (125)
 
 U. S. A.,  
 *2nd May*, 1895.
@@ -2544,9 +2574,9 @@ Give up jealousy and conceit. Learn to work unitedly for others. This is the gre
 
 ### Letter 126: Sj. Alasinga Perumal
 
-### (126)
+#### (126)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 *6th May, 1895.*
 
@@ -2566,9 +2596,9 @@ P. S. Nobody will come to help you, if you put yourself forward as a leader. . .
 
 ### Letter 127: Vivekananda → Mrs. Ole Bull
 
-### (127)
+#### (127)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">54, W. 33rd St., New York,</span>  
 *7th May, 1895.*
@@ -2583,9 +2613,9 @@ Ever gratefully your son,
 
 ### Letter 128: Sj. Alasinga Perumal
 
-### (128)
+#### (128)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 <span class="small-caps">New York,</span>  
 *14th May, 1895.*
@@ -2598,7 +2628,7 @@ The Lord is merciful and although there are many who try to injure me any way th
 
 ### Letter 129: Swami Saradananda
 
-### (129) *To Swami Saradananda*
+#### (129)<br />*To Swami Saradananda*
 
 U. S. A.,  
 *20th May, 1895.*
@@ -2609,7 +2639,7 @@ I cannot understand why Sanyal is so miserable on account of his daughters’ ma
 
 ### Letter 130: Mrs. Ole Bull
 
-### (130) *To Mrs. Ole Bull*
+#### (130)<br />*To Mrs. Ole Bull*
 
 54, <span class="small-caps">W. 33RD ST., NEW YORK</span>,  
 *May, 1895.*
@@ -2622,9 +2652,9 @@ I am rather busy just now in writing a promised article for the Press Associatio
 
 ### Letter 131: Mrs. Ole Bull
 
-### (131)
+#### (131)
 
-### *To The Same*
+#### *To The Same*
 
 54, W. 33<span class="small-caps">RD</span> <span class="small-caps">ST.</span>, <span class="small-caps">NEW YORK</span>,  
 *May*, 1895.
@@ -2635,7 +2665,7 @@ P. S. . . . How easily this world can be deluded by humbugs! What a mass of frau
 
 ### Letter 132
 
-### (132)
+#### (132)
 
 P<span class="small-caps">ERCY</span>, N<span class="small-caps">EW</span> H<span class="small-caps">AMPSHIRE</span>,  
 *7th June*, 1895.
@@ -2646,7 +2676,7 @@ It gives me a new lease of life to be here. I go into the forest alone and read 
 
 ### Letter 133
 
-### *(133)*
+#### *(133)*
 
 54, W. 33<span class="small-caps">rd</span> <span class="small-caps">St., New York,</span>  
 *June, 1895.*
@@ -2659,9 +2689,9 @@ All is for good. All conjunctions are for subsequent disjunction. I hope I will 
 
 ### Letter 134: Vivekananda → Kidi
 
-### *(134)*
+#### *(134)*
 
-### *To “ Kidi ”*
+#### *To “ Kidi ”*
 
 19, W. 38<span class="small-caps">th St., New York,</span>  
 *22nd June, 1895.*
@@ -2676,23 +2706,23 @@ With my love ever and ever to you.—Yours sincerely,
 
 ### Letter 135: Swami Ramakrishnananda
 
-### (135)
+#### (135)
 
 (*Most probably*)
 
-### *To Swami Ramakrishnananda*
+#### *To Swami Ramakrishnananda*
 
 *1895.**
 
 <span class="small-caps">Dear</span>—,. . . I am quite in agreement with what Sarada is doing, but it is not necessary to preach that Ramakrishna Paramahamsa was an Incarnation, and things of that sort. He came to do good to the world, not to trumpet his own name—you must always remember this. Disciples pay their whole attention to the preservation of their master's name, and throw overboard his teachings, and sectarianism etc., are its result. Alasinga writes of Charu, but I do not recollect him. Write all about him and convey him my thanks. Write in detail about all, I have no time to spare for idle gossip. . . . Try to give up ceremonials. They are not meant for Sannyasins, and one must work only so long as he does not attain to illumination. . . . I have nothing to do with sectarianism, or party-forming and playing the frog-in-the-well, whatever else I may do. . . . It is impossible to preach the catholic ideas of Ramakrishna Paramahamsa and form sects at the same time. . . . Only one kind of work I understand, and that is doing good to others, all else is doing evil. I therefore prostrate myself before the Lord Buddha. . . . I am a Vedantist, Sachchidananda—Existence-Knowledge-Bliss-Absolute—is my God, I scarcely find any other God than the majestic form of my own Self. By the word “Incarnation” are meant those who have attained that Brahmanhood, in other words, the Jivanmuktas—those who have realised this Freedom in this very life. I do not find any speciality in Incarnations : all beings from Brahmâ down to a clump of grass will attain to liberation-in-life in course of time, and our duty lies in helping all to reach that state. This help is called religion—the rest is irreligion. This help is work, the rest is evil-doing—I see nothing else. Other kinds of work, for example, the Vaidika or the Tântrika, may produce results—but resorting to them is simply waste of life—for that purity which is the goal of work is realisable only through doing good to others. Through works such as sacrifices etc., one may get enjoyments, but it is impossible to have the purity of soul. . . Everything exists already in the Self of all beings. He who asserts he is free, shall be free. He who says he is bound, bound he shall remain. To me, the thought of oneself as low and humble is a sin and ignorance. नायमात्मा बलहीनेन लभ्यः—“ This Atman is not to be attained by one who is weak.” अस्ति ब्रह्म वदसि चेदस्ति भविष्यति नास्ति ब्रह्म वदसि चेन्नास्त्येव भविष्यति—“If you say Brahman *is*, existence will be the result, but if you say Brahman is *not*, non-existent It shall verily become.” He who always thinks of himself as weak will never become strong, but he who knows himself to be a lion, “rushes out from the world’s meshes, as a lion from its cage”— निर्गच्छति जगज्जालात् पिंजरादिव केशरी । Another point, it was no new truths that Ramakrishna Paramahamsa came to preach, though his advent brought the old truths to light. In other words, he was the embodiment of all the past religious thought of India. His life alone made me understand what the Shâstras really meant, and the whole plan and scope of the old Shastras.
 
-Missionaries and others could not do much against me in this country. Through the Lord’s grace the people here like me greatly and are not to be tricked by the opinions of any particular class. They appreciate my ideas in a manner my own countrymen cannot do, and are not selfish. I mean, when it comes to practical work, they will give up jealousy and all those ideas of self-sufficiency. Then all of them agree and act under the direction of a capable man. That is what makes them so great. But then they are a nation of Mammon-worshippers. Money comes before everything. People of our country are very liberal in pecuniary matters, but not so much these people. Every home has a miser. It is almost a religion here. But they fall into the clutches of the priests when they do something bad, and then buy their passage to heaven with money. These things are the same in every country—priestcraft. I can say nothing as to whether I shall go back to India and when. There also I shall have to lead a wandering life as I do here, but here thousands of people listen to and understand my lectures, and these thousands are benefited. But can you say the same thing about India? . . . I am perfectly at one with what Sarada is doing. A thousand thanks to him. . . . In Madras and Bombay I have lots of men who are after my heart. They are learned and understand everything. Moreover, they are kind-hearted and can therefore appreciate the philanthropic spirit. . . . I have printed neither books nor anything of the kind, I simply go on lecturing tours. . . . When I take a retrospective view of my past life, I feel no remorse. From country to country I have travelled teaching something, however little, to people, and in exchange for that have partaken of their slices of bread. If I had found I had done no work, but simply supported myself by imposing upon people, I would have committed suicide to-day. Why do those who think themselves unfit to teach their fellowbeings, wear the teacher’s garb and earn their bread by cheating them? Is not that a deadly sin? . . .—Yours etc., <span class="small-caps">Vivekananda.</span>
+Missionaries and others could not do much against me in this country. Through the Lord’s grace the people here like me greatly and are not to be tricked by the opinions of any particular class. They appreciate my ideas in a manner my own countrymen cannot do, and are not selfish. I mean, when it comes to practical work, they will give up jealousy and all those ideas of self-sufficiency. Then all of them agree and act under the direction of a capable man. That is what makes them so great. But then they are a nation of Mammon-worshippers. Money comes before everything. People of our country are very liberal in pecuniary matters, but not so much these people. Every home has a miser. It is almost a religion here. But they fall into the clutches of the priests when they do something bad, and then buy their passage to heaven with money. These things are the same in every country—priestcraft. I can say nothing as to whether I shall go back to India and when. There also I shall have to lead a wandering life as I do here, but here thousands of people listen to and understand my lectures, and these thousands are benefited. But can you say the same thing about India? . . . I am perfectly at one with what Sarada is doing. A thousand thanks to him. . . . In Madras and Bombay I have lots of men who are after my heart. They are learned and understand everything. Moreover, they are kind-hearted and can therefore appreciate the philanthropic spirit. . . . I have printed neither books nor anything of the kind, I simply go on lecturing tours. . . . When I take a retrospective view of my past life, I feel no remorse. From country to country I have travelled teaching something, however little, to people, and in exchange for that have partaken of their slices of bread. If I had found I had done no work, but simply supported myself by imposing upon people, I would have committed suicide to-day. Why do those who think themselves unfit to teach their fellow-beings, wear the teacher’s garb and earn their bread by cheating them? Is not that a deadly sin? . . .—Yours etc., <span class="small-caps">Vivekananda.</span>
 
 ### Letter 136: Sj. Alasinga Perumal
 
-### (136)
+#### (136)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 U. S. A.,  
 *1st July, 1895.*
@@ -2707,9 +2737,9 @@ The brave alone do great things, not the cowards. Know once for all, you faithle
 
 ### Letter 137: Maharaja of Khetri
 
-### (137)
+#### (137)
 
-### *To the Maharaja of Khetri*
+#### *To the Maharaja of Khetri*
 
 U. S. A.,  
 *9th July, 1895.*
@@ -2718,9 +2748,9 @@ U. S. A.,
 
 ### Letter 138: Mr. E. T. Sturdy
 
-### (138)
+#### (138)
 
-### *To Mr. E. T. Sturdy*
+#### *To Mr. E. T. Sturdy*
 
 19, W. 38<span class="small-caps">th</span> <span class="small-caps">St.</span>, <span class="small-caps">New York</span>,  
 *2nd August, 1895.*
@@ -2731,9 +2761,9 @@ May the *Sat* in you be always your infallible guide ! May He speedily attain to
 
 ### Letter 139: Mr. E. T. Sturdy
 
-### (139)
+#### (139)
 
-### *To The Same*
+#### *To The Same*
 
 <span class="small-caps">New York.</span>
 
@@ -2761,7 +2791,7 @@ The apparent difficulty vanishes as soon as you divide knowledge also into subco
 
 ### Letter 140: Swami Vivekananda → Swami Brahmananda
 
-### (140) *To Swami Brahmananda*
+#### (140)<br />*To Swami Brahmananda*
 
 <span class="small-caps">New York</span>,*  
 19, <span class="small-caps">West 38th Street</span>,  
@@ -2771,7 +2801,7 @@ The apparent difficulty vanishes as soon as you divide knowledge also into subco
 
 ### Letter 141: Swami Vivekananda → Mr. E. T. Sturdy
 
-### (141) *To Mr. E. T. Sturdy*
+#### (141)<br />*To Mr. E. T. Sturdy*
 
 <span class="small-caps">New York</span>,  
 19, <span class="small-caps">West 38th Street</span>,  
@@ -2803,9 +2833,9 @@ Let us work without desire for name or fame or rule over the others. Let us be f
 
 ### Letter 142: Swami Vivekananda → Mrs. Ole Bull
 
-### *(142)*
+#### *(142)*
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">Thousand Island Park</span>,  
 *August, 1895.*
@@ -2820,9 +2850,9 @@ The older I grow the more I see behind the idea of the Hindus that *man* is the 
 
 ### Letter 143: Swami Vivekananda → Sj. Alasinga Perumal
 
-### (143)
+#### (143)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 U. S. A.,  
 *August, 1895.*
@@ -2831,9 +2861,9 @@ By the time this reaches you, dear Alasinga, I shall be in Paris. . . . I have d
 
 ### Letter 144: Swami Vivekananda → Sj. Alasinga Perumal
 
-### (144)
+#### (144)
 
-### *To the Same*
+#### *To the Same*
 
 <span class="small-caps">Paris</span>,  
 *9th Sept., 1895.*
@@ -2850,7 +2880,7 @@ I am going to-morrow to London. . . . —Yours with blessings, <span class="smal
 
 ### Letter 145: Swami Vivekananda
 
-### (*145*)
+#### (*145*)
 
 *1895.**
 
@@ -2880,9 +2910,9 @@ P. S. Remember my previous letter—we want both men and women. There is no dist
 
 ### Letter 146: Swami Vivekananda → Swami Brahmananda
 
-### *(146)*
+#### *(146)*
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 *1895.**
 
@@ -2890,10 +2920,12 @@ P. S. Remember my previous letter—we want both men and women. There is no dist
 
 It isn’t much use getting up a sensation every day. But avail yourselves of this stir that is rife all over the country, and scatter yourselves in all quarters. In other words, try to start branches at different places. Let it not be an empty sound merely. You must join the Madrasees and start associations etc., at different places. What about the magazine which I heard was going to be started? Why are you nervous about conducting it? . . . . Come! Do something heroic. Brother, what if you do not attain Mukti, what if you suffer damnation a few times? Is the saying untrue:
 
-मनसि वचसि काये पुण्यपीयूषपूर्णा-  
-स्त्रिभुवनमुपकारश्रेणिभिः प्रीणयन्तः ।  
-परगुणपरमाणुं पर्वतीकृत्य नित्यं  
-निजहृदि विकसन्तः सन्ति सन्तः कियन्तः ॥
+> **[verse_insert]**
+>
+> मनसि वचसि काये पुण्यपीयूषपूर्णा-  
+> स्त्रिभुवनमुपकारश्रेणिभिः प्रीणयन्तः ।  
+> परगुणपरमाणुं पर्वतीकृत्य नित्यं  
+> निजहृदि विकसन्तः सन्ति सन्तः कियन्तः ॥
 
 —“There are some saints who, full of holiness in thought, word and deed, please the whole world by their numerous beneficent acts, and who develop their own hearts by magnifying an atom of virtue in others as if it were as great as a mountain.”
 
@@ -2921,9 +2953,9 @@ A dreadful slough is in front of you—take care; many fall into it and die. The
 
 ### Letter 147: Swami Vivekananda → Swami Akhandananda
 
-### (147)
+#### (147)
 
-### *To Swami Akhandananda*
+#### *To Swami Akhandananda*
 
 C/o <span class="small-caps">E. T. Sturdy, Esq.</span>,*  
 <span class="small-caps">High View, etc.</span>,  
@@ -2933,9 +2965,9 @@ C/o <span class="small-caps">E. T. Sturdy, Esq.</span>,*
 
 ### Letter 148: Swami Vivekananda → Mrs. Ole Bull
 
-### (148)
+#### (148)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">C/o E. T. Sturdy, Esq.,</span>  
 <span class="small-caps">High View, Caversham,</span>  
@@ -2946,9 +2978,9 @@ C/o <span class="small-caps">E. T. Sturdy, Esq.</span>,*
 
 ### Letter 149: Swami Vivekananda → Mrs. Ole Bull
 
-### (149)
+#### (149)
 
-### *To the Same*
+#### *To the Same*
 
 <span class="small-caps">Reading, England,</span>  
 *24th Sept., 1895.*
@@ -2957,7 +2989,7 @@ C/o <span class="small-caps">E. T. Sturdy, Esq.</span>,*
 
 ### Letter 150: Swami Vivekananda
 
-### *(150)*
+#### *(150)*
 
 <span class="small-caps">READING, ENGLAND</span>,  
 *4th Oct.*, 1895.
@@ -2966,9 +2998,9 @@ C/o <span class="small-caps">E. T. Sturdy, Esq.</span>,*
 
 ### Letter 151: Swami Vivekananda → Swami Brahmananda
 
-### *(151)*
+#### *(151)*
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 <span class="small-caps">C/O E. T. STURDY, ESQ.</span>,*  
 <span class="small-caps">HIGH VIEW, CAVERSHAM, READING</span>,  
@@ -2986,7 +3018,7 @@ I give you a bit of my mind; don’t be angry, pray. I am your slave so long as 
 
 ### Letter 152: Swami Vivekananda → Mrs. Ole Bull
 
-### (152) *To Mrs. Ole Bull*
+#### (152)<br />*To Mrs. Ole Bull*
 
 <span class="small-caps">Reading</span>,  
 *6th Oct.*, 1895.
@@ -2995,7 +3027,7 @@ I give you a bit of my mind; don’t be angry, pray. I am your slave so long as 
 
 ### Letter 153: Swami Vivekananda → Sj. Alasinga Perumal
 
-### (153) *To Sj. Alasinga Perumal*
+#### (153)<br />*To Sj. Alasinga Perumal*
 
 <span class="small-caps">London</span>,  
 *24th Oct.*, 1895.
@@ -3006,7 +3038,7 @@ Take courage and work on. Patience and steady work—this is the only way. Go on
 
 ### Letter 154: Swami Vivekananda → Mr. E. T. Sturdy
 
-### (154) *To Mr. E. T. Sturdy*
+#### (154)<br />*To Mr. E. T. Sturdy*
 
 80, <span class="small-caps">OAKLEY ST., CHELSEA</span>,  
 *31st October, 1895, 5 p.m.*
@@ -3025,9 +3057,9 @@ I would not do anything in this matter without seeing you first.—Yours with lo
 
 ### Letter 155: Swami Vivekananda → Swami Ramakrishnananda
 
-### *(155)*
+#### *(155)*
 
-### *To Swami Ramakrishnananda*
+#### *To Swami Ramakrishnananda*
 
 <span class="small-caps">C/o E. T. Sturdy, Esq.</span>.,*  
 <span class="small-caps">High View, Caversham,</span>  
@@ -3040,7 +3072,7 @@ Send the books to America, C/o Miss Mary Phillips, 19, W. 38th Street, New York,
 
 ### Letter 156: Swami Vivekananda → Swami Akhandananda
 
-### (156) *To Swami Akhandananda*
+#### (156)<br />*To Swami Akhandananda*
 
 <span class="small-caps">London</span>,*  
 *13th Nov., 1895.*
@@ -3057,9 +3089,9 @@ Teach against the marriage of boys. No scripture ever sanctions it. But for the 
 
 ### Letter 157: Swami Vivekananda → Sj. Alasinga Perumal
 
-### (157)
+#### (157)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 <span class="small-caps">LONDON</span>,  
 *18th Nov., 1895.*
@@ -3074,9 +3106,9 @@ I have no time even to die, as the Bengalees say. I work, work, work, and earn m
 
 ### Letter 158: Swami Vivekananda → Swami Brahmananda
 
-### (158)
+#### (158)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 <span class="small-caps">C/o E. T. Sturdy, Esq.,</span>*  
 <span class="small-caps">Reading, Caversham,</span>  
@@ -3089,7 +3121,7 @@ Black as chimney sweeps, and calling themselves Europeans! Why not wear one’s 
 
 ### Letter 159: Swami Vivekananda
 
-### *(159)*
+#### *(159)*
 
 <span class="small-caps">LONDON</span>,  
 *21st Nov., 1895.*
@@ -3098,7 +3130,7 @@ Black as chimney sweeps, and calling themselves Europeans! Why not wear one’s 
 
 ### Letter 160: Swami Vivekananda
 
-### *(160)*
+#### *(160)*
 
 228, <span class="small-caps">West</span> 39<span class="small-caps">th</span> <span class="small-caps">St.</span>, <span class="small-caps">New York</span>,  
 *8th Dec., 1895.*
@@ -3111,7 +3143,7 @@ My idea is for autonomic, independent groups in different places. Let them work 
 
 ### Letter 161: Swami Vivekananda
 
-### (161)
+#### (161)
 
 228, W. 39<span class="small-caps">th</span> <span class="small-caps">St.</span>, <span class="small-caps">New York</span>,  
 *10th Dec., 1895.*
@@ -3122,7 +3154,7 @@ This month notices are out for the four Sunday lectures. The lectures for the fi
 
 ### Letter 162: Swami Vivekananda → Mr. E. T. Sturdy
 
-### (162) *To Mr. E. T. Sturdy*
+#### (162)<br />*To Mr. E. T. Sturdy*
 
 228, W. 39<span class="small-caps">th</span> <span class="small-caps">St.</span>, <span class="small-caps">New York</span>,  
 *16th (?) Dec., 1895.*
@@ -3139,9 +3171,9 @@ Next month I go to Detroit, then to Boston, and Harvard University. Then I will 
 
 ### Letter 163: Swami Vivekananda → Sj. Alasinga Perumal
 
-### *(163)*
+#### *(163)*
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 228, W. 39<span class="small-caps">th</span> <span class="small-caps">St.</span>, <span class="small-caps">New York</span>,  
 *20th Dec., 1895.*
@@ -3156,9 +3188,9 @@ Next month I go to Detroit, then to Boston, and Harvard University. Then I will 
 
 ### Letter 164: Swami Vivekananda → Swami Saradananda
 
-### (164)
+#### (164)
 
-### *To Swami Saradananda*
+#### *To Swami Saradananda*
 
 228, W. 39<span class="small-caps">th</span> <span class="small-caps">St.</span>, <span class="small-caps">New York</span>,  
 *23rd Dec., 1895.*
@@ -3169,9 +3201,9 @@ Good-bye! I would not bother you any more, and all blessings go with you all. I 
 
 ### Letter 165: Swami Vivekananda → Miss S. Farmer
 
-### (165)
+#### (165)
 
-### *To Miss S. Farmer*
+#### *To Miss S. Farmer*
 
 <span class="small-caps">New York</span>,  
 *29th Dec.*, 1895.
@@ -3188,7 +3220,7 @@ Our Gita teaches that he who serves the servants of the Lord is His highest wors
 
 ### Letter 166: Swami Vivekananda
 
-### (166)
+#### (166)
 
 *1895.**
 
@@ -3211,9 +3243,9 @@ What about a certain magazine that Haramohan was trying to publish? If you can m
 
 ### Letter 167: Swami Vivekananda → Swami Brahmananda
 
-### (167)
+#### (167)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 *1895.**
 
@@ -3227,9 +3259,9 @@ P. S.—Sarada is talking of bringing out a Bengali magazine. Help it with all y
 
 ### Letter 168: Swami Vivekananda → Swami Ramakrishnananda
 
-### (168)
+#### (168)
 
-### *To Swami Ramakrishnananda*
+#### *To Swami Ramakrishnananda*
 
 U. S. A.,*  
 *1895.*
@@ -3284,13 +3316,15 @@ You will know everything by degrees. Was Sri Ramakrishna the Saviour of India me
 
 Why didn’t any of you write about Daksha and Harish? I shall be glad to know if you watch their whereabouts. That Sanyal is feeling miserable is because his mind is not yet pure like the water of the Ganges. It is not yet selfless, but will be in time. He will have no misery if he can give up the little crookedness and be straightforward. My special loving greetings to Rakhal and Hari. Take great care of them. . . . Never forget that Rakhal was the special object of Sri Ramakrishna’s love. Let nothing daunt you, who on earth has the power to snub us so long as the Lord favours us? Even if you are at your last breath, be not afraid. Work on with the intrepidity of a lion but at the same time with the tenderness of a flower. Let this year’s Sri Ramakrishna Festival be celebrated in great pomp. Let the feeding be quite ordinary—the Prasâda being distributed off-hand in earthen plates among the assembled. That will do. There should be readings from Sri Ramakrishna’s Life. Place books like the Vedas and the Vedanta together and perform Arati before them. . . . Avoid issuing invitation cards of the old style. आमन्त्रये भवन्तं साशीर्वादं भगवतो रामकृष्णस्य बहुमानपुरःसरञ्च—“With Bhagavan Sri Ramakrishna’s blessings and our great esteem we have the pleasure to invite you.” Write some such line, and then write that to defray the expenses of Sri Ramakrishna’s Birthday Festival and those of the maintenance of the Math, you want his assistance. That if he likes, he may kindly send the money to such and such, at such and such address, and so on. Also add a page in English. The term “ Lord Ramakrishna ” has no meaning. You must give it up. Write “ Bhagavan ” in English characters, and add a line or two in English:
 
-> The Anniversary of Bhagavan Sri Ramakrishna.
-
-> Sir, we have great pleasure in inviting you to join us in celebrating the —th anniversary of Bhagavan Ramakrishna Paramahamsa. For the celebration of this great occasion and for the maintenance of the Alambazar Math funds are absolutely necessary. If you think that the cause is worthy of your sympathy, we shall be very grateful to receive your contribution to the great work.
-
-Yours obediently,
-
-(Date) (Place) (Name)
+> **[enclosure: The Anniversary of Bhagavan Sri Ramakrishna]**
+>
+> > The Anniversary of Bhagavan Sri Ramakrishna.
+>
+> > Sir, we have great pleasure in inviting you to join us in celebrating the —th anniversary of Bhagavan Ramakrishna Paramahamsa. For the celebration of this great occasion and for the maintenance of the Alambazar Math funds are absolutely necessary. If you think that the cause is worthy of your sympathy, we shall be very grateful to receive your contribution to the great work.
+>
+> Yours obediently,
+>
+> (Date) (Place) (Name)
 
 If you get more than enough money, spend only a little of it and keep the surplus as a reserve fund to defray your expenses. On the plea of offering the food to the Lord, do not make everybody wait till he is sick, to have a stale and unsavoury dinner. Have two filters made and use that filtered water for both cooking and drinking purposes. Boil the water before filtering. If you do this, you will never more hear of malaria. Keep a strict eye on everybody’s health. If you can give up lying on the floor—in other words, if you can get the money to do it, it will be excellent indeed. Dirty clothes are the chief cause of diseases. . . . About the offering, let me tell you that only a little Pâyasânnam (milk-rice with sugar) will do. He used to love that alone. It is true that the worship-room is a help to many, but it is no use indulging in Râjasika and Tâmasika food. Let the ceremonials give place to a certain extent to a little study of the Gita or the Upanishads or other sacred books. What I mean is this—let there be as little materialism as possible, with the maximum of spirituality. . . . Did Sri Ramakrishna come for this or that particular individual, or for the world at large? If the latter, then you must present him in such a light that the whole world may understand him. *You must not identify yourself with any life of him written by anybody, nor give your sanction to any.* There is no danger so long as they do not come out associated with our name. . . . “Say yea, yea, to all and stick to your own.”
 
@@ -3313,9 +3347,9 @@ P. S. . . . Ask Sanyal to send me a copy each of the Narada and Shandilya Sutras
 
 ### Letter 169: Swami Vivekananda → Swami Brahmananda
 
-### (169)
+#### (169)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 *1895.**
 
@@ -3325,9 +3359,9 @@ Brother Tarak is eager for travel. Well, it is good, but these are very expensiv
 
 ### Letter 170: Swami Vivekananda → Sj. Alasinga Perumal
 
-### (170)
+#### (170)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 *1895.*
 
@@ -3343,9 +3377,9 @@ When I became a Sannyasin I consciously took the step, knowing that this body wo
 
 ### Letter 171: Swami Vivekananda → Swami Trigunatitananda
 
-### (171)
+#### (171)
 
-### *To Swami Trigunatitananda*
+#### *To Swami Trigunatitananda*
 
 *Jan.*, 1896.*
 
@@ -3355,9 +3389,9 @@ Gangadhar has done right heroic work! Well done! Kali has joined him in work—t
 
 ### Letter 172: Swami Vivekananda → Mr. E. T. Sturdy
 
-### *(172)*
+#### *(172)*
 
-### *To Mr. E. T. Sturdy*
+#### *To Mr. E. T. Sturdy*
 
 228, W. 39<span class="small-caps">th</span> <span class="small-caps">St.</span>, <span class="small-caps">New York</span>,  
 *16th Jan., 1896.*
@@ -3378,7 +3412,7 @@ The committee is entirely executive and it is confined to New York alone. . . .�
 
 ### Letter 173: Swami Vivekananda
 
-### *(173)*
+#### *(173)*
 
 *23rd January, 1896.*
 
@@ -3392,9 +3426,9 @@ P. S. Reply sharp your decision. I am very decided on this point. The *Brahmavad
 
 ### Letter 174: Swami Vivekananda → Swami Yogananda
 
-### (174)
+#### (174)
 
-### *To Swami Yogananda*
+#### *To Swami Yogananda*
 
 228, W. 39<span class="small-caps">TH</span> <span class="small-caps">ST.</span>,* N<span class="small-caps">EW</span> Y<span class="small-caps">ORK</span>,  
 *24th Jan., 1896.*
@@ -3409,9 +3443,9 @@ We would do nothing ourselves and would scoff at others who try to do something�
 
 ### Letter 175: Vivekananda → Mr. E. T. Sturdy
 
-### *(175)*
+#### *(175)*
 
-### *To Mr. E. T. Sturdy*
+#### *To Mr. E. T. Sturdy*
 
 228, W. 39<span class="small-caps">TH</span> S<span class="small-caps">T</span>., N<span class="small-caps">EW</span> Y<span class="small-caps">ORK</span>,  
 *13th Feb., 1896.*
@@ -3440,9 +3474,9 @@ Yours with blessings and love, <span class="small-caps">Vivekananda</span>.
 
 ### Letter 176: Sj. Alasinga Perumal
 
-### *(176)*
+#### *(176)*
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 *17th Feb., 1896.*
 
@@ -3454,9 +3488,9 @@ To put the Hindu ideas into English and then make out of dry Philosophy and intr
 
 ### Letter 177: Mr. E. T. Sturdy
 
-### (177)
+#### (177)
 
-### *To Mr. E. T. Sturdy*
+#### *To Mr. E. T. Sturdy*
 
 <span class="small-caps">New York</span> (?),  
 *17th March, 1896.*
@@ -3465,9 +3499,9 @@ To put the Hindu ideas into English and then make out of dry Philosophy and intr
 
 ### Letter 178: Vivekananda → Swami Trigunatitananda
 
-### (178)
+#### (178)
 
-### *To Swami Trigunatitananda*
+#### *To Swami Trigunatitananda*
 
 <span class="small-caps">Boston</span>,*  
 *22nd March, 1896.*
@@ -3478,9 +3512,9 @@ To put the Hindu ideas into English and then make out of dry Philosophy and intr
 
 ### Letter 179: Sj. Alasinga Perumal
 
-### (179)
+#### (179)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 <span class="small-caps">BOSTON</span>,  
 *23rd March, 1896.*
@@ -3493,9 +3527,9 @@ My success is due to my popular style—the greatness of a teacher consists in t
 
 ### Letter 180: Sj. Alasinga Perumal
 
-### *(180)*
+#### *(180)*
 
-### *To the Same*
+#### *To the Same*
 
 U. S. A.,  
 *March, 1896.*
@@ -3508,9 +3542,9 @@ Mind, so long you have faith in your Guru, nothing will be able to obstruct your
 
 ### Letter 181: Sj. Alasinga Perumal
 
-### (181)
+#### (181)
 
-### *To the Same*
+#### *To the Same*
 
 U. S. A.,  
 *1896.*
@@ -3523,9 +3557,9 @@ Before this reaches you I will be in England. So address me C/o E. T. Sturdy, Es
 
 ### Letter 182: Vivekananda → Mrs. Ole Bull
 
-### (182)
+#### (182)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">Indian Ave., Chicago, Ill.,</span>  
 *6th April, 1896.*
@@ -3540,7 +3574,7 @@ My love to all in Boston.—Yours with kind regards, <span class="small-caps">Vi
 
 ### Letter 183
 
-### (183)
+#### (183)
 
 <span class="small-caps">125, E. 44th Street, New York,</span>  
 *14th April, 1896.*
@@ -3551,9 +3585,9 @@ Now, if after testing his genuineness of spirit you feel satisfied, all he wants
 
 ### Letter 184: Dr. Nanjunda Rao, M.D.
 
-### (184)
+#### (184)
 
-### *To Dr. Nanjunda Rao, M.D.*
+#### *To Dr. Nanjunda Rao, M.D.*
 
 <span class="small-caps">New York</span>,  
 *14th April, 1896.*
@@ -3564,9 +3598,9 @@ Now, if after testing his genuineness of spirit you feel satisfied, all he wants
 
 ### Letter 185: Swami Trigunatitananda
 
-### (185)
+#### (185)
 
-### *To Swami Trigunatitananda*
+#### *To Swami Trigunatitananda*
 
 <span class="small-caps">New York</span>,*  
 *14th April, 1896.*
@@ -3577,7 +3611,7 @@ The term “ Friend ” can be used with all. In the English language you have n
 
 ### Letter 186
 
-### *(186)*
+#### *(186)*
 
 <span class="small-caps">HIGH VIEW, CAVERSHAM</span>,*  
 <span class="small-caps">READING</span>,  
@@ -3599,7 +3633,7 @@ deliver all letters *unopened* to their addressees. Books and pamphlets should b
 
 - 9. There will be a small room for smoking, which should not be indulged in outside this room.
 - 10. He who wants to indulge in invectives or show temper must do so outside the boundaries of the Math. This should not be deviated from even by an inch.
-### <span class="small-caps">The Governing Body</span>
+##### <span class="small-caps">The Governing Body</span>
 
 - 1. Every year a President should be elected by a majority of votes. The next year, another, and so on.
 - 2. For this year make Rakhal the President and likewise make another the Secretary, and elect a third man for superintending the worship etc., as well as the arrangement of food.
@@ -3609,7 +3643,7 @@ deliver all letters *unopened* to their addressees. Books and pamphlets should b
 - (*iii*) Give everyone two ochre cloaks of the type that you have made for Sarat, and see that clothing is kept clean.
 - 4. Anyone wishing to be a Sannyasin should be admitted as a Brahmacharin first. He should live one year at the Math and one year outside, after which he may be initiated into Sannyasa.
 - 5. Make over charge of the worship to one of these Brahmacharins, and change them now and then.
-### <span class="small-caps">Departments</span>
+##### <span class="small-caps">Departments</span>
 
 There shall be the following departments in the Math: I. *Study*. II. *Propaganda*. III. *Religious Practice*.
 
@@ -3623,7 +3657,7 @@ The preachers at home should give lessons on Devotion, Knowledge, Yoga and Work 
 
 None of you are fit for the Vâmâchâra form of practice. Therefore this should on no account be practised at the Math. Anyone demurring to this must step out of this Order. This form of practice must never even be mentioned in the Math. Ruin shall seize the wicked man, both here and hereafter, who would introduce vile Vâmâchâra into His fold!
 
-### <span class="small-caps">Some General Remarks</span>
+##### <span class="small-caps">Some General Remarks</span>
 
 - 1. If any woman comes to have a talk with a Sannyasin, she should do it in the Visitors’ Hall. No woman shall be allowed to enter any other room—except the Worship-room.
 - 2. No Sannyasin shall be allowed to reside in the Women’s Math. Anyone refusing to obey this rule shall be expelled from the Math. “Better an empty fold than a wicked herd.”
@@ -3631,7 +3665,7 @@ None of you are fit for the Vâmâchâra form of practice. Therefore this should
 - 4. Any woman can come to the class-room (or preaching hall) during class time or preaching hour, but must leave the place directly when that period is over.
 - 5. Never show temper or harbour jealousy, or backbite another in secret. It would be the height of cruelty and hard-heartedness to take note of others’ shortcomings instead of rectifying one’s own.
 - 6. There should be fixed hours for meals. Everyone must have a seat and a low dining table. He will sit on the former and put his plate on the latter, as is the custom in Rajputana.
-### <span class="small-caps">The Office-bearers</span>
+##### <span class="small-caps">The Office-bearers</span>
 
 All the office-bearers you should elect by ballot, as was the mandate of Lord Buddha. That is to say, one should propose that such and such should be the President this year; and all should write on bits of paper “ yes ” or “ no ” and put them in a pitcher. If the “ yeas ” have a majority, he should be elected President, and so on. Though you should elect office-bearers in this way, yet I suggest that this year Rakhal should be President, Tulsi Secretary and Treasurer, Gupta Librarian, and Sasi, Kali, Hari and Sarada should take charge of the teaching and preaching work by turns, and so on.
 
@@ -3649,7 +3683,7 @@ P. S. Please read the contents of this letter to all, and let me know whether yo
 
 ### Letter 187: Vivekananda
 
-### *(187)*
+#### *(187)*
 
 <span class="small-caps">63, St. George’s Road, London,</span>  
 *May, 1896.*
@@ -3660,9 +3694,9 @@ I am very well indeed and enjoying life immensely.—Yours ever with love, <span
 
 ### Letter 188: Miss Mary Hale
 
-### (188)
+#### (188)
 
-### *To Miss Mary Hale*
+#### *To Miss Mary Hale*
 
 63, <span class="small-caps">St. George’s Road</span>,  
 <span class="small-caps">London, S. W.</span>,  
@@ -3676,7 +3710,7 @@ Things are going on here slowly but steadily. I am to begin from next Sunday my 
 
 ### Letter 189: Miss Mary Hale
 
-### (189) *To the Same*
+#### (189)<br />*To the Same*
 
 63, <span class="small-caps">St. George’s Road,</span>  
 <span class="small-caps">London, S. W.,</span>  
@@ -3688,7 +3722,7 @@ Yesterday I went to a marriage *a la mode*. Miss Müller, a rich lady, a friend 
 
 ### Letter 190
 
-### (190)
+#### (190)
 
 63, <span class="small-caps">St. George’s Road</span>,  
 <span class="small-caps">London, S. W.</span>,  
@@ -3702,9 +3736,9 @@ P.S. Goodwin is writing to you this mail with reference to a magazine in America
 
 ### Letter 191: Vivekananda → Sister Nivedita
 
-### (191)
+#### (191)
 
-### *To Sister Nivedita*
+#### *To Sister Nivedita*
 
 63, <span class="small-caps">St. George's Road, London,</span>  
 *7th June*, 1896.
@@ -3723,9 +3757,9 @@ May all blessings attend you for ever !—Yours affectionately, <span class="sma
 
 ### Letter 192: Swami Ramakrishnananda
 
-### (192)
+#### (192)
 
-### *To Swami Ramakrishnananda*
+#### *To Swami Ramakrishnananda*
 
 <span class="small-caps">London</span>,  
 63, <span class="small-caps">St. George’s Road, S. W.</span>,  
@@ -3737,9 +3771,9 @@ Sarat starts for America to-morrow. The work here is coming to a head. We have a
 
 ### Letter 193: Swami Ramakrishnananda
 
-### (193)
+#### (193)
 
-### *To the same*
+#### *To the same*
 
 <span class="small-caps">High View, Caversham,</span>  
 <span class="small-caps">Reading,</span>  
@@ -3751,9 +3785,9 @@ Let there be no delay as in Sarat’s case, but let Abhedananda come at once. Sa
 
 ### Letter 194: Mr. Francis Leggett
 
-### (194)
+#### (194)
 
-### *To Mr. Francis Leggett*
+#### *To Mr. Francis Leggett*
 
 63, <span class="small-caps">St. George’s Road,</span>  
 <span class="small-caps">London, S. W.,</span>  
@@ -3775,7 +3809,7 @@ I have learnt a thing or two: Beyond, beyond reason and learning and talking is 
 
 ### Letter 195
 
-### *(195)*
+#### *(195)*
 
 63, <span class="small-caps">St. George’s Road</span>,  
 <span class="small-caps">London, S. W.</span>,  
@@ -3785,7 +3819,7 @@ I have learnt a thing or two: Beyond, beyond reason and learning and talking is 
 
 ### Letter 196: Dr. Nanjunda Rao, M.D.
 
-### *(196)* *To Dr. Nanjunda Rao, M.D.*
+#### *(196)*<br />*To Dr. Nanjunda Rao, M.D.*
 
 <span class="small-caps">England</span>,  
 *14th July, 1896.*
@@ -3800,7 +3834,7 @@ I am going to Switzerland next Sunday, and shall return to London in the autumn 
 
 ### Letter 197: VIVEKANANDA
 
-### (197)
+#### (197)
 
 <span class="small-caps">SANS-GRUND, SWITZERLAND,</span>  
 *25th July, 1896.*
@@ -3811,9 +3845,9 @@ My love to all friends.—Yours etc., <span class="small-caps">VIVEKANANDA.</spa
 
 ### Letter 198: Mr. E. T. Sturdy
 
-### (198)
+#### (198)
 
-### *To Mr. E. T. Sturdy*
+#### *To Mr. E. T. Sturdy*
 
 <span class="small-caps">GRAND HOTEL,  
 VALAI,  
@@ -3825,9 +3859,9 @@ By-the-bye, whatever scruples I may have had as to the Swiss-lake origin of the 
 
 ### Letter 199: Vivekananda → Sj. Lala Badri Sah
 
-### (199)
+#### (199)
 
-### *To Sj. Lala Badri Sah*
+#### *To Sj. Lala Badri Sah*
 
 <span class="small-caps">C/O E. T. STURDY, ESQ.,  
 HIGH VIEW, CAVERSHAM,</span>  
@@ -3843,9 +3877,9 @@ Hoping to get an early reply, I remain with blessings and love to you and all th
 
 ### Letter 200: Mr. E. T. Sturdy
 
-### (200)
+#### (200)
 
-### *To Mr. E. T. Sturdy*
+#### *To Mr. E. T. Sturdy*
 
 <span class="small-caps">Switzerland</span>,  
 *5th August, 1896.*
@@ -3858,9 +3892,9 @@ P. S. I hope you will consider well the plan for the big magazine. Some money ca
 
 ### Letter 201: Sj. Alasinga Perumal
 
-### (201)
+#### (201)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 <span class="small-caps">Switzerland</span>,  
 *6th August, 1896.*
@@ -3877,9 +3911,9 @@ My love to all. Work on, brave hearts, fail not—no saying nay; work on—the L
 
 ### Letter 202: Vivekananda → Sj. Alasinga Perumal
 
-### (202)
+#### (202)
 
-### *To the same*
+#### *To the same*
 
 <span class="small-caps">Switzerland</span>,  
 *8th August, 1896.*
@@ -3902,9 +3936,9 @@ It is all misery, this Samsâra, don’t you see !—Yours with blessings and lo
 
 ### Letter 203: Mr. J. J. Goodwin
 
-### (203)
+#### (203)
 
-### *To Mr. J. J. Goodwin*
+#### *To Mr. J. J. Goodwin*
 
 <span class="small-caps">Switzerland</span>,  
 *8th August, 1896.*
@@ -3933,9 +3967,9 @@ A few days ago, I felt a sudden irresistible desire to write to Kripananda. Perh
 
 ### Letter 204: Mr. E. T. Sturdy
 
-### (204)
+#### (204)
 
-### *To Mr. E. T. Sturdy*
+#### *To Mr. E. T. Sturdy*
 
 <span class="small-caps">Switzerland</span>,  
 *12th August, 1896.*
@@ -3946,7 +3980,7 @@ A few days ago, I felt a sudden irresistible desire to write to Kripananda. Perh
 
 ### Letter 205
 
-### (205)
+#### (205)
 
 <span class="small-caps">Lucerne, Switzerland</span>,  
 *23rd August, 1896.*
@@ -3961,7 +3995,7 @@ P.S. . . . It was an awful mistake in the Greenacre programme that it was printe
 
 ### Letter 206: Vivekananda
 
-### *(206)*
+#### *(206)*
 
 <span class="small-caps">Lake Lucerne, Switzerland,</span>*  
 *23rd August, 1896.*
@@ -3986,9 +4020,9 @@ My love to you and all.—Yours etc., <span class="small-caps">Vivekananda</span
 
 ### Letter 207: Dr. Nanjunda Rao, M.D.
 
-### (207)
+#### (207)
 
-### *To Dr. Nanjunda Rao, M.D.*
+#### *To Dr. Nanjunda Rao, M.D.*
 
 <span class="small-caps">Switzerland</span>,  
 *26th August, 1896.*
@@ -4009,9 +4043,9 @@ Go on bravely—never mind about designs and other details at present—“With 
 
 ### Letter 208: a Western disciple
 
-### *(208)*
+#### *(208)*
 
-### *To a Western disciple*
+#### *To a Western disciple*
 
 <span class="small-caps">Switzerland</span>,  
 *August, 1896.*
@@ -4028,9 +4062,9 @@ Here in America are no Ashramas. Would there was one ! How would I like it and w
 
 ### Letter 209: Mr. E. T. Sturdy
 
-### (209)
+#### (209)
 
-### *To Mr. E. T. Sturdy*
+#### *To Mr. E. T. Sturdy*
 
 <span class="small-caps">Kiel</span>,  
 *10th Sept., 1896.*
@@ -4041,9 +4075,9 @@ He is what I should call “a warring Advaitist.” No compromise with anything 
 
 ### Letter 210: Miss Harriet Hale
 
-### *(210)*
+#### *(210)*
 
-### *To Miss Harriet Hale*
+#### *To Miss Harriet Hale*
 
 <span class="small-caps">Airlie Lodge, Ridgeway Gardens,</span>  
 <span class="small-caps">Wimbledon, England,</span>  
@@ -4059,7 +4093,7 @@ All blessings attend you and your *fiancé*. . . . May you be like Uma, chaste a
 
 ### Letter 211
 
-### (211)
+#### (211)
 
 C/o E. T. <span class="small-caps">Sturdy</span>, <span class="small-caps">Esq.</span>,*  
 <span class="small-caps">High View</span>,  
@@ -4070,9 +4104,9 @@ C/o E. T. <span class="small-caps">Sturdy</span>, <span class="small-caps">Esq.<
 
 ### Letter 212: Sj. Alasinga Perumal
 
-### (212)
+#### (212)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 14, <span class="small-caps">Greycoat Gardens</span>,  
 <span class="small-caps">Westminster, London</span>,  
@@ -4094,9 +4128,9 @@ There was a book published in Mysore in Tamil characters, comprising all the one
 
 ### Letter 213: Vivekananda → Alasinga
 
-### (213)
+#### (213)
 
-### *To the Same*
+#### *To the Same*
 
 <span class="small-caps">C/o Miss Müller,  
 Airlie Lodge, Ridgeway Gardens,  
@@ -4115,7 +4149,7 @@ Yours,
 
 ### Letter 214
 
-### *(214)*
+#### *(214)*
 
 C/o <span class="small-caps">E. T. Sturdy, Esq.,</span>*  
 <span class="small-caps">High View, Caversham,</span>  
@@ -4126,9 +4160,9 @@ Can anything be done unless everybody exerts himself to his utmost? उद्य
 
 ### Letter 215: V. → Miss Josephine MacLeod
 
-### *(215)*
+#### *(215)*
 
-### *To Miss Josephine MacLeod*
+#### *To Miss Josephine MacLeod*
 
 C/o <span class="small-caps">Miss Müller,</span>  
 <span class="small-caps">Airlie Lodge, Ridgeway Gardens,</span>  
@@ -4165,9 +4199,9 @@ P. S. Mr. and Mrs. Sevier in whose house (flat) I am writing now send their kind
 
 ### Letter 216: VIVEKANANDA → Miss S. E. Waldo
 
-### (216)
+#### (216)
 
-### *To Miss S. E. Waldo*
+#### *To Miss S. E. Waldo*
 
 <span class="small-caps">AIRLIE LODGE,</span>  
 <span class="small-caps">RIDGEWAY GARDENS, WIMBLEDON,</span>  
@@ -4183,7 +4217,7 @@ I know very little of the young man R— . . . . You know my settled doctrine. I
 
 ### Letter 217
 
-### (217)
+#### (217)
 
 <span class="small-caps">WIMBLEDON,</span>  
 *8th Oct., 1896.*
@@ -4194,9 +4228,9 @@ Did you read Max Müller’s article on Ramakrishna ? . . . Things are working v
 
 ### Letter 218: Sj. Alasinga Perumal
 
-### (218)
+#### (218)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 <span class="small-caps">C/o E. T. Sturdy, Esq.,</span>  
 39, <span class="small-caps">Victoria Street, London,</span>  
@@ -4208,9 +4242,9 @@ Did you read Max Müller’s article on Ramakrishna ? . . . Things are working v
 
 ### Letter 219: VIVEKANANDA → Miss Mary Hale
 
-### **(219)**
+#### **(219)**
 
-### *To Miss Mary Hale*
+#### *To Miss Mary Hale*
 
 14, <span class="small-caps">Greycoat Gardens</span>,  
 <span class="small-caps">Westminster, London</span>,  
@@ -4254,9 +4288,9 @@ With love to you all.—Ever your faithful brother,
 
 ### Letter 220: Sj. Alasinga Perumal
 
-### (220)
+#### (220)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 <span class="small-caps">14, GREYCOAT GARDENS,</span>  
 <span class="small-caps">WESTMINSTER, S.W.,</span>  
@@ -4268,7 +4302,7 @@ The first edition of Raja-Yoga is sold out, and a second is in the press. India 
 
 ### Letter 221
 
-### *(221)*
+#### *(221)*
 
 <span class="small-caps">GREYCOAT GARDENS,</span>  
 <span class="small-caps">WESTMINSTER, S.W.,</span>  
@@ -4282,9 +4316,9 @@ You will be interested to know that the first edition of Raja-Yoga is sold out, 
 
 ### Letter 222: Vivekananda → Sj. Alasinga Perumal
 
-### (222)
+#### (222)
 
-### *To Sj. Alasinga Perumal*
+#### *To Sj. Alasinga Perumal*
 
 39, <span class="small-caps">Victoria Street,</span>  
 <span class="small-caps">London, S.W.,</span>  
@@ -4306,9 +4340,9 @@ Miss M. Noble of Wimbledon is a great worker. . . . —With all love and blessin
 
 ### Letter 223: Vivekananda → Sj. Lala Badri Sah
 
-### (223)
+#### (223)
 
-### *To Sj. Lala Badri Sah*
+#### *To Sj. Lala Badri Sah*
 
 39, <span class="small-caps">Victoria Street</span>,  
 <span class="small-caps">London</span>, S.W.,  
@@ -4324,9 +4358,9 @@ With love and blessings to you all,—Yours, <span class="small-caps">Vivekanand
 
 ### Letter 224: Miss Mary Hale / Harriet Hale
 
-### (224)
+#### (224)
 
-### *To Misses Mary and Harriet Hale*
+#### *To Misses Mary and Harriet Hale*
 
 39, <span class="small-caps">Victoria St.</span>,  
 <span class="small-caps">London</span>, S.W.,  
@@ -4344,9 +4378,9 @@ P.S. What about Dharmapal? What is he doing? Give him my love if you meet him.
 
 ### Letter 225: Vivekananda → Mrs. Ole Bull
 
-### (225)
+#### (225)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 39, <span class="small-caps">Victoria St., London,</span>  
 *9th Dec., 1896.*
@@ -4365,7 +4399,7 @@ With love and blessings,—<span class="small-caps">Vivekananda.</span>
 
 ### Letter 226: Indian Mirror, Calcutta
 
-### (226)
+#### (226)
 
 <span class="small-caps">London</span>,  
 *1896.*
@@ -4380,11 +4414,11 @@ India, its people and their thoughts, have been brought more prominently before 
 
 Moreover, he comes to us in the sacred name of religion, in the name of one of the great teachers of mankind, and I am sure, his exposition of the system of the Prophet of Nazareth would be extremely liberal and elevating. The Christ-power this man intends to bring to India, is not that of the intolerant, dominant Superior with heart full of contempt for everything else but its own self, but that of a brother who craves for a brother’s place as a co-worker of the various powers, already working in India. Above all, we must remember that gratitude and hospitality are the peculiar characteristics of Indian humanity, and as such, I would beg my countrymen to behave in such a manner, that this stranger from the other side of the globe, may find that in the midst of all our misery, our poverty and degradation, the heart beats as warm as of yore, when the “wealth of Ind” was the proverb of nations, and India was the land of the “ Aryas.”
 
-### Letter 227: VIVEKANANDA
+### Letter 227: VIVEKANANDA → an American lady
 
-### (227)
+#### (227)
 
-### *Written to an American lady*
+#### *Written to an American lady*
 
 <span class="small-caps">LONDON</span>,  
 *13th December, 1896.*
@@ -4409,9 +4443,9 @@ V<span class="small-caps">IVEKANANDA</span>.
 
 ### Letter 228: VIVEKANANDA → Miss Mary Hale
 
-### (228)
+#### (228)
 
-### *To Miss Mary Hale*
+#### *To Miss Mary Hale*
 
 <span class="small-caps">RAMNAD</span>,  
 *30th January, 1897.*
@@ -4426,9 +4460,9 @@ With all love to mother, father and you all,—I remain, Yours affectionately,
 
 ### Letter 229: Swami Brahmananda
 
-### (229)
+#### (229)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 <span class="small-caps">MADRAS</span>,  
 *12th February, 1897.*
@@ -4441,9 +4475,9 @@ The T—s and others wanted to intimidate me. Therefore I had to give them a bit
 
 ### Letter 230: Vivekananda → Mrs. Ole Bull
 
-### (230)
+#### (230)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">Alambazar Math, Calcutta,</span>  
 *25th Feb., 1897.*
@@ -4464,9 +4498,9 @@ With love to Saradananda and eternal love and gratitude to yourself,—Yours etc
 
 ### Letter 231: Vivekananda → Sj. Sarat Chandra Chakravarty
 
-### (231)
+#### (231)
 
-### *To Sj. Sarat Chandra Chakravarty*
+#### *To Sj. Sarat Chandra Chakravarty*
 
 <span class="small-caps">Translation from Sanskrit</span>
 
@@ -4483,11 +4517,11 @@ Ever your well-wisher,
 
 ### Letter 232: Vivekananda → Srimati Sarala Ghoshal, B.A., Editor, Bhârati
 
-### (232)
+#### (232)
 
 > ओं तत् सत्
 
-### *To Srimati Sarala Ghoshal, B.A., Editor, Bhârati.*
+#### *To Srimati Sarala Ghoshal, B.A., Editor, Bhârati.*
 
 <span class="small-caps">Rose Bank,</span>*  
 <span class="small-caps">The Maharaja of Burdwan's House,</span>  
@@ -4514,7 +4548,7 @@ Ever grateful and ever praying to the Lord for your welfare,—
 
 ### Letter 233: Srimati Sarala Ghoshal
 
-### (233) *To the Same*
+#### (233)<br />*To the Same*
 
 <span class="small-caps">Darjeeling,</span>*  
 C/o <span class="small-caps">M. N. Banerjee, Esq.,</span>  
@@ -4536,8 +4570,10 @@ Secondly, along with this, education has to be imparted. That is easy to say, bu
 
 In the West, women rule; all influence and power are theirs. If bold and talented women like yourself, versed in Vedanta, go to England to preach, I am sure that every year hundreds of men and women will become blessed by adopting the religion of the land of Bhârata. The only woman who went over from our country was Româbai; her knowledge of English, Western science and art was limited; still she surprised all. If anyone like you go, England will be stirred, what to speak of America ! If an Indian woman in Indian dress preach the religion which fell from the lips of the Rishis of India—I see a prophetic vision—there will rise a great wave which will inundate the whole Western world. Will there be no woman in the land of Maitreyi, Khanâ, Lilâvati, Sâvitri and Ubhayabhârati, who will venture to do this ? The Lord knows. England we shall conquer, England we shall possess through the power of spirituality. नान्यः पन्था विद्यतेऽयनाय— “There is no other way of salvation.” Can salvation ever come by getting up meetings and societies ? Our conquerors must be made Devas by the power of our spirituality. I am a humble mendicant, an itinerant monk; I am helpless and alone; what can I do ? You have the power of wealth, intellect and education; will you forgo this opportunity ? Conquest of England, Europe and America—this should be our one supreme Mantram at present, in it lies the well-being of the country. Expansion is the sign of life and we must spread over the world with our spiritual ideals. Alas ! this frame is poor, moreover, the physique of a Bengali; even under this labour a fatal disease has attacked it, but there is the hope—
 
-उत्पत्स्यतेऽस्ति मम कोऽपि समानधर्मा ।  
-कालो ह्ययं निरवधिर्विपुला च पृथ्वी ॥ (भवभूतिः)
+> **[verse_insert]**
+>
+> उत्पत्स्यतेऽस्ति मम कोऽपि समानधर्मा ।  
+> कालो ह्ययं निरवधिर्विपुला च पृथ्वी ॥ (भवभूतिः)
 
 —“A kindred spirit is or will be born out of the limitless time and populous earth to accomplish the work.”
 
@@ -4545,7 +4581,7 @@ About vegetarian diet I have to say this : first, my Master was a vegetarian; bu
 
 ### Letter 234: Vivekananda → Miss Mary Hale
 
-### (234) *To Miss Mary Hale*
+#### (234)<br />*To Miss Mary Hale*
 
 <span class="small-caps">DARJEELING</span>,  
 *28th April, 1897.*
@@ -4570,7 +4606,7 @@ With love to father and mother and you all.—Yours,
 
 ### Letter 235
 
-### (235)
+#### (235)
 
 <span class="small-caps">Alambazar Math, Calcutta,</span>  
 *5th May, 1897.*
@@ -4591,9 +4627,9 @@ I was one man in America and another here. Here the whole nation is looking upon
 
 ### Letter 236: Sister Nivedita
 
-### *(236)*
+#### *(236)*
 
-### *To Sister Nivedita*
+#### *To Sister Nivedita*
 
 <span class="small-caps">Alambazar Math, Calcutta,</span>  
 *5th May, 1897.*
@@ -4614,7 +4650,7 @@ It never was and never will be anything but very very welcome, any letters from 
 
 ### Letter 237: Vivekananda
 
-### (237)
+#### (237)
 
 <span class="small-caps">Almora,</span>  
 *20th May, 1897.*
@@ -4629,7 +4665,7 @@ Tender my love to all at the Math and give my greetings to the next meeting of t
 
 ### Letter 238: Dr. Sasi Bhushan Ghose
 
-### (238) *To Dr. Sasi Bhushan Ghose*
+#### (238)<br />*To Dr. Sasi Bhushan Ghose*
 
 <span class="small-caps">Almora</span>,  
 *29th May, 1897.*
@@ -4642,9 +4678,9 @@ I am very glad to learn of the success of the meetings of the Ramakrishna Missio
 
 ### Letter 239: Sj. Pramada Das Mitra
 
-### (239)
+#### (239)
 
-### *To Sj. Pramada Das Mitra*
+#### *To Sj. Pramada Das Mitra*
 
 <span class="small-caps">Almora</span>,*  
 *30th May, 1897.*
@@ -4667,7 +4703,7 @@ Another truth I have realised is that altruistic service only is religion, the r
 
 ### Letter 240
 
-### *(240)*
+#### *(240)*
 
 <span class="small-caps">Almora</span>,  
 *1st June, 1897.*
@@ -4684,11 +4720,11 @@ The Gita no doubt has already become the Bible of Hinduism, and it fully deserve
 
 ### Letter 241: Vivekananda → Swami Suddhananda
 
-### (241)
+#### (241)
 
 <span class="small-caps">Translation from Sanskrit</span>
 
-### *To Swami Suddhananda*
+#### *To Swami Suddhananda*
 
 <span class="small-caps">Almora</span>,  
 *1st June, 1897*.
@@ -4721,7 +4757,7 @@ With blessings and good wishes,—Yours,
 
 ### Letter 242
 
-### (242)
+#### (242)
 
 <span class="small-caps">Almora,</span>  
 *3rd June, 1897.*
@@ -4736,9 +4772,9 @@ I was born for the life of a scholar—retired, quiet, poring over my books. But
 
 ### Letter 243: V. → Swami Brahmananda
 
-### (243)
+#### (243)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 <span class="small-caps">Almora</span>,  
 *14th June, 1897.*
@@ -4760,9 +4796,9 @@ P. S.—Let Suddhananda preserve a copy of the weekly letters that he writes to 
 
 ### Letter 244: Swami Akhandananda
 
-### (244)
+#### (244)
 
-### *To Swami Akhandananda*
+#### *To Swami Akhandananda*
 
 <span class="small-caps">Almora</span>,*  
 *15th June, 1897.*
@@ -4773,9 +4809,9 @@ Let people see whether or not the touch of our Lord’s feet confers divinity on
 
 ### Letter 245: Sister Nivedita
 
-### (245)
+#### (245)
 
-### *To Sister Nivedita*
+#### *To Sister Nivedita*
 
 <span class="small-caps">Almora</span>,  
 *20th June*, *1897*.
@@ -4790,9 +4826,9 @@ It is true in one way that the people here have so little to give up—yet renun
 
 ### Letter 246: Swami Vivekananda → Swami Brahmananda
 
-### (246)
+#### (246)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 <span class="small-caps">Almora</span>,*  
 *20th June*, 1897.
@@ -4809,9 +4845,9 @@ Yours affectionately,
 
 ### Letter 247: Swami Vivekananda → Swami Akhandananda
 
-### (247)
+#### (247)
 
-### *To Swami Akhandananda*
+#### *To Swami Akhandananda*
 
 <span class="small-caps">Almora</span>,*  
 *30th June, 1897.*
@@ -4830,11 +4866,11 @@ Monday next, trip to Bareilly, then to Saharanpur, next to Umballa, thence, most
 
 ### Letter 248: Swami Vivekananda → Sj. Sarat Chandra Chakravarty
 
-### (248)
+#### (248)
 
 <span class="small-caps">Translation from Sanskrit</span>
 
-### *To Sj. Sarat Chandra Chakravarty*
+#### *To Sj. Sarat Chandra Chakravarty*
 
 <span class="small-caps">Almora,</span>  
 *3rd July, 1897.*
@@ -4851,9 +4887,9 @@ O Sharman, may thine for thy good be Vairagya, —the feeling of which is love, 
 
 ### Letter 249: Swami Vivekananda → Sister Nivedita
 
-### (249)
+#### (249)
 
-### *To Sister Nivedita*
+#### *To Sister Nivedita*
 
 <span class="small-caps">Almora</span>,  
 *4th July, 1897.*
@@ -4868,9 +4904,9 @@ In India, lectures and teaching cannot do any good. What we want is Dynamic Reli
 
 ### Letter 250: Swami Vivekananda → Miss Mary Hale
 
-### (250)
+#### (250)
 
-### *To Miss Mary Hale*
+#### *To Miss Mary Hale*
 
 <span class="small-caps">Almora</span>,  
 *9th July, 1897.*
@@ -4901,9 +4937,9 @@ Even these earthworms must stand erect, even children must see light. The Americ
 
 ### Letter 251: Swami Vivekananda → Swami Brahmananda
 
-### (251)
+#### (251)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 <span class="small-caps">ALMORA</span>,  
 *9th July, 1897.*
@@ -4922,7 +4958,7 @@ Please write to Sasi to open a work department like this for the service of the 
 
 ### Letter 252: Swami Vivekananda → Swami Suddhananda
 
-### (252) *To Swami Suddhananda*
+#### (252)<br />*To Swami Suddhananda*
 
 <span class="small-caps">Almora</span>,  
 *11th July, 1897.*
@@ -4955,9 +4991,9 @@ Lastly, you must remember I expect more from my children than from my brethren. 
 
 ### Letter 253: Swami Vivekananda → Sister Nivedita
 
-### *(253)*
+#### *(253)*
 
-### *To Sister Nivedita*
+#### *To Sister Nivedita*
 
 <span class="small-caps">Almora,</span>  
 *23rd July, 1897.*
@@ -4976,9 +5012,9 @@ I entirely agree with you that the work in England will look up when I am there.
 
 ### Letter 254: Swami Vivekananda → Swami Akhandananda
 
-### (254)
+#### (254)
 
-### *To Swami Akhandananda*
+#### *To Swami Akhandananda*
 
 <span class="small-caps">Almora</span>,*  
 *24th July, 1897.*
@@ -4989,9 +5025,9 @@ All strength is in you, have faith in it. It will not go unmanifested. Accept my
 
 ### Letter 255: Swami Vivekananda → Sister Nivedita
 
-### (255)
+#### (255)
 
-### *To Sister Nivedita*
+#### *To Sister Nivedita*
 
 <span class="small-caps">ALMORA</span>,  
 *29th July, 1897.*
@@ -5026,9 +5062,9 @@ With everlasting love,—Yours ever in the Lord,
 
 ### Letter 256: Swami Vivekananda → Mrs. Ole Bull
 
-### (256)
+#### (256)
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">The Math, Belur,</span>  
 *19th August, 1897.*
@@ -5045,9 +5081,9 @@ You ought to think that you are starting for the interior of Africa and if you m
 
 ### Letter 257: Swami Vivekananda → Srimati Indumati Mitra
 
-### (257)
+#### (257)
 
-### *To Srimati Indumati Mitra*
+#### *To Srimati Indumati Mitra*
 
 *1897.**
 
@@ -5057,9 +5093,9 @@ This Kashmir is a veritable heaven on earth. Nowhere else in the world is such a
 
 ### Letter 258: Swami Vivekananda → Swami Brahmananda
 
-### (258)
+#### (258)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 <span class="small-caps">SRINAGAR, KASHMIR</span>,  
 *30th September, 1897.*
@@ -5087,9 +5123,9 @@ Reply to Miss Noble according to these hints.—
 
 ### Letter 259: Swami Vivekananda → Sister Nivedita
 
-### (259)
+#### (259)
 
-### *To Sister Nivedita*
+#### *To Sister Nivedita*
 
 <span class="small-caps">Srinagar, Kashmir</span>,  
 *1st October, 1897.*
@@ -5102,9 +5138,9 @@ The great difficulty is this : I see persons giving me almost the whole of their
 
 ### Letter 260: Swami Vivekananda → Swami Brahmananda
 
-### (260)
+#### (260)
 
-### *To Swami Brahmananda*
+#### *To Swami Brahmananda*
 
 *10th October, 1897.**
 
@@ -5114,7 +5150,7 @@ The great difficulty is this : I see persons giving me almost the whole of their
 
 ### Letter 261: Swami Vivekananda
 
-### *(261)*
+#### *(261)*
 
 <span class="small-caps">Murree</span>,*  
 *10th October, 1897.*
@@ -5127,7 +5163,7 @@ Keep watch over your health.—Yours affectionately, <span class="small-caps">Vi
 
 ### Letter 262: Swami Vivekananda → Swami Akhandananda
 
-### *(262)* *To Swami Akhandananda*
+#### *(262)*<br />*To Swami Akhandananda*
 
 <span class="small-caps">Murree</span>,*  
 *10th October, 1897.*
@@ -5146,9 +5182,9 @@ Be mad over this, and strike others with this madness ! This life has no other e
 
 ### Letter 263: Swami Vivekananda → Master Mahashay
 
-### (263)
+#### (263)
 
-### *To “ Master Mahashay ”*
+#### *To “ Master Mahashay ”*
 
 <span class="small-caps">C/o Lala Hansraj,</span>  
 <span class="small-caps">Rawalpindi,</span>  
@@ -5162,9 +5198,9 @@ This is the time.—Yours in the Lord, <span class="small-caps">Vivekananda</spa
 
 ### Letter 264: Swami Vivekananda → Sister Nivedita
 
-### (264)
+#### (264)
 
-### *To Sister Nivedita*
+#### *To Sister Nivedita*
 
 <span class="small-caps">Jummoo,</span>  
 *3rd Nov.*, 1897.
@@ -5177,9 +5213,9 @@ With everlasting love,—Yours, <span class="small-caps">Vivekananda</span>.[^fn
 
 ### Letter 265: Swami Vivekananda → Srimati Indumati Mitra
 
-### (265)
+#### (265)
 
-### *To Srimati Indumati Mitra*
+#### *To Srimati Indumati Mitra*
 
 <span class="small-caps">Lahore</span>,*  
 *15th November, 1897.*
@@ -5194,9 +5230,9 @@ With blessings,—Yours sincerely, <span class="small-caps">Vivekananda</span>
 
 ### Letter 266: Swami Vivekananda → Srimati Indumati Mitra
 
-### (266)
+#### (266)
 
-### *To the Same*
+#### *To the Same*
 
 <span class="small-caps">Dehra Dun,</span>*  
 *24th November, 1897.*
@@ -5208,9 +5244,9 @@ With best love and blessings,—Yours sincerely,
 
 ### Letter 267: Swami Vivekananda → Master Mahashay
 
-### (267)
+#### (267)
 
-### *To Master Mahashay*
+#### *To Master Mahashay*
 
 <span class="small-caps">DEHRA DUN,</span>  
 *24th November, 1897.*
@@ -5223,9 +5259,9 @@ P. S. The Socratic dialogues are Plato all over; you are entirely hidden. Moreov
 
 ### Letter 268: Swami Vivekananda → Swami Shivananda
 
-### (268)
+#### (268)
 
-### *To Swami Shivananda*
+#### *To Swami Shivananda*
 
 <span class="small-caps">JEYPORE,</span>  
 *27th December, 1897.*
@@ -5236,9 +5272,9 @@ The work will not be very congenial at present, I am afraid, but it is really th
 
 ### Letter 269: Swami Vivekananda → Srimati Mrinalini Bose
 
-### (269)
+#### (269)
 
-### *To Srimati Mrinalini Bose*
+#### *To Srimati Mrinalini Bose*
 
 <span class="small-caps">Deoghar, Vaidyanath,</span>  
 *3rd January, 1898.*
@@ -5279,7 +5315,7 @@ It is very difficult to superimpose divinity on man, but one is sure to succeed 
 
 ### Letter 270: Swami Vivekananda
 
-### *(270)*
+#### *(270)*
 
 <span class="small-caps">ALMORA</span>,  
 *20th May, 1898.*
@@ -5290,9 +5326,9 @@ Be of good cheer. “Never a worker of good came to grief.” . . . —Ever your
 
 ### Letter 271: Swami Vivekananda → Mohammed Sarfaraz Husain
 
-### *(271)*
+#### *(271)*
 
-### *To Mohammed Sarfaraz Husain*
+#### *To Mohammed Sarfaraz Husain*
 
 <span class="small-caps">ALMORA</span>,  
 *10th June, 1898.*
@@ -5313,7 +5349,7 @@ Ever praying that the Lord may make of you a great instrument for the help of ma
 
 ### Letter 272: Swami Vivekananda
 
-### (272)
+#### (272)
 
 <span class="small-caps">KASHMIR</span>,  
 *25th Aug., 1898.*
@@ -5324,7 +5360,7 @@ Do not work yourself out. It is no use; always remember, “Duty is the midday s
 
 ### Letter 273: Swami Vivekananda
 
-### *(273)*
+#### *(273)*
 
 <span class="small-caps">The Math, Belur,</span>  
 *15th Dec., 1898.*
@@ -5333,9 +5369,9 @@ Do not work yourself out. It is no use; always remember, “Duty is the midday s
 
 ### Letter 274: Swami Vivekananda → Mrs. Ole Bull
 
-### *(274)*
+#### *(274)*
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">Baidyanath, Deoghar,</span>  
 *29th Dec., 1898.*
@@ -5350,7 +5386,7 @@ Hoping soon to join you in Europe or America.—I remain, ever your loving son, 
 
 ### Letter 275: Swami Vivekananda
 
-### (275)
+#### (275)
 
 <span class="small-caps">THE MATH, BELUR,</span>  
 *11th April, 1899.*
@@ -5359,20 +5395,22 @@ Hoping soon to join you in Europe or America.—I remain, ever your loving son, 
 
 ### Letter 276: Swami Vivekananda → Srimati Sarala Ghoshal
 
-### (276)
+#### (276)
 
-### *To Srimati Sarala Ghoshal, B.A.*
+#### *To Srimati Sarala Ghoshal, B.A.*
 
 <span class="small-caps">BELUR MATH</span>,*  
 *16th April, 1899.*
 
 <span class="small-caps">DEAR MADAM</span>—Very glad to receive your kind note. If by the sacrifice of some specially cherished object of either myself or my brother-disciples many pure and genuinely patriotic souls come forward to help our cause, rest assured, we will not hesitate in the least to make that sacrifice, nor shed a tear-drop—you will see this verified in action. But up till now I have seen nobody coming forward to assist in this way. Only some have wished to put their own hobby in place of ours—that is all. If it really help our country, or humanity—not to speak of giving up Guru-worship—believe me, we are prepared to commit any dire iniquity and suffer the eternal damnation of the Christians. But my hairs have turned grey since I began the study of man. This world is a most trying place, and it is long since I have taken to wandering with the lantern of the Grecian Philosopher in hand. A popular song my Master often used to sing comes to my mind:
 
-“ He who’s a man after one’s heart  
-Betrays himself by his very looks.  
-Rare indeed is such a one !  
-He’s a man of aesthetic perceptions  
-Who treads a path contrary to others.”
+> **[verse_insert]**
+>
+> “ He who’s a man after one’s heart  
+> Betrays himself by his very looks.  
+> Rare indeed is such a one !  
+> He’s a man of aesthetic perceptions  
+> Who treads a path contrary to others.”
 
 This much from my side. Please know that not one word of it is exaggerated—which you will find to be actually the case.
 
@@ -5380,9 +5418,9 @@ But then I have some doubts about those patriotic souls who can join with us if 
 
 ### Letter 277: Swami Vivekananda → Mr. E. T. Sturdy
 
-### (277)
+#### (277)
 
-### *To Mr. E. T. Sturdy*
+#### *To Mr. E. T. Sturdy*
 
 <span class="small-caps">Port Said,</span>  
 *14th July, 1899.*
@@ -5395,7 +5433,7 @@ I think you are absolutely wanted to gather up, as it were, the American work. I
 
 ### Letter 278: Swami Vivekananda
 
-### (278)
+#### (278)
 
 <span class="small-caps">RIDGELY</span>,  
 *2nd September*, 1899.
@@ -5404,9 +5442,9 @@ I think you are absolutely wanted to gather up, as it were, the American work. I
 
 ### Letter 279: Swami Vivekananda → Mr. E. T. Sturdy
 
-### (279)
+#### (279)
 
-### *To Mr. E. T. Sturdy*
+#### *To Mr. E. T. Sturdy*
 
 <span class="small-caps">RIDGELY MANOR</span>,  
 *14th Sept.*, 1899.
@@ -5437,7 +5475,7 @@ I remain as ever with love and blessings,—
 
 ### Letter 280: Swami Vivekananda
 
-### (280)
+#### (280)
 
 <span class="small-caps">Ridgely,</span>  
 *September, 1899.*
@@ -5446,7 +5484,7 @@ I remain as ever with love and blessings,—
 
 ### Letter 281: Swami Vivekananda
 
-### (281)
+#### (281)
 
 <span class="small-caps">Ridgely,</span>  
 *1st November, 1899.*
@@ -5455,7 +5493,7 @@ I remain as ever with love and blessings,—
 
 ### Letter 282: Swami Vivekananda
 
-### *(282)*
+#### *(282)*
 
 <span class="small-caps">New York</span>,  
 *15th November*, 1899.
@@ -5464,7 +5502,7 @@ I remain as ever with love and blessings,—
 
 ### Letter 283: Swami Vivekananda → Sister Nivedita
 
-### *(283)* *To Sister Nivedita*
+#### *(283)*<br />*To Sister Nivedita*
 
 <span class="small-caps">Los Angeles</span>,  
 *6th December*, 1899.
@@ -5477,7 +5515,7 @@ Come ye that are heavily laden and lay all your burden on me and then do whateve
 
 ### Letter 284: Swami Vivekananda → Mrs. Ole Bull
 
-### *(284)* *To Mrs. Ole Bull*
+#### *(284)*<br />*To Mrs. Ole Bull*
 
 *12th December, 1899.*
 
@@ -5495,7 +5533,7 @@ Love to Christine and Turiyananda.—<span class="small-caps">Vivekananda.</span
 
 ### Letter 285: Swami Vivekananda → Sister Nivedita
 
-### (285) *To Sister Nivedita*
+#### (285)<br />*To Sister Nivedita*
 
 <span class="small-caps">Los Angeles,</span>  
 421, 21<span class="small-caps">st.</span> <span class="small-caps">Street,</span>  
@@ -5511,7 +5549,7 @@ See, how England is working up. After this blood-letting people will then have t
 
 ### Letter 286: Swami Vivekananda
 
-### (286)
+#### (286)
 
 <span class="small-caps">Los Angeles, California,</span>  
 *24th January, 1900*
@@ -5520,9 +5558,9 @@ See, how England is working up. After this blood-letting people will then have t
 
 ### Letter 287: Swami Vivekananda → Sister Nivedita
 
-### (287)
+#### (287)
 
-### *To Sister Nivedita*
+#### *To Sister Nivedita*
 
 <span class="small-caps">C/o Miss Mead,</span>  
 447, <span class="small-caps">Douglas Building,</span>  
@@ -5553,7 +5591,7 @@ You are learning your lessons—that is all I want. So am I; the moment we are f
 
 ### Letter 288: Swami Vivekananda → Swami Akhandananda
 
-### (288) *To Swami Akhandananda*
+#### (288)<br />*To Swami Akhandananda*
 
 <span class="small-caps">California,</span>*  
 *21st February, 1900.*
@@ -5574,9 +5612,9 @@ Victory to the Guru ! Victory to the Mother of the Universe ! What fear ! Opport
 
 ### Letter 289: Swami Vivekananda → Mrs. Ole Bull
 
-### *(291)*
+#### *(291)*
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">San Francisco</span>,  
 *4th March, 1900.*
@@ -5589,7 +5627,7 @@ Oh, to become fearless, to be daring, to be careless of everything ! . . .—You
 
 ### Letter 290: Swami Vivekananda
 
-### (290)
+#### (290)
 
 <span class="small-caps">SAN FRANCISCO</span>,  
 *25th March, 1900.*
@@ -5604,7 +5642,7 @@ My dreams are breaking, Om Tat Sat !—Yours, <span class="small-caps">VIVEKANAN
 
 ### Letter 291: Swami Vivekananda → Sister Nivedita
 
-### (291) *To Sister Nivedita*
+#### (291)<br />*To Sister Nivedita*
 
 1779, <span class="small-caps">TURK STREET</span>,  
 <span class="small-caps">SAN FRANCISCO</span>,  
@@ -5630,18 +5668,18 @@ Things have got to come round—the seed must die underground to come up as the 
 
 ### Letter 292: Swami Vivekananda
 
-### (292)
+#### (292)
 
 <span class="small-caps">Chicago</span>,  
 *6th April, 1900.*
 
 <span class="small-caps">Dear</span>—, . . . The mind is omnipresent and can be heard and felt anywhere. . . . —Yours etc., <span class="small-caps">Vivekananda</span>.
 
-### Letter 293: Swami Vivekananda
+### Letter 293: Swami Vivekananda → an American friend
 
-### (293)
+#### (293)
 
-### *To an American friend*
+#### *To an American friend*
 
 <span class="small-caps">San Francisco</span>,  
 *7th April, 1900.*
@@ -5652,11 +5690,11 @@ You see, I shall have to stay here longer than I intended, and work. But don’t
 
 My boat is nearing the calm harbour from which it is never more to be driven out. Glory, glory unto Mother ! I have no wish, no ambition now. Blessed be Mother ! I am the servant of Ramakrishna. I am merely a machine. I know nothing else. Nor do I want to know. Glory, glory unto Sri Guru !
 
-### Letter 294: Swami Vivekananda
+### Letter 294: Swami Vivekananda → an American friend
 
-### (294)
+#### (294)
 
-### *To an American friend*
+#### *To an American friend*
 
 <span class="small-caps">Alameda, California</span>,  
 *12th April, 1900.*
@@ -5673,9 +5711,9 @@ I am free. I am Mother’s child. She works, She plays. Why should I plan ? What
 
 ### Letter 295: Swami Vivekananda → Miss Josephine MacLeod
 
-### (295)
+#### (295)
 
-### *To Miss Josephine MacLeod*
+#### *To Miss Josephine MacLeod*
 
 <span class="small-caps">Alameda, California,</span>  
 *18th April, 1900.*
@@ -5718,7 +5756,7 @@ With love as ever to you and Mrs. Bull, —Yours faithfully, <span class="small-
 
 ### Letter 296: Swami Vivekananda → Sister Nivedita
 
-### (296)
+#### (296)
 
 <span class="small-caps">San Francisco</span>,  
 *24th May, 1900.*
@@ -5755,7 +5793,7 @@ This is the period of his love to Gopis. He was fifteen years of age.
 
 ### Letter 297: Swami Vivekananda → Sister Nivedita
 
-### (297) *To Sister Nivedita*
+#### (297)<br />*To Sister Nivedita*
 
 <span class="small-caps">San Francisco</span>,  
 *26th May, 1900.*
@@ -5766,7 +5804,7 @@ Black and thick are the folds of sinister fate. But I am the Master. I raise my 
 
 ### Letter 298: Swami Vivekananda
 
-### (298)
+#### (298)
 
 <span class="small-caps">New York</span>,  
 *20th June, 1900.*
@@ -5775,7 +5813,7 @@ Black and thick are the folds of sinister fate. But I am the Master. I raise my 
 
 ### Letter 299: Swami Vivekananda
 
-### (299)
+#### (299)
 
 <span class="small-caps">New York</span>,  
 *2nd July, 1900.*
@@ -5784,9 +5822,9 @@ Black and thick are the folds of sinister fate. But I am the Master. I raise my 
 
 ### Letter 300: Swami Vivekananda → Sister Christine
 
-### *(300)*
+#### *(300)*
 
-### *To Sister Christine*
+#### *To Sister Christine*
 
 <span class="small-caps">Paris,</span>  
 *17th August, 1900.*
@@ -5810,9 +5848,9 @@ Fell death the sweet release.
 
 ### Letter 301: Swami Vivekananda → Sister Nivedita
 
-### *(301)*
+#### *(301)*
 
-### *To Sister Nivedita*
+#### *To Sister Nivedita*
 
 6, <span class="small-caps">Place des Etats Unis,</span>  
 <span class="small-caps">Paris,</span>  
@@ -5844,7 +5882,7 @@ With all love and blessings,—Yours truly,
 
 ### Letter 302: Swami Vivekananda
 
-### *(302)*
+#### *(302)*
 
 <span class="small-caps">PARIS</span>,  
 *28th August, 1900.*
@@ -5865,9 +5903,9 @@ We play our parts here—good or bad. When the dream is finished, and we have le
 
 ### Letter 303: Swami Vivekananda → Swami Turiyananda
 
-### (303)
+#### (303)
 
-### *To Swami Turiyananda*
+#### *To Swami Turiyananda*
 
 <span class="small-caps">Da Forest P. O.</span>,*  
 <span class="small-caps">Santa Clara Co.</span>,  
@@ -5895,9 +5933,9 @@ Please convey my love to Miss Boocke, Miss Bell, Mrs. Aspinel, Miss Beckham, Mr.
 
 ### Letter 304: Swami Vivekananda → Swami Turiyananda
 
-### (304)
+#### (304)
 
-### *To the Same*
+#### *To the Same*
 
 6, <span class="small-caps">Place des Etats Unis.</span>*
 
@@ -5913,7 +5951,7 @@ My love to you. But I have nothing more to advise as regards work.—Yours in se
 
 ### Letter 305: Swami Vivekananda → Miss Alberta Sturgis
 
-### (305) *To Miss Alberta Sturgis*
+#### (305)<br />*To Miss Alberta Sturgis*
 
 <span class="small-caps">Perros Guirce,  
 Bretagne,</span>  
@@ -5939,9 +5977,9 @@ Ever yours with love and blessings,
 
 ### Letter 306: Swami Vivekananda → Miss Josephine MacLeod
 
-### (306)
+#### (306)
 
-### *To Miss Josephine MacLeod*
+#### *To Miss Josephine MacLeod*
 
 <span class="small-caps">THE MATH, BELUR</span>,  
 *11th Dec., 1900.*
@@ -5954,7 +5992,7 @@ I am well, things are well here—every way. Excuse this haste. I will write lon
 
 ### Letter 307: Swami Vivekananda
 
-### (307)
+#### (307)
 
 <span class="small-caps">THE MATH, BELUR, HOWRAH</span>,  
 *19th Dec., 1900.*
@@ -5963,9 +6001,9 @@ I am well, things are well here—every way. Excuse this haste. I will write lon
 
 ### Letter 308: Swami Vivekananda → Srimati Mrinalini Basu
 
-### (308)
+#### (308)
 
-### *To Srimati Mrinalini Basu*
+#### *To Srimati Mrinalini Basu*
 
 <span class="small-caps">DEOGHAR, VAIDYANATH</span>,*  
 C/o <span class="small-caps">BABU PRIYANATH MUKHERJI</span>,  
@@ -6000,9 +6038,9 @@ Mother, be not anxious. It is against the big tree that the great wind strikes. 
 
 ### Letter 309: Swami Vivekananda → Miss Josephine MacLeod
 
-### (310)
+#### (310)
 
-### *To Miss Josephine MacLeod*
+#### *To Miss Josephine MacLeod*
 
 <span class="small-caps">THE MATH, BELUR, HOWRAH,</span>  
 *26th Dec., 1900.*
@@ -6038,9 +6076,9 @@ All love to M—, Mrs. C—, to dear Jules Bois, and to you, dear Joe, Pranams.�
 
 ### Letter 310: Swami Vivekananda → Mr. E. T. Sturdy
 
-### (311)
+#### (311)
 
-### *To Mr. E. T. Sturdy*
+#### *To Mr. E. T. Sturdy*
 
 <span class="small-caps">AT MAYAVATI,</span>  
 <span class="small-caps">HIMALAYAS,</span>  
@@ -6064,7 +6102,7 @@ And I am ever yours in the Truth,—<span class="small-caps">Vivekananda</span>.
 
 ### Letter 311: Swami Vivekananda
 
-### *(312)*
+#### *(312)*
 
 <span class="small-caps">The Math</span>,  
 *15th May, 1901.*
@@ -6075,7 +6113,7 @@ If some real good comes out of a visit to H. H. of—— I am ready to come over
 
 ### Letter 312: Swami Vivekananda
 
-### *(313)*
+#### *(313)*
 
 <span class="small-caps">The Math, Belur</span>,  
 *6th July, 1901.*
@@ -6084,7 +6122,7 @@ Things come to me by fits––to-day I am in a fit of writing. The first thing 
 
 ### Letter 313: Swami Vivekananda
 
-### (314)
+#### (314)
 
 <span class="small-caps">The Math, Belur,</span>  
 *7th Sept., 1901.*
@@ -6097,7 +6135,7 @@ One of the geese had her plumes falling off. Knowing no other method I left her 
 
 ### Letter 314: Swami Vivekananda
 
-### (315)
+#### (315)
 
 <span class="small-caps">Belur,</span>  
 *8th October, 1901.*
@@ -6106,9 +6144,9 @@ One of the geese had her plumes falling off. Knowing no other method I left her 
 
 ### Letter 315: Swami Vivekananda → Swami Swarupananda
 
-### (316)
+#### (316)
 
-### *To Swami Swarupananda*
+#### *To Swami Swarupananda*
 
 <span class="small-caps">GOPAL LAL VILLA</span>,  
 <span class="small-caps">BENARES CANTONMENT</span>,  
@@ -6138,9 +6176,9 @@ A total revolution has occurred in my mind about the relation of Buddhism and Ne
 
 ### Letter 316: Swami Vivekananda → Sister Nivedita
 
-### *(317)*
+#### *(317)*
 
-### *To Sister Nivedita*
+#### *To Sister Nivedita*
 
 <span class="small-caps">Benares</span>,  
 *12th February, 1902.*
@@ -6151,9 +6189,9 @@ If there was any truth in Sri Ramakrishna, may He take you into His leading, eve
 
 ### Letter 317: Swami Vivekananda → Mrs. Ole Bull
 
-### *(318)*
+#### *(318)*
 
-### *To Mrs. Ole Bull*
+#### *To Mrs. Ole Bull*
 
 <span class="small-caps">The Math, Belur</span>,  
 *14th June, 1902.*
@@ -6938,10 +6976,6 @@ Faith, 66, 70, 71, 72, 157, 166, 258, 259, 267, 272, 273, 292, 296
 
 —in God, 6, 68, 83, 177, 210, 213-214, 232, 337
 
-Fakir, *see* Jajneshwar Bhattacharya
-
-Farmer, Miss S., 189, 208, 209. 226, 276
-
 Fate, 443, 452
 
 Fear, 132-133, 168, 178, 184, 205, 209, 247, 267, 280. 292, 328, 363, 382, 406, 444, 452
@@ -6995,6 +7029,10 @@ Geysic, Max, 445
 —only by renouncing, 384
 
 —of soul, 203
+
+Fakir, *see* Jajneshwar Bhattacharya
+
+Farmer, Miss S., 189, 208, 209. 226, 276
 
 G. G., *see* G. G. Narasimhachariar
 
@@ -8390,53 +8428,53 @@ The Letter on page 465 should be numbered 309 *instead of 310*, and so on for th
 
 ## Some Advaita Ashrama Publications
 
-### <span class="small-caps">Life of Sri Ramakrishna</span>
+##### <span class="small-caps">Life of Sri Ramakrishna</span>
 
 A collection of 930 sayings. Pocket size, pp. 400. Price Prophet which the nineteenth century has produced, the only authorised edition of its kind in English. With a Foreword by Mahatma Gandhi. Demy 617 pages. Rs. 8.
 
-### <span class="small-caps">Teachings of Sri Ramakrishna</span>
+##### <span class="small-caps">Teachings of Sri Ramakrishna</span>
 
 A collection of 930 sayings. Pocket size, pp. 400. Price Rs. 5.
 
-### <span class="small-caps">Teachings of Swami Vivekananda</span>
+##### <span class="small-caps">Teachings of Swami Vivekananda</span>
 
 A choice collection of the Swami's utterances culled from his numerous speeches and writings, and arranged under suitable sections. It is a treasure-house of thoughts of power to inspire and guide. Price Rs. 3-8.
 
-### *Books by Swami Vivekananda*
+#### *Books by Swami Vivekananda*
 
-### <span class="small-caps">Jnana-Yoga</span>
+##### <span class="small-caps">Jnana-Yoga</span>
 
 In this has been set forth the method of realizing the Self or the Divinity in man with the help of philosophy and discrimination. Price Rs. 3.
 
-### <span class="small-caps">Raja-Yoga</span>
+##### <span class="small-caps">Raja-Yoga</span>
 
 This book deals with the method of realizing the Self, the Soul or the Divinity in man by Pranayama (breathing exercises), concentration and meditation. Contains also Patanjali's Yoga-Aphorisms. Price Rs. 2-12.
 
-### <span class="small-caps">Karma-Yoga</span>
+##### <span class="small-caps">Karma-Yoga</span>
 
 Karma-Yoga contains eight lectures on the practical application of the teachings of Vedanta to the affairs of daily life, showing how it is possible to lead the highest life and ultimately realize the Self without abandoning the duties and avocations of one's life in the world. Price Re. 1-4.
 
-### <span class="small-caps">Bhakti-Yoga</span>
+##### <span class="small-caps">Bhakti-Yoga</span>
 
 In Bhakti-Yoga has been set forth the method of realizing the Self or Divinity within man by the simple power of Love and it contains twenty chapters. Price Re. 1-4.
 
-### <span class="small-caps">Talks with Swami Vivekananda</span>
+##### <span class="small-caps">Talks with Swami Vivekananda</span>
 
 It is in heart-to-heart conversation that you know a man really. Here in these ‘‘Talks’’ we see the life Swami Vivekananda lived when untrammelled by the formalities of public life. He is simple as a child, but nevertheless radiates fiery inspiration. As is natural in free conversation all sorts of things come under discussion. Here Swami Vivekananda talks of Samadhi, gives directions about spiritual practices, and in the next breath discusses the problems of national regeneration, social reforms, educational ideas and what not. Now and then we find how the large heart of that mighty soul bled for the sufferings of the poor and the miserable. People in almost all walks of life will find guidance from these pages. Excellent printing and get-up. Pocket Size. Pp. 400. Price Rs. 4.
 
-### <span class="small-caps">Spiritual Talks</span>
+##### <span class="small-caps">Spiritual Talks</span>
 
 By the first disciples of Sri Ramakrishna, viz. the Holy Mother, Swamis Brahmananda, Premananda, Turiyananda, Shivananda and Saradananda. Contains rare spiritual counsels given by these great Souls to the spiritual aspirants and as such invaluable for all those who sincerely search after God. Pocket size, pages about 400. Price Rs. 4.
 
-### <span class="small-caps">Message of Our Master</span>
+##### <span class="small-caps">Message of Our Master</span>
 
 By the first disciples of Sri Ramakrishna. Gives in a comprehensible way the spiritual message of the Master. Price Rs. 2-4.
 
-### <span class="small-caps">In the Hours of Meditation</span>
+##### <span class="small-caps">In the Hours of Meditation</span>
 
 By a disciple. A beautiful symposium of devout thoughts. Price Re. 1-8.
 
-### <span class="small-caps">Spiritual Practice</span>
+##### <span class="small-caps">Spiritual Practice</span>
 
 By Ananda. The author has discussed in it the ways and means, and the difficulties of spiritual practice. The book has been written with the practical end in view. Price Rs. 2-4.
 

@@ -23,14 +23,14 @@
   "pages": 522,
   "dated_letters": 312
  },
- "provenance_tier": "machine_checked",
+ "provenance_tier": "community",
  "quality": {
-  "score": 100.0,
+  "score": 90.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 30.0,
+    "score": 20.0,
     "out_of": 30.0
    },
    {
@@ -54,7 +54,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 0,
+  "flagged": 6,
   "blockers": 0
  },
  "proof": {
@@ -199,27 +199,27 @@
   {
    "format": "epub",
    "file": "vivekananda-letters-1944.epub",
-   "bytes": 438594,
-   "sha256": "8b0c7114fa77dd088bbe76d500985513634045b20a041560c286e07bfcc04034"
+   "bytes": 438725,
+   "sha256": "5c015c919c8b0aec35091767dc8fbbe5a746f2304038d74afdf826a15fe7905d"
   },
   {
    "format": "markdown",
    "file": "vivekananda-letters-1944.md",
-   "bytes": 919973,
-   "sha256": "192868c68fd158883dc2c785eed0345bb4445945a65fd8a68ab38801c0b16b87"
+   "bytes": 921549,
+   "sha256": "ec6be116f93c981c134f0de9ff79ff68179735a1c823ae4c2bdf8a7777e24c00"
   },
   {
    "format": "tei",
    "file": "vivekananda-letters-1944.tei.xml",
-   "bytes": 1158928,
-   "sha256": "ef381f4de90003ee890ce1051df817bdb1568049338eb692bbfe21fa5e0b4b52"
+   "bytes": 1159786,
+   "sha256": "db0fb60847bb0567893b6601a1d023c271d435bf96529de7fc8956452c9304e6"
   }
  ],
  "scan_base": "",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-22T08:50:34Z",
-  "source_ast_sha256": "baf3b4aa71eee4b47ae35722301fa6030b1489c9055d6a28c88fb0477805077c",
+  "compiled_at": "2026-11-24T19:24:48Z",
+  "source_ast_sha256": "8270c254af10fd09d22b26d42ff9ba954bf12e7327f17c9927a96f9a6cd78f37",
   "hugo_renderer_version": "1.0.0"
  }
 }

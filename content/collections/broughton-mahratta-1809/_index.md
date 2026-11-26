@@ -26,12 +26,12 @@
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 97.0,
+  "score": 96.5,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 30.0,
+    "score": 29.5,
     "out_of": 30.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 2,
+  "flagged": 3,
   "blockers": 0
  },
  "proof": {
@@ -142,27 +142,27 @@
   {
    "format": "epub",
    "file": "broughton-mahratta-1809.epub",
-   "bytes": 343639,
-   "sha256": "bf6e5c283b663d831bacfaa398a49d1c18590a65084b0d482ed1e819c861cd19"
+   "bytes": 343678,
+   "sha256": "3bc8bc38f9528b91c9d2049a73d088d1fd4d85bc1bf5c7d7261b84a345bbd0e2"
   },
   {
    "format": "markdown",
    "file": "broughton-mahratta-1809.md",
-   "bytes": 565034,
-   "sha256": "6c84a1f97b86f113bc0eeaffe42736daf7fd47c52fbbe2e26af7322b6784d8ad"
+   "bytes": 565643,
+   "sha256": "83da298218d01f0412417b3f44f30440813dc0fde02989adac95ce70f5693e03"
   },
   {
    "format": "tei",
    "file": "broughton-mahratta-1809.tei.xml",
-   "bytes": 633115,
-   "sha256": "8cddb73a7b3550c4839b5c689baa91b87e0fd6ce50c34856340d9753d95aa37d"
+   "bytes": 632871,
+   "sha256": "c11fee516fc4022e7ee5ee3f1f33a576669da3fa0538c372233bd9c103560483"
   }
  ],
  "scan_base": "https://archive.org/download/letterswrittenin00brou/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-v1",
-  "compiled_at": "2026-11-22T08:47:16Z",
-  "source_ast_sha256": "1e7e90530ddb9bfda07c9ea3c55cae5923ec4e388020794eab07f4dc948c93b7",
+  "compiled_at": "2026-11-24T19:21:19Z",
+  "source_ast_sha256": "fcf5b17e05404b12d7bd224dea4adc1f61d57e06556dc3738340310a741c777d",
   "hugo_renderer_version": "1.0.0"
  }
 }

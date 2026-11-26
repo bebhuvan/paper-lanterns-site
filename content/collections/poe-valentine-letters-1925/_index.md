@@ -26,7 +26,7 @@
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 97.0,
+  "score": 94.0,
   "out_of": 100.0,
   "pillars": [
    {
@@ -41,7 +41,7 @@
    },
    {
     "key": "notes",
-    "score": 17.0,
+    "score": 14.0,
     "out_of": 20.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 2,
+  "flagged": 7,
   "blockers": 0
  },
  "proof": {
@@ -406,27 +406,27 @@
   {
    "format": "epub",
    "file": "poe-valentine-letters-1925.epub",
-   "bytes": 171105,
-   "sha256": "5a2cf04ce6c210e282f3fab563eae785629dc2aaf9435ebb3776257abc8165ce"
+   "bytes": 171238,
+   "sha256": "390e52709026db7bb1019d57e18e61ace25a96cd31c77b9053fc87c044645185"
   },
   {
    "format": "markdown",
    "file": "poe-valentine-letters-1925.md",
-   "bytes": 194208,
-   "sha256": "805e3c84732df46367783c3550f592c23564547d7d08ce4f3076ea325d591e6b"
+   "bytes": 194687,
+   "sha256": "9a683b84ef396f9e1c53180265d6e85f9fe554077e41316b7c9b45cdbae9939f"
   },
   {
    "format": "tei",
    "file": "poe-valentine-letters-1925.tei.xml",
-   "bytes": 251558,
-   "sha256": "b40ee51b167a354d673adecbab25091b3363d18deae2e1c750db6e9c3239ce8e"
+   "bytes": 251776,
+   "sha256": "edfe1745462aa121556705999db85f4659e9e5fb9c3a8f2963d48b0295ea9938"
   }
  ],
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.88404/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-22T08:02:13Z",
-  "source_ast_sha256": "cc01ec9792c361cd263f449ffe3739c368379ff51a81c6b5139b896dc0580e16",
+  "compiled_at": "2026-11-24T19:23:30Z",
+  "source_ast_sha256": "4fbe1d8424829753e6e439803b519c387e3edb422541eadcc9507ef9666cd2d5",
   "hugo_renderer_version": "1.0.0"
  }
 }

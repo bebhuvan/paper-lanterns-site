@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Essays and Letters</title>
-        <author>Leo Tolstoy (tr. Aylmer Maude)</author>
+        <author>Leo Tolstoy</author>
+        <respStmt><resp>Translator</resp><name>Aylmer Maude</name></respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +15,7 @@
       <sourceDesc>
         <bibl>
           <title>Essays and Letters</title>
+          <publisher>London: Grant Richards, Leicester Square, 1903</publisher>
           <date>1903</date>
           <idno type="URI">https://archive.org/details/essaysletters03tols</idno>
         </bibl>
@@ -34,6 +36,7 @@
       </correspDesc>
       <correspDesc xml:id="letter-0003">
         <correspAction type="sent"><date when="1895">[1895.]</date></correspAction>
+        <correspAction type="received"><persName>AN INQUIRER</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0004">
         <correspAction type="sent"><persName>Leo Tolstoy</persName><date when="1895-11-21">[November 21, o.s., 1895.]</date></correspAction>
@@ -57,6 +60,7 @@
       </correspDesc>
       <correspDesc xml:id="letter-0009">
         <correspAction type="sent"><date when="1897">1897</date></correspAction>
+        <correspAction type="received"><persName>a German Propagandist of Henry George&#x27;s Views</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0010">
         <correspAction type="sent"><date when="1899">[1899.]</date></correspAction>
@@ -77,11 +81,7 @@
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
-<pb xml:id="page-5" n="5"/><head rend="center">XLVI.
-THE WORKS
-OF
-LEO TOLSTOY.—I.
-ESSAYS AND LETTERS</head>
+<pb xml:id="page-5" n="5"/><head rend="center">XLVI.<lb/>THE WORKS<lb/>OF<lb/>LEO TOLSTOY.—I.<lb/>ESSAYS AND LETTERS</head>
 <pb xml:id="page-6" n="6"/><head rend="center">The World's Classics</head>
 <p rend="center"><hi rend="italic">Pott 8vo., leather, gilt,</hi> 2<hi rend="italic">s. net; cloth,</hi> 1<hi rend="italic">s. net.</hi></p>
 <list><item>1 Charlotte Bronte's JANE EYRE. 3rd Impression.
@@ -405,8 +405,7 @@ ESSAYS AND LETTERS</head>
 <head>III. An Afterword to &#x27;The Kreutzer Sonata&#x27;</head>
 <div xml:id="div-unit-0007" type="document">
 <pb xml:id="page-48" n="36"/><head rend="center">III</head>
-<head rend="center">AN AFTERWORD TO ‘THE KREUTZER
-SONATA’</head>
+<head rend="center">AN AFTERWORD TO ‘THE KREUTZER<lb/>SONATA’</head>
 <p><hi rend="smallcaps">Many</hi> letters from strangers have reached and still continue to reach me asking for a clear and simple explanation of what I meant by the story called ‘The Kreutzer Sonata.’ I will try, to the best of my ability, to do what is asked of me, and explain briefly the essence of what I wished that story to convey, as well as the conclusions which, I think, may be derived from it.</p>
 <p rend="indented">In the first place I wished to say that a strong opinion has taken root in all classes of our society, and is supported by pseudo-science, to the effect that sexual intercourse is indispensable to health, and that, since marriage is sometimes out of the question, sexual intercourse without marriage and without involving the man in any obligation beyond a monetary payment, is perfectly natural, and should therefore be encouraged.</p>
 <p rend="indented">To such an extent has this opinion prevailed and so firmly is it established, that parents on the advice of doctors actually arrange debauchery for their children ; while Governments—whose only purpose should be the moral well-being of their citizens—organize debauchery by regulating an entire class of women destined to perish physically and morally for the satisfaction of the supposed needs of men ;<ref xml:id="fnref-p0048-1" type="noteref" target="#fn-p0048-1">*</ref> and unmarried people, <pb xml:id="page-49" n="37"/> with untroubled consciences, yield themselves to debauchery.</p>
@@ -789,9 +788,7 @@ SONATA’</head>
 <head>VI. An Afterword to an Account of Relief supplied to the Famine-stricken</head>
 <div xml:id="div-unit-0016" type="document">
 <pb xml:id="page-135" n="123"/><head rend="center">VI</head>
-<head>AN AFTERWORD TO AN ACCOUNT RENDERED
-OF RELIEF SUPPLIED TO THE FAMINE-STRICKEN, IN THE GOVERNMENT OF
-TOÚLA, IN 1891 AND 1892</head>
+<head>AN AFTERWORD TO AN ACCOUNT RENDERED<lb/>OF RELIEF SUPPLIED TO THE FAMINE-STRICKEN, IN THE GOVERNMENT OF<lb/>TOÚLA, IN 1891 AND 1892</head>
 <p><hi rend="smallcaps">Our</hi> two years' experience in distributing among a suffering population contributions that passed through our hands, have quite confirmed our long-established conviction that most of the want and destitution—and the suffering and grief that go with them—which we, almost in vain, have tried to counteract by external means in one small corner of Russia, has arisen, not from some exceptional, temporary cause independent of us, but from general permanent causes quite dependent on us, and consisting entirely in the antichristian, unbrotherly relations maintained by us educated people towards the poor, simple labourers who constantly endure distress and want and the accompanying bitterness and suffering—things that have merely been more conspicuous than usual during the past two years. If this year we do not hear of want, cold, and hunger—of the dying-off, by hundreds of thousands, of adults worn out with overwork and of underfed old people and children—this is not because these things will not occur, but only because we shall not see them—shall forget about them, shall assure ourselves that they do not exist, or that, if they do, they are inevitable and cannot be helped.</p>
 <p rend="indented">But such assurances are untrue: not only is it possible for these things not to exist—but they ought not <pb xml:id="page-136" n="124"/> to exist, and the time is coming when they will not exist—and that time is near.</p>
 <p rend="indented">However well the wine cup may seem to us to be hidden from the labouring classes—however artful, ancient, and generally accepted may be the excuses wherewith we justify our life of luxury amid a working folk who, crushed with toil and underfed, supply our luxury—the light is penetrating more and more into our relations with the people, and we shall soon appear in the shameful and dangerous position of a criminal whom the unexpected dawn of day exposes on the scene of his crime. If a dealer disposing of harmful or worthless goods among the working folk, and trying to charge as much as possible—or disposing even of good and needful bread, but bread which he had bought cheap and was selling dear—could formerly have said he was serving the needs of the people by honest trade ; or if a manufacturer of cotton prints, looking-glasses, cigarettes, spirits, or beer, could say that he was feeding his workmen by giving them employment ; or if an official, receiving hundreds of pounds a year salary collected in taxes from the people's last pence, could assure himself that he was serving for the people's good ; or (a thing specially noticeable these last years in the famine-stricken districts) if formerly a landlord could say—to peasants who worked his land for less pay than would buy them bread, or to those who hired land of him at rack-rents—that by introducing improved methods of agriculture he was promoting the prosperity of the rural population : if all this were formerly possible, now, at least, when people are dying of hunger for lack of bread, amid wide acres belonging to landlords and planted with potatoes intended for distilling spirits or making starch—these things can no longer be said. It has become impossible, surrounded by people who are dying-out for want of food and from excess of work, not to see that all we consume of the product of their work, on the one hand deprives them of what they need for food, and on the other hand increases the work which already taxes their strength to the utmost. <pb xml:id="page-137" n="125"/> Not to speak of the insensate luxury of parks, conservatories and hunting, every glass of wine, every bit of sugar, butter, or meat, is so much food taken from the people, and so much labour added to their task.</p>
@@ -976,8 +973,7 @@ TOÚLA, IN 1891 AND 1892</head>
 </div>
 <div xml:id="div-letter-0004" type="letter" corresp="#letter-0004">
 <pb xml:id="page-179" n="167"/><head rend="center">X</head>
-<head rend="center">LETTER TO PETER VERÍGIN, THE
-DOUKHOBÓR LEADER—I</head>
+<head rend="center">LETTER TO PETER VERÍGIN, THE<lb/>DOUKHOBÓR LEADER—I</head>
 <opener><salute><hi rend="smallcaps">Dear Brother</hi>,</salute></opener>
 <p rend="indented">I. M. Tregoúbof has sent on to me your letter to him, and I was much pleased to read it—pleased to get to know about you and, as it were, to hear your voice, and to know what you are thinking about, and how you think, and what is vital to you. I see by your letter that you live in a spiritual world and are occupied with spiritual questions. For a man's welfare, that is the chief thing : for only in spirit is man free, and only by the spirit is God's work done, and only in spirit does man feel himself at one with God, for 'God is a spirit.'</p>
 <p rend="indented">The thoughts expressed in your letter about the advantage of living intercourse over intercourse by means of dead books, pleased me much, and I share them. I write books, and therefore know all the evil they produce. I know how people who do not wish to receive the truth, can avoid reading books or understanding what goes against the grain and exposes them, and I know how they can misinterpret and pervert—as they have done with the Gospels. All this I know, but yet I consider books to be, in our time, inevitable. I say 'in our time' in contradistinction to the Gospel times, when there were no printing-presses and books were not used, and the means of communication were vocal. Then it was possible to do without books, for the enemies of truth had none. But now one cannot leave this powerful engine entirely for the <pb xml:id="page-180" n="168"/> enemies of truth to use for deception, but must also see that it is used on the side of truth.</p>
@@ -990,8 +986,7 @@ DOUKHOBÓR LEADER—I</head>
 </div>
 <div xml:id="div-letter-0005" type="letter" corresp="#letter-0005">
 <pb xml:id="page-183" n="171"/><head rend="center">XI</head>
-<head rend="center">LETTER TO PETER VERÍGIN, THE
-DOUKHOBÓR LEADER—II</head>
+<head rend="center">LETTER TO PETER VERÍGIN, THE<lb/>DOUKHOBÓR LEADER—II</head>
 <opener><salute><hi rend="smallcaps">Dear Friend</hi>,</salute></opener>
 <p rend="indented">I received your letter yesterday, and hasten to reply. Letters from you and to you are long on the road, and I have not long to live.</p>
 <p rend="indented">In your arguments against books there is very much that is just and ingenious (for instance, the comparison to a medical assistant and a doctor) but the arguments themselves are invalid, chiefly because you contrast books with living intercourse, as though a book excluded living intercourse. In reality, the one does not exclude, but helps, the other.</p>
@@ -1014,8 +1009,7 @@ DOUKHOBÓR LEADER—II</head>
 </div>
 <div xml:id="div-letter-0006" type="letter" corresp="#letter-0006">
 <pb xml:id="page-189" n="177"/><head rend="center">XII</head>
-<head rend="center">LETTER ON NON-RESISTANCE: TO ERNEST H.
-CROSBY, OF NEW YORK</head>
+<head rend="center">LETTER ON NON-RESISTANCE: TO ERNEST H.<lb/>CROSBY, OF NEW YORK</head>
 <opener><salute><hi rend="smallcaps">Dear Mr. Crosby,</hi></salute></opener>
 <p rend="indented">I am very glad to have news of your activity, and to hear that your work begins to attract attention. Fifty years ago Lloyd Garrison's Declaration of Non-Resistance<ref xml:id="fnref-p0189-1" type="noteref" target="#fn-p0189-1">*</ref> only estranged people from him; and Ballou's<ref xml:id="fnref-p0189-2" type="noteref" target="#fn-p0189-2">†</ref> fifty years' labour in the same direction was constantly met by a conspiracy of silence. I now read with great pleasure in the <hi rend="italic">Voice</hi> admirable thoughts by American writers on this question of Non-Resistance. I need only demur to the notion expressed by Mr. Bemis. It is an old but unfounded libel upon Christ to suppose that the expulsion of the cattle from the temple indicates that Jesus beat people with a whip and advised his disciples to behave in the same way.<ref xml:id="fnref-p0189-3" type="noteref" target="#fn-p0189-3">‡</ref></p>
 <p rend="indented">The opinions expressed by these writers, especially by Heber Newton and G. D. Herron, are quite correct, but unfortunately they do not reply to the question Christ put to men, but to another question which has been substituted for it by those chief and most dangerous <pb xml:id="page-190" n="178"/> opponents of Christianity—the so-called ‘orthodox’ ecclesiastical authorities.</p>
@@ -1075,8 +1069,7 @@ CROSBY, OF NEW YORK</head>
 <head>XIII. How to Read the Gospels, and What is Essential in Them</head>
 <div xml:id="div-unit-0025" type="document">
 <pb xml:id="page-201" n="189"/><head rend="center">XIII</head>
-<head rend="center">HOW TO READ THE GOSPELS, AND WHAT IS
-ESSENTIAL IN THEM</head>
+<head rend="center">HOW TO READ THE GOSPELS, AND WHAT IS<lb/>ESSENTIAL IN THEM</head>
 <p><hi rend="smallcaps">There</hi> is so much that is strange, improbable, unintelligible, and even contradictory, in what professes to be Christ's teaching, that people do not know how to understand it.</p>
 <p rend="indented">It is very differently understood by different people. Some say Redemption is the all-important matter ; others say the all-important thing is grace, obtainable through the Sacraments ; others, again, that submission to the Church is what is really essential. But the Churches themselves disagree, and interpret the teaching variously. The Roman Catholic Church holds that the Holy Ghost proceeds from the Father and the Son, that the Pope is infallible, and that salvation is obtainable chiefly through works. The Lutheran Church disagrees, and considers that faith is what is chiefly needed for salvation. The Orthodox Russo-Greek Church considers that the Holy Ghost proceeds from the Father only, and that both works and faith are necessary to salvation. And the Anglican and other Episcopalian Churches, the Presbyterian and the Methodist, not to mention hundreds of others, each interpret Christ's teaching in their own way.</p>
 <p rend="indented">Young men and men of the people, doubting the truth of the Church teaching in which they have been brought up, often come to me and ask what <hi rend="italic">my</hi> teaching is, and how <hi rend="italic">I</hi> understand Christ's teaching ? Such questions always grieve and even shock me.</p>
@@ -1170,13 +1163,12 @@ ESSENTIAL IN THEM</head>
       <div xml:id="sec-sec-13" type="chapter">
 <head>XVI. Letters on Henry George</head>
 <div xml:id="div-unit-0029" type="apparatus">
-<pb xml:id="page-225" n="213"/><p rend="heading">XVI</p>
-<p rend="heading">LETTERS ON HENRY GEORGE</p>
+<pb xml:id="page-225" n="213"/><head rend="center">XVI</head>
+<head rend="center">LETTERS ON HENRY GEORGE</head>
 </div>
 <div xml:id="div-letter-0008" type="letter" corresp="#letter-0008">
 <head rend="center">I.</head>
-<head rend="center"><hi rend="italic">To T. M. Bóndaref, who had written from Siberia asking
-for information about the Single-Tax.</hi></head>
+<head rend="center"><hi rend="italic">To T. M. Bóndaref, who had written from Siberia asking</hi><lb/><hi rend="italic">for information about the Single-Tax.</hi></head>
 <p><hi rend="smallcaps">This</hi> is Henry George's plan:</p>
 <p rend="indented">The advantage and convenience of using land is not everywhere the same; there will always be many applicants for land that is fertile, well situated, or near a populous place; and the better and more profitable the land, the more people will wish to have it. All such land should, therefore, be valued according to its advantages: the more profitable—dearer; the less profitable—cheaper. Land for which there are few applicants should not be valued at all, but allotted gratuitously to those who wish to work it themselves.</p>
 <p rend="indented">With such a valuation of the land—here in the Toúla Government, for instance,—good arable land might be estimated at about 5 or 6 roubles<ref xml:id="fnref-p0225-1" type="noteref" target="#fn-p0225-1">*</ref> the desyatína;<ref xml:id="fnref-p0225-2" type="noteref" target="#fn-p0225-2">†</ref> kitchen-gardens in the villages, at about 10 roubles the desyatína; meadows that are fertilized by spring floods at about 15 roubles, and so on. In towns the valuation would be 100 to 500 roubles the desyatína, and in crowded parts of Moscow or Petersburg, or at the landing-places of navigable rivers, it would amount to several thousands or even tens of thousands of roubles the desyatína.</p>
@@ -1300,7 +1292,7 @@ for information about the Single-Tax.</hi></head>
 <pb xml:id="page-250" n="238"/><head rend="center">XIX</head>
 <head rend="center">PATRIOTISM AND GOVERNMENT</head>
 <opener><epigraph><p rend="indented">‘The time is fast approaching when to call a man a patriot will be the deepest insult you can offer him. Patriotism now means advocating plunder in the interests of the privileged classes of the particular State system into which we have happened to be born.’—E. <hi rend="smallcaps">Belfort Bax</hi>.</p></epigraph></opener>
-<p rend="heading">I.</p>
+<head rend="center">I.</head>
 <p rend="indented">I <hi rend="smallcaps">have</hi> already several times expressed the thought that in our day the feeling of patriotism is an unnatural, irrational, and harmful feeling, and a cause of a great part of the ills from which mankind is suffering ; and that, consequently, this feeling should not be cultivated, as is now being done, but should, on the contrary, be suppressed and eradicated by all means available to rational men. Yet, strange to say—though it is undeniable that the universal armaments and destructive wars which are ruining the peoples result from that one feeling—all my arguments showing the backwardness, anachronism, and harmfulness of patriotism have been met, and are still met, either by silence, by intentional misinterpretation, or by a strange unvarying reply to the effect that only bad patriotism (Jingoism, or Chauvinism) is evil, but that real good patriotism is a very elevated moral feeling, to condemn which is not only irrational but wicked.</p>
 <p rend="indented">What this real, good patriotism consists in, we are never told ; or, if anything is said about it, instead of explanation we get declamatory, inflated phrases, or, finally, some other conception is substituted for <pb xml:id="page-251" n="239"/> patriotism—something which has nothing in common with the patriotism we all know, and from the results of which we all suffer so severely.</p>
 <p rend="indented">It is generally said that the real, good patriotism consists in desiring for one's own people or State such real benefits as do not infringe the well-being of other nations.</p>
@@ -1565,8 +1557,7 @@ for information about the Single-Tax.</hi></head>
 <head>XXIII. What is Religion, and wherein lies its Essence?</head>
 <div xml:id="div-unit-0039" type="document">
 <pb xml:id="page-300" n="288"/><head rend="center">XXIII</head>
-<head rend="center">WHAT IS RELIGION, AND WHEREIN LIES ITS
-ESSENCE?</head>
+<head rend="center">WHAT IS RELIGION, AND WHEREIN LIES ITS<lb/>ESSENCE?</head>
 <head rend="center">I.</head>
 <p><hi rend="smallcaps">In</hi> all human societies, at certain periods of their existence, a time has come when religion has first swerved from its original purpose, then, diverging more and more, it has lost sight of that purpose, and has finally petrified into fixed forms, so that its influence on men's lives has become ever less and less.</p>
 <p rend="indented">At such times the educated minority cease to believe in the established religious teaching, and only pretend to hold it because they think it necessary to do so in order to keep the mass of the people to the established order of life; but the mass of the people, though by inertia they keep to the established forms of religion, no longer guide their lives by its demands, but guide them only by custom and by the State laws.</p>
@@ -1892,8 +1883,7 @@ ESSENCE?</head>
 <head>XXVI. Thoughts selected from private letters</head>
 <div xml:id="div-unit-0043" type="letter_excerpt">
 <pb xml:id="page-377" n="365"/><head rend="center">XXVI</head>
-<head rend="center">THOUGHTS SELECTED FROM PRIVATE
-LETTERS</head>
+<head rend="center">THOUGHTS SELECTED FROM PRIVATE<lb/>LETTERS</head>
 <head rend="center"><hi rend="smallcaps">Two Views of Life.</hi></head>
 <p><hi rend="smallcaps">There</hi> are only two strictly logical views of life : one, a false one, which understands life to mean those visible phenomena that occur in our bodies from the time of birth to the time of death ; the other, a true one, which understands life to be the invisible consciousness which dwells within us. One view is false, the other true, but both are logical.</p>
 <p rend="indented">The first of these views, the false one, which understands life to mean the phenomena visible in our bodies from birth till death, is as old as the world. It is not, as many people suppose, a view of life produced by the materialistic science and philosophy of our day ; our science and philosophy have only carried that conception to its furthest limits, making more obvious than ever the incompatibility of that view of life with the fundamental demands of human nature, but it is a very old and primitive view, held by men on the lowest level of development. It was expressed by Chinese, by Buddhists, and by Jews, and in the Book of Job.</p>

@@ -22,7 +22,7 @@
   "letters": 162,
   "notes": 59,
   "pages": 378,
-  "dated_letters": 159
+  "dated_letters": 161
  },
  "provenance_tier": "machine_checked",
  "quality": {
@@ -145,6 +145,10 @@
  ],
  "year_counts": [
   [
+   1829,
+   1
+  ],
+  [
    1831,
    2
   ],
@@ -154,7 +158,7 @@
   ],
   [
    1833,
-   11
+   12
   ],
   [
    1834,
@@ -284,27 +288,27 @@
   {
    "format": "epub",
    "file": "mill-letters-vol1-1910.epub",
-   "bytes": 367347,
-   "sha256": "8381ef9d6d96d4dd764945389271d1f4f2f35ec4ff4485fae376a0b9956c270f"
+   "bytes": 367511,
+   "sha256": "f49010c212cffb7cf3ead9a2a1180aaa538fdde524619e928f8e8a3f3ece98a0"
   },
   {
    "format": "markdown",
    "file": "mill-letters-vol1-1910.md",
-   "bytes": 744960,
-   "sha256": "3d4767f0b0f0e45524d782ccdaef1776c048b58edcf65183e9bbc35e210e48a1"
+   "bytes": 745603,
+   "sha256": "144a04124a13c40afdd9251f2d6852f57c8b576232e7818bf8730053548a3afa"
   },
   {
    "format": "tei",
    "file": "mill-letters-vol1-1910.tei.xml",
-   "bytes": 865568,
-   "sha256": "60ad1ec0d210cc0a035dbc65f4f3b36df8cf2138e653d8ae8bbefdc618d3bd3c"
+   "bytes": 866537,
+   "sha256": "ce8efc1596c8663d19179748a19f86376d4c57e932e98b469063a82f4c02c9d2"
   }
  ],
  "scan_base": "https://archive.org/download/lettersofjsmill01milluoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:51:38Z",
-  "source_ast_sha256": "5812854bf5101224c0414f4554f0be468f84e28a25bc33391bdbda737a152cff",
+  "compiled_at": "2026-11-24T19:22:51Z",
+  "source_ast_sha256": "99389f1c9f81dc256c4fc6bad2256a5a8affe0bb0b693bca1fe7247130087ff6",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -483,27 +483,27 @@
   {
    "format": "epub",
    "file": "fifty-famous-letters-1930.epub",
-   "bytes": 143747,
-   "sha256": "a5f16bc40f93e9d6bcf3c90bcbed0271e2c06a457d56841c0d4201a5d2413594"
+   "bytes": 143832,
+   "sha256": "0c00b6ad5b9106d9147d952ba5a5c723faf2f5ca7de07f946cf9123e236d25f8"
   },
   {
    "format": "markdown",
    "file": "fifty-famous-letters-1930.md",
-   "bytes": 207173,
-   "sha256": "ecf7f8f5c117e9a883a5959cbd5604ef0001392bd1f26f3a4d830967a0273b5c"
+   "bytes": 207542,
+   "sha256": "938a17d0bc11d585d862efce214324b038e2ac4cf43dfe39dfe7c42315cbd128"
   },
   {
    "format": "tei",
    "file": "fifty-famous-letters-1930.tei.xml",
-   "bytes": 256856,
-   "sha256": "ed9544d38d47951ec47fa333886f676bae66567e842bd5e839af95f3848ca4f8"
+   "bytes": 257638,
+   "sha256": "20bf5a444328817a9a5217ce94927e9054878c4d8d9e505fea868c04eebb2b06"
   }
  ],
  "scan_base": "https://archive.org/download/fiftyfamouslette0000curt/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:53:38Z",
-  "source_ast_sha256": "f3a528884dfad2570bbb68bf4e09d69185d808df9432417ee9742a059ede68c8",
+  "compiled_at": "2026-11-24T19:22:00Z",
+  "source_ast_sha256": "fd70f262caa23372ce3cbb9c3a6b8f5d860f524afd9450b9c3c9e3337538166a",
   "hugo_renderer_version": "1.0.0"
  }
 }

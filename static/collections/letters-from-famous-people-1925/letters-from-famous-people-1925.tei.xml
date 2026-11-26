@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title>Letters from Famous People</title>
-        <author>Sharpless Dobson Green (comp.)</author>
+        <respStmt><resp>Compiler</resp><name>Sharpless Dobson Green</name></respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +14,7 @@
       <sourceDesc>
         <bibl>
           <title>Letters from Famous People</title>
+          <publisher>New York; Chicago; San Francisco; Boston; London: The Gregg Publishing Company, 1925</publisher>
           <date>1925</date>
           <idno type="URI">https://archive.org/details/lettersfromfamou0000shar</idno>
         </bibl>
@@ -1010,8 +1011,7 @@
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
-<pb xml:id="page-1" n="1"/><head rend="center"><hi rend="smallcaps">Letters</hi> <hi rend="italic">from</hi>
-<hi rend="smallcaps">Famous People</hi></head>
+<pb xml:id="page-1" n="1"/><head rend="center"><hi rend="smallcaps">Letters</hi> <hi rend="italic">from</hi><lb/><hi rend="smallcaps">Famous People</hi></head>
 <p rend="imprint"><hi rend="italic">Sharpless D. Green</hi></p>
 <figure type="illustration"><figDesc>illustration on p. 1</figDesc></figure>
 <pb xml:id="page-5" n="5"/><p rend="heading">LETTERS <hi rend="italic">from</hi> FAMOUS PEOPLE</p>
@@ -1308,7 +1308,7 @@
 <p rend="toc_entry">Zukor, Adolph . . . . . . . . . . . . . . . . . . 332</p>
 </div>
 <div xml:id="div-unit-0004" type="apparatus">
-<pb xml:id="page-23" n="23"/><p rend="heading">LETTERS FROM FAMOUS PEOPLE</p>
+<pb xml:id="page-23" n="23"/><head rend="center">LETTERS FROM FAMOUS PEOPLE</head>
 </div>
 </div>
     </front>
@@ -1316,7 +1316,7 @@
       <div xml:id="sec-sec-02" type="epistolary_part">
 <head>Letters from Famous People</head>
 <div xml:id="div-unit-0005" type="apparatus">
-<pb xml:id="page-25" n="1"/><p rend="heading">LETTERS <hi rend="italic">from</hi> FAMOUS PEOPLE</p>
+<pb xml:id="page-25" n="1"/><head rend="center">LETTERS <hi rend="italic">from</hi> FAMOUS PEOPLE</head>
 </div>
 <div xml:id="div-letter-0001" type="letter" corresp="#letter-0001">
 <p>I HAVE made the discovery in my own life, both formerly as a soldier and explorer, and in my present career as a writer, that when all is said and done, the old-fashioned, average, much-ridiculed decencies of life are the main basis for success and for happiness—and by the main decencies I mean chiefly two, rather three: honesty, physical cleanliness, and loyalty. I have simply come to the above conclusion through a hard, hard school of experience, of practice. And, to me at least, the curious fact stands out that the things which I used to consider the illusions of life are really its four-square, eternal, unchangeable basis.</p>
@@ -2466,7 +2466,7 @@
 </div>
 <div xml:id="div-letter-0182" type="letter" corresp="#letter-0182">
 <p>AS I am particularly interested in promulgating sensible ideas of thrift, I believe that I can do nothing better than quote for the benefit of your pupils the following paragraphs from my own volume, “The Book of Thrift”:</p>
-<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>“Getting on in the World”</p></div></front><body><div><head rend="center">“<hi rend="italic">Getting on in the World</hi>”</head>
+<floatingText type="enclosure"><body><div><head rend="center">“<hi rend="italic">Getting on in the World</hi>”</head>
 <quote><p rend="indented">“How to succeed, how to get on in the world—that is the problem that millions of earnest men and women are striving to solve, each in his own way, but all, consciously or unconsciously, observing the same general principles. “There is nothing in such an effort at variance with the highest moral standards. In fact, the zealous pursuit of such an object has a beneficial reflex action upon the character, as it has upon the physical and mental nature. “Saving has a beneficial moral effect, but extravagance, as it usually is acting a lie, is essentially immoral and breeds many other irregularities and sins. On the other hand, temperance and integrity go hand in <pb xml:id="page-205" n="181"/> hand with thrift. This course is the harder one, but it is doing hard things that develops strength and character.</p></quote>
 <p rend="indented">“Luck is a fetish. Too many persons believe in it, and fall down and worship it. Too often speculation takes the place of industry; gambling, of thrift; extravagance, of saving.</p>
 <p rend="indented">“Earnest men think more of pluck than of luck. But the earnest men are so few in the world, as Dwight says, that their very earnestness becomes at once the badge of their nobility; and as men in a crowd instinctively make room for one who seems eager to force his way through it, so people everywhere open their ranks to one who rushes zealously toward some object lying beyond them.</p>
@@ -2653,7 +2653,7 @@
 <closer><signed rend="right">MEREDITH NICHOLSON</signed></closer>
 </div>
 <div xml:id="div-letter-0211" type="letter" corresp="#letter-0211">
-<p>I REGRET sincerely that I had no opportunity to tell you at once how deeply I appreciate having been made the choice of one of your groups of students; I don't think anything could be more touching or gratifying to a woman reaching middle age, who has had her own hard fight for recognition and ideals. Will you tell them that when I look back at the more than twenty years between me and my own student days, my most definite regret is that I did not realize, as a girl, that the valuable thing in life is the <hi rend="italic">ideal,</hi> rather than the tangible thing. Girls and boys set their hearts upon some special material advantage, and try in their inexperienced way to grasp it, when all the great joys, and the unforeseen opportunities and successes of life, come to those who adopt an ideal of service, of wisdom, self-control, and let the great forces themselves take care of the details. I believe that if such a group of eight said to themselves, “We will be honest, simple, industrious, and our hope will be to serve, rather than to be served; to help, rather than to expect help; and to build with love rather than ever to try to clear our roads with jealousy and hate,” then every one of those eight would become one of the really significant men and women of, say, 1935. We are all sailing under sealed orders in this life, but there are lighthouses <pb xml:id="page-236" n="212"/> on some of the shoals, and surely no modern essay upon ethics contains more of them than the Sermon on the Mount.</p>
+<p>I REGRET sincerely that I had no opportunity to tell you at once how deeply I appreciate having been made the choice of one of your groups of students; I don't think anything could be more touching or gratifying to a woman reaching middle age, who has had her own hard fight for recognition and ideals. Will you tell them that when I look back at the more than twenty years between me and my own student days, my most definite regret is that I did not realize, as a girl, that the valuable thing in life is the <hi rend="italic">ideal,</hi> rather than the tangible thing. Girls and boys set their hearts upon some special material advantage, and try in their inexperienced way to grasp it, when all the great joys, and the unforeseen opportunities and successes of life, come to those who adopt an ideal of service, of wisdom, self-control, and let the great forces themselves take care of the details. I believe that if such a group of eight said to themselves, “We will be honest, simple, industrious, and our hope will be to serve, rather than to be served; to help, rather than to expect help; and to build with love rather than ever to try to clear our roads with jealousy and hate,” then every one of those eight would become one of the really significant men and women of, say, 1935. We are all sailing under sealed orders in this life, but there are light-houses <pb xml:id="page-236" n="212"/> on some of the shoals, and surely no modern essay upon ethics contains more of them than the Sermon on the Mount.</p>
 <p rend="indented">No poem that I know means more to me than this one by Louise Imogen Guiney, one of our own New England women, who died a year or two ago.</p>
 </div>
 <div xml:id="div-letter-0212" type="letter" corresp="#letter-0212">
@@ -2709,7 +2709,7 @@
 <closer><signed rend="right"><hi rend="smallcaps">Ralph D. Paine</hi></signed></closer>
 </div>
 <div xml:id="div-letter-0219" type="letter" corresp="#letter-0219">
-<p>I <hi rend="smallcaps">suppose</hi> that every normal being seeks joy. Many fail in the quest because there are so many counterfeits which they follow as false gods. Banks cannot prosper with counterfeits; business cannot succeed on a counterfeit basis—neither can a human life. Integrity is the key to a good name and a good name is retained by everlasting vigilance; it is easy to lose it, because it is harder to build up than to destroy. These are commonplaces, <pb n="220"/> yet it is remarkable that withal they are so much disregarded. I have been thinking a good deal about joy—real joy. It is not found in envy, nor in dissatisfaction with one's lot, nor in shirking duties, nor in numerous counterfeit substitutes for a real life, but</p>
+<p>I <hi rend="smallcaps">suppose</hi> that every normal being seeks joy. Many fail in the quest because there are so many counterfeits which they follow as false gods. Banks cannot prosper with counterfeits; business cannot succeed on a counterfeit basis—neither can a human life. Integrity is the key to a good name and a good name is retained by everlasting vigilance; it is easy to lose it, because it is harder to build up than to destroy. These are common-places, <pb n="220"/> yet it is remarkable that withal they are so much disregarded. I have been thinking a good deal about joy—real joy. It is not found in envy, nor in dissatisfaction with one's lot, nor in shirking duties, nor in numerous counterfeit substitutes for a real life, but</p>
 <floatingText type="verse_insert"><body><div><pb xml:id="page-244" n="220"/><lg rend="indented"><l>Joy, staple and secure,</l><l>The balm that will endure,</l><l>In sacrifice is sanctified—</l><l>Just overcome yourself!</l><l>For that speed JOY!</l></lg></div></body></floatingText>
 <p rend="indented">Such joy makes of us good friends and good citizens.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Victor Hugo Paltsits</hi></signed></closer>
@@ -3411,7 +3411,7 @@
 <p rend="indented">People who live in such ruts see too much of themselves and become dreadful bores; but, on the other hand, don't try to spatter yourselves about in so many directions that there will not be enough of you anywhere to count. Many a good business woman, housewife, or trained nurse has been spoiled because “her people” thought that teaching was a more intellectual employment and not so much like work and “none of the women of our family have ever worked,” etc. Many a fine man has literally been pushed <pb n="330"/> into failure from the start, because when his fingers itched to make things mechanical, or his feet led to the open places of road or sky, the traditions of his family forced him into a bank, out of the air and literally behind bars. Remember, friends, that of all the unbearable forms of snobbishness, that of holding one form of honest labor above another is the worst!</p>
 <p rend="indented"><hi rend="italic">Fide—Amore—Labore</hi> (Faith, Love, and Work), my father's motto, is a good standard to keep to the fore. Surely we must have faith in something and love something in order to make good, to make ourselves something which we can share with others. Are you fond of poetry?</p>
 <p rend="indented">I am and I must quote some lines by McLandburgh Wilson that drive home my message, as I understand it.</p>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>Yourself</p></div></front><body><div><pb xml:id="page-354" n="330"/><head rend="center">Yourself</head>
+<floatingText type="verse_insert"><body><div><pb xml:id="page-354" n="330"/><head rend="center">Yourself</head>
 <lg><l>Don't think your charity will live</l><l>   By just donating wealth to it;</l><l>A check is not enough to give—</l><l>   You have to add yourself to it.</l></lg>
 <lg><l>And likewise come to understand</l><l>   There is no hidden art to it;</l><l>'Tis not enough to give your hand</l><l>   Unless you add your heart to it.</l></lg>
 <lg><l>Would you succeed in any plan?</l><l>   Your strength—you have to spend of it;</l><l>Your rope won't help a drowning man</l><l>   Unless you hold your end of it.</l></lg></div></body></floatingText>

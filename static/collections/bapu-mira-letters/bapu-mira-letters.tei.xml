@@ -14,6 +14,7 @@
       <sourceDesc>
         <bibl>
           <title>Bapu&#x27;s Letters to Mira [1924-1948]</title>
+          <publisher>Ahmedabad: Navajivan Publishing House</publisher>
           <date>1949</date>
           <idno type="URI">https://archive.org/details/bapusletterstomi00gand</idno>
         </bibl>
@@ -1580,15 +1581,12 @@
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
-<pb xml:id="page-1" n="1"/><head rend="center">B[A]PU'S LE[...]
-ETTERS TO MIRA
-[ 1924-1948 ]</head>
+<pb xml:id="page-1" n="1"/><head rend="center">B[A]PU'S LE[...]<lb/>ETTERS TO MIRA<lb/>[ 1924-1948 ]</head>
 <figure type="illustration"><figDesc>illustration on p. 1</figDesc></figure>
 <p rend="imprint">NAVAJIVAN PUBLISHING HOUSE<lb/>AHMEDABAD</p>
 </div>
 <div xml:id="div-unit-0002" type="apparatus">
-<pb xml:id="page-2" n="2"/><head rend="center">BOOKS
-BY GANDHIJI</head>
+<pb xml:id="page-2" n="2"/><head rend="center">BOOKS<lb/>BY GANDHIJI</head>
 <list><item>An Autobiography</item><item>Satyagraha in South Africa</item><item>Hind Swaraj</item><item>Cent Per Cent Swadeshi</item><item>Constructive Programme —Its Meaning &amp; Place</item><item>Non-violence in Peace and War — Vol. I</item><item>Non-violence in Peace and War — Vol. II</item><item>Women &amp; Social Injustice</item><item>Gandhiji’s Correspondence with the Government (1942-44)</item><item>From Yeravda Mandir</item><item>Self-Restraint v. Self-Indulgence</item><item>Delhi Diary</item><item>The Nation’s Voice</item><item>Key to Health</item><item>Food Shortage and Agriculture</item><item>Communal Unity</item><item>Ramanama</item><item>Diet &amp; Diet Reform</item><item>To The Students</item><item>Economics of Khadi</item><item>The Indian States’ Problem</item><item>Christian Missions — Their Place in India</item></list>
 </div>
 <div xml:id="div-unit-0003" type="apparatus">
@@ -1653,11 +1651,8 @@ BY GANDHIJI</head>
 <p rend="salutation">Dear Friend,</p>
 <p rend="indented">I was pleased to receive your letter which has touched me deeply. The samples of wool you have sent are excellent.</p>
 <p rend="indented">You are welcome whenever you choose to come. If I have advice of the steamer that brings you, there will be someone receiving you at the steamer, and guiding you to the train that will take you to Sabarmati. Only please remember that the life at the Ashram is not all rosy. It is strenuous. Bodily labour is given by every inmate. The climate of this country is also not a small consideration. I mention these things not to frighten you but merely to warn you.</p>
-<p rend="valediction">Yours sincerely,</p>
-<p rend="signature">M. K. GANDHI</p>
-<p rend="postscript">As my right hand requires rest, I am dictating my correspondence.</p>
-<milestone unit="section" rend="ornament"/>
-<closer><address><addrLine>Miss Madeleine Slade,</addrLine><addrLine>63, Bedford Gardens,</addrLine><addrLine>Campden Hill,</addrLine><addrLine>London, W 8.</addrLine><addrLine>England.</addrLine></address></closer>
+<closer><salute rend="right">Yours sincerely,</salute><signed rend="right">M. K. GANDHI</signed></closer>
+<postscript><p rend="postscript">As my right hand requires rest, I am dictating my correspondence.</p><milestone unit="section" rend="ornament"/><closer><address><addrLine>Miss Madeleine Slade,</addrLine><addrLine>63, Bedford Gardens,</addrLine><addrLine>Campden Hill,</addrLine><addrLine>London, W 8.</addrLine><addrLine>England.</addrLine></address></closer></postscript>
 </div>
 <div xml:id="div-letter-0003" type="letter" corresp="#letter-0003">
 <pb xml:id="page-21" n="11"/><head rend="center">3</head>
@@ -1774,9 +1769,7 @@ BY GANDHIJI</head>
 <p rend="indented">I have your letter describing the drive with Hakimji. I do not mind either your tasting the dishes at Brijkishan’s or the <hi rend="italic">pan</hi> from Hakimji. The latter’s tempting you with <hi rend="italic">pan</hi> distresses me. It is bad stuff and he should never have offered it to you. But opinions <pb xml:id="page-31" n="21"/> differ. He evidently considers it to be harmless. However the reasoning that you have employed for justifying the tasting of the dishes and the <hi rend="italic">pan</hi> is in my opinion faulty. Why should one <hi rend="italic">know</hi> the taste of what one does not need or wish to take? Do you know that this is the reasoning that has been applied to justify every form of vice? It is the million times told story of the forbidden apple. Why should I not know the taste of the thing I am asked not to take or touch? But you must not worry. If you do not understand my reasoning, you must argue with me patiently. If you appreciate my reasoning, it is to serve as warning in the future. But it must not result in self-reproach. There is no cause for it. The incident is trivial. But trivialities possess deadly potentialities. Hence the paternal warning.</p>
 <milestone unit="section" rend="ornament"/>
 <p rend="indented">I am writing this on the moving train during my silence which finishes at 9 p. m.</p>
-<p rend="valediction">With love,</p>
-<p rend="dateline">10-1-’27</p>
-<p rend="signature"><hi rend="smallcaps">Bapu</hi></p>
+<closer><salute rend="center">With love,</salute><dateline>10-1-’27</dateline><signed rend="right"><hi rend="smallcaps">Bapu</hi></signed></closer>
 <milestone unit="section" rend="ornament"/>
 <postscript><p rend="postscript">Can you decipher my writing?</p><closer><address><addrLine>Shrimati Mirabai,</addrLine><addrLine>Gurukul Kangri, via Haradwar,</addrLine><addrLine>Dist. Bijnor.</addrLine></address></closer></postscript>
 </div>
@@ -1955,10 +1948,7 @@ Balance</cell><cell>1/8/-
 <p rend="indented">Your latest letter is still more cheerful. I hope this mood will last. I very nearly sent you a card in Hindi today. But it was too late. This is written after the receipt of the post, but also after its departure which precedes the receipt.</p>
 <p rend="indented">I have made a slight change in the food here which is approved by a distinguished doctor who is living nearby. I am now taking raw milk and adding now and then juice of a few <hi rend="italic">neem</hi> leaves, and have omitted <hi rend="italic">chapatis</hi> and vegetables for the time being. I may revert to the latter two if it becomes necessary. There is now noticed a decline in the blood-pressure for the first time since the collapse. I am feeling altogether better.</p>
 <p rend="indented">The rest through Mahadev.</p>
-<p rend="valediction">With love,</p>
-<p rend="dateline">28-4-’27</p>
-<p rend="signature">Bapu</p>
-<p rend="dateline">29th Morning.</p>
+<closer><salute rend="center">With love,</salute><dateline>28-4-’27</dateline><signed rend="right">Bapu</signed><dateline>29th Morning.</dateline></closer>
 <milestone unit="section" rend="ornament"/>
 <postscript><p rend="postscript">I fancy I have forgotten to answer a question you asked in one of your letters. Undoubtedly the interpretation of your vow is that your last meal should be finished before 7 p. m. or dusk whichever the vow is. You are therefore right in your interpretation. The rule regarding vows is, when in doubt, <pb xml:id="page-53" n="43"/> interpret against yourself i. e. in favour of greater restriction.<ref xml:id="fnref-p0053-1" type="noteref" target="#fn-p0053-1">*</ref></p><p rend="signature">Bapu</p><p rend="postscript">Please tell Lady Slade<ref xml:id="fnref-p0053-2" type="noteref" target="#fn-p0053-2">†</ref> I am thankful for her concern about me.</p><closer><signed rend="right">Bapu</signed><address><addrLine>Shrimati Mirabai,</addrLine><addrLine>Bhagwadbhakti Ashram,</addrLine><addrLine>Rampura,</addrLine><addrLine>Rewari, (B. B. &amp; C. I. Rly.).</addrLine></address></closer></postscript>
 </div>
@@ -3161,8 +3151,7 @@ Balance</cell><cell>1/8/-
 <p rend="center">(Undated. Date of Yeravda Post Mark 26-5-’32)</p>
 </div>
 <div xml:id="div-unit-0163" type="document">
-<head rend="center">GANDHIJI - ROMAIN ROLLAND MEETING
-<hi rend="smallcaps">IMPRESSION OF HIS VISIT</hi></head>
+<head rend="center">GANDHIJI - ROMAIN ROLLAND MEETING<lb/><hi rend="smallcaps">IMPRESSION OF HIS VISIT</hi></head>
 <p rend="indented">The following which is taken from <hi rend="italic">The Nation</hi> (New York) is a letter written by Romain Rolland to <pb xml:id="page-197" n="187"/> an American friend of his on the visit of Gandhiji to his home:</p>
 </div>
 <div xml:id="div-letter-0157" type="letter" corresp="#letter-0157">
@@ -3471,8 +3460,7 @@ Balance</cell><cell>1/8/-
 <p rend="indented">Yes, I am devoting practically the whole of my time to untouchability work. The elbows continue to give pain when used in a particular way. Most of my letters I now dictate. For the few I write, I use the hands alternately. This seems to answer the purpose. I have cut down the spinning just now to 100 rounds from 200. Of course there is not the slightest cause for anxiety over this pain in the elbows. They need rest and nothing else. With returning strength and the filling in of muscle, probably the pain will disappear.</p>
 <p rend="indented">I am glad Kisan is still with you. Let her be most rigid about your pronunciation.</p>
 <p rend="indented">We are all well and all send you both love.</p>
-<p rend="dateline">9-11-'32</p>
-<p rend="signature">Bapu</p>
+<closer><dateline>9-11-'32</dateline><signed rend="right">Bapu</signed></closer>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0187" type="letter" corresp="#letter-0187">
@@ -3654,13 +3642,8 @@ Balance</cell><cell>1/8/-
 <p rend="indented">It is a great joy to me that you have Ba with you and Gangabehn and Kusum. Have you no access to the others?</p>
 <p rend="indented">Tell Gangabehn and Kusum that I wrote to both of them. I enclose letters for them and Ba. You will hand them if they are entitled or permitted to have them. There is nothing in them but welfare news.</p>
 <p rend="indented">My weight and food continue as usual and so also the elbows.</p>
-<p rend="valediction">With love from us all,</p>
-<p rend="dateline">Y. M.,<lb/>17-2-'33</p>
-<p rend="signature">Bapu</p>
-<p rend="postscript">P. S.</p>
-<p rend="postscript">Of course all the instructions I have given in this letter are subject to revision by the Superintendent.</p>
-<p rend="signature">Bapu</p>
-<milestone unit="section" rend="ornament"/>
+<closer><salute rend="center">With love from us all,</salute><dateline>Y. M.,<lb/>17-2-'33</dateline><signed rend="right">Bapu</signed></closer>
+<postscript><p rend="postscript">P. S.</p><p rend="postscript">Of course all the instructions I have given in this letter are subject to revision by the Superintendent.</p><closer><signed rend="right">Bapu</signed></closer><milestone unit="section" rend="ornament"/></postscript>
 </div>
 <div xml:id="div-letter-0203" type="letter" corresp="#letter-0203">
 <pb xml:id="page-259" n="249"/><head rend="center">202</head>
@@ -5444,9 +5427,7 @@ Balance</cell><cell>1/8/-
 <p rend="indented">On page 175, line 6, read <hi rend="italic">Correspondees</hi> for <hi rend="italic">Correspondenees.</hi></p>
 </div>
 <div xml:id="div-unit-0415" type="apparatus">
-<pb xml:id="page-405" n="395"/><head rend="center">OTHER BOOKS
-OF
-GENERAL INTEREST</head>
+<pb xml:id="page-405" n="395"/><head rend="center">OTHER BOOKS<lb/>OF<lb/>GENERAL INTEREST</head>
 <list><item>The Story of Bardoli</item><item>Constructive Programme
 — Some Suggestions</item><item>Practical Non-violence</item><item>A Discipline for
 Non-violence</item><item>Economics of Khaddar</item><item>Clive to Keynes</item><item>Practice and Precepts of

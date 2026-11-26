@@ -7,7 +7,7 @@
 
 ## Frontmatter
 
-### THE LETTERS OF VICTOR HUGO
+### THE LETTERS OF<br />VICTOR HUGO
 
 * * *
 
@@ -15,9 +15,9 @@ Portrait engraving of Victor Hugo signed 'Devéria 1826', with facsimile signatu
 
 Victor Hugo
 
-### THE LETTERS OF VICTOR HUGO
+### THE LETTERS OF<br />VICTOR HUGO
 
-### TO HIS FAMILY, TO SAINTE-BEUVE AND OTHERS
+#### TO HIS FAMILY, TO SAINTE-BEUVE<br />AND OTHERS
 
 EDITED BY  
 PAUL MEURICE
@@ -54,7 +54,7 @@ IV. <span class="small-caps">To Charles Augustin Sainte-Beuve</span> . . . . . 1
 
 V. <span class="small-caps">To His Children</span> . . . . . . . . . . . 215
 
-### <span class="small-caps">Appendix</span> :
+#### <span class="small-caps">Appendix</span> :
 
 I. Académie des Jeux Floraux, 1819-1823 . . . . . 243
 
@@ -64,13 +64,13 @@ II. Additional Letters to Various Persons . . . . 269
 
 ### THE LETTERS OF VICTOR HUGO.
 
-### I. LETTERS TO HIS FATHER AND MOTHER. 1815–1826.
+#### I. LETTERS TO HIS FATHER AND MOTHER.<br />1815–1826.
 
 ### Letter 1: Victor Hugo → Madame la Comtesse Hugo
 
-### I.
+#### I.
 
-### *To* <span class="small-caps">Madame la Comtesse Hugo</span>, *at Thionville.*
+#### *To* <span class="small-caps">Madame la Comtesse Hugo</span>, *at Thionville.*
 
 *2d August,* 1815.
 
@@ -84,9 +84,9 @@ Your dutiful son,
 
 ### Letter 2: Victor Hugo → Général Hugo
 
-### II.
+#### II.
 
-### *To* <span class="small-caps">Monsieur le General Hugo</span>, *at his country-place of Saint Lazare, near Blois.*
+#### *To* <span class="small-caps">Monsieur le General Hugo</span>, *at his country-place of Saint<br />Lazare, near Blois.*
 
 <span class="small-caps">Paris</span>, *4th July,* 1822.
 
@@ -108,7 +108,7 @@ With love, your dutiful son,
 
 ### Letter 3: Victor Hugo → Général Hugo
 
-### III.
+#### III.
 
 <span class="small-caps">Paris</span>, 26*th July*, 1822.
 
@@ -126,7 +126,7 @@ In my next letter, I will tell you of all the work which a happy married life wi
 
 ### Letter 4: Victor Hugo → Général Hugo
 
-### IV.
+#### IV.
 
 <span class="small-caps">Paris</span>, *8th August*, 1822.
 
@@ -134,7 +134,9 @@ In my next letter, I will tell you of all the work which a happy married life wi
 
 I hasten to discuss your ingenious poem. I was longing to tell you all the pleasure I experienced in reading it; I have already read it three times, and I know some of the passages in it by heart. There are a number of excellent lines on every page, as for instance —
 
-Et vendre à tout venant le pardon que je donne,
+> **[verse_insert]**
+>
+> Et vendre à tout venant le pardon que je donne,
 
 and descriptions full of life and *esprit*, such as that of Lucifer taking his telescope to look at the angel. Several of my friends, who are also among our most distinguished literary men, share my opinion of your work; so you see, dear papa, I am not biased by the deep love and tender gratitude which I shall ever feel for you.
 
@@ -146,7 +148,7 @@ Another line, dear papa, although the post is just going. I cannot help telling 
 
 ### Letter 5: Victor Hugo → Général Hugo
 
-### V.
+#### V.
 
 <span class="small-caps">Paris</span>, 31*st August*, 1822.
 
@@ -162,7 +164,7 @@ Everybody here sends you their best love. I fancy that you see at Blois the pape
 
 ### Letter 6: Victor Hugo → Général Hugo
 
-### VI.
+#### VI.
 
 <span class="small-caps">Paris</span>, 13*th September*, 1822.
 
@@ -182,7 +184,7 @@ Your loving and dutiful son,
 
 ### Letter 7: Victor Hugo → Général Hugo
 
-### VII.
+#### VII.
 
 <span class="small-caps">Paris</span>, 18*th September*, 1822.
 
@@ -210,7 +212,7 @@ I have been obliged to correct an oversight in the document you sent me; I was b
 
 ### Letter 8: Victor Hugo → Général Hugo
 
-### VIII.
+#### VIII.
 
 <span class="small-caps">Paris</span>, 19*th October*, 1822.
 
@@ -228,7 +230,7 @@ My two brothers send you their fond love. My father-in-law and mother-in-law wer
 
 ### Letter 9: Victor Hugo → Général Hugo
 
-### IX.
+#### IX.
 
 <span class="small-caps">Paris</span>, 19*th November*, 1822.
 
@@ -242,7 +244,7 @@ Your dutiful and respectful son,
 
 ### Letter 10: Victor Hugo → Général Hugo
 
-### X.
+#### X.
 
 20*th December*, 1822.
 
@@ -258,9 +260,9 @@ Your loving and dutiful son,
 
 ### Letter 11: Victor Hugo → Eugène Hugo
 
-### XI.
+#### XI.
 
-### *To* M. <span class="small-caps">Eugène Hugo, care of General Hugo,</span> *his father,* 73 *Grande Rue du Foix, Blois.*
+#### *To* M. <span class="small-caps">Eugène Hugo, care of General Hugo,</span> *his father,* 73<br />*Grande Rue du Foix, Blois.*
 
 *Tuesday, 5th March,* 1823.
 
@@ -272,7 +274,7 @@ Your brother and friend,                    <span class="small-caps">Victor.</sp
 
 ### Letter 12: Victor Hugo → Général Hugo
 
-### XII.
+#### XII.
 
 *Tuesday, 5th March,* 1823.
 
@@ -292,7 +294,7 @@ Our kind regards to our stepmother.
 
 ### Letter 13: Victor Hugo → Général Hugo
 
-### XIII.
+#### XIII.
 
 *24th May,* 1823.
 
@@ -314,7 +316,7 @@ Our kind regards to your wife, from whom we hope to hear soon.
 
 ### Letter 14: Victor Hugo → Général Hugo
 
-### XIV.
+#### XIV.
 
 <span class="small-caps">Gentilly</span>, *27th June*, 1823.
 
@@ -336,7 +338,7 @@ Your son,                    <span class="small-caps">Victor.</span>
 
 ### Letter 15: Victor Hugo → Général Hugo
 
-### XV.
+#### XV.
 
 *1st July,* 1823.
 
@@ -356,7 +358,7 @@ V. M. H.
 
 ### Letter 16: Victor Hugo → Général Hugo
 
-### XVI.
+#### XVI.
 
 24*th July,* 1823.
 
@@ -376,7 +378,7 @@ Give our love to our stepmother, whom we expect to see with you. During the last
 
 ### Letter 17: Victor Hugo → Général Hugo
 
-### XVII.
+#### XVII.
 
 29*th July,* 1823.
 
@@ -394,7 +396,7 @@ It is of great importance that the wet-nurse, whom you will be kind enough to fi
 
 ### Letter 18: Victor Hugo → Général Hugo
 
-### XVIII.
+#### XVIII.
 
 *3d August,* [1823].
 
@@ -414,7 +416,7 @@ Eugène's bodily health continues good, but he is still painfully slovenly. A pa
 
 ### Letter 19: Victor Hugo → Général Hugo
 
-### XIX.
+#### XIX.
 
 <span class="small-caps">War Office</span>, 6*th August*, 1823.
 
@@ -436,7 +438,7 @@ My Adèle begs me to give you and your wife a thousand kind messages from her. A
 
 ### Letter 20: Victor Hugo → Général Hugo
 
-### XX.
+#### XX.
 
 13*th September,* 1823.
 
@@ -452,7 +454,7 @@ I will try to give you news of Eugène in my next letter.
 
 ### Letter 21: Victor Hugo → Général Hugo
 
-### XXI.
+#### XXI.
 
 *4th October*, 1823.
 
@@ -474,7 +476,7 @@ My kindest regards to grandmamma.
 
 ### Letter 22: Victor Hugo → Général Hugo
 
-### XXII.
+#### XXII.
 
 *6th October,* 1823.
 
@@ -488,7 +490,7 @@ Send us news of him soon, dear papa ; we hope, but we are resigned ; this also i
 
 ### Letter 23: Victor Hugo → Général Hugo
 
-### XXIII.
+#### XXIII.
 
 *13th October,* 1823.
 
@@ -512,7 +514,7 @@ Your dutiful son,
 
 ### Letter 24: Victor Hugo → Général Hugo
 
-### XXIV.
+#### XXIV.
 
 *Saturday, November,* [1823].
 
@@ -536,7 +538,7 @@ V.
 
 ### Letter 25: Victor Hugo → Général Hugo
 
-### XXV.
+#### XXV.
 
 27*th March,* 1824.
 
@@ -556,7 +558,7 @@ Everybody here is quite well.
 
 ### Letter 26: Victor Hugo → Général Hugo
 
-### XXVI.
+#### XXVI.
 
 *27th June,* 1824.
 
@@ -576,7 +578,7 @@ Let us hear from you soon.
 
 ### Letter 27: Victor Hugo → Général Hugo
 
-### XXVII.
+#### XXVII.
 
 19*th February,* 1825.
 
@@ -598,7 +600,7 @@ V. H.
 
 ### Letter 28: Victor Hugo → Général Hugo
 
-### XXVIII.
+#### XXVIII.
 
 *27th February,* 1825.
 
@@ -618,7 +620,7 @@ Give our love to Léopoldine’s kind godmother.
 
 ### Letter 29: Victor Hugo → Général Hugo
 
-### XXIX.
+#### XXIX.
 
 <span class="small-caps">Gentilly</span>, *19th June,* 1825.
 
@@ -636,7 +638,7 @@ I have this moment received a letter from Emile Deschamps, who says: “General 
 
 ### Letter 30: Victor Hugo → Général Hugo
 
-### XXX.
+#### XXX.
 
 <span class="small-caps">Paris</span>, 18*th July*, 1825.
 
@@ -654,7 +656,7 @@ The King has sent me word that he has ordered some porcelain to be forwarded to 
 
 ### Letter 31: Victor Hugo → Général Hugo
 
-### XXXI.
+#### XXXI.
 
 <span class="small-caps">Paris</span>, 31*st July*, 1825.
 
@@ -676,7 +678,7 @@ Your dutiful and devoted son,
 
 ### Letter 32: Victor Hugo → Général Hugo
 
-### XXXII.
+#### XXXII.
 
 <span class="small-caps">Paris</span>, 10*th October*, 1825.
 
@@ -692,7 +694,7 @@ Your loving and dutiful son,
 
 ### Letter 33: Victor Hugo → Général Hugo
 
-### XXXIII.
+#### XXXIII.
 
 <span class="small-caps">Paris</span>, 3*d November*, 1826.
 
@@ -702,7 +704,7 @@ Our kind parents will doubtless give a joyful welcome to this new-comer, who wil
 
 I do not write more to you to-day, dear papa; give our love to your wife; tell all our friends at Blois of the birth of your grandson.
 
-Abel and Mélanie, Pierre Foucher's wife, will be godparents to the baby, whose name we have not yet decided on. He has already taken his food satisfactorily.
+Abel and Mélanie, Pierre Foucher's wife, will be god-parents to the baby, whose name we have not yet decided on. He has already taken his food satisfactorily.
 
 Your loving and dutiful son,
 
@@ -716,15 +718,15 @@ Are you not coming to Paris soon? we shall expect you for the christening; it wo
 
 ## II. To Adèle Hugo, and Others.—Journey to Reims.—Coronation of Charles X.
 
-### II. TO ADÈLE HUGO, AND OTHERS.—JOURNEY TO REIMS.—CORONATION OF CHARLES X.
+### II. TO ADÈLE HUGO, AND OTHERS.—JOURNEY TO<br />REIMS.—CORONATION OF CHARLES X.
 
 * * *
 
 ### Letter 34: Victor Hugo → J. B. Soulié
 
-### I.
+#### I.
 
-### *To* J. B. <span class="small-caps">Soulié</span>, *Hotel de Hollande, Rue Neuve des Bons Enfants, Paris.*
+#### *To* J. B. <span class="small-caps">Soulié</span>, *Hotel de Hollande, Rue Neuve des Bons<br />Enfants, Paris.*
 
 [<span class="small-caps">Blois</span>, *27th April*, 1825, *morning.*]
 
@@ -744,9 +746,9 @@ No one loves you more dearly than I do.
 
 ### Letter 35: Victor Hugo → M. Foucher
 
-### II.
+#### II.
 
-### *To* M. <span class="small-caps">Foucher.</span>[^fn-p0056-1]
+#### *To* M. <span class="small-caps">Foucher.</span>[^fn-p0056-1]
 
 <span class="small-caps">La Miltière</span>, 12*th May*, 1825.
 
@@ -774,9 +776,9 @@ Has my porter received any letters for me since we left? I have received a most 
 
 ### Letter 36: Victor Hugo → Adèle Hugo
 
-### III.
+#### III.
 
-### *To* <span class="small-caps">Adèle Hugo</span>, *care of* <span class="small-caps">General Count Hugo</span>, *Blois.*
+#### *To* <span class="small-caps">Adèle Hugo</span>, *care of* <span class="small-caps">General Count Hugo</span>, *Blois.*
 
 <span class="small-caps">Orléans</span>, 19*th May*, 4 <span class="small-caps">p. m.</span>, [1825].
 
@@ -802,9 +804,9 @@ Open my letters, should any come for me, and give me a brief summary of their co
 
 ### Letter 37: Victor Hugo → Adèle Hugo
 
-### IV.
+#### IV.
 
-### *To* <span class="small-caps">Adèle Hugo.</span>
+#### *To* <span class="small-caps">Adèle Hugo.</span>
 
 <span class="small-caps">Paris,</span> *Friday, 20th May,* 7.30 <span class="small-caps">a. m.,</span> [1825].
 
@@ -826,9 +828,9 @@ Write me one letter here, and all the rest Poste Restante, Reims. I dine with Ml
 
 ### Letter 38: Victor Hugo → Adèle Hugo
 
-### V.
+#### V.
 
-### *To* <span class="small-caps">Adèle Hugo.</span>
+#### *To* <span class="small-caps">Adèle Hugo.</span>
 
 <span class="small-caps">Paris,</span> 21*st May,* [1825].
 
@@ -842,9 +844,9 @@ Farewell, dear Adèle, farewell, beloved; what a pang it gives me to close my le
 
 ### Letter 39: Victor Hugo → Adèle Hugo
 
-### VI.
+#### VI.
 
-### *To* <span class="small-caps">Adèle Hugo.</span>
+#### *To* <span class="small-caps">Adèle Hugo.</span>
 
 <span class="small-caps">Paris</span>, 22*d May*, 12.30 <span class="small-caps">p. m.</span>, [1825].
 
@@ -874,9 +876,9 @@ I need not tell you to give my love to our dear parents; that is a matter of cou
 
 ### Letter 40: Victor Hugo → Adèle Hugo
 
-### VII.
+#### VII.
 
-### *To* <span class="small-caps">Adèle Hugo.</span>
+#### *To* <span class="small-caps">Adèle Hugo.</span>
 
 23*d May,* 1 <span class="small-caps">p. m.,</span> [1825].
 
@@ -888,9 +890,9 @@ I hope to write to you to-morrow on the journey. Farewell, my adored angel.
 
 ### Letter 41: Victor Hugo → Adèle Hugo
 
-### VIII.
+#### VIII.
 
-### *To* <span class="small-caps">the Same.</span>
+#### *To* <span class="small-caps">the Same.</span>
 
 <span class="small-caps">Paris,</span> 24*th May,* [1825].
 
@@ -912,9 +914,9 @@ You ought to receive a letter every day. I will always try to arrange for this. 
 
 ### Letter 42: Victor Hugo → Adele Hugo
 
-### IX.
+#### IX.
 
-### *To* <span class="small-caps">Adele Hugo.</span>
+#### *To* <span class="small-caps">Adele Hugo.</span>
 
 <span class="small-caps">Villers-Cotterets</span>, 25*th May*, 7 <span class="small-caps">a. m.</span>, [1825].
 
@@ -928,9 +930,9 @@ Your own                    <span class="small-caps">Victor.</span>
 
 ### Letter 43: Victor Hugo → Adèle Hugo
 
-### X.
+#### X.
 
-### *To* <span class="small-caps">Adèle Hugo.</span>
+#### *To* <span class="small-caps">Adèle Hugo.</span>
 
 <span class="small-caps">Reims</span>, 27*th May*, 7 <span class="small-caps">a. m.</span>, [1825].
 
@@ -948,9 +950,9 @@ I will soon write to my father.
 
 ### Letter 44: Victor Hugo → Adèle Hugo
 
-### XI.
+#### XI.
 
-### *To* <span class="small-caps">Adèle Hugo.</span>
+#### *To* <span class="small-caps">Adèle Hugo.</span>
 
 <span class="small-caps">Reims,</span> *27th May,* 3.45 <span class="small-caps">p. m.,</span> [1825].
 
@@ -958,9 +960,9 @@ What a disappointment, my own Adèle! no letter to-day! In your last letter you 
 
 ### Letter 45: Victor Hugo → Adèle Hugo
 
-### XII.
+#### XII.
 
-### *To* <span class="small-caps">the Same.</span>
+#### *To* <span class="small-caps">the Same.</span>
 
 *28th May,* 9 <span class="small-caps">a. m.,</span> [1825].
 
@@ -980,9 +982,9 @@ Best love to our kind parents. Farewell, my adored Adèle; now my letters will b
 
 ### Letter 46: Victor Hugo → Adèle Hugo
 
-### XIII.
+#### XIII.
 
-### *To* <span class="small-caps">Adèle Hugo.</span>
+#### *To* <span class="small-caps">Adèle Hugo.</span>
 
 *28th May,* 3 <span class="small-caps">p. m.,</span> [1825].
 
@@ -994,9 +996,9 @@ Your own <span class="small-caps">Victor.</span>
 
 ### Letter 47: Victor Hugo → Adèle Hugo
 
-### XIV.
+#### XIV.
 
-### *To* <span class="small-caps">Adèle Hugo.</span>
+#### *To* <span class="small-caps">Adèle Hugo.</span>
 
 6 <span class="small-caps">p. m.</span>, [28*th May*, 1825].
 
@@ -1008,9 +1010,9 @@ I have just seen Sosthène, who is always very agreeable. He has given me the pr
 
 ### Letter 48: Victor Hugo → Adèle Hugo
 
-### XV.
+#### XV.
 
-### *To* <span class="small-caps">the Same</span>.
+#### *To* <span class="small-caps">the Same</span>.
 
 <span class="small-caps">Reims</span>, 29*th May*, [1825].
 
@@ -1018,9 +1020,9 @@ We have seen the Coronation, my Adèle; it is a deeply interesting ceremony. Ala
 
 ### Letter 49: Victor Hugo → Adèle Hugo
 
-### XVI.
+#### XVI.
 
-### *To* <span class="small-caps">the Same</span>.
+#### *To* <span class="small-caps">the Same</span>.
 
 <span class="small-caps">Reims</span>, 30*th May*, [1825].
 
@@ -1030,9 +1032,9 @@ Thank my good and worthy father very much, and be ready. No time for more. I won
 
 ### Letter 50: Victor Hugo → Mme. Foucher
 
-### XVII.
+#### XVII.
 
-### *To* <span class="small-caps">Mme. Foucher</span>, *Paris.*
+#### *To* <span class="small-caps">Mme. Foucher</span>, *Paris.*
 
 <span class="small-caps">Reims</span>, 31*st May*, 1825.
 
@@ -1048,9 +1050,9 @@ Farewell, my dear mamma, best love to our kind father, and believe in the tender
 
 ### Letter 51: Victor Hugo → Adèle Hugo
 
-### XVIII.
+#### XVIII.
 
-### *To* <span class="small-caps">Adèle Hugo</span>, *care of* <span class="small-caps">General Count Hugo</span>, *Blois.*
+#### *To* <span class="small-caps">Adèle Hugo</span>, *care of* <span class="small-caps">General Count Hugo</span>, *Blois.*
 
 <span class="small-caps">Reims</span>, 31*st May*, 1825.
 
@@ -1084,9 +1086,9 @@ And how is my Didine?
 
 ### Letter 52: Victor Hugo → Adolphe Trébuchet
 
-### I.
+#### I.
 
-### *To* <span class="small-caps">Adolphe Trebuchet</span>, *Nantes.*
+#### *To* <span class="small-caps">Adolphe Trebuchet</span>, *Nantes.*
 
 <span class="small-caps">Paris</span>, 20*th April*, 1820.
 
@@ -1104,9 +1106,9 @@ V. M. <span class="small-caps">Hugo.</span>
 
 ### Letter 53: Victor Hugo → Adolphe Trébuchet
 
-### II.
+#### II.
 
-### *To* <span class="small-caps">the Same.</span>
+#### *To* <span class="small-caps">the Same.</span>
 
 29*th May,* 1820.
 
@@ -1122,9 +1124,9 @@ V. M. <span class="small-caps">Hugo.</span>
 
 ### Letter 54: Victor Hugo → Gaspard de Pons
 
-### III.
+#### III.
 
-### *To* <span class="small-caps">Gaspard de Pons.</span>
+#### *To* <span class="small-caps">Gaspard de Pons.</span>
 
 <span class="small-caps">My</span> friend, I know not what reply  
 To make you for your pleasing lines,  
@@ -1163,9 +1165,9 @@ If my Muse makes me die.
 
 ### Letter 55: Victor Hugo → Adolphe Trébuchet
 
-### IV.
+#### IV.
 
-### *To* <span class="small-caps">Adolphe Trebuchet.</span>
+#### *To* <span class="small-caps">Adolphe Trebuchet.</span>
 
 <span class="small-caps">Paris,</span> 11*th July,* 1820.
 
@@ -1187,9 +1189,9 @@ I had these details from a *noble peer,* who had them from a good authority: you
 
 ### Letter 56: Victor Hugo → Adolphe Trébuchet
 
-### V.
+#### V.
 
-### *To* <span class="small-caps">Adolphe Trebuchet.</span>
+#### *To* <span class="small-caps">Adolphe Trebuchet.</span>
 
 21*st September,* 1820.
 
@@ -1205,9 +1207,9 @@ We are still expecting the destruction or *the salvation of the Monarchy,* viz.,
 
 ### Letter 57: Victor Hugo → Count Alfred de Vigny
 
-### <span class="small-caps">VI.</span>
+#### <span class="small-caps">VI.</span>
 
-### *To* <span class="small-caps">Count Alfred de Vigny</span>, *5th Regiment of the Royal Guards, Rouen.*
+#### *To* <span class="small-caps">Count Alfred de Vigny</span>, *5th Regiment of the Royal Guards,<br />Rouen.*
 
 [1821.]
 
@@ -1233,9 +1235,9 @@ Abel will write to you immediately; he is delighted with your letter. If I go to
 
 ### Letter 58: Victor Hugo → Count Jules de Rességuier
 
-### VII.
+#### VII.
 
-### *To* <span class="small-caps">Count Jules de Rességuier,</span> *Toulouse.*
+#### *To* <span class="small-caps">Count Jules de Rességuier,</span> *Toulouse.*
 
 *July,* 1821.
 
@@ -1249,9 +1251,9 @@ Your devoted servant and colleague,
 
 ### Letter 59: Victor Hugo → Count Alfred de Vigny
 
-### VIII.
+#### VIII.
 
-### *To* <span class="small-caps">Count Alfred de Vigny</span>, *Rouen.*
+#### *To* <span class="small-caps">Count Alfred de Vigny</span>, *Rouen.*
 
 <span class="small-caps">Dreux</span>, 20*th July*, 1821.
 
@@ -1285,9 +1287,9 @@ Your devoted friend,
 
 ### Letter 60: Victor Hugo → M. Trébuchet
 
-### IX.
+#### IX.
 
-### *To* M. <span class="small-caps">Trebuchet</span>, *chief of the Secretariate and of the Archives at the Prefecture, Nantes.*
+#### *To* M. <span class="small-caps">Trebuchet</span>, *chief of the Secretariate and of the Archives at the Prefecture, Nantes.*
 
 31*st October*, 1821.
 
@@ -1309,9 +1311,9 @@ My brothers beg me to send you their affectionate regards. Adolphe, make haste a
 
 ### Letter 61: Victor Hugo → Count Jules de Rességuier
 
-### X.
+#### X.
 
-### *To* <span class="small-caps">Count Jules de Rességuier</span>, *Toulouse.*
+#### *To* <span class="small-caps">Count Jules de Rességuier</span>, *Toulouse.*
 
 *7th November,* 1821.
 
@@ -1333,9 +1335,9 @@ My respectful compliments, if you please, to the Countess.
 
 ### Letter 62: Victor Hugo → Count Jules de Rességuier
 
-### XI.
+#### XI.
 
-### *To* <span class="small-caps">Count Jules de Rességuier,</span> *Toulouse.*
+#### *To* <span class="small-caps">Count Jules de Rességuier,</span> *Toulouse.*
 
 17*th January,* 1822.
 
@@ -1355,9 +1357,9 @@ Your devoted friend, and unworthy colleague and servant,
 
 ### Letter 63: Victor Hugo → Abbé de Lamennais
 
-### XII.
+#### XII.
 
-### *To the* <span class="small-caps">Abbé de Lamennais.</span>
+#### *To the* <span class="small-caps">Abbé de Lamennais.</span>
 
 <span class="small-caps">Paris,</span> 17*th May,* [1822]
 
@@ -1379,9 +1381,9 @@ Pray tell me how the third volume of your admirable work is progressing.[^fn-p01
 
 ### Letter 64: Victor Hugo → Count Jules de Rességuier
 
-### XIII.
+#### XIII.
 
-### *To* <span class="small-caps">Count Jules de Rességuier</span>, *Lombez (Gers).*
+#### *To* <span class="small-caps">Count Jules de Rességuier</span>, *Lombez (Gers).*
 
 <span class="small-caps">Paris</span>, 26*th May*, [1822].
 
@@ -1397,9 +1399,9 @@ V. M. H.
 
 ### Letter 65: Victor Hugo → Adolphe Trébuchet
 
-### XIV.
+#### XIV.
 
-### *To* <span class="small-caps">Adolphe Trebuchet</span>, *Nantes.*
+#### *To* <span class="small-caps">Adolphe Trebuchet</span>, *Nantes.*
 
 *3d September,* 1822.
 
@@ -1419,9 +1421,9 @@ Farewell; my brothers send you their love, as I do. Give a thought, sometimes, t
 
 ### Letter 66: Victor Hugo → Count Jules de Rességuier
 
-### XV.
+#### XV.
 
-### *To* <span class="small-caps">Count Jules de Rességuier</span>, *Toulouse.*
+#### *To* <span class="small-caps">Count Jules de Rességuier</span>, *Toulouse.*
 
 <span class="small-caps">Paris</span>, *6th September*, 1822.
 
@@ -1437,9 +1439,9 @@ Soumet is going to have his plays acted almost simultaneously at both theatres, 
 
 ### Letter 67: Victor Hugo → Adolphe Trébuchet
 
-### XVI.
+#### XVI.
 
-### *To* <span class="small-caps">Adolphe Trebuchet</span>, *Nantes.*
+#### *To* <span class="small-caps">Adolphe Trebuchet</span>, *Nantes.*
 
 *22d August,* 1823.
 
@@ -1457,9 +1459,9 @@ Eugène's physical health is good, but as to the state of his mind. . . . Still,
 
 ### Letter 68: Victor Hugo → Monsieur Z.
 
-### XVII.
+#### XVII.
 
-### *To* <span class="small-caps">Monsieur</span> *Z., editor of the Journal des Débats.*
+#### *To* <span class="small-caps">Monsieur</span> *Z., editor of the Journal des Débats.*
 
 [1824].
 
@@ -1477,9 +1479,9 @@ V. H.
 
 ### Letter 69: Victor Hugo → Baron Eckstein
 
-### XVIII.
+#### XVIII.
 
-### *To* <span class="small-caps">Baron Eckstein.</span>
+#### *To* <span class="small-caps">Baron Eckstein.</span>
 
 *Sunday, 28th November,* 1824.
 
@@ -1497,9 +1499,9 @@ Farewell, dear sir; my wife is much pleased at your remembering her, and shares 
 
 ### Letter 70: Victor Hugo → Count Alfred de Vigny
 
-### XIX.
+#### XIX.
 
-### *To* <span class="small-caps">Count Alfred de Vigny,</span> *Pau.*
+#### *To* <span class="small-caps">Count Alfred de Vigny,</span> *Pau.*
 
 29*th December,* 1824.
 
@@ -1519,9 +1521,9 @@ But this is only a fanciful danger for you; your talent is proof against everyth
 
 ### Letter 71: Victor Hugo → Count Alfred de Vigny
 
-### XX.
+#### XX.
 
-### *To* <span class="small-caps">Count Alfred de Vigny</span>, *Rue Richepanse, Paris.*
+#### *To* <span class="small-caps">Count Alfred de Vigny</span>, *Rue Richepanse, Paris.*
 
 <span class="small-caps">Blois</span>, 28*th April*, 1825.
 
@@ -1547,9 +1549,9 @@ My respectful compliments to your mother.
 
 ### Letter 72: Victor Hugo → Baron Eckstein
 
-### XXI.
+#### XXI.
 
-### *To* <span class="small-caps">Baron Eckstein.</span>
+#### *To* <span class="small-caps">Baron Eckstein.</span>
 
 <span class="small-caps">Blois</span>, 29*th April*, 1825.
 
@@ -1569,16 +1571,18 @@ I should be delighted if you could find time to devote to M. Rabbe's work one of
 
 ### Letter 73: Victor Hugo → Adolphe de Saint Valry
 
-### XXII.
+#### XXII.
 
-### *To* <span class="small-caps">Adolphe de Saint Valry.</span>
+#### *To* <span class="small-caps">Adolphe de Saint Valry.</span>
 
 <span class="small-caps">Blois</span>, *7th May*, 1825.
 
 Yes, my friend, from this historic and picturesque town I shall often look towards Paris and Montfort, and the castle at Blois will not make me forget Saint-Laurent. I spent a delightful time there in August, 1821, and your kind mother made me almost forget for the space of a week the admirable mother I had just lost. Thank you for the news you give me. I am very pleased that good Jules Lefèvre owes the sale of his *Clocher de Saint Marc* to your efforts. He has real ability, and all it wants is a success. You have no lack of all this, my dear friend, and you are wrong to despair about yourself; your poem must and shall be sold. The public is always quick to recognize real talent. I am told here that it is said in Paris that I have abjured my literary heresies, like our great poet Soumet. Contradict this flatly wherever you may be; you will be doing me a service. I went to see Chambord yesterday. You cannot imagine how singularly beautiful it is. Every enchantment, every kind of poetry, every folly, even, is represented in the admirable quaintness of this palace of knights and fairies. I cut my name on the top of the highest tower; I took away a little stone and moss from it, and a piece of the framework of the window on which Francis I. wrote the two lines:—
 
-“ Souvent femme varie,  
-Bien fol qui s’y fie ! ”
+> **[verse_insert]**
+>
+> “ Souvent femme varie,  
+> Bien fol qui s’y fie ! ”
 
 I value these two relics highly. Farewell, my friend; you know that the King has invited me to his Coronation. I shall be in Paris about the 20th, and shall see you there. The friendship of a man like you is delightful and invaluable.
 
@@ -1586,9 +1590,9 @@ I value these two relics highly. Farewell, my friend; you know that the King has
 
 ### Letter 74: Victor Hugo → Paul Foucher
 
-### XXIII.
+#### XXIII.
 
-### *To* <span class="small-caps">Paul Foucher.</span>
+#### *To* <span class="small-caps">Paul Foucher.</span>
 
 <span class="small-caps">La Miltière,</span> *9th or* 10*th of May,* [1825].
 
@@ -1604,9 +1608,9 @@ Farewell, my dear Paul; best love to your good father and mother from Adèle and
 
 ### Letter 75: Victor Hugo → M. Villars
 
-### XXIV.
+#### XXIV.
 
-### *To* M. <span class="small-caps">Villars</span>, *Member of the French Academy.*
+#### *To* M. <span class="small-caps">Villars</span>, *Member of the French Academy.*
 
 *Sunday, 14th November*, [1825].
 
@@ -1618,9 +1622,9 @@ I shall be happy and pleased at having drawn M. Villars' attention to M. de Lama
 
 ### Letter 76: Victor Hugo → Alphonse de Lamartine
 
-### XXV.
+#### XXV.
 
-### *To* <span class="small-caps">Lamartine.</span>
+#### *To* <span class="small-caps">Lamartine.</span>
 
 <span class="small-caps">Paris,</span> 25*th May,* 1826.
 
@@ -1638,9 +1642,9 @@ My wife begs to be kindly remembered to Mme. de Lamartine. Kindest regards from 
 
 ### Letter 77: Victor Hugo → Henri de Latouche
 
-### XXVI.
+#### XXVI.
 
-### *To* <span class="small-caps">Henri de Latouche.</span>
+#### *To* <span class="small-caps">Henri de Latouche.</span>
 
 *3d August,* 1826.
 
@@ -1652,9 +1656,9 @@ I know no one on the staff of the *Drapeau blanc.* The only Z. I know is the per
 
 ### Letter 78: Victor Hugo → Victor Pavie
 
-### XXVII.
+#### XXVII.
 
-### *To* <span class="small-caps">Monsieur</span> V. P., *one of the editors of the Feuilleton des Affiches, at the office of that publication, care of M. Pavie, Royal Printer, Angers.*
+#### *To* <span class="small-caps">Monsieur</span> V. P., *one of the editors of the Feuilleton des Affiches, at the office of that publication, care of M. Pavie, Royal Printer, Angers.*
 
 13*th December,* 1826.
 
@@ -1672,9 +1676,9 @@ Your friend,
 
 ### Letter 79: Victor Hugo → Victor Pavie
 
-### XXVIII.
+#### XXVIII.
 
-### *To* <span class="small-caps">Victor Pavie.</span>
+#### *To* <span class="small-caps">Victor Pavie.</span>
 
 <span class="small-caps">Paris,</span> *3d January,* 1827.
 
@@ -1696,9 +1700,9 @@ Just as I am closing this letter I receive the Angers *Feuilleton*, in which I r
 
 ### Letter 80: Victor Hugo → Louis Pavie
 
-### XXIX.
+#### XXIX.
 
-### *To* <span class="small-caps">Louis Pavie.</span>[^fn-p0122-1]
+#### *To* <span class="small-caps">Louis Pavie.</span>[^fn-p0122-1]
 
 <span class="small-caps">Paris</span>, 15*th January*, 1827.
 
@@ -1714,9 +1718,9 @@ Farewell, dear sir; accept once more the expression of the gratitude and high es
 
 ### Letter 81: Victor Hugo → Victor Pavie
 
-### XXX.
+#### XXX.
 
-### *To* <span class="small-caps">Victor Pavie.</span>
+#### *To* <span class="small-caps">Victor Pavie.</span>
 
 <span class="small-caps">Paris,</span> *7th February,* 1827.
 
@@ -1736,9 +1740,9 @@ Pray remember me to your father, and do not frank your letters to me; none of my
 
 ### Letter 82: Victor Hugo → Victor Pavie
 
-### XXXI.
+#### XXXI.
 
-### *To* <span class="small-caps">the Same.</span>
+#### *To* <span class="small-caps">the Same.</span>
 
 <span class="small-caps">Paris</span>, 17*th March*, 1827.
 
@@ -1748,7 +1752,9 @@ And you have written me a charming letter, which would have made up to me for th
 
 I have told my publisher to send you that *Ode à la Colonne*, the whole of which is not equal to the single line—
 
-C’était une feuille d’automne.
+> **[verse_insert]**
+>
+> C’était une feuille d’automne.
 
 Farewell! You promise to write to me often. Pray do not fail to do so. Your friendship, your poetry, makes me feel young again. Your letters are already more than a pleasure to me.
 
@@ -1756,9 +1762,9 @@ Farewell! You promise to write to me often. Pray do not fail to do so. Your frie
 
 ### Letter 83: Victor Hugo → Victor Pavie
 
-### XXXII.
+#### XXXII.
 
-### *To* <span class="small-caps">Victor Pavie.</span>
+#### *To* <span class="small-caps">Victor Pavie.</span>
 
 20*th May,* 1827.
 
@@ -1776,9 +1782,9 @@ V. H.
 
 ### Letter 84: Victor Hugo → Louis Pavie
 
-### XXXIII.
+#### XXXIII.
 
-### *To* <span class="small-caps">Louis Pavie.</span>
+#### *To* <span class="small-caps">Louis Pavie.</span>
 
 *26th May,* 1827.
 
@@ -1796,9 +1802,9 @@ Very sincerely yours,
 
 ### Letter 85: Victor Hugo → Victor Pavie
 
-### XXXIV.
+#### XXXIV.
 
-### *To* <span class="small-caps">Victor Pavie.</span>
+#### *To* <span class="small-caps">Victor Pavie.</span>
 
 <span class="small-caps">Paris,</span> 24*th September,* 1827.
 
@@ -1822,9 +1828,9 @@ Your elder brother,                    <span class="small-caps">Victor.</span>
 
 ### Letter 86: Victor Hugo → Victor Pavie
 
-### XXXV.
+#### XXXV.
 
-### *To* <span class="small-caps">the Same.</span>
+#### *To* <span class="small-caps">the Same.</span>
 
 *5th January,* 1828.
 
@@ -1840,9 +1846,9 @@ V. <span class="small-caps">Hugo.</span>
 
 ### Letter 87: Victor Hugo → Victor Pavie
 
-### XXXVI.
+#### XXXVI.
 
-### *To* <span class="small-caps">Victor Pavie.</span>
+#### *To* <span class="small-caps">Victor Pavie.</span>
 
 *23d January,* 1828.
 
@@ -1858,9 +1864,9 @@ Forgive this scribble. You know that our friend David is quite well now, that he
 
 ### Letter 88: Victor Hugo → Victor Pavie
 
-### XXXVII.
+#### XXXVII.
 
-### *To* <span class="small-caps">the Same</span>.
+#### *To* <span class="small-caps">the Same</span>.
 
 <span class="small-caps">Paris</span>, 29*th February*, [1828].
 
@@ -1876,9 +1882,9 @@ Your *brother*,
 
 ### Letter 89: Victor Hugo → Victor Pavie
 
-### XXXVIII.
+#### XXXVIII.
 
-### *To* <span class="small-caps">Victor Pavie.</span>
+#### *To* <span class="small-caps">Victor Pavie.</span>
 
 <span class="small-caps">Paris,</span> 17*th July,* 1828.
 
@@ -1896,9 +1902,9 @@ Sainte-Beuve has just published his book, which is first-rate. Boulanger is goin
 
 ### Letter 90: Victor Hugo → David d'Angers
 
-### XXXIX.
+#### XXXIX.
 
-### *To* <span class="small-caps">David d'Angers.</span>
+#### *To* <span class="small-caps">David d'Angers.</span>
 
 <span class="small-caps">Paris</span>, *Saturday Morning*, . . . [1828].
 
@@ -1910,9 +1916,9 @@ P. S.—My wife hopes that her ailment will have disappeared by Monday.
 
 ### Letter 91: Victor Hugo → David d'Angers
 
-### XL.
+#### XL.
 
-### *To* <span class="small-caps">the Same.</span>
+#### *To* <span class="small-caps">the Same.</span>
 
 17*th October*, 1828.
 
@@ -1926,9 +1932,9 @@ I open my letter to thank you a thousand times, as many times as it is admirable
 
 ### Letter 92: Victor Hugo → David d'Angers
 
-### XLI.
+#### XLI.
 
-### *To* <span class="small-caps">David d'Angers.</span>
+#### *To* <span class="small-caps">David d'Angers.</span>
 
 *1st November,* 1828.
 
@@ -1940,9 +1946,9 @@ Yours with all my heart,
 
 ### Letter 93: Victor Hugo → Baron Taylor
 
-### XLII.
+#### XLII.
 
-### *To* <span class="small-caps">Baron Taylor.</span>
+#### *To* <span class="small-caps">Baron Taylor.</span>
 
 *Saturday the* 13*th,* . . . [1828].
 
@@ -1962,9 +1968,9 @@ Always most sincerely yours,
 
 ### Letter 94: Victor Hugo → Baron Taylor
 
-### XLIII.
+#### XLIII.
 
-### *To* <span class="small-caps">the Same.</span>
+#### *To* <span class="small-caps">the Same.</span>
 
 3*d April,* 1829.
 
@@ -1980,9 +1986,9 @@ V. H.
 
 ### Letter 95: Victor Hugo → Minister of the Interior
 
-### XLIV.
+#### XLIV.
 
-### *To* <span class="small-caps">His Excellency the Minister of the Interior,</span> *at his residence, Rue de Grenelle.*
+#### *To* <span class="small-caps">His Excellency the Minister of the Interior,</span> *at his residence, Rue de Grenelle.*
 
 *2d August,* 1829.
 
@@ -1994,9 +2000,9 @@ I remain, my Lord, with great respect, Your Excellency's most obedient, humble s
 
 ### Letter 96: Victor Hugo → M. de la Bourdonnaye
 
-### XLV.
+#### XLV.
 
-### *To* M. <span class="small-caps">de la Bourdonnaye,</span> *Minister of the Interior.*
+#### *To* M. <span class="small-caps">de la Bourdonnaye,</span> *Minister of the Interior.*
 
 <span class="small-caps">Paris,</span> 14*th August,* 1829.
 
@@ -2020,9 +2026,9 @@ I have the honor to be, my Lord, your Excellency's most obedient, humble servant
 
 ### Letter 97: Victor Hugo → Baron Taylor
 
-### XLVI.
+#### XLVI.
 
-### *To* <span class="small-caps">Baron Taylor.</span>
+#### *To* <span class="small-caps">Baron Taylor.</span>
 
 *Thursday, 23d August,* 1829.
 
@@ -2032,9 +2038,9 @@ I have seen M. de la Bourdonnaye this morning. The play will decidedly be stoppe
 
 ### Letter 98: Victor Hugo → Charles Nodier
 
-### XLVII.
+#### XLVII.
 
-### *To* <span class="small-caps">Charles Nodier.</span>
+#### *To* <span class="small-caps">Charles Nodier.</span>
 
 *2d November,* 1829.
 
@@ -2062,9 +2068,9 @@ After all, I am not vexed with you; tear up this letter, and think no more about
 
 ### Letter 99: Victor Hugo → Baron Taylor
 
-### XLVIII.
+#### XLVIII.
 
-### *To* <span class="small-caps">Baron Taylor.</span>
+#### *To* <span class="small-caps">Baron Taylor.</span>
 
 *3d November*, 1829.
 
@@ -2076,9 +2082,9 @@ V. H.
 
 ### Letter 100: Victor Hugo → M. de Saint-Valry
 
-### XLIX.
+#### XLIX.
 
-### *To* M. <span class="small-caps">de Saint-Valry.</span>
+#### *To* M. <span class="small-caps">de Saint-Valry.</span>
 
 <span class="small-caps">Paris,</span> 18*th December,* 1829.
 
@@ -2088,9 +2094,9 @@ How kind it is of you, my friend, to still think a little about me, who seem to 
 
 ### Letter 101: Victor Hugo → Minister of the Interior
 
-### L.
+#### L.
 
-### *To* <span class="small-caps">His Excellency the Minister of the Interior.</span>
+#### *To* <span class="small-caps">His Excellency the Minister of the Interior.</span>
 
 *5th January,* 1830.
 
@@ -2130,9 +2136,9 @@ I beg His Excellency to accept the assurance of the profound respect with which 
 
 ### Letter 102: Victor Hugo → Paul Lacroix
 
-### LI.
+#### LI.
 
-### *To* <span class="small-caps">Paul Lacroix.</span>
+#### *To* <span class="small-caps">Paul Lacroix.</span>
 
 *27th February,* 1830. *Midnight.*[^fn-p0147-1]
 
@@ -2152,9 +2158,9 @@ My respectful compliments to Mme. Lacroix.
 
 ### Letter 103: Victor Hugo → Armand Carrel
 
-### LII.
+#### LII.
 
-### *To* <span class="small-caps">Armand Carrel.</span>
+#### *To* <span class="small-caps">Armand Carrel.</span>
 
 15*th March,* 1830.
 
@@ -2172,7 +2178,7 @@ As for *Hernani*, we have got far beyond it now, far above it, as it seems to me
 
 ### Letter 104
 
-### LIII.
+#### LIII.
 
 <span class="small-caps">Sir</span>, — I have only seen to-day by chance your article of yesterday about me.
 
@@ -2186,9 +2192,9 @@ You censure me for having said I was pressed for time, because, according to you
 
 ### Letter 105: Victor Hugo → Abel Desjardins / Lacan / Duberthier / Doudeau / Méchain
 
-### LIV.
+#### LIV.
 
-### *To* MM. <span class="small-caps">Abel Desjardins, Lacan, Duberthier, Doudeau, Méchain</span>, *law students.*
+#### *To* MM. <span class="small-caps">Abel Desjardins, Lacan, Duberthier, Doudeau, Méchain</span>, *law students.*
 
 With the greatest pleasure, gentlemen, — all young hearts are generous. They must decide between me and my enemies. I place myself unreservedly in your hands.
 
@@ -2200,9 +2206,9 @@ With the greatest pleasure, gentlemen, — all young hearts are generous. They m
 
 ### Letter 106: Victor Hugo → Charles Nodier
 
-### LV.
+#### LV.
 
-### *To* <span class="small-caps">Charles Nodier.</span>
+#### *To* <span class="small-caps">Charles Nodier.</span>
 
 28*th July,* 1830. *Morning.*
 
@@ -2216,9 +2222,9 @@ Farewell, my friend; I hope to see you soon. I am delighted with my little daugh
 
 ### Letter 107: Victor Hugo → Charles Nodier
 
-### LVI.
+#### LVI.
 
-### *To* <span class="small-caps">the Same.</span>
+#### *To* <span class="small-caps">the Same.</span>
 
 4*th August,* [1830 ? [^fn-p0153-1]].
 
@@ -2232,9 +2238,9 @@ Yours ever,
 
 ### Letter 108: Victor Hugo → Adolphe de Saint-Valry
 
-### LVII.
+#### LVII.
 
-### *To* <span class="small-caps">Adolphe de Saint-Valry.</span>
+#### *To* <span class="small-caps">Adolphe de Saint-Valry.</span>
 
 <span class="small-caps">Paris,</span> 7*th August,* 1830.
 
@@ -2244,9 +2250,9 @@ Thanks, my dear friend, for your kind and friendly letter. That is how we ought 
 
 ### Letter 109: Victor Hugo → Alphonse de Lamartine
 
-### LVIII.
+#### LVIII.
 
-### *To* <span class="small-caps">Alphonse de Lamartine</span>, *at his Country-seat of Saint-Point near Mâcon.*
+#### *To* <span class="small-caps">Alphonse de Lamartine</span>, *at his Country-seat of Saint-Point near Mâcon.*
 
 <span class="small-caps">Paris</span>, *7th September*, 1830.
 
@@ -2266,9 +2272,9 @@ My compliments to Mme. de Lamartine.
 
 ### Letter 110: Victor Hugo → Victor Pavie
 
-### LIX.
+#### LIX.
 
-### *To* <span class="small-caps">Victor Pavie.</span>
+#### *To* <span class="small-caps">Victor Pavie.</span>
 
 17*th September,* 1830.
 
@@ -2286,9 +2292,9 @@ My love to you and yours.
 
 ### Letter 111: Victor Hugo → M. Froidefond des Forges
 
-### LX.
+#### LX.
 
-### *To* M. <span class="small-caps">Froidefond des Forges</span>, *commanding the 4th battalion of the 1st Legion of the National Guard in Paris.*
+#### *To* M. <span class="small-caps">Froidefond des Forges</span>, *commanding the 4th battalion<br />of the 1st Legion of the National Guard in Paris.*
 
 <span class="small-caps">Paris</span>, *7th October*, 1830.
 
@@ -2324,9 +2330,9 @@ to the Council of Discipline.*
 
 ### Letter 112: Victor Hugo → Mme. Benjamin Constant
 
-### <span class="small-caps">LXI.</span>
+#### <span class="small-caps">LXI.</span>
 
-### *To* <span class="small-caps">Mme. Benjamin Constant.</span>
+#### *To* <span class="small-caps">Mme. Benjamin Constant.</span>
 
 *8th November,* 1830.
 
@@ -2342,9 +2348,9 @@ I have the honor to be, madame, with deep respect, your very humble servant,
 
 ### Letter 113: Victor Hugo → Mlle. Mars
 
-### LXII.
+#### LXII.
 
-### *To* <span class="small-caps">Mlle. Mars</span>, *Rue Saint-Lazare.*
+#### *To* <span class="small-caps">Mlle. Mars</span>, *Rue Saint-Lazare.*
 
 *6th January*, 1831.
 
@@ -2358,9 +2364,9 @@ I hope to go and see you very soon. The first visit I pay will be to you. Just n
 
 ### Letter 114: Victor Hugo → Victor Pavie
 
-### LXIII.
+#### LXIII.
 
-### *To* <span class="small-caps">Victor Pavie</span>, 60 *or* 64 *Rue Saint-André-des-Arcs.*
+#### *To* <span class="small-caps">Victor Pavie</span>, 60 *or* 64 *Rue Saint-André-des-Arcs.*
 
 *25th February,* 1831.
 
@@ -2376,9 +2382,9 @@ V. H.
 
 ### Letter 115: Victor Hugo → Mme. Menessier Nodier
 
-### LXIV.
+#### LXIV.
 
-### *To* <span class="small-caps">Mme. Menessier Nodier</span>, *Metz.*
+#### *To* <span class="small-caps">Mme. Menessier Nodier</span>, *Metz.*
 
 *Sunday, 5th September,* 1831.
 
@@ -2401,9 +2407,9 @@ I hate Metz!
 
 ### Letter 116: Victor Hugo → King Joseph
 
-### LXV.
+#### LXV.
 
-### *To* <span class="small-caps">King Joseph.</span>
+#### *To* <span class="small-caps">King Joseph.</span>
 
 <span class="small-caps">Paris,</span> *6th September,* 1831.
 
@@ -2431,15 +2437,17 @@ I am, with deep respect, Your Majesty's most humble servant,
 
 ### Letter 117: Victor → Cordellier-Delanoue
 
-### LXVI.
+#### LXVI.
 
-### *To* <span class="small-caps">Cordellier-Delanoue.</span>
+#### *To* <span class="small-caps">Cordellier-Delanoue.</span>
 
 *Sunday, 27th September,* [1831].
 
 It is I, my dear, good friend, who at once abandon the idea of *Louis XVI.,*[^fn-p0166-1]— at any rate, until after the performance of *Strafford.* You may depend on this. There, my dear friend, the pleasure which I feel in making this sacrifice for you outweighs the sacrifice, if there is any sacrifice in it. If I can hit upon any other contrivance, such as mentioning Bonaparte at the very beginning of the play, and giving up the effect of the name thrown in at the end, I will submit it to you as between friends, *ut decet.* And, in any case, I repeat, Louis XVI. will only be performed when you wish, and not at all if you so desire it. I now remember perfectly well that you told me about your idea, and I agree that mine has a great resemblance to it. You have a prior right then. It is the first time, I can honestly say, that I detect myself in the very act of plagiarism. This distresses me. Is it possible that the Archbishop of Granada is already departing from his high principles? Besides, your line is sublime, and contains an idea which is the finest of all, and which I have not —
 
-. . . Charles premier, je me nomme Cromwell.
+> **[verse_insert]**
+>
+> . . . Charles premier, je me nomme Cromwell.
 
 There is nothing so grand as this in my piece. Bonaparte does not say the line to Louis XVI., and Bonaparte is not the regicide of Louis XVI.
 
@@ -2451,9 +2459,9 @@ Yours fraternally,
 
 ### Letter 118: Victor → Cordellier-Delanoue
 
-### LXVII.
+#### LXVII.
 
-### *To* <span class="small-caps">the Same.</span>
+#### *To* <span class="small-caps">the Same.</span>
 
 *30th September,* [1831].
 
@@ -2463,9 +2471,9 @@ I thank you, my dear Delanoue, for your generous and warm-hearted letter, as one
 
 ### Letter 119: Victor → Baron Taylor
 
-### LXVIII.
+#### LXVIII.
 
-### *To* <span class="small-caps">Baron Taylor.</span>
+#### *To* <span class="small-caps">Baron Taylor.</span>
 
 *Thursday, 7th September,* [1832].
 
@@ -2479,37 +2487,40 @@ Does Mlle. Mars accept? Does Monrose wish for a part? In case Mlle. Mars fails m
 
 It is very desirable that M. Ciceri and the costume designer should be at the theatre on the day of the reading, so that I can speak to them.
 
-**PROPOSED DISTRIBUTION OF PARTS.**
-
-| <span class="small-caps">François</span> I<sup>er</sup>. | M. <span class="small-caps">Bocage.</span> |
-| --- | --- |
-| <span class="small-caps">Triboulet</span> | M. <span class="small-caps">Ligier.</span> |
-| <span class="small-caps">Blanche</span> | <span class="small-caps">Mlle. Mars</span> or <span class="small-caps">Anaïs.</span> |
-| M. <span class="small-caps">de Saint-Vallier</span> | M. <span class="small-caps">Joanny.</span> |
-| <span class="small-caps">Saltabadil</span> | M. <span class="small-caps">Monrose</span> or <span class="small-caps">Beauvallet.</span> |
-| <span class="small-caps">Maguelonne</span> | <span class="small-caps">Mlle. Dupont.</span> |
-| <span class="small-caps">Clément Marot</span> | M. <span class="small-caps">Samson.</span> |
-| M. <span class="small-caps">de Pienne</span> | M. <span class="small-caps">Geffroy.</span> |
-| M. <span class="small-caps">de Pardaillan</span> (*page*) | <span class="small-caps">Mme. Menjaud.</span> |
-
-- M. <span class="small-caps">de Cossé</span>. . . . . M. <span class="small-caps">Duparay</span>.  
-  Mme. <span class="small-caps">de Cossé</span> . . . . Mme. <span class="small-caps">Masson</span>.  
-  M. <span class="small-caps">de Gordes</span> . . . . M. <span class="small-caps">Marius</span>.  
-  M. <span class="small-caps">de Vic</span> . . . . . M. <span class="small-caps">Bouchet</span>.  
-  M. <span class="small-caps">de la Tour Landry</span> . M. <span class="small-caps">Mirecour</span>.  
-  MM. <span class="small-caps">de Montchenu, de Brion, and de Montmorency</span>. } { M. <span class="small-caps">Regnier</span>. M. <span class="small-caps">Albert</span>. M. <span class="small-caps">Montlaur</span>.  
-  <span class="small-caps">Dame Bérarde</span> . . . Mme. <span class="small-caps">Tousez</span>.  
-  A <span class="small-caps">Woman of the People</span> . Mlle. <span class="small-caps">Petit</span>.  
-  A <span class="small-caps">Doctor</span> . . . . . M. <span class="small-caps">Dumilatre</span>.
-<span class="small-caps">Victor Hugo.</span>
+> **[enclosure: PROPOSED DISTRIBUTION OF PARTS.]**
+>
+> **PROPOSED DISTRIBUTION OF PARTS.**
+>
+> |  |  |
+> | --- | --- |
+> | <span class="small-caps">François</span> Ier. . . . . M. <span class="small-caps">Bocage.</span> |  |
+> | <span class="small-caps">Triboulet</span> | M. <span class="small-caps">Ligier.</span> |
+> | <span class="small-caps">Blanche</span> | <span class="small-caps">Mlle. Mars</span> or <span class="small-caps">Anaïs.</span> |
+> | M. <span class="small-caps">de Saint-Vallier</span> | M. <span class="small-caps">Joanny.</span> |
+> | <span class="small-caps">Saltabadil</span> | M. <span class="small-caps">Monrose</span> or <span class="small-caps">Beauvallet.</span> |
+> | <span class="small-caps">Maguelonne</span> | <span class="small-caps">Mlle. Dupont.</span> |
+> | <span class="small-caps">Clément Marot</span> | M. <span class="small-caps">Samson.</span> |
+> | M. <span class="small-caps">de Pienne</span> | M. <span class="small-caps">Geffroy.</span> |
+> | M. <span class="small-caps">de Pardaillan</span> (*page*) | <span class="small-caps">Mme. Menjaud.</span> |
+>
+> - M. <span class="small-caps">de Cossé</span>. . . . . M. <span class="small-caps">Duparay</span>.  
+>   Mme. <span class="small-caps">de Cossé</span> . . . . Mme. <span class="small-caps">Masson</span>.  
+>   M. <span class="small-caps">de Gordes</span> . . . . M. <span class="small-caps">Marius</span>.  
+>   M. <span class="small-caps">de Vic</span> . . . . . M. <span class="small-caps">Bouchet</span>.  
+>   M. <span class="small-caps">de la Tour Landry</span> . M. <span class="small-caps">Mirecour</span>.  
+>   MM. <span class="small-caps">de Montchenu, de Brion, and de Montmorency</span>. } { M. <span class="small-caps">Regnier</span>. M. <span class="small-caps">Albert</span>. M. <span class="small-caps">Montlaur</span>.  
+>   <span class="small-caps">Dame Bérarde</span> . . . Mme. <span class="small-caps">Tousez</span>.  
+>   A <span class="small-caps">Woman of the People</span> . Mlle. <span class="small-caps">Petit</span>.  
+>   A <span class="small-caps">Doctor</span> . . . . . M. <span class="small-caps">Dumilatre</span>.
+> <span class="small-caps">Victor Hugo.</span>
 
 You see I need your advice for these secondary parts, which, however, can be distributed later without any inconvenience.
 
 ### Letter 120: Victor Hugo → Mlle. Louise Bertin
 
-### LXIX.
+#### LXIX.
 
-### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
+#### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
 
 *Monday, 22d October*, 1832.
 
@@ -2531,9 +2542,9 @@ I will have a search made for your knife, but Didine declares she is sure she di
 
 ### Letter 121: Victor → Mlle. Louise Bertin
 
-### LXX.
+#### LXX.
 
-### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
+#### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
 
 <span class="small-caps">Paris,</span> 30*th October*, 1832.
 
@@ -2551,9 +2562,9 @@ Your respectful and devoted *collaborateur,*
 
 ### Letter 122: Victor Hugo → Editor of the Constitutionnel
 
-### <span class="small-caps">LXXI.</span>
+#### <span class="small-caps">LXXI.</span>
 
-### *To* <span class="small-caps">the Editor of the Constitutionnel.</span>
+#### *To* <span class="small-caps">the Editor of the Constitutionnel.</span>
 
 <span class="small-caps">Paris,</span> 26*th November,* 1832.[^fn-p0172-1]
 
@@ -2565,9 +2576,9 @@ Accept, dear sir, the assurance of my distinguished consideration.
 
 ### Letter 123: Victor Hugo → Mlle. Louise Bertin
 
-### <span class="small-caps">LXXII.</span>
+#### <span class="small-caps">LXXII.</span>
 
-### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
+#### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
 
 27*th November,* 1832.
 
@@ -2583,9 +2594,9 @@ Yours with the deepest respect and devotion,
 
 ### Letter 124: Victor H. → M. Eugène Renduel
 
-### LXXIII.
+#### LXXIII.
 
-### *To* M. <span class="small-caps">Eugène Renduel.</span>
+#### *To* M. <span class="small-caps">Eugène Renduel.</span>
 
 [*December*, 1832.]
 
@@ -2599,9 +2610,9 @@ Yours most sincerely,
 
 ### Letter 125: M. Mérimée
 
-### LXXIV.
+#### LXXIV.
 
-### *To* M. <span class="small-caps">Mérimée</span>, *Secretary to M. le Comte d'Argout.*
+#### *To* M. <span class="small-caps">Mérimée</span>, *Secretary to M. le Comte d'Argout.*
 
 [*December*, 1832.]
 
@@ -2611,9 +2622,9 @@ I hope that my conduct on this occasion will prove to you that nothing, so far a
 
 ### Letter 126: Victor Hugo → Baron Taylor
 
-### LXXV.
+#### LXXV.
 
-### *To* <span class="small-caps">Baron Taylor.</span>
+#### *To* <span class="small-caps">Baron Taylor.</span>
 
 *3d December,* [1832].
 
@@ -2625,9 +2636,9 @@ Yours sincerely,
 
 ### Letter 127: Victor H. → Mlle. Louise Bertin
 
-### LXXXVI.
+#### LXXXVI.
 
-### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
+#### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
 
 *Sunday evening,* 29*th* [*December, *1832].
 
@@ -2653,9 +2664,9 @@ Permit me to add to it the fresh assurance of an old, deep, respectful, and devo
 
 ### Letter 128: Mlle. Louise Bertin
 
-### LXXVII.
+#### LXXVII.
 
-### *To* <span class="small-caps">the Same.</span>
+#### *To* <span class="small-caps">the Same.</span>
 
 15*th February,* 1833.
 
@@ -2673,9 +2684,9 @@ Good-by for the present, mademoiselle.
 
 ### Letter 129: V. H. → King Joseph
 
-### LXXVIII.
+#### LXXVIII.
 
-### *To* <span class="small-caps">King Joseph.</span>
+#### *To* <span class="small-caps">King Joseph.</span>
 
 <span class="small-caps">Paris</span>, *27th February*, 1833.
 
@@ -2685,9 +2696,9 @@ V. H.
 
 ### Letter 130: Victor Hugo → Jouslin de la Salle
 
-### LXXIX.
+#### LXXIX.
 
-### *To* <span class="small-caps">Jouslin de la Salle</span>, *Royal Commissioner at the Théâtre Français.*
+#### *To* <span class="small-caps">Jouslin de la Salle</span>, *Royal Commissioner at the Théâtre Français.*
 
 *21st March,* 1833.
 
@@ -2699,9 +2710,9 @@ Pray accept the assurance of my distinguished consideration.
 
 ### Letter 131: Victor H. → Victor Pavie
 
-### LXXX.
+#### LXXX.
 
-### *To* <span class="small-caps">Victor Pavie.</span>
+#### *To* <span class="small-caps">Victor Pavie.</span>
 
 <span class="small-caps">Paris</span>, 31*st March,* 1833.
 
@@ -2721,9 +2732,9 @@ I love and embrace you.
 
 ### Letter 132: V. H. → M. Harel
 
-### LXXXI.
+#### LXXXI.
 
-### *To* M. <span class="small-caps">Harel</span>, *Manager of the Porte Saint-Martin Theatre.*
+#### *To* M. <span class="small-caps">Harel</span>, *Manager of the Porte Saint-Martin Theatre.*
 
 1*st May*, 7 <span class="small-caps">a. m.</span>, [1833].
 
@@ -2735,9 +2746,9 @@ V. H.
 
 ### Letter 133: Victor H. → Mlle. Louise Bertin
 
-### LXXXII.
+#### LXXXII.
 
-### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
+#### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
 
 14*th July*, 1833.
 
@@ -2757,9 +2768,9 @@ Farewell, mademoiselle.
 
 ### Letter 134: V. H. → Victor Pavie
 
-### LXXXIII.
+#### LXXXIII.
 
-### *To* <span class="small-caps">Victor Pavie.</span>
+#### *To* <span class="small-caps">Victor Pavie.</span>
 
 <span class="small-caps">Paris,</span> 25*th July,* [1833].
 
@@ -2783,9 +2794,9 @@ V. H.
 
 ### Letter 135: Victor Hugo → David d'Angers
 
-### LXXXIV.
+#### LXXXIV.
 
-### *To* <span class="small-caps">David d'Angers.</span>
+#### *To* <span class="small-caps">David d'Angers.</span>
 
 <span class="small-caps">Paris,</span> *3d August,* 1833.
 
@@ -2799,9 +2810,9 @@ Yours sincerely,
 
 ### Letter 136: Victor Hugo → Alexandre Dumas
 
-### LXXXV.
+#### LXXXV.
 
-### *To* <span class="small-caps">Alexandre Dumas.</span>
+#### *To* <span class="small-caps">Alexandre Dumas.</span>
 
 *2d November,* [1833].
 
@@ -2819,9 +2830,9 @@ P. S.—I am keeping two stalls for you for the first performance of *Marie Tudo
 
 ### Letter 137: Victor H. → Mlle. Louise Bertin
 
-### LXXXVI.
+#### LXXXVI.
 
-### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
+#### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
 
 *5th December,* 1833.
 
@@ -2835,9 +2846,9 @@ You will see, too, that I have scrupulously followed your injunctions. It is alw
 
 ### Letter 138: Monseigneur le Duc d'Orleans
 
-### LXXXVII.
+#### LXXXVII.
 
-### *To* <span class="small-caps">Monseigneur le Duc d'Orleans.</span>
+#### *To* <span class="small-caps">Monseigneur le Duc d'Orleans.</span>
 
 [1834.]
 
@@ -2849,9 +2860,9 @@ Pardon me the liberty I am taking. We live in times when every one publishes his
 
 ### Letter 139: Monseigneur le Duc d'Orleans
 
-### LXXXVIII.
+#### LXXXVIII.
 
-### *To* <span class="small-caps">Monseigneur le Duc d'Orleans.</span>
+#### *To* <span class="small-caps">Monseigneur le Duc d'Orleans.</span>
 
 [1834.]
 
@@ -2861,9 +2872,9 @@ After having carried the boon to the suppliant, I am now the bearer of his grati
 
 ### Letter 140: Victor Hugo → M. Thiers
 
-### LXXXIX.
+#### LXXXIX.
 
-### *To* M. <span class="small-caps">Thiers</span>, *Minister of the Interior.*
+#### *To* M. <span class="small-caps">Thiers</span>, *Minister of the Interior.*
 
 <span class="small-caps">Paris</span>, 15*th June*, 1834.
 
@@ -2883,9 +2894,9 @@ Accept, Monsieur le Ministre, the assurance of my distinguished consideration.
 
 ### Letter 141: Victor → Charles Nodier
 
-### XC.
+#### XC.
 
-### *To* <span class="small-caps">Charles Nodier</span>.[^fn-p0189-1]
+#### *To* <span class="small-caps">Charles Nodier</span>.[^fn-p0189-1]
 
 [1834.]
 
@@ -2897,9 +2908,9 @@ I am really delighted to see you there. I am very fond of you, believe me.
 
 ### Letter 142: Victor H. → Mlle. Louise Bertin
 
-### XCI.
+#### XCI.
 
-### *To* <span class="small-caps">Mlle. Louise Bertin</span>.
+#### *To* <span class="small-caps">Mlle. Louise Bertin</span>.
 
 *Tuesday morning, 22d May,* 1835.
 
@@ -2921,9 +2932,9 @@ Farewell, Mademoiselle Louise; we shall meet on Friday. Tell your kind father th
 
 ### Letter 143: Victor H. → Mlle. Louise Bertin
 
-### XCII.
+#### XCII.
 
-### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
+#### *To* <span class="small-caps">Mlle. Louise Bertin.</span>
 
 <span class="small-caps">Paris</span>, 19*th October*, 1831.
 
@@ -2979,7 +2990,7 @@ Your respectful friend,
 
 ### Letter 144: Victor Hugo → M. Sainte-Beuve
 
-### I.
+#### I.
 
 *To* M. <span class="small-caps">Sainte-Beuve</span>, 94 *Rue de Vaugirard.*
 
@@ -2995,7 +3006,7 @@ A line in reply, please.
 
 ### Letter 145: V. H.
 
-### II.
+#### II.
 
 *Saturday,* [*Middle of February,* 1827].[^fn-p0193-1]
 
@@ -3007,9 +3018,9 @@ V. H.
 
 ### Letter 146: Victor → M. Sainte-Beuve
 
-### III.
+#### III.
 
-### *To* M. <span class="small-caps">Sainte-Beuve</span> (*very urgent*).
+#### *To* M. <span class="small-caps">Sainte-Beuve</span> (*very urgent*).
 
 *Wednesday evening,* [1828].
 
@@ -3021,9 +3032,9 @@ My warmest thanks, *il vuestro hermano,*
 
 ### Letter 147: Victor → M. Sainte-Beuve
 
-### IV.
+#### IV.
 
-### *To* M. <span class="small-caps">Sainte-Beuve,</span> *Tubney Lodge, near Oxford, England.*
+#### *To* M. <span class="small-caps">Sainte-Beuve,</span> *Tubney Lodge, near Oxford, England.*
 
 <span class="small-caps">Paris,</span> *17th September,* 1828.[^fn-p0194-1]
 
@@ -3047,7 +3058,7 @@ M. Leprévost, who will be delighted to see you, lives in the Rue Fontenelle at 
 
 ### Letter 148: Victor
 
-### V.
+#### V.
 
 *Sunday (midnight),* [1829].[^fn-p0196-1]
 
@@ -3059,9 +3070,9 @@ Your brother,
 
 ### Letter 149: Victor → M. Sainte-Beuve
 
-### VI.
+#### VI.
 
-### *To* M. <span class="small-caps">Sainte-Beuve,</span> *Poste Restante, Reims.*
+#### *To* M. <span class="small-caps">Sainte-Beuve,</span> *Poste Restante, Reims.*
 
 <span class="small-caps">Paris,</span> 2*d November,* 1829.[^fn-p0196-2]
 
@@ -3079,7 +3090,7 @@ My wife sends you many kind messages, and wants you to return at once. Kindest r
 
 ### Letter 150: Victor
 
-### VII.
+#### VII.
 
 *12th March,* [1830].
 
@@ -3091,9 +3102,9 @@ Yours with all my heart,
 
 ### Letter 151: M. Sainte-Beuve
 
-### VIII.
+#### VIII.
 
-### *To* M. <span class="small-caps">Sainte-Beuve</span>, c/o M. <span class="small-caps">Ulrich Güttinguer</span>, *Rue Fon- tenelle, Rouen.*
+#### *To* M. <span class="small-caps">Sainte-Beuve</span>, c/o M. <span class="small-caps">Ulrich Güttinguer</span>, *Rue Fon-<br />tenelle, Rouen.*
 
 <span class="small-caps">Paris</span>, *Sunday*, 16*th May*, 1830.
 
@@ -3109,9 +3120,9 @@ Farewell, my friend. We all send our love to you, and I embrace you for them all
 
 ### Letter 152: Victor → M. Sainte-Beuve
 
-### IX.
+#### IX.
 
-### *To* M. <span class="small-caps">Sainte-Beuve</span>, 19 *Rue Notre-Dame-des-Champs.*
+#### *To* M. <span class="small-caps">Sainte-Beuve</span>, 19 *Rue Notre-Dame-des-Champs.*
 
 *Friday evening*, [*4th June*, 1830].
 
@@ -3121,9 +3132,9 @@ We were at home, dear friend ! Fancy our annoy-ance ! Our porters are stupid ! N
 
 ### Letter 153: Victor → M. Sainte-Beuve
 
-### X.
+#### X.
 
-### *To* M. <span class="small-caps">Sainte-Beuve</span>, c/o M. <span class="small-caps">Ulrich Güttinguer</span>, *Rouen.*
+#### *To* M. <span class="small-caps">Sainte-Beuve</span>, c/o M. <span class="small-caps">Ulrich Güttinguer</span>, *Rouen.*
 
 *5th August,* [1830].[^fn-p0202-1]
 
@@ -3135,9 +3146,9 @@ My love to Güttinguer.
 
 ### Letter 154: V. → M. Sainte-Beuve
 
-### XI.
+#### XI.
 
-### *To* M. <span class="small-caps">Sainte-Beuve</span>, 19 *Rue Notre-Dame-des-Champs.*
+#### *To* M. <span class="small-caps">Sainte-Beuve</span>, 19 *Rue Notre-Dame-des-Champs.*
 
 *Thursday,* [*4th November,* 1830].
 
@@ -3151,7 +3162,7 @@ Come and see us.
 
 ### Letter 155: V.
 
-### XII.
+#### XII.
 
 *8th December,* [1830].
 
@@ -3163,7 +3174,7 @@ V.
 
 ### Letter 156: Victor
 
-### XIII.
+#### XIII.
 
 24*th December,* [1830].
 
@@ -3173,7 +3184,7 @@ You do well to write to me, my friend; you do well, for the sake of all of us. M
 
 ### Letter 157: Didine → Sainte-Beuve
 
-### XIV.
+#### XIV.
 
 *1st January,* 1831.
 
@@ -3183,7 +3194,7 @@ Your little friend,    <span class="small-caps">Didine.</span>[^fn-p0204-1]
 
 ### Letter 158: Victor
 
-### XV.
+#### XV.
 
 *2d January,* 1831.
 
@@ -3195,7 +3206,7 @@ Did you get Didine's letter?
 
 ### Letter 159: V. H.
 
-### XVI.
+#### XVI.
 
 *9th March,* [1831].
 
@@ -3209,7 +3220,7 @@ V. H.
 
 ### Letter 160: V. H.
 
-### XVII.
+#### XVII.
 
 [*Sunday, 13th March,* 1831].
 
@@ -3223,7 +3234,7 @@ V. H.
 
 ### Letter 161: V. H.
 
-### XVIII.
+#### XVIII.
 
 *Friday, 18th March,* 1831.
 
@@ -3235,7 +3246,7 @@ V. H.
 
 ### Letter 162: Victor Hugo
 
-### XIX.
+#### XIX.
 
 *4th April,* [1831].
 
@@ -3247,20 +3258,22 @@ You will come and dine with us one of these days, won't you?
 
 ### Letter 163: Victor
 
-### XX.
+#### XX.
 
 *Friday morning, 1st July,* 1831.
 
-. . . . . . . . . . . . .  
-Dans un concours heureux brillaient de toutes parts  
-Le sentiment, le charme et l'amour des beaux-arts.  
-Sur quarante mortels qui briguaient son suffrage,  
-Est-ce peu qu'aux traits séduisants  
-De votre muse de quinze ans  
-L'Académie ait dit : Jeune homme, allons ! courage ! . . .  
-Tendre ami des neuf sœurs, mes bras vous sont ouverts !  
-Venez, j'aime toujours les vers !  
-. . . . . . . . . . . . .
+> **[verse_insert]**
+>
+> . . . . . . . . . . . . .  
+> Dans un concours heureux brillaient de toutes parts  
+> Le sentiment, le charme et l'amour des beaux-arts.  
+> Sur quarante mortels qui briguaient son suffrage,  
+> Est-ce peu qu'aux traits séduisants  
+> De votre muse de quinze ans  
+> L'Académie ait dit : Jeune homme, allons ! courage ! . . .  
+> Tendre ami des neuf sœurs, mes bras vous sont ouverts !  
+> Venez, j'aime toujours les vers !  
+> . . . . . . . . . . . . .
 
 That is all I can remember, my dear friend. It was in 1817. Do what you like with it. They are but poor verses to be inserted in your fine prose, and it is indeed good of you to give the luckless François de Neufchâteau such a setting.
 
@@ -3272,7 +3285,7 @@ Always sincerely yours,
 
 ### Letter 164: Victor
 
-### XXI.
+#### XXI.
 
 6*th July,* 1831.
 
@@ -3294,7 +3307,7 @@ I have shown this letter to the only person who was entitled to read it before y
 
 ### Letter 165: V.
 
-### XXII.
+#### XXII.
 
 *7th July,* 1831.
 
@@ -3306,7 +3319,7 @@ V.
 
 ### Letter 166: V.
 
-### XXIII.
+#### XXIII.
 
 10*th July*, 1831.
 
@@ -3318,7 +3331,7 @@ Write to me. Do not forsake me.
 
 ### Letter 167: Victor
 
-### XXIV.
+#### XXIV.
 
 21*st* [*July,* 1831].
 
@@ -3330,7 +3343,7 @@ Your brother,
 
 ### Letter 168: Victor
 
-### XXV.
+#### XXV.
 
 *Friday evening,* [*5th August,* 1831].
 
@@ -3344,7 +3357,7 @@ The performance will take place on Thursday, and the rehearsal on Wednesday. You
 
 ### Letter 169: V.
 
-### XXVI.
+#### XXVI.
 
 17*th May,* [1832].
 
@@ -3358,7 +3371,7 @@ V.
 
 ### Letter 170: Victor
 
-### XXVII.
+#### XXVII.
 
 *7th June,* 10 <span class="small-caps">p. m.</span>, [1832].
 
@@ -3370,7 +3383,7 @@ Your devoted friend,
 
 ### Letter 171: Victor
 
-### XXVIII.
+#### XXVIII.
 
 12*th June,* 1832.
 
@@ -3386,7 +3399,7 @@ Your brother,
 
 ### Letter 172: Victor
 
-### XXIX.
+#### XXIX.
 
 <span class="small-caps">Les Roches</span>, *Friday, 21st September*, [1832].
 
@@ -3408,9 +3421,9 @@ We are all wonderfully well. My wife walks six miles every day, and is growing v
 
 ### Letter 173: V. → M. Sainte-Beuve
 
-### XXX.
+#### XXX.
 
-### *To* M. <span class="small-caps">Sainte-Beuve</span>, 1 *Ter Rue du Montparnasse.*
+#### *To* M. <span class="small-caps">Sainte-Beuve</span>, 1 *Ter Rue du Montparnasse.*
 
 13*th November*, 1832.
 
@@ -3424,7 +3437,7 @@ Your old friend,                                        V.
 
 ### Letter 174: Victor
 
-### XXXI.
+#### XXXI.
 
 *Saturday evening, 1st December*, 1832.
 
@@ -3438,7 +3451,7 @@ Ever your friend,
 
 ### Letter 175: Victor → Sainte-Beuve
 
-### XXXII.
+#### XXXII.
 
 [*December*, 1832.]
 
@@ -3450,7 +3463,7 @@ I think Renduel has sent you your copy. What is our worthy Leroux about? I never
 
 ### Letter 176: Léopoldine Hugo / Victor → Saint-de-Beuve
 
-### XXXIII.
+#### XXXIII.
 
 31*st December*, 1832.
 
@@ -3466,7 +3479,7 @@ Here is a specimen of Didine's style. I really must add a little of mine to it, 
 
 ### Letter 177: Vic.
 
-### XXXIV.
+#### XXXIV.
 
 18*th* [*January*], 1833.
 
@@ -3478,7 +3491,7 @@ Yours sincerely,
 
 ### Letter 178: V.
 
-### XXXV.
+#### XXXV.
 
 *Sunday,* [24*th February*], 1833.
 
@@ -3490,7 +3503,7 @@ V.
 
 ### Letter 179: V. → Sainte-Beuve
 
-### XXXVI.
+#### XXXVI.
 
 25*th February,* [1833].
 
@@ -3500,7 +3513,7 @@ V.
 
 ### Letter 180
 
-### XXXVII.
+#### XXXVII.
 
 10*th March*, [1833].
 
@@ -3510,7 +3523,7 @@ I will go and see you, my friend. I will have a talk with you about this, and al
 
 ### Letter 181: V. → Sainte-Beuve
 
-### XXXVIII.
+#### XXXVIII.
 
 12*th June,* [1833].
 
@@ -3524,7 +3537,7 @@ V.
 
 ### Letter 182: Victor → Sainte-Beuve
 
-### XXXIX.
+#### XXXIX.
 
 20*th August,* [1833].
 
@@ -3536,7 +3549,7 @@ We shall soon meet. Farewell. My eyes are still very bad, and I am working hard.
 
 ### Letter 183
 
-### XL.
+#### XL.
 
 22*d August,* [1833].
 
@@ -3548,7 +3561,7 @@ Boulanger had not told me anything. I should have mentioned it to you.
 
 ### Letter 184
 
-### XLI.
+#### XLI.
 
 *24th August,* [1833].
 
@@ -3562,7 +3575,7 @@ I am under an engagement to finish and send in a play before the 1st of Septembe
 
 ### Letter 185: V.
 
-### XLII.
+#### XLII.
 
 28*th August,* [1833].
 
@@ -3572,7 +3585,7 @@ V.
 
 ### Letter 186: Victor
 
-### XLIII.
+#### XLIII.
 
 <span class="small-caps">Les Roches</span>, 1*st October,* [1833].
 
@@ -3584,7 +3597,7 @@ Your old friend,
 
 ### Letter 187: Victor
 
-### XLIV.
+#### XLIV.
 
 21*st October,* [1833].
 
@@ -3594,7 +3607,7 @@ Many thanks, my friend, for your two kind notes. I will see that all you want is
 
 ### Letter 188: Victor Hugo
 
-### XLV.
+#### XLV.
 
 27*th November,* 1833.
 
@@ -3606,7 +3619,7 @@ Has Renduel sent you your copy of *Marie-Tudor?*
 
 ### Letter 189: V.
 
-### XLVI.
+#### XLVI.
 
 4*th February,* [1834].
 
@@ -3620,7 +3633,7 @@ Sincerely yours,                    V.
 
 ### Letter 190
 
-### XLVII.
+#### XLVII.
 
 *7th February,* [1834].
 
@@ -3628,7 +3641,7 @@ I wish I had you here to shake you by the hand. Your letter is a kind one; thank
 
 ### Letter 191
 
-### XLVIII.
+#### XLVIII.
 
 *Tuesday evening, 1st April,* [1834].
 
@@ -3636,9 +3649,9 @@ Any friend of mine has to share so much animosity and so much despicable persecu
 
 ### Letter 192: V. → M. Sainte-Beuve
 
-### XLIX.
+#### XLIX.
 
-### *To* M. <span class="small-caps">Sainte-Beuve</span>, *at the Institut.*
+#### *To* M. <span class="small-caps">Sainte-Beuve</span>, *at the Institut.*
 
 *28th February,* 1845.[^fn-p0228-1]
 
@@ -3673,7 +3686,7 @@ Your letter moves and touches me. I thank you with all my heart for your thanks.
 
 ### Letter 193: Victor Hugo → Léopoldine Hugo
 
-### I.
+#### I.
 
 <span class="small-caps">Etampes</span>, 19*th August*, 1834.
 
@@ -3693,7 +3706,7 @@ V.
 
 ### Letter 194: Victor Hugo → Léopoldine Hugo
 
-### II.
+#### II.
 
 <span class="small-caps">Amiens</span>, *3d August*, 1835.
 
@@ -3711,7 +3724,7 @@ V.
 
 ### Letter 195: Victor Hugo → Léopoldine Hugo
 
-### III.
+#### III.
 
 <span class="small-caps">Treport</span>, *6th August*, 1835.
 
@@ -3729,7 +3742,7 @@ V.
 
 ### Letter 196: Victor Hugo → Léopoldine Hugo
 
-### IV.
+#### IV.
 
 *7th August,* 1836.
 
@@ -3745,7 +3758,7 @@ V.
 
 ### Letter 197: Victor Hugo → Léopoldine Hugo
 
-### V.
+#### V.
 
 <span class="small-caps">Valenciennes</span>, 15*th August,* 1837.
 
@@ -3767,7 +3780,7 @@ Your own daddy,                    V.
 
 ### Letter 198: Victor Hugo → Léopoldine Hugo
 
-### VI.
+#### VI.
 
 <span class="small-caps">Etapes</span>, near <span class="small-caps">Boulogne-sur-Mer</span>,  
 *3d September*, 9 <span class="small-caps">p.m.</span>, [1837].
@@ -3788,13 +3801,11 @@ Your own daddy,                    V.
 
 ### Letter 199: Victor Hugo → Léopoldine Hugo
 
-### VII.
+#### VII.
 
-### *For* <span class="small-caps">My darling Didine.</span>
+#### *For* <span class="small-caps">My darling Didine.</span>
 
 [1838.]
-
-
 
 Thank you for your nice little letter, my Didine. It went to my heart. I see with joy that you love your father as much as he loves you, and that you appreciate beautiful things as he does. You are your father's own child. Write to me as often as you can, my little pet. I have no doubt I shall often need this ray of sunshine. You have seen the banks of the Seine; I am going to see the banks of the Rhine, which are still more beautiful. I will take you there some day. Think of me, dear child, and kiss my Charlie, my Toto, and my Dédé for me. You five at home fill my heart.
 
@@ -3806,7 +3817,7 @@ I have not been very well, but I am all right now. My best love to M. Vacquerie.
 
 ### Letter 200: Victor Hugo → Léopoldine Hugo
 
-### VIII.
+#### VIII.
 
 <span class="small-caps">Epernay</span>, 27*th August, noon,* [1838].
 
@@ -3818,9 +3829,9 @@ V.
 
 ### Letter 201: Victor Hugo → Charles Hugo
 
-### <span class="small-caps">IX.</span>
+#### <span class="small-caps">IX.</span>
 
-### *For* <span class="small-caps">My Charlie.</span>
+#### *For* <span class="small-caps">My Charlie.</span>
 
 <span class="small-caps">Mayence,</span> 1*st October,* [1838].
 
@@ -3842,9 +3853,9 @@ V.
 
 ### Letter 202: Victor Hugo → Léopoldine Hugo
 
-### X.
+#### X.
 
-### *For* <span class="small-caps">My Didine.</span>
+#### *For* <span class="small-caps">My Didine.</span>
 
 <span class="small-caps">Stockach</span>, 19*th October*, [1838].
 
@@ -3858,7 +3869,7 @@ V.
 
 ### Letter 203: Victor Hugo → Léopoldine Hugo
 
-### XI.
+#### XI.
 
 *Tuesday, 25th June,* 8 <span class="small-caps">p. m.</span>, [1839].
 
@@ -3876,7 +3887,7 @@ V.
 
 ### Letter 204: Victor Hugo → Léopoldine Hugo
 
-### XII.
+#### XII.
 
 <span class="small-caps">Marseilles</span>, *3d October,* [1839].
 
@@ -3900,7 +3911,7 @@ Write *at once* to *poste restante,* Châlon-sur-Saône.
 
 ### Letter 205: Victor Hugo → Léopoldine Hugo
 
-### XIII.
+#### XIII.
 
 <span class="small-caps">Cannes</span>, *8th October*, [1839].
 
@@ -3934,7 +3945,7 @@ The drawings are all one inside the other. You must open them carefully.
 
 ### Letter 206: Victor Hugo → Léopoldine Hugo
 
-### XIV.
+#### XIV.
 
 <span class="small-caps">Châlon-sur-Saône</span>, 18*th October*, [1839].
 
@@ -3954,7 +3965,7 @@ See that all the letters and papers are kept for me, and that nothing is mislaid
 
 ### Letter 207: Victor Hugo → Léopoldine Hugo
 
-### XV.
+#### XV.
 
 *Sunday, 12th*, [1839].
 
@@ -3966,7 +3977,7 @@ Your loving father,                    V.
 
 ### Letter 208: Victor Hugo → Léopoldine Hugo
 
-### XVI.
+#### XVI.
 
 13*th May, midnight,* [1840].
 
@@ -3978,7 +3989,7 @@ Your own daddy,                    V.
 
 ### Letter 209: Victor Hugo → Léopoldine Hugo
 
-### XVII.
+#### XVII.
 
 18*th August,* [1842].
 
@@ -3992,7 +4003,7 @@ A little job has cropped up for me, as president of the Institute, which keeps m
 
 ### Letter 210: Victor Hugo → Léopoldine Hugo
 
-### XVIII.
+#### XVIII.
 
 *Wednesday,* 31*st August,* [1842].
 
@@ -4004,7 +4015,7 @@ Take great care of yourself also. Be careful about your headaches. Eat well, lau
 
 ### Letter 211: Victor Hugo → Léopoldine Hugo
 
-### XIX.
+#### XIX.
 
 *Wednesday, 7th September,* [1842].
 
@@ -4020,7 +4031,7 @@ V.
 
 ### Letter 212: Victor Hugo → Léopoldine Hugo
 
-### XX.
+#### XX.
 
 *Friday,* [1842].
 
@@ -4030,9 +4041,9 @@ Your own daddy,                    V.
 
 ### Letter 213: Victor Hugo → Léopoldine Hugo
 
-### XXI.
+#### XXI.
 
-### *To* <span class="small-caps">Madame Vacquerie-Hugo.</span> [<span class="small-caps">Léopoldine Hugo.</span>]
+#### *To* <span class="small-caps">Madame Vacquerie-Hugo.</span><br />[<span class="small-caps">Léopoldine Hugo.</span>]
 
 16*th March,* [1843].
 
@@ -4050,9 +4061,9 @@ V.
 
 ### Letter 214: Victor Hugo → Charles Vacquerie
 
-### XXII.
+#### XXII.
 
-### *To* <span class="small-caps">Charles Vacquerie.</span>
+#### *To* <span class="small-caps">Charles Vacquerie.</span>
 
 23*d March,* [1843].
 
@@ -4064,9 +4075,9 @@ V. H.
 
 ### Letter 215: Victor Hugo → Léopoldine Hugo
 
-### XXIII.
+#### XXIII.
 
-### *To* <span class="small-caps">Madame Vacquerie-Hugo.</span>
+#### *To* <span class="small-caps">Madame Vacquerie-Hugo.</span>
 
 <span class="small-caps">Paris</span>, 21*st April*, [1843].
 
@@ -4082,7 +4093,7 @@ I for my part shall think of you, and wish you every happiness and every joy. Pr
 
 ### Letter 216: Victor Hugo → Léopoldine Hugo
 
-### XXIV.
+#### XXIV.
 
 22*d May,* [1843].
 
@@ -4098,7 +4109,7 @@ I embrace you and I love you, my child. What happiness it will be to see you aga
 
 ### Letter 217: Victor Hugo → Léopoldine Hugo
 
-### XXV.
+#### XXV.
 
 13*th June,* [1843].
 
@@ -4116,7 +4127,7 @@ My love to Auguste Vacquerie and to M. Regnauld.
 
 ### Letter 218: Victor Hugo → Léopoldine Hugo / Charles Vacquerie
 
-### XXVI.
+#### XXVI.
 
 <span class="small-caps">Paris</span>, 18*th July,* [1843].
 
@@ -4136,7 +4147,7 @@ V.
 
 ### Letter 219: Victor Hugo → Léopoldine Hugo
 
-### XXVII.
+#### XXVII.
 
 <span class="small-caps">Biarritz</span>, 26*th July*, [1843].
 
@@ -4150,7 +4161,7 @@ Give my love to your dear husband, and write to me, my darling child. Your mothe
 
 ### Letter 220: Victor Hugo → Charles Vacquerie / Léopoldine Hugo
 
-### XXVIII.
+#### XXVIII.
 
 <span class="small-caps">San-Sebastian</span>, 31*st July*, [1843].
 
@@ -4180,7 +4191,7 @@ One of the two drawings represents Port du Passage, a delightful place about two
 
 ### Letter 221: Victor Hugo → Léopoldine Hugo
 
-### XXIX.
+#### XXIX.
 
 <span class="small-caps">Tolosa</span>, *9th August*, [1843].
 
@@ -4194,7 +4205,7 @@ V.
 
 ### Letter 222: Victor Hugo → Léopoldine Hugo
 
-### XXX.
+#### XXX.
 
 <span class="small-caps">Pierrefitte</span>, *15th August*, [1843].
 
@@ -4210,7 +4221,7 @@ Continue to write to Paris. My love to Auguste Vacquerie.
 
 ### Letter 223: Victor Hugo → Léopoldine Hugo
 
-### XXXI.
+#### XXXI.
 
 <span class="small-caps">Luz</span>, 25*th August*, [1843].
 
@@ -4234,13 +4245,13 @@ Autograph illustrated letter of Victor Hugo from the Pyrenees, mentioning 'la Ro
 
 * * *
 
-### I. ACADEMIE DES JEUX FLORAUX, 1819-1823.
+#### I. ACADEMIE DES JEUX FLORAUX, 1819-1823.
 
 ### Letter 224: V. M. Hugo → M. Pinaud / Académie des Jeux Floraux
 
-### *To* M. <span class="small-caps">Pinaud</span>, *Permanent Secretary to the Académie des Jeux Floraux, Toulouse.*
+#### *To* M. <span class="small-caps">Pinaud</span>, *Permanent Secretary to the Académie des Jeux<br />Floraux, Toulouse.*
 
-### I.
+#### I.
 
 <span class="small-caps">Paris</span>, 29*th March*, 1819.
 
@@ -4279,7 +4290,7 @@ V. M. <span class="small-caps">Hugo.</span>
 
 ### Letter 225: V. M. Hugo
 
-### II.
+#### II.
 
 <span class="small-caps">Paris</span>, *9th April*, 1819.
 
@@ -4296,98 +4307,100 @@ humble servant,
 
 V. M. <span class="small-caps">Hugo</span>.
 
-*Le Rétablissement de la Statue de Henri IV.*
-
-*2d Strophe.*—7th line, read “*Sylla détrône Marius.*”
-
-*3d Strophe.*—For the 3d, 5th, and 6th lines substitute—
-
-Trajan domine encor les champs que de Tibère  
-Couvrent les temples abattus.  
-Souvent dans les horreurs des discordes civiles  
-Quand l’effroi planait sur les villes,  
-Aux cris des peuples révoltés, etc.
-
-*6th Strophe.*—To make the 7th line sound a little less harsh, it might read—
-
-Enleva sitôt le trépas.
-
-*9th Strophe.*—Instead of the 5th and 6th lines read—
-
-Désormais dans ses yeux, en volant à la gloire,  
-Nous viendrons puiser la victoire, etc.
-
-We shall have got rid of the word “*carnage*,” but I fear this new metaphor may be rather risky.
-
-*11th Strophe.*—When composing it I noticed the want of continuity in the ideas which the Academy has remarked, but not being able to remedy it I managed to persuade myself that a lyric poet has the privilege of leaving the idea which had first struck him in this incomplete state and of developing the next that presented itself to his mind. But the just criticism of the Academy made me reflect that a license of this kind would end in giving him the right to be unintelligible. I have tried once more to remove this blemish, but without success, and it is with much regret that I find myself obliged to leave such a conspicuous defect uncorrected.
-
-My reiterated endeavors to eliminate some of the articles which abound in the last lines of the 18th strophe have also been fruitless. I hope the Academy will give me credit for them.
-
-### *Ode sur les vierges de Verdun.*
-
-Not having had time to condense the introduction to this ode, I was prepared to adduce Horace's ode in defence of the interrogative form, —
-
-Quo, quo, scelesti, ruitis ?
-
-and the ode to Lydia, —
-
-Lydia, dic, per omnes  
-Te Deos oro, Sybarin cur properas amando  
-Perdere ? Cur apricum  
-Oderit campum, patiens pulveris atque solis, etc.
-
-I think, however, it is more frank and more seemly to admit how little I have succeeded in my attempts.
-
-*5th Strophe.* — I agreed with all the Academy, dear sir, that the expression “*Assassins, juges à leur tour*” did not adequately develop the idea of assassins who sit in judgment on others after having lived in dread of judges so long themselves, but the time I have spent and often wasted over the other corrections prevented me from even thinking about this one.
-
-*7th Strophe.* — The following note might come after it : —
-
-> Moreau took the fort of l'Ecluse on the island of Cazand from a superior force of the enemy the very day on which his aged father was led to the scaffold. Patriotism must indeed have had a strong hold on the hearts of our soldiers to make them defend with such heroic resignation a country in which their dearest interests were daily betrayed in a disgraceful manner. Our army was fortunate in always being free from the reproaches which were leveled against our executioners. Do not let us forget that if it fought against its king, this was in opposing a foreign invasion, and that, as an illustrious author has said, its sword, thrown in the balance, weighed down the axe of the Revolution.
-
-*8th Strophe.*—For the three first lines one of the two following versions may be substituted:—
-
-Quand nos phalanges mutilés  
-Jetant sur nos cyprès l'ombre de leurs lauriers,  
-Reculaient vers Paris, par le nombre accablées . . .
-
-Quand nos chefs, entourés des armes étrangères  
-Couvrant nos cyprès de lauriers,  
-Vers Paris lentement reportaient leurs bannières . . .
-
-*10th Strophe.*—In its stead, a choice can be made between either of the two following strophes:—
-
-Ce dernier trait suffit : leur bonté les condamne.  
-Mais non : l'arbitre de leur sort,  
-Tainville, à leur aspect brûlant d'un feu profane,  
-Tressaille d'un honteux transport.  
-Il veut, vierges, au prix d'un affreux sacrifice,  
-En taisant vos bienfaits vous ravir au supplice.  
-Il croit vos chastes cœurs par la crainte abattus ;  
-Du mépris qui le couvre acceptez le partage ;  
-Souillez-vous d'un forfait ; l'infâme aréopage  
-Vous absoudra de vos vertus.
-
-Quoi ! ce trait glorieux qui trahit leur belle âme  
-Sera donc l'arrêt de leur mort.  
-Mais non ! l'accusateur que leur aspect enflamme  
-Tressaille d'un honteux transport.  
-Il veut, vierges, au prix d'un affreux sacrifice,  
-En taisant vos bienfaits vous ravir au supplice.  
-Il croit vos chastes cœurs par la crainte abattus.  
-De vos jours Tainville est l'arbitre.  
-Souillez-vous d'un forfait : le monstre à ce seul titre  
-Vous absoudra de vos vertus.
-
-11*th Strophe.* — Of the expressions “*un si noble forfait, coupable de pitié,*” etc., which the Academy has pointed out as alike, I have only been able to strike out “*d’innocence accusées*” (7th strophe); “*lâchement accusées*” might be substituted for it; this alteration appeared to me more important than the others; the word “innocence” occurs two lines higher up. I am afraid, too, that this expression is a plagiarism; I have seen somewhere or other two lines in which something like it occurs —
-
-. . . l’enfant sans appui, le viellard sans défense,  
-Tombaient tous, convaincus d’une même innocence.
-
-Finally, in the 13th strophe, “*Charlotte au cœur d’airain*” may be substituted for “*Charlotte au front d’airain.*”
+> **[enclosure: Le Rétablissement de la Statue de Henri IV. / Ode sur les vierges de Verdun.]**
+>
+> *Le Rétablissement de la Statue de Henri IV.*
+>
+> *2d Strophe.*—7th line, read “*Sylla détrône Marius.*”
+>
+> *3d Strophe.*—For the 3d, 5th, and 6th lines substitute—
+>
+> Trajan domine encor les champs que de Tibère  
+> Couvrent les temples abattus.  
+> Souvent dans les horreurs des discordes civiles  
+> Quand l’effroi planait sur les villes,  
+> Aux cris des peuples révoltés, etc.
+>
+> *6th Strophe.*—To make the 7th line sound a little less harsh, it might read—
+>
+> Enleva sitôt le trépas.
+>
+> *9th Strophe.*—Instead of the 5th and 6th lines read—
+>
+> Désormais dans ses yeux, en volant à la gloire,  
+> Nous viendrons puiser la victoire, etc.
+>
+> We shall have got rid of the word “*carnage*,” but I fear this new metaphor may be rather risky.
+>
+> *11th Strophe.*—When composing it I noticed the want of continuity in the ideas which the Academy has remarked, but not being able to remedy it I managed to persuade myself that a lyric poet has the privilege of leaving the idea which had first struck him in this incomplete state and of developing the next that presented itself to his mind. But the just criticism of the Academy made me reflect that a license of this kind would end in giving him the right to be unintelligible. I have tried once more to remove this blemish, but without success, and it is with much regret that I find myself obliged to leave such a conspicuous defect uncorrected.
+>
+> My reiterated endeavors to eliminate some of the articles which abound in the last lines of the 18th strophe have also been fruitless. I hope the Academy will give me credit for them.
+>
+> ###### *Ode sur les vierges de Verdun.*
+>
+> Not having had time to condense the introduction to this ode, I was prepared to adduce Horace's ode in defence of the interrogative form, —
+>
+> Quo, quo, scelesti, ruitis ?
+>
+> and the ode to Lydia, —
+>
+> Lydia, dic, per omnes  
+> Te Deos oro, Sybarin cur properas amando  
+> Perdere ? Cur apricum  
+> Oderit campum, patiens pulveris atque solis, etc.
+>
+> I think, however, it is more frank and more seemly to admit how little I have succeeded in my attempts.
+>
+> *5th Strophe.* — I agreed with all the Academy, dear sir, that the expression “*Assassins, juges à leur tour*” did not adequately develop the idea of assassins who sit in judgment on others after having lived in dread of judges so long themselves, but the time I have spent and often wasted over the other corrections prevented me from even thinking about this one.
+>
+> *7th Strophe.* — The following note might come after it : —
+>
+> > Moreau took the fort of l'Ecluse on the island of Cazand from a superior force of the enemy the very day on which his aged father was led to the scaffold. Patriotism must indeed have had a strong hold on the hearts of our soldiers to make them defend with such heroic resignation a country in which their dearest interests were daily betrayed in a disgraceful manner. Our army was fortunate in always being free from the reproaches which were leveled against our executioners. Do not let us forget that if it fought against its king, this was in opposing a foreign invasion, and that, as an illustrious author has said, its sword, thrown in the balance, weighed down the axe of the Revolution.
+>
+> *8th Strophe.*—For the three first lines one of the two following versions may be substituted:—
+>
+> Quand nos phalanges mutilés  
+> Jetant sur nos cyprès l'ombre de leurs lauriers,  
+> Reculaient vers Paris, par le nombre accablées . . .
+>
+> Quand nos chefs, entourés des armes étrangères  
+> Couvrant nos cyprès de lauriers,  
+> Vers Paris lentement reportaient leurs bannières . . .
+>
+> *10th Strophe.*—In its stead, a choice can be made between either of the two following strophes:—
+>
+> Ce dernier trait suffit : leur bonté les condamne.  
+> Mais non : l'arbitre de leur sort,  
+> Tainville, à leur aspect brûlant d'un feu profane,  
+> Tressaille d'un honteux transport.  
+> Il veut, vierges, au prix d'un affreux sacrifice,  
+> En taisant vos bienfaits vous ravir au supplice.  
+> Il croit vos chastes cœurs par la crainte abattus ;  
+> Du mépris qui le couvre acceptez le partage ;  
+> Souillez-vous d'un forfait ; l'infâme aréopage  
+> Vous absoudra de vos vertus.
+>
+> Quoi ! ce trait glorieux qui trahit leur belle âme  
+> Sera donc l'arrêt de leur mort.  
+> Mais non ! l'accusateur que leur aspect enflamme  
+> Tressaille d'un honteux transport.  
+> Il veut, vierges, au prix d'un affreux sacrifice,  
+> En taisant vos bienfaits vous ravir au supplice.  
+> Il croit vos chastes cœurs par la crainte abattus.  
+> De vos jours Tainville est l'arbitre.  
+> Souillez-vous d'un forfait : le monstre à ce seul titre  
+> Vous absoudra de vos vertus.
+>
+> 11*th Strophe.* — Of the expressions “*un si noble forfait, coupable de pitié,*” etc., which the Academy has pointed out as alike, I have only been able to strike out “*d’innocence accusées*” (7th strophe); “*lâchement accusées*” might be substituted for it; this alteration appeared to me more important than the others; the word “innocence” occurs two lines higher up. I am afraid, too, that this expression is a plagiarism; I have seen somewhere or other two lines in which something like it occurs —
+>
+> . . . l’enfant sans appui, le viellard sans défense,  
+> Tombaient tous, convaincus d’une même innocence.
+>
+> Finally, in the 13th strophe, “*Charlotte au cœur d’airain*” may be substituted for “*Charlotte au front d’airain.*”
 
 ### Letter 226: V. M. Hugo
 
-### III.
+#### III.
 
 <span class="small-caps">Paris</span>, 16*th June,* 1819.
 
@@ -4407,7 +4420,7 @@ V. M. <span class="small-caps">Hugo</span>.
 
 ### Letter 227: V. M. Hugo
 
-### IV.
+#### IV.
 
 18*th April*, 1820.
 
@@ -4427,7 +4440,7 @@ P. S.—My brother Eugène, who has been prevented by ill health from competing 
 
 ### Letter 228: V. M. Hugo
 
-### V.
+#### V.
 
 [21*st May*, 1820].
 
@@ -4445,7 +4458,7 @@ P. S.—I do not know if you have received the two first numbers of vol. ii. reg
 
 ### Letter 229: V. M. Hugo
 
-### VI.
+#### VI.
 
 24*th October,* 1820.
 
@@ -4461,7 +4474,7 @@ P. S.—As I am not sure if the secretary of the *Conservateur litteraire* has c
 
 ### Letter 230: Victor M. Hugo
 
-### VII.
+#### VII.
 
 28*th March,* 1821.
 
@@ -4481,7 +4494,7 @@ My address is altered. I am now living at 10 Rue Mézières (Faubourg Saint-Germ
 
 ### Letter 231: Victor M. Hugo
 
-### VIII.
+#### VIII.
 
 [14*th July*, 1821.]
 
@@ -4493,7 +4506,7 @@ I hope soon to have the courage to write to you at greater length. I will then t
 
 ### Letter 232: Victor M. Hugo
 
-### IX.
+#### IX.
 
 <span class="small-caps">Paris</span>, 14*th August*, 1821.
 
@@ -4509,7 +4522,7 @@ I have the honor to be, with the highest esteem and the most complete devotion, 
 
 ### Letter 233: Victor H.
 
-### X.
+#### X.
 
 <span class="small-caps">Paris</span>, 24*th October*, 1822.
 
@@ -4529,7 +4542,7 @@ M. Soumet, to whom I have shown your kind letter, thanks you and loves you as I 
 
 ### Letter 234: Victor Hugo
 
-### XI.
+#### XI.
 
 <span class="small-caps">Paris</span>, 11*th December*, 1822.
 
@@ -4551,7 +4564,7 @@ My wife was much pleased with your kind messages, and begs me to thank you for t
 
 ### Letter 235: Victor Hugo
 
-### XII.
+#### XII.
 
 <span class="small-caps">Paris</span>, *8th January,* 1823.
 
@@ -4569,7 +4582,7 @@ My wife thanks you, as I do, for all the kind messages to her in your letter.
 
 ### Letter 236: Victor Hugo
 
-### XIII.
+#### XIII.
 
 <span class="small-caps">Gentilly</span>, 9*th June*, 1823.
 
@@ -4583,13 +4596,13 @@ Farewell, my good colleague; my wife, who is going on well, shares the deep feel
 
 ## II. Additional Letters to Various Persons.
 
-### II. ADDITIONAL LETTERS TO VARIOUS PERSONS.
+### II. ADDITIONAL LETTERS TO VARIOUS<br />PERSONS.
 
 ### Letter 237: Victor Marie Hugo → M. Raynouard
 
-### I.
+#### I.
 
-### *To* M. <span class="small-caps">Raynouard</span>, *Perpetual Secretary of the French Academy.*
+#### *To* M. <span class="small-caps">Raynouard</span>, *Perpetual Secretary of the French Academy.*
 
 <span class="small-caps">Paris</span>, 31*st August*, 1817.
 
@@ -4597,8 +4610,10 @@ Farewell, my good colleague; my wife, who is going on well, shares the deep feel
 
 A slight indisposition prevents me from having the honor of going in person to express my gratitude for the favor which the French Academy has deigned to confer on me by according an honorable mention to the piece No. 15, of which I am the author. Having heard that you have raised doubts as to my age, I take the liberty of inclosing my certificate of birth. It will prove to you that the line —
 
-Moi, qui . . .  
-De trois lustres à peine ai vu finir le cours,
+> **[verse_insert]**
+>
+> Moi, qui . . .  
+> De trois lustres à peine ai vu finir le cours,
 
 is not a poetic fiction. If there were time to insert my name in your report printed by order of the Academy, it would greatly increase the gratitude I owe you, and of which I beg you to accept the proof in the form which your encouragement has so greatly endeared to me and which must, for so many reasons, be still more dear to you. I trust you will be kind enough, dear sir, after having taken note of it, to return me my birth certificate to No. 18 Rue des Petits Augustins. I beg you to accept the assurance of the profound respect with which I have the honor to be, dear sir,
 
@@ -4606,55 +4621,57 @@ Your most obedient, humble servant,
 
 <span class="small-caps">Victor Marie Hugo.</span>
 
-### *A Raynouard, auteur des Templiers.*
-
-O Raynouard, toi qui d'un ordre auguste  
-Nous traças en beaux vers le châtiment injuste ;  
-Qui, dédaignant l'amour et ses molles douleurs,  
-Sur l'austère vertu nous fis verser des pleurs ;  
-Toi qui bientôt encor, dans tes fécondes veilles,  
-Des exploits de Judas [^fn-p0286-1] nous diras les merveilles ;  
-Pardonne ! interrompant de si nobles travaux,  
-Un jeune élève de Virgile  
-Ose de sa Muse inhabile  
-T'adresser les accords nouveaux.
-
-Il te doit tout ; c'est toi dont l'indulgence  
-Sut arracher au gouffre de l'oubli  
-Son faible essai dans l'ombre enseveli,  
-De sa Muse accueillant l'enfance.  
-Tu fis plus ; tu voulus dans le sénat des arts  
-Sur elle attirer les regards.  
-Ces vers sans art échappés à ma veine  
-D'un tel honneur étaient dignes à peine ;  
-Mais que ne pouvaient sur les cœurs  
-Cet amour que Virgile a peint en traits vainqueurs,  
-Le souvenir d'Elise abandonnée,  
-D'un triste hymen invoquant les vains droits  
-Et réclamant contre l'ingrat Enée  
-L'appui des Dieux qui l'ont seuls condamnée ?  
-Que ne pourrait le charme de ta voix ?  
-De cette voix dont la mâle énergie,  
-Quand la patrie en deuil redemandait ses rois,  
-Déployant des vertus l'éloquente magie,  
-Apprit au tyran même à respecter nos lois ?  
-C'est à ta voix encor, c'est à son harmonie  
-Qu'est dû tout le succès de mon humble génie ;  
-Ce qui fait mon bonheur fait aussi mon orgueil,  
-Virgile et toi protégiez ma faiblesse ;
-
-Ces vers nouveaux que je t'adresse  
-Recevront-ils le même accueil ?  
-Dans le sein de Virgile ils n'ont point pris naissance,  
-Ton organe flatteur n'a pas accru leur prix ;  
-Mais ils sont inspirés par la reconnaissance,  
-Et c'est pour toi qu'ils sont écrits.
+> **[enclosure]**
+>
+> ##### *A Raynouard, auteur des Templiers.*
+>
+> O Raynouard, toi qui d'un ordre auguste  
+> Nous traças en beaux vers le châtiment injuste ;  
+> Qui, dédaignant l'amour et ses molles douleurs,  
+> Sur l'austère vertu nous fis verser des pleurs ;  
+> Toi qui bientôt encor, dans tes fécondes veilles,  
+> Des exploits de Judas [^fn-p0286-1] nous diras les merveilles ;  
+> Pardonne ! interrompant de si nobles travaux,  
+> Un jeune élève de Virgile  
+> Ose de sa Muse inhabile  
+> T'adresser les accords nouveaux.
+>
+> Il te doit tout ; c'est toi dont l'indulgence  
+> Sut arracher au gouffre de l'oubli  
+> Son faible essai dans l'ombre enseveli,  
+> De sa Muse accueillant l'enfance.  
+> Tu fis plus ; tu voulus dans le sénat des arts  
+> Sur elle attirer les regards.  
+> Ces vers sans art échappés à ma veine  
+> D'un tel honneur étaient dignes à peine ;  
+> Mais que ne pouvaient sur les cœurs  
+> Cet amour que Virgile a peint en traits vainqueurs,  
+> Le souvenir d'Elise abandonnée,  
+> D'un triste hymen invoquant les vains droits  
+> Et réclamant contre l'ingrat Enée  
+> L'appui des Dieux qui l'ont seuls condamnée ?  
+> Que ne pourrait le charme de ta voix ?  
+> De cette voix dont la mâle énergie,  
+> Quand la patrie en deuil redemandait ses rois,  
+> Déployant des vertus l'éloquente magie,  
+> Apprit au tyran même à respecter nos lois ?  
+> C'est à ta voix encor, c'est à son harmonie  
+> Qu'est dû tout le succès de mon humble génie ;  
+> Ce qui fait mon bonheur fait aussi mon orgueil,  
+> Virgile et toi protégiez ma faiblesse ;
+>
+> Ces vers nouveaux que je t'adresse  
+> Recevront-ils le même accueil ?  
+> Dans le sein de Virgile ils n'ont point pris naissance,  
+> Ton organe flatteur n'a pas accru leur prix ;  
+> Mais ils sont inspirés par la reconnaissance,  
+> Et c'est pour toi qu'ils sont écrits.
 
 ### Letter 238: Victor M. Hugo → Abbé de Lamennais
 
-### II.
+#### II.
 
-### *To* <span class="small-caps">the Abbé de Lamennais</span>, *la Chesnaie.*
+#### *To* <span class="small-caps">the Abbé de Lamennais</span>, *la Chesnaie.*
 
 1*st October*, 1822.
 
@@ -4664,9 +4681,9 @@ I must write to you, my illustrious friend ; I am about to be happy. Something w
 
 ### Letter 239: Victor Hugo → Count François de Neufchâteau
 
-### III.
+#### III.
 
-### *To* <span class="small-caps">Count François de Neufchâteau</span>, *of the French Academy, Rue Saint Marc-Feydeau.*
+#### *To* <span class="small-caps">Count François de Neufchâteau</span>, *of the French Academy,<br />Rue Saint Marc-Feydeau.*
 
 *15th November,* 1824.
 
@@ -4682,9 +4699,9 @@ Your most deeply devoted
 
 ### Letter 240: Victor Hugo → Baron Taylor
 
-### IV.
+#### IV.
 
-### *To* <span class="small-caps">Baron Taylor</span>.
+#### *To* <span class="small-caps">Baron Taylor</span>.
 
 *Tuesday, 18th October,* 1825.
 
@@ -4698,9 +4715,9 @@ No one is more cordially devoted to you than myself.
 
 ### Letter 241: V. H. → Baron Taylor
 
-### V.
+#### V.
 
-### *To* <span class="small-caps">the Same.</span>
+#### *To* <span class="small-caps">the Same.</span>
 
 11*th March*, 1830.
 
@@ -4716,9 +4733,9 @@ I count on your box for Monday. Do not forget that this is as important to the t
 
 ### Letter 242: Victor Hugo → Mlle. Mars
 
-### VI.
+#### VI.
 
-### *To* <span class="small-caps">Mlle. Mars</span>, 64 *Rue Saint-Lazare.*
+#### *To* <span class="small-caps">Mlle. Mars</span>, 64 *Rue Saint-Lazare.*
 
 *Tuesday, 10th March,* 1831.
 
@@ -4728,9 +4745,9 @@ I count on your box for Monday. Do not forget that this is as important to the t
 
 ### Letter 243: Victor Hugo → The Director of the Revue du Progrès Social
 
-### VII.
+#### VII.
 
-### *To* <span class="small-caps">The Director of the Revue du Progrès Social.</span>
+#### *To* <span class="small-caps">The Director of the Revue du Progrès Social.</span>
 
 *1st June,* 1834.
 
@@ -4746,9 +4763,9 @@ I have no doubt of your success. Truth, dear sir, sometimes has long periods of 
 
 ### Letter 244: M. Antoine de Latour
 
-### VIII.
+#### VIII.
 
-### *To* M. <span class="small-caps">Antoine de Latour</span>, *tutor of M. de Montpensier, at the Tuileries.*
+#### *To* M. <span class="small-caps">Antoine de Latour</span>, *tutor of M. de Montpensier, at the Tuileries.*
 
 <span class="small-caps">Les Roches</span>, 18*th October*, 1835.
 

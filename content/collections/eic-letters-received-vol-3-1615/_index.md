@@ -22,7 +22,7 @@
   "letters": 78,
   "notes": 625,
   "pages": 412,
-  "dated_letters": 72
+  "dated_letters": 73
  },
  "provenance_tier": "community",
  "quality": {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 24,
+  "flagged": 32,
   "blockers": 0
  },
  "proof": {
@@ -216,7 +216,7 @@
   ],
   [
    1615,
-   69
+   70
   ],
   [
    1616,
@@ -234,27 +234,27 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-3-1615.epub",
-   "bytes": 449196,
-   "sha256": "9c0bd16089bf647a35090e1fec885ef488db9e2ddaae8455eccb6f8b8ea6195e"
+   "bytes": 449410,
+   "sha256": "7ba9955899d5aa919ff60652e40a0f17080bdf6b7e5239aa54599c5950b653d4"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-3-1615.md",
-   "bytes": 896564,
-   "sha256": "2b15578b231c29ad54df0ed59fcff91349ce0992eca7fafce31debeb2095c853"
+   "bytes": 897693,
+   "sha256": "59a7e378582b946c6217089ec1062e26657a39ef4c037fce52c4d4f394c66159"
   },
   {
    "format": "tei",
    "file": "eic-letters-received-vol-3-1615.tei.xml",
-   "bytes": 1086031,
-   "sha256": "5257b7cca8670ad5720d3eb46ab13dabbe34871b0daabb819924a827dc368588"
+   "bytes": 1089983,
+   "sha256": "c369cd1604c088883624731edb94fb131749a309807fee9d04fb3636d6ecac60"
   }
  ],
  "scan_base": "https://archive.org/download/lettersreceivedb03east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:48:08Z",
-  "source_ast_sha256": "e8c118e91cbb9b30b5136688849f096dff4886d123346deba707d5e316c42f7a",
+  "compiled_at": "2026-11-24T19:21:43Z",
+  "source_ast_sha256": "d0ecf30f1d3d8db6778de5f36f54835e6f8805f8eb2858a10ba6c853c6791fe7",
   "hugo_renderer_version": "1.0.0"
  }
 }

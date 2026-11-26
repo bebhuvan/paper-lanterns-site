@@ -18,10 +18,10 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 59,
+  "letters": 60,
   "notes": 64,
   "pages": 136,
-  "dated_letters": 57
+  "dated_letters": 58
  },
  "provenance_tier": "machine_checked",
  "quality": {
@@ -279,7 +279,7 @@
   ],
   [
    1876,
-   1
+   2
   ],
   [
    1880,
@@ -323,7 +323,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 59,
+ "unperiodised_count": 60,
  "frontispiece": {},
  "title_page": {
   "page": 1,
@@ -333,27 +333,27 @@
   {
    "format": "epub",
    "file": "selected-english-letters-1914.epub",
-   "bytes": 137440,
-   "sha256": "1e3595651d0ba600e4e1b6e9a32e8a0c7f14de65fa868fdfc80ffe8e16ee7e04"
+   "bytes": 137600,
+   "sha256": "30558fd93f2ec7f4f5d9952f5caf7a829d3b4b9583d0570aec2d37f00d7d67b3"
   },
   {
    "format": "markdown",
    "file": "selected-english-letters-1914.md",
-   "bytes": 208888,
-   "sha256": "122aa1f5abfb266a15ceca697f3b3ccc993c293e891c0e9b0055d8bc7a05472c"
+   "bytes": 209185,
+   "sha256": "1d7f5366f69adeec84d8b5ff8374762b1be3355779af53e42f138fef290112fa"
   },
   {
    "format": "tei",
    "file": "selected-english-letters-1914.tei.xml",
-   "bytes": 264180,
-   "sha256": "d74f2794e6c52f5919bb4ecc0363426061852f554e89b55b05b191962534c9b0"
+   "bytes": 264696,
+   "sha256": "2ab9d4b4a0c046e7da3a0a09ef38aae3ba84bff09e67b87cdee002bc489fca48"
   }
  ],
  "scan_base": "https://archive.org/download/selectedenglishl00fues/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:58:23Z",
-  "source_ast_sha256": "c59f85c97a4f51d20d78dfcdd1f1f919d8c205822ce9701745df86aa8d846ee3",
+  "compiled_at": "2026-11-24T19:23:52Z",
+  "source_ast_sha256": "964c853a0fc6838aef9911117d7ddfef2d4f728b31a9dd5acd8298f5bb7a38ab",
   "hugo_renderer_version": "1.0.0"
  }
 }

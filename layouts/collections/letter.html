@@ -76,15 +76,36 @@
 <div class="meta" data-pagefind-ignore>{{ with .Params.letter_date.short }}<time class="mono"{{ with $.Params.letter_date.iso }} datetime="{{ . }}"{{ end }}>{{ . }}</time>{{ end }}{{ with .Params.place }}<span>{{ . }}</span>{{ end }}<span>Printed {{ $folios }}</span></div>
 <div class="text" data-letter-text>
 {{- $last := int .Params.start_page -}}
+{{- $inTable := false -}}
 {{- range .Params.blocks -}}
 {{- $pg := int .page -}}
-{{- if ne $pg $last }}<span class="pb">[p. {{ .folio | default (printf "leaf %d" $pg) }}]</span>{{ $last = $pg }}{{ end -}}
+{{- if ne $pg $last -}}{{- if $inTable }}</tbody></table></div>{{ $inTable = false }}{{ end -}}<span class="pb">[p. {{ .folio | default (printf "leaf %d" $pg) }}]</span>{{ $last = $pg }}{{ end -}}
+{{- if eq .type "table_row" -}}
+{{- if not $inTable }}<div class="table-wrap"><table class="letter-table"><tbody>{{ $inTable = true }}{{ end -}}
+{{- $role := .table_role | default "body" -}}
+<tr class="blk t-table_row t-role-{{ $role }}" id="{{ .id }}" data-page="{{ $pg }}" data-bbox="{{ delimit .bbox " " }}">
+{{- if .cells -}}
+{{- range .cells -}}
+{{- $cs := int (.colspan | default 1) -}}
+{{- $rs := int (.rowspan | default 1) -}}
+{{- if eq $role "header" -}}<th scope="col"{{ if gt $cs 1 }} colspan="{{ $cs }}"{{ end }}{{ if gt $rs 1 }} rowspan="{{ $rs }}"{{ end }}>{{ partial "runs.html" .lines }}</th>
+{{- else -}}<td{{ if gt $cs 1 }} colspan="{{ $cs }}"{{ end }}{{ if gt $rs 1 }} rowspan="{{ $rs }}"{{ end }}>{{ partial "runs.html" .lines }}</td>
+{{- end -}}
+{{- end -}}
+{{- else -}}
+<td>{{ partial "runs.html" .lines }}</td>
+{{- end -}}
+</tr>
+{{- else -}}
+{{- if $inTable }}</tbody></table></div>{{ $inTable = false }}{{ end -}}
 {{- if eq .type "illustration" -}}
-<p class="blk t-illustration" id="{{ .id }}" data-page="{{ $pg }}" data-bbox="{{ delimit .bbox " " }}">An illustration is printed here, on {{ if $id }}<a href="#scan-p{{ $pg }}">scan leaf {{ $pg }}</a>{{ else }}scan leaf {{ $pg }}{{ end }}.</p>
+<p class="blk t-illustration" id="{{ .id }}" data-page="{{ $pg }}" data-bbox="{{ delimit .bbox " " }}">An illustration is printed here, on {{ if $id }}<a href="#scan-p{{ $pg }}">scan leaf {{ $pg }}</a>{{ else }}scan leaf {{ $pg }}{{ end }}.{{- with .lines }} <span class="illu-caption">{{ partial "runs.html" . }}</span>{{- end }}</p>
 {{- else -}}
 <p class="blk t-{{ .type }} a-{{ .align }}" id="{{ .id }}" data-page="{{ $pg }}" data-bbox="{{ delimit .bbox " " }}">{{ partial "runs.html" .lines }}</p>
 {{- end -}}
 {{- end -}}
+{{- end -}}
+{{- if $inTable }}</tbody></table></div>{{ end -}}
 </div>
 {{- with .Params.footnotes }}
 <section class="notes" aria-labelledby="notes-h">

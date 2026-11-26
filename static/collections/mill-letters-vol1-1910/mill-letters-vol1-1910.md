@@ -12,7 +12,7 @@ NOLIS NOCERE NOLIS
 Andrew James Bell  
 Toronto.
 
-### <span class="small-caps">THE LETTERS OF</span> <span class="small-caps">JOHN STUART MILL</span>
+### <span class="small-caps">THE LETTERS OF</span><br /><span class="small-caps">JOHN STUART MILL</span>
 
 ### WORKS BY JOHN STUART MILL
 
@@ -42,7 +42,7 @@ Emery Walker Ph. sc.
 John Stuart Mill  
 from a Daguerreotype
 
-### THE LETTERS OF JOHN STUART MILL
+### THE LETTERS OF<br />JOHN STUART MILL
 
 EDITED, WITH AN INTRODUCTION, BY  
 HUGH S. R. ELLIOT
@@ -50,7 +50,7 @@ HUGH S. R. ELLIOT
 WITH A NOTE ON MILL'S PRIVATE LIFE, BY  
 MARY TAYLOR
 
-### VOL. I
+#### VOL. I
 
 *WITH PORTRAITS*
 
@@ -213,7 +213,7 @@ It is in these directions that political philosophy is widening out. If Mill liv
 
 HUGH ELLIOT.
 
-### SOME NOTES ON THE PRIVATE LIFE OF JOHN STUART MILL
+### SOME NOTES ON THE PRIVATE LIFE<br />OF JOHN STUART MILL
 
 <span class="small-caps">Was</span> the private life of Mill on the whole praiseworthy, or was much of his conduct in the highest degree reprehensible? This is the kind of question which, where a great man is concerned, must always be of vital interest. We desire in our leaders that they should be good as well as great, and it is only with a chill that we are able to bear the shock of a contrary impression. We feel that if they whose knowledge and depth or height of thought so far exceeded our own capabilities were yet unable to obey the promptings of conscience, or to keep even as straight a course as the average, their intellectual superiority has not been the boon to the human race that we had fancied it, since it is counterbalanced by an evil example of conduct as far-reaching as was the inspiration of their genius.
 
@@ -272,19 +272,19 @@ Mill's letters to his own family are too many of them painful, though strangely 
 
 ## CHAPTER I
 
-### THE LETTERS OF JOHN STUART MILL
+### THE LETTERS OF<br />JOHN STUART MILL
 
 ### CHAPTER I
 
-### 1829–1832
+##### 1829–1832
 
 <span class="small-caps">Many</span> of Mill’s earliest letters were written to John Sterling, who was afterwards made famous by Carlyle’s Biography. Sterling is described as possessing a “genius for friendship.”
 
-### Letter 1: J. S. Mill.
+### Letter 1: J. S. Mill. → John Sterling
 
-### To <span class="small-caps">John Sterling</span>,
+#### To <span class="small-caps">John Sterling</span>,
 
-### in reply to a letter from him, resigning his membership of the London Debating Society.
+#### in reply to a letter from him, resigning his membership of the London Debating Society.
 
 <span class="small-caps">India House</span>, *15th April* 1829.
 
@@ -300,7 +300,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 2: J. S. Mill → John Sterling
 
-### T<span class="small-caps">o</span> J<span class="small-caps">ohn</span> S<span class="small-caps">terling</span>,
+#### T<span class="small-caps">o</span> J<span class="small-caps">ohn</span> S<span class="small-caps">terling</span>,
 
 shortly after he had departed for the West Indies, to undertake the management of a sugar estate in St. Vincent. Mill was now at the height of his reaction against Benthamism.
 
@@ -357,7 +357,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 3: J. S. Mill → Gustave d'Eichthal
 
-### To <span class="small-caps">Gustave d'Eichthal</span>.
+#### To <span class="small-caps">Gustave d'Eichthal</span>.
 
 This letter was found by d'Eichthal among his papers nearly forty years after it had been written; and he was so pleased and surprised by it that he copied it on May 14, 1870, and sent the copy to Mill.
 
@@ -389,7 +389,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 4: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling</span>, who was still in the West Indies.
+#### To <span class="small-caps">John Sterling</span>,<br />who was still in the West Indies.
 
 <span class="small-caps">London</span>, *24th May* 1832.
 
@@ -425,7 +425,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 5: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>.
+#### To <span class="small-caps">Thomas Carlyle</span>.
 
 <span class="small-caps">India House</span>, *29th May* 1832.
 
@@ -465,7 +465,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 6: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>.
+#### To <span class="small-caps">Thomas Carlyle</span>.
 
 <span class="small-caps">London</span>, *17th July* 1832.
 
@@ -503,7 +503,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 7: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle.</span>
+#### To <span class="small-caps">Thomas Carlyle.</span>
 
 <span class="small-caps">India House</span>, *9th March* 1833.
 
@@ -541,7 +541,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 8: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>.
+#### To <span class="small-caps">Thomas Carlyle</span>.
 
 <span class="small-caps">India House</span>, *11th and 12th April* 1833.
 
@@ -571,7 +571,7 @@ J. S. M.
 
 ### Letter 10: Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>
+#### To <span class="small-caps">Thomas Carlyle</span>
 
 <span class="small-caps">India House</span>, 18*th May* 1833.
 
@@ -599,7 +599,7 @@ Charles Buller is well, and in spirits, and increasingly disposed to work ; he w
 
 ### Letter 11: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle.</span>
+#### To <span class="small-caps">Thomas Carlyle.</span>
 
 <span class="small-caps">London</span>, *5th July* 1833.
 
@@ -629,9 +629,9 @@ I am so far from seeing any *intolerance* in your dislike of speculation, unless
 
 ### Letter 13: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling</span>,
+#### To <span class="small-caps">John Sterling</span>,
 
-### condemning the inaction of the Government concerning the education of negroes.
+#### condemning the inaction of the Government concerning the education of negroes.
 
 *12th July* 1833.
 
@@ -647,7 +647,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 14: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle.</span>
+#### To <span class="small-caps">Thomas Carlyle.</span>
 
 [No date. ? *August* 1833.]
 
@@ -657,7 +657,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 15: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle.</span>
+#### To <span class="small-caps">Thomas Carlyle.</span>
 
 <span class="small-caps">India House,</span> *2nd August* 1833.
 
@@ -681,7 +681,7 @@ Thanks to Mrs. Carlyle for her two lines, and best remembrances to her and to Dr
 
 ### Letter 16: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle.</span>
+#### To <span class="small-caps">Thomas Carlyle.</span>
 
 <span class="small-caps">India House,</span> *5th September* 1833.
 
@@ -707,7 +707,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 17: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle.</span>
+#### To <span class="small-caps">Thomas Carlyle.</span>
 
 <span class="small-caps">Mickleham, near Dorking, Surrey,</span>  
 *5th October* 1833.  
@@ -745,7 +745,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 18: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>.
+#### To <span class="small-caps">Thomas Carlyle</span>.
 
 <span class="small-caps">India House</span>, *25th November* 1833.
 
@@ -779,7 +779,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 19: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle.</span>
+#### To <span class="small-caps">Thomas Carlyle.</span>
 
 <span class="small-caps">Kensington,</span> *22nd December* 1833.
 
@@ -816,7 +816,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 20: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>.
+#### To <span class="small-caps">Thomas Carlyle</span>.
 
 <span class="small-caps">Kensington</span>, *12th January* 1834.
 
@@ -846,7 +846,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 21: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>
+#### To <span class="small-caps">Thomas Carlyle</span>
 
 <span class="small-caps">Kensington</span>, *2nd March* 1834.
 
@@ -876,7 +876,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 22: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>
+#### To <span class="small-caps">Thomas Carlyle</span>
 
 <span class="small-caps">India House</span>, *28th April* 1834.
 
@@ -896,7 +896,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 23: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>, on the MS. of the “French Revolution.”
+#### To <span class="small-caps">Thomas Carlyle</span>,<br />on the MS. of the “French Revolution.”
 
 <span class="small-caps">India House</span>, *Wednesday* [no date, 1835 ?].
 
@@ -910,7 +910,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 24: J. S. Mill → Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>, with reference to the accidental destruction of the MS. of the “French Revolution” while in Mill’s possession.
+#### To <span class="small-caps">Thomas Carlyle</span>,<br />with reference to the accidental destruction of the MS. of the “French Revolution” while in Mill’s possession.
 
 <span class="small-caps">India House</span>, *7th March* [1835].
 
@@ -924,9 +924,9 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 25: Thomas Carlyle
 
-### To <span class="small-caps">Thomas Carlyle</span>,
+#### To <span class="small-caps">Thomas Carlyle</span>,
 
-### in reply to his acceptance of Mill's proposal to make financial recompense for the loss of the MS. of the “French Revolution.”
+#### in reply to his acceptance of Mill's proposal to make financial recompense for the loss of the MS. of the “French Revolution.”
 
 <span class="small-caps">India House</span>, *Tuesday* [*10th March* 1835].
 
@@ -940,7 +940,7 @@ You shall see or hear from me again almost immediately, but I will not take the 
 
 ### Letter 26: J. S. Mill → E. Lytton Bulwer
 
-### To E. L<span class="small-caps">ytton</span> B<span class="small-caps">ulwer</span> (afterwards Lord L<span class="small-caps">ytton</span>)
+#### To E. L<span class="small-caps">ytton</span> B<span class="small-caps">ulwer</span> (afterwards Lord L<span class="small-caps">ytton</span>)
 
 I<span class="small-caps">ndia</span> H<span class="small-caps">ouse</span>, *23rd November* 1836.
 
@@ -964,7 +964,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 27: J. S. Mill → E. Lytton Bulwer
 
-### To E. <span class="small-caps">Lytton Bulwer</span>
+#### To E. <span class="small-caps">Lytton Bulwer</span>
 
 *29th November* 1836.
 
@@ -978,7 +978,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 28: J. S. Mill → E. Lytton Bulwer
 
-### To E. <span class="small-caps">Lytton Bulwer</span>
+#### To E. <span class="small-caps">Lytton Bulwer</span>
 
 *Wednesday* [1837].
 
@@ -996,7 +996,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 29: J. S. Mill → E. Lytton Bulwer
 
-### To E. <span class="small-caps">Lytton Bulwer</span>
+#### To E. <span class="small-caps">Lytton Bulwer</span>
 
 <span class="small-caps">India House</span>, *3rd March* 1838.
 
@@ -1014,7 +1014,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 30: J. S. Mill → E. Lytton Bulwer
 
-### To E. <span class="small-caps">Lytton Bulwer</span>
+#### To E. <span class="small-caps">Lytton Bulwer</span>
 
 <span class="small-caps">India House</span>, *5th March* 1838.
 
@@ -1036,7 +1036,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 31: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling</span>,
+#### To <span class="small-caps">John Sterling</span>,
 
 acknowledging the receipt of his article on Carlyle, written for the *London and Westminster Review.* The article was subsequently republished in Sterling's collected writings.
 
@@ -1058,7 +1058,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 32: John Sterling
 
-### To <span class="small-caps">John Sterling</span>
+#### To <span class="small-caps">John Sterling</span>
 
 <span class="small-caps">India House</span>, *28th September* 1839.
 
@@ -1070,7 +1070,7 @@ I am very far from agreeing, in all things, with the “Analysis,”[^fn-p0170-1
 
 ### Letter 33: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling</span>, on Coleridge.
+#### To <span class="small-caps">John Sterling</span>,<br />on Coleridge.
 
 <span class="small-caps">India House</span>, *2nd October* 1839.
 
@@ -1092,7 +1092,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 34: John Sterling
 
-### To <span class="small-caps">John Sterling.</span>
+#### To <span class="small-caps">John Sterling.</span>
 
 <span class="small-caps">East India House,</span> *4th November* 1839.
 
@@ -1102,7 +1102,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 35: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling.</span>
+#### To <span class="small-caps">John Sterling.</span>
 
 <span class="small-caps">India House,</span> *22nd April* 1840.
 
@@ -1124,7 +1124,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 36: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling</span>.
+#### To <span class="small-caps">John Sterling</span>.
 
 <span class="small-caps">India House</span>, 1*st October* 1840.
 
@@ -1138,7 +1138,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 37: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling</span>.
+#### To <span class="small-caps">John Sterling</span>.
 
 3*rd December* 1840.
 
@@ -1154,7 +1154,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 38: John Sterling
 
-### To <span class="small-caps">John Sterling</span>.
+#### To <span class="small-caps">John Sterling</span>.
 
 <span class="small-caps">India House</span>, 19*th December* 1840.
 
@@ -1168,7 +1168,7 @@ No one seems to me to have raised himself by this but Guizot, and he has done wh
 
 ### Letter 39: John Sterling
 
-### To <span class="small-caps">John Sterling</span>
+#### To <span class="small-caps">John Sterling</span>
 
 <span class="small-caps">India House</span>, *5th January* 1841.
 
@@ -1182,7 +1182,7 @@ I need hardly say how earnestly I feel with you about the Corn Laws, and I there
 
 ### Letter 40: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling.</span>
+#### To <span class="small-caps">John Sterling.</span>
 
 <span class="small-caps">India House,</span> *November* 1842.
 
@@ -1196,7 +1196,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 41: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling.</span>
+#### To <span class="small-caps">John Sterling.</span>
 
 <span class="small-caps">India House,</span> *November* 1842.
 
@@ -1214,7 +1214,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 42: J. S. Mill → Sir E. Lytton Bulwer
 
-### To Sir E. <span class="small-caps">Lytton Bulwer</span>, in reply to a letter from him concerning the “Logic.”
+#### To Sir E. <span class="small-caps">Lytton Bulwer</span>,<br />in reply to a letter from him concerning the “Logic.”
 
 <span class="small-caps">India House</span>, *27th March* 1843.
 
@@ -1232,7 +1232,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 43: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling</span>,
+#### To <span class="small-caps">John Sterling</span>,
 
 condoling with him on the loss of his mother and wife, who died within a few hours of each other, on 18th April 1843.
 
@@ -1246,7 +1246,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 44: J. S. Mill → John Sterling
 
-### To <span class="small-caps">John Sterling</span>,
+#### To <span class="small-caps">John Sterling</span>,
 
 about four months before his death took place from consumption.
 
@@ -1266,9 +1266,9 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 45: John Sterling
 
-### To <span class="small-caps">John Sterling,</span>
+#### To <span class="small-caps">John Sterling,</span>
 
-### in reply to a letter from him, informing Mill that he was on the point of death.
+#### in reply to a letter from him, informing Mill that he was on the point of death.
 
 <span class="small-caps">India House,</span> 16*th August* 1844.
 
@@ -1295,7 +1295,7 @@ If we lose you, the remembrance of your friendship will be a precious possession
 
 ### Letter 46: J. S. Mill → John Austin
 
-### To <span class="small-caps">John Austin</span>, the eminent jurist.
+#### To <span class="small-caps">John Austin</span>, the eminent jurist.
 
 *13th April* 1847.
 
@@ -1337,7 +1337,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 47: J. F. Mollett
 
-### To J. F. <span class="small-caps">Mollett</span>,
+#### To J. F. <span class="small-caps">Mollett</span>,
 
 with reference to a Mr. Lovett, who had been brought before a magistrate for refusing to serve in the militia. He pleaded that, as he had no vote, he was not acknowledged by the State as a citizen, and there was no compulsion upon him to serve. He took his stand upon the cry, “No vote, no musket.”
 
@@ -1351,7 +1351,7 @@ With the principles on which it appears that Mr. Lovett really acted I have much
 
 ### Letter 48: Mrs. John Austin
 
-### To Mrs. <span class="small-caps">John Austin</span>, who was then resident in Paris, immediately after the abdication of Louis Philippe.
+#### To Mrs. <span class="small-caps">John Austin</span>, who was then resident in Paris, immediately after the abdication of Louis Philippe.
 
 *27th February* 1848.
 
@@ -1367,7 +1367,7 @@ Who can it be that takes Mr. Austin's name in the *Times* and attempts to imitat
 
 ### Letter 49: Mrs. Austin
 
-### To Mrs. <span class="small-caps">Austin</span>, indicating Mill's difference from John Austin with regard to the French Revolution of 1848.
+#### To Mrs. <span class="small-caps">Austin</span>,<br />indicating Mill's difference from John Austin with regard to the French Revolution of 1848.
 
 *March* (?) 1848.
 
@@ -1377,7 +1377,7 @@ Who can it be that takes Mr. Austin's name in the *Times* and attempts to imitat
 
 ### Letter 50: J. S. Mill → Armand Marrast
 
-### To <span class="small-caps">Armand Marrast</span>, then a member of the Provisional Government in France, enclosing a presentation copy of the "Political Economy," which had just been published.
+#### To <span class="small-caps">Armand Marrast</span>,<br />then a member of the Provisional Government in France, enclosing a presentation copy of the "Political Economy," which had just been published.
 
 1848.
 
@@ -1393,7 +1393,7 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 51: Eugène Sue
 
-### To <span class="small-caps">Eugène Sue,</span> enclosing a presentation copy of the “Political Economy.”
+#### To <span class="small-caps">Eugène Sue,</span><br />enclosing a presentation copy of the “Political Economy.”
 
 1848.
 
@@ -1405,7 +1405,7 @@ Mon second motif c'est le désir de vous témoigner la vive sympathie que j'épr
 
 ### Letter 52: John Jay
 
-### To <span class="small-caps">John Jay</span>, of New York.
+#### To <span class="small-caps">John Jay</span>, of New York.
 
 *About November* 1848.
 
@@ -1419,7 +1419,7 @@ On the population question my difference with the reviewer is fundamental, and i
 
 ### Letter 53: Emile Littré
 
-### To <span class="small-caps">Emile Littré</span>,
+#### To <span class="small-caps">Emile Littré</span>,
 
 in reply to a circular requesting financial assistance  
 for Auguste Comte.
@@ -1430,7 +1430,7 @@ for Auguste Comte.
 
 ### Letter 54: George Grote
 
-### To <span class="small-caps">George Grote</span>.
+#### To <span class="small-caps">George Grote</span>.
 
 *22nd December* 1848.
 
@@ -1442,9 +1442,9 @@ In Comte's position I think my conduct would have been different: in the first p
 
 ### Letter 55: J. S. Mill → Dr. W. G. Ward
 
-### To Dr. W. G. <span class="small-caps">Ward</span>,
+#### To Dr. W. G. <span class="small-caps">Ward</span>,
 
-### touching on a variety of religious and other topics.
+#### touching on a variety of religious and other topics.
 
 *Spring of* 1849.
 
@@ -1498,7 +1498,7 @@ I should have answered your letter weeks ago had I not been out of town on accou
 
 ### Letter 56: William Conner
 
-### To <span class="small-caps">William Conner</span>,
+#### To <span class="small-caps">William Conner</span>,
 
 in reply to a letter from him thanking Mill for a favourable allusion to his views on the Irish Land question, in the “Political Economy.”
 
@@ -1514,9 +1514,9 @@ I lament that exertions so promising as those in which you were engaged have bee
 
 ### Letter 57: W. J. Fox
 
-### To W. J. Fox,
+#### To W. J. Fox,
 
-### on religious and moral instruction in schools.
+#### on religious and moral instruction in schools.
 
 *End of* 1849.
 
@@ -1526,21 +1526,23 @@ The stupid doctrines which alone the plan excludes, generally lie dead in the mi
 
 > *[Margin: 1849 — Aetat. 43.]*
 
-*Notes appended to the above letter.*
-
-*3rd Resolution.*—I would omit the words *including moral instruction.* What the sort of people who will have the management of any such schools mean by moral instruction, is much the same thing as what they mean by religious instruction, only lowered to the world's practice. It means cramming the children *directly* with all the common *professions* about what is right and wrong, and about the worth of different objects in life, and filling them indirectly with the spirit of all the notions on such matters which vulgar-minded people are in the habit of acting on without consciously professing. I know it is impossible to prevent much of this from being done—but the less of it there is the better, and I would not set people upon doing more of it than they might otherwise do, by insisting expressly on *moral* instruction.
-
-If it were possible to provide for giving *real* moral instruction it would be worth more than all else that schools can do. But no programme of moral instruction, which would be really good, would have a chance of being assented to or followed by the manager of a general scheme of public instruction in the present state of people's minds.
-
-*5th Resolution.*—The National Schools of Ireland are, I believe, the best among *existing* models; but they are unsectarian only in a narrow sense. They are not unsectarian as between Christian and non-Christian. They are not purely for secular instruction. They use selections from the Bible, and therefore teach the general recognition of that book as containing the system and history of creation and the commands of an all-wise and good being. Any system of instruction, which does this, contains, I conceive, a great part of all the mischief done by a purely Church or purely Dissenting education. Is it not better, even in policy, to make the omission altogether of religion from State schools the avowed object ?
-
-> *[Margin: 1849 — Aetat. 43.]*
-
-*8th Resolution.*—This seems to be very objectionable. If any public body were empowered to prevent a person from practising as a teacher without a certificate of competency, no person believed to think or act in opposition to any of the ordinary standards, or who is supposed to be an “unbeliever,” would ever be allowed to teach. No Socialist or even Chartist would have (especially in times of political alarm) the smallest chance. No such person could keep even a private school, much less be teacher in a public one. I have never seen the body that I would trust with the power of pronouncing persons incompetent for this or any other profession. Neither do I see what purpose this resolution is intended to answer. No doubt persons grossly incompetent do try to get a living as schoolmasters, but the remedy for this is to provide better ones, and the other resolutions ensure this in every district. Besides, this evil would soon take care of itself if the mass of people had even a little education.
+> **[enclosure: Notes appended to the above letter.]**
+>
+> *Notes appended to the above letter.*
+>
+> *3rd Resolution.*—I would omit the words *including moral instruction.* What the sort of people who will have the management of any such schools mean by moral instruction, is much the same thing as what they mean by religious instruction, only lowered to the world's practice. It means cramming the children *directly* with all the common *professions* about what is right and wrong, and about the worth of different objects in life, and filling them indirectly with the spirit of all the notions on such matters which vulgar-minded people are in the habit of acting on without consciously professing. I know it is impossible to prevent much of this from being done—but the less of it there is the better, and I would not set people upon doing more of it than they might otherwise do, by insisting expressly on *moral* instruction.
+>
+> If it were possible to provide for giving *real* moral instruction it would be worth more than all else that schools can do. But no programme of moral instruction, which would be really good, would have a chance of being assented to or followed by the manager of a general scheme of public instruction in the present state of people's minds.
+>
+> *5th Resolution.*—The National Schools of Ireland are, I believe, the best among *existing* models; but they are unsectarian only in a narrow sense. They are not unsectarian as between Christian and non-Christian. They are not purely for secular instruction. They use selections from the Bible, and therefore teach the general recognition of that book as containing the system and history of creation and the commands of an all-wise and good being. Any system of instruction, which does this, contains, I conceive, a great part of all the mischief done by a purely Church or purely Dissenting education. Is it not better, even in policy, to make the omission altogether of religion from State schools the avowed object ?
+>
+> > *[Margin: 1849 — Aetat. 43.]*
+>
+> *8th Resolution.*—This seems to be very objectionable. If any public body were empowered to prevent a person from practising as a teacher without a certificate of competency, no person believed to think or act in opposition to any of the ordinary standards, or who is supposed to be an “unbeliever,” would ever be allowed to teach. No Socialist or even Chartist would have (especially in times of political alarm) the smallest chance. No such person could keep even a private school, much less be teacher in a public one. I have never seen the body that I would trust with the power of pronouncing persons incompetent for this or any other profession. Neither do I see what purpose this resolution is intended to answer. No doubt persons grossly incompetent do try to get a living as schoolmasters, but the remedy for this is to provide better ones, and the other resolutions ensure this in every district. Besides, this evil would soon take care of itself if the mass of people had even a little education.
 
 ### Letter 58: Edward Herford
 
-### To <span class="small-caps">Edward Herford</span>, Coroner of Manchester, in reply to a letter from him, inviting Mill to join a society called the “Poor Law Reform Association.”
+#### To <span class="small-caps">Edward Herford</span>, Coroner of Manchester, in reply to a letter from him, inviting Mill to join a society called the “Poor Law Reform Association.”
 
 *January* 1850.
 
@@ -1560,7 +1562,7 @@ At present I expect very little from any plans which aim at improving even the e
 
 ### Letter 59: J. S. Mill → Edward Herford
 
-### To <span class="small-caps">Edward Herford</span>; a sequel to the preceding letter.
+#### To <span class="small-caps">Edward Herford</span>;<br />a sequel to the preceding letter.
 
 *February* 1850.
 
@@ -1576,7 +1578,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 60: Walter Coulson
 
-### To <span class="small-caps">Walter Coulson</span>, on reading an article by Charles Kingsley on Free Trade.
+#### To <span class="small-caps">Walter Coulson</span>,<br />on reading an article by Charles Kingsley on Free<br />Trade.
 
 <span class="small-caps">India House</span>, *22nd November* 1850.
 
@@ -1600,7 +1602,7 @@ Mr. Kingsley’s notions must be little less vague about my political economy th
 
 ### Letter 61: Editor of the Weekly Dispatch
 
-### To the Editor of the *Weekly Dispatch.*
+#### To the Editor of the *Weekly Dispatch.*
 
 This letter appears not to have been printed.
 
@@ -1672,7 +1674,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 62: F. Lucas
 
-### To F. <span class="small-caps">Lucas</span>, in reply to an invitation to stand for Parliament for an Irish county.
+#### To F. <span class="small-caps">Lucas</span>,<br />in reply to an invitation to stand for Parliament for an Irish county.
 
 <span class="small-caps">India House</span>, *28th March* 1851.
 
@@ -1680,7 +1682,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 63: J. S. Mill → Sir George Grey
 
-### To Sir <span class="small-caps">George Grey</span>,
+#### To Sir <span class="small-caps">George Grey</span>,
 
 then Home Secretary in Lord John Russell's Government. Mill has recorded on this letter that it was " only officially acknowledged."
 
@@ -1704,9 +1706,9 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 64: John Chapman
 
-### To <span class="small-caps">John Chapman</span>,
+#### To <span class="small-caps">John Chapman</span>,
 
-### on the first draft of the prospectus of the *Westminster Review.*
+#### on the first draft of the prospectus of the *Westminster Review.*
 
 *9th June* 1851.
 
@@ -1730,7 +1732,7 @@ In conclusion, I think it right to say that if your wish to consult me respectin
 
 ### Letter 65: H. W. Carr
 
-### To the Rev. H. W. <span class="small-caps">Carr</span>, of South Shields, in reply to a letter from him.
+#### To the Rev. H. W. <span class="small-caps">Carr</span>, of South Shields,<br />in reply to a letter from him.
 
 *7th January* 1852.
 
@@ -1750,7 +1752,7 @@ If in applying to me you hoped that I might be able to offer you any suggestions
 
 ### Letter 66: Adolph Soetbeer
 
-### To Dr. <span class="small-caps">Adolph Soetbeer</span>, of Hamburg, on his translation of the “Political Economy” into German.
+#### To Dr. <span class="small-caps">Adolph Soetbeer</span>, of Hamburg,<br />on his translation of the “Political Economy” into<br />German.
 
 18*th March* 1852.
 
@@ -1762,7 +1764,7 @@ The pressure of my occupations has left me no leisure until now to answer your l
 
 ### Letter 67: Carl D. Heinrich Rau
 
-### To Professor <span class="small-caps">Carl</span> D. <span class="small-caps">Heinrich Rau</span>, of Heidelberg.
+#### To Professor <span class="small-caps">Carl</span> D. <span class="small-caps">Heinrich Rau</span>, of Heidelberg.
 
 <span class="small-caps">East India House</span>, *20th March* 1852.
 
@@ -1776,7 +1778,7 @@ Though my references to your systematic work were confined to the Brussels trans
 
 ### Letter 68: Green
 
-### To Professor <span class="small-caps">Green</span>, of Poona.
+#### To Professor <span class="small-caps">Green</span>, of Poona.
 
 <span class="small-caps">India House</span>, *8th April* 1852.
 
@@ -1786,9 +1788,9 @@ Though my references to your systematic work were confined to the Brussels trans
 
 ### Letter 69: Rau
 
-### To Professor <span class="small-caps">Rau</span>,
+#### To Professor <span class="small-caps">Rau</span>,
 
-### in answer to a question concerning the position of Labour Co-partnership in England.
+#### in answer to a question concerning the position of<br />Labour Co-partnership in England.
 
 <span class="small-caps">East India House</span>, *7th July* 1852.
 
@@ -1800,9 +1802,9 @@ Though my references to your systematic work were confined to the Brussels trans
 
 ### Letter 70: J. S. Mill → Lord Monteagle
 
-### To Lord <span class="small-caps">Monteagle</span>,
+#### To Lord <span class="small-caps">Monteagle</span>,
 
-### the Whig statesman, in acknowledgment of his pamphlet on the Representation of Minorities.
+#### the Whig statesman, in acknowledgment of his pamphlet on the Representation of Minorities.
 
 *20th March* 1853.
 
@@ -1826,9 +1828,9 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 71: William Molesworth
 
-### To Sir <span class="small-caps">William Molesworth</span>,
+#### To Sir <span class="small-caps">William Molesworth</span>,
 
-### in reply to a letter asking Mill's opinion on the argument put forward by the opponents of a Succession Duty, that “it would lead to partition of the land, which was an evil.”
+#### in reply to a letter asking Mill's opinion on the argument put forward by the opponents of a Succession Duty, that “it would lead to partition of the land, which was an evil.”
 
 <span class="small-caps">India House</span>, 15*th May* 1853.
 
@@ -1840,9 +1842,9 @@ I do not know any writers who have discussed taxes on succession at much length,
 
 ### Letter 72: Lord Hobart
 
-### To Lord <span class="small-caps">Hobart</span>,
+#### To Lord <span class="small-caps">Hobart</span>,
 
-### acknowledging his “Remarks on the Law of Partnership Liability.”
+#### acknowledging his “Remarks on the Law of Partnership Liability.”
 
 <span class="small-caps">Blackheath</span>, *7th August* [1853?].
 
@@ -1854,9 +1856,9 @@ As you do me the honour to ask my opinion of your argument, I think that much of
 
 ### Letter 73: T. J. Furnivale
 
-### To T. J. <span class="small-caps">Furnivale</span>,
+#### To T. J. <span class="small-caps">Furnivale</span>,
 
-### in reply to a request for permission to reprint a chapter of the “Political Economy.”
+#### in reply to a request for permission to reprint a chapter of the “Political Economy.”
 
 13*th February* 1854.
 
@@ -1870,7 +1872,7 @@ honour as that made in your letter of the 3rd respecting the chapter of my “Po
 
 ### Letter 74: Arthur Gore
 
-### To <span class="small-caps">Arthur Gore</span>,
+#### To <span class="small-caps">Arthur Gore</span>,
 
 who had written to Mill, criticising his definition of “cause” in the “Logic.”
 
@@ -1888,7 +1890,7 @@ Our difference is more one of expression than of fact. It seems to me that when 
 
 ### Letter 75: J. S. Mill → Library Committees, South Carolina
 
-### To the Chairman of the Library Committees, South Carolina.
+#### To the Chairman of the Library Committees,<br />South Carolina.
 
 *3rd March* 1854.
 
@@ -1904,7 +1906,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 76: Neophyte Writers' Society
 
-### To the Secretary of the Neophyte Writers' Society.
+#### To the Secretary of the Neophyte Writers'<br />Society.
 
 *23rd April* 1854.
 
@@ -1920,9 +1922,9 @@ For these reasons I cannot consent that my name should be added to the list of w
 
 ### Letter 77: William Stigant
 
-### To <span class="small-caps">William Stigant</span>,
+#### To <span class="small-caps">William Stigant</span>,
 
-### who sought Mill's advice on a course of reading in Moral Philosophy.
+#### who sought Mill's advice on a course of reading in<br />Moral Philosophy.
 
 <span class="small-caps">East India House</span>, 1*st August* 1854.
 
@@ -1932,7 +1934,7 @@ For these reasons I cannot consent that my name should be added to the list of w
 
 ### Letter 78: Barbot de Chément
 
-### <span class="small-caps">To Barbot de Chément</span>, *a French captain of artillery.*
+#### <span class="small-caps">To Barbot de Chément</span>,<br />*a French captain of artillery.*
 
 <span class="small-caps">East India House</span>, *7th August* 1854.
 
@@ -1958,7 +1960,7 @@ Il me parait, donc, peu probable, Monsieur, que vos sentiments envers la doctrin
 
 ### Letter 79: John M'Neill
 
-### To Sir <span class="small-caps">John</span> M‘<span class="small-caps">Neill</span>, on James Ferrier’s work “ Institutes of Metaphysic.”
+#### To Sir <span class="small-caps">John</span> M‘<span class="small-caps">Neill</span>,<br />on James Ferrier’s work “ Institutes of Metaphysic.”
 
 <span class="small-caps">Torquay</span>, *5th December* 1854.
 
@@ -1974,7 +1976,7 @@ Pray excuse the seeming crudity with which I have expressed the opinion you aske
 
 ### Letter 80: Wentworth Holworthy
 
-### To <span class="small-caps">Wentworth Holworthy.</span>
+#### To <span class="small-caps">Wentworth Holworthy.</span>
 
 <span class="small-caps">East India House,</span> *11th July* 1855.
 
@@ -2027,7 +2029,7 @@ The epitaph ran as follows:—
 
 ### Letter 83: Arthur Hardy
 
-### To <span class="small-caps">Arthur Hardy</span>, of Adelaide.
+#### To <span class="small-caps">Arthur Hardy</span>, of Adelaide.
 
 *29th September* 1856.
 
@@ -2039,7 +2041,7 @@ The epitaph ran as follows:—
 
 ### Letter 84: Sunday League
 
-### To the Secretary of the Sunday League.
+#### To the Secretary of the Sunday League.
 
 *November* 1856.
 
@@ -2049,9 +2051,9 @@ The epitaph ran as follows:—
 
 I am also unable to give my adhesion to various expressions in the Declaration which partake of the nature of a compliance with cant ; such as the “desecration of the Sunday, and the preservation of its original purpose of a day of devotion.” The devotion which is not felt equally at all times does not deserve the name ; and it is one thing to regard the observance of a holiday from ordinary work on one day in the week as a highly beneficial institution, and another to ascribe any sacredness to the day, a notion so forcibly repudiated in the quotations from great religious authorities on your fourth page, and which I hold to be as mere a superstition as any of the analogous prejudices which existed in times antecedent to Christianity.
 
-### Letter 85
+### Letter 85: the author of “Currency Self-Regulating and Elastic.”
 
-### To the author of “Currency Self-Regulating and Elastic.”
+#### To the author of “Currency Self-Regulating<br />and Elastic.”
 
 <span class="small-caps">East India House</span>, *24th November* 1856.
 
@@ -2069,7 +2071,7 @@ I must add that I agree with most of your comments on the Act of 1844, and shoul
 
 ### Letter 86: Costantino Baer
 
-### To <span class="small-caps">Costantino Baer</span>, attaché au Ministère de l’Intérieur à Naples.
+#### To <span class="small-caps">Costantino Baer</span>, attaché au Ministère<br />de l’Intérieur à Naples.
 
 <span class="small-caps">East India House</span>, *13th December* 1856.
 
@@ -2087,7 +2089,7 @@ Pour ce qui regarde les applications de l'économie politique, je vois que, ains
 
 ### Letter 87: J. S. Mill → Pasquale Villari
 
-### To <span class="small-caps">Pasquale Villari.</span>
+#### To <span class="small-caps">Pasquale Villari.</span>
 
 <span class="small-caps">East India House,</span> *30th June* 1857.
 
@@ -2111,7 +2113,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 88: Henry Carleton
 
-### To <span class="small-caps">Henry Carleton</span>, of Philadelphia.
+#### To <span class="small-caps">Henry Carleton</span>, of Philadelphia.
 
 <span class="small-caps">East India House</span>, *12th October* 1857.
 
@@ -2125,7 +2127,7 @@ I hope that like myself you have been successful in warding off your chest compl
 
 ### Letter 89: F. Sinnett
 
-### To F. <span class="small-caps">Sinnett</span>, of Melbourne.
+#### To F. <span class="small-caps">Sinnett</span>, of Melbourne.
 
 <span class="small-caps">Blackheath</span>, *22nd October* 1857.
 
@@ -2155,9 +2157,9 @@ I may add that I *should* be glad to see a representation given to the graduates
 
 ### Letter 91: John Holmes
 
-### To <span class="small-caps">John Holmes</span>, of Leeds,
+#### To <span class="small-caps">John Holmes</span>, of Leeds,
 
-### on the Co-operative movement.
+#### on the Co-operative movement.
 
 <span class="small-caps">East India House</span>, 19*th January* 1858.
 
@@ -2169,7 +2171,7 @@ I may add that I *should* be glad to see a representation given to the graduates
 
 ### Letter 92: Giuseppe Mazzini
 
-### <span class="small-caps">To Giuseppe Mazzini.</span>
+#### <span class="small-caps">To Giuseppe Mazzini.</span>
 
 <span class="small-caps">Blackheath Park,</span> *21st February* 1858.
 
@@ -2181,7 +2183,7 @@ I may add that I *should* be glad to see a representation given to the graduates
 
 ### Letter 93: J. S. Mill → Pasquale Villari
 
-### To <span class="small-caps">Pasquale Villari</span>.
+#### To <span class="small-caps">Pasquale Villari</span>.
 
 <span class="small-caps">East India House</span>, *le* 9 *mars*, 1858.
 
@@ -2199,7 +2201,7 @@ J'espérais vous offrir depuis longtemps mon petit livre sur la Liberté, mais p
 
 ### Letter 94: William Newmarch
 
-### To <span class="small-caps">William Newmarch</span>.
+#### To <span class="small-caps">William Newmarch</span>.
 
 <span class="small-caps">East India House</span>, *20th March* 1858.
 
@@ -2213,7 +2215,7 @@ I have been turning over in my mind the proposal which was the subject of your n
 
 ### Letter 95: Giuseppe Mazzini
 
-### To <span class="small-caps">Giuseppe Mazzini</span>,
+#### To <span class="small-caps">Giuseppe Mazzini</span>,
 
 on a proposal to form an International Society for political objects.
 
@@ -2227,7 +2229,7 @@ Mill received a very large number of letters from unknown correspondents. These 
 
 ### Letter 96: J. Britten
 
-### To J. <span class="small-caps">Britten.</span>
+#### To J. <span class="small-caps">Britten.</span>
 
 <span class="small-caps">East India House</span>, *1st July* 1858.
 
@@ -2237,7 +2239,7 @@ You are not the first, nor the hundredth, person who has thought that he was abl
 
 ### Letter 97: Pasquale Villari
 
-### To <span class="small-caps">Pasquale Villari.</span>
+#### To <span class="small-caps">Pasquale Villari.</span>
 
 <span class="small-caps">East India House</span>, *le 8 juillet* 1858.
 
@@ -2251,9 +2253,9 @@ Vos observations sur l'Inde sont d'une grande justesse, vu le peu de documents q
 
 ### Letter 98: Judge Chapman
 
-### To Judge <span class="small-caps">Chapman</span>,
+#### To Judge <span class="small-caps">Chapman</span>,
 
-### then Prime Minister of the colony of Victoria.
+#### then Prime Minister of the colony of Victoria.
 
 <span class="small-caps">East India House</span>, *8th July* 1858.
 
@@ -2271,9 +2273,9 @@ There is probably little I could tell you about English politics that you do not
 
 ### Letter 99: J. S. Mill → Louis Blanc
 
-### To <span class="small-caps">Louis Blanc</span>,
+#### To <span class="small-caps">Louis Blanc</span>,
 
-### acknowledging his book, “ 1848: Historical Revela- tions.”
+#### acknowledging his book, “ 1848: Historical Revela- tions.”
 
 <span class="small-caps">Blackheath Park</span>, *le* 9 *juillet* 1858.
 
@@ -2296,9 +2298,9 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 100: George Grote
 
-### To <span class="small-caps">George Grote</span>,
+#### To <span class="small-caps">George Grote</span>,
 
-### in reply to a letter of sympathy on the death of Mrs. Mill.
+#### in reply to a letter of sympathy on the death of Mrs. Mill.
 
 <span class="small-caps">Blackheath</span>, *28th November* 1858.
 
@@ -2310,7 +2312,7 @@ Pray express to Mrs. Grote my gratitude for her kind sympathy. I will write agai
 
 ### Letter 101: James Lorimer
 
-### To <span class="small-caps">James Lorimer</span>, on Plural Voting.
+#### To <span class="small-caps">James Lorimer</span>,<br />on Plural Voting.
 
 <span class="small-caps">Blackheath</span>, *3rd March* 1859.
 
@@ -2344,7 +2346,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 103: Pasquale Villari
 
-### To <span class="small-caps">Pasquale Villari</span>, in reply to a letter of condolence on the death of Mrs. Mill.
+#### To <span class="small-caps">Pasquale Villari</span>,<br />in reply to a letter of condolence on the death of Mrs. Mill.
 
 *le* 6 *mars* 1859.
 
@@ -2356,7 +2358,7 @@ J'ai acheté une petite maison près de son tombeau. . . .
 
 ### Letter 104: Alexander Bain
 
-### To <span class="small-caps">Alexander Bain</span>.
+#### To <span class="small-caps">Alexander Bain</span>.
 
 <span class="small-caps">Blackheath</span>, *17th March* 1859.
 
@@ -2366,9 +2368,9 @@ J'ai acheté une petite maison près de son tombeau. . . .
 
 ### Letter 105: Pasquale Villari
 
-### To <span class="small-caps">Pasquale Villari</span>,
+#### To <span class="small-caps">Pasquale Villari</span>,
 
-### in reply to a further letter on the death of Mrs. Mill.
+#### in reply to a further letter on the death of Mrs. Mill.
 
 <span class="small-caps">Blackheath</span>, *28th March* 1859.
 
@@ -2382,7 +2384,7 @@ Passons maintenant aux affaires de l'Italie. Je ne m'étonne point de l'illusion
 
 ### Letter 106: Thomas Hare
 
-### To <span class="small-caps">Thomas Hare.</span>
+#### To <span class="small-caps">Thomas Hare.</span>
 
 *29th March* 1859.
 
@@ -2394,7 +2396,7 @@ Does Gladstone know of your book? I should think him, of all prominent public me
 
 ### Letter 107: James Lorimer
 
-### To <span class="small-caps">James Lorimer</span>,
+#### To <span class="small-caps">James Lorimer</span>,
 
 who was beginning to be known as an author.
 
@@ -2408,7 +2410,7 @@ I hope you may yet find some channel for saying all you would wish to say in rep
 
 ### Letter 108: Thomas Hare
 
-### To <span class="small-caps">Thomas Hare</span>, after Lord Derby's resignation, when Lord Granville was endeavouring to form a Cabinet.
+#### To <span class="small-caps">Thomas Hare</span>,<br />after Lord Derby's resignation, when Lord Granville was endeavouring to form a Cabinet.
 
 <span class="small-caps">St. Véran</span>, *17th June* 1859.
 
@@ -2422,7 +2424,7 @@ I see no prospect of anything but mischief from the change of Ministry. Its effe
 
 ### Letter 109: Pasquale Villari
 
-### To <span class="small-caps">Pasquale Villari</span>
+#### To <span class="small-caps">Pasquale Villari</span>
 
 <span class="small-caps">St. Véran</span>, 22 *juin* 1859.
 
@@ -2432,7 +2434,7 @@ I see no prospect of anything but mischief from the change of Ministry. Its effe
 
 ### Letter 110: Alexander Bain
 
-### To <span class="small-caps">Alexander Bain</span>.
+#### To <span class="small-caps">Alexander Bain</span>.
 
 <span class="small-caps">St. Véran</span>, *6th August* 1859.
 
@@ -2446,7 +2448,7 @@ The “Liberty” has produced an effect on you which it was never intended to p
 
 ### Letter 111: Alexander Bain
 
-### To <span class="small-caps">Alexander Bain.</span>
+#### To <span class="small-caps">Alexander Bain.</span>
 
 <span class="small-caps">St. Véran,</span> 15*th October* 1859.
 
@@ -2456,7 +2458,7 @@ The “Liberty” has produced an effect on you which it was never intended to p
 
 ### Letter 112: Alexander Bain
 
-### To <span class="small-caps">Alexander Bain.</span>
+#### To <span class="small-caps">Alexander Bain.</span>
 
 The *Edinburgh* article referred to in the following letter, was Mill's review of Bain's works, “The Senses and the Intellect” and “The Emotions and the Will.”
 
@@ -2472,7 +2474,7 @@ I have just sent to Parker for next month's *Fraser* a paper on Non-Intervention
 
 ### Letter 113: J. S. Mill → Dr. W. G. Ward
 
-### To Dr. W. G. W<span class="small-caps">ard</span>.
+#### To Dr. W. G. W<span class="small-caps">ard</span>.
 
 <span class="small-caps">St. Véran</span>, *28th November* 1859.
 
@@ -2504,9 +2506,9 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 114: J. S. Mill → Pasquale Villari
 
-### To <span class="small-caps">Pasquale Villari</span>,
+#### To <span class="small-caps">Pasquale Villari</span>,
 
-### who had been reviewing the “Political Economy” in an Italian Review.
+#### who had been reviewing the “Political Economy” in<br />an Italian Review.
 
 <span class="small-caps">St. Véran</span>, *le 29 novembre* 1859.
 
@@ -2524,7 +2526,7 @@ J. S. <span class="small-caps">Mill</span>.
 
 ### Letter 115: Edwin Chadwick
 
-### To <span class="small-caps">Edwin</span> (afterwards Sir <span class="small-caps">Edwin</span>) <span class="small-caps">Chadwick</span>, the sanitary reformer.
+#### To <span class="small-caps">Edwin</span> (afterwards Sir <span class="small-caps">Edwin</span>) <span class="small-caps">Chadwick</span>,<br />the sanitary reformer.
 
 *20th December* 1859.
 
@@ -2548,7 +2550,7 @@ I quite agree with you in expecting no benefit whatever from any Reform Bill lik
 
 ### Letter 116: J. S. Mill → Charles Dupont-White
 
-### To <span class="small-caps">Charles Dupont-White</span>, on his book “La Centralisation.”
+#### To <span class="small-caps">Charles Dupont-White</span>,<br />on his book “La Centralisation.”
 
 <span class="small-caps">St. Véran</span>, *le 6 avril* 1860.
 
@@ -2570,9 +2572,9 @@ J. S. <span class="small-caps">Mill.</span>
 
 ### Letter 117: Alexander Bain
 
-### To <span class="small-caps">Alexander Bain</span>,
+#### To <span class="small-caps">Alexander Bain</span>,
 
-### recording Mill's first impressions on reading “The Origin of Species.”
+#### recording Mill's first impressions on reading “The Origin of Species.”
 
 *11th April* 1860.
 
@@ -2584,7 +2586,7 @@ Another book I have been reading is Baden Powell's last,[^fn-p0298-1] which, tho
 
 ### Letter 118: Charles Dupont-White
 
-### To <span class="small-caps">Charles Dupont-White.</span>
+#### To <span class="small-caps">Charles Dupont-White.</span>
 
 <span class="small-caps">Ax (Ariège)</span> *le* 10 *juin* 1860.
 
@@ -2594,7 +2596,7 @@ Il est vrai, comme vous dites, que l'Angleterre n'a plus à lutter contre la tyr
 
 ### Letter 119: T. Cliffe Leslie
 
-### To T. <span class="small-caps">Cliffe Leslie</span>, the political economist.
+#### To T. <span class="small-caps">Cliffe Leslie</span>, the political economist.
 
 <span class="small-caps">Blackheath Park</span>, 18*th August* 1860.
 
@@ -2606,9 +2608,9 @@ Il est vrai, comme vous dites, que l'Angleterre n'a plus à lutter contre la tyr
 
 The generalities of Buckle's theory are very vulnerable, and I hardly think he could have held by them if any competent person had criticised them before publication. He could have afforded to part with most of them, for the premises are much broader than was required to support his conclusions, and it is exactly in this unnecessary margin and overplus of premises that, as it seems to me, the error lies.
 
-### Letter 120
+### Letter 120: a Correspondent
 
-### To a Correspondent.
+#### To a Correspondent.
 
 <span class="small-caps">Blackheath Park,</span> *23rd September* 1860.
 
@@ -2632,9 +2634,9 @@ With all that you say in affirmation of the universality of Law, and in refutati
 
 > *[Margin: 1860 — Aetat. 54.]*
 
-### Letter 121
+### Letter 121: the same Correspondent
 
-### To the same Correspondent.
+#### To the same Correspondent.
 
 <span class="small-caps">Blackheath Park</span>, *4th October* 1860.
 
@@ -2650,7 +2652,7 @@ I have returned your treatise to-day by the book post.
 
 ### Letter 122: Pasquale Villari
 
-### To <span class="small-caps">Pasquale Villari.</span>
+#### To <span class="small-caps">Pasquale Villari.</span>
 
 <span class="small-caps">St. Véran,</span> *le* 6 *novembre* 1860.
 
@@ -2664,9 +2666,9 @@ Si cette lettre vous parvient, donnez moi je vous prie de vos nouvelles et croye
 
 ### Letter 123: Gustave de Beaumont
 
-### To <span class="small-caps">Gustave de Beaumont</span>,
+#### To <span class="small-caps">Gustave de Beaumont</span>,
 
-### editor of “Œuvres et Correspondance inédites d'Alexis de Tocqueville.”
+#### editor of “Œuvres et Correspondance inédites d'Alexis de Tocqueville.”
 
 <span class="small-caps">St. Véran</span>, *le* 15 *janvier* 1861.
 
@@ -2680,7 +2682,7 @@ Quant à la correspondance je me réjouis d'apprendre que la partie sans doute t
 
 ### Letter 124: Edwin Chadwick
 
-### <span class="small-caps">To Edwin Chadwick.</span>
+#### <span class="small-caps">To Edwin Chadwick.</span>
 
 <span class="small-caps">Blackheath Park,</span> 1*st March* 1861.
 
@@ -2690,9 +2692,9 @@ Quant à la correspondance je me réjouis d'apprendre que la partie sans doute t
 
 ### Letter 125: Sir Henry Taylor
 
-### To Sir <span class="small-caps">Henry Taylor</span>,
+#### To Sir <span class="small-caps">Henry Taylor</span>,
 
-### in reply to a letter from him criticising Mill's “Representative Government.”
+#### in reply to a letter from him criticising Mill's “Representative Government.”
 
 <span class="small-caps">Blackheath Park</span>, *5th July* 1861.
 
@@ -2706,9 +2708,9 @@ I am very sorry to hear that your health imposes on you so much confinement. I h
 
 ### Letter 126: John Chapman
 
-### To <span class="small-caps">John Chapman</span>,
+#### To <span class="small-caps">John Chapman</span>,
 
-### with reference to a building strike, then in progress ; concerning which Mr. Frederic Harrison had written a letter to the *Daily News*.
+#### with reference to a building strike, then in progress ; concerning which Mr. Frederic Harrison had written a letter to the *Daily News*.
 
 <span class="small-caps">Blackheath Park</span>, *4th August* 1861.
 
@@ -2720,9 +2722,9 @@ in the manner which he seems to suppose. I believe that I agree entirely with th
 
 ### Letter 127: T. Cliffe Leslie
 
-### To T. <span class="small-caps">Cliffe Leslie</span>,
+#### To T. <span class="small-caps">Cliffe Leslie</span>,
 
-### on an article written by him on Income Tax Reform.
+#### on an article written by him on Income Tax Reform.
 
 <span class="small-caps">St. Véran</span>, 20*th December* 1861.
 
@@ -2736,7 +2738,7 @@ I think you overstate the case against taxes on articles of general consumption.
 
 ### Letter 128: George Grote
 
-### To <span class="small-caps">George Grote.</span>
+#### To <span class="small-caps">George Grote.</span>
 
 <span class="small-caps">St. Véran,</span> 10*th January* 1862.
 
@@ -2756,7 +2758,7 @@ I am very glad that you like the papers on Utilitarianism so much. I am not more
 
 ### Letter 129: Célestin de Blignières
 
-### <span class="small-caps">To Célestin de Blignières</span>, on his book “Exposition de la philosophie et de la religion positives.”
+#### <span class="small-caps">To Célestin de Blignières</span>,<br />on his book “Exposition de la philosophie et de la<br />religion positives.”
 
 <span class="small-caps">St. Véran</span>, *le 22 janvier* 1862.
 
@@ -2774,7 +2776,7 @@ Je compte partir dans huit jours pour un voyage en Orient, et ne retourner ici q
 
 ### Letter 130: Pasquale Villari
 
-### To <span class="small-caps">Pasquale Villari</span>, on some characteristics of the Latin and Germanic races.
+#### To <span class="small-caps">Pasquale Villari</span>,<br />on some characteristics of the Latin and Germanic races.
 
 <span class="small-caps">St. Véran</span>, *le 26 janvier* 1862.
 
@@ -2792,9 +2794,9 @@ Je pourrais remplir plusieurs feuilles des observations que vous avez bien voulu
 
 ### Letter 131: W. T. Thornton
 
-### To <span class="small-caps">W. T. Thornton</span>,
+#### To <span class="small-caps">W. T. Thornton</span>,
 
-### in reply to a letter asking about peasant proprietors in the neighbourhood of Avignon.
+#### in reply to a letter asking about peasant proprietors in the neighbourhood of Avignon.
 
 <span class="small-caps">St. Véran</span>, 28*th January* 1862.
 
@@ -2808,7 +2810,7 @@ About Lord Canning's measure[^fn-p0320-1] I entirely agree with you. I have alwa
 
 ### Letter 132: W. T. Thornton
 
-### To W. T. <span class="small-caps">Thornton</span>, indicating Mill's attitude towards Spiritualism.
+#### To W. T. <span class="small-caps">Thornton</span>,<br />indicating Mill's attitude towards Spiritualism.
 
 <span class="small-caps">Athens</span>, 11*th June* 1862.
 
@@ -2818,7 +2820,7 @@ About Lord Canning's measure[^fn-p0320-1] I entirely agree with you. I have alwa
 
 ### Letter 133: E. R. Edger
 
-### To E. R. <span class="small-caps">Edger</span>, in acknowledgment of a work entitled “ Social Freedom.”
+#### To E. R. <span class="small-caps">Edger</span>,<br />in acknowledgment of a work entitled “ Social Freedom.”
 
 <span class="small-caps">St. Véran</span>, 13*th September* 1862.
 
@@ -2834,7 +2836,7 @@ I would recommend to you, then, by all means to persevere in your speculations; 
 
 ### Letter 134: W. T. Thornton → Henry Fawcett
 
-### From W. T. <span class="small-caps">Thornton</span> to <span class="small-caps">Henry Fawcett</span>, describing Mill’s mode of life at Avignon.
+#### From W. T. <span class="small-caps">Thornton</span> to <span class="small-caps">Henry Fawcett</span>,<br />describing Mill’s mode of life at Avignon.
 
 <span class="small-caps">St. Véran, Avignon</span>, *October* 1862.
 
@@ -2852,9 +2854,9 @@ W. T. <span class="small-caps">Thornton.</span>
 
 ### Letter 135: John Lothrop Motley
 
-### To <span class="small-caps">John Lothrop Motley</span>,
+#### To <span class="small-caps">John Lothrop Motley</span>,
 
-### then American ambassador to Austria, on the American civil war.
+#### then American ambassador to Austria, on the American civil war.
 
 <span class="small-caps">St. Véran</span>, 31*st October* 1862.
 
@@ -2878,7 +2880,7 @@ But while I am anxious that liberal and friendly Americans should not think wors
 
 ### Letter 136: Nikolai Ogareff
 
-### To <span class="small-caps">Nikolai Ogareff</span>, on his book “Essai sur la situation russe.”
+#### To <span class="small-caps">Nikolai Ogareff</span>,<br />on his book “Essai sur la situation russe.”
 
 <span class="small-caps">St. Véran</span>, *le 7 novembre* 1862.
 
@@ -2892,7 +2894,7 @@ Quant à vos conclusions dont vous pensez que quelques unes pourraient me semble
 
 ### Letter 137: George Finlay
 
-### <span class="small-caps">To George Finlay</span>, on taxation of land in Greece.
+#### <span class="small-caps">To George Finlay</span>,<br />on taxation of land in Greece.
 
 <span class="small-caps">Blackheath Park</span>, *24th December* 1862.
 
@@ -2902,9 +2904,9 @@ Quant à vos conclusions dont vous pensez que quelques unes pourraient me semble
 
 ### Letter 138: Max Kyllman
 
-### To <span class="small-caps">Max Kyllman</span>, of Manchester,
+#### To <span class="small-caps">Max Kyllman</span>, of Manchester,
 
-### in reply to a letter informing Mill of the change of opinion taking place in Lancashire on the American civil war; and of a great meeting of operatives organised for the purpose of sending an address to Abraham Lincoln.
+#### in reply to a letter informing Mill of the change of opinion taking place in Lancashire on the American civil war; and of a great meeting of operatives organised for the purpose of sending an address to Abraham Lincoln.
 
 *24th December* 1862.
 
@@ -2918,7 +2920,7 @@ On the subject of the query you put to me, I perfectly agree in your opinion as 
 
 ### Letter 139: Joseph Napier
 
-### To the Right Hon. <span class="small-caps">Joseph Napier</span>, who afterwards became Lord Chancellor of Ireland, and received a baronetcy. This is in reply to a letter on the subject of Mill’s criticism of Butler’s “Analogy” in his “Logic.”
+#### To the Right Hon. <span class="small-caps">Joseph Napier</span>,<br />who afterwards became Lord Chancellor of Ireland, and received a baronetcy. This is in reply to a letter on the subject of Mill’s criticism of Butler’s “Analogy” in his “Logic.”
 
 <span class="small-caps">Blackheath Park</span>, *24th December* 1862.
 
@@ -2943,7 +2945,7 @@ My view of the general question is briefly this: that a miracle, considered mere
 
 ### Letter 140: John Stuart Mill → Alexander Bain
 
-### To <span class="small-caps">Alexander Bain.</span>
+#### To <span class="small-caps">Alexander Bain.</span>
 
 <span class="small-caps">Blackheath Park,</span> *7th January* 1863.
 
@@ -2969,7 +2971,7 @@ We have just returned from a visit to Grote, during which I had an opportunity o
 
 ### Letter 141: John Stuart Mill → Samuel Bailey
 
-### To <span class="small-caps">Samuel Bailey</span>, on his books, “On the Received Text of Shakespeare,” and “Letters on the Philosophy of the Mind.”
+#### To <span class="small-caps">Samuel Bailey</span>, on his books, “On the Received Text of Shakespeare,” and “Letters on the Philosophy of the Mind.”
 
 <span class="small-caps">Blackheath Park</span>, *21st January* 1863.
 
@@ -2987,7 +2989,7 @@ On the subject of Language I of course agree in your principal thesis. The origi
 
 ### Letter 142: John Stuart Mill → John Lothrop Motley
 
-### To <span class="small-caps">John Lothrop Motley</span>, on the American civil war.
+#### To <span class="small-caps">John Lothrop Motley</span>,<br />on the American civil war.
 
 <span class="small-caps">Blackheath Park</span>, *26th January* 1863.
 
@@ -3009,7 +3011,7 @@ If you are really going to do these things, you need not mind being misunderstoo
 
 ### Letter 143: John Stuart Mill → Joseph Napier
 
-### To the Right Hon. <span class="small-caps">Joseph Napier</span>, on Miracles.
+#### To the Right Hon. <span class="small-caps">Joseph Napier</span>,<br />on Miracles.
 
 <span class="small-caps">Blackheath Park</span>, *27th January* 1863.
 
@@ -3023,7 +3025,7 @@ Now (without further purpose distinguishing miracles from any other kind of extr
 
 ### Letter 144: John Stuart Mill → George Finlay
 
-### To <span class="small-caps">George Finlay</span>, the Greek historian, who was then living at Athens.
+#### To <span class="small-caps">George Finlay</span>, the Greek historian,<br />who was then living at Athens.
 
 <span class="small-caps">Blackheath Park</span>, *2nd February* 1863.
 
@@ -3035,7 +3037,7 @@ I was very happy to learn from you that there is a real desire in the Assembly f
 
 ### Letter 145: John Stuart Mill → R. C. Wyllie
 
-### To R. C. <span class="small-caps">Wyllie</span>, Foreign Minister at the Sandwich Islands.
+#### To R. C. <span class="small-caps">Wyllie</span>,<br />Foreign Minister at the Sandwich Islands.
 
 <span class="small-caps">Blackheath Park</span>, *3rd February* 1863.
 
@@ -3051,7 +3053,7 @@ It is very gratifying to me that you are disposed to carry the principle of repr
 
 ### Letter 146: John Stuart Mill → Alexander Bain
 
-### To <span class="small-caps">Alexander Bain,</span> on James Ferrier's “Institutes of Metaphysic.”
+#### To <span class="small-caps">Alexander Bain,</span><br />on James Ferrier's “Institutes of Metaphysic.”
 
 <span class="small-caps">Blackheath Park,</span> 13*th February* 1863.
 
@@ -3069,7 +3071,7 @@ In spite of all this, however, and of the flourishing of trumpets which accompan
 
 ### Letter 147: John Stuart Mill → Max Kyllman
 
-### To <span class="small-caps">Max Kyllman</span>,
+#### To <span class="small-caps">Max Kyllman</span>,
 
 on various propaganda which he was carrying on in Manchester.
 
@@ -3093,7 +3095,7 @@ Mr. Lincoln's answer is excellent—quite beyond my expectations.
 
 ### Letter 148: John Stuart Mill → C. A. Cummings
 
-### To C. A. <span class="small-caps">Cummings</span>, of Boston (U.S.)
+#### To C. A. <span class="small-caps">Cummings</span>, of Boston (U.S.)
 
 <span class="small-caps">Blackheath Park</span>, 23*rd February* 1863.
 
@@ -3109,7 +3111,7 @@ I omitted to say that I was not the founder of the *Westminster Review*, though 
 
 ### Letter 149: John Stuart Mill → Henry Solly
 
-### To <span class="small-caps">Henry Solly</span>, of the Working Men's Club and Institute Union, on working men's clubs.
+#### To <span class="small-caps">Henry Solly</span>,<br />of the Working Men's Club and Institute Union, on working men's clubs.
 
 <span class="small-caps">St. Véran</span>, *6th April* 1863.
 
@@ -3119,7 +3121,7 @@ I omitted to say that I was not the founder of the *Westminster Review*, though 
 
 ### Letter 150: John Stuart Mill → W. T. Thornton
 
-### To W. T. <span class="small-caps">Thornton</span>, in reply to a criticism of his on the “Utilitarianism.”
+#### To W. T. <span class="small-caps">Thornton</span>,<br />in reply to a criticism of his on the “Utilitarianism.”
 
 <span class="small-caps">St. Véran</span>, *17th April* 1863.
 
@@ -3131,7 +3133,7 @@ I think such a case as that of Hannibal comes within these reasons, and indeed i
 
 ### Letter 151: John Stuart Mill → Theodor Gomperz
 
-### To <span class="small-caps">Theodor Gomperz</span> (Mill's German translator).
+#### To <span class="small-caps">Theodor Gomperz</span> (Mill's German translator).
 
 Gomperz, who was an enthusiastic admirer of Mill, had suggested coming to see him at Avignon. Mill's reply, here printed, was unintentionally worded so coldly that it caused Gomperz a severe nervous breakdown, from which he never fully recovered.
 
@@ -3145,7 +3147,7 @@ Come by all means if you like, though I should not for an instant have thought o
 
 ### Letter 152: John Stuart Mill → T. Cliffe Leslie
 
-### To T. <span class="small-caps">Cliffe Leslie</span>, on labour co-partnership.
+#### To T. <span class="small-caps">Cliffe Leslie</span>,<br />on labour co-partnership.
 
 <span class="small-caps">St. Véran</span>, *4th May* 1863.
 
@@ -3155,7 +3157,7 @@ Come by all means if you like, though I should not for an instant have thought o
 
 ### Letter 153: John Stuart Mill → Theodor Gomperz
 
-### To <span class="small-caps">Theodor Gomperz.</span>
+#### To <span class="small-caps">Theodor Gomperz.</span>
 
 <span class="small-caps">Blackheath Park,</span> *5th July* 1863.
 
@@ -3169,7 +3171,7 @@ Our life, which has been more than usually broken in upon during the last month,
 
 ### Letter 154: John Stuart Mill → J. G. Palfrey
 
-### To J. G. <span class="small-caps">Palfrey</span>, of Boston, acknowledging his “History of New England,” and “Papers on the Slave Power.”
+#### To J. G. <span class="small-caps">Palfrey</span>, of Boston,<br />acknowledging his “History of New England,” and<br />“Papers on the Slave Power.”
 
 <span class="small-caps">Blackheath Park</span>, 18*th July* 1863.
 
@@ -3179,7 +3181,7 @@ Our life, which has been more than usually broken in upon during the last month,
 
 ### Letter 155: John Stuart Mill → J. Stuart Glennie
 
-### To J. <span class="small-caps">Stuart Glennie</span>.
+#### To J. <span class="small-caps">Stuart Glennie</span>.
 
 <span class="small-caps">Blackheath Park</span>, 23*rd July* 1863.
 
@@ -3203,7 +3205,7 @@ I shall always be happy to discuss these matters further with you either by word
 
 ### Letter 156: John Stuart Mill → T. Cliffe Leslie
 
-### To T. <span class="small-caps">Cliffe Leslie</span>.
+#### To T. <span class="small-caps">Cliffe Leslie</span>.
 
 <span class="small-caps">St. Véran</span>, 15*th September* 1863.
 
@@ -3215,7 +3217,7 @@ Of course all these circumstances affect only the rapidity of the depreciation, 
 
 ### Letter 157: John Stuart Mill → Judge Appleton
 
-### To Judge <span class="small-caps">Appleton.</span>
+#### To Judge <span class="small-caps">Appleton.</span>
 
 <span class="small-caps">St. Véran,</span> *24th September* 1863.
 
@@ -3235,7 +3237,7 @@ Many thanks for the documents you kindly sent. I have received so many from vari
 
 ### Letter 158: John Stuart Mill → W. T. Thornton
 
-### To W. T. <span class="small-caps">Thornton.</span>
+#### To W. T. <span class="small-caps">Thornton.</span>
 
 <span class="small-caps">St. Véran,</span> *23rd October* 1863.
 
@@ -3251,7 +3253,7 @@ As for the American question, if you had time to read one or two books I could r
 
 ### Letter 159: John Stuart Mill → Henry Chenevix
 
-### To <span class="small-caps">Henry Chenevix</span>, on Miracles.
+#### To <span class="small-caps">Henry Chenevix</span>,<br />on Miracles.
 
 <span class="small-caps">St. Véran</span>, *4th November* 1863.
 
@@ -3269,7 +3271,7 @@ I do not suppose that what I have said will help you much in your difficulties, 
 
 ### Letter 160: John Stuart Mill → Antoine Elisée Cherbuliez
 
-### To Professor <span class="small-caps">Antoine Elisée Cherbuliez</span>, of Zurich, acknowledging his book, “Précis de la Science Economique.”
+#### To Professor <span class="small-caps">Antoine Elisée Cherbuliez</span>, of Zurich, acknowledging his book, “Précis de la Science Economique.”
 
 <span class="small-caps">St. Véran</span>, *le* 6 *novembre* 1863.
 
@@ -3281,7 +3283,7 @@ En me félicitant, Monsieur, que la chaire d'Economie Politique dans une des ins
 
 ### Letter 161: John Stuart Mill → T. Cliffe Leslie
 
-### To T. <span class="small-caps">Cliffe Leslie.</span>
+#### To T. <span class="small-caps">Cliffe Leslie.</span>
 
 <span class="small-caps">St. Véran,</span> *14th November* 1863.
 
@@ -3307,7 +3309,7 @@ If the second reading of your paper suggests any additional remarks worth sendin
 
 ### Letter 162: John Stuart Mill → Alexander Bain
 
-### To <span class="small-caps">Alexander Bain.</span>
+#### To <span class="small-caps">Alexander Bain.</span>
 
 <span class="small-caps">St. Véran,</span> *22nd November* 1863.
 

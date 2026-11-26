@@ -7,13 +7,13 @@
 
 ## Frontmatter
 
-### THE NIETZSCHE-WAGNER CORRESPONDENCE
+### THE NIETZSCHE-WAGNER<br />CORRESPONDENCE
 
 *This edition is limited to 1500 num-  
 bered copies of which this volume is  
 No.......*
 
-### THE NIETZSCHE-WAGNER CORRESPONDENCE
+### THE NIETZSCHE-WAGNER<br />CORRESPONDENCE
 
 EDITED BY  
 ELIZABETH FOERSTER-NIETZSCHE
@@ -115,15 +115,15 @@ I doubt that either man had much permanent influence on the other. Nietzsche was
 
 H. L. <span class="small-caps">Mencken.</span>
 
-### THE NIETZSCHE-WAGNER CORRESPONDENCE
+### THE NIETZSCHE-WAGNER<br />CORRESPONDENCE
 
 ## CHAPTER I. First Meeting.
 
-### THE NIETZSCHE-WAGNER CORRESPONDENCE
+### THE NIETZSCHE-WAGNER<br />CORRESPONDENCE
 
 ### CHAPTER I.
 
-### <span class="small-caps">First Meeting.</span>
+#### <span class="small-caps">First Meeting.</span>
 
 MY brother writes in “*Ecce Homo*”: “From the moment a piano edition of ‘*Tristan and Isolde*’ appeared (my compliments, Herr von Bülow!) I became a confirmed Wagnerite.”
 
@@ -163,9 +163,9 @@ At last the moment arrived when my brother was to make the personal acquaintance
 
 ### CHAPTER II.
 
-### <span class="small-caps">First visit to Tribschen.</span>
+#### <span class="small-caps">First visit to Tribschen.</span>
 
-### (Spring of 1869.)
+##### (Spring of 1869.)
 
 SOME months after this meeting, my brother was called to the University of Basle as professor of classical philology, his appointment being due to a number of striking scientific treatises published in the *Rheinisches Museum* and to the personal recommendation of Prof. Ritschl of Leipzig. During the Whitsuntide holidays of the same year he went over to Lake Lucerne with the intention of visiting the various points of historic interest in which this region abounds. Finding himself in the immediate vicinity of Villa Tribschen he debated with himself as to the propriety of accepting Wagner's invitation and paying a call at the villa.
 
@@ -191,7 +191,7 @@ Unfortunately my brother's university duties prevented him from accepting this i
 
 ### Letter 2: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 “Most honored sir:
 
@@ -222,7 +222,7 @@ Early in June, my brother wrote to Erwin Rohde:
 
 ### Letter 3: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Lucerne, June 3, 1869.
 
@@ -249,11 +249,11 @@ In a letter dated June 16, my brother wrote to Rohde:
 
 ### CHAPTER III.
 
-### <span class="small-caps">THE SUMMER OF 1869.</span>
+#### <span class="small-caps">THE SUMMER OF 1869.</span>
 
-### Letter 4
+### Letter 4: Friedrich Nietzsche → Erwin Rohde
 
-### *Friedrich Nietzsche to Erwin Rohde, Aug. 17, 1869:*
+#### *Friedrich Nietzsche to Erwin Rohde, Aug. 17, 1869:*
 
 BUT now let me tell you something about my Jupiter, in other words, about Richard Wagner, in whose society I am occasionally permitted to take a good long breath, and thereby refresh myself to a degree that would be incomprehensible to my entire corps of colleagues. As yet, no honors have been conferred upon this remarkable man, and he has only just received his first mark of distinction, an honorary membership in the Berlin Academy of Arts.
 
@@ -273,9 +273,9 @@ My brother was immediately taken back into favor, despite the fact that he had m
 
 Naturally my brother could not refuse this second invitation, and he was again summoned to Tribschen when Prof. Brockhaus (whose wife was a sister of Wagner) arrived.
 
-### Letter 5: “Wagner.”
+### Letter 5: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 Telegram, August 3, 1869.
 
@@ -318,7 +318,7 @@ Bedeckt gar bald des Niblung Kappe.”
 
 ### CHAPTER IV.
 
-### <span class="small-caps">LATE AUTUMN OF 1869.</span>
+#### <span class="small-caps">LATE AUTUMN OF 1869.</span>
 
 WAGNER, Frau Cosima and my brother were drawn very closely together during all the hours and days spent in this remote spot, and the feeling of intimacy was heightened by the sharing of many heavy cares and burdens. It was during this autumn that Frau Cosima wrote “. . . We regard you as one of the family and this is saying a great deal in view of the material and moral seclusion of our little court.”
 
@@ -330,7 +330,7 @@ But commissions of far greater importance than the inspection and purchase of Ch
 
 ### Letter 6: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Most excellent friend:
 
@@ -369,13 +369,13 @@ Aside from this, Wagner turned over to my brother all the onerous work connected
 
 ### CHAPTER V.
 
-### EXPERIENCES DURING THE WINTER OF 1870.
+#### EXPERIENCES DURING THE WINTER OF 1870.
 
 THE new year opened with increased work for my brother, as he had promised to deliver two special lectures on the “*Greek Music Drama*” and “*Socrates and Tragedy.*” By reason of this, his letter of thanks to Tribschen was delayed and this called forth a reproof from Wagner.
 
 ### Letter 8: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “My dear friend:
 
@@ -442,7 +442,7 @@ Wagner also sent the next lot of proof-sheets to my brother for a final correcti
 
 ### Letter 10: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Friend! Do I not burden you too much with these proof-sheets? I am sending the accompanying copy through your hands rather than directly to Herr Bonfantini, because I attach great importance to certain corrections (or alterations) and do not yet feel myself sufficiently familiar with the methods of these Italian printers and compositors. But these matters will soon be straightened out, I hope. “Your lectures to the ‘*mothers*’ [^fn-p0059-1] made me shudder. But you can console yourself by the thought of one who has had dealings with the ‘fathers’ all his life, and whom he has been ridiculing in all sorts of futile ways, of late. Write soon to
 
@@ -458,7 +458,7 @@ These two lectures on “*The Greek Music Drama*” and “*Socrates and Tragedy
 
 ### Letter 11: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Dearest Herr Friedrich:
 
@@ -490,7 +490,7 @@ My brother’s answer to these two agitated and agitating letters must have been
 
 ### Letter 12: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Dear Friend!
 
@@ -543,9 +543,9 @@ Both Wagner and Frau Cosima made strenuous efforts to convert my brother from th
 
 ### CHAPTER VI.
 
-### <span class="small-caps">Wagner's Birthday.</span>
+#### <span class="small-caps">Wagner's Birthday.</span>
 
-### (April-June, 1870.)
+##### (April-June, 1870.)
 
 Early in April, 1870, my brother was made Professor in Ordinary of Classical Philology by his faculty and the Swiss government, an appointment which made a great stir in academic circles, by reason of the fact that he had not yet reached the age of twenty-five. There had already been some talk of a call to a German university, and one of my brother's Leipzig friends made the prediction that “Nietzsche will be a Privy-Councillor by the time he is thirty”—this being considered the highest honor that could be conferred upon a professor at that time, and the be-all and end-all of academic ambitions.
 
@@ -557,7 +557,7 @@ This will explain the satisfaction Wagner felt at having my brother return to Ba
 
 ### Letter 13: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Valued friend!
 
@@ -580,7 +580,7 @@ For the second time, my brother's duties made it impossible for him to take part
 
 ### Letter 14: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 “Pater Seraphice:
 
@@ -594,22 +594,24 @@ The birthday festivities at Tribschen were uncommonly beautiful this year. Frau 
 
 ### Letter 15: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “My valued friend:
 
 “You will already have learned from a dear hand, how welcome the ‘*Blissful Youth*’ was to ‘*Pater Seraphice.*’ I know that you need no further assurance of this. You will also have heard of the blissful hours, which will live in my memory so long as I am capable of emotion. Therefore, I shall not tell you of all the “blessings” but rather speak of matters that require attention in quite another phase of life. This time, it is in regard to a letter from Bonfantini, written in Italian, to which I was obliged to reply in French, telling him that I would inform you of the agreement I have made with him in regard to the future correction of the proof-sheets of my autobiography. The man seems not to be getting on with the work at all, and is no doubt highly delighted at being able to shift the responsibility for his own dilatory methods to other shoulders. This he does by attributing it to the difficulty he has in communicating with a scholar so deeply engrossed as you are at times. I can understand this perfectly, but I am also mindful of the fact that I cannot continue to burden you in this way. I mentioned something of this kind to you in my last letter and I again earnestly beg you to consider yourself relieved of the burden of this responsibility. But whenever you happen to be passing the office of our Italian, you would greatly oblige me by looking in and inspecting the work of my manuscript. . . . It is a curious circumstance that in the course of publishing this essentially Germanic autobiography, I should be called upon to translate an *Italian* letter!
 
-> “You need never think, my dearest friend, that you will ever be denied an insight into these pages for, as you know, it is you whom I have in mind as the custodian of these memoirs when I am dead and gone. Everything is going well here. Tomorrow, I expect to finish the sketches for the first act of “*Siegfried*” (“*Götterdämmerung*,”—I meant to say!) Day after tomorrow, we celebrate my son’s first birthday and at the same time, the anniversary of your first visit to us. May the stars look down benignly upon this twofold celebration! At the time it seemed to me as if you had brought good luck to my son. Since then, a year full of difficulties and yet one rich in joys has passed over our heads, and now it almost seems as if the constellation which watched over my birth— I mean, Taurus!—is to be taken into the reckoning. All things come to him who waits! I dare to hope that within a few months, the high-hearted mother of my son will become my wife.
-
-> “Farewell, and be of good cheer, by that I mean not according to modern, but ancient Greek ideas!
-
-“With heartfelt greetings,  
-“Yours faithfully,
-
-“Tribschen, June 4, 1870.
-
-<span class="small-caps">Richard Wagner</span>.”
+> **[enclosure]**
+>
+> > “You need never think, my dearest friend, that you will ever be denied an insight into these pages for, as you know, it is you whom I have in mind as the custodian of these memoirs when I am dead and gone. Everything is going well here. Tomorrow, I expect to finish the sketches for the first act of “*Siegfried*” (“*Götterdämmerung*,”—I meant to say!) Day after tomorrow, we celebrate my son’s first birthday and at the same time, the anniversary of your first visit to us. May the stars look down benignly upon this twofold celebration! At the time it seemed to me as if you had brought good luck to my son. Since then, a year full of difficulties and yet one rich in joys has passed over our heads, and now it almost seems as if the constellation which watched over my birth— I mean, Taurus!—is to be taken into the reckoning. All things come to him who waits! I dare to hope that within a few months, the high-hearted mother of my son will become my wife.
+>
+> > “Farewell, and be of good cheer, by that I mean not according to modern, but ancient Greek ideas!
+>
+> “With heartfelt greetings,  
+> “Yours faithfully,
+>
+> “Tribschen, June 4, 1870.
+>
+> <span class="small-caps">Richard Wagner</span>.”
 
 As has already been seen from passages in my brother's letters to Erwin Rohde, he was unremitting in his efforts to bring his dearest friends in closer touch with Wagner, and was never happier than when he was successful. Thus he writes to Gersdorff: “. . . . That you and I are agreed in our feelings for Richard Wagner, is the best of proof for me that there is a close bond of union between us. For this is not an easy matter, and great courage is required if one is not to be led astray by the hue and cry of the world. Moreover, one must be prepared to meet occasional honest and intelligent persons in the opposing party. Schopenhauer must help us to rise above this conflict, theoretically, just as Wagner, the artist, can give us practical aid. Two things I endeavor to keep ever before me. In the first place, that the incredible seriousness and the truly Germanic profundity of Wagner's views of art and life, gushing forth from every tone of his music—is just as abhorrent to the majority at present, as is Schopenhauer's asceticism and negation of will. In the second place, Wagner's ideal art in which he shows a close affinity to Schiller, is especially detested by our ‘Jews’—and you know what a far-reaching element this is—and these high-hearted conflicts from which is to emerge the ‘day of the noble souls’—in other words, the chivalrous element—are repugnant to the plebeian political clamor of our day. Furthermore, I often find in persons of the most exceptional character a tendency to *indolence*, as if no individual effort or thorough-going study was demanded of them with a view to a better understanding of such an artist and such art-works.
 
@@ -643,7 +645,7 @@ When Hans Richter was expected in Tribschen, Wagner sent word to my brother that
 
 ### CHAPTER VII.
 
-### <span class="small-caps">war's alarms and quiet family festivities.</span>
+#### <span class="small-caps">war's alarms and quiet family festivities.</span>
 
 Late in June my mother returned to her home in Germany, but at my brother's urgent request, it was decided that I should remain in Basle. Letters and all sorts of greetings were exchanged between Basle and Tribschen, but my brother had sprained his ankle rather seriously and was therefore unable to accept any invitations. The execution of the Tribschen commissions devolved upon me, and it was I who answered Wagner's humorous appeal:
 
@@ -709,7 +711,7 @@ An account of his experiences on the battlefield and the disastrous effect upon 
 
 ### Letter 16: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 “Dear and revered master:
 
@@ -737,7 +739,7 @@ While all this was happening, Wagner had finished his essay on "*Beethoven*," th
 
 ### Letter 17: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 "Most revered master!
 
@@ -777,7 +779,7 @@ It was christened the “*Staircase Music*” by the children as the position of
 
 ### CHAPTER VIII.
 
-### <span class="small-caps">Various Journeyings.</span> (1871).
+#### <span class="small-caps">Various Journeyings.</span> (1871).
 
 My brother resumed work on his big Greek dissertation at the beginning of 1871. It was impossible for him to make use of all the material on hand and the selective process had to be rigorously applied before he could begin the task of “bringing the book together.” As yet there was no relation between this work as projected and the new art of Richard Wagner.
 
@@ -807,7 +809,7 @@ And it must be admitted that my brother welcomed this respite, as despite his gr
 
 ### CHAPTER IX.
 
-### <span class="small-caps">Cares and Joys</span> (1871).
+#### <span class="small-caps">Cares and Joys</span> (1871).
 
 We spent the summer in the charming little resort of Gimmelwald near Lauterbrunn, my brother returning to Naumburg with me as his leave of absence had been extended until the end of the autumn vacation. He had been greatly concerned during the summer about the publication of his Greek work which seemed destined to cause him much disappointment and anxiety. After waiting for a long time for an answer from Engelmann, the publisher, my brother learned that the reader of the firm had been thrown into “mild shivers” by the book. Irritated by this news and impatient at the delay, he took the book out of Engelmann's hands, although it later transpired that the latter had not been unwilling to publish the work.
 
@@ -815,7 +817,7 @@ Erwin Rohde and Baron von Gersdorff who had come to Naumburg on a birthday visit
 
 ### Letter 18: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “My dear and valued friend!
 
@@ -833,7 +835,7 @@ After my brother had explained the situation to Wagner, the latter wrote warm wo
 
 ### Letter 19: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 “Most revered master:
 
@@ -859,7 +861,7 @@ In justice to Wagner, it must be stated that he had only a vague idea as to the 
 
 ### Letter 20: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Most valued friend!
 
@@ -879,7 +881,7 @@ Amusingly enough, my brother was also engaged in composing that autumn. He had b
 
 ### Letter 21: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Most valued friend!
 
@@ -931,9 +933,9 @@ His latest work, “*The Birth of Tragedy out of the Spirit of Music*” had alr
 
 ### CHAPTER X.
 
-### THE BIRTH OF TRAGEDY OUT OF THE SPIRIT OF MUSIC.
+#### THE BIRTH OF TRAGEDY OUT OF THE SPIRIT OF MUSIC.
 
-### (1872.)
+##### (1872.)
 
 ON New Year's Day, 1872, my brother received his first published work, and, with a heart beating high, he wrote in his own copy:
 
@@ -944,7 +946,7 @@ He then hurried off a copy to his dear friends in Tribschen.
 
 ### Letter 22: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 “Most revered master!
 
@@ -966,7 +968,7 @@ He then hurried off a copy to his dear friends in Tribschen.
 
 ### Letter 23: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Dear friend!
 
@@ -998,7 +1000,7 @@ Wagner hardly knew how to explain my brother’s conduct as he had fully expecte
 
 ### Letter 24: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “My Friend:
 
@@ -1029,7 +1031,7 @@ He made only one reservation and that was in the case of the king of Bavaria, to
 
 ### Letter 25: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Dear friend:
 
@@ -1072,7 +1074,7 @@ Nor must it be forgotten, that these conflicts were to lead to decisions directl
 
 ### CHAPTER XI.
 
-### <span class="small-caps">DIFFICULT DECISIONS.</span>
+#### <span class="small-caps">DIFFICULT DECISIONS.</span>
 
 BY the end of January my brother found himself plunged into the inner conflicts to which reference has been made. Wagner had been called to Berlin by the news that some well-wisher in that city had conceived the idea of collecting the sum of 200,000 thalers, in order that work might be begun at once on the Festival Theatre and Wagner's own residence in Bayreuth without delaying matters until funds for this purpose had been raised by the Wagner Society.
 
@@ -1088,7 +1090,7 @@ In the following letter is to be found my brother's answer to this question, as 
 
 ### Letter 26: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 “My revered master:
 
@@ -1106,13 +1108,15 @@ Wagner had ignored an earlier suggestion of this sort, partly because he liked t
 
 It was not without a heavy heart that my brother decided upon taking this step, but believing that he was nearer to the beloved master than anyone else, he felt under the strongest obligations to sacrifice everything for Wagner's cause. Under the stress of these feelings, he wrote to Rohde: "Why do we live so far apart? For it is impossible for me to say to you in a letter all that is on my heart today and tell you of my plans for the future. I have formed an alliance with Wagner. Your can have no idea how close we are to one another and how all our plans coincide.
 
-> "I have been obliged to listen to such incredible things about my book that I shall say nothing more about it. . . . What do you think about the whole matter? In view of all the things I have heard, I am made deeply sensible of the gravity of the situation, and can form a clear idea of the fate of all the other things I have in mind. On the whole, life is not going to be an easy matter with me."
+> **[letter_excerpt]**
+>
+> > "I have been obliged to listen to such incredible things about my book that I shall say nothing more about it. . . . What do you think about the whole matter? In view of all the things I have heard, I am made deeply sensible of the gravity of the situation, and can form a clear idea of the fate of all the other things I have in mind. On the whole, life is not going to be an easy matter with me."
 
 Wagner was in high spirits when he returned to Tribschen and one of his first letters was to my brother, and from this it is to be seen that the intimations he had made while in Basle were really an expression of his innermost hopes and wishes, but that his affectionate interest in my brother made him hesitate about accepting this supreme sacrifice.
 
 ### Letter 27: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “My dear friend:
 
@@ -1175,7 +1179,7 @@ After the agitation and anxiety connected with the first Festival, which as the 
 
 ### CHAPTER XII.
 
-### <span class="small-caps">THE LAYING OF THE CORNERSTONE.</span>
+#### <span class="small-caps">THE LAYING OF THE CORNERSTONE.</span>
 
 SHORTLY after the departure of the family from Tribschen, the ceremonies connected with the laying of the cornerstone of the Festival Theatre took place in Bayreuth. The date of this memorable event was May 22, 1872, but several days earlier there was a foregathering of the faithful supporters of the cause, in this vanguard being the select few who had devoted themselves wholly and passionately to Wagner and the art-work of the future. Among them were Baroness von Schleinitz, Frau von Muchanoff, Countess Krokow, Fräulein von Meysenburg, Countess Döhnhoff (whom my brother found particularly charming) and all the distinguished men who had been active in contributing to the success of the Bayreuth undertaking.
 
@@ -1245,7 +1249,7 @@ The thick-headed philologians grumbled and waxed indignant at what they consider
 
 ### Letter 28: Richard Wagner → FRIEDRICH NIETZSCHE
 
-### CIRCULAR LETTER FROM RICHARD WAGNER TO FRIEDRICH NIETZSCHE, PROFESSOR IN ORDINARY OF CLASSICAL PHILOLOGY AT THE UNIVERSITY OF BASLE.
+#### CIRCULAR LETTER FROM RICHARD WAGNER TO FRIEDRICH<br />NIETZSCHE, PROFESSOR IN ORDINARY OF CLASSICAL<br />PHILOLOGY AT THE UNIVERSITY OF BASLE.
 
 “Esteemed friend:
 
@@ -1283,13 +1287,13 @@ The thick-headed philologians grumbled and waxed indignant at what they consider
 
 ### CHAPTER XIV.
 
-### <span class="small-caps">Conflicts.</span>
+#### <span class="small-caps">Conflicts.</span>
 
 IT is greatly to be deplored that the letter in which my brother expressed his gratitude for Wagner's defense of his work should also have been among those destroyed. He had feared that Wagner, out of affection for him, might write in such a way as would tend to make his position in the academic world even more difficult, but happily, the circular letter turned out far more discreet and diplomatic than my brother had expected. On the other hand, Wagner frankly admitted that Nietzsche had injured himself by espousing the Wagnerian cause, and regarded his article as having done nothing to improve the situation, but had rather made matters worse. Expression is given to these fears in Wagner's reply to my brother's letter of thanks:
 
 ### Letter 29: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “O friend!
 
@@ -1313,7 +1317,7 @@ Before going to Basle in 1872, for my customary summer visit to my brother, I ma
 
 ### Letter 30: Richard Wagner → Erwin Rohde
 
-### *Richard Wagner to Erwin Rohde.*
+#### *Richard Wagner to Erwin Rohde.*
 
 “My dear friend:
 
@@ -1331,7 +1335,7 @@ While Rohde was engaged in writing his polemic against Willamowitz, my brother a
 
 This conflict with Willamowitz was the means of bringing about a close friendship between my brother and Prof. Overbeck, who had always been one of my brother’s most ardent champions. It was he who chose the rather clumsy title for Rohde's little pamphlet
 
-### “*PSEUDO-PHILOLOGY:* Circular Letter of a Philologian to Richard Wagner, in elucidation of the pamphlet, ‘*Philology of the Future,*’ by Prof. Ulrich von Willamowitz-Moellendorf, Ph.D.”
+##### “*PSEUDO-PHILOLOGY:*<br />Circular Letter of a Philologian<br />to<br />Richard Wagner,<br />in elucidation of the pamphlet,<br />‘*Philology of the Future,*’<br />by<br />Prof. Ulrich von Willamowitz-Moellendorf, Ph.D.”
 
 This little brochure appeared the middle of October and my brother was deeply moved by this touching proof of Rohde's friendship. He writes: “. . . And now your little work, written in a spirit of generosity and courageous camaraderie, comes tumbling down into the midst of the cackling crowd. What a spectacle! Romundt and Overbeck, the only persons to whom I have read it as yet, are beside themselves for joy over the success of your undertaking. They are never tired of pointing out the merits of the work, both as a whole and in detail, and call your polemics ‘*Lessingesque,*’ and you well know what good Germans mean when they make use of this adjective. But what pleases me best of all is the deep, booming ground tone, like that of a mighty waterfall, by which every work of a polemic character must be consecrated if it is to convey an impression of true greatness and is to express love, confidence, strength, grief, hope and victory. Dear friend, I was completely overcome, and when you spoke of the ‘friends,’ it was some time before I could read further. What beautiful experiences have been vouchsafed me this year! And how well they have succeeded in dispelling all thought of the calamities that have descended upon my unlucky head from other quarters! I am also proud and happy for Wagner's sake, as your work will signify a remarkable turning-point in his relations to Germany's scientific circles. I hear that the '*National Zeitung*' recently had the cheek to number me among the 'literary lackeys of Wagner'; how great, then, will be the astonishment when you also come forward and acknowledge him!
 
@@ -1339,21 +1343,23 @@ This little brochure appeared the middle of October and my brother was deeply mo
 
 Wagner also wrote a cordial letter of thanks to Rohde, saying:
 
-“My dear friend:
-
-> “I find that, with and through Nietzsche, I have got into very good company. You cannot know what it means to a man who has spent a long life in the society of inferior or rather stupid persons, at last to be able to say: God be praised, here comes a new type of man, possibly an entire generation. When this happens, one feels compensated for having been obliged to live for half a century in a madhouse. These changed conditions only began after I met Nietzsche. Previous to that meeting, my world swung in no wider orbit than that of Pohl, Mohl and Porges and I cannot tell you how wonderful this change seems to me. Now, please do not ask me to write you anything further. I believe that my wife has already written you—at least, I know that yesterday she wrote to Gersdorff on the subject of the ‘*Pseudo-Philology*’ (dreadful word!). We took the greatest delight in your work and find it a worthy companion piece and complement to the ‘*Birth*’ itself. For us, the chief thing was that we were edified by this dissertation and that, furthermore, we have learned to love and appreciate the ‘real man.’ Such things should unquestionably be of help to all of us, but personally, I have not the courage to bestow even a glance upon the future morass of the human race. After all, this is a matter we may safely leave to God, and let him arrange affairs to His own honor and glory.
-
-“Accept our cordial greetings and my especial thanks for the great and genuine honor you have conferred upon me.
-
-“Yours sincerely,
-
-“<span class="small-caps">Richard Wagner.</span>”
+> **[enclosure]**
+>
+> “My dear friend:
+>
+> > “I find that, with and through Nietzsche, I have got into very good company. You cannot know what it means to a man who has spent a long life in the society of inferior or rather stupid persons, at last to be able to say: God be praised, here comes a new type of man, possibly an entire generation. When this happens, one feels compensated for having been obliged to live for half a century in a madhouse. These changed conditions only began after I met Nietzsche. Previous to that meeting, my world swung in no wider orbit than that of Pohl, Mohl and Porges and I cannot tell you how wonderful this change seems to me. Now, please do not ask me to write you anything further. I believe that my wife has already written you—at least, I know that yesterday she wrote to Gersdorff on the subject of the ‘*Pseudo-Philology*’ (dreadful word!). We took the greatest delight in your work and find it a worthy companion piece and complement to the ‘*Birth*’ itself. For us, the chief thing was that we were edified by this dissertation and that, furthermore, we have learned to love and appreciate the ‘real man.’ Such things should unquestionably be of help to all of us, but personally, I have not the courage to bestow even a glance upon the future morass of the human race. After all, this is a matter we may safely leave to God, and let him arrange affairs to His own honor and glory.
+>
+> “Accept our cordial greetings and my especial thanks for the great and genuine honor you have conferred upon me.
+>
+> “Yours sincerely,
+>
+> “<span class="small-caps">Richard Wagner.</span>”
 
 At this time my brother was struggling with many difficulties and discouragements, and as a birthday present to himself (October 15, 1872) he wrote a letter in which he unburdened his heart to Wagner. In reply, the master wrote him in a very affectionate strain, which gives rise to renewed regrets that my brother’s letter was destroyed at Wahnfried.
 
 ### Letter 31: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Dear friend:
 
@@ -1383,7 +1389,7 @@ From the following letter it will be seen how the thought of Wagner always fille
 
 ### Letter 32: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 “Dear master:
 
@@ -1425,9 +1431,9 @@ Before closing this chapter, I must mention the fact, that Dr. von Willamowitz r
 
 ### CHAPTER XV.
 
-### <span class="small-caps">MISUNDERSTANDINGS.</span>
+#### <span class="small-caps">MISUNDERSTANDINGS.</span>
 
-### (1873.)
+##### (1873.)
 
 WHENEVER Wagner had not seen my brother for some time, he was in the habit of remarking that such long separations could easily lead to painful misunderstandings. My brother took no pains to contradict this statement as emphatically as Frau Wagner evidently expected, and this explains a passage from one of her letters in which she says: “. . . Believe me when I say that there can be no estrangement or misunderstanding between you two. I confess that I have been most uneasy on this score, but am now convinced that such a thing can never happen.”
 
@@ -1444,9 +1450,11 @@ In the meantime, he felt himself called upon to write a little polemic against o
 
 At the beginning of the new year, my brother was given an opportunity of serving the Wagner cause in a manner more nearly to his liking. The German Musical Society had offered a prize for the best essay, from ninety to one hundred and twenty pages, on the subject of Wagner's Nibelung drama. My brother was one of the first persons to be approached by Professor Riedel with the request that he act as one of the judges. To this he readily consented, but upon learning of the conditions of the competition decided that the amount of the prize money was far too insignificant, and his successful attempt to “screw this up” to three hundred thalers, is the theme of the following letter addressed to Prof. Riedel:
 
-> “. . . I have had time to consider carefully the various difficulties connected with our undertaking, as I have been confined to bed for several days, and I now hasten to answer your valued letter and submit my views on the subject for your favorable consideration. First of all, let us be very cautious and critical in the choice of the third member of the adjudicating committee. . . . If you will be good enough to listen to a suggestion from me on this point, my advice would be to appoint Herr Hans von Bülow, of whose unconditionally sound judgment and critical severity I entertain the highest possible opinion. Much depends upon being able to present a very high-sounding name, one that will be both stimulating and awe-inspiring, and there is no doubt as to these conditions being admirably filled by the name of Bülow. Are we agreed on this point?
-
-> “But now comes another matter of even greater importance. Dear Herr Professor, I find the amount of the prize money ridiculously low, particularly, if one takes into consideration the tremendous importance of the theme and the occasion. At all events, we should be able to compete with the customary prizes offered by any German academy, as anything less than this would seem to me to be unworthy of the name of so great a man and so unique a cause. On the other hand, I would regard any large expenditure on our part as nothing less than a criminal proceeding, so long as the Bayreuth finances are in such a bad way. Therefore, the following plan has occurred to me which is herewith sub-mitted for your consideration. “Let the Society offer an entire Patron's Certificate as a prize, the money for which is to be raised in the following manner: We already have at our disposal a hundred thalers. We will sell the prize essay to some enterprising publisher for, say, another hundred (about 130 pages, first edition 1000—that is to say, about 13 thalers for a ‘Bogen’; this is a very modest and respectable price which should be readily obtainable for a really *good* piece of work. In this way, we would have 200 thalers, to which I will add a personal subscription of 50 thalers, under the condition that some one else can be found to give the remaining 50. (Perhaps the society?) I can assure you that the competition for a whole Patron's Certificate would be a most lively one. We must, by all means, appeal to the very best element in German literary circles and not lose sight of the fact that we have a great responsibility to discharge towards the public. I will only add, that this contest must be conducted in a manner utterly above reproach, and in every way worthy of the great cause.”
+> **[enclosure]**
+>
+> > “. . . I have had time to consider carefully the various difficulties connected with our undertaking, as I have been confined to bed for several days, and I now hasten to answer your valued letter and submit my views on the subject for your favorable consideration. First of all, let us be very cautious and critical in the choice of the third member of the adjudicating committee. . . . If you will be good enough to listen to a suggestion from me on this point, my advice would be to appoint Herr Hans von Bülow, of whose unconditionally sound judgment and critical severity I entertain the highest possible opinion. Much depends upon being able to present a very high-sounding name, one that will be both stimulating and awe-inspiring, and there is no doubt as to these conditions being admirably filled by the name of Bülow. Are we agreed on this point?
+>
+> > “But now comes another matter of even greater importance. Dear Herr Professor, I find the amount of the prize money ridiculously low, particularly, if one takes into consideration the tremendous importance of the theme and the occasion. At all events, we should be able to compete with the customary prizes offered by any German academy, as anything less than this would seem to me to be unworthy of the name of so great a man and so unique a cause. On the other hand, I would regard any large expenditure on our part as nothing less than a criminal proceeding, so long as the Bayreuth finances are in such a bad way. Therefore, the following plan has occurred to me which is herewith sub-mitted for your consideration. “Let the Society offer an entire Patron's Certificate as a prize, the money for which is to be raised in the following manner: We already have at our disposal a hundred thalers. We will sell the prize essay to some enterprising publisher for, say, another hundred (about 130 pages, first edition 1000—that is to say, about 13 thalers for a ‘Bogen’; this is a very modest and respectable price which should be readily obtainable for a really *good* piece of work. In this way, we would have 200 thalers, to which I will add a personal subscription of 50 thalers, under the condition that some one else can be found to give the remaining 50. (Perhaps the society?) I can assure you that the competition for a whole Patron's Certificate would be a most lively one. We must, by all means, appeal to the very best element in German literary circles and not lose sight of the fact that we have a great responsibility to discharge towards the public. I will only add, that this contest must be conducted in a manner utterly above reproach, and in every way worthy of the great cause.”
 
 Having received no communication of any kind from Bayreuth since the beginning of December, 1873, my brother would have had every reason to be astonished at this long silence on the part of his friends had not Rohde written him a detailed account of Wagner's visit to Hamburg. Rohde's letter contained all sorts of messages from Frau Wagner, so that my brother accepted this as a provisory answer and gave no more thought to the matter. Rohde wrote: “. . . I spent three days in Hamburg—Tuesday, Wednesday and Thursday—heard two concerts and attended a most inadequate performance of the ‘*Meistersinger*,’ given in Wagner's honor. The two concerts interested me deeply, despite the
 
@@ -1456,7 +1464,9 @@ deficiencies in the orchestra, as I had never heard certain numbers, such as the
 
 He then continues: “In the few moments we had together, your name was often mentioned. First of all, Frau Wagner sends you her warmest greetings and begs you to forgive her long silence in regard to your gift, every moment was occupied in Berlin and things were no better in Hamburg. Of course you received the telegram I sent you in Frau Wagner’s name? It read:
 
-> “ ‘While listening to the strains of the *Forging Songs*, grateful and friendly thoughts go out to you from one who regrets her unavoidable silence . . . <span class="small-caps">Cosima Wagner</span>.’ ”
+> **[enclosure]**
+>
+> > “ ‘While listening to the strains of the *Forging Songs*, grateful and friendly thoughts go out to you from one who regrets her unavoidable silence . . . <span class="small-caps">Cosima Wagner</span>.’ ”
 
 In order to keep Wagner informed as to the progress of his philological studies, my brother sent him to Berlin a privately printed thesis taken from the “*Rheinisches Museum*” on the subject of “*The Florentine Tractate on Homer and Hesiod: Their Race and their Contests.*” This also remained unacknowledged, until finally, on February 12th, a letter arrived from Frau Cosima, saying: “. . . I begin this letter in a state of the most unusual embarrassment. There is so much that I should like to say to you, dear friend, explain, apologize, congratulate, thank you and give you a report of ourselves. But the truth of the matter is that I returned home yesterday in a state of complete exhaustion to find that my *bonne* has left and there is no one to look after the children but myself. God only knows what success I shall have with this letter. But one thing I know and that is, I would rather send it badly written than not at all.
 
@@ -1472,7 +1482,7 @@ Later my mother learned from Gersdorff, who had spent the Christmas holidays in 
 
 ### Letter 34: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “O friend:
 
@@ -1498,7 +1508,9 @@ But the friend only consoled him with comforting and sympathetic words so that o
 
 In the letter from Cosima, quoted above, she said she did not quite know what to make of the words: “in a pleasurable frame of mind” used by my brother in the dedication of her Christmas present. The fact is, that this simple, self-satisfying manner of working, common to philosophers and scholars, was unknown to Wagner, who when engaged in creative work always demeaned himself pathetically—one might almost say, theatrically. Therefore the “pleasurable frame of mind” found neither understanding nor response in Bayreuth. As early as the late autumn of 1872, I accidentally learned how depressed the executive committee in Bayreuth was over the slow progress being made on the Festival Theatre and how slowly the funds for this purpose were coming in. Upon hearing this, I felt called upon to renounce a number of long-cherished plans, among them a trip to Italy which I had arranged to take in company with an English acquaintance. The money I had laid aside for this trip was diverted to the purchase of a Patron's Certificate for my brother, but I frankly confess that the 900 marks sent to Herr Emil Heckel in Mannheim represented an outlay that it was not easy for me to make. This had to be carefully concealed from my mother and my brother was vehemently opposed to my making such a sacrifice. The low ebb of the Bayreuth finances may be judged by the fact that even this insignificant sum (a mere drop in the bucket compared to the total amount needed) received particular mention in a letter Wagner wrote to Heckel on November 28, 1872:
 
-> “. . . When any payments are made to you, such as the recent one from Fräulein Nietzsche, please transfer the money immediately to Herr Feustel as I know from his latest report that he is made very uneasy in regard to our undertaking when no comforting assurances in the shape of contributions are coming in. . . .”
+> **[enclosure]**
+>
+> > “. . . When any payments are made to you, such as the recent one from Fräulein Nietzsche, please transfer the money immediately to Herr Feustel as I know from his latest report that he is made very uneasy in regard to our undertaking when no comforting assurances in the shape of contributions are coming in. . . .”
 
 Wagner was so deeply touched by the “sacrifice I had made for his great cause,” that he in turn presented me with a Patron's Certificate, purchased out of the special fund contributed by friends of Bayreuth, during his recent concert tour in Germany. He was mistaken, however, in thinking that the money I had spent was in the nature of a deprivation, whereas it was only a passive sacrifice. Wagner wrote to me:
 
@@ -1536,9 +1548,9 @@ Beside himself for joy, my brother wrote to Gersdorff on April 5, 1873:
 
 ### CHAPTER XVI.
 
-### RENEWED DISCORDS.
+#### RENEWED DISCORDS.
 
-### (1873.)
+##### (1873.)
 
 MY brother's visit to Bayreuth was a disappointment to himself as well as to Wagner. Before going he had written to Gersdorff, saying: "... I am taking a new manuscript with me to Bayreuth on the '*Greek Philosophy during the Tragic Age.*'
 
@@ -1558,7 +1570,7 @@ No sooner was the work well under way, than my brother wrote to Wagner, and it i
 
 ### Letter 38: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 “Most revered master:
 
@@ -1586,7 +1598,7 @@ Wagner answered both letters at once:
 
 ### Letter 39: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “My dear, good friend:
 
@@ -1626,7 +1638,7 @@ Baron von Gersdorff had been good enough to attend to the correspondence with Ba
 
 ### Letter 40: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Dear friend:
 
@@ -1664,9 +1676,9 @@ Baron von Gersdorff had been good enough to attend to the correspondence with Ba
 
 ### CHAPTER XVII.
 
-### <span class="small-caps">Nietzsche's Appeal to the German Nation.</span>
+#### <span class="small-caps">Nietzsche's Appeal to the German Nation.</span>
 
-### (1873)
+##### (1873)
 
 NOTHING occurred during the summer of 1873 to diminish the anxiety felt in Wahnfried concerning the erection of the Festival Theatre and the success of the entire Bayreuth undertaking. In fact, a complete fiasco was regarded as inevitable, in many quarters. This belief was strengthened by a remarkable incident which had a painful effect upon my brother's impressionable mind, but unnecessarily so, as it later developed.
 
@@ -1768,9 +1780,9 @@ I must here add a few words in regard to this appeal of my brother. As already s
 
 ### CHAPTER XVIII.
 
-### <span class="small-caps">Critical Period.</span>
+#### <span class="small-caps">Critical Period.</span>
 
-### (1874)
+##### (1874)
 
 WHILE my brother was occupied with his second “*Thoughts Out of Season*” at the close of the year 1873, the family at Wahnfried was oppressed with increased anxiety in regard to the success of the Bayreuth undertaking. The appeal had met with no success, and Wagner’s efforts to secure the necessary funds from King Ludwig II seemed also doomed to failure. At first everyone was at a loss to find an explanation for this: it was a bitter disappointment to Wagner and he seriously considered writing a circular letter disclosing to all those interested in the enterprise, the shipwreck of his plans. He was prevented from doing this, however, by Emil Heckel of Mannheim, whose faith in the ultimate realization of the Bayreuth idea never faltered. He hurried to Bayreuth and met all of Wagner’s complaints and resolves with the one word: “That must not be!” It seems that this splendidly energetic man first made an appeal to the Grand-Duke of Baden, requesting him to undertake the office of mediator at Berlin, with the view of inducing the government to appropriate a part of the required sum in return for which, the performance of the Nibelung drama in Bayreuth would be given in commemoration of the fifth *Peace Anniversary* in 1876. After a tremendous effort 100,000 thalers were finally collected by private subscription, and this sum, up to the very last penny, was expended in paying the debts already accumulated. But a further 100,000 thalers were necessary if there was to be no suspension of the preliminary preparations, of the building activity and the artistic plans. The Grand-Duke refused to act as mediator, knowing full well that Wagner's wishes and plans would meet with absolutely no response in Berlin. After a period of great suspense and anxiety, it was again the King of Bavaria who came to the rescue of his artist friend, whereupon it came to light that the king's unwillingness arose from the following cause:
 
@@ -1854,9 +1866,9 @@ My brother was plunged into a mood of deep melancholy by the result of these inv
 
 ### CHAPTER XIX.
 
-### <span class="small-caps">SECOND “THOUGHTS OUT OF SEASON.”</span>
+#### <span class="small-caps">SECOND “THOUGHTS OUT OF SEASON.”</span>
 
-### (1874)
+##### (1874)
 
 IN the meantime, the second “*Thoughts Out of Season*” on the “Use and Abuse of History” had been finished and sent to Bayreuth, eliciting from Wagner and Frau Cosima cordial expressions of approval. My brother also interpreted their letters as being friendly and sympathetic and informed Gersdorff that he had “received splendid letters from Bayreuth.” But somewhat later we learned from Fritzsch that the work had been spoken of in a rather cool and derogatory manner at Wahnfried.
 
@@ -1864,7 +1876,7 @@ This is not difficult to understand if one keeps in mind that Wagner was engaged
 
 ### Letter 41: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Dear friend:
 
@@ -1921,7 +1933,7 @@ My brother entertained quite different feelings towards Basle and Wagner also di
 
 ### Letter 42: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “O friend:  
 Why do you not come to us?  
@@ -1947,25 +1959,29 @@ Much of my brother’s melancholy arose from his disappointment in regard to Wag
 
 ### CHAPTER XX.
 
-### “<span class="small-caps">Schopenhauer as Educator.</span>”
+#### “<span class="small-caps">Schopenhauer as Educator.</span>”
 
 DURING this period of doubt and inner conflict, my brother would most assuredly have turned to Rohde for sympathy, had not this well-beloved friend been of a far more melancholy turn of mind than Nietzsche himself, and therefore in constant need of being buoyed up by his friends rather than asked to share their burdens. Rohde had written the following appealing letter to my brother:
 
-> “. . . I implore you, dear friend, to let me have frequent tokens of your friendship and sympathy, without which I could neither live nor breathe. . . A horrible lack of self-confidence renders futile all my plans, hopes and wishes, so that often I awake suddenly in the night, as if oppressed by a terrible nightmare. At such times, I seem to be wandering about in a desert, without friends, unbeloved of all men, and even my very existence seems so uncertain as to make any serious attempt to formulate hopes or plans for the future appear like a veritable absurdity. . . I know these are all delusions of the brain and not borne out by actual conditions; and yet to one who has had the misfortune to be born under an unlucky star—it is just these thousand and one little things which become entangled in a magician’s snarl, and form a source of endless irritation and hindrance to one as sensitive as I am. At such times, any insignificant disappointment can be made to appear as a symbol of a life wholly wrecked. . . .”
+> **[letter_excerpt]**
+>
+> > “. . . I implore you, dear friend, to let me have frequent tokens of your friendship and sympathy, without which I could neither live nor breathe. . . A horrible lack of self-confidence renders futile all my plans, hopes and wishes, so that often I awake suddenly in the night, as if oppressed by a terrible nightmare. At such times, I seem to be wandering about in a desert, without friends, unbeloved of all men, and even my very existence seems so uncertain as to make any serious attempt to formulate hopes or plans for the future appear like a veritable absurdity. . . I know these are all delusions of the brain and not borne out by actual conditions; and yet to one who has had the misfortune to be born under an unlucky star—it is just these thousand and one little things which become entangled in a magician’s snarl, and form a source of endless irritation and hindrance to one as sensitive as I am. At such times, any insignificant disappointment can be made to appear as a symbol of a life wholly wrecked. . . .”
 
 In an effort to comfort his friend, my brother describes the means he employed to extricate himself from similar depressing experiences. This he did, first of all, by composing and then by submerging himself into a creation of a new literary work. He writes: “. . . I have made good use of my time during the last six weeks by finishing my ‘Hymn to Friendship’ and writing it out carefully for four hands. This song breathes hope and courage and was sung for all of you. If this mood can be preserved, I believe that all of us will be able to endure the world for some time to come. And No. 3 of my ‘*Thoughts Out of Season*’ is so well along, that I am only waiting for a warm, fructifying rain to see it shoot up like a stalk of asparagus.”
 
 As a matter of fact, this third “*Thoughts Out of Season*,” entitled “*Schopenhauer as Educator*,” proved the greatest consolation to my brother during this period of doubt and dissatisfaction. In this work he portrayed in manifold forms and disguises, the conflict through which he was passing, and his deep yearning to invest his own life with permanent and significant values. In a way, it is an attempt at self-justification for having placed himself solely at the service of Schopenhauer and Wagner, regardless of his own unique gifts and intellectual needs. In a passage of wonderful beauty, we find the following expression of feeling concerning his future development:
 
-> “. . . In what way may your life, the life of the individual, retain its highest value and deepest significance? And how may it be least squandered?
-
-> “Forsooth, only by living for the good of the rarest and most valuable types, but not for the betterment of the majority, who taken as individuals, are the most worthless types. And it is precisely this way of thinking that should be implanted and cultivated in the mind of youth; he should be taught to regard himself as somewhat of a failure of Nature’s handiwork, but at the same time, as a testimony to her larger ideas. ‘She has made a mistake,’ he should say, ‘but I will do honor to her great idea, by placing myself at her service, in order that she may succeed better the next time.’
-
-“Animated by this resolve, he consciously enters the charmed circle of that culture, which is the child of every man’s knowledge of self and dissatisfaction with self. Every one who acknowledges this culture thereby confesses: let every one help me to achieve this, as I will help all those who know and suffer as I do, to the end, that finally that man will appear, who feels his love and insight, his vision and power to be complete and boundless, and who in his universality, lives *in* and *with* Nature, as the judge and appraiser of all human values.
-
-“It is difficult to impart this feeling of indomitable consciousness of self to anyone, because it is impossible to teach love, and it is from love alone that the soul gains not only the clear, analytical, understanding vision of itself, but love also creates the desire to get out of one’s present self and search, with all one’s might, for a higher and nobler self, still latent. Therefore, it is only by clinging with devotion to some great man (as a prototype!) that the individual is vouchsafed the first consecration of culture. He may know this by his sense of mortification without resentment, by his hatred of his own narrow-mindedness and warped vision, by his sympathy with genius ever rearing its head from the murky wastes of mediocrity, by his prescience for all that is nascent and struggling, and by the innermost conviction that Nature in distress is everywhere to be met with, as she presses closer to man, as she feels anew a sense of failure, and at the same time, sees the success of her marvellous conceptions, forms and designs. The men in whose midst we live, therefore, are to be likened to the fragments of those precious plastics, who cry out to us: Come and help us, piece us together as we belong, for we have an inexpressible longing to be made complete.
-
-“. . . The sum total of these processes I have called the ‘initial consecration into culture.’ I have now before me the infinitely more difficult task of describing the effects of the ‘second consecration.’ This is the transition from the inner life to the valuation of outer processes and manifestations. From now on our look is turned outward to search through the great world of thought and action for that culture known to us from our own earlier acquisitions. The individual must utilize his own strivings and aspirations as an alphabet whereby he will be able to interpret the strivings and aspirations of humanity. Nor can he rest here, but must rise still higher. Culture demands from him not only these inner processes, and the true valuation of the outer world in which he lives and moves, but primarily and finally —action. That is to say he is called upon to fight for culture, and to oppose all those influences, customs, laws and institutions, in which he does not find his own goal— namely, the creation of genius.”
+> **[enclosure]**
+>
+> > “. . . In what way may your life, the life of the individual, retain its highest value and deepest significance? And how may it be least squandered?
+>
+> > “Forsooth, only by living for the good of the rarest and most valuable types, but not for the betterment of the majority, who taken as individuals, are the most worthless types. And it is precisely this way of thinking that should be implanted and cultivated in the mind of youth; he should be taught to regard himself as somewhat of a failure of Nature’s handiwork, but at the same time, as a testimony to her larger ideas. ‘She has made a mistake,’ he should say, ‘but I will do honor to her great idea, by placing myself at her service, in order that she may succeed better the next time.’
+>
+> “Animated by this resolve, he consciously enters the charmed circle of that culture, which is the child of every man’s knowledge of self and dissatisfaction with self. Every one who acknowledges this culture thereby confesses: let every one help me to achieve this, as I will help all those who know and suffer as I do, to the end, that finally that man will appear, who feels his love and insight, his vision and power to be complete and boundless, and who in his universality, lives *in* and *with* Nature, as the judge and appraiser of all human values.
+>
+> “It is difficult to impart this feeling of indomitable consciousness of self to anyone, because it is impossible to teach love, and it is from love alone that the soul gains not only the clear, analytical, understanding vision of itself, but love also creates the desire to get out of one’s present self and search, with all one’s might, for a higher and nobler self, still latent. Therefore, it is only by clinging with devotion to some great man (as a prototype!) that the individual is vouchsafed the first consecration of culture. He may know this by his sense of mortification without resentment, by his hatred of his own narrow-mindedness and warped vision, by his sympathy with genius ever rearing its head from the murky wastes of mediocrity, by his prescience for all that is nascent and struggling, and by the innermost conviction that Nature in distress is everywhere to be met with, as she presses closer to man, as she feels anew a sense of failure, and at the same time, sees the success of her marvellous conceptions, forms and designs. The men in whose midst we live, therefore, are to be likened to the fragments of those precious plastics, who cry out to us: Come and help us, piece us together as we belong, for we have an inexpressible longing to be made complete.
+>
+> “. . . The sum total of these processes I have called the ‘initial consecration into culture.’ I have now before me the infinitely more difficult task of describing the effects of the ‘second consecration.’ This is the transition from the inner life to the valuation of outer processes and manifestations. From now on our look is turned outward to search through the great world of thought and action for that culture known to us from our own earlier acquisitions. The individual must utilize his own strivings and aspirations as an alphabet whereby he will be able to interpret the strivings and aspirations of humanity. Nor can he rest here, but must rise still higher. Culture demands from him not only these inner processes, and the true valuation of the outer world in which he lives and moves, but primarily and finally —action. That is to say he is called upon to fight for culture, and to oppose all those influences, customs, laws and institutions, in which he does not find his own goal— namely, the creation of genius.”
 
 Every one who reads this passage will be forced to admit that Nietzsche ever remained consistent in his views. His goal was the perfection of mankind, and for him humanity’s genuine salvation and worth were to be found only in the highest types. That which he here calls “genius,” making it the supreme type of human aims and aspirations, he later characterized as the “Superman.”
 
@@ -2016,7 +2032,7 @@ The forthcoming publication of the third “*Thoughts Out of Season*” was also
 
 ### Letter 43: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 (Draft of Letter written about Oct. 10, 1874.)
 
@@ -2048,7 +2064,9 @@ This splendid letter of Cosima's is not to be regarded merely as an expression o
 
 On the other hand, I should not like to state positively that my brother expressed himself as candidly in his letters to the Bayreuth friends. There were several reasons for this, one of them being his desire to avoid everything that could possibly give offense to his dearly-beloved friend, and furthermore, his regard for the formalities of polite intercourse. My brother often carried this delicacy so far as to express adverse opinions of men and things, if he thought that by so doing, he would please the person to whom he was writing or speaking. For example, attacks upon the Jews are often to be found in his letters to Wagner which expressed Wagner's views on the subject rather than his own. This hyper-courtesy was often a great burden to him and he was angry with himself with yielding to this feeling. The knowledge that he was not able to keep up the same freedom of intercourse with Wagner and his family as he had done in the happy Tribschen days also added to his depression and it is easy to understand his feelings when he writes:
 
-> “. . . Ah, we lonely, free souls. We see that we continually seem to be other than we really are; while wishing for nothing so much as to be honest and sincere, we are caught in a net of misunderstandings and despite our most passionate desires, are unable to prevent a haze of false meanings, compromises, and erroneous innuendoes from obscuring our real deeds and thoughts. A cloud of melancholy settles on our brow, for the thought that speciousness is a necessity is as hateful to us as that of death, itself. . . .”
+> **[letter_excerpt]**
+>
+> > “. . . Ah, we lonely, free souls. We see that we continually seem to be other than we really are; while wishing for nothing so much as to be honest and sincere, we are caught in a net of misunderstandings and despite our most passionate desires, are unable to prevent a haze of false meanings, compromises, and erroneous innuendoes from obscuring our real deeds and thoughts. A cloud of melancholy settles on our brow, for the thought that speciousness is a necessity is as hateful to us as that of death, itself. . . .”
 
 Without a knowledge of the above-mentioned reasons, it would be impossible to understand why my brother wrote such melancholy letters to Bayreuth during the winter of 1874-75. Otherwise, he was in fairly good spirits; his “*Schopenhauer as Educator*” had convinced him that he was on the right road, his health was excellent and great activity reigned in Basle social circles that winter. A few of the German professors and their wives had formed a little circle, in true German fashion, with a fixed date for reunions. To this belonged the philosopher Max Heinze, the political economist, von Miaskowski, Immermann of the medical faculty, Professor Overbeck, Dr. Romundt and my brother. The time was passed in music-making, readings, tableaux and even dancing. Frau Miaskowski has published passages from her correspondence at that time, which would have seemed quite incredible to the friends in Bayreuth had they compared it with Nietzsche’s letters to them of the same period. She says: “One evening, we took along a young woman who happened to be our guest at the time. Upon reaching home, she remarked that she had never been in an atmosphere of such innocent jollity, and the queerest part of it all was that the two chief fun-makers were Nietzsche and Overbeck, both of them known throughout Germany as the worst sort of pessimists and Schopenhauerians.”
 
@@ -2056,7 +2074,7 @@ High spirits also reigned in Bayreuth where Christmas was being celebrated for t
 
 ### Letter 46: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Dear friend:
 
@@ -2083,7 +2101,9 @@ The mention of Prof. Hillebrand of Florence refers to a disagreement my brother 
 
 The book to which reference is made here, was written by Carl Hillebrand, of Florence, whom Gersdorff knew and esteemed very highly. The views therein expressed coincided so exactly with my brother’s well-known theories that even Jacob Burckhardt assumed that the author must be an intimate friend of Nietzsche’s, possibly Gersdorff.
 
-My brother and his little circle of friends in Basle thought so highly of this book that he sent it to Bayreuth, but despite his warm recommendations, it found but scant recognition from Wagner and Frau Cosima. The latter wrote: “Upon your recommendation, I have read Hillebrand’s little work and while some very delightful ideas are expressed therein, I, nevertheless, found much to censure. First of all, a certain diffusiveness and carelessness of form, an arrogant tone, and a conspicuous lack of warmth, depth and humor. I should like to say to him what was said to *Malvolio:* Just because you are virtuous is no reason that there are no cakes and wine in the world. . . . Further, I find that the essay has an entirely erroneous fundament; had he really found the picture given as the *raison d'être* of the letters, then it was plainly his duty to reveal the secret and give the name of it. Even though it were proven later that he had been mistaken, this error would have been condoned as the result of misguided enthusiasm, and in any case, would have been of more service than his coquettish half-veiled allusions. An error of judgment, later confessed, is always a courageous deed. His *constructive* hopes also appear rather insignificant; they were unquestionably influenced by the '*Birth of Tragedy,*' '*Opera and Drama,*' '*Art and Politics,*' etc., but he did not possess sufficient intellectual strength and courage to ally himself to these 'hopeful ones,' but was bent upon reserving a little special niche for himself and his work. To me, this little niche looks very much like a sulking corner. And then his citations—'*Tom Jones*' and '*Orestria.*' . . . And furthermore, to expect the Germans to know what the expression *Tarte à la crême* signifies! Do you think the same thing could be expected from the French had he quoted from the German without giving the name of the author? The result is that the reader recognizes the intention and at once becomes disgruntled. And to my mind, Goethe is quite another sort of universal genius from Molière. On the whole, I found that a great deal of bad taste was displayed in this little book which is forever harping upon the question of taste. . . .”
+> **[letter_excerpt]**
+>
+> My brother and his little circle of friends in Basle thought so highly of this book that he sent it to Bayreuth, but despite his warm recommendations, it found but scant recognition from Wagner and Frau Cosima. The latter wrote: “Upon your recommendation, I have read Hillebrand’s little work and while some very delightful ideas are expressed therein, I, nevertheless, found much to censure. First of all, a certain diffusiveness and carelessness of form, an arrogant tone, and a conspicuous lack of warmth, depth and humor. I should like to say to him what was said to *Malvolio:* Just because you are virtuous is no reason that there are no cakes and wine in the world. . . . Further, I find that the essay has an entirely erroneous fundament; had he really found the picture given as the *raison d'être* of the letters, then it was plainly his duty to reveal the secret and give the name of it. Even though it were proven later that he had been mistaken, this error would have been condoned as the result of misguided enthusiasm, and in any case, would have been of more service than his coquettish half-veiled allusions. An error of judgment, later confessed, is always a courageous deed. His *constructive* hopes also appear rather insignificant; they were unquestionably influenced by the '*Birth of Tragedy,*' '*Opera and Drama,*' '*Art and Politics,*' etc., but he did not possess sufficient intellectual strength and courage to ally himself to these 'hopeful ones,' but was bent upon reserving a little special niche for himself and his work. To me, this little niche looks very much like a sulking corner. And then his citations—'*Tom Jones*' and '*Orestria.*' . . . And furthermore, to expect the Germans to know what the expression *Tarte à la crême* signifies! Do you think the same thing could be expected from the French had he quoted from the German without giving the name of the author? The result is that the reader recognizes the intention and at once becomes disgruntled. And to my mind, Goethe is quite another sort of universal genius from Molière. On the whole, I found that a great deal of bad taste was displayed in this little book which is forever harping upon the question of taste. . . .”
 
 I can not give the exact reason for Frau Cosima’s harsh verdict but only remember that Wagner always displayed a particular aversion to the expressions “taste” and “tasteful” and for this reason the little book (the exemplification of “good taste” in the best sense of the word) found no favor in her eyes. My brother had no particular reason for breaking a lance for Hillebrand, as the latter’s criticisms of my brother’s writings were not entirely sympathetic. But however that may be, my brother found æsthetic tendencies coinciding with his own and possessed sufficient objectivity of judgment to make acknowledgment of this, irrespective of any personal feeling in the matter.
 
@@ -2091,7 +2111,7 @@ I can not give the exact reason for Frau Cosima’s harsh verdict but only remem
 
 ### CHAPTER XXI.
 
-### <span class="small-caps">Winter in Bayreuth.</span> (1875)
+#### <span class="small-caps">Winter in Bayreuth.</span> (1875)
 
 My brother spent the Christmas holidays of 1874-75 very quietly with us in Naumburg, and we again discussed many “big plans,” the most immediate of these being my long cherished trip to Italy where I was to be joined by my brother at Easter. But nothing turned out as we expected. On January 17, 1875, I received a letter from my brother saying: “My dear Lisbeth, this year is going to be quite different from the plans we made at Christmas. See enclosed letter from Frau Wagner as to the plans that are brewing in Bayreuth.”
 
@@ -2103,7 +2123,9 @@ To this my brother added: “I beg of you unconditionally to grant this request 
 
 Early in February I set out for Bayreuth in high spirits, as it made me very happy to think I could be of service to friends whom I admired so greatly and who had always been so uncommonly kind to me. My brother was even happier than I at the turn affairs had taken, and wrote:
 
-> “Dear Lisbeth, I am delighted at your decision. I attach great importance to this visit, which, in the long run, will be a sort of high school for you. Moreover, I know of no other way by which you could be so thoroughly initiated into my Bayreuth relations, and it is fortunate for future developments that things have so shaped themselves. I am overwhelmed with joy every time I think of it. . . .”
+> **[enclosure]**
+>
+> > “Dear Lisbeth, I am delighted at your decision. I attach great importance to this visit, which, in the long run, will be a sort of high school for you. Moreover, I know of no other way by which you could be so thoroughly initiated into my Bayreuth relations, and it is fortunate for future developments that things have so shaped themselves. I am overwhelmed with joy every time I think of it. . . .”
 
 As has been seen from Wagner’s earlier letters, he wished to appoint my brother Siegfried’s legal guardian, and this will explain my brother’s repeated references to the importance of my becoming more closely acquainted with conditions in *Wahnfried.* He once wrote: “When I think of the manifold obligations I shall some day be obliged to assume towards Wagner’s family, it seems to me to be of the highest importance that you should also be on a familiar footing with them.”
 
@@ -2119,7 +2141,7 @@ But he could also manifest great impatience when approached with all sorts of ti
 
 ### Letter 47: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Dear friend:
 
@@ -2154,7 +2176,7 @@ It was a great delight to my brother to learn so many details of the life in Bay
 
 ### Letter 48: Richard Wagner → Baron von Gersdorff
 
-### *Richard Wagner to Baron von Gersdorff.*
+#### *Richard Wagner to Baron von Gersdorff.*
 
 "My faithful friend:
 
@@ -2208,9 +2230,9 @@ One day I said: “Fritz, you will not have been in Bayreuth once during 1875.�
 
 ### CHAPTER XXII.
 
-### “<span class="small-caps">Richard Wagner in Bayreuth.</span>”
+#### “<span class="small-caps">Richard Wagner in Bayreuth.</span>”
 
-### (1876)
+##### (1876)
 
 CORDIAL letters received from his friends in Bayreuth during the summer of 1875 again revived my brother’s old love and admiration for Wagner and for the time being his severe criticism of Wagner’s art was relegated to the background. By referring to my brother’s notebook of that period, it would seem that the following aphorism was written only for his own private gratification:
 
@@ -2236,7 +2258,7 @@ In the following letter, my brother enumerates very distinctly everything he owe
 
 ### Letter 49: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 “Basle, May 21, 1876.
 
@@ -2254,7 +2276,7 @@ In the following letter, my brother enumerates very distinctly everything he owe
 
 ### Letter 50: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “O friend:
 
@@ -2286,9 +2308,9 @@ Although the two letters which follow exist only in rough drafts, there is no re
 
 ### Letter 51: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
-### (Original Draft.)
+#### (Original Draft.)
 
 “July, 1876.
 
@@ -2305,7 +2327,7 @@ Although the two letters which follow exist only in rough drafts, there is no re
 
 ### Letter 52: Friedrich Nietzsche → Frau Cosima Wagner
 
-### *Friedrich Nietzsche to Frau Cosima Wagner.*
+#### *Friedrich Nietzsche to Frau Cosima Wagner.*
 
 (Original Draft. July, 1876.)
 
@@ -2315,11 +2337,11 @@ Although the two letters which follow exist only in rough drafts, there is no re
 
 Both Wagner and Frau Cosima replied immediately.
 
-### “*Richard Wagner in Bayreuth*”
+##### “*Richard Wagner in Bayreuth*”
 
 ### Letter 53: Richard Wagner → Friedrich Nietzsche
 
-### *Richard Wagner to Friedrich Nietzsche.*
+#### *Richard Wagner to Friedrich Nietzsche.*
 
 “Friend:
 
@@ -2331,7 +2353,7 @@ Both Wagner and Frau Cosima replied immediately.
 
 ### Letter 54: Frau Cosima → Friedrich Nietzsche
 
-### *Frau Cosima to Friedrich Nietzsche.*
+#### *Frau Cosima to Friedrich Nietzsche.*
 
 (Telegram.)  
 “July 11, 1876.	Prof. Nietzsche,  
@@ -2346,9 +2368,9 @@ Both Wagner and Frau Cosima replied immediately.
 
 ### CHAPTER XXIII.
 
-### <span class="small-caps">THE BAYREUTH FESTIVAL.</span>
+#### <span class="small-caps">THE BAYREUTH FESTIVAL.</span>
 
-### (1876)
+##### (1876)
 
 UPON receiving these words of warm commendation from Wagner and Frau Cosima, my brother began to make the most enthusiastic preparations for going to Bayreuth. We see from his private correspondence that his doubts had been completely banished and he hoped to fall under the old spell in listening to Wagner's music. For example, he writes: “. . . I could wish for such a degree of rhythmic, visualizing endowment as would enable me to survey the Nibelung work in its entirety, as I have, at times, succeeded in doing with the single dramas. But here I anticipate rhythmical delights of a very special kind and degree. For instance: the scene of Siegfried and the Rhine Maidens in the second act of the last drama; the scene between Alberich and the Rhine Maidens in the first act of the first drama; the love rhapsodies of Siegfried and Brunnhilde upon finding each other in the last act of ‘*Siegfried*’; the parting rhapsodies of the lovers in the first act of ‘*Götterdämmerung*’: the scene of the Nornes at the beginning of the first act (Vorspiel) of the ‘*Götterdämmerung*’ and so on.”
 
@@ -2462,9 +2484,9 @@ After the first rehearsals, my brother left Bayreuth, or it would be nearer the 
 
 ### CHAPTER XXIV.
 
-### <span class="small-caps">END OF THE FRIENDSHIP.</span>
+#### <span class="small-caps">END OF THE FRIENDSHIP.</span>
 
-### (1876-1878.)
+##### (1876-1878.)
 
 THUS my brother bade farewell to that which the world today calls “Bayreuth.” When he set out for the Festival, there floated before his mind’s eye a vision of an event in which the art-works presented and the listeners of these works would be equally worthy and admirable. But now all that he had to look back upon was a festival bearing a strong resemblance to the clamor of a Rhenish Music Festival, or the excitement prevailing at the famous Baden-Baden races. And it was for this that he had fought and made soul-wasting propaganda for years! He was seized with a fit of impatience at his own blindness and he longed to be free from outside influences, in order that he might gradually come to his senses and be able to follow his own tastes and inclinations. The period of youthful enthusiasm was over and he had no more time to waste on such extravagances.
 
@@ -2476,7 +2498,7 @@ Wagner seems to have sensed nothing of my brother's changed feelings, but appeal
 
 ### Letter 55: Friedrich Nietzsche → Richard Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
 “Highly revered friend:
 
@@ -2578,7 +2600,9 @@ Upon returning to Basle, we again established ourselves in our apartment althoug
 
 “I must have absolute solitude,” was the burden of all of his future plans, and for that reason he welcomed the change from Sorrento to Switzerland. His feelings in regard to this are beautifully expressed in a letter to Frau Baumgartner:
 
-> “There is a higher destiny for me to fulfill than that afforded me by my eminently respectable Basle position. I know it, I feel it! I am more than a mere philologian, in spite of the fact that I can make use of philology for my higher task. ‘I thirst for myself’; that has been my constant theme for the last ten years. Now that I have lived alone with myself for a year, everything has become quite clear and distinct to me. Notwithstanding all that I have suffered, I cannot tell you how inexpressibly rich I felt, and how full I was of the joy of creating as soon as I found myself quite alone. I can now say to you with conviction that I shall not return to Basle with the intention of *remaining* there. I do not know how things will develop, but I mean to capture this freedom, by force if needs be, however modest may be the external conditions of my life."
+> **[enclosure]**
+>
+> > “There is a higher destiny for me to fulfill than that afforded me by my eminently respectable Basle position. I know it, I feel it! I am more than a mere philologian, in spite of the fact that I can make use of philology for my higher task. ‘I thirst for myself’; that has been my constant theme for the last ten years. Now that I have lived alone with myself for a year, everything has become quite clear and distinct to me. Notwithstanding all that I have suffered, I cannot tell you how inexpressibly rich I felt, and how full I was of the joy of creating as soon as I found myself quite alone. I can now say to you with conviction that I shall not return to Basle with the intention of *remaining* there. I do not know how things will develop, but I mean to capture this freedom, by force if needs be, however modest may be the external conditions of my life."
 
 My brother had a veritable mountain of aphorisms when he returned to Basle. These were originally intended for a fifth "*Thoughts out of Season;*" in fact, there was more than sufficient material for six or seven new works. As the condition of his eyes would not permit him to bring these aphorisms together into a whole, as was the case in the previous "*Thoughts out of Season,*" he simply strung them together in a loose sequence but notwithstanding this, the conscientious reader will instinctively feel the inner relationship and be able to group these detached sentences. Above all, my brother's pure joy in the framing of aphorisms must be taken into account; his delight in not carrying one thought out to completion and binding it firmly to another, but rather allowing it to stand with its own beginning, development and end in a certain sense, and yet withal, contains a hint of continuation for the reader.
 
@@ -2607,9 +2631,9 @@ My brother was deeply impressed at receiving the *Parsifal* text just as he was 
 
 ### Letter 56: Friedrich Nietzsche → Richard Wagner / Cosima Wagner
 
-### *Friedrich Nietzsche to Richard Wagner.*
+#### *Friedrich Nietzsche to Richard Wagner.*
 
-### (Rough Draft.)
+#### (Rough Draft.)
 
 “In sending you this book, I place my secret in the hands of you and your noble wife with the greatest confidence and assume that is now your secret. I wrote this book; in it I have revealed my innermost views upon men and things and for the first time, have travelled around the entire periphery of my thoughts. This book was a great consolation to me at a period full of paroxysms and misery and it never disappointed me when all else failed to console me. I think it not improbable that I am still living just because I was able to write such a book.
 

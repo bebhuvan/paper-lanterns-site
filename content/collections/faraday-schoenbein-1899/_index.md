@@ -28,7 +28,7 @@
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 84.0,
+  "score": 87.0,
   "out_of": 100.0,
   "pillars": [
    {
@@ -38,7 +38,7 @@
    },
    {
     "key": "structure",
-    "score": 22.0,
+    "score": 25.0,
     "out_of": 25.0
    },
    {
@@ -57,7 +57,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 8,
+  "flagged": 10,
   "blockers": 0
  },
  "proof": {
@@ -242,27 +242,27 @@
   {
    "format": "epub",
    "file": "faraday-schoenbein-1899.epub",
-   "bytes": 416039,
-   "sha256": "9b9e4dfa3322d4fe93a5abc77ae3781f1f9e0afa189e5c1b4385d3863a5e4182"
+   "bytes": 416340,
+   "sha256": "c04c8fcc71498346510f75fbb9657a644efe072582d627eb1672eb5f5477f366"
   },
   {
    "format": "markdown",
    "file": "faraday-schoenbein-1899.md",
-   "bytes": 745168,
-   "sha256": "8486c665b34460f53a1f2774e63a0cd778f564685b946d8f89a02b521e86edff"
+   "bytes": 745399,
+   "sha256": "5ca8bb2e81a666e60f16c878014452a48c712a46f33e1c1780067379bf69427e"
   },
   {
    "format": "tei",
    "file": "faraday-schoenbein-1899.tei.xml",
-   "bytes": 925413,
-   "sha256": "d662134af8cc8f5c7bf1137de077ad6ac85aa7b0bfd48e47ebbb252a0e4ef260"
+   "bytes": 930792,
+   "sha256": "8c551ed235122c2e0270f0bced9a3138ef25d5de4720d3e1adcb8e4abe622c65"
   }
  ],
  "scan_base": "https://archive.org/download/lettersoffaraday00fararich/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-22T08:50:53Z",
-  "source_ast_sha256": "3df0320bed050f63e3355ae704aa831fd4d2783807e823709366e17529ad30ae",
+  "compiled_at": "2026-11-24T19:22:06Z",
+  "source_ast_sha256": "f916eb0d556484a8b886fcfc3ba84f42dc4bf2ca3959696822f12aec6dc611d2",
   "hugo_renderer_version": "1.0.0"
  }
 }

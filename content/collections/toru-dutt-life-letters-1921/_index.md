@@ -24,14 +24,14 @@
   "pages": 408,
   "dated_letters": 74
  },
- "provenance_tier": "machine_checked",
+ "provenance_tier": "community",
  "quality": {
-  "score": 100.0,
+  "score": 98.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 30.0,
+    "score": 28.0,
     "out_of": 30.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 0,
+  "flagged": 1,
   "blockers": 0
  },
  "proof": {
@@ -296,27 +296,27 @@
   {
    "format": "epub",
    "file": "toru-dutt-life-letters-1921.epub",
-   "bytes": 389353,
-   "sha256": "d5e29a76482cea00238534533d2913f6342012f9e80ca24aa42b8e23432af9c6"
+   "bytes": 389488,
+   "sha256": "a84b977e13d26769b5562b1fd64856e78c805fb41c7ef5357a0af446ac73a16a"
   },
   {
    "format": "markdown",
    "file": "toru-dutt-life-letters-1921.md",
-   "bytes": 753449,
-   "sha256": "298e84f03b6d4a39445701bf6e97f72dbed8777f872d1a328f85a9d1a9f746d4"
+   "bytes": 755481,
+   "sha256": "b3682756b9754a785bab4f5443a819aa95ebfb2d2c9afb817fe872a659dbc9e6"
   },
   {
    "format": "tei",
    "file": "toru-dutt-life-letters-1921.tei.xml",
-   "bytes": 881754,
-   "sha256": "408b2f440e43b3793f1b674129e31f8549b31147355dd171662ac70d63be3b34"
+   "bytes": 880943,
+   "sha256": "b195c16319977206718eac92b2cb8f0d04a3ebec4bd0389772d7d8cb2921a72c"
   }
  ],
  "scan_base": "https://archive.org/download/lifelettersoftor00duttuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:50:08Z",
-  "source_ast_sha256": "abfe35709a0514f57a73a64c34e0ae84c3f25a2874d929bb5daa133f4ec28f7d",
+  "compiled_at": "2026-11-24T19:24:29Z",
+  "source_ast_sha256": "35feae6ea72f6dffc388f8e0209da73ef49d83da08d9a278c4fa2054b7ae5379",
   "hugo_renderer_version": "1.0.0"
  }
 }

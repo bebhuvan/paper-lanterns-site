@@ -4,7 +4,9 @@
     <fileDesc>
       <titleStmt>
         <title>The George Sand-Gustave Flaubert Letters</title>
-        <author>George Sand &amp; Gustave Flaubert (trans. Aimée L. McKenzie)</author>
+        <author>George Sand</author>
+        <author>Gustave Flaubert</author>
+        <respStmt><resp>Translator</resp><name>Aimée L. McKenzie</name></respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +16,7 @@
       <sourceDesc>
         <bibl>
           <title>The George Sand-Gustave Flaubert Letters</title>
+          <publisher>London: Duckworth &amp; Co. (Boni and Liveright), 1922</publisher>
           <date>1922</date>
           <idno type="URI">https://archive.org/details/georgesandgustav00sand</idno>
         </bibl>
@@ -54,7 +57,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0008">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Paris</placeName><date>17 or 18 May, 1866</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Paris</placeName><date when="1866-05">17 or 18 May, 1866</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0009">
@@ -429,7 +432,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0102">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Saint Sylvester’s night, one o’clock, 1869</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><date when="1869">Saint Sylvester’s night, one o’clock, 1869</date></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0103">
@@ -553,7 +556,7 @@
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0133">
-        <correspAction type="sent"><persName>G. Sand</persName><placeName>Paris</placeName><date>20 or 21 October, 1869</date></correspAction>
+        <correspAction type="sent"><persName>G. Sand</persName><placeName>Paris</placeName><date when="1869-10">20 or 21 October, 1869</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0134">
@@ -581,7 +584,7 @@
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0140">
-        <correspAction type="sent"><persName>G. S.</persName><persName>Lina</persName><placeName>Nohant</placeName><date>Friday to Saturday during the night, 10 to 11 December, 1869 4 o’clock in the afternoon.</date></correspAction>
+        <correspAction type="sent"><persName>G. S.</persName><persName>Lina</persName><placeName>Nohant</placeName><date when="1869-12">Friday to Saturday during the night, 10 to 11 December, 1869 4 o’clock in the afternoon.</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0141">
@@ -617,7 +620,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0149">
-        <correspAction type="sent"><persName>George Sand</persName><date>The 5th or the 6th February, 1870</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><date when="1870-02">The 5th or the 6th February, 1870</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0150">
@@ -1225,7 +1228,7 @@
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0301">
-        <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date>18th and 19th December, 1875</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName><placeName>Nohant</placeName><date when="1875-12">18th and 19th December, 1875</date></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0302">
@@ -1311,11 +1314,8 @@
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
-<pb xml:id="page-7" n="7"/><head>THE GEORGE SAND-
-GUSTAVE FLAUBERT LETTERS</head>
-<pb xml:id="page-9" n="9"/><head rend="center">THE GEORGE SAND–
-GUSTAVE FLAUBERT
-LETTERS</head>
+<pb xml:id="page-7" n="7"/><head>THE GEORGE SAND-<lb/>GUSTAVE FLAUBERT LETTERS</head>
+<pb xml:id="page-9" n="9"/><head rend="center">THE GEORGE SAND–<lb/>GUSTAVE FLAUBERT<lb/>LETTERS</head>
 <p rend="center">TRANSLATED BY<lb/>AIMEE L. McKENZIE</p>
 <p rend="center">WITH AN INTRODUCTION BY<lb/>STUART P. SHERMAN</p>
 <p rend="imprint">DESORMAIS</p>
@@ -1394,7 +1394,7 @@ LETTERS</head>
 <p rend="right"><hi rend="smallcaps">Stuart P. Sherman</hi></p>
 </div>
 <div xml:id="div-unit-0004" type="apparatus">
-<pb xml:id="page-43" n="43"/><p rend="heading">THE GEORGE SAND-<lb/>GUSTAVE FLAUBERT LETTERS</p>
+<pb xml:id="page-43" n="43"/><head>THE GEORGE SAND-<lb/>GUSTAVE FLAUBERT LETTERS</head>
 </div>
 </div>
     </front>
@@ -1427,8 +1427,7 @@ LETTERS</head>
 <p rend="indented">At the present time I am disheartened by the populace which rushes by under my windows in pursuit of the fatted calf. And they say that intelligence is to be found in the street!</p>
 </div>
 <div xml:id="div-letter-0004" type="letter" corresp="#letter-0004">
-<pb xml:id="page-47" n="3"/><head rend="center">IV. <hi rend="smallcaps">To M. Flobert (Justave) M. of Letters Boulevard
-du Temple, 42, Paris</hi></head>
+<pb xml:id="page-47" n="3"/><head rend="center">IV. <hi rend="smallcaps">To M. Flobert (Justave) M. of Letters Boulevard</hi><lb/><hi rend="smallcaps">du Temple, 42, Paris</hi></head>
 <opener><dateline rend="right">Paris, 10 May, 1866</dateline></opener>
 <p rend="indented">[The postage stamp bears the mark Palaiseau 9 May, '66.]</p>
 <p rend="indented">M. Flobaire, You must be a truly dirty oaf to have taken my name and written a letter with it to a lady who had some favors for me which you doubtless received in my place and inherited my hat in place of which I have received yours which you left there. It is the lowness of that lady's conduct and of yours that make me think that she lacks education entirely and all those sentiments which she ought to understand. If you are content to have written Fanie and Salkenpeau I am content not to have read them. You mustn't get excited about that, I saw in the papers that there were outrages against the Religion in whose bosom I have entered again after the troubles I had with that lady when she made me come to my senses and repent of my sins with her and, in consequence if I meet you with her whom I care for no longer you shall have my sword at your throat. That will be the Reparation of my sins and the punishment of your infamy at the same time. That is what I tell you and I salute you.</p>

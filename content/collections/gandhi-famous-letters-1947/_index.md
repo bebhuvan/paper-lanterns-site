@@ -24,9 +24,9 @@
   "pages": 154,
   "dated_letters": 5
  },
- "provenance_tier": "community",
+ "provenance_tier": "machine_checked",
  "quality": {
-  "score": 98.5,
+  "score": 100.0,
   "out_of": 100.0,
   "pillars": [
    {
@@ -46,7 +46,7 @@
    },
    {
     "key": "completeness",
-    "score": 13.5,
+    "score": 15.0,
     "out_of": 15.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 1,
+  "flagged": 0,
   "blockers": 0
  },
  "proof": {
@@ -266,27 +266,27 @@
   {
    "format": "epub",
    "file": "gandhi-famous-letters-1947.epub",
-   "bytes": 118588,
-   "sha256": "a2b2e35d40c985d8d2803c2189664c1640877fcae1bf40fad8c0e1e2cf7ec8a9"
+   "bytes": 118741,
+   "sha256": "dcc678b75313f638ea41bddc28e519c79621ecf04ad83d39bf62f5810a27f5f4"
   },
   {
    "format": "markdown",
    "file": "gandhi-famous-letters-1947.md",
-   "bytes": 155884,
-   "sha256": "3687d1f6672c0480c9b3ef2e6b6609b5897f7c6b27cc9fd96f6a459075799524"
+   "bytes": 156053,
+   "sha256": "299ee8cff275a23fd69f1a071679b8bcd05bc26c0f780c65667c5673f8153afc"
   },
   {
    "format": "tei",
    "file": "gandhi-famous-letters-1947.tei.xml",
-   "bytes": 183684,
-   "sha256": "26e6b2bfd2a3a7035b747176253da8a22dba385c01256cb57a3515a13274c5a1"
+   "bytes": 184243,
+   "sha256": "0a5e8bd53e716de604cb29510adfa01ae95f540c5b82245405367aff9a4b1f53"
   }
  ],
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.208999/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:49:07Z",
-  "source_ast_sha256": "cadfb2be6fd0b1f1533957d355d5378ea996cf64b43e9b03c4e6efce3614da14",
+  "compiled_at": "2026-11-24T19:22:05Z",
+  "source_ast_sha256": "6b9569c88ba2c20b146ca870ad8415e7bc972d061935aaddfe83933b1cf00ee3",
   "hugo_renderer_version": "1.0.0"
  }
 }

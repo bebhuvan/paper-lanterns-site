@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Famous Letters of Mahatma Gandhi</title>
-        <author>M. K. Gandhi (comp. &amp; ed. R. L. Khipple)</author>
+        <author>M. K. Gandhi</author>
+        <editor>R. L. Khipple</editor>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +15,7 @@
       <sourceDesc>
         <bibl>
           <title>Famous Letters of Mahatma Gandhi</title>
+          <publisher>Lahore: The Indian Printing Works, Kacheri Road</publisher>
           <date>1947</date>
           <idno type="URI">https://archive.org/details/in.ernet.dli.2015.208999</idno>
         </bibl>
@@ -38,6 +40,7 @@
       </correspDesc>
       <correspDesc xml:id="letter-0004">
         <correspAction type="sent"><persName>M. K. Gandhi</persName></correspAction>
+        <correspAction type="received"><persName>EVERY ENGLISHMAN LIVING IN INDIA</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0005">
         <correspAction type="sent"><persName>M. K. GANDHI</persName></correspAction>
@@ -273,8 +276,7 @@ JUSTICE!</hi></head>
 <p rend="indented">You are in search of a remedy to suppress this rising ebullition of national feeling. I venture to <pb xml:id="page-34" n="31"/> suggest to you that the only way to suppress it is to remove the causes. You have yet the power. You can repent of the wrongs done to Indians.</p>
 <p rend="indented">You can compel Mr. Lloyd George to redeem his promises. I assure you he has kept many escape doors. You can compel the Viceroy to retire in favour of a better one; you can revise your ideas about Sir Michael O'Dwyer and General Dyer. You can compel the Government to summon a conference of the recognised leaders of the people duly elected by them and representing all shades of opinion so as to devise means for granting Swaraj in accordance with the wishes of the people of India.</p>
 <p rend="indented">But this you cannot do unless you consider every Indian to be in reality your equal and brother. I ask for no patronage. I merely point out to you, as a friend, an honourable solution of a grave problem. The other solution, namely repression, is open to you. I prophesy that it will fail. It has begun already. The Government has already imprisoned two brave men of Panipat for holding and expressing their opinions freely. Another is on his trial in Lahore for having expressed similar opinions. One in the Oudh District is already imprisoned. Another awaits judgment. You should know what is going on in your midst. Propaganda is being <pb xml:id="page-35" n="32"/> carried on in anticipation of repression. I invite you respectfully to choose the better way and make common cause with the people of India whose salt you are eating. To seek to thwart their aspirations is disloyalty to the country.</p>
-<p rend="valediction">I am,<lb/>Your faithful friend,</p>
-<p rend="signature">M. K. <hi rend="smallcaps">Gandhi.</hi></p>
+<closer><salute rend="cascading">I am,<lb/>Your faithful friend,</salute><signed rend="right">M. K. <hi rend="smallcaps">Gandhi.</hi></signed></closer>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0004" type="letter" corresp="#letter-0004">
@@ -316,15 +318,13 @@ JUSTICE!</hi></head>
 <closer><salute rend="cascading">Your well wisher,</salute><signed rend="cascading">M. K. GANDHI,</signed></closer>
 </div>
 <div xml:id="div-unit-0014" type="editorial">
-<pb xml:id="page-47" n="44"/><head rend="center"><hi rend="bold">TO HIS ROYAL HIGHNESS,
-THE DUKE OF CONNAUGHT.</hi></head>
+<pb xml:id="page-47" n="44"/><head rend="center"><hi rend="bold">TO HIS ROYAL HIGHNESS,</hi><lb/><hi rend="bold">THE DUKE OF CONNAUGHT.</hi></head>
 <p rend="indented"><hi rend="italic">(Mahatma Gandhi addressed the following letter to H. R. H. the Duke of Connaught in the first week of February 1921 :—</hi></p>
 <milestone unit="section" rend="ornament"/>
 <pb xml:id="page-48" n="45"/><milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0006" type="letter" corresp="#letter-0006">
-<head rend="center"><hi rend="bold">WE ARE DETERMINED TO BATTLE WITH
-O'DWYERISM AND DYERISM.</hi></head>
+<head rend="center"><hi rend="bold">WE ARE DETERMINED TO BATTLE WITH</hi><lb/><hi rend="bold">O'DWYERISM AND DYERISM.</hi></head>
 <opener><salute rend="indented">Sir,</salute></opener>
 <p rend="indented">Your Royal Highness must have heard a great deal about Non-co-operation, Non-co-operationists and their methods and incidentally of me, its humble author. I fear that the information given to your Royal Highness must have been in its nature one-sided. I owe it to you, to my friends and myself that I should place before you what I conceive to be the scope of Non-co-operation as followed not only by me but my closest associates such as Messrs. Shaukat Ali and Mohammad Ali.</p>
 <p rend="indented">For me it is no joy and pleasure to be actively associated in the boycott of Your Royal Highness, visit. I have tendered loyal, voluntary assistance to Government for an unbroken period of nearly 30 years in the full belief that through that lay the path of freedom for my country. It was therefore no slight thing for me to suggest to my countrymen <pb xml:id="page-49" n="46"/> that we should take no part in welcoming Your Royal Highness. Not one among us has anything against you as an English gentleman. We hold your person as sacred as that of a dearest friend. I do not know any of my friends who would not guard it with his life if he found it in danger.</p>
@@ -334,8 +334,7 @@ O'DWYERISM AND DYERISM.</hi></head>
 <pb xml:id="page-51" n="48"/><p rend="indented">Our non-participation in a hearty welcome to Your Royal Highness is thus in no sense a demonstration against your high personage, but it is against the system you come to uphold. I know individual Englishmen cannot, even if they will, alter the English nature all of a sudden. If we would be the equals, of Englishmen, we must cast off fear. We must learn to be self-reliant and independent of schools, courts, protection and patronage of a Government we ween to end if it will not mend.</p>
 <p rend="indented">Hence this Non-violent Non-co-operation. I know we have not all yet become non-violent in speech and deed, but the results so far achieved have, I assure Your Royal Highness been amazing. The people have understood the secret and value of non-violence as they have never done before. He who will may see that this is a religious, purifying movement. We are leaving off drink. We are trying to rid India of the curse of untouchability. We are trying to throw off foreign tinsel splendour and, by reverting to the spinning wheel, reviving the ancient and poetic simplicity of life. We hope thereby to sterilize the existing harmful institutions.</p>
 <p rend="indented">I ask Your Royal Highness as an Englishman to study this movement and its possibilities for the Empire and the world. We are at war with nothing <pb xml:id="page-52" n="49"/> that is good in the world. In protecting Islam in the manner we are, we are protecting all religions; in protecting the honour of India, we are protecting the honour of humanity, for our means are hurtful to none. We desire to live on terms of friendship of equals both in theory and in practice, and we must continue to non-co-operate, <hi rend="italic">i.e.</hi>, to purify ourselves till the goal is achieved I ask Your Royal Highness and through you every Englishman, to appreciate the view-point of Non-co-operation.</p>
-<p rend="valediction">I beg to remain,<lb/>Your Royal Highness' faithful servant,</p>
-<p rend="signature">M. K. GANDHI.</p>
+<closer><salute rend="cascading">I beg to remain,<lb/>Your Royal Highness' faithful servant,</salute><signed rend="right">M. K. GANDHI.</signed></closer>
 <milestone unit="section" rend="ornament"/>
 <milestone unit="section" rend="ornament"/>
 </div>
@@ -366,8 +365,7 @@ O'DWYERISM AND DYERISM.</hi></head>
 </div>
 <div xml:id="div-letter-0008" type="letter" corresp="#letter-0008">
 <pb xml:id="page-60" n="57"/><head><hi rend="italic">The first letter;</hi></head>
-<head rend="center"><hi rend="bold">WHY I REGARD THE BRITISH RULE
-AS A CURSE!</hi></head>
+<head rend="center"><hi rend="bold">WHY I REGARD THE BRITISH RULE</hi><lb/><hi rend="bold">AS A CURSE!</hi></head>
 <p rend="indented">Dear Friend,—Before embarking on Civil Disobedience and taking the risk I have dreaded to take all these years, I would fain approach you and find a way out. My personal faith is absolutely clear. I cannot intentionally hurt any thing that lives, much less fellow-human beings even though they may do the greatest wrong to me and mine. <hi rend="italic">Whilst therefore I hold British rule to be a curse, I do not intend to harm a single Englishman or any legitimate interest he may have in India.</hi></p>
 <p rend="indented">I must not be misunderstood. Though I hold the British rule in India to be a curse, I do not therefore consider Englishmen in general to be worse than any other people on earth. I have the privilege of claiming many Englishmen as dearest friends. Indeed much that I have learnt of the evil of British rule is due to the writings of frank and courageous Englishmen who have not hesitated to tell the unpalatable truth about that rule.</p>
 <p rend="indented">And why do I regard the British rule as a curse?</p>
@@ -396,7 +394,7 @@ AS A CURSE!</hi></head>
 </div>
 <div xml:id="div-letter-0009" type="letter" corresp="#letter-0009">
 <opener><salute><hi rend="italic">Dear Friend,</hi></salute></opener>
-<p rend="heading"><hi rend="bold">I must Commence the March</hi></p>
+<head rend="center"><hi rend="bold">I must Commence the March</hi></head>
 <p rend="indented">God willing, it is my intention ......to set out for Dharsana and reach there with my companions .,....and demand possession of the Salt Works. The public have been told that Dharsana is private property. This is mere camouflage. It is effectively under Government control as the Viceroy's house. Not a pinch of salt can be removed without the previous sanction of the authorities.</p>
 <p rend="indented">It is possible for you to prevent this raid, as it has been playfully and mischievously called in three ways :—</p>
 <list><item>by removing the salt tax;</item><item>by arresting me and my party unless the country can as I hope it will, replace every one taken away ;</item><item>by sheer gondaism unless every head broken is replaced as I hope it will.</item></list>
@@ -415,8 +413,7 @@ AS A CURSE!</hi></head>
 <closer><salute rend="cascading">I am,<lb/>Your sincere friend,</salute><signed rend="cascading">M. K. GANDHI.</signed></closer>
 </div>
 <div xml:id="div-unit-0022" type="editorial">
-<pb xml:id="page-79" n="76"/><head rend="center">TO THE INMATES OF
-SABARMATI ASHRAM.</head>
+<pb xml:id="page-79" n="76"/><head rend="center">TO THE INMATES OF<lb/>SABARMATI ASHRAM.</head>
 <p rend="indented"><hi rend="italic">(Mahatma Gandhi is known to be one of the most courageous, even 'seditious' writers who ever dared to challenge the mighty British Empire in India, and yet his pen has written some of the sweetest letters — letters bubbling with love and human sympathy —. In the year 1930 when he was in Yervada Jail the inmates of Yervada Jail received very affectionate letters from him, some of which are reproduced below :)</hi></p>
 <milestone unit="section" rend="ornament"/>
 </div>
@@ -430,8 +427,7 @@ SABARMATI ASHRAM.</head>
 <closer><signed rend="right">Love BAPU.</signed></closer>
 </div>
 <div xml:id="div-letter-0011" type="letter" corresp="#letter-0011">
-<pb xml:id="page-81" n="78"/><head rend="center">II—GENERAL LETTER TO ALL THE
-INMATES OF THE ASHRAM.</head>
+<pb xml:id="page-81" n="78"/><head rend="center">II—GENERAL LETTER TO ALL THE<lb/>INMATES OF THE ASHRAM.</head>
 <p>“ My health is alright. I rise in the morning at the Ashram hour (4 A.M.) I am given a light, so I can read the Gita chapters according to our custom. I am gradually recovering from my exhaustion of so many days. I rest regularly at 8 in the morning, and 12 noon, and thus get some two to three hours sleep during the day. I gave up oranges during my march, but have begun to take them again here. On the first day I took raw goat's milk and am continuing it for the present. I take about three pounds. I shall have to reduce it a little or take it in the form of curds. In the mornings, also, I take cold water instead of hot. They give me full facilities for making it hot, but if the body can be maintained on cold water, why bother about hot water. I have left off honey. I had begun taking cold water baths, but from yesterday I am again bathing with hot water. The goat is milked in my presence, so there is no question as to the cleanliness of the milk. If raw milk proves unsatisfactory I will, of course, get it heated.</p>
 <pb xml:id="page-82" n="79"/><p rend="indented">They have given me a man to clean vessels, etc., Dates and raisins I am taking. There is no reason to be anxious about my diet.</p>
 <p rend="indented">There is, and ought to be, no time in these days for taking superfluous care of others. We have no money and ought to have no money for superfluous expenses.</p>
@@ -462,8 +458,7 @@ INMATES OF THE ASHRAM.</head>
 <closer><dateline>Yerawada Palace,<lb/>Silence day.</dateline><signed rend="right">BAPU'S blessings.</signed></closer>
 </div>
 <div xml:id="div-unit-0029" type="editorial">
-<pb xml:id="page-85" n="82"/><head rend="center"><hi rend="bold">CORRESPONDENCE WITH
-LORD WILLINGDON.</hi></head>
+<pb xml:id="page-85" n="82"/><head rend="center"><hi rend="bold">CORRESPONDENCE WITH</hi><lb/><hi rend="bold">LORD WILLINGDON.</hi></head>
 <head rend="center">GANDHIJI'S 1ST REJOINDER.</head>
 <p rend="indented"><hi rend="italic">In the year 1931 when the relations between the Congress and the British Government were straitened to a rather 'dangerous' extent, a queer situation arose. Gandhiji was scheduled to see the Viceroy—Lord Willingdon to discuss with him the political situation of the country with a view to arrive at some solution of the impasse. Parallel to the extension of invitation to Gandhiji, the Viceroy started a campaign of shooting in the Frontier and arrests in other parts of India. Gandhiji sent a wire to the Viceroy asking whether 'friendly relations between us are close or whether you expect me to see you'. His Excellency sent a reply that he was willing to see him but he was not prepared to discuss anything with regard to any of the 'repressive measures'. He also held Gandhiji responsible for various measures of lawlessness. To this Gandhiji issued the following rejoinder on 31st December 1931.</hi></p>
 <milestone unit="section" rend="ornament"/>
@@ -482,14 +477,12 @@ LORD WILLINGDON.</hi></head>
 <p rend="indented">I can never therefore deny my creed. In pursuance thereof, and on the strength of uncontradicted reports supported by the recent activities of the Government of India to the effect that there may be no other opportunity for me to guide the public, the Working Committee has accepted my advice and passed a resolution tentatively sketching a plan of civil disobedience. I am sending herewith the text of the resolution. If His Excellency thinks it worthwhile to see me, the operation of the resolution will be suspended pending our discussion in the hope that it may result in the resolution being finally given up. I admit that the correspondence between His Excellency and myself is of such grave importance as not to brook delay in publication. I am, therefore, sending my telegram, your reply, this rejoinder and the Working Committee's resolution for publication.</p>
 </div>
 <div xml:id="div-unit-0031" type="editorial">
-<pb xml:id="page-92" n="89"/><head rend="center">MAHATMA GANDHI'S
-SECNOD REJOINDER.</head>
+<pb xml:id="page-92" n="89"/><head rend="center">MAHATMA GANDHI'S<lb/>SECNOD REJOINDER.</head>
 <p rend="indented"><hi rend="italic">As a retaliatory measure to Government's repressive policy on December 28, 1931 the Congress Working Committee under the guidance of Mahatma Gandhi passed a resolution involving the general revival of the Civil Disobedience movement. The then Viceroy of India in a telegram warned the Mahatma that the Government would hold him and the Congress responsible for any untoward consequences which might ensue and also apprised him of the determination of the Government to suppress the movement by all possible means. To that telegram the Mahatma issued the following rejoinder:—</hi></p>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0016" type="letter" corresp="#letter-0016">
-<pb xml:id="page-93" n="90"/><head rend="center"><hi rend="bold">TIME ALONE WILL SHOW WHO WAS
-JUSTIFIED !</hi></head>
+<pb xml:id="page-93" n="90"/><head rend="center"><hi rend="bold">TIME ALONE WILL SHOW WHO WAS</hi><lb/><hi rend="bold">JUSTIFIED !</hi></head>
 <p rend="indented">Thanks for your wire of even date. I cannot help expressing deep regrer for the decision of His Excellency and his Government. Surely it is wrong to describe an honest expression of opinion as a threat. May I remind the Government that the Delhi negotiations were opened and carried on whilst civil disobedience was not given up but only discontinued. This position was reasserted and accepted by His Excellency and his Government in Simla in September last prior to my departure for London. Although I had made it clear that under certain circumstances the Congress might have to resume Civil Disobedience the Government did not break off negotiations. That it was made clear by the Government that Civil Disobedience carried with it the penalty for disobedience merely proves what civil resisters bargain for but does not in any way effect my argument. Had the Government resented that attitude, it was open to them not to send me to London. On the contrary my departure had His Excellency's blessings.</p>
 <p rend="indented">Nor is it fair or correct to suggest that I have ever advanced the claim that any policy of the <pb xml:id="page-94" n="91"/> Government should be dependent on my judgment. But I do not submit that any popular and constitutional Government would always welcome and sympathetically consider suggestions made by public bodies and their representatives and assist them with all available information about their Acts or Ordinances of which public opinion may disapprove. I claim that my messages have no other meaning.</p>
 <p rend="indented"><hi rend="italic">Time alone will show whose position was justified.</hi></p>
@@ -502,8 +495,7 @@ JUSTIFIED !</hi></head>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0017" type="letter" corresp="#letter-0017">
-<pb xml:id="page-96" n="93"/><head rend="center"><hi rend="bold">WE ARE EMBARKING ON A FIERY
-ORDEAL.</hi></head>
+<pb xml:id="page-96" n="93"/><head rend="center"><hi rend="bold">WE ARE EMBARKING ON A FIERY</hi><lb/><hi rend="bold">ORDEAL.</hi></head>
 <p rend="indented">It is a matter for deep regret to me to have received this telegram from H.E. the Viceroy and the Government. I cannot help saying that it has heaped error upon error, instead of courageously acknowledging the first error, in practically banging the door in my face by imposing for the coveted interview conditions which no self-respecting man can possibly accept and reopen the door. The telegram had added another error by deliberately and finally shutting the door by telling me that he cannot see me under threat of resumption of civil disobedience and introducing in the telegram an argument that is not germane to my repeated request for an interview. The Viceroy and his Government have committed a flagrant breach of the Delhi Pact by using the so called threat of resumption of civil disobedience as an excuse for refusing to see me.</p>
 <p rend="indented">Surely he must know that the negotiations which resulted in the settlement were being carried on although civil disobedience was still on, and under the settlement it was never finally given up but was <pb xml:id="page-97" n="94"/> only discontinued for the purpose of securing representation of the Congress at the Round Table Conference, it being understood that it was likely to be resumed if the Round Table Conference failed to do satisfaction in respect of the national demand. To this I wish to add the Second Settlement that was arrived at in Simla immediately prior to my departure for London. On examining the correspondence that has passed between myself and the Government, it would be seen that not withstanding the truce, I had reserved to myself the right to take civil disobedience by way of defensive action in connection with the grievances about which relief might not be attainable through milder methods. Surely, if civil disobedience was such a heinous crime, the Government could never have exchanged correspondence on that basis and sent me to London with Viceregal blessings; but I see that with the change of times, manners have also changed.</p>
 <p rend="indented">The action must now respond to the challenge of the Government. It is to be hoped, however, that whilst people belonging to all classes and creeds will courageously and in all humility go through the fiery ordeal considering no price too dear and no sufferings too great, they will observe the strictest non-violence in thought, word and deed, no matter how great the provocation may be. I would also <pb xml:id="page-98" n="95"/> urge them not to be angry with the administrators. It is not easy for them to shed the habit handed down from generation to generation. Our quarrel is not with men but with measures.</p>
@@ -511,8 +503,7 @@ ORDEAL.</hi></head>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-unit-0035" type="editorial">
-<pb xml:id="page-99" n="96"/><head rend="center">GANDHIJI'S LETTER TO
-SIR SAMUEL HOARE IN MARCH 1932.</head>
+<pb xml:id="page-99" n="96"/><head rend="center">GANDHIJI'S LETTER TO<lb/>SIR SAMUEL HOARE IN MARCH 1932.</head>
 <p rend="indented"><hi rend="italic">In the following letter dated March 11, 1932 addressed to Sir Samuel Hoare, Mahatma Gandhi informed His Majesty's Government that in the event of their creating separate electorates for the Depressed Classes, he (the Mahatma) would fast unto death.</hi></p>
 <milestone unit="section" rend="ornament"/>
 </div>
@@ -556,8 +547,7 @@ SIR SAMUEL HOARE IN MARCH 1932.</head>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0020" type="letter" corresp="#letter-0020">
-<pb xml:id="page-111" n="108"/><head rend="center"><hi rend="bold">IN YOUR SPEECH I MISS THE OLD
-NATIONALIST.</hi></head>
+<pb xml:id="page-111" n="108"/><head rend="center"><hi rend="bold">IN YOUR SPEECH I MISS THE OLD</hi><lb/><hi rend="bold">NATIONALIST.</hi></head>
 <opener><salute>Dear Mr. Jinnah,</salute></opener>
 <p rend="indented">Pandit Nehru told me yesterday that you were complaining to Maulana Sahib about the absence of any reply from me to your letter of the 5th November in reply to mine of the 19th October. The letter was received by me when I was pronounced by the Doctors to be seriously ill at Calcutta.</p>
 <p rend="indented">The letter was shown to me three days after its receipt. Had I thought it necessarily called for a reply even though I was ill I would have sent one. I re-read the letter and I still think there was nothing useful that I could have said in reply. But in a way I am glad you awaited a reply and here it is. Mr. Kher told me definitely he had a private message from you. He delivered it to me when I was alone. I could have sent you a verbal message in reply but in order to give you a true picture of my mental state I sent you a short note. There was nothing to hide in it. But I did feel, as I still do, that the way in which you used it came upon me as a painful surprise.</p>
@@ -592,8 +582,7 @@ NATIONALIST.</hi></head>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0022" type="letter" corresp="#letter-0022">
-<pb xml:id="page-121" n="118"/><head rend="center"><hi rend="bold">INTERESTED PROPAGANDA HAS
-BEGUILED YOU.</hi></head>
+<pb xml:id="page-121" n="118"/><head rend="center"><hi rend="bold">INTERESTED PROPAGANDA HAS</hi><lb/><hi rend="bold">BEGUILED YOU.</hi></head>
 <p rend="indented">I claim to be a votary of truth from my childhood. It was the most natural thing to me. My prayerful search gave me the revealing maxim “ Truth is God ” instead of the usual one “ God is Truth ”. That maxim enables me to see God face to face as it were. I feel Him pervade every fibre of my being. With this truth as witness between you and me, I assert that I would not have asked my country to invite Great Britain to withdraw her rule over India, irrespective of any demand to the contrary, if I had not seen at once that for the sake of Great Britain and the Allied cause, it was necessary for Britain boldly to perform the duty of freeing India from bondage.</p>
 <p rend="indented">By that supreme act of justice Britain would have taken away all cause for the seething discontent of India. She will turn the growing ill-will into goodwill. I submit that it is worth all the battleships and airships that your wonder working engineers and financial resources can produce.</p>
 <pb xml:id="page-122" n="119"/><p rend="indented">I know that interested propaganda has filled your ears and eyes with distorted visions of the Congress position. I have been painted as a hypocrite and enemy of Britain under disguise. My demonstrable spirit of accommodation has been described as my inconsistency, proving me to be an utterly unreliable man. I am not going to burden this letter with proof in support of my assertions. I know the credit I have enjoyed in America will not stand me in good stead, nothing I may argue in self-defence will carry conviction.</p>
@@ -630,20 +619,18 @@ MOVEMENT</head>
 </div>
 <div xml:id="div-letter-0024" type="letter" corresp="#letter-0024">
 <pb xml:id="page-132" n="129"/><head><hi rend="bold">To the Secretary, Home Department.</hi></head>
-<head rend="center">THE RIGHT COURSE FOR THE
-GOVERNMENT.</head>
+<head rend="center">THE RIGHT COURSE FOR THE<lb/>GOVERNMENT.</head>
 <opener><dateline rend="right"><hi rend="italic">Sept. 23, 1942.</hi></dateline><salute>Sir,</salute></opener>
 <p rend="indented">In spite of the chorus of approval sung by the Indian Councillors and others of the present Government policy in dealing with the Congress, I venture to assert that had the Government but awaited my contemplated letter to His Excellency the Viceroy and the result thereafter, no calamity would have overtaken the country. The reported deplorable destruction would have most certainly been avoided.</p>
 <p rend="indented">In spite of all that has been said to the contrary, I claim that the Congress policy still remains unequivocally non-violent. The wholesale arrest of the Congress leaders seems to have made the people wild with rage to the point of losing self-control. I feel that the Government not the Congress are responsible for the destruction that has taken place. The only right course for the Government seems to me to be to release the Congress leaders, withdraw all repressive measures and explore ways and means of <pb xml:id="page-133" n="130"/> conciliation. Surely, the Government have ample resources to deal with any overt act of violence. Repression can only breed discontent and bitterness.</p>
 <p rend="indented">Since I am permitted to receive newspapers, I feel that I owe it to the Government to give my reaction to the said happenings in the country. If the Government think that as a prisoner I have no right to address such communications, they have but to say so, and I will not repeat the mistake.</p>
-<p rend="valediction">I am, Yours, etc.,</p>
-<p rend="signature"><hi rend="smallcaps">M. K. Gandhi.</hi></p>
+<closer><salute rend="right">I am, Yours, etc.,</salute><signed rend="right"><hi rend="smallcaps">M. K. Gandhi.</hi></signed></closer>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0025" type="letter" corresp="#letter-0025">
 <pb xml:id="page-134" n="131"/><head><hi rend="bold">Letter on New Year's Eve.</hi></head>
 <opener><dateline rend="right"><hi rend="italic">New Year's Eve 1942.</hi></dateline></opener>
-<p rend="heading"><hi rend="bold">MAY THE NEW YEAR BRING PEACE</hi><lb/><hi rend="bold">TO US.</hi></p>
+<head rend="center"><hi rend="bold">MAY THE NEW YEAR BRING PEACE</hi><lb/><hi rend="bold">TO US.</hi></head>
 <p><hi rend="bold">Personal.</hi></p>
 <p rend="salutation">Dear Lord Linlithgow.</p>
 <p rend="indented">This is a very personal letter. Contrary to the biblical injunction, I have allowed many suns to set on a quarrel. I have harboured against you, but I must not allow the old year to expire without disburdening myself of what is rankling in my breast against you. I had thought we were friends and should still love to think so. However, what has happened since August 9 last makes me wonder whether you still regard me as a friend. I have perhaps not come in close touch with any other occupant of your gadi as with you.</p>
@@ -679,8 +666,7 @@ GOVERNMENT.</head>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0027" type="letter" corresp="#letter-0027">
-<pb xml:id="page-142" n="139"/><head rend="center">THE GOVERNMENT GOADED THE PEOPLE
-TO THE POINT OF MADNESS.</head>
+<pb xml:id="page-142" n="139"/><head rend="center">THE GOVERNMENT GOADED THE PEOPLE<lb/>TO THE POINT OF MADNESS.</head>
 <opener><dateline rend="right"><hi rend="italic">January 29, 1943.</hi></dateline><salute>Dear Lord Linlithgow,</salute></opener>
 <p rend="indented">I must thank you warmly for your prompt reply to my letter of the 19th instant. I wish I could agree with you that your letter is clear. I am sure you do not wish to imply by clearness simply you hold a particular opinion strongly. I have pleaded and would continue to plead till the last breath that you should at least make an attempt to convince me of the validity of opinion you hold that the August resolution of the Congress is responsible for the popular violence that broke out on August 9 last and after even though it broke out after the wholesale arrest of principal leaders. Was not the drastic and unwarranted action of the Government responsible for the reported violence?</p>
 <p rend="indented">You have not even said what part of the August resolution is bad or offensive in your opinion. That resolution is in no way a retraction by the Congress of its policy of non-violence. It is definitely against Fascism in every shape or form. It tenders co-operation in war effort under circumstances <pb xml:id="page-143" n="140"/> which alone can make effective and nation-wide co-operation possible. Is all this open to reproach? Objection may be raised to that clause of the resolution which contemplated civil disobedience. But that by itself cannot constitute an objection since the principle of civil disobedience is impliedly conceded in what is known as the ‘Gandhi-Irwin Pact’. Even that civil disobedience was not to be started before knowing the result of the meeting for which I was to seek from you an appointment.</p>
@@ -692,14 +678,12 @@ TO THE POINT OF MADNESS.</head>
 <p rend="indented">I am not marking this letter personal as I did the two previous ones. They were in no way confidential. They were a mere personal appeal.</p>
 </div>
 <div xml:id="div-unit-0052" type="editorial">
-<pb xml:id="page-145" n="142"/><head rend="center"><hi rend="bold">TO LORD LINLITHGOW.</hi>
-<hi rend="italic">(LAST LETTER)</hi></head>
+<pb xml:id="page-145" n="142"/><head rend="center"><hi rend="bold">TO LORD LINLITHGOW.</hi><lb/><hi rend="italic">(LAST LETTER)</hi></head>
 <p rend="indented"><hi rend="italic">(The reply from the Viceroy to Gandhiji's intimation on fast was not only responsive but also threatening. He went to the length of describing Gandhiji's decision to fast as 'political blackmailing'. Gandhiji addressed the following last letter to the then Viceroy.)</hi></p>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0028" type="letter" corresp="#letter-0028">
-<pb xml:id="page-146" n="143"/><head rend="center">THE RESPONSIBILITY IS NO DOUBT MINE
-BUT ...</head>
+<pb xml:id="page-146" n="143"/><head rend="center">THE RESPONSIBILITY IS NO DOUBT MINE<lb/>BUT ...</head>
 <opener><salute>Dear Lord Linlithgow,</salute></opener>
 <p rend="indented">I have to thank you for your long reply dated the 5th instant to my letter of January 29 last. I would take your last point first, namely, the contemplated fast which begins on 9th instant. Your letter from a Satyagrahi's standpoint is an invitation to fast. No doubt the responsibility for the step and its consequences, will be solely mine. You have allowed an expression to slip from your pen, for which I was unprepared. In the concluding sentence of the second paragraph you describe the step as an attempt to find any easy way out. That you as a friend, can impute such a base and cowardly motive to me passes comprehension. You have also described it as “a form of political blackmail”. And you quote my previous writing on the subject against me. I abide by my writing. I hold that there is nothing inconsistent in them with the contemplated step. I wonder whether you have yourself read those writings.</p>
 <p rend="indented">I do claim that I had approached you with an open mind when I asked you to convince me of my <pb xml:id="page-147" n="144"/> error. “Profound distrust” of the published reports is in no way inconsistent with my having an open mind.</p>
@@ -710,8 +694,7 @@ BUT ...</head>
 <p rend="indented">Lastly you read into my letters a meaning which is wholly inconsistent with my declaration, in one of them of adherence to unadulterated non-violence. For, you say in your letter under reply that " acceptance of my point of view would be to concede that the authorised Government of the country on which lies the responsibility for maintain ng peace and good order, should allow movements to take place, that would admit preparations for violence, interruption of communications, for attacks on innocent persons, for murders of police officers and others to proceed unchecked". I must be a strange friend of yours whom you believe to be capable of asking for recognition of such things as lawful.</p>
 <p rend="indented">I have not attempted an exhaustive reply to the views and statements attributed to me. This is not the place nor the time for such a reply. I have only picked out those things which in my opinion <pb xml:id="page-150" n="147"/> demanded an immediate answer. You have left me no loophole for escaping the ordeal I have set before myself. I begin it on the 9th instant with the clearest possible conscience. Despite your description of it as a “ form of political blackmail ”, it is on my part meant to be an appeal to the Highest Tribunal for justice which I have failed to secure from you. If I do not survive the ordeal, I shall go to the Judgment Seat with the fullest faith in my ignorance. Posterity will judge between you as representative of an all-powerful Government and me as a humble man who has tried to serve his country and humanity through it.</p>
 <p rend="indented">My last letter was written against time, and therefore a material paragraph went in as postscript. I now send herewith a fair copy typed by Pearey Lal who has taken Mahadev Desai’s place. You will find the postscript paragraph restored to the place where it should have been.</p>
-<p rend="valediction">I am,<lb/>Your sincere friend,</p>
-<p rend="signature">M. K. <hi rend="smallcaps">Gandhi</hi>.</p>
+<closer><salute rend="cascading">I am,<lb/>Your sincere friend,</salute><signed rend="cascading">M. K. <hi rend="smallcaps">Gandhi</hi>.</signed></closer>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0029" type="letter" corresp="#letter-0029">

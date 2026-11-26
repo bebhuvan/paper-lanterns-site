@@ -23,16 +23,16 @@
   "letters": 31,
   "notes": 30,
   "pages": 310,
-  "dated_letters": 28
+  "dated_letters": 30
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 97.0,
+  "score": 96.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 30.0,
+    "score": 29.0,
     "out_of": 30.0
    },
    {
@@ -56,7 +56,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 1,
+  "flagged": 3,
   "blockers": 0
  },
  "proof": {
@@ -195,7 +195,7 @@
   ],
   [
    1879,
-   2
+   3
   ],
   [
    1880,
@@ -203,7 +203,7 @@
   ],
   [
    1881,
-   1
+   2
   ]
  ],
  "periods": [],
@@ -221,27 +221,27 @@
   {
    "format": "epub",
    "file": "dostoevsky-letters-reminiscences-1923.epub",
-   "bytes": 216437,
-   "sha256": "1942bd56ee4e6b7219eb4a742faf91645d39a76991b0b718024fe7100855ee49"
+   "bytes": 216592,
+   "sha256": "9aaa4459fc181f1a1b65a5bfb4032251bf4f3df80f8336a54c8f50e1e32dae36"
   },
   {
    "format": "markdown",
    "file": "dostoevsky-letters-reminiscences-1923.md",
-   "bytes": 363393,
-   "sha256": "a8d6b822fc73edf02627e41a3af9fad9aee501203903994ba6e85099a924182c"
+   "bytes": 363561,
+   "sha256": "e55906ea614b1b3072dd3529b3c6bae2f9da06797a27b1de0067fb4ebe08378c"
   },
   {
    "format": "tei",
    "file": "dostoevsky-letters-reminiscences-1923.tei.xml",
-   "bytes": 412984,
-   "sha256": "49ef741f998011d5222dcd7a2ac112f6f0f12d6e068d5376900ecc654d3ebc92"
+   "bytes": 413239,
+   "sha256": "fcf4a0b4d993a94448927e45e237c21cfbea0e555501c07bc2bc6f3e94f6964b"
   }
  ],
  "scan_base": "https://archive.org/download/bwb_P8-ADV-479/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:53:07Z",
-  "source_ast_sha256": "f11d53e41e146238ae5fe41247a5f5600373a01539e843ae83b8b44714883486",
+  "compiled_at": "2026-11-24T19:21:28Z",
+  "source_ast_sha256": "461239aa788ebad0b384c2d2d96aa9b7b5617e49f89b686d3b117a64c1d195ce",
   "hugo_renderer_version": "1.0.0"
  }
 }

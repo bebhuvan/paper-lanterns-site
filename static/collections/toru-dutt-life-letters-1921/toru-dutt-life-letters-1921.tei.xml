@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Life and Letters of Toru Dutt</title>
-        <author>Toru Dutt, Harihar Das (ed.)</author>
+        <author>Toru Dutt</author>
+        <editor>Harihar Das</editor>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +15,7 @@
       <sourceDesc>
         <bibl>
           <title>Life and Letters of Toru Dutt</title>
+          <publisher>London: Humphrey Milford, Oxford University Press, 1921</publisher>
           <date>1921</date>
           <idno type="URI">https://archive.org/details/lifelettersoftor00duttuoft</idno>
         </bibl>
@@ -330,8 +332,7 @@
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
-<pb xml:id="page-5" n="5"/><head rend="center">THE LIFE AND LETTERS OF
-TORU DUTT</head>
+<pb xml:id="page-5" n="5"/><head rend="center">THE LIFE AND LETTERS OF<lb/>TORU DUTT</head>
 <pb xml:id="page-6" n="6"/><p rend="imprint">PRINTED IN ENGLAND<lb/>AT THE OXFORD UNIVERSITY PRESS<lb/>BY FREDERICK HALL</p>
 <pb xml:id="page-8" n="8"/><figure type="illustration"><figDesc>illustration on p. 8</figDesc></figure>
 <p rend="caption">Toru Dutt.</p>
@@ -963,21 +964,21 @@ Abju  Aru  TORU  ROMESH</figDesc></figure>
 <p rend="indented">April 27th. Yesterday my grandfather came here with one of his grandsons ; he wished to consult Dr. Cayley about the health of the boy, who is rather weakly. Yesterday, in the afternoon, we had a good deal of rain and wind, which continued almost the whole night.</p>
 <p rend="indented">Of all the English birds that Aru brought from England, only six are living, two pairs of canaries, one goldfinch, and one chaffinch. The guinea-pigs increase their number weekly, and I continue to ‘ drive a roaring trade ’ as Papa says, by selling them by lots of eighteen or twenty at a time ! I hope you are all quite well. By the time this letter reaches you, you would have left Cambridge House for good, I suppose. Where are you going this summer during the vacation ? What do you think of <pb n="87"/> coming out here for a summer-trip ? We should be charmed to see you and should be happy to bring about this joyous event in any way, if you will just give a hint that it will suit you !</p>
 <p rend="indented">The weather looks cloudy, and as the Garden gets unhealthy during the rainy season, we shall soon have to decamp. Write to me at our Calcutta house, for I am afraid of the letters being lost if you were to address them here. Papa is pretty well, but as I said before, it will be some time before he is able to move about. He and Mamma join in sending kind regards to your father and mother and with best love to yourself.</p>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>Chanson</p></div></front><body><div><pb xml:id="page-121" n="87"/><head rend="center"><hi rend="smallcaps">Chanson</hi></head>
+<floatingText type="verse_insert"><body><div><pb xml:id="page-121" n="87"/><head rend="center"><hi rend="smallcaps">Chanson</hi></head>
 <p rend="center">From Victor Hugo's <hi rend="italic">Les Châtiments</hi></p>
 <p rend="center">(<hi rend="italic">Original</hi>)</p>
 <lg rend="indented"><l>La femelle ? elle est morte.</l><l>Le mâle ? un chat l'emporte</l><l>Et dévore ses os.</l><l>Au doux nid qui frissonne</l><l>Qui reviendra ? personne.</l><l>Pauvres petits oiseaux !</l></lg>
 <lg rend="indented"><l>Le pâtre absent par fraude !</l><l>Le chien mort ! le loup rôde</l><l>Et tend ses noirs panneaux</l><l>Au bercail qui frissonne.</l><l>Qui veillera ? personne.</l><l>Pauvres petits agneaux !</l></lg>
 <lg rend="indented"><l>L'homme au bagne ! la mère</l><l>A l'hospice ! ô misère !</l><l>Le logis tremble aux vents ;</l><l>L'humble berceau frissonne.</l><l>Que reste-t-il ? personne.</l><l>Pauvres petits enfants !</l></lg></div></body></floatingText>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>Chanson</p></div></front><body><div><head rend="center"><hi rend="smallcaps">Chanson</hi></head>
+<floatingText type="verse_insert"><body><div><head rend="center"><hi rend="smallcaps">Chanson</hi></head>
 <p rend="center">(<hi rend="italic">Translation</hi>)</p>
 <lg rend="indented"><l>The female ? She is dead.</l><l>The male ? The cat has fed</l><l>On his flesh and his bone.</l><l>To the nest which will come ?</l><l>Oh, poor birdlings, be dumb ;</l><l>But they moan, the weak things, and they moan,</l></lg>
 <pb xml:id="page-122" n="88"/><lg rend="indented"><l>The shepherd ? Gone or fled.</l><l>The dog ? Killed, and instead</l><l>The wolf prowling alone.</l><l>He peers in.—Ho, I come !</l><l>He may pity, hope some,</l><l>Oh poor lambs, the wolf's heart is of stone.</l></lg>
 <lg rend="indented"><l>The man ? To prison led.</l><l>The mother ? sick-a-bed</l><l>In a workhouse is thrown.</l><l>It is cold—will she come ?</l><l>They cry—cry for a crumb,</l><l>Poor children, look to God on his throne.</l></lg></div></body></floatingText>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>From Les Châtiments of Victor Hugo</p></div></front><body><div><head rend="center">From <hi rend="italic">Les Châtiments</hi> of Victor Hugo</head>
+<floatingText type="verse_insert"><body><div><head rend="center">From <hi rend="italic">Les Châtiments</hi> of Victor Hugo</head>
 <head rend="center">(<hi rend="italic">Original</hi>)</head>
 <lg rend="indented"><lg type="stanza"><l>— Sentiers où l'herbe se balance,</l><l>Vallons, coteaux, bois chevelus,</l><l>Pourquoi ce deuil et ce silence ?</l><l>— Celui qui venait ne vient plus.</l></lg><lg type="stanza"><l>— Pourquoi personne à la fenêtre,</l><l>Et pourquoi ton jardin sans fleurs ?</l><l>O maison ! où donc est ton maître ?</l><l>— Je ne sais pas, il est ailleurs.</l></lg><lg type="stanza"><l>— Chien, veille au logis. — Pour quoi faire ?</l><l>La maison est vide à présent.</l><l>— Enfant, qui pleures-tu ? — Mon père.</l><l>— Femme, qui pleures-tu ? — L'absent.</l></lg><lg type="stanza"><l>— Où s'en est-il allé ? — Dans l'ombre.</l><l>— Flots qui gémissez sur l'écueil,</l><l>D'où venez-vous ? — Du bagne sombre.</l><l>— Et qu'apportez-vous ? — Un cercueil.</l></lg></lg></div></body></floatingText>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>The Political Prisoner</p></div></front><body><div><head rend="center"><hi rend="smallcaps">The Political Prisoner</hi></head>
+<floatingText type="verse_insert"><body><div><head rend="center"><hi rend="smallcaps">The Political Prisoner</hi></head>
 <head rend="center">(<hi rend="italic">Translation</hi>)</head>
 <lg rend="indented"><l>—Paths that from trees dark shadows borrow !</l><l>Green vale and wood and pebbled shore !</l><l>Wherefore this silence and this sorrow ?</l><l>—A step that came here, comes no more.</l></lg>
 <pb xml:id="page-123" n="89"/><lg><l>—Closed window, sign of some disaster !</l><l>   Garden, where never flowers are seen !</l><l>And grey old house—where is the master ?</l><l>   —Long in his home he has not been.</l></lg>
@@ -1067,7 +1068,7 @@ Abju  Aru  TORU  ROMESH</figDesc></figure>
 <p rend="indented">Our winter is coming in rather early this year ; the weather is already pleasanter and the mornings are fresh and cool. Of course the <hi rend="italic">punkah</hi> is yet a source of comfort, but very soon it will be no longer so. I want to go to the Garden for the winter, <pb n="101"/> but Papa is rather averse to moving again, when we have just settled down here with our books. I hope Mamma and I shall be able to persuade him to dislodge. We went to the Old Church last Sunday. Our pastor, Mr. Welland, was absent; I think he has gone to the North West for a change, and so Mr. Clifford conducted the service and gave the sermon.</p>
 <p rend="indented">The <hi rend="italic">Doorga-Poojah</hi> holidays have come, and all business men have left town for a change. Last Sunday was the day that the Hindus throw the goddess Doorga into the river, after a three days' worship! The streets were crowded to excess, processions, with the goddess, I mean with her image, borne in a triumphal throne and with music, marched towards the river. We thought we should be able to escape all the noise and crowd by going to Baugmaree for a day or two, but somehow we were prevented.</p>
 <p rend="indented">I have nothing to write about, so I will copy out for you one of my latest translations of French poetry. It is taken from the <hi rend="italic">Anthologie</hi> which we received a fortnight ago and the author is M. Eugène Manuel, a poet of our times.</p>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>The History of a Soul</p></div></front><body><div><pb xml:id="page-135" n="101"/><head rend="center"><hi rend="smallcaps">The History of a Soul</hi></head>
+<floatingText type="verse_insert"><body><div><pb xml:id="page-135" n="101"/><head rend="center"><hi rend="smallcaps">The History of a Soul</hi></head>
 <lg><lg type="stanza"><l>In secret from among the throng</l><l> God sometimes takes a soul,</l><l>And leads her slow, through grief and wrong,</l><l> Unswerving to her goal.</l></lg><lg type="stanza"><l>He chooses her to be His bride,</l><l> And gives her from His store,</l><l>Meek tenderness and lofty pride,</l><l> That she may feel the more.</l></lg><lg type="stanza"><l>He makes her poor, without a stay,</l><l> Desiring all men's good,</l><l>Searching the True, pure, pure alway,</l><l> But still, misunderstood.</l></lg><lg type="stanza"><l>Beneath a weight of pains and fears</l><l> He makes her often fall,</l><l>He nourishes her with bitter tears,</l><l> Unseen, unknown of all.</l></lg></lg>
 <pb xml:id="page-136" n="102"/><lg rend="indented"><l>He spreads the clouds her head above,</l><l>   He tries her hour by hour,</l><l>From Hate she suffers and from Love,</l><l>   And owns of Each the power.</l></lg>
 <lg rend="indented"><l>God's rigour never, never sleeps :</l><l>   She waits for peace ?  In vain.</l><l>She struggles or resignèd weeps,</l><l>   He strikes and strikes again.</l></lg>
@@ -1077,11 +1078,11 @@ Abju  Aru  TORU  ROMESH</figDesc></figure>
 <lg rend="indented"><l>Will she fight on, 'gainst every ill ?</l><l>   Brave every storm ?  Stand fast,</l><l>Her lofty mission to fulfil</l><l>   With courage to the last ?</l></lg>
 <lg rend="indented"><l>And when He sees her ever true,</l><l>   Like needle to the pole,</l><l>Upon His work He smiles anew—</l><l>   Thus forges God a soul.</l></lg></div></body></floatingText>
 <p>Do you like it ?  I have not given the original because it is long. If you are not tired, I will put in a piece of Mme Desbordes-Valmore's, the original and the translation.</p>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>Romance, &#x27;S&#x27;il l&#x27;avait su&#x27;</p></div></front><body><div><head rend="center"><hi rend="smallcaps">Romance, 'S'il l'avait su'</hi></head>
+<floatingText type="verse_insert"><body><div><head rend="center"><hi rend="smallcaps">Romance, 'S'il l'avait su'</hi></head>
 <lg rend="indented"><l>S'il avait su quelle âme il a blessée,</l><l>Larmes du cœur, s'il avait pu vous voir,</l><l>Ah ! si ce cœur, trop plein de sa pensée,</l><l>De l'exprimer n'eût gardé le pouvoir,</l><l>Changer ainsi n'eût pas été possible ;</l><l>Fier de nourrir l'espoir qu'il a déçu,</l><l>A tant d'amour il eût été sensible,</l><l>   S'il l'avait su.</l></lg>
 <pb xml:id="page-137" n="103"/><lg><l>S’il avait su tout ce qu’on peut attendre,</l><l>D’une âme simple, ardente et sans détour,</l><l>Il eût voulu la mienne pour l’entendre.</l><l>Comme il l’inspire, il eût connu l’amour.</l><l>Mes yeux baissés recélaient cette flamme ;</l><l>Dans leur pudeur n’a-t-il rien aperçu ?</l><l>Un tel secret valait toute son âme,</l><l>        S’il l’avait su.</l></lg>
 <lg><l>Si j’avais su, moi-même, à quel empire</l><l>On s’abandonne en regardant ses yeux,</l><l>Sans le chercher comme l’air qu’on respire,</l><l>J’aurais porté mes jours sous d’autres cieux.</l><l>Il est trop tard pour renouer ma vie ;</l><l>Ma vie était un doux espoir déçu :</l><l>Diras-tu pas, toi qui me l’as ravie,</l><l>        Si je l’avais su ?</l></lg></div></body></floatingText>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>Translation</p></div></front><body><div><head rend="center"><hi rend="italic">Translation</hi></head>
+<floatingText type="verse_insert"><body><div><head rend="center"><hi rend="italic">Translation</hi></head>
 <lg><l>If he had known—known what a soul he has wounded !</l><l>O heart, if thy tears had been seen but to flow,</l><l>Or if thou at his step less wildly hadst bounded</l><l>And guarded the power thy deep feeling to show,</l><l>He could not, he could not so lightly have altered,</l><l>Proud to nourish a hope now hurled from its throne,</l><l>By a love so profound, he, touched, must have faltered</l><l>        If he had known.</l></lg>
 <lg><l>If he had known what might be hoped and awaited,</l><l>From a heart in its candour, deception above,</l><l>For mine he had longed, with a joy unabated,</l><l>And as he inspired, would have felt also love.</l><l>Mine eyes bent down ever, concealed my emotion,</l><l>Guessed he nothing from that ?  was’t shyness alone ?</l><l>A secret like mine was worth search—and devotion,</l><l>        If he had known.</l></lg>
 <lg><l>If I had known—I—of the empire he wielded !</l><l>Over hearts that lived in the light of his eyes,</l><l>As one breathes a pure air—unconscious, unshielded—</l><l>My steps would have sought other countries and skies,</l><l>It ’s too late to talk of love-sign or love-token !</l><l>My life was a hope, but the hope now has flown !</l><l>Wilt thou say when thou knowest ?—‘ Oh heart I have broken</l><l>        If I had known ! ’</l></lg></div></body></floatingText>
@@ -1115,7 +1116,7 @@ Abju  Aru  TORU  ROMESH</figDesc></figure>
 <p rend="indented">Papa says he will take me to see the races on the Maidan, which take place usually in December. I should like to go very much.</p>
 <p rend="indented">Baguette, my pet cat, has got two very nice kittens, just like two little Persian kits ; they are very playful ; Mamma has named them ‘ Day ’ (abbreviation of Daisy) and ‘ May ’ respectively.</p>
 <p rend="indented">I have no news that would interest you, so I copy below two of Heine’s smaller poems, translated by himself into French, and by <hi rend="italic">my</hi>self into English.</p>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>‘Le Message’</p></div></front><body><div><pb xml:id="page-142" n="108"/><head rend="center">‘<hi rend="smallcaps">Le Message</hi>’</head>
+<floatingText type="verse_insert"><body><div><pb xml:id="page-142" n="108"/><head rend="center">‘<hi rend="smallcaps">Le Message</hi>’</head>
 <lg rend="indented"><l>Allons, mon écuyer, en selle !</l><l>Plus rapide que l’ouragan,</l><l>Cours au château du roi Duncan,</l><l>Pour me quérir une nouvelle !</l></lg>
 <lg rend="indented"><l>Parmi les chevaux glisse-toi,</l><l>Et dis au valet d’écurie :</l><l>‘ Quelle est celle qui se marie,</l><l>Des deux filles de votre roi ? ’</l></lg>
 <lg rend="indented"><l>Et s’il te répond : ‘ C’est la brune,’</l><l>Viens vite, et me le fais savoir ;</l><l>Si ‘ La blonde,’ reviens ce soir,</l><l>Au pas, en regardant la lune.</l></lg>
@@ -1125,7 +1126,7 @@ Abju  Aru  TORU  ROMESH</figDesc></figure>
 <lg><l>Glide ’mid the steeds and ask a groom,</l><l>After some talk, this simple thing—</l><l>‘ Of the two daughters of our king,</l><l>Who is to wed, and when, and whom ? ’</l></lg>
 <lg><l>And if he tell thee—‘ ’tis the brown ’,</l><l>Come sharply back and let me know :</l><l>But if ‘ the blonde ’, ride soft and slow :</l><l>The moon-light ’s pleasant on the down.</l></lg>
 <lg><l>And as thou comest, faithful squire,</l><l>Get me a rope from shop or store,</l><l>And gently enter through this door,</l><l>And speak no word but swift retire.</l></lg></div></body></floatingText>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>‘ Ni haine ni amour ’</p></div></front><body><div><head rend="center">‘ <hi rend="smallcaps">Ni haine ni amour</hi> ’</head>
+<floatingText type="verse_insert"><body><div><head rend="center">‘ <hi rend="smallcaps">Ni haine ni amour</hi> ’</head>
 <lg rend="indented"><l>J’ai connu plus d’une inhumaine</l><l>Parmi les filles d’alentour,</l><l>J’ai beaucoup souffert de leur haine</l><l>Et plus encore de leur amour.</l></lg>
 <lg rend="indented"><l>Elles ont dans ma coupe pleine</l><l>Versé du poison chaque jour,</l><l>C’était tantôt poison de haine,</l><l>C’était tantôt poison d’amour.</l></lg>
 <lg rend="indented"><l>Mais celle qui m’a fait la peine</l><l>La plus déchirante, à son tour,</l><l>N’a jamais eu pour moi de haine,</l><l>N’a jamais eu pour moi d’amour.</l></lg></div></body></floatingText>
@@ -2045,11 +2046,11 @@ Abju  Aru  TORU  ROMESH</figDesc></figure>
 <p rend="indented">Papa’s birthday was on the 28th of January ; he is forty-nine years old. I gave him a book of photographs taken from the paintings of the great masters of the Georgian Era. I like Gainsborough’s ‘ Blue Boy ’ very much. We saw the original in the Kensington Museum. Did you go to the May Exhibition of the Royal Academy ? I have been looking lately into some of the late numbers of the <hi rend="italic">Art Journal</hi> ; I like the <hi rend="italic">Art Journal</hi> very much. There are such beautiful steel engravings in it.</p>
 <p rend="indented">I have so little news to give you, that I have half a mind to <pb n="263"/> tear up this letter, and try to write a more interesting one next mail.</p>
 <p rend="indented">There was a slight cyclone last week ; and several boats and men were lost in the river. As I cannot fill this letter up with anything, I am going to copy one of my translations from Gramont, with the original and also with a sonnet of Wordsworth, which it resembles very much.</p>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>Sonnet</p></div></front><body><div><pb xml:id="page-299" n="263"/><head rend="center"><hi rend="smallcaps">Sonnet</hi></head>
+<floatingText type="verse_insert"><body><div><pb xml:id="page-299" n="263"/><head rend="center"><hi rend="smallcaps">Sonnet</hi></head>
 <lg rend="indented"><lg type="stanza"><l>Sous des barreaux de fer le lion renfermé,</l><l>Le lion souverain, a l’œil triste et terrible,</l><l>Et qui, vaincu, se sent en lui-même invincible,</l><l>En stériles efforts ne s’est point consumé.</l></lg><lg type="stanza"><l>Sans vouloir s’agiter et comme accoutumé,</l><l>Il s’assied ; sous son poil rentre l’ongle infaillible,</l><l>Qu’on n’affrontera pas, et sa ride inflexible</l><l>Ne dit rien des fureurs dont son cœur est armé.</l></lg><lg type="stanza"><l>Quelquefois seulement, quand l’odeur de l’orage</l><l>Vient remuer ses flancs, magnifique et sauvage</l><l>Il se dresse, et dans l’air étend sa grande voix.</l></lg><lg type="stanza"><l>Ses geôliers ont frémi, lui de nouveau s’affaisse,</l><l>Il n’a pas pour longtemps à supporter leurs lois :</l><l>Il étouffe, et la mort va finir sa détresse.</l></lg></lg></div></body></floatingText>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>(Translation)</p></div></front><body><div><head rend="center">(<hi rend="italic">Translation</hi>)</head>
+<floatingText type="verse_insert"><body><div><head rend="center">(<hi rend="italic">Translation</hi>)</head>
 <lg rend="indented"><lg type="stanza"><l>By iron bars the lion proud hemmed round,</l><l>The sovereign lion with the terrible eyes,</l><l>Vanquished, yet still invincible, defies</l><l>Not by vain efforts but a calm profound.</l></lg><lg type="stanza"><l>Idle, he sits, as wont, upon the ground,</l><l>His claws drawn in their sheath, and none descries</l><l>In his unchanging front the rage that lies</l><l>Deep in his bosom without sign or sound.</l></lg><lg type="stanza"><l>’Tis sometimes only, when he snuffs the storm</l><l>Sweeping afar, he stirs and lifts his form,</l><l>Savage, magnificent. Then to hear his roar</l></lg><lg type="stanza"><l>The gaolers tremble ;—but he drops anew ;</l><l>Not long has he to pine on dungeon floor ;</l><l>He chokes for freedom : death must soon ensue.</l></lg></lg></div></body></floatingText>
-<floatingText type="verse_insert"><front><div type="enclosure_metadata"><p>Eagles (Wordsworth)</p></div></front><body><div><pb xml:id="page-300" n="264"/><head rend="center"><hi rend="smallcaps">Eagles</hi> (Wordsworth)</head>
+<floatingText type="verse_insert"><body><div><pb xml:id="page-300" n="264"/><head rend="center"><hi rend="smallcaps">Eagles</hi> (Wordsworth)</head>
 <opener><epigraph><p rend="center"><hi rend="italic">Composed at Dunollie Castle in the Bay of Oban.</hi></p></epigraph></opener>
 <lg rend="indented"><l>Dishonoured Rock and Ruin! that, by law</l><l>Tyrannic, keep the bird of Jove embarred</l><l>Like a lone criminal whose life is spared.</l><l>Vexed is he, and screams loud.  The last I saw</l><l>Was on the wing ; stooping, he struck with awe</l><l>Man, bird and beast ; then with a consort paired,</l><l>From a bold headland, their loved aery's guard,</l><l>Flew high above Atlantic waves, to draw</l><l>Light from the fountain of the setting sun.</l><l>Such was this prisoner once ; and, when his plumes</l><l>The sea-blast ruffles as the storm comes on,</l><l>Then, for a moment, he, in spirit, resumes</l><l>His rank 'mong freeborn creatures that live free,</l><l>His power, his beauty, and his majesty.</l></lg></div></body></floatingText>
 <p>Whose do you like best, Gramont's or Wordsworth's ?  And is my translation a fairly literal one ?  I hope ' La Cavale ' suits you.</p>
@@ -2274,8 +2275,7 @@ Calcutta.
 <p rend="indented">So much for the outer history of the book. Its inner wealth now awaits our consideration. The special field of literature from which Toru principally gleaned her harvest was that which may be broadly characterized as the Romantic School of French Poetry. The Romantic movement corresponded in the realm of literary art to the Revolution in the sphere of politics. It was the assertion of freedom for the imagination and also of the rights of individuality. The seventeenth and eighteenth centuries had witnessed in connexion with poetry a process of restriction to certain forms of verse and to arbitrary rules. The seventeenth century was the period of Classicism—of servitude to the models of Greece and Rome. The eighteenth century emphasized reason. The Romantic School sought to give free play to feeling and to the imaginative faculty. It introduced changes too as regards language and metre. Simple, direct, and vivid words replaced high-sounding periphrases. The Romantic School proper was born towards the close of the first quarter of the nineteenth century, and has as its chief</p>
 </div>
 <div xml:id="div-unit-0114" type="document">
-<pb xml:id="page-332" n="294"/><head rend="center">The Cedars of Lebanon
-A. De Lamartine</head>
+<pb xml:id="page-332" n="294"/><head rend="center">The Cedars of Lebanon<lb/>A. De Lamartine</head>
 <lg><l>Eagles that wheel above our crests</l><l>Say to the storms that round us blow,</l><l>They cannot harm our gnarlëd breasts</l><l>Firm rooted as we are, below.</l><l>Their utmost efforts we defy!</l><l>They lift the sea-waves to the sky,</l><l>But when they wrestle with our arms</l><l>Nervous and gaunt, or lift our hair,</l><l>Balanced within its cradle fair</l><l>The tiniest bird has no alarms.</l></lg>
 <lg><l>Sons of the rock, no mortal hand</l><l>Here planted us, God-sown we grew.</l><l>We're the diadem green and grand</l><l>On Eden's summit that He threw</l><l>When waters in a deluge rose</l><l>Our hollow planks could well enclose</l><l>Awhile, the whole of Adam's race;</l><l>And children of the patriarch</l><l>Within our forest built the Ark</l><l>Of covenant, foreshadowing grace.</l></lg>
 <p rend="imprint">From an original MS.</p>
@@ -2616,8 +2616,8 @@ In a happier clime.</p></note>
 <head>APPENDIX</head>
 <pb xml:id="page-390" n="350"/>
 <div xml:id="div-unit-0141" type="apparatus">
-<p rend="heading">I</p>
-<p rend="heading">TRANSLATION OF THE CORRESPONDENCE<lb/>BETWEEN M<hi rend="smallcaps">lle</hi> BADER AND TORU</p>
+<head rend="center">I</head>
+<head rend="center">TRANSLATION OF THE CORRESPONDENCE<lb/>BETWEEN M<hi rend="smallcaps">lle</hi> BADER AND TORU</head>
 </div>
 <div xml:id="div-letter-0068" type="letter" corresp="#letter-0068">
 <head><hi rend="italic">Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.</hi></head>

@@ -7,13 +7,13 @@
 
 ## Front Matter
 
-### *AN ENTERTAINING BIOGRAPHY.*
+#### *AN ENTERTAINING BIOGRAPHY.*
 
 * * *
 
 <span class="small-caps">JUST PUBLISHED.</span>
 
-### **THE LIFE TRAVELS AND BOOKS OF ALEXANDER VON HUMBOLDT.**
+### **THE LIFE TRAVELS AND BOOKS OF<br />ALEXANDER VON HUMBOLDT.**
 
 * * *
 
@@ -44,7 +44,7 @@ Alexander von Humboldt
 
 NEW YORK: RUDD & CARLETON, MDCCCLX.
 
-### LETTERS OF <span class="small-caps">Alexander von Humboldt</span> TO <span class="small-caps">Varnhagen von Ense.</span> *From 1827 to 1858.*
+### LETTERS<br />OF<br /><span class="small-caps">Alexander von Humboldt</span><br />TO<br /><span class="small-caps">Varnhagen von Ense.</span><br />*From 1827 to 1858.*
 
 <span class="small-caps">with</span>  
 Extracts from Varnhagen's Diaries, and Letters of Varnhagen  
@@ -440,9 +440,9 @@ LUDMILLA ASSING.
 
 ### Letter 1: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 1.
+#### 1.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *September 25th*, 1827.
 
@@ -458,9 +458,9 @@ A. v. HUMBOLDT.
 
 ### Letter 2: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 2.
+#### 2.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *November* 1*st*, 1827.
 
@@ -479,9 +479,9 @@ Is it not strange, that Koreff has never acknowledged what we did for him here?
 
 ### Letter 3: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 3.
+#### 3.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *November* 21, 1827.  
 <span class="small-caps">Wednesday, at Night.</span>
@@ -492,9 +492,9 @@ A. HUMBOLDT.
 
 ### Letter 4: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 4.
+#### 4.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *April 15th*, 1828.
 
@@ -512,9 +512,9 @@ A. HUMBOLDT.
 
 ### Letter 5: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 5.
+#### 5.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *3d of April*, 1829.
 
@@ -524,9 +524,9 @@ Friday.                                                                 A. H<spa
 
 ### Letter 6: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 6.
+#### 6.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *26th of April*, 1830.
 
@@ -540,9 +540,9 @@ Zinzendorf's *letters* to the Saviour were rather more legible.[^fn-p0030-2]
 
 ### Letter 7: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 7.
+#### 7.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *July 9th*, 1830.
 
@@ -560,9 +560,9 @@ We find in Varnhagen's diary the following entry referring to the above: “Alex
 
 ### Letter 8: Karl August Varnhagen von Ense → Alexander von Humboldt
 
-### 8.
+#### 8.
 
-### <span class="small-caps">Varnhagen to Humboldt.</span>
+#### <span class="small-caps">Varnhagen to Humboldt.</span>
 
 <span class="small-caps">Berlin</span>, *January 23d*, 1833.
 
@@ -582,9 +582,9 @@ See A. v. Humboldt's note to Rahel, Varnhagen's wife, of the 1st of February, 18
 
 ### Letter 9: Alexander von Humboldt → Rahel Varnhagen von Ense
 
-### 9.
+#### 9.
 
-### <span class="small-caps">Humboldt to Rahel.</span>
+#### <span class="small-caps">Humboldt to Rahel.</span>
 
 <span class="small-caps">Berlin</span>, *February* 1, 1833.
 
@@ -596,9 +596,9 @@ A. <span class="small-caps">Ht.</span>
 
 ### Letter 10: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 10.
+#### 10.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *3d of Feby.*, 1833.
 
@@ -612,9 +612,9 @@ My brother was here for two days, but almost always under the shock of the waves
 
 ### Letter 11: Alexander von Humboldt → Rahel Varnhagen von Ense
 
-### 11.
+#### 11.
 
-### HUMBOLDT TO RAHEL.
+#### HUMBOLDT TO RAHEL.
 
 <span class="small-caps">Berlin</span>, *February* 9*th*, 1853.
 
@@ -628,9 +628,9 @@ A. <span class="small-caps">Ht.</span>
 
 ### Letter 12: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 12.
+#### 12.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Saturday</span>, *March 9th,* 1833.
 
@@ -640,9 +640,9 @@ A. <span class="small-caps">Humboldt.</span>
 
 ### Letter 13: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 13.
+#### 13.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *December* 3, 1833.
 
@@ -656,9 +656,9 @@ A. <span class="small-caps">Humboldt</span>.
 
 ### Letter 14: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 14.
+#### 14.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *December* 9, 1833.
 
@@ -666,19 +666,21 @@ I <span class="small-caps">enclose</span> you, most honored friend, some words o
 
 Sunday.    A. v. <span class="small-caps">Humboldt</span>.
 
-<span class="small-caps">Dessau</span>, *December* 1, 1833.
-
-> <span class="small-caps">Accept</span> my best thanks for the books you sent me. Each in its way interested me very much. I am sorry not to have been personally acquainted with Rahel. Her mind now lies so clearly before me, that I should have been happy to have been acquainted with her exterior appearance, that it might suggest to me the intellect within.
-
-<span class="small-caps">Friederike</span>, Duchess at Anhalt.
+> **[enclosure]**
+>
+> <span class="small-caps">Dessau</span>, *December* 1, 1833.
+>
+> > <span class="small-caps">Accept</span> my best thanks for the books you sent me. Each in its way interested me very much. I am sorry not to have been personally acquainted with Rahel. Her mind now lies so clearly before me, that I should have been happy to have been acquainted with her exterior appearance, that it might suggest to me the intellect within.
+>
+> <span class="small-caps">Friederike</span>, Duchess at Anhalt.
 
 Yet full of admiration for R. the book of all books. May I ask you, my honored friend, for Friedrich Schlegel's works, third volume?
 
 ### Letter 15: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 15.
+#### 15.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *December* 19, 1833.
 
@@ -692,7 +694,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 16: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 16.
+#### 16.
 
 <span class="small-caps">Berlin</span>, *Oct.* 24, 1834.
 
@@ -716,9 +718,9 @@ The principal faults of my style are an unhappy inclination to hyper-poetical fo
 
 ### Letter 17: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 17.
+#### 17.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *October 28th*, 1834.
 
@@ -734,9 +736,9 @@ I would there were in Germany as excellent a book of synonyms as the inclosed on
 
 ### Letter 18: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 18.
+#### 18.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *Sunday, 6 o'clock* <span class="small-caps">a.m.</span>,  
 *April 5th*, 1855.
@@ -747,9 +749,9 @@ You, my dearest Varnhagen, who are not afraid of grief, but who trace its phases
 
 ### Letter 19: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 19.
+#### 19.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *May 15th*, 1835, *Tuesday.*
 
@@ -767,9 +769,9 @@ I feel some sorrow, nevertheless, that you refuse to see the Grand-Duchess.
 
 ### Letter 20: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 20.
+#### 20.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *May 6th*, 1835.
 
@@ -781,9 +783,9 @@ A. <span class="small-caps">Ht.</span>
 
 ### Letter 21: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 21.
+#### 21.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *Saturday, 23d of May*, 1835.
 
@@ -797,9 +799,9 @@ A. <span class="small-caps">Humboldt</span>.
 
 ### Letter 22: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 22.
+#### 22.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *March 28th*, 1836.
 
@@ -819,9 +821,9 @@ Varnhagen made, on the 11th of May, 1836, the following entry in his diary:
 
 ### Letter 23: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 23.
+#### 23.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *May* 31*st*, 1836.
 
@@ -833,9 +835,9 @@ Varnhagen made, on the 11th of May, 1836, the following entry in his diary:
 
 ### Letter 24: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 24.
+#### 24.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 *Monday, April* 24*th*, 1837.
 
@@ -851,9 +853,9 @@ A. v. H.
 
 ### Letter 25: Alexander von Humboldt → Princess von Pueckler
 
-### 25.
+#### 25.
 
-### <span class="small-caps">Humboldt to the Princess von Pueckler.</span>
+#### <span class="small-caps">Humboldt to the Princess von Pueckler.</span>
 
 I <span class="small-caps">arrived</span> this very night from Potsdam, and I accept with pleasure the amiable offer of Madame la Princesse for to-morrow, Wednesday night, at eight o'clock precisely, for the spectacle lasts one hour. I feel some fear in fixing it for Thursday, considering the planetarian perturbations. Any persons selected by you will be agreeable to me. I would only beg Madame la Princesse not to invite Rauch, Gans, and Mr. and Mrs. Ruhle, because they have already been bored by this affair. Mr. de Varnhagen may add whomever he pleases. This tact in selecting only those who will have some indulgence in listening to me is unsurpassed.
 
@@ -867,9 +869,9 @@ A. <span class="small-caps">Humboldt.</span>
 
 ### Letter 26: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 26.
+#### 26.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 I <span class="small-caps">came</span>, dear friend, for two purposes: 1, to bring you the opinions of Minister Kamptz (*casus in terminis*, only twenty-five copies printed), which you, perhaps, had not seen before, and which has elicited a vehement reply from Herr von Oertzen, the Minister of Mecklenburg-Strelitz, burned in the Lord. Read (p. 30 and 32), how one can whitewash a person. I would beg of you not to laugh at me, when you are invited to-morrow to a lecture at the Princess's. I can assure you there is less vanity, from which, by the bye, I am not at all free, than weakness of character and good nature in it. Thus, I believed that I owed this satisfaction to the Princess; the daughter also pressed me, and she showed me a harmless list of ten persons. If you will propose or bring with you one or more persons, it will be agreeable to me; only bring no one who has heard me already. Your friends are mine; from yours I may expect indulgence. I insist upon it, that a man is not without merit, who after spending his life with cyphers and stones, has put himself to the trouble of learning to write German.
 
@@ -887,9 +889,9 @@ Herr von Humboldt was with me yesterday, and brought me the little note of Minis
 
 ### Letter 27: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 27.
+#### 27.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *May* 10*th*, 1837.
 
@@ -909,9 +911,9 @@ The essay of thy brother is one of his most perfect works as to style. “God go
 
 ### Letter 28: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 28.
+#### 28.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Wednesday</span>, *May* 17*th*, 1837.
 
@@ -927,9 +929,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 29: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 29.
+#### 29.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Monday</span>, *May 30th,* 1837.
 
@@ -943,9 +945,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 30: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 30.
+#### 30.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Saturday</span>, *July* 1*st*, 1837.
 
@@ -959,9 +961,9 @@ I have badly arranged my life; I do every thing for becoming prematurely stupid.
 
 ### Letter 31: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 31.
+#### 31.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *October 4th*, 1837.
 
@@ -977,9 +979,9 @@ Stieglitz, Wilhelm's oldest friend, and who once saved his life in the Leine riv
 
 ### Letter 32: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 32.
+#### 32.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Sunday</span>, *October 22d*, 1837.  
 *Six o'clock*, <span class="small-caps">a. m.</span>
@@ -994,9 +996,9 @@ A. <span class="small-caps">Humboldt.</span>
 
 ### Letter 33: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 33.
+#### 33.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin, Tuesday,</span> *November 7th,* 1837.
 
@@ -1034,7 +1036,7 @@ A. <span class="small-caps">Humboldt</span>.
 
 ### Letter 34: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 34.
+#### 34.
 
 <span class="small-caps">Berlin</span>, *June 9th*, 1838.
 
@@ -1054,9 +1056,9 @@ Do not answer, if you permit me to come.
 
 ### Letter 35: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 35.
+#### 35.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *August 3d*, 1838.
 
@@ -1076,9 +1078,9 @@ Under date of May 25, 1839, Varnhagen wrote in his diary:
 
 ### Letter 36: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 36.
+#### 36.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin, Monday</span>, *June 3d*, 1839.
 
@@ -1096,9 +1098,9 @@ On the 9th of June, 1839, Varnhagen writes in his diary: “Humboldt agrees with
 
 ### Letter 37: Humboldt → Varnhagen
 
-### 37.
+#### 37.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Friday</span>, *Sept.* 13*th*, 1839.
 
@@ -1114,9 +1116,9 @@ Is it not remarkable that the Neufchatel Councillors in the cabinet, have tried 
 
 ### Letter 38: Humboldt → Varnhagen
 
-### 38.
+#### 38.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *29th Dec.*, 1839.
 
@@ -1128,9 +1130,9 @@ In great haste,      A. <span class="small-caps">Humboldt</span>.
 
 ### Letter 39: Humboldt → Varnhagen
 
-### 39.
+#### 39.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Wednesday Afternoon</span>, *Feb. 26th*, 1840.
 
@@ -1145,9 +1147,9 @@ A. v. <span class="small-caps">Hdt.</span>
 
 ### Letter 40: Humboldt → Varnhagen
 
-### 40.
+#### 40.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Monday</span>, *March 9th*, 1840.
 
@@ -1161,9 +1163,9 @@ Yours,        A. v. H<span class="small-caps">dt</span>.
 
 ### Letter 41: Humboldt → Varnhagen
 
-### 41.
+#### 41.
 
-### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
+#### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
 
 <span class="small-caps">Wednesday</span>, *March* 18*th*, 1840.
 
@@ -1183,9 +1185,9 @@ I received a letter from the Marquis Clanricarde, at St. Petersburg, on the 5th 
 
 ### Letter 42: Metternich → Humboldt
 
-### 42.
+#### 42.
 
-### METTERNICH TO HUMBOLDT.
+#### METTERNICH TO HUMBOLDT.
 
 <span class="small-caps">Vienna</span>, *29th of March*, 1840.
 
@@ -1207,9 +1209,9 @@ My sincerest homage, dear Baron.
 
 ### Letter 43: Humboldt → Varnhagen
 
-### 43.
+#### 43.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Thursday</span>, *April* 9*th*, 1840.
 
@@ -1221,9 +1223,9 @@ Please read in Mr. Quinet's the passage on Goethe and Bettina, and return the ve
 
 ### Letter 44: King Christian VIII. of Denmark → Humboldt
 
-### 44.
+#### 44.
 
-### KING CHRISTIAN VIII. OF DENMARK TO HUMBOLDT.
+#### KING CHRISTIAN VIII. OF DENMARK TO HUMBOLDT.
 
 <span class="small-caps">Copenhagen</span>, *the 13th January*, 1840.
 
@@ -1249,9 +1251,9 @@ Your most affectionate,
 
 ### Letter 45: Humboldt → Varnhagen
 
-### 45.
+#### 45.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Saturday</span>, *April 11th*, 1840.
 
@@ -1267,7 +1269,7 @@ Under date of the 5th of the same month, Varnhagen mentions again the Metternich
 
 ### Letter 46: A. Ht.
 
-### 46.
+#### 46.
 
 *April 13th,* 1840.
 
@@ -1281,9 +1283,9 @@ I am quite “turned Quaker.” Mrs. Fry and William Allan—little sermons in t
 
 ### Letter 47: Humboldt → Varnhagen
 
-### 47.
+#### 47.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Friday</span>, *March* 29*th*, 1840.
 
@@ -1305,9 +1307,9 @@ H<span class="small-caps">t</span>.
 
 ### Letter 48: Humboldt → Varnhagen
 
-### 48.
+#### 48.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin, Tuesday Night,</span> *Oct.* 27*th*, 1840.
 
@@ -1329,9 +1331,9 @@ An inexpressible misfortune has happened in the death of the only son of my frie
 
 ### Letter 49: Guizot → Humboldt
 
-### 49.
+#### 49.
 
-### <span class="small-caps">GUIZOT TO HUMBOLDT.</span>
+#### <span class="small-caps">GUIZOT TO HUMBOLDT.</span>
 
 <span class="small-caps">London</span>, *August* 24, 1840.
 
@@ -1350,9 +1352,9 @@ A. <span class="small-caps">von Humboldt.</span>
 
 ### Letter 50: Arago → Humboldt
 
-### 50.
+#### 50.
 
-### ARAGO TO HUMBOLDT.
+#### ARAGO TO HUMBOLDT.
 
 <span class="small-caps">Paris</span>, *March 12th*, 1841.
 
@@ -1376,9 +1378,9 @@ A. <span class="small-caps">Humboldt.</span>
 
 ### Letter 51: Humboldt → Bettina von Arnim
 
-### 51.
+#### 51.
 
-### <span class="small-caps">Humboldt to Bettina von Arnim.</span>
+#### <span class="small-caps">Humboldt to Bettina von Arnim.</span>
 
 [A copy in Varnhagen's handwriting.]
 
@@ -1394,9 +1396,9 @@ A. <span class="small-caps">Humboldt</span>.
 
 ### Letter 52: Humboldt → Varnhagen
 
-### 52.
+#### 52.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *August* 22*d*, 1841.
 
@@ -1414,9 +1416,9 @@ On the 30th April, 1841, Varnhagen says: " Humboldt has a great many enemies, as
 
 ### Letter 53: Humboldt → Varnhagen
 
-### 53.
+#### 53.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Saturday</span>, *April 24th*, 1841.
 
@@ -1424,15 +1426,17 @@ A <span class="small-caps">disappointment</span>, dear friend, not to have found
 
 <span class="small-caps">Ht.</span>
 
-> “ Kosmos. Sketch of a Physical Description of the World, by A. von Humboldt. From Sketches and Lectures delivered in the years 1827 and 1828, enlarged and corrected according to the latest researches.
-
-> “ ‘ Naturæ vero rerum vis atque majestas sin omnibus momentis fide caret, si quis modo partes ejus ac non totam complectatur animo.’—*Plin. Hist. Nat., lib.* 7. c. 1. Stuttgart.”
+> **[enclosure]**
+>
+> > “ Kosmos. Sketch of a Physical Description of the World, by A. von Humboldt. From Sketches and Lectures delivered in the years 1827 and 1828, enlarged and corrected according to the latest researches.
+>
+> > “ ‘ Naturæ vero rerum vis atque majestas sin omnibus momentis fide caret, si quis modo partes ejus ac non totam complectatur animo.’—*Plin. Hist. Nat., lib.* 7. c. 1. Stuttgart.”
 
 ### Letter 54: Humboldt → Varnhagen
 
-### 54.
+#### 54.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Wednesday</span>, *April 28th*, 1841.
 
@@ -1466,22 +1470,24 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 55: Humboldt → Spiker
 
-### 55.
+#### 55.
 
-### HUMBOLDT TO SPIKER.
+#### HUMBOLDT TO SPIKER.
 
-### (C.)
+#### (C.)
 
-> [*Biron speaks to the King of Navarre.*]
-
-“These earthly godfathers of heaven's lights,  
-That gave a name to every fixed star,  
-Have no more profit of their shining nights,  
-Than those that walk, and wot not what they are,  
-Too much to know, is to know nought but fame;  
-And every godfather can give a name.”
-
-> <span class="small-caps">Shakespeare</span>, *Love's Labor Lost.* Act I. Scene 1.
+> **[verse_insert]**
+>
+> > [*Biron speaks to the King of Navarre.*]
+>
+> “These earthly godfathers of heaven's lights,  
+> That gave a name to every fixed star,  
+> Have no more profit of their shining nights,  
+> Than those that walk, and wot not what they are,  
+> Too much to know, is to know nought but fame;  
+> And every godfather can give a name.”
+>
+> > <span class="small-caps">Shakespeare</span>, *Love's Labor Lost.* Act I. Scene 1.
 
 <span class="small-caps">Be</span> so kind as to send me back this page. I make use of your fine translation in a note which is now being printed in my *Kosmos.* You will permit me to say: “according to Spiker's translation.” It will give me pleasure to do so. Shall I excite the ire of the Marquis August von Schlegel or of Tieck Acorombonus? Please tell me whether they have also translated that passage? Many kind regards.
 
@@ -1493,9 +1499,9 @@ And every godfather can give a name.”
 
 ### Letter 56: Humboldt → Varnhagen
 
-### 56.
+#### 56.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Monday Night</span>, *May* 3, 1841.
 
@@ -1507,9 +1513,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 57: Humboldt → Varnhagen
 
-### 57.
+#### 57.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Tuesday</span>, *May 4th*, 1841.
 
@@ -1525,9 +1531,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 58: King Christian VIII. of Denmark → Humboldt
 
-### 53.
+#### 53.
 
-### KING CHRISTIAN VIII. OF DENMARK TO HUMBOLDT.
+#### KING CHRISTIAN VIII. OF DENMARK TO HUMBOLDT.
 
 <span class="small-caps">Monsieur le Baron</span>—I am doubly obliged to the illustrious counsellor Dieffenbach for his attention in presenting me with a copy of his work on the cure of strabism and stammering, since it was the cause of your dear letter of the 9th February. Introduced by you, Monsieur le Baron, any one is sure of success. In the present case, the reputation and the works of the author could have dispensed with all further recommendation; but you only do justice to the great services which Counsellor Dieffenbach has rendered to mankind, and I hasten to acknowledge them by bestowing my Danebrog Order on that distinguished savan. My letter to him on this subject will be remitted by the Envoy Count de Reventlau, and I shall particularly recommend to Chevalier Dieffenbach any Danish surgeons going to Berlin to learn the art upon which he has thrown so much light.
 
@@ -1547,7 +1553,7 @@ Your affectionate
 
 ### Letter 59: A. v. Humboldt.
 
-### 59.
+#### 59.
 
 <span class="small-caps">Berlin</span>, *May 17th*, 1841.
 
@@ -1565,9 +1571,9 @@ On the 21st of November, Varnhagen wrote down the following about Humboldt:
 
 ### Letter 60: Humboldt → Varnhagen
 
-### 60.
+#### 60.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Friday</span>, 3*d December*, 1841.
 
@@ -1587,9 +1593,9 @@ The 3d of December, 1841, Varnhagen observes: “I just received a note from Hum
 
 ### Letter 61: Humboldt → Varnhagen
 
-### 61.
+#### 61.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin, Monday Night,</span> *Dec.* 7*th*, 1841.
 
@@ -1609,9 +1615,9 @@ After Humboldt's return, Varnhagen writes on the 24th of February, in his diary:
 
 ### Letter 62: Humboldt → Varnhagen
 
-### 62.
+#### 62.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin, Monday</span>, 28*th February*, 1842.
 
@@ -1633,9 +1639,9 @@ A. H<span class="small-caps">t</span>.
 
 ### Letter 63: Humboldt → Varnhagen
 
-### 63.
+#### 63.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, 16*th March*, 1842.
 
@@ -1655,9 +1661,9 @@ I live in apparent outward luxury, and in the enjoyment of the fanciful predilec
 
 ### Letter 64: Humboldt → Varnhagen
 
-### 64.
+#### 64.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *March 21st*, 1842.
 
@@ -1687,9 +1693,9 @@ Pardon the stercoran-like[^fn-p0135-1] loquacity.    A. H<span class="small-caps
 
 ### Letter 65: Humboldt → Varnhagen
 
-### 65.
+#### 65.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Thursday</span>, 31*st March*, 1842.
 
@@ -1701,9 +1707,9 @@ A. H<span class="small-caps">t</span>.
 
 ### Letter 66: Humboldt → Varnhagen
 
-### 66.
+#### 66.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *April 6th*, 1842.
 
@@ -1725,9 +1731,9 @@ A. <span class="small-caps">Ht.</span>
 
 ### Letter 67: Humboldt → Varnhagen
 
-### 67.
+#### 67.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *April 7th*, 1842.
 
@@ -1751,9 +1757,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 68: Humboldt → Varnhagen
 
-### 68.
+#### 68.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin,</span> *June 24th,* 1842.
 
@@ -1777,9 +1783,9 @@ Varnhagen speaks of a call made by Humboldt after his return from Paris, in his 
 
 ### Letter 69: Humboldt → Varnhagen
 
-### 69.
+#### 69.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *April 3d*, 1842.
 
@@ -1797,9 +1803,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 70: Humboldt → Varnhagen
 
-### 70.
+#### 70.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Tuesday</span>, *June 13th*, 1843.
 
@@ -1813,7 +1819,7 @@ A. <span class="small-caps">v.</span> <span class="small-caps">Ht.</span>
 
 ### Letter 71: Humboldt → Varnhagen
 
-### 71.
+#### 71.
 
 <span class="small-caps">Berlin</span>, *June 26th*, 1843.
 
@@ -1829,9 +1835,9 @@ Please send me back Eckermann.
 
 ### Letter 72: Humboldt → Varnhagen
 
-### 72.
+#### 72.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Tuesday,</span> *June 27th,* 1843.
 
@@ -1845,9 +1851,9 @@ A. <span class="small-caps">Ht.</span>
 
 ### Letter 73: Humboldt → Varnhagen
 
-### 73.
+#### 73.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Sans Souci</span>, *August 27th,* 1843.
 
@@ -1867,9 +1873,9 @@ That the “Saint-Simonism” was invented by a Prussian business-man, amuses me
 
 ### Letter 74: Humboldt → The Prince of Prussia
 
-### 74.
+#### 74.
 
-### HUMBOLDT TO THE PRINCE OF PRUSSIA.
+#### HUMBOLDT TO THE PRINCE OF PRUSSIA.
 
 <span class="small-caps">Berlin</span>, *Dec.* 29, 1843.
 
@@ -1891,7 +1897,7 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 75: Humboldt → Varnhagen
 
-### 75.
+#### 75.
 
 <span class="small-caps">Monday</span>, *Jan. 1st*, 1844.
 
@@ -1911,9 +1917,9 @@ In the evening Humboldt sent me the work: ‘Russie, Allemagne et France,’ par
 
 ### Letter 76: Humboldt → Varnhagen
 
-### 76.
+#### 76.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *April* 1*st*, 1844.
 
@@ -1954,9 +1960,9 @@ A. <span class="small-caps">von Humboldt.</span>
 
 ### Letter 77: J. W. T. → Humboldt
 
-### 77.
+#### 77.
 
-### J. W. T. TO HUMBOLDT.
+#### J. W. T. TO HUMBOLDT.
 
 <span class="small-caps">Höfgen, near Solingen,</span> *March* 12*st*, 1844.
 
@@ -1974,9 +1980,9 @@ Mr. Gottfried H., merchant at Berlin, can give you information, if required, as 
 
 ### Letter 78: Count Bresson → Humboldt
 
-### 78.
+#### 78.
 
-### COUNT BRESSON, FRENCH AMBASSADOR, TO HUMBOLDT.
+#### COUNT BRESSON, FRENCH AMBASSADOR, TO HUMBOLDT.
 
 <span class="small-caps">Berlin</span>, *February 6th*, 1839.
 
@@ -1998,9 +2004,9 @@ Here are the adieux, the last ones of Mr. de Talleyrand at Fontainebleau, on the
 
 ### Letter 79: Arago → Humboldt
 
-### 79.
+#### 79.
 
-### ARAGO TO HUMBOLDT.
+#### ARAGO TO HUMBOLDT.
 
 <span class="small-caps">Paris</span>, *August 19th*, 1834.
 
@@ -2022,11 +2028,11 @@ Always yours through life,
 
 ### Letter 80: Frederick William the Fourth → Humboldt
 
-### 80.
+#### 80.
 
-### <span class="small-caps">FOUR NOTES OF FREDERICK WILLIAM THE FOURTH TO HUMBOLDT.</span>
+#### <span class="small-caps">FOUR NOTES OF FREDERICK WILLIAM THE FOURTH<br />TO HUMBOLDT.</span>
 
-### I.
+#### I.
 
 <span class="small-caps">23d December</span>, 1836 (*at Night*).
 
@@ -2036,7 +2042,7 @@ Always yours through life,
 
 ### Letter 81: Frederic Guillaume → Humboldt
 
-### II.
+#### II.
 
 <span class="small-caps">Cherissime Humboldt</span>, you are acquainted with all the pretenders to all the crowns. Please read the inclosed letter, and inform me who the *Seigneur Cados* may be—who were his father, mother, and ancestors, and also what are his titles to the crown of France, which I shall certainly try to procure for him?
 
@@ -2046,7 +2052,7 @@ B. 21 *Feb.*, 1839.
 
 ### Letter 82: Fr. W. → Humboldt
 
-### III.
+#### III.
 
 <span class="small-caps">Episode</span> from “ The Marriage of Figaro.”
 
@@ -2070,7 +2076,7 @@ I was honest and stupid enough not to take a copy of the letter of the King to P
 
 ### Letter 83: Frederic Guillaume → Humboldt
 
-### IV.
+#### IV.
 
 I <span class="small-caps">communicate</span> you the inclosed despatch from Copenhagen, to inform you of the new “Seccatura,” which will wait upon you in the shape of a sea-dog of the Sound, to ask your advice, and assistance as to a voyage around the globe. This letter having no further object, I pray God, Monsieur le Baron de Humboldt, to keep you in his holy and especial care.
 
@@ -2084,9 +2090,9 @@ Signed, <span class="small-caps">Frederic Guillaume.</span>
 
 ### Letter 84: King Christian VIII. of Denmark → Humboldt
 
-### 81.
+#### 81.
 
-### KING CHRISTIAN VIII. OF DENMARK TO HUMBOLDT.
+#### KING CHRISTIAN VIII. OF DENMARK TO HUMBOLDT.
 
 <span class="small-caps">Copenhagen</span>, *May 3d*, 1843.
 
@@ -2102,9 +2108,9 @@ With the highest consideration, I am, Monsieur le Baron, your well-affectionate,
 
 ### Letter 85: John Herschel → Humboldt
 
-### 82.
+#### 82.
 
-### JOHN HERSCHEL TO HUMBOLDT.
+#### JOHN HERSCHEL TO HUMBOLDT.
 
 <span class="small-caps">Collingwood</span>, 21*st Dec.* 1843.  
 <span class="small-caps">Hawkhurst, Kent.</span>
@@ -2131,9 +2137,9 @@ I must not forget to wish you a “merry Christmas and many happy returns of the
 
 ### Letter 86: Balzac → Humboldt
 
-### 83.
+#### 83.
 
-### BALZAC TO HUMBOLDT.
+#### BALZAC TO HUMBOLDT.
 
 <span class="small-caps">Berlin, Hotel de la Russie</span>, 1843.
 
@@ -2151,9 +2157,9 @@ Your most humble and obedient Servant,
 
 ### Letter 87: Robert Peel → Humboldt
 
-### 84.
+#### 84.
 
-### ROBERT PEEL TO HUMBOLDT.
+#### ROBERT PEEL TO HUMBOLDT.
 
 <span class="small-caps">Whitehall</span>, *Sept. 4th*, 1843.
 
@@ -2173,9 +2179,9 @@ Believe me, dear Baron de Humboldt, with sincere esteem,          Very faithfull
 
 ### Letter 88: Metternich → Humboldt
 
-### 85.
+#### 85.
 
-### METTERNICH TO HUMBOLDT.
+#### METTERNICH TO HUMBOLDT.
 
 <span class="small-caps">Vienna</span>, *October*, 1843.
 
@@ -2195,9 +2201,9 @@ I pray you, dear Baron, accept the assurance of my highest consideration and old
 
 ### Letter 89: Prescott → Humboldt
 
-### 86.
+#### 86.
 
-### <span class="small-caps">Prescott to Humboldt.</span>
+#### <span class="small-caps">Prescott to Humboldt.</span>
 
 <span class="small-caps">Boston</span>, *Dec. 23d*, 1843.
 
@@ -2219,9 +2225,9 @@ Your very obedient servant,
 
 ### Letter 90: Madame de Récamier → Humboldt
 
-### 87.
+#### 87.
 
-### MADAME DE RÉCAMIER TO HUMBOLDT.
+#### MADAME DE RÉCAMIER TO HUMBOLDT.
 
 <span class="small-caps">Paris</span>, *July 28th*, 1843.
 
@@ -2231,9 +2237,9 @@ J. <span class="small-caps">Récamier</span>.
 
 ### Letter 91: Humboldt → Varnhagen
 
-### 88.
+#### 88.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 *August 31st,* 1844.
 
@@ -2249,9 +2255,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 92: Leopold, Grand-Duke of Tuscany → Humboldt
 
-### 89.
+#### 89.
 
-### LEOPOLD, GRAND-DUKE OF TUSCANY, TO HUMBOLDT.
+#### LEOPOLD, GRAND-DUKE OF TUSCANY, TO HUMBOLDT.
 
 <span class="small-caps">Florence</span>, *July 20th,* 1844.
 
@@ -2275,9 +2281,9 @@ Believe me always yours,
 
 ### Letter 93: Humboldt → Varnhagen
 
-### 90.
+#### 90.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 *2d September,* 1844.
 
@@ -2293,9 +2299,9 @@ A. <span class="small-caps">Ht.</span>
 
 ### Letter 94: Humboldt → Varnhagen
 
-### 91.
+#### 91.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *September 6th*, 1844.
 
@@ -2307,9 +2313,9 @@ It is now certain that the Empress (of Russia) will not come. The King will, on 
 
 ### Letter 95: Humboldt → Varnhagen
 
-### 92.
+#### 92.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *Sept.* 13*th*, 1844.
 
@@ -2331,9 +2337,9 @@ An entry of a later date (26th December, 1848), speaks of the animosities to whi
 
 ### Letter 96: Humboldt → Varnhagen
 
-### 93.
+#### 93.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *September* 19*th*, 1844.
 
@@ -2347,9 +2353,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 97: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 94.
+#### 94.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin, Tuesday,</span> *June 3d,* 1845.  
 *One o'clock,* <span class="small-caps">a. m.</span>
@@ -2358,8 +2364,10 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 In the Rhine and Moselle Gazette, No. 122 of the 29th of May, I am judged guilty of Voltairianism, denial of all revelations, of conspiring with Marheineke, Bruno Bauer, Feuerbach, nay even of the expedition against Luzerne—ipsissimis verbis—and all that on account of my Kosmos, page 381. The King had already been told that my book was the work of a demagogue and an infidel. Whereupon the King wrote me, that he could but say what Alfons said to Tasso:
 
-“And so I hold it in my hand at last  
-And call it *mine*, if I may use that word!”
+> **[verse_insert]**
+>
+> “And so I hold it in my hand at last  
+> And call it *mine*, if I may use that word!”
 
 This is poetical and very civil.  
 With the sincerest gratitude, yours,
@@ -2370,9 +2378,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 98: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 95.
+#### 95.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin, Wednesday,</span> *June 4th,* 1845.
 
@@ -2390,7 +2398,7 @@ A. <span class="small-caps">Humboldt.</span>
 
 ### Letter 99: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 96.
+#### 96.
 
 <span class="small-caps">Berlin,</span> *June 16th,* 1845.
 
@@ -2406,9 +2414,9 @@ As I shall have no time for reading during my hasty journey, I have left the ins
 
 ### Letter 100: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 97.
+#### 97.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin, Thursday,</span> *September 4th,* 1845.
 
@@ -2424,9 +2432,9 @@ I enclose to your safe-keeping a beautiful letter of Prince Metternich, on whom 
 
 ### Letter 101: Metternich → Alexander von Humboldt
 
-### 98.
+#### 98.
 
-### <span class="small-caps">Metternich to Humboldt.</span>
+#### <span class="small-caps">Metternich to Humboldt.</span>
 
 <span class="small-caps">Vienna</span>, *June 21st,* 1845.
 
@@ -2444,9 +2452,9 @@ Accept, dear Humboldt, the renewed assurance of my sincere and well-known consid
 
 ### Letter 102: Jules Janin → Alexander von Humboldt
 
-### 99.
+#### 99.
 
-### JULES JANIN TO HUMBOLDT.
+#### JULES JANIN TO HUMBOLDT.
 
 <span class="small-caps">Star Hotel at Bonn,</span>  
 <span class="small-caps">Sunday Evening,</span> *August 10th,* 1845.
@@ -2471,15 +2479,15 @@ Please accept, Monsieur le Baron, the humble homage of my devotion and of my pro
 
 ### Letter 103: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 100.
+#### 100.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Potsdam</span>, *26th of September*, 1845.
 
 (To his dear friend, the Privy Councillor von Varnhagen.)
 
-### <span class="small-caps">Kings and Republics.</span>
+###### <span class="small-caps">Kings and Republics.</span>
 
 > Por lo que desio la conversacion de los Reyes desio la conversacion de ellos dentro de los limites permitidos. Un grave consejero dixò al Rey Don Phelipe II., viendo que iva en diversas ocasiones al poder absoluto: Señor, reconoced á Dios en la tierra como en el cielo, por que ne se cause de las monarquias, suave govierno si los Reyes suavemente usan de él.—*Cartas de Antonio Perez, p.* 545.
 
@@ -2495,9 +2503,9 @@ A. <span class="small-caps">Humboldt</span>.
 
 ### Letter 104: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 101.
+#### 101.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam</span>, *October 2d*, 1845.
 
@@ -2521,9 +2529,9 @@ The sketch on Hormayr, which, in a political view, stops very singularly at 1808
 
 ### Letter 105: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 102.
+#### 102.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *October 2d*, 1845.
 
@@ -2537,9 +2545,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 106: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 103.
+#### 103.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *Nov. 30th*, 1845.
 
@@ -2561,9 +2569,9 @@ I shall not forget Mr. Breul the merchant. Minister Buelow was very sorry that y
 
 ### Letter 107: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 104.
+#### 104.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Thursday</span>, *January 15th*, 1846.
 
@@ -2579,9 +2587,9 @@ Please excuse, like a philosopher, the writing on this mutilated sheet. I am in 
 
 ### Letter 108: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 105.
+#### 105.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin,</span> *January 25th,* 1846.
 
@@ -2599,9 +2607,9 @@ I told Ranke to-day, very frankly, how much I was disgusted at what he presumptu
 
 ### Letter 109: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 106.
+#### 106.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *February 7th*, 1846.
 
@@ -2617,9 +2625,9 @@ Yours,
 
 ### Letter 110: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 107.
+#### 107.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *Feb.* 20*th*, 1846.
 
@@ -2636,9 +2644,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 111: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 108.
+#### 108.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *March 29th*, 1846.
 
@@ -2655,9 +2663,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 112: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 109.
+#### 109.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin,</span> *March* 30*th,* 1846.
 
@@ -2671,9 +2679,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 113: Alexander von Humboldt → Friedrich Wilhelm IV
 
-### 110.
+#### 110.
 
-### HUMBOLDT TO FRIEDRICH WILHELM IV.
+#### HUMBOLDT TO FRIEDRICH WILHELM IV.
 
 As early as eight o’clock this morning I sent to the Koethener Strasse, to have an interview with Professor Massmann, after the confiding communications of your Majesty, concerning the decision of his situation. He has just gone, leaving me again with an excellent impression of his solidity, clear perceptions, and enthusiastic vigor for influencing our youth (the indelible, primæval, self-restoring institution of mankind). To be afraid of every enthusiastic energy is to take from the life of a State its nourishing, preserving power. Professor M. did not see Minister von Bodelschwingh for two years, but the Minister then treated him very kindly, and Massmann desires very much, without intruding, to give a candid answer to every question. In view of the noble and frank character of Minister von Bodelschwingh I have great hopes of the result of such a conversation, and therefore I have to beg of your Majesty, most submissively, to communicate to me, whether, according to the orders of your Majesty, the Minister will send for Professor M., or whether he may go to the Minister on his own account, not called for, but animated by some words of your Majesty. I wonder how it could be forgotten how much Massmann has done for the poetry of the Hohenstaufen times, and how talented a lecturer he was at the University. I find praised in Gervinus Geschichte der Deutschen Litteratur: Massmann's Denkmaeler Deutscher Sprache, 1828; his Gedichte des Zwoelften Jahrhunderts, his Legenden and Ritterliche Poesie. How could a man be dangerous to youth whom the King of Bavaria appointed for the education of his princes, and by whom above all others the Crown-Prince declares himself to have been animated with the love of culture and intellectual freedom, and the true appreciation of his impending kingly duties? We live not in a sad, but in an earnest time. All action and energy are paralysed, if backbiting is permitted to deprive us of our most useful men. Enthusiastically attached to your person, to the splendor of your reign, and to the glory of our country, it makes me sad to see the most noble purposes in danger of being misunderstood. No doubt there are very honorable men who, from pure love of your Majesty, would like to see me also under the column at Tegel, or at least on the other side of the Rhine.
 
@@ -2684,21 +2692,23 @@ Your Royal Majesty's most faithful
 
 <span class="small-caps">Berlin</span>, *March* 29, 1846.
 
-*The King wrote on the fly-leaf:*
-
-> My warmest thanks, dearest Humboldt. M. Bodelschwingh will send for Massmann. In all haste, as ever.
-
-Your faithful          F. W.
-
-<span class="small-caps">Alexander</span> v. <span class="small-caps">Humboldt</span>, Present.
+> **[enclosure: The King wrote on the fly-leaf:]**
+>
+> *The King wrote on the fly-leaf:*
+>
+> > My warmest thanks, dearest Humboldt. M. Bodelschwingh will send for Massmann. In all haste, as ever.
+>
+> Your faithful          F. W.
+>
+> <span class="small-caps">Alexander</span> v. <span class="small-caps">Humboldt</span>, Present.
 
 * * *
 
 ### Letter 114: F. W. Bessel → Alexander von Humboldt
 
-### 111.
+#### 111.
 
-### BESSEL TO HUMBOLDT.
+#### BESSEL TO HUMBOLDT.
 
 <span class="small-caps">Koenigsberg</span>, *Feb. 12th*, 1846.
 
@@ -2723,9 +2733,9 @@ F. W. <span class="small-caps">Bessel.</span>
 
 ### Letter 115: Victor Hugo → Alexander von Humboldt
 
-### 112.
+#### 112.
 
-### VICTOR HUGO TO HUMBOLDT.
+#### VICTOR HUGO TO HUMBOLDT.
 
 <span class="small-caps">March</span> 20*th*, 1845.
 
@@ -2737,9 +2747,9 @@ Yours,    <span class="small-caps">Victor Hugo.</span>
 
 ### Letter 116: Friedrich Rueckert → Alexander von Humboldt
 
-### 113.
+#### 113.
 
-### FRIEDRICH RUECKERT TO HUMBOLDT.
+#### FRIEDRICH RUECKERT TO HUMBOLDT.
 
 <span class="small-caps">Berlin</span>, *March*, 1846.
 
@@ -2751,9 +2761,9 @@ I <span class="small-caps">had</span> the misfortune of twice missing your Excel
 
 ### Letter 117: Alexander Manzoni → Alexander von Humboldt
 
-### 114.
+#### 114.
 
-### <span class="small-caps">Alexander Manzoni to Humboldt.</span> <span class="small-caps">(from the French.)</span>
+#### <span class="small-caps">Alexander Manzoni to Humboldt.</span><br /><span class="small-caps">(from the French.)</span>
 
 <span class="small-caps">Milan</span>, *Dec.* 6*th*, 1844.
 
@@ -2771,9 +2781,9 @@ It is with the most profound respect, and, permit me to add, with that affection
 
 ### Letter 118: A. Thiers → Alexander von Humboldt
 
-### 115.
+#### 115.
 
-### THIERS TO HUMBOLDT. <span class="small-caps">(from the French.)</span>
+#### THIERS TO HUMBOLDT.<br /><span class="small-caps">(from the French.)</span>
 
 <span class="small-caps">Paris</span>, *August*, 1845.
 
@@ -2785,9 +2795,9 @@ A. <span class="small-caps">Thiers</span>.
 
 ### Letter 119: The Princess of Canino, Widow Bonaparte Lucien → Alexander von Humboldt
 
-### 116.
+#### 116.
 
-### THE PRINCESS OF CANINO, LUCIEN BONAPARTE'S WIDOW, TO HUMBOLDT.
+#### THE PRINCESS OF CANINO, LUCIEN BONAPARTE'S<br />WIDOW, TO HUMBOLDT.
 
 <span class="small-caps">Paris</span>, *May*, 1845.
 
@@ -2800,9 +2810,9 @@ Widow Bonaparte Lucien.
 
 ### Letter 120: Duchess Helene d'Orleans → Alexander von Humboldt
 
-### 117.
+#### 117.
 
-### DUCHESS HELENE D'ORLEANS TO HUMBOLDT.
+#### DUCHESS HELENE D'ORLEANS TO HUMBOLDT.
 
 <span class="small-caps">Tuileries</span>, *Feb. 12th*, 1845.
 
@@ -2816,9 +2826,9 @@ Your Excellency's affectionate
 
 ### Letter 121: Duchess Helene d'Orleans → Alexander von Humboldt
 
-### 118.
+#### 118.
 
-### DUCHESS HELENE D'ORLEANS TO HUMBOLDT.
+#### DUCHESS HELENE D'ORLEANS TO HUMBOLDT.
 
 <span class="small-caps">Neuilly</span>, *May 12th*, 1845.
 
@@ -2832,9 +2842,9 @@ I beg your Excellency to receive the expression of my sincerest esteem,
 
 ### Letter 122: Duchess Helene d'Orleans → Alexander von Humboldt
 
-### 119.
+#### 119.
 
-### DUCHESS HELENE D'ORLEANS TO HUMBOLDT.
+#### DUCHESS HELENE D'ORLEANS TO HUMBOLDT.
 
 <span class="small-caps">Winter of</span> 1845.
 
@@ -2848,9 +2858,9 @@ With most sincere esteem, your Excellency's affectionate
 
 ### Letter 123: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 120.
+#### 120.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam</span>, *April 22d*, 1846.
 
@@ -2870,9 +2880,9 @@ How sad is this eighth attack upon the King! Strange that ministers and cabinet 
 
 ### Letter 124: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 121.
+#### 121.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam</span>, *May* 18*th*, 1846.
 
@@ -2886,9 +2896,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 125: Metternich → Alexander von Humboldt
 
-### 122.
+#### 122.
 
-### METTERNICH TO HUMBOLDT. (From the French.)
+#### METTERNICH TO HUMBOLDT.<br />(From the French.)
 
 <span class="small-caps">Vienna</span>, *May* 10, 1846.
 
@@ -2908,9 +2918,9 @@ Be pleased to accept the thanks of my household for your friendly memento, and t
 
 ### Letter 126: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 123.
+#### 123.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *May 30th*, 1846.
 
@@ -2926,9 +2936,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 127: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 124.
+#### 124.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam</span>, *November 14th*, 1846.
 
@@ -2947,9 +2957,9 @@ In the year 1846 we find the following remark in Varnhagen's diary: “The conve
 
 ### Letter 128: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 125.
+#### 125.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *November 28th*, 1846.
 
@@ -2963,9 +2973,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 129: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 126.
+#### 126.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin,</span> *December 6th,* 1846.
 
@@ -2983,9 +2993,9 @@ I inclose an excellent letter of my brother to Koerner, which will be published 
 
 ### Letter 130: Mignet → Humboldt
 
-### **127.**
+#### **127.**
 
-### MIGNET TO HUMBOLDT.
+#### MIGNET TO HUMBOLDT.
 
 <span class="small-caps">Paris,</span> *July* 1*st*, 1846.
 
@@ -3005,9 +3015,9 @@ Accept, dear Baron, the assurance of my gratitude, my admiration, and my affecti
 
 ### Letter 131: Humboldt → Baudin
 
-### 128.
+#### 128.
 
-### HUMBOLDT TO BAUDIN.
+#### HUMBOLDT TO BAUDIN.
 
 <span class="small-caps">Carthagena</span>, *April* 12, 1801.
 
@@ -3031,9 +3041,9 @@ A. <span class="small-caps">Humboldt.</span>
 
 ### Letter 132: Humboldt → Varnhagen
 
-### 129.
+#### 129.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Sunday</span>, *Feb. 21st*, 1847.
 
@@ -3047,9 +3057,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 133: Metternich → Humboldt
 
-### 130.
+#### 130.
 
-### METTERNICH TO HUMBOLDT.
+#### METTERNICH TO HUMBOLDT.
 
 <span class="small-caps">Vienna</span>, *February*, 1847.
 
@@ -3067,9 +3077,9 @@ Thousand sincere homages, my dear Baron,
 
 ### Letter 134: Prince Albert → Humboldt
 
-### 131.
+#### 131.
 
-### PRINCE ALBERT TO HUMBOLDT.
+#### PRINCE ALBERT TO HUMBOLDT.
 
 <span class="small-caps">Windsor Castle,</span> *February* 17*th*, 1847.
 
@@ -3087,9 +3097,9 @@ Very devoted,
 
 ### Letter 135: Humboldt → Varnhagen
 
-### 132.
+#### 132.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *February 27th,* 1847.
 
@@ -3107,9 +3117,9 @@ A. v. H.
 
 ### Letter 136: Humboldt → Varnhagen
 
-### 133.
+#### 133.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin,</span> *March 27th,* 1847.
 
@@ -3139,7 +3149,7 @@ On the 11th July, 1847, Varnhagen observes: “This morning Humboldt came in qui
 
 ### Letter 137: Humboldt → Varnhagen
 
-### 134.
+#### 134.
 
 <span class="small-caps">Berlin</span>, *Jan. 18th*, 1849.
 
@@ -3165,9 +3175,9 @@ This is the place to interpose another visit from Humboldt to Varnhagen. On the 
 
 ### Letter 138: Humboldt → Varnhagen
 
-### 135.
+#### 135.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam</span>, *August 16th*, 1849.
 
@@ -3179,9 +3189,9 @@ Yours,        A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 139: Humboldt → Varnhagen
 
-### 136.
+#### 136.
 
-### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
+#### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
 
 <span class="small-caps">Potsdam</span>, *October* 15*th*, 1849.
 
@@ -3195,9 +3205,9 @@ Increase your collection of autographs by a very agreeable letter from the man w
 
 ### Letter 140: Metternich → Humboldt
 
-### 137.
+#### 137.
 
-### <span class="small-caps">Metternich to Humboldt.</span> <span class="small-caps">(From the French.)</span>
+#### <span class="small-caps">Metternich to Humboldt.</span><br /><span class="small-caps">(From the French.)</span>
 
 <span class="small-caps">Richmond</span>, *Sep. 17th*, 1849.
 
@@ -3211,9 +3221,9 @@ Receive, my dear Baron, with the expression of a congratulation of which you do 
 
 ### Letter 141: Humboldt → Varnhagen
 
-### 138.
+#### 138.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam</span>, *October 29th*, 1849.
 
@@ -3229,9 +3239,9 @@ A. <span class="small-caps">Humboldt</span>.
 
 ### Letter 142: Helen, Duchess of Orleans → Humboldt
 
-### 139.
+#### 139.
 
-### HELEN, DUCHESS OF ORLEANS, TO HUMBOLDT.
+#### HELEN, DUCHESS OF ORLEANS, TO HUMBOLDT.
 
 <span class="small-caps">Your</span> Excellency will accept my most heartfelt thanks for the token of the remembrance, so valued by me, which you devote to the hours we passed in times but recently gone by, which the course of events, however, seems already to have thrust back into antediluvian periods.
 
@@ -3253,9 +3263,9 @@ With heartfelt reverence and gratitude, your Excellency's friend and admirer,
 
 ### Letter 143: Humboldt → Varnhagen
 
-### 140.
+#### 140.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam</span>, *October* 31*st*, 1849.
 
@@ -3271,21 +3281,23 @@ A. H<span class="small-caps">T</span>.
 
 * * *
 
-### (<span class="small-caps">Inclosure.</span>)
-
-> I cannot, fellow-citizens, more vividly express the profound gratitude I entertain, than by saying, that you have given me as great a pleasure as you have bestowed an unexpected honor. A pleasure such as this shall not be dashed by the question how I can possibly deserve this distinction at the hands of your beautiful city. You have worthily shown, not only that you value her material prosperity, but that you are alive to higher interests, and accord sympathy and respect to efforts directed to the advancement of knowledge, the education of the people, and the general culture of mankind. As a reward for a portion of these efforts, to which my long and chequered life has been devoted, I accept with pride your flattering gift. By the favor of two illustrious monarchs it has been my privilege, for twenty-two years, with but little interruption, to live as your townsman, and to find, in scenery beautiful by nature and art, those inspirations indispensable to a life-like portraiture of nature, which aims to display the workings of the powers of the universe. Grateful for this good fortune, I have adorned almost all my later writings with the historic name which has become dear to me, and in the walls of which the year 1767 witnessed the birth of my brother, whose memory lives in the hearts of those who have preserved a sense of the enlarged proportions of a political life which progresses in obedience to laws inherent in the constitution of society.
-
-A. v. <span class="small-caps">Humboldt.</span>
-
-*On receipt of the Honorary Citizenship of Potsdam.*
+> **[enclosure]**
+>
+> ###### (<span class="small-caps">Inclosure.</span>)
+>
+> > I cannot, fellow-citizens, more vividly express the profound gratitude I entertain, than by saying, that you have given me as great a pleasure as you have bestowed an unexpected honor. A pleasure such as this shall not be dashed by the question how I can possibly deserve this distinction at the hands of your beautiful city. You have worthily shown, not only that you value her material prosperity, but that you are alive to higher interests, and accord sympathy and respect to efforts directed to the advancement of knowledge, the education of the people, and the general culture of mankind. As a reward for a portion of these efforts, to which my long and chequered life has been devoted, I accept with pride your flattering gift. By the favor of two illustrious monarchs it has been my privilege, for twenty-two years, with but little interruption, to live as your townsman, and to find, in scenery beautiful by nature and art, those inspirations indispensable to a life-like portraiture of nature, which aims to display the workings of the powers of the universe. Grateful for this good fortune, I have adorned almost all my later writings with the historic name which has become dear to me, and in the walls of which the year 1767 witnessed the birth of my brother, whose memory lives in the hearts of those who have preserved a sense of the enlarged proportions of a political life which progresses in obedience to laws inherent in the constitution of society.
+>
+> A. v. <span class="small-caps">Humboldt.</span>
+>
+> *On receipt of the Honorary Citizenship of Potsdam.*
 
 * * *
 
 ### Letter 144: Humboldt → Varnhagen
 
-### **141.**
+#### **141.**
 
-### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
+#### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
 
 <span class="small-caps">Potsdam</span>, *November 4th*, 1849.
 
@@ -3301,9 +3313,9 @@ A. <span class="small-caps">Ht.</span>
 
 ### Letter 145: Humboldt → Varnhagen
 
-### 142.
+#### 142.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *March 19th*, 1850.
 
@@ -3320,9 +3332,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 146: Humboldt → Varnhagen
 
-### 143.
+#### 143.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam</span>, *July 2d*, 1850.
 
@@ -3340,9 +3352,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 147: Humboldt → Bettina von Arnim
 
-### 144.
+#### 144.
 
-### <span class="small-caps">Humboldt to Bettina von Arnim.</span>
+#### <span class="small-caps">Humboldt to Bettina von Arnim.</span>
 
 (Copy in Varnhagen's Handwriting.)
 
@@ -3358,9 +3370,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 148: Humboldt → Varnhagen
 
-### 145.
+#### 145.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam,</span> *November* 1*st,* 1851.
 
@@ -3374,9 +3386,9 @@ On the 24th of November, 1851, Varnhagen wrote in his diary: “Backbiters are b
 
 ### Letter 149: Humboldt → Varnhagen
 
-### 146.
+#### 146.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin,</span> *January 28th,* 1852.
 
@@ -3390,7 +3402,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 <span class="small-caps">Wednesday.</span>
 
-> With two yellow pamphlets, to his friend of many years, Varnhagen von Ense, with old admiration and attachment. The author.
+> **[enclosure]**
+>
+> > With two yellow pamphlets, to his friend of many years, Varnhagen von Ense, with old admiration and attachment. The author.
 
 On the 29th January, 1852, Varnhagen's journal reads as follows: “Humboldt came at one o'clock, wonderfully robust for his time of life! Speaks with indignant scorn of the *coup d'état* in France, the undisguised outrage, the arbitrary banishments, and particularly the robbery of the estates of the Orleans family. The King was at first full of rejoicing, he and the court saw nothing offensive in the crime committed against the people, the legislature, the law, and the sanctity of oaths, but that the adventurer preserves universal suffrage, rests upon the people, practises socialism, and even wants to be emperor ; this is what makes him detested ! Humboldt is of opinion that in the revolution of February the establishment of the Provisional Government, which was immediately obeyed throughout France, was a piece of even greater audacity than the present usurpation of the one man who has already been president, and worn the name of government for three years. I reminded him of the parliament, and the committee of fifty at Frankfort-on-the-Main. In the disposition to acquiesce, he sees that national feeling of unity and cohesion which, among Frenchmen, suppresses all party feeling. Humboldt says there is no doubt that Louis Bonaparte is a son of Admiral Verhuel, and his brother, Morny, a son of General Flahault, who, he says, lived with both the sisters, the Queen of Holland and the Queen of Naples. Of Persigny—Fialin de Persigny— he speaks with the utmost contempt, calling him a raw, unkempt non-commissioned officer, who still arrogates to himself discoveries about the pyramids. Passing on to our own affairs, he deplored the narrowness, the pitiful character of our ministry ; he considers Raumer the most stupid of them all, stupid and unmannerly both; the King is cross and peevish, capricious, and prone to excuse himself by saying that he is powerless, and must be governed by his ministers.
 
@@ -3400,9 +3414,9 @@ On the 30th of January, 1852, Varnhagen adds: “Humboldt takes a lively interes
 
 ### Letter 150: Humboldt → Varnhagen
 
-### 147.
+#### 147.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *Feb. 5th*, 1852.
 
@@ -3416,15 +3430,17 @@ A. <span class="small-caps">Humboldt</span>.
 
 * * *
 
-### <span class="small-caps">SUPPLEMENT.</span>
-
-“Spenersche Zeitung,” of 1852, Feb. 4, No. 29.—The transactions in reference to the formation of the second Chamber have repeatedly been the subject of our communications. It is perhaps not equally well known, that at this moment the attention of higher circles is also directed to the formation of the Second Chamber. The present electoral law presents the right of suffrage as one to be exercised or not at the option of the voter, without a corresponding obligation on his part. A law compelling men to vote would seem to be equally inexpedient and impracticable. But by refraining from voting in any number, the voters repose the decision of the question in the hands of an unknown minority, who, by exercising their privilege, frequently bring about a state of things by which representation is given, not to the political views of the constituency, but to their very opposite. The principles had in view in fixing the reconstruction of the First Chamber, have, by force of logical inference, led to the proposals to alter the electoral law for the Second Chamber in this manner, *that His Majesty, the King, shall appoint in each district, long before the election, a government candidate, who shall be the representative, unless the majority of the voters should at the election record their preference for another.* The specific arguments in support of such a plan will appear to-morrow in connexion with its details.
+> **[enclosure]**
+>
+> ###### <span class="small-caps">SUPPLEMENT.</span>
+>
+> “Spenersche Zeitung,” of 1852, Feb. 4, No. 29.—The transactions in reference to the formation of the second Chamber have repeatedly been the subject of our communications. It is perhaps not equally well known, that at this moment the attention of higher circles is also directed to the formation of the Second Chamber. The present electoral law presents the right of suffrage as one to be exercised or not at the option of the voter, without a corresponding obligation on his part. A law compelling men to vote would seem to be equally inexpedient and impracticable. But by refraining from voting in any number, the voters repose the decision of the question in the hands of an unknown minority, who, by exercising their privilege, frequently bring about a state of things by which representation is given, not to the political views of the constituency, but to their very opposite. The principles had in view in fixing the reconstruction of the First Chamber, have, by force of logical inference, led to the proposals to alter the electoral law for the Second Chamber in this manner, *that His Majesty, the King, shall appoint in each district, long before the election, a government candidate, who shall be the representative, unless the majority of the voters should at the election record their preference for another.* The specific arguments in support of such a plan will appear to-morrow in connexion with its details.
 
 ### Letter 151: Humboldt → Varnhagen
 
-### 148.
+#### 148.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *February* 12*th*, 1852.
 
@@ -3440,9 +3456,9 @@ Be kind enough to return the enclosed at your early convenience.
 
 ### Letter 152: Humboldt → Varnhagen
 
-### 149.
+#### 149.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *March* 23*d*, 1852.
 
@@ -3455,13 +3471,15 @@ A. <span class="small-caps">Ht.</span>
 
 <span class="small-caps">Tuesday</span>, late at night.
 
-The enclosed letter from August. Grau, of Montgomery County, Ohio, dated February 6, 1852, contains the following: “A gentleman who has travelled over a large portion of the earth, who, by the publication of so many excellent writings, has erected for himself so durable and so resplendent a monument on the field of literature and science, is not to be named by any German without the greatest esteem. When the names of great warriors who have spilt the blood of their fellow-men upon the battle-field shall be forgotten, your name will blaze for hundreds and thousands of years in the annals of history. But it is singular, at the same time, that the greatest naturalists, philosophers, and astronomers who have occupied the principal portion of their lives with new inventions, and with investigations into the elementary powers of nature, are often totally indifferent to their salvation or perdition in the world to come. Goethe, Schiller, Wieland, and Kant, were all distinguished characters and brilliant ideals, and in their walk and conversation were more or less observant of what are called the laws of morality, so as probably to abstain from cards, nine-pins, playhouses, and dancing, but their sphere of operations did not reach into eternity, and the fate of their fellow-men in the other world—their salvation—was of little interest to them." After launching into further sanctified regrets at the scarcity of true godliness, and its absence even in princes and royal chaplains, the writer continues: "The last King of Prussia, and his truly royal Louise, had some knowledge of a state of regeneration, as well as the last King of Sweden, the former French Marshal Bernadotte, Prince of Ponte Corvo. A poor peasant was better able to enlighten him on the means of salvation than one of the first bishops of the Lutheran church. O, Sir Privy Councillor, while I do full justice to your unblemished life, your high character as a statesman, and your acquirements as a man of science; and while I rejoice that Berlin—ay, that Prussia may boast of such a man as your Excellency, yet my joy would turn into holy exultation if I should have the honor of seeing you a warm disciple of Him who died upon Golgotha. Without Him, Lord Chamberlain, with all our acquirements, with all our boasted knowledge, we are singularly unhappy.” Further on, the letter reads: “Goethe says, on a certain occasion, that during the whole course of his long life he had not spent four happy weeks. These are the words of a great man of science. If Christ has not taken up his residence in our hearts, who else can be there but Satan? One of them, surely, must be there—one must wield the baton of command. It is manifestly impossible at one and the same time to serve two masters! Worthy sir, my gracious Lord Chamberlain, I am penetrated with great esteem for you and your lofty merits; I love and revere you. I am not worthy to unlace your shoes. This is the unconstrained language of my heart; although I have occupied myself with acquiring the elements of seventeen different languages, and can even at this day read the writings of the New Testament in seven different tongues. But I have not only been firmly convinced of the truth of the Christian religion for thirty-one years, but experience the influence of the Holy Ghost from day to day, and almost from hour to hour.” The letter is subscribed, “Your Grace's most devoted servant and brother in Christ, Augustus Grau.” Humboldt adds the remark: “An attempt at conversion, from the State of Ohio.”
+> **[letter_excerpt]**
+>
+> The enclosed letter from August. Grau, of Montgomery County, Ohio, dated February 6, 1852, contains the following: “A gentleman who has travelled over a large portion of the earth, who, by the publication of so many excellent writings, has erected for himself so durable and so resplendent a monument on the field of literature and science, is not to be named by any German without the greatest esteem. When the names of great warriors who have spilt the blood of their fellow-men upon the battle-field shall be forgotten, your name will blaze for hundreds and thousands of years in the annals of history. But it is singular, at the same time, that the greatest naturalists, philosophers, and astronomers who have occupied the principal portion of their lives with new inventions, and with investigations into the elementary powers of nature, are often totally indifferent to their salvation or perdition in the world to come. Goethe, Schiller, Wieland, and Kant, were all distinguished characters and brilliant ideals, and in their walk and conversation were more or less observant of what are called the laws of morality, so as probably to abstain from cards, nine-pins, playhouses, and dancing, but their sphere of operations did not reach into eternity, and the fate of their fellow-men in the other world—their salvation—was of little interest to them." After launching into further sanctified regrets at the scarcity of true godliness, and its absence even in princes and royal chaplains, the writer continues: "The last King of Prussia, and his truly royal Louise, had some knowledge of a state of regeneration, as well as the last King of Sweden, the former French Marshal Bernadotte, Prince of Ponte Corvo. A poor peasant was better able to enlighten him on the means of salvation than one of the first bishops of the Lutheran church. O, Sir Privy Councillor, while I do full justice to your unblemished life, your high character as a statesman, and your acquirements as a man of science; and while I rejoice that Berlin—ay, that Prussia may boast of such a man as your Excellency, yet my joy would turn into holy exultation if I should have the honor of seeing you a warm disciple of Him who died upon Golgotha. Without Him, Lord Chamberlain, with all our acquirements, with all our boasted knowledge, we are singularly unhappy.” Further on, the letter reads: “Goethe says, on a certain occasion, that during the whole course of his long life he had not spent four happy weeks. These are the words of a great man of science. If Christ has not taken up his residence in our hearts, who else can be there but Satan? One of them, surely, must be there—one must wield the baton of command. It is manifestly impossible at one and the same time to serve two masters! Worthy sir, my gracious Lord Chamberlain, I am penetrated with great esteem for you and your lofty merits; I love and revere you. I am not worthy to unlace your shoes. This is the unconstrained language of my heart; although I have occupied myself with acquiring the elements of seventeen different languages, and can even at this day read the writings of the New Testament in seven different tongues. But I have not only been firmly convinced of the truth of the Christian religion for thirty-one years, but experience the influence of the Holy Ghost from day to day, and almost from hour to hour.” The letter is subscribed, “Your Grace's most devoted servant and brother in Christ, Augustus Grau.” Humboldt adds the remark: “An attempt at conversion, from the State of Ohio.”
 
 ### Letter 153: Humboldt → Varnhagen
 
-### 150.
+#### 150.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *March 13th*, 1853.
 
@@ -3477,9 +3495,9 @@ The death of Leopold von Buch bows me deeply. A happy blending of the most noble
 
 ### Letter 154: Humboldt → Varnhagen
 
-### 151.
+#### 151.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *March 14th*, 1853.
 
@@ -3495,9 +3513,9 @@ I shall bring volume VI. myself.
 
 ### Letter 155: Humboldt → Varnhagen
 
-### 152.
+#### 152.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *August 15th*, 1853.
 
@@ -3511,9 +3529,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 156: Humboldt → Varnhagen
 
-### 153.
+#### 153.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *August 31st*, 1853.
 
@@ -3539,9 +3557,9 @@ The saddest news of Arago's family; swollen hands and feet, diabetes, and almost
 
 ### Letter 157: Humboldt → Varnhagen
 
-### 154.
+#### 154.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *September 2d,* 1853.
 
@@ -3567,9 +3585,9 @@ On the 25th of September, Varnhagen narrates in his diary: “They say, on the p
 
 ### Letter 158: Humboldt → Varnhagen
 
-### 155.
+#### 155.
 
-### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
+#### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
 
 <span class="small-caps">Berlin</span>, *Dec.* 12*th*, 1853.
 
@@ -3586,9 +3604,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 159: Humboldt → Varnhagen
 
-### 156.
+#### 156.
 
-### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
+#### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
 
 <span class="small-caps">Berlin, Thursday Night</span>—*from the* 13*th to  
 the* 14*th of April,* 1854.
@@ -3605,9 +3623,9 @@ I shall certainly make my appearance on Monday in a wedding garment.
 
 ### Letter 160: Arago → Humboldt
 
-### **157.**
+#### **157.**
 
-### <span class="small-caps">Arago to Humboldt.</span>
+#### <span class="small-caps">Arago to Humboldt.</span>
 
 <span class="small-caps">Paris,</span> *June 3d,* 1848.
 
@@ -3623,9 +3641,9 @@ F. <span class="small-caps">Arago</span>.
 
 ### Letter 161: Humboldt → Varnhagen
 
-### 158.
+#### 158.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin, Friday,</span> *April* 14*th*, 1854.
 
@@ -3641,9 +3659,9 @@ The Prince of Prussia knows nothing of the invitation for noce et festin.
 
 ### Letter 162: A. Humboldt → Varnhagen
 
-### 159.
+#### 159.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">My</span> American connexions having entailed upon me the predilection of the Peace Society, I am molested by them with many of their writings and tracts. But the last number of the “Herald of Peace” is so remarkable on account of the political movement of the pietistic peace Quakers, that perhaps it will amuse you for one moment, my dear friend, to read for yourself the testimonies. Destroy the sheet!
 
@@ -3665,9 +3683,9 @@ On this letter Varnhagen remarks in his diary, July 5th, 1854 :—“I found a l
 
 ### Letter 163: Varnhagen von Ense → Humboldt
 
-### 160.
+#### 160.
 
-### <span class="small-caps">Varnhagen to Humboldt.</span>
+#### <span class="small-caps">Varnhagen to Humboldt.</span>
 
 <span class="small-caps">Berlin</span>, *July 8th*, 1854.
 
@@ -3687,9 +3705,9 @@ Some strong expressions in the London letter, as welcome to me as they were unex
 
 ### Letter 164: A. v. Humboldt → VARNHAGEN
 
-### 161.
+#### 161.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *July 9th*, 1854.
 
@@ -3711,7 +3729,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 165: A. v. Ht. → BETTINA VON ARNIM
 
-### 162. <span class="small-caps">HUMBOLDT TO BETTINA VON ARNIM.</span> (Copied by Varnhagen.)
+#### 162.<br /><span class="small-caps">HUMBOLDT TO BETTINA VON ARNIM.</span><br />(Copied by Varnhagen.)
 
 <span class="small-caps">Berlin</span>, *July 8th*, 1854.
 
@@ -3724,9 +3742,9 @@ A. v. H<span class="small-caps">t</span>.
 
 ### Letter 166: A. v. Humboldt → Varnhagen
 
-### 163.
+#### 163.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *July 10th*, 1854.
 
@@ -3740,9 +3758,9 @@ Monday.—At another funeral![^fn-p0311-2] A workman, unknown to me, addressed m
 
 ### Letter 167: A. v. Humboldt → VARNHAGEN
 
-### 164.
+#### 164.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *July 29th*, 1854.
 
@@ -3760,9 +3778,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 168: A. v. Humboldt → VARNHAGEN
 
-### 165.
+#### 165.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *July* 31*st*, 1854.
 
@@ -3778,9 +3796,9 @@ Monday, waiting for the train to leave. In the United States there has, it is tr
 
 ### Letter 169: Varnhagen von Ense → HUMBOLDT
 
-### 166.
+#### 166.
 
-### VARNHAGEN TO HUMBOLDT.
+#### VARNHAGEN TO HUMBOLDT.
 
 <span class="small-caps">Berlin,</span> *January 8th,* 1855.
 
@@ -3798,9 +3816,9 @@ Your Excellency's most obedient,
 
 ### Letter 170: A. Humboldt → VARNHAGEN
 
-### 167.
+#### 167.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *April 26th*, 1855.
 
@@ -3820,9 +3838,9 @@ Of the above-named direction Humboldt observes: "That it is the boarding-school 
 
 ### Letter 171: A. v. Humboldt → VARNHAGEN
 
-### 168.
+#### 168.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *August 9th*, 1855.
 
@@ -3844,9 +3862,9 @@ Varnhagen adds, on the 12th of August, Humboldt said of the situation of Prussia
 
 ### Letter 172: A. v. Humboldt → VARNHAGEN
 
-### 169.
+#### 169.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *January 13th*, 1856.
 
@@ -3864,9 +3882,9 @@ Was not the young Tyrolese very amiable poet Adolf Pichler (properly speaking a 
 
 ### Letter 173: The Princess Lieven → HUMBOLDT
 
-### 170.
+#### 170.
 
-### THE PRINCESS LIEVEN TO HUMBOLDT.
+#### THE PRINCESS LIEVEN TO HUMBOLDT.
 
 <span class="small-caps">Paris</span>, *January 8th*, 1856.
 
@@ -3886,9 +3904,9 @@ Ever yours,        <span class="small-caps">The Princess Lieven.</span>
 
 ### Letter 174: Varnhagen von Ense → HUMBOLDT
 
-### 171.
+#### 171.
 
-### VARNHAGEN TO HUMBOLDT.
+#### VARNHAGEN TO HUMBOLDT.
 
 <span class="small-caps">Berlin</span>, *January 27th*, 1856.
 
@@ -3902,9 +3920,9 @@ With faithful reverence and most grateful devotion, unalterably your Excellency'
 
 ### Letter 175: A. Humboldt → VARNHAGEN
 
-### 172.
+#### 172.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *January 28th*, 1856.
 
@@ -3922,9 +3940,9 @@ The Grand Duke, whom you escaped, sends much love. He has curious theories, prob
 
 ### Letter 176: A. v. Humboldt → VARNHAGEN
 
-### 173.
+#### 173.
 
-### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
+#### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
 
 <span class="small-caps">Berlin, Thursday,</span> *Feb. 7th,* 1856.
 
@@ -3944,9 +3962,9 @@ Keep the very commonplace verses “Oh, Gentle Jlm.”
 
 ### Letter 177: Varnhagen von Ense → Humboldt
 
-### 174.
+#### 174.
 
-### <span class="small-caps">Varnhagen to Humboldt.</span>
+#### <span class="small-caps">Varnhagen to Humboldt.</span>
 
 <span class="small-caps">Berlin</span>, *March* 14*th*, 1856.
 
@@ -3962,9 +3980,9 @@ Your Excellency's most obedient,
 
 ### Letter 178: A. v. Humboldt → VARNHAGEN
 
-### 175.
+#### 175.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *April 14th*, 1856.
 
@@ -3980,9 +3998,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 179: A. v. Humboldt → VARNHAGEN
 
-### 176.
+#### 176.
 
-### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
+#### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
 
 <span class="small-caps">Berlin</span>, *September* 11*th*, 1856.
 
@@ -3996,9 +4014,9 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 180: Gerolt → Humboldt
 
-### 177.
+#### 177.
 
-### <span class="small-caps">The Prussian Minister Resident, Von Gerolt, to Humboldt.</span>
+#### <span class="small-caps">The Prussian Minister Resident, Von Gerolt,<br />to Humboldt.</span>
 
 <span class="small-caps">New York</span>, *August 25th*, 1856.
 
@@ -4032,9 +4050,9 @@ With immutable reverence and affection, I remain your Excellency's most devoted
 
 ### Letter 181: Varnhagen von Ense → HUMBOLDT
 
-### 178.
+#### 178.
 
-### VARNHAGEN TO HUMBOLDT.
+#### VARNHAGEN TO HUMBOLDT.
 
 <span class="small-caps">Berlin,</span> *September* 13*th*, 1856.
 
@@ -4052,9 +4070,9 @@ Your Excellency's most obedient,
 
 ### Letter 182: A. v. Humboldt → VARNHAGEN
 
-### 179.
+#### 179.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *September 22d,* 1856.
 
@@ -4066,9 +4084,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 183: A. v. Humboldt → VARNHAGEN
 
-### 180.
+#### 180.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *Sept.* 23*d*, 1856.
 
@@ -4084,26 +4102,28 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 * * *
 
-### 181.
-
-### (<span class="small-caps">enclosed.</span>)
-
-### GRAND DUKE CHARLES ALEXANDER OF SAXE WEIMAR TO HUMBOLDT.
-
-<span class="small-caps">At the Chateau of Berlin</span>,  
-*Tuesday Morning.*
-
-<span class="small-caps">Had</span> I had the skill of the Marquis of St. Germain, of whom, if I am not mistaken, it is told that one fine morning he departed through four gates at one and the same time, I could not have been more desirous to find M. von Varnhagen than I was. Nevertheless, it was all in vain. No one could tell me where he lived, and it was of no use to take the measure of the “*Maurenstrasse.*” Nature having made me the most obstinate of all Grand Dukes, I still persist in my intention to see the invisible, and hasten to attain that consummation by requesting your Excellency to tell me where M. de Varnhagen actually *does* live. Pardon my repeated importunities; but in conscience I know of no route which could be shorter or more direct. I remain, with the inextinguishable attachment of the most devoted admiration and veneration for your Excellency,
-
-<span class="small-caps">Charles Alexander.</span>
-
-* * *
+> **[enclosure: 181. (enclosed.) GRAND DUKE CHARLES ALEXANDER OF SAXE WEIMAR TO HUMBOLDT.]**
+>
+> ##### 181.
+>
+> ##### (<span class="small-caps">enclosed.</span>)
+>
+> ##### GRAND DUKE CHARLES ALEXANDER OF SAXE WEIMAR<br />TO HUMBOLDT.
+>
+> <span class="small-caps">At the Chateau of Berlin</span>,  
+> *Tuesday Morning.*
+>
+> <span class="small-caps">Had</span> I had the skill of the Marquis of St. Germain, of whom, if I am not mistaken, it is told that one fine morning he departed through four gates at one and the same time, I could not have been more desirous to find M. von Varnhagen than I was. Nevertheless, it was all in vain. No one could tell me where he lived, and it was of no use to take the measure of the “*Maurenstrasse.*” Nature having made me the most obstinate of all Grand Dukes, I still persist in my intention to see the invisible, and hasten to attain that consummation by requesting your Excellency to tell me where M. de Varnhagen actually *does* live. Pardon my repeated importunities; but in conscience I know of no route which could be shorter or more direct. I remain, with the inextinguishable attachment of the most devoted admiration and veneration for your Excellency,
+>
+> <span class="small-caps">Charles Alexander.</span>
+>
+> * * *
 
 ### Letter 184: Varnhagen von Ense → HUMBOLDT
 
-### 182.
+#### 182.
 
-### VARNHAGEN TO HUMBOLDT.
+#### VARNHAGEN TO HUMBOLDT.
 
 <span class="small-caps">Berlin</span>, *September 24th*, 1856.
 
@@ -4119,9 +4139,9 @@ Your obedient <span class="small-caps">Varnhagen von Ense.</span>
 
 ### Letter 185: A. v. Humboldt → Varnhagen
 
-### 183.
+#### 183.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *Sep.* 24*th*, 1856.
 
@@ -4139,9 +4159,9 @@ Gerlach intends to separate himself from the King, and to oust Reyher, whereby h
 
 ### Letter 186: A. Humboldt → VARNHAGEN
 
-### 184.
+#### 184.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam,</span> *November 9th,* 1856.
 
@@ -4159,9 +4179,9 @@ Your faithful A. <span class="small-caps">Humboldt.</span>
 
 ### Letter 187: Metternich → HUMBOLDT
 
-### 185.
+#### 185.
 
-### METTERNICH TO HUMBOLDT.
+#### METTERNICH TO HUMBOLDT.
 
 <span class="small-caps">Koenigswart</span>, *October 14th*, 1856.
 
@@ -4177,9 +4197,9 @@ With sincere friendship and esteem,
 
 ### Letter 188: A. v. Humboldt → VARNHAGEN
 
-### 186.
+#### 186.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *November 20th*, 1856.
 
@@ -4195,9 +4215,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 189: A. v. Humboldt → VARNHAGEN
 
-### 187.
+#### 187.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *November 21st*, 1856.
 
@@ -4217,9 +4237,9 @@ Nov. 22d, 1856.—Varnhagen writes in his diary:— “I started at half-past 12
 
 ### Letter 190: A. v. Humboldt → VARNHAGEN
 
-### 188.
+#### 188.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *November* 30*th*, 1856.
 
@@ -4237,9 +4257,9 @@ The “Spenersche Zeitung,” besides discussing Neufchatel and the evacuation o
 
 ### Letter 191: Charles Alexander → HUMBOLDT
 
-### 189.
+#### 189.
 
-### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR, TO HUMBOLDT.
+#### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR,<br />TO HUMBOLDT.
 
 <span class="small-caps">Weimar</span>, *November 29th*, 1856.
 
@@ -4251,9 +4271,9 @@ As I fortunately have the honor to be known, truly known to your Excellency, I m
 
 ### Letter 192: Jobard → Alexander von Humboldt
 
-### 190.
+#### 190.
 
-### JOBARD TO HUMBOLDT.
+#### JOBARD TO HUMBOLDT.
 
 <span class="small-caps">Brussels</span>, *November 26th*, 1856.
 
@@ -4298,21 +4318,23 @@ Painting and painted at once, fresh images, brighter and brighter.[^fn-p0354-1]
 
 ### Letter 193: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 192.
+#### 192.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *December 3d*, 1856.[^fn-p0355-1]
 
 So my pedestrian prose has led you back, my friend, to the regions of the noblest of rhythms! It would make me proud, if the universe were not entitled to your favor. With even more modesty than the poor, for whose benefit the old man with the moss-grown beard* exhibits himself for the small compensation of five silver groschen. With what excellent taste you have transferred the English "*home*" into "*Daheim*." Indescribably beautiful is your poetry, full of grace
 
-Werke der Kunst, der Natur, und Schrift und Geraeth des  
-    Gelehrten.  
-Aber ihn selbst inmitten des neidenswerthen Besitzthums  
-Sehen wir froh sein Reich mit sinnigem Blicke beherrschen,  
-Deutende Sprache verleihen dem wundervollen Gemaelde,  
-Durch lichtvoller Gedanken beredsam glückliche Fügung  
-Schaffend ein neues Bild, ein geistiges, staunendem Anschaun!
+> **[verse_insert]**
+>
+> Werke der Kunst, der Natur, und Schrift und Geraeth des  
+>     Gelehrten.  
+> Aber ihn selbst inmitten des neidenswerthen Besitzthums  
+> Sehen wir froh sein Reich mit sinnigem Blicke beherrschen,  
+> Deutende Sprache verleihen dem wundervollen Gemaelde,  
+> Durch lichtvoller Gedanken beredsam glückliche Fügung  
+> Schaffend ein neues Bild, ein geistiges, staunendem Anschaun!
 
 and delicacy, and of a solemn monition of what should have been extracted from nature and art, and the weapon of science. If my brother William, who, in his correspondence with Wolf, discoursed so largely on lax and severe hexameters, could but have lived to witness this family honor!
 
@@ -4332,15 +4354,15 @@ Suicide a Folly and a Crime; Two Sermons by Dr. Crusius, Chaplain of a Division 
 
 ### Letter 194: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 193.
+#### 193.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *December* 17*th*, 1856.
 
 <span class="small-caps">Another</span> grateful, unconstrained, and amiable letter from the Grand Duke. He fixes February for the visit, and desires the drama to open with a request to search the archives. The permission being given, the material part is to follow, as he says, symbolically. You will arrange that with care, my dear friend. We are approaching the goal of our wishes.
 
-I have another funeral to-morrow at the column in Tegel, which, under the hand of Thorwalsden, promises *Hope.* The oldest niece (daughter) of my brother, the wife of General Hedemann, born in Paris in 1800, a few days after Madame von Humboldt's return from Spain, has departed after much suffering (liver complaint connected with dropsy), an amiable, cheerful housewife, who enjoyed good health for forty years in a very happy marriage. I live to bury all my kith and kin.
+I have another funeral to-morrow at the column in Tegel, which, under the hand of Thorwalsden, promises *Hope.* The oldest niece (daughter) of my brother, the wife of General Hedemann, born in Paris in 1800, a few days after Madame von Humboldt's return from Spain, has departed after much suffering (liver complaint connected with dropsy), an amiable, cheerful house-wife, who enjoyed good health for forty years in a very happy marriage. I live to bury all my kith and kin.
 
 Yours,
 
@@ -4352,9 +4374,9 @@ A. v. H.
 
 ### Letter 195: Charles Alexander, Grand Duke of Saxe-Weimar → Alexander von Humboldt
 
-### 194.
+#### 194.
 
-### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR, TO HUMBOLDT.
+#### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR,<br />TO HUMBOLDT.
 
 <span class="small-caps">Weimar,</span> *December 16th,* 1856.
 
@@ -4370,9 +4392,9 @@ I shall appropriate the Journal of Petermann. My veneration for you is the pledg
 
 ### Letter 196: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 195.
+#### 195.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *Feb. 7th*, 1857.
 
@@ -4388,9 +4410,9 @@ A. v. H<span class="small-caps">t</span>.
 
 ### Letter 197: Karl August Varnhagen von Ense → Alexander von Humboldt
 
-### 196.
+#### 196.
 
-### VARNHAGEN TO HUMBOLDT.
+#### VARNHAGEN TO HUMBOLDT.
 
 <span class="small-caps">Berlin</span>, *Feb.* 9*th*, 1857.
 
@@ -4410,9 +4432,9 @@ I remain your Excellency's most obedient,
 
 ### Letter 198: Karl August Varnhagen von Ense → Alexander von Humboldt
 
-### 197.
+#### 197.
 
-### VARNHAGEN TO HUMBOLDT.
+#### VARNHAGEN TO HUMBOLDT.
 
 <span class="small-caps">Berlin</span>, *February 20th*, 1857.
 
@@ -4437,9 +4459,9 @@ Under March 14th, Varnhagen narrates in his diary: “When the King was with Hum
 
 ### Letter 199: Karl August Varnhagen von Ense → Alexander von Humboldt
 
-### 198.
+#### 198.
 
-### VARNHAGEN TO HUMBOLDT.
+#### VARNHAGEN TO HUMBOLDT.
 
 <span class="small-caps">Berlin</span>, *March 17th*, 1857.
 
@@ -4459,9 +4481,9 @@ These lines are not so presumptuous as to expect an answer.
 
 ### Letter 200: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 199.
+#### 199.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *March* 19*th*, 1857—*at Night.*
 
@@ -4477,9 +4499,9 @@ Varnhagen writes in his diary, March 19th, 1857: “Unexpectedly a letter from H
 
 ### Letter 201: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 200.
+#### 200.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *April 6th*, 1857.
 
@@ -4497,9 +4519,9 @@ Keep the letter of the Grand Duke, which ends nicely, and in good taste.
 
 ### Letter 202: Karl Alexander, Grand Duke of Saxe-Weimar → Alexander von Humboldt
 
-### 201.
+#### 201.
 
-### KARL ALEXANDER, GRAND DUKE OF SAXE-WEIMAR, TO HUMBOLDT.
+#### KARL ALEXANDER, GRAND DUKE OF SAXE-WEIMAR,<br />TO HUMBOLDT.
 
 <span class="small-caps">Weimar,</span> *April 3d,* 1857.
 
@@ -4517,9 +4539,9 @@ In grateful reverence and love, your faithfully most submissive
 
 ### Letter 203: Karl August Varnhagen von Ense → Alexander von Humboldt
 
-### 202.
+#### 202.
 
-### VARNHAGEN TO HUMBOLDT.
+#### VARNHAGEN TO HUMBOLDT.
 
 <span class="small-caps">Berlin</span>, *April 7th*, 1857.
 
@@ -4543,9 +4565,9 @@ In most faithful reverence and most grateful submission, immutably your Excellen
 
 ### Letter 204: Karl August Varnhagen von Ense → Alexander von Humboldt
 
-### 203.
+#### 203.
 
-### VARNHAGEN TO HUMBOLDT.
+#### VARNHAGEN TO HUMBOLDT.
 
 <span class="small-caps">Berlin</span>, *April 10th*, 1857.
 
@@ -4560,7 +4582,7 @@ Your Excellency's most obedient
 
 ### Letter 205: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 204. <span class="small-caps">Humboldt to Varnhagen.</span>
+#### 204.<br /><span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *April 13th*, 1857.
 
@@ -4572,7 +4594,7 @@ Yours, A. v. <span class="small-caps">Humboldt</span>.
 
 ### Letter 206: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 205. <span class="small-caps">Humboldt to Varnhagen.</span>
+#### 205.<br /><span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *April 21st*, 1857.
 
@@ -4582,17 +4604,19 @@ With the same friendship as of old,
 
 A. v. <span class="small-caps">Humboldt.</span>
 
-(<span class="small-caps">Inclosure in a letter from Humboldt to Varnhagen.</span>)
-
-> You ask me, dear friend, what were the earliest impressions produced upon me by Franz Baader! I first saw him in June, 1791, while studying the art of mining in Freiberg, after the journey with George Forster to England, and after my sojourn in the Hamburg Commercial Academy of Buesching and Ebeling. For eight months I enjoyed the daily intercourse of this amiable and gifted man. Franz Baader had then published his work on caloric, and his inclinations were all of a chemico-physical nature, with a slight infusion of ideas on the philosophy of physical science. He was active underground, more occupied with practical mining and furnace operations than with geognostic researches; thorough in the observation of fact, cheerful, and satirical, but always with good taste, and not intolerant of those who differed from him. His imagination was not then specially directed to religious subjects. He was generally popular, and a little feared at the same time, as is so common where there is a consciousness of mental superiority. His political opinions were liberal. It was the period of the Congress of Pillnitz in our neighborhood—a time and a neighborhood which gave occasion to political utterances.
+> **[enclosure: (Inclosure in a letter from Humboldt to Varnhagen.)]**
+>
+> (<span class="small-caps">Inclosure in a letter from Humboldt to Varnhagen.</span>)
+>
+> > You ask me, dear friend, what were the earliest impressions produced upon me by Franz Baader! I first saw him in June, 1791, while studying the art of mining in Freiberg, after the journey with George Forster to England, and after my sojourn in the Hamburg Commercial Academy of Buesching and Ebeling. For eight months I enjoyed the daily intercourse of this amiable and gifted man. Franz Baader had then published his work on caloric, and his inclinations were all of a chemico-physical nature, with a slight infusion of ideas on the philosophy of physical science. He was active underground, more occupied with practical mining and furnace operations than with geognostic researches; thorough in the observation of fact, cheerful, and satirical, but always with good taste, and not intolerant of those who differed from him. His imagination was not then specially directed to religious subjects. He was generally popular, and a little feared at the same time, as is so common where there is a consciousness of mental superiority. His political opinions were liberal. It was the period of the Congress of Pillnitz in our neighborhood—a time and a neighborhood which gave occasion to political utterances.
 
 * * *
 
 ### Letter 207: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 206.
+#### 206.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *April 25th,* 1857.
 
@@ -4610,9 +4634,9 @@ I have disagreeable *rudera* of the correspondence with a certain Dr. Gross Hoff
 
 ### Letter 208: Charles Alexander, Grand Duke of Saxe-Weimar → Alexander von Humboldt
 
-### 207.
+#### 207.
 
-### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR, TO HUMBOLDT.
+#### CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR,<br />TO HUMBOLDT.
 
 <span class="small-caps">Your</span> Excellency's letter was duly received by the hands of Mr. ——. Accept my thanks for these lines, for this new token of your constant kindness to me. The bearer is for the present immersed in the abyss of my archives. As soon as I shall return from Hanover, where an invitation will detain me a few days,[^fn-p0380-1] to seek him out, awaiting further developments at the hand of time, like the people at the gate of the oracle.
 
@@ -4626,9 +4650,9 @@ Analogies lead me from deep to lower deep, and then I descend from the archives 
 
 ### Letter 209: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 208.
+#### 208.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin,</span> *May 28th,* 1857.
 
@@ -4646,9 +4670,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 210: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 209.
+#### 209.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam, Thursday.</span> *In haste,*  
 *June 4th,* 1857.
@@ -4665,9 +4689,9 @@ On Saturday I expect to come to Berlin with the King. The Queen is coming on Mon
 
 ### Letter 211: Charles Alexander, Grand Duke of Saxe-Weimar → Alexander von Humboldt
 
-### 210.
+#### 210.
 
-### <span class="small-caps">CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR, TO HUMBOLDT.</span>
+#### <span class="small-caps">CHARLES ALEXANDER, GRAND DUKE OF SAXE-WEIMAR,<br />TO HUMBOLDT.</span>
 
 <span class="small-caps">Ettersburg</span>, *June* 1, 1857.
 
@@ -4683,7 +4707,7 @@ Remaining your most devoted, most grateful servant,
 
 ### Letter 212: Adolphe Thiers → Alexander von Humboldt
 
-### 211. <span class="small-caps">Thiers to Humboldt.</span> <span class="small-caps">(From the French.)</span>
+#### 211.<br /><span class="small-caps">Thiers to Humboldt.</span><br /><span class="small-caps">(From the French.)</span>
 
 <span class="small-caps">Paris,</span> *May 14th,* 1857.
 
@@ -4699,9 +4723,9 @@ A. <span class="small-caps">Thiers.</span>
 
 ### Letter 213: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 212.
+#### 212.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *June* 19*th*, 1857.
 
@@ -4717,9 +4741,9 @@ The Emperor Napoleon has adroitly mended what before was dubious, by means of ve
 
 ### Letter 214: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 213.
+#### 213.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *June 30th*, 1857.
 
@@ -4733,13 +4757,15 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 In great haste, and incorrect.
 
-(Inclosed, a Letter from Friesen, of the year 1807, with this Superscription by Humboldt.)
-
-> A little gift for Miss Ludmilla Assing, the brilliant authoress of Elisa von Ahlefeldt, an autograph of my dear young friend Friesen, with sentiments of sincere thankfulness.
-
-A. v. <span class="small-caps">Humboldt.</span>
-
-<span class="small-caps">June</span> 30*th*, 1857.
+> **[enclosure: (Inclosed, a Letter from Friesen, of the year 1807, with this Superscription by Humboldt.)]**
+>
+> (Inclosed, a Letter from Friesen, of the year 1807, with this Superscription by Humboldt.)
+>
+> > A little gift for Miss Ludmilla Assing, the brilliant authoress of Elisa von Ahlefeldt, an autograph of my dear young friend Friesen, with sentiments of sincere thankfulness.
+>
+> A. v. <span class="small-caps">Humboldt.</span>
+>
+> <span class="small-caps">June</span> 30*th*, 1857.
 
 Varnhagen's diary of July 4, 1857, contains the following: “Yesterday Humboldt spoke of the time when he lived in a house at the side of George's Garden, and was so assiduous in his magnetic observations that he once stinted himself of sleep for seven successive days and nights in order to examine the state of things every half hour; after that he changed the watch with substitutes. This was in 1807, just fifty years ago. I often saw the little house in which the experiments were made, when I visited Johannes von Mueller, who also lived in a house at the side of the same garden; or Fichte who lived in a garden house in the middle of the garden. When old George, a wealthy distiller, showed the garden to his friends, Humboldt went on to say, he never failed to boast of ‘his learned men.’ ‘Here I have the famous Mueller; there is Humboldt, and there is Fichte, but he is only a philosopher, I believe.’”
 
@@ -4747,9 +4773,9 @@ Varnhagen's diary of July 4, 1857, contains the following: “Yesterday Humboldt
 
 ### Letter 215: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 214.
+#### 214.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *July 6th*, 1857.
 
@@ -4769,9 +4795,9 @@ My best and most grateful compliments to Miss Ludmilla, the poetic artist, who c
 
 ### Letter 216: Karl August Varnhagen von Ense → Alexander von Humboldt
 
-### 215.
+#### 215.
 
-### VARNHAGEN TO HUMBOLDT.
+#### VARNHAGEN TO HUMBOLDT.
 
 <span class="small-caps">Berlin,</span> *July 8th,* 1857.
 
@@ -4794,9 +4820,9 @@ Your obedient
 
 ### Letter 217: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 216.
+#### 216.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *September 16th*, 1857.
 
@@ -4814,9 +4840,9 @@ My respects to your talented niece. I believe “God in History” has acted unw
 
 ### Letter 218: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 217.
+#### 217.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *October* 14*th*, 1857.
 
@@ -4830,9 +4856,9 @@ Varnhagen's diary of Dec. 3d, 1857, reads as follows: “ I called on Humboldt; 
 
 ### Letter 219: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 218.
+#### 218.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *January 11th*, 1858.
 
@@ -4848,9 +4874,9 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 ### Letter 220: Prince Napoleon → Alexander von Humboldt
 
-### 219.
+#### 219.
 
-### <span class="small-caps">PRINCE NAPOLEON, SON OF JEROME, TO HUMBOLDT.</span>
+#### <span class="small-caps">PRINCE NAPOLEON, SON OF JEROME, TO HUMBOLDT.</span>
 
 <span class="small-caps">Paris</span>, *Oct.* 13*th*, 1857.
 
@@ -4868,9 +4894,9 @@ Varnhagen reports in his diary under February 18th, 1858:—“I went to Humbold
 
 ### Letter 221: Karl August Varnhagen von Ense → Alexander von Humboldt
 
-### 220.
+#### 220.
 
-### <span class="small-caps">Varnhagen to Humboldt.</span>
+#### <span class="small-caps">Varnhagen to Humboldt.</span>
 
 <span class="small-caps">Berlin</span>, *February* 19*th*, 1858.
 
@@ -4886,9 +4912,9 @@ Accompanying the book, “Considerations Géographiques sur l'Histoire du Brézi
 
 ### Letter 222: Alexander von Humboldt → Karl August Varnhagen von Ense
 
-### 221.
+#### 221.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Berlin</span>, *March 7th*, 1858.
 
@@ -4910,9 +4936,9 @@ March 9th, 1858. Varnhagen adds this further remark on Normanby: “Read a littl
 
 ### Letter 223: HUMBOLDT → VARNHAGEN
 
-### 222.
+#### 222.
 
-### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
+#### <span class="small-caps">HUMBOLDT TO VARNHAGEN.</span>
 
 <span class="small-caps">Berlin</span>, *April* 13th, 1858.
 
@@ -4934,9 +4960,9 @@ On the 24th of April, 1858, Varnhagen observes in his diary: “ Humboldt was ve
 
 ### Letter 224: HUMBOLDT → VARNHAGEN
 
-### 223.
+#### 223.
 
-### HUMBOLDT TO VARNHAGEN.
+#### HUMBOLDT TO VARNHAGEN.
 
 <span class="small-caps">Potsdam</span>, *June* 19*th*, 1858.
 
@@ -4952,9 +4978,9 @@ There gloomy Potsdam has kept me too long from your side.
 
 ### Letter 225: Humboldt → Varnhagen
 
-### 224.
+#### 224.
 
-### <span class="small-caps">Humboldt to Varnhagen.</span>
+#### <span class="small-caps">Humboldt to Varnhagen.</span>
 
 <span class="small-caps">Berlin</span>, *September 9th, at night,* 1858.
 
@@ -5095,9 +5121,9 @@ My wicked friend Lasalle—Heraclitus the Obscure—has been expelled by the Pri
 
 ### Letter 226: Humboldt / A. v. Humboldt → Ludmilla Assing
 
-### 225.
+#### 225.
 
-### HUMBOLDT TO LUDMILLA ASSING.
+#### HUMBOLDT TO LUDMILLA ASSING.
 
 <span class="small-caps">Berlin</span>, *Oct.* 12*th*, 1858.
 
@@ -5113,14 +5139,14 @@ A. v. <span class="small-caps">Humboldt</span>.
 
 ### <span class="small-caps">Alphabetical Index</span>
 
-### OF PERSONS ALLUDED TO.
+#### OF PERSONS ALLUDED TO.
 
 *The figures opposite the names refer to the numbers of the letters in  
 which they are mentioned.*
 
 * * *
 
-### A.
+##### A.
 
 <span class="small-caps">Aberdeen</span>, Lord, 106.  
 Albert, Prince Consort, 124, 131, 132.  
@@ -5136,7 +5162,7 @@ Assing, Ludmilla, 213, 214, 217, 222, 224, 225.
 Augustus, Prince of Prussia, 4, 87.  
 Auguste, Princess, 22.
 
-### B.
+##### B.
 
 Baader, Francis, 145, 205.  
 Balzac, 75, 83.  
@@ -5164,7 +5190,7 @@ Buelow, von, 8, 48, 49, 61, 65, 69, 70, 71, 72, 97, 101, 103, 106, 111.
 Bugeaud, Marshal, 27.  
 Bunsen, 11, 61, 68, 75, 159, 168.
 
-### C.
+##### C.
 
 Cados, 80.  
 Canino, Princess, 116.  
@@ -5185,7 +5211,7 @@ Cornelius, Peter, 142.
 Cotta, 10, 16, 24, 35, 56.  
 Custine, 71, 73.
 
-### D.
+##### D.
 
 Dahlmann, Prof., 48.  
 Delisle, 17.  
@@ -5194,7 +5220,7 @@ Duchess of Dino (Talleyrand), 75, 76.
 Duke of Coburg Gotha, 168.  
 Duchess of Orleans, 27, 75, 76, 117, 119, 139, 148
 
-### E.
+##### E.
 
 Eckermann, 71.  
 Ehrhardt, 7.  
@@ -5206,7 +5232,7 @@ Engel, 64.
 Ettinghausen, 42.  
 Eylert, Bishop, 8.
 
-### F.
+##### F.
 
 Fallersleben, Hoffmann von, 106.  
 Feuerbach, Ludwig, 94.
@@ -5224,7 +5250,7 @@ Froebel, Julius, 223.
 Froriep, 159.  
 Fry, Mrs., 46.
 
-### G
+##### G
 
 Gagern, H., 134, 141.  
 Galuski, 125, 135, 147.  
@@ -5255,7 +5281,7 @@ Grimm Brothers, 40, 48, 51.
 Guhrauer, 106.  
 Guizot, 48, 49, 60, 62, 99, 106, 172, 221.
 
-### H.
+##### H.
 
 Hanover, King of, 31, 40, 66.  
 Hansen, 81.  
@@ -5275,7 +5301,7 @@ Hormayr, 60, 95, 101, 103.
 Huegel, Baron, 42.  
 Humboldt, Wilhelm von, 10, 16, 18. 21, 27, 31, 33, 36, 64, 67, 70, 129, 133, 140, 152, 153, 154, 159, 167, 192, 217.
 
-### I.
+##### I.
 
 Jacobs, Friedrich, 38.  
 Jaeger, 42.  
@@ -5283,7 +5309,7 @@ Janin, 99.
 Joburd, 190.  
 Itzstein, 97.
 
-### K.
+##### K.
 
 Kamptz, 26, 76.  
 Kant, Immanuel, 33, 73, 107.
@@ -5296,7 +5322,7 @@ Kotzebue, 169, 170.
 Kries, 38.  
 Kunth, 64.
 
-### L.
+##### L.
 
 Ladenberg, 48.  
 Lafayette, Marquis de, 20, 151.  
@@ -5315,7 +5341,7 @@ Loeffler, 64.
 Louis Philippe, 75, 139, 184, 221.  
 Louise, Princess, 33.
 
-### M.
+##### M.
 
 Maltzan, 61, 68.  
 Manzoni, 114.  
@@ -5338,7 +5364,7 @@ Mueller, Privy Councillor, 28, 68.
 Muenster, Count, 60.  
 Mundt, Theo. 19.
 
-### N.
+##### N.
 
 Nacke, 39.  
 Napoleon I., 48, 71, 161.  
@@ -5352,14 +5378,14 @@ Niebuhr, M., 154, 212, 216.
 Normanby, 221.  
 Noroff, 208.
 
-### O.
+##### O.
 
 Oersted, 44.  
 Oertzen, 26.  
 Olfers, 142.  
 Oltmann, 13.
 
-### P.
+##### P.
 
 Palmerston, Lord, 48, 124.  
 Peel, Robert, 75, 76, 84.  
@@ -5375,11 +5401,11 @@ Prussia, Princess of, 52.
 Prutz, R., 90, 104, 106.  
 Pückler, Princess, 26.
 
-### Q.
+##### Q.
 
 Quinet, 43.
 
-### R.
+##### R.
 
 Radowitz, 61, 68, 75, 142, 159, 168.  
 Rahel, 7, 9, 10, 24, 33, 36, 132, 133, 145.  
@@ -5404,7 +5430,7 @@ Rueckert, 59, 75, 113.
 Ruehle, 25.  
 Rumohr, 68.
 
-### S.
+##### S.
 
 Sachs, 101, 103.  
 Savary, 50.  
@@ -5437,7 +5463,7 @@ Stilling, 105.
 Stollberg, 75.  
 Strauss, 64, 66.
 
-### T.
+##### T.
 
 Talleyrand, 33, 78.  
 Therese, 133.  
@@ -5449,29 +5475,29 @@ Tholuk, 65.
 Tieck, 55.  
 Trubetzkoi, Princess, 73.
 
-### U.
+##### U.
 
 Uhden, 158.  
 Uwaroff, 68.
 
-### V.
+##### V.
 
 Varnhagen, Fr. A. 168.  
 Victoria, Queen, 124, 227.  
 Voigtlaender, 42.
 
-### W.
+##### W.
 
 Wittgenstein, 5, 45, 88, 160.
 
-### Z.
+##### Z.
 
 Zeune, 16, 212.  
 Zinzendorf, Count, 6, 105.
 
 ## Back Matter
 
-### HUMBOLDT AND THE NEW INFIDELITY.
+### HUMBOLDT AND THE NEW<br />INFIDELITY.
 
 * * *
 
@@ -5501,106 +5527,106 @@ In view of such declarations we do not think that *The Tribune* judges harshly o
 
 [...] terest among the *literati*. 12mo. Muslin, price 75 cts
 
-### THE GREAT TRIBULATION;
+##### THE GREAT TRIBULATION;
 
 Or Things coming on the Earth. By Rev. <span class="small-caps">John Cumming</span>, D.D., author of "Apocalyptic Sketches," &c. From the English edition. <span class="small-caps">First Series</span>. Muslin, price $1 00.
 
-### THE GREAT TRIBULATION.
+##### THE GREAT TRIBULATION.
 
 <span class="small-caps">Second Series</span> of the new work by Rev. <span class="small-caps">Dr. Cumming</span>, which has awakened such an excitement throughout the religious community. 12mo. Muslin, price $1 00.
 
-### ADVENTURES OF VERDANT GREEN.
+##### ADVENTURES OF VERDANT GREEN.
 
 By <span class="small-caps">Cuthbert Bede</span>, B.A. The best humorous story of College Life ever published. *80th edition,* from English plates. Nearly 200 original illustrations, price $1 00.
 
-### CURIOSITIES OF NATURAL HISTORY.
+##### CURIOSITIES OF NATURAL HISTORY.
 
 By <span class="small-caps">Francis T. Buckland</span>, M.A. A sparkling collection of surprises in Natural History, and the charm of a lively narrative. From 4th London edition, price $1 25.
 
-### BROWN'S CARPENTER'S ASSISTANT.
+##### BROWN'S CARPENTER'S ASSISTANT.
 
 The best practical work on Architecture; with Plans for every description of Building. Illustrated with over 200 Plates. Strongly bound in leather, price $5 00.
 
-### THE VAGABOND.
+#### THE VAGABOND.
 
 A volume of Miscellaneous Papers, treating in colloquia sketches upon Literature, Society, and Art. By <span class="small-caps">Adam Badeau.</span> Bound in muslin, 12mo, price $1 00.
 
-### ALEXANDER VON HUMBOLDT.
+#### ALEXANDER VON HUMBOLDT.
 
 A new and popular Biography of this celebrated *Savant,* including his travels and labors, with an introduction by <span class="small-caps">Bayard Taylor.</span> One vol., steel portrait, price $1 25.
 
-### LOVE (L'AMOUR).
+#### LOVE (L'AMOUR).
 
 By M. <span class="small-caps">Jules Michelet.</span> Author of "A History of France," &c. Translated from the French by J. W. Palmer, M.D. One vol., 12mo. Muslin, price $1 00.
 
-### WOMAN (LA FEMME).
+#### WOMAN (LA FEMME).
 
 A sequel and companion to "Love" (L'Amour) by the same author, <span class="small-caps">Michelet.</span> Translated from the French by Dr. J. W. Palmer. 12mo. Muslin, price $1 00.
 
-### LIFE OF HUGH MILLER.
+#### LIFE OF HUGH MILLER.
 
 Author of "Schools and Schoolmasters," "Old Red Sandstone," &c. Reprinted from the English edition. One large 12mo. Muslin, new edition, price $1 25.
 
-### AFTERNOON OF UNMARRIED LIFE.
+#### AFTERNOON OF UNMARRIED LIFE.
 
 An interesting theme admirably treated. Companion to Miss Muloch's "Woman's Thoughts about Women." From London edition. 12mo. Muslin, price, $1 00.
 
-### SOUTHWOLD.
+#### SOUTHWOLD.
 
 By <span class="small-caps">Mrs. Lillie Devereux Umsted.</span> "A spirited an well drawn Society novel—somewhat intensified bu bold and clever." 12mo. Muslin, price $1 00.
 
-### DOESTICKS' LETTERS.
+##### DOESTICKS' LETTERS.
 
 Being a compilation of the Original Letters of O K. P. <span class="small-caps">Doesticks</span>, P. B. With many comic tinted illustrations by John McLenan. 12mo. Muslin, price $1 00,
 
-### PLU-RI-BUS-TAH.
+##### PLU-RI-BUS-TAH.
 
 A song that's by-no-author. *Not* a parody on “Hiawatha.” By <span class="small-caps">Doesticks</span>. With 150 humorous illustrations by McLenan. 12mo. Muslin, price $1 00
 
-### THE ELEPHANT CLUB.
+##### THE ELEPHANT CLUB.
 
 An irresistibly droll volume. By <span class="small-caps">Doesticks</span>, assisted by <span class="small-caps">Knight Russ Ockside</span>, M.D. One of his best works. Profusely illustrated by McLenan. Muslin, price $1 00.
 
-### THE WITCHES OF NEW YORK.
+##### THE WITCHES OF NEW YORK.
 
 A new humorous work by <span class="small-caps">Doesticks</span>; being minute, particular, and faithful Revelations of Black Art Mysteries in Gotham. 12mo. Muslin, price $1 00
 
-### TWO WAYS TO WEDLOCK.
+##### TWO WAYS TO WEDLOCK.
 
 A Novellette. Reprinted from the columns of Morris & Willis' *New York Home Journal*. 12mo. Handsomely bound in muslin. Price $1 00,
 
-### HAMMOND'S POLITICAL HISTORY.
+##### HAMMOND'S POLITICAL HISTORY.
 
 A History of Political Parties in the State of New York. By <span class="small-caps">Jabez B. Hammond</span>, LL.D. 3 vols., octavo, with steel portraits of all the Governors. Muslin. Price, $6 00.
 
-### ROMANCE OF A POOR YOUNG MAN.
+##### ROMANCE OF A POOR YOUNG MAN.
 
 From the French of <span class="small-caps">Octave Feuillet</span>. An admirable and striking work of fiction. Translated from the Seventh Paris edition. 12mo. Muslin, price $1 00
 
-### THE CULPRIT FAY.
+##### THE CULPRIT FAY.
 
 **By** <span class="small-caps">Joseph Rodman Drake.</span> A charming edition of this world-celebrated Faery Poem. Printed on colored plate paper. Muslin, 12mo. Frontispiece. Price, 50 cts.
 
-### THE NEW AND THE OLD;
+##### THE NEW AND THE OLD;
 
 **Or,** California and India in Romantic Aspects. By J. W. <span class="small-caps">Palmer</span>, M.D., author of “ Up and Down the Irrawaddi.” Abundantly illustrated. Muslin, 12mo. $1,25.
 
-### UP AND DOWN THE IRRAWADDI;
+##### UP AND DOWN THE IRRAWADDI;
 
 **Or,** the Golden Dagon. Being passages of adventure in the Burman Empire. By J. W. <span class="small-caps">Palmer</span>, M.D., author of “The New and the Old.” Illustrated. Price, $1,00.
 
-### THE HABITS OF GOOD SOCIETY.
+##### THE HABITS OF GOOD SOCIETY.
 
 An interesting handbook for Ladies and Gentlemen ; with thoughts, hints, and anecdotes, concerning social observances, taste, and good manners. Muslin, price $1 25.
 
-### RECOLLECTIONS OF THE REVOLUTION.
+##### RECOLLECTIONS OF THE REVOLUTION.
 
 A private manuscript journal of home events, kept during the American Revolution by the Daughter of a Clergyman. Printed in unique style. Muslin. Price, $1,00
 
-### HARTLEY NORMAN.
+##### HARTLEY NORMAN.
 
 A New Novel. “ Close and accurate observation, enables the author to present the scenes of everyday life with great spirit and originality.” Muslin, 12mo. Price, $1,25.
 
-### MOTHER GOOSE FOR GROWN FOLKS.
+##### MOTHER GOOSE FOR GROWN FOLKS.
 
 An unique and attractive little Holiday volume. Printed on tinted paper, with frontispiece by Billings. 12mo. Elegantly bound in fancy colored muslin, price 75 cts.

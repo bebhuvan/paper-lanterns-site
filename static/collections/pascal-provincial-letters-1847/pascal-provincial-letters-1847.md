@@ -19,15 +19,15 @@ PASCAL.
 
 ### THE PROVINCIAL LETTERS
 
-### OF
+#### OF
 
 ### PASCAL;
 
-### WITH
+##### WITH
 
-### AN “ESSAY ON PASCAL, CONSIDERED AS A WRITER AND MORALIST,”
+#### AN “ESSAY ON PASCAL, CONSIDERED AS A WRITER<br />AND MORALIST,”
 
-### BY M. VILLEMAIN,
+#### BY M. VILLEMAIN,
 
 PEER OF FRANCE, LATE MINISTER OF PUBLIC INSTRUCTION, &c.
 
@@ -72,7 +72,7 @@ and a Moralist</span>’ . . . . . . . xxiv
 
 <span class="small-caps">Memoir of Pascal</span> . . . . . . xlvii
 
-### PROVINCIAL LETTERS.
+#### PROVINCIAL LETTERS.
 
 <span class="small-caps">Letter</span> I. On the Disputes of the Sorbonne, and the device  
 of the ‘*Pouvoir prochain,*’ (the ‘ proximate power,’)  
@@ -202,7 +202,7 @@ This short notice cannot be more appropriately concluded than with the elegant t
 
 ### ON PASCAL,
 
-### CONSIDERED AS A WRITER AND A MORALIST.
+#### CONSIDERED AS A WRITER AND A MORALIST.
 
 BY M. VILLEMAIN,
 
@@ -219,7 +219,7 @@ It is proposed now to submit a few remarks upon those works of Pascal, which are
 
 In reflecting upon that precocity of instinct, which from his tenderest age directed the genius of Pascal towards geometrical studies, and led him unconsciously to invent the very elements of the sciences of which he was enamoured, it would be superfluous to inquire, whether that faculty which was thus the earliest developed, was in him the strongest and the most consonant to the quality of his mind. Every talent presupposes an innate mental predisposition; but a multitude of external circumstances and foreign impressions—a thousand unforeseen and incalculable changes—may determine the development of the mental powers in a certain order, without proving a predominance of one over the other. Pascal's father wished to engage his son exclusively in literary studies; but he himself was passionately addicted to mathematics; and his life was absorbed in the science. Denying his child that pursuit at the outset of his education, he held it out to him as the reward of application in the future: he announced geometry to be the fitting study for the man. Daily experience shows us—and in less important instances than the present—that children are prone to imitate, rather than to obey; they adopt our actions, and forget our advice: their curiosity, in short, is most active upon objects that are prohibited. Is it not then probable, that, in an intellect active and penetrating like Pascal's, the very eagerness to acquire a secret and forbidden science would, itself, tend to draw out the mathematical talent that existed within him? Once excited, the passion for the exact sciences—of all others the most powerful in minds over which it has once gained the mastery—kindled the ardour of his genius, by its fascinating revelations, by the novelty of its experiments, and by the certainty of its demonstrations ; and ended, by consuming with excessive labours the larger portion of his brief and fugitive existence !
 
-But, in what way, we ask, in the midst of these benumbing and withering studies, was formed the able, the impassioned orator—the master of language—the creator of our style ? Our great writers have all been produced, either by an im-pulse of early and absorbing inspiration, or by a long and per-severing devotion to their one, undivided pursuit. Pascal, emerging from the profoundest mathematical studies, came at once before the world, the sublimest of writers. In those eloquent pages, which formed the occupation of a portion only of the years allotted to this extraordinary man, we per-ceive neither the commencement nor the progress of genius : the goal is reached at once; the intermediate traces of the advancing footsteps are lost !
+But, in what way, we ask, in the midst of these benumbing and withering studies, was formed the able, the impassioned orator—the master of language—the creator of our style ? Our great writers have all been produced, either by an im-pulse of early and absorbing inspiration, or by a long and persevering devotion to their one, undivided pursuit. Pascal, emerging from the profoundest mathematical studies, came at once before the world, the sublimest of writers. In those eloquent pages, which formed the occupation of a portion only of the years allotted to this extraordinary man, we perceive neither the commencement nor the progress of genius : the goal is reached at once; the intermediate traces of the advancing footsteps are lost !
 
 This singular phenomenon may, in part, be attributable to the very influence of those exact studies, to which Pascal had been addicted, at a period when high intellectual attainments of that nature—as yet comparatively immature and unme-thodized—imposed upon the mind the effort of a continual creation. All was originality, in a study incomplete and progressive. A species of enthusiastic impulse, and a vivid excitement of imagination, accompanied all those early essays of science. It may, thence, be supposed how much more powerful and inspiring would be such contemplations, than those frivolous objects to which literature had been limited under the protection of Richelieu. Could the language and the genius of France be properly developed by writers, who thought of nothing beyond mere language ; and made the study of words, alone, an important science ? To produce true eloquence, the *thought* of man must be elevated. It was the liberty of the ancients that formed the oratory of the ancients. Poetical imitation reproduced the forgotten art in the verses of Corneille; but the nature of our institutions left no place for it any where, except on the boards of the theatre.
 
@@ -298,7 +298,7 @@ The elder Pascal's interest in his son's studies, was, as has been seen, early q
 
 The circumstances which led to the early development of Pascal's mathematical powers are well known; but cannot be passed over in any narrative, however summary, of his remarkable history.
 
-In pursuance of the plan of education which the father had laid down, though himself passionately addicted to the mathematics, he determined to confine his son's studies to languages and general literature, till, according to his views, his mind should have acquired strength and capacity for pursuing the exact sciences with advantage. In this resolution, he withheld all books, and refrained, in his presence, from all conremoval again to Rouen, where owing to some reverse in circumstances, he accepted another official appointment, Pascal, being then in his nineteenth year, invented his celebrated calculating machine, upon which he consumed two years of unintermitted labour. This, though much improved upon in subsequent periods by Leibnitz and others, and brought to still greater perfection in the present day by our own distinguished countryman Babbage, was at that time justly regarded as an astonishing effort of mental labour. The last-named undertaking was followed by his profound researches into the weight and elasticity of air, and their effects upon the equilibrium of fluids, in which he followed up the experiments of Torrecelli; and succeeded in establishing, in a great measure, the present philosophical theories upon these subjects, in opposition to the long-prevalent notion of “ Nature’s abhorrence of a vacuum ;” although he himself, at the outset of his investigations, was a firm believer in that doctrine. The results of these enquiries were published by him in a series of Tracts upon “ Vacuum,” &c. &c. in 1647, at about the period that he attained his twenty-fourth year.
+In pursuance of the plan of education which the father had laid down, though himself passionately addicted to the mathematics, he determined to confine his son's studies to languages and general literature, till, according to his views, his mind should have acquired strength and capacity for pursuing the exact sciences with advantage. In this resolution, he withheld all books, and refrained, in his presence, from all con- removal again to Rouen, where owing to some reverse in circumstances, he accepted another official appointment, Pascal, being then in his nineteenth year, invented his celebrated calculating machine, upon which he consumed two years of unintermitted labour. This, though much improved upon in subsequent periods by Leibnitz and others, and brought to still greater perfection in the present day by our own distinguished countryman Babbage, was at that time justly regarded as an astonishing effort of mental labour. The last-named undertaking was followed by his profound researches into the weight and elasticity of air, and their effects upon the equilibrium of fluids, in which he followed up the experiments of Torrecelli; and succeeded in establishing, in a great measure, the present philosophical theories upon these subjects, in opposition to the long-prevalent notion of “ Nature’s abhorrence of a vacuum ;” although he himself, at the outset of his investigations, was a firm believer in that doctrine. The results of these enquiries were published by him in a series of Tracts upon “ Vacuum,” &c. &c. in 1647, at about the period that he attained his twenty-fourth year.
 
 Little information is left by his biographers of the plan of miscellaneous reading pursued by Pascal up to this time. He still remained under his father’s roof, whose pleasure and pride it was to continue to superintend his studies; and it was doubtless during this period that, in addition to his mathematical labours, he amassed, by intense application, the larger part of those stores of learning, both ancient, and what was then modern, which his writings exhibit. As early, however, as his eighteenth year, his failing health began to show the ill effects of excessive mental labour; the symptoms of complicated disease progressively increased with advancing age; and he was often heard to say, that from that time to the close of his earthly course, he had never experienced a day of entire exemption from suffering.
 
@@ -446,9 +446,9 @@ To conclude, however, these desultory remarks, it ought never to be forgotten, t
 
 ### Letter 1
 
-### LETTER I.
+#### LETTER I.
 
-### ON THE DISPUTES OF THE SORBONNE.
+#### ON THE DISPUTES OF THE SORBONNE.
 
 <span class="small-caps">Sir</span>,
 
@@ -516,9 +516,9 @@ As to yourself, I leave you full liberty to adhere to the term ‘proximate,’ 
 
 ### Letter 2
 
-### LETTER II.
+#### LETTER II.
 
-### ON A SUFFICIENCY OF GRACE.
+#### ON A SUFFICIENCY OF GRACE.
 
 <span class="small-caps">Sir</span>,
 
@@ -570,7 +570,7 @@ Just while I am closing my letter, I am informed that the Censure has been prono
 
 ### Letter 3
 
-### *Reply of the “Provincial” to the two preceding Letters from his Friend.*
+#### *Reply of the “Provincial” to the two preceding Letters<br />from his Friend.*
 
 <span class="small-caps">Sir</span>,
 
@@ -590,11 +590,11 @@ Continue your letters on my recommendation; and let the Censure come when it may
 
 ### Letter 4
 
-### LETTER III.
+#### LETTER III.
 
-### (<span class="small-caps">intended as a reply to the preceding.</span>)
+#### (<span class="small-caps">intended as a reply to the preceding.</span>)
 
-### <span class="small-caps">INJUSTICE, ABSURDITY, AND INSIGNIFICANCE OF THE CENSURE OF M. ARNAULD.</span>
+#### <span class="small-caps">INJUSTICE, ABSURDITY, AND INSIGNIFICANCE OF THE<br />CENSURE OF M. ARNAULD.</span>
 
 <span class="small-caps">Sir</span>,
 
@@ -650,9 +650,9 @@ Let us leave them then to their disputes. They are the controversies of theologi
 
 ### Letter 5
 
-### LETTER IV.
+#### LETTER IV.
 
-### OF GRACE ‘ACTUELLE,’ ALWAYS PRESENT, AND OF SINS OF IGNORANCE.
+#### OF GRACE ‘ACTUELLE,’ ALWAYS PRESENT, AND OF SINS<br />OF IGNORANCE.
 
 <span class="small-caps">Sir</span>,
 
@@ -726,9 +726,9 @@ The Father seemed surprised, and still more at the passage from Aristotle, than 
 
 ### Letter 6
 
-### LETTER V.
+#### LETTER V.
 
-### DESIGN OF THE JESUITS IN THE INSTITUTION OF A NEW MORAL CODE. TWO SORTS OF CASUISTS AMONG THEM; MANY LAX, BUT A FEW SEVERE; THE REASON OF THE DIFFERENCE. EXPLANATION OF THE DOCTRINE OF ‘PROBABILITY.’ A MULTITUDE OF MODERN AND OBSCURE AUTHORS SUBSTITUTED FOR THE FATHERS.
+#### DESIGN OF THE JESUITS IN THE INSTITUTION OF A NEW MORAL CODE. TWO SORTS OF CASUISTS AMONG THEM; MANY LAX, BUT A FEW SEVERE; THE REASON OF THE DIFFERENCE. EXPLANATION OF THE DOCTRINE OF ‘PROBABILITY.’ A MULTITUDE OF MODERN AND OBSCURE AUTHORS SUBSTITUTED FOR THE FATHERS.
 
 <span class="small-caps">Sir</span>,
 
@@ -774,8 +774,10 @@ I was delighted to find him thus fall into the topic I desired; and eagerly expr
 
 “Admirable! my good Father, your doctrine is most convenient. So, you may reply Yes or No, at your pleasure! It is impossible to estimate too highly such an advantage. I now see the use of the opposing opinions held by your authorities on all subjects; for the one are always serviceable, and the other can never be injurious. If you don’t find your account on the one side, you try the other, and are thus always secure.” “It is very true,” he replied; “and thus we can always say, with Diana, who had Father Bauny on his side, while Father Lugo was against him,
 
-‘Sœpe, premente Deo, fert Deus alter opem.’  
-‘Si quelque Dieu nous presse, un autre nous delivre.’
+> **[verse_insert]**
+>
+> ‘Sœpe, premente Deo, fert Deus alter opem.’  
+> ‘Si quelque Dieu nous presse, un autre nous delivre.’
 
 “I understand you,” said I; “but there is one difficulty, to my mind; suppose, after consulting one of your doctors, and receiving from him a somewhat latitudinarian opinion, you were to fall in with another more severe in his views, and who would not give absolution without a change of opinion? Have you not given directions for such a contingency?” “Can you doubt it?” he replied; “they are *compelled* to absolve such penitents as hold the probable opinions in question, on pain of being held guilty of mortal sin if they refuse. This has been clearly proved by our writers, and among others Père Bauny, tr. 4, de pœnit. qu. 13, p. 19. ‘When the penitent,’ he says, ‘acts upon the authority of a probable opinion, the confessor must absolve him, even if his own opinion differ from that of the penitent.’” “But he does not say it is a mortal sin not to absolve him.” “You are too hasty!” said he; “hear what follows: it is expressly laid down, ‘To refuse absolution to a penitent for an act committed in pursuance of a probable opinion, is an offence, in its very nature, mortal.’ And he quotes, in confirmation of this sentiment, three of the most eminent of our Fathers, Saurez, Vol. 4, dist. 32, sect. 5; Vasquez, disp. 62, ch. 7, et Sanchez, N. 29.”
 
@@ -789,9 +791,9 @@ This was the conclusion of our conference, as it will be of my present communica
 
 ### Letter 7
 
-### LETTER VI.
+#### LETTER VI.
 
-### VARIOUS ARTIFICES OF THE JESUITS FOR EVADING THE AUTHORITY OF THE SCRIPTURES, THE COUNCILS, AND THE POPES.  CERTAIN CONSEQUENCES OF THEIR DOCTRINE OF PROBABILITY.  THEIR INDULGENCE IN FAVOUR OF BENEFICIARIES, PRIESTS, MEMBERS OF RELIGIOUS ORDERS, AND SERVANTS.  HISTORY OF JOHN D'ALBA.
+#### VARIOUS ARTIFICES OF THE JESUITS FOR EVADING THE<br />AUTHORITY OF THE SCRIPTURES, THE COUNCILS, AND<br />THE POPES.  CERTAIN CONSEQUENCES OF THEIR<br />DOCTRINE OF PROBABILITY.  THEIR INDULGENCE IN<br />FAVOUR OF BENEFICIARIES, PRIESTS, MEMBERS OF<br />RELIGIOUS ORDERS, AND SERVANTS.  HISTORY OF<br />JOHN D'ALBA.
 
 <span class="small-caps">Sir</span>,
 
@@ -859,9 +861,9 @@ This is all then, my friend, that you must receive from me to-day; for it will t
 
 ### Letter 8
 
-### LETTER VII.
+#### LETTER VII.
 
-### ON THE METHOD USED BY THE CASUISTS IN REGULAT- ING MOTIVES. THE PERMISSION GIVEN TO THEM TO TAKE LIFE, IF IN DEFENCE OF HONOUR AND PRO- PERTY, EXTENDED MOREOVER TO THE PRIESTHOOD AND RELIGIOUS ORDERS. CURIOUS QUESTION PRO- POSED BY CARAMUEL, WHETHER IT IS LAWFUL FOR JESUITS TO KILL JANSENISTS.
+#### ON THE METHOD USED BY THE CASUISTS IN REGULAT- ING MOTIVES. THE PERMISSION GIVEN TO THEM TO TAKE LIFE, IF IN DEFENCE OF HONOUR AND PRO- PERTY, EXTENDED MOREOVER TO THE PRIESTHOOD AND RELIGIOUS ORDERS. CURIOUS QUESTION PRO- POSED BY CARAMUEL, WHETHER IT IS LAWFUL FOR JESUITS TO KILL JANSENISTS.
 
 <span class="small-caps">Sir</span>,
 
@@ -923,9 +925,9 @@ What I write to you then is on the word of this good Father: but now my paper fa
 
 ### Letter 9
 
-### LETTER VIII.
+#### LETTER VIII.
 
-### CORRUPT DECISIONS OF THE CASUISTS RELATING TO JUDGES, USURERS, THE ‘MOHATRA’ CONTRACT, BANK- RUPTS, RESTITUTIONS, ETC.  VARIOUS OTHER OBLI- QUITIES OF THE SAME AUTHORITIES.
+#### CORRUPT DECISIONS OF THE CASUISTS RELATING TO<br />JUDGES, USURERS, THE ‘MOHATRA’ CONTRACT, BANK-<br />RUPTS, RESTITUTIONS, ETC.  VARIOUS OTHER OBLI-<br />QUITIES OF THE SAME AUTHORITIES.
 
 <span class="small-caps">Sir</span>,
 
@@ -985,9 +987,9 @@ P.S. I have continually forgotten to say, there are several editions of Escobar.
 
 ### Letter 10
 
-### LETTER IX.
+#### LETTER IX.
 
-### ON THE FALSE WORSHIP OF THE VIRGIN MARY INTRODUCED BY THE JESUITS. VARIOUS FACILITIES INVENTED BY THEM FOR ATTAINING SALVATION WITHOUT LABOUR, AND AMIDST THE CONVENIENCES AND ENGAGEMENTS OF LIFE. THEIR MAXIMS IN REGARD TO AMBITION, ENVY, GLUTTONY, EQUIVOCATION, MENTAL RESERVATION, INDULGENCES ALLOWED TO FEMALES AND THEIR DRESS, GAMING, HEARING MASS.
+#### ON THE FALSE WORSHIP OF THE VIRGIN MARY INTRODUCED BY THE JESUITS. VARIOUS FACILITIES INVENTED BY THEM FOR ATTAINING SALVATION WITHOUT LABOUR, AND AMIDST THE CONVENIENCES AND ENGAGEMENTS OF LIFE. THEIR MAXIMS IN REGARD TO AMBITION, ENVY, GLUTTONY, EQUIVOCATION, MENTAL RESERVATION, INDULGENCES ALLOWED TO FEMALES AND THEIR DRESS, GAMING, HEARING MASS.
 
 <span class="small-caps">Sir.</span>
 
@@ -1041,9 +1043,9 @@ We here separated; and I suppose our next conversation will be upon this branch 
 
 ### Letter 11
 
-### LETTER X.[^fn-p0242-1]
+#### LETTER X.[^fn-p0242-1]
 
-### MITIGATIONS INTRODUCED BY THE JESUITS IN THE SACRAMENT OF PENANCE, BY THEIR MAXIMS RE- SPECTING CONFESSION, SATISFACTION, ABSOLUTION, PROXIMATE OCCASIONS OF SIN, CONTRITION, AND THE LOVE OF GOD.
+#### MITIGATIONS INTRODUCED BY THE JESUITS IN THE SACRAMENT OF PENANCE, BY THEIR MAXIMS RE- SPECTING CONFESSION, SATISFACTION, ABSOLUTION, PROXIMATE OCCASIONS OF SIN, CONTRITION, AND THE LOVE OF GOD.
 
 <span class="small-caps">Sir</span>,
 
@@ -1099,9 +1101,9 @@ After some further remarks of the same nature, I parted from the Father; and we 
 
 ### Letter 12: FATHERS OF THE SOCIETY OF JESUS
 
-### LETTER XI.
+#### LETTER XI.
 
-### TO THE REVEREND THE FATHERS OF THE SOCIETY OF JESUS.
+#### TO THE REVEREND THE FATHERS OF THE<br />SOCIETY OF JESUS.
 
 ERRORS OF A RIDICULOUS NATURE MAY BE REFUTED BY RAILLERY. RESERVATIONS TO BE OBSERVED IN ITS USE, WHICH HAVE BEEN OBSERVED BY MONTALTE,[^fn-p0263-1] BUT HAVE BEEN DISREGARDED BY THE JESUIT WRITERS. IMPIOUS BUFFOONERIES OF PERES LE MOINE AND GARASSE.
 
@@ -1161,20 +1163,22 @@ But if you are desirous indeed that I should briefly exhibit to you a conduct at
 
 To begin, then, with the contemptuous manner in which the authors of your school deal with sacred things, whether in their jocularities, their gallantries, or their serious discussions, would you consider the various absurd stories introduced by your Père Benit, into his “ Consolations for the Sick,” as very appropriate to his ostensible design of furnishing Christian consolation to those who are suffering under the afflictions of God? Would you maintain that the profane and wanton manner in which the Père Le Moine talks of piety, in his “ Devotion made Easy,” is calculated to inspire respect for the picture he draws of Christian virtue? Does his entire work of “ Moral Portraits”—whether the prose or the verse—breathe of aught but the vanity and follies of the world? Is the poem in the seventh book entitled “ Praises of Modesty,” worthy of an ecclesiastic, purporting to show that every thing fair blushes, or is subject to blushing? It professes to be intended to console a lady, who is called Delphine, and who had a habit of frequent blushing. The burthen of each stanza is, that every thing most admired is of a blushing hue, such as roses, pomegranates, the lips, the tongue; and it is amongst these gallantries, disgraceful to a Pietist, that he dares indecently to mix up allusions to those *blessed spirits* who stand before the Lord, and whom the Christian should never name but with reverence.[^fn-p0277-1]
 
-‘ Les chérubins, ces glorieux  
-Composés de tête et de plume,  
-Que Dieu de son esprit allume,  
-Et qu’il éclaire de ses yeux;  
-Ces illustres faces volantes  
-Sont toujours rouges et brûlantes  
-Soit du feu de Dieu, soit du leur,  
-Et dans leur flammes mutuelles  
-Font du mouvement de leur ailes  
-Un eventail a leur chaleur.  
-Mais la rougeur éclate en toi,  
-Delphine, avec plus d’avantage,  
-Quand l’honneur est sur ton visage  
-Vêtu de pourpre comme un roi, &c.
+> **[verse_insert]**
+>
+> ‘ Les chérubins, ces glorieux  
+> Composés de tête et de plume,  
+> Que Dieu de son esprit allume,  
+> Et qu’il éclaire de ses yeux;  
+> Ces illustres faces volantes  
+> Sont toujours rouges et brûlantes  
+> Soit du feu de Dieu, soit du leur,  
+> Et dans leur flammes mutuelles  
+> Font du mouvement de leur ailes  
+> Un eventail a leur chaleur.  
+> Mais la rougeur éclate en toi,  
+> Delphine, avec plus d’avantage,  
+> Quand l’honneur est sur ton visage  
+> Vêtu de pourpre comme un roi, &c.
 
 What will you say, Fathers, to the preference assigned to the blushes of Delphine over the glowing ardours of those spiritual beings, inspired by Divine love alone? And the comparison of a fan to the mysterious flutterings of their wings—is that consistent with Christian decorum, in one who performs the function of consecrating the holy body of the Saviour? I know the scope of the composition is only gallantry and banter: but what is all that, but turning sacred things into jest? And is it any valid plea to urge, as is done in the first book, in language equally unbecoming—“ The Sorbonne extends not its jurisdiction over Parnassus, and the errors of that fair region are not obnoxious to its censures or inquisitions:” as if blasphemy and impiety were only blameable in prose! But, at all events, such a plea would not avail for the following passage, taken from the preface to the same work: “ The river, on the border of which the author has composed these verses, is so calculated for the formation of poets, that if *baptismal* water were to be taken from it, it would not have the effect of driving away the spirit of poetry?” Nor that again of your Père Garasse in his Summary of the Chief Truths of Religion, p. 640, in which he adds blasphemy to heresy, in the followlng language on the sacred mystery of the Incarnation: “ The human personality has been, as it were, grafted, or mounted[^fn-p0278-1] on the back of the personality of the Word.” And that other passage of the same author, p. 510—besides other similar—in which he utters a stupid jest upon the name of Jesus, designated usually thus, J. H. S.
 
@@ -1188,9 +1192,9 @@ P. S.—Since closing my letter, I have seen a publication emanating from your S
 
 ### Letter 13
 
-### LETTER XII.
+#### LETTER XII.
 
-### <span class="small-caps">REFUTATION OF THE SOPHISTRIES OF THE JESUITS ON THE SUBJECTS OF ALMS-GIVING AND SIMONY.</span>
+#### <span class="small-caps">REFUTATION OF THE SOPHISTRIES OF THE JESUITS ON<br />THE SUBJECTS OF ALMS-GIVING AND SIMONY.</span>
 
 <span class="small-caps">Reverend Fathers,</span>
 
@@ -1200,7 +1204,7 @@ The foremost of your charges of imposture is concealing the ‘opinion of Vasque
 
 It is well known, Sirs, that according to the authority of the Church, there are two precepts on the subject of alms ; the one, to give of our superfluity for relieving the ordinary necessities of the poor, the other to give of what is even necessary to ourselves (according to our means,) in cases of extreme destitution. This is what is laid down by Cajetan following St. Thomas ; so that, to ascertain the spirit of Vasquez’ regulations of alms-giving, we must examine his directions, both as to what may be deemed superfluous, and what necessary.
 
-As to superfluity, which is the most usual resource for the relief of the poor, this is entirely got rid of by the tenet I recited in my letter, De Fl. c. 4, N. 14, viz. ‘That which persons, moving in the world, retain for supporting their station in society, and that of their relatives, is not to be deemed superfluous. Therefore it can rarely happen that such persons, *even of the most exalted rank*—not excepting Sovereigns—can be said to possess a superfluity.’ You see therefore, my Fathers, that accord-ing to this definition, no persons of an aspiring disposition are likely to suffer under a superfluity of possessions : and by this means, alms-giving, in regard to the greater part of the world, is virtually abolished.
+As to superfluity, which is the most usual resource for the relief of the poor, this is entirely got rid of by the tenet I recited in my letter, De Fl. c. 4, N. 14, viz. ‘That which persons, moving in the world, retain for supporting their station in society, and that of their relatives, is not to be deemed superfluous. Therefore it can rarely happen that such persons, *even of the most exalted rank*—not excepting Sovereigns—can be said to possess a superfluity.’ You see therefore, my Fathers, that according to this definition, no persons of an aspiring disposition are likely to suffer under a superfluity of possessions : and by this means, alms-giving, in regard to the greater part of the world, is virtually abolished.
 
 But even if this were not the case, men would be dispensed from this duty, in cases of ordinary necessity, according to Vasquez; who impugns *entirely* any obligation of the kind on the part of the rich. These are his words, ch. 1, d. 4, N. 32. ‘ Corduba,’ he says, ‘ teaches that those who enjoy a superfluity of means are bound to distribute, at least some portion to all who are in circumstances of ordinary necessity, in order, in some measure, to conform to the precepts of the church on this head; but this I do not agree with: ‘ sed hoc *non placet;*’ for we have demonstrated the contrary, in opposition to Cajetan and Navarre.’ Thus, my Fathers, the obligation to alms-giving, under this head, is according to this decision entirely abolished.
 
@@ -1252,7 +1256,7 @@ Yet, Sirs, for your own sakes, I cannot but lament to see you resorting to such 
 
 ### Letter 14
 
-### *Refutation of the Reply of the Society to the preceding (12th) Letter.*
+#### *Refutation of the Reply of the Society to the preceding<br />(12th) Letter.*
 
 <span class="small-caps">Sir</span>,
 
@@ -1308,9 +1312,9 @@ Our controversy, with the help of God, shall not stop here; but it shall be now 
 
 ### Letter 15
 
-### LETTER XIII.
+#### LETTER XIII.
 
-### THAT THE DOCTRINE OF LESSIUS UPON HOMICIDE IS THE SAME AS THAT OF VICTORIA. HOW EASY IS THE TRANSITION FROM SPECULATION TO PRACTICE. THE REASON OF THE JESUITS AVAILING THEMSELVES OF THIS FUTILE DISTINCTION, AND THEIR CULPABILITY IN SO DOING.
+#### THAT THE DOCTRINE OF LESSIUS UPON HOMICIDE IS THE SAME AS THAT OF VICTORIA. HOW EASY IS THE TRANSITION FROM SPECULATION TO PRACTICE. THE REASON OF THE JESUITS AVAILING THEMSELVES OF THIS FUTILE DISTINCTION, AND THEIR CULPABILITY IN SO DOING.
 
 <span class="small-caps">My Revered Fathers.</span>
 
@@ -1380,9 +1384,9 @@ To conclude, then, Reverend Fathers; since your doctrine of probability renders 
 
 ### Letter 16: Reverend Fathers
 
-### LETTER XIV.
+#### LETTER XIV.
 
-### REFUTATION FROM SCRIPTURE, THE HOLY FATHERS, &c., OF THE JESUIT MAXIMS UPON HOMICIDE. PASSING REPLY TO VARIOUS OTHER SLANDERS, AND COMPARISON OF THEIR DOCTRINE WITH THE FORMALITIES OBSERVED IN CRIMINAL PROCESSES.
+#### REFUTATION FROM SCRIPTURE, THE HOLY FATHERS, &c., OF THE JESUIT MAXIMS UPON HOMICIDE. PASSING REPLY TO VARIOUS OTHER SLANDERS, AND COMPARISON OF THEIR DOCTRINE WITH THE FORMALITIES OBSERVED IN CRIMINAL PROCESSES.
 
 <span class="small-caps">Reverend Fathers,</span>
 
@@ -1458,9 +1462,9 @@ P. S.—I have just seen the reply of your apologist to my 13th Letter: but if h
 
 ### Letter 17: Reverend Fathers
 
-### LETTER XV.
+#### LETTER XV.
 
-### SUBJECT; THE JESUITS HAVE WITHDRAWN CALUMNY FROM THE CATALOGUE OF CRIMES, AND MAKE NO SCRUPLE OF AVAILING THEMSELVES OF ITS AID TO CONFUTE THEIR OPPONENTS.
+#### SUBJECT; THE JESUITS HAVE WITHDRAWN CALUMNY FROM THE CATALOGUE OF CRIMES, AND MAKE NO SCRUPLE OF AVAILING THEMSELVES OF ITS AID TO CONFUTE THEIR OPPONENTS.
 
 <span class="small-caps">Reverend Fathers,</span>
 
@@ -1528,9 +1532,9 @@ This is the undertaking which I have here commenced ; but much time will be requ
 
 ### Letter 18: Reverend Fathers
 
-### LETTER XVI.
+#### LETTER XVI.
 
-### THE JESUITS' SHAMEFUL CALUMNIES AGAINST PIOUS ECCLESIASTICS, AND HOLY WOMEN.
+#### THE JESUITS' SHAMEFUL CALUMNIES AGAINST PIOUS<br />ECCLESIASTICS, AND HOLY WOMEN.
 
 <span class="small-caps">Reverend Fathers,</span>
 
@@ -1614,9 +1618,9 @@ I have just learnt that the person to whom every one attributed your apologies d
 
 ### Letter 19: R. P. Annat
 
-### LETTER XVII.
+#### LETTER XVII.
 
-### ADDRESSED TO R. P. ANNAT, JESUIT.[^fn-p0417-1]
+#### ADDRESSED TO R. P. ANNAT, JESUIT.[^fn-p0417-1]
 
 <span class="small-caps">Reverend Father</span>,                    *January* 23, 1657.
 
@@ -1698,11 +1702,11 @@ The world then must be told, that, by your own confession, that sacred doctrine 
 
 ### Letter 20: M. R. P. Annat
 
-### LETTER.[^fn-p0445-1]
+#### LETTER.[^fn-p0445-1]
 
-### (<span class="small-caps">supplementary to letter xvii.</span>)
+#### (<span class="small-caps">supplementary to letter xvii.</span>)
 
-### <span class="small-caps">to M. R. P. Annat, Confessor to the King, on his work, entitled “The Good Faith of the Jan- senists,” &c.</span>
+#### <span class="small-caps">to M. R. P. Annat, Confessor to the King, on his<br />work, entitled “The Good Faith of the Jan-<br />senists,” &c.</span>
 
 <span class="small-caps">Reverend Father.</span>
 
@@ -1746,9 +1750,9 @@ I have now done ; for, as to the details of your fallacies and misrepresentation
 
 ### Letter 21: R. P. Annat
 
-### LETTER XVIII.
+#### LETTER XVIII.
 
-### ADDRESSED TO R. P. ANNAT, JESUIT. SHOWING STILL MORE INCONTROVERTIBLY, AND EVEN FROM THE PERE ANNAT'S OWN ANSWER, THAT NO HERESY EXISTS IN THE CHURCH; THAT EVERY ONE CONDEMNS THE DOCTRINE UNJUSTLY ALLEGED BY THE JESUITS TO BE FOUND IN THE WRITINGS OF JANSENIUS; AND CONSEQUENTLY ALL THE FAITHFUL ARE AGREED ON THE SUBJECT OF THE FIVE PROPOSITIONS. THE DIFFERENCE BETWEEN MATTERS OF BELIEF AND OF FACT, AND THAT IN THE LATTER WE SHOULD RELY RATHER ON THE EVIDENCE OF THE SENSES THAN ON HUMAN AUTHORITY.
+#### ADDRESSED TO R. P. ANNAT, JESUIT. SHOWING STILL MORE INCONTROVERTIBLY, AND EVEN FROM THE PERE ANNAT'S OWN ANSWER, THAT NO HERESY EXISTS IN THE CHURCH; THAT EVERY ONE CONDEMNS THE DOCTRINE UNJUSTLY ALLEGED BY THE JESUITS TO BE FOUND IN THE WRITINGS OF JANSENIUS; AND CONSEQUENTLY ALL THE FAITHFUL ARE AGREED ON THE SUBJECT OF THE FIVE PROPOSITIONS. THE DIFFERENCE BETWEEN MATTERS OF BELIEF AND OF FACT, AND THAT IN THE LATTER WE SHOULD RELY RATHER ON THE EVIDENCE OF THE SENSES THAN ON HUMAN AUTHORITY.
 
 <span class="small-caps">Reverend Father</span>,
 
@@ -1840,9 +1844,9 @@ This, Reverend Sir, is the object I had at heart. It was an object, to my appreh
 
 ### Letter 22: PERE ANNAT
 
-### LETTER XIX.
+#### LETTER XIX.
 
-### <span class="small-caps">FRAGMENT OF A NINETEENTH PROVINCIAL LETTER, ADDRESSED TO THE PERE ANNAT.</span>
+#### <span class="small-caps">FRAGMENT OF A NINETEENTH PROVINCIAL LETTER,<br />ADDRESSED TO THE PERE ANNAT.</span>
 
 <span class="small-caps">Reverend Sir,</span>
 
@@ -1856,9 +1860,9 @@ For, after due representations had been made to them, of the penalties they woul
 
 ### Letter 23
 
-### LETTER XX.[^fn-p0488-1]
+#### LETTER XX.[^fn-p0488-1]
 
-### ORIGINALLY PUBLISHED UNDER THE TITLE OF A LETTER FROM AN ADVOCATE OF PARLIAMENT TO A FRIEND, RESPECTING THE INQUISITION PROPOSED TO BE ESTA- BLISHED IN FRANCE, IN PURSUANCE OF THE RECENT BULL OF POPE ALEXANDER VII.
+#### ORIGINALLY PUBLISHED UNDER THE TITLE OF A LETTER<br />FROM AN ADVOCATE OF PARLIAMENT TO A FRIEND,<br />RESPECTING THE INQUISITION PROPOSED TO BE ESTA-<br />BLISHED IN FRANCE, IN PURSUANCE OF THE RECENT<br />BULL OF POPE ALEXANDER VII.
 
 <span class="small-caps">Sir,</span>
 
@@ -2027,9 +2031,9 @@ Should, however, the Parliament take cognizance at all of the matter, I shall no
 
 * * *
 
-### No. I.
+#### No. I.
 
-### *Censure and Condemnation of the Provincial Letters.*
+##### *Censure and Condemnation of the Provincial Letters.*
 
 (From the French of M. Villemain.)
 
@@ -2049,7 +2053,7 @@ In order to give an idea of the conscientious dealing of the detractors of the P
 
 > “ This proceeding closed the writer’s mouth ; and subsequently, all the letters were condemned by the Pope, on the 6th September, 1657, having been previously burnt by the hands of the public executioner, by a Decree of the Parliament of Aix, of Feb. 22, 1657—the same having been also done at Paris, by a Decree of the Council of State held coincidently with a convocation of Prelates and Doctors.”
 
-### *Condemnation of the Letters of M. Pascal, this Tuesday, 6th September,* 1657.
+#### *Condemnation of the Letters of M. Pascal, this Tuesday,<br />6th September,* 1657.
 
 At a general congregation of the holy and universal Inquisition of Rome, held at the Apostolical Palace of St. Marie-Majeure, in presence of our most holy Father Alexander, by the grace of God, Pope, the seventh of that name, and of the most eminent and reverend Cardinals, Inquisitors General of the heretics, in the Christian Republic, specially appointed by the Apostolic See.
 
@@ -2061,13 +2065,13 @@ Eighteen Letters written in French, whose titles are— [Here follow the titles 
 
 “ In order to give wider circulation to the Provincial Letters, and to excite still more disgust at the alleged laxities of the Jesuits, it was determined to translate them into Latin,[^fn-p0514-1] and to add to them notes still more calumnious than the text. The success of the proceeding was not what had been anticipated. Montaltius, which was the name adopted by the translator, and Wendrock, that of the author of the notes, were examined by Royal order; for which purpose a commission was appointed of four of the most eminent Bishops and six learned Doctors. They gave an opinion upon the two works, to the effect that the heresies condemned in Jansenius were openly maintained in them, and that they abounded in sentiments injurious to the Pope, the Bishops, the sacred person of the King, his Ministers, the faculty of Paris, and the religious orders. Accordingly they were remitted by Decree of the Council of State, on the report of M. Balthazar, to the Civil Lieutenant, to be burnt by the common executioner. The Decree is dated the 23rd September, 1660: the sentence of the Lieutenant, the 8th Oct.; and they were carried into execution at the Croix-du-Tiroir, on the 14th of the same month, 1660. They added to these two works, one entitled ‘ Disquisitions of Paul Irénée,’ which shared the same fate.”
 
-### *Sentence of the Bishops and Docters upon the Latin Transla- tion of the Provincial Letters.*
+#### *Sentence of the Bishops and Docters upon the Latin Transla- tion of the Provincial Letters.*
 
 We the undersigned, nominated by the Decree in Council of his Majesty to report our opinion of a work entitled “ Letters to a Provincial, by Louis de Montalte,” &c. Having diligently examined the said work, we declare that we find the heresies of Jansenius, condemned by the Church, to be contained and defended therein, both in the Letters of the said Louis de Montalte, and the notes upon the same by Guillaume Wendrock ; as also in the Disquisitions of Paul Irénée, subjoined to the same : all which is so manifest, that if any one deny it, he either cannot have read or understood the books, or, what is worse, he does not allow to be heretical that which has been condemned as such by the Gallican Church and the sacred faculty of Paris. We further declare, that these three authors are so insolent and so hardened in defamation that they spare neither rank nor persons ; neither the Sovereign Pontiff, nor Bishops, nor the King, nor his Ministers, nor the sacred faculty of Paris, nor religious orders: and therefore we hold the said work to be liable to the penalties adjudged against defamatory libels and heretical writings. Given at Paris this 7th Sept. 1660.
 
 Henry de la Motte, Bishop of Rennes ; Harduin, Bishop of Rhodes; Francis, Bishop of Amiens ; Charles, Bishop of Suissons ; M. Grandin ; G. de L’Estocq ; C. Morel ; L. Bail; Chapelas, Curate of St. Jacques ; Chamillard ; Saussay ; F. Jean Nicolay, de L’ordre de Frères Prescheurs ; F. M. de Gangy, Carme.
 
-### *Decree of the Council of State against the Letters to a Provincial.*
+#### *Decree of the Council of State against the Letters to a<br />Provincial.*
 
 Seeing, by the King in Council, a Decree was issued on the 12th of August last, on the subject of various complaints made to his Majesty, purporting that, besides that the Constitutions of Popes Innocent X. and Alexander VII. condemn the doctrine of Jansenius, Bishop of Ypres, contained in the work entitled “Augustinus,” and the said conclusions have been admitted by the General Assembly of the Clergy of France, published by the prelates in their dioceses, executed by the Universities, confirmed also by the declarations of his Majesty, and registered by the Parliamentary Courts: notwithstanding which, writings are being continually published, which support the said condemned doctrine; and, among others, a publication under the title of “Ludovici Montalti Litterae Provinciales,” &c., which, besides containing heretical propositions, is defamatory of the memory of the late King Louis XIII., of glorious memory, and to that of his principal Ministers of State; by which Decree his Majesty, in his care for public welfare, has directed that the said book shall be remitted, through the Sieur Balthazar, Commissioner, to be read and inspected, and to receive the opinions of the Bishops of Rennes, Rhodes, Amiens, and Soissons, together with Messieurs Grandin, &c., &c., &c., and Fathers Nicolai and Gangy, Doctors of the Sorbonne, and a report to be made by them thereupon: the Procès verbal of the said Commissioners of the 7th of this September, purports, that having diligently examined the said book, they declare that the heresies of Jansenius, condemned by the Church, are maintained and defended in all the aforesaid writings. So manifest is this, that if any one deny it, &c., &c., (as in the preceding document) and the said works are liable to the penalties awarded against defamatory libels and heretical works.—Upon these premises, his Majesty in Council ordains and commands that the said book shall be remitted to the Sieur Daubrai, Lieutenant of the Chatelet, Paris, to be caused by him to be burnt by the common executioner : of the execution of which Decree his Majesty is to be apprized in eight days herefrom : and in the mean time all booksellers, printers, librarians, colporteurs, and others, are expressly forbidden to print, sell, and publish, or to have in their possession the said Book, with or without notes, additions, and disquisitions of the said Wendrock and Paul Irénée, on pain of condign punishment. And this Decree shall be at once carried into execution : any opposition or appeal notwithstanding, of which, if any such be made, his Majesty reserves to himself the cognizance thereof, without intervention of any other authorities. Given at the Council of State—his Majesty being present thereat—at Paris, this 23rd day of September, 1660.
 
@@ -2079,7 +2083,7 @@ Seeing, by the King in Council, a Decree was issued on the 12th of August last, 
 
 ### No. II.
 
-### ARNAULD.
+#### ARNAULD.
 
 <span class="small-caps">Antoine Arnauld</span> was the son of the eminent advocate of the same name, who is distinguished in the annals of the French bar, by having sustained the cause of the University of Paris, in their proceedings against the Jesuits, at the close of the sixteenth century. His brilliant invectives on that memorable occasion, raised a storm against the principles and practice of that body, which was never afterwards allayed. His name, also, as well as that of his illustrious son, and other members of his family, is intimately associated with the records of the Port Royal. He bore, indeed, the title of its “Father;” having made large contributions to its funds: and, after his death, his widow and several surviving daughters became inmates within its walls.
 
@@ -2144,7 +2148,7 @@ These mighty tomes, however, although they excited the deepest interest, and ser
 
 ### No. III.
 
-### NICOLE.
+#### NICOLE.
 
 <span class="small-caps">Peter Nicole</span> was born at Chartres in 1625, where he also received the rudiments of his education. His talents early developed themselves, and at the age of fourteen he became a proficient in the Latin and Greek classics. His father then, seeing in him the promise of great attainments, sent him to Paris, for a course of philosophical studies; and there he early made acquaintance with the members of the Port Royal, formed the determination to share their labours, and eventually became a partaker of their celebrity and persecutions. As soon as he had finished his allotted course of instruction, he formally joined their Society, and his distinguished attainments in general literature pointed him out as the most suitable among their number for the department of the ‘Belles Lettres.’ Their choice was fully justified by the names of the distinguished scholars who, in that class, enjoyed the benefits of his instruction; especially the great Racine, the superiority of whose genius he at once discerned, and took the greatest pains to develop and direct.
 
@@ -2162,7 +2166,7 @@ On his return some years after to France, he employed himself in the composition
 
 ### No. IV.
 
-### <span class="small-caps">DE SACY (LOUIS ISAAC LE MAITRE).</span>[^fn-p0532-1]
+#### <span class="small-caps">DE SACY (LOUIS ISAAC LE MAITRE).</span>[^fn-p0532-1]
 
 <span class="small-caps">The</span> family name of this member of the Port Royal brotherhood was Le Maitre, but the designation above given, derived from an inversion of his Christian name Isaac, is that by which he is most commonly known. He was born at Paris, in 1613 ; and from a very early age exhibited marks of superior talent, and still more of piety and wisdom. His education was carried on with that of his uncle, by his mother's side, the eminent Anthony Arnauld. The uncle, was, however, but little older than his nephew, and they pursued their studies together, till the latter had reached his fourteenth year. At that time his mother removed to a house which she had built in the precincts of the Port Royal; and that step at once brought the young student into intimate communion with the devoted fraternity assembled within its walls, and in the end led to his joining their body.
 
@@ -2197,9 +2201,9 @@ Another brother, also older than Isaac, was Simon Sieur de Sericourt. He had att
 
 ### No. V.
 
-### PERE ANNAT,
+#### PERE ANNAT,
 
-### *Assistant of the Society of Jesuits in France; afterwards Provincial; and Confessor to Louis XIV.*
+##### *Assistant of the Society of Jesuits in France; afterwards<br />Provincial; and Confessor to Louis XIV.*
 
 <span class="small-caps">The</span> preceding slight sketches of the leading members of the Port Royal would be incomplete without a notice of their opponent and persecutor Annat, the head of the Jesuits at the period of the Arnauld-controversy. He was born at Rourgus, in 1590, entered the Society in 1607, and took the vows in 1624. He became a teacher of philosophy and divinity at Toulouse ; and his acquirements and talents attracting attention, he was invited to Rome, and speedily appointed to the office of Censor-General and Theologist to the General of the Society. In 1645, he was promoted to the office of Assistant in France ; and on the death of Picolimini, he was made Provincial of the Province of France. In 1654 he obtained the high distinction of Confessor to the King, which appointment he held till 1670, when age and infirmity induced him to seek retirement, and he died shortly after. His life and character exhibited a large measure of the usual qualities of the higher class of Jesuit leaders ; he was irreproachable in personal conduct, politic, acute, an uncompromising supporter of his church, a bitter foe to all opinions that deviated from her creed, and possessed learning and talent, but no genius. He wrote; but not a line of his is preserved or remembered; and little of him remains but the name; while the objects of his persecutions are embalmed in the love and veneration of posterity. A pleasing trait of his character is said to have been his disinterestedness, and marked abstinence from using the advantages of his high position for the advancement of relatives and friends.
 
@@ -2207,13 +2211,13 @@ Another brother, also older than Isaac, was Simon Sieur de Sericourt. He had att
 
 ### No. VI.
 
-### THE DUKE DE ROUANNEZ.
+#### THE DUKE DE ROUANNEZ.
 
 (Extracted from a Memoir of Madame Perier.[^fn-p0540-1])
 
 M. de <span class="small-caps">Rouannez</span> was the son of the Marquis de Boissy. His mother was daughter of M. Hennequin, President of the Parliament, and grandson of the Duke de Rouannez: his grandmother was sister of the Count d'Harcourt. He lost his father at the age of eight or nine years, and was placed under the care of his grandfather, who was a person destitute of religious principle, of a violent temperament, and little fitted to conduct beneficially the training of a young person. He committed his grandson to a tutor, as ill qualified as himself; giving him directions to bring him up with court manners, to let him even learn to swear, and in every way to acquire the habits common then to the youth of quality. Fortunately for him, he lost his grandfather when about the age of thirteen, and then became his own master. His mother was a well-disposed and simple-minded person, but not fitted to have the management of a youth of his age. Under all these disadvantages, however, he seems to have early imbibed religious sentiments ; his parts also were good, but he had little application to study. It is not certain at what age he was when he first made the acquaintance of Pascal, who re-sided in his neighbourhood ; but he was much impressed with his piety and intelligence, and several times took him to his own residence in Poitou : in short his society became indis-pensable to him.
 
-When M. de Rouannez was about twenty-two or twenty-three, Pascal having then entirely given himself to the service of God, and resolved to abandon the world, persuaded his youthful friend to enter into his views. His mind became deeply impressed as to his future course of life, and in about his twenty-fourth or twenty-fifth year, he resolved, under the advice of Pascal and his friend M. Singlin, to set apart a period of time to seek divine direction for the purpose. This he did. Pascal was then his inmate : he appropriated to his use an apartment in his own dwelling, which he at all times commanded, although he had his own residence in Paris. At length, after much reflection, M. de Rouannez took the decided resolution to abandon the world. He announced his purpose to Pascal and Singlin ; and told them that he should take an early opportunity to obtain the King's permis-sion to dispose of his estates, and to retire into the Port Royal.
+When M. de Rouannez was about twenty-two or twenty-three, Pascal having then entirely given himself to the service of God, and resolved to abandon the world, persuaded his youthful friend to enter into his views. His mind became deeply impressed as to his future course of life, and in about his twenty-fourth or twenty-fifth year, he resolved, under the advice of Pascal and his friend M. Singlin, to set apart a period of time to seek divine direction for the purpose. This he did. Pascal was then his inmate : he appropriated to his use an apartment in his own dwelling, which he at all times commanded, although he had his own residence in Paris. At length, after much reflection, M. de Rouannez took the decided resolution to abandon the world. He announced his purpose to Pascal and Singlin ; and told them that he should take an early opportunity to obtain the King's permission to dispose of his estates, and to retire into the Port Royal.
 
 His determination being thus formed, and announced to his friends, a singular incident occurred to him. A few years before, when he had no thought of the present step, he be-came acquainted with a young lady of rank, and the richest heiress in France, Madlle. de Menus, who was not then of marriageable age. De Rouannez cast his eyes upon her as a suit-able match ; not doubting that he would be able to obtain her hand, as—the ducal rank being then rare in France—he was the only man of his own rank in the country that she could suitably marry. A few months after the young Peer had taken the resolution above described, some mutual friends suggested to the Count D'Harcourt the fitness of an alliance between Mdlle de Menus, and his great-nephew. The Count entering into the plan with much satisfaction, at once repaired to M. de Rouannez, and accosted him thus: “Nephew, I have a communication for you, which will give you pleasure: we are going to propose for you to Mdlle. de Menus.” Rouannez, much surprised, said: “ Sir, you must be pleased to allow me a short time to consider of the matter.” His uncle hereupon fell into a passion, and said, “ Why, nephew, you must be a fool! Here have you been long looking out for this young lady; and are you not satisfied, now you are in a fair way to get her? What has put it into your head that you must take time to consider? Don’t you know she is a woman of the first quality, and the richest heiress in the kingdom? You are an absolute fool!” De Rouannez, however, persisted in asking for time, and in about a fortnight, he announced to M. D’Harcourt that he had come to the determination not to marry. The Count fell into the greatest fury, especially towards his friend Pascal. The news soon spread through the Hotel de Rouannez, where Pascal still was; and in consequence the house-steward rushed one morning into his room, armed with a poignard, to destroy him. Fortunately he was not within, having left home, contrary to his custom, at an early hour. He was informed of the design conceived against him, and returned no more to the hotel. Mdlle. de Menus afterwards married M. de Vivonne.
 
@@ -2223,7 +2227,7 @@ The above little narrative is, of course, given in substance as it stands in the
 
 * * *
 
-### No. VII.
+#### No. VII.
 
 The following is the passage in Pascal's “ Essay on the Passion of Love,” which is referred to in the Memoir as indicative that he had conceived a secret and hopeless attachment for the fascinating and high-born Charlotte de Rouannez :
 
@@ -2243,7 +2247,7 @@ The subjoined passages are yet more to the purpose:
 
 These and other sentiments in this elegant production, do indeed furnish strong internal evidence that the portraiture of pure and elevated passion it presents is drawn from far deeper sources than a general knowledge of nature and the heart. They bear all the stamp of personal experience. It was a “love” probably that was “never told;” nurtured in the silent recesses of his own bosom; not, perhaps, to the last, wholly extinguished; but abandoned through hopelessness, or superseded by yet higher and nobler aspirations. Whatever it was, however, it is now gone down with his ashes to that oblivion, in which are wrapt many of the secret passages that have adorned or afflicted the feverish existence of genius and virtue! (Transl.)
 
-### No. VIII.
+#### No. VIII.
 
 The following is a literal transcript of a series of memoranda, which have been found in Pascal's own hand-writing, on the margin of the manuscript copy of the beautiful fragment of his 19th Letter.
 
@@ -2251,7 +2255,7 @@ The following is a literal transcript of a series of memoranda, which have been 
 
 It may be interesting to the reader to see a few more of similar memoranda relating to others of the Letters, which have been collected from manuscripts.
 
-### *Pensées et Notes pour les Provinciales.*
+#### *Pensées et Notes pour les Provinciales.*
 
 Lettres des établissements violents des Jésuites partout.  
 — Aveuglement surnaturel.  
@@ -2263,11 +2267,11 @@ Lettres des établissements violents des Jésuites partout.
 
 * * *
 
-### Notes écrites de la main d'Arnauld.
+##### Notes écrites de la main d'Arnauld.
 
 Ep. 16. Aquavivæ. De formandis concionatoribus. P. 373. Longè falluntur qui ad irrigaturæ. Ep. 1. Mutii Vitelesci. P. 289. Quamvis enim probè norim—et absolutum. P. 390. Dolet ac queritur—esse modestiam.
 
-### Contre-notes de la main de Pascal.
+##### Contre-notes de la main de Pascal.
 
 Tous les Pères pour les conformer à son imagination, au lieu de former sa pensée sur celle des Pères.
 
@@ -2314,15 +2318,15 @@ I am tempted to transcribe the following passage from Pascal's miscellaneous “
 
 ### No. X.
 
-### *Document entitled “ Profession de Foi,” found in Pascal’s handwriting after his death.*
+#### *Document entitled “ Profession de Foi,” found in Pascal’s<br />handwriting after his death.*
 
 “ I love poverty, because Jesus Christ loved the poor. I value property, because it affords the means of assisting the distressed. I keep faith with every one. I do no injury to those who have injured me; but I wish their condition to be like mine, in that I am susceptible of neither evil nor good, on the part of man. I seek to be just, true, sincere and faithful to all; I have an *especial* tenderness towards those with whom Providence has connected me; and, whether alone, or under the eye of my fellow-men, I perform every action as in the sight of God, who will judge them, and to whom I have consecrated all.
 
 “ These are my convictions; and I bless every day my Redeemer, who has inspired me with them; and who, out of a man full of weakness, misery, concupiscence, pride, and ambition, has formed one exempt from all these evils, by the power of his grace. To him be ascribed all the glory: in myself is nothing but wretchedness and error.”
 
-### No. XI.
+#### No. XI.
 
-### *Writing found on the person of Pascal, after his Death.*
+##### *Writing found on the person of Pascal, after his Death.*
 
 Erroneously described as an “Amulet.” See Memoir.  
 (Literally transcribed from the corrected copy of the original in M. Faugère’s edition.)
@@ -2365,7 +2369,7 @@ Pascal
 
 *imile by Standidge & Cº.*
 
-### No. XII.
+#### No. XII.
 
 <span class="small-caps">The</span> passage contained in the annexed Autograph is taken from a large collection of detached memoranda, published for the first time by M. Faugère, in the work already referred to, from the original manuscripts. This division of these fragments is entitled “ Pensées sur les Jesuits,” and the portion transcribed, as far as it can be decyphered, is as follows :—
 
@@ -2375,7 +2379,7 @@ Pascal
 
 <span class="small-caps">Pascal</span> was interred in the Church of St. Etienne du Mont. Over his grave was placed the following Epitaph, written by <span class="small-caps">Aimonius Proust de Chambourg</span>, Professor of Law in the University of Orleans. On the opposite page will be found an attempted paraphrase.
 
-### Nobilissimè Scutarii <span class="small-caps">Blasii Pascalis</span> Tumulus.
+#### Nobilissimè Scutarii <span class="small-caps">Blasii Pascalis</span> Tumulus.
 
 > D. O. M.
 
@@ -2417,7 +2421,7 @@ Pascal
 
 > Posuit A. P. D. C. mœrens Aurelian. Canonista.
 
-### The tomb of the illustrious <span class="small-caps">Blaise Pascal.</span>
+#### The tomb of the illustrious <span class="small-caps">Blaise Pascal.</span>
 
 > D. O. M.  
 > Beneath this spot rest the mortal remains of  

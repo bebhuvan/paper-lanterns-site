@@ -11,7 +11,7 @@
 
 J. H. BILIMORIA
 
-### **Ruka’at-i-Alamgiri or Letters of Aurungzebe**
+### **Ruka’at-i-Alamgiri<br />or<br />Letters of Aurungzebe**
 
 * * *
 
@@ -138,11 +138,11 @@ Index ... ... ... ... ... ... ... 177
 
 ## INTRODUCTION.
 
-### Ruka’at-i-Alamgiri OR AURUNGZEBE’S LETTERS.
+### Ruka’at-i-Alamgiri<br />OR<br />AURUNGZEBE’S LETTERS.
 
 * * *
 
-### INTRODUCTION.[^fn-p0013-1]
+#### INTRODUCTION.[^fn-p0013-1]
 
 > *In the name of God the Merciful, the Clement.*
 
@@ -157,17 +157,17 @@ After praising[^fn-p0013-2] the King (God) whose kingdom is immune from decline 
 
 ## Ruka’at-i-Alamgiri or Letters of Aurungzebe
 
-### **Letters addressed to Sultan Mahammad Muazzam, Shah Alam Bahadur, the Crown Prince.[^fn-p0015-1]**
+### **Letters addressed to Sultan Mahammad Muazzam,<br />Shah Alam Bahadur, the Crown Prince.[^fn-p0015-1]**
 
 ### Letter 1: Aurungzebe → Sultan Mahammad Muazzam, Shah Alam Bahadur
 
-### LETTER I.
+#### LETTER I.
 
 Eldest son of sovereignty, happy son, Mahammad Mūazzam, may God protect and save you. His Majesty, having his abode in paradise (Sháh Jehán, Aurungzebe’s father), had a great desire to conquer the provinces of Balkh, Badakhshán, Khorásán, and Hirát which were the ancient possessions of our ancestors.[^fn-p0015-2]. He often sent there the royal forces under the command of Mūrád Bakhsha.[^fn-p0015-3] Most of the provinces were conquered; but owing to impatience, that unfortunate man (Mŭrád) returned (to the capital) without having been recalled by His Majesty and thereby lost the favour of the people and the grandees of those provinces. The kingdoms conquered and possessed were lost; and money was wasted on them. It is for this reason that it is said that “A daughter is better than an unworthy son”. Attend to this (verse) that “If a father is unable to finish a work, the son must carry it out to completion”. This mortal creature (Aurungzebe) has a wish which is still unfulfilled. It was the desire of Sháh Jehán that I should send a grandson of His Majesty’s to those districts with a grand army and sufficient equipment. What more can I do? When you were here, I had insisted upon you to take Kandahár ;[^fn-p0016-1] but you have not conquered it. What of other cases, then? Evidently you have not done the work entrusted to you by me. One who professes to know a thing must know it fully. This my perishable life is now like the sun (setting) on the top of a mountain. What does it concern me if I have these provinces or not? How will you shew your face to your rivals in this world and to the Holy, High, and Exalted God in the next world?
 
 ### Letter 2: Aurungzebe → Sultan Mahammad Muazzam, Shah Alam Bahadur
 
-### LETTER II.[^fn-p0017-1]
+#### LETTER II.[^fn-p0017-1]
 
 Happy son, Mahammad Mūazzam, may God protect and save you. I came to know from the representation of a disinterested person that this year you observed the Nowroz[^fn-p0017-2] festival in the manner of the (present) Persians[^fn-p0017-3]. By God’s grace, keep your faith firm. From whom have you adopted this heretical innovation? Evidently you have been instructed by that Arab who lays claim to the title of Saiyad,[^fn-p0017-4] (but) who is the cause of disgrace to some good persons (the Saiyads). Anyhow this is a festivity of the Majūsis.[^fn-p0018-1] According to the belief of the infidel Hindus it is the coronation day of the accursed Vikramájit[^fn-p0018-2] and the commencement of a Hindu era. Henceforward you should not observe it and repeat such folly. (Verse) “I have advised you often ; but none of you (my sons) have searched after secrets”. I seek forgiveness from God, my Lord, for every sin that I have committed ; and I turn to Him (in repentance).
 
@@ -175,13 +175,13 @@ Happy son, Mahammad Mūazzam, may God protect and save you. I came to know from 
 
 ### Letter 3: Aurungzebe → Sultan Mahammad Muazzam, Shah Alam Bahadur
 
-### LETTER III.
+#### LETTER III.
 
 Eldest son of sovereignty, I came to read your letter (requesting me) to confer an additional honour upon your fourth son,[^fn-p0018-3] for whom you seem to have the greatest affection. It is impossible to bestow such a favour upon a younger brother in supersession to an elder one. (Again) it is strange that considering you are indifferent towards your family, you could have such affection for your son. Anyhow (verse) “May you live long because this (*i.e.* the fact of your favouring and loving your younger son instead of loving your whole family) is sufficient.” In order to please you I will pay attention to this request of yours in another way.
 
 ### Letter 4: Aurungzebe → Sultan Mahammad Muazzam, Shah Alam Bahadur
 
-### LETTER IV.
+#### LETTER IV.
 
 Eldest son of sovereignty, I came to know that you disregard the soldiers and care more for the highly paid servants. It seems that you intend going to Kandahár.[^fn-p0019-1] May the grace of God be with you. But I could not understand your request about returning to the capital of Láhore.[^fn-p0019-2] I degraded Násir Khán[^fn-p0019-3] to Pán-Sadi[^fn-p0019-4] and I dismissed that Hindu councillor from (my) service. (Verse) “ Other persons act wrongfully because we shew them so much favour.”
 
@@ -189,27 +189,27 @@ Eldest son of sovereignty, I came to know that you disregard the soldiers and ca
 
 ### Letter 5: Aurungzebe → Sultan Mahammad Muazzam, Shah Alam Bahadur
 
-### LETTER V.[^fn-p0019-5]
+#### LETTER V.[^fn-p0019-5]
 
 Eldest son of sovereignty, why have you displeased Fateh Alláh Khán[^fn-p0019-6] notwithstanding his good nature ? When I was a prince I used to treat the nobles in such a way that all were pleased and whether present or absent praised me much. Nay, notwithstanding the merit and dignity of the unfriendly brother[^fn-p0020-1] some of them deserted him and entered my service.[^fn-p0020-2] I closed my eyes upon some of them, who, at the instigation of the unfriendly brother, practised unworthy actions and used abusive words. For the sake of justice they admitted my patience and endurance. And the impression of my generalship and bravery[^fn-p0020-3] was made upon the tablet of the noble heart of His Holy Majesty (Sháh Jehán). Difficult acts were performed by the strength of the arm of this weak ant[^fn-p0021-1]. You have broken the heart of Fateh Alláh Khán, a soldier, brave and useful in all affairs, who would have been useful to you in important matters (after me).[^fn-p0021-2] (Verse) “What benefit is there if you give a thousand gems and jewels but at the same time break the inward gem (*i.e.* the heart) of a person?” Done is done and cannot be undone. It will be better if you win his heart; and it will be more advantageous to you for putting your affairs in order. (Couplet) “I advise you, listen to the advice, don’t evade it. Listen to the advice given by a kind counsellor”. The sooner the better. Peace be upon those who follow the right path.
 
 ### Letter 6: Aurungzebe → Sultan Mahammad Muazzam, Shah Alam Bahadur
 
-### 1686. LETTER VI.
+#### 1686. LETTER VI.
 
 Happy son, Mahammad Mūazzam, may God protect and save you. I came to know from a letter of a dear friend that you attend the court with a saffron-like (yellow) turban on your head and ‘palváni’[^fn-p0021-3] robe on your body. You have reached the age of forty-six. Bravo! With this (white) beard you put on a gaudy dress.
 
 ### Letter 7: Aurungzebe → Sultan Mahammad Muazzam, Shah Alam Bahadur
 
-### 1704. LETTER VII[^fn-p0021-4].
+#### 1704. LETTER VII[^fn-p0021-4].
 
 Eldest son of sovereignty, I have despatched Mūna’am Khán[^fn-p0021-5] to you so that he may deliver my message soon to you. I am not conscious of myself. (I do not know) who I am and where I go and what will happen to this sinner, full of sins. Now I will say good bye to every one in this world and will entrust every one to the care of God. My famous and auspicious sons should not quarrel among themselves and allow a general massacre of the people who are the servants of God (after my death)[^fn-p0022-1]. May God, the changer of hearts, make His grace for the protection of the people who are His deposits (in this world) and His wonderful creatures, the light for the path of the kings (*i.e.* may God make the kings protect their subjects)[^fn-p0022-2].
 
-### **Letters addressed to Prince Mahammad A’azam Shah Bahadur[^fn-p0023-1].**
+#### **Letters addressed to<br />Prince Mahammad A’azam Shah Bahadur[^fn-p0023-1].**
 
 ### Letter 8: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER VIII.
+#### LETTER VIII.
 
 Exalted son, I am much pleased with riding the ambling horse[^fn-p0023-2] which you sent to me this time. The horse reminds me of the sympathy felt for the old father by the fortunate son. Owing to great joy I have named him ‘Khūsh-Kharám’ (walking smartly). As you are perfectly skilled in finding out an appropriate name for everything, (I hope) you will give an appropriate name to each of my favourite horses and then write to me about it. A list of these horses along with the details of their colour and breed will be (shortly) supplied to you by the head groom.
 
@@ -217,7 +217,7 @@ Exalted son, I am much pleased with riding the ambling horse[^fn-p0023-2] which 
 
 ### Letter 9: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER IX.
+#### LETTER IX.
 
 Exalted son, I was much pleased with the ‘dáli’[^fn-p0023-3] of mangoes[^fn-p0024-1] sent by you to the old father. You have requested me to suggest names for the unknown mangoes. When you yourself are very clever, why do you give trouble to (your) old father ? However I have named them ‘ Sūdhá–ras’ and ‘ Rasná-vilás’[^fn-p0024-2].
 
@@ -225,7 +225,7 @@ Exalted son, I was much pleased with the ‘dáli’[^fn-p0023-3] of mangoes[^fn
 
 ### Letter 10: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER X.
+#### LETTER X.
 
 Exalted son, I remember the savour of your ‘khichadi’[^fn-p0024-3] and ‘ biryáni’[^fn-p0024-4] during the winter. Truly, the ‘ kabūli’[^fn-p0024-5] cooked by Islám Khán does not surpass them (in point of relish and savour). I wanted to have from you (in my service) Salimán, who cooks ‘ biryáni’; but you did not allow him to serve me as my cook. If you happen to find a pupil of his, skilful in the art of cookery, you will send him to me. However, happy is the day when you come, eat, and make others eat. (Couplet) “Happy is the day and happy is the time when a friend enjoys the company of (another) friend.”[^fn-p0025-1] (Couplet) “The desire (for eating) has not entirely left me; (though) blackness has departed from (my) hair, it has not departed from (my) face” (*i.e.* though I have become old, I have not yet given up my former habit of indulging in the pleasures of the palate).[^fn-p0025-2]
 
@@ -233,7 +233,7 @@ Exalted son, I remember the savour of your ‘khichadi’[^fn-p0024-3] and ‘ b
 
 ### Letter 11: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1692. LETTER XI.
+#### 1692. LETTER XI.
 
 Exalted son, may God be praised that the grandson Bahádūr[^fn-p0025-3] has become brave and day by day his fortune is being improved. you should not be careless in training your son Bahádūr[^fn-p0025-4]. If he can, in the province of Málwá[^fn-p0025-5] he will get a victory over the Senápati[^fn-p0025-6] and (then) punish the Játs[^fn-p0025-7]. I have issued an order that the great Rajput prince Rájá Basan Singh Kachavá[^fn-p0026-1] should join him and that the fort-keeper of Akabarábád[^fn-p0026-2] should provide him with artillery[^fn-p0026-3] and other baggage necessary for war. You should go to the mouth of the Nurbaddá[^fn-p0026-4], and then by the way to the right you should reach Islámábád, otherwise known as Mathūrá[^fn-p0026-5] (in order to join your son).
 
@@ -241,7 +241,7 @@ Exalted son, may God be praised that the grandson Bahádūr[^fn-p0025-3] has bec
 
 ### Letter 12: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XII[^fn-p0026-6].
+#### LETTER XII[^fn-p0026-6].
 
 Blessed son, His Most Exalted Majesty[^fn-p0026-7] used to say, “ Hunting is the business of idle persons. It is very reprehensible for one to be absorbed in worldly affairs, and to disregard religious matters. Because this world is as a field in relation to the next world (*i. e.* as you sow so shall you reap)”. It is said of His Majesty (Shah Jehan) that he used to get up cheerfully at four o’clock[^fn-p0027-1] in the morning; (then) he performed ablution at the ‘ Ábshár-i-Taufeek’[^fn-p0027-2] and engaged himself in reciting the daily portions of prayer. Before daybreak, after the cry of the ‘Mūazzin’,[^fn-p0027-3] he said the morning prayer in the company of learned men. Then he went to the ‘ Jharūkhá-i-Darshan’[^fn-p0027-4] and favoured the ‘darshaniáns’[^fn-p0028-1] with the blessed sight of his auspicious face. At about ten o’clock he went to the ‘Diván-i-Aam’[^fn-p0028-2] (in order to hold a public audience). In this assembly all officers bowed down to and saluted the emperor. The ministers and the treasurers represented to His Majesty the arrangements made for the crown servants, the facts about their good services, and the loyalty of inspectors, police officers, supervisors and district officers; fulfilled the
 
@@ -251,13 +251,13 @@ desires of every one and encouraged others. After the usual inspection of the im
 
 ### Letter 13: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XIII.
+#### LETTER XIII.
 
 Exalted son, Mahammad A’azam, may God protect and save you. It seems you ride very fast. (You rode) so fast that Saiyad, your canopy bearer, fell down on the ground and (soon) gave up the ghost. When you were here before me, you were indifferent and absent-minded. You have seen my manner of riding. Why have you acted contrary to that? (Verse) “Ride slowly and gently, but don’t ride pompously and fast; because a thousand dead bodies are buried in the ground beneath your feet”.
 
 ### Letter 14: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XIV.[^fn-p0031-2]
+#### LETTER XIV.[^fn-p0031-2]
 
 Blessed son, Mahammad A’azam, may God protect and save you. In order to please the most stupid Afazal, you have not dismissed the tyrant, Hasan Beg of Chakleh Kūrá. The people there are lamenting and bewailing and are much distressed. They say (verse) “ If you will not give us justice, there is the Day of Judgment (doomsday) for our justice (*i. e.* God will judge our cause)”. The real accountants[^fn-p0032-1] record the tyranny of the officers in your and my accounts. Know well for compensating these actions (of tyranny from Hasan Beg) and enquire into the conditions of the inhabitants of that place, otherwise the ‘ jághir ’ will be taken away from you and you will have no recompense for the loss.
 
@@ -265,7 +265,7 @@ Blessed son, Mahammad A’azam, may God protect and save you. In order to please
 
 ### Letter 15: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XV.[^fn-p0032-2]
+#### LETTER XV.[^fn-p0032-2]
 
 Exalted son, I came to know that Mūstafá Kūlli Beg, your private secretary, performs your work carefully. This is sufficient. If you will write to me for giving an additional post to and conferring the title of a ‘ Khán’ on him, I will favour him with them. An honest man is like unalloyed gold. (Couplet) “ Human beings are found everywhere in this world, but their essence (*i.e.* honesty) is found very rarely (*i.e.* there are many men in this world, but honest men are very few)”. One day, the late Sa’ad Alláh Khán[^fn-p0032-3], after being disengaged from prayer, raised up his hands, for a long time, asking for blessings (from God). One of the impudent courtiers asked (him), “What is your wish?” He replied, “(I pray) to be an honest man”. Truly, he gave a (very) good reply. Though the quality of honesty and sincerity, bestowed by the High God upon (every) human being, is natural (in him from his very birth), it requires (the help of) encouragement and reward from the master, so that the servant may live in a comfortable condition and in proportion to his condition he may be free from any anxiety with regard to his livelihood, and consequently worldly needs will not corrupt his faith. (Verse) “Because a happy and contented servant works more.”
 
@@ -273,7 +273,7 @@ Exalted son, I came to know that Mūstafá Kūlli Beg, your private secretary, p
 
 ### Letter 16: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XVI.
+#### LETTER XVI.
 
 Exalted son, you have requested me to give a ‘Máhi-i-Maráteb’[^fn-p0033-1] to Nasrat Jang[^fn-p0033-2]. Though it is not a rule to give it to an inferior to a ‘Sesh-Hazári’[^fn-p0033-3], I give it to him as he has accomplished your two important affairs and also to please you. He will get one of the ‘Máhi-i-Marátebs’ which have been brought (here), and thank (us) for this great gift which is above dignity.
 
@@ -293,7 +293,7 @@ A trooper is called ‘dū-aspeh’, if he has two horses, and ‘sih-aspeh’, 
 
 ### Letter 17: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XVII.
+#### LETTER XVII.
 
 Exalted son, Mir Khán,[^fn-p0035-1] the superintendent of the provinces belonging to your army, refuses to govern the district of ‘ Sakrá’ and wants another district in return for it. We have small sum of money and many have a demand for this (*i.e.* we have got a few provinces and there are many persons demanding them). The flesh and bones should be distributed equally. There is no possibility of getting a substitute for ‘ Sakrá’. You should write to him to find out the difference between the two sums of money, produced by the district of ‘ Sakrá’ and by the other district which he wants in return for ‘ Sakrá’; and I will pay that difference to him in money.
 
@@ -301,13 +301,13 @@ Exalted son, Mir Khán,[^fn-p0035-1] the superintendent of the provinces belongi
 
 ### Letter 18: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1686.  LETTER XVIII.
+#### 1686.  LETTER XVIII.
 
 Happy son, Mahammad A’azam, may God protect and save you. I came to know from the events (that have happened) in the province of Málwá,[^fn-p0035-2] that the blind-minded[^fn-p0035-3] Pahár Singh, through his great pride and haughtiness, became the source of sedition and rebellion and raised the standard of rebellion against (us); (but) he was killed by Talūk Chand[^fn-p0035-4], the assistant to (my) dear and fortunate son (*i.e.* A’azam)’s minister, and entered hell[^fn-p0035-5]. Thank God under any circumstance. (Couplet) “ I sacrifice myself before Thee, O God, for Thy favour to me.” Truly, the accomplishment of this affair is through your generous encouragement (to servants); because you make the state servants do government affairs by encouraging and patronising them. For this I congratulate you and send you a necklace[^fn-p0036-1] of pearls worth Rs. 50000.[^fn-p0036-2] As this Hindu (*i.e.* Talūk Chand) has verified the proverb that ‘the sparrow (*i.e.* Talūk Chand being a Bania or Márwári) has bravely killed the hawk (*i.e.* Pahár Singh being a Rajput)’. I exalt him by giving him a personal (not hereditary) title of ‘Pán-Sadi[^fn-p0036-3]’, a hundred cavaliers, a (Hindu) title of ‘Ráo’,[^fn-p0036-4] a robe of honour, a sword and a horse. You should also favour him, who has distinguished himself among his equals, by sending him a letter of encomium and praise and assigning him the independent governorship of a province, so that other servants may be induced to render good service in the expectation of a reward.
 
 ### Letter 19: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1704. LETTER XIX[^fn-p0036-5].
+#### 1704. LETTER XIX[^fn-p0036-5].
 
 Exalted son, may God protect you. To take away the ‘ faujdárship ’[^fn-p0037-1] of Sorath[^fn-p0037-2] from Fateh Jang Khán of the Báli[^fn-p0037-3] tribe and to give it to the superintendent of the palace[^fn-p0037-4] is like breaking a sound bottle with one’s own hand (*i.e.* will spoil the matter ). In the province of Gujarát, the Báli tribe have great respect and pride for the military profession. To give the ‘ foujdárship ’ of that province to others save this tribe is far from wisdom. The ‘ Panj-Hazáriáns ’, like Hasan Ali Khán,[^fn-p0037-5] son of Ali Vardi Khán,[^fn-p0038-1] and Saf Shekan Khán[^fn-p0038-2] and others, had been appointed to the ‘ faujdárship ’ of Sorath in order to manage it. It will be desirable if your superintendents follow the footsteps of the deceased Shūjá ’at Khán[^fn-p0038-3]. Otherwise as this is the province of Gujarat, may God forbid, there will be disorder and confusion[^fn-p0038-4]. It will take a long time to restore peace and order there. Other things depend upon your choice. (Couplet) “ I wou’t tell you not to do this and to do that ; listen to advice which will render your work easy ”. May your end terminate in safety (*i.e.* All’s well that ends well).
 
@@ -315,7 +315,7 @@ Exalted son, may God protect you. To take away the ‘ faujdárship ’[^fn-p003
 
 ### Letter 20: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XX.[^fn-p0038-5]
+#### LETTER XX.[^fn-p0038-5]
 
 Exalted son, through the representations of the spies I have come to know that the royal road between Bahádūr pūr[^fn-p0038-6] and Khūjasteh-būniád[^fn-p0039-1] is not free from danger. Highwaymen rob the merchants[^fn-p0039-2] and travellers of their goods. Wayfares cannot travel in security. When such robbery takes place near the quarters of your and my armies (at Ahmedábád and Būrhánpūr), woe to the condition of distant roads ! It seems that the reporters[^fn-p0039-3] do not furnish you with true accounts. Carelessness and indifference are contrary to the way of kingship and sovereignty. (Now) you should appoint new reporters and give them warning and punish the former ones. Prepare an army to extirpate these ruffians and to free the royal road from the machinations of these loafers. How long will you allow this shameful mismanagement to go on? (Couplet) “ I don’t ask you either to suffer a loss or to gain an advantage. O You ! who are losing an opportunity, whatever you want to do, do it soon (*i.e.* don’t lose the opportunity of doing a thing).” May you be happy.
 
@@ -323,7 +323,7 @@ Exalted son, through the representations of the spies I have come to know that t
 
 ### Letter 21: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXI.
+#### LETTER XXI.
 
 Dear and glorious son, a white water pot, of Chinese make and of good material, which is now very rare, and a ‘ kachakrá ’[^fn-p0039-4] chair, were presented to me. I have sent these two things to (you), my dear son. You should thank me for these two rarities ; and, in return for these, send me a basket full of mangoes,[^fn-p0039-5] without minding what has already happened.
 
@@ -331,7 +331,7 @@ Dear and glorious son, a white water pot, of Chinese make and of good material, 
 
 ### Letter 22: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXII.
+#### LETTER XXII.
 
 Exalted son, I remember that one day I paid a visit to Miyán Abdūl Latif[^fn-p0040-1]—may his tomb be sanctified. During the conversation, I said, “If you permit me I will fix (the income of) some villages of the Kaharkūn[^fn-p0040-2] district for (defraying) the expenses of the monastery”. He recited, with his holy tongue, these two hemistichs: “I am placed under an obligation when the king grants me villages; but I am not under an obligation when God gives me food”. I replied, “It is so; but I join the service of the mendicants and pious men, for the good and welfare of this world, for my own happiness, and for the fulfilment of (my) prayer for the increase of happiness and fortune, and not for putting them under any obligation”. The Miyán said, “Truly, the intention of the mind is good, if it is from the very bottom of the heart. Receive only half of the revenue which you now obtain from your subjects (peasants) and take less than even half from the hard-working and helpless peasants.[^fn-p0041-1] Fix monthly allowances on the mendicants, who put faith in God, who do not beg, and live in deserts. Administer justice (carefully) to the oppressed in such a way that no one will be deprived of his right. Don’t allow the weak to be oppressed by the tyrants. (Then) you will see increase in your happiness ”. Immediately these words of the Miyán reminded me of the complaints of the inhabitants of Chakleh Kūrá,[^fn-p0041-2] and so involuntarily I wrote this letter to you. May you be happy.
 
@@ -339,7 +339,7 @@ Exalted son, I remember that one day I paid a visit to Miyán Abdūl Latif[^fn-p
 
 ### Letter 23: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1704. LETTER XXIII.[^fn-p0041-3]
+#### 1704. LETTER XXIII.[^fn-p0041-3]
 
 Exalted son, the artillery and palace superintendent[^fn-p0041-4] has been appointed (by you) the police officer of Naváh[^fn-p0041-5] of Ahmedábád.[^fn-p0041-6] He appoints his vulture-like (*i.e.* bribe-receiving) relatives and friends to ‘patelships’.[^fn-p0042-1] The complainants against the power of the above-mentioned superintendent do not get admittance into your court. Robbers and vagabonds have become the companions of his son-in-law who afflict God’s people (our subjects). I wonder what answer we shall give on the day of judgment.[^fn-p0042-2] The Holy and High God is just. If we appoint a tyrant (to a post), every act of oppression perpetrated by the oppressor appointed by us is just. It is we who allow oppression by giving power to tyrants and withholding justice from the oppressed. (Couplet) “ Wheat grows from wheat, and barley, from barley ; don’t be indifferent about the reward of (your) action (*i.e.* as you sow, so shall you reap).”
 
@@ -347,13 +347,13 @@ Exalted son, the artillery and palace superintendent[^fn-p0041-4] has been appoi
 
 ### Letter 24: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXIV.
+#### LETTER XXIV.
 
 Exalted son, how long will the old lady like Záhedeh Bánū[^fn-p0042-3] remain in a miserable plight ? She has a claim on you and me. Her grandsons suffered punishment for their actions. Her rights should not be disregarded. You will remember how one day when the elephant of Fateh Jang Khán[^fn-p0042-4] made an attack upon you, Mir Badhú[^fn-p0043-1] displayed bravery like Rustam[^fn-p0043-2]. He restrained the elephant from fury. (But) he did not accept a robe of honour granted by me (and said), “ I have done my duty as a man born in this house ; and why should I accept wages (i.e. the robe of honour) for this ? ” For the sake of God and for my sake, eradicate the old (feeling of) revenge from (your) heart. Favour this old lady who has no kind man except you to shew kindness (to her). (Couplet) “ Increase your kindness to the old members of your family, because those favoured by you will never prove faithless.”
 
 ### Letter 25: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXV.
+#### LETTER XXV.
 
 Exalted son, the letter of A’atimád Khán[^fn-p0043-3] is not a revelation that it should be acted upon per force. After the necessary inquiry an order will be issued.
 
@@ -361,25 +361,25 @@ Exalted son, the letter of A’atimád Khán[^fn-p0043-3] is not a revelation th
 
 ### Letter 26: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXVI.
+#### LETTER XXVI.
 
 Exalted son, one day Sa’ad Alláh Khán[^fn-p0044-1] came late in His Majesty (Sháh Jehán)’s presence. H. M. asked the cause. He replied, “ I was reading some passages from a book and copying them down in order to shew them to Your Majesty. (They are here, as follow). ‘ The stability of the foundation of sovereignty depends upon justice. A kingdom and property increase through bravery and charity. [^fn-p0044-2] You should keep company with the wise and the learned and avoid the company of fools. It is a sign of wisdom to act according to one’s conviction and to remain firm in the midst of hardships. You should not be deficient in worldly affairs (or duties) and should be pleased with your contrivance. One should thank God for the destiny of the permanency of his family. Shew mercy to the orphans. If you desire that you should never be in need, fulfil the desires of the needy. The execution of state affairs depends upon the advice and counsel of ministers. Conquest and victory depend upon the blessings of the mendicants. If you want to have sound health, pray (to God) for the remedying of the diseases of the sick. If you wish to have forgiveness for your crimes from God, first pardon the crimes of other criminals ’.” His Majesty was was much pleased and kissed the forehead of the deceased Khán. At the end of the day (*i.e.* in evening) he presented the above-mentioned Khán some Mahmūdi[^fn-p0044-3] bundles, embroidered in gold and of one colour. I thought that I should not enjoy the benefit of these maxims alone, consequently I wrote these things for my dear son. May the grace of God be with your actions in order to enable you to follow these instructions.
 
 ### Letter 27: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXVII.
+#### LETTER XXVII.
 
 Happy son, Mahammad A’azam, may God protect and save you. It seems that the son of the superintendent of your palace gambles in the drummery.[^fn-p0045-1] Alas ! alas ! notwithstanding your claim to sovereignty (after my death) you shew so much indifference and carelessness.[^fn-p0045-2] Why do the reporters[^fn-p0045-3] not supply you with information ? They must be screening their friend (the son of the superintendent). Appoint new reporters and warn them against this.
 
 ### Letter 28: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXVIII.[^fn-p0045-4]
+#### LETTER XXVIII.[^fn-p0045-4]
 
 Exalted son, it seems that you passed one month in shooting cranes near the river Tal.[^fn-p0045-5] Though hunting[^fn-p0045-6] is an occupation which gives pleasure and delicious food, yet it is more pleasant when indulged in after being disengaged from the execution of important affairs, to do which is your bounden duty ; chiefly (after being disengaged from) performing the rights of sovereignty, which, according to religion and custom, should be done properly. The responsibilities of these (rights of sovereignty) are enjoined by reliable traditions, well-known histories and other works. They should be given priority to all other duties. If you are convinced of the execution of the affairs of one district, why don’t you engage yourself in the management of the affairs of Khán Jehán, A’akel Khán, Shūjá’at Khán, and Muhammad Beg ? [^fn-p0046-1] You (like) the pleasure of game while I enjoy myself in conquering fortresses and subduing rebels. Alas ! what will be your position in this life and in the life after ? (Couplet) “ There are many who advise others, in this world ; but there are very few who advise themselves.” Life passes away in vain and we can do nothing. What answer shall we give to God after death ? [^fn-p0046-2] (Verse) “ O God ! have mercy upon our condition.”
 
 ### Letter 29: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXIX.
+#### LETTER XXIX.
 
 Exalted son, though the young son (A’azam) does not love the old father, the old father loves the young son. (Verse) “ Come, and remove the mountain of grief (*i.e.*, excessive grief) from our hearts.”
 
@@ -387,7 +387,7 @@ Exalted son, though the young son (A’azam) does not love the old father, the o
 
 ### Letter 30: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXX.
+#### LETTER XXX.
 
 Exalted son, Muhammad Anwar the merchant has no ability to manage the affairs of the sea-ports of Aslá. From this it appears that notwithstanding (your) perfect wisdom, sagacity, and deep consideration, you have appointed a thief to keep watch (which is absurd). You should not issue such a foolish order in future.
 
@@ -395,13 +395,13 @@ Exalted son, Muhammad Anwar the merchant has no ability to manage the affairs of
 
 ### Letter 31: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1704. LETTER XXXI.
+#### 1704. LETTER XXXI.
 
 Exalted son, the town of Dūhad,[^fn-p0047-1] situated in a district of Gujarát, is the birthplace of this sinner, full of sins (*i..e*, Aurungzebe himself). You should learn to shew proper kindness to the inhabitants of this town.[^fn-p0047-2] You should shew favour to Pir Mankhá,[^fn-p0047-3] who has been the police officer of this town for a long time, and should keep him in his own post. For Pir Mankhá’s sake, you should not listen to the slander of the selfish, for whom it may be said that ‘ in their heart there is a disease (of hypocrisy) which God increases.’ [^fn-p0047-4] (Verse) “ A king must possess one general eye for shewing favour to the weak, and one special eye for shewing favour to some favourites (*i.e.*, a king should shew his kindness and favour, generally to the weak and especially to his favourites).”
 
 ### Letter 32: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1704. LETTER XXXII.
+#### 1704. LETTER XXXII.
 
 Exalted son, Muhammad Beg,[^fn-p0048-1] your servant, deserted and went over to the misled and miserable enemy. It is said about him that he has been descended from the tribe of Mū’atemad Khán,[^fn-p0048-2] the minister of the Deccan. He (Muhammad Beg) was your minister and private secretary. Undoubtedly the new servants bore malice and spite against the old one (*i.e.*, Muhammad Beg). You should recall this deserter and send him to me. The bad property should be attached to the beard of its master (*i.e.*, Muhammad Beg should be surrendered to me). Otherwise you should write (to me) that after being informed of his condition, he may be called.
 
@@ -409,7 +409,7 @@ Exalted son, Muhammad Beg,[^fn-p0048-1] your servant, deserted and went over to 
 
 ### Letter 33: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1704. LETTER XXXIII.
+#### 1704. LETTER XXXIII.
 
 Exalted son, the bones of Shūjá’at Khán Muhammad Beg[^fn-p0048-3] are not yet rotten (*i.e*, he died only a short while ago). The rights of Shūja’at Khán’s service should not be overlooked. He has two survivors, two sons-in-law and one adopted son.[^fn-p0048-4] Why have you dismissed these heirs of Shūjá’at Khán for (their) slight offence, the truth or untruth of which is known to God (alone) ? To dismiss a Mohemadan for the sake of a Hindu is an unreasonable act.[^fn-p0049-1]
 
@@ -417,7 +417,7 @@ Exalted son, the bones of Shūjá’at Khán Muhammad Beg[^fn-p0048-3] are not y
 
 ### Letter 34: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXXIV.
+#### LETTER XXXIV.
 
 Exalted son, Mandeswar, the greatest district of the province of Málvá, has been granted to you as a ‘jághir.’[^fn-p0049-2] In former times Sar Būland Khán,[^fn-p0049-3] Hasan Ali Khán,[^fn-p0049-4] and a great officer like Navázesh Khán-i-Rūmi, had been appointed police officers of this district. This light of my eyes (*i.e.*, my dear son) should send there an intelligent, honest, and brave officer. One day it was said in the presence of His Majesty (Sháh Jehán) that the splendour of the house, the increase of property, and the prosperity of the ‘jághir’ districts, of Sa’ad Alláh Khán[^fn-p0049-5] depended upon (the management of) Abdūl Nabi, his secretary, and that the Khán himself spent his time zealously in the (discharge of) state affairs. Once, His Majesty, by way of suggestion, told him, “I have heard that you possess the philosopher’s stone. (I hope) you will present it to me.” He replied, “ I possess one (*i.e.*, Abdūl Nabi) in the form of a man and which has the quality of producing gold.” His Majesty thanked God and spoke sweetly, “ I praise you for this quality of yours (and) give away his services to you. An intelligent, honest, God-fearing, and well-behaving man is rare. (Couplet) ‘ Human beings are found everywhere in this world, but their essence (*i.e.*, honesty) is found rarely.’ ”[^fn-p0050-1] The above-mentioned Khán bowed down to His Majesty.
 
@@ -425,7 +425,7 @@ Exalted son, Mandeswar, the greatest district of the province of Málvá, has be
 
 ### Letter 35: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXXV.
+#### LETTER XXXV.
 
 Exalted son, I have come to know about the occupation and action of the manager of the district of your ‘ jághir ’ from the letter sent by the reporter. Why are you careless about the day of judgment ?[^fn-p0050-2] (Verse) “ Alas ! alas ! justice from the hand of negligence.”
 
@@ -433,7 +433,7 @@ Exalted son, I have come to know about the occupation and action of the manager 
 
 ### Letter 36: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1704. LETTER XXXVI.
+#### 1704. LETTER XXXVI.
 
 Exalted son, I knew you to be (a man) of great sense and of good disposition in everything. (Verse) “ May God protect your handsome face from an evil eye.” It is strange that you have dismissed Muhammad Beg Khán [^fn-p0050-3] and given the ‘ faujdárship ’[^fn-p0050-4] of Sorath [^fn-p0050-5] to Sheer Andáz Khán. The results of personal and able affairs of mankind are clear. (Verse) “ The outward appearance of a man is a mirror for his heart (*i.e.*, the character of a man can be judged from his outward appearance).” Here in Sorath Kūtbūdin,[^fn-p0050-6] the noble ‘ Panj-Hazári,’ had been appointed. I won't take any objection if you appoint Saiyad Kamál [^fn-p0051-1] and Saiyad Mūrád, who are honoured and respected, in this province, to some extent. Under any circumstance, the ‘faujdárship’ of the above province, together with districts connected with this provincc, are given to you in ‘jághir.’ You should appoint over them a faithful servant whom you consider worthy (of the post). If Amán Alláh Beg [^fn-p0051-2] and Bahádūr Beg Sherváni can induce themselves to be away from you, apparently you will entrust them with the ‘faujdári’. Honesty and ability play the greatest part in the management of political and financial affairs. The unfit and selfish are many; while the worthy and true are very few. His Majesty, having his abode in heaven (*i.e.*, Akbar, Aurungzebe’s great grandfather), had (many) faithful servants. He entrusted them with (the work of gaining) successive victories and (of performing) many affairs. And in the time of His Majesty (Sháh Jehán) there came forward many brave and faithful servants, well-behaving officers, and able secretaries. Notwithstanding so many faithful servants, His Majesty, with his holy personality, looked after the transaction of (state) affairs very carefully. I remember that when His Majesty sent Mūrád Bakhsha [^fn-p0051-3] to Balkh in order to conquer the provinces of our ancestors, an army registrar was wanted. Twenty persons, employed or unemployed (in the state), applied for this post. Now I want a true and able man for the ministership of Bengál ; but I find none.[^fn-p0051-4] Alas ! alas ! for the rarity of useful men.
 
@@ -441,31 +441,31 @@ Exalted son, I knew you to be (a man) of great sense and of good disposition in 
 
 ### Letter 37: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1704. LETTER XXXVII.
+#### 1704. LETTER XXXVII.
 
 Exalted son, notwithstanding your good intention, why are you indifferent to the actions (*i.e.*, tyranny) of oppressors and to the infliction of punishment on those misled people (tyrants) ? Everyday in the districts of Hájipūr,[^fn-p0052-1] Miyánpūr,[^fn-p0052-2] and other police stations, strife and quarrel, oppression and tyranny, take place. The Kolis[^fn-p0052-3] plunder (the town of) Mairganj,[^fn-p0052-4] situated close to the (quarters of the royal) army. They bind the inhabitants of the town and the poor travellers and carry them away. You have appointed Amán Alláh Beg[^fn-p0052-5], the superintendent of the artillery and of the palace, the police officer of Naváh[^fn-p0052-6]. He gave ‘patelships’[^fn-p0052-7] to his dishonest and corrupt relatives. The oppressed cannot complain to you against his power. Alas ! alas ! Time passes away like a sword (*i.e.*, swiftly); and the reproach of the people of the world and the fear of the Glorious and High God are removed from the heart. The ‘faujdárship’ should be given to one of the Gujarátis, either to Safdar Khán-i-Sáni[^fn-p0053-1] or to the sons of Bahlol Sherváni[^fn-p0053-2], who, in the time of Shujá'at Khán, had acquired a good name and who communicate with the inhabitants of the town (of Naváh). I say plainly that on the day of judgment we shall have to give an account of our actions before God for shewing favour to and connivance at (the actions of corrupt officers).[^fn-p0053-3] You should send to the province reliable and cautious reporters, and send me daily reports of the results of the orders (issued by you), and should engage yourself in repairing the time. (Verse) “When on the day of judgment there will be an inquiry about my crimes, the records of the crimes of all the people of the world will be torn to pieces (*i.e.*, the crimes of all people are insignificant in comparison to mine and therefore they will be forgiven by God on the day of judgment, but I will not be forgiven).”[^fn-p0053-4]
 
 ### Letter 38: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1696. LETTER XXXVIII.
+#### 1696. LETTER XXXVIII.
 
 Exalted son, Kázi Abdūllá[^fn-p0053-5] joined God’s mercy (*i.e.*, died). He used to please me and (my) subjects during his tenure of ‘ káziship ’. I do not know about the condition of his sons. Abdūl Majeed Khán, his eldest son, was, for a time, your ‘ kázi rikáb ’.[^fn-p0054-1] Write to me if he possesses the qualifications of learning, unselfishness, and goodness. There is no more important work than ‘ káziship ’, because the people of God (whose dignity is great) are imprisoned or sentenced to death by the decision of a ‘ kázi ’. Kázi Sheikh-ūl-Islám was helped, as it was necessary, by the divine grace in doing good, to inquire into and distinguish between right and wrong. A good man is very rare ; and a rare thing is non-existent ; (therefore, logically, a good man is non-existent ; *i.e.*, there is no good man in the world).
 
 ### Letter 39: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XXXIX.
+#### LETTER XXXIX.
 
 Exalted son, I have heard (that) the superintendent, appointed by you before my final decision, is cautious. (But) here (in the court), Siávash Khán Sháh Mir is partial notwithstanding his high post and an adequate ‘ jághir ’. Honesty is an essential qualification in a servant. Write to me whether Asad-ūd-Din, the son of Diláver Khán, who is near you, possesses this quality (of honesty), in addition to intelligence ; if so, I will summon him into my presence, and appoint him to the post. I, with a wounded heart, insensible, and needy, always seek for honest human beings. These honest people fall under the category of the phœnix[^fn-p0055-1] (*i.e.*, like the phœnix, they are known by their names only, but never seen in the world; *i.e.*, honest people are not to be found in this world).[^fn-p0055-2] A philosopher was asked “What’s the medicine for the disease of selfishness?” He replied, “Selfishness is an innate quality; which gives a polish to the deep and careful attention of the master, so that the servant may not remain needy in any way and his essence (*i.e.*, honesty) may be bright and shining under any circumstance and its purity may not be destroyed by the rust of need.”
 
 ### Letter 40: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XL.
+#### LETTER XL.
 
 Exalted son, robbers are practising their profession often from Chamárkūndeh to Kádirábád.[^fn-p0055-3] Very few travellers traverse the road in safety. Most probably there must be some cause for this. A word to the wise is sufficient. You receive news soon whether from a distance or from near. For the bad plight, why don’t you think of the day of judgment? Attention with regard to the end of our life must be paid just now. It is just to favour a good servant for his distinction (in service) and to punish a bad one for his bad action. As you sow, so shall you reap. I am anxiously waiting for your reply. A tyrant asked for blessings for himself from a holy man. He replied, “Regarding the oppressors themselves they have no effect of blessings but giving justice to the oppressed (*i.e.*, the only way for tyrants to enjoy the effect of blessings is to cease oppressing the people).”
 
 ### Letter 41: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XLI.
+#### LETTER XLI.
 
 Exalted and dear son, I was pleased with some passages in the diary of His Majesty (*i.e.*, Sháh Jehán). For my love to you, I have written them involuntarily to my dear son, so that I myself do not enjoy their benefit alone. (The passages are as follow). ‘ Some actions are the best : not to countenance a bad man ; not to disappoint a man by the non-fulfilment of his desire ; not to afflict a man of a good temperament ; not to beg notwithstanding extreme need ; to keep company with the pious ; to search for the worthy and the able ; to avoid the company of fools ; to give the deserving, as much as you can, before they ask for it ; to honour the learned ; to spend one’s time in justice (or in work) ; not to pay attention to the doctrines of the sacrilegious ; not to be unconscious of the condition of the faithful agents ; to derive benefit from the company of the holy who are strangers in this world ; to encourage those who do good for the affairs of this and the next world ’.
 
@@ -473,7 +473,7 @@ In this age also there are many good men ; but where are those who search for su
 
 ### Letter 42: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XLII.
+#### LETTER XLII.
 
 Exalted son, I liked very much ‘ Gūlshan-rawán ’, the fat horse you have sent me for riding. He has a graceful gait, a mane, a fine form and all the equestrian qualities. You are much pleased with often riding on ‘ Nilūfar ’ and ‘ Chawá-chandan ’ (two horses). I send you a Turkey horse, called ‘ Khūsh-kharám ’ and ‘ Sabá-raftá ’ (another horse), presented to me by Amánat Khán[^fn-p0057-1], and trained under the supervision of Alláh Yár Khán. But the miser head groom sheds tears (and says) “ Why does Your Majesty give away (such) fine horses ”? Notwithstanding, I will send them to you.
 
@@ -481,7 +481,7 @@ Exalted son, I liked very much ‘ Gūlshan-rawán ’, the fat horse you have s
 
 ### Letter 43: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1700. LETTER XLIII.
+#### 1700. LETTER XLIII.
 
 Exalted son, you must have learnt, from the letter of the agent and the reports of the spies, the details of hardships in the invasion of the Ghauts.[^fn-p0057-2] The Mohemadans and the army had to undergo worse conditions and unbearable toils. God be thanked that the calamities of this invasion came entirely to an end and were compensated for by victory and success. Though such hardships are said to be caused by the sins of mankind, yet the action of the governor has a great effect upon the good and evil of people. The action of the governor suggests misery or misfortune on this poor and useless person (*i.e.*, Aurungzebe himself). The fortress of Sattárá[^fn-p0057-3] is now called (by me) A’azam-tárá (and given to you). You should issue an order that the drum of victory will be beaten in your own name. You may remember the words uttered by you in your childhood, “Bábáji, dhūn, dhūn”.[^fn-p0058-1] The fortress of Barnálá[^fn-p0058-2] is now called (by me) Naval-tárá. Ask for the details of my expedition from your slave-girls.
 
@@ -489,19 +489,19 @@ Exalted son, you must have learnt, from the letter of the agent and the reports 
 
 ### Letter 44: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1704. LETTER XLIV.[^fn-p0058-3]
+#### 1704. LETTER XLIV.[^fn-p0058-3]
 
 Exalted son, you have seen the dervish, Mir Arab, in Ahmedábád. Of course, you should again go to him and present him compliments from me who am ashamed of departing for the next world and who desire the pleasures of this world. You should request him to pray for our happiness and for the safety of our religion. Tell him that I am approaching death and have been far from good actions. (Tell him further that) the life of this negligent person (*i.e.*, Aurungzebe) has been passed in vain and the remaining portion of it will also be passed without any fruit ; (and that) death approaches while salvation recedes. (Verse) “Whatever I have done, even a blind man cannot do ; I have lost God in this world (*i.e.*, I did not remember God in this world).”
 
 ### Letter 45: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XLV.
+#### LETTER XLV.
 
 Exalted son, the misbehaviour and impudent conduct of Mir Badhū,[^fn-p0059-1] (your) foster brother (towards you), have been fully laid bare to me by the reports of your expedition. The (following) couplet of ‘the Spiritual Leader’[^fn-p0059-2] applies to his case. (Couplet) “The favours of God treat you mildly ; but if you go beyond (the mild treatment) you are disgraced (or punished by Him)”.[^fn-p0059-3] You thought it necessary to reproach and to disgrace him, because he boasts of the claims of his old mother.[^fn-p0059-4] (But) he does not know the (following) words of Sa‘adi.[^fn-p0059-5] (Couplet) “Don’t put the king, whom you serve, under any obligation ; know that it is you who are obliged by the king by his giving service to you.” Any how the Obliging King (*i.e.*, God) has endowed men with wisdom and (other) good qualities. It is better if you follow my advice and forgive him this fault ; because, (verse) ‘Criminals are worthy of favour.’
 
 ### Letter 46: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XLVI.
+#### LETTER XLVI.
 
 Exalted son, His Majesty (Sháh Jehán) asked Sa'ad Alláh Khán,[^fn-p0060-1] “What are the means of satisfying the Creator and what are the good fruits of our life?” He replied, “Justice and charity with which God has endowed your most holy person.” A person said to the qualified Khán in a sarcastic tone, “Honest and faithful men are very rare in this world ; possibly you know this.” He replied, “The world is not, in any way, devoid of honest people. A wise man must take good men into his service, look after their welfare, realise his desires through them, and not listen to the words of the selfish against them.” His Majesty observed, “Honest and respectable men and good officers are rare. He who is favoured by God with the highest position must inquire into the condition of honest and good people. He must not regard an able person worthless though he may be a stranger. He must avoid the company of foolish and worthless people though they may be equal to him in position. He must favour and patronise a good and friendly officer.”
 
@@ -509,13 +509,13 @@ Exalted son, His Majesty (Sháh Jehán) asked Sa'ad Alláh Khán,[^fn-p0060-1] �
 
 ### Letter 47: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XLVII.
+#### LETTER XLVII.
 
 Exalted son, one day His Majesty (Sháh Jehán) said privately to Dárá Shekūh,[^fn-p0060-2] “You should not be ill-disposed to and suspicious of the royal grandees.[^fn-p0060-3] You should treat all of them with favour and kindness and not listen to the words of the selfish and the liars against them. Because this advice will be one day useful to you.” As my heart warms towards you, I write to you what I ought not to write. To shew hypocrisy to worthy people is to spoil the business.
 
 ### Letter 48: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XLVIII.
+#### LETTER XLVIII.
 
 Exalted son, one day His Majesty (Sháh Jehán) entered the ‘Ghosal Kháneh’[^fn-p0061-1] in a sad mood. Sa’ad Alláh Khán[^fn-p0061-2] and Ali *Mardán Khán*[^fn-p0061-3] asked for the cause of distraction of his noble mind. His Majesty observed, “Some of the civil and financial officers have died. Other dignified persons are not found immediately to undertake such important affairs. My mind is not at peace for the thought lest order will be destroyed.” Kilich Khán[^fn-p0061-4] said, “The
 
@@ -527,7 +527,7 @@ well-being of the important affairs of the permanent sovereignty depends upon th
 
 ### Letter 49: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER XLIX.
+#### LETTER XLIX.
 
 Exalted son, Kámyáb Khán, the clerk of the assistant of your secretary, has written me a letter. (Couplet) “ He who draws the sword of oppression is killed by Providence with the same sword (*i.e.*, he who practises oppression is oppressed in return).” What is done (by you) for order and discipline is done. It would have been better had you not made unallowable haste (in inflicting a capital punishment upon the oppressive officer—mentioned in the clerk’s letter). Nevertheless, though retaliation[^fn-p0063-1] is a just law, the affliction of (one’s) heart is the cause of displeasure to God. For this reason it is said (verse), “ There is pleasure in pardoning a person, but there is no pleasure in retaliating on him.”
 
@@ -535,7 +535,7 @@ Exalted son, Kámyáb Khán, the clerk of the assistant of your secretary, has w
 
 ### Letter 50: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER L.
+#### LETTER L.
 
 Exalted and blessed son, Muhammad A’azam, may God save and protect you. You have known the condition of my riding horses. The Emperor Jehángir (Aurungzebe’s grandfather) punished so severely his head groom that it proved absurd to give him the title of ‘Saf Shekan Khán’ (lit. the master of the breaker of the files of an army). (Verse) “It is quite contrary to the nature of a negro to call him a ‘káfūr’ (camphor).”[^fn-p0063-2] His Majesty (Sháh Jehán) used to say, “A senseless man spoils the business. We are helpless in making suitable appointments in times of difficulties and hardships of journey and of arrangement in an emergency.” You should select one from your grooms and (then) write to me. (Verse) “We must put up with every class of people ; what is to be done with them ? they are also people.”
 
@@ -543,7 +543,7 @@ Exalted and blessed son, Muhammad A’azam, may God save and protect you. You ha
 
 ### Letter 51: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LI.
+#### LETTER LI.
 
 Exalted son, a reporter writes to his own brother from the district of Lauli (that) “The tolls on merchants and travellers bring forth every year from Rs. 15000 to 16000 ; but the district treasurer and the police officer do not send to the royal treasury more than Rs. 1000 or 2000.” Truly, this is not ‘ráh-dári’[^fn-p0064-1] (collecting tolls) but ‘ráh-zani’ (robbing the king of his property). The (use of the) property of the people (by the king for his private expenses) is unlawful[^fn-p0064-2]. If these officers take five percent out of hundred and one percent out of forty (of the tolls) I will not grudge it. Suppose that the dishonest practice of the treasurer is disclosed, the first thing for enquiring into this is that an order should be issued in the names of the commissioner and the secretary. Then I know what to do about his dishonesty. The half of the produce of the land is allowable to the landlord and the remaining (half) is the property of the king.
 
@@ -553,7 +553,7 @@ In the reign of His Majesty (Sháh Jehán), a person, at the time of the passing
 
 ### Letter 52: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LII.
+#### LETTER LII.
 
 Exalted son, Sa’aeed Khán Bahádūr Zafer Jang[^fn-p0065-1] brought a person into the presence of His Majesty (Sháh Jehán), and out of good grace praised him. Sa’ad Alláh Khán allowed nothing to pass from truth (*i.e.*, gave justice to the man) and said, “May Sa’aeed Khán be happy who presents such a man (before Your Majesty) and speaks to Your Majesty about his good manners.” Words passed from the auspicious tongue of H. M. (to the effect that), “It is your (*i.e.* officers’) business to bring servants into my presence, while my work is to patronise them in order to give lustre to affairs. The officers should oblige me by finding out and then presenting before me erudite and well-versed secretaries, honest officers and many respectable soldiers whom I want.” The prime minister[^fn-p0065-2] said, “The man of every class, who does every useful work in your holy reign, is, in the end, honoured with a worthy post and presented a costly robe of honour.” His Majesty ordered the prime minister to examine the ability of the man and then to give him a fine service. Sa’aeed Khán Bahádūr, out of thankfulness for the good favours of the appreciating potentate (*i e.* Sháh Jehán), distributed Rs. 10000 among pious, virtuous and poor people.
 
@@ -561,7 +561,7 @@ Exalted son, Sa’aeed Khán Bahádūr Zafer Jang[^fn-p0065-1] brought a person 
 
 ### Letter 53: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LIII.
+#### LETTER LIII.
 
 Exalted son, one day Pahár Amal, the secretary of the unfriendly brother,[^fn-p0066-1] produced a balance sheet before His Majesty (Sháh Jehán), and said, “ Ten lacs of rupees, for the payment of the balance of the days in which we (*i.e.* Dárá and Pahár Amal) had accounts with each other, are to be paid from the royal treasury. Your Majesty should order the payment.” His Majesty handed over the balance sheet to Sa’ad Alláh Khán and said, “ With a view to looking into details, examine the sheet and then speak to me.” The above-mentioned Khán said immediately, “ Such a large sum of money should not be paid from the royal treasury. Next time the cash account will be settled for the payment of each other.” After the dispersal of the court, Dárá the Pompous uttered angry words to the prime minister (*i.e.* Sa’ad Alláh Khán). When the note sent by the officer of the ‘Ghosal Kháneh’[^fn-p0066-2] reached H. M., at once H. M. wrote a letter to the unfriendly brother and inserted the following couplet in it : (Couplet) “ To quarrel with the good and the virtuous is to shew enmity to oneself ; he who draws a dagger on a mirror draws it on himself.” (H.M. further wrote in the letter) “ It is a special qualification of princes to distinguish between right and wrong. Pahár Amal wants to economise for you while Sa’ad Alláh Khán does to preserve my property. If the balance sheet was verified from your account book, it was your duty to inquire whether it was possible or impossible for Sa’ad Alláh Khán to pay the sum. Otherwise it is very bad to afflict (the hearts of) the royal servants, especially Sa’ad Alláh Khán. It is good to win the hearts of these men.[^fn-p0067-1] Able and intelligent servants are the source of increase of property and of a good name to their masters.” In the evening His Majesty presented Sa’ad Alláh Khán some bundles of Mahmūdi[^fn-p0067-2] cloth embroidered in one colour and three thousand ‘dinárs’ [^fn-p0067-3] in cash.
 
@@ -569,7 +569,7 @@ Exalted son, one day Pahár Amal, the secretary of the unfriendly brother,[^fn-p
 
 ### Letter 54: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LIV.[^fn-p0067-4]
+#### LETTER LIV.[^fn-p0067-4]
 
 Exalted son, this verbal story has reached my ears from a reliable source. I write it to you in details so that you may also know it. One day His Majesty (Sháh Jehán) honoured Ali Mardán Khán[^fn-p0067-5] and Sa’ad Alláh Khán[^fn-p0067-6] with the distinction of special audience before H. M.’s presence ; and said eloquently, “ The order and management of the kingdom and property simply depend upon wisdom and justice. May God forbid, if an unworthy king attains to the dignity of sovereignty and appoints ministers and nobles having no sound judgment to posts (in the kingdom), absolute disorder will prevail in the management of the country. Then follow the ruin and poverty of the subjects, and the country yields a reduced revenue and (thus) is ruined. For pleasing God you should associate with the pious and the religious. After the five prayers you should pray for me that the splendour of the kingdom may not diminish and that no one may use abusive language. After my death the son who succeeds me[^fn-p0068-1] will be helped with good graces. Many times I have been thinking that though the eldest son of sovereignty[^fn-p0068-2] possesses dignity and pomp and grandeur and glory, he is an enemy of the good and a friend to the bad.[^fn-p0068-3] (Verse) ‘He is good towards the vicious and unfriendly towards the virtuous.’ Shūjá[^fn-p0068-4] possesses no quality except generosity. Mūrád Bakhsha[^fn-p0068-5] has no virtue at all. He is engaged in eating and drinking and is constantly indulging in wine. But such and such a person, *i.e.* this humble mortal (*i.e.* Aurungzebe), seems to me to possess determination and foresight.[^fn-p0068-6]. Most probably he will be king after me.” Sa’ad Alláh Khán recited the (following) hemistich of ‘the Spiritual Leader’[^fn-p0069-1]: “A foresighted man is auspicious.” His Majesty observed, (verse) “Who will be selected by God and towards whom will His inclination be?”
 
@@ -577,7 +577,7 @@ Exalted son, this verbal story has reached my ears from a reliable source. I wri
 
 ### Letter 55: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LV.
+#### LETTER LV.
 
 My dear son, it is said that on the day of ‘Chauki[^fn-p0069-2],’ Ali Mardán Khán[^fn-p0069-3], Abù Sa'aeed Marz, and Kilich Khán[^fn-p0069-4] used to first offer the soldiers coffee; then at the time of breakfast, they used to serve them breakfast; at the time of dinner, dinner; and at the time of departure, perfumes and ‘páns[^fn-p0069-5].’ They used to send various dishes to the family members of the soldiers and to say ‘Their wives and children do not taunt us for feeding the soldiers alone and for want of magnanimity (towards them) and are not grieved'.
 
@@ -587,7 +587,7 @@ In former times a person began to complain of the times before a great man. The 
 
 ### Letter 56: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1690 or 1701. LETTER LVI.
+#### 1690 or 1701. LETTER LVI.
 
 Exalted son, Fázil Khán[^fn-p0071-1], your spiritual leader, died. I am sorry (for his death). He was confidential (or learned), careful about his business, and of a good disposition. He kept finance officers under his charge carefully and cautiously. He illumined the house of this humble creature (*i. e.*, Aurungzebe himself) with his stewardship. You should not also doubt the good nature of Vazier Khán Háji Muhammad[^fn-p0071-2]. Though Saiyad Muhammad Khán and Mir Nayáz are not bad, yet they are strict officers. When most of the officers under you are my servants, just now I want Kábil Khán and I require him from you. You should appoint Muhammad Mūhasan to the office held by Kábil Khán. In my court there is dearth of good men (*i.e.*, are very few)[^fn-p0071-3]. Till his arrival here Ináyat Alláh Khán[^fn-p0071-4] will act for him, though he has much work. Háfizeh Mariam[^fn-p0072-1] claims a better right. Her son (*i. e.*, Ináyat Alláh Khán) is known to me by his ability ; but he is harsh towards his relatives. Directly and indirectly I often tell you by way of advice, “ Ragūnáth Sa’ad Alláh Khán[^fn-p0072-2] did not assign financial posts to his own brothers and used to say, ‘ Those very brothers are (like) officers who bring ruin to the houses (of their masters). May God guide or kill them’.”
 
@@ -595,7 +595,7 @@ Exalted son, Fázil Khán[^fn-p0071-1], your spiritual leader, died. I am sorry 
 
 ### Letter 57: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LVII.[^fn-p0072-3]
+#### LETTER LVII.[^fn-p0072-3]
 
 Exalted son, the delicious mangoes (sent by you) sweetened the palate of the old father. May the happiness and fortune of the young son ((*i.e.*, A’azam) be augmented. (Verse) “ Whatever proceeds from a friend is good.”
 
@@ -603,7 +603,7 @@ Exalted son, the delicious mangoes (sent by you) sweetened the palate of the old
 
 ### Letter 58: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1704. LETTER LVIII.
+#### 1704. LETTER LVIII.
 
 Exalted son, life of the father, produce of the life of the father (*i.e.*, dear son), the province of Gūjarát[^fn-p0072-4] is not like Bengál, the Deccan and Cábūl (*i.e.*, Gūjarát is in the middle of the empire and not on the borders, like Bengál, the Deccan and Cábūl) that owing to a great distance and a frontier of the kingdom, the appointment of commissioners (for Gūjarát) should be accepted volens nolens (by you) (*i.e.*, the commissioners for Gūjarát must not be appointed by others but by ourselves, because it is situated in the middle of the empire). Henceforth you should act according to my system till the work is executed with promise and threat (to commissioners). The police officer of the district of Dohud[^fn-p0073-1], who is old and sickly, did not come into your presence on account of (his) physical infirmities. He should not be dismissed (from his post) by you and should be left to follow his own way.
 
@@ -611,13 +611,13 @@ Exalted son, life of the father, produce of the life of the father (*i.e.*, dear
 
 ### Letter 59: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LIX.
+#### LETTER LIX.
 
 Exalted son, a saint wrote a tradition and brought it to me (and said), “His Holiness the Prophet (*i.e.*, Mahomet)—may the benediction and peace of God be upon him and upon his family—asked the great (angel), Gabriel, ‘Which service is the best?’ The angel replied, ‘The service of kings which brings benefit and pleasure to the needy.’ I also wish to enter the service of kings and to fulfil the desires of the Mohemadans.” I said, “There is no objection against this (your serving me)”.
 
 ### Letter 60: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LX.[^fn-p0074-1]
+#### LETTER LX.[^fn-p0074-1]
 
 Exalted son, to refuse the presents brought by the nobles before you is a loss to the royal treasury. Though this time I forgive you for goodness’ sake, you should not do so in future.
 
@@ -625,13 +625,13 @@ Exalted son, to refuse the presents brought by the nobles before you is a loss t
 
 ### Letter 61: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LXI.
+#### LETTER LXI.
 
 Exalted son, the Turkey horse[^fn-p0074-2] you sent this time has a good appearance and nature. He is again better than the first one. I have named him ‘Sabūk-sair’ (lit. of a light walk, *i.e.*, swift), because this name harmonises with the thing named (*i.e.*, the horse).
 
 ### Letter 62: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LXII.
+#### LETTER LXII.
 
 Exalted son, at your suggestion I made Mūswi Khán[^fn-p0074-3] the chief paymaster. It is sufficient if the servant discharges his duty satisfactorily. His appearance is not bad. I don’t know his character. (Verse) “The wickedness of the soul (*i.e.*, the character of a man) is not known for many years.” It is a general rule to inquire privately into the character of a man who is to be appointed to a post. Because in the beginning (of the service of servants) people are deceived by the performance of good service; but afterwards they find themselves to be served by selfish servants. Here after Eftikhár Khán[^fn-p0075-1] and Muhammad Ali Khán[^fn-p0075-2], Fázil Khán[^fn-p0075-3] and Fazáyal Khán[^fn-p0075-4] managed the ‘Khámáni’ post well, from whose foreheads good signs were seen (to proceed). Physical diseases can be cured by doctors; but mental diseases, like selfishness, can be remedied only by the Changer of Hearts (*i.e.*, God).
 
@@ -639,19 +639,19 @@ Exalted son, at your suggestion I made Mūswi Khán[^fn-p0074-3] the chief payma
 
 ### Letter 63: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LXIII.
+#### LETTER LXIII.
 
 Exalted son, may the Great God protect thee. I wanted to make Diánat Khán Abdūl Kádir the secretary to (my) grandson Bahádūr[^fn-p0075-5]; but his name does not agree with his nature (*i.e.*, he is dishonest—Diánat Khán means ‘the honest Khán’). Honesty is not to be expected from him.
 
 ### Letter 64: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1704. LETTER LXIV.
+#### 1704. LETTER LXIV.
 
 Exalted son, you possess a sound judgment in executing (my) orders. Gujarát is the ornament and jewel of India[^fn-p0076-1]. Here are found men belonging to every kind of industry, art and profession. The sample (of an article) sent to me recently from the royal factory in Gujarát is rough and costly. You should, of course, make an inquiry into this matter.
 
 ### Letter 65: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LXV.
+#### LETTER LXV.
 
 Exalted son, from the detailed reports sent to me from the Nurbadá[^fn-p0077-1] (I came to know) that Amán Alláh Beg[^fn-p0077-2], the superintendent of the artillery of (my) dear son ((*i. e.*, A'azam), totally defeated the Satan-like, wicked and shameless Santá[^fn-p0077-3] and brought safe the provisions of Bák Khán and his own followers. Indeed, his endeavours and exploits, together with those of his followers, are worthy of praise and laudation. You should show him proper favours and recommend him to me also.
 
@@ -659,7 +659,7 @@ Exalted son, from the detailed reports sent to me from the Nurbadá[^fn-p0077-1]
 
 ### Letter 66: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LXVI.
+#### LETTER LXVI.
 
 Exalted son, Mir Jalál–ūd–Din[^fn-p0077-4], who has resigned your service, is evidently the nephew of the late Himmat Khán[^fn-p0077-5] who was my chief paymaster. He is a true Saiyad[^fn-p0078-1], of noble birth, and of a good character. Why have you dismissed him ?
 
@@ -667,7 +667,7 @@ Exalted son, Mir Jalál–ūd–Din[^fn-p0077-4], who has resigned your service,
 
 ### Letter 67: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LXVII.
+#### LETTER LXVII.
 
 Exalted son, why did the sons of Shamshir Khán[^fn-p0078-2] resign ? There must be some cause for their resignation. To dismiss old servants for a slight offence and to appoint new ones (in their places) is totally useless. I am like the sun approaching the vault (of the sky—*i. e.*, I am nearing death)[^fn-p0078-3]. What do you think ? Any how, if you come before my holy presence and become a king, I won’t mind it[^fn-p0078-4].
 
@@ -675,7 +675,7 @@ Exalted son, why did the sons of Shamshir Khán[^fn-p0078-2] resign ? There must
 
 ### Letter 68: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LXVIII.
+#### LETTER LXVIII.
 
 Exalted son, (couplet) “ Your companion must be better than yourself, so that your wisdom and faith may increase.” For a long time I have heard that in your ‘ Jághir ’ districts oppression is practised openly. Justice does not remove the oppressors for the sake of the poor oppressed who have no access to the ruler. In the court of God the angels write down the acts of oppression in the account of the governor appointed (by you or by me)[^fn-p0078-5]. What does it mean to give so much power to the second paymaster and
 
@@ -687,13 +687,13 @@ to put great confidence in him so that no one has power ot speak against his act
 
 ### Letter 69: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LXIX.
+#### LETTER LXIX.
 
 Exalted son, Eftikhár Khán[^fn-p0079-1], at the time of the service of (his) stewardship, owing to (his) good nature, experience, and careful attention, made me the (following) fine statement, “Dishonesty does not consist only in taking and dragging property, but in representing truth as untruth and untruth as truth.” I was much pleased (at these words); and I issued forth a strict order to all officers and royal servants (to the effect) that they should represent to me the facts about each person without any exaggeration and should not care for the dignities of relatives, acquaintances, and strangers.
 
 ### Letter 70: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LXX.
+#### LETTER LXX.
 
 Exalted son, when His Majesty (Sháh Jehán) conferred the title of ‘ Ráo’[^fn-p0080-1] upon Jasvant Khatri[^fn-p0080-2] and made him a private secretary, he told him, “ You should be honest in relation to myself and those who want ‘ jághirs’. When a list of the newly appointed persons and of additional titles or ‘jághirs’ is brought to me (for reference), you should bring before my presence four or five officers in the evening when I am looking at the maps of provinces and the designs of buildings in the courtyard of the ‘ Ghosal Kháneh,’[^fn-p0080-3] so that after examining the character and lineage of every one I will issue an order for ‘ jághirs’.” In the same way he issued an order to the superintendent of the ‘dágh--tasihah’[^fn-p0080-4] (to the effect) that he must receive any orders for branding (horses) with the seals of paymasters and then presenting them to His Majesty he must brand the horses; and that he must give an account of the expenses (of branding) to the secretary.
 
@@ -701,7 +701,7 @@ On account of the hardships of the difficult expedition I could not pay any atte
 
 ### Letter 71: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### LETTER LXXI.[^fn-p0081-3]
+#### LETTER LXXI.[^fn-p0081-3]
 
 Exalted son, from the reports sent to the royal court by reporters I came to know the details of the story of the impudence and misbehaviour of Hidáyat Keesh–i–Punjábi who, having drunk wine, walked on the enlightened tomb of Sháh Bandeh Naváz Gisū Daráz[^fn-p0082-1] and (thus) displayed his low spirit. When that wicked man had gone to that (holy) place in a drunken state, you ought to have sent your servants with an order to bind him hand and foot and to bring him (before you); and then having placed him in front, you ought to have sent him to me along with mace-bearers[^fn-p0082-2]. Evidently partiality should not be allowed to the reporter; for this, I have sent (to you) strict mace-bearers in order to bind the accursed (Punjábi) and to bring him (before me).
 
@@ -711,7 +711,7 @@ When unworthy persons, appointed to service, do such acts, in such cases I do no
 
 ### Letter 72: Aurungzebe → Prince Mahammad A’azam Shah Bahadur
 
-### 1707. LETTER LXXII.[^fn-p0082-4]
+#### 1707. LETTER LXXII.[^fn-p0082-4]
 
 (This letter was written in the enlightened writing in the state of death).
 
@@ -721,21 +721,21 @@ May peace be upon you and upon those who are near you. Old age arrived and weakn
 
 * * *
 
-### **Letter addressed to** Kám Bakhsha[^fn-p0085-1].
+### **Letter addressed to**<br />Kám Bakhsha[^fn-p0085-1].
 
 ### Letter 73: Aurungzebe → Kám Bakhsha
 
-### 1707. LETTER LXXIII[^fn-p0085-2].
+#### 1707. LETTER LXXIII[^fn-p0085-2].
 
 (This letter was written by Aurungzebe to the prince Sultan Muhammad Kám Bakhsha at the time of his death).
 
 My charming son, though in (this) world of free will (where men act according to their own will), I advised you about the divine will, and more than this, about the divine power, it was destined that you would not listen to and accept this advice. Now I go away (to the next world) as a stranger from all ; and I pity you for your want of intelligence and ability ; but now of what use ? I carry with me (to the next world) the fruits of sins and crimes which I had perpetrated (in this world). Nature is wonderful that I came alone (*i.e.*, naked–in this world) and go (to the next world) with this burden (of sins). Though fever attacked me for twelve days, (now) it could not bear (my leanness) and left me. Wherever I cast my glances I find nothing but God. The anxiety about my officers and army and for their future responsibility became the cause of the grief of my heart (*i.e.*, I am in grief that my officers and army will not be treated and guided well by my successors who are weak). I am unconscious about myself. I committed many sins. I do not know how I shall be punished (by God). Though the subjects will be protected by the Master of both the worlds (*i. e.*, God), it is a bounden duty of the Mohemadans and of (my) sons also to protect and save them according to outward circumstances. A’azam is also near me ; and I have spoken to him what was necessary about you. You should also accept my last will[^fn-p0086-1]. It should not be that the Mohemadans be killed (in war) ; and the blame (of their being killed) will remain upon the neck of this useless (creature—*i.e.*, Aurungzebe). I entrust you and your sons to (the care of) God and I myself ask your leave for departure (from this world). (My) condition is distracted (*i. e.*, I am restless). Bahádūr Sháh is in the same place in which he was. (My) grandson, the glorious A’azim, is gone to the frontier of India. (My) grandson Bahádūr is in the neighbourhood of Gūjarát. Hiyát-ūn-Nisá (or Zinat-ūn-Nisá ?), who has not enjoyed the pleasures of the world, is in grief. The Begum knows her own condition (*i.e.*, her condition is so bad that it cannot be described). Udepūri,[^fn-p0086-2] your mother, was with me in (my) sickness. She intends to accompany me (after my death—*i. e.*, she will soon die after me like a Hindu ‘ Sati ’). Though my relatives and servants shew wheat and sell barley (*i.e.*, are hypocrites), you should give them employment through kindness, mildness, and carelessness (towards their hypocrisy). You should cut the coat according to the cloth. May the peace of God be upon you.
 
-### **Letters addressed to** Prince Muhammad Ma’az-ūd-Din Bahádūr[^fn-p0087-1], the eldest son of Sultan Muhammad Mūazzam, Sháh Álam Bahádūr (the crown prince).
+#### **Letters addressed to**<br />Prince Muhammad Ma’az-ūd-Din Bahádūr[^fn-p0087-1],<br />the eldest son of Sultan Muhammad Mūazzam,<br />Sháh Álam Bahádūr (the crown prince).
 
 ### Letter 74: Aurungzebe → Prince Muhammad Ma’az-ūd-Din Bahádūr
 
-### 1706. LETTER LXXIV.
+#### 1706. LETTER LXXIV.
 
 Grandson Bahádūr, (your) victory over Malek Gházi and his defeat gave me much pleasure and I praise you for that. As a reward for (this) great service you are given the ‘faujdárship’ of Lakhi Jungle[^fn-p0087-2], a military title of ‘Dah-Hazári,[^fn-p0087-3] and an additional title. Along with a mandate conferring these posts, a robe of honour, a sword, a horse, an elephant and jewels will be sent to you. You should pay greater and greater attention to conquering kingdoms and extirpating the rebels from the district (*i.e.*, Lakhi Jungle), which should be the duties of princes. You should not wait for (my) order to punish the rebels, and you should not expect an additional title like (the government) servants, because the kingdom belongs to you (*i. e.*, you are a prince). I am like the sun on the border of the horizon (*i. e.*, I am old and nearing death).
 
@@ -743,21 +743,21 @@ Grandson Bahádūr, (your) victory over Malek Gházi and his defeat gave me much
 
 ### Letter 75: Aurungzebe → Prince Muhammad Ma’az-ūd-Din Bahádūr
 
-### LETTER LXXV.
+#### LETTER LXXV.
 
 Brave grandson, the sagacious sons should not write (to me) asking for additional titles to reporters. Why do you make me this unreasonable request ? But if you think it proper, the service of reportership will be given to another, because the present reporter does not perform his duty well (he is not a true reporter). (Couplet) “ When selfishness came, merit was concealed ; a hundred curtains of hearts (*i. e.*, men) fell on eyes (*i. e.*, merit is not appreciated and rewarded by selfish people ; they are blind to merit).”
 
-### **Letters addressed to** Prince Muhammad Bidár Bakhta[^fn-p0089-1], the eldest son of Sultan Muhammad A’azam Sháh Bahádūr.
+### **Letters addressed to**<br />Prince Muhammad Bidár Bakhta[^fn-p0089-1],<br />the eldest son of Sultan Muhammad A’azam Sháh Bahádūr.
 
 ### Letter 76: Aurungzebe → Prince Muhammad Bidár Bakhta
 
-### LETTER LXXVI.
+#### LETTER LXXVI.
 
 My grandson Bahádūr, from outside reports I came to know that during the time of your stay at Fatehpūr[^fn-p0089-2], wicked persons attacked the place of Doharah which was attached (given) to Jehán Árá Begum[^fn-p0089-3] for the expenses of her garden. The Begum wrote this to you ; and you tendered her a letter of apology. Why did you not communicate this circumstance to me ? Why did you conceal the correspondence that passed between you and the Begum ?
 
 ### Letter 77: Aurungzebe → Prince Muhammad Bidár Bakhta
 
-### LETTER LXXVII.
+#### LETTER LXXVII.
 
 Brave grandson, as you have before sent me a present for conquering the fortress of Bareetee Sháh, this (second) present for the same purpose is a repetition (only). As you are going on an expedition I do not accept the second present (because you will require more money for the expedition); but forgetfulness on your part cannot be justified.
 
@@ -765,7 +765,7 @@ Brave grandson, as you have before sent me a present for conquering the fortress
 
 ### Letter 78: Aurungzebe → Prince Muhammad Bidár Bakhta
 
-### LETTER LXXVIII.
+#### LETTER LXXVIII.
 
 Grandson Bahádūr, for removing physical diseases and avoiding dangers you should continue the morning prayer which is accepted by God. All erudite and learned persons unanimously agree that to blow on water by reciting ‘Sūrat-i-Ikhalás’ and ‘Sūrat-i-Shafa’a’[^fn-p0090-1] and then to drink that water is the great and immediate cure (of diseases). Though to weigh the entire body of a person against gold, silver, copper, corn, oil and other commodities is not the practice of the country of our ancestors and of the Mohemadans of this country (*i. e.*, India), many needy and poor persons are benefited by this practice (therefore we must also observe this practice)[^fn-p0090-2]. His Majesty (Sháh Jehán) also used to weigh (against gold, silver &c.) his auspicious body twice a year and (then ) to distribute the gold and silver equal to the weight of his own body among the poor. If this light of my eyes (*i. e.*, grandson Bahádūr) will weigh his body against various commodities, which are mentioned in the letter, fourteen times a year, it will be efficacious for removing mental and physical calamities. (Couplet) “You (*i. e.*, God) know our (man’s) weakness, anxiety, and invalidity ; and You also know the remedy and cure of our diseases.” God is the curer and healer of diseases ; God is perfect ; and God is holy.
 
@@ -773,7 +773,7 @@ Grandson Bahádūr, for removing physical diseases and avoiding dangers you shou
 
 ### Letter 79: Aurungzebe → Prince Muhammad Bidár Bakhta
 
-### LETTER LXXIX.
+#### LETTER LXXIX.
 
 Dear grandson, why is your officer absent from performing state affairs ? He should not be given a post in the state, because he does not serve the state and the army. You should not act like your officer. Send him to me or keep him as your servant. This (not performing the state affairs though being state servants) is the habit of Firūz Jang and Nasrat Jang[^fn-p0091-1]. This light of my sight (*i. e.*, grandson Bahádūr) should not follow such men. (Quatrain) “The time of permanency (*i. e.*, of the world) passes away like the wind in the desert. Misery and happiness, beauty and ugliness, pass away (*i. e.*, time does not stop for any one). Everything in the world perishes. The oppressor thought that he oppressed us (*i. e.*, others) ; but the burden of oppression remained on his own neck and passed away from ours (*i. e.*, the oppressor thinks that the oppressed are suffering under his oppression ; but really the oppressed are free from the burden of oppression after a time, while the oppressor is never free from it in his life, because he will be punished for oppression in the next world) ”.
 
@@ -781,7 +781,7 @@ Dear grandson, why is your officer absent from performing state affairs ? He sho
 
 ### Letter 80: Aurungzebe → Prince Muhammad Bidár Bakhta
 
-### LETTER LXXX.
+#### LETTER LXXX.
 
 My brave grandson, at this time there is a dearth of good men and women (*i. e.*, are very rare).[^fn-p0092-1] Work must be done according to the dictates of the heart and not according to the sayings of bad people. More than this cannot be written ; because it causes slander and sin. (Verse) “ The wall has got ears ; move your lips after thinking (*i. e.*, think before you speak)”.
 
@@ -789,7 +789,7 @@ My brave grandson, at this time there is a dearth of good men and women (*i. e.*
 
 ### Letter 81: Aurungzebe → Prince Muhammad Bidár Bakhta
 
-### LETTER LXXXI.
+#### LETTER LXXXI.
 
 My brave grandson, there is an enmity between the physically and mentally weak Khán Álam[^fn-p0092-2] and Nasrat Jang. You should make Ráo Dūlip[^fn-p0092-3] a mediator between them and reconcile them to each other. Having tried to win the heart of Nasrat Jang, appoint his secretary to the governorship of Málwá. Fidá Khán[^fn-p0092-4] should be sent for stewardship.
 
@@ -797,7 +797,7 @@ My brave grandson, there is an enmity between the physically and mentally weak K
 
 ### Letter 82: Aurungzebe → Prince Muhammad Bidár Bakhta
 
-### LETTER LXXXII.
+#### LETTER LXXXII.
 
 My dear grandson, may you be benefited and prosperous in religious and worldly matters. You conquered the fortresses of Tarkand[^fn-p0093-1] and Navalkand[^fn-p0093-2] from wicked and misguided people. May God be praised. The achievement of this dear son deserves much praise and laudation. Your Shamsheer Khán[^fn-p0093-3] is also a good counsellor. A good work proceeds from a good man. I changed the name of Tarkand into Shamsheer Gadha (lit. the fortress of Shamsheer Khán). The conquest of the fortresses by one (*i. e.*, by you) and the claim of the conquest by the other (*i.e.*, by me) excite the special greed of the world conquering (*i. e.*, my) treasury. (Couplet) “The sockets of the eyes of the greedy are never filled (*i. e.*, the greedy are never satisfied). Till the shell was not contented it was not filled (with pearls-*i. e.*, even the shell is not satisfied though it gets many pearls in it)”.
 
@@ -805,7 +805,7 @@ My dear grandson, may you be benefited and prosperous in religious and worldly m
 
 ### Letter 83: Aurungzebe → Prince Muhammad Bidár Bakhta
 
-### LETTER LXXXIII.
+#### LETTER LXXXIII.
 
 Grandson Bahádūr, to win the hearts of soldiers is the greatest part of success[^fn-p0093-4]. He of a happy disposition and of a high birth (*i. e.*, you) should try his best to execute this affair according to the entire sound advice of his forefathers. Because on the continent of India, this piece of bread (*i.e.*, the Mogul Empire) is a generous gift (to us) from Their Majesties, the Lord of the Happy Conjunction (*i.e.*, Tamerlane) and the Resident of Heaven (*i.e.*, Akbar)[^fn-p0093-5]. If, through the blessings of the bounties of the Transcendent God, you can do (something) for the stability and extent (of the empire), the eloquent historians will write down the details of it which will remain memorable upon the book of the pages of everlasting time. (Couplet) “If you are going to enjoy the garden, be quick; because the spring will pass away like the colour of lawsonia inermis (a colouring shrub—*i.e.*, don’t delay in taking advantage of the opportunity offered to you; otherwise you will lose it and there will be no chance of your having it again)”.
 
@@ -813,13 +813,13 @@ Grandson Bahádūr, to win the hearts of soldiers is the greatest part of succes
 
 ### Letter 84: Aurungzebe → Prince Muhammad Bidár Bakhta
 
-### 1703. LETTER LXXXIV.[^fn-p0094-1]
+#### 1703. LETTER LXXXIV.[^fn-p0094-1]
 
 Grandson Bahádūr, the expenses incurred by Khán Firūz Jang for his followers (in receiving me when I was passing from Bahádūrgadh) appeared to me more than proportionate to his rank and salary. (During my reception by him) I observed guns, ‘rekhlás’[^fn-p0094-2], ‘báns’[^fn-p0094-3], ‘rám-jangis’[^fn-p0094-4], ‘jazáyars’[^fn-p0094-5], ‘god-náls’[^fn-p0094-6], ‘shūtūr-náls’[^fn-p0094-7], ‘gaj-náls’[^fn-p0094-8], riding horses with necessary equipments, horses and elephants equipped with armours stuffed with silk, other necessary things of pomp and dignity, and many other things which were either necessary or unnecessary. Therefore I confiscated many of the belongings of the Khán. Why do you, who have got things double those of the Khán, waste money and spend it without any cause? To spend money after useful things is necessary; but to spend it after other things (*i.e.*, useless things) is for self-adornment.
 
 ### Letter 85: Aurungzebe → Prince Muhammad Bidár Bakhta
 
-### 1692. Letter LXXXV.
+#### 1692. Letter LXXXV.
 
 Grandson Bahádūr, I read (your) petition word by word. It enjoins two alternatives (*i. e.*, you should choose one of the alternatives). I must go to Málvá and Akbarábád[^fn-p0095-1], and you, to the Deccan, or vice versa. Write to me which of the two alternatives you find suitable.
 
@@ -827,49 +827,49 @@ Grandson Bahádūr, I read (your) petition word by word. It enjoins two alternat
 
 ### Letter 86: Aurungzebe → Prince Muhammad Bidár Bakhta
 
-### LETTER LXXXVI.
+#### LETTER LXXXVI.
 
 Brave grandson, this light of sight (*i. e.*, dear grandson Bahádūr) writes in (the beginning of) many letters (to me) ‘May eternity join with fortune (*i.e.*, may your-Aurungzebe's-fortune be eternal)’. It is impossible that (one's) fortune should last from generation to generation. (Then) how will it reach eternity? (*i. e.*, fortune is not eternal). (Henceforth) you should begin every letter (thus): ‘By the blessings of the bounties of the Unrivalled Exalted God’. Because God says truly ‘Man is created helpless’[^fn-p0095-2]. (Couplet) “Know that the opposition of an enemy and a friend is from God; because the hearts of both of them are in His possession (*i. e.*, the source of enmity as well as friendship is God and not man; because man's actions are subject to God's will).”
 
-### **Letters addressed to** Muhammad Azim-ūd-Din Bahádūr,[^fn-p0096-1] second son of Mūazzam Sháh Álam Bahádūr.
+#### **Letters addressed to**<br />Muhammad Azim-ūd-Din Bahádūr,[^fn-p0096-1]<br />second son of Mūazzam Sháh Álam Bahádūr.
 
 ### Letter 87: Aurungzebe → Muhammad Azim-ūd-Din Bahádūr
 
-### 1704.  LETTER  LXXXVII.
+#### 1704.  LETTER  LXXXVII.
 
 (My) grandson, well versed in repeating the great and ancient Koran by heart, some political affairs are taken into consideration.  I am excessively desirous of seeing this light of the eye (*i. e.*, my dear grandson).  Having looked after the exalted government affairs and being desirous to see me, you should, in obedience to my order, appoint Mūrshid Kūlli Khán[^fn-p0096-2] to the governorship of your place (*i. e.*, Bengál) and (then) should come into my humble presence with elephants and the royal treasury.  Nay, if you march (to see me) before receiving (my) order, it will be considered obedience on your part.
 
 ### Letter 88: Aurungzebe → Muhammad Azim-ūd-Din Bahádūr
 
-### LETTER LXXXVIII.
+#### LETTER LXXXVIII.
 
 Grandson Azim, it is not good to be careless, like myself, of the Generous God and of oppression upon people who are the deposits[^fn-p0097-1] of the Creator. Especially it is very bad for princes to practise oppression[^fn-p0097-2]. You should always accept as right, heartily and secretly, the true (religious) doctrines of death, resurrection, ‘Sirát’,[^fn-p0097-3] and divine punishment (after death). Every moment you should know that you are to depart from this world so that the new branch of hope will rise from the dust of expectance and the flowers of blessings will not be removed by the wind of the sigh of the oppressed (*i. e.*, you will not be disappointed by the curses of the oppressed). Whence did you learn this peculiar habit (of oppression) which was neither practised by your grandfather nor by your father? It is better to eradicate this foolish habit (*i. e.*, oppression) from your mind. I considered you better than other princes (*i. e.*, my sons and grandsons) and I thought you to be a future king. (Verse) “What we think proves to be false (or contrary—*i.e.*, man proposes, God disposes)”.
 
 ### Letter 89: Aurungzebe → Muhammad Azim-ūd-Din Bahádūr
 
-### LETTER LXXXIX.
+#### LETTER LXXXIX.
 
 Grandson of high dignity, you have requested me regarding the assignment of the district of Shankarpūr as a ‘Jághir’ to Sháh Álijáh (*i.e.*, your father). I did not know whence you acquired such well wishing. It is no matter had Álijáh himself requested me about what you requested. Otherwise remove such foolish ideas from (your) head; because they do not increase love and friendship (between us). Nay such foolish ideas are proper to be a cause of affliction to self conceit and pride.
 
 ### Letter 90: Aurungzebe → Muhammad Azim-ūd-Din Bahádūr
 
-### LETTER XC.
+#### LETTER XC.
 
 Grandson Azim, though the produce of the ‘toddy’[^fn-p0098-1] of Mahál[^fn-p0098-2] is meant for acquiring wealth, it cannot be understood which dishonest ‘Kázi’ gave you a decision (in favour of selling and drinking ‘toddy’). You should regard such counsellors, who are the cause of ruin to families, as the enemies of your person and property and as the evil wishers of your present and future lives. You should thank the Holy and High God for His bounty that He has bestowed upon you fertile and productive districts and everything cheap and abundant. You should consider the protection of the subjects as the source of happiness in this world and in the next world.
 
-### Letter addressed to Amir–ūl–Umará Sháyasta Khán[^fn-p0099-1], Governor of Akabarábád.[^fn-p0099-2]
+### Letter addressed to<br />Amir–ūl–Umará Sháyasta Khán[^fn-p0099-1],<br />Governor of Akabarábád.[^fn-p0099-2]
 
 ### Letter 91: Aurungzebe → Amir–ūl–Umará Sháyasta Khán
 
-### 1659. LETTER XCI.
+#### 1659. LETTER XCI.
 
 Faithful friend of auspicious nature, may you live under the protection of the Exalted God. I am anxious for you. On Tuesday, the 20th inst. of Rabi–ūl–Awal[^fn-p0099-3]— the day of writing this letter to you—Shūjá[^fn-p0100-1], whose lot was defeat, encountered the victorious army which was under the victorious stirrup of this most needy person (*i.e.*, Aurungzebe himself) to God Whose name is glorious, and found the return of evil actions in (his) lap, full of his own misfortunes (*i.e.*, he was defeated by me). (Couplet) “From whose hand and tongue can come out the responsibility of thanksgiving to God fully (*i.e.*, no one in this world thanks God fully for His bounties) ?” The details of this great victory[^fn-p0100-2] (of Cujwá over Shūjá) will be written to you afterwards. I pursued the cowardly Jasvant Singh[^fn-p0100-3] who had joined the enemy (*i.e.*, Shūjá) last night before the battle; but he fled away and went to Akbarábád. Evidently he has gone to his own native place (*i.e.*, Rájpūtáná). He has suffered a great loss in this world (by being a coward) and will suffer it in the next world (by being an infidel; for he will not enter paradise). On hearing the purport of this royal order, this arm of sovereignty (*i.e.*, Sháyasta Khán) should perform the necessary things for joy and pleasure (*i.e.*, should observe the day of victory as a public festival); and should give thanks to the True Giver of Bounty (*i.e.*, God); and should entirely engage in preserving this province belonging to you (*i.e.*, Akbarábád). Immediately I sent my dear son, Muhammad Sultan Bahádūr[^fn-p0101-1], in pursuit of this ungrateful man (*i.e.*, Shūjá). I will soon come to Akbarábád.
 
-### Letters addressed to Umadat–ūl–Mūlk (the Best of the Kingdom), Madár--ūl–Mahám (the Pivot of State Affairs), (*i. e.*,) Asad Khán.[^fn-p0102-1]
+#### Letters addressed to<br />Umadat–ūl–Mūlk (the Best of the Kingdom),<br />Madár--ūl–Mahám (the Pivot of State Affairs),<br />(*i. e.*,) Asad Khán.[^fn-p0102-1]
 
 ### Letter 92: Aurungzebe → Asad Khán
 
-### 1704.  LETTER XCII[^fn-p0102-2].
+#### 1704.  LETTER XCII[^fn-p0102-2].
 
 According to the request of that sacrifice (for me–*i.e.*, Asad Khán), the post of second secretaryship has been given to Sadr–ūd–Din Muhammad Khán Safavi.[^fn-p0102-3] Now he should be summoned and be informed of this favour. Till his arrival that good natured man (*i.e.*, you) should also examine the ledgers so that the clerks may not have a mischievous power by wickedness, and the business men may not suffer for the closing of the affairs. (Quatrain) “Every one must purify his mind, every one must polish his mirror (*i.e.*, heart). Help those who are distressed; hear that this goblet (*i.e.*, this world or life) will give its voice (*i.e.*, you will have the reward of your actions in this life)”.
 
@@ -883,13 +883,13 @@ I saw the saint brought into my presence by Rūh Alláh Khán[^fn-p0103-5] (the 
 
 ### Letter 93: Aurungzebe → Asad Khán
 
-### 1704. LETTER XCIII[^fn-p0104-2].
+#### 1704. LETTER XCIII[^fn-p0104-2].
 
 That sacrifice, let it be known to you that this sinner (*i.e.*, Aurungzebe), who had refused to visit the above-mentioned saint (of Let. XCII), has pardoned him by reading true traditions of the doctors of the Mohemadan law. When I thought well (upon this), I found my refusal to visit the saint due to the deceit and deception of the worst passion[^fn-p0104-3]. Otherwise how could I keep my desire (of visiting the saint) under control? (Verse) “Passion is a dragon (*i.e.*, it injures others); how can it die? It lies congealed on account of the want of means (*i.e.*, passion never dies in a man; whether it remains active or inactive in him)”. May God be praised that I have not yielded to passion and its deception. Especially, to rejoice at the loss of others is an act of passion. That sincere sacrifice (*i.e.,* you) should request the holy saints to pray for (my) good, happiness, and escape from the fetters of passion. The (above-mentioned) saint himself is a virtuous and noble minded Saiyad (a true descendent of the prophet Mahomet). If he prays sincerely (for us) it is good. O God! let me live as a saint, make me die as a saint, and revive me on the day of judgment among the saints[^fn-p0105-1]. Amen ! amen ! amen !
 
 ### Letter 94: Aurungzebe → Asad Khán
 
-### LETTER XCIV.
+#### LETTER XCIV.
 
 According to the request of that sacrifice (*i.e.,* Asad Khán), Ateek Alláh Khán has been made permanent in his post. For this he must observe many conditions. Firstly, he must every year increase the revenue of (his) district; secondly, he must not practise oppression upon the ‘Ahadis’[^fn-p0105-2] and must not ruin any village; thirdly, he must make free of robbers the boundaries of his own ‘faujdári’ and make them full of safety, so that travellers, way farers, merchants and ‘bipáris’[^fn-p0105-3] may travel without any anxiety. If he accepts these conditions and acts according to them, he will be given a written document for the post ; otherwise, not. When the second Khalif Umar,[^fn-p0106-1] the Lord of the Believers—may God be pleased with him—appointed, in his ‘khiláfat’, one the governor of a province, he made some conditions with him. (1) He must not allow the door keeper to have a watch near the door of the court so that people might represent their needs before him without any difficulty. (2) He must spend his time in rendering services to the people of God. (3) He must not ride (but walk on foot, so that people might represent their needs to him). (4) He must not take anything from the royal treasury for himself or for his family[^fn-p0106-2]. He must follow a profession and (thus) earn his livelihood by lawful means. If he cannot earn it on account of old age or sickness, he might, by the advice of the true believers, take (from the royal treasury) occasionally one or three ‘dirams’;[^fn-p0106-3] more than this must not be allowed. (5) He must show (his) courage by dealing out justice to people; and in deciding cases he must not be partial to relatives and friends. Many other conditions are also written in chronicles and histories. We, who are the followers of the Khalifs, should try our best according to our ability. O God ! guide us to the right path ; and confer peace upon good and virtuous people.
 
@@ -897,7 +897,7 @@ According to the request of that sacrifice (*i.e.,* Asad Khán), Ateek Alláh Kh
 
 ### Letter 95: Aurungzebe → Asad Khán
 
-### 1703. LETTER XCV.[^fn-p0107-1]
+#### 1703. LETTER XCV.[^fn-p0107-1]
 
 That sacrifice, you should bring to-day Mūna’am Khán[^fn-p0107-2], the deputy of Sháh Álam, who has been also made his minister, into my presence for giving him permission to depart, so that I should acquaint him with particulars about the evil intention of the wicked Akbar[^fn-p0107-3] who, with the hope of (receiving) help from the Persian Demon of the Forest[^fn-p0107-4], has stayed in Hirát[^fn-p0107-5], near Kandahár[^fn-p0107-6], and through the suggestion of the governor of that province, does not move further ; and who is waiting for my death. (Verse) “ I did not forget the words of the musician who, at the time of applying his bow to the cups (or pots) which cause danger[^fn-p0107-7], used to say ‘ I do not know whether the stone of the sky of destiny (*i.e.*, destiny itself) will break you (*i.e.*, the pots) or me (*i.e.*, the musician) sooner’ ”.[^fn-p0108-1] Mūna’am Khán’s plan must be nothing but this that he should leave his own son at Cábul[^fn-p0108-2] with a large army, that he should keep Muhammad Ma’az-ūd-Din Bahádūr[^fn-p0108-3] at Mūltán[^fn-p0108-4] with great preparations, and that till the decision of this case, *i.e.*, till the death of this mortal (*i.e.*, Aurungzebe), there should be contentment in peace and in the division of the kingdom.
 
@@ -907,7 +907,7 @@ I tell you as a last advice from me that there have been many ambitious men, who
 
 ### Letter 96: Aurungzebe → Asad Khán
 
-### 1706. LETTER XCVI.
+#### 1706. LETTER XCVI.
 
 I have communicated my devoted servant (*i.e.*, you) the report, sent to me by Amjad Khán, containing the mismanagement of the grandsons of the grandees and of the son of Muhammad Mūzaffar Bakhsha. You should write to Muhammad Iaar Khán[^fn-p0109-1], who is negligent of God like myself, according to my order, for imprisoning the rebels of the capital (*i.e.*, Delhi or Agrá) and for not neglecting, in future, such worldly necessary affairs which are truly religious. Though it is not necessary I will also send you the order. (Verse) “You have got eyes; and the world is before you. There is no need of the teacher and of the teaching (*i.e.*, man must get his experience from the world and not from books).”
 
@@ -917,7 +917,7 @@ The ring, with an emerald collet, which last night I selected for Kūlli Khán, 
 
 ### Letter 97: Aurungzebe → Asad Khán
 
-### LETTER XCVII.
+#### LETTER XCVII.
 
 I read the letter sent to you by Rūh Alláh Khán[^fn-p0111-1], together with the report. But the letter did not please me. You will send Rūh Alláh Khán the map according to (the request in) his letter. Why should I accept your request for keeping Abdūlláh Khán[^fn-p0111-2] in his post when he has done nothing? But when the above-mentioned Khán (*i.e.*, Rūh Alláh Khán) is his superior, I accede to your request; (because Rūh Alláh Khán will improve Abdūlláh Khán). God gives supplies and provisions to whom He wishes without any calculation. Now you should employ him (*i.e.*, Abdūlláh Khán) in some difficult work so that this favour (of keeping him in his post) will not prove costly to us (by his doing something).
 
@@ -925,7 +925,7 @@ You have requested me to favour Ráo Dūlip[^fn-p0111-3] with a ‘jaldū’[^fn
 
 ### Letter 98: Aurungzebe → Asad Khán
 
-### LETTER XCVIII.
+#### LETTER XCVIII.
 
 This year Ameer Khán[^fn-p0112-1] sent (me) so late a basket (of mangoes) as a present that many of them were spoiled. You should write him to send me mangoes as soon as possible though I do not want them. (Verse) “ O Bedil ![^fn-p0112-2] avarice is never contented ; otherwise most of the things of our livelihood which we use would be useless (*i.e.*, an avaricious man is never contented ; because he covets more things than what are really useful to him) ”.
 
@@ -933,7 +933,7 @@ This year Ameer Khán[^fn-p0112-1] sent (me) so late a basket (of mangoes) as a 
 
 ### Letter 99: Aurungzebe → Asad Khán
 
-### 1698. LETTER XCIX[^fn-p0112-3].
+#### 1698. LETTER XCIX[^fn-p0112-3].
 
 I condole that devoted servant for the death of Ameer Khán[^fn-p0112-4] though we must also die. (Verse) “ Though the soul remains (in the body) the path of life is not endless (*i.e.*, man is mortal)”. That sacrifice (*i.e.*, you) should write to the minister of the capital of Láhore[^fn-p0113-1], who is his (*i.e.*, your) brother, “You should confiscate the property of the deceased (*i.e.*, Ameer Khán) with the utmost endeavour so that not only ‘nakeer’,[^fn-p0113-2] ‘katmeer’,[^fn-p0113-3] ‘dámi’,[^fn-p0113-4] and ‘dirami’[^fn-p0113-5], but even a piece of straw is not left. And having also enquired (about his property) cautiously and fully from outsiders, and from his followers and servants by giving them hopes and threats, you should take into your possession whatever you find”. Because the property (of Ameer Khán) belongs to the subjects. When the king of the time shews, rightly or wrongly, a person more favour than what is mentioned necessary in the Koran, the rights of the true believers (*i.e.*, Mohemadans) are done away with. During his (*i.e.*, Ameer Khán’s) life time, I allowed him this crime[^fn-p0114-1] (*i.e.*, to enjoy his property) in order to win his heart ; (but) now (after his death) why should I not take possession of his property ? (Couplet) “I talked much ; now I remain silent. I told you many problems ; now I am quiet (*i.e.*, I have said enough. Now I do not want to say further)”.
 
@@ -941,7 +941,7 @@ I condole that devoted servant for the death of Ameer Khán[^fn-p0112-4] though 
 
 ### Letter 100: Aurungzebe → Asad Khán
 
-### LETTER C.
+#### LETTER C.
 
 Muhammad Khán[^fn-p0114-2] has been given an additional title of ‘Sadi’.[^fn-p0114-3] That sacrifice (*i.e.*, you) should order the paymaster of the kingdom to register this title in the office records. Mūkhalis Khán[^fn-p0114-4] will write the superintendent to assist the record keeper. Mūkaram Khán[^fn-p0114-5] will do what he has to do.
 
@@ -949,7 +949,7 @@ Muhammad Khán[^fn-p0114-2] has been given an additional title of ‘Sadi’.[^f
 
 ### Letter 101: Aurungzebe → Asad Khán
 
-### 1706. LETTER CI.
+#### 1706. LETTER CI.
 
 I gave a turban made of the Yaman[^fn-p0114-6] cloth to the son[^fn-p0114-7] of Muhammad Ameen Khán[^fn-p0114-8]. You should order the super-
 
@@ -961,13 +961,13 @@ intendent of the jewellery department[^fn-p0115-1] to send me in the evening two
 
 ### Letter 102: Aurungzebe → Asad Khán
 
-### LETTER CII.
+#### LETTER CII.
 
 Devoted servant of (my) court, Hūssain Ali Khán[^fn-p0115-4] quarrelled with (my) grandson Ma’az–ūd-Din Bahádūr[^fn-p0115-5], and without his permission left him and came here. The prince complains against him. He must be degraded from his post and his ‘jághir’ must be confiscated in order to set an example to others. (Couplet) “Much endurance will make people lose their dignity. When a bow is bent (often) it becomes soft and delicate (*i.e.*, as the bow becomes useless when it is bent often, similarly a man loses his dignity when he is insulted often)”. I take refuge in God from the viles and temptations of passions and evil deeds.
 
 ### Letter 103: Aurungzebe → Asad Khán
 
-### LETTER CIII.
+#### LETTER CIII.
 
 I read the letter written to that sincere devoted servant (*i.e.*, you) by (my) dear son. The prince has requested (you) to add some portion to his fertile ‘ jághir’ of which he is very fond. A portion should be annexed to his ‘ jághir’. You should write something (more) to my son for pleasing him.
 
@@ -975,7 +975,7 @@ I read the letter written to that sincere devoted servant (*i.e.*, you) by (my) 
 
 ### Letter 104: Aurungzebe → Asad Khán
 
-### 1703. LETTER CIV.
+#### 1703. LETTER CIV.
 
 That sacrifice, you should think well that the departure of Fateh Alláh Khán[^fn-p0116-1] to Cábūl is most probably not advisable (for the following reasons): (1) he is the master of a large tribe ; (2) he is also powerful ; (3) he is irritable and talkative. He had been sent along with Rūh Alláh Khán[^fn-p0116-2] (the Second–as a subordinate at the siege of Parnálá). He treated the above-mentioned Khán (*i.e.*, Rūh Alláh Khán) as if the Khán was his subordinate. Notwithstanding the gentility and mild treatment of the Khán and his own inferior post and a few men under him and my emphatic order to obey the above-mentioned Khán, he uttered such harsh and rude words to the Khán that he (*i.e.*, the Khán) was ashamed and disgraced before people. You should watch the movements of such a man (like Fateh Alláh Khán) who is a ‘ Seh–Hazári’ (*i.e.*, has 3000 men under him), has got a title of ‘ Bahádūr’[^fn-p0116-3], goes to such a distant place (*i.e.*, Cábūl), and is cautious and watchful like Sháh Bahádūr[^fn-p0116-4]. It won’t matter if that sincere servant (*i.e.*, you) will think calmly on this movement (of Fateh Alláh Khán); otherwise it is better to keep him here near us[^fn-p0117-1].
 
@@ -983,13 +983,13 @@ That sacrifice, you should think well that the departure of Fateh Alláh Khán[^
 
 ### Letter 105: Aurungzebe → Asad Khán
 
-### LETTER CV.
+#### LETTER CV.
 
 Sincere and devoted servant, Muhammad Ikhalás Ináyat Alláh Khán[^fn-p0117-2] said (to me) verbally, “The eldest son of sovereignty (*i.e.*, Mūazzam, the crown prince) has incurred debts, and the pay of the soldiers is in arrears”. When he (Mūazzam), without considering the ability of men, gives them posts and salaries without any reason, and when he gives them presents and shews them favours unreasonably, why should he not incur debts? He knows the Koran by heart, and is an unrivalled learned man. Neither does he remember (the Koranic verse) ‘Don’t be extravagant in spending money’, nor does he read sometimes, through mistake, the commentary on this (verse). (Couplet) “Men have got their eyes, ears, and intellect open. I am confused of their deceit to God (*i.e.*, though men have their eyes, &c., open, I do not see why they are blind to serve God and why they deceive Him)”. His secretary is also unknown to me, his native place being Cáshmere[^fn-p0117-3]. An arrangement should be made. The secretaryship should be changed (and given to Islám Khán). Islám Khán is not (so) bad (as the present secretary).
 
 ### Letter 106: Aurungzebe → Asad Khán
 
-### LETTER CVI[^fn-p0118-1].
+#### LETTER CVI[^fn-p0118-1].
 
 Sincere servant, this night Abūl Vafá[^fn-p0118-2] said, “The materials (*i.e.*, carpet and other necessary things) of the worshipping place (of the palace) are worn out and out of use”. Other departments are well furnished; and the furniture of this prayer house is worn out. It is far from Mohemadanship (*i.e.*, it should not be allowed according to the Mohemadan religion). You should soon order the steward to bring to the knowledge of the superintendent of the prayer house what things are necessary for it. (Verse) “Alas! alas! we came to know about this very late”.
 
@@ -997,7 +997,7 @@ Sincere servant, this night Abūl Vafá[^fn-p0118-2] said, “The materials (*i.
 
 ### Letter 107: Aurungzebe → Asad Khán
 
-### LETTER CVII.[^fn-p0118-3]
+#### LETTER CVII.[^fn-p0118-3]
 
 The dervish, who was brought before me last night, is illiterate. He seems to be an orthodox devotee. It is possible that he is practising hypocrisy. Many of his words and actions, one of which was the refutation of (the doctrine of) charity, were contrary to religion. The king of the time is the trustee of the royal treasury. What he gives to others (in charity, from the treasury) is legal. It is also lawful on his part, if he gives away in charity the revenue obtained from villages which have been selected by him for his private expenses after the decision of the religious men and the consultation of the nobles of the kingdom. Especially when some portion is given in charity, from this income, to the helpless dervishes, how can it be said to be unlawful? You should ask him the reason his speaking against charity. If he gives a reasonable answer, you should say to him ‘This sinner (*i.e.*, Aurungzebe) has also a reason for practising charity’. Otherwise (*i.e.*, if he does not give a sound reason), you should punish him like heretics, who fabricate something and attribute it to religion. Sūltán Mahmūd[^fn-p0119-1]—may God forgive his crimes—did not allow half-hearted religious men and heretics to enter his court, nay not even his kingdom, so that other people might not be misled by seeing such persons in the form of the (above-mentioned) dervish, and they themselves might have no power to mislead others. O God! guide us to the right path; and may peace be upon those who resign themselves to Thee and submit to Thee.
 
@@ -1005,7 +1005,7 @@ The dervish, who was brought before me last night, is illiterate. He seems to be
 
 ### Letter 108: Aurungzebe → Asad Khán
 
-### 1704. LETTER CVIII.
+#### 1704. LETTER CVIII.
 
 Sincere and devoted servant, (my eldest son) has complained against Fateh Alláh Khán[^fn-p0119-2]. At the time of the departure of the above-mentioned Khán (to Cábūl) I knew that the company of this presumptuous Khán would not suit the prince (*i.e.*, Mūazzam). But what can I do? I was forced by my son to send the Khán to him. He insisted upon my satisfying his wish (to send the Khán to him). Fateh Alláh Khán should be deprived of his personal title of ‘Pán-Sadi’ and of three hundred of his followers; and a notification of this deprivation together with the deprivation of his title of ‘Bahādūr’[^fn-p0120-1] should be sent to the second record keeper. According to my order, you should write to that most talkative person (*i.e.*, the Khán) : “Does faithfulness mean injuring the feelings of the prince and displeasing the heir-apparent by boasting that he is under your obligation by your service ? This is the way of mean persons and not of those who sacrifice their lives for the sake of honour. You should please me by your service to the prince ; and (thus) through his request you will get an additional title”. Now it is proper if he repents of his former deeds. You should communicate to him this order and request the prince to shew him favour.
 
@@ -1015,7 +1015,7 @@ This fortress[^fn-p0120-2], if God wishes, will be shortly taken. But (now) it i
 
 ### Letter 109: Aurungzebe → Asad Khán
 
-### LETTER CIX.
+#### LETTER CIX.
 
 Mūna’am Khán[^fn-p0120-5] did not perform this work well. He did not discharge his duty as he ought to have done. He is inexperienced and talks nonsense. He should be instructed (in working and talking) and should be punished by degrading him his post. But I myself (*i.e.*, Aurungzebe) want to be instructed. (Verse) “ I have become old, confused, and misled.”
 
@@ -1025,7 +1025,7 @@ Zabar Dast Khán[^fn-p0121-3] is a soldier and better than his father in state a
 
 ### Letter 110: Aurungzebe → Asad Khán
 
-### LETTER CX.
+#### LETTER CX.
 
 Sincere and devoted servant, you should take the foolish Kám Bakhsha[^fn-p0122-1] to the house of Muhammad A’azam Sháh[^fn-p0122-3], and reconcile each to the other with an apology. (Verse) “The world is not a property worth a quarrel (*i.e.*, one should not quarrel with another for the possession of the world, because he has to go to the next world empty handed, without having any thing of the world with him)”.[^fn-p0122-2]
 
@@ -1033,7 +1033,7 @@ Sincere and devoted servant, you should take the foolish Kám Bakhsha[^fn-p0122-
 
 ### Letter 111: Aurungzebe → Asad Khán
 
-### 1689.  LETTER CXI.
+#### 1689.  LETTER CXI.
 
 You should write Mūkarab Khán[^fn-p0122-1], who has been appointed to take Barnálá[^fn-p0122-4], according to (my) order, to arrest the ‘Zamindár’[^fn-p0122-5] of that place. You should write him earnestly to go immediately to attack the Landlord at the time when the proud Landlord has gone alone from Ráhbari[^fn-p0123-1] to the fortress of Khalneh[^fn-p0123-2] in order to quarrel with the tribe of Bargi. Most probably the Khán will be able to arrest the ‘ Zamindár[^fn-p0123-3]’ and will take revenge upon the misleader and oppressor of the Mohemadans (*i.e.*, the Landlord). May God forgive us. What can the Khán do ? God does what he does ; and it is God Who punishes men for their deeds.
 
@@ -1041,13 +1041,13 @@ You should write Mūkarab Khán[^fn-p0122-1], who has been appointed to take Bar
 
 ### Letter 112: Aurungzebe → Asad Khán
 
-### LETTER CXII.
+#### LETTER CXII.
 
 That devoted servant, to-morrow you should go to (my special) garden and enjoy the pleasure of the ‘ gūl-dasteh’.[^fn-p0123-4] The guards of the garden, consisting of the followers and other persons who will accompany you to-day (for shewing you the garden), will try their best to please and satisfy you to the utmost. (Couplet) “When you become his (*i.e.*, when you be a faithful servant of your master), all the property (of your master) becomes yours (*i.e.*, belongs to you, is at your disposal). When you turn away from him (*i.e.*, when you prove faithless to your master), all the property (of your master) turns away from you (*i.e.*, does not belong to you and you are deprived of its use)”.[^fn-p0123-5]
 
 ### Letter 113: Aurungzebe → Asad Khán
 
-### LETTER CXIII.
+#### LETTER CXIII.
 
 Devoted servant of the court, prince A’azam has arrived (here). Muhammad Kám Bakhṣha should go to receive him. You should write to the nobles (to receive him) whose names had been verbally mentioned to you.
 
@@ -1055,7 +1055,7 @@ Devoted servant of the court, prince A’azam has arrived (here). Muhammad Kám 
 
 ### Letter 114: Aurungzebe → Asad Khán
 
-### 1695. LETTER CXIV.
+#### 1695. LETTER CXIV.
 
 Devoted servant of the court, Mūkhalis Khán[^fn-p0124-1] is ill. You should go to the Khán and pay him a visit and inquire after his health on my behalf. Such persons (like Mūkhalis Khán) are worthy of being remembered. His Majesty (Sháh Jehán) liked much his manner of addressing him. It is right that he possesses the necessary qualities of honesty and faithfulness. May God cure him. To-day his son is not come. Where is he and what is he doing? He should not be allowed to act according to his own way. You should take care after him. He has learnt by heart some chapters of the Koran, It should not be that he should forget them.
 
@@ -1065,7 +1065,7 @@ Sirdár Khán is also an old servant. He is not bad. He should be made permanent
 
 ### Letter 115: Aurungzebe → Asad Khán
 
-### LETTER CXV.
+#### LETTER CXV.
 
 Devoted servant of the court, to-morrow the arrival of the prince Sháh Álam Bahádūr[^fn-p0126-1] has been fixed. The chief of the kingdom and other people, with an army, should go to receive him and they should please me with great ceremony. (Couplet) “Happy is the time; because a friend (*i.e.*, Aurungzebe) enjoys the company of the other friend (*i.e.*, Sháh Álam Bahádūr)”.[^fn-p0126-2]
 
@@ -1073,7 +1073,7 @@ Devoted servant of the court, to-morrow the arrival of the prince Sháh Álam Ba
 
 ### Letter 116: Aurungzebe → Asad Khán
 
-### 1698. LETTER CXVI.
+#### 1698. LETTER CXVI.
 
 Sincere and devoted servant, there is no need for the secretary to write the letter ‘ain’,[^fn-p0126-3] on his application. This ‘ain’ of disease[^fn-p0126-4] should not be used in a petition. The letter ‘mim’ representing ‘mūatebar’ (*i.e.*, confidential) used by Ináyat Alláh Khàn[^fn-p0126-5] will be sufficient (on the application). According to my opinion, the words ‘according to my order’ are also superfluous in royal mandates.
 
@@ -1085,7 +1085,7 @@ God be praised that Chanchi has been taken and that the accursed Rámá has fled
 
 ### Letter 117: Aurungzebe → Asad Khán
 
-### 1698. LETTER CXVII.
+#### 1698. LETTER CXVII.
 
 Devoted servant of the court, why does Iaar Ali Beg consider it right to live in such miserable and straightened circumstances ? He has not come across the prohibition of such a way of living (in the Koran), and he himself has got the post of ‘ vakilship’. Why does he not act according to (the Koranic verse) ‘ Eat and drink ’ ?[^fn-p0127-2] Why does he bring me and himself under the taunt of the people ? Man must be agreeable to every tribe. But what can he do ? because this does not suit his nature (*i.e.*, he is not agreeable to every tribe). (Verse) “ Fortune is not acquired by the strength of one’s arm till it is given to one by the Generous God ”.
 
@@ -1099,7 +1099,7 @@ Shūjá’at Khán[^fn-p0129-3], the governor of the province of Ahmedábád, ha
 
 ### Letter 118: Aurungzebe → Asad Khán
 
-### 1703. LETTER CXVIII.
+#### 1703. LETTER CXVIII.
 
 Shūjá’at Khán[^fn-p0130-1] is dead. ‘We have come from God and to Him we shall return’[^fn-p0130-2]. He was an experienced man and preserved good order in Gūjarát. A governor must be appointed for this province. You should select three persons yourself (for this) and then write to me. Prince A’azam also desires (to be the governor of Ahmedábád)[^fn-p0130-3]. This post should be given to the prince if he does not attach importance to the royalty and executes his work better than others. We expect grace from God and guidance from Him. In this case (of the governorship of Ahmedábád) there is none more fit for it than Khair Andish Khán. But they say he is almost blind, and consequently useless. Either he or another should be appointed. Ateek Alláh Khán[^fn-p0130-4] is not (so) bad. You have stated well the cases of Ábráhim Khán[^fn-p0131-1] and of the Káshmeris of Hafz Alláh Khán ; but you have not written in your letter about the consequences (of their governorships). (Couplet) “Pity on his (*i.e.,* Asad Khán’s) knowledge and manners ; his truth-seeing eyes have become blind (for representing the cases of Abráhim Khán and of Hafz Alláh Khán in a proper way to Aurungzebe)”. What do you mean by not caring for investigating the truth regarding (one’s) honesty? Therefore it is said that one who administers justice and is entrusted with the investigation of truth must possess uprightness so that he may not decide the case either from a confession or from a denial, and may not be negligent in any way in administering justice, and may not be partial to the powerful party. Such honest and impartial men were rare in former times also. Where are those persons (*i.e.,* none) in the present time when faith is weak and the devil is strong ?[^fn-p0131-2]
 
@@ -1107,13 +1107,13 @@ Shūjá’at Khán[^fn-p0130-1] is dead. ‘We have come from God and to Him we 
 
 ### Letter 119: Aurungzebe → Asad Khán
 
-### LETTER CXIX.
+#### LETTER CXIX.
 
 Abráhim Khán[^fn-p0131-3] makes great delay in executing orders ; (therefore) a thousand horse should be deducted from the number of his followers. You should threaten his agent also. My mildness confounds the state affairs (*i.e.,* makes my officers and servants disobedient). It is true that (verse) ‘ Mastership and service do not go together’.
 
 ### Letter 120: Aurungzebe → Asad Khán
 
-### LETTER CXX.
+#### LETTER CXX.
 
 Rūh Alláh Khán[^fn-p0132-1] has requested me to issue orders in the names of the ‘diván’[^fn-p0132-2] of the Deccan[^fn-p0132-3] and of the commanders of the garrisons thereof, so that by managing the affairs of the districts of that province he may take into his possession the fiscal properties, ‘jághirs’, and other effects which have been recently confiscated from the evil-minded Masūd Khán, and then he may write to me. Those articles which will be fixed, will be assigned to that officer and treasurer (*i.e.*, Rūh Alláh Khán). You should give him a document for the ‘jághir’ assigned to him. And you should send him, at the time of necessity, the artillery and necessary things required by him for the entrenchment. You should write to him about these things. A collector should be appointed so that our ‘beel-dárán’[^fn-p0133-1] may send the treasury to him. The letter of the Prince Bahádūr[^fn-p0133-2], which has been addressed to the above-named Khán, should be handed over to (his) agent ; or it should be enclosed with your own letter and (then) be sent to him ; but it is better that you write him another letter. This man (*i.e.*, Rūh Alláh Khán) is not an officer who has always treated me in one and the same way. All his flattery was for the object of gaining his own ends. It is possible that internally he is not sincere. You should think about him and then write to me. (Verse) “ How can you make yourself a different person by applying paints (and cosmetics to your body) ? Though the garment fits the body, it does not form a part of it (*i.e.*, good wine needs no bush)”.
 
@@ -1121,7 +1121,7 @@ Rūh Alláh Khán[^fn-p0132-1] has requested me to issue orders in the names of 
 
 ### Letter 121: Aurungzebe → Asad Khán
 
-### LETTER CXXI.
+#### LETTER CXXI.
 
 Evidently Zūl Fikár Khán[^fn-p0133-3] has appointed persons to carry the artillery ; (but) it makes Rūh Alláh Khán hesitate in the midst of affairs, though it is also a state affair. But you should write to the above Khán (*i.e.*, Rūh Alláh Khán) that he should use the guns for taking the fortress and should not place any confidence in those persons (appointed by Zūl Fikár Khán) till the conquest of the fortress (is completed). I saw the plan, sent by him (*i.e.*, Rūh Alláh Khán), of the intrenchment of the fortress. The side for the intrenchment is good; and in many ways, it is better than other sides. But from the absence of a ditch (in the plan) it appears that outwardly the ground must be strong. It will be difficult to undermine (this stony ground). Two or three bastions and ramparts must be raised, so that the heavy blows of the firing of the guns will shake the firmness of the besieged and of the walls of the fortress. This difficulty must soon be solved. I also issued an order in this matter. I write what is required for this with my own hand and with a great urgency. (Couplet) “With various and different hopes we expect great success and victory”. May God forgive.
 
@@ -1129,7 +1129,7 @@ Evidently Zūl Fikár Khán[^fn-p0133-3] has appointed persons to carry the arti
 
 ### Letter 122: Aurungzebe → Asad Khán
 
-### LETTER CXXII.
+#### LETTER CXXII.
 
 From the letters sent by the reporters of the army of (my) grandson, I came to know that the army of Alláh Khán, notwithstanding the approach of the enemy, were engaged in drinking, and he himself did not go to the enemy personally but sent others to punish them; and having gone to the house of Navázesh Khán[^fn-p0134-1] passed his time, from evening till morn, in drinking and in enjoying the dance. He did not restrain himself from drinking wine notwithstanding the prohibition (enjoined in the Koran). He still persists in (disobeying) this prohibition (of taking wine). Therefore the reporters for selfish desires attribute many things (*i.e.*, bring charges) to the servants patronised by me. That devoted servant (*i.e.*, you) should write to the secretary to inquire fully after all the posts (of the Khán) and then to write to me.
 
@@ -1137,7 +1137,7 @@ From the letters sent by the reporters of the army of (my) grandson, I came to k
 
 ### Letter 123: Aurungzebe → Asad Khán
 
-### LETTER CXXIII.
+#### LETTER CXXIII.
 
 You should write to Fateh Alláh Khán[^fn-p0135-1] that his best services have been represented to me in details and they have been appreciated by me; but he should not boast of serving me[^fn-p0135-2]; and he should not displease me by annoying the generals.
 
@@ -1145,13 +1145,13 @@ You should write to Fateh Alláh Khán[^fn-p0135-1] that his best services have 
 
 ### Letter 124: Aurungzebe → Asad Khán
 
-### LETTER CXXIV.
+#### LETTER CXXIV.
 
 I read the letter, sent by Mustmand Khán and written by himself with his own seal, containing (the account of) the spoliation of his ‘ jághir’ on account of the locality[^fn-p0135-3] of the robbers. I have been requested by the Khán to get his buildings repaired and the wicked robbers punished. According to (my) order you should write to Khán Firūz Jang, “As the enemies are many, you should send there (*i.e.*, to Mustmand Khán’s ‘ jaghir’ ) your own son with a large army”.
 
 ### Letter 125: Aurungzebe → Asad Khán
 
-### 1693. LETTER CXXV.
+#### 1693. LETTER CXXV.
 
 Saiyad Sa’ad Alláh[^fn-p0136-1] often writes me letters and requests of me the following things : “ The reporter[^fn-p0136-2] of the Harbour of Sūrat[^fn-p0136-3] should not be transferred ; the son of the deceased Hakim Asharaf should be given some service in the hospital and should be encouraged by increasing his salary”. You should write to the Saiyad, “Henceforth you should not interfere in the affairs of the (government) servants, who are really oppressors, according to the decision of the auspicious verse of the Koran, ‘Don’t associate with those who oppress lest the fire of hell might catch you’ (and so on upto the end of the verse). Though these officials are not tyrants to others, they are oppressors in their own nature”. In every letter he expresses his desire, with a prayer, to die in God[^fn-p0137-1]. ‘Death is also life’ is true. This humble servant of the court of God (*i.e.*, Aurungzebe himself) always recites in his daily prayer this auspicious verse of the Koran, ‘O God! Creator of heaven and earth! Thou art my master in this life as well as in the next; let me die a Moslem (or a true believer in Thee) and enable me to join the virtuous and the pious’. I think carefully over the meaning of ‘The man who dies this death (*i.e.*, death in God) will meet, before meeting God, the prophets and the saints.’[^fn-p0137-2] Though the learned men of my court have given nice interpretations (of these Koranic and traditional verses and sentences), I have not been perfectly satisfied with them. That learned man[^fn-p0137-3] should write to me about these phrases of the Koran and the tradition after an inquiry. May peace be upon you.
 
@@ -1159,7 +1159,7 @@ Saiyad Sa’ad Alláh[^fn-p0136-1] often writes me letters and requests of me th
 
 ### Letter 126: Aurungzebe → Asad Khán
 
-### 1697. LETTER CXXVI[^fn-p0137-4].
+#### 1697. LETTER CXXVI[^fn-p0137-4].
 
 You must have known that an arrow was darted towards Yákūt (Khán) and that it was found out that it was that unfortunate foster brother (*i. e.*, Hadū) of Kám Bakhsha[^fn-p0138-1] who had darted the arrow. I punished the man who had darted the arrow and separated him from the foolish prince. I ordered what was to be done with that wicked person (*i.e.*, Hadū) who was the worst companion[^fn-p0138-2] of the prince. He who has Satan as his companion has truly selected a bad companion. (Verse) “The company of the wicked is dangerous like fire. When the fire is hot it burns the body ; but when it is extinguished it makes the coat black (similarly an evil companion first annoys his friend and then blackens his character)”.[^fn-p0138-3] By the bad omen of Hadū’s company the prince has been misled. Some ‘ chilás’[^fn-p0138-4] should be appointed to keep a watch over him round his tent. And you should inform me about him.
 
@@ -1167,7 +1167,7 @@ You must have known that an arrow was darted towards Yákūt (Khán) and that it
 
 ### Letter 127: Aurungzebe → Asad Khán
 
-### LETTER CXXVII.
+#### LETTER CXXVII.
 
 Khán Jehán Bahádūr[^fn-p0139-1], notwithstanding his previous activity, displayed inactivity in this affair like old officers. When I reprehended about this his negligence he requested me to forgive him. But he has not improved. All this ruin (of our affairs) is to be attributed to his insincerity. How should it not be that there is no act worse than insincerity (*i.e.*, insincerity is the worst act) ? Truly, ‘The hypocrites are in the lowest pit of hell’[^fn-p0139-2]. You should write him something for his forgiveness and should suggest to him this (Koranic) verse so that his eyes may be opened and he be warned against insincerity. Though it is impossible that the inward enemy (*i.e.*, passion) should be strong, your greatest enemy is passion between your two sides (*i.e.*, in your heart). Why do you allow this passion to really overcome you ? O God ! release us from the fetters of passion and let us not die in its bondage. (Couplet) “Man received favour from God which was His first favour.[^fn-p0139-3] Whatever is shewn by God seeks after the misguided (*i.e.*, God shews mercy and favour to the misguided). Blessing and its acceptance are from Thee ; security and fear are (also) from Thee”.
 
@@ -1175,13 +1175,13 @@ Khán Jehán Bahádūr[^fn-p0139-1], notwithstanding his previous activity, disp
 
 ### Letter 128: Aurungzebe → Asad Khán
 
-### 1694. LETTER CXXVIII.
+#### 1694. LETTER CXXVIII.
 
 Amir-ūl-Umará[^fn-p0139-4] is dead. He was one of the old servants. ‘We have come from God and to Him we shall return’[^fn-p0140-1]. He also possessed property. You should write to the finance minister of his province to confiscate his property with great caution and to take into possession as royal property every kind of thing obtainable from his servants with force and strictness[^fn-p0140-2]. You should make the secretary of the deceased (*i.e.*, Mūrlidhar) understand that he will be favoured for his good service. You should inform me of the condition of the sons of the deceased.[^fn-p0140-3] I have also spoken to another person about this matter; but with the thought of looking after his relatives I have appointed, a second time, that devoted servant (*i.e.*, you) to this affair. Certainly you will display your worthy quality with truth and sincerity. Amán Alláh Khán[^fn-p0140-4] is not unsuitable for this work (*i.e.*, for governing the province of the deceased). (Therefore) he should be appointed to (this post). You should inform me about his titles so that they may be increased. I intend shewing him another favour shortly.
 
 ### Letter 129: Aurungzebe → Asad Khán
 
-### LETTER CXXIX.
+#### LETTER CXXIX.
 
 This office has been fixed on Usaf Khán[^fn-p0141-1]. The person selected by you (for this office) is also good; but he is a soldier. His business is not known. You should inform me of what you know about him. I am in need of an honest person for the ministership of Būrhánpūr[^fn-p0141-2]. ‘The most important work should be taken first’[^fn-p0141-3].
 
@@ -1189,13 +1189,13 @@ This office has been fixed on Usaf Khán[^fn-p0141-1]. The person selected by yo
 
 ### Letter 130: Aurungzebe → Asad Khán
 
-### LETTER CXX.
+#### LETTER CXX.
 
 What is Mūkaram Khán[^fn-p0141-4] doing? Notwithstanding his desire of (going to) a pilgrimage to the two sacred cities[^fn-p0141-5], why is he delaying? What is better than this (*i.e.*, pilgrimage)?[^fn-p0141-6] (Couplet) “Pilgrimage to the Lord of the House (*i.e.*, the temple of Mecca) is good; but pilgrimage is to visit the temple of Mecca (*i.e.*, pilgrims visiting Mecca search after the temple; but really they should search after God)”.
 
 ### Letter 131: Aurungzebe → Asad Khán
 
-### LETTER CXXXI.
+#### LETTER CXXXI.
 
 The presents sent by (my) grandson Bahádūr[^fn-p0142-1] should be accepted (by you). But before doing this you should tell his agent not to send presents without (previous) information. May peace be upon you.
 
@@ -1203,7 +1203,7 @@ The presents sent by (my) grandson Bahádūr[^fn-p0142-1] should be accepted (by
 
 ### Letter 132: Aurungzebe → Asad Khán
 
-### LETTER CXXXII.
+#### LETTER CXXXII.
 
 Mūrshid Ali Khán is a revenue collector ;[^fn-p0142-2] and he is also not devoid of honesty. If this work is offered to him, possibly he will perform it better than others. You should ask him (about this work) on your own behalf. That old servant (*i.e.*, you) must have heard the case of Fazl Ali Khán[^fn-p0142-3]. An army should be sent to punish the turbulent ‘Kazal-báshán’.[^fn-p0142-4] What is Khán Bahádūr Hamid[^fn-p0142-5] doing ? This sinner (*i.e.*, Aurungzebe) wishes that no crime, especially oppression[^fn-p0142-6], should be perpetrated ; the result will be that there will be order and peace in the kingdom. Kingship is not maintained without discipline. Sometimes orders appropriate to the occasion are issued through the force of passion and without volition. You should ask the opinion of the learned about this. May God be praised that your intention is good. You will not be punished by God. Truly, ‘ Man’s action will depend upon his intention’.[^fn-p0143-1] This tradition is correct, convincing and authoritative.
 
@@ -1211,13 +1211,13 @@ Mūrshid Ali Khán is a revenue collector ;[^fn-p0142-2] and he is also not devo
 
 ### Letter 133: Aurungzebe → Asad Khán
 
-### 1692. LETTER CXXXIII.
+#### 1692. LETTER CXXXIII.
 
 Khájeh Abdūr Rahim[^fn-p0143-2] died. He was religious and pious and was very brave. One day he was standing in my presence with a country-made dagger hanging from his waist. I liked the dagger and said, “ Its make is very fine”. He replied, “ Its name is better than its make.” I asked, “ What’s that ”? He replied, “ Ráfiz–i–Kūsh”[^fn-p0143-3]. I observed, “ I also want to get three or four daggers prepared of the same make and name for the state”. He took out the dagger from his waist, presented it to me, and said, “ Till they are prepared, this humble present will be exalted in the state”. Then he took leave and departed. You should write to me about the condition of his sons[^fn-p0143-4] or tell Ináyat Alláh Khàn to write to me so that each may be favoured according to his merit.
 
 ### Letter 134: Aurungzebe → Asad Khán
 
-### 1697. LETTER CXXXIV.
+#### 1697. LETTER CXXXIV.
 
 Khán Jehán Bahádūr[^fn-p0144-1] died. ‘We have come from God and to Him we shall return.’ God is holy. How very negligent is man? How long will he be overpowered by passion?[^fn-p0144-2] At this time the Khán was desiring (to get) the governorship of the Deccan. How intensely was he anxious about it? Yes, the work of passion is worse than this. (Verses) “To destroy passion is not the business of wisdom (*i.e.*, wisdom is overpowered by passion). The internal lion (*i.e.*, passion) is not a plaything for the hare (*i.e.*, wisdom). Passion devoured the whole world and swallowed it. Its belly was crying, ‘Is there any more (infidel)’?[^fn-p0144-3] This passion is hell and hell is a dragon, before which (the wide expanse of) the ocean is nothing. Passion swallows up the seven seas and yet this world-burning passion cannot quench its thirst. (Men useless like) stones (*i.e.*, sinners) and stony-hearted infidels enter hell with shame and disgrace. Yet hell is not satisfied with so much food (*i.e.*, sinners and infidels) till this voice comes from God in response to its desire (of devouring more victims), ‘Are you satisfied’? Hell replies, ‘Am I satisfied? No, I am not yet. Look at my fire, heat, and sensation (*i.e.*, I am still burning with the desire of having more victims)’. God stretches forth His leg to hell from ‘Lá Makán’.[^fn-p0144-4] At this time hell is satisfied with ‘kūn-fikán’. [^fn-p0145-1] As this our passion forms a part of hell, (and) parts always possess the effect of the whole (consequently passion has the effect of hell). None but God can imagine the insatiable appetite of hell. I pray for strength to the Ocean-splitting (*i.e.*, Powerful and Great) God in order to remove (or dig out) the Mount Caucasus with a needle”.[^fn-p0145-2] May the High God favour us with (His) grace and relieve us from this dark day (*i.e.*, passion). I conjure Him by the name of Mahomet the Prophet and of his family. May the blessings and peace of Mahomet be upon Mahomet.
 
@@ -1225,21 +1225,21 @@ Khán Jehán Bahádūr[^fn-p0144-1] died. ‘We have come from God and to Him we
 
 ### Letter 135: Aurungzebe → Asad Khán
 
-### 1706. LETTER CXXXV.
+#### 1706. LETTER CXXXV.
 
-I read the letter sent by Nasrat Jang[^fn-p0145-3] to you. In this letter he has recommended Dáūd Khán[^fn-p0145-4] and mentioned his own services. Something should be written in reply. (But) we should wait for the conquest of the fortress (*i.e.*, Vákingarh). After the conquest some of his requests should be granted ; but before that, the granting of his requests is impossible. Henceforth for capturing the fortress you should order Tarbiat Khán[^fn-p0146-1] to send all the necessary things. And you should also write to the garrison of the fortress of that side to send the artillery consisting of ‘ jazáyars’,[^fn-p0146-2] ‘ rám-jangis’<sup>4</sup>, bullets, and gunpowder to the army of Nasrat Jang. Authority lies in the hands of the Powerful and Unique God ; He does what He wills.
+I read the letter sent by Nasrat Jang[^fn-p0145-3] to you. In this letter he has recommended Dáūd Khán[^fn-p0145-4] and mentioned his own services. Something should be written in reply. (But) we should wait for the conquest of the fortress (*i.e.*, Vákingarh). After the conquest some of his requests should be granted ; but before that, the granting of his requests is impossible. Henceforth for capturing the fortress you should order Tarbiat Khán[^fn-p0146-1] to send all the necessary things. And you should also write to the garrison of the fortress of that side to send the artillery consisting of ‘ jazáyars’,[^fn-p0146-2] ‘ rám-jangis’[^fn-p0146-2], bullets, and gunpowder to the army of Nasrat Jang. Authority lies in the hands of the Powerful and Unique God ; He does what He wills.
 
 * * *
 
 ### Letter 136: Aurungzebe → Asad Khán
 
-### 1704.  LETTER CXXXVI.
+#### 1704.  LETTER CXXXVI.
 
 It was clear from the letter of Sipáhdár Khán[^fn-p0146-3] that he had punished Mahábat Khán.[^fn-p0146-4] Thanks to the Almighty for this. He should be given, in addition, a personal title of ‘Hazári’ and a thousand followers. A robe of honour, a sword, a horse and an elephant should be sent to him. It should also be arranged to bestow additional titles on his followers. He should be gladdened with this good news. His agent should also be favoured if it is necessary. God is the best master and best agent for us.
 
 ### Letter 137: Aurungzebe → Asad Khán
 
-### LETTER CXXXVII.
+#### LETTER CXXXVII.
 
 I have selected five elephants for (my) grandson Bahádūr. You should choose two elephants out of these five and send them to his agent who should also be presented with a horse, a special robe of honour, and a dagger decorated with a tassel. You should inquire about these things from Javáhir Khán.
 
@@ -1247,13 +1247,13 @@ I have selected five elephants for (my) grandson Bahádūr. You should choose tw
 
 ### Letter 138: Aurungzebe → Asad Khán
 
-### 1694. LETTER CXXXVIII.
+#### 1694. LETTER CXXXVIII.
 
 The reporters and Zabar Dast Khán[^fn-p0147-1] have written something regarding Saiyad Mūbárak.[^fn-p0147-2] Are these reports about the Saiyad right or not? The Khán considers himself as an honest man. You should ask Ináyat Alláh Khán (about the facts of these reports). Sáleh Khan[^fn-p0147-3] has managed well the governorship of Akbarábád. You should write to Gopál Singh for helping the Khán (in the government of the province of Akbarábád). You should write the above Khán (*i.e.*, Sáleh Khán) a letter of condolence. (Verse) “How long will the palm tree conceal the defect of its poverty”?[^fn-p0147-4]
 
 ### Letter 139: Aurungzebe → Asad Khán
 
-### LETTER CXXXIX.
+#### LETTER CXXXIX.
 
 The accident met by the deceased Ihtamám Khán[^fn-p0148-1] is through the negligence of (his) followers. We should not give countenance to them ; nay we should break their backs with the stick of inattention (*i.e.*, we should shew indifference to them). Whence shall we get an honest and intelligent man like the late Khán? He had fattened the (royal) horses so much and kept such fine order in the stable that I cannot describe it. O God! forgive him (*i.e.*, the Khán) and have mercy upon him; because You are the most merciful. You should write strongly to Saif Khán[^fn-p0148-2] to punish the rebels. He should be given his pay in advance so that he will not delay (in punishing the rebels). The work is difficult.
 
@@ -1261,7 +1261,7 @@ The accident met by the deceased Ihtamám Khán[^fn-p0148-1] is through the negl
 
 ### Letter 140: Aurungzebe → Asad Khán
 
-### LETTER CXL.
+#### LETTER CXL.
 
 The eldest son of sovereignty (*i.e.*, Mūazzam) has written (requesting me) to confer additional titles on (his) fourth son. Evidently the cavaliers of Rafi–ūl–Kadr[^fn-p0148-3] are more numerous (than necessary). The number should be reduced in consonance with his post. It is not advisable to give more personal titles to the younger son than to the eldest. In order to please my son I shall have to shew favour in another way.
 
@@ -1271,7 +1271,7 @@ Razavi Khán and the Hindu are not on good terms. These are two enemies; they ar
 
 ### Letter 141: Aurungzebe → Asad Khán
 
-### LETTER CXLI.
+#### LETTER CXLI.
 
 Rūh Alláh Khán[^fn-p0149-2] discharged his debts with difficulty. This extravagant and rich Khán desires to squander away lavishly the money equivalent to the fine imposed upon him (*i.e.*, not to pay the fine). He garbles the money accounts. When landlords are unable to pay money to the royal treasury, the debt is discharged from their estates by revenue collectors. You should appoint an agent to get from the Khán immediately the fine imposed upon him by the state. Not a single ‘asharafi’[^fn-p0149-3] should be left to the Khán but all the whole amount of fine should be recovered from him. His Majesty (Sháh Jehán),—may his tomb be sanctified,—was very particular in recovering fines. Immediately he appointed mischievous and strict ‘chilás’[^fn-p0149-4] and thus received fines. I remember that one day His Majesty made Ja’afar Khán,[^fn-p0149-5] who was at the time a vizier, sit in the ‘Ghosal Kháneh’, and received from him the fine imposed upon him. The above Khán was offended with the superintendent of the ‘Ghosal Kháneh, who had in his charge the amount of his fine, and was prepared to do him harm and injury. H. M. told the unkindly brother (*i.e.*, Dárá) to reconcile both of them after the dismissal of the court and to make the above-mentioned Khán give the superintendent a ‘dūsháleh’.[^fn-p0150-1]
 
@@ -1279,7 +1279,7 @@ Rūh Alláh Khán[^fn-p0149-2] discharged his debts with difficulty. This extrav
 
 ### Letter 142: Aurungzebe → Asad Khán
 
-### LETTER CXLII.
+#### LETTER CXLII.
 
 You should often bring the poor assistant of the prime minister into my presence. Meanwhile if he is selfish, you should prohibit him from this so that he may not do so again.
 
@@ -1287,7 +1287,7 @@ You should often bring the poor assistant of the prime minister into my presence
 
 ### Letter 143: Aurungzebe → Asad Khán
 
-### LETTER CXLIII.
+#### LETTER CXLIII.
 
 To-day Tarbiat Khán[^fn-p0150-2] requested me to present two or three turbans adorned with jewels to two or three ‘Mang-báshis’[^fn-p0150-3] who had rendered good services during this expedition. You should say to the above Khán, “Though you have passed your life in government service and have been favoured (for this) by the emperor, you do not know that these ‘Mang-báshis’ do not deserve to be favoured in such a way”. For pleasing him and encouraging him for the service he rendered to the state, a turban adorned with a gold medal will be sent to him. Javáhir Khán will send it to him. Help and grace we receive from God. But in future the Khán will not make such a request regarding the ‘Mang-báshis’. If any one will execute an important royal work and will render the state a service with great caution, he will be rewarded and pleased with a robe of honour and money in cash, and with a horse in case he has lost his own horse.
 
@@ -1295,7 +1295,7 @@ To-day Tarbiat Khán[^fn-p0150-2] requested me to present two or three turbans a
 
 ### Letter 144: Aurungzebe → Asad Khán
 
-### LETTER CXLIV.
+#### LETTER CXLIV.
 
 Tarbiat Khán[^fn-p0151-1] is yet in need of money. He has got money (from the royal treasury) for (distributing it) among the soldiers of the fortresses. From outside I came to hear that he has kept this money for his own private purpose. What can the wicked reporters do? The Khán has been appointed over them. These reporters upset important royal arrangements by selfishness; and being ashamed (of their conduct), they pretend ignorance in communicating the news. What is the cause of the fortification of the fortresses by the great rebels and of the watch of Esavi Khán over these fortresses? Had we been informed from the beginning these things would not have happened. The ‘jághir’ should be taken away from Tarbiat Khán and given to Būrhán Alláh Khán who complains of having no ‘jághir’. Evidently Būrhán Alláh Khán is in army. You should write and threaten the above Khán (*i.e.*, Tarbiat Khán), “How has this case resulted in this manner? Why did you pay no attention to the results of the affair as far as your eye could reach? At the time when money was not distributed among the soldiers, when there was no provision in the fortress, and when the soldiers were weakened by want of food and money, where were you? It is enough if the soldiers receive their pay and are faithful in doing their work. We know that the soldiers can do nothing without money and food. Are these the ways of true and faithful Mohemadans to ruin the state affairs, which are truly divine, for the sake of selfishness, and to disregard, for the sake of this perishable life, the right of soldiers (of getting money), which strengthens the infidels to injure them ? Immediately you should get the receipts of pay from all soldiers and send them (to me). Otherwise you will certainly be punished like those who are dishonest and help the infidels. Because, truly, God will not allow the tricks of the treacherous to prosper”.
 
@@ -1303,7 +1303,7 @@ Tarbiat Khán[^fn-p0151-1] is yet in need of money. He has got money (from the r
 
 ### Letter 145: Aurungzebe → Asad Khán
 
-### LETTER CXLV.
+#### LETTER CXLV.
 
 The trustee, newly appointed by Ináyat Alláh Khán[^fn-p0152-1] and confirmed by me, ran away. What has he done ? (Verse) “Everything which enters the salt mine becomes salt.” The Khán had no power of resistance. What can he do ? He is helpless. If such was the case, why did he not come to me ? Though he was not given money by my servants, he was not prohibited by them from coming to me. You should also yourself write strongly to him.
 
@@ -1311,7 +1311,7 @@ The trustee, newly appointed by Ináyat Alláh Khán[^fn-p0152-1] and confirmed 
 
 ### Letter 146: Aurungzebe → Asad Khán
 
-### LETTER CXLVI.
+#### LETTER CXLVI.
 
 Evidently Mahábat Khán of Haiderábád[^fn-p0152-2] died at Láhore. He has no other heir except his grandson whose father is dead. You should write to the administrator of the district thereof to confiscate the Khán’s property with caution and honesty. Because the royal treasury belongs to the public.[^fn-p0153-1] The king is the trustee (of people) and the officers are appointed by the king. None but the needy and the weak can claim a share of the property.
 
@@ -1319,7 +1319,7 @@ Evidently Mahábat Khán of Haiderábád[^fn-p0152-2] died at Láhore. He has no
 
 ### Letter 147: Aurungzebe → Asad Khán
 
-### LETTER CXLVII.
+#### LETTER CXLVII.
 
 To-day Marhamat Khán came into my presence, having put on a rich dress. The skirt of his robe was so long that his feet were not visible. I ordered Mūharam Khán to curtail two inches of the skirt of that foolish Khán. You should say to him, “The skirt must be of the same length that has been fixed by the court custom; otherwise you should not enter the ‘Ghosal Kháneh.’ A man should put on a simple and durable dress.[^fn-p0153-2] Ornament and fashion are the peculiar characteristic of women. These things are proper for women.” By way of advice you should speak to him some words (of the same nature) appropriate to the occasion.
 
@@ -1327,7 +1327,7 @@ To-day Marhamat Khán came into my presence, having put on a rich dress. The ski
 
 ### Letter 148: Aurungzebe → Asad Khán
 
-### 1660. LETTER CXVIII.
+#### 1660. LETTER CXVIII.
 
 I do not chew a ‘pán’.[^fn-p0153-3] This betel shop is out of order. The department under the steward is also not in order. Is
 
@@ -1341,7 +1341,7 @@ According to my order, the reply, sent by A'akel Khán[^fn-p0154-2] to Mahábat 
 
 ### Letter 149: Aurungzebe → Asad Khán
 
-### LETTER CXLIX.
+#### LETTER CXLIX.
 
 Devoted servant of ( my ) court, Vuzarát Khán Abdūr Rahmin[^fn-p0154-4] is dead. You should suggest me the names of some persons for the governorship of Málwá. These persons must be experienced. Raghūnáth Sa’ad Alláh Khán[^fn-p0155-1], at the time of his governorship, used to say, “ The government affair should be given to such a person as possesses the quality of experience and a mind of entering carefully into the affair, and not to one who is affected with selfishness ”.
 
@@ -1349,7 +1349,7 @@ Devoted servant of ( my ) court, Vuzarát Khán Abdūr Rahmin[^fn-p0154-4] is de
 
 ### Letter 150: Aurungzebe → Asad Khán
 
-### LETTER CL.
+#### LETTER CL.
 
 That devoted servant (and) pivot of state affairs, according to (my) order, as powerful as destiny, you should write to Prince A’azam, “ From the letter of Neek Nàm Khán[^fn-p0155-2] it was known that you had dismissed the three sons of your own old secretary. You seem to be wise and sagacious. Do as you like. Now you do not like Fazáil Khán Mir Hádi[^fn-p0155-3]. I appointed Ináyat Alláh Khán to report ( to me ) your desires. You must be knowing that Kūkaltásh Khán[^fn-p0155-4] during his governorship of the Deccan, and Rūh Alláh Khán[^fn-p0155-5] during his governorship of Haiderábád[^fn-p0155-6] (Deccan), had become sources of abominable actions. For the sake of policy I took them to task for a time; but in the end I retained them in their posts by remembering their past services ”.
 
@@ -1357,7 +1357,7 @@ I have heard His Majesty (Sháh Jehán) saying, “ One day the Emperor Akbar, w
 
 ### Letter 151: Aurungzebe → Asad Khán
 
-### LETTER CLI.
+#### LETTER CLI.
 
 Khán Firūz Jang left his work unfinished. He did not go to receive my grandson who had come from Būrhánpūr, but went away to the Berárs[^fn-p0157-1]. Why does not the Khán write a letter to me about him ? Was the Khán informed to go to the Berárs through a letter from the agent or through divine news ? Neither an order was issued nor was he told by me to go to the Berárs. Let him know from whom he received the post of generalship.
 
@@ -1365,7 +1365,7 @@ Khán Firūz Jang left his work unfinished. He did not go to receive my grandson
 
 ### Letter 152: Aurungzebe → Asad Khán
 
-### LETTER CLII.
+#### LETTER CLII.
 
 Muhammad Bákar[^fn-p0157-2], the superintendent of the divine court, died. People talk something about Shikár Khán. One day, when riding, I heard people speaking more ill of him than of Muhammad Bákar. I often said that Muhammad Bákar was notorious for a mischievous habit, while Shikár Khán, for pride. But it was no effect. It is right that men get rewards for their actions. The Khán knows better what happened to the deceased (*i.e.*, Muhammad Bákar), and what will happen to himself. The evil passion does not allow man to do good acts and to store up provision for the next life. Otherwise people would know that it is bad to practise oppression, but it is worse to encourage it[^fn-p0158-1]. To render services to the avaricious is to kill the poor. To be thoroughly conscious of the responsibility of the judgment of the next life which is doubted is a difficult task. What if a man is certain of the judgment of the next life? The Khán must be given his ‘ jághir’, but not a post in the state. (Verse) “Alas! alas! the indifference towards justice.”
 
@@ -1375,7 +1375,7 @@ Gūlám Mūhi-ūd-Din opened a shop in the army of A’azam. He claims himself t
 
 ### Letter 153: Aurungzebe → Asad Khán
 
-### 1694. <span class="small-caps">LETTER CLIII.</span>
+#### 1694. <span class="small-caps">LETTER CLIII.</span>
 
 Prince A’azam, for his arrears due to the government, has requested that the district of Lūdhi should be assigned to him (so that he may be able to pay off his arrears from the revenue of the district). You should write to him or tell his agent, “There is no harm if his arrears remain unpaid. They will be considered to be paid off from the assets, cash money, the price of the jewels, &c. This is not the business of merchants ”. His Majesty (Sháh Jehán) used to keep in arrears more than one-fourth part of (the produce of) the ‘ jághirs ’ of the princes and the nobles. In my time all rules are without force.
 
@@ -1385,7 +1385,7 @@ Many times the pivot of the kingdom (*i.e.*, Asad Khán) used to say on his own 
 
 ### Letter 154: Aurungzebe → Asad Khán
 
-### LETTER CLIV.
+#### LETTER CLIV.
 
 Old devoted servant, notwithstanding that you have been favoured by me for a long time and have served me and that I have a great opinion of your knowledge about rules and about human virtues, you pocket the insults of the government officials and do not remember the (following) words of Sa’adi[^fn-p0159-4]: (couplet) “Both you and I are servants of the same master; both of us are servants in the court of the king (consequently one officer should not pocket another’s insult) ”. It is very strange. Sa’ad Alláh Khán[^fn-p0160-1] used to say, “ The (Persian) letters ‘ alif ’ and ‘ nūn ’ in the word ‘ divân ’ (secretary or minister) resemble the pen and the inkstand (respectively) (*i.e.*, the last letters ‘ alif ’ ا and ‘ nūn ’ ن of the word ‘ diván ’ shew that the ‘ diván ’ has got a pen and an inkstand before him as the signs of his post)”. (But) the ‘ diván’ who has not got angelic qualities is either a demon with pen and inkstand before him or a brute or a picture devoid of intelligence.[^fn-p0160-2] Henceforth you should be careful. And with your confidence you should regard the servants of the royal court your equals; and you should not leave observance unobserved (*i.e.*, you should possess the discriminative power).
 
@@ -1393,7 +1393,7 @@ Old devoted servant, notwithstanding that you have been favoured by me for a lon
 
 ### Letter 155: Aurungzebe → Asad Khán
 
-### LETTER CLV.
+#### LETTER CLV.
 
 To-day (my) grandson Muhammad Azim[^fn-p0160-3] requested (me) to annex the district of Lashakarpūr[^fn-p0160-4] to the ‘ jághir ’ of Prince A’azam. You should ask him, “ With what hope have you cherished this well-wishing in mind? Had this request been suggested to you by A’azam, there would have been no harm. Otherwise you should not make such requests ; because they do not augment sincerity of heart but increase pride and self-conceit.” The Almighty God is an agent for us ; and I call upon Him. He should have mercy upon us and He may make us enter His shadow.
 
@@ -1401,15 +1401,15 @@ To-day (my) grandson Muhammad Azim[^fn-p0160-3] requested (me) to annex the dist
 
 ### Letter 156: Aurungzebe → Asad Khán
 
-### 1699. LETTER CLVI.
+#### 1699. LETTER CLVI.
 
 You must have heard the news of the death of Mūkhalis Khán[^fn-p0161-1]. I was pleased with his noble and virtuous qualities and his versatile genius. May God be pleased with him. This world where death is rampant has many calamities and its toys are perishable. Where are the wise heart and the seeing eyes ? (*i.e.*, wise men are to die in this world). A person indirectly complained before me, “This man (*i.e.*, Mūkhalis Khán) does not consider any other man better than himself.” I replied, “He does not find any other man better than himself ”.
 
-### **Letters Addressed to** Gházi-ūd-Din Khán Bahádūr Firūz Jang[^fn-p0162-1].
+#### **Letters Addressed to**<br />Gházi-ūd-Din Khán Bahádūr Firūz Jang[^fn-p0162-1].
 
 ### Letter 157: Aurungzebe → Gházi-ūd-Din Khán Bahádūr Firūz Jang
 
-### LETTER CLVII[^fn-p0162-2].
+#### LETTER CLVII[^fn-p0162-2].
 
 (My) sincere Khán Firūz Jang, I desired to come myself to see this loyal friend (*i.e.*, Firūz Jang who was ill at the time); but with what face and how can I see you? Consequently I have sent Sa'adat Khán[^fn-p0162-3] on my own behalf to see my eye (*i.e.*, my dear Khán) and to represent to you what is concealed in my heart. Grapes are the only new fruits obtainable here. But the Greek physicians consider them injurious for the health of the noble, sincere, and learned Khán. Therefore I myself do not take grapes. If the Holy God wishes we will eat grapes together after the immediate recovery of your health. ( Verse ) “ O God ! how pleasant is this my desire (of getting recovery) ! May Thou fulfil this desire ”.
 
@@ -1417,7 +1417,7 @@ You must have heard the news of the death of Mūkhalis Khán[^fn-p0161-1]. I was
 
 ### Letter 158: Aurungzebe → Gházi-ūd-Din Khán Bahádūr Firūz Jang
 
-### 1702. LETTER CLVIII.
+#### 1702. LETTER CLVIII.
 
 Sincere Khán Firūz Jang, the separation of your army cannot be helped. Send your son[^fn-p0163-1] into my august presence to be favoured with gifts and allowances. Then he will return to my loyal friend ( *i.e.*, you ). ( Verse ) “ Beware ! when you do not know the divine secrets, do not be disappointed. Plays and tricks ( of fortune ) are concealed behind the curtain. Do not be grieved.” (*I.e.*, a person like the Khán should not be disappointed at his misfortune ; because after a time good luck will succeed misfortune ). ( Verse ) “ What burnt the heart with anxiety was the fear of separation. Any how we must put up with this separation on account of the faithlessness of the sky ”. ( Similarly the Khán should put up with the separation of his army for which he was in great anxiety ).
 
@@ -1425,17 +1425,17 @@ Sincere Khán Firūz Jang, the separation of your army cannot be helped. Send yo
 
 ### Letter 159: Aurungzebe → Gházi-ūd-Din Khán Bahádūr Firūz Jang
 
-### LETTER CLIX.
+#### LETTER CLIX.
 
 Sincere Khán Firūz Jang, may God be praised. There is no difference of heart between us ( *i.e.*, we love one another even from a great distance ). ( Couplet ) “ If you are in Yaman[^fn-p0163-2] and at the same time with me ( *i.e.*, with my heart ), you are near me. But if you are near me and at the same time without me ( *i.e.*, without my heart ), you are in Yaman.” ( *I.e.*, if you are at a distant place like Yaman from me and yet if you love me at that place, you seem to be near me ; but if you are near me and yet do not love me, you seem to be far away from me at Yaman ). ( Similarly though Aurungzebe was far away from the Khán, on account of his love for him he imagined himself to be near him). You must have been probably informed of the affairs of the whole day so that the physical union might be kept up. I have not seen Ináyat Alláh Khán. His place is vacant. ( Verse ) “ The rose is rose wherever it grows ”.
 
 * * *
 
-### Letters addressed to Zūl Fikár Khán Bahádūr Nasrat Jang[^fn-p0165-1].
+### Letters addressed to<br />Zūl Fikár Khán Bahádūr Nasrat Jang[^fn-p0165-1].
 
 ### Letter 160: Aurungzebe → Zūl Fikár Khán Bahádūr Nasrat Jang
 
-### LETTER CLX.
+#### LETTER CLX.
 
 Sincere Nasrat Jang, first this country (*i.e.*, the Deccan) was governed by the Delhi kings. The powerful Bahámani[^fn-p0165-2] kings usurped it from the possession of the Afghán kings of Delhi. Having found them addicted to sensual pleasures and engaged in low worldly affairs, we (*i.e.*, the Mogul emperors) took advantage of it and acquired the throne and the canopy for us (*i.e.*, we founded our Delhi Empire). They received the reward of their actions from the revengeful leaders,[^fn-p0166-1] *i.e.*, the Bahámani kings treated their masters (the Afghán kings of Delhi) badly and unfaithfully; they themselves, in return, were treated so by their servants. Shivá(ji)[^fn-p0166-2] and others also treated them badly. (Couplet) “Take advantage when the kingdom is in your hands; because the kingdom passes from one hand to another (*i.e.*, take possession of the Deccan; because it has passed from one ruler to another)”.
 
@@ -1443,7 +1443,7 @@ Sincere Nasrat Jang, first this country (*i.e.*, the Deccan) was governed by the
 
 ### Letter 161: Aurungzebe → Zūl Fikár Khán Bahádūr Nasrat Jang
 
-### LETTER CLXI.
+#### LETTER CLXI.
 
 Why Should a fertile land be given to an ungrateful ‘káfir–i–harabi’?[^fn-p0166-3] Why should we be negligent in carrying out works which it is impossible to accomplish without any evident objection? Have we not read about the reward of the crusade (against the infidels) in the ‘Sahihain’[^fn-p0167-1]? Have we not got power of conquering kingdoms and of imprisoning rebels?
 
@@ -1451,7 +1451,7 @@ Why Should a fertile land be given to an ungrateful ‘káfir–i–harabi’?[^
 
 ### Letter 162: Aurungzebe → Zūl Fikár Khán Bahádūr Nasrat Jang
 
-### LETTER CLXII.
+#### LETTER CLXII.
 
 Khán Nasrat Jang, Ráo Dūlip[^fn-p0167-2] sent his other subordinates except Mūltifat Khán[^fn-p0167-3] to prince A’azam in order to request him that as the work was heavy, there would be no harm if it was reduced. All right. Many of the subordinates of the Ráo are in common cause with the shameless Rámá[^fn-p0167-4]. They do not understand that they make them-
 
@@ -1463,7 +1463,7 @@ selves the butts for the arrow of destruction in the next life. (Couplet) “Whe
 
 ### Letter 163: Aurungzebe → Zūl Fikár Khán Bahádūr Nasrat Jang
 
-### 1702. LETTER CLXIII.
+#### 1702. LETTER CLXIII.
 
 My sincere Nasrat Jang, (our) whole energy was devoted to the conquest of the Deccan which was the most important work. Thank God that we have accomplished the work (of conquering the Deccan)[^fn-p0168-1]. But the expenses incurred in this meritorious journey (of the Deccan) are defrayed from the treasury of the Northern India. We are still in debt. I have heard that in the Karnátic[^fn-p0168-2] large and old treasures are hidden and buried under the ground. The ‘Zamindár’[^fn-p0169-1] of Bijápūr of an unknown origin has usurped the kingdom of the Karnátic by force. The grandson of Shiváji is the father of the hellish Shiváji (*i.e.*, the grandson is worse than even the grandfather). Evidently his kingdom (*i.e.*, the Karnátic) is not strong. Its revenue is said to have been estimated by the late Masūd Khán at seventy or eighty lacs of ‘hūns’[^fn-p0169-2]. Why don’t you take possession of this kingdom (of the Karnátic)?. You should inquire from your own deputy, who must be Dáūd Khán[^fn-p0169-3], about the condition of this kingdom and about the plan of taking it. Why are you careless and negligent about this[^fn-p0169-4]?
 
@@ -1471,15 +1471,15 @@ My sincere Nasrat Jang, (our) whole energy was devoted to the conquest of the De
 
 ### Letter 164: Aurungzebe → Zūl Fikár Khán Bahádūr Nasrat Jang
 
-### LETTER CLXIV.
+#### LETTER CLXIV.
 
 My Khán Nasrat Jang, government servants do not pay any attention to honest people; because from beginning to end these honest men have no regard and respect for the government officials. The oppressors are not afraid of giving (money) to and taking (it) from honest men (*i.e.*, the oppressive government servants bribe and fleece the honest); *i.e.*, it will require no miserliness to give water to others from the ocean. Their wicked actions are contrary to my order. I do not know what punishment will be inflicted upon me on the day of judgment and what hardships will befall the subjects[^fn-p0170-1]. (Verse) “ The thought of Saturday embitters the Friday of the boys[^fn-p0170-2]. The pleasure of to-day without the anxiety of to-morrow is enjoyable (*i.e.*, sufficient unto the day is the evil thereof)”. Any how the men of power should always fear honest men and should every moment say, ‘ O God ! save me and protect me (from sins) ’.
 
-### Letters addressed to Mirzá Sadr-ūd-Din Muhammad Khán Safavi[^fn-p0171-1], Second Paymaster.
+#### Letters addressed to<br />Mirzá Sadr-ūd-Din Muhammad Khán Safavi[^fn-p0171-1],<br />Second Paymaster.
 
 ### Letter 165: Aurungzebe → Mirzá Sadr-ūd-Din Muhammad Khán Safavi
 
-### LETTER CLXV.
+#### LETTER CLXV.
 
 Mirzá Paymaster, Ikhalás Keesh-i-Punjábi[^fn-p0171-2] has been raised to the post of ‘Dū-Sad-o-Punjáhi[^fn-p0171-3]’. You should make an entry of this into the record of titles.
 
@@ -1487,37 +1487,37 @@ Mirzá Paymaster, Ikhalás Keesh-i-Punjábi[^fn-p0171-2] has been raised to the 
 
 ### Letter 166: Aurungzebe → Mirzá Sadr-ūd-Din Muhammad Khán Safavi
 
-### LETTER CLXVI.
+#### LETTER CLXVI.
 
 Mirzá Paymaster, Muhammad Ebráhim, the bashful courtier, has been raised to a high honour, *i.e.*, to the post of ‘Seh-Hazári’, two hundred and five hundred followers, a title of ‘Mirzá Kháni’, and a present of two thousand rupees, at the request of the Begum[^fn-p0172-1]. According to (my) order, you should write him a letter communicating these favours. He who acts virtuously and piously is rewarded by God.
 
-### **Letter addressed to** A’akel Khán[^fn-p0173-1], Fort-keeper and Governor of the Capital of Sháh Jehán Abád[^fn-p0173-2].
+### **Letter addressed to**<br />A’akel Khán[^fn-p0173-1],<br />Fort-keeper and Governor<br />of the Capital of Sháh Jehán Abád[^fn-p0173-2].
 
 ### Letter 167: Aurungzebe → A’akel Khán
 
-### 1662. LETTER CLXVII.
+#### 1662. LETTER CLXVII.
 
 I read the petition of that old servant (*i.e.,* the Khán). You have expressed the desire of retiring from the service and of tendering resignation of your post. When I have protected you under my service, which is the object of divine glory and favour, do you think that you will get a better post anywhere else than here? In case of you insist, your petition will be certainly accepted and your request (for resignation) will be complied with; and a sum of one thousand rupees per month, amounting to twelve thousand per year, will be assigned to you.
 
-### Letter addressed to Hamid-ūd-Din Khán Bahádūr[^fn-p0174-1].
+### Letter addressed to<br />Hamid-ūd-Din Khán Bahádūr[^fn-p0174-1].
 
 ### Letter 168: Aurungzebe → Hamid-ūd-Din Khán Bahádūr
 
-### LETTER CLXVIII.
+#### LETTER CLXVIII.
 
 Hamid should know that a few days ago prince A'azam uttered these words before me: “There are my three bitter enemies—Hamid–ūd–Din Khán, Amir Khán[^fn-p0174-2], and Mūna'am Khàn[^fn-p0174-3]”. I replied, “Amir Khán is a good-natured man; he is the enemy of none. It is proper that Hamid is also not an enemy. The nature of Mūna'am Khán is unknown to this oppressive and ignorant man (*i.e.*, Aurungzebe himself)”. Did you ever consider why you are indifferent to your own condition and to death which is nearer to man than the strip of his shoe and the pulse of his neck (*i.e.*, death comes unexpectedly)? Woe! woe! Alas! alas! (Couplet) “Sometimes I am left behind my hand, heart, and foot (*i.e.*, sometimes I become helpless). O life! you are passing away soon; I fear that I will be left behind you (*i.e.*, I will die soon)”. If you think it right I will recommend you to prince A'azam. If you quarrel with each other I will reconcile you both; so that you may not be dishonest in serving this mortal creature (*i.e.*, Aurungzebe). Whatever you think write it to me or inform me of it.
 
-### **Letters addressed to** Ináyat Allàh Khán[^fn-p0175-1].
+#### **Letters addressed to**<br />Ináyat Allàh Khán[^fn-p0175-1].
 
 ### Letter 169: Aurungzebe → Ináyat Alláh Khán
 
-### LETTER CLXIX[^fn-p0175-2].
+#### LETTER CLXIX[^fn-p0175-2].
 
 Yesterday when Abūl Vafá[^fn-p0175-3] was present a simple dervish came there and asked for something for his family. I said, “What has the dervish to do with (worldly) desires? He should be free from the desires of this world and should have nothing with him (*i.e.*, be poor in worldly things)”. People cry, ‘A dervish, a dervish[^fn-p0175-4]’; but they do not know who is a dervish and what is his business. (Verse) “The world is a mirror of imagination and the people thereof are the worshippers of this mirror. People imitate passions and say, ‘It is for God’.” O God ! awaken us from the sleep of negligence. Amen ! amen ! amen !
 
 ### Letter 170: Aurungzebe → Ináyat Alláh Khán
 
-### 1699. LETTER CLXX.
+#### 1699. LETTER CLXX.
 
 Hidáyat Keesh[^fn-p0176-1] and Ikhalás Andeesh boast much of their being converted into Islam. (But) their boasting is unnecessary. The former boasts in my presence while the latter displays a bad disposition before prince A'azam. You should make them understand (not to behave in this way). (Verse) “O Nakhashaby[^fn-p0176-2]! get up and put up with time; otherwise you will be a butt for the world (*i.e.,* you will be ruined in the world). The wise men of the world say, ‘Wisdom consists in putting up with time’”. May God make you listen with your ears and see with your eyes. May peace be upon men of discretion and of virtue. You may have heard the details of the conduct of these two ungrateful wretches towards the prince. What can be done? There is no remedy for one's affairs. I gave orders according to the requests of these ungrateful wretches. (But now) I issued an order to imprison them. It was not known that these irreligious persons would become so very impudent as to represent untruth to the prince and to attribute untrue things to this auspicious person (*i.e.,* Aurungzebe himself). Very well. A friend and friendship must be constant. If the High God wishes I will look to their cases.
 
@@ -1527,13 +1527,13 @@ According to (my) order you should write a letter to prince A'azam and send it s
 
 ### Letter 171: Aurungzebe → Ináyat Alláh Khán
 
-### LETTER CLXXI.
+#### LETTER CLXXI.
 
 You should say to Hidáyat Alláh[^fn-p0177-2], Zarrin Raquam[^fn-p0177-3], to write in good hand the (following) quatrain in the letter to be sent to prince Muhammad Kám Bakhsha[^fn-p0177-4]. (Quatrain) “With my own two hands have I set fire to my own harvest. Why should I complain of my enemy? No one is my enemy. I myself am my own enemy. Woe to myself, to my hand, and to my skirt ! ”
 
 ### Letter 172: Aurungzebe → Ináyat Alláh Khán
 
-### LETTER CLXXII.
+#### LETTER CLXXII.
 
 Mir Jalál-ūd-Din[^fn-p0178-1], who has resigned the service of prince A'azam, is evidently the nephew of Himmat Khán who was my paymaster. The Mir is a born Saiyad of a noble parentage and of a good disposition. You should enquire into the cause of his resignation.
 
@@ -1541,7 +1541,7 @@ Mir Jalál-ūd-Din[^fn-p0178-1], who has resigned the service of prince A'azam, 
 
 ### Letter 173: Aurungzebe → Ináyat Alláh Khán
 
-### LETTER CLXXIII.
+#### LETTER CLXXIII.
 
 The letter of Mū’atemad Khán[^fn-p0178-2] is not a revelation that it should be acted according to per force and that order should be disturbed. Any how, when he is tired of himself and has resigned, you should write him to come to Akbarábád and to take charge of the ‘diváni’ thereof.
 
@@ -1549,17 +1549,17 @@ The letter of Mū’atemad Khán[^fn-p0178-2] is not a revelation that it should
 
 ### Letter 174: Aurungzebe → Ináyat Alláh Khán
 
-### 1694. LETTER CLXXIV.
+#### 1694. LETTER CLXXIV.
 
 Asad Khán and his son have written to me, “The prince (*i.e.*, Kám Bakhsha) is ready to fight against us with the support of the infidel Rámá and desires to enter the fortress (*i.e.*, Jinji)[^fn-p0178-3]. But on account of the caution of the royal army, the accursed Rámá could not come out of the fortress and receive the prince in. This is the reason of the delay in taking the fortress.” According to (my) order you should write them to keep a watch over the prince and to take the fortress. You should write a strong letter and entrust it to Iaar Ali Beg[^fn-p0178-4] who will send it to them by rapid stages. It should not be that the prince joins the enemy (*i.e.*, Rámá) and foils our efforts like the late prince[^fn-p0179-1]. (Verse) “In a country where boys are rulers, the claims of a hundred years’ services become as playthings to them (*i.e.*, when boys become rulers, they do not pay any regard to long services and thus upset the plans of the king)”.
 
 Having heard about the great wealth of India Sharif-i-Mecca[^fn-p0179-2], for taking an advantage for himself, sends me every year an envoy (for receiving money from me). This sum of money which I sent (with the envoy to the Sharif) is for the needy. We should take care whether the money is distributed among the poor or is wasted by the Sharif. On your own behalf you should write to the great and rich merchants of the auspicious harbour of Sūrat[^fn-p0179-3] that this sum of money will be sent through them to the needy of the two holy and auspicious cities (*i.e.*, Mecca and Medina) if they guarantee its safety. Any how religious charity practised by government should not be known to the public. My object is to please the holy souls of the prophets, the Glorious and Sublime God and His companion (*i.e.*, Mahomet). May the good will and peace of God be upon him (*i.e.*, Mahomet) and upon his family. If this is also impossible, why should it (*i.e.*, money) not be distributed among the poor of this country (*i.e.*, India)? Because the manifestation of the Holy God is reflected in every place (*i.e.*, God is omnipresent). We are nearer to God than even to the pulse of our neck.[^fn-p0180-1]
 
-### **Letters addressed to** Asad Khán[^fn-p0181-1].
+#### **Letters addressed to**<br />Asad Khán[^fn-p0181-1].
 
 ### Letter 175: Aurungzebe → Asad Khán
 
-### LETTER CLXXV.
+#### LETTER CLXXV.
 
 You should write, nay address in a respectable way as in a petition, to the heir-apparent, Muhammad Mūazzam Sháh Bahádūr, that the post of the faujdárship of Jalálábád[^fn-p0181-2] had been managed well by Sheikh Karim Ulláh. His father was a soldier and also a civil servant. I am not fully informed of his condition. You should write what his post is.
 
@@ -1571,7 +1571,7 @@ The Amir should be satisfied with putting on the gold turban presented to him on
 
 ### Letter 176: Aurungzebe → Asad Khán
 
-### LETTER CLXXVI.
+#### LETTER CLXXVI.
 
 You should write to my dear son Bahádûr, “This world passed away, and the next one came near (*i.e.*, the world will be destroyed and the day of judgment is near). The things which will be left behind us (after our death) as a memory and which will be useful to us (in the next world) are good and charitable deeds[^fn-p0182-3]. You should know that you have to depart from this world and therefore do charitable deeds (by taking advantage of your present life). That man is wise who takes advantage of the present time which is between the past and the future, practises as soon as he can good and virtuous acts, and considers the present and the future as the past (*i.e.*, takes advantage of the present time and does not lose any opportunity). (Verse) ‘O Sa’adi[^fn-p0183-1] ! you give daily advice to every one, but you yourself do not act upto it (*i.e.*, nor is it Homer nods, but we that dream).’ ”
 
@@ -1579,23 +1579,23 @@ You should write to my dear son Bahádûr, “This world passed away, and the ne
 
 ### Letter 177: Aurungzebe → Asad Khán
 
-### LETTER CLXXVII[^fn-p0183-2].
+#### LETTER CLXXVII[^fn-p0183-2].
 
 I sent my sincere and devoted servant (*i.e.*, Asad Khan) to the house[^fn-p0183-3] of prince Bahádūr. By giving a warning to the father (*i.e.*, Asad Khán) and the son (*i.e.*, Zūl Fikár Khán), I augmented the houour of the prince. Evidently he became proud and self-conceited and lost his (royal) dignity. May God forgive him. It is proper on his part that he should tender a personal apology, go to the house of Nasrat Jang[^fn-p0183-4], beg the Khán’s pardon[^fn-p0183-5], and consider himself a subordinate of his father. The taste of ‘káneh kuchcha[^fn-p0183-6] should not be forgotten. (Verses) “Do you know what is manliness ? Do you know who is a brave man ? A brave man is he who puts up with his enemies and associates with his friends”.
 
 ### Letter 178
 
-### LETTER CLXXVIII.
+#### LETTER CLXXVIII.
 
 You should make a petition to prince A’azam. The prince has interceded for the fault of A’atibár Khán[^fn-p0184-1]. Saiyad Sa’ad Alláh Dervish[^fn-p0184-2] has written to the prince to practise great patience. You should write to the prince the two (following) fine and charming hemistichs sung by Abdūl Kádir Bedil[^fn-p0184-3] which are applicable to this case : (verse) “Fear the sighs of the oppressed; because at the time of their prayer acceptance comes to receive them from the court of God (*i.e.*, the sighs of the oppressed are heard and responded to by God)”.
 
-### **Letters addressed to** Abdūl Kásim Khán.
+#### **Letters addressed to**<br />Abdūl Kásim Khán.
 
 The Khán was distinguished with the title of Mūltifat Khán. (*Cf.* Let. CLXII). After the death of Amir Khán, he received the title of Amir Khán. He was the head of the body guards of His Majesty (*i.e.*, Aurungzebe). He knew the most holy nature of Aurungzebe and made fine remarks appropriate to the time and occasion before the emperor.
 
 ### Letter 179: Abdūl Kásim Khán
 
-### LETTER CLXXIX.
+#### LETTER CLXXIX.
 
 You should write to Muhammad A'azam Sháh, “I (*i.e.*, Aurungzebe) am pleased with your honesty and intelligence. How long will the poor Záhedeh Bánū remain in misery and affliction? She has a claim on you and me. To deprive her of this right becomes the cause of displeasure to God. Don't you know to what an extent the overflowing bounty of the forgiving Creator forgives the crimes of many sinners and of men of bad actions? For God's sake and my sake remove from the bosom the old (feeling of) revenge and the remembrance of the former quarrel. You should shew favour to this old lady who has no other relative except you. Her grandsons (esp. Badhū) saw an evil day as a punishment of their actions. We have to leave the world; consequently we must put up with every man. (Verse) ‘Tell who is the man in the world who has not committed sins (*i.e.*, every man in the world commits sins)’. I remember the rare words uttered by Miyán Abdūl Latif[^fn-p0185-1]—may his holy tomb be sanctified—, ‘To give countenance to an ungodly person and to deprive a rightful man of his right are the worst crimes’. The Creator of real effects (*i.e.*, God) produced an effect upon the tongue of this sinner, full of sins (*i.e.*, Aurungzebe). What more can be written than this[^fn-p0186-1] ?”
 
@@ -1603,7 +1603,7 @@ You should write to Muhammad A'azam Sháh, “I (*i.e.*, Aurungzebe) am pleased 
 
 ### Letter 180
 
-### LETTER CLXXX.
+#### LETTER CLXXX.
 
 According to (my) order, whenever Sar Faráz Khán Abdūl Latif Khán[^fn-p0186-2] comes to salute ‘the best of the kingdom’ and ‘pivot of state affairs’[^fn-p0186-3], having raised his hand after the salutation he should follow the Khán, when he rides on a horse. If the Khán rides in a ‘pálkee’[^fn-p0186-4], Sar Faráz is free from other ceremonials after saluting the Khán. If the Khán rides on an elephant, he should go after him. If the Khán speaks, he should reply; otherwise, not. Rákánhū and other ‘Panj Hazáris’ should dismount and salute the Khán. Asad Khán should give a betel to Rákánhū and say good bye to other ‘Panj Hazáris’.
 
@@ -1613,7 +1613,7 @@ According to (my) order, whenever Sar Faráz Khán Abdūl Latif Khán[^fn-p0186-
 
 ### Letter 181
 
-### LETTER CLXXXI.[^fn-p0187-1]
+#### LETTER CLXXXI.[^fn-p0187-1]
 
 Saiyad Kamàl Khán[^fn-p0187-2] died. You should write to the agent (asking him) to inform the emperor of this. The condition of the followers of the (late) officer is clear to His Majesty (*i.e.*, Aurungzebe). Ináyat Alláh Khán[^fn-p0187-3] is acquainted with the good services of every officer. His Enlightened Majesty will appoint him whom he considers fit to this post. There is no Cáshmiri in this province whom I can appoint and with whom Ináyat Alláh Khán is pleased. The balance due to this Afghan (*i.e.*, the late Saiyad) will remain of course on paper and will not be received. The province will produce a less revenue and the people will be ruined. I have heard the awe of Ináyat Alláh Khán to such an extent that I won’t accept even a lac of rupees in place of one rupee. Change ! change ! change ! (*i.e.*, there is a constant change in everything). The (government) affairs require the conditions of the fear of God and the fear of being punished by the king. A minister should not entrust such affairs to his relatives and friends. Mir Tazá must be in Launi[^fn-p0187-4]. I have not appointed those, as government servants, who have faith in the Mir’s action, and who possess ‘jághirs’ for oppressing the people and exacting money from them.
 

@@ -20,9 +20,9 @@ EDGAR ALLAN POE
 From a crayon portrait drawn by F. J. Fisher about 1858, from a daguerreotype owned by John R. Thompson, editor of the *Southern Literary Messenger*  
 Presented to Edward V. Valentine by the artist
 
-### EDGAR ALLAN POE LETTERS TILL NOW UNPUBLISHED
+### EDGAR ALLAN POE LETTERS<br />TILL NOW UNPUBLISHED
 
-### IN THE VALENTINE MUSEUM RICHMOND, VIRGINIA
+#### IN THE VALENTINE MUSEUM<br />RICHMOND, VIRGINIA
 
 INTRODUCTORY ESSAY AND COMMENTARY  
 BY  
@@ -361,7 +361,7 @@ TO JOHN ALLAN
 EDGAR ALLAN POE, UNIVERSITY OF VIRGINIA, SEPTEMBER 21, 1826  
 TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 One result of Mr. Allan’s inheritance was the fulfilment of Edgar’s dream of going to college. He had reached the top of Burke’s school in 1825, and in March Mr. Allan removed him and had him coached by tutors for the University of Virginia, at Charlottesville, then in its first session, with a faculty of accomplished scholars selected by Jefferson—most of them Europeans.
 
@@ -396,8 +396,9 @@ By the courtesy of Misses Mumford and Mrs. W. S. Robertson
 HOME OF CHARLES ELLIS  
 Franklin and Second Streets, Richmond, where the Allans and Edgar Poe spent several months on their return from England
 
-| For classes under two professors $30.00 each . . . . . . . . . . $60.00 |
+|  |
 | --- |
+| For classes under two professors $30.00 each . . . . . . . . . . $60.00 |
 | For board, bedding, furniture, candles, washing and attendance (servant) . . . . . . . . . . . . . . . . . . . . . . . . . 150.00 |
 | Rent of dormitory $16.00, or one half for two . . . . . . . . . . 8.00 |
 | Participation in public apartments, library, etc. . . . . . . . . . . 15.00 |
@@ -419,7 +420,7 @@ Probably these and other bills which Edgar made and (contrary to tradition) Mr. 
 
 ### Letter 2: Edgar → John Allan
 
-### LETTER NUMBER ONE
+#### LETTER NUMBER ONE
 
 University May 1826
 
@@ -456,7 +457,7 @@ LETTER NUMBER ONE
 
 ### Letter 3: Edgar A Poe → Jno Allan
 
-### LETTER NUMBER TWO
+#### LETTER NUMBER TWO
 
 University. Septemʳ 21ˢᵗ 1826
 
@@ -498,13 +499,13 @@ LETTER NUMBER TWO
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWO]
 
-### LETTER NUMBER THREE EDGAR ALLAN POE, THE COURT HOUSE TAVERN, RICHMOND MONDAY [DATED BY THE EDITOR] MARCH 19, 1827 TO JOHN ALLAN
+### LETTER NUMBER THREE<br />EDGAR ALLAN POE, THE COURT HOUSE TAVERN, RICHMOND<br />MONDAY [DATED BY THE EDITOR] MARCH 19, 1827<br />TO JOHN ALLAN
 
-### LETTER NUMBER FOUR EDGAR ALLAN POE, THE COURT HOUSE TAVERN, RICHMOND TUESDAY [DATED BY THE EDITOR] MARCH 20, 1827 TO JOHN ALLAN
+### LETTER NUMBER FOUR<br />EDGAR ALLAN POE, THE COURT HOUSE TAVERN, RICHMOND<br />TUESDAY [DATED BY THE EDITOR] MARCH 20, 1827<br />TO JOHN ALLAN
 
-### LETTER NUMBER FIVE JOHN ALLAN, RICHMOND [DATED BY THE EDITOR] MARCH 20, 1827 TO EDGAR ALLAN POE
+### LETTER NUMBER FIVE<br />JOHN ALLAN, RICHMOND [DATED BY THE EDITOR] MARCH 20, 1827<br />TO EDGAR ALLAN POE
 
-### COMMENT
+#### COMMENT
 
 Letter Number Three explodes the tradition found in all of the Poe biographies that after his return from the University he was put to work in the office of Ellis and Allan. “You are continually upbraiding me” (he writes to Mr. Allan) “with eating the bread of idleness, when you yourself were the only person to remedy the evil by placing me in some business.”
 
@@ -534,7 +535,7 @@ Having determined the date of Edgar’s sailing the next task for the editor was
 
 ### Letter 5: Edgar A Poe → John Allan
 
-### LETTER NUMBER THREE
+#### LETTER NUMBER THREE
 
 Richmond Monday
 
@@ -588,7 +589,7 @@ LETTER NUMBER THREE
 
 ### Letter 6: Edgar A Poe → John Allan
 
-### LETTER NUMBER FOUR
+#### LETTER NUMBER FOUR
 
 Richmond Tuesday
 
@@ -620,7 +621,7 @@ LETTER NUMBER FOUR
 
 ### Letter 7: John Allan → Edgar Allan Poe
 
-### LETTER NUMBER FIVE
+#### LETTER NUMBER FIVE
 
 Sir,
 
@@ -644,9 +645,9 @@ LETTER NUMBER FIVE
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER FIVE]
 
-### LETTER NUMBER SIX <span class="small-caps">EDGAR ALLAN POE, FORT MOULTRIE, SULLIVAN’S ISLAND, CHARLESTON, S. C., DECEMBER 1, 1828 TO JOHN ALLAN</span>
+### LETTER NUMBER SIX<br /><span class="small-caps">EDGAR ALLAN POE, FORT MOULTRIE, SULLIVAN’S ISLAND,<br />CHARLESTON, S. C., DECEMBER 1, 1828<br />TO JOHN ALLAN</span>
 
-### COMMENT
+#### COMMENT
 
 The next known facts in the history of the eighteen-year-old Poe are his enlistment, at Boston, May 26, 1827, as a private soldier in the United States Army, and his assignment to Battery H of the First Artillery then at Fort Independence, Boston Harbour, which was ordered to Fort Moultrie, South Carolina on October 31, and was, on December 1, 1828 (according to Poe’s letter following) “under orders to sail” from Fort Moultrie to Fortress Monroe, Old Point Comfort, Virginia.
 
@@ -666,7 +667,7 @@ He saw in Mr. Allan’s declaration that he had better remain in the army a sugg
 
 ### Letter 8: Edgar A, Poe → John Allan
 
-### LETTER NUMBER SIX
+#### LETTER NUMBER SIX
 
 Fort Moultrie, Charleston Hʳ  
 December 1ˢᵗ 1828.
@@ -728,9 +729,9 @@ LETTER NUMBER SIX
 
 ### LETTER NUMBER SEVEN
 
-### EDGAR ALLAN POE, FORTRESS MONROE, OLD POINT, VIRGINIA, DECEMBER 22, 1828 TO JOHN ALLAN
+### EDGAR ALLAN POE, FORTRESS MONROE, OLD POINT, VIRGINIA,<br />DECEMBER 22, 1828<br />TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 In this letter signed “Your affectionate son,” Poe “much hurt” at receiving no answer to his Fort Moultrie letter writes again to “recapitulate its contents,” presses more ardently than before his plea for reconciliation and consent of his guardian “to be freed from the army.” The letter received no reply. Soon after it was written Poe was made sergeant major—a promotion which was always a reward of merit.
 
@@ -738,7 +739,7 @@ The sensitive boy’s uneasiness lest his “father” should consider him “de
 
 ### Letter 9: Edgar A Poe → John Allan
 
-### LETTER NUMBER SEVEN
+#### LETTER NUMBER SEVEN
 
 Fortress Monroe (Va)  
 December 22ᵈ 1828
@@ -792,9 +793,9 @@ LETTER NUMBER SEVEN
 
 ### LETTER NUMBER EIGHT
 
-### EDGAR ALLAN POE, FORTRESS MONROE, OLD POINT, VIRGINIA, FEBRUARY 4, 1829 TO JOHN ALLAN
+### EDGAR ALLAN POE, FORTRESS MONROE, OLD POINT, VIRGINIA,<br />FEBRUARY 4, 1829<br />TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 Two months and over have passed since Poe’s Fort Moultrie letter was written and six weeks—including the Christmas season and Edgar’s twentieth birthday—since the one from Fortress Monroe. Discouraged at having had no answer to either and with hope of being invited “home” gone, he writes again—this time requesting Mr. Allan to help him to procure a cadet’s appointment to West Point. He says he is in “an uncomfortable situation for lack of money,” confesses “infamous conduct” at the University and throws himself upon his father’s mercy.
 
@@ -802,7 +803,7 @@ There is no evidence of a reply to this letter but three weeks after it was writ
 
 ### Letter 10: Edgar A Poe → John Allan
 
-### LETTER NUMBER EIGHT
+#### LETTER NUMBER EIGHT
 
 Fortress Monroe  
 February 4ᵗʰ 1829
@@ -864,9 +865,9 @@ LETTER NUMBER EIGHT
 
 ### LETTER NUMBER NINE
 
-### EDGAR ALLAN POE, FORTRESS MONROE, MARCH 10, 1829 TO JOHN ALLAN [MUTILATED]
+### EDGAR ALLAN POE, FORTRESS MONROE, MARCH 10, 1829<br />TO JOHN ALLAN<br />[MUTILATED]
 
-### COMMENT
+#### COMMENT
 
 This brief letter written immediately upon Poe’s return to Old Point after his week’s visit to the desolated Allan home, shows that in the softened atmosphere of mutual sorrow a reconciliation had taken place between father and son, that Mr. Allan had agreed to Edgar’s applying for discharge from the army and plans were afoot to secure him a cadet’s appointment.
 
@@ -876,7 +877,7 @@ By order dated April 4, Poe received his discharge on April 15, and a satisfacto
 
 ### Letter 11: Edgar A. Poe → John Allan
 
-### LETTER NUMBER NINE
+#### LETTER NUMBER NINE
 
 Fortress Monroe  
 March 10ᵗʰ 1829.
@@ -919,11 +920,11 @@ LETTER NUMBER NINE
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER NINE]
 
-### LETTER NUMBER TEN JOHN ALLAN, RICHMOND, MAY 18, 1829 TO EDGAR ALLAN POE
+### LETTER NUMBER TEN<br />JOHN ALLAN, RICHMOND, MAY 18, 1829<br />TO EDGAR ALLAN POE
 
-### LETTER NUMBER ELEVEN EDGAR ALLAN POE, BALTIMORE, MAY 20, 1829 TO JOHN ALLAN
+### LETTER NUMBER ELEVEN<br />EDGAR ALLAN POE, BALTIMORE, MAY 20, 1829<br />TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 From these letters it will be seen that Poe had presented his application and credentials at Washington and was looking up his father’s kin in Baltimore. His references to William Wirt (who had formerly lived in Richmond and moved in the circle with which the Allans were identified) shows that he was not unmindful of his literary aspirations and was making good his opportunity to improve his acquaintance with a well known man of letters.
 
@@ -931,15 +932,16 @@ The “warm” letter written to Mr. Allan by Colonel James P. Preston was dated
 
 On the reverse of Poe’s letter Mr. Allan wrote: Edgar A. Poe May 20, 1829. Answered in anticipation to Washington.
 
-| Gave Edgar . . . . . . . . . . | $50 |
+|  |  |
 | --- | --- |
+| Gave Edgar . . . . . . . . . . | $50 |
 | remitted him . . . . . . . . . . | 100 |
 | p’d his draft . . . . . . . . . . | 50 |
 |  | $200. |
 
 ### Letter 12: John Allan → Edgar Allan Poe
 
-### LETTER NUMBER TEN
+#### LETTER NUMBER TEN
 
 Richmond May 18ᵗʰ 1829
 
@@ -966,7 +968,7 @@ LETTER NUMBER TEN
 
 ### Letter 13: Edgar A. Poe → John Allan
 
-### LETTER NUMBER ELEVEN
+#### LETTER NUMBER ELEVEN
 
 Baltimore  
 May 20. 1829
@@ -1011,9 +1013,9 @@ LETTER NUMBER ELEVEN
 
 ### LETTER NUMBER TWELVE
 
-### EDGAR ALLAN POE, BALTIMORE, MAY 29, 1829 TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, MAY 29, 1829<br />TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 It becomes more and more evident that the master interest of Poe's life was his creative work and desire to see it in print. While waiting in Baltimore to hear from his application for a cadetship he sought the opinion and advice of William Wirt as to “Al Aaraaf” and (apparently at Wirt's suggestion) went—on May 12, 1829—to Philadelphia to see an expert critic and a leading publisher. Wirt's letter which he enclosed to Mr. Allan has been alluded to by Woodberry and Campbell, but has never been printed. Dr. Thomas Ollive Mabbott, of Columbia University, has kindly furnished the editor with a copy of the (slightly mutilated) letter, from the original manuscript in the Boston Library, and here it is:
 
@@ -1037,7 +1039,7 @@ On the reverse of this letter Mr. Allan wrote “Replied to Monday, 8th June 182
 
 ### Letter 15: E A. Poe → John Allan
 
-### LETTER NUMBER TWELVE
+#### LETTER NUMBER TWELVE
 
 Baltimore May 29ᵗʰ  
 1829
@@ -1102,11 +1104,11 @@ LETTER NUMBER TWELVE
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWELVE]
 
-### LETTER NUMBER THIRTEEN EDGAR ALLAN POE, BALTIMORE, JUNE 25, 1829 TO JOHN ALLAN
+### LETTER NUMBER THIRTEEN<br />EDGAR ALLAN POE, BALTIMORE, JUNE 25, 1829<br />TO JOHN ALLAN
 
-### LETTER NUMBER FOURTEEN EDGAR ALLAN POE, BALTIMORE, JULY 15, 1829 TO JOHN ALLAN
+### LETTER NUMBER FOURTEEN<br />EDGAR ALLAN POE, BALTIMORE, JULY 15, 1829<br />TO JOHN ALLAN
 
-### LETTER NUMBER FIFTEEN EDGAR ALLAN POE, BALTIMORE, JULY 26, 1829 TO JOHN ALLAN
+### LETTER NUMBER FIFTEEN<br />EDGAR ALLAN POE, BALTIMORE, JULY 26, 1829<br />TO JOHN ALLAN
 
 ### COMMENT
 
@@ -1120,7 +1122,7 @@ The poet clings desperately to hope for his foster-father’s approval of the pu
 
 ### Letter 16: Edgar A. Poe → John Allan
 
-### LETTER NUMBER THIRTEEN
+#### LETTER NUMBER THIRTEEN
 
 Baltimore  
 June 25 1829
@@ -1172,7 +1174,7 @@ LETTER NUMBER THIRTEEN
 
 ### Letter 17: Edgar A. Poe → John Allan
 
-### LETTER NUMBER FOURTEEN
+#### LETTER NUMBER FOURTEEN
 
 Baltimore  
 July 15ᵗʰ 1829
@@ -1209,7 +1211,7 @@ LETTER NUMBER FOURTEEN
 
 ### Letter 18: Edgar A Poe → John Allan
 
-### LETTER NUMBER FIFTEEN
+#### LETTER NUMBER FIFTEEN
 
 Baltimore  
 July 26—1829
@@ -1257,15 +1259,15 @@ LETTER NUMBER FIFTEEN
 
 ### LETTER NUMBER SIXTEEN
 
-### EDGAR ALLAN POE, BALTIMORE, AUGUST 4, 1829 TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, AUGUST 4, 1829<br />TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 No answer having been received to his letter of July 26 Poe—evidently in straits—makes another appeal for confidence, forgiveness of past faults, permission to come “home.” Three things Poe was working desperately for—to reinstate himself in Mr. Allan’s favor, to publish his work, to secure a cadetship. In the meantime his existence during the wait for his appointment—possibly in September, more probably the following June—seemed to depend on permission to go “home.” “If I could manage until that time I would be no longer a trouble to you,” he writes. And herein is a suggestion of one reason for his desire: for the cadetship—to rid Mr. Allan of responsibility of his support. In the words of Eugene L. Didier, Poe “had been taught to spend thousands, but had never been taught to earn a dollar.”[^fn-p0199-1]
 
 ### Letter 19: Edgar A. Poe → John Allan
 
-### LETTER NUMBER SIXTEEN
+#### LETTER NUMBER SIXTEEN
 
 Baltimore Aug : 4-/29
 
@@ -1299,15 +1301,15 @@ LETTER NUMBER SIXTEEN
 
 ### LETTER NUMBER SEVENTEEN
 
-### EDGAR ALLAN POE, BALTIMORE, AUGUST 10, 1829 TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, AUGUST 10, 1829<br />TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 The opening sentence suggests that the letter received that morning from his foster-father contained kindness as well as the first money he had had since the letter of July 19, and the last he was to have until the middle of November. (See Numbers Nineteen and Twenty.) It evidently contained no invitation to come “home” and Poe’s answer—by return post—shows that he despairs of receiving one, as he sends Mr. Allan a calculation as to the least allowance upon which he can exist in a cheap boarding house in Baltimore and asks that “a small trunk containing books and some letters” which he had left in Richmond, be forwarded to him. Twenty years later, when Poe died in Baltimore, most of his estate consisted of a small black leather trunk, bound with iron hoops and containing manuscripts and a few other belongings. The trunk and its key (which was found in the dead poet’s pocket) were turned over to his cousin, Neilson Poe, who sent them to Edgar’s sister Rosalie at “Duncan Lodge,” Richmond, the home of the MacKensies, who had adopted and reared her. Rosalie gave the trunk and key to Jane MacKensie Miller, of Matthews County, Virginia, only grandchild of her foster-mother, who, in 1923, conveyed them to the “Edgar Allan Poe Shrine,” Richmond, where they may now be seen.[^fn-p0209-1]
 
 ### Letter 20: Edgar A. Poe → John Allan
 
-### LETTER NUMBER SEVENTEEN
+#### LETTER NUMBER SEVENTEEN
 
 Baltimore  
 August 10ᵗʰ 1829
@@ -1362,9 +1364,9 @@ LETTER NUMBER SEVENTEEN
 
 ### LETTER NUMBER EIGHTEEN
 
-### EDGAR ALLAN POE, BALTIMORE, OCTOBER 30, 1829 TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, OCTOBER 30, 1829<br />TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 September has passed and Edgar has not received the appointment to West Point. This letter is evidently in reply to one from Mr. Allan reproaching him for lack of “industry and zeal” in efforts to obtain it, and also accusing him of having resorted to deceit in professed expectation of it. To clear himself of these suspicions (See Letter Nineteen) Poe explains his failure to secure the appointment in September and his reasons for confidently expecting it for the next term. In this, as in all of these Baltimore letters, he pleads passionately for affection and forgiveness.
 
@@ -1376,7 +1378,7 @@ Edgar’s reply (in Letter Eighteen) to Mr. Allan’s request to see his poems i
 
 ### Letter 21: Edgar A. Poe → John Allan
 
-### LETTER NUMBER EIGHTEEN
+#### LETTER NUMBER EIGHTEEN
 
 Baltᵒ Oct: 30. 1829.
 
@@ -1418,15 +1420,15 @@ LETTER NUMBER EIGHTEEN
 
 ### LETTER NUMBER NINETEEN
 
-### EDGAR ALLAN POE, BALTIMORE, NOVEMBER 12, 1829 TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, NOVEMBER 12, 1829<br />TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 This pitiful letter speaks for itself.
 
 ### Letter 22: Edgar A Poe → John Allan
 
-### LETTER NUMBER NINETEEN
+#### LETTER NUMBER NINETEEN
 
 Baltᵒ Nov: 12ᵗʰ 1829
 
@@ -1458,9 +1460,9 @@ LETTER NUMBER NINETEEN
 
 ### LETTER NUMBER TWENTY
 
-### EDGAR ALLAN POE, BALTIMORE, NOVEMBER 18, 1829 TO JOHN ALLAN
+### EDGAR ALLAN POE, BALTIMORE, NOVEMBER 18, 1829<br />TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 Brief as it is this letter contains some important items.
 
@@ -1505,7 +1507,7 @@ There was, in front, a lawn planted in shrubbery and a circular driveway, and at
 
 ### Letter 23: Edgar A Poe → John Allan
 
-### LETTER NUMBER TWENTY
+#### LETTER NUMBER TWENTY
 
 Baltᵒ Nov 18ᵗʰ 1829
 
@@ -1535,9 +1537,9 @@ LETTER NUMBER TWENTY
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY]
 
-### LETTER NUMBER TWENTY-ONE EDGAR ALLAN POE, RICHMOND, MAY 3, 1830 TO SERGEANT SAMUEL GRAVES
+### LETTER NUMBER TWENTY-ONE<br />EDGAR ALLAN POE, RICHMOND, MAY 3, 1830<br />TO SERGEANT SAMUEL GRAVES
 
-### COMMENT
+#### COMMENT
 
 Some persons who have seen this letter have assumed that Sergeant Graves (or “ Bully ”) was Poe’s substitute and that the debt alluded to was money due him for that service. This is evidently a mistake as the friendly tone of Poe’s letter and his message of remembrance to Mrs. Graves and others show that “Bully” was not a stranger but a former associate in the regiment. He sends a message to Sergeant Griffith about money owed to him also. He could not have had two substitutes. And his promise to pay them both “with interest” and “my best thanks for your kindness”, clearly indicates that the indebtedness to Sergeant Graves and Sergeant Griffith was for money borrowed while at Fortress Monroe. In Letter Eight from that place, February 4, 1829, he says: “Under certain expectation of kind news from home I have been led into expenses which my present income will not support.” The letter of Mrs. Louisa Allan (second wife of John Allan) quoted in the Introduction, shows that she was under the erroneous impression that “Bully” Graves was Poe’s substitute and it was evidently this letter to “Bully,” which she describes as “too black to be credited if it had not contained the author’s signature.” It was enclosed sometime later to Mr. Allan, who (says Mrs. Allan) “sent the money to the man and banished Poe from his affections.”
 
@@ -1545,7 +1547,7 @@ Poe, in the letter (Twenty-Four) to Mr. Allan from West Point, January 3, 1831, 
 
 ### Letter 24: E A Poe → Samuel Graves
 
-### LETTER NUMBER TWENTY-ONE
+#### LETTER NUMBER TWENTY-ONE
 
 Richmond  
 May 3ᵈ 1830.
@@ -1589,9 +1591,9 @@ LETTER NUMBER TWENTY-ONE
 
 ### LETTER NUMBER TWENTY-TWO
 
-### EDGAR ALLAN POE, WEST POINT, JUNE 28, 1830 TO JOHN ALLAN
+### EDGAR ALLAN POE, WEST POINT, JUNE 28, 1830<br />TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 Poe matriculated at West Point on July 1, but this letter proves that he left Richmond prior to May 21 (probably soon after the quarrel of May 3) and made a visit to his Baltimore kin on his way; for he acknowledges receipt of a letter enclosing twenty dollars sent to that city and forwarded by his brother Henry to West Point, where it was permitted to lie “sometime” in the post office before being delivered to him. His allusion to having taken from Richmond “books etc.,” which he considered his “own property,” intimates that his departure was from “Edgar’s Room,” in the Allan home, furnished for him by his foster-mother.
 
@@ -1599,7 +1601,7 @@ The letter suggests cordial relations between him and Mr. Allan—who had not ye
 
 ### Letter 25: Edgar A Poe → John Allan
 
-### LETTER NUMBER TWENTY-TWO
+#### LETTER NUMBER TWENTY-TWO
 
 West Point  
 June 28ᵗʰ
@@ -1638,9 +1640,9 @@ LETTER NUMBER TWENTY-TWO
 
 ### LETTER NUMBER TWENTY-THREE
 
-### EDGAR ALLAN POE, WEST POINT, NOVEMBER 6, 1830 TO JOHN ALLAN
+### EDGAR ALLAN POE, WEST POINT, NOVEMBER 6, 1830<br />TO JOHN ALLAN
 
-### COMMENT
+#### COMMENT
 
 This letter indicates that there had been no communication between Poe and Mr. Allan since June 28. Poe makes excuse for not having written oftener that he did not know the address of Mr. Allan—who spent part of the summer on his plantation “The Byrd,” often visited the springs and had lately been in New York—as Poe had learned from Richmond friends who had visited West Point. There was another reason for the widower’s silence. He had been courting that summer and had been married on October 5, and doubtless Poe’s knowledge of this new interest in his father’s life had something to do with the length of time between his own letters.
 
@@ -1648,7 +1650,7 @@ The tone of this letter is cordial and cheerful, though deep disappointment at h
 
 ### Letter 26: Edgar A Poe → John Allan
 
-### LETTER NUMBER TWENTY-THREE
+#### LETTER NUMBER TWENTY-THREE
 
 West Point  
 Novʳ 6ᵗʰ 1830
@@ -1693,9 +1695,9 @@ Va.
 
 ### LETTER NUMBER TWENTY-FOUR
 
-### <span class="small-caps">EDGAR ALLAN POE, WEST POINT, JANUARY 3, 1831 TO JOHN ALLAN</span>
+### <span class="small-caps">EDGAR ALLAN POE, WEST POINT, JANUARY 3, 1831<br />TO JOHN ALLAN</span>
 
-### COMMENT
+#### COMMENT
 
 It is easy to read between these lines that they are a reply to a letter from Mr. Allan after he had seen the letter to “Bully,” and that the storm has burst—the most violent that has threatened to separate John Allan forever from the son of his adoption. Allan’s letter was evidently one of bitter invective, including command for “no further communication.” Poe’s reply is an arraignment of his foster-father for all of the wrongs real or fancied or both, suffered at his hands. Deep in Allan’s heart there was evidently a sense of paternal responsibility and tenderness for Poe of which it was difficult to rid himself—notwithstanding the bitterness which often consumed it temporarily—and in Poe’s a feeling of affection and dependence which the storms of their clashing natures had been powerless to destroy. A clearing up and return to sunshiny confidence in “Pa,” followed every outbreak. Memories in common of days when Edgar sat upon the austere Scotchman’s knee and of the lovely presiding genius of their home in London and in Richmond made a bond which was easily strained but hard to break.
 
@@ -1705,7 +1707,7 @@ In addition to the reason given for his wish to leave West Point it is likely th
 
 ### Letter 27: E A Poe → John Allan
 
-### LETTER NUMBER TWENTY-FOUR
+#### LETTER NUMBER TWENTY-FOUR
 
 West Point, Janʸ 3ᵈ 1830.
 
@@ -1753,9 +1755,9 @@ LETTER NUMBER TWENTY-FOUR
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-FOUR]
 
-### LETTER NUMBER TWENTY-FIVE <span class="small-caps">EDGAR ALLAN POE, NEW YORK, FEBRUARY 21, 1831</span> <span class="small-caps">TO JOHN ALLAN</span>
+### LETTER NUMBER TWENTY-FIVE<br /><span class="small-caps">EDGAR ALLAN POE, NEW YORK, FEBRUARY 21, 1831</span><br /><span class="small-caps">TO JOHN ALLAN</span>
 
-### COMMENT
+#### COMMENT
 
 Determined to leave West Point, and not receiving Mr. Allan’s permission to resign, Poe made good his threat to get himself expelled by neglect of roll calls, guard duty and parade, and disobeying orders of the officer of the day. At the Court Martial, in January, he plead guilty, and was sentenced to dismissal, with recommendation that this should take effect March 6, on which day, (according to Professor Woodberry, citing the records) he had twenty-four cents to his credit at the Academy. There were no charges of drinking or gambling, and at his examination at the close of the year he had stood (in a class of 87 cadets) 17th in Mathematics and 3rd in French.
 
@@ -1767,7 +1769,7 @@ Poe’s distress of mind and body are indicated by this badly scrawled and blott
 
 ### Letter 28: E A Poe → John Allan
 
-### LETTER NUMBER TWENTY–FIVE
+#### LETTER NUMBER TWENTY–FIVE
 
 N. York   Feb 21, 1831
 
@@ -1806,7 +1808,7 @@ LETTER NUMBER TWENTY-FIVE
 
 ### LETTER NUMBER TWENTY-SIX
 
-### <span class="small-caps">EDGAR ALLAN POE, BALTIMORE, OCTOBER 16, 1831</span> <span class="small-caps">TO JOHN ALLAN</span>
+### <span class="small-caps">EDGAR ALLAN POE, BALTIMORE, OCTOBER 16, 1831</span><br /><span class="small-caps">TO JOHN ALLAN</span>
 
 ### COMMENT
 
@@ -1836,7 +1838,7 @@ Reference to Nielson Poe suggests the question, why was it that Poe’s Baltimor
 
 ### Letter 30: E A Poe → John Allan
 
-### LETTER NUMBER TWENTY-SIX
+#### LETTER NUMBER TWENTY-SIX
 
 Baltimore  
 Octo: 16ᵗʰ 1831.
@@ -1875,13 +1877,13 @@ LETTER NUMBER TWENTY-SIX
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER TWENTY-SIX]
 
-### LETTER NUMBER TWENTY-SEVEN EDGAR ALLAN POE, BALTIMORE, NOVEMBER 18, 1831 TO JOHN ALLAN
+### LETTER NUMBER TWENTY-SEVEN<br />EDGAR ALLAN POE, BALTIMORE, NOVEMBER 18, 1831<br />TO JOHN ALLAN
 
-### LETTER NUMBER TWENTY-EIGHT MRS. CLEMM, BALTIMORE, DECEMBER 5, 1831 TO JOHN ALLAN
+### LETTER NUMBER TWENTY-EIGHT<br />MRS. CLEMM, BALTIMORE, DECEMBER 5, 1831<br />TO JOHN ALLAN
 
-### LETTER NUMBER TWENTY-NINE EDGAR ALLAN POE, BALTIMORE, DECEMBER 15, 1831 TO JOHN ALLAN
+### LETTER NUMBER TWENTY-NINE<br />EDGAR ALLAN POE, BALTIMORE, DECEMBER 15, 1831<br />TO JOHN ALLAN
 
-### LETTER NUMBER THIRTY EDGAR ALLAN POE, BALTIMORE, DECEMBER 29, 1831 TO JOHN ALLAN
+### LETTER NUMBER THIRTY<br />EDGAR ALLAN POE, BALTIMORE, DECEMBER 29, 1831<br />TO JOHN ALLAN
 
 The twenty-six letters which have been read and discussed— with the material which it has been possible to combine with them —throw much new light upon Poe’s story, correct many erroneous traditions and clear up some mysteries. The four letters now to be considered offer a new mystery not touched upon in the biographies because the fact of its existence was locked up in this unpublished correspondence with his foster-father. The few persons who have learned of it from the manuscript letters have concluded that Poe’s arrest for a debt “incurred as much on Henry’s [^fn-p0323-1] account” as on his own, two years before, meant that he was in jail, or expecting a jail sentence. Mr. Allan came to the same conclusion (see his use of the word “liberation” in note on reverse of Letter Twenty-Nine), but Dr. J. Hall Pleasants, of Baltimore has recently most kindly, made for the editor, a thorough search of the records of all Baltimore courts which might have contained proceedings against Poe for debt for the years 1831 and 1832, and also the full records of imprisonment for debt and those in regard to insolvent debtors. He has found many such imprisonments—a large percentage of them for amounts of less than ten dollars—but no mention of Poe.
 
@@ -1907,7 +1909,7 @@ Whatever the answer to the puzzle may be it is only fair to Poe to say that none
 
 ### Letter 31: E A Poe → John Allan
 
-### LETTER NUMBER TWENTY–SEVEN
+#### LETTER NUMBER TWENTY–SEVEN
 
 Balt:  
 Novʳ: 18. 1831,
@@ -1936,7 +1938,7 @@ LETTER NUMBER TWENTY-SEVEN
 
 ### Letter 32: Mrs. Wm Clemm → John Allan
 
-### LETTER NUMBER TWENTY–EIGHT
+#### LETTER NUMBER TWENTY–EIGHT
 
 Balt. Dec, 5 1831
 
@@ -1962,7 +1964,7 @@ LETTER NUMBER TWENTY-EIGHT
 
 ### Letter 33: E A Poe → John Allan
 
-### LETTER NUMBER TWENTY-NINE
+#### LETTER NUMBER TWENTY-NINE
 
 Balt. Dec. 15ᵗʰ, 1831.
 
@@ -2000,7 +2002,7 @@ LETTER NUMBER TWENTY-NINE
 
 ### Letter 34: E A Poe → John Allan
 
-### LETTER NUMBER THIRTY
+#### LETTER NUMBER THIRTY
 
 Baltimore  
 Dec: 29ᵗʰ 1831
@@ -2023,7 +2025,7 @@ LETTER NUMBER THIRTY
 
 [Collotype facsimile plate of original manuscript: LETTER NUMBER THIRTY]
 
-### LETTER NUMBER THIRTY-ONE EDGAR ALLAN POE, BALTIMORE, APRIL 12, 1833 TO JOHN ALLAN
+### LETTER NUMBER THIRTY-ONE<br />EDGAR ALLAN POE, BALTIMORE, APRIL 12, 1833<br />TO JOHN ALLAN
 
 ### COMMENT
 
@@ -2033,7 +2035,7 @@ So long as Poe lived he let pass no opportunity of expressing gratitude to this 
 
 ### Letter 35: E A Poe → John Allan
 
-### LETTER NUMBER THIRTY-ONE
+#### LETTER NUMBER THIRTY-ONE
 
 Baltimore April 12ᵗʰ 1833
 
@@ -2074,11 +2076,11 @@ LETTER NUMBER THIRTY-ONE
 
 ## Bills for Edgar Allan Poe at Manor House School
 
-### BILLS FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
+### BILLS FOR EDGAR ALLAN POE AT MANOR<br />HOUSE SCHOOL
 
-### REFERRED TO IN THE INTRODUCTION
+#### REFERRED TO IN THE INTRODUCTION
 
-### BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
+### BILL FOR EDGAR ALLAN POE AT MANOR<br />HOUSE SCHOOL
 
 Manor House School  
 Stoke Newington, Xmas. 1818
@@ -2092,14 +2094,14 @@ To the Revᵈ John Bransby.
 | --- | --- | --- | --- |
 | Board & Education | 23. | 12. | 6. |
 | Washing £1:11:6 Single Bed £2: 2: 0 | 3 | 13 | 6 |
-| Allowance £0: 5: 0 Pew & Char<sup>y</sup> Sermon £0: 3: 6 | — | 8 | 6 |
+| Allowance £0: 5: 0 Pew & Charʸ Sermon £0: 3: 6 . . . . . . . . . . . . . . . . . . . . — 8 6 |  |  |  |
 | Books, Stationary &c | — | 14 | 11 |
 | French | — | — | — |
 | Dancing £2: 2: 0 Drawing £ Music £ | 2 | 2 | — |
 | Shoemaker £1: 15: 6 Taylor £ Hairdresser £0: 2: 0 | 1 | 17 | 6 |
 | Sundries | — | 1 | — |
 | Apothecary | 0 | 13 | 0 |
-| Please to pay to Mess<sup>rs</sup> Sikes Snaith & Co. Mansion House S<sup>t</sup> | £33. | 2. | 11 |
+| Please to pay to Messʳˢ Sikes Snaith & Co. Mansion House Sᵗ . . . . . . . . . . . . . . . £33. 2. 11 |  |  |  |
 
 The vacation will terminate Jany. 25ᵗʰ 1819.
 
@@ -2107,13 +2109,13 @@ BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
 
 [Collotype facsimile plate of original manuscript: BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL]
 
-### BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
+### BILL FOR EDGAR ALLAN POE AT MANOR<br />HOUSE SCHOOL
 
 **Mast. Allan**
 
 | Books........ | £ | s | d |
 | --- | --- | --- | --- |
-| Sep—Biglands teſt—E. N. | 0. | 6. | 6 |
+| Sep—Biglands test—E. N. 0. 6. 6 |  |  |  |
 | 2 Large Slates | 0. | 2. | 4 |
 | Small copy book....... | 0. | 0. | 10 |
 | Tables....... | 0. | 0. | 3 |
@@ -2124,8 +2126,8 @@ BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
 
 | Sundries........ | £ | s | d |
 | --- | --- | --- | --- |
-| Poſtage........ | 0. | 0. | 6 |
-| Shoeſtrings....... | 0. | 0. | 6 |
+| Postage........ 0. 0. 6 |  |  |  |
+| Shoestrings....... 0. 0. 6 |  |  |  |
 | £0. 1. 0 |  |  |  |
 
 London 26 Jany 1819
@@ -2143,14 +2145,14 @@ BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
 
 *[Illustration, p. 361]*
 
-### BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
+### BILL FOR EDGAR ALLAN POE AT MANOR<br />HOUSE SCHOOL
 
 **Mas Allan at Mʳ Bransbys.**
 
 | 1818. To Thos. Smith & Son Stoke Newington | £ | s. | d |
 | --- | --- | --- | --- |
-| Aug<sup>t</sup> 31 Dress Hand | — | 10 | 6 |
-| Sept<sup>t</sup> 18 Ointment & Lint | — | 2 | 6 |
+| Augᵗ 31 Dress Hand . . . . . . . . . . . . . . . . . . . . . . — 10 6 |  |  |  |
+| Septᵗ 18 Ointment & Lint . . . . . . . . . . . . . . . . . . . — 2 6 |  |  |  |
 | £ | 13. |  |  |
 
 **Mast. Allan—**
@@ -2175,7 +2177,7 @@ BILL FOR EDGAR ALLAN POE AT MANOR HOUSE SCHOOL
 
 ### THE DREAMER
 
-### A ROMANTIC RENDERING OF THE LIFE STORY OF EDGAR ALLAN POE
+#### A ROMANTIC RENDERING OF THE<br />LIFE STORY OF EDGAR ALLAN POE
 
 By MARY NEWTON STANARD
 

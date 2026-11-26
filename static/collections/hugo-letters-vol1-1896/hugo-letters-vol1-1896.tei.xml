@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>The Letters of Victor Hugo</title>
-        <author>Victor Hugo (ed. Paul Meurice)</author>
+        <author>Victor Hugo</author>
+        <editor>Paul Meurice</editor>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +15,7 @@
       <sourceDesc>
         <bibl>
           <title>The Letters of Victor Hugo</title>
+          <publisher>Boston and New York: Houghton, Mifflin and Company, 1896</publisher>
           <date>1896</date>
           <idno type="URI">https://archive.org/details/ofvictorhletters00hugorich</idno>
         </bibl>
@@ -962,8 +964,7 @@
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
-<pb xml:id="page-7" n="7"/><head rend="center">THE LETTERS OF
-VICTOR HUGO</head>
+<pb xml:id="page-7" n="7"/><head rend="center">THE LETTERS OF<lb/>VICTOR HUGO</head>
 <milestone unit="section" rend="ornament"/>
 <pb xml:id="page-10" n="10"/><figure type="illustration"><figDesc>Portrait engraving of Victor Hugo signed 'Devéria 1826', with facsimile signature 'Victor Hugo'.</figDesc></figure>
 <p rend="signature">Victor Hugo</p>
@@ -995,8 +996,8 @@ VICTOR HUGO</head>
       <div xml:id="sec-sec-02" type="epistolary_part">
 <head>I. Letters to His Father and Mother. 1815–1826.</head>
 <div xml:id="div-unit-0003" type="apparatus">
-<pb xml:id="page-15" n="1"/><p rend="heading">THE LETTERS OF VICTOR HUGO.</p>
-<p rend="heading">I. LETTERS TO HIS FATHER AND MOTHER.<lb/>1815–1826.</p>
+<pb xml:id="page-15" n="1"/><head rend="center">THE LETTERS OF VICTOR HUGO.</head>
+<head rend="center">I. LETTERS TO HIS FATHER AND MOTHER.<lb/>1815–1826.</head>
 </div>
 <div xml:id="div-letter-0001" type="letter" corresp="#letter-0001">
 <head rend="center">I.</head>
@@ -1007,8 +1008,7 @@ VICTOR HUGO</head>
 </div>
 <div xml:id="div-letter-0002" type="letter" corresp="#letter-0002">
 <head rend="center">II.</head>
-<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Monsieur le General Hugo</hi>, <hi rend="italic">at his country-place of Saint
-Lazare, near Blois.</hi></head>
+<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Monsieur le General Hugo</hi>, <hi rend="italic">at his country-place of Saint</hi><lb/><hi rend="italic">Lazare, near Blois.</hi></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, <hi rend="italic">4th July,</hi> 1822.</dateline><salute rend="inline"><hi rend="smallcaps">My dear, kind Papa</hi>, —</salute></opener>
 <p>With the completion of my business at the Ministry comes the day which is to <pb xml:id="page-16" n="2"/> make me a happy man ;<ref xml:id="fnref-p0016-1" type="noteref" target="#fn-p0016-1">1</ref> my impatience is great, and you will understand this. When I have received all from you, how shall I be able to pay my debt ?</p>
 <p rend="indented">I thought I had told you that Eugène has no means of support besides the allowance you make him, until he earns something by his own work ; that is why I so often begged you to be generous to him. No doubt when he calms down he will feel all the gratitude he owes you.</p>
@@ -1092,8 +1092,7 @@ Lazare, near Blois.</hi></head>
 </div>
 <div xml:id="div-letter-0011" type="letter" corresp="#letter-0011">
 <pb xml:id="page-27" n="13"/><head rend="center">XI.</head>
-<head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Eugène Hugo, care of General Hugo,</hi> <hi rend="italic">his father,</hi> 73
-<hi rend="italic">Grande Rue du Foix, Blois.</hi></head>
+<head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Eugène Hugo, care of General Hugo,</hi> <hi rend="italic">his father,</hi> 73<lb/><hi rend="italic">Grande Rue du Foix, Blois.</hi></head>
 <opener><dateline rend="right"><hi rend="italic">Tuesday, 5th March,</hi> 1823.</dateline></opener>
 <p rend="indented">Your letter, my dear, kind Eugène, gave us very great pleasure. We hope the improvement in your health will continue to the extent we all wish, and that you will soon recover your tranquillity of mind, and with it that vigor and liveliness of imagination which we used to admire in your writings.</p>
 <p rend="indented">Say, repeat to all around you, how much we love them for the care they are taking of you; tell my father that my regret at being away from him and you is mitigated by the happiness of knowing you are together. Tell him that his name is often mentioned here as a talisman of happiness; that the months which must elapse before your return will seem very long to us. Say to him on our behalf all that your heart feels for him, and we shall be satisfied. Write to us as often as possible.</p>
@@ -1315,7 +1314,7 @@ Lazare, near Blois.</hi></head>
 <p rend="indented"><hi rend="smallcaps">My dear Papa</hi>,—You see you have not had to wait long for the news. My Adèle was confined last night at twenty minutes to five <hi rend="smallcaps">a. m.</hi> of a healthy boy. My poor darling suffered terribly. I am now writing to you from her bedside; she feels pretty well, but she thinks she is rather feverish, so I beg her not to talk.</p>
 <p rend="indented">Our kind parents will doubtless give a joyful welcome to this new-comer, who will fill the place of the little angel we lost so sadly three years ago. Your happiness adds to ours.</p>
 <p rend="indented">I do not write more to you to-day, dear papa; give our love to your wife; tell all our friends at Blois of the birth of your grandson.</p>
-<p rend="indented">Abel and Mélanie, Pierre Foucher's wife, will be godparents <pb xml:id="page-54" n="40"/> to the baby, whose name we have not yet decided on. He has already taken his food satisfactorily.</p>
+<p rend="indented">Abel and Mélanie, Pierre Foucher's wife, will be god-parents <pb xml:id="page-54" n="40"/> to the baby, whose name we have not yet decided on. He has already taken his food satisfactorily.</p>
 <closer><salute rend="indented">Your loving and dutiful son,</salute><signed rend="right"><hi rend="smallcaps">Victor.</hi></signed></closer>
 <postscript><p rend="postscript">Are you not coming to Paris soon? we shall expect you for the christening; it would be a double fête.</p></postscript>
 </div>
@@ -1326,14 +1325,12 @@ Lazare, near Blois.</hi></head>
       <div xml:id="sec-sec-03" type="epistolary_part">
 <head>II. To Adèle Hugo, and Others.—Journey to Reims.—Coronation of Charles X.</head>
 <div xml:id="div-unit-0037" type="apparatus">
-<pb xml:id="page-55" n="41"/><head rend="center">II. TO ADÈLE HUGO, AND OTHERS.—JOURNEY TO
-REIMS.—CORONATION OF CHARLES X.</head>
+<pb xml:id="page-55" n="41"/><head rend="center">II. TO ADÈLE HUGO, AND OTHERS.—JOURNEY TO<lb/>REIMS.—CORONATION OF CHARLES X.</head>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0034" type="letter" corresp="#letter-0034">
 <head rend="center">I.</head>
-<head rend="center"><hi rend="italic">To</hi> J. B. <hi rend="smallcaps">Soulié</hi>, <hi rend="italic">Hotel de Hollande, Rue Neuve des Bons
-Enfants, Paris.</hi></head>
+<head rend="center"><hi rend="italic">To</hi> J. B. <hi rend="smallcaps">Soulié</hi>, <hi rend="italic">Hotel de Hollande, Rue Neuve des Bons</hi><lb/><hi rend="italic">Enfants, Paris.</hi></head>
 <opener><dateline rend="right">[<hi rend="smallcaps">Blois</hi>, <hi rend="italic">27th April</hi>, 1825, <hi rend="italic">morning.</hi>]</dateline></opener>
 <p>Do you know, my dear Soulié, that royal favors are being showered on me just as I have come to Blois to rusticate? The King appoints me Knight of the Legion of Honor, and does me the signal honor of inviting me to his Coronation. You who love me will rejoice, and I assure you that the pleasure this news will give you greatly increases my own satisfaction. There is such a community of feeling and opinions between us, that I feel as if my decoration were yours, as yours would be mine.</p>
 <p>What enhances the value of this decoration in my eyes is that I and Lamartine get it together, by a special decree appointing us two only, because, as the King said, it is a question of repairing an omission. These two decorations are over and above those given at the Coronation.</p>
@@ -1580,8 +1577,7 @@ Enfants, Paris.</hi></head>
 </div>
 <div xml:id="div-letter-0057" type="letter" corresp="#letter-0057">
 <pb xml:id="page-91" n="77"/><head rend="center"><hi rend="smallcaps">VI.</hi></head>
-<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Count Alfred de Vigny</hi>, <hi rend="italic">5th Regiment of the Royal Guards,
-Rouen.</hi></head>
+<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Count Alfred de Vigny</hi>, <hi rend="italic">5th Regiment of the Royal Guards,</hi><lb/><hi rend="italic">Rouen.</hi></head>
 <opener><dateline rend="right">[1821.]</dateline></opener>
 <p rend="indented">Your letter, Alfred, was written on the 18th, and I am answering it on the 21st! We are separated by three days only, and these three days are like three years; distance is nothing, — it is the separation that matters. Thirty leagues, which prevent us from seeing each other, separate us as much as a thousand. One must be with one's friends to enjoy them. Once parted from them, the amount of the distance is of no account. Therefore, my dear friend, the only consolation I derive from your place of exile being near me is that you will come back from it all the quicker. However, our separation is enough to make me melancholy, and I assure you that I should pity those who survived you if the sun that rose on your grave was no brighter than the friend you have left behind you.</p>
 <p rend="indented">Your letter found me here, overdone, wearied, worried, and, what is worse than all, dull; you can imagine what an impression it made on me, and what a happiness it was to me. I read it over again, word by word, as a beggar counts the coins one by one in the purse which he has picked up. I saw with delight that you have not forgotten me, as you write to me, and that you are doing something better than thinking of me, as you are composing poetry. But that, again, is terribly tantalizing; — what! we are only thirty leagues apart, and I shall not have a chance of hearing these lines. Why don't we have roots instead of feet, since we are fixed <pb xml:id="page-92" n="78"/> like wretched plants to a spot which we cannot leave? Why are our aspirations, our desires, our affections removed so far from us, if we are doomed never to follow them? My dear friend, solve the question, and I will put you some more, for the cup of bitterness is inexhaustible.</p>
@@ -2145,8 +2141,7 @@ Rouen.</hi></head>
 </div>
 <div xml:id="div-letter-0111" type="letter" corresp="#letter-0111">
 <head rend="center">LX.</head>
-<head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Froidefond des Forges</hi>, <hi rend="italic">commanding the 4th battalion
-of the 1st Legion of the National Guard in Paris.</hi></head>
+<head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Froidefond des Forges</hi>, <hi rend="italic">commanding the 4th battalion</hi><lb/><hi rend="italic">of the 1st Legion of the National Guard in Paris.</hi></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, <hi rend="italic">7th October</hi>, 1830.</dateline><salute rend="indented"><hi rend="smallcaps">My dear Commander and Comrade</hi>, —</salute></opener>
 <p>The letter you have been good enough to write me surprises me very much.</p>
 <p>The principle which regulates promotion in the National Guards is election. The power of the general-in-command himself is subject to election, and ought, in my opinion, to have been submitted to the legions for their satisfaction. I was appointed, by the free choice of my fellow-citizens of the 1st Legion, sub-lieutenant assistant secretary to the council of discipline. You announced my appointment yourself in presence of all the electors who had just voted. I am therefore sub-lieutenant assistant secretary to the council of discipline by the paramount fact of election. The rank and the office are inseparable. They are derived from the same source; they possess the same value.</p>
@@ -2241,7 +2236,7 @@ of the 1st Legion of the National Guard in Paris.</hi></head>
 <p>Does Mlle. Mars accept? Does Monrose wish for a part? In case Mlle. Mars fails me, which do you advise me to take, Mlle. Anaïs or Mlle. Brocard? I should like to talk to you also about Desmousseaux, whom I like and esteem, and for whom I will write a good part before long. You see, I have endless things to say to you, apart from our talk as friends.</p>
 <p rend="signature"><hi rend="smallcaps">Victor.</hi></p>
 <p rend="postscript">It is very desirable that M. Ciceri and the costume designer should be at the theatre on the day of the reading, so that I can speak to them.</p>
-<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>PROPOSED DISTRIBUTION OF PARTS.</p></div></front><body><div><pb xml:id="page-168" n="154"/><table cols="2" rows="9"><head>PROPOSED DISTRIBUTION OF PARTS.</head><row><cell><hi rend="smallcaps">François</hi> I<hi rend="sup">er</hi>.</cell><cell>M. <hi rend="smallcaps">Bocage.</hi></cell></row><row><cell><hi rend="smallcaps">Triboulet</hi></cell><cell>M. <hi rend="smallcaps">Ligier.</hi></cell></row><row><cell><hi rend="smallcaps">Blanche</hi></cell><cell><hi rend="smallcaps">Mlle. Mars</hi> or <hi rend="smallcaps">Anaïs.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Saint-Vallier</hi></cell><cell>M. <hi rend="smallcaps">Joanny.</hi></cell></row><row><cell><hi rend="smallcaps">Saltabadil</hi></cell><cell>M. <hi rend="smallcaps">Monrose</hi> or <hi rend="smallcaps">Beauvallet.</hi></cell></row><row><cell><hi rend="smallcaps">Maguelonne</hi></cell><cell><hi rend="smallcaps">Mlle. Dupont.</hi></cell></row><row><cell><hi rend="smallcaps">Clément Marot</hi></cell><cell>M. <hi rend="smallcaps">Samson.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Pienne</hi></cell><cell>M. <hi rend="smallcaps">Geffroy.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Pardaillan</hi> (<hi rend="italic">page</hi>)</cell><cell><hi rend="smallcaps">Mme. Menjaud.</hi></cell></row></table>
+<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>PROPOSED DISTRIBUTION OF PARTS.</p></div></front><body><div><pb xml:id="page-168" n="154"/><table cols="2" rows="9"><head>PROPOSED DISTRIBUTION OF PARTS.</head><row><cell><hi rend="smallcaps">François</hi> Ier. . . . . M. <hi rend="smallcaps">Bocage.</hi></cell></row><row><cell><hi rend="smallcaps">Triboulet</hi></cell><cell>M. <hi rend="smallcaps">Ligier.</hi></cell></row><row><cell><hi rend="smallcaps">Blanche</hi></cell><cell><hi rend="smallcaps">Mlle. Mars</hi> or <hi rend="smallcaps">Anaïs.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Saint-Vallier</hi></cell><cell>M. <hi rend="smallcaps">Joanny.</hi></cell></row><row><cell><hi rend="smallcaps">Saltabadil</hi></cell><cell>M. <hi rend="smallcaps">Monrose</hi> or <hi rend="smallcaps">Beauvallet.</hi></cell></row><row><cell><hi rend="smallcaps">Maguelonne</hi></cell><cell><hi rend="smallcaps">Mlle. Dupont.</hi></cell></row><row><cell><hi rend="smallcaps">Clément Marot</hi></cell><cell>M. <hi rend="smallcaps">Samson.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Pienne</hi></cell><cell>M. <hi rend="smallcaps">Geffroy.</hi></cell></row><row><cell>M. <hi rend="smallcaps">de Pardaillan</hi> (<hi rend="italic">page</hi>)</cell><cell><hi rend="smallcaps">Mme. Menjaud.</hi></cell></row></table>
 <pb xml:id="page-169" n="155"/><list><item>M. <hi rend="smallcaps">de Cossé</hi>. . . . . M. <hi rend="smallcaps">Duparay</hi>.
 Mme. <hi rend="smallcaps">de Cossé</hi> . . . . Mme. <hi rend="smallcaps">Masson</hi>.
 M. <hi rend="smallcaps">de Gordes</hi> . . . . M. <hi rend="smallcaps">Marius</hi>.
@@ -2578,8 +2573,7 @@ A <hi rend="smallcaps">Doctor</hi> . . . . . M. <hi rend="smallcaps">Dumilatre</
 </div>
 <div xml:id="div-letter-0151" type="letter" corresp="#letter-0151">
 <pb xml:id="page-200" n="186"/><head rend="center">VIII.</head>
-<head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Sainte-Beuve</hi>, c/o M. <hi rend="smallcaps">Ulrich Güttinguer</hi>, <hi rend="italic">Rue Fon-
-tenelle, Rouen.</hi></head>
+<head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Sainte-Beuve</hi>, c/o M. <hi rend="smallcaps">Ulrich Güttinguer</hi>, <hi rend="italic">Rue Fon-</hi><lb/><hi rend="italic">tenelle, Rouen.</hi></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, <hi rend="italic">Sunday</hi>, 16<hi rend="italic">th May</hi>, 1830.</dateline></opener>
 <p rend="indented">You know how lazy I am, my friend ; but it appears to me that you do not know what a good friend I can be, since you suppose that I shall accept your <hi rend="italic">dispensation</hi> from writing. The only reason I know of which could induce me not to write to you, would be the thought that the being deprived of my letters would tend to shorten your absence, and bring you back a few days sooner. But Güttinguer is with you, and such delightful companionship must fill all the blanks in your heart — fortunately for you, unfortunately for me.</p>
 <p rend="indented">If you only knew how much we have missed you of late ! How sad and empty it seemed to us, even amid our family life, even with our children around us, to move into this deserted town of François I. without you ! How at every moment we missed your advice, your help, your attentions, and, in the evenings, your conversation and always your affection ! There is no doubt about it. The habit has become a rooted one. You will never again, I hope, be so unkind as to leave us, to desert us in this manner. This is an ordeal which, at all events, will be so far useful as to prevent you from essaying another, and Normandy will protect us from Greece.</p>
@@ -2963,7 +2957,7 @@ Ta petite ami,    <hi rend="smallcaps">Didine.</hi></p></note>
 <div xml:id="div-letter-0199" type="letter" corresp="#letter-0199">
 <head rend="center">VII.</head>
 <head rend="center"><hi rend="italic">For</hi> <hi rend="smallcaps">My darling Didine.</hi></head>
-<opener><dateline rend="right">[1838.]</dateline><salute></salute></opener>
+<opener><dateline rend="right">[1838.]</dateline></opener>
 <p rend="indented">Thank you for your nice little letter, my Didine. It went to my heart. I see with joy that you love your father as much as he loves you, and that you appreciate beautiful things as he does. You are your father's own child. <pb xml:id="page-234" n="220"/> Write to me as often as you can, my little pet. I have no doubt I shall often need this ray of sunshine. You have seen the banks of the Seine; I am going to see the banks of the Rhine, which are still more beautiful. I will take you there some day. Think of me, dear child, and kiss my Charlie, my Toto, and my Dédé for me. You five at home fill my heart.</p>
 <closer><salute rend="center">Your own daddy,</salute><signed rend="right"><hi rend="smallcaps">Victor.</hi></signed></closer>
 <postscript><p rend="postscript">I have not been very well, but I am all right now. My best love to M. Vacquerie.</p></postscript>
@@ -3090,8 +3084,7 @@ Ta petite ami,    <hi rend="smallcaps">Didine.</hi></p></note>
 </div>
 <div xml:id="div-letter-0213" type="letter" corresp="#letter-0213">
 <head rend="center">XXI.</head>
-<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Madame Vacquerie-Hugo.</hi>
-[<hi rend="smallcaps">Léopoldine Hugo.</hi>]</head>
+<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Madame Vacquerie-Hugo.</hi><lb/>[<hi rend="smallcaps">Léopoldine Hugo.</hi>]</head>
 <opener><dateline rend="right">16<hi rend="italic">th March,</hi> [1843].</dateline></opener>
 <p rend="indented">If you received all the letters I sent you, dear child, the postman would disturb your sweet happiness at every moment of the day and night. For a whole month, in the midst of this vortex, beset by renewed animosity, overwhelmed with rehearsals, lawsuits, worries, lawyers, and actors, wearied, harassed, with bad eyes, tormented on every side, I can truly say, my beloved child, that not a quarter of an hour has passed without my thinking of you, and without my sending you, mentally, heaps of kind little messages.</p>
 <p rend="indented">I know you are happy; I rejoice in it from a distance, and with a melancholy pleasure, and your blue sky makes up to me for my clouds. My heart is sad, but at the same time full; I know that your husband is kind, gentle, and charming; I thank him from the bottom of my heart for your happiness; be wise, both of you, and absorbed in each other; true happiness lies <pb xml:id="page-246" n="232"/> in being united,—keep united, my children; this is the only serious, true, good, and real thing in life. I love you, and my thoughts are with you, my beloved daughter.</p>
@@ -3211,8 +3204,7 @@ Ta petite ami,    <hi rend="smallcaps">Didine.</hi></p></note>
 <p rend="heading">I. ACADEMIE DES JEUX FLORAUX, 1819-1823.</p>
 </div>
 <div xml:id="div-letter-0224" type="letter" corresp="#letter-0224">
-<head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Pinaud</hi>, <hi rend="italic">Permanent Secretary to the Académie des Jeux
-Floraux, Toulouse.</hi></head>
+<head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Pinaud</hi>, <hi rend="italic">Permanent Secretary to the Académie des Jeux</hi><lb/><hi rend="italic">Floraux, Toulouse.</hi></head>
 <head rend="center">I.</head>
 <opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 29<hi rend="italic">th March</hi>, 1819.</dateline></opener>
 <p rend="indented"><hi rend="smallcaps">Dear Sir</hi>, — The flattering news you give me, and your still more flattering letter, have caused me very great pleasure, which, however, would have been still greater if the decisions of the Academy had been more favorable to my brother. However severe they must have appeared to him, I must do him the justice to acknowledge that he never complained of them for one moment, and that he was the first to recognize their equity ; he begs me, dear sir, to thank you in his name for the encomiums and encouragement which you are kind enough to bestow on him. His ode on the Duke of Enghien, which he is now endeavoring to make more worthy of the Academy, will doubtless prove to you how eagerly he responds to your request.</p>
@@ -3379,7 +3371,7 @@ Floraux, Toulouse.</hi></head>
       <div xml:id="sec-sec-08" type="appendix">
 <head>II. Additional Letters to Various Persons.</head>
 <div xml:id="div-unit-0247" type="apparatus">
-<pb xml:id="page-285" n="269"/><p rend="heading">II. ADDITIONAL LETTERS TO VARIOUS<lb/>PERSONS.</p>
+<pb xml:id="page-285" n="269"/><head rend="center">II. ADDITIONAL LETTERS TO VARIOUS<lb/>PERSONS.</head>
 </div>
 <div xml:id="div-letter-0237" type="letter" corresp="#letter-0237">
 <head rend="center">I.</head>
@@ -3390,7 +3382,7 @@ Floraux, Toulouse.</hi></head>
 <p>is not a poetic fiction. If there were time to insert my name in your report printed by order of the Academy, it would greatly increase the gratitude I owe you, and of which I beg you to accept the proof in the form which your encouragement has so greatly endeared to me and which must, for so many reasons, be still more dear to you. I trust you will be kind enough, dear sir, after having taken note of it, to return me my birth certificate to No. 18 Rue des Petits Augustins. <pb n="270"/> I beg you to accept the assurance of the profound respect with which I have the honor to be, dear sir,</p>
 <p rend="valediction">Your most obedient, humble servant,</p>
 <p rend="signature"><hi rend="smallcaps">Victor Marie Hugo.</hi></p>
-<floatingText type="enclosure"><front><div type="enclosure_metadata"><p>A Raynouard, auteur des Templiers.</p></div></front><body><div><pb xml:id="page-286" n="270"/><head rend="center"><hi rend="italic">A Raynouard, auteur des Templiers.</hi></head>
+<floatingText type="enclosure"><body><div><pb xml:id="page-286" n="270"/><head rend="center"><hi rend="italic">A Raynouard, auteur des Templiers.</hi></head>
 <lg><l>O Raynouard, toi qui d'un ordre auguste</l><l>Nous traças en beaux vers le châtiment injuste ;</l><l>Qui, dédaignant l'amour et ses molles douleurs,</l><l>Sur l'austère vertu nous fis verser des pleurs ;</l><l>Toi qui bientôt encor, dans tes fécondes veilles,</l><l>Des exploits de Judas <ref xml:id="fnref-p0286-1" type="noteref" target="#fn-p0286-1">1</ref> nous diras les merveilles ;</l><l>Pardonne ! interrompant de si nobles travaux,</l><l>Un jeune élève de Virgile</l><l>Ose de sa Muse inhabile</l><l>T'adresser les accords nouveaux.</l></lg>
 <lg><l>Il te doit tout ; c'est toi dont l'indulgence</l><l>Sut arracher au gouffre de l'oubli</l><l>Son faible essai dans l'ombre enseveli,</l><l>De sa Muse accueillant l'enfance.</l><l>Tu fis plus ; tu voulus dans le sénat des arts</l><l>Sur elle attirer les regards.</l><l>Ces vers sans art échappés à ma veine</l><l>D'un tel honneur étaient dignes à peine ;</l><l>Mais que ne pouvaient sur les cœurs</l><l>Cet amour que Virgile a peint en traits vainqueurs,</l><l>Le souvenir d'Elise abandonnée,</l><l>D'un triste hymen invoquant les vains droits</l><l>Et réclamant contre l'ingrat Enée</l><l>L'appui des Dieux qui l'ont seuls condamnée ?</l><l>Que ne pourrait le charme de ta voix ?</l><l>De cette voix dont la mâle énergie,</l><l>Quand la patrie en deuil redemandait ses rois,</l><l>Déployant des vertus l'éloquente magie,</l><l>Apprit au tyran même à respecter nos lois ?</l><l>C'est à ta voix encor, c'est à son harmonie</l><l>Qu'est dû tout le succès de mon humble génie ;</l><l>Ce qui fait mon bonheur fait aussi mon orgueil,</l><l>Virgile et toi protégiez ma faiblesse ;</l></lg>
 <pb xml:id="page-287" n="271"/><lg rend="center"><l>Ces vers nouveaux que je t'adresse</l><l>Recevront-ils le même accueil ?</l><l>Dans le sein de Virgile ils n'ont point pris naissance,</l><l>Ton organe flatteur n'a pas accru leur prix ;</l><l>Mais ils sont inspirés par la reconnaissance,</l><l>Et c'est pour toi qu'ils sont écrits.</l></lg></div></body></floatingText>
@@ -3404,8 +3396,7 @@ Floraux, Toulouse.</hi></head>
 </div>
 <div xml:id="div-letter-0239" type="letter" corresp="#letter-0239">
 <pb xml:id="page-288" n="272"/><head rend="center">III.</head>
-<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Count François de Neufchâteau</hi>, <hi rend="italic">of the French Academy,
-Rue Saint Marc-Feydeau.</hi></head>
+<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Count François de Neufchâteau</hi>, <hi rend="italic">of the French Academy,</hi><lb/><hi rend="italic">Rue Saint Marc-Feydeau.</hi></head>
 <opener><dateline rend="right"><hi rend="italic">15th November,</hi> 1824.</dateline></opener>
 <p rend="indented"><hi rend="smallcaps">Dear Sir</hi>, — You have perhaps forgotten my name, but <hi rend="italic">I</hi> shall never forget the kind way in which you were good enough to receive my first attempts. It is for a proof of this kindness that I now venture to ask you, and although it is not for myself, I shall value it as if it were so.</p>
 <p rend="indented">There is a vacancy in the French Academy; I certainly do not pretend to dictate a selection to a man of your unerring taste. I simply take the liberty of drawing your attention to a celebrated candidate who is a friend of mine, and whose first publications I saw you admire some years ago — M. Alphonse de Lamartine.</p>

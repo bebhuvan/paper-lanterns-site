@@ -136,27 +136,27 @@
   {
    "format": "epub",
    "file": "nehru-father-daughter-letters-1929.epub",
-   "bytes": 133994,
-   "sha256": "8ae73e8c84f3e57a77ad153a6a161a0625fe859c8cd3e05e8bbb2bb9787075d8"
+   "bytes": 134071,
+   "sha256": "b2814b1b122f195d70f3a02979654220165a9128f926a270df62fce7ce882571"
   },
   {
    "format": "markdown",
    "file": "nehru-father-daughter-letters-1929.md",
-   "bytes": 131349,
-   "sha256": "a541070f5f264dd2fe2187bd4a3777aa0176baf0ee5a6e223ebdac3877274331"
+   "bytes": 131520,
+   "sha256": "ceb89be24d04d87d99644b965a979115f5fadda85a3eebf1ed4b5eb4684dc311"
   },
   {
    "format": "tei",
    "file": "nehru-father-daughter-letters-1929.tei.xml",
-   "bytes": 153954,
-   "sha256": "8207a3a9d1c9ac0e1716f9a9646d3ae0530abd3ccf90742f6b6895af325e9d36"
+   "bytes": 154023,
+   "sha256": "7f5309f41c568316501ad0d3d6f0a229a887db1cf8ad0ace3f70e19c7e2c16cc"
   }
  ],
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.220076/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-22T08:46:09Z",
-  "source_ast_sha256": "0d3bd61976ec70523f58a692c5c02894c1b7acf000bc449983b17cc7376392c7",
+  "compiled_at": "2026-11-24T19:23:01Z",
+  "source_ast_sha256": "c1f8fb98a6d8812a90cae28a14ec419bed8f3dec529f658b289f704f36937c05",
   "hugo_renderer_version": "1.0.0"
  }
 }

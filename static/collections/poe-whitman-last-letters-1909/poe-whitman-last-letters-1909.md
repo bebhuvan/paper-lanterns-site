@@ -9,7 +9,7 @@
 
 *[Illustration, p. 8]*
 
-### The Last Letters of Edgar Allan Poe To Sarah Helen Whitman
+### The Last Letters of<br />Edgar Allan Poe<br />To<br />Sarah Helen Whitman
 
 Edited by  
 James A. Harrison
@@ -109,13 +109,13 @@ Poe to Mrs. Clemm . . . . . . 50
 
 ## Introduction
 
-### The Last Letters of Edgar Allan Poe to Sarah Helen Whitman
+### The Last Letters of Edgar Allan Poe to<br />Sarah Helen Whitman
 
-### The Last Letters of Edgar Allan Poe to Sarah Helen Whitman
+### The Last Letters of Edgar Allan Poe to<br />Sarah Helen Whitman
 
 * * *
 
-### INTRODUCTION
+#### INTRODUCTION
 
 IN publishing the following correspondence between Mrs. Sarah Helen Whitman and Edgar Allan Poe exactly as it occurs in the original MSS., without change or alteration of any kind, the editor feels that he is not dealing with a hackneyed subject, but one which, in its present form, is almost entirely new. For the first time this celebrated courtship, involving one of the loveliest women and the most talked of poet of their day, is revealed in full, with all the authenticity possible to accurately copied MSS., and the most scrupulous care taken in abstaining from “editing,” adding, or condensing in any shape or form.
 
@@ -138,9 +138,9 @@ The letters as now given present a mass of “human documents” not easily equa
 
 ### Letter 1: Edgar Allan Poe → Sarah Helen Whitman
 
-### POE TO SARAH HELEN WHITMAN
+#### POE TO SARAH HELEN WHITMAN
 
-### FIRST LETTER
+#### FIRST LETTER
 
 <span class="small-caps">Fordham</span>, Sunday night, *Oct.* 1, 1848.
 
@@ -150,20 +150,22 @@ When I spoke to you of what I felt, saying that I loved now for the *first* time
 
 *[Illustration, p. 25]*
 
-Oh then, beloved, I think on thee  
- And on that life so strangely fair,  
-Ere yet one cloud of Memory  
- Had gathered in Hope's golden air.
-
-I think on thee and thy lone grave  
- On the green hillside far away—  
-I see the wilding flowers that wave  
- Around thee as the night winds sway;
-
-And still, though only clouds remain  
- On Life's horizon, cold and dear,  
-The dream of Youth returns again  
- With the sweet promise of the year.
+> **[verse_insert]**
+>
+> Oh then, beloved, I think on thee  
+>  And on that life so strangely fair,  
+> Ere yet one cloud of Memory  
+>  Had gathered in Hope's golden air.
+>
+> I think on thee and thy lone grave  
+>  On the green hillside far away—  
+> I see the wilding flowers that wave  
+>  Around thee as the night winds sway;
+>
+> And still, though only clouds remain  
+>  On Life's horizon, cold and dear,  
+> The dream of Youth returns again  
+>  With the sweet promise of the year.
 
 Ah Helen, these lines are indeed beautiful, beautiful—but their very beauty was cruelty to me. Why—why did you show them to me? There seemed, too, so very especial a purpose in what you did.
 
@@ -191,9 +193,9 @@ Write soon—soon—oh, *soon*—but not *much*. Be not weary or agitate yoursel
 
 ### Letter 2: Edgar Allan Poe → Sarah Helen Whitman
 
-### POE TO MRS. WHITMAN
+#### POE TO MRS. WHITMAN
 
-### SECOND LETTER
+#### SECOND LETTER
 
 *Oct.* 18, 1848.
 
@@ -203,8 +205,10 @@ IN pressing my last letter between your dear hands, there passed into your spiri
 
 to slander me, in private society, without my knowledge, and thus with impunity. Although much, however, may (and I now see must) have been said to my discredit, during my retirement, those few who, knowing me well, have been steadfastly my friends, permitted nothing to reach my ears—unless in one instance, where the malignity of the accuser hurried her beyond her usual caution, and thus the accusation was of such a character that I could appeal to a court of justice for redress. The tools employed in this instance were Mr. Hiram Fuller, Mr. T. D. English. I replied to the charge fully, in a public newspaper—afterwards suing the “Mirror” (in which the scandal appeared) obtaining a verdict and obtaining such an amount as, for the time, completely to break up that journal.—And you ask me, *why* men so misjudge me—why I have enemies. If your knowledge of my character and of my career does not afford you an answer to the query, at least it does not become me to suggest the answer. Let it suffice that I have had the audacity to remain poor that I might preserve my independence—that, nevertheless, in letters, to a certain extent and in certain regards, I have been “successful”—that I have been a critic—an unscrupulously honest and in many cases a bitter one—that I have been uniformly attacked—where I attacked at all—those who stood highest in power and influence—and that, whether in literature or in society, I have seldom refrained from expressing, either directly or indirectly, the pure contempt with which the pretensions of ignorance, arrogance, or hostility inspire me.—And you who know all this—*you* ask me *why* I have enemies. Ah, Helen, I have a hundred friends for every individual enemy—but has it never occurred to you that you do not live among my friends? Miss Lynch, Miss Fuller, Miss Blackwell, Mrs. Ellet—neither these nor any within their influence, are my friends. Had you read my criticisms generally, you would see, too, how and why it is that the Channings—the Emerson and Hudson coterie—the Longfellow clique, one and all—the cabal of the “N. American Review”—you would see why all these, whom *you* know best, know me least and are my enemies. Do you not remember with how deep a sigh I said to you in Providence—“My heart is heavy, Helen, for I see that your friends are not my own.” But the cruel sentence in your letter would not—could not so deeply have wounded me, had my soul first been so strengthened by those assurances of your love, which I so wildly—so vainly—and, I now feel, so presumptuously entreated. That our souls are one, every line which you have ever written asserts—but our hearts do not beat in unison. Tell me, darling! to your heart has any angel ever whispered that the very noblest lines in all human poetry are these—hackneyed though they be!
 
-“I know not—I ask not if guilt ’s in thy heart:—  
-I but know that *I love thee* whatever thou art.”
+> **[verse_insert]**
+>
+> “I know not—I ask not if guilt ’s in thy heart:—  
+> I but know that *I love thee* whatever thou art.”
 
 When I first read your letter I could do nothing but shed tears, while I repeated, again and again, those glorious, those all-comprehensive verses, till I could scarcely hear my own voice for the passionate throbbings of my heart.
 
@@ -212,8 +216,10 @@ Forgive me, best and only beloved Helen, if there be bitterness in my tone. Towa
 
 I heard something, a day or two ago, which, had your last letter never reached me, might not irreparably have disturbed the relations between us, but which, as it is, withers forever all the dear hopes upspringing in my bosom. A few words will explain to you what I mean. Not long after the receipt of your Valentine I learned, for the first time, that you were free—unmarried. I will not pretend to express to you what is absolutely inexpressible—that wild—long-enduring thrill of joy which pervaded my whole being on hearing that it was not *impossible* I might one day call you by the sacred title, wife:—but there was one alloy to this happiness:—I *dreaded* to find you in worldly circumstances superior to my own. Let me speak freely to you *now,* Helen, for perhaps I may never thus be permitted to speak to you again—Let me speak openly—fearlessly—trusting to the generosity of your own spirit for a true interpretation of my own. I repeat, then, that I *dreaded* to find you in worldly circumstances superior to mine. So great was my *fear* that you were rich, or at least possessed some property which might cause you to seem rich in the eyes of one so poor as I had always permitted myself to be—that, on the day I refer to, I had not the courage to ask my informant any questions concerning you.—I feel that you will have difficulty in comprehending me; but the horror with which, during my sojourn in the world, I have seen affection made a subject of barter, had, long since,—long before my marriage—inspired me with the resolution that, under no circumstances, would I marry where “interest,” as the world terms it, could be suspected as, on my part, the object of the marriage. As far as this point concerned yourself, however, I was relieved, the next day, by an assurance that you were wholly dependent upon your mother. May I—dare I add—can you believe me when I say that this assurance was doubly grateful to me by the additional one that you were in ill health and had suffered more from domestic trouble than falls usually to the lot of woman?—and even if your faith in my nature is not too greatly tasked by such an assertion, can you forbear thinking me unkind, selfish, or ungenerous? You cannot:—but oh! the sweet dreams which absorbed me at once!—dear dreams of a devotional care for you that end only with life—of a tender, cherishing, patient solicitude which should bring you back, at length, to health and to happiness—a care—a solicitude—which should find its glorious reward in winning me, after long years, that which I could *feel* to be *your love!*—without well understanding *why.* I had been led to fancy you ambitious:—perhaps the fancy arose from your lines:
 
-Not a bird that roams the forest  
-Shall our lofty eyrie share!—
+> **[verse_insert]**
+>
+> Not a bird that roams the forest  
+> Shall our lofty eyrie share!—
 
 but my very soul glowed with ambition for *your* sake, although I have always contemned it for my own. It was then only—then when I thought of you—that I dwelt exultingly upon what I felt that I could accomplish in Letters and in Literary Influence—in the widest and noblest field of human ambition.
 
@@ -225,9 +231,9 @@ I have not yet been able to procure all the criticisms, etc. of which you spoke,
 
 ### Letter 3: Edgar Allan Poe → Sarah Helen Whitman
 
-### POE TO MRS. WHITMAN
+#### POE TO MRS. WHITMAN
 
-### THIRD LETTER
+#### THIRD LETTER
 
 [Written on the day on which Mr. Poe returned from Lowell. I sent him word I would meet him in half an hour at the Atheneum.—S. H. W. Explanatory of the note which follows.]
 
@@ -254,9 +260,9 @@ The letter bears the above endorsement—C. F. D.
 
 ### Letter 4: Edgar Allan Poe → Sarah Helen Whitman
 
-### POE TO MRS. WHITMAN
+#### POE TO MRS. WHITMAN
 
-### <span class="small-caps">FOURTH LETTER</span>
+#### <span class="small-caps">FOURTH LETTER</span>
 
 *Nov. 14th,* 1848.
 
@@ -270,9 +276,9 @@ It is five o'clock and the boat is just being made fast to the wharf. I shall st
 
 ### Letter 5: Edgar Allan Poe → Sarah Helen Whitman
 
-### POE TO MRS. WHITMAN
+#### POE TO MRS. WHITMAN
 
-### <span class="small-caps">FIFTH LETTER</span>
+#### <span class="small-caps">FIFTH LETTER</span>
 
 Wednesday Morning—*the 22d. Nov.*[^fn-p0054-1]
 
@@ -288,9 +294,9 @@ Remember me to Mr. Pabodie.
 
 ### Letter 6: Edgar Allan Poe → Sarah Helen Whitman
 
-### POE TO MRS. WHITMAN
+#### POE TO MRS. WHITMAN
 
-### <span class="small-caps">SIXTH LETTER</span>
+#### <span class="small-caps">SIXTH LETTER</span>
 
 Friday *the 24th.*
 
@@ -321,9 +327,9 @@ to Sarah Helen Whitman.
 
 ### Letter 7: Edgar Allan Poe → Sarah Helen Whitman
 
-### POE TO MRS. WHITMAN
+#### POE TO MRS. WHITMAN
 
-### SEVENTH LETTER
+#### SEVENTH LETTER
 
 Sunday evening 26.
 
@@ -331,8 +337,10 @@ I WROTE you yesterday, sweet Helen, but, through my fear of being too late for t
 
 I forgot to reenclose your poem and do so now. Why have you omitted the two forcible lines—
 
-While in its depths withdrawn, far, far away,  
-I see the dawn of a diviner day?
+> **[verse_insert]**
+>
+> While in its depths withdrawn, far, far away,  
+> I see the dawn of a diviner day?
 
 —is that dawn no longer perceptible?
 
@@ -354,7 +362,9 @@ Devotedly ————
 
 Signature and postscript cut out and given to James T. Fields, 1865.]
 
-> “P. S.—” Preserve the printed lines. I send the MS.—Perhaps you may recognize it. As one of the signs of the times I notice that Griswold has lately copied my Raven in his Hartford Weekly Gazette — I enclose his editorial comments so that you have quite a budget of enclosures.”
+> **[letter_excerpt]**
+>
+> > “P. S.—” Preserve the printed lines. I send the MS.—Perhaps you may recognize it. As one of the signs of the times I notice that Griswold has lately copied my Raven in his Hartford Weekly Gazette — I enclose his editorial comments so that you have quite a budget of enclosures.”
 
 [*The letter now continues:*]
 
@@ -366,9 +376,9 @@ Mrs. B’s. “Ida Grey” is in “Graham” for August—45.
 
 ### Letter 8: Edgar Allan Poe → Sarah Helen Whitman
 
-### POE TO MRS. WHITMAN
+#### POE TO MRS. WHITMAN
 
-### EIGHTH LETTER
+#### EIGHTH LETTER
 
 *Dec.* 17, 1848.[^fn-p0064-1]  
 Saturday, 2 <span class="small-caps">p.m.</span>
@@ -383,9 +393,9 @@ Ever your own
 
 ### Letter 9: Edgar Allan Poe → Sarah Helen Whitman
 
-### POE TO MRS. WHITMAN
+#### POE TO MRS. WHITMAN
 
-### <span class="small-caps">NINTH AND LAST LETTER</span>
+#### <span class="small-caps">NINTH AND LAST LETTER</span>
 
 [Fragments of a letter received from Edgar Poe in the beginning of January, 1849. A letter to which I never replied. Mrs. Whitman's own note.—C. F. D.]
 
@@ -397,7 +407,7 @@ HEAVEN knows that I would shrink from wounding or grieving you. I blame no one b
 
 ### Letter 10: Edgar A. Poe → Dr. Crocker
 
-### REQUEST FOR BANNS OF MARRIAGE
+#### REQUEST FOR BANNS OF MARRIAGE
 
 [A copy of the request for the Banns of Marriage between Edgar A. Poe and Sarah Helen Whitman: found among Mrs. Whitman's papers.]
 
@@ -407,7 +417,7 @@ Respy. yr. Ob. St.
 
 <span class="small-caps">Edgar</span> A. <span class="small-caps">Poe</span>.
 
-### CONTRACT CONCERNING MARRIAGE BE- TWEEN POE AND MRS. WHITMAN
+### CONTRACT CONCERNING MARRIAGE BE-<br />TWEEN POE AND MRS. WHITMAN
 
 <span class="small-caps">Providence</span>, *December* 15, 1848.
 
@@ -456,7 +466,7 @@ William J. Pabodie
 
 ### Letter 11: Edgar Allan Poe → Mrs. Clemm
 
-### POE TO MRS. CLEMM
+#### POE TO MRS. CLEMM
 
 My own dear Mother—
 

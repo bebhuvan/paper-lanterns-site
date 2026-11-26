@@ -9,25 +9,25 @@
 
 ### NOTES OF A TOUR
 
-### IN THE
+##### IN THE
 
-### PLAINS OF INDIA, THE HIMALA, AND BORNEO;
+#### PLAINS OF INDIA, THE HIMALA, AND<br />BORNEO;
 
-### BEING
+###### BEING
 
-### EXTRACTS FROM THE PRIVATE LETTERS
+##### EXTRACTS FROM THE PRIVATE LETTERS
 
-### OF
+###### OF
 
-### DR. HOOKER,
+#### DR. HOOKER,
 
-### WRITTEN DURING A GOVERNMENT BOTANICAL MISSION TO THOSE COUNTRIES.
+##### WRITTEN DURING A GOVERNMENT BOTANICAL<br />MISSION TO THOSE COUNTRIES.
 
 * * *
 
-### PART I.
+#### PART I.
 
-### ENGLAND TO CALCUTTA.
+##### ENGLAND TO CALCUTTA.
 
 * * *
 
@@ -38,25 +38,25 @@ REEVE, BENHAM, AND REEVE, KING WILLIAM STREET, STRAND.
 
 ### NOTES OF A TOUR
 
-### IN THE
+##### IN THE
 
-### PLAINS OF INDIA, THE HIMALA, AND BORNEO ;
+#### PLAINS OF INDIA, THE HIMALA, AND<br />BORNEO ;
 
-### BEING
+##### BEING
 
-### EXTRACTS FROM THE PRIVATE LETTERS
+#### EXTRACTS FROM THE PRIVATE LETTERS
 
-### OF
+##### OF
 
-### DR. HOOKER,
+#### DR. HOOKER,
 
-### WRITTEN DURING A GOVERNMENT BOTANICAL MISSION TO THOSE COUNTRIES.
+##### WRITTEN DURING A GOVERNMENT BOTANICAL<br />MISSION TO THOSE COUNTRIES.
 
 * * *
 
 ### PART I.
 
-### ENGLAND TO CALCUTTA.
+#### ENGLAND TO CALCUTTA.
 
 * * *
 
@@ -83,7 +83,7 @@ The First Lord of the Admiralty, with the consent of His Excel- lency Lord Dalho
 
 ### Letter 1: J. D. Hooker
 
-### I. <span class="small-caps">Overland route to Calcutta.</span>
+#### I. <span class="small-caps">Overland route to Calcutta.</span>
 
 H.M. Steam Frigate "Sidon," off Gibraltar,  
 Nov. 20th, 1847.
@@ -106,7 +106,7 @@ Altogether, Lisbon and its environs disappointed me; though there were parts of 
 
 It took us two days to sail from Lisbon to the entrance of the Mediterranean Sea. A strong current carried us on, with the shores of Europe and Africa on either hand, that of Africa being the loftiest, from the range of the Lesser Atlas, which runs along the kingdom of Morocco. Rounding Tarifa Point, we opened the Bay and Rock of Gibraltar, the former bounded everywhere by bare hills, save at the point where the noble fortress projects its bold front into the blue Mediterranean. Gibraltar Rock is a peninsula, running north and south: it terminates to the south in Europa Point, which descends in steps or ridges, whereon stand houses and gardens; while northward, the bluff cliff, upwards of a thousand feet high, looks back to Spain and shows its three rows of teeth to the mother country. By these rows of teeth, I mean the parallel galleries hewn in the face of the rock, like long caverns, furnished with ranges of cannons, which grimly project through holes in the sides of the cliff.
 
-We lay off the New Mole and took in coals. Southward we looked over the Mediterranean to Apes' Hill, on the African coast. The view was enlivened with many of the little latteen-sailed boats which figure in all views of the Mediterranean, and are here called Rock-scorpions. We landed and walked to Europa Point, among barracks, soldiers, guns and sentries innumerable, and ascended the western face of the rock, which has a very steep slope of 45°, covered with a scrubby vegetation, consisting chiefly of *Dwarf* *Palms,* a few *Agaves,* &c.  From the top, a narrow ridge about 1400 feet high, we obtained a glorious prospect both of the Spanish and African coasts.  The descent on the east is a sheer precipice down to the sea, all but perpendicular; and nothing grows, at least at this season, among the confused masses of lime-stone, of which it, in common with the rest of the rock, consists.  On the west side, by which we ascended, I observed, besides the *Agave* and *Dwarf Fan-Palm,* an introduced *Aloe, Asparagus,* some *Labiatæ,* and a pretty species of *Arum.*  The *Palmetto,* or *Dwarf Fan-Palm,* was to me the most interesting among this stinted vege-tation; not merely because it is the only European Palm, but because it is the most northern species of the genus, as my old friend, the New Zealand *Palmetto,* is the most southern species known.  Of the *Labiatæ* there were several kinds, but none either in flower or fruit.  The *Phytolacca,*[^fn-p0011-1] for which I sought particu-larly, is not to be seen on the wild parts of the rock, but it grows, apparently cultivated, in the gardens about the town.  It forms a very handsome, leafy, rounded and massy looking tree, with a stout trunk, and rather short spreading branches; and appears, specifically, the same as that which I observed in the Island of Ascension, where it grows with such wonderful rapidity.  I had seen a solitary *Phytolacca* at Cintra, but did not then recognize it.  To have obtained, as I much wished, a section of the stem, for the Museum at Kew, was impossible: the trees are jealously guarded by soldiers, and in the public gardens it is prohibited to touch and pluck a plant, as with you at Kew.  If we had stayed longer at Gibraltar, (but after spending six hours on the rock we returned to the “Sidon,”) I could easily have procured the *Phytolacca* from a private garden.  Its general aspect reminds me of the *Mango.* If you have it not, in a living state, in the Royal Gardens, the Surgeon of this ship has kindly promised to procure it for you, on his way back to England.—[It has long been in the Royal Gardens of Kew.—<span class="small-caps">Ed.</span>]
+We lay off the New Mole and took in coals. Southward we looked over the Mediterranean to Apes' Hill, on the African coast. The view was enlivened with many of the little latteen-sailed boats which figure in all views of the Mediterranean, and are here called Rock-scorpions. We landed and walked to Europa Point, among barracks, soldiers, guns and sentries innumerable, and ascended the western face of the rock, which has a very steep slope of 45°, covered with a scrubby vegetation, consisting chiefly of *Dwarf* *Palms,* a few *Agaves,* &c.  From the top, a narrow ridge about 1400 feet high, we obtained a glorious prospect both of the Spanish and African coasts.  The descent on the east is a sheer precipice down to the sea, all but perpendicular; and nothing grows, at least at this season, among the confused masses of limestone, of which it, in common with the rest of the rock, consists.  On the west side, by which we ascended, I observed, besides the *Agave* and *Dwarf Fan-Palm,* an introduced *Aloe, Asparagus,* some *Labiatæ,* and a pretty species of *Arum.*  The *Palmetto,* or *Dwarf Fan-Palm,* was to me the most interesting among this stinted vege-tation; not merely because it is the only European Palm, but because it is the most northern species of the genus, as my old friend, the New Zealand *Palmetto,* is the most southern species known.  Of the *Labiatæ* there were several kinds, but none either in flower or fruit.  The *Phytolacca,*[^fn-p0011-1] for which I sought particu-larly, is not to be seen on the wild parts of the rock, but it grows, apparently cultivated, in the gardens about the town.  It forms a very handsome, leafy, rounded and massy looking tree, with a stout trunk, and rather short spreading branches; and appears, specifically, the same as that which I observed in the Island of Ascension, where it grows with such wonderful rapidity.  I had seen a solitary *Phytolacca* at Cintra, but did not then recognize it.  To have obtained, as I much wished, a section of the stem, for the Museum at Kew, was impossible: the trees are jealously guarded by soldiers, and in the public gardens it is prohibited to touch and pluck a plant, as with you at Kew.  If we had stayed longer at Gibraltar, (but after spending six hours on the rock we returned to the “Sidon,”) I could easily have procured the *Phytolacca* from a private garden.  Its general aspect reminds me of the *Mango.* If you have it not, in a living state, in the Royal Gardens, the Surgeon of this ship has kindly promised to procure it for you, on his way back to England.—[It has long been in the Royal Gardens of Kew.—<span class="small-caps">Ed.</span>]
 
 At Malta, I mean to enquire about the *Cynomorium,* and, if possible, to visit its habitat, which is said to be on an insulated rock, sometimes impossible of access, about seventeen miles from the town of Valetta.
 

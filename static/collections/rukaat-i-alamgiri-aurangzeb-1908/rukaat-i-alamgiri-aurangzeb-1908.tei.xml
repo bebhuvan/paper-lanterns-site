@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>Ruka&#x27;at-i-Alamgiri; or, Letters of Aurungzebe, with Historical and Explanatory Notes</title>
-        <author>Aurangzeb, Jamshedji Hormasji Bilimoriya (tr.)</author>
+        <author>Aurangzeb</author>
+        <respStmt><resp>Translator</resp><name>Jamshedji Hormasji Bilimoriya</name></respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +15,7 @@
       <sourceDesc>
         <bibl>
           <title>Ruka&#x27;at-i-Alamgiri; or, Letters of Aurungzebe, with Historical and Explanatory Notes</title>
+          <publisher>London: Luzac &amp; Co. / Bombay: Cherag Printing Press</publisher>
           <date>1908</date>
           <idno type="URI">https://archive.org/details/rukaatialamgirio00aurarich</idno>
         </bibl>
@@ -782,8 +784,7 @@
 <pb xml:id="page-9" n="v"/><p rend="indented">Alamgir (the Conqueror of the World) was a title conferred on Aurungzebe (the Ornament of the Throne) by his father Shah Jehan in order to pacify him when he made head against him during his dangerous illness. 1657. When Aurungzebe ascended the throne he assumed this title and styled himself as Alamgir (the First). Aurungzebe is generally known by this name among his co-religionists. It is not necessary to give here a life of Aurungzebe as it can be read in any ordinary Indian history.</p>
 <p rend="indented">The following books have been consulted :</p>
 <list><item>1. The History of India as told by Its Own Historians, Vol. VII, by Sir H. Elliot.</item><item>2. The History of India, by Elphinstone.</item><item>3. History of The Mahrattas, by Grant Duff.</item><item>4. Aurungzebe, Rulers of India Series, by Lane Pool.</item><item>5. Travels in the Mogul Empire, by Bernier.</item><item>6. Ain-i-Akbari, by Abūl Fazl.</item><item>7. Mūntakhab-ūl-Lubáb, by Muhammad Háshim Kháfi Khán.</item><item>8. Ma'asiri Alamgiri, by Muhammad Sáqui Mūsta'idd Khán,</item></list>
-<p rend="signature">J. H. BILIMORIA.</p>
-<p rend="dateline"><hi rend="smallcaps">Agiari Street, Bilimora.</hi></p>
+<closer><signed rend="right">J. H. BILIMORIA.</signed><dateline><hi rend="smallcaps">Agiari Street, Bilimora.</hi></dateline></closer>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-unit-0003" type="apparatus">
@@ -824,9 +825,7 @@
       <div xml:id="sec-sec-02" type="chapter">
 <head>INTRODUCTION.</head>
 <div xml:id="div-unit-0004" type="narrative">
-<pb xml:id="page-13" n="1"/><head rend="center">Ruka’at-i-Alamgiri
-OR
-AURUNGZEBE’S LETTERS.</head>
+<pb xml:id="page-13" n="1"/><head rend="center">Ruka’at-i-Alamgiri<lb/>OR<lb/>AURUNGZEBE’S LETTERS.</head>
 <milestone unit="section" rend="ornament"/>
 <p rend="heading">INTRODUCTION.<ref xml:id="fnref-p0013-1" type="noteref" target="#fn-p0013-1">1</ref></p>
 <quote><p rend="center"><hi rend="italic">In the name of God the Merciful, the Clement.</hi></p></quote>
@@ -842,7 +841,7 @@ AURUNGZEBE’S LETTERS.</head>
       <div xml:id="sec-sec-03" type="epistolary_part">
 <head>Ruka’at-i-Alamgiri or Letters of Aurungzebe</head>
 <div xml:id="div-unit-0005" type="apparatus">
-<pb xml:id="page-15" n="3"/><p rend="heading"><hi rend="bold">Letters addressed to Sultan Mahammad Muazzam,</hi><lb/><hi rend="bold">Shah Alam Bahadur, the Crown Prince.<ref xml:id="fnref-p0015-1" type="noteref" target="#fn-p0015-1">1</ref></hi></p>
+<pb xml:id="page-15" n="3"/><head rend="center"><hi rend="bold">Letters addressed to Sultan Mahammad Muazzam,</hi><lb/><hi rend="bold">Shah Alam Bahadur, the Crown Prince.<ref xml:id="fnref-p0015-1" type="noteref" target="#fn-p0015-1">1</ref></hi></head>
 </div>
 <div xml:id="div-letter-0001" type="letter" corresp="#letter-0001">
 <head rend="center">LETTER I.</head>
@@ -875,7 +874,7 @@ AURUNGZEBE’S LETTERS.</head>
 <p rend="indented">Eldest son of sovereignty, I have despatched Mūna’am Khán<ref xml:id="fnref-p0021-5" type="noteref" target="#fn-p0021-5">2</ref> to you so that he may deliver my message soon to <pb xml:id="page-22" n="10"/> you. I am not conscious of myself. (I do not know) who I am and where I go and what will happen to this sinner, full of sins. Now I will say good bye to every one in this world and will entrust every one to the care of God. My famous and auspicious sons should not quarrel among themselves and allow a general massacre of the people who are the servants of God (after my death)<ref xml:id="fnref-p0022-1" type="noteref" target="#fn-p0022-1">3</ref>. May God, the changer of hearts, make His grace for the protection of the people who are His deposits (in this world) and His wonderful creatures, the light for the path of the kings (<hi rend="italic">i.e.</hi> may God make the kings protect their subjects)<ref xml:id="fnref-p0022-2" type="noteref" target="#fn-p0022-2">4</ref>.</p>
 </div>
 <div xml:id="div-unit-0013" type="apparatus">
-<pb xml:id="page-23" n="11"/><p rend="heading"><hi rend="bold">Letters addressed to</hi><lb/><hi rend="bold">Prince Mahammad A’azam Shah Bahadur<ref xml:id="fnref-p0023-1" type="noteref" target="#fn-p0023-1">1</ref>.</hi></p>
+<pb xml:id="page-23" n="11"/><head rend="center"><hi rend="bold">Letters addressed to</hi><lb/><hi rend="bold">Prince Mahammad A’azam Shah Bahadur<ref xml:id="fnref-p0023-1" type="noteref" target="#fn-p0023-1">1</ref>.</hi></head>
 </div>
 <div xml:id="div-letter-0008" type="letter" corresp="#letter-0008">
 <head rend="center">LETTER VIII.</head>
@@ -1202,7 +1201,7 @@ AURUNGZEBE’S LETTERS.</head>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-unit-0080" type="apparatus">
-<pb xml:id="page-85" n="73"/><p rend="heading"><hi rend="bold">Letter addressed to</hi><lb/>Kám Bakhsha<ref xml:id="fnref-p0085-1" type="noteref" target="#fn-p0085-1">1</ref>.</p>
+<pb xml:id="page-85" n="73"/><head rend="center"><hi rend="bold">Letter addressed to</hi><lb/>Kám Bakhsha<ref xml:id="fnref-p0085-1" type="noteref" target="#fn-p0085-1">1</ref>.</head>
 </div>
 <div xml:id="div-letter-0073" type="letter" corresp="#letter-0073">
 <head rend="center">1707. LETTER LXXIII<ref xml:id="fnref-p0085-2" type="noteref" target="#fn-p0085-2">2</ref>.</head>
@@ -1210,7 +1209,7 @@ AURUNGZEBE’S LETTERS.</head>
 <p>My charming son, though in (this) world of free will (where men act according to their own will), I advised you about the divine will, and more than this, about the divine power, it was destined that you would not listen to and accept this advice. Now I go away (to the next world) as a stranger from all ; and I pity you for your want of intelligence and ability ; but now of what use ? I carry with me (to the next world) the fruits of sins and crimes which I had perpetrated (in this world). Nature is wonderful that I came alone (<hi rend="italic">i.e.</hi>, naked–in this world) and go (to the next world) with this burden (of sins). Though fever attacked me for twelve days, (now) it could not bear (my leanness) and left me. Wherever I cast my glances I find nothing but God. The anxiety about my officers and army and for their future responsibility became the cause of the grief of my heart (<hi rend="italic">i.e.</hi>, I am in grief that my officers and army will not be treated and guided well by my successors who are weak). I am unconscious about myself. I committed many sins. I do not know how I shall be punished (by God). Though the subjects will be protected by the <pb xml:id="page-86" n="74"/> Master of both the worlds (<hi rend="italic">i. e.</hi>, God), it is a bounden duty of the Mohemadans and of (my) sons also to protect and save them according to outward circumstances. A’azam is also near me ; and I have spoken to him what was necessary about you. You should also accept my last will<ref xml:id="fnref-p0086-1" type="noteref" target="#fn-p0086-1">3</ref>. It should not be that the Mohemadans be killed (in war) ; and the blame (of their being killed) will remain upon the neck of this useless (creature—<hi rend="italic">i.e.</hi>, Aurungzebe). I entrust you and your sons to (the care of) God and I myself ask your leave for departure (from this world). (My) condition is distracted (<hi rend="italic">i. e.</hi>, I am restless). Bahádūr Sháh is in the same place in which he was. (My) grandson, the glorious A’azim, is gone to the frontier of India. (My) grandson Bahádūr is in the neighbourhood of Gūjarát. Hiyát-ūn-Nisá (or Zinat-ūn-Nisá ?), who has not enjoyed the pleasures of the world, is in grief. The Begum knows her own condition (<hi rend="italic">i.e.</hi>, her condition is so bad that it cannot be described). Udepūri,<ref xml:id="fnref-p0086-2" type="noteref" target="#fn-p0086-2">4</ref> your mother, was with me in (my) sickness. She intends to accompany me (after my death—<hi rend="italic">i. e.</hi>, she will soon die after me like a Hindu ‘ Sati ’). Though my relatives and servants shew wheat and sell barley (<hi rend="italic">i.e.</hi>, are hypocrites), you should give them employment through kindness, mildness, and carelessness (towards their hypocrisy). You should cut the coat according to the cloth. May the peace of God be upon you.</p>
 </div>
 <div xml:id="div-unit-0082" type="apparatus">
-<pb xml:id="page-87" n="75"/><p rend="heading"><hi rend="bold">Letters addressed to</hi><lb/>Prince Muhammad Ma’az-ūd-Din Bahádūr<ref xml:id="fnref-p0087-1" type="noteref" target="#fn-p0087-1">1</ref>,<lb/>the eldest son of Sultan Muhammad Mūazzam,<lb/>Sháh Álam Bahádūr (the crown prince).</p>
+<pb xml:id="page-87" n="75"/><head rend="center"><hi rend="bold">Letters addressed to</hi><lb/>Prince Muhammad Ma’az-ūd-Din Bahádūr<ref xml:id="fnref-p0087-1" type="noteref" target="#fn-p0087-1">1</ref>,<lb/>the eldest son of Sultan Muhammad Mūazzam,<lb/>Sháh Álam Bahádūr (the crown prince).</head>
 </div>
 <div xml:id="div-letter-0074" type="letter" corresp="#letter-0074">
 <head rend="center">1706. LETTER LXXIV.</head>
@@ -1222,7 +1221,7 @@ AURUNGZEBE’S LETTERS.</head>
 <p rend="indented">Brave grandson, the sagacious sons should not write (to me) asking for additional titles to reporters. Why do <pb xml:id="page-88" n="76"/> you make me this unreasonable request ? But if you think it proper, the service of reportership will be given to another, because the present reporter does not perform his duty well (he is not a true reporter). (Couplet) “ When selfishness came, merit was concealed ; a hundred curtains of hearts (<hi rend="italic">i. e.</hi>, men) fell on eyes (<hi rend="italic">i. e.</hi>, merit is not appreciated and rewarded by selfish people ; they are blind to merit).”</p>
 </div>
 <div xml:id="div-unit-0085" type="apparatus">
-<pb xml:id="page-89" n="77"/><p rend="heading"><hi rend="bold">Letters addressed to</hi><lb/>Prince Muhammad Bidár Bakhta<ref xml:id="fnref-p0089-1" type="noteref" target="#fn-p0089-1">1</ref>,<lb/>the eldest son of Sultan Muhammad A’azam Sháh Bahádūr.</p>
+<pb xml:id="page-89" n="77"/><head rend="center"><hi rend="bold">Letters addressed to</hi><lb/>Prince Muhammad Bidár Bakhta<ref xml:id="fnref-p0089-1" type="noteref" target="#fn-p0089-1">1</ref>,<lb/>the eldest son of Sultan Muhammad A’azam Sháh Bahádūr.</head>
 </div>
 <div xml:id="div-letter-0076" type="letter" corresp="#letter-0076">
 <head rend="center">LETTER LXXVI.</head>
@@ -1277,7 +1276,7 @@ AURUNGZEBE’S LETTERS.</head>
 <p rend="indented">Brave grandson, this light of sight (<hi rend="italic">i. e.</hi>, dear grandson Bahádūr) writes in (the beginning of) many letters (to me) ‘May eternity join with fortune (<hi rend="italic">i.e.</hi>, may your-Aurungzebe's-fortune be eternal)’. It is impossible that (one's) fortune should last from generation to generation. (Then) how will it reach eternity? (<hi rend="italic">i. e.</hi>, fortune is not eternal). (Henceforth) you should begin every letter (thus): ‘By the blessings of the bounties of the Unrivalled Exalted God’. Because God says truly ‘Man is created helpless’<ref xml:id="fnref-p0095-2" type="noteref" target="#fn-p0095-2">1</ref>. (Couplet) “Know that the opposition of an enemy and a friend is from God; because the hearts of both of them are in His possession (<hi rend="italic">i. e.</hi>, the source of enmity as well as friendship is God and not man; because man's actions are subject to God's will).”</p>
 </div>
 <div xml:id="div-unit-0097" type="apparatus">
-<pb xml:id="page-96" n="84"/><p rend="heading"><hi rend="bold">Letters addressed to</hi><lb/>Muhammad Azim-ūd-Din Bahádūr,<ref xml:id="fnref-p0096-1" type="noteref" target="#fn-p0096-1">1</ref><lb/>second son of Mūazzam Sháh Álam Bahádūr.</p>
+<pb xml:id="page-96" n="84"/><head rend="center"><hi rend="bold">Letters addressed to</hi><lb/>Muhammad Azim-ūd-Din Bahádūr,<ref xml:id="fnref-p0096-1" type="noteref" target="#fn-p0096-1">1</ref><lb/>second son of Mūazzam Sháh Álam Bahádūr.</head>
 </div>
 <div xml:id="div-letter-0087" type="letter" corresp="#letter-0087">
 <head rend="center">1704.  LETTER  LXXXVII.</head>
@@ -1296,14 +1295,14 @@ AURUNGZEBE’S LETTERS.</head>
 <p>Grandson Azim, though the produce of the ‘toddy’<ref xml:id="fnref-p0098-1" type="noteref" target="#fn-p0098-1">1</ref> of Mahál<ref xml:id="fnref-p0098-2" type="noteref" target="#fn-p0098-2">2</ref> is meant for acquiring wealth, it cannot be understood which dishonest ‘Kázi’ gave you a decision (in favour of selling and drinking ‘toddy’). You should regard such counsellors, who are the cause of ruin to families, as the enemies of your person and property and as the evil wishers of your present and future lives. You should thank the Holy and High God for His bounty that He has bestowed upon you fertile and productive districts and everything cheap and abundant. You should consider the protection of the subjects as the source of happiness in this world and in the next world.</p>
 </div>
 <div xml:id="div-unit-0102" type="apparatus">
-<pb xml:id="page-99" n="87"/><p rend="heading">Letter addressed to<lb/>Amir–ūl–Umará Sháyasta Khán<ref xml:id="fnref-p0099-1" type="noteref" target="#fn-p0099-1">1</ref>,<lb/>Governor of Akabarábád.<ref xml:id="fnref-p0099-2" type="noteref" target="#fn-p0099-2">2</ref></p>
+<pb xml:id="page-99" n="87"/><head rend="center">Letter addressed to<lb/>Amir–ūl–Umará Sháyasta Khán<ref xml:id="fnref-p0099-1" type="noteref" target="#fn-p0099-1">1</ref>,<lb/>Governor of Akabarábád.<ref xml:id="fnref-p0099-2" type="noteref" target="#fn-p0099-2">2</ref></head>
 </div>
 <div xml:id="div-letter-0091" type="letter" corresp="#letter-0091">
 <head rend="center">1659. LETTER XCI.</head>
 <p rend="indented">Faithful friend of auspicious nature, may you live under the protection of the Exalted God. I am anxious for you. On Tuesday, the 20th inst. of Rabi–ūl–Awal<ref xml:id="fnref-p0099-3" type="noteref" target="#fn-p0099-3">3</ref>— <pb xml:id="page-100" n="88"/> the day of writing this letter to you—Shūjá<ref xml:id="fnref-p0100-1" type="noteref" target="#fn-p0100-1">4</ref>, whose lot was defeat, encountered the victorious army which was under the victorious stirrup of this most needy person (<hi rend="italic">i.e.</hi>, Aurungzebe himself) to God Whose name is glorious, and found the return of evil actions in (his) lap, full of his own misfortunes (<hi rend="italic">i.e.</hi>, he was defeated by me). (Couplet) “From whose hand and tongue can come out the responsibility of thanksgiving to God fully (<hi rend="italic">i.e.</hi>, no one in this world thanks God fully for His bounties) ?” The details of this great victory<ref xml:id="fnref-p0100-2" type="noteref" target="#fn-p0100-2">5</ref> (of Cujwá over Shūjá) will be written to you afterwards. I pursued the cowardly Jasvant Singh<ref xml:id="fnref-p0100-3" type="noteref" target="#fn-p0100-3">6</ref> who <pb xml:id="page-101" n="89"/> had joined the enemy (<hi rend="italic">i.e.</hi>, Shūjá) last night before the battle; but he fled away and went to Akbarábád. Evidently he has gone to his own native place (<hi rend="italic">i.e.</hi>, Rájpūtáná). He has suffered a great loss in this world (by being a coward) and will suffer it in the next world (by being an infidel; for he will not enter paradise). On hearing the purport of this royal order, this arm of sovereignty (<hi rend="italic">i.e.</hi>, Sháyasta Khán) should perform the necessary things for joy and pleasure (<hi rend="italic">i.e.</hi>, should observe the day of victory as a public festival); and should give thanks to the True Giver of Bounty (<hi rend="italic">i.e.</hi>, God); and should entirely engage in preserving this province belonging to you (<hi rend="italic">i.e.</hi>, Akbarábád). Immediately I sent my dear son, Muhammad Sultan Bahádūr<ref xml:id="fnref-p0101-1" type="noteref" target="#fn-p0101-1">7</ref>, in pursuit of this ungrateful man (<hi rend="italic">i.e.</hi>, Shūjá). I will soon come to Akbarábád.</p>
 </div>
 <div xml:id="div-unit-0104" type="apparatus">
-<pb xml:id="page-102" n="90"/><p rend="heading">Letters addressed to<lb/>Umadat–ūl–Mūlk (the Best of the Kingdom),<lb/>Madár--ūl–Mahám (the Pivot of State Affairs),<lb/>(<hi rend="italic">i. e.</hi>,) Asad Khán.<ref xml:id="fnref-p0102-1" type="noteref" target="#fn-p0102-1">1</ref></p>
+<pb xml:id="page-102" n="90"/><head rend="center">Letters addressed to<lb/>Umadat–ūl–Mūlk (the Best of the Kingdom),<lb/>Madár--ūl–Mahám (the Pivot of State Affairs),<lb/>(<hi rend="italic">i. e.</hi>,) Asad Khán.<ref xml:id="fnref-p0102-1" type="noteref" target="#fn-p0102-1">1</ref></head>
 </div>
 <div xml:id="div-letter-0092" type="letter" corresp="#letter-0092">
 <head rend="center">1704.  LETTER XCII<ref xml:id="fnref-p0102-2" type="noteref" target="#fn-p0102-2">2</ref>.</head>
@@ -1528,7 +1527,7 @@ AURUNGZEBE’S LETTERS.</head>
 </div>
 <div xml:id="div-letter-0135" type="letter" corresp="#letter-0135">
 <head rend="center">1706. LETTER CXXXV.</head>
-<p rend="indented">I read the letter sent by Nasrat Jang<ref xml:id="fnref-p0145-3" type="noteref" target="#fn-p0145-3">1</ref> to you. In this letter he has recommended Dáūd Khán<ref xml:id="fnref-p0145-4" type="noteref" target="#fn-p0145-4">2</ref> and mentioned his <pb xml:id="page-146" n="134"/> own services. Something should be written in reply. (But) we should wait for the conquest of the fortress (<hi rend="italic">i.e.</hi>, Vákingarh). After the conquest some of his requests should be granted ; but before that, the granting of his requests is impossible. Henceforth for capturing the fortress you should order Tarbiat Khán<ref xml:id="fnref-p0146-1" type="noteref" target="#fn-p0146-1">3</ref> to send all the necessary things. And you should also write to the garrison of the fortress of that side to send the artillery consisting of ‘ jazáyars’,<ref xml:id="fnref-p0146-2" type="noteref" target="#fn-p0146-2">4</ref> ‘ rám-jangis’<hi rend="sup">4</hi>, bullets, and gunpowder to the army of Nasrat Jang. Authority lies in the hands of the Powerful and Unique God ; He does what He wills.</p>
+<p rend="indented">I read the letter sent by Nasrat Jang<ref xml:id="fnref-p0145-3" type="noteref" target="#fn-p0145-3">1</ref> to you. In this letter he has recommended Dáūd Khán<ref xml:id="fnref-p0145-4" type="noteref" target="#fn-p0145-4">2</ref> and mentioned his <pb xml:id="page-146" n="134"/> own services. Something should be written in reply. (But) we should wait for the conquest of the fortress (<hi rend="italic">i.e.</hi>, Vákingarh). After the conquest some of his requests should be granted ; but before that, the granting of his requests is impossible. Henceforth for capturing the fortress you should order Tarbiat Khán<ref xml:id="fnref-p0146-1" type="noteref" target="#fn-p0146-1">3</ref> to send all the necessary things. And you should also write to the garrison of the fortress of that side to send the artillery consisting of ‘ jazáyars’,<ref xml:id="fnref-p0146-2" type="noteref" target="#fn-p0146-2">4</ref> ‘ rám-jangis’<ref xml:id="fnref-p0146-2-2" type="noteref" target="#fn-p0146-2">4</ref>, bullets, and gunpowder to the army of Nasrat Jang. Authority lies in the hands of the Powerful and Unique God ; He does what He wills.</p>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0136" type="letter" corresp="#letter-0136">
@@ -1627,7 +1626,7 @@ AURUNGZEBE’S LETTERS.</head>
 </div>
 <div xml:id="div-letter-0154" type="letter" corresp="#letter-0154">
 <head rend="center">LETTER CLIV.</head>
-<p rend="indented">Old devoted servant, notwithstanding that you have been favoured by me for a long time and have served me and that I have a great opinion of your knowledge about rules and about human virtues, you pocket the insults of the government officials and do not remember the (following) words of Sa’adi<ref xml:id="fnref-p0159-4" type="noteref" target="#fn-p0159-4">1</ref>: (couplet) “Both you and <pb xml:id="page-160" n="148"/> I are servants of the same master; both of us are servants in the court of the king (consequently one officer should not pocket another’s insult) ”. It is very strange. Sa’ad Alláh Khán<ref xml:id="fnref-p0160-1" type="noteref" target="#fn-p0160-1">2</ref> used to say, “ The (Persian) letters ‘ alif ’ and ‘ nūn ’ in the word ‘ divân ’ (secretary or minister) resemble the pen and the inkstand (respectively) (<hi rend="italic">i.e.</hi>, the last letters ‘ alif ’ ا and ‘ nūn ’ ن of the word ‘ diván ’ shew that the ‘ diván ’ has got a pen and an inkstand before him as the signs of his post)”. (But) the ‘ diván’ who has not got angelic qualities is either a demon with pen and inkstand before him or a brute or a picture devoid of intelligence.<ref xml:id="fnref-p0160-2" type="noteref" target="#fn-p0160-2">3</ref> Henceforth you should be careful. And with your confidence you should regard the servants of the royal court your equals; and you should not leave observance unobserved (<hi rend="italic">i.e.</hi>, you should possess the discriminative power).</p>
+<p rend="indented">Old devoted servant, notwithstanding that you have been favoured by me for a long time and have served me and that I have a great opinion of your knowledge about rules and about human virtues, you pocket the insults of the government officials and do not remember the (following) words of Sa’adi<ref xml:id="fnref-p0159-4" type="noteref" target="#fn-p0159-4">1</ref>: (couplet) “Both you and <pb xml:id="page-160" n="148"/> I are servants of the same master; both of us are servants in the court of the king (consequently one officer should not pocket another’s insult) ”. It is very strange. Sa’ad Alláh Khán<ref xml:id="fnref-p0160-1" type="noteref" target="#fn-p0160-1">2</ref> used to say, “ The (Persian) letters ‘ alif ’ and ‘ nūn ’ in the word ‘ divân ’ (secretary or minister) resemble the pen and the inkstand (respectively) (<hi rend="italic">i.e.</hi>, the last letters ‘ alif ’ <foreign xml:lang="und-Arab">ا</foreign> and ‘ nūn ’ <foreign xml:lang="und-Arab">ن</foreign> of the word ‘ diván ’ shew that the ‘ diván ’ has got a pen and an inkstand before him as the signs of his post)”. (But) the ‘ diván’ who has not got angelic qualities is either a demon with pen and inkstand before him or a brute or a picture devoid of intelligence.<ref xml:id="fnref-p0160-2" type="noteref" target="#fn-p0160-2">3</ref> Henceforth you should be careful. And with your confidence you should regard the servants of the royal court your equals; and you should not leave observance unobserved (<hi rend="italic">i.e.</hi>, you should possess the discriminative power).</p>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0155" type="letter" corresp="#letter-0155">
@@ -1640,7 +1639,7 @@ AURUNGZEBE’S LETTERS.</head>
 <p rend="indented">You must have heard the news of the death of Mūkhalis Khán<ref xml:id="fnref-p0161-1" type="noteref" target="#fn-p0161-1">1</ref>. I was pleased with his noble and virtuous qualities and his versatile genius. May God be pleased with him. This world where death is rampant has many calamities and its toys are perishable. Where are the wise heart and the seeing eyes ? (<hi rend="italic">i.e.</hi>, wise men are to die in this world). A person indirectly complained before me, “This man (<hi rend="italic">i.e.</hi>, Mūkhalis Khán) does not consider any other man better than himself.” I replied, “He does not find any other man better than himself ”.</p>
 </div>
 <div xml:id="div-unit-0170" type="editorial">
-<pb xml:id="page-162" n="150"/><p rend="heading"><hi rend="bold">Letters Addressed to</hi><lb/>Gházi-ūd-Din Khán Bahádūr Firūz Jang<ref xml:id="fnref-p0162-1" type="noteref" target="#fn-p0162-1">1</ref>.</p>
+<pb xml:id="page-162" n="150"/><head rend="center"><hi rend="bold">Letters Addressed to</hi><lb/>Gházi-ūd-Din Khán Bahádūr Firūz Jang<ref xml:id="fnref-p0162-1" type="noteref" target="#fn-p0162-1">1</ref>.</head>
 </div>
 <div xml:id="div-letter-0157" type="letter" corresp="#letter-0157">
 <head rend="center">LETTER CLVII<ref xml:id="fnref-p0162-2" type="noteref" target="#fn-p0162-2">2</ref>.</head>
@@ -1658,7 +1657,7 @@ AURUNGZEBE’S LETTERS.</head>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-unit-0174" type="editorial">
-<pb xml:id="page-165" n="153"/><p rend="heading">Letters addressed to<lb/>Zūl Fikár Khán Bahádūr Nasrat Jang<ref xml:id="fnref-p0165-1" type="noteref" target="#fn-p0165-1">1</ref>.</p>
+<pb xml:id="page-165" n="153"/><head rend="center">Letters addressed to<lb/>Zūl Fikár Khán Bahádūr Nasrat Jang<ref xml:id="fnref-p0165-1" type="noteref" target="#fn-p0165-1">1</ref>.</head>
 </div>
 <div xml:id="div-letter-0160" type="letter" corresp="#letter-0160">
 <head rend="center">LETTER CLX.</head>
@@ -1687,7 +1686,7 @@ AURUNGZEBE’S LETTERS.</head>
 <p rend="indented">My Khán Nasrat Jang, government servants do not pay any attention to honest people; because from beginning to end these honest men have no regard and respect for the government officials. The oppressors are not afraid <pb xml:id="page-170" n="158"/> of giving (money) to and taking (it) from honest men (<hi rend="italic">i.e.</hi>, the oppressive government servants bribe and fleece the honest); <hi rend="italic">i.e.</hi>, it will require no miserliness to give water to others from the ocean. Their wicked actions are contrary to my order. I do not know what punishment will be inflicted upon me on the day of judgment and what hardships will befall the subjects<ref xml:id="fnref-p0170-1" type="noteref" target="#fn-p0170-1">1</ref>. (Verse) “ The thought of Saturday embitters the Friday of the boys<ref xml:id="fnref-p0170-2" type="noteref" target="#fn-p0170-2">2</ref>. The pleasure of to-day without the anxiety of to-morrow is enjoyable (<hi rend="italic">i.e.</hi>, sufficient unto the day is the evil thereof)”. Any how the men of power should always fear honest men and should every moment say, ‘ O God ! save me and protect me (from sins) ’.</p>
 </div>
 <div xml:id="div-unit-0180" type="editorial">
-<pb xml:id="page-171" n="159"/><p rend="heading">Letters addressed to<lb/>Mirzá Sadr-ūd-Din Muhammad Khán Safavi<ref xml:id="fnref-p0171-1" type="noteref" target="#fn-p0171-1">1</ref>,<lb/>Second Paymaster.</p>
+<pb xml:id="page-171" n="159"/><head rend="center">Letters addressed to<lb/>Mirzá Sadr-ūd-Din Muhammad Khán Safavi<ref xml:id="fnref-p0171-1" type="noteref" target="#fn-p0171-1">1</ref>,<lb/>Second Paymaster.</head>
 </div>
 <div xml:id="div-letter-0165" type="letter" corresp="#letter-0165">
 <head rend="center">LETTER CLXV.</head>
@@ -1699,21 +1698,21 @@ AURUNGZEBE’S LETTERS.</head>
 <p rend="indented">Mirzá Paymaster, Muhammad Ebráhim, the bashful courtier, has been raised to a high honour, <hi rend="italic">i.e.</hi>, to the post of ‘Seh-Hazári’, two hundred and five hundred <pb xml:id="page-172" n="160"/> followers, a title of ‘Mirzá Kháni’, and a present of two thousand rupees, at the request of the Begum<ref xml:id="fnref-p0172-1" type="noteref" target="#fn-p0172-1">1</ref>. According to (my) order, you should write him a letter communicating these favours. He who acts virtuously and piously is rewarded by God.</p>
 </div>
 <div xml:id="div-unit-0183" type="editorial">
-<pb xml:id="page-173" n="161"/><p rend="heading"><hi rend="bold">Letter addressed to</hi><lb/>A’akel Khán<ref xml:id="fnref-p0173-1" type="noteref" target="#fn-p0173-1">1</ref>,<lb/>Fort-keeper and Governor<lb/>of the Capital of Sháh Jehán Abád<ref xml:id="fnref-p0173-2" type="noteref" target="#fn-p0173-2">2</ref>.</p>
+<pb xml:id="page-173" n="161"/><head rend="center"><hi rend="bold">Letter addressed to</hi><lb/>A’akel Khán<ref xml:id="fnref-p0173-1" type="noteref" target="#fn-p0173-1">1</ref>,<lb/>Fort-keeper and Governor<lb/>of the Capital of Sháh Jehán Abád<ref xml:id="fnref-p0173-2" type="noteref" target="#fn-p0173-2">2</ref>.</head>
 </div>
 <div xml:id="div-letter-0167" type="letter" corresp="#letter-0167">
 <head rend="center">1662. LETTER CLXVII.</head>
 <p rend="indented">I read the petition of that old servant (<hi rend="italic">i.e.,</hi> the Khán). You have expressed the desire of retiring from the service and of tendering resignation of your post. When I have protected you under my service, which is the object of divine glory and favour, do you think that you will get a better post anywhere else than here? In case of you insist, your petition will be certainly accepted and your request (for resignation) will be complied with; and a sum of one thousand rupees per month, amounting to twelve thousand per year, will be assigned to you.</p>
 </div>
 <div xml:id="div-unit-0185" type="editorial">
-<pb xml:id="page-174" n="162"/><p rend="heading">Letter addressed to<lb/>Hamid-ūd-Din Khán Bahádūr<ref xml:id="fnref-p0174-1" type="noteref" target="#fn-p0174-1">1</ref>.</p>
+<pb xml:id="page-174" n="162"/><head rend="center">Letter addressed to<lb/>Hamid-ūd-Din Khán Bahádūr<ref xml:id="fnref-p0174-1" type="noteref" target="#fn-p0174-1">1</ref>.</head>
 </div>
 <div xml:id="div-letter-0168" type="letter" corresp="#letter-0168">
 <head rend="center">LETTER CLXVIII.</head>
 <p rend="indented">Hamid should know that a few days ago prince A'azam uttered these words before me: “There are my three bitter enemies—Hamid–ūd–Din Khán, Amir Khán<ref xml:id="fnref-p0174-2" type="noteref" target="#fn-p0174-2">2</ref>, and Mūna'am Khàn<ref xml:id="fnref-p0174-3" type="noteref" target="#fn-p0174-3">3</ref>”. I replied, “Amir Khán is a good-natured man; he is the enemy of none. It is proper that Hamid is also not an enemy. The nature of Mūna'am Khán is unknown to this oppressive and ignorant man (<hi rend="italic">i.e.</hi>, Aurungzebe himself)”. Did you ever consider why you are indifferent to your own condition and to death which is nearer to man than the strip of his shoe and the pulse of his neck (<hi rend="italic">i.e.</hi>, death comes unexpectedly)? Woe! woe! Alas! alas! (Couplet) “Sometimes I am left behind my hand, heart, and foot (<hi rend="italic">i.e.</hi>, sometimes I become helpless). O life! you are passing away soon; I fear that I will be left behind you (<hi rend="italic">i.e.</hi>, I will die soon)”. If you think it right I will recommend you to prince A'azam. If you quarrel with each other I will reconcile you both; so that you may not be dishonest in serving this mortal creature (<hi rend="italic">i.e.</hi>, Aurungzebe). Whatever you think write it to me or inform me of it.</p>
 </div>
 <div xml:id="div-unit-0187" type="editorial">
-<pb xml:id="page-175" n="163"/><p rend="heading"><hi rend="bold">Letters addressed to</hi><lb/>Ináyat Allàh Khán<ref xml:id="fnref-p0175-1" type="noteref" target="#fn-p0175-1">1</ref>.</p>
+<pb xml:id="page-175" n="163"/><head rend="center"><hi rend="bold">Letters addressed to</hi><lb/>Ináyat Allàh Khán<ref xml:id="fnref-p0175-1" type="noteref" target="#fn-p0175-1">1</ref>.</head>
 </div>
 <div xml:id="div-letter-0169" type="letter" corresp="#letter-0169">
 <head rend="center">LETTER CLXIX<ref xml:id="fnref-p0175-2" type="noteref" target="#fn-p0175-2">2</ref>.</head>
@@ -1745,7 +1744,7 @@ AURUNGZEBE’S LETTERS.</head>
 <p rend="indented">Having heard about the great wealth of India Sharif-i-Mecca<ref xml:id="fnref-p0179-2" type="noteref" target="#fn-p0179-2">4</ref>, for taking an advantage for himself, sends me every year an envoy (for receiving money from me). This sum of money which I sent (with the envoy to the Sharif) is for the needy. We should take care whether the money is distributed among the poor or is wasted by the Sharif. On your own behalf you should write to the great and rich merchants of the auspicious harbour of Sūrat<ref xml:id="fnref-p0179-3" type="noteref" target="#fn-p0179-3">5</ref> that this sum of money will be sent through them to the needy of the two holy and auspicious cities (<hi rend="italic">i.e.</hi>, Mecca and Medina) if they guarantee its safety. Any how religious charity practised by government should not be known to the public. My object is to please the holy souls of the prophets, the Glorious and Sublime God and His companion (<hi rend="italic">i.e.</hi>, Mahomet). May the good will and peace of God be upon him (<hi rend="italic">i.e.</hi>, Mahomet) and upon his family. If this is also impossible, why should it (<hi rend="italic">i.e.</hi>, money) not be distributed among the <pb xml:id="page-180" n="168"/> poor of this country (<hi rend="italic">i.e.</hi>, India)? Because the manifestation of the Holy God is reflected in every place (<hi rend="italic">i.e.</hi>, God is omnipresent). We are nearer to God than even to the pulse of our neck.<ref xml:id="fnref-p0180-1" type="noteref" target="#fn-p0180-1">6</ref></p>
 </div>
 <div xml:id="div-unit-0194" type="editorial">
-<pb xml:id="page-181" n="169"/><p rend="heading"><hi rend="bold">Letters addressed to</hi><lb/>Asad Khán<ref xml:id="fnref-p0181-1" type="noteref" target="#fn-p0181-1">1</ref>.</p>
+<pb xml:id="page-181" n="169"/><head rend="center"><hi rend="bold">Letters addressed to</hi><lb/>Asad Khán<ref xml:id="fnref-p0181-1" type="noteref" target="#fn-p0181-1">1</ref>.</head>
 </div>
 <div xml:id="div-letter-0175" type="letter" corresp="#letter-0175">
 <head rend="center">LETTER CLXXV.</head>
@@ -1768,8 +1767,7 @@ AURUNGZEBE’S LETTERS.</head>
 <p rend="indented">You should make a petition to prince A’azam. The prince has interceded for the fault of A’atibár Khán<ref xml:id="fnref-p0184-1" type="noteref" target="#fn-p0184-1">1</ref>. Saiyad Sa’ad Alláh Dervish<ref xml:id="fnref-p0184-2" type="noteref" target="#fn-p0184-2">2</ref> has written to the prince to practise great patience. You should write to the prince the two (following) fine and charming hemistichs sung by Abdūl Kádir Bedil<ref xml:id="fnref-p0184-3" type="noteref" target="#fn-p0184-3">3</ref> which are applicable to this case : (verse) “Fear the sighs of the oppressed; because at the time of their prayer acceptance comes to receive them from the court of God (<hi rend="italic">i.e.</hi>, the sighs of the oppressed are heard and responded to by God)”.</p>
 </div>
 <div xml:id="div-unit-0199" type="editorial">
-<pb xml:id="page-185" n="173"/><head rend="center"><hi rend="bold">Letters addressed to</hi>
-Abdūl Kásim Khán.</head>
+<pb xml:id="page-185" n="173"/><head rend="center"><hi rend="bold">Letters addressed to</hi><lb/>Abdūl Kásim Khán.</head>
 <p rend="indented">The Khán was distinguished with the title of Mūltifat Khán. (<hi rend="italic">Cf.</hi> Let. CLXII). After the death of Amir Khán, he received the title of Amir Khán. He was the head of the body guards of His Majesty (<hi rend="italic">i.e.</hi>, Aurungzebe). He knew the most holy nature of Aurungzebe and made fine remarks appropriate to the time and occasion before the emperor.</p>
 </div>
 <div xml:id="div-letter-0179" type="letter" corresp="#letter-0179">
@@ -1784,8 +1782,8 @@ Abdūl Kásim Khán.</head>
 <p rend="indented">According to (my) order, whenever Sar Faráz Khán Abdūl Latif Khán<ref xml:id="fnref-p0186-2" type="noteref" target="#fn-p0186-2">1</ref> comes to salute ‘the best of the kingdom’ and ‘pivot of state affairs’<ref xml:id="fnref-p0186-3" type="noteref" target="#fn-p0186-3">2</ref>, having raised his hand after the salutation he should follow the Khán, when he rides on a horse. If the Khán rides in a ‘pálkee’<ref xml:id="fnref-p0186-4" type="noteref" target="#fn-p0186-4">3</ref>, Sar Faráz is free from other ceremonials after saluting the Khán. If the Khán rides on an elephant, he should go after him. If the Khán speaks, he should reply; otherwise, not. Rákánhū and other ‘Panj Hazáris’ should dismount and salute the Khán. Asad Khán should give a betel to Rákánhū and say good bye to other ‘Panj Hazáris’.</p>
 </div>
 <div xml:id="div-unit-0203" type="editorial">
-<pb xml:id="page-187" n="175"/><p rend="heading"><hi rend="bold">The copy of a mandate issued by</hi></p>
-<p rend="heading">Prince A‘azam to Afazal Khán.</p>
+<pb xml:id="page-187" n="175"/><head rend="center"><hi rend="bold">The copy of a mandate issued by</hi></head>
+<head rend="center">Prince A‘azam to Afazal Khán.</head>
 </div>
 <div xml:id="div-letter-0181" type="letter" corresp="#letter-0181">
 <head rend="center">LETTER CLXXXI.<ref xml:id="fnref-p0187-1" type="noteref" target="#fn-p0187-1">1</ref></head>
@@ -2027,7 +2025,7 @@ Abdūl Kásim Khán.</head>
 <note place="foot" xml:id="fn-p0080-1" n="1"><p>Cf. Let. XVIII.</p></note>
 <note place="foot" xml:id="fn-p0080-2" n="2"><p>Or Kshatri, (lit.) a warrior, the second of the four original castes among the Hindus, and next to a Brahmin (a Hindu priest).</p></note>
 <note place="foot" xml:id="fn-p0080-3" n="3"><p>Cf. Let. XLVIII. All its walls were painted with the maps of India.</p></note>
-<note place="foot" xml:id="fn-p0080-4" n="4"><p>(Lit.) ‘ the brand of correction,’ <hi rend="italic">i.e.</hi>, a place where horses were branded, <hi rend="italic">i.e.</hi>, a stable.</p><p>Regulations for branding horses:</p><p>“ In order to prevent fraudulent exchanges, and to remove the stamp of doubtful ownership, horses were for some time marked with the word ‘nazar’ (sight), sometimes with the word ‘dágh’ (mark), and sometimes with the numeral ٧ (seven). Every horse that was received by government had the mark burnt on the right cheek ; and those that were returned, on the left side. ......Now-a-days the horses of every stable are distinguished by their price in numerals......When horses, at the time of the musters, are put into a higher or a lower grade, the old brand is removed.” Ain-i-Akbari.</p><p>“ In the 18th year of his reign, His Majesty (Akbar) introduced the branding system.” “ When the brand first introduced, it was made in the shape of the head of the letter ‘ sin,’ and was put on the right side of the neck of the horse. For some time, it was made in shape of two ‘ alifs’ intersecting at right angles, the heads of the ‘ alif ’ being made heavy, and put on the right thigh. For some time again, it was like a bow with the string taken off. At last, numerals were introduced, which plan best frustrates fraudulent practices. They make iron numerals......These new signs are likewise put on the right thigh.” Ain-i-Akbari.</p><p>“ The servants (mansabdárs) of H. M. (Akbar) have their horses every year newly marked.” Ain-i-Akbari.</p></note>
+<note place="foot" xml:id="fn-p0080-4" n="4"><p>(Lit.) ‘ the brand of correction,’ <hi rend="italic">i.e.</hi>, a place where horses were branded, <hi rend="italic">i.e.</hi>, a stable.</p><p>Regulations for branding horses:</p><p>“ In order to prevent fraudulent exchanges, and to remove the stamp of doubtful ownership, horses were for some time marked with the word ‘nazar’ (sight), sometimes with the word ‘dágh’ (mark), and sometimes with the numeral <foreign xml:lang="und-Arab">٧</foreign> (seven). Every horse that was received by government had the mark burnt on the right cheek ; and those that were returned, on the left side. ......Now-a-days the horses of every stable are distinguished by their price in numerals......When horses, at the time of the musters, are put into a higher or a lower grade, the old brand is removed.” Ain-i-Akbari.</p><p>“ In the 18th year of his reign, His Majesty (Akbar) introduced the branding system.” “ When the brand first introduced, it was made in the shape of the head of the letter ‘ sin,’ and was put on the right side of the neck of the horse. For some time, it was made in shape of two ‘ alifs’ intersecting at right angles, the heads of the ‘ alif ’ being made heavy, and put on the right thigh. For some time again, it was like a bow with the string taken off. At last, numerals were introduced, which plan best frustrates fraudulent practices. They make iron numerals......These new signs are likewise put on the right thigh.” Ain-i-Akbari.</p><p>“ The servants (mansabdárs) of H. M. (Akbar) have their horses every year newly marked.” Ain-i-Akbari.</p></note>
 <note place="foot" xml:id="fn-p0081-1" n="5"><p>A post in the military department. It has other meanings: (<hi rend="italic">a</hi>) a heavy mace; (<hi rend="italic">b</hi>) an out work.</p></note>
 <note place="foot" xml:id="fn-p0081-2" n="6"><p>Indian financial officers during the Moguls. Lit. ‘having ten millions.’</p></note>
 <note place="foot" xml:id="fn-p0081-3" n="1"><p>This letter shews Aurungzebe’s great respect and reverence for the holy saints.</p><p>Aurungzebe was of an ascetic turn of mind. When he was governor of the Deccan for the first time during Sháh Jehán’s reign he retired from the world to the Ghauts for nearly one year like a ‘fakir’, a Mohemadan devotee. 1643. Dara used to call him (ironically) ‘That saint’. When he rebelled against his father (1657) he sent a message to the foolish Murad, his brother, to join him, to this effect: “I want to see you on the throne. I don’t like the crown. After your accession to the throne I will turn mendicant and go to Mecca for pilgrimage.” From these words we find him a hypocrite and double minded, because it was he who came to the throne after imprisoning his father and his brother, Murad. The Mohemadans praise him as a saint while the Christians denounce him as a hypocrite. Cf. Let. XCIII.</p><p>Khafi Khan praises Aurungzebe’s devotion, austerity, justice, courage, long suffering and judgment. Bernier calls Aurungzebe ‘reserved, subtle, and a complete master of the art of dissimulation.’</p><p>Many saints flourished in Aurungzebe’s time. The names of some of them are as follow:</p><p>Sheikh Muhammad Váris, Sheikh Bayázeed, Sheikh Būrhán, Sheikh Abdūl Latif, Mir Násrūdin Harvi, and Saiyad Sa’ad Alláh.</p></note>
@@ -2100,7 +2098,7 @@ Abdūl Kásim Khán.</head>
 <note place="foot" xml:id="fn-p0104-2" n="1"><p>This letter is in continuation of the latter part of the above letter. Here Aurungzebe changes his mind.</p></note>
 <note place="foot" xml:id="fn-p0104-3" n="2"><p>Cf. Let. CXXXIV.</p></note>
 <note place="foot" xml:id="fn-p0105-1" n="3"><p>Cf. Let. LXXI.</p></note>
-<note place="foot" xml:id="fn-p0105-2" n="1"><p>An Indian military corps of the time of the Moguls. They were warranted officers. ‘Most clerks of the imperial offices, the painters of the court, the foremen in Akbar’s workshops, &amp;c., belonged to this corps. They were called ‘Ahadis,’ or single men, because they stood under Akbar’s immediate orders. The word ‘Ahadi,’ the h of which is the Arabic ح, was spelt in official returns with the Persian ه; so deep rooted, says Badaoni, was Akbar’s hatred for everything which was Arabic.’ “For the sake of the convenience of the Ahadis, a separate diván (secretary) and a paymster were appointed, and one of the great Amirs is their chief. Many Ahadis have indeed more than Rs. 500 per mensem.” Ain-i-Akbari.</p></note>
+<note place="foot" xml:id="fn-p0105-2" n="1"><p>An Indian military corps of the time of the Moguls. They were warranted officers. ‘Most clerks of the imperial offices, the painters of the court, the foremen in Akbar’s workshops, &amp;c., belonged to this corps. They were called ‘Ahadis,’ or single men, because they stood under Akbar’s immediate orders. The word ‘Ahadi,’ the h of which is the Arabic <foreign xml:lang="und-Arab">ح</foreign>, was spelt in official returns with the Persian <foreign xml:lang="und-Arab">ه</foreign>; so deep rooted, says Badaoni, was Akbar’s hatred for everything which was Arabic.’ “For the sake of the convenience of the Ahadis, a separate diván (secretary) and a paymster were appointed, and one of the great Amirs is their chief. Many Ahadis have indeed more than Rs. 500 per mensem.” Ain-i-Akbari.</p></note>
 <note place="foot" xml:id="fn-p0105-3" n="2"><p>An Indian word for ‘merchants.’ Cf. Let. XX.</p></note>
 <note place="foot" xml:id="fn-p0106-1" n="3"><p>Umar bin Khattab, one of the four Khalifs after the Prophet—known for his justice and bravery. He was one of the favourite companions and father-in-law of Mahomet. He ruled for nine years (634-643) as second Khalif after the Prophet. He was murdered by a Persian slave named Firūz. 643. It was he who destroyed the old Persian empire. The city of Bussora was founded by him.</p><p>Khalif means literally ‘a follower’ or ‘successor’ (Ar.) of Mahomet; then the term came to be applied to the acknowledged head of the Mohemadans, both in political and religious matters. Here Aurnngzebe claims to be a great advocate of justice.</p></note>
 <note place="foot" xml:id="fn-p0106-2" n="4"><p>Cf. Let. LI.</p></note>

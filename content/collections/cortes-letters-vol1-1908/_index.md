@@ -26,12 +26,12 @@
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 86.0,
+  "score": 82.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 24.0,
+    "score": 20.0,
     "out_of": 30.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 5,
+  "flagged": 7,
   "blockers": 0
  },
  "proof": {
@@ -206,27 +206,27 @@
   {
    "format": "epub",
    "file": "cortes-letters-vol1-1908.epub",
-   "bytes": 361743,
-   "sha256": "3c16074fe8cbba8232994712acbedcfd1ba07f90fdb0e53c4629e00986d24ea4"
+   "bytes": 361892,
+   "sha256": "fd1c74abde07b2191de93407bf6b3c42c5935d628d4f6edc86eea270981f1b51"
   },
   {
    "format": "markdown",
    "file": "cortes-letters-vol1-1908.md",
-   "bytes": 713998,
-   "sha256": "29e8b7247ae5b2ec956e49a921de03f950b47ef961ac4f127e1b2edf2836429c"
+   "bytes": 714214,
+   "sha256": "aaea760d95583b17483814991a672b34a808cc42492ac148e9dd381d56747e87"
   },
   {
    "format": "tei",
    "file": "cortes-letters-vol1-1908.tei.xml",
-   "bytes": 770670,
-   "sha256": "4a31ce41585eebf5119df712e39e1005ebc85baa74abb9c636061bbd749f5993"
+   "bytes": 770910,
+   "sha256": "bfa09ab91f57dc163c4e8039200a1a7b4414c12ad79a538c6c92ef82f9645cd4"
   }
  ],
  "scan_base": "https://archive.org/download/lettersofcorts01cortuoft/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-22T08:52:41Z",
-  "source_ast_sha256": "3e0d6bc3240523872226d2c774ce84f0a35c7292c0d253e3744b1a94925fd2a7",
+  "compiled_at": "2026-11-24T19:21:19Z",
+  "source_ast_sha256": "6fc562e3f452ecf254289450ac390e21ec6f0ace18978360e1de72b1c79636d5",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -7,15 +7,15 @@
 
 ## Frontmatter
 
-### Letters of Fyodor Michailovitch Dostoevsky to his Family and Friends
+### Letters of<br />Fyodor Michailovitch<br />Dostoevsky<br />to his Family and Friends
 
 *[Illustration, p. 6]*
 
 FYODOR MICHAILOVITCH DOSTOEVSKY, PETERSBURG, 1879.
 
-### Letters of Fyodor Michailovitch Dostoevsky
+### Letters of<br />Fyodor Michailovitch<br />Dostoevsky
 
-### to his Family and Friends
+##### to his Family and Friends
 
 <span class="small-caps">Translated by</span>  
 <span class="small-caps">Ethel Colburn Mayne</span>
@@ -51,10 +51,11 @@ PAGE
 
 <span class="small-caps">Chronological Table of Dostoevsky's Life</span> . . . xi
 
-### LETTERS
+#### LETTERS
 
-| 1. | To his Father : May 10, 1838 | 1 |
+|  |  |  |
 | --- | --- | --- |
+| 1. | To his Father : May 10, 1838 | 1 |
 | 2. | To his Brother Michael : August 9, 1838. | 3 |
 | 3. | „ „ October 31, 1838 | 5 |
 | 4. | „ „ January 1, 1840 | 10 |
@@ -189,7 +190,7 @@ Pavlovitch Ivanov: January 1 [13], 1868 . . 135
 
 77. To Dr. A. F. Blagonravov : December 19, 1880 . . 257
 
-### RECOLLECTIONS OF DOSTOEVSKY
+#### RECOLLECTIONS OF DOSTOEVSKY
 
 By D. V. Grigorovitch (1837–1846) . . . . 261
 
@@ -201,7 +202,7 @@ By Baron Alexander Vrangel (1854–1865) . . . 289
 
 By Sophie Kovalevsky (1866) . . . . . 321
 
-### CONTEMPORARY JUDGMENTS
+#### CONTEMPORARY JUDGMENTS
 
 R. P. Pobyedonoszev to I. S. Aksakov . . . 333
 
@@ -268,9 +269,9 @@ originals in the Moscow Museum.*
 DOSTOEVSKY'S BIRTHPLACE.  
 (THE WORKHOUSE HOSPITAL AT MOSCOW.)
 
-### CHRONOLOGICAL TABLE OF DOSTOEVSKY'S LIFE
+### CHRONOLOGICAL TABLE OF<br />DOSTOEVSKY'S LIFE
 
-### <span class="small-caps">After</span> V. TCHECHICHIN
+##### <span class="small-caps">After</span> V. TCHECHICHIN
 
 - 1821. “In the parish of St. Peter and Paul at Moscow was born on October 30 of the year 1821, in the dwelling-house of the Workhouse Hospital, to Staff-Physician Michail Andreyevitch Dostoevsky, a male child, who was named Fyodor. Baptised on November 4.”
 - 1831. Dostoevsky's parents purchase a country-house in the Tula Government, where the family henceforth spends the summer.
@@ -340,7 +341,7 @@ Political groups, such as those around Petrachevsky, form in Petersburg.
 
 “The Jealous Husband” (*O.Z.*, No. 12).
 
-1849. “Netotchka Nesvanova” (*O.Z.*, Nos. 1-2, 5-6). In March, Dostoevsky reads aloud [a revolutionary letter from Bielinsky to Gogol at Petrachevsky's rooms].[^fn-p0019-1] On April 23, Dostoevsky, together with other members of the Petrachevsky circle, is arrested, and imprisoned in the Petropaulovsky Fortress. [He was accused of “having taken part in conversations about the severity of the Censorship; of having read, at a meeting in March, 1849, Bielinsky's revolutionary letter to Gogol; of having again read it at Dourov's rooms, and of having given it to Monbelli to copy; of having listened at Dourov's to the reading of various articles; of having knowledge of the plan to establish a clandestine printing-press,” etc.]<sup>1</sup> December 19: Dostoevsky is condemned to degradation from military rank, and imprisonment. December 22: Dostoevsky, and all the Petrachevsky group, hear read over them, first, the death-sentence, and then the commuted sentence of hard labour in the Siberian prisons. December 24-25: On this night Dostoevsky is put in irons, and transported from Petersburg to Siberia. 1850. January 11: Arrival at Tobolsk. Meeting with the wives of the Decembrists. January 17: Continues journey to Omsk. 1850-54. Serves his sentence in the prison at Omsk. 1854. February 15: Completion of sentence. February 22: Letter to his brother with description of his life in the prison. March 2: Dostoevsky is enrolled as private in the 7th Siberian Regiment of the Line. In end of March, arrives at Semipalatinsk. In May, writes his poem on the European incidents of 1854. November 21: Baron Vrangel arrives at Semipalatinsk. 1855. February 19: The Tsar Alexander II. ascends the throne. Dostoevsky writes a poem on the death of Nicholas I. and the accession of Alexander II. (It has not come down to us.) He begins “The House of the Dead.” 1856. January 15: Promotion to non-commissioned rank. March 24: Letter to General Totleben, requesting his intercession with the Tsar. October 1: By Imperial command, he is promoted to be Ensign in the same battalion. 1857. February 6: Dostoevsky's betrothal to the widowed Maria Dmitryevna Issayev takes place at Kusnezk.
+1849. “Netotchka Nesvanova” (*O.Z.*, Nos. 1-2, 5-6). In March, Dostoevsky reads aloud [a revolutionary letter from Bielinsky to Gogol at Petrachevsky's rooms].[^fn-p0019-1] On April 23, Dostoevsky, together with other members of the Petrachevsky circle, is arrested, and imprisoned in the Petropaulovsky Fortress. [He was accused of “having taken part in conversations about the severity of the Censorship; of having read, at a meeting in March, 1849, Bielinsky's revolutionary letter to Gogol; of having again read it at Dourov's rooms, and of having given it to Monbelli to copy; of having listened at Dourov's to the reading of various articles; of having knowledge of the plan to establish a clandestine printing-press,” etc.][^fn-p0019-1] December 19: Dostoevsky is condemned to degradation from military rank, and imprisonment. December 22: Dostoevsky, and all the Petrachevsky group, hear read over them, first, the death-sentence, and then the commuted sentence of hard labour in the Siberian prisons. December 24-25: On this night Dostoevsky is put in irons, and transported from Petersburg to Siberia. 1850. January 11: Arrival at Tobolsk. Meeting with the wives of the Decembrists. January 17: Continues journey to Omsk. 1850-54. Serves his sentence in the prison at Omsk. 1854. February 15: Completion of sentence. February 22: Letter to his brother with description of his life in the prison. March 2: Dostoevsky is enrolled as private in the 7th Siberian Regiment of the Line. In end of March, arrives at Semipalatinsk. In May, writes his poem on the European incidents of 1854. November 21: Baron Vrangel arrives at Semipalatinsk. 1855. February 19: The Tsar Alexander II. ascends the throne. Dostoevsky writes a poem on the death of Nicholas I. and the accession of Alexander II. (It has not come down to us.) He begins “The House of the Dead.” 1856. January 15: Promotion to non-commissioned rank. March 24: Letter to General Totleben, requesting his intercession with the Tsar. October 1: By Imperial command, he is promoted to be Ensign in the same battalion. 1857. February 6: Dostoevsky's betrothal to the widowed Maria Dmitryevna Issayev takes place at Kusnezk.
 
 April 18: Imperial minute to the Commander of the Siberian Army Corps to the effect that Dostoevsky and his legal heirs regain the ancient title of nobility, though the confiscated property is not to be restored. Dostoevsky first hears of this in May.
 
@@ -439,9 +440,9 @@ December 25: Death of his friend and collaborator, Apollon Grigoryev.
 
 ### Letter 1: Fyodor Michailovitch Dostoevsky → his Father
 
-### I
+#### I
 
-### *To his Father*
+#### *To his Father*
 
 *May* 10, 1838.
 
@@ -457,7 +458,7 @@ From your last remittance I have laid by fifteen roubles. So you see, dear Papa,
 
 ### Letter 2: F. Dostoevsky → his Brother Michael
 
-### II *To his Brother Michael*
+#### II<br />*To his Brother Michael*
 
 <span class="small-caps">Petersburg</span>,  
 *August 9*, 1838.
@@ -482,7 +483,7 @@ I have a new plan: to go mad. That's the way: for people to lose their heads, an
 
 ### Letter 3: F. Dostoevsky → his Brother Michael
 
-### III *To his Brother Michael*
+#### III<br />*To his Brother Michael*
 
 <span class="small-caps">Petersburg,</span>  
 *October* 31, 1838.
@@ -501,9 +502,11 @@ Brother, I have read your poem. It urged some tears from my soul, and lulled it 
 
 moment of his highest creative rapture. But the shouting of the mob is empty and vain. There occur to me those lines of Pushkin, where he describes the mob and the poet:
 
-“ So let the foolish crowd, thy work despising, scream,  
-And spit upon the shrine where burns thy fire supreme,  
-Let them in childish arrogance thy tripod set a-tremble. . . .”
+> **[verse_insert]**
+>
+> “ So let the foolish crowd, thy work despising, scream,  
+> And spit upon the shrine where burns thy fire supreme,  
+> Let them in childish arrogance thy tripod set a-tremble. . . .”
 
 Wonderful, isn't it ? Farewell.
 
@@ -517,7 +520,7 @@ I pity our poor father ! He has such a remarkable character. What trouble he has
 
 ### Letter 4: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### IV *To his Brother Michael*
+#### IV<br />*To his Brother Michael*
 
 <span class="small-caps">Petersburg</span>,  
 *January* 1, 1840.
@@ -572,9 +575,9 @@ Please don't be offended with me for my insulting expressions ; don't bear me il
 
 ### Letter 5: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### V
+#### V
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 *September* 30, 1844.
 
@@ -598,9 +601,9 @@ I am extraordinarily pleased with my novel—beside myself with joy. For *it* I 
 
 ### Letter 6: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### VI
+#### VI
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 *March 24, 1845.*
 
@@ -624,7 +627,7 @@ In the *Invalide* lately I read in the feuilleton about the German writers who d
 
 ### Letter 7: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### VII *To his Brother Michael*
+#### VII<br />*To his Brother Michael*
 
 *May* 4, 1845.
 
@@ -648,9 +651,9 @@ Write to me soon, for I am sick of myself.
 
 ### Letter 8: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### VIII
+#### VIII
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 <span class="small-caps">Dearest Brother</span>,
 
@@ -670,9 +673,9 @@ Nekrassov is always full of wild schemes. It is a condition of his being—he wa
 
 ### Letter 9: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### IX
+#### IX
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 *November* 16, 1845.
 
@@ -694,9 +697,9 @@ All the Minnas, Claras, Mariannas, etc., have got amazingly pretty, but cost a l
 
 ### Letter 10: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### X
+#### X
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 *February* 1, 1846.
 
@@ -712,9 +715,9 @@ For “Goliadkin” I got exactly 600 roubles. And I’ve earned a lot of money 
 
 ### Letter 11: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### XI
+#### XI
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 *April* 1, 1846.
 
@@ -732,9 +735,9 @@ I’ll go over my life and work of late and tell you some bits of news :
 
 ### Letter 12: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### XII
+#### XII
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 *September* 17, 1846.
 
@@ -748,9 +751,9 @@ Here we are frightfully dull. And so work goes badly. I lived in a sort of parad
 
 ### Letter 13: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### XIII
+#### XIII
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 [*Undated*] 1846.
 
@@ -764,9 +767,9 @@ But that I may live in the meantime, I intend to bring out “Poor Folk” and t
 
 ### Letter 14: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### XIV
+#### XIV
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 *November* 26, 1846.
 
@@ -776,9 +779,9 @@ Now look, brother—from the whole business I have deduced a sage rule. First, t
 
 ### Letter 15: Dostoevsky → his Brother Michael
 
-### XV
+#### XV
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 1847.
 
@@ -800,7 +803,7 @@ I wish so much to see you again. Sometimes a nameless grief possesses me. I can'
 
 ### Letter 16: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### XVI *To his Brother Michael*
+#### XVI<br />*To his Brother Michael*
 
 [Postscript to a longer business letter, early in the year 1847.]
 
@@ -808,9 +811,9 @@ You will scarcely believe it. Here is the third year of my literary activity, an
 
 ### Letter 17: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### XVII
+#### XVII
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 [<span class="small-caps">From the Fortress</span>],  
 *July* 18, 1849.
@@ -825,9 +828,9 @@ Till next time !
 
 ### Letter 18: Fyodor Michailovitch Dostoevsky → his Brother Michael
 
-### XVIII
+#### XVIII
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 [<span class="small-caps">From the Fortress</span>],  
 *August* 27, 1849.
@@ -844,7 +847,7 @@ You most tremendously astonish me when you write that you believe they know noth
 
 ### Letter 19: F. Dostoevsky → his Brother Michael
 
-### XIX *To his Brother Michael*
+#### XIX<br />*To his Brother Michael*
 
 [<span class="small-caps">From the Fortress</span>],  
 *September* 14, 1849.
@@ -862,9 +865,9 @@ Pray do not be anxious about me. If you can get hold of any books, send them.
 
 ### Letter 20: F. Dostoevsky → his Brother Michael
 
-### XX
+#### XX
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 [<span class="small-caps">From the Fortress</span>],  
 *December* 22, 1849.
@@ -875,9 +878,9 @@ F. <span class="small-caps">Dostoevsky.</span>
 
 ### Letter 21: DOSTOEVSKY → his Brother Michael
 
-### XXI
+#### XXI
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 [<span class="small-caps">From Omsk</span>],  
 *February* 22, 1854.
@@ -932,9 +935,9 @@ Thy
 
 ### Letter 22: D. → Mme. N. D. Fonvisin
 
-### XXII
+#### XXII
 
-### *To Mme. N. D. Fonvisin*[^fn-p0095-2]
+#### *To Mme. N. D. Fonvisin*[^fn-p0095-2]
 
 <span class="small-caps">Omsk</span>,  
 *Beginning of March*, 1854.
@@ -958,9 +961,9 @@ P.S. For goodness' sake forgive this untidy, greasy letter! But on my sacred hon
 
 ### Letter 23: Fyodor Dostoevsky → Mme. Maria Dmitryevna Issayev
 
-### XXIII
+#### XXIII
 
-### *To Mme. Maria Dmitryevna Issayev*[^fn-p0099-1]
+#### *To Mme. Maria Dmitryevna Issayev*[^fn-p0099-1]
 
 <span class="small-caps">From Semipalatinsk to Kusnezk</span>  
 <span class="small-caps">[in the Tomsk Government]</span>,  
@@ -984,9 +987,9 @@ This story of Vrangel's gave me extraordinary joy. I think the opinion of a man 
 
 ### Letter 24: F. Dostoevsky → Mme. Praskovya Yegorovna Annenkov
 
-### XXIV
+#### XXIV
 
-### *To Mme. Praskovya Yegorovna Annenkov.*[^fn-p0108-1]
+#### *To Mme. Praskovya Yegorovna Annenkov.*[^fn-p0108-1]
 
 <span class="small-caps">Semipalatinsk</span>,  
 *October* 18, 1855.
@@ -1023,9 +1026,9 @@ Though I much esteem the bearer of this letter, A. I. Bachirev, I don't confide 
 
 ### Letter 25: Fyodor Michailovitch Dostoevsky → Apollon Nikolayevitch Maikov
 
-### XXV
+#### XXV
 
-### *To Apollon Nikolayevitch Maikov*[^fn-p0111-1]
+#### *To Apollon Nikolayevitch Maikov*[^fn-p0111-1]
 
 <span class="small-caps">Semipalatinsk</span>,  
 *January* 18, 1856.
@@ -1048,7 +1051,7 @@ Farewell, my dear friend. Excuse the incoherence of this letter. One never can s
 
 ### Letter 26: Fyodor Dostoevsky → General E. I. Totleben
 
-### XXVI *To General E. I. Totleben*[^fn-p0118-1]
+#### XXVI<br />*To General E. I. Totleben*[^fn-p0118-1]
 
 <span class="small-caps">Semipalatinsk</span>,  
 *March* 24, 1856.
@@ -1072,9 +1075,9 @@ Your Excellency's most devoted servant,
 
 ### Letter 27: Baron A. E. Vrangel
 
-### XXVII
+#### XXVII
 
-### *To the Baron A. E. Vrangel*
+#### *To the Baron A. E. Vrangel*
 
 <span class="small-caps">Semipalatinsk</span>,  
 *April* 13, 1856.
@@ -1091,9 +1094,9 @@ I think of sending you very soon, privately, a poem I have written about the Cor
 
 ### Letter 28: Michael Dostoevsky
 
-### XXVIII
+#### XXVIII
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 <span class="small-caps">Semipalatinsk</span>,  
 *May* 31, 1858.
@@ -1110,9 +1113,9 @@ I am weary of waiting for my leave.
 
 ### Letter 29: Michael Dostoevsky
 
-### XXIX
+#### XXIX
 
-### *To his Brother Michael*
+#### *To his Brother Michael*
 
 <span class="small-caps">Semipalatinsk</span>,  
 <span class="small-caps">May</span> 9, 1859.
@@ -1136,9 +1139,9 @@ I am now finishing a story for Katkov[^fn-p0133-1] ; it has got quite long—fou
 
 ### Letter 30: Fyodor Dostoevsky → Frau Stackenschneider
 
-### XXX
+#### XXX
 
-### *To Frau Stackenschneider*
+#### *To Frau Stackenschneider*
 
 [<span class="small-caps">Petersburg</span>],  
 *May 3,* 1860.
@@ -1155,9 +1158,9 @@ We are thinking of starting a serious literary enterprise. We are all very busy 
 
 ### Letter 31: Mme. V. D. Constantine
 
-### XXXI
+#### XXXI
 
-### *To Mme. V. D. Constantine*[^fn-p0136-1]
+#### *To Mme. V. D. Constantine*[^fn-p0136-1]
 
 <span class="small-caps">Paris,</span>  
 *September* 1, 1862.
@@ -1172,9 +1175,9 @@ N.B.: Tell this to no one, dear Varvara Dmitryevna. You *can't*, it is true, tel
 
 ### Letter 32: N. N. Strachov
 
-### XXXII
+#### XXXII
 
-### *To N. N. Strachov*[^fn-p0138-1]
+#### *To N. N. Strachov*[^fn-p0138-1]
 
 <span class="small-caps">Rome</span>,  
 *September* 18 [30], 1863.
@@ -1193,9 +1196,9 @@ In short, I dare to hope that I shall succeed in depicting all these most absorb
 
 ### Letter 33: Fyodor Dostoevsky → A. P. Milyukov
 
-### XXXIII
+#### XXXIII
 
-### *To A. P. Milyukov*[^fn-p0141-1]
+#### *To A. P. Milyukov*[^fn-p0141-1]
 
 [Moscow],  
 *June*, 1866.
@@ -1218,7 +1221,7 @@ N.B. I have not had any attacks up to the present. I drink schnaps. How does it 
 
 ### Letter 34: Apollon Nikolayevitch Maikov
 
-### XXXIV *To Apollon Nikolayevitch Maikov*
+#### XXXIV<br />*To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Geneva,</span>  
 *August* 16 [28], 1867.
@@ -1259,9 +1262,9 @@ You well understand the basis of all my hopes: it is clear that *only under one 
 
 ### Letter 35: Fyodor Dostoevsky → Sofia Alexandrovna
 
-### XXXV
+#### XXXV
 
-### *To his Niece, Sofia Alexandrovna*
+#### *To his Niece, Sofia Alexandrovna*
 
 <span class="small-caps">Geneva,</span>  
 *September* 29 [*October* 11], 1867.
@@ -1280,9 +1283,9 @@ Your very loving
 
 ### Letter 36: Apollon Nikolayevitch Maikov
 
-### XXXVI
+#### XXXVI
 
-### *To Apollon Nikolayevitch Maikov*
+#### *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Geneva</span>,  
 *October* 9 [21], 1867.
@@ -1301,9 +1304,9 @@ What will happen now in politics? In what will all our anticipations end? Napole
 
 ### Letter 37: P. A. Issayev
 
-### XXXVII
+#### XXXVII
 
-### *To his Stepson, P. A. Issayev*
+#### *To his Stepson, P. A. Issayev*
 
 <span class="small-caps">Geneva</span>,  
 *October* 10 [22], 1867.
@@ -1312,9 +1315,9 @@ Your letter, dear boy, uncommonly delighted me. If you thought that I should for
 
 ### Letter 38: Fyodor Dostoevsky → Vera / Alexander Pavlovitch Ivanov
 
-### XXXVIII
+#### XXXVIII
 
-### *To his Sister Vera, and his Brother-in-Law Alexander Pavlovitch Ivanov*
+#### *To his Sister Vera, and his Brother-in-Law<br />Alexander Pavlovitch Ivanov*
 
 <span class="small-caps">Geneva</span>,  
 *January* 1 [13], 1868.
@@ -1340,9 +1343,9 @@ Your
 
 ### Letter 39: Fyodor Dostoevsky → Sofia Alexandrovna
 
-### XXXIX
+#### XXXIX
 
-### *To his Niece Sofia Alexandrovna*
+#### *To his Niece Sofia Alexandrovna*
 
 <span class="small-caps">Geneva,</span>  
 *January* 1 [13], 1868.
@@ -1363,9 +1366,9 @@ I embrace and kiss you. Your ever friendly inclined
 
 ### Letter 40: P. A. Issayev
 
-### XL
+#### XL
 
-### *To his Stepson, P. A. Issayev*
+#### *To his Stepson, P. A. Issayev*
 
 <span class="small-caps">Geneva</span>,  
 *February* 19 [*March* 3], 1868.
@@ -1374,9 +1377,9 @@ Don't reproach me and don't be angry with me, my ever dear Pasha, because I send
 
 ### Letter 41: Apollon Nikolayevitch Maikov
 
-### XLI
+#### XLI
 
-### *To Apollon Nikolayevitch Maikov*
+#### *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Geneva</span>,  
 *May* 18 [30], 1868.
@@ -1395,9 +1398,9 @@ I thank you for consenting to be godfather to the little one. She was baptized a
 
 ### Letter 42: Apollon Nikolayevitch Maikov
 
-### XLII
+#### XLII
 
-### *To Apollon Nikolayevitch Maikov*
+#### *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Vevey</span>,  
 *June* 10 [22], 1868.
@@ -1420,9 +1423,9 @@ In the four chapters that you will read in the June number (perhaps there may be
 
 ### Letter 43: Apollon Nikolayevitch Maikov
 
-### XLIII
+#### XLIII
 
-### *To Apollon Nikolayevitch Maikov*
+#### *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Milan</span>,  
 *October* 7 [19], 1868.
@@ -1435,9 +1438,9 @@ The book about which you write I had shortly before read,[^fn-p0184-1] and I mus
 
 ### Letter 44: Fyodor Dostoevsky → Sofia Alexandrovna
 
-### XLIV
+#### XLIV
 
-### *To his Niece Sofia Alexandrovna*
+#### *To his Niece Sofia Alexandrovna*
 
 <span class="small-caps">Milan</span>,  
 *October* 26 [*November* 7], 1868
@@ -1468,9 +1471,9 @@ Your friend and brother,
 
 ### Letter 45: Apollon Nikolayevitch Maikov
 
-### XLV
+#### XLV
 
-### *To Apollon Nikolayevitch Maikov*
+#### *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Florence,</span>  
 *December* 11 [23], 1868.
@@ -1494,9 +1497,9 @@ In the meantime I’ve got to live somehow. I don’t mean to hurry my “Atheis
 
 ### Letter 46: Fyodor Dostoevsky → Sofia Alexandrovna
 
-### XLVI
+#### XLVI
 
-### *To his Niece Sofia Alexandrovna*
+#### *To his Niece Sofia Alexandrovna*
 
 <span class="small-caps">Florence</span>,  
 *January 25 [February* 6], 1869.
@@ -1525,9 +1528,9 @@ P.S. My address is Florence, *poste restante.* I hear that an enormous lot of le
 
 ### Letter 47: Nikolay Nikolayevitch Strachov
 
-### XLVII
+#### XLVII
 
-### *To Nikolay Nikolayevitch Strachov*
+#### *To Nikolay Nikolayevitch Strachov*
 
 <span class="small-caps">Florence</span>,  
 *February* 26 [*March* 10], 1869.
@@ -1542,9 +1545,9 @@ The Russians are often unjustly reproached with beginning all sorts of things, m
 
 ### Letter 48: Fyodor Dostoevsky → Sofia Alexandrovna
 
-### XLVIII
+#### XLVIII
 
-### *To his Niece Sofia Alexandrovna*
+#### *To his Niece Sofia Alexandrovna*
 
 <span class="small-caps">Florence</span>,  
 *March* 8 [20], 1869.
@@ -1575,9 +1578,9 @@ Wholly yours,
 
 ### Letter 49: Nikolay Nikolayevitch Strachov
 
-### XLIX
+#### XLIX
 
-### *To Nikolay Nikolayevitch Strachov*
+#### *To Nikolay Nikolayevitch Strachov*
 
 <span class="small-caps">Florence</span>,  
 *March* 18 [30], 1869.
@@ -1588,9 +1591,9 @@ Wholly yours,
 
 ### Letter 50: Fyodor Dostoevsky → Sofia Alexandrovna
 
-### L
+#### L
 
-### *To his Niece Sofia Alexandrovna*
+#### *To his Niece Sofia Alexandrovna*
 
 <span class="small-caps">Dresden</span>,  
 *August* 29 [*September* 10], 1869.
@@ -1615,9 +1618,9 @@ Your ever devoted
 
 ### Letter 51: Fyodor Michailovitch Dostoevsky → Apollon Nikolayevitch Maikov
 
-### LI
+#### LI
 
-### *To Apollon Nikolayevitch Maikov*
+#### *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Dresden</span>,  
 *October* 16 [28], 1869.
@@ -1634,9 +1637,9 @@ He requests me to explain by telegram what my first telegram meant, and adds: �
 
 ### Letter 52: Fyodor Michailovitch Dostoevsky → Apollon Nikolayevitch Maikov
 
-### LII
+#### LII
 
-### *To Apollon Nikolayevitch Maikov*
+#### *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Dresden</span>,  
 *February* 12 [24], 1870.
@@ -1647,9 +1650,9 @@ My attacks, after a long respite, are now coming on me terribly again, and distu
 
 ### Letter 53: Fyodor Michailovitch Dostoevsky → Nikolay Nikolayevitch Strachov
 
-### LIII
+#### LIII
 
-### *To Nikolay Nikolayevitch Strachov*
+#### *To Nikolay Nikolayevitch Strachov*
 
 <span class="small-caps">Dresden</span>,  
 *February* 26 [*March* 10], 1870.
@@ -1668,7 +1671,7 @@ So I await your answer; and make you, besides, one great and urgent request: Sen
 
 ### Letter 54: Fyodor Michailovitch Dostoevsky → Nikolay Nikolayevitch Strachov
 
-### LIV *To Nikolay Nikolayevitch Strachov*
+#### LIV<br />*To Nikolay Nikolayevitch Strachov*
 
 <span class="small-caps">Dresden</span>,  
 *March* 24 [*April* 5], 1870.
@@ -1690,9 +1693,9 @@ You maintain, among other things, that Tolstoy is equal to any of our greatest w
 
 ### Letter 55: Fyodor Michailovitch Dostoevsky → Apollon Nikolayevitch Maikov
 
-### LV
+#### LV
 
-### *To Apollon Nikolayevitch Maikov*
+#### *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Dresden,</span>  
 *March* 25 [*April* 6], 1870.
@@ -1705,9 +1708,9 @@ Nihilism isn't worth talking about. Only wait until this scum that has cut itsel
 
 ### Letter 56: Fyodor Dostoevsky / Anya / Lyuba → Vera / Sofia Alexandrovna
 
-### LVI
+#### LVI
 
-### *To his Sister Vera, and his Niece Sofia Alexandrovna*
+#### *To his Sister Vera, and his Niece Sofia<br />Alexandrovna*
 
 <span class="small-caps">Dresden</span>,  
 *May* 7 [19], 1870.
@@ -1726,9 +1729,9 @@ In truest love :
 
 ### Letter 57: Fyodor Michailovitch Dostoevsky → Nikolay Nikolayevitch Strachov
 
-### LVII
+#### LVII
 
-### *To Nikolay Nikolayevitch Strachov*
+#### *To Nikolay Nikolayevitch Strachov*
 
 <span class="small-caps">Dresden,</span>  
 *June* 11 [23], 1870.
@@ -1739,9 +1742,9 @@ By chance the *Viestnik Europi* [^fn-p0230-1] for the current year fell into my 
 
 ### Letter 58: Fyodor Dostoevsky → Sofia Alexandrovna
 
-### LVIII
+#### LVIII
 
-### *To his Niece Sfioa Alexandrovna*
+#### *To his Niece Sfioa Alexandrovna*
 
 <span class="small-caps">Dresden</span>,  
 *July* 2 [14], 1870.
@@ -1774,9 +1777,9 @@ P.S. If I get no answer to this letter, I shall conclude that it has not reached
 
 ### Letter 59: Fyodor Dostoevsky → Sofia Alexandrovna
 
-### LIX
+#### LIX
 
-### *To his Niece Sofia Alexandrovna*
+#### *To his Niece Sofia Alexandrovna*
 
 <span class="small-caps">Dresden,</span>  
 *August* 17 [29], 1870.
@@ -1823,9 +1826,9 @@ Your
 
 ### Letter 60: Fyodor Michailovitch Dostoevsky → Nikolay Nikolayevitch Strachov
 
-### LX
+#### LX
 
-### *To Nikolay Nikolayevitch Strachov*
+#### *To Nikolay Nikolayevitch Strachov*
 
 <span class="small-caps">Dresden</span>,  
 *October* 9 [21], 1870
@@ -1836,9 +1839,9 @@ I have not written to you till now, because I have been uninterruptedly occupied
 
 ### Letter 61: Fyodor Michailovitch Dostoevsky → Apollon Nikolayevitch Maikov
 
-### LXI
+#### LXI
 
-### *To Apollon Nikolayevitch Maikov*
+#### *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Dresden</span>,  
 *December* 15 [27], 1870.
@@ -1849,9 +1852,9 @@ I have undertaken a task to which my powers are not equal. I attacked a big nove
 
 ### Letter 62: Dostoevsky → Apollon Nikolayevitch Maikov
 
-### LXII
+#### LXII
 
-### *To Apollon Nikolayevitch Maikov*
+#### *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Dresden</span>,  
 *December* 30, 1870.
@@ -1872,9 +1875,9 @@ Your
 
 ### Letter 63: Fyodor Michailovitch Dostoevsky → Apollon Nikolayevitch Maikov
 
-### LXIII
+#### LXIII
 
-### *To Apollon Nikolayevitch Maikov*
+#### *To Apollon Nikolayevitch Maikov*
 
 <span class="small-caps">Dresden,</span>  
 *March* 2 [14], 1871.
@@ -1889,9 +1892,9 @@ Only think : I have already had letters from several quarters congratulating me 
 
 ### Letter 64: Fyodor Dostoevsky → Nikolay Nikolayevitch Strachov
 
-### LXIV
+#### LXIV
 
-### *To Nikolay Nikolayevitch Strachov*
+#### *To Nikolay Nikolayevitch Strachov*
 
 <span class="small-caps">Dresden</span>,  
 *April* 23 [*May* 5], 1871.
@@ -1912,9 +1915,9 @@ I am your most devoted
 
 ### Letter 65: Fyodor Michailovitch Dostoevsky → Nikolay Nikolayevitch Strachov
 
-### LXV
+#### LXV
 
-### *To Nikolay Nikolayevitch Strachov*
+#### *To Nikolay Nikolayevitch Strachov*
 
 <span class="small-caps">Dresden</span>,  
 *May* 18 [30], 1871.
@@ -1937,9 +1940,9 @@ N.B. Dostoevsky did return to Petersburg on July 8, 1871.
 
 ### Letter 66: Fyodor Michailovitch Dostoevsky → Mme. Ch. D. Altschevsky
 
-### LXVI
+#### LXVI
 
-### *To Mme. Ch. D. Altschevsky.*
+#### *To Mme. Ch. D. Altschevsky.*
 
 <span class="small-caps">Petersburg,</span>  
 *April* 9, 1876.
@@ -1964,9 +1967,9 @@ But I have written too much about all this. The truth is, I find it terribly dif
 
 ### Letter 67: Fyodor Michailovitch Dostoevsky → Vsevolod Solovyov
 
-### LXVII
+#### LXVII
 
-### *To Vsevolod Solovyov*[^fn-p0263-1]
+#### *To Vsevolod Solovyov*[^fn-p0263-1]
 
 <span class="small-caps">Ems</span>,  
 *July*, 1876.
@@ -1977,7 +1980,9 @@ The June number of the *Diary* pleased you, then. I am glad of that, and for a s
 
 And then there happened precisely what I had expected: even those newspapers and magazines which are friendly to me raised an outcry, saying that my whole article was hopelessly paradoxical; while the others bestowed not the smallest attention on it—and here am I, who believe that I have opened up the most important of all questions! That's what happens when one attempts to carry an idea to its issue! One may set up any paradox one likes, and so long as one doesn't carry it to its ultimate conclusion, everyone will think it most subtle, witty, *comme il faut;* but once blurt out the last word, and quite frankly (not by implication) declare: "This is the Messiah!" why, nobody will believe in you any more—for it was so silly of you to push your idea to its ultimate conclusion! If many a famous wit, such as Voltaire, had resolved for once to rout all hints, allusions, and esotericisms by force of his genuine beliefs, to show the real Himself, he would quite certainly not have had a tithe of the success he enjoyed. He would merely have been laughed at. For man instinctively avoids saying his last word; he has a prejudice against "thoughts said."
 
-"Once said, the thought turns lie!"[^fn-p0264-1]
+> **[verse_insert]**
+>
+> "Once said, the thought turns lie!"[^fn-p0264-1]
 
 Now you can judge for yourself how precious to me are your friendly expressions about the June number. For you have understood my words and taken them exactly as I thought them myself. I thank you for that; for I was already a little disillusioned, and was reproving myself for my precipitancy. If there are but a few members of the public who understand me as you do, I have done what I aimed at doing, and am content—my words have not been in vain. . . . But the rest at once proclaimed with cries of joy: “ He *is* so frightfully paradoxical !” And the folk who say it are precisely those who never had an idea of their own in their lives. . . .
 
@@ -1985,7 +1990,7 @@ I remain here till August 7 (Old Style). I am drinking the waters, and indeed wo
 
 ### Letter 68: Fyodor Michailovitch Dostoevsky → Mlle. Gerassimov
 
-### LXVIII *To Mlle. Gerassimov*
+#### LXVIII<br />*To Mlle. Gerassimov*
 
 <span class="small-caps">Petersburg</span>,  
 *March* 7, 1877.
@@ -2000,9 +2005,9 @@ I did not think your letter by any means *childish* or *stupid*, as you assume. 
 
 ### Letter 69: Fyodor Dostoevsky → Alexander Pavlovitch
 
-### LXIX
+#### LXIX
 
-### *To A. P. N.*
+#### *To A. P. N.*
 
 *May* 19, 1877.
 
@@ -2022,9 +2027,9 @@ Your
 
 ### Letter 70: F. Dostoevsky → N. L. Osmidov
 
-### LXX
+#### LXX
 
-### *To N. L. Osmidov*
+#### *To N. L. Osmidov*
 
 <span class="small-caps">Petersburg,</span>  
 *February,* 1878.
@@ -2043,9 +2048,9 @@ F. <span class="small-caps">Dostoevsky.</span>
 
 ### Letter 71: Fyodor Dostoevsky → a Mother
 
-### LXXI
+#### LXXI
 
-### *To a Mother*
+#### *To a Mother*
 
 <span class="small-caps">Petersburg,</span>  
 *March* 27, 1878.
@@ -2074,9 +2079,9 @@ P.S. Peter the Great, with his revenue of one and a half millions, might well ha
 
 ### Letter 72: Fyodor Dostoevsky → a Group of Moscow Students
 
-### LXXII
+#### LXXII
 
-### *To a Group of Moscow Students*[^fn-p0277-1]
+#### *To a Group of Moscow Students*[^fn-p0277-1]
 
 <span class="small-caps">Petersburg,</span>  
 *April* 18, 1878.
@@ -2119,9 +2124,9 @@ DOSTOEVSKY, PETERSBURG, 1879.
 
 ### Letter 73: F. Dostoevsky → Mlle. N. N.
 
-### LXXIII
+#### LXXIII
 
-### *To Mlle. N. N.*
+#### *To Mlle. N. N.*
 
 <span class="small-caps">Petersburg,</span>  
 *April* 11, 1880.
@@ -2138,9 +2143,9 @@ F. <span class="small-caps">Dostoevsky.</span>
 
 ### Letter 74: Dostoevsky → Frau E. A. Stackenschneider
 
-### LXXIV
+#### LXXIV
 
-### *To Frau E. A. Stackenschneider*
+#### *To Frau E. A. Stackenschneider*
 
 <span class="small-caps">Staraya-Roussa,</span>  
 *July* 17, 1880.
@@ -2165,9 +2170,9 @@ Your devoted
 
 ### Letter 75: F. Dostoevsky → N. L. Osmidov
 
-### LXXV
+#### LXXV
 
-### *To N. L. Osmidov*
+#### *To N. L. Osmidov*
 
 <span class="small-caps">Staraya-Roussa,</span>  
 *August* 18, 1880.
@@ -2186,9 +2191,9 @@ F. <span class="small-caps">Dostoevsky.</span>
 
 ### Letter 76: F. Dostoevsky → I. S. Aksakov
 
-### LXXVI
+#### LXXVI
 
-### *To I. S. Aksakov*
+#### *To I. S. Aksakov*
 
 <span class="small-caps">Staraya-Roussa,</span>  
 *August* 28, 1880.
@@ -2205,9 +2210,9 @@ F. <span class="small-caps">Dostoevsky.</span>
 
 ### Letter 77: Fyodor Dostoevsky → Doctor A. F. Blagonravov
 
-### LXXVII
+#### LXXVII
 
-### *To Doctor A. F. Blagonravov*[^fn-p0299-1]
+#### *To Doctor A. F. Blagonravov*[^fn-p0299-1]
 
 <span class="small-caps">Petersburg,</span>  
 *December* 19, 1880.
@@ -2335,9 +2340,9 @@ Yours most faithfully
 
 ## Recollections of Dostoevsky by his Friends
 
-### FROM THE REMINISCENCES OF D. V. GRIGOROVITCH
+#### FROM THE REMINISCENCES OF<br />D. V. GRIGOROVITCH
 
-### 1837—1846
+##### 1837—1846
 
 <span class="small-caps">It</span> is a mystery to me to this day how I, innately the most extraordinarily nervous and timid of boys, ever got through my first year in the College of Engineering, where one's comrades were far more ruthless and cruel even than one's teachers.
 
@@ -2404,9 +2409,9 @@ This last reproach, if it *is* a reproach for a novice, was not quite unjustifie
 
 Once, I forget why, he and I fell out. The consequence was that we decided to give up living together. But we parted on good terms. Later I often met him with acquaintances, and we treated one another as old friends.
 
-### FROM THE REMINISCENCES OF A. P. MILYUKOV
+### FROM THE REMINISCENCES OF<br />A. P. MILYUKOV
 
-### 1848—1849
+##### 1848—1849
 
 <span class="small-caps">I made</span> Dostoevsky's acquaintance in the winter of 1848. That was a momentous period for enthusiastic and cultured youth. After the February Revolution in Paris, the reforms of Pius IX., the risings in Milan, Venice, and Naples, the victory of liberal ideas in Germany and the revolutions of Berlin and Vienna, everyone believed in the renaissance of the whole European world. The rotted pillars of reaction were crumbling one after the other, and all over Europe new life seemed to be in bud. Yet in Russia, at that time, prevailed the most crushing reaction: Science, no less than the Press, could hardly breathe beneath the heavy yoke of the administration, and every sign of mental vitality was stifled. From abroad, a quantity of liberal writings, partly scientific, partly literary, were smuggled into the country. In the French and German papers, people, despite the Censorship, were reading stirring articles; but among ourselves all scientific and literary activity was rendered well-nigh impossible, and the Censorship tore each new book to pieces. Naturally all this had a highly exciting effect upon the younger generation, who on the one hand were, through these foreign books and journals, making acquaintance not only with Liberal ideas, but with the most extreme Socialist doctrine ; and on the other, were finding that the most harmless notions of Liberalism were relentlessly persecuted in their own country—they would read the flaming speeches made in the French Chamber and at Frankfort, and at the same time see how, among ourselves, someone was punished like a criminal every day for an incautious word or a “ forbidden ” book. Almost every foreign post brought news of fresh rights gained for themselves by the people, while in Russian society one heard only of fresh “ special decrees ” and persecutions. All who remember that time will know the effect this had upon the younger generation.
 
@@ -2446,9 +2451,9 @@ He gave one the impression of regarding the impending punishment as a pleasure-t
 
 This final meeting lasted over half-an-hour; although we spoke of many things, the time seemed short. The melancholy bell was sounding again when the Major entered, and said the interview was at an end. For the last time we embraced. I did not then imagine that I should never see Dourov again, and Fyodor Dostoevsky only after eight years
 
-### FROM THE MEMORANDA OF P. K. MARTYANOV,[^fn-p0326-1] AT THE HOUSE OF THE DEAD
+### FROM THE MEMORANDA OF P. K.<br />MARTYANOV,[^fn-p0326-1] AT THE HOUSE<br />OF THE DEAD
 
-### 1850—1854
+##### 1850—1854
 
 <span class="small-caps">The</span> hardest office which was assigned to us who had been transferred on punishment was keeping guard in the prison. It was the same one that Dostoevsky has described in his “ House of the Dead.” Of those who had been implicated in the Petrachevsky affair, there were then in the prison Fyodor Michailovitch Dostoevsky and Sergey Fyodorovitch Dourov. Whether they had formerly been much known in Petersburg, we are not aware; but during their stay in the prison their Petersburg friends took the greatest interest in them, and did everything possible to alleviate their lot.
 
@@ -2474,7 +2479,7 @@ Once when Dostoevsky had remained behind in the prison for “ house-work,” th
 
 While he was being dragged from his plank and pushed along to the guard-room, the cadet despatched an exempt to the Commandant with a report of the occurrence. General de Grave came at once to the guard-room and stopped the whipping ; while to Major Krivzov he administered a public reprimand, and gave orders that in no circumstances were ailing prisoners to be subjected to corporal punishment.
 
-### FROM THE REMINISCENCES OF BARON ALEXANDER VRANGEL[^fn-p0333-1] 1854—1865
+### FROM THE REMINISCENCES OF BARON<br />ALEXANDER VRANGEL[^fn-p0333-1]<br />1854—1865
 
 <span class="small-caps">When</span> I lived in Petersburg before my transfer to Siberia, I was not acquainted with Fyodor Dostoevsky, though I knew his favourite brother, Michael. I went to see the latter before I left ; when I told him that I was going to Siberia, he begged me to take with me for his brother, a letter, some linen, some books, and fifty roubles. Apollon Maikov also gave me a letter for Fyodor Dostoevsky.
 
@@ -2584,8 +2589,10 @@ I was invited to lunch with the other officials at the Governor's. I had known h
 
 At table the Governor assumed quite a different tone, and behaved like an ordinary mortal. He seemed in good spirits, asked me about my acquaintances, and let fall the remark that he was well aware of my relations with Dostoevsky. I made up my mind to play upon his better temper, and win him to Dostoevsky's cause. Dostoevsky had shortly before written a poem on the death of Tsar Nicholas I.; we wanted to send it through General Hasford to the widowed Tsarina. The poem began, if I remember rightly, in this way:
 
-“ As evening-red dies in the heavens,  
-So sank thy glorious spouse to rest. . .”
+> **[verse_insert]**
+>
+> “ As evening-red dies in the heavens,  
+> So sank thy glorious spouse to rest. . .”
 
 To my most respectfully proffered request, Hasford replied with an energetic “ No,” and added: “ I'll do nothing for a whilom enemy of the Government. But if they take him up in Petersburg of their own accord, I shall put no obstacle in the way.”
 
@@ -2599,8 +2606,10 @@ I was invited to lunch with the other officials at the Governor's. I had known h
 
 At table the Governor assumed quite a different tone, and behaved like an ordinary mortal. He seemed in good spirits, asked me about my acquaintances, and let fall the remark that he was well aware of my relations with Dostoevsky. I made up my mind to play upon his better temper, and win him to Dostoevsky's cause. Dostoevsky had shortly before written a poem on the death of Tsar Nicholas I.; we wanted to send it through General Hasford to the widowed Tsarina. The poem began, if I remember rightly, in this way:
 
-“ As evening-red dies in the heavens,  
-So sank thy glorious spouse to rest. . .”
+> **[verse_insert]**
+>
+> “ As evening-red dies in the heavens,  
+> So sank thy glorious spouse to rest. . .”
 
 To my most respectfully proffered request, Hasford replied with an energetic “ No,” and added: “ I'll do nothing for a whilom enemy of the Government. But if they take him up in Petersburg of their own accord, I shall put no obstacle in the way.”
 
@@ -2638,11 +2647,15 @@ In February I came to Petersburg. And now began an unbroken correspondence betwe
 
 I had known Count Eduard Ivanovitch Totleben from my school-days ; and had often met him at the house of my great-uncle Manderstyerna, then Commandant of the Petropaulovsky Fortress. He had attended the College of Engineering at the same time as Dostoevsky, and his brother Adolf had even been intimate with the latter. Directly I arrived in Petersburg I looked up Totleben, told him of Dostoevsky's insupportable lot, and begged for his support. I visited his brother Adolf also. Both showed warm sympathy for Dostoevsky, and promised me to do all they could. The name of Totleben was then in everyone's mouth, not only in Russia, but over all Europe. As a private individual, he was unusually attractive. The high honours with which he had been overwhelmed, had altered his character in no wise. He was still the same friendly, good-humoured, and humane person as when I had known him before the war. He did much for Dostoevsky by his intercession with Prince Orlov and other powerful men in Petersburg.
 
-Dostoevsky esteemed Totleben very highly, and was much moved by his sympathy. In his letter to me of March 23, 1856, he writes: “He is through and through of knightly, noble, and generous nature. You can’t at all imagine with what joy I am following all that such splendid fellows as you and the Totleben brothers are doing for me.”
+> **[letter_excerpt]**
+>
+> Dostoevsky esteemed Totleben very highly, and was much moved by his sympathy. In his letter to me of March 23, 1856, he writes: “He is through and through of knightly, noble, and generous nature. You can’t at all imagine with what joy I am following all that such splendid fellows as you and the Totleben brothers are doing for me.”
 
 But the greatest influence on Dostoevsky’s fate was that of Prince Peter von Oldenburg. He had known me since my school-days. He was Proctor of the school, and came there nearly every day. And now, therefore, I was called upon again to turn to Adolf Henselt. I delivered to the Prince, through Henselt, the new poem that Dostoevsky had written on the Coronation. He mentions this poem in his letter to me of May 23, 1856:
 
-> “It would be, I think, clumsy to try unofficially for permission to publish my works, unless I offer a poem at the same time. Read the enclosed, then; paraphrase it, and try to bring it under the monarch’s notice in some way or other.”
+> **[letter_excerpt]**
+>
+> > “It would be, I think, clumsy to try unofficially for permission to publish my works, unless I offer a poem at the same time. Read the enclosed, then; paraphrase it, and try to bring it under the monarch’s notice in some way or other.”
 
 I did all I could. The Prince gave the poem to the Tsarina Maria Alexandrovna; whether it ever reached the Tsar’s hands, I know not.
 
@@ -2678,9 +2691,11 @@ Even a perfectly sound man could not have borne the harassed life that Dostoevsk
 
 He told me of one incident, among others, which will show how nervous and irritable he sometimes was. When in Paris, it had occurred to him to pay a visit to Rome. To do this, he had to have his passport signed by the Papal Nuncio in Paris. Dostoevsky went twice to the Nuncio's, but on neither occasion found him. When he went for the third time, he was received by a young abbé, who asked him to wait a while, as Monsignor was just breakfasting, and would take his coffee first. Dostoevsky leaped up as though gone suddenly crazy, and cried: "*Dites à votre Monseigneur, que je crache dans son café—qu'il me signe mon passeport, ou je me précipiterai chez lui avec scandale!*" The young abbé stared at him in consternation; he rushed into his chief's apartment, came back with another abbé, and requested our Fyodor Michailovitch to clear out at once, and let the porter of his hotel come and see about the passport.
 
-"Yes—I was too hot-tempered that time!" concluded Dostoevsky, with a shy smile. But evidently this irritability long endured ; for in one of his later letters he writes : “ I have become frightfully nervous and irritable ; my character gets worse every day, and I can’t imagine what it will end in.”[^fn-p0366-1]
+> **[letter_excerpt]**
+>
+> "Yes—I was too hot-tempered that time!" concluded Dostoevsky, with a shy smile. But evidently this irritability long endured ; for in one of his later letters he writes : “ I have become frightfully nervous and irritable ; my character gets worse every day, and I can’t imagine what it will end in.”[^fn-p0366-1]
 
-### <span class="small-caps">FROM THE REMINISCENCES OF SOPHIE KOVALEVSKY</span>[^fn-p0367-1] 1866
+### <span class="small-caps">FROM THE REMINISCENCES OF<br />SOPHIE KOVALEVSKY</span>[^fn-p0367-1]<br />1866
 
 <span class="small-caps">Anyuta</span> was so delighted by her first literary success that she at once began another story. The hero of this tale was a young man who had been brought up far away from home in a monastery by his uncle, a monk. The hero, whose name was Michael, had some resemblance to Alyosha in the “ Brothers Karamazov.” When I read that novel, some years afterwards, I was instantly struck by the resemblance ; I spoke of it to Dostoevsky, whom I very often met at that time.
 
@@ -2824,9 +2839,9 @@ After about six months, Dostoevsky wrote to my sister to say that he had learned
 
 ### Letter 78: R. P. Pobyedonoszev → I. S. Aksakov
 
-### I
+#### I
 
-### *R. P. Pobyedonoszev*[^fn-p0379-1] *to I. S. Aksakov*
+#### *R. P. Pobyedonoszev*[^fn-p0379-1] *to I. S. Aksakov*
 
 “ *January* 30, 1881.
 
@@ -2836,9 +2851,9 @@ After about six months, Dostoevsky wrote to my sister to say that he had learned
 
 ### Letter 79: I. S. Aksakov → R. P. Pobyedonoszev
 
-### II
+#### II
 
-### *I. S. Aksakov to R. P. Pobyedonoszev*
+#### *I. S. Aksakov to R. P. Pobyedonoszev*
 
 “ <span class="small-caps">Moscow</span>,  
 “ *February*, 1881.
@@ -2851,13 +2866,13 @@ After about six months, Dostoevsky wrote to my sister to say that he had learned
 
 ### Letter 80: Turgenev → Slutchevsky
 
-### *Letter to Slutchevsky of December* 26, 1861
+#### *Letter to Slutchevsky of December* 26, 1861
 
 “My Bazarov, or to speak more precisely, my intentions, only two men have comprehended: Dostoevsky and Botkin.”
 
 ### Letter 81: Turgenev → Dostoevsky
 
-### *Letter to Dostoevsky of December* 26, 1861
+#### *Letter to Dostoevsky of December* 26, 1861
 
 “I am reading with great enjoyment your ‘House of the Dead.’ The description of the *bath* is worthy of a Dante; in several figures (for example, in Petrov) there are many most authentic psychological subtleties. I am truly rejoiced at the success of your journal, and repeat that I shall always be glad to give it a helping hand.”
 
@@ -2867,7 +2882,7 @@ DOSTOEVSKY ON HIS DEATH-BED, JANUARY 29, 1881.
 
 ### Letter 82: Turgenev → Polonsky
 
-### *Letter to Polonsky of April* 24, 1871
+#### *Letter to Polonsky of April* 24, 1871
 
 “ I am told that Dostoevsky has immortalized me in his novel ;[^fn-p0383-1] I don’t mind, if he likes to do that sort of thing. . . .”
 
@@ -2875,7 +2890,7 @@ DOSTOEVSKY ON HIS DEATH-BED, JANUARY 29, 1881.
 
 ### Letter 83: Turgenev → Mme. Milyutin
 
-### *Letter to Mme. Milyutin of December* 3, 1872
+#### *Letter to Mme. Milyutin of December* 3, 1872
 
 “ <span class="small-caps">My dear Maria Aggeyevna,</span>
 
@@ -2883,23 +2898,23 @@ DOSTOEVSKY ON HIS DEATH-BED, JANUARY 29, 1881.
 
 ### Letter 84: Turgenev → Saltykov
 
-### *Letter to Saltykov of November* 25, 1875
+#### *Letter to Saltykov of November* 25, 1875
 
 “ The theme of Goncourt’s novel is very daring. As he says himself, the book is the fruit of a close scientific study of the life of prostitutes. But at all events, it’s something very different from Dostoevsky’s ‘ Hobbledehoy.’ I glanced at that chaos in the last number of the *Otetschestvennia Zapiski ;* my God, what a welter of hospital stinks ! What a vain and incomprehensible stuttering ; what a psychological rubbish-heap ! . . .”
 
 ### Letter 85: Turgenev → Saltykov
 
-### *Letter to Saltykov of September* 24, 1882
+#### *Letter to Saltykov of September* 24, 1882
 
 “ I also read Michailovsky’s article on Dostoevsky. He has rightly divined the characteristic mark of Dostoevsky’s creative work. In French literature, too, there was a like case — namely, the famous Marquis de Sade. This latter depicts in his ‘ Tourments et Supplices ’ the sensual pleasure afforded by the infliction of refined tortures. And Dostoevsky, in one of his books, enlarges on the same sort of delights. . . . And when one thinks that all the Russian Bishops said masses for the soul of *this* Marquis de Sade, and even preached sermons about his great love for all mankind ! Truly, we live in a remarkable age.”
 
 ### IV
 
-### <span class="small-caps">Leo Tolstoy on Dostoevsky</span>
+#### <span class="small-caps">Leo Tolstoy on Dostoevsky</span>
 
 ### Letter 86: Leo Tolstoy → A. N. Strachov
 
-### *From Tolstoy’s Letters to A. N. Strachov*
+#### *From Tolstoy’s Letters to A. N. Strachov*
 
 “*September* 26, 1880.
 

@@ -25,7 +25,7 @@
   "letters": 56,
   "notes": 9,
   "pages": 342,
-  "dated_letters": 37
+  "dated_letters": 39
  },
  "provenance_tier": "machine_checked",
  "quality": {
@@ -461,7 +461,7 @@
  "year_counts": [
   [
    1869,
-   2
+   4
   ],
   [
    1870,
@@ -503,27 +503,27 @@
   {
    "format": "epub",
    "file": "nietzsche-wagner-1921.epub",
-   "bytes": 332489,
-   "sha256": "f434fdacfbcf714ddfdc88aef74315ceb47bd105c25e8efb61ffcf6b2e079e15"
+   "bytes": 332595,
+   "sha256": "83f8a19128e1fbbd55f640a46720451679bf7b0aa967ced1df6f32ab2cdf8a28"
   },
   {
    "format": "markdown",
    "file": "nietzsche-wagner-1921.md",
-   "bytes": 516862,
-   "sha256": "dc0df456b6ef8c2a7728aa2d40452a4e58fc4496b78c5abeb3fc4d2189de218e"
+   "bytes": 517412,
+   "sha256": "472046f6f514f7bc2fa28a65b77768ac33ca58148f085088b7f594540de13d3e"
   },
   {
    "format": "tei",
    "file": "nietzsche-wagner-1921.tei.xml",
-   "bytes": 598225,
-   "sha256": "6b61e8f95cf3ff04981f80539858b1b154b88b6cecbcdb8da834f9f98b22786d"
+   "bytes": 598788,
+   "sha256": "a4c5fec1a3183f108c587e181d36468daec3052f668745efaaa4d7caadba9923"
   }
  ],
  "scan_base": "https://archive.org/download/nietzschewagnerc00niet/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:55:16Z",
-  "source_ast_sha256": "4a2ed83613845df99fd1fd557cbabe3ca1360cfbdec23473397772a8ef87953d",
+  "compiled_at": "2026-11-24T19:23:09Z",
+  "source_ast_sha256": "cf8c1702e7c5a9a9ad13b83d0822667b236cb3a1301dc023de33ababa444eb7b",
   "hugo_renderer_version": "1.0.0"
  }
 }

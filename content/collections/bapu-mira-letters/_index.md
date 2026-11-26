@@ -281,27 +281,27 @@
   {
    "format": "epub",
    "file": "bapu-mira-letters.epub",
-   "bytes": 275382,
-   "sha256": "5a2fb1c55b05cacd6a92dab788ff7c4c64ba975bac93694fd83fbcea75b1318d"
+   "bytes": 275484,
+   "sha256": "bf30236d8586c7ab9417d79897a7cd9b29024eb40f93b6956279582eb554d79c"
   },
   {
    "format": "markdown",
    "file": "bapu-mira-letters.md",
-   "bytes": 499159,
-   "sha256": "f88351e3e74bf4b5c54beba72bf9f989824a256af8524a40c0990597c82297a7"
+   "bytes": 499603,
+   "sha256": "ddaca376b1a3897b770f70120f1ad6b1fb669d4de73696e71303b413c931b184"
   },
   {
    "format": "tei",
    "file": "bapu-mira-letters.tei.xml",
-   "bytes": 773606,
-   "sha256": "31ca1bd714b08ecfa3b13e17047e9b71c3b2bfe9af1da25d86d38b6848b0a37b"
+   "bytes": 773884,
+   "sha256": "89fe636d1796a2c9f1f742e3d1939f3fa294972918b812e4e4036200cb4aa3f9"
   }
  ],
  "scan_base": "https://archive.org/download/bapusletterstomi00gand/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-22T08:47:00Z",
-  "source_ast_sha256": "971cafb5589fe7fe228f405404bb11ad34f983d3df9b232e99c7545c7455f724",
+  "compiled_at": "2026-11-24T19:21:32Z",
+  "source_ast_sha256": "168dd6b44f251e546d689a430c22fd55af4360948817b0e60a478318f1d2fa31",
   "hugo_renderer_version": "1.0.0"
  }
 }

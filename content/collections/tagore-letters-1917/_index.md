@@ -109,27 +109,27 @@
   {
    "format": "epub",
    "file": "tagore-letters-1917.epub",
-   "bytes": 43673,
-   "sha256": "7630a2379eb9da166137034cdd9f9bced3746b97f66edc1549419b9228c10755"
+   "bytes": 43763,
+   "sha256": "7eb28072d1d1be12082ccbcae980fbace8fd3583bae4057a482b07994d2574f7"
   },
   {
    "format": "markdown",
    "file": "tagore-letters-1917.md",
-   "bytes": 22573,
-   "sha256": "f239f3ef47e9ce67a3178223ccf89feeef2b45f53e98ed04989b36bc0b436f04"
+   "bytes": 22592,
+   "sha256": "379caff212d7ad4cd3fcdc4ebfe88bcfeaff7fd7cf3b8ed5ae566317d1380c68"
   },
   {
    "format": "tei",
    "file": "tagore-letters-1917.tei.xml",
-   "bytes": 31379,
-   "sha256": "012a658695a3c86a70193eadc50df4a8bfe53f5e56919986d8a28f080dbc5942"
+   "bytes": 31450,
+   "sha256": "64a5189107b4d3f5c61782e361efc2f254e444d020771f199c00e0246785fd65"
   }
  ],
  "scan_base": "https://archive.org/download/letters00tago/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:49:38Z",
-  "source_ast_sha256": "ba4c91e9abd7ecd043dd92294edc34197ed8fca1329696fe8aa40b078307240f",
+  "compiled_at": "2026-11-24T19:23:57Z",
+  "source_ast_sha256": "723060cbbc9d8944791424d23d55c76cf60a79e5ad03ad5f276f287b2b764a8f",
   "hugo_renderer_version": "1.0.0"
  }
 }

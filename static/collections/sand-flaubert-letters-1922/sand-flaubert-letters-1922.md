@@ -7,9 +7,9 @@
 
 ## Frontmatter
 
-### THE GEORGE SAND- GUSTAVE FLAUBERT LETTERS
+### THE GEORGE SAND-<br />GUSTAVE FLAUBERT LETTERS
 
-### THE GEORGE SAND– GUSTAVE FLAUBERT LETTERS
+### THE GEORGE SAND–<br />GUSTAVE FLAUBERT<br />LETTERS
 
 TRANSLATED BY  
 AIMEE L. McKENZIE
@@ -160,13 +160,13 @@ This is, if you please, an effusion of sentiment, a chant of faith. In a world m
 
 <span class="small-caps">Stuart P. Sherman</span>
 
-### THE GEORGE SAND- GUSTAVE FLAUBERT LETTERS
+### THE GEORGE SAND-<br />GUSTAVE FLAUBERT LETTERS
 
 ## THE GEORGE SAND- GUSTAVE FLAUBERT LETTERS
 
 ### Letter 1: Gustave Flaubert → George Sand
 
-### I. <span class="small-caps">To George Sand</span>
+#### I. <span class="small-caps">To George Sand</span>
 
 1863
 
@@ -184,7 +184,7 @@ It would be very delightful to have your portrait to hang on the wall in my stud
 
 ### Letter 2: George Sand → Gustave Flaubert
 
-### II. <span class="small-caps">To Gustave Flaubert</span>
+#### II. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 15 March, 1864
 
@@ -200,7 +200,7 @@ George Sand
 
 ### Letter 3: Gustave Flaubert → George Sand
 
-### III. <span class="small-caps">To George Sand</span>
+#### III. <span class="small-caps">To George Sand</span>
 
 Paris, 1866
 
@@ -212,7 +212,7 @@ At the present time I am disheartened by the populace which rushes by under my w
 
 ### Letter 4: Goulard → Gustave Flaubert
 
-### IV. <span class="small-caps">To M. Flobert (Justave) M. of Letters Boulevard du Temple, 42, Paris</span>
+#### IV. <span class="small-caps">To M. Flobert (Justave) M. of Letters Boulevard<br />du Temple, 42, Paris</span>
 
 Paris, 10 May, 1866
 
@@ -228,7 +228,7 @@ They told me that I was well punished for associating with the girls from the th
 
 ### Letter 5: Goulard the elder → Gustave Flaubert
 
-### V. <span class="small-caps">To Gustave Flaubert</span>
+#### V. <span class="small-caps">To Gustave Flaubert</span>
 
 1866
 
@@ -245,7 +245,7 @@ Have the goodness to transmit to Silvanit the last wishes of my poor Theodore.[^
 
 ### Letter 6: George Sand → Gustave Flaubert
 
-### VI. <span class="small-caps">To Gustave Flaubert</span>
+#### VI. <span class="small-caps">To Gustave Flaubert</span>
 
 Palaiseau 14 May, 1866
 
@@ -265,7 +265,7 @@ The elder Goulard is my little Lambert, it seems to me that he is quite literary
 
 ### Letter 7: George Sand → Gustave Flaubert
 
-### VII. <span class="small-caps">To Gustave Flaubert</span>
+#### VII. <span class="small-caps">To Gustave Flaubert</span>
 
 Palaiseau, Wednesday, 16 May, 1866
 
@@ -279,7 +279,7 @@ G. Sand
 
 ### Letter 8: Gustave Flaubert → George Sand
 
-### VIII. <span class="small-caps">To George Sand</span>
+#### VIII. <span class="small-caps">To George Sand</span>
 
 Paris, 17 or 18 May, 1866
 
@@ -291,7 +291,7 @@ G. Flaubert
 
 ### Letter 9: George Sand → Gustave Flaubert
 
-### IX. <span class="small-caps">To Gustave Flaubert</span>
+#### IX. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 31 July, 1866
 
@@ -303,7 +303,7 @@ The late Goulard, G. Sand.
 
 ### Letter 10: George Sand → Gustave Flaubert
 
-### X. <span class="small-caps">To Gustave Flaubert</span>
+#### X. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 4 Aug., 1866
 
@@ -315,7 +315,7 @@ Saturday evening.
 
 ### Letter 11: George Sand → Gustave Flaubert
 
-### XI. <span class="small-caps">To Gustave Flaubert</span>
+#### XI. <span class="small-caps">To Gustave Flaubert</span>
 
 It is next *Thursday*,
 
@@ -329,7 +329,7 @@ Sunday, 5 August, 1866.
 
 ### Letter 12: George Sand → Gustave Flaubert
 
-### XII. <span class="small-caps">To Gustave Flaubert</span>
+#### XII. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, Wednesday evening, 22 August, 1866
 
@@ -343,7 +343,7 @@ G. Sand
 
 ### Letter 13: George Sand → Gustave Flaubert
 
-### XIII. <span class="small-caps">To Gustave Flaubert</span>
+#### XIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Saint-Valéry, 26 August, 1866  
 Monday, 1 A. M.
@@ -354,7 +354,7 @@ G. Sand
 
 ### Letter 14: George Sand → Gustave Flaubert
 
-### XIV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### XIV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Paris, 31 August, 1866
 
@@ -376,7 +376,7 @@ I forgot to get three leaves from the tulip tree, you must send them to me in a 
 
 ### Letter 15: George Sand → Gustave Flaubert
 
-### XV.  <span class="small-caps">To Gustave Flaubert</span>
+#### XV.  <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 2 September, 1866
 
@@ -394,7 +394,7 @@ I forgot! Lévy promises to send you my complete works, they are endless. You mu
 
 ### Letter 16: George Sand → Gustave Flaubert
 
-### XVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### XVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 21 September, 1866
 
@@ -418,7 +418,7 @@ G. Sand
 
 ### Letter 17: Gustave Flaubert → George Sand
 
-### XVII. <span class="small-caps">To George Sand</span>
+#### XVII. <span class="small-caps">To George Sand</span>
 
 Croisset, 1866
 
@@ -434,7 +434,7 @@ I read, straight through, the 10 volumes of *Histoire de ma vie*, of which I kne
 
 ### Letter 18: George Sand → Gustave Flaubert
 
-### XVIII. <span class="small-caps">To Gustave Flaubert</span>
+#### XVIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 28 September, 1866
 
@@ -456,7 +456,7 @@ When will you come here?
 
 ### Letter 19: Gustave Flaubert → George Sand
 
-### XIX. <span class="small-caps">To George Sand</span>
+#### XIX. <span class="small-caps">To George Sand</span>
 
 Croisset, Saturday evening, . . . 1866
 
@@ -466,7 +466,7 @@ Of the two portraits, I like that of Couture’s the better. As for Marchal’s 
 
 ### Letter 20: Gustave Flaubert → George Sand
 
-### XX. <span class="small-caps">To George Sand</span>
+#### XX. <span class="small-caps">To George Sand</span>
 
 Croisset, Saturday evening, 1866
 
@@ -494,7 +494,7 @@ I embrace you very warmly, dear master.
 
 ### Letter 21: George Sand → Gustave Flaubert
 
-### XXI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### XXI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, Monday evening, 1 October, 1866
 
@@ -520,7 +520,7 @@ Summon me at the time of Bouilhet’s play. I shall be here, working hard, but r
 
 ### Letter 22: George Sand → Gustave Flaubert
 
-### XXII. <span class="small-caps">To Gustave Flaubert</span>
+#### XXII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 19 October
 
@@ -532,7 +532,7 @@ G. Sand
 
 ### Letter 23: George Sand → Gustave Flaubert
 
-### XXIII. <span class="small-caps">To Gustave Flaubert</span>
+#### XXIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 23 October, 1866
 
@@ -546,7 +546,7 @@ G. Sand
 
 ### Letter 24: George Sand → Gustave Flaubert
 
-### XXIV. <span class="small-caps">To Gustave Flaubert</span>
+#### XXIV. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 10 November, 1866
 
@@ -564,7 +564,7 @@ Have you a friend among the Rouen magistrates? If you have, write him a line to 
 
 ### Letter 25: George Sand → Gustave Flaubert
 
-### XXV. <span class="small-caps">To Gustave Flaubert</span>
+#### XXV. <span class="small-caps">To Gustave Flaubert</span>
 
 11 November, 1866
 
@@ -578,7 +578,7 @@ Paris, Sunday
 
 ### Letter 26: Gustave Flaubert → George Sand
 
-### XXVI. <span class="small-caps">To George Sand</span>
+#### XXVI. <span class="small-caps">To George Sand</span>
 
 Monday night
 
@@ -596,7 +596,7 @@ To “love you more” is hard for me—but I embrace you tenderly. Your letter 
 
 ### Letter 27: George Sand → Gustave Flaubert
 
-### XXVII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### XXVII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Paris, 13 November, 1866  
 Night from Tuesday to Wednesday
@@ -615,7 +615,7 @@ I embrace you tenderly, and your mother too, and the charming niece![^fn-p0069-1
 
 ### Letter 28: George Sand → Gustave Flaubert
 
-### XXVIII. <span class="small-caps">To Gustave Flaubert</span>
+#### XXVIII. <span class="small-caps">To Gustave Flaubert</span>
 
 16 November, 1866
 
@@ -629,7 +629,7 @@ Morality aside, I don’t think that the children of this day have sufficient fo
 
 ### Letter 29: George Sand → Gustave Flaubert
 
-### XXIX. <span class="small-caps">To Gustave Flaubert</span>
+#### XXIX. <span class="small-caps">To Gustave Flaubert</span>
 
 16 November, 1866
 
@@ -649,7 +649,7 @@ G. Sand
 
 ### Letter 30: George Sand → Gustave Flaubert
 
-### XXX. <span class="small-caps">To Gustave Flaubert</span>
+#### XXX. <span class="small-caps">To Gustave Flaubert</span>
 
 18 November (?), 1866
 
@@ -663,7 +663,7 @@ G. S.
 
 ### Letter 31: George Sand → Gustave Flaubert
 
-### XXXI. <span class="small-caps">To Gustave Flaubert</span>
+#### XXXI. <span class="small-caps">To Gustave Flaubert</span>
 
 Palaiseau, 22 November, 1866
 
@@ -685,7 +685,7 @@ In Paris next week, and then again to Palaiseau, and after that to Nohant. I saw
 
 ### Letter 32: Gustave Flaubert → George Sand
 
-### XXXII. <span class="small-caps">To George Sand</span>
+#### XXXII. <span class="small-caps">To George Sand</span>
 
 Croisset, Tuesday
 
@@ -703,7 +703,7 @@ That is, I think, the real human existence.
 
 ### Letter 33: George Sand → Gustave Flaubert
 
-### XXXIII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### XXXIII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Palaiseau, 29 November, 1866
 
@@ -737,7 +737,7 @@ The instrument might sound weak at certain moments, but the breeze in continuing
 
 ### Letter 34: Gustave Flaubert → George Sand
 
-### XXXIV. <span class="small-caps">To George Sand</span>
+#### XXXIV. <span class="small-caps">To George Sand</span>
 
 Saturday morning
 
@@ -751,7 +751,7 @@ Well! no, *in my day* we didn’t take such vows and we loved! and swaggeringly.
 
 ### Letter 35: George Sand → Gustave Flaubert
 
-### XXXV. <span class="small-caps">To Gustave Flaubert</span>
+#### XXXV. <span class="small-caps">To Gustave Flaubert</span>
 
 Palaiseau, 30 November, 1866
 
@@ -779,7 +779,7 @@ G. Sand
 
 ### Letter 36: Victoire Potelet called Marengo Lirondelle widow Dodin → Gustave Flaubert
 
-### XXXVI. <span class="small-caps">Monsieur Gustave Flobert at Croisset, Rouen</span>
+#### XXXVI. <span class="small-caps">Monsieur Gustave Flobert at Croisset, Rouen</span>
 
 [The postage stamp bears the mark, Paris, 4, December, 1866]
 
@@ -792,7 +792,7 @@ Rue Lanion, 47, Belleville.
 
 ### Letter 37: Gustave Flaubert → George Sand
 
-### XXXVII. <span class="small-caps">To George Sand</span>
+#### XXXVII. <span class="small-caps">To George Sand</span>
 
 Wednesday night, 5th December, 1866
 
@@ -814,7 +814,7 @@ I embrace you.
 
 ### Letter 38: George Sand → Gustave Flaubert
 
-### XXXVIII. <span class="small-caps">To Gustave Flaubert, at Paris</span>
+#### XXXVIII. <span class="small-caps">To Gustave Flaubert, at Paris</span>
 
 December, 1866
 
@@ -824,7 +824,7 @@ What was it you meant? You must tell me when you have the time.
 
 ### Letter 39: George Sand → Gustave Flaubert
 
-### XXXIX. <span class="small-caps">To Gustave Flaubert</span>
+#### XXXIX. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 8 December, 1866
 
@@ -842,7 +842,7 @@ G. Sand
 
 ### Letter 40: Gustave Flaubert → George Sand
 
-### XL. <span class="small-caps">To George Sand</span>
+#### XL. <span class="small-caps">To George Sand</span>
 
 Croisset, Saturday night
 
@@ -862,7 +862,7 @@ Oh! no you are not of wood, dear good great heart! “Beloved old troubadour,”
 
 ### Letter 41: George Sand → Gustave Flaubert
 
-### XLI. <span class="small-caps">To Gustave Flaubert</span>
+#### XLI. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 7 December, 1866
 
@@ -884,7 +884,7 @@ Monday.
 
 ### Letter 42: George Sand → Gustave Flaubert
 
-### XLII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### XLII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Paris, 9 January, 1867
 
@@ -902,7 +902,7 @@ The cheeses ? I don't know at all, it seems to me that they spoke to me of them,
 
 ### Letter 43: Gustave Flaubert → George Sand
 
-### XLIII. <span class="small-caps">To George Sand</span>
+#### XLIII. <span class="small-caps">To George Sand</span>
 
 Croisset, Saturday night
 
@@ -920,15 +920,17 @@ I told you, didn’t I, that I had reread *Consuelo* and the *Comtesse de Rudols
 
 ### Letter 44: George Sand → Gustave Flaubert
 
-### XLIV. <span class="small-caps">To Gustave Flaubert et Croisset</span>
+#### XLIV. <span class="small-caps">To Gustave Flaubert et Croisset</span>
 
 Nohant, 15 January, 1867
 
 Here I am at home, fairly strong except for several hours during the evening. Yet, *that will pass. The evil or he who endures it*, my old curé used to say, *can not last*. I received your letter this morning, dear friend of my heart. Why do I love you more than most of the others, even more than old and well-tried friends? I am asking, for my condition at this hour, is that of being
 
-*Thou who goest seeking,  
-At sunset,  
-Fortune! . . .*
+> **[verse_insert]**
+>
+> *Thou who goest seeking,  
+> At sunset,  
+> Fortune! . . .*
 
 Yes, intellectual fortune, *light!* Oh well, here it is: one gets, being old, at the sunset of life,—which is the most beautiful hour of tones and reflections,—a new idea of everything and of affection above all.
 
@@ -954,7 +956,7 @@ If I do not get cured here, I shall go to Cannes, where some friends are urging 
 
 ### Letter 45: Gustave Flaubert → George Sand
 
-### XLV. <span class="small-caps">To George Sand</span>
+#### XLV. <span class="small-caps">To George Sand</span>
 
 Wednesday evening
 
@@ -978,7 +980,7 @@ Well, adieu. Think of me. I send you my best love.
 
 ### Letter 46: George Sand → Gustave Flaubert
 
-### XLVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### XLVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 1867
 
@@ -996,7 +998,7 @@ And good-night, dear friend of my heart. They are ringing for the performance. M
 
 ### Letter 47: Gustave Flaubert → George Sand
 
-### XLVII. <span class="small-caps">To George Sand</span>
+#### XLVII. <span class="small-caps">To George Sand</span>
 
 Wednesday
 
@@ -1030,7 +1032,7 @@ Oh! I have missed you so much. The tides are superb, the wind groans, the river 
 
 ### Letter 48: George Sand → Gustave Flaubert
 
-### <span class="small-caps">XLVIII. To Gustave Flaubert, at Paris</span>
+#### <span class="small-caps">XLVIII. To Gustave Flaubert, at Paris</span>
 
 Nohant, 8 February, 1867
 
@@ -1050,7 +1052,7 @@ Please acknowledge the receipt of the three pamphlets; they would be a loss.
 
 ### Letter 49: Gustave Flaubert → George Sand
 
-### XLIX. <span class="small-caps">To George Sand</span>
+#### XLIX. <span class="small-caps">To George Sand</span>
 
 Dear master,
 
@@ -1068,7 +1070,7 @@ You tell your son Maurice that I love him very much, first because he is your so
 
 ### Letter 50: George Sand → Gustave Flaubert
 
-### L.  <span class="small-caps">To Gustave Flaubert</span>
+#### L.  <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 4 March, 1867
 
@@ -1100,7 +1102,7 @@ Did you receive my pamphlets on the faïence? You have not acknowledged them. Th
 
 ### Letter 51: George Sand → Gustave Flaubert
 
-### <span class="small-caps">LI. To Gustave Flaubert</span>
+#### <span class="small-caps">LI. To Gustave Flaubert</span>
 
 14 March, 1867
 
@@ -1114,7 +1116,7 @@ G. Sand
 
 ### Letter 52: George Sand → Gustave Flaubert
 
-### <span class="small-caps">LII. To Gustave Flaubert</span>
+#### <span class="small-caps">LII. To Gustave Flaubert</span>
 
 Friday, 22 March, 1867
 
@@ -1126,7 +1128,7 @@ He embraces you.
 
 ### Letter 53: George Sand / Maurice Sand → Gustave Flaubert
 
-### LIII. <span class="small-caps">To Gustave Flaubert</span>
+#### LIII. <span class="small-caps">To Gustave Flaubert</span>
 
 1867 (?)
 
@@ -1140,7 +1142,7 @@ Saturday evening.
 
 ### Letter 54: George Sand → Gustave Flaubert
 
-### LIV. <span class="small-caps">To Gustave Flaubert</span>
+#### LIV. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 11 April, 1867
 
@@ -1154,7 +1156,7 @@ And the novel? Does it go on its way the same in Paris as in Croisset? It seems 
 
 ### Letter 55: Gustave Flaubert → George Sand
 
-### LV. <span class="small-caps">To George Sand</span>
+#### LV. <span class="small-caps">To George Sand</span>
 
 I am worried at not having news from you, dear master. What has become of you? When shall I see you?
 
@@ -1170,7 +1172,7 @@ One feels oneself there very far from Paris, in a new and ugly world, an enormou
 
 ### Letter 56: George Sand → Gustave Flaubert
 
-### LVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### LVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 9 May, 1867
 
@@ -1204,7 +1206,7 @@ I am anxious about Sainte-Beuve. What a loss that would be! I am content if Boui
 
 ### Letter 57: Gustave Flaubert → George Sand
 
-### LVII. <span class="small-caps">To George Sand</span>
+#### LVII. <span class="small-caps">To George Sand</span>
 
 Paris, Friday morning
 
@@ -1236,7 +1238,7 @@ I shall have the package of pamphlets about faïence sent to the rue des Feuilla
 
 ### Letter 58: Gustave Flaubert → George Sand
 
-### <span class="small-caps">LVIII. To George Sand</span>
+#### <span class="small-caps">LVIII. To George Sand</span>
 
 I stayed thirty-six hours in Paris at the beginning of this week, in order to be present at the Tuileries ball. Without any exaggeration, it was splendid. Paris on the whole turns to the colossal. It is becoming foolish and unrestrained. Perhaps we are returning to the ancient Orient. It seems to me that idols will come out of the earth. We are menaced with a Babylon.
 
@@ -1260,7 +1262,7 @@ Thus, *the stake* that has supported me this winter, is the indignation that I h
 
 ### Letter 59: George Sand → Gustave Flaubert
 
-### LIX. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### LIX. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 30 May, 1867
 
@@ -1282,7 +1284,7 @@ G. Sand
 
 ### Letter 60: George Sand → Gustave Flaubert
 
-### LX. <span class="small-caps">To Gustave Flaubert</span>
+#### LX. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 14 June, 1867
 
@@ -1310,7 +1312,7 @@ G. Sand
 
 ### Letter 61: George Sand → Gustave Flaubert
 
-### LXI. <span class="small-caps">To Gustave Flaubert</span>
+#### LXI. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 24 July, 1867
 
@@ -1330,7 +1332,7 @@ G. Sand
 
 ### Letter 62: George Sand → Gustave Flaubert
 
-### LXII. <span class="small-caps">To Gustave Flaubert, at Paris</span>
+#### LXII. <span class="small-caps">To Gustave Flaubert, at Paris</span>
 
 Nohant, 6 August, 1867
 
@@ -1348,7 +1350,7 @@ G. Sand
 
 ### Letter 63: George Sand → Gustave Flaubert
 
-### <span class="small-caps">LXIII. To Gustave Flaubert, at Croisset</span>
+#### <span class="small-caps">LXIII. To Gustave Flaubert, at Croisset</span>
 
 Nohant, 18 August, 1867
 
@@ -1356,7 +1358,7 @@ Where are you, my dear old fellow? If by chance you should be in Paris, during t
 
 ### Letter 64: George Sand → Gustave Flaubert
 
-### LXIV.  <span class="small-caps">To Gustave Flaubert, at Paris</span>
+#### LXIV.  <span class="small-caps">To Gustave Flaubert, at Paris</span>
 
 Nohant, August, 1867
 
@@ -1370,7 +1372,7 @@ Au revoir, then, if I can only pull myself out of the state I am now in. Insomni
 
 ### Letter 65: George Sand → Gustave Flaubert
 
-### LXV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### LXV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 10 September, 1867
 
@@ -1390,7 +1392,7 @@ G. Sand
 
 ### Letter 66: Gustave Flaubert → George Sand
 
-### <span class="small-caps">LXVI. To George Sand</span>
+#### <span class="small-caps">LXVI. To George Sand</span>
 
 Dear master,
 
@@ -1402,7 +1404,7 @@ Find out from him if all that is true; I shall be obliged.
 
 ### Letter 67: George Sand → Gustave Flaubert
 
-### LXVII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### LXVII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Paris, Tuesday, 1st October, 1867
 
@@ -1418,7 +1420,7 @@ I think that the *Bois-Doré* is going well, but I don’t know anything about i
 
 ### Letter 68: Gustave Flaubert → George Sand
 
-### LXVIII. <span class="small-caps">To George Sand</span>
+#### LXVIII. <span class="small-caps">To George Sand</span>
 
 At last, at last, I have news of you, dear master, and good news, which is doubly agreeable.
 
@@ -1432,7 +1434,7 @@ Sainte-Beuve is preparing a lecture on the press law. He is better, decidedly. I
 
 ### Letter 69: George Sand → Gustave Flaubert
 
-### LXIX. <span class="small-caps">To Gustave Flaubert, at Paris</span>
+#### LXIX. <span class="small-caps">To Gustave Flaubert, at Paris</span>
 
 Nohant, 12 October, 1867
 
@@ -1448,7 +1450,7 @@ Your old troubadour
 
 ### Letter 70: George Sand → Gustave Flaubert
 
-### LXX.  <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### LXX.  <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 27 October, 1867
 
@@ -1462,7 +1464,7 @@ G. Sand
 
 ### Letter 71: Gustave Flaubert → George Sand
 
-### LXXI. <span class="small-caps">To George Sand</span>
+#### LXXI. <span class="small-caps">To George Sand</span>
 
 1st November, 1867
 
@@ -1496,7 +1498,7 @@ Young Alfred dried up with impatience.”
 
 ### Letter 73: George Sand → Gustave Flaubert
 
-### LXXII. <span class="small-caps">To Gustave Flaubert</span>
+#### LXXII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 5 December, 1867
 
@@ -1514,7 +1516,7 @@ G. Sand
 
 ### Letter 74: Gustave Flaubert → George Sand
 
-### LXXIII. <span class="small-caps">To George Sand</span>
+#### LXXIII. <span class="small-caps">To George Sand</span>
 
 Wednesday night
 
@@ -1546,7 +1548,7 @@ I embrace you tenderly.
 
 ### Letter 75: George Sand → Gustave Flaubert
 
-### LXXIV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### LXXIV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 31 December, 1867
 
@@ -1572,7 +1574,7 @@ Madame Juliette Lambert[^fn-p0133-1] is really charming; you would like her a gr
 
 ### Letter 76: Gustave Flaubert → George Sand
 
-### LXXV. <span class="small-caps">To George Sand</span>
+#### LXXV. <span class="small-caps">To George Sand</span>
 
 1st January, 1868
 
@@ -1584,7 +1586,7 @@ My rage against M. Thiers is not yet calmed, on the contrary! It idealizes itsel
 
 ### Letter 77: George Sand → Gustave Flaubert
 
-### <span class="small-caps">LXXVI. To Gustave Flaubert</span>
+#### <span class="small-caps">LXXVI. To Gustave Flaubert</span>
 
 Nohant, 12 January, 1868
 
@@ -1598,7 +1600,7 @@ My love to your mother always. I imagine that she is in Rouen during this severe
 
 ### Letter 78: George Sand → Gustave Flaubert
 
-### <span class="small-caps">LXXVII. To Gustave Flaubert</span>
+#### <span class="small-caps">LXXVII. To Gustave Flaubert</span>
 
 Paris, 10 May, 1868
 
@@ -1608,7 +1610,7 @@ G. Sand.
 
 ### Letter 79: George Sand → Gustave Flaubert
 
-### LXXVIII. <span class="small-caps">To Gustave Flaubert</span>
+#### LXXVIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 11 May, 1868
 
@@ -1622,7 +1624,7 @@ Monday evening.
 
 ### Letter 80: George Sand → Gustave Flaubert
 
-### LXXIX. <span class="small-caps">To Gustave Flaubert</span>
+#### LXXIX. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 17 May, 1868
 
@@ -1632,7 +1634,7 @@ G. Sand
 
 ### Letter 81: George Sand → Gustave Flaubert
 
-### LXXX. <span class="small-caps">To Gustave Flaubert</span>
+#### LXXX. <span class="small-caps">To Gustave Flaubert</span>
 
 I shall not go with you to Croisset, for you must sleep, and we talk too much. But on Sunday or Monday if you still wish it; only I forbid you to inconvenience yourself. I know my Rouen, I know that there are carriages at the railway station and that one goes straight to your house without any trouble.
 
@@ -1646,7 +1648,7 @@ If those days do not suit you, a word, and I shall communicate with you again. H
 
 ### Letter 82: George Sand → Gustave Flaubert
 
-### LXXXI. <span class="small-caps">To Gustave Flaubert</span>
+#### LXXXI. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 21 Thursday—May, 1868
 
@@ -1662,7 +1664,7 @@ G. Sand
 
 ### Letter 83: George Sand → Gustave Flaubert
 
-### LXXXII. <span class="small-caps">To Gustave Flaubert</span>
+#### LXXXII. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 26 May, 1868
 
@@ -1678,7 +1680,7 @@ Tuesday evening, rue Gay-Lussac, 5.
 
 ### Letter 84: George Sand → Gustave Flaubert
 
-### LXXXIII. <span class="small-caps">To Gustave Flaubert</span>
+#### LXXXIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 28 May, 1868
 
@@ -1694,7 +1696,7 @@ I leave Tuesday for Nohant.
 
 ### Letter 85: George Sand → Gustave Flaubert
 
-### LXXXIV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### LXXXIV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 21 June, 1868
 
@@ -1712,7 +1714,7 @@ Our affectionate regards.
 
 ### Letter 86: Gustave Flaubert → George Sand
 
-### LXXXV. <span class="small-caps">To George Sand</span>
+#### LXXXV. <span class="small-caps">To George Sand</span>
 
 Croisset, Sunday, 5 July, 1868
 
@@ -1730,7 +1732,7 @@ Every time now that I hear the chain of the steam-boats, I think of you, and the
 
 ### Letter 87: George Sand → Gustave Flaubert
 
-### LXXXVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### LXXXVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 31 July, 1868
 
@@ -1758,7 +1760,7 @@ G. Sand
 
 ### Letter 88: Gustave Flaubert → George Sand
 
-### LXXXVII. <span class="small-caps">To George Sand</span>
+#### LXXXVII. <span class="small-caps">To George Sand</span>
 
 Dieppe, Monday
 
@@ -1784,7 +1786,7 @@ How will the rehearsals of *Cadio* prevent you from coming to see your poor old 
 
 ### Letter 89: Gustave Flaubert → George Sand
 
-### LXXXVIII. <span class="small-caps">To George Sand</span>
+#### LXXXVIII. <span class="small-caps">To George Sand</span>
 
 Croisset, Wednesday evening, 9 September, 1868
 
@@ -1802,7 +1804,7 @@ What would please me well for the moment, would be to embrace you. When will tha
 
 ### Letter 90: George Sand → Gustave Flaubert
 
-### <span class="small-caps">LXXXIX. To Gustave Flaubert, at Croisset</span>
+#### <span class="small-caps">LXXXIX. To Gustave Flaubert, at Croisset</span>
 
 Paris, 10 September, 1868
 
@@ -1820,7 +1822,7 @@ G. Sand
 
 ### Letter 91: George Sand → Gustave Flaubert
 
-### XC. <span class="small-caps">To Gustave Flaubert</span>
+#### XC. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 18 September, 1868
 
@@ -1834,7 +1836,7 @@ G. Sand
 
 ### Letter 92: Gustave Flaubert → George Sand
 
-### XCI. <span class="small-caps">To George Sand</span>
+#### XCI. <span class="small-caps">To George Sand</span>
 
 Does that astonish you, dear master? Oh well! it doesn’t me! I told you so but you would not believe me.
 
@@ -1858,7 +1860,7 @@ Have you read this in the paper? “Victor Hugo and Rochefort, the greatest writ
 
 ### Letter 93: George Sand → Gustave Flaubert
 
-### XCII. <span class="small-caps">To Gustave Flaubert</span>
+#### XCII. <span class="small-caps">To Gustave Flaubert</span>
 
 The halcyons skim over the water and are common everywhere. The name is pretty and sufficiently well known.
 
@@ -1872,7 +1874,7 @@ In October, yes, I will try!
 
 ### Letter 94: Gustave Flaubert → George Sand
 
-### XCIII. <span class="small-caps">To George Sand</span>
+#### XCIII. <span class="small-caps">To George Sand</span>
 
 Saturday evening
 
@@ -1892,9 +1894,11 @@ Well, you have written a masterpiece, that’s true! and a very amusing one. My 
 
 My mother is going in a few days to Dieppe, to her grandchild’s. I shall be alone a good part of the summer, and I plan to grub.
 
-“I labor much and shun the world.  
- It is not at balls that the future is founded.”  
-(Camille Doucet.)
+> **[verse_insert]**
+>
+> “I labor much and shun the world.  
+>  It is not at balls that the future is founded.”  
+> (Camille Doucet.)
 
 But my everlasting novel bores me sometimes in an incredible manner! These tiny details are stupid to bother with! Why annoy oneself about such a miserable subject?
 
@@ -1904,7 +1908,7 @@ So, thank you, very kindly, my dear master.
 
 ### Letter 95: George Sand → Gustave Flaubert
 
-### XCIV. <span class="small-caps">To M. Gustave Flaubert, at Croisset</span>
+#### XCIV. <span class="small-caps">To M. Gustave Flaubert, at Croisset</span>
 
 Paris, end of September, 1868
 
@@ -1924,7 +1928,7 @@ G. Sand
 
 ### Letter 96: George Sand → Gustave Flaubert
 
-### XCV. <span class="small-caps">To Gustave Flaubert</span>
+#### XCV. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 5 October, 1868
 
@@ -1936,7 +1940,7 @@ G. Sand
 
 ### Letter 97: George Sand → Gustave Flaubert
 
-### XCVI. <span class="small-caps">To Gustave Flaubert</span>
+#### XCVI. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 15 October, 1868
 
@@ -1960,7 +1964,7 @@ G. Sand
 
 ### Letter 98: Gustave Flaubert → George Sand
 
-### XCVII. <span class="small-caps">To George Sand</span>
+#### XCVII. <span class="small-caps">To George Sand</span>
 
 Saturday evening
 
@@ -1978,7 +1982,7 @@ However, I work at my novel like a lot of oxen. I hope on New Year’s Day not t
 
 ### Letter 99: George Sand → Gustave Flaubert
 
-### XCVIII. <span class="small-caps">To Gustave Flaubert, in Paris</span>
+#### XCVIII. <span class="small-caps">To Gustave Flaubert, in Paris</span>
 
 Nohant, 20 November, 1868
 
@@ -1990,7 +1994,7 @@ G. Sand
 
 ### Letter 100: Gustave Flaubert → George Sand
 
-### XCIX. <span class="small-caps">To George Sand</span>
+#### XCIX. <span class="small-caps">To George Sand</span>
 
 Tuesday
 
@@ -2014,7 +2018,7 @@ Listen to this: *le Figaro* not knowing with what to fill its columns, has had t
 
 ### Letter 101: George Sand → Gustave Flaubert
 
-### C. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### C. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 21 December, 1868
 
@@ -2038,7 +2042,7 @@ I had read the hoax of *le Figaro* and had laughed at it. It turns out to have a
 
 ### Letter 102: Gustave Flaubert → George Sand
 
-### CI. <span class="small-caps">To George Sand</span>
+#### CI. <span class="small-caps">To George Sand</span>
 
 Saint Sylvester’s night, one o’clock, 1869
 
@@ -2060,7 +2064,7 @@ Do you notice how rare literary sense is? The knowledge of language, archeology,
 
 ### Letter 103: George Sand → Gustave Flaubert
 
-### CII. <span class="small-caps">To Gustave Flaubert</span>
+#### CII. <span class="small-caps">To Gustave Flaubert</span>
 
 1st January, 1869
 
@@ -2072,7 +2076,7 @@ I have not the address of the Goncourts. Will you put the enclosed answer in the
 
 ### Letter 104: George Sand → Gustave Flaubert
 
-### CIII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CIII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 17 January, 1869
 
@@ -2094,7 +2098,7 @@ G. Sand
 
 ### Letter 105: Gustave Flaubert → George Sand
 
-### CIV.  <span class="small-caps">To George Sand</span>
+#### CIV.  <span class="small-caps">To George Sand</span>
 
 Croisset, Tuesday, 2 February, 1869
 
@@ -2128,7 +2132,7 @@ When shall I see you? I plan to be in Paris from Easter to the end of May. This 
 
 ### Letter 106: George Sand → Gustave Flaubert
 
-### CV. <span class="small-caps">To Gustave Flaubert</span>
+#### CV. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 11 February, 1869
 
@@ -2150,7 +2154,7 @@ G. Sand
 
 ### Letter 107: George Sand → Gustave Flaubert
 
-### CVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 24 February, 1869
 
@@ -2174,7 +2178,7 @@ What a way of speaking, eh? How the language turns, is twisted, made supple, is 
 
 ### Letter 108: Gustave Flaubert → George Sand
 
-### CVII.  <span class="small-caps">To George Sand</span>
+#### CVII.  <span class="small-caps">To George Sand</span>
 
 Tuesday night
 
@@ -2196,7 +2200,7 @@ I am just now reading *Don Quichotte* again. What a tremendous old book! Is ther
 
 ### Letter 109: G. Sand → Gustave Flaubert
 
-### CVIII. <span class="small-caps">To Gustave Flaubert</span>
+#### CVIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 7 March, 1869
 
@@ -2210,7 +2214,7 @@ G. Sand
 
 ### Letter 110: G. Sand → Gustave Flaubert
 
-### CIX. <span class="small-caps">To Gustave Flaubert</span>
+#### CIX. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 12 March, 1869
 
@@ -2222,7 +2226,7 @@ Thank you for the address.
 
 ### Letter 111: G. Sand → Gustave Flaubert
 
-### <span class="small-caps">CX. To Gustave Flaubert, at Croisset</span>
+#### <span class="small-caps">CX. To Gustave Flaubert, at Croisset</span>
 
 Nohant, 2 April, 1869
 
@@ -2240,7 +2244,7 @@ Answer quickly how long you expect to stay in Paris. You say that you are paying
 
 ### Letter 112: G. Sand → Gustave Flaubert
 
-### CXI. <span class="small-caps">To Gustave Flaubert</span>
+#### CXI. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 17 April, 1869
 
@@ -2252,7 +2256,7 @@ Regards from Maurice and his wife.
 
 ### Letter 113: George Sand → Gustave Flaubert
 
-### CXII. <span class="small-caps">To Gustave Flaubert</span>
+#### CXII. <span class="small-caps">To Gustave Flaubert</span>
 
 Monday, 26 April, 1869
 
@@ -2264,7 +2268,7 @@ Monday.
 
 ### Letter 114: G. Sand → Gustave Flaubert
 
-### CXIII.  <span class="small-caps">To Gustave Flaubert</span>
+#### CXIII.  <span class="small-caps">To Gustave Flaubert</span>
 
 Thursday evening, 29 April, 1869
 
@@ -2278,7 +2282,7 @@ G. Sand
 
 ### Letter 115: G. Sand → Gustave Flaubert
 
-### CXIV.  <span class="small-caps">To Gustave Flaubert</span>
+#### CXIV.  <span class="small-caps">To Gustave Flaubert</span>
 
 30 April, 1869
 
@@ -2288,7 +2292,7 @@ G. Sand
 
 ### Letter 116: G. Sand → Gustave Flaubert
 
-### CXV.  <span class="small-caps">To Gustave Flaubert</span>
+#### CXV.  <span class="small-caps">To Gustave Flaubert</span>
 
 3 May, 1869
 
@@ -2302,7 +2306,7 @@ Monday.
 
 ### Letter 117: G. Sand → Gustave Flaubert
 
-### <span class="small-caps">CXVI. To Gustave Flaubert</span>
+#### <span class="small-caps">CXVI. To Gustave Flaubert</span>
 
 Paris, 4 May, 1869
 
@@ -2314,7 +2318,7 @@ Tues. evening.
 
 ### Letter 118: G. Sand → Gustave Flaubert
 
-### <span class="small-caps">CXVII. To Gustave Flaubert</span>
+#### <span class="small-caps">CXVII. To Gustave Flaubert</span>
 
 Sunday, 9 May, 1869
 
@@ -2326,7 +2330,7 @@ G. Sand
 
 ### Letter 119: G. Sand → Gustave Flaubert
 
-### <span class="small-caps">CXVIII. To Gustave Flaubert</span>
+#### <span class="small-caps">CXVIII. To Gustave Flaubert</span>
 
 Paris, 18 May, 1869
 
@@ -2346,7 +2350,7 @@ The rest of the week will finish up Palaiseau, but Sunday if you like, I am free
 
 ### Letter 120: George Sand → Gustave Flaubert
 
-### CXIX. <span class="small-caps">To Gustave Flaubert</span>
+#### CXIX. <span class="small-caps">To Gustave Flaubert</span>
 
 Then Monday, I count on you, at half past six; but as I am going to Palaiseau, I may be a few minutes late or early. The first one at Magny’s must wait for the other. I am looking forward with pleasure to hearing *the rest*. Don’t forget the manuscript.
 
@@ -2356,7 +2360,7 @@ Thursday evening, 20 May, 1869.
 
 ### Letter 121: G. Sand → Gustave Flaubert
 
-### CXX. <span class="small-caps">To Gustave Flaubert</span>
+#### CXX. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 29 May, 1869
 
@@ -2368,7 +2372,7 @@ I am off for Palaiseau *and it is ten o’clock in the morning!*
 
 ### Letter 122: Gustave Flaubert → George Sand
 
-### CXXI. <span class="small-caps">To George Sand</span>
+#### CXXI. <span class="small-caps">To George Sand</span>
 
 My prophecy is fulfilled; My friend X—— has gained only ridicule with his candidacy. That serves him right. When a man of style debases himself to practical life, he loses caste and should be punished. And then, is it a question of politics, now! The citizens who are excited for or against the Empire or the Republic seem to me as useful as those who discuss efficacious or efficient grace. Politics are as dead as theology! They have had three hundred years of existence, that is quite enough.
 
@@ -2382,7 +2386,7 @@ Fangeat, who has reappeared recently, is the citizen who, on the 25th day of Feb
 
 ### Letter 123: Gustave Flaubert → George Sand
 
-### CXXII. <span class="small-caps">To George Sand</span>
+#### CXXII. <span class="small-caps">To George Sand</span>
 
 What a good and charming letter was yours, adored master! There is no one but you! upon my word of honor! I am ending by believing it. A wind of stupidity and folly is now blowing over the world. Those who stand up firm and straight against it are rare.
 
@@ -2398,7 +2402,7 @@ I admire Maurice’s occupations and his healthy life. But I am not capable of i
 
 ### Letter 124: George Sand → Gustave Flaubert
 
-### CXXIII. <span class="small-caps">To Gustave Flaubert</span>
+#### CXXIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 6 August, 1869
 
@@ -2408,7 +2412,7 @@ Come to see us, my dear old friend, I shall not go to Paris this month, I do not
 
 ### Letter 125: G. Sand → GUSTAVE FLAUBERT
 
-### CXXIV. T<span class="small-caps">O</span> G<span class="small-caps">USTAVE</span> F<span class="small-caps">LAUBERT</span>
+#### CXXIV. T<span class="small-caps">O</span> G<span class="small-caps">USTAVE</span> F<span class="small-caps">LAUBERT</span>
 
 Nohant, 14 August, 1869
 
@@ -2424,7 +2428,7 @@ G. Sand
 
 ### Letter 126: G. Sand → Gustave Flaubert
 
-### CXXV. <span class="small-caps">To Gustave Flaubert</span>
+#### CXXV. <span class="small-caps">To Gustave Flaubert</span>
 
 Thursday
 
@@ -2446,7 +2450,7 @@ I have just received news from the Odéon. They are at work putting on my play a
 
 ### Letter 127: G. Sand → Gustave Flaubert
 
-### CXXVI. <span class="small-caps">To Gustave Flaubert</span>
+#### CXXVI. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 6 September, 1869
 
@@ -2458,7 +2462,7 @@ G. Sand
 
 ### Letter 128: G. Sand → Gustave Flaubert
 
-### CXXVII.  <span class="small-caps">To Gustave Flaubert</span>
+#### CXXVII.  <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 8 September, 1869
 
@@ -2472,7 +2476,7 @@ Wednesday morning.
 
 ### Letter 129: G. Sand → Gustave Flaubert
 
-### CXXVIII.  <span class="small-caps">To Gustave Flaubert</span>
+#### CXXVIII.  <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, Tuesday, 5 October, 1869
 
@@ -2486,7 +2490,7 @@ G. Sand
 
 ### Letter 130: Gustave Flaubert → George Sand
 
-### CXXIX. <span class="small-caps">To George Sand</span>
+#### CXXIX. <span class="small-caps">To George Sand</span>
 
 Dear good adored master,
 
@@ -2504,7 +2508,7 @@ I think that the directors of the Odéon will regret Bouilhet in every way. I sh
 
 ### Letter 131: G. Sand → Gustave Flaubert
 
-### CXXX. <span class="small-caps">To Gustave Flaubert</span>
+#### CXXX. <span class="small-caps">To Gustave Flaubert</span>
 
 Wednesday evening, 13 October, 1869
 
@@ -2518,7 +2522,7 @@ G. Sand
 
 ### Letter 132: Gustave Flaubert → George Sand
 
-### CXXXI. <span class="small-caps">To George Sand</span>
+#### CXXXI. <span class="small-caps">To George Sand</span>
 
 14 October, 1869
 
@@ -2540,7 +2544,7 @@ A thousand affectionate greetings.
 
 ### Letter 133: G. Sand → Gustave Flaubert
 
-### CXXXII.  <span class="small-caps">To Gustave Flaubert</span>
+#### CXXXII.  <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 20 or 21 October, 1869
 
@@ -2550,7 +2554,7 @@ G. Sand
 
 ### Letter 134: G. Sand → Gustave Flaubert
 
-### CXXXIII.  <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CXXXIII.  <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 15 Nov., 1869
 
@@ -2564,7 +2568,7 @@ G. Sand
 
 ### Letter 135: G. Sand → Gustave Flaubert
 
-### CXXXIV. <span class="small-caps">To Gustave Flaubert, at Paris</span>
+#### CXXXIV. <span class="small-caps">To Gustave Flaubert, at Paris</span>
 
 Nohant, 30 November, 1869
 
@@ -2586,7 +2590,7 @@ G. Sand
 
 ### Letter 136: Gustave Flaubert → George Sand
 
-### CXXXV. <span class="small-caps">To George Sand</span>
+#### CXXXV. <span class="small-caps">To George Sand</span>
 
 Dear good master,
 
@@ -2604,7 +2608,7 @@ All that does not upset me at all. But I wonder what use there is in printing my
 
 ### Letter 137: Gustave Flaubert → George Sand
 
-### CXXXVI.  <span class="small-caps">To George Sand</span>
+#### CXXXVI.  <span class="small-caps">To George Sand</span>
 
 Tuesday, 4 o’clock, 7 December, 1869
 
@@ -2624,7 +2628,7 @@ Barbey d’Aurevilly claims that I dirty a stream by washing myself in it (sic).
 
 ### Letter 138: G. Sand → Gustave Flaubert
 
-### CXXXVII. <span class="small-caps">To Gustave Flaubert</span>
+#### CXXXVII. <span class="small-caps">To Gustave Flaubert</span>
 
 Thursday, two o’clock in the  
 morning, December 9, 1869
@@ -2637,7 +2641,7 @@ G. Sand
 
 ### Letter 139: Gustave Flaubert → George Sand
 
-### CXXXVIII.  <span class="small-caps">To George Sand</span>
+#### CXXXVIII.  <span class="small-caps">To George Sand</span>
 
 10 December, Friday, 10 o’clock in the  
 evening, 1869
@@ -2652,7 +2656,7 @@ How shall I thank you? I feel the need of saying affectionate things to you. I h
 
 ### Letter 140: G. S. / Lina → Gustave Flaubert
 
-### CXXXIX.  <span class="small-caps">To Gustave Flaubert</span>
+#### CXXXIX.  <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, Friday to Saturday during the  
 night, 10 to 11 December, 1869
@@ -2673,7 +2677,7 @@ Lina
 
 ### Letter 141: G. Sand → Gustave Flaubert
 
-### CXL. <span class="small-caps">To Gustave Flaubert, in Paris</span>
+#### CXL. <span class="small-caps">To Gustave Flaubert, in Paris</span>
 
 Nohant, 14 December, 1869
 
@@ -2697,7 +2701,7 @@ G. Sand
 
 ### Letter 142: G. Sand → Gustave Flaubert
 
-### CXLI. <span class="small-caps">To Gustave Flaubert, in Paris</span>
+#### CXLI. <span class="small-caps">To Gustave Flaubert, in Paris</span>
 
 Nohant, 17 December, 1869
 
@@ -2713,7 +2717,7 @@ G. Sand
 
 ### Letter 143: G. Sand → Gustave Flaubert
 
-### CXLII. <span class="small-caps">To Gustave Flaubert</span>
+#### CXLII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 19 December, 1869
 
@@ -2729,7 +2733,7 @@ Plauchut is hunting today with the prince, and perhaps will not return till Tues
 
 ### Letter 144: G. Sand → Gustave Flaubert
 
-### <span class="small-caps">CXLIII. To Gustave Flaubert</span>
+#### <span class="small-caps">CXLIII. To Gustave Flaubert</span>
 
 31 December, 1869
 
@@ -2741,7 +2745,7 @@ G. Sand
 
 ### Letter 145: G. Sand → Gustave Flaubert
 
-### <span class="small-caps">CXLIV. To Gustave Flaubert, at Croisset</span>
+#### <span class="small-caps">CXLIV. To Gustave Flaubert, at Croisset</span>
 
 Nohant, 9 January, 1870
 
@@ -2769,7 +2773,7 @@ G. Sand
 
 ### Letter 146: Gustave Flaubert → George Sand
 
-### CXLV. <span class="small-caps">To George Sand</span>
+#### CXLV. <span class="small-caps">To George Sand</span>
 
 Wednesday afternoon
 
@@ -2787,7 +2791,7 @@ In losing my poor Bouilhet, I lost my midwife, it was he who saw into my thought
 
 ### Letter 147: G. Sand → Gustave Flaubert
 
-### CXLVI. <span class="small-caps">To Gustave Flaubert</span>
+#### CXLVI. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 15 January, 1870
 
@@ -2799,7 +2803,7 @@ G. Sand
 
 ### Letter 148: George Sand → Gustave Flaubert
 
-### CXLVII. <span class="small-caps">To Gustave Flaubert</span>
+#### CXLVII. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 19 January, 1870
 
@@ -2815,7 +2819,7 @@ Wednesday evening.
 
 ### Letter 149: George Sand → Gustave Flaubert
 
-### CXLVIII. <span class="small-caps">To Gustave Flaubert</span>
+#### CXLVIII. <span class="small-caps">To Gustave Flaubert</span>
 
 The 5th or the 6th February, 1870
 
@@ -2827,7 +2831,7 @@ Your old exhausted troubadour who loves you.
 
 ### Letter 150: G. Sand → Gustave Flaubert
 
-### CXLIX. <span class="small-caps">To Gustave Flaubert</span>
+#### CXLIX. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 15 February, 1870
 
@@ -2841,7 +2845,7 @@ Tuesday evening
 
 ### Letter 151: George Sand → Gustave Flaubert
 
-### CL. <span class="small-caps">To Gustave Flaubert</span>
+#### CL. <span class="small-caps">To Gustave Flaubert</span>
 
 Sunday evening, 20th February, 1870
 
@@ -2853,7 +2857,7 @@ Your old troubadour.
 
 ### Letter 152: G. Sand → Gustave Flaubert
 
-### CLI. <span class="small-caps">To Gustave Flaubert</span>
+#### CLI. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, February, 1870
 
@@ -2867,7 +2871,7 @@ G. Sand
 
 ### Letter 153: George Sand → Gustave Flaubert
 
-### CLII. <span class="small-caps">To Gustave Flaubert</span>
+#### CLII. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, 2d March, 1870
 
@@ -2877,7 +2881,7 @@ I embrace you with all my soul. A word and I expect you. Wednesday evening.
 
 ### Letter 154: George Sand → Gustave Flaubert
 
-### CLIII. <span class="small-caps">To Gustave Flaubert</span>
+#### CLIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 11 March, 1870
 
@@ -2887,7 +2891,7 @@ G. Sand
 
 ### Letter 155: Gustave Flaubert → George Sand
 
-### CLIV. <span class="small-caps">To George Sand</span>
+#### CLIV. <span class="small-caps">To George Sand</span>
 
 17 March, 1870
 
@@ -2927,7 +2931,7 @@ Madame Cornu has spoken to me enthusiastically of a letter you wrote her on a me
 
 ### Letter 156: George Sand → Gustave Flaubert
 
-### CLV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CLV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 17 March, 1870
 
@@ -2947,7 +2951,7 @@ G. Sand
 
 ### Letter 157: George Sand → Gustave Flaubert
 
-### <span class="small-caps">CLVI. To Gustave Flaubert, in Paris</span>
+#### <span class="small-caps">CLVI. To Gustave Flaubert, in Paris</span>
 
 Nohant, 19 March, 1870
 
@@ -2961,7 +2965,7 @@ G. Sand
 
 ### Letter 158: Gustave Flaubert → Madame Hortense Cornu
 
-### CLVII. <span class="small-caps">To Madame Hortense Cornu</span>
+#### CLVII. <span class="small-caps">To Madame Hortense Cornu</span>
 
 Your devotion was alarmed wrongly, dear madame, I was sure of it! Here is the answer that came to me by return mail.
 
@@ -2989,7 +2993,7 @@ Sunday evening.
 
 ### Letter 159: Gustave Flaubert → George Sand
 
-### CLVIII. <span class="small-caps">To George Sand</span>
+#### CLVIII. <span class="small-caps">To George Sand</span>
 
 March, 1870
 
@@ -3003,7 +3007,7 @@ I saw *l’Autre* last evening, and I wept several times. It did me good, really
 
 ### Letter 160: George Sand → Gustave Flaubert
 
-### CLIX. <span class="small-caps">TO GUSTAVE FLAUBERT</span>
+#### CLIX. <span class="small-caps">TO GUSTAVE FLAUBERT</span>
 
 Nohant, 3 April, 1870
 
@@ -3019,7 +3023,7 @@ My friend Favre has quite a *fancy* for you and wants to know you. He is not a p
 
 ### Letter 161: Gustave Flaubert → George Sand
 
-### CLX. <span class="small-caps">To George Sand</span>
+#### CLX. <span class="small-caps">To George Sand</span>
 
 Monday morning, 11 o’clock
 
@@ -3035,7 +3039,7 @@ Certainly, I shall be glad to meet M. Favre; since he is a friend of yours I sha
 
 ### Letter 162: Gustave Flaubert → George Sand
 
-### CLXI. <span class="small-caps">To George Sand</span>
+#### CLXI. <span class="small-caps">To George Sand</span>
 
 Tuesday morning
 
@@ -3047,7 +3051,7 @@ I have seen your physician, M. Favre, who seemed to me very strange and a little
 
 ### Letter 163: Gustave Flaubert → George Sand
 
-### CLXII. <span class="small-caps">To George Sand</span>
+#### CLXII. <span class="small-caps">To George Sand</span>
 
 Paris, Thursday
 
@@ -3063,7 +3067,7 @@ How I long to see you and to jabber with you!
 
 ### Letter 164: George Sand → Gustave Flaubert
 
-### CLXIII. <span class="small-caps">To Gustave Flaubert</span>
+#### CLXIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 16 April, 1870
 
@@ -3079,7 +3083,7 @@ G. Sand
 
 ### Letter 165: George Sand → Gustave Flaubert
 
-### CLXIV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CLXIV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 20 May, 1870
 
@@ -3097,7 +3101,7 @@ G. Sand
 
 ### Letter 166: Gustave Flaubert → George Sand
 
-### <span class="small-caps">CLXV. To George Sand</span>
+#### <span class="small-caps">CLXV. To George Sand</span>
 
 No, dear master! I am not ill, but I have been busy with moving from Paris and with getting settled in Croisset. Then my mother has been very much indisposed. She is well now; then I have had to set in order the rest of my poor Bouilhet’s papers, on whom I have begun the article. I wrote this week nearly six pages, which was very good for me; this work is very painful in every way. The difficulty is in knowing what not to say. I shall console myself a little in blurting out two or three dogmatic opinions on the art of writing. It will be an opportunity to express what I think; a sweet thing and one I am always deprived of.
 
@@ -3119,7 +3123,7 @@ That is a charming story, *Mademoiselle Hauterive*, isn’t it? This suicide of 
 
 ### Letter 167: Gustave Flaubert → George Sand
 
-### CLXVI. <span class="small-caps">To George Sand</span>
+#### CLXVI. <span class="small-caps">To George Sand</span>
 
 Sunday, 26 June, 1870
 
@@ -3135,7 +3139,7 @@ It was distressing, the funeral of Jules Goncourt. Théo wept buckets full.
 
 ### Letter 168: George Sand → Gustave Flaubert
 
-### CLXVII. <span class="small-caps">To Gustave Flaubert</span>
+#### CLXVII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 27 June, 1870
 
@@ -3145,7 +3149,7 @@ G. Sand
 
 ### Letter 169: Gustave Flaubert → George Sand
 
-### CLXVIII. <span class="small-caps">To George Sand</span>
+#### CLXVIII. <span class="small-caps">To George Sand</span>
 
 Saturday evening, 2 July, 1870
 
@@ -3171,7 +3175,7 @@ I have just reread the conversations between Goethe and Eckermann. There was a m
 
 ### Letter 170: George Sand → Gustave Flaubert
 
-### <span class="small-caps">CLXIX. To Gustave Flaubert, at Croisset</span>
+#### <span class="small-caps">CLXIX. To Gustave Flaubert, at Croisset</span>
 
 Nohant, 29 June, 1870
 
@@ -3195,7 +3199,7 @@ G. Sand
 
 ### Letter 171: Gustave Flaubert → George Sand
 
-### CLXX. <span class="small-caps">To George Sand</span>
+#### CLXX. <span class="small-caps">To George Sand</span>
 
 Croisset, Wednesday evening . . . 1870
 
@@ -3215,7 +3219,7 @@ The bourgeois here cannot contain himself. He thinks Prussia was too insolent an
 
 ### Letter 172: George Sand → Gustave Flaubert
 
-### CLXXI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CLXXI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 26 July, 1870
 
@@ -3237,7 +3241,7 @@ G. Sand
 
 ### Letter 173: Gustave Flaubert → George Sand
 
-### CLXXII. <span class="small-caps">To George Sand</span>
+#### CLXXII. <span class="small-caps">To George Sand</span>
 
 Croisset, Wednesday, 3 August, 1870
 
@@ -3263,7 +3267,7 @@ Once men passed their life in starving. The same prospect is on the horizon. Wha
 
 ### Letter 174: George Sand → Gustave Flaubert
 
-### <span class="small-caps">CLXXIII. To Gustave Flaubert, at Croisset</span>
+#### <span class="small-caps">CLXXIII. To Gustave Flaubert, at Croisset</span>
 
 Nohant, 8 August, 1870
 
@@ -3287,7 +3291,7 @@ Nohant, Sunday evening.
 
 ### Letter 175: Gustave Flaubert → George Sand
 
-### CLXXIV. <span class="small-caps">To George Sand</span>
+#### CLXXIV. <span class="small-caps">To George Sand</span>
 
 Croisset, Wednesday, 1870
 
@@ -3299,7 +3303,7 @@ It is impossible for me to read anything whatever, still more so to write anythi
 
 ### Letter 176: George Sand → Gustave Flaubert
 
-### CLXXV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CLXXV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 15 August, 1870
 
@@ -3319,7 +3323,7 @@ G. Sand
 
 ### Letter 177: Gustave Flaubert → George Sand
 
-### CLXXVI. <span class="small-caps">To George Sand</span>
+#### CLXXVI. <span class="small-caps">To George Sand</span>
 
 Saturday, 1870
 
@@ -3345,7 +3349,7 @@ As for me, I consider myself a man whose career is ended. My brain is not going 
 
 ### Letter 178: Gustave Flaubert → George Sand
 
-### CLXXVII. <span class="small-caps">To George Sand</span>
+#### CLXXVII. <span class="small-caps">To George Sand</span>
 
 Sunday evening
 
@@ -3373,7 +3377,7 @@ Oh! if I could flee into a country where one does not see uniforms, where one do
 
 ### Letter 179: Gustave Flaubert → George Sand
 
-### CLXXVIII.  <span class="small-caps">To George Sand</span>
+#### CLXXVIII.  <span class="small-caps">To George Sand</span>
 
 Wednesday
 
@@ -3395,7 +3399,7 @@ The war (I hope) will make a home thrust at the “authorities.” The individua
 
 ### Letter 180: Gustave Flaubert → George Sand
 
-### CLXXIX. <span class="small-caps">To George Sand</span>
+#### CLXXIX. <span class="small-caps">To George Sand</span>
 
 Tuesday, 11 October, 1870
 
@@ -3415,7 +3419,7 @@ Ah! how sad I am. I feel that the world is going by.
 
 ### Letter 181: George Sand → Gustave Flaubert
 
-### CLXXX. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CLXXX. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Le Châtre, 14 October, 1870
 
@@ -3431,7 +3435,7 @@ G. Sand
 
 ### Letter 182: George Sand → Gustave Flaubert
 
-### CLXXXI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CLXXXI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 4 February, 1871.
 
@@ -3445,7 +3449,7 @@ G. Sand
 
 ### Letter 183: George Sand → Gustave Flaubert
 
-### CLXXXII.  <span class="small-caps">To Gustave Flaubert</span>
+#### CLXXXII.  <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 22 February, 1871
 
@@ -3455,7 +3459,7 @@ Yours.
 
 ### Letter 184: Gustave Flaubert → George Sand
 
-### CLXXXIII.  <span class="small-caps">To George Sand</span>
+#### CLXXXIII.  <span class="small-caps">To George Sand</span>
 
 Dieppe, 11 March, 1871
 
@@ -3473,7 +3477,7 @@ I have now at Croisset twelve Prussians. As soon as my poor dwelling (of which I
 
 ### Letter 185: George Sand → Gustave Flaubert
 
-### CLXXXIV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CLXXXIV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 17 March, 1871
 
@@ -3495,7 +3499,7 @@ I embrace you a thousand times for myself and for all my brood. The little girls
 
 ### Letter 186: Gustave Flaubert → George Sand
 
-### CLXXXV. <span class="small-caps">To George Sand</span>
+#### CLXXXV. <span class="small-caps">To George Sand</span>
 
 Neuville near Dieppe, Friday, 31 March, 1871
 
@@ -3521,7 +3525,7 @@ I embrace you!
 
 ### Letter 187: Gustave Flaubert → George Sand
 
-### CLXXXVI. <span class="small-caps">To George Sand</span>
+#### CLXXXVI. <span class="small-caps">To George Sand</span>
 
 Croisset, Monday evening, two o'clock
 
@@ -3543,7 +3547,7 @@ I have started at *Saint-Antoine* once more, and I am working tremendously.
 
 ### Letter 188: George Sand → Gustave Flaubert
 
-### CLXXXVII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CLXXXVII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 28 April, 1871
 
@@ -3569,7 +3573,7 @@ G. Sand
 
 ### Letter 189: Gustave Flaubert → George Sand
 
-### CLXXXVIII. <span class="small-caps">To George Sand</span>
+#### CLXXXVIII. <span class="small-caps">To George Sand</span>
 
 I am answering at once your questions that concern me personally. No! the Prussians did not loot my house. They *hooked* some little things of no importance, a dressing case, a bandbox, some pipes; but on the whole they did no harm. As for my study, it was respected. I had buried a large box full of letters and hidden my voluminous notes on *Saint-Antoine*. I found all that intact.
 
@@ -3601,7 +3605,7 @@ But this is a very long letter. When I start abusing my contemporaries, I never 
 
 ### Letter 190: Gustave Flaubert → George Sand
 
-### CLXXXIX. <span class="small-caps">To George Sand</span>
+#### CLXXXIX. <span class="small-caps">To George Sand</span>
 
 Croisset, Sunday evening, 10 June, 1871
 
@@ -3631,7 +3635,7 @@ Have you read, among the documents found in the Tuileries last September, a plot
 
 ### Letter 191: George Sand → Gustave Flaubert
 
-### <span class="small-caps">CXC. To Gustave Flaubert, at Paris</span> [^fn-p0246-1]
+#### <span class="small-caps">CXC. To Gustave Flaubert, at Paris</span> [^fn-p0246-1]
 
 Nohant, 23 July, 1871
 
@@ -3647,7 +3651,7 @@ G. Sand
 
 ### Letter 192: Gustave Flaubert → George Sand
 
-### CXCI. <span class="small-caps">To George Sand</span>
+#### CXCI. <span class="small-caps">To George Sand</span>
 
 25 July, 1871
 
@@ -3667,7 +3671,7 @@ Berton wrote to me to recommend him (and them) to d’Osmoy, deputy and presiden
 
 ### Letter 193: George Sand → Gustave Flaubert
 
-### CXCII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CXCII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, August, 1871
 
@@ -3685,7 +3689,7 @@ G. Sand
 
 ### Letter 194: George Sand → Gustave Flaubert
 
-### CXCIII. <span class="small-caps">To Gustave Flaubert</span>
+#### CXCIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 6 September, 1871
 
@@ -3701,7 +3705,7 @@ G. Sand
 
 ### Letter 195: Gustave Flaubert → George Sand
 
-### CXCIV. <span class="small-caps">To George Sand</span>
+#### CXCIV. <span class="small-caps">To George Sand</span>
 
 Croisset, Wednesday, 6 September
 
@@ -3727,7 +3731,7 @@ I have been looking after the grave of my poor Bouilhet today; so tonight I have
 
 ### Letter 196: Gustave Flaubert → George Sand
 
-### CXCV. T<span class="small-caps">O</span> G<span class="small-caps">EORGE</span> S<span class="small-caps">AND</span>
+#### CXCV. T<span class="small-caps">O</span> G<span class="small-caps">EORGE</span> S<span class="small-caps">AND</span>
 
 Croisset, 8 September, 1871
 
@@ -3755,7 +3759,7 @@ Our ignorance of history makes us slander our own times. Man has always been lik
 
 ### Letter 197: George Sand → Gustave Flaubert
 
-### CXCVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CXCVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 8 September, 1871
 
@@ -3775,7 +3779,7 @@ G. Sand
 
 ### Letter 198: George Sand → Gustave Flaubert
 
-### CXCVII. <span class="small-caps">To Gustave Flaubert</span> [^fn-p0256-1]
+#### CXCVII. <span class="small-caps">To Gustave Flaubert</span> [^fn-p0256-1]
 
 14 September, 1871, Nohant
 
@@ -3839,7 +3843,7 @@ G. Sand
 
 ### Letter 199: George Sand → Gustave Flaubert
 
-### CXCVIII. <span class="small-caps">To Gustave Flaubert</span>
+#### CXCVIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 16 September, 1871
 
@@ -3859,7 +3863,7 @@ G. Sand
 
 ### Letter 200: Gustave Flaubert → George Sand
 
-### CXCIX. <span class="small-caps">To George Sand</span>
+#### CXCIX. <span class="small-caps">To George Sand</span>
 
 Dear master, I received your article yesterday, and I should answer it at length if I were not in the midst of preparations for my departure for Paris. I am going to try to finish up with *Aissé*.
 
@@ -3881,7 +3885,7 @@ I hear today that the mass of the Parisians regrets Badinguet. A plebiscite woul
 
 ### Letter 201: George Sand → Gustave Flaubert
 
-### CC. <span class="small-caps">To Gustave Flaubert</span>
+#### CC. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 10 October, 1871
 
@@ -3903,7 +3907,7 @@ G. Sand
 
 ### Letter 202: Gustave Flaubert → George Sand
 
-### CCI. <span class="small-caps">To George Sand</span>
+#### CCI. <span class="small-caps">To George Sand</span>
 
 Never, dear good master, have you given such a proof of your inconceivable candor! Now, seriously, you think that you have offended me! The first page is almost like excuses! It made me laugh heartily! Besides, you can always say everything to me, to me! everything! Your blows will be caresses to me.
 
@@ -3927,7 +3931,7 @@ Your old friend
 
 ### Letter 203: Gustave Flaubert → George Sand
 
-### CCII. <span class="small-caps">To George Sand</span>
+#### CCII. <span class="small-caps">To George Sand</span>
 
 14 November, 1871
 
@@ -3951,7 +3955,7 @@ Your old friend
 
 ### Letter 204: George Sand → Gustave Flaubert
 
-### CCIII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 23 November, 1871
 
@@ -3969,7 +3973,7 @@ G. Sand
 
 ### Letter 205: Gustave Flaubert → George Sand
 
-### CCIV. <span class="small-caps">To George Sand</span>
+#### CCIV. <span class="small-caps">To George Sand</span>
 
 1 December
 
@@ -3985,7 +3989,7 @@ Your old friend
 
 ### Letter 206: George Sand → Gustave Flaubert
 
-### CCV. <span class="small-caps">To Gustave Flaubert</span>
+#### CCV. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 7 December, 1871
 
@@ -3999,7 +4003,7 @@ G. Sand
 
 ### Letter 207: George Sand → Gustave Flaubert
 
-### CCVI. <span class="small-caps">To Gustave Flaubert</span>
+#### CCVI. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 4 January, 1872
 
@@ -4011,7 +4015,7 @@ G. Sand
 
 ### Letter 208: Gustave Flaubert → George Sand
 
-### CCVII. <span class="small-caps">To George Sand</span>
+#### CCVII. <span class="small-caps">To George Sand</span>
 
 Sunday, January, 1872
 
@@ -4035,7 +4039,7 @@ Tourgueneff has been in Paris since the first of December. Every week we have an
 
 ### Letter 209: George Sand → Gustave Flaubert
 
-### CCVIII.  <span class="small-caps">To Gustave Flaubert</span>
+#### CCVIII.  <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 18 January, 1872
 
@@ -4049,7 +4053,7 @@ G. Sand
 
 ### Letter 210: George Sand → Gustave Flaubert
 
-### CCIX.  <span class="small-caps">To Gustave Flaubert</span>
+#### CCIX.  <span class="small-caps">To Gustave Flaubert</span>
 
 Friday, 19 January, 1872
 
@@ -4063,7 +4067,7 @@ I embrace you.
 
 ### Letter 211: Gustave Flaubert → George Sand
 
-### <span class="small-caps">CCX. To George Sand</span>
+#### <span class="small-caps">CCX. To George Sand</span>
 
 You will receive very soon: *Dernières Chansons, Aïssé* and my *Lettre au Conseil municipal de Rouen*, which is to appear tomorrow in *le Temps* before appearing as a pamphlet.
 
@@ -4076,7 +4080,7 @@ Your old friend
 
 ### Letter 212: George Sand → Gustave Flaubert
 
-### <span class="small-caps">CCXI. To Gustave Flaubert</span>
+#### <span class="small-caps">CCXI. To Gustave Flaubert</span>
 
 Nohant, 25 January, 1872
 
@@ -4098,7 +4102,7 @@ G. Sand
 
 ### Letter 213: Gustave Flaubert → George Sand
 
-### CCXII. <span class="small-caps">To George Sand</span>
+#### CCXII. <span class="small-caps">To George Sand</span>
 
 No! dear master! it is not true. Bouilhet never injured the bourgeois of Rouen; no one was gentler to them, I add even more cowardly, to tell the truth. As for me, I kept apart from them, that is all my crime.
 
@@ -4118,7 +4122,7 @@ Method is the highest thing in criticism, since it gives the means of creating.
 
 ### Letter 214: George Sand → Gustave Flaubert
 
-### <span class="small-caps">CCXIII. To Gustave Flaubert</span>
+#### <span class="small-caps">CCXIII. To Gustave Flaubert</span>
 
 Nohant, 28 January, 1872
 
@@ -4134,7 +4138,7 @@ Your old troubadour.
 
 ### Letter 215: Gustave Flaubert → George Sand
 
-### CCXIV. <span class="small-caps">To George Sand</span>
+#### CCXIV. <span class="small-caps">To George Sand</span>
 
 Dear good master,
 
@@ -4148,7 +4152,7 @@ Consider if you have a mind for it and answer by a line.
 
 ### Letter 216: George Sand → Gustave Flaubert
 
-### CCXV. <span class="small-caps">To Gustave Flaubert, in Paris</span>
+#### CCXV. <span class="small-caps">To Gustave Flaubert, in Paris</span>
 
 Nohant, 17 February
 
@@ -4160,7 +4164,7 @@ G. Sand
 
 ### Letter 217: Gustave Flaubert → George Sand
 
-### CCXVI. <span class="small-caps">To George Sand</span>
+#### CCXVI. <span class="small-caps">To George Sand</span>
 
 What a long time it is since I have written to you, dear master. I have so many things to say to you that I don't know where to begin. Oh! how horrid it is to live so separated when we love each other.
 
@@ -4184,7 +4188,7 @@ I have met Madame Viardot whom I found a very curious temperament. It was Tourgu
 
 ### Letter 218: George Sand → Gustave Flaubert
 
-### CCXVII.  <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CCXVII.  <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, from the 28 to the 29 February  
 1872. Night of Wednesday to Thurs-  
@@ -4212,7 +4216,7 @@ Tell me how and why father Hugo did not have one single visit after *Ruy Blas*? 
 
 ### Letter 219: Gustave Flaubert → George Sand
 
-### CCXVIII. <span class="small-caps">To George Sand</span>
+#### CCXVIII. <span class="small-caps">To George Sand</span>
 
 March, 1872
 
@@ -4242,7 +4246,7 @@ Your old troubadour always agitated, always as wrathful as Saint Polycarp.
 
 ### Letter 220: G. Sand → Gustave Flaubert
 
-### CCXIX. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXIX. <span class="small-caps">To Gustave Flaubert</span>
 
 17 March, 1872
 
@@ -4260,7 +4264,7 @@ G. Sand
 
 ### Letter 221: Gustave Flaubert → George Sand
 
-### CCXX. <span class="small-caps">To George Sand</span>
+#### CCXX. <span class="small-caps">To George Sand</span>
 
 Croisset
 
@@ -4274,7 +4278,7 @@ If only I do not make a failure also of *Saint-Antoine*. I am going to start wor
 
 ### Letter 222: G. Sand → Gustave Flaubert
 
-### CCXXI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CCXXI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 9 April, 1872
 
@@ -4286,7 +4290,7 @@ G. Sand
 
 ### Letter 223: George Sand → Gustave Flaubert
 
-### CCXXII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXXII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 14 April, 1872
 
@@ -4294,7 +4298,7 @@ My daughter-in-law has been staying several days with our friends, at Nîmes, to
 
 ### Letter 224: Gustave Flaubert → George Sand
 
-### CCXXIII. <span class="small-caps">To George Sand</span>
+#### CCXXIII. <span class="small-caps">To George Sand</span>
 
 Tuesday, 16 April, 1872
 
@@ -4316,7 +4320,7 @@ I realized, during the last two weeks, that my poor dear, good mother was the be
 
 ### Letter 225: G. Sand → Gustave Flaubert
 
-### CCXXIV. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXXIV. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 28 April, 1872
 
@@ -4330,7 +4334,7 @@ G. Sand
 
 ### Letter 226: Gustave Flaubert → George Sand
 
-### CCXXV. <span class="small-caps">To George Sand</span>
+#### CCXXV. <span class="small-caps">To George Sand</span>
 
 What good news, dear master! In a month and even before a month, I shall see you at last!
 
@@ -4346,7 +4350,7 @@ Do you know that my poor Théo is very ill? He is dying from boredom and misery.
 
 ### Letter 227: G. Sand → Gustave Flaubert
 
-### CCXXVI. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXXVI. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 18 May, 1872
 
@@ -4356,7 +4360,7 @@ G. Sand
 
 ### Letter 228: G. Sand → Gustave Flaubert
 
-### CCXXVII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXXVII. <span class="small-caps">To Gustave Flaubert</span>
 
 Paris, Monday, 3 June, 1872,  
 Rue Gay Lussac, 5
@@ -4367,7 +4371,7 @@ G. Sand
 
 ### Letter 229: Gustave Flaubert → George Sand
 
-### CCXXVIII. <span class="small-caps">To George Sand</span>
+#### CCXXVIII. <span class="small-caps">To George Sand</span>
 
 1872
 
@@ -4385,7 +4389,7 @@ Hoping to see you soon, dear master, your old troubadour, who embraces you.
 
 ### Letter 230: G. Sand → Gustave Flaubert
 
-### CCXXIX. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXXIX. <span class="small-caps">To Gustave Flaubert</span>
 
 7 June, 1872
 
@@ -4399,7 +4403,7 @@ G. Sand
 
 ### Letter 231: G. Flaubert → George Sand
 
-### CCXXX. <span class="small-caps">To George Sand</span>
+#### CCXXX. <span class="small-caps">To George Sand</span>
 
 Dear master,
 
@@ -4415,7 +4419,7 @@ Answer me categorically, so that we may know what you will do.
 
 ### Letter 232: George Sand → Gustave Flaubert
 
-### CCXXXI. <span class="small-caps">To Gustave Flaubert, at Croisset..</span>
+#### CCXXXI. <span class="small-caps">To Gustave Flaubert, at Croisset..</span>
 
 Nohant, 5 July, 1872
 
@@ -4431,7 +4435,7 @@ The other day we discovered, about three leagues from here, a wilderness, an abs
 
 ### Letter 233: Gustave Flaubert → George Sand
 
-### CCXXXII. <span class="small-caps">To George Sand</span>
+#### CCXXXII. <span class="small-caps">To George Sand</span>
 
 Bagnères de Luchon, 12th July, 1872
 
@@ -4451,7 +4455,7 @@ In the midst of my bewilderment, I embrace you and yours also. Your old blockhea
 
 ### Letter 234: G. Sand → Gustave Flaubert
 
-### <span class="small-caps">CCXXXIII. To Gustave Flaubert</span>
+#### <span class="small-caps">CCXXXIII. To Gustave Flaubert</span>
 
 Nohant, 19 July, 1872
 
@@ -4479,7 +4483,7 @@ G. Sand
 
 ### Letter 235: Gustave Flaubert → George Sand
 
-### CCXXXIV. <span class="small-caps">To George Sand</span>
+#### CCXXXIV. <span class="small-caps">To George Sand</span>
 
 Croisset, Thursday
 
@@ -4493,7 +4497,7 @@ I should like very much to see you: (1) to see you; (2) to read you *Saint-Antoi
 
 ### Letter 236: G. Sand → Gustave Flaubert
 
-### CCXXXV. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXXXV. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 31 August, 1872
 
@@ -4511,7 +4515,7 @@ G. Sand
 
 ### Letter 237: G. Sand → Gustave Flaubert
 
-### CCXXXVI. <span class="small-caps">To Gustave Flaubert, at Paris</span>
+#### CCXXXVI. <span class="small-caps">To Gustave Flaubert, at Paris</span>
 
 Nohant, 25 October, 1872
 
@@ -4545,7 +4549,7 @@ G. Sand
 
 ### Letter 238: Gustave Flaubert → George Sand
 
-### CCXXXVII. <span class="small-caps">To George Sand</span>
+#### CCXXXVII. <span class="small-caps">To George Sand</span>
 
 Dear master,
 
@@ -4557,7 +4561,7 @@ This vice, by the way, *betraying one’s friends in public*, seems to me to be 
 
 ### Letter 239: George Sand → Gustave Flaubert
 
-### CCXXXVIII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXXXVIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 26 October, 1872
 
@@ -4573,7 +4577,7 @@ I shall not go to Paris until after a month’s time to put on *Mademoiselle La 
 
 ### Letter 240: Gustave Flaubert → George Sand
 
-### CCXXXIX. <span class="small-caps">To George Sand</span>
+#### CCXXXIX. <span class="small-caps">To George Sand</span>
 
 Monday night, 28 October, 1872
 
@@ -4603,7 +4607,7 @@ Ever since a month ago, I have been expecting Tourgueneff from week to week. The
 
 ### Letter 241: G. Sand → Gustave Flaubert
 
-### CCXL. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CCXL. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 22 November, 1872
 
@@ -4621,7 +4625,7 @@ I am sending you two novels for your collection of my writings: you are not *obl
 
 ### Letter 242: Gustave Flaubert → George Sand
 
-### CCXLI. <span class="small-caps">To George Sand</span>
+#### CCXLI. <span class="small-caps">To George Sand</span>
 
 Monday evening, eleven o’clock, 25 November, 1872
 
@@ -4643,7 +4647,7 @@ Do you know, in all history, including that of the Botocudos, anything more imbe
 
 ### Letter 243: G. Sand → Gustave Flaubert
 
-### CCXLII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXLII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 27 November, 1872
 
@@ -4661,7 +4665,7 @@ G. Sand
 
 ### Letter 244: Gustave Flaubert → George Sand
 
-### CCXLIII. <span class="small-caps">To George Sand</span>
+#### CCXLIII. <span class="small-caps">To George Sand</span>
 
 Dear master,
 
@@ -4685,7 +4689,7 @@ I thank you from the bottom of my heart for this twofold reading. It has relaxed
 
 ### Letter 245: George Sand → Gustave Flaubert
 
-### CCXLIV. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXLIV. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 29 November, 1872
 
@@ -4703,7 +4707,7 @@ I don’t think that they will play *Mademoiselle La Quintinie*. The censors hav
 
 ### Letter 246: Gustave Flaubert → George Sand
 
-### CCXLV.  <span class="small-caps">To George Sand</span>
+#### CCXLV.  <span class="small-caps">To George Sand</span>
 
 Wednesday, 4th December, 1872
 
@@ -4741,7 +4745,7 @@ I am always thinking of Théo. I am not consoled for his loss.
 
 ### Letter 247: George Sand → Gustave Flaubert
 
-### CCXLVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CCXLVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 8 December, 1872
 
@@ -4767,7 +4771,7 @@ Your old troubadour
 
 ### Letter 248: Gustave Flaubert → George Sand
 
-### CCXLVII. <span class="small-caps">To George Sand</span>
+#### CCXLVII. <span class="small-caps">To George Sand</span>
 
 12 December 1872
 
@@ -4783,7 +4787,7 @@ I enter today upon my fifty-second year, and I insist on embracing you today: I 
 
 ### Letter 249: G. Sand → Gustave Flaubert
 
-### <span class="small-caps">CCXLVIII. To Gustave Flaubert</span>
+#### <span class="small-caps">CCXLVIII. To Gustave Flaubert</span>
 
 Nohant, 8 January, 1873
 
@@ -4801,7 +4805,7 @@ I embrace you six times for the New Year.
 
 ### Letter 250: Gustave Flaubert → George Sand
 
-### CCXLIX. <span class="small-caps">To George Sand</span>
+#### CCXLIX. <span class="small-caps">To George Sand</span>
 
 Monday evening, 3 February, 1873
 
@@ -4823,7 +4827,7 @@ Your romantic and liberal old dunce embraces you tenderly.
 
 ### Letter 251: G. Sand → Gustave Flaubert
 
-### CCL. <span class="small-caps">To Gustave Flaubert</span>
+#### CCL. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 5 February, 1873
 
@@ -4841,7 +4845,7 @@ G. Sand
 
 ### Letter 252: Gustave Flaubert → George Sand
 
-### CCLI. <span class="small-caps">To George Sand</span>
+#### CCLI. <span class="small-caps">To George Sand</span>
 
 Tuesday, March 12, 1873
 
@@ -4857,7 +4861,7 @@ Art continues to be “in the marasmus,” as M. Prudhomme says, and there is no
 
 ### Letter 253: George Sand → Gustave Flaubert
 
-### CCLII. <span class="small-caps">To Gustave Flaubert, in Paris</span>
+#### CCLII. <span class="small-caps">To Gustave Flaubert, in Paris</span>
 
 Nohant, 15 March, 1873
 
@@ -4875,7 +4879,7 @@ Send word when you are coming so that I can have a carriage at the station at Ch
 
 ### Letter 254: Gustave Flaubert → George Sand
 
-### CCLIII. <span class="small-caps">To George Sand</span>
+#### CCLIII. <span class="small-caps">To George Sand</span>
 
 Thursday, 20 March, 1873
 
@@ -4895,7 +4899,7 @@ Read as an example of modern fetidness, in the last number of the *Vie Parisienn
 
 ### Letter 255: George Sand → Gustave Flaubert
 
-### CCLIV. <span class="small-caps">To Gustave Flaubert</span>
+#### CCLIV. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 23 March, 1873
 
@@ -4917,7 +4921,7 @@ G. Sand
 
 ### Letter 256: George Sand → Gustave Flaubert
 
-### CCLV. <span class="small-caps">To Gustave Flaubert</span>
+#### CCLV. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 7th April, 1873
 
@@ -4931,7 +4935,7 @@ G. Sand
 
 ### Letter 257: Gustave Flaubert → George Sand
 
-### CCLVI. <span class="small-caps">To George Sand</span>
+#### CCLVI. <span class="small-caps">To George Sand</span>
 
 23 April, 1873
 
@@ -4957,7 +4961,7 @@ otherwise called the R. P. Cruchard of the Barnabites, director of the Ladies of
 
 ### Letter 258: Gustave Flaubert → George Sand
 
-### CCLVII. <span class="small-caps">To George Sand</span>
+#### CCLVII. <span class="small-caps">To George Sand</span>
 
 Dear master,
 
@@ -4997,7 +5001,7 @@ Note that name. It is a gigantic story, but it requires one to toe the mark to t
 
 ### Letter 259: George Sand → Gustave Flaubert
 
-### CCLVIII. T<span class="small-caps">o</span> G<span class="small-caps">ustave</span> F<span class="small-caps">laubert</span>
+#### CCLVIII. T<span class="small-caps">o</span> G<span class="small-caps">ustave</span> F<span class="small-caps">laubert</span>
 
 Nohant, 4 July, 1873
 
@@ -5015,7 +5019,7 @@ Love from all Nohant.
 
 ### Letter 260: Gustave Flaubert → George Sand
 
-### CCLIX. <span class="small-caps">To George Sand</span>
+#### CCLIX. <span class="small-caps">To George Sand</span>
 
 Thursday
 
@@ -5033,7 +5037,7 @@ A thousand affectionate greetings to all and to you the best of everything from 
 
 ### Letter 261: Gustave Flaubert → George Sand
 
-### CCLX. <span class="small-caps">To George Sand</span>
+#### CCLX. <span class="small-caps">To George Sand</span>
 
 Sunday . . .
 
@@ -5057,7 +5061,7 @@ On the other side of the horizon, what horrors they are committing in Spain! So 
 
 ### Letter 262: George Sand → Gustave Flaubert
 
-### <span class="small-caps">CCLXI. To Gustave Flaubert, at Croisset</span>
+#### <span class="small-caps">CCLXI. To Gustave Flaubert, at Croisset</span>
 
 Nohant, 30 August, 1873
 
@@ -5071,7 +5075,7 @@ G. Sand
 
 ### Letter 263: Gustave Flaubert → George Sand
 
-### CCLXII. <span class="small-caps">To George Sand</span>
+#### CCLXII. <span class="small-caps">To George Sand</span>
 
 Croisset, Friday, 5th September, 1873
 
@@ -5093,7 +5097,7 @@ Have you read the *Antichrist?* I find that indeed a beautiful book, aside from 
 
 ### Letter 264: George Sand → Gustave Flaubert
 
-### CCLXIII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CCLXIII. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 3d October, 1873
 
@@ -5109,7 +5113,7 @@ G. Sand
 
 ### Letter 265: Gustave Flaubert → George Sand
 
-### <span class="small-caps">CCLXIV. To George Sand</span>
+#### <span class="small-caps">CCLXIV. To George Sand</span>
 
 Croisset, Thursday
 
@@ -5129,7 +5133,7 @@ They had said in a theatrical bulletin that you were in Paris; I had a mistaken 
 
 ### Letter 266: George Sand → Gustave Flaubert
 
-### CCLXV. <span class="small-caps">To Gustave Flaubert</span>
+#### CCLXV. <span class="small-caps">To Gustave Flaubert</span>
 
 Your poor old troubadour, just getting well from a cruel attack of rheumatism, during which he could not lie down, nor eat, nor dress without aid, is at last up again. He suffered liver trouble, jaundice, rash, fever, in short he was fit to be thrown out on a pile of rubbish.
 
@@ -5147,7 +5151,7 @@ Hard work? When indeed can I start at it? I am *no good*.
 
 ### Letter 267: Gustave Flaubert → George Sand
 
-### CCLXVI. <span class="small-caps">To George Sand</span>
+#### CCLXVI. <span class="small-caps">To George Sand</span>
 
 January, 1874
 
@@ -5187,7 +5191,7 @@ Adieu, dear master! When shall we meet? Nohant is very far away! and I am going 
 
 ### Letter 268: George Sand → Gustave Flaubert
 
-### CCLXVII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCLXVII. <span class="small-caps">To Gustave Flaubert</span>
 
 January, 1874
 
@@ -5205,7 +5209,7 @@ G. Sand
 
 ### Letter 269: Gustave Flaubert → George Sand
 
-### CCLXVIII. <span class="small-caps">To George Sand</span>
+#### CCLXVIII. <span class="small-caps">To George Sand</span>
 
 Saturday evening, 7th February, 1874
 
@@ -5225,7 +5229,7 @@ Well, the good Alexander Dumas has made the plunge! Here he is an Academician! I
 
 ### Letter 270: George Sand → Gustave Flaubert
 
-### CCLXIX.  <span class="small-caps">To Gustave Flaubert</span>
+#### CCLXIX.  <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 15 February, 1874
 
@@ -5237,7 +5241,7 @@ G. Sand
 
 ### Letter 271: Gustave Flaubert → George Sand
 
-### CCLXX. <span class="small-caps">To George Sand</span>
+#### CCLXX. <span class="small-caps">To George Sand</span>
 
 Saturday evening, 28 February, 1874
 
@@ -5259,7 +5263,7 @@ So as to retemper myself in something stronger, I reread the great, the most hol
 
 ### Letter 272: George Sand → Gustave Flaubert
 
-### CCLXXI
+#### CCLXXI
 
 Nohant, March, 1874
 
@@ -5277,7 +5281,7 @@ G. Sand
 
 ### Letter 273: Gustave Flaubert → George Sand
 
-### CCLXXII. <span class="small-caps">To George Sand</span>
+#### CCLXXII. <span class="small-caps">To George Sand</span>
 
 Thursday, one o’clock, 12 March, 1874
 
@@ -5301,7 +5305,7 @@ P. S.—A nice bit from my servant when he handed me your letter this morning. K
 
 ### Letter 274: Gustave Flaubert → George Sand
 
-### CCLXXIII. <span class="small-caps">To George Sand</span>
+#### CCLXXIII. <span class="small-caps">To George Sand</span>
 
 Wednesday, April, 1874
 
@@ -5319,7 +5323,7 @@ And you beg me not to notice human folly, and to deprive myself of the pleasure 
 
 ### Letter 275: Gustave Flaubert → George Sand
 
-### CCLXXIV. <span class="small-caps">To George Sand</span>
+#### CCLXXIV. <span class="small-caps">To George Sand</span>
 
 April, 1874
 
@@ -5341,7 +5345,7 @@ P.S. Could you give me a copy or the original of *Cruchard’s* biography; I hav
 
 ### Letter 276: George Sand → Gustave Flaubert
 
-### CCLXXV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CCLXXV. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 10 April, 1874
 
@@ -5358,7 +5362,7 @@ Your old troubadour.
 
 ### Letter 277: Gustave Flaubert → George Sand
 
-### CCLXXVI. <span class="small-caps">To George Sand</span>
+#### CCLXXVI. <span class="small-caps">To George Sand</span>
 
 Friday evening, 1st May, 1874
 
@@ -5382,7 +5386,7 @@ Your old friend.
 
 ### Letter 278: George Sand → Gustave Flaubert
 
-### CCLXXVII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCLXXVII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 4th May, 1874
 
@@ -5402,7 +5406,7 @@ G. Sand
 
 ### Letter 279: Gustave Flaubert → George Sand
 
-### CCLXXVIII. <span class="small-caps">To George Sand</span>
+#### CCLXXVIII. <span class="small-caps">To George Sand</span>
 
 Croisset, Tuesday, 26th March, 1874
 
@@ -5430,7 +5434,7 @@ More Cruchard than ever. I feel like a good-for-nothing, a cow, damned, antique,
 
 ### Letter 280: Gustave Flaubert → George Sand
 
-### CCLXXIX. T<span class="small-caps">o</span> G<span class="small-caps">eorge</span> S<span class="small-caps">and</span>
+#### CCLXXIX. T<span class="small-caps">o</span> G<span class="small-caps">eorge</span> S<span class="small-caps">and</span>
 
 Kalt-Bad. Righi. Friday, 3d July, 1874
 
@@ -5460,7 +5464,7 @@ As you know Switzerland, it is useless for me to talk to you of it, and you woul
 
 ### Letter 281: George Sand → Gustave Flaubert
 
-### CCLXXX. <span class="small-caps">To Gustave Flaubert</span>
+#### CCLXXX. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 6th July, 1874  
 (Yesterday, seventy years.)
@@ -5485,7 +5489,7 @@ But I cannot write further, I must tell you quickly that I love you, that I embr
 
 ### Letter 282: Gustave Flaubert → George Sand
 
-### CCLXXXI. <span class="small-caps">To George Sand</span>
+#### CCLXXXI. <span class="small-caps">To George Sand</span>
 
 Righi, 14 July, 1874
 
@@ -5503,7 +5507,7 @@ God be thanked, “of my horrible sight I purge their States.”
 
 ### Letter 283: Gustave Flaubert → George Sand
 
-### CCLXXXII. <span class="small-caps">To George Sand</span>
+#### CCLXXXII. <span class="small-caps">To George Sand</span>
 
 Saturday, 26 September, 1874
 
@@ -5523,7 +5527,7 @@ I am sure that you are finding me grouchy and that you are going to answer me : 
 
 ### Letter 284: George Sand → Gustave Flaubert
 
-### CCLXXXIII  <span class="small-caps">To Gustave Flaubert</span>
+#### CCLXXXIII  <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 5th November, 1874
 
@@ -5541,7 +5545,7 @@ G. Sand
 
 ### Letter 285: Gustave Flaubert → George Sand
 
-### CCLXXXIV. <span class="small-caps">To George Sand</span>
+#### CCLXXXIV. <span class="small-caps">To George Sand</span>
 
 Wednesday, 2nd December, 1874
 
@@ -5555,7 +5559,7 @@ The sentiment of that agony penetrates me and I am sad enough to die. When I am 
 
 ### Letter 286: George Sand → Gustave Flaubert
 
-### CCLXXXV.  <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CCLXXXV.  <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 8th December, 1874
 
@@ -5577,7 +5581,7 @@ G. Sand
 
 ### Letter 287: George Sand → Gustave Flaubert
 
-### CCLXXXVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CCLXXXVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 16th January, 1875
 
@@ -5601,7 +5605,7 @@ Come now, no weakness! We all ought to be examples to our friends, our neighbors
 
 ### Letter 288: Gustave Flaubert → George Sand
 
-### CCLXXXVII. <span class="small-caps">To George Sand</span>
+#### CCLXXXVII. <span class="small-caps">To George Sand</span>
 
 Paris, Saturday evening
 
@@ -5631,7 +5635,7 @@ I embrace you all, and especially you, dear master, so great, so strong, and so 
 
 ### Letter 289: George Sand → Gustave Flaubert
 
-### CCLXXXVIII.  <span class="small-caps">To Gustave Flaubert</span>
+#### CCLXXXVIII.  <span class="small-caps">To Gustave Flaubert</span>
 
 20th February
 
@@ -5651,7 +5655,7 @@ Your old troubadour
 
 ### Letter 290: George Sand → Gustave Flaubert
 
-### <span class="small-caps">CCLXXXIX. To Gustave Flaubert</span>
+#### <span class="small-caps">CCLXXXIX. To Gustave Flaubert</span>
 
 Nohant, 25th March, 1875
 
@@ -5673,7 +5677,7 @@ Your old troubadour
 
 ### Letter 291: George Sand → Gustave Flaubert
 
-### CCXC. T<span class="small-caps">O</span> G<span class="small-caps">USTAVE</span> F<span class="small-caps">LAUBERT</span>
+#### CCXC. T<span class="small-caps">O</span> G<span class="small-caps">USTAVE</span> F<span class="small-caps">LAUBERT</span>
 
 Nohant, 7th May, 1875
 
@@ -5695,7 +5699,7 @@ G. Sand
 
 ### Letter 292: Gustave Flaubert → George Sand
 
-### CCXCI. <span class="small-caps">To George Sand</span>
+#### CCXCI. <span class="small-caps">To George Sand</span>
 
 Croisset, 10th May, 1875
 
@@ -5713,7 +5717,7 @@ The bit you sent me about *Aurore* who is reading Homer, did me good. That is wh
 
 ### Letter 293: George Sand → Gustave Flaubert
 
-### CCXCII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXCII. <span class="small-caps">To Gustave Flaubert</span>
 
 Thursday morning, 10th June, 1875
 
@@ -5723,7 +5727,7 @@ I love you with all my heart.
 
 ### Letter 294: George Sand → Gustave Flaubert
 
-### CCXCIII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXCIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Friend, I shall come at your call as soon as you say to me, “I have finished.”
 
@@ -5733,7 +5737,7 @@ G. Sand
 
 ### Letter 295: George Sand → Gustave Flaubert
 
-### CCXCIV. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXCIV. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 15 August
 
@@ -5749,7 +5753,7 @@ G. Sand
 
 ### Letter 296: Gustave Flaubert → George Sand
 
-### CCXCV. <span class="small-caps">To George Sand</span>
+#### CCXCV. <span class="small-caps">To George Sand</span>
 
 Wednesday
 
@@ -5765,7 +5769,7 @@ Don’t tell me again that imbecility is sacred like childhood, for imbecility c
 
 ### Letter 297: George Sand → Gustave Flaubert
 
-### <span class="small-caps">CCXCVI. To Gustave Flaubert, at Croisset</span>
+#### <span class="small-caps">CCXCVI. To Gustave Flaubert, at Croisset</span>
 
 Nohant, 7th September, 1875
 
@@ -5783,7 +5787,7 @@ G. Sand
 
 ### Letter 298: George Sand → Gustave Flaubert
 
-### CCXCVII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCXCVII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 8th October, 1875
 
@@ -5795,7 +5799,7 @@ G. Sand
 
 ### Letter 299: George Sand → Gustave Flaubert
 
-### CCXCVIII. <span class="small-caps">To Gustave Flaubert, in Paris</span>
+#### CCXCVIII. <span class="small-caps">To Gustave Flaubert, in Paris</span>
 
 Nohant, 15 November, 1875
 
@@ -5811,7 +5815,7 @@ G. Sand
 
 ### Letter 300: Gustave Flaubert → George Sand
 
-### CCXCIX. <span class="small-caps">To George Sand</span>
+#### CCXCIX. <span class="small-caps">To George Sand</span>
 
 Paris, 11 December, 1875
 
@@ -5831,7 +5835,7 @@ At the Odéon, a live bear is going to appear on the boards. That is all that I 
 
 ### Letter 301: George Sand → Gustave Flaubert
 
-### CCC. <span class="small-caps">To Gustave Flaubert, in Paris</span>
+#### CCC. <span class="small-caps">To Gustave Flaubert, in Paris</span>
 
 Nohant, 18th and 19th December, 1875
 
@@ -5863,7 +5867,7 @@ What do you mean! Littré a senator? It is impossible to believe it when one kno
 
 ### Letter 302: Gustave Flaubert → George Sand
 
-### CCCI. <span class="small-caps">To George Sand</span>
+#### CCCI. <span class="small-caps">To George Sand</span>
 
 December, 1875
 
@@ -5893,7 +5897,7 @@ I am writing now a little silly story, which a mother can permit her child to re
 
 ### Letter 303: George Sand → Gustave Flaubert
 
-### <span class="small-caps">CCCII. To Gustave Flaubert, in Paris</span>
+#### <span class="small-caps">CCCII. To Gustave Flaubert, in Paris</span>
 
 Nohant, 12th January, 1876
 
@@ -5937,7 +5941,7 @@ G. Sand
 
 ### Letter 304: George Sand → Gustave Flaubert
 
-### CCCIII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCCIII. <span class="small-caps">To Gustave Flaubert</span>
 
 Nohant, 6th March, 1876
 
@@ -5953,7 +5957,7 @@ G. Sand
 
 ### Letter 305: George Sand → Gustave Flaubert
 
-### CCCIV. <span class="small-caps">To Gustave Flaubert, at Paris</span>
+#### CCCIV. <span class="small-caps">To Gustave Flaubert, at Paris</span>
 
 Nohant, 8th March, 1876
 
@@ -5969,7 +5973,7 @@ Do tell M. Zola to send me his book. I shall certainly read it with great intere
 
 ### Letter 306: Gustave Flaubert → George Sand
 
-### <span class="small-caps">CCCV. To George Sand</span>
+#### <span class="small-caps">CCCV. To George Sand</span>
 
 Wednesday, 9th March, 1876
 
@@ -6005,7 +6009,7 @@ The fright which the elections caused to the bourgeois has been diverting.
 
 ### Letter 307: George Sand → Gustave Flaubert
 
-### CCCVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
+#### CCCVI. <span class="small-caps">To Gustave Flaubert, at Croisset</span>
 
 Nohant, 15th March, 1876
 
@@ -6031,7 +6035,7 @@ G. Sand
 
 ### Letter 308: George Sand → Gustave Flaubert
 
-### CCCVII. <span class="small-caps">To Gustave Flaubert</span>
+#### CCCVII. <span class="small-caps">To Gustave Flaubert</span>
 
 30th March, 1876
 
@@ -6047,7 +6051,7 @@ G. Sand
 
 ### Letter 309: Gustave Flaubert → George Sand
 
-### CCCVIII. <span class="small-caps">To George Sand</span>
+#### CCCVIII. <span class="small-caps">To George Sand</span>
 
 Monday evening, 3rd April, 1876
 
@@ -6061,7 +6065,7 @@ But how difficult it is to understand one another! There are two men whom I admi
 
 ### Letter 310: Gustave Flaubert → George Sand
 
-### CCCIX. <span class="small-caps">To George Sand</span>
+#### CCCIX. <span class="small-caps">To George Sand</span>
 
 Sunday evening . . . 1876
 
@@ -6083,7 +6087,7 @@ After my little story, I shall do another,—for I am too deeply shaken to start
 
 ### Letter 311: Gustave Flaubert → George Sand
 
-### CCCX. <span class="small-caps">To George Sand</span>
+#### CCCX. <span class="small-caps">To George Sand</span>
 
 Friday evening . . . 1876
 
@@ -6093,7 +6097,7 @@ I find it perfect, two jewels! *Marianne* moved me deeply and two or three times
 
 ### Letter 312: George Sand → Gustave Flaubert
 
-### CCCXI. <span class="small-caps">To Gustave Flaubert</span>
+#### CCCXI. <span class="small-caps">To Gustave Flaubert</span>
 
 Sunday, Nohant, 5th April, 1876.
 
@@ -6109,7 +6113,7 @@ G. Sand
 
 ### Letter 313: Gustave Flaubert → George Sand
 
-### CCCXII. <span class="small-caps">To George Sand</span>
+#### CCCXII. <span class="small-caps">To George Sand</span>
 
 Monday evening
 
@@ -6136,7 +6140,7 @@ Your old Gustave Flaubert
 
 ### Letter 314: Gustave Flaubert → Maurice Sand
 
-### CCCXIII. <span class="small-caps">To Maurice Sand</span>
+#### CCCXIII. <span class="small-caps">To Maurice Sand</span>
 
 Tuesday evening, 27th
 
@@ -6172,7 +6176,7 @@ Gustave Flaubert
 
 ### Letter 315: Gustave Flaubert → Madam Maurice Sand
 
-### CCCXIV. <span class="small-caps">To Madam Maurice Sand</span>
+#### CCCXIV. <span class="small-caps">To Madam Maurice Sand</span>
 
 Thursday evening, 25th May, 1876
 
@@ -6194,7 +6198,7 @@ Gustave Flaubert
 
 ### Letter 316: Gustave Flaubert → Madam Lina Sand
 
-### CCCXV. <span class="small-caps">To Madam Lina Sand</span>
+#### CCCXV. <span class="small-caps">To Madam Lina Sand</span>
 
 Dear Madam,
 
@@ -6214,7 +6218,7 @@ Saturday morning, 3d June, 1876.
 
 ### Letter 317: Gustave Flaubert → Maurice Sand
 
-### CCCXVI. <span class="small-caps">To Maurice Sand</span>
+#### CCCXVI. <span class="small-caps">To Maurice Sand</span>
 
 Croisset, Sunday, 24 June, 1876
 
@@ -6244,7 +6248,7 @@ Your Gustave Flaubert
 
 ### Letter 318: Gustave Flaubert → Maurice Sand
 
-### CCCXVII. <span class="small-caps">To Maurice Sand</span>
+#### CCCXVII. <span class="small-caps">To Maurice Sand</span>
 
 Croisset, Tuesday, 3rd October, 1876
 
@@ -6264,7 +6268,7 @@ Gustave Flaubert
 
 ### Letter 319: Gustave Flaubert → Maurice Sand
 
-### CCCXVIII. <span class="small-caps">To Maurice Sand</span>
+#### CCCXVIII. <span class="small-caps">To Maurice Sand</span>
 
 Saint-Gratien par Sannois, 20th August, 1877
 
@@ -6290,7 +6294,7 @@ Gustave Flaubert
 
 ### Letter 320: Gustave Flaubert → Maurice Sand
 
-### CCCXIX. <span class="small-caps">To Maurice Sand</span>
+#### CCCXIX. <span class="small-caps">To Maurice Sand</span>
 
 Tuesday morning, April, 1880
 

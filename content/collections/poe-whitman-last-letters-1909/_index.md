@@ -132,27 +132,27 @@
   {
    "format": "epub",
    "file": "poe-whitman-last-letters-1909.epub",
-   "bytes": 90967,
-   "sha256": "49d1a35b68d18600eacc16f6adb8f743e5b5ad75a051a196c39f29158cc35e80"
+   "bytes": 91113,
+   "sha256": "2f92e8f7b78a34dc3e2d1ca82d5d9945b8d5fadaa07d23a7bb76fbfd86f605d4"
   },
   {
    "format": "markdown",
    "file": "poe-whitman-last-letters-1909.md",
-   "bytes": 58361,
-   "sha256": "82e401357c7a964f90505e14682875793dc5ad47ca3dc229792c74c009431ae7"
+   "bytes": 58569,
+   "sha256": "1058f94686712ff253f337be5998607f682ff80ee134e13a0f6fa4d578783957"
   },
   {
    "format": "tei",
    "file": "poe-whitman-last-letters-1909.tei.xml",
-   "bytes": 73865,
-   "sha256": "480f3444031ad512901fbdc76b1733e56cdb305e9f27bd8c4eb1913ab3022c0a"
+   "bytes": 74191,
+   "sha256": "ef666aa115ebddc90d030ee51f3a6644188472167cc0e356618ce89b066ca9a7"
   }
  ],
  "scan_base": "https://archive.org/download/lastlettersofedg00poeeuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:56:53Z",
-  "source_ast_sha256": "26c9684586f280f4d4270a01438059cade41f306da6350aeb742387a912f5978",
+  "compiled_at": "2026-11-24T19:23:27Z",
+  "source_ast_sha256": "f4a4bd680a89fa5c06c04c520d6f3343a808fdac47d2d9effc0837e9cc82b3b4",
   "hugo_renderer_version": "1.0.0"
  }
 }

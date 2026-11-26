@@ -14,9 +14,9 @@ From the portrait by V. G. Perov
 
 Emery Walker ph.sc.
 
-### DOSTOEVSKY: LETTERS AND REMINISCENCES
+### DOSTOEVSKY:<br />LETTERS AND REMINISCENCES
 
-### <span class="small-caps">TRANSLATED FROM THE RUSSIAN BY</span> S. S. KOTELIANSKY AND J. MIDDLETON MURRY
+##### <span class="small-caps">TRANSLATED FROM THE RUSSIAN BY</span><br />S. S. KOTELIANSKY<br />AND J. MIDDLETON MURRY
 
 *[Illustration, p. 13]*
 
@@ -134,9 +134,9 @@ These letters also tell the history of Dostoevsky's creation of *The Idiot,* and
 
 ### Letter 2: F. Dostoevsky → A. N. Maikov
 
-### I
+#### I
 
-### *To A. N. Maikov*
+#### *To A. N. Maikov*
 
 <span class="small-caps">Geneva</span>, *January 12th, 1868.*  
 *December 31st, 1867.*
@@ -185,9 +185,9 @@ My particular greetings to Anna Ivanovna. I have had a letter from Yanovsky. He 
 
 ### Letter 3: F. Dostoevsky → A. N. Maikov
 
-### II
+#### II
 
-### *To A. N. Maikov*
+#### *To A. N. Maikov*
 
 <span class="small-caps">Geneva</span>, *February 18th*/*March 1st* 1868.
 
@@ -223,9 +223,9 @@ Wholly your                F. <span class="small-caps">Dostoevsky</span>.
 
 ### Letter 4: F. Dostoevsky → A. N. Maikov
 
-### III
+#### III
 
-### *To A. N. Maikov*
+#### *To A. N. Maikov*
 
 <span class="small-caps">Geneva</span>, *3rd March* / *20th February* 1868.
 
@@ -243,9 +243,9 @@ P.S.—I am so distracted, everything is muddled up in my head because of the fi
 
 ### Letter 5: F. Dostoevsky → A. N. Maikov
 
-### IV
+#### IV
 
-### *To A. N. Maikov*
+#### *To A. N. Maikov*
 
 <span class="small-caps">Geneva</span>, *March* <sup>2*nd*</sup>/<sub>14*th*</sub> 1868.
 
@@ -275,9 +275,9 @@ Anyhow I shall write more often now. Anya burst into tears when she read in your
 
 ### Letter 6: F. Dostoevsky → A. N. Maikov
 
-### V
+#### V
 
-### *To A. N. Maikov*
+#### *To A. N. Maikov*
 
 <span class="small-caps">Geneva</span>, *March 20th*/*April 2nd* 1868.
 
@@ -303,9 +303,9 @@ P.S.—For the love of God, tell me everything you hear (if only you do hear) ab
 
 ### Letter 7: F. Dostoevsky → A. N. Maikov
 
-### VI
+#### VI
 
-### *To A. N. Maikov*
+#### *To A. N. Maikov*
 
 <span class="small-caps">Florence</span>, *May* <sup>15*th*</sup>⁄<sub>27*th*</sub>, 1869.
 
@@ -337,9 +337,9 @@ your F. <span class="small-caps">Dostoevsky.</span>
 
 ### Letter 8: F. Dostoevsky → A. N. Maikov
 
-### VII
+#### VII
 
-### *To A. N. Maikov*
+#### *To A. N. Maikov*
 
 <span class="small-caps">Dresden,</span> <sup>14</sup>⁄<sub>26</sub>*th August,* 1869.
 
@@ -361,9 +361,9 @@ F. <span class="small-caps">Dostoevsky.</span>
 
 ### Letter 9: F. Dostoevsky → A. N. Maikov
 
-### VIII
+#### VIII
 
-### *To A. N. Maikov*
+#### *To A. N. Maikov*
 
 <span class="small-caps">Dresden</span>, <sup>9th</sup>/<sub>21st</sub> *October*, 1870.
 
@@ -407,11 +407,15 @@ F. <span class="small-caps">Dostoevsky</span>.
 
 The couple left Russia, originally for Dresden, two months later, on April 14, 1867, intending to remain away for only three or four months. Circumstances, however, some of which are sufficiently indicated in the letters to Maikov, delayed the return until the spring of 1871. At that time Dostoevsky was very ill and very homesick, as may be seen from his letter of March 18, 1871, to N. N. Strahov :
 
-> ‘ I have been ill for some time, and above all I have felt homesick after my epileptic fit. When I have not had a fit for a long time, and then it suddenly breaks out, then I feel an unusual nostalgia, a moral one. It drives me to despair. Formerly this depression used to last about three days after the fit, and now it lasts seven or eight days ; but all the time I have been in Dresden my fits have been less frequent than anywhere else. Secondly, *there is the longing for work.* I am almost worn out with the slowness of my work. I must go to Russia, although I have got quite unaccustomed to the Petersburg climate. But, after all, whatever happens, return *I must. . . .* My writing does not come off, Nicolay Nicolayevich, or it is produced with terrible difficulty. What all this means—I do not know. But I think it is my need for Russia. At whatever cost I must return to Russia. . . .’
+> **[enclosure]**
+>
+> > ‘ I have been ill for some time, and above all I have felt homesick after my epileptic fit. When I have not had a fit for a long time, and then it suddenly breaks out, then I feel an unusual nostalgia, a moral one. It drives me to despair. Formerly this depression used to last about three days after the fit, and now it lasts seven or eight days ; but all the time I have been in Dresden my fits have been less frequent than anywhere else. Secondly, *there is the longing for work.* I am almost worn out with the slowness of my work. I must go to Russia, although I have got quite unaccustomed to the Petersburg climate. But, after all, whatever happens, return *I must. . . .* My writing does not come off, Nicolay Nicolayevich, or it is produced with terrible difficulty. What all this means—I do not know. But I think it is my need for Russia. At whatever cost I must return to Russia. . . .’
+>
+> In his letter of February 4, 1872, to S. D. Yanovsky, six months after his return to Russia, he writes :
 
-In his letter of February 4, 1872, to S. D. Yanovsky, six months after his return to Russia, he writes :
-
-> ‘ I spent four years abroad—in Switzerland, Germany, and Italy, and got terribly sick of it in the end. With horror I began to notice that I was falling behind Russia ; I read three papers, and spoke with Russians ; but there was a something which as it were I did not understand. I had to come back and see with my own eyes. Well, I 've returned, and found nothing particularly puzzling ; in a couple of months I shall understand everything again ! '
+> **[enclosure]**
+>
+> > ‘ I spent four years abroad—in Switzerland, Germany, and Italy, and got terribly sick of it in the end. With horror I began to notice that I was falling behind Russia ; I read three papers, and spoke with Russians ; but there was a something which as it were I did not understand. I had to come back and see with my own eyes. Well, I 've returned, and found nothing particularly puzzling ; in a couple of months I shall understand everything again ! '
 
 But if Dostoevsky desired to return to Russia for his own sake, he was still more anxious to do so on account of his wife. In a letter to A. N. Maikov, Dostoevsky writes :
 
@@ -421,7 +425,7 @@ It was something more, perhaps, than home-sickness ; for Madame Dostoevsky's exi
 
 The Reminiscences of Madame Dostoevsky, for the year 1871-1872, are taken from three of her notebooks found in the Poushkin Department of the Russian Academy of Sciences in Petersburg.
 
-### I
+#### I
 
 ### OUR RETURN TO RUSSIA IN 1871
 
@@ -459,7 +463,7 @@ Yet not all the surprises were unpleasant. There came to light one circumstance 
 
 My ecstasy can be imagined when, examining the contents of the basket, I found several note-books by Fiodor Mihailovich, several books of memoranda relating to the conduct of the reviews *Vremya* and *Epocha,* left by Mihail Mihailovich ; and a mass of most varied correspondence. These recovered papers more than once served us a good turn in our subsequent life, when it was necessary to prove or refute certain facts in the life of Fiodor Mihailovich which had been unknown to me before 1867. As it appeared later, Isayev, on our departure, took that basket of letters and notebooks to his rooms. When he moved from Emily Fiodorovna's house, he left the basket there, but as she did not know what to do with it, she handed it over to her son, Fiodor ‘junior,’ who placed it for safe-keeping with friends. And then every one forgot about it. It had occurred to me that Fiodor Mihailovich might have notebooks and manuscripts of an earlier period—for instance, of the period when he wrote his *Insulted and Injured* or *The House of the Dead.* And it seemed to me another basket of papers and manuscripts must be in existence, a basket also taken by Isayev, and from him passed through several hands, now lying in somebody else's attic, forgotten by everybody until the mice began to look after it. But in spite of all my efforts I could not discover it.
 
-### <span class="small-caps">The Beginning of the Struggle with the Creditors</span>
+#### <span class="small-caps">The Beginning of the Struggle with<br />the Creditors</span>
 
 In September 1871 a newspaper announced to the public Dostoevsky's return from abroad, and thereby rendered us no good service. Our creditors, hitherto silent, at once presented themselves, demanding payment. The first, and a very formidable one, was G. Hinterlach. Fiodor Mihailovich owed him nothing personally, nor was it a debt contracted during the run of the reviews. It was a debt of the late Mihail Mihailovich's, my husband's brother, contracted when he was in the tobacco trade. [This tobacco business ceased to exist in 1861.] In order to stimulate the sale of his firm's tobacco, Mihail Dostoevsky advertised in the papers that every box of cigars of a certain kind contained a prize,—a pair of scissors, a razor, a needle-case, a penknife, and so on. These prizes attracted customers, and at first the scheme was a great success. But as the choice of prizes was limited, the customers soon began to fall off and the despatch of boxes had to be stopped. The prizes consisted exclusively of metal articles which Mihail Dostoevsky bought from the wholesale dealer G. Hinterlach (Nevsky, opposite the Gostiny Dvor, in the court-yard). The latter sold him the goods on credit and on bills at a high rate of interest. When the subscription to the review *Vremya* went off successfully, Mihail Dostoevsky paid Hinterlach in full, having always considered him the most exacting of his creditors. And three or four days before his death (in July 1864) Mihail Dostoevsky told his wife and Fiodor Mihailovich with joy that he had at last settled everything with 'that blood-sucker Hinterlach.' And when on the death of Mihail Dostoevsky all his affairs devolved on Fiodor Mihailovich, and against his will he had to take over the liabilities of the review *Vremya,*—Mme. Hinterlach came to him and said that Mihail Dostoevsky owed her about two thousand roubles. Fiodor Mihailovich remembered what his brother had said about his having paid his debt to Hinterlach, and informed Mme. Hinterlach of this. But she said that this was a separate debt, and that she had given the amount to Mihail Dostoevsky without having received any acknowledgment from him. Mme. Hinterlach implored Fiodor Mihailovich either to pay her the 2000 roubles or to give her a bill ; she assured him that if she failed to get a bill, her husband would make it very unpleasant for her. She cried, fell on her knees before Fiodor Mihailovich, went into hysterics. Fiodor Mihailovich, who always believed in human honesty, believed her, and gave her two bills, of 1000 roubles each. The first bill had been paid before 1867, but the second bill, amounting with four years’ interest to 1300 roubles, was presented by Hinterlach for payment immediately after our arrival. He sent a threatening letter, and Fiodor Mihailovich went to him to ask for a postponement till the New Year (1872), when he was to receive money for his novels. Fiodor Mihailovich returned home in utter despair. Hinterlach declared that he was not going to wait any longer and decided to attach all our movables, and if the latter were not sufficient to cover the debt, he would put Fiodor Mihailovich in the debtors’ prison. Fiodor Mihailovich said to him : ‘ If I ’m sitting in prison, in one room together with other people, away from my family, how shall I be able to work ? How shall I be able to pay you if you deprive me of the possibility of working ? ’—‘ Oh, you are a famous author, and I reckon the Literary Fund will get you out immediately,’ said Hinterlach. Fiodor Mihailovich, who had no particular respect for the Committee of the Literary Fund as constituted at that time, expressed his doubt about getting any assistance from that body ; and declared that even if they offered him such assistance, he would rather go to prison than accept it. In the evening Fiodor Mihailovich and I discussed the matter for a long time, and decided to propose to Hinterlach the following new arrangement : to pay him 50 roubles down, and monthly instalments of 25 roubles, and have half of the debt discharged in the coming year. With that offer Fiodor Mihailovich paid Hinterlach a second visit, and came home utterly disgusted. After a long conversation, Hinterlach had said to him : ‘ Now, you are a gifted author, and I want to show you that I, a small German shopkeeper, *can* put a famous Russian author in the debtors' prison, and be sure, I mean to do it.'[^fn-p0138-1] I was revolted by this impertinent behaviour to my dear husband ; but I realised that we were in the hands of a scoundrel and had no means of getting rid of him. Foreseeing that Hinterlach would not stop at mere threats, I decided to try to arrange the matter myself, and without saying a single word to Fiodor Mihailovich about my intention (he would certainly have forbidden it), I went off to Hinterlach. He received me arrogantly and said : 'Either you put the money on the table, or in a week's time your movables will be attached and sold by auction, and your husband settled in "Tarasov's House."'[^fn-p0138-2] To this I answered coolly, that our flat had been taken by me, and not by Fiodor Mihailovich, and was registered in my name (and I had done this to prevent my husband from being troubled with household worries, negotiations with the landlady and house-porter, etc.) ; and therefore I should not allow my things to be attached. As to the furniture, I had bought it on credit and until I paid the furniture dealer, it all belonged to him, and could not be attached. He could attach a few of Fiodor Mihailovich's clothes ; but these would fetch too small a sum to be worth the trouble. As proof I showed him the lease of the flat and a copy of my agreement with the furniture dealer. As to Hinterlach’s threat about the debtors’ prison, I said to him that if he fulfilled it and Fiodor Mihailovich were compelled to go to prison, if it were only for a few days, ‘ Then I give you my word of honour, Herr Hinterlach, that I shall go down on my knees and pray my husband to remain in prison up to the time when the date of your bill has expired.[^fn-p0139-1] I shall take rooms myself close to the prison, I and the children will visit him daily, and I shall help him in his work. Certainly, if he stays in prison with others in one room, my husband will find it difficult to work, but with God’s help he will get accustomed to it and will work. But as for you, Herr Hinterlach, you won’t get a brass farthing, and besides you will be obliged to pay his “ main-tenance.” [^fn-p0139-2] I give you my word that it will all be as I say, and you will be cruelly punished for your obstinacy.’ Hinterlach began to talk about my husband’s ingratitude, and said he had waited a long time for his money. This finally revolted me ; I was beside myself, and said : ‘ No, it is you who should be grateful to my husband for having given a bill to your wife for a debt which had perhaps been paid already. She had had no acknowledgment from Mihail Dostoevsky, and my husband was under no obligation to make himself responsible for the sum. Fiodor Mihailovich, in giving a bill to your wife, acted out of generosity, out of pity ; for your wife cried and said that you would curse and reproach her eternally, if she failed to get a bill from him. But don't think that your cruelty will go unpunished. If you dare to act as you threaten to do, I on my part will do my very best to make things unpleasant for you : I shall describe the affair with all the details and publish it in the *Syn Otechestva.* Let every one see what the so-called " honest Germans " are capable of. People will recognise you under an invented name, and if you take proceedings against me, I shall prove that I have written the truth ; there are witnesses in whose presence your wife implored Fiodor Mihailovich to give her the bill.'
 
@@ -483,7 +487,7 @@ It will perhaps be said that Fiodor Mihailovich wanted to be independent, and wo
 
 ### II
 
-### SUPPLEMENT
+#### SUPPLEMENT
 
 I have already mentioned that when our creditors learnt of our arrival from the papers, they just threw themselves on us. From their point of view they were right ; for they had been waiting a long time and wanted to get their money. But what could we do, if we had no means of satisfying them at once ? My hope of obtaining the house which had been intended for me, and of selling it immediately in order to pay off our more pressing creditors, could not be realised at once ; for my mother, on account of my brother's marriage, still remained abroad. In November 1871 also my sister, Marie Gregorevna Svatkovsky, who managed my mother's house, went away to Rome for the whole winter. She had promised, on her return in the spring, to hand over the houses, as well as all the accounts concerning it, to my mother, who intended to return to Russia in January 1872. We had thus willy-nilly to wait till the spring. And in the spring a terrible calamity befell us all : my sister Marie fell ill with typhus in Rome and died there on May 1, 1872. After her death it transpired that Marie had transferred her power of attorney for the management of my mother's houses to her husband ; and the latter, in his turn, had transferred it to a person who was unworthy of the trust. In the course of three or four years this gentleman, having pocketed all the income derived from the houses, did not consider it necessary to pay the rates or the taxes. Thus large arrears were accumulated, and my mother's houses were ordered to be sold by public auction. To our great misfortune, we had no means to pay the arrears and thus to save the houses from the enforced sale. Yet we reckoned that the houses would fetch a good price, and that my mother would receive, after paying the debts on the houses, a considerable sum, part of which she would give me instead of the house intended for me. But something completely unexpected happened. The gentleman who managed the houses entered into fictitious agreements with persons he had suborned, to whom he alleged he had let the houses on lease, for the maximum period allowed by law, ten years, and had received the rent due for all that period. This transaction transpired only at the auction ; and it is obvious that no one was to be found who wanted to buy houses from which no income was to be derived for ten years. And then the scoundrel bought our houses for the amount of the arrears due to the Government and the comparatively small sum of debts resting on the property (about ten thousand roubles),—thus having managed to acquire for 12,000 roubles three houses and two large annexes, the value of which was not less than 40,000 roubles. It turned out in the end that not a penny was left to my mother, myself, or my brother. Certainly, we could have taken proceedings ; but in order to do this money was needed, and we had none. And besides, we had to deal with a clever swindler who managed to arrange things correctly from the legal point of view ; so we should hardly have won the case. Besides, by taking legal action, we should have had to involve also my sister's husband, and this would have ended in a quarrel, and we should have been deprived of the possibility of seeing my sister's four orphan-children, of whom we were very fond. Having weighed all the possibilities, we decided not to take proceedings, and to reconcile ourselves to the loss of the houses. But how hard it was for me to bear the blasting of this, the most solid of my hopes of improving our difficult situation ! But the utter hopelessness of this affair only became clear to me finally a couple of years later ; for at first I still cherished the hope of receiving a certain sum of money and thus paying our most urgent debts.
 
@@ -543,7 +547,7 @@ Thus ended my attempt to earn a living by shorthand.
 
 ### LETTERS TO HIS WIFE
 
-### INTRODUCTION BY N. BELCHIKOV
+#### INTRODUCTION BY N. BELCHIKOV
 
 <span class="small-caps">Dostoevsky</span>'s letters to his wife on the Poushkin Celebration of 1880 in Moscow, when he, on behalf of the Slav Charitable Society, delivered his famous speech[^fn-p0173-1] of June 8, 1880, are published from the originals, found amongst Dostoevsky's letters to his wife. The Department of the Central Archives took these letters from the State safes, together with other documents and materials relating to the works of Dostoevsky, in November 1921.[^fn-p0173-2]
 
@@ -607,12 +611,12 @@ Dostoevsky made still more bitter confession concerning contemporary criticisms 
 
 ### Letter 11: F. M. Dostoevsky → Anna Gregorevna Dostoevsky
 
-### F. M. DOSTOEVSKY'S LETTERS TO HIS WIFE ANNA GREGOREVNA DOSTOEVSKY
+#### F. M. DOSTOEVSKY'S LETTERS TO HIS WIFE<br />ANNA GREGOREVNA DOSTOEVSKY
 
 *(During May and June,* 1888, *from Moscow,  
 on the Poushkin Anniversary.)*
 
-### I
+#### I
 
 Moscow, *May* 23-24, 1880.
 
@@ -628,7 +632,7 @@ F. <span class="small-caps">Dostoevsky</span>.
 
 ### Letter 12: F. Dostoevsky → Anya
 
-### II
+#### II
 
 Loskutnaya, on the Tverskoy,  
 Moscow, *Sunday, May* 25, 1880.
@@ -651,7 +655,7 @@ Yuriev has already got Ivan Aksakov's speech on Poushkin. That is probably why t
 
 ### Letter 13: F. Dostoevsky → Anya
 
-### III
+#### III
 
 Loskutnaya, on the Tverskoy  
 (Room No. 33),  
@@ -675,7 +679,7 @@ I embrace you once again. Kiss the children, tell them about their Daddy.
 
 ### Letter 14: F. Dostoevsky → Anya
 
-### IV
+#### IV
 
 Loskutnaya, Room 33,  
 Moscow, *May* 27, 1880, 3 <span class="small-caps">p.m.</span>
@@ -692,7 +696,7 @@ P.S.—In our hotel, besides myself, three others are also staying at the expens
 
 ### Letter 15: F. Dostoevsky → Anya
 
-### V
+#### V
 
 Loskutnaya, Room No. 33,  
 Moscow, *May* 27-28, 2 <span class="small-caps">a.m.</span>
@@ -707,7 +711,7 @@ Elena Pavlovna’s children are with her and they are charming.
 
 ### Letter 16: F. Dostoevsky → Anya
 
-### VI
+#### VI
 
 Loskutnaya, Room 33,  
 Moscow, *May* 28-29, 2 <span class="small-caps">a.m.</span>
@@ -728,7 +732,7 @@ P.S.—If anything happens, telegraph to the Loskutnaya. Address letters there, 
 
 ### Letter 17: F. Dostoevsky → Anya
 
-### VII
+#### VII
 
 Loskutnaya, Room 33,  
 Moscow, *May* 30, 1880.
@@ -745,7 +749,7 @@ Yesterday afternoon the gold link in my cuff was broken ; the one I had repaired
 
 ### Letter 18: F. Dostoevsky → Anya
 
-### VIII
+#### VIII
 
 Loskutnaya, Room 33,  
 Moscow, *May* 31, 1880, 1 <span class="small-caps">a.m.</span>
@@ -760,7 +764,7 @@ P.S.—[*The first word is struck out*] near Auntie playing cards with her, how 
 
 ### Letter 19: F. Dostoevsky → Anyechka
 
-### IX
+#### IX
 
 Loskutnaya, Room 33,  
 Moscow, *June* 2-3, 1880,  
@@ -776,7 +780,7 @@ F. <span class="small-caps">Dostoevsky.</span>
 
 ### Letter 20: F. Dostoevsky → Anyechka
 
-### X
+#### X
 
 Loskutnaya, Room 33,  
 Moscow, *June* 3-4, *Tuesday,* 2 <span class="small-caps">a.m.</span>
@@ -791,7 +795,7 @@ Kiss the children.
 
 ### Letter 21: F. Dostoevsky → Anyutka
 
-### XI
+#### XI
 
 Loskutnaya, Room 33,  
 Moscow, *June 5*, 1880, 8 <span class="small-caps">p.m.</span>
@@ -806,7 +810,7 @@ All the same I 'll try to find time to write you, if it 's only a few lines,
 
 ### Letter 22: F. Dostoevsky → Anya
 
-### XII
+#### XII
 
 Loskutnaya, Room 33,  
 Moscow, *June* 7, 1880,  
@@ -820,7 +824,7 @@ This letter will probably be the last.
 
 ### Letter 23: F. Dostoevsky → Anya
 
-### XIII
+#### XIII
 
 Loskutnaya, Room 33,  
 Moscow, *June* 8, 1880, 8 <span class="small-caps">p.m.</span>
@@ -849,13 +853,15 @@ F. D<span class="small-caps">ostoevsky</span>.
 
 <span class="small-caps">Dostoevsky</span>'s acquaintance with Pobiedonoszev, during the last ten years of his life (1871-1881), is an episode of great interest in the social history of that time, and of importance in the history of Dostoevsky's life as man and author. Up till now no light has been thrown upon it.
 
-Dostoevsky met Pobiedonoszev in the winter of 1871-1872 at the house of Prince Meschersky, the editor of the reactionary paper *Grazhdanin*. The acquaintance continued and developed, and in the year 1873 (when Dostoevsky was editor of the *Grazhdanin*) it ripened into friendship. Of the first moment of their friendship, Dostoevsky wrote to his wife (on June 26, 1873) : ' Pobiedonoszev came yesterday to the office of the *Grazhdanin*. He waited for me, but I was out ; so he left a note asking me to call on him after 8 o'clock. I called last night and sat with him till about midnight. He talked all the time, told me a great deal, and pressed me to go and see him again to-day. He said that I was to let him know if I did not feel well enough, and he would come to me instead. He wrapped me up in a rug, and although the maid ran to the hall to let me out, he himself saw me down three dark flights of stairs, with a candle in his hands, to the porch. What would Vladislavlev say if he had seen it ? He read *Crime and Punishment* when he was in the Isle of Wight, for the first time in his life. It was recommended to him by a certain person, an admirer of mine already too well known to you [probably the Tsarevitch], whom he escorted to England. Consequently things aren't so very bad. But please don't talk about it.'
+> **[letter_excerpt]**
+>
+> Dostoevsky met Pobiedonoszev in the winter of 1871-1872 at the house of Prince Meschersky, the editor of the reactionary paper *Grazhdanin*. The acquaintance continued and developed, and in the year 1873 (when Dostoevsky was editor of the *Grazhdanin*) it ripened into friendship. Of the first moment of their friendship, Dostoevsky wrote to his wife (on June 26, 1873) : ' Pobiedonoszev came yesterday to the office of the *Grazhdanin*. He waited for me, but I was out ; so he left a note asking me to call on him after 8 o'clock. I called last night and sat with him till about midnight. He talked all the time, told me a great deal, and pressed me to go and see him again to-day. He said that I was to let him know if I did not feel well enough, and he would come to me instead. He wrapped me up in a rug, and although the maid ran to the hall to let me out, he himself saw me down three dark flights of stairs, with a candle in his hands, to the porch. What would Vladislavlev say if he had seen it ? He read *Crime and Punishment* when he was in the Isle of Wight, for the first time in his life. It was recommended to him by a certain person, an admirer of mine already too well known to you [probably the Tsarevitch], whom he escorted to England. Consequently things aren't so very bad. But please don't talk about it.'
 
 The description of the meeting and of the unexpectedly cordial and attentive reception from the omnipotent Pobiedonoszev shows that Dostoevsky was at his house for the first time, and was affected by Pobiedonoszev's attitude to him. From the first Pobiedonoszev had a warm regard for him. In a letter to Aksakov on January 30, 1881, Pobiedonoszev wrote : 'The time when he edited the *Grazhdanin* brought us close together. At that time, in sympathy for his desperate position, I worked with him the whole summer, and we became very friendly.' Their friendship grew, and they used to meet regularly on Saturday evenings.
 
 ### Letter 24: F. Dostoevsky → Konstantin Petrovich
 
-### I
+#### I
 
 <span class="small-caps">Staraya Roussa</span>, *May* 19, 1879.
 
@@ -877,7 +883,7 @@ F. <span class="small-caps">Dostoevsky</span>.
 
 ### Letter 25: F. Dostoevsky → Konstantin Petrovich
 
-### II
+#### II
 
 <span class="small-caps">Bad-Ems</span>, *August* 9-21, 1879.
 
@@ -891,7 +897,7 @@ F. <span class="small-caps">Dostoevsky</span>.
 
 ### Letter 26: F. Dostoevsky → Konstantin Petrovich
 
-### III
+#### III
 
 <span class="small-caps">Bad-Ems</span>, *August* 24, 1879.
 
@@ -903,7 +909,7 @@ F. <span class="small-caps">Dostoevsky.</span>
 
 ### Letter 27: F. Dostoevsky → Konstantin Petrovich
 
-### IV
+#### IV
 
 <span class="small-caps">Staraya Roussa,</span> *May* 19, 1880.
 
@@ -919,7 +925,7 @@ My wife congratulates you and scolds me because I have forgotten to mention her.
 
 ### Letter 28: Fiodor Dostoevsky → Konstantin Petrovich
 
-### V
+#### V
 
 <span class="small-caps">Staraya Roussa</span>, *July* 25, 1880.
 
@@ -939,7 +945,7 @@ P.S.—I do not know your address! I address this simply to the Grand Procurator
 
 ### Letter 29: F. Dostoevsky → Konstantin Petrovich
 
-### VI
+#### VI
 
 <span class="small-caps">Staraya Roussa,</span> *August* 16, 1880.
 
@@ -951,11 +957,11 @@ adherent and admirer
 
 F. <span class="small-caps">Dostoevsky.</span>
 
-### POBIEDONOSZEV'S LETTERS TO ALEX- ANDER III <span class="small-caps">(at that time Tsarevitch) on the Occasion of Dostoevsky's Death</span>
+### POBIEDONOSZEV'S LETTERS TO ALEX-<br />ANDER III <span class="small-caps">(at that time Tsarevitch) on<br />the Occasion of Dostoevsky's Death</span>
 
 ### Letter 30
 
-### I
+#### I
 
 *January* 29, 1881.
 
@@ -967,7 +973,7 @@ He was poor and left nothing except books. His family is in need. I am writing n
 
 ### Letter 31: K. Pobiedonoszev → Alexander III
 
-### II
+#### II
 
 *February* 1, 1881.
 
@@ -1113,7 +1119,7 @@ In the Archives of the late Moscow Deputies’ Councils have been found document
 
 chief director of the Golizyn Hospital. P. P. Novosilzev (1797-1869), vice-Governor of Moscow from 1831 to 1851 ; subsequently Governor of Ryazan.)
 
-### ‘ Ministry of the Interior. Chief of the Moscow Government.
+### ‘ Ministry of the<br />Interior.<br />Chief of the<br />Moscow Government.
 
 ### *Received on July* 12.
 

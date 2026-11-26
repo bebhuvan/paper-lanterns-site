@@ -19,7 +19,7 @@ C. F. Schoenbein
 
 M Faraday
 
-### THE LETTERS OF FARADAY <span class="small-caps">and</span> SCHŒNBEIN 1836—1862
+### THE<br />LETTERS<br />OF<br />FARADAY <span class="small-caps">and</span> SCHŒNBEIN<br />1836—1862
 
 WITH NOTES, COMMENTS  
 AND  
@@ -113,7 +113,7 @@ Bâle, *September*, 15th, 1899.
 
 ### Letter 1: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0025-1]
+#### *Schœnbein to Faraday.*[^fn-p0025-1]
 
 <span class="small-caps">Sir,</span>
 
@@ -156,7 +156,7 @@ Bâle, May 17, 1836.
 
 ### Letter 2: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">Sir</span>
 
@@ -174,7 +174,7 @@ Bale Septb. 12th 1836.
 
 ### Letter 3: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">Sir</span>
 
@@ -203,7 +203,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 4: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0041-1]
+#### *Schœnbein to Faraday.*[^fn-p0041-1]
 
 <span class="small-caps">Dear Sir</span>
 
@@ -211,27 +211,27 @@ Some weeks ago I had an opportunity to send you a paper “On a peculiar action 
 
 *[Illustration, p. 17]*
 
-### <span class="small-caps">First Fact.</span>
+###### <span class="small-caps">First Fact.</span>
 
 A and B represent vessels containing nitric acid sp. gr. 1.35 and CPD a platina wire connecting them. If the oxidized end E of an iron wire EF be put into A, and F afterwards into B, F turns active, though a current passes from F through the acid into D. (Usual condition for calling forth the peculiar state.)
 
-### <span class="small-caps">Second Fact.</span>
+###### <span class="small-caps">Second Fact.</span>
 
 If CPD be a wire of a metal, which is acted upon by the acid in A and B, for instance silver, copper, iron, brass etc.; the end F of the iron wire will turn inactive on its being plunged into B, after the immersion of the oxidized end E in A. (The same takes place, if the middle part of the connecting wire P consists of Platina; and the ends C and D of Silver, Copper etc.)
 
-### <span class="small-caps">Third Fact.</span>
+##### <span class="small-caps">Third Fact.</span>
 
 If C P D be an iron wire, its end D inactive, C active, and the end E (not oxidized) first plunged into A and F afterwards into B, F turns inactive, that is to say assumes the state of D. (The inactive iron end D may be replaced by platina and the active one C by any metal, which is acted upon by the acid in A, without causing a change of result by so doing.)
 
-### <span class="small-caps">Fourth Fact.</span>
+##### <span class="small-caps">Fourth Fact.</span>
 
 If every thing be precisely so, as in the forgoing case, but E oxidized and first put into A, F turns likewise inactive on its being afterwards immersed into B.
 
-### <span class="small-caps">Fifth Fact.</span>
+##### <span class="small-caps">Fifth Fact.</span>
 
 If C P D be again an iron wire the end D inactive (made so not by heating but by immersing it into strong nitric acid) and the end F put into B and E afterwards into A, not only E but also D turns active, whatever the number of wires may be similar to C P D, all their inactive ends in B turn active under the circumstances mentioned; though these wires do not touch each other at any point.
 
-### <span class="small-caps">Sixth Fact.</span>
+##### <span class="small-caps">Sixth Fact.</span>
 
 If the four electrodes of two piles (each consisting of about half a dozen of pairs of Zinc and Copper) be introduced into two vessels containing common nitric acid in such a manner, that the positive electrode of one pile and the negative one of the other dip into the same vessel and the oxidized end of an iron wire be plunged into any of the vessels and its ordinary end afterwards into the other one, the latter turns inactive, just in the same way, as if the two vessels were connected by a copper-wire. But to obtain this result it is required to bend up the second, that is to say the ordinary end, thus ‾U, previous to immersion.
 
@@ -252,7 +252,7 @@ D<sup>R.</sup> <span class="small-caps">Schoenbein.</span>
 
 ### Letter 5: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 28 Jan. 1837
 
@@ -275,7 +275,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 6: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 London Royal Institution 6. Feb<sup>y</sup> 1837
 
@@ -296,7 +296,7 @@ Very truly Yours obliged
 
 ### Letter 7: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0047-1]
+#### *Schœnbein to Faraday.*[^fn-p0047-1]
 
 <span class="small-caps">Dear Sir</span>
 
@@ -312,7 +312,7 @@ Bâle April 27th 37
 
 ### Letter 8: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 2nd May. 1837.
 
@@ -336,7 +336,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 9: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 R. Institution 4 May 1837.
 
@@ -352,7 +352,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 10: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Sir</span>
 
@@ -376,7 +376,7 @@ Bâle July 9. 1837.
 
 ### Letter 11: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 21. September 1837
 
@@ -401,7 +401,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 12: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 Bâle 5 Novemb. 1837.
 
@@ -432,7 +432,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 13: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0066-1]
+#### *Schœnbein to Faraday.*[^fn-p0066-1]
 
 <span class="small-caps">My dear Sir</span>
 
@@ -451,7 +451,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 14: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 22 Jan<sup>y</sup> 1838
 
@@ -474,7 +474,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 15: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Sir</span>
 
@@ -493,7 +493,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 16: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 30. July 1838.
 
@@ -519,7 +519,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 17: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 Bâle 12. Aug. 1838.
 
@@ -550,7 +550,7 @@ My right hand having been a little injured lately by some accidental cause, you 
 
 ### Letter 18: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Sir</span>
 
@@ -568,7 +568,7 @@ Bâle 15. Septbr. 1838.
 
 ### Letter 19: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 Bâle, Oct. 20. 1838.
 
@@ -595,7 +595,7 @@ Yours most truly
 
 ### Letter 20: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Sir</span>
 
@@ -628,7 +628,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 21: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 8. April 1839.
 
@@ -658,7 +658,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 22: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Sir</span>
 
@@ -682,7 +682,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 23: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 Bâle July 3. 1839.
 
@@ -710,7 +710,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 24: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal institution 17. August 1839.
 
@@ -731,7 +731,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 25: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 24. Septbr. 1839.
 
@@ -755,7 +755,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 26: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Sir</span>
 
@@ -780,7 +780,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 27: C. F. SCHOENBEIN → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0096-4]
+#### *Schœnbein to Faraday.*[^fn-p0096-4]
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -862,7 +862,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 28: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0104-1]
+#### *Faraday to Schœnbein.*[^fn-p0104-1]
 
 Brighton 24 April 1840.
 
@@ -887,7 +887,7 @@ Your obliged and faithful friend
 
 ### Letter 29: C. F. SCHOENBEIN → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -909,7 +909,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 30: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 27. March 1841
 
@@ -934,7 +934,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 31: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 M<span class="small-caps">Y DEAR</span> F<span class="small-caps">ARADAY</span>
 
@@ -963,7 +963,7 @@ C. F. <span class="small-caps">Schoenbein.</span>
 
 ### Letter 32: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 4 June 1841
 
@@ -984,7 +984,7 @@ I am ashamed to make you pay any postage for this but cannot help it. M. F.
 
 ### Letter 33: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Zug 7. Septr. 1841
 
@@ -1001,7 +1001,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 34: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Friend.</span>
 
@@ -1019,7 +1019,7 @@ I was in the greatest hurry when I wrote these lines and you will therefore be k
 
 ### Letter 35: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 14. Octr. 1841.
 
@@ -1038,7 +1038,7 @@ Truly yours
 
 ### Letter 36: C. F. SCHOENBEIN → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1069,7 +1069,7 @@ friend S.
 
 ### Letter 37: C. F. SCHOENBEIN → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1097,7 +1097,7 @@ S.
 
 ### Letter 38: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Tynemouth 10 August 1842.
 
@@ -1123,7 +1123,7 @@ Ever Most Truly Yours
 
 ### Letter 39: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1147,7 +1147,7 @@ C. F. <span class="small-caps">Schoenbein.</span>
 
 ### Letter 40: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 18 Feby 1843
 
@@ -1176,7 +1176,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 41: C. F. SCHOENBEIN → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1208,7 +1208,7 @@ Bâle April 26. 1843.
 
 ### Letter 42: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">MY DEAR FARADAY</span>
 
@@ -1232,7 +1232,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 43: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 16 May 1843
 
@@ -1257,7 +1257,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 44: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 London Royal Institution 8 Aug 1843
 
@@ -1280,7 +1280,7 @@ join me in every good wish to you                    M. F.
 
 ### Letter 45: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 R. Institution 6 Septr. 1843
 
@@ -1299,7 +1299,7 @@ Your faithful friend
 
 ### Letter 46: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 Bâle Febr 17. 1844.
 
@@ -1328,7 +1328,7 @@ Be kind enough as to forward the inclosed parcels to their respective places of 
 
 ### Letter 47: S. → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 Bale, March 30. 1844.[^fn-p0139-2]
 
@@ -1346,7 +1346,7 @@ S.
 
 ### Letter 48: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0140-2]
+#### *Schœnbein to Faraday.*[^fn-p0140-2]
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1387,7 +1387,7 @@ P. S. To obtain the results such as they are described in the preceding lines it
 
 ### Letter 49: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 12. April 1844
 
@@ -1405,7 +1405,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 50: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0147-2]
+#### *Schœnbein to Faraday.*[^fn-p0147-2]
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1431,7 +1431,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 51: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution April 29. 1844.
 
@@ -1453,7 +1453,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 52: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1483,7 +1483,7 @@ Dont forget to present Mrs. S. and my humble respects to Mrs. Faraday and excuse
 
 ### Letter 53: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear friend</span>
 
@@ -1498,7 +1498,7 @@ C. F. <span class="small-caps">Schoenbein.</span>
 
 ### Letter 54: M. Faraday → Schoenbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 R. Instution 19 June 1844.
 
@@ -1514,7 +1514,7 @@ sincere friend
 
 ### Letter 55: C. F. SCHOENBEIN → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1547,7 +1547,7 @@ P. S. Suppose the french translation of my work on ozon to be finished early eno
 
 ### Letter 56: M. Faraday → Schoenbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Dover 14. Septr. 1844
 
@@ -1572,7 +1572,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 57: M. FARADAY → SCHOENBEIN
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 25. Octr. 1844.
 
@@ -1592,7 +1592,7 @@ M. F<span class="small-caps">ARADAY</span>.
 
 ### Letter 58: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 Bâle November 25th 1844.
 
@@ -1633,7 +1633,7 @@ I ardently wish and earnestly hope that your brother will by this time have enti
 
 ### Letter 59: M. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 20. Feby. 1845.
 
@@ -1652,7 +1652,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 60: C. F. Schoenbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1669,7 +1669,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 61: M. Faraday → Schoenbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 R Institution 14 June 1845
 
@@ -1685,7 +1685,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 62: C. F. SCHOENBEIN → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1709,7 +1709,7 @@ The results obtained with linnen are such as to make me believe it possible to b
 
 ### Letter 63: M. Faraday → Schoenbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Brighton 13 Nov. 1845
 
@@ -1734,7 +1734,7 @@ M. F.
 
 ### Letter 64: C. F. SCHOENBEIN → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1761,7 +1761,7 @@ Bâle Dec. 30. 1845.
 
 ### Letter 65: C. F. SCHOENBEIN → FARADAY
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">MY DEAR FARADAY.</span>
 
@@ -1782,7 +1782,7 @@ Bâle Febr. 27. 1846.
 
 ### Letter 66: M. Faraday → Schoenbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 R. Institute 5 March 1846.
 
@@ -1804,7 +1804,7 @@ Ever Yours
 
 ### Letter 67: C. F. SCHOENBEIN → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1845,7 +1845,7 @@ NB. To shelter the transparent matter from injury I have put it between some bit
 
 ### Letter 68: C. F. SCHOENBEIN → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -1869,7 +1869,7 @@ It was most likely the first time that a gun had been fired by the means of cott
 
 ### Letter 69: C. F. Schoenbein → FARADAY
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 M<span class="small-caps">Y DEAR FARADAY</span>
 
@@ -1886,7 +1886,7 @@ C. F. <span class="small-caps">Schoenbein.</span>
 
 ### Letter 70: C. F. SCHOENBEIN → FARADAY
 
-### *Schœnbein to Faraday.*[^fn-p0183-2]
+#### *Schœnbein to Faraday.*[^fn-p0183-2]
 
 (Aug 22. 1846)
 
@@ -1906,7 +1906,7 @@ C. F. <span class="small-caps">SCHOENBEIN.</span>
 
 ### Letter 71: M. FARADAY → SCHOENBEIN
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Tunbridge Wells. 24 Aug 1846.
 
@@ -1926,7 +1926,7 @@ M. <span class="small-caps">FARADAY.</span>
 
 ### Letter 72: C. F. Schoenbein → FARADAY
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">MY DEAR FARADAY</span>
 
@@ -1950,7 +1950,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 73: M. Faraday → Schoenbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 18. Decr. 1846.
 
@@ -1970,7 +1970,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 74: C. F. SCHOENBEIN → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2014,7 +2014,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 75: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0195-1]
+#### *Schœnbein to Faraday.*[^fn-p0195-1]
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2032,7 +2032,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 76: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0196-1]
+#### *Faraday to Schœnbein.*[^fn-p0196-1]
 
 Royal Institution 23 Octr. 1847.
 
@@ -2053,7 +2053,7 @@ M. F.
 
 ### Letter 77: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2091,7 +2091,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 78: Faraday / S. Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Brighton 17 March 1848
 
@@ -2113,7 +2113,7 @@ Yours very truly
 
 ### Letter 79: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2133,7 +2133,7 @@ About Oct. 1848 perhaps.[^fn-p0205-2]
 
 ### Letter 80: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 15. Decr. 1848.
 
@@ -2166,7 +2166,7 @@ Most truly Yours
 
 ### Letter 81: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2191,7 +2191,7 @@ Bâle, March 27. 1850.
 
 ### Letter 82: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 11 May 1850
 
@@ -2208,7 +2208,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 83: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0210-1]
+#### *Faraday to Schœnbein.*[^fn-p0210-1]
 
 Royal Institution 19. Novr. 1850
 
@@ -2235,7 +2235,7 @@ Yours most truly
 
 ### Letter 84: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2256,7 +2256,7 @@ Bâle 25. Nov. 1850.
 
 ### Letter 85: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0213-1]
+#### *Faraday to Schœnbein.*[^fn-p0213-1]
 
 Brighton 9 December 1850
 
@@ -2275,7 +2275,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 86: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0216-1]
+#### *Faraday to Schœnbein.*[^fn-p0216-1]
 
 Brighton 13 Dec. 1850
 
@@ -2297,7 +2297,7 @@ Ever truly yours
 
 ### Letter 87: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0217-1]
+#### *Faraday to Schœnbein.*[^fn-p0217-1]
 
 Royal Institution 5. March 1851.
 
@@ -2320,7 +2320,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 88: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0219-1]
+#### *Faraday to Schœnbein.*[^fn-p0219-1]
 
 Hastings 19 April 1851.
 
@@ -2341,7 +2341,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 89: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2363,7 +2363,7 @@ P. S. Mr. Sarasin a young friend of mine has the kindness to take charge of the 
 
 ### Letter 90: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0222-1]
+#### *Faraday to Schœnbein.*[^fn-p0222-1]
 
 Tynemouth 1 August 1851
 
@@ -2385,7 +2385,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 91: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 16 Decr. 1851
 
@@ -2405,7 +2405,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 92: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2432,7 +2432,7 @@ C. F. S.
 
 ### Letter 93: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 2 June 1852
 
@@ -2457,7 +2457,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 94: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2473,7 +2473,7 @@ C. F. S.
 
 ### Letter 95: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2498,7 +2498,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 96: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0231-1]
+#### *Faraday to Schœnbein.*[^fn-p0231-1]
 
 Brighton 9 Decr. 1852
 
@@ -2523,7 +2523,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 97: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2546,7 +2546,7 @@ Bâle Dec. 18th 1852.
 
 ### Letter 98: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2574,7 +2574,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 99: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 25 July 1853
 
@@ -2596,7 +2596,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 100: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2621,7 +2621,7 @@ Bâle Septbr. 24. 1853.
 
 ### Letter 101: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 27 January 1854
 
@@ -2631,7 +2631,7 @@ Your letter of Octr. last was well timed, for it found me somewhat tired and out
 
 Your family account is very pleasant and I try to imagine Miss Schœnbein upon the model of what I remember of Madame Schœnbein when we were in Basle: — but I have no doubt my idea is a great mistake. — No matter, it is very pleasant, and you must give our kindest remembrances to Madame Schœnbein. I do not suppose there is any body else at home who remembers me. It would be a delightful thing to accept your invitation and pop in: — but unless I can go by the telegraph line I am afraid that will not happen.
 
-By the bye I have lately been examining some very curious facts obtained with telegraph lines of which you will see a report in our proceedings [^fn-p0244-1] in due time for I gave an account of them last Friday to our Members. They cover copper wire with Gutta Percha here (for insulation in submarine and other cases) so perfectly, that it remains beautifully insulated. I worked with 100 miles in coils immersed in the water of a canal; yet with 360 pairs of plates the conduction through the gutta percha was able to deflect a delicate galvanometer only 5<sup>0</sup>. The copper wire is <sup>1</sup>/<sub>16</sub> of an inch in thickness and the thickness of the Gutta percha on it is about <sup>1</sup>/<sub>10</sub> of an inch — so that 100 miles gives a Leyden jar, of which the inner coating (the copper wire) has a surface of 8272 square feet, and the outer coating (the water at the G. P.) four times that amount or 33 000 square feet. — This wire took a charge from a Voltaic battery and could give back the electricity in a discharge having all the characters of a Voltaic current.
+By the bye I have lately been examining some very curious facts obtained with telegraph lines of which you will see a report in our proceedings [^fn-p0244-1] in due time for I gave an account of them last Friday to our Members. They cover copper wire with Gutta Percha here (for insulation in submarine and other cases) so perfectly, that it remains beautifully insulated. I worked with 100 miles in coils immersed in the water of a canal; yet with 360 pairs of plates the conduction through the gutta percha was able to deflect a delicate galvanometer only 5<sup>0</sup>. The copper wire is [^fn-p0244-1]/<sub>16</sub> of an inch in thickness and the thickness of the Gutta percha on it is about [^fn-p0244-1]/<sub>10</sub> of an inch — so that 100 miles gives a Leyden jar, of which the inner coating (the copper wire) has a surface of 8272 square feet, and the outer coating (the water at the G. P.) four times that amount or 33 000 square feet. — This wire took a charge from a Voltaic battery and could give back the electricity in a discharge having all the characters of a Voltaic current.
 
 Furthermore such a wire when under ground or under water is so affected by the transition of dynamic into static electricity, as to require a hundredfold the amount of tension for the transmission of an electric pulse, as the same wire suspended in the air: an effect of this kind is the interpretation of the extraordinary diversity in the expression of electric velocity given by different experimenters. — But you will hear of all this in the report, when it comes out, which will be soon.
 
@@ -2646,7 +2646,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 102: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 Bâle Febr. 10th 1854.
 
@@ -2698,7 +2698,7 @@ P. S. In reading over the preceding lines I feel I have written a very bad engli
 
 ### Letter 103: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 M<span class="small-caps">y dear</span> F<span class="small-caps">araday</span>
 
@@ -2725,7 +2725,7 @@ Bâle April 9. 1854.
 
 ### Letter 104: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">MY DEAR FARADAY</span>
 
@@ -2748,7 +2748,7 @@ Mrs. and Miss Schœnbein join me in their kindest regards to Mrs. Faraday and yo
 
 ### Letter 105: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 15 May 1854.
 
@@ -2777,7 +2777,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 106: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2811,7 +2811,7 @@ C. F. <span class="small-caps">SCHOENBEIN.</span>
 
 ### Letter 107: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 15 Septr. 1854
 
@@ -2834,7 +2834,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 108: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2869,7 +2869,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 109: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0266-1]
+#### *Faraday to Schœnbein.*[^fn-p0266-1]
 
 Hastings 6 April 1855
 
@@ -2891,7 +2891,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 110: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -2938,7 +2938,7 @@ Don’t forget to remember me friendly to Mrs. Faraday.
 
 ### Letter 111: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 6 Novr. 1855.
 
@@ -2964,7 +2964,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 112: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday.</span>
 
@@ -2995,7 +2995,7 @@ Mr. Wiedemann also charges me with his compliments to you.
 
 ### Letter 113: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0287-1]
+#### *Faraday to Schœnbein.*[^fn-p0287-1]
 
 Royal Institution 21 March 1856
 
@@ -3014,7 +3014,7 @@ Your Affectionate friend
 
 ### Letter 114: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -3043,7 +3043,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.[^fn-p0290-2]
 
 ### Letter 115: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0290-3]
+#### *Faraday to Schœnbein.*[^fn-p0290-3]
 
 Royal Institution 11 April 1856
 
@@ -3061,7 +3061,7 @@ M. <span class="small-caps">FARADAY</span>.
 
 ### Letter 116: Mrs. Faraday → Schœnbein
 
-### *Mrs. Faraday to Schœnbein.*
+#### *Mrs. Faraday to Schœnbein.*
 
 Royal Institution April 11th 1856
 
@@ -3083,7 +3083,7 @@ Yours very sincerely
 
 ### Letter 117: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -3114,7 +3114,7 @@ Bâle April 26th 1856.
 
 ### Letter 118: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -3150,7 +3150,7 @@ Pray be kind enough as to send the inclosed paper to Dr. Whewell as soon as you 
 
 ### Letter 119: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 14 October 1856.
 
@@ -3173,7 +3173,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 120: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 Bâle November 10. 1856.
 
@@ -3200,7 +3200,7 @@ C. F. <span class="small-caps">Schoenbein.</span>
 
 ### Letter 121: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 23 January 1857
 
@@ -3216,7 +3216,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 122: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -3251,7 +3251,7 @@ P. S. Pray present my best compliments to Mrs. Faraday.
 
 ### Letter 123: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 Basle April 25th 1857
 
@@ -3268,7 +3268,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 124: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 7. May 1857.
 
@@ -3287,7 +3287,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 125: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0309-1]
+#### *Schœnbein to Faraday.*[^fn-p0309-1]
 
 Basle, Septbr. 17th 1857.
 
@@ -3327,7 +3327,7 @@ I must add a remark or two on my peroxide-testpaper. I prepare it by drenching s
 
 ### Letter 126: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 25. Septr. 1857
 
@@ -3352,7 +3352,7 @@ M. F.
 
 ### Letter 127: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0317-1]
+#### *Faraday to Schœnbein.*[^fn-p0317-1]
 
 Royal Institution 24 Novr. 1857
 
@@ -3362,7 +3362,7 @@ I dare say you have plenty of letters with the London post mark now from Stamfor
 
 Sir James Clarke[^fn-p0318-2] applied to me the other day, to know if you had been able to draw up a set of practical directions for the observation of Ozone in the atmosphere; obviating such difficulties as arise at first, connected with the time of exposure, the continued exposure, the moisture or dryness of the test paper, etc. He seemed well aware of the general state of he subject, but thought that you would know sooner than the world at large, of any perfectionment. His object is to consider the medical effects of Ozone in nature, where without doubt it must have some, and perhaps, very important effects. Probably when you feel that there is any improvement in the mode of observing you will let us know. I think he said that Ozone seemed to be abundant about our Queens residence, Balmoral, in the North.
 
-I ventured to send you a paper[^fn-p0318-3] the other day by the post. I was assured it would go free and shall be very sorry if, unaware, I have put you and other friends to post expence, but I find that the information I obtain by enquiry is often very uncertain in its nature, though positive in its form. The paper was about Gold, and the relation of it and other metals to light. Many facts came out during the enquiry which surprized me greatly; especially the effects of pressure and also those relating to polarized light. Lately I have been working on[^fn-p0319-1] the relation of *time* to actions at a distance; – as those actions which class as magnetic. But the subject is very difficult, — the requisite apparatus requires to be frequently remade, each time being more perfected; and whether I shall catch the <sup>1</sup>/<sub>200 000</sub> part of a second (if required) seems very doubtful. In the mean time I am for the present tired and must lay the research on the shelf.
+I ventured to send you a paper[^fn-p0318-3] the other day by the post. I was assured it would go free and shall be very sorry if, unaware, I have put you and other friends to post expence, but I find that the information I obtain by enquiry is often very uncertain in its nature, though positive in its form. The paper was about Gold, and the relation of it and other metals to light. Many facts came out during the enquiry which surprized me greatly; especially the effects of pressure and also those relating to polarized light. Lately I have been working on[^fn-p0319-1] the relation of *time* to actions at a distance; – as those actions which class as magnetic. But the subject is very difficult, — the requisite apparatus requires to be frequently remade, each time being more perfected; and whether I shall catch the [^fn-p0319-1]/<sub>200 000</sub> part of a second (if required) seems very doubtful. In the mean time I am for the present tired and must lay the research on the shelf.
 
 Since I wrote to you we have had Miss Schœnbein here: — but since that I have not been able to see her or my old friend Miss Hornblower either, at Stamford Hill: Probably when the Christmas Holidays come on, we shall have the opportunity; but my wifes health is so infirm and our capabilities so limited at the Institution, that I dare not think of what we should like, before the time comes: I have undertaken to give half a dozen juvenile lectures after Christmas; — whether they will come off (as we say) or not, is doubtful. Patience —
 
@@ -3379,7 +3379,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 128: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0320-1]
+#### *Faraday to Schœnbein.*[^fn-p0320-1]
 
 <span class="small-caps">My dear Schoenbein</span>
 
@@ -3398,7 +3398,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 129: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday.</span>
 
@@ -3429,7 +3429,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 130: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0325-1]
+#### *Schœnbein to Faraday.*[^fn-p0325-1]
 
 <span class="small-caps">My dear Faraday.</span>
 
@@ -3476,7 +3476,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 131: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">MY DEAR FARADAY</span>
 
@@ -3495,7 +3495,7 @@ C. F. <span class="small-caps">Schoenbein.</span>
 
 ### Letter 132: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 28 July 1858.
 
@@ -3518,7 +3518,7 @@ My dear friend
 
 ### Letter 133: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 Speicher on the heights of the Canton  
 of Appenzell Aug. 4th 1858.
@@ -3546,7 +3546,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 134: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">MY DEAR FARADAY</span>[^fn-p0335-1]
 
@@ -3570,7 +3570,7 @@ Pray be kind to the bearer of this letter, written in a hurry.
 
 ### Letter 135: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 13. Novr. 1858[^fn-p0338-1]
 
@@ -3594,7 +3594,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 136: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 25 Novr. 1858[^fn-p0340-1]
 
@@ -3612,7 +3612,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 137: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 <span class="small-caps">My dear Schoenbein</span>
 
@@ -3628,7 +3628,7 @@ Ever Yours
 
 ### Letter 138: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 19 Jan. 1859
 
@@ -3644,7 +3644,7 @@ Ever Yours
 
 ### Letter 139: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 16 Feby. 1859
 
@@ -3672,7 +3672,7 @@ The note from Miss Schœnbein referred to above is still preserved among Schœnb
 
 ### Letter 140: Miss Schœnbein → Faraday
 
-### *Miss Schœnbein to Faraday.*
+#### *Miss Schœnbein to Faraday.*
 
 Stamford Hill Feb. 8th 59.
 
@@ -3695,7 +3695,7 @@ M. F.
 
 ### Letter 141: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0346-1]
+#### *Schœnbein to Faraday.*[^fn-p0346-1]
 
 Bâle Febr. (25.) 1859.
 
@@ -3712,7 +3712,7 @@ friend.
 
 ### Letter 142: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 24 Feb. 1859
 
@@ -3735,7 +3735,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 143: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0348-1]
+#### *Faraday to Schœnbein.*[^fn-p0348-1]
 
 Royal Institution London 25 April 1859
 
@@ -3757,7 +3757,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 144: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -3778,7 +3778,7 @@ Bâle July 19th 1859.
 
 ### Letter 145: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 23. September 1859
 
@@ -3801,7 +3801,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 146: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -3826,7 +3826,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 147: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*[^fn-p0360-1]
+#### *Faraday to Schœnbein.*[^fn-p0360-1]
 
 Royal Institution 27 March 1860.
 
@@ -3847,7 +3847,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 148: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -3873,13 +3873,13 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 
 ### Letter 149: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">MY DEAR FARADAY</span>
 
 If I am not mistaken, the last letter, I wrote to you was that, by which I introduced to you Mr. Wiedemann, about six months ago and having ever since not heard any news from you, and being very anxious to know, how you are doing, I take up once more my pen to ask you the favor of a letter, so much the more, that I am at this present moment laid up by the gout, a condition of body entirely new to me and on that very account by no means agreeable. Indeed, up to the last wednesday a fortnight, I had known that of the ills “which human flesh is heir to” only by name and from english novels; you may therefore easily imagine, how much I was surprized at finding at once my legs, hitherto so loyal and obedient, in a state of open rebellion. No other choice was left to the poor sovereign, than to let his subjects rage and go their own way. To tell you the truth, I am afraid, that I have not been entirely blameless and it is perhaps, partly at least, my own fault, that such a catastrophe has occurred. I have carried on a savage war of conquest these last four or five months, and to arrive at my end, I was rather reckless, drawing very largely on the forces of my subjects and caring very little about their welfare. I certainly carried the point, but as it seems at the expence of the loyalty of the inferior classes of my realm; I entertain however the flattering hopes, that better times are approaching and a full restoration of my royal authority will take place before long. But why waging such a war? Oxigen, as you well know, is my hero as well as my foe, and being not only strong but inexhaustible in strategies and full of tricks, I was obliged to call up all my forces to lay hold of him, and make the subtle Being my prisoner. Now to drop the metaphor, I will tell you, that I have been working very hard these many months to get the “Antozone” or ⊕ in its insulated state and I flatter myself to have succeeded in that undertaking, at least to a certain extent.[^fn-p0364-1] You are aware, that from a number of facts, notably from the reciprocal desoxidizing influence exerted by many oxy-compounds upon each other, I drew the inference, that there exist two series of oxides, one of which contain ⊖ the other ⊕: “the Ozonides and Antozonides.” The mutual desoxidation of those compounds I made dependent upon the depolarisation or neutralisation of ⊕ and ⊖ into O. Now ⊕ and ⊖, being able to be transformed into O, I thought it possible, even likely, that the contrary might be effected, i. e. the chemical polarisation of O into ⊕ and ⊖, and you know that in the course of the last and present year, I have ascertained a great number of facts, that speak, as far as I can see, highly in favor of that Idea. As the typical or fundamental fact of this chemical polarisation of O, I consider the simultaneous production of Θ and HO + ⊕ taking place during the slow combustion of phosphorus. This simultaneity is such, that ozone never makes its appearance without its equivalent HO + ⊕. All the metals slowly oxidizing themselves, HO being present, such as Zinc, lead, iron etc, give rise to the formation of HO + ⊕ and the same do a great number of organic substances, such as ether, the tannic, gallic and pyro-gallic acids, hiematoxiline etc. and even reduced Indigo, being associated to potash etc., makes no exception to the rule. The same simultaneity takes place during the electrolysis of water: never Ozone without peroxide of hydrogen. I admit therefore, that O, on being put in contact with an oxidable substance and water, undergoes that change of condition, which I call “chemical polarisation” i. e. is turned into Θ and ⊕, of which the latter combines with HO to form HO + ⊕, whilst Θ is associated to the oxidable matter, such as phosphorus, Zinc etc. In the preceding statements you have only a very rough outline of my late researches on the chemical polarisation of neutral Oxigen; the details on that subject are contained in a number of papers lately published,[^fn-p0365-1] and of which your english periodicals have as yet not taken any notice. Having gone so far, I could not but be very curious to try, whether it was not possible to obtain ⊕ in its insulated or free state. I directed of course my attention to that set of peroxides, which I call “Antozonides” and tried in different ways to eliminate from them that part of their oxigen, which I consider to be ⊕. Already years ago I remarked, in accordance with an observation made by Mr. Houzeau[^fn-p0365-2] that the oxigen disengaged from the peroxide of Barium by the means of the monohydrate of SO<sub>3</sub>, exhibits an ozonelike smell and the power of turning my ozone test-paper blue. Having at that time not yet a notion of two opposite active conditions of Oxigen, I was inclined to ascribe those properties to the presence of minute quantities of Ozone in the said gas, but on examining it more closely, I found it to be neutral oxigen mixt up with a very small portion of Antozone or ⊕. A most important and distinctive property of Antozone is the readiness, with which it unites with water to form peroxide of hydrogen, whilst Ozone (alike neutral oxigen) is entirely incapable of doing so. Hence it comes, that the oxigen disengaged from BaO + ⊕ under certain precautions, becomes inodorous on being shaken with water, and that this fluid contains HO<sub>2</sub>. The simple cause of the minute quantities of ⊖ obtained from BaO + ⊕ is the heat disengaged during the action of SO<sub>3</sub> upon the peroxide by which most of the ⊕ eliminated is transformed into ⊖.
 
-Now, what do you say to the extraordinary fact, that the antipode of ozone has these many thousand years been ready formed and incarcerated, only waiting for somebody to recognize and let it loose out of its prison. A darkblue species of Fluorspar has for years been known by the german Mineralogists, being distinguished by its property of producing a peculiarly disagreeable smell on being triturated. Many conjectures were put up as to the chemical nature of the odorous matter emitted from the spar: Chlorine, Jodine and even Ozone were spoken of, but it turned out to be a different thing. Mr. Schafhaeutl[^fn-p0366-1] of Munic sent me a month ago some hundred gramms of the said Fluorspar (occurring within the veins of a granitic rock at Wœlsendorf a bavarian village near Amberg), asking me to try my luck in ascertaining the nature of the smelling matter, and I think I have fully succeeded in making out what it is. Surprizing as it may sound to you and unique as the fact certainly is, that matter happens to be nothing but my insolated Antozone. But how do you prove that? will you ask me. In the first place it exactly smells like ⊕, disengaged from BaO<sub>2</sub>; but smells are fallacious tests. They are; you shall have another proof, that will irresistibly carry conviction with it: on triturating the Fluorspar with water, peroxide of hydrogen is formed, not in homoeopathic but very perceptible quantities. When I found out first this extraordinary fact, I think it was on the 17th of Nov. last, I could not help laughing aloud, though I happened to be quite alone in my laboratory. I laughed, because I strongly suspected my foe to be hidden in the spar and broke his mask under water with the view of catching it by that fluid. Indeed, it was to me, as if I had caught a very cunning fox, long sought after, in a trap put up for him. To show you, that in saying this I have neither been joking nor dreaming, I shall send you as soon as I can, a sample of that wonderful spar, with which you may easily satisfy your curiousity and convince yourself of the correctness of my statements.[^fn-p0367-1] I must not omit to tell you, that, according to some previous experiments of mine, the Fluorspar of Wœlsendorf contains <sup>1</sup>/<sub>5000</sub>th part of Antozone, a quantity, as you see not at all homoeopathic. How that subtle matter got into the spar, I cannot tell. Being once more upon my legs, I shall, as you may easily imagine, make a new attack upon my foe, with the view and hope of conquering him entirely. The price to be gained by such a fight is not too dearly paid, even by another fit of gout. Having already been too prolix about that matter, I must now drop it; before long you shall read a paper containing the details about insulated ⊕. Having also worked a good deal on nitrification and obtained a number of novel facts relative to that interesting chemical process, I could fill up another letter with a summary statement of them, but there being no space left, I am forced to give you an account of those researches another time and confine myself to the simple remark, that in a number of cases the formation of a nitrate passes through that of a Nitrite and ozonised oxigen only is capable of oxidizing a nitrite into a nitrate.
+Now, what do you say to the extraordinary fact, that the antipode of ozone has these many thousand years been ready formed and incarcerated, only waiting for somebody to recognize and let it loose out of its prison. A darkblue species of Fluorspar has for years been known by the german Mineralogists, being distinguished by its property of producing a peculiarly disagreeable smell on being triturated. Many conjectures were put up as to the chemical nature of the odorous matter emitted from the spar: Chlorine, Jodine and even Ozone were spoken of, but it turned out to be a different thing. Mr. Schafhaeutl[^fn-p0366-1] of Munic sent me a month ago some hundred gramms of the said Fluorspar (occurring within the veins of a granitic rock at Wœlsendorf a bavarian village near Amberg), asking me to try my luck in ascertaining the nature of the smelling matter, and I think I have fully succeeded in making out what it is. Surprizing as it may sound to you and unique as the fact certainly is, that matter happens to be nothing but my insolated Antozone. But how do you prove that? will you ask me. In the first place it exactly smells like ⊕, disengaged from BaO<sub>2</sub>; but smells are fallacious tests. They are; you shall have another proof, that will irresistibly carry conviction with it: on triturating the Fluorspar with water, peroxide of hydrogen is formed, not in homoeopathic but very perceptible quantities. When I found out first this extraordinary fact, I think it was on the 17th of Nov. last, I could not help laughing aloud, though I happened to be quite alone in my laboratory. I laughed, because I strongly suspected my foe to be hidden in the spar and broke his mask under water with the view of catching it by that fluid. Indeed, it was to me, as if I had caught a very cunning fox, long sought after, in a trap put up for him. To show you, that in saying this I have neither been joking nor dreaming, I shall send you as soon as I can, a sample of that wonderful spar, with which you may easily satisfy your curiousity and convince yourself of the correctness of my statements.[^fn-p0367-1] I must not omit to tell you, that, according to some previous experiments of mine, the Fluorspar of Wœlsendorf contains [^fn-p0367-1]/<sub>5000</sub>th part of Antozone, a quantity, as you see not at all homoeopathic. How that subtle matter got into the spar, I cannot tell. Being once more upon my legs, I shall, as you may easily imagine, make a new attack upon my foe, with the view and hope of conquering him entirely. The price to be gained by such a fight is not too dearly paid, even by another fit of gout. Having already been too prolix about that matter, I must now drop it; before long you shall read a paper containing the details about insulated ⊕. Having also worked a good deal on nitrification and obtained a number of novel facts relative to that interesting chemical process, I could fill up another letter with a summary statement of them, but there being no space left, I am forced to give you an account of those researches another time and confine myself to the simple remark, that in a number of cases the formation of a nitrate passes through that of a Nitrite and ozonised oxigen only is capable of oxidizing a nitrite into a nitrate.
 
 Mrs. Schœnbein and the girls are, thank God, pretty well and charge me with their kindest regards to you. The deep wound, caused by the severe loss of our beloved daughter is, of course not yet healed and we cannot think of it but with painful feelings, but upon the whole our minds are more composed and resigned. The sad mishap of Miss Hornblower’s caused us much sorrow and we fully sympathize with the suffering, excellent Lady, confidently hoping, that her present state is at the least tolerable. Pray, express her our kindest regards.
 
@@ -3899,7 +3899,7 @@ Don’t forget my best compliments to Mrs. Faraday and your Niece.
 
 ### Letter 150: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 11 January 1861
 
@@ -3926,7 +3926,7 @@ M. <span class="small-caps">Faraday.</span>
 
 ### Letter 151: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 19 April 1861
 
@@ -3947,7 +3947,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 152: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -3972,7 +3972,7 @@ Bâle August 17th 1861.
 
 ### Letter 153: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 Royal Institution 19 Septr. 1861
 
@@ -3997,7 +3997,7 @@ Your’s
 
 ### Letter 154: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*[^fn-p0374-2]
+#### *Schœnbein to Faraday.*[^fn-p0374-2]
 
 <span class="small-caps">My dear Faraday</span>
 
@@ -4026,7 +4026,7 @@ To this paper Faraday added the following note:
 
 ### Letter 155: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 The Green Hampton Court 22 April 1862
 
@@ -4046,7 +4046,7 @@ M. <span class="small-caps">Faraday</span>.
 
 ### Letter 156: Schœnbein → Faraday
 
-### *Schœnbein to Faraday.*
+#### *Schœnbein to Faraday.*
 
 <span class="small-caps">My dear Faraday.</span>
 
@@ -4067,7 +4067,7 @@ C. F. <span class="small-caps">Schoenbein</span>.
 
 ### Letter 157: Faraday → Schœnbein
 
-### *Faraday to Schœnbein.*
+#### *Faraday to Schœnbein.*
 
 D<span class="small-caps">EAR</span> S<span class="small-caps">CHOENBEIN</span> [^fn-p0380-1]
 
@@ -4085,7 +4085,7 @@ When collecting letters and material for the purpose of writing a life of Farada
 
 ### Letter 158: Schœnbein → Dr. Bence Jones
 
-### *Schœnbein to Dr. Bence Jones.*
+#### *Schœnbein to Dr. Bence Jones.*
 
 <span class="small-caps">My dear Sir</span>
 
@@ -4634,7 +4634,7 @@ Becquerel’s theory of secondary currents is erroneous. Voltaic polarisation of
 20. *Schoenbein to Faraday.* Bâle. Feb. 18. 1839.  
 Polarisation. Chlorine is like a peroxide. Hydrogen peroxide and passivity of iron . . . . . . . . . . . . 59
 
-### PAGE
+##### PAGE
 
 21. *Faraday to Schoenbein.* London. April 8. 1839.  
 Approval of Schœnbein’s conclusions. Moll’s “Decline of Science in England”. Induction. Marianini . . . . . . 61
@@ -4894,7 +4894,7 @@ Schœnbein, at Liebig’s request, has compiled a book on ozone 226
 104. *Schoenbein to Faraday.* Bâle. May 4. 1854.  
 Letter of introduction for Dr. Stehlin . . . . . . 228
 
-### PAGE
+#### PAGE
 
 105. *Faraday to Schoenbein.* London. May 15. 1854.  
 Repetition of Schœnbein’s experiments with Dahlia colours. List of letters written and received . . . . . . 229
@@ -4998,7 +4998,7 @@ Peroxide of barium and lecture on ozone on 25th of Feb. Note by Miss Schœnbein 
 138. *Faraday to Schoenbein.* London. Feb. 16. 1859.  
 Particulars of Miss Schœnbein’s death . . . . . . 319
 
-### PAGE
+#### PAGE
 
 139. *Schoenbein to Faraday.* Bâle. (Feb. 25.) 1859.  
 Schœnbein touched by expressions of sympathy at Miss Schœnbein’s death. Has begun lecturing again . . . . . . . 322
@@ -5057,7 +5057,7 @@ Faraday’s last letter to Schœnbein. Reference to it in a letter to Dr. Bence 
 
 * * *
 
-### A.
+#### A.
 
 Airy, 238.
 
@@ -5067,7 +5067,7 @@ Arago, 35.
 
 Armstrong, 113.
 
-### B.
+#### B.
 
 Bachofen, 72.
 
@@ -5133,7 +5133,7 @@ Bunsen, 266, 312.
 
 Burckhardt, 64, 179, 197.
 
-### C.
+#### C.
 
 Cailletet, 144.
 
@@ -5155,7 +5155,7 @@ Crowdy, 322, 323.
 
 Cuvier, 240.
 
-### D.
+#### D.
 
 Daniell, 61, 138, 151.
 
@@ -5193,13 +5193,13 @@ Draper, 191.
 
 Drew, 212, 214, 238.
 
-### E.
+#### E.
 
 Eisenlohr, 265.
 
 Euler 196, 198, 199.
 
-### F.
+#### F.
 
 Faraday, member of Phil. Soc. of Bâle, 13, 22.  
 — memoir on iron dedicated to, 29, 32.  
@@ -5240,7 +5240,7 @@ Francis, 294, 308, 345.
 
 Frémy 216.
 
-### G.
+#### G.
 
 Gould, 227.
 
@@ -5256,7 +5256,7 @@ Grove, 18, 78, 81, 84, 85, 110, 111, 119 138, 229, 274, 323, 326.
 Grove, gun cotton, 161, 164, 169.  
 — to Schœnbein, 79, 111, 113, 114, 115. 119, 133, 150, 153, 159, 161, 162, 209.
 
-### H.
+#### H.
 
 Hachette, 48, 59.
 
@@ -5284,15 +5284,15 @@ Hunt, 103.
 
 Houzeau, 245, 341.
 
-### I.
+#### I.
 
 Iselin, 59, 61, 62.
 
-### J.
+#### J.
 
 Jacobi, 72.
 
-### K.
+#### K.
 
 Kirchhof, 345.
 
@@ -5300,7 +5300,7 @@ Knoblauch, 345.
 
 Kohl, 101.
 
-### L.
+#### L.
 
 Lancaster, 163.
 
@@ -5311,7 +5311,7 @@ Liebig, 206, 216, 258, 283, 312, 343, 353
 
 Louyet, 161, 169.
 
-### M.
+#### M.
 
 Marianini, 63.
 
@@ -5339,7 +5339,7 @@ Munk af Rosenschöld, 54.
 
 Murray, 110.
 
-### N.
+##### N.
 
 Neef, 151.
 
@@ -5351,7 +5351,7 @@ Noad, 27.
 
 Nobili, 24, 27, 43, 48.
 
-### P.
+##### P.
 
 Pasteur, 288.
 
@@ -5381,7 +5381,7 @@ Prater, 103.
 
 Prévost, 159.
 
-### R.
+##### R.
 
 Ritter, 30.
 
@@ -5395,7 +5395,7 @@ Rumpf, 318.
 
 Ryhiner, 108, 112.
 
-### S.
+##### S.
 
 Schœnbein, an alchemist, 42.
 
@@ -5473,7 +5473,7 @@ Stehlin, 228, 237.
 
 Stokes, 209, 211.
 
-### T.
+##### T.
 
 Taylor, 163.
 
@@ -5489,7 +5489,7 @@ Thompson, 62, 186, 215.
 
 Twining, 244, 253, 266.
 
-### V.
+##### V.
 
 Vincent, translation of Mittheilungen, 112, 243.
 
@@ -5497,7 +5497,7 @@ Vincent, translation of Mittheilungen, 112, 243.
 
 Vischer, 174, 184, 307, 308.
 
-### W.
+##### W.
 
 Wagner, 355.
 
@@ -5531,11 +5531,11 @@ Wöhler, 312, 355.
 
 Worringer, 95.
 
-### Y.
+##### Y.
 
 Yates, 112.
 
-### Z.
+##### Z.
 
 Zerzog, 286.
 

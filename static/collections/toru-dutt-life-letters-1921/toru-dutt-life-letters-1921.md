@@ -7,7 +7,7 @@
 
 ## Frontmatter
 
-### THE LIFE AND LETTERS OF TORU DUTT
+### THE LIFE AND LETTERS OF<br />TORU DUTT
 
 PRINTED IN ENGLAND  
 AT THE OXFORD UNIVERSITY PRESS  
@@ -17,7 +17,7 @@ BY FREDERICK HALL
 
 Toru Dutt.
 
-### LIFE AND LETTERS OF TORU DUTT
+### LIFE AND LETTERS OF<br />TORU DUTT
 
 BY
 
@@ -68,7 +68,9 @@ HER TENDER SYMPATHY
 
 I do not think that there was ever a mystery about the character of this frail and sensitive Indian lady. Even were nothing known of the external facts of her life, we should have been able to infer from her published writings the essential qualities of a nature, pure, innocent, religious, alive to beauty in all its forms, and capable of a wide range of appreciation in the field of poetic literature. The pious labours of Mr. Das have now added some welcome and altogether attractive touches. They show us how devoid was Toru of the foibles often attaching to the literary character, how exempt from ostentation, vanity, self-consciousness, how childlike and eager, with how warm a glow of affection she embraced her friends, how free was her composition from all bitter and combustible elements. They enable us also to realize how much she was helped by the fact of her Christian training to an appreciation of certain aspects of Western literature (her love of *Paradise Lost* and Lamartine are illustrations) not usually congenial to the Indian mind, and how personal friendships formed during a girlhood spent partly in France and partly in England united to strengthen her hold upon the essential soul of the two languages in which she wrought. It is pleasant too to learn more of that garden home in Calcutta which is described in ‘Our Casuarina Tree’, one of the loveliest of the lyrics contained in the *Ancient Ballads and Legends of Hindustan*. Here is a *vignette* taken from one of her letters :
 
-> ‘The night was clear, the moon resplendent, one or two stars glimmering here and there; before us stretched the long avenue bordered with high casuarinas, very like the poplars of England, dim in the distance the gateway; around us the thick mango groves; the tall betel-nut trees, straight “ like arrows shot from heaven ” ; the cocoanut palms with their proud waving plumes of green foliage, and all wrapped in a sweet and calm silence.’
+> **[enclosure]**
+>
+> > ‘The night was clear, the moon resplendent, one or two stars glimmering here and there; before us stretched the long avenue bordered with high casuarinas, very like the poplars of England, dim in the distance the gateway; around us the thick mango groves; the tall betel-nut trees, straight “ like arrows shot from heaven ” ; the cocoanut palms with their proud waving plumes of green foliage, and all wrapped in a sweet and calm silence.’
 
 Yet it is characteristic that all this tropical loveliness never completely contents or confines her. Home, after all, is in part exile. She cannot forget the beloved West, the enchantments of frost and snow, the delicate landscapes of France, the vivid, eager College life at Cambridge. In comparison with the stir and bustle of the West, the days in India seemed monotonous and without event. So in the midst of the profuse splendours of the East her thoughts continually reach out to that other home beyond the Ocean, which travel and study had made so dear to her, as, for example, to the world (known only through books) of the Brontë sisters, living ‘ among the lonely wild moors of Yorkshire, all three so full of talent, yet living so solitary amid those Yorkshire wolds,’ or to the days which stood out with such cameo-like distinctness in her memory, when she enjoyed the free life of a student by the banks of the Cam, passing ‘ nice cosy evenings ’ with her friend, and on Sundays drinking deep draughts of music from the College organ. In the long history of the contact and interfusion of East and West, I doubt whether there is a figure more encouraging or significant.
 
@@ -211,13 +213,17 @@ After further instruction all the families were baptized in Christ Church, Cornw
 
 From private sources we learn that the German missionary, the Rev. C. Bomwetsch, C.M.S., was also of great spiritual assistance to the Dutts. In a letter from Professor E. B. Cowell [^fn-p0034-1] to his mother, dated Calcutta, June 26, 1863, we read:
 
-> ‘ Dr. Kay is coming to dine with us next Monday, and in the evening those Hindu converts, the Dutts, are coming to meet him. You will remember the Dutts and our being sponsors for two of their children.[^fn-p0034-2] We met them at the Bishop’s [^fn-p0034-3] at tea not long since. They are a wealthy family in high position.’
+> **[enclosure]**
+>
+> > ‘ Dr. Kay is coming to dine with us next Monday, and in the evening those Hindu converts, the Dutts, are coming to meet him. You will remember the Dutts and our being sponsors for two of their children.[^fn-p0034-2] We met them at the Bishop’s [^fn-p0034-3] at tea not long since. They are a wealthy family in high position.’
+>
+> Mrs. Barton, widow of the well-known C.M.S. Missionary, the Rev. J. Barton, who knew the family intimately in Calcutta from 1865 to 1870, writes :
 
-Mrs. Barton, widow of the well-known C.M.S. Missionary, the Rev. J. Barton, who knew the family intimately in Calcutta from 1865 to 1870, writes :
-
-> ‘ They were all Christians and highly respected by their townspeople. All spoke English well and were educated in European literature far above the average of other Bengalis of their generation. These Dutt families were the backbone and mainstay of the Christian Church and congregation which was in Cornwallis Square. I am told by Mr. Joseph Welland that he learned from these educated Dutts, that they always, even among themselves, made use of all the theological terms needed, in the English language, even when conversing in Bengali. Govin Chunder was a delightful man and most highly educated; he spoke excellent English, and was an earnest-minded and religious Christian in faith.’
-
-The wives of the Dutt brothers, though they were baptized at the same time as their husbands, were still idolaters at heart. Govin Chunder refers to this fact in his touching poem in which he appeals to his wife to follow him in his admiration and worship of Jesus Christ. We give an extract from this poem which is entitled ‘ The Hindu Convert to his Wife ’ :
+> **[enclosure]**
+>
+> > ‘ They were all Christians and highly respected by their townspeople. All spoke English well and were educated in European literature far above the average of other Bengalis of their generation. These Dutt families were the backbone and mainstay of the Christian Church and congregation which was in Cornwallis Square. I am told by Mr. Joseph Welland that he learned from these educated Dutts, that they always, even among themselves, made use of all the theological terms needed, in the English language, even when conversing in Bengali. Govin Chunder was a delightful man and most highly educated; he spoke excellent English, and was an earnest-minded and religious Christian in faith.’
+>
+> The wives of the Dutt brothers, though they were baptized at the same time as their husbands, were still idolaters at heart. Govin Chunder refers to this fact in his touching poem in which he appeals to his wife to follow him in his admiration and worship of Jesus Christ. We give an extract from this poem which is entitled ‘ The Hindu Convert to his Wife ’ :
 
 Nay, part not so—one moment stay,  
     Repel me not with scorn.  
@@ -649,11 +655,13 @@ Miss Martin says of Toru :
 
 Alluding to these happy meetings, Toru wrote as follows in one of her letters from India :
 
-‘ I remember some of our walks so vividly. Do you remember the visit we paid with your mother to Addenbroke’s Hospital and how on our way back your mother stumbled in Downing College, while we were coming through that building’s grounds ? And that long walk, when you showed me the Gog Magog Hills in the distance ? It seems all so far off, dear, does it not ? And those nice cosy evenings, when I took tea with you, dear, only you and I ; once we had A. L. with us and papa used to come at nine or ten to take me back to our lodgings. Do you think we shall see each other again ? I do not think we shall, but we shall meet in that happier world. I long to see our darlings again, and each day past but brings us nearer to the happy goal,
-
-A day's march nearer Home.
-
-And again : ‘ How is Mrs. Babington's Orphanage getting on ? I well remember the day when we visited it. You were with me and the J.'s, our fellow-lodgers. You said to me in a whisper that “ You would have better liked the walk alone with me ”.'
+> **[enclosure]**
+>
+> ‘ I remember some of our walks so vividly. Do you remember the visit we paid with your mother to Addenbroke’s Hospital and how on our way back your mother stumbled in Downing College, while we were coming through that building’s grounds ? And that long walk, when you showed me the Gog Magog Hills in the distance ? It seems all so far off, dear, does it not ? And those nice cosy evenings, when I took tea with you, dear, only you and I ; once we had A. L. with us and papa used to come at nine or ten to take me back to our lodgings. Do you think we shall see each other again ? I do not think we shall, but we shall meet in that happier world. I long to see our darlings again, and each day past but brings us nearer to the happy goal,
+>
+> A day's march nearer Home.
+>
+> And again : ‘ How is Mrs. Babington's Orphanage getting on ? I well remember the day when we visited it. You were with me and the J.'s, our fellow-lodgers. You said to me in a whisper that “ You would have better liked the walk alone with me ”.'
 
 ### Notes
 
@@ -699,8 +707,10 @@ Vous êtes Chrétienne, mademoiselle : votre livre me le dit. Et, en vérité, v
 
 Si, comme historienne de la femme, je suis charmée de féliciter en vous une émule, je ne suis pas moins touchée comme Française d’avoir à remercier en vous l’élégante traductrice des poètes, mes compatriotes. Votre beau livre m’apprend que vous aviez une sœur qui, elle aussi, partageait vos goûts poétiques. Le Seigneur a rappelé auprès de Lui l’âme qui avait si fidèlement interprété le chant de ‘ La Jeune Captive ’, et qui cependant, parvenue à l’heure suprême, n’a plus redit :
 
-The world has delights, the Muses have songs :  
-I wish not to perish too soon.
+> **[verse_insert]**
+>
+> The world has delights, the Muses have songs :  
+> I wish not to perish too soon.
 
 Lorsque vous aurez publié dans l’Inde votre traduction de *La Femme dans l’Inde Antique,* je vous serai reconnaissante de vouloir bien m’envoyer deux exemplaires imprimés de votre version. Je serais aussi très-heureuse de recevoir votre photographie si toutefois vous la possédez déjà.
 
@@ -716,7 +726,7 @@ P.S. Ainsi que vous me l’écrivez, mademoiselle, c’est dans l’Inde que ser
 
 ### Letter 9: Toru Dutt → Clarisse Bader
 
-### *Miss Toru Dutt to Mlle Clarisse Bader.*
+#### *Miss Toru Dutt to Mlle Clarisse Bader.*
 
 Calcutta, ce 18 Mars 1877.
 
@@ -726,7 +736,9 @@ Je suis désolée de n’avoir pu commencer la traduction encore ; mais ma const
 
 Je ne peux dire, mademoiselle, combien votre affection—car vous les aimez ; votre livre et votre lettre en témoignent assez—pour mes compatriotes et mon pays me touche ; et je suis fière de pouvoir le dire que les héroïnes de nos grandes épopées sont dignes de tout honneur et de tout amour. Y a-t-il d’héroïne plus touchante, plus aimable que Sîta ? Je ne le crois pas. Quand j’entends ma mère chanter, le soir, les vieux chants de notre pays, je pleure presque toujours. La plainte de Sîta quand, bannie pour la seconde fois, elle erre dans la vaste forêt, seule, le désespoir et l’effroi dans l’âme, est si pathétique qu’il n’y a personne, je crois, qui puisse l’entendre sans verser des larmes. Je vous envoie sous ce pli deux petites traductions du Sanscrit, cette belle langue antique. Malheureusement j’ai été obligée de faire cesser mes traductions de Sanscrit il y a six mois. Ma santé ne me permet pas de les continuer. Je vous envoie aussi mon portrait et celui de ma sœur. Dans la photographie elle est représentée assise. Elle était si douce et si bonne. La photographie date de quatre ans, quand j’avais dix-sept ans et elle dix-neuf ans à peine. Moi aussi, mademoiselle, je vous serai reconnaissante de vouloir bien m’envoyer votre photographie. Je la garderai comme un de mes plus grands trésors. Il faut que je m’arrête ici, je ne veux plus empiéter sur votre temps. Comme M. Lefèvre-Deumier il faut que je dise
 
-Adieu donc, mon amie, que je n’ai pas connue,
+> **[verse_insert]**
+>
+> Adieu donc, mon amie, que je n’ai pas connue,
 
 car, mademoiselle, je vous compte parmi mes amies, et parmi les meilleures, quoique je ne vous aie pas vue. Croyez, mademoiselle, à la nouvelle assurance de mon amitié.
 
@@ -739,7 +751,7 @@ P.S. J’ai retardé jusqu’ici de faire remettre ma lettre à la poste ; j’e
 
 ### Letter 10: Toru Dutt → Clarisse Bader
 
-### *Miss Toru Dutt to the same.*
+#### *Miss Toru Dutt to the same.*
 
 Calcutta, ce 13 Avril 1877.
 
@@ -753,7 +765,7 @@ Croyez, mademoiselle, à la nouvelle assurance de mon dévouement et de mon amit
 
 ### Letter 11: Clarisse Bader → Toru Dutt
 
-### *Mlle Clarisse Bader to Miss Toru Dutt.*
+#### *Mlle Clarisse Bader to Miss Toru Dutt.*
 
 Paris, ce 11 Mai 1877.
 
@@ -779,7 +791,7 @@ The next letter to Mlle Bader, written on the 30th of July, 1877, is pathetic in
 
 ### Letter 12: Toru Dutt → Clarisse Bader
 
-### *Miss Toru Dutt to Mlle Clarisse Bader.*
+#### *Miss Toru Dutt to Mlle Clarisse Bader.*
 
 Ce 30 Juillet 1877.
 
@@ -799,7 +811,7 @@ Toute à vous,
 
 ### Letter 13: Clarisse Bader → Toru Dutt
 
-### *Mlle Clarisse Bader to Miss Toru Dutt.*
+#### *Mlle Clarisse Bader to Miss Toru Dutt.*
 
 Ce 11 Septembre 1877.
 
@@ -828,7 +840,7 @@ If Toru's life had been spared, the acquaintance thus begun would have ripened i
 
 ## CHAPTER IV LETTERS TO MISS MARTIN
 
-### <span class="small-caps">December</span> 1873–<span class="small-caps">December</span> 1875
+##### <span class="small-caps">December</span> 1873–<span class="small-caps">December</span> 1875
 
 <span class="small-caps">The</span> letters of any well-known character are of twofold interest: the one biographical, the other literary. In many cases, the literary interest is but secondary, for the main purpose of a letter is never to produce a literary creation, but it may be an equivalent to talking with a friend. They should be, in fact, more or less ‘ Table Talk ’. ‘ Letters must not be on a subject ’, says Mackintosh ; ‘ conversation is relaxation, not business, and must never appear to be occupation ; nor must letters.’ There is, then, as much difference between the author’s ‘ works ’ and his ‘ letters ’ as between the truthful snapshot and the pose of the professional portrait ; and the severely critical point of view is as out of place in the one as it is right and necessary in the other.
 
@@ -954,10 +966,12 @@ I am now reading *Histoire de la Révolution Française*, by Mignet. It is very 
 
 Maja's (our late beloved cat) kitten is doing well; her elder sister (‘Missus’ is her name) has now only one of the four kittens she had; we disposed of the three others to some of our friends. The remaining one Aru kindly gave to me on my last birthday. It is a great favourite of mine and has no rival in my affections, as I have no other pets! It is very playful, and I call it ‘Baguette’. I often address to it the lines of the French song:
 
-‘Baguette,  
-Si bien faite,  
-Donne-moi ton cœur,  
-Ou je vais mourir!’
+> **[verse_insert]**
+>
+> ‘Baguette,  
+> Si bien faite,  
+> Donne-moi ton cœur,  
+> Ou je vais mourir!’
 
 It is ‘Rojette’ in the song, but that is all the same.
 
@@ -1149,12 +1163,14 @@ I hope you have not suffered from the severe weather this winter. The papers are
 
 February 7th. It is a long time since I began this letter ; I have been very ill, and it is only yesterday that I went downstairs. I have been ill with a very bad cough, accompanied with a good deal of blood-spitting and fever. I am glad to say I am better now, though still rather weak. Dr. Cayley of the new Mayo Hospital was called in, besides the native doctor. I have had such a number of blisters put on my chest and back, that they are quite sore—luckily they heal up in a day or two. Papa wishes to call in Dr. Cayley again—but I tell him, that one doctor is enough, for—
 
-Faut des docteurs ; pas trop n'en faut ;  
-L'excès en tout est un défaut.  
-J'ai mis en parallèle  
-Les coursiers et le médecin :  
-A son char plus on en attèle,  
-Plus on abrège son chemin.
+> **[verse_insert]**
+>
+> Faut des docteurs ; pas trop n'en faut ;  
+> L'excès en tout est un défaut.  
+> J'ai mis en parallèle  
+> Les coursiers et le médecin :  
+> A son char plus on en attèle,  
+> Plus on abrège son chemin.
 
 Dr. Cayley says that we shall be able to go to Europe in April or May—he advises us to go to Italy or to the sea-coast in the South of England.
 
@@ -1188,10 +1204,12 @@ One of our cats has now got three kittens ; we shall dispose of them as soon as 
 
 I hope you will excuse my dull letters, they are but a poor return for your interesting ones, but
 
-Croyez qu’avec vous de moitié  
-Mon cœur tout autrement raisonne,  
-Et qu’il ne redoute personne  
-Au grand concours de l’amitié.
+> **[verse_insert]**
+>
+> Croyez qu’avec vous de moitié  
+> Mon cœur tout autrement raisonne,  
+> Et qu’il ne redoute personne  
+> Au grand concours de l’amitié.
 
 I have handed the prospectus to the little girl’s father ; as soon as I know his decision, I shall write to you.
 
@@ -1264,105 +1282,113 @@ Of all the English birds that Aru brought from England, only six are living, two
 
 The weather looks cloudy, and as the Garden gets unhealthy during the rainy season, we shall soon have to decamp. Write to me at our Calcutta house, for I am afraid of the letters being lost if you were to address them here. Papa is pretty well, but as I said before, it will be some time before he is able to move about. He and Mamma join in sending kind regards to your father and mother and with best love to yourself.
 
-### <span class="small-caps">Chanson</span>
+> **[verse_insert]**
+>
+> ###### <span class="small-caps">Chanson</span>
+>
+> From Victor Hugo's *Les Châtiments*
+>
+> (*Original*)
+>
+> La femelle ? elle est morte.  
+> Le mâle ? un chat l'emporte  
+> Et dévore ses os.  
+> Au doux nid qui frissonne  
+> Qui reviendra ? personne.  
+> Pauvres petits oiseaux !
+>
+> Le pâtre absent par fraude !  
+> Le chien mort ! le loup rôde  
+> Et tend ses noirs panneaux  
+> Au bercail qui frissonne.  
+> Qui veillera ? personne.  
+> Pauvres petits agneaux !
+>
+> L'homme au bagne ! la mère  
+> A l'hospice ! ô misère !  
+> Le logis tremble aux vents ;  
+> L'humble berceau frissonne.  
+> Que reste-t-il ? personne.  
+> Pauvres petits enfants !
 
-From Victor Hugo's *Les Châtiments*
+> **[verse_insert]**
+>
+> ###### <span class="small-caps">Chanson</span>
+>
+> (*Translation*)
+>
+> The female ? She is dead.  
+> The male ? The cat has fed  
+> On his flesh and his bone.  
+> To the nest which will come ?  
+> Oh, poor birdlings, be dumb ;  
+> But they moan, the weak things, and they moan,
+>
+> The shepherd ? Gone or fled.  
+> The dog ? Killed, and instead  
+> The wolf prowling alone.  
+> He peers in.—Ho, I come !  
+> He may pity, hope some,  
+> Oh poor lambs, the wolf's heart is of stone.
+>
+> The man ? To prison led.  
+> The mother ? sick-a-bed  
+> In a workhouse is thrown.  
+> It is cold—will she come ?  
+> They cry—cry for a crumb,  
+> Poor children, look to God on his throne.
 
-(*Original*)
+> **[verse_insert]**
+>
+> ###### From *Les Châtiments* of Victor Hugo
+>
+> ###### (*Original*)
+>
+> — Sentiers où l'herbe se balance,  
+> Vallons, coteaux, bois chevelus,  
+> Pourquoi ce deuil et ce silence ?  
+> — Celui qui venait ne vient plus.  
+>   
+> — Pourquoi personne à la fenêtre,  
+> Et pourquoi ton jardin sans fleurs ?  
+> O maison ! où donc est ton maître ?  
+> — Je ne sais pas, il est ailleurs.  
+>   
+> — Chien, veille au logis. — Pour quoi faire ?  
+> La maison est vide à présent.  
+> — Enfant, qui pleures-tu ? — Mon père.  
+> — Femme, qui pleures-tu ? — L'absent.  
+>   
+> — Où s'en est-il allé ? — Dans l'ombre.  
+> — Flots qui gémissez sur l'écueil,  
+> D'où venez-vous ? — Du bagne sombre.  
+> — Et qu'apportez-vous ? — Un cercueil.
 
-La femelle ? elle est morte.  
-Le mâle ? un chat l'emporte  
-Et dévore ses os.  
-Au doux nid qui frissonne  
-Qui reviendra ? personne.  
-Pauvres petits oiseaux !
-
-Le pâtre absent par fraude !  
-Le chien mort ! le loup rôde  
-Et tend ses noirs panneaux  
-Au bercail qui frissonne.  
-Qui veillera ? personne.  
-Pauvres petits agneaux !
-
-L'homme au bagne ! la mère  
-A l'hospice ! ô misère !  
-Le logis tremble aux vents ;  
-L'humble berceau frissonne.  
-Que reste-t-il ? personne.  
-Pauvres petits enfants !
-
-### <span class="small-caps">Chanson</span>
-
-(*Translation*)
-
-The female ? She is dead.  
-The male ? The cat has fed  
-On his flesh and his bone.  
-To the nest which will come ?  
-Oh, poor birdlings, be dumb ;  
-But they moan, the weak things, and they moan,
-
-The shepherd ? Gone or fled.  
-The dog ? Killed, and instead  
-The wolf prowling alone.  
-He peers in.—Ho, I come !  
-He may pity, hope some,  
-Oh poor lambs, the wolf's heart is of stone.
-
-The man ? To prison led.  
-The mother ? sick-a-bed  
-In a workhouse is thrown.  
-It is cold—will she come ?  
-They cry—cry for a crumb,  
-Poor children, look to God on his throne.
-
-### From *Les Châtiments* of Victor Hugo
-
-### (*Original*)
-
-— Sentiers où l'herbe se balance,  
-Vallons, coteaux, bois chevelus,  
-Pourquoi ce deuil et ce silence ?  
-— Celui qui venait ne vient plus.  
-  
-— Pourquoi personne à la fenêtre,  
-Et pourquoi ton jardin sans fleurs ?  
-O maison ! où donc est ton maître ?  
-— Je ne sais pas, il est ailleurs.  
-  
-— Chien, veille au logis. — Pour quoi faire ?  
-La maison est vide à présent.  
-— Enfant, qui pleures-tu ? — Mon père.  
-— Femme, qui pleures-tu ? — L'absent.  
-  
-— Où s'en est-il allé ? — Dans l'ombre.  
-— Flots qui gémissez sur l'écueil,  
-D'où venez-vous ? — Du bagne sombre.  
-— Et qu'apportez-vous ? — Un cercueil.
-
-### <span class="small-caps">The Political Prisoner</span>
-
-### (*Translation*)
-
-—Paths that from trees dark shadows borrow !  
-Green vale and wood and pebbled shore !  
-Wherefore this silence and this sorrow ?  
-—A step that came here, comes no more.
-
-—Closed window, sign of some disaster !  
-   Garden, where never flowers are seen !  
-And grey old house—where is the master ?  
-   —Long in his home he has not been.
-
-—Mastiff keep watch.—O stranger rather  
-   On Desolation look thou here.  
-—Child why weepest thou ?—For my Father.  
-   —And thou O woman ?—For my dear.
-
-—Where is he gone ?—He left no traces.  
-   —Whence come ye, Waves, that thunder loud ?  
-—We come from earth's dark cruel places.  
-   —And what bear ye ?—A hammock shroud.
+> **[verse_insert]**
+>
+> ###### <span class="small-caps">The Political Prisoner</span>
+>
+> ###### (*Translation*)
+>
+> —Paths that from trees dark shadows borrow !  
+> Green vale and wood and pebbled shore !  
+> Wherefore this silence and this sorrow ?  
+> —A step that came here, comes no more.
+>
+> —Closed window, sign of some disaster !  
+>    Garden, where never flowers are seen !  
+> And grey old house—where is the master ?  
+>    —Long in his home he has not been.
+>
+> —Mastiff keep watch.—O stranger rather  
+>    On Desolation look thou here.  
+> —Child why weepest thou ?—For my Father.  
+>    —And thou O woman ?—For my dear.
+>
+> —Where is he gone ?—He left no traces.  
+>    —Whence come ye, Waves, that thunder loud ?  
+> —We come from earth's dark cruel places.  
+>    —And what bear ye ?—A hammock shroud.
 
 T. D.
 
@@ -1440,7 +1466,9 @@ Our second crop of mangoes is now come in, and we get some every day ; but they 
 
 One of my cousins, Varûna, only four years old, is fond of us, very much. He sometimes comes and stays the whole day with us. He is very intelligent and has a wonderful ear for music. You would be delighted to hear him sing some of Moody's and Sankey's hymns :
 
-' Hold the fort ! for I am coming ! '
+> **[verse_insert]**
+>
+> ' Hold the fort ! for I am coming ! '
 
 He sings that standing, with his little hand raised in a most imposing attitude ! He is very fond of firearms ! Give him a gun or a pistol, and he will do anything for you. His love for watches and medicine-chests seems in no wise to have diminished.
 
@@ -1448,7 +1476,9 @@ July 23rd. I received your letter, dated the 22nd of June last. I am glad to see
 
 Yesterday, Jeunette was put to harness with a mare of my cousin's. As she had several days' rest on account of Gentille's lameness, she was very fresh, and went splendidly, plunging and so fiery that Papa was afraid of some accident. She came back quieter, but still full of spirit and fire. It reminded me of Browning's description of a horse in a poem entitled ‘How they brought the good news from Ghent’:
 
-‘With his nostrils like pits, full of blood to the brim.’
+> **[verse_insert]**
+>
+> ‘With his nostrils like pits, full of blood to the brim.’
 
 Gentille is quite well now, and I shall be able to use her in a few days. We sold off some guinea-pigs, keeping only four. As to the birds dear Aru brought from England, only two pairs of canaries and one goldfinch are alive.
 
@@ -1501,7 +1531,9 @@ Mrs. Baker has not written to me yet, but I hope she will soon.
 
 Why don't you go to the Continent for a tour ? I am sure you would enjoy yourself immensely. I should like to go down the Rhine and also to the Pyrenees ; there is such a nice piece in French, descriptive of the scenery round the Pyrenees, by Napol le Pyrénéen (Xavier Navarrot), a protestant *pasteur* ; it is the only poem he wrote, but it is a beautiful one ; his critic, M. Charles Asselineau, thus speaks of the piece : ‘ Ce n'est pas un pays deviné, rêvé, recréé, pour ainsi dire, par l'imagination puissante d'un poète grand magicien, mais un pays vu, compris et admirablement rendu en quelques coups d'un savant pinceau : la *vermeille* Orléans, Limoges *aux trois sveltes clochers,* l'Aveyron *murmurant entre des pelouses pleines de parfums,* les *grèves pensives* du Tescoud, le Tarn *fauve et fuyant,* la Garonne *aux longs flots, aux eaux convulsives* où nagent des *navires bruns* et des *îlots verdoyants,* parleront à l'œil de quiconque a suivi le même itinéraire. Tout le reste de la pièce, écrit d'un mouvement rapide, comme la course du voyageur, ou comme le galop des chevaux de Muça-el-Kevir, étincelle de vives couleurs et de traits brillants qui sautent à l'œil. C'est : Toulouse, jetée comme une *perle* au milieu des fleurs ; les blancs *chevaux* à la *crinière argentée,* dont le pied grêle a des poils noirs *comme des plumes* d'aigle, c'est encore Fénelon le *cygne aux chants divins,*
 
-Qui nageait aux sources d'Homère !
+> **[verse_insert]**
+>
+> Qui nageait aux sources d'Homère !
 
 c'est enfin, à la dernière strophe, les armées, passant par Ronceveaux :—*soldats, canons, tambours, chevaux, chants tonnant dans l'espace,* &c.—Voilà bien l'art de 1833.'
 
@@ -1531,122 +1563,128 @@ The *Doorga-Poojah* holidays have come, and all business men have left town for 
 
 I have nothing to write about, so I will copy out for you one of my latest translations of French poetry. It is taken from the *Anthologie* which we received a fortnight ago and the author is M. Eugène Manuel, a poet of our times.
 
-### <span class="small-caps">The History of a Soul</span>
-
-In secret from among the throng  
- God sometimes takes a soul,  
-And leads her slow, through grief and wrong,  
- Unswerving to her goal.  
-  
-He chooses her to be His bride,  
- And gives her from His store,  
-Meek tenderness and lofty pride,  
- That she may feel the more.  
-  
-He makes her poor, without a stay,  
- Desiring all men's good,  
-Searching the True, pure, pure alway,  
- But still, misunderstood.  
-  
-Beneath a weight of pains and fears  
- He makes her often fall,  
-He nourishes her with bitter tears,  
- Unseen, unknown of all.
-
-He spreads the clouds her head above,  
-   He tries her hour by hour,  
-From Hate she suffers and from Love,  
-   And owns of Each the power.
-
-God's rigour never, never sleeps :  
-   She waits for peace ?  In vain.  
-She struggles or resignèd weeps,  
-   He strikes and strikes again.
-
-In beings that she loves the most,  
-   He wounds her till, half mad,  
-She wanders like a restless ghost !  
-   A problem strange and sad.
-
-Thus stricken, reft of joy and light,  
-   God makes her fair and clean,  
-Like an enamel hard and bright,  
-   A sword of temper keen.
-
-Subject to Adam's debt below  
-   And every curse and pain,  
-The Judge inflexible would know  
-   If she will staunch remain.
-
-Will she fight on, 'gainst every ill ?  
-   Brave every storm ?  Stand fast,  
-Her lofty mission to fulfil  
-   With courage to the last ?
-
-And when He sees her ever true,  
-   Like needle to the pole,  
-Upon His work He smiles anew—  
-   Thus forges God a soul.
+> **[verse_insert]**
+>
+> ###### <span class="small-caps">The History of a Soul</span>
+>
+> In secret from among the throng  
+>  God sometimes takes a soul,  
+> And leads her slow, through grief and wrong,  
+>  Unswerving to her goal.  
+>   
+> He chooses her to be His bride,  
+>  And gives her from His store,  
+> Meek tenderness and lofty pride,  
+>  That she may feel the more.  
+>   
+> He makes her poor, without a stay,  
+>  Desiring all men's good,  
+> Searching the True, pure, pure alway,  
+>  But still, misunderstood.  
+>   
+> Beneath a weight of pains and fears  
+>  He makes her often fall,  
+> He nourishes her with bitter tears,  
+>  Unseen, unknown of all.
+>
+> He spreads the clouds her head above,  
+>    He tries her hour by hour,  
+> From Hate she suffers and from Love,  
+>    And owns of Each the power.
+>
+> God's rigour never, never sleeps :  
+>    She waits for peace ?  In vain.  
+> She struggles or resignèd weeps,  
+>    He strikes and strikes again.
+>
+> In beings that she loves the most,  
+>    He wounds her till, half mad,  
+> She wanders like a restless ghost !  
+>    A problem strange and sad.
+>
+> Thus stricken, reft of joy and light,  
+>    God makes her fair and clean,  
+> Like an enamel hard and bright,  
+>    A sword of temper keen.
+>
+> Subject to Adam's debt below  
+>    And every curse and pain,  
+> The Judge inflexible would know  
+>    If she will staunch remain.
+>
+> Will she fight on, 'gainst every ill ?  
+>    Brave every storm ?  Stand fast,  
+> Her lofty mission to fulfil  
+>    With courage to the last ?
+>
+> And when He sees her ever true,  
+>    Like needle to the pole,  
+> Upon His work He smiles anew—  
+>    Thus forges God a soul.
 
 Do you like it ?  I have not given the original because it is long. If you are not tired, I will put in a piece of Mme Desbordes-Valmore's, the original and the translation.
 
-### <span class="small-caps">Romance, 'S'il l'avait su'</span>
+> **[verse_insert]**
+>
+> ###### <span class="small-caps">Romance, 'S'il l'avait su'</span>
+>
+> S'il avait su quelle âme il a blessée,  
+> Larmes du cœur, s'il avait pu vous voir,  
+> Ah ! si ce cœur, trop plein de sa pensée,  
+> De l'exprimer n'eût gardé le pouvoir,  
+> Changer ainsi n'eût pas été possible ;  
+> Fier de nourrir l'espoir qu'il a déçu,  
+> A tant d'amour il eût été sensible,  
+>    S'il l'avait su.
+>
+> S’il avait su tout ce qu’on peut attendre,  
+> D’une âme simple, ardente et sans détour,  
+> Il eût voulu la mienne pour l’entendre.  
+> Comme il l’inspire, il eût connu l’amour.  
+> Mes yeux baissés recélaient cette flamme ;  
+> Dans leur pudeur n’a-t-il rien aperçu ?  
+> Un tel secret valait toute son âme,  
+>         S’il l’avait su.
+>
+> Si j’avais su, moi-même, à quel empire  
+> On s’abandonne en regardant ses yeux,  
+> Sans le chercher comme l’air qu’on respire,  
+> J’aurais porté mes jours sous d’autres cieux.  
+> Il est trop tard pour renouer ma vie ;  
+> Ma vie était un doux espoir déçu :  
+> Diras-tu pas, toi qui me l’as ravie,  
+>         Si je l’avais su ?
 
-S'il avait su quelle âme il a blessée,  
-Larmes du cœur, s'il avait pu vous voir,  
-Ah ! si ce cœur, trop plein de sa pensée,  
-De l'exprimer n'eût gardé le pouvoir,  
-Changer ainsi n'eût pas été possible ;  
-Fier de nourrir l'espoir qu'il a déçu,  
-A tant d'amour il eût été sensible,  
-   S'il l'avait su.
-
-S’il avait su tout ce qu’on peut attendre,  
-D’une âme simple, ardente et sans détour,  
-Il eût voulu la mienne pour l’entendre.  
-Comme il l’inspire, il eût connu l’amour.  
-Mes yeux baissés recélaient cette flamme ;  
-Dans leur pudeur n’a-t-il rien aperçu ?  
-Un tel secret valait toute son âme,  
-        S’il l’avait su.
-
-Si j’avais su, moi-même, à quel empire  
-On s’abandonne en regardant ses yeux,  
-Sans le chercher comme l’air qu’on respire,  
-J’aurais porté mes jours sous d’autres cieux.  
-Il est trop tard pour renouer ma vie ;  
-Ma vie était un doux espoir déçu :  
-Diras-tu pas, toi qui me l’as ravie,  
-        Si je l’avais su ?
-
-### *Translation*
-
-If he had known—known what a soul he has wounded !  
-O heart, if thy tears had been seen but to flow,  
-Or if thou at his step less wildly hadst bounded  
-And guarded the power thy deep feeling to show,  
-He could not, he could not so lightly have altered,  
-Proud to nourish a hope now hurled from its throne,  
-By a love so profound, he, touched, must have faltered  
-        If he had known.
-
-If he had known what might be hoped and awaited,  
-From a heart in its candour, deception above,  
-For mine he had longed, with a joy unabated,  
-And as he inspired, would have felt also love.  
-Mine eyes bent down ever, concealed my emotion,  
-Guessed he nothing from that ?  was’t shyness alone ?  
-A secret like mine was worth search—and devotion,  
-        If he had known.
-
-If I had known—I—of the empire he wielded !  
-Over hearts that lived in the light of his eyes,  
-As one breathes a pure air—unconscious, unshielded—  
-My steps would have sought other countries and skies,  
-It ’s too late to talk of love-sign or love-token !  
-My life was a hope, but the hope now has flown !  
-Wilt thou say when thou knowest ?—‘ Oh heart I have broken  
-        If I had known ! ’
+> **[verse_insert]**
+>
+> ###### *Translation*
+>
+> If he had known—known what a soul he has wounded !  
+> O heart, if thy tears had been seen but to flow,  
+> Or if thou at his step less wildly hadst bounded  
+> And guarded the power thy deep feeling to show,  
+> He could not, he could not so lightly have altered,  
+> Proud to nourish a hope now hurled from its throne,  
+> By a love so profound, he, touched, must have faltered  
+>         If he had known.
+>
+> If he had known what might be hoped and awaited,  
+> From a heart in its candour, deception above,  
+> For mine he had longed, with a joy unabated,  
+> And as he inspired, would have felt also love.  
+> Mine eyes bent down ever, concealed my emotion,  
+> Guessed he nothing from that ?  was’t shyness alone ?  
+> A secret like mine was worth search—and devotion,  
+>         If he had known.
+>
+> If I had known—I—of the empire he wielded !  
+> Over hearts that lived in the light of his eyes,  
+> As one breathes a pure air—unconscious, unshielded—  
+> My steps would have sought other countries and skies,  
+> It ’s too late to talk of love-sign or love-token !  
+> My life was a hope, but the hope now has flown !  
+> Wilt thou say when thou knowest ?—‘ Oh heart I have broken  
+>         If I had known ! ’
 
 I must close my letter now. I am sure you are quite tired deciphering it, by this time. I shall cover the next page and then close.
 
@@ -1694,12 +1732,14 @@ A few days ago, Jeunette ran away from the groom, while he was giving her the us
 
 How pleasant your trip has been ! I see from your letters, that you enjoyed yourself immensely. I am glad to hear that the Fishers have also had their holidays, and enjoyed themselves. Please give my regards to them when next you write to them. How pleasant it must be to go down the Rhine ! I remember one of the Reverend W. Lisle Bowle's sonnets,—
 
-—On the sparkling Rhine  
-We bounded, and the white waves round the prow  
-In murmurs parted ;—varying as we go,  
-Lo ! the woods open, and the rocks retire,  
-Some convent's ancient walls, or glistening spire,  
-'Mid the bright landscape's track unfolding slow.
+> **[verse_insert]**
+>
+> —On the sparkling Rhine  
+> We bounded, and the white waves round the prow  
+> In murmurs parted ;—varying as we go,  
+> Lo ! the woods open, and the rocks retire,  
+> Some convent's ancient walls, or glistening spire,  
+> 'Mid the bright landscape's track unfolding slow.
 
 I am glad you took some sketches, during your trip, of the scenery round you ; it will be very nice doing them up when you are at leisure.
 
@@ -1713,83 +1753,91 @@ Baguette, my pet cat, has got two very nice kittens, just like two little Persia
 
 I have no news that would interest you, so I copy below two of Heine’s smaller poems, translated by himself into French, and by *my*self into English.
 
-### ‘<span class="small-caps">Le Message</span>’
+> **[verse_insert]**
+>
+> ###### ‘<span class="small-caps">Le Message</span>’
+>
+> Allons, mon écuyer, en selle !  
+> Plus rapide que l’ouragan,  
+> Cours au château du roi Duncan,  
+> Pour me quérir une nouvelle !
+>
+> Parmi les chevaux glisse-toi,  
+> Et dis au valet d’écurie :  
+> ‘ Quelle est celle qui se marie,  
+> Des deux filles de votre roi ? ’
+>
+> Et s’il te répond : ‘ C’est la brune,’  
+> Viens vite, et me le fais savoir ;  
+> Si ‘ La blonde,’ reviens ce soir,  
+> Au pas, en regardant la lune.
+>
+> Entre en passant chez le cordier,  
+> Prends une corde et me l’apporte,  
+> Ouvre bien doucement la porte,  
+> Et ne dis rien, mon écuyer !
 
-Allons, mon écuyer, en selle !  
-Plus rapide que l’ouragan,  
-Cours au château du roi Duncan,  
-Pour me quérir une nouvelle !
+> **[verse_insert: Translation]**
+>
+> (*Translation*)
+>
+> To horse, my squire !  To horse and quick !  
+> Be wingéd like the hurricane,  
+> Fly to the château on the plain,  
+> And bring me news, for I am sick.
+>
+> Glide ’mid the steeds and ask a groom,  
+> After some talk, this simple thing—  
+> ‘ Of the two daughters of our king,  
+> Who is to wed, and when, and whom ? ’
+>
+> And if he tell thee—‘ ’tis the brown ’,  
+> Come sharply back and let me know :  
+> But if ‘ the blonde ’, ride soft and slow :  
+> The moon-light ’s pleasant on the down.
+>
+> And as thou comest, faithful squire,  
+> Get me a rope from shop or store,  
+> And gently enter through this door,  
+> And speak no word but swift retire.
 
-Parmi les chevaux glisse-toi,  
-Et dis au valet d’écurie :  
-‘ Quelle est celle qui se marie,  
-Des deux filles de votre roi ? ’
+> **[verse_insert]**
+>
+> ###### ‘ <span class="small-caps">Ni haine ni amour</span> ’
+>
+> J’ai connu plus d’une inhumaine  
+> Parmi les filles d’alentour,  
+> J’ai beaucoup souffert de leur haine  
+> Et plus encore de leur amour.
+>
+> Elles ont dans ma coupe pleine  
+> Versé du poison chaque jour,  
+> C’était tantôt poison de haine,  
+> C’était tantôt poison d’amour.
+>
+> Mais celle qui m’a fait la peine  
+> La plus déchirante, à son tour,  
+> N’a jamais eu pour moi de haine,  
+> N’a jamais eu pour moi d’amour.
 
-Et s’il te répond : ‘ C’est la brune,’  
-Viens vite, et me le fais savoir ;  
-Si ‘ La blonde,’ reviens ce soir,  
-Au pas, en regardant la lune.
-
-Entre en passant chez le cordier,  
-Prends une corde et me l’apporte,  
-Ouvre bien doucement la porte,  
-Et ne dis rien, mon écuyer !
-
-(*Translation*)
-
-To horse, my squire !  To horse and quick !  
-Be wingéd like the hurricane,  
-Fly to the château on the plain,  
-And bring me news, for I am sick.
-
-Glide ’mid the steeds and ask a groom,  
-After some talk, this simple thing—  
-‘ Of the two daughters of our king,  
-Who is to wed, and when, and whom ? ’
-
-And if he tell thee—‘ ’tis the brown ’,  
-Come sharply back and let me know :  
-But if ‘ the blonde ’, ride soft and slow :  
-The moon-light ’s pleasant on the down.
-
-And as thou comest, faithful squire,  
-Get me a rope from shop or store,  
-And gently enter through this door,  
-And speak no word but swift retire.
-
-### ‘ <span class="small-caps">Ni haine ni amour</span> ’
-
-J’ai connu plus d’une inhumaine  
-Parmi les filles d’alentour,  
-J’ai beaucoup souffert de leur haine  
-Et plus encore de leur amour.
-
-Elles ont dans ma coupe pleine  
-Versé du poison chaque jour,  
-C’était tantôt poison de haine,  
-C’était tantôt poison d’amour.
-
-Mais celle qui m’a fait la peine  
-La plus déchirante, à son tour,  
-N’a jamais eu pour moi de haine,  
-N’a jamais eu pour moi d’amour.
-
-(*Translation*)
-
-Of girls unkind, though fair and stately,  
-This neighbourhood may count a score ;  
-From their hate I have suffered greatly,  
-But from their love, oh more, still more.
-
-In my brimming cup they have lately  
-Their poison shed as oft before,  
-Hate-potions sometimes, and then straightly  
-Love-philters that distress me sore.
-
-But she whose name I love innately,  
-Who gave the wound that struck the core,  
-Moves tranquil on her way sedately,  
-Nor hate, nor love, she bears or bore.
+> **[verse_insert: Translation]**
+>
+> (*Translation*)
+>
+> Of girls unkind, though fair and stately,  
+> This neighbourhood may count a score ;  
+> From their hate I have suffered greatly,  
+> But from their love, oh more, still more.
+>
+> In my brimming cup they have lately  
+> Their poison shed as oft before,  
+> Hate-potions sometimes, and then straightly  
+> Love-philters that distress me sore.
+>
+> But she whose name I love innately,  
+> Who gave the wound that struck the core,  
+> Moves tranquil on her way sedately,  
+> Nor hate, nor love, she bears or bore.
 
 Which do you prefer ? Heine, you know, is a Jew by birth ; he wrote a great deal in German: a French critic says that ‘nul écrivain depuis Gœthe n’a façonné l’idiome germanique avec cette puissance magistrale ; on dirait parfois de véritables tours de force ’.
 
@@ -1803,7 +1851,9 @@ Our pastor, Mr. Welland, has been in the North West for a change ; so Mr. Cliffo
 
 It gets very dark soon, now that the winter is coming on ; before six it gets pitch dark and the heavy dews begin to fall. In the morning all the grassy compound and all the green leaves are glistening with big drops of dew like pearls ;
 
-‘ Là, tous les diamants de la rosée en pleurs ’
+> **[verse_insert]**
+>
+> ‘ Là, tous les diamants de la rosée en pleurs ’
 
 as says a French poet, M. le comte de Gramont.
 
@@ -1824,16 +1874,20 @@ My grandfather and his family have settled down comfortably in our Garden, we we
 
 Papa and I are going to begin Sanskrit in December; Papa says as there is no good opportunity to learn German now, we had better take up Sanskrit instead of doing nothing. I am very glad of this. I should so like to read the glorious epics, the *Ramayana* and the *Mahabharata*, in the original. I shall be quite a Sanskrit Pundit, when I revisit old Cambridge! Ah! I so long to be there, and like the Poet Laureate hear
 
-——Once more in college fanes,  
-The storm their high-built organs make,  
-And thunder-music rolling shake  
-The prophets blazoned on the panes.
+> **[verse_insert]**
+>
+> ——Once more in college fanes,  
+> The storm their high-built organs make,  
+> And thunder-music rolling shake  
+> The prophets blazoned on the panes.
 
 and catch
 
-——Once more the distant shout,  
-The measured splash of beating oars  
-Among the willows——.
+> **[verse_insert]**
+>
+> ——Once more the distant shout,  
+> The measured splash of beating oars  
+> Among the willows——.
 
 I was reading the ‘ Siege of Corinth ’ of Lord Byron lately; it is very beautiful; my uncle says it is the most complete of his smaller poems. Byron’s ‘ Lines written on attaining my thirty-fifth year ’, are very pathetic: they were written only three months before his death.
 
@@ -1841,24 +1895,26 @@ A great many people have died from cholera and fever lately, in Calcutta and the
 
 I have finished my book of French poetry translated into English; it is to be entitled *A Sheaf gleaned in French Fields.* I hope you like the title, do you? It is to be printed if I like. The concluding sonnet I shall copy out for you; it is not from the French, but is original.
 
-### <span class="small-caps">Sonnet</span>
-
-### ‘<span class="small-caps">A mon Père</span>’
-
-The flowers look loveliest in their native soil  
-Amid their kindred branches; plucked, they fade  
-And lose the colours Nature on them laid,  
-Though bound in garlands with assiduous toil.  
-Pleasant it was, afar from all turmoil  
-To wander through the valley, now in shade  
-And now in sunshine, where these blossoms made  
-A Paradise, and gather in my spoil.  
-But better than myself no man can know  
-How tarnished have become their tender hues  
-E'en in the gathering, and how dimmed their glow!  
-Wouldst thou again new life in them infuse,  
-Thou who hast seen them where they brightly blow?  
-Ask Memory. She shall help my stammering Muse.
+> **[verse_insert: Sonnet ‘A mon Père’]**
+>
+> ###### <span class="small-caps">Sonnet</span>
+>
+> ###### ‘<span class="small-caps">A mon Père</span>’
+>
+> The flowers look loveliest in their native soil  
+> Amid their kindred branches; plucked, they fade  
+> And lose the colours Nature on them laid,  
+> Though bound in garlands with assiduous toil.  
+> Pleasant it was, afar from all turmoil  
+> To wander through the valley, now in shade  
+> And now in sunshine, where these blossoms made  
+> A Paradise, and gather in my spoil.  
+> But better than myself no man can know  
+> How tarnished have become their tender hues  
+> E'en in the gathering, and how dimmed their glow!  
+> Wouldst thou again new life in them infuse,  
+> Thou who hast seen them where they brightly blow?  
+> Ask Memory. She shall help my stammering Muse.
 
 Do you like the sonnet? Papa does very much. There are 165 pieces of poetry in the volume, besides the notes affixed to each and all of the pieces. I have now nothing to do, so Papa and I are going to take up Sanskrit. It is a very difficult language and it is hard to learn it perfectly in less than six or seven years; but I will try my best. My grandfather, Papa's father, used to know and understand Sanskrit like a pundit; and he only learnt it for two or three years when he was forty-two or forty-three years of age; so I hope my case will not be hopeless.
 
@@ -1866,8 +1922,10 @@ November 29th. We went to Church yesterday; and on our way we were stopped by a 
 
 My grandmother is very ill with fever ; we shall go to see her to-day ; my grandfather is quite well now, I am happy to say. It is pretty cold here now, like English spring weather, and the mornings are almost sure to be ushered in by a slight mist which puts me in mind of Longfellow's lines :
 
-And resembles sorrow only,  
-As the mist resembles rain.
+> **[verse_insert]**
+>
+> And resembles sorrow only,  
+> As the mist resembles rain.
 
 December 4th. I have been rather busy for the last few days. On Saturday, Miss Ada Smith, a friend of ours, arrived in Calcutta from England. She came to see us on Monday ; she is very nice and amiable ; she has come here to teach in the Zenanas. We know her cousin very well, Mr. Algernon H. Smith, who was curate to Mr. Hall of Cambridge ; he is now Rector of a parish in Tunbridge Wells. Papa passed three or four days at Miss Smith's uncle's house in Kent ; Mr. A. H. Smith took him there and he enjoyed his stay with them immensely, and speaks even now about it. I like Ada very much. We took her on Friday last to our Garden. She was very pleased to see my grandmother and aunts, and was lost in admiration when my youngest aunt showed her her ‘ casket of gems’. She was charmed with the Garden and said she wondered we long to return to Europe when we had such an earthly paradise to live in and enjoy. She took me to be twenty-nine years old and my uncle to be twenty-six only ! She herself is twenty-nine years old. I showed her your likeness and told her what a dear good soul you are. I am going to take her for a drive on Monday evening. It is a great pity that she is not going to stay in Calcutta ; the Secretary of the Society has chosen Amritsar for her destination ; he says that there a great field is open for Zenana teachers and that there are not half so many teachers there as are wanted. Ada is to go there by the middle of next week. I feel rather sorry at this ; I like her so very much ; she is like a whiff of the free bracing air of dear old England.
 
@@ -2552,41 +2610,45 @@ June 1, 1876.
 
 I received your welcome letter about five days ago, and as to-morrow is mail-day I must try and write an answer to-day. I shall gladly send you copies of any of the originals of my translations that you may like to compare with them. Several of ‘ Roland’s ’ verses are very fairly done, though I say it myself, who should not, but I am afraid I have not been able to keep up the spirit of the original throughout. The ‘Wolf ’ is one of Uncle Girish’s favourites, but Papa and myself consider it very mediocre. ‘The Rose and the Tomb ’ is, we (Papa and I) think, smooth and literal. Here is a translation of the same piece done some years ago by a Civil Servant, Mr. Hodgson :
 
-With those bright tears of limpid dew,  
-Which on thy leaves each morn I view,  
-What dost thou, flower of beauty, do ?  
-One day demands a Tomb.
-
-The Rose replies : In stilly night,  
-With those sweet tears of pearly white,  
-Are fed my flowers of rich delight,  
-That all around perfume !
-
-And what awaits, demands the Rose,  
-Those at the eve of life’s last close,  
-Who with their weight of sins and woes,  
-Are cast in thine abyss ?
-
-All pass my portals, Death replies,  
-For every mortal being dies,  
-But from my womb they all arise,  
-Angels of love and bliss !
+> **[enclosure]**
+>
+> With those bright tears of limpid dew,  
+> Which on thy leaves each morn I view,  
+> What dost thou, flower of beauty, do ?  
+> One day demands a Tomb.
+>
+> The Rose replies : In stilly night,  
+> With those sweet tears of pearly white,  
+> Are fed my flowers of rich delight,  
+> That all around perfume !
+>
+> And what awaits, demands the Rose,  
+> Those at the eve of life’s last close,  
+> Who with their weight of sins and woes,  
+> Are cast in thine abyss ?
+>
+> All pass my portals, Death replies,  
+> For every mortal being dies,  
+> But from my womb they all arise,  
+> Angels of love and bliss !
 
 Which do you like best ? Do not flatter me, but say frankly which you like. I shall copy the original out also, so that you may compare both the translations with it :
 
-La tombe dit à la rose :  
-— Des pleurs dont l’aube t’arrose  
-Que fais-tu, fleur des amours ?  
-La rose dit à la tombe :  
-— Que fais-tu de ce qui tombe  
-Dans ton gouffre ouvert toujours ?
-
-La rose dit : — Tombeau sombre,  
-De ces pleurs je fais dans l’ombre  
-Un parfum d’ambre et de miel.  
-La tombe dit : — Fleur plaintive,  
-De chaque âme qui m’arrive  
-Je fais un ange du ciel !
+> **[enclosure]**
+>
+> La tombe dit à la rose :  
+> — Des pleurs dont l’aube t’arrose  
+> Que fais-tu, fleur des amours ?  
+> La rose dit à la tombe :  
+> — Que fais-tu de ce qui tombe  
+> Dans ton gouffre ouvert toujours ?
+>
+> La rose dit : — Tombeau sombre,  
+> De ces pleurs je fais dans l’ombre  
+> Un parfum d’ambre et de miel.  
+> La tombe dit : — Fleur plaintive,  
+> De chaque âme qui m’arrive  
+> Je fais un ange du ciel !
 
 The other pieces you mention are among the first I did. Here is the Principal of the Benares College (Griffith’s) rendering of the Sanskrit lines which I have quoted in my book. He has translated the whole of the *Ramayana* :
 
@@ -2609,9 +2671,9 @@ The monkeys in our Garden have been exceedingly troublesome for the last few day
 
 The weather is dreadfully hot now. Here go a few verses by the late Mr. Parker, B.C.S., which seem very appropriate and which exactly describe my own present sentiments. It is entitled:
 
-### <span class="small-caps">Calcutta Stanzas</span>
+###### <span class="small-caps">Calcutta Stanzas</span>
 
-### <span class="small-caps">For May</span>
+###### <span class="small-caps">For May</span>
 
 Happy the man whose hair and beard  
   Are glittering stiff with ice and snow,  
@@ -3704,7 +3766,9 @@ If the ‘ Cedars of Lebanon ’ does not quite suit you, I shall send you anoth
 
 As to Lamartine’s knowledge of the Bible, very few French poets know more than he does ; Victor Hugo is very vague indeed, when he likens himself leaving Paris and its festivities under the Empire to ‘ le noir prophète qui fuyait Tyre ’. To what prophet does he allude ? Sainte-Beuve, I think, was the most religious man of all the later French poets. He was a Roman Catholic at first, but he entered the Protestant Church long before his death ; he was a great friend of a celebrated abbé, I forget the name ; they were college-friends and had had many a controversy on religion, which terminated in Sainte-Beuve’s becoming a Protestant, while the abbé :
 
-Plus ferme en Saint Pierre y fonda son repos.
+> **[verse_insert]**
+>
+> Plus ferme en Saint Pierre y fonda son repos.
 
 These very interesting facts I gathered from a biographical notice of Sainte-Beuve in one of the numbers of the *Revue des Deux Mondes.*
 
@@ -3772,10 +3836,12 @@ Your account of Bishop Johnson interested me very much, as also the speech of th
 
 How fast you are getting on with the *Ramayana*. I would advise you to read *La Femme dans l'Inde Antique*; you will find there a great variety of tales, and almost all the standard Hindu legends and stories ; I am sure you would like it. I am keeping in pretty good health now. There is a little blood-spitting off and on in the cough, but nothing to speak of ; I feel much better, only I get rather out of breath getting upstairs, and of course I cannot *run* a mile, but I can *walk* one easily, I think. The doctors advise a change ; I wonder if we shall go anywhere. I myself do not relish the idea of travelling about in search of health ; travelling in India is no small matter ; there are many comforts and conveniences in travelling about in England which are not to be had here for love or money. Dr. Cayley says England would be a very nice place for me in July or August ; what would you do, if you saw me one warm sunny August morning knock at No. 11 Parker's Piece ! and I wonder what I should do ?
 
-If I should meet thee  
-After long years,  
-How should I greet thee !  
-In silence and tears.
+> **[verse_insert]**
+>
+> If I should meet thee  
+> After long years,  
+> How should I greet thee !  
+> In silence and tears.
 
 16th. How provoking of Miss Yonge to refuse your notice of the *Sheaf* on account of want of space ! Please send me the notice to look at, if you can, for I should very much enjoy reading it. Is it long ? I do hope you have cut me up savagely ! I heard from Mr. Dey the other day ; you know he is the editor of the *Bengal Magazine*, in which several of the pieces in the *Sheaf* first appeared, and to which I still continue to contribute often. Mr. Dey wrote to me about Sir W. Herschel, son of the well-known astronomer, who is Commissioner at Hooghly. Sir W. Herschel spoke with warm praise to Mr. Dey of the *Sheaf*, and of my other recent contributions to the *Bengal Magazine*.
 
@@ -3843,12 +3909,14 @@ I received the answer to my letter from Lizzie Hall. It is a nice letter, and in
 
 Do you remember the games at chess we used to have together of an evening ? How I look back to those days ! They seem so far off. I always used to think that you made me win the game knowingly ; and I am of that opinion still, I am such a bad player. Do you know Lord Lytton's pretty little piece of poetry commencing :
 
-My little love, do you remember,  
-Ere we were grown so sadly wise,  
-Those evenings in the bleak December,  
-Curtained warm from the snowy weather,  
-When you and I played chess together,  
-Checkmated by each other's eyes.
+> **[verse_insert]**
+>
+> My little love, do you remember,  
+> Ere we were grown so sadly wise,  
+> Those evenings in the bleak December,  
+> Curtained warm from the snowy weather,  
+> When you and I played chess together,  
+> Checkmated by each other's eyes.
 
 The above lines were recurring to me last night, while I lay in bed, thinking about you. You are such a true friend, dear, I think of you often with a thankful heart.
 
@@ -3898,64 +3966,70 @@ I have so little news to give you, that I have half a mind to tear up this lette
 
 There was a slight cyclone last week ; and several boats and men were lost in the river. As I cannot fill this letter up with anything, I am going to copy one of my translations from Gramont, with the original and also with a sonnet of Wordsworth, which it resembles very much.
 
-### <span class="small-caps">Sonnet</span>
+> **[verse_insert]**
+>
+> ###### <span class="small-caps">Sonnet</span>
+>
+> Sous des barreaux de fer le lion renfermé,  
+> Le lion souverain, a l’œil triste et terrible,  
+> Et qui, vaincu, se sent en lui-même invincible,  
+> En stériles efforts ne s’est point consumé.  
+>   
+> Sans vouloir s’agiter et comme accoutumé,  
+> Il s’assied ; sous son poil rentre l’ongle infaillible,  
+> Qu’on n’affrontera pas, et sa ride inflexible  
+> Ne dit rien des fureurs dont son cœur est armé.  
+>   
+> Quelquefois seulement, quand l’odeur de l’orage  
+> Vient remuer ses flancs, magnifique et sauvage  
+> Il se dresse, et dans l’air étend sa grande voix.  
+>   
+> Ses geôliers ont frémi, lui de nouveau s’affaisse,  
+> Il n’a pas pour longtemps à supporter leurs lois :  
+> Il étouffe, et la mort va finir sa détresse.
 
-Sous des barreaux de fer le lion renfermé,  
-Le lion souverain, a l’œil triste et terrible,  
-Et qui, vaincu, se sent en lui-même invincible,  
-En stériles efforts ne s’est point consumé.  
-  
-Sans vouloir s’agiter et comme accoutumé,  
-Il s’assied ; sous son poil rentre l’ongle infaillible,  
-Qu’on n’affrontera pas, et sa ride inflexible  
-Ne dit rien des fureurs dont son cœur est armé.  
-  
-Quelquefois seulement, quand l’odeur de l’orage  
-Vient remuer ses flancs, magnifique et sauvage  
-Il se dresse, et dans l’air étend sa grande voix.  
-  
-Ses geôliers ont frémi, lui de nouveau s’affaisse,  
-Il n’a pas pour longtemps à supporter leurs lois :  
-Il étouffe, et la mort va finir sa détresse.
+> **[verse_insert]**
+>
+> ###### (*Translation*)
+>
+> By iron bars the lion proud hemmed round,  
+> The sovereign lion with the terrible eyes,  
+> Vanquished, yet still invincible, defies  
+> Not by vain efforts but a calm profound.  
+>   
+> Idle, he sits, as wont, upon the ground,  
+> His claws drawn in their sheath, and none descries  
+> In his unchanging front the rage that lies  
+> Deep in his bosom without sign or sound.  
+>   
+> ’Tis sometimes only, when he snuffs the storm  
+> Sweeping afar, he stirs and lifts his form,  
+> Savage, magnificent. Then to hear his roar  
+>   
+> The gaolers tremble ;—but he drops anew ;  
+> Not long has he to pine on dungeon floor ;  
+> He chokes for freedom : death must soon ensue.
 
-### (*Translation*)
-
-By iron bars the lion proud hemmed round,  
-The sovereign lion with the terrible eyes,  
-Vanquished, yet still invincible, defies  
-Not by vain efforts but a calm profound.  
-  
-Idle, he sits, as wont, upon the ground,  
-His claws drawn in their sheath, and none descries  
-In his unchanging front the rage that lies  
-Deep in his bosom without sign or sound.  
-  
-’Tis sometimes only, when he snuffs the storm  
-Sweeping afar, he stirs and lifts his form,  
-Savage, magnificent. Then to hear his roar  
-  
-The gaolers tremble ;—but he drops anew ;  
-Not long has he to pine on dungeon floor ;  
-He chokes for freedom : death must soon ensue.
-
-### <span class="small-caps">Eagles</span> (Wordsworth)
-
-> *Composed at Dunollie Castle in the Bay of Oban.*
-
-Dishonoured Rock and Ruin! that, by law  
-Tyrannic, keep the bird of Jove embarred  
-Like a lone criminal whose life is spared.  
-Vexed is he, and screams loud.  The last I saw  
-Was on the wing ; stooping, he struck with awe  
-Man, bird and beast ; then with a consort paired,  
-From a bold headland, their loved aery's guard,  
-Flew high above Atlantic waves, to draw  
-Light from the fountain of the setting sun.  
-Such was this prisoner once ; and, when his plumes  
-The sea-blast ruffles as the storm comes on,  
-Then, for a moment, he, in spirit, resumes  
-His rank 'mong freeborn creatures that live free,  
-His power, his beauty, and his majesty.
+> **[verse_insert]**
+>
+> ###### <span class="small-caps">Eagles</span> (Wordsworth)
+>
+> > *Composed at Dunollie Castle in the Bay of Oban.*
+>
+> Dishonoured Rock and Ruin! that, by law  
+> Tyrannic, keep the bird of Jove embarred  
+> Like a lone criminal whose life is spared.  
+> Vexed is he, and screams loud.  The last I saw  
+> Was on the wing ; stooping, he struck with awe  
+> Man, bird and beast ; then with a consort paired,  
+> From a bold headland, their loved aery's guard,  
+> Flew high above Atlantic waves, to draw  
+> Light from the fountain of the setting sun.  
+> Such was this prisoner once ; and, when his plumes  
+> The sea-blast ruffles as the storm comes on,  
+> Then, for a moment, he, in spirit, resumes  
+> His rank 'mong freeborn creatures that live free,  
+> His power, his beauty, and his majesty.
 
 Whose do you like best, Gramont's or Wordsworth's ?  And is my translation a fairly literal one ?  I hope ' La Cavale ' suits you.
 
@@ -4147,29 +4221,33 @@ Your letters are a great comfort, dear. I feel sometimes very tired and weary an
 
 May God help us to bear our crosses patiently. Do you know a certain hymn of Dr. Newman's in which are the following lines ? (I have the hymn in a book, but I can only remember two verses of it just now.)
 
-I would not miss one sigh or tear,  
-Heart-pang or throbbing brow.  
-Sweet was the chastisement severe,  
-And sweet their memory now.
-
-Yes, let the fragrant scars abide,  
-Love-tokens in thy stead,  
-Faint shadows of the spear-pierced side,  
-And thorn-encircled head.
+> **[verse_insert]**
+>
+> I would not miss one sigh or tear,  
+> Heart-pang or throbbing brow.  
+> Sweet was the chastisement severe,  
+> And sweet their memory now.
+>
+> Yes, let the fragrant scars abide,  
+> Love-tokens in thy stead,  
+> Faint shadows of the spear-pierced side,  
+> And thorn-encircled head.
 
 I received a very nice letter from Miss Arabella Shore by the last mail. She once came to see us in Cambridge in company with Miss Clough. Of course I had forgotten her quite. She says in her letter that she had written it in 1876, after reading the notice of the *Sheaf* in the *Examiner,* and had addressed it to me at Bhowanipore (it must be lost, for I never received it) ; this copy of it she sends per favour of Mr. Knight (of the firm of Messrs. Newman & Co., Calcutta), who has also, she says, promised to procure her a copy of the *Sheaf,* for she has none. Her letter is very kind ; and she says she is most touched with what I say about dear Aru. She also had a sister, she says, who died at nineteen of consumption. She is a relation of Lord Teignmouth. She praises the *Sheaf* greatly in her letter. I must stop here, dear, God bless you.
 
-No. 12 Manicktollah Street  
-Calcutta.  
-30th July 1877
-
-My dear, dear Mary,
-
-I am so sorry to have given you so much anxiety; indeed, I *could* not write, dear; I am still confined to my bed and the fever and weakness continues. Thank you very much, dear, for all your kind letters, but most of all for your friendship.
-
-How very kind of you to write to my aunt in London; she is very much pleased with your letter.
-
-Facsimile of Toru's last English letter.
+> **[enclosure: Facsimile of Toru's last English letter]**
+>
+> No. 12 Manicktollah Street  
+> Calcutta.  
+> 30th July 1877
+>
+> My dear, dear Mary,
+>
+> I am so sorry to have given you so much anxiety; indeed, I *could* not write, dear; I am still confined to my bed and the fever and weakness continues. Thank you very much, dear, for all your kind letters, but most of all for your friendship.
+>
+> How very kind of you to write to my aunt in London; she is very much pleased with your letter.
+>
+> Facsimile of Toru's last English letter.
 
 [This was the fifty-third and last letter from India received by Miss Martin after the return of Toru to India between the dates of December 1873 and July 30, 1877.]
 
@@ -4320,7 +4398,7 @@ A copy of *The Sheaf* presented to the Chevalier de Châtelain, the translator o
 
 So much for the outer history of the book. Its inner wealth now awaits our consideration. The special field of literature from which Toru principally gleaned her harvest was that which may be broadly characterized as the Romantic School of French Poetry. The Romantic movement corresponded in the realm of literary art to the Revolution in the sphere of politics. It was the assertion of freedom for the imagination and also of the rights of individuality. The seventeenth and eighteenth centuries had witnessed in connexion with poetry a process of restriction to certain forms of verse and to arbitrary rules. The seventeenth century was the period of Classicism—of servitude to the models of Greece and Rome. The eighteenth century emphasized reason. The Romantic School sought to give free play to feeling and to the imaginative faculty. It introduced changes too as regards language and metre. Simple, direct, and vivid words replaced high-sounding periphrases. The Romantic School proper was born towards the close of the first quarter of the nineteenth century, and has as its chief
 
-### The Cedars of Lebanon A. De Lamartine
+### The Cedars of Lebanon<br />A. De Lamartine
 
 Eagles that wheel above our crests  
 Say to the storms that round us blow,  
@@ -4490,7 +4568,7 @@ If days there are bitter, there are days also sweet,
 Enjoyment unmixed where on earth may we meet?  
 What ocean has never a storm?
 
-### *A SCENE FROM CONTEMPORARY HISTORY*
+#### *A SCENE FROM CONTEMPORARY HISTORY*
 
 <span class="small-caps">Toru Dutt's</span> unique linguistic abilities are evidenced by two other translations which she made from French into English. These were published in the *Bengal Magazine* (June and July 1875), each under the title of *A Scene from Contemporary History*. These translations deal with speeches delivered in the French Legislative Assembly at different periods by Victor Hugo and M. Thiers, together with a specimen of the poetry of the former.
 
@@ -4698,7 +4776,7 @@ Matters soon reach a crisis. He and Willie call at her home, and he stays on cha
 
 This romance is but a fragment—and apparently an unrevised fragment—and therefore it cannot be appraised as though it were a completed work. Had it been finished, inconsistencies which now exist would have been noted and corrected (e. g., Lord Moore would not be called ‘ Colin ’ in the earlier chapters and ‘ Henry ’ in the later ones, nor would the rainy weather of the opening scene so quickly turn to snow, nor would Lady Moore remain apparently in ignorance of the actual engagement of her son). Some of the incidents of the story also are rather too abrupt to be consistent with reality (e. g., Bianca’s sudden delirium and her quick recovery without such a period of convalescence as follows upon prolonged weakness are hardly in accord with ordinary experience). Mrs. Cranly’s departure from the home is overlooked. The story, as it is, reminds one of a piece of unfinished embroidery with loose threads still left hanging which need to be worked in. The attempt to reproduce the lisping language of a child is not always successful, nor is it likely that a girl betrothed to a nobleman would, after the establishment of such a relationship of intimacy, continue to address him as ‘My Lord ’. These are, however, minor and remediable blemishes. Though the plot is not a very complex one, yet the story attracts and retains the reader’s interest. The flow of language, the facility of expression, the frequent touches of realism, and the acquaintance with English life are remarkable when one remembers that the authoress was writing in a language and of a land that were alike foreign to her. The story reflects her talents, attainments, and character, her poetic imagination and powers of description, her intimate acquaintance with English and French literature, and, above all, her deeply religious nature. Had the tale been carried to its proper conclusion and its defects remedied, it would have been healthier in tone and better written than much of the popular literature of the present day.[^fn-p0359-1]
 
-### *Le Journal de Mademoiselle d'Arvers*
+##### *Le Journal de Mademoiselle d'Arvers*
 
 Originally this was to have been produced in collaboration— Toru's sister, Aru, supplying the illustrations ; but it is doubtful if the latter saw any portion of the work completed before she died, and Toru was left to draw solely from her own vivid imagination.
 
@@ -4971,7 +5049,7 @@ For its rich imagery, the music of its verses, and the tenderness and pathos wit
 
 ## CHAPTER XII SUPPLEMENTARY REVIEW
 
-### <span class="small-caps">By Mr. E. J. Thompson</span>
+##### <span class="small-caps">By Mr. E. J. Thompson</span>
 
 <span class="small-caps">If</span> in fulfilment of a promise I now write a few words of summary and conclusion, it is not in the hope of adding anything essential to the story that has been told in Mr. Das's sympathetic pages. The materials for judgement are before the reader, and he is in a position to appreciate this extraordinary girl.
 
@@ -5015,11 +5093,11 @@ The story of these gifted and heroic sisters, whose brief lives found fulfilment
 
 ### I
 
-### TRANSLATION OF THE CORRESPONDENCE BETWEEN M<span class="small-caps">lle</span> BADER AND TORU
+#### TRANSLATION OF THE CORRESPONDENCE<br />BETWEEN M<span class="small-caps">lle</span> BADER AND TORU
 
 ### Letter 68: Clarisse Bader → Toru Dutt
 
-### *Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.*
+#### *Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.*
 
 February 16, 1877.
 
@@ -5027,8 +5105,10 @@ February 16, 1877.
 
 You are a Christian, dear Mademoiselle; your book tells me so. Indeed the part that you are playing makes us bless once again the divine religion which has enabled an Indian to develop and to manifest the *individual* character which Brahmanism too often fetters in women. As a writer of the history of woman, it is charming to be emulated by you ; and as a Frenchwoman, the elegant translations from my countrymen's poetry touch me as much, and I must thank you for them. Your beautiful book tells me that you also had a sister, who shared in your poetic tastes. The Saviour has recalled to Himself the soul who had so faithfully interpreted the song of ‘ The Young Captive ’, and who, on arriving at the supreme moment, did not repeat :
 
-The world has delights, the Muses have songs :  
-I wish not to perish too soon.
+> **[verse_insert]**
+>
+> The world has delights, the Muses have songs :  
+> I wish not to perish too soon.
 
 When your translation of *Woman in Ancient India* is published in India, I should be very grateful if you would send me two copies. Also, it would please me very much to have your photograph, in case you possess one. Let me tell you again, before closing, how precious to me is the sympathy of a child of India. Since the happy hours passed in the company of your ancestors, I have traced the history of woman amongst the Hebrews, Greeks, and Romans. Four volumes have thus succeeded to *Woman in Ancient India* . . . and only a short time ago, when my second father, the great Bishop of Orleans, was asking me amongst which women had I found most moral beauty, my answer was : ‘ If I except the women of the Bible, it is amongst the Indians that I found the greatest purity and devotion.’—Believe, dear mademoiselle, in my cordial sympathy,
 
@@ -5042,7 +5122,7 @@ PS. I understand that your English translation is to be published in India. The 
 
 ### Letter 69: Toru Dutt → Clarisse Bader
 
-### *Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.*
+#### *Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.*
 
 Calcutta, March 18, 1877.
 
@@ -5054,7 +5134,9 @@ I cannot say, dear mademoiselle, how much your affection—for you love them ; y
 
 I must stop here, not wishing to trespass upon your time any more. Like M. Lefèvre-Deumier, I would say :
 
-Adieu then, my friend, whom I ne’er have beheld,
+> **[verse_insert]**
+>
+> Adieu then, my friend, whom I ne’er have beheld,
 
 for, dear mademoiselle, I count you amongst the best of my friends, though we have not met.
 
@@ -5069,7 +5151,7 @@ PS. I have kept back this letter till now, hoping to have received the book kind
 
 ### Letter 70: Toru Dutt → Clarisse Bader
 
-### *Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.*
+#### *Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.*
 
 Calcutta,  
 April 13, 1877.
@@ -5080,7 +5162,7 @@ April 13, 1877.
 
 ### Letter 71: Clarisse Bader → Toru Dutt
 
-### *Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.*
+#### *Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.*
 
 May 11, 1877.
 
@@ -5098,7 +5180,7 @@ Believe, dear Mademoiselle, that you have in France a friend who could be happy 
 
 ### Letter 72: Toru Dutt → Clarisse Bader
 
-### *Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.*
+#### *Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.*
 
 July 30, 1877.
 
@@ -5108,7 +5190,7 @@ July 30, 1877.
 
 ### Letter 73: Clarisse Bader → Toru Dutt
 
-### *Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.*
+#### *Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.*
 
 September 11, 1877.
 
@@ -5124,7 +5206,7 @@ What does it matter if, in the struggles where our only weapons are faith and ch
 
 PS. I enclose a little flower of my country. It is my favourite one and it is called *rhodanthe*. This pretty flower always appears to smile, even when withered. I think that is in itself a true emblem of affection. The flower that I am sending you comes from my little private chapel. May it bring you a sweet benediction from the Saviour, as well as my faithful remembrance !
 
-### II
+#### II
 
 It may interest our readers to learn that in December of 1907 Miss Elizabeth S. Colton, an American lady, came to visit India, and wrote a letter to one of Toru Dutt’s surviving relatives expressing her desire to see the Baugmaree Garden- House. The letter will speak for itself as to how Toru Dutt's name is revered and loved even by the people of that far-off country.
 
@@ -5157,24 +5239,26 @@ It is nearly forty years since I knew her, and details do not remain clear after
 <span class="small-caps">A. Clifford.</span>  
 Bishop.
 
-I first made the acquaintance of Mr. and Mrs. Govin Chunder Dutt at the hospitable house of Professor Cowell at Cambridge in (I think) 1870. They were staying in Cambridge mainly for the sake of the education of their two daughters, who were attending lectures for women. Professor and Mrs. Cowell had become intimate with the Dutt family at the time the Professor was on the staff of the Presidency College, Calcutta.
+> **[enclosure]**
+>
+> I first made the acquaintance of Mr. and Mrs. Govin Chunder Dutt at the hospitable house of Professor Cowell at Cambridge in (I think) 1870. They were staying in Cambridge mainly for the sake of the education of their two daughters, who were attending lectures for women. Professor and Mrs. Cowell had become intimate with the Dutt family at the time the Professor was on the staff of the Presidency College, Calcutta.
+>
+> I went out to India in 1874, and lived at Calcutta for four years. I was at the time Curate at the Old Mission Church, at which the Dutt family were regular attendants. I soon renewed acquaintance with them.
+>
+> Miss Aru Dutt had died four months before my arrival. I saw the family frequently, and always enjoyed my intercourse with them. Mr. Govin Dutt was an extremely cultured man, of ample means, devoting himself to literary and philanthropic pursuits. He was a remarkable linguist, equally familiar with the tongues of the East and the West. I do not think Mrs. Dutt spoke any language except Bengali, but no doubt she understood English to some extent.
+>
+> The family lived in a small Square, with a garden in the middle of it, in the northern quarter of Calcutta. I think all the houses on at least three sides of the square belonged to, and were inhabited by, different members of the Dutt clan, all of whom were gentlemen of high social standing and culture, and all, I think, converts to the Christian Faith. Mr. Govin Dutt had also a house in a large mango-orchard outside Calcutta, where he and his wife and daughter loved to retire from time to time for quietude and refreshment.
+>
+> I nearly always saw Miss Toru when I visited the house ; but though I was struck with her interesting face, wonderful eyes, great masses of flowing black hair, and look of originality and power, I was not at all aware at the time of her extraordinary talents. She was naturally shy of the young English visitor, and did not enter into conversation beyond a few conventional words of courtesy. I could see, however, how she was the darling and treasure of her parents—the only one now left out of the three who had but a short time before been the light of the household. Toru was her father's constant companion and his willing pupil, sharing with him those deep studies in European and Indian literature in which he delighted. The two elder children of the family had both been smitten with tuberculosis at the critical age when childhood passes into young manhood or womanhood, and one can imagine the intense distress of the parents when symptoms of the same terrible disease appeared in Toru. But the trial was borne by Mr. and Mrs. Dutt with the most admirable Christian fortitude ; and no less so by Toru herself. I visited her several times during her illness, which was not a very long one, and always found both her and her parents calm and brave. On more than one occasion I gave the family (just the three) the Holy Sacrament of Christ. Toru usually lay on a mattress on the floor propped up with white pillows. I never saw in her the slightest sign of fear of death, though her memory of her brother's and sister's fate must have told her plainly what was in store for her. She met what was coming with something more than resignation—with Christian hope, and almost, one may say, with the courage of welcome. It was not till after she had passed away that the world became aware in some degree of what it had lost in Toru Dutt—the strangely brilliant talent, the great purity of soul, the keen delicacy of perception, the extraordinary facility of poetic expression in at least three languages.
+>
+> I left Calcutta in 1878, but returned to it in 1880, when I found myself a rather close neighbour to Mr. and Mrs. Dutt, from whose constant kindness I received much pleasure. Mr. Dutt did not survive Toru very long. Of Mrs. Dutt I saw a good deal more after her husband's decease ; and I learned to realize that if Toru inherited her rich intellectual gifts from her father's side of the family, she must have received the moral beauty and sweetness of her character largely from her mother. Mrs. Govin Chunder Dutt was a true saint of God. Never shall I forget her triumphant, overcoming faith at the time of her husband's death. She was lifted far above resignation into a truly noble and inspiring joy of spirit. Nor did that faith and courage fail her when her own end drew nigh. Her pain (it was cancer she died of) must have been something which one hardly cares to think of. But she never faltered or allowed herself a murmur. Her face, I am told, shone with radiant peace in the midst of her worst agonies. I have often since spoken of her as the most shining example I ever met of the triumph of the spirit over the flesh, and the exemplification of the great Christian saying, ‘ Death is swallowed up in Victory.’
+>
+> A. <span class="small-caps">Clifford</span>.  
+> Bishop.
+>
+> October 30, 1915.
 
-I went out to India in 1874, and lived at Calcutta for four years. I was at the time Curate at the Old Mission Church, at which the Dutt family were regular attendants. I soon renewed acquaintance with them.
-
-Miss Aru Dutt had died four months before my arrival. I saw the family frequently, and always enjoyed my intercourse with them. Mr. Govin Dutt was an extremely cultured man, of ample means, devoting himself to literary and philanthropic pursuits. He was a remarkable linguist, equally familiar with the tongues of the East and the West. I do not think Mrs. Dutt spoke any language except Bengali, but no doubt she understood English to some extent.
-
-The family lived in a small Square, with a garden in the middle of it, in the northern quarter of Calcutta. I think all the houses on at least three sides of the square belonged to, and were inhabited by, different members of the Dutt clan, all of whom were gentlemen of high social standing and culture, and all, I think, converts to the Christian Faith. Mr. Govin Dutt had also a house in a large mango-orchard outside Calcutta, where he and his wife and daughter loved to retire from time to time for quietude and refreshment.
-
-I nearly always saw Miss Toru when I visited the house ; but though I was struck with her interesting face, wonderful eyes, great masses of flowing black hair, and look of originality and power, I was not at all aware at the time of her extraordinary talents. She was naturally shy of the young English visitor, and did not enter into conversation beyond a few conventional words of courtesy. I could see, however, how she was the darling and treasure of her parents—the only one now left out of the three who had but a short time before been the light of the household. Toru was her father's constant companion and his willing pupil, sharing with him those deep studies in European and Indian literature in which he delighted. The two elder children of the family had both been smitten with tuberculosis at the critical age when childhood passes into young manhood or womanhood, and one can imagine the intense distress of the parents when symptoms of the same terrible disease appeared in Toru. But the trial was borne by Mr. and Mrs. Dutt with the most admirable Christian fortitude ; and no less so by Toru herself. I visited her several times during her illness, which was not a very long one, and always found both her and her parents calm and brave. On more than one occasion I gave the family (just the three) the Holy Sacrament of Christ. Toru usually lay on a mattress on the floor propped up with white pillows. I never saw in her the slightest sign of fear of death, though her memory of her brother's and sister's fate must have told her plainly what was in store for her. She met what was coming with something more than resignation—with Christian hope, and almost, one may say, with the courage of welcome. It was not till after she had passed away that the world became aware in some degree of what it had lost in Toru Dutt—the strangely brilliant talent, the great purity of soul, the keen delicacy of perception, the extraordinary facility of poetic expression in at least three languages.
-
-I left Calcutta in 1878, but returned to it in 1880, when I found myself a rather close neighbour to Mr. and Mrs. Dutt, from whose constant kindness I received much pleasure. Mr. Dutt did not survive Toru very long. Of Mrs. Dutt I saw a good deal more after her husband's decease ; and I learned to realize that if Toru inherited her rich intellectual gifts from her father's side of the family, she must have received the moral beauty and sweetness of her character largely from her mother. Mrs. Govin Chunder Dutt was a true saint of God. Never shall I forget her triumphant, overcoming faith at the time of her husband's death. She was lifted far above resignation into a truly noble and inspiring joy of spirit. Nor did that faith and courage fail her when her own end drew nigh. Her pain (it was cancer she died of) must have been something which one hardly cares to think of. But she never faltered or allowed herself a murmur. Her face, I am told, shone with radiant peace in the midst of her worst agonies. I have often since spoken of her as the most shining example I ever met of the triumph of the spirit over the flesh, and the exemplification of the great Christian saying, ‘ Death is swallowed up in Victory.’
-
-A. <span class="small-caps">Clifford</span>.  
-Bishop.
-
-October 30, 1915.
-
-### IV
+#### IV
 
 The following is a list of Journals in which Toru Dutt's *A Sheaf gleaned in French Fields* and *Le Journal de Mlle D'Arvers* were reviewed :
 

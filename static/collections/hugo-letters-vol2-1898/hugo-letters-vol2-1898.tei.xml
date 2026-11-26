@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title>The Letters of Victor Hugo</title>
-        <author>Victor Hugo (ed. Paul Meurice)</author>
+        <author>Victor Hugo</author>
+        <editor>Paul Meurice</editor>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +15,7 @@
       <sourceDesc>
         <bibl>
           <title>The Letters of Victor Hugo</title>
+          <publisher>Boston and New York: Houghton, Mifflin and Company, 1898</publisher>
           <date>1898</date>
           <idno type="URI">https://archive.org/details/lettersofvictorh00hugorich</idno>
         </bibl>
@@ -961,15 +963,11 @@
       <div xml:id="sec-sec-01" type="frontmatter">
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
-<pb xml:id="page-7" n="7"/><head rend="center">THE LETTERS OF
-VICTOR HUGO</head>
+<pb xml:id="page-7" n="7"/><head rend="center">THE LETTERS OF<lb/>VICTOR HUGO</head>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-unit-0002" type="apparatus">
-<pb xml:id="page-9" n="9"/><head rend="center">THE LETTERS OF
-VICTOR HUGO
-FROM EXILE, AND AFTER THE
-FALL OF THE EMPIRE</head>
+<pb xml:id="page-9" n="9"/><head rend="center">THE LETTERS OF<lb/>VICTOR HUGO<lb/>FROM EXILE, AND AFTER THE<lb/>FALL OF THE EMPIRE</head>
 <p rend="center">EDITED BY<lb/>PAUL MEURICE</p>
 <p rend="imprint">Tout bien ou rien. The Riverside Press</p>
 <p rend="imprint">BOSTON AND NEW YORK<lb/>HOUGHTON, MIFFLIN AND COMPANY<lb/>The Riverside Press, Cambridge<lb/>1898</p>
@@ -996,8 +994,8 @@ FALL OF THE EMPIRE</head>
       <div xml:id="sec-sec-02" type="chapter">
 <head>I. Letters to Various Persons. — Journey on the Rhine. 1836–1851.</head>
 <div xml:id="div-unit-0005" type="apparatus">
-<pb xml:id="page-15" n="1"/><p rend="heading">THE LETTERS OF VICTOR HUGO.</p>
-<p rend="heading">I. LETTERS TO VARIOUS PERSONS. — JOURNEY ON<lb/>THE RHINE.<lb/>1836–1851.</p>
+<pb xml:id="page-15" n="1"/><head rend="center">THE LETTERS OF VICTOR HUGO.</head>
+<head rend="center">I. LETTERS TO VARIOUS PERSONS. — JOURNEY ON<lb/>THE RHINE.<lb/>1836–1851.</head>
 </div>
 <div xml:id="div-letter-0001" type="letter" corresp="#letter-0001">
 <head rend="center">I.</head>
@@ -1073,15 +1071,13 @@ FALL OF THE EMPIRE</head>
 <closer><signed rend="right">Your own                    <hi rend="smallcaps">Victor.</hi></signed></closer>
 </div>
 <div xml:id="div-letter-0009" type="letter" corresp="#letter-0009">
-<pb xml:id="page-23" n="9"/><head rend="center">IX.
-<hi rend="italic">To</hi> <hi rend="smallcaps">Jules Lacroix</hi>.<ref xml:id="fnref-p0023-1" type="noteref" target="#fn-p0023-1">1</ref></head>
+<pb xml:id="page-23" n="9"/><head rend="center">IX.<lb/><hi rend="italic">To</hi> <hi rend="smallcaps">Jules Lacroix</hi>.<ref xml:id="fnref-p0023-1" type="noteref" target="#fn-p0023-1">1</ref></head>
 <opener><dateline rend="right">14<hi rend="italic">th April</hi>, 1840.</dateline></opener>
 <p>You are perfectly right, dear poet; make the translation homogeneous. In the French language there is a great gulf between prose and poetry; in English there is hardly any difference. It is a splendid privilege of the great literary languages — Greek, Latin, and French — that they possess a <hi rend="italic">prose</hi>. English has not this privilege. There is no prose in English. The genius of the two languages is, therefore, completely different in this respect. What Shakespeare was able to do in English he would certainly not have done in French. So obey your excellent poetical instinct; do in French what Shakespeare would have done, what Corneille and Molière have done, write homogeneous pieces.</p>
 <p rend="indented">That is my advice. And, next, I am devotedly attached to you.</p>
 </div>
 <div xml:id="div-letter-0010" type="letter" corresp="#letter-0010">
-<head rend="center">X.
-<hi rend="italic">To</hi> <hi rend="smallcaps">Mme. Victor Hugo</hi>, <hi rend="italic">at Saint-Prix.</hi></head>
+<head rend="center">X.<lb/><hi rend="italic">To</hi> <hi rend="smallcaps">Mme. Victor Hugo</hi>, <hi rend="italic">at Saint-Prix.</hi></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, 31<hi rend="italic">st July</hi>, 1840.</dateline></opener>
 <p>I send you a very good piece of news, dearest, as quickly as possible. Charles <ref xml:id="fnref-p0023-2" type="noteref" target="#fn-p0023-2">2</ref> has gained the first prize for an essay in the open competition. M. Jauffret gave it out this morning before all his class in the college. <pb xml:id="page-24" n="10"/> When he came to Charles's name the whole class burst forth ; there were three rounds of applause. The dear boy is very happy. I have seen him twice to-day, as well as M. Poirson <ref xml:id="fnref-p0024-1" type="noteref" target="#fn-p0024-1">1</ref> and M. Jauffret. Are you not also delighted ? Kiss our dear little girls for me. I love you fondly, my Adèle.</p>
 <p rend="indented">Here is the letter I received from M. Poirson : —</p>
@@ -1512,17 +1508,14 @@ FALL OF THE EMPIRE</head>
       <div xml:id="sec-sec-03" type="chapter">
 <head>II. The Coup d&#x27;Etat.—Letters from Brussels. 1851-1852.</head>
 <div xml:id="div-unit-0060" type="apparatus">
-<pb xml:id="page-69" n="55"/><head rend="center">II. THE COUP D'ETAT.—LETTERS FROM BRUSSELS.
-1851-1852.</head>
+<pb xml:id="page-69" n="55"/><head rend="center">II. THE COUP D'ETAT.—LETTERS FROM BRUSSELS.<lb/>1851-1852.</head>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-unit-0061" type="editorial">
 <p>[<hi rend="smallcaps">The</hi> <hi rend="italic">coup d'état</hi> of the 2d of December breaks out. In the morning of that day Victor Hugo leaves his house in the Rue de la Tour d'Auvergne and joins the representatives of the Left for the twelve days' struggle related in <hi rend="italic">L'Histoire d'un crime.</hi> On the 4th, communications are still uninterrupted. He sends Mme. Victor Hugo the following note in pencil.]</p>
 </div>
 <div xml:id="div-letter-0055" type="letter" corresp="#letter-0055">
-<head rend="center">I.
-
-<hi rend="italic">To</hi> <hi rend="smallcaps">Mme. Victor Hugo.</hi></head>
+<head rend="center">I.<lb/><lb/><hi rend="italic">To</hi> <hi rend="smallcaps">Mme. Victor Hugo.</hi></head>
 <opener><dateline rend="right">[4<hi rend="italic">th December</hi>, 1851.]</dateline></opener>
 <p><hi rend="smallcaps">Dearest</hi>,—I spent the night with an excellent friend of the Davidal family, M. de la Roellerie. Thank them warmly on my behalf. Yesterday evening I presided over the meeting of the Left. Nothing is hopeless. I am starting this morning for the Faubourg Saint-Antoine. In God's keeping !</p>
 </div>
@@ -1973,7 +1966,7 @@ FALL OF THE EMPIRE</head>
       <div xml:id="sec-sec-04" type="chapter">
 <head>III. Letters from Exile. 1852–1870.</head>
 <div xml:id="div-unit-0101" type="apparatus">
-<pb xml:id="page-129" n="115"/><p rend="heading">III. LETTERS FROM EXILE.<lb/>1852–1870.</p>
+<pb xml:id="page-129" n="115"/><head rend="center">III. LETTERS FROM EXILE.<lb/>1852–1870.</head>
 </div>
 <div xml:id="div-letter-0093" type="letter" corresp="#letter-0093">
 <head rend="center">I.</head>
@@ -2349,8 +2342,7 @@ FALL OF THE EMPIRE</head>
 </div>
 <div xml:id="div-letter-0133" type="letter" corresp="#letter-0133">
 <head rend="center">XLI.</head>
-<head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Heurtelou</hi>, <hi rend="italic">editor of the Progrès at Port-au-Prince</hi>
-<hi rend="italic">(Haiti).</hi></head>
+<head rend="center"><hi rend="italic">To</hi> M. <hi rend="smallcaps">Heurtelou</hi>, <hi rend="italic">editor of the Progrès at Port-au-Prince</hi><lb/><hi rend="italic">(Haiti).</hi></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Hauteville House</hi>, 31<hi rend="italic">st March</hi>, 1860.</dateline></opener>
 <p rend="indented">Your letter touches me. You are a noble specimen of that colored race which has been so long oppressed and misunderstood. From one end of the earth to the other the same flame burns in man, and you are one of those who prove it. Was there more than one Adam? <pb xml:id="page-172" n="158"/> Philosophers may discuss the question, but what is certain is that there is but one God. As there is but one Father, we are all brothers. It was for this truth that John Brown died; it is for this truth that I fight. You thank me for it, and I cannot tell you how much your noble words move me. There is neither black nor white in the world, there are spirits only; you are one of them. All souls are white before God.</p>
 <p rend="indented">I love your country, your race, your liberty, your republic. Your beautiful island has an attraction just now for free spirits; she has just set a great example: she has crushed despotism.</p>
@@ -2361,8 +2353,7 @@ FALL OF THE EMPIRE</head>
 </div>
 <div xml:id="div-letter-0134" type="letter" corresp="#letter-0134">
 <pb xml:id="page-173" n="159"/><head rend="center">XLII.</head>
-<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">the Members of the Committee</hi> <hi rend="italic">for erecting a monument
-to Ribeyrolles, at Rio-de-Janeiro.</hi></head>
+<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">the Members of the Committee</hi> <hi rend="italic">for erecting a monument</hi><lb/><hi rend="italic">to Ribeyrolles, at Rio-de-Janeiro.</hi></head>
 <opener><dateline rend="right"><hi rend="italic">4th November</hi>, 1860.</dateline></opener>
 <p><hi rend="smallcaps">Gentlemen</hi>, — Ribeyrolles sought a home with you, and he wrote a fine book about you, a book worthy of your noble nation, of your illustrious history, of your beautiful country. He noted with enthusiastic sympathy your more and more enlightened advance in the direction of progress. He has done fraternal justice to you in the name of democracy and civilization. Many pages of his book are like marble tablets on which your glory is written, on which your future is predicted. He died at this task, he died an exile, he died poor; you Brazilians owed him a debt; you have decided to repay it in a splendid fashion.</p>
 <p rend="indented">Ribeyrolles had erected a monument to Brazil; Brazil raises a memorial to Ribeyrolles. All honor to you! To receive in this way, and to make such a return, is doubly admirable.</p>
@@ -2401,8 +2392,7 @@ to Ribeyrolles, at Rio-de-Janeiro.</hi></head>
 </div>
 <div xml:id="div-letter-0137" type="letter" corresp="#letter-0137">
 <head rend="center">XLV.</head>
-<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Messrs. Giuseppe Palmeri, Luigi Porta, Saverio Friscia,</hi>
-<hi rend="italic">Members of the Italian Managing Committee, at Palermo.</hi></head>
+<head rend="center"><hi rend="italic">To</hi> <hi rend="smallcaps">Messrs. Giuseppe Palmeri, Luigi Porta, Saverio Friscia,</hi><lb/><hi rend="italic">Members of the Italian Managing Committee, at Palermo.</hi></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Brussels</hi>, 21<hi rend="italic">st June</hi>, 1861.</dateline><salute rend="indented"><hi rend="smallcaps">Gentlemen</hi>,—</salute></opener>
 <p rend="inline">In your eloquent letter, which touches me deeply, you inform me that my name has just been inscribed on the list of the Association for Italian Unity by the spontaneous and unanimous decision of the whole society.</p>
 <p rend="indented">I accept with pleasure the place which you offer me among you. As far as my duty to democracy will allow I shall warmly second your efforts. You thank me in a grand fashion for the little I have done ; such thanks are a reward.</p>
@@ -2731,16 +2721,14 @@ to Ribeyrolles, at Rio-de-Janeiro.</hi></head>
 <p rend="indented">I offer you my humble tribute of admiration.</p>
 </div>
 <div xml:id="div-letter-0176" type="letter" corresp="#letter-0176">
-<pb xml:id="page-213" n="199"/><head rend="center">LXXXIV.
-<hi rend="italic">To</hi> <hi rend="smallcaps">François Coppée.</hi></head>
+<pb xml:id="page-213" n="199"/><head rend="center">LXXXIV.<lb/><hi rend="italic">To</hi> <hi rend="smallcaps">François Coppée.</hi></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Chaudfontaine</hi>, <hi rend="italic">29th August</hi>, [1866].</dateline></opener>
 <p><hi rend="smallcaps">My young and charming Fellow-poet</hi>,—I have just arrived from Zealand, and your letter reaches me at Chaudfontaine. Yes, yes, yes ; I wish to see you, you and your two excellent holiday companions. To press the hand of three poets, to commune with three <hi rend="italic">esprits</hi>, is for me, an old recluse, a valuable opportunity, and I do not want to miss it. Only I shall not be at Brussels till the 15th.</p>
 <p>We shall talk of you, of your fine book <hi rend="italic">Le reliquaire</hi>, of art, of the ideal, of all that we desire, of all that we love. We shall mingle mind with mind, and your youth will bring me joy, and my old age will invite you to calm.</p>
 <p>You will all three come, will you not, and dine with me at Brussels on the 15th ?</p>
 </div>
 <div xml:id="div-letter-0177" type="letter" corresp="#letter-0177">
-<head rend="center">LXXXV.
-<hi rend="italic">To</hi> <hi rend="smallcaps">Mme. Chenay.</hi><ref xml:id="fnref-p0213-1" type="noteref" target="#fn-p0213-1">1</ref></head>
+<head rend="center">LXXXV.<lb/><hi rend="italic">To</hi> <hi rend="smallcaps">Mme. Chenay.</hi><ref xml:id="fnref-p0213-1" type="noteref" target="#fn-p0213-1">1</ref></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Chaudfontaine</hi>, <hi rend="italic">3d September</hi>, [1866].</dateline></opener>
 <p>We received your letters safely, dear Julie. Just now my wife can neither read nor write, but we are around her, and we do duty for her eyes. I brought her here because the country is a sort of green curtain. The summer, a furnace everywhere, is a vapor-bath here. One is not roasted ; one is melted. It is a milder process. This steamy warmth and cool shade suit my wife. She has a whole forest for a screen. <pb xml:id="page-214" n="200"/> We shall be in Brussels about the 10th of September, and, if the equinox does not object too strongly, I hope to be in Guernsey by the end of September, if not earlier. It is high time for me to set to work again. We are all well here. As for me, my nightly spasms have been troubling me a little again, but I do not mention them to my family, as it would make them anxious, and there is no cause for anxiety. A little timely friction makes the symptoms disappear. I send you love from all who are mentioned in your letters, plus a pretty little smile from Master George. Victor is at Spa. I kiss you on both your cheeks, dear Julie.</p>
 </div>
@@ -2952,7 +2940,7 @@ to Ribeyrolles, at Rio-de-Janeiro.</hi></head>
 <p rend="indented">What can I say? I am dazzled, intoxicated, overwhelmed. Your tender friendship gives me a glimpse of paradise, and I cannot enter it; I am bound and sentenced by my own line.</p>
 <floatingText type="verse_insert"><body><div><pb xml:id="page-234" n="220"/><quote><p rend="center">“ Revenir sur ses pas à la porte du ciel ! ”</p></quote></div></body></floatingText>
 <p>I wrote that and I am under its orders. This winter they thought I was very ill; the doctors told me that I must make a rapid journey across France and go to Nice. I replied: I have made an oath, I cannot put foot in France; I would sooner die first! But it is much easier to die than to resist you. When I think that she is there, facing me, she who unites all, she who combines beauty, grace, courage, commanding and bewitching intelligence, brilliant acquirements, deep poetry, and that she says to me: Come! and in such affecting and enchanting terms! — oh! not to obey, not to come, not to hasten to the spot, not to trample on the frontier, were it red-hot iron, and on the oath, were it writ in brass, do you know, madam, that that is a superhuman effort, and that I am almost prostrated by it! What! it is you who send me this flower! it is you who have written these lines! they were composed by you, they are destined for me, on your lips plays that angelic smile in which I fancy I see the birth of a star. That heavenly smile will welcome me. And I stay where I am! Alas! try to fathom the depth of this regret. What a stern thing sometimes is duty! I wrote this: —</p>
-<floatingText type="verse_insert"><body><div><pb xml:id="page-235" n="221"/><quote><p rend="center">“ Et s’il n’en reste qu’un, je serai celui-là ! ”</p></quote></div></body></floatingText>
+<floatingText type="verse_insert"><body><div><opener><pb xml:id="page-235" n="221"/><epigraph><p rend="center">“ Et s’il n’en reste qu’un, je serai celui-là ! ”</p></epigraph></opener></div></body></floatingText>
 <p rend="indented">France is closed to me, and France, when you are not there, is the fatherland, and when you are there, is paradise.</p>
 <p rend="indented">You write to me also these words, which issue from your heart like a ray of light: “ I shall not feel quite settled in Paris, and glad to be there, until <hi rend="italic">you</hi> are there, too. What nice talks we shall have ! And how softly and poetically the time will glide by.” I read these adorable lines, these still more adorable plans, over and over again, and my hand trembles. Does your youth reflect on my years ? Am I Æschylus, to be the chosen friend, as you say, in spite of my gray hairs, of queen Rhodope, of the dazzling Rhodope, who was alike the genius and the sovereign of Acragas, and who was of the blood of Zeus as you are of the blood of Napoleon ? She preferred the aged Æschylus, who, like her, was a genius, to the young Hieron, who was a sovereign like her. But I, am I Æschylus, and would it not be better that you should not see me again ?</p>
 <p rend="indented">This letter which I am writing distresses me deeply, but I feel that it will not vex you, that it will even please you. I know your lofty character too well to doubt for a moment of your approval of my painful sacrifice. A bitter sacrifice ! but you are capable of understanding as well as of inspiring every act of heroism, and I declare, I am a hero to-day, to-day for the first time. Resist you, great Heavens ! all that I have done hitherto is as nothing compared with what I am doing now; but since you are my friend, since your regard has a place in my life, I ought to remain worthy of this celestial friendship.</p>
@@ -3126,20 +3114,17 @@ That struts and frets his hour upon the stage.”</p></note>
       <div xml:id="sec-sec-05" type="chapter">
 <head>IV. After the Fall of the Empire. 1870-1882.</head>
 <div xml:id="div-unit-0225" type="apparatus">
-<pb xml:id="page-249" n="235"/><head rend="center">IV. AFTER THE FALL OF THE EMPIRE.
-1870-1882.</head>
+<pb xml:id="page-249" n="235"/><head rend="center">IV. AFTER THE FALL OF THE EMPIRE.<lb/>1870-1882.</head>
 <milestone unit="section" rend="ornament"/>
 </div>
 <div xml:id="div-letter-0216" type="letter" corresp="#letter-0216">
-<head rend="center">I.
-<hi rend="italic">To</hi> <hi rend="smallcaps">General Trochu.</hi></head>
+<head rend="center">I.<lb/><hi rend="italic">To</hi> <hi rend="smallcaps">General Trochu.</hi></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Paris,</hi> 25<hi rend="italic">th September,</hi> 1870.</dateline></opener>
 <p><hi rend="smallcaps">General,</hi> — An old man is of small account, but example is something. I wish to go where there is danger, and to go unarmed. I am told that a permit signed by you is necessary. I beg you to send it me.</p>
 <closer><salute rend="indented">Faithfully yours,</salute><signed rend="right"><hi rend="smallcaps">Victor Hugo.</hi></signed></closer>
 </div>
 <div xml:id="div-letter-0217" type="letter" corresp="#letter-0217">
-<head rend="center">II.
-<hi rend="italic">To</hi> <hi rend="smallcaps">Paul Meurice.</hi></head>
+<head rend="center">II.<lb/><hi rend="italic">To</hi> <hi rend="smallcaps">Paul Meurice.</hi></head>
 <opener><dateline rend="right"><hi rend="smallcaps">Bordeaux,</hi> 18<hi rend="italic">th February,</hi> 1871.</dateline></opener>
 <p><hi rend="smallcaps">Dear Meurice,</hi> — This is my first spare moment, and I devote it to you, to Mme. Meurice, and to Auguste Vacquerie. Ah, how I miss you all! My heart misses you, my conscience misses you, my mind misses you. Never have I felt the want of you so much as just now when you are no longer with me.</p>
 <p rend="indented">I am not sure if this letter will reach you. The vagaries of the Prussians are as difficult to foresee as to set bounds to. Here we are at last. A trying journey. Victor has written and told you about it. We arrived on the 14th at two o'clock; no rooms to be <pb xml:id="page-250" n="236"/> had; all the hotels full. At ten o'clock at night we did not know where we should sleep. At last we have a roof over our heads, and even kindly hosts.</p>

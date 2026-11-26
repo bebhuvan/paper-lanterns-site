@@ -19,10 +19,10 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 126,
+  "letters": 138,
   "notes": 8,
   "pages": 410,
-  "dated_letters": 111
+  "dated_letters": 121
  },
  "provenance_tier": "community",
  "quality": {
@@ -210,15 +210,15 @@
   ],
   [
    1614,
-   105
+   111
   ],
   [
    1615,
-   3
+   7
   ]
  ],
  "periods": [],
- "unperiodised_count": 126,
+ "unperiodised_count": 138,
  "frontispiece": {
   "page": 1,
   "leaf": 0,
@@ -232,27 +232,27 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-2-1613-1615.epub",
-   "bytes": 413886,
-   "sha256": "601af7e15bfb5d53540d58e901ff3af8defe55e125996e8c179a22ce0c6c6c13"
+   "bytes": 414313,
+   "sha256": "41f36a39536196aa05412e12c6be00ebc18bc6cbc2484b83b96b4fa567449f8c"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-2-1613-1615.md",
-   "bytes": 839427,
-   "sha256": "63d8decaba069217a6f12bc3e8ebe41cf7585596680557ee60a84fdc335ea634"
+   "bytes": 840954,
+   "sha256": "238f8052ed5d294aab09ac72dbdabe9cab33788af1c2f4d05a2769b8ed544216"
   },
   {
    "format": "tei",
    "file": "eic-letters-received-vol-2-1613-1615.tei.xml",
-   "bytes": 970341,
-   "sha256": "1bdc146f792036deaa549d4b2a96c353719ea0248bb8d544be3d0caa475601df"
+   "bytes": 977349,
+   "sha256": "1dd63d969cfd591c8c58c360b3d6397287f9bcce1039fefc7647c4792f21e4e7"
   }
  ],
  "scan_base": "https://archive.org/download/lettersreceivedb02east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:47:53Z",
-  "source_ast_sha256": "689b743f022a21d56fb79868004e9ebf598f0a059845ddb66227820438339b38",
+  "compiled_at": "2026-11-24T19:21:43Z",
+  "source_ast_sha256": "1156f038ea5e07a9da09865426f089825236681edf3398f9fa3007025b0b8300",
   "hugo_renderer_version": "1.0.0"
  }
 }

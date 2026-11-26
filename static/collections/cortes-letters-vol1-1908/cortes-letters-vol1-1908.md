@@ -20,7 +20,7 @@ HERNAN CORTES.
 
 ### Letters of Cortes
 
-### The Five Letters of Relation from Fernando Cortes to the Emperor Charles V.
+#### The Five Letters of Relation from Fernando<br />Cortes to the Emperor Charles V.
 
 Translated, and Edited, with a Biographical Introduction  
 and Notes Compiled from Original Sources
@@ -112,7 +112,7 @@ From *Storia Antica del Messico*, vol. ii., by Clavigero
 
 ### CHAPTER I
 
-### EARLY DAYS
+#### EARLY DAYS
 
 FERNANDO CORTES, son of Martin Cortes y Monroy and of Catalina Pizarro Altamirano, his wife, was born in 1485 at Medellin, an unimportant town in Estremadura. The house in which he first saw the light stood in the Calle de la Feria until it was destroyed by the French in the campaign of 1809. (Alaman, *Dissertazioni sulla Storia del Messico*; Dissert. V.) Both his father’s and his mother’s families were of good descent, and respected, though poor. Martin Cortes had been a captain of fifty light cavalry, and he is further described by the anonymous author of *De Rebus Gestis* as “*pietate tamen et religione toto vitæ tempore clarus*,” while to his wife the same writer gives the highest praise, saying, “*Caterina namque probitate pudicitia et in conjugem amore nulli ætatis suae feminæ cessit*.” Las Casas also states that he had known Martin Cortes in a poor and humble condition, but that he was a *Cristiano viejo*, and said to be a gentleman. Later when the great fame of Cortes had converted him into an ancestor of whom the most illustrious family might be proud, ingenious genealogists sought to prove him also the descendant of very noble, and even royal, forefathers; but these unconvincing efforts must seem somewhat unimportant in the case of one whose name and place in history were won by his own achievements, unaided by the support either of influential family or superior fortune.
 
@@ -136,7 +136,7 @@ Here may be said to close the first period of the life of Cortes, which might ha
 
 ### CHAPTER II
 
-### COLONIAL LIFE IN CUBA
+#### COLONIAL LIFE IN CUBA
 
 INFORMATION concerning the events of the first years of the residence of Cortes in the island of Cuba is scanty, but it may be assumed that he attended to his interests, which prospered, and enjoyed considerable popularity among his fellow-colonists as well as the favour of the Governor, Diego Velasquez, who extended a protecting friendship to him such as an older man of high rank might naturally feel for one of the most promising young men among his colonists. Mr. George Folsom, in the Introduction to his English translation of the *Despatches of Hernando Cortes* (New York, 1843), says that Velasquez was brother-in-law to Cortes, having married one of the Xuarez sisters. I have found no authority for this assertion, and, a few pages farther on, the same writer describes Velasquez as seeking to arrange a marriage for himself with a sister of the Bishop of Burgos. This alleged relationship between the two through their marriages is apocryphal.
 
@@ -182,7 +182,7 @@ During these days he played, as he himself afterwards described it to Las Casas,
 
 ### CHAPTER III
 
-### <span class="small-caps">THE CONQUEROR</span>
+#### <span class="small-caps">THE CONQUEROR</span>
 
 T<span class="small-caps">HE</span> entire fleet sailed for the island of Cozumel on February 10, 1519, and the first vessel to land was the one commanded by Pedro de Alvarado. Alvarado began his career by an act of disobedience to orders, characteristic of his headstrong and cruel temperament, which procured him a severe reprimand from the commander, who arrived two days later and found that the Indians had all been frightened away by the Spaniards’ violence in plundering their town and taking some of them prisoners. Cortes’s policy in dealing with the natives was forcibly declared at the very outset, for the pilot Camacho, who had brought the vessel to land before the others, he clapped into irons, for disobeying his orders, and he rebuked Alvarado, explaining to him that his measures were fatal to the success of the expedition. The Indian prisoners were not only released, but each received gifts, and all were assured through the interpreters, Melchor and Julian, that they should suffer no further harm, and that they should therefore go and call back the others who had fled. Everything that had been stolen from the town was restored, and the fowls and other provisions which had been eaten were all paid for liberally. Discipline was enforced also among the Spaniards, and seven sailors, who were found guilty of stealing some bacon from a soldier, were sentenced to be publicly whipped.
 
@@ -288,7 +288,7 @@ Wearied out with persecutions and insults, and hopeless of obtaining justice fro
 
 ### CHAPTER IV
 
-### MARQUES DEL VALLE
+#### MARQUES DEL VALLE
 
 CORTES had arranged that his arrival at the Spanish Court should be of the nature of a veritable pageant. Different estimates of the treasure he took with him are given by different authorities, but these are mere matters of figures; the amount was fabulous, and, in addition to this, he carried a perfect museum of Mexican objects, such as the unique feather-work in which the Indians excelled, arms, embroideries, implements of obsidian, rare plants; indigenous products such as chocolate, tobacco, vanilla, and liquid amber; gorgeous parrots, herons, jaguars, and other beautiful birds and animals unknown in Spain were carried or led by Indians, in the dress of their tribes. That nothing might be wanting, he took with him many skilful jugglers, acrobats, dwarfs, albinos, and human monstrosities, which were much the fashion at that time, and these curiosities made such a sensation upon his arrival, that Charles the Fifth could think of no fitter destination for them than to send them on to His Holiness Clement the Seventh, before whom they performed and showed themselves to the delight and wonder of the pontifical Court. In the personal suite of the Conqueror, besides the numerous officials of his household, there went about forty Indian princes in their most gorgeous robes and jewels, amongst whom were the sons of Montezuma and of the Tlascalan chief, Maxixcatzin.
 
@@ -379,10 +379,12 @@ In his will it was provided also that his body should be buried wherever he died
 
 The following epitaph was composed by his son Martin:
 
-*Padre, cuya suerte impropiamente*  
-*Aqueste bajo mundo poseía,*  
-*Valor que nuestra edad enriquecía*  
-*Descansa ahora en paz, eternamente.*
+> **[verse_insert: Epitaph]**
+>
+> *Padre, cuya suerte impropiamente*  
+> *Aqueste bajo mundo poseía,*  
+> *Valor que nuestra edad enriquecía*  
+> *Descansa ahora en paz, eternamente.*
 
 (Andres Calvo, *Los Tres Siglos de Mexico.*)
 
@@ -630,9 +632,9 @@ The other conquerors, and the priests, wrote or supplied material to others seve
 
 The death of Montezuma is one of the few cases in which it seems the decision should be against Cortes. With great and perfect frankness he admits the murder of Quauhpopoca, the torture and subsequent murder of Quauhtemoczin, and he owns to a somewhat extensive catalogue of indefensible crimes, but for Montezuma’s death he refuses responsibility. Yet, whether we consider the unanimous testimony as to the trifling character of the Emperor’s wound, the useless embarrassment his presence had become, the imprudence of leaving him free in the capital, or the impossibility of carrying him captive out of it, and finally the contemporary Mexican versions of his death, all the circumstances certainly point to the conclusion that the royal captive died by the will of his conqueror.
 
-### (1)
+#### (1)
 
-### <span class="small-caps">FRANCISCO LOPEZ DE GOMARA</span>
+##### <span class="small-caps">FRANCISCO LOPEZ DE GOMARA</span>
 
 The *Historia General de las Indias* and the *Cronica de la Conquista de Nueva-España*, which were published in Saragossa, 1552, were at first received with the greatest favour by the public, and other editions as well as translations into Italian and French rapidly followed. This success, however, was short-lived, as Gomara’s facts and appreciations were promptly impugned, first by Bernal Diaz del Castillo, who, in publishing his book, called it *The True History of the Conquest*, in contradistinction to Gomara’s false and fanciful one.
 
@@ -640,9 +642,9 @@ In 1553 the Spanish Government took steps to suppress the work, and withdraw it 
 
 But, all reservations admitted, the work of Gomara illustrates a most important and interesting period of history, and, if he was constrained to treat his hero leniently, he nevertheless had access to a mass of original information, by which he profited with excellent results. His style is agreeable and scholarly, revealing a writer of wide culture, gifted with unusual knowledge of astronomy, geography, and history. Although he never was in America (as far as is recorded), he has known how to lend the realism to his descriptions which usually only an eyewitness can impart. When not vindicating Cortes, Gomara has every claim to be ranked amongst the most trustworthy of the early writers on Spanish-American events, and his facts and descriptions generally stand the test of comparison with authentic temporary records.
 
-### (2)
+#### (2)
 
-### <span class="small-caps">BERNAL DIAZ DEL CASTILLO</span>
+##### <span class="small-caps">BERNAL DIAZ DEL CASTILLO</span>
 
 Bernal Diaz was a perfect type of the military adventurer of his age, and first went as a private soldier to America in 1514, under the command of Pedrarias de Avila, bound for Darien. He next appeared in Cuba, where he was always ready to join any expedition of adventure which might be organised, and, indeed, he went on most of them, and was one of the few who escaped from the disastrous exploration conducted by Ponce de Leon on the Florida coast. He next joined Francisco Hernandez de Cordoba on his journey to Yucatan. He returned again thither the following year with Juan de Grijalba, from whose expedition he arrived once more at Cuba just in time to take service under Fernando Cortes. Diaz was a brave soldier, popular amongst his comrades, and esteemed by his commander, who some years later (in 1540), recommended him to the notice of the Emperor, as did likewise the Viceroy Don Antonio Mendoza.
 
@@ -658,9 +660,9 @@ As literature, the work of Bernal Diaz ranks far below the letters of Cortes, an
 
 Prescott describes Bernal Diaz as of “a poor and humble family,” but since his father held the office of *regidor* this can hardly be exact, as such posts, especially in a town of the importance of Medina del Campo, were not held by the poor and humble. He himself claimed some kinship with Don Diego Velasquez.
 
-### (3)
+#### (3)
 
-### <span class="small-caps">GONZALO FERNANDEZ DE OVIEDO Y VALDÉS</span>
+##### <span class="small-caps">GONZALO FERNANDEZ DE OVIEDO Y VALDÉS</span>
 
 Gonzalo Fernandez de Oviedo was born of an illustrious family in Asturias in 1478, and passed his early years at Court as page to the Infante Don Juan, only son of the Catholic Sovereigns. He spent some years in Italy in the service of the King of Naples, but returned to Castile, where he became custodian of the crown jewels, until he was sent as royal inspector of the gold smelting in the Indies. After taking part in Pedrarias de Avila’s colonising expedition to Darien, he returned and settled permanently in San Domingo.
 
@@ -670,7 +672,7 @@ Despite the blemishes which mar his work, Oviedo must be considered an astute ob
 
 Oviedo died at Valladolid in 1559, while on a visit to Spain to prepare for the publication of the remainder of his work.
 
-### (4) <span class="small-caps">BERNARDINO DE SAHAGUN</span>
+#### (4)<br /><span class="small-caps">BERNARDINO DE SAHAGUN</span>
 
 The *Historia Universal de Nueva España* of Fray Bernardino de Sahagun serves as a most valuable text-book for all students of Mexican antiquities.
 
@@ -682,9 +684,9 @@ Sahagun sent a statement of the nature and extent of his labours to Spain, where
 
 The first publication, dedicated to Pope Pius VIII. and edited by Carlos Maria de Bustamente, deputy for the state of Oaxaca, appeared in Mexico at the cost of the national treasury. One year later Lord Kingsborough introduced it into the 6th volume of his magnificent work, under the natural impression that he was giving it for the first time to the public.
 
-### (5)
+#### (5)
 
-### <span class="small-caps">BARTOLOMÉ DE LAS CASAS</span>
+#### <span class="small-caps">BARTOLOMÉ DE LAS CASAS</span>
 
 Fray Bartolomé de Las Casas, who later became Bishop of Chiapa, was born at Seville in 1474. His father went with Columbus on his second voyage in 1493, and amassed sufficient means to provide his promising son with a university education at Salamanca. He was the first priest ordained in the new world, where he went with Ovando in 1502. The sufferings of the natives under the cruelties of the first colonists, and especially the system of *ripartimientos* and *encomiendas*, so aroused the sympathies of the young priest that he dedicated his life to their defence, and was the first to bear the glorious title of Protector-General of the Indians, which Cardinal Ximenez de Cisneros, regent in the absence of Charles V., conferred upon him. He was indefatigable in his crusade and not always discreet. After the failure of the native colony entrusted to him, he retired to a Dominican convent (which Order he entered) and devoted himself during many years to various compositions in vindication of the Indians and their violated rights. He enlisted his brethren of the Order in his apostolate, and never during his long and eventful life flagged in his zeal for the noble end he had set himself. After refusing the bishopric of Cuzco, the richest perhaps in the New World, he later accepted the poor diocese of Chiapa. He died in July, 1566, at the age of ninety-two, in the monastery of Atocha, at Madrid.
 
@@ -692,31 +694,31 @@ Las Casas barely tolerated Cortes, and, having known him as an obscure young man
 
 His great work, *Historia General de las Indias*, to which he devoted himself during thirty years, while still in manuscript, was largely drawn upon by different writers, notably by Herrera, who incorporated a large amount into his own work published in 1601. An edition of his works was published in five volumes at Madrid in 1876. His *Brevisima Relacion*, widely read and translated into foreign languages, was a terrible indictment of his countrymen and their dealings with the natives. The integrity of his character, the purity of his motives, and his apostolic virtues command admiration, and, though his intemperate zeal in the cause he championed troubled the serenity of his appreciations as an historian, his statement of facts may be invariably trusted, and his record of contemporary events is of unquestionable value.
 
-### (6) <span class="small-caps">MOTOLINIA</span>
+#### (6)<br /><span class="small-caps">MOTOLINIA</span>
 
 Toribio de Benevente is best known by his Indian name (which he himself adopted) of *Motolinia*, meaning the “poor man” (equivalent of the *Poverello* which was St. Francis’s dearest title). He was one of twelve Franciscans who first came to Mexico in response to the request of Cortes, at the close of the conquest (1523). He travelled from Mexico to Guatemala and Nicaragua on foot, and knew the country and its peoples as did few. His headquarters were at a convent at Texcoco, where his life and energies were devoted with success to teaching and converting the Mexicans. His *Historia de los Indias de Nueva España* embraces first religion and rites of the Aztecs, second conversion, third their character, chronology, astrology, and some account of their principal cities, etc. His MS. was printed in the first volume of Icazbalceta’s *Documentos Ineditos*.
 
-### (7) <span class="small-caps">PETER MARTYR</span>
+#### (7)<br /><span class="small-caps">PETER MARTYR</span>
 
 Pietro Martire de Angleria of Arona, Italy, came to Spain in 1487. He wrote in Latin *De Orbe Novo*, printed in a complete edition by Hakluyt, Paris, 1587. He took great interest in the discoveries and colonisation, and was allowed to attend meetings of the Royal Council for the Indies. He was personally acquainted with Columbus, Cortes, and others, and their correspondence with the Court was open to him. His writings are those of a philosophical observer of historical events, unencumbered with the manifold details and small incidents which crowd and confuse the pages of the soldier chroniclers such as Bernal Diaz. He died in 1525.
 
-### (8) <span class="small-caps">ANTONIO DE HERRERA</span>
+#### (8)<br /><span class="small-caps">ANTONIO DE HERRERA</span>
 
 Antonio de Herrera was born at Cuellar in 1549, and was made Historiographer of the Indies from 1492–1554. His *Historia General de las Indias Occidentales* is divided into eight decades, of which the first four were published in 1601, the others in 1615, five volumes in folio. A very free English translation, with omissions, was made by Stevens. The plan of this work is confused and interrupted, wanting in sequence, and filled with irrelevant details. He had access to all the Statepapers, colonial reports, and every MS. relating to the discovery, conquest, and colonisation of the New World, and he quoted very freely from Las Casas. Dazzled by the wonderful events of the times and the equally marvellous achievements of his countrymen, he was blind to their faults and excesses, so that, while not exactly a panegyric, his work is coloured by a strong patriotism, which shows in his optimistic appreciation of the character and deeds of the conquerors. His work is, however, a compendium of authentic information which cannot be too highly esteemed. He died in 1625.
 
-### (9) <span class="small-caps">JUAN DE TORQUEMADA</span>
+#### (9)<br /><span class="small-caps">JUAN DE TORQUEMADA</span>
 
 Juan de Torquemada, Provincial of the Franciscans in Mexico from 1614–1617, spent more than fifty years of his life in the country, during which time he amassed an immense collection of ancient pictures, writings, and original manuscripts, besides the information, often legendary and contradictory, which he obtained from the Indians. Of his *Monarchia Indiana* Clavigero says that one must seek jewels among the rubbish. It was first published in Madrid in 1614, and again in 1724.
 
-### (10) <span class="small-caps">WILLIAM H. PRESCOTT</span>
+#### (10)<br /><span class="small-caps">WILLIAM H. PRESCOTT</span>
 
 The work of the eminent American historian William H. Prescott is too well known to require extensive notice here. His diligence in research, and his scholarly familiarity with the sources of Spanish-American history, contributed to make his *Conquest of Mexico* a masterpiece of historical narrative, in which sober facts seem almost to catch the glamour of romance from the delightful style of their presentation, and this work will doubtless long remain the most complete, as it is the most fascinating, account in our language of the stirring events it describes.
 
-### (11) <span class="small-caps">MANUEL OROZCO Y BERRA</span>
+#### (11)<br /><span class="small-caps">MANUEL OROZCO Y BERRA</span>
 
 In 1880, the *Historia Antiqua de la Conquista de Mexico*, by Don Manuel Orozco y Berra, Vice-President of the Society of Geography and Statistics, was published by the order and at the expense of the Mexican Government, Don Porfirio Diaz being then President, and Señor Mariscal Minister of Public Instruction. This erudite work, the fruit of a lifetime of discriminating research by the distinguished author, is divided into four parts: I. Civilisation, II. Prehistoric Man in Mexico, III. Ancient History, IV. The Conquest.
 
-### (12) <span class="small-caps">MANUEL GARCIA ICAZBALCETA</span>
+#### (12)<br /><span class="small-caps">MANUEL GARCIA ICAZBALCETA</span>
 
 The collection of documents, for the most part inedited, published in 1858 by Don Joaquin Garcia Icazbalceta, opens many original and invaluable historical sources to all. The labours of this learned Mexican in the field of historical research are beyond all praise.
 
@@ -761,7 +763,7 @@ Besides the writers above noticed, the following are the principal authorities w
 
 ### Letter 2: Judiciary and Municipal Authorities of the Villa Rica de la Vera Cruz → Queen Doña Juana / Emperor Charles V.
 
-### FIRST LETTER
+#### FIRST LETTER
 
 *Sent to the Queen Doña Juana, and the Emperor Charles V., her son, by the Judiciary and Municipal Authorities of the Villa Rica de la Vera Cruz, dated the 10th July 1519.*
 
@@ -931,17 +933,19 @@ In the same manner, the procurator, and the inhabitants and householders of this
 From the Rica Villa de la Vera Cruz, on the tenth  
 July, 1519.
 
-Several large plumes of beautiful feathers, of various colours, spangled with gold and small pearls.
-
-Several fans; some of gold and feathers, others of feathers alone, but all very rich.
-
-A variety of cotton robes; some all white, others chequered white and black, or red, green, yellow, and blue, the outside being shaggy, and the inside smooth, without colour.
-
-A number of coats, handkerchiefs, bedcovers, tapestries, and carpets of cotton stuffs.
-
-There were several Mexican books, written in hieroglyphics, on their paper, which was about the consistency of light pasteboard. Peter Martyr describes them as folding tablets, and says of the writing, “*Sunt characteres a nostris valde dissimilis, Egypteas fere formas æmulantur*” (*De Insulis nuper inventis*).
-
-Gomara says the paper was made of cotton, and a kind of gum, or paste; sometimes also of aloe leaves; Peter Martyr describes it as made of fine crushed bark, kneaded together with a gum.
+> **[enclosure: List of Treasures and Mexican Books]**
+>
+> Several large plumes of beautiful feathers, of various colours, spangled with gold and small pearls.
+>
+> Several fans; some of gold and feathers, others of feathers alone, but all very rich.
+>
+> A variety of cotton robes; some all white, others chequered white and black, or red, green, yellow, and blue, the outside being shaggy, and the inside smooth, without colour.
+>
+> A number of coats, handkerchiefs, bedcovers, tapestries, and carpets of cotton stuffs.
+>
+> There were several Mexican books, written in hieroglyphics, on their paper, which was about the consistency of light pasteboard. Peter Martyr describes them as folding tablets, and says of the writing, “*Sunt characteres a nostris valde dissimilis, Egypteas fere formas æmulantur*” (*De Insulis nuper inventis*).
+>
+> Gomara says the paper was made of cotton, and a kind of gum, or paste; sometimes also of aloe leaves; Peter Martyr describes it as made of fine crushed bark, kneaded together with a gum.
 
 ### Notes
 
@@ -1058,7 +1062,7 @@ The warrior who had captured the victim in battle could not eat of the latter's 
 
 ### Letter 3: Don Fernando Cortes → Charles V
 
-### SECOND LETTER
+#### SECOND LETTER
 
 *Sent to his Sacred Majesty, the Emperor of Our Realm, by the Captain-General of New Spain, called Don Fernando Cortes, in which he gives an account of the countries and innumerable provinces which he has discovered in Yucatan, from the year 1519 to the present time, and has subjected to the Crown of His Royal Majesty. He makes special relation of a very great, and very rich, province called Culua, in which there are many great cities, and marvellous edifices, having much commerce and wealth. Amongst these there is one more marvellous and richer than all the others, called Temixtitan, which by marvellous art has been built on a great lake; of which city and province, a very great lord, called Montezuma, is king; in which, things, frightful to be heard, were suffered by the Captain, and the Spaniards. He describes at length the vast dominion of the said Montezuma, and its customs and ceremonies, and how he is served.*
 
@@ -1709,7 +1713,7 @@ Very High and Most Excellent Prince, may God, Our Lord, preserve the life and th
 
 ### APPENDICES
 
-### APPENDIX I. MARINA
+### APPENDIX I.<br />MARINA
 
 W<span class="small-caps">ith</span> these few casual words, Cortes refers to the existence of one of the chief characters in the splendid drama of the conquest—his Indian mistress Marina, without whose aid the success of the Spaniards is hardly thinkable. He mentions her once again in his Fifth Letter, but she appears in his narrative only under the vague figure of “the interpreter whom I had with me.”
 
@@ -1725,7 +1729,7 @@ Doña Marina, as the Spaniards called her, was quick at learning Spanish, which 
 
 After Puertocarrero’s departure with the despatches and treasure, Marina reverted definitely to Cortes. Once the expedition had left the coast provinces, she became more and more indispensable, as Aguilar spoke no Mexican and the Maya language was not intelligible to the Mexicans. As soon as she had sufficiently mastered Castilian to be able to dispense with Aguilar as an intermediary between herself and Cortes, her position became a dominant one and she held the fate of the Spaniards in her hand. But most of all was she supreme over her own people and dispensed peace or war at her pleasure; for she alone could shape the results of the negotiations and treaties between Cortes and the caciques. Thus, an unforeseen turn in Fortune’s wheel raised this princess from the degradation of slavery into which an unnatural mother had delivered her, and landed her in the Spaniards’ camp, where she became the mistress of a nation’s destinies. She showed herself so able, that Bernal Diaz affirms that they all held her to be like no other woman on earth, and that they had never detected the smallest feminine weakness in her; she alone of all the women was saved from the tragedy of the *Sorrowful Night*, and she saved herself. There is no way of knowing how faithfully and disinterestedly she played her part of interpreter; certainly she gave herself absolutely to Cortes, and her devotion to the Spaniards never faltered, but who shall say that she also did justice in her presentation of the Indians’ claims and interests in the negotiations she directed ? Authorities differ as to the number of children born to Cortes and Doña Marina; the eldest son, Don Martin, afterwards became a Knight of Santiago, and the existence of at least one daughter seems to be sufficiently certain. In October, 1524, Marina was married to Juan Xaramillo, described as an *hildalgo*. Bernal Diaz says that the bridegroom was ignorant of Marina’s past, which makes one wonder where he came from, and Gomara’s explanation that he was drunk at the time sounds more plausible. On the expedition to Yucatan there was a dramatic encounter between Doña Marina and her perfidious mother and the younger half-brother in whose interest she had been sacrificed. The recognition seems to have been instantaneous and mutual; the mother, fearing vengeance, threw herself at her daughter’s feet, begging forgiveness, which was accorded, with the philosophic assurance that when she had so treated her child, she did not know what she was doing (as indeed it appeared), and that she thanked God for the boon of the Christian religion and the happiness of having given her master a son and the joy of possessing an excellent husband in Juan Xaramillo. Doña Marina’s Christian morality betrayed it’s recent adoption and weak growth at this point. She loaded her relatives with gifts and sent them home rejoicing. Bernal Diaz was reminded by this incident of the meeting between Joseph and his brethren in Egypt. Xaramillo became an *alcalde* in Mexico, and in 1528 a grant of land was given to him and his wife near Chapultepec. Prescott describes Marina as returning to her native place, where an estate was given her, but Icazbalceta says she ended her days in Mexico, rich and respected; Orozco y Berra concedes that she was rich, but doubts that she was respected. A curious painting represents Cortes with Marina standing beside him at the execution of a Cholulan servant of Andres de Tapia, who was condemned to be torn to pieces by fierce dogs; she piously holds a rosary in her hand as she watches the brutal spectacle, which took place in 1537. Doña Marina still lived therefore in 1537, but the date of her death is not recorded (Oviedo, *Hist. Gen. y Nat.* lib. xxxiii., cap. i.; Las Casas, *Hist. de las Indians*, lib. iii., cap. cxxi.; Clavigero, tom. iii., p. 12; Bernal Diaz, cap. xxxvii., Garcia Icazbalceta, *Dialogos de Cervantes*; Orozco y Berra, vol. iv., cap. v.).
 
-### APPENDIX II. MEXICO-TENOCHTITLAN
+### APPENDIX II.<br />MEXICO-TENOCHTITLAN
 
 T<span class="small-caps">HE</span> migratory period of the Aztecs in the valley of Anáhuac came to its close with the foundation of Mexico-Tenochtitlan in 1325. The name Mexico signifies habitation of the god of war, Mexitli—otherwise known as Huitzilopochtli. The name Tenochtitlan signifies *a cactus on a rock* and was given to the new city because the choice of the site was decided by the augurs beholding, perched upon a cactus plant which grew on a rock, an eagle with a serpent in its talons. The emblem of the cactus and the eagle holding a serpent became the national standard of Mexico, and is displayed in the coat of arms of the present Republic.
 
@@ -1779,7 +1783,7 @@ Even from the summary and incomplete indications here given, it is seen that the
 
 It is not required to endow Mexico with “the glory that was Greece or the grandeur that was Rome,” in order to admit that it was beautiful.
 
-### APPENDIX III. <span class="small-caps">ORIGINS OF MEXICAN CIVILISATION</span>
+### APPENDIX III.<br /><span class="small-caps">ORIGINS OF MEXICAN CIVILISATION</span>
 
 <span class="small-caps">The</span> different tribes or nations of Anáhuac came, according to their several traditions, from the north-west, in a series of migrations, but of their original starting point they preserved no clear record. M. de Guigne presents proofs to show that the Chinese visited Mexico as early as 458 <span class="small-caps">a.d.</span>; Horn (*de originibus Americanis*, 1699), Scherer (*Recherches Hist.*), Humboldt (*Essai Polit.*) and other authorities, without a dissentient voice, assign an Asiatic origin to the Toltecs and other Mexican peoples. That Mexico received settlers from other parts of the world seems also certain. Aristotle (*De Admirandis in natura*) relates that Carthaginian sailors passed the Pillars of Hercules, and, after sailing sixty days to the west, reached a beautiful and fertile country, and that so many began to go thither that the Senate of Carthage passed a law suppressing such emigration, to prevent the depopulation of the city. The theory of the submerged Atlantis, and the arguments on which it rests, are too well known to require explanation.
 
@@ -1799,7 +1803,7 @@ The complex question of the relation in which the Maya and Toltec civilisations 
 
 In this brief summary of such a large subject, I have sought to furnish the general reader with an intelligible explanation of the origins and history of the civilisation which Cortes beheld when first he visited Mexico.
 
-### APPENDIX IV. QUETZALCOATL
+### APPENDIX IV.<br />QUETZALCOATL
 
 <span class="small-caps">Montezuma</span> here refers to Quetzalcoatl who figures, under different names in different times and places, as a mortal man, as a deified legislator, and as a primitive divinity, so that it is difficult to separate the mythical in his history from the real. He was known in Yucatan under the name of *Kukulcan*, the meaning of which is identical with *Questzalli* and *Cohuatl*—a plumed serpent.
 
@@ -1823,7 +1827,7 @@ Authorities consulted on Quetzalcoatl, Sahagun, lib. iii., cap. v.–xiv.; Torqu
 
 ### APPENDIX V.
 
-### THE TEMPLE
+#### THE TEMPLE
 
 <span class="small-caps">This</span> statement is obviously inaccurate; Cortes has just said that fifty steps led to the summit of the chief *teocalli* which would allow for a very modest elevation, whereas the Giralda Tower of Seville Cathedral was built 300 years before Mexico was discovered and was then 185 feet high. Neither was it during this first visit to the temple of Tlatelolco in Montezuma’s company that the idols were overthrown ; that event happened in the *teocalli* of the great temple on another occasion when Montezuma was not present. Most writers—including Prescott—misled by Cortes, have confused the two visits and the two different temples, but Bernal Diaz makes it perfectly clear that the first visit was to the temple adjoining the market place in the Tlatelolco quarter of the city. This temple was even loftier than the principal one, and the arrangements in both were essentially the same (Orozco y Berra, lib. ii., cap. iv.; Icazbalceta, *Dialogos de Cervantes*, p. 201). The great *teocalli* of the chief temple was completed in the form in which the Spaniards beheld it by Montezuma’s grandfather, Ahuitzotl, in 1487, when the solemn dedication was celebrated by the sacrifice of a vast number of human victims, estimated by Torquemada at 72,344 (*Monarchia Indiana*, lib. ii., cap. lxiii.), by Ixtlilxochitl at 80,000 *Historia Chicimeca*), but more credibly fixed by the Tellerian and Vatican Codices at the still respectable figure of 20,000. Pretexts for wars with various tribes were invented in order to procure the victims for this ghastly hecatomb, and the ceremony of incessant slaughter occupied two days.
 
@@ -1841,13 +1845,13 @@ After repeated conversations with Montezuma on religious subjects, none of which
 
 Human life was cheap in Cortes's eyes, and the cruelties inflicted on the natives in the furtherance of his designs show that it was not the inhumanity of the sacrifices which filled him with the most abhorrence. It was the sight of idolatry, of people given over to devil worship, that inflamed his Catholic blood, and there seems, on this occasion, to have been no friar Olmedo at hand to restrain him, as in Cholula. He first called the priests together and delivered a pious exhortation, explaining the fatherhood of God, the brotherhood of man, and other Christian beliefs, conjuring them to abandon the superstitions which imperilled their immortal souls, to purify the altars, and dedicate them to the true God and the saints. As the priests defended their own, the controversy enraged Cortes beyond control, and seizing an instrument he began smashing the idols right and left with such magnificent fury that Andres de Tapia declared that he seemed like a supernatural being. Montezuma was notified, and entreated him for prudence's sake to desist, as such profanation would provoke an uprising of the people. Cortes, however, was deaf to remonstrance, and the idols were cast out, the temple washed and put in order, two altars being set up, one to Our Lady and the other to Saint Christopher, with their respective statues upon them. Mass was thenceforth said there, and some of the Indians came to the ceremony, as they wanted rain and, their own gods being overthrown, they were willing to invoke the Spaniards' God. Cortes declared they should have rain, and, with the most confident faith, ordered prayers and a procession to obtain this blessing; although the procession set forth under a cloudless sky, it returned after Mass in such a downpour that the people waded ankle deep in the streets. Malintzin's religion was vindicated (Andres de Tapia *Relacion*, p. 584-6).
 
-### APPENDIX VI. <span class="small-caps">Massacre of the Mexican Nobles</span>
+### APPENDIX VI.<br /><span class="small-caps">Massacre of the Mexican Nobles</span>
 
 <span class="small-caps">This</span> was Pedro de Alvarado. Simultaneously four messengers arrived from Montezuma to complain that the captain had ordered an unprovoked attack upon the Mexicans during a religious festival, and that the latter had merely defended themselves as best they could. The feast of *Toxcatl* fell upon the tenth of May, and only the highest and noblest adorned with their richest ornaments, but unarmed, took part in the ceremonial dance. Cortes had consented, before he left Mexico, to the usual celebration, with the proviso that there should be no human sacrifices, though very likely the priests reserved their intention to perform that part of the rites privately. The first contrariety arose from Alvarado’s refusal to allow the statue of Huitzilopochtli to be restored to its former place, from which it had been ejected to make room for the altars to the Blessed Virgin and St. Christopher. The Tlascalans next excited his suspicions that the festival was merely a pretext to collect a large multitude in the city, the real object being to fall upon the diminished garrison and exterminate it. On the day of the feast, Alvarado and others saw certain idols, decked out for the procession, standing in the court of the temple, and also three youths in new robes and with shaven heads, which indicated that they were destined for sacrifice. Alvarado seized the intended victims, and, by putting them to worse tortures than those of the sacrificial stone, under which one of them died, he obtained such testimony as he wanted from the other two, who were mere lads, to prove that a general revolt was planned. What these poor creatures could be supposed to know of such conspiracies does not appear, but Alvarado was satisfied, and, arming his men, he left some in charge of Montezuma, with orders to kill the nobles who were with him, and repaired with the others to the great *teocalli*, where six hundred nobles and priests were dancing, while some three thousand others assisted as spectators. The appearance of the Spaniards caused no interruption, but, at a given signal, they drew their weapons and fell upon the defenceless people, slaughtering them without quarter; the doors were guarded, so few escaped, but they gave the alarm and roused the city. Meanwhile the nobles of the court had been slain, and the Spaniards had fortified themselves inside their quarters. The exact place where the dance took place is uncertain, as neither Cortes nor Bernal Diaz mentions it; Acosta contradicting most of the early writers, argues that it must have been the court of the palace where Montezuma was. It nowhere appears, however, that Montezuma was present, and, as the dance was a religious rite, the temple court would seem more indicated for its celebration. Alvarado, who was wounded on the head by a stone, appeared before Montezuma crying: “See what your subjects have done !” but the Emperor answered that had he not begun the disturbance the Mexicans would have remained peaceable, adding, “You have undone yourself and me.” Nor did Alvarado’s explanations satisfy Cortes, who openly showed his anger upon his arrival.
 
 Indeed, his conduct seems destitute of any reasonable excuse, and his efforts to exculpate himself at his trial were weak and confused; at best he had but the word of a captive, an intended victim, and that wrung from him under torture. Replying to Art. IV., of the accusations against him he alleged, (1) that it was common report in the city that, during Cortes’s absence, the reduced garrison would be crushed; (2) on the morning of the festival he had seen a large number of sharp pointed sticks, with which the Mexicans openly boasted they would kill him and his men; (3) the admission of the captive victim, which was confirmed by a native of Texcoco; (4) that a skirmish had already taken place in the palace, in which he himself was wounded, and one Spaniard was killed, and that all would have shared the same fate. Torquemada adds the detail that huge cauldrons were prepared in which to cook the Spaniards. Las Casas advances the theory usual with him, that Alvarado wished to strike such a blow as would terrorise the Indians. Herrera admits that a revolt may have been brewing, but deprecates the wholesale massacre and the taking of jewels from the dead bodies. Clavigero scouts the idea of a conspiracy, and affirms that this was an invention to shield Alvarado. Oviedo, Sahagun, and Fr. Duran, all exempt the Indians of rebellious intentions. Setting aside the weighty unanimity of these authorities on the question of the alleged conspiracy, Alvarado’s conduct would still be without justification, even had there been an intention to attack him, for his proper course would have been to collect all the Spaniards and Tlascalans in his quarters, with sufficient provisions, hold Montezuma and the court nobles as hostages, notify Cortes by messenger, and stand strictly on the defensive until help or instructions came. The situation cannot be properly paralleled with that of Cortes in Cholula, for the conditions were entirely different. Alvarado was the most violent of all the Spanish captains, and his brutality culminated in this inhuman massacre, which drove the long suffering Mexicans to desperation; it destroyed the last illusion about the celestial origin and character of the white men, and brought on the tragedy of the *Sorrowful Night*, and the siege, with its long train of misery and destruction. From that day forward, the Mexicans were deaf to all overtures from the Spaniards; regardless of suffering, and indifferent to death, they sought only vengeance.
 
-### APPENDIX VII. DEATH OF MONTEZUMA
+### APPENDIX VII.<br />DEATH OF MONTEZUMA
 
 <span class="small-caps">Montezuma’s</span> assurance to the people that he was not held a prisoner, but lived with the Spaniards from choice, free to come and go at his pleasure, was so contrary to obvious facts, and his reproof to them for taking arms, as though they had been the aggressors, was so unjust, that he failed to secure the cessation of hostilities. On the contrary, he had hardly finished speaking when the young prince Quauhtemotzin, who was one of the leaders of the people, reviled him as a coward and the effeminate tool of the Spaniards, declaring that his subjects renounced obedience to one who had so degraded his royal dignity. With that he hurled a stone, and, in the volley of missiles which followed, one struck the Emperor on the head (*Codex Ramirez* in Orozco y Berra, tom. iv., cap. x.; Acosta, *Hist. Nat. y. Moral de las Indias*, lib. vii., cap. xxvi.). Clavigero refuses to believe that Quauhtemotzin so insulted his royal uncle, but offers no reason for his disbelief. The Spaniards, who had been charged to protect Montezuma’s person with their shields, were not quick enough, and it is said he was also wounded by arrows in the arm and in the leg. The wounds were not, however, serious, but the unfortunate monarch was evidently determined not to survive this supreme humiliation, and, refusing to allow his hurts to be properly dressed, he remained without food in a profoundly dejected condition. Herrera describes Cortes as showing the greatest concern, solicitously visiting the Emperor to comfort him, but it seems little likely that in the midst of his perilous occupations the commander found time to condole with his wounded captive, for Montezuma’s tardy efforts for peace had failed completely, and, though Prescott says that the Aztecs “shocked at their own sacrilegious act...dispersed, panic-struck in different directions...so that not one of the multitudinous array remained in the great square,” there seems to be no authority for believing that any such dramatic revulsion of feeling took place. Montezuma had fallen from his royalty and his high priesthood, to be a thing of scorn and loathing to his people, while his influence on the course of events was less than *nil.*
 

@@ -26,12 +26,12 @@
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 78.5,
+  "score": 77.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 26.0,
+    "score": 20.0,
     "out_of": 30.0
    },
    {
@@ -41,7 +41,7 @@
    },
    {
     "key": "notes",
-    "score": 11.5,
+    "score": 16.0,
     "out_of": 20.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 10,
+  "flagged": 19,
   "blockers": 0
  },
  "proof": {
@@ -194,27 +194,27 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-6-1617b.epub",
-   "bytes": 460459,
-   "sha256": "f41e22da6065655667c2e2e6f5993da16305cbed736c5ac53fc6bd0875230dc7"
+   "bytes": 460869,
+   "sha256": "4522477525ff7d71ccd65cd319d4970b3e1c33dc0a2b63c91e9948624104a934"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-6-1617b.md",
-   "bytes": 867920,
-   "sha256": "61c9ec16afd1e107a1067823e8ad494f9b1c2c28ec07fd833f325b3fee442b56"
+   "bytes": 868451,
+   "sha256": "6f6eeb83b0b8c3fabf3a10a9a40beb3fcf98afc89f198c4a968121f9aff2a179"
   },
   {
    "format": "tei",
    "file": "eic-letters-received-vol-6-1617b.tei.xml",
-   "bytes": 1067123,
-   "sha256": "ec92dc51134562906c4f07471d1ed3926029a38a177ac42f821e7507a2955497"
+   "bytes": 1070435,
+   "sha256": "377a5a4e767ca318976ed202e71807ef472b0f3ba896567dd836980eb6ce5b69"
   }
  ],
  "scan_base": "https://archive.org/download/lettersreceivedb06east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:49:00Z",
-  "source_ast_sha256": "e9fde1cb7d5d93029190bdeaa5aca076101f672dd3eb982a237b385bdc051aef",
+  "compiled_at": "2026-11-24T19:21:58Z",
+  "source_ast_sha256": "eb2ec66fded999faefb3babf19edd3cb6e859993056c64cdd430bebf1c64d99d",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -18,7 +18,7 @@ WILL D. HOWE
 
 ### NINETEENTH CENTURY LETTERS
 
-### <span class="small-caps">The Modern Student's Library</span> <span class="small-caps">Published by</span> CHARLES SCRIBNER'S SONS
+### <span class="small-caps">The Modern Student's Library</span><br /><span class="small-caps">Published by</span> CHARLES SCRIBNER'S SONS
 
 * * *
 
@@ -50,7 +50,7 @@ Each small 12mo. 75 cents net.
 
 *Other volumes in preparation.*
 
-### NINETEENTH CENTURY LETTERS
+### NINETEENTH CENTURY<br />LETTERS
 
 SELECTED AND EDITED, WITH AN INTRODUCTION  
 BY  
@@ -79,7 +79,7 @@ Copyright 1876 by G. Otto Trevelyan
 Copyright 1889 by G. Lewis Stackpole  
 Copyright 1917 by Elizabeth C. Harcourt
 
-### TO GRAHAM RYLE
+### TO<br />GRAHAM RYLE
 
 ### PREFACE
 
@@ -94,7 +94,7 @@ PAGE
 
 <span class="small-caps">Acknowledgments</span> . . . . . . . . . . . xxiii
 
-### WRITERS OF LETTERS
+#### WRITERS OF LETTERS
 
 **THE DATES ARE THOSE OF THE BIRTH AND DEATH OF EACH WRITER**
 
@@ -262,7 +262,7 @@ The editor desires to express here his appreciation of the assistance afforded h
 
 > *[Margin: [Æt. 42]]*
 
-### WILLIAM BLAKE 1757–1827 <span class="small-caps">To John Flaxman</span> [<span class="small-caps">a roof of rusted gold</span>]
+#### WILLIAM BLAKE<br />1757–1827<br /><span class="small-caps">To John Flaxman</span><br />[<span class="small-caps">a roof of rusted gold</span>]
 
 <span class="small-caps">Felpham</span>, 21st September, 1800,  
 Sunday Morning.
@@ -287,9 +287,9 @@ Farewell, my best Friend! Remember me and my wife in love and friendship to our 
 
 > *[Margin: [Æt. 53]]*
 
-### SAMUEL ROGERS 1763–1855
+#### SAMUEL ROGERS<br />1763–1855
 
-### To <span class="small-caps">Sarah Rogers</span> [<span class="small-caps">TEA WITH THE WORDSWORTHS</span>]
+#### To <span class="small-caps">Sarah Rogers</span><br />[<span class="small-caps">TEA WITH THE WORDSWORTHS</span>]
 
 Low-wood <span class="small-caps">Inn</span>:  
 Friday morning, 28 Aug., 1816.
@@ -308,7 +308,7 @@ S. R.
 
 > *[Margin: [Æt. 27]]*
 
-### MARIA EDGEWORTH 1767–1849 To <span class="small-caps">Miss Sophy Ruxton</span> <span class="small-caps">[books and experiments]</span>
+#### MARIA EDGEWORTH<br />1767–1849<br />To <span class="small-caps">Miss Sophy Ruxton</span><br /><span class="small-caps">[books and experiments]</span>
 
 <span class="small-caps">Edgeworthstown</span>, July 2, 1794,  
 having the honour to be the  
@@ -332,27 +332,29 @@ Come live with us and be our love.
 
 > *[Margin: [Æt. 56]]*
 
-### To <span class="small-caps">Mrs. Ruxton</span> [<span class="small-caps">an evening at Sir Walter Scott's</span>]
+#### To <span class="small-caps">Mrs. Ruxton</span><br />[<span class="small-caps">an evening at Sir Walter Scott's</span>]
 
 <span class="small-caps">Edinburgh</span>, 32 Abercromby Place,  
 June 8th, 1823.
 
 You have had our history up to Kinneil House. Mr. and Miss Stewart accompanied us some miles on our road to show us the palace of Linlithgow—very interesting to see, but not to describe. The drive from Linlithgow to Edinburgh is nothing extraordinary, but the road approaching the city is grand, and the first view of the castle and “mine own romantic town” delighted my companions; the day was fine and they were sitting outside on the barouche seat—a seat which you, my dear aunt, would not have envied them with all their fine prospects. By this approach to Edinburgh, there are no suburbs; you drive at once through magnificent broad streets and fine squares. All the houses are of stone, darker than the Ardbraccan stone, and of a kind that is little injured by weather or time. Margaret Alison had taken lodgings for us in Abercromby Place—finely built, with hanging shrubbery garden, and the house as delightful as the situation. As soon as we had unpacked and arranged our things the evening of our arrival, we walked, about ten minutes' distance from us, to our dear old friends, the Alisons. We found them shawled and bonneted, just coming to see us. Mr. Alison and Sir Walter Scott had settled that we should dine the first day after our arrival with Mr. Alison, which was just what we wished; but on our return home we found a note from Sir Walter:
 
-“*Dear Miss Edgeworth,*
-
-> I have just received your kind note, just when I had persuaded myself it was most likely I should see you in person or hear of your arrival. Mr. Alison writes to me you are engaged to dine with him to-morrow, which puts Roslin out of the question for that day, as it might keep you late. On Sunday I hope you will join our family-party at five, and on Monday I have asked one or two of the Northern Lights on purpose to meet you. I should be engrossing at any time, but we shall be more disposed to be so just now, because on the 12th I am under the necessity of going to a different kingdom (only the kingdom of *Fife*) for a day or two. To-morrow, if it is quite agreeable, I will wait on you about twelve, and hope you will permit me to show you some of our improvements.
-
-I am always,  
-Most respectfully yours,
-
-<span class="small-caps">Walter Scott.</span>
-
-<span class="small-caps">Edinburgh</span>, Friday.
-
-*Postscript.*—Our old family coach is *licensed* to carry *six;* so take no care on that score. I inclose Mr. Alison's note; truly sorry I could not accept the invitation it contains.
-
-*Postscript.*—My wife insists I shall add that the Laird of Staffa promised to look in on us this evening at eight or nine, for the purpose of letting us hear one of his clansmen sing some Highland boat-songs and the like, and that if you will come, as the Irish should to the Scotch, without any ceremony, you will hear what is perhaps more curious than mellifluous. The man returns to the isles to-morrow. There are no strangers with us; no party; none but all our own family and two old friends. Moreover, all our womankind have been calling at Gibbs's hotel, so if you are not really tired and late, you have not even pride, the ladies' last defense, to oppose to this request. But, above all, do not fatigue yourself and the young ladies. No dressing to be thought of.”
+> **[enclosure: Walter Scott note]**
+>
+> “*Dear Miss Edgeworth,*
+>
+> > I have just received your kind note, just when I had persuaded myself it was most likely I should see you in person or hear of your arrival. Mr. Alison writes to me you are engaged to dine with him to-morrow, which puts Roslin out of the question for that day, as it might keep you late. On Sunday I hope you will join our family-party at five, and on Monday I have asked one or two of the Northern Lights on purpose to meet you. I should be engrossing at any time, but we shall be more disposed to be so just now, because on the 12th I am under the necessity of going to a different kingdom (only the kingdom of *Fife*) for a day or two. To-morrow, if it is quite agreeable, I will wait on you about twelve, and hope you will permit me to show you some of our improvements.
+>
+> I am always,  
+> Most respectfully yours,
+>
+> <span class="small-caps">Walter Scott.</span>
+>
+> <span class="small-caps">Edinburgh</span>, Friday.
+>
+> *Postscript.*—Our old family coach is *licensed* to carry *six;* so take no care on that score. I inclose Mr. Alison's note; truly sorry I could not accept the invitation it contains.
+>
+> *Postscript.*—My wife insists I shall add that the Laird of Staffa promised to look in on us this evening at eight or nine, for the purpose of letting us hear one of his clansmen sing some Highland boat-songs and the like, and that if you will come, as the Irish should to the Scotch, without any ceremony, you will hear what is perhaps more curious than mellifluous. The man returns to the isles to-morrow. There are no strangers with us; no party; none but all our own family and two old friends. Moreover, all our womankind have been calling at Gibbs's hotel, so if you are not really tired and late, you have not even pride, the ladies' last defense, to oppose to this request. But, above all, do not fatigue yourself and the young ladies. No dressing to be thought of.”
 
 Ten o'clock struck as I read the note; we were tired—we were not fit to be seen; but I thought it right to accept “Walter Scott's” cordial invitation; sent for a hackney-coach, and just as we were, without dressing, went. As the coach stopped, we saw the hall lighted, and the moment the door opened, heard the joyous sounds of loud singing. Three servants—“The Miss Edgeworths” sounded from hall to landing-place, and as I paused for a moment in the anteroom, I heard the first sound of Walter Scott's voice—“The Miss Edgeworths *come.*”
 
@@ -374,11 +376,11 @@ There was an arch simplicity in his look, at which we could hardly forbear laugh
 
 ### Letter 5: JOHN HOOKHAM FRERE → Edward Frere
 
-### [<span class="small-caps">Æt.</span> 65] JOHN HOOKHAM FRERE
+#### [<span class="small-caps">Æt.</span> 65] JOHN HOOKHAM FRERE
 
-### 1769–1846
+#### 1769–1846
 
-### <span class="small-caps">To Edward Frere</span> [<span class="small-caps">building a wall</span>]
+#### <span class="small-caps">To Edward Frere</span><br />[<span class="small-caps">building a wall</span>]
 
 <span class="small-caps">Malta</span>, April 9th, 1835.
 
@@ -390,7 +392,7 @@ I have been running on with nonsense (from which you will only collect that I am
 
 ### Letter 6: WILLIAM WORDSWORTH → Bernard Barton
 
-### [Æt. 45]   WILLIAM WORDSWORTH 1770–1850 To <span class="small-caps">Bernard Barton</span> [<span class="small-caps">a “perpetual retainer from incapacity”</span>]
+#### [Æt. 45]   WILLIAM WORDSWORTH<br />1770–1850<br />To <span class="small-caps">Bernard Barton</span><br />[<span class="small-caps">a “perpetual retainer from incapacity”</span>]
 
 <span class="small-caps">Rydal Mount</span>, near Ambleside,  
 Jan. 12, 1816.
@@ -423,7 +425,7 @@ Bernard Barton, Esq., Woodbridge, Suffolk.
 
 > *[Margin: [Æt. 50]]*
 
-### <span class="small-caps">To Archdeacon Wrangham</span> [<span class="small-caps">writing letters; old books</span>]
+#### <span class="small-caps">To Archdeacon Wrangham</span><br />[<span class="small-caps">writing letters; old books</span>]
 
 [1820?]
 
@@ -444,7 +446,7 @@ W. <span class="small-caps">Wordsworth.</span>
 
 > *[Margin: [*Æt.* 59]*
 
-### To <span class="small-caps">Charles Lamb</span> [<span class="small-caps">character and plot</span>]
+#### To <span class="small-caps">Charles Lamb</span><br />[<span class="small-caps">character and plot</span>]
 
 Jan. 10, 1830.
 
@@ -460,7 +462,7 @@ W<span class="small-caps">m</span>. W<span class="small-caps">ordsworth</span>.
 
 > *[Margin: [Æt. 60]*
 
-### To A<span class="small-caps">lexander</span> D<span class="small-caps">yce</span> [“<span class="small-caps">feeble and fastidious times</span>”]
+#### To A<span class="small-caps">lexander</span> D<span class="small-caps">yce</span><br />[“<span class="small-caps">feeble and fastidious times</span>”]
 
 [No date, but Postmark, 1830.]
 
@@ -472,7 +474,7 @@ You must indeed have been fond of that ponderous quarto, “The Excursion,” to
 
 > *[Margin: [*Æt.* 72]]*
 
-### To <span class="small-caps">Professor Reed</span> [^fn-p0046-1] [<span class="small-caps">death of Southey</span>]
+#### To <span class="small-caps">Professor Reed</span> [^fn-p0046-1]<br />[<span class="small-caps">death of Southey</span>]
 
 <span class="small-caps">Rydal Mount</span>, March 27, 1843.
 
@@ -490,7 +492,7 @@ Ever most faithfully yours,
 
 > *[Margin: [*Æt.* 72]*
 
-### To <span class="small-caps">Sir Robert Peel</span> [<span class="small-caps">the laureateship</span>]
+#### To <span class="small-caps">Sir Robert Peel</span><br />[<span class="small-caps">the laureateship</span>]
 
 <span class="small-caps">Rydal Mount, Ambleside</span>, April 4, 1843.
 
@@ -513,7 +515,7 @@ Your humble servant,
 
 > *[Margin: [<span class="small-caps">Æt.</span> 74]]*
 
-### To <span class="small-caps">Professor Reed</span> [<span class="small-caps">a birthday fête</span>]
+#### To <span class="small-caps">Professor Reed</span><br />[<span class="small-caps">a birthday fête</span>]
 
 1844.
 
@@ -533,7 +535,7 @@ Believe me faithfully yours,
 
 > *[Margin: [Æt. 75]]*
 
-### <span class="small-caps">To Professor Reed</span> <span class="small-caps">[presentation to the Queen]</span>
+#### <span class="small-caps">To Professor Reed</span><br /><span class="small-caps">[presentation to the Queen]</span>
 
 <span class="small-caps">Rydal Mount, Ambleside,</span> July 1, 1845.
 
@@ -553,7 +555,7 @@ Affectionately yours,
 
 ### Letter 14: SYDNEY SMITH → Douglas
 
-### [Æt. 48] SYDNEY SMITH 1771-1845 To <span class="small-caps">his Son</span> [<span class="small-caps">history and poetry</span>]
+#### [Æt. 48] SYDNEY SMITH<br />1771-1845<br />To <span class="small-caps">his Son</span><br />[<span class="small-caps">history and poetry</span>]
 
 <span class="small-caps">Foston Rectory</span>, 1819.
 
@@ -575,7 +577,7 @@ Your affectionate father,
 
 > *[Margin: [Æt. 59]]*
 
-### To <span class="small-caps">Lady Holland</span> [<span class="small-caps">excessive anxiety</span>]
+#### To <span class="small-caps">Lady Holland</span><br />[<span class="small-caps">excessive anxiety</span>]
 
 May, 1831.
 
@@ -587,7 +589,7 @@ S. S.
 
 > *[Margin: [Æt. 64]]*
 
-### To <span class="small-caps">Miss</span> —— [<span class="small-caps">on tearing frocks</span>]
+#### To <span class="small-caps">Miss</span> ——<br />[<span class="small-caps">on tearing frocks</span>]
 
 <span class="small-caps">London</span>, July 22nd, 1835.
 
@@ -601,7 +603,7 @@ And Lucy, dear child, mind your arithmetic. You know, in the first sum of yours 
 
 > *[Margin: [Æt. 64]]*
 
-### To <span class="small-caps">Mrs. Holland</span> [<span class="small-caps">a channel-crossing</span>]
+#### To <span class="small-caps">Mrs. Holland</span><br />[<span class="small-caps">a channel-crossing</span>]
 
 <span class="small-caps">Rouen</span>, Oct. 6, 1835.
 
@@ -615,7 +617,7 @@ To-morrow we start for Mantes, and the next day we shall be at Paris. Travelling
 
 > *[Margin: [Æt. 64]]*
 
-### To <span class="small-caps">Mrs. Holland</span> [<span class="small-caps">the mayor of Bristol</span>]
+#### To <span class="small-caps">Mrs. Holland</span><br />[<span class="small-caps">the mayor of Bristol</span>]
 
 December 11, 1835.
 
@@ -629,7 +631,7 @@ Few are the adventures of a canon travelling gently over good roads to his benef
 
 > *[Margin: [ÆT. 65]*
 
-### <span class="small-caps">To Colonel Fox</span> [<span class="small-caps">a problem in latches</span>]
+#### <span class="small-caps">To Colonel Fox</span><br />[<span class="small-caps">a problem in latches</span>]
 
 October, 1836.
 
@@ -643,7 +645,7 @@ If you have ever paid any attention to the habits of animals, you will know that
 
 > *[Margin: [<span class="small-caps">Æt.</span> 68]]*
 
-### To <span class="small-caps">Charles Dickens</span> [<span class="small-caps">an invitation to dine</span>]
+#### To <span class="small-caps">Charles Dickens</span><br />[<span class="small-caps">an invitation to dine</span>]
 
 <span class="small-caps">Charles Street, Berkeley Square,</span>  
 June 11, 1839.
@@ -658,7 +660,7 @@ Nobody more, and more justly, talked of than yourself. The Miss Berrys, now at R
 
 > *[Margin: [Æt. 71]]*
 
-### To <span class="small-caps">John Murray</span> [<span class="small-caps">moribundity and caducity</span>]
+#### To <span class="small-caps">John Murray</span><br />[<span class="small-caps">moribundity and caducity</span>]
 
 <span class="small-caps">Combe Florey</span>, Sept. 12, 1842.
 
@@ -678,7 +680,7 @@ We have the railroad now within five miles. Bath in two hours, London in six,—
 
 > *[Margin: [Æt. 71]]*
 
-### To <span class="small-caps">Lady Holland</span> [<span class="small-caps">John Allen's legs</span>]
+#### To <span class="small-caps">Lady Holland</span><br />[<span class="small-caps">John Allen's legs</span>]
 
 <span class="small-caps">Combe Florey</span>, Sept. 13, 1842.
 
@@ -692,7 +694,7 @@ I am sorry to hear Allen[^fn-p0060-1] is not well; but the reduction of his legs
 
 > *[Margin: [Æt. 71]]*
 
-### To <span class="small-caps">Mrs.</span> —— [<span class="small-caps">A beautiful monument</span>]
+#### To <span class="small-caps">Mrs.</span> ——<br />[<span class="small-caps">A beautiful monument</span>]
 
 <span class="small-caps">Combe Florey</span>, Oct. 13, 1842.
 
@@ -706,7 +708,7 @@ You lie heavy upon my conscience, unaccustomed to bear any weight at all. What c
 
 > *[Margin: [ÆT. 71]]*
 
-### To <span class="small-caps">Lady Holland</span> [<span class="small-caps">a martinet</span>]
+#### To <span class="small-caps">Lady Holland</span><br />[<span class="small-caps">a martinet</span>]
 
 November 6th, 1842.
 
@@ -720,7 +722,7 @@ I have not the heart, when an amiable lady says, “Come to ‘Semiramis’ in m
 
 > *[Margin: [Æt. 71]]*
 
-### To <span class="small-caps">Miss Berry</span> <span class="small-caps">[Tittenhanger]</span>
+#### To <span class="small-caps">Miss Berry</span><br /><span class="small-caps">[Tittenhanger]</span>
 
 November, 1842.
 
@@ -753,7 +755,7 @@ But that Monckton Milnes is well.
 
 > *[Margin: [Æt. 72]]*
 
-### To <span class="small-caps">Mrs. Grote</span> <span class="small-caps">[The Happy Surgeons]</span>
+#### To <span class="small-caps">Mrs. Grote</span><br /><span class="small-caps">[The Happy Surgeons]</span>
 
 <span class="small-caps">Combe Florey</span>, July 17, 1843.
 
@@ -767,7 +769,7 @@ My place looks very beautiful, and I really enjoy the change. We were very sorry
 
 > *[Margin: [Æt. 72]*
 
-### To <span class="small-caps">Lord Murray</span> [<span class="small-caps">A mass of nourishment</span>]
+#### To <span class="small-caps">Lord Murray</span><br />[<span class="small-caps">A mass of nourishment</span>]
 
 <span class="small-caps">Combe Florey</span>, Sept. 29, 1843.
 
@@ -785,9 +787,9 @@ Lord and Lady Lansdowne, who are rambling about this fine country, are to spend 
 
 > *[Margin: [Æt. 72]*
 
-### To <span class="small-caps">Mrs. Meynell</span>
+#### To <span class="small-caps">Mrs. Meynell</span>
 
-### [<span class="small-caps">Arcadian old gentlemen</span>]
+#### [<span class="small-caps">Arcadian old gentlemen</span>]
 
 <span class="small-caps">Combe Florey</span>, 1843.
 
@@ -803,7 +805,7 @@ We have had a superb summer, but I am glad it is over; I am never happy till the
 
 ### Letter 29: SYDNEY SMITH → Grandchild
 
-### To <span class="small-caps">His Grandchild</span>          [Undated] [<span class="small-caps">on sending him a letter overweight</span>]
+#### To <span class="small-caps">His Grandchild</span>          [Undated]<br />[<span class="small-caps">on sending him a letter overweight</span>]
 
 Oh, you little wretch! Your letter cost me fourpence. I will pull all the plums out of your puddings; I will undress your dolls and steal their under-petticoats; you shall have no currant-jelly to your rice; I will kiss you till you cannot see out of your eyes; when nobody else whips you, I will do so; I will fill you so full of sugar-plums that they shall run out of your nose and ears; lastly, your frocks shall be so short that they shall not come below your knees. Your loving grandfather,
 
@@ -811,9 +813,9 @@ Oh, you little wretch! Your letter cost me fourpence. I will pull all the plums 
 
 ### Letter 30: SIR WALTER SCOTT → Henry Brevoort
 
-### [Æt. 41]          SIR WALTER SCOTT 1771–1832
+#### [Æt. 41]          SIR WALTER SCOTT<br />1771–1832
 
-### To <span class="small-caps">Henry Brevoort</span> [<span class="small-caps">the knickerbocker history</span>]
+#### To <span class="small-caps">Henry Brevoort</span><br />[<span class="small-caps">the knickerbocker history</span>]
 
 <span class="small-caps">Abbotsford</span>, 23d April, 1813.
 
@@ -830,7 +832,7 @@ Your obliged humble servant,
 
 > *[Margin: [Æt. 49]*
 
-### To <span class="small-caps">Mrs. Hughes</span> [<span class="small-caps">the waverley novels</span>]
+#### To <span class="small-caps">Mrs. Hughes</span><br />[<span class="small-caps">the waverley novels</span>]
 
 <span class="small-caps">Waterloo Hotel</span>, Tuesday,  
 March 7, 1821.
@@ -852,7 +854,7 @@ Your much obliged humble servant,
 
 > *[Margin: [Æt. 51]*
 
-### To <span class="small-caps">Thomas Frognall Dibdin</span> [<span class="small-caps">the unknown author</span>]
+#### To <span class="small-caps">Thomas Frognall Dibdin</span><br />[<span class="small-caps">the unknown author</span>]
 
 <span class="small-caps">Edin.</span>, Feb. 25, 1823.
 
@@ -872,9 +874,9 @@ It will not be uninteresting to you to know, that a fraternity is about to be es
 
 > *[Margin: [Æt. 54]]*
 
-### To <span class="small-caps">Dr. and Mrs. Hughes</span>
+#### To <span class="small-caps">Dr. and Mrs. Hughes</span>
 
-### [<span class="small-caps">the financial disaster</span>]
+#### [<span class="small-caps">the financial disaster</span>]
 
 <span class="small-caps">Edinburgh</span>, 6 February, 1826.
 
@@ -899,7 +901,7 @@ Most truly yours,
 
 > *[Margin: [*Æt.* 58?]]*
 
-### To <span class="small-caps">Mrs. Hughes</span> [<span class="small-caps">Tom Purdie</span>]
+#### To <span class="small-caps">Mrs. Hughes</span><br />[<span class="small-caps">Tom Purdie</span>]
 
 [1829?]
 
@@ -911,9 +913,9 @@ I have had a very severe loss in my old & faithful Gillian a Chriah, that is, Ma
 
 ### Letter 35: SAMUEL TAYLOR COLERIDGE → Thomas Poole
 
-### [ÆT. 23] SAMUEL TAYLOR COLERIDGE
+#### [ÆT. 23] SAMUEL TAYLOR COLERIDGE
 
-### 1772–1834 To <span class="small-caps">Thomas Poole</span> [<span class="small-caps">Coleridge as Traveller</span>]
+#### 1772–1834<br />To <span class="small-caps">Thomas Poole</span><br />[<span class="small-caps">Coleridge as Traveller</span>]
 
 May 29, 1796.
 
@@ -933,7 +935,7 @@ P.S.—Don't forget to send by Milton[^fn-p0071-1] my old clothes, and linen *th
 
 > *[Margin: [Æt. 24]]*
 
-### To <span class="small-caps">John Thelwall</span> [<span class="small-caps">Coleridge describes himself</span>]
+#### To <span class="small-caps">John Thelwall</span><br />[<span class="small-caps">Coleridge describes himself</span>]
 
 Saturday, November 19, [1796].  
 <span class="small-caps">Oxford Street, Bristol.</span>
@@ -950,11 +952,11 @@ Your sincere friend,
 
 S. T. <span class="small-caps">Coleridge.</span>
 
-> *[Margin: [Æt. 24]]*
-
 ### Letter 37: S. T. Coleridge → Thomas Poole
 
-### To <span class="small-caps">Thomas Poole</span> [<span class="small-caps">removing to nether stowey</span>]
+> *[Margin: [Æt. 24]]*
+
+#### To <span class="small-caps">Thomas Poole</span><br />[<span class="small-caps">removing to nether stowey</span>]
 
 Sunday morning, [? December 18, 1796.]
 
@@ -972,7 +974,7 @@ S. T. <span class="small-caps">Coleridge.</span>
 
 > *[Margin: [Æt. 25]]*
 
-### To <span class="small-caps">his Wife</span> [<span class="small-caps">the voyage to germany</span>]
+#### To <span class="small-caps">his Wife</span><br />[<span class="small-caps">the voyage to germany</span>]
 
 <span class="small-caps">Hamburg</span>, September 19, 1798.
 
@@ -988,7 +990,7 @@ S. T. <span class="small-caps">Coleridge.</span>
 
 > *[Margin: [Æt. 29]*
 
-### To <span class="small-caps">his Wife</span> [<span class="small-caps">a visit to London</span>]
+#### To <span class="small-caps">his Wife</span><br />[<span class="small-caps">a visit to London</span>]
 
 <span class="small-caps">King Street, Covent Garden,</span>  
 [February 24, 1802.]
@@ -1009,9 +1011,9 @@ S. T. <span class="small-caps">Coleridge.</span>
 
 > *[Margin: [Æt. 29]*
 
-### To W. <span class="small-caps">Sotheby</span>
+#### To W. <span class="small-caps">Sotheby</span>
 
-### [<span class="small-caps">Hartley and Derwent</span>]
+#### [<span class="small-caps">Hartley and Derwent</span>]
 
 <span class="small-caps">Greta Hall, Keswick,</span>  
 Tuesday, September 27, 1802.
@@ -1024,7 +1026,7 @@ The river is full, and Lodore is full, and silver-fillets come out of clouds and
 
 > *[Margin: [Æt. 31]]*
 
-### To <span class="small-caps">Robert Southey</span> [<span class="small-caps">Coleridge “thunders and lightens”</span>]
+#### To <span class="small-caps">Robert Southey</span><br />[<span class="small-caps">Coleridge “thunders and lightens”</span>]
 
 <span class="small-caps">Rickman's Office, H. of Commons,</span>  
 February 20, 1804, Monday noon.
@@ -1047,7 +1049,7 @@ S. T. <span class="small-caps">Coleridge.</span>
 
 > *[Margin: [Æt. 34]]*
 
-### To <span class="small-caps">his Wife</span> [<span class="small-caps">A visit to Sir George Beaumont’s</span>] [<span class="small-caps">Farmhouse near Coleorton,</span>]
+#### To <span class="small-caps">his Wife</span><br />[<span class="small-caps">A visit to Sir George Beaumont’s</span>]<br />[<span class="small-caps">Farmhouse near Coleorton,</span>]
 
 December 25, 1806.
 
@@ -1055,10 +1057,12 @@ December 25, 1806.
 
 By my letter from Derby you will have been satisfied of our safety so far. We had, however, been grossly deceived as to the equi-distance of Derby and Loughborough. The expense was nearly double. Still, however, I was in such torture and my boils bled, throbbed, and *stabbed* so *con furia,* that perhaps I have no reason for regret. At Coleorton we found them dining, Sunday, ½ past one o’clock. To-day is Xmas day. Of course we were welcomed with an uproar of sincere joy: and Hartley hung suspended between the ladies for a long minute. The children, too, jubilated at Hartley’s arrival.[^fn-p0082-1] He has behaved very well indeed—only that when he could get out of the coach at dinner, I was obliged to be in incessant watch to prevent him from rambling off into the fields. He twice ran into a field, and to the further end of it, and once after the dinner was on table, I was out five minutes seeking him in great alarm, and found him at the further end of a wet meadow, on the marge of a river. After dinner, fearful of losing our places by the window (of the long coach), I ordered him to go into the coach and sit in the place where he was before, and I would follow. In about five minutes I followed. No Hartley! Halloing—in vain! At length, where should I discover him! In the same meadow, only at a greater distance, and close down on the very edge of the water. I was angry from downright fright! And what, think you, was Cataphract's excuse! “It was a misunderstanding, Father! I thought, you see, that you bid me go to the very same place, in the meadow where I was.” I told him that he had interpreted the text by the suggestions of the flesh, not the inspiration of the spirit; and *his Wish* the naughty father of the baseborn Thought. However, saving and excepting his passion for field truantry, and his hatred of confinement (in which his fancy at least—
 
-Doth sing a doleful song about green fields;  
-How sweet it were in woods and wild savannas;  
-To hunt for food and be a naked man  
-And wander up and down at liberty!),
+> **[verse_insert]**
+>
+> Doth sing a doleful song about green fields;  
+> How sweet it were in woods and wild savannas;  
+> To hunt for food and be a naked man  
+> And wander up and down at liberty!),
 
 he is a very good and sweet child, of strict honour and truth, from which he never deviates except in the form of sophism when he sports his logical false dice in the game of excuses. This, however, is the mere effect of his activity of thought, and his aiming at being clever and ingenious. He is exceedingly amiable toward children. All here love him most dearly: and your namesake takes upon her all the duties of his mother and darling friend, with all the mother's love and fondness. He is very fond of *her;* but it is very pretty to hear how, without any one set declaration of his attachment to Mrs. Wilson and Mr. Jackson, his love for them continually breaks out—so many things remind him of them, and in the coach he talked to the strangers of them just as if everybody *must* know Mr. J. and Mrs. W. His letter is only half written; so cannot go to-day. We all wish you a merry Christmas and many following ones. Concerning the London Lectures, we are to discuss it, William and I, this evening, and I shall write you at full the day after to-morrow. To-morrow there is no post, but this letter I mean merely as bearer of the tidings of our safe arrival. I am better than usual. Hartley has coughed a little every morning since he left Greta Hall; but only such a little cough as you heard from him at the door. He is in high health. All the children have the hooping-cough; but in an exceedingly mild degree. Neither Sarah Hutchinson nor I ever remember to have had it. Hartley is made to keep at a distance from them, and only to play with Johnny in the open air. I found my spice-megs; but many papers I miss.
 
@@ -1074,7 +1078,7 @@ S. T. <span class="small-caps">Coleridge</span>.
 
 > *[Margin: [Æt. 41]]*
 
-### To <span class="small-caps">Joseph Cottle</span> [<span class="small-caps">laudanum</span>]
+#### To <span class="small-caps">Joseph Cottle</span><br />[<span class="small-caps">laudanum</span>]
 
 April 26, 1814.
 
@@ -1094,7 +1098,7 @@ S. T. <span class="small-caps">Coleridge</span>.
 
 > *[Margin: [Æt. 43]]*
 
-### To <span class="small-caps">James Gillman</span>
+#### To <span class="small-caps">James Gillman</span>
 
 [<span class="small-caps">Lamb’s “Archangel, a little damaged”</span>]
 
@@ -1117,7 +1121,7 @@ S. T. <span class="small-caps">Coleridge</span>.
 
 > *[Margin: [<span class="small-caps">Æt.</span> 46]]*
 
-### To <span class="small-caps">James Gillman</span> [<span class="small-caps">sea-bathing</span>]
+#### To <span class="small-caps">James Gillman</span><br />[<span class="small-caps">sea-bathing</span>]
 
 [<span class="small-caps">Ramsgate</span>, Postmark, August 20, 1819.]
 
@@ -1133,7 +1137,7 @@ S. T. C.
 
 > *[Margin: [Æt. 61]]*
 
-### To <span class="small-caps">Adam Steinmetz Kennard</span>
+#### To <span class="small-caps">Adam Steinmetz Kennard</span>
 
 [<span class="small-caps">within two weeks of the end</span>]
 
@@ -1147,7 +1151,7 @@ S. T. <span class="small-caps">Coleridge.</span>
 
 ### Letter 47: FRANCIS LORD JEFFREY → John Jeffrey
 
-### [Æt. 29]   FRANCIS LORD JEFFREY 1773–1850 To <span class="small-caps">John Jeffrey</span> [<span class="small-caps">the</span> “<span class="small-caps">Edinburgh review</span>”]
+#### [Æt. 29]   FRANCIS LORD JEFFREY<br />1773–1850<br />To <span class="small-caps">John Jeffrey</span><br />[<span class="small-caps">the</span> “<span class="small-caps">Edinburgh review</span>”]
 
 <span class="small-caps">Edinburgh,</span> 2d July, 1803.
 
@@ -1161,9 +1165,9 @@ I am glad you have got our Review, and that you like it. Your partiality to my a
 
 > *[Margin: [Æt. 43]*
 
-### To <span class="small-caps">Mrs. Colden</span>
+#### To <span class="small-caps">Mrs. Colden</span>
 
-### [<span class="small-caps">thomas moore; miss edgeworth; old england</span>]
+#### [<span class="small-caps">thomas moore; miss edgeworth; old england</span>]
 
 <span class="small-caps">Mardocks</span>, 6th May, 1822.
 
@@ -1185,7 +1189,7 @@ I came down here yesterday by way of Haileybury, where I took up Malthus, who is
 
 > *[Margin: [Æt. 70]]*
 
-### To <span class="small-caps">Charles Dickens</span> [<span class="small-caps">a “mischievous onslaught”</span>]
+#### To <span class="small-caps">Charles Dickens</span><br />[<span class="small-caps">a “mischievous onslaught”</span>]
 
 <span class="small-caps">Edinburgh</span>, 26th December, 1843.
 
@@ -1201,7 +1205,7 @@ Since writing this in the morning, and just as I was going to seal it, in comes 
 
 > *[Margin: [Æt. 73]]*
 
-### To <span class="small-caps">Mrs. Empson</span> [“<span class="small-caps">a world to be loved</span>”]
+#### To <span class="small-caps">Mrs. Empson</span><br />[“<span class="small-caps">a world to be loved</span>”]
 
 <span class="small-caps">Craigcrook</span>, Sunday, 23d May, 1847.
 
@@ -1209,7 +1213,7 @@ Bless you ever! and this is my first right earnest, tranquil, Sunday blessing, s
 
 ### Letter 51: ROBERT SOUTHEY / R. S. → Joseph Cottle
 
-### [Æt. 33]    ROBERT SOUTHEY 1774–1843 To <span class="small-caps">Joseph Cottle</span> [<span class="small-caps">a “dear old friend and benefactor”</span>]
+#### [Æt. 33]    ROBERT SOUTHEY<br />1774–1843<br />To <span class="small-caps">Joseph Cottle</span><br />[<span class="small-caps">a “dear old friend and benefactor”</span>]
 
 <span class="small-caps">Greta Hall</span>, April 20, 1808.
 
@@ -1229,7 +1233,7 @@ R. S.
 
 > *[Margin: [Æt. 45]]*
 
-### To <span class="small-caps">Bertha, Kate, and Isabel Southey</span> [<span class="small-caps">on being “ell-ell-deed”</span>]
+#### To <span class="small-caps">Bertha, Kate, and Isabel Southey</span><br />[<span class="small-caps">on being “ell-ell-deed”</span>]
 
 June 26, 1820.
 
@@ -1257,9 +1261,9 @@ R. <span class="small-caps">Southey.</span>
 
 > *[Margin: [Æt. 61]]*
 
-### To <span class="small-caps">Edward Moxon</span>
+#### To <span class="small-caps">Edward Moxon</span>
 
-### [<span class="small-caps">Recollections of Charles Lamb</span>]
+#### [<span class="small-caps">Recollections of Charles Lamb</span>]
 
 <span class="small-caps">Keswick</span>, Feb. 2, 1836.
 
@@ -1293,7 +1297,7 @@ Yours very truly,
 
 ### Letter 54: WALTER SAVAGE LANDOR / W. S. Landor → Miss Rose Paynter
 
-### [ÆT. 64]  WALTER SAVAGE LANDOR 1775–1864 To <span class="small-caps">Miss Rose Paynter</span> [<span class="small-caps">A dog with pluck</span>]
+#### [ÆT. 64]  WALTER SAVAGE LANDOR<br />1775–1864<br />To <span class="small-caps">Miss Rose Paynter</span><br />[<span class="small-caps">A dog with pluck</span>]
 
 [<span class="small-caps">Bath</span>, September 23, 1839.]
 
@@ -1301,16 +1305,18 @@ Yours very truly,
 
 It is true enough that you have not heard from me for a long time; and the reason is not that I am idle, which I am, but because I hoped, from the long absence of all letters from Passy, that you surely were on your way to Bath. Otherwise not only should I have written, but have been, long ere this time, in Devonshire. Tell Mama that I might safely have been entrusted with the *tapis,* or, even with everything *sur le tapis.* There is no commission of hers which I would not have executed, at least carefully. I am indeed quite as idle as usual.
 
-I never sprain,  
-Dear Rose! my brain;  
-And if I did,  
-The Lord forbid  
-That you should set it strait again:  
-For I have seen,  
-O haughty Queen!  
-The tears and sighs  
-That fall and rise  
-Where your ungentle hand hath been.
+> **[verse_insert]**
+>
+> I never sprain,  
+> Dear Rose! my brain;  
+> And if I did,  
+> The Lord forbid  
+> That you should set it strait again:  
+> For I have seen,  
+> O haughty Queen!  
+> The tears and sighs  
+> That fall and rise  
+> Where your ungentle hand hath been.
 
 No wonder you ask me whether you are not most barbarous: I will answer for it you are. I scarcely know any man but myself who is out of your martyrology. I am like one of the Saints (no doubt of that—you will say) I mean I am like one of those who look quietly on and take delight in seeing the most beautiful of the Creation execute the Creator's will. But I do not approve of your making more people mad and desperate.
 
@@ -1329,7 +1335,7 @@ W. S. <span class="small-caps">Landor</span>.
 
 > *[Margin: [Æt. 68]*
 
-### To <span class="small-caps">the Editor of the</span> “<span class="small-caps">Examiner</span>” [<span class="small-caps">a</span> “<span class="small-caps">polygonal character</span>”]
+#### To <span class="small-caps">the Editor of the</span> “<span class="small-caps">Examiner</span>”<br />[<span class="small-caps">a</span> “<span class="small-caps">polygonal character</span>”]
 
 August 17, 1843.
 
@@ -1351,9 +1357,9 @@ W. S. <span class="small-caps">Landor.</span>
 
 > *[Margin: [Æt. 68]]*
 
-### To <span class="small-caps">Miss Rose Paynter</span>
+#### To <span class="small-caps">Miss Rose Paynter</span>
 
-### [“<span class="small-caps">even the old ones do not dream of death</span>”]
+#### [“<span class="small-caps">even the old ones do not dream of death</span>”]
 
 <span class="small-caps">Bath,</span> September 21st, [1843].
 
@@ -1372,7 +1378,7 @@ W. S. <span class="small-caps">Landor.</span>
 
 ### Letter 57: CHARLES LAMB / C. L. → Robert Southey
 
-### [ÆT. 24]  CHARLES LAMB 1775–1834 To <span class="small-caps">Robert Southey</span> [“<span class="small-caps">poor earth-born companions</span>”]
+#### [ÆT. 24]  CHARLES LAMB<br />1775–1834<br />To <span class="small-caps">Robert Southey</span><br />[“<span class="small-caps">poor earth-born companions</span>”]
 
 March 20th, 1799.
 
@@ -1380,7 +1386,9 @@ March 20th, 1799.
 
 I am hugely pleased with your “Spider,” [^fn-p0108-2] “your old freemason,” as you call him. The first three stanzas are delicious; they seem to me a compound of Burns and Old Quarles, the kind of home-strokes, where more is felt than strikes the ear; a terseness, a jocular pathos, which makes one feel in laughter. The measure, too, is novel and pleasing. I could almost wonder Robert Burns in his lifetime never stumbled upon it. The fourth stanza is less striking, as being less original. The fifth falls off. It has no felicity of phrase, no old-fashioned phrase or feeling.
 
-“Young hopes, and love’s delightful dreams,”
+> **[verse_insert]**
+>
+> “Young hopes, and love’s delightful dreams,”
 
 savour neither of Burns nor Quarles; they seem more like shreds of many a modern sentimental sonnet. The last stanza hath nothing striking in it, if I except the two concluding lines, which are Burns all over. I wish, if you concur with me, these things could be looked to. I am sure this is a kind of writing, which comes ten-fold better recommended to the heart, comes there more like a neighbour or familiar, than thousands of Hamnels, and Zillahs, and Madelons. I beg you will send me the “Holly Tree,” if it at all resemble this, for it must please me. I have never seen it. I love this sort of poems, that open a new intercourse with the most despised of the animal and insect race. I think this vein may be further opened. Peter Pindar hath very prettily apostrophized a fly; Burns hath his mouse and his louse; Coleridge less successfully hath made overtures of intimacy to a jackass, therein only following, at unresembling distance, Sterne, and greater Cervantes. Besides these, I know of no other examples of breaking down the partition between us and our “poor earth-born companions.” It is sometimes revolting to be put in a track of feeling by other people, not one’s own immediate thoughts, else I would persuade you, if I could, (I am in earnest,) to commence a series of these animals’ poems, which might have a tendency to rescue some poor creatures from the antipathy of mankind. Some thoughts came across me: for instance—to a rat, to a toad, to a cockchafer, to a mole. People bake moles alive by a slow oven fire to cure consumption. Rats are, indeed, the most despised and contemptible parts of God’s earth. I killed a rat the other day by punching him to pieces, and feel a weight of blood upon me to this hour. Toads you know are made to fly, and tumble down and crush all to pieces. Cockchafers are old sport. Then again to a worm, with an apostrophe to anglers, those patient tyrants, meek inflictors of pangs intolerable, cool devils; to an owl; to all snakes, with an apology for their poison; to a cat in boots or bladders. Your own fancy, if it takes a fancy to these hints, will suggest many more. A series of such poems, suppose them accompanied with plates descriptive of animal torments, cooks roasting lobsters, fishmongers crimping skates, &c., &c., would take excessively. I will willingly enter into a partnership in the plan with you. I think my heart and soul would go with it too—at least, give it a thought. My plan is but this minute come into my head; but it strikes me instantaneously as something new, good, and useful, full of pleasure, and full of moral. If old Quarles and Wither could live again, we would invite them into our firm. Burns hath done his part.
 
@@ -1394,7 +1402,7 @@ C. L.
 
 > *[Margin: [Æt. 25]*
 
-### To <span class="small-caps">Thomas Manning</span> [<span class="small-caps">an exhibition of snakes</span>]
+#### To <span class="small-caps">Thomas Manning</span><br />[<span class="small-caps">an exhibition of snakes</span>]
 
 Oct. 16th, 1800.
 
@@ -1415,7 +1423,7 @@ C. L.
 
 > *[Margin: [Æt. 25]]*
 
-### To <span class="small-caps">William Wordsworth</span> [<span class="small-caps">London and the Lake Country</span>]
+#### To <span class="small-caps">William Wordsworth</span><br />[<span class="small-caps">London and the Lake Country</span>]
 
 Jan. 30th, 1801.
 
@@ -1433,7 +1441,7 @@ C. L.
 
 > *[Margin: [Æt. 26]]*
 
-### To <span class="small-caps">Walter Wilson</span> <span class="small-caps">[An apology]</span>
+#### To <span class="small-caps">Walter Wilson</span><br /><span class="small-caps">[An apology]</span>
 
 August 14th, 1801.
 
@@ -1452,7 +1460,7 @@ C. <span class="small-caps">Lamb.</span>
 
 > *[Margin: [Æt. 27]]*
 
-### To <span class="small-caps">Thomas Manning</span> [<span class="small-caps">the lake country; coleridge</span>]
+#### To <span class="small-caps">Thomas Manning</span><br />[<span class="small-caps">the lake country; coleridge</span>]
 
 24th Sept., 1802, <span class="small-caps">London.</span>
 
@@ -1466,7 +1474,7 @@ C. <span class="small-caps">Lamb.</span>
 
 > *[Margin: [Æt. 30]*
 
-### To <span class="small-caps">William and Dorothy Wordsworth</span> [<span class="small-caps">the “farewell to tobacco”</span>]
+#### To <span class="small-caps">William and Dorothy Wordsworth</span><br />[<span class="small-caps">the “farewell to tobacco”</span>]
 
 Sept. 28th, 1805.
 
@@ -1488,9 +1496,9 @@ C. <span class="small-caps">Lamb.</span>
 
 > *[Margin: [<span class="small-caps">Æt.</span> 30]]*
 
-### To <span class="small-caps">Thomas Manning</span>
+#### To <span class="small-caps">Thomas Manning</span>
 
-### [“<span class="small-caps">pearls of extraordinary magnitude</span>”]
+#### [“<span class="small-caps">pearls of extraordinary magnitude</span>”]
 
 [Nov. 15, 1805.]
 
@@ -1506,7 +1514,7 @@ C. L.
 
 > *[Margin: [Æt. 31]]*
 
-### To <span class="small-caps">William Wordsworth</span> [*Mr. H.——*]
+#### To <span class="small-caps">William Wordsworth</span><br />[*Mr. H.——*]
 
 December 11th, 1806.
 
@@ -1530,7 +1538,7 @@ C. <span class="small-caps">Lamb</span>.
 
 > *[Margin: [Æt. 40]]*
 
-### To <span class="small-caps">Miss Hutchinson</span> [<span class="small-caps">illness of his sister</span>]
+#### To <span class="small-caps">Miss Hutchinson</span><br />[<span class="small-caps">illness of his sister</span>]
 
 Thursday, 19th Oct., 1815.
 
@@ -1546,7 +1554,7 @@ C. <span class="small-caps">Lamb</span>.
 
 > *[Margin: [Æt. 40]]*
 
-### To <span class="small-caps">Thomas Manning</span> [<span class="small-caps">An Imaginary Flight of Time</span>]
+#### To <span class="small-caps">Thomas Manning</span><br />[<span class="small-caps">An Imaginary Flight of Time</span>]
 
 Dec. 25th, 1815.
 
@@ -1564,7 +1572,7 @@ C. <span class="small-caps">Lamb.</span>
 
 ### Letter 67: C. Lamb → Thomas Manning
 
-### <span class="small-caps">To the Same</span> [<span class="small-caps">correcting the “false nuncio”</span>]
+#### <span class="small-caps">To the Same</span><br />[<span class="small-caps">correcting the “false nuncio”</span>]
 
 Dec. 26th, 1815.
 
@@ -1576,13 +1584,13 @@ God bless you.—Your old friend,
 
 C. <span class="small-caps">Lamb.</span>
 
-> *[Margin: [Æt. 42]]*
-
 ### Letter 68: Ch. Lamb → William Ayrton
 
-### To <span class="small-caps">William Ayrton</span>
+> *[Margin: [Æt. 42]]*
 
-### [<span class="small-caps">a request for opera tickets</span>]
+#### To <span class="small-caps">William Ayrton</span>
+
+#### [<span class="small-caps">a request for opera tickets</span>]
 
 <span class="small-caps">Accountant's Office,</span>  
 <span class="small-caps">East India House,</span>  
@@ -1596,9 +1604,9 @@ I am in your debt for a very delightful evening—I should say two—but Don Gio
 
 ### Letter 69: C. Lamb → William Ayrton
 
-### To <span class="small-caps">the Same</span>
+#### To <span class="small-caps">the Same</span>
 
-### [<span class="small-caps">another request</span>]
+#### [<span class="small-caps">another request</span>]
 
 <span class="small-caps">Temple</span>, 12 May [1817].
 
@@ -1704,7 +1712,7 @@ I am C. <span class="small-caps">Lamb</span>.
 
 > *[Margin: [Æt. 42]]*
 
-### To <span class="small-caps">Charles Chambers</span> [<span class="small-caps">favourite dishes</span>]
+#### To <span class="small-caps">Charles Chambers</span><br />[<span class="small-caps">favourite dishes</span>]
 
 1 Sept., 1817.
 
@@ -1720,7 +1728,7 @@ I am sorry to find that you have got a knack of saying things which are not sure
 
 > *[Margin: [Æt. 47]]*
 
-### To <span class="small-caps">William Wordsworth</span> [<span class="small-caps">the loss of friends</span>]
+#### To <span class="small-caps">William Wordsworth</span><br />[<span class="small-caps">the loss of friends</span>]
 
 March 20th, 1822.
 
@@ -1736,9 +1744,9 @@ C. L.
 
 > *[Margin: [Æt. 47]]*
 
-### To <span class="small-caps">Mr. and Mrs. Bruton</span>
+#### To <span class="small-caps">Mr. and Mrs. Bruton</span>
 
-### [<span class="small-caps">thanks for a pig</span>]
+#### [<span class="small-caps">thanks for a pig</span>]
 
 Twelfth Day, '23.
 
@@ -1764,7 +1772,7 @@ C. <span class="small-caps">Lamb</span>.
 
 > *[Margin: [Æt. 48]]*
 
-### To <span class="small-caps">Miss Hutchinson</span> [<span class="small-caps">Mary Lamb's handwriting</span>]
+#### To <span class="small-caps">Miss Hutchinson</span><br />[<span class="small-caps">Mary Lamb's handwriting</span>]
 
 [April 25, 1823.]
 
@@ -1784,7 +1792,7 @@ It gives me great pleasure (the letter now begins) to hear that you got down so 
 
 > *[Margin: [Æt. 49]*
 
-### To <span class="small-caps">Bernard Barton</span> [<span class="small-caps">WILLIAM BLAKE; LORD BYRON</span>]
+#### To <span class="small-caps">Bernard Barton</span><br />[<span class="small-caps">WILLIAM BLAKE; LORD BYRON</span>]
 
 [Postmark, May 15, 1824.]
 
@@ -1794,8 +1802,10 @@ I am oppressed with business all day and Company all night. But I will snatch a 
 
 > *[Margin: [Æt. 49]*
 
-“Tiger, Tiger, burning bright,  
-Thro’ the desarts of the night” [^fn-p0138-1]
+> **[verse_insert]**
+>
+> “Tiger, Tiger, burning bright,  
+> Thro’ the desarts of the night” [^fn-p0138-1]
 
 which is glorious. But alas! I have not the Book, for the man is flown, whither I know not, to Hades, or a Mad House.—But I must look on him as one of the most extraordinary persons of the age. Montgomery’s Book I have not much hope from. The Society, with the affected name, have been labouring at it for these twenty years, and made few converts. I think it was injudicious to mix stories avowedly colour’d by fiction with the sad true statements from the parliamentary records, &c., but I wish the little Negroes all the good that can come from it. I *ba*tter'd my brains (not butter'd them—but it is a bad *a*) for a few verses for them, but I could make nothing of it. You have been luckier. But Blake's are the flower of the set you will, I am sure, agree, tho' some of Montgomery's at the end are pretty—but the Dream awkwardly paraphras'd from B.
 
@@ -1816,7 +1826,7 @@ Woodbridge, Suffolk.
 
 > *[Margin: [Æt. 50]]*
 
-### To <span class="small-caps">William Wordsworth</span> [<span class="small-caps">his release and pension</span>]
+#### To <span class="small-caps">William Wordsworth</span><br />[<span class="small-caps">his release and pension</span>]
 
 <span class="small-caps">Colebrook Cottage</span>, 6th April, 1825.
 
@@ -1844,9 +1854,9 @@ C. <span class="small-caps">Lamb.</span>
 
 > *[Margin: [Æt. 51]]*
 
-### To J. B. <span class="small-caps">Dibdin</span>
+#### To J. B. <span class="small-caps">Dibdin</span>
 
-### [<span class="small-caps">Dibdin's rainy Sunday</span>]
+#### [<span class="small-caps">Dibdin's rainy Sunday</span>]
 
 An answer is requested.
 
@@ -1869,7 +1879,7 @@ Hastings.
 
 > *[Margin: [Æt. 52]]*
 
-### To P. G. <span class="small-caps">Patmore</span> [<span class="small-caps">after a funeral</span>]
+#### To P. G. <span class="small-caps">Patmore</span><br />[<span class="small-caps">after a funeral</span>]
 
 <span class="small-caps">Londres</span>, Julie 19, 1827.
 
@@ -1905,9 +1915,11 @@ We had a merry passage with the widow at the Commons. She was howling—part how
 
 She'd make a good match for any body (by she I mean the widow).
 
-“If he bring but a *relict* away,  
-He is happy, nor heard to complain.”  
-Shenstone.
+> **[verse_insert]**
+>
+> “If he bring but a *relict* away,  
+> He is happy, nor heard to complain.”  
+> Shenstone.
 
 Proctor has got a wen growing out at the nape of his neck, which his wife wants him to have cut off; but I think it is rather an agreeable excrescence: like his poetry, redundant. Hone has hanged himself for debt. Godwin was taken up for picking pockets. Moxon has fallen in love with Emma, our nut-brown maid. Becky takes to bad courses. Her father was blown up in a steam machine. The coroner found it “insanity.” I should not like him to sit on my letter.
 
@@ -1923,7 +1935,7 @@ C. L.
 
 > *[Margin: [ÆT. 54]]*
 
-### To <span class="small-caps">William Wordsworth</span> [<span class="small-caps">boarding in a village</span>]
+#### To <span class="small-caps">William Wordsworth</span><br />[<span class="small-caps">boarding in a village</span>]
 
 <span class="small-caps">Enfield</span>, Jan. 22nd, 1830.
 
@@ -1939,7 +1951,7 @@ C. L.
 
 > *[Margin: [Æt. 58]]*
 
-### To <span class="small-caps">Mrs. Hazlitt</span> [“<span class="small-caps">a half-way purgatory</span>”]
+#### To <span class="small-caps">Mrs. Hazlitt</span><br />[“<span class="small-caps">a half-way purgatory</span>”]
 
 May 31st, 1833.
 
@@ -1960,7 +1972,7 @@ Mrs. Hazlitt, No. 4, Palace Street, Pimlico.
 
 > *[Margin: [Æt. 58]]*
 
-### To <span class="small-caps">Edward Moxon</span> [<span class="small-caps">Emma Isola's Watch</span>]
+#### To <span class="small-caps">Edward Moxon</span><br />[<span class="small-caps">Emma Isola's Watch</span>]
 
 July 24th, 1833.
 
@@ -1988,7 +2000,7 @@ Edmonton, 24th July, twenty minutes past three by Emma's watch.
 
 > *[Margin: [Æt. 58]]*
 
-### To <span class="small-caps">Mr. and Mrs. Moxon</span> [<span class="small-caps">Mary Lamb at the Wedding of Emma Isola</span>]
+#### To <span class="small-caps">Mr. and Mrs. Moxon</span><br />[<span class="small-caps">Mary Lamb at the Wedding of Emma Isola</span>]
 
 August, 1833.
 
@@ -2005,13 +2017,15 @@ C. L.
 
 I am calm, sober, happy. Turn over for the reason. I got home from Dover Street, by Evans, *half as sober as a judge.* I am turning over a new leaf, as I hope you will now.
 
-[The turn of the leaf presented the following from Mary Lamb:—]
-
-*My dear Emma and Edward Moxon,—*
-
-Accept my sincere congratulations, and imagine more good wishes than my weak nerves will let me put into good set words. The dreary blank of *unanswered questions* which I ventured to ask in vain was cleared up on the wedding day by Mrs. W. taking a glass of wine, and, with a total change of countenance, begging leave to drink Mr. and Mrs. Moxon’s health. It restored me from that moment, as if by an electrical stroke, to the entire possession of my senses. I never felt so calm and quiet after a similar illness as I do now. I feel as if all tears were wiped from my eyes, and all care from my heart.
-
-<span class="small-caps">Mary Lamb.</span>
+> **[enclosure: \[The turn of the leaf presented the following from Mary Lamb:—\]]**
+>
+> [The turn of the leaf presented the following from Mary Lamb:—]
+>
+> *My dear Emma and Edward Moxon,—*
+>
+> Accept my sincere congratulations, and imagine more good wishes than my weak nerves will let me put into good set words. The dreary blank of *unanswered questions* which I ventured to ask in vain was cleared up on the wedding day by Mrs. W. taking a glass of wine, and, with a total change of countenance, begging leave to drink Mr. and Mrs. Moxon’s health. It restored me from that moment, as if by an electrical stroke, to the entire possession of my senses. I never felt so calm and quiet after a similar illness as I do now. I feel as if all tears were wiped from my eyes, and all care from my heart.
+>
+> <span class="small-caps">Mary Lamb.</span>
 
 Wednesday.
 
@@ -2027,7 +2041,7 @@ Never was such a calm, or such a recovery. 'Tis her own words undictated.
 
 > *[Margin: [Æt. 59]*
 
-### To <span class="small-caps">Miss Fryer</span> [“<span class="small-caps">better than the sense and sanity of this world</span>”]
+#### To <span class="small-caps">Miss Fryer</span><br />[“<span class="small-caps">better than the sense and sanity of this world</span>”]
 
 Feb. 14, 1834.
 
@@ -2039,9 +2053,9 @@ Very, very tired! I began this epistle, having been epistolizing all the morning
 
 ### Letter 83: M. Lamb → Mrs. Clarkson
 
-### [Æt. 42] <span class="small-caps">MARY LAMB</span>
+#### [Æt. 42] <span class="small-caps">MARY LAMB</span>
 
-### 1764–1847 <span class="small-caps">To Mrs. Clarkson</span> [<span class="small-caps">the failure of Mr. H——</span>]
+#### 1764–1847<br /><span class="small-caps">To Mrs. Clarkson</span><br />[<span class="small-caps">the failure of Mr. H——</span>]
 
 Tuesday, Decr. 23, 1806.
 
@@ -2077,7 +2091,7 @@ No news of Coleridge lately. I shall rejoice to hear from you, whenever you feel
 
 > *[Margin: [Æt. 53]]*
 
-### To <span class="small-caps">Dorothy Wordsworth</span> [<span class="small-caps">a new home</span>]
+#### To <span class="small-caps">Dorothy Wordsworth</span><br />[<span class="small-caps">a new home</span>]
 
 1817.
 
@@ -2101,7 +2115,7 @@ I am ever yours most affectionately, M. <span class="small-caps">Lamb.</span>
 
 > *[Margin: [Æt. 25]]*
 
-### THOMAS MOORE 1779–1852 To <span class="small-caps">His Mother</span> [<span class="small-caps">A visit to Niagara Falls</span>]
+#### THOMAS MOORE<br />1779–1852<br />To <span class="small-caps">His Mother</span><br />[<span class="small-caps">A visit to Niagara Falls</span>]
 
 <span class="small-caps">Niagara</span>, July 24, 1804.
 
@@ -2113,7 +2127,7 @@ I have seen the Falls, and am all rapture and amazement. I cannot give you a bet
 
 > *[Margin: [Æt. 36]*
 
-### To <span class="small-caps">Samuel Rogers</span> [<span class="small-caps">Moore at work on “Lalla Rookh”</span>]
+#### To <span class="small-caps">Samuel Rogers</span><br />[<span class="small-caps">Moore at work on “Lalla Rookh”</span>]
 
 <span class="small-caps">Mayfield</span>: December 26, 1815.
 
@@ -2129,13 +2143,13 @@ Ever yours, my dear Rogers,
 
 ### Letter 87: W. I. → Peter Irving
 
-### [Æt. 34]  WASHINGTON IRVING
+#### [Æt. 34]  WASHINGTON IRVING
 
-### 1783–1859
+#### 1783–1859
 
-### To <span class="small-caps">His Brother, Peter Irving</span>
+#### To <span class="small-caps">His Brother, Peter Irving</span>
 
-### [<span class="small-caps">A visit to Sir Walter Scott</span>]
+#### [<span class="small-caps">A visit to Sir Walter Scott</span>]
 
 <span class="small-caps">Abbotsford</span>, September 1, 1817.
 
@@ -2163,12 +2177,14 @@ W. I.
 
 > *[Margin: [Æt. 41]]*
 
-### To <span class="small-caps">Thomas Moore</span> [<span class="small-caps">Kenney; Rogers; Lord Byron's "Life"</span>]
+#### To <span class="small-caps">Thomas Moore</span><br />[<span class="small-caps">Kenney; Rogers; Lord Byron's "Life"</span>]
 
 <span class="small-caps">Brighton</span>, August 14, 1824.
 
-My boat is on the shore  
-And my bark is on the sea;
+> **[verse_insert]**
+>
+> My boat is on the shore  
+> And my bark is on the sea;
 
 I forget how the song ends, but here I am at Brighton just on the point of embarking for France. I have dragged myself out of London as a horse drags himself out of the slough or a fly out of a honey pot, almost leaving a limb behind him at every tug. Not that I have been immersed in pleasure and surrounded by sweets, but rather up to the ears in ink and harassed by printers' devils.
 
@@ -2196,9 +2212,9 @@ Yours ever,
 
 > *[Margin: [Æt. 48]]*
 
-### To <span class="small-caps">Mrs. Paris</span>
+#### To <span class="small-caps">Mrs. Paris</span>
 
-### [<span class="small-caps">Christmas festivities; Newstead Abbey</span>]
+#### [<span class="small-caps">Christmas festivities; Newstead Abbey</span>]
 
 <span class="small-caps">Newstead Abbey</span>, Jan. 20, 1832.
 
@@ -2212,13 +2228,13 @@ Ever most affectionately your brother,
 
 W. I.
 
-### Letter 90
+### Letter 90: a Friend [the “hideous incubus” upon his mind]
 
-### [Æt. 60] THOMAS DE QUINCEY
+#### [Æt. 60] THOMAS DE QUINCEY
 
-### 1785–1859
+#### 1785–1859
 
-### <span class="small-caps">To a Friend</span> [<span class="small-caps">the “hideous incubus” upon his mind</span>]
+#### <span class="small-caps">To a Friend</span><br />[<span class="small-caps">the “hideous incubus” upon his mind</span>]
 
 [1845 ?]
 
@@ -2238,7 +2254,7 @@ This long story I have told you, because nothing short of this could explain my 
 
 > *[Margin: [Æt. 32]]*
 
-### BENJAMIN ROBERT HAYDON 1786–1846 To <span class="small-caps">John Keats</span> [<span class="small-caps">recovering Chapman's Homer</span>]
+#### BENJAMIN ROBERT HAYDON<br />1786–1846<br />To <span class="small-caps">John Keats</span><br />[<span class="small-caps">recovering Chapman's Homer</span>]
 
 14th July, 1818. [?]
 
@@ -2256,16 +2272,18 @@ B. R. <span class="small-caps">Haydon</span>.
 
 > *[Margin: [Æt. 35]]*
 
-### To <span class="small-caps">Miss Mitford</span> [“<span class="small-caps">poor dear Keats</span>!”]
+#### To <span class="small-caps">Miss Mitford</span><br />[“<span class="small-caps">poor dear Keats</span>!”]
 
 21st April, 1821.
 
 . . . . Keats was a victim to personal abuse and want of nerve to bear it. Ought he to have sunk in that way because a few quizzers told him that he was an apothecary's apprentice? A genius more purely poetical never existed! In conversation he was nothing, or if anything, weak and inconsistent; he had an exquisite sense of humour, but it was in the fields Keats was in his glory. . . . His ruin was owing to his want of decision of character and power of will, without which genius is a curse. He could not bring his mind to bear on one object, and was at the mercy of every pretty theory Leigh Hunt's ingenuity would suggest. . . . He had a tending to religion when first I knew him, but Leigh Hunt soon forced it from his mind. Never shall I forget Keats once rising from his chair and approaching my last picture (“Entry into Jerusalem”); he went before the portrait of Voltaire, placed his hand on his heart and bowing low
 
-“. . . . In reverence done, as to the power  
-That dwelt within, whose presence had infused  
-Into the plant sciential sap, derived  
-From nectar, drink of gods,”
+> **[verse_insert]**
+>
+> “. . . . In reverence done, as to the power  
+> That dwelt within, whose presence had infused  
+> Into the plant sciential sap, derived  
+> From nectar, drink of gods,”
 
 as Milton says of Eve after she had eaten the apple. “That’s the being to whom I bend,” said he, alluding to the bending of the other figures in the picture, and contrasting Voltaire with our Saviour, and his own adoration to that of the crowd. Leigh Hunt was the great unhinger of his best dispositions. Latterly, Keats saw Leigh Hunt’s weakness. I distrusted his leader, but Keats would not cease to visit him because he thought Hunt illused. This showed Keats’s goodness of heart.
 
@@ -2277,7 +2295,7 @@ The death of his brother wounded him deeply, and it appeared to me from that hou
 
 > *[Margin: [Æt. 37]]*
 
-### To <span class="small-caps">Miss Mitford</span> [<span class="small-caps">a robin</span>]
+#### To <span class="small-caps">Miss Mitford</span><br />[<span class="small-caps">a robin</span>]
 
 7th November, 1823.
 
@@ -2287,7 +2305,7 @@ The death of his brother wounded him deeply, and it appeared to me from that hou
 
 > *[Margin: [Æt. 39]]*
 
-### To <span class="small-caps">Miss Mitford</span> [<span class="small-caps">Coleridge; a sarcophagus; Sir John Soane</span>]
+#### To <span class="small-caps">Miss Mitford</span><br />[<span class="small-caps">Coleridge; a sarcophagus; Sir John Soane</span>]
 
 28th March, 1825.
 
@@ -2305,9 +2323,9 @@ B. R. <span class="small-caps">Haydon.</span>
 
 > *[Margin: [<span class="small-caps">Æt.</span> 40]*
 
-### To <span class="small-caps">Miss Mitford</span>
+#### To <span class="small-caps">Miss Mitford</span>
 
-### [<span class="small-caps">an appreciative butcher</span>]
+#### [<span class="small-caps">an appreciative butcher</span>]
 
 18th August, 1826.
 
@@ -2323,7 +2341,7 @@ So I was told, and to no purpose. I opposed my father, my mother, and my friends
 
 > *[Margin: [Æt. 42]]*
 
-### To <span class="small-caps">Miss Mitford</span> [<span class="small-caps">Experiences at Stratford-on-Avon</span>]
+#### To <span class="small-caps">Miss Mitford</span><br />[<span class="small-caps">Experiences at Stratford-on-Avon</span>]
 
 31st August, 1828.
 
@@ -2339,7 +2357,7 @@ As I returned home, I could not help feeling how short a road is when in pursuit
 
 > *[Margin: [*Æt.* 54]]*
 
-### To <span class="small-caps">His Wife</span> [<span class="small-caps">the tipsy undergraduate</span>]
+#### To <span class="small-caps">His Wife</span><br />[<span class="small-caps">the tipsy undergraduate</span>]
 
 <span class="small-caps">Oxford</span>, 2nd March, 1840.
 
@@ -2351,7 +2369,7 @@ I have learned more of Oxford these last few days than I ever knew before. The u
 
 > *[Margin: [Æt. 26]]*
 
-### LORD BYRON 1788–1824 To <span class="small-caps">Thomas Moore</span> [<span class="small-caps">engagement to Miss Milbanke</span>]
+#### LORD BYRON<br />1788–1824<br />To <span class="small-caps">Thomas Moore</span><br />[<span class="small-caps">engagement to Miss Milbanke</span>]
 
 <span class="small-caps">Newstead Abbey</span>, Sept. 20, 1814.
 
@@ -2376,7 +2394,7 @@ Ever, etc.
 
 > *[Margin: [Æt. 31]*
 
-### To <span class="small-caps">John Murray</span> [“<span class="small-caps">out of sorts, out of nerves</span>”]
+#### To <span class="small-caps">John Murray</span><br />[“<span class="small-caps">out of sorts, out of nerves</span>”]
 
 <span class="small-caps">Bologna</span>, August 24, 1819.
 
@@ -2398,7 +2416,7 @@ B.
 
 > *[Margin: [Æt. 32]]*
 
-### To <span class="small-caps">John Murray</span> [<span class="small-caps">anecdotes of Charles Skinner Matthews</span>]
+#### To <span class="small-caps">John Murray</span><br />[<span class="small-caps">anecdotes of Charles Skinner Matthews</span>]
 
 <span class="small-caps">Ravenna</span>, 9bre 19, 1820.
 
@@ -2416,8 +2434,10 @@ When at Newstead, somebody by accident rubbed against one of his white silk stoc
 
 One of Matthews's passions was “the fancy”; and he sparred uncommonly well. But he always got beaten in rows, or combats with the bare fist. In swimming, too, he swam well; but with *effort* and *labour,* and *too high* out of the water; so that Scrope Davies and myself, of whom he was therein somewhat emulous, always told him that he would be drowned if ever he came to a difficult pass in the water. He was so; but surely Scrope and myself would have been most heartily glad that
 
-“the Dean had lived,  
-And our prediction proved a lie.”
+> **[verse_insert]**
+>
+> “the Dean had lived,  
+> And our prediction proved a lie.”
 
 His head was uncommonly handsome, very like what *Pope's* was in his youth.
 
@@ -2429,8 +2449,10 @@ One evening, after dining together, as we were going to the Opera, I happened to
 
 When Sir Henry Smith was expelled from Cambridge for a row with a tradesman named “Hiron,” Matthews solaced himself with shouting under Hiron’s windows every evening,
 
-“Ah me! what perils do environ  
-The man who meddles with *hot Hiron.*”
+> **[verse_insert]**
+>
+> “Ah me! what perils do environ  
+> The man who meddles with *hot Hiron.*”
 
 He was also of that band of profane scoffers who, under the auspices of . . . , used to rouse Lort Mansel (late Bishop of Bristol) from his slumbers in the lodge of Trinity; and when he appeared at the window foaming with wrath, and crying out, “I know you, gentlemen, I know you!” were wont to reply, “We beseech thee to hear us, good *Lort!—*Good *Lort,* deliver us!” (Lort was his Christian name). As he was very free in his speculations upon all kinds of subjects, although by no means either dissolute or intemperate in his conduct, and as I was no less independent, our conversation and correspondence used to alarm our friend Hobhouse to a considerable degree.
 
@@ -2446,7 +2468,7 @@ B.
 
 > *[Margin: [Æt. 32]]*
 
-### To <span class="small-caps">Thomas Moore</span> [<span class="small-caps">an assassination</span>]
+#### To <span class="small-caps">Thomas Moore</span><br />[<span class="small-caps">an assassination</span>]
 
 <span class="small-caps">Ravenna</span>, Dec. 9, 1820.
 
@@ -2470,7 +2492,7 @@ Yours, etc.
 
 > *[Margin: [Æt. 34]]*
 
-### TO THOMAS MOORE [BURNING SHELLEY'S BODY; “DON JUAN”]
+#### TO THOMAS MOORE<br />[BURNING SHELLEY'S BODY; “DON JUAN”]
 
 <span class="small-caps">Pisa</span>, August 27, 1822.
 
@@ -2494,9 +2516,9 @@ Yours, etc.
 
 ### Letter 103: RICHARD HARRIS BARHAM → Master Edward Barham
 
-### [ÆT. 47] RICHARD HARRIS BARHAM 1788–1845
+#### [ÆT. 47] RICHARD HARRIS BARHAM<br />1788–1845
 
-### To <span class="small-caps">Master Edward Barham (Ætat.</span> 8) [<span class="small-caps">a gift of books</span>]
+#### To <span class="small-caps">Master Edward Barham (Ætat.</span> 8)<br />[<span class="small-caps">a gift of books</span>]
 
 August 17, 1836.
 
@@ -2527,11 +2549,11 @@ R. H. B.
 
 ### Letter 104: PERCY BYSSHE SHELLEY → Elizabeth Hitchener
 
-### [Æt. 19] PERCY BYSSHE SHELLEY
+#### [Æt. 19] PERCY BYSSHE SHELLEY
 
-### 1792–1822
+#### 1792–1822
 
-### To <span class="small-caps">Elizabeth Hitchener</span> [<span class="small-caps">Thomas Jefferson Hogg</span>]
+#### To <span class="small-caps">Elizabeth Hitchener</span><br />[<span class="small-caps">Thomas Jefferson Hogg</span>]
 
 <span class="small-caps">Keswick, Chestnut Hill, Cumberland</span>,  
 [Thursday, 14 November, 1811].
@@ -2569,7 +2591,7 @@ Ever yours, with true devotement and love,
 
 > *[Margin: [Æt. 26]]*
 
-### To <span class="small-caps">Thomas Love Peacock</span> <span class="small-caps">[Lord Byron; Rome]</span>
+#### To <span class="small-caps">Thomas Love Peacock</span><br /><span class="small-caps">[Lord Byron; Rome]</span>
 
 <span class="small-caps">Naples</span>, December 22, 1818.
 
@@ -2596,9 +2618,9 @@ P. B. S.
 
 > *[Margin: [Æt. 27]]*
 
-### To <span class="small-caps">Thomas Medwin</span>
+#### To <span class="small-caps">Thomas Medwin</span>
 
-### [“<span class="small-caps">Prometheus Unbound; the Cenci</span>”]
+#### [“<span class="small-caps">Prometheus Unbound; the Cenci</span>”]
 
 <span class="small-caps">Pisa</span>, July 20, 1820.
 
@@ -2622,9 +2644,9 @@ P. B. S.
 
 > *[Margin: [Æt. 29]]*
 
-### To <span class="small-caps">Leigh Hunt</span>
+#### To <span class="small-caps">Leigh Hunt</span>
 
-### [<span class="small-caps">a proposal concerning a periodical</span>]
+#### [<span class="small-caps">a proposal concerning a periodical</span>]
 
 <span class="small-caps">Pisa</span>, August 26th, 1821.
 
@@ -2642,7 +2664,7 @@ I think I have never told you how very much I like your Amyntas; it almost recon
 
 > *[Margin: [Æt. 29]*
 
-### To <span class="small-caps">Thomas Love Peacock</span> [“<span class="small-caps">Cain; Adonais; Hellas</span>”]
+#### To <span class="small-caps">Thomas Love Peacock</span><br />[“<span class="small-caps">Cain; Adonais; Hellas</span>”]
 
 <span class="small-caps">Pisa</span>, January [probably 11th], 1822.
 
@@ -2664,13 +2686,13 @@ S.
 
 ### Letter 109: WILLIAM CULLEN BRYANT → his Mother
 
-### [Æt. 26] <span class="small-caps">WILLIAM CULLEN BRYANT</span>
+#### [Æt. 26] <span class="small-caps">WILLIAM CULLEN BRYANT</span>
 
-### 1794-1878
+#### 1794-1878
 
-### To <span class="small-caps">his Mother</span>
+#### To <span class="small-caps">his Mother</span>
 
-### [<span class="small-caps">his marriage</span>]
+#### [<span class="small-caps">his marriage</span>]
 
 June, 1821.
 
@@ -2692,9 +2714,9 @@ Your affectionate son,
 
 > *[Margin: [Æt. 37]]*
 
-### To R. H. <span class="small-caps">Dana</span>
+#### To R. H. <span class="small-caps">Dana</span>
 
-### [<span class="small-caps">cholera; journey to illinois</span>]
+#### [<span class="small-caps">cholera; journey to illinois</span>]
 
 <span class="small-caps">New York</span>, October 8, 1832.
 
@@ -2708,7 +2730,7 @@ I have seen the great West, where I ate corn bread and hominy, slept in log hous
 
 > *[Margin: [Æt. 42]]*
 
-### To <span class="small-caps">His Wife</span> [<span class="small-caps">A quarrel between editors</span>]
+#### To <span class="small-caps">His Wife</span><br />[<span class="small-caps">A quarrel between editors</span>]
 
 <span class="small-caps">New York</span>, August 21st, [1837.]
 
@@ -2718,9 +2740,9 @@ My friends, when they meet me, congratulate me on being yet alive. You will ask 
 
 > *[Margin: [Æt. 76]]*
 
-### To <span class="small-caps">Joseph H. Richards</span>
+#### To <span class="small-caps">Joseph H. Richards</span>
 
-### [<span class="small-caps">Bryant's manner of life at seventy-six</span>]
+#### [<span class="small-caps">Bryant's manner of life at seventy-six</span>]
 
 <span class="small-caps">New York</span>, March 30th, 1871.
 
@@ -2738,7 +2760,7 @@ That I may rise early, I, of course, go to bed early; in town as early as ten; i
 
 > *[Margin: [Æt. 44]]*
 
-### THOMAS ARNOLD 1795–1842 To <span class="small-caps">the</span> <span class="small-caps">Rev.</span> G. <span class="small-caps">Cornish</span> [<span class="small-caps">objection to dickens; wordsworth</span>]
+#### THOMAS ARNOLD<br />1795–1842<br />To <span class="small-caps">the</span> <span class="small-caps">Rev.</span> G. <span class="small-caps">Cornish</span><br />[<span class="small-caps">objection to dickens; wordsworth</span>]
 
 Fox How, July 6, 1839.
 
@@ -2750,7 +2772,7 @@ I went up to Oxford to the Commemoration, for the first time for twenty-one year
 
 > *[Margin: [Æt. 44]]*
 
-### To <span class="small-caps">H. Balston</span> [<span class="small-caps">Qualifications of a teacher</span>]
+#### To <span class="small-caps">H. Balston</span><br />[<span class="small-caps">Qualifications of a teacher</span>]
 
 <span class="small-caps">Rugby</span>, November 21, 1839.
 
@@ -2760,7 +2782,7 @@ Another point to which I attach much importance is liveliness. This seems to me 
 
 ### Letter 115: JOHN KEATS → J. H. Reynolds
 
-### [<span class="small-caps">Æt.</span> 21]    JOHN KEATS 1795–1821 To J. H. <span class="small-caps">Reynolds</span> [“<span class="small-caps">i find that i cannot exist without poetry</span>”]
+#### [<span class="small-caps">Æt.</span> 21]    JOHN KEATS<br />1795–1821<br />To J. H. <span class="small-caps">Reynolds</span><br />[“<span class="small-caps">i find that i cannot exist without poetry</span>”]
 
 <span class="small-caps">Carisbrooke</span>, April 17th, 1817.
 
@@ -2770,37 +2792,45 @@ Ever since I wrote to my brother from Southampton, I have been in a taking, and 
 
 The wind is in a sulky fit, and I feel that it would be no bad thing to be the favourite of some Fairy, who would give one the power of seeing how our friends got on at a distance. I should like, of all loves, a sketch of you, and Tom, and George in ink: which Haydon will do if you tell him how I want them. From want of regular rest I have been rather *narvus,* and the passage in Lear, “Do you not hear the sea!” has haunted me intensely.
 
-It keeps eternal whisperings around  
-Desolate shores, and with its mighty swell  
-Gluts twice ten thousand caverns, till the spell  
-Of Hecate leaves them their old shadowy sound.  
-Often ’tis in such gentle temper found,  
-That scarcely will the very smallest shell  
-Be moved for days from whence it sometime fell,  
-When last the winds of heaven were unbound.  
-Oh ye! who have your eye-balls vexed and tired,  
-Feast them upon the wideness of the Sea;  
-Oh ye! whose ears are dinn’d with uproar rude,  
-Or fed too much with cloying melody,—  
-Sit ye near some old cavern’s mouth, and brood  
-Until ye start, as if the sea-nymphs quired!
+> **[verse_insert]**
+>
+> It keeps eternal whisperings around  
+> Desolate shores, and with its mighty swell  
+> Gluts twice ten thousand caverns, till the spell  
+> Of Hecate leaves them their old shadowy sound.  
+> Often ’tis in such gentle temper found,  
+> That scarcely will the very smallest shell  
+> Be moved for days from whence it sometime fell,  
+> When last the winds of heaven were unbound.  
+> Oh ye! who have your eye-balls vexed and tired,  
+> Feast them upon the wideness of the Sea;  
+> Oh ye! whose ears are dinn’d with uproar rude,  
+> Or fed too much with cloying melody,—  
+> Sit ye near some old cavern’s mouth, and brood  
+> Until ye start, as if the sea-nymphs quired!
 
 I’ll tell you what—on the 23rd was Shakespeare born. Now if I should receive a letter from you, and another from my brother on that day, ’twould be a parlous good thing. Whenever you write, say a word or two on some passage in Shakespeare that may have come rather new to you, which must be continually happening, notwithstanding that we read the same play forty times—for instance, the following from the “Tempest” never struck me so forcibly as at present:—
 
-“Urchins  
-Shall, for that vast of night that they may work,  
-All exercise on thee.”
+> **[verse_insert]**
+>
+> “Urchins  
+> Shall, for that vast of night that they may work,  
+> All exercise on thee.”
 
 How can I help bringing to your mind the line—
 
-“In the dark backward and abysm of time.”
+> **[verse_insert]**
+>
+> “In the dark backward and abysm of time.”
 
 I find that I cannot exist without Poetry—without eternal Poetry; I began with a little, but habit has made me a leviathan. I had become all in a tremble from not having written anything of late: the Sonnet over-leaf did me good; I slept the better last night for it; this morning, however, I am nearly as bad again. Just now I opened Spenser, and the first lines I saw were these:—
 
-“The noble heart that harbours virtuous thought,  
-And is with child of glorious great intent,  
-Can never rest until it forth have brought  
-Th’ eternal brood of glory excellent.”
+> **[verse_insert]**
+>
+> “The noble heart that harbours virtuous thought,  
+> And is with child of glorious great intent,  
+> Can never rest until it forth have brought  
+> Th’ eternal brood of glory excellent.”
 
 Let me know particularly about Haydon; ask him to write to me about Hunt, if it be only ten lines. I hope all is well. I shall forthwith begin my “Endymion,” which I hope I shall have got some way into by the time you come, when we will read our verses in a delightful place I have set my heart upon, near the Castle. Give my love to your sisters severally.
 
@@ -2812,7 +2842,7 @@ Your sincere friend,
 
 > *[Margin: [Æt. 21]]*
 
-### To <span class="small-caps">John Taylor</span> [^fn-p0216-1] [“<span class="small-caps">that hydra, the dun</span>”]
+#### To <span class="small-caps">John Taylor</span> [^fn-p0216-1]<br />[“<span class="small-caps">that hydra, the dun</span>”]
 
 <span class="small-caps">Margate</span>, May 16th, 1817.
 
@@ -2830,7 +2860,7 @@ Your obedient servant and friend,
 
 > *[Margin: [Æt. 22]]*
 
-### To J. H. <span class="small-caps">Reynolds</span> <span class="small-caps">[Criticism of Wordsworth]</span>
+#### To J. H. <span class="small-caps">Reynolds</span><br /><span class="small-caps">[Criticism of Wordsworth]</span>
 
 <span class="small-caps">Hampstead</span>, Feb. 3, 1818.
 
@@ -2842,7 +2872,9 @@ In return for your dish of filberts, I have gathered a few catkins. I hope they'
 
 I hope you will like them—they are at least written in the spirit of outlawry. Here are the Mermaid lines:—
 
-Souls of Poets dead and gone. &c.
+> **[verse_insert]**
+>
+> Souls of Poets dead and gone. &c.
 
 In the hope that these scribblings will be some amusement for you this evening, I remain, copying on the hill,
 
@@ -2854,9 +2886,9 @@ Your sincere friend and co-scribbler,
 
 > *[Margin: [<span class="small-caps">Æt.</span> 22]]*
 
-### To <span class="small-caps">Mr. Taylor</span>
+#### To <span class="small-caps">Mr. Taylor</span>
 
-### [<span class="small-caps">poetic axioms; “endymion”</span>]
+#### [<span class="small-caps">poetic axioms; “endymion”</span>]
 
 <span class="small-caps">Hampstead</span>, 27 Feb., [1818.]
 
@@ -2882,9 +2914,9 @@ Your sincere and obliged friend,
 
 > *[Margin: [Æt. 22]]*
 
-### To <span class="small-caps">Mr. Rice</span>
+#### To <span class="small-caps">Mr. Rice</span>
 
-### [<span class="small-caps">Milton and Salmasius</span>]
+#### [<span class="small-caps">Milton and Salmasius</span>]
 
 <span class="small-caps">Teignmouth</span>, 25 March, 1818.
 
@@ -2894,10 +2926,12 @@ Being in the midst of your favourite Devon, I should not, by rights, pen one wor
 
 I went yesterday to Dawlish fair.
 
-“Over the Hill and over the Dale,  
-And over the Bourne to Dawlish,  
-Where ginger-bread wives have a scanty sale,  
-And ginger-bread nuts are smallish,” &c. &c.
+> **[verse_insert]**
+>
+> “Over the Hill and over the Dale,  
+> And over the Bourne to Dawlish,  
+> Where ginger-bread wives have a scanty sale,  
+> And ginger-bread nuts are smallish,” &c. &c.
 
 Your sincere friend,
 
@@ -2907,9 +2941,9 @@ Your sincere friend,
 
 > *[Margin: [Æt. 22]]*
 
-### <span class="small-caps">To Mr. Taylor</span>
+#### <span class="small-caps">To Mr. Taylor</span>
 
-### [“<span class="small-caps">get learning—get understanding</span>”]
+#### [“<span class="small-caps">get learning—get understanding</span>”]
 
 <span class="small-caps">Teignmouth</span>, 27 April, 1818.
 
@@ -2929,7 +2963,7 @@ Your very sincere friend,
 
 > *[Margin: [Æt. 22]]*
 
-### To J. H. <span class="small-caps">Reynolds</span> <span class="small-caps">[on visiting Burns's birthplace]</span>
+#### To J. H. <span class="small-caps">Reynolds</span><br /><span class="small-caps">[on visiting Burns's birthplace]</span>
 
 <span class="small-caps">Maybole</span>, July 11 [1818].
 
@@ -2951,7 +2985,7 @@ Your affectionate friend,
 
 > *[Margin: [Æt. 22]]*
 
-### To <span class="small-caps">Benjamin Bailey</span> [<span class="small-caps">the society of women</span>]
+#### To <span class="small-caps">Benjamin Bailey</span><br />[<span class="small-caps">the society of women</span>]
 
 <span class="small-caps">Inverary</span>, July 18 [1818].
 
@@ -2973,7 +3007,7 @@ Your affectionate friend,
 
 ### Letter 123: John Keats → Mr. Hessey
 
-### [Æt. 22]    To <span class="small-caps">Mr. Hessey</span> [“<span class="small-caps">A severe critic on his own works</span>”]
+#### [Æt. 22]    To <span class="small-caps">Mr. Hessey</span><br />[“<span class="small-caps">A severe critic on his own works</span>”]
 
 9th Oct., 1818
 
@@ -2989,9 +3023,9 @@ Yours very sincerely,
 
 > *[Margin: [Æt. 22]]*
 
-### T<span class="small-caps">o</span> M<span class="small-caps">r.</span> W<span class="small-caps">oodhouse</span>
+#### T<span class="small-caps">o</span> M<span class="small-caps">r.</span> W<span class="small-caps">oodhouse</span>
 
-### [“<span class="small-caps">i am ambitious of doing the world some good</span>”]
+#### [“<span class="small-caps">i am ambitious of doing the world some good</span>”]
 
 [Postmark, H<span class="small-caps">ampstead</span>, 17 Oct., 1818.]
 
@@ -3011,9 +3045,9 @@ Yours most sincerely,
 
 > *[Margin: [Æt. 22]]*
 
-### To <span class="small-caps">George Keats</span>
+#### To <span class="small-caps">George Keats</span>
 
-### [“<span class="small-caps">I think I shall be among the English poets after my death</span>”]
+#### [“<span class="small-caps">I think I shall be among the English poets after my death</span>”]
 
 Oct. 29, 1818.
 
@@ -3035,7 +3069,7 @@ This is my birthday.
 
 > *[Margin: [*Æt.* 23]]*
 
-### To <span class="small-caps">Miss Fanny Brawne</span> [“<span class="small-caps">my uneasy spirits—my unguessed fate</span>”]
+#### To <span class="small-caps">Miss Fanny Brawne</span><br />[“<span class="small-caps">my uneasy spirits—my unguessed fate</span>”]
 
 <span class="small-caps">Winchester</span>, August 17th [1819].
 
@@ -3049,7 +3083,7 @@ What shall I say for myself? I have been here four days and not yet written you�
 
 > *[Margin: [Æt. 23]]*
 
-### To J. H. <span class="small-caps">Reynolds</span> [“<span class="small-caps">the top thing in the world</span>”]
+#### To J. H. <span class="small-caps">Reynolds</span><br />[“<span class="small-caps">the top thing in the world</span>”]
 
 <span class="small-caps">Winchester</span>,  
 August 25, [1819.]
@@ -3068,9 +3102,9 @@ Ever your affectionate friend,
 
 > *[Margin: [Æt. 23]]*
 
-### To J. H. <span class="small-caps">Reynolds</span>
+#### To J. H. <span class="small-caps">Reynolds</span>
 
-### [“<span class="small-caps">Season of mists and mellow fruitfulness</span>”]
+#### [“<span class="small-caps">Season of mists and mellow fruitfulness</span>”]
 
 <span class="small-caps">Winchester</span>,  
 22nd Sept., 1819.
@@ -3083,7 +3117,9 @@ The side streets here are excessively maiden-lady-like; the door-steps always fr
 
 How beautiful the season is now. How fine the air—a temperate sharpness about it. Really, without joking, chaste weather—Dian skies. I never liked stubble-fields so much as now—aye, better than the chilly green of the Spring. Somehow, a stubble plain looks warm, in the same way that some pictures look warm. This struck me so much in my Sunday's walk that I composed upon it.
 
-“Season of mists and mellow fruitfulness,” &c.
+> **[verse_insert]**
+>
+> “Season of mists and mellow fruitfulness,” &c.
 
 I hope you are better employed than in gazing after weather. I have been, at different times, so happy as not to know what weather it was. No, I will not copy a parcel of verses. I always somehow associate Chatterton with Autumn. He is the purest writer in the English language. He has no French idiom or particles, like Chaucer; 'tis genuine English idiom in English words. I have given up “Hyperion”—there were too many Miltonic inversions in it—Miltonic verse cannot be written but in an artful, or, rather, artist's humour. I wish to give myself up to other sensations. English ought to be kept up. It may be interesting to you to pick out some lines from “Hyperion,” and put a mark, †, to the false beauty, proceeding from art, and one, ||, to the true voice of feeling. Upon my soul, 'twas imagination; I cannot make the distinction—every now and then there is a Miltonic intonation—but I cannot make the division properly. . . .
 
@@ -3095,7 +3131,7 @@ Ever your affectionate friend,
 
 > *[Margin: [Æt. 27]]*
 
-### THOMAS CARLYLE 1795–1881 <span class="small-caps">To Jane Welsh</span> [<span class="small-caps">a visit in prospect</span>]
+#### THOMAS CARLYLE<br />1795–1881<br /><span class="small-caps">To Jane Welsh</span><br />[<span class="small-caps">a visit in prospect</span>]
 
 3, <span class="small-caps">Moray Street</span>, [<span class="small-caps">Edin.</span>] 17 April, 1823.
 
@@ -3123,9 +3159,9 @@ What a *preux chevalier* your *Teutscher*[^fn-p0239-1] was!
 
 > *[Margin: [Æt. 29]]*
 
-### To <span class="small-caps">Alexander Carlyle</span>
+#### To <span class="small-caps">Alexander Carlyle</span>
 
-### [<span class="small-caps">“Life of Schiller;” London a Babel and a Wen</span>]
+#### [<span class="small-caps">“Life of Schiller;” London a Babel and a Wen</span>]
 
 23 <span class="small-caps">Southampton Street</span>,  
 <span class="small-caps">Pentonville</span>, 14th December, 1824.
@@ -3154,7 +3190,7 @@ T. <span class="small-caps">Carlyle.</span>
 
 > *[Margin: [Æt. 33]]*
 
-### To <span class="small-caps">Thomas De Quincey</span> [<span class="small-caps">life at craigenputtock</span>]
+#### To <span class="small-caps">Thomas De Quincey</span><br />[<span class="small-caps">life at craigenputtock</span>]
 
 <span class="small-caps">Craigenputtock</span>, 11th December, 1828.
 
@@ -3174,7 +3210,7 @@ T. <span class="small-caps">Carlyle.</span>
 
 > *[Margin: [Æt. 38]*
 
-### To <span class="small-caps">Dr. Carlyle</span> <span class="small-caps">[settling down at chelsea]</span>
+#### To <span class="small-caps">Dr. Carlyle</span><br /><span class="small-caps">[settling down at chelsea]</span>
 
 <span class="small-caps">Cheyne Row, Chelsea, London</span>,  
 17th June, 1834.
@@ -3195,7 +3231,7 @@ T. <span class="small-caps">Carlyle.</span>
 
 > *[Margin: [Æt. 39]*
 
-### To <span class="small-caps">Dr. Carlyle</span>
+#### To <span class="small-caps">Dr. Carlyle</span>
 
 [<span class="small-caps">the burning of the “french revolution” ms.</span>]
 
@@ -3214,7 +3250,7 @@ Our visitors and visitings are what I cannot give you account of this time: not 
 
 > *[Margin: [Æt. 41]]*
 
-### To <span class="small-caps">John Carlyle</span> [<span class="small-caps">lecturing; a postscript by Jane Welsh Carlyle</span>]
+#### To <span class="small-caps">John Carlyle</span><br />[<span class="small-caps">lecturing; a postscript by Jane Welsh Carlyle</span>]
 
 <span class="small-caps">Chelsea</span>, May 30, 1837.
 
@@ -3232,7 +3268,7 @@ My own health is not fundamentally hurt. Rest will cure me. I must be a toughish
 
 > *[Margin: [Æt. 42]]*
 
-### To <span class="small-caps">Emerson</span> [^fn-p0258-1]
+#### To <span class="small-caps">Emerson</span> [^fn-p0258-1]
 
 [<span class="small-caps">Weariness; Sterling; Emerson's “clear high melody”</span>]
 
@@ -3256,7 +3292,7 @@ T. <span class="small-caps">Carlyle.</span>
 
 > *[Margin: [Æt. 45]*
 
-### To <span class="small-caps">Henry W. Longfellow</span> [“<span class="small-caps">the infinite hubbub of cockney thoughts</span>”]
+#### To <span class="small-caps">Henry W. Longfellow</span><br />[“<span class="small-caps">the infinite hubbub of cockney thoughts</span>”]
 
 <span class="small-caps">Chelsea, London</span>, December, 1840.
 
@@ -3276,7 +3312,7 @@ T. <span class="small-caps">Carlyle.</span>
 
 > *[Margin: [Æt. 21]]*
 
-### JANE WELSH CARLYLE 1801-1866 To <span class="small-caps">Thomas Carlyle</span> [“<span class="small-caps">your friendship restored me to myself</span>”]
+#### JANE WELSH CARLYLE<br />1801-1866<br />To <span class="small-caps">Thomas Carlyle</span><br />[“<span class="small-caps">your friendship restored me to myself</span>”]
 
 <span class="small-caps">Haddington</span>, 11th November, 1822.
 
@@ -3288,7 +3324,7 @@ If ever I succeed in distinguishing myself above the common herd of little Misse
 
 > *[Margin: [Æt. 22]*
 
-### To <span class="small-caps">Thomas Carlyle</span> <span class="small-caps">[Reconciliation; avoiding callers]</span>
+#### To <span class="small-caps">Thomas Carlyle</span><br /><span class="small-caps">[Reconciliation; avoiding callers]</span>
 
 <span class="small-caps">Haddington</span>, Sunday, 14 March, 1824.
 
@@ -3308,7 +3344,7 @@ Devotedly yours,
 
 > *[Margin: [Æt. 22]]*
 
-### To <span class="small-caps">Thomas Carlyle</span> [“<span class="small-caps">hope deferred</span>”; <span class="small-caps">Lord Byron</span>]
+#### To <span class="small-caps">Thomas Carlyle</span><br />[“<span class="small-caps">hope deferred</span>”; <span class="small-caps">Lord Byron</span>]
 
 <span class="small-caps">Haddington</span>, 20th May, 1824.
 
@@ -3330,9 +3366,9 @@ Yours forever affectionately,
 
 > *[Margin: [Æt. 25]]*
 
-### To <span class="small-caps">Mrs. George Welsh</span>
+#### To <span class="small-caps">Mrs. George Welsh</span>
 
-### [“<span class="small-caps">one who holds his patent of nobility from almighty god</span>”]
+#### [“<span class="small-caps">one who holds his patent of nobility from almighty god</span>”]
 
 <span class="small-caps">Templand,</span> 1st October, 1826.
 
@@ -3346,7 +3382,7 @@ Such then is this future Husband of mine; not a *great* man according to the mos
 
 > *[Margin: [Æt. 44]]*
 
-### To <span class="small-caps">Thomas Carlyle</span> [<span class="small-caps">an evening party</span>]
+#### To <span class="small-caps">Thomas Carlyle</span><br />[<span class="small-caps">an evening party</span>]
 
 <span class="small-caps">Liverpool</span>, Saturday, Aug. 16, 1845.
 
@@ -3368,7 +3404,7 @@ J. C.
 
 > *[Margin: [Æt. 44]]*
 
-### To <span class="small-caps">Thomas Carlyle</span> <span class="small-caps">[Dickens as Bobadil; Tennyson]</span>
+#### To <span class="small-caps">Thomas Carlyle</span><br /><span class="small-caps">[Dickens as Bobadil; Tennyson]</span>
 
 Tuesday, Sept. 23, 1845.
 
@@ -3388,7 +3424,7 @@ J. C.
 
 > *[Margin: [Æt. 51]]*
 
-### To <span class="small-caps">Thomas Carlyle</span> [<span class="small-caps">Plumbers, Carpenters, and Bricklayers</span>]
+#### To <span class="small-caps">Thomas Carlyle</span><br />[<span class="small-caps">Plumbers, Carpenters, and Bricklayers</span>]
 
 5 <span class="small-caps">Cheyne Row</span>:  
 Friday night, July 24, 1852.
@@ -3419,9 +3455,9 @@ Ever yours,
 
 J. W. C.
 
-### Letter 144: Jane Welsh Carlyle
+### Letter 144: Jane Welsh Carlyle → a Friend [on baking bread]
 
-### <span class="small-caps">To a Friend</span> [<span class="small-caps">on baking bread</span>]
+#### <span class="small-caps">To a Friend</span><br />[<span class="small-caps">on baking bread</span>]
 
 January 11, 1857.
 
@@ -3443,7 +3479,7 @@ I cannot express what consolation this germ of an idea spread over my uncongenia
 
 > *[Margin: [Æt. 43]]*
 
-### THOMAS HOOD 1799–1845 To <span class="small-caps">Charles Dickens</span> [<span class="small-caps">an american friend</span>]
+#### THOMAS HOOD<br />1799–1845<br />To <span class="small-caps">Charles Dickens</span><br />[<span class="small-caps">an american friend</span>]
 
 17, <span class="small-caps">Elm Tree Road, London</span>,  
 Oct. 12th, 1842.
@@ -3465,7 +3501,7 @@ Do you want a motto for your book? Coleridge in his Pantisocracy days, used freq
 
 > *[Margin: [Æt. 45]]*
 
-### <span class="small-caps">To a Child (May Elliot)</span> [<span class="small-caps">at the seaside</span>]
+#### <span class="small-caps">To a Child (May Elliot)</span><br />[<span class="small-caps">at the seaside</span>]
 
 <span class="small-caps">Devonshire Lodge, New Finchley Road,</span>  
 July 1st, 1844.
@@ -3488,11 +3524,11 @@ And now good bye, Fanny has made my tea, and I must drink it before it gets too 
 
 ### Letter 147: R. C. → Sallie
 
-### RUFUS CHOATE 1799–1859
+#### RUFUS CHOATE<br />1799–1859
 
-### <span class="small-caps">To His Daughter</span>
+#### <span class="small-caps">To His Daughter</span>
 
-### [<span class="small-caps">news about himself</span>]
+#### [<span class="small-caps">news about himself</span>]
 
 Monday, August, 1853.
 
@@ -3506,11 +3542,11 @@ Thank your dear mother and Rufus for their letters. I hope for Minnie a neck wit
 
 R. C.
 
-### Letter 148: T. B. M.
+### Letter 148: T. B. M. → his Father [Sydney Smith]
 
 > *[Margin: [Æt. 25]]*
 
-### THOMAS BABINGTON MACAULAY 1800–1859 To <span class="small-caps">his Father</span> [<span class="small-caps">Sydney Smith</span>]
+#### THOMAS BABINGTON MACAULAY<br />1800–1859<br />To <span class="small-caps">his Father</span><br />[<span class="small-caps">Sydney Smith</span>]
 
 <span class="small-caps">York</span>, July 21st, 1826.
 
@@ -3524,7 +3560,7 @@ T. B. M.
 
 > *[Margin: [Æt. 35]]*
 
-### To <span class="small-caps">Thomas Flower Ellis</span> [<span class="small-caps">life in India; reading the classics</span>]
+#### To <span class="small-caps">Thomas Flower Ellis</span><br />[<span class="small-caps">life in India; reading the classics</span>]
 
 <span class="small-caps">Calcutta</span>, May 30th, 1836.
 
@@ -3536,8 +3572,10 @@ One execrable effect the climate produces. It destroys all the works of man with
 
 We have been for some months in the middle of what the people here think a political storm. To a person accustomed to the hurricanes of English faction this sort of tempest in a horse-pond is merely ridiculous. We have put the English settlers up the country under the exclusive jurisdiction of the company's courts in civil actions in which they are concerned with natives. The English settlers are perfectly contented; but the lawyers of the Supreme Court have set up a yelp which they think terrible, and which has infinitely diverted me. They have selected me as the object of their invectives, and I am generally the theme of five or six.columns of prose and verse daily. I have not patience to read a tenth part of what they put forth. The last ode in my praise which I perused began,
 
-Soon we hope they will recall ye,  
-Tom Macaulay, Tom Macaulay.
+> **[verse_insert]**
+>
+> Soon we hope they will recall ye,  
+> Tom Macaulay, Tom Macaulay.
 
 The last prose which I read was a parallel between me and Lord Strafford.
 
@@ -3557,7 +3595,7 @@ T. B. <span class="small-caps">Macaulay</span>.
 
 > *[Margin: [Æt. 41]]*
 
-### <span class="small-caps">To Macvey Napier</span> [<span class="small-caps">A defence of his diction</span>]
+#### <span class="small-caps">To Macvey Napier</span><br />[<span class="small-caps">A defence of his diction</span>]
 
 <span class="small-caps">Albany, London</span>, April 18th, 1842.
 
@@ -3581,7 +3619,7 @@ T. B. <span class="small-caps">Macaulay.</span>
 
 ### Letter 151: John H. Newman → J. B. Mozley
 
-### [Æt. 44] JOHN HENRY NEWMAN 1801–1890 To J. B. <span class="small-caps">Mozley</span> [“<span class="small-caps">complicated distress</span>”]
+#### [Æt. 44] JOHN HENRY NEWMAN<br />1801–1890<br />To J. B. <span class="small-caps">Mozley</span><br />[“<span class="small-caps">complicated distress</span>”]
 
 <span class="small-caps">Littlemore</span>: April 2, 1845.
 
@@ -3601,11 +3639,11 @@ Ever yours most affectionately,
 
 <span class="small-caps">John H. Newman.</span>
 
-> *[Margin: [Æt. 44]]*
-
 ### Letter 152: John H. Newman → Mrs. J. Mozley
 
-### To <span class="small-caps">Mrs. J. Mozley</span> [^fn-p0289-1] [<span class="small-caps">becoming a roman catholic</span>]
+> *[Margin: [Æt. 44]]*
+
+#### To <span class="small-caps">Mrs. J. Mozley</span> [^fn-p0289-1]<br />[<span class="small-caps">becoming a roman catholic</span>]
 
 <span class="small-caps">Littlemore</span>, October 8, 1845.
 
@@ -3625,7 +3663,7 @@ Ever yours affectionately,
 
 > *[Margin: [Æt. 77]]*
 
-### To <span class="small-caps">Dr. Greenhill</span> [“<span class="small-caps">a statute of limitation</span>”]
+#### To <span class="small-caps">Dr. Greenhill</span><br />[“<span class="small-caps">a statute of limitation</span>”]
 
 January 18, 1879.
 
@@ -3639,7 +3677,7 @@ Yours most truly,
 
 ### Letter 154: R. Waldo Emerson → Mary Moody Emerson
 
-### [Æt. 9] RALPH WALDO EMERSON 1803–1882 <span class="small-caps">To His Aunt, Mary Moody Emerson</span> [<span class="small-caps">a boy's day</span>]
+#### [Æt. 9] RALPH WALDO EMERSON<br />1803–1882<br /><span class="small-caps">To His Aunt, Mary Moody Emerson</span><br />[<span class="small-caps">a boy's day</span>]
 
 <span class="small-caps">Boston</span>, April 16, 1813.
 
@@ -3653,7 +3691,7 @@ R. <span class="small-caps">Waldo Emerson.</span>
 
 > *[Margin: [Æt. 34]]*
 
-### To <span class="small-caps">Carlyle</span> <span class="small-caps">[Sterling; “the French Revolution” in America]</span>
+#### To <span class="small-caps">Carlyle</span><br /><span class="small-caps">[Sterling; “the French Revolution” in America]</span>
 
 <span class="small-caps">Concord</span>, 9 February, 1838.
 
@@ -3673,7 +3711,7 @@ R. W. <span class="small-caps">Emerson.</span>
 
 > *[Margin: [Æt. 44]]*
 
-### To <span class="small-caps">His Wife</span> [<span class="small-caps">staying with the Carlyles</span>]
+#### To <span class="small-caps">His Wife</span><br />[<span class="small-caps">staying with the Carlyles</span>]
 
 <span class="small-caps">Chelsea, London</span>, October 27, 1847.
 
@@ -3693,7 +3731,7 @@ Ever affectionately yours,
 
 ### Letter 157: Nath. Hawthorne → his Sister
 
-### [Æt. 36] NATHANIEL HAWTHORNE 1804–1864 To <span class="small-caps">his</span> Sister [<span class="small-caps">Brook farm news</span>]
+#### [Æt. 36] NATHANIEL HAWTHORNE<br />1804–1864<br />To <span class="small-caps">his</span> Sister<br />[<span class="small-caps">Brook farm news</span>]
 
 <span class="small-caps">Brook Farm, West Roxbury,</span> May 3, 1841.
 
@@ -3711,7 +3749,7 @@ We shall be very much occupied during most of this month, ploughing and planting
 
 > *[Margin: [*Æt.* 49]]*
 
-### To G. S. <span class="small-caps">Hillard</span> [“<span class="small-caps">THE MISERABLE PINCH IS OVER</span>”]
+#### To G. S. <span class="small-caps">Hillard</span><br />[“<span class="small-caps">THE MISERABLE PINCH IS OVER</span>”]
 
 <span class="small-caps">Liverpool</span>, Dec. 9, 1853.
 
@@ -3725,13 +3763,13 @@ The friends who were so generous to me must not suppose that I have not felt dee
 
 ### Letter 159: N. P. Willis → Miss Mitford
 
-### [Æt. 29] NATHANIEL PARKER WILLIS
+#### [Æt. 29] NATHANIEL PARKER WILLIS
 
-### 1806–1867
+#### 1806–1867
 
-### To <span class="small-caps">Miss Mitford</span>
+#### To <span class="small-caps">Miss Mitford</span>
 
-### [“<span class="small-caps">Steeped to the lips in London society</span>”]
+#### [“<span class="small-caps">Steeped to the lips in London society</span>”]
 
 <span class="small-caps">Athenæum, London</span>, April 22, 1835.
 
@@ -3751,7 +3789,7 @@ N. P. <span class="small-caps">Willis</span>.
 
 > *[Margin: [Æt. 25]]*
 
-### JOHN STERLING 1806–1844 To <span class="small-caps">his Mother</span> [<span class="small-caps">A hurricane in the West Indies</span>]
+#### JOHN STERLING<br />1806–1844<br />To <span class="small-caps">his Mother</span><br />[<span class="small-caps">A hurricane in the West Indies</span>]
 
 <span class="small-caps">Brighton, St. Vincent</span>,  
 28th August, 1831.
@@ -3786,9 +3824,9 @@ Your grateful and affectionate,
 
 > *[Margin: [Æt. 32]]*
 
-### HENRY WADSWORTH LONGFELLOW 1807–1882
+#### HENRY WADSWORTH LONGFELLOW<br />1807–1882
 
-### To <span class="small-caps">George W. Green</span> [“<span class="small-caps">hyperion</span>”; <span class="small-caps">doings of authors</span>]
+#### To <span class="small-caps">George W. Green</span><br />[“<span class="small-caps">hyperion</span>”; <span class="small-caps">doings of authors</span>]
 
 July 23, 1839.
 
@@ -3802,7 +3840,7 @@ I have written a Romance during this past year. The *feelings* of the book are t
 
 > *[Margin: [Æt. 33]*
 
-### To <span class="small-caps">his Father</span> [<span class="small-caps">the brook farm experiment</span>]
+#### To <span class="small-caps">his Father</span><br />[<span class="small-caps">the brook farm experiment</span>]
 
 October 18, 1840.
 
@@ -3812,7 +3850,7 @@ Since I last wrote you, sundry novelties have appeared in this quarter of the wo
 
 > *[Margin: [Æt. 42]*
 
-### <span class="small-caps">To Charles Eliot Norton</span> [<span class="small-caps">news for india from new england</span>]
+#### <span class="small-caps">To Charles Eliot Norton</span><br />[<span class="small-caps">news for india from new england</span>]
 
 February 5, 1850.
 
@@ -3824,7 +3862,7 @@ And now, dear C., *Namaraskam! Sashtangam!* and whatever may be the Hindoo for �
 
 > *[Margin: [Æt. 52]*
 
-### T<span class="small-caps">o</span> E<span class="small-caps">mily</span> A—— [<span class="small-caps">his children</span>]
+#### T<span class="small-caps">o</span> E<span class="small-caps">mily</span> A——<br />[<span class="small-caps">his children</span>]
 
 N<span class="small-caps">ahant</span>, August 18, 1859.
 
@@ -3836,7 +3874,7 @@ The second is Edith, with blue eyes and beautiful golden locks which I sometimes
 
 > *[Margin: [Æt. 53]*
 
-### <span class="small-caps">To James T. Fields</span> <span class="small-caps">[A folio from a lady]</span>
+#### <span class="small-caps">To James T. Fields</span><br /><span class="small-caps">[A folio from a lady]</span>
 
 <span class="small-caps">Cambridge</span>, September 20, 1860.
 
@@ -3846,7 +3884,7 @@ I have no end of poems sent me for “candid judgment” and opinion. Four are o
 
 > *[Margin: [Æt. 53]*
 
-### <span class="small-caps">To James T. Fields</span> <span class="small-caps">[An umbrella for lending]</span>
+#### <span class="small-caps">To James T. Fields</span><br /><span class="small-caps">[An umbrella for lending]</span>
 
 March 3, 1863.
 
@@ -3859,13 +3897,15 @@ Yours truly.
 
 > *[Margin: [Æt. 57]]*
 
-### To <span class="small-caps">George W. Greene</span> [<span class="small-caps">Dante’s “Inferno”</span>]
+#### To <span class="small-caps">George W. Greene</span><br />[<span class="small-caps">Dante’s “Inferno”</span>]
 
 March 25, 1864.
 
 This is a lovely day, as you are well aware. Moreover, it is Good Friday, as you are equally well aware; and leaving aside the deeper meaning of the day, I will tell you something of which I suspect you are not aware. Have you remembered, or noticed, that the days and dates of 1864 correspond with those of the Dantesque 1300?—so that in both years Good Friday falls on the 25th of March. Five hundred and sixty-four years ago to-day, Dante descended to the *città dolente;* and to-day, with the first two cantos of the *Inferno* in my hand, I descended among the printers’ devils,—the *malebolge* of the University Press. Is it a good omen? I know not. But something urges me on and on and on with this work, and will not let me rest; though I often hear the warning voice from within,—
 
-Me degno a ciò nè io nè altri crede.
+> **[verse_insert]**
+>
+> Me degno a ciò nè io nè altri crede.
 
 Did you ever notice the beautiful and endless aspiration so artistically and silently suggested by Dante in closing each part of his poem with the word *stelle?* Did any Italian commentator ever find it out? Among English translators, I believe Cayley was the first to remark it.
 
@@ -3873,9 +3913,9 @@ Did you ever notice the beautiful and endless aspiration so artistically and sil
 
 > *[Margin: [Æt. 58]]*
 
-### JOHN GREENLEAF WHITTIER 1807–1892
+#### JOHN GREENLEAF WHITTIER<br />1807–1892
 
-### To <span class="small-caps">Lucy Larcom</span> [<span class="small-caps">declining an invitation</span>]
+#### To <span class="small-caps">Lucy Larcom</span><br />[<span class="small-caps">declining an invitation</span>]
 
 25th 3d mo., 1866.
 
@@ -3937,7 +3977,7 @@ We still may keep the good old plank, of simple faith
 
 > *[Margin: [Æt. 59]]*
 
-### TO <span class="small-caps">James T. Fields</span> [“<span class="small-caps">snow-bound</span>”]
+#### TO <span class="small-caps">James T. Fields</span><br />[“<span class="small-caps">snow-bound</span>”]
 
 [1866?]
 
@@ -3947,7 +3987,7 @@ I thank thee for looking over my poem. I have acted as well as I could on thy hi
 
 > *[Margin: [Æt. 77]]*
 
-### To <span class="small-caps">Annie Fields</span> [“<span class="small-caps">the survivors of a lost crew</span>”]
+#### To <span class="small-caps">Annie Fields</span><br />[“<span class="small-caps">the survivors of a lost crew</span>”]
 
 10th mo., 2, 1885.
 
@@ -3955,7 +3995,7 @@ I have been thinking of thy gracious and generous proposal of hospitality. It ha
 
 ### Letter 171: Edgar A. Poe → F. W. Thomas / J. E. Dow
 
-### [Æt. 34]    EDGAR ALLAN POE 1809–1849 To F. W. <span class="small-caps">Thomas and</span> J. E. <span class="small-caps">Dow</span> [“<span class="small-caps">spreeing upon an extensive scale</span>”]
+#### [Æt. 34]    EDGAR ALLAN POE<br />1809–1849<br />To F. W. <span class="small-caps">Thomas and</span> J. E. <span class="small-caps">Dow</span><br />[“<span class="small-caps">spreeing upon an extensive scale</span>”]
 
 <span class="small-caps">Philadelphia</span>, March 16, 1843.
 
@@ -3979,9 +4019,9 @@ And now, my dear friends, good-by, and believe me most truly yours,
 
 > *[Margin: [Æt. 34]*
 
-### <span class="small-caps">To James Russell Lowell</span>
+#### <span class="small-caps">To James Russell Lowell</span>
 
-### [<span class="small-caps">long poems prosaic</span>]
+#### [<span class="small-caps">long poems prosaic</span>]
 
 <span class="small-caps">Philadelphia</span>, October 19, 1843.
 
@@ -4009,7 +4049,7 @@ Your most sincere friend,
 
 > *[Margin: [Æt. 35]*
 
-### To <span class="small-caps">Mrs. Clemm</span> [<span class="small-caps">arrival in new york</span>]
+#### To <span class="small-caps">Mrs. Clemm</span><br />[<span class="small-caps">arrival in new york</span>]
 
 <span class="small-caps">New York</span>, Sunday Morning,  
 April 7, just after breakfast, [1844.]
@@ -4026,11 +4066,11 @@ Be sure and take home the “Messenger” to Hirst. We hope to send for you *ver
 
 > *[Margin: [Æt. 53]]*
 
-### ABRAHAM LINCOLN 1809–1865
+#### ABRAHAM LINCOLN<br />1809–1865
 
-### To <span class="small-caps">General Hooker</span>
+#### To <span class="small-caps">General Hooker</span>
 
-### [“<span class="small-caps">what i now ask of you is military success</span>”]
+#### [“<span class="small-caps">what i now ask of you is military success</span>”]
 
 <span class="small-caps">Executive Mansion, Washington, D. C.</span>,  
 January 26, 1863.
@@ -4047,7 +4087,7 @@ A. <span class="small-caps">Lincoln</span>.
 
 > *[Margin: [Æt. 55]]*
 
-### <span class="small-caps">To General</span> U. S. <span class="small-caps">Grant</span> [<span class="small-caps">expression of confidence</span>]
+#### <span class="small-caps">To General</span> U. S. <span class="small-caps">Grant</span><br />[<span class="small-caps">expression of confidence</span>]
 
 <span class="small-caps">Executive Mansion, Washington</span>,  
 April 30, 1864.
@@ -4064,7 +4104,7 @@ A. <span class="small-caps">Lincoln</span>.
 
 > *[Margin: [Æt. 55]]*
 
-### <span class="small-caps">To Mrs. Bixby</span> [“<span class="small-caps">the thanks of the republic</span>”]
+#### <span class="small-caps">To Mrs. Bixby</span><br />[“<span class="small-caps">the thanks of the republic</span>”]
 
 <span class="small-caps">Executive Mansion, Washington</span>,  
 November 21, 1864.
@@ -4081,7 +4121,7 @@ Yours very sincerely and respectfully,
 
 > *[Margin: [Æt. 25]]*
 
-### EDWARD FITZGERALD 1809–1883 To <span class="small-caps">W. B. Donne</span> [<span class="small-caps">Shakespeare; Life of Coleridge</span>]
+#### EDWARD FITZGERALD<br />1809–1883<br />To <span class="small-caps">W. B. Donne</span><br />[<span class="small-caps">Shakespeare; Life of Coleridge</span>]
 
 [<span class="small-caps">London, 17 Gloucester Street, Queen Square</span>]  
 1834.
@@ -4100,9 +4140,9 @@ To fill up my letter I send you a sonnet of C. Lamb's, out of his Album Verses�
 
 > *[Margin: [Æt. 26]]*
 
-### To <span class="small-caps">John Allen</span>
+#### To <span class="small-caps">John Allen</span>
 
-### [<span class="small-caps">Tennyson at Ambleside; old divines</span>]
+#### [<span class="small-caps">Tennyson at Ambleside; old divines</span>]
 
 <span class="small-caps">Manchester</span>, May 23, 1835.
 
@@ -4118,7 +4158,7 @@ I beg you to give my best remembrances to your lady, who may be always sure that
 
 > *[Margin: [*Æt.* 26]]*
 
-### To <span class="small-caps">John Allen</span> [<span class="small-caps">the poor laws; southey's</span> “<span class="small-caps">cowper</span>”]
+#### To <span class="small-caps">John Allen</span><br />[<span class="small-caps">the poor laws; southey's</span> “<span class="small-caps">cowper</span>”]
 
 <span class="small-caps">Boulge Hall, Woodbridge,</span>  
 October 31, 1835.
@@ -4135,9 +4175,9 @@ Pray do write to me: a few lines soon are better than a three-decker a month hen
 
 > *[Margin: [Æt. 29]]*
 
-### To <span class="small-caps">Bernard Barton</span>
+#### To <span class="small-caps">Bernard Barton</span>
 
-### [<span class="small-caps">Carlyle's “French Revolution”; Tennyson</span>]
+#### [<span class="small-caps">Carlyle's “French Revolution”; Tennyson</span>]
 
 <span class="small-caps">London</span>, April, 1838.
 
@@ -4158,7 +4198,7 @@ E. <span class="small-caps">FitzGerald.</span>
 
 > *[Margin: [Æt. 31]]*
 
-### To W. H. <span class="small-caps">Thompson</span> [<span class="small-caps">“Carlyle’s raving book about heroes”</span>]
+#### To W. H. <span class="small-caps">Thompson</span><br />[<span class="small-caps">“Carlyle’s raving book about heroes”</span>]
 
 <span class="small-caps">Boulge Hall, Woodbridge</span>,  
 March 26, ’41.
@@ -4171,7 +4211,7 @@ March 26, ’41.
 
 > *[Margin: [Æt. 33]]*
 
-### To <span class="small-caps">Bernard Barton</span> [<span class="small-caps">Naseby battle-field</span>]
+#### To <span class="small-caps">Bernard Barton</span><br />[<span class="small-caps">Naseby battle-field</span>]
 
 [<span class="small-caps">Naseby</span>], Septr. 22, ’42.
 
@@ -4187,7 +4227,7 @@ As I began this antiquarian account in a letter to you, so I have finished it, t
 
 > *[Margin: [Æt. 34]]*
 
-### To <span class="small-caps">Frederic Tennyson</span> [<span class="small-caps">a Sunday letter</span>]
+#### To <span class="small-caps">Frederic Tennyson</span><br />[<span class="small-caps">a Sunday letter</span>]
 
 <span class="small-caps">Boulge Hall, Woodbridge</span>,  
 Sunday, Dec. 10, 1843.
@@ -4196,10 +4236,12 @@ Sunday, Dec. 10, 1843.
 
 Either you wrote me word yourself, or some one told me, that you meant to winter at Florence. So I shall direct to the Poste Restante there. You see I am not settled at the Florence of Suffolk, called Ipswich, yet: but I am perhaps as badly off; being in the most dull country house quite alone; a grey mist that seems teeming with half formed snow, all over the landscape before my windows. It is also Sunday morning: ten of the clock by the chime now sounding from the stables. I have fed on bread and milk (a dreadfully opaque diet) and I await the morning church in humble hope. It will begin in half an hour. We keep early hours in the country. So you will be able to measure my aptitude and fullness for letter writing by the quantity written now, before I bolt off for hat, gloves, and prayerbook. I always put on my thickest great coat to go to our Church in: as fungi grow in great numbers about the communion table. And now, to turn away from Boulge, I must tell you that I went up to London a month ago to see old Thackeray, who had come there to have his eyes doctored. I stayed with him ten days and we were as usual together. Alfred came up “in transitu” from Boxley to Cheltenham; he looked, and said he was, ill: I have never seen him so hopeless: and I am really anxious to know how he is. . . . I remember the days of the summer when you and I were together, quarreling and laughing —these I remember with pleasure. Our trip to Gravesend has left a perfume with me. I can get up with you on that everlastingly stopping coach on which we tried to travel from Gravesend to Maidstone that Sunday morning: worn out with it, we got down at an inn, and then got up on another—and an old smiling fellow passed us holding out his hat—and you said, “That old fellow must go about as Homer did”—and numberless other turns of road and humour, which sometimes pass before me as I lie in bed. . . . Now before I turn over, I will go and see about Church, as I hear no bell, pack myself up as warmly as I can, and be off. So good-bye till twelve o’clock. . . . ’Tis five minutes past twelve by the stable clock: so I saw as I returned from Church through the garden. Parson and Clerk got through the service see-saw, like two men in a sawpit. In the garden I see the heads of the snowdrops and crocuses just out of the earth. Another year with its same flowers and topics to open upon us. Shenstone somewhere sings
 
-Tedious again to mark the drizzling day,  
-Again to trace the same sad tracts of snow:  
-Or, lull’d by vernal airs, again survey  
-The selfsame hawthorn bud, and cowslips blow.
+> **[verse_insert]**
+>
+> Tedious again to mark the drizzling day,  
+> Again to trace the same sad tracts of snow:  
+> Or, lull’d by vernal airs, again survey  
+> The selfsame hawthorn bud, and cowslips blow.
 
 I rely on you and all your family sympathizing in this. So do I sometimes—anyhow, people complimenting each other on the approach of Spring and such like felicitations are very tiresome. Our very year is of a paltry diameter. But this is not proper language for Mark Tapley—whose greatest bore just now is having a bad pen—but the letter is ended. So he is jolly and yours as ever.
 
@@ -4207,7 +4249,7 @@ I rely on you and all your family sympathizing in this. So do I sometimes—anyh
 
 > *[Margin: [Æt. 35]]*
 
-### To <span class="small-caps">Bernard Barton</span> [<span class="small-caps">a kitten; carlyle; a preacher</span>]
+#### To <span class="small-caps">Bernard Barton</span><br />[<span class="small-caps">a kitten; carlyle; a preacher</span>]
 
 19 <span class="small-caps">Charlotte St.</span>, April 11, '44.
 
@@ -4221,9 +4263,11 @@ When I get back to Boulge I shall recover my quietude, which is now all in a rip
 
 A cloud comes over Charlotte Street and seems as if it were sailing softly on the April wind to fall in a blessed shower upon the lilac buds and thirsty anemones somewhere in Essex; or, who knows? perhaps at Boulge. Out will run Mrs. Faiers, and with red arms and face of woe haul in the struggling windows of the cottage, and make all tight. Beauty Bob will cast a bird's eye out at the shower, and bless the useful wet. Mr. Loder will observe to the farmer for whom he is doing up a dozen of Queen's Heads that it will be of great use: and the farmer will agree that his young barleys wanted it much. The German Ocean will dimple with innumerable pin points, and porpoises rolling near the surface sneeze with unusual pellets of fresh water—
 
-Can such things be,  
-And overcome us like a summer cloud,  
-Without our special wonder?
+> **[verse_insert]**
+>
+> Can such things be,  
+> And overcome us like a summer cloud,  
+> Without our special wonder?
 
 Oh this wonderful wonderful world, and we who stand in the middle of it are all in a maze, except poor Matthews of Bedford, who fixes his eyes upon a wooden Cross and has no misgiving whatever. When I was at his chapel on Good Friday, he called at the end of his grand sermon on some of the people to say merely this, that they believed Christ had redeemed them: and first one got up and in sobs declared she believed it: and then another, and then another—I was quite overset:—all poor people: how much richer than all who fill the London Churches. Theirs is the kingdom of Heaven!
 
@@ -4233,7 +4277,7 @@ This is a sad farrago. Farewell.
 
 > *[Margin: [Æt. 35]*
 
-### To <span class="small-caps">Frederic Tennyson</span> [“<span class="small-caps">my way of life</span>”; <span class="small-caps">Constable</span>]
+#### To <span class="small-caps">Frederic Tennyson</span><br />[“<span class="small-caps">my way of life</span>”; <span class="small-caps">Constable</span>]
 
 <span class="small-caps">Boulge, Woodbridge</span>, May 24, '44.
 
@@ -4249,7 +4293,7 @@ I also plunge away at my old Handel of nights, and delight in the Allegro and Pe
 
 > *[Margin: [Æt. 35]]*
 
-### To <span class="small-caps">Frederic Tennyson</span> [“<span class="small-caps">A little more folding of the hands</span>”]
+#### To <span class="small-caps">Frederic Tennyson</span><br />[“<span class="small-caps">A little more folding of the hands</span>”]
 
 <span class="small-caps">Boulge, Woodbridge</span>, Oct. 10, ’44.
 
@@ -4263,7 +4307,9 @@ I expect to run up to London some time during the winter, just to tell over old 
 
 Now I feel just in the same fix as I did in that sheet of paper whose fate is uncertain. But if I don't put in a word more, yet this shall go, I am determined. Only consider how it is a matter of necessity that I should have nothing to say. If you could see this place of Boulge! You who sit and survey marble palaces rising out of cypress and olive. There is a dreadful vulgar ballad, composed by Mr. Balfe, and sung with the most unbounded applause by Miss Rainforth,
 
-“I dreamt that I dwelt in marble Halls,”
+> **[verse_insert]**
+>
+> “I dreamt that I dwelt in marble Halls,”
 
 which is sung and organed at every corner in London. I think you may imagine what kind of flowing 6/8 time of the last degree of imbecility it is. The words are written by Mr. Bunn! Arcades ambo.
 
@@ -4273,7 +4319,7 @@ I say we shall see you over in England before long: for I rather think you want 
 
 > *[Margin: [*Æt.* 35]]*
 
-### <span class="small-caps">To Frederic Tennyson</span> [“<span class="small-caps">a talent for dullness</span>”; <span class="small-caps">Seneca</span>; <span class="small-caps">the sound of the sea</span>]
+#### <span class="small-caps">To Frederic Tennyson</span><br />[“<span class="small-caps">a talent for dullness</span>”; <span class="small-caps">Seneca</span>; <span class="small-caps">the sound of the sea</span>]
 
 <span class="small-caps">Boulge, Woodbridge</span>, Dec. 8, ’44.
 
@@ -4291,8 +4337,10 @@ Come, I have got more than two ideas into this sheet; but I don't know if you wo
 
 And three nights ago I looked out at about ten o'clock at night, before going to bed. It seemed perfectly still; frosty, and the stars shining bright. I heard a continuous moaning sound, which I knew to be, not that of an infant exposed, or female ravished, but of the sea, more than ten miles off! What little wind there was carried to us the murmurs of the waves circulating round these coasts so far over a flat country. But people here think that this sound so heard is not from the waves that break, but a kind of prophetic voice from the body of the sea itself announcing great gales. Sure enough we have got them, however heralded. Now I say that all this shows that we in this Suffolk are not so completely given over to prose and turnips as some would have us. I always said that being near the sea, and being able to catch a glimpse of it from the tops of hills, and of houses; redeemed Suffolk from dulness; and at all events that our turnip fields, dull in themselves, were at least set all round with an undeniably poetic element. And so I see Arnold says; he enumerates five inland counties as the only parts of England for which nothing could be said in praise. Not that I agree with him there neither; I cannot allow the valley of the Ouse about which some of my pleasantest recollections hang to be without its great charm. W. Browne, whom you despised, is married, and I shall see but little of him for the future. I have laid by my rod and line by the willows of the Ouse forever. “He is married and cannot come.” This change is the true meaning of those verses,
 
-Friend after friend departs;  
-Who has not lost a friend?
+> **[verse_insert]**
+>
+> Friend after friend departs;  
+> Who has not lost a friend?
 
 and so on. If I were conscious of being steadfast and good humoured enough I would marry to-morrow. But a humourist is best by himself.
 
@@ -4300,9 +4348,9 @@ and so on. If I were conscious of being steadfast and good humoured enough I wou
 
 > *[Margin: [Æt. 36]]*
 
-### <span class="small-caps">To Frederic Tennyson</span>
+#### <span class="small-caps">To Frederic Tennyson</span>
 
-### [<span class="small-caps">“These painters”</span>; <span class="small-caps">“the great garden band”</span>]
+#### [<span class="small-caps">“These painters”</span>; <span class="small-caps">“the great garden band”</span>]
 
 <span class="small-caps">Boulge, Woodbridge</span>, June 12, ’45.
 
@@ -4318,11 +4366,11 @@ E. <span class="small-caps">FitzGerald.</span>
 
 As to going to Italy, alas! I have less call to do that than ever: I never shall go. You must come over here about your Railroad land.
 
-> *[Margin: [Æt. 38]]*
-
 ### Letter 189: Samuel Laurence
 
-### To <span class="small-caps">Samuel Laurence</span> [<span class="small-caps">a portrait of a quaker poet</span>]
+> *[Margin: [Æt. 38]]*
+
+#### To <span class="small-caps">Samuel Laurence</span><br />[<span class="small-caps">a portrait of a quaker poet</span>]
 
 <span class="small-caps">Geldestone Hall, Beccles,</span>  
 [June 20, 1847.]
@@ -4339,13 +4387,13 @@ Let me hear from you soon that you are coming. I shall return to Boulge the end 
 
 *P.S.*—Come if you can the latter part of the week; when the Quaker is most at leisure. There is a daily coach from Woodbridge to Norwich.
 
-> *[Margin: [ÆT. 38]*
-
 ### Letter 190: E. FitzGerald → Samuel Laurence
 
-### To <span class="small-caps">Samuel Laurence</span>
+> *[Margin: [ÆT. 38]*
 
-### [“<span class="small-caps">Wordsworth—or Skiddaw, or any of the beauties?</span>”]
+#### To <span class="small-caps">Samuel Laurence</span>
+
+#### [“<span class="small-caps">Wordsworth—or Skiddaw, or any of the beauties?</span>”]
 
 <span class="small-caps">Boulge, Woodbridge</span>,  
 [30 Jan., 1848.]
@@ -4358,11 +4406,11 @@ I hear you were for a long time in Cumberland. Did you paint a waterfall—or ol
 
 E. <span class="small-caps">FitzGerald.</span>
 
-> *[Margin: [Æt. 39]*
-
 ### Letter 191: Frederic Tennyson
 
-### To <span class="small-caps">Frederic Tennyson</span> [<span class="small-caps">spedding; oratorios; “vanity fair”</span>]
+> *[Margin: [Æt. 39]*
+
+#### To <span class="small-caps">Frederic Tennyson</span><br />[<span class="small-caps">spedding; oratorios; “vanity fair”</span>]
 
 <span class="small-caps">Boulge</span>, May 4, 1848.
 
@@ -4378,13 +4426,13 @@ If anything could tempt me so far as Italy, it would certainly be your presence 
 
 July 2. All that precedes was written six weeks ago, when I was obliged to go up to London on business. . . . I saw Alfred, and the rest of the sçavans. Thackeray is a great man: goes to Devonshire House &c.: and *his* book (which is capital) is read by the Great: and will, I hope, do them good. I heard but little music: the glorious Acis and Galatea; and the redoubtable Jenny Lind, for the first time. I was disappointed in her: but am told this is all my fault. As to naming her in the same Olympiad with great old Pasta, I am sure that is ridiculous. The Exhibition is like most others you have seen; worse perhaps. There is an “Aaron” and a “John the Baptist” by Etty far worse than the Saracen’s Head on Ludgate Hill. Moore is turned Picture dealer: and that high Roman virtue in which he indulged is likely to suffer a Picture-dealer’s change, I think. Carlyle writes in the Examiner about Ireland: raves and foams, but has nothing to propose. Spedding prospers with Bacon. Alfred seemed to me in fair plight: much dining out: and his last Poem is well liked I believe. Morton is still at Lisbon, I believe also: but I have not written to him, nor heard from him. And now, my dear Frederic, I must shut up. Do not neglect to write to me sometimes. Alfred said you ought to be in England about your Grimsby Land.
 
-> *[Margin: [Æt. 50]]*
-
 ### Letter 192: W. F. Pollock
 
-### To W. F. <span class="small-caps">Pollock</span>
+> *[Margin: [Æt. 50]]*
 
-### [<span class="small-caps">miscellaneous reading</span>]
+#### To W. F. <span class="small-caps">Pollock</span>
+
+#### [<span class="small-caps">miscellaneous reading</span>]
 
 10 <span class="small-caps">Marine Terrace</span>,  
 <span class="small-caps">Lowestoft</span>,  
@@ -4396,11 +4444,11 @@ Febr. 23, '60.
 
 I laid out half a crown on your Fraser: and liked much of it very much: especially the Beginning about the Advantage the Novelist has over the Playwriter. A little too much always about Miss Austen, whom yet I think quite capital in a Circle I have found quite unendurable to walk in. Thackeray's first Number was famous I thought: his own little Roundabout Paper so pleasant: but the Second Number; I say, lets the Cockney in already: about Hogarth: Lewes is vulgar: and I don’t think one can care much for Thackeray’s Novel.[^fn-p0348-1] He is always talking so of himself, too. I have been very glad to find I could take to a Novel again, in Trollope’s Barchester Towers &c.: not perfect, like Miss Austen: but then so much wider Scope: and perfect enough to make me feel I know the People though caricatured or carelessly drawn. I doubt if you can read my writing here: or whether it will be worth your Pains to do so. If you can, or can not, one Day write me a Line which I will read. I suppose when the Fields and Hedges begin to grow green I shall move a little further inland to be among them.
 
-> *[Margin: [Æt. 54]]*
-
 ### Letter 193: W. B. Donne
 
-### To W. B. <span class="small-caps">Donne</span> [“<span class="small-caps">my new boat</span>”]
+> *[Margin: [Æt. 54]]*
+
+#### To W. B. <span class="small-caps">Donne</span><br />[“<span class="small-caps">my new boat</span>”]
 
 <span class="small-caps">Market Hill, Woodbridge</span>,  
 Sat., July 18, ’63.
@@ -4409,11 +4457,11 @@ Sat., July 18, ’63.
 
 . . . I can hardly tell you whether I am much pleased with my new Boat; for I hardly know myself. She is (as I doubted would be from the first) rather awkward in our narrow River; but then she was to be a good Sea-boat; and I don’t know but she is; and will be better in all ways when we have got her in proper trim. Yesterday we gave her what they call *“a tuning”* in a rather heavy swell round Orford Ness: and she did well without a reef &c. But, now all is got, I don’t any the more want to go far away by Sea, any more than by Land; having no curiosity left for other Places, and glad to get back to my own Chair and Bed after three or four Days’ Absence. So long as I get on the Sea from time to time, it is much the same to me whether off Aldbro’ or Penzance. And I find I can’t sleep so well on board as I used to do thirty years ago: and not to get one’s Sleep, you know, indisposes one more or less for the Day. However, we talk of Dover, Folkestone, Holland &c. which will give one’s sleeping Talents a *tuning.*
 
-> *[Margin: [Æt. 54]]*
-
 ### Letter 194: George Crabbe
 
-### To <span class="small-caps">George Crabbe</span> [<span class="small-caps">an unsatisfactory trip to Holland</span>]
+> *[Margin: [Æt. 54]]*
+
+#### To <span class="small-caps">George Crabbe</span><br />[<span class="small-caps">an unsatisfactory trip to Holland</span>]
 
 <span class="small-caps">Woodbridge</span>, August 4, [1863.]
 
@@ -4433,11 +4481,11 @@ But I shall say no more. I think it is the last foreign Travel I shall ever unde
 
 Oh dear!—Rembrandt's Dissection—where and how did I miss that?
 
-> *[Margin: [Æt. 54]]*
-
 ### Letter 195: Samuel Laurence
 
-### To <span class="small-caps">Samuel Laurence</span> <span class="small-caps">[death of Thackeray]</span>
+> *[Margin: [Æt. 54]]*
+
+#### To <span class="small-caps">Samuel Laurence</span><br /><span class="small-caps">[death of Thackeray]</span>
 
 <span class="small-caps">Market Hill: Woodbridge</span>,  
 Jan. 7, '64.
@@ -4448,13 +4496,13 @@ Jan. 7, '64.
 
 I am surprized almost to find how much I am thinking of him: so little as I had seen him for the last ten years; not once for the last five. I had been told—by you, for one—that he was spoiled. I am glad therefore that I have scarce seen him since he was “old Thackeray.” I keep reading his Newcomes of nights, and as it were hear him saying so much in it; and it seems to me as if he might be coming up my Stairs, and about to come (singing) into my Room, as in old Charlotte Street &c. thirty years ago.
 
-> *[Margin: [Æt. 66]]*
-
 ### Letter 196: C. E. Norton
 
-### To C. E. <span class="small-caps">Norton</span>
+> *[Margin: [Æt. 66]]*
 
-### [“<span class="small-caps">scolding all the world</span>”; <span class="small-caps">American writers</span>]
+#### To C. E. <span class="small-caps">Norton</span>
+
+#### [“<span class="small-caps">scolding all the world</span>”; <span class="small-caps">American writers</span>]
 
 <span class="small-caps">Little Grange, Woodbridge</span>,  
 Jan. 23, ’76.
@@ -4465,11 +4513,11 @@ I suppose you may see one of the Carlyle Medallions: and you can judge better of
 
 I know of course (in Books) several of those you name in your Letter: Longfellow, whom I may say I love, and so (I see) can't call him *Mister:* and Emerson whom I admire, for I don't feel that I know the Philosopher so well as the Poet: and Mr. Lowell's “Among my Books” is among mine. I have always much liked, I think rather loved, O. W. Holmes. I scarce know why I could never take to that man of true Genius, Hawthorne. There is a little of my Confession of Faith about your Countrymen, and I should say mine, if I were not more Irish than English.
 
-> *[Margin: [Æt. 66]]*
-
 ### Letter 197: C. E. Norton
 
-### To C. E. <span class="small-caps">Norton</span> [<span class="small-caps">A suggestion for Lowell; “Daddy Wordsworth”</span>]
+> *[Margin: [Æt. 66]]*
+
+#### To C. E. <span class="small-caps">Norton</span><br />[<span class="small-caps">A suggestion for Lowell; “Daddy Wordsworth”</span>]
 
 [<span class="small-caps">Woodbridge</span>, Feb. 7, '76.]
 
@@ -4491,13 +4539,13 @@ Here then is a long Letter of old world Gossip from the old Home. I hope it won'
 
 *P.S.*—By way of something better from the old World, I post you Hazlitt's own Copy of his English Poets, with a few of his marks for another Edition in it. If you like to keep it, pray do: if you like better to give it to Hazlitt's successor, Mr. Lowell, do that from yourself.
 
-> *[Margin: [Æt. 68]]*
-
 ### Letter 198: E. FitzGerald → J. R. Lowell
 
-### To J. R. <span class="small-caps">Lowell</span>
+> *[Margin: [Æt. 68]]*
 
-### [<span class="small-caps">Keats and Catullus; Scott's novels</span>]
+#### To J. R. <span class="small-caps">Lowell</span>
+
+#### [<span class="small-caps">Keats and Catullus; Scott's novels</span>]
 
 <span class="small-caps">Little Grange, Woodbridge</span>,  
 February 28, '78.
@@ -4514,11 +4562,11 @@ Some one (not you) sent me your Moosehead Journal: but I told Mr. Norton I shoul
 
 E. <span class="small-caps">FitzGerald.</span>
 
-> *[Margin: [Æt. 69]]*
-
 ### Letter 199: E. F. G. → C. E. Norton
 
-### To C. E. <span class="small-caps">Norton</span> [<span class="small-caps">Keats's</span> “<span class="small-caps">letters</span>”; “<span class="small-caps">restoring</span>” <span class="small-caps">churches</span>]
+> *[Margin: [Æt. 69]]*
+
+#### To C. E. <span class="small-caps">Norton</span><br />[<span class="small-caps">Keats's</span> “<span class="small-caps">letters</span>”; “<span class="small-caps">restoring</span>” <span class="small-caps">churches</span>]
 
 <span class="small-caps">Woodbridge</span>, April 4, 1878.
 
@@ -4544,11 +4592,11 @@ Pray read the Scene at Mrs. McCandlish's Inn when Colonel Mannering returns from
 
 Only a word; to say that yesterday came Squire-Carlyle from you: and a kind long letter from Mr. Lowell: and—and the first Nightingale, who sang in my Garden the same song as in Shakespeare's days: and, before the Day had closed, Dandie Dinmont came into my room on his visit to young Bertram in Portanferry Gaol-house.
 
-> *[Margin: [Æt. 72]]*
-
 ### Letter 200: W. F. Pollock
 
-### To W. F. <span class="small-caps">Pollock</span> [<span class="small-caps">James Spedding</span>]
+> *[Margin: [Æt. 72]]*
+
+#### To W. F. <span class="small-caps">Pollock</span><br />[<span class="small-caps">James Spedding</span>]
 
 [1881.]
 
@@ -4562,11 +4610,11 @@ I suppose that Carlyle amused himself, after just losing his Wife, with the Reco
 
 Dear old Jem! His loss makes one's Life more dreary, and “en revanche” the end of it less regretful.
 
-> *[Margin: [Æt. 72]]*
-
 ### Letter 201: (The Laird of) Littlegrange → H. Schütz Wilson
 
-### To H. <span class="small-caps">Schütz Wilson</span> [<span class="small-caps">Persian Poets</span>]
+> *[Margin: [Æt. 72]]*
+
+#### To H. <span class="small-caps">Schütz Wilson</span><br />[<span class="small-caps">Persian Poets</span>]
 
 [1 March, 1882.]
 
@@ -4588,11 +4636,11 @@ As to the publication of my name, I believe I could well dispense with it; were 
 
 where I date from.
 
-> *[Margin: [Æt. 74]]*
-
 ### Letter 202: C. E. Norton
 
-### To C. E. <span class="small-caps">Norton</span> [<span class="small-caps">Carlyle; Ballads</span>]
+> *[Margin: [Æt. 74]]*
+
+#### To C. E. <span class="small-caps">Norton</span><br />[<span class="small-caps">Carlyle; Ballads</span>]
 
 <span class="small-caps">Woodbridge</span>, May 12, '83.
 
@@ -4620,9 +4668,9 @@ as Tennyson sings. Let us hope their Verdure, late arrayed, will last the longer
 
 ### Letter 203: Alfred Lord Tennyson → John Forster
 
-### [Æt. 46]    ALFRED LORD TENNYSON 1809–1892
+#### [Æt. 46]    ALFRED LORD TENNYSON<br />1809–1892
 
-### To <span class="small-caps">John Forster</span> [“<span class="small-caps">the charge of the light brigade</span>”]
+#### To <span class="small-caps">John Forster</span><br />[“<span class="small-caps">the charge of the light brigade</span>”]
 
 [1855]
 
@@ -4636,11 +4684,11 @@ A. <span class="small-caps">Tennyson.</span>
 
 *P.S.* I am convinced now after writing it out that this *is* the best version.
 
-> *[Margin: [Æt. 50]]*
-
 ### Letter 204: A. Tennyson → William Makepeace Thackeray
 
-### To <span class="small-caps">William Makepeace Thackeray</span> [<span class="small-caps">thanks for appreciation</span>]
+> *[Margin: [Æt. 50]]*
+
+#### To <span class="small-caps">William Makepeace Thackeray</span><br />[<span class="small-caps">thanks for appreciation</span>]
 
 <span class="small-caps">Farringford</span>,  
 [1859]
@@ -4655,11 +4703,11 @@ A. <span class="small-caps">Tennyson</span>.
 
 ### Letter 205: Oliver Wendell Holmes → James T. Fields
 
-### [Æt. 52] <span class="small-caps">OLIVER WENDELL HOLMES</span>
+#### [Æt. 52] <span class="small-caps">OLIVER WENDELL HOLMES</span>
 
-### 1809–1894
+#### 1809–1894
 
-### To <span class="small-caps">James T. Fields</span>
+#### To <span class="small-caps">James T. Fields</span>
 
 [<span class="small-caps">an error of one week</span>]
 
@@ -4676,11 +4724,11 @@ me how you and Mrs. F. had gone to New York, and how she knew nothing of any lit
 
 Dear Mr. Fields, I shall be very happy to come to your home on Friday evening, the 16th February, at eight o'clock, to meet yourself and Mrs. Fields, and hear Mr. James read his paper on Emerson.
 
-> *[Margin: [Æt. 60]]*
-
 ### Letter 206: John Lothrop Motley
 
-### To <span class="small-caps">John Lothrop Motley</span> [<span class="small-caps">Charles Fechter; a "new president"</span>]
+> *[Margin: [Æt. 60]]*
+
+#### To <span class="small-caps">John Lothrop Motley</span><br />[<span class="small-caps">Charles Fechter; a "new president"</span>]
 
 <span class="small-caps">Boston</span>, April 3, 1870.
 
@@ -4708,11 +4756,11 @@ Agassiz, you know, has been in a condition to cause very grave fears. I am happy
 
 I have left no room to talk of your affairs, to sympathize with your spoliation,—to say how grand we all felt when we read of your famous reception of the great folks the other day, nor to tell you how we miss you and your family here in your own little city, which you must not forget because it looks so small in the distance. You like a letter from me every few months, I am sure, though there is not a great deal in it. You know you need not answer.
 
-> *[Margin: [Æt. 66]]*
-
 ### Letter 207: James Russell Lowell
 
-### <span class="small-caps">To James Russell Lowell</span> [“<span class="small-caps">elders</span>” <span class="small-caps">with pith</span>]
+> *[Margin: [Æt. 66]]*
+
+#### <span class="small-caps">To James Russell Lowell</span><br />[“<span class="small-caps">elders</span>” <span class="small-caps">with pith</span>]
 
 296 <span class="small-caps">Beacon Street</span>, September 28, 1875.
 
@@ -4726,11 +4774,11 @@ Do thank your son-in-law (I met him the other day and he showed me a photograph 
 
 I have been having a very pleasant vacation at Beverly, Nahant, and Mattapoisett, and am beginning my seven months’ lecture course feeling quite juvenile for an elderly gentleman—however, the *elders* always had a good deal of real pith in them, I remember, in my boyish days! and I suppose it is so now.
 
-> *[Margin: [Æt. 37]]*
-
 ### Letter 208: W. M. Thackeray → Mrs. Brookfield
 
-### WILLIAM MAKEPEACE THACKERAY 1811–1863 To <span class="small-caps">Mrs. Brookfield</span> [“<span class="small-caps">payne</span>”]
+> *[Margin: [Æt. 37]]*
+
+#### WILLIAM MAKEPEACE THACKERAY<br />1811–1863<br />To <span class="small-caps">Mrs. Brookfield</span><br />[“<span class="small-caps">payne</span>”]
 
 [1848.]
 
@@ -4745,11 +4793,11 @@ W. M. <span class="small-caps">Thackeray.</span>
 
 I hope you will write to say that you forgive me.
 
-> *[Margin: [Æt. 37]]*
-
 ### Letter 209: Mrs. Brookfield
 
-### To <span class="small-caps">the Same</span> [<span class="small-caps">at work on</span> “<span class="small-caps">pendennis</span>”]
+> *[Margin: [Æt. 37]]*
+
+#### To <span class="small-caps">the Same</span><br />[<span class="small-caps">at work on</span> “<span class="small-caps">pendennis</span>”]
 
 From the old shop, 21.  
 [1849]
@@ -4758,11 +4806,11 @@ Is it pouring with rain at Park Lodge, and the most dismal, wretched, cat and do
 
 I wonder whether ever again, I shall have such a happy peaceful fortnight as that last! How sunshiny the landscape remains in my mind, I hope for always; and the smiles of dear children. . . . I can hardly see as I write for the eye-water, but it isn't with grief, but for the natural pathos of the thing. How happy your dear regard makes me, how it takes off the solitude and eases it; may it continue, pray God, till your head is white as mine, and our children have children of their own. Instead of being unhappy because that delightful holiday is over or all but over, I intend that the thoughts of it should serve to make me only the more cheerful and help me, please God, to do my duty better. All such pleasures ought to brace and strengthen one against work days, and lo, here they are. I hope you will be immensely punctual at breakfast and dinner, and do all your business of life with cheerfulness and briskness, after the example of holy Philip Neri, whom you wot of; that is your duty, Madame, and mine is to “pursue my high calling”; and so I go back to it with a full grateful heart, and say God bless all. If it hadn't been pouring-o'-rain so, I think I should have gone off to His Reverence at Brighton; so I send him my very best regards, and a whole box full of kisses to the children. Farewell.
 
-> *[Margin: [Æt. 37]]*
-
 ### Letter 210: Mrs. Brookfield
 
-### To <span class="small-caps">the Same</span> [<span class="small-caps">Jules Janin; a</span> “<span class="small-caps">Miss Fotheringay</span>”]
+> *[Margin: [Æt. 37]]*
+
+#### To <span class="small-caps">the Same</span><br />[<span class="small-caps">Jules Janin; a</span> “<span class="small-caps">Miss Fotheringay</span>”]
 
 [<span class="small-caps">Paris</span>, Feb., 1849.]
 
@@ -4778,11 +4826,11 @@ Well you are very good to listen to all this egotistic prattle, chère sœur, si
 
 I couldn't find the lecture room at the Institute, so I went to the Louvre instead and took a feast with the statues and pictures. The Venus of Milo is the grandest figure of figures. The wave of the lines of the figure, whenever seen, fills my senses with pleasure. What is it which so charms, satisfies one, in certain lines? O! the man who achieved that statue was a beautiful genius. I have been sitting thinking of it these 10 minutes in a delightful sensuous rumination. The Colours of the Titian pictures comfort one's eyes similarly; and after these feasts, which wouldn't please my lady very much I daresay, being I should think too earthly for you, I went and looked at a picture I usedn't to care much for in old days, an angel saluting a Virgin and child by Pietro Cortona,—a sweet smiling angel with a lily in her hands, looking so tender and gentle I wished that instant to make a copy of it, and do it beautifully, which I can't, and present it to somebody on Lady-day.—There now, just fancy it is done, and presented in a neat compliment, and hung up in your room—a pretty piece—dainty and devotional?—I drove about with ——, and wondered at her more and more.—She is come to “my dearest William” now: though she doesn't care a fig for me.— She told me astonishing things, showed me a letter in which every word was true and which was a fib from beginning to end;—A miracle of deception;—flattered, fondled, coaxed—O! she was worth coming to Paris for! . . . Pray God to keep us simple. I have never looked at anything in my life which has so amazed me. Why, this is as good, almost, as if I had you to talk to. Let us go out and have another walk.
 
-> *[Margin: [Æt. 38]]*
-
 ### Letter 211: Mrs. Brookfield
 
-### To <span class="small-caps">the Same</span> [“<span class="small-caps">big higgins</span>”]
+> *[Margin: [Æt. 38]]*
+
+#### To <span class="small-caps">the Same</span><br />[“<span class="small-caps">big higgins</span>”]
 
 [1849.]
 
@@ -4790,7 +4838,7 @@ I couldn't find the lecture room at the Institute, so I went to the Louvre inste
 
 ### Letter 212: Mrs. Brookfield
 
-### To <span class="small-caps">the Same</span> [“<span class="small-caps">those inimitable dickens touches</span>”]
+#### To <span class="small-caps">the Same</span><br />[“<span class="small-caps">those inimitable dickens touches</span>”]
 
 Wednesday, 1849.
 
@@ -4800,11 +4848,11 @@ I have talked to my mother about her going to Paris with the children; she is ve
 
 I have just come away from a dismal sight; Gore House full of snobs looking at the furniture. Foul Jews; odious bombazine women, who drove up in mysterious flys which they had hired, the wretches, to be fined, so as to come in state to a fashionable lounge; brutes keeping their hats on in the kind old drawing room,—I longed to knock some of them off, and say “Sir, be civil in a lady's room.” . . . There was one of the servants there, not a powdered one, but a butler, a *whatdyoucallit*. My heart melted towards him and I gave him a pound. Ah! it was a strange, sad picture of *Vanity Fair.* My mind is all boiling up with it; indeed, it is in a queer state. . . . I give my best remembrances to all at Clevedon Court.
 
-> *[Margin: [Æt. 38]]*
-
 ### Letter 213: W. M. T. → Mrs. Brookfield
 
-### To <span class="small-caps">the Same</span> [<span class="small-caps">Mr. H., the Widower</span>]
+> *[Margin: [Æt. 38]]*
+
+#### To <span class="small-caps">the Same</span><br />[<span class="small-caps">Mr. H., the Widower</span>]
 
 [4th Sept., 1849]  
 Tuesday, <span class="small-caps">Paris.</span>
@@ -4827,11 +4875,11 @@ The funeral takes place to-morrow, and as I don't seem to do much work here, I s
 
 W. M. T.
 
-> *[Margin: [Æt. 38]*
-
 ### Letter 214: Mrs. Brookfield
 
-### <span class="small-caps">To the Same</span> [“<span class="small-caps">I am afraid I disgusted Macaulay</span>”]
+> *[Margin: [Æt. 38]*
+
+#### <span class="small-caps">To the Same</span><br />[“<span class="small-caps">I am afraid I disgusted Macaulay</span>”]
 
 [<span class="small-caps">Paris</span>, September 14, 1849.]
 
@@ -4845,11 +4893,11 @@ I was going to have the impudence to give you a daguerreotype of myself which ha
 
 I was very sorry for Turpin; I do feel an interest in her, and I think she is very pretty; all this I solemnly vow and protest. My paper is out, here's the last corner of the last letter. I wonder *who* will ask me to dine on Monday next.
 
-> *[Margin: [Æt. 39]*
-
 ### Letter 215: W. M. T. → Mrs. Brookfield
 
-### <span class="small-caps">To the Same</span> [<span class="small-caps">Lamartine; a child actress</span>]
+> *[Margin: [Æt. 39]*
+
+#### <span class="small-caps">To the Same</span><br />[<span class="small-caps">Lamartine; a child actress</span>]
 
 [<span class="small-caps">Paris</span>, 1850.]
 
@@ -4865,11 +4913,11 @@ Thursday.—Thanks for your letter, madame. If I tell you my plans and my small 
 
 W. M. T.
 
-> *[Margin: [Æt. 40]]*
-
 ### Letter 216: Mrs. Brookfield
 
-### <span class="small-caps">To the Same</span> [<span class="small-caps">to the zoological gardens; Boz</span>]
+> *[Margin: [Æt. 40]]*
+
+#### <span class="small-caps">To the Same</span><br />[<span class="small-caps">to the zoological gardens; Boz</span>]
 
 1851.
 
@@ -4879,11 +4927,11 @@ We had a dull dinner at Lady ——'s, a party of —— chiefly; and O! such a 
 
 Boz is capital this month; some very neat pretty natural writing indeed, better than somebody else’s again. By Jove, he is a clever fellow, and somebody else must and shall do better. Quiet, pleasant dinner at Lord Holland’s; leg of mutton and that sort of thing; home to bed at 10.30, and to-morrow to work really and truly. Let me hear, please, that you are going on well and I shall go on all the better.
 
-> *[Margin: [Æt. 41]]*
-
 ### Letter 217: W. M. T. → Edward FitzGerald
 
-### To <span class="small-caps">Edward FitzGerald</span> [“<span class="small-caps">best and oldest friend</span>”]
+> *[Margin: [Æt. 41]]*
+
+#### To <span class="small-caps">Edward FitzGerald</span><br />[“<span class="small-caps">best and oldest friend</span>”]
 
 October 27, 1852.
 
@@ -4899,13 +4947,13 @@ W. M. T.
 
 I sail from Liverpool on Saturday Morning by the Canada for Boston.
 
-> *[Margin: [Æt. 41]]*
-
 ### Letter 218: W. M. T. → Mrs. Brookfield
 
-### To <span class="small-caps">Mrs. Brookfield</span>
+> *[Margin: [Æt. 41]]*
 
-### [<span class="small-caps">lectures; table-tipping</span>]
+#### To <span class="small-caps">Mrs. Brookfield</span>
+
+#### [<span class="small-caps">lectures; table-tipping</span>]
 
 <span class="small-caps">Clarendon Hotel, New York</span>,  
 Tuesday, 23 Dec., [1852.]
@@ -4920,13 +4968,13 @@ I may write next Saturday to Chesham Place; you will go and carry my love to tho
 
 W. M. T.
 
-> *[Margin: [Æt. 41]]*
-
 ### Letter 219: Mrs. Brookfield
 
-### <span class="small-caps">To the Same</span>
+> *[Margin: [Æt. 41]]*
 
-### [“<span class="small-caps">acting the lion business</span>”; <span class="small-caps">Beatrix</span>]
+#### <span class="small-caps">To the Same</span>
+
+#### [“<span class="small-caps">acting the lion business</span>”; <span class="small-caps">Beatrix</span>]
 
 Direct Clarendon Hotel New York.
 
@@ -4945,11 +4993,11 @@ Crowe is my immensest comfort; I could not live without someone to take care of 
 
 There was a young quakeress at the lecture last night, listening about Fielding. Lord! Lord! how pretty she was! There are hundreds of such everywhere, airy looking little beings, with magnolia—no, not magnolia, what is that white flower you make bouquets of, camilla or camelia—complexions, and lasting not much longer. . . . God bless you and your children; write to me sometimes, and farewell.
 
-> *[Margin: [ÆT. 44]]*
-
 ### Letter 220: W. M. Thackeray → William B. Reed
 
-### To <span class="small-caps">William B. Reed</span> ["<span class="small-caps">what can the man mean?</span>"]
+> *[Margin: [ÆT. 44]]*
+
+#### To <span class="small-caps">William B. Reed</span><br />["<span class="small-caps">what can the man mean?</span>"]
 
 <span class="small-caps">Baltimore</span>, Jan. 16, 1856.
 
@@ -4965,11 +5013,11 @@ I send my best regards to Mrs. Reed and your sister-in-law, and Lewis and his ki
 
 W. M. <span class="small-caps">Thackeray.</span>
 
-> *[Margin: [Æt. 44]]*
-
 ### Letter 221: W. M. T. → William B. Reed
 
-### To <span class="small-caps">William B. Reed</span> [<span class="small-caps">sudden return to england</span>]
+> *[Margin: [Æt. 44]]*
+
+#### To <span class="small-caps">William B. Reed</span><br />[<span class="small-caps">sudden return to england</span>]
 
 April 24, [1856].
 
@@ -4979,11 +5027,11 @@ When you get this, . . . remummum-ember me to kick-kick-kind ffu-fffu-ffriends .
 
 W. M. T.
 
-> *[Margin: [Æt. 29]]*
-
 ### Letter 222: Charles Dickens → Washington Irving
 
-### CHARLES DICKENS 1812–1870 To <span class="small-caps">Washington Irving</span> [<span class="small-caps">enthusiastic praise</span>]
+> *[Margin: [Æt. 29]]*
+
+#### CHARLES DICKENS<br />1812–1870<br />To <span class="small-caps">Washington Irving</span><br />[<span class="small-caps">enthusiastic praise</span>]
 
 [1841.]
 
@@ -5003,13 +5051,13 @@ Always your faithful Friend,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [Æt. 30]*
-
 ### Letter 223: Charles Dickens → W. C. Macready
 
-### To W. C. <span class="small-caps">Macready</span>
+> *[Margin: [Æt. 30]*
 
-### [“<span class="small-caps">this is not the republic i came to see</span>”]
+#### To W. C. <span class="small-caps">Macready</span>
+
+#### [“<span class="small-caps">this is not the republic i came to see</span>”]
 
 <span class="small-caps">Baltimore</span>, Twenty-second March, 1842.
 
@@ -5044,13 +5092,13 @@ Your faithful Friend,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [Æt. 36]]*
-
 ### Letter 224: Charles Dickens → John Forster
 
-### <span class="small-caps">To John Forster</span>
+> *[Margin: [Æt. 36]]*
 
-### [<span class="small-caps">in praise of the “life of goldsmith”</span>]
+#### <span class="small-caps">To John Forster</span>
+
+#### [<span class="small-caps">in praise of the “life of goldsmith”</span>]
 
 <span class="small-caps">Devonshire Terrace,</span>  
 Saturday, Twenty-second April, 1848.
@@ -5075,13 +5123,13 @@ Ever affectionately,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [Æt. 39]]*
-
 ### Letter 225: Charles Dickens → Henry Austin
 
-### To <span class="small-caps">Henry Austin</span>
+> *[Margin: [Æt. 39]]*
 
-### [“<span class="small-caps">tumbling over workmen</span>”; <span class="small-caps">a wreck</span>]
+#### To <span class="small-caps">Henry Austin</span>
+
+#### [“<span class="small-caps">tumbling over workmen</span>”; <span class="small-caps">a wreck</span>]
 
 <span class="small-caps">Broadstairs</span>,  
 Monday, Eighth September, 1851.
@@ -5100,11 +5148,11 @@ Ever affectionately,
 
 *P.S.*—Sometimes I think ——’s bill will be too long to be added up until Babbage’s calculating-machine shall be improved and finished. Sometimes that there is not paper enough ready made, to carry it over and bring it forward upon. I dream, also, of the workmen every night. They make faces at me, and won’t do anything.
 
-> *[Margin: [Æt. 40]]*
-
 ### Letter 226: Charles Dickens → W. H. Wills
 
-### To W. H. <span class="small-caps">Wills</span> [<span class="small-caps">Barking dogs</span>]
+> *[Margin: [Æt. 40]]*
+
+#### To W. H. <span class="small-caps">Wills</span><br />[<span class="small-caps">Barking dogs</span>]
 
 <span class="small-caps">Tavistock House</span>,  
 Thursday, Ninth December, 1852.
@@ -5117,22 +5165,22 @@ Ever faithfully,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [Æt. 40]]*
-
 ### Letter 227: Charles Dickens → Clarkson Stanfield
 
-### <span class="small-caps">To Clarkson Stanfield</span> [<span class="small-caps">a nautical letter</span>]
+> *[Margin: [Æt. 40]]*
+
+#### <span class="small-caps">To Clarkson Stanfield</span><br />[<span class="small-caps">a nautical letter</span>]
 
 H. M. S. *Tavistock*,  
 Second January, 1853.
 
 Yoho, old salt! Neptun' ahoy! You don't forget, messmet, as you was to meet Dick Sparkler and Mark Porpuss on the fok'sle of the good ship *Owssel Words*, Wednesday next, half-past four? Not you; for when did Stanfell ever pass his word to go anywheers and not come? Well. Belay, my heart of oak, belay! Come alongside the *Tavistock* same day and hour, 'stead of *Owssel Words*. Hail your shipmets, and they'll drop over the side and join you, like two new shillings a-droppin' into the purser's pocket. Damn all lubberly boys and swabs, and give *me* the lad with the tarry trousers, which shines to me like di'mings bright!
 
-> *[Margin: [Æt. 41]]*
-
 ### Letter 228: Charles Dickens → Mrs. Watson
 
-### <span class="small-caps">To Mrs. Watson</span> [<span class="small-caps">deserted London</span>]
+> *[Margin: [Æt. 41]]*
+
+#### <span class="small-caps">To Mrs. Watson</span><br />[<span class="small-caps">deserted London</span>]
 
 <span class="small-caps">Boulogne</span>, Wednesday,  
 Twenty-first September, 1853.
@@ -5152,11 +5200,11 @@ Most affectionately yours,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [ÆT. 42]]*
-
 ### Letter 229: Charles Dickens → Arthur Ryland
 
-### To <span class="small-caps">Arthur Ryland</span> [<span class="small-caps">“David Copperfield”—“I cannot disturb it”</span>]
+> *[Margin: [ÆT. 42]]*
+
+#### To <span class="small-caps">Arthur Ryland</span><br />[<span class="small-caps">“David Copperfield”—“I cannot disturb it”</span>]
 
 <span class="small-caps">Tavistock House</span>, Monday,  
 Twenty-ninth January, 1855.
@@ -5173,11 +5221,11 @@ Faithfully yours always,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [Æt. 43]]*
-
 ### Letter 230: Charles Dickens → W. M. Thackeray
 
-### To W. M. <span class="small-caps">Thackeray</span> [<span class="small-caps">“I shall never forget your words”</span>]
+> *[Margin: [Æt. 43]]*
+
+#### To W. M. <span class="small-caps">Thackeray</span><br />[<span class="small-caps">“I shall never forget your words”</span>]
 
 <span class="small-caps">Tavistock House</span>, Friday Evening,  
 Twenty-third March, 1855.
@@ -5190,11 +5238,11 @@ Faithfully yours ever,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [Æt. 44]]*
-
 ### Letter 231: Charles Dickens → Washington Irving
 
-### To <span class="small-caps">Washington Irving</span> [<span class="small-caps">a breakfast at Samuel Rogers’s</span>]
+> *[Margin: [Æt. 44]]*
+
+#### To <span class="small-caps">Washington Irving</span><br />[<span class="small-caps">a breakfast at Samuel Rogers’s</span>]
 
 <span class="small-caps">Tavistock House</span>, London,  
 Fifth July, 1856.
@@ -5212,11 +5260,11 @@ Most affectionately and truly yours,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [Æt. 46]]*
-
 ### Letter 232: Charles Dickens → Edmund Yates
 
-### To <span class="small-caps">Edmund Yates</span> [<span class="small-caps">troublesome “christian wirtues”</span>]
+> *[Margin: [Æt. 46]]*
+
+#### To <span class="small-caps">Edmund Yates</span><br />[<span class="small-caps">troublesome “christian wirtues”</span>]
 
 <span class="small-caps">Tavistock House, Tavistock Square, London</span>, W. C.,  
 Wednesday, Twenty-eighth April, 1858.
@@ -5229,13 +5277,13 @@ Persecuted ever,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [Æt. 51]]*
-
 ### Letter 233: Charles Dickens → John Bennett
 
-### To <span class="small-caps">John Bennett</span>
+> *[Margin: [Æt. 51]]*
 
-### [<span class="small-caps">a clock “with something on its works”</span>]
+#### To <span class="small-caps">John Bennett</span>
+
+#### [<span class="small-caps">a clock “with something on its works”</span>]
 
 <span class="small-caps">Gad’s Hill Place, Higham by Rochester, Kent,</span>  
 Monday Night, Fourteenth September, 1863.
@@ -5248,11 +5296,11 @@ Faithfully yours,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [Æt. 53]]*
-
 ### Letter 234: Charles Dickens → Thomas Mitton
 
-### To <span class="small-caps">Thomas Mitton</span> [<span class="small-caps">a railway wreck</span>]
+> *[Margin: [Æt. 53]]*
+
+#### To <span class="small-caps">Thomas Mitton</span><br />[<span class="small-caps">a railway wreck</span>]
 
 <span class="small-caps">Gad's Hill Place, Higham by Rochester, Kent,</span>  
 Tuesday, Thirteenth June, 1865.
@@ -5271,11 +5319,11 @@ Ever faithfully,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [Æt. 55]*
-
 ### Letter 235: Charles Dickens → Miss Dickens
 
-### To <span class="small-caps">Miss Dickens</span> [<span class="small-caps">second visit to America</span>]
+> *[Margin: [Æt. 55]*
+
+#### To <span class="small-caps">Miss Dickens</span><br />[<span class="small-caps">second visit to America</span>]
 
 <span class="small-caps">Parker House, Boston</span>,  
 Sunday, First December, 1867.
@@ -5290,11 +5338,11 @@ Tuesday, Third December.
 
 Most magnificent reception last night, and most signal and complete success. Nothing could be more triumphant. The people will hear of nothing else and talk of nothing else. Nothing that was ever done here, they all agree, evoked any approach to such enthusiasm. I was quite as cool and quick as if I were reading at Greenwich, and went at it accordingly. My love to Mr. and Mrs. Hulkes and the boy, and to Mr. and Mrs. Malleson.
 
-> *[Margin: [Æt. 56]]*
-
 ### Letter 236: Charles Dickens → Mrs. James T. Fields
 
-### <span class="small-caps">To Mrs. James T. Fields</span> <span class="small-caps">[welcome home from America]</span>
+> *[Margin: [Æt. 56]]*
+
+#### <span class="small-caps">To Mrs. James T. Fields</span><br /><span class="small-caps">[welcome home from America]</span>
 
 <span class="small-caps">Gad's Hill, Higham by Rochester, Kent,</span>  
 Twenty-fifth May, 1868.
@@ -5314,11 +5362,11 @@ Your most affectionate friend,
 
 <span class="small-caps">Charles Dickens.</span>
 
-> *[Margin: [Æt. 56]]*
-
 ### Letter 237: Charles Dickens → Edward Bulwer Lytton Dickens
 
-### <span class="small-caps">To Edward Bulwer Lytton Dickens</span> [^fn-p0419-1] <span class="small-caps">[A letter of good counsel]</span>
+> *[Margin: [Æt. 56]]*
+
+#### <span class="small-caps">To Edward Bulwer Lytton Dickens</span> [^fn-p0419-1]<br /><span class="small-caps">[A letter of good counsel]</span>
 
 [1868]
 
@@ -5344,7 +5392,7 @@ Your affectionate Father,
 
 ### Letter 238: Robert Browning → Mrs. Martin
 
-### [Æt. 44] ROBERT BROWNING 1812-1889 To <span class="small-caps">Mrs. Martin</span> [<span class="small-caps">the death of Mrs. Browning's father</span>]
+#### [Æt. 44] ROBERT BROWNING<br />1812-1889<br />To <span class="small-caps">Mrs. Martin</span><br />[<span class="small-caps">the death of Mrs. Browning's father</span>]
 
 <span class="small-caps">Florence</span>, May 3, 1857.
 
@@ -5360,11 +5408,11 @@ Yours faithfully ever,
 
 <span class="small-caps">Robert Browning.</span>
 
-> *[Margin: [Æt. 46]]*
-
 ### Letter 239: R. B. → Mr. Ruskin
 
-### <span class="small-caps">To Mr. Ruskin</span>
+> *[Margin: [Æt. 46]]*
+
+#### <span class="small-caps">To Mr. Ruskin</span>
 
 [<span class="small-caps">A postscript to a letter by his wife</span>]
 
@@ -5377,11 +5425,11 @@ Affectionately yours,
 
 R. B.
 
-> *[Margin: [ÆT. 49]]*
-
 ### Letter 240: Robert Browning → Miss Haworth
 
-### To <span class="small-caps">Miss Haworth</span> [<span class="small-caps">the death of Mrs. Browning</span>]
+> *[Margin: [ÆT. 49]]*
+
+#### To <span class="small-caps">Miss Haworth</span><br />[<span class="small-caps">the death of Mrs. Browning</span>]
 
 <span class="small-caps">Florence</span>, July 20, 1861.
 
@@ -5399,13 +5447,13 @@ Faithfully and affectionately yours,
 
 <span class="small-caps">Robert Browning.</span>
 
-> *[Margin: [Æt. 40]]*
-
 ### Letter 241: Ba. → Mrs. Martin
 
-### ELIZABETH BARRETT BROWNING 1806–1861
+> *[Margin: [Æt. 40]]*
 
-### To <span class="small-caps">Mrs. Martin</span> [<span class="small-caps">her marriage to Robert Browning</span>]
+#### ELIZABETH BARRETT BROWNING<br />1806–1861
+
+#### To <span class="small-caps">Mrs. Martin</span><br />[<span class="small-caps">her marriage to Robert Browning</span>]
 
 <span class="small-caps">Collegio Ferdinando, Pisa</span>,  
 October 20 [?], 1846.
@@ -5428,11 +5476,11 @@ Your affectionate and grateful
 
 <span class="small-caps">Ba.</span>
 
-> *[Margin: [Æt. 46]]*
-
 ### Letter 242: Ba. → Miss Mitford
 
-### To <span class="small-caps">Miss Mitford</span> [<span class="small-caps">George Sand</span>]
+> *[Margin: [Æt. 46]]*
+
+#### To <span class="small-caps">Miss Mitford</span><br />[<span class="small-caps">George Sand</span>]
 
 138 <span class="small-caps">Avenue des Ch.-Élysées</span>,  
 April 7, 1852.
@@ -5457,9 +5505,9 @@ Our darling is well; thank God.
 
 ### Letter 243: Edward Lear → Chichester Fortescue
 
-### [Æt. 35] EDWARD LEAR 1812–1888
+#### [Æt. 35] EDWARD LEAR<br />1812–1888
 
-### To <span class="small-caps">Chichester Fortescue</span> [<span class="small-caps">life in rome</span>]
+#### To <span class="small-caps">Chichester Fortescue</span><br />[<span class="small-caps">life in rome</span>]
 
 107 2<span class="small-caps">do</span> V<span class="small-caps">ia</span> F<span class="small-caps">elici</span>, R<span class="small-caps">oma</span>,  
 Feby. 12, 1848.
@@ -5478,7 +5526,7 @@ But a truce to growling and reflections. I should have told you that Bowen has w
 
 > *[Margin: [Æt. 54]]*
 
-### To <span class="small-caps">Lady Waldegrave</span> [“<span class="small-caps">there is no such a person</span>”]
+#### To <span class="small-caps">Lady Waldegrave</span><br />[“<span class="small-caps">there is no such a person</span>”]
 
 15, <span class="small-caps">Stratford Place, Oxford St., W.</span>  
 17 October, 1866.
@@ -5496,7 +5544,7 @@ Yours sincerely,
 
 ### Letter 245: J. L. M. → Wife
 
-### [Æt. 41]    JOHN LOTHROP MOTLEY 1814–1877 To <span class="small-caps">his Wife</span> [<span class="small-caps">an inn at dover</span>]
+#### [Æt. 41]    JOHN LOTHROP MOTLEY<br />1814–1877<br />To <span class="small-caps">his Wife</span><br />[<span class="small-caps">an inn at dover</span>]
 
 <span class="small-caps">Long's Hotel</span>,  
 Thursday morning, October 18th, 1855.
@@ -5509,11 +5557,11 @@ Ever your own
 
 J. L. M.
 
-> *[Margin: [Æt. 44]]*
-
 ### Letter 246: J. L. M. → Wife
 
-### To <span class="small-caps">his Wife</span> [<span class="small-caps">Thackeray at forty-six</span>]
+> *[Margin: [Æt. 44]]*
+
+#### To <span class="small-caps">his Wife</span><br />[<span class="small-caps">Thackeray at forty-six</span>]
 
 <span class="small-caps">London</span>,  
 May 28th, 1858.
@@ -5526,11 +5574,11 @@ Your affectionate
 
 J. L. M.
 
-> *[Margin: [Æt. 44]]*
-
 ### Letter 247: J. L. M. → Wife
 
-### To <span class="small-caps">his Wife</span> [<span class="small-caps">dining with Macaulay at the Mackintoshes’</span>]
+> *[Margin: [Æt. 44]]*
+
+#### To <span class="small-caps">his Wife</span><br />[<span class="small-caps">dining with Macaulay at the Mackintoshes’</span>]
 
 <span class="small-caps">London</span>,  
 May 30th, 1858.
@@ -5545,11 +5593,11 @@ Yours most affectionately,
 
 J. L. M.
 
-> *[Margin: [Æt. 23]]*
-
 ### Letter 248: C. Brontë → Ellen Nussey
 
-### CHARLOTTE BRONTË 1816–1855 <span class="small-caps">To Ellen Nussey</span> [<span class="small-caps">a curate proposes</span>]
+> *[Margin: [Æt. 23]]*
+
+#### CHARLOTTE BRONTË<br />1816–1855<br /><span class="small-caps">To Ellen Nussey</span><br />[<span class="small-caps">a curate proposes</span>]
 
 August 4th, 1839.
 
@@ -5559,11 +5607,11 @@ The Liverpool journey is yet a matter of talk, a sort of castle in the air; but,
 
 C. <span class="small-caps">Brontë.</span>
 
-> *[Margin: [Æt. 32]]*
-
 ### Letter 249: C. Brontë → Ellen Nussey
 
-### To <span class="small-caps">Ellen Nussey</span> [<span class="small-caps">dark days</span>]
+> *[Margin: [Æt. 32]]*
+
+#### To <span class="small-caps">Ellen Nussey</span><br />[<span class="small-caps">dark days</span>]
 
 October 9th, '48.
 
@@ -5579,11 +5627,11 @@ C. <span class="small-caps">Brontë</span>.
 
 *P.S.*—You are to understand that my bilious fever is quite gone now and that I am truly *much better*.
 
-> *[Margin: [Æt. 35]]*
-
 ### Letter 250: C. Brontë → George Smith
 
-### To <span class="small-caps">George Smith</span> [“<span class="small-caps">Henry Esmond</span>”; <span class="small-caps">Thackeray’s</span> “<span class="small-caps">cruel knife</span>”]
+> *[Margin: [Æt. 35]]*
+
+#### To <span class="small-caps">George Smith</span><br />[“<span class="small-caps">Henry Esmond</span>”; <span class="small-caps">Thackeray’s</span> “<span class="small-caps">cruel knife</span>”]
 
 February 14th, 1852.
 
@@ -5599,9 +5647,9 @@ C. <span class="small-caps">Brontë.</span>
 
 ### Letter 251: Henry D. Thoreau → Father and Mother
 
-### [Æt. 25] HENRY DAVID THOREAU 1817–1862
+#### [Æt. 25] HENRY DAVID THOREAU<br />1817–1862
 
-### <span class="small-caps">To his Father and Mother</span> [“<span class="small-caps">i do not like their cities</span>”]
+#### <span class="small-caps">To his Father and Mother</span><br />[“<span class="small-caps">i do not like their cities</span>”]
 
 <span class="small-caps">Castleton, Staten Island,</span> May 11, 1843.
 
@@ -5621,11 +5669,11 @@ Your affectionate son,
 
 <span class="small-caps">Henry D. Thoreau</span>.
 
-> *[Margin: [Æt. 33]]*
-
 ### Letter 252: Ralph Waldo Emerson
 
-### To <span class="small-caps">Ralph Waldo Emerson</span> [<span class="small-caps">margaret fuller's death</span>]
+> *[Margin: [Æt. 33]]*
+
+#### To <span class="small-caps">Ralph Waldo Emerson</span><br />[<span class="small-caps">margaret fuller's death</span>]
 
 <span class="small-caps">Fire Island Beach</span>,  
 Thursday morning, July 25, 1850.
@@ -5640,7 +5688,7 @@ The mortar would not go off. Mrs. Hasty, the captain's wife, told Mrs. Oakes tha
 
 ### Letter 253: James T. Fields → Henry W. Longfellow
 
-### [Æt. 46] JAMES T. FIELDS 1817–1881 To <span class="small-caps">Henry W. Longfellow</span> [^fn-p0452-1] [“<span class="small-caps">among the serenities</span>”]
+#### [Æt. 46] JAMES T. FIELDS<br />1817–1881<br />To <span class="small-caps">Henry W. Longfellow</span> [^fn-p0452-1]<br />[“<span class="small-caps">among the serenities</span>”]
 
 <span class="small-caps">Campton Village</span>,  
 June 19, 1864.
@@ -5649,16 +5697,20 @@ June 19, 1864.
 
 We are here among the serenities and the fresh eggs. Would that you were near, to feel with us the wonderful beauty of the hills! Do come, and go over the Willy acres, and drive down into the comforting valleys by the lovely river, and eat wild strawberries, and rattle over the hills in our old wagon. In one week of this life I have grown as rusty as an old nail. I have lost all care; and the bundles of business have dropped clean off my shoulders and gone into the Pemigewasset. All the *buzziness* here is done by the bees; and the only active people are the birds, who sing all day long about our old dwelling by the roadside. Such a careless, good-for-nothing peaceful old life as this is well worth trying. A great and glorious laziness creeps up and takes possession of you the moment you arrive, and never lets go its hold as long as you stay. You loaf about in dell and hollow, and lie down on the hillside and let the slugs crawl over you without a shake. In the “broad orchards resonant with bees” you go to sleep, and only wake up when the horn blows for dinner. We know nothing of the weather in these parts.
 
-“It may blow North, it still is warm,  
-Or South, it still is clear;  
-Or East, it smells like a clover farm,  
-Or West, no thunder fear.”
+> **[verse_insert]**
+>
+> “It may blow North, it still is warm,  
+> Or South, it still is clear;  
+> Or East, it smells like a clover farm,  
+> Or West, no thunder fear.”
 
 Will you not come? . . .
 
 I hope “Palingenesis” will be well launched when the July Atlantic is ready. I left directions to have it properly put in the papers, but I have small faith in editors when I am out of the way. I am sure nothing finer has been printed for years.
 
-“Suns rise and set in Saadi’s speech.”
+> **[verse_insert]**
+>
+> “Suns rise and set in Saadi’s speech.”
 
 My wife sends kindest regards and hopes you will make your way to our roadside perch in New Hampshire.
 
@@ -5668,13 +5720,13 @@ J. T. F.
 
 ### Letter 254: John Ruskin → Mary Russell Mitford
 
-### [ÆT. 34]                    JOHN RUSKIN
+#### [ÆT. 34]                    JOHN RUSKIN
 
-### 1819–1900
+#### 1819–1900
 
-### To <span class="small-caps">Mary Russell Mitford</span>
+#### To <span class="small-caps">Mary Russell Mitford</span>
 
-### [“<span class="small-caps">wild storm-clouds</span>”; <span class="small-caps">the lake country and the alps</span>]
+#### [“<span class="small-caps">wild storm-clouds</span>”; <span class="small-caps">the lake country and the alps</span>]
 
 <span class="small-caps">Keswick, Cumberland</span>,  
 Good Friday, 1853.
@@ -5698,9 +5750,9 @@ J. <span class="small-caps">Ruskin.</span>
 
 ### Letter 255: James Russell Lowell → C. F. Briggs
 
-### [Æt. 25]   JAMES RUSSELL LOWELL
+#### [Æt. 25]   JAMES RUSSELL LOWELL
 
-### 1819–1891 To C. F. <span class="small-caps">Briggs</span> [“<span class="small-caps">Elmwood Junior</span>”; “<span class="small-caps">Dr. Primrose</span>”]
+#### 1819–1891<br />To C. F. <span class="small-caps">Briggs</span><br />[“<span class="small-caps">Elmwood Junior</span>”; “<span class="small-caps">Dr. Primrose</span>”]
 
 <span class="small-caps">Elmwood</span>, Sept. 18, 1844.
 
@@ -5716,7 +5768,7 @@ J. R. L.
 
 > *[Margin: [Æt. 26]]*
 
-### To C. F. <span class="small-caps">Briggs</span> [<span class="small-caps">his daughter</span>]
+#### To C. F. <span class="small-caps">Briggs</span><br />[<span class="small-caps">his daughter</span>]
 
 Wednesday, Feb. 4, 1846.
 
@@ -5728,9 +5780,9 @@ You must count this as two distinct letters, and give me credit accordingly. To 
 
 > *[Margin: [Æt. 29]]*
 
-### To C. F. <span class="small-caps">Briggs</span>
+#### To C. F. <span class="small-caps">Briggs</span>
 
-### [<span class="small-caps">his “old garret”; “a fable for critics”</span>]
+#### [<span class="small-caps">his “old garret”; “a fable for critics”</span>]
 
 <span class="small-caps">Elmwood</span>, May 12, 1848.
 
@@ -5744,7 +5796,7 @@ I have begun upon the “Fable” again fairly, and am making some headway. I th
 
 > *[Margin: [Æt. 30]]*
 
-### To <span class="small-caps">Charles R. Lowell</span> [^fn-p0460-1] [“<span class="small-caps">the importance of ‘observing’</span>”]
+#### To <span class="small-caps">Charles R. Lowell</span> [^fn-p0460-1]<br />[“<span class="small-caps">the importance of ‘observing’</span>”]
 
 <span class="small-caps">Elmwood</span>, June 11, 1849.
 
@@ -5770,7 +5822,7 @@ J. R. <span class="small-caps">Lowell.</span>
 
 > *[Margin: [Æt. 33]]*
 
-### <span class="small-caps">To Mrs. Francis G. Shaw</span> [<span class="small-caps">LETTERS; THE SOULS OF HOUSES</span>]
+#### <span class="small-caps">To Mrs. Francis G. Shaw</span><br />[<span class="small-caps">LETTERS; THE SOULS OF HOUSES</span>]
 
 <span class="small-caps">Elmwood</span>, Jan. 11, 1853.
 
@@ -5786,7 +5838,7 @@ Now, the reason I am writing to you is this: I spent Sunday with Edmund Quincey 
 
 > *[Margin: [ÆT. 35]]*
 
-### To <span class="small-caps">Miss Norton</span> [<span class="small-caps">Beverly a New England Sorrento</span>]
+#### To <span class="small-caps">Miss Norton</span> [<span class="small-caps">Beverly a New England Sorrento</span>]
 
 <span class="small-caps">[Beverly]</span>, <span class="small-caps">Ship</span> “<span class="small-caps">Underhill</span>,” <span class="small-caps">Eldredge, Mistress</span>,  
 Lat. 40° 20′, Long. (bad observation),  
@@ -5804,7 +5856,7 @@ Well, well, after all, I am only saying that Nature is here as well as at Newpor
 
 > *[Margin: [Æt. 36]]*
 
-### To C. E. <span class="small-caps">Norton</span> [<span class="small-caps">Walt Whitman</span>]
+#### To C. E. <span class="small-caps">Norton</span><br />[<span class="small-caps">Walt Whitman</span>]
 
 <span class="small-caps">Dresden</span>, Monday, Oct. 12, 1855.
 
@@ -5816,7 +5868,7 @@ My dear Norton, upon my word I am not giving you an extract from my next lecture
 
 > *[Margin: [ÆT. 38]]*
 
-### To C. E. <span class="small-caps">Norton</span> [<span class="small-caps">MORNING WALKS</span>]
+#### To C. E. <span class="small-caps">Norton</span><br />[<span class="small-caps">MORNING WALKS</span>]
 
 <span class="small-caps">Cambridge</span>, Dec. 31, 1857.
 
@@ -5832,7 +5884,7 @@ But even the magazine has its compensations. First, it has almost got me out of 
 
 > *[Margin: [Æt. 39]*
 
-### <span class="small-caps">To Miss Norton</span> [<span class="small-caps">gout</span>]
+#### <span class="small-caps">To Miss Norton</span><br />[<span class="small-caps">gout</span>]
 
 <span class="small-caps">Cambridge</span>, Aug. 30, 1858.
 
@@ -5842,7 +5894,7 @@ But even the magazine has its compensations. First, it has almost got me out of 
 
 > *[Margin: [Æt. 39]]*
 
-### To O. W. <span class="small-caps">Holmes</span> [<span class="small-caps">the</span> “<span class="small-caps">professor</span>”; “<span class="small-caps">samson's weapon</span>”]
+#### To O. W. <span class="small-caps">Holmes</span><br />[<span class="small-caps">the</span> “<span class="small-caps">professor</span>”; “<span class="small-caps">samson's weapon</span>”]
 
 <span class="small-caps">Cambridge</span>, Dec. 19, 1858.
 
@@ -5864,7 +5916,7 @@ J. R. <span class="small-caps">Lowell</span>.
 
 > *[Margin: [Æt. 41]]*
 
-### To W. D. <span class="small-caps">Howells</span> [“<span class="small-caps">hold yourself dear</span>”]
+#### To W. D. <span class="small-caps">Howells</span><br />[“<span class="small-caps">hold yourself dear</span>”]
 
 <span class="small-caps">Cambridge</span>, Monday, Aug., 1860.
 
@@ -5884,7 +5936,7 @@ A man may have ever so much in him, but ever so much depends on how he gets it o
 
 ### Letter 266: James Russell Lowell → Nathaniel Hawthorne
 
-### To <span class="small-caps">Nathaniel Hawthorne</span>
+#### To <span class="small-caps">Nathaniel Hawthorne</span>
 
 [<span class="small-caps">William Dean Howells</span>]
 
@@ -5910,7 +5962,7 @@ J. R. <span class="small-caps">Lowell.</span>
 
 > *[Margin: [Æt. 42]]*
 
-### To <span class="small-caps">Miss Norton</span>
+#### To <span class="small-caps">Miss Norton</span>
 
 [<span class="small-caps">A misdated letter</span>]
 
@@ -5927,7 +5979,9 @@ Our trees are beginning to turn—the maples are all ablaze, and even in our *as
 
 I have had an adventure. I have dined with a prince. After changing my mind twenty times, I at last sat down desperately and “had the honor to accept.” And I was glad of it—for H. I. H.’s resemblance to his uncle is something wonderful. I had always supposed the portraits of the elder Nap imperialized, but Jerome N. looks as if he had sat for that picture where the emperor lies reading on a sofa—you remember it. A trifle weaker about the mouth, suggesting loss of teeth; but it is not so, for his teeth are exquisite. He looks as you would fancy his uncle if he were *Empereur de Ste. Hélène, roi d’Yvetôt.* I sat next to colonel Ragon, who led the forlorn hope at the taking of the Malakoff and was at the siege of Rome. He was a very pleasant fellow. (I don’t feel quite sure of my English yet—J’ai tant parlé Français que je trouve beaucoup de difficulté à m’y déshabituer.) Pendant—I mean during—the dinner Ooendel Homes récitait des vers vraiment jolis. Il arrivait déjà au bout, quand M. Ragon, se tournant vers moi d’un air mêlé d’intelligence et d’interrogation, et à la même fois d’un Colomb qui fait la découverte d’un monde tout nouveau, s’écria, “C’est en vers, Monsieur, n’est ce pas?” St’anegdot charmang j’ai rahcontay ah Ooendell daypwee, avec days eclah de reer. (See Bolmar.) Mr. Everett made a speech où il y avait un soupçon de longueur. The prince replied most gracefully, as one
 
-> “Who saying nothing yet saith all.”
+> **[verse_insert]**
+>
+> > “Who saying nothing yet saith all.”
 
 He speaks French exquisitely—foi de professeur. Ho parlato anche Italiano col Colonello, chi è stato sei anni in Italia, and I believe I should have tried Hebrew with the secretary of legation, who looked like a Jew, if I had had the chance. After dinner the prince was brought up and *presented to me!* Please remember that when we meet. The political part of our conversation of course I am not at liberty to repeat(!!), but he asked me whether I myself occupied of any work literary at present? to which I answered, no. Then he spoke of the factories at Lowell and Lawrence, and said how much the intelligence of the operatives had interested him, etc., etc. He said that Boston seemed to have much more movement intellectual than the rest of the country (to which I replied. *nous* le croyons, au moins); astonished himself at the freedom of opinion here, etc., at the absence of Puritanism and the like. I thought him very intelligent and thanked him for his bo deescoor o saynah Frongsay shure lays ahfair deetahlee. (See Bolmar again, which I took in my pocket.) . . .
 
@@ -5939,9 +5993,9 @@ J. R. L.
 
 > *[Margin: [Æt. 46]*
 
-### TO <span class="small-caps">Miss Norton</span>
+#### TO <span class="small-caps">Miss Norton</span>
 
-### [<span class="small-caps">hot weather; the “commemoration ode”</span>]
+#### [<span class="small-caps">hot weather; the “commemoration ode”</span>]
 
 <span class="small-caps">Elmwood</span>, July 25, 1865.
 
@@ -5961,9 +6015,9 @@ J. R. L.
 
 > *[Margin: [Æt. 48]]*
 
-### To C. E. <span class="small-caps">Norton</span>
+#### To C. E. <span class="small-caps">Norton</span>
 
-### [“<span class="small-caps">such stuff as stars are made of</span>”]
+#### [“<span class="small-caps">such stuff as stars are made of</span>”]
 
 <span class="small-caps">Elmwood</span>, July 18, 1867.
 
@@ -5973,7 +6027,7 @@ J. R. L.
 
 > *[Margin: [Æt. 50]]*
 
-### To <span class="small-caps">Miss Norton</span> [<span class="small-caps">on letter-writing</span>]
+#### To <span class="small-caps">Miss Norton</span><br />[<span class="small-caps">on letter-writing</span>]
 
 <span class="small-caps">Elmwood</span>, April 6th, 1869.
 
@@ -5987,7 +6041,7 @@ I have nothing else in the way of novelty, except an expedient I hit upon for my
 
 > *[Margin: [ÆT. 50]*
 
-### To T. B. <span class="small-caps">Aldrich</span> [“<span class="small-caps">the story of a bad boy</span>”]
+#### To T. B. <span class="small-caps">Aldrich</span><br />[“<span class="small-caps">the story of a bad boy</span>”]
 
 <span class="small-caps">Elmwood</span>, Nov. 30, 1869.
 
@@ -6007,9 +6061,9 @@ J. R. <span class="small-caps">Lowell</span>.
 
 > *[Margin: [Æt. 53]]*
 
-### To C. E. <span class="small-caps">Norton</span>
+#### To C. E. <span class="small-caps">Norton</span>
 
-### [“<span class="small-caps">The Idylls of the King</span>” <span class="small-caps">and</span> “<span class="small-caps">real Arthurian</span> <span class="small-caps">romance</span>”]
+#### [“<span class="small-caps">The Idylls of the King</span>” <span class="small-caps">and</span> “<span class="small-caps">real Arthurian</span><br /><span class="small-caps">romance</span>”]
 
 <span class="small-caps">Hôtel de Lorraine, No.</span> 7 <span class="small-caps">Rue de Beaune</span>,  
 <span class="small-caps">Paris</span>, Dec. 4, 1872.
@@ -6022,7 +6076,7 @@ I keep on picking up books here and there, but I shall be forced to stop, for I 
 
 > *[Margin: [Æt. 59]*
 
-### <span class="small-caps">To Miss Grace Norton</span> [<span class="small-caps">immortality</span>]
+#### <span class="small-caps">To Miss Grace Norton</span><br />[<span class="small-caps">immortality</span>]
 
 <span class="small-caps">Madrid</span>, March 7, 1878.
 
@@ -6032,7 +6086,7 @@ I keep on picking up books here and there, but I shall be forced to stop, for I 
 
 > *[Margin: [Æt. 63]]*
 
-### To W. D. <span class="small-caps">Howells</span> [<span class="small-caps">advice to an author</span>]
+#### To W. D. <span class="small-caps">Howells</span><br />[<span class="small-caps">advice to an author</span>]
 
 <span class="small-caps">Ashridge, Berkhampstead,</span> Dec. 21, 1882.
 
@@ -6056,7 +6110,7 @@ J. R. L.
 
 > *[Margin: [Æt. 70]]*
 
-### To <span class="small-caps">Mrs. Leslie Stephen</span> [<span class="small-caps">a grave rook</span>]
+#### To <span class="small-caps">Mrs. Leslie Stephen</span><br />[<span class="small-caps">a grave rook</span>]
 
 <span class="small-caps">Whitby</span>, Sept. 11, 1889.
 
@@ -6070,7 +6124,7 @@ I wonder if your moors have been as gracious as ours this year. I never know how
 
 > *[Margin: [Æt. 70]]*
 
-### To <span class="small-caps">the</span> M<span class="small-caps">isses</span> L<span class="small-caps">awrence</span> [<span class="small-caps">life at elmwood</span>]
+#### To <span class="small-caps">the</span> M<span class="small-caps">isses</span> L<span class="small-caps">awrence</span><br />[<span class="small-caps">life at elmwood</span>]
 
 E<span class="small-caps">lmwood</span>, C<span class="small-caps">ambridge</span>, M<span class="small-caps">ass.</span>,  
 Jan. 2, 1890.
@@ -6091,7 +6145,7 @@ J. R. L.
 
 ### Letter 277: Walt Whitman → his Mother
 
-### [ÆT. 44]                    WALT WHITMAN 1819–1892 TO <span class="small-caps">his</span> MOTHER [<span class="small-caps">in a war hospital</span>]
+#### [ÆT. 44]                    WALT WHITMAN<br />1819–1892<br />TO <span class="small-caps">his</span> MOTHER<br />[<span class="small-caps">in a war hospital</span>]
 
 <span class="small-caps">Washington</span> July 22, 1863
 
@@ -6099,7 +6153,7 @@ This afternoon, July 22d, I have spent a long time with Oscar F. Wilber, Company
 
 ### Letter 278: Charles Kingsley → Mr. Wood
 
-### [Æt. 23] CHARLES KINGSLEY 1819–1875 To <span class="small-caps">Mr. Wood</span> [<span class="small-caps">“The everlasting hills and the everlasting bores”</span>]
+#### [Æt. 23] CHARLES KINGSLEY<br />1819–1875<br />To <span class="small-caps">Mr. Wood</span><br />[<span class="small-caps">“The everlasting hills and the everlasting bores”</span>]
 
 [1842]
 
@@ -6113,7 +6167,7 @@ Your faithful friend,
 
 ### Letter 279: George Eliot → Mrs. Bray
 
-### [Æt. 35]          GEORGE ELIOT 1819–1880 To <span class="small-caps">Mrs. Bray</span> [<span class="small-caps">george henry lewes</span>]
+#### [Æt. 35]          GEORGE ELIOT<br />1819–1880<br />To <span class="small-caps">Mrs. Bray</span><br />[<span class="small-caps">george henry lewes</span>]
 
 4th September, 1855.
 
@@ -6123,9 +6177,9 @@ Your faithful friend,
 
 ### Letter 280: Matthew Arnold → Miss Arnold
 
-### [Æt. 37]    MATTHEW ARNOLD
+#### [Æt. 37]    MATTHEW ARNOLD
 
-### 1822–1888 To <span class="small-caps">Miss Arnold</span> <span class="small-caps">[Tennyson “deficient in intellectual power”]</span>
+#### 1822–1888<br />To <span class="small-caps">Miss Arnold</span><br /><span class="small-caps">[Tennyson “deficient in intellectual power”]</span>
 
 2 <span class="small-caps">Chester Square</span>, December 17, 1860.
 
@@ -6135,7 +6189,7 @@ Your faithful friend,
 
 > *[Margin: [Æt. 38]]*
 
-### To <span class="small-caps">his</span> M<span class="small-caps">other</span> [<span class="small-caps">the white horse vale; cumnor</span>]
+#### To <span class="small-caps">his</span> M<span class="small-caps">other</span><br />[<span class="small-caps">the white horse vale; cumnor</span>]
 
 O<span class="small-caps">xford</span>, May 14, 1861.
 
@@ -6151,7 +6205,7 @@ M. A.
 
 > *[Margin: [Æt. 40]]*
 
-### <span class="small-caps">To his Mother</span> [“<span class="small-caps">though bold, never paradoxical</span>”]
+#### <span class="small-caps">To his Mother</span><br />[“<span class="small-caps">though bold, never paradoxical</span>”]
 
 <span class="small-caps">The Athenæum</span>, October 13, 1863.
 
@@ -6168,7 +6222,7 @@ M. A.
 
 > *[Margin: [Æt. 41]]*
 
-### To <span class="small-caps">his Mother</span> [“<span class="small-caps">but of this inward spring one must not talk</span>”]
+#### To <span class="small-caps">his Mother</span><br />[“<span class="small-caps">but of this inward spring one must not talk</span>”]
 
 <span class="small-caps">The Athenæum, London</span>,  
 December 24, 1863.
@@ -6189,7 +6243,7 @@ M. A.
 
 > *[Margin: [*Æt.* 60]]*
 
-### To <span class="small-caps">Miss Arnold</span> [<span class="small-caps">impressions of america</span>]
+#### To <span class="small-caps">Miss Arnold</span><br />[<span class="small-caps">impressions of america</span>]
 
 <span class="small-caps">The St. Botolph Club</span>,  
 85 <span class="small-caps">Boylston Street, Boston</span>,  
@@ -6205,7 +6259,7 @@ M. A.
 
 > *[Margin: [Æt. 60]*
 
-### To <span class="small-caps">Miss Arnold</span> [<span class="small-caps">Emerson; Amherst</span>]
+#### To <span class="small-caps">Miss Arnold</span><br />[<span class="small-caps">Emerson; Amherst</span>]
 
 <span class="small-caps">Somerset Club, Boston</span>,  
 Saturday, December 8, 1883.
@@ -6220,9 +6274,9 @@ M. A.
 
 ### Letter 286: Thomas Henry Huxley → John Tyndall
 
-### [Æt. 46] · THOMAS HENRY HUXLEY 1825–1895
+#### [Æt. 46] · THOMAS HENRY HUXLEY<br />1825–1895
 
-### <span class="small-caps">To John Tyndall</span> [<span class="small-caps">A visit to Vesuvius</span>]
+#### <span class="small-caps">To John Tyndall</span><br />[<span class="small-caps">A visit to Vesuvius</span>]
 
 <span class="small-caps">Hotel de Grande Bretagne, Naples,</span>  
 March 31, 1872.
@@ -6243,7 +6297,7 @@ T. H. <span class="small-caps">Huxley.</span>
 
 > *[Margin: [Æt. 34]]*
 
-### FITZ-JAMES O'BRIEN 1828–1862 <span class="small-caps">To a Friend</span> <span class="small-caps">[from a soldier's death-bed]</span>
+#### FITZ-JAMES O'BRIEN<br />1828–1862<br /><span class="small-caps">To a Friend</span><br /><span class="small-caps">[from a soldier's death-bed]</span>
 
 [April, 1862]
 
@@ -6253,7 +6307,7 @@ T. H. <span class="small-caps">Huxley.</span>
 
 > *[Margin: [Æt. 41]]*
 
-### DANTE GABRIEL ROSSETTI 1828–1882 <span class="small-caps">To William Rossetti</span> <span class="small-caps">["recovering my lost MSS."]</span>
+#### DANTE GABRIEL ROSSETTI<br />1828–1882<br /><span class="small-caps">To William Rossetti</span><br /><span class="small-caps">["recovering my lost MSS."]</span>
 
 13 October, 1869.
 
@@ -6267,7 +6321,7 @@ I trust you will not—but I know you cannot—think that I showed any want of c
 
 > *[Margin: [Æt. 44]]*
 
-### <span class="small-caps">To his Mother</span> [<span class="small-caps">disciplining a dog</span>]
+#### <span class="small-caps">To his Mother</span><br />[<span class="small-caps">disciplining a dog</span>]
 
 <span class="small-caps">Kelmscott, Lechlade</span>,  
 27 March, 1873.
@@ -6289,13 +6343,13 @@ D. <span class="small-caps">Gabriel</span> R.
 
 In the morning he trotted into the breakfast-room as usual, but was received with shouts of obloquy, upon which he turned tail at once and fled. At dinner the same day he reappeared; whereupon we tied him to the leg of the piano, and had in another dog who is here, called Turvy. We set a plate just out of Dizzy's reach, and fed Turvy with three successive helps of beef and macaroni, between each of which Dizzy's feelings found vent in “voci alte e fioche.” After this Turvy was much caressed, and every now and then left us, to walk leisurely round Dizzy and survey him as an accessory deserving of passing notice. Dizzy has been a convict ever since, and knows it. This morning, on entering the break-fast-room, I found him rolled up on the mat before the fire, and, being occupied with other things, for the moment forgot his position. On my appearance, he raised his head in doubt, but, when I sat down and said nothing, he let his head drop again on the mat with an air of luxurious relief. This served as a reminder, and I shrieked, “What, not Dizzy!” in such tones that he arose in a moment and fled to the shades with an expression of anguish which cannot be described. I think the ban will soon have to be taken off him now. At present the only relaxation is that he is allowed to accompany us in our walks, but without recognition from us. One only has to show one's thumb to him, and his sins fall back on his head in a moment, and drive him into solitude.
 
-> *[Margin: [Æt. 34]]*
-
 ### Letter 290: George Meredith → William Hardman
 
-### <span class="small-caps">GEORGE MEREDITH</span> 1828–1909
+> *[Margin: [Æt. 34]]*
 
-### To <span class="small-caps">William Hardman</span> [“<span class="small-caps">tuck</span>” <span class="small-caps">disappoints</span>]
+#### <span class="small-caps">GEORGE MEREDITH</span><br />1828–1909
+
+#### To <span class="small-caps">William Hardman</span><br />[“<span class="small-caps">tuck</span>” <span class="small-caps">disappoints</span>]
 
 May 2, 1862.
 
@@ -6315,28 +6369,30 @@ Went to Exhibition on opening Day with Borthwick. Crush. Saw everything. . . . D
 
 <span class="small-caps">George M.</span>
 
-> *[Margin: [Æt. 34]]*
-
 ### Letter 291: George Meredith → William Hardman
 
-### To <span class="small-caps">William Hardman</span> [“<span class="small-caps">asparagus is ripe</span>”]
+> *[Margin: [Æt. 34]]*
+
+#### To <span class="small-caps">William Hardman</span><br />[“<span class="small-caps">asparagus is ripe</span>”]
 
 <span class="small-caps">Copsham</span>, May 5, 1862.
 
-### Madrigal “Since Tuck is faithless found”
-
-Since Tuck is faithless found, no more  
-I’ll trust to man or maid;  
-I’ll sit me down, a hermit hoar,  
-Alone in Copsham shade.  
-  
-The sight of all I shun;  
-Far-spying from the mound;  
-I’ll be at home no more,  
-    Since Tuck,  
-    Since Tu-a tu-a tu-a  
-    Tuia Tuck,  
-Since Tuck is faithless found.
+> **[verse_insert]**
+>
+> ###### Madrigal<br />“Since Tuck is faithless found”
+>
+> Since Tuck is faithless found, no more  
+> I’ll trust to man or maid;  
+> I’ll sit me down, a hermit hoar,  
+> Alone in Copsham shade.  
+>   
+> The sight of all I shun;  
+> Far-spying from the mound;  
+> I’ll be at home no more,  
+>     Since Tuck,  
+>     Since Tu-a tu-a tu-a  
+>     Tuia Tuck,  
+> Since Tuck is faithless found.
 
 Oh! what a glorious day. I have done lots of Emilia,[^fn-p0505-1] and am now off to Ripley, or St. Demitroïa hill, or Tuck’s Height, carolling. I snap my fingers at you. And yet, dear Tuck, what would I give to have you here. The gorse is all ablaze, the meadows are glorious—green, humming all day. Nightingales throng. Heaven, blessed blue amorous Heaven is hard at work upon our fair, wanton, darling old naughty Mother Earth.
 
@@ -6344,13 +6400,13 @@ Come, dear Tuck, and quickly, or I must love a woman, and be ruined. Answer me, 
 
 In thine ear!—Asparagus is ripe at Ripley. In haste. —Your constantly loving friend, <span class="small-caps">George</span> M.
 
+### Letter 292: George Meredith → Rev. Augustus Jessopp
+
 > *[Margin: [Æt. 36]*
 
 > *[Margin: [Æt. 36]]*
 
-### Letter 292: George Meredith → Rev. Augustus Jessopp
-
-### To <span class="small-caps">the Rev. Augustus Jessopp</span> [“<span class="small-caps">little writers should be realistic</span>”]
+#### To <span class="small-caps">the Rev. Augustus Jessopp</span><br />[“<span class="small-caps">little writers should be realistic</span>”]
 
 Sept. 20, 1864.
 
@@ -6364,11 +6420,11 @@ Does not all science (the mammoth balloon, to wit) tell us that when we forsake 
 
 <span class="small-caps">George Meredith.</span>
 
-> *[Margin: [Æt. 36]]*
-
 ### Letter 293: George Meredith → Miss J—— H——
 
-### To <span class="small-caps">Miss</span> J—— H—— [<span class="small-caps">rejecting a novel</span>]
+> *[Margin: [Æt. 36]]*
+
+#### To <span class="small-caps">Miss</span> J—— H——<br />[<span class="small-caps">rejecting a novel</span>]
 
 193 <span class="small-caps">Piccadilly, London</span>, W., Nov. 22, 1864.
 
@@ -6376,7 +6432,7 @@ The chief fault in your stories is the redundancy of words which overlays them; 
 
 ### Letter 294: George Meredith → Miss J—— H——
 
-### To <span class="small-caps">Miss</span> J—— H—— [“<span class="small-caps">learn to destroy remorselessly</span>”]
+#### To <span class="small-caps">Miss</span> J—— H——<br />[“<span class="small-caps">learn to destroy remorselessly</span>”]
 
 193 <span class="small-caps">Piccadilly, London</span>, W.
 
@@ -6386,11 +6442,11 @@ You speak of the exclamatory style as being, you think, essentially and naturall
 
 > *[Margin: [Æt. 44]*
 
-> *[Margin: [Æt. 44]]*
-
 ### Letter 295: George Meredith → Arthur G. Meredith
 
-### To <span class="small-caps">Arthur G. Meredith</span> [“<span class="small-caps">Let nothing flout your sense of a supreme being</span>”]
+> *[Margin: [Æt. 44]]*
+
+#### To <span class="small-caps">Arthur G. Meredith</span><br />[“<span class="small-caps">Let nothing flout your sense of a supreme being</span>”]
 
 <span class="small-caps">Box Hill, Dorking, Surrey,</span>  
 <span class="small-caps">England</span>, April 25, 1872.
@@ -6405,7 +6461,7 @@ You speak of the exclamatory style as being, you think, essentially and naturall
 
 > *[Margin: [Æt. 46]]*
 
-### To <span class="small-caps">Captain Maxse</span> [<span class="small-caps">a parson-pigeon</span>]
+#### To <span class="small-caps">Captain Maxse</span><br />[<span class="small-caps">a parson-pigeon</span>]
 
 <span class="small-caps">Box Hill</span>, August 15, 1874.
 
@@ -6419,7 +6475,7 @@ I write so that you may not be disappointed of a letter at Meyringen, and good m
 
 > *[Margin: [Æt. 50]]*
 
-### To R. L. <span class="small-caps">Stevenson</span> [<span class="small-caps">praise and blame; henley</span>]
+#### To R. L. <span class="small-caps">Stevenson</span><br />[<span class="small-caps">praise and blame; henley</span>]
 
 <span class="small-caps">Box Hill, Dorking</span>, June 4, 1878.
 
@@ -6441,11 +6497,11 @@ Adieu. I trust you are well. Look to health. Run to no excess in writing or in a
 
 <span class="small-caps">George Meredith.</span>
 
-> *[Margin: [Æt. 54]]*
-
 ### Letter 298: George Meredith → M. André Raffalovich
 
-### To <span class="small-caps">M. André Raffalovich</span> [<span class="small-caps">Leslie Stephen and “The Sunday Tramps”</span>]
+> *[Margin: [Æt. 54]]*
+
+#### To <span class="small-caps">M. André Raffalovich</span><br />[<span class="small-caps">Leslie Stephen and “The Sunday Tramps”</span>]
 
 <span class="small-caps">Box Hill, Dorking</span>, April 8, 1882.
 
@@ -6459,13 +6515,13 @@ Believe me, your most faithful
 
 <span class="small-caps">George Meredith</span>.
 
-> *[Margin: [ÆT. 54]]*
-
 ### Letter 299: George Meredith → M. André Raffalovich
 
-### To M. <span class="small-caps">André Raffalovich</span>
+> *[Margin: [ÆT. 54]]*
 
-### [<span class="small-caps">Carlyle and his wife; Stevenson</span>]
+#### To M. <span class="small-caps">André Raffalovich</span>
+
+#### [<span class="small-caps">Carlyle and his wife; Stevenson</span>]
 
 <span class="small-caps">Box Hill, Dorking</span>,  
 May 23, 1882.
@@ -6480,11 +6536,11 @@ My thanks are due to you for your articles on my works. Pardon me if I do not co
 
 <span class="small-caps">George Meredith.</span>
 
-> *[Margin: [<span class="small-caps">Æt.</span> 60]*
-
 ### Letter 300: George Meredith → W. E. Henley
 
-### To W. E. <span class="small-caps">Henley</span> [^fn-p0515-1] [“<span class="small-caps">in hospital</span>”]
+> *[Margin: [<span class="small-caps">Æt.</span> 60]*
+
+#### To W. E. <span class="small-caps">Henley</span> [^fn-p0515-1]<br />[“<span class="small-caps">in hospital</span>”]
 
 <span class="small-caps">Box Hill, Dorking</span>, June 1, 1888.
 
@@ -6500,11 +6556,11 @@ I thank you for the volume. It has the tone of a voice in the ear—as near to l
 
 <span class="small-caps">George Meredith.</span>
 
-> *[Margin: [Æt. 64]]*
-
 ### Letter 301: George Meredith → Mrs. Bovill
 
-### To <span class="small-caps">Mrs. Bovill</span> [“<span class="small-caps">the shaving of shagpat</span>”]
+> *[Margin: [Æt. 64]]*
+
+#### To <span class="small-caps">Mrs. Bovill</span><br />[“<span class="small-caps">the shaving of shagpat</span>”]
 
 <span class="small-caps">Box Hill, Dorking,</span> August 16, 1892.
 
@@ -6516,11 +6572,11 @@ I was pleased to have your letter, and shall rejoice when it is my good chance t
 
 <span class="small-caps">George Meredith.</span>
 
-> *[Margin: [Æt. 74]]*
-
 ### Letter 302: George Meredith → Lady Ulrica Duncombe
 
-### To <span class="small-caps">Lady Ulrica Duncombe</span> [<span class="small-caps">a</span> “<span class="small-caps">weight of apprehension</span>”; “<span class="small-caps">diana</span>”]
+> *[Margin: [Æt. 74]]*
+
+#### To <span class="small-caps">Lady Ulrica Duncombe</span><br />[<span class="small-caps">a</span> “<span class="small-caps">weight of apprehension</span>”; “<span class="small-caps">diana</span>”]
 
 <span class="small-caps">Box Hill, Dorking,</span> Autumn, 1902.
 
@@ -6530,11 +6586,11 @@ I was pleased to have your letter, and shall rejoice when it is my good chance t
 
 <span class="small-caps">George Meredith.</span>
 
-> *[Margin: [Æt. 77]]*
-
 ### Letter 303: George Meredith → Edmund Gosse
 
-### To <span class="small-caps">Edmund Gosse</span> [“<span class="small-caps">the dynasts</span>”]
+> *[Margin: [Æt. 77]]*
+
+#### To <span class="small-caps">Edmund Gosse</span><br />[“<span class="small-caps">the dynasts</span>”]
 
 <span class="small-caps">Box Hill, Dorking</span>, July 2, 1905.
 
@@ -6548,11 +6604,11 @@ Pray give me a chance of conversing with you some day after August.—Faithfully
 
 <span class="small-caps">George Meredith.</span>
 
-> *[Margin: [Æt. 77]]*
-
 ### Letter 304: George Meredith → John Morley
 
-### To <span class="small-caps">the</span> Rt. Hon. <span class="small-caps">John Morley</span> [“<span class="small-caps">I shall retain my laugh in death’s ear</span>”]
+> *[Margin: [Æt. 77]]*
+
+#### To <span class="small-caps">the</span> Rt. Hon. <span class="small-caps">John Morley</span><br />[“<span class="small-caps">I shall retain my laugh in death’s ear</span>”]
 
 <span class="small-caps">Box Hill, Dorking</span>, Nov. 9, 1905.
 
@@ -6564,11 +6620,11 @@ Give my love to your wife. I have tried to be worthy of her resignation, and can
 
 <span class="small-caps">George Meredith.</span>
 
-> *[Margin: [Æt. 80]]*
-
 ### Letter 305: George Meredith → Mrs. Sturgis
 
-### To <span class="small-caps">Mrs. Sturgis</span>[^fn-p0520-1] [“<span class="small-caps">the scripture moveth us</span>”]
+> *[Margin: [Æt. 80]]*
+
+#### To <span class="small-caps">Mrs. Sturgis</span>[^fn-p0520-1]<br />[“<span class="small-caps">the scripture moveth us</span>”]
 
 <span class="small-caps">Box Hill, Dorking</span>, August 20, 1908.
 
@@ -6578,11 +6634,11 @@ We have now S.west wind, fleets of white cloud and breezy foliage. But there are
 
 <span class="small-caps">George Meredith.</span>
 
-> *[Margin: [Æt. 41]]*
-
 ### Letter 306: Charles L. Dodgson → Miss Gaynor Simpson
 
-### CHARLES L. DODGSON (LEWIS CARROLL) 1832–1898 To <span class="small-caps">a Child (Miss Gaynor Simpson)</span> [“<span class="small-caps">dancing, of my peculiar kind</span>”]
+> *[Margin: [Æt. 41]]*
+
+#### CHARLES L. DODGSON (LEWIS CARROLL)<br />1832–1898<br />To <span class="small-caps">a Child (Miss Gaynor Simpson)</span><br />[“<span class="small-caps">dancing, of my peculiar kind</span>”]
 
 December 27, 1873.
 
@@ -6598,9 +6654,9 @@ Your affectionate friend,
 
 <span class="small-caps">Lewis Carroll.</span>
 
-### Letter 307: William Morris
+### Letter 307: William Morris → a Friend [Swinburne]
 
-### [Æt. 48]     <span class="small-caps">WILLIAM MORRIS</span> 1834–1896 To <span class="small-caps">a Friend</span> [<span class="small-caps">Swinburne</span>]
+#### [Æt. 48]     <span class="small-caps">WILLIAM MORRIS</span><br />1834–1896<br />To <span class="small-caps">a Friend</span><br />[<span class="small-caps">Swinburne</span>]
 
 [1882]
 
@@ -6608,13 +6664,13 @@ As to the poem,[^fn-p0521-1] I have made two or three attempts to read it, but h
 
 In all this I may be quite wrong and the lack may be in myself: I only state my opinion, I don't defend it; still less do I my own poetry.
 
-> *[Margin: [Æt. 60]]*
-
 ### Letter 308: William Morris → Philip Webb
 
-### To <span class="small-caps">Philip Webb</span>[^fn-p0522-1]
+> *[Margin: [Æt. 60]]*
 
-### [“<span class="small-caps">The public does not really care about them</span>”]
+#### To <span class="small-caps">Philip Webb</span>[^fn-p0522-1]
+
+#### [“<span class="small-caps">The public does not really care about them</span>”]
 
 <span class="small-caps">Kelmscott House</span>,  
 August 27th, ’94.
@@ -6635,7 +6691,7 @@ Yours affectionately,
 
 ### Letter 309: Phillips Brooks → Charles D. Cooper
 
-### [Æt. 47]    PHILLIPS BROOKS 1835–1893 To <span class="small-caps">Charles D. Cooper</span> [<span class="small-caps">impressions of India</span>]
+#### [Æt. 47]    PHILLIPS BROOKS<br />1835–1893<br />To <span class="small-caps">Charles D. Cooper</span><br />[<span class="small-caps">impressions of India</span>]
 
 <span class="small-caps">Chedambaram</span>, [<span class="small-caps">India</span>,]  
 February 22, 1883.
@@ -6654,11 +6710,11 @@ Ever and ever yours,
 
 P. B.
 
-> *[Margin: [Æt. 28]*
-
 ### Letter 310: John Addington Symonds → Henry Sidgwick
 
-### JOHN ADDINGTON SYMONDS 1840–1893 To <span class="small-caps">Henry Sidgwick</span> [“<span class="small-caps">richard feverel</span>”]
+> *[Margin: [Æt. 28]*
+
+#### JOHN ADDINGTON SYMONDS<br />1840–1893<br />To <span class="small-caps">Henry Sidgwick</span><br />[“<span class="small-caps">richard feverel</span>”]
 
 [<span class="small-caps">Clifton Hill House</span>,  
 May 17, 1869.]
@@ -6669,11 +6725,11 @@ I have finished “Richard Feverel.” I kept constantly telling myself that “
 
 Since I last wrote things have not altered much, except that my emotions are less occupied and my imagination more exercised. It is difficult to do anything educationally, or towards living in common here. But I grow and steady and intensify in feeling. The lectures do pretty well, but I have not the art of lecturing; and I do not believe in my own lectures. Yet I keep a fair face and try to be impressive.
 
-> *[Margin: [Æt. 45]]*
-
 ### Letter 311: John Addington Symonds → Robert Louis Stevenson
 
-### To <span class="small-caps">Robert Louis Stevenson</span> [“<span class="small-caps">Dr. Jekyll and Mr. Hyde</span>,” <span class="small-caps">with a suggestion</span>]
+> *[Margin: [Æt. 45]]*
+
+#### To <span class="small-caps">Robert Louis Stevenson</span><br />[“<span class="small-caps">Dr. Jekyll and Mr. Hyde</span>,” <span class="small-caps">with a suggestion</span>]
 
 <span class="small-caps">Davos</span>, March 1, 1886.
 
@@ -6687,21 +6743,21 @@ I seem to have lost you so utterly that I can afford to fling truth of the crude
 
 The suicide end of Dr. Jekyll is too commonplace. Dr. Jekyll ought to have given Mr. Hyde up to justice. This would have vindicated the sense of human dignity which is so horribly outraged in your book.
 
-> *[Margin: [Æt. 50]]*
-
 ### Letter 312: John Addington Symonds → Edmund Gosse
 
-### To <span class="small-caps">Edmund Gosse</span> [<span class="small-caps">tobogganing</span>]
+> *[Margin: [Æt. 50]]*
+
+#### To <span class="small-caps">Edmund Gosse</span><br />[<span class="small-caps">tobogganing</span>]
 
 <span class="small-caps">Davos</span>, February 23rd, 1891.
 
 . . . I have lost my power of living like an invalid. The constant effort of a lifetime to control my health and create the best conditions for repelling disease, has worn my faculties of endurance out. So I do things now which are not prudent. I drove yesterday to a village two hours away from here; attended a peasant theatre, which was tremendous fun; dined with three good companions, Swiss; and drove home at midnight in an open sledge under the most glorious moon and icy wind from the glaciers. This is not a cure for bronchitis. And again, to-day, I started with my girls and our toboggans, and ran a course of four miles, crashing at lightning speed over the snow and ice. We did the journey in about eleven minutes, and I came in breathless, dead-beat, almost fainting. Then home in the railway, with open windows and a mad crew of young men and maidens excited by this thrilling exercise. It was solemn and beautiful upon the run. The sun had set, but all the heavens were rosy with its after-glow, and the peaks and snow-fields which surrounded us shone in every tone of crimson and saffron. Then from behind the vast black bulk of a mountain mass, the rising full moon swam rapidly upon our sight, a huge transpicuous dew-pearl of intensest green, bathed in the warm colours of the burning skies. People who summer in the Arctic circle describe these luminous effects. Our rapid motion through the celestial wonders and over the myriad-tinted snow-path, added an intoxicating glory to the vision—until, as we descended from the upper height, the splendours and the path we sped upon were swallowed up in vast chasms of primeval pine-forests, whence we emerged again into the flooding silver of the moon, which at a lower level strove victoriously with the sunset-incandescence we had left behind. But this again was no cure for bronchitis. I have just supped at 11 P. M., and am writing to you with pipe in mouth before I turn into bed.
 
-> *[Margin: [Æt. 35]]*
-
 ### Letter 313: Sidney Lanier → Gibson Peacock
 
-### SIDNEY LANIER 1842–1881 To <span class="small-caps">Gibson Peacock</span> <span class="small-caps">[settling at Baltimore]</span>
+> *[Margin: [Æt. 35]]*
+
+#### SIDNEY LANIER<br />1842–1881<br />To <span class="small-caps">Gibson Peacock</span><br /><span class="small-caps">[settling at Baltimore]</span>
 
 33 <span class="small-caps">Denmead St., Baltimore, Md.,</span>  
 January 6, 1878.
@@ -6710,13 +6766,13 @@ The painters, the whitewashers, the plumbers, the locksmiths, the carpenters, th
 
 I confess I *am* a little nervous about the gas-bills, which must come in, in the course of time; and there are the water-rates, and several sorts of imposts and taxes: but then, the dignity of being liable for such things(!) is a very supporting consideration. No man is a Bohemian who has to pay water-rates and a street-tax. Every day when I sit down in my dining-room—*my* dining-room!—I find the wish growing stronger that each poor soul in Baltimore, whether saint or sinner, could come and dine with me. How I would carve out the merrythoughts for the old hags! How I would stuff the big wall-eyed rascals till their rags ripped again! There was a knight of old times who built the dining-hall of his castle across the highway, so that every wayfarer must perforce pass through: there the traveller, rich or poor, found always a trencher and wherewithal to fill it. Three times a day, in my own chair at my own table, do I envy that knight and wish that I might do as he did.
 
-> *[Margin: [Æt. 21]]*
-
 ### Letter 314: Robert Louis Stevenson → Alison Cunningham
 
-### ROBERT LOUIS STEVENSON 1850–1894
+> *[Margin: [Æt. 21]]*
 
-### To <span class="small-caps">Alison Cunningham</span> [<span class="small-caps">to his nurse</span>]
+#### ROBERT LOUIS STEVENSON<br />1850–1894
+
+#### To <span class="small-caps">Alison Cunningham</span><br />[<span class="small-caps">to his nurse</span>]
 
 [1871?]
 
@@ -6728,11 +6784,11 @@ Happily, it is not the result of our acts that makes them brave and noble, but t
 
 <span class="small-caps">Louis.</span>
 
-> *[Margin: [Æt. 22]]*
-
 ### Letter 315: Robert Louis Stevenson → Charles Baxter
 
-### To <span class="small-caps">Charles Baxter</span> [<span class="small-caps">Scotch theology</span>]
+> *[Margin: [Æt. 22]]*
+
+#### To <span class="small-caps">Charles Baxter</span><br />[<span class="small-caps">Scotch theology</span>]
 
 17 <span class="small-caps">Heriot Row, Edinburgh</span>,  
 Sunday, February 2, 1873.
@@ -6751,13 +6807,13 @@ Don’t—I don’t know what I was going to say. I am an abject idiot, which, a
 
 R. L. <span class="small-caps">Stevenson</span>.
 
-> *[Margin: [Æt. 24]]*
-
 ### Letter 316: Robert Louis Stevenson → Mrs. Sitwell
 
-### To <span class="small-caps">Mrs. Sitwell</span>
+> *[Margin: [Æt. 24]]*
 
-### [<span class="small-caps">children; early writing; a poet</span>]
+#### To <span class="small-caps">Mrs. Sitwell</span>
+
+#### [<span class="small-caps">children; early writing; a poet</span>]
 
 <span class="small-caps">Edinburgh</span>, Tuesday [January, 1875].
 
@@ -6773,11 +6829,11 @@ We have had two beautiful spring days, mild as milk, windy withal, and the sun h
 
 <span class="small-caps">Robert Louis Stevenson.</span>
 
-> *[Margin: [*Æt.* 29]*
-
 ### Letter 317: Robert Louis Stevenson → W. E. Henley
 
-### To W. E. <span class="small-caps">Henley</span> [“<span class="small-caps">across the plains</span>”]
+> *[Margin: [*Æt.* 29]*
+
+#### To W. E. <span class="small-caps">Henley</span><br />[“<span class="small-caps">across the plains</span>”]
 
 <span class="small-caps">Crossing Nebraska</span>, [1879].
 
@@ -6791,11 +6847,11 @@ We are going along Bitter Creek just now, a place infamous in the history of emi
 
 R. L. S.
 
-> *[Margin: [Æt. 29]]*
-
 ### Letter 318: Robert Louis Stevenson → Sidney Colvin
 
-### To <span class="small-caps">Sidney Colvin</span> [<span class="small-caps">a day in his life</span>]
+> *[Margin: [Æt. 29]]*
+
+#### To <span class="small-caps">Sidney Colvin</span><br />[<span class="small-caps">a day in his life</span>]
 
 608 <span class="small-caps">Bush Street, San Francisco</span>,  
 [January 10, 1880].
@@ -6820,11 +6876,11 @@ I am afraid I bore you sadly with this perpetual talk about my affairs; I will t
 
 R. L. S.
 
-> *[Margin: [Æt. 29]]*
-
 ### Letter 319: Robert Louis Stevenson → Edmund Gosse
 
-### To <span class="small-caps">Edmund Gosse</span> [<span class="small-caps">a “friendly game” with death</span>]
+> *[Margin: [Æt. 29]]*
+
+#### To <span class="small-caps">Edmund Gosse</span><br />[<span class="small-caps">a “friendly game” with death</span>]
 
 <span class="small-caps">San Francisco, Cal.,</span>  
 April 16 [1880].
@@ -6835,11 +6891,11 @@ You have not answered my last; and I know you will repent when you hear how near
 
 R. L. S.
 
-> *[Margin: [Æt. 30]]*
-
 ### Letter 320: Robert Louis Stevenson → W. E. Henley
 
-### To W. E. <span class="small-caps">Henley</span> [“<span class="small-caps">treasure island</span>”]
+> *[Margin: [Æt. 30]]*
+
+#### To W. E. <span class="small-caps">Henley</span><br />[“<span class="small-caps">treasure island</span>”]
 
 <span class="small-caps">Braemar</span>, August, 1881.
 
@@ -6856,11 +6912,11 @@ Your “Admiral Guinea” is curiously near my line, but of course I'm fooling; 
 R. L. S.,  
 Author of *Boys' Stories.*
 
-> *[Margin: [Æt. 32]]*
-
 ### Letter 321: Robert Louis Stevenson → R. A. M. Stevenson
 
-### To R. A. M. <span class="small-caps">Stevenson</span> [“<span class="small-caps">there is but one art—to omit</span>”]
+> *[Margin: [Æt. 32]]*
+
+#### To R. A. M. <span class="small-caps">Stevenson</span><br />[“<span class="small-caps">there is but one art—to omit</span>”]
 
 <span class="small-caps">La Solitude, Hyères-les-Palmiers</span>,  
 [October, 1883].
@@ -6893,11 +6949,11 @@ I am now very tired, and will go to bed having prelected freely. Fanny will fini
 
 R. L. S.
 
-> *[Margin: [ÆT. 34]*
-
 ### Letter 322: Robert Louis Stevenson → William Archer
 
-### To <span class="small-caps">William Archer</span> [<span class="small-caps">in remonstrance</span>]
+> *[Margin: [ÆT. 34]*
+
+#### To <span class="small-caps">William Archer</span><br />[<span class="small-caps">in remonstrance</span>]
 
 <span class="small-caps">Skerryvore, Bournemouth</span>, October 28, 1885.
 
@@ -6913,13 +6969,13 @@ And now for my last word: Mrs. Stevenson is very anxious that you should see me,
 
 <span class="small-caps">Robert Louis Stevenson.</span>
 
-> *[Margin: [Æt. 34]]*
-
 ### Letter 323: Robert Louis Stevenson → William Archer
 
-### To <span class="small-caps">William Archer</span>
+> *[Margin: [Æt. 34]]*
 
-### [“<span class="small-caps">A terrible, but a very joyous and noble universe</span>”]
+#### To <span class="small-caps">William Archer</span>
+
+#### [“<span class="small-caps">A terrible, but a very joyous and noble universe</span>”]
 
 <span class="small-caps">Skerryvore, Bournemouth</span>, November 1, 1885.
 
@@ -6937,7 +6993,7 @@ And again: to “say all?” All: yes. Everything: no. The task were endless, th
 
 And here we come to the division: not only do I believe that literature should give joy, but I see a universe, I suppose, eternally different from yours; a solemn, a terrible, but a very joyous and noble universe, where suffering is not at least wantonly inflicted, though it falls with dispassionate partiality, but where it may be and generally is nobly borne; where, above all (this I believe; probably you don’t: I think he may, with cancer), *any brave man may make* out a life which shall be happy for himself, and, by so being, beneficent to those about him. And if he fails, why should I hear him weeping? I mean if I fail, why should I weep? Why should *you* hear *me?* Then to me morals, the conscience, the affections, and the passions are, I will own frankly and sweepingly, so infinitely more important than the other parts of life, that I conceive men rather triflers who become immersed in the latter; and I will always think the man who keeps his lip stiff, and makes “a happy fireside clime,” and carries a pleasant face about to friends and neighbors, infinitely greater (in the abstract) than an atrabilious Shakespeare or a backbiting Kant or Darwin. No offence to any of these gentlemen, two of whom probably (one for certain) came up to my standard.
 
-And now enough said; it were hard if a poor man could not criticise another without having so much ink shed against him. But I shall still regret you should have written on an hypothesis you knew to be untenable, and that you should thus have made your paper, for those who do not know me, essentially unfair. The rich, foxhunting squire speaks with one voice; the sick man of letters with another.—Yours very truly,
+And now enough said; it were hard if a poor man could not criticise another without having so much ink shed against him. But I shall still regret you should have written on an hypothesis you knew to be untenable, and that you should thus have made your paper, for those who do not know me, essentially unfair. The rich, fox-hunting squire speaks with one voice; the sick man of letters with another.—Yours very truly,
 
 <span class="small-caps">Robert Louis Stevenson</span>  
 *(Prometheus-Heine in minimis).*
@@ -6946,11 +7002,11 @@ And now enough said; it were hard if a poor man could not criticise another with
 
 But, again, there is this mountain-range between us—*that you do not believe me.* It is not flattering, but the fault is probably in my literary art.
 
-> *[Margin: [Æt. 36]]*
-
 ### Letter 324: Robert Louis Stevenson → Henry James
 
-### To <span class="small-caps">Henry James</span> [<span class="small-caps">life at saranac</span>]
+> *[Margin: [Æt. 36]]*
+
+#### To <span class="small-caps">Henry James</span><br />[<span class="small-caps">life at saranac</span>]
 
 <span class="small-caps">Saranac Lake</span>, 1887.  
 I know not the day; but the month it is the drear October by the ghoul-haunted woodland of Weir.
@@ -6967,11 +7023,11 @@ But now, *Fourth,* I have seen the article; and it may be from natural partialit
 
 R. L. S.
 
-> *[Margin: [Æt. 37]]*
-
 ### Letter 325: R. L. S. → William Archer
 
-### To <span class="small-caps">William Archer</span> [“<span class="small-caps">cutting the flesh off</span>” <span class="small-caps">stories</span>]
+> *[Margin: [Æt. 37]]*
+
+#### To <span class="small-caps">William Archer</span><br />[“<span class="small-caps">cutting the flesh off</span>” <span class="small-caps">stories</span>]
 
 [<span class="small-caps">Saranac Lake</span>, February, 1888.]
 
@@ -6989,7 +7045,7 @@ Tell Shaw to hurry up: I want another.
 
 > *[Margin: [Æt. 38]]*
 
-### To <span class="small-caps">Thomas Archer</span> <span class="small-caps">[To a Boy]</span>
+#### To <span class="small-caps">Thomas Archer</span><br /><span class="small-caps">[To a Boy]</span>
 
 <span class="small-caps">Tautira, Island of Tahiti</span> [November, 1888].
 
@@ -7007,7 +7063,7 @@ This was how. You are to imagine a four-wheeled gig; one horse; in the front sea
 
 > *[Margin: [Æt. 38]]*
 
-### To <span class="small-caps">Sidney Colvin</span> [<span class="small-caps">visit to Molokai; Father Damien</span>]
+#### To <span class="small-caps">Sidney Colvin</span><br />[<span class="small-caps">visit to Molokai; Father Damien</span>]
 
 [<span class="small-caps">Honolulu</span>, May or June, 1889].
 
@@ -7025,7 +7081,7 @@ R. L. S.
 
 > *[Margin: [Æt. 40]]*
 
-### To <span class="small-caps">Henry James</span> [<span class="small-caps">Kipling's “debauch of production”</span>]
+#### To <span class="small-caps">Henry James</span><br />[<span class="small-caps">Kipling's “debauch of production”</span>]
 
 <span class="small-caps">Vailima, Apia, Samoa</span>,  
 December 29th, 1890.
@@ -7038,7 +7094,7 @@ December 29th, 1890.
 
 > *[Margin: [Æt. 40]]*
 
-### <span class="small-caps">To Mr. Ide</span> [<span class="small-caps">transferring a birthday</span>]
+#### <span class="small-caps">To Mr. Ide</span><br />[<span class="small-caps">transferring a birthday</span>]
 
 [<span class="small-caps">Vailima</span>, June 19, 1891.]
 
@@ -7048,36 +7104,38 @@ Herewith please find the DOCUMENT, which I trust will prove sufficient in law. I
 
 <span class="small-caps">Robert Louis Stevenson.</span>
 
-> I, Robert Louis Stevenson, Advocate of the Scots Bar, author of *The Master of Ballantrae* and *Moral Emblems,* stuck civil engineer, sole owner and patentee of the Palace and Plantation known as Vailima in the island of Upolu, Samoa, a British subject, being in sound mind, and pretty well, I thank you, in body:
-
-> In consideration that Miss Annie H. Ide, daughter of H. C. Ide, in the town of St. Johnsbury, in the county of Caledonia, in the state of Vermont, United States of America, was born, out of all reason, upon Christmas Day, and is therefore out of all justice denied the consolation and profit of a proper birthday;
-
-> And considering that I, the said Robert Louis Stevenson, have attained an age when O, we never mention it, and that I have now no further use for a birthday of any description;
-
-> And in consideration that I have met H. C. Ide, the father of the said Annie H. Ide, and found him about as white a land commissioner as I require:
-
-> *Have transferred, and do hereby transfer,* to the said Annie H. Ide, *all and whole* my rights and privileges in the thirteenth day of November, formerly my birthday, now, hereby, and henceforth, the birthday of the said Annie H. Ide, to have, hold, exercise, and enjoy the same in the customary manner, by the sporting of fine raiment, eating of rich meats, and receipt of gifts, compliments, and copies of verse, according to the manner of our ancestors;
-
-> *[Margin: [Æt. 41]*
-
-*And I direct* the said Annie H. Ide to add to the said name of Annie H. Ide the name Louisa—at least in private; and I charge her to use my said birthday with moderation and humanity, *et tamquam bona filia fœmilia,* the said birthday not being so young as it once was, and having carried me in a very satisfactory manner since I can remember;
-
-And in case the said Annie H. Ide shall neglect or contravene either of the above conditions, I hereby revoke the donation and transfer my rights in the said birthday to the President of the United States of America for the time being:
-
-In witness whereof I have hereto set my hand and seal this nineteenth day of June in the year of grace eighteen hundred and ninety-one.
-
-SEAL
-
-<span class="small-caps">Robert Louis Stevenson.</span>
-
-Witness, <span class="small-caps">Lloyd Osbourne,</span>  
-Witness, <span class="small-caps">Harold Watts.</span>
+> **[enclosure]**
+>
+> > I, Robert Louis Stevenson, Advocate of the Scots Bar, author of *The Master of Ballantrae* and *Moral Emblems,* stuck civil engineer, sole owner and patentee of the Palace and Plantation known as Vailima in the island of Upolu, Samoa, a British subject, being in sound mind, and pretty well, I thank you, in body:
+>
+> > In consideration that Miss Annie H. Ide, daughter of H. C. Ide, in the town of St. Johnsbury, in the county of Caledonia, in the state of Vermont, United States of America, was born, out of all reason, upon Christmas Day, and is therefore out of all justice denied the consolation and profit of a proper birthday;
+>
+> > And considering that I, the said Robert Louis Stevenson, have attained an age when O, we never mention it, and that I have now no further use for a birthday of any description;
+>
+> > And in consideration that I have met H. C. Ide, the father of the said Annie H. Ide, and found him about as white a land commissioner as I require:
+>
+> > *Have transferred, and do hereby transfer,* to the said Annie H. Ide, *all and whole* my rights and privileges in the thirteenth day of November, formerly my birthday, now, hereby, and henceforth, the birthday of the said Annie H. Ide, to have, hold, exercise, and enjoy the same in the customary manner, by the sporting of fine raiment, eating of rich meats, and receipt of gifts, compliments, and copies of verse, according to the manner of our ancestors;
+>
+> > *[Margin: [Æt. 41]*
+>
+> *And I direct* the said Annie H. Ide to add to the said name of Annie H. Ide the name Louisa—at least in private; and I charge her to use my said birthday with moderation and humanity, *et tamquam bona filia fœmilia,* the said birthday not being so young as it once was, and having carried me in a very satisfactory manner since I can remember;
+>
+> And in case the said Annie H. Ide shall neglect or contravene either of the above conditions, I hereby revoke the donation and transfer my rights in the said birthday to the President of the United States of America for the time being:
+>
+> In witness whereof I have hereto set my hand and seal this nineteenth day of June in the year of grace eighteen hundred and ninety-one.
+>
+> SEAL
+>
+> <span class="small-caps">Robert Louis Stevenson.</span>
+>
+> Witness, <span class="small-caps">Lloyd Osbourne,</span>  
+> Witness, <span class="small-caps">Harold Watts.</span>
 
 ### Letter 330: Robert Louis Stevenson → Miss Annie H. Ide
 
 > *[Margin: [Æt. 41]]*
 
-### To <span class="small-caps">Miss Annie H. Ide</span> [<span class="small-caps">his “name-daughter”</span>]
+#### To <span class="small-caps">Miss Annie H. Ide</span><br />[<span class="small-caps">his “name-daughter”</span>]
 
 <span class="small-caps">Vailima, Samoa</span> [November, 1891].
 
@@ -7095,7 +7153,7 @@ You are quite wrong as to the effect of the birthday on your age. From the momen
 
 > *[Margin: [Æt. 42]]*
 
-### To <span class="small-caps">James Payn</span> [“<span class="small-caps">continual spasms of cannon</span>”; <span class="small-caps">piquet</span>]
+#### To <span class="small-caps">James Payn</span><br />[“<span class="small-caps">continual spasms of cannon</span>”; <span class="small-caps">piquet</span>]
 
 <span class="small-caps">Vailima, Upolu, Samoa</span> [August, 1893].
 
@@ -7119,7 +7177,7 @@ By the by, did you ever play piquet? I have fallen a victim to this debilitating
 
 > *[Margin: [Æt. 43]*
 
-### <span class="small-caps">To George Meredith</span> [“<span class="small-caps">gower woodsere</span>”]
+#### <span class="small-caps">To George Meredith</span><br />[“<span class="small-caps">gower woodsere</span>”]
 
 <span class="small-caps">Vailima, Samoa,</span> April 17th, 1894.
 
@@ -7137,7 +7195,7 @@ I hear we may soon expect the *Amazing Marriage*. You know how long, and with ho
 
 > *[Margin: [Æt. 44]]*
 
-### <span class="small-caps">To Edmund Gosse</span> [^fn-p0562-1] [“<span class="small-caps">i was not born for age</span>”]
+#### <span class="small-caps">To Edmund Gosse</span> [^fn-p0562-1]<br />[“<span class="small-caps">i was not born for age</span>”]
 
 <span class="small-caps">Vailima, Samoa,</span> December 1, 1894.
 
@@ -7147,10 +7205,12 @@ Let me speak first of the dedication. I thank you for it from my heart. It is be
 
 But here comes my Amanuensis, so we'll get on more swimmingly now. You will understand perhaps that what so particularly pleased me in the new volume, what seems to me to have so personal and original a note, are the middle-aged pieces in the beginning. The whole of them, I may say, though I must own an especial liking to—
 
-I yearn not for the fighting fate,  
-That holds and hath achieved;  
-I live to watch and meditate  
-    And dream—and be deceived.
+> **[verse_insert]**
+>
+> I yearn not for the fighting fate,  
+> That holds and hath achieved;  
+> I live to watch and meditate  
+>     And dream—and be deceived.
 
 You take the change gallantly. Not I, I must confess. It is all very well to talk of renunciation, and of course it has to be done. But, for my part, give me a roaring toothache! I do like to be deceived and to dream, but I have very little use for either watching or meditation. I was not born for age. And, curiously enough, I seem to see a contrary drift in my work from that which is so remarkable in yours. You are going on sedately travelling through your ages, decently changing with the years to the proper tune. And here am I, quite out of my true course, and with nothing in my foolish elderly head but love-stories. This must repose upon some curious distinction of temperaments. I gather from a phrase, boldly autobiographical, that you are—well, not precisely growing thin. Can that be the difference?
 
@@ -7238,7 +7298,7 @@ Well, my dear Gosse, here's wishing you all health and prosperity, as well as to
 
 ### Letter 334: Benjamin Clough → Asa Clough
 
-### <span class="small-caps">Benjamin Clough to Asa Clough</span> [<span class="small-caps">murder at sea</span>]
+#### <span class="small-caps">Benjamin Clough to Asa Clough</span><br />[<span class="small-caps">murder at sea</span>]
 
 <span class="small-caps">On Board Ship</span> *Sharon,* <span class="small-caps">of Fairhaven.</span>  
 <span class="small-caps">At Sea,</span> Thursday, Feb. 9, 1843.
@@ -7269,7 +7329,7 @@ B. <span class="small-caps">Clough.</span>
 
 ### Letter 335: J. Natahu → Colorado Tax Commission
 
-### J. <span class="small-caps">Natahu to the Colorado Tax Commission</span> [^fn-p0570-1] [<span class="small-caps">Japanese English</span>]
+#### J. <span class="small-caps">Natahu to the Colorado Tax Commission</span> [^fn-p0570-1]<br />[<span class="small-caps">Japanese English</span>]
 
 “Hon tex comision and Hon comision bord and kartrite: Gents: This respectfy say that mi go devil motorcickle is maid too much in taxe ritin receev from you. Trade fur it 5 years long with 2 hog. they ded, it now ded. run thrue stcky fence in ditch. no koff, no go. You bon hed kum take him. no pay so dam much as Hon comision say in ritin on ded go devil. You kum tak em hole ranch.
 
@@ -7277,7 +7337,7 @@ J. <span class="small-caps">Natahu.</span>”
 
 ### Letter 336: G. Matsuko → San Francisco “Chronicle”
 
-### G. <span class="small-caps">Matsuko</span> [^fn-p0571-1] <span class="small-caps">to the San Francisco</span> “<span class="small-caps">Chronicle</span>” [“<span class="small-caps">pro-nothings</span>”]
+#### G. <span class="small-caps">Matsuko</span> [^fn-p0571-1] <span class="small-caps">to the San Francisco</span> “<span class="small-caps">Chronicle</span>”<br />[“<span class="small-caps">pro-nothings</span>”]
 
 I wish you will preach to throw all of the near-Americans and pro-nothings in the Bay; do no longer handle the half-breed with kid words. . . . Ever since I arrive in this land of free I am learning more to regret that I am not born here, so I can sign name Smith or likewise. I wish to be best American money can buy. It makes me blushful now to think I do no more than refrain from best food. I have admiration for them which wears button saying, ‘I owe for Liberty Bond,’ and I make loud cheer for him. This is the lifetime to raise hell for Germans, and I beg you assisting.
 
@@ -7285,7 +7345,7 @@ G. <span class="small-caps">Matsuko</span>.
 
 ### Letter 337: C. B. Curtis → His Mother
 
-### <span class="small-caps">Sergeant C. B. Curtis to His Mother</span> [<span class="small-caps">a rhyming letter</span>]
+#### <span class="small-caps">Sergeant C. B. Curtis to His Mother</span><br />[<span class="small-caps">a rhyming letter</span>]
 
 <span class="small-caps">With the American Expeditionary Forces</span>,  
 “<span class="small-caps">Somewhere in France</span>,”  
@@ -7315,7 +7375,7 @@ C. B. C.
 
 ### Letter 338: French Soldiers → Benefactress
 
-### <span class="small-caps">French Soldiers to a Benefactress</span> [^fn-p0573-1] [“<span class="small-caps">your brothers are fighting at our side</span>”]
+#### <span class="small-caps">French Soldiers to a Benefactress</span> [^fn-p0573-1]<br />[“<span class="small-caps">your brothers are fighting at our side</span>”]
 
 [1917]
 

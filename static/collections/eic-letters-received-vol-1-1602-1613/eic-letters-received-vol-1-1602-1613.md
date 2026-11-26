@@ -2,16 +2,16 @@
 
 - **Author / Editor**: East India Company, Frederick Charles Danvers (ed.)
 - **Year**: 1896
-- **Letters**: 105
+- **Letters**: 106
 - **Pages**: 414
 
 ## Frontmatter
 
-### EAST INDIA COMPANY'S RECORDS VOL. I.
+### EAST INDIA COMPANY'S RECORDS<br />VOL. I.
 
 * * *
 
-### LETTERS RECEIVED BY THE EAST INDIA COMPANY From its Servants in the East TRANSCRIBED FROM THE 'ORIGINAL CORRESPONDENCE' SERIES OF THE INDIA OFFICE RECORDS VOL. I. 1602 — 1613
+### LETTERS<br />RECEIVED BY THE<br />EAST INDIA COMPANY<br />From its Servants in the East<br />TRANSCRIBED FROM THE 'ORIGINAL CORRESPONDENCE'<br />SERIES OF THE INDIA OFFICE RECORDS<br />VOL. I.<br />1602 — 1613
 
 *WITH AN INTRODUCTION BY*  
 FREDERICK CHARLES DANVERS  
@@ -324,7 +324,7 @@ Alexander Sharpeigh to [Sir Henry Middleton]. Surat, October 16, 1611 . . . . . 
 
 * * *
 
-### *Corrigenda*
+#### *Corrigenda*
 
 Page 1, line 3, *for* 1603 *read* 1602  
 ,, 31, ,, 37, *omit* Misey  
@@ -485,7 +485,7 @@ In I609, some Dutch ships appeared in the port of Firando and obtained leave to 
 
 *[Illustration, p. xli]*
 
-### THE ‘ORIGINAL CORRESPONDENCE’ <span class="small-caps">SECTION OF THE</span> EAST INDIA COMPANY’S RECORDS
+### THE<br />‘ORIGINAL CORRESPONDENCE’<br /><span class="small-caps">SECTION OF THE</span><br />EAST INDIA COMPANY’S<br />RECORDS
 
 * * *
 
@@ -517,7 +517,7 @@ In I609, some Dutch ships appeared in the port of Firando and obtained leave to 
 
 ## THE ‘ORIGINAL CORRESPONDENCE’ SECTION OF THE EAST INDIA COMPANY’S RECORDS
 
-### I ARTICLES SET DOWN BY THE KING OF DACHEM AND DELIVERED TO SIR JAMES LANCASTER. A.D. 1603.
+### I<br />ARTICLES SET DOWN BY THE KING OF DACHEM<br />AND DELIVERED TO SIR JAMES LANCASTER.<br />A.D. 1603.
 
 I MOST mighty King of Dachem (Achin) and Sumatra to all persons that shall read this present writing, Greeting. In token of our especial friendship and upon many good considerations us moving and chiefly upon the contemplating of the gracious letters received from the most famous Queen of England: we of our especial mere motion do signify and declare to all people, that we have entertained into our friendship and holy league our well beloved the Sirinissima Reina de Englaterra to hold and keep true and faithful league with her according to the commendable course and law of all nations, unto whose subjects we wish much felicity, and therefore doth give and grant by these presents for us our heirs and successors as much as in us lieth to the said subjects of the most noble queen of England our confederate and every of them these Articles, grants, and privileges hereafter expressed and declared.
 
@@ -547,9 +547,9 @@ Last of all to the intent that this league with her Majesty and the aforesaid gr
 
 ### Letter 1: Gabriel Towerson → East India Company
 
-### 2
+#### 2
 
-### Gabriel Towerson to the East India Company.
+#### Gabriel Towerson to the East India Company.
 
 Received 14th Septr. 1608. Read 19th Septr.
 
@@ -588,9 +588,9 @@ Gabriell Towerson.
 
 ### Letter 2: Anthony Marlowe → Governor and Company of East India Merchants
 
-### 3
+#### 3
 
-### To the Right Worshipful the Governor and Company of East India Merchants from Anthony Marlowe.
+#### To the Right Worshipful the Governor and Company of East<br />India Merchants from Anthony Marlowe.
 
 Aboard the Hector at anchor at Delisha upon the coast of the  
 Island of Socotra the 22nd June 1608.
@@ -647,13 +647,13 @@ HE had trade so soon as he came, without the King of Acheen's letter. He present
 
 * * *
 
-### 7 No. 7 a duplicate of No. 6.
+### 7<br />No. 7 a duplicate of No. 6.
 
 * * *
 
 ### Letter 3: John Hearne → East India Company
 
-### 8 John Hearne to the East India Company.
+#### 8<br />John Hearne to the East India Company.
 
 Laus Deo in Bantam 4th December, 1608.
 
@@ -678,9 +678,9 @@ That it may please your worships to consider me somewhat in my wages, for I have
 
 ### Letter 4: John Saris → East India Company
 
-### 9
+#### 9
 
-### John Saris to the Right Worshipful the East India Company.
+#### John Saris to the Right Worshipful the East India Company.
 
 Laus Deo the 4th December, 1608 in Bantam.
 
@@ -730,9 +730,9 @@ May it please your Worships I have mistaken myself in the pieces for I have writ
 
 ### Letter 5: William Finch → Captain Hawkins
 
-### **10**
+#### **10**
 
-### William Finch to Captain Hawkins.
+#### William Finch to Captain Hawkins.
 
 Laus Deo in Surat le 12. July, 1609.
 
@@ -837,7 +837,7 @@ Of new drinking glasses, trenchers for sweetmeats, but especially looking glasse
 
 Of one meticall worth 1400, of 1½ worth 2,000 rials, of 2 meticalls 3000 rials, of 3 meticalls worth 4500 rials, etc. Of these I have no experience, this only is the copy of a note which I received from Mr. William Hawkins and, as I suppose, enquired forth by Mr. Marlowe.
 
-### Of Monies, Weights & Measures.
+##### Of Monies, Weights & Measures.
 
 The Candy is 20 maunds. The bahar of elephant's teeth is 15 maund ¾, every maund containing 40 seers both great and small. The maund is of 2 sorts the small maund being 27l. English the great 32½l. English. Note that in all this I mention maund simply I mean the Surat weight as also the seer. The weight called a seer is near upon 11 oz. and the greater [*illegible*]
 
@@ -849,7 +849,7 @@ The monies of this Country's stamp are all mamoodies each being of value about 1
 
 ### Letter 6
 
-### **12**
+#### **12**
 
 September 15th [1609].
 
@@ -857,7 +857,7 @@ September 15th [1609].
 
 ### Letter 7
 
-### 13
+#### 13
 
 Laus Deo in Surat the 27th of October, 1609.
 
@@ -867,9 +867,9 @@ WORSHIPFUL, And loving friend my last unto you was of the 13th of this present, 
 
 ### Letter 8: Lawrence Femell → Henry Middleton
 
-### 14
+#### 14
 
-### Lawrence Femell to the Right Worshipful Our General, Sir Henry Middleton, knight.
+#### Lawrence Femell to the Right Worshipful Our General, Sir<br />Henry Middleton, knight.
 
 16th November, 1610.
 
@@ -895,12 +895,12 @@ Journal voyage of ships Trades Increase, Peppercorn and Darling, outward as far 
 
 ### Copy of a Project for separating the Fleet.
 
-### A Project
+##### A Project
 
 THE state of the question is :  
 whether it be necessary to separate the Fleet or not.
 
-### Reasons moving to separate
+###### Reasons moving to separate
 
 - 2 ships for the coast of India  
   2 for Aden &c.
@@ -922,7 +922,7 @@ The worst that can happen is If the current and winds be against us in the offin
 
 If anything herein seem offensive I desire it may be rather buried in oblivion than give any distaste.
 
-### Resolution of the former questions.
+##### Resolution of the former questions.
 
 The 28th. of October, 1610 it pleased our General to call a Council wherein these questions were at large argued and debated.
 
@@ -940,9 +940,9 @@ These things considered, and the straightness of our Commission well weighed, it
 
 ### Letter 9: Lawrence Femell / Hugh Frayne → Henry Middleton
 
-### 17
+#### 17
 
-### Lawrence Femell and Hugh Frayne to the Right Worshipful our General, Sir Henry Middleton, aboard the Trades Increase. 14th November 1610.
+#### Lawrence Femell and Hugh Frayne to the Right Worshipful<br />our General, Sir Henry Middleton, aboard the Trades Increase.<br />14th November 1610.
 
 RIGHT Worshipful Sir, After some long stay we came to speak with the Aga, Governor of this place, whom we found very loving and courteous, giving us many fair words, and commanded us to send your Worship hearty commendations, with comfort not to fear any harm that can come to your ship, for she being somewhat lightened he saith without doubt she will come off without danger. Farther he saith, that it is a custom when any ship shall come into this port, that they have delivered them from the ship a particular note of all the goods in the ship. Mr. Sharpiegh did the like. It is to this end that he must send away to the Basha particular advice and the same note of the goods. We answered that we would write unto your Worship hereabout. And our opinion is, of the lead and iron, to give him half the sum in the note ; the tin, to the full, as also the cloth and kerseys to the full, for we conceive it will be better to have them ashore to cool and air, although we do not open the packs : for of all commodities look what is sold payeth custom 5 per cent, and what is unsold goeth free of custom, aboard again ; to this point we expect your Worship's answer. We have been most earnest to have had the boats return again this night, but could not by any means prevail, for two reasons, the first, because it is their Lent, and they having fasted all day will betake themselves to rest betimes, the second, if they should come, the water now falling, they should not be able to land any goods nor come near the shore, for as it is a bad place where our ships ride, so it is likewise here for landing goods upon the ebb, the places being all shoal water ; and when your worship sends more goods, I think it better the pinnace should be kept aboard, for here is no place to set her up but one, and that is where now there is a frigate ashore building, and lying here, much of her timber will be embezzled and stolen. We have here a house, but neither table nor stool. If it shall please your worship to cause a table to be of some boards made, it may serve again for any other use, and for the present necessary for us, without it we cannot well show a cloth or other commodities. Very early in the morning, God willing, all the boats shall be aboard and being thence quickly despatched, we will, if possibly we can, get them to come the second time. And so I humbly rest
 
@@ -959,9 +959,9 @@ The Aga doth confidently affirm that there is no going hence to India till the g
 
 ### Letter 10: Lawrence Femell / Hugh Frayne → Henry Middleton
 
-### 18
+#### 18
 
-### Lawrence Femell and Hugh Frayne to the Right Worshipful our General Sir Henry Middleton, Knight, aboard the Trades Increase. Nov. 15th 1610.
+#### Lawrence Femell and Hugh Frayne to the Right Worshipful our General Sir Henry Middleton, Knight, aboard the Trades Increase. Nov. 15th 1610.
 
 RIGHT Worshipful, We send you herein a copy of our goods that we have given notice of to the Aga. He saith it is the custom of this place that after the ships are unladen to send aboard to view them, and if any be found, they are to be landed and the custom paid. He was very inquisitive to know what money we have aboard, we answered him, none, but such as was to buy victuals for the ship. Our opinion is, that his meaning is we should stay here until the great monsoon, at which time all the trade is. He enquired what commodities we meant to buy, we told him, as yet we could not resolve him till we saw what was cheap. We told him our cinnamon we fetch from Zeilan (Ceylon), our pepper from Acheen and Bantam where, we told him, we have our Factories. If it please God to send the ship once afloat we will consult about the best for the good of our business. In the meantime if she be already afloat as we conceive and hope, I request your Worship not to be too hasty in landing any more goods. This boat cometh aboard of purpose with a present unto your Worship. If your Worship so think good, you may return fair words with promise of a present when the ship shall be afloat. If you will send it presently, the key of the chest of velvets lies in the locker of my cabin whereof William Reynolds hath the key.
 
@@ -979,9 +979,9 @@ November the I5th, I610.
 
 ### Letter 11: Lawrence Femell → Henry Middleton
 
-### 19
+#### 19
 
-### Lawrence Femell to the Right Worshipful Sir Henry Middleton, Knight. 17th November, 1610.
+#### Lawrence Femell to the Right Worshipful<br />Sir Henry Middleton, Knight. 17th November, 1610.
 
 RIGHT Worshipful, Conferring with our interpreter this morning about the delivery of your present to the Aga, I was told that all the officers of the custom house must first see it, and write what it is, which seemeth strange unto me, for either the Governor is a man of no command, or else our interpreter a dissembling fellow addicted only to please the Customers, coming with great circumstances and nominating five others that must likewise have presents. These things considered, I purpose, God willing, this evening to have private conference with the Governor. I will certify him that in respect of his courtesies, your Worship mindeth to be grateful to him, and that it is not the custom of other countries that all the world must know of it ; what his answer is, to-morrow morning your Worship shall understand. I do not hold it convenient that the present to the fat man should be delivered at that time that we deliver the other, for nothing can be done here but what is openly seen, therefore for this time I have returned the presents aboard, as you sent them ashore. To-morrow I will excuse the boats not coming aboard because it is Sunday, and delivering the present, which I make account will be to-morrow sometime of the day, I will make the Governor acquainted with your Worship's resolution.
 
@@ -997,9 +997,9 @@ Mocha the 17th November 1610.
 
 ### Letter 12: Lawrence Femell → Henry Middleton
 
-### **20**
+#### **20**
 
-### Lawrence Femell to the Right Worshipful Sir Henry Middleton, Knight. 18th November, 1610.
+#### Lawrence Femell to the Right Worshipful<br />Sir Henry Middleton, Knight. 18th November, 1610.
 
 RIGHT Worshipful, I do write you now as concerning the ebbing and flowing of the water here, which I conceive to be very necessary in respect of the building of our pinnace. You shall understand that this present 18th day of November, being about three days before the full of the moon, about 2 of the clock this afternoon is here a dead low water, being ebbed at least two foot lower than it hath at any time since ever we came into the road, so that I suppose it will lie here, upon a spring tide, at least seven foot of water, a very fitting thing for our pinnace. This is the cause that the boat stayeth so long ashore before she returneth, not having water to float out with the hhds. of water she taketh in. As touching goods to be sent ashore to-morrow, it shall be good that the tin be wholly discharged, with some more iron. The trunk of red caps No. B, one ballet of kerseys No. B, and I I ballets of broadcloth, whereof let that of three cloths opened to-day be one, with No. 32 and 33, the rest are sorted of divers colours, send which bales you shall please.
 
@@ -1017,9 +1017,9 @@ Mocha the 18th November 1610.
 
 ### Letter 13: Henry Middleton / Lawrence Femell → Giles Thornton
 
-### 21
+#### 21
 
-### Sir Henry Middleton and Lawrence Femell to Giles Thornton, 20th December, 1610.
+#### Sir Henry Middleton and Lawrence Femell to<br />Giles Thornton, 20th December, 1610.
 
 In Moha [Mocha] the 20th of December, 1610.
 
@@ -1052,9 +1052,9 @@ Henry Middleton.
 
 ### Letter 15: Henry Middleton / Lawrence Femell → Nicholas Downton
 
-### 22
+#### 22
 
-### Sir Henry Middleton and Lawrence Femell to Capt. Nicholas Downton.
+#### Sir Henry Middleton and Lawrence Femell<br />to Capt. Nicholas Downton.
 
 Jesus in Zenan [Sana] the 25th of January, 1610.
 
@@ -1069,9 +1069,9 @@ Lawrence Femell.
 
 ### Letter 16: Nicholas Downton / Giles Thornton / Hugh Frayne → Henry Middleton
 
-### 23
+#### 23
 
-### Captain Nicholas Downton, Giles Thornton and Hugh Frayne to Sir Henry Middleton.
+#### Captain Nicholas Downton, Giles Thornton and<br />Hugh Frayne to Sir Henry Middleton.
 
 30th of January, 1610.
 
@@ -1092,9 +1092,9 @@ I remember my love also to Mr. Femell, Mr. Fowler, Mr. Green and to all others o
 
 ### Letter 17: Nicholas Downton → Henry Middleton
 
-### 24
+#### 24
 
-### Captain Downton to Sir Henry Middleton.
+#### Captain Downton to Sir Henry Middleton.
 
 Trades Increase, this 2nd of March, 1610.
 
@@ -1108,9 +1108,9 @@ Nicholas Downton.
 
 ### Letter 18: William Pemberton → Henry Middleton
 
-### 25
+#### 25
 
-### William Pemberton to Sir Henry Middleton.
+#### William Pemberton to Sir Henry Middleton.
 
 5th March, 1610.
 
@@ -1126,9 +1126,9 @@ Wm. Pemberton.
 
 ### Letter 19: William Pemberton → Sir Henry Middleton
 
-### 26
+#### 26
 
-### William Pemberton to Sir Henry Middleton.
+#### William Pemberton to Sir Henry Middleton.
 
 9th of March, 1610.
 
@@ -1146,7 +1146,7 @@ I request my commendation to Mr. Femell may be delivered and to all the rest of 
 
 ### Letter 20: William Pemberton → Sir Henry Middleton
 
-### 27 William Pemberton to Our good General Sir Henry Middleton, Knight, in Mocha.
+#### 27<br />William Pemberton<br />to Our good General Sir Henry Middleton, Knight, in Mocha.
 
 17th March, 1610.
 
@@ -1160,9 +1160,9 @@ Wm. Pemberton.
 
 ### Letter 21: Captain Downton → Sir Henry Middleton
 
-### 28
+#### 28
 
-### Captain Downton to Sir Henry Middleton in Mocha.
+#### Captain Downton to Sir Henry Middleton in Mocha.
 
 18th March 1610.
 
@@ -1180,9 +1180,9 @@ Good Sir, so soon as you may, let me have directions from you what course you th
 
 ### Letter 22: Giles Thornton → Sir Henry Middleton
 
-### 29
+#### 29
 
-### Giles Thornton to the Right Worshipful Sir Henry Middleton, Knight, General, these in Mocha. 18th March, 1610.
+#### Giles Thornton to the Right Worshipful Sir Henry Middleton,<br />Knight, General, these in Mocha. 18th March, 1610.
 
 RIGHT Worshipful, My humble duty remembered, with hearty prayers to Almighty God for your full deliverance out of the hands of the truthless Turks, whose words and actions are as far different as white and black, of which you and your company have had too true experience to all our griefs, still doubting their turklike proceedings, and withal praying to Almighty God to grant you and all the rest your desired liberty in the honorablest manner that your heart can wish.
 
@@ -1197,9 +1197,9 @@ this 18th of March, 1610.
 
 ### Letter 23: Nicholas Downton → Sir Henry Middleton
 
-### 30
+#### 30
 
-### Nicholas Downton to the Right Worshipful Sir Henry Middleton, Knight, give this in Mocha.
+#### Nicholas Downton to the Right Worshipful Sir Henry Middleton,<br />Knight, give this in Mocha.
 
 18th March, 1610.
 
@@ -1214,9 +1214,9 @@ Further a report is brought with our people from Mocha, that the Turks have taxe
 
 ### Letter 24: William Pemberton → Sir Henry Middleton
 
-### 31
+#### 31
 
-### William Pemberton to the Right Worshipful Sir Henry Middleton, Knight, in Mocha.
+#### William Pemberton to the Right Worshipful Sir Henry Middleton,<br />Knight, in Mocha.
 
 RIGHT Worshipful, Yours of the 9th received, your intent I like well of. I make no question but God, who is your guide, will effect it. I think in disguising yourself in apparel, and to have your hair cut from your face, and besmutting yourself, and with a burden, then there will be no doubt, but if you think to effect it otherwise, in the name of God, I make no question being once in the boat, that then it is out of fear in bringing you away, in despite of them all, for before they can make after you, you shall be almost aboard ; I doubt not but God will so provide that it shall come to pass. I would have shaved myself and disguised myself to have effected this business, but doubted my pockeated face, with some kind of show with our men, would make me known. I will be ready with my boat at the buoy of our anchor with shot to second you, and with my ordnance which will command half the way to the town, to rescue, and all the best means that can be wrought else. Thus beseeching the Almighty to prosper your actions, I rest
 
@@ -1230,9 +1230,9 @@ I have sent my mate who you may be bold to trust to, and he will tell you my min
 
 ### Letter 25: Sir Henry Middleton → Captain Downton
 
-### 32
+#### 32
 
-### Sir Henry Middleton to (Captain Downton)
+#### Sir Henry Middleton to (Captain Downton)
 
 Mocha, 23rd March, 1610.
 
@@ -1244,7 +1244,7 @@ Henry Middleton.
 
 ### Letter 26: Sir Henry Middleton → Gyles Thornton
 
-### 33 Sir Henry Middleton to Gyles Thornton.
+#### 33<br />Sir Henry Middleton to Gyles Thornton.
 
 Mocha, 23rd of March, 1610.
 
@@ -1252,7 +1252,9 @@ Mocha, 23rd of March, 1610.
 
 * * *
 
-### 34 Sir Henry Middleton to Gyles Thornton.
+### Letter 27: Sir Henry Middleton → Gyles Thornton
+
+#### 34<br />Sir Henry Middleton to Gyles Thornton.
 
 Moha this 23rd of March 1610.
 
@@ -1274,7 +1276,7 @@ I have sent you 8 hens and a dozen of bread, to your mates 5 hens, to the mercha
 
 ### Avizo from Hugh Frayne to Nicholas Downton in the Red Sea.
 
-### Instructions touching Trade in the Moluccoes.
+##### Instructions touching Trade<br />in the Moluccoes.
 
 DESCRIPTION of the Island of Banda, with the Towns and Islands thereof: together with the wares and merchandises there spent and uttered and of wares to be bought there as followeth.
 
@@ -1286,7 +1288,7 @@ Wares spent and uttered in these towns, namely, stuffs or cloths as our men call
 
 Draggon, Patta, Kassa, of the finest Torya, Baffa, Tellepricken, Cantekey, Mossafy, Patta, Malyn, Tzymd, Sorassa, Madinrens, Brass Pieces of Ordnance with chambers in the breeches which are to be had in Bantam, but brought from China as is thought. All these abovesaid wares are well uttered in those towns, as also rice and sago, which is as the bark of a tree, or made of a tree, which they buy and eat instead of bread.
 
-### English Commodities to be sold there, viz.
+##### English Commodities to be sold there, viz.
 
 Broad sword blades, Royals of 8, English cloth red and Stamel of 10, 12 or 14s. sterling the yard, velvets red, velvets green branched with flowers &c. which are not English but China velvets and to be had at Bantam of the Chinese much better cheap than we can carry English velvets thither.
 
@@ -1294,7 +1296,7 @@ For all which foresaid wares and royals the people of Banda, Ternate, Tidore, an
 
 In the places and towns abovesaid, maces are gathered three times a year, to wit, in July is the greatest, continuing till September, again in December and again in February. The two last gatherings are but small in quantity ; the great gathering they call their Payty and the two smaller gatherings they call Ara and Nesson Java.
 
-### A note written in Dutch and translated by one of the Company's Factors at Bantam viz.
+##### A note written in Dutch and<br />translated by one of the Company's Factors at Bantam<br />viz.
 
 Amboyna. There groweth abundance of cloves, not every year, but every third year is a great growth as now this present year of 1605.
 
@@ -1302,7 +1304,7 @@ Here are divers sorts of East India wares uttered as followeth Cloths, as our me
 
 All, or the most part of these, are made about Bengalla, Mesopotamia, St. Thome, Choromandle or Cambaia, and some other parts of the East Indies.
 
-### English or Holland Wares there vendible.
+##### English or Holland Wares there vendible.
 
 Head pieces, some graven, some gilt, long pieces with snaphances, the cock to stand on the hither side of the pan, large stocks and straight, the barrels square. Velvets red and green, damasks, yet not many, these are to be bought in Bantam of the Chinese to be carried to the Moluccoes ; painted drinking glasses, looking glasses No. 3, 4, 5, 6. Pipe cans, being as he thinketh, small pewter or wooden cans made with spouts to drink out of, which are made chiefly in Holland.
 
@@ -1310,11 +1312,11 @@ Some knives thought to be state knives, some with painted hafts, some plain haft
 
 These people are deceitful in their cloves, men must take heed lest they put dust to make them heavy, or mingle some sorry stuff among them, which you must carefully find out in time.
 
-### The name of Towns in Amboyna.
+##### The name of Towns in Amboyna.
 
 Hyto (Hitoe), Mamelen (Mamala), Nusitelle (Noesaniwe ?), and the Castle, but at Amboyna we shall not get any cloves because of the Hollanders.
 
-### Towns lying on the Island.
+##### Towns lying on the Island.
 
 Lowlo (Loehoe ?), Lossidi, Cambella (Kambeloe), Keyebabbyt (Kaibobo), Locky (Loekoehai), Latu (Latoe). But at Lowlo, Cambella and Hyto, falleth most cloves, and are also the best roads for ships and good people. Selebes or Makassar, wherein are spent and uttered these wares following.
 
@@ -1336,7 +1338,7 @@ In this Island of Seran (Ceram) is no other ware than sago which is of a tree, w
 
 But note that in this Island there is nothing to be had for return for our Country, only sago to be sold at Banda.
 
-### A Table of the foresaid India Cloths for the better knowing of them.
+#### A Table of the foresaid India Cloths<br />for the better knowing of them.
 
 Tzinde, are silk cloths with red stripes. Patta, Katuynen, with red stripes overthwart through. Dragon, black and red. Sallallo, blue and black. Bastan, are white and black, starched and folded up four square. Kassa, are white, unstarched lawns. Kreyekam are red starched. Kanteky, black starched. Mossaffy is black of the same, starched. Toorya, not starched are painted like as the Sarassa, but very coarse. Bornelaya are with white and black quarls like checkers, such as Polingknytsy are. Paw are silk cloths with fringe on the end, with little quarls of checker through. These foresaid cloths are always to be had at Bantam, yet at sometimes better than at othersome, but they be made in Bengalla, Mesopotamia, St. Thome, and Choromandle.
 
@@ -1356,7 +1358,7 @@ Tzinde, are silk cloths with red stripes. Patta, Katuynen, with red stripes over
 
 Note that the cody or corge is a bundle or set number of 20 pieces. These are the prices they will yield at Banda and other places of the Moluccoes, as this note saith, and our Factors Thomas Browne and Woodnoth who were at the Moluccoes can more fully inform you, but at the places where these are made they be much better cheap.
 
-### Weights.
+##### Weights.
 
 The weights of Banda and Amboyna as the Dutchman hath written, but believe it not without tryal because it agrees not to Anthony Wright and other our Factors' accounts, neither did we find it to fall out so by our last cloves.
 
@@ -1381,7 +1383,7 @@ Here you may sell Rs. of 8, Iron, small gads of steel, tin in small bars, and le
 
 At Ceylon you may buy cinnamon, pearls, rubies and some other stones; for these you may sell fine calicoes, powder, pieces, lead and tin.
 
-### September, 1610. An Advise given at St. Augustine by Mr. Samuel Bradshaw, merchant of the Union, of such commodities as are to be bought in Surat, and chiefly vendible at Pryaman, Tinga, Cuta, Barous, also at Achein and other parts upon the Island of Sumatra.
+#### September, 1610. An Advise given at St. Augustine by Mr. Samuel Bradshaw, merchant of the Union, of such commodities as are to be bought in Surat, and chiefly vendible at Pryaman, Tinga, Cuta, Barous, also at Achein and other parts upon the Island of Sumatra.
 
 Black or blue Bastaus containing 15 yards worth in Surratt 60 mamoodies the corge for 6, 7, 8, or 9, of which Bastaus they will give at Pryaman and Tecoe the bahar of pepper. Also white Bastaus of the same kind yield all one price and are to be bought better cheap in Surratt by 10 mamoodies in the corge, but there cannot be vented of white Bastaus above 10, 15 or 20 corge in 100 corge of the other. I think there may be yearly sold at the place abovesaid of these coarse Bastaus 2000 or 3000 corge in truck for pepper, gold, benjamin, camphor, brimstone, pitch and saltpetre, which commodities are for the most part very vendible in divers parts as Surratt, Cambaia, Masulapatan, Arracan, and most parts of Bengala and Choromandle. Sceala of a smaller sort of Cannikees are best requested of any other kind of cloth, and is worth in Surratt 18 or 20 mamoodies the corge, and they will give at Pryaman or Tecoo for between 20 or 30 of these the bahar of pepper. There are Sceala of a lesser sort but not so usual as the smaller, but will sell very well, and somewhat dearer than the smaller sort, of this kind of cloth I think there may be vented 5000 corge or more. Cochimbow worth in Surat as Sceala and Kannikee but we give fewer for a bahar of pepper than of Sceala, the blackest sort of this cloth is most requested, but all sorts of it will sell well and yield like prices and are also of like fineness and goodness. Of this cloth I think there may be vented 300 or 400 corge yearly. Chearans are better cheap in Surratt and is worser cloth and will cost there 15 or 16 mamoodies the corge, and more of them are sold for a bahar of pepper than of Sceala or Cannikees, except they be very fine. Madafunum is checkered, somewhat fine and well requested in Pryaman and Tecoo, the prices of Surratt I certainly know not but they give at the cheapest rate for 12 or 16 cloths the bahar of pepper, of this sort of cloth 100 or 200 corge may be vented yearly, or more it may be.
 
@@ -1411,19 +1413,20 @@ Musulapatan weight 4 candils weigheth 5 bahars of Pryaman, one bahar of Pryaman 
 
 **The proportions of Stock of the 4th voyage**
 
-| The Ascension Admiral | 48v[^fn-p0122-1] Rs. of 8 |  |
+|  |  |  |
 | --- | --- | --- |
+| The Ascension Admiral | 48v[^fn-p0122-1] Rs. of 8 |  |
 | in cloth, lead, iron etc. | 10v Rs. of 8 | Total |
 | The Union Vice-Admiral | 24v Rs. of 8 | 92v Rs. of 8 |
 | In goods about | 10v Rs. of 8 |  |
 
-### The prices how Mr. Bradshaw sold his cloths out of the Union.
+##### The prices how Mr. Bradshaw sold his cloths<br />out of the Union.
 
 Stametts, hair colours, Venice reds, Popingay greens, dove colours, etc. at vi Rs. of 8 the covad, which is an English yard.
 
 Straw colours, silver colours, sky colours and other coarse colours at 3<sup>3</sup>⁄<sub>4</sub> Rs. of 8 the covad.
 
-### Goods landed at Mocha.
+##### Goods landed at Mocha.
 
 Iron—581 bars. Broad cloths 2 bales viz. No. 30 : 32 : 33 :  
 Lead in chests—52 chests—No. 18: 19: 20: 25 : 26: 27: 36: 35:  
@@ -1436,10 +1439,11 @@ Also I take it Mr. Femell hath ashore two Emeralds cost as per cargason xvi<sup>
 
 More there was sent by a note, under our General's hand and Mr. Femell's, bearing date the 18th December 1610, in Spanish money 500 Rs. of 8, taken out of the half chest, which appeareth by the cargason to contain 4 bags, each bag 500 Rs. of 8. This bag sent marked M. No. 4 wherein was a note written 500 Rs. of William Maundevile.
 
-### Provisions landed at Mocha.
+##### Provisions landed at Mocha.
 
-| Wheat . . | 19 hogsheads | Tempered stuff | 14 casks |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| Wheat . . | 19 hogsheads | Tempered stuff | 14 casks |
 | Sea coals . . | 10 casks | Bay salt . . | 1 cask |
 | Meal . . | 22 casks | Oatmeal . . | 7 casks |
 | Vinegar . . | 1 hogshead | Pork . . | 2 hogsheads |
@@ -1468,9 +1472,9 @@ This is the same that I had taken in hand to show your Worships and I doubt not 
 
 * * *
 
-### Letter 27: Captain Nicholas Downton → Sir Henry Middleton
+### Letter 28: Captain Nicholas Downton → Sir Henry Middleton
 
-### 37 Captain Nicholas Downton to The Right Worshipful Sir Henry Middleton, Knight, give this at Moho.
+#### 37<br />Captain Nicholas Downton to The Right Worshipful Sir Henry Middleton, Knight, give this at Moho.
 
 26th March, 1611.
 
@@ -1492,11 +1496,11 @@ March the 26th Anno 1611.
 
 * * *
 
-### Letter 28: Gyles Thornton → Sir Henry Middleton
+### Letter 29: Gyles Thornton → Sir Henry Middleton
 
-### 38
+#### 38
 
-### Gyles Thornton, to the Right Worshipful Sir Henry Middleton, Knight, General, give these.
+#### Gyles Thornton, to the Right Worshipful Sir Henry<br />Middleton, Knight, General, give these.
 
 26th March, 1611.
 
@@ -1513,11 +1517,11 @@ Sir, since the writing of the former Captain Downton, with the rest of the compa
 
 * * *
 
-### Letter 29: William Pemberton → Sir Henry Middleton
+### Letter 30: William Pemberton → Sir Henry Middleton
 
-### 39
+#### 39
 
-### William Pemberton to the Right Worshipful Sir Henry Middleton, Knight, in Moho.
+#### William Pemberton to the Right Worshipful Sir Henry<br />Middleton, Knight, in Moho.
 
 28th March, 1611.
 
@@ -1531,11 +1535,11 @@ Wm. Pemberton.
 
 * * *
 
-### Letter 30: Captain Nicholas Downton → Sir Henry Middleton
+### Letter 31: Captain Nicholas Downton → Sir Henry Middleton
 
-### 40
+#### 40
 
-### Captain Nicholas Downton to The Right Worshipful Sir Henry Middleton, Knight, in Mocha, give this.
+#### Captain Nicholas Downton to The Right Worshipful Sir<br />Henry Middleton, Knight, in Mocha, give this.
 
 Peppercorn, this 16th of April, 1611.
 
@@ -1553,9 +1557,9 @@ Sir, we have divers men sick of divers diseases, and for aught I can find there 
 
 * * *
 
-### Letter 31: William Pemberton → Sir Henry Middleton
+### Letter 32: William Pemberton → Sir Henry Middleton
 
-### 41 William Pemberton to The Right Worshipful Sir Henry Middleton, Knight, and our good General.
+#### 41<br />William Pemberton to The Right Worshipful Sir Henry Middleton,<br />Knight, and our good General.
 
 21st April, 1611.
 
@@ -1571,11 +1575,11 @@ Wm. Pemberton
 
 I have filled those pots with powder which your Worship sent and do entreat for more with some lime to mingle with the powder if any be to be had. Your other ships likewise desireth for these pots, also I pray your worship, if it may be, to give leave to me to send our boat with 3 or 4 men aboard some of these ships to see if our company can fit themselves with stuff for clothes.
 
-### Letter 32: William Pemberton → Sir Henry Middleton
+### Letter 33: William Pemberton → Sir Henry Middleton
 
-### 42
+#### 42
 
-### William Pemberton to The Right Worshipful Sir Henry Middleton, Knight, and our good General, in Moho.
+#### William Pemberton to The Right Worshipful<br />Sir Henry Middleton, Knight, and our good General, in Moho.
 
 23rd April, 1611.
 
@@ -1591,11 +1595,11 @@ Darling 23rd of April, 1611.
 
 * * *
 
-### Letter 33: Lawrence Femell → Thomas Steward
+### Letter 34: Lawrence Femell → Thomas Steward
 
-### 43
+#### 43
 
-### Lawrence Femell to my very friend Mr. Thomas Steward, purser aboard the Trades Increase.
+#### Lawrence Femell to my very friend Mr. Thomas Steward,<br />purser aboard the Trades Increase.
 
 In Moha the 23rd April, 1611.
 
@@ -1611,13 +1615,13 @@ Lawrence Femell.
 
 * * *
 
-### Letter 34: Lawrence Femell / John Williams → Sir Henry Middleton
+### Letter 35: Lawrence Femell / John Williams → Sir Henry Middleton
 
-### 44
+#### 44
 
-### Lawrence Femell and John Williams
+#### Lawrence Femell and John Williams
 
-### To the Right Honorable Sir Henry Middleton, Knight, General of the English Fleet, aboard the Darling.
+#### To the Right Honorable Sir Henry Middleton, Knight, General<br />of the English Fleet, aboard the Darling.
 
 In Moha 11th of May, 1611.
 
@@ -1632,11 +1636,11 @@ Since the Nahuda of the Dabulls as also the Nahuda of the Malabars are come to t
 
 * * *
 
-### Letter 35: Lawrence Femell → Sir Henry Middleton
+### Letter 36: Lawrence Femell → Sir Henry Middleton
 
-### 45
+#### 45
 
-### [Lawrence Femell] to Sir Henry Middleton.
+#### [Lawrence Femell] to Sir Henry Middleton.
 
 14th May, 1611.
 
@@ -1649,9 +1653,9 @@ Your Worship's at commandment
 
 (*This document is not numbered, but is written on the back of No.* 45.)
 
-### Letter 36: Henry Middleton.
+### Letter 37: Sir Henry Middleton → Lawrence Femell
 
-### Sir Henry Middleton to Lawrence Femell.
+#### Sir Henry Middleton to Lawrence Femell.
 
 Laus Deo Aboard the Darling 13th of May, 1611.
 
@@ -1665,11 +1669,11 @@ Enquire what you can concerning Walter, and send me word. Buy, if you can, 100 b
 
 * * *
 
-### Letter 37: Lawrence Femell → Sir Henry Middleton
+### Letter 38: Lawrence Femell → Sir Henry Middleton
 
-### 46
+#### 46
 
-### Lawrence Femell to Sir Henry Middleton.
+#### Lawrence Femell to Sir Henry Middleton.
 
 Laus Deo In Moho the 13th of May, 1611.
 
@@ -1683,11 +1687,11 @@ Your Worship's at commandment
 
 * * *
 
-### Letter 38: Lawrence Femell → Sir Henry Middleton
+### Letter 39: Lawrence Femell → Sir Henry Middleton
 
-### 47
+#### 47
 
-### Lawrence Femell To the Right Worshipful Sir Henry Middleton, Knight.
+#### Lawrence Femell<br />To the Right Worshipful Sir Henry Middleton, Knight.
 
 The 14th of May, anno 1611.
 
@@ -1701,11 +1705,11 @@ The Governor of Mowse (Mousa) is come in this night with soldiers, they be in a 
 
 * * *
 
-### Letter 39: Lawrence Femell → Sir Henry Middleton
+### Letter 40: Lawrence Femell → Sir Henry Middleton
 
-### 48
+#### 48
 
-### Lawrence Femell to Sir Henry Middleton.
+#### Lawrence Femell to Sir Henry Middleton.
 
 In Moha, the 14th of May, 1611.
 
@@ -1722,11 +1726,11 @@ I pray you to lay out for 6 pretty maps of the road for Mahomet Aga, if there be
 
 * * *
 
-### Letter 40: Lawrence Femell / John Williams → Sir Henry Middleton
+### Letter 41: Lawrence Femell / John Williams → Sir Henry Middleton
 
-### 49
+#### 49
 
-### Lawrence Femell and John Williams to Sir Henry Middleton.
+#### Lawrence Femell and<br />John Williams to Sir Henry Middleton.
 
 Laus Deo. In Mocha the 15th of May, 1611.
 
@@ -1744,9 +1748,9 @@ Your Worship shall receive a pair of silk stockings and 20 mats. We beseech you 
 
 * * *
 
-### Letter 41: Sir Henry Middleton → Lawrence Femell
+### Letter 42: Sir Henry Middleton → Lawrence Femell
 
-### (*Reply to the above, not numbered.*) Sir Henry Middleton to Lawrence Femell.
+#### (*Reply to the above, not numbered.*)<br />Sir Henry Middleton to Lawrence Femell.
 
 15th May, 1611.
 
@@ -1760,11 +1764,11 @@ I pray you demand a small cablet and buoys and buoyropes among other things belo
 
 * * *
 
-### Letter 42: Regib Aga → Sir Henry Middleton
+### Letter 43: Regib Aga → Sir Henry Middleton
 
-### 50
+#### 50
 
-### Regib Aga, Governor of Mocha, to Sir Henry Middleton, Knight, General of the English Fleet aboard the Trades Increase.
+#### Regib Aga, Governor of Mocha, to Sir Henry Middleton, Knight,<br />General of the English Fleet aboard the Trades Increase.
 
 Laus Deo in Moha the 15th of May, 1611.
 
@@ -1776,11 +1780,11 @@ Reigub Agao, Governor of Mohao.
 
 * * *
 
-### Letter 43: Sir Henry Middleton → Lawrence Femell
+### Letter 44: Sir Henry Middleton → Lawrence Femell
 
-### 51
+#### 51
 
-### Sir Henry Middleton to my very loving friend, Mr. Lawrence Femell, merchant.
+#### Sir Henry Middleton to my very loving friend,<br />Mr. Lawrence Femell, merchant.
 
 Laus Deo, Aboard the Trades Increase the 15th of May, 1611.
 
@@ -1794,11 +1798,11 @@ P.S. I pray you let Mr. Williams buy me some buttons and silk of several colours
 
 * * *
 
-### Letter 44: Sir Henry Middleton → Lawrence Femell
+### Letter 45: Sir Henry Middleton → Lawrence Femell
 
-### 52
+#### 52
 
-### Sir Henry Middleton to Lawrence Femell.
+#### Sir Henry Middleton to Lawrence Femell.
 
 Laus Deo. Increase. the 16th of May, 1611.
 
@@ -1812,11 +1816,11 @@ Henry Middleton.
 
 * * *
 
-### Letter 45: Lawrence Femell / John Williams → Sir Henry Middleton
+### Letter 46: Lawrence Femell / John Williams → Sir Henry Middleton
 
-### 53
+#### 53
 
-### Lawrence Femell and John Williams to Sir Henry Middleton.
+#### Lawrence Femell and John Williams to Sir Henry Middleton.
 
 Laus Deo, in Moha 16th of May 1611.
 
@@ -1831,9 +1835,9 @@ John Williams.
 
 * * *
 
-### Letter 46: Lawrence Femell / John Williams → Sir Henry Middleton
+### Letter 47: Lawrence Femell / John Williams → Sir Henry Middleton
 
-### 54 Lawrence Femell and John Williams to Sir Henry Middleton.
+#### 54<br />Lawrence Femell and John Williams to Sir Henry Middleton.
 
 16th May, 1611.
 
@@ -1846,11 +1850,11 @@ John Williams.
 
 * * *
 
-### Letter 47: Lawrence Femell / John Williams → Sir Henry Middleton
+### Letter 48: Lawrence Femell / John Williams → Sir Henry Middleton
 
-### 55
+#### 55
 
-### Lawrence Femell and John Williams to Sir Henry Middleton.
+#### Lawrence Femell and John Williams to Sir Henry Middleton.
 
 18th of May, 1611.
 
@@ -1863,9 +1867,9 @@ John Williams.
 
 * * *
 
-### Letter 48: Sir Henry Middleton → Lawrence Femell
+### Letter 49: Sir Henry Middleton → Lawrence Femell
 
-### (*Answer to the foregoing.*) Sir Henry Middleton to Lawrence Femell.
+#### (*Answer to the foregoing.*)<br />Sir Henry Middleton to Lawrence Femell.
 
 18th May 1611.
 
@@ -1880,11 +1884,11 @@ I pray you see if you can get me a very fine piece of brown calico to make me cl
 
 * * *
 
-### Letter 49: Sir Henry Middleton → Lawrence Femell
+### Letter 50: Sir Henry Middleton → Lawrence Femell
 
-### 56
+#### 56
 
-### Sir Henry Middleton to Lawrence Femell.
+#### Sir Henry Middleton to Lawrence Femell.
 
 Laus Deo. Aboard the Increase 18th of May 1611.
 
@@ -1898,11 +1902,11 @@ Henry Middleton.
 
 * * *
 
-### Letter 50: Lawrence Femell → Sir Henry Middleton
+### Letter 51: Lawrence Femell → Sir Henry Middleton
 
-### 57
+#### 57
 
-### Lawrence Femell to Sir Henry Middleton.
+#### Lawrence Femell to Sir Henry Middleton.
 
 In Mocha the 19th of May, 1611.
 
@@ -1917,9 +1921,9 @@ Advise us if we shall buy any lentils or any other thing
 
 [*Answer to the foregoing.*]
 
-### Letter 51: [unsigned.]
+### Letter 52: Sir Henry Middleton → Lawrence Femell
 
-### Sir Henry Middleton to Lawrence Femell.
+#### Sir Henry Middleton to Lawrence Femell.
 
 Laus Deo. Aboard the Increase 18th May 1611.
 
@@ -1935,11 +1939,11 @@ I pray you send Mr. Bownes his bible, cornet, viol, and what other books and ins
 
 * * *
 
-### Letter 52: Regib Aga → Sir Henry Middleton
+### Letter 53: Regib Aga → Sir Henry Middleton
 
-### 58
+#### 58
 
-### Regib Aga, Governor of Mocha, to the Right Worshipful Sir Henry Middleton, Knight, General of the English Fleet, aboard the Increase.
+#### Regib Aga, Governor of Mocha, to the Right Worshipful Sir Henry Middleton, Knight, General of the English Fleet, aboard the Increase.
 
 Laus Deo In Moha the 19th of May, 1611.
 
@@ -1951,11 +1955,11 @@ The Shabunder commends him unto your Worship being here at present and sends you
 
 * * *
 
-### Letter 53: Meleck Ambar → Sir Henry Middleton
+### Letter 54: Meleck Ambar → Sir Henry Middleton
 
-### 59
+#### 59
 
-### Meleck Ambar, captain of Dabul, to the Right Worshipful Sir Henry Middleton, Knight, General of the English Fleet, aboard the Increase.
+#### Meleck Ambar, captain of Dabul, to the Right Worshipful Sir Henry Middleton, Knight, General of the English Fleet, aboard the Increase.
 
 Laus Deo. In Mocha the 19th of May, 1611.
 
@@ -1966,11 +1970,11 @@ Your loving and assured friend
 Meleck Ambar, Nahuda of  
 the great ship.
 
-### Letter 54: Sir Henry Middleton → Regib Aga
+### Letter 55: Sir Henry Middleton → Regib Aga
 
-### 60
+#### 60
 
-### Sir Henry Middleton to Regib Aga, governor of Mocha.
+#### Sir Henry Middleton to Regib Aga, governor of Mocha.
 
 Laus Deo. Aboard the Increase, the 18th of May, 1611.
 
@@ -1983,11 +1987,11 @@ Henry Middleton.
 
 This is all interpreted to the bearer right as it is written.
 
-### Letter 55: Lawrence Femell / John Williams → Sir Henry Middleton
+### Letter 56: Lawrence Femell / John Williams → Sir Henry Middleton
 
-### 61
+#### 61
 
-### Lawrence Femell and John Williams to Sir Henry Middleton.
+#### Lawrence Femell and John Williams to Sir Henry<br />Middleton.
 
 Laus Deo In Moha the 20th May 1611.
 
@@ -2004,9 +2008,9 @@ We send you all the singing books that can be found about the house, by this bea
 
 * * *
 
-### Letter 56: Shermale → Sir Henry Middleton
+### Letter 57: Shermale → Sir Henry Middleton
 
-### 62 Shermale, Shabunder of Mocha to Sir Henry Middleton, Knight, General of the English Fleet aboard the Increase.
+#### 62<br />Shermale, Shabunder of Mocha to Sir Henry Middleton,<br />Knight, General of the English Fleet aboard the Increase.
 
 Laus Deo In Moha 20th of May, 1611.
 
@@ -2019,9 +2023,9 @@ I send your Worship by this bearer 10 moraes of rice which I desire you to accep
 
 * * *
 
-### Letter 57: Sir Henry Middleton → Lawrence Femell
+### Letter 58: Sir Henry Middleton → Lawrence Femell
 
-### 63 Sir Henry Middleton to Lawrence Femell.
+#### 63<br />Sir Henry Middleton to Lawrence Femell.
 
 Laus Deo. Aboard the Increase 21st of May, 1611.
 
@@ -2035,9 +2039,9 @@ Henry Middleton.
 
 * * *
 
-### Letter 58: Lawrence Femell / John Williams → Sir Henry Middleton
+### Letter 59: Lawrence Femell / John Williams → Sir Henry Middleton
 
-### 64 Lawrence Femell and John Williams to Sir Henry Middleton.
+#### 64<br />Lawrence Femell and John Williams to Sir Henry Middleton.
 
 Laus Deo. In Mohao the 22nd of May, 1611.
 
@@ -2052,7 +2056,7 @@ Your Worship's at commandment
 Lawrence Femell.  
 John Williams.
 
-### Points of the news given out by Cannang, purser of the Diu ship.
+###### Points of the news given out by Cannang, purser of the Diu ship.
 
 - 1. That there be six of our nation at Agra in great [*torn away*]
 - 2. That 25 went to Achen or Java in a frigate.
@@ -2065,11 +2069,11 @@ Lawrence Femell
 
 * * *
 
-### Letter 59: Lawrence Femell / John Williams → Sir Henry Middleton
+### Letter 60: Lawrence Femell / John Williams → Sir Henry Middleton
 
-### 65
+#### 65
 
-### Lawrence Femell and John Williams to Sir Henry Middleton.
+#### Lawrence Femell and John Williams to Sir Henry Middleton.
 
 Laus Deo. In Moha. 22nd of May, 1611.
 
@@ -2092,11 +2096,11 @@ The Aga desireth your Worship to permit the Guzerat youth to come on shore, for 
 
 * * *
 
-### Letter 60: Sir Henry Middleton → Lawrence Femell
+### Letter 61: Sir Henry Middleton → Lawrence Femell
 
-### 66
+#### 66
 
-### Sir Henry Middleton to Lawrence Femell.
+#### Sir Henry Middleton to Lawrence Femell.
 
 Laus Deo. Aboard the Increase. the 22nd May, 1611.
 
@@ -2108,11 +2112,11 @@ Let Mr. Bownes his cornet be sent aboard by the first as also my written book of
 
 * * *
 
-### Letter 61: Lawrence Femell / John Williams → Sir Henry Middleton
+### Letter 62: Lawrence Femell / John Williams → Sir Henry Middleton
 
-### 67
+#### 67
 
-### Lawrence Femell and John Williams to Sir Henry Middleton.
+#### Lawrence Femell and John Williams to Sir Henry Middleton.
 
 Laus Deo In Moha the 23rd of May, anno 1611.
 
@@ -2127,11 +2131,11 @@ The Shabunder commends him unto your Worship and desireth you to favour him so m
 
 * * *
 
-### Letter 62: Sir Henry Middleton → Lawrence Femell
+### Letter 63: Sir Henry Middleton → Lawrence Femell
 
-### 68
+#### 68
 
-### Sir Henry Middleton to his good friend Mr. Lawrence Femell, merchant.
+#### Sir Henry Middleton to his good friend Mr. Lawrence Femell,<br />merchant.
 
 Laus Deo. Aboard the Trades Increase the 23rd May, 1611.
 
@@ -2143,11 +2147,11 @@ Henry Middleton.
 
 * * *
 
-### Letter 63: Lawrence Femell / John Williams → Sir Henry Middleton
+### Letter 64: Lawrence Femell / John Williams → Sir Henry Middleton
 
-### 69
+#### 69
 
-### Lawrence Femell and John Williams to Sir Henry Middleton.
+#### Lawrence Femell and John Williams to Sir Henry Middleton.
 
 Laus Deo. In Moha the 24th of May, 1611.
 
@@ -2166,11 +2170,11 @@ John Williams.
 
 * * *
 
-### Letter 64: Sir Henry Middleton → Lawrence Femell
+### Letter 65: Sir Henry Middleton → Lawrence Femell
 
-### 70
+#### 70
 
-### Sir Henry Middleton to Lawrence Femell.
+#### Sir Henry Middleton to Lawrence Femell.
 
 Laus Deo. Aboard the Increase the 25th of May, 1611.
 
@@ -2192,9 +2196,9 @@ The ships of Dew 130 or 135 each from Sinda or 70. 80. 90.
 
 * * *
 
-### Letter 65: Lawrence Femell / John Williams → Sir Henry Middleton
+### Letter 66: Lawrence Femell / John Williams → Sir Henry Middleton
 
-### 71 Lawrence Femell and John Williams to Sir Henry Middleton.
+#### 71<br />Lawrence Femell and John Williams to Sir Henry Middleton.
 
 In Moha, the 26th of May, I611.
 
@@ -2209,7 +2213,7 @@ Your Worship shall receive by this boat 31 pound of candles, they begin to wax s
 
 * * *
 
-### 72 Copy of a Writing sent Regib Aga. 26th of May, 1611.
+### 72<br />Copy of a Writing sent Regib Aga.<br />26th of May, 1611.
 
 KNOW all men by these presents that I, Henry Middleton, knight, arriving here at the port of Moha with three English ships in November 1610 and was at first in outward show with all show of love received and entertained ; few days after, the mystery of the Turks' treachery growing ripe, in an evening I, with all my people ashore, were traitorously surprised, myself wounded, many of my people slain, and the rest put in irons, necks, hands and legs and all our goods confiscated ; myself, with many more, carried to Senan, passing through every town by the way as captives led in triumph, and not as innocents betrayed, and in witness of the truth hereof I, with those underwritten, have hereunto set our names.
 
@@ -2224,9 +2228,9 @@ the 26th of May, 1611.
 
 *Note.*—Tell the Aga that the meaning of this is, that upon your delivery and the pinnace all the ships and men shall have free liberty, and that I bind myself hereby not to meddle with any ships in this sea.
 
-### Letter 66
+### Letter 67
 
-### 73 Letter of Advice unto all English ships to shun the Red Sea. May [?] 1611.
+#### 73<br />Letter of Advice unto all English ships to<br />shun the Red Sea. May [?] 1611.
 
 In Moha the 30th of April 1611. [*date filled up in error*]
 
@@ -2238,9 +2242,9 @@ If any of you chance to come into the Red Sea you shall understand that W.S.W. f
 
 * * *
 
-### Letter 67
+### Letter 68
 
-### 74
+#### 74
 
 *This document is a copy of* 73 *except the last page, which is as follows:*
 
@@ -2250,15 +2254,15 @@ Written in Assab road the —— of —— anno 1611.
 
 * * *
 
-### Letter 68: Anthony Hippon → East India Company
+### Letter 69: Anthony Hippon → East India Company
 
-### 75 & 81
+#### 75 & 81
 
 *These documents are imperfect*
 
 [August 1611 ?]
 
-### [Captain Anthony Hippon & the merchants of the seventh voyage to the East India Company.]
+#### [Captain Anthony Hippon & the merchants of the seventh<br />voyage to the East India Company.]
 
 [*The first portion of this letter is missing.*]
 
@@ -2266,11 +2270,11 @@ HOPE your Worship long before these have received whereunto we do refer your Wor
 
 * * *
 
-### Letter 69: Lucas Antheunis / Peter Floris → Will. Finch
+### Letter 70: Lucas Antheunis / Peter Floris → Will. Finch
 
-### 76
+#### 76
 
-### By Lucas Antheunis and Peter Floris, from Masulipatam, to Will. Finch, or other merchants they suppose to be resident in Surat, written the 7th of September, 1611.
+#### By Lucas Antheunis and Peter Floris, from Masulipatam, to Will. Finch, or other merchants they suppose to be resident in Surat, written the 7th of September, 1611.
 
 WORSHIPFUL Sir, We commend us unto you. These are to give you to understand that by order from the East India Company of London, we have contracted ourselves with them in their service (notwithstanding we are Netherlanders) who desired us at our departure (in the ship called the Globe) out of the Downs viz. which said ship being set out by the Governor Sir Thomas Smith and the rest of the Company, who willed at our safe arrival at our ports by the first convenient means we could have, to send to you overland to enquire the estate and occurrence of the Company's business at present in Surratt. And we now finding opportunity, by a Jew named Maseno, to perform the same.
 
@@ -2287,9 +2291,9 @@ Peter Floris.
 Tho: Essington.  
 Symon Evans.
 
-### Letter 70: Alex. Sharpeigh / John Jourdain → Sir Henry Middleton
+### Letter 71: Alex. Sharpeigh / John Jourdain → Sir Henry Middleton
 
-### 77 Captain Alex. Sharpeigh and Mr. John Jourdain to Sir Henry Middleton.
+#### 77<br />Captain Alex. Sharpeigh and Mr. John Jourdain to Sir Henry<br />Middleton.
 
 Laus Deo. Surat the 12th of October 1611. late at night.
 
@@ -2300,7 +2304,7 @@ Thus not having else at present to enlarge you, but commendations unto your Wors
 Alex. Sharpeigh.  
 John Jourdain.
 
-### Letter 71: Alex. Sharpeigh → Sir Henry Middleton
+### Letter 72: Alex. Sharpeigh → Sir Henry Middleton
 
 In Surat, the 16th, late in the night, October 1611.
 
@@ -2310,39 +2314,41 @@ Your Worship's ever at command
 
 Alex. Sharpeigh.
 
-A Note of those provisions sent aboard to Sir Henry Middleton, the 12th of October I611.
+> **[enclosure: A Note of those provisions sent aboard to Sir Henry Middleton, the 12th of October I611.]**
+>
+> A Note of those provisions sent aboard to Sir Henry Middleton, the 12th of October I611.
+>
+> |  | m. | p. |
+> | --- | --- | --- |
+> | Item for 200 maunds wheat | 307 | 12 |
+> | for 25 maunds moong | 28 | 09 |
+> | for 25 maunds rice | 30 | 07 |
+> | for 25 maunds Chaundry | 36 | 06 |
+> | for 18 maunds butter | 119 | 12 |
+> | for 4250 lemons with baskets | 17 | 04 |
+> | for 200 plantains | 02 | 00 |
+> | for 105 cocoanuts | 06 | 00 |
+> | for 5½ maunds onions | 02 | 00 |
+> | for bread | 03 | 00 |
+> | for cloth for sacks and making | 28 | 00 |
+> | for two jars for the butter with ropes | 09 | 02 |
+> | for porterage of particulars above to the barque | 03 | 13 |
+> | to the officers of Custom house | 02 | 00 |
+> | to a man that went with these things aboard | 01 | 00 |
+> | for freight of the barque | 30 | 00 |
+> |  | 623 | 65 |
+> |  | 3 | 1[ ] |
+> |  | 626 | 1[ ] |
+>
+> Note that 5 mam: makes a rial of 8 and 5 pice and 32 pice makes a mamoodie.
+>
+> Alex. Sharpeigh.
 
-|  | m. | p. |
-| --- | --- | --- |
-| Item for 200 maunds wheat | 307 | 12 |
-| for 25 maunds moong | 28 | 09 |
-| for 25 maunds rice | 30 | 07 |
-| for 25 maunds Chaundry | 36 | 06 |
-| for 18 maunds butter | 119 | 12 |
-| for 4250 lemons with baskets | 17 | 04 |
-| for 200 plantains | 02 | 00 |
-| for 105 cocoanuts | 06 | 00 |
-| for 5½ maunds onions | 02 | 00 |
-| for bread | 03 | 00 |
-| for cloth for sacks and making | 28 | 00 |
-| for two jars for the butter with ropes | 09 | 02 |
-| for porterage of particulars above to the barque | 03 | 13 |
-| to the officers of Custom house | 02 | 00 |
-| to a man that went with these things aboard | 01 | 00 |
-| for freight of the barque | 30 | 00 |
-|  | 623 | 65 |
-|  | 3 | 1[ ] |
-|  | 626 | 1[ ] |
+### Letter 73: Wm. Adams
 
-Note that 5 mam: makes a rial of 8 and 5 pice and 32 pice makes a mamoodie.
+#### 78
 
-Alex. Sharpeigh.
-
-### Letter 72: Wm. Adams
-
-### 78
-
-### Copy of William Adams his letter of the 23rd October, 1611.
+#### Copy of William Adams his letter of the 23rd October, 1611.
 
 Laus Deo. the 23rd October anno 1611.  
 In Ferando in Japan.
@@ -2358,11 +2364,11 @@ Wm. Adams.
 
 * * *
 
-### Letter 73: George Ball → Edmond Camden
+### Letter 74: George Ball → Edmond Camden
 
-### 79
+#### 79
 
-### [George Ball ?] to Edmond Camden.
+#### [George Ball ?] to Edmond Camden.
 
 14th December, 1611.
 
@@ -2375,9 +2381,9 @@ the 14th of December, 1611.
 
 * * *
 
-### Letter 74: Lucas Antheunis → Pieter Willemsen
+### Letter 75: Lucas Antheunis → Pieter Willemsen
 
-### 80 Lucas Antheunis to Pieter Willemsen. (*This is translated from the Dutch.*)
+#### 80<br />Lucas Antheunis to Pieter Willemsen.<br />(*This is translated from the Dutch.*)
 
 January 8th 1612.
 
@@ -2397,7 +2403,7 @@ For No. 81 see page 132.
 
 * * *
 
-### 82 Nicholas Downton, his opinion, what fit to be done for the time next ensuing.
+### 82<br />Nicholas Downton, his opinion, what fit to be done for the time next ensuing.
 
 Written in the Road of Dabul, February 24th 1611.
 
@@ -2453,7 +2459,7 @@ What I briefly set down underneath of the things we did in the Red Sea the last 
 
 ### 84
 
-### An Armenian his report of the Prester John or the Ethiopian Emperor.
+### An Armenian his report of the Prester John or the<br />Ethiopian Emperor.
 
 Laus Deo in the port of Agumo the 20th of May 1612.
 
@@ -2466,7 +2472,7 @@ Here follows the commodities which his country yieldeth with their prices.
 
 Civet great quantities is to be had, the price is 3 wakyas (which is near upon 4 oz. English) for 5 rials of 8, Elephant's teeth the bahar worth 30 rials, the bahar is 360 rottolas of Moha. Wax 100 rottolas worth one rial of 8. Gold the rottola worth 60 rials of 8, the rottola is near upon 16½ oz., lead and tin in great request, tin worth the rottola one rial, lead much more worth because the Turks will not suffer any to be carried into his country. Bezoar stones many are to be had and little worth. There are many beasts with one horn in their forehead like unto an unicorn, which horn they say is good against poison, there are of them which weigh 8 lb., some 7, 6, 4, and 3 lb., the greatest and fairest worth some 4 rials per piece, and those of a lesser sort worth less. Amongst the Turks and Moors in Arabia every lb. is worth one rial of 8. From Gran Cayro there goeth in August a great caravan and likewise another in November. The commodities they carry from thence are cloths, kersies, velvets, satins, damasks and all sorts of silks ; from Cayro to Dombia is 50 days travel by caravan.
 
-### The King's State.
+##### The King's State.
 
 First he sits on a gilt bedstead like those of China and there cometh great troops of men daily to salute him, some days 2000, some days more, some days less, but Friday, being their day of fast, there cometh a far greater quantity than at other days. There are 30 or 40 great men that sit near the King, and at their houses hear all men's complaints and suits, and what daily passeth in this business at their coming to the Court, they acquaint the King withal, and accordingly he doeth justice.
 
@@ -2486,11 +2492,11 @@ FRIDAY I went to Captain Jourdain to know his reason why he was offended with me
 
 * * *
 
-### Letter 75: Aga of Mocha / Mammy Capitan → Henry Middleton
+### Letter 76: Aga of Mocha / Mammy Capitan → Henry Middleton
 
-### 86
+#### 86
 
-### The copy of a letter written by the Aga of Mocha and Mammy Capitan unto Sir Henry Middleton ; dated the 28th of June, 1612.
+#### The copy of a letter written by the Aga of Mocha and Mammy Capitan unto Sir Henry Middleton ; dated the 28th of June, 1612.
 
 VERY dear Sir Don Henrico Middleton, We advise you that we had order from the Basha, for to accord a peace with your Worship, and we were ready to make the peace according to the Basha his order. And by the coming of Captain John Saris demanding that he will have money for hurts that he hath received, of which his demands and loss we know nothing, for that he received no other than honour and courtesies from us, and good vests, both he and his brother, which were the best I had, and a good sword of gold and other presents. And because of his demands, we cannot conclude the said peace with your Worship : for he demands false demands, for which cause we cannot make concert with your Worship.
 
@@ -2506,11 +2512,11 @@ Hider Aga.
 
 * * *
 
-### Letter 76: Edmond Marlowe / Richard Cobb / Richard Bennett / John Gourney / Paul Hall / George Chauncey → Thomas Smith / Company trading to the East Indies
+### Letter 77: Edmond Marlowe / Richard Cobb / Richard Bennett / John Gourney / Paul Hall / George Chauncey → Thomas Smith / Company trading to the East Indies
 
-### 87
+#### 87
 
-### To the Right Worshipful Sir Thomas Smith, Knight, Governor, and the Company trading to the East Indies. A letter written from Bantam the 5th of November, 1612 subscribed by divers, the Commander and Factors of the James. Per the Solomon, whom God preserve.
+#### To the Right Worshipful Sir Thomas Smith, Knight, Governor, and the Company trading to the East Indies. A letter written from Bantam the 5th of November, 1612 subscribed by divers, the Commander and Factors of the James. Per the Solomon, whom God preserve.
 
 Laus Deo, in Bantam the 5th November 1612.
 
@@ -2541,9 +2547,9 @@ per me Thos. Essington.
 
 * * *
 
-### Letter 77: John Saris → Edmond Camden
+### Letter 78: John Saris → Edmond Camden
 
-### 89 Captain John Saris to Edmond Camden. the 23rd November, 1612.
+#### 89<br />Captain John Saris to Edmond Camden.<br />the 23rd November, 1612.
 
 MR. CAMDEN, let not the men work on the sabbath day, and pay out no money without my order upon any bargain except for victuals or necessaries. In the house call to Mr. Frayne for the 2000 rs. you paid unto Sir Henry in part payment of 5000 sacks of pepper bought from Kewe to give 3 per cent. basse and to make payment thereof after the accomplishment of the 4000 bought formerly by us, the one half of the said 5000 sacks is for [*worn away*] if we shall have use thereof, and the other for Sir Henry with promise to him that if I shall not have need of it to spare it him at the price. Use Kewe kindly and bring the charge of the house as small as conveniently you can. I made account that Captain Towerson's continual being ashore would have afforded you so much help as to have appointed, with your help, each man to his business and to have sent loiterers aboard, but for aught I see the number increases. It is a matter fit to be thought of by you and to keep the folks so about you employed, as upon all occasions they give you account where they spend their time, and where they are, that when use is they may be had. Of necessity we must lighten the Thomas to-morrow, wherefore porters must be kept to carry up their part, and at one instant place them, that we commit no more such an error as at landing of ours. What lumber is brought may as you see fitting be brought up to the house, left at the custom house or put into Tincan's warehouse. A butler must be appointed and the buttery not made common, so soon as conveniently we can. You shall have some cider ashore in hopes it will be better looked unto, also more flesh but you must understand it stands the Company in money, wherefore our other expenses should be the less. John Beaumont's long stay makes me think that you stay very long. Use him kindly for to my knowledge he is honest and to be trusted, above other he speaks the language well and you shall not need a Juribasso. Give no presents to any without making me first acquainted. I purpose to have a council touching the disposing of the Thomas out of hand but do not see how I could unless it may be done ashore, notwithstanding we must make a shift and in the morning I think to be with you. Commend me to Mr. Cocks
 
@@ -2557,11 +2563,11 @@ J. Saris.
 
 * * *
 
-### Letter 78: Ferdinando Cotton → Thomas Smith
+### Letter 79: Ferdinando Cotton → Thomas Smith
 
-### 90
+#### 90
 
-### Ferdinando Cotton to [Sir Thomas Smith].
+#### Ferdinando Cotton to [Sir Thomas Smith].
 
 Laus Deo in Bantam. November 1612.
 
@@ -2573,11 +2579,11 @@ Ferdinando Cotton.
 
 * * *
 
-### Letter 79: John Saris → Edmond Camden
+### Letter 80: John Saris → Edmond Camden
 
-### 91
+#### 91
 
-### Captain John Saris to Edmond Camden.
+#### Captain John Saris to Edmond Camden.
 
 the 11th December, 1612.
 
@@ -2589,11 +2595,11 @@ John Saris.
 
 * * *
 
-### Letter 80: John Saris → Edmond Camden
+### Letter 81: John Saris → Edmond Camden
 
-### 92
+#### 92
 
-### Captain John Saris to his loving friend Mr. Ed. Camden, merchant.
+#### Captain John Saris to his loving friend<br />Mr. Ed. Camden, merchant.
 
 Bantam, the 21st December 1612.
 
@@ -2605,11 +2611,11 @@ J. Saris.
 
 * * *
 
-### Letter 81: John Saris → Edmond Camden
+### Letter 82: John Saris → Edmond Camden
 
-### 93
+#### 93
 
-### Captain John Saris to his loving friend Mr. Ed. Camden, merchant.
+#### Captain John Saris to his loving friend Mr. Ed. Camden, merchant.
 
 Bantam 21st December, 1612.
 
@@ -2622,11 +2628,11 @@ Neglect not to call to Kewe for his pepper that we may the better give him credi
 
 * * *
 
-### Letter 82: John Saris → Edmond Camden
+### Letter 83: John Saris → Edmond Camden
 
-### 94
+#### 94
 
-### Captain Saris to Edmond Camden.
+#### Captain Saris to Edmond Camden.
 
 Bantam, the 31st December, 1612.
 
@@ -2640,11 +2646,11 @@ If the knight send for cables look that you let them not have them except they w
 
 * * *
 
-### Letter 83: John Saris → Edmond Camden
+### Letter 84: John Saris → Edmond Camden
 
-### 95
+#### 95
 
-### Captain John Saris to his loving friend Edmond Camden, merchant.
+#### Captain John Saris to his loving friend<br />Edmond Camden, merchant.
 
 Bantam the 2nd of January 1612.
 
@@ -2658,11 +2664,11 @@ Hearken, about the house I have already determined whom and how many shall stay 
 
 * * *
 
-### Letter 84: William Adams → Augustin Spalding
+### Letter 85: William Adams → Augustin Spalding
 
-### 96
+#### 96
 
-### William Adams from Japan To my assured good friend Augustin Spalding.
+#### William Adams from Japan<br />To my assured good friend Augustin Spalding.
 
 Laus Deo, written in Japan, in the island of Firando,  
 the 12th of January 1613.
@@ -2677,11 +2683,11 @@ I have writ two letters all in one manner, so that if one comes to your hand I s
 
 * * *
 
-### Letter 85: Richard Cocks → Thomas Smith / East India Company
+### Letter 86: Richard Cocks → Thomas Smith / East India Company
 
-### 97
+#### 97
 
-### Richard Cocks to the Right Worshipful Sir Thomas Smith, Knight, Governor of the East India Company, or to the Worshipful his Deputy, the Committees and the rest of the Company in London, per Captain Gabriel Towerson, in the Hector, whom God preserve.
+#### Richard Cocks to the Right Worshipful Sir Thomas Smith, Knight, Governor of the East India Company, or to the Worshipful his Deputy, the Committees and the rest of the Company in London, per Captain Gabriel Towerson, in the Hector, whom God preserve.
 
 Bantam 12th of January 1612.
 
@@ -2698,66 +2704,70 @@ Ric: Cocks.
 Bantam  
 the 12th January 1612.
 
-### *Enclosure to 97.*
-
-January 12th, 1612. A note of the dead men out of the Clove, Hector and Thomas, until this present day.
-
-| 1611 | CLOVE |
-| --- | --- |
-| July 30. | Tho. Robson, boatswain's man |
-| August 11. | Isaak Battell, Quartermaster |
-| Sept: 08. | Omer, An Indian |
-| Oct: 12. | Tho. Robinson, Sir T. Smith's man |
-| „ 31. | Samby, An Indian |
-| Jan: 14. | John Perry, Quartermaster |
-| „ 26. | Humphrey Middleton |
-| Feb: 08. | Benjamin Neve, Quartermaster |
-| „ 09. | Tho. Butris, smith |
-| „ 11. | Robt. Furs, quartermaster |
-| „ „ | David Abergrumby, Scot |
-| „ 17. | John Strickson |
-| „ 19. | James Woodgate, gunner's mate |
-| March 01. | Robt. Green, quartermaster |
-| „ 06. | James Browne |
-| „ 08. | Robt. Dingell, quartermaster |
-| „ 10. | Tho. Soflinge |
-| 1612 |  |
-| „ 11. | Jno. Bushop, merchant |
-| „ 25. | Andrew Smith, trumpeter |
-| April 12. | Jno. Marsh, boatswain's mate |
-| May 02. | Ed. Williams |
-| July 21. | Ed. Shouke, trumpeter |
-| Aug: 07. | Ric. Jones, General's servant |
-| Nov: 29. | Samuell Middleton |
-| Dec: 05. | John Whitinge |
-| „ 06. | Tho. Fuller the younger |
-| Dec. 17. | Raphe Herne |
-
-**1611 HECTOR**
-
-| May 02. John Prestey „ 03. Reynold Robson Oct : 10. John Komet, boatswain's mate Nov : 01. Oliver Men, a Frenchman „ 06. Ambrose Arneway, merchant „ 28. Mathew Cutbertson Feb : 14. George Horwood „ 15. John Tye Mch. 0[ ]. John Howse „ 11. James Frankland „ 20. Ric. Davenport |
-| --- |
-
-**1612**
-
-| „ 26. Mathew Robson, smith „ 30. Wm. Morgan, swabber April 02. Wm. Wickham, merchant „ 11. Wm. Tracye, Captain's man „ 13. John Symes „ 16. Jno. Smith, senior sailor May 03. Charles Warren „ 16. Raphe Ebbuts June 18. Thomas Mountney Aug: 05. John Bushop, sailor Nov : 20. Wm. Doafe „ 25. Capt. Tobias Cocks „ 27. David Lewes Dec : 06. Ric. Dawes, master „ 10. Thomas Lovell „ 15. Guy Trinder „ 17. Ric. Davis „ 23. Jno. Neale and Francis Burgis Jan : 08. John Ward, Mr Barret's man |  |
-| --- | --- |
-| 1611 | THOMAS |
-| Feb : 12. | Thomas Gray, gunner |
-| Mrch : 04. | Edward Pawlinge, a boy |
-| „ 09. | John Martinge |
-| „ 15. | Rowland Benn[et] |
-| Mrch : 18. | Thomas Coalle, purser's mate |
-| „ 24. | Edward Reeve, chirurgeon |
-| 1612 |  |
-| „ 30. | Tho. Archiball, a Scot |
-| „ „ | Gregory Lawson |
-| Oct : 20. | John Peeterson |
-| „ 27. | Roger Barnes |
-| „ „ | Anthony Jefferson |
-| Nov : 03. | Old Thomas Fuller |
-| Dec : 11. | John Hamon |
-| „ 24. | John Masters |
+> **[enclosure: Enclosure to 97. January 12th, 1612. A note of the dead men out of the Clove, Hector and Thomas, until this present day.]**
+>
+> ##### *Enclosure to 97.*
+>
+> January 12th, 1612. A note of the dead men out of the Clove, Hector and Thomas, until this present day.
+>
+> | 1611 | CLOVE |
+> | --- | --- |
+> | July 30. | Tho. Robson, boatswain's man |
+> | August 11. | Isaak Battell, Quartermaster |
+> | Sept: 08. | Omer, An Indian |
+> | Oct: 12. | Tho. Robinson, Sir T. Smith's man |
+> | „ 31. | Samby, An Indian |
+> | Jan: 14. | John Perry, Quartermaster |
+> | „ 26. | Humphrey Middleton |
+> | Feb: 08. | Benjamin Neve, Quartermaster |
+> | „ 09. | Tho. Butris, smith |
+> | „ 11. | Robt. Furs, quartermaster |
+> | „ „ | David Abergrumby, Scot |
+> | „ 17. | John Strickson |
+> | „ 19. | James Woodgate, gunner's mate |
+> | March 01. | Robt. Green, quartermaster |
+> | „ 06. | James Browne |
+> | „ 08. | Robt. Dingell, quartermaster |
+> | „ 10. | Tho. Soflinge |
+> | 1612 |  |
+> | „ 11. | Jno. Bushop, merchant |
+> | „ 25. | Andrew Smith, trumpeter |
+> | April 12. | Jno. Marsh, boatswain's mate |
+> | May 02. | Ed. Williams |
+> | July 21. | Ed. Shouke, trumpeter |
+> | Aug: 07. | Ric. Jones, General's servant |
+> | Nov: 29. | Samuell Middleton |
+> | Dec: 05. | John Whitinge |
+> | „ 06. | Tho. Fuller the younger |
+> | Dec. 17. | Raphe Herne |
+>
+> **1611 HECTOR**
+>
+> |  |
+> | --- |
+> | May 02. John Prestey „ 03. Reynold Robson Oct : 10. John Komet, boatswain's mate Nov : 01. Oliver Men, a Frenchman „ 06. Ambrose Arneway, merchant „ 28. Mathew Cutbertson Feb : 14. George Horwood „ 15. John Tye Mch. 0[ ]. John Howse „ 11. James Frankland „ 20. Ric. Davenport |
+>
+> **1612**
+>
+> |  |  |
+> | --- | --- |
+> | „ 26. Mathew Robson, smith „ 30. Wm. Morgan, swabber April 02. Wm. Wickham, merchant „ 11. Wm. Tracye, Captain's man „ 13. John Symes „ 16. Jno. Smith, senior sailor May 03. Charles Warren „ 16. Raphe Ebbuts June 18. Thomas Mountney Aug: 05. John Bushop, sailor Nov : 20. Wm. Doafe „ 25. Capt. Tobias Cocks „ 27. David Lewes Dec : 06. Ric. Dawes, master „ 10. Thomas Lovell „ 15. Guy Trinder „ 17. Ric. Davis „ 23. Jno. Neale and Francis Burgis Jan : 08. John Ward, Mr Barret's man |  |
+> | 1611 | THOMAS |
+> | Feb : 12. | Thomas Gray, gunner |
+> | Mrch : 04. | Edward Pawlinge, a boy |
+> | „ 09. | John Martinge |
+> | „ 15. | Rowland Benn[et] |
+> | Mrch : 18. | Thomas Coalle, purser's mate |
+> | „ 24. | Edward Reeve, chirurgeon |
+> | 1612 |  |
+> | „ 30. | Tho. Archiball, a Scot |
+> | „ „ | Gregory Lawson |
+> | Oct : 20. | John Peeterson |
+> | „ 27. | Roger Barnes |
+> | „ „ | Anthony Jefferson |
+> | Nov : 03. | Old Thomas Fuller |
+> | Dec : 11. | John Hamon |
+> | „ 24. | John Masters |
 
 * * *
 
@@ -2771,11 +2781,11 @@ January 15th 1612.
 
 * * *
 
-### Letter 86: Edmond Camden → Company of Merchants Adventurers in the VIII voyage for the East Indies
+### Letter 87: Edmond Camden → Company of Merchants Adventurers in the VIII voyage for the East Indies
 
-### 99
+#### 99
 
-### Edmond Camden to the Right Honble. and the Right Worshipful Company of Merchants Adventurers in the VIII voyage for the East Indies.
+#### Edmond Camden to the Right Honble. and the Right Worshipful Company of Merchants Adventurers in the VIII voyage for the East Indies.
 
 Bantam, this 15th of January 1612.
 
@@ -2789,9 +2799,9 @@ Edmond Camden.
 
 * * *
 
-### Letter 87: George Ball → Edmond Camden
+### Letter 88: George Ball → Edmond Camden
 
-### 99 <span class="small-caps">a</span> George Ball to Edmond Camden. 16th January, 1612.
+#### 99 <span class="small-caps">a</span><br />George Ball to Edmond Camden.<br />16th January, 1612.
 
 MR. CAMDEN, Hearty commendations &c. I do now send you 93 hens and 10 ducks as wanting hens to make up the number, 13 of the 93 hens are for Mr. Dodsworth which I pray you send him. If more hens had been to have been got you should not have failed thereof. Also I send you 8 catties of sugar candy cost 7 rs. being all I can get; Achar none to be had except one jar of 5 rs. Here inclosed I send you a note from Mr. Ward. Commend me to Captain Towerson and all aboard the Hector, and remember me to Captain Hawkins, Mr. Rowe and all aboard the Thomas. And so I leave you. Vale.
 
@@ -2804,9 +2814,9 @@ George Ball.
 
 * * *
 
-### Letter 88: John Saris → Edmond Camden
+### Letter 89: John Saris → Edmond Camden
 
-### **100** Captain Saris to Edmond Camden. 19th of January 1612.
+#### **100**<br />Captain Saris to Edmond Camden.<br />19th of January 1612.
 
 MR. CAMDEN, I am now ready to set sail from hence towards Japan, having taken in our water and made provision of such matters as Jackatra would afford us. I understand the Flemings did offer but hard measure to Captain Sharpeigh and those with him, and as it should seem the King of Jackatra took it in ill part and promiseth it shall be so no more, but make no speech hereof. Pray remember to end all matters in good sort with the King ; and if you have received the 12 sacks of pepper for the ship's company, then let it go upon account as the rest ; if not then keep the account apart until I return, and for the custom of the 30 sacks pepper the master had, keep it apart likewise. For all other matters mentioned in my remembrance, I know you will be mindful thereof. And the sooner you be in the new house the better it will be for you. Remember you take all the money you can for victuals of Sir Henry Middleton, and refuse not ready money in reasonable sort for any commodities you have. I hope the Hector and Thomas be gone towards England before the date hereof, and forget not to keep a cable of 14 inches for us against we return, and let it be laid in some corner of a lodge in the old English house where it may be fire-free and take heed it come not near the ground ; and clear your warehouse room as fast as you can that the Company live not at charge. I say take all money of Sir Henry he will give in part of payment, but abate not anything in the prices, but [refer ?] it to the Company at home. If my kinsman Hugh Yerdley come unto you for any provision for the value of 5 or 6 rials of 8, let him have it and put it to my account. Here inclosed I send you a copy of the victuals delivered to Sir Henry, lest the former should miscarry, and if the Hector and Thomas be not gone before this come to your hands, then furnish them forthwith with what they want and send them away.
 
@@ -2821,11 +2831,11 @@ About the business in my remembrance [          ] or 190 you know my meaning. I 
 
 [*two lines illegible*]
 
-### Letter 89: John Saris → Edmond Camden
+### Letter 90: John Saris → Edmond Camden
 
-### 101
+#### 101
 
-### Captain Saris to Edmond Camden.
+#### Captain Saris to Edmond Camden.
 
 20th January 1612.
 
@@ -2839,11 +2849,11 @@ J. Saris.
 
 * * *
 
-### Letter 90: Thomas Aldworth / William Biddulph / Nicholas Withington → East India Company
+### Letter 91: Thomas Aldworth / William Biddulph / Nicholas Withington → East India Company
 
-### **102**
+#### **102**
 
-### Tho. Aldworth, Wm. Biddulph & Nich. Withington to [the East India Company].
+#### Tho. Aldworth, Wm. Biddulph & Nich. Withington to [the East<br />India Company].
 
 Suratt, the 25th of January 1612.
 
@@ -2904,7 +2914,7 @@ Their weights are a maund and a seer, their maund is 40 seer and of English weig
 
 ### 103
 
-### Journal [by Capt. Nich. Downton] of the voyage of the Peppercorn homeward from Bantam to Waterford.[^fn-p0287-1]
+### Journal [by Capt. Nich. Downton] of the voyage of the<br />Peppercorn homeward from Bantam to Waterford.[^fn-p0287-1]
 
 AFTER divers conferences, and good considerations moving thereto, Sir H. Middleton purposing to leave further proceeding in the Peppercorn this present journey, and for that the Increase is doubtful without sheathing and searching her to the keel, to proceed with her loading home (which will ask long time to effect) therefore hastened the despatch of the Peppercorn for England. We took in the first of her lading the 19th of January, and the last of her loading, the last of the same, and then about embarking our cask and provisions, and in careful providing the best we can for safety of our bread and corn by a tight room to contain it, in regard of the innumerable sort of Cacara, a most devouring worm with which this ship doth abound to our great disturbance, we spent four days. Febry. the 3rd near night, we haled out of the pill or lake wherein the ship was sheathed, and anchored without in 5 fathoms, applying our endeavours the next forenoon to weigh one of the Trade's anchors which they let slip when they came in. The 4th day, near night, with a faint gale at N.E. we set sail from Polo Penjan towards the place towards the N.N.W. part of Java, where I was to hasten in wood and water : but the wind dying and tide adverse, we anchored. The 5th day at five in the morning we set sail having at N.E. some wind and much rain, and about that forenoon we anchored against the water place in 6 fathoms, we spent the day in fetching water and wood. The 6th day, Saturday, we likewise wholly employed in working to gain water and wood, filling all the casks, being 26 tons decayed and weak, rotten and leaky one with another, and the cooper we had to mend them 3 parts dead already and the 4th part he soon finished.
 
@@ -3002,11 +3012,11 @@ The 10th more clear weather, we see many weeds in the sea. Mr. Lawes takes extre
 
 * * *
 
-### Letter 91: Samuel Bradshaw
+### Letter 92: Samuel Bradshaw
 
-### 104
+#### 104
 
-### The copy of a letter written by Samuel Bradshaw in the road of Tecoo upon Sumatra, to the principal resident in Bantam for the English nation.
+#### The copy of a letter written by Samuel Bradshaw in the road of Tecoo upon Sumatra, to the principal resident in Bantam for the English nation.
 
 le 10 February Anno 1612.
 
@@ -3022,11 +3032,11 @@ Iterum vale.
 
 * * *
 
-### Letter 92: Tho. Keridge → East India Company
+### Letter 93: Tho. Keridge → East India Company
 
-### 105
+#### 105
 
-### Thomas Keridge to [the East India Company].
+#### Thomas Keridge to [the East India Company].
 
 Copy of my letter of the 12th of March [1612], written  
 from Suratt by way of the Red Sea.
@@ -3049,11 +3059,11 @@ Tho. Keridge.
 
 * * *
 
-### Letter 93: Nicho. Downton → Sir Thomas Smith / East India Company
+### Letter 94: Nicho. Downton → Sir Thomas Smith / East India Company
 
-### 106
+#### 106
 
-### From Nich. Downton at sea, homeward bound, to [Sir Thomas Smith & the East India Company].
+#### From Nich. Downton at sea, homeward bound,<br />to [Sir Thomas Smith & the East India Company].
 
 June 20th 1613.
 
@@ -3065,11 +3075,11 @@ Nicho. Downton.
 
 * * *
 
-### Letter 94: T. Best / Wm. More / H. Gyttins → Tho. Aldworth
+### Letter 95: T. Best / Wm. More / H. Gyttins → Tho. Aldworth
 
-### 107
+#### 107
 
-### Captain Thos. Best, Wm. More and H. Gyttins, merchants of the Dragon and Osiander, to Tho. Aldworth, at Surat. July 12th, 1613.
+#### Captain Thos. Best, Wm. More and H. Gyttins, merchants of the Dragon and Osiander, to Tho. Aldworth, at Surat. July 12th, 1613.
 
 Laus Deo in Achin the 12th July, 1613.
 
@@ -3117,11 +3127,11 @@ Benja. Farie purser.
 
 * * *
 
-### Letter 95: Barth. Haggatt → Governor and Company of Merchants trading to the East Indies
+### Letter 96: Barth. Haggatt → Governor and Company of Merchants trading to the East Indies
 
-### 109
+#### 109
 
-### Barthol. Haggatt, Consul in Aleppo, to the Right Worshipful the Governor and Company of Merchants trading to the East Indies. 3rd August 1613.
+#### Barthol. Haggatt, Consul in Aleppo, to the Right Worshipful the Governor and Company of Merchants trading to the East Indies. 3rd August 1613.
 
 RIGHT Worshipful, My duty premised. Since my coming into this country there hath occurred some occasion that should have caused me to have written unto you, but because they imported not matter of other weight, than only the conveyance of a letter or two and for that I had at all times some occasions to write unto the worshipful Morris Abbot, my very good friend, and one of your Worships' own corporation, I did pretermit to write any general letter, and recommended the delivery of the said letters unto his care and fidelity, and although I have not, to this day, received any advice of the receipt of them, yet I cannot doubt but Mr. Abbot hath as carefully performed that charge as I and you desire ; and lest it might be doubtful what letters I received and sent, I assure you that I received but 3 in all, namely one from Mr. Finch, your late servant, dated in Babilon, directed unto Sir Wm. Rumney &c. and therewithal one other letter directed to one Mr. Lyons, as I remember, of Twyford, and one other letter from Mr. William Hawkins which I received here in Aleppo, open, at the hands of this bearer Thomas Styles, and was directed to the worshipful Governor and Company &c. all which with the first occasion of conveyance for Marselles I sent away, and I hope are safely come unto your hands. Sithence, it may please you to understand that the said Wm. Finch your late servant, with one Captain Boys, and one Lawrence Piggott, died all at Babilon within a small time of their arrival, the particulars whereof I refer unto this bearer, who with as much and as great difficulty escaped death also and very great danger in coming hither. Wm. Finch brought with him thither from Lahora 11 mules somes (*sic*) of indigo biana the finest, and some other toys of no great value, all which upon his death was taken away by the Basha of Babilon, and so eaten up by the Turks, although the Venice Vice-consul there resident being my familiar friend, and with whom I kept a good correspondency, did solicit and labour and travail to the uttermost of his power to save or recover all or any part thereof, but so fair a morsel falling into the Turks' mouths upon such an advantage where was no English Consul nor Vice-consul to defend them, would by no means nor any threats restore the same, but only his apparel and some odd toys, of which that that was saved the Venice Vice-consul brought hither to Aleppo and gave account of dollars 700 and odd spent in the suit for recovery of the indigo, although he could not prevail, of which charge he first would satisfy himself (as reason was) and the rest he paid over unto Dutchmen, to whom Wm. Finch owed dollars 472, by his bill, and to this young man his servant who pretended and showed good reason for a debt of 280 dollars to be due unto him, but the charges being all first paid, there did not remain (as I do esteem) above 3 or 400 dollars to give the rest satisfaction, and was certain Algerine feathers and certain base civet as he will particularly declare unto you. All the letters and writings that came to my view, I have sealed them, together with a book of accounts, and delivered them to this bearer to be consigned to you. What or how far your Worships are interested in general or in particular in this estate of Wm. Finch that is lost, I know not, but I am very heartily sorry at the loss of so proper and so sufficient a countryman of ours, as by his observations, his writings and his demeanour, by strangers' report, he is manifest unto me, as also that 3 or 4000 dollars worth of estate gained in so great danger, by so great expense of time, and after so long and careful a travail should be eaten up by these currish and tyrannical Turks without any reasonable or sensible pretence alleged. True it is that in case our Lord Ambassador at Constantinople would call Cigalla, the Basha of Babilon, to account for the same, it may well be, some good part may be recovered of him, but there must be some further expense first hazarded in the same. Thomas Styles, once your Worships' servant, but from Lahore servant unto Wm. Finch, after the death of his said master in Babilon, besides that he was extremely sick and weak, was apprehended by the Basha, imprisoned and very vilely entreated, and but for his sickness which they saw upon him, had been cruelly tortured to have forced him to confess what further estate of diamonds, moneys and jewels his master had, which upon my faith and honesty by all that ever I could learn or perceive, I do not know, think or suspect that the said Wm. Finch had aught save what is truly and manifestly known here amongst us all, and as I said before, not enough to satisfy the half of the debts here justly pretended against his estate. The fear of the Basha's tyranny and by the counsel and advice of the Venice Vice-consul, this bearer fled from Babilon and came hither to me in Aleppo and hath stayed here ever since the beginning of October last, to expect his apparel and the issue of such end as the Venice Vice-consul should be able to make, for recovery of some part at least of the deceased his goods, whereby he might be imbursed of his wages and other debts due unto him from the deceased, to carry him home into England, and although the Venice Vice-consul was, at his departure, resolved to come to Aleppo with the first caravan, and at that time the caravan was already begun to be made for Aleppo, yet by reason of divers troubles that succeeded in Babilon, and to the insecurity of the way through Arabia, the caravan was protracted (contrary to all expectations) at least 6 months, and about 2 months past arrived here ; and that hath been the cause of this bearer's long stay here, which hath been about 10 months, all which time he hath demeaned himself very civilly and very honestly, and the like did the Flemings that came out of Persia in his company report of him, how careful, diligent and painful he was in his master's business by all the time of their knowledge, and so doth the Venice Vice-consul, and other Italians report likewise. This small digression I have made on the young man's behalf because his long stay here might become idleness out of a slothful disposition, and for that I know him to be very desirous to serve your Worships again in any other voyage for those parts, and hath, to that end, desired me to write a word or two in his behalf which I do herewith and entreat you to receive him for an honest young man, and to give employment to him rather than to a stranger, and I doubt not but he will so well behave himself in his place, as he will deserve both his pay and your further favours. And if your Worships, for my sake, shall give him any respect the more because I have a good opinion of the man, and hath recommended him unto you, I shall account that as a favour done unto myself, and will be ready at all times to deserve the same when you shall please to command me. Some relation haply he would be able to give you not impertinent to your affairs in the Indies, but I dare not recommend them unto you for that men of better education and better place are before this arrived with you, yet for the course and travel by land from Cambaia and those parts into Persia, Aleppo and so to England, I suppose this man can give you reasonable account of in case there should be any need of any employment this way. Here arrived also, some six months past, one Martin Cheshire, another of your servants of the Ascension, who in very great danger escaped from Ormus to Spahan (Ispahan) in Persia and so to Babilon and to Aleppo, whom likewise I did receive into my house for your Worships' sake, until he found convenient passage on a Flemish ship to England: him I found likewise to be a man of fair condition and honest, by whom also may be gathered some very good notes of the ports, places and manner of trade of the Portingals in those parts, for that he hath served them in land and sea service about 22 months, and though he be a very plain man yet he hath well observed. I am sorry that there hath not been presented some better occasion wherein I might show some effect of the service I wish and desire to do you, being myself a freeman of your charter, though no adventurer in the voyages. And so desiring the Almighty to bless and prosper all your affairs to your own particular good, and the general good of our country I humbly take my leave.
 
@@ -3134,11 +3144,11 @@ the 3rd of August 1613.
 
 * * *
 
-### Letter 96: Tho. Keridge → Thos. Aldworth / Council at Surat
+### Letter 97: Tho. Keridge → Thos. Aldworth / Council at Surat
 
-### **IIO**
+#### **IIO**
 
-### Thomas Keridge at Agra to Thos. Aldworth and Council at Surat. September 7th 1613.
+#### Thomas Keridge at Agra to Thos. Aldworth and Council at Surat.<br />September 7th 1613.
 
 Copy of my letter sent per Chaunda, peon of Surat the 7th of  
 September 1613, now the 16th ditto.
@@ -3153,11 +3163,11 @@ Tho. Keridge.
 
 * * *
 
-### Letter 97: Raphe Willsonn → East India Company
+### Letter 98: Raphe Willsonn → East India Company
 
-### III
+#### III
 
-### Ralph Willsonn to the East India Company.
+#### Ralph Willsonn to the East India Company.
 
 The 11th of September 1613 aboard the Solomon.
 
@@ -3171,11 +3181,11 @@ Raphe Willsonn.
 
 * * *
 
-### Letter 98: Nicho: Downton → Indian Company
+### Letter 99: Nicho: Downton → Indian Company
 
-### 112
+#### 112
 
-### Captain Nicholas Downton aboard the Peppercorn, to the Right Worshipful the Indian Company in Philpot Lane. September 15th 1613.
+#### Captain Nicholas Downton aboard the Peppercorn, to the Right Worshipful the Indian Company in Philpot Lane. September 15th 1613.
 
 RIGHT Worshipful, If the Indian Company at present had view of my decrepit and wretched person I could expect no better censure from the generality for the use of my hands, legs and feet than at first I found of the graver sort, by the seeming defect of my tongue which then was no other than the lame instrument of a passionate mind, which remediless infirmity, hath often of wise and worthy men been favourably forborne. It may please you at present to pardon my brief lines and to make better construction of my willing mind than time or ability permits me to perform. The small ability remaining in me to act, is too little to employ for safeguard of what I have in charge, therefore choose rather to endure blame for neglect of fawning compliments, which the wiser sort embrace, than omit the least duty belonging to an honest man. The 8th February, upon the coast of Java, I parted from Sir Henry Middleton whom, for want of experienced factors, I left weakly supported. The Hector, Thomas and Solomon some few days before departed. By the Solomon the General sent all advice, by journal, invoice and letters, that then he might, which by haste for want of writers he could not again perform by me. What I have I dare not depart from without better assurance of more certain conveyance. The haste I made on my way was with most industry; the misfortunes by leaks bred me much disquietness, the sickness and death of my men was to me most grievous, and the long foul weather and adverse winds, before I came to the Cape Bona Speranza, was to me (in regard of the imminent peril and want of ropes and sails) most tedious. The 10th of May I arrived at Saldania, where to my good content I found the Hector and Thomas, with Captain Newport in the Expedition, but to some grief I understood nothing of the Solomon, whose weak sails, in regard of my own wants, made me much to doubt. To Captain Towerson for supply of divers wants I was much beholden. The care I had for security and strength in regard of pirates I understood of to be abroad made me strive beyond my strength, without refreshing of my poor weak people, to come in company with them. The 15th of May we all set sail, meeting with most adverse winds and boisterous sea, to the tiring of my people and destruction of our sails, by which the 16th day at night, to my further disturbance, I was separated from them. I hastened towards St. Helina in hope there some way to refresh my people and to meet with my said friends. Where the 5th June I came, and luffing up about the point to anchor I found two carracks whose neighbourhood I durst in no wise trust. Wherefore in weak estate, reposing all confidence in the mercies of God, I directed my course for England, finding a prosperous passage till I came to the Line, but ever since, for the most part, adverse or scant. The 13th day of August we passed between the Islands of Tercera and St. George, and the 26th day being some 80 leagues west south west from Silly I met with the wind opposite to my course, which hath ever since continued, to the consummation both of our means to live, and health of our bodies, in which miserable distressed estate we have long striven to recover some place for the safety of our ship and goods, so long that I have scarce one left able to help another. The 11th day I aspired the getting Millforde, in hope in few days there to receive comfort by the presence of some of the Committees, but by winds therein I was also contradicted and left in miserable estate to seek harbour (while any were able to stir) upon the coast of Ireland. To repeat our weakness is vain since hardly to be believed, therefore with weak striving, the 13th of September I recovered the river of Waterford, wherein at the Passage, at eleven of the clock, by the mercies of God we anchored, when immediately came up a storm of contrary winds which abroad we could nowise have contended withal. Here I found an honest, comfortable and diligent man and lover of the Indian Company by name Stephen Bonner of Lime, who neglecting his own business, at present supplied with good help of men to take in our sails and bring the ship to an anchor; supplying me with relief for me and my Company, where within 24 hours after, I buried four of my men, and God Almighty knows how many of us shall soon after follow. As I am weak so by my own people I am weakly supported. Mr. Mollineux, though weak, is my diligent helper, Samuel Squire and my son, by weakness, can little stead me; master, purser and other to trust to I am destitute of, therefore by necessity for present uses, I am enforced to entertain whom I can get to serve my turn. Weak though I am, necessity enforceth me (for safeguard both of my credit and what I have in charge) to strive beyond my ability, therefore excuse my disjoined and brief lines. Except it please God I be buried out of the ship, I mean not to set foot on land till I deliver her up to some of you. If God dispose otherwise of me, I will take the best course I can for securing of her. My care at present is to get credit for money to supply my necessities. I mean to omit no means for recovering health to my weak sick men. What supply of men to get for my return I am yet uncertain; if God lend me ability I desire the least detraction of time, yet remembering with what exceeding care and pains the things I have underfoot were obtained, and in regard of outlaws abroad and the worth of this ship's lading which now I hope to be in safety, without your further allowance I shall be very timorous and doubtful to remove. If you send by the way of Bristol I wish you to supply me with two or three serviceable honest gunners and five barrels of powder, twelve musket bandoleers, match 6 lb., sail canvas 12 bolts, twine 6 lb., sail needles 24, four strand hawser of six inches and a half for top ropes and ties, a hawser of 6 inches for buoy ropes, two coils of 3 inch rope, two coils of 2½ inch rope and a dozen of Hamburrough (Hamburg) lines. If you think good to send ten honest sailors it may be I shall need them besides what I may get here. The time considered, I had rather abound than want; my people yet living are some 26 (I brought forth 46) though they all get health, some I dare not trust in case of pirates' attempt. In doubt of your prejudice by ensuring, as also the uncertainty of passage makes me extreme careful not to omit any means I may, to give you knowledge of my safe being.
 
@@ -3192,35 +3202,38 @@ I had fitted this letter to send away by the way of Dubling by a doubtful messen
 
 September the 17th 1613.
 
-The names of the men deceased since my coming from Bantam.
-
-***Anno* 1612.**
-
-| February | 13. | Alexander Wicksted minister |
-| --- | --- | --- |
-| " | 21. | Edward Pope quartermaster |
-| March | 4. | Abraham Bownes, cooper, Robert Blunt, gunner |
-| " | 9. | John Weight, carpenter's boy |
-| May | 1. | Richard Hancock, cook |
-| July | 5. | Thomas Browning |
-| " | 27. | Abraham Lawes, master |
-| August | 25. | Edward Watts, carpenter's mate |
-| " | 29. | Thomas Dockery |
-| " | 31. | John Ashbie, boatswain's mate |
-| September | 1. | Edward Spring |
-| " | 2. | Will. Goter, John Wilkinson |
-| " | 4. | Henry Stapp |
-| " | 6. | Mark Laus |
-| " | 13. | Edward Blake, Robert Myco, purser, Edward Leake, carpenter |
-| " | 14. | Thomas Crosse |
+> **[enclosure: The names of the men deceased since my coming from Bantam]**
+>
+> The names of the men deceased since my coming from Bantam.
+>
+> ***Anno* 1612.**
+>
+> |  |  |  |
+> | --- | --- | --- |
+> | February | 13. | Alexander Wicksted minister |
+> | " | 21. | Edward Pope quartermaster |
+> | March | 4. | Abraham Bownes, cooper, Robert Blunt, gunner |
+> | " | 9. | John Weight, carpenter's boy |
+> | May | 1. | Richard Hancock, cook |
+> | July | 5. | Thomas Browning |
+> | " | 27. | Abraham Lawes, master |
+> | August | 25. | Edward Watts, carpenter's mate |
+> | " | 29. | Thomas Dockery |
+> | " | 31. | John Ashbie, boatswain's mate |
+> | September | 1. | Edward Spring |
+> | " | 2. | Will. Goter, John Wilkinson |
+> | " | 4. | Henry Stapp |
+> | " | 6. | Mark Laus |
+> | " | 13. | Edward Blake, Robert Myco, purser, Edward Leake, carpenter |
+> | " | 14. | Thomas Crosse |
 
 * * *
 
-### Letter 99: Ric. Cocks → Richard Wickham
+### Letter 100: Ric. Cocks → Richard Wickham
 
-### 113
+#### 113
 
-### Richard Cocks to his loving friend Mr. Richard Wickham, merchant in Edow (Yedo) or elsewhere, per Sr. George the Portingal. 18th September 1613.
+#### Richard Cocks to his loving friend Mr. Richard Wickham, merchant in Edow (Yedo) or elsewhere, per Sr. George the Portingal. 18th September 1613.
 
 MR. WICKHAM, Your letter dated in Ximonaxeque the 19th of August came to my hands the 28th ditto. And as touching your case of bottles and cross-staff, they were put into the house with the other things before received, the same day you departed from hence, and you need not fear rummaging, for no man hath entered into the house since that time.
 
@@ -3278,11 +3291,11 @@ Yei. Ye. Yeas.
 
 * * *
 
-### Letter 100: Wm. Biddulph → Thomas Smith / merchants trading to the East Indies
+### Letter 101: Wm. Biddulph → Thomas Smith / merchants trading to the East Indies
 
-### 116
+#### 116
 
-### William Biddulph to the Right Worshipful Sir Thomas Smith, Knight, Governor, the Deputy and rest of the merchants trading to the East Indies. Received per Mr. Floris, September 1615.
+#### William Biddulph to the Right Worshipful Sir Thomas Smith, Knight, Governor, the Deputy and rest of the merchants trading to the East Indies. Received per Mr. Floris, September 1615.
 
 Laus Deo in Surat the 28th October 1613.
 
@@ -3296,11 +3309,11 @@ Wm. Biddulph.
 
 * * *
 
-### Letter 101: Tho. Aldworthe → East India Company
+### Letter 102: Tho. Aldworthe → East India Company
 
-### 117
+#### 117
 
-### Thomas Aldworth to the East India Company per the James. In Amadavas this 9th of November 1613.
+#### Thomas Aldworth to the East India Company per the James.<br />In Amadavas this 9th of November 1613.
 
 RIGHT Worshipful, My duty remembered &c. Having formerly written you per Anthony Starkey, steward of the Dragon, who departed from Surat the 28th of January last and so per the way of Persia for Aleppo, since which time we wrote again per the way of the Red Sea and there hence to be conveyed to Aleppo, the copies of both which I now send herewith. Your Worships shall now perceive that our latter conveyance being of the 12th March per a ship of Suratt that went for Mocha and returned back again the 13th of September bringing our letters with them by reason that our foot post hearing certain news at Mocha and at Mecha that all our English were imprisoned and their goods confiscated through all Turkey, for the late fact of Sir Henry Middleton, he therefore durst not proceed farther but returned with them again, and having formerly received a letter from Anthony Starkey in March, written in Juta Negertutt (Tatta) a city of Sinda in his way homewards wherein he certified us of his being there very sick and also his servant, I therefore stand in doubt whether you have yet received any notice of our being here, for which cause, and for the more assurance thereof, I have thought fit to write you again by the James, which is now at Mesolapotan. In our former letters the copies whereof I herewith send inclosed, we have certified you of all things passed here with us until the 12th of March last, since which time for matter of sales of our commodities here hath been little or nothing done, their times of the year not serving for it. For whereas at home with us we divide our year into four parts, they here divide it but into three parts, as namely, February, March, April and May they count their hot months, in which time the heat is so great that little travelling or dealing is used. After this comes June, July, August and September which they count their wet months, in this time there falls such abundance of rain with store of thunder and lightning that few or none dare travel, and therefore unfit for dealing : lastly there followeth October, November, December and January which they call their temperate weather in which time is great intercourse from place to place and so their chief dealing is in these latter months. Wherefore your Worships shall now understand that having dispeeded Mr. Paul Canning for Agra, as formerly we have written, he, after a long and tedious journey, arrived there and delivered our king's letter with the present, being not much esteemed, as himself wrote, and afterwards fell sick of a burning fever whereof he died, and so about the fine of June last we received letters from Agra of his death being the 12th of May ; a former letter he had written unto Sir Thomas Smith and Company to be conveyed home per the first which I send herewith, also he wrote a few lines the very day of his death, the copies whereof I likewise send. Upon this ill news aforesaid we were forced presently to send up Thomas Keridge as well to receive into his hands those things left by Mr. Canning, as also to be there resident for continuance of our suit at Court as namely for a letter from the king of Agra in answer of our king's letter, and likewise to procure the king's firman for a sufficient place for our ships to anchor from danger of the Portingals, with some other needful things which the king himself promised should be effected, but yet nothing done therein, notwithstanding Thomas Keridge being there and continuing his daily suit who hath lately written us a large letter how all things pass there above, which letter I also send herewith having received another of the same tenor some few days before. Mr. Canning wrote us a very large letter from Agra before his death, consisting altogether of discontent between him and his interpreter Jadow, and also of his peons who were his footmen to attend him, but chiefly concerning two of the General's men that were sent with him, the one for to assist him, named Richard Temple, who had the Spanish tongue, the other to attend him named Edward Hunt, both which left him in his midway to Agra; all which discontent aforesaid might be cause of his sickness and so consequently of his death. As for Richard Temple, after his coming from him, he died at Suratt the 27th of June last; also Lancelot Canning, one of the musicians, died in Agra some few days before Mr. Canning, so that there remained only in Agra with Thomas Keridge one Robert Trully a musician, and the aforesaid Edward Hunt whom we sent up also to attend him. Insomuch that my company at Suratt grew short, having no more but Wm. Biddulph, Nicholas Withington and my servant with me, but that I got from Chawle (Chaul) one of the Dragon's company (which fled from the General for fear of punishment) named Robert Clarkson whom I hear to have good skill in making up of tobacco, and for that here is great store and cheap, I thought fit to put it in practice, which I think will turn to the great benefit of the Worshipful Company; I have agreed with him for 15*l.* per ann: whereof 5 to be paid him here for his apparel, the other 10*l.* to be paid there at home to his friends ; also there came with him an Almain who long since was taken by the Turks in Hungary and so bought and sold till he came hither, which Almain, in regard I find him both honest and serviceable I have also entertained him at 15 per month for all but needful here. As for our country commodities I find them all passable here save only our cloth of unfit colours, as namely, blues, seagreens and such like whereof I pray let there be no more sent, but of such colours that we have formerly written for. Here remains of them some 25 pieces which I think will hardly vent any way, having sent up the musters thereof unto Agra for trial of sale but nothing will do. At beginning of last month we made sale of all our elephant's teeth, the one half thereof sold for 62½ per maund, the other half at 64 ma: per maund so there remaineth nothing else unsold but the half part of lead, which will yield every day 8 ma: per maund, and our quicksilver and vermilion, being now the chief time for sale of all things. The 13th of September last there arrived a ship of Suratt from Mocha out of the Red Sea, being very rich and having abundance of coral, silver, gold and other things amounting well near to the sum of one hundred thousand pounds sterling and notwithstanding she had a let-pass from the Portingals, yet they being there with their frigates and hearing she was so rich laden were loth to let go so good a prey out of their teeth ; whereupon they resolved to carry her away and so they did, and not content with that alone but conveyed also 700 persons of the sorts which they had aboard them ; this fact of theirs is now grown so odious that it is like to disturb the estate of all the Portingals in the Indias, the king taking it so indignantly that it should be done contrary to their let-pass, and within his own river as it was. What will become of this business, I yet know not, but no Portingal passeth this country save under sureties. This business aforesaid hath much impoverished the state of Suratt, insomuch that I was forced to bring with me all the quicksilver and vermilion to Amadavas, except a little which was sold at Suratt for 400 ma: per maund, but now no money there to be had. The 12th of October last I began my journey towards this place of Amadavas from Suratt, this being the only chief city of the Guzerats and is well near as big as the city of London ; where all the Portingals buy their commodities and transport them herehence to Cambaya, a far lesser city, by cart, and so lade them aboard their frigates for Goa and other parts, the city of Cambaya not serving for much commodities save only for the conveyance of their river. In our way between this and Suratt we passed through two cities, the one called Boraatch (Broach), two days journey from Suratt, the other Brothra (Baroda), some five days journey ; in both which we find much commodities fitting our country at very reasonable rates as namely cotton yarn, white baftas and coloured baftas with many other things fitted for the southwards and much better cheap than at Suratt. And likewise here in Amadavas we find indigo, white powder sugars and divers other stuffs fit for our country, a few whereof we mean to send home for trial ; and also many things fit for the southwards. As for indigo, it is now much fallen of the price it was wont to be sold for in regard here came no ships from Portugal this year, insomuch that their best flat indigo that was wont to be sold for 18 rupees, is now offered for 14 rupees and like to fall every day. I mean 14 rupees per maund, every rupee is 2½ ma : which will be about 14 pence the English pound. Also powder sugar is here to be had in good quantity answerable to that of 5*l.* per cwt. in England for 2 rupees per maund so that I think verily that most of the things we shall buy in these parts will yield 3 or 4 for one at home at least in our country. Coloured calicoes and gumlac are not ready at all times here to be had but must have time for the making. They themselves confess that their colours are nought and will not continue. At my coming from Suratt, I brought with me Nicholas Withington who was one of the General's men, and taken in by consent of a council who, in regard of his language, I find to be serviceable and trusty ; likewise my servant and the Almain before mentioned. I left the charge of our house in Suratt with William Biddulph who keeps our books of accounts and is to pay such bills as I shall pass on him herehence, for my coming up hither was to employ our stock in commodities fit for our country against the coming of our General who promised to be here by the fine of October last, but as yet no news of him, neither do I think he will come accordingly for that Mr. Gurney wrote us from Mesolapatain he had taken a Portingal ship of Ormus, wherein he had great store of pearls, larins and other good things, which he might lawfully do, in regard the Portingals came first against him here in hostile manner, as they did. Howsoever if he come not, I mean to bestow one-third part of our stock at least in the best flat indigo, being it is now to be had at so low a rate, and also for cotton yarn will go gathering of it as I may now at best rates against the coming of any of our ships which I hope will be by the fine of September at farthest. Now for the state of this country and affection of these people towards us we find it as well now as at first, insomuch you shall not need to fear the sending of those ships and goods we formerly wrote for, only one thing will be requisite that we may always have here a stock of 12 or 15,000 pounds sterling beforehand, to make provision against the ships do come, for so shall we be able to despatch 5 or 6 ships herehence in 3 or 4 months some for England and some for the southwards, and so we wish every ship to bring some monies with them according to our computation in our letter of the 12th of March; and in so doing I think the whole East Indias cannot yield a better place for our country trade than this. And although Thomas Keridge, as it seems by his letter, stands in some fear having had conference with Mocrob Chan, who is a great man with the King and a politic, about restitution for Sir Henry Middleton's fact, yet I will assure your Worships there is no cause of such fear, for that generally they stand in more fear of us than of the Portingals ; and this Mocrob Chan hath more adventures at sea than any of this country ; and so I have written unto Tho. Keridge for to signify unto him that if we should in our persons or goods suffer any detriment in these parts, that thereupon here would come enough of our ships to cover their seas insomuch that neither Moor nor Portingal should stir out of doors and then should he see whether our King and country were so mean as those lying Jesuits have told him ; and that our abode here is a sufficient means to assure their ships from being taken by the English, for no ship dares go out the river of Surat without our pass. Howsoever I would wish there might a sufficient man be sent in your first ships that may be resident in Agra with the King, and such a one whose person may breed regard, for they here look much after great men ; and so much for this country. Your Worshipfuls shall now perceive I have made diligent enquiry concerning the state of Persia and with conference of many that come thence, I find there is a seaport town called Bareyn (Bahrein), whereunto a ship of 2 or 3 hundred tons may come, and I understand this country spends much cloth, for the Venetians bring it overland and so carry with them again all sorts of Persian silks, which trade is, as it were, offered us, and surely I think in short time will be able to vent as much cloth as Suratt. Likewise I have made enquiry here about red coral, a thing much worn by the Decaneas a people that when they die they bury all their coral with them so that this trade will never decay. They spend much of it here, and it is sold very dear, for the meanest sort is sold for 20 and 30 shillings the seer which is but 12 ou ( ? oz), the better sort for 40 and 50 shillings and upwards, it is usually brought out of the Red Sea by 300 chests at a time yet never glutted. I wish there might some be sent. Thus fearing lest I have been somewhat over tedious in the premises, I cease, commending your Worships with all the rest of that worthy Company to God's most merciful and heavenly protection,
 
@@ -3310,11 +3323,11 @@ Tho. Aldworthe.
 
 * * *
 
-### Letter 102: [unsigned.] → Marlowe
+### Letter 103: [Thomas Aldworth] → Marlowe
 
-### 118
+#### 118
 
-### [Thomas Aldworth] to Captain Marlowe.
+#### [Thomas Aldworth] to Captain Marlowe.
 
 Amadavas this 9th of November 1613. Stilo Ang:
 
@@ -3326,12 +3339,13 @@ GOOD Captain Marlow and my kind countrymen, I cannot but heartily salute you &c.
 
 ### 119
 
-### The names of all the Factories and Castles which the Hollanders have in India at this present.
+### The names of all the Factories and Castles which the Hollanders<br />have in India at this present.
 
 November 12, 1613.
 
-| In Bantam . | 1 Factory | upon the Isle of Java major. |
+|  |  |  |
 | --- | --- | --- |
+| In Bantam . | 1 Factory | upon the Isle of Java major. |
 | Jaquatra . | 1 Factory |  |
 | Grassee . | 1 Factory |  |
 | Sucquadana | 1 Factory. |  |
@@ -3354,7 +3368,7 @@ November 12, 1613.
 
 ### 120
 
-### Contract made with Captain Wm. Adams at Firando in Japan, the 24th of November, 1613.
+### Contract made with Captain Wm. Adams at Firando in Japan,<br />the 24th of November, 1613.
 
 WHEREAS the Right Honourable Company the Merchants of London Trading to the East Indies, of their great loves and affections to you Capt. Addams, have appointed and set out this ship called the Clove pro Japan, building their hopes upon the foundation of your long experience in these parts, for the settling of a beneficial factory. And having since my arrival not only obtained the Emperor's grant with large privileges for the same, but also procured your freedom, which till this present could not be obtained. It now resteth what course you will take ; whether to return for your country, or remain here the Company's servant, in what manner you hold yourself best able to do them service : what salary you will have ; and in what manner to be paid, viz. to have the *20l.* per exchange imprested unto you, and to stand to the courtesy of the Company for further guerdon, or to come to a certain agreement pro such a sum as myself and the factors appointed to stay here shall think fitting, till advice out of England. And herein I entreat you cheerfully to deliver your resolution to each point, for that the time of year enforceth my departure ; and I should be heartily sorry if in what I may give you content there should happen the least defect.
 
@@ -3372,11 +3386,11 @@ This agreement with Mr. Adams was made with the consents of us Richard Cocks, Te
 
 * * *
 
-### Letter 103: Ric. Cocks → East India Company
+### Letter 104: Ric. Cocks → East India Company
 
-### **I2I**
+#### **I2I**
 
-### Richard Cocks to the Right Worshipful the Governor, Deputy, Committees, and generality of the East India Company of England, in London, per the Clove, whom God preserve. 30th November, 1613.
+#### Richard Cocks to the Right Worshipful the Governor, Deputy, Committees, and generality of the East India Company of England, in London, per the Clove, whom God preserve. 30th November, 1613.
 
 RIGHT Worshipful, my last was of the 12th of January from Bantam, in Java major, where I made relation of our tedious voyage into the Red Sea, with all other occurrences happening until our arrival at Bantam aforesaid ; unto the which I refer me, and sent it per Captain Gabriel Towerson, in the Hector, not doubting of her safe arrival in England long since in company of the Thomas, which God grant &c. The 15th of January we set sail from Bantam to the eastward, and the last ditto we entered the straits of Desalon (Saleijer), where we came to an anchor, it being night. Seeing a small junk before us do the like ; she came from Macassar in the Celebes, and was in company with another junk which we saw in the morning, both being laden with rice and bound for Amboyno as they said. One of them did pilot our ship through the straits, and brought a letter from Mr. John Parsons to deliver unto the first English shipping he met withal ; so it came to the hands of our General, Mr. Parsons advising him of the little good there was to be done at Maccaser, and that therefore he was determined to go for Bantam with the first opportunity offered, and so to leave that place. There was a Fleming in one of these junks, bound for Amboyno, he was master, or pilot, in a small pinnace of some 50 tons, which was cast away on the coast of Borneo, he reporting that this island Borneo, or the shoals to the eastward of it, do reach over almost to the Selebes, quite contrary to the form laid down in our plots, or sea cards, especially over against Maccaser. He maketh it to join almost with the other. He learned this, he said, to his cost, having lost his ship. The first of February we passed the straits of Dessalon, and the morrow after discovered the high land of an island called Cambin (Kambaino), we going to the eastward of it passing per the S. side. The 9th ditto we came as high as the Island Botton (Boeton), passing to the eastward of it, discovering other islands to the eastward of us, namely certain called by the name of Toca-bessy, but by some, Tenga-bessy (Toekang-Besi). We passing betwixt Botton and these islands and by chance met with one Mr. Ric. Weldyn, left in these parts by Captain David Middleton [*two lines illegible*] said he hath done very desperate service and is in great credit with him. Our General was very desirous to have brought him for England, but he altogether unwilling, alleging his poverty at present, but hope of bettering shortly, and so to return for his country. The 13th ditto we came up with the island of Burro (Boeroe), and had much ado to get about to the westward of it, being steep up and down on the S. coast hard to the shore ; no anchorage, but very high land and full of wood. We sounding with our skiff all along, but could find no anchorage. The 17th we had a slent of wind which carried us to the westward of Burro ; so the 18th we came to an island which standeth to the northward of Burro, called Namacabow, but they were fearful to come to speech of us but fled before our pinnace, yet beckoned them to come on shore ; but we fearing treachery would not adventure. We thought to have come to an anchor on the S.W. side of this island but had 50 fathom water within a cable length of the shore so we stood about to the eastward the wind being northerly and saw two or three other islands off those, called all by the name of Sular (Soela), and the people Sulars, which, as it seemed, the Spaniards and Portingals had used to take them and make slaves of them, which made them fearful to come near us. The 24th February we came to an anchor at an island in the Moloocos, called Bachan, where the Flemings have got possession and begun to build a new fortress, but not then half made an end of, it was slenderly manned, and all, or most part, of the soldiers did sue to our General to carry them away, and so would have left the place void ; but our General did refuse them, offering them any other friendship he could ; which was ill requited after, per some of the chiefest of the Flemings : When we came to Macan, another of the islands, unto which place our General was invited by a great man of the country, to have trade with him for cloves and sent a pilot to bring our ship to the road of Tahanna, or Pelebery, where we rode near unto the shore without danger of any fortress, and the country people did begin to trade with us ; but the Flemings coming to knowledge thereof, did peremptorily send our General word he should depart from thence with the ship, for that the land was theirs, and they would not suffer us to trade ; and within a day or two, sent two great ships, men of war, the one called the Red Lion with 28 pieces, and the other the Moon with 32 pieces of ordnance, the one riding at an anchor on the one side of us and the other, on the other, not suffering any of the country people to come aboard of us with fresh victuals, we standing in great need thereof [*torn*] they put a garrison of [*torn*] against our ship. Many unfitting words I did hear pass amongst them against the sacred person of our dread sovereign King James, and the famous deceased Queen Elizabeth went not free. Once they used us much worse than either Turks, Moors or any other heathen hath done since our departure out of England, and threatened us that if we went about to trade with the Spaniards, they would take us and make prize of us. The king's son of this country came aboard our ship and promised us free trade, but proved not so good as his word, for, having got a present, he gave us the slip, having bought a barrel of gunpowder, which after proved the ruin and destruction of him and his followers, for, meeting with the king's son of Tidore at sea, they fought, and by fortune the barrel of powder took fire and spoiled most of them, this prince of Ternate being slain with another of his brothers, and the king of Gilola, with some 25 more of the chief men in those parts, which made the Spaniards and Tidoreans much to rejoice and to shoot off much ordnance. From Tahanna we weighed anchor and departed the 5th of April, and came to an anchor at Tidore the 8th ditto. We had some conference with the Spaniards but rid without danger of their forts ; and finding nothing but words with [     ] and less trusting them than the Dutch (although they used us more kindly than they did) so the 13th of April we weighed anchor and passed to the westward of Tidor, bearing up near to the coast of Ternate and shot off a piece of ordnance according as our General had formerly promised to certain cavaliers who said they would come off in boats and trade with us. They answered us with another piece of ordnance, and sent off a boat with a flag of truce by a poor soldier, using nothing but complimental words. So from thence departed and finding the winds northerly continually; the 22nd we came to an anchor at the northern end of an island called Doy (Pulo Doei), which standeth to the northwards of Gilola, or Battachina, where we had good anchorage, but the island desolate per means of the wars ; yet we found good fresh water, wood, cocoanuts, fish and wildfowl ; and had it not been for the untimely loss of Mr. John Crawley and Robert Lantro (who were drowned) and John Meredith, killed with the fall of a tree, we had been happy in finding that place. For the 11th day of May we set sail from Doy and went N. and betwixt the N. by E. and N. by S. until the 2nd of June, at which time we discovered the islands of Reismagos which stand in the N. latitude of 25 degrees 30 & odd minutes ; we having passed to the eastward of the Phillippinas and never seen any land till this day, and on the morrow afternoon saw other land more easterly, being divers islands [*torn*] full of people and called as [*torn*] see all the coast along yet we durst not come to an anchor it blew so hard. So the 12th of June we came to an anchor in the haven of Firando in Japan, where the king of the place received us very kindly Mr. Adams not being there but had heard of our coming per means of a letter sent from Sir Thomas Smith which caused him to leave order with his host to send a post to him at our coming, which he did, and our General wrote him three several letters, yet he arrived not at Firando till the 29th of July ; and the 7th of August our General departed for the Japan Court, Mr. Adams accompanying him, and it was the 6th November before he did return for Firando, it proving a tedious journey ; yet he obtained all privileges that he did demand, God grant the trade may prove as beneficial as hitherto our succeedings (*sic*) have been successful : the only cross hath been the running away of seven of our mariners in the absence of our General viz. John Bowles, Christopher Evans, John Sars, Clement Lock and John Totty, Englishmen ; and Jasper Malconty and one Jaques, Flemings. But Bowles and Evans were the instigators of the rest ; they stole away the skiff and went for Langasaque and there took sanctuary in the papist churches, and were secretly conveyed away for the Phillipinas per the Jesuits ; but the skiff we recovered again. The Flemings had settled themselves here 3 or 4 years before our arrival, and have built them a house in this place which hath cost them already above 2500*l.* sterling, and do disperse themselves abroad, some one way and some another to look out for trade, as we must do the like, for they are close and will let us understand nothing. They have some small entrance already into Corea per way of an island called Tushma (Tsushima), which standeth within sight of Corea, and is friend to the Emperor of Japan. But the chiefest place which as yet they have found out is from hence to Syam and Pattania, from whence they bring silk, brazil-wood, and deerskins, which is all ready money here. Mr. Adams is now entertained into your Worships' service for a couple of years until news come of the Clove's safe arrival in England, he being now at liberty to come for his country when he will. He would not be entertained under 100*l.* sterling a year. The Flemings did what they could to have gotten him from us, which made him to stand the more on his points : he alleged he was a poor man, and that he had spent 14 years already to no purpose and now would be loth to return for his country a beggar ; giving the Worshipful Company special thanks for his liberty, which he doth acknowledge came chiefly by means of the coming of this ship with His Majesty's letters of England. Mr. Adams is of opinion that if ever the northeast or northwest passages be found out, it must be from these parts, and offereth his best service therein, the Emperor promising his best furtherance with men or letters of recommendation to all princes ; and hath entrance already into an island called Yedzo, which is thought to be rather some part of the continent of Tartaria. Mr. Adams hath drawn out the plot of Japan, with part of that Island and Corea, and other bordering places, and sendeth it to your Worships per this conveyance. It is certain that the Hollanders had taken this discovery in hand before now, but that they have so many irons in the fire already, with their wars in the Moluccas against the Spaniards. I am sorry that I cannot instantly write your Worships of much benefit to be made in these parts, yet I see both the Spaniard, Portingal and Dutch look out very sharply about matters of trade ; and if they do good, I hope, in time, we shall do the like in having care and using diligence, for out of doubt here is great store of silver in these parts, and could we get any great quantity of broadcloth to vent, it would prove a great matter, although at low rates ; but as yet they are so addicted to silks that they do not enter into consideration of the benefit of wearing cloth ; but time may alter their minds, and in the meantime we must seek out other matters beneficial, as I have formerly said other men do, and for my own part, so long as I stay in these parts, or elsewhere, in your Worships' service, I will use my best endeavour. And of one thing I have thought good to advertise your Worships, that at our being in the Red Sea and business passing in such froward sort as it did, and the Thomas [    ] for Priaman, there was an oversight committed per [    ] George Ball who delivered ninety great sows of lead out of the Thomas and put them aboard a Surat Junk called the Remy, without giving notice thereof either to the General or myself ; as Mr. Peacock did of thirty others of same sort he put aboard the said Junk. So by this means they were lost and never brought to account, I thinking they had been aboard the Thomas until our meeting at Bantam they told me to the contrary, and as we found per experience when the rest of the Thomas' goods were unladen. Yet there happened another matter which is a fit occasion to bring matters to rights, and is that out of the said Junk called the Remy were two bales or churls of Lahore indigo put aboard the Hector having certain chuckcros of fine Semian Chowters in them which belonged to a Persian called Hagi Messia Beag, who never spoke of them till the Hector was departed for Priaman, and then brought the matter in question and made much ado about them as our General will inform your Worships more at large, and in the end when he saw he could not have them for that they were carried away in the Hector, he offered to give them me and to have made a formal deed of gift thereof which I made known to our General who persuaded me to the contrary; telling me it would but give distaste to your Worships, and be a greater hindrance than the benefit thereof would have done me good. So I let that occasion slip ; and that it is certain two such bales were put aboard the Hector, Mr. Edward Dodsworth, the purser, showed them unto me in presence of Mr. Edward Camden, and Mr. Dodsworth told our General as much in my hearing ; yet at our arrival together at Bantam both Mr. Camden and Mr. Dodsworth did deny that which they had both formerly seen and said, saying it was a mistaking, and that in our account in the Red Sea, weighing out our indigoes, there were four small bales passed but for two in weight, which is most untrue, for there was no such matter, but every bale weighed by itself, as well the small as the great, and both marked and numbered. Yet Mr. Camden was angry with me because I did but speak of such a matter. So there was no more said of it until being at sea betwixt the Molowcos and Japan, Mr. William Eaton who beforetime was purser's mate in the Hector, but now in the Clove, fell in talk with me about our business in the Red Sea, and amongst other matters I chanced to speak of those two bales of indigo, which he told me was true and that he knew what was become of them, saying that they were shared, or parted at sea, betwixt Captain Gabriel Towerson, Mr. Edmond Camden and Mr. Edward Dodsworth, as well the indigo as [2 *lines illegible*] Junk which carried away the lead and a fit parcel to make very good satisfaction for the loss ; and were it that any other but your Worships should lay claim unto it, I think a deed of gift unto me had been much better than the other course, for what is freer than a gift. I have been something tedious in this discourse because I would have your Worships well to understand the truth which, it may be, came to your knowledge before, for Mr. Eaton saith that divers others in the Hector knew thereof as well as he. And last of all I do recommend myself and my affairs to your Worships' good consideration touching the payment of my yearly stipend or salary, which the commission manifesteth to be paid in England, except some small portion here to find us apparel, and the rial of eight to pass at five shillings in payment; of which matters your Worships nor no man living did ever speak to me, nor I know nothing thereof till I had taken my leave of all my friends and was down at Gravesend, I having disbursed above 100*l.* upon necessaries in fitting me out for the voyage, and hitherto God hath lent me health, the praise be given to Him for it, and both have and will be ready to do your Worships the best service I can, both by sea and land for the time it shall please you to give me entertainment; but now I begin to wax old and two or three years hence when it [          ] I may be ready to return for my country, I would not return empty handed, and yet not meddle in any matters prejudicial to your Worships' affairs, for God sparing me life to return into my country, it will be time for me to take my rest; the which I leave to your Worships' better consideration, knowing that others will be petitioners in like sort, as well as myself. And so I end, beseeching Almighty God to bless your Worships with long life and good health, and prosperous and good success in all your proceedings.
 
@@ -3392,11 +3406,11 @@ Ric. Cocks.
 
 * * *
 
-### Letter 104: William Addames
+### Letter 105: William Addames
 
-### **122**
+#### **122**
 
-### A very large letter written in Japan by Wm. Adams, and sent home in the Clove, 1614, discoursing of his assistance unto the General, and of entertainment into the Company's service.
+#### A very large letter written in Japan by Wm. Adams, and sent home in the Clove, 1614, discoursing of his assistance unto the General, and of entertainment into the Company's service.
 
 The Almighty God, by whom all enterprises and purposes have their full effect, be blessed for ever, amen.
 
@@ -3409,11 +3423,11 @@ William Addames.
 
 * * *
 
-### Letter 105: Wm. Adames
+### Letter 106: Wm. Adames
 
-### 123
+#### 123
 
-### William Adams' letter from Japan, December 1613.
+#### William Adams' letter from Japan, December 1613.
 
 The Creator of heaven and of earth prosper your Worship in all your ways in this life to your great joy, and in the life to come eternal felicity, amen.
 

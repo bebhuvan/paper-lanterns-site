@@ -98,13 +98,62 @@
  {
   "books": [
    {
+    "book_id": "michelangelo-letters-1913",
+    "paths": [
+     "/collections/michelangelo-letters-1913/1",
+     "/collections/michelangelo-letters-1913/2",
+     "/collections/michelangelo-letters-1913/3",
+     "/collections/michelangelo-letters-1913/4"
+    ]
+   }
+  ],
+  "count": 4,
+  "curated": [],
+  "decade": 1490,
+  "slug": "1490s"
+ },
+ {
+  "books": [
+   {
     "book_id": "fifty-famous-letters-1930",
     "paths": [
      "/collections/fifty-famous-letters-1930/19"
     ]
+   },
+   {
+    "book_id": "michelangelo-letters-1913",
+    "paths": [
+     "/collections/michelangelo-letters-1913/5",
+     "/collections/michelangelo-letters-1913/6",
+     "/collections/michelangelo-letters-1913/7",
+     "/collections/michelangelo-letters-1913/8",
+     "/collections/michelangelo-letters-1913/9",
+     "/collections/michelangelo-letters-1913/10",
+     "/collections/michelangelo-letters-1913/11",
+     "/collections/michelangelo-letters-1913/12",
+     "/collections/michelangelo-letters-1913/13",
+     "/collections/michelangelo-letters-1913/14",
+     "/collections/michelangelo-letters-1913/15",
+     "/collections/michelangelo-letters-1913/16",
+     "/collections/michelangelo-letters-1913/17",
+     "/collections/michelangelo-letters-1913/18",
+     "/collections/michelangelo-letters-1913/19",
+     "/collections/michelangelo-letters-1913/20",
+     "/collections/michelangelo-letters-1913/21",
+     "/collections/michelangelo-letters-1913/22",
+     "/collections/michelangelo-letters-1913/23",
+     "/collections/michelangelo-letters-1913/24",
+     "/collections/michelangelo-letters-1913/25",
+     "/collections/michelangelo-letters-1913/26",
+     "/collections/michelangelo-letters-1913/27",
+     "/collections/michelangelo-letters-1913/28",
+     "/collections/michelangelo-letters-1913/29",
+     "/collections/michelangelo-letters-1913/30",
+     "/collections/michelangelo-letters-1913/31"
+    ]
    }
   ],
-  "count": 1,
+  "count": 28,
   "curated": [],
   "decade": 1500,
   "slug": "1500s"
@@ -122,15 +171,82 @@
     "paths": [
      "/collections/fifty-famous-letters-1930/21"
     ]
+   },
+   {
+    "book_id": "michelangelo-letters-1913",
+    "paths": [
+     "/collections/michelangelo-letters-1913/32",
+     "/collections/michelangelo-letters-1913/33",
+     "/collections/michelangelo-letters-1913/34",
+     "/collections/michelangelo-letters-1913/35",
+     "/collections/michelangelo-letters-1913/36",
+     "/collections/michelangelo-letters-1913/37",
+     "/collections/michelangelo-letters-1913/38",
+     "/collections/michelangelo-letters-1913/39",
+     "/collections/michelangelo-letters-1913/40",
+     "/collections/michelangelo-letters-1913/41",
+     "/collections/michelangelo-letters-1913/42",
+     "/collections/michelangelo-letters-1913/43",
+     "/collections/michelangelo-letters-1913/44",
+     "/collections/michelangelo-letters-1913/45",
+     "/collections/michelangelo-letters-1913/46",
+     "/collections/michelangelo-letters-1913/47",
+     "/collections/michelangelo-letters-1913/48",
+     "/collections/michelangelo-letters-1913/49",
+     "/collections/michelangelo-letters-1913/50",
+     "/collections/michelangelo-letters-1913/51",
+     "/collections/michelangelo-letters-1913/52",
+     "/collections/michelangelo-letters-1913/53",
+     "/collections/michelangelo-letters-1913/54",
+     "/collections/michelangelo-letters-1913/55",
+     "/collections/michelangelo-letters-1913/56",
+     "/collections/michelangelo-letters-1913/57",
+     "/collections/michelangelo-letters-1913/58",
+     "/collections/michelangelo-letters-1913/59",
+     "/collections/michelangelo-letters-1913/60",
+     "/collections/michelangelo-letters-1913/61",
+     "/collections/michelangelo-letters-1913/62",
+     "/collections/michelangelo-letters-1913/63",
+     "/collections/michelangelo-letters-1913/64",
+     "/collections/michelangelo-letters-1913/65",
+     "/collections/michelangelo-letters-1913/66",
+     "/collections/michelangelo-letters-1913/67",
+     "/collections/michelangelo-letters-1913/68",
+     "/collections/michelangelo-letters-1913/69",
+     "/collections/michelangelo-letters-1913/70",
+     "/collections/michelangelo-letters-1913/71"
+    ]
    }
   ],
-  "count": 2,
+  "count": 42,
   "curated": [],
   "decade": 1510,
   "slug": "1510s"
  },
  {
   "books": [
+   {
+    "book_id": "michelangelo-letters-1913",
+    "paths": [
+     "/collections/michelangelo-letters-1913/72",
+     "/collections/michelangelo-letters-1913/73",
+     "/collections/michelangelo-letters-1913/74",
+     "/collections/michelangelo-letters-1913/75",
+     "/collections/michelangelo-letters-1913/76",
+     "/collections/michelangelo-letters-1913/77",
+     "/collections/michelangelo-letters-1913/78",
+     "/collections/michelangelo-letters-1913/79",
+     "/collections/michelangelo-letters-1913/80",
+     "/collections/michelangelo-letters-1913/81",
+     "/collections/michelangelo-letters-1913/82",
+     "/collections/michelangelo-letters-1913/83",
+     "/collections/michelangelo-letters-1913/84",
+     "/collections/michelangelo-letters-1913/85",
+     "/collections/michelangelo-letters-1913/86",
+     "/collections/michelangelo-letters-1913/87",
+     "/collections/michelangelo-letters-1913/88"
+    ]
+   },
    {
     "book_id": "old-love-letters-1883",
     "paths": [
@@ -139,13 +255,24 @@
     ]
    }
   ],
-  "count": 2,
+  "count": 19,
   "curated": [],
   "decade": 1520,
   "slug": "1520s"
  },
  {
   "books": [
+   {
+    "book_id": "michelangelo-letters-1913",
+    "paths": [
+     "/collections/michelangelo-letters-1913/89",
+     "/collections/michelangelo-letters-1913/90",
+     "/collections/michelangelo-letters-1913/91",
+     "/collections/michelangelo-letters-1913/92",
+     "/collections/michelangelo-letters-1913/93",
+     "/collections/michelangelo-letters-1913/94"
+    ]
+   },
    {
     "book_id": "old-love-letters-1883",
     "paths": [
@@ -155,7 +282,7 @@
     ]
    }
   ],
-  "count": 3,
+  "count": 9,
   "curated": [],
   "decade": 1530,
   "slug": "1530s"
@@ -169,19 +296,161 @@
     ]
    },
    {
+    "book_id": "michelangelo-letters-1913",
+    "paths": [
+     "/collections/michelangelo-letters-1913/95",
+     "/collections/michelangelo-letters-1913/96",
+     "/collections/michelangelo-letters-1913/97",
+     "/collections/michelangelo-letters-1913/98",
+     "/collections/michelangelo-letters-1913/99",
+     "/collections/michelangelo-letters-1913/100",
+     "/collections/michelangelo-letters-1913/101",
+     "/collections/michelangelo-letters-1913/102",
+     "/collections/michelangelo-letters-1913/104",
+     "/collections/michelangelo-letters-1913/105",
+     "/collections/michelangelo-letters-1913/106",
+     "/collections/michelangelo-letters-1913/107",
+     "/collections/michelangelo-letters-1913/108",
+     "/collections/michelangelo-letters-1913/109",
+     "/collections/michelangelo-letters-1913/110",
+     "/collections/michelangelo-letters-1913/111",
+     "/collections/michelangelo-letters-1913/112",
+     "/collections/michelangelo-letters-1913/113",
+     "/collections/michelangelo-letters-1913/114",
+     "/collections/michelangelo-letters-1913/115",
+     "/collections/michelangelo-letters-1913/116",
+     "/collections/michelangelo-letters-1913/117",
+     "/collections/michelangelo-letters-1913/118",
+     "/collections/michelangelo-letters-1913/119",
+     "/collections/michelangelo-letters-1913/120",
+     "/collections/michelangelo-letters-1913/121",
+     "/collections/michelangelo-letters-1913/122",
+     "/collections/michelangelo-letters-1913/123",
+     "/collections/michelangelo-letters-1913/124",
+     "/collections/michelangelo-letters-1913/125",
+     "/collections/michelangelo-letters-1913/126",
+     "/collections/michelangelo-letters-1913/127",
+     "/collections/michelangelo-letters-1913/128",
+     "/collections/michelangelo-letters-1913/129",
+     "/collections/michelangelo-letters-1913/130",
+     "/collections/michelangelo-letters-1913/131",
+     "/collections/michelangelo-letters-1913/132",
+     "/collections/michelangelo-letters-1913/133",
+     "/collections/michelangelo-letters-1913/134",
+     "/collections/michelangelo-letters-1913/135",
+     "/collections/michelangelo-letters-1913/136",
+     "/collections/michelangelo-letters-1913/137",
+     "/collections/michelangelo-letters-1913/138",
+     "/collections/michelangelo-letters-1913/139",
+     "/collections/michelangelo-letters-1913/140",
+     "/collections/michelangelo-letters-1913/141",
+     "/collections/michelangelo-letters-1913/142",
+     "/collections/michelangelo-letters-1913/143",
+     "/collections/michelangelo-letters-1913/144",
+     "/collections/michelangelo-letters-1913/145",
+     "/collections/michelangelo-letters-1913/146",
+     "/collections/michelangelo-letters-1913/147",
+     "/collections/michelangelo-letters-1913/148",
+     "/collections/michelangelo-letters-1913/149",
+     "/collections/michelangelo-letters-1913/150"
+    ]
+   },
+   {
     "book_id": "old-love-letters-1883",
     "paths": [
      "/collections/old-love-letters-1883/94"
     ]
    }
   ],
-  "count": 2,
+  "count": 57,
   "curated": [],
   "decade": 1540,
   "slug": "1540s"
  },
  {
   "books": [
+   {
+    "book_id": "michelangelo-letters-1913",
+    "paths": [
+     "/collections/michelangelo-letters-1913/151",
+     "/collections/michelangelo-letters-1913/152",
+     "/collections/michelangelo-letters-1913/153",
+     "/collections/michelangelo-letters-1913/154",
+     "/collections/michelangelo-letters-1913/155",
+     "/collections/michelangelo-letters-1913/156",
+     "/collections/michelangelo-letters-1913/157",
+     "/collections/michelangelo-letters-1913/158",
+     "/collections/michelangelo-letters-1913/159",
+     "/collections/michelangelo-letters-1913/160",
+     "/collections/michelangelo-letters-1913/161",
+     "/collections/michelangelo-letters-1913/162",
+     "/collections/michelangelo-letters-1913/163",
+     "/collections/michelangelo-letters-1913/164",
+     "/collections/michelangelo-letters-1913/165",
+     "/collections/michelangelo-letters-1913/166",
+     "/collections/michelangelo-letters-1913/167",
+     "/collections/michelangelo-letters-1913/168",
+     "/collections/michelangelo-letters-1913/169",
+     "/collections/michelangelo-letters-1913/170",
+     "/collections/michelangelo-letters-1913/171",
+     "/collections/michelangelo-letters-1913/172",
+     "/collections/michelangelo-letters-1913/173",
+     "/collections/michelangelo-letters-1913/174",
+     "/collections/michelangelo-letters-1913/175",
+     "/collections/michelangelo-letters-1913/176",
+     "/collections/michelangelo-letters-1913/177",
+     "/collections/michelangelo-letters-1913/178",
+     "/collections/michelangelo-letters-1913/179",
+     "/collections/michelangelo-letters-1913/180",
+     "/collections/michelangelo-letters-1913/181",
+     "/collections/michelangelo-letters-1913/182",
+     "/collections/michelangelo-letters-1913/183",
+     "/collections/michelangelo-letters-1913/184",
+     "/collections/michelangelo-letters-1913/185",
+     "/collections/michelangelo-letters-1913/186",
+     "/collections/michelangelo-letters-1913/187",
+     "/collections/michelangelo-letters-1913/188",
+     "/collections/michelangelo-letters-1913/189",
+     "/collections/michelangelo-letters-1913/190",
+     "/collections/michelangelo-letters-1913/191",
+     "/collections/michelangelo-letters-1913/192",
+     "/collections/michelangelo-letters-1913/193",
+     "/collections/michelangelo-letters-1913/194",
+     "/collections/michelangelo-letters-1913/195",
+     "/collections/michelangelo-letters-1913/197",
+     "/collections/michelangelo-letters-1913/198",
+     "/collections/michelangelo-letters-1913/199",
+     "/collections/michelangelo-letters-1913/200",
+     "/collections/michelangelo-letters-1913/201",
+     "/collections/michelangelo-letters-1913/202",
+     "/collections/michelangelo-letters-1913/203",
+     "/collections/michelangelo-letters-1913/204",
+     "/collections/michelangelo-letters-1913/205"
+    ]
+   }
+  ],
+  "count": 54,
+  "curated": [],
+  "decade": 1550,
+  "slug": "1550s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "michelangelo-letters-1913",
+    "paths": [
+     "/collections/michelangelo-letters-1913/206",
+     "/collections/michelangelo-letters-1913/207",
+     "/collections/michelangelo-letters-1913/208",
+     "/collections/michelangelo-letters-1913/209",
+     "/collections/michelangelo-letters-1913/210",
+     "/collections/michelangelo-letters-1913/211",
+     "/collections/michelangelo-letters-1913/212",
+     "/collections/michelangelo-letters-1913/213",
+     "/collections/michelangelo-letters-1913/214",
+     "/collections/michelangelo-letters-1913/215"
+    ]
+   },
    {
     "book_id": "old-love-letters-1883",
     "paths": [
@@ -197,7 +466,7 @@
     ]
    }
   ],
-  "count": 4,
+  "count": 14,
   "curated": [],
   "decade": 1560,
   "slug": "1560s"
@@ -299,6 +568,7 @@
      "/collections/eic-letters-received-vol-1-1602-1613/33",
      "/collections/eic-letters-received-vol-1-1602-1613/34",
      "/collections/eic-letters-received-vol-1-1602-1613/35",
+     "/collections/eic-letters-received-vol-1-1602-1613/36",
      "/collections/eic-letters-received-vol-1-1602-1613/37",
      "/collections/eic-letters-received-vol-1-1602-1613/38",
      "/collections/eic-letters-received-vol-1-1602-1613/39",
@@ -313,6 +583,7 @@
      "/collections/eic-letters-received-vol-1-1602-1613/48",
      "/collections/eic-letters-received-vol-1-1602-1613/49",
      "/collections/eic-letters-received-vol-1-1602-1613/50",
+     "/collections/eic-letters-received-vol-1-1602-1613/51",
      "/collections/eic-letters-received-vol-1-1602-1613/52",
      "/collections/eic-letters-received-vol-1-1602-1613/53",
      "/collections/eic-letters-received-vol-1-1602-1613/54",
@@ -366,7 +637,8 @@
      "/collections/eic-letters-received-vol-1-1602-1613/102",
      "/collections/eic-letters-received-vol-1-1602-1613/103",
      "/collections/eic-letters-received-vol-1-1602-1613/104",
-     "/collections/eic-letters-received-vol-1-1602-1613/105"
+     "/collections/eic-letters-received-vol-1-1602-1613/105",
+     "/collections/eic-letters-received-vol-1-1602-1613/106"
     ]
    },
    {
@@ -428,20 +700,18 @@
      "/collections/eic-letters-received-vol-2-1613-1615/56",
      "/collections/eic-letters-received-vol-2-1613-1615/57",
      "/collections/eic-letters-received-vol-2-1613-1615/59",
+     "/collections/eic-letters-received-vol-2-1613-1615/62",
+     "/collections/eic-letters-received-vol-2-1613-1615/64",
+     "/collections/eic-letters-received-vol-2-1613-1615/65",
+     "/collections/eic-letters-received-vol-2-1613-1615/67",
      "/collections/eic-letters-received-vol-2-1613-1615/71",
      "/collections/eic-letters-received-vol-2-1613-1615/72",
      "/collections/eic-letters-received-vol-2-1613-1615/73",
      "/collections/eic-letters-received-vol-2-1613-1615/75",
-     "/collections/eic-letters-received-vol-2-1613-1615/76",
-     "/collections/eic-letters-received-vol-2-1613-1615/77",
-     "/collections/eic-letters-received-vol-2-1613-1615/78",
      "/collections/eic-letters-received-vol-2-1613-1615/79",
-     "/collections/eic-letters-received-vol-2-1613-1615/80",
-     "/collections/eic-letters-received-vol-2-1613-1615/81",
      "/collections/eic-letters-received-vol-2-1613-1615/82",
      "/collections/eic-letters-received-vol-2-1613-1615/83",
      "/collections/eic-letters-received-vol-2-1613-1615/84",
-     "/collections/eic-letters-received-vol-2-1613-1615/85",
      "/collections/eic-letters-received-vol-2-1613-1615/86",
      "/collections/eic-letters-received-vol-2-1613-1615/87",
      "/collections/eic-letters-received-vol-2-1613-1615/88",
@@ -482,7 +752,19 @@
      "/collections/eic-letters-received-vol-2-1613-1615/123",
      "/collections/eic-letters-received-vol-2-1613-1615/124",
      "/collections/eic-letters-received-vol-2-1613-1615/125",
-     "/collections/eic-letters-received-vol-2-1613-1615/126"
+     "/collections/eic-letters-received-vol-2-1613-1615/126",
+     "/collections/eic-letters-received-vol-2-1613-1615/127",
+     "/collections/eic-letters-received-vol-2-1613-1615/128",
+     "/collections/eic-letters-received-vol-2-1613-1615/129",
+     "/collections/eic-letters-received-vol-2-1613-1615/130",
+     "/collections/eic-letters-received-vol-2-1613-1615/131",
+     "/collections/eic-letters-received-vol-2-1613-1615/132",
+     "/collections/eic-letters-received-vol-2-1613-1615/133",
+     "/collections/eic-letters-received-vol-2-1613-1615/134",
+     "/collections/eic-letters-received-vol-2-1613-1615/135",
+     "/collections/eic-letters-received-vol-2-1613-1615/136",
+     "/collections/eic-letters-received-vol-2-1613-1615/137",
+     "/collections/eic-letters-received-vol-2-1613-1615/138"
     ]
    },
    {
@@ -537,6 +819,7 @@
      "/collections/eic-letters-received-vol-3-1615/51",
      "/collections/eic-letters-received-vol-3-1615/52",
      "/collections/eic-letters-received-vol-3-1615/53",
+     "/collections/eic-letters-received-vol-3-1615/55",
      "/collections/eic-letters-received-vol-3-1615/56",
      "/collections/eic-letters-received-vol-3-1615/57",
      "/collections/eic-letters-received-vol-3-1615/58",
@@ -584,6 +867,7 @@
      "/collections/eic-letters-received-vol-4-1616/17",
      "/collections/eic-letters-received-vol-4-1616/18",
      "/collections/eic-letters-received-vol-4-1616/19",
+     "/collections/eic-letters-received-vol-4-1616/20",
      "/collections/eic-letters-received-vol-4-1616/22",
      "/collections/eic-letters-received-vol-4-1616/23",
      "/collections/eic-letters-received-vol-4-1616/24",
@@ -691,6 +975,8 @@
      "/collections/eic-letters-received-vol-5-1617a/35",
      "/collections/eic-letters-received-vol-5-1617a/36",
      "/collections/eic-letters-received-vol-5-1617a/37",
+     "/collections/eic-letters-received-vol-5-1617a/38",
+     "/collections/eic-letters-received-vol-5-1617a/39",
      "/collections/eic-letters-received-vol-5-1617a/40",
      "/collections/eic-letters-received-vol-5-1617a/41",
      "/collections/eic-letters-received-vol-5-1617a/42",
@@ -819,7 +1105,7 @@
     ]
    }
   ],
-  "count": 513,
+  "count": 530,
   "curated": [],
   "decade": 1610,
   "slug": "1610s"
@@ -860,6 +1146,12 @@
  {
   "books": [
    {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/176"
+    ]
+   },
+   {
     "book_id": "old-love-letters-1883",
     "paths": [
      "/collections/old-love-letters-1883/100",
@@ -872,11 +1164,11 @@
     "paths": [
      "/collections/pascal-miscellaneous-writings-1849/2",
      "/collections/pascal-miscellaneous-writings-1849/3",
-     "/collections/pascal-miscellaneous-writings-1849/7"
+     "/collections/pascal-miscellaneous-writings-1849/14"
     ]
    }
   ],
-  "count": 6,
+  "count": 7,
   "curated": [],
   "decade": 1640,
   "slug": "1640s"
@@ -891,6 +1183,12 @@
     ]
    },
    {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/121"
+    ]
+   },
+   {
     "book_id": "old-love-letters-1883",
     "paths": [
      "/collections/old-love-letters-1883/102",
@@ -900,8 +1198,9 @@
    {
     "book_id": "pascal-miscellaneous-writings-1849",
     "paths": [
-     "/collections/pascal-miscellaneous-writings-1849/6",
-     "/collections/pascal-miscellaneous-writings-1849/8"
+     "/collections/pascal-miscellaneous-writings-1849/4",
+     "/collections/pascal-miscellaneous-writings-1849/13",
+     "/collections/pascal-miscellaneous-writings-1849/15"
     ]
    },
    {
@@ -933,13 +1232,20 @@
     ]
    }
   ],
-  "count": 24,
+  "count": 26,
   "curated": [],
   "decade": 1650,
   "slug": "1650s"
  },
  {
   "books": [
+   {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/54",
+     "/collections/literature-in-letters-1870/122"
+    ]
+   },
    {
     "book_id": "old-love-letters-1883",
     "paths": [
@@ -949,7 +1255,8 @@
    {
     "book_id": "pascal-miscellaneous-writings-1849",
     "paths": [
-     "/collections/pascal-miscellaneous-writings-1849/5"
+     "/collections/pascal-miscellaneous-writings-1849/11",
+     "/collections/pascal-miscellaneous-writings-1849/12"
     ]
    },
    {
@@ -960,7 +1267,7 @@
     ]
    }
   ],
-  "count": 4,
+  "count": 7,
   "curated": [],
   "decade": 1660,
   "slug": "1660s"
@@ -974,6 +1281,17 @@
     ]
    },
    {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/1",
+     "/collections/literature-in-letters-1870/4",
+     "/collections/literature-in-letters-1870/5",
+     "/collections/literature-in-letters-1870/6",
+     "/collections/literature-in-letters-1870/7",
+     "/collections/literature-in-letters-1870/11"
+    ]
+   },
+   {
     "book_id": "old-love-letters-1883",
     "paths": [
      "/collections/old-love-letters-1883/133",
@@ -981,13 +1299,20 @@
     ]
    }
   ],
-  "count": 3,
+  "count": 9,
   "curated": [],
   "decade": 1670,
   "slug": "1670s"
  },
  {
   "books": [
+   {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/12",
+     "/collections/literature-in-letters-1870/123"
+    ]
+   },
    {
     "book_id": "old-love-letters-1883",
     "paths": [
@@ -1004,13 +1329,21 @@
     ]
    }
   ],
-  "count": 5,
+  "count": 7,
   "curated": [],
   "decade": 1680,
   "slug": "1680s"
  },
  {
   "books": [
+   {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/3",
+     "/collections/literature-in-letters-1870/151",
+     "/collections/literature-in-letters-1870/152"
+    ]
+   },
    {
     "book_id": "newton-bentley-1756",
     "paths": [
@@ -1052,7 +1385,7 @@
     ]
    }
   ],
-  "count": 25,
+  "count": 28,
   "curated": [],
   "decade": 1690,
   "slug": "1690s"
@@ -1120,6 +1453,15 @@
  {
   "books": [
    {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/46",
+     "/collections/literature-in-letters-1870/56",
+     "/collections/literature-in-letters-1870/58",
+     "/collections/literature-in-letters-1870/148"
+    ]
+   },
+   {
     "book_id": "old-love-letters-1883",
     "paths": [
      "/collections/old-love-letters-1883/10",
@@ -1149,13 +1491,24 @@
     ]
    }
   ],
-  "count": 14,
+  "count": 18,
   "curated": [],
   "decade": 1710,
   "slug": "1710s"
  },
  {
   "books": [
+   {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/2",
+     "/collections/literature-in-letters-1870/8",
+     "/collections/literature-in-letters-1870/47",
+     "/collections/literature-in-letters-1870/48",
+     "/collections/literature-in-letters-1870/51",
+     "/collections/literature-in-letters-1870/52"
+    ]
+   },
    {
     "book_id": "old-love-letters-1883",
     "paths": [
@@ -1181,13 +1534,26 @@
     ]
    }
   ],
-  "count": 9,
+  "count": 15,
   "curated": [],
   "decade": 1720,
   "slug": "1720s"
  },
  {
   "books": [
+   {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/9",
+     "/collections/literature-in-letters-1870/10",
+     "/collections/literature-in-letters-1870/49",
+     "/collections/literature-in-letters-1870/53",
+     "/collections/literature-in-letters-1870/104",
+     "/collections/literature-in-letters-1870/106",
+     "/collections/literature-in-letters-1870/146",
+     "/collections/literature-in-letters-1870/147"
+    ]
+   },
    {
     "book_id": "voltaire-in-his-letters-1919",
     "paths": [
@@ -1207,7 +1573,7 @@
     ]
    }
   ],
-  "count": 13,
+  "count": 21,
   "curated": [],
   "decade": 1730,
   "slug": "1730s"
@@ -1218,6 +1584,21 @@
     "book_id": "fifty-famous-letters-1930",
     "paths": [
      "/collections/fifty-famous-letters-1930/34"
+    ]
+   },
+   {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/13",
+     "/collections/literature-in-letters-1870/14",
+     "/collections/literature-in-letters-1870/25",
+     "/collections/literature-in-letters-1870/65",
+     "/collections/literature-in-letters-1870/124",
+     "/collections/literature-in-letters-1870/125",
+     "/collections/literature-in-letters-1870/126",
+     "/collections/literature-in-letters-1870/127",
+     "/collections/literature-in-letters-1870/177",
+     "/collections/literature-in-letters-1870/178"
     ]
    },
    {
@@ -1239,13 +1620,22 @@
     ]
    }
   ],
-  "count": 9,
+  "count": 19,
   "curated": [],
   "decade": 1740,
   "slug": "1740s"
  },
  {
   "books": [
+   {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/15",
+     "/collections/literature-in-letters-1870/16",
+     "/collections/literature-in-letters-1870/155",
+     "/collections/literature-in-letters-1870/156"
+    ]
+   },
    {
     "book_id": "old-love-letters-1883",
     "paths": [
@@ -1293,13 +1683,34 @@
     ]
    }
   ],
-  "count": 31,
+  "count": 35,
   "curated": [],
   "decade": 1750,
   "slug": "1750s"
  },
  {
   "books": [
+   {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/17",
+     "/collections/literature-in-letters-1870/18",
+     "/collections/literature-in-letters-1870/19",
+     "/collections/literature-in-letters-1870/20",
+     "/collections/literature-in-letters-1870/21",
+     "/collections/literature-in-letters-1870/22",
+     "/collections/literature-in-letters-1870/23",
+     "/collections/literature-in-letters-1870/26",
+     "/collections/literature-in-letters-1870/59",
+     "/collections/literature-in-letters-1870/128",
+     "/collections/literature-in-letters-1870/130",
+     "/collections/literature-in-letters-1870/154",
+     "/collections/literature-in-letters-1870/157",
+     "/collections/literature-in-letters-1870/158",
+     "/collections/literature-in-letters-1870/164",
+     "/collections/literature-in-letters-1870/181"
+    ]
+   },
    {
     "book_id": "old-love-letters-1883",
     "paths": [
@@ -1330,7 +1741,7 @@
     ]
    }
   ],
-  "count": 15,
+  "count": 31,
   "curated": [
    "/letters/franklin-washing-air-baths-1768"
   ],
@@ -1345,6 +1756,22 @@
      "/collections/fifty-famous-letters-1930/35",
      "/collections/fifty-famous-letters-1930/36",
      "/collections/fifty-famous-letters-1930/39"
+    ]
+   },
+   {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/24",
+     "/collections/literature-in-letters-1870/27",
+     "/collections/literature-in-letters-1870/29",
+     "/collections/literature-in-letters-1870/67",
+     "/collections/literature-in-letters-1870/68",
+     "/collections/literature-in-letters-1870/83",
+     "/collections/literature-in-letters-1870/129",
+     "/collections/literature-in-letters-1870/131",
+     "/collections/literature-in-letters-1870/132",
+     "/collections/literature-in-letters-1870/160",
+     "/collections/literature-in-letters-1870/166"
     ]
    },
    {
@@ -1384,7 +1811,7 @@
     ]
    }
   ],
-  "count": 25,
+  "count": 36,
   "curated": [
    "/letters/adams-abigail-john-1776"
   ],
@@ -1393,6 +1820,36 @@
  },
  {
   "books": [
+   {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/30",
+     "/collections/literature-in-letters-1870/31",
+     "/collections/literature-in-letters-1870/32",
+     "/collections/literature-in-letters-1870/33",
+     "/collections/literature-in-letters-1870/34",
+     "/collections/literature-in-letters-1870/35",
+     "/collections/literature-in-letters-1870/36",
+     "/collections/literature-in-letters-1870/61",
+     "/collections/literature-in-letters-1870/62",
+     "/collections/literature-in-letters-1870/63",
+     "/collections/literature-in-letters-1870/64",
+     "/collections/literature-in-letters-1870/69",
+     "/collections/literature-in-letters-1870/71",
+     "/collections/literature-in-letters-1870/72",
+     "/collections/literature-in-letters-1870/73",
+     "/collections/literature-in-letters-1870/74",
+     "/collections/literature-in-letters-1870/84",
+     "/collections/literature-in-letters-1870/85",
+     "/collections/literature-in-letters-1870/133",
+     "/collections/literature-in-letters-1870/134",
+     "/collections/literature-in-letters-1870/135",
+     "/collections/literature-in-letters-1870/162",
+     "/collections/literature-in-letters-1870/163",
+     "/collections/literature-in-letters-1870/179",
+     "/collections/literature-in-letters-1870/180"
+    ]
+   },
    {
     "book_id": "old-love-letters-1883",
     "paths": [
@@ -1421,7 +1878,6 @@
     "book_id": "tipu-sultan-select-letters-1811",
     "paths": [
      "/collections/tipu-sultan-select-letters-1811/2",
-     "/collections/tipu-sultan-select-letters-1811/76",
      "/collections/tipu-sultan-select-letters-1811/77",
      "/collections/tipu-sultan-select-letters-1811/78",
      "/collections/tipu-sultan-select-letters-1811/79",
@@ -1447,7 +1903,7 @@
      "/collections/tipu-sultan-select-letters-1811/99",
      "/collections/tipu-sultan-select-letters-1811/100",
      "/collections/tipu-sultan-select-letters-1811/101",
-     "/collections/tipu-sultan-select-letters-1811/103",
+     "/collections/tipu-sultan-select-letters-1811/102",
      "/collections/tipu-sultan-select-letters-1811/104",
      "/collections/tipu-sultan-select-letters-1811/105",
      "/collections/tipu-sultan-select-letters-1811/106",
@@ -1462,16 +1918,17 @@
      "/collections/tipu-sultan-select-letters-1811/115",
      "/collections/tipu-sultan-select-letters-1811/116",
      "/collections/tipu-sultan-select-letters-1811/117",
-     "/collections/tipu-sultan-select-letters-1811/191",
-     "/collections/tipu-sultan-select-letters-1811/318",
-     "/collections/tipu-sultan-select-letters-1811/327",
-     "/collections/tipu-sultan-select-letters-1811/415",
-     "/collections/tipu-sultan-select-letters-1811/417",
-     "/collections/tipu-sultan-select-letters-1811/430"
+     "/collections/tipu-sultan-select-letters-1811/118",
+     "/collections/tipu-sultan-select-letters-1811/192",
+     "/collections/tipu-sultan-select-letters-1811/320",
+     "/collections/tipu-sultan-select-letters-1811/329",
+     "/collections/tipu-sultan-select-letters-1811/420",
+     "/collections/tipu-sultan-select-letters-1811/422",
+     "/collections/tipu-sultan-select-letters-1811/435"
     ]
    }
   ],
-  "count": 65,
+  "count": 90,
   "curated": [
    "/letters/franklin-daughter-1784",
    "/letters/franklin-priestley-1780",
@@ -1490,6 +1947,21 @@
     ]
    },
    {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/28",
+     "/collections/literature-in-letters-1870/66",
+     "/collections/literature-in-letters-1870/70",
+     "/collections/literature-in-letters-1870/86",
+     "/collections/literature-in-letters-1870/100",
+     "/collections/literature-in-letters-1870/136",
+     "/collections/literature-in-letters-1870/137",
+     "/collections/literature-in-letters-1870/138",
+     "/collections/literature-in-letters-1870/165",
+     "/collections/literature-in-letters-1870/167"
+    ]
+   },
+   {
     "book_id": "nineteenth-century-letters-1919",
     "paths": [
      "/collections/nineteenth-century-letters-1919/3",
@@ -1504,6 +1976,7 @@
     "book_id": "old-love-letters-1883",
     "paths": [
      "/collections/old-love-letters-1883/46",
+     "/collections/old-love-letters-1883/48",
      "/collections/old-love-letters-1883/49",
      "/collections/old-love-letters-1883/55",
      "/collections/old-love-letters-1883/56",
@@ -1534,7 +2007,7 @@
     ]
    }
   ],
-  "count": 34,
+  "count": 45,
   "curated": [
    "/letters/austen-cassandra-tom-lefroy-1796",
    "/letters/napoleon-josephine-1796",
@@ -1588,6 +2061,21 @@
     ]
    },
    {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/37",
+     "/collections/literature-in-letters-1870/78",
+     "/collections/literature-in-letters-1870/113",
+     "/collections/literature-in-letters-1870/116",
+     "/collections/literature-in-letters-1870/139",
+     "/collections/literature-in-letters-1870/140",
+     "/collections/literature-in-letters-1870/184",
+     "/collections/literature-in-letters-1870/185",
+     "/collections/literature-in-letters-1870/190",
+     "/collections/literature-in-letters-1870/194"
+    ]
+   },
+   {
     "book_id": "nineteenth-century-letters-1919",
     "paths": [
      "/collections/nineteenth-century-letters-1919/1",
@@ -1625,7 +2113,7 @@
     ]
    }
   ],
-  "count": 58,
+  "count": 68,
   "curated": [
    "/letters/austen-cassandra-ball-description-1800",
    "/letters/austen-cassandra-first-impressions-1801",
@@ -1651,6 +2139,25 @@
      "/collections/hugo-letters-vol1-1896/225",
      "/collections/hugo-letters-vol1-1896/226",
      "/collections/hugo-letters-vol1-1896/237"
+    ]
+   },
+   {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/75",
+     "/collections/literature-in-letters-1870/76",
+     "/collections/literature-in-letters-1870/80",
+     "/collections/literature-in-letters-1870/81",
+     "/collections/literature-in-letters-1870/105",
+     "/collections/literature-in-letters-1870/108",
+     "/collections/literature-in-letters-1870/110",
+     "/collections/literature-in-letters-1870/111",
+     "/collections/literature-in-letters-1870/168",
+     "/collections/literature-in-letters-1870/170",
+     "/collections/literature-in-letters-1870/171",
+     "/collections/literature-in-letters-1870/182",
+     "/collections/literature-in-letters-1870/188",
+     "/collections/literature-in-letters-1870/191"
     ]
    },
    {
@@ -1716,7 +2223,7 @@
     ]
    }
   ],
-  "count": 58,
+  "count": 72,
   "curated": [
    "/letters/adams-jefferson-reconciliation-1812",
    "/letters/austen-cassandra-1813",
@@ -1874,6 +2381,30 @@
     ]
    },
    {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/38",
+     "/collections/literature-in-letters-1870/87",
+     "/collections/literature-in-letters-1870/88",
+     "/collections/literature-in-letters-1870/89",
+     "/collections/literature-in-letters-1870/107",
+     "/collections/literature-in-letters-1870/117",
+     "/collections/literature-in-letters-1870/118",
+     "/collections/literature-in-letters-1870/172",
+     "/collections/literature-in-letters-1870/173",
+     "/collections/literature-in-letters-1870/186",
+     "/collections/literature-in-letters-1870/187",
+     "/collections/literature-in-letters-1870/196",
+     "/collections/literature-in-letters-1870/197"
+    ]
+   },
+   {
+    "book_id": "mill-letters-vol1-1910",
+    "paths": [
+     "/collections/mill-letters-vol1-1910/1"
+    ]
+   },
+   {
     "book_id": "nineteenth-century-letters-1919",
     "paths": [
      "/collections/nineteenth-century-letters-1919/4",
@@ -1948,6 +2479,13 @@
     ]
    },
    {
+    "book_id": "rammohun-roy-life-letters-1914",
+    "paths": [
+     "/collections/rammohun-roy-life-letters-1914/3",
+     "/collections/rammohun-roy-life-letters-1914/4"
+    ]
+   },
+   {
     "book_id": "schumann-letters-1907",
     "paths": [
      "/collections/schumann-letters-1907/1",
@@ -1978,7 +2516,7 @@
     ]
    }
   ],
-  "count": 203,
+  "count": 219,
   "curated": [],
   "decade": 1820,
   "slug": "1820s"
@@ -2190,6 +2728,23 @@
     ]
    },
    {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/39",
+     "/collections/literature-in-letters-1870/40",
+     "/collections/literature-in-letters-1870/41",
+     "/collections/literature-in-letters-1870/42",
+     "/collections/literature-in-letters-1870/43",
+     "/collections/literature-in-letters-1870/90",
+     "/collections/literature-in-letters-1870/91",
+     "/collections/literature-in-letters-1870/92",
+     "/collections/literature-in-letters-1870/97",
+     "/collections/literature-in-letters-1870/98",
+     "/collections/literature-in-letters-1870/189",
+     "/collections/literature-in-letters-1870/193"
+    ]
+   },
+   {
     "book_id": "mill-letters-vol1-1910",
     "paths": [
      "/collections/mill-letters-vol1-1910/2",
@@ -2198,6 +2753,7 @@
      "/collections/mill-letters-vol1-1910/5",
      "/collections/mill-letters-vol1-1910/6",
      "/collections/mill-letters-vol1-1910/7",
+     "/collections/mill-letters-vol1-1910/8",
      "/collections/mill-letters-vol1-1910/10",
      "/collections/mill-letters-vol1-1910/11",
      "/collections/mill-letters-vol1-1910/12",
@@ -2284,6 +2840,17 @@
     ]
    },
    {
+    "book_id": "rammohun-roy-life-letters-1914",
+    "paths": [
+     "/collections/rammohun-roy-life-letters-1914/5",
+     "/collections/rammohun-roy-life-letters-1914/7",
+     "/collections/rammohun-roy-life-letters-1914/8",
+     "/collections/rammohun-roy-life-letters-1914/10",
+     "/collections/rammohun-roy-life-letters-1914/11",
+     "/collections/rammohun-roy-life-letters-1914/12"
+    ]
+   },
+   {
     "book_id": "schumann-letters-1907",
     "paths": [
      "/collections/schumann-letters-1907/14",
@@ -2367,12 +2934,12 @@
     "paths": [
      "/collections/selected-english-letters-1914/22",
      "/collections/selected-english-letters-1914/40",
-     "/collections/selected-english-letters-1914/44",
-     "/collections/selected-english-letters-1914/48"
+     "/collections/selected-english-letters-1914/45",
+     "/collections/selected-english-letters-1914/49"
     ]
    }
   ],
-  "count": 331,
+  "count": 350,
   "curated": [],
   "decade": 1830,
   "slug": "1830s"
@@ -2405,6 +2972,30 @@
     "book_id": "dostoevsky-letters-reminiscences-1923",
     "paths": [
      "/collections/dostoevsky-letters-reminiscences-1923/1"
+    ]
+   },
+   {
+    "book_id": "emily-dickinson-letters-1894",
+    "paths": [
+     "/collections/emily-dickinson-letters-1894/1",
+     "/collections/emily-dickinson-letters-1894/2",
+     "/collections/emily-dickinson-letters-1894/3",
+     "/collections/emily-dickinson-letters-1894/4",
+     "/collections/emily-dickinson-letters-1894/5",
+     "/collections/emily-dickinson-letters-1894/6",
+     "/collections/emily-dickinson-letters-1894/7",
+     "/collections/emily-dickinson-letters-1894/8",
+     "/collections/emily-dickinson-letters-1894/9",
+     "/collections/emily-dickinson-letters-1894/10",
+     "/collections/emily-dickinson-letters-1894/11",
+     "/collections/emily-dickinson-letters-1894/12",
+     "/collections/emily-dickinson-letters-1894/21",
+     "/collections/emily-dickinson-letters-1894/22",
+     "/collections/emily-dickinson-letters-1894/23",
+     "/collections/emily-dickinson-letters-1894/24",
+     "/collections/emily-dickinson-letters-1894/25",
+     "/collections/emily-dickinson-letters-1894/60",
+     "/collections/emily-dickinson-letters-1894/67"
     ]
    },
    {
@@ -2654,6 +3245,21 @@
     ]
    },
    {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/79",
+     "/collections/literature-in-letters-1870/94",
+     "/collections/literature-in-letters-1870/95",
+     "/collections/literature-in-letters-1870/96",
+     "/collections/literature-in-letters-1870/99",
+     "/collections/literature-in-letters-1870/101",
+     "/collections/literature-in-letters-1870/109",
+     "/collections/literature-in-letters-1870/114",
+     "/collections/literature-in-letters-1870/143",
+     "/collections/literature-in-letters-1870/174"
+    ]
+   },
+   {
     "book_id": "mill-letters-vol1-1910",
     "paths": [
      "/collections/mill-letters-vol1-1910/35",
@@ -2810,12 +3416,12 @@
      "/collections/selected-english-letters-1914/33",
      "/collections/selected-english-letters-1914/35",
      "/collections/selected-english-letters-1914/36",
-     "/collections/selected-english-letters-1914/42",
-     "/collections/selected-english-letters-1914/46"
+     "/collections/selected-english-letters-1914/43",
+     "/collections/selected-english-letters-1914/47"
     ]
    }
   ],
-  "count": 370,
+  "count": 399,
   "curated": [
    "/letters/darwin-hooker-1844",
    "/letters/dostoevsky-mikhail-1849",
@@ -2840,6 +3446,69 @@
      "/collections/dostoevsky-family-friends-1914/27",
      "/collections/dostoevsky-family-friends-1914/28",
      "/collections/dostoevsky-family-friends-1914/29"
+    ]
+   },
+   {
+    "book_id": "emily-dickinson-letters-1894",
+    "paths": [
+     "/collections/emily-dickinson-letters-1894/13",
+     "/collections/emily-dickinson-letters-1894/15",
+     "/collections/emily-dickinson-letters-1894/16",
+     "/collections/emily-dickinson-letters-1894/17",
+     "/collections/emily-dickinson-letters-1894/18",
+     "/collections/emily-dickinson-letters-1894/19",
+     "/collections/emily-dickinson-letters-1894/20",
+     "/collections/emily-dickinson-letters-1894/26",
+     "/collections/emily-dickinson-letters-1894/27",
+     "/collections/emily-dickinson-letters-1894/28",
+     "/collections/emily-dickinson-letters-1894/29",
+     "/collections/emily-dickinson-letters-1894/30",
+     "/collections/emily-dickinson-letters-1894/31",
+     "/collections/emily-dickinson-letters-1894/32",
+     "/collections/emily-dickinson-letters-1894/33",
+     "/collections/emily-dickinson-letters-1894/34",
+     "/collections/emily-dickinson-letters-1894/35",
+     "/collections/emily-dickinson-letters-1894/36",
+     "/collections/emily-dickinson-letters-1894/37",
+     "/collections/emily-dickinson-letters-1894/38",
+     "/collections/emily-dickinson-letters-1894/39",
+     "/collections/emily-dickinson-letters-1894/40",
+     "/collections/emily-dickinson-letters-1894/41",
+     "/collections/emily-dickinson-letters-1894/42",
+     "/collections/emily-dickinson-letters-1894/43",
+     "/collections/emily-dickinson-letters-1894/44",
+     "/collections/emily-dickinson-letters-1894/45",
+     "/collections/emily-dickinson-letters-1894/46",
+     "/collections/emily-dickinson-letters-1894/47",
+     "/collections/emily-dickinson-letters-1894/48",
+     "/collections/emily-dickinson-letters-1894/49",
+     "/collections/emily-dickinson-letters-1894/50",
+     "/collections/emily-dickinson-letters-1894/51",
+     "/collections/emily-dickinson-letters-1894/52",
+     "/collections/emily-dickinson-letters-1894/53",
+     "/collections/emily-dickinson-letters-1894/56",
+     "/collections/emily-dickinson-letters-1894/57",
+     "/collections/emily-dickinson-letters-1894/58",
+     "/collections/emily-dickinson-letters-1894/59",
+     "/collections/emily-dickinson-letters-1894/68",
+     "/collections/emily-dickinson-letters-1894/69",
+     "/collections/emily-dickinson-letters-1894/70",
+     "/collections/emily-dickinson-letters-1894/72",
+     "/collections/emily-dickinson-letters-1894/73",
+     "/collections/emily-dickinson-letters-1894/83",
+     "/collections/emily-dickinson-letters-1894/85",
+     "/collections/emily-dickinson-letters-1894/86",
+     "/collections/emily-dickinson-letters-1894/87",
+     "/collections/emily-dickinson-letters-1894/88",
+     "/collections/emily-dickinson-letters-1894/89",
+     "/collections/emily-dickinson-letters-1894/90",
+     "/collections/emily-dickinson-letters-1894/91",
+     "/collections/emily-dickinson-letters-1894/92",
+     "/collections/emily-dickinson-letters-1894/93",
+     "/collections/emily-dickinson-letters-1894/94",
+     "/collections/emily-dickinson-letters-1894/112",
+     "/collections/emily-dickinson-letters-1894/113",
+     "/collections/emily-dickinson-letters-1894/114"
     ]
    },
    {
@@ -3093,6 +3762,14 @@
     ]
    },
    {
+    "book_id": "literature-in-letters-1870",
+    "paths": [
+     "/collections/literature-in-letters-1870/44",
+     "/collections/literature-in-letters-1870/102",
+     "/collections/literature-in-letters-1870/183"
+    ]
+   },
+   {
     "book_id": "mill-letters-vol1-1910",
     "paths": [
      "/collections/mill-letters-vol1-1910/58",
@@ -3222,11 +3899,11 @@
    {
     "book_id": "selected-english-letters-1914",
     "paths": [
-     "/collections/selected-english-letters-1914/41"
+     "/collections/selected-english-letters-1914/42"
     ]
    }
   ],
-  "count": 356,
+  "count": 417,
   "curated": [
    "/letters/darwin-huxley-1859",
    "/letters/darwin-wallace-1858",
@@ -3277,6 +3954,32 @@
      "/collections/dostoevsky-letters-reminiscences-1923/6",
      "/collections/dostoevsky-letters-reminiscences-1923/7",
      "/collections/dostoevsky-letters-reminiscences-1923/8"
+    ]
+   },
+   {
+    "book_id": "emily-dickinson-letters-1894",
+    "paths": [
+     "/collections/emily-dickinson-letters-1894/75",
+     "/collections/emily-dickinson-letters-1894/76",
+     "/collections/emily-dickinson-letters-1894/77",
+     "/collections/emily-dickinson-letters-1894/78",
+     "/collections/emily-dickinson-letters-1894/95",
+     "/collections/emily-dickinson-letters-1894/97",
+     "/collections/emily-dickinson-letters-1894/116",
+     "/collections/emily-dickinson-letters-1894/117",
+     "/collections/emily-dickinson-letters-1894/118",
+     "/collections/emily-dickinson-letters-1894/122",
+     "/collections/emily-dickinson-letters-1894/124",
+     "/collections/emily-dickinson-letters-1894/126",
+     "/collections/emily-dickinson-letters-1894/128",
+     "/collections/emily-dickinson-letters-1894/131",
+     "/collections/emily-dickinson-letters-1894/132",
+     "/collections/emily-dickinson-letters-1894/136",
+     "/collections/emily-dickinson-letters-1894/138",
+     "/collections/emily-dickinson-letters-1894/140",
+     "/collections/emily-dickinson-letters-1894/146",
+     "/collections/emily-dickinson-letters-1894/147",
+     "/collections/emily-dickinson-letters-1894/148"
     ]
    },
    {
@@ -3444,6 +4147,8 @@
     "book_id": "nietzsche-wagner-1921",
     "paths": [
      "/collections/nietzsche-wagner-1921/3",
+     "/collections/nietzsche-wagner-1921/4",
+     "/collections/nietzsche-wagner-1921/5",
      "/collections/nietzsche-wagner-1921/6"
     ]
    },
@@ -3502,6 +4207,7 @@
      "/collections/sand-flaubert-letters-1922/5",
      "/collections/sand-flaubert-letters-1922/6",
      "/collections/sand-flaubert-letters-1922/7",
+     "/collections/sand-flaubert-letters-1922/8",
      "/collections/sand-flaubert-letters-1922/9",
      "/collections/sand-flaubert-letters-1922/10",
      "/collections/sand-flaubert-letters-1922/11",
@@ -3572,6 +4278,7 @@
      "/collections/sand-flaubert-letters-1922/97",
      "/collections/sand-flaubert-letters-1922/99",
      "/collections/sand-flaubert-letters-1922/101",
+     "/collections/sand-flaubert-letters-1922/102",
      "/collections/sand-flaubert-letters-1922/103",
      "/collections/sand-flaubert-letters-1922/104",
      "/collections/sand-flaubert-letters-1922/105",
@@ -3597,11 +4304,13 @@
      "/collections/sand-flaubert-letters-1922/129",
      "/collections/sand-flaubert-letters-1922/131",
      "/collections/sand-flaubert-letters-1922/132",
+     "/collections/sand-flaubert-letters-1922/133",
      "/collections/sand-flaubert-letters-1922/134",
      "/collections/sand-flaubert-letters-1922/135",
      "/collections/sand-flaubert-letters-1922/137",
      "/collections/sand-flaubert-letters-1922/138",
      "/collections/sand-flaubert-letters-1922/139",
+     "/collections/sand-flaubert-letters-1922/140",
      "/collections/sand-flaubert-letters-1922/141",
      "/collections/sand-flaubert-letters-1922/142",
      "/collections/sand-flaubert-letters-1922/143",
@@ -3613,12 +4322,12 @@
     "paths": [
      "/collections/selected-english-letters-1914/38",
      "/collections/selected-english-letters-1914/39",
-     "/collections/selected-english-letters-1914/43",
-     "/collections/selected-english-letters-1914/47"
+     "/collections/selected-english-letters-1914/44",
+     "/collections/selected-english-letters-1914/48"
     ]
    }
   ],
-  "count": 335,
+  "count": 362,
   "curated": [
    "/letters/ballou-sarah-1861",
    "/letters/darwin-gray-1860",
@@ -3632,6 +4341,78 @@
  },
  {
   "books": [
+   {
+    "book_id": "brahms-herzogenberg-1909",
+    "paths": [
+     "/collections/brahms-herzogenberg-1909/1",
+     "/collections/brahms-herzogenberg-1909/2",
+     "/collections/brahms-herzogenberg-1909/3",
+     "/collections/brahms-herzogenberg-1909/4",
+     "/collections/brahms-herzogenberg-1909/5",
+     "/collections/brahms-herzogenberg-1909/6",
+     "/collections/brahms-herzogenberg-1909/7",
+     "/collections/brahms-herzogenberg-1909/8",
+     "/collections/brahms-herzogenberg-1909/9",
+     "/collections/brahms-herzogenberg-1909/10",
+     "/collections/brahms-herzogenberg-1909/11",
+     "/collections/brahms-herzogenberg-1909/12",
+     "/collections/brahms-herzogenberg-1909/13",
+     "/collections/brahms-herzogenberg-1909/14",
+     "/collections/brahms-herzogenberg-1909/15",
+     "/collections/brahms-herzogenberg-1909/16",
+     "/collections/brahms-herzogenberg-1909/17",
+     "/collections/brahms-herzogenberg-1909/18",
+     "/collections/brahms-herzogenberg-1909/19",
+     "/collections/brahms-herzogenberg-1909/20",
+     "/collections/brahms-herzogenberg-1909/21",
+     "/collections/brahms-herzogenberg-1909/22",
+     "/collections/brahms-herzogenberg-1909/23",
+     "/collections/brahms-herzogenberg-1909/24",
+     "/collections/brahms-herzogenberg-1909/25",
+     "/collections/brahms-herzogenberg-1909/26",
+     "/collections/brahms-herzogenberg-1909/27",
+     "/collections/brahms-herzogenberg-1909/28",
+     "/collections/brahms-herzogenberg-1909/29",
+     "/collections/brahms-herzogenberg-1909/30",
+     "/collections/brahms-herzogenberg-1909/31",
+     "/collections/brahms-herzogenberg-1909/32",
+     "/collections/brahms-herzogenberg-1909/33",
+     "/collections/brahms-herzogenberg-1909/34",
+     "/collections/brahms-herzogenberg-1909/35",
+     "/collections/brahms-herzogenberg-1909/36",
+     "/collections/brahms-herzogenberg-1909/37",
+     "/collections/brahms-herzogenberg-1909/38",
+     "/collections/brahms-herzogenberg-1909/39",
+     "/collections/brahms-herzogenberg-1909/40",
+     "/collections/brahms-herzogenberg-1909/41",
+     "/collections/brahms-herzogenberg-1909/42",
+     "/collections/brahms-herzogenberg-1909/43",
+     "/collections/brahms-herzogenberg-1909/44",
+     "/collections/brahms-herzogenberg-1909/45",
+     "/collections/brahms-herzogenberg-1909/46",
+     "/collections/brahms-herzogenberg-1909/47",
+     "/collections/brahms-herzogenberg-1909/48",
+     "/collections/brahms-herzogenberg-1909/49",
+     "/collections/brahms-herzogenberg-1909/50",
+     "/collections/brahms-herzogenberg-1909/51",
+     "/collections/brahms-herzogenberg-1909/52",
+     "/collections/brahms-herzogenberg-1909/53",
+     "/collections/brahms-herzogenberg-1909/54",
+     "/collections/brahms-herzogenberg-1909/55",
+     "/collections/brahms-herzogenberg-1909/56",
+     "/collections/brahms-herzogenberg-1909/57",
+     "/collections/brahms-herzogenberg-1909/58",
+     "/collections/brahms-herzogenberg-1909/59",
+     "/collections/brahms-herzogenberg-1909/60",
+     "/collections/brahms-herzogenberg-1909/61",
+     "/collections/brahms-herzogenberg-1909/62",
+     "/collections/brahms-herzogenberg-1909/63",
+     "/collections/brahms-herzogenberg-1909/64",
+     "/collections/brahms-herzogenberg-1909/65",
+     "/collections/brahms-herzogenberg-1909/66",
+     "/collections/brahms-herzogenberg-1909/67"
+    ]
+   },
    {
     "book_id": "dostoevsky-family-friends-1914",
     "paths": [
@@ -3666,7 +4447,21 @@
     "paths": [
      "/collections/dostoevsky-letters-reminiscences-1923/9",
      "/collections/dostoevsky-letters-reminiscences-1923/24",
+     "/collections/dostoevsky-letters-reminiscences-1923/25",
      "/collections/dostoevsky-letters-reminiscences-1923/26"
+    ]
+   },
+   {
+    "book_id": "emily-dickinson-letters-1894",
+    "paths": [
+     "/collections/emily-dickinson-letters-1894/100",
+     "/collections/emily-dickinson-letters-1894/102",
+     "/collections/emily-dickinson-letters-1894/103",
+     "/collections/emily-dickinson-letters-1894/152",
+     "/collections/emily-dickinson-letters-1894/153",
+     "/collections/emily-dickinson-letters-1894/155",
+     "/collections/emily-dickinson-letters-1894/156",
+     "/collections/emily-dickinson-letters-1894/157"
     ]
    },
    {
@@ -3770,6 +4565,7 @@
      "/collections/sand-flaubert-letters-1922/145",
      "/collections/sand-flaubert-letters-1922/147",
      "/collections/sand-flaubert-letters-1922/148",
+     "/collections/sand-flaubert-letters-1922/149",
      "/collections/sand-flaubert-letters-1922/150",
      "/collections/sand-flaubert-letters-1922/151",
      "/collections/sand-flaubert-letters-1922/152",
@@ -3889,6 +4685,7 @@
      "/collections/sand-flaubert-letters-1922/298",
      "/collections/sand-flaubert-letters-1922/299",
      "/collections/sand-flaubert-letters-1922/300",
+     "/collections/sand-flaubert-letters-1922/301",
      "/collections/sand-flaubert-letters-1922/302",
      "/collections/sand-flaubert-letters-1922/303",
      "/collections/sand-flaubert-letters-1922/304",
@@ -3912,7 +4709,8 @@
     "paths": [
      "/collections/selected-english-letters-1914/31",
      "/collections/selected-english-letters-1914/37",
-     "/collections/selected-english-letters-1914/50"
+     "/collections/selected-english-letters-1914/41",
+     "/collections/selected-english-letters-1914/51"
     ]
    },
    {
@@ -3992,7 +4790,7 @@
     ]
    }
   ],
-  "count": 321,
+  "count": 400,
   "curated": [
    "/letters/vangogh-theo-spiritual-crisis-miners-1878",
    "/letters/vangogh-theo-theological-studies-1877"
@@ -4002,6 +4800,204 @@
  },
  {
   "books": [
+   {
+    "book_id": "anandabai-joshee-life-letters-1888",
+    "paths": [
+     "/collections/anandabai-joshee-life-letters-1888/1",
+     "/collections/anandabai-joshee-life-letters-1888/2",
+     "/collections/anandabai-joshee-life-letters-1888/3",
+     "/collections/anandabai-joshee-life-letters-1888/4",
+     "/collections/anandabai-joshee-life-letters-1888/5",
+     "/collections/anandabai-joshee-life-letters-1888/6",
+     "/collections/anandabai-joshee-life-letters-1888/7",
+     "/collections/anandabai-joshee-life-letters-1888/8",
+     "/collections/anandabai-joshee-life-letters-1888/9",
+     "/collections/anandabai-joshee-life-letters-1888/11",
+     "/collections/anandabai-joshee-life-letters-1888/12",
+     "/collections/anandabai-joshee-life-letters-1888/13",
+     "/collections/anandabai-joshee-life-letters-1888/14",
+     "/collections/anandabai-joshee-life-letters-1888/15"
+    ]
+   },
+   {
+    "book_id": "brahms-herzogenberg-1909",
+    "paths": [
+     "/collections/brahms-herzogenberg-1909/68",
+     "/collections/brahms-herzogenberg-1909/69",
+     "/collections/brahms-herzogenberg-1909/70",
+     "/collections/brahms-herzogenberg-1909/71",
+     "/collections/brahms-herzogenberg-1909/72",
+     "/collections/brahms-herzogenberg-1909/73",
+     "/collections/brahms-herzogenberg-1909/74",
+     "/collections/brahms-herzogenberg-1909/75",
+     "/collections/brahms-herzogenberg-1909/76",
+     "/collections/brahms-herzogenberg-1909/77",
+     "/collections/brahms-herzogenberg-1909/78",
+     "/collections/brahms-herzogenberg-1909/79",
+     "/collections/brahms-herzogenberg-1909/80",
+     "/collections/brahms-herzogenberg-1909/81",
+     "/collections/brahms-herzogenberg-1909/82",
+     "/collections/brahms-herzogenberg-1909/83",
+     "/collections/brahms-herzogenberg-1909/84",
+     "/collections/brahms-herzogenberg-1909/85",
+     "/collections/brahms-herzogenberg-1909/86",
+     "/collections/brahms-herzogenberg-1909/87",
+     "/collections/brahms-herzogenberg-1909/88",
+     "/collections/brahms-herzogenberg-1909/89",
+     "/collections/brahms-herzogenberg-1909/90",
+     "/collections/brahms-herzogenberg-1909/91",
+     "/collections/brahms-herzogenberg-1909/92",
+     "/collections/brahms-herzogenberg-1909/93",
+     "/collections/brahms-herzogenberg-1909/94",
+     "/collections/brahms-herzogenberg-1909/95",
+     "/collections/brahms-herzogenberg-1909/96",
+     "/collections/brahms-herzogenberg-1909/97",
+     "/collections/brahms-herzogenberg-1909/98",
+     "/collections/brahms-herzogenberg-1909/99",
+     "/collections/brahms-herzogenberg-1909/100",
+     "/collections/brahms-herzogenberg-1909/101",
+     "/collections/brahms-herzogenberg-1909/102",
+     "/collections/brahms-herzogenberg-1909/103",
+     "/collections/brahms-herzogenberg-1909/104",
+     "/collections/brahms-herzogenberg-1909/105",
+     "/collections/brahms-herzogenberg-1909/106",
+     "/collections/brahms-herzogenberg-1909/107",
+     "/collections/brahms-herzogenberg-1909/108",
+     "/collections/brahms-herzogenberg-1909/109",
+     "/collections/brahms-herzogenberg-1909/110",
+     "/collections/brahms-herzogenberg-1909/111",
+     "/collections/brahms-herzogenberg-1909/112",
+     "/collections/brahms-herzogenberg-1909/113",
+     "/collections/brahms-herzogenberg-1909/114",
+     "/collections/brahms-herzogenberg-1909/115",
+     "/collections/brahms-herzogenberg-1909/116",
+     "/collections/brahms-herzogenberg-1909/118",
+     "/collections/brahms-herzogenberg-1909/119",
+     "/collections/brahms-herzogenberg-1909/120",
+     "/collections/brahms-herzogenberg-1909/121",
+     "/collections/brahms-herzogenberg-1909/122",
+     "/collections/brahms-herzogenberg-1909/123",
+     "/collections/brahms-herzogenberg-1909/124",
+     "/collections/brahms-herzogenberg-1909/125",
+     "/collections/brahms-herzogenberg-1909/126",
+     "/collections/brahms-herzogenberg-1909/127",
+     "/collections/brahms-herzogenberg-1909/128",
+     "/collections/brahms-herzogenberg-1909/129",
+     "/collections/brahms-herzogenberg-1909/131",
+     "/collections/brahms-herzogenberg-1909/132",
+     "/collections/brahms-herzogenberg-1909/133",
+     "/collections/brahms-herzogenberg-1909/134",
+     "/collections/brahms-herzogenberg-1909/135",
+     "/collections/brahms-herzogenberg-1909/136",
+     "/collections/brahms-herzogenberg-1909/137",
+     "/collections/brahms-herzogenberg-1909/138",
+     "/collections/brahms-herzogenberg-1909/139",
+     "/collections/brahms-herzogenberg-1909/140",
+     "/collections/brahms-herzogenberg-1909/141",
+     "/collections/brahms-herzogenberg-1909/143",
+     "/collections/brahms-herzogenberg-1909/144",
+     "/collections/brahms-herzogenberg-1909/145",
+     "/collections/brahms-herzogenberg-1909/146",
+     "/collections/brahms-herzogenberg-1909/147",
+     "/collections/brahms-herzogenberg-1909/148",
+     "/collections/brahms-herzogenberg-1909/151",
+     "/collections/brahms-herzogenberg-1909/152",
+     "/collections/brahms-herzogenberg-1909/153",
+     "/collections/brahms-herzogenberg-1909/154",
+     "/collections/brahms-herzogenberg-1909/155",
+     "/collections/brahms-herzogenberg-1909/156",
+     "/collections/brahms-herzogenberg-1909/157",
+     "/collections/brahms-herzogenberg-1909/158",
+     "/collections/brahms-herzogenberg-1909/159",
+     "/collections/brahms-herzogenberg-1909/160",
+     "/collections/brahms-herzogenberg-1909/161",
+     "/collections/brahms-herzogenberg-1909/162",
+     "/collections/brahms-herzogenberg-1909/163",
+     "/collections/brahms-herzogenberg-1909/164",
+     "/collections/brahms-herzogenberg-1909/165",
+     "/collections/brahms-herzogenberg-1909/166",
+     "/collections/brahms-herzogenberg-1909/167",
+     "/collections/brahms-herzogenberg-1909/168",
+     "/collections/brahms-herzogenberg-1909/169",
+     "/collections/brahms-herzogenberg-1909/170",
+     "/collections/brahms-herzogenberg-1909/171",
+     "/collections/brahms-herzogenberg-1909/172",
+     "/collections/brahms-herzogenberg-1909/173",
+     "/collections/brahms-herzogenberg-1909/174",
+     "/collections/brahms-herzogenberg-1909/175",
+     "/collections/brahms-herzogenberg-1909/176",
+     "/collections/brahms-herzogenberg-1909/177",
+     "/collections/brahms-herzogenberg-1909/178",
+     "/collections/brahms-herzogenberg-1909/179",
+     "/collections/brahms-herzogenberg-1909/180",
+     "/collections/brahms-herzogenberg-1909/181",
+     "/collections/brahms-herzogenberg-1909/182",
+     "/collections/brahms-herzogenberg-1909/183",
+     "/collections/brahms-herzogenberg-1909/184",
+     "/collections/brahms-herzogenberg-1909/185",
+     "/collections/brahms-herzogenberg-1909/186",
+     "/collections/brahms-herzogenberg-1909/187",
+     "/collections/brahms-herzogenberg-1909/188",
+     "/collections/brahms-herzogenberg-1909/189",
+     "/collections/brahms-herzogenberg-1909/190",
+     "/collections/brahms-herzogenberg-1909/191",
+     "/collections/brahms-herzogenberg-1909/192",
+     "/collections/brahms-herzogenberg-1909/193",
+     "/collections/brahms-herzogenberg-1909/194",
+     "/collections/brahms-herzogenberg-1909/195",
+     "/collections/brahms-herzogenberg-1909/196",
+     "/collections/brahms-herzogenberg-1909/197",
+     "/collections/brahms-herzogenberg-1909/198",
+     "/collections/brahms-herzogenberg-1909/199",
+     "/collections/brahms-herzogenberg-1909/200",
+     "/collections/brahms-herzogenberg-1909/201",
+     "/collections/brahms-herzogenberg-1909/202",
+     "/collections/brahms-herzogenberg-1909/203",
+     "/collections/brahms-herzogenberg-1909/204",
+     "/collections/brahms-herzogenberg-1909/205",
+     "/collections/brahms-herzogenberg-1909/206",
+     "/collections/brahms-herzogenberg-1909/207",
+     "/collections/brahms-herzogenberg-1909/208",
+     "/collections/brahms-herzogenberg-1909/209",
+     "/collections/brahms-herzogenberg-1909/210",
+     "/collections/brahms-herzogenberg-1909/211",
+     "/collections/brahms-herzogenberg-1909/212",
+     "/collections/brahms-herzogenberg-1909/213",
+     "/collections/brahms-herzogenberg-1909/214",
+     "/collections/brahms-herzogenberg-1909/215",
+     "/collections/brahms-herzogenberg-1909/216",
+     "/collections/brahms-herzogenberg-1909/217",
+     "/collections/brahms-herzogenberg-1909/218",
+     "/collections/brahms-herzogenberg-1909/219",
+     "/collections/brahms-herzogenberg-1909/220",
+     "/collections/brahms-herzogenberg-1909/221",
+     "/collections/brahms-herzogenberg-1909/222",
+     "/collections/brahms-herzogenberg-1909/223",
+     "/collections/brahms-herzogenberg-1909/224",
+     "/collections/brahms-herzogenberg-1909/225",
+     "/collections/brahms-herzogenberg-1909/226",
+     "/collections/brahms-herzogenberg-1909/227",
+     "/collections/brahms-herzogenberg-1909/228",
+     "/collections/brahms-herzogenberg-1909/229",
+     "/collections/brahms-herzogenberg-1909/230",
+     "/collections/brahms-herzogenberg-1909/231",
+     "/collections/brahms-herzogenberg-1909/232",
+     "/collections/brahms-herzogenberg-1909/233",
+     "/collections/brahms-herzogenberg-1909/234",
+     "/collections/brahms-herzogenberg-1909/235",
+     "/collections/brahms-herzogenberg-1909/236",
+     "/collections/brahms-herzogenberg-1909/237",
+     "/collections/brahms-herzogenberg-1909/238",
+     "/collections/brahms-herzogenberg-1909/239",
+     "/collections/brahms-herzogenberg-1909/240",
+     "/collections/brahms-herzogenberg-1909/241",
+     "/collections/brahms-herzogenberg-1909/242",
+     "/collections/brahms-herzogenberg-1909/243",
+     "/collections/brahms-herzogenberg-1909/244",
+     "/collections/brahms-herzogenberg-1909/245",
+     "/collections/brahms-herzogenberg-1909/246"
+    ]
+   },
    {
     "book_id": "dostoevsky-family-friends-1914",
     "paths": [
@@ -4036,7 +5032,19 @@
      "/collections/dostoevsky-letters-reminiscences-1923/27",
      "/collections/dostoevsky-letters-reminiscences-1923/28",
      "/collections/dostoevsky-letters-reminiscences-1923/29",
+     "/collections/dostoevsky-letters-reminiscences-1923/30",
      "/collections/dostoevsky-letters-reminiscences-1923/31"
+    ]
+   },
+   {
+    "book_id": "emily-dickinson-letters-1894",
+    "paths": [
+     "/collections/emily-dickinson-letters-1894/108",
+     "/collections/emily-dickinson-letters-1894/109",
+     "/collections/emily-dickinson-letters-1894/111",
+     "/collections/emily-dickinson-letters-1894/158",
+     "/collections/emily-dickinson-letters-1894/159",
+     "/collections/emily-dickinson-letters-1894/160"
     ]
    },
    {
@@ -4070,7 +5078,8 @@
      "/collections/nineteenth-century-letters-1919/323",
      "/collections/nineteenth-century-letters-1919/324",
      "/collections/nineteenth-century-letters-1919/325",
-     "/collections/nineteenth-century-letters-1919/326"
+     "/collections/nineteenth-century-letters-1919/326",
+     "/collections/nineteenth-century-letters-1919/327"
     ]
    },
    {
@@ -4082,8 +5091,8 @@
    {
     "book_id": "selected-english-letters-1914",
     "paths": [
-     "/collections/selected-english-letters-1914/52",
-     "/collections/selected-english-letters-1914/53"
+     "/collections/selected-english-letters-1914/53",
+     "/collections/selected-english-letters-1914/54"
     ]
    },
    {
@@ -4121,7 +5130,7 @@
     ]
    }
   ],
-  "count": 78,
+  "count": 274,
   "curated": [
    "/letters/chekhov-suvorin-1888",
    "/letters/nietzsche-overbeck-1889",
@@ -4134,6 +5143,46 @@
  },
  {
   "books": [
+   {
+    "book_id": "brahms-herzogenberg-1909",
+    "paths": [
+     "/collections/brahms-herzogenberg-1909/247",
+     "/collections/brahms-herzogenberg-1909/248",
+     "/collections/brahms-herzogenberg-1909/249",
+     "/collections/brahms-herzogenberg-1909/250",
+     "/collections/brahms-herzogenberg-1909/251",
+     "/collections/brahms-herzogenberg-1909/252",
+     "/collections/brahms-herzogenberg-1909/253",
+     "/collections/brahms-herzogenberg-1909/254",
+     "/collections/brahms-herzogenberg-1909/255",
+     "/collections/brahms-herzogenberg-1909/256",
+     "/collections/brahms-herzogenberg-1909/257",
+     "/collections/brahms-herzogenberg-1909/258",
+     "/collections/brahms-herzogenberg-1909/259",
+     "/collections/brahms-herzogenberg-1909/260",
+     "/collections/brahms-herzogenberg-1909/261",
+     "/collections/brahms-herzogenberg-1909/262",
+     "/collections/brahms-herzogenberg-1909/263",
+     "/collections/brahms-herzogenberg-1909/264",
+     "/collections/brahms-herzogenberg-1909/265",
+     "/collections/brahms-herzogenberg-1909/266",
+     "/collections/brahms-herzogenberg-1909/267",
+     "/collections/brahms-herzogenberg-1909/268",
+     "/collections/brahms-herzogenberg-1909/269",
+     "/collections/brahms-herzogenberg-1909/270",
+     "/collections/brahms-herzogenberg-1909/271",
+     "/collections/brahms-herzogenberg-1909/272",
+     "/collections/brahms-herzogenberg-1909/273",
+     "/collections/brahms-herzogenberg-1909/274",
+     "/collections/brahms-herzogenberg-1909/275",
+     "/collections/brahms-herzogenberg-1909/276",
+     "/collections/brahms-herzogenberg-1909/277",
+     "/collections/brahms-herzogenberg-1909/278",
+     "/collections/brahms-herzogenberg-1909/279",
+     "/collections/brahms-herzogenberg-1909/280",
+     "/collections/brahms-herzogenberg-1909/281"
+    ]
+   },
    {
     "book_id": "nineteenth-century-letters-1919",
     "paths": [
@@ -4152,11 +5201,11 @@
    {
     "book_id": "selected-english-letters-1914",
     "paths": [
-     "/collections/selected-english-letters-1914/45",
-     "/collections/selected-english-letters-1914/49",
-     "/collections/selected-english-letters-1914/51",
-     "/collections/selected-english-letters-1914/54",
-     "/collections/selected-english-letters-1914/55"
+     "/collections/selected-english-letters-1914/46",
+     "/collections/selected-english-letters-1914/50",
+     "/collections/selected-english-letters-1914/52",
+     "/collections/selected-english-letters-1914/55",
+     "/collections/selected-english-letters-1914/56"
     ]
    },
    {
@@ -4543,7 +5592,7 @@
     ]
    }
   ],
-  "count": 380,
+  "count": 415,
   "curated": [
    "/letters/vivekananda-alasinga-1894",
    "/letters/wilde-douglas-1897"
@@ -4571,7 +5620,7 @@
    {
     "book_id": "selected-english-letters-1914",
     "paths": [
-     "/collections/selected-english-letters-1914/57"
+     "/collections/selected-english-letters-1914/58"
     ]
    },
    {
@@ -4657,9 +5706,9 @@
    {
     "book_id": "selected-english-letters-1914",
     "paths": [
-     "/collections/selected-english-letters-1914/56",
-     "/collections/selected-english-letters-1914/58",
-     "/collections/selected-english-letters-1914/59"
+     "/collections/selected-english-letters-1914/57",
+     "/collections/selected-english-letters-1914/59",
+     "/collections/selected-english-letters-1914/60"
     ]
    },
    {
@@ -4708,7 +5757,8 @@
      "/collections/tagore-letters-to-a-friend-1928/41",
      "/collections/tagore-letters-to-a-friend-1928/42",
      "/collections/tagore-letters-to-a-friend-1928/43",
-     "/collections/tagore-letters-to-a-friend-1928/44"
+     "/collections/tagore-letters-to-a-friend-1928/44",
+     "/collections/tagore-letters-to-a-friend-1928/45"
     ]
    },
    {
@@ -4718,7 +5768,7 @@
     ]
    }
   ],
-  "count": 57,
+  "count": 58,
   "curated": [
    "/letters/gandhi-tolstoy-1910-04-04",
    "/letters/lajpat-rai-montagu-1917",
@@ -4837,7 +5887,6 @@
    {
     "book_id": "tagore-letters-to-a-friend-1928",
     "paths": [
-     "/collections/tagore-letters-to-a-friend-1928/45",
      "/collections/tagore-letters-to-a-friend-1928/46",
      "/collections/tagore-letters-to-a-friend-1928/47",
      "/collections/tagore-letters-to-a-friend-1928/48",
@@ -4876,7 +5925,7 @@
      "/collections/tagore-letters-to-a-friend-1928/81",
      "/collections/tagore-letters-to-a-friend-1928/82",
      "/collections/tagore-letters-to-a-friend-1928/83",
-     "/collections/tagore-letters-to-a-friend-1928/90",
+     "/collections/tagore-letters-to-a-friend-1928/84",
      "/collections/tagore-letters-to-a-friend-1928/91",
      "/collections/tagore-letters-to-a-friend-1928/92",
      "/collections/tagore-letters-to-a-friend-1928/93",
@@ -4888,7 +5937,7 @@
      "/collections/tagore-letters-to-a-friend-1928/99",
      "/collections/tagore-letters-to-a-friend-1928/100",
      "/collections/tagore-letters-to-a-friend-1928/101",
-     "/collections/tagore-letters-to-a-friend-1928/103",
+     "/collections/tagore-letters-to-a-friend-1928/102",
      "/collections/tagore-letters-to-a-friend-1928/104",
      "/collections/tagore-letters-to-a-friend-1928/105",
      "/collections/tagore-letters-to-a-friend-1928/106",
@@ -4898,7 +5947,8 @@
      "/collections/tagore-letters-to-a-friend-1928/110",
      "/collections/tagore-letters-to-a-friend-1928/111",
      "/collections/tagore-letters-to-a-friend-1928/112",
-     "/collections/tagore-letters-to-a-friend-1928/114"
+     "/collections/tagore-letters-to-a-friend-1928/113",
+     "/collections/tagore-letters-to-a-friend-1928/115"
     ]
    }
   ],

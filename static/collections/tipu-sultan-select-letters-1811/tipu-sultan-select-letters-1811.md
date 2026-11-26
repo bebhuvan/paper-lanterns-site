@@ -2,18 +2,18 @@
 
 - **Author / Editor**: Tipu Sultan, William Kirkpatrick (tr.)
 - **Year**: 1811
-- **Letters**: 431
+- **Letters**: 436
 - **Pages**: 670
 
 ## Front Matter
 
 * * *
 
-### SELECT LETTERS OF TIPPOO SULTAN TO VARIOUS PUBLIC FUNCTIONARIES.
+### SELECT LETTERS<br />OF<br />TIPPOO SULTAN<br />TO<br />VARIOUS PUBLIC FUNCTIONARIES.
 
 * * *
 
-### SELECT LETTERS OF TIPPOO SULTAN TO *VARIOUS PUBLIC FUNCTIONARIES:* <span class="small-caps">INCLUDING HIS</span> PRINCIPAL MILITARY COMMANDERS; GOVERNORS OF FORTS AND PROVINCES; DIPLOMATIC AND COMMERCIAL AGENTS; *&c. &c. &c.* <span class="small-caps">TOGETHER WITH SOME ADDRESSED TO THE</span> TRIBUTARY CHIEFTAINS OF SHÂNOOR, KURNOOL, AND CANNANORE, <span class="small-caps">AND</span> *SUNDRY OTHER PERSONS.*
+### SELECT LETTERS<br />OF<br />TIPPOO SULTAN<br />TO<br />*VARIOUS PUBLIC FUNCTIONARIES:*<br /><span class="small-caps">INCLUDING HIS</span><br />PRINCIPAL MILITARY COMMANDERS; GOVERNORS OF FORTS AND PROVINCES;<br />DIPLOMATIC AND COMMERCIAL AGENTS;<br />*&c. &c. &c.*<br /><span class="small-caps">TOGETHER WITH SOME ADDRESSED TO THE</span><br />TRIBUTARY CHIEFTAINS OF SHÂNOOR, KURNOOL, AND CANNANORE,<br /><span class="small-caps">AND</span><br />*SUNDRY OTHER PERSONS.*
 
 * * *
 
@@ -39,7 +39,7 @@ Lincoln's-Inn-Fields.
 
 ### Letter 1: WILLIAM KIRKPATRICK → RICHARD, MARQUIS WELLESLEY
 
-### TO THE MOST NOBLE RICHARD, MARQUIS WELLESLEY, *KNIGHT OF THE MOST NOBLE ORDER OF THE GARTER;* *ONE OF HIS MAJESTY'S PRINCIPAL SECRETARIES OF STATE;* FORMERLY *GOVERNOR-GENERAL OF THE BRITISH POSSESSIONS,* AND *CAPTAIN-GENERAL OF THE BRITISH FORCES, IN INDIA,* *&c. &c. &c. &c.*
+#### TO THE MOST NOBLE<br />RICHARD, MARQUIS WELLESLEY,<br />*KNIGHT OF THE MOST NOBLE ORDER OF THE GARTER;*<br />*ONE OF HIS MAJESTY'S PRINCIPAL SECRETARIES OF STATE;*<br />FORMERLY<br />*GOVERNOR-GENERAL OF THE BRITISH POSSESSIONS,*<br />AND<br />*CAPTAIN-GENERAL OF THE BRITISH FORCES, IN INDIA,*<br />*&c. &c. &c. &c.*
 
 M<span class="small-caps">Y</span> L<span class="small-caps">ORD</span>:
 
@@ -146,7 +146,7 @@ But to none of my literary friends do I feel more deeply indebted, for aid affor
 
 To the names of the persons already announced, as having contributed, by their communications, to whatever value the present work may be thought to possess, I am bound to add those of Lieutenant Colonel Thomas Munro and Lieutenant Colonel Mariott, both of the Madras establishment.  I must, at the same time, lament, that circumstances should not have admitted of my profiting by their extensive information, in the degree which an earlier application to them might have enabled me to do.
 
-### REMARKS *EXPLANATORY OF THE KALENDAR OF* TIPPOO SULTAN.
+### REMARKS<br />*EXPLANATORY OF THE KALENDAR OF*<br />TIPPOO SULTAN.
 
 * * *
 
@@ -208,8 +208,9 @@ I now resume my account of the Kalendar, which was interrupted by this digressio
 
 The names of the months, according to the second and latest arrangement, became as follows :
 
-| 1st month | احمدي | *Ahmedy* | } being the same as in the former scheme. |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| 1st month | احمدي | *Ahmedy* | } being the same as in the former scheme. |
 | 2d....... | بهاري | *Beháry* |  |
 | 3d....... | تقي | *Tuky.* |  |
 | 4th...... | ثمري | *Sumry.* |  |
@@ -1204,9 +1205,9 @@ Letter CCLXX. - - - - - - - - xcii
 
 ### Letter 2: Mirza Mahommed Ali
 
-### LETTER I.
+#### LETTER I.
 
-### *To <span class="small-caps">Mirza Mahommed Ali</span>, Superintendant of the Elephant Stables at <span class="small-caps">Nugr</span>;[^fn-p0061-1] dated <span class="small-caps">Putn</span> (or Seringapatam), 2d of <span class="small-caps">Byázy</span>, Year <span class="small-caps">Uzl</span>. (17th February 1785.)*
+#### *To <span class="small-caps">Mirza Mahommed Ali</span>, Superintendant of the Elephant Stables at <span class="small-caps">Nugr</span>;[^fn-p0061-1] dated <span class="small-caps">Putn</span> (or Seringapatam), 2d of <span class="small-caps">Byázy</span>, Year <span class="small-caps">Uzl</span>. (17th February 1785.)*
 
 THE humble address [you] sent [us] has passed under [our] view, and the circumstances submitted [therein] are duly comprehended.[^fn-p0061-2] You write, “ that the *Mútusuddies*[^fn-p0061-3] attached to you have adopted habits “ of ease and of lounging in *Nugr*, pretending that it is necessary for “ them to see and confer with the *Taalúkdar*[^fn-p0061-4] of *Nugr*; the consequence of which is, that fifteen days are consumed in preparing the “ accounts of one,[^fn-p0061-5] and that nothing is done excepting at *Nugr*, “ though a *Kunry Mútusuddy*[^fn-p0062-1] (agreeably to our orders) attends on the “ part of Nursia[^fn-p0062-2] to assist in the business.”
 
@@ -1214,7 +1215,7 @@ This [representation] has caused [us] the utmost surprise. Whenever the *Mútusu
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 To understand the foregoing letter properly, it is necessary to suppose, what, indeed, is most probable, that the Elephant Mews, or Stables, were situated at some distance from the town of *Nugr*.
 
@@ -1226,21 +1227,23 @@ I am equally unable to determine, whether this interesting document is in the ha
 
 But it is not essential to the authenticity of this paper that it should have been written in the *Sultan’s* own hand. The place in which it was discovered, joined to the seal and internal evidence furnished by its extraordinary tenor, sufficiently establishes its genuineness ; but whether the engagement it contains was voluntarily entered into by the *Sultan*, or exacted by Hyder, does not appear. The latter, however, is not unlikely to have been the case, notwithstanding what the writer himself declares in the eighth article. After this general account of the document in question, I proceed to present the reader with a translation of it ; and, for the satisfaction of those conversant in the language of the original, a fac-simile of it is given in article C. of the Appendix.
 
-### “ **AGREEMENT.**
-
-> “ 1.[^fn-p0064-1] I will not do [any] one thing without the pleasure of your blessed Majesty, Lord of Benefits [or my bountiful Lord] : if I do, let me be punished, in whatever manner may seem fitting to your auspicious mind.—— One article.[^fn-p0064-2] “ 2. If, in the affairs of the *Sircar*, I should commit theft, or be guilty of “ fraud, great or small, let me, as the due punishment thereof, be strangled.[^fn-p0065-1] “ —— One article.
-
-> “ 3. If I be guilty of prevarication, or misrepresentation, or of deceit, the “ due punishment thereof is this same strangulation.—— One article.
-
-> “ 4. Without the orders of the Presence, I will not receive from any one, “ *Nuzzers*, &c. ; neither will I take things from any one [meaning perhaps for- “ cibly] : if I do, let my nose be cut off, and let me be driven out from the city. “ —— One article.
-
-> “ 5. If, excepting on the affairs of the *Sircar*, I should hold conversation “ [probably *cabal* or *intrigue*] with any person, or be guilty of deceit, &c., let “ me, in punishment thereof, be stretched on a cross.—— One article.
-
-> “ 6. Whenever a country shall be committed to my charge by the *Sircar*, “ and an army be placed under my command, I will carry on all business regard- “ ing the same, with the advice, and through the medium of such confidential “ persons as may be appointed [for the purpose] by the *Sircar* ; and if I transact “ such affairs through any other channel than this, let me be strangled.—— One “ article.
-
-> “ 7. If there should be any occasion for correspondence by writing, or to buy “ or give [away] any thing, or any letters should arrive from any place, I will do “ nothing [in such matters] without the concurrence and advice of the person “ appointed by the *Sircar*.—— One article.
-
-> “ 8. I have written and delivered these few articles of my own free will : “ keeping the contents whereof in my heart’s remembrance, I will act in each “ article accordingly. If I forget this, and act in any other [or different] manner, “ let me be punished, agreeably to the foregoing writing.”
+> **[enclosure]**
+>
+> ##### “ **AGREEMENT.**
+>
+> > “ 1.[^fn-p0064-1] I will not do [any] one thing without the pleasure of your blessed Majesty, Lord of Benefits [or my bountiful Lord] : if I do, let me be punished, in whatever manner may seem fitting to your auspicious mind.—— One article.[^fn-p0064-2] “ 2. If, in the affairs of the *Sircar*, I should commit theft, or be guilty of “ fraud, great or small, let me, as the due punishment thereof, be strangled.[^fn-p0065-1] “ —— One article.
+>
+> > “ 3. If I be guilty of prevarication, or misrepresentation, or of deceit, the “ due punishment thereof is this same strangulation.—— One article.
+>
+> > “ 4. Without the orders of the Presence, I will not receive from any one, “ *Nuzzers*, &c. ; neither will I take things from any one [meaning perhaps for- “ cibly] : if I do, let my nose be cut off, and let me be driven out from the city. “ —— One article.
+>
+> > “ 5. If, excepting on the affairs of the *Sircar*, I should hold conversation “ [probably *cabal* or *intrigue*] with any person, or be guilty of deceit, &c., let “ me, in punishment thereof, be stretched on a cross.—— One article.
+>
+> > “ 6. Whenever a country shall be committed to my charge by the *Sircar*, “ and an army be placed under my command, I will carry on all business regard- “ ing the same, with the advice, and through the medium of such confidential “ persons as may be appointed [for the purpose] by the *Sircar* ; and if I transact “ such affairs through any other channel than this, let me be strangled.—— One “ article.
+>
+> > “ 7. If there should be any occasion for correspondence by writing, or to buy “ or give [away] any thing, or any letters should arrive from any place, I will do “ nothing [in such matters] without the concurrence and advice of the person “ appointed by the *Sircar*.—— One article.
+>
+> > “ 8. I have written and delivered these few articles of my own free will : “ keeping the contents whereof in my heart’s remembrance, I will act in each “ article accordingly. If I forget this, and act in any other [or different] manner, “ let me be punished, agreeably to the foregoing writing.”
 
 It will not, perhaps, be wondered at, that one, to whom the idea of corporal punishment, even in his own person, would seem, from the preceding instrument, as well as from Colonel Wilks's report, to have been familiar, before his accession to the *Musnud*, should, after that event, have applied the practice, with similar disregard to the rank or station of offenders, to those then subjected to his authority.
 
@@ -1250,15 +1253,15 @@ Before I dismiss this subject it may be proper to notice, that the style of the 
 
 ### Letter 3: MEER KÂZIM
 
-### LETTER II.
+#### LETTER II.
 
-### *To* <span class="small-caps">MEER KÂZIM</span>, *Commercial Consul, or Chief of the Factory at* *<span class="small-caps">MUSCAT</span>*; *written* in the Night *of the 5th of* *<span class="small-caps">BYÂZY</span>*. (20*th February*.)
+#### *To* <span class="small-caps">MEER KÂZIM</span>, *Commercial Consul, or Chief of the Factory at* *<span class="small-caps">MUSCAT</span>*; *written* in the Night *of the 5th of* *<span class="small-caps">BYÂZY</span>*. (20*th February*.)
 
 <span class="small-caps">PROPOSE</span> to the merchants of *Muscat*, (and get the *Imaum*[^fn-p0066-1] to issue orders to the same effect,) to bring hither, on the empty *Dingies*,[^fn-p0066-2] such horses as they may have for sale; which being sold to us, the owners can carry back the produce in rice.
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Several letters in this collection, as well as the present one, are dated *at night*, a circumstance that does not denote them to be of any urgency or particular importance (as one might be led to suppose), but merely shows the diligent application of the *Sultan* to business; the word *night* here implying some time after midnight.[^fn-p0067-1] Its insertion in such a dispatch as the preceding one, certainly carries with it an air of affectation.
 
@@ -1268,9 +1271,9 @@ Several letters in this collection, as well as the present one, are dated *at ni
 
 ### Letter 4: Mahommed Ghyâs
 
-### **LETTER III.**
+#### **LETTER III.**
 
-### *To* *<span class="small-caps">Mahommed Ghyâs</span>*; *dated 6th of* *<span class="small-caps">Byázy.</span>* (*21st February.*)
+#### *To* *<span class="small-caps">Mahommed Ghyâs</span>*; *dated 6th of* *<span class="small-caps">Byázy.</span>* (*21st February.*)
 
 <span class="small-caps">Your</span> letter of the 19th of *Eezudy* [5th of February] has been received, and the whole of its contents are comprehended. The *fixed* or *regulated* money is ready. Whenever the chiefs of that place [*Poonah*] demand it, bankers’ bills to the amount shall be forwarded.
 
@@ -1286,7 +1289,7 @@ N.B. A letter, to the same effect as the above, and of the same date, was writte
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Mahommed Ghyâs Khân and Noor Mahommed Khân were, at this time, the diplomatic agents of Tippoo Sultan, at *Poonah*. The former of them was, probably, at the head of the mission, since many of the letters are addressed singly to him, and in all of them his name stands first. Noor Mahommed Khân, however, would seem to have resided longest at the Mahrattah court, to which, there is reason to believe, he had been originally deputed by Hyder Ali.
 
@@ -1306,9 +1309,9 @@ There is only one more remark suggested by the preceding letter. If the *Sultan*
 
 ### Letter 5: Turbiyut Ali Khân / Râjah Râm Chundur
 
-### LETTER IV.
+#### LETTER IV.
 
-### *To* <span class="small-caps">Turbiyut Ali Khân</span> *and* <span class="small-caps">Râjah Râm Chundur</span>;[^fn-p0071-1] *dated 12th of* <span class="small-caps">Byázy.</span> (*27th February.*)
+#### *To* <span class="small-caps">Turbiyut Ali Khân</span> *and* <span class="small-caps">Râjah Râm Chundur</span>;[^fn-p0071-1] *dated 12th of* <span class="small-caps">Byázy.</span> (*27th February.*)
 
 <span class="small-caps">Your</span> letter has been received. You write, “that the European “[formerly] taken prisoner in the *Páyen-ghaut*,[^fn-p0071-2] and whose original “ allowance of two *fanams*[^fn-p0072-1] a day had been, in consequence of his “ misbehaviour, reduced to one, being skilled in the mortar practice,[^fn-p0072-2] “ you proposed converting him to the faith, and wished for our orders “ on the subject.” It is known (or understood).
 
@@ -1318,7 +1321,7 @@ You may, as you propose, engage a sweeper, at the monthly wages of ten or twelve
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The European here spoken of was, no doubt, one of those unhappy British soldiers who had the misfortune to fall into the hands of this cruel enemy; and numbers of whom he forcibly detained, in spite of the stipulations of the treaty of *Mangalore*. It is not quite clear, whether the subject of the present letter was to be compelled to embrace Mahommedanism, or had expressed a readiness to do so. The latter, however, is not so likely as the former; though there is reason to believe, that some few of our wretched countrymen were induced to apostatize, with the view of alleviating the intolerable hardships of their situation.
 
@@ -1332,15 +1335,15 @@ It may seem rather extraordinary, that a Hindoo (as Râjah Râm Chundur was) sho
 
 ### Letter 6: Governor of Pondicherry
 
-### LETTER V.
+#### LETTER V.
 
-### *To the* *<span class="small-caps">Governor of Pondicherry</span>*, *dated* 19*th* *<span class="small-caps">Byâzy</span>*. (6*th March*.)
+#### *To the* *<span class="small-caps">Governor of Pondicherry</span>*, *dated* 19*th* *<span class="small-caps">Byâzy</span>*. (6*th March*.)
 
 W<span class="small-caps">E</span> have had the pleasure to receive your agreeable letter, informing us that peace has lately been concluded in Europe, between the King of France and the English, in consequence of which the port of *Pondicherry* has been restored to the French. This information has afforded us much satisfaction. You must let us know [what you learn] respecting the [expected] arrival of ships belonging to you [*i. e.* your nation], as well as how far Monsieur Suffrein is advanced in his voyage.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I believe this letter contains almost the only instance in which the title of *Bâdshâh*, or King, is bestowed upon any European sovereign by Tippoo Sultan, who appears, on all other occasions, to have thought as if this designation would be degraded, by being applied to any but a prince professing the Mahommedan faith : he, therefore, generally affected to call, not only the King of England, but his own friend and ally, the King of France, *Rájah* ; intending, by this ingenious contrivance, to intimate (though, of course, not to those so addressed) that he considered them as nothing superior to the petty Hindoo *Rájahs* of India, and, in fact, as Idolators. What rendered this appellation the more insulting was, that though originally, and strictly, signifying a King, it had now become extremely common, the title being borne, as has been seen, by one Hindoo, at least, in the service of the Sultan himself, and being frequently bestowed on their subjects of that religion, by the different upstart rulers of the dismembered empire of *Hindostan*.
 
@@ -1350,13 +1353,13 @@ For a more distinct view of the sentiments entertained by Tippoo Sultan, with re
 
 ### Letter 7: MAHOMMED USHRUF
 
-### LETTER VI.
+#### LETTER VI.
 
-### *To* <span class="small-caps">MAHOMMED USHRUF</span>, *<span class="small-caps">DAROGHA</span>*[^fn-p0074-1] *of the <span class="small-caps">DEWANY KUCHURRY</span> of* *<span class="small-caps">GOOTY</span>; dated 16th of <span class="small-caps">BYÁZY</span>. (3d March.)*
+#### *To* <span class="small-caps">MAHOMMED USHRUF</span>, *<span class="small-caps">DAROGHA</span>*[^fn-p0074-1] *of the <span class="small-caps">DEWANY KUCHURRY</span> of*<br />*<span class="small-caps">GOOTY</span>; dated 16th of <span class="small-caps">BYÁZY</span>. (3d March.)*
 
 <span class="small-caps">YOUR</span> letter has been received, and its contents are duly understood. You write, “ that the *Bázár* price of *Kúrg pagodas* was thirteen “ *fanams* and three-quarters, but that you had advanced the same one “ *fanam* and four *annas*, and issued them, at this rate, to the *Piádehs* “ of the *Ehshám*.”[^fn-p0074-2] It is known. You will fix the value of the *pagoda* at one *fanam* above the market price, or exchange, and issue it, at that rate, to the servants of the State. There is no necessity for raising the exchange higher than this standard; and, accordingly, this has been heretofore repeatedly signified to you. It surprises us extremely, that you should nevertheless pursue the suggestions of your own fancy.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 No prospect of advantage could tempt the *Sultan* to wink at any contravention of his positive orders. The financial operation, here spoken of, is not an uncommon one in India. The *Sultan’s* displeasure was not occasioned by the oppression, but by the disobedience, of which the *Darogha* had been guilty.
 
@@ -1364,15 +1367,15 @@ No prospect of advantage could tempt the *Sultan* to wink at any contravention o
 
 ### Letter 8: Shah Noorûllah
 
-### LETTER VII.
+#### LETTER VII.
 
-### *To* <span class="small-caps">Shah Noorûllah</span>; *dated* 22*d* *of* <span class="small-caps">Byâzy.</span> (9*th March*.)
+#### *To* <span class="small-caps">Shah Noorûllah</span>; *dated* 22*d* *of* <span class="small-caps">Byâzy.</span> (9*th March*.)
 
 <span class="small-caps">Enclosed</span> is a letter which has been received from Othmân Khân, &c. reporting their arrival at *Bussorah*, and subsequent departure from thence for the presence of the King.[^fn-p0075-1] You will learn [further] from its perusal. The Governor of *Bussorah* has likewise written an answer to our letter to him, saying that he had sent forward the aforesaid *Khân* and the others [*i. e.* his colleagues] to the Court of the King.
 
 Such being the case, that eminent person[^fn-p0075-2] must use the utmost expedition, agreeably to our former orders, in docking the ship *Fukhurûlmûbâruk*, and giving it such repairs as may be required.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The embassy, here alluded to, was that which the *Sultan* dispatched to Constantinople, some time in the year 1784. At the head of it was Mahommed Othmân Khân, who had formerly filled the station of Hyder Ali Khân’s *Vakeel* at *Madras*, and was afterwards associated with Mahommed Durwaish Khân, and the other ambassadors, sent in the year 1787, by sea, to France. What was the object of his mission to Constantinople, I am not able to state, having met with no documents regarding it. On the return, or recall, of Othmân Khân, Ghûlâm Ali Khân, together with Shah Noorûllah, was dispatched ostensibly to supply his place; but, in fact, with instructions to proceed from Constantinople to France. This design, however, was subsequently relinquished by the *Sultan*, who substituted, in its stead, the more direct mission by sea, noticed above.[^fn-p0076-1]
 
@@ -1380,9 +1383,9 @@ The embassy, here alluded to, was that which the *Sultan* dispatched to Constant
 
 ### Letter 9: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER VIII.
+#### LETTER VIII.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>*; dated* 1*st of Extra* <span class="small-caps">Ahmedy</span>, *Year* <span class="small-caps">Jullo</span>. (18*th March.*)
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>*; dated* 1*st of<br />Extra* <span class="small-caps">Ahmedy</span>, *Year* <span class="small-caps">Jullo</span>. (18*th March.*)
 
 <span class="small-caps">In</span> consequence of the chiefs of that place [*Poonah*] forgetting their obligations to us, we have come to the positive determination of taking possession of the territory situated on the banks of the *Kishna*.[^fn-p0076-2] It is therefore written, that if your negotiation proceeds according to our heart’s desire, it is well: if not, you and Noor Mahommed Khân, taking leave of Râo Râsta, must repair to the Presence.
 
@@ -1392,7 +1395,7 @@ You write, that Peer Mahommed Mûnshy (who, when he accompanied the Mahrattah mi
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The *Sultan’s* instructions to his envoys at *Poonah* will be found to be marked throughout with considerable indecision. In speaking of the Mahrattah Government, he assumes, in general, a very lofty and menacing tone ; it is, notwithstanding, pretty evident, that he is not averse to reconciliation. He frequently betrays the irritation of his mind, and, in these moods, issues the most peremptory orders to his agents to quit *Poonah*. They, nevertheless, remain at their post, where they appear to have continued till the month of May of the following year (1786), or during the greatest part of the war. The reason of this fluctuation in the conduct of the *Sultan*, would, no doubt, be more intelligible than it is, if we were in possession of the dispatches of the envoys, as well as those of their master. It is true, that the substance, and perhaps the entire contents of many of the former, is (agreeably to the common practice in the epistolary correspondence of India) recited in the answers to them ; but still it is reasonable to suppose, that many particulars are unnoticed in these brief capitulations, or summaries, the knowledge of which would materially elucidate the transactions in question.
 
@@ -1416,7 +1419,7 @@ I abstain from many other reflections, naturally suggested by the curious extrac
 
 ### Letter 10: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER IX.
+#### LETTER IX.
 
 *To the same ; dated* 6*th of* *<span class="small-caps">Extra Ahmedy</span>*, *Year* *<span class="small-caps">Jullo</span>*.  
 (23*d March*.)
@@ -1425,9 +1428,9 @@ Two letters from you have passed under our view. The note containing sundry prop
 
 ### Letter 11: Bûrhânûddeen
 
-### LETTER X.
+#### LETTER X.
 
-### *To* B<span class="small-caps">ûrhânûddeen</span>, *dated* ——[^fn-p0082-1] *Extra <span class="small-caps">Ahmedy</span>.*
+#### *To* B<span class="small-caps">ûrhânûddeen</span>, *dated* ——[^fn-p0082-1] *Extra <span class="small-caps">Ahmedy</span>.*
 
 [A<span class="small-caps">FTER</span> some immaterial directions, the letter proceeds as follows :]—
 
@@ -1435,7 +1438,7 @@ If you should receive intelligence of the approach of any considerable force of 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Bûrhânûddeen was the brother-in-law of Tippoo Sultan, who had married a sister of his. He appears to have possessed a great share of the confidence of the *Sultan*, who frequently intrusted him with important military commands, but not without placing him (at least at this period) in a certain degree of tutelage. He lost his life in the battle of *Sattimungalam*, in the year 1790. Of that battle the *Sultan* has given a partial and exaggerated account in one or two letters ; in which it is remarkable, that he speaks of the death of this gallant commander without a single expression of regard or regret.
 
@@ -1443,15 +1446,15 @@ The fort, the siege of which is here provisionally directed to be relinquished, 
 
 ### Letter 12: MEER KUMRÛDDEEN ALI KHÂN
 
-### LETTER XI.
+#### LETTER XI.
 
-### *To* <span class="small-caps">MEER KUMRÛDDEEN ALI KHÂN</span>; *dated* 11th *Extra Ahmedy*, (28*th March.*)
+#### *To* <span class="small-caps">MEER KUMRÛDDEEN ALI KHÂN</span>; *dated* 11th *Extra Ahmedy*,<br />(28*th March.*)
 
 <span class="small-caps">YOUR</span> letter, informing us of your arrival at *Chekry*,[^fn-p0083-1] and applying for a supply of gun-flints, powder, &c., has been received, and its contents are duly understood. Send to Bûrhânûddeen for gun-flints, powder, and whatever else you may want. The *Sipahdár*[^fn-p0083-2] Mahommed Ali, has no doubt joined you by this time with the troops under his command, orders for this purpose having been repeatedly dispatched to him. That part of your forces which was at *Kurpah* [^fn-p0083-3] has also marched from thence, and will soon join your army. What more?
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Meer Kumrûddeen Ali Khân was the son of Meer Ali Rizâ Sâheb, commonly called Meer Sâheb, who fell at the battle of *Porto Novo*, in the year 1781. Hyder Ali Khân, who was married to his sister (the mother of Tippoo Sultan), is reported to have immediately conferred all the honors and appointments enjoyed by his brother-in-law upon his son, Kumrûddeen, then a young man, whom he, at the same time, committed in a very public manner to the especial care and favor of his cousin, Tippoo Sultan. The latter, however, would not appear to have had much confidence in him at any period of his reign. He was sometimes, indeed, ostensibly placed at the head of an army; but he was always under the direction of some more experienced person. Upon the death of the *Sultan*, the British Government, in conjunction with the *Nizám*, provided for Kumrûddeen Khân in the most liberal manner. He did not, however, long survive his cousin and master, dying very soon after he had taken possession of the *Jagire* bestowed upon him.
 
@@ -1459,7 +1462,7 @@ Meer Kumrûddeen Ali Khân was the son of Meer Ali Rizâ Sâheb, commonly called
 
 ### Letter 13: Turbiyut Ali Khân
 
-### LETTER XII.
+#### LETTER XII.
 
 *To* <span class="small-caps">Turbiyut Ali Khân</span>; *dated 11th Extra* <span class="small-caps">Ahmedy</span>. (*28th March.*)
 
@@ -1467,21 +1470,21 @@ Meer Kumrûddeen Ali Khân was the son of Meer Ali Rizâ Sâheb, commonly called
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 This letter furnishes one among numerous proofs, of the unceasing jealousy and dislike, with which the *Sultan* viewed any sort of communication between his territories and those of the British Government, or of the Nabob of the Carnatic. He anxiously laboured to keep all his neighbours (but particularly the English) in as complete ignorance as possible of every thing that passed in *Mysore*: and to this object he unreluctantly sacrificed whatever advantages, either his subjects or himself might have derived, from a free commercial intercourse between the countries.
 
 ### Letter 14: Mahommed Ghyâs
 
-### LETTER XIII.
+#### LETTER XIII.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span>; *dated* 18*th Extra* <span class="small-caps">Ahmedy</span>. (4*th April*.)
+#### *To* <span class="small-caps">Mahommed Ghyâs</span>; *dated* 18*th Extra* <span class="small-caps">Ahmedy</span>. (4*th April*.)
 
 You wrote stating, “that Râo Râsta had said, ‘that if the design “ ‘against *Nergúnd* were relinquished, the *Vakeel* [^fn-p0085-1] of the *Zemindár* “ ‘of that place was empowered to pay us a certain fine; by which “ ‘mode of adjustment we should not only be the gainer, but “ ‘appearances would likewise be saved with the world.’ ” It is known. You must say, in answer to Râo Râsta, that what we demand is, that not only the *Paishcush* due by the said *Zemindár* be discharged, but that he shall also make due compensation for the ravages he has committed within our dominions; and that, on this condition, we will wave our purpose of reducing the place.
 
 You further write, “that Râo Râsta had told you, ‘that you must “ ‘apply to have the amount of the arrears due for past years remitted “ ‘in specie, as bills would not be accepted by the bankers there.’ ” It is understood. We wrote before, and we now write again, to desire that Noor Mahommed Khân, who is well acquainted with all matters in that quarter, may be dispatched to the Presence. A verbal communication from him will best enable us to judge of the truth of their professions, and the rectitude of their proceedings, as well as to ascertain the extent of the *Durbár charges*; after which we can consider what is to be done. What more?
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 By “*Durbár charges*” is here meant the *douceur* to be paid to the Mahrattah ministers upon the conclusion of a settlement. This is a matter of course in the negociation of all treaties, and in the adjustment of differences between the native powers of India. Sometimes the presents, or largesses, made on these occasions, are, to a certain degree, reciprocal; but it is generally on the weaker, or yielding party of the two, that the chief burthen falls.
 
@@ -1489,9 +1492,9 @@ By “*Durbár charges*” is here meant the *douceur* to be paid to the Mahratt
 
 ### Letter 15: Kumrûddeen Khân
 
-### LETTER XIV.
+#### LETTER XIV.
 
-### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated* 19*th* *Extra* <span class="small-caps">Ahmedy</span>. (5*th* *April*.)
+#### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated* 19*th* *Extra* <span class="small-caps">Ahmedy</span>. (5*th* *April*.)
 
 <span class="small-caps">Your</span> two letters, dated the 14th and 16th instant, informing us of the junction of the *Sipahdár*, Mahommed Ali, with his *Kushoon*, have been received. What you write, respecting the audacity and contumacious conduct of the *Zemindár* of *Surhutty*, and your receipt of letters from Ghûlâm Hûsain and Ghûlâm Mohyûddeen, the *Killadár* of *Lukhmaiser*, on the subject of chastising the said *Zemindár*, is comprehended.
 
@@ -1499,9 +1502,9 @@ Notwithstanding the said fort is situated in your road, yet as you have no heavy
 
 ### Letter 16: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
 
-### LETTER XV.
+#### LETTER XV.
 
-### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span> ; *dated* 21*st* *Extra* <span class="small-caps">AHMEDY</span>. (7*th April*.)
+#### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span> ; *dated* 21*st*<br />*Extra* <span class="small-caps">AHMEDY</span>. (7*th April*.)
 
 <span class="small-caps">YOUR</span> letter of the 9th instant was received this day, and the whole of its contents are understood. The translation of our Persian letter,[^fn-p0087-1] which that friend,[^fn-p0087-2] of his own suggestion, made and sent to Râo Râsta, and a copy of which was enclosed for our information, was a highly judicious and commendable proceeding. What you say in so much detail, respecting the communications of Râo Râsta on the subject of *Nergúnd*, and [particularly] of his proposal that we should, for the present, accept, in the way of mulct, and as an adjustment [of the past], eighty thousand *rupees*, with an assurance of being paid hereafter, year by year, the established *Paishcush* of former times, is understood ; and, together with your account of his importunate instances for our raising the siege of the place, has been duly considered.
 
@@ -1515,7 +1518,7 @@ What you have stated so much at length, by desire of Râo Râsta, on the subject
 
 We hear that eight or ten thousand of their horse have crossed the *Kishna*, with hostile intentions against our army. Hitherto, notwithstanding their forgetting what they owe to our kindness, we have not in a single article broken the treaty [subsisting between the two governments] ; but if, in spite of the numberless favours we have bestowed upon them, and contrary to their solemn engagements, they become the aggressors, and proceed to improper lengths, it will then behove us to repel such aggression. After repulse and chastisement, there will no longer remain any appearances of good-will or amity.[^fn-p0088-4]
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It is not very clear what *translation* of the envoy's is alluded to in the beginning of the present dispatch (whether a letter to themselves, or of one to the address of Râo Râsta); nor is it worth while to offer any conjectures on this subject.
 
@@ -1529,21 +1532,21 @@ The Mahrattah government and Tippoo Sultan differed too widely, on the subject o
 
 ### Letter 17: Abdûl Hukeem Khân
 
-### LETTER XVI.
+#### LETTER XVI.
 
-### *To* *<span class="small-caps">Abdûl Hukeem Khân, Nabob of Sanore</span>**; dated 24th Extra* *<span class="small-caps">Ahmedy</span>*. *(10th April.)*
+#### *To* *<span class="small-caps">Abdûl Hukeem Khân, Nabob of Sanore</span>**; dated 24th Extra*<br />*<span class="small-caps">Ahmedy</span>*. *(10th April.)*
 
 <span class="small-caps">Bâboo Râo</span>, <span class="small-caps">Râm Râo</span>, and the other *Mútusuddies*, whom you deputed hither for the purpose of adjusting the accounts of your conditional *Jagire*,[^fn-p0090-1] have accordingly come to a settlement, by which it appears that there is justly due to us the sum of 38,40,785 *rupees*. Of this amount we have excused [you] (or abated) two *lacks* of *rupees* : for the remaining 36,40,785 *rupees* we have received the engagements of the aforesaid *Mútusuddies*, which we have lodged with our bankers, who are now, together with the said *Mútusuddies*, dispatched to you. Be expeditious in putting the payment of this money in train, and in sending back the bankers to us. It will not be well, that any delay, or procrastination, should take place in this matter. You must likewise discharge the separate obligation for ten *lacks* of *rupees*, entered into by that friend’s *Mútusuddies* and ratified by you.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Abdûl Hukeem Khân was a *Patan* chief, who possessed the principality of *Sânore*, *Shânoor*, or *Savanore*,[^fn-p0090-2] called here by Tippoo Sultan a *Jagire Mushrooteh* ; by which is meant, a *Jagire* held under specific stipulations, to distinguish it from a free *Jagire* or *Jagire* in ordinary. This principality was compelled to submit to the superior power of Hyder Ali Khân in the year 1764, when Abdûl Hukeem agreed to pay to the *Mysore* chieftain a certain proportion of his annual revenue. A double alliance by marriage was, at the same time, concluded between them ; Hyder bestowing one of his daughters upon the eldest son of the *Patan*, who, in his turn, gave one of his to Kureem Saheb, the second son of Hyder. This connexion, however, was not productive of any advantage to the *Patan* ; who, at length, revolted from Tippoo, and sought the protection of the Mahrattahs, to whom the district of *Shânoor*, including *Bankypoor*, was finally ceded, by the partition treaty of 1792 ; when its dispossessed chieftain became wholly dependent on the government of *Poonah*.[^fn-p0090-3]
 
 ### Letter 18: Burhânûddeen
 
-### LETTER XVII.
+#### LETTER XVII.
 
-### *To* <span class="small-caps">Burhânûddeen</span> ; *dated 22d Extra Ahmedy.* (8*th April.*)
+#### *To* <span class="small-caps">Burhânûddeen</span> ; *dated 22d Extra Ahmedy.* (8*th April.*)
 
 <span class="small-caps">Your</span> letter has been received, and its contents are duly understood.
 
@@ -1551,7 +1554,7 @@ You write, “ that having reduced your baggage as much as you “ could, you we
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It appears from this, and several other letters, that Bûrhânûddeen (as well as Kumrûddeen), had a council of war assigned him, without whose advice and concurrence he was not at liberty to take any material step. His council, at this time, was composed of Dileer Dil Khân, Syed Humeed, and Syed Ghûfâr, three *Sipahdârs*, or commanders of *Kushoons*, whose military reputation stood very high, and who possessed a considerable share of the *Sultan’s* confidence. Syed Ghûfâr fell with his master in defending *Seringapatam*. Of the fate of the other two commanders I am uninformed.
 
@@ -1559,9 +1562,9 @@ It appears from this, and several other letters, that Bûrhânûddeen (as well a
 
 ### Letter 19: Dileer Dil Khân / Syed Humeed / Syed Ghûfâr
 
-### LETTER XVIII.
+#### LETTER XVIII.
 
-### *To* <span class="small-caps">Dileer</span> <span class="small-caps">Dil</span> <span class="small-caps">Khân</span>, <span class="small-caps">Syed</span> <span class="small-caps">Humeed</span>, *and* <span class="small-caps">Syed</span> <span class="small-caps">Ghûfâr</span> ; *same date*. (8*th April*.)
+#### *To* <span class="small-caps">Dileer</span> <span class="small-caps">Dil</span> <span class="small-caps">Khân</span>, <span class="small-caps">Syed</span> <span class="small-caps">Humeed</span>, *and* <span class="small-caps">Syed</span> <span class="small-caps">Ghûfâr</span> ; *same<br />date*. (8*th April*.)
 
 <span class="small-caps">Consulting</span> together on the contents of our written instructions to you, committing the result of your deliberations to writing, and confiding in the divine goodness, you will prepare to approve your fidelity and devotion to us. You must do nothing without holding counsel of each other. Hereafter, what is at present concealed by the curtain of invisibility will be displayed. In this matter there is no room for hesitation or remissness.[^fn-p0092-1]
 
@@ -1569,9 +1572,9 @@ It appears from this, and several other letters, that Bûrhânûddeen (as well a
 
 ### Letter 20: Râjah Râm Chundur
 
-### LETTER XIX.
+#### LETTER XIX.
 
-### *To* <span class="small-caps">Râjah</span> <span class="small-caps">Râm</span> <span class="small-caps">Chundur</span> ; *dated* 23*d Extra* <span class="small-caps">Ahmedy</span>. (9*th April*.)
+#### *To* <span class="small-caps">Râjah</span> <span class="small-caps">Râm</span> <span class="small-caps">Chundur</span> ; *dated* 23*d Extra* <span class="small-caps">Ahmedy</span>. (9*th April*.)
 
 Two letters from you have been received. You write, “ that vermillion is not procurable within our dominions, and is only to be got at “ Pondicherry, &c.” This being the case, you must send money, and buying it at those ports, dispatch it to the Presence. There is no necessity for sending [thither] goods [or merchandize] to barter for it.
 
@@ -1579,7 +1582,7 @@ You further write, “ that the *Serishtedárs*[^fn-p0093-1] of ———,[^fn-p
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The preceding letter affords a fresh proof of the unremitting jealousy and dislike with which the *Sultan*, at this time, viewed any intercourse between his subjects and those of the neighbouring countries, but particularly the English possessions. He here objects to the exportation of the produce of *Mysore* even to *Pondicherry*; not so much, probably, on account of its being an European settlement, as because no trade could be carried on with it, that would not almost necessarily lead to some commercial intercourse with the *Carnatic*, through part of which the trade in question must unavoidably pass. Rather than incur this risk, we see him sending away the specie of his dominions for the purchase of the commodities he required, and which he could, no doubt, have obtained on more advantageous terms by barter. At a subsequent period he would appear to have acquired rather juster notions of what was essential to the prosperity of his country; having, in the year 1794, issued some commercial regulations, tending to encourage a limited trade with his neighbours. Still, however, his natural distrust of those neighbours predominated ; ultimately superseding, or rendering null, the expectations which seemed to have been held out by the edicts referred to.[^fn-p0094-1]
 
@@ -1589,9 +1592,9 @@ My information does not enable me to say, how far the *Sultan* fulfilled the pro
 
 ### Letter 21: Kumrûddeen Khân
 
-### LETTER XX.
+#### LETTER XX.
 
-### *To* <span class="small-caps">Kumrûddeen Khân</span> ; *same date. (9th April.)*
+#### *To* <span class="small-caps">Kumrûddeen Khân</span> ; *same date. (9th April.)*
 
 <span class="small-caps">Your</span> letter, informing us of your arrival at *Koodry-hál*,[^fn-p0094-2] together with its enclosure, has been received, and its contents are understood. You must proceed with the force under your command, and encamp near Bûrhânûddeen. Last night, whatever was necessary to be written, was fully written : to that dispatch we therefore refer you.[^fn-p0094-3] The enemy’s force is inconsiderable. It is not to be supposed that they will presume to look at our army.[^fn-p0094-4]
 
@@ -1599,9 +1602,9 @@ My information does not enable me to say, how far the *Sultan* fulfilled the pro
 
 ### Letter 22: Governor of Pondicherry
 
-### LETTER XXI.
+#### LETTER XXI.
 
-### *To the* <span class="small-caps">Governor</span> *of* <span class="small-caps">Pondicherry</span> ; *same date. (9th April.)*
+#### *To the* <span class="small-caps">Governor</span> *of* <span class="small-caps">Pondicherry</span> ; *same date. (9th April.)*
 
 [<span class="small-caps">After</span> compliments]. You write “ that the *Bouparies*[^fn-p0094-5] of the port “ of *Pondicherry*, who come into our dominions to purchase articles of “ merchandize, are, on their return with their goods, molested by the “ *Taalûkdár* of *Selim*, who will not suffer them to proceed; in “ consequence of which, you request of us to direct him to let the aforesaid “ merchandize pass.” It is known : and, agreeably to your desire, we enclose an order to the *Taalûkdár* of *Selim*, commanding him to release the goods in question. Let the same be forwarded to him.
 
@@ -1609,7 +1612,7 @@ In future, when you dispatch *Bouparies* into our dominions to purchase goods, y
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 As a personal compliment to the Governor of *Pondicherry* (whom he probably, at this time, wished to conciliate) we here see the *Sultan* relaxing, in some degree, the severity of the regulations spoken of under the nineteenth letter. It is most likely, however, that the concession was only temporary, and that the French governor was frequently obliged to renew his present application.
 
@@ -1617,7 +1620,7 @@ The allusion to *strangers* is, no doubt, pointed at the *English*, and the subj
 
 ### Letter 23: KUMRÛDDEEN KHÂN
 
-### LETTER XXII.
+#### LETTER XXII.
 
 *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span>; *dated* 24*th Extra* <span class="small-caps">AHMEDY</span>. (10*th April*.)
 
@@ -1631,15 +1634,15 @@ You write that the enemy, to the number of sixteen thousand horse and sixteen th
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The lenity with which the *Sultan* here notices the remissness of the *Sipahdár*, Mahommed Ali, is the more remarkable, as it was his general practice to animadvert, with the greatest severity, on every instance of neglect or disobedience of his orders, and particularly of his military regulations. His moderation, on the present occasion, might possibly have arisen from something like a personal partiality towards the offending officer; but it may also have had no other foundation than caprice. From whatever cause it proceeded, similar instances will be rarely met with. It is true, that the conduct of the *Sipahdár* is spoken of with strong disapprobation; but this still falls very short of the usual measure of the *Sultan’s* anger on such occasions. The *inexperience* imputed to the officer in question, rather countenances the idea of his having been prematurely raised, through private favor, to the important command he enjoyed. In the regular course, a *Sipahdár*, or brigadier (and especially in an army so actively employed as Tippoo Sultan’s generally was) could not be *inexperienced*. Still, however, no distinct traces are observable in the written documents, nor did I ever hear a report of the *Sultan’s* being influenced by favorites of any kind.
 
 ### Letter 24: Râjah Râm Chundur
 
-### LETTER XXIII.
+#### LETTER XXIII.
 
-### *To* <span class="small-caps">Râjah Râm Chundur</span> ; *dated 24th Extra* *<span class="small-caps">Ahmedy</span>*. (*10th April.*)
+#### *To* <span class="small-caps">Râjah Râm Chundur</span> ; *dated 24th Extra* *<span class="small-caps">Ahmedy</span>*. (*10th April.*)
 
 Two letters have been received from you, and their contents are understood.
 
@@ -1651,7 +1654,7 @@ It is known. A passport for the persons who are to come from the *Páyen-Ghaut* 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The *Sultan* would not appear to have had any objections to the entrance of strangers into *Mysore*, provided they came thither for the purpose of settling ; settling; but it was extremely difficult for any, who had found admission into his dominions, to quit them again. That he should have insisted on the detention of Râm Chundur’s intended son-in-law, in the event of the latter being brought from the *Carnatic*, is not to be wondered at, considering the distrust with which he habitually viewed all intercourse between that country and his own. To have allowed the son-in-law, and perhaps the daughter, of a person of the rank and authority of Râm Chundur, to reside in the territories, and be liable to the influence, of the power of whom he was most jealous and apprehensive, would have been entirely at variance with those maxims of policy, which constantly governed his conduct in regard to the English.
 
@@ -1659,9 +1662,9 @@ The *Sultan* would not appear to have had any objections to the entrance of stra
 
 ### Letter 25: Kumrûddeen Khân
 
-### LETTER XXIV.
+#### LETTER XXIV.
 
-### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated 26th Extra* <span class="small-caps">Ahmedy</span>. (*12th April.*)
+#### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated 26th Extra* <span class="small-caps">Ahmedy</span>. (*12th April.*)
 
 <span class="small-caps">Your</span> letter has passed under our view; and what you have written, respecting your having withdrawn from before *Nergúnd*, and of Bûrhânûddeen’s having occupied, with his army, a position on the banks of the *Punáhileh*,[^fn-p0099-1] is understood. It is fit that you also speedily join the army; and, according to our former directions, apply yourself to the chastisement of the enemy
 
@@ -1671,9 +1674,9 @@ What you say, regarding the reduction you have made in the baggage of your troop
 
 ### Letter 26: Bûrhânûddeen
 
-### LETTER XXV.
+#### LETTER XXV.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *same date*. (*12th April.*)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *same date*. (*12th April.*)
 
 <span class="small-caps">Your</span> letter has been received. What you state, respecting your having withdrawn from the trenches,[^fn-p0099-2] and taken up a position with your army on the banks of the *Punáhileh*, is understood. You must give orders to the predatory cavalry to harass the front and rear of the enemy, and to seize on all the horses they can; the present being the proper time for collecting together and obtaining horses.
 
@@ -1683,9 +1686,9 @@ Nursia, the *Taalúkdár* of *Nugr*, has sent you, by our direction, forty thous
 
 ### Letter 27: Kumrûddeen Khân
 
-### LETTER XXVI.
+#### LETTER XXVI.
 
-### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated* 28*th Extra* *<span class="small-caps">Ahmedy</span>*. (14*th April*.)
+#### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated* 28*th Extra* *<span class="small-caps">Ahmedy</span>*. (14*th April*.)
 
 <span class="small-caps">Your</span> letter of the 25th Extra *Ahmedy*, (11th April), informing us of your arrival, with the forces under your command, at *Nergúnd*, and of your interview with Bûrhânûddeen, has passed under our view, and the particulars contained in it are fully revealed to us. Uniting yourself to the division belonging to Bûrhânûddeen, you must advance in open day against the enemy, and attacking them with vigour, chastise them in a manner that shall deter them from confronting you again.
 
@@ -1693,15 +1696,15 @@ Nursia, the *Taalúkdár* of *Nugr*, has sent you, by our direction, forty thous
 
 ### Letter 28: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER XXVII.
+#### LETTER XXVII.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *same date* (14*th April*.)
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *same date*<br />(14*th April*.)
 
 <span class="small-caps">We</span> have received your letter, and its contents are understood. In conformity with the wishes of Râo Râsta, the siege of *Nergúnd* has been relinquished, and our victorious army has encamped at the distance of two or three *Coss* from thence. You must state to Râo Râsta, that a mulct is not what we want from the *Zemindár*, but due compensation for the injury sustained by our dominions [in consequence of his depredations], and payment of the arrears due by him for [several] years past.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The movements and near approach of the Mahrattah army, which had now advanced in considerable force to the support of the *Zemindár* of *Nergúnd*, appear to have rendered it inexpedient to prosecute the siege of that place, which was, therefore, relinquished for the present; the *Sultan*, at the same time, taking credit for having, in this instance, yielded to the wishes of Râo Râsta; who, however, was not to be so easily duped, as may be seen by Letter XXXVII to Mahommed Ghyâs. No material progress could have been made in the siege at the time it was relinquished.
 
@@ -1709,9 +1712,9 @@ The movements and near approach of the Mahrattah army, which had now advanced in
 
 ### Letter 29: BÛRHÂNÛDDEEN
 
-### LETTER XXVIII.
+#### LETTER XXVIII.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated 2d Regular* <span class="small-caps">AHMEDY</span>. (*17th April*).
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated 2d Regular* <span class="small-caps">AHMEDY</span>. (*17th April*).
 
 <span class="small-caps">YOUR</span> encamping at *Misrycótah*, as well as your dispatching of the *Kázy* of *Toorkul* to the Presence, was proper. According to your request, *Purwánehs*[^fn-p0101-1] are enclosed for the *Aumils*[^fn-p0101-2] of the several *Taalúks*, and for the *Kilaadárs*, directing them to furnish you with intelligence of the enemy.
 
@@ -1719,9 +1722,9 @@ Let loose the plundering cavalry, and other predatory troops, upon the enemy's a
 
 ### Letter 30: KUMRÛDDEEN KHÂN
 
-### LETTER XXIX.
+#### LETTER XXIX.
 
-### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span> ; *dated 4th Regular* <span class="small-caps">AHMEDY</span>. (*19th April*).
+#### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span> ; *dated 4th Regular* <span class="small-caps">AHMEDY</span>. (*19th April*).
 
 <span class="small-caps">YOUR</span> letter, proposing “ to open[^fn-p0102-1] trenches against *Nergúnd*, and “ applying for *Purwánehs* to the *Aumils* in the vicinity [of your camp] “ to collect fascines and scaling ladders,[^fn-p0102-2] for the attack and reduction of “ *Rámdoorg*, and the other forts situated on that road,” has been received, and is understood. You must not, at present, lay siege to *Nergúnd*; but pursuing the army of the enemy wherever it may be, drive it beyond the *Kishna*, and deal with it in such a manner, as shall deter it from facing our troops again.
 
@@ -1733,9 +1736,9 @@ Describe particularly, for our information, what sort of a place *Rámdoorg* is.
 
 ### Letter 31: BÛRHÂNÛDDEEN
 
-### LETTER XXX.
+#### LETTER XXX.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated 8th Regular* <span class="small-caps">AHMEDY</span>. (*23d April*).
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated 8th Regular* <span class="small-caps">AHMEDY</span>. (*23d April*).
 
 The army of the enemy is encamped at the distance of a gun-shot from *Rámdoorg*. In conjunction with Meer Kumrûddeen Ali Khân, lead our victorious army against it, and chastise it in such a manner, as shall *break its loins*, and render it incapable of facing you again. You must take fifteen days’ grain with you. The aforesaid *Khán* is indisposed; you will, therefore, dispatch *Kishna Pundit*, the physician attached to that dear son,[^fn-p0103-1] to administer to him. What more?
 
@@ -1743,7 +1746,7 @@ The army of the enemy is encamped at the distance of a gun-shot from *Rámdoorg*
 
 ### Letter 32: Bûrhânûddeen
 
-### LETTER XXXI.
+#### LETTER XXXI.
 
 *To the same; dated 9th Regular* *<span class="small-caps">AHMEDY.</span>* (*24th April.*)
 
@@ -1751,7 +1754,7 @@ Do you, our dear son, repair to our beloved son, Meer Kumrûddeen Ali Khân, and
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Although the authority vested in Bûrhânûddeen, on the present occasion, appears to have been very limited (Kumrûddeen, even when actually united with him, receiving his orders, on various occasions, directly from the *Sultan* himself) yet there is some reason to believe, that he was considered as the principal commander of the forces opposed, at the commencement of this war, to the Mahrattah army.[^fn-p0103-2] The circumstance of his being directed, in the foregoing letter, to repair to the camp of Kumrûddeen, for the purpose of consulting with the latter on the operations of the campaign, does not at all invalidate this opinion; since the order in question is sufficiently accounted for by the indisposition of Kumrûddeen, noticed in Letter XXX: besides which, it will be seen, by the following Letter, that it was the express wish of the *Sultan*, that they should keep up an intercourse of mutual visits. But, however this may have been, it is certain, that a considerable jealousy subsisted between these two commanders, of which some proofs will appear in the sequel.
 
@@ -1759,9 +1762,9 @@ Although the authority vested in Bûrhânûddeen, on the present occasion, appea
 
 ### Letter 33: KUMRÛDDEEN
 
-### LETTER XXXII.
+#### LETTER XXXII.
 
-### *To* <span class="small-caps">KUMRÛDDEEN</span>; *dated 9th Regular* <span class="small-caps">AHMEDY</span>. (*24th April.*)
+#### *To* <span class="small-caps">KUMRÛDDEEN</span>; *dated 9th Regular* <span class="small-caps">AHMEDY</span>. (*24th April.*)
 
 <span class="small-caps">WHAT</span> you write, respecting the flight of the enemy’s army, and of horses taken by our troops, as also your application for *Purwáneh*s to Ibrâheem Ali Khân and Râjoo Pundit, directing them to dispatch supplies to you,[^fn-p0104-1] is understood. With regard to the horses, you must take them [from the captors,] at a valuation;[^fn-p0104-2] and, after placing such as are strong and in good condition in our stables, distribute the rest among the *Silahdárs*,[^fn-p0104-3] to be mounted by men out of employ. You will, in conjunction with Bûrhânûddeen and the other [commanders], chastise the enemy in such a manner, that they may not be suffered to take breath before they reach the river *Kishna*. Having thus soundly beaten them, you will again encamp before *Rámdoorg*. You are also, from time to time, to repair to the quarters of Bûrhânûddeen; and to act in concert with him, and all the rest of the commanders, in whatsoever relates to occupying the necessary positions, and to the opening of the trenches. On the other hand, if you should, upon any occasion, find it necessary to do so, you will send to Bûrhânûddeen to come to you. The latter, as well as the *Sipahdárs* attached to him, has been instructed to the same effect.[^fn-p0105-1] Ibrâheem Ali Khân and Râjoo Pundit have likewise been written to, according to your desire.
 
@@ -1769,9 +1772,9 @@ Although the authority vested in Bûrhânûddeen, on the present occasion, appea
 
 ### Letter 34: Bûrhânûddeen
 
-### LETTER XXXIII.
+#### LETTER XXXIII.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated* 10*th Regular* <span class="small-caps">Ahmedy</span>. (25*th April*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated* 10*th Regular* <span class="small-caps">Ahmedy</span>. (25*th April*.)
 
 <span class="small-caps">Your</span> letter, reporting the sickness of Meer Kumrûddeen Ali Khân, and containing an application for two *Yoonány* (or Greek) physicians,[^fn-p0105-2] and some *Telingy* doctors, to attend him, has been received, and is understood. Let the said Khân be attended by the physician Kishna Pundit, who is with you ; and write to Abdûl Hukeem Khân,[^fn-p0105-3] to desire he will send a doctor from thence.[^fn-p0105-4] These two, being appointed to administer to the said Khân, must be so strictly enjoined on the occasion, that his restoration to health may speedily be effected.[^fn-p0105-5]
 
@@ -1779,7 +1782,7 @@ Enclosed is an order to the *Kilaadár* of *Dhárwár*, where there are a number
 
 ### Letter 35: Kumrûddeen
 
-### LETTER XXXIV.
+#### LETTER XXXIV.
 
 *To* <span class="small-caps">Kumrûddeen</span> ; *dated* 14*th Regular* <span class="small-caps">Ahmedy</span>. (29*th April*.)
 
@@ -1789,15 +1792,15 @@ You and Bûrhânûddeen must live together in harmony, and not thwart or oppose 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It is abundantly evident from the foregoing letter (and will appear still more from some others that follow) that no very good understanding subsisted between the cousin and brother-in-law of the *Sultan* ; whose admonitions, on the occasion, being mostly addressed to Kumrûddeen, it may, from thence, be inferred, that the fault was chiefly on the side of the latter ; who might probably think that his nearer affinity to the *Sultan*, as well as the services of his father, gave him a claim to superior consideration.
 
 ### Letter 36: RÂJAH RÂM CHUNDUR
 
-### LETTER XXXV.
+#### LETTER XXXV.
 
-### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span> ; *same date. (29th April.)*
+#### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span> ; *same date. (29th April.)*
 
 <span class="small-caps">YOUR</span> two letters have been received. What you write, respecting the excuses made by the manufacturers of the district [under you] for declining to weave the stuffs we require, has excited our astonishment ; we therefore direct, that they be compelled, by menaces, to prepare the number of pieces required, with the utmost expedition, and agreeably to the pattern [heretofore] sent. If, notwithstanding your injunctions and menaces, they persist in their false pretexts and disobedience, they must be well flogged.
 
@@ -1805,7 +1808,7 @@ What you write, regarding the affair of the *Hurkâreh*[^fn-p0107-1] Râmâ, who
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Revolting as the idea of *flogging* a body of weavers, for being averse to undertake a fabric, with which they were probably unacquainted, or which they might not be able to execute without detriment to their ordinary occupations, must appear to every English reader, we are obliged, in fairness to Tippoo Sultan, to acknowledge, that similar acts of oppression and violence are, by no means, uncommon, under the native governments of India. Still, however, such acts usually proceed from subordinate officers, or persons exercising, and perhaps abusing, delegated power ; power; and rarely, if ever, distinctly and immediately, as in the instance before us, from the sovereign himself. Thus the evil, generally speaking, is to be traced to the despotic nature of the government; while, in the case under consideration, it may justly be referred, in a great measure, to the personal character of the ruler.
 
@@ -1815,9 +1818,9 @@ It is impossible not to be struck, in the foregoing letter, by the sudden transi
 
 ### Letter 37: Meer Kumrûddeen / Bûrhânûddeen
 
-### LETTER XXXVI.
+#### LETTER XXXVI.
 
-### *To* <span class="small-caps">Meer Kumrûddeen</span> *and* <span class="small-caps">Bûrhânûddeen</span>; *dated 16th Regular* <span class="small-caps">Ahmedy</span>. (*1st May.*)
+#### *To* <span class="small-caps">Meer Kumrûddeen</span> *and* <span class="small-caps">Bûrhânûddeen</span>; *dated 16th Regular*<br /><span class="small-caps">Ahmedy</span>. (*1st May.*)
 
 Two letters from you have passed under our view, and the particulars therein stated are duly perceived. With respect to the war which you two are conducting in conjunction with the three *Sipahdârs*, (that is to say, Syed Humeed, Syed Ghûfâr, and Shaikh Unser), all of them prudent and intelligent men, our desire is, that acting in concert together, you should pursue the object of chastising the enemy with the utmost vigor and sagacity, and in an effectual and glorious manner: accordingly, we have transmitted strict orders to this effect to the aforesaid *Sipahdárs*; who will, in consequence, be obedient to you, and co-operate on all occasions with you.
 
@@ -1833,7 +1836,7 @@ The cavalry attached to you have been very remiss in skirmishing and marauding, 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The present letter is somewhat at variance with the thirty-second, on the subject of horses captured from the Mahrattahs; since, from the latter, it would appear, as if some success had attended the *Sultan's* army in this respect, whereas he here complains of the enemy's having been suffered to escape, without “any horses” having been taken from them. It is probable, that the first report of the commanders, on this head, did not descend to particulars; and that, when they subsequently stated the specific number of horses actually taken, the *Sultan* might have been disappointed at the result; and, under this impression, have been led to under-rate the little that had been done. The great solicitude which he betrays for procuring horses, would, of course, enhance his disappointment on the occasion.
 
@@ -1841,9 +1844,9 @@ The present letter is somewhat at variance with the thirty-second, on the subjec
 
 ### Letter 38: MAHOMMED GHYÂS
 
-### LETTER XXXVII.
+#### LETTER XXXVII.
 
-### *To* <span class="small-caps">MAHOMMED GHYÂS</span>; *same date*. (*1st May*.)
+#### *To* <span class="small-caps">MAHOMMED GHYÂS</span>; *same date*. (*1st May*.)
 
 <span class="small-caps">YOUR</span> letter, dated the last day [or 29th] of Extra *Ahmedy*,[^fn-p0110-1] has passed under our view, and its purport is duly understood. An answer has been written, on all points, in our *Hindivy* letter, to which you are referred for particulars.
 
@@ -1853,7 +1856,7 @@ You write, “ that Râo Râsta observed to you, on occasion of the “ siege of
 
 It is known. We have not deviated a hair’s breadth from the suggestions of Râo Râsta: nor, though we have raised the siege [of *Nergúnd*,] has there been any deficiency,[^fn-p0111-3] on our part, in chastising the enemy’s army. This is a fact of such abundant notoriety as not to require any other evidence. What more?
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It is not easy to conceive, what motive the *Sultan* could have for addressing his agents on any occasion in the *Hindivÿ*, rather than in the *Persian* language; in which last, it may be safely presumed that he usually conveyed his written orders to such of his servants as understood it. It could not be with a view to secrecy; since a *Hindivÿ* letter, supposing it to fall into improper hands, would at least be as generally intelligible as a *Persian* one. Possibly the *Hindivÿ* letter, referred to in the present instance, might have been dispatched, for the express purpose of being communicated to Râo Râsta; though, in this case, some intimation of that design would, it may be thought, have been given in the *Persian* letter. But whatever the reason of the proceeding under consideration might be, it is proper to observe, that it was not confined to the present occasion, or to the persons of the envoys at *Poonah*; since other examples of the practise in question will be met with in the course of this work.
 
@@ -1865,15 +1868,15 @@ I am not sufficiently acquainted with the details of this war, to be enabled to 
 
 ### Letter 39
 
-### LETTER XXXVIII.
+#### LETTER XXXVIII.
 
-### *To the same; same date.* (1st May.)
+#### *To the same; same date.* (1st May.)
 
 <span class="small-caps">What</span> you write, regarding the variations of the temperature[^fn-p0113-1] in your quarter, is revealed. Our physicians have thoroughly ascertained the proper mode of treating[^fn-p0113-2] the diseases in question. The first thing to be done is, to draw off, by bleeding, all the corrupt humours; by which means an effectual improvement will be produced in the general constitution of the patient. The body of the diseased party being thus completely brought under subjection,[^fn-p0113-3] the next step must be to expel from it every remaining seed of the distemper, administering, in the meanwhile, whatever medicines may be found necessary. What more ?
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 This curious enigmatical letter is sufficiently intelligible. The unwholesome *temperature* of *Poonah*, alludes to the hostile disposition towards the *Sultan*, which had latterly superseded at that Court the amicable sentiments, formerly entertained for himself and his father by the Mahrattah rulers. By his *physicians*, the *Sultan* means his counsellors, or perhaps, the commanders of his army. The *disease* to be *cured* is, of course, the enmity of the Mahrattahs; and the mode of *cure*, that which he had begun to pursue ; namely, an active war against them. The remaining allusions are equally obvious ; and, indeed, so much so, that it can hardly be imagined that the *Sultan* proposed to disguise his instructions under this metaphorical cypher, which could not fail to be immediately understood by any person, knowing who the writer, or even the party addressed, was : it is, therefore, most probable, that nothing more was intended by it, than a display of the writer’s ingenuity.
 
@@ -1881,9 +1884,9 @@ This curious enigmatical letter is sufficiently intelligible. The unwholesome *t
 
 ### Letter 40: Noor Mahommed Khân
 
-### LETTER XXXIX.
+#### LETTER XXXIX.
 
-### *To* <span class="small-caps">Noor Mahommed Khân</span> ; *same date.* (*1st May.*)
+#### *To* <span class="small-caps">Noor Mahommed Khân</span> ; *same date.* (*1st May.*)
 
 <span class="small-caps">The</span> letter you sent us has passed under our view, and its contents are understood. Whatever was necessary to be said, has been written at length to Mahommed Ghyâs ; our letter to whom will inform you [of our sentiments], agreeably to which you will act.
 
@@ -1891,9 +1894,9 @@ This curious enigmatical letter is sufficiently intelligible. The unwholesome *t
 
 ### Letter 41: Bûrhânûddeen
 
-### LETTER XL.
+#### LETTER XL.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated 19th Regular* <span class="small-caps">Ahmedy</span>. (*4th May.*)
+#### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated 19th Regular* <span class="small-caps">Ahmedy</span>. (*4th May.*)
 
 <span class="small-caps">It</span> has been represented to us, that the garrison of *Râmdoorg* proposed to capitulate, but that you intimidated them [by your answer], and thereby threw away the favorable opportunity [or the advantage thus offered]. Where was the propriety of this [proceeding]? It is well. You must still encamp before the said fortress ; and sending for battering guns from *Dhârwâr*, and collecting together the materials for trenches, by these means strike such a terror into the garrison as may induce them to submit : upon their doing which, you may permit them to march out of the fort with their arms. After putting a proper garrison in the place, you are to direct such of the enemy as are included in the capitulation, to be conducted, with their arms, beyond the *Kishna*.
 
@@ -1905,7 +1908,7 @@ N. B. A letter of the same tenor and date was written to Kumrûddeen.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The foregoing letter furnishes a clear proof, that whatever the degree of general confidence reposed in Bûrhânûddeen by the *Sultan* might be, the latter, nevertheless, kept spies upon his brother-in-law; who were encouraged to animadvert freely on his conduct; and to whose representations considerable attention was paid. Indeed it appears, from several of the documents among the state papers found at *Seringapatam*, that the *Sultan* had organized a very extensive system of *espionage* throughout his dominions, and in almost every department of his government.
 
@@ -1915,7 +1918,7 @@ His envoys at foreign courts, his military commanders, his governors of forts an
 
 ### Letter 42
 
-### LETTER XLI.
+#### LETTER XLI.
 
 *To the same ; dated* 20*th Regular* *<span class="small-caps">AHMEDY</span>*. (5*th May*.)
 
@@ -1933,14 +1936,14 @@ N. B. A letter of the same tenor and date was dispatched to Kumrûddeen.
 
 ### Letter 43: GHÛLÂM AHMED
 
-### LETTER XLII.
+#### LETTER XLII.
 
 *To* <span class="small-caps">GHÛLÂM AHMED</span>, *Kázy* *of* *<span class="small-caps">NUGR</span>* ; *dated* 24*th Regular* *<span class="small-caps">AHMEDY</span>*.  
 (9*th May*.)
 
 <span class="small-caps">YOUR</span> letter has been received. You have written, that nine Frenchmen, together with their captain, had embraced the faith, and that that the said captain humbly hoped to be honored with the command of of a *Risála* of [^fn-p0117-1] *Ahmedies*. It is known : and our pleasure is, that ten *rupees* be given to each of them, and that they be all dispatched, under an escort [a safeguard], to the Presence, where, on their arrival, the aforesaid captain shall receive the honor he solicits. Peremptory orders for the payment of the above stipends, and for furnishing the necessary escort, have been sent to the *Kilaadár* of *Nugr*.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The *Ahmedies* here mentioned were a military corps, composed of the converts (whether forced or voluntary) to the Mahommedan religion. It was instituted by Tippoo Sultan, with whom it seems to have been a favorite establishment; of the origin of which he himself gives the following curious account in the Memoirs already referred to :
 
@@ -1952,9 +1955,9 @@ Thus far the *Sultan*. Of these sixty thousand Christians, fifteen thousand may 
 
 ### Letter 44: MEER KUMRÛDDEEN KHÂN
 
-### LETTER XLIII.
+#### LETTER XLIII.
 
-### *To* <span class="small-caps">MEER KUMRÛDDEEN KHÂN</span> ; *dated 25th Regular* <span class="small-caps">AHMEDY</span>. (*10th May.*)
+#### *To* <span class="small-caps">MEER KUMRÛDDEEN KHÂN</span> ; *dated 25th Regular* <span class="small-caps">AHMEDY</span>.<br />(*10th May.*)
 
 <span class="small-caps">YOUR</span> letter has passed under our view, and its contents are understood. You write, “ that the *Byde horse*,[^fn-p0120-2] out of employ, have “ committed great excesses and depredations in the *Sircar’s* dominions.” It is known. You must issue the most peremptory orders [to these people] to carry their ravages into the Mahrattah territories, bringing away from thence all the horses they can make booty of, and desisting [for the future] from their depredations in our country.
 
@@ -1964,7 +1967,7 @@ You and Bûrhânûddeen must remain united in your councils; and collecting toge
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 If some disagreement had not recently arisen between Bûrhânûddeen and Kumrûddeen, it may, at least, be inferred from the second paragraph of the foregoing letter, that the *Sultan* was in apprehension of it, and, therefore, judged it necessary to repeat so soon his former exhortations to harmony. It may be doubted, however, whether these admonitions produced the desired effect; since, not long after the date of the present dispatch, fresh symptoms of discord between the rival commanders are manifested.
 
@@ -1974,9 +1977,9 @@ It is not very clear, what the *Sultan* means, by enjoining Kumrûddeen “never
 
 ### Letter 45: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER XLIV.
+#### LETTER XLIV.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated 29th Regular* <span class="small-caps">Ahmedy</span>. (14*th May*.)
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated 29th<br />Regular* <span class="small-caps">Ahmedy</span>. (14*th May*.)
 
 <span class="small-caps">Your</span> two letters, of the 11th and 15th of *Ahmedy*, have been received, and the account of your conferences with the *Paishkár*[^fn-p0122-1] of Râo Râsta is understood.
 
@@ -1990,7 +1993,7 @@ Your account of receipts and disbursements is duly arrived. A remittance will, h
 
 ### Letter 46: KUMRÛDDEEN KHÂN
 
-### LETTER XLV.
+#### LETTER XLV.
 
 *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span> ; *dated* 1*st* <span class="small-caps">BEHÁRY</span>. (15*th May*).
 
@@ -2000,13 +2003,13 @@ That light of our eyes[^fn-p0123-2] has always been a mere child :[^fn-p0123-3] 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The foregoing letter, at the same time that it affords a pretty strong proof of the slight estimation in which the *Sultan* held the talents of Kumrûddeen, also shews (what is further evinced in many other instances) that in the occasional expression of his disapprobation, he was not apt to be restrained by any consideration for the rank of the person incurring it; dealing out the same measure of asperity to the highest as to the lowest officer or servant, and making no distinction, in this respect, in favour even of his own near relation. The lofty tone, which he assumes in speaking of his orders, is likewise highly illustrative of his imperious temper, and of his quick sensibility of whatever affected his authority; which, it is difficult to believe, should have been actually insulted, in the manner that would seem to be indicated by the close of the second paragraph. Daring, indeed, must the *Aumil* have been, who could, on any pretext, not simply refuse or with-hold obedience to a *Purwáneh* of this prince, but contumaciously *return* it to the person delivering or sending it: for such is the construction to which the passage in question is liable. But whatever the fact may have been, no farther trace of, or allusion to it, is to be met with in the correspondence.
 
 ### Letter 47
 
-### LETTER XLVI.
+#### LETTER XLVI.
 
 *To the same; dated* 3*d* *<span class="small-caps">Beháry</span>*. (17*th May.*)
 
@@ -2020,7 +2023,7 @@ We enclose an order for the shot, &c. required, to the *Kilaadár* of *Dhárwár
 
 ### Letter 48: Mahommed Ushruf
 
-### LETTER XLVII.
+#### LETTER XLVII.
 
 *To* <span class="small-caps">Mahommed Ushruf</span>; *same date.* (17*th May.*)
 
@@ -2034,17 +2037,17 @@ You must scourge the defaulters severely, and [by this means] speedily realize t
 
 ### Letter 49: KUMRÛDDEEN
 
-### LETTER XLVIII.
+#### LETTER XLVIII.
 
-### *To* <span class="small-caps">KUMRÛDDEEN</span>; *dated* 11*th* <span class="small-caps">BEHÁRY</span>. (25*th May*.)
+#### *To* <span class="small-caps">KUMRÛDDEEN</span>; *dated* 11*th* <span class="small-caps">BEHÁRY</span>. (25*th May*.)
 
 <span class="small-caps">YOUR</span> letter, mentioning that you had nearly completed your first two approaches, and that Bûrhânûddeen’s batteries were still unfinished, has passed under our view, and the contents are comprehended. This is an affair of a hill-fort. Without approaching very close to the place, and making a very wide and effectual breach, it will never be advisable or proper to attempt an assault: you must, therefore, wait until Bûrhânûddeen’s batteries are completed; keeping up, in the mean while, such a fire on the place, as shall utterly destroy the wall on your side. Bûrhânûddeen has been written to, directing him to deliver to you half of the guns and labourers [he has recently received]; with the help of which you must continue to push on your approaches, and speedily reduce this fort.
 
 ### Letter 50: Bûrhanûddeen
 
-### LETTER XLIX.
+#### LETTER XLIX.
 
-### *To* <span class="small-caps">Bûrhanûddeen</span>; *same date*. (25*th May*.)
+#### *To* <span class="small-caps">Bûrhanûddeen</span>; *same date*. (25*th May*.)
 
 <span class="small-caps">Your</span> letter, requesting our authority for engaging in your service a *Múnshy*, for the purpose of making out passports and writing letters, has been received. Agreeably to your desire, you may hire a *Kunry* writer for the purposes you mention.[^fn-p0127-1]
 
@@ -2052,7 +2055,7 @@ You are to deliver to Kumrûddeen Khân half the guns and labourers [that join y
 
 Kâlâ Pundit, it seems, together with his family, has fled from *Nergúnd*. Make enquiries, and let us know who now commands that place.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I have been unable to ascertain whether Kâlâ Pundit was the *Zemindár* of *Nergúnd*, or only an officer intrusted by him with the defence of the place. The report here noticed of his flight proved to be unfounded.
 
@@ -2060,17 +2063,17 @@ I have been unable to ascertain whether Kâlâ Pundit was the *Zemindár* of *Ne
 
 ### Letter 51: Mahommed Kâzim
 
-### LETTER L.
+#### LETTER L.
 
-### *To* <span class="small-caps">Mahommed Kâzim</span> (*Brother of the deceased* <span class="small-caps">Zynûl Aabideen</span>, *late* <span class="small-caps">Buktshy</span> *of the* <span class="small-caps">Jyshe Kuchurry</span>); *dated* 12*th* <span class="small-caps">Beháry</span>. (26*th May*.)
+#### *To* <span class="small-caps">Mahommed Kâzim</span> (*Brother of the deceased* <span class="small-caps">Zynûl Aabideen</span>,<br />*late* <span class="small-caps">Buktshy</span> *of the* <span class="small-caps">Jyshe Kuchurry</span>); *dated* 12*th* <span class="small-caps">Beháry</span>.<br />(26*th May*.)
 
 <span class="small-caps">It</span> has, at this time, pleased God that your brother should die. This event has caused us much concern. Having it in view to provide for you, we desire you will repair speedily to our Presence, and consider yourself as secure of our favor.
 
 ### Letter 52: Zynûl Aabideen
 
-### LETTER LI.
+#### LETTER LI.
 
-### *To* <span class="small-caps">Zynûl Aabideen</span>; *dated* 19*th* <span class="small-caps">Beháry</span>. (2*d June*.)
+#### *To* <span class="small-caps">Zynûl Aabideen</span>; *dated* 19*th* <span class="small-caps">Beháry</span>. (2*d June*.)
 
 <span class="small-caps">Your</span> letter, enclosing an account of the receipts and disbursements of the *Taalúk* of *Loll-ghurry*, has been received, and what you have therein stated is understood. You say, “ that the *Aumil* of the aforesaid “ *Ghurry* has absconded, and desire that a new *Aumil* and *Kilaadár* may “ be sent from the Presence.” It is known. But how is it, that the said *Aumil* should have absconded *without cause or motive*?[^fn-p0128-1] You must enquire very particularly into this matter, and report the result to us.
 
@@ -2078,9 +2081,9 @@ I have been unable to ascertain whether Kâlâ Pundit was the *Zemindár* of *Ne
 
 ### Letter 53: Bûrhânûddeen
 
-### LETTER LII.
+#### LETTER LII.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 21*st* <span class="small-caps">Beháry</span>. (4*th June*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 21*st* <span class="small-caps">Beháry</span>. (4*th June*.)
 
 You have represented to us, “ that you had proposed to Kumrûddeen “ Khân to make over to him the *Kushoon* of Shaikh Unser, and to take, “ in its place, the *Kushoon* of the commandant Mahommed Ali; but “ that the aforesaid *Khân* had given for answer, that it was not proper, “ at this time, to make such an exchange.” Well! what does it signify? Let the *Kushoon* of Mahommed Ali remain there (*i. e.* with Kumrûddeen.)[^fn-p0128-2]
 
@@ -2092,7 +2095,7 @@ You say, “that the *Vakeel*[^fn-p0129-1] of *Kittoor* had been with you, and �
 
 ### Letter 54: Mahommed Ghyâs
 
-### LETTER LIII.
+#### LETTER LIII.
 
 *To* <span class="small-caps">Mahommed Ghyâs</span> ; *dated* 22*d* *Beháry*. (5*th June*.)
 
@@ -2116,7 +2119,7 @@ It is known. No doubt, our bad faith, and our disinclination to cultivate their 
 
 Instead of denoting the name of the *friend* of the *Sircar*, as you propose doing, by the number 20; and the name of the *well-wisher* of the *Sircar*, by the number 60 (these being the numerical powers of the initial letters of their respective names), you must, in future, call the former, whose name begins with a *Gawf*, Gûlâb Khân ; and the latter, whose name begins with a *Seen*, Surdâr Khân ; this last cypher being *neat* and *clean*; and the names to be employed not at all leading to a knowledge of the real ones. What more ?
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 This is a very curious and interesting document ; as, besides exposing the chicanery, and even downright falshood, to which the *Sultan* never scrupled to resort in his diplomatic transactions, when he thought he could thereby advance his purposes, it throws considerable light on the grounds of the quarrel subsisting between him and the government of *Poonah* ; and discloses, in particular, the opinion entertained of the conduct and views of Tippoo by Nana Furnaveese, who, at this period, presided over the affairs of the Mahrattah empire.
 
@@ -2132,13 +2135,13 @@ It is not possible, at this time, to say, who were meant by Gûlâb Khân and Su
 
 ### Letter 55: Chishty Yâr Khân
 
-### LETTER LIV.
+#### LETTER LIV.
 
-### *To* <span class="small-caps">Chishty Yâr Khân</span> ; *dated 23d* <span class="small-caps">Behâry</span>. (*6th June.*)
+#### *To* <span class="small-caps">Chishty Yâr Khân</span> ; *dated 23d* <span class="small-caps">Behâry</span>. (*6th June.*)
 
 <span class="small-caps">Mahommed Ushruf</span>, the Superintendant of the *Dewâny Kuchurry* of *Gooty*, wrote to you, by our direction, desiring you to send to him Buswunt Râo, the *Aumil* of *Beiginpilly* ; in order to his examining the accounts of the said *Aumil*, and ascertaining his malversations. Instead, however, of complying with this requisition, it appears, to our great astonishment, that you exhibited, on this occasion, the most senseless and extravagant behaviour; tearing the letter of the superintendant in pieces, and returning it to him in that condition. Such conduct is very remote from what we expected from your good sense: you must instantly, therefore, on receipt of this letter, dispatch the said *Aumil* to Mahommed Ushruf; and take care not to be guilty again of the like improper and rude behaviour, as such proceedings are contrary to our pleasure.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The reproof conveyed in this letter, considering the magnitude of the offence which gave rise to it, and the usual severity of the *Sultan* in similar cases, is so remarkably moderate, as almost to warrant a suspicion, that he occasionally suffered himself to be actuated, in his treatment of his servants, by motives of a personal and private nature, partaking, in some degree, of the character of partiality, not to say favouritism. The tearing in pieces, and returning in that condition, a letter written by the express direction of the *Sultan*, and most probably announcing it to be so, was hardly a less contempt of his authority, than the conduct of the *Aumil* mentioned in Letter XLV., whose crime was declared to merit death. It is possible, however, that the *Sultan* might not have viewed the transaction in this light; but have considered it as a mere personal affront to Mahommed Ushruf, which would be sufficiently punished by the bare manifestation of his displeasure.
 
@@ -2146,9 +2149,9 @@ The reproof conveyed in this letter, considering the magnitude of the offence wh
 
 ### Letter 56: KUMRÛDDEEN KHÂN
 
-### LETTER LV.
+#### LETTER LV.
 
-### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span>; *dated* 25*th* <span class="small-caps">BEHÂRY</span>. (8*th June*.)
+#### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span>; *dated* 25*th* <span class="small-caps">BEHÂRY</span>. (8*th June*.)
 
 <span class="small-caps">YOU</span> write, “ that it is not advisable, until the reduction of *Nergúnd*, “ that the *Sipahdár*, Mahommed Ali, should be relieved, as you propose “th at his *Kushoon* should continue to occupy its present post in the “ trenches.” It is known
 
@@ -2160,7 +2163,7 @@ With regard to your sending away the stable horses, &c.[^fn-p0136-2] on account 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The foregoing letter clearly shows, that if the *Sultan* did not place unlimited confidence in the military talents or experience of Bûrhânûddeen, he at least considered the camp of that commander as a better school for the young and inexperienced soldier than that of Kumrûddeen. There is reason to believe, however, that the professional merits of Bûrhânûddeen were duly appreciated by his master; since we shall hereafter see him entrusted with the important charge of a wing of the united army of *Mysore*, in a general action with the Mahrattahs, near *Shahnoor*.
 
@@ -2168,9 +2171,9 @@ The foregoing letter clearly shows, that if the *Sultan* did not place unlimited
 
 ### Letter 57: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
 
-### LETTER LVI.
+#### LETTER LVI.
 
-### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span>; *dated* 26*th* <span class="small-caps">BEHÂRY</span>. (9*th June*.)
+#### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span>; *dated*<br />26*th* <span class="small-caps">BEHÂRY</span>. (9*th June*.)
 
 <span class="small-caps">YOUR</span> three letters (two of them dated the 9th of *Beháry*, and the other the 13th of *Beháry*) accompanied by five bills of exchange,[^fn-p0137-1] namely, four from yourself, and one from Noor Mahommed Khân, have been received. The detail you have entered into, regarding the insolent conduct of Suddashoo, the *Hurkáreh*, is understood. The aforesaid [person] is only an *Hurkáreh*: what question or debate [therefore] can arise with him, and why should he be made privy to any secret affairs? You must require of him those services which it is his duty to perform [and no other]; and when you may have any thing of a particularly secret nature to communicate, you must do it in the couplet cypher which is enclosed.[^fn-p0138-1]
 
@@ -2180,15 +2183,15 @@ If the [Mahrattah] minister, *and the rest of them*, will dismiss Noor Mahommed 
 
 ### Letter 58: RÂJAH RÂM CHUNDUR
 
-### LETTER LVII.
+#### LETTER LVII.
 
-### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span> ; *dated* 27*th* <span class="small-caps">BEHÂRY</span>. (10*th June*.)
+#### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span> ; *dated* 27*th* <span class="small-caps">BEHÂRY</span>. (10*th June*.)
 
 <span class="small-caps">IT</span> has been represented to us, that a balance of fifteen or sixteen thousand *pagodas* is still due from some of the *Taalûks*, under the charge of Meer Futah Ali, the *Taalûkdár* of *Chuck-Bálápoor* (from which amount, however, certain deductions remain to be made), and that you have taken very rigid measures for enforcing payment of the same. Now, as the aforesaid *Taalûkdár* has never before exercised the functions of that office, and as he is, moreover, a stranger, and inexperienced in business, it is our pleasure, that you desist from those rigorous proceedings, and be content with gradually realizing the balance due. You will therefore recall your *Suzáwuls* [bailiffs], to the end that the aforesaid *Aumil* may be relieved from his present dismay.
 
 N.B. The remainder of this letter is on an uninteresting subject.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The preceding letter affords another exception to the usual severity of the *Sultan* on similar occasions. The motives assigned for his lenity, in the present instance are, no doubt, satisfactory and creditable to his justice; though, as in the case of the *Sipahdár*, Mahommed Ali, they necessarily bring in question the prudence of the *Sultan*; whom we see placing men in trusts, to which he knew them to be unequal. The following letter will be found to breathe a very different spirit.
 
@@ -2196,7 +2199,7 @@ The preceding letter affords another exception to the usual severity of the *Sul
 
 ### Letter 59: Mohyûddeen Ali Khân
 
-### LETTER LVIII.
+#### LETTER LVIII.
 
 *To* <span class="small-caps">Mohyûddeen Ali Khân</span>; *dated 28th <span class="small-caps">Beháry</span>. (11th June.)*
 
@@ -2208,7 +2211,7 @@ N.B. The rest of this letter is omitted as immaterial.
 
 ### Letter 60: Kumrûddeen Khân
 
-### LETTER LIX.
+#### LETTER LIX.
 
 *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated 29th <span class="small-caps">Beháry</span>. (12th June.)*
 
@@ -2216,7 +2219,7 @@ N.B. The rest of this letter is omitted as immaterial.
 
 You should open a negotiation with the garrison of *Nergúnd*, through the *Kilaadár* of *Bádámy*, or the *Kázy* of *Túrkul*, or through any other channel ; and endeavour, by some means or other, to obtain speedy possession of the fort.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The reader will recollect, that the measure, for the execution of which Kumrûddeen is here commended, did not originate with him, but had been directed by the *Sultan*, and a compliance with it evaded, in the first instance, by the *Meer*.
 
@@ -2226,9 +2229,9 @@ I am inclined to infer, from the instructions here given to Kumrûddeen for open
 
 ### Letter 61: Bûrhânûddeen
 
-### LETTER LX.
+#### LETTER LX.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated* 3*d* <span class="small-caps">Jaafury</span> (16*th June*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated* 3*d* <span class="small-caps">Jaafury</span> (16*th June*.)
 
 <span class="small-caps">Your</span> letter, containing an application for money to enable you to make up some clothes, has been received. You may take three hundred *rupees* from the *Tosheh-kháneh*,[^fn-p0140-1] and apply that sum to the purposes of furnishing yourself with apparel.
 
@@ -2238,7 +2241,7 @@ A month has elapsed since Kumrûddeen’s batteries were established close to th
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Parsimony, or perhaps, more strictly speaking, a rigid economy in his general expenditure, was always known to be a prominent feature in the character of Tippoo Sultan; and we have here a curious and striking proof of the fact. One of his principal generals, and his brother-in-law, is obliged to apply to him for the means of providing himself with wearing apparel; and the *Sultan*, although he complies with the request, is so far from leaving any thing on the occasion to the discretion of Bûrhânûddeen, that he restricts him to the disbursement of a specific sum, in fixing of which he certainly has displayed none of the munificence of a sovereign prince.
 
@@ -2248,11 +2251,11 @@ It would be a difficult matter to judge, how far the censure here passed on the 
 
 * * *
 
-### Letter 62
+### Letter 62: the same
 
-### LETTER LXI.
+#### LETTER LXI.
 
-### *To the same ; dated* 2d *<span class="small-caps">JAAFURY</span>*. (15*th June*.)
+#### *To the same ; dated* 2d *<span class="small-caps">JAAFURY</span>*. (15*th June*.)
 
 <span class="small-caps">THE</span> *Piâdehs* from the [adjacent] *Taalûks* of the *Sircar*, [at present] stationed with your army, are distressed for want of [the usual] means of subsistence ; we therefore write to desire, that, in order to remove their difficulties, you will make them a monthly allowance of ten *fanams* per man.
 
@@ -2260,15 +2263,15 @@ It would be a difficult matter to judge, how far the censure here passed on the 
 
 ### Letter 63: RÂJAH RÂM CHUNDUR
 
-### LETTER LXII.
+#### LETTER LXII.
 
-### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span> ; *same date*. (15*th June* )
+#### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span> ; *same date*. (15*th June* )
 
 <span class="small-caps">YOUR</span> letter, together with the *Hindivy* enclosure, addressed to the *Aumil* of *Vencatigeery*, has been received, and the particulars therein stated are become known.
 
 Write to the aforesaid *Aumil*, that he must address Bâboo Râo, the renter of *Vellore*, to this effect, *viz*. “ that it is not the custom of the “ *Taalúks* belonging to our *Sircar* to allow the residence of robbers “ therein ; and that, upon the discovery of any such, they are immediately put to death.” What more ?
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The *Hindivy* enclosure, here referred to, was probably from the renter of *Vellore* (in the *Carnatic*), requiring some robbers, supposed to have taken refuge in the *Vencatigeery* district, to be delivered up. The answer ordered to be sent to this demand is a sufficient proof of the little disposition which the *Sultan* had to maintain an amicable, or even civil, intercourse with the existing government of the *Carnatic*.
 
@@ -2276,9 +2279,9 @@ The *Hindivy* enclosure, here referred to, was probably from the renter of *Vell
 
 ### Letter 64: CHISHTY YÂR KHÂN
 
-### LETTER LXIII.
+#### LETTER LXIII.
 
-### *To* <span class="small-caps">CHISHTY YÂR KHÂN</span> ;[^fn-p0143-1] *dated* 5*th* <span class="small-caps">JAAFURY</span>. (18*th June*.)
+#### *To* <span class="small-caps">CHISHTY YÂR KHÂN</span> ;[^fn-p0143-1] *dated* 5*th* <span class="small-caps">JAAFURY</span>. (18*th June*.)
 
 <span class="small-caps">YOUR</span> letter has been received, and its contents are duly understood. What you write, respecting the rigorous proceeding of Mahommed Ushruf, the *Darogha* of *Gooty*, in sending five horsemen to enforce payment of the third instalment of the revenue of your district, is revealed.
 
@@ -2286,37 +2289,37 @@ Esteeming you to be intelligent in business, a person of integrity, and a well-w
 
 * * *
 
-### LETTER LXIV. *To* <span class="small-caps">Mohyûddeen Ali Khân</span>, *<span class="small-caps">Dewán</span> of <span class="small-caps">Kurpah</span>: an Extract; dated 6th <span class="small-caps">Jaafury</span>. (19th June.)*
+### LETTER LXIV.<br />*To* <span class="small-caps">Mohyûddeen Ali Khân</span>, *<span class="small-caps">Dewán</span> of <span class="small-caps">Kurpah</span>: an Extract; dated 6th <span class="small-caps">Jaafury</span>. (19th June.)*
 
 <span class="small-caps">What</span> you have stated to us, respecting the pay of four men belonging to [the garrison of] *Guramcoondah*, who have been some time dead, having been appropriated to their own use by the officers of that place, is revealed. We desire you will enquire very particularly into this transaction; and having ascertained the time that the aforesaid officers have been in possession [or receipt] of this money, make them refund the same.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 I am not clear, whether it be here meant that the officers continued to draw andreceive the pay of the deceased men after their death, or that they had only possessed themselves of the pay due to them at their decease. In either case, the notice taken of the offence by the *Sultan* appears extremely slight.
 
 * * *
 
-### Letter 65: Mahommed Ushruf
+### Letter 66: Mahommed Ushruf
 
-### LETTER LXV.
+#### LETTER LXV.
 
-### *To <span class="small-caps">Mahommed Ushruf</span>, <span class="small-caps">Dewân</span> of the <span class="small-caps">Kuchurry</span> of Gooty; dated 7th <span class="small-caps">Jaafury</span>. (20th June.)*
+#### *To <span class="small-caps">Mahommed Ushruf</span>, <span class="small-caps">Dewân</span> of the <span class="small-caps">Kuchurry</span> of Gooty; dated<br />7th <span class="small-caps">Jaafury</span>. (20th June.)*
 
 <span class="small-caps">Directing</span> the name of Fyze Hisâr to be substituted for that of Gooty.
 
 Similar orders were issued, under the same date, directing *Bulháry* to be in future called *Sumrputn*, and *Chittledoorg* to be named *Furkhyáb Hisár*.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Some of the letters in this collection, instead of being complete transcripts of those dispatched, are only, as it were, *notes* of the originals. These heads, or memorandums of dispatches, are titled and dated like the entire entries, but are distinguished by beginning always with the words درباب or درماده that is to say, “ on the subject of ——” followed by a brief abstract of the subject.
 
 The present letter is the first of this description that has occurred. I propose, in every future case of the kind in question, to render the introductory words just quoted, in the same way I have done on the present occasion, namely, by the word “ directing,” or other suitable participle; which will sufficiently distinguish this portion of the correspondence from the more complete part.
 
-### Letter 66: Mahommed Ghyâs
+### Letter 67: Mahommed Ghyâs
 
-### LETTER LXVI.
+#### LETTER LXVI.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span>; *dated* <span class="small-caps">Seringapatam</span>, *5th Jaafury.*
+#### *To* <span class="small-caps">Mahommed Ghyâs</span>; *dated* <span class="small-caps">Seringapatam</span>, *5th Jaafury.*
 
 (*18th June.*)
 
@@ -2324,33 +2327,33 @@ The present letter is the first of this description that has occurred. I propose
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The real situation of these envoys at *Poonah*, as well as their continuance there so long, is enveloped in a good deal of obscurity. At one time it is intimated, that the Mahrattah government have objections to the departure of Noor Mahommed Khân; at another, Nana Furnaveese is seen to hint an intention of dismissing both envoys. The *Sultan’s* wishes and intentions respecting them are, at least, equally inexplicable; and will appear still more so, as we proceed in the correspondence. The only conclusion to be distinctly drawn from the present dispatch is, that if the agents remained at *Poonah*, it was to be with no other objects than those of transmitting intelligence, and of *amusing* and *deceiving* the Mahrattah government. This is clearly and explicitly expressed; and abundantly proves, that he thought of nothing less, at this time, than of affording any satisfaction whatsoever to that government. Whether by “ speeches calculated to flatter their “ selfish views,” it was meant, that the envoys should hold out the temptation of bribes to the Mahrattah ministers, or only that they should continue to profess his readiness to discharge the arrears of *Paishcush* due by him, is doubtful; but it is by no means so, that the *Sultan* had no serious intention of parting with his money for either purpose.
 
 * * *
 
-### Letter 67: Mahommed Ghous
+### Letter 68: Mahommed Ghous
 
-### LETTER LXVII.
+#### LETTER LXVII.
 
-### *To* <span class="small-caps">Mahommed Ghous</span>; *same date.* (*18th June.*)
+#### *To* <span class="small-caps">Mahommed Ghous</span>; *same date.* (*18th June.*)
 
 <span class="small-caps">Some</span> time since, a *Distich*, according to the *Juml* form or rule,[^fn-p0147-1] was communicated to you, and has, no doubt, been comprehended by you. A scroll, exhibiting the details of that rule, and which will make you completely acquainted with the subject, is now enclosed. Nobody besides yourself is to be admitted to a knowledge of it; and when you have any thing of a particular or secret nature to communicate, you must write in this cypher.
 
 N. B. At the end of the foregoing letter a *Distich* is added, which I take to be the *Distich* referred to in the beginning of it, though that would seem to have been transmitted on a former occasion. Of the scroll spoken of, nothing appears. I omit the *Distich*, because I am, at present, unable to make out the meaning of it.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The title of this letter assigns it to Mahommed *Ghous*: but I incline to think that *Ghous* is an error of my transcriber, for *Ghyás*. If not, I am unable to say who Mahommed *Ghous* was, or what diplomatic situation he filled; for such, it is reasonable to suppose, must have been his employment, from the injunction given him to write occasionally in cypher.
 
 * * *
 
-### Letter 68: Kumrûddeen Khân
+### Letter 69: Kumrûddeen Khân
 
-### LETTER LXVIII.
+#### LETTER LXVIII.
 
-### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated* 6*th* <span class="small-caps">Jaafury.</span> (19*th* *June.*)
+#### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated* 6*th* <span class="small-caps">Jaafury.</span> (19*th* *June.*)
 
 <span class="small-caps">Your</span> letter, advising us of your having detached a *Risála* to *Kunnek-geery*, has been received, and we approve of what you have done. We desire [however] that you will particularly state, whose *Risála* you have sent [on this service], as well as what number of cavalry it consists of. Your are to send the pay abstracts[^fn-p0148-1] of this cavalry to Mohyûddeen Ali Khân, the *Dewán* of *Kurpah*.
 
@@ -2358,13 +2361,13 @@ Having erected batteries close to the walls of the fort, and well breached the s
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The kind of *management* here recommended to Kumrûddeen Khân will more fully appear in subsequent letters. It consisted in the practice of every unprincipled art that might tend to circumvent the garrison, and induce them to submit to terms.
 
-### Letter 69
+### Letter 70
 
-### LETTER LXIX.
+#### LETTER LXIX.
 
 *To the same ; dated <span class="small-caps">Seringapatam</span>, 8th <span class="small-caps">Jaafury</span>. (21st June.)*
 
@@ -2384,9 +2387,9 @@ N.B. A letter, of the same tenor and date, but less in detail, was dispatched to
 
 * * *
 
-### Letter 70
+### Letter 71
 
-### LETTER LXX.
+#### LETTER LXX.
 
 *To the same; dated* 10*th* <span class="small-caps">Jaafury.</span> (23*d June.*)
 
@@ -2394,11 +2397,11 @@ N.B. A letter, of the same tenor and date, but less in detail, was dispatched to
 
 N.B. There follows here another short passage, respecting the pay of the troops, which I suspect to have been miscopied, but which is, at any rate, unintelligible to me.
 
-### Letter 71: BÂDSHÂH
+### Letter 72: BÂDSHÂH
 
-### LETTER LXXI.
+#### LETTER LXXI.
 
-### *To the* <span class="small-caps">BÂDSHÂH</span>;[^fn-p0151-1] *dated* 10*th JAAFURY. (23d June.)*
+#### *To the* <span class="small-caps">BÂDSHÂH</span>;[^fn-p0151-1] *dated* 10*th JAAFURY. (23d June.)*
 
 <span class="small-caps">UPON</span> receipt of the Imperial Mandate, [my] glorified head touched the summit of honour. The special gifts of ennobling quality [or virtue], which your Majesty, in your boundless favour, graciously bestowed [on me], by the hands of Râo Bâl Mukn Doss, also arrived in the most auspicious conjuncture, and put [me] in possession of the wealth of distinction and pre-eminence. In acknowledgment of this magnificent donation, [I] respectfully offer [my] most humble obeisance.
 
@@ -2406,7 +2409,7 @@ This stedfast believer, with a view to the support of the firm religion of Mahom
 
 In token of [my] sincere attachment [or devotion] to your Majesty, [I] send, *by way of Nuzr,* a hundred and twenty-one gold *Mohrs* to your resplendent Presence: let them be [or may they be] honoured by [your Majesty’s] acceptance. [I] am humbly hopeful, that [I] may continue to be honoured and distinguished by the receipt of your ennobling commands. More would exceed the bounds of respect.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Notwithstanding the apparent air of humility, which may be thought to pervade the first paragraph, in particular, of the foregoing letter, it is nevertheless remarkably deficient in the forms of respect, invariably observed in all addresses to the Emperor of *Hindostan* (even though “fallen from his high estate”) from those acknowledging him as their sovereign. The writer here does not once style himself, as is customary, “the slave,” “the devoted servant,” or even “the dependent” (in any respect) of Shâh Allum. The very manner in which he offers his *Nuzr* is lofty, and unsuitable to the occasion ; but is still less offensive and affronting than the *Nuzr* itself, as will be seen by the following letter. In short, the address is marked throughout with a strong and visible repugnance to any direct or express acknowledgment of the imperial authority. This is more especially shown in the studied omission of the nominative case, the use of which would have reduced him to the necessity of employing some of the ordinary terms of respect appropriate to similar occasions ; such as, “this slave,” or the like. The nominative, in fact, occurs but once in the course of the letter ; and then it is not “this devoted “servant,” but “this stedfast believer” in Mahommed.
 
@@ -2414,11 +2417,11 @@ There can be no doubt, that by the Nazarenes, mentioned in the second paragraph,
 
 The only remaining observation, suggested by the foregoing letter, relates to the professed object of the last war waged by Hyder Ali Khân against the English ; for the war alluded to in the second paragraph must, of course, have been that of 1780, though the *Sultan*, on this occasion, has thought proper to sink the name of his father. This war is said to have been undertaken “ with a “ view to the support of the Mahommedan religion.” This may serve as a clue to the real, however covert, meaning of Mahommedans, and particularly bigotted ones, whenever they talk of “ holy wars,” of “ wars entered into for the advance-“ ment or security of *Islám*,” and of “ the extirpation of the enemies of the “ faith.” This language is susceptible, no doubt, of being applied to other infidels besides the Nazarenes ; but the time and occasion of its use, to say nothing of other circumstances, always sufficiently indicate who are actually intended. Thus, in the present case, the context so plainly points at the English, that we will venture to say, it would be difficult to find a candid and intelligent Mussulman, who would hesitate, for an instant, to declare his conviction, that they, and they alone, were alluded to in the passage in question. Indeed, it may be farther remarked, in confirmation of this opinion, that the “ extirpation” of the Mahrattahs would never seem to have been an object in the contemplation of the *Sultan* ; whose hatred to that nation was far less virulent than that which he bore to the English ; nor was their power viewed by him with the same fear or jealousy. In his disputes with them, the acquisition of some fort or district, or the relinquishment of some pecuniary demand, was probably all that he at any time contended for.
 
-### Letter 72: Munzoor Ali Khân
+### Letter 73: Munzoor Ali Khân
 
-### LETTER LXXII.
+#### LETTER LXXII.
 
-### *To* <span class="small-caps">Munzoor Ali Khân</span>;[^fn-p0155-1] *same Date*. (*23d June.*)
+#### *To* <span class="small-caps">Munzoor Ali Khân</span>;[^fn-p0155-1] *same Date*. (*23d June.*)
 
 HAVING heard, from Râo Bâl Mukn Doss, of the many excellencies and virtues which distinguish your character, the information has been productive of the greatest satisfaction to me. A bag,[^fn-p0155-2] containing an *Urz-dâsht*,[^fn-p0155-3] addressed to the resplendent Presence, and accompained by a *Nuzr*[^fn-p0155-4] of a hundred and twenty-one gold *Mohrs*, is herewith dispatched; and I trust to your friendship and kindness, for presenting the same to his Majesty's blessed notice.
 
@@ -2428,7 +2431,7 @@ Considering me to be always anxious to hear of your welfare, you must occasional
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Though the various pseudo-sovereigns, who sprung up on the dissolution or dismemberment of the Mogul Empire, in different parts of *Hindostan*, soon threw off the authority of the Court of *Dehli* in all material points, they, nevertheless, continued to observe towards it some of the external forms of homage and dependence; such as styling themselves, in their addresses to the reigning representative of the house of Timur, “his faithful slave” or “devoted subject;” presenting him on certain festivals, and on other occasions, with the *Nuzrs* appropriate to royalty, and soliciting or accepting titles of honour from him. But the chief symbol, or vestige, of the nominal power, thus conceded to him, consisted in the general practice which had obtained among these upstart rulers, of continuing to stamp the current coins of their respective territories with the usual legend of the imperial coinage; by which means the Emperor, for the time being, became every where ostensibly recognized as the legitimate sovereign; and his name, at least, rescued from oblivion, and even rendered familiar to the people in general. Of this empty honour, Tippoo Sultan was, I believe, the first, and, indeed, the only one[^fn-p0156-1] of these self-created princes, who thought fit to divest him. Not content, however, with putting this affront upon the aged monarch, he had the temerity to aggravate it in the highest degree, by sending the latter a *Nuzr*, consisting of a coin, from the inscription on which the name and titles of Shâh Allum were entirely excluded. The argument, by which he attempted to justify this innovation, was sufficiently curious and frivolous, but was little calculated to reconcile, even a Mahommedan court to it: accordingly, as will hereafter be seen, it was not submitted to in silence.
 
@@ -2459,11 +2462,11 @@ The date on the reverse of the rupee which we have been considering, shows that 
 
 It would not be easy to assign any consistent or rational motive for the conduct of the *Sultan*, with respect to the court of *Dehli*. If he thought it capable of promoting any of the objects of his ambition, and was, on this account, desirous of cultivating a good understanding with it, it is rather extraordinary, that he should have adopted the measure of rendering such a *Nuzr* to the Emperor, as a very little reflection might have satisfied him, was but ill calculated to conciliate the favour of that court towards him. If, on the other hand, he neither expected nor desired any thing from it, it is equally strange, that he should have put himself to any trouble or expence, in maintaining an intercouse with it. The mere news of the place (that, too, transmitted to him only at distant intervals) could prove very little interesting, and still less useful to him.
 
-### Letter 73: Moal Chund / Sûjân Râe
+### Letter 74: Moal Chund / Sûjân Râe
 
-### LETTER LXXIII.
+#### LETTER LXXIII.
 
-### *To* <span class="small-caps">Moal Chund</span> *and* <span class="small-caps">Sûjân Râe</span>[^fn-p0160-1]; *same Date. (23d June.)*
+#### *To* <span class="small-caps">Moal Chund</span> *and* <span class="small-caps">Sûjân Râe</span>[^fn-p0160-1]; *same Date. (23d June.)*
 
 <span class="small-caps">Your</span> letter, with the newspapers which accompanied it, has passed under our view, and the contents thereof are understood.
 
@@ -2477,79 +2480,79 @@ You wrote, that you had dispatched to us, by a pair of hired *Hurkárehs*, two b
 
 According to your desire, seventy-two *rupees* have been paid here to the last pair of hired *Hurkárehs* dispatched by you. Further particulars will be communicated to you by Râo Bâl Mukn Doss.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 These two agents would seem to have been natives of *Hindostan*, and personally unknown to the *Sultan* ; by whom they were probably employed, on the recommendation of the Bâl Mukn Doss, mentioned in this and the preceding letter.[^fn-p0161-2] This letter furnishes another instance of the minuteness to which the *Sultan* was accustomed to descend in all matters of disbursement. Another sovereign, in his situation, would have left such details to one of his secretaries, or to the proper officers of the department to which they naturally belonged. But either this was a degree of confidence, which it was foreign to the character of Tippoo to repose in any of his servants, or he was ambitious of appearing to be equally attentive to the most trivial, as well as to the most important affairs of his government : nor can it be denied, that a general impression, to this effect, would tend, in some degree, to secure the fidelity and diligence of those whom he employed.
 
 * * *
 
-### Letter 74: Kumrûddeen Khân
+### Letter 75: Kumrûddeen Khân
 
-### LETTER LXXIV.
+#### LETTER LXXIV.
 
-### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated* 12*th* <span class="small-caps">Jaafury</span>. (25*th June*.)
+#### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated* 12*th* <span class="small-caps">Jaafury</span>. (25*th June*.)
 
 <span class="small-caps">Your</span> letter has been received, and your account of the batteries of Bûrhânûddeen being completed is understood. We have repeatedly written before now, desiring you to advance your batteries close to the walls of the fort ; to destroy these effectually ; to fill the ditch ; and [finally] with the concurrence and advice of the *Sipahdárs*, to proceed to the assault of the place. Such being the case, it is astonishing that you should still wait, and continually apply to us for fresh orders for storming. [We repeat, however, once more]: In case the walls are destroyed, and the ditch is filled, you must, with the advice and concurrence of the commanders with you, proceed to the assault and reduction of the place.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The justice of the reproof contained in the preceding letter may be very fairly questioned : for though it is certain, that the *Sultan* had expressed considerable impatience to obtain possession of *Nergúnd*, yet his orders, relative to the means by which that object was to be pursued, could not be said to have been so explicit and distinct, as to leave no doubt of his real wishes and intentions ; for in Letter LIX he directs a negotiation to be opened with the garrison for the surrender of the place, and about a week after (Letter LXVIII) he suggests the expediency of getting possession of it, by what he calls *management*, plainly saying, at the same time, “ that it was not to be stormed, excepting in case of absolute necessity.” The letter immediately following the last (or Letter LXIX) is not more decisive or explicit than the others. Thus it appears, that it was not without reason that Kumrûddeen was desirous of receiving more precise and positive instructions for his guidance.
 
 * * *
 
-### Letter 75: Mahommed Ghyâs / Noor Mahommed Khân
+### Letter 76: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER LXXV.
+#### LETTER LXXV.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span> ; *dated* 14*th* <span class="small-caps">Jaafury</span>. (27*th June*.)
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span> ; *dated* 14*th* <span class="small-caps">Jaafury</span>. (27*th June*.)
 
 <span class="small-caps">If</span> the chiefs of that place consent to Noor Mahommed Khân’s repairing hither, it will be well : and if they should dismiss you both, you must both, after formally declaring them to be responsible for the consequences,[^fn-p0163-1] set out for our Presence.
 
 * * *
 
-### Letter 76: Shaikh Ahmed
+### Letter 77: Shaikh Ahmed
 
-### LETTER LXXVI.
+#### LETTER LXXVI.
 
-### *To* <span class="small-caps">Shaikh Ahmed</span>, *son of* <span class="small-caps">Mahommed Mukrum</span>, *the Merchant* ; *dated* 15*th* <span class="small-caps">Jaafury</span>, *and endorsed* “<span class="small-caps">Kowl-nâmeh</span>.”[^fn-p0163-2] (28*th June*.)
+#### *To* <span class="small-caps">Shaikh Ahmed</span>, *son of* <span class="small-caps">Mahommed Mukrum</span>, *the Merchant* ; *dated* 15*th* <span class="small-caps">Jaafury</span>, *and endorsed* “<span class="small-caps">Kowl-nâmeh</span>.”[^fn-p0163-2] (28*th June*.)
 
 <span class="small-caps">Having</span> received a full account of you from the verbal report of Meer Mahommed Rizâ,[^fn-p0164-1] as well as from the representation of Mahommed Mukrum, we, in consequence, write to desire, that you will, immediately on receipt of this our bounteous mandate, set out with the utmost confidence of mind for our Presence, accompanied by your family, and such other persons as may be disposed to come with you. On your arrival here, you shall in all things experience our care and protection, agreeably to your wishes, and be appointed to the charge of the mercantile concerns, &c.[^fn-p0164-2] A proper place shall be assigned you for a factory; and such advances of money be made you, as may be requisite for enabling you to carry on your trade [advantageously], all the profits of which shall rest with you for the term of two years : during which time, also, we promise to grant you an exemption from all duties on your merchandize. Repair, therefore, to our Presence, without fear or distrust. All remaining particulars will be explained to you by the letter of Mahommed Mukrum, and the verbal communications of Meer Ali Rizâ.[^fn-p0164-3]
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The encouragement here held out to Shaikh Ahmed, seems to have been abundantly liberal, and shows how much the *Sultan* had it at heart to open a trade with those countries, of which he had no jealousy. It does not appear at what place Shaikh Ahmed was a resident, or whether he accepted the offers of the *Sultan*.
 
-### Letter 77: BÛRHÂNÛDDEEN
+### Letter 78: BÛRHÂNÛDDEEN
 
-### LETTER LXXVII.
+#### LETTER LXXVII.
 
-### *To* B<span class="small-caps">ÛRHÂNÛDDEEN</span> ; *dated* 16*th* <span class="small-caps">JAAFURY</span>. (29*th June*.)
+#### *To* B<span class="small-caps">ÛRHÂNÛDDEEN</span> ; *dated* 16*th* <span class="small-caps">JAAFURY</span>. (29*th June*.)
 
 <span class="small-caps">You</span> write, that “ the besieged have solicited a capitulation, through “ the *Aumil* of *Bádámy*, stipulating only for their lives and honour,[^fn-p0165-1] “ but requiring the guarantee of the *Mágrycotah* man.” In answer to this proposal, they must be told, that if they are willing to treat with the commanders of our army, you are ready to grant them a capitulation, but that the *Mágrycotah* man, not being a servant [a subject] of ours, his agency in the affair cannot be admitted.
 
 We formerly issued orders for your dispatching your cavalry to graze [or forage], and we now repeat those orders. We also direct, that strict injunctions be given to the baggage department, for sending all the lean *Tatoos*,[^fn-p0165-2] bullocks, &c. to grass, the rainy season being now *at hand*.[^fn-p0165-3]
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The *Sultan* would not, for reasons sufficiently obvious, agree to any guarantee which he could not subsequently violate with perfect impunity. The garrison of *Nergúnd* knew whom they had to deal with ; and, therefore, naturally sought to obtain a better pledge for their security, than they could receive from the “ commanders of his army,” or any other person depending upon him. They were, in the end, however, compelled to trust to the good faith of the commanders, and the event was such as they seem to have anticipated.
 
-### Letter 78: Sânore Man
+### Letter 79: Sânore Man
 
-### LETTER LXXVIII.
+#### LETTER LXXVIII.
 
-### *To the* <span class="small-caps">Sânore</span> *Man* ;[^fn-p0166-1] *dated* 18*th* <span class="small-caps">Jaafury.</span> (1*st July*.)
+#### *To the* <span class="small-caps">Sânore</span> *Man* ;[^fn-p0166-1] *dated* 18*th* <span class="small-caps">Jaafury.</span> (1*st July*.)
 
 <span class="small-caps">Your</span> letter, containing an account of your welfare, adorned the face of arrival, and imparted joy and pleasure to us. What the pen of friendship has traced, in excuse for past offences, is comprehended. Of this matter not the slightest impression remains on the mind of this friend : the only fault (or failure) imputable to that friend being, that he did not examine with care and diligence into the state of his revenue accounts ; the consequence of which has been, a heavy deficiency in the amount realized. Our accomptants have made themselves thoroughly acquainted with the details of the territory held *conditionally* by you ;[^fn-p0166-2] and after making every fair and proper deduction for military charges, have ascertained the balance justly due to us from you.[^fn-p0166-3] You must, therefore, agreeably to your former promises, speedily pay the amount into the hands of the bankers, and dispatch the latter to us. You must not suffer any delay to take place in this matter. With respect to the accomptants and others in your employ, who have been guilty of the malversations [in question], you should compel them, by rigorous proceedings, to make restitution of the sums of which they have plundered you.
 
 In regard to the servants and *Taalûkdârs* of that friend, we assure him that no interruption or disturbance shall be given to them by any one.
 
-### Letter 79: Mahommed Ghyâs / Noor Mahommed Khân
+### Letter 80: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER LXXIX.
+#### LETTER LXXIX.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *same Date.*
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *same Date.*
 
 (*1st July.*)
 
@@ -2559,59 +2562,59 @@ It is known. Such being the ungracious and unpalatable state of things, what adv
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It might be supposed, from the recital here made by the *Sultan* of the letter of the envoys, that the latter had not communicated the offensive observations of Hurry Pundit in detail, but satisfied themselves with stating, that they had been of the most affronting nature. Be this as it may, it is clear that the *Sultan’s* warmest indignation was excited on the occasion : nor did it immediately subside, since we shall presently see him repeating his order for the return of the envoys, in a still more peremptory tone than in the foregoing dispatch. But however wounded his pride might have been at first, by the injurious language imputed to Hurry Pundit, he seems ultimately to have subdued, or at least to have repressed, his anger; inasmuch as he thought proper, at no great distance of time, to change his mind with regard to the recall of his agents.
 
 * * *
 
-### Letter 80: MEER MOAALLA KHÂN
+### Letter 81: MEER MOAALLA KHÂN
 
-### LETTER LXXX.
+#### LETTER LXXX.
 
-### *To* <span class="small-caps">MEER MOAALLA KHÂN</span>, *<span class="small-caps">KILAADÂR</span> of <span class="small-caps">MUDGUL</span>*; *dated* 20*th* <span class="small-caps">JAAFURY</span>. (3*d July*.)
+#### *To* <span class="small-caps">MEER MOAALLA KHÂN</span>, *<span class="small-caps">KILAADÂR</span> of <span class="small-caps">MUDGUL</span>*; *dated* 20*th*<br /><span class="small-caps">JAAFURY</span>. (3*d July*.)
 
 [<span class="small-caps">After</span> compliments.]........ We have just learned, from the report of the Deputy Governor of *Gujunder-ghur*, that that friend, having collected together a body of troops, maintains himself with great firmness in the fort of *Mudgul*; soliciting, however, at the same time, our assistance: we therefore write, to desire that you will, without any reserve or ceremony, state to us what succours you require, when, with the blessing of God, the same shall be effectually furnished.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I am not quite certain with regard to the real name of the fort here mentioned, since, in the original, it is written both *Mudgul* and *Nudgul*. From the style and general tenor of this letter it might be concluded, that it was not addressed to any person in the service of the *Sultan*, but rather to the governor of a fort (belonging either to the Mahrattahs or to the *Nizám*) who had entertained a traiterous correspondence with the *Sultan*. I am not, at present, sufficiently informed on the subject to clear up this point satisfactorily; but if, in the course of this work, I should meet with any new light respecting it, I will communicate it in the Appendix.
 
-### Letter 81: Bûrhânûddeen
+### Letter 82: Bûrhânûddeen
 
-### LETTER LXXXI.
+#### LETTER LXXXI.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 23*d* <span class="small-caps">Jaafury.</span> (6*th July*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 23*d* <span class="small-caps">Jaafury.</span> (6*th July*.)
 
 You write “ that the *Piâdehs* from *Surhutty*, who were stationed “ with Kumrûddeen Khân, have run away, and that light of our eyes[^fn-p0169-1] “ has placed a *Dalwâr*[^fn-p0169-2] and a *Vakeel* in custody of a guard.” It is known. Furnish Kumrûddeen Khân with other *Piâdehs*, in the room of those who have deserted; keep the two persons you mention in irons; and seize, for the use of the *Sircar*, the horses and camels belonging to them.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The context would, in this place, seem to imply, that the *Dalwâr* and *Vakeel*, here mentioned, belonged to *Surhutty*, and were seized and confined by Bûrhânûddeen, as a sort of hostages for the fugitive *Piâdehs*. If this was not the case, it is impossible to say, at this time, who the persons in question were. The rigorous proceeding against them, here directed, may seem to exceed the measure of justice; but it is probable, that it was not designed so much as a punishment, as a means of accomplishing the recovery of the deserters, Such expedients are but too common, in similar cases, throughout *Hindostan*; the East-India Company’s possessions excepted.
 
-### Letter 82: Mahommed Ghyâs / Noor Mahommed Khân
+### Letter 83: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER LXXXII.
+#### LETTER LXXXII.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated* 27*th* <span class="small-caps">Jaafury</span>. (10*th July*.)
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated* 27*th*<br /><span class="small-caps">Jaafury</span>. (10*th July*.)
 
 <span class="small-caps">Your</span> two letters, of the 12th and 14th of *Jaafury* [25th and 27th June] have been received. You write, “ that what Hurry Pundit and “ the rest of them propose is, to dispatch Noor Mahommed Khân to us, “ and to take an engagement from you to pay down the money [claimed “ of us], if, after his departure, there should be any delay in the transmission of the same from hence.” It is known. If any message, to the above effect, should be actually sent to you, your answer must be, “ that you are our servants, and therefore dare not enter into any “ engagement whatsoever without our orders; but that *it was most pro*- “ *bable*, that after Noor Mahommed Khân’s arrival, and *when we* “ *should have ascertained from him the* [*true*] *state of things*, *we should* “ *consider the means of transmitting the money*.”
 
 You moreover write, “ that Râo Râsta has desired you to represent to “ us, that the *Zemindár* of *Nergúnd*, having been brought to agree to “ the payment of a lack and seventy-five thousand *rupees*, by way of “ amercement, it is wished that we would direct the siege of *Nergúnd* “ to be discontinued.” It is known. The aforesaid *Zemindár* has collected from our dominions ten *lacks* of *pagodas* : waving, therefore, all consideration of an amercement, let him make restitution of what he has levied from our dominions, and then we will certainly raise the siege of *Nergúnd*.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It is observable, that, in the present dispatch, the *Sultan* is far from repeating his orders of the 1st July, for the immediate departure of both his agents from *Poonah* : on the contrary, he seems satisfied with the idea of Noor Mahommed Khân's return singly, and thereby tacitly approves of the continuance of Mahommed Ghyâs at his post. His indignation at the behaviour of Hurry Pundit had probably cooled in the interval ; but it was soon revived, as we shall see, by a fresh affront from the same quarter. It must be allowed, that the answer directed in the foregoing letter to be returned to the expected message, or proposal, from the Mahrattah ministers, was not much calculated to produce any favorable change in the department, either of Hurry Pundit or of his colleagues.
 
 * * *
 
-### Letter 83: Bûrhânûddeen
+### Letter 84: Bûrhânûddeen
 
-### LETTER LXXXIII.
+#### LETTER LXXXIII.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated 1st Dârâey.* (14*th July.*)
+#### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated 1st Dârâey.* (14*th July.*)
 
 <span class="small-caps">You</span> write, “ that you never buy caravan horses.” It is known. But though you never purchase any, you must direct the *Silahdârs* to do so.
 
@@ -2621,7 +2624,7 @@ We have learnt from our beloved son,[^fn-p0171-1] Meer Kumrûddeen, that a camel
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I was in some doubt, respecting the meaning of *Caravan* horses, till Colonel Wilks, the author of the admirable History of *Mysore*, recently published, informed me, that the strings of horses brought for sale by the northern merchants, and others to the south of *India*, were so called. It would not be easy to guess why Bûrhânûddeen made it a rule (as he would appear to have done) never to buy horses from these dealers. But whatever objection that commander might have to such purchases, the *Sultan* appears to have had none; as otherwise it is not probable that the merchants would have resorted to his dominions, or that he should have been desirous that the *Silahdárs* should deal with them.
 
@@ -2631,41 +2634,41 @@ The authority given to Bûrhânûddeen, by the last paragraph of the foregoing l
 
 * * *
 
-### Letter 84: BÛRHÂNÛDDEEN
+### Letter 85: BÛRHÂNÛDDEEN
 
-### LETTER LXXXIV.
+#### LETTER LXXXIV.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated 2d DÂRÂEY. (15th July.)*
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated 2d DÂRÂEY. (15th July.)*
 
 <span class="small-caps">By</span> a letter from Ibrâheem Ali Khân it appears to us, that the *Risáladárs*, Syed Humeed, Bubi Ali Baig, and Ibrâheem Khân, have received bribes, &c.[^fn-p0173-1] from various persons. A copy of this letter, the original of which has been deposited in the *Kuchurry* of the *Jyshe*, is enclosed. We, in consequence, direct, that the aforesaid *Risáladárs* be divested of their commands,[^fn-p0173-2] that they be confronted [with their accusers], obliged to refund to the *Sircar* the money [they have corruptly obtained], and finally, that they be kept under restraint, and the matter reported to us; when we will send other *Risáladárs* from hence [to supply their places].
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 This letter does not afford a very favorable specimen of the *Sultan’s* notions of justice, or of his mode of proceeding against persons charged with crimes or misdemeanors. He acts upon the bare information of Ibrâheem Ali Khân, as if the truth of the charge preferred by the latter were already undeniably established, inflicting every penalty upon the accused before trial, that could be inflicted, in the event of their guilt being completely proved. It is true, that he directs a kind of trial to be instituted; but the possibility of the innocence of the accused is neither contemplated nor provided for. The result is to be communicated to the *Sultan*; not in order that he may, in case of the acquittal of the accused, give directions for their restoration to their rank, liberty, and property, but only that he may immediately send new officers to supply their vacant places. All this is at variance, not only with common justice, but even with the usual mode of proceeding against military offenders of the rank of officers, prescribed by the *Sultan’s* own regulations; one of which appears to have directed, that “ the sword “ of the accused officer to be taken from him, and deposited in the guard-room, there “ to be kept during the trial of the accused, and till ordered to be restored to him “ by the *Sultan*.” On the other hand, it must be acknowledged that the enquiry commanded to be made, and the postponement of the appointment of successors to the accused till the result was known, are circumstances, which seem to show that the *Sultan*, notwithstanding the precipitancy and irregularity of his proceeding, on this occasion, did not deem it absolutely impossible that the *Risáladárs* might be able to clear themselves ; in which case it is, perhaps, only fair to suppose, that he would have made them suitable reparation for the injury they had suffered.
 
 * * *
 
-### Letter 85: BÛRHÂNÛDDEEN
+### Letter 86: BÛRHÂNÛDDEEN
 
-### LETTER LXXXV.
+#### LETTER LXXXV.
 
-### *To the same ; dated 3d D<span class="small-caps">ÁRÂEY</span>.* (*16th July.*)
+#### *To the same ; dated 3d D<span class="small-caps">ÁRÂEY</span>.* (*16th July.*)
 
 W<span class="small-caps">E</span> have learned, by a letter from the *Sipahdár*, Mahommed Ali, “ that he has carried his approaches to the edge of the ditch ; that “ the walls and batteries on his side are levelled to the ground ; and “ that the ditch only remains to be filled.” That, then, is a trifling affair. Let the ditch be filled, and, *with the consent and concurrence of all*, let the place be stormed and taken. If, however, the garrison will capitulate, it will be well : and [in this case] with the exception of Kâlâ Pundit, the rest may be allowed their lives and arms ; but the *Pundit’s* person must be secured. In the event, however, of [your being obliged to proceed to] the assault of the place, *every living creature in it, whether man or woman, old or young, child, dog, cat, or any thing else, must be put to the sword*, with the single exception of Kâlâ Pundit. What more ?
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The sanguinary and ferocious disposition of Tippoo Sultan is here displayed in the most glaring and odious colours. The spirit of Nâdir Shâh appears to breathe through every line of the concluding sentence of this memorable letter. Kâlâ Pundit was, most probably, reserved for some signal punishment ; or, perhaps, he was exempted from the general carnage here directed, because his immediate death might have frustrated the *Sultan’s* views to pecuniary indemnification. It is rather extraordinary, that this last consideration did not also lead him to make an exception, in his exterminating mandate, in favor of the wealthy merchants and bankers of the place ; to secure whose persons he was subsequently extremely anxious.
 
 * * *
 
-### Letter 86: KUMRÛDDEEN KHÂN
+### Letter 87: KUMRÛDDEEN KHÂN
 
-### LETTER LXXXVI.
+#### LETTER LXXXVI.
 
-### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span> ; *dated* 3*d Dârâey.* (16*th July*.)
+#### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span> ; *dated* 3*d Dârâey.* (16*th July*.)
 
 You write, “ that, in conformity with our orders, you have transferred the *Sipahdár* Mahommed Ali and his *Kushoon* to Bûrhânûddeen, and in his place have taken Shaikh Unser and his *Kushoon*, which you have posted in the trenches.” It is known and approved. You will cause the pay abstracts of Shaikh Unser’s *Kushoon* to be made out, and issue the amount. Bûrhânûddeen will issue the pay of Mahommed Ali’s *Kushoon*.
 
@@ -2677,59 +2680,59 @@ The tank-diggers[^fn-p0176-2] must, on their arrival from *Shánoor*, be placed 
 
 You write, “ that a camel-courier, belonging to Râo Râsta, had “ arrived with a letter, addressed to you and Bûrhânûddeen, who, you “ conclude, had forwarded the same to us.” It is known. The letter in question has not been received : had it reached us, we should immediately have replied to it. You and Bûrhânûddeen [therefore] after [duly] considering the contents of the aforesaid letter, must dispatch such an answer to Râo Râsta, by his courier, as you shall judge to be proper.
 
-### Letter 87: Mahommed Ali
+### Letter 88: Mahommed Ali
 
-### LETTER LXXXVII.
+#### LETTER LXXXVII.
 
-### *To the <span class="small-caps">Sipahdâr</span>, <span class="small-caps">Mahommed Ali</span>; same Date.* (16*th July.*)
+#### *To the <span class="small-caps">Sipahdâr</span>, <span class="small-caps">Mahommed Ali</span>; same Date.* (16*th July.*)
 
 <span class="small-caps">You</span> write, “ that you have carried on your approaches to the edge of “ the ditch, the filling of which is the only thing remaining to be “ done.” It is known. Where is the great difficulty of filling the ditch? That, therefore, being done, let the place (*every one concurring in the propriety of the measure*) be stormed and taken.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It might almost be inferred, from the tenor of this letter, that Mahommed Ali, though a raw and inexperienced officer, was co-ordinate in authority with Bûrhânûddeen and Kumrûddeen. But the only conclusion to be justly drawn from this document is, that the *Sultan* was in the habit of corresponding, separately, with the superior officers of his army, who probably acted as so many spies upon the chief commanders. Such a wretched system would be naturally enough suggested, by the characteristic jealousy and distrust of the *Sultan*.
 
 * * *
 
-### Letter 88: Kumrûddeen
+### Letter 89: Kumrûddeen
 
-### LETTER LXXXVIII.
+#### LETTER LXXXVIII.
 
-### *To <span class="small-caps">Kumrûddeen</span>; dated 5th Dáráey.* (18*th July.*)
+#### *To <span class="small-caps">Kumrûddeen</span>; dated 5th Dáráey.* (18*th July.*)
 
 [<span class="small-caps">After</span> an immaterial passage, respecting a supply of money, the letter thus proceeds :]—
 
 All the operations of the siege are completed, and the walls of the place demolished : why, then, this delay? If the garrison will evacuate the fort on terms, it will be well ; otherwise, watching a suitable opportunity, *and acting with the concurrence* of the *Sipahdárs*, and other commanders of the army, you must take the place by assault.
 
-### Letter 89: Mahommed Ali
+### Letter 90: Mahommed Ali
 
 * * *
 
-### LETTER LXXXIX.
+#### LETTER LXXXIX.
 
-### *To the <span class="small-caps">Sipahdâr</span>, <span class="small-caps">Mahommed Ali</span>; same Date. (18th July.)*
+#### *To the <span class="small-caps">Sipahdâr</span>, <span class="small-caps">Mahommed Ali</span>; same Date. (18th July.)*
 
 <span class="small-caps">You</span> write, “ that placing yourself at the head of five companies[^fn-p0178-1] “ from the *Jyshe-Risálas*, you advanced into the ditch; from whence, “ after putting to the sword every man of the enemy found there, some “ of your *Kushoon* pushed on, and ascending the walls, planted their “ colours on one of the towers [or bastions]. Here, however, the “ enemy’s people, assembling in great numbers, and assailing ours with “ musquetry, hand-granades,[^fn-p0178-2] &c. you [thought proper to] recall “ your men from the tower, [and to content yourself with] making a “ lodgement in advance.[^fn-p0178-3]”
 
 It is known. Your duty is to perform such services as you are ordered to execute, and not to act according to the suggestions of your own mind. You must not again proceed in this idle manner, but regulate your conduct by the general opinion.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 If Mahommed Ali was a raw and inexperienced soldier,[^fn-p0179-1] he seems, at least, to have been a bold and enterprising one. The action here described would appear to have been performed without the knowledge, or orders, of his superiors; and is, therefore, very properly condemned by the *Sultan*, whose reproof on the occasion was, perhaps, sufficiently mild.
 
 * * *
 
-### Letter 90: BÛRHÂNÛDDEEN
+### Letter 91: BÛRHÂNÛDDEEN
 
-### LETTER XC.
+#### LETTER XC.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated* 6*th* *DÁRÁEY*. (19*th* July.)
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated* 6*th* *DÁRÁEY*. (19*th* July.)
 
 <span class="small-caps">You</span> write, “ that your approaches are carried to the foot of the wall, “ and that it is determined to storm the place in two or three days; that “ Dileer Dil Khân says, he must go and forage with his people; that a “ numerous force is required for the approaching assault; and that, “ with our permission, you will detain the said Khân, together with the “ dismounted men of the cavalry *Kuchurry*, until the conclusion of the “ business.” It is known: and we, in consequence, direct that you detain the aforesaid Khân, as well as the men you have mentioned, till the period you propose; when you will allow them to go and forage.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The two preceding letters satisfactorily prove, how independently the superior officers of the army sometimes acted, and how feeble Bûrhânûddeen’s authority over them was. But this is an evil inherent in the constitution of all Indian armies : and, perhaps, it was less prevalent in that of *Mysore*, than in any other native army of *Hindostan*.
 
@@ -2739,33 +2742,33 @@ Tippoo Sultan, as if sensible of this last defect in the constitution of his arm
 
 * * *
 
-### Letter 91: Mahommed Ghyâs / Noor Mahommed Khân
+### Letter 92: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER XCI.
+#### LETTER XCI.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated 8th* *Dârâey.* (21*st July.*)
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated 8th*<br />*Dârâey.* (21*st July.*)
 
 <span class="small-caps">Your</span> letter of the 23d of *Jaafury* has been received. You write, “ that Hurry Pundit sent a message to you, through Râo Râsta, “ desiring you to send away the musqueteers[^fn-p0181-2] with you, as it was not “ proper that they should remain at *Poonah*.”
 
 It is known. We have already repeatedly written, and we now again write to say, that the hostile intentions of the chiefs in that quarter are evident; that the longer residence of *that friend* and of Noor Mahommed Khân there, is consequently in the highest degree improper;[^fn-p0181-3] and that you must, therefore, both set out for our Presence, with the whole of your retinue. *This order is accordingly to be considered by you of equal force with a hundred orders.* You must not wait for any other; but, immediately on receipt of our present commands, proceed with Noor Mahommed Khân, and all the people attached to you, to the Presence. *We shall write no more on this subject.*
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The only remark necessary to be made on this letter is, that notwithstanding the apparently inflexible resolution of the *Sultan*, to withdraw his agents from *Poonah* immediately, they both appear to have continued there till the month of May in the following year (1786), or nearly a whole year after these peremptory orders for their recall.
 
 * * *
 
-### Letter 92: BÛRHÂNÛDDEEN
+### Letter 93: BÛRHÂNÛDDEEN
 
-### LETTER XCII.
+#### LETTER XCII.
 
-### *To* BÛRHÂNÛDDEEN; *dated 9th* D*ÂRÂEY*. (22*d July*.)
+#### *To* BÛRHÂNÛDDEEN; *dated 9th* D*ÂRÂEY*. (22*d July*.)
 
 <span class="small-caps">It</span> has been reported to us, that the besieged are desirous of capitulating, and have opened a negotiation for the purpose: it is therefore written, that if they will surrender on terms, there is no use in an assault. You and Kumrûddeen must jointly treat with the besieged on the occasion, and, by every practicable means, induce them to deliver up the place. Failing in this, you will, with the concurrence of all the *Sipahdárs* and commanders[^fn-p0182-1] of the army, (after having ascertained from what point the attempt can be made with the least loss of men) seize the proper moment for proceeding to the capture of the place by open assault. We are here likewise prepared to move at the head of our forces,[^fn-p0183-1] and shall shortly arrive in that quarter. In the mean while, you must *temporize*, and employ every means, *fair or foul*,[^fn-p0183-2] which may induce the besieged to surrender the fort: because, in an assault, many lives would be lost; while a long detention before the place would also prove extremely destructive to the army. It is, moreover, in our blessed contemplation, to engage, after the rainy season, in a certain *weighty* enterprize: you must, therefore, try every means of effecting the [early] evacuation of the place; acting at the same time, in all our affairs, in [perfect] concert with each other.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The fluctuating orders of the *Sultan*, respecting *Nergûnd*, as well as his impatience to obtain speedy possession of the place, have appeared in several of the foregoing letters. It has also been seen, that his solicitude, on this occasion, led him, more than once, to authorize, and even to direct, in sufficiently explicit terms, the adoption of the most unjustifiable measures for the attainment of his object. But it was reserved for the present dispatch, to display, in the most glaring colours, his unprincipled and profligate policy. He is no longer satisfied with vague and distant intimations of his wishes; but here, throwing off all reserve and disguise, openly and boldly declares, that there is no act of treachery, deception, or perjury, by means whereof the conquest of *Nergûnd* could be achieved, to which he was not ready to give an unqualified sanction.
 
@@ -2773,37 +2776,37 @@ The *weighty* enterprize, alluded to in this letter, can, at this time, only be 
 
 * * *
 
-### Letter 93: KUMRÛDDEEN KHÂN
+### Letter 94: KUMRÛDDEEN KHÂN
 
-### LETTER XCIII.
+#### LETTER XCIII.
 
-### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span>; *dated 10th DÁRÁEY. (23d July.)*
+#### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span>; *dated 10th DÁRÁEY. (23d July.)*
 
 <span class="small-caps">AGREEABLY</span> to your desire, we have transmitted to Bûrhânûddeen an answer to the *Urz*[^fn-p0184-3] which he forwarded to us from Kâlâ Pundit. The aforesaid *Pundit*, for his complete satisfaction [or security] demands the sanction of oaths, &c. [to our engagements]. But where is the necessity for oaths and the like, in an affair of this kind? You and Bûrhânûddeen must, *by every possible artifice and deception*, get the garrison to quit the place.
 
 We have written a letter to Shaikh Unser, which is enclosed.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The true meaning of what the *Sultan* here says is, that as he depends on his generals for circumventing the garrison, he sees no necessity for personally perjuring himself for the purpose : he thinks the end in view may be sufficiently answered by *their* doing so, and is therefore averse to a waste of perfidy. But although he did not think proper to pledge himself to the extent required by Kâlâ Pundit, it is highly probable that, in his letter to that person (referred to above), he was not at all backward in giving him such assurances, as would be best calculated to dispel any fears he might entertain for his personal safety and honour.[^fn-p0185-1]
 
 * * *
 
-### Letter 94: Bûrhânûddeen
+### Letter 95: Bûrhânûddeen
 
-### LETTER XCIV.
+#### LETTER XCIV.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *same Date. (23d July.)*
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *same Date. (23d July.)*
 
 <span class="small-caps">Your</span> letter, enclosing a paper, containing the demands of the people of the fort, has been received ; and, in consequence thereof, we now transmit to you, in answer to these demands, an engagement from us to Kâlâ Pundit.[^fn-p0185-2] We also enclose three letters for Mahommed Ali and the other *Sipahdárs*.
 
 The aforesaid *Pundit* has, for his greater satisfaction [or security], demanded the sanction of oaths, &c. [to our engagements]. But what is the use of oaths on this occasion ? You must, conjointly with Kumrûddeen, *by every possible artifice and deceit*, persuade the besieged to evacuate the fort.
 
-### Letter 95: JUSÂRETÛDDOWLAH, MEER ABÛL MAANA KHAN, BEHÂDÛR JUSÂRET JUNG
+### Letter 96: JUSÂRETÛDDOWLAH, MEER ABÛL MAANA KHAN, BEHÂDÛR JUSÂRET JUNG
 
-### LETTER XCV.
+#### LETTER XCV.
 
-### *To* <span class="small-caps">JUSÂRETÛDDOWLAH</span>, <span class="small-caps">MEER ABÛL MAANA KHAN</span>, <span class="small-caps">BEHÂDÛR JUSÂRET JUNG</span>; *dated 13th Dârâey.* (*25th July.*)
+#### *To* <span class="small-caps">JUSÂRETÛDDOWLAH</span>, <span class="small-caps">MEER ABÛL MAANA KHAN</span>, <span class="small-caps">BEHÂDÛR<br />JUSÂRET JUNG</span>; *dated 13th Dârâey.* (*25th July.*)
 
 [After compliments].......... You write, “ that in obedience to the “ dictates of honor, you shall exert yourself, to the best of your power, “ in chastising the seditious.” It is comprehended. Verily, such is the obligation of honor, and such the true character of courage. If you should be desirous of obtaining any assistance, we request you will not scruple or hesitate to consider our *Sircar* [state] as your own, but [freely] signify to us your wishes, which you may depend upon our fulfilling to your satisfaction.
 
@@ -2811,17 +2814,17 @@ N.B. A letter, of the same tenor and date, was written to Mukhun Zaal (probably 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I am not enabled to say who this Jusâretûddowlah was; but there can be little or no doubt of his having been a subject of the *Nizám*, and (to judge by his titles) a person of distinction. He was, most probably, an immediate dependent of Busâlet Jung, the brother of the *Nizám*, and the *Jagiredâr* of *Adoni*.
 
 * * *
 
-### Letter 96: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
+### Letter 97: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
 
-### LETTER XCVI.
+#### LETTER XCVI.
 
-### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span>; *dated 14th Dârâey.* (*27th July.*)
+#### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span>; *dated 14th<br />Dârâey.* (*27th July.*)
 
 <span class="small-caps">YOUR</span> two letters, of the 23d and 28th of *Jaafury* [6th and 11th July] have been received. You write, “ that they are about to require “ of you to send away your escort, and that their ungracious deportment towards you is beyond measure.”
 
@@ -2835,7 +2838,7 @@ Let us know the name and rank of the *Hákim* [ruler] of *Cambay*, as we purpose
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The former part of this letter is in substance, and indeed nearly in terms, the same as Letter XCI. In fact, the envoy’s dispatch of the 23d *Jaafury* is acknowledged in both ; and, probably, that of the 28th of the same month (which would seem to have led to the present letter) did not differ materially from it.
 
@@ -2843,23 +2846,23 @@ The letter to the *Nabob* of *Cambay* (his intention of writing which is here an
 
 * * *
 
-### Letter 97: Meer Moyenûddeen Khân
+### Letter 98: Meer Moyenûddeen Khân
 
-### LETTER XCVII.
+#### LETTER XCVII.
 
-### *To* <span class="small-caps">Meer Moyenûddeen Khân</span>; *dated* 19*th* *Dârâey*. (1*st August*.)
+#### *To* <span class="small-caps">Meer Moyenûddeen Khân</span>; *dated* 19*th* *Dârâey*. (1*st August*.)
 
 <span class="small-caps">Your</span> letter, written in the *Hindivy* character, and informing us that there was a prospect of Budl Nâig’s coming in to you, has been received and understood. When the said *Nâig* arrives, you must confront him with Tummycoor,[^fn-p0188-1] and after establishing his guilt, and placing him under a guard, tell him, “that you will release him, provided he sends “for his family.” Having induced him, *by means of this artifice*, to send for his family, you must put the whole of them in confinement, and make a report of the circumstances to us.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The instances of the *Sultan’s* treacherous and unprincipled conduct, in his negotiations, multiply so fast, as to make it difficult to avoid the appearance of sameness and repetition, in the remarks to which they naturally give rise; I shall, in future, therefore, instead of obtruding my sentiments, leave the reader to his own reflections on such occasions.
 
-### Letter 98: Râjah Râm Chundur
+### Letter 99: Râjah Râm Chundur
 
-### LETTER XCVIII.
+#### LETTER XCVIII.
 
 *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated 20th Dáráey*. (2*d August*.)
 
@@ -2871,7 +2874,7 @@ You suggest the establishment of banking-houses on the part of the *Sircar*, and
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The fact of Tippoo Sultan having established such shops, or warehouses, as those mentioned in the foregoing letter, was, I believe, very well known, before the commencement of the last war, to those persons most intelligent in the affairs of *Mysore*. The present dispatch, by fortunately reciting at so much length the representation of Râjah Râm Chundur on the subject, furnishes a tolerably clear idea of the institution, of which I have no where else met with any account. Till I saw this document, however, I had supposed, that the *Sultan’s* views in this scheme embraced nothing more than a monopoly of the *wholesale* trade of his dominions ; but it is evident, from Râm Chundur’s statement, that the *retail* trade also was proposed to be engrossed. “ None but the poorer classes,” says the *Râjah*, “ deal at our shops ; and then only to the amount, perhaps, of six “ or seven *fanams*.”[^fn-p0190-1]
 
@@ -2881,11 +2884,11 @@ Râm Chundur certainly could not have chosen a more unpropitious occasion for su
 
 * * *
 
-### Letter 99: KUMRÛDDEEN
+### Letter 100: KUMRÛDDEEN
 
-### LETTER XCIX.
+#### LETTER XCIX.
 
-### *To* <span class="small-caps">KUMRÛDDEEN</span>; *dated* 25*th DÁRÂEY.* (7*th August.*)
+#### *To* <span class="small-caps">KUMRÛDDEEN</span>; *dated* 25*th DÁRÂEY.* (7*th August.*)
 
 <span class="small-caps">YOU</span> write, “ that in concert with Bûrhânûddeen, you are treating “ with the besieged for the surrender of the place, which you expect “ will submit in two or three days.” You must, by any means, whether by engagements or by artifice, get the garrison to evacuate the fort, in order that our troops may obtain a little respite from fatigue, as we have it in contemplation to employ them, ere long, *on a weighty service.*[^fn-p0191-1]
 
@@ -2893,29 +2896,29 @@ You state, “ that yourself and Bûrhânûddeen labour diligently together, and
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 A letter of the same date, and nearly of the same tenor as the preceding one, was addressed to Bûrhânûddeen, who likewise appears to have assured the *Sultan*, “ that he conducted all affairs in concert with Kumrûddeen.” But though the *Sultan* thought fit to intimate to these commanders his belief that a proper harmony really subsisted between them, it appears, I think, sufficiently clear, from the tenor of his letters, that he was far from being entirely satisfied of the fact ; and it may, at least, be confidently assumed, that there were those who thought otherwise, and who endeavoured to impress him with their opinions.
 
 * * *
 
-### Letter 100: Kumrûddeen
+### Letter 101: Kumrûddeen
 
-### LETTER C.
+#### LETTER C.
 
-### *To* <span class="small-caps">Kumrûddeen</span> ; *dated 26th Dârâey. (8th August.)*
+#### *To* <span class="small-caps">Kumrûddeen</span> ; *dated 26th Dârâey. (8th August.)*
 
 <span class="small-caps">You</span> write, “ that on the day following [the date of your letter], “ or the 22d of *Dârâey*, the enemy were to evacuate the place, when, “ having put a garrison of ours into it, you would report the same to “ us.”
 
 Having got the besieged to evacuate the fort *on terms*, and having placed a garrison of our troops in it, let the *Piâdehs*, &c. who composed the enemy’s garrison, be set at liberty, *according to the capitulation* : but Kâlâ Pundit, and three of the most opulent bankers, together with all the *Brahmens* and *Mútusuddies* of any consideration (to whatever class or description they may belong) *must be placed in confinement, and most carefully guarded*, and the same be reported to us.
 
-### Letter 101: Kumrûddeen
+### Letter 102: Kumrûddeen
 
 * * *
 
-### LETTER CI.
+#### LETTER CI.
 
-### *To the same; dated 27th <span class="small-caps">DÂRÂEY</span>. (9th August.)*
+#### *To the same; dated 27th <span class="small-caps">DÂRÂEY</span>. (9th August.)*
 
 <span class="small-caps">YOU</span> write, under date of the 22d *Dârâey* [4th August], “that on “that day our colours were hoisted on the walls of the fort, and a party “of our troops admitted into the place, which was to be evacuated by “the garrison on the following day.”
 
@@ -2927,83 +2930,83 @@ You write, “ that you had dispatched one *Risála* of *Sair*[^fn-p0194-1] cava
 
 We, some time since, dispatched money for the payment of your army : it has, probably, reached you before now. The returns which you sent of the troops have been received. To-morrow we purpose sending you an additional supply of money.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The orders here given, respecting the *wounded*, as well as the consideration which the *Sultan* appears to have had for the ease and comfort of the army at large, are creditable to his character as a military commander. They would have been still more so, had they comprehended *the sick* in general.
 
-### Letter 102: Runmust Khân
+### Letter 103: Runmust Khân
 
-### LETTER CII.
+#### LETTER CII.
 
-### *To the* <span class="small-caps">Nabob Runmust Khân</span>; *dated* ———.[^fn-p0195-1]
+#### *To the* <span class="small-caps">Nabob Runmust Khân</span>; *dated* ———.[^fn-p0195-1]
 
 [<span class="small-caps">After</span> compliments]........Your letter, informing me of your welfare, was delivered by Khâjeh Lûtfûllah, and afforded me much pleasure. I have also learned, from the said *Khâjeh*, the particulars which you entrusted to his verbal communication. Of the eleven *lacks of rupees*, to which I had a just claim, I have been induced, by consideration for the attachment which that friend has so long borne to me, as well as for the sake of the true faith, and on account of the eminence of your family,[^fn-p0195-2] to remit four *lacks*: you must, therefore, put the remaining seven *lacks of rupees* in a speedy course of payment, by which means our mutual regard and friendship will be augmented. Further particulars will be imparted to you by the above-named *Khâjeh*. Continue always to afford me the satisfaction of hearing of your welfare. For the rest, may you be joyful!
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Runmust Khân was a *Patan* chieftain, who possessed the district of *Kurnool*.[^fn-p0195-3] Hyder Ali compelled him to agree to an annual tribute; though he was, at the same time, a feudatory of the *Nizám*, to whom, when required, he was bound to render military service. By the partition treaty of 1792, his son and successor, Alif Khân, was released from his dependence on Tippoo Sultan, and the tribute payable to the latter transferred to the *Nizám*; by whom (if I mistake not) it was ceded to the East-India Company, by the treaty of 1800. For a more particular account of the dynasty the reader is referred to Appendix, G.
 
 * * *
 
-### Letter 103: Mahommed Ghyâs / Noor Mahommed Khân
+### Letter 104: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER CIII.
+#### LETTER CIII.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated* 3*d* <span class="small-caps">Háshimy</span>. (14*th August*.)
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated* 3*d*<br /><span class="small-caps">Háshimy</span>. (14*th August*.)
 
 <span class="small-caps">Your</span> letter has been received. You may pass twenty days or a month longer there, in *an evasive and procrastinating way*;[^fn-p0196-1] but, at the end of that time, you must, in whatever manner may be [necessary], set out for the Presence, since your remaining there is incompatible with our dignity.
 
-### Letter 104: Mahommed Ghyâs / Noor Mahommed Khân
+### Letter 105: Mahommed Ghyâs / Noor Mahommed Khân
 
 * * *
 
-### LETTER CIV.
+#### LETTER CIV.
 
-### *To the same*; *dated* 4*th* <span class="small-caps">Háshimy</span>. (15*th August*.)
+#### *To the same*; *dated* 4*th* <span class="small-caps">Háshimy</span>. (15*th August*.)
 
 <span class="small-caps">Your</span> longer continuance there is destitute of graciousness [or dignity].[^fn-p0196-2] The dishonour arising from your residing there, upon this unhandsome footing,[^fn-p0196-3] is now become manifest: you must, therefore, at any rate, repair to the Presence.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 As the *Sultan* would not appear to have received any fresh dispatch from the envoys, between the 3d and 4th of *Hâshimy*, it may be supposed, that the directions contained in the present letter (revoking, in a certain degree, those of the former day) arose from a reconsideration of the subject; which probably, for a moment, revived his indignation at the behaviour of the Mahrattah ministers. I say, *for a moment*, in reference to the counter-orders which soon followed.
 
 * * *
 
-### Letter 105: Râjah Râm Chundur
+### Letter 106: Râjah Râm Chundur
 
-### LETTER CV.
+#### LETTER CV.
 
-### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated 9th Hâshimy.* (*20th August.*)
+#### *To* <span class="small-caps">Kumrûddeen Khân</span>; *dated 9th Hâshimy.* (*20th August.*)
 
 <span class="small-caps">Directing</span> him to repair, with the troops under his command, to the Presence, and to leave Shaikh Unser’s *Kushoon* with Bûrhânûddeen.
 
 * * *
 
-### LETTER CVI.
+#### LETTER CVI.
 
-### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated 11th Hâshimy.* (*22d August.*)
+#### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated 11th Hâshimy.* (*22d August.*)
 
 <span class="small-caps">We</span> have received your letter, wherein you write, “that Tâj Khân “and Abdûl Ghufoor Khân, the *Kilaadárs*[^fn-p0197-1] of *Kishngeery*, have sent a “requisition to Wunkut Râo, the *Aumil* of the *Báreh-mehál*,[^fn-p0197-2] for five “hundred hired bullocks and five hundred labourers.” We have considered your letter, as well as that of Wunkut Râo, which was enclosed in it. No other bullocks, besides those belonging to the *Sircar*, are wanted, excepting on urgent occasions, when it may be proper to hire additional ones. In fact, the public establishment of bullocks is not large, and our service sometimes demands more than it can provide: in such cases it is allowable to hire bullocks, as otherwise our service might suffer by delay. We have accordingly written, and enclose a letter to the above-named [*Kilaadárs*], which you will forward to them. This will prevent them from making any further demand for hired bullocks.
 
-### Letter 106: Mohyûddeen Ali Khân
+### Letter 107: Mohyûddeen Ali Khân
 
 * * *
 
-### LETTER CVII.
+#### LETTER CVII.
 
-### *To* <span class="small-caps">Mohyûddeen Ali Khân</span>; *dated* 20*th* <span class="small-caps">Háshimy</span>. (31*st August*.)
+#### *To* <span class="small-caps">Mohyûddeen Ali Khân</span>; *dated* 20*th* <span class="small-caps">Háshimy</span>. (31*st August*.)
 
 [<span class="small-caps">After</span> some minute directions, respecting the fabric of *Bubry* cloths for the use of the troops (patterns of the kinds required being enclosed)[^fn-p0198-1] the letter proceeds thus:]—
 
 It has been reported to us, that you sit constantly at home, without ever appearing at the *Kuchurry*. This is not well. You must pass [a proper portion of] your time [daily] in the *Kuchurry*, and there diligently apply to the affairs of the *Sircar*, without suffering any one to come to you at your own house [on public business]. It would appear, that you never look into the [written] instructions which you received from us. If you act in conformity with our orders, it will be well: otherwise, you will assuredly incur the penalty therein specified.[^fn-p0198-2]
 
-### Letter 107: Monsieur Souliac
+### Letter 108: Monsieur Souliac
 
-### LETTER CVIII.
+#### LETTER CVIII.
 
-### *To* <span class="small-caps">Monsieur Souliac</span>,[^fn-p0199-1] *Governor of Pondicherry; dated* 23*d* <span class="small-caps">Háshimy</span>. (3*d September.*)
+#### *To* <span class="small-caps">Monsieur Souliac</span>,[^fn-p0199-1] *Governor of Pondicherry; dated* 23*d*<br /><span class="small-caps">Háshimy</span>. (3*d September.*)
 
 [<span class="small-caps">After</span> compliments.]........The letter which you sent us, by the hands of the *Vakeel*, Râm Râo, containing accounts of your welfare, and informing us of your arrival at *Pondicherry*, for the administration of the affairs of that place, was duly received by us; and an answer thereto (accompanied by a dress) was dispatched some time since, and will, of course, have reached you.
 
@@ -3013,7 +3016,7 @@ At a former period, when the English army had advanced within eight *Coss* of *P
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It is observable, that the *Sultan*, in this letter, entirely sinks the name of his father, whose actions he applies to himself. Whether such a mode of expression was absolutely warranted by custom, or by the idiom of the language, may be doubted: but, however this might be, there is no reason to suppose that any slight was intended by it to the memory of Hyder; of whom he has, on many occasions, spoken with suitable demonstrations of filial regard and respect.
 
@@ -3021,11 +3024,11 @@ Having already had occasion to remark on the studied but disguised affront put u
 
 * * *
 
-### Letter 108: KUMRÛDDEEN KHÂN
+### Letter 109: KUMRÛDDEEN KHÂN
 
-### LETTER CIX.
+#### LETTER CIX.
 
-### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span>; *dated* 24*th* *HÁSHIMY*. (4*th September*.)
+#### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span>; *dated* 24*th* *HÁSHIMY*. (4*th September*.)
 
 <span class="small-caps">We</span> approve of your having sent Shaikh Unser’s *Kushoon* to join Bûrhânûddeen.
 
@@ -3033,11 +3036,11 @@ You write respecting a supply of money for the pay of your troops. At present we
 
 Another *Purwáneh* is enclosed for the *Aumil* of *Hurriál*, directing him also to send baskets and boatmen for you to the same *Ghaut*. Join us speedily with your army, and make no delay.
 
-### Letter 109: KUMRÛDDEEN KHÂN
+### Letter 110: KUMRÛDDEEN KHÂN
 
 * * *
 
-### LETTER CX.
+#### LETTER CX.
 
 *To the same; dated 26th H<span class="small-caps">ÁSHIMY</span>. (6th September.)*
 
@@ -3047,45 +3050,45 @@ It is known. We approve of your having made this detachment, and direct that, on
 
 We some time ago dispatched money for the payment of the troops commanded by that light of our eyes. This money is arrived at *Dhárwár*, whither you must send an escort to bring it to you.
 
-### Letter 110: Mahommed Ghyâs / Noor Mahommed Khân
+### Letter 111: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER CXI.
+#### LETTER CXI.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span> ; *dated 28th <span class="small-caps">HÁSHIMY</span>. (8th September.)*
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span> ; *dated 28th <span class="small-caps">HÁSHIMY</span>. (8th September.)*
 
 <span class="small-caps">Three</span> letters have been received from you. You write, “ that the “ minister manifests an inclination to procrastinate, with respect to “ your dismission.” It does not signify. You must remain there as long as he is disposed to detain you, and not precipitate your departure. Whenever he dismisses you, you will proceed to the Presence.
 
-### Letter 111: Mahommed Ghyâs / Noor Mahommed Khân
+### Letter 112: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER CXII.
+#### LETTER CXII.
 
-### *To the same ; dated 29th <span class="small-caps">HÂSHIMY</span>. (9th September.)*
+#### *To the same ; dated 29th <span class="small-caps">HÂSHIMY</span>. (9th September.)*
 
 <span class="small-caps">Whatever</span> circumstances we judged it necessary to communicate to you, have been written at great length and distinctly in *Hindivy* : the perusal of it [*i. e.* of the *Hindivy* dispatch] will make you acquainted [with every thing].[^fn-p0203-1] You must ascertain its contents by means of a secret and trust-worthy *Múnshy* : one in all respects entitled to credit and belief, and who shall be incapable of revealing the secrets [entrusted to him.]
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It has been already seen, that Tippoo Sultan occasionally sent his orders in the *Hindivy* language, even to persons whom he usually addressed in *Persian*. Here we we have another example of this extraordinary and unaccountable practice, but still more striking and embarrassing than the former one ; in which we were at liberty to suppose, that the envoys could read a *Hindivy* as well as a *Persian* letter, and only left to wonder why the *Sultan* should, at any time, prefer writing in the *Hindivy*. But it now appears, that his ambassadors were ignorant of that character ; and that, in order to possess themselves of their master’s instructions, it was necessary for them to have recourse to an interpreter. It might have been expected, that under these circumstances, the envoys would, at least, have been spared the trouble and responsibility of procuring such a person, by having one of that description regularly attached to their mission. But this was evidently not the case : nor is it ev enabsolutely certain, that the person to be employed on this occasion was to be found among the servants of the embassy ; though we must either assume this as the fact, or adopt the monstrous supposition of the envoys being obliged to seek, in the capital of their master’s enemy, for an interpreter of his most secret and important orders. To conclude, I must acknowledge that there is nothing in the whole correspondence, which appears to me so completely inexplicable as this matter we have been considering : nor can I help regretting, that the difficulty did not occur to me before my departure from *India*, where I might possibly have been able to obtain a solution of it.
 
 * * *
 
-### Letter 112: Kumrûddeen Khân
+### Letter 113: Kumrûddeen Khân
 
-### LETTER CXIII.
+#### LETTER CXIII.
 
-### *To* <span class="small-caps">Kumrûddeen Khân</span> ; *dated 2d Wásaaey*. (*11th September*.)
+#### *To* <span class="small-caps">Kumrûddeen Khân</span> ; *dated 2d Wásaaey*. (*11th September*.)
 
 <span class="small-caps">Your</span> letter, stating the distress of your troops for money, has been received. Previously to your writing, we had, in contemplation of this distress, dispatched a supply to you, which is, accordingly, now lying at *Dharwár*, to which place you must send a party of horse to escort it to you. Besides this money, we have now sent you from hence a further supply of twenty thousand *pagodas*. When the whole amount shall have reached you, distribute it among your people, and report the same to us
 
-### Letter 113: Meer Mahommed Sâdik
+### Letter 114: Meer Mahommed Sâdik
 
 * * *
 
-### LETTER CXIV.
+#### LETTER CXIV.
 
-### *To* <span class="small-caps">Meer Mahommed Sâdik</span> ; *same Date.* (11*th September*.)
+#### *To* <span class="small-caps">Meer Mahommed Sâdik</span> ; *same Date.* (11*th September*.)
 
 <span class="small-caps">It</span> has been represented to us, that Owbultia,[^fn-p0205-1] a *Mûtusuddy* belonging to the *Tosheh-khâneh*, is on the point of death, and that his brother-in-law is at *Oussoor* : we therefore write to direct, that you cause guards to be placed over his brother-in-law and *Gomâshtehs* ; and that, having made enquiries respecting his substance[^fn-p0205-2] and property, you proceed, by means of scourging [the parties], to obtain possession of the same. Let the utmost diligence and exertions be employed in this business.
 
@@ -3093,7 +3096,7 @@ Lutchmun, another *Mûtusuddy* of the *Tosheh-khâneh*, possesses a full knowled
 
 You and others formerly represented to us, that [this man] possessed property to the amount of a *lack* of *pagodas*. Let the same be sought after and discovered, and the whole be brought to the account of the *Sircar*. What more ?
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It does not appear, from any thing contained in this document, that Owbultia was a public defaulter, or stood charged with any malversations ; and yet, considering the rigour of the proceedings directed, it is difficult to believe otherwise. There is a pretty plain hint in the concluding paragraph, that Meer Sâdik would be held responsible for the realization of the supposed amount of Owbultia’s property. Perhaps, however, this was only meant as a stimulus to the *Dewán’s* exertions in the business.
 
@@ -3101,27 +3104,27 @@ Meer Mahommed Sâdik was the *Sultan’s* principal *Dewân*, and, in that chara
 
 * * *
 
-### Letter 114: Syed Mahommed
+### Letter 115: Syed Mahommed
 
-### LETTER CXV.
+#### LETTER CXV.
 
-### *To* <span class="small-caps">Syed Mahommed</span>, *Kilaadár of* *<span class="small-caps">Seringapatam</span>* ; *dated 3d* *<span class="small-caps">Wásaaey</span>*. (*12th September.*)
+#### *To* <span class="small-caps">Syed Mahommed</span>, *Kilaadár of* *<span class="small-caps">Seringapatam</span>* ; *dated 3d*<br />*<span class="small-caps">Wásaaey</span>*. (*12th September.*)
 
 I<span class="small-caps">t</span> has been reported to us, that the *Mútusuddy* of the *Jyshe*, Kishn Râo, has been bitten by a mad dog : we therefore write to desire that you will give the aforesaid [*Mútusuddy*] in particular charge to the physician, Mahommed Baig, who must administer to him the proper medicines in such cases, and restore him to health. He must also be told *not to let the discharge from the wound stop, but to keep it open for six months.*
 
 N.B. A letter, to the above effect, was likewise written to the physician, Mahommed Baig.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 This is not the only letter in which the *Sultan* has exhibited himself in the character of a physician. A still more curious instance of the same kind will appear hereafter. It would be well, if we could attribute his interference in such matters to any particular solicitude for the welfare of the patients. This motive would, at least, be creditable to his humanity : but humanity, or sympathy in the sufferings of others, was not, it may be safely affirmed, among the *Sultan’s* virtues. His conduct, therefore, on the occasions in question, can only be referred to the vanity, which made him desirous of appearing to know, as well as to direct, every thing.
 
 The Syed Mahommed Khân, to whom this letter is addressed, continued to be *Kilaadár* of *Seringapatam*, to the period of the capture of that place by the English ; and was among the few persons of distinction who survived its fall. He stood high in the confidence of the *Sultan*, who speaking, in his Memoirs, of the manner in which he disposed of some of the principal offices of state on his accession to the *Musnud*, says : “ the *Kilaadáry* of *Putn* I consigned to Syed “ Mahommed, a man long distinguished for his fidelity and courage, and one of “ [our] most ancient adherents.” The situation held for so long a period by this person, must necessarily have made him a participator in many, or most, of the cruelties committed within the walls of *Seringapatam*, by order of his master : he has, nevertheless, obtained credit, for having often granted to the English prisoners confined there, at different times, indulgencies by no means authorized by the *Sultan’s* instructions.
 
-### Letter 115: Noor Mahommed Khân / Mahommed Ghyâs
+### Letter 116: Noor Mahommed Khân / Mahommed Ghyâs
 
-### LETTER CXVI.
+#### LETTER CXVI.
 
-### *To* <span class="small-caps">Noor Mahommed Khân</span> *and* <span class="small-caps">Mahommed Ghyâs</span>; *dated from* <span class="small-caps">Bangalore</span>, *5th Wásaaey. (14th September.)*
+#### *To* <span class="small-caps">Noor Mahommed Khân</span> *and* <span class="small-caps">Mahommed Ghyâs</span>; *dated from*<br /><span class="small-caps">Bangalore</span>, *5th Wásaaey. (14th September.)*
 
 W<span class="small-caps">e</span> have, of late, repeatedly heard, that Râo Râsta having sent for you, you declined waiting upon him, on account of a dispute that had arisen respecting a woman belonging to some Musulman ; returning for answer to his message, “ that if they would let the woman in “ question go,[^fn-p0208-1] you would attend him.” This account has occasioned us the utmost surprise and astonishment. This is a domestic disturbance among the inhabitants of their own country. Where was the necessity of your interfering in this matter, or of your refusing to wait upon Râo Râsta when he sent for you ? thereby throwing our affairs into confusion. It seems to us, *that old age*[^fn-p0208-2] *must have produced this deviation*[^fn-p0208-3] [or change] in your conduct [character or disposition], and rendered you *thus unmindful of your lives and honor*. It would have been most consonant to the state of the times, and to the regard you owed to our interests, if, considering their dissensions as beneficial to *Islám*, you had [secretly] encouraged [or excited] the Musulmans [in their proceedings], while you [apparently] looked on as [unconcerned] spectators, instead of interposing with such an extraordinary recommendation[^fn-p0208-4] as you did; and which was, indeed, altogether, unworthy of your understandings.[^fn-p0209-1] When the Nazarenes seized upon hundreds of Musulman women, where was the zeal for the support [or honour] of Islamism, which you are now so desirous of manifesting *there*?
 
@@ -3129,23 +3132,23 @@ For the future, it will be proper that you should never take any share in their 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 If I understand the foregoing letter rightly (of which, however, I must confess myself to have some doubts) the *Sultan's* meaning was, that both his own personal interests, and those of Islâmism, would have been better promoted, by a continuance of the feuds and animosities which seem to have arisen between the Musulman and Hindoo inhabitants of *Poonah*, in consequence, apparently, of some female intrigue, than by the interposition of the envoys; which, if it succeeded, would have the effect of terminating the disputes in question. Instead of this, he would have had his agents secretly foment and encourage them, and therefore concludes his dispatch, by broadly desiring them “ to rekindle the fire “ of discord,” in order that his enemies may be consumed therein : that is to say, to measure back the false steps they had taken, and let the quarrel which had sprung up take its natural course. At the same time, he seems to have thought, that the interference of the envoys, besides being impolitic, was indecorous and presumptuous, as encroaching on the rights of an independent state. “ It is a “ domestic difference, (says he) concerning only the inhabitants of their own “ country.”
 
 It is uncertain to what particular transaction the *Sultan* alludes, in the passage mentioning the Nazarenes, or English. The violence, however, here imputed to them, is mentioned on other occasions, as well as the present.
 
-### Letter 116: Meer Zynûl Aabideen
+### Letter 117: Meer Zynûl Aabideen
 
-### LETTER CXVII.
+#### LETTER CXVII.
 
-### *To* <span class="small-caps">Meer Zynûl Aabideen</span>, *Sipahdár of a Kushoon; dated* 8*th Wásaaey.* (17*th September.*)
+#### *To* <span class="small-caps">Meer Zynûl Aabideen</span>, *Sipahdár of a Kushoon; dated*<br />8*th Wásaaey.* (17*th September.*)
 
 <span class="small-caps">It</span> has lately been represented to us, that the *Koorgs* have committed some excesses[^fn-p0210-1] at *Zuferábád*. We have, in consequence, written to the *Buktshy* of the *Jyshe*, to dispatch you with two guns and your *Kushoon* to that place. He is also ordered to advance you two thousand *Behádury pagodas*, on account of the pay of your *Kushoon*; as well as a thousand *rupees*, to be applied in compensations to the wounded.[^fn-p0210-2] After leaving a guard over such of Othman Khân’s *Kushoon* as are not to be trusted,[^fn-p0210-3] you will proceed, as above directed, to *Zuferábád*; to the *Foujdár* of which place, Zynûl Aabideen, we have addressed another letter, which is enclosed. You are, in conjunction with him, to make a general attack on the *Koorgs*;[^fn-p0210-4] when, having put to the sword, or made prisoners of, the whole of them, *both the slain and the prisoners* are to be made Musulmans.[^fn-p0210-5] In short, you must so manage matters, as [effectually] to prevent them from exciting any further sedition or disturbance.
 
 Obtaining from the treasury a copy of our regulations respecting the wounded, let your wounded be paid in conformity thereto. Rewards to those men, who may be entitled to them, must also be given from the money in your hands ; from which you must, likewise, make such advances [of pay] to your *Kushoon*, as shall seem proper to you.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I am doubtful, whether by the Zynûl Aabideen, mentioned in the title of this letter, is meant Zynûl Aabideen Shoostry (to whom Letter CXXVIII is unquestionably addressed) or a distinct person, bearing the same name. Though the former is usually distinguished by the addition of *Shoostry* (denoting him to be a native of *Shuster* or *Suza*, in *Persia*) yet the appellation might have been accidentally omitted in the present letter, as it most clearly appears to have been in the title of Letter CXLV.
 
@@ -3155,17 +3158,17 @@ The reader will probably be startled at the order contained in the foregoing let
 
 * * *
 
-### Letter 117: Mahommed Ghyâs Khân / Noor Mahommed Khân
+### Letter 118: Mahommed Ghyâs Khân / Noor Mahommed Khân
 
-### LETTER CXVIII.
+#### LETTER CXVIII.
 
-### *To* <span class="small-caps">Mahommed Ghyâs Khân</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *same Date. (17th September.)*
+#### *To* <span class="small-caps">Mahommed Ghyâs Khân</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *same<br />Date. (17th September.)*
 
 <span class="small-caps">You</span> write, “ that a very great intimacy and friendship subsisted “ between Syed Zynûl Aabideen Khân and Noorûddeen Hûsain Khân, “ the latter of whom is come there [*i. e.* to *Poonah*] on a mission from “ Mr. Boddam, the Governor of *Bombay*; and that the aforesaid Syed, “ actuated by his attachment to our *Sircar*, furnishes you, privately, “ with the secret intelligence of that quarter, and is furthermore ready, “ if it meets our approbation, to take steps towards establishing a friend- “ ship between us and the said Governor.” It is well. We have no objection to your agitating this affair, as you propose, with the *Syed*. You must also obtain the most accurate intelligence from thence, and regularly communicate the same to us. You will, likewise, take the same occasion to represent,[^fn-p0212-2] that our territories and those of the English are contiguous to each other;[^fn-p0212-3] and that, at the time of the treaty concluded between us and the English, it was stipulated, that no assistance should be afforded, either openly or secretly, to our enemies: and, accordingly, we are in possession of copies of the said treaty, containing the aforesaid stipulations, under the respective seals of the Governors of *Bengal*, *Madras*, and *Bombay*. This being the case, it is unsuitable to the rules of friendship, and is even a violation of good faith, that notwithstanding his delivery [to us] of a treaty under his own seal, the Governor of *Bombay* should afford assistance to our enemies. Such conduct is abundantly remote from the usages and conduct of great chiefs.
 
 Agreeably to your suggestion, we enclose a letter to the address of Nujmûd’ Dowlah Behâdûr,[^fn-p0213-1] which you will forward [to him].
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I believe that the Zynûl Aabideen, mentioned in the foregoing letter, was an agent employed at the court of *Poonah* by the *Nabob* of *Cambay*. The *Sultan’s* letter to the latter, being merely complimentary, and only designed to lead to a further intercourse, is omitted.
 
@@ -3175,11 +3178,11 @@ I am ignorant to what circumstance the *Sultan* alludes, where he charges the Go
 
 * * *
 
-### Letter 118: Mâh Mirzâ Khân
+### Letter 119: Mâh Mirzâ Khân
 
-### LETTER CXIX.
+#### LETTER CXIX.
 
-### *To* <span class="small-caps">Mâh Mirzâ Khân</span>; *dated 7th Wásaaey*. (*16th September.*)
+#### *To* <span class="small-caps">Mâh Mirzâ Khân</span>; *dated 7th Wásaaey*. (*16th September.*)
 
 We have, at this time, thought proper to employ you, and the troops under your command, in the reduction of the fort of *Oalpilly*.[^fn-p0213-2] The *Sipahdár*, Shaikh Omar,[^fn-p0214-1] with the troops belonging to him, is already before that place, where you will be joined by him, as well as by four thousand *Kuchurry Piádehs* from *Bangalore*. Part of this force is already arrived at its destination, and the remainder is on its way. On your arrival at *Oalpilly*, you must, in conjunction with the said *Sipahdár*, proceed to dislodge and chastise the *Piádehs* of the *Zemindár* of *Punganoor*; who have posted themselves in the neighbouring woods, from whence they [issue forth and] commit depredations. Having cleared these woods, you must move forward, and taking up a position near *Oalpilly*, open trenches against that place.
 
@@ -3199,7 +3202,7 @@ Dâsiâ is the *Umldár* of that place [*i. e. Punganoor*]: you will, therefore,
 
 Let a reward of five *rupees* be given to every man of our people bringing in the head of a *Piádeh* belonging to the rebel *Polygar*; and let the same reward be granted for every prisoner brought in alive.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The foregoing document is denominated in the original a *Húkm-námeh*, or “ mandate ;” by which name all the *formal* or *set orders*, with which public functionaries were furnished, either at the time of their appointment to office, or subsequent thereto, were usually called, to distinguish them from the current and occasional instructions transmitted to them. They were sometimes divided into articles which were regularly numbered ; and, as observed on a former occasion, generally concluded with a denunciation of the punishment appointed for a neglect or disobedience of the directions contained in them.
 
@@ -3207,31 +3210,31 @@ The term *Fringy*, applied in this dispatch to the English, is generally used (b
 
 * * *
 
-### Letter 119: BÛRHÂNÛDDEEN
+### Letter 120: BÛRHÂNÛDDEEN
 
-### LETTER CXX
+#### LETTER CXX
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated* 8*th* *WÁSAAEY*. (*17th September*.)
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated* 8*th* *WÁSAAEY*. (*17th September*.)
 
 <span class="small-caps">What</span> you have written, relating to Kâlâ Pundit, is duly understood. A letter to him, framed in the manner suggested by you, is sent herewith. Let it be delivered to him : and if, notwithstanding this letter, he should still prove disinclined to repair to our Presence, and persist in his contumacy, an hundred men of the *Uskur*,[^fn-p0217-1] armed with swords and daggers, but without firelocks, must be sent, with orders to approach him gradually, while he is held in conversation [by persons to be instructed for the purpose]. They must then suddenly rush forward, ten men upon every *one* of his[^fn-p0218-1] : and, disarming the *Pundit* and all his party, bind them hand and foot, put the whole in irons, and [in this manner] dispatch them to the Presence. We enclose a letter of the above tenor to Syed Ghuffâr,[^fn-p0218-2] to whom you will deliver it.
 
 * * *
 
-### Letter 120: Mohyûddeen Ali Khân
+### Letter 121: Mohyûddeen Ali Khân
 
-### LETTER CXXI.
+#### LETTER CXXI.
 
-### *To* <span class="small-caps">Mohyûddeen Ali Khân</span>, *<span class="small-caps">Dewân</span> of <span class="small-caps">Kurpah</span>; dated* 9*th* *<span class="small-caps">Wâsaaey</span>.* (18*th September.*)
+#### *To* <span class="small-caps">Mohyûddeen Ali Khân</span>, *<span class="small-caps">Dewân</span> of <span class="small-caps">Kurpah</span>; dated* 9*th*<br />*<span class="small-caps">Wâsaaey</span>.* (18*th September.*)
 
 <span class="small-caps">It</span> has been represented to us, that you have, in a most rigorous and peremptory manner, required of several of our servants at *Kurpah* to evacuate houses which they have occupied for years past, and in the erection of which they have expended considerable sums of money. Such improper proceedings are of evil tendency, and directly contrary to our pleasure : you must, therefore, desist from them, nor again require of any of our servants to quit their habitations. Act according to the instructions which have been delivered to you, and do not pursue the suggestions of your own fancy.
 
 * * *
 
-### Letter 121: Kumrûddeen
+### Letter 122: Kumrûddeen
 
-### LETTER CXXII.
+#### LETTER CXXII.
 
-### *To* <span class="small-caps">Kumrûddeen</span>; *dated* 9*th* *<span class="small-caps">Wâsaaey</span>.* (18*th September.*)
+#### *To* <span class="small-caps">Kumrûddeen</span>; *dated* 9*th* *<span class="small-caps">Wâsaaey</span>.* (18*th September.*)
 
 <span class="small-caps">Agreeably</span> to your request, we have written, and enclose an order to Mohyûddeen Ali Khân, the *Dewân* of *Kurpah*, directing him to desist from disturbing our servants in the possession of their houses. You must forward the same to him.
 
@@ -3239,33 +3242,33 @@ What you write, respecting your desire to proceed unattended [or by yourself][^f
 
 * * *
 
-### Letter 122: BUDEEA ÛZ ZUMÂN
+### Letter 123: BUDEEA ÛZ ZUMÂN
 
-### LETTER CXXIII.
+#### LETTER CXXIII.
 
-### *To* <span class="small-caps">BUDEEA ÛZ ZUMÂN</span>, *TAALÛKDÂR of HÛSCOTAH; dated 6th WÂSAAEY. (15th September.)*
+#### *To* <span class="small-caps">BUDEEA ÛZ ZUMÂN</span>, *TAALÛKDÂR of HÛSCOTAH; dated 6th<br />WÂSAAEY. (15th September.)*
 
 Y<span class="small-caps">OU</span> write, “ that in consequence of the *Cutwâl* being included in “ the pay abstracts of the *Kundachâr*, the *Kilaadâr* of *Hûscotah* “ [conceiving the office to be in his disposal] had placed a very low “ and improper person in the *Cutwâly*, to the great detriment of the “ business of your department.” It is known. The appointment and removal of the *Cutwâl* rests with you : you will, therefore, replace [as you propose] the former *Cutwâl*, and taking the payment of his monthly stipend upon yourself, see that he applies himself with diligence to the business of the *Sircar*. We have written to the aforesaid *Kilaadâr* on the subject of the *Cutwâl*, whose appointment, we have told him, is to depend upon you.
 
-### Letter 123: Ali Râjah Beeby
+### Letter 124: Ali Râjah Beeby
 
-### LETTER CXXIV.
+#### LETTER CXXIV.
 
-### *To* <span class="small-caps">Ali Râjah Beeby</span> ; *dated* 9*th Wâsaaey*. (18*th September*.)
+#### *To* <span class="small-caps">Ali Râjah Beeby</span> ; *dated* 9*th Wâsaaey*. (18*th September*.)
 
 W<span class="small-caps">HAT</span> you have written, relative to your having paid twenty thousand *rupees* to Meer Zynûl Aabideen, the *Foujdâr* of *Zuferâbâd*, is understood, and meets our approbation. You must, in like manner, discharge the remaining balance due by you. Upon your arrival at the Presence, we will personally state all matters to you. *Tillicherry* is situated near the *Taalûk* of *that refuge of chastity* :[^fn-p0220-1] you will, therefore, regularly transmit to us whatever intelligence you may [from time to time] be able to procure from thence.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Ali Râjah Beeby was the same person, whom the English, in the west of *India*, sometimes dignified with the title of Queen of *Cannanore*, of which petty state she was the hereditary ruler. I am ignorant, at what period *Cannanore* became tributary to the *Mysore* chief : but it continued so till the cession of *Malabar* to the English, by the partition treaty of 1792; when all the rights and authority claimed by Tippoo Sultan in that province, were transferred to the East-India Company.
 
 Ali Râjah Beeby was a Mahommedan ; and on this account, perhaps, was treated by the *Sultan* with somewhat more distinction and lenity, than he was accustomed to show to his other tributaries in *Malabar*. He would not seem, however, to have succeeded in his endeavours to conciliate her good-will, or to inspire her with confidence in him. This fact is deducible from the constant repugnance, which she evinced to complying with his desire of seeing her at *Seringapatam* ; and which will appear, on more than one occasion, in the course of the subsequent correspondence.
 
-### Letter 124: BÛRHANÛDDEEN
+### Letter 125: BÛRHANÛDDEEN
 
-### LETTER CXXV.
+#### LETTER CXXV.
 
 *To* <span class="small-caps">BÛRHANÛDDEEN</span> ; *dated* 10*th* *WÂSAAEY*. (19*th September*.)
 
@@ -3273,15 +3276,15 @@ Ali Râjah Beeby was a Mahommedan ; and on this account, perhaps, was treated by
 
 It appears, that Kâlâ Pundit is attended by ten or twelve [armed] followers : let [therefore] a hundred men of the *Uskur*, armed with swords and shields, be sent [to his habitation or quarters], with instructions to close in with the party, and, overpowering, seize on the whole. The aforesaid *Pundit*, together with his adherents, must then be dispatched to the Presence, as before directed.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 This letter is little more than a repetition of Letter CXX, addressed to the same person, and written only two days before. Such an early re-iteration of his orders on the subject, strongly marks the impatience of the *Sultan* to get possession of his victim.
 
 * * *
 
-### Letter 125: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
+### Letter 126: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
 
-### LETTER CXXVI.
+#### LETTER CXXVI.
 
 *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span> ; *dated* 14*th*  
 *WÂSAAEY*. (23*d September*.)
@@ -3292,39 +3295,39 @@ On the anniversary of the *Dusharrah*,[^fn-p0222-1] you will distribute among th
 
 * * *
 
-### Letter 126: SYED GHUFFÂR
+### Letter 127: SYED GHUFFÂR
 
-### LETTER CXXVII.
+#### LETTER CXXVII.
 
-### *To* <span class="small-caps">SYED GHUFFÂR</span> ; *dated from* <span class="small-caps">SERINGAPATAM</span>, 27*th Wâsaaey*. (6*th October*.)
+#### *To* <span class="small-caps">SYED GHUFFÂR</span> ; *dated from* <span class="small-caps">SERINGAPATAM</span>, 27*th Wâsaaey*.<br />(6*th October*.)
 
 <span class="small-caps">YOUR</span> letter, inclosing a list of the arms of Kâlâ Pundit, &c. has been received. What you write, respecting the seizure and confinement in irons of the said *Pundit* and his adherents, is understood and approved. We shall shortly direct you to repair to our Presence : be quick, therefore, in dispatching what business you have there.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 This is the last occasion on which Kâlâ Pundit is mentioned. Of his ultimate fate I know nothing : but it may be safely conjectured, that it was not a mild one.
 
-### Letter 127: Zynûl Aabideen Shoostry
+### Letter 128: Zynûl Aabideen Shoostry
 
-### LETTER CXXVIII.
+#### LETTER CXXVIII.
 
-### *To* <span class="small-caps">Zynûl Aabideen Shoostry</span>; *same Date.* (*6th October.*)
+#### *To* <span class="small-caps">Zynûl Aabideen Shoostry</span>; *same Date.* (*6th October.*)
 
 <span class="small-caps">Your</span> letter has been received. How came it, that notwithstanding your knowledge of the rainy season, you did not take *Kúndilehs*[^fn-p0223-1] with you? This circumstance occasions us great surprise. Let the grain, furnished by such of the *Ryots* as have submitted to your authority, be paid for. On the other hand, let that belonging to those *Ryots* who have adopted a rebellious course, be plundered, and applied to the use of your army.
 
 Let assistance be afforded to Lucherâm, the *Huzáry*.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The person to whom the foregoing letter is addressed was a brother of Meer Allum, so well known as minister for English affairs at the court of *Hyderabad*. I do not know at what period he engaged in the service of Tippoo Sultan; but I believe, that no intercourse, of any kind, subsisted between the brothers. Zynûl Aabideen, though occasionally employed by the *Sultan* in situations of trust, would appear to have been principally esteemed for his supposed literary qualifications. He it was who composed the *Futhúl Mújáhideen*,[^fn-p0223-2] under the immediate direction of the *Sultan* himself. He was also the author of the *Súltáne Tuwáreekh*, mentioned by Colonel Wilks, in the Preface to his valuable History of Mysore : but this work appears to have been little more than a rhetorical amplification of the *Sultan's* own Memoirs, as far as the latter went. The reproof given to Zynûl Aabideen, in the present dispatch, is mild in the extreme, compared with the invectives which we shall hereafter see bestowed upon him.
 
 * * *
 
-### Letter 128: KUMRÛDDEEN
+### Letter 129: KUMRÛDDEEN
 
-### LETTER CXXIX.
+#### LETTER CXXIX.
 
 *To* <span class="small-caps">KUMRÛDDEEN</span> ; *dated 29th Wâsaaey, from* <span class="small-caps">SERINGAPATAM</span>.  
 (*8th October*.)
@@ -3333,23 +3336,23 @@ The person to whom the foregoing letter is addressed was a brother of Meer Allum
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It would appear, from this and other letters in the present collection, that desertions were frequent in the armies of the *Sultan* : but so they are in all the native armies of *India*. It is probable, however, that the evil might be experienced rienced, in a peculiar degree, by Tippoo Sultan, since he would seem to have been in the habit of occasionally recruiting his ranks by forced levies; a practice, of which I am not aware that any other example is to be found among the princes or states of *India*.
 
 * * *
 
-### Letter 129: Zynûl Aabideen
+### Letter 130: Zynûl Aabideen
 
-### LETTER CXXX.
+#### LETTER CXXX.
 
-### *To* <span class="small-caps">Zynûl Aabideen</span>, *Buktshy*[^fn-p0225-1] *of Ehshâm, at Furrûkh-yâb Hisâr*;[^fn-p0225-2] *same Date.* (8th October.)
+#### *To* <span class="small-caps">Zynûl Aabideen</span>, *Buktshy*[^fn-p0225-1] *of Ehshâm, at Furrûkh-yâb<br />Hisâr*;[^fn-p0225-2] *same Date.* (8th October.)
 
 <span class="small-caps">Your</span> letter, stating the insolvency of the late postmaster[^fn-p0225-3] of *Mânâyâr*,[^fn-p0225-4] &c., has been received. What was necessary to be said, regarding the above-mentioned postmaster, as well as the postmasters of *Runhully*,[^fn-p0225-5] was heretofore written at the greatest length. It is wonderful that you should not have acted conformably [to those directions :] but that, instead of doing so, you should repeatedly address us on the subject, and pursue [in this manner] your own fancies. For the future, you must not write to us on such matters, but conduct yourself agreeably to our former orders.
 
-### Letter 130: ZYNÛL AABIDEEN SHOOSTRY
+### Letter 131: ZYNÛL AABIDEEN SHOOSTRY
 
-### LETTER CXXXI.
+#### LETTER CXXXI.
 
 *To* <span class="small-caps">ZYNÛL AABIDEEN SHOOSTRY</span>; *dated* <span class="small-caps">SERINGAPATAM</span>, 1*st*  
 <span class="small-caps">ZUBURJUDY</span>. (10*th October*.)
@@ -3358,9 +3361,9 @@ It would appear, from this and other letters in the present collection, that des
 
 * * *
 
-### Letter 131: ZYNÛL AABIDEEN SHOOSTRY
+### Letter 132: ZYNÛL AABIDEEN SHOOSTRY
 
-### LETTER CXXXII.
+#### LETTER CXXXII.
 
 *To the same; dated* 3*d* <span class="small-caps">ZUBURJUDY</span>. (12*th October*.)
 
@@ -3370,17 +3373,17 @@ You have with you fifteen hundred bundles of gunpowder, thirty rounds of ammunit
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Strong as the censure, conveyed in the preceding letter, undoubtedly is, it will presently be seen, that the full measure of the *Sultan's* anger against this unfortunate commander was not yet dealt out. Vide Letters CXXXVI and CXXXVII.
 
 * * *
 
-### Letter 132: Mahommed Ghyâs / Noor Mahommed Khân
+### Letter 133: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER CXXXIII.
+#### LETTER CXXXIII.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *same Date.*
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *same Date.*
 
 *(12th October.)*
 
@@ -3390,21 +3393,21 @@ Noor Mahommed Khân being indisposed, it would be highly improper that you shoul
 
 * * *
 
-### Letter 133: Ghûlâm Hyder
+### Letter 134: Ghûlâm Hyder
 
-### LETTER CXXXIV.
+#### LETTER CXXXIV.
 
-### *To* <span class="small-caps">Ghûlâm Hyder</span>; *same Date.* (12*th October.*)
+#### *To* <span class="small-caps">Ghûlâm Hyder</span>; *same Date.* (12*th October.*)
 
 <span class="small-caps">You</span> write for instructions, with regard to the prices at which you should buy certain articles for our use,[^fn-p0228-1] in order that you may regulate your purchases accordingly. Old age has certainly made havock on your understanding, otherwise you would have known that the *Mútusuddies here* are not the proper persons to determine the market prices *there*. It is the *Mútusuddies* there, and the instructions given to them on this head, which should be referred to on this occasion. Seek the necessary information from the *Dewány Kuchurry*, and act accordingly.
 
 * * *
 
-### Letter 134: Bûrhânûddeen
+### Letter 135: Bûrhânûddeen
 
-### LETTER CXXXV.
+#### LETTER CXXXV.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 4*th* <span class="small-caps">Zuburjudy</span>. (13*th October.*)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 4*th* <span class="small-caps">Zuburjudy</span>. (13*th October.*)
 
 <span class="small-caps">Your</span> letter has been received. Your longer continuance at *Nergúnd*, is needless; while it is also productive of the ruin and destruction of your army: we therefore write, to desire[^fn-p0228-2] you will remove with your forces into the country of *Kittoor*, where forage and gram will be found in abundance. Let orders be given to the *Kilaadár* of *Nergúnd*, to make the necessary repairs to the fort.
 
@@ -3414,7 +3417,7 @@ What you say, of the assembling of the enemy’s forces, is known. Do you keep y
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It will be seen, hereafter, that the real object of the *Sultan*, in directing Bûrhânûddeen to remove his camp to *Kittoor*, was not to facilitate the procuring of supplies, but to obtain possession of that place.
 
@@ -3422,9 +3425,9 @@ The indifference, if not contempt, with which the *Sultan* here speaks of the mo
 
 * * *
 
-### Letter 135: Zynûl Aabideen Shoostry
+### Letter 136: Zynûl Aabideen Shoostry
 
-### LETTER CXXXVI.
+#### LETTER CXXXVI.
 
 *To* <span class="small-caps">Zynûl Aabideen Shoostry</span>; *dated* 5*th* <span class="small-caps">Zuburjudy.</span>  
 (14*th October.*)
@@ -3435,9 +3438,9 @@ It appears, from the tenor of all the letters which have successively reached us
 
 * * *
 
-### Letter 136: Zynûl Aabideen Shoostry
+### Letter 137: Zynûl Aabideen Shoostry
 
-### LETTER CXXXVII.
+#### LETTER CXXXVII.
 
 *To the same; dated from* <span class="small-caps">Seringapatam</span>, 6*th* <span class="small-caps">Zuburjudy.</span>  
 (15*th October.*)
@@ -3452,7 +3455,7 @@ With respect to your reiterated representations of the expediency of our repairi
 
 Now that you are about to proceed with grain, and other supplies, to *Zuferâbâd*, be mindful to regulate your march according to the rules laid down in the *Futhúl’ Mújahideen* for operations in a close country; and to conduct the convoy, with circumspection, to its destination.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It may be inferred, from the foregoing dispatch, that Zynûl Aabideen had received rather a serious check from the *Koorgs*. This conjecture derives the more support, from the circumstance of the *Sultan’s* judging it necessary to proceed in person against the insurgents. I have, at this time, no means of ascertaining what force he actually took with him on this occasion; but though he affected to make so light of the business, it is not probable that he would put any thing to hazard, by proceeding against such a determined enemy with a *very* inconsiderable force. I am ignorant of the sequel of Zynûl Aabideen’s history. It is, however, probable, that the *Sultan* did not again entrust him with the management of the sword, but confined him, for the future, to the exercise of his pen.
 
@@ -3462,39 +3465,39 @@ But however deficient this order of men may have been in the species of spirit a
 
 * * *
 
-### Letter 137: KUMRÛDDEEN KHÂN
+### Letter 138: KUMRÛDDEEN KHÂN
 
-### LETTER CXXXVIII.
+#### LETTER CXXXVIII.
 
-### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span>; *dated* 9*th* <span class="small-caps">ZUBURJUDY</span>. (18*th October*.)
+#### *To* <span class="small-caps">KUMRÛDDEEN KHÂN</span>; *dated* 9*th* <span class="small-caps">ZUBURJUDY</span>. (18*th October*.)
 
 <span class="small-caps">DESIRING</span> him to repair with his army, as expeditiously as possible, to the Presence: and signifying, *that the design of reducing Adoni was dropped*.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 This dispatch was not in my recollection, at the time of my writing my observations on Letter XCII, or I should have been inclined to refer the *weighty enterprize*, there spoken of by the *Sultan*, to a meditated attack upon *Adoni*, with more confidence than I then thought it right to do. It now clearly appears, that this enterprize had certainly been in his contemplation, previously to the date of the foregoing letter, and very probably as far back as the end of July. Why the attempt was dropped at this time, cannot now be satisfactorily shown: but it is not improbable, that the necessity which arose, for his directing his attention to the *Koorg* quarter, might have obliged the *Sultan* to suspend the execution of his purpose for some time longer.
 
 * * *
 
-### Letter 138: ZYNÛL AABIDEEN SHOOSTRY
+### Letter 139: ZYNÛL AABIDEEN SHOOSTRY
 
-### LETTER CXXXIX.
+#### LETTER CXXXIX.
 
-### *To* <span class="small-caps">ZYNÛL AABIDEEN SHOOSTRY</span>; *dated* 10*th* <span class="small-caps">ZUBURJUDY</span>. (*19th October*.)
+#### *To* <span class="small-caps">ZYNÛL AABIDEEN SHOOSTRY</span>; *dated* 10*th* <span class="small-caps">ZUBURJUDY</span>.<br />(*19th October*.)
 
 <span class="small-caps">ANNOUNCING</span> to him the intended arrival of the *Sultan*, in person, [at *Zuferâbâd*], after the festival of *Zilhijjeh*; but desiring that the circumstance should not be made public.
 
-### Letter 139: Mahommed Ghyâs / Noor Mahommed Khân
+### Letter 140: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER CXL.
+#### LETTER CXL.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated* 7*th* <span class="small-caps">Zuburjudy</span>. (16*th October*.)
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated* 7*th*<br /><span class="small-caps">Zuburjudy</span>. (16*th October*.)
 
 <span class="small-caps">What</span> you write, on the subject of having made up and delivered new flags and banners to your people, is understood and approved. You and Noor Mahommed Khân must reside together in the same place, and display your zeal in our service on all occasions. What more? You must see, that your men regularly perform their exercise, but without using gunpowder.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 This letter is nearly a transcript of letter CXXXIII, written only four days before. Other instances of the like repetition occur in the course of this correspondence.
 
@@ -3502,39 +3505,39 @@ The injunction against expending powder on the field days of the escort, may hav
 
 * * *
 
-### Letter 140: Bûrhânûddeen
+### Letter 141: Bûrhânûddeen
 
-### LETTER CXLI.
+#### LETTER CXLI.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 13*th* <span class="small-caps">Zuburjudy</span>. (22*d October*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 13*th* <span class="small-caps">Zuburjudy</span>. (22*d October*.)
 
 <span class="small-caps">Directing</span> him again[^fn-p0235-1] to remove with his army into the *Kittoor* country, and to report to the *Sultan* the state of affairs in that quarter. Telling him, also, *that after receiving an order from the Presence, he must be careful to act in conformity with it.*
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The concluding sentence of the foregoing abridged dispatch is somewhat ambiguously expressed in the original. It might either have been meant as a rebuke, for the general's not having marched to *Kittoor*, in pursuance of the former orders for that purpose; or it may have signified, that he was to be prepared to execute such future directions as the *Sultan* might send him immediately upon the receipt of the same, (contemplating, probably, the subsequent orders of the subject of *Kittoor*.)[^fn-p0236-1] I incline to prefer the latter interpretation.
 
 * * *
 
-### Letter 141: MÂH MIRZÂ KHÂN
+### Letter 142: MÂH MIRZÂ KHÂN
 
-### LETTER CXLII.
+#### LETTER CXLII.
 
-### *To* <span class="small-caps">MÂH MIRZÂ KHÂN</span>; *dated* 14*th* <span class="small-caps">ZUBURJUDY.</span> (23*d October*.)
+#### *To* <span class="small-caps">MÂH MIRZÂ KHÂN</span>; *dated* 14*th* <span class="small-caps">ZUBURJUDY.</span> (23*d October*.)
 
 <span class="small-caps">THE</span> Governor of *Madras* has written to us, “ that, agreeably to our “ desire, he has sent strict orders to the *Taalûkdârs* of *Sátghur* not to “ afford protection to the *Zemindár* of *Punganoor*, or to any people “ of the latter district.” We *therefore* direct, that you give no disturbance to the country of the English, but pursue the business you have been sent upon. You will be speedily joined by the *Sipahdár*, Imâm Khân, who has been sent with his *Kushoon* to reinforce you.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The *Sultan* would appear to have been put into better humour than usual with the English, by the ready compliance of the government of Fort St. George with the application he had made to it, respecting the *Zemindár* of *Punganoor*. He drops, in the present letter, the disrespectful appellation of *Fringy*, and (grounding his order, as it were,[^fn-p0237-1] on the British governor’s amicable conduct) directs Mâh Mirzâ Khân not to give any disturbance to the English territory. It will be recollected, however, that the same order was issued to this officer, on his first appointment to proceed against *Oalpilly*. (See Letter CXIX.)
 
-### Letter 142: Ehsânûllah Khân
+### Letter 143: Ehsânûllah Khân
 
-### LETTER CXLIII.
+#### LETTER CXLIII.
 
 *To* <span class="small-caps">Ehsânûllah Khân</span>; *dated* 18*th* <span class="small-caps">Zuburjudy</span> (27*th October*.)
 
@@ -3542,7 +3545,7 @@ The *Sultan* would appear to have been put into better humour than usual with th
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Whether the *Usud-Ilhyes*, here mentioned, were a distinct body from the *Ahmedies*, spoken of in Letter XLII, or whether this was only another appellation for the latter corps, I am unable to say. I rather think, however, that they were separate institutions ; but that both were military, and both composed of proselytes to the Mahommedan faith, though of different descriptions. It is true, that there is nothing distinctly said of the conversion of the Hindoos, mentioned in the text, to *Islámism* : but I think the context, as well as the name given them, sufficiently shows, that their embracing the Mahommedan religion, was a necessary condition of their incorporation with the *Usud-Ilhyes*. This term signifies *the Divine Lion*, or *the Lion of God*, and was one of the appellations bestowed on Ali. It has been already seen, that Tippoo sometimes designated his own state, or country, by this name ; calling it, occasionally, the *Sircar Ussud-Ilhye* ; as well as *Ahmedy*, *Hydery*, and *Khodádád*.
 
@@ -3552,27 +3555,27 @@ With respect to the order for enrolling *women* among the *Usud-Ilhyes*, I concl
 
 * * *
 
-### Letter 143: Râjah Râm Chundur
+### Letter 144: Râjah Râm Chundur
 
-### LETTER CXLIV.
+#### LETTER CXLIV.
 
-### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated* 19*th* <span class="small-caps">Zuburjudy</span>. (28*th October*.)
+#### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated* 19*th* <span class="small-caps">Zuburjudy</span>. (28*th October*.)
 
 T<span class="small-caps">HAT</span> which is contained in our instructions, respecting the transactions of the *Surráfs* [or money-brokers,] is to be considered as an absolute [or irrevocable] decree,[^fn-p0238-1] according to which you must act in all matters, great or small.[^fn-p0238-2]
 
 * * *
 
-### Letter 144: Governor of Pondicherry
+### Letter 145: Governor of Pondicherry
 
-### LETTER CXLV.
+#### LETTER CXLV.
 
-### *To the* <span class="small-caps">Governor</span> *of* <span class="small-caps">Pondicherry</span>; *dated* 21*st* <span class="small-caps">Zuburjudy</span>. (30*th October*.)
+#### *To the* <span class="small-caps">Governor</span> *of* <span class="small-caps">Pondicherry</span>; *dated* 21*st* <span class="small-caps">Zuburjudy</span>.<br />(30*th October*.)
 
 D<span class="small-caps">ESIRING</span> him to send back to *Madras* [*i. e.* to dismiss] the *Brahmen* news-writer residing at *Pondicherry* [on the part either of the *Nabob* of *Arcot*, or the English government]; and signifying the *Sultan's* wish, to purchase [at *Pondicherry*] seven or eight thousand firelocks.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The objection taken by the *Sultan* to the residence of a news-writer from *Madras* at *Pondicherry*, could proceed only from an anxiety to prevent the English Government from obtaining information, from the latter place, of the correspondence he was at this time carrying on with the French. If such an application, as the one here recorded, had come to the knowledge of the British government at the period it was made, it would certainly have justified, and probably have led to, the gravest suspicions of the *Sultan's* designs. Yet it would not appear, that any doubts were entertained, at the period in question, of his disposition to maintain the peace, which he had not long before concluded with us.
 
@@ -3580,59 +3583,59 @@ I have no means of ascertaining, whether the *Sultan's* request to the French go
 
 * * *
 
-### Letter 145: Meer Zynûl Aabideen / Ahmed Baig
+### Letter 146: Meer Zynûl Aabideen / Ahmed Baig
 
-### LETTER CXLVI.
+#### LETTER CXLVI.
 
-### *To* <span class="small-caps">Meer Zynûl Aabideen</span>, *and* <span class="small-caps">Ahmed Baig</span>, *<span class="small-caps">Sipahdár</span>* ; *dated* 22d <span class="small-caps">Zuburjudy</span>. (31*st October*.)
+#### *To* <span class="small-caps">Meer Zynûl Aabideen</span>, *and* <span class="small-caps">Ahmed Baig</span>, *<span class="small-caps">Sipahdár</span>* ; *dated*<br />22d <span class="small-caps">Zuburjudy</span>. (31*st October*.)
 
 <span class="small-caps">Directing</span> them to dispatch four hundred *Goonies* of grain to *Zuferábád* ; and to leave a gun and guard[^fn-p0239-1] from each of their divisions at *Hybutpoor*, from whence the *Sultan* would bring them on, when he arrived there, which would be soon, as he had that day [*viz.* the 22d *Zuburjudy*] entered his tents, for the purpose of proceeding against the rebels.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Meer Zynûl Aabideen *Shoostry*, was informed, in Letter CXXXI, that Ahmed Baig had been sent to join him ; so that it is probable, that he is meant by the Zynûl Aabideen, named in the title of the present letter, though the usual addition to his name, or *Shoostry*, has been omitted. If omitted in this instance, it may also have been omitted in the title of Letter CXVII, which see.
 
 * * *
 
-### Letter 146: Bûrhânûddeen
+### Letter 147: Bûrhânûddeen
 
-### LETTER CXLVII.
+#### LETTER CXLVII.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated* 29*th* <span class="small-caps">Zuburjudy</span>. (7*th* *November*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated* 29*th* <span class="small-caps">Zuburjudy</span>. (7*th* *November*.)
 
 <span class="small-caps">Your</span> letter, informing us of the arrival of yourself and army near the fort of *Kittoor*, has been received. You must, in the first instance, *send and invite the* Daisye [^fn-p0240-1] *of that place to an interview, and give encouraging assurances to his managing servants*. You will next dispatch some rocket-men for the protection[^fn-p0240-2] of the country. *After the aforesaid* Daisye *shall have arrived at your quarters, let the fort be occupied by a party of the* Sircar's *troops*.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 If the reader should be at any loss to comprehend the drift of the *Sultan* in the preceding letter, his difficulty will be entirely removed, on a perusal of Letter CLVII. I am ignorant of the situation of *Kittoor*, if I rightly read the name, which, however, is extremely doubtful ; the characters, in which it is written, being susceptible of at least a dozen different readings. It may be the *Kittoor* of Captain Moor’s map, which is placed north-west of *Dhárwár*, about twenty miles. The *Polygar*, or *Zemindár*, of *Kittoor*, is mentioned in the tenth article of the treaty of *Poonah* (concluded between the British government and the Mahrattahs, in June 1790) as one of those feudatories, dependent, at the same time, both on the courts of *Poonah* and *Hyderabad*. It is very possible, that he might also have been among the tributaries of Tippoo Sultan ; as the *Nabob* of *Sháhnoor* certainly was, though declared in the treaty, just referred to, to be “ subject to service with both “ the *Nizám* and the *Paishwa*.
 
 * * *
 
-### Letter 147: Imaum of Muscat
+### Letter 148: Imaum of Muscat
 
-### LETTER CXLVIII.
+#### LETTER CXLVIII.
 
-### *To the* *<span class="small-caps">Imaum</span>* *of* *<span class="small-caps">Muscat</span>* ; *dated 4th* *<span class="small-caps">Hydery</span>*. (*11th November.*)
+#### *To the* *<span class="small-caps">Imaum</span>* *of* *<span class="small-caps">Muscat</span>* ; *dated 4th* *<span class="small-caps">Hydery</span>*. (*11th November.*)
 
 [After compliments] . . . . . . . . A *Dow*, the property of Rutn Jee and Jeewun Doss, merchants of *Muscat*, having in these days [*i. e.* lately] been dismasted in a storm, came into *Byte-Koal*,[^fn-p0241-1] a sea-port, belonging to the *Sircar*. Although, in such cases, it is customary for the prince, or ruler of the place, where a ship happens to be wrecked, to take possession of it, and whatever it contains ; yet, as there is no distinction between the country of the *Sircar* and *Muscat*, and as the above mentioned merchants declared themselves to be your subjects, the vessel in question, together with all the stores contained in it, has been restored to the aforesaid merchants, and is, accordingly, now dispatched to you, along with this friendly epistle. For the rest, peace be with you.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The word, which I have rendered *wrecked*, is in the original شکست (*shikust*) and such, I believe, is its usual acceptation, when applied to a ship. But this interpretation does not well agree with the argument of the text, since the vessel in question was only *damaged*, not *wrecked*. Then, whatever the custom may be in some countries, with respect to wrecks (properly so called), it is no where, I believe, usual to consider vessels, merely dismasted, or otherwise damaged, as wrecks: consequently, the *Sultan* has here pretended to confer a favor, where nothing more than a right was rendered (for we are not told that the repairs were made at his expence), and laid claim to a credit for having released a ship, which he was not authorized, by the practice of any civilized country, to confiscate, or detain.
 
 * * *
 
-### Letter 148: Mahommed Ghyâs / Noor Mahommed Khân
+### Letter 149: Mahommed Ghyâs / Noor Mahommed Khân
 
-### LETTER CXLIX.
+#### LETTER CXLIX.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated 7th* <span class="small-caps">Hydery</span>. (*14th November*.)
+#### *To* <span class="small-caps">Mahommed Ghyâs</span> *and* <span class="small-caps">Noor Mahommed Khân</span>; *dated 7th*<br /><span class="small-caps">Hydery</span>. (*14th November*.)
 
 <span class="small-caps">Agreeably</span> to your suggestion, we have written to Bûrhânûddeen, desiring him, in the event of the hat-wearer,[^fn-p0242-1] Monsieur Tuviâs,[^fn-p0242-2] passing over to our army from the forces under *Kishn Pundit*, to advance the aforesaid [hat-wearer] something to defray his expences [on the road], and dispatch him to the Presence.
 
 N. B. A letter, of the same tenor and date, was written to Bûrhânûddeen.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The person here spoken of was probably some French adventurer in the Mahrattah service, who may have made overtures to the Mysore envoys at *Poonah* for deserting to their master, or may have been tampered with by them for that purpose.
 
@@ -3640,11 +3643,11 @@ Kishn Râo, I believe, commanded the division of the Mahrattah army, which passi
 
 * * *
 
-### Letter 149: Hukeem, Khán of Sháhnoor
+### Letter 150: Hukeem, Khán of Sháhnoor
 
-### LETTER CL.
+#### LETTER CL.
 
-### *To* <span class="small-caps">Hukeem</span>, *<span class="small-caps">Khán</span>* *of* *<span class="small-caps">Sháhnoor</span>*; *dated* 9th <span class="small-caps">Hydery</span>. (*16th November.*)
+#### *To* <span class="small-caps">Hukeem</span>, *<span class="small-caps">Khán</span>* *of* *<span class="small-caps">Sháhnoor</span>*; *dated* 9th <span class="small-caps">Hydery</span>.<br />(*16th November.*)
 
 <span class="small-caps">Your</span> agreeable letter has been received. You write, “ that you have “ discharged to the amount of eighteen *lacks* of *rupees* [of our claim “ upon you] by bankers’ accepted bills, and request that we will either “ excuse you the remaining eight *lacks* [due to us] or allow the payment “ of it to be postponed to next year.”
 
@@ -3652,17 +3655,17 @@ It is known. A statement of the sums, of which that friend was, through his own 
 
 * * *
 
-### Letter 150: SHÂHNOOR WÂLEH
+### Letter 151: SHÂHNOOR WÂLEH
 
-### LETTER CLI.
+#### LETTER CLI.
 
-### *To the* <span class="small-caps">SHÂHNOOR WÂLEH</span> (*i. e. the* <span class="small-caps">NABOB</span> *of* <span class="small-caps">SHÁHNOOR</span>); *dated* 10*th* <span class="small-caps">HYDERY.</span> (17*th November*.)
+#### *To the* <span class="small-caps">SHÂHNOOR WÂLEH</span> (*i. e. the* <span class="small-caps">NABOB</span> *of* <span class="small-caps">SHÁHNOOR</span>); *dated*<br />10*th* <span class="small-caps">HYDERY.</span> (17*th November*.)
 
 <span class="small-caps">DISPATCH</span> to Nursia, the *Dewán* of *Nugr*, one *lack* of *pagodas*, on account of annual *Paishcush* for the year *Jullo*,[^fn-p0244-2]and take his receipt for the same.
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The year *Jullo* had still more than four months to run; consequently, so far from granting Abdûl Hukeem any indulgence of the kind he had solicited, the *Sultan* appears determined to make him pay his *Paishcush* in advance, or, at least, before it was fairly due.
 
@@ -3670,31 +3673,31 @@ The style of Letter CL was tolerably civil: that of the present letter (written 
 
 * * *
 
-### Letter 151: Turbiyut Ali Khân
+### Letter 152: Turbiyut Ali Khân
 
-### LETTER CLII.
+#### LETTER CLII.
 
-### *To* <span class="small-caps">Turbiyut Ali Khân</span>; *dated* 10*th* <span class="small-caps">Hydery</span>, *from near* <span class="small-caps">Zufer- âbâd</span>. (17*th November*.)
+#### *To* <span class="small-caps">Turbiyut Ali Khân</span>; *dated* 10*th* <span class="small-caps">Hydery</span>, *from near* <span class="small-caps">Zufer-<br />âbâd</span>. (17*th November*.)
 
 <span class="small-caps">Ordering</span> the *Hydery* and *Kuntardey fanams* to be put in circulation, throughout all the districts depending on *Bangalore*.
 
 * * *
 
-### Letter 152: Râjah Râm Chundur
+### Letter 153: Râjah Râm Chundur
 
-### LETTER CLIII.
+#### LETTER CLIII.
 
-### *To* <span class="small-caps">Râjah Râm Chundur</span>; *same Date*. (17*th November*.)
+#### *To* <span class="small-caps">Râjah Râm Chundur</span>; *same Date*. (17*th November*.)
 
 To the same effect as the preceding letter; with this addition, *viz*. “ that no other but the *Kuntardey* and *Hydery fanams* shall be allowed “ to pass current ”
 
 * * *
 
-### Letter 153: Meer Kâzim
+### Letter 154: Meer Kâzim
 
-### LETTER CLIV.
+#### LETTER CLIV.
 
-### *To* <span class="small-caps">Meer Kâzim</span>, <span class="small-caps">*Dârogha*, *or* *Commercial Consul*</span>; *dated* 10*th* <span class="small-caps">Hydery</span>, *at* <span class="small-caps">Muscat</span>. (17*th November*.)
+#### *To* <span class="small-caps">Meer Kâzim</span>, <span class="small-caps">*Dârogha*, *or* *Commercial Consul*</span>; *dated* 10*th*<br /><span class="small-caps">Hydery</span>, *at* <span class="small-caps">Muscat</span>. (17*th November*.)
 
 <span class="small-caps">Directing</span> him not to dispose, hastily or immediately, of the black pepper and *sandal* wood [in his charge], but to wait till they had attained a desirable price. [Literally, “ till the selling price of them “ equalled his *heart's desire.*”]
 
@@ -3702,9 +3705,9 @@ N.B. The *Sultan*, not thinking, perhaps, the preceding orders sufficiently expl
 
 * * *
 
-### Letter 154: Meer Kâzim
+### Letter 155: Meer Kâzim
 
-### LETTER CLV.
+#### LETTER CLV.
 
 *To the same; dated* 11*th* <span class="small-caps">HYDERY.</span> (18*th November.*)
 
@@ -3716,7 +3719,7 @@ N.B. A separate letter to the same person, and of the same date, directs him to 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The *Sultan's* distrust of the integrity or diligence of his agent is here strongly manifested; as is also his own want of reflection, in attempting to regulate, with such strictness and precision, the business of loading and unloading vessels, which must necessarily have depended, in a great degree, on the state of the weather and other circumstances, which it might not be in the power of the consul to controul.
 
@@ -3724,9 +3727,9 @@ The *Sultan’s* anxiety to establish a pearl fishery on the Coast of *Malabar*,
 
 * * *
 
-### Letter 155: Meer Kâzim
+### Letter 156: Meer Kâzim
 
-### LETTER CLVI.
+#### LETTER CLVI.
 
 *To the same ; dated* 12*th* <span class="small-caps">Hydery.</span> (19*th November.*)
 
@@ -3734,9 +3737,9 @@ The *Sultan’s* anxiety to establish a pearl fishery on the Coast of *Malabar*,
 
 * * *
 
-### Letter 156: Bûrhânûddeen
+### Letter 157: Bûrhânûddeen
 
-### LETTER CLVII.
+#### LETTER CLVII.
 
 *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated* 15*th* <span class="small-caps">Hydery.</span> (22*d November.*)
 
@@ -3744,9 +3747,9 @@ The *Sultan’s* anxiety to establish a pearl fishery on the Coast of *Malabar*,
 
 N.B. Two letters, to the same effect as the foregoing one, were written to Syed Humeed and Syed Ghuffâr, both of them belonging to Bûrhânûddeen’s army.
 
-### Letter 157: Bûrhânûddeen
+### Letter 158: Bûrhânûddeen
 
-### LETTER CLVIII.
+#### LETTER CLVIII.
 
 *To the same ; dated* 16*th* <span class="small-caps">HYDERY</span>. (23*d November*.)
 
@@ -3754,9 +3757,9 @@ N.B. Two letters, to the same effect as the foregoing one, were written to Syed 
 
 * * *
 
-### Letter 158: MEER KÂZIM
+### Letter 159: MEER KÂZIM
 
-### LETTER CLIX.
+#### LETTER CLIX.
 
 *To* <span class="small-caps">MEER KÂZIM</span>, *and the other Commercial Agents at* <span class="small-caps">MUSCAT</span>, *dated*  
 18*th* <span class="small-caps">HYDERY</span>. (25*th November*.)
@@ -3765,11 +3768,11 @@ N.B. Two letters, to the same effect as the foregoing one, were written to Syed 
 
 N.B. A letter, to the same effect, was written to the *Dulâl* (or public broker) at *Muscat*.
 
-### Letter 159: Meer Kâzim
+### Letter 160: Meer Kâzim
 
-### LETTER CLX.
+#### LETTER CLX.
 
-### *To* <span class="small-caps">Meer Kâzim</span>; *same Date. (25th November.)*
+#### *To* <span class="small-caps">Meer Kâzim</span>; *same Date. (25th November.)*
 
 You are to buy yearly, and send to the *Aumil* of *Mangalore*, a hundred *Utls*[^fn-p0249-1] of almonds, and thirty *Utls* of pistachio-nuts.
 
@@ -3777,21 +3780,23 @@ You have still [on hand], of former importations, both *Sandal* wood and black p
 
 * * *
 
-### Letter 160: Budrûz Zumân Khân
+### Letter 161: Budrûz Zumân Khân
 
-### LETTER CLXI.
+#### LETTER CLXI.
 
-### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *same Date. (25th November.)*
+#### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *same Date. (25th November.)*
 
 You have done well in making prisoners of the turbulent and seditious, including Kurry-tummah,[^fn-p0249-2] with their women and children. These last must be detained. With respect to Kurry-tummah, if he be one of the insurgents he must be suspended on a tree.
 
-[A verse.] “ The head of an enemy is best when hurled from the  
-“ point of a javelin : as a path-way is best, from whence the bramble  
-“ has been rooted out.”
+> **[verse_insert]**
+>
+> [A verse.] “ The head of an enemy is best when hurled from the  
+> “ point of a javelin : as a path-way is best, from whence the bramble  
+> “ has been rooted out.”
 
 After properly securing the passes, you must proceed, with your collected force, in quest of the rebels, making prisoners of as many of them as possible. We some time ago wrote to you, desiring you would contrive some means of getting possession of the person of Moona Kool ;[^fn-p0250-1] and we now again write, to say that *he must be secured, by stratagem or deceit*. Let a roll, moreover, of the number of men and women already made captives, be transmitted to us.
 
-### OBSERVATIONS
+##### OBSERVATIONS
 
 The foregoing letter commences with three or four words, of which I am not able to make any sense. The transcriber may, probably, have miswritten them. They appear thus in my manuscript : الاحي بچاي بايد داشت which may, no doubt, be so read as to be interpreted, “ You must put [or keep] the *cardamums* in a pit.” The writer then proceeds to say, “ You have done well, &c.” But if the foregoing passage be understood literally, it will appear to be a strange and very unintelligible order, to be addressed to an officer at the head of a body of troops employed on active service. On the other hand, if it be taken in a metaphorical sense, it will be no easy matter to assign a plausible meaning to it. *Cardamums*, I believe, are a principal article of the natural produce of the country in which Budrûz Zumân Khân was, at this period, stationed, and which I suppose to have been *Bidnore*, and the districts situated between that and the sea coast : possibly, then, by the word *cardamums*, the *Sultan* (who sometimes affected to express himself enigmatically) might intend to designate some particular individuals, or class, among the refractory inhabitants of that quarter, whom he wished to be disposed of *under ground*. It must be owned, however, that this conjecture is too slightly supported to be entitled to much consideration ; and I shall, therefore, being unable to suggest a better, leave the difficulty to exercise the ingenuity of some of my oriental readers.
 
@@ -3803,19 +3808,19 @@ We have, in the present letter, another example of the flagitious policy which t
 
 * * *
 
-### Letter 161: Budrûz Zumân Khân
+### Letter 162: Budrûz Zumân Khân
 
-### LETTER CLXII.
+#### LETTER CLXII.
 
 *To the same; same Date.* (*25th November.*)
 
 <span class="small-caps">Write</span> a letter to Moona Kool, inviting him to come to you, *and then seize upon his person*.
 
-### Letter 162: Khâjeh Seth / Khâjeh Herâtoon
+### Letter 163: Khâjeh Seth / Khâjeh Herâtoon
 
-### LETTER CLXIII.
+#### LETTER CLXIII.
 
-### *To* <span class="small-caps">Khâjeh Seth</span>, <span class="small-caps">Khâjeh Herâtoon</span>,[^fn-p0252-1] *and two others, (names illegible); dated* 19*th* <span class="small-caps">Hydery</span>. *(26th November.)*
+#### *To* <span class="small-caps">Khâjeh Seth</span>, <span class="small-caps">Khâjeh Herâtoon</span>,[^fn-p0252-1] *and two others, (names illegible); dated* 19*th* <span class="small-caps">Hydery</span>. *(26th November.)*
 
 <span class="small-caps">We</span> have lately learned from Khâjeh ——, “ that you have it in contemplation to come, with ships laden with merchandize, to our ports, for the purpose of trading ; and that you wish to sail under English or Portuguese colours, and to obtain our special license[^fn-p0252-2] for these purposes.” We highly approve of your intention, and desire you will repair, in the utmost confidence, with your merchandize, either to the port of *Mangalore* or to the port of *Calicut* ; where landing your goods, you shall, in the first instance, supply us, at a fair price, with such articles as we may want, after which you shall be at liberty to sell the remainder at your pleasure, and to take your departure when you like.
 
@@ -3823,25 +3828,25 @@ We have accordingly written, and herewith enclose, two *Purwânehs* to the above
 
 N.B. Then follow the two *Purwânehs*, referred to in the foregoing letter. In these, the *Sultan* directs an invoice, or list, of the goods imported, to be transmitted to him on the arrival of the ships ; in order that he may signify his pleasure respecting the articles which he may wish to purchase, previously to a free and general sale of the cargoes taking place. It does not appear by the subsequent correspondence, whether or not the merchants, in question, thought proper to open a trade with *Mysore*, on the discouraging condition stipulated by the *Sultan*.
 
-### Letter 163: RÂJAH RÂM CHUNDUR
+### Letter 164: RÂJAH RÂM CHUNDUR
 
-### LETTER CLXIV.
+#### LETTER CLXIV.
 
-### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span>; *dated* 20*th* <span class="small-caps">HYDERY.</span> (27*th November.*)
+#### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span>; *dated* 20*th* <span class="small-caps">HYDERY.</span> (27*th November.*)
 
 <span class="small-caps">RESPECTING</span> a manufactory of musquets to be established in the Fort of *Khán-Khân-hully* : for which purpose, if it should be necessary to pull down forty or fifty houses belonging to poor people, *it will not signify*, as they will erect other habitations in their room, within the *Paith* [or outer town].
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 No mention being made of any compensation to the poor inhabitants for the demolition of their houses, it may be concluded that none was authorized. It is probable, indeed, that the houses in question were of very little value : but that consideration does not lessen the injustice of the present order, whatever may be the case as to the actual hardships which it inflicted.
 
 * * *
 
-### Letter 164: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
+### Letter 165: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
 
-### LETTER CLXV.
+#### LETTER CLXV.
 
-### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span>; *dated* 21*st* <span class="small-caps">HYDERY.</span> (28*th November.*)
+#### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span>; *dated* 21*st* <span class="small-caps">HYDERY.</span> (28*th November.*)
 
 <span class="small-caps">YOU</span> write, “ that the *Brahmens* attached to your mission cabal or “ intrigue [privately] with the managers [ministers] there, “ independently of you, and, by this means, occasion prejudice to our affairs.” It excites our astonishment, that such unwarrantable proceedings should take place, notwithstanding your being on the spot. What is the reason that you do not flog and [otherwise] severely punish the offenders ? Let us be informed what person has been guilty of this offence.
 
@@ -3851,21 +3856,21 @@ We have already replied to the letter from Râo Râsta, as well as to that from 
 
 * * *
 
-### Letter 165: BUDRÛZ ZUMÂN KHÂN
+### Letter 166: BUDRÛZ ZUMÂN KHÂN
 
-### LETTER CLXVI.
+#### LETTER CLXVI.
 
-### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *dated* 22*d* <span class="small-caps">HYDERY</span>. (*29th November.*)
+#### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *dated* 22*d* <span class="small-caps">HYDERY</span>. (*29th November.*)
 
 <span class="small-caps">YOUR</span> letter, containing an inventory, or memorandum, of plundered cattle, money, and goods,[^fn-p0254-1] has been received. You must load the money and goods upon five hundred of the aforesaid cattle; and placing a strong guard over them, send them to Ghûlâm Ali, at *Pálinág-târ*,[^fn-p0254-2] from whence a thousand *Piáddehs* are about to be dispatched to the Presence. Your party having joined these, the whole will proceed hither together. You must [continue to] make diligent search for, and get possession of, more [of the property of the rebels].
 
 * * *
 
-### Letter 166: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
+### Letter 167: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
 
-### LETTER CLXVII.
+#### LETTER CLXVII.
 
-### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span>; *dated* 25*th* <span class="small-caps">HYDERY</span>. (*2d December.*)
+#### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span>; *dated* 25*th*<br /><span class="small-caps">HYDERY</span>. (*2d December.*)
 
 <span class="small-caps">YOUR</span> letter has been received. We approve of the offerings you have made at the two *Durgáhs* [or shrines]. You also did well, in presenting a *Búrhánpoory* dress and a *Fuzee* to Râo Râsta the day he visited you.
 
@@ -3875,7 +3880,7 @@ You moreover write, “ that the *Mútusuddies*[^fn-p0255-1] with you have [of �
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The offerings, here spoken of, were directed to be made in a former letter, (which it has not been thought necessary to give), and consisted of a coverlid, or counterpane, of *Kemkháb*, and fifty *rupees* in money. The *Durgáhs* (or shrines) in question, where those of *Húsámúddeen* and *Suláhúddeen*, situated, I conclude, somewhere in the vicinity of *Poonah*, or at least in the Mahrattah territory.
 
@@ -3883,11 +3888,11 @@ It would appear, from the circumstances of Râo Râsta’s determining to commun
 
 * * *
 
-### Letter 167: BUDRÛZ ZUMÂN KHÂN
+### Letter 168: BUDRÛZ ZUMÂN KHÂN
 
-### LETTER CLXVIII.
+#### LETTER CLXVIII.
 
-### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span> ; *dated* 26*th* <span class="small-caps">HYDERY</span>. (3*d December.*)
+#### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span> ; *dated* 26*th* <span class="small-caps">HYDERY</span>. (3*d December.*)
 
 <span class="small-caps">DIRECTING</span> him to stop for four days at *Tul-Kauvery*, and to wait for further orders from the Presence, previously to his proceeding to the *Páyen-Ghaut*. Also, to seize upon as many of the rebels and their cattle as possible ; and, cutting the rice [around him], to feed his own cattle upon it. The closing paragraph of this dispatch is given entire, and is as follows :
 
@@ -3895,11 +3900,11 @@ A *Purwáneh* for Moona Kool is enclosed. Let the same be conveyed to him, and c
 
 * * *
 
-### Letter 168: BÛRHÂNÛDDEEN
+### Letter 169: BÛRHÂNÛDDEEN
 
-### LETTER CLXIX.
+#### LETTER CLXIX.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *same Date.* (3*d December.*)
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *same Date.* (3*d December.*)
 
 <span class="small-caps">THE</span> letter you sent us has passed under our view, and its contents are duly perceived.
 
@@ -3933,7 +3938,7 @@ Shaikh Unser must be instructed to obtain from the *Aumils* of the before-mentio
 
 We shall ourself shortly arrive in that quarter; inasmuch as we have, by the blessing of God, completely settled all the affairs of *Zuferábád*.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The foregoing dispatch forms one of the few exceptions, afforded by the present collection, to the usually concise style of the *Sultan*’s mandates. It is diffuse and minute in the extreme: from which circumstance may be inferred the importance which he attached to the acquisition of *Kittoor*, and his solicitude to turn it to the best account.
 
@@ -3959,11 +3964,11 @@ The *Sultan* has added to the preceding narrative the following curious and impo
 
 “ It is the custom with you, for the eldest of five brothers to marry, and for the “ wife of such brother to be common to all five: hence there cannot be the slightest “ or remotest doubt of your being all bastards and whoresons. This is *about* the “ seventh time that you have acted treasonably towards the *Sircar*, and plundered “ our armies: I have now [therefore] vowed to the true God, that if you ever “ again conduct yourselves traiterously or wickedly, I will not revile or molest a “ single individual among you, but making *Ahmedies* [^fn-p0267-1] [*i. e. Musulmans*] of the “ whole of you, transplant you all from this country to some other; by which “ means, from being illegitimate, your progeny or descendants may become “ legitimate, and the epithet of whoresons [^fn-p0267-2] may no longer belong to your tribe.”
 
-### Letter 169: SYED HUMEED / SYED GHUFFÂR
+### Letter 170: SYED HUMEED / SYED GHUFFÂR
 
-### LETTER CLXX.
+#### LETTER CLXX.
 
-### *To* <span class="small-caps">SYED HUMEED</span> *and* <span class="small-caps">SYED GHUFFÂR</span>; *dated from* <span class="small-caps">ZUFERÂBÂD</span>, 28*th* <span class="small-caps">HYDERY</span>. (5*th December.*)
+#### *To* <span class="small-caps">SYED HUMEED</span> *and* <span class="small-caps">SYED GHUFFÂR</span>; *dated from* <span class="small-caps">ZUFERÂBÂD</span>,<br />28*th* <span class="small-caps">HYDERY</span>. (5*th December.*)
 
 T<span class="small-caps">HE</span> humble address sent by you has been received, and the particulars of the occupation of the fort of *Kittoor*, by a garrison of our troops, are comprehended.
 
@@ -3971,17 +3976,17 @@ You must place guards, composed of trust-worthy men, at different points, which 
 
 * * *
 
-### Letter 170: URSHUD BAIG KHÂN, FOUJDÂR of CALICUT
+### Letter 171: URSHUD BAIG KHÂN, FOUJDÂR of CALICUT
 
-### LETTER CLXXI.
+#### LETTER CLXXI.
 
-### *To* <span class="small-caps">URSHUD BAIG KHÂN</span>, *FOUJDÂR of CALICUT; dated* 1*st* <span class="small-caps">TÚLOOEY</span>. (8*th December.*)
+#### *To* <span class="small-caps">URSHUD BAIG KHÂN</span>, *FOUJDÂR of CALICUT; dated* 1*st* <span class="small-caps">TÚLOOEY</span>.<br />(8*th December.*)
 
 Y<span class="small-caps">OU</span> must, on some pretence or other, send to Worm-râj, the *Râjah* of *Kurtinad*, to his brother Sabbâbut, and to Unnund Kurp, his manager,[^fn-p0268-2] to come and visit you; upon their doing which you are to secure their persons, and to report the same to us. You must keep this matter secret, and make no delay [in the execution thereof.]
 
-### Letter 171: Meer Kâzim
+### Letter 172: Meer Kâzim
 
-### LETTER CLXXII.
+#### LETTER CLXXII.
 
 *To* <span class="small-caps">Meer Kâzim</span>; *dated 2d* <span class="small-caps">Túlooey</span>. (*9th December.*)
 
@@ -3989,15 +3994,15 @@ Y<span class="small-caps">OU</span> must, on some pretence or other, send to Wor
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It is uncertain whether the pistachio-nuts, almonds, and raisins, here ordered to be procured, were designed for the *Sultan’s* own consumption, or as articles of trade, to be retailed in the shops, of which some account has already appeared.
 
 * * *
 
-### Letter 172: Shâh Mahommed / Khyrûllâh
+### Letter 173: Shâh Mahommed / Khyrûllâh
 
-### LETTER CLXXIII.
+#### LETTER CLXXIII.
 
 *To* <span class="small-caps">Shâh Mahommed</span> *and* <span class="small-caps">Khyrûllâh</span>; *same Date.* (*9th December.*)
 
@@ -4005,17 +4010,17 @@ It is uncertain whether the pistachio-nuts, almonds, and raisins, here ordered t
 
 Commands them, agreeably to their former orders, to procure wood, and all other materials they require, in whatever manner they shall think proper and practicable, and apply the same to the work in hand.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 This letter would seem to convey to the persons addressed, a power of procuring the articles in question, by violence, or any other means they might think fit to employ.
 
 * * *
 
-### Letter 173: Râjah Râm Chundur
+### Letter 174: Râjah Râm Chundur
 
-### LETTER CLXXIV.
+#### LETTER CLXXIV.
 
-### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated* 3*d* <span class="small-caps">Tûlooey.</span> (10*th December*.)
+#### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated* 3*d* <span class="small-caps">Tûlooey.</span> (10*th December*.)
 
 <span class="small-caps">You</span> write, “ that at *Húscottah*, and other places, the *Jowkdárs* of “ the *Húzoor* are proceeding to relieve [or change] the troops stationed “ in the [several] forts, whose pay you are, in consequence, agreeably “ to our orders, preparing to issue; but that, in the mean while, the “ *Mútusuddies* of the *Ehshám Kuchurry* say, that certain stoppages are “ to be made, on account of the appointments [or commissions] of “ *Jumaadárs*, &c. for which stoppages, you observe, you see no authority “ in our instructions [to you].”
 
@@ -4025,37 +4030,37 @@ You further write, “ that Syed Peer, the *Kilaadár*, demands pay for “ men 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The stoppages here spoken of, probably referred to some tax, or fees, which the *Sultan* might have ordered to be levied on new appointments, for the benefit of the government.
 
 Râm Chundur appears, in the present instance, to have been very unjustly reproved ; for, notwithstanding the decisive tone assumed on this occasion by the *Sultan*, it may be safely contended, that the *Rájah* was strictly justified, both by the general scope of his master’s instructions, and the particular nature of the case in question, in what he did. Is he not told, in the very same letter, “ that he will be made “ to refund all disbursements unauthorized by his instructions ?” And does it appear, that he was in possession of any regular, or official notification, of the innovation which he was required to carry into effect ? The *Dewán* was, unquestionably, entitled to be duly apprized of a regulation, to which he was expected to conform.
 
-### Letter 174: Shumsûddeen Khân
+### Letter 175: Shumsûddeen Khân
 
-### LETTER CLXXV.
+#### LETTER CLXXV.
 
-### *To* <span class="small-caps">Shumsûddeen Khân</span>;[^fn-p0272-1] *dated* 5*th* *<span class="small-caps">Tûlooey</span>*. (12*th December*.)
+#### *To* <span class="small-caps">Shumsûddeen Khân</span>;[^fn-p0272-1] *dated* 5*th* *<span class="small-caps">Tûlooey</span>*. (12*th December*.)
 
 <span class="small-caps">Directing</span> him to air in the sun eighteen bales of worm-eaten [or moth-eaten] shawls; and after putting cummin-seed, &c. into the bales, to tie them up again, and lay them carefully by.
 
 * * *
 
-### Letter 175: Budrûz Zumân Khân
+### Letter 176: Budrûz Zumân Khân
 
-### LETTER CLXXVI.
+#### LETTER CLXXVI.
 
-### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *dated* 7*th* *<span class="small-caps">Tûlooey</span>*. (14*th December*.)
+#### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *dated* 7*th* *<span class="small-caps">Tûlooey</span>*. (14*th December*.)
 
 <span class="small-caps">Whatever</span> we propose ordering we shall shortly order, on the subject of the rebel Moona Kool.
 
 * * *
 
-### Letter 176: Shâh Noorûllah
+### Letter 177: Shâh Noorûllah
 
-### LETTER CLXXVII.
+#### LETTER CLXXVII.
 
-### *To* <span class="small-caps">Shâh Noorûllah</span>; *dated* 8*th* *<span class="small-caps">Tulooey</span>*. (15*th December*.)
+#### *To* <span class="small-caps">Shâh Noorûllah</span>; *dated* 8*th* *<span class="small-caps">Tulooey</span>*. (15*th December*.)
 
 <span class="small-caps">Agreeably</span> to our former orders, you are to proceed to *Mangalore*; and there obtaining from the *Aumil* of that place whatever supplies [or stores] may be required for the use of the ships, you are to dispatch the latter to *Tidry*.[^fn-p0272-2]
 
@@ -4065,7 +4070,7 @@ You moreover write, “ that the *Aumil* of *Mangalore* delivers to you “ only
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The *Sultan* having now determined on sending another embassy to *Constantinople*, and from thence to *France* (the one previously dispatched by the same route, having, as before stated, been recalled), Shâh Noorûllah was employed to make the necessary preparations for the purpose. The same person was subsequently appointed a member of this mission; which, however, proved equally abortive with that which had preceded it, and was, in its turn, succeeded by another (as will be seen hereafter) in 1787.
 
@@ -4073,17 +4078,17 @@ It has been said, that the embassies proposed to be sent to the court of France,
 
 * * *
 
-### Letter 177: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
+### Letter 178: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
 
-### LETTER CLXXVIII.
+#### LETTER CLXXVIII.
 
-### *To* <span class="small-caps">Râjah Râm Chundur</span>; *same Date.* (*15th December.*)
+#### *To* <span class="small-caps">Râjah Râm Chundur</span>; *same Date.* (*15th December.*)
 
 <span class="small-caps">Directing</span> him to pay monthly four *pagodas* and a half to the European *Chailah*[^fn-p0273-1] sent by Syed Mahommed Khân, the *Kilaadár* of *Putn*, and to assign him some employment.
 
-### LETTER CLXXIX.
+#### LETTER CLXXIX.
 
-### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span>*; same Date.*
+#### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span>*; same Date.*
 
 *(15th December.)*
 
@@ -4101,17 +4106,17 @@ The gifts from the two shrines, together with your memorandum of the counterpane
 
 * * *
 
-### Letter 178: Seven Superintendants of the Post, at the Seven capital Cities of the Sultanut (or Kingdom)
+### Letter 179: Seven Superintendants of the Post, at the Seven capital Cities of the Sultanut (or Kingdom)
 
-### LETTER CLXXX.
+#### LETTER CLXXX.
 
-### *To the Seven <span class="small-caps">Superintendants</span> of the <span class="small-caps">Post</span>, at the Seven capital Cities of the <span class="small-caps">Sultanut</span> (or Kingdom); dated 9th <span class="small-caps">Túlooey</span>. (16th December.)*
+#### *To the Seven <span class="small-caps">Superintendants</span> of the <span class="small-caps">Post</span>, at the Seven capital Cities of the <span class="small-caps">Sultanut</span> (or Kingdom); dated 9th <span class="small-caps">Túlooey</span>. (16th December.)*
 
 (<span class="small-caps">Circular</span>.)
 
 <span class="small-caps">We</span> have fixed the *Coss* at six thousand *Guz*, which distance [or space] must be travelled by the postmen in a *ghurry* and a half [or thirty-three minutes and forty-five seconds]. If the letters appertaining to your province [or department] are not delivered according to this rate, and any delay arises, you must flog the *Hurkárehs* belonging to you : and if the delay should proceed from the men of another division of the post, you must report the same to us, in writing. You are, moreover, to denote the hour, the day of the month, and day of the week, on the superscription of all your dispatches. This order is to be strictly attended to.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 A volume of the *Sultan’s* regulations, in my possession, contains the following notice respecting the *Guz*, as established by him :
 
@@ -4123,11 +4128,11 @@ I am not able to specify, with any certainty, the *seven* capital cities intende
 
 * * *
 
-### Letter 179: Ali Râjah Beeby
+### Letter 180: Ali Râjah Beeby
 
-### LETTER CLXXXI.
+#### LETTER CLXXXI.
 
-### *To* <span class="small-caps">Ali Râjah Beeby</span>; *same Date*. (16*th December*.)
+#### *To* <span class="small-caps">Ali Râjah Beeby</span>; *same Date*. (16*th December*.)
 
 W<span class="small-caps">e</span> have received your letter by Fukhrûddeen, who has also expatiated to us upon your situation. The custom of the world is this. Servants and dependants hold themselves [at all times] prepared for the performance ance of services; the execution of orders; obedience and fidelity. Many times have we written to that lady of chaste degree[^fn-p0277-1] on the subject of repairing to our Presence; in reply to which you have continually brought forward evasions and excuses, and still continue to do the same. In this case, what is to be done? Be yourself the judge.
 
@@ -4135,11 +4140,11 @@ Rooe Wurm-râj, who presented himself before us, was honored with a grant of the
 
 * * *
 
-### Letter 180: DEWÂN and BUKTSHY of each of the Seven KUCHURRIES of the Seat of the SULTANUT (or SERINGAPATAM)
+### Letter 181: DEWÂN and BUKTSHY of each of the Seven KUCHURRIES of the Seat of the SULTANUT (or SERINGAPATAM)
 
-### LETTER CLXXXII.
+#### LETTER CLXXXII.
 
-### *To the* *<span class="small-caps">DEWÂN</span>* *and* *<span class="small-caps">BUKTSHY</span>* *of each of the Seven* *<span class="small-caps">KUCHURRIES</span>* *of the Seat of the* *<span class="small-caps">SULTANUT</span>* (*or* *<span class="small-caps">SERINGAPATAM</span>*); *dated* 10*th* *<span class="small-caps">TULOOEY</span>*. (17*th December*.)
+#### *To the* *<span class="small-caps">DEWÂN</span>* *and* *<span class="small-caps">BUKTSHY</span>* *of each of the Seven* *<span class="small-caps">KUCHURRIES</span>* *of the Seat of the* *<span class="small-caps">SULTANUT</span>* (*or* *<span class="small-caps">SERINGAPATAM</span>*); *dated* 10*th* *<span class="small-caps">TULOOEY</span>*. (17*th December*.)
 
 (C<span class="small-caps">IRCULAR</span>.)
 
@@ -4147,7 +4152,7 @@ Rooe Wurm-râj, who presented himself before us, was honored with a grant of the
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 In a loose paper in my possession, containing directions for the regulation of military salutes on various occasions,[^fn-p0277-2] there is a note, or memorandum, purporting, that the *Sultan* was born on the 14th of *Túlooey* of the year of the *Higera* 1165 ; on the anniversary of which day it is ordered, “ that a salute[^fn-p0278-1] of thirty-one “ guns shall be fired at ten o’clock in the morning, and all the people of the city “ observe the same as a festival.”
 
@@ -4155,11 +4160,11 @@ Whether or not this rejoicing was intended to be general throughout the kingdom,
 
 * * *
 
-### Letter 181: EAATIMÂDY KHOJEH FIRÂSUT
+### Letter 182: EAATIMÂDY KHOJEH FIRÂSUT
 
-### LETTER CLXXXIII.
+#### LETTER CLXXXIII.
 
-### *To* <span class="small-caps">EAATIMÂDY KHOJEH FIRÂSUT</span>;[^fn-p0278-2] *dated* 11*th* <span class="small-caps">TÚLOOEY</span>. (18*th December*.)
+#### *To* <span class="small-caps">EAATIMÂDY KHOJEH FIRÂSUT</span>;[^fn-p0278-2] *dated* 11*th* <span class="small-caps">TÚLOOEY</span>.<br />(18*th December*.)
 
 <span class="small-caps">THE</span> memorandum of medicines [perhaps some prescription] which you sent has passed under our view ; but the essences,[^fn-p0278-3] therein specified, belong to the European practice, whereas Mahommed Baig is a physician of the Greek school. The conclusion to be drawn from this is, that in omitting to insert the Greek medicines, and substituting in their place those in use among the Europeans, you could have had no other view, than that of making a profit by the sale of the latter.
 
@@ -4167,17 +4172,17 @@ You must get a memorandum [or list] of Greek medicines made out by the above-nam
 
 I am
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I am obliged to acknowledge, that I do not clearly understand this letter, which appears to be addressed to some eunuch, who exercised the business of a pharmacopolist ; but whether under the authority, and for the benefit, of the *Sultan*, or on his own individual account, I cannot determine. The former supposition would certainly not be at variance with the practice of this extraordinary character in other cases ; and, in some measure, supported by the general tenor of the letter. On the other hand, if the medicines, when compounded, were to be sold exclusively on account of the *Sultan*, there is some difficulty in comprehending whence the profit was to arise to the *Khojeh*, with the pursuit of which he is accused by his sovereign. After all, however, the difficulty may proceed from nothing but my want of due information on the subject.
 
 * * *
 
-### Letter 182: Ali Râjah Beeby
+### Letter 183: Ali Râjah Beeby
 
-### LETTER CLXXXIV.
+#### LETTER CLXXXIV.
 
-### *To* <span class="small-caps">Ali Râjah Beeby</span> ; *dated 12th Tûlooey.* (*19th December.*)
+#### *To* <span class="small-caps">Ali Râjah Beeby</span> ; *dated 12th Tûlooey.* (*19th December.*)
 
 <span class="small-caps">The</span> humble address you sent to us has passed under our view, and the particulars set forth in it are become duly apparent.
 
@@ -4191,89 +4196,89 @@ N.B. A letter, in conformity with the tenor of the foregoing dispatch, was writt
 
 * * *
 
-### Letter 183: Shumsûddeen Khân and others
+### Letter 184: Shumsûddeen Khân and others
 
-### LETTER CLXXXV.
+#### LETTER CLXXXV.
 
-### *To* <span class="small-caps">Shumsûddeen Khân</span> *and others* ;[^fn-p0280-1] *dated* 13*th* <span class="small-caps">Túlooey.</span> (20*th December.*)
+#### *To* <span class="small-caps">Shumsûddeen Khân</span> *and others* ;[^fn-p0280-1] *dated* 13*th* <span class="small-caps">Túlooey.</span><br />(20*th December.*)
 
 <span class="small-caps">Directing</span> them to deposit the produce of the revenues of *Nugr* in the *Tosheh-kháneh* ; and to carry to account [or give credit in their account for] the *value of all old cloths*, in like manner [or at the same rate] as the *Dároghás* of the *Jinsy* formerly fixed the same.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 This letter is somewhat perplexing ; nor am I clear that I understand it rightly. The word پارچه which I have rendered *cloths*, may mean either cloth in the piece, or *clothes* (wearing apparel). Then it is also possible, it may have been intended that the old cloth, or clothes, in question, should be sold, and the produce carried to account : an interpretation which, I think, the original would very well bear out.
 
-### Letter 184: Bûrhânûddeen
+### Letter 185: Bûrhânûddeen
 
-### LETTER CLXXXVI.
+#### LETTER CLXXXVI.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 14*th* <span class="small-caps">Tulooey</span>, *at Night.* (21*st December*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 14*th* <span class="small-caps">Tulooey</span>, *at Night.* (21*st December*.)
 
 <span class="small-caps">Directing</span> him to send for Wenkia Naig, the banker; and also to transmit a *Kowl* [engagement] and letter of encouragement to Koornath Pundit. To write to Syed Meerân, the *Kilaadár* of *Dhárwár*, directing him to keep a strict watch over the family of Umbâjee Râm and his nephew, and to take care that they are not suffered to go any where. Desiring him, moreover, *not to think* of putting garrisons of the *Sircar* into *Sháhpoor*, *Bulgong*, &c. as they belong to ——.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 In Letter CLXIX, Bûrhânûddeen is directed to place garrisons in *Sháhpoor*, *Bulgong*, and *Gokauk*, which are there declared to be dependencies of *Kittoor*. It would now appear, however, that the *Sultan* had discovered, that those places did not belong to *Kittoor*, but to some other chieftain or state, whom he did not wish to offend by seizing on them. The name is left *nearly* blank in the manuscript; the original, probably, not having been legible to the transcriber. I have said *nearly* blank, because it is not, in fact, *entirely* so; the terminating letters, or syllable, of the deficient word being preserved. This is ته which occurs at the end of many *Hindoo* words, and among others that of *Mahrattah*. If the places in question belonged to the Mahrattahs, it may seem strange, that he should not have known this when he sent the first orders for their seizure. Of the desire he might *yet* have to abstain from any directly *aggressive* proceedings against that people, and to confine himself, for the present, to mere defensive measures, some explanation has already been offered; and more will hereafter be furnished by the *Sultan* himself.
 
-### Letter 185: Budrûz Zumân Khân
+### Letter 186: Budrûz Zumân Khân
 
-### LETTER CLXXXVII.
+#### LETTER CLXXXVII.
 
-### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *dated* 15*th* <span class="small-caps">Tulooey</span>. (22*d December.*)
+#### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *dated* 15*th* <span class="small-caps">Tulooey</span>. (22*d December.*)
 
 <span class="small-caps">Announcing</span> to him the *Sultan’s* arrival at *Tul-Cauvery*; and directing him, after deputing some person [to take the temporary charge of his government[^fn-p0282-1]] during his absence, to repair, together with his *Mútusuddies* [or accountants] to the Presence; when such orders as should be necessary would be verbally given him.
 
 * * *
 
-### Letter 186: Bûrhânûddeen
+### Letter 187: Bûrhânûddeen
 
-### LETTER CLXXXVIII.
+#### LETTER CLXXXVIII.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated from* <span class="small-caps">Tul-Cauvery</span>, 18*th* <span class="small-caps">Tûlooey</span>. (25*th December.*)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated from* <span class="small-caps">Tul-Cauvery</span>, 18*th* <span class="small-caps">Tûlooey</span>.<br />(25*th December.*)
 
 <span class="small-caps">The</span> Mahrattah forces are assembling. Vigilance and [due attention to] the safety of your army are necessary. We therefore write to desire, that you will encamp your troops in a secure situation; not far asunder, but [close together] in the form [or manner] of a *rose-bud.*[^fn-p0282-2] You must also post piquets, &c. on all sides of your army. Let it not happen that the enemy’s army surprize you.[^fn-p0282-3]
 
 You must, agreeably to our former directions, transmit to us a detailed memorandum of the effects of the *Daisye*, &c. of *Kittoor.* After receiving such memorandum, we will give our orders on the subject, according to which you will act. Let also a minute report be made to us of the followers of the *Daisye*, specifying [in particular] the number of his managers and principal men, and distinguishing them by name.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The Asiatic armies are not accustomed to encamp in line, as is the practice of the more regular armies of Europe ; and though Tippoo adopted many things in our tactics, this is one of the points, in which he did not think fit to depart from the established usage of the East. Whatever may be thought of the *Sultan’s* military judgment in this case, it will probably be readily admitted, that the figure, by which he has expressed it, is sufficiently significant.
 
 * * *
 
-### Letter 187: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
+### Letter 188: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
 
-### LETTER CLXXXIX.
+#### LETTER CLXXXIX.
 
-### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span> ; *dated* 23*d* <span class="small-caps">TÚLOOEY</span>. (30*th December*.)
+#### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span> ; *dated* 23*d*<br /><span class="small-caps">TÚLOOEY</span>. (30*th December*.)
 
 <span class="small-caps">DIRECTING</span> them to write all their dispatches, whether of weighty import or not, with their own hands, and not to make known the same to any of the *Múnshies*, *Persian* or *Hindivy* [attached to the mission]. Announcing to them, also, the appointment of Mirzâ Uhsun, a *Persian Múnshy* of the *Sultan*, to read [their] letters and write the answers to them : and concluding with an intimation, that when the subject of their dispatches related merely to the pay of the people belonging to them, they might be written in *Hindivy*.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 In translating the passage of the foregoing letter, which notices Mirzâ Uhsun's appointment, I have supplied the pronoun possessive, *their*, on the supposition that the dispatches of the envoys were particularly meant. But the sense may be, that Mirzâ Uhsun was appointed to read and answer *Persian* letters generally, and not those of the envoys alone. What is said of his being employed *to write* the answers, is not to be understood as necessarily meaning any thing more than his transcribing them fairly, or writing them from the *Sultan’s* dictation.
 
-### Letter 188: Mohyûddeen Ali Khân / Urshudûllah Khân, Dewân and Buktshy of Kurpah
+### Letter 189: Mohyûddeen Ali Khân / Urshudûllah Khân, Dewân and Buktshy of Kurpah
 
-### LETTER CXC.
+#### LETTER CXC.
 
-### *To* <span class="small-caps">Mohyûddeen Ali Khân</span> *and* <span class="small-caps">Urshudûllah Khân</span>, *<span class="small-caps">Dewân</span> and <span class="small-caps">Buktshy</span> of <span class="small-caps">Kurpah</span>; same Date.* (30*th December*.)
+#### *To* <span class="small-caps">Mohyûddeen Ali Khân</span> *and* <span class="small-caps">Urshudûllah Khân</span>, *<span class="small-caps">Dewân</span> and <span class="small-caps">Buktshy</span> of <span class="small-caps">Kurpah</span>; same Date.* (30*th December*.)
 
 Notifying the *Sultan’s* pleasure, that *Gurramcoondah* should, for the future, be called *Zuferábád*, and directing the same to be published throughout the country.
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 I cannot positively state, whether or not *Merkerrah* of *Koorg* continued to be called *Zuferábád*, after the latter name was transferred to *Gurramcoondah*: but I am inclined to think in the negative; both because it is not probable that the same *new* name should have been applied to two different places, and because, whenever *Zuferábád* is subsequently mentioned, *Gurramcoondah* would constantly seem to be intended.
 
 * * *
 
-### Letter 189: Ghûlâm Ali Khân
+### Letter 190: Ghûlâm Ali Khân
 
-### LETTER CXCI.
+#### LETTER CXCI.
 
-### *To* <span class="small-caps">Ghûlâm Ali Khân</span>; *dated* 24*th* <span class="small-caps">Túlooey</span>. (31*st December*.)
+#### *To* <span class="small-caps">Ghûlâm Ali Khân</span>; *dated* 24*th* <span class="small-caps">Túlooey</span>. (31*st December*.)
 
 <span class="small-caps">We</span> herewith transmit a letter, which we have lately received from Mahommed Shufeea, the *Aumil* of *Munjaiser*,[^fn-p0284-1] enclosing one to his address from his brother, in which an account is given of the conferences [or negotiations] going on between the *Sultan* of *Room* [*i. e.* the *Grand Seignor*] and the English ambassador. Consider well the contents thereof, and hasten to accomplish the business upon which you have been deputed.
 
@@ -4281,37 +4286,37 @@ Sometime ago Othman Khân dispatched a respectable person, with a letter from hi
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It is proper I should acknowledge, that I have found this letter extremely perplexing, and that I am far from being satisfied that my interpretation of it is accurate. The doubtful passage is that in which the name of Othman Khân occurs; for the original may be understood to mean, either that he (Othman Khân) sent a letter to the *Grand Seignor*, by the hands of “a respectable person,” or that he himself was that respectable person, and had been deputed on this errand by Ghûlâm Ali Khân and Shâh Noorûllah. There are difficulties attending either construction, none of which am I sufficiently informed to be enabled to remove. The slight mention incidentally made of Othman Khân, in other parts of the correspondence, does not throw much light on the subject: yet it clearly appears, by Letter CCXXXII, that Othman Khân had himself actually proceeded to *Constantinople*.
 
 With respect to the allusion made to the conferences or negotiations of the English ambassador at the *Porte*, it is no less involved in obscurity, than the passage relating to Othman Khân. The context would seem to imply, that the representation, by whomsoever addressed to the *Grand Seignor*, regarding the situation of affairs in *India*, had given an unfavorable turn for the English to the negotiation in question: but Ghûlâm Ali Khân, if still living,[^fn-p0285-1] can alone furnish a satisfactory explanation of the matter.
 
-### Letter 190: Meer Kâsim Ali Khân, Post-master at Fyze Hisár (Gooty)
+### Letter 191: Meer Kâsim Ali Khân, Post-master at Fyze Hisár (Gooty)
 
-### LETTER CXCII.
+#### LETTER CXCII.
 
-### *To* <span class="small-caps">Meer Kâsim Ali Khân</span>, *Post-master at* <span class="small-caps">Fyze Hisár</span> (<span class="small-caps">Gooty</span>); *dated* 24*th* <span class="small-caps">Tûlooey.</span> (31*st December*.)
+#### *To* <span class="small-caps">Meer Kâsim Ali Khân</span>, *Post-master at* <span class="small-caps">Fyze Hisár</span> (<span class="small-caps">Gooty</span>);<br />*dated* 24*th* <span class="small-caps">Tûlooey.</span> (31*st December*.)
 
 <span class="small-caps">You</span> write, “ that a thousand *Piádehs*, five hundred regular infantry, “ and three hundred horse, belonging to the *Názim* of *Kurnool*,[^fn-p0286-1] are “ arrived at *Nundiál*, with the intention of recovering the country “ sequestered [or confiscated] by us.” It is known. Where is the ground for alarm [in this case]? If they should dare to take such a step, they shall see the fruits [or feel the consequences] of it.
 
 * * *
 
-### Letter 191: Bûrhânûddeen
+### Letter 192: Bûrhânûddeen
 
-### LETTER CXCIII.
+#### LETTER CXCIII.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated from* <span class="small-caps">Tul Cauvery</span>, 28*th* <span class="small-caps">Tûlooey.</span> (4*th January* 1786.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated from* <span class="small-caps">Tul Cauvery</span>, 28*th* <span class="small-caps">Tûlooey.</span><br />(4*th January* 1786.)
 
 <span class="small-caps">Directing</span> him to recall the *Risála* of the *Sipahdár*, Syed Ghuffâr, from *Nergûnd*, and to send thither, in its stead, two companies of the *Sipahdár*, Syed Humeed’s corps: also, desiring him to send for five hundred *Piádehs* to Syed Meerân, the *Kilaadár* of *Dhárwár*, and to employ the same in the service of the *Sircar*.
 
 * * *
 
-### Letter 192: Budrûz Zumân Khân
+### Letter 193: Budrûz Zumân Khân
 
-### LETTER CXCIV.
+#### LETTER CXCIV.
 
-### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *same Date.* (4*th January*.)
+#### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *same Date.* (4*th January*.)
 
 <span class="small-caps">You</span> must first proceed to *Nelaiser* [*Neelahser*], and encamping there with Leshtia,[^fn-p0286-2] make some delay, on pretext of looking after Sooma, the *Tul-Cauvery* man. You will then invite Moona Kool, who, together with his nephew, went some time ago to visit Leshtia and Rooe Wurm Nâg, once more to come and see you; when you must make prisoners of himself, his nephew, and whatever followers may be with him, and report the same [immediately] to us. If a further force should become necessary, write and send for Urshud Baig and Bunkia,[^fn-p0287-1] and when the business is settled, let them return to their respective stations. We have sent the requisite orders, on this occasion, to both the above-mentioned officers. You must, *by every possible trick and contrivance*, secure the person of the aforesaid rebel.[^fn-p0287-2] The above-mentioned officers will remain where they now are till you send for them. If you should be able to do without them,[^fn-p0287-3] let them know it, in order that they may repair to their proper stations.
 
@@ -4319,21 +4324,21 @@ N.B. The letter to Urshud Baig Khân, referred to in the preceding dispatch, fol
 
 * * *
 
-### Letter 193: Mohyûddeen Ali Khân
+### Letter 194: Mohyûddeen Ali Khân
 
-### LETTER CXCV.
+#### LETTER CXCV.
 
-### *To* <span class="small-caps">Mohyûddeen Ali Khân</span>;[^fn-p0287-4] *dated 29th* <span class="small-caps">Túlooey</span>. (*5th January.*)
+#### *To* <span class="small-caps">Mohyûddeen Ali Khân</span>;[^fn-p0287-4] *dated 29th* <span class="small-caps">Túlooey</span>. (*5th January.*)
 
 <span class="small-caps">You</span> write, “ that you have recently discovered a vein of lead, the ore “ of which resembles that formerly found; that you have sent us seven “ pieces of it by the post; and that you wish to be instructed, whether “ to dispatch the lead you may obtain by hired bullocks, or to wait the “ arrival of some persons from the Presence.” It is known. You must collect the said lead in the fort of *Sidhoot*. It is an ancient custom[^fn-p0288-1] for a silver mine, that is to say, silver earth,[^fn-p0288-2] to be [always] found under a lead-mine : you must, therefore, send for the said earth [or ore], and collect it together in the before-mentioned place. Persons skilled in [such] earth [or ores] will be shortly sent from the Presence [to examine it].
 
 * * *
 
-### Letter 194: RUNMUST KHÂN
+### Letter 195: RUNMUST KHÂN
 
-### LETTER CXCVI.
+#### LETTER CXCVI.
 
-### *To* <span class="small-caps">RUNMUST KHÂN</span>; *same Date. (5th January.)*
+#### *To* <span class="small-caps">RUNMUST KHÂN</span>; *same Date. (5th January.)*
 
 [<span class="small-caps">AFTER</span> acknowledging, with the usual compliments, the receipt of a letter from Runmust Khân, the writer proceeds thus] :—
 
@@ -4343,7 +4348,7 @@ We now firmly purpose repairing to that quarter [towards *Kurnool*], and shall a
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It will be recollected by the reader, that the *Sultan* had been recently apprized,[^fn-p0289-3] of its being the intention of Runmust Khân to attempt the recovery of some part of his country, which had been taken possession of by the *Sultan*; the present dispatch, therefore, which is in the true boastful style of a Persian *Futah nâmeh*,[^fn-p0289-4] or letter of victory, may be fairly considered as intended to intimidate the person to whom it is addressed; or in Tippoo’s own words, “ to convey “ a warning to him ” of what he might expect, if, by resisting the *Sultan’s* will, he should compel the latter to pay him a visit. It was, moreover, well calculated to prepare the way for the pecuniary demand which we shall presently see made upon this Patan chief.
 
@@ -4353,29 +4358,29 @@ The foregoing letter contains the only authentic record of the *Sultan’s* rece
 
 * * *
 
-### Letter 195: MEER AHMED ALI; TAALÚKDÁR of NURSIPOOR
+### Letter 196: MEER AHMED ALI; TAALÚKDÁR of NURSIPOOR
 
-### LETTER CXCVII.
+#### LETTER CXCVII.
 
-### *To* <span class="small-caps">MEER AHMED ALI</span>; *T<span class="small-caps">AALÚKDÁR</span> of N<span class="small-caps">URSIPOOR</span>, dated* *29th T<span class="small-caps">ÚLOOEY</span>. (5th January.)*
+#### *To* <span class="small-caps">MEER AHMED ALI</span>; *T<span class="small-caps">AALÚKDÁR</span> of N<span class="small-caps">URSIPOOR</span>, dated*<br />*29th T<span class="small-caps">ÚLOOEY</span>. (5th January.)*
 
 <span class="small-caps">YOUR</span> letter has been received. You write, “ that the superseded “ *Aumil* has, notwithstanding the guard [placed over him], escaped “ from the fort.” It is known. We have a just claim for thirty thousand *pagodas* on the same *Aumil* : you must [therefore] speedily discover him ; otherwise you will be responsible for the sum in question.
 
 * * *
 
-### Letter 196: SHUMSÛDDEEN
+### Letter 197: SHUMSÛDDEEN
 
-### LETTER CXCVIII.
+#### LETTER CXCVIII.
 
-### *To* <span class="small-caps">SHUMSÛDDEEN</span> ; *dated 30th T<span class="small-caps">ÚLOOEY</span>. (6th January.)*
+#### *To* <span class="small-caps">SHUMSÛDDEEN</span> ; *dated 30th T<span class="small-caps">ÚLOOEY</span>. (6th January.)*
 
 <span class="small-caps">YOUR</span> letter, with the accompanying memorandum, and statement of an engagement entered into by the *Mútusuddies*, to adjust the account of the *Bárgeers* [^fn-p0290-1] in a satisfactory manner, has been received, and its contents are understood. The memorandum referred to is enclosed [or returned herewith]. You must, by coercive means, threats, and punishments, compel the *Mútusuddies* of the *Bárgeer Kuchurry* to get ready, with all speed, the aforesaid accounts, enforcing their obedience by placing a *Suzáwul* over them.[^fn-p0291-1] You are to consider this as a most peremptory injunction.
 
 * * *
 
-### Letter 197: Ghûlâm Ali Khân
+### Letter 198: Ghûlâm Ali Khân
 
-### LETTER CXCIX.
+#### LETTER CXCIX.
 
 *To* <span class="small-caps">Ghûlâm Ali Khân</span>; *dated* 1*st* <span class="small-caps">Yoosúfy.</span> (7*th January.*)
 
@@ -4383,9 +4388,9 @@ The foregoing letter contains the only authentic record of the *Sultan’s* rece
 
 * * *
 
-### Letter 198: Meer Kâzim; Dârogha at Muscat
+### Letter 199: Meer Kâzim; Dârogha at Muscat
 
-### LETTER CC.
+#### LETTER CC.
 
 *To* <span class="small-caps">Meer Kâzim</span>; *<span class="small-caps">Dârogha</span> at <span class="small-caps">Muscat</span>; dated* 6*th* <span class="small-caps">Yoosúfy.</span>  
 (12*th January.*)
@@ -4426,17 +4431,17 @@ Entertain a hundred *Clashies*[^fn-p0294-2] in our service, at the monthly wages
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 *I* possess no information, with regard to the *Sultan’s* project for establishing a pearl-fishery in the vicinity of *Mangalore* : but it may be inferred, from the silence of the subsequent correspondence on the subject, either that the requisite divers were not procurable, or that the attempt, if actually made, did not succeed. His endeavours to form a marine were somewhat more successful ; but the nature of the sea coast in his possession hardly admitted of his attaining to any great importance as a maritime power. If, however, such an obstacle really existed to the accomplishment of this design, he, at least, would not appear to have been sensible of it, since it will be seen, by Appendix K, containing “ Regulations “ for the Marine Department,” that only two or three years previously to the extinction of his power, he had conceived the idea of creating a very formidable naval force. It may, indeed, be reasonably doubted, whether either the resources of his country, or of his genius, were equal to the realization of so bold a plan ; but it is as well, perhaps, that he was not allowed time for the experiment.
 
 * * *
 
-### Letter 199: Runmust Khân
+### Letter 200: Runmust Khân
 
-### LETTER CCI.
+#### LETTER CCI.
 
-### *To <span class="small-caps">Runmust Khân</span> ; dated 7th <span class="small-caps">Yoosûfy.</span> (13th January.)*
+#### *To <span class="small-caps">Runmust Khân</span> ; dated 7th <span class="small-caps">Yoosûfy.</span> (13th January.)*
 
 I<span class="small-caps">N</span> consideration of the friendship and regard [subsisting between us], we abated four *lacks* of *rupees*, of the eleven *lacks* justly due to us, as *Paishcush*, from that friend. Having thus fixed the balance payable to us at seven *lacks* of *rupees*, we some time ago announced the same to you. Râjah Dhurram Doss, and Khâjeh Lûtfûllah, having hereupon made an earnest representation to us of your [pecuniary] difficulties, we were induced to agree to a further remission of fifty thousand *rupees*, hereby reducing our demand to six *lacks* and a half, exclusive of twenty-five thousand *rupees*, on account of the ...... [^fn-p0295-1] of a former year. The amount was thus finally settled at 6,75,000 *rupees*, for the discharge of which the two before-mentioned persons entered into two distinct engagements ; by one of which it was stipulated, that 3,75,000 *rupees* should be paid by the 5th *Jumád úl Ouwul*, A. H. 1200 ; and by the other, that a further sum of 3,75,000 *rupees* should be paid by the 20th of *Rujub* of the same year. These two persons having taken leave of us, will [we trust] reach you in safety.
 
@@ -4444,11 +4449,11 @@ With respect to our relinquishing the districts belonging to that friend, and se
 
 * * *
 
-### Letter 200: Meer Moaainûddeen
+### Letter 201: Meer Moaainûddeen
 
-### LETTER CCII.
+#### LETTER CCII.
 
-### *To* <span class="small-caps">Meer Moaainûddeen</span> ; *dated 7th and 10th of Yoosúfy.* (*13th and 16th January.*)
+#### *To* <span class="small-caps">Meer Moaainûddeen</span> ; *dated 7th and 10th of Yoosúfy.*<br />(*13th and 16th January.*)
 
 <span class="small-caps">By</span> the favor of the Almighty and the assistance of the Prophet, we have arranged and adjusted the affairs of the *Taalúk* of *Zufeerábád* in the most suitable [and satisfactory] manner ; the tribe of *Koorgs*, to the number of fifty thousand men and women,[^fn-p0296-2] having been made captives, and incorporated with the *Ahmedy* class.
 
@@ -4458,7 +4463,7 @@ The advance[^fn-p0296-5] of our victorious standards is positively fixed for the
 
 <span class="small-caps">Memorandum.</span> Three other letters, to the above effect (but to whom addressed is not said), were dispatched by the post.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 There is manifestly some error in one or other of the dates given in the foregoing letter, to which two different dates (*viz.* the 7th and 10th *Yoosûfy*) are assigned : for what reason I know not, unless it be to denote that it was dispatched in duplicate, one copy on the 7th, by an especial messenger, and the other on the 10th, by the post. But if these dates are correct, that one which purports, that the return of the *Sultan* to *Seringapatam* actually took place on the 11th *Yoosûfy*, must, of necessity, be wrong. It is equally certain, that at whatever time he arrived there from *Zufeerâbad*, he did not march again from thence on the 12th of *Yoosûfy* (as here stated to be his intention), since we know, from Letter CCXII, that he was still at his capital on the 23d of that month. I regret that I do not possess the means of rectifying these mistakes, which, however, are fortunately of no material consequence.
 
@@ -4466,41 +4471,41 @@ I cannot, at this moment, ascertain who Moaainûddeen was : but the circumstance
 
 * * *
 
-### Letter 201: actual and future Aumils of the port of Calicut
+### Letter 202: actual and future Aumils of the port of Calicut
 
-### LETTER CCIII.
+#### LETTER CCIII.
 
-### *To the actual and future <span class="small-caps">Aumils</span> of the port of <span class="small-caps">Calicut</span>; dated 10th <span class="small-caps">Yoosûfy.</span> (16th January.)*
+#### *To the actual and future <span class="small-caps">Aumils</span> of the port of <span class="small-caps">Calicut</span>; dated 10th <span class="small-caps">Yoosûfy.</span> (16th January.)*
 
 <span class="small-caps">Be</span> it known, that in consideration of the devotion and attachment to our government of the refuge of commerce,[^fn-p0297-1] Mâo Saith, son of Râo Saith, *Dullál* [or broker], an inhabitant of *Muscat*, we have, at this time, [agreed to] remit the customary anchorage duty, heretofore paid to us, in favour of five *Dingies* of his [about to import at *Calicut*]: you will, therefore, on the production of a letter [or certificate] from the above-mentioned *Dullál*, [purporting that the said *Dingies* are his], refrain from demanding the aforesaid established duty [of forty *rupees* per *Dingy*] on the [five] *Dingies* in question. Consider this as a peremptory order.
 
 * * *
 
-### Letter 202: actual and future AUMILS of our Ports [in general]
+### Letter 203: actual and future AUMILS of our Ports [in general]
 
-### LETTER CCIV.
+#### LETTER CCIV.
 
-### *To the actual and future <span class="small-caps">AUMILS</span> of our Ports* [*in general*]; *same Date.* (*16th January.*)
+#### *To the actual and future <span class="small-caps">AUMILS</span> of our Ports* [*in general*]; *same Date.*<br />(*16th January.*)
 
 <span class="small-caps">BE</span> it known, that we have remitted four-tenths of the duties, levied in our ports from time immemorial, on all goods to be bought or sold [there], by the refuge of commerce, Mâo Saith, son of Râo Saith, *Dullál* of *Muscat*: you will, therefore, demand from the agents of the said *Dullál*, six-tenths of the ancient duties, *and no more*. Consider this as a peremptory order.
 
 * * *
 
-### Letter 203: AUMILS actual and future of the Port of KÚRIÁL (MANGA- LORE)
+### Letter 204: AUMILS actual and future of the Port of KÚRIÁL (MANGA- LORE)
 
-### LETTER CCV.
+#### LETTER CCV.
 
-### *To the <span class="small-caps">AUMILS</span> actual and future of the Port of <span class="small-caps">KÚRIÁL</span> (<span class="small-caps">MANGA-</span> <span class="small-caps">LORE</span>); same Date. (16th January.)*
+#### *To the <span class="small-caps">AUMILS</span> actual and future of the Port of <span class="small-caps">KÚRIÁL</span> (<span class="small-caps">MANGA-</span><br /><span class="small-caps">LORE</span>); same Date. (16th January.)*
 
 <span class="small-caps">BE</span> it known, that if, after selling to the agents of the refuge of commerce, Mâo Saith, &c., such rice as we may have to dispose of, the aforesaid agents should be desirous of purchasing a further quantity of that article from the inhabitants of the districts appertaining to *Mangalore*, *lore*, it will be well. You must not forbid, or make any opposition to the same.
 
 * * *
 
-### Letter 204: Mâo Saith, Dullál at Muscat
+### Letter 205: Mâo Saith, Dullál at Muscat
 
-### LETTER CCVI.
+#### LETTER CCVI.
 
-### *To* <span class="small-caps">Mâo Saith</span>, *<span class="small-caps">Dullál</span> at <span class="small-caps">Muscat</span>;*[^fn-p0299-1] *same Date. (16th January.)*
+#### *To* <span class="small-caps">Mâo Saith</span>, *<span class="small-caps">Dullál</span> at <span class="small-caps">Muscat</span>;*[^fn-p0299-1] *same Date. (16th January.)*
 
 <span class="small-caps">Your</span> letter, by Ghous Mahommed Khân and Turkem Doss, has been received, and apprized us, among other things, “ of your determination “ to establish a factory [or warehouse] at *Calicut*.”[^fn-p0299-2] You have also represented to us verbally, by the aforesaid Khân, “ that our officers at “ the port of *Calicut* charge you for anchorage duty, at the rate of forty “ *rupees* per *Dingy*, and this duty you request of us to remit.” You have furthermore stated, “ that the *Imaum* of *Muscat*, while he levies a “ duty of ten per cent. on [the goods of] all other merchants, charges “ our merchants no more than six per cent. ; and you, therefore, solicit “ a similar indulgence from us.” You likewise express a desire, “ that “ your *Gûmáshtehs* may be allowed, as formerly, (after first buying from “ the managers of our ports whatever number of *morahs* of rice the “ latter have to dispose of) to purchase, without let or hindrance, from “ the people of the country, such further quantities of the same article “ as they may require.” It is known.
 
@@ -4512,7 +4517,7 @@ Agreeably to your request, we have directed Meer Kâzim to settle with you for t
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 We collect, from the foregoing letter, that Tippoo Sultan had already so far accomplished his commercial views at *Muscat*, as to be considered the most favoured of the numerous traders with that port. The concessions by which he obtained that distinction (for it was hardly any thing more) are not any where distinctly stated; but it is probable, that it had been granted on a previous understanding between the *Imaum* and the *Sultan’s* agent, Ghous Mahommed Khân, that the *Imaum’s* vessels were to be admitted into the ports of *Mysore*, on the footing specified in the ensuing letter.
 
@@ -4520,11 +4525,11 @@ Of the particular immunities here granted to Mâo Saith, the remission of four-t
 
 * * *
 
-### Letter 205: Imaum of Muscat
+### Letter 206: Imaum of Muscat
 
-### LETTER CCVII.
+#### LETTER CCVII.
 
-### *To the* *<span class="small-caps">Imaum</span>* *of* *<span class="small-caps">Muscat</span>*;[^fn-p0301-1] *same Date. (16th January.)*
+#### *To the* *<span class="small-caps">Imaum</span>* *of* *<span class="small-caps">Muscat</span>*;[^fn-p0301-1] *same Date. (16th January.)*
 
 <span class="small-caps">Your</span> pleasing letter, by Ghous Mahommed Khân, has been received. He has also represented to us, verbally, the sentiments of regard and union which you entertain for us, and the knowledge whereof has proved highly gratifying to us.
 
@@ -4534,17 +4539,17 @@ Whereas there is a strict order in force at [all] our sea-ports, forbidding the 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The remission of duties granted in favour of Mâo Saith was four-tenths. The remission of one-half, mentioned in the present letter, applies, I conclude, exclusively to the ships and merchandize belonging immediately to the *Imaum*, who, like Tippoo, was the chief merchant of his state; but a much more intelligent and enlightened one, I apprehend, than the *Sultan*.
 
 * * *
 
-### Letter 206: Budrûz Zumân Khân
+### Letter 207: Budrûz Zumân Khân
 
-### LETTER CCVIII.
+#### LETTER CCVIII.
 
-### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *dated 13th of Yoosûfy. (19th January.)*
+#### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *dated 13th of Yoosûfy. (19th January.)*
 
 <span class="small-caps">Directing</span> him to crucify the miscreant[^fn-p0302-2] Moona Kool, and to send for his family, and keep them confined in irons.
 
@@ -4556,17 +4561,17 @@ You [^fn-p0303-2] yourself must also proceed to *Nugr*, together with the troops
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 There is no trace, in any of the documents in my possession, of the manner in which the person of the unfortunate Moona Kool was finally secured; but the instructions given at different times, regarding him, make it sufficiently probable, that the object was attained by some foul or treacherous means.
 
 * * *
 
-### Letter 207: MEER MOAALA KHÂN
+### Letter 208: MEER MOAALA KHÂN
 
-### LETTER CCIX.
+#### LETTER CCIX.
 
-### *To* <span class="small-caps">MEER MOAALA KHÂN</span>, *the superseded* [^fn-p0303-4] *or late* <span class="small-caps">KILAADÁR</span> *of* <span class="small-caps">MÚDGUL</span>; *dated* 13*th* <span class="small-caps">YOOSÚFY</span>. (21*st January*.)
+#### *To* <span class="small-caps">MEER MOAALA KHÂN</span>, *the superseded* [^fn-p0303-4] *or late* <span class="small-caps">KILAADÁR</span> *of* <span class="small-caps">MÚDGUL</span>; *dated* 13*th* <span class="small-caps">YOOSÚFY</span>. (21*st January*.)
 
 <span class="small-caps">DIRECTING</span> him to send one of his brothers to receive six thousand *rupees* from Ghûlâm Mohyûddeen, the *Foujdár* of *Kunchungúddh*,[^fn-p0303-5] and to repair with his family to the Presence.
 
@@ -4576,25 +4581,25 @@ In contemplation of the very events which have taken place, we, before-hand, des
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Not distinctly knowing who Meer Moaala Khân was, and being but imperfectly acquainted with the transactions referred to, I find myself unable to interpret this letter in a satisfactory manner. If I might hazard a conjecture on the occasion, it would be, that Meer Moaala Khân (who was the same person addressed in Letter LXXX) had been governor of the fort of *Múdgul*, a place of considerable note on the south-west frontier of the *Nizám* ;[^fn-p0304-3] that he had engaged in a secret correspondence with Tippoo, to whom he probably meant to deliver up the fort ; but that his fidelity being reasonably suspected, he had been deprived of his government, before his plan of defection was ripe for execution. I am aware, however, that there are some passages and allusions in the letter before us, which are not sufficiently explained by the preceding hypothesis. We hear no more after this of Meer Moaala Khân.
 
 * * *
 
-### Letter 208: MAHOMMED USHRUF
+### Letter 209: MAHOMMED USHRUF
 
-### LETTER CCX.
+#### LETTER CCX.
 
-### *To* <span class="small-caps">MAHOMMED USHRUF</span> ; *same Date. (21st January.)*
+#### *To* <span class="small-caps">MAHOMMED USHRUF</span> ; *same Date. (21st January.)*
 
 <span class="small-caps">YOUR</span> letter, with the enclosed memorandum of money, &c. sent by you to the treasury at *Putn*, has been received. You write for leave to entertain ten new (or additional) *Ulgies*.[^fn-p0305-1] It is known. A hundred *Piâdehs*, of those stationed in the fort,[^fn-p0305-2] are assigned you, for the service of the collections and other affairs of the *Kuchurry* : your view, therefore, in proposing to entertain these *Ulgies*, most probably was, to *make a parade* [with them].[^fn-p0305-3] You must, at all times, employ the *Piâdehs* [and no others] in the service of the collections, &c. What more ?
 
 * * *
 
-### Letter 209: RÂJAH of PEGU
+### Letter 210: RÂJAH of PEGU
 
-### LETTER CCXI.
+#### LETTER CCXI.
 
 *To the* <span class="small-caps">RÂJAH</span> *of* <span class="small-caps">PEGU</span> ; *dated* [^fn-p0305-4] 17*th* <span class="small-caps">RUBIYÚL OUWUL</span>, *A. H.* 1200.  
 (22*d January*.)
@@ -4613,15 +4618,15 @@ Then follows a request, “ that the *Rájah* will accordingly order his “ min
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Whether a second mission was dispatched to *Pegu*, or the persons first intended to be sent were superseded by others, I am unable to determine : but a letter appears, under date 25th of *Byázy* (31st March 1786) addressed, not to Mahommed Kâsim and Mahommed Ibrâheem, but to Shumsûddeen and Kûtbûddeen ; in which they are told, “ that their departure for *Pegu* only waits for the equipment “ of the ships, which they are accordingly desired to expedite.” It nevertheless appears, that the ships in question were not ready for sailing, so late as the beginning of the following June.
 
-### Letter 210: EHSÂNÛLLAH KHÂN
+### Letter 211: EHSÂNÛLLAH KHÂN
 
-### LETTER CCXII.
+#### LETTER CCXII.
 
-### *To* <span class="small-caps">EHSÂNÛLLAH KHÂN</span>; *dated from* *<span class="small-caps">PUTN</span>*, *the* 23*d* *<span class="small-caps">YOOSÛFY</span>*. (29*th January*.)
+#### *To* <span class="small-caps">EHSÂNÛLLAH KHÂN</span>; *dated from* *<span class="small-caps">PUTN</span>*, *the* 23*d* *<span class="small-caps">YOOSÛFY</span>*.<br />(29*th January*.)
 
 <span class="small-caps">WHATEVER</span> gold, silver, horses, bullocks, &c. the late Kâdir Aghâ may have died possessed of, the whole is to be delivered over to the *Kilaadár* and *Umldár*, from whom you will take receipts for the same. You did right, in placing the slave of the deceased in the corps of [or among] the *Usud-Ilhyes*.
 
@@ -4631,21 +4636,21 @@ The character of this order cannot be determined, on account of our ignorance of
 
 * * *
 
-### Letter 211: SHÂH NOORÛLLAH
+### Letter 212: SHÂH NOORÛLLAH
 
-### LETTER CCXIII.
+#### LETTER CCXIII.
 
-### *To* <span class="small-caps">SHÂH NOORÛLLAH</span>;[^fn-p0307-1] *dated* 25*th* *<span class="small-caps">YOOSÛFY</span>*.  (31*st January*.)
+#### *To* <span class="small-caps">SHÂH NOORÛLLAH</span>;[^fn-p0307-1] *dated* 25*th* *<span class="small-caps">YOOSÛFY</span>*.  (31*st January*.)
 
 Two copies of the *Futhúl’ Mújahideen* [^fn-p0307-2] have been sent to you under [our] seal: one by Mahommed Imaum, the *Jowkdár* [captain] of the *Jyshe*; the other by our *Chailah*,[^fn-p0307-3] Kumâl. You must have the receipts of these books regularly entered by your *Mútusuddies* [or accountants]. One of them you will give to be kept by the aforesaid *Jowkdár*, who must be directed to exercise his men regularly, in the manner therein prescribed; the other you are to keep yourself: and you will likewise take good care, that the men [composing your escort] perform *their* exercise regularly.
 
 * * *
 
-### Letter 212: Ghûlâm Ali Khân
+### Letter 213: Ghûlâm Ali Khân
 
-### LETTER CCXIV.
+#### LETTER CCXIV.
 
-### *To* <span class="small-caps">Ghûlâm Ali Khân</span>;[^fn-p0308-1] *dated 26th Yoosûfy.* (*1st February.*)
+#### *To* <span class="small-caps">Ghûlâm Ali Khân</span>;[^fn-p0308-1] *dated 26th Yoosûfy.* (*1st February.*)
 
 <span class="small-caps">The</span> people who are to attend you [on your embassy], and who are enumerated in the following list, have been dispatched to you, under charge of a guard, consisting of five hundred and seven *Piádehs*, and commanded [or superintended] by Ghûlâm Mohyûddeen Khân, the *Buktshy* of *Nugr*, and Rung Râo. Upon the arrival of the party, the *Piádehs* are to continue to be employed in *taking care* of it, until its embarkation; after which, giving them a receipt,[^fn-p0308-2] you must dispatch them back to the Presence.
 
@@ -4677,25 +4682,25 @@ Two copies of the *Futhúl’ Mújahideen* [^fn-p0307-2] have been sent to you u
 | Mahommed Ali, French and English interpreter [^fn-p0309-3]. 1 |  |
 | Total 501 |  |
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The only remark which I have to offer on this letter is, that it would appear from it, that the people, sent upon this distant embassy, must have proceeded on it with great reluctance, since it was necessary, in order to prevent their desertion, to keep them, till their embarkation, in custody of a military guard, of equal strength with themselves.
 
-### Letter 213: Ghûlâm Ali Khân
+### Letter 214: Ghûlâm Ali Khân
 
-### LETTER CCXV.
+#### LETTER CCXV.
 
-### *To the same; same Date.* (1st February.)
+#### *To the same; same Date.* (1st February.)
 
 <span class="small-caps">After</span> your arrival at *Constantinople*, you are, every third day, to serve out to the *Suzáwuls* and men of the *Usud-Ilhyes* attached [to your mission], four [blank] cartridges each man, and to see that they regularly perform their exercise.
 
 * * *
 
-### Letter 214: Ghûlâm Ali Khân
+### Letter 215: Ghûlâm Ali Khân
 
-### LETTER CCXVI.
+#### LETTER CCXVI.
 
-### *To the same; dated* 28*th* <span class="small-caps">Yoosúfy</span>. (3d February.)
+#### *To the same; dated* 28*th* <span class="small-caps">Yoosúfy</span>. (3d February.)
 
 <span class="small-caps">Your</span> letter has been received, together with a memorandum of the remaining articles of supply, which Nursia, the *Dewán* [^fn-p0310-1] of *Nugr*, has taken upon himself to dispatch after you.
 
@@ -4707,15 +4712,15 @@ Agreeably to the desire of that person of magnificent degree,[^fn-p0311-1] we ha
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 When it is considered, that Ghûlâm Ali Khân was among the most distinguished men at the court of Tippoo Sultan; that he was now proceeding on a service, to which his master attached much importance; that his appointment to such a high trust (for he was, I believe, at the head of the commission) would, at least, seem to imply, that entire confidence was placed in his zeal, talents, and fidelity; and, finally, when the frivolous nature of the offence imputed to him is adverted to, it is difficult to say, whether the *Sultan* has manifested most want of temper or of wisdom, in the harsh and degrading language here addressed to that person. Of his excessive irascibility and asperity of manner, other proofs have already appeared, and more will hereafter occur : but, on none of the occasions alluded to, did he, perhaps, so little consult, either his true dignity, or, apparently, his true interests, as in the present instance, since in proportion as he sunk the consequence of his minister, he diminished his own; while, by thus outraging the feelings of that minister, he incurred the risk of damping his ardor, paralyzing his energies, and even shaking his loyalty. It must, however, at the same time, be owned, that Ghûlâm Ali Khân was not likely to be so sensible of the indignity offered to him, or so apt to resent it, as the view here taken of the subject supposes; and it is only reasonable to conclude, that the *Sultan* knew this sufficiently well.
 
-### Letter 215: BÛRHÂNÛDDEEN
+### Letter 216: BÛRHÂNÛDDEEN
 
-### LETTER CCXVII.
+#### LETTER CCXVII.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated* 28*th* *<span class="small-caps">YOOSÛFY</span>*. (*3d February.*)
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated* 28*th* *<span class="small-caps">YOOSÛFY</span>*. (*3d February.*)
 
 <span class="small-caps">DIRECTING</span> him to dispatch carefully, under a trusty guard, all the gold, silver, jewels, horses, elephants, &c. belonging to the *Daisye* of *Kittoor*, together with the *Daisye* himself, and his family.
 
@@ -4723,19 +4728,19 @@ Directing, further, that such of the managers [or servants] of the *Daisye*, as 
 
 * * *
 
-### Letter 216: SYED PEER
+### Letter 217: SYED PEER
 
-### LETTER CCXVIII.
+#### LETTER CCXVIII.
 
-### *To* <span class="small-caps">SYED PEER</span>; *<span class="small-caps">KILAADÂR</span>* *of* <span class="small-caps">BANGALORE</span>; *same date.* (*3d February.*)
+#### *To* <span class="small-caps">SYED PEER</span>; *<span class="small-caps">KILAADÂR</span>* *of* <span class="small-caps">BANGALORE</span>; *same date.* (*3d February.*)
 
 <span class="small-caps">YOU</span> write “ that about three hundred recruits have been entertained “ for the *Jyshe* and *Ehshám* [corps], and the abstracts of them regularly “ made out and delivered to the *Mútusuddies* of the *Dewány*,[^fn-p0312-1] notwithstanding which Râjah Râm Chundur brings forward excuses.”[^fn-p0312-2] It is known. *You have* [it would seem] *laid your instructions by in the niche of forgetfulness*,[^fn-p0312-3] *or you could not engage in such an improper and senseless altercation.* What the aforesaid *Râjah* represents is perfectly right. If you would look into your instructions, there would be no necessity for your writing to us on the subject.
 
-### Letter 217: SHÂH NOORÛLLAH
+### Letter 218: SHÂH NOORÛLLAH
 
-### LETTER CCXIX.
+#### LETTER CCXIX.
 
-### *To* <span class="small-caps">SHÂH NOORÛLLAH</span>; *dated* 29*th Yoosûfy*. (4*th February*.)
+#### *To* <span class="small-caps">SHÂH NOORÛLLAH</span>; *dated* 29*th Yoosûfy*. (4*th February*.)
 
 <span class="small-caps">It</span> is owing to the whoreson tricks and roguery of the elephant keepers, that the elephants have been made to get hot: you must, therefore, flog them [the keepers] well. If, after all, one of the elephants proceeding with you should continue hot, you must separate him from the other [or others], by putting him on board a different vessel.
 
@@ -4745,21 +4750,21 @@ N.B. In a letter of the following day (or 30th *Yoosûfy*), the *Sultan* repeats
 
 * * *
 
-### Letter 218: BÛRHANÛDDEEN
+### Letter 219: BÛRHANÛDDEEN
 
-### LETTER CCXX.
+#### LETTER CCXX.
 
-### *To* <span class="small-caps">BÛRHANÛDDEEN</span>; *dated* 29*th Yoosûfy*. (4*th February*.)
+#### *To* <span class="small-caps">BÛRHANÛDDEEN</span>; *dated* 29*th Yoosûfy*. (4*th February*.)
 
 <span class="small-caps">We</span> have heard, that the enemy[^fn-p0313-1] has detached a large force, for the purpose of falling suddenly upon [or surprising] your army[^fn-p0313-2]: we therefore write, to desire that you will, immediately on the receipt of this letter, take up a position at *Dhárwár*, and dispatching the whole of your baggage into the country of *Nugr* [the province of *Bidnore*], remain yourself with your army unencumbered.[^fn-p0314-1] You must, on this point, employ the strictest precautions. Let it not be (God forbid !) that the enemy should surprise you.
 
 * * *
 
-### Letter 219: Turbiyut Ali Khân
+### Letter 220: Turbiyut Ali Khân
 
-### LETTER CCXXI.
+#### LETTER CCXXI.
 
-### *To <span class="small-caps">Turbiyut Ali Khân</span> ; dated <span class="small-caps">Seringapatam</span>, 30th Yoosúfy. (5th February.)*
+#### *To <span class="small-caps">Turbiyut Ali Khân</span> ; dated <span class="small-caps">Seringapatam</span>, 30th Yoosúfy.<br />(5th February.)*
 
 <span class="small-caps">Your</span> letter has been received [^fn-p0314-2]. . . . . . . You write, “ that keeping “ in view [or looking to nothing else than] the proper execution of the “ public business,[^fn-p0314-3] you make no distinction of persons, and labour only “ to approve your zeal for our service, and to discharge the obligations of “ fidelity ; but that [nevertheless], owing to your evil destiny,[^fn-p0314-4] these “ circumstances have not been made known to us by the superintendants “ and *Hurkárehs* of the post [or intelligence] department there [*i. e. “ Bangalore*].”
 
@@ -4771,31 +4776,31 @@ Your account of a certain person, who is extremely well versed in the affairs of
 
 * * *
 
-### Letter 220: Râjah Râm Chundur
+### Letter 221: Râjah Râm Chundur
 
-### LETTER CCXXII.
+#### LETTER CCXXII.
 
-### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated 3d Eezidy. (8th February.)*
+#### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated 3d Eezidy. (8th February.)*
 
 <span class="small-caps">Your</span> letter has been received. You write, “ that you were about to “ issue to the eighty men of the *Náimár* tribe,[^fn-p0315-4] who had been incorporated into the *Usud Ilhyes*, the regulated rations,[^fn-p0315-5] and other advances, “ vances, for their separate expences, *from the date of our orders on* “ *the subject* ; but that Syed Peer [the *Kilaadár*] furthermore demanded “ certain arrears of pay and rations, due to them *previously to that* “ *period*.” The aforesaid *Kilaadár* is deprived of his understanding [or has lost his wits]. The rations, and other allowances, are to be paid to the men in question, from the date of our orders [on the subject].”
 
 * * *
 
-### Letter 221: Râjah Râm Chundur / Turbiyut Ali Khân
+### Letter 222: Râjah Râm Chundur / Turbiyut Ali Khân
 
-### LETTER CCXXIII.
+#### LETTER CCXXIII.
 
-### *To* <span class="small-caps">Râjah Râm Chundur</span> *and* <span class="small-caps">Turbiyut Ali Khân</span> ; *dated* 4*th* <span class="small-caps">Eezidy</span>. (9*th February*.)
+#### *To* <span class="small-caps">Râjah Râm Chundur</span> *and* <span class="small-caps">Turbiyut Ali Khân</span> ; *dated* 4*th*<br /><span class="small-caps">Eezidy</span>. (9*th February*.)
 
 <span class="small-caps">At</span> such times as new levies, or recruits, for the *Jyshe* and *Piaddehs* are to be entertained [or taken into the service], you two, and Syed Peer [the *Kilaadár*], assembling together in the *Kuchurry*, are [to be mindful] to entertain none but proper and eligible men. You are also to take a muster of the men some time since admitted into the *Jyshe*, by the aforesaid *Kilaadár*, and dismissing such of them as shall [appear to you to] be unfit [for the service], allow him pay for those only who are fit [to be retained].
 
 * * *
 
-### Letter 222: Budrûz Zumân Khân
+### Letter 223: Budrûz Zumân Khân
 
-### LETTER CCXXIV.
+#### LETTER CCXXIV.
 
-### *To* <span class="small-caps">Budrûz Zumân Khân</span> ; *dated* 8*th* <span class="small-caps">Eezidy</span>. (13*th February*.)
+#### *To* <span class="small-caps">Budrûz Zumân Khân</span> ; *dated* 8*th* <span class="small-caps">Eezidy</span>. (13*th February*.)
 
 <span class="small-caps">Your</span> two letters, with the enclosed memorandums of the *Náimár* [or *Nair*] captives, have been received You did right in causing a hundred and thirty-five[^fn-p0316-1] of them to be circumcised, and in putting eleven of the youngest of these into the *Usud Ilhye* band [or class], and the remaining ninety-four into the *Ahmedy* troop,[^fn-p0317-1] consigning the whole, at the same time, to the charge of the *Kilaadár* of *Nugr*. You must give strict orders to the said *Kilaadár*, to take the utmost care of these people, so that they shall not perish.[^fn-p0317-2]
 
@@ -4803,17 +4808,17 @@ N.B. There follow here some unimportant (and not very intelligible) orders, resp
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It appears from this, and some other passages, that the *Sultan*, as if pluming himself particularly on the institution of the two troops, or corps, of *Ahmedies* and *Usud Ilhyes*, was extremely attentive to every thing relating to their proper care and management. I am uncertain whether these corps continued in existence at the period of his death; but it is probable they did, as they are mentioned in documents of a recent date.
 
 * * *
 
-### Letter 223: Bûrhânûddeen
+### Letter 224: Bûrhânûddeen
 
-### LETTER CCXXV.
+#### LETTER CCXXV.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *same Date*. (13*th February*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *same Date*. (13*th February*.)
 
 <span class="small-caps">Your</span> letter has been received, and its contents are comprehended. We approve of your having, for the present, with the advice and concurrence of the *Sipahdárs*, encamped with your army in the vicinity of *Kittoor*, which [it seems] is a safe and strong position. You will continue there, and observe the utmost vigilance, care, and precaution. Dispatch the *Daisye* and his managers, with all their effects and cattle, to the Presence, under charge of Hyder Ali Baig, one hundred horse, and two or three hundred *Piádehs*.
 
@@ -4821,15 +4826,15 @@ You have done right, in taking possession of the two villages of *Sipra* and *J�
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The orders contained in this letter, respecting the position to be occupied by Bûrhânûddeen’s army, are, it will be perceived, at variance with those transmitted to that officer about ten days before (Letter CCXX). The latter directed a retrogade movement to *Dhárwár*, which Bûrhânûddeen and his council of war would appear to have thought inexpedient : and in this opinion we here perceive the *Sultan* acquiescing.
 
 * * *
 
-### Letter 224: Bûrhânûddeen
+### Letter 225: Bûrhânûddeen
 
-### LETTER CCXXVI.
+#### LETTER CCXXVI.
 
 *To the same; dated <span class="small-caps">Seringapatam</span>, 9th <span class="small-caps">Eezidy</span>. (14th February.)*
 
@@ -4837,7 +4842,7 @@ The orders contained in this letter, respecting the position to be occupied by B
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The *Sultan* appears, at this period, to have been in expectation of an early attack from the confederate forces; the commanders of which, however, did not, I believe, propose more at present than to cover the siege of *Bádámy*, which they undertook about this time, and of which place they finally obtained possession, in the month of May following.
 
@@ -4845,67 +4850,67 @@ It seems rather extraordinary, that the *Sultan* should have had occasion to tea
 
 * * *
 
-### Letter 225: CHISHTY YÂR KHÂN
+### Letter 226: CHISHTY YÂR KHÂN
 
-### LETTER CCXXVII.
+#### LETTER CCXXVII.
 
-### *To* <span class="small-caps">CHISHTY YÂR KHÂN</span>; *dated* 11*th* <span class="small-caps">EEZIDY</span>. (16*th February*.)
+#### *To* <span class="small-caps">CHISHTY YÂR KHÂN</span>; *dated* 11*th* <span class="small-caps">EEZIDY</span>. (16*th February*.)
 
 <span class="small-caps">YOUR</span> letter has passed under our view. You represent, “ that sensible [*i. e.* duly qualified] *Turufdárs*[^fn-p0319-3] are not to be procured at the “ monthly wages of one *pagoda*, and that the proper and faithful execution of the public service cannot be expected from men receiving “ only a *pagoda* a month : you, therefore, propose, with our permission, “ to authorize the different *Aumils* to make some little increase in the “ monthly pay of the persons in question.” Let the monthly wages of the *Turufdárs* of the *Taalúks* [or districts] under you be fixed at what you may judge proper and necessary to their subsistence, to the end that the business of the *Sircar* may be performed in the best manner.
 
 * * *
 
-### Letter 226: Shânoor Waleh
+### Letter 227: Shânoor Waleh
 
-### LETTER CCXXVIII.
+#### LETTER CCXXVIII.
 
-### *To the* *<span class="small-caps">Shânoor Waleh</span>*;[^fn-p0320-1] *dated* 15*th* *<span class="small-caps">Eezidy</span>*. (20*th February*.)
+#### *To the* *<span class="small-caps">Shânoor Waleh</span>*;[^fn-p0320-1] *dated* 15*th* *<span class="small-caps">Eezidy</span>*. (20*th February*.)
 
 <span class="small-caps">Your</span> letter by Gopâl Kishn has been received, and has given us great pleasure. What you write on the subject of the *Paishcush* is understood. What does it signify ? Let the *Paishcush* in question be paid, by four instalments, to Nursia, the *Dewán* of *Nugr*. A letter, to this effect, is herewith enclosed for the said *Dewán*, to whom you must forward it. With regard to the malversations [or embezzlements], to the extent of twenty-six *lacks* of *rupees*, which have been established against the ministers, &c. of that friend, you must examine into the account of the same, and enforcing payment thereof, by *flogging* and other rigorous means, transmit to us bankers’ acceptances for the amount.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 This letter is rather more civil, in point of style, as well as more accommodating in its spirit, than the last one to the same person (Letter CLI). Any change, in these respects, may be pretty safely referred, in the present case, to political motives, though it would be difficult, at this time, to trace such a change to any particular source of that kind. But as the operations of the belligerents began now to take a direction, which must soon compel the *Patan* to declare openly in favour of one or other of the contending parties, Tippoo’s object, at this moment, might be, either to conciliate that chieftain, or to conceal, under an appearance of relaxation from his former demands, the design he had possibly already formed, of over-running his country, and of driving him from his capital; both of which the *Sultan* did, very soon after the date of the foregoing letter.
 
 * * *
 
-### Letter 227: Nuwâzish Ali Khân
+### Letter 228: Nuwâzish Ali Khân
 
-### LETTER CCXXIX.
+#### LETTER CCXXIX.
 
-### *To* <span class="small-caps">Nuwâzish Ali Khân</span>, *Son of* <span class="small-caps">Shûjaaûd Dowlah</span>; *dated 16th* <span class="small-caps">Eezidy</span>. (*21st February.*)
+#### *To* <span class="small-caps">Nuwâzish Ali Khân</span>, *Son of* <span class="small-caps">Shûjaaûd Dowlah</span>; *dated 16th*<br /><span class="small-caps">Eezidy</span>. (*21st February.*)
 
 [<span class="small-caps">After</span> compliments.].........Agreeably to your request we have advanced a hundred *rupees* for your expences. Undân Subhy[^fn-p0321-1] will, in pursuance of our orders, arrive [there.] After receiving the aforesaid money, repair to the Presence. We enclose a passport [for you], and also a *Purwáneh* for the above mentioned Subhy, which you will deliver to him.
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 I am uncertain whether the Shûjaaûd Dowlah, mentioned in the superscription of this letter, be meant for the father of the present *Nabob* of *Oude*, or for some nobleman of the *Decan*, bearing the same title. It is well known, however, that the *Nabob* of that name left several sons, besides Asophûd Dowlah, his immediate successor, and Saadut Ali Khân, the present *Nabob*; who, on the death of their father, fled from their brother’s court, and sought an asylum among the neighbouring powers. Whether or not Nuwâzish Ali was one of these, I am unable to determine : but, whoever he might be, the reception here given him was certainly sufficiently discouraging. He is no where again mentioned.
 
 * * *
 
-### Letter 228: BUDRÛZ ZUMÂN KHÂN
+### Letter 229: BUDRÛZ ZUMÂN KHÂN
 
-### LETTER CCXXX.
+#### LETTER CCXXX.
 
-### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span> ; *same Date. (21st February.)*
+#### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span> ; *same Date. (21st February.)*
 
 <span class="small-caps">CONFORMABLY</span> with your humble request,[^fn-p0322-1] a passport has been written, and is herein enclosed. You must dispatch the necessary equipage, and send for your family [to join you]. What more ?
 
 * * *
 
-### OBSERVATIONS.
+###### OBSERVATIONS.
 
 This letter is inserted, for the purpose of showing, both that no person, of whatever rank or consideration, could, when employed at a distance from the capital, have his family with him, unless by the express authority of the *Sultan* ; and that the latter, occasionally, granted his servants this indulgence. His extending it, in the present conjuncture (the commencement of a war of doubtful issue), to Budrûz Zumân Khân, strongly marks his confidence in the fidelity of that officer.
 
 * * *
 
-### Letter 229: URSHUDÛLLAH KHÂN
+### Letter 230: URSHUDÛLLAH KHÂN
 
-### LETTER CCXXXI.
+#### LETTER CCXXXI.
 
-### *To* <span class="small-caps">URSHUDÛLLAH KHÂN</span>, *BUKTSHY of the EHSHÁM ; same Date. (21st February.)*
+#### *To* <span class="small-caps">URSHUDÛLLAH KHÂN</span>, *BUKTSHY of the EHSHÁM ; same Date.<br />(21st February.)*
 
 <span class="small-caps">DIRECTING</span> him, after recovering from the *Kilaadár* of *Kunnikgeery* the amount of the embezzlements established against the latter, to dispatch the said *Kilaadár* to . . . . . . . . [^fn-p0322-2]
 
@@ -4913,17 +4918,17 @@ Mentioning, moreover, that, in future, he is not to take upon himself to remove 
 
 * * *
 
-### Letter 230: LÛTF ALI KHÂN / SHÂH NOORÛLLAH KHÂN
+### Letter 231: LÛTF ALI KHÂN / SHÂH NOORÛLLAH KHÂN
 
-### LETTER CCXXXII.
+#### LETTER CCXXXII.
 
-### *To* LÛTF ALI KHÂN *and* SHÂH NOORÛLLAH KHÂN; *dated 22d* EEZIDY. (*27th February.*)
+#### *To* LÛTF ALI KHÂN *and* SHÂH NOORÛLLAH KHÂN; *dated 22d*<br />EEZIDY. (*27th February.*)
 
 Three *Kulgies*,[^fn-p0323-1] three *Surpaishes*,[^fn-p0323-2] and three *Puduks*,[^fn-p0323-3] of the value of thirty-six thousand two hundred and thirty *rupees*,[^fn-p0323-4] have been dispatched to you in a casket, to which our private seal [or signet] has been affixed. You must open this casket, and having examined its contents, seal the whole up again, and keep the same [carefully] by you.
 
 The three *Kulgies*, three *Surpaishes*, and three *Puduks*, originally mentioned [or referred to] in our instructions [to you], *being afterwards considered by us of insufficient value*, have, on that account, been changed for the more valuable set now sent, and of which a memorandum is enclosed. Of this memorandum a copy must be entered in our book of instructions.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The book of instructions, here mentioned, was among the papers found at *Seringapatam*; as was also the journal of this very embassy. I regret that I did not take copies of these curious documents, which would, no doubt, explain many points, on which we must be content, for the present, to remain ignorant.
 
@@ -4933,11 +4938,11 @@ The embassy was finally composed of four persons, as appears by the next letter.
 
 * * *
 
-### Letter 231: Ghûlâm Ali Khân / Lûtf Ali Khân / Shâh Noorûllah Khân / Mahommed Huneef
+### Letter 232: Ghûlâm Ali Khân / Lûtf Ali Khân / Shâh Noorûllah Khân / Mahommed Huneef
 
-### LETTER CCXXXIII.
+#### LETTER CCXXXIII.
 
-### *To* <span class="small-caps">Ghûlâm Ali Khân, Lûtf Ali Khân, Shâh Noorûllah Khân,</span> *and* <span class="small-caps">Mahommed Huneef</span>; *dated* 24*th* <span class="small-caps">Eezidy</span>. (1*st* March.)
+#### *To* <span class="small-caps">Ghûlâm Ali Khân, Lûtf Ali Khân, Shâh Noorûllah Khân,</span><br />*and* <span class="small-caps">Mahommed Huneef</span>; *dated* 24*th* <span class="small-caps">Eezidy</span>. (1*st* March.)
 
 <span class="small-caps">Your</span> letters have been received, and their contents are understood. You write, “ that all the stores, supplies, merchandize, &c. are laden “ on board the ships, and that you only wait for the arrival of the “ *Usud Ilhye* men and the jewels, when you will proceed [on your voyage].” It is known. The men, in question, were dispatched [from hence] some time ago, and most probably have reached you before this. The jewels are now forwarded, and will arrive. As soon as you have received them, hasten your departure, and do not let the season[^fn-p0325-1] escape you.[^fn-p0325-2]
 
@@ -4949,17 +4954,17 @@ You must not make any further delay, after the arrival of the party of *Usud Ilh
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The *Sultan's* project of acquiring possession of *Bussorah* was, probably, as extravagant as any he ever entertained. By what means he could hope to attain such an object, it would be difficult to conceive: but it is probable, that the instructions to the embassy, and its journal, which, no doubt, are still extant, would throw some light on the subject. It has been said, that the ambassadors were empowered to offer *Mangalore* in exchange for it: but I think it unlikely that a prince of the *Sultan's* characteristic jealousy and distrust, should have consented to such an arrangement: and the letter before us certainly discountenances the notion; since, besides its not containing the most distant allusion to an exchange, it distinctly speaks of his wish “to farm” the port in question.
 
 There is reason to believe, that the *Sultan's* project of constructing a canal from the *Euphrates* to *Nujuf*, if ever seriously entertained by him, was ultimately relinquished; since Mirzâ Abû Tâlib, who visited this sanctuary in 1803, does not mention such a work, though he has recorded a similar one, executed at the expence of the late *Nabob*, Asophûd Dowlah.
 
-### Letter 232: Budrûz Zumân Khân
+### Letter 233: Budrûz Zumân Khân
 
-### LETTER CCXXXIV.
+#### LETTER CCXXXIV.
 
-### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *dated* 25*th* <span class="small-caps">Eezidy</span>. (2*d March.*)
+#### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *dated* 25*th* <span class="small-caps">Eezidy</span>. (2*d March.*)
 
 <span class="small-caps">After</span> fixing a proper price on the coats which you have distributed among the *Jyshe*, you will deduct the amount from their pay.
 
@@ -4969,35 +4974,35 @@ You will also make a daily allowance of one *pice*[^fn-p0327-1] to such of the c
 
 * * *
 
-### Letter 233: Budrûz Zumân Khân
+### Letter 234: Budrûz Zumân Khân
 
-### LETTER CCXXXV.
+#### LETTER CCXXXV.
 
-### *To the same; dated* 27*th* <span class="small-caps">Eezidy</span>. (4*th March.*)
+#### *To the same; dated* 27*th* <span class="small-caps">Eezidy</span>. (4*th March.*)
 
 <span class="small-caps">Whatever</span> number of *Koorg* women and children may, at this time, be at *Nugr, Koonly-doorg*,[^fn-p0327-2] or elsewhere, must be collected together, and the allowance formerly assigned for their support be paid to them.
 
 * * *
 
-### Letter 234: Mahommed Ghyâs
+### Letter 235: Mahommed Ghyâs
 
-### LETTER CCXXXVI.
+#### LETTER CCXXXVI.
 
-### *To* <span class="small-caps">Mahommed Ghyâs</span>; *same Date.* (4*th March.*)
+#### *To* <span class="small-caps">Mahommed Ghyâs</span>; *same Date.* (4*th March.*)
 
 <span class="small-caps">Five</span> months ago, we sent by two *Hurkárehs* a letter, together with a dress, to Moodhojee Bhonsillah, to which we have hitherto had no answer: we have, therefore, again dispatched two more *Hurkárehs*, whom you must *secretly* forward, but not directly or avowedly from yourself, with the letter which they have in charge for the aforesaid. This matter is to be kept profoundly secret. After being satisfied of the [favorable] disposition of the aforesaid, you must, from time to time, send a person to him, and privately sound his views; employing always [on the occasion] such language as may be most conducive to the improvement of [our mutual] friendship and regard.
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The reader will scarcely require to be informed, that Moodhojee Bhonsillah was the *Rájah* of *Berar*, and one of the principal members of the Mahrattah state. The mode adopted by the *Sultan*, of drawing this person over to his interests, would not appear to have much consulted the dignity of the latter; however it may have been demanded, by the caution necessary to be observed in such a correspondence. I possess no means of ascertaining what success Tippoo had in this intrigue; but I believe that Moodhojee Bhonsillah took little or no very active part in the ensuing hostilities.[^fn-p0328-1] It was, indeed, the uniform policy of that chieftain, in all the contests of his neighbours, to maintain, as long as possible (virtually, at least, if not formally), such a line of neutrality, as generally left it very doubtful to which side he most leaned: nor was he used to make much distinction, on these occasions, between the chiefs of his own nation, and the other circumjacent powers. His son and successor, Raghojee Bhonsillah, has not, however, adhered to his father’s system, in this respect.
 
-### Letter 235: BUDRÛZ ZUMÂN KHÂN
+### Letter 236: BUDRÛZ ZUMÂN KHÂN
 
-### LETTER CCXXXVII.
+#### LETTER CCXXXVII.
 
-### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span> ; *dated 28th <span class="small-caps">EEZIDY</span>. (5th March.)*
+#### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span> ; *dated 28th <span class="small-caps">EEZIDY</span>. (5th March.)*
 
 <span class="small-caps">What</span> you write, concerning the death of five hundred *Koorgs* from the small-pox, is understood. The whole country [thereabouts] is covered with underwood.[^fn-p0329-1] They [*i. e.* the *Koorgs*] must be kept where the climate [literally, the water and air] may best agree with them.
 
@@ -5005,19 +5010,19 @@ N.B. Two or three letters appear about this time, containing directions for coll
 
 * * *
 
-### Letter 236: ZYNÛL AABIDEEN
+### Letter 237: ZYNÛL AABIDEEN
 
-### LETTER CCXXXVIII.
+#### LETTER CCXXXVIII.
 
-### *To* <span class="small-caps">ZYNÛL AABIDEEN</span>, *<span class="small-caps">BUKHSHY</span> of the <span class="small-caps">EHSHÂM</span> at <span class="small-caps">FYZE-YÂB HISÂR</span> (<span class="small-caps">GOOTY</span>) ; dated 29th <span class="small-caps">EEZIDY</span>. (6th March.)*
+#### *To* <span class="small-caps">ZYNÛL AABIDEEN</span>, *<span class="small-caps">BUKHSHY</span> of the <span class="small-caps">EHSHÂM</span> at <span class="small-caps">FYZE-YÂB HISÂR</span><br />(<span class="small-caps">GOOTY</span>) ; dated 29th <span class="small-caps">EEZIDY</span>. (6th March.)*
 
 <span class="small-caps">Agreeably</span> to your request, an order has been written, and is herein enclosed, for the post *Hurkárehs* of *Hurry-hur*, to whom you will forward it.
 
 With respect to lead and powder, do you act according to what is written in your instructions. That you should pursue your own opinion, in opposition thereto, occasions us the utmost surprise.[^fn-p0329-2]
 
-### Letter 237: BÛRHÂNÛDDEEN
+### Letter 238: BÛRHÂNÛDDEEN
 
-### LETTER CCXXXIX.
+#### LETTER CCXXXIX.
 
 *To* B<span class="small-caps">ÛRHÂNÛDDEEN</span> ; *dated* 1*st* B<span class="small-caps">YÁZY</span>. (7*th March*.)
 
@@ -5027,35 +5032,35 @@ It also appears, that the *Vakeels* of the *Sorapoor* man, as well as those of t
 
 * * *
 
-### Letter 238: BÛRHÂNÛDDEEN
+### Letter 239: BÛRHÂNÛDDEEN
 
-### LETTER CCXL.
+#### LETTER CCXL.
 
 *To the same* ; *dated* 3*d* B<span class="small-caps">YÁZY</span>. (9*th March*.)
 
 Tukojee Hûlkar and the *Guyckwár* have moved towards you with foul intentions :[^fn-p0330-3] you will, therefore, take up a position with your army near the fort of *Dhárwár*, and omit not a single measure of precaution in that situation. You must, moreover, enjoin all the inhabitants of that quarter to be cautious and watchful.
 
-### OBSERVATIONS.
+###### OBSERVATIONS.
 
 The *Sultan* seems here to revert to his former orders (see Letter CCXX) respecting the position to be occupied by Bûrhânûddeen, but which he revoked by Letter CCXXV, in compliance, apparently, with the suggestion of that general and the superior officers of his army. We shall soon see him wave the point again. (Letter CCXLVIII.)
 
 * * *
 
-### Letter 239: Râjah Râm Chundur
+### Letter 240: Râjah Râm Chundur
 
-### LETTER CCXLI.
+#### LETTER CCXLI.
 
-### *To* <span class="small-caps">Râjah Râm Chundur</span>; *same Date*. (9*th March*.)
+#### *To* <span class="small-caps">Râjah Râm Chundur</span>; *same Date*. (9*th March*.)
 
 <span class="small-caps">Notifying</span> to him, that he must recall Sobhah Râo, the *Serishtedár* of *Bangalore*, to whom he had, of *his own authority*, given leave of absence, or otherwise he [Râm Chundur] would be held responsible for the sum of two *lacks* of *rupees* due to the *Sircar* [that is to say, remaining to be accounted for] by the aforesaid *Serishtedár*.
 
 * * *
 
-### Letter 240: Mahommed Wâsil
+### Letter 241: Mahommed Wâsil
 
-### LETTER CCXLII.
+#### LETTER CCXLII.
 
-### *To* <span class="small-caps">Mahommed Wâsil</span>, *Kilaadár of Tármurry; dated 4th Byázy.* (10*th March*.)
+#### *To* <span class="small-caps">Mahommed Wâsil</span>, *Kilaadár of Tármurry; dated 4th Byázy.*<br />(10*th March*.)
 
 Do you apply yourself to the care and defence of your fort; and if the vagabond cavalry of *Hyderabad*[^fn-p0331-1] should again appear in your quarter, chastise them.
 
@@ -5063,33 +5068,33 @@ Agreeably to your request, we enclose an order to the *Bukhshy* of the *Ehshám*
 
 * * *
 
-### Letter 241: Meer Mohib Ali
+### Letter 242: Meer Mohib Ali
 
-### LETTER CCXLIII.
+#### LETTER CCXLIII.
 
-### *To* <span class="small-caps">Meer Mohib Ali</span>, *Bukhshy of the Ehshám at Fyze Hisár* (<span class="small-caps">Gooty</span>); *same Date.* (10*th March*.)
+#### *To* <span class="small-caps">Meer Mohib Ali</span>, *Bukhshy of the Ehshám at Fyze Hisár*<br />(<span class="small-caps">Gooty</span>); *same Date.* (10*th March*.)
 
 <span class="small-caps">Dispatch</span> to the fort of *Tármurry* a supply of provisions, lead, and powder, according to the [established] custom and regulations of the *Sircar.* [That is to say, in the quantities or proportions of each article fixed by the regulations, either for the fort of *Tármurry* specifically, or for a fort of that class.]
 
 * * *
 
-### Letter 242: GHÛLÂM AHMED
+### Letter 243: GHÛLÂM AHMED
 
-### LETTER CCXLIV.
+#### LETTER CCXLIV.
 
-### *To* <span class="small-caps">GHÛLÂM AHMED</span>, *Kázy of Nugr; dated 6th Byázy.* (*12th March.*)
+#### *To* <span class="small-caps">GHÛLÂM AHMED</span>, *Kázy of Nugr; dated 6th Byázy.*<br />(*12th March.*)
 
 <span class="small-caps">WE</span> understand what you have represented, regarding a certain Musulman inhabitant of *Lukoty*,[^fn-p0332-1] “who was in the habit of worshipping “images, in the manner of the *Hindoos*, and whom you, in consequence, “upon hearing of the matter, seized, together with his wife and children; dispatching what money, as well as gold and silver trinkets, “they possessed, to the *Kuchurry* of the *Ehshám*, and keeping them “under a guard, till you should receive our orders respecting them.”
 
 You will deal with the aforesaid [offender] according to law, and then let him go. In matters relating to our holy law, you are authorized to act as you think proper [or, are independent].[^fn-p0332-2]
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The fact here recorded, supposing the *Kázy’s* statement to be correct, is a very curious one, because of rare occurrence: indeed, I never heard of another instance of it. I am ignorant what punishment the Mahommedan law has appointed for this offence; but it is most probable, that the property of the present culprit, if not entirely confiscated, was, at least, heavily amerced.
 
-### Letter 243: BÛRHÂNÛDDEEN
+### Letter 244: BÛRHÂNÛDDEEN
 
-### LETTER CCXLV.
+#### LETTER CCXLV.
 
 *To* BÛRHÂNÛDDEEN ; *dated* 10*th* *BYÁZY.* (16*th March*.)
 
@@ -5097,9 +5102,9 @@ The fact here recorded, supposing the *Kázy’s* statement to be correct, is a 
 
 * * *
 
-### Letter 244: BÛRHÂNÛDDEEN
+### Letter 245: BÛRHÂNÛDDEEN
 
-### LETTER CCXLVI.
+#### LETTER CCXLVI.
 
 *To the same* ; *dated* 24*th* *BYÁZY.* (30*th March*.)
 
@@ -5107,25 +5112,25 @@ The fact here recorded, supposing the *Kázy’s* statement to be correct, is a 
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It is curious to observe the *Sultan* directing, in this and the preceding letter, a night assault to be made on the Mahrattah army, while, on other occasions, when that mode of attack has been adopted by the English against himself, he stigmatises it as a base proceeding, worthy only of robbers.
 
-### Letter 245: SHÂNOOR WÂLEH
+### Letter 246: SHÂNOOR WÂLEH
 
-### LETTER CCLXVII.
+#### LETTER CCLXVII.
 
-### *To the* <span class="small-caps">SHÂNOOR WÂLEH</span>; *dated* 26*th* <span class="small-caps">BYÂZY</span>. (1*st April*.)
+#### *To the* <span class="small-caps">SHÂNOOR WÂLEH</span>; *dated* 26*th* <span class="small-caps">BYÂZY</span>. (1*st April*.)
 
 <span class="small-caps">AGREEABLY</span> to your request, we have written and enclose an order to Nursia, the *Dewán* of *Nugr*, directing him to accept payment of that friend’s tribute[^fn-p0334-1] at the end of three months. Forward the same to him.
 
 * * *
 
-### Letter 246: BÛRHÂNÛDDEEN
+### Letter 247: BÛRHÂNÛDDEEN
 
-### LETTER CCXLVIII.
+#### LETTER CCXLVIII.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated* 2*d* <span class="small-caps">AHMEDY</span>, *Year* <span class="small-caps">DULLO</span>.[^fn-p0334-2] (7*th April*.)
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated* 2*d* <span class="small-caps">AHMEDY</span>, *Year* <span class="small-caps">DULLO</span>.[^fn-p0334-2] (7*th April*.)
 
 <span class="small-caps">YOUR</span> encamping at *Misrycotah*, as well as your dispatching of the *Kâzy* of *Tûrkul* to the Presence, was proper. According to your request, *Purwánehs* are enclosed for the *Aumils* of the several *Taalûks*, as likewise for the [different] *Kilaadárs*, directing them to furnish you [constantly] with intelligence of the enemy’s [motions].
 
@@ -5133,47 +5138,47 @@ Let loose the marauding horse, and other predatory troops [with you], upon the e
 
 * * *
 
-### Letter 247: MAHOMMED ALI
+### Letter 248: MAHOMMED ALI
 
-### LETTER CCXLIX.
+#### LETTER CCXLIX.
 
-### *To* <span class="small-caps">MAHOMMED ALI</span>, *<span class="small-caps">AUMIL</span> of <span class="small-caps">UFZULÂBÂDY</span> <span class="small-caps">NUGR</span>;*[^fn-p0334-4] *same Date*. (7*th April*.)
+#### *To* <span class="small-caps">MAHOMMED ALI</span>, *<span class="small-caps">AUMIL</span> of <span class="small-caps">UFZULÂBÂDY</span> <span class="small-caps">NUGR</span>;*[^fn-p0334-4] *same Date*.<br />(7*th April*.)
 
 <span class="small-caps">IN</span> like manner as you have caused two thousand *Samories*,[^fn-p0334-5] inhabitants of *Zuferâbâd*, to flee [the country], even so must you send for them back [or cause them to return thither.]
 
-### Letter 248: Mahommed Abdûllah
+### Letter 249: Mahommed Abdûllah
 
-### LETTER CCL.
+#### LETTER CCL.
 
-### *To* <span class="small-caps">Mahommed Abdûllah</span>, *Cutwâl of the Army; dated* 4th <span class="small-caps">Ahmedy</span>. *(9th April.)*
+#### *To* <span class="small-caps">Mahommed Abdûllah</span>, *Cutwâl of the Army; dated* 4th<br /><span class="small-caps">Ahmedy</span>. *(9th April.)*
 
 <span class="small-caps">One</span> thousand two hundred and-forty two bullocks, belonging to the *Usud-Ilhye Kóthy*,[^fn-p0335-1] and six hundred bullocks, belonging to the powder-magazine, are appointed to be sent to pasture,[^fn-p0335-2] where you must provide for their being fed with thick milk,[^fn-p0335-3] at the daily allowance of a full *seer*[^fn-p0335-4] to every bullock. The [necessary] cowherds must be made to remain along with them at the pasturage, for the purpose of serving the curds; for which you are to take a regular receipt from them [*i. e.* from the cowherds].
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It is probable, that the bullocks, here enumerated, were intended to be employed on the expedition now meditated by the *Sultan* against *Adoni*; and as his movement thither was intended to be very sudden and rapid, the cattle selected for the occasion would, of course, be previously brought into the best condition possible. Thick, or curdled milk, is, I believe, considered in *India* as particularly heartening to oxen.
 
-### Letter 249: Dárogha of the Post-Office
+### Letter 250: Dárogha of the Post-Office
 
-### LETTER CCLI.
+#### LETTER CCLI.
 
-### *To the <span class="small-caps">Dárogha</span> of the Post-Office at <span class="small-caps">Putn</span>; dated 6th <span class="small-caps">Ahmedy</span>.* (*11th April.*)
+#### *To the <span class="small-caps">Dárogha</span> of the Post-Office at <span class="small-caps">Putn</span>; dated 6th <span class="small-caps">Ahmedy</span>.*<br />(*11th April.*)
 
 <span class="small-caps">Such</span> fruits as would spoil before they reached our Presence, must be taken to, and delivered at, the *Jinsy Tosheh-kháneh*, from whence they will be forwarded as may be ordered.[^fn-p0336-1]
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 This letter is given principally for the purpose of shewing that the *Sultan* had, at the date of it, left *Seringapatam*. It does not appear on what day he actually moved from thence; but the last letter, purporting to be written from *Seringapatam*, is one dated 16th of *Byázy*. The intermediate letters, to the date of the present one, do not happen to contain the name of the place from whence they were dispatched. On the 11th *Ahmedy* the *Sultan* writes from *Bangalore*.
 
 * * *
 
-### Letter 250: Shumsûddeen Khân
+### Letter 251: Shumsûddeen Khân
 
-### LETTER CCLII.
+#### LETTER CCLII.
 
-### *To <span class="small-caps">Shumsûddeen Khân</span>; dated 9th <span class="small-caps">Ahmedy</span>.* (*14th April.*)
+#### *To <span class="small-caps">Shumsûddeen Khân</span>; dated 9th <span class="small-caps">Ahmedy</span>.* (*14th April.*)
 
 <span class="small-caps">Directing</span> the following books, written in a good hand (not crabbed, but plain and legible) to be taken from the *Sultan’s* library, and dispatched to the Presence :
 
@@ -5183,25 +5188,25 @@ This letter is given principally for the purpose of shewing that the *Sultan* ha
 | *Bostán*, . . . . . . . . . . . 1 ditto. | *Kureemán* |
 | *Yoosuf* and *Zúleekha*, 2 ditto. | *Amdun* [^fn-p0336-2] |
 
-### OBSERVATIONS.
+###### OBSERVATIONS.
 
 Several orders, of a similar nature with the above, appear in the present collection of letters. As the books in the foregoing list are what may be called school-books, or such as are usually put into the hands of learners, its may be concluded, that the *Sultan* was accompanied, at this time, by one or more of his younger sons.
 
 * * *
 
-### Letter 251: Meer Mohib Ali
+### Letter 252: Meer Mohib Ali
 
-### LETTER CCLIII.
+#### LETTER CCLIII.
 
-### *To* <span class="small-caps">Meer Mohib Ali</span>, *<span class="small-caps">Bukhshy</span> of <span class="small-caps">Ehshám</span>, at <span class="small-caps">Fyze Hisár</span> (<span class="small-caps">Gooty</span>); dated* 11*th* <span class="small-caps">Ahmedy</span>. (16*th April*.)
+#### *To* <span class="small-caps">Meer Mohib Ali</span>, *<span class="small-caps">Bukhshy</span> of <span class="small-caps">Ehshám</span>, at <span class="small-caps">Fyze Hisár</span><br />(<span class="small-caps">Gooty</span>); dated* 11*th* <span class="small-caps">Ahmedy</span>. (16*th April*.)
 
 <span class="small-caps">On</span> the subject of his securing the person of Râm Râo, the *Serishtedár* of the *Kundachár*, who had absconded, together with the persons of all his family; and intimating to him, that he [Mohib Ali] would otherwise be made responsible [for the amount of the claims against the fugitive].
 
-### Letter 252: Sânoor Waleh
+### Letter 253: Sânoor Waleh
 
-### LETTER CCLIV.
+#### LETTER CCLIV.
 
-### *To the* <span class="small-caps">Sânoor Waleh</span>; *dated* <span class="small-caps">Bangalore</span>, *same Date*. (16*th April*.)
+#### *To the* <span class="small-caps">Sânoor Waleh</span>; *dated* <span class="small-caps">Bangalore</span>, *same Date*. (16*th April*.)
 
 [<span class="small-caps">After</span> compliments]. . . . What you write, respecting the severity with which Râkhunder Nâik, &c. press the payment of the eight *lacks* of *rupees* [due to us by you], as well as your request, that we would send orders to the aforesaid *Nâik*, to desist from his rigorous proceedings in regard to this money, is understood. Agreeably to your desire, we have transmitted [the necessary] directions to the *Nâik*, whom you will send back to us, accompanied by the same persons, on your part, who formerly attended upon us; in order that, a valuation being made in [concert with them] of the gold, the trinkets, the jewels, &c. which have arrived in charge of Weethul Doss, the banker, the same may be [duly] delivered into the *Sircar* [*i. e.* paid into our treasury].
 
@@ -5213,11 +5218,11 @@ N. B. There follows a letter, of the same date and tenor, addressed to Dileer Kh
 
 * * *
 
-### Letter 253: SHUMSÛDDEEN KHÂN
+### Letter 254: SHUMSÛDDEEN KHÂN
 
-### LETTER CCLV.
+#### LETTER CCLV.
 
-### *To* <span class="small-caps">SHUMSÛDDEEN KHÂN</span>; *dated* <span class="small-caps">BANGALORE</span>, 16*th* <span class="small-caps">AHMEDY</span>. (21*st April.*)
+#### *To* <span class="small-caps">SHUMSÛDDEEN KHÂN</span>; *dated* <span class="small-caps">BANGALORE</span>, 16*th* <span class="small-caps">AHMEDY</span>.<br />(21*st April.*)
 
 <span class="small-caps">AFTER</span> some directions, concerning certain gold ornaments, which the workmen belonging to the *Tosheh-kháneh* (of which Shumsûddeen was the superintendant) were employed in making up, the letter thus proceeds :
 
@@ -5225,15 +5230,15 @@ You write, “ that the druggists [^fn-p0339-1] require payment for the articles
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 If the foregoing letter, which is a close translation of the original, be understood in its most plain and obvious sense, we shall be obliged to conclude, that the oppressive system of requisitions, adopted some years after the date of it by the French revolutionists, was already known to, and practised by, Tippoo Sultan. It is possible, however, that his meaning might have been, that *prompt* payment was to be made for articles purchased on his account, in such cases only as were specified in his instructions ; and that, in all other instances, the tradesman was expected to submit the period of satisfying his claims to the pleasure and convenience of the *Sircar*. That the Persian reader may be the better enabled to judge how far this interpretation is admissible, I will here transcribe the original passage.
 
 > نوشته بودند که زر قیمت مصالح پساریان میخواهند در این باب هرچه ارشاد شود معلوم شد که ایشان حکم نامه را یک طرف داشته اند و نمیخوانند اگر در آن قلمي باشد که جنس کسیکه بسرکار خرید میشود زر آن بدهند باید داد اگر قلمي باشد که ندهند نباید داد
 
-### Letter 254: BÛRHÂNÛDDEEN
+### Letter 255: BÛRHÂNÛDDEEN
 
-### LETTER CCLVI.
+#### LETTER CCLVI.
 
 *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated* <span class="small-caps">BANGALORE</span>, 17*th* <span class="small-caps">AHMEDY</span>.  
 (22*d April*.)
@@ -5244,9 +5249,9 @@ You write, “ that you had detached a *Risâla* of horse and a *Kushoon* “ of
 
 * * *
 
-### Letter 255: MIRZÂ MAHOMMED KHÂN BEHÂDÛR SUMSÂMÛL MÛLK
+### Letter 256: MIRZÂ MAHOMMED KHÂN BEHÂDÛR SUMSÂMÛL MÛLK
 
-### LETTER CCLVII.
+#### LETTER CCLVII.
 
 *To* <span class="small-caps">MIRZÂ MAHOMMED KHÂN BEHÂDÛR SUMSÂMÛL MÛLK</span>; *dated*  
 19*th* <span class="small-caps">AHMEDY</span>. (24*th April*.)
@@ -5259,17 +5264,17 @@ It was our wish and intention to have sent that friend a dress, together with so
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I have no certain knowledge who Sumsâmûl Mûlk was. The interchange of presents, spoken of in the letter, rather discountenances the idea of his being a disaffected *Omra* of the court of *Hyderabad*; since a correspondence of that sort could hardly have escaped detection, and is not likely, therefore, to have been hazarded, during the existence of actual hostilities between the two states. The same objection applies to the supposition of his belonging to the train of Dârâjah (the son of the late Busâlut Jung, and nephew of the *Soubah*) who, at this period, held *Adoni* in appenage. The former conjecture is further opposed, by the consideration, that none of the memoirs of Nizâm Ali Khân, in my possession, notice the defection of this, or any other person of distinction, from his service, during the present war. But whoever this Sumsâmûl Mûlk was, it is probable that his negotiation with the *Sultan* proved abortive, since we hear no more of him after this time.
 
 * * *
 
-### Letter 256: MEER KÂZIM
+### Letter 257: MEER KÂZIM
 
-### LETTER CCLVIII.
+#### LETTER CCLVIII.
 
-### *To* <span class="small-caps">MEER KÂZIM</span>, *Dârogha at* <span class="small-caps">MUSCAT</span>, *same Date. (24th April.)*
+#### *To* <span class="small-caps">MEER KÂZIM</span>, *Dârogha at* <span class="small-caps">MUSCAT</span>, *same Date. (24th April.)*
 
 <span class="small-caps">THREE</span> letters from you, accompanied by two statements of your receipts and disbursements, have passed under our view.
 
@@ -5301,7 +5306,7 @@ We have received your account of the occurrences of that quarter and of *Persia*
 
 We have given directions to Ghûlâm Mahommed [the *Aumil* of *Mangalore*] to sell rice, &c. to every merchant producing a certificate [*chitty*] from you.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It will probably have been observed by the reader, that several of the *Sultan's* former orders are repeated in the foregoing letter, for the second, and some of them for the third time. He will, hereafter, be seen to reiterate them again.
 
@@ -5309,11 +5314,11 @@ It may be inferred, from the seventh paragraph of the present letter, that the e
 
 * * *
 
-### Letter 257: GHÛLÂM MAHOMMED
+### Letter 258: GHÛLÂM MAHOMMED
 
-### LETTER CCLIX.
+#### LETTER CCLIX.
 
-### *To* <span class="small-caps">GHÛLÂM MAHOMMED</span>, *<span class="small-caps">AUMIL</span> of <span class="small-caps">MANGALORE</span>; same Date.*
+#### *To* <span class="small-caps">GHÛLÂM MAHOMMED</span>, *<span class="small-caps">AUMIL</span> of <span class="small-caps">MANGALORE</span>; same Date.*
 
 *(24th April.)*
 
@@ -5323,17 +5328,17 @@ You are to sell rice, &c. [freely] to every merchant from *Muscat*, who brings y
 
 The above-mentioned [*i. e.* Meer Kâzim] instead of sapphires, has bought and sent on our vessels a quantity of rock-salt. What sort of a thing is the said rock-salt : and is there any consumption of it in this country or not ? Communicate [to us] every particular regarding it. Meer Kâzim writes, that he has sent a sample of it : let the said sample be forwarded to us.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It would appear, from the beginning of Letter CCLVIII, that Meer Kâzim had actually dispatched some cargoes of rock-salt ; while, from the concluding sentence of Letter CCLIX it might be inferred, that he had sent only a sample of it. However this might be, it is curious enough to observe the *Sultan*, in one and the same moment, enquiring the nature of the commodity in question; acknowledging himself ignorant, whether or not there was any demand for it among his subjects; and yet directing it to be shipped for *Mysore*, by every opportunity.
 
 * * *
 
-### Letter 258: Syed Ghuffâr
+### Letter 259: Syed Ghuffâr
 
-### LETTER CCLX.
+#### LETTER CCLX.
 
-### *To the* <span class="small-caps">Sipahdâr, Syed Ghuffâr</span>; *dated* <span class="small-caps">Bangalore</span>, 24*th* <span class="small-caps">Ahmedy</span>. (29*th April*.)
+#### *To the* <span class="small-caps">Sipahdâr, Syed Ghuffâr</span>; *dated* <span class="small-caps">Bangalore</span>, 24*th* <span class="small-caps">Ahmedy</span>.<br />(29*th April*.)
 
 <span class="small-caps">We</span> have received your application for letters from us to the *Jumaadárs* of the enemy's army. We shall arrive soon in person in that quarter, when, considering this matter duly, we will give our directions [or determine] accordingly.
 
@@ -5341,7 +5346,7 @@ You request to know our pleasure regarding the pay of your brother, who has been
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 This letter affords another proof of the strange division of the military authority in the armies of the *Sultan*. We here perceive a subordinate officer corresponding directly with his sovereign, upon a point of considerable delicacy and importance, which apparently belonged, in a peculiar manner, to the province of the commander-in-chief (Bûrhânûddeen). It is true, that the *Sultan* does not adopt the suggestion of the *Sipahdár*; but neither does he hint, that there was any irregularity in it.
 
@@ -5349,11 +5354,11 @@ I am by no means satisfied, that I have correctly translated the paragraph relat
 
 * * *
 
-### Letter 259: BÛRHÂNDÛDDEEN
+### Letter 260: BÛRHÂNDÛDDEEN
 
-### LETTER CCLXI.
+#### LETTER CCLXI.
 
-### *To* <span class="small-caps">BÛRHÂNDÛDDEEN</span>; *dated 26th <span class="small-caps">AHMEDY</span>.* (1st *May*.)
+#### *To* <span class="small-caps">BÛRHÂNDÛDDEEN</span>; *dated 26th <span class="small-caps">AHMEDY</span>.* (1st *May*.)
 
 <span class="small-caps">We</span> have received your letter, informing us, “ that having detached “ Shaikh Unser and Syed Ghuffâr to the relief of *Kittoor*, the former, “ taking a different road [from that pursued by Syed Ghuffâr], had “ fallen[^fn-p0346-1] upon the enemy’s entrenchments, and after putting to the “ sword, or taking prisoners, a thousand of their *Piádehs*, had entered “ *Kittoor* : that Syed Ghuffâr, having proceeded by another route, had “ attacked a small fort [or redoubt], in which the enemy had placed a “ garrison of five hundred men, the whole of which were either killed “ or made prisoners : that after this he surprised, in the night, a “ picquet of the enemy, consisting of a thousand horse, of great part of “ which he made booty,[^fn-p0346-2] and then got [in safety] to *Kittoor* : finally, “ that having infused due confidence into the garrison, and supplied the “ place with provisions and stores, both *Sipahdârs*, uniting their forces, “ directed their march back by a road leading through the woods ; and “ that you expected them to rejoin the victorious army in the course of “ twenty-four hours. You proceed to state, “ that as soon as they “ arrive, you will muster the horses [taken], and report the same to “ us ;” and you add, “ that the *Kuzzák* [or predatory] cavalry, “ belonging to the *Sircar*, are constantly bringing in horses taken from “ the enemy, which, agreeably to our orders, you purpose relinquishing “ to them.
 
@@ -5367,7 +5372,7 @@ Report to us the particulars of all who have *exerted* themselves, in order that
 
 You must inform the aforesaid *Munshoor*, Ghous Mahommed, and Sheer Khân, the *Aumil* [of *Kittoor*], that if they should find the place untenable, or in want of provisions and other supplies, they must not sacrifice our troops in its defence, but evacuating it, repair through the woods to the army : *for it is but a mound of clay, the existence and non-existence of which is the same thing* [*i. e.* is of no importance either way.]
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It is uncertain whether the enemy, here spoken of, was the Mahrattah army, or only an assemblage of the adherents of the captive *Daisye*, which had attempted to regain possession of *Kittoor*. The circumstance, however, of a picquet of a thousand horse, renders the former supposition the most probable.
 
@@ -5375,11 +5380,11 @@ The *Sultan* appears to have been well satisfied with the conduct of his troops 
 
 * * *
 
-### Letter 260: BÛRHÂNDÛDDEEN
+### Letter 261: BÛRHÂNDÛDDEEN
 
-### LETTER CCLXII.
+#### LETTER CCLXII.
 
-### *To the same ; dated* 27*th* *<span class="small-caps">AHMEDY</span>*. (2*d May*.)
+#### *To the same ; dated* 27*th* *<span class="small-caps">AHMEDY</span>*. (2*d May*.)
 
 <span class="small-caps">After</span> some orders for completing the different *Risálas* of the army as speedily as possible, and for filling up the vacancies in the rank of *Risáladár*, the letter thus concludes :—
 
@@ -5387,11 +5392,11 @@ A *Risáladár* [formerly] belonging to the *Risála* of General Matthews has be
 
 * * *
 
-### Letter 261: Dileer Khân Behâdûr Dileer Jung
+### Letter 262: Dileer Khân Behâdûr Dileer Jung
 
-### LETTER CCLXIII.
+#### LETTER CCLXIII.
 
-### *To* <span class="small-caps">Dileer Khân Behâdûr Dileer Jung</span> ;[^fn-p0348-1] *dated* 28*th* *<span class="small-caps">AHMEDY</span>*. (3*d May*.)
+#### *To* <span class="small-caps">Dileer Khân Behâdûr Dileer Jung</span> ;[^fn-p0348-1] *dated* 28*th* *<span class="small-caps">AHMEDY</span>*.<br />(3*d May*.)
 
 [<span class="small-caps">After</span> compliments] . . . . . . . . . . . . You write, “ that it is now the “ sowing season, and that, on this occasion, as well as for the purpose “ of realizing the claims of the *Sircar*, the presence of Mulhâry Pundit “ and of his son is a matter of the utmost consequence; and that you, “ therefore, request we will revoke our orders for their attending upon “ us, and allow you to send Râm Râo, Tummana Pundit, and Winkut “ Râo, along with Râkhunder Nâik, in their room.” It is known.
 
@@ -5399,17 +5404,17 @@ Inasmuch as it is, on several accounts, necessary, at this time, that the above 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It may be concluded, both from the reluctance of the *Patan* chief to send Mulhâry Pundit and his son to *Seringapatam*, and the pertinacity of the *Sultan* in requiring their attendance, that these persons were particularly well acquainted with the resources of the country, and perhaps with the personal property of their master, both of which, there is reason to think, Tippoo had, at this time, devoted to confiscation. I am unable to say, whether or not the individuals in question ultimatelyrepaired to the *Sultan’s* court; but as Abdûl Hukeem had most probably already determined not to wait the arrival of the *Sultan* at *Shânoor*, it may be presumed that they were not dispatched.
 
 * * *
 
-### Letter 262: Bûrhânûddeen
+### Letter 263: Bûrhânûddeen
 
-### LETTER CCLXIV.
+#### LETTER CCLXIV.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *same Date.* (3*d May.*)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *same Date.* (3*d May.*)
 
 <span class="small-caps">You</span> must relinquish [or give up] whatever horses and camels may be taken from the enemy to the captors, of whom you will buy as many of them as they themselves may not want, at a cheap and reasonable price, which is to be paid[^fn-p0350-1] to them [immediately]. They must not be allowed to sell them elsewhere.[^fn-p0350-2]
 
@@ -5419,17 +5424,17 @@ We lately sent orders to you to withdraw the garrison of the small fort of *Kitt
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It is uncertain whether by the small fort of *Kittoor*, the *Sultan* means the principal fortress of that name, lately wrested from the *Daisye*, or only an outwork or detached post; such as that mentioned in Letter CCLXI, as having been taken by Syed Ghuffâr, on his coming to the relief of *Kittoor*; or the *small fort* noticed in the report of Bûrhânûddeen, contained in Letter CCLXI.
 
 I rather think, however, that *Kittoor* itself is the place intended; both because it is, on other occasions, sometimes called a قلعه and sometimes a قلعچه and because the provisional order for its evacuation, contained in Letter CCLXI (and which is probably the order alluded to in the present dispatch) appears free from all ambiguity.[^fn-p0350-5]
 
-### Letter 263: Budrûz Zumân Khân / Kâzy of Nugr / Dewân of ditto / Dewân and Bukhshy of Ehshâm at Seringapatam / Dewân and Bukhshy at Fyze Hisâr, (Gooty) / Kilaadâr of Sumrputn Bulhâry / Kilaadâr of Seringapatam / Dewân of Furrûkhyâb Hisâr (Chittledoorg) / Dowlut Khân / Umldâr of Mangalore
+### Letter 264: Circular → Budrûz Zumân Khân / Kâzy of Nugr / Dewân of ditto / Dewân and Bukhshy of Ehshâm at Seringapatam / Dewân and Bukhshy at Fyze Hisâr, (Gooty) / Kilaadâr of Sumrputn Bulhâry / Kilaadâr of Seringapatam / Dewân of Furrûkhyâb Hisâr (Chittledoorg) / Dowlut Khân / Umldâr of Mangalore
 
-### LETTER CCLXV.
+#### LETTER CCLXV.
 
-### <span class="small-caps">Circular</span> *to the following Persons; dated from* <span class="small-caps">Muloong</span>,[^fn-p0351-1] *28th* <span class="small-caps">Ahmedy</span>. (*3d May.*)
+#### <span class="small-caps">Circular</span> *to the following Persons; dated from* <span class="small-caps">Muloong</span>,[^fn-p0351-1]<br />*28th* <span class="small-caps">Ahmedy</span>. (*3d May.*)
 
 <span class="small-caps">Budrûz Zumân Khân</span>;  
 *The* <span class="small-caps">Kâzy</span> *of* <span class="small-caps">Nugr</span>;  
@@ -5467,13 +5472,13 @@ You must cause numerous copies of the commands herewith sent to be made, and mus
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Nothing can be worse written than the original of this miserable circular. Though short, it is, perhaps, as perplexed a production as any that ever proceeded from the pen of the *Sultan*, who, most probably, dictated every word of it. The proclamation to which it refers, and which immediately follows it in my manuscript, is in a better style, and was, no doubt, drawn up by some of the Mahommedan theologians of his court.
 
 A translation of the proclamation here mentioned, appeared, in the year 1793, in the Appendix to Major Dirom’s judicious and interesting Narrative of Lord Cornwallis’s last Campaign against Tippoo Sultan ; and if that publication were not now become very scarce, it would be sufficient, perhaps, to refer the reader to it, for the document in question: it is proper, however, to observe, that the Persian original, from which Colonel Read’s translation was taken, appears to have differed, in some respects, from the copy recorded in the official register. Of the latter the following is a faithful version, for which I am, in a great measure, indebted to the kindness of Mr. Stewart, Persian, Arabic, and Hindostâny Professor at the Honorable the East-India Company’s Oriental College at Hertford. The original abounds so much in quotations from the *Koran*, and my knowledge of the Arabic is so limited, that, without such assistance, I should have hesitated at submitting a translation of it to the reader.
 
-### *Proclamation, or Manifesto, of Tippoo Sultan.*[^fn-p0353-1]
+#### *Proclamation, or Manifesto, of Tippoo Sultan.*[^fn-p0353-1]
 
 “ <span class="small-caps">Whereas</span>, in conformity with the commands of God and the Prophet “ [which say], . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -5506,8 +5511,10 @@ A translation of the proclamation here mentioned, appeared, in the year 1793, in
 
 *Verse from Hafiz.*[^fn-p0355-2]
 
-“ ‘ If you place your foot in the path of the law and of religion, Hafiz,  
-“ ‘ In reward for your zeal, the Chief of Nujuf [Ali] will become your Protector.
+> **[verse_insert]**
+>
+> “ ‘ If you place your foot in the path of the law and of religion, Hafiz,  
+> “ ‘ In reward for your zeal, the Chief of Nujuf [Ali] will become your Protector.
 
 “ ‘ Let them not say of any thing [or on any occasion] I will  
 “ ‘ do so ; but, if it please God [it shall be done]. Grace be  
@@ -5517,31 +5524,31 @@ Although it is probable, that the immediate object of the *Sultan*, in the foreg
 
 There is one passage in the foregoing production, which appears to point more particularly than any other to the English. It is that wherein he complains, not, as in Major Dirom’s translation, of ravages committed in *his* peculiar territories, but (according to my copy of this paper) of the injuries and losses which the Musulmans in general had sustained at the hands of the infidels; alluding distantly (as on other occasions he has done more openly) to our establishment in *Bengal*, the *Carnatic*, and other Mahommedan states of *India*. On the whole, it must be allowed, that the extensive views of aggrandizement, entertained at this time by the *Sultan*, are abundantly developed by this curious document.
 
-### Letter 264: Abdûl Nubby
+### Letter 265: Abdûl Nubby
 
-### LETTER CCLXVI.
+#### LETTER CCLXVI.
 
-### *To the* <span class="small-caps">Commandant</span>, <span class="small-caps">Abdûl Nubby</span>;[^fn-p0357-1] *dated* 29*th* <span class="small-caps">Ahmedy</span>. (4*th May*.)
+#### *To the* <span class="small-caps">Commandant</span>, <span class="small-caps">Abdûl Nubby</span>;[^fn-p0357-1] *dated* 29*th* <span class="small-caps">Ahmedy</span>.<br />(4*th May*.)
 
 <span class="small-caps">On</span> the subject of his repairing to the Presence, together with the *Sepoys* belonging to him (or such *Sepoys* as he may be enabled to bring with him), in perfect confidence and security: and assuring him, that he should be provided for after his arrival, agreeably to the regulations and appointments of the *Sircar*.
 
 * * *
 
-### Letter 265: Ali Râjah Beeby
+### Letter 266: Ali Râjah Beeby
 
-### LETTER CCLXVII.
+#### LETTER CCLXVII.
 
-### *To* <span class="small-caps">Ali Râjah Beeby</span>; *same Date.* (4*th May*.)
+#### *To* <span class="small-caps">Ali Râjah Beeby</span>; *same Date.* (4*th May*.)
 
 <span class="small-caps">Desiring</span> her to transmit incessantly intelligence of what passes at *Bombay* and *Tillicherry*.
 
 * * *
 
-### Letter 266: Ghûlâm Munsoor
+### Letter 267: Ghûlâm Munsoor
 
-### LETTER CCLXVIII.
+#### LETTER CCLXVIII.
 
-### *To* <span class="small-caps">Ghûlâm Munsoor</span>, *<span class="small-caps">Aumil</span> of <span class="small-caps">Silcotah</span>*;[^fn-p0357-2] *dated* 1*st* <span class="small-caps">Beháry</span>. (5*th May*.)
+#### *To* <span class="small-caps">Ghûlâm Munsoor</span>, *<span class="small-caps">Aumil</span> of <span class="small-caps">Silcotah</span>*;[^fn-p0357-2] *dated* 1*st* <span class="small-caps">Beháry</span>.<br />(5*th May*.)
 
 <span class="small-caps">Your</span> letter, reporting, “ that the *Jumaadár*, Syed Ameen, had “ beat the *Bukhshy*, Nuwâz Baig, in such a manner, as to occasion the “ death of the latter; and that you had [in consequence] secured the “ aforesaid *Jumaadár*, by putting irons on his legs and arms,” has passed under our view.
 
@@ -5549,49 +5556,49 @@ Our special retinue will arrive the day after to-morrow at *Great Balapoor*. Sec
 
 * * *
 
-### Letter 267: Fuzl Ali Khân
+### Letter 268: Fuzl Ali Khân
 
-### LETTER CCLXIX. *To* <span class="small-caps">Fuzl Ali Khân</span> ; *same Date.* (*5th May.*)
+#### LETTER CCLXIX.<br />*To* <span class="small-caps">Fuzl Ali Khân</span> ; *same Date.* (*5th May.*)
 
 <span class="small-caps">The</span> report which you have sent us, of the gallant conduct of our troops, and of the men wounded [in the late actions], is known [or has been considered]. Let the wounded receive the compensation fixed by our regulations ; and let the horses, and other property taken [from the enemy], be relinquished, according to the orders of the *Sircar*, to the captors [literally, to those who *bring them in.*][^fn-p0358-2]
 
 * * *
 
-### Letter 268: Mahommed Ali
+### Letter 269: Mahommed Ali
 
-### LETTER CCLXX. *To the* <span class="small-caps">Sipahdár, Mahommed Ali</span> ; *same Date.* (*5th May.*)
+#### LETTER CCLXX.<br />*To the* <span class="small-caps">Sipahdár, Mahommed Ali</span> ; *same Date.* (*5th May.*)
 
 <span class="small-caps">When</span> we ourself arrive in that quarter, *the Risála, wanting to complete your Kushoon*, shall be given you.
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 This short letter is given, merely for the purpose of showing, in some degree, the constitution of a *Kushoon*. It appears, by this document, that a *Risála* was a component part of a *Kushoon*: but how many of the former were contained in a *Kushoon*, I do not clearly know. I am inclined to think, however, that a *Kushoon* was a regiment, consisting of two or more *Risálas*, or battalions.[^fn-p0359-1]
 
 * * *
 
-### Letter 269: BÛRHÂNÛDDEEN
+### Letter 270: BÛRHÂNÛDDEEN
 
-### LETTER CCLXXI.
+#### LETTER CCLXXI.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated* 2*d* <span class="small-caps">BEHÁRY.</span> (6*th May.*)
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated* 2*d* <span class="small-caps">BEHÁRY.</span> (6*th May.*)
 
 <span class="small-caps">YOUR</span> letter has been received  A rupture has taken place between Nizâm Ali Khân and the enemy [*i. e.* the Mahrattahs], in consequence of some pecuniary discussions ; and this has been followed by the aforesaid *Khán's* marching away, to the distance of six *coss* on the other side of [or beyond] *Bádámy*.
 
 We shall shortly relieve both *Bádámy* and *Ramdoorg* in a fit manner [*i. e.* effectually]. Do you [in the mean while] keep your mind at ease. You did right in giving up [or resigning] the captured horses and cattle [to the captors]. You must do the same thing in future.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It is certain, that the *Nizám* separated about this time from the Mahrattah army, and returned to *Hyderabad*. The measure, however, is ascribed, in such memoirs of this period as I have seen, simply to the inconvenience which his Highness suffered from the heat of the weather. He is stated to have left, at the same time, a considerable body of troops, for the purpose of co-operating with his allies.
 
 The *Sultan* did not fulfil his promise, respecting the relief of *Bádámy*, as the Mahrattahs obtained possession of that place some time in the month of May.
 
-### Letter 270: Meer Kâzim
+### Letter 271: Meer Kâzim
 
-### LETTER CCLXXII.
+#### LETTER CCLXXII.
 
-### *To* <span class="small-caps">Meer Kâzim</span>, *Dârogha at* <span class="small-caps">Muscat</span> : *same Date.* (*6th May.*)
+#### *To* <span class="small-caps">Meer Kâzim</span>, *Dârogha at* <span class="small-caps">Muscat</span> : *same Date.* (*6th May.*)
 
 <span class="small-caps">The</span> rock-salt, of which you sent a sample (see Letter CCLVIII,) is very fine : you must, therefore, buy a large quantity of it, and lading it on the return *Dingies* belonging to the *Sircar*, which have carried thither rice for sale, consign the same, from time to time, to the *Aumil* of *Mangalore*, to whom you are also to transmit an account of its cost.
 
@@ -5601,31 +5608,31 @@ We have already written, desiring you to purchase pearls. They must be large and
 
 * * *
 
-### Letter 271: Meer Moaayenûddeen
+### Letter 272: Meer Moaayenûddeen
 
-### LETTER CCLXXIII.
+#### LETTER CCLXXIII.
 
-### *To* <span class="small-caps">Meer Moaayenûddeen</span> ; *same Date.* (*6th May.*)
+#### *To* <span class="small-caps">Meer Moaayenûddeen</span> ; *same Date.* (*6th May.*)
 
 <span class="small-caps">In</span> addition to the force already attached to you, four other *Kushoons*, *viz.* Mahommed Huleem’s, Rujub Ali’s, Shaikh Omar’s, and Ahmed Baig’s, are ordered to join you. At the end of to-morrow’s march [and, for the future] you must encamp these four *Kushoons* in the form of a square, square,[^fn-p0361-1] within [or in the centre of] which you are yourself regularly to take post.
 
 We have moreover appointed Mahommed Kâzim and Yenket Râo, the *Serishtedár* of the *Jyshe*, to these four *Kushoons* :[^fn-p0361-2] and, finally, you will be further re-inforced by the *Risála* of *Behrám*, and some other troops, both horse and foot, under the command of Mohyûddeen Khân.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I am not certain who Moaayenûddeen was ; but I have an indistinct notion that he was related to the *Sultan*. Be this as it may, he would appear, by the foregoing letter, to have been an officer of high command and trust. The order of encampment, here prescribed to him, was to be observed, it seems, from the time of the army’s arriving at *Great Balapoor*. Whether or not this disposition was made with any particular view to guarding against a sudden attack, I am unable to determine. It is not probable, however, that the *Sultan* had any expectation of encountering an enemy on his present line of march.
 
 * * *
 
-### Letter 272: BÛRHÂNÛDDEEN
+### Letter 273: BÛRHÂNÛDDEEN
 
-### LETTER CCLXXIV.
+#### LETTER CCLXXIV.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated* 5*th* <span class="small-caps">BEHÁRY.</span> (9*th May*.)
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated* 5*th* <span class="small-caps">BEHÁRY.</span> (9*th May*.)
 
 <span class="small-caps">YOUR</span> letter, enclosing one addressed to that light of our eyes by the *Kilaadár* of *Bádámy*,[^fn-p0361-3] has been received, and the particulars represented therein have become manifest. You must give orders to the country people[^fn-p0361-4] to be vigilant and careful. You, too, must conduct yourself with caution. We enclose a plan, on paper, of the manner in which your army is to encamp : let this be copied on parchment, and let your army be always encamped agreeably thereto.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It is to be regretted, that the plan, here spoken of, has not been preserved, along with the letter referring to it, as it would have illustrated the *Sultan’s* ideas on the particular branch of tactics in question, better than any other document that has hitherto appeared. It is, no doubt, probable that the *Futhûl Mújáhideen* would throw considerable light on the subject.[^fn-p0362-1]
 
@@ -5633,15 +5640,15 @@ It is remarkable, that in the foregoing short letter, the *Sultan*, though, in g
 
 * * *
 
-### Letter 273: Meer Ghûlâm Mohyûddeen
+### Letter 274: Meer Ghûlâm Mohyûddeen
 
-### LETTER CCLXXV.
+#### LETTER CCLXXV.
 
-### *To* <span class="small-caps">Meer Ghûlâm Mohyûddeen</span>, *Kilaadar of* <span class="small-caps">Kunjungood</span>, *or* <span class="small-caps">Kunchungúreh</span>; *dated* 7*th* <span class="small-caps">Beháry</span>. (11*th May*.)
+#### *To* <span class="small-caps">Meer Ghûlâm Mohyûddeen</span>, *Kilaadar of* <span class="small-caps">Kunjungood</span>, *or*<br /><span class="small-caps">Kunchungúreh</span>; *dated* 7*th* <span class="small-caps">Beháry</span>. (11*th May*.)
 
 Do you remain, in all respects, firm and tranquil ;[^fn-p0362-2] nor entertain, on any account, the least fear. Let us know, what force the enemy has in that neighbourhood, and in what situations it is posted. Be particular in stating the strength and position [of every division], and the names of the several places which they occupy. Take, also, special care, that neither your receipt of this dispatch, nor its contents, become known to any one.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 This is almost the only letter in the present collection, of those written to the *Sultan’s* own servants, which has what is called an *Ulkáb*, or address. I conclude, from hence, that he was not in the habit of using this formulary, excepting on particular occasions, like the present,[^fn-p0363-1] when this sort of compliment might be intended to operate as a stimulus to extraordinary exertion ; nor is it improbable, that the endearing expressions applied to Bûrhânûddeen, in Letter CCLXXIV, were employed with a similar view.
 
@@ -5651,25 +5658,25 @@ It might be inferred, from the tenor of the orders contained in this dispatch, t
 
 * * *
 
-### Letter 274: Mahommed Mehdy
+### Letter 275: Mahommed Mehdy
 
-### LETTER CCLXXVI.
+#### LETTER CCLXXVI.
 
-### *To* <span class="small-caps">Mahommed Mehdy</span>, *Bukhshy of the* <span class="small-caps">Ehshâm</span> *at* <span class="small-caps">Seringapatam</span>; *dated* 10*th* <span class="small-caps">Beháry</span>. (14*th* May.)
+#### *To* <span class="small-caps">Mahommed Mehdy</span>, *Bukhshy of the* <span class="small-caps">Ehshâm</span> *at* <span class="small-caps">Seringapatam</span>;<br />*dated* 10*th* <span class="small-caps">Beháry</span>. (14*th* May.)
 
 <span class="small-caps">You</span> must not suffer any one to come to your house ; and whatever business you may have to do, let it be transacted in our *Kuchurry*. If, nevertheless, people should persist in coming to your house, *they shall be deprived of their ears and noses*.[^fn-p0363-2] Pay strict attention to this order. It is surprising to us, that you should act in opposition to your instructions. Perhaps you have laid them by in the niche of forgetfulness ;[^fn-p0364-1] and to this may be owing your present contravention of our will and pleasure. Consider what is here said as a strict injunction.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 This order, if understood literally, would amount to the exclusion of every person from the habitation of the *Bukhshy*, who might occasionally have private business with him : but though the regulation, directing all *public* affairs to be transacted in open *Kuchurry*, and no where else, was rigidly enforced by the *Sultan*, it can hardly be supposed, that it was meant to extend to the mutual intercourse necessary in the conduct of personal or domestic concerns.[^fn-p0364-2] It is not difficult to comprehend the *Sultan’s* motives for a prohibition of the kind under consideration : but, with respect to the punishment appointed for its infraction, it may be presumed, in the absence of any proof of its ever being actually inflicted, that it was held out only *in terrorem*.
 
 * * *
 
-### Letter 275: Ghûlâm Hûsain / Sujjâd Sâheb / Ibn Sâheb / Sons of Shaikhûn Sâheb / Mûseem Sâheb
+### Letter 276: Ghûlâm Hûsain / Sujjâd Sâheb / Ibn Sâheb / Sons of Shaikhûn Sâheb / Mûseem Sâheb
 
-### LETTER CCLXXVII.
+#### LETTER CCLXXVII.
 
-### <span class="small-caps">Circular</span>, *dated* 10*th* *<span class="small-caps">Behâry</span>*. (14*th May*) *to*
+#### <span class="small-caps">Circular</span>, *dated* 10*th* *<span class="small-caps">Behâry</span>*. (14*th May*) *to*
 
 <span class="small-caps">Ghûlâm Hûsain</span>, *at* *<span class="small-caps">Aurungâbâd</span>*;  
 <span class="small-caps">Sujjâd Sâheb</span> *and* <span class="small-caps">Ibn Sâheb</span>, *at* *<span class="small-caps">Hyderâbâd</span>*;
@@ -5684,75 +5691,75 @@ Actuated by similar motives, the persons most distinguished here for virtue and 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 No doubt, the proclamation, or manifesto, at page 293, is the enclosure here referred to, and which, hitherto, had probably been circulated only in the territories dependent on *Mysore*. But as the chief design of the *Sultan*, in that address, was to draw to his standard the Musulman subjects of other states, and particularly such as lived under the authority of his immediate enemies, it was necessary that it should be promulgated far and near. What means he adopted for this purpose, with respect to more distant countries, or whether he made any attempt to introduce the document in question into the British dominions, does not appear: but here we see him selecting as his instruments for publishing it, and promoting its proposed effect, within the dominions of the Mahrattahs and of the *Nizám*, persons actually residing under the protection of, and owing allegiance to, those very powers; and who, consequently, could neither pray for the success of his arms, nor contribute their endeavours to supply him with recruits (which was his chief object on the present occasion), without a violation of their civil duties, or without exposing themselves to the most imminent danger. Tippoo, however, did not allow himself to be restrained by considerations of this nature. He was, at all times, in communication with the priests belonging to the different shrines, or places of peculiar sanctity among Musulmans, that are scattered over the Peninsula, but not one of which, I believe, was included within his own dominions. The only thing to be wondered at, on this occasion, is the temerity of the reverend personages who engaged in such a hazardous correspondence; for though it does not appear how the present letter was received by the individuals to whom it was addressed, the records found at *Seringapatam* afford abundant proof, that the *Sultan*, throughout his reign, stood high in the favour of this particular class. For this distinction he might, in some degree, be indebted to the gifts which he occasionally bestowed on them; but he, most probably, owed it principally to their bigotry. He fought avowedly for the glory and extension of their religion; and that, with zealots, would be a sufficient apology for treason, as well as a sufficient motive for risking their personal safety in the advancement of his cause.
 
 * * *
 
-### Letter 276: BÛRHÂNÛDDEEN
+### Letter 277: BÛRHÂNÛDDEEN
 
-### LETTER CCLXXVIII.
+#### LETTER CCLXXVIII.
 
-### *To* BÛRHÂNÛDDEEN; *dated* 11*th* B<span class="small-caps">EHÂRY</span>. (15*th May*.)
+#### *To* BÛRHÂNÛDDEEN; *dated* 11*th* B<span class="small-caps">EHÂRY</span>. (15*th May*.)
 
 <span class="small-caps">YOU</span> write, “ that Syed Ahmed, a *Jowkdár*[^fn-p0366-1] of the *Kushoon* of. . . . “ . . . . [^fn-p0366-2] belonging to the *Uskur*, has recruited some men, without “ advancing any bounty.”[^fn-p0366-3] It is known. Let the above-mentioned be appointed to the command of one of the new *Risálas* lately raised by Syed Ghuffâr. We have appointed and sent from hence another person to command the *Risála* of. . . . . . . . [^fn-p0366-4]. He will soon join you. When we shall have summoned you to our Presence, and heard [from you verbally] the particulars of the gallant services of the men belonging to the *Kushoons* of Syed Ghuffâr and Shaikh Unser, we will distinguish them[^fn-p0367-1] [in a suitable manner].
 
 * * *
 
-### Letter 277: Meer Moaayenûddeen
+### Letter 278: Meer Moaayenûddeen
 
-### LETTER CCLXXIX.
+#### LETTER CCLXXIX.
 
-### *To* <span class="small-caps">Meer Moaayenûddeen</span> ; *same Date. (15th May.)*
+#### *To* <span class="small-caps">Meer Moaayenûddeen</span> ; *same Date. (15th May.)*
 
 <span class="small-caps">Seven</span> sealed orders,[^fn-p0367-2] specifying [or appointing] the daily marches [of your division], are sent herewith. Keep them by you, and return those formerly [delivered to you]. Issue directions to the people of your army, to provide themselves with six days’ provisions ; and be prepared to execute whatever orders you shall hereafter receive.
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The orders, here alluded to, appear to have been of the nature of sailing orders in our navy. They were each, probably, to be opened on a stated day ; when the place to which the troops were to march on that particular day would be ascertained. Secrecy, of course, was the object of this arrangement : but it does not appear upon what service Moaayenûddeen was to be employed. It was now eight days since the *Sultan* had arrived in the vicinity of *Great Balapoor* ; and he was, probably, advanced, at the date of the present orders, as far as *Ráidoorg*, from whence *Adoni* might be easily reached in six marches. On this point, however, we are unfortunately left entirely to conjecture, in consequence of none of the dispatches of the present period happening to specify the place from whence they were written. It is not unlikely, however, that Moaayenûddeen was pushed forward for the purpose of investing *Adoni*, previously to the arrival of the main army before it.
 
-### Letter 278: Commanders of the five BÁRGEER KUCHÚRRIES / SUWÁR KUCHURRY
+### Letter 279: Commanders of the five BÁRGEER KUCHÚRRIES / SUWÁR KUCHURRY
 
-### LETTER CCLXXX.
+#### LETTER CCLXXX.
 
-### *To the <span class="small-caps">Commanders</span> of the five B<span class="small-caps">ÁRGEER</span> K<span class="small-caps">UCHÚRRIES</span> and S<span class="small-caps">UWÁR</span> K<span class="small-caps">UCHURRY</span>; dated 13th B<span class="small-caps">EHÁRY</span>. (17th May.)*
+#### *To the <span class="small-caps">Commanders</span> of the five B<span class="small-caps">ÁRGEER</span> K<span class="small-caps">UCHÚRRIES</span> and S<span class="small-caps">UWÁR</span><br />K<span class="small-caps">UCHURRY</span>; dated 13th B<span class="small-caps">EHÁRY</span>. (17th May.)*
 
 <span class="small-caps">Issue</span> orders to the people under your command to provide themselves with six days’ provisions, and to leave their tents, *pawls*, &c. with the baggage of the army, taking nothing with them but two horse-halters[^fn-p0368-1] each man.
 
 * * *
 
-### Letter 279: COMMANDERS of the two (or both) JYSHE KUCHURRIES
+### Letter 280: COMMANDERS of the two (or both) JYSHE KUCHURRIES
 
-### LETTER CCLXXXI.
+#### LETTER CCLXXXI.
 
-### *To the <span class="small-caps">COMMANDERS</span> of the two (or both) J<span class="small-caps">YSHE</span> K<span class="small-caps">UCHURRIES</span>; same Date. (17th May.)*
+#### *To the <span class="small-caps">COMMANDERS</span> of the two (or both) J<span class="small-caps">YSHE</span> K<span class="small-caps">UCHURRIES</span>; same<br />Date. (17th May.)*
 
 <span class="small-caps">Issue</span> orders to your people to provide themselves with six days’ provisions; and leaving the tents, *pawls*, &c. belonging to them with the baggage of the army, to keep with them [only] the *Kúndilehs*[^fn-p0368-2] of the *Sircar*. You must [thus] remain unincumbered [*jureedeh*].
 
 * * *
 
-### Letter 280: BUKHSHIES of the EHSHAM KUCHURRY
+### Letter 281: BUKHSHIES of the EHSHAM KUCHURRY
 
-### LETTER CCLXXXII.
+#### LETTER CCLXXXII.
 
-### *To the <span class="small-caps">BUKHSHIES</span> of the E<span class="small-caps">HSHAM</span> K<span class="small-caps">UCHURRY</span>; same Date. (17th May.)*
+#### *To the <span class="small-caps">BUKHSHIES</span> of the E<span class="small-caps">HSHAM</span> K<span class="small-caps">UCHURRY</span>; same Date.<br />(17th May.)*
 
 <span class="small-caps">Direct</span> your people to furnish themselves with six days’ provisions, to be carried by themselves;[^fn-p0368-3] and leaving their tents, *pawls*, heavy baggage, &c. with the baggage of the army, to remain light and unincumbered.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 No doubt the troops, here ordered to prepare for a rapid movement, were intended to compose part of the division proceeding under the command of Moaayenûddeen; whose force (if we include in it the various corps enumerated in Letter CCLXXIII) must have amounted to at least ten thousand men.
 
 * * *
 
-### Letter 281: Syed Mahommed Khân
+### Letter 282: Syed Mahommed Khân
 
-### LETTER CCLXXXIII.
+#### LETTER CCLXXXIII.
 
-### *To* <span class="small-caps">Syed Mahommed Khân</span>, *Bukhshy of the Usud Ilhye; dated* 17*th* <span class="small-caps">Beháry</span>. (21*st* May.)
+#### *To* <span class="small-caps">Syed Mahommed Khân</span>, *Bukhshy of the Usud Ilhye; dated*<br />17*th* <span class="small-caps">Beháry</span>. (21*st* May.)
 
 (<span class="small-caps">Extract.</span>)
 
@@ -5762,25 +5769,25 @@ N.B. Then follows the order to the *Aumil* of *Bulháry*.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It is difficult to say, in what sense the foregoing extract should be understood. It may imply, either that the *Bukhshy* was not at liberty to send for his *Palenkeen*, without the *Sultan’s* authority; or that, not possessing the means of getting it conveyed to him (that is, the necessary carriage), he had been obliged to solicit the *Sultan* to give directions for its being forwarded to him. The former sense would, no doubt, consist perfectly well with the despotic nature of the *Sultan’s* government, and with the general system of control and restriction which pervaded every branch of it: but as the latter interpretation is equally warranted by the original, I am inclined to prefer it, on the principle of putting, in all cases of *absolute doubt*, the most favorable construction on his conduct.
 
-### Letter 282: URSHUD BAIG KHÂN
+### Letter 283: URSHUD BAIG KHÂN
 
-### LETTER CCLXXXIV.
+#### LETTER CCLXXXIV.
 
-### *To* <span class="small-caps">URSHUD BAIG KHÂN</span>, *Foujdar of* <span class="small-caps">CALICUT</span>.
+#### *To* <span class="small-caps">URSHUD BAIG KHÂN</span>, *Foujdar of* <span class="small-caps">CALICUT</span>.
 
 <span class="small-caps">GETTING</span> possession of the villain, Goorkul, and of his wife and children, you must forcibly[^fn-p0370-1] make Musulmans of them, and then dispatch the whole under a guard to *Putn*.
 
 * * *
 
-### Letter 283: CHISHTY YÂR KHÂN / ZYNÛL AABIDEEN
+### Letter 284: CHISHTY YÂR KHÂN / ZYNÛL AABIDEEN
 
-### LETTER CCLXXXV.
+#### LETTER CCLXXXV.
 
-### *To* <span class="small-caps">CHISHTY YÂR KHÂN</span> *and* <span class="small-caps">ZYNÛL AABIDEEN</span>; *dated* 20*th* <span class="small-caps">BEHÂRY</span>, (24*th May*.)
+#### *To* <span class="small-caps">CHISHTY YÂR KHÂN</span> *and* <span class="small-caps">ZYNÛL AABIDEEN</span>; *dated* 20*th* <span class="small-caps">BEHÂRY</span>,<br />(24*th May*.)
 
 <span class="small-caps">YOUR</span> letter of the 14*th Behâry* [17th May] was received this day, and has informed us of Dowlat Khân's being ill of the stone in the bladder : we have, in consequence, sent by the post an emetic [to be taken the first day], together with [other proper] medicines for the seven subsequent days. These are all separately made up in cloth and sealed.
 
@@ -5788,45 +5795,45 @@ The way of taking an emetic is this : dissolving the powder in about four *tolah
 
 * * *
 
-### Letter 284: Mahommed Yoosûf
+### Letter 285: Mahommed Yoosûf
 
-### LETTER CCLXXXVI.
+#### LETTER CCLXXXVI.
 
-### *To* <span class="small-caps">Mahommed Yoosûf</span>, *<span class="small-caps">Cutwâl</span> of the <span class="small-caps">Bâzâr</span>,*[^fn-p0371-6] *accompanying the Presence; dated* 3d <span class="small-caps">Jaafury</span>.[^fn-p0371-7] (6*th June*.)
+#### *To* <span class="small-caps">Mahommed Yoosûf</span>, *<span class="small-caps">Cutwâl</span> of the <span class="small-caps">Bâzâr</span>,*[^fn-p0371-6] *accompanying the<br />Presence; dated* 3d <span class="small-caps">Jaafury</span>.[^fn-p0371-7] (6*th June*.)
 
 <span class="small-caps">You</span> have represented, “ that two thousand four hundred and eighty-“ five bullock loads of rice, *gram*, &c. were some time ago dispatched “ to the Presence [*i. e.* to the *Sultan’s* army] and eleven hundred and “ nine very lately [or now].” It is known, and appears very extraordinary to us, that out of fifty or sixty thousand bullock loads, the duties on which have been remitted to the *Lumbánehs*,[^fn-p0372-1] only one or two thousand should have been dispatched [to us]. You must give strict orders for ten or fifteen thousand loads to be forwarded [hither] at a time.
 
 * * *
 
-### Letter 285: Mahommed Hyder
+### Letter 286: Mahommed Hyder
 
-### LETTER CCLXXXVII.
+#### LETTER CCLXXXVII.
 
-### *To* <span class="small-caps">Mahommed Hyder</span>, *second* <span class="small-caps">Dewán</span> *of* <span class="small-caps">Nugr</span>; *dated* 6*th* <span class="small-caps">Jaafury</span>. (9*th June*.)
+#### *To* <span class="small-caps">Mahommed Hyder</span>, *second* <span class="small-caps">Dewán</span> *of* <span class="small-caps">Nugr</span>; *dated* 6*th* <span class="small-caps">Jaafury</span>.<br />(9*th June*.)
 
 <span class="small-caps">You</span> write, “ that Nursia requires our express authority for joining “ [or inserting] your name [with his own] in the [official] letters to “ the *Aumils*.” It is known. When you were dispatched from the Presence, a [certain] mandate, addressed to Nursia, was delivered to you. Open and peruse the same, and conform to its contents. If it be directed therein, that you are to participate with him in the administration of the revenue business,[^fn-p0372-2] you will, agreeably thereto, apply earnestly and constantly, in conjunction with him, to the affairs of the *Sircar* : If [on the other hand] your participation [therein] should be forbidden,[^fn-p0372-3] you must act accordingly.
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 If I rightly understand this letter, which I have translated as closely as I could, it is a very strange one. I lay no stress upon the apparently singular circumstance of Mahommed Hyder’s being referred to a letter which he could not have in his possession, since he must have already delivered it to Nursia, to whom it was addressed. This difficulty is easily removed, by supposing what is most likely to have been the case, *viz.* that the letter referred to was only a copy (though not so called in the manuscript) with which the under *Dewán* had been furnished, for his information and guidance. But what appears extraordinary is, that the *Sultan* should have placed the question submitted to him on the hypothetical footing he has done, instead of giving a direct answer to it. We cannot imagine him to have really forgotten the orders he had transmitted to Nursia on the subject in dispute, or, if he had, that the secretary could not have produced a copy of them: hence it may be inferred, that the present letter was designed in the way of banter. It is pretty evident, from the fact of Nursia’s having refused to admit Mahommed Hyder to the privilege he demanded, without the express authority of the *Sultan*, that no such authority had been conveyed in the mandate referred to: and this the *Sultan*, no doubt, very well knew. The letter to Shumsûddeen Khân,[^fn-p0373-1] at page 278, seems to have been written in the same vein.
 
 * * *
 
-### Letter 286: Syed Mahommed Khân
+### Letter 287: Syed Mahommed Khân
 
-### LETTER CCLXXXVIII.
+#### LETTER CCLXXXVIII.
 
-### *To* <span class="small-caps">Syed Mahommed Khân</span>; *Third* <span class="small-caps">Dewán</span> *of* <span class="small-caps">Nugr</span>; *same Date.*
+#### *To* <span class="small-caps">Syed Mahommed Khân</span>; *Third* <span class="small-caps">Dewán</span> *of* <span class="small-caps">Nugr</span>; *same Date.*
 
 *(9th June.)*
 
 <span class="small-caps">You</span> write, “ requesting of us to give directions to our secretaries to “ insert your name, along with that of Mahommed Hyder, the second “ *Dewán*, in the *Purwánehs* [addressed to your department].” It is known. Who has told you (whom we had ordered to repair to the Presence) to remain there? and wherefore have you continued [till now] to reside there?[^fn-p0373-2]
 
-### Letter 287: BÛRHÂNÛDDEEN
+### Letter 288: BÛRHÂNÛDDEEN
 
-### LETTER CCLXXXIX.
+#### LETTER CCLXXXIX.
 
 *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated 7th* <span class="small-caps">JAAFURY.</span> (*10th June.*)
 
@@ -5834,9 +5841,9 @@ Now that you have encamped near *Misry-kotah*, you must take up a strong positio
 
 * * *
 
-### Letter 288: BUDRÛZ ZUMÂN KHÂN
+### Letter 289: BUDRÛZ ZUMÂN KHÂN
 
-### LETTER CCXC.
+#### LETTER CCXC.
 
 *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *same Date.* (*10th June.*)
 
@@ -5844,9 +5851,9 @@ What is the use of your fixing yourself at *Sehngah* [^fn-p0374-1]? You must shi
 
 * * *
 
-### Letter 289: ALI RÂJAH BEEBY
+### Letter 290: ALI RÂJAH BEEBY
 
-### LETTER CCXCI.
+#### LETTER CCXCI.
 
 *To* <span class="small-caps">ALI RÂJAH BEEBY</span>; *dated 8th* <span class="small-caps">JAAFURY.</span> (*11th June.*)
 
@@ -5854,9 +5861,9 @@ What is the use of your fixing yourself at *Sehngah* [^fn-p0374-1]? You must shi
 
 * * *
 
-### Letter 290: BUDRÛZ ZUMÂN KHÂN
+### Letter 291: BUDRÛZ ZUMÂN KHÂN
 
-### LETTER CCXCII.
+#### LETTER CCXCII.
 
 *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *dated 10th* <span class="small-caps">JAAFURY.</span> (*13th June.*)
 
@@ -5866,41 +5873,41 @@ It is known. In the written instructions delivered to you it is directed, that y
 
 * * *
 
-### Letter 291: Abdûl Kureem
+### Letter 292: Abdûl Kureem
 
-### LETTER CCXCIII.
+#### LETTER CCXCIII.
 
-### *To* <span class="small-caps">Abdûl Kureem</span>, *<span class="small-caps">Sipahdár</span> of the <span class="small-caps">Jyhse Kuchurry</span>, stationed with* <span class="small-caps">Urshud Baig Khân</span> ; *dated* 10*th* <span class="small-caps">Jaafury</span>. (13*th June*.)
+#### *To* <span class="small-caps">Abdûl Kureem</span>, *<span class="small-caps">Sipahdár</span> of the <span class="small-caps">Jyhse Kuchurry</span>, stationed with*<br /><span class="small-caps">Urshud Baig Khân</span> ; *dated* 10*th* <span class="small-caps">Jaafury</span>. (13*th June*.)
 
 <span class="small-caps">You</span> write, “ that the villain Goorkul, being wounded, had thrown “ himself, together with his wife and children, into a fire [kindled for “ the purpose] which had consumed them [all].” You add, “ that the “ *Mápilahs* have all taken to flight.”
 
 It is known. You must assemble and keep your men together, and, exercising them regularly, hold them always in readiness [for service].
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It would appear by this letter that the unfortunate Goorkul had eluded the endeavours of Tippoo’s commanders to secure his person ; but that, despairing of ultimate success, and knowing the fate that awaited himself and family, if they fell into the hands of their tyrant, he had resorted to the final remedy and refuge from dishonour, so usual among the *Hindoos*. The studied indifference, as it appears to be, with which the *Sultan* mentioned this dreadful catastrophe, will not have escaped the reader’s notice.
 
 * * *
 
-### Letter 292: RÂJAH RÂM CHUNDUR
+### Letter 293: RÂJAH RÂM CHUNDUR
 
-### LETTER CCXCIV.
+#### LETTER CCXCIV.
 
-### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span> ; *same Date.* (*13th June.*)
+#### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span> ; *same Date.* (*13th June.*)
 
 You write, “ that eighty smiths are required in the musquet manufactory at *Khân-Khânhully* ; and that, having made an application for this number to the *Aumils* of the surrounding districts, they had answered, that the *Ryots* excused themselves from furnishing them just now, on account of its being tillage time.”
 
 It is known. As the tillage of the land does not depend on blacksmiths, we write to desire, that the most peremptory orders may be issued to the *Aumils* within your jurisdiction, and enforced by bailiffs, for providing [immediately] the requisite number of these artificers.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Whatever might be the case in *Mysore*, it is, at least, certain, that in the provinces of *Bengal* and *Behar*, the cultivation of the lands depends, in a very material degree, on the manufacturing classes and artizans ; who, at the tillage season, are accustomed to quit their ordinary avocations, and to resume, for the necessary time, the labours of husbandry. Even the soldiers, at this period, are in the habit of returning on furlough to their native villages, for the purpose of working in the fields belonging to their respective families. I am inclined to think, that the same practice will be found to have obtained in *Mysore*; and, indeed, the reference made to it by the *Ryots*, sufficiently establishes the fact. At this rate, the *Sultan* could not be ignorant of its existence; so that, in saying, “ the culture “ of land did not depend upon blacksmiths,” he probably sacrificed the truth, and, what was worse, persisted in his oppression, chiefly for the sake of a conceit. Eighty men taken from the plough at such a time, would hardly fail to produce a material embarrassment in the agricultural operations of the district which was obliged to furnish them.
 
 * * *
 
-### Letter 293: Ghûlâm Hûsain Khân
+### Letter 294: Ghûlâm Hûsain Khân
 
-### LETTER CCXCV. *To* G<span class="small-caps">hûlâm</span> H<span class="small-caps">ûsain</span> K<span class="small-caps">hân</span>, *Second Munshoor of Bangalore; dated 11th Jaafury.* (*14th June.*) (E<span class="small-caps">xtract</span>.)
+#### LETTER CCXCV.<br />*To* G<span class="small-caps">hûlâm</span> H<span class="small-caps">ûsain</span> K<span class="small-caps">hân</span>, *Second Munshoor of Bangalore; dated<br />11th Jaafury.* (*14th June.*)<br />(E<span class="small-caps">xtract</span>.)
 
 W<span class="small-caps">hat</span> you report, of the escape of the European cannon-founder, is understood. You must, in such manner [or by such means] as you think best, and most practicable, contrive to get him back, otherwise bad consequences will follow, for which you shall be made to answer.
 
@@ -5908,11 +5915,11 @@ You write, “ that instead of five or six *rupees*, which you have “ proposed
 
 If the gunpowder is not prepared, and the gun-barrels are not constructed agreeably to our instructions, and if every thing else, appertaining to your department, be not properly executed, you will be called to a strict account [for your neglect].
 
-### Letter 294: BÛRHÂNÛDDEEN
+### Letter 295: BÛRHÂNÛDDEEN
 
-### LETTER CCXCVI.
+#### LETTER CCXCVI.
 
-### *To* BÛRHÂNÛDDEEN; *same Date.* (14*th June.*)
+#### *To* BÛRHÂNÛDDEEN; *same Date.* (14*th June.*)
 
 <span class="small-caps">Your</span> letter has been received, and its contents are comprehended. What you write, respecting the scarcity of grain, is known. The country of *Nugr* is near [you]. Send from thence for continual and abundant supplies of grain. What is the meaning of your loitering in one place with such an army [as you have]? You should take ten days provisions, and moving rapidly, in different directions, ten and twenty *coss* [at a time], seize an opportunity of striking some signal blow against the enemy. We have sent [similar] orders on this subject to the *Sipahdârs*, &c.
 
@@ -5920,7 +5927,7 @@ Phurnaveese [*i. e.* Nana, the Mahrattah minister] is gone [back] to *Poonah*. I
 
 Remove the son of Hukeem Khân from the command of his *Risála*, and place him in confinement.[^fn-p0378-1]
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It is true, that Nana Phurnaveese returned to *Poonah* some time about the end of May; and I believe that, either previously to his leaving the Mahrattah army, or immediately after his departure, the fort of *Bádámy* surrendered. Of this event, however, no trace is discoverable in the correspondence.
 
@@ -5928,11 +5935,11 @@ If Hukeem Khân be meant for Abdûl Hukeem Khân, the *Nabob* of *Shánoor*, (wh
 
 * * *
 
-### Letter 295: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
+### Letter 296: MAHOMMED GHYÂS / NOOR MAHOMMED KHÂN
 
-### LETTER CCXCVII.
+#### LETTER CCXCVII.
 
-### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span> ; *same Date*.
+#### *To* <span class="small-caps">MAHOMMED GHYÂS</span> *and* <span class="small-caps">NOOR MAHOMMED KHÂN</span> ; *same Date*.
 
 (14*th June*.)
 
@@ -5940,7 +5947,7 @@ If Hukeem Khân be meant for Abdûl Hukeem Khân, the *Nabob* of *Shánoor*, (wh
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Here ends the *Sultan’s* correspondence with his late ministers at the court of *Poonah*, who had probably received their dismission from thence some time in April 1786. Whatever may be thought of the diplomatic qualifications of those agents, from the faint sketches of their proceedings occasionally afforded by these letters, there would not appear to be any reason for imputing the failure of their negotiations to any deficiency of talents or address on their part : for the Mahrattahs being bent on a rupture, and the *Sultan* being equally determined not to compromise his dignity, or what he deemed to be his rights, it is probable, that neither party had, from the beginning, any expectation, or indeed any desire, of accommodating their mutual differences ; so that, in fact, all the envoys had to do, was to endeavour to amuse the Mahrattah government, by vague and illusory professions ; to obtain intelligence of its designs ; and, perhaps, to tamper with the fidelity of some of its servants. The first of these objects must have been always an hopeless one ; and when the notorious parsimony of their master is considered, their success, to any material extent, in the other two, may be reasonably doubted, without derogating, in the least, from their general zeal and capacity.
 
@@ -5948,11 +5955,11 @@ The most prominent feature in the *Sultan’s* correspondence with these envoys,
 
 Of Noor Mahommed Khân no more is heard. Mahommed Ghyâs[^fn-p0380-1] seems to have been subsequently confined to the humble sphere of superintendant of a provincial *Tosheh-kháneh*. Whether they lived to witness the annihilation of the *Khodádád Sircar*, I know not ; but it is probable they did not, as the *Sultan* reflects on their “ great age,” fourteen years prior to that event.[^fn-p0380-2]
 
-### Letter 296: Rujub Ali
+### Letter 297: Rujub Ali
 
-### LETTER CCXCVIII.
+#### LETTER CCXCVIII.
 
-### *To* <span class="small-caps">Rujub Ali</span>, *Kilaadâr of* <span class="small-caps">Gujunder Gurrh</span>;[^fn-p0381-1] *dated* 15*th* *Jaafury.*
+#### *To* <span class="small-caps">Rujub Ali</span>, *Kilaadâr of* <span class="small-caps">Gujunder Gurrh</span>;[^fn-p0381-1] *dated* 15*th*<br />*Jaafury.*
 
 B<span class="small-caps">Y</span> the Divine favor, the fort of *Adoni* is on the point of being reduced. God willing, after settling matters here, the special retinue will augment the lustre of that quarter [*i. e.* we shall proceed thither]. You must [in the interim] keep your mind at ease, and attend duly to the care and safety of the fort, [by] placing [the necessary] guards, and remaining always on the alert. You may, moreover, consider us as arrived.
 
@@ -5960,35 +5967,35 @@ N.B. A letter, of the same tenor and date, was written to Jymum Khân, *Kilaadâ
 
 * * *
 
-### Letter 297: Turbiyut Ali Khân / Râjah Râm Chundur
+### Letter 298: Turbiyut Ali Khân / Râjah Râm Chundur
 
-### LETTER CCXCIX.
+#### LETTER CCXCIX.
 
-### *To* <span class="small-caps">Turbiyut Ali Khân</span> *and* <span class="small-caps">Râjah Râm Chundur</span>; *same Date.* (18*th June.*)
+#### *To* <span class="small-caps">Turbiyut Ali Khân</span> *and* <span class="small-caps">Râjah Râm Chundur</span>; *same Date.*<br />(18*th June.*)
 
 D<span class="small-caps">IRECTING</span> them to dispatch to *Fyze Hisár* [*Gooty*], on hired bullocks, five thousand twenty-four-pounds shot, and the same number of eighteen-pounds shot.[^fn-p0381-2]
 
-### Letter 298: MAHOMMED SHUFEEA
+### Letter 299: MAHOMMED SHUFEEA
 
-### LETTER CCC.
+#### LETTER CCC.
 
-### *To* <span class="small-caps">MAHOMMED SHUFEEA</span>, *Dárogha of the Artillery; same Date.*
+#### *To* <span class="small-caps">MAHOMMED SHUFEEA</span>, *Dárogha of the Artillery; same Date.*
 
 (18*th June.*)
 
 <span class="small-caps">AGREEABLY</span> to the orders of the Presence, you must bring with you guns [of the *calibres*] of twelve and nine *Rutls* [*i.e.* nine and twelve-pounders].
 
-### OBSERVATIONS.
+###### OBSERVATIONS.
 
 It is probable, though my manuscript is silent on the subject, that the number of guns of each kind was specified in the original, as otherwise this order would appear to leave it to the judgment of the *Dárogha*, to bring what number he pleased. A supposition utterly inadmissible.
 
 * * *
 
-### Letter 299: ALI RIZÂ / BÂL MUKN DOSS → USUD ALI KHÂN
+### Letter 300: ALI RIZÂ / BÂL MUKN DOSS → USUD ALI KHÂN
 
-### LETTER CCCI.
+#### LETTER CCCI.
 
-### *To* <span class="small-caps">USUD ALI KHÂN</span>,[^fn-p0382-1] *from* <span class="small-caps">ALI RIZÂ</span> *and* <span class="small-caps">BÂL MUKN DOSS</span>; *dated*
+#### *To* <span class="small-caps">USUD ALI KHÂN</span>,[^fn-p0382-1] *from* <span class="small-caps">ALI RIZÂ</span> *and* <span class="small-caps">BÂL MUKN DOSS</span>; *dated*
 
 15*th* <span class="small-caps">JAAFURY</span>.[^fn-p0382-2] (18*th June.*)
 
@@ -5996,7 +6003,7 @@ It is probable, though my manuscript is silent on the subject, that the number o
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It does not appear from the correspondence, on what day the *Sultan* arrived before *Adoni* ; but as it is probable, that he would lose no time in summoning the place, the commencement of the siege by Tippoo, in person, may be safely reckoned from the 15th June. It had, perhaps, been previously invested by Moaayenûddeen : but this is uncertain.
 
@@ -6020,7 +6027,9 @@ The substance of the latter part of the foregoing extract has been given by Colo
 
 “ Accordingly, two months after this, the two confederated armies (on whom, “ and on their parents also, be the curse of God !) laid siege to the fort of “ *Bádámy*, and committed depredations, between the two rivers *Kishna* and “ *Toongbhudra*,[^fn-p0387-6] to the amount of fifteen or twenty *lacks* of *rupees*. Hereupon “ I[^fn-p0388-1] marched to *Bangalore*, where I remained ten or twelve days, and [from “ hence] dispatched a respectable person, together with an intelligent officer of “ spies, to Mâdhojee Bhonsillah, the chief of *Nágpoor*,[^fn-p0388-2] to whom I addressed a “ letter to the following effect:
 
-> “ ‘ What is the reason that you[^fn-p0388-3] have forgotten [your] ancient obligations “ ‘ [to us] and taken [or learned] the lesson of the whoreson ?[^fn-p0388-4] Fear God, “ ‘ otherwise your shameful actions will [assuredly] draw upon you their due “ ‘ punishment.’[^fn-p0388-5]
+> **[letter_excerpt]**
+>
+> > “ ‘ What is the reason that you[^fn-p0388-3] have forgotten [your] ancient obligations “ ‘ [to us] and taken [or learned] the lesson of the whoreson ?[^fn-p0388-4] Fear God, “ ‘ otherwise your shameful actions will [assuredly] draw upon you their due “ ‘ punishment.’[^fn-p0388-5]
 
 “ I also wrote and dispatched [letters], to the same purport, to Hurry Pundit “ Phurkia and to Râo Râsta, commanders of the army of the infidels. “ I moreover interrogated the *Sirdars* [or chief officers] of the army, respecting the [best] mode of conducting the war, and the attack[^fn-p0389-1] [most proper] to be made [in the first instance]; when they all, according to their [respective] abilities [or powers], delivered their opinions: none of which, however, were agreeable to my mind. At this time [or hereupon] calling upon God the Bountiful, and imploring his aid, I said, ‘ Please the Almighty God, I will proceed against *Adoni*, which is at a distance from the boundary of the *Sircar*, and is a strong place, where the honor[^fn-p0389-2] of Nizâm Ali Khân is lodged. Attacking this place, we must obtain possession of it. If, for the sake [or preservation] of their honor, the two *Sirdars*[^fn-p0389-3] should come [to its relief], we shall see [the extent of] their strength and power.’ This opinion [or plan] was *apparently* assented to by all those in attendance [upon me]; but God [only] knows what they inwardly [or really] thought [on the occasion].
 
@@ -6040,11 +6049,11 @@ The foregoing narrative is not, perhaps, calculated to exhibit the *Sultan* to a
 
 * * *
 
-### Letter 300: ALI RIZÂ / BÂL MUKN DOSS → USUD ALI KHÂN
+### Letter 301: ALI RIZÂ / BÂL MUKN DOSS → USUD ALI KHÂN
 
-### LETTER CCCII.
+#### LETTER CCCII.
 
-### *From the same to the same, and of the same Date.* (18*th June.*)
+#### *From the same to the same, and of the same Date.* (18*th June.*)
 
 <span class="small-caps">Your</span> note has been received, and its contents are understood. You write, “that hitherto, in pursuance of the intimation of the Presence,[^fn-p0393-1] “you have not been deficient in [your endeavours to bring] the [pending] “negotiation [to a conclusion], and that, even now, nothing is gone “[or lost].”[^fn-p0393-2] You proceed to state, that you wish we would represent “the matter, agreeably to your former proposals, to the Presence; and “getting a settlement made accordingly, which would redound to our honour, “ honour,[^fn-p0394-1] apprize you thereof :” and you exhort us, “ to exert our “ most strenuous endeavours, to obtain and send you a favourable “ answer.”
 
@@ -6052,46 +6061,46 @@ It is known. The firmament is prepared [^fn-p0394-2] and ripe with the ruin of t
 
 * * *
 
-### Letter 301: ALI RIZÂ / BÂL MUKN DOSS → USUD ALI KHÂN
+### Letter 302: ALI RIZÂ / BÂL MUKN DOSS → USUD ALI KHÂN
 
-### LETTER CCCIII.
+#### LETTER CCCIII.
 
-### *From the same to the same ; dated* 16*th* *<span class="small-caps">Jaafury</span>*. (19*th June*.)
+#### *From the same to the same ; dated* 16*th* *<span class="small-caps">Jaafury</span>*. (19*th June*.)
 
 <span class="small-caps">The</span> letter you sent has shown the face of arrival, and made us acquainted with the circumstances therein written. You state, “ that “ after obviating all difficulties[^fn-p0395-2] to day, you will come, accompanied by “ the persons of respectability [or credit, before mentioned] for the “ purpose of putting [every thing] in a [proper] train [of adjustment].” It is known, and highly approved. The habits of friendship and mutual interest have, of old [or from former times], firmly and truly subsisted between our lord and master (long may his prosperity endure !) and your master.[^fn-p0396-1] A regard to this circumstance, joined to compassion for the situation of [God’s] creatures, has disposed the blessed mind [of the former] to an accommodation ; in which [disposition] he has been more especially confirmed by your humble supplications, aided by the representations of us, your friends, and others participating in the present negotiation. It is, therefore, proper, that that friend, obtaining full powers to conclude a settlement, and accompanied by the persons of credit [before alluded to], should repair hither, and finally arrange the business, according to your agreement ; inasmuch as his Highness, our master, has these two objects greatly at heart ; namely, first, the relief of [God’s] creatures ;[^fn-p0396-2] and, secondly, the corroboration of the foundations of ancient friendship. What more ?
 
 * * *
 
-### Letter 302: ALI RIZÂ / BÂL MUKN DOSS → USUD ALI KHÂN
+### Letter 303: ALI RIZÂ / BÂL MUKN DOSS → USUD ALI KHÂN
 
-### LETTER CCCIV.
+#### LETTER CCCIV.
 
 *From the same to the same ; dated Wednesday Night, 18th <span class="small-caps">Jaafury</span>.*[^fn-p0396-3]  
 *(21st June.)*
 
 <span class="small-caps">We</span> will [punctually] attend, Sir, to your appointment for to-morrow morning. Do you come also, Sir, accompanied by your confidential [friends] ; when we will proceed together to the Presence.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Nothing further is recorded in the correspondence respecting this negotiation, which was probably broken off about this time, by the appearance of the relieving army. With the exception of a slight notice in Letter CCCVIII, *Adoni* is not even mentioned in any of the succeeding dispatches, till we arrive at the period when, in consequence of the peace concluded with the Mahrattahs and the *Nizâm*, the *Sultan* announces to Kûtbûddeen Khân the revocation of the grant he had made to the latter of that district in *Jágeer*.
 
 * * *
 
-### Letter 303: Bûrhânûddeen
+### Letter 304: Bûrhânûddeen
 
-### LETTER CCCV.
+#### LETTER CCCV.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated* 17*th* <span class="small-caps">Jaafury</span>. (20*th June*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span> ; *dated* 17*th* <span class="small-caps">Jaafury</span>. (20*th June*.)
 
 <span class="small-caps">On</span> the subject of his chastising the enemy, and desiring him to keep moving round them at the distance of ten or twelve *coss*. Directing him, also, to procure supplies of grain from *Nugr* and to distribute the same among his troops.
 
 * * *
 
-### Letter 304: Zynûl Aabideen / Mahommed Huleem / Meerân Hûsain / Husâin Khânpoony / Rujub Ali Baig / Shaikh Imâm / Imâm Khân / Ahmed Baig / Ghûlâm Mohyûddeen / Shaikh Omar
+### Letter 305: Zynûl Aabideen / Mahommed Huleem / Meerân Hûsain / Husâin Khânpoony / Rujub Ali Baig / Shaikh Imâm / Imâm Khân / Ahmed Baig / Ghûlâm Mohyûddeen / Shaikh Omar
 
-### LETTER CCCVI.
+#### LETTER CCCVI.
 
-### <span class="small-caps">Circular</span>, *dated* 18*th* <span class="small-caps">Jaafury</span> (21*st June*), *to the following* <span class="small-caps">Sipahdárs</span>.
+#### <span class="small-caps">Circular</span>, *dated* 18*th* <span class="small-caps">Jaafury</span> (21*st June*), *to the following*<br /><span class="small-caps">Sipahdárs</span>.
 
 - <span class="small-caps">Zynûl Aabideen</span>,  
   <span class="small-caps">Mahommed Huleem</span>,  
@@ -6105,17 +6114,17 @@ Nothing further is recorded in the correspondence respecting this negotiation, w
   <span class="small-caps">Shaikh Omar</span>.
 <span class="small-caps">You</span> are to retain with your *Kushoons* such young and active women, only, of those belonging to it, as may be capable of keeping pace with the victorious army in its [approaching] marches. The rest, who may be aged and infirm, are, with the other heavy baggage, to be sent off to *Fyze Hisár* [*Gooty*]. In addition to your constant [or usual] stock of provisions, you must supply yourself with a sufficient quantity [to be kept in reserve] for the consumption of ten days. What more?
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It is probable, that the *Sultan* was now preparing to make some movement against the allied force, of the approach of which to the relief of *Adoni* he may be presumed to have received intelligence about this time. The foregoing circular is followed in the manuscript by a short note to Moaayenûddeen, desiring him to hasten to the Presence, as soon as he had finished his repast.
 
 * * *
 
-### Letter 305: Budrûz Zumân Khân
+### Letter 306: Budrûz Zumân Khân
 
-### LETTER CCCVII.
+#### LETTER CCCVII.
 
-### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *dated* 21*st* *<span class="small-caps">Jaafury</span>*. (24*th June*.)
+#### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *dated* 21*st* *<span class="small-caps">Jaafury</span>*. (24*th June*.)
 
 <span class="small-caps">According</span> to your *Hûkm-nâmeh* [or written instructions], your army should consist of ten thousand men, including *Jyshe*, horse, and *Piádehs*. Call the detached troops, or out posts, together; and do you, for the present, proceed and join Bûrhânûddeen with your army, and co-operate with him in the chastisement of the enemy.
 
@@ -6123,11 +6132,11 @@ Your appointment of Mudâra Baig to the *Kilaadáry* of *Anundpoor* is approved.
 
 * * *
 
-### Letter 306: Bûrhânûddeen
+### Letter 307: Bûrhânûddeen
 
-### LETTER CCCVIII.
+#### LETTER CCCVIII.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *same Date*. (24*th June*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *same Date*. (24*th June*.)
 
 Two letters from you have passed under our view, and the particulars set forth in them are distinctly manifested.
 
@@ -6143,17 +6152,17 @@ Of the *Coolies* attached to you, keep as many [only] as you may [absolutely] re
 
 You write, “ that you have it in contemplation to make a night attack “ upon the enemy.” It is revealed. Where [or when] will you have an opportunity of making a night attack? You should, however, keep moving round the enemy, at the distance of three or four *coss*,[^fn-p0400-3] in order that, if a favourable occasion should present itself, you may [fall upon and] chastise them.
 
-### OBSERVATIONS.
+###### OBSERVATIONS.
 
 The foregoing letter appears twice in the collection, but in different places, and with some variations. I have followed the entry which seemed to me the most perfect of the two. In the copy, however, which I suppose to have been cancelled, the following material paragraph occurs :
 
 > “ What you write of the *backwardness* of the cavalry is understood. You “ must give orders to their *Bukhshy* to exert himself, for the purpose of infusing “ into them a proper spirit, so that they may not, hereafter, act in a cowardly “ manner, at the [critical] moment of service.”
 
-### Letter 307: MAHOMMED ALI
+### Letter 308: MEER TÛRÂB ALI
 
-### LETTER CCCIX.
+#### LETTER CCCIX.
 
-### *To* <span class="small-caps">MEER TÛRÂB ALI</span> ; *dated* 22*d* *<span class="small-caps">SHAABÂN</span>*.[^fn-p0401-1] (28*th June*.)
+#### *To* <span class="small-caps">MEER TÛRÂB ALI</span> ; *dated* 22*d* *<span class="small-caps">SHAABÂN</span>*.[^fn-p0401-1] (28*th June*.)
 
 <span class="small-caps">THIS</span> is a letter from the *Sultan*, inviting the person addressed to repair to his court, where he promises him a favourable reception, and a provision suitable to his rank and qualifications. It would not appear to be an answer to any direct overture in writing from Tûrâb Ali, but to have resulted from some verbal communication made to the *Sultan* by a *Hindoo* agent, named Lâleh Wullub Doss.
 
@@ -6161,9 +6170,11 @@ I take this Meer Tûrâb Ali to be the same person who will hereafter be found m
 
 * * *
 
-### LETTER CCCX.
+### Letter 309: MAHOMMED ALI
 
-### *To the* *<span class="small-caps">SIPAHDÂR</span>*, <span class="small-caps">MAHOMMED ALI</span> ; *dated* 27*th* *<span class="small-caps">JAAFÛRY</span>*. (30*th June*.)
+#### LETTER CCCX.
+
+#### *To the* *<span class="small-caps">SIPAHDÂR</span>*, <span class="small-caps">MAHOMMED ALI</span> ; *dated* 27*th* *<span class="small-caps">JAAFÛRY</span>*. (30*th June*.)
 
 <span class="small-caps">YOU</span> write, “ that the *Dârogha* of the *Jinsy* attached to your *Kushoon* “ having, without your knowledge, sent the bullocks [belonging to your “ guns] to graze, the enemy’s people came. . . . . . . . .” [^fn-p0401-2] You must, after flogging the aforesaid *Dârogha*, discharge him [from our service].
 
@@ -6171,29 +6182,29 @@ With respect to the *Risâladâr*, Bubr Ali Baig, whom you represent to be very 
 
 * * *
 
-### Letter 308: BÛRHÂNÛDDEEN
+### Letter 310: BÛRHÂNÛDDEEN
 
-### LETTER CCCXI.
+#### LETTER CCCXI.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *same Date. (30th June.)*
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *same Date. (30th June.)*
 
 <span class="small-caps">YOU</span> write, “ that some of[^fn-p0402-1] the *Kilaadárs* and *Ryots* of the [adjacent] *Taalúks* [or districts], having thrown off their allegiance[^fn-p0402-2] to us, convey intelligence to the enemy, and, moreover, supply the latter with provisions.” It is known. You must seize upon the [offenders], punish them,[^fn-p0402-3] and hang them upon trees, as examples to others.
 
 * * *
 
-### Letter 309: ZYNÛL AABIDEEN
+### Letter 311: ZYNÛL AABIDEEN
 
-### LETTER CCCXII.
+#### LETTER CCCXII.
 
-### *To* <span class="small-caps">ZYNÛL AABIDEEN</span>; *<span class="small-caps">BUKHSHY</span> of <span class="small-caps">EHSHÁM</span> at <span class="small-caps">FURRÛKH-YAB HISÁR</span>, (<span class="small-caps">CHITTLEDOORG</span>); same Date. (30th June.)*
+#### *To* <span class="small-caps">ZYNÛL AABIDEEN</span>; *<span class="small-caps">BUKHSHY</span> of <span class="small-caps">EHSHÁM</span> at <span class="small-caps">FURRÛKH-YAB HISÁR</span>, (<span class="small-caps">CHITTLEDOORG</span>); same Date. (30th June.)*
 
 <span class="small-caps">YOUR</span> letter, enclosing one [to your[^fn-p0402-4] address] from the *Kilaadár* of *Kopul*, has been received. You state, “ that you had [some time before] “ before] written to us, on the subject of providing for the security of the “ fort of *Kopul*, and of dispatching [thither] a thousand or five hundred “ trusty men [to reinforce the garrison], but that no answer had [yet] been “ sent by us to your letter.” It is known. Some time has elasped since we gave orders for the dispatch of the trusty men [in question], and also replied to your letters.[^fn-p0403-1] We will now, however, send people [or a reinforcement] to the aforesaid fort [directly] from the Presence.
 
 * * *
 
-### Letter 310: BÛRHÂNÛDDEEN
+### Letter 312: BÛRHÂNÛDDEEN
 
-### LETTER CCCXIII.
+#### LETTER CCCXIII.
 
 *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated 2d DÁRÁEY.* (5*th July.*)
 
@@ -6205,15 +6216,15 @@ Agreeably to your desire, we have written [and enclosed] orders to the *Taalûkd
 
 * * *
 
-### Letter 311: RÂJÂH RÂM CHUNDUR
+### Letter 313: RÂJÂH RÂM CHUNDUR
 
-### LETTER CCCXIV.
+#### LETTER CCCXIV.
 
-### *To* <span class="small-caps">RÂJÂH RÂM CHUNDUR</span>; *dated 4th DÂRÂEY*. (*7th July.*)
+#### *To* <span class="small-caps">RÂJÂH RÂM CHUNDUR</span>; *dated 4th DÂRÂEY*. (*7th July.*)
 
 You have represented to us, “ that Syed Peer, the *Kilaadâr* of that “ place [*Bangalore*], requires a separate order from us to himself [as a “ warrant], for his dispatching to the Presence the cannon-shot [for “ which we lately wrote to you].” It is known. Cannon-shot are not now wanted: they must, therefore, not be sent.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 As Syed Peer was not reproved for declining to obey an order not addressed to himself, it may be concluded, that he was justified in what he did by the regulations of his department; and, consequently, that the *Sultan* had issued his orders in an informal manner.
 
@@ -6221,37 +6232,37 @@ It moreover may be inferred from the foregoing letter, that the *Sultan's* opera
 
 * * *
 
-### Letter 312: RUNMUST KHÂN
+### Letter 314: RUNMUST KHÂN
 
-### LETTER CCCXV.
+#### LETTER CCCXV.
 
-### *To* <span class="small-caps">RUNMUST KHÂN</span>, *<span class="small-caps">FOUJDÂR</span>*[^fn-p0404-1] *of* <span class="small-caps">KURNOOL</span>; *same Date*. (*7th July.*)
+#### *To* <span class="small-caps">RUNMUST KHÂN</span>, *<span class="small-caps">FOUJDÂR</span>*[^fn-p0404-1] *of* <span class="small-caps">KURNOOL</span>; *same Date*. (*7th July.*)
 
 [<span class="small-caps">AFTER</span> compliments]............ A long period has elasped, during which you have not delighted or gladdened me with the joyful tidings of your health and happiness. This neglect is very distant from the established rules of friendship, since friendship renders it incumbent [on you] to afford me regularly the satisfaction of receiving letters [from you], containing accounts of your welfare.
 
 The victorious army being arrived in these parts,[^fn-p0405-1] it is fitting that that friend should afford me the pleasure of an interview [with him], in order that the foundations of mutual regard and amity may be strengthened, and that various points, which can only be properly discharged in a personal intercourse,[^fn-p0405-2] may be finally adjusted [between us].
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 I am unable to say, whether the interview, here proposed by the *Sultan*, took place or not. It is probable, that Runmust Khân would endeavour to evade it, if for no other reason than because he could not consent to such a meeting, without rendering himself obnoxious to the suspicions and displeasure of the *Nizám*, whose feudatory he was.
 
 It must not be concluded, from the circumstance of the *Patan* chieftain being designated *Foujdár* in the title of the foregoing letter, that he was actually addressed by this disparaging appellation. Such an affront could not be reconciled with the general style of the letter, which is not deficient in courtesy. It is very possible, however, that the *Sultan* might have been in the habit of speaking of him, to his secretaries and others, as the *Foujdár* of *Kurnool*, and that term, like that of *Sánoor Wáleh*, might, in this manner, have come to be adopted by the transcribers, or registers, of the correspondence.
 
-### Letter 313: Râjah Râm Chundur
+### Letter 315: Râjah Râm Chundur
 
-### LETTER CCCXVI.
+#### LETTER CCCXVI.
 
-### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated 6th Dârâey.* (*9th July.*)
+#### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated 6th Dârâey.* (*9th July.*)
 
 <span class="small-caps">Directing</span> him to issue the pay of the men raised by Syed Peer, the *Kilaadâr* [*of Bangalore*], according to the return transmitted; with an intimation, that if the aforesaid *Kilaadâr* should entertain any infirm, useless, or old men, he would be compelled to refund the advances made to them. Ordering, moreover, a receipt to be demanded of the above-named *Kilaadâr*, for all articles delivered to him; and signifying, in short, that Râm Chundur was not to supply him with any thing, without taking his receipt for the same.[^fn-p0406-1]
 
 * * *
 
-### Letter 314: Khâjeh Ibûd Khân / Khâjeh Uzeemûllah Khân / Mahommed Kûli Khân / Ishmâel Baig Humdâny / Ishmâel Baig Isfahâny
+### Letter 316: Khâjeh Ibûd Khân / Khâjeh Uzeemûllah Khân / Mahommed Kûli Khân / Ishmâel Baig Humdâny / Ishmâel Baig Isfahâny
 
-### LETTER CCCXVII.
+#### LETTER CCCXVII.
 
-### <span class="small-caps">Circular</span>, *same Date*, (*9th July*), *to*
+#### <span class="small-caps">Circular</span>, *same Date*, (*9th July*), *to*
 
 <span class="small-caps">Khâjeh Ibûd Khân,</span>  
 <span class="small-caps">Khâjeh Uzeemûllah Khân,</span>
@@ -6263,47 +6274,47 @@ It must not be concluded, from the circumstance of the *Patan* chieftain being d
 
 <span class="small-caps">Inviting</span> them to repair, with collected minds [*i. e.* with confidence], to the Presence, and to bring with them as many horsemen as possible: promising that the whole shall be provided for, according to their merits and to the regulations of the *Sircar*.
 
-### Letter 315: Meer Mahommed Sâdik
+### Letter 317: Meer Mahommed Sâdik
 
-### LETTER CCCXVIII.
+#### LETTER CCCXVIII.
 
-### *To* <span class="small-caps">Meer Mahommed Sâdik</span>, *<span class="small-caps">Dewán</span> of the <span class="small-caps">Húzoor</span>*[^fn-p0407-1] *(or Presence); same Date.* (9th July.)
+#### *To* <span class="small-caps">Meer Mahommed Sâdik</span>, *<span class="small-caps">Dewán</span> of the <span class="small-caps">Húzoor</span>*[^fn-p0407-1] *(or Presence); same Date.* (9th July.)
 
 <span class="small-caps">Directing</span> him to ascertain and trace the goods and furniture[^fn-p0407-2] in the possession of the inhabitants of that place [meaning *Seringapatam*] and to make a report of the same.
 
 * * *
 
-### OBSERVATIONS.
+###### OBSERVATIONS.
 
 The phrase سُراغ بهم رسانيدن which I have rendered “*to trace*,” is usually applied to the recovery of things *concealed* : the order, therefore, implies, that a strict search, or examination, was to be made. What the *Sultan’s* object, in this inquisition, was, does not appear ; but it was most probably directed with a view to some contribution, which he might have had in contemplation to levy on his subjects, in aid of his finances. There is no authority, however, that I know of, for supposing that any such contribution was actually levied at this period.
 
 * * *
 
-### Letter 316: Bûrhânûddeen
+### Letter 318: Bûrhânûddeen
 
-### LETTER CCCXIX.
+#### LETTER CCCXIX.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 9th *<span class="small-caps">Dáráey</span>*. (12th July.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 9th *<span class="small-caps">Dáráey</span>*. (12th July.)
 
 <span class="small-caps">Directing</span> him to station a *Risála* of the *Jyshe*, under Shaikh Boodhun (brother to Shaikh Unser), at *Dhárwár*; and to dispatch, with great care, to *Chittledoorg*, the *Daisye* and other hostages.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The *Daisye*, here mentioned, is, no doubt, the unfortunate chief of *Kittoor*, of whom the last notice was taken in Letter CLXX. Another dispatch, on the same subject, makes it rather uncertain, whether the *Daisye* himself was to be removed to *Chittledoorg*, or only such of his servants or dependants as were deprived of their liberty at the same time with him, and who are distinguished in the original by the term *Ool*, or hostages.
 
 * * *
 
-### Letter 317: SHUMSÛDDEEN KHÂN / GHÛLÂM HYDER
+### Letter 319: SHUMSÛDDEEN KHÂN / GHÛLÂM HYDER
 
-### LETTER CCCXX.
+#### LETTER CCCXX.
 
-### *To* <span class="small-caps">SHUMSÛDDEEN KHÂN</span> *and* <span class="small-caps">GHÛLÂM HYDER</span>, *DÁROGHAS of the TOSHEH-KHÁNEH*, (*at PUTN*) ; *dated* 14*th DÁRÁEY*. (17*th July*.)
+#### *To* <span class="small-caps">SHUMSÛDDEEN KHÂN</span> *and* <span class="small-caps">GHÛLÂM HYDER</span>, *DÁROGHAS of the TOSHEH-KHÁNEH*, (*at PUTN*) ; *dated* 14*th DÁRÁEY*. (17*th July*.)
 
 A <span class="small-caps">BOOK</span>, entitled *Fukhrû's Shûyookh* [or “ the glory of the *Shaikhs*”], has been dispatched to you by the post. Of this book you are to get forty copies correctly and plainly written by the transcribers there [*i. e.* at *Seringapatam*], leaving fifteen blank leaves at the beginning and end of each copy. Let this be expeditiously done,[^fn-p0408-1] and let the several copies be forwarded to us as they are finished, and an entry be made of the same in the register of your department.
 
 You must compare the books, which were sent to you [lately] by the post, with the catalogue forwarded [at the same time], and depositing them in our library, make an entry thereof in the register of the [proper] department. Of the books in question we have retained seven volumes.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The book here directed to be copied is mentioned in Major Stewart’s catalogue, at page 157 ; where it is stated to be a treatise on the duties of pious Musulmans. So many copies were doubtlessly ordered, with a view to the general dissemination of the doctrines inculcated in the work, which, of course, corresponded with the *Sultan’s* own intolerant and bigotted principles.
 
@@ -6311,11 +6322,11 @@ It is not improbable, that the books, mentioned in the last paragraph of the pre
 
 * * *
 
-### Letter 318: Runmust Khân
+### Letter 320: Runmust Khân
 
-### LETTER CCCXXI.
+#### LETTER CCCXXI.
 
-### *To* <span class="small-caps">Runmust Khân</span>, *Chief of* <span class="small-caps">Kurnool</span>; *dated* 12*th* <span class="small-caps">Rumuzân</span>, A. H. 1200. (*or 9th July* 1786.)
+#### *To* <span class="small-caps">Runmust Khân</span>, *Chief of* <span class="small-caps">Kurnool</span>; *dated* 12*th* <span class="small-caps">Rumuzân</span>,<br />A. H. 1200. (*or 9th July* 1786.)
 
 <span class="small-caps">Mentioning</span> the dismissal of Dhurum Doss, who would verbally communicate matters circumstantially; and recommending to him to continue to cultivate the union subsisting of old [between the two families or states], as this [line of conduct] would be productive of salutary ends.
 
@@ -6323,11 +6334,11 @@ N.B. This letter should properly have followed Letter CCCXVIII.
 
 * * *
 
-### Letter 319: Bûrhânûddeen
+### Letter 321: Bûrhânûddeen
 
-### LETTER CCCXXII.
+#### LETTER CCCXXII.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated from* <span class="small-caps">Kurgoor</span>, 14*th* <span class="small-caps">Dârâey</span>. (17*th July*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated from* <span class="small-caps">Kurgoor</span>, 14*th* <span class="small-caps">Dârâey</span>.<br />(17*th July*.)
 
 <span class="small-caps">On</span> the subjects of stationing the *Risála* of Shaikh Boodhun, according to former orders [see Letter CCCXIX] at *Dhárwár*; of sending for the *Aumil* of that place, Yenkut Rungia, and keeping him *carefully*[^fn-p0409-1] with himself; of appointing Sheer Khân, the *Umldár* of Kittoor, to the *Umldáry* of *Dhárwár*; and of dispatching Mahommed Ghous Khân to *Dhárwár*.
 
@@ -6337,11 +6348,11 @@ Informing him, finally, that the special retinue was arrived at *Kurgoor*; and d
 
 * * *
 
-### Letter 320: Mahommed Ali
+### Letter 322: Mahommed Ali
 
-### LETTER CCCXXIII.
+#### LETTER CCCXXIII.
 
-### *To the <span class="small-caps">Sipahdár</span>, <span class="small-caps">Mahommed Ali</span>; same Date. (17th July.)*
+#### *To the <span class="small-caps">Sipahdár</span>, <span class="small-caps">Mahommed Ali</span>; same Date. (17th July.)*
 
 Two *Urzies* [or humble addresses] have been received from you, wherein you mention “ that the *Dárogha* of the *Jinsy* of your *Kushoon* “ had, without your knowledge, sent [your] bullocks to graze ; that “ the enemy’s horse came and carried them off ; that you had, [in consequence] placed him [the *Dárogha*] under a guard ; and that “ Mahommed Kâzim, interceding for him with Bûrhânûddeen, had “ procured his release.”
 
@@ -6349,31 +6360,31 @@ We formerly wrote, and we now again write to say, that the above-mentioned *Dár
 
 Our most holy camp[^fn-p0411-1] is pitched on the banks of the *Tungbuddra*, and you may reckon on the special retinue speedily reflecting splendor on that quarter.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 If any orders were sent to Bûrhânûdden, respecting the *Dárogha* of Mahommed Ali's *Jinsy*, they do not appear. It is not improbable, however, that under the loose system, by which the military authorities were regulated in the *Sultan's* armies, the present directions to the *Sipahdár* were deemed sufficient for the occasion.
 
 * * *
 
-### Letter 321: Ghûlâm Hûsain Khân
+### Letter 323: Ghûlâm Hûsain Khân
 
-### LETTER CCCXXIV.
+#### LETTER CCCXXIV.
 
-### *To* <span class="small-caps">Ghûlâm Hûsain Khân</span>, *<span class="small-caps">Munshoor</span> of <span class="small-caps">Bangalore</span>; dated* 18*th* *<span class="small-caps">Dáráey</span>.* (21*st July*.)
+#### *To* <span class="small-caps">Ghûlâm Hûsain Khân</span>, *<span class="small-caps">Munshoor</span> of <span class="small-caps">Bangalore</span>; dated* 18*th*<br />*<span class="small-caps">Dáráey</span>.* (21*st July*.)
 
 <span class="small-caps">Directing</span> him to employ the *Kumáties*, or labourers, belonging to the fort, in erecting habitations for the *Ahmedies*; to attend, in due time, to the provisioning of the place; to write his *Urzies* [to the *Sultan*] conjointly with the *Kilaadár*; and to examine carefully into all affairs relating to the fort, as business was in progress, that made attention necessary in all things, great and small.[^fn-p0411-2]
 
 Ordering him, finally, to make his written instructions the rule of his conduct.
 
-### Letter 322: KÛTBÛL MÛLK
+### Letter 324: KÛTBÛL MÛLK
 
-### LETTER CCCXXV.
+#### LETTER CCCXXV.
 
-### *To* <span class="small-caps">KÛTBÛL MÛLK</span>; *same Date. (21st July.)*
+#### *To* <span class="small-caps">KÛTBÛL MÛLK</span>; *same Date. (21st July.)*
 
 D<span class="small-caps">irecting</span> him to circulate among the Musulman inhabitants of that place [meaning *Adoni*] the mandates containing the *arguments, explanations, and statements*;[^fn-p0412-1] and also to transmit [copies of] the same to *Hyderabad* and *Aurungabad*.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 There can be no doubt, that the documents referred to in this brief entry, or memorandum, under the designation of arguments, &c. are the circular letter and proclamation inserted at page 291, and which the *Sultan* appears to have been anxious to disseminate, wherever there was any chance of their procuring him partizans, or of inducing Musulman adventurers to repair to his standard. We shall, accordingly, presently see him transmitting the same persuasions to the extremities of *Hindostan*, in which quarter, however, his success was not likely to keep pace with his wishes, (whatever might be the case in the dominions of his immediate neighbours); inasmuch as the contest for power between Mâdhâjee Saindeah and the Moghul chieftains of *Hindostan* had not yet terminated; and because, while that contest continued, the inducements to the Musulmans to migrate from thence were not so strong as they subsequently became, upon the complete establishment of the Mahrattah authority throughout the provinces lying between the *Chumbul* and the *Ganges*. But even in this last conjuncture, when there did not any longer exist, to the northward of the *Toombuddra*, a single Mahommedan leader, capable of affording employment to the scattered bands of Moghuls and Patans, who were now left without a master, the *Sultan* would not appear to have obtained any material accession of strength from the side of *Hindostan*: the chief reason of which, most probably, was, that there was no access to *Mysore*, excepting by countries in the possession of his enemies, or of states jealous of his power, who were not likely to have permitted any bodies of armed men to pass through their territories, for the purpose of reinforcing his armies. If, therefore, he received, at the period alluded to, any recruits at all from this quarter, it could only be such straggling individuals as might, from their insignificance, be enabled to proceed unnoticed.
 
@@ -6391,11 +6402,11 @@ It is possible, that the different persons here mentioned, including Kûtbûl M�
 
 It remains to be considered, what could be the reason of the *Sultan’s* abstaining, during a reign of sixteen years, from assuming a privilege, so freely exercised by the *Soubah* of the *Decan* and other upstart rulers, and generally deemed an essential appendage of sovereignty. It could not be, that he entertained any doubts of his right to bestow titles of honour; since there are abundant proofs that he was never under the influence of any scruple respecting the authority of the imperial court, none of whose nominal vassals showed so little deference to it as he did. His conduct, therefore, in the instance under examination, is, perhaps, to be referred solely to that jealousy or mistrust, which formed a prominent feature of his character. He was, probably, afraid of making his servants too great; and might think the splendor of a titled retinue, more calculated to eclipse, than to exalt his own personal importance. Titles of honour might breed in those, on whom they were conferred, ambitious wishes and views, which would not otherwise be excited: they would also give the possessors of them too much consequence with the people, and thus might prove a source of various evils, more or less dangerous to his authority. The history of the rise of his own father’s power would tend to confirm the prudence of this reasoning: which in a mind, naturally prone to suspicion, as that of the *Sultan* was, may easily be conceived to have led to the conclusion, that “his security would be best promoted by the political insignificance of his agents.”
 
-### Letter 323: MAHMOOD ALI KHÂN
+### Letter 325: MAHMOOD ALI KHÂN
 
-### LETTER CCCXXVI
+#### LETTER CCCXXVI
 
-### *To* <span class="small-caps">MAHMOOD ALI KHÂN</span>; *dated 20th D**<span class="small-caps">ÁRÂEY</span>*. *(23d July.)*
+#### *To* <span class="small-caps">MAHMOOD ALI KHÂN</span>; *dated 20th D**<span class="small-caps">ÁRÂEY</span>*. *(23d July.)*
 
 (<span class="small-caps">EXTRACT.</span>)
 
@@ -6403,7 +6414,7 @@ It remains to be considered, what could be the reason of the *Sultan’s* abstai
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 I believe the ship, here mentioned, was one fitting out at *Calicut* for a voyage to *Pegu*.
 
@@ -6411,61 +6422,61 @@ I am not clear that I have rightly understood every word of the foregoing extrac
 
 Though there are some remarkable instances upon record of the great durability of *teek-built* ships, of which kind those constructed in Tippoo’s dock yards, no doubt, were; yet the *Sultan* is not to be understood as literally meaning, in this place, that he expected the ship in question to last one or two thousand years. It is a figurative mode of expression, denoting that the vessel was to be constructed in the strongest manner possible, and resembles the metaphor employed in Letter XCVIII, to Râjah Râm Chundur.
 
-### Letter 324: Bûrhânûddeen
+### Letter 326: Bûrhânûddeen
 
-### LETTER CCCXXVII.
+#### LETTER CCCXXVII.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 23*d Dáráey*. (26*th July*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated* 23*d Dáráey*. (26*th July*.)
 
 <span class="small-caps">You</span> must, after some days, when the road shall have become safe [or the communication is opened], dispatch the *Risála* of Shaikh Boodhun, which is one that may be depended on,[^fn-p0417-1] to *Dhárwár*, and send for the *Risála* of Shaikh Humeed [to supply its place]. The *Kilaadár* of *Dhárwár* is, at the same time, to be directed to dispatch to you, under charge of the said *Risála*, Yenkut Rungia,[^fn-p0417-2] of whom you must take good care. You must also be mindful to encamp with your army in a good situation, where little rain falls [or lays]. The special retinue will speedily arrive in that quarter from *Kurk-náth*.
 
 * * *
 
-### Letter 325: Kûtbûl Mûlk Kûtbûddeen Ali Khân Behâdûr
+### Letter 327: Kûtbûl Mûlk Kûtbûddeen Ali Khân Behâdûr
 
-### LETTER CCCXXVIII.
+#### LETTER CCCXXVIII.
 
-### *To* <span class="small-caps">Kûtbûl Mûlk Kûtbûddeen Ali Khân Behâdûr</span>; *dated* 25*th Dáráey*.[^fn-p0417-3] (28*th July*.)
+#### *To* <span class="small-caps">Kûtbûl Mûlk Kûtbûddeen Ali Khân Behâdûr</span>; *dated* 25*th Dáráey*.[^fn-p0417-3] (28*th July*.)
 
 <span class="small-caps">There</span> is a little business [going on] in our high *Sircar*.[^fn-p0417-4] Dispatch to the Presence, for a short time,[^fn-p0417-5] a seal-engraver.
 
-### OBSERVATIONS.
+###### OBSERVATIONS.
 
 Although there is an air of mystery in this short note, it might possibly only mean, that the *Sultan* had occasion to employ a seal-engraver, and therefore desired one to be sent him from *Adoni*, where, perhaps, this branch of business might be better understood than at *Seringapatam*. Thus, about thirty years ago, every one on the northern side of *India*, who was desirous of having his name or titles engraved in a superior manner, employed, for this purpose, an eminent seal-engraver of *Fyzabad*, in the province of *Oude*, named Mahommed Sâleh, whose exquisite execution of the most beautiful *Nustalikh* character on the hardest stones, was certainly unrivalled, excepting by his own son, who succeeded him in his occupation. The charge for engraving depended on the stone employed. If that was a cornelian, the price was a *rupee* a letter; but if an emerald, or other stone equally hard, it amounted, I think, to six *rupees* a letter.
 
 * * *
 
-### Letter 326: Meer Moaayenûddeen
+### Letter 328: Meer Moaayenûddeen
 
-### LETTER CCCXXIX.
+#### LETTER CCCXXIX.
 
-### *To* <span class="small-caps">Meer Moaayenûddeen</span>; *dated* 26*th Dáráey*. (29*th July*.)
+#### *To* <span class="small-caps">Meer Moaayenûddeen</span>; *dated* 26*th Dáráey*. (29*th July*.)
 
 <span class="small-caps">To-morrow</span> you will halt at this place,[^fn-p0418-1] and distribute the pay [of your people], &c. The day after to-morrow you will march, and encamp at some place affording [plenty of] water and grass; and, on the following day, you must proceed, with the forces under your command, to *Huss Paith*.[^fn-p0418-2]
 
 * * *
 
-### Letter 327: Runmust Khân
+### Letter 329: Runmust Khân
 
-### LETTER CCCXXX.
+#### LETTER CCCXXX.
 
-### *To* <span class="small-caps">Runmust Khân</span>;[^fn-p0418-3] *dated* 16*th Rumuzán*, *A. H.* 1200. (13*th July* 1786.)
+#### *To* <span class="small-caps">Runmust Khân</span>;[^fn-p0418-3] *dated* 16*th Rumuzán*, *A. H.* 1200.<br />(13*th July* 1786.)
 
 <span class="small-caps">We</span> have, at this time, assigned the *Foujdáry*[^fn-p0418-4] of *Adoni* to the charge of Kûtbûddeen Khân. The aforesaid Khân, in conformity with the orders of the Presence, will keep one or two respectable persons established at *Kumr-nugr*,[^fn-p0419-1] for the purpose of collecting together [or recruiting] horsemen, &c. Let that kind friend [therefore] enjoin his principal officers[^fn-p0419-2] to be assisting to the persons deputed by the aforesaid Khân, in order that no one may obstruct this business. What more ?
 
 * * *
 
-### Letter 328: Kûtbûddeen Khân
+### Letter 330: Kûtbûddeen Khân
 
-### LETTER CCCXXXI.
+#### LETTER CCCXXXI.
 
-### *To* <span class="small-caps">Kûtbûddeen Khân</span>; *dated* 29*th Dârâey*. (1*st August*.)
+#### *To* <span class="small-caps">Kûtbûddeen Khân</span>; *dated* 29*th Dârâey*. (1*st August*.)
 
 <span class="small-caps">What</span> you have written, on the subject of the *Khútbah*[^fn-p0419-3] being read in our special name,[^fn-p0419-4] is understood. The case is this.[^fn-p0419-5] The first thing in the *Khútbah* is the praise of God; the next, the praise of the Prophet (on whom be the blessing and peace of God); and after this [should follow] the name of such prince[^fn-p0419-6] of the faith, as, being a [true] protector of the Mahommedan religion, keeps in view, on all occasions [*i. e.* in every respect], the honour and interest[^fn-p0419-7] of *Islám*, and exerts himself for its increase and diffusion.[^fn-p0419-8] To introduce the names of such, and to offer up prayers for them in the *Khútbah*, is among the [most] indispensable sable duties.[^fn-p0420-1] As to those ideots, who at this time introduce the name of Shâh Allum into the *Khútbah*, they act through ignorance; since the real condition of the *above-mentioned*[^fn-p0420-2] is this: he is actually enslaved, and a mere cypher; being the servant of Saindeah, at the monthly wages of fifteen thousand *rupees*. Such being the case, to pronounce the name of a dependent of infidels, in reciting the *Khútbah*, is a manifest sin, and repugnant to the laws [usages] of the Muselmâny faith. For these reasons it is written, that the *Khuteeb*[^fn-p0420-3] of that place [*Adoni*] must be directed to introduce our name constantly in the *Khútbah*.
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Whether or not the *Sultan* had, prior to the date of this letter, caused his own name to be substituted in the *Khútbah* for that of Shah Allum, I have no means of clearly ascertaining: but it may, I think, be inferred, from the general tenor of the present document, that this was the first occasion on which he thought proper to adopt that practice; since, if it had been already established by him, he would hardly have deemed it *now* necessary to justify and explain it, as he has here formally endeavoured to do.
 
@@ -6473,25 +6484,25 @@ This letter, if contrasted with Letter CCCXXXIV, written nearly at the same time
 
 * * *
 
-### Letter 329: Budrûz Zumân Khân
+### Letter 331: Budrûz Zumân Khân
 
-### LETTER CCCXXXII.
+#### LETTER CCCXXXII.
 
-### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *same Date.* (*1st August.*)
+#### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *same Date.* (*1st August.*)
 
 <span class="small-caps">Our</span> special retinue will soon cross the river at *Gung Kurknáth*, and arrive in that quarter. It is now the rainy season. Taking all your army with you, apply yourself to the chastisement of the rebels of *Soopeh*, &c. The superintendant of the post at *Suddasheoo-ghurr* and *Soandeh* will be shortly removed, and another be sent in his place.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Although it appears, by Letters CCCVII and CCCVIII, that Budrûz Zumân Khân was directed to join Burhânûddeen, there is reason to think, that this order was subsequently revoked; since, besides the different destination here assigned him, it is pretty certain, that he was not present at the general action which took place between the Mahrattahs and Tippoo near *Shânoor*, the beginning of the following December.
 
 * * *
 
-### Letter 330: Moal Chund / Soojân Râe
+### Letter 332: Moal Chund / Soojân Râe
 
-### LETTER CCCXXXIII.
+#### LETTER CCCXXXIII.
 
-### *To* <span class="small-caps">Moal Chund</span> *and* <span class="small-caps">Soojân Râe</span>, *(Agents at <span class="small-caps">Dehli</span>); dated* 1*st* *<span class="small-caps">Hâshimy</span>*. (2*d August*.)
+#### *To* <span class="small-caps">Moal Chund</span> *and* <span class="small-caps">Soojân Râe</span>, *(Agents at <span class="small-caps">Dehli</span>); dated*<br />1*st* *<span class="small-caps">Hâshimy</span>*. (2*d August*.)
 
 Two letters, accompanied by your accounts, and dispatched in charge of Hoomajee, Tolârâm, and other *Hurkârehs*, have passed under our view, and the particulars therein set forth are comprehended.
 
@@ -6519,7 +6530,7 @@ To Budl Baig Khân and Kâsim Khân, silvered paper and *Kumkháb* bag.
 
 To the rest, *Kumkháb* bags ; but paper not specified.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It is evident, from the foregoing letter, that the *Nuzr* formerly sent by the *Sultan* to Shâh Allum (see Letter LXXI) had been objected to, because the inscription on the coin, of which it was composed, did not contain the Emperor's name, which, it seems, was inserted in the gold *mohrs*, *now* transmitted. The words, in which the *Sultan's* apology for the disrespect alluded to is conveyed, imply that the second *Nuzr* (or that forwarded with the present dispatch) consisted of the *new coinage*, with the addition of the Emperor's name : but if this was actually the case, there is reason to believe that the die was formed expressly for this occasion, and that no more gold *mohrs* were struck from it, than were required for presentation to his Imperial Majesty.
 
@@ -6531,11 +6542,11 @@ The great distance, joined to the difficulties of communication (arising from th
 
 Mahommed Baig Humdâny had been one of the principal commanders under the celebrated Nujuf Khân; after whose death he obtained, amidst the distractions which followed that event, still greater consideration and authority. He opposed, for some time, a firm resistance to the encroachments of Saindeah in the *Dehli* quarter; but at length fell, in one of the battles which took place between the Moghul and Mahrattah powers. Budl Baig Khân, Kâsim Khân, and Siddeek Baig Khân, were likewise leaders who had risen to distinction, while Nujuf Khân exercised the chief military authority under the court of *Dehli*.
 
-### Letter 331: Mahommed Baig Khân Humdâny
+### Letter 333: Mahommed Baig Khân Humdâny
 
-### LETTER CCCXXXIV.
+#### LETTER CCCXXXIV.
 
-### *To* <span class="small-caps">Mahommed Baig Khân Humdâny</span> ; *same Date.* (*2d August.*)
+#### *To* <span class="small-caps">Mahommed Baig Khân Humdâny</span> ; *same Date.* (*2d August.*)
 
 <span class="small-caps">Notwithstanding</span> that, owing to various causes, it has so happened, that no epistolary correspondence has hitherto taken place between us, yet having, at this time, heard from the lips[^fn-p0427-1] of Bâl Mukn Doss, of your highness’s[^fn-p0427-2] laudable qualities, and [particularly] of your courteousness, eminent courage, and political knowledge; my friendly mind[^fn-p0427-3] has derived therefrom the highest satisfaction and most abundant delight. Hence, agreeably to [the saying], “ that all true believers are “ brethren,” the fervor of religious affection[^fn-p0427-4] has moved me [to the present attempt] to form an intimate and amicable connexion [with you].
 
@@ -6545,21 +6556,21 @@ In token of my cordial regard [for you], I have written to Moal Chund and Soojâ
 
 * * *
 
-### Letter 332: Zynûl Aabideen
+### Letter 334: Zynûl Aabideen
 
-### LETTER CCCXXXV.
+#### LETTER CCCXXXV.
 
-### *To <span class="small-caps">Zynûl Aabideen</span>, <span class="small-caps">Bukhshy</span> of <span class="small-caps">Ehshám</span> at <span class="small-caps">Furrúkh-yáb Hisár</span> (<span class="small-caps">Chittledoorg</span>); dated 4th <span class="small-caps">Háshimy</span>.* (5*th August.*)
+#### *To <span class="small-caps">Zynûl Aabideen</span>, <span class="small-caps">Bukhshy</span> of <span class="small-caps">Ehshám</span> at <span class="small-caps">Furrúkh-yáb Hisár</span> (<span class="small-caps">Chittledoorg</span>); dated 4th <span class="small-caps">Háshimy</span>.* (5*th August.*)
 
 <span class="small-caps">We</span> have received your letter, representing, “ that if of the two “ *Dufturs*,[^fn-p0428-3] attached to the *Ehshám Kuchurry*, one be transferred to “ the *Dewán Kuchurry*, the consequence must be, that while the accounts of the latter department cannot be completely and properly “ kept [with such incompetent assistance], neither can the business of “ the former be rightly managed [by the remaining one].” It is known. Whatever is written in your *Húkm-námeh* [or instructions], do you act conformably thereto. Too much self-conceit is needless.[^fn-p0429-1]
 
 * * *
 
-### Letter 333: RÁJAH of the FRENCH
+### Letter 335: RÁJAH of the FRENCH
 
-### LETTER CCCXXXVI.
+#### LETTER CCCXXXVI.
 
-### *To the RÁJAH of the FRENCH; dated 5th HÁSHIMY. (6th August.)*
+#### *To the RÁJAH of the FRENCH; dated 5th HÁSHIMY. (6th August.)*
 
 <span class="small-caps">Noble-minded</span> and elevated in rank,[^fn-p0429-2] of powerful and exalted degree,[^fn-p0429-3] chief[^fn-p0429-4] of the sovereigns of the realms of Europe, and eminent among rulers, the peace of Almighty God be with you!
 
@@ -6577,7 +6588,7 @@ Ghûlâm Ali Khân, and the other *Sirdars*, will arrive [at your court] in due 
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Exclusively of the gross impropriety of designating the King of France by the title of *Rájah* (on which I have already had occasion to animadvert) it may be observed of the present letter, that it is extremely deficient in the forms of respect and complimentary phraseology, invariably observed in the correspondence between Eastern princes. Of the justice of this remark, the Oriental reader will be sufficiently satisfied by its general style and contexture, as preserved in the translation, which I have made as literal as I could. The expression of “ ان مهربان ” that “ friend,” is, in particular, extremely exceptionable in an address to a crowned head, as being too familiar and common. Neither is the “ *Ulkáb*,” or address, free from objection, since the phrases of “ شهامت مرتبت ” of noble rank,” “ بسالت منزلت ” “ of powerful degree,” &c. are very usually applied, not only to dependent or subordinate chieftains and rulers, but even to distinguished servants of a certain class. Thus Tippoo himself occasionally addresses one of his *Sirdars* by the style of “ حشمت مرتبت ” “ of pompous or magnificent degree;” another, by that of “ بسالت منزلت ” “ of powerful degree,” &c.
 
@@ -6603,11 +6614,11 @@ This letter, it will be observed, places, beyond all doubt, the fact of the oste
 
 * * *
 
-### Letter 334: Monsieur Cossigny
+### Letter 336: Monsieur Cossigny
 
-### LETTER CCCXXXVII.
+#### LETTER CCCXXXVII.
 
-### *To* <span class="small-caps">Monsieur Cossigny</span>, *Governor of Pondicherry ; dated* *14th HÁSHIMY.*[^fn-p0436-1]  *(15th August.)*
+#### *To* <span class="small-caps">Monsieur Cossigny</span>, *Governor of Pondicherry ; dated*<br />*14th HÁSHIMY.*[^fn-p0436-1]  *(15th August.)*
 
 <span class="small-caps">We</span> have received the letter you sent us by Pierre Monneron, requesting that we would cause an account to be drawn up, and delivered to him, of the advances made by us, whether of money or general supplies,[^fn-p0436-2] to Monsieur du Chemin, Monsieur Suffrein, and Monsieur Bussy, in order that you might, in pursuance of your *Rájah’s* commands, discharge the amount.
 
@@ -6623,41 +6634,41 @@ Certain secret particulars, of a nature conducive to the interests of the French
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Of Pierre Monneron, I am unable to give any other account, than that he was a French merchant, employed either by the Governor of the *Isle of France*, or by the Governor of *Pondicherry*, in the transactions which took place, about this time, between Tippoo and the French nation. He appears, on the present occasion, to have had a personal interview with the *Sultan*.
 
 Notwithstanding the proposed embassy by sea is thus early announced, it did not actually proceed from *Pondicherry*, according to Major Stewart, till the month of July in the following year (1787); that is to say, about eleven months after the date of the present letter.
 
-### Letter 335: Dâroghas of the Jinsy
+### Letter 337: Dâroghas of the Jinsy
 
-### LETTER CCCXXXVIII.
+#### LETTER CCCXXXVIII.
 
-### *To the Dâroghas of the Jinsy* (probably <span class="small-caps">Shumsûddeen Khân</span> and <span class="small-caps">Ghûlâm Hyder</span>); *dated from Hemsâgur,*[^fn-p0439-1] *6th Hâshimy. (7th August.)*
+#### *To the Dâroghas of the Jinsy* (probably <span class="small-caps">Shumsûddeen Khân</span> and <span class="small-caps">Ghûlâm Hyder</span>); *dated from Hemsâgur,*[^fn-p0439-1] *6th Hâshimy. (7th August.)*
 
 Directing them to dispatch ten copies of the *Múfurrihûlkûloob*. Five of them containing the work at large,[^fn-p0439-2] and to have silver locks [or hasps]: the other five to be abridgements,[^fn-p0439-3] without silver locks [or hasps].[^fn-p0439-4]
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 The book here mentioned is, according to Major Stewart (Catalogue of Tippoo Sultan’s library) a collection of fables, in imitation of *Pilpay’s*. It may be inferred, from the *Sultan’s* sending for so many copies of this book, that they were designed as presents. If I understand the original rightly, there must be two editions of the work in question: one containing the fables at large, or complete; the other an abridgement.
 
-### Letter 336: BÛRHÂNÛDDEEN
+### Letter 338: BÛRHÂNÛDDEEN
 
-### LETTER CCCXXXIX.
+#### LETTER CCCXXXIX.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated* 10*th* <span class="small-caps">HÁSHIMY</span>. (11*th August*.)
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated* 10*th* <span class="small-caps">HÁSHIMY</span>. (11*th August*.)
 
 <span class="small-caps">OUR</span> special retinue is arrived at[^fn-p0440-1] *Kurknáth*, and we shall presently[^fn-p0440-2] cross the *Tungbuddra*. Send some men to procure intelligence[^fn-p0440-3] of the enemy’s army ; and communicate, occasionally, to the Presence, such accounts as you may receive.
 
-### Letter 337: SHÂH ABDÛLLAH SÂHEB
+### Letter 339: SHÂH ABDÛLLAH SÂHEB
 
 * * *
 
-### LETTER CCCXL.
+#### LETTER CCCXL.
 
-### *To* <span class="small-caps">SHÂH ABDÛLLAH SÂHEB</span> ; *same Date*. (11*th August*.)
+#### *To* <span class="small-caps">SHÂH ABDÛLLAH SÂHEB</span> ; *same Date*. (11*th August*.)
 
 <span class="small-caps">VERSED</span> in theology and in the sciences, the peace of Almighty God be with you !
 
@@ -6665,25 +6676,25 @@ Our special retinue happening, at this time, to come into the vicinity of *Kurkn
 
 * * *
 
-### <span class="small-caps">OBSERVATIONS.</span>
+##### <span class="small-caps">OBSERVATIONS.</span>
 
 My information does not enable me to state, whether or not there is any *Durgáh*, or shrine, of particular sanctity, within the neighbourhood of *Kurknáth* : but it is not improbable that there is, and that Shâh Abdullâh Sâheb was the presiding priest of it. But whatever his office might be, it may be inferred, from the circumstance of the *Sultan’s* sending a *Dooly*, instead of a *Palankeen*, for him, that he did not hold the first rank among the order of the religious.
 
-### Letter 338: Ehsânûllah Khân
+### Letter 340: Ehsânûllah Khân
 
-### LETTER CCCXLI.
+#### LETTER CCCXLI.
 
-### *To* <span class="small-caps">Ehsânûllah Khân</span>; *dated from* <span class="small-caps">Kurknáth</span>, *12th Hâshimy.* (*13th August.*)
+#### *To* <span class="small-caps">Ehsânûllah Khân</span>; *dated from* <span class="small-caps">Kurknáth</span>, *12th Hâshimy.*<br />(*13th August.*)
 
 <span class="small-caps">Reduce</span> the monthly wages [or pay] of Shaikh Ali; take back the bounty[^fn-p0441-1] of a hundred *pagodas* [advanced to him]; and giving the same to [or distributing it among] those who shall raise men, fill up [by this means] the vacancies in your corps.
 
-### Letter 339: Budrûz Zumân Khân
+### Letter 341: Budrûz Zumân Khân
 
 * * *
 
-### LETTER CCCXLII.
+#### LETTER CCCXLII.
 
-### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *same Date.* (*13th August.*)
+#### *To* <span class="small-caps">Budrûz Zumân Khân</span>; *same Date.* (*13th August.*)
 
 <span class="small-caps">You</span> write, “ that Moosa Khân, *Risáladár* of *Jyshe*, and Abdûl “ Ruheem, *Kilaadár* of *Soándeh*, who were dispatched, for the purpose “ of chastising the insurgents[^fn-p0441-2] of *Soopah*, had seized upon a place in “ the possession of the latter, who had [thereupon] taken to flight.”
 
@@ -6691,17 +6702,17 @@ It is known. Ten years ago, from ten to fifteen thousand men were hung upon the 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The dreadful executions, here spoken of with so much levity by the *Sultan*, must refer to the time of his father, in the year 1776: but if the latter was actually guilty of the cruelty indirectly imputed to him by his son, it is more than any of his biographers (at least to my knowledge) have recorded of him. It must, however, be allowed, that it would not be easy to assign any satisfactory reason for Tippoo’s purposely exaggerating the fact in question.
 
-### Letter 340: Shânoor Wâleh / Abdûl Hukeem Khân
+### Letter 342: Shânoor Wâleh / Abdûl Hukeem Khân
 
 * * *
 
-### LETTER CCCXLIII.
+#### LETTER CCCXLIII.
 
-### *To the* *<span class="small-caps">Shânoor Wâleh</span>* (*i. e.* *<span class="small-caps">Abdûl Hukeem Khân</span>*); *dated* 14*th* *Hâshimy.* (15*th August.*)
+#### *To the* *<span class="small-caps">Shânoor Wâleh</span>* (*i. e.* *<span class="small-caps">Abdûl Hukeem Khân</span>*); *dated* 14*th*<br />*Hâshimy.* (15*th August.*)
 
 <span class="small-caps">Your</span> letter, conveying the account of your welfare, and containing certain particulars, together with two other papers [which accompanied it], has adorned the face of arrival, and afforded me delight.
 
@@ -6709,79 +6720,79 @@ Forasmuch as the requisites[^fn-p0442-1] [or reciprocal duties] of union and con
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 This is, perhaps, the most civil of all the letters addressed to the Patan chieftain by the *Sultan* ; who, however, as there is reason to believe, was at this very time firmly resolved upon his destruction.
 
-### Letter 341: BUKHSHY of the EHSHÁM at CHITTLEDOORG
+### Letter 343: BUKHSHY of the EHSHÁM at CHITTLEDOORG
 
-### LETTER CCCXLIV.
+#### LETTER CCCXLIV.
 
-### *To the* B<span class="small-caps">UKHSHY</span> *of the* E<span class="small-caps">HSHÁM</span> *at* C<span class="small-caps">HITTLEDOORG</span> ; *dated* 13*th* H<span class="small-caps">ÁSHIMY</span>. (14*th August*.)
+#### *To the* B<span class="small-caps">UKHSHY</span> *of the* E<span class="small-caps">HSHÁM</span> *at* C<span class="small-caps">HITTLEDOORG</span> ; *dated* 13*th*<br />H<span class="small-caps">ÁSHIMY</span>. (14*th August*.)
 
 Y<span class="small-caps">OU</span> must send for the families of all the *Aumils*, who are natives[^fn-p0443-1] of the *Payen-Ghaut*, and, together with the *Aumils* themselves, keep them at *Chittledoorg*.
 
-### Letter 342: MEER FUTAH ALI
+### Letter 344: MEER FUTAH ALI
 
 * * *
 
-### LETTER CCCXLV.
+#### LETTER CCCXLV.
 
-### *To* M<span class="small-caps">EER</span> F<span class="small-caps">UTAH</span> A<span class="small-caps">LI</span>, T<span class="small-caps">AALÚKDÁR</span> *of* C<span class="small-caps">HIK</span> (*or little*) B<span class="small-caps">ALAPOOR</span> ; *dated* 17*th* H<span class="small-caps">ÁSHIMY</span>. (18*th August*.)
+#### *To* M<span class="small-caps">EER</span> F<span class="small-caps">UTAH</span> A<span class="small-caps">LI</span>, T<span class="small-caps">AALÚKDÁR</span> *of* C<span class="small-caps">HIK</span> (*or little*) B<span class="small-caps">ALAPOOR</span> ;<br />*dated* 17*th* H<span class="small-caps">ÁSHIMY</span>. (18*th August*.)
 
 T<span class="small-caps">HERE</span> are heavy balances [of revenue] due from the country [*i.e.* from your district]. These must be realised ; and, with the produce, you must procure provisions for the *Ahmedies* from some other district.[^fn-p0443-2] In case you should have no assets [for the purpose], apply to Râjah Râm Chundur, who will give an assignment to the amount he may judge proper.
 
-### Letter 343: MEER JAAFUR WUFFA KHÂNY
+### Letter 345: MEER JAAFUR WUFFA KHÂNY
 
 * * *
 
-### LETTER CCCXLVI.
+#### LETTER CCCXLVI.
 
-### *To* M<span class="small-caps">EER</span> J<span class="small-caps">AAFUR</span> W<span class="small-caps">UFFA</span> K<span class="small-caps">HÂNY</span> ; *dated* 14*th* H<span class="small-caps">ÁSHIMY</span>. (15*th August*.)
+#### *To* M<span class="small-caps">EER</span> J<span class="small-caps">AAFUR</span> W<span class="small-caps">UFFA</span> K<span class="small-caps">HÂNY</span> ; *dated* 14*th* H<span class="small-caps">ÁSHIMY</span>.<br />(15*th August*.)
 
 T<span class="small-caps">HE</span> account of Gunaish Bhyroo’s arrival in hell[^fn-p0443-3] has been received. We [only] require the blessing of God to attend us, in order to the [speedy] removal of whatever superfluous hairs are remaining.[^fn-p0444-1] Many such are [always] coming, and many going. The favour of God constitutes our aid and support.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I can give no account of the Gunaish Bhyroo, whose death is here so exultingly noticed by the *Sultan*. He may either have been an insurgent *Polygar* or a Mahrattah commander. If the official designation of Meer Jaafur had been given, it might have thrown some light on this point. The addition of *Wuffa Khány*, which follows the proper name of this person, is, if I am not mistaken, an appellation, by which a particular tribe, or family, of Moghul descent, was distinguished.
 
-### Letter 344: BÛRHÂNÛDDEEN
+### Letter 346: BÛRHÂNÛDDEEN
 
 * * *
 
-### LETTER CCCXLVII.
+#### LETTER CCCXLVII.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated* 18*th* <span class="small-caps">HÁSHIMY</span>. (19*th August*.)
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span> ; *dated* 18*th* <span class="small-caps">HÁSHIMY</span>. (19*th August*.)
 
 <span class="small-caps">You</span> must not be in a hurry to give battle ; but if the enemy should advance upon your army, you must chastise them effectually.[^fn-p0444-2] Our special retinue will shortly cross the *Tungbuddra*, and arrive at that place [*i. e.* will join you]. Abdûl Ahmed Khân,[^fn-p0444-3] together with his family, must be taken into custody, and dispatched to *Nugr*.
 
-### Letter 345: Syed Ghuffâr
+### Letter 347: Syed Ghuffâr
 
-### LETTER CCCXLVIII.
+#### LETTER CCCXLVIII.
 
-### *To* <span class="small-caps">Syed Ghuffâr</span>; *same Date. (19th August.)*
+#### *To* <span class="small-caps">Syed Ghuffâr</span>; *same Date. (19th August.)*
 
 <span class="small-caps">The</span> chastisement of the enemy’s cavalry is approved. We, too, shall shortly cross the *Tungbuddra*, and arrive [or join you]. What is the amount of the enemy’s forces ? Mere hearsay is not entitled to credit.[^fn-p0445-1] You must view them with your own eyes, and report what you see, without addition or diminution. We some time ago wrote to Bûrhânûddeen, directing the punishment of the *Jowkdar* [or captain] of the *Jyshe*.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The task here assigned to Syed Ghuffâr would appear to have been no easy one. Indeed it is inconceivable, how he could execute it with the accuracy required. The difficuly would, no doubt, have been less, if he had had to estimate, by inspection, the amount of an European army, the regular array of which is favorable to such computations. But, even supposing an army, constituted like that of the Mahrattahs, to be viewed, under every possible advantage, by a distant observer, such as Syed Ghuffâr must necessarily have been, it would hardly be in his power to determine its numbers with any degree of exactness. A judgment formed, in the manner prescribed by the *Sultan*, would seem to be, at least, as liable to error, as one founded on the “hearsay intelligence” alluded to by him ; and by which he probably meant the reports of neighbouring villagers, of casual travellers, and of the itinerant *Fakeers* or *Jogies*, who are usually permitted to pass unmolested from one army to another.[^fn-p0445-2]
 
 Here follows in the manuscript a letter addressed to the *Dároghas* of the *Ṭosheh-kháneh*, containing directions for the composition of a particular dentifrice, with which the *Mahls* or *Harams* at *Seringapatam* and *Bangalore* were to be supplied, for the use of the ladies occupying them. I am prevented from translating this curious document, by my inability to give the names of the ingredients specified, in English. Some of the composition is ordered to be sent to the *Sultan*.
 
-### Letter 346: Bûrhânûddeen
+### Letter 348: Bûrhânûddeen
 
 * * *
 
-### LETTER CCCXLIX.
+#### LETTER CCCXLIX.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated 23d Hâshimy.*[^fn-p0446-1] *(24th August.)*
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated 23d Hâshimy.*[^fn-p0446-1] *(24th August.)*
 
 <span class="small-caps">By</span> the Divine favour, the passage of the *Tungbuddra* is effected; and in two or three days, please the Almighty, we shall summon you and your army to the Presence. Proceeding by the road of *Nushapoor*,[^fn-p0446-2] and arriving in the vicinity of your camp, we shall send for you. If, in the meanwhile, any other force besides *Holkar's* [as that under Hurry Pundit, &c.] should make its appearance in any considerable numbers, with a view to attacking you, you must withdraw three or four *coss*, and take up a position among the woods: but if a superior force should not advance against you, and Holkar's only should present itself, you must remain where you are; and procuring constant intelligence of the enemy's army, keep on the alert, and write regularly [of what passes] to the Presence.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Another letter appears, dated 29th *Hâshimy* (30th August) directed to “Bûrhânûddeen, Budr ûl Âman Khân,[^fn-p0446-3] and the *Sipahdârs*,” announcing, in like manner as the preceding one, the passage of the *Tungbuddra*; so that either there is some mistake in the dates, or this operation must have occupied the *Sultan* during the period between the 23d and 29th of *Háshimy*: in which case the letter of the 23d may be supposed to have been written on the passage of the van of the army, and that of the 29th when the whole of the army had crossed the river. In the latter dispatch the *Sultan* says, “We shall proceed from hence to-morrow or the “next day, and soon arrive with you.” And yet he would appear, by another letter, to have been still encamped on the banks of the *Tungbuddra* as late as the 7th of *Wásaaey* (or 6th of September). Possibly, the line of his march, after crossing the river, might have been for some days in the direction of its course.
 
@@ -6801,23 +6812,23 @@ Tippoo, in his Memoirs, plumed himself considerably on the military operation in
 
 The *Sultan* next proceeds to relate his further operations against the enemy, in the same barbarous and perplexed style, which distinguishes the narrative from whence the preceding extract has been made. Nothing, however, of any moment, or indeed very intelligible, appears, till the period of his arrival at *Shánoor*; when he gives an account of the general engagement which was fought in the neighbourhood of that city, and of which I will, in its proper place, present the reader with a translation.
 
-### Letter 347: BUDRÛZ ZUMÂN KHÂN
+### Letter 349: BUDRÛZ ZUMÂN KHÂN
 
 * * *
 
-### LETTER CCCL.
+#### LETTER CCCL.
 
-### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *dated* 29*th* <span class="small-caps">HÁSHIMY</span>. (30*th August*.)
+#### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *dated* 29*th* <span class="small-caps">HÁSHIMY</span>. (30*th August*.)
 
 <span class="small-caps">THE</span> list of Soandeh and other captives has been received. The aforesaid captives must be dispatched to *Nugr*, and [there be] incorporated with the *Usud Ilhyes*; to such of whom as are without wives, the females among the prisoners are to be given in marriage.
 
 Entrenching yourself strongly,[^fn-p0450-2] you will remain [at all times] in readiness to co-operate with Bûrhânûddeen in the chastisement of the enemy.
 
-### Letter 348: Kilaadâr of Putn
+### Letter 350: Kilaadâr of Putn
 
-### LETTER CCCLI.
+#### LETTER CCCLI.
 
-### *To the* *<span class="small-caps">Kilaadâr</span>* *of* *<span class="small-caps">Putn</span>* *(i.e.* *<span class="small-caps">Seringapatam</span>**); same Date.*
+#### *To the* *<span class="small-caps">Kilaadâr</span>* *of* *<span class="small-caps">Putn</span>* *(i.e.* *<span class="small-caps">Seringapatam</span>**); same Date.*
 
 *(30th August.)*
 
@@ -6825,7 +6836,7 @@ Entrenching yourself strongly,[^fn-p0450-2] you will remain [at all times] in re
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Of the encomiastic odes here spoken of, I think I am in possession of a copy; for which I am indebted, as for many other interesting communications, to the kindness of my friend, Lieutenant Colonel Ogg. With the exception of the concluding distich of each ode, which is in Persian, the rest of the composition is in the *Hindivy* dialect, which is, indeed, denoted by the term *raikhteh*. These odes are ninety-six in number; and consist, on the one hand, of the most fulsome and hyperbolical praises of the *Sultan*, and on the other, of disparaging allusions to the English, the Mahrattahs, and the Nizâm. The style is extremely unpolished; and though I will not pretend to have given them more than a superficial and cursory perusal, or to understand perfectly all that I have read, I have no hesitation in affirming, that they are utterly destitute of every kind of poetical merit.
 
@@ -6869,13 +6880,13 @@ But, perhaps, none of the flights, with which this extraordinary performance abo
 
 > “ Owing to the justice of this king, the deer of the forest make their pillow of “ the lion and the tiger, and their mattress of the leopard and the panther.”
 
-### Letter 349: BÛRHÂNÛDDEEN
+### Letter 351: BÛRHÂNÛDDEEN
 
 * * *
 
-### LETTER CCCLII.
+#### LETTER CCCLII.
 
-### *To* BÛRHÂNÛDDEEN; *dated 4th Wâsaaey.* (*3d September.*)
+#### *To* BÛRHÂNÛDDEEN; *dated 4th Wâsaaey.* (*3d September.*)
 
 <span class="small-caps">Your</span> humble address has passed under our view, and the account [therein given] of the enemy’s force, and of the issue of two months’ pay to the *Jyshe* troops stationed [in garrison] at *Nergúnd*, from the produce of the collections of that place, is understood.[^fn-p0453-3]
 
@@ -6885,67 +6896,67 @@ It is known. *Nugr* and *Nergúnd* are one and the same.[^fn-p0454-1] Let the tr
 
 Our special retinue has passed the *Tungbuddra*, and will shortly shed lustre on that quarter.
 
-### Letter 350: BÛRHÂNÛDDEEN
+### Letter 352: BÛRHÂNÛDDEEN
 
 * * *
 
-### LETTER CCCLIII.
+#### LETTER CCCLIII.
 
-### *To the same ; dated 7th W**<span class="small-caps">ÁSAAEY.</span>* *(6th September.)*
+#### *To the same ; dated 7th W**<span class="small-caps">ÁSAAEY.</span>* *(6th September.)*
 
 <span class="small-caps">A PIECE</span> of *Bubry* has been [or is herewith] sent for that light of our eyes. You must get a vest made of it for yourself.
 
 N.B. A similar letter follows here, addressed to Meer Moaayenûddeen Khân.
 
-### OBSERVATIONS
+##### OBSERVATIONS
 
 The *Bubry* was a kind of printed cotton, of a particular pattern ; consisting of a stripe, resembling in form, and sometimes in color, the stripe on the skin of a tyger, one of the names of which animal is *Bubr*. Tippoo Sultan is well known to have considered the tyger as emblematical of his own family or government : probably on account of its affinity to the lion, by which appellation the *Caliph Ali* has been distinguished. Indeed the tiger and lion are so often called in *India* by the same name, that it would have been quite uncertain which of the two animals in question was meant by the *Sultan*, under the appellation of *Bubr*, if the distinctive mark of the *stripe* had not placed the matter out of doubt. This stripe, in short, may be said to have constituted the crest, or armorial bearing, of Tippoo; who caused it to be introduced into almost every article belonging to him. Hence it was found stamped on the binding of his books, engraved on his plate and his fire-arms, woven in his standards, &c. It even formed the watermark of the paper manufactured for his use.
 
 Orders for the fabrication and distribution of *Bubry* cloths appear in several of the letters forming the present collection. I believe it constituted the uniform dress of a considerable portion of the *Sultan's* regular troops.
 
-### Letter 351: Ghous Mahommed Khân / Mahommed Akâ
+### Letter 353: Ghous Mahommed Khân / Mahommed Akâ
 
 * * *
 
-### LETTER CCCLIV.
+#### LETTER CCCLIV.
 
-### *To* <span class="small-caps">Ghous Mahommed Khân</span> *and* <span class="small-caps">Mahommed Akâ</span>, *Dároghas of the* <span class="small-caps">Jinsy Tosheh-khâneh</span>; *same Date. (6th September.)*
+#### *To* <span class="small-caps">Ghous Mahommed Khân</span> *and* <span class="small-caps">Mahommed Akâ</span>, *Dároghas of<br />the* <span class="small-caps">Jinsy Tosheh-khâneh</span>; *same Date. (6th September.)*
 
 <span class="small-caps">It</span> has come to the knowledge of the Presence, that the *Dároghas* and *Mútusuddies*, as well as Suddanund, and other servants of the jewel office, do not attend [there properly], in consequence whereof the business of one day is protracted to ten. Those [persons] must be strictly enjoined [or severely admonished]: nay, they must be scourged, and made to give [due] attendance, so that the jewellery article [^fn-p0455-1] [upon which they are employed] may be speedily finished.
 
-### Letter 352: Monsieur Cossigny
+### Letter 354: Monsieur Cossigny
 
 * * *
 
-### LETTER CCCLV.
+#### LETTER CCCLV.
 
-### *To* <span class="small-caps">Monsieur Cossigny</span>; *dated* 18*th* <span class="small-caps">Wásaaey</span>. *(9th September.)*
+#### *To* <span class="small-caps">Monsieur Cossigny</span>; *dated* 18*th* <span class="small-caps">Wásaaey</span>. *(9th September.)*
 
 <span class="small-caps">We</span> have heard, that a Mahrattah *Vakeel* has resided, for some time past, at that place [*i.e. Pondicherry*]. As this circumstance is not suitable to the friendship subsisting between the *Sircar* [*i. e.* us] and the *Rajah* of the French, we therefore write to desire, that the aforesaid [*Vakeel*] may be dismissed, and not allowed to remain [there any longer]. What more shall be written?
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The style of this letter must be admitted to be sufficiently arrogant and peremptory; and was, certainly, but ill calculated to conciliate the good-will of the French governor, however it might serve to impress others with a high notion of the power of the writer. Either the *Sultan* must have trusted greatly to M. Cossigny's ignorance of the Persian language, as well as of the respect due to his rank and station; or else so deep and inveterate must his dislike to Europeans or Christians of every denomination, whether friends or foes, have been, that he could not always abstain from letting it appear in his intercourse with them, even when it was palpably (as in the present case) his interest so to do. It may indeed be doubted, whether he hated the French less than the English: and however he might wish and hope to render the former subservient to his views against the latter, still he would never seem to have forgotten, that they were both Nazarenes, and enemies of the true faith; and, consequently, alike the just objects of his abhorrence and contempt.
 
 I do not possess the means of ascertaining what degree of attention, if any, was paid by the French governor to the extraordinary demand contained in the foregoing letter.
 
-### Letter 353: Mûlâim Jung
+### Letter 355: Mûlâim Jung
 
 * * *
 
-### LETTER CCCLVI.
+#### LETTER CCCLVI.
 
-### *To* <span class="small-caps">Mûlâim Jung</span>; *dated* 12*th* *Wâsaaey*. (11*th* *September*.)
+#### *To* <span class="small-caps">Mûlâim Jung</span>; *dated* 12*th* *Wâsaaey*. (11*th* *September*.)
 
 <span class="small-caps">You</span> have humbly stated, “ that you have instructed five youths of the “ *Usud-Ilhye* band [or corps] in the royal praises.[^fn-p0456-1] It is known and approved. Herewith is sent a copy of encomiastic odes, which you are likewise to teach to those five youths.
 
-### Letter 354: Bûrhânûddeen
+### Letter 356: Bûrhânûddeen
 
 * * *
 
-### LETTER CCCLVII.
+#### LETTER CCCLVII.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated 11th Wásaaey*. (10th *September*.)
+#### *To* <span class="small-caps">Bûrhânûddeen</span>; *dated 11th Wásaaey*. (10th *September*.)
 
 <span class="small-caps">You</span> write, “ that you have determined to stop a month’s pay, by way “ of amercement, from those concerned in the late brawl[^fn-p0457-1] [or disturb- “ ance] of the two *Kushoons* commanded by the *Sipahdár*, Syed Hu- “ meed, and the *Sipahdár*, Syed Ghuffâr.” You moreover state, “ that “ the *Jowkdár* who excited the quarrel, and over whom a guard had “ been placed, made his escape the second day after, being the day on “ which you had the engagement with the enemy,[^fn-p0457-2] accompanied by his “ guard, whom he had contrived to seduce.”
 
@@ -6953,7 +6964,7 @@ It is known. Where are the women, the relatives, and brethren of the persons in 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Neither the cause, nor the nature, any more than the extent of the disturbance alluded to in this letter, is any where stated: but there is no reason to suppose, that it was any thing more than a private dispute between some individuals of the two *Kushoons* in question, fomented by one of their officers. A mutiny of the troops would not have been expressed by the word *kuziah*.
 
@@ -6961,13 +6972,13 @@ But of whatever kind the disturbance was, the punishment of those concerned in i
 
 It is not quite clear, whether or not the muster, or inspection, directed to be taken in the foregoing letter, had any reference to the disturbance mentioned in the same letter; but the following dispatch, to Budrûz Zumân Khân, makes it most probable that it was unconnected with that occurrence.
 
-### Letter 355: BUDRÛZ ZUMÂN KHÂN
+### Letter 357: BUDRÛZ ZUMÂN KHÂN
 
 * * *
 
-### LETTER CCCLVIII.
+#### LETTER CCCLVIII.
 
-### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *same Date. (10th September.)*
+#### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *same Date. (10th September.)*
 
 <span class="small-caps">WE</span> have received your humble address, wherein you solicit the favour of some muskets, for the use of the *Uskur* troops[^fn-p0458-1] [under your command]. That eminent person must remain vigilant and careful.[^fn-p0458-2]
 
@@ -6987,7 +6998,7 @@ It is known. Do you act conformably with the directions which you have received.
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 In regulating the monthly pay of servants and others in *India*, the length of the month is not necessarily determined, either by the lunar or solar reckoning. Indeed, it is very rarely that either domestics or military persons, in the country service, are paid at so favorable a rate. On the contrary, the month is sometimes arbitrarily made to consist of forty days, and very commonly of thirty-five. By this means the actual falls far short of the nominal pay ; the difference, when forty days are assigned to the month, being no less than three months in the year. Thus a *Sepoy*, apparently rated at twelve *rupees* a month, would, in fact, receive only nine.
 
@@ -6995,39 +7006,39 @@ This practice, which does not obtain among the English in *India*, enables a mas
 
 However officious or supererogatory the representation of Râjah Râm Chundur might have been, it hardly merited the sharp reproof which it received from his master ; especially as its tendency was to effect a reduction of the public expence. But this is only one, among a variety of similar instances, of the excessive irritableness and austerity of the *Sultan’s* disposition, which seems to have rendered him, at all times, more prone to censure than to commend his servants.
 
-### Letter 356: Mahommed Ibrâheem
+### Letter 359: Mahommed Ibrâheem
 
 * * *
 
-### LETTER CCCLX.
+#### LETTER CCCLX.
 
-### *To* *<span class="small-caps">Mahommed Ibrâheem, Aumil</span>* *of* *<span class="small-caps">Nâgmungul</span>* ; *same Date.*
+#### *To* *<span class="small-caps">Mahommed Ibrâheem, Aumil</span>* *of* *<span class="small-caps">Nâgmungul</span>* ; *same Date.*
 
 *(10th September.)*
 
 <span class="small-caps">You</span> write, “ that Poonia [or Pootia], the *Serishtedâr* of that place “ [*i. e. Nâgmungul*] is an unfaithful person,[^fn-p0460-1] and that the *Ryots*, owing “ to him [*i. e.* to his mal-practices], will [assuredly] turn their faces to “ flight [or abandon the country].” It is known. Whatsoever you have to write [on this subject], let it be written to the *Dewân* of the mansion of sovereignty, *Putn*.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It must not be inferred from this letter, that the affair to which it relates was intended by the writer to be referred to the *decision* of the *Dewán*. The *Sultan* was far from being in the habit of delegating his authority on such occasions: nor does he, in general, appear to have had any objections to being addressed directly on matters of business. On the contrary, he seems to have encouraged this practice, which was calculated to operate as a check upon his official servants. His object in the present instance was, probably, to obtain fuller information, preparatory to the enunciation of his pleasure on the subject.
 
 It is not certain who was meant by the *Dewán* of *Seringapatam*; but I am inclined to think that the designation could apply only to Meer Sâdik.
 
-### Letter 357: BÛRHÂNÛDDEEN
+### Letter 360: BÛRHÂNÛDDEEN
 
 * * *
 
-### LETTER CCCLXI.
+#### LETTER CCCLXI.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated 12th W*<span class="small-caps">ÁSAAEY</span> (*11th September.*)
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated 12th W*<span class="small-caps">ÁSAAEY</span> (*11th September.*)
 
 <span class="small-caps">Your</span> letter, containing an account of the victory obtained by our triumphant army, and of the flight of the enemy to the distance of a *Fursung*,[^fn-p0461-1] has passed under our view. You must, hereafter, whenever the enemy makes his appearance, and an opportunity offers, chastise him effectually, in the same manner that you have now defeated him. By the favor of God the Aider, the infidels here[^fn-p0461-2] shall also receive the due reward of their misdeeds.[^fn-p0461-3]
 
-### Letter 358: Bûdruz Zumân Khân
+### Letter 361: Bûdruz Zumân Khân
 
-### LETTER CCCLXII.
+#### LETTER CCCLXII.
 
-### *To* <span class="small-caps">Bûdruz Zumân Khân</span>; *dated* 13*th Wásaaey*. (12*th September*.)
+#### *To* <span class="small-caps">Bûdruz Zumân Khân</span>; *dated* 13*th Wásaaey*. (12*th September*.)
 
 <span class="small-caps">We</span> have received your three letters, together with those addressed to you by Ali Râjah[^fn-p0462-1] and the *Kázy* of *Nugr*, and also the statement of the peculations of the *Kilaadár* of *Bullaraedoorg*.[^fn-p0462-2] You write, “ that the “ aforesaid *Kilaadár* is a cheat[^fn-p0462-3] and an oppressor ;[^fn-p0462-4] and that, with “ our permission,[^fn-p0462-5] you will appoint and send [thither] Kureem Khân, “ who, agreeably to our orders, has [lately] joined you from *Luddasheoo-ghurr*.”
 
@@ -7035,13 +7046,13 @@ It is known. It is well.[^fn-p0462-6] Displace the aforesaid *Kilaadár* ; and, 
 
 On the night[^fn-p0462-8] of the 13th of the month *Wásaaey*, we detached two *Kushoons* [with orders] to make a night-attack upon the enemy. The detachment accordingly surprized the enemy,[^fn-p0462-9] poured such a discharge of cannon and musquetry among them, that the reprobate crew,[^fn-p0462-10] unable to support [it], fell into the utmost disorder, and dispersed[^fn-p0463-1] with cropped ears and tails.[^fn-p0463-2] This is written for your information.
 
-### Letter 359: Kázy of Bangalore
+### Letter 362: Kázy of Bangalore
 
 * * *
 
-### LETTER CCCLXIII.
+#### LETTER CCCLXIII.
 
-### *To the <span class="small-caps">Kázy</span> of <span class="small-caps">Bangalore</span>; same Date.* (*12th September.*)
+#### *To the <span class="small-caps">Kázy</span> of <span class="small-caps">Bangalore</span>; same Date.* (*12th September.*)
 
 <span class="small-caps">Write</span> out, and send to the Presence, a copy of the *Húkm-námeh* [or instructions] with which you have been graciously furnished, the same being wanted, for the purpose of bestowing [*i. e.* transmitting] it to the *Kázy* of *Zuferábád*. Observe that the name of the *Kuchurry* of *Zuferábád* is to be inserted in the [first] line of the first page [of the copy], instead of the name of *Bangalore*, and that the name of the *Kázy* must be omitted.[^fn-p0463-3] For the rest, all that relates to fees, &c., and whatever else is written therein, must be copied *verbatim*,[^fn-p0463-4] and transmitted to us.
 
@@ -7049,7 +7060,7 @@ Let the copy of the *Húkm-námeh* [herein-mentioned] be bound,[^fn-p0463-5] pre
 
 N. B. There follows next a letter to Syed Peer, the *Kilaadár* of *Bangalore*, informing him of the orders sent to the *Kázy*, and desiring him to see that they were duly complied with. The document in question was, when ready, to be forwarded to the Presence by him. (Syed Peer.)
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It might be inferred from the foregoing letter, that no copy of the instructions to the *Kázy* of *Bangalore* had been preserved, and that hence arose the necessity of calling upon that officer to furnish one: but, considering the great regularity with which official documents, in general, appear to have been registered under Tippoo Sultan’s government, it can hardly be imagined, that an entry of the instructions in question should not have been duly made among the records of the proper department. Nor is such a supposition at all requisite, in order to account for the present directions; since there is no difficulty in conceiving, that the register, containing the document wanted, might have been left at *Seringapatam*, in which case, no doubt, a copy would be more easily and speedily obtained from *Bangalore* than from the capital. The thing chiefly remarkable, therefore, in the letter before us, is the direction which it contains, for sending the instrument specified, in a form which should save the trouble of preparing in camp any other copy for the *Kázy* of *Zuferábád*: for such would seem to have been the sole object of the minute instructions given on this head. By this means, nothing more would be necessary, on the receipt of the document in question, than to fill up the blanks left in it, and to affix the usual seal and signature to it. Such an expedient, for the economizing of time and labour, would scarcely occur to any but a very eccentric mind.
 
@@ -7057,7 +7068,7 @@ It might have been expected, considering the particular design which the *Sultan
 
 ### LETTER CCCLXIV.
 
-### *To the K<span class="small-caps">ILAADÂR</span> of P<span class="small-caps">UTN</span> (S<span class="small-caps">ERINGAPATAM</span>); dated 15th W<span class="small-caps">ÁSAAEY</span>. (14th September.)*
+### *To the K<span class="small-caps">ILAADÂR</span> of P<span class="small-caps">UTN</span> (S<span class="small-caps">ERINGAPATAM</span>); dated 15th W<span class="small-caps">ÁSAAEY</span>.<br />(14th September.)*
 
 <span class="small-caps">THE</span> abstract of this letter, as given in the manuscript, appears to have been inaccurately copied, for which reason I have not attempted a regular translation of it. The subject of it, however, is too remarkable to be entirely passed over. It relates to the establishment of a kind of school in certain of the *Risálas* composing the garrison of *Seringapatam*: and from the context I infer, that the *Risálas* in question were some of the *Usud Ilhye* or *Ahmedy* corps. The number of pupils in each *Risála* was fixed at twenty, who were ordered to be selected from the most promising youths belonging to it. Besides being taught to read the *Koran*, they were to be instructed in the Persian language and in accounts.
 
@@ -7067,13 +7078,13 @@ The letter, which we are now considering, contains also a paragraph to the follo
 
 > “ You did right, in committing five youths to the charge of Uzeem-“ ûddeeen,[^fn-p0465-1] for the purpose of their being taught the encomiastic odes ; “ but there is no need for adding four more to the number.[^fn-p0466-1] The former “ are sufficient.”
 
-### Letter 360: NUBBY SHÂH
+### Letter 364: NUBBY SHÂH
 
 * * *
 
-### LETTER CCCLXV.
+#### LETTER CCCLXV.
 
-### *To* <span class="small-caps">NUBBY SHÂH</span>, *at* <span class="small-caps">BANGALORE</span>; *same Date.* (*14th September.*)
+#### *To* <span class="small-caps">NUBBY SHÂH</span>, *at* <span class="small-caps">BANGALORE</span>; *same Date.* (*14th September.*)
 
 <span class="small-caps">YOU</span> write, “ that agreeably to [our] orders, the *Pagoda* which was “ in front of the blessed *Durgáh* [or shrine] has been demolished, but “ that the *Aumil* will not resign [to you] the ground [on which it stood].”
 
@@ -7081,19 +7092,19 @@ It is known. The *Aumil* will make over the aforesaid ground [to you], when you 
 
 You have requested of us “ to issue our orders to the *Aumil* of *Selim* “ ..........[^fn-p0466-2] to put you in possession of [or continue to you] the [usual] fees,[^fn-p0466-3] &c.” It is known. Whatsoever was thought proper to be directed on the subject of fees, &c. has been directed. It is not our custom to repeat our orders.[^fn-p0466-4]
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Whatever might have been the bigotry of the *Sultan*, it would appear, from the general style and tenor of the foregoing letter, that his respect for the priesthood was not of a nature to prevent their experiencing, occasionally, together with the other orders of his subjects, that acerbity of manner, which so much distinguished guished his character. Nubby Shâh is one of those, to whom the circular proclamation, or manifesto, against the infidels (inserted at page 293) was forwarded; and was, probably, the governing priest of the principal *Durgâh* at *Bangalore*.
 
 Although the present collection furnishes several instances, in which the *Sultan* is seen to *repeat* orders already issued, yet it is certain, that he was not in the *habit* of doing so; and that is probably all that he meant, by saying that “ it was “ not his custom.” His commands were, in general, too peremptory, and the consequences of disobeying them too well understood, to make it often necessary to reiterate them.
 
-### Letter 361: MÛSHEER ûL MÛLK
+### Letter 365: MÛSHEER ûL MÛLK
 
 * * *
 
-### LETTER CCCLXVI.
+#### LETTER CCCLXVI.
 
-### *To* <span class="small-caps">MÛSHEER</span> û<span class="small-caps">L MÛLK</span>; *dated* 19*th* <span class="small-caps">WÁSAAEY</span>. (18*th September*.)
+#### *To* <span class="small-caps">MÛSHEER</span> û<span class="small-caps">L MÛLK</span>; *dated* 19*th* <span class="small-caps">WÁSAAEY</span>. (18*th September*.)
 
 [<span class="small-caps">After</span> compliments]...........A long period has elapsed, during which I have not had the happiness of hearing the glad tidings of the health and welfare of the *Nabob*, Nizâm ûd Dowlah, and of that exalted [person]. May the cause which has prevented it be no other than good.
 
@@ -7107,7 +7118,7 @@ For the rest, may joy and happiness be yours !
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Mûsheerûl Mûlk was, at this period, and continued to be till his death, in the year 1805, the principal minister at the court of *Hydrabad* ; having been confirmed in that office by the present *Nizâm*, Secunder Jâh, on the accession of the latter to the *Musnud*, in 1804. During the whole of his long administration, which though in the main prosperous, was, nevertheless, considerably checquered by untoward events, he steadily and successfully cultivated a good understanding with the British Government in *India*; between whom and his own court he had finally the credit and satisfaction of establishing the strict alliance now happily subsisting between them, and which is the more likely to prove permanent, inasmuch as it is erected upon the basis of reciprocal advantage and security.
 
@@ -7121,103 +7132,103 @@ The Mahommed Iftikhâr Khân, mentioned in the foregoing letter, was the *Vakeel
 
 However, difficult it may be to believe that Iftikhâr Khân should have so far betrayed the trust reposed in him, as to have expressed himself, regarding his master, in the gross terms ascribed to him by the *Sultan*, it must, on the other hand, be owned, that it would not be easy to assign any satisfactory reason for the latter's absolute fabrication of so extraordinary a story, which somewhat resembles the account he has been seen to give on another occasion, of the declarations of the Mahrattah *Vakeel* with respect to the rulers of the state. However this may be, it does not appear probable, from what is here related, that Iftikhâr Khân should have been charged with any communications to the court of *Hyderabad*, of a tendency much calculated to conciliate its good will, or “ to promote and “ preserve the mutual friendship and interests of the two states.”
 
-### Letter 362: Syed Mohyûddeen
+### Letter 366: Syed Mohyûddeen
 
 * * *
 
-### LETTER CCCLXVII.
+#### LETTER CCCLXVII.
 
-### *To* <span class="small-caps">Syed Mohyûddeen</span>, *<span class="small-caps">Aumil</span> of <span class="small-caps">Huscotah</span>; dated 21st Wâsaaey.* *(20th September.)*
+#### *To* <span class="small-caps">Syed Mohyûddeen</span>, *<span class="small-caps">Aumil</span> of <span class="small-caps">Huscotah</span>; dated 21st Wâsaaey.*<br />*(20th September.)*
 
 <span class="small-caps">Your</span> letter, representing “ that the *Risáladárs* of the *Ahmedy* “ [corps stationed in your jurisdiction] refuse to receive any other sort “ of *Dál* than [that called] *Toor*,” has passed under [our] view. You must serve out to the *Risâladárs* of the *Ahmedy* such *Dál* as may be procurable, whether it be *Toor*, *Moong*, or *Mâsh*.[^fn-p0472-1]
 
-### Letter 363: Shumsûddeen Khân / Ghûlâm Hyder
+### Letter 367: Shumsûddeen Khân / Ghûlâm Hyder
 
 * * *
 
-### LETTER CCCLXVIII.
+#### LETTER CCCLXVIII.
 
-### *To* <span class="small-caps">Shumsûddeen Khân</span> *and* <span class="small-caps">Ghûlâm Hyder</span>, *Dâroghas of the* <span class="small-caps">Tosheh-khâneh</span> *at* <span class="small-caps">Seringapatam</span>; *dated* 22d *Wâsaaey*. (21*st* *September*.)
+#### *To* <span class="small-caps">Shumsûddeen Khân</span> *and* <span class="small-caps">Ghûlâm Hyder</span>, *Dâroghas of the* <span class="small-caps">Tosheh-khâneh</span> *at* <span class="small-caps">Seringapatam</span>; *dated* 22d *Wâsaaey*. (21*st* *September*.)
 
 <span class="small-caps">Directing</span> them to advance to three certain *Usud-Ilhyes* the sum of three hundred *rupees* [*i. e.* one hundred to each], on occasion of their approaching marriage; and, moreover, instructing them to give strict injunctions to the *Dârogha* of the Mint to furnish every thing necessary for the celebration of their nuptials.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 This letter furnishes an additional proof of the lively interest taken by the *Sultan*, in whatever related to this favorite corps, the establishment of which he appears to have always considered with peculiar self-complacency, as bearing indubitable testimony to his zeal for the propagation of the Mahommedan religion. The same observation is applicable to the *Ahmedies*, for whom he manifested, on various occasions, an equal partiality. Even Letter CCCLXVII, affords an instance of this favorable disposition towards them : for it is highly probable, that if any other description of his troops had presumed to express the same dissatisfaction with the rations served out to them, which was declared by the *Risâladárs* of this body, they would have received a similar answer to that given to Shâh Noor Ullah, when the latter ventured to represent the badness of the rice delivered for the use of his retinue (see Letter CLXXVII). Here, on the contrary, the *Sultan*, so far from reproving the complainants, seems to have been sufficiently willing to indulge their preference for *Dál* of *Toor*, provided that article happened to be in the market or in the public store.
 
-### Letter 364: Syed Ahmed Sâheb
+### Letter 368: Syed Ahmed Sâheb
 
 * * *
 
-### LETTER CCCLXIX.
+#### LETTER CCCLXIX.
 
-### *To* <span class="small-caps">Syed Ahmed Sâheb</span>; [^fn-p0473-1] *dated* 22*d* *Wásaaey*. (21*st* *September*.)
+#### *To* <span class="small-caps">Syed Ahmed Sâheb</span>; [^fn-p0473-1] *dated* 22*d* *Wásaaey*. (21*st* *September*.)
 
 <span class="small-caps">Desiring</span> him to offer up his prayers for the prosperity of the faith, and for the destruction of its enemies.
 
-### Letter 365: Runmust Khân Behâdûr
+### Letter 369: Runmust Khân Behâdûr
 
 * * *
 
-### LETTER CCCLXX.
+#### LETTER CCCLXX.
 
-### *To* <span class="small-caps">Runmust Khân Behâdûr</span>, *Chief of Kurnool; same Date.* (21*st* *September*.)
+#### *To* <span class="small-caps">Runmust Khân Behâdûr</span>, *Chief of Kurnool; same Date.*<br />(21*st* *September*.)
 
 <span class="small-caps">In</span> conformity with your wishes, orders have been sent to the *Foujdár* of *Adoni*,[^fn-p0473-2] desiring him to give particular instructions to the persons employed by him in collecting horsemen [for our service, within your territories], to proceed in the business with all possible secrecy. Be you, Sir, likewise aiding and assisting on this occasion.[^fn-p0473-3]
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It appears by this letter, that though the chief of *Kurnool* had found himself under the necessity of permitting the *Sultan’s* officers to recruit within his territories, he was not without apprehensions of incurring thereby the displeasure of the court of *Hyderabad*, whose vassal he was. While, however, Tippoo seemingly ingly concurs in the reasonableness of the Patan's desire to guard against any suspicion of acting collusively in this affair, he, in the same instant, calls upon that chieftain to promote its success, by his personal authority and influence; which, with whatever secrecy it might be employed, could not fail to expose him, still more, to the imputation which he was so anxious to escape. Whether this was merely one of those inconsistencies, or contradictions, which so often marked the conduct of the *Sultan*, and so frequently occur in his writings; or whether it proceeded from a latent design of embroiling Runmust Khân with the *Nizâm*, and, by that means, compelling the former to throw himself upon his (the *Sultan's*) protection, is a point, which it is now, perhaps, impossible to determine.
 
-### Letter 366: Meer Ghûlâm Hûsain
+### Letter 370: Meer Ghûlâm Hûsain
 
 * * *
 
-### LETTER CCCLXXI.
+#### LETTER CCCLXXI.
 
-### *To* <span class="small-caps">Meer Ghûlâm Hûsain</span>, *Dârogha* (*or Superintendent*) *of the Fleet*;[^fn-p0474-1] *dated 25th Wâsaaey*. (*24th September*.)
+#### *To* <span class="small-caps">Meer Ghûlâm Hûsain</span>, *Dârogha* (*or Superintendent*) *of the<br />Fleet*;[^fn-p0474-1] *dated 25th Wâsaaey*. (*24th September*.)
 
 <span class="small-caps">Your</span> letter, reporting, among other things, “ that four months had “ elapsed without Mahommed Ali Khân's making his appearance at “ *Onore*,[^fn-p0474-2] whither, however, he had sent his brother,” has been received. What business is it of that asylum of nobleness,[^fn-p0474-3] whether the aforesaid *Khân* comes or stays ? Do you apply yourself diligently to the discharge of the trust reposed in you, and see that the ships are equipped with the utmost dispatch. You must, moreover, take care that they are coppered, agreeably to our former orders.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 I am ignorant of the amount, as well as of the nature, of the *Sultan’s* naval force, at this period. If we were to judge by the designation (*Armada*) which he has thought proper to apply to it, we might be led to conclude, that it was of considerable strength. But no inference can be safely drawn from so slight a circumstance; while, on the other hand, there is more than one reason for believing, that his marine must have been very insignificant at the time referred to. In the first place, it is pretty certain that Hyder Ali had bestowed little or no attention on this object; and it is equally clear, that his successor had not hitherto had either time or means to do much in pursuit of it. Besides, nothing was either known or seen of his *Armada*, during the war which ended in the partition treaty of 1792; and though, after that event, he applied himself seriously (as will appear by Appendix K.) to the formation of a respectable navy, he had, happily, not been enabled to effectuate his purpose, before his restless and impatient spirit plunged him into another premature war; in the short course of which, as little was heard of his navy as during that which preceded it.
 
-### Letter 367: Bûrhânûddeen / Budrûz Zumân Khân
+### Letter 371: Bûrhânûddeen / Budrûz Zumân Khân
 
 * * *
 
-### LETTER CCCLXXII.
+#### LETTER CCCLXXII.
 
-### *To* <span class="small-caps">Bûrhânûddeen</span> *and* <span class="small-caps">Budrûz Zumân Khân</span> *(of the same tenor);* *same Date. (24th September.)*
+#### *To* <span class="small-caps">Bûrhânûddeen</span> *and* <span class="small-caps">Budrûz Zumân Khân</span> *(of the same tenor);*<br />*same Date. (24th September.)*
 
 <span class="small-caps">In</span> a letter which we dispatched to you by Eeeroo Pindâreh,[^fn-p0475-1] and the *Hurkâreh*, Munchajee, you were furnished with a route. You must, accordingly, proceed, either by the route indicated in that letter, or by some other road, leading through a [close or] woody country; and taking up a position within six or seven *coss* of *Deogurry*,[^fn-p0475-2] where our victorious army is [at present] encamped, report your arrival to the Presence.
 
 Ghâzy Khân[^fn-p0476-1] is a person of extensive knowledge and experience, and [particularly] well acquainted with the roads [of this country]. He has, on this account, been sent with his *Risála* to join you; upon his doing which, you are to regulate your march by his advice and opinion.
 
-### Letter 368: BÛRHÂNÛDDEEN
+### Letter 372: BÛRHÂNÛDDEEN
 
 * * *
 
-### LETTER CCCLXXIII.
+#### LETTER CCCLXXIII.
 
-### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated 26th Wásaaey*. (*25th September*.)
+#### *To* <span class="small-caps">BÛRHÂNÛDDEEN</span>; *dated 26th Wásaaey*. (*25th September*.)
 
 <span class="small-caps">FOUR</span> *Kushoons* have *likewise* been dispatched [to you] with Ghâzy Khân. You must *leave all the women and other rubbish*,[^fn-p0476-2] together with the superfluous baggage belonging to your army, at *Unwutty*,[^fn-p0476-3] and crossing the river with the above-mentioned [Ghâzy Khân], repair directly to the Presence, instead of halting [as directed by our letter of yesterday], at the distance of six or seven *coss* from the victorious army. You will bring on with you, however, your light baggage, as well as all your warlike apparatus,[^fn-p0476-4] with the exception of one of your three great guns. This, with whatever spare wheels you may have,[^fn-p0476-5] you must leave with your heavy baggage: with which, such of your bullocks as are in bad condition must, likewise, remain. The two *Lumchurs*[^fn-p0476-6] are to accompany you.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 On the 25th of *Wásaaey* (or 24th of September), the *Sultan* had determined to send Ghâzy Khân, with no more than his own *Risála* of *Kuzzáks*, or *Looties*, to join Bûrhânûddeen's division : but, either in consequence of some intelligence of the enemy's motions, received subsequently to the dispatch of Letter CCCLXXII, or with a view to render the junction of his brother-in-law with his own army more secure and easy, he next day changes his plan, and resolves on re-inforcing the latter, to the extent which has been seen. It does not appear, either from the correspondence or from the *Sultan's* own Memoirs, where Bûrhânûddeen was at this time, or when his junction with the “victorious” army was effected.
 
-### Letter 369: RÂJAH RÂM CHUNDUR
+### Letter 373: RÂJAH RÂM CHUNDUR
 
 * * *
 
-### LETTER CCCLXXIV.
+#### LETTER CCCLXXIV.
 
-### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span>; *dated* 27*th WÁSAAEY.* (26*th September.*)
+#### *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span>; *dated* 27*th WÁSAAEY.* (26*th September.*)
 
 <span class="small-caps">YOUR</span> letter, acknowledging the receipt of our orders for putting Meer Ali, the second *Bukhshy* of the *Ehshám*, into possession of a spacious dwelling-house [at *Bangalore*], has passed under [our] view. You state “that the aforesaid *Bukhshy* has pointed out the house of the “*Khidmutgár Behádúr*, as being, on account of its size, well suited to “the accommodation of his numerous family, and that he has accordingly “applied for the same.”
 
@@ -7225,13 +7236,13 @@ You must inform us, [previously to our giving our orders on this subject], in wh
 
 N.B. A letter, requiring the same information with regard to this house, was written to Peer Khân, the *Kilaadár* of *Bangalore*. It may hence be inferred, that the *Sultan*, however willing he might be to accommodate the *Bukhshy* with a suitable residence, suspected the one pointed out by the latter himself to be too good for him. It also appears, that the *Sultan* did not think proper to rely on the single report of Râm Chundur, even in so trivial a matter.
 
-### Letter 370: SYED MAHOMMED
+### Letter 374: SYED MAHOMMED
 
 * * *
 
-### LETTER CCCLXXV.
+#### LETTER CCCLXXV.
 
-### *To* <span class="small-caps">SYED MAHOMMED</span>, *KILAADÂR of SERINGAPATAM; dated* 28*th* *WÂSAAEY*. (27*th September*.)
+#### *To* <span class="small-caps">SYED MAHOMMED</span>, *KILAADÂR of SERINGAPATAM; dated* 28*th*<br />*WÂSAAEY*. (27*th September*.)
 
 <span class="small-caps">BUHÂÛDDEEN</span> and Kustoory Runga, who were sent [some time since] to *Bengal*, for the purpose of procuring silk-worms, are now on their return [to *Seringapatam*], by the way of *Sedhout*. On their arrival, you must ascertain from them the proper situation in which to keep the aforesaid worms, and provide accordingly. You must, moreover, supply for their food [leaves of] the wood or wild mulberry-trees, which were formerly ordered to be planted [for this purpose]. The number of silk-worms brought from *Bengal* must likewise be distinctly reported to us. We desire, also, to know, in what kind of place it is recommended to keep them, and what means are to be pursued for multiplying them.
 
@@ -7239,21 +7250,21 @@ There is a vacant spot of ground behind the old palace, lately used as a *Tosheh
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 When the peculiar circumstances, under which the foregoing letter was written, are adverted to, it will, no doubt, be allowed to furnish a striking proof, both of the coolness and activity of the *Sultan's* mind. He was, at the date of it, not only deliberating on the measures to be pursued with respect to *Shânoor*; in planning the future operations of the war in which he was engaged; and in providing for the safety of Bûrhânûddeen's army; but he was, in fact, on the eve of a general engagement with the Mahrattahs. Yet all these important and urgent considerations united, were not capable of diverting his attention from any of the minor objects of his interest. Thus, in the bustle of a camp, and in the face of an enemy, he could find leisure, and was sufficiently composed, to meditate on the rearing of silk-worms. This, indeed, was a very favorite, though, I believe, an unsuccessful pursuit with the *Sultan*; who actually established, or proposed to establish, no less than twenty-one principal stations within his dominions, where the breeding of the silk-worm was directed to be attended to with the utmost care and diligence. These stations are specified in one of the sections of the instructions issued to the *Meer Asof*, or revenue department, in the year 1794.
 
-### Letter 371: BÛRHÂNÛDDEEN
+### Letter 375: BÛRHÂNÛDDEEN
 
 * * *
 
-### LETTER CCCLXXVI. *To* BÛRHÂNÛDDEEN; *same Date. (27th September.)*
+#### LETTER CCCLXXVI.<br />*To* BÛRHÂNÛDDEEN; *same Date. (27th September.)*
 
 W<span class="small-caps">E</span> hear that, besides Holkar, another body of the enemy's force is in motion towards you: you must, therefore, be extremely vigilant. We have dispatched Ghâzy Khân with four *Kushoons* to re-inforce you. Uniting this detachment to your army, you will come on [towards us] with the utmost circumspection.
 
 * * *
 
-### LETTER CCCLXXVII. *To* M<span class="small-caps">EER</span> A<span class="small-caps">LI</span>, *Second* B<span class="small-caps">UKHSHY</span> *of* E<span class="small-caps">HSHÂM</span> *at* B<span class="small-caps">ANGALORE</span>; *dated* *2d* Z<span class="small-caps">UBURJUDY</span>. *(1st October.)* (E<span class="small-caps">XTRACTS</span>.)
+### LETTER CCCLXXVII.<br />*To* M<span class="small-caps">EER</span> A<span class="small-caps">LI</span>, *Second* B<span class="small-caps">UKHSHY</span> *of* E<span class="small-caps">HSHÂM</span> *at* B<span class="small-caps">ANGALORE</span>; *dated*<br />*2d* Z<span class="small-caps">UBURJUDY</span>. *(1st October.)*<br />(E<span class="small-caps">XTRACTS</span>.)
 
 Y<span class="small-caps">OUR</span> two letters, accompanied by a sample of the provisions laid in at *Sáwundy-doorg [Sevendoorg]*, and by an inventory of the same, have been received. The answer, however, to all the long and tedious stories[^fn-p0480-1] contained in those dispatches, is to be found in the written instructions to your *Kuchurry* [department]. Peruse, and act in conformity with them.
 
@@ -7267,41 +7278,41 @@ After inspecting *Sevendoorg*, you must hasten back to *Bangalore*, and there ap
 
 * * *
 
-### Letter 372: SYED MAHOMMED
+### Letter 377: SYED MAHOMMED
 
-### LETTER CCCLXXVIII.
+#### LETTER CCCLXXVIII.
 
-### *To <span class="small-caps">SYED MAHOMMED</span>, <span class="small-caps">KILAADÂR</span> of <span class="small-caps">SERINGAPATAM</span>; dated 6th <span class="small-caps">ZUBURJUDY</span>. (5th October.)*
+#### *To <span class="small-caps">SYED MAHOMMED</span>, <span class="small-caps">KILAADÂR</span> of <span class="small-caps">SERINGAPATAM</span>; dated 6th<br /><span class="small-caps">ZUBURJUDY</span>. (5th October.)*
 
 <span class="small-caps">BY</span> the favor of the Divine Aider, what you related respecting Roopa is about to take place. Almighty God has always governed, and will continue to govern, the seven climates[^fn-p0480-2] of the earth, by the hands of his own [true] worshippers. The *Nuzr* of five *rupees*, which you sent on occasion of the aforementioned omen, has been received.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Tippoo Sultan is well known to have been extremely superstitious, and to have placed great faith in dreams and omens ; and Syed Mahommed was, probably, no less prone to believe in them than his master. The omen here alluded to was, of course, an auspicious one ; and, accordingly, the prognostic, whatever it was, would be supposed to have been in part fulfilled, by the victory which had been obtained over the Mahrattahs, only a few days before the date of the present letter,[^fn-p0481-1] and of which we shall soon have occasion to take more particular notice.
 
 * * *
 
-### Letter 373: MAHOMMED USHRUF
+### Letter 378: MAHOMMED USHRUF
 
-### LETTER CCCLXXIX.
+#### LETTER CCCLXXIX.
 
-### *To* <span class="small-caps">MAHOMMED USHRUF</span>, *DEWÂN of* <span class="small-caps">FYZE-HISÁR</span> (<span class="small-caps">GOOTY</span>) ; *same Date. (5th October.)*
+#### *To* <span class="small-caps">MAHOMMED USHRUF</span>, *DEWÂN of* <span class="small-caps">FYZE-HISÁR</span> (<span class="small-caps">GOOTY</span>) ; *same<br />Date. (5th October.)*
 
 <span class="small-caps">WHAT</span> you mention, respecting your having advanced fifty thousand *rupees* to Kûtbûddeen Khân, the *Jagiredár* of *Adoni*, as well as what you state with regard to your having seventy thousand *rupees* more ready, in your *Tosheh-kháneh* [or treasury], and to the dispatch of your people [into the country], for the purpose of collecting the revenues, has afforded us satisfaction, and meets our approbation.
 
 You write, “ that, owing to the want of rain, it is to be apprehended “ that there may be some delay in realizing the revenue.” It is known. You must write to the *Aumils* of the several *Taalúks*, and direct them to distribute grain, &c. in charity. Almighty God will, in his great goodness and mercy, bestow the rain of his bounteousness [upon us].
 
-### Letter 374: Monsieur Cossigny
+### Letter 379: Monsieur Cossigny
 
-### LETTER CCCLXXX.
+#### LETTER CCCLXXX.
 
-### *To* <span class="small-caps">Monsieur Cossigny</span>; *dated* 11*th* <span class="small-caps">Zuburjudy</span>. (10*th October*.)
+#### *To* <span class="small-caps">Monsieur Cossigny</span>; *dated* 11*th* <span class="small-caps">Zuburjudy</span>. (10*th October*.)
 
 <span class="small-caps">At</span> this time, the rulers of *Poonah*, notwithstanding the innumerable favors [for which they are indebted to us], uniting with the forces of Nizâm Ali Khân, came and confronted our victorious army. With the aid and power of God, we were enabled, in a single assault, to establish our camp on the ground which they had occupied, and to give them a signal defeat. Upon this they took to flight, and we are now engaged in a close pursuit of them.
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It is probable, that the action, here alluded to, was brought on by an attempt, on the part of the Mahrattahs, to prevent the junction of Bûrhânûddeen with the army of the *Sultan*. However this may have been, it seems pretty clear, from the words, “ *came* and confronted our army,” which occur in the foregoing brief notice of this engagement, that the Mahrattahs had advanced to meet the *Sultan*, in the position which the latter had taken up near *Shánoor*.
 
@@ -7313,11 +7324,11 @@ The following letter, though dated nearly a month later than the foregoing one t
 
 * * *
 
-### Letter 375: MAHOMMED BAIG KHÂN HUMDÂNY
+### Letter 380: MAHOMMED BAIG KHÂN HUMDÂNY
 
-### LETTER CCCLXXXI.
+#### LETTER CCCLXXXI.
 
-### *To* <span class="small-caps">MAHOMMED BAIG KHÂN HUMDÂNY</span> *and others; dated* 9*th* <span class="small-caps">HYDERY</span>. (6*th November*.) (<span class="small-caps">CIRCULAR</span>.)
+#### *To* <span class="small-caps">MAHOMMED BAIG KHÂN HUMDÂNY</span> *and others; dated* 9*th*<br /><span class="small-caps">HYDERY</span>. (6*th November*.)<br />(<span class="small-caps">CIRCULAR</span>.)
 
 N<span class="small-caps">OT</span> long since, the ministers[^fn-p0483-1] of the state of *Poonah*, forgetting their innumerable obligations to me,[^fn-p0483-2] and joining with Nizâm Ali Khân, advanced vanced with a hundred thousand horse, and [a numerous train of] artillery, into the country belonging to me, spreading destruction wherever they came. Upon this I marched to repel the aggression; proceeding, in the first instance, against *Adoni*, a strong place in the possession of Nizâm Ali Khân, to which I laid siege. About the same time, Nizâm Ali Khân, apprehensive for the security of his nephew, and of the females of his late brother's [Busâlut Jung's] family, who were then shut up in the fort [of *Adoni*], dispatched his *whole* army, under the command of his [youngest] brother, Moghul Ali Khân, for the purpose of removing them from thence. This army proceeded accordingly by a route leading along the skirts of the mountains, which served to cover their march. In this manner they reached *Adoni* [in safety], and taking from thence Mohâbut Jung[^fn-p0484-1] and the women, hastened with them, night and day,[^fn-p0484-2] and [as before] under the protection of the mountains, to *Hyderabad*. I pursued the fugitives to the banks of the *Tungbuddra*; much of their baggage and cattle falling, by the way, into the hands of my people. The fort of *Adoni* was likewise captured on this occasion.
 
@@ -7365,11 +7376,11 @@ The *Sultan* would not seem, even by his own narrative, to have followed up the 
 
 * * *
 
-### Letter 376: MEER ALI
+### Letter 381: MEER ALI
 
-### LETTER CCCLXXXII.
+#### LETTER CCCLXXXII.
 
-### *To* <span class="small-caps">MEER ALI</span>, *Second* <span class="small-caps">BUKHSHY</span> *of* <span class="small-caps">EHSHÂM</span> *at* <span class="small-caps">BANGALORE</span> ; *dated* *18th* <span class="small-caps">ZUBURJUDY</span>. (*17th October.*)
+#### *To* <span class="small-caps">MEER ALI</span>, *Second* <span class="small-caps">BUKHSHY</span> *of* <span class="small-caps">EHSHÂM</span> *at* <span class="small-caps">BANGALORE</span> ; *dated*<br />*18th* <span class="small-caps">ZUBURJUDY</span>. (*17th October.*)
 
 <span class="small-caps">YOUR</span> going about to the forts by yourself, and your investigating the accounts of the same, without being accompanied by the first *Bukhshy*, is not proper. Repair to *Bangalore*, and after finally settling the accounts of that fort, proceed with the first *Bukhshy*, and in conjunction with him, examine minutely into those of the other places [within your jurisdiction].
 
@@ -7377,9 +7388,9 @@ N.B. Several letters appear at this period, acknowledging the *Sultan’s* recei
 
 * * *
 
-### Letter 377: Budrûz Zumân Khân
+### Letter 382: Budrûz Zumân Khân
 
-### LETTER CCCLXXXIII.
+#### LETTER CCCLXXXIII.
 
 *To* <span class="small-caps">Budrûz Zumân Khân</span>; *dated* 23*d* <span class="small-caps">Zuburjudy</span>. (22*d* October.)
 
@@ -7393,25 +7404,25 @@ Demolish the fort of *Kittoor*. Seize upon the disturbers of the country, and in
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Whether Budrûz Zumân Khân joined the *Sultan’s* army at the same time with Bûrhânûddeen, and was now sent back to his government ; or whether he had, all along, continued there, I am unable to determine. The circumstance, however, of his not being named by the *Sultan*, in the latter’s account of the battle of *Shánoor*, strongly indicates, that he did not participate in the honors of that day, since, if he had been present, it is most probable that he would have had a conspicuous station assigned to him on the occasion. I am equally ignorant, where Kumrûddeen Khân was at this period : but as it may be presumed, that, if he had been employed on a separate command, some letters to his address would have appeared in the collection, it is most likely, that he had remained in attendance upon the *Sultan* since the time of his return from the siege of *Nergúnd*. There is, indeed, reason to believe, that although he was occasionally placed at the head of an army, he was never much trusted by the *Sultan*, who appears to have entertained no very favorable opinion of his talents. This is particularly evinced in some minutes of a consultation, dated in 1794, in which the *Meer’s* incapacity is pretty plainly insinuated by the majority of the subscribing counsellors.
 
-### Letter 378: Monsieur Cossigny
+### Letter 383: Monsieur Cossigny
 
-### LETTER CCCLXXXIV.
+#### LETTER CCCLXXXIV.
 
-### *To* <span class="small-caps">Monsieur Cossigny</span> ; *dated 24th* <span class="small-caps">Zuburjudy</span>. (23*d October*.)
+#### *To* <span class="small-caps">Monsieur Cossigny</span> ; *dated 24th* <span class="small-caps">Zuburjudy</span>. (23*d October*.)
 
 <span class="small-caps">The</span> persons to be dispatched to Europe have been fixed on by *the Presence*, and will accordingly soon proceed from hence, and arrive [at *Pondicherry*]. When they arrive [there], you must send them to Europe, along with M. Perron,[^fn-p0495-1] who [we understand] is about to repair thither.
 
 * * *
 
-### Letter 379: Syed Ahmed Saheb / Boodhun Shâh / Nubby Shâh / Kuleem-ûllah Shâh
+### Letter 384: Syed Ahmed Saheb / Boodhun Shâh / Nubby Shâh / Kuleem-ûllah Shâh
 
-### LETTER CCCLXXXV.
+#### LETTER CCCLXXXV.
 
-### *To* <span class="small-caps">Syed Ahmed Saheb</span>, <span class="small-caps">Boodhun Shâh</span>, <span class="small-caps">Nubby Shâh</span>, <span class="small-caps">Kuleem-ûllah Shâh</span>, *and others* (*<span class="small-caps">Peer-zâdehs</span> or Devotees*) ; *dated from* <span class="small-caps">Shânoor</span>, *24th* <span class="small-caps">Zuburjudy</span>. (23*d October*.)
+#### *To* <span class="small-caps">Syed Ahmed Saheb</span>, <span class="small-caps">Boodhun Shâh</span>, <span class="small-caps">Nubby Shâh</span>, <span class="small-caps">Kuleem-ûllah Shâh</span>, *and others* (*<span class="small-caps">Peer-zâdehs</span> or Devotees*) ; *dated from* <span class="small-caps">Shânoor</span>, *24th* <span class="small-caps">Zuburjudy</span>. (23*d October*.)
 
 [*All of the same tenor*.]
 
@@ -7423,25 +7434,25 @@ N. B. Here follows an inventory of the presents, respectively, sent to the perso
 
 * * *
 
-### Letter 380: Mohyûddeen Ali Khân / Chishty-yâr Khân / Râjah Râm Chundur / Nursia
+### Letter 385: Mohyûddeen Ali Khân / Chishty-yâr Khân / Râjah Râm Chundur / Nursia
 
-### LETTER CCCLXXXVI.
+#### LETTER CCCLXXXVI.
 
-### *To* <span class="small-caps">Mohyûddeen Ali Khân</span>, *<span class="small-caps">Dewán</span> of <span class="small-caps">Kurpah</span>*, <span class="small-caps">Chishty-yâr Khân</span>, <span class="small-caps">Râjah Râm Chundur</span>, <span class="small-caps">Nursia</span>, *and others; dated from* *<span class="small-caps">Shánoor</span>*, 26*th* <span class="small-caps">Zuburjudy</span>. (25*th October*.)
+#### *To* <span class="small-caps">Mohyûddeen Ali Khân</span>, *<span class="small-caps">Dewán</span> of <span class="small-caps">Kurpah</span>*, <span class="small-caps">Chishty-yâr Khân</span>, <span class="small-caps">Râjah Râm Chundur</span>, <span class="small-caps">Nursia</span>, *and others; dated from* *<span class="small-caps">Shánoor</span>*, 26*th* <span class="small-caps">Zuburjudy</span>. (25*th October*.)
 
 (<span class="small-caps">Circular</span>.)
 
 <span class="small-caps">A Paper</span>, containing the *Khútbah* [or form of prayer to be read in the mosques], is enclosed. Give strict orders to the *Khátibs* [or reciters of the *Khútbah*] belonging to your *Kuchurry*, to recite the *Khútbah* regularly, after the praises of God and the Prophet, according to the accompanying form.
 
-### OBSERVATIONS.
+###### OBSERVATIONS.
 
 The form of prayer here referred to does not appear; but it is most probable, that it appointed the *Sultan's* own name to be substituted in place of Shâh Allum's. If such was the case, it may be presumed, that, although this measure seems to have been determined on by Tippoo, so far back as July 1786,[^fn-p0496-1] he had not hitherto carried it into effect; at least not throughout the whole of his dominions. Being now elated with his recent successes against the Mahrattahs, he might, perhaps, think the occasion peculiarly favorable to the complete and final execution of his purpose.
 
-### Letter 381: Shánoor-Man / Abdûl Hukeem Khân
+### Letter 386: Shánoor-Man / Abdûl Hukeem Khân
 
-### LETTER CCCLXXXVII.
+#### LETTER CCCLXXXVII.
 
-### *To the* *<span class="small-caps">Shánoor</span>*-*Man* (*i. e.* <span class="small-caps">Abdûl Hukeem Khân</span>) ; *same Date.*
+#### *To the* *<span class="small-caps">Shánoor</span>*-*Man* (*i. e.* <span class="small-caps">Abdûl Hukeem Khân</span>) ; *same Date.*
 
 *(25th October.)*
 
@@ -7449,27 +7460,27 @@ The form of prayer here referred to does not appear; but it is most probable, th
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Whatever message Abdûl Hukeem Khân may have sent to the *Sultan*, it is difficult to believe, after what had passed, that he should have entertained a serious intention of putting himself again in the power of the latter. He may, indeed, have been disappointed in his expectations from the Mahrattahs ; but he probably knew the *Sultan* too well, to hope for any better treatment, in the event of his return to *Shánoor*. Be this as it might, it is certain that he did not return thither till the conclusion of the war.
 
-### Letter 382: Râjah Râm Chundur
+### Letter 387: Râjah Râm Chundur
 
-### LETTER CCCLXXXVIII.[^fn-p0498-1]
+#### LETTER CCCLXXXVIII.[^fn-p0498-1]
 
 *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated 1st* <span class="small-caps">Hydery.</span> (*29th October.*)
 
 <span class="small-caps">Directing</span> him to issue strict orders to the different *Aumils* within his jurisdiction, to enroll [or impress] all such *Piadehs*[^fn-p0498-2] and *Coolies* as might be found concealed in the dress [or under the disguise] of peasants.
 
-### OBSERVATIONS.
+###### OBSERVATIONS.
 
 This letter would seem to show, that it was not unusual with Tippoo Sultan's government to press into the public service, not only labourers and carriers of burdens (a custom, by the bye, very generally obtaining throughout India), but also fighting men, for the purpose of recruiting the army. It might likewise be inferred from this document, that neither of the oppressive practices in question was liable to affect the real peasant. I am, nevertheless, doubtful, how far either of these conclusions would be correct; and am, indeed, rather led to think, from various passages in the correspondence, that there was no period of the *Sultan's* reign, in which the peasantry, or *Ryots* (as they are called in the original), were *bonâ fide* exempt from compulsory service, as laborers or artizans. It is, on the other hand, not impossible, that the present order for impressing soldiers might be no more than a temporary expedient, suggested by the exigencies of the war: and, at any rate, it would appear to have extended only to such persons as had formerly borne arms, but were become, from whatever motives, averse to the resumption of them.
 
 * * *
 
-### Letter 383: Bukhshy of Ehshâm
+### Letter 388: Bukhshy of Ehshâm
 
-### LETTER CCCLXXXIX.
+#### LETTER CCCLXXXIX.
 
 *To the* <span class="small-caps">Bukhshy</span> *of* <span class="small-caps">Ehshâm</span> *at* <span class="small-caps">Gooty</span>; *same Date.* (*29th October.*)
 
@@ -7477,9 +7488,9 @@ This letter would seem to show, that it was not unusual with Tippoo Sultan's gov
 
 * * *
 
-### Letter 384: RÂJAH RÂM CHUNDUR
+### Letter 389: RÂJAH RÂM CHUNDUR
 
-### LETTER CCCXC.
+#### LETTER CCCXC.
 
 *To* <span class="small-caps">RÂJAH RÂM CHUNDUR</span>; *dated 4th* <span class="small-caps">HYDERY</span>. (*1st November.*)
 
@@ -7487,20 +7498,20 @@ This letter would seem to show, that it was not unusual with Tippoo Sultan's gov
 
 * * *
 
-### Letter 385: MOHYÛDDEEN ALI KHÂN
+### Letter 390: MOHYÛDDEEN ALI KHÂN
 
-### LETTER CCCXCI.
+#### LETTER CCCXCI.
 
 *To* <span class="small-caps">MOHYÛDDEEN ALI KHÂN</span>, *<span class="small-caps">DEWÂN</span> of <span class="small-caps">KURPAH</span>; dated 7th*  
 <span class="small-caps">HYDERY</span>. (*4th November.*)
 
 <span class="small-caps">YOUR</span> letter, praying to be allowed the use of ten *Bándárs* [rocket-men] for the services of your house and gardens, has passed under our view. *Bándárs* are entertained for fighting, not for looking after houses and gardens. You must employ the *Piádehs* stationed with you in the services you mention.
 
-### Letter 386: Meer Moaayenûddeen Khân
+### Letter 391: Meer Moaayenûddeen Khân
 
-### LETTER CCCXCII.
+#### LETTER CCCXCII.
 
-### *To* <span class="small-caps">Meer Moaayenûddeen Khân</span> ; *same Date. (4th November.)*
+#### *To* <span class="small-caps">Meer Moaayenûddeen Khân</span> ; *same Date. (4th November.)*
 
 <span class="small-caps">Send</span> and station the bullocks belonging to the great guns, and also those attached to your own *Kushoon*, together with their *Dároghas* and drivers, into the rear of our special tents [or of the head-quarters], where, at the extremity of the army encampment, there is a spot abounding in grass, which will afford the cattle [good] pasturage. In that friend’s present situation, there is no grass but what is at a great distance. Here it is at hand ; by which means the cattle will [soon] get into good condition. When you march again, or if you should want them for any particular purpose, you can send and order them to rejoin you.
 
@@ -7508,19 +7519,19 @@ N.B. A similar order appears to have been addressed, at the same time, to Bûrh�
 
 * * *
 
-### Letter 387: Mahommed Ushruf
+### Letter 392: Mahommed Ushruf
 
-### LETTER CCCXCIII.
+#### LETTER CCCXCIII.
 
-### *To* <span class="small-caps">Mahommed Ushruf</span> ; *dated 9th* <span class="small-caps">Hydery</span>.[^fn-p0500-1] (*6th November.*)
+#### *To* <span class="small-caps">Mahommed Ushruf</span> ; *dated 9th* <span class="small-caps">Hydery</span>.[^fn-p0500-1] (*6th November.*)
 
 <span class="small-caps">Your</span> letter, enclosing a statement of the demands against the superseded *Aumil* of *Sumrputn*,[^fn-p0500-2] has been received, and has made us acquainted with the particulars of his embezzlements. Let the claims of the *Sircar* upon the aforesaid *Aumil* and others be realized, by means of flogging.
 
-### Letter 388: Zynûl Aabideen
+### Letter 393: Zynûl Aabideen
 
-### LETTER CCCXCIV.
+#### LETTER CCCXCIV.
 
-### *To* <span class="small-caps">Zynûl Aabideen</span>, *Taalûkdâr of Gûlshumâbâd; same Date.*
+#### *To* <span class="small-caps">Zynûl Aabideen</span>, *Taalûkdâr of Gûlshumâbâd; same Date.*
 
 *(6th November.)*
 
@@ -7528,15 +7539,15 @@ N.B. A similar order appears to have been addressed, at the same time, to Bûrh�
 
 <span class="small-caps">In</span> compliance with your application for an order to the *Aumil* of *Khan-Khanhully*, to furnish you with two more iron boilers,[^fn-p0501-1] which you represent to be necessary, on account of the increase in the number of horses under your charge, we have written, and now enclose, the requisite letter to the aforesaid *Aumil*, to whom you will forward it. The boilers in question must, however, be *paid* for, at the time of their being delivered to your people.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 There appears to have been a great iron-foundery and manufactory established *Khan-Khanhully*,[^fn-p0501-2] the business of which was, I believe, conducted on account, and for the exclusive benefit of, the *Sultan’s* government. There is, no doubt, some difficulty in understanding why an article, purchased, in fact, *of the Sultan*, and *for his* service, should be actually paid for in money, when a simple order to the directors of the works to furnish such articles, would apparently have answered the purpose as well. A similar practice, however, seems to have prevailed in other departments of the government; and the object of it might possibly have been to preserve the accounts of the proceeds or profits of the monopolies in question, as distinctly as possible.
 
-### Letter 389: Soojân Râe / Moal Chund
+### Letter 394: Soojân Râe / Moal Chund
 
-### LETTER CCCXCV.
+#### LETTER CCCXCV.
 
-### *To* <span class="small-caps">Soojân Râe</span> *and* <span class="small-caps">Moal Chund</span>, *Agents at Dehli; same Date.*
+#### *To* <span class="small-caps">Soojân Râe</span> *and* <span class="small-caps">Moal Chund</span>, *Agents at Dehli; same Date.*
 
 (6*th November.*)
 
@@ -7546,16 +7557,18 @@ The letters to which numerical powers are assigned are stated to be thirty; bein
 
 The foregoing rule is conveyed in the following verses, which are inserted here for the gratification of the Persian reader. Whether they may be considered as a specimen of the *Sultan's* poetical talent I cannot affirm; but, however this may be, they do no great credit to their author.
 
-چو سازي نظر در کلام الله  
-که سي حرف هستند با سلسله  
-بطبق حروف مسلسل حساب  
-بفرمود سلطان علي جناب  
-احاد است نه حرف اول بدان  
-بود عشر نه حرف دیگر از آن  
-مایه حرف بعد از آن در شمار  
-بود يي الف بشمر اي مرد کار  
-که هست لام الف نیم و همزه دکر  
-بود ربع نامش نهادند زر
+> **[verse_insert]**
+>
+> چو سازي نظر در کلام الله  
+> که سي حرف هستند با سلسله  
+> بطبق حروف مسلسل حساب  
+> بفرمود سلطان علي جناب  
+> احاد است نه حرف اول بدان  
+> بود عشر نه حرف دیگر از آن  
+> مایه حرف بعد از آن در شمار  
+> بود يي الف بشمر اي مرد کار  
+> که هست لام الف نیم و همزه دکر  
+> بود ربع نامش نهادند زر
 
 It would appear by these verses, that this scheme of notation was invented, or, at least, first established, by Tippoo Sultan, who may possibly have given it the name of *Hisáb e Zur*, or the golden computation, in allusion to the circumstance of its being composed of the letters used in the *Koran*; which is not so exactly the case in the *Ubjud* scheme, as by that both *lám-alif* and *humza* are rejected.
 
@@ -7563,41 +7576,41 @@ The remainder of this letter is occupied by an enumeration of the names of the m
 
 * * *
 
-### Letter 390: Mahommed Ushruf
+### Letter 395: Mahommed Ushruf
 
-### LETTER CCCXCVI.
+#### LETTER CCCXCVI.
 
-### *To* <span class="small-caps">Mahommed Ushruf</span>; *dated* 11*th* <span class="small-caps">Hydery</span>. (8*th November*.)
+#### *To* <span class="small-caps">Mahommed Ushruf</span>; *dated* 11*th* <span class="small-caps">Hydery</span>. (8*th November*.)
 
 <span class="small-caps">Your</span> humble address has passed under our view, by which we perceive that you have dispatched the account [of sales] of the shops[^fn-p0503-1] belonging to the *Sircar* [*i. e.* to us].
 
 You write, that “ there is no *Mútusuddy* appointed for keeping the “ accounts of the *Tosheh-kháneh*, and that, with our leave, you will “ employ a *Serishtedár*[^fn-p0503-2] for the purpose; otherwise, you request that “ some one may be nominated and dispatched from the Presence.” It is known. If you will refer to your *Húkm-námeh* [or instructions] you will find it written there, “ that a separate *Mútusuddy* for keeping the “ accounts of the *Tosheh-kháneh* is unnecessary, and that this duty is “ to be performed by one of the numerous *Serishtedárs* of the *Muháls* “ [or revenue officers].” That you should propose, notwithstanding this [regulation], to employ a separate *Mútusuddy*, can be attributed to no other cause than ignorance and want of understanding. Look into your instructions, and act agreeably to them.
 
-### Letter 391: Râjah Râm Chundur
+### Letter 396: Râjah Râm Chundur
 
-### LETTER CCCXCVII.
+#### LETTER CCCXCVII.
 
-### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated* 19*th* <span class="small-caps">Hydery</span>. (16*th November*.)
+#### *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated* 19*th* <span class="small-caps">Hydery</span>. (16*th November*.)
 
 <span class="small-caps">Your</span> letter, enclosing one to you from the *Aumil* of *Kunucky*, on the subject of the disturbances excited by the fugitive *Polygar* of that district, has been received. What are you and Turbiyut Ali Khân about, that you do not issue the most rigid orders on this occasion, and see this business properly settled?
 
 * * *
 
-### Letter 392: Boodhun Shâh
+### Letter 397: Boodhun Shâh
 
-### LETTER CCCXCVIII.
+#### LETTER CCCXCVIII.
 
-### *To* <span class="small-caps">Boodhun Shâh</span>; *dated from* <span class="small-caps">Shânoor</span>, 22*d* <span class="small-caps">Hydery</span>. (19*th November*.)
+#### *To* <span class="small-caps">Boodhun Shâh</span>; *dated from* <span class="small-caps">Shânoor</span>, 22*d* <span class="small-caps">Hydery</span>.<br />(19*th November*.)
 
 <span class="small-caps">The</span> names of the chiefs of the enemy, who are, at this time, suffering under the wounds inflicted upon them by us, are Bâlâjee Phurnuweese[^fn-p0504-1] and Mâdho Râo[^fn-p0504-2]. Be your reverence earnestly intent on [praying for] the confusion [or disgrace] of the enemy, and the splendor and increase of the true religion of Mahommed.
 
 * * *
 
-### Letter 393: Monsieur Moneron
+### Letter 398: Monsieur Moneron
 
-### LETTER CCCXCIX.
+#### LETTER CCCXCIX.
 
-### *To* <span class="small-caps">Monsieur Moneron</span>, *Fringy, at* <span class="small-caps">Pondicherry</span>; *same Date*.
+#### *To* <span class="small-caps">Monsieur Moneron</span>, *Fringy, at* <span class="small-caps">Pondicherry</span>; *same Date*.
 
 <span class="small-caps">The</span> humble address which you sent [to us] has passed under our view; and what you represented therein has been comprehended. Your account of passing occurrences, and of your having written, and dispatched to *Europe*, all particulars relating to our friendly disposition [towards the French nation], as well as your information regarding the ships of war coming to these parts, are all made known.
 
@@ -7615,11 +7628,11 @@ You write, “ that five thousand soldiers' musquets will arrive imme-“ diatel
 
 * * *
 
-### Letter 394: SHUMSÛDDEEN
+### Letter 399: SHUMSÛDDEEN
 
-### LETTER CCCC.
+#### LETTER CCCC.
 
-### *To* <span class="small-caps">SHUMSÛDDEEN</span>, *and others* (*Dâroghas of the Tosheh-khâneh at Seringapatam*); *dated from Shânoor*, 22*d Hydery*. (19*th November*.)
+#### *To* <span class="small-caps">SHUMSÛDDEEN</span>, *and others* (*Dâroghas of the Tosheh-khâneh at Seringapatam*); *dated from Shânoor*, 22*d Hydery*. (19*th November*.)
 
 (<span class="small-caps">EXTRACT</span>.)
 
@@ -7629,17 +7642,17 @@ We wrote to you, some time since,[^fn-p0506-2] directing you to prepare and keep
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Notwithstanding these ostensible, and, perhaps, sincerely-meant preparations for executing the pious work alluded to, there is reason to believe, as has been elsewhere stated, that it was never carried into effect.
 
 * * *
 
-### Letter 395: Ghûlâm Ali Khân / Lûtf Ali Khân / Shâh Noorûllah
+### Letter 400: Ghûlâm Ali Khân / Lûtf Ali Khân / Shâh Noorûllah
 
-### LETTER CCCCI.
+#### LETTER CCCCI.
 
-### *To* <span class="small-caps">Ghûlâm Ali Khân</span>, <span class="small-caps">Lûtf Ali Khân</span>, *and* <span class="small-caps">Shâh Noorûllah</span>;
+#### *To* <span class="small-caps">Ghûlâm Ali Khân</span>, <span class="small-caps">Lûtf Ali Khân</span>, *and* <span class="small-caps">Shâh Noorûllah</span>;
 
 *same Date.* (*19th November.*)
 
@@ -7657,57 +7670,57 @@ N.B. There was added to the foregoing letter a similar account of the battle of 
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It is remarkable, that although the *Sultan* had, at this time, dispatched another embassy, by sea, to *France*, he does not, on the present occasion, intimate any intention of recalling Ghûlâm Ali and his associates. On the contrary, he speaks of their arrival in *France* as an event still in his contemplation, though apparently distant. The reason, perhaps, of his not yet revoking the mission of the latter, was, that the new embassy, though appointed and now actually on its road to *Pondicherry*, was likely to be detained a considerable time at that place, and might, by a variety of accidents, be eventually altogether defeated. In fact, it did not take its departure from the *French* presidency till the middle of the year 1787.
 
 * * *
 
-### Letter 396: Urshud Baig Khân
+### Letter 401: Urshud Baig Khân
 
-### LETTER CCCCII.
+#### LETTER CCCCII.
 
-### *To* <span class="small-caps">Urshud Baig Khân</span>, *<span class="small-caps">Aumil</span> of <span class="small-caps">Calicut</span>; dated* 25*th* <span class="small-caps">Hydery</span>. (22*d November*.)
+#### *To* <span class="small-caps">Urshud Baig Khân</span>, *<span class="small-caps">Aumil</span> of <span class="small-caps">Calicut</span>; dated* 25*th* <span class="small-caps">Hydery</span>.<br />(22*d November*.)
 
 <span class="small-caps">Enclosed</span> is a letter which we have received from Gopa, the *Aumil* of *Koorumnâd*, relating to the depredations of the robbers and highwaymen [who infest that district]. Peruse the same, and settle the business. Such of the authors of[^fn-p0509-1] [or principle actors in] these flagitious proceedings *as have been already killed, are killed*. But why should the remainder of them, on being made prisoners, be put to death? Their proper punishment is this. Let the dogs, both *black and white*, be regularly dispatched to *Seringapatam*.[^fn-p0509-2]
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 As we may be pretty certain, that it was not the object of the present order to extend any lenity to the offenders in question, it would not be easy to guess what sort of punishment was intended for them upon their arrival at *Seringapatam*. It is equally difficult to explain, what the *Sultan* meant by *black and white dogs*; since the solution of the matter which occurs to me (namely, that of the European settlers on the coast of *Malabar* being alluded to by the latter term) would not seem to be admissible in the present instance. Is it possible that, by the *white dogs*, he could intend the native Christians of *Malabar*? This supposition is, it must be owned, opposed by a strong fact; which is, that the Christians in question are as black as any other people in *India*: so that, if they were in the contemplation of the *Sultan*, he must have employed the words “white dogs” in the way of metonymy, or as another designation for *Nazarenes* or Christians.
 
 * * *
 
-### Letter 397: Mahommed Eesau
+### Letter 402: Mahommed Eesau
 
-### LETTER CCCCIII.
+#### LETTER CCCCIII.
 
-### *To* <span class="small-caps">Mahommed Eesau</span>, *<span class="small-caps">Aumil</span> of* <span class="small-caps">Ufzulábád Nugr</span>; *dated 27th* <span class="small-caps">Hydery</span>. (*24th November.*)
+#### *To* <span class="small-caps">Mahommed Eesau</span>, *<span class="small-caps">Aumil</span> of* <span class="small-caps">Ufzulábád Nugr</span>; *dated 27th* <span class="small-caps">Hydery</span>. (*24th November.*)
 
 <span class="small-caps">The</span> account of the cardamum reaping is fully understood. When we [some time since] gave [*i. e.* made over to] you a [numerous] body of the sect of *Shaikhs*, and others, our intention, in that measure, was purely this: that lands should be assigned to the people in question for cultivation, and that the business of the cardamum reaping should be entrusted to them [exclusively.]
 
 It would seem, by the account you give of the excesses committed by the robbers in your district, that the latter were become very desirous of being incorporated with the *Usud Ilhye* band. It shall be as they wish.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It appears by another letter in the collection, which I have not thought it necessary to insert, that the class of people usually employed in reaping or gathering the cardamums, had been recently detected in embezzlements of the produce to a considerable amount. This circumstance had probably led the *Sultan* to transplant a colony of *Shaikhs*, and other Mussulmans, into the district in question, with a view to their superseding the ancient laborers in this particular branch of agriculture, which constituted one of the principal monopolies of the government. What effect was produced by this expedient I do not know : but there is no reason to believe, that the Mahommedan reaper proved at all more faithful to his trust than the Hindoo, whom he displaced. On the contrary, it has been affirmed by a very respectable authority, that “ although all the *Asofs* and “ *Amuldárs* under the *Sultan’s* government were Moormen, who were seldom “ chosen for any other reason than their being Mahommedans, and although the “ whole of them had an oath of fidelity administered to them, the embezzlement “ of public revenue, by the several classes of servants, is supposed to have “ amounted annually to fifteen or twenty *lacks* of *Cantarai pagodas*.”[^fn-p0511-1] Colonel Beatson has also informed us, that “ notwithstanding the severity and minuteness “ of the *Sultan’s* regulations, no prince was ever so grossly imposed upon.”[^fn-p0511-2]
 
 * * *
 
-### Letter 398: DEWÁNS of ZUFERÁBÁD (GURRAMCOONDAH)
+### Letter 403: DEWÁNS of ZUFERÁBÁD (GURRAMCOONDAH)
 
-### LETTER CCCCIV.
+#### LETTER CCCCIV.
 
-### *To the <span class="small-caps">DEWÁNS</span> of <span class="small-caps">ZUFERÁBÁD</span> (<span class="small-caps">GURRAMCOONDAH</span>) ; dated* 1*st* <span class="small-caps">TÚLOOEY.</span> (28*th November*.)
+#### *To the <span class="small-caps">DEWÁNS</span> of <span class="small-caps">ZUFERÁBÁD</span> (<span class="small-caps">GURRAMCOONDAH</span>) ; dated* 1*st*<br /><span class="small-caps">TÚLOOEY.</span> (28*th November*.)
 
 <span class="small-caps">Informing</span> them, that the management [or chastisement] of the *Polygars*, and other turbulent and contumacious tribes, belonged to the province of the *Bukhshy* of *Ehshám*, and not to theirs ; that the above mentioned *Bukhshy* was accordingly engaged in that business ; and that the charge of the defence of the forts and of the district [in general], likewise appertained [exclusively] to the same officer.
 
 * * *
 
-### Letter 399: Mahommed Durwaish
+### Letter 404: Mahommed Durwaish
 
-### LETTER CCCCV.
+#### LETTER CCCCV.
 
-### *To* <span class="small-caps">Mahommed Durwaish</span>, *and the other* <span class="small-caps">Vakeels</span> *proceeding to* <span class="small-caps">France</span> ; *dated 2d* <span class="small-caps">Túlooey</span>. (29*th November.*)
+#### *To* <span class="small-caps">Mahommed Durwaish</span>, *and the other* <span class="small-caps">Vakeels</span> *proceeding to*<br /><span class="small-caps">France</span> ; *dated 2d* <span class="small-caps">Túlooey</span>. (29*th November.*)
 
 <span class="small-caps">We</span> have lately dispatched to you, in the joint charge of Yunkut Rumna, an *Hurkáreh* of the brotherhood[^fn-p0512-1] of Pota, and of Kumâl Mahommed, of the brotherhood of Shaikh Mudâr, a casket, having our special seal affixed to it, in which is enclosed a diamond ring. You must open this casket, and taking from thence the ring which it contains, deposit the same in the box of jewels intended for the *Rájah* of the French, which you took with you from hence, and which has also our special seal affixed to it. You are, at the same time, to take out from the said box the ruby ring which you will find in it, and placing it in the casket now sent to you, to which your seals must be affixed, return the said ruby ring to us by the two aforesaid persons.
 
@@ -7715,11 +7728,11 @@ Having deposited the diamond ring, now sent, in the box with which you were orig
 
 As there was from the beginning a diamond ring in the box [which you took with you], there will now, including that which has been just sent to you, be two, which is the number of diamond rings specified in your *Húkm-námeh* [or instructions], as you will perceive on a reference to the latter.
 
-### Letter 400: GHÛLÂM GHUZUNFUR
+### Letter 405: GHÛLÂM GHUZUNFUR
 
-### LETTER CCCCVI.
+#### LETTER CCCCVI.
 
-### *To* <span class="small-caps">GHÛLÂM GHUZUNFUR</span>; *dated 4th* <span class="small-caps">TÚLOOEY</span>. (*1st December.*)
+#### *To* <span class="small-caps">GHÛLÂM GHUZUNFUR</span>; *dated 4th* <span class="small-caps">TÚLOOEY</span>. (*1st December.*)
 
 (<span class="small-caps">EXTRACT</span>.)
 
@@ -7729,55 +7742,55 @@ It has come to our knowledge, through the channel of the Canarese newspapers, th
 
 * * *
 
-### Letter 401: BUDRÛZ ZUMÂN KHÂN
+### Letter 406: BUDRÛZ ZUMÂN KHÂN
 
-### LETTER CCCCVII.
+#### LETTER CCCCVII.
 
-### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *same Date.* (*1st December.*)
+#### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *same Date.* (*1st December.*)
 
 <span class="small-caps">WE</span> some time since wrote to you with our own hand, and we now again write, to desire that, after properly arranging the business of your army, you will leave the same in charge of your son, and repair to our Presence, through the interior of the country, and by a close or woody route, in company with Khizr Khân,[^fn-p0514-1] whom we have sent with two hundred horse to join you. You must proceed with expedition, but [at the same time] with care and vigilance. Our special retinue is about to remove from hence to the pass of *Kurk-náth*.
 
 * * *
 
-### Letter 402: TURBIYUT ALI KHÂN
+### Letter 407: TURBIYUT ALI KHÂN
 
-### LETTER CCCCVIII. *To* <span class="small-caps">TURBIYUT ALI KHÂN</span> ; *dated 5th* <span class="small-caps">TÚLOOEY</span>. *(2d December.)* (<span class="small-caps">EXTRACT</span>.)
+#### LETTER CCCCVIII.<br />*To* <span class="small-caps">TURBIYUT ALI KHÂN</span> ; *dated 5th* <span class="small-caps">TÚLOOEY</span>. *(2d December.)*<br />(<span class="small-caps">EXTRACT</span>.)
 
 <span class="small-caps">YOUR</span> representation, with regard to our not honoring your letters with [regular or early] answers, is understood. That great person [^fn-p0514-2] [meaning Turbiyut Ali Khân] eats two or three times a day, sits at his ease, and amuses himself with conversation. We, on the other hand, are occupied, from morning to night, with business. Whenever we have leisure, we attend to the answering of your dispatches.
 
 * * *
 
-### Letter 403: MAHOMMED DURWAISH
+### Letter 408: MAHOMMED DURWAISH
 
-### LETTER CCCCIX. *To* <span class="small-caps">MAHOMMED DURWAISH</span> *and others ; dated 6th* <span class="small-caps">TÚLOOEY</span>. *(3d December.)*
+#### LETTER CCCCIX.<br />*To* <span class="small-caps">MAHOMMED DURWAISH</span> *and others ; dated 6th* <span class="small-caps">TÚLOOEY</span>.<br />*(3d December.)*
 
 <span class="small-caps">DIRECTING</span> them to *speak* to the *Rájah* of the French, and [through his means] to procure [and bring with them from France] a skilful physician ; physician ; a pharmacopolist, thoroughly acquainted with, and capable of preparing, every kind of medicine known in *Europe* ; and lastly, an able surgeon.
 
 * * *
 
-### Letter 404: Dewân of Chittledoorg
+### Letter 409: Dewân of Chittledoorg
 
-### LETTER CCCCX.
+#### LETTER CCCCX.
 
-### *To the <span class="small-caps">Dewân</span> of <span class="small-caps">Chittledoorg</span> and others; dated from near the <span class="small-caps">Tungbuddra</span>, 14th <span class="small-caps">Túlooey</span>.* (11*th December.*)
+#### *To the <span class="small-caps">Dewân</span> of <span class="small-caps">Chittledoorg</span> and others; dated from near the<br /><span class="small-caps">Tungbuddra</span>, 14th <span class="small-caps">Túlooey</span>.* (11*th December.*)
 
 <span class="small-caps">Directing</span> them to send an intelligent agent to the *Payen-Ghaut*, with instructions to invite into the *Sultan’s* dominions [such] well-born, and other unprovided persons [as might be found disposed to remove thither]. Enclosing, moreover, a passport for the agent proceeding [on this service] to the *Payen-Ghaut*, and desiring a particular account of every individual agreeing to repair to *Mysore* to be transmitted to the Presence.
 
 * * *
 
-### Letter 405: Monsieur Lally
+### Letter 410: Monsieur Lally
 
-### LETTER CCCCXI.
+#### LETTER CCCCXI.
 
-### *To <span class="small-caps">Monsieur Lally</span>*[^fn-p0515-1] ; *same Date.* (11*th December.*)
+#### *To <span class="small-caps">Monsieur Lally</span>*[^fn-p0515-1] ; *same Date.* (11*th December.*)
 
 <span class="small-caps">You</span> must allow no more than a single shop to be opened in your camp for the vending of spirituous liquors ; and over that you must place a guard, for the purpose of preventing the sale of spirits to any but the Europeans belonging to you ; it being a rule in our victorious army, that no shop of this kind shall be permitted to be established in it.
 
-### Letter 406: MONSIEUR COSSIGNY / GOVERNOR of MADRAS / GHÛLÂM ALI KHÂN / IMÂM of MUSCAT
+### Letter 411: MONSIEUR COSSIGNY / GOVERNOR of MADRAS / GHÛLÂM ALI KHÂN / IMÂM of MUSCAT
 
-### LETTER CCCCXII.
+#### LETTER CCCCXII.
 
-### *To* <span class="small-caps">MONSIEUR COSSIGNY</span>; *the* <span class="small-caps">GOVERNOR</span> *of* <span class="small-caps">MADRAS</span>; <span class="small-caps">GHÛLÂM ALI KHÂN</span>; *the* <span class="small-caps">IMÂM</span> *of* <span class="small-caps">MUSCAT</span>; *and others: dated* 18*th* <span class="small-caps">TÛLOOEY</span>. (15*th December.*)
+#### *To* <span class="small-caps">MONSIEUR COSSIGNY</span>; *the* <span class="small-caps">GOVERNOR</span> *of* <span class="small-caps">MADRAS</span>; <span class="small-caps">GHÛLÂM ALI KHÂN</span>; *the* <span class="small-caps">IMÂM</span> *of* <span class="small-caps">MUSCAT</span>; *and others: dated* 18*th* <span class="small-caps">TÛLOOEY</span>. (15*th December.*)
 
 (<span class="small-caps">CIRCULAR.</span>)
 
@@ -7785,7 +7798,7 @@ It has come to our knowledge, through the channel of the Canarese newspapers, th
 
 * * *
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It may be presumed, that if the *Sultan* had taken any guns upon this occasion, he would not have omitted so material a circumstance in the present *Futah-nâmeh*, or “letter of victory,” which, for this reason, may be suspected to have somewhat exaggerated his general success; though, on the whole, it is certainly less inflated and pompous, in point of diction, than is usually the case in similar productions. It would, at any rate, appear, that the advantages which he obtained over the enemy in this last action were of a more decisive character than those which had resulted from the battle which preceded it. It is probable, that the *Sultan*, in his Memoirs, entered into a fuller relation of the engagement of the 11th of *Sufur*, than that contained in the foregoing letter; but, unfortunately, that part of his narrative was included in the portion of the manuscript destroyed by the accident already alluded to. This, however, as well as many other defects of the present work, considered in an historical light, will, no doubt, be amply supplied hereafter, by the able and elegant historian of *Mysore*.
 
@@ -7801,31 +7814,31 @@ N.B. Wrote to the same effect as the above to Meer Kâzim, the commercial agent 
 
 * * *
 
-### Letter 407: GHÛLÂM ALI KHÂN
+### Letter 412: GHÛLÂM ALI KHÂN
 
-### LETTER CCCCXIII.
+#### LETTER CCCCXIII.
 
-### *To* <span class="small-caps">GHÛLÂM ALI KHÂN</span>; *same Date.* (15*th December.*)
+#### *To* <span class="small-caps">GHÛLÂM ALI KHÂN</span>; *same Date.* (15*th December.*)
 
 <span class="small-caps">WE</span> have learned by letters which we have received from the *Imám* and from the *Khulfár* [or minister] of *Muscat*, that one of the vessels which proceeded with you from hence has been burnt. It is very astonishing that you should not have mentioned any thing of this matter. Communicate to us all the particulars of it. We conclude that you have proceeded onwards from *Bussorah*. Let us know. Let us likewise know, what things you stand in need of, that they may be sent to you.
 
 * * *
 
-### Letter 408: CHISHTY YÂR KHÂN / ZYNÛL AABIDEEN
+### Letter 413: CHISHTY YÂR KHÂN / ZYNÛL AABIDEEN
 
-### LETTER CCCCXIV.
+#### LETTER CCCCXIV.
 
-### *To* <span class="small-caps">CHISHTY YÂR KHÂN, *DEWÁN*</span>, *and* <span class="small-caps">ZYNÛL AABIDEEN, *BUKHSHY*</span> *of the* *<span class="small-caps">EHSHÁM</span>* *of* <span class="small-caps">CHITTLEDOORG</span>; *dated* 19*th* <span class="small-caps">TÚLOOEY</span>. (16*th December.*)
+#### *To* <span class="small-caps">CHISHTY YÂR KHÂN, *DEWÁN*</span>, *and* <span class="small-caps">ZYNÛL AABIDEEN, *BUKHSHY*</span> *of the* *<span class="small-caps">EHSHÁM</span>* *of* <span class="small-caps">CHITTLEDOORG</span>; *dated* 19*th* <span class="small-caps">TÚLOOEY</span>. (16*th December.*)
 
 <span class="small-caps">YOUR</span> letter, congratulating us on our [late] victory over the enemies of the faith, and accompanied by a *Nuzr* of twenty *rupees*, has passed under our view. It behoves all Mussulmans humbly to address themselves to the Almighty Presence, and to implore, that the forces of the accursed may be always confounded and disgraced, and the army of Islâm be always victorious and triumphant.
 
 * * *
 
-### Letter 409: Mohyûddeen Ali Khân / Ghûlâm Ghuzunfur
+### Letter 414: Mohyûddeen Ali Khân / Ghûlâm Ghuzunfur
 
-### LETTER CCCCXV.
+#### LETTER CCCCXV.
 
-### *To* <span class="small-caps">Mohyûddeen Ali Khân</span>, *Dewán, and* <span class="small-caps">Ghûlâm Ghuzunfur</span>, *at* <span class="small-caps">Kurpah</span>; *dated* 24*th Túlooey.* (21*st December.*)
+#### *To* <span class="small-caps">Mohyûddeen Ali Khân</span>, *Dewán, and* <span class="small-caps">Ghûlâm Ghuzunfur</span>, *at*<br /><span class="small-caps">Kurpah</span>; *dated* 24*th Túlooey.* (21*st December.*)
 
 <span class="small-caps">Your</span> relation of your late encounters with the enemy’s horse [^fn-p0519-1] is become duly known; and we are much pleased with the account you have given of their chastisement, and of your having taken six prisoners and twelve horses from them. This behaviour was worthy of your noble descent and of your fidelity to us.
 
@@ -7835,17 +7848,17 @@ N.B. By some letters which follow here, but which are not deemed sufficiently in
 
 * * *
 
-### Letter 410: SHUMSÛDDEEN KHÂN
+### Letter 415: SHUMSÛDDEEN KHÂN
 
-### LETTER CCCCXVI.
+#### LETTER CCCCXVI.
 
-### *To* <span class="small-caps">SHUMSÛDDEEN KHÂN</span>; *dated* 29*th* <span class="small-caps">TÚLOOEY</span>. (26*th December*.)
+#### *To* <span class="small-caps">SHUMSÛDDEEN KHÂN</span>; *dated* 29*th* <span class="small-caps">TÚLOOEY</span>. (26*th December*.)
 
 <span class="small-caps">You</span> represent, “ that the people of the jewel office and of the “ goldsmith’s workshop have applied to you to be supplied with the gold “ and silver necessary for making up the *Puduks*, and other articles of “ jewellery, which have been ordered, but that no receipts coming in at “ this time, either on account of the collections, or from the *Surráfs* [or “ money-changers] superintending the *Dúkáns* [or retail warehouses] “ of the *Sircar*,[^fn-p0520-1] you do not possess the means of answering the “ demand : besides which, twelve hundred *pagodas* weight of gold has “ been already furnished for this service by the mint, which has not yet “ been replaced.”
 
 It is known. In the *Tosheh-kháneh* [or treasury], and in the department where the elephants’ teeth[^fn-p0520-2] are kept, there is gold and silver, to the amount of several *lacks* [^fn-p0520-3] weight of *pagodas*, appropriated [some time since] to the coinage of gold *mohrs*, *pagodas*, &c. Is not, then, that gold and silver still in the same place ; or do you imagine it to be something else ? This is, truly, a subject for wonder ! You must take from this apartment whatever gold and silver may be required for the purpose in question ; and after seeing that it is carefully assayed, deliver the same to the workmen.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 Notwithstanding the wonder here expressed by the *Sultan*, at his treasurer's not having taken upon him to break in upon a hoard of bullion, distinctly stated to have been appropriated to a specific purpose, it may be fairly doubted, whether if that officer had presumed to do so, his conduct would have escaped animadversion. It is true, that if we were to judge by the occasional intimations of the kind here conveyed, and which occur in the course of the correspondence, we might infer, that the public functionaries under Tippoo Sultan were invested with considerable discretionary powers: but, on the other hand, how many are the instances, in which the slightest exercise of such a power has brought upon them the severest reproofs of the *Sultan*, who was for ever directing them “ to mind “ their instructions, and to abstain from pursuing their own conceits.” The trust reposed in Shumsûddeen Khân was of a peculiarly delicate nature; and if he had ventured to act in the manner which his master affects to insinuate he should have done, and had so acted with impunity, it must be admitted, that such a fact would have materially altered our view of the *Sultan's* character, in one important particular, at least; since it would have shown him to have been of a far more confiding and unsuspicious disposition than the general tenor of his actions imply. The safest guide, however, to our judgment, on the present occasion, is the evident backwardness of the treasurer to exceed the letter of his orders. No doubt, he had very sufficient reasons for this cautious conduct.
 
@@ -7853,11 +7866,11 @@ The *Sultan* appears to have distributed, about this time, various marks of his 
 
 * * *
 
-### Letter 411: Monsieur Cossigny
+### Letter 416: Monsieur Cossigny
 
-### LETTER CCCCXVII.
+#### LETTER CCCCXVII.
 
-### *To* <span class="small-caps">Monsieur Cossigny</span>; *dated* 2d <span class="small-caps">Yoosúfy</span>. (28*th December*.)
+#### *To* <span class="small-caps">Monsieur Cossigny</span>; *dated* 2d <span class="small-caps">Yoosúfy</span>. (28*th December*.)
 
 <span class="small-caps">What</span> you wrote, respecting the departure of M. Monneron, on the 12th October, from the port of *Pondicherry* for the *Mauritius*, is understood. A month has elapsed since the persons appointed by us to proceed to *France* were dispatched from hence. Accordingly, having reached *Bangalore*, they afterwards pursued their journey from thence, and will [in due time] arrive [at *Pondicherry*].
 
@@ -7877,27 +7890,27 @@ The barometer which [you] sent us in charge of [your] *Hurkáreh* is in all resp
 
 * * *
 
-### Letter 412: Urshud Baig Khân
+### Letter 417: Urshud Baig Khân
 
-### LETTER CCCCXVIII.
+#### LETTER CCCCXVIII.
 
-### *To* <span class="small-caps">Urshud Baig Khân</span>, *Foujdár of Calicut; same Date*.
+#### *To* <span class="small-caps">Urshud Baig Khân</span>, *Foujdár of Calicut; same Date*.
 
 (*28th December.*)
 
 <span class="small-caps">Abandon</span> your vain idea of proceeding [on a pilgrimage] to the Holy Temple, and apply yourself, according to custom, to the affairs of the *Sircar*. This is the most advisable thing you can do.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 This officer appears, from other parts of the correspondence, to have formed some improper female connection, which the *Sultan* had insisted upon his renouncing. The lover resented this interference, by announcing his resolution to proceed on a pilgrimage to *Mecca*. This sort of declaration is often made under the influence of temporary chagrin or disappointment, and sometimes without any serious intention of fulfilling it, and with no other view than that of intimidation. Whatever the case might be with regard to Urshud Baig Khân, he ultimately relinquished his purpose (whether real or pretended), although the object of his irregular attachment had, by order of his sovereign, been publicly banished from the town of *Calicut*. The following letter will show in what manner the *Sultan* was accustomed to proceed on occasions of this kind.
 
 * * *
 
-### Letter 413: Dewâns of Calicut
+### Letter 418: Dewâns of Calicut
 
-### LETTER CCCCXIX.
+#### LETTER CCCCXIX.
 
-### *To the <span class="small-caps">Dewâns</span> of <span class="small-caps">Calicut</span>; same Date. (28th December.)*
+#### *To the <span class="small-caps">Dewâns</span> of <span class="small-caps">Calicut</span>; same Date. (28th December.)*
 
 <span class="small-caps">Dissuade</span> Urshud Baig Khân from his vain purpose of repairing to the House of God [*Mecca*]. Try, at first, as far as you may be able, the effect of fair persuasion; and if this should not succeed, you must, of necessity, confine him. You must, likewise, imprison the courtezan, who has been the cause of this affair.
 
@@ -7905,21 +7918,21 @@ N.B. Upon Urshud Baig’s “coming again to his senses,” as it is expressed i
 
 * * *
 
-### Letter 414: Monsieur Cossigny
+### Letter 419: Monsieur Cossigny
 
-### LETTER CCCCXX.
+#### LETTER CCCCXX.
 
-### *To <span class="small-caps">Monsieur Cossigny</span>; dated 3d Yoosûfy. (29th December.)*
+#### *To <span class="small-caps">Monsieur Cossigny</span>; dated 3d Yoosûfy. (29th December.)*
 
 <span class="small-caps">There</span> is a book which comes from Europe, and which treats of the barometer,[^fn-p0524-1] wherein it is written, that at certain [stated] times the quicksilver rises a certain number of degrees; and that if, at such times, a person afflicted with any one of certain [stated] disorders shall, during a paroxysm of his complaint, place his hand on the barometer, the degree to which the quicksilver may, in consequence, ascend, will indicate the state [or height] of such person’s disorder. Get this [book] translated into Persian, and send it to the Presence.
 
 * * *
 
-### Letter 415: Shumsûddeen Khân
+### Letter 420: Shumsûddeen Khân
 
-### LETTER CCCCXXI.
+#### LETTER CCCCXXI.
 
-### *To* <span class="small-caps">Shumsûddeen Khân</span>; *dated from near* <span class="small-caps">Kopul</span>, 5*th* <span class="small-caps">Yoosûfy</span>.
+#### *To* <span class="small-caps">Shumsûddeen Khân</span>; *dated from near* <span class="small-caps">Kopul</span>, 5*th* <span class="small-caps">Yoosûfy</span>.
 
 (31*st December* 1786.)
 
@@ -7927,17 +7940,17 @@ N.B. Upon Urshud Baig’s “coming again to his senses,” as it is expressed i
 
 <span class="small-caps">The</span> leather basket, containing [our several] treaties with the Mahrattahs, which you sent by the post, has reached us [safely] from *Hurry-hur*.
 
-### OBSERVATIONS.
+###### OBSERVATIONS.
 
 The *Sultan* appears to have sent for the treaties here mentioned, either in consequence of some overtures of peace made to him by the Mahrattahs, or preparatory to the discussions which he might expect to take place soon on that subject.
 
 * * *
 
-### Letter 416: Mûsheer ûl Mûlk
+### Letter 421: Mûsheer ûl Mûlk
 
-### LETTER CCCCXXII.
+#### LETTER CCCCXXII.
 
-### *To* <span class="small-caps">Mûsheer ûl Mûlk</span>; *dated* 4*th* <span class="small-caps">Rubee ûl Ouwul</span>, *A.H.* 1201.[^fn-p0525-1]
+#### *To* <span class="small-caps">Mûsheer ûl Mûlk</span>; *dated* 4*th* <span class="small-caps">Rubee ûl Ouwul</span>, *A.H.* 1201.[^fn-p0525-1]
 
 <span class="small-caps">The</span> *Mûtusuddy*, Luchman Râo, was sent by me, merely for the purpose of ascertaining why the *Nabob*, Nizâm Ali Khân Behâdûr, notwithstanding withstanding the contract of mutual union which took place between us, through the medium[^fn-p0526-1] of Mahommed Iftikhâr Khân,[^fn-p0526-2] had suddenly confederated with the people of *Poonah*, and without any cause [or provocation on my part], advanced into my dominions. He was not dispatched with any other view.
 
@@ -7945,31 +7958,31 @@ I have, at this time, indirectly learned,[^fn-p0526-3] that that friend has plac
 
 * * *
 
-### Letter 417: Ghûlâm Hyder
+### Letter 422: Ghûlâm Hyder
 
-### LETTER CCCCXXIII.
+#### LETTER CCCCXXIII.
 
-### *To* <span class="small-caps">Ghûlâm Hyder</span>, *<span class="small-caps">Aumil</span> of <span class="small-caps">Bangalore</span>; dated* 9*th* *<span class="small-caps">Yoosúfy</span>*. (4*th January* 1787.)
+#### *To* <span class="small-caps">Ghûlâm Hyder</span>, *<span class="small-caps">Aumil</span> of <span class="small-caps">Bangalore</span>; dated* 9*th* *<span class="small-caps">Yoosúfy</span>*.<br />(4*th January* 1787.)
 
 <span class="small-caps">The</span> account, stating you had strictly prohibited the distilling and vending of spirituous liquors, and had, moreover [in pursuance of the same object], made the whole body of vintners enter into written engagements [to desist from selling such liquors], is understood. You must make the distillers execute a similar engagement, and then oblige them to take up some other occupation.
 
 * * *
 
-### Letter 418: Syed Mahommed
+### Letter 423: Syed Mahommed
 
-### LETTER CCCCXXIV.
+#### LETTER CCCCXXIV.
 
-### *To* <span class="small-caps">Syed Mahommed</span>, *<span class="small-caps">Kilaadár</span>* *of* *<span class="small-caps">Seringapatam</span>*; *dated from* *<span class="small-caps">Katurky</span>*, *near* *<span class="small-caps">Kopul</span>*, 10*th* *<span class="small-caps">Yoosúfy</span>*. (5*th January*.)
+#### *To* <span class="small-caps">Syed Mahommed</span>, *<span class="small-caps">Kilaadár</span>* *of* *<span class="small-caps">Seringapatam</span>*; *dated from*<br />*<span class="small-caps">Katurky</span>*, *near* *<span class="small-caps">Kopul</span>*, 10*th* *<span class="small-caps">Yoosúfy</span>*. (5*th January*.)
 
 <span class="small-caps">A shirt</span>, formerly belonging to the Holy Prophet (on whom be the peace and blessing of God!) and which was first discovered at *Kurpah*, from whence, in process of time, it came into our possession, has been dispatched to you. This precious relic must be delivered in charge to the priests, to whose care the [other] holy traces [or remains] of the prophet have been already consigned, with instructions to place and keep it along with those.
 
 * * *
 
-### Letter 419: Yâkoob / Armenian Merchants
+### Letter 424: Yâkoob / Armenian Merchants
 
-### LETTER CCCCXXV.
+#### LETTER CCCCXXV.
 
-### *To* <span class="small-caps">Yâkoob</span>, *and other Armenian Merchants; dated 16th <span class="small-caps">Yoosúfy</span>.* (*11th January.*)
+#### *To* <span class="small-caps">Yâkoob</span>, *and other Armenian Merchants; dated 16th <span class="small-caps">Yoosúfy</span>.*<br />(*11th January.*)
 
 (*Entitled a <span class="small-caps">Kowl-nâmeh</span>, or Engagement.*)
 
@@ -7977,17 +7990,17 @@ I have, at this time, indirectly learned,[^fn-p0526-3] that that friend has plac
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 I am not enabled to account for the sudden and extraordinary encouragement here held out to the Armenian merchants ; nor do I know how far it succeeded in alluring that industrious race of men to *Mysore*. The immunities offered to them were, no doubt, apparently tempting, since they greatly exceeded whatever had been hitherto granted, either to their fellow countrymen, or to any other foreigners. Still, however, the promised advantages were but loosely and generally expressed : and certainly were not intended to admit the adventurers to a participation in those branches of the trade of *Mysore* (as sandal-wood, pepper, &c.) which were rigorously monopolized by the *Sultan*, as constituting the chief commercial resources of his kingdom. It does not appear, of what country Yâkoob was a subject or resident.
 
 * * *
 
-### Letter 420: Meer Moaayenûddeen / Bûrhânûddeen / Mâh Mirzâ Khân / Hûsain Ali Khân
+### Letter 425: Meer Moaayenûddeen / Bûrhânûddeen / Mâh Mirzâ Khân / Hûsain Ali Khân
 
-### LETTER CCCCXXVI.
+#### LETTER CCCCXXVI.
 
-### *To* <span class="small-caps">Meer Moaayenûddeen</span>, <span class="small-caps">Bûrhânûddeen</span>, <span class="small-caps">Mâh Mirzâ Khân</span>, *and* <span class="small-caps">Hûsain Ali Khân</span>; *dated the Night*[^fn-p0528-1] *of the* 17*th* <span class="small-caps">Yoosúfy</span>. (12*th January.*)
+#### *To* <span class="small-caps">Meer Moaayenûddeen</span>, <span class="small-caps">Bûrhânûddeen</span>, <span class="small-caps">Mâh Mirzâ Khân</span>, *and* <span class="small-caps">Hûsain Ali Khân</span>; *dated the Night*[^fn-p0528-1] *of the* 17*th* <span class="small-caps">Yoosúfy</span>. (12*th January.*)
 
 (<span class="small-caps">Circular.</span>)
 
@@ -7997,93 +8010,93 @@ N.B. A few words follow here, of which I am unable to make any sense. Something 
 
 * * *
 
-### Letter 421: Shumsûddeen Khân / Dároghas of the Tosheh-kháneh, or Treasury, at Seringapatam
+### Letter 426: Shumsûddeen Khân / Dároghas of the Tosheh-kháneh, or Treasury, at Seringapatam
 
-### LETTER CCCCXXVII.
+#### LETTER CCCCXXVII.
 
-### *To* <span class="small-caps">Shumsûddeen Khân</span>, &c. <span class="small-caps">Dároghas</span> *of the* <span class="small-caps">Tosheh-kháneh</span>, *or Treasury, at* <span class="small-caps">Seringapatam</span>; *dated* 22*d* <span class="small-caps">Yoosúfy</span>. (17*th January.*)
+#### *To* <span class="small-caps">Shumsûddeen Khân</span>, &c. <span class="small-caps">Dároghas</span> *of the* <span class="small-caps">Tosheh-kháneh</span>, *or Treasury, at* <span class="small-caps">Seringapatam</span>; *dated* 22*d* <span class="small-caps">Yoosúfy</span>. (17*th January.*)
 
 (<span class="small-caps">Extract.</span>)
 
 <span class="small-caps">In</span> addition to the camels which were some time ago sent to you, for the conveyance hither of certain articles of our special camp equipage, we have now dispatched fifty others, for the purpose of bringing treasure. You must, accordingly, dispatch the tents on the former, and on the latter the treasure.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 The treasure here mentioned was, most probably, designed for the Mahrattahs; and appears, by a subsequent letter, to have consisted of 3,88,971 *pagodas* of sorts, and 72,000 *Pondicherry rupees*, making together about thirteen *lacks* of *rupees*, which agrees pretty nearly with the sum stated (as will be presently seen) by the *Sultan* himself, as the amount of what he paid to the Mahrattahs at the conclusion of peace.
 
 * * *
 
-### Letter 422: Dewâns of Zuferâbâd
+### Letter 427: Dewâns of Zuferâbâd
 
-### LETTER CCCCXXVIII. *To the* *<span class="small-caps">Dewâns</span>* *of* *<span class="small-caps">Zuferâbâd</span>*; *dated 29th* *<span class="small-caps">Yoosúfy</span>*. (*24th January.*)
+#### LETTER CCCCXXVIII.<br />*To the* *<span class="small-caps">Dewâns</span>* *of* *<span class="small-caps">Zuferâbâd</span>*; *dated 29th* *<span class="small-caps">Yoosúfy</span>*. (*24th January.*)
 
 <span class="small-caps">Having</span> made up, according to the established system of our government, the account of pay due to the *Jyshe*, the *Piádehs*, *Coolies*, &c. you must issue the same in the manner prescribed in your instructions: that is to say, the whole body are to be paid, *man by man*,[^fn-p0529-1] in your own presence. There is no necessity for your consigning the amount of their pay to the *Kilaadár* [to be distributed by him]. If you do so, you shall be punished in the manner specified in your *Hukm-námeh*.
 
 * * *
 
-### Letter 423: Râjah Râm Chundur
+### Letter 428: Râjah Râm Chundur
 
-### LETTER CCCCXXIX. *To* <span class="small-caps">Râjah Râm Chundur</span>; *dated from* *<span class="small-caps">Anagoondy</span>*, *3d* *<span class="small-caps">Eezudy</span>*. (*28th January.*)
+#### LETTER CCCCXXIX.<br />*To* <span class="small-caps">Râjah Râm Chundur</span>; *dated from* *<span class="small-caps">Anagoondy</span>*, *3d* *<span class="small-caps">Eezudy</span>*.<br />(*28th January.*)
 
 <span class="small-caps">Authorizing</span> him to take [from the public money] two thousand *rupees*, as a gift from the *Sultan*, to enable him to celebrate the marriage of his nephew, and to send for his connexions and relations from the *Carnatic*.
 
-### Letter 424: BUDRÛZ ZUMÂN KHÂN
+### Letter 429: BUDRÛZ ZUMÂN KHÂN
 
-### LETTER CCCCXXX.
+#### LETTER CCCCXXX.
 
-### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *same Date.* (*28th January.*)
+#### *To* <span class="small-caps">BUDRÛZ ZUMÂN KHÂN</span>; *same Date.* (*28th January.*)
 
 <span class="small-caps">HAVING</span> read, we transmit for your perusal [two] letters, brought to us by a pair of camel couriers, from Râo Râsta and Holkar. We have likewise sent to you the two camel couriers [in question]. You must, after looking at these letters, proceed thither [*i. e.* to the Mahrattah camp] with the couriers above-mentioned.
 
 A cornelian seal, with your name engraved upon it, has arrived from *Putn*: but as it was not set for a ring, we have ordered it to be properly mounted as such, and when ready it shall be dispatched to you.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 It would appear by the foregoing letter, and is confirmed by the *Sultan's Memoirs*, that Budrûz Zumân Khân was chosen to conduct the negotiations now pending with the Mahrattahs. It may even be inferred, from the terms of this dispatch, that if he was not named in the letters of Râsta and Holkar, as the most eligible person that could be employed by the *Sultan* on this occasion, he was, very probably, mentioned as the individual who would be most agreeable to the Mahrattah chiefs. Similar suggestions often proceed in *India* from a hostile power: but when this is the case, it generally denotes either an actual, or an assumed superiority in the latter. If Tippoo tacitly yielded, in the present instance, to such a pretension, it is not unlikely that he was led to do so, as much by his impatience to prepare for a fresh contest with the English as by any other consideration. Except with some motive of this nature, he would hardly have consented to a measure so liable to be construed into an act of submission, as the deputation of a person of Budrûz Zumân's rank to the Mahrattah camp would be.[^fn-p0530-1]
 
-### Letter 425: Meer Ibraheem
+### Letter 430: Meer Ibraheem
 
-### LETTER CCCCXXXI.
+#### LETTER CCCCXXXI.
 
-### *To* *<span class="small-caps">Meer Ibraheem</span>* ; *dated 6th* *<span class="small-caps">Eezudy.</span>* (*31st January.*)
+#### *To* *<span class="small-caps">Meer Ibraheem</span>* ; *dated 6th* *<span class="small-caps">Eezudy.</span>* (*31st January.*)
 
 <span class="small-caps">You</span> must not, in future, form the design of chastising either the Nâirs or Moplahs. This business appertains to the *Foujdár* of that quarter. Yours is to apply yourself earnestly to the collection of the revenue, and other fiscal matters.
 
 * * *
 
-### Letter 426: Urshud Baig Khân
+### Letter 431: Urshud Baig Khân
 
-### LETTER CCCCXXXII.
+#### LETTER CCCCXXXII.
 
-### *To* *<span class="small-caps">Urshud Baig Khân</span>*, *<span class="small-caps">Foujdár</span>* *of* *<span class="small-caps">Calicut</span>* ; *dated 8th* *<span class="small-caps">Eezudy.</span>* (*2d February.*)
+#### *To* *<span class="small-caps">Urshud Baig Khân</span>*, *<span class="small-caps">Foujdár</span>* *of* *<span class="small-caps">Calicut</span>* ; *dated 8th* *<span class="small-caps">Eezudy.</span>*<br />(*2d February.*)
 
 <span class="small-caps">You</span> must give the most strict orders to all the merchants, and other inhabitants of that place [*Calicut*], neither to buy any goods of the English factor who is come thither, nor sell grain, or any other articles whatsoever, to him. How long [in this case] will the above named remain ?[^fn-p0531-1] He will, in the end, despair of making either sales or purchases, and depart from thence.
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It will be sufficient to remark on this letter, that the order contained in it amounts to a gross infraction of the eighth article of the treaty of *Mangalore*, concluded between the English and Tippoo in March 1784.
 
-### Letter 427: Kureem Sâheb
+### Letter 432: Kureem Sâheb
 
-### LETTER CCCCXXXIII.
+#### LETTER CCCCXXXIII.
 
-### *To* <span class="small-caps">Kureem Sâheb</span> ; *same Date. (2d February.)*
+#### *To* <span class="small-caps">Kureem Sâheb</span> ; *same Date. (2d February.)*
 
 Y<span class="small-caps">OUR</span> humble address, accompanied by a *Nuzr*, on account of our chastisement of, and [late] victory over, the enemy, has passed under our view. What you write, respecting your intention of repairing to our Presence, and the re-establishment of your health, is understood, and has afforded pleasure to our mind. With the blessing of God, our special retinue will soon shed lustre on that place [*Seringapatam*] when we shall have a meeting.
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Kureem Saheb was the second son of Hyder Ali by a concubine, but was adopted by Medina Begum ;[^fn-p0532-1] who, I believe, was a lawful wife of Hyder, as well as Fukhurûn Nisa Beeby, the mother of Tippoo Sultan. Kureem Saheb survived his brother, after whose death he came under the protection of the British government, together with the other branches of his father's family, and was still living in 1808. He is represented to be of weak intellects ; and would not, at any period, appear to have been entrusted with authority by his father, or to have been an object of jealousy to his brother. The foregoing letter is not the only one to his address which appears in the present collection. There is another of a prior date, acknowledging, as this does, the receipt of a *Nuzr* on occasion of a former victory.
 
-### Letter 428: MAHOMMED DURWAISH
+### Letter 433: MAHOMMED DURWAISH
 
-### LETTER CCCCXXXIV.
+#### LETTER CCCCXXXIV.
 
-### *To* <span class="small-caps">MAHOMMED DURWAISH</span>, *&c. dated* 20*th* *<span class="small-caps">EEZIDY.</span>*[^fn-p0533-1] (14*th February.*)
+#### *To* <span class="small-caps">MAHOMMED DURWAISH</span>, *&c. dated* 20*th* *<span class="small-caps">EEZIDY.</span>*[^fn-p0533-1]<br />(14*th February.*)
 
 <span class="small-caps">YOU</span> did right in apprizing Monsieur Cossigny, the Governor [of *Pondicherry*], of your arrival at *Anuntgeery*; and must, hereafter, act as the aforesaid Governor shall recommend to you. [When you resume your journey] you must proceed to *Pondicherry*, without stopping by the way.[^fn-p0533-2] How are the English people[^fn-p0533-3] to open and search any thing belonging to you?[^fn-p0533-4]
 
-### OBSERVATIONS.
+##### OBSERVATIONS.
 
 It would appear by this letter, that the *Vakeels* had, in their dispatches to the *Sultan*, expressed some apprehensions of being stopped and searched by the English, in their passage through the territories of the *Nabob* of *Arcot*. The *Sultan* affects to treat their fears as chimerical; but, nevertheless, seems to have thought it advisable that they should elude the observation of the English as much as possible, and with this view, directs them to travel by night to *Pondicherry*. He had previously, as the context leads me to suspect, caused their dispatches to be concealed in some part of their apparel, or bedding.
 
@@ -8091,11 +8104,11 @@ By a subsequent letter it appears, that M. Cossigny recommended, that the *Vakee
 
 * * *
 
-### Letter 429: Kûtbûl Mûlk Mahommed Kûtbûddeen Khân Behâdûr
+### Letter 434: Kûtbûl Mûlk Mahommed Kûtbûddeen Khân Behâdûr
 
-### LETTER CCCCXXXV.
+#### LETTER CCCCXXXV.
 
-### *To* <span class="small-caps">Kûtbûl Mûlk Mahommed Kûtbûddeen Khân Behâdûr</span>;[^fn-p0534-1]
+#### *To* <span class="small-caps">Kûtbûl Mûlk Mahommed Kûtbûddeen Khân Behâdûr</span>;[^fn-p0534-1]
 
 *same Date. (14th February.)*
 
@@ -8105,7 +8118,7 @@ It is therefore written, that you must, with the utmost expedition, collect all 
 
 * * *
 
-### OBSERVATIONS.
+#### OBSERVATIONS.
 
 Although the treaty, recently concluded between the *Sultan* and the Mahrattahs, would seem to have provided for the restoration of *Adoni* and its dependencies to the *Nizám*, yet it is, nevertheless, probable, that the latter might not yet have formally acceded to it, or even have had time to do so. Here, then, we see Tippoo, with his characteristic perfidy, eagerly endeavouring to avail himself of the short interval which might be expected to elapse before the completion of the general peace, in order to impoverish and depopulate, as much as possible, the country he was about to relinquish. I am ignorant of the success of the *Sultan's* barbarous policy upon the present occasion. It appears, however, but too probable, that the inhabitants of *Adoni*, and of the surrounding country, would have reason to deplore, for a long time, his temporary occupation of it.
 
@@ -8163,15 +8176,15 @@ The documents, here spoken of, consist of translations of five curious letters f
 
 Of the five letters to Budrûz Zumân Khân,[^fn-p0545-1] mentioned above, I have given only one (which, in the order of time, immediately follows Letter CCCCXXX); the others, though not less interesting, belonging to a much later period than that embraced by the present publication. There being no reason to doubt the authenticity of the letter in question (which, on the contrary, is strongly confirmed by its conformity, in point both of matter and manner, with other productions of the *Sultan’s* pen), I can no otherwise account for its not appearing in my collection, than by supposing that it may have been deemed by the writer of too delicate (or rather indelicate) a nature, to be entered in the usual registry of his correspondence. It must, at the same time, be allowed, that many things are preserved in that record, of which the *Sultan* had still greater cause to be ashamed.
 
-### Letter 430: Tippoo Sultan → Budrûz Zumân Khân
+### Letter 435: Tippoo Sultan → Budrûz Zumân Khân
 
-### LETTER *dated from* *<span class="small-caps">Hugly</span>*, *near* *<span class="small-caps">Kopul</span>*, *4th* *<span class="small-caps">Eezidy</span>*, *year* *<span class="small-caps">Dullo</span>* (*or* 29*th January* 1787.)
+#### LETTER *dated from* *<span class="small-caps">Hugly</span>*, *near* *<span class="small-caps">Kopul</span>*, *4th* *<span class="small-caps">Eezidy</span>*, *year* *<span class="small-caps">Dullo</span>*<br />(*or* 29*th January* 1787.)
 
 “ In these days some of our cavalry have taken prisoners Hunmunt Râo, a “ person of palankeen rank, and three others belonging to the Mahrattahs. “ Hunmunt Râo was sick; but has had due attendance, both in medicine and “ provisions, and was then sent back. He says he has two brothers in Pursaram “ Bhâo’s service. Tell Holkar and Râo Râsta, that princes and great chiefs act “ thus; while *they*, on the contrary, have carried off from *Surhutty* the *Kilaadâr* “ and *Aumildâr*, who being old are of no use to the *Sircar*, but being of a noble “ origin, I would advise them to get some of their offspring.[^fn-p0545-2] Also a *Kilaadâr*, “ named Ghûlâm Mohyûddeen, who is young; but, being wounded in the foot “ is become useless. It is the custom with them [*i. e.* the Mahrattahs] to get the “ breed “ breed of horses; therefore it is right that they have kept these people also for a “ breed. Doubtless their offspring will be good. One Kishun Râo, likewise, has “ been detained by the above. He likewise, being old, I do not want. Let the “ *Brahmens* employ him in getting children : and as I have a great many other “ useless people, I will, if they please, send them also, who may be employed in “ the same way.” (Written by Mirzâ Husan.)[^fn-p0546-1]
 
 Although, if rigidly understood, the preceding letter would warrant a belief, that the *Sultan* really intended that his ambassador, employed in negotiating a peace, should actually hold the offensive language here prescribed, to the persons with whom he had to treat, yet the supposition seems too extravagant to be admitted : I am, therefore, inclined to think, that if the letter before us proceeded from any thing else but a mere ebullition of spleen, it was probably meant to display that talent of coarse raillery, in the exercise of which he was particularly fond of indulging.
 
-### EXTRACT *from the* <span class="small-caps">JOURNAL</span> *of* <span class="small-caps">SIR CHARLES WARRE MALET</span>, *Bart., Resident at* <span class="small-caps">POONAH</span>.
+#### EXTRACT *from the* <span class="small-caps">JOURNAL</span> *of* <span class="small-caps">SIR CHARLES WARRE MALET</span>, *Bart., Resident at* <span class="small-caps">POONAH</span>.
 
 > “ 20th December 1786. *Mahrattah Camp.*—On the 17th Budrûz Zumân “ Khân arrived at Tukojee Holkar’s camp, in this army, as embassador from “ Tippoo, with a retinue of five hundred horse and a company of *Sepoys*. The “ 18th Hurry Pundit gave him an audience. An express was immediately sent to “ *Poonah* : and if a favorable answer arrives to Tippoo’s proposals, Bûrhânûddeen “ will come to settle the conditions of peace.
 
@@ -8205,7 +8218,9 @@ Although, if rigidly understood, the preceding letter would warrant a belief, th
 
 “ 5th May. *Poonah*.—Received this day from Secretary Hay, copy of a letter “ from Tippoo to Governor of *Madras*, dated 8th February, from which the “ following is extract.
 
-> “ The *Poonah* army being pursued by mine has crossed the *Krishna*, and peace “ has taken place between us in the manner I wished. They have, accordingly, “ returned to their own country, and I purpose returning to my capital in about “ a week, after quieting the disturbances raised by some *Polygars* in these parts.”
+> **[letter_excerpt: copy of a letter from Tippoo to Governor of Madras]**
+>
+> > “ The *Poonah* army being pursued by mine has crossed the *Krishna*, and peace “ has taken place between us in the manner I wished. They have, accordingly, “ returned to their own country, and I purpose returning to my capital in about “ a week, after quieting the disturbances raised by some *Polygars* in these parts.”
 
 “ N.B. This letter contained applications relative to some refractory boundary “ chiefs.
 
@@ -8847,7 +8862,7 @@ Although, if rigidly understood, the preceding letter would warrant a belief, th
 [^fn-p0384-2]: (7) Of Meer Hûsain Ali, the person here alluded to, some further mention will be found in Appendix D.
 [^fn-p0385-1]: (8) The reader will probably not be displeased at being presented, in this place, with that portion of the *Memoirs* immediately preceding the one given in the text, and referred to therein by the *Sultan*, on whose extraordinary character it will be found to throw no inconsiderable light. I have translated it as closely as I could, without involving the sense in obscurity : but the original is written in such a perplexed and barbarous style, as has made this a very difficult task.
 
-    “ After sending off the *Ahmedies* [in the way that has been related],<sup>*</sup> the special retinue “ [or cavalcade] proceeded to the seat of the *Sultanut*, *Putn*. Here, with a view to the “ [proper] arrangement of affairs, great and small, I framed various *Húkm-námehs* [or ordi- “ nances] and numerous other *things* ; all in the very best manner, and comprehending in- “ stitutes, civil and fiscal, general as well as particular rules for war and peace [literally, “ for the *battle* and the *banquet*], and regulations for the government of the people at large. “ They moreover treated of the [proper] mode of dealing with the noble and the ignoble “ [or the high and low], of taking [or levying] tribute from the subject, and of affording “ protection to the people ; of making progress through the country, and inspecting the “ fortresses ; and of duly guarding the kingdom on all sides. In fine, they comprised nu-
+    “ After sending off the *Ahmedies* [in the way that has been related],[^fn-p0385-2] the special retinue “ [or cavalcade] proceeded to the seat of the *Sultanut*, *Putn*. Here, with a view to the “ [proper] arrangement of affairs, great and small, I framed various *Húkm-námehs* [or ordi- “ nances] and numerous other *things* ; all in the very best manner, and comprehending in- “ stitutes, civil and fiscal, general as well as particular rules for war and peace [literally, “ for the *battle* and the *banquet*], and regulations for the government of the people at large. “ They moreover treated of the [proper] mode of dealing with the noble and the ignoble “ [or the high and low], of taking [or levying] tribute from the subject, and of affording “ protection to the people ; of making progress through the country, and inspecting the “ fortresses ; and of duly guarding the kingdom on all sides. In fine, they comprised nu-
 [^fn-p0386-1]: (9) In the original مرآتہ (*Murráteh*); for an explanation of which perversion of the true name, the reader is referred to the preface of Colonel Wilks's History of *Mysoor*.
 [^fn-p0386-2]: (10) See observations on Letter VIII.
 [^fn-p0386-3]: (11) Original عہدها
@@ -9251,7 +9266,7 @@ Although, if rigidly understood, the preceding letter would warrant a belief, th
 و ملاقات در بنگلور یا بجای دیگر <mark>باشد</mark> مضایقه ندارد در صورت موقوفی آمدن رو  
 نوع در خاطر او <mark>خطور</mark> گذشت معروضه غلام <mark>علی و سید علی</mark>
 
-### A
+#### A
 
 <mark>[Perso-Arabic manuscript facsimile]</mark>
 
@@ -9261,11 +9276,11 @@ Swaine Sc 12 Queen S<sup>t</sup> Golden Sq<sup>re</sup>
 
 * * *
 
-### APPENDIX, A.
+#### APPENDIX, A.
 
 (*Referred to in the* <span class="small-caps">Preface</span>.)
 
-### <span class="small-caps">Translation</span> *of No.* 1 *of the annexed Plate, being the* <span class="small-caps">Memorandum</span> *of* <span class="small-caps">Tippoo Sultan</span>.
+##### <span class="small-caps">Translation</span> *of No.* 1 *of the annexed Plate, being the* <span class="small-caps">Memorandum</span><br />*of* <span class="small-caps">Tippoo Sultan</span>.
 
 “ In the year *Sehr*, 1220 of the *Mowloody* [*i.e.* the birth] of Mahommed,[^fn-p0555-1] the  
 Fringy <sup>the 5th of the month Rubbâny</sup>  
@@ -9302,9 +9317,9 @@ Fringy <sup>the 5th of the month Rubbâny</sup>
 
 The foregoing memorandum is followed by a minute (also in the *Sultan's* handwriting) wherein the *Sultan*, after stating his own opinion pretty fully, calls upon his counsellors to deliver their sentiments, with regard to the measures proper to be pursued at this period (*viz.* the return of the hostages); after which follows a note of dates, furnished by Ali Rizâ Khân, and apparently designed to set the *Sultan* right, with respect to some of those given in the engraved memorandum. The dates in question relate, 1st. to the arrival of the hostages at *Madras*; &c., 2d. to their departure from thence; specifying precisely the day and hour of each occurrence, and differing considerably, in both articles, from the *Sultan's* statement.
 
-### <span class="small-caps">Translation</span>
+##### <span class="small-caps">Translation</span>
 
-### <span class="small-caps">Translation</span> *of No.* 2 *of the annexed Plate, being a* <span class="small-caps">Minute</span> *or* <span class="small-caps">Note</span>, *containing the joint opinion of* <span class="small-caps">Ghûlâm Ali</span> *and* <span class="small-caps">Syed Fuzl Ali</span>, *on the question respecting* <span class="small-caps">Colonel Doveton’s</span> *reception.*
+#### <span class="small-caps">Translation</span> *of No.* 2 *of the annexed Plate, being a* <span class="small-caps">Minute</span> *or* <span class="small-caps">Note</span>, *containing the joint opinion of* <span class="small-caps">Ghûlâm Ali</span> *and* <span class="small-caps">Syed Fuzl Ali</span>, *on the question respecting* <span class="small-caps">Colonel Doveton’s</span> *reception.*
 
 > “The humble representation of your slaves is this. If one person of the *Nazarenes* come along with the princes,[^fn-p0557-1] it is of no consequence. He may be both honoured with an interview, and amused[^fn-p0557-2] with the words of friendship. Whatever is in the heart, it may [nevertheless] remain there :[^fn-p0557-3] and whether the interview takes place at *Bangalore*, or elsewhere, does not signify. [On the other hand] in case his coming should be set aside, it will excite some mistrust in their minds.[^fn-p0557-4]
 
@@ -9380,7 +9395,7 @@ What immediately follows here, in the original, has already been given, in the o
 
 (*Referred to under* *<span class="small-caps">Letter</span>* *I.*)
 
-### *A* <span class="small-caps">Fac Simile</span> *of* <span class="small-caps">Tippoo Sultan’s Engagement</span> *with his* <span class="small-caps">Father.</span>
+#### *A* <span class="small-caps">Fac Simile</span> *of* <span class="small-caps">Tippoo Sultan’s Engagement</span> *with his* <span class="small-caps">Father.</span>
 
 See Plate annexed.
 
@@ -9390,9 +9405,9 @@ See Plate annexed.
 
 (*Referred to under* *<span class="small-caps">Letter</span>* *XVI.*)
 
-### *An* <span class="small-caps">Historical Sketch</span> *of the* <span class="small-caps">Patan Principality</span> *of* <span class="small-caps">Shânoor.</span>
+#### *An* <span class="small-caps">Historical Sketch</span> *of the* <span class="small-caps">Patan Principality</span> *of* <span class="small-caps">Shânoor.</span>
 
-### <span class="small-caps">INTRODUCTION.</span>
+##### <span class="small-caps">INTRODUCTION.</span>
 
 The following memoir is taken from a Persian manuscript, kindly communicated to me by my friend, Lieutenant Colonel M‘Kenzie. The author is Meer Hûsain Ali, a very intelligent Musulman, in the employ of that ingenious and indefatigable explorer of the history and antiquities of the *Decan*. If it be little more than a genealogical sketch of the distinguished family of which it treats, it possesses, at least, the merit of being derived, as far as it goes, from information obtained chiefly on the spot, and therefore the more likely to be authentic. Its principal defect consists in the total want of dates throughout the earlier part of the narrative; the first one with which we meet being that of the succession of the fourth chieftain, Bhûlool Khân, to the government of *Bunkapoor*, in A.H. 1022. And though, after this time, the number of years that each chieftain ruled over the principality is uniformly expressed, yet neither the commencement nor the close of the respective administrations, nor any of the few events recorded regarding them, are marked by the specification of the year in which they severally occurred; while even the few dates, deducible from the general narrative, are liable to considerable doubts and difficulties. I have endeavoured to supply this omission as well as I could; but have not always been able to do so entirely to my own satisfaction. When I may happen, therefore, to differ, with respect to dates, from preceding writers, I beg to be understood to do so with suitable diffidence, and not to pledge myself for the accuracy of my author.
 
@@ -9402,15 +9417,15 @@ I have only another observation with which to detain the reader. Perhaps, strict
 
 The *Patan* family, of which it is here proposed to give a brief account, and which, during a period of nearly three centuries, make a conspicuous figure in the annals of the *Decan*, affect, in common with every *Afghan*[^fn-p0569-1] tribe throughout the East, to derive their origin from Khâlid-bin-Wâlid, who was one of the most celebrated of the companions of Mahommed. What is more certain, however, than this boasted descent, is, that they justly reckon among their ancestors some of the principal nobles of the Musulman kingdom of *Beejapoor*. Of these, the acknowledged founder of the dynasty, was
 
-### 1. *Ján-nisár-Khán,*
+##### 1. *Ján-nisár-Khán,*
 
 who first distinguished himself during the reign of Ismâel Adil Shâh,[^fn-p0569-2] by whom he was raised to the dignity of an *Omra* of one of the higher orders. Being of a remarkably swarthy complexion, as well as of a savage appearance and nature,[^fn-p0569-3] the Decanese gave him the name of Kâlâ-puhâr, or *the black mountain*. After attaining, under Ali Ibrâheem Adil Shâh,[^fn-p0569-4] the successor of Ismâel, to some of the first offices of the state, he lost his life at *Ahmed Nugr*, in a battle with the army of Nizâm Shâh.[^fn-p0569-5] He was succeeded by his eldest son,[^fn-p0569-6]
 
-### 2. *Uzeez Meea,*
+##### 2. *Uzeez Meea,*
 
 who, under the title of Futah Lushkur Khân, acquired great celebrity, during the reign of Ali Adil Shâh;[^fn-p0569-7] from whom he received, besides the *Musnud*, or dignity, of an *Omra* of one thousand five hundred, the much coveted distinctions of the standard and kettle-drum.[^fn-p0569-8] He closed a brilliant career, in the course of which he was no less eminent as a statesman than as a warrior, by falling honourably in battle, as his father had done. He was succeeded by his son,
 
-### 3. *Jubbâr Meea Meeâneh*,
+##### 3. *Jubbâr Meea Meeâneh*,
 
 who was so favoured by fortune, that he is said to have never failed in any military enterprize in which he engaged. No doubt he owed much of this extraordinary success to the enthusiastic attachment of his followers : an attachment which would appear to have been inspired, in the first instance, by their confidence in his valor and prudence, and subsequently confirmed by his earnest care to provide, on all occasions, for their ease and comfort. By these means he soon outstripped, in reputation and influence, the most eminent of his cotemporaries at the court of *Beejapoor*.
 
@@ -9420,7 +9435,7 @@ However this might be, Jubbâr Meea, remaining himself in attendance on his sove
 
 Jubbâr Meea is stated to have fallen in battle, like both his predecessors, and to have been succeeded, in the year 1022 of the Higera, by his son.
 
-### 4. *Bhúlool Khán,*
+##### 4. *Bhúlool Khán,*
 
 who would, hereupon, appear to have removed the seat of his government from the town and fortress of *Bunkapoor*, to a place in the vicinity thereof, called *Sánoor*, or *Shánoor-hully*; to which he is said to have been attracted by the beauty of its environs and the salubrity of its air. Here he founded and peopled a large city, to which he gave the name of *Shánoor*; erecting in it a handsome palace for his own residence, and several commodious *bazars* (or market-places) for the convenience of the inhabitants. *Bunkapoor*, being thus abandoned by its chiefs, fell rapidly to decay, so that there is hardly a trace of it to be seen at this day. The fate of *Shánoor* itself has been little better, “ that delightful city being now “ reduced,” says our author, who wrote only about ten years ago, “ from an “ earthly paradise, surrounded by pleasant gardens, abounding in fruits of various “ sorts, and fertilized by numerous canals, to the condition of the meanest of all “ mean places.”
 
@@ -9428,7 +9443,7 @@ Nothing further is recorded of Bhûlool Khân, till the period when Aurungzebe a
 
 Bhûlool Khân, exclusive of the term of his administration as his father’s deputy, is stated to have ruled over the principality of *Shánoor* during a period of forty-nine (lunar) years; upon his death he was succeeded by his son,
 
-### 5. *Duleel Khán,*[^fn-p0571-1]
+##### 5. *Duleel Khán,*[^fn-p0571-1]
 
 otherwise called Dileer Khân; the latter being a title conferred on him by the Emperor Allumgeer, on the occasion which will be presently noticed. In the mean while, he is said to have applied himself, with unwearied diligence, to the improvement of his *Jageer* : and though his father had, long since, renounced his allegiance to his legitimate sovereign, the present chief thought it expedient to make a show of submission to the feeble authority of that prince. Whether he adopted this line of conduct immediately on his accession to the *Musnud*, and during the remainder of the second Ali Adil Shâh’s reign, does not distinctly appear; but it is certain, that he maintained an epistolary correspondence with Secunder Adil Shâh,[^fn-p0572-1] which was deficient in nothing but sincerity. In the end, however, throwing off all further disguise, he repaired with two thousand Afghan horse, and from three to four thousand well-armed infantry, to the standard of the Emperor Allumgeer, by whom he was received with distinguished honour. He subsequently consummated his treason and ingratitude towards the royal race, through whose unbounded favor himself and family had attained to their present eminence and power, by assisting in the reduction of *Beejapoor*, and in the consequent extinction of the dynasty of Adil Shâhy.
 
@@ -9440,7 +9455,7 @@ After this, Dileer Khân distinguished himself, in an eminent degree, at the sie
 
 Dileer Khân now retired to the seat of his government; nor would either he, or the other *Patan* chieftains of the *Decan*, appear to have taken any part in the succeeding troubles, excited by the various intrigues and factions which distinguished the period in question. Dying, at length, in the thirty-second year of his rule over the *Shánoor* principality,[^fn-p0574-1] he was succeeded by his son,
 
-### 6. *Abdúl Ghuffár Khân,*
+##### 6. *Abdúl Ghuffár Khân,*
 
 of whom nothing in particular is recorded, till the death of Allumgeer, at which period he paid his court so effectually to Khân Jehân, the foster-brother of the late emperor, and governor in chief, or viceroy of the *Decan*, on the part of the new emperor, that he soon obtained from him the requisite patents of confirmation in his *Jageer*, or principality.
 
@@ -9462,7 +9477,7 @@ After some time, taking offence at the great state assumed by Khân Gooreh, the 
 
 Khân Jehân dying about this time, was succeeded in the government of the *Decan* by Meer Hûsain Ali Khân, the younger of the two ambitious brothers, celebrated, in the history of this turbulent period, under the appellation of the the *Siyuds* of *Bârheh*. Hereupon the *Patan* chieftain dispatched his son, Ghufoor Meea, to *Bûrhânpoor*, with a considerable *Nuzr* in money, and other valuable presents for the new viceroy, who, in return for this seasonable complement, confirmed him in the possession of his *Jâgeer*, as well as of the other dignities enjoyed by his predecessor. After this he gave himself up to a life of ease and dissipation, and at length dying, in the twenty-eighth year[^fn-p0576-2] of his government, was succeeded by his above-mentioned son,
 
-### *7. Ghufoor Meea,*
+##### *7. Ghufoor Meea,*
 
 who was scarcely seated on the *Musnud*, before he was called upon to repel an invasion of the Mahrattahs, headed by a chieftain of the Râsta family, by whom great
 
@@ -9476,7 +9491,7 @@ who was scarcely seated on the *Musnud*, before he was called upon to repel an i
 
 From this time Ghufoor Meea remained at peace until his death, which took place in the ninth year of his government,[^fn-p0577-1] and during the *Nawáb*, Asof Jah's,[^fn-p0577-2] viceroyalty of the *Decan*. He was succeeded by
 
-### 8. *Abdûl Mujeed Khán*,[^fn-p0577-3]
+##### 8. *Abdûl Mujeed Khán*,[^fn-p0577-3]
 
 who already aspiring to complete independence, omitted paying his court to Asof Jah, and rashly assumed the management of his patrimony, without applying for, or obtaining, the customary patent of confirmation from the viceroy. By this conduct he drew upon himself, as might be expected, the displeasure of Asof Jah, who had, about this period, transferred the seat of his government from *Aurungabad* to *Hyderabad*, and who lost no time in preparing to chastise the contumacy of the *Patan*. With this view, after having dispatched his grandson, Hidâyet Mohyûddeen Khân (better known afterwards by the title of Mûzuffer Jung) to take possession of *Beejapoor*, he marched himself directly against *Shánoor*, many of the districts of which he resigned to the depredations of his army. He was, on this occasion, eagerly joined by the disaffected *Daise-pándehs* of *Serhutty*, *Guduk*, and other *Polygars* ; who, stimulated by their habitual hatred of the Afghans, omitted no means of inflaming his resentment against Abdûl Mujeed. Asof Jah, however, was too wary and experienced, to allow himself to be swayed by the interested representations and suggestions of these people ; and having nothing in view but to bring the *Patan* to a proper sense of his duty, he readily admitted of the mediation of the chief of *Kurnool* for that purpose. Thereupon hostilities ceased, and the negotiation terminated in Abdûl Mujeed’s paying two *lacks* of *rupees* to the *Nizám* ; to whom he also made various valuable presents, in return for which he obtained patents of confirmation in all his possessions. It being thought proper, on this occasion, that the *Patan* should make a visit of form to the Viceroy, he only consented to do so, on the express condition of being received in a manner suitable to the high rank which he held among the *Omras* of the empire. Accordingly, Nâsir Jung, the second son of Asof Jah, was deputed to conduct him to the *Durbâr* ; where, on his arrival, the Viceroy seated him on the *Musnud*, with himself. He was even permitted to smoke his *Húkkah* during this interview : and when he did homage to Asof Jah, as his official superior, by presenting him with the usual *Nuzrs*, the Viceroy condescended to receive them standing. In short, Asof Jah omitted no attention towards him, which could gratify his pride or vanity : “having” (as our author observes) “the wisdom to think, that the attachment of so powerful a chieftain “would be cheaply purchased at the price of such trivial concessions.” Nor was he mistaken in his calculation ; since the *Patan* was so highly pleased with the gracious and flattering behaviour of the Viceroy towards him, that, from a contumacious vassal, he was suddenly converted into one of the most useful and zealous adherents of that celebrated personage. This was soon after evinced, by his accompanying Asof Jah, in the year of the *Higera*[^fn-p0578-1] 1157 (or A. D. 1744) in the expedition of the latter to the *Payen Ghaut Carnatic* ; where himself and followers acquired considerable renown for their valor on several occasions ; particularly at the attack of *Nuthurnugr* (or *Trichinopoly*), at that time in the possession of Murâr Râo Ghoarpurreh.
 
@@ -9486,7 +9501,7 @@ Asof Jah dying about four years after this,[^fn-p0578-2] was succeeded, as *Soub
 
 Abdûl Mujeed would not appear to have taken any share in the troubles which followed the transaction just related, and which continued to disturb the tranquillity of the *Decan* for five or six years after: nor do we hear further regarding him, till his death, which took place in the thirty-second year of his government, [^fn-p0579-2] when he was succeeded by
 
-### 9. *Abdûl Hukeem Khân Meeaneh*,[^fn-p0579-3]
+##### 9. *Abdûl Hukeem Khân Meeaneh*,[^fn-p0579-3]
 
 not long after whose accession Nizâm Ali Khân (who had, by this time, seized upon the government of the *Decan*) in conjunction with the Mahrattahs proceeded against *Shânoor*, with the avowed intention of overturning that state, and avenging the murder of the former’s brother, Nâsir Jung. In pursuance of this purpose, the confederates entered and laid waste the *Patan* territories for the space of three months ; in the course of which the Mahrattahs also possessed themselves of *Serhutty*, *Misry-cotâh*, *Gudduck*, and other places depending on the *Shânoor* principality. Abdûl Hukeem, being of an indolent character, and addicted to pleasure, and despairing, moreover, of being able to cope successfully with such superior forces as now encompassed him, determined, if possible, to save himself by submission. With this view, he solicited and obtained the mediation of Busâlut Jung, the brother, and of Rûknûd Dowlah, the *Dewân* (or minister), of the *Nizâm*, who was prevailed upon, at their instance, to accept of two *lacks* of *rupees* from the *Patan*, as an atonement for what had passed. The Mahrattahs, however, though with less cause of complaint, were not so easily satisfied ; Abdûl Hukeem been obliged to relinquish to them, in perpetuity, the sixteen *Mahals*, of which they had made themselves masters in the course of the late irruption.
 
@@ -9559,7 +9574,7 @@ Peace being concluded, soon after this, between the confederates and Tippoo, the
 
 From this time we hear nothing more of *Shânoor* or its chieftain, till the year 1791, at which period the Mahrattahs, in pursuance of the engagements which they had recently entered into with the English, for the purpose of reducing the power of Tippoo Sultan, advanced against the capital of the latter; but not before they had seized, in their way thither, upon the whole of the *Patan* territory, in the possession of which they were formally confirmed, the following year, by the partition treaty of *Seringapatam*. In the meanwhile, Abdûl Hukeem dying,[^fn-p0588-1] after a long but unprosperous administration, was ostensibly succeeded by his son,
 
-### 10. *Abdûl Khyre Khân,*
+##### 10. *Abdûl Khyre Khân,*
 
 commonly called Kheera Meea, whose inheritance was now reduced to a single *Mahal*, which the Mahrattahs had the generosity to assign him for his maintenance, and of which, if still living, he probably continues in possession at this day. His wife, I believe, had been withdrawn some years before from his protection, by her brother, in whose *Haram* she was found, if I recollect rightly, at the capture of *Seringapatam* ; when, I am also inclined to think, that she was pensioned, along with the rest of the late *Sultan's* family, by the British government.
 
@@ -9569,7 +9584,7 @@ commonly called Kheera Meea, whose inheritance was now reduced to a single *Maha
 
 * * *
 
-### <span class="small-caps">Commercial Regulations.</span>
+#### <span class="small-caps">Commercial Regulations.</span>
 
 The *Sultan's* regulations for the commercial department of his government, of which it is proposed to give an outline in the present article, were issued at two different periods; one section of them being dated the 14th of *Ahmedy* of the year *Sáhir*, or A.M. 1221,[^fn-p0589-1] and another, the 3d of *Ahmedy* of the following year, *Rásikh*.[^fn-p0589-2] They are introduced by two passages from the *Koran*, headed in the following manner:—
 
@@ -9626,7 +9641,7 @@ Next follow the more specific or detailed directions for the guidance of the dep
 - VI. Of commercial deposits ; or a plan for admitting the people at large to a participation in the benefits to accrue from the trade of the country.
 - VII. Of field *Mulikût Tújárs*.
 - VIII. Miscellaneous regulations.
-### I. *Of the Marine Force.*
+#### I. *Of the Marine Force.*
 
 Before proceeding to communicate the substance of this article, it is proper to apprize the reader, that although, at the date of the following regulations, the marine department was placed under the control and superintendance of the *Mulikût Tújárs*, or board of trade, yet it was erected, a few years after, into a separate and independent branch of the government, under the denomination of the *Meer Yumm*, or admiralty department ; of which a more particular account will be found in Appendix K, including a detailed statement of the naval force at that time in the *Sultan’s* contemplation.
 
@@ -9650,7 +9665,7 @@ The four following articles are extracted from the instructions to the *Meer Aso
 
 9. Whereas the ships of *China* are precluded, by the circumstance of not being armed,[^fn-p0593-4] from resorting to these seas,[^fn-p0593-5] some of ours must be sent to that country ; where due encouragement and assurances being given to the merchants thereof, and the protection of our vessels being afforded them, they will be induced to repair hither, with an abundant supply of the rare productions of that region. These being disposed of, the vessels, so importing, are to be permitted to depart, whenever the owners or merchants please, and are to be safely conducted, under a proper convoy of our ships, to the borders of our dominions.[^fn-p0594-1]
 
-### II. *Of the Kohties, or Factories, of Muscat and Kutch.*
+#### II. *Of the Kohties, or Factories, of Muscat and Kutch.*
 
 Though not stated in the instructions to the commercial department, it appears by an article in those addressed to the *Meer Asofs*, that there were *two* factories established by the *Sultan* at each of the ports of *Muscat* and *Kutch*. One of these, belonging to *Muscat*, consisting of fifty of what are called *Chushmehs*, was placed under the orders of the *Asof* of *Jumálábád* : the other, consisting of thirty-four *Chushmehs*, was given in charge to the *Mulikút Tújár* department. Again, of the two factories of *Kutch*, one, consisting of twelve *Chushmehs*, was committed to the superintendance of the *Asof* of *Wájidábád* : the other, containing twelve *Chushmehs*, being subjected, like the inferior factory of *Muscat*, to the authority of the commercial board. What is meant by *Chushmehs* (springs or fountains) I cannot at present state with any confidence; but I think it probable, that the term may have a reference to the number of the commodities, in which the dealings of the respective factories consisted.
 
@@ -9668,14 +9683,14 @@ The instructions relative to the factories in question, addressed directly to th
 - 6. You are annually to procure from the factory at *Muscat* six thousand *Khâm Utls*[^fn-p0595-3] of sulphur of the first quality, and to dispose of the same according as you shall be directed by us, upon your reporting its arrival.
 N. B. Most of the articles composing the preceding, as well as the following instructions, are subscribed at the end of each with the words *Nubby Málik* (or, the the beginning of year of the *Higera* 1201 (1786-7) : but they were without a date, as usually inscribed on all seals, “ because,” as the *Sultan* says in the letter alluded to, “ the year being indicated by “ the numerical value of each inscription, reckoned according to the *Zur* “ notation,[^fn-p0595-4] its insertion *is unnecessary*.” Thus the inscription on the seal of the *Kutch* factory was ظرف ذهب (the golden vase or vessel) the letters of which gave 1201 : that belonging to the *Juddah* factory[^fn-p0595-5] contained the words دارسراسر مال (the mansion, or city, abounding in wealth), which also yield the year 1201. The inscription on the official seal of the remaining factory of *Muscat* is not perfectly legible : the words کان زر (mine of gold) being alone distinct. These letters amount to 1131. The next word appears to be خصر (equal to 67) ; and this is followed by an indistinct mark, which may be supposed to have been meant for a ت This would complete the number 1201 : but though it were allowable to read خصرت I do not know that any sense could be made of it. the Prophet is Lord), written in the *Sultan’s* own hand, and formed in the manner of a cypher. This was the signature by which he always attested his orders.
 
-### III. *Of the Appropriation of the Fund, or Capital, allotted for Commercial Purposes.*
+#### III. *Of the Appropriation of the Fund, or Capital, allotted for Commercial Purposes.*
 
 - 1. The sum of four *lacks* of *Râhities*[^fn-p0596-1] has been committed to you, in trust, for commercial purposes. With this money you are to make the necessary purchases of gold and silver bullion,[^fn-p0596-2] cloths, elephants, &c.[^fn-p0596-3] and to hold the same in readiness [for exportation]. With the blessing (or aid) of God the most high, *countless profit* shall be hereby acquired.
 - 2. Having stated to the Presence the number of elephants, as well as the several quantities of sandal-wood, cardamums (great and small), round (or black) pepper, rice, beetle, cocoa-nuts (dry and moist), and cinnamon,[^fn-p0596-4] required for commercial purposes [*i. e.* for exportation], and having thereupon received from us the necessary orders to the *Asofs* for assisting you in the purchase thereof, at such prices as shall be regulated by them, you will pay into the hands of the said *Asofs* the value, as so settled, of every article with which you shall be supplied, taking their receipts for the same.
 - 3. All purchases of gold and silver, coined or uncoined, and of silken stuffs made of your department, whether on account of the Presence, of the *Asof Kuchurry*, or of the *Sudoor Kuchurry*, shall be paid for in money; and you must, in like manner, pay in money for whatsoever articles you may purchase of the said *Kuchurries*. If, however, the payments in question should be postponed for three or four months, it will be of no consequence.
 - 4. Gold and silver bullion, jewels, silks, and other valuable articles, may be received as pledges for the payment of goods sold by your agents: thus for goods valued at one thousand *rupees*, a pledge of the value of 1200 rupees may be accepted.
 - 5. You are to pay the established duties or imposts on all articles,[^fn-p0596-5] in the same manner as is done by the *Ryots* in general.
-### IV. *Of the Commercial Depots, or Marts, established in Mysore; and of Provincial Factors, and other Officers of Commerce.*
+#### IV. *Of the Commercial Depots, or Marts, established in Mysore; and of Provincial Factors, and other Officers of Commerce.*
 
 1. You are to entertain in our service, and to station at the thirty places within our dominions, hereafter enumerated, the necessary *Gúmúshtehs* and *Mútusuddies*, for carrying on, to the extent suited to the place, a trade in such articles as shall yield a proper profit.
 
@@ -9726,7 +9741,7 @@ N. B. Most of the articles composing the preceding, as well as the following ins
 
 10. You are [periodically] to receive back from the *Náibs* and *Mútusuddies* above-mentioned, all such letters and receipts [or acknowledgements] whether formal or informal,[^fn-p0598-2] as you have previously written or sent to them. Of these you are to make a list [or abstract], which, after affixing a seal and signature to it, your are to deliver to the said *Náibs*, in lieu of the original documents, which last are all to be destroyed.[^fn-p0598-3]
 
-### V. *Of the Means to be pursued, with a view to the opening and establishing of a Commercial Intercourse with Foreign Countries.*
+#### V. *Of the Means to be pursued, with a view to the opening and establishing of a<br />Commercial Intercourse with Foreign Countries.*
 
 1. You must address *Urzies* to the *Sirdárs* [or chiefs] of foreign countries,[^fn-p0599-1] and send the same, together with [suitable] presents for the said *Sirdárs*, by the hands of persons of respectable character and condition. After applying to, and obtaining from, those *Sirdárs*, the necessary *Kowl*[^fn-p0599-2] for the purpose, you will proceed to establish factories in their countries, by appointing and sending thither the requisite officers, duly provided with money.
 
@@ -9758,7 +9773,7 @@ N. B. Most of the articles composing the preceding, as well as the following ins
 
 - 6. Agents must, also, be sent to those foreign parts noted for their silken manufactures; which being purchased, are to be brought hither, and sold at an advantageous price.[^fn-p0600-1]
 - 7. Sending, in charge of your deputies or agents, to other countries, the produce of our dominions, and disposing of the same there, the produce of those countries must be brought hither in return, and sold at such prices as will afford [good] profit.[^fn-p0600-2]
-### VI. *Of Commercial Deposits; or a Plan for admitting the People at large to a Participation in the Benefits to accrue from the Trade of the Country.*[^fn-p0600-3]
+#### VI. *Of Commercial Deposits; or a Plan for admitting the People at large to a Participation in the Benefits to accrue from the Trade of the Country.*[^fn-p0600-3]
 
 - 1. All praise and glory be to the most high God, who, breathing life into a handful of clay, which was before inanimate, gave it the form of man; and who has raised some chosen individuals [of the species] to rank and power, riches and rule, in order that they might administer to the feeble, the helpless, and the destitute, and promote the welfare of their people.
 In pursuance of this duty, we now decree as follows:
@@ -9773,13 +9788,13 @@ In pursuance of this duty, we now decree as follows:
 
 Here follow some subsidiary regulations, respecting the mode in which the accounts of these transactions were to be kept, which it is not thought necessary to insert.
 
-### VII. *Of Field Mulikût Tújárs.*
+#### VII. *Of Field Mulikût Tújárs.*
 
 1. As often as three or more *Kushoons* of the *Meer Meerán* department, together with two or more *Kushoons* of the *Meer Sudoor* department,[^fn-p0601-2] are sent upon any service of the *Khodádád Sircar*, there are to be attached to such force one *Meer Meerán* [or general officer in command], one *Meer Sudoor*, one *Meer Asof*, *Asof*,[^fn-p0602-1] one *Meer Khâzin*,[^fn-p0602-2] and one *Mulikût Tûjâr*, who are conjointly to order all issues of pay and other disbursements, and to consult together on all matters relating to the interests of the state, such as war, revenue, the state of garrisons, &c.; on which occasions the result of their deliberations is to be committed to writing, according to which they are to act.[^fn-p0602-3] The record, containing the aforesaid deliberations, is to be deposited in a box, which is to be sealed up, and lodged as directed in Article 21 of the first section of these Regulations.
 
 - 2. When one or two *Kushoons* are detached on any service, under a *Bukhshy* or *Sipahdâr* of the *Meer Meerân* department, or when one *Kushoon* from the *Meer Sudoor* department is so detached, there must be sent with such *Bukhshy* or *Sipahdâr*, from each of the departments of state above enumerated, a person of respectable character and condition, and properly qualified for the situation; whose duty it shall be to assist in all deliberations on the affairs of government, in the same manner, and with the same authority, as prescribed in the case of a *Meer Meerân*, &c. employed with a superior force.
 - 3. You must accordingly provide five men of respectable family, and duly qualified for the occasional discharge of the trust in question, and present them [for our approval]: after which you must give them the necessary instructions for their guidance in the service for which they are designed, and hold them in readiness to proceed on the same whenever required.[^fn-p0602-4]
-### **VIII.** *Miscellaneous Regulations.*
+#### **VIII.** *Miscellaneous Regulations.*
 
 - 1. Every possible encouragement was to be given to the culture of sandal-wood and black pepper; the *Ryots’* share of which articles of produce was constantly to be bought up, on account of the *Sircar*.
 - 2. The commercial *Nâibs*, stationed with the several provincial *Asofs*, were authorised to employ *Gûmáshtehs*, throughout their respective districts, for the purpose of trafficking in all articles, excepting those exclusively reserved for the account of government (among which sandal-wood, and coined and uncoined gold and silver, are particularly specified). With the exception of such articles, they might deal freely [^fn-p0602-5] in all others, without let or hindrance from the *Asofs*, who,
@@ -9797,7 +9812,7 @@ on the contrary, were directed to be aiding to them in their commercial pursuits
 
 *(Referred to at* *<span class="small-caps">LETTER XL.</span>**)*
 
-### <span class="small-caps">Copy</span> *of* <span class="small-caps">Instructions</span>, *relative to* <span class="small-caps">Intelligence</span>, *directed to the* *Dároghas of Hurkárehs, and others.*[^fn-p0604-1]
+#### <span class="small-caps">Copy</span> *of* <span class="small-caps">Instructions</span>, *relative to* <span class="small-caps">Intelligence</span>, *directed to the*<br />*Dároghas of Hurkárehs, and others.*[^fn-p0604-1]
 
 [*In the Sultan's own hand.*]
 
@@ -9821,7 +9836,7 @@ To this purport other instructions have been written, directed to Akibut Mahomme
 
 The following is a translation of a note addressed to Tippoo, by no less a personage than Mahommed Mukhdoom, the son of Lala Meea. This document shows, that the *Sultan* employed spies of all ranks.
 
-### Letter 431: Mahommed Mukhdoom → Tippoo Sultan
+### Letter 436: Mahommed Mukhdoom → Tippoo Sultan
 
 “ Cherisher of the World ! Health be unto you !
 
@@ -9884,7 +9899,7 @@ This, I believe, was the cypher in which (as mentioned at Letter LIII) the descr
 
 (*Referred to at Letter* CII.)
 
-### *An* <span class="small-caps">HISTORICAL SKETCH</span> *of the* <span class="small-caps">PATAN PRINCIPALITY</span> *of* <span class="small-caps">KURNOOL.</span>[^fn-p0607-1]
+#### *An* <span class="small-caps">HISTORICAL SKETCH</span> *of the* <span class="small-caps">PATAN PRINCIPALITY</span> *of* <span class="small-caps">KURNOOL.</span>[^fn-p0607-1]
 
 *Kurnool*, or, as my Persian original has it, *Kunnool*,[^fn-p0607-2] is by some authorities described as a *Muhul*, or *Purgunnah*, of the *Sircar Adoni*; while others call it a *Sircar*, giving, at the same time, the title of *Soubah* (as in the case of *Bunkapoor*) to *Adoni*. But however this might be, it is certain that, as well during the existence of *Beejapoor* as a separate state, as subsequently to its degradation to the rank of a province of the Moghul empire, both the districts in question were included in its jurisdiction.
 
@@ -9892,7 +9907,7 @@ This, I believe, was the cypher in which (as mentioned at Letter LIII) the descr
 
 The founder of the Patan dynasty of *Kurnool* was, as has been elsewhere incidentally mentioned,[^fn-p0607-3]
 
-### 1. *Khizr Khán Punny*,[^fn-p0607-4]
+##### 1. *Khizr Khán Punny*,[^fn-p0607-4]
 
 an Afghan, of the tribe called *Poory-Zye*.[^fn-p0607-5] He had already attained to some rank in the Moghul army, when the latter was joined from *Shánoor* by Bhûlool Khân, between whose family, and that of Khizr Khân, a great friendship had always subsisted. The young men having, in consequence, been educated together, had contracted a strict intimacy, which was now renewed, and closely cultivated by both. Bhûlool Khân happening, at this conjuncture, to stand high in the favour of Aurungzebe, as well as in that of his chief counsellor, Khân Jehân Khân, employed his credit with them so effectually in behalf of his friend, that Khizr Khân, besides an augmentation of his immediate *Munsub*, soon obtained the government of *Kurnool* in *Jágeer*, upon the condition of his maintaining, for the imperial service, a body of three thousand horse, and seven thousand foot. The limits of the *Sircar* of *Kurnool* (as it is on this occasion called) have probably fluctuated greatly, in the course of the various revolutions which that district has experienced. They must, at least, if the information before me be accurate, have been considerably more extensive, at the period just now referred to, than they are at this time, since the revenue, of which Khizr Khân became master, is rated at a sum exceeding thirty-four *lacks of rupees*.
 
@@ -9900,35 +9915,35 @@ The fortress of *Kurnool* had not yet submitted to the Moghul arms, but was stil
 
 We hear nothing further of Khizr Khân, till several years after this time, when he is said to have distinguished himself greatly at the siege of *Aurungabad*, conducted by Allumgeer in person. It was at this juncture that, while proceeding one day to pay his respects to the Emperor, he happened to encounter, at a gateway leading to the Imperial residence, Shaikh Minhâj De Rany, an *Omra* formerly of the first rank at the court of *Beejapoor* (which, with several other nobles of that declining kingdom, he had some time before quitted in disgust), and no less celebrated for his bold and unguarded language on all occasions, than for his intrepidity in the field. Whether any rivalry or ill-will had previously subsisted between these two great men does not appear; but meeting now in the situation which has been mentioned, they engaged in a violent dispute regarding precedence, which soon terminated in the death of Khizr Khân, who fell by a wound, inflicted during the contest, by his adversary’s own hand.[^fn-p0609-1] The latter, nevertheless, utterly fearless of the consequences of his sanguinary rashness, instantly repaired to the Imperial Presence; where, with a levity but ill suited, either to the place or to the occasion, he scoffingly related, “that having met, in “his passage through the portal of the palace, with a kicking ass,[^fn-p0609-2] he had “presently removed the nuisance.”[^fn-p0609-3] The Emperor, astonished at this address, was still considering what it could mean, when the *Urz-baigy*[^fn-p0609-4] appearing, explained the allusion of the *Shaikh*, by a circumstantial report of what had happened. The murderer, in the mean while, remained perfectly unmolested: for such was the weight and credit which he enjoyed, at this time, at the imperial court, that Allumgeer judged it expedient to wink at his conduct on the present occasion. It was not thus, however, with
 
-### 2. *Dáood Khân Punny*
+#### 2. *Dáood Khân Punny*
 
 the son of Khizr Khân, who no sooner learned the fate of the latter, than, quitting the government of the *Payen Ghaut Carnatic*, which had been some time before confided to him by Allumgeer, he hastened to *Kurnool*; from whence, after collecting together a considerable body of troops, and leaving his brother, Ali Khân, in charge of his *Jágeer*, he proceeded by rapid marches towards *Aurungabad*, with the avowed purpose of avenging his father’s death. The desperate step thus taken by the Patan excited no small uneasiness in the mind of the Emperor, who was justly apprehensive, lest it should produce a division, and perhaps a tumult, in the imperial army, in which both Shaikh Minhâj and his adversary had numerous friends and partisans. If he sent a force to oppose the progress of the latter, or to chastise his temerity, it would be to proclaim the contempt entertained for his authority; and if, on the other hand, he suffered the Patans, in the present disposition of their leader, to join the imperial camp, he anticipated the confusion and bloodshed which were too likely to ensue, from the impetuous spirit, and deep-rooted hatred of the contending chiefs, acting on the fierce and turbulent character of their respective adherents. From this dilemma he was, however, for the present, relieved, by Zoolfkâr Khân, the *Khánsámán* (or house steward) of the *Vizier*, Asud Khân, who had been the intimate friend and sworn brother of Khizr Khân; by whose sons he had been, in consequence, always considered in the light of an uncle. Zoolfkâr Khân, availing himself of this title to the deference of the Patan (and which, by Mahommedans in general, is deemed to be little or nothing inferior to the claims derived from absolute consanguinity), proposed to write to his adoptive nephew, exhorting him to submit himself entirely to the justice of the Emperor, and dismissing the chief part of his followers, to repair, in perfect confidence, to his (Zoolfkâr’s) quarters; whence he promised to conduct him to an audience of his Majesty, and to procure for him all the satisfaction he could desire. Dâood Khân, yielding to the advice and entreaties of his friend, was immediately presented to the monarch; who, besides a most gracious reception, gave him some wholesome counsel for the regulation of his conduct, which he concluded, by assuring him that, in regard to his father’s death, the law should take its course. The following day was accordingly appointed for the public hearing of the cause. In the mean while, however, desirous, either for personal or political reasons, of skreening the culprit, if possible, from punishment, Allumgeer sent privately for Shaikh Minhâj; and telling him that as, agreeably to the law, he could not be convicted of the offence imputed to him, except upon his own admission, he (the Emperor) trusted that he would feel no hesitation, when confronted with his accuser, in asserting his innocence. To this the *Shaikh* is said to have apparently assented: but however that might be, he was, no doubt, very far from entertaining such an intention; since the next morning, when publicly interrogated on the occasion, instead of denying the crime laid to his charge, he loudly exclaimed, “ that it was most true that he had slain the whoreson[^fn-p0610-1] in “ question, with the identical poignard which he then held in his hand, and that he “ was, in like manner, prepared to kill any other whoreson, who should seek to “ avenge his death.” So saying, he quitted the *Durbâr*, leaving the whole assembly in utter amazement at his temerity. Nor was it at any future period in the power of Dâood Khân to wreak his meditated vengeance upon the murderer of his father; who, after this time, was always surrounded by a body of three hundred well armed and desperate Decanies, whose particular duty it was to watch the motions of the Patans, and whose vigilance and courage constantly frustrated every attempt of the latter upon his life.[^fn-p0610-2]
 
 It is not stated by our annalist, what means were taken by the Emperor, in this perplexing predicament, to reconcile Dâood Khân to the disappointment of those hopes of public satisfaction for the murder of his father, which he had been confidently taught to entertain. It appears, however, that the Patan continued with the imperial army till the death of Allumgeer; some time after which event he was slain in a sanguinary tumult, excited, as Meer Hûsain says, by the jealousy and hostility of a faction at court, who spared no means to effect his disgrace and removal from thence. By other accounts, however, it would appear that he fell in an attempt which he had made to cut off the Viceroy of the *Decan*. What is certain is, that many *Omras* of distinction, besides Dâood Khân, lost their lives upon this occasion. He dying without issue, was succeeded by his only brother,
 
-### 3. *Ali Khán Punny*,
+##### 3. *Ali Khán Punny*,
 
 who ruled between five and six years, during which period nothing is recorded of him. Upon his death, the government devolved upon his son,
 
-### 4. *Ibraheem Khán*,
+##### 4. *Ibraheem Khán*,
 
-who is stated to have filled the office of *Soubahdár* of *Adoni*, during the life-time of his uncle, Dâood Khan; but whether on the part of the latter, or under an immediate nomination from the Viceroy of the *Decan*, is not mentioned. I incline to think, however, that he must have held it as a separate government, since their is no authority, that I know of, for believing that *Adoni* constituted at any period, a dependency of *Kurnool*. However this may be, Ibraheem Khân, soon after ascending the *Musnud*, set about rebuilding with masonry the citadel of *Kurnool*, the wall of which, before this time, appears to have consisted only of mud. He also made considerable additions and improvements to the town; and applying sedulously to the augmentation of his military force, and particularly to that part of it composed of Afghans of his own tribe, soon found himself at the head of a respectable till then so often used with impunity, both to high and low: for it is related of him, that having, on some occasion, discovered a slight error in an account submitted to his inspection, he passionately taxed the clerk, who had prepared it, with negligence, applying to him, at the same time, his customary term of abuse. This drawing from the insulted clerk a respectful, but spirited remonstrance, the *Shaikh*, exasperated at what he conceived to be the insolence of his servant, not only repeated the offensive appellation, but accompanied it with a slap on the face. The poor *Mûtusuddy*, rendered frantic by this aggravation of the disgrace already put upon him, and (as my author expresses it) “washing his hands “of life,” suddenly plunged the pen,[^fn-p0611-1] with which he was writing, into the side of his master, who died of the wound thus inflicted. It is scarcely necessary to add, that his murderer fell, at the same instant, a sacrifice to the fury of the surrounding attendants. respectable army, with which he was enabled to subject to his authority, and to exact tribute from, many of the surrounding *Polygars*, who had, for some time past, paid a very reluctant obedience to their Mahommedan rulers.
+who is stated to have filled the office of *Soubahdár* of *Adoni*, during the life-time of his uncle, Dâood Khan; but whether on the part of the latter, or under an immediate nomination from the Viceroy of the *Decan*, is not mentioned. I incline to think, however, that he must have held it as a separate government, since their is no authority, that I know of, for believing that *Adoni* constituted at any period, a dependency of *Kurnool*. However this may be, Ibraheem Khân, soon after ascending the *Musnud*, set about rebuilding with masonry the citadel of *Kurnool*, the wall of which, before this time, appears to have consisted only of mud. He also made considerable additions and improvements to the town; and applying sedulously to the augmentation of his military force, and particularly to that part of it composed of Afghans of his own tribe, soon found himself at the head of a respectable army, with which he was enabled to subject to his authority, and to exact tribute from, many of the surrounding *Polygars*, who had, for some time past, paid a very reluctant obedience to their Mahommedan rulers.
 
 After this, leaving his son, Alif Khân, in charge of his *Jágeer*, he proceeded himself, by the advice of his principal counsellors, to *Aurungabad*, for the purpose of paying his court to Khân Jehân Khân, who was at that time Viceroy of the *Decan*. This he did so successfully, that in return for a *Nuzr* of five *lacks* of *rupees*, which he presented to the Viceroy, he obtained, instead of the usual patent of confirmation for his *Jágeer*, a new grant, in which the former stipulations, whatever they might have been, were wholly omitted. Having accomplished this object, he returned to *Kurnool*, where he occupied himself in the affairs of his *Jágeer*, till the appointment of the *Nábob*, Asof Jah, to the government of the *Decan*, upon which occasion the Patan hastened to do homage to the new Viceroy; which he did while the latter was still encamped, after his recent victory over Aalum Ali Khân (the nephew of the *Umeer ûl Omra*, Syed Hûsain Ali Khân) in the vicinity of *Burhanpoor*.[^fn-p0612-1] Here he met with a distinguished reception from Asof Jah, who, according to my author, renewed the patent for his *Jágeer* in the terms of that which had been granted him by Khân Jehân Khân. Being seized, about this time, with a severe indisposition, he left his son, Alif Khân, in attendance upon the *Názim*, and repaired to *Kurnool*, where he died, at the end of three or four years, after having ruled over the principality of *Kurnool* somewhat more than fourteen years. He was succeeded by his son,
 
-### 5. *Alif Khán Punny,*
+##### 5. *Alif Khán Punny,*
 
 who contriving to ingratiate himself with Nâsir Jung, the second son of Asof Jah, is said to have had a principal share in seducing him from his duty and allegiance to his father, at the time that the latter, being obliged to repair to *Dehli*, left him in the temporary charge of the government of the *Decan*. What followed, on this occasion, does not belong to the present narrative. It may suffice to say, that Nâsir Jung was, in the end, reconciled to his father, who contented himself with manifesting his displeasure against those who had been most instrumental in exciting him to rebellion, by prohibiting their appearance in his presence. It is probable, however, that some of these, and particularly Alif Khân, were indebted for this impunity, less to the lenity of the *Nizám*, than to considerations of policy, which might have suggested the inexpediency, if not the impracticability, of punishing such powerful offenders in a more signal manner. Alif Khân continued in disgrace with his superior, till the period when Asof Jah, turning his thoughts to the settlement of the lower *Carnatic*,[^fn-p0613-1] summoned the various *Munsubdárs* and *Jágeerdárs*, subject to his authority, to repair to his standard, with their respective military contingents. On this occasion, the Patan, in the first instance, dispatched his son, Behâdûr Khân, to join the *Názim*, to whom he transmitted, at the same time, a considerable *Nuzr* in money, together with suitable apologies for his past misconduct. These submissions being seconded by the good offices of the chiefs of *Shánoor* and *Kurpah*, who were, at this period, in attendance upon Asof Jah, had the effect of subduing the resentment of the latter, or, at least, of inducing him to dissemble it. Alif Khân obtained a formal pardon; and Behâdûr Khân, after an honourable reception and dismission, hastened back to *Kurnool* with the joyful intelligence. The father, hereupon, leaving his son in charge of his *Jágeer*, proceeded in person to the camp of the *Nizám*, by whom he was received in a manner sufficiently gracious, and with whom he appears to have continued till the termination of the expedition to the *Carnatic*, when he was permitted to return to his *Jágeer*. Here he shortly after died, having ruled thirteen years, and was succeeded by his eldest son,
 
-### 6. *Behâdûr Khân*,
+##### 6. *Behâdûr Khân*,
 
 known also by the title of Himmut Behâdûr,[^fn-p0613-2] of whom Meer Hûsain reports, that he was distinguished for his extraordinary intrepidity, and for the prudence with which he carried on the internal affairs of his government, in the management of which he steadily followed the example, and conformed to the practice, of the wisest of his predecessors. But whatever his character, in these respects, might be, his conduct (as well as that of the other Patan chieftains of the *Decan*) towards Nâsir Jung, subsequently to the accession of the latter to the *Musnud* of *Hyderabad*, and soon after with regard to Mûzuffer Jung (a *Názim* of their own creation), exhibits nothing but a tissue of the blackest perfidy and ingratitude.
 
-The particulars of the transactions, here alluded to, are already too well known to require to be recited in this place. It will be sufficient to state, that, according to Meer Hûsain, it was by the immediate hand of Behâdûr Khân[^fn-p0613-3] that the unfortunate *Názim* perished; and that the detestable traitor did not long survive the victim of his treason, being himself slain, about two months after, in a sanguinary tumult which took place at *Raechooty*, between the everturbulent Afghans and their late accomplices in the atrocious assassination of Nâsir Jung.[^fn-p0614-1]
+The particulars of the transactions, here alluded to, are already too well known to require to be recited in this place. It will be sufficient to state, that, according to Meer Hûsain, it was by the immediate hand of Behâdûr Khân[^fn-p0613-3] that the unfortunate *Názim* perished; and that the detestable traitor did not long survive the victim of his treason, being himself slain, about two months after, in a sanguinary tumult which took place at *Raechooty*, between the ever-turbulent Afghans and their late accomplices in the atrocious assassination of Nâsir Jung.[^fn-p0614-1]
 
 Behâdûr Khân ruled over *Kurnool* between seven and eight years,[^fn-p0614-2] and was succeeded, at his death, by his brother,
 
-### 7. *Mûnuwer Khân Punny,*
+##### 7. *Mûnuwer Khân Punny,*
 
 who happening to reside, at this period, at *Nundiâl*, the *Polygar* of *Gudduck*, encouraged thereto, and assisted by the French, took advantage of his absence from *Kurnool*, and the confusion which prevailed there, in consequence of the sudden and disastrous death of Behâdûr Khân, to surprize and seize upon that place. Mûnuwer Khân hereupon hastened to *Kurpah*, where he solicited the aid of its chief, Abdûl Nuby Khân, towards the recovery of his inheritance. Abdûl Nuby, who could not feel himself very secure on his own *Musnud*, so recently after the tragic events of *Gingee* and *Raechooty*, is nevertheless said to have afforded him some assistance in money. By this means Mûnuwer Khân was enabled to collect together about seven hundred foot soldiers and three hundred horse, with which small force he did not hesitate to advance against *Kurnool*. The attempt to recover his capital with such a handful of men appeared little short of desperate, and would, probably, have proved so, if the garrison left in it by the *Polygar* of *Gudduck* had prudently remained within the walls. Instead of this, however, they unwisely came out, and giving battle to the Patan, were defeated with great slaughter. Hereupon the *Polygar's* commander, being panic struck, immediately surrendered the place. According to Meer Hûsain, however, this extraordinary success of Mûnuwer Khân was not so much owing, either to the indiscretion of the enemy, or to the valor of his own followers, as to the powerful aid which he derived from the presence and prayers of a celebrated *Peer*,[^fn-p0614-3] established in the neighbourhood of *Kurnool*, and called Shâh Mustân, whom he had had the good fortune to encounter on his march, and to propitiate in his favor. It was (if our author may be believed) the appearance of this holy personage, at the head of the Patan's little band, which, by striking unusual terror into the enemy, principally contributed to the victory obtained over the latter.
 
@@ -9942,7 +9957,7 @@ On this occasion was exemplified the curious, but anomalous nature, of the tenur
 
 Mûnuwer Khân died, according to my author, soon after the conclusion of the peace of *Seringapatam*, that is to say, some time in the year 1792, having ruled over *Kurnool* during a period of forty-one lunar years. He was succeeded by his son,
 
-### 8. *Alif Khân,*
+##### 8. *Alif Khân,*
 
 who, by the treaty concluded in 1800, between the British Government in *India* and the *Nabob*, Nizâm Ali Khân, was placed, in a certain degree, under the protection of the East-India Company, to whom the tribute, which he stood engaged to pay to the government of *Hyderabad*, was then transferred by the latter.
 
@@ -9970,7 +9985,7 @@ The following table has been formed with the view of fixing, as far as was pract
 
 * * *
 
-### <span class="small-caps">Engagement</span> *entered into by* <span class="small-caps">Meer Sâdik.</span>[^fn-p0619-1]
+#### <span class="small-caps">Engagement</span> *entered into by* <span class="small-caps">Meer Sâdik.</span>[^fn-p0619-1]
 
 * * *
 
@@ -10006,8 +10021,9 @@ All former crimes of this devoted slave, my royal Lord and Master has, through h
 
 ***Particulars [or Inventory] of the above-mentioned sum of one lack eight thousand two hundred rupees.***
 
-| Deduct expended during my disgrace and retirement to my own house | *Rupees* 15,000 |
+|  |  |
 | --- | --- |
+| Deduct expended during my disgrace and retirement to my own house | *Rupees* 15,000 |
 | Remains | 93,200 |
 | *Viz.* |  |
 | In jewels, being presents graciously bestowed by the *Khodádád* Sircar, about | *Rupees* 20,000 |
@@ -10032,7 +10048,7 @@ Written on Wednesday, the tenth of the month *Hydery*, year *Shúdál*, 1226[^fn
 
 * * *
 
-### E<span class="small-caps">XTRACTS</span> *from the* F<span class="small-caps">UTHÛL</span> M<span class="small-caps">ÛJÂHIDEEN</span>.
+#### E<span class="small-caps">XTRACTS</span> *from the* F<span class="small-caps">UTHÛL</span> M<span class="small-caps">ÛJÂHIDEEN</span>.
 
 It is proper I should here premise, that the copy of the *Futhúl Mújáhideen*, with which I have been favoured by Colonel Marriot, is unfortunately extremely imperfect; for though the work is stated in the beginning to consist of eight chapters, my manuscript contains only three (*viz.* the third, fourth, and fifth), and even these are in some disorder. The following abstract of this curious performance is, therefore, less complete and satisfactory than I could have wished to render it.
 
@@ -10068,7 +10084,7 @@ The nineteenth section (which is a very long one) treats of the performance of t
 
 The fourth chapter is divided into eighteen sections, which describe the duties of the variousranks of the army.
 
-### I. *The Sipahdár.*
+#### I. *The Sipahdár.*
 
 - 1. The *Sipahdár* was to understand writing and accounts. He was to inspect narrowly into the conduct of all those under him, from the *Risáladár* to the *Yuzukdár*, or common soldier : to punish and remove such as misbehaved, and to promote such as merited advancement.[^fn-p0626-1] If a *Risáladár* appeared to him to deserve promotion, or the contrary, the *Sipahdár* was to make a faithful report of the circumstance to the *Sultan*. Other officers, to the *Jowkdár*, or captain, inclusive, when guilty of any offence, were to be brought to trial before *all* the officers of the *Risála* to which they belonged, and to be dealt with according to the decision of the assembly on the case. A *Risáladár*, on being convicted of any offence, was to be deprived, in the presence of all the officers of his corps, of his sword, which was to be lodged in the guard [room] of the corps, and the circumstances of the case to be reported to the Presence.
 - 2. It was likewise the duty of the *Sipahdár*, in conjunction with the *Bukhshy* and *Mútusuddies* attached to his *Kushoon*, to take a muster, once in every month, of the men, firelocks, and accoutrements, belonging thereto. He was also, personally, to inspect into the state of their clothing, and other necessaries ; and, conjointly with the *Bukhshy* and *Mútusuddies*, to make a report of the same to the *Sultan*.
@@ -10083,7 +10099,7 @@ perfect his men in their excercise, and was to be responsible for any deficiency
 - 9. He was to give the guns, tumbrils, and ammunition stores, belonging to his *Kushoon*, in particular charge to the *Risáladárs*, who were to take care that every thing appertaining thereto was in constant readiness for service. If any repairs of the articles in question should be wanting, or if there should be any other deficiency in them, the said *Risáladárs* were immediately to report the same to their *Sipahdár*, who was to give directions for supplying what was necessary, and for the execution of the requisite repairs.
 - 10. The guns and tumbrils were, on a march and in action, to be attached to the *Sipahdár's* own *Risála*.[^fn-p0627-1] When the corps was encamped, they were, in like manner, to be stationed, the guns in front, and the tumbrils in the rear of his *Risála*.
 - 11. The *Sipahdár* was to recommend to the Presence a person properly qualified (and particularly in point of reading and writing) to fill the office of *Sur* (or *Head*) *Yusákchy* (or brigade-major). The duty of this officer will be described in the proper place.
-### II. *The Bukhshy and Mútusuddies*.
+#### II. *The Bukhshy and Mútusuddies*.
 
 To each *Kushoon* was attached a *Bukhshy* and two *Mútusuddies*, one of whom (generally called a *Mirzáey Duftur*)[^fn-p0627-2] kept his books and accounts in Persian, and the other in Hindooy. Their duties were:
 
@@ -10094,11 +10110,11 @@ presence of the *Sipahdár*, to whom they were, at the same time, to make a full
 - 3. To make out, on the last day of every month, a just and faithful account of the pay due to the *Kushoon*: to deliver in the same on the following day (or first of every month) to the *Húzoor Kuchurry*: to receive the amount thereof from the said *Kuchurry*: and there to pay the same, in the presence of their *Sipahdár*, to the troops, delivering each man’s pay into his own hands.[^fn-p0628-1]
 - 4. It was also the duty of these officers to return, at the end of five days, to the *Húzoor Kuchurry*, the pay of all such men as had been drawn for, but had not been claimed (owing to the absence or neglect of the party entitled thereto) within the specified period.
 - 5. Any failure in these duties was to be punished by removal from office.
-### III. *The Sur-Yusákchy (or Brigade Major) and the Yusákchies (or Adjutants).*
+#### III. *The Sur-Yusákchy (or Brigade Major) and the Yusákchies (or Adjutants).*
 
-The duty of the former of these officers was to visit daily, but at no fixed hour, each *Risála* of the *Kushoon*, and to enquire of the adjutants (*Yusákchies*) and *Risáladárs* of the different *Risálas*, into the state of their respective corps. Having committed all the accounts, thus obtained, to writing, he was to wait upon his *Sipahdár*, and, *sitting down*, to communicate the same to him. He was then to attend the Presence, where he was to make a similar report: and, after that, he was required to repair to the *Jyshe Kuchurry* of the Presence, and there also *sitting down*, to furnish the same details, for the information of that office. The *Yusákchies*, or adjutants of *Risálas*, were to make their reports *standing*; but, on other occasions, might sit in the presence of their *Sipahdár* and of the *Húzoor Kuchurry*.[^fn-p0628-2] The several Adjutants were to accompany the Brigade-Major, when he attended the *Sultan* with his report. It was, furthermore, the duty of the *Sur*, or head *Yusákchy*, 1st. to convey daily the sign, or parole, to the *Sipahdár* and *Risáladárs* of his *Kushoon*. 2d. to attend parades and field days, and see that the men stood properly to their arms, and went through their exercise correctly, setting those right who might happen to be wrong. He was, 3dly, the channel of all orders from the *Sipahdár* to the different *Risáladárs* and *Jowkdárs* of the *Kushoon*; and, on service acted as an aid-de-camp to the former. 4th. When a *Yusákchy* [^fn-p0629-1] merited advancement, he was to be made a *Jowkdár* :[^fn-p0629-2] and when, on the other hand, he was to be degraded, it was to be to the rank of *Surkheel*.<sup>(14)</sup> 5th, and lastly, the *Yusákchy* (or adjutant) was to go round the quarters of the *Risálas* at unexpected times, and examining closely into the state of the men and arms, was, at the established orderly hours, to make his report of the same, *standing*, to his *Sipahdár*, to his *Risáladár*, and to the *Húzoor Kuchurry* of the *Jyshe*: after doing which he was at liberty *to seat himself*.
+The duty of the former of these officers was to visit daily, but at no fixed hour, each *Risála* of the *Kushoon*, and to enquire of the adjutants (*Yusákchies*) and *Risáladárs* of the different *Risálas*, into the state of their respective corps. Having committed all the accounts, thus obtained, to writing, he was to wait upon his *Sipahdár*, and, *sitting down*, to communicate the same to him. He was then to attend the Presence, where he was to make a similar report: and, after that, he was required to repair to the *Jyshe Kuchurry* of the Presence, and there also *sitting down*, to furnish the same details, for the information of that office. The *Yusákchies*, or adjutants of *Risálas*, were to make their reports *standing*; but, on other occasions, might sit in the presence of their *Sipahdár* and of the *Húzoor Kuchurry*.[^fn-p0628-2] The several Adjutants were to accompany the Brigade-Major, when he attended the *Sultan* with his report. It was, furthermore, the duty of the *Sur*, or head *Yusákchy*, 1st. to convey daily the sign, or parole, to the *Sipahdár* and *Risáladárs* of his *Kushoon*. 2d. to attend parades and field days, and see that the men stood properly to their arms, and went through their exercise correctly, setting those right who might happen to be wrong. He was, 3dly, the channel of all orders from the *Sipahdár* to the different *Risáladárs* and *Jowkdárs* of the *Kushoon*; and, on service acted as an aid-de-camp to the former. 4th. When a *Yusákchy* [^fn-p0629-1] merited advancement, he was to be made a *Jowkdár* :[^fn-p0629-2] and when, on the other hand, he was to be degraded, it was to be to the rank of *Surkheel*.[^fn-p0629-2] 5th, and lastly, the *Yusákchy* (or adjutant) was to go round the quarters of the *Risálas* at unexpected times, and examining closely into the state of the men and arms, was, at the established orderly hours, to make his report of the same, *standing*, to his *Sipahdár*, to his *Risáladár*, and to the *Húzoor Kuchurry* of the *Jyshe*: after doing which he was at liberty *to seat himself*.
 
-### IV. *The Risáladár.*[^fn-p0629-3]
+#### IV. *The Risáladár.*[^fn-p0629-3]
 
 1. The *Risáladár* was, at all events, to be able to read and write: but in the selection of persons for that station, a preference was to be given to men of approved courage and prudence, and conversant in accounts.
 
@@ -10110,7 +10126,7 @@ The duty of the former of these officers was to visit daily, but at no fixed hou
 
 5. A *Risáladár*, when deserving of promotion, was to be raised to the rank of *Sipahdár*. On the other hand, if it became necessary to degrade him, he was to be reduced to the station of a *Jowkdár*.
 
-### V. *The Jowkdár.*[^fn-p0630-1]
+#### V. *The Jowkdár.*[^fn-p0630-1]
 
 He commanded a *Jowk* (or company) consisting, according to the original, of fifteen *Yuzuks*, which, from other passages, I conclude to be equivalent to ninety men; a *Yuzuk* appearing to have been composed of six rank and file. His rank corresponded with that of the *Soubadár*[^fn-p0630-2] of our *Sepoy* corps, and his duties were as follows :
 
@@ -10122,19 +10138,19 @@ He commanded a *Jowk* (or company) consisting, according to the original, of fif
 - 6. In case of being guilty of any neglect of duty, his sword was to be taken from him, and lodged in the [quarter] guard, till such time as the charge against him should be duly enquired into: nor was the same to be restored to him without the orders of the *Sircar*.[^fn-p0630-4]
 A *Jowkdár*, when sentenced to be degraded, was to be reduced to a *Surkheel*; and when promoted, was to be raised to the rank of a *Risáladár*.
 
-### VI. *The Surkheel.*[^fn-p0630-5]
+#### VI. *The Surkheel.*[^fn-p0630-5]
 
 This officer would appear to have answered, in point of rank, to the *Jumaadár* of our native corps in *India*. He was subject, however, to corporal punishment, which the *Jumaadár* of *Sepoys* is not. When a guard to the amount of twenty-four men was on duty from his *Jowk*, he was to visit the same twice during the day, and as often during the night, and to see that the men did their duty properly. If he failed in his own, he was to receive fifty strokes of a cane,[^fn-p0631-1] and to be reduced to the rank of a *Jumaadár*. On the other hand, when deserving of promotion, he was to be made a *Jowkdár*.
 
-### VII. *The Jumaadár.*[^fn-p0631-2]
+#### VII. *The Jumaadár.*[^fn-p0631-2]
 
 He seems to have answered, in most respects, with the *Havildár* of our *Sepoy* corps. If he neglected his duty, he was to be reduced to the rank of *Dufaadár*, and to receive two hundred and fifty strokes of a cane.[^fn-p0631-3] When deserving of promotion, he was to be raised to the station of *Surkheel*.
 
-### VIII. *The Dufaadár.*[^fn-p0631-4]
+#### VIII. *The Dufaadár.*[^fn-p0631-4]
 
 He may be compared with the *Naig* of the British native infantry of India. If he neglected relieving the sentinels regularly every two hours, he was to be punished with two hundred strokes of a cane, and to be reduced to the ranks. It was his duty, when he placed sentries, to take proper notice of the nature of the ground, where they were posted, and particularly of the different avenues leading to it, to the end that, in case of any alarm or disturbance, he might not be at a loss how to proceed.[^fn-p0631-5] If he omitted this precaution, he was to receive one hundred and fifty strokes of a cane, and to be broke. He was to pay strict obedience to the orders of his *Jumaadár*; and, failing herein, he was to receive a hundred strokes, and to be reduced to the ranks. When meriting promotion, he was to be made a *Jumaadár*.
 
-### IX. *The Yuzukdárs.*
+#### IX. *The Yuzukdárs.*
 
 The word يزك (*yuzuk*) properly signifies a guard: it is also applied, in Tippoo Sultan's regulations, to a sentinel's post, as well as to a specific number of men; that is, as I suppose, six rank and file. The word *Yuzukdár* would strictly mean a centinel ; but it appears to have been likewise used to denote a private soldier, or rank and file in general.
 
@@ -10160,7 +10176,7 @@ I reserve what I have to offer on the various establishments of the army for the
 
 * * *
 
-### <span class="small-caps">Marine Regulations</span>
+#### <span class="small-caps">Marine Regulations</span>
 
 The *Húkm-námeh*, or ordinance, for the marine department, of which I propose, in this place, to give an abstract, is addressed, generally, to the *Meer Yumms*, without any specification of the persons so denominated, but stating their number to be eleven.
 
@@ -10184,7 +10200,7 @@ The timber which might be required in the construction of the vessels in questio
 
 Of the ships to be built, twenty were to be line of battle, and twenty large frigates, according to the following detail.[^fn-p0636-1]
 
-### I. *On the Jumâlâbâd Station.*
+##### I. *On the Jumâlâbâd Station.*
 
 - 6 Line of battle Ships, *viz.*
 - 3 of 72 guns each, and
@@ -10201,13 +10217,13 @@ Of the ships to be built, twenty were to be line of battle, and twenty large fri
 - 20 guns, twelve pounders
 - 20 . . . . nine . . . . d°
 - 6 . . . . four . . . . d°
-### II. *On the Wâjidâbâd Station.*
+##### II. *On the Wâjidâbâd Station.*
 
 - 7 Line of battle Ships, *viz.*
 - 3 of 72 guns each } as before.  
   4 . . 62 . . d° . . . . . }
 - 7 Frigates, of 46 . . d° . . . . . as before.
-### III. *On the Mâjidâbâd Station.*
+##### III. *On the Mâjidâbâd Station.*
 
 - 7 Line of battle Ships, *viz.*
 - 4 of 72 guns each
@@ -10263,11 +10279,11 @@ The *Sepoys*, or troops, serving on board, were, on no account, to be suffered t
 
 * * *
 
-### I. *Detailed Establishment of each line of battle Ship.*
+#### I. *Detailed Establishment of each line of battle Ship.*
 
 Twenty ships, each having 346 men of all denominations on board, Total 6,920
 
-### 1st Musqueteers:
+##### 1st Musqueteers:
 
 (1 *Teep* of *Uskur*, of 124 men, or 4 *Yooz*.)
 
@@ -10283,8 +10299,9 @@ Staff:
 
 4 *Yooz*, each *Yooz* consisting of 30 men, *viz.*
 
-| 1 *Yoozdár*, pay 4 *pagodas* 2 *fanams*: subsistence 3 *pagodas* 6¼ *fanams*, calculated on 29 men ....... 7 8¼ |
+|  |
 | --- |
+| 1 *Yoozdár*, pay 4 *pagodas* 2 *fanams*: subsistence 3 *pagodas* 6¼ *fanams*, calculated on 29 men ....... 7 8¼ |
 | 1 *Surkheel* .................................. 4 8 |
 | 4 *Jumaadárs*, pay 3 *pagodas* 6 *fanams*: subsistence 6 *fanams*, calculated on 6 men P. 4 F. 2 = 16 8 |
 | 24 Privates, pay 3 *pagodas* 6 *fanams* each ......... 86 4 |
@@ -10338,15 +10355,15 @@ Staff:
 | Total monthly expence of a line of battle ship, while in port, including 346 persons of all denominations. . . . . . . . . . . . . 1,471 5½ |
 | Expence of twenty line of battle ships. . . . . . . . . . . . . . . 29,431 0 |
 
-### II. *Establishment of each Frigate.*
+#### II. *Establishment of each Frigate.*
 
 |  | Men. |
 | --- | --- |
 | Twenty ships, each having 180 men, of all denominations, on board. Total | 3,600 |
 
-### 1st Musqueteers :
+##### 1st Musqueteers :
 
-### (1 *Teep* of *Uskur*, of 64 men) *viz.*
+###### (1 *Teep* of *Uskur*, of 64 men) *viz.*
 
 |  | *Pagodas.* | *Fanams.* |
 | --- | --- | --- |
@@ -10354,39 +10371,43 @@ Staff:
 
 Staff :
 
-| 1 *Shurbashurn* | 4 | 8 |
+|  |  |  |
 | --- | --- | --- |
+| 1 *Shurbashurn* | 4 | 8 |
 | 1 *Nufeer-nuwáz* | 3 | 6 |
 | 1 *Shahnaey-nuwáz* | 3 | 6 |
 |  | 25 | 8 |
 
 The above *Teep* being composed of 2 *Yooz*, of 30 men each, *viz.*
 
-| 1 *Yoozdár*, pay 7 *pagodas* 8¼ *fanams* | 7 | 8¼ |
+|  |  |  |
 | --- | --- | --- |
+| 1 *Yoozdár*, pay 7 *pagodas* 8¼ *fanams* | 7 | 8¼ |
 | 1 *Surkheel* | 4 | 8 |
 | 4 *Jumaadárs*, 4 *pagodas* 2 *fanams* each | 16 | 8 |
 | 24 Privates, 3 *pagodas* 6 *fanams* each | 86 | 4 |
 | One *Yooz* - | 115 | 8¼ |
 | Two *Yooz* - | 231 | 6½ |
 
-### 2d Gunners :
+##### 2d Gunners :
 
-### (1 *Yooz* of 29 men, *viz.*)
+###### (1 *Yooz* of 29 men, *viz.*)
 
-| 1 *Yoozdár*, pay 4 *pagodas* 4 *fanams* : subsistence 3 *pagodas* 5 *fanams*, calculated on 28 men, at ¼ *fanam* each | 7 | 9 |
+|  |  |  |
 | --- | --- | --- |
+| 1 *Yoozdár*, pay 4 *pagodas* 4 *fanams* : subsistence 3 *pagodas* 5 *fanams*, calculated on 28 men, at ¼ *fanam* each | 7 | 9 |
 | 1 *Surkheel*, pay | 4 | 8 |
 | 3 *Jumaadárs*, pay 3 *pagodas* 6 *fanams* : subsistence 8 *fanams*, or 4 *pagodas* 4 *fanams* each | 13 | 2 |
 | 24 Privates, at 3 *pagodas* 6 *fanams* each | 86 | 4 |
 |  | 112 | 3 |
 
-### 3d Seamen :
+##### 3d Seamen :
 
-### (1 *Jowk*, or Gang, of 71 men.)
+###### (1 *Jowk*, or Gang, of 71 men.)
 
-| 1 *Jowkdár*, pay 3 *pagodas* : subsistence 3 *pagodas* 5 *fanams*, calculated on 70 men, at ½ *fanam* each | 6 | 5 |
+|  |  |  |
 | --- | --- | --- |
+| 1 *Jowkdár*, pay 3 *pagodas* : subsistence 3 *pagodas* 5 *fanams*, calculated on 70 men, at ½ *fanam* each | 6 | 5 |
 | 7 *Dufaadárs*, pay 3 *pagodas* each : subsistence 9 *fanams*, calculated on 9 men, at 1 *fanam* each | *P.* 3 *F.* 9 ea.= 27 | 3 |
 | 63 Privates, from 21 to 30 *fanams* each : calculated at 3 *pagodas* | 189 | 0 |
 |  | 222 | 8 |
@@ -10431,8 +10452,9 @@ All the officers were to eat together. The following were the persons to whom ra
 - 13
 To the above officers the following daily rations were to be served out :
 
-| Rice... .................. ¾ of a full *Duk*, or *Seer*. |
+|  |
 | --- |
+| Rice... .................. ¾ of a full *Duk*, or *Seer*. |
 | *Dál* (or split peas)........ ¼....d<sup>o</sup> |
 | *Ghee*..................... 8 *Jouz* weight.[^fn-p0644-1] |
 | Meat .................... ½ short *Duk*, or *Seer*. |
@@ -10446,8 +10468,9 @@ To the above officers the following daily rations were to be served out :
 
 The following were the rations to be issued to the Musketeers and Gunners ; no distinction being made between men and officers :
 
-| Rice..................... 1 *Duk*, or *Seer*. |
+|  |
 | --- |
+| Rice..................... 1 *Duk*, or *Seer*. |
 | *Dál*...................... 6 *Jouz* weight. |
 | *Ghee* .................... 4....d<sup>o</sup> |
 | Salt..................... 2....d<sup>o</sup> |
@@ -10511,7 +10534,7 @@ of the *Meer Yumms*, not specified.) . . . . . . . . . . . . . . . . . . . } *£
 
 * * *
 
-### APPENDIX, L. *(Referred to at <span class="small-caps">Letter</span> CCLXX.)* *An Outline of* <span class="small-caps">Tippoo Sultan’s Military Establishments.</span>
+### APPENDIX, L.<br />*(Referred to at <span class="small-caps">Letter</span> CCLXX.)*<br />*An Outline of* <span class="small-caps">Tippoo Sultan’s Military Establishments.</span>
 
 I propose, in the present article, to give such a general idea of the formation and amount of the late Tippoo Sultan’s army (but particularly of the regular part of it) as the materials in my possession enable me to furnish: and although the scantiness of these does not admit of my rendering the account so complete as I could wish, I nevertheless trust, that it will, on the whole, be found to be tolerably accurate, as well as sufficiently minute, for the gratification of literary curiosity; which is now the chief, if not the only, purpose it can answer.
 
@@ -10525,15 +10548,15 @@ The copy of the *Futhúl Mújáhideen*, now before me, containing merely the for
 
 * * *
 
-### Establishment *of* <span class="small-caps">Tippoo Sultan’s Army</span> *in* 1793.
+#### Establishment *of* <span class="small-caps">Tippoo Sultan’s Army</span> *in* 1793.
 
-### 1. *Piádeh Uskur* or *(regular infantry.)*
+##### 1. *Piádeh Uskur* or *(regular infantry.)*
 
 Divided into five *Kuchurries*, and composed of twenty-seven *Kushoons*.
 
 * * *
 
-### *Specification of the five Kuchurries.*
+##### *Specification of the five Kuchurries.*
 
 - *1st. Kuchurry Ahmedy*, or the *Ahmedy Kuchurry*.
 Two *Bukhshies* commanding the whole,[^fn-p0650-2] and having a *Teep* of *Uskur*, consisting of 346 men, attached immediately to them.[^fn-p0650-3]
@@ -10584,7 +10607,7 @@ The staff of each *Kuchurry* seems to have consisted of
 
 * * *
 
-### *Establishment of a Kushoon.*
+#### *Establishment of a Kushoon.*
 
 Staff :
 
@@ -10601,10 +10624,11 @@ Each *Kushoon* was composed of four *Teeps* [^fn-p0652-2] of *Uskur* ; of which 
 
 * * *
 
-### *Staff of a Teep.*
+##### *Staff of a Teep.*
 
-| 1 *Teepdár* of the first class, or first, second, and third *Teeps*, pay (including horse) [^fn-p0652-3] . . . . . . . . . . 30 0 |
+|  |
 | --- |
+| 1 *Teepdár* of the first class, or first, second, and third *Teeps*, pay (including horse) [^fn-p0652-3] . . . . . . . . . . 30 0 |
 | 1 *Shurbashurn* . . . . . . . . . . . . . . . . . . . . . . . . . 7 5 |
 | 2 *Gurdoon-nuwáz* (drummers) providing their own drums . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 2 each |
 | 1 *Shahnáey-nuwáz* (or trumpeter) including trumpet . . . 4 2 |
@@ -10613,8 +10637,9 @@ Each *Kushoon* was composed of four *Teeps* [^fn-p0652-2] of *Uskur* ; of which 
 
 Each *Teep* consisted of four *Yooz*,[^fn-p0652-4] and each *Yooz* was composed as follows :
 
-| 1 *Yoozdár* . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 0 [^fn-p0652-5] |
+|  |
 | --- |
+| 1 *Yoozdár* . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 0 [^fn-p0652-5] |
 | 2 *Surkheels* . . . . . . . . . . . . . . . . . . . . . . . . . . 7 0 each |
 | Pagodas. Fanams |
 | 8 *Jumaadárs* . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 0 each |
@@ -10640,23 +10665,26 @@ One *Jowk* of rocket-men, *viz.*
 
 Each man carrying 2 rockets, or (with *Jumaadárs*) 72 rockets.
 
-| ——— . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39 |
+|  |
 | --- |
+| ——— . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39 |
 
 One *Jowk* of *Durkhshundáz*, or gunners, for the service of the two guns attached to the *Kushoon*.
 
 N. B. Each gun was in length two *dirais* (or *guz*) and a half [about seven feet], and carried shot weighing four short *duks* or *seers* : *i. e.* about six pounds weight.
 
-| 2 *Surkheels* (one to each gun) each armed with a pair of pistols[^fn-p0653-3] pay each . . . . . . . . . . . . . . . . . 9 0 |
+|  |
 | --- |
+| 2 *Surkheels* (one to each gun) each armed with a pair of pistols[^fn-p0653-3] pay each . . . . . . . . . . . . . . . . . 9 0 |
 | 28 Gunners . . . . . . at each . . . . . . . . . . . . . . . . . . . . . . . . . 5 4 |
 | 2 *Nujm-wálehs* |
 | ——— : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 |
 
 Two *Jowks* of *Burkundáz*, or matchlock-men, each consisting of :
 
-| 1 *Jowkdár*, pay 3 *pagodas* 6 *fanams* : subsistence 10 *pagodas*, calculated at 2 *fanams* on 50 men . . . . . . 13 6 ——— |  |  |
+|  |  |  |
 | --- | --- | --- |
+| 1 *Jowkdár*, pay 3 *pagodas* 6 *fanams* : subsistence 10 *pagodas*, calculated at 2 *fanams* on 50 men . . . . . . 13 6 ——— |  |  |
 | Carried forward . . . . . . . . . . . . . . . . . . . . . . . . . . 71 |  |  |
 | *Pay per man.* *Pagodas. Fanams.* | *Total number of men.* |  |
 | Brought forward . . . . . . . . . . . . | 71 |  |
@@ -10699,8 +10727,9 @@ In order to arrive at the total amount of the regular foot forces of Tippoo Sult
 
 N.B. To this corps (the monthly expence of which is stated by the *Sultan* himself at 8,179 *Cantarai pagodas*) were attached two guns.
 
-| Three independent *Teeps* of regular infantry (*Piádeh Uskur*) attached to the *Bukhshies* of the first, second, and third *Kuchurries*, [^fn-p0655-2] each 348 strong | 1,044 | 864 |
+|  |  |  |
 | --- | --- | --- |
+| Three independent *Teeps* of regular infantry (*Piádeh Uskur*) attached to the *Bukhshies* of the first, second, and third *Kuchurries*, [^fn-p0655-2] each 348 strong | 1,044 | 864 |
 | Staff of the five *Kuchurries* | 205 |  |
 | Drivers, and others, to 1,935 bullocks attached to the heavy park, *viz.* 1,664 draft and 271 carriage. | 719 |  |
 | *Bildars*, or pioneers | 735 |  |
@@ -10735,8 +10764,9 @@ The *Kushoons* composing the fifth, or *Usud Ilhye Kuchurry*, of regular infantr
 
 The *Kushoon* was divided into four *Risálas* (instead of *Teeps*), each consisting of 348 men, *viz.*
 
-| 1 *Risáladár* (including horse allowance) . . . . . . . . . 25 0 |
+|  |
 | --- |
+| 1 *Risáladár* (including horse allowance) . . . . . . . . . 25 0 |
 | 1 *Yusákchy* . . . . . . . . . . . . . . . . . . . . . . . 5 1 |
 | 1 Drummer and 1 fifer, each . . . . . . . . . . . . . . . . 3 9 |
 | 1 Standard bearer . . . . . . . . . . . . . . . . . . . . . 4 5 |
@@ -10744,8 +10774,9 @@ The *Kushoon* was divided into four *Risálas* (instead of *Teeps*), each consis
 
 Each *Risála* was composed of four *Jowks* (instead of *Yooz*), each *Jowk* consisting of :
 
-| 1 *Jowkdár* . . . . . . . . . . . . . . . . . . . . . . . . 12 0 |
+|  |
 | --- |
+| 1 *Jowkdár* . . . . . . . . . . . . . . . . . . . . . . . . 12 0 |
 | 2 *Surkheels* each . . . . . . . . . . . . . . . . . . . . 5 7 |
 | 8 *Jumaadárs* each . . . . . . . . . . . . . . . . . . . . 4 2 |
 | 64 *Yuzukdárs*, or privates, each . . . . . . . . . . . . 3 9 |
@@ -10762,7 +10793,7 @@ The *Ehshám*, or garrison troops, are stated, in the ordinance of 1793, address
 
 I now proceed to a summary statement of the cavalry, according to the establishment of 1793.
 
-### I. *Suwâr Uskur (or regular cavalry).* Three *Kuchurries.*[^fn-p0658-2]
+##### I. *Suwâr Uskur (or regular cavalry).*<br />Three *Kuchurries.*[^fn-p0658-2]
 
 Each *Kuchurry* consisting of six *Mokubs* (or regiments), of 389 horses and 376 men each.[^fn-p0658-3]
 
@@ -10773,17 +10804,18 @@ The detail of the *Mokub* is not given in the original ; but the latter appears 
 
 To each *Kuchurry* of regular horse two guns were attached, with a proportionate number of gunners, &c.
 
-### II. *Silahdár Cavalry, (or Cavalry mounted on their own horses).*
+#### II. *Silahdár Cavalry, (or Cavalry mounted on their own horses).*
 
 Two *Kuchurries*, composed of Musulmans and unbelievers.
 
 Each *Kuchurry* commanded by two *Bukhshies*, and divided into eight *Risálas*, of 250 horse each, besides the usual staff :
 
-| 1 *Kuchurry* ............... 2,000 horse. |
+|  |
 | --- |
+| 1 *Kuchurry* ............... 2,000 horse. |
 | 2 D<sup>o</sup>. ................... 4,000 d<sup>o</sup>. |
 
-### III. *Kuzzák (or Predatory) Cavalry.*
+#### III. *Kuzzák (or Predatory) Cavalry.*
 
 Three *Kuchurries*, of 2,666 horses each, divided into *Risálas* of 260 each.
 
@@ -10814,8 +10846,9 @@ Total
 
 **<span class="small-caps">General Abstract.</span>**
 
-| 1 Stable ........ 21 Troopers.[^fn-p0659-2] |
+|  |
 | --- |
+| 1 Stable ........ 21 Troopers.[^fn-p0659-2] |
 | 2 Stables. ...... 1 *Yooz*, or 42, including *Jumaadârs*. |
 | 2 *Yooz* ........ 1 *Teep*, or 84, including ditto. |
 | 4 *Teeps* ....... 1 *Mokub*, or 336, including ditto. |
@@ -10877,7 +10910,7 @@ The foregoing seems to have been the establishment of *Kuzzáks*, or *Looties*, 
 [^fn-p0573-2]: (16) The *Khuwâsy* is so called, from its being the part of the *Umâry* or *Howdeh* (*i. e.* the litter fixed to the back of the elephant) assigned to the *Khuwâs*, or attendant. The *Umâry* is the canopied litter; the *Howdeh*, the plain open one.
 [^fn-p0574-1]: (17) Or in A.H. 1103, corresponding with A.D. 1691.
 [^fn-p0574-2]: (18) This is an office, corresponding, I believe, with that of *Puttail*, and not differing materially from the *Mûkuddum*, or head man of a village, in *Hindostan*.
-[^fn-p0574-3]: (19) As the chiefs of *Serhutty* make some figure in the history of the *Decan*, and as both *Serhutty* and *Lukmaiser* (the latter of which depended upon *Serhutty*) were included within the dominions of Tippoo Sultan, the reader may not be displeased with the following short account of them, extracted from the collections of Meer Hûsain Ali: “ At the period when Enkus Khân, a distinguished nobleman of the kingdom of *Beejapoor*, was “ invested with the charge of the *Soubahdâry* of *Bunkapoor* and its dependencies, *Lukmaiser*<sup>*</sup> being a “ populous and flourishing town, he chose it for the seat of his government. Not far from thence stood “ the village of *Serhutty*, whither the governor occasionally resorted, either on business or for pleasure.
+[^fn-p0574-3]: (19) As the chiefs of *Serhutty* make some figure in the history of the *Decan*, and as both *Serhutty* and *Lukmaiser* (the latter of which depended upon *Serhutty*) were included within the dominions of Tippoo Sultan, the reader may not be displeased with the following short account of them, extracted from the collections of Meer Hûsain Ali: “ At the period when Enkus Khân, a distinguished nobleman of the kingdom of *Beejapoor*, was “ invested with the charge of the *Soubahdâry* of *Bunkapoor* and its dependencies, *Lukmaiser*[^fn-p0574-4] being a “ populous and flourishing town, he chose it for the seat of his government. Not far from thence stood “ the village of *Serhutty*, whither the governor occasionally resorted, either on business or for pleasure.
 [^fn-p0575-1]: (*) I am by no means confident that this is the sense in which the appellation in question was employed, my author not having given any explanation of it.
 [^fn-p0575-2]: (†) The *Nobut* consists of the kettle-drum, and other musical instruments, which an *Omra* may be privileged to use.
 [^fn-p0575-3]: (‡) The *Teekah* is the line which Hindoos draw, on certain occasions, across their foreheads. It is made sometimes with a consecrated earth, sometimes with a preparation of sandal ; the latter being used only on very particular occasions, like the present.
@@ -10908,7 +10941,7 @@ The foregoing seems to have been the establishment of *Kuzzáks*, or *Looties*, 
 [^fn-p0585-5]: (||) The original signature, in this place, appears, in the Canarese character. It is, probably, that of Purnia. Thereis another signature rather obscurely written, which may be read Budrûz Zumân. It is not the least curious circumstance attending this opinion, in which the Mahrattahs are called *infidels*, that it should have been subscribed (as there is reason to believe it was) by a Hindoo ! availing himself of the confusion of the moment, he effected his escape, and collecting together a numerous force, which the recent subversion of the Mahommedan dynasty of *Mysore* made particularly easy, made head for a considerable time against the British army. He was in the end, however, defeated and slain, in an action with Colonel Wellesley, on the 10th September 1800.
 [^fn-p0587-1]: (34) Which, according to the *Ubjud* notation, amounts to 1199 A.H.
 [^fn-p0587-2]: (35) It is not stated by my author, on what side the difficulty, here spoken of, lay : but it was, of course, on that of Tippoo Sultan.
-[^fn-p0588-1]: (36) Meer Hûsain Ali says, that he lived five years after his restoration to his principality; which would place his death in the early part of the year 1792. It would also appear, from the same authority, that the actual Chief of *Shânoor*, at the period of the peace of 1792, was Abdûl Khyre Khân. I am unable to reconcile these statements with the account given by Captain Moore (in his interesting narrative of the operations of Captain Little's detachment) of his interview, in April 1792, with the *Nabob* of *Shânoor* whom he designates Abdûl Hukeem Khân. It is possible, that he may have mistaken the name of the ruling chief; and what favors this conjecture is, the circumstance of his calling that chief, on the same occasion, the *brother* (*i. e.* the brother-in-law) of Tippoo; an appellation which, it is evident, belonged not to Abdûl Hukeem, but to his son, Abdûl Khyre. In the “ Historical and Political View of the *Decan*,” of which I am not in possession, but which is quoted by Captain Moore, Abdûl Hukeem Khân is said to have been “ the *seventh* in lineal descent, as “ occupant, and the *fourth*, as *sovereign ruler* of *Shânoor* and its dependencies. The former part of this statement agrees exactly with the detailed genealogy given in the present article, Abdûl Hûkeem having been the *seventh* in descent from Jubbâr Meea, the first occupant of the principality in question. What is meant by his being the *fourth sovereign* ruler of it, is not equally apparent; since Hûsain Ali says nothing of Abdûl Ghuffâr Khân's (who must have been the *first* of those rulers) having attained to, or assumed, a state of absolute independence. But there is a passage in his account of Ibraheem Khân, the fourth chief of the *Patan* dynasty of *Kurnool*, which may serve to explain this point. That chief is there said to have obtained from Khân Jehân Kokeh, the viceroy of the *Decan*, instead of the usual patent of confirmation in his *Jâgeer*, a new grant, in which the former stipulations,<sup>*</sup> whatever they might have been, were wholly omitted. Now, as Abdûl Ghuffâr Khân is stated to have paid his court to the same viceroy, it is not improbable that he was equally successful on that occasion with his countryman. But however this might be, it is certain, that the claims of these chiefs to absolute independence or sovereign rule, if ever advanced, were far from being recognized by the subsequent viceroys of the *Decan*.
+[^fn-p0588-1]: (36) Meer Hûsain Ali says, that he lived five years after his restoration to his principality; which would place his death in the early part of the year 1792. It would also appear, from the same authority, that the actual Chief of *Shânoor*, at the period of the peace of 1792, was Abdûl Khyre Khân. I am unable to reconcile these statements with the account given by Captain Moore (in his interesting narrative of the operations of Captain Little's detachment) of his interview, in April 1792, with the *Nabob* of *Shânoor* whom he designates Abdûl Hukeem Khân. It is possible, that he may have mistaken the name of the ruling chief; and what favors this conjecture is, the circumstance of his calling that chief, on the same occasion, the *brother* (*i. e.* the brother-in-law) of Tippoo; an appellation which, it is evident, belonged not to Abdûl Hukeem, but to his son, Abdûl Khyre. In the “ Historical and Political View of the *Decan*,” of which I am not in possession, but which is quoted by Captain Moore, Abdûl Hukeem Khân is said to have been “ the *seventh* in lineal descent, as “ occupant, and the *fourth*, as *sovereign ruler* of *Shânoor* and its dependencies. The former part of this statement agrees exactly with the detailed genealogy given in the present article, Abdûl Hûkeem having been the *seventh* in descent from Jubbâr Meea, the first occupant of the principality in question. What is meant by his being the *fourth sovereign* ruler of it, is not equally apparent; since Hûsain Ali says nothing of Abdûl Ghuffâr Khân's (who must have been the *first* of those rulers) having attained to, or assumed, a state of absolute independence. But there is a passage in his account of Ibraheem Khân, the fourth chief of the *Patan* dynasty of *Kurnool*, which may serve to explain this point. That chief is there said to have obtained from Khân Jehân Kokeh, the viceroy of the *Decan*, instead of the usual patent of confirmation in his *Jâgeer*, a new grant, in which the former stipulations,[^fn-p0588-2] whatever they might have been, were wholly omitted. Now, as Abdûl Ghuffâr Khân is stated to have paid his court to the same viceroy, it is not improbable that he was equally successful on that occasion with his countryman. But however this might be, it is certain, that the claims of these chiefs to absolute independence or sovereign rule, if ever advanced, were far from being recognized by the subsequent viceroys of the *Decan*.
 [^fn-p0589-1]: (1) Corresponding with 25th March 1793.
 [^fn-p0589-2]: (2) Corresponding with the 2d April 1794.
 [^fn-p0589-3]: (3) See Sale's *Koran*, Chapters XVI and XXX.
@@ -10977,8 +11010,7 @@ The foregoing seems to have been the establishment of *Kuzzáks*, or *Looties*, 
 [^fn-p0609-3]: (8) Original ازميان برداشت or literally, “lifted from the midst,” an expression usually denoting extermination, or putting to death.
 [^fn-p0609-4]: (9) The master of requests or of ceremonies.
 [^fn-p0610-1]: (10) Original مادر قبیحه which has nearly the same signification as the مادر بخطاي so frequently used by Tippoo Sultan. The former is said by Meer Hûsain to be a very common term of abuse with the Decanies.
-[^fn-p0610-2]: (11) It is a remarkable fact, that the death of this turbulent nobleman was at last occasioned, when least to be expected, by his bestowing on one of his own servants the same foul epithet which he had
-[^fn-p0611-1]: (*) When it is recollected, that the pen spoken of was formed of a strong sharp-pointed *reed*, it will not, perhaps, appear incredible, that such an instrument should have inflicted a mortal wound.
+[^fn-p0610-2]: (11) It is a remarkable fact, that the death of this turbulent nobleman was at last occasioned, when least to be expected, by his bestowing on one of his own servants the same foul epithet which he had till then so often used with impunity, both to high and low: for it is related of him, that having, on some occasion, discovered a slight error in an account submitted to his inspection, he passionately taxed the clerk, who had prepared it, with negligence, applying to him, at the same time, his customary term of abuse. This drawing from the insulted clerk a respectful, but spirited remonstrance, the *Shaikh*, exasperated at what he conceived to be the insolence of his servant, not only repeated the offensive appellation, but accompanied it with a slap on the face. The poor *Mûtusuddy*, rendered frantic by this aggravation of the disgrace already put upon him, and (as my author expresses it) “washing his hands “of life,” suddenly plunged the pen,[^fn-p0611-1] with which he was writing, into the side of his master, who died of the wound thus inflicted. It is scarcely necessary to add, that his murderer fell, at the same instant, a sacrifice to the fury of the surrounding attendants.
 [^fn-p0612-1]: (12) This victory was obtained, according to the *Maasir ûl Omra*, on the 6th *Shuvwâl*, A.H. 1132, or some time in A.D. 1720.
 [^fn-p0613-1]: (13) That is in A.D. 1743.
 [^fn-p0613-2]: (14) It does not appear by whom, or upon what occasion, this title was conferred upon Behâdûr Khân.
@@ -11093,6 +11125,7 @@ The foregoing seems to have been the establishment of *Kuzzáks*, or *Looties*, 
 [^fn-p0660-1]: (27) The *Lootie*, or *Kuzzâk* cavalry, are said to receive no pay: in lieu of which they are allowed to retain whatever booty they can acquire.
 [^fn-p0574-4]: (*) *Serhutty* is situated, according to the map prefixed to Colonel Wilks's History of Mysore, about twelve miles north-east of *Lukmaiser*, which is placed about twenty miles north of *Shánoor*.
 [^fn-p0588-2]: (*) Original مشروطه
+[^fn-p0611-1]: (*) When it is recollected, that the pen spoken of was formed of a strong sharp-pointed *reed*, it will not, perhaps, appear incredible, that such an instrument should have inflicted a mortal wound.
 [^fn-p0625-1]: (6) [Unlinked note, p. lxix] Though not stated in this its proper place, it is elsewhere mentioned, that the promotion of a *Sipahdâr* was to be to the rank of *Sipah-sâlâr*, or commander (as it is explained) of two or three *Kushoons*.
 
 ## INDEX
@@ -11101,7 +11134,7 @@ The foregoing seems to have been the establishment of *Kuzzáks*, or *Looties*, 
 
 * * *
 
-### A.
+#### A.
 
 *To* Abdûl Hukeem Khân (Nabob of Shânoor), Letters 16, 78, 150, 151, 228, 247, 254, 343, 387.
 
@@ -11115,7 +11148,7 @@ Ahmed (Shaikh), 76.
 
 Ali Râjah (Beeby of Cananore), 124, 181, 184, 267, 291.
 
-### B.
+#### B.
 
 Boodhun Shâh, 398.
 
@@ -11127,7 +11160,7 @@ Budul Baig Khân (see Mahommed Baig Khân Humdâny.)
 
 Bûrhânûddeen, 10, 17, 25, 28, 30, 31, 33, 36, 40, 41, 49, 52, 60, 61, 77, 81, 83, 84, 85, 90, 92, 94, 120, 125, 135, 141, 147, 157, 158, 169, 186, 188, 193, 217, 220, 225, 226, 239, 240, 245, 246, 248, 256, 261, 262, 264, 271, 274, 278, 289, 296, 305, 308, 311, 313, 319, 322, 327, 339, 347, 349, 352, 353, 357, 361, 372, 373, 376, 426.
 
-### C.
+#### C.
 
 Calicut, to the Dewâns of, 419; to the actual and future Aumils of, 203.
 
@@ -11167,7 +11200,7 @@ Circular, to Syed Ahmed and six others, 385.
 
 Cossigny, M. (Governor of Pondicherry), 337, 355, 380, 384, 412, 417, 420, (see Governor of Pondicherry).
 
-### D.
+#### D.
 
 Dâroghâs of the Jinsy, 338.
 
@@ -11181,7 +11214,7 @@ Dileer Khân Behâdûr Dileer Jung, 263.
 
 Durwaish, Mahommed (see Mahommed Durwaish).
 
-### E.
+#### E.
 
 Eaatimâdy Khojeh Firâsut, 183.
 
@@ -11189,7 +11222,7 @@ Eesâ, Mahommed, 403.
 
 Ehsânûllah Khân, 143, 212, 341.
 
-### F.
+#### F.
 
 France, the King of, 336,
 
@@ -11197,7 +11230,7 @@ Fuzl Ali Khân, 269.
 
 Futah Ali (Meer), 345.
 
-### G.
+#### G.
 
 Ghous, Mahommed, 67, 354.
 
@@ -11223,7 +11256,7 @@ Ghûlâm Munsoor, 268.
 
 Ghyâs Khân, Mahommed, 3, 8, 9, 13, 15, 27, 37, 38, 44, 53, 56, 66, 75, 79, 82, 91, 96, 103, 104, 111, 112, 116, 118, 126, 133, 140, 149, 165, 167, 179, 189, 236, 297.
 
-### H.
+#### H.
 
 Hukeem Khân, Abdûl (see Abdûl Hukeem).
 
@@ -11231,7 +11264,7 @@ Humdâny, Mahommed Baig, 334, 381.
 
 Humeed, Syed, 18, 170.
 
-### I. <span class="small-caps">and</span> J.
+#### I. <span class="small-caps">and</span> J.
 
 Jaafur, Wufâkhâny (Meer), 346.
 
@@ -11243,7 +11276,7 @@ Imâm of Muscat, 148, 207.
 
 Jusârut ûd Dowlah, 95.
 
-### K.
+#### K.
 
 Kâsim Ali Khân (Meer), 192.
 
@@ -11263,13 +11296,13 @@ Kûtbûl Mûlk, 325, 328, 331, 435.
 
 Khyrûllah, 173.
 
-### L.
+#### L.
 
 Lally, Monsieur, 411.
 
 Lûtf Ali Khân, 232, 233.
 
-### M.
+#### M.
 
 Mahommed Ushruf, 6, 47, 65, 210, 379, 393, 396.
 
@@ -11335,7 +11368,7 @@ Mûlâim Jung, 356.
 
 Mûsheer ûl Mûlk, 366, 422.
 
-### N.
+#### N.
 
 Noor Mahommed Khân, 39 (see also Mahommed Ghyâs Khân).
 
@@ -11345,13 +11378,13 @@ Nubby Shâh, 365.
 
 Nuwâzish Ali Khân, 229.
 
-### P.
+#### P.
 
 Peer Syed, 218.
 
 Pondicherry, Governor of, 5, 21, 108, 145. (see also Cossigny).
 
-### R.
+#### R.
 
 Râjah Râm Chundur, 4, 19, 23, 35, 57, 62, 98, 106, 144, 153, 164, 174, 178, 222, 223, 241, 294, 299, 314, 316, 359, 374, 388, 390, 397, 429.
 
@@ -11361,7 +11394,7 @@ Runmust Khân, 102, 196, 201, 315, 321, 330, 370.
 
 Rujub Ali Khân, 298.
 
-### S.
+#### S.
 
 Sâdik, Meer Mahommed, 114, 318.
 
@@ -11395,13 +11428,13 @@ Syed Mahommed Khân (Dewân of Nugr), 288.
 
 Syed Ahmed Sâheb, 369, 385.
 
-### T.
+#### T.
 
 Tûrâb Ali (Meer), 309.
 
 Turbiyut Ali Khân, 4, 12, 152, 221, 223, 299, 408.
 
-### U.
+#### U.
 
 Urshudûllah Khân, 231.
 
@@ -11411,17 +11444,17 @@ Ushruf, Mahommed (see Mahommed Ushruf.)
 
 Usud Ali Khân, 301, 302, 303, 304.
 
-### W.
+#### W.
 
 Wâsil Mahommed, 242.
 
-### Y.
+#### Y.
 
 Yâkoob, and other Armenian merchants, 425.
 
 Yoosûf, Mahommed, 286.
 
-### Z.
+#### Z.
 
 Zynûl Aabideen Shoostry, 128, 131, 132, 136, 137, 139.
 
@@ -11439,7 +11472,7 @@ THE END.
 
 ## DIRECTIONS TO THE BINDER and ERRATA
 
-### DIRECTIONS TO THE BINDER.
+#### DIRECTIONS TO THE BINDER.
 
 - Plate A. to face Appendix A., page i.
 - ...... C.................. C., page xi.
@@ -11513,7 +11546,7 @@ Page.
 - —— note 11 line 3, *after* given, *insert* verbal.
 - 482 line 11 *for* Lewai Mâdhee, *read* Sewâi Mâdhee.
 - 489 .... 17 — in one part, *read* on one part.
-### APPENDIX.
+#### APPENDIX.
 
 - 1 penult. *for* Nurwail, *read* Nuwâyet.
 - 2 line 6 — Kâzy, *read* Râzy.
@@ -11533,7 +11566,7 @@ Page.
 - —— — Meers’, *read* Men’s.
 - 52 .... 8 from the bottom, *for* De Rany, *read* Decany.
 - 66 penult. *for* Shudâl, *read* Shâdâb.
-### ALTERATIONS AND ADDITIONS.
+#### ALTERATIONS AND ADDITIONS.
 
 - 141 note 2 This is an idiom, or rhetorical figure of the Persian language by which a word, necessary to the sense, but thought to be of ill omen, is dropped, and some other, of a very different (perhaps, as in the present instance, of quite an opposite) meaning, is substituted in its place. Thus, instead of saying “ the Nabob is ill,” the polite or respectful phrase is, “ the Nabob’s *enemies* are ill.”
 - 230 note 1 Dele this note, *Bârgeer* being only another name for *Silahdâr* cavalry.

@@ -19,10 +19,10 @@
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 105,
+  "letters": 106,
   "notes": 25,
   "pages": 414,
-  "dated_letters": 101
+  "dated_letters": 104
  },
  "provenance_tier": "community",
  "quality": {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 11,
+  "flagged": 9,
   "blockers": 0
  },
  "proof": {
@@ -214,7 +214,7 @@
   ],
   [
    1611,
-   52
+   55
   ],
   [
    1612,
@@ -230,7 +230,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 105,
+ "unperiodised_count": 106,
  "frontispiece": {},
  "title_page": {
   "page": 7,
@@ -240,27 +240,27 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-1-1602-1613.epub",
-   "bytes": 433474,
-   "sha256": "e7dbf37a769b27ec3f9a48053ae020ba8c44e8d8da7aaff5d2586922f8b590e1"
+   "bytes": 433627,
+   "sha256": "b2c80c79b50c855a811cce2660adba43f32eefb3651fb35d5983466c5372a409"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-1-1602-1613.md",
-   "bytes": 882531,
-   "sha256": "8f32cefbeaecd450078a30ea07499fbea8e89ebf4c363d608b926212ba212a08"
+   "bytes": 883910,
+   "sha256": "009d40c5a5e73834495789add0d7191f2a76128c566e19efceb62b1145be18f0"
   },
   {
    "format": "tei",
    "file": "eic-letters-received-vol-1-1602-1613.tei.xml",
-   "bytes": 1006982,
-   "sha256": "4983b927619be6a27901c79ba98e7c167cfc0771a3e8c214bbcb1a2e10caf7f4"
+   "bytes": 1011359,
+   "sha256": "7ef55b2ef17b3fd6d44d9ec825e38aa1a3ac74887ba9a2e3ebf8fe467142e64f"
   }
  ],
  "scan_base": "https://archive.org/download/lettersreceivedb01east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:47:33Z",
-  "source_ast_sha256": "0130c7f9d0036721372cff66dd655693b74023cea2438e4cbc908e6f528c9970",
+  "compiled_at": "2026-11-24T19:21:33Z",
+  "source_ast_sha256": "52445b0f3537331e6c3c3a415b6c921e02c1edbacd07445ef46545cef83beba9",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -638,6 +638,14 @@ html.js .reading:has([data-scan]) .blk { cursor: pointer; }
 .t-margin_note, .t-caption { font-size: 0.8em; color: var(--ink-2); }
 .t-ornamental_break { text-align: center; margin: 24px 0; }
 .t-illustration { margin: 24px 0; font-size: 0.8em; color: var(--ink-3); font-style: italic; }
+.t-illustration .illu-caption { color: var(--ink-2); font-style: normal; }
+.t-illustration .illu-caption .i { font-style: italic; }
+.table-wrap { margin: 20px 0; overflow-x: auto; max-width: 100%; }
+.letter-table { width: 100%; border-collapse: collapse; font-size: 0.88em; line-height: 1.45; text-indent: 0; font-variant-numeric: tabular-nums; }
+.letter-table th, .letter-table td { padding: 6px 10px; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; white-space: pre-line; }
+.letter-table tr.t-role-header th { font-weight: 500; border-bottom: 1px solid var(--rule-2); color: var(--ink-2); }
+.letter-table tr.t-role-total td { border-top: 1px solid var(--rule-2); font-weight: 500; }
+.letter-table tr.blk.lit th, .letter-table tr.blk.lit td { background: var(--lamp-tint); }
 .a-center { text-align: center; text-indent: 0; }
 .a-right { text-align: right; text-indent: 0; }
 .a-cascading { padding-left: 20%; text-indent: 0; }

@@ -103,6 +103,21 @@
  },
  {
   "also": [],
+  "credits": [
+   {
+    "book_id": "anandabai-joshee-life-letters-1888",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "anandabai-joshee-life-letters-1888": 12
+  },
+  "name": "Anandabai Joshee",
+  "slug": "anandabai-joshee"
+ },
+ {
+  "also": [],
   "credits": [],
   "curated": [
    "/letters/anonymous-monteagle-gunpowder-plot-1605"
@@ -178,7 +193,7 @@
   ],
   "curated": [],
   "letters": {
-   "pascal-miscellaneous-writings-1849": 3
+   "pascal-miscellaneous-writings-1849": 10
   },
   "name": "Blaise Pascal",
   "slug": "blaise-pascal"
@@ -231,6 +246,19 @@
   "letters": {},
   "name": "Caroline V. Kerr",
   "slug": "caroline-v-kerr"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "anandabai-joshee-life-letters-1888",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Caroline Wells Healey Dall",
+  "slug": "caroline-wells-healey-dall"
  },
  {
   "also": [],
@@ -374,6 +402,21 @@
   "also": [],
   "credits": [
    {
+    "book_id": "brahms-herzogenberg-1909",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "brahms-herzogenberg-1909": 105
+  },
+  "name": "Elisabet von Herzogenberg",
+  "slug": "elisabet-von-herzogenberg"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
     "book_id": "nietzsche-wagner-1921",
     "role": "ed."
    }
@@ -385,12 +428,19 @@
  },
  {
   "also": [],
-  "credits": [],
+  "credits": [
+   {
+    "book_id": "emily-dickinson-letters-1894",
+    "role": ""
+   }
+  ],
   "curated": [
    "/letters/dickinson-higginson-1862",
    "/letters/dickinson-mary-bowles-1862"
   ],
-  "letters": {},
+  "letters": {
+   "emily-dickinson-letters-1894": 50
+  },
   "name": "Emily Dickinson",
   "slug": "emily-dickinson"
  },
@@ -494,7 +544,7 @@
    "/letters/nietzsche-overbeck-1889"
   ],
   "letters": {
-   "nietzsche-wagner-1921": 16
+   "nietzsche-wagner-1921": 17
   },
   "name": "Friedrich Nietzsche",
   "slug": "friedrich-nietzsche"
@@ -572,7 +622,8 @@
    "/letters/washington-hamilton-whiskey-rebellion-1794"
   ],
   "letters": {
-   "fifty-famous-letters-1930": 1
+   "fifty-famous-letters-1930": 1,
+   "literature-in-letters-1870": 2
   },
   "name": "George Washington",
   "slug": "george-washington"
@@ -609,6 +660,10 @@
   "also": [],
   "credits": [
    {
+    "book_id": "brahms-herzogenberg-1909",
+    "role": "tr."
+   },
+   {
     "book_id": "schumann-letters-1907",
     "role": "tr."
    }
@@ -630,6 +685,21 @@
   "letters": {},
   "name": "Harihar Das",
   "slug": "harihar-das"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "brahms-herzogenberg-1909",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "brahms-herzogenberg-1909": 23
+  },
+  "name": "Heinrich von Herzogenberg",
+  "slug": "heinrich-von-herzogenberg"
  },
  {
   "also": [],
@@ -719,6 +789,19 @@
   "also": [],
   "credits": [
    {
+    "book_id": "literature-in-letters-1870",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "James P. Holcombe",
+  "slug": "james-p-holcombe"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
     "book_id": "rukaat-i-alamgiri-aurangzeb-1908",
     "role": "tr."
    }
@@ -760,11 +843,27 @@
  },
  {
   "also": [],
+  "credits": [
+   {
+    "book_id": "brahms-herzogenberg-1909",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "brahms-herzogenberg-1909": 110
+  },
+  "name": "Johannes Brahms",
+  "slug": "johannes-brahms"
+ },
+ {
+  "also": [],
   "credits": [],
   "curated": [
    "/letters/adams-jefferson-reconciliation-1812"
   ],
   "letters": {
+   "literature-in-letters-1870": 2,
    "old-love-letters-1883": 1,
    "selected-english-letters-1914": 1
   },
@@ -930,6 +1029,19 @@
  },
  {
   "also": [],
+  "credits": [
+   {
+    "book_id": "emily-dickinson-letters-1894",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Mabel Loomis Todd",
+  "slug": "mabel-loomis-todd"
+ },
+ {
+  "also": [],
   "credits": [],
   "curated": [
    "/letters/twain-treasury-secretary-1902"
@@ -963,6 +1075,19 @@
  },
  {
   "also": [],
+  "credits": [
+   {
+    "book_id": "brahms-herzogenberg-1909",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Max Kalbeck",
+  "slug": "max-kalbeck"
+ },
+ {
+  "also": [],
   "credits": [],
   "curated": [
    "/letters/lewis-jefferson-1806"
@@ -983,6 +1108,19 @@
   "letters": {},
   "name": "Michael Faraday",
   "slug": "michael-faraday"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "michelangelo-letters-1913",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Michelangelo Buonarroti",
+  "slug": "michelangelo-buonarroti"
  },
  {
   "also": [],
@@ -1100,6 +1238,19 @@
  },
  {
   "also": [],
+  "credits": [
+   {
+    "book_id": "rammohun-roy-life-letters-1914",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Raja Rammohun Roy",
+  "slug": "raja-rammohun-roy"
+ },
+ {
+  "also": [],
   "credits": [],
   "curated": [
    "/letters/emerson-whitman-1855"
@@ -1118,7 +1269,7 @@
   ],
   "curated": [],
   "letters": {
-   "nietzsche-wagner-1921": 34
+   "nietzsche-wagner-1921": 35
   },
   "name": "Richard Wagner",
   "slug": "richard-wagner"
@@ -1137,6 +1288,19 @@
   },
   "name": "Robert Schumann",
   "slug": "robert-schumann"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "michelangelo-letters-1913",
+    "role": "tr. & ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Robert W. Carden",
+  "slug": "robert-w-carden"
  },
  {
   "also": [],
@@ -1196,7 +1360,9 @@
    }
   ],
   "curated": [],
-  "letters": {},
+  "letters": {
+   "literature-in-letters-1870": 2
+  },
   "name": "Sir Isaac Newton",
   "slug": "sir-isaac-newton"
  },
@@ -1209,6 +1375,19 @@
   "letters": {},
   "name": "Sister Nivedita",
   "slug": "sister-nivedita"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "rammohun-roy-life-letters-1914",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Sophia Dobson Collet",
+  "slug": "sophia-dobson-collet"
  },
  {
   "also": [],
@@ -1267,7 +1446,8 @@
    "/letters/jefferson-adams-1813"
   ],
   "letters": {
-   "fifty-famous-letters-1930": 1
+   "fifty-famous-letters-1930": 1,
+   "literature-in-letters-1870": 2
   },
   "name": "Thomas Jefferson",
   "slug": "thomas-jefferson"

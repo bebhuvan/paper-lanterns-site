@@ -7,7 +7,7 @@
 
 ## Frontmatter
 
-### LETTERS FROM A MAHRATTA CAMP
+### LETTERS<br />FROM A<br />MAHRATTA CAMP
 
 <span class="small-caps">Sold by</span>
 
@@ -27,11 +27,11 @@
 
 *All rights reserved*
 
-### CONSTABLE'S ORIENTAL MISCELLANY
+### CONSTABLE'S<br />ORIENTAL MISCELLANY
 
-### OF ORIGINAL AND SELECTED PUBLICATIONS <span class="small-caps">Vol</span> · IV
+#### OF<br />ORIGINAL AND SELECTED PUBLICATIONS<br /><span class="small-caps">Vol</span> · IV
 
-### LETTERS FROM A MAHRATTA CAMP <span class="small-caps">During the year</span> 1809
+### LETTERS<br />FROM<br />A MAHRATTA CAMP<br /><span class="small-caps">During the year</span> 1809
 
 *[Illustration, p. 7]*
 
@@ -42,7 +42,7 @@ MDCCCXCII
 
 ### CONSTABLE'S ORIENTAL MISCELLANY
 
-### *Volumes already published*
+##### *Volumes already published*
 
 - <span class="small-caps">Vol. I.—Bernier's Travels in the Mogul Empire,</span>  
   A.D 1656-1668 . . . . . . 6s. nett
@@ -53,18 +53,18 @@ MDCCCXCII
 
 A BAZAR IN SEENDHIYA'S CAMP
 
-### LETTERS WRITTEN IN A MAHRATTA CAMP DURING THE YEAR 1809 DESCRIPTIVE OF THE CHARACTER MANNERS DOMESTIC HABITS AND RELIGIOUS CEREMONIES OF THE MAHRATTAS
+### LETTERS<br />WRITTEN IN<br />A MAHRATTA CAMP<br />DURING THE YEAR 1809<br />DESCRIPTIVE OF THE CHARACTER MANNERS DOMESTIC<br />HABITS AND RELIGIOUS CEREMONIES OF THE MAHRATTAS
 
-### BY THOMAS DUER BROUGHTON <span class="small-caps">formerly commander of the resident's escort at the court of scindia</span>
+##### BY<br />THOMAS DUER BROUGHTON<br /><span class="small-caps">formerly commander of the resident's escort at the court of scindia</span>
 
-### A NEW EDITION WITH AN INTRODUCTION BY THE RIGHT HONOURABLE SIR M·E GRANT DUFF G·C·S·I F·R·S
+##### A NEW EDITION<br />WITH AN INTRODUCTION BY<br />THE RIGHT HONOURABLE<br />SIR M·E GRANT DUFF<br />G·C·S·I F·R·S
 
 Westminster  
 ARCHIBALD CONSTABLE AND COMPANY  
 14 PARLIAMENT STREET S·W  
 MDCCCXCII
 
-### TO THE MOST NOBLE THE MARQUES [*sic*] WELLESLEY, K.G. *&c. &c. &c.*
+### TO THE MOST NOBLE<br />THE MARQUES [*sic*] WELLESLEY, K.G.<br />*&c. &c. &c.*
 
 THE ACUTE DETECTOR OF MAHRATTA WILES,  
 THE FIRM REPELLER OF THEIR INSOLENT PRETENSIONS,  
@@ -92,55 +92,55 @@ THE AUTHOR.
 
 <span class="small-caps">Introduction</span> . . . . . . . . . xxi
 
-### LETTER I
+#### LETTER I
 
 Introduction—March from Agra—Ruins of Kumal Khan's Palace — Kagarol — Sepou — Baree — Moohumedan Tombs — Marauding Chiefs—Hunting Seat of Shah Jihan—Siree-Muttra—Dreary Country—Visit of the Raja—Dholpoor Wukeel—March—Kiruolee—Bad Weather—Halt . . I
 
-### LETTER II
+#### LETTER II
 
 Account of Kiruolee—Interview with the Daroghu—March to Haruotee—The Bunas—Difficulties respecting Remainder of the Route—Hirkarus—March down the Bunas—Goojurs—Arrival at Kund,har—Difficulties of Encamping—Kund,har—Qiludars—Runtambor—Nuya Shuhur—Buniyas—March to Palee—Crossing the Chumbul—Arrival in Camp . . 9
 
-### LETTER III
+#### LETTER III
 
 Description of a Mahratta Camp—The Bazars—Tents—Mode of Life—Liquors—Huts—The Jinsee and Brigades—Want of Cleanliness—The Baruh B,haees and Pindaras—The Shohdahs—Baboo Khan—Misery of the Poor People—Children Sold—Khuburdars—Soopoor—The Raja a Sukee Buo—Cold Weather . . . . . . . . . 19
 
-### LETTER IV
+#### LETTER IV
 
 PAGE March to Kutolee—Raja of Kota—Zalim Sing,h—Visit the Durbar—Seendhiya—The Surdars—Gopal Rao Buo—The Mamma—Familiar Appellatives of Mahratta Chiefs—Seendhiya's Encampment—His Pecuniary Difficulties—Sitting D,hurna—Quarterly Payments—Elephant Fights—Duk,hunee Horses—The Bukree Eed—Moohumedan Feasts for the Dead—The Sunkrat—Feeding Brahmuns—The Busunt, or Spring—Mode of grinding Corn—A Busunt Song—Foragers . 27
 
-### LETTER V
+#### LETTER V
 
 March to the Chumbul—Ford of the Parbuttee—Destruction of the young Corn—Bunjaras—March to Babue—Confusion in the Ravines—Cross the Arrabaree Hills—Elephants forcing a Passage through the Woods—Moisture of the Soil—Goojurs—Grupchat—Surjee Rao—The Muha Raj in D,hurna—Holkar's Villages—The Hohlee and Moohurrum—B,hanmittees—Fruit Merchant . . . . . . . . 40
 
-### LETTER VI
+#### LETTER VI
 
 March to Choroo and Puchala—Ooniara and Rampoora—Circuitous Route—Great Inconvenience from Heat—March to the Bunas—Rejoin the Army—Bad Encampment—Commencement of the Moohurrum . . . , . . 46
 
-### LETTER VII
+#### LETTER VII
 
 Change of Ground—Insolence of the Infantry Sipahees—Aleegols—Change of Ministry—Surjee Rao—Raja Ambajee—The Resident visits the new Minister—The Moohurrum—Alarm among the Merchants—The Country laid waste . 49
 
-### LETTER VIII
+#### LETTER VIII
 
 <span class="small-caps">page</span> March to Issurdu—Jamdars—March to Kakorh—Scarcity of Water—March towards Tod,ha—Face of the Country—Cavalry moving in Advance—Mahrattas destroying the Crops—Remonstrance of the Takoor of Issurdu—Detachment sent to Kurera and Doonee—Ana Siknuvees dismissed from Camp—His Nephew poisoned—Quicksands of the Bunas—Villages laid waste—The Rangras retaliate—The Muha Raj plays the Hohlee—A Sally from Doonee . . 58
 
-### LETTER IX
+#### LETTER IX
 
 Orders for a March—Uncertainty respecting it—March towards Doonee—Wandering Gosaeens—Visit to the Muha Raj—Playing the Hohlee—Arrangements for the purpose—Extraordinary Scene—Account of the Hohlee—Sports and Songs of the Season—Concluding Ceremony—Dancing Boys—Bengal Sipahees—Surjee Rao returns the Resident's Visit—Khiluts—Trait of Ambajee's Character—Destruction of the Corn Fields—Attack upon the Garrison of Doonee—Positions taken up for the Siege—Butkees—Management of them . . . . . . . . . . . 64
 
-### LETTER X
+#### LETTER X
 
 Siege of Doonee continued—Two Classes of Mahrattas—Brahmuns—Inferior Classes—Their want of Public Attachments—Personal Peculiarities—Moral Qualities—Progress of the Siege—Fanatic Fuqeer—Guns taken from the Battery—Reinforcement to Doonee—The Muha Raj displeased with his Ministers—Surjee Rao's Drunkenness and Debaucheries—His Passion for Juwahir—Distress from want of Water and Forage—Thieves—Distress of the Country—Requisitions on the Merchants—Mankurrees—Meenas of Jypoor—Of Kota and Boondee—Ladkunnees—The Small-pox appears in Camp—The Muha Raj applies for Vaccine Matter—Raja Ambajee dying—Doonee, Tod,ha, and Malpoora—Raja of Boondee's Present—Charge and Use of Grupchat . . 76
 
-### LETTER XI
+##### LETTER XI
 
 <span class="small-caps">page</span> Siege of Doonee continued—Surdars sent to meet the Jypoor Ambassador—Mahratta Claims upon the Rajpoot States—Character of the Rajpoots—Battle of Jypoor—Koosallee Ram—Presents brought from the Muha Raj—Seendhiya's Employments and Companions—His Wives—Old Mogulanee Attendant of the Baee—Divisions among the Ministers—Distress throughout the Camp—Baboo Khan—Detachments in the Jypoor Country—Gosaeens—Change of Officers—Remarkably dry Weather . . . . . . 89
 
-### LETTER XII
+##### LETTER XII
 
 Arrival of the Jypoor Ambassador—Extravagant Demands of the Durbar—Demands of Jypoor—Strength of the Jypoor Country—Disaffection of the Rajpoot Generals—Differences respecting Doonee—Visit to the Durbar—Surjee Rao's Cruelties—His Influence over the Muha Raj lessened—Revolution in Holkar's Camp—Mutiny in Appa Kandra's Camp—Corps of Meenas—Account of them—Increasing Distress of the Camp—Surdars quit it—Others sit D,hurna—Raja Bawanee Purshad—Seendhiya's Privy Purse—Flying Kites—Eclipse of the Moon . . . . . . 100
 
-### LETTER XIII
+##### LETTER XIII
 
 Return of the Messenger from Jypoor—Differences regarding Doonee adjusted—The Treaty with Jypoor announced—Number of Guns in Camp—Establishment of the Jinsee—Part of the Army marches—Clamours for Pay—Balajee Juswunt confined—Curious Message from Surjee Rao—Ambajee's Death—His great Wealth—Visit of Condolence to Bala Rao—Miserable State of the Cattle—Buniyas—Management of the Bazars—Imposts and Taxes—Four Girls exposed for Sale by the Meenas . . . . . . 108
 
@@ -204,11 +204,11 @@ LETTER XXX
 
 March from Roopahelee—Opposition by the Troops—Bala Qadir—Moohumedan Fuqeers—Designs upon the Raja of Shahpoora—Flocks of Wild-fowl—Bapoo Seendhiya's Domestic Afflictions—Ceremonies of the Kiria Kunum—The Muha Raj's Attentions to Anajee—Bala Chobdar—Battle between Meer Khan and the B,honslah—Pleasant Weather . . 238
 
-### LETTER XXXI
+#### LETTER XXXI
 
 <span class="small-caps">Page</span> Negotiations with the Shahpoora Wukeels not concluded—Bala Rao escapes from Camp—The Mamma's Vexation, and Message to Seendhiya—Disturbances in the First Brigade—The Nuwab Moorteza Khan—Daring Attack upon Puriag Das—Wretched State of the Peasants—Their Imprecations on the Mahrattas—Mr. M——'s Arrival in Camp—Ceremonies of conducting him into Camp—Visit to the Durbar—Discussions respecting Khiluts—Seendhiya returns the Resident's Visit—Superb Barouche presented to him—His Suspicions on the Subject—The Ziyafut—Conclusion . . 244
 
-### LETTER XXXII
+#### LETTER XXXII
 
 March to Ajmeer—Description of the Fort and City—Tomb of Moouen-oo-deen Chishtee—Ceremonies observed at the Tomb—Visit to Pokur—Description of the different Temples—The Town, and Manners of its Inhabitants—Alarm of the Muha Raj ; and Preparations for quitting Ajmeer . . 251
 
@@ -305,11 +305,11 @@ M. E. GRANT DUFF.
 
 ## Letters from a Mahratta Camp
 
-### LETTERS FROM A MAHRATTA CAMP
+### LETTERS<br />FROM<br />A MAHRATTA CAMP
 
 ### Letter 1
 
-### LETTER I
+#### LETTER I
 
 Introduction—March from Agra—Ruins of Kumal Khan's palace—Kagarol—Sepou—Baree—Moohumedan tombs—Marauding chiefs—Hunting seat of Shah Jihan—Siree-Muttra—Dreary country—Visit of the Raja—Dholpoor Wukeel—March—Kiruolee—Bad weather—Halt.
 
@@ -342,7 +342,7 @@ My dear brother,
 
 ### Letter 2
 
-### LETTER II
+#### LETTER II
 
 Account of Kiruolee—Interview with the Daroghu—March to Haruotee—The Bunas—Difficulties respecting remainder of the route—Hirkarus—March down the Bunas—Goojurs—Arrival at Kund,-har—Difficulties of encamping—Kund,har—Qiludars—Runtambor—Nuya Shuhur—Buniyas—March to Palee—Crossing the Chumbul—Arrival in Camp.
 
@@ -364,7 +364,7 @@ Yesterday we had an easy march of eight miles to camp, across a fine country whi
 
 ### Letter 3
 
-### LETTER III
+#### LETTER III
 
 Description of a Mahratta camp—The Bazars—Tents—Mode of life—Liquors—Huts—The Jinsee and Brigades—Want of cleanliness—The Baruh B,haees and Pindaras—The Shohdahs—Baboo Khan—Misery of the poor people—Children sold—Khuburdars—Soopoor ; the Raja a Sukee Buo—Cold weather.
 
@@ -396,7 +396,7 @@ The weather is becoming very cold ; the thermometer having stood, at sunrise, fo
 
 ### Letter 4
 
-### LETTER IV
+#### LETTER IV
 
 March to Kutolee—Raja of Kota—Zalim Sing,h—Visit the Durbar—Seendhiya—The Surdars—Gopal Rao Buo—The Mamma—Familiar appellatives of Mahratta chiefs—Seendhiya's encampment—His pecuniary difficulties—Sitting D'hurna—Quarterly payments—Elephant fights—Duk,hunee horses—The Bukree Eed—Moohumedan feasts for the dead—The Sunkrat—Feeding Brahmuns—The Busunt, or spring—Mode of grinding corn—A Busunt song—Foragers.
 
@@ -426,33 +426,35 @@ This is the season of the *Busunt*, or spring of the Hindoos. The word signifies
 
 FIG. I.—A MAHRATTA SURDAR ENTERTAINING BRAHMUNS.
 
-### A BUSUNT SONG
-
-The lively drum is heard around ;  
-The tamborine and cymbals sound :  
-But I of lengthen'd absence plain,  
-And perish by a parching flame.
-
-The women all around me sing,  
-And own th' inspiring joys of spring ;  
-While I, from darts of ruthless Love,  
-Never ending torments prove.
-
-The amorous *Kokil* [^fn-p0077-1] strains his throat,  
-And pours a plaintive pleasing note :  
-My breast responsive heaves with grief,  
-Hopeless and reckless of relief.
-
-When *he* again shall glad my hours,  
-Then, girl, I'll take thy blooming flowers ;  
-But now my love is far away,  
-Where should I place thy *Busunt* gay.
+> **[verse_insert]**
+>
+> ###### A BUSUNT SONG
+>
+> The lively drum is heard around ;  
+> The tamborine and cymbals sound :  
+> But I of lengthen'd absence plain,  
+> And perish by a parching flame.
+>
+> The women all around me sing,  
+> And own th' inspiring joys of spring ;  
+> While I, from darts of ruthless Love,  
+> Never ending torments prove.
+>
+> The amorous *Kokil* [^fn-p0077-1] strains his throat,  
+> And pours a plaintive pleasing note :  
+> My breast responsive heaves with grief,  
+> Hopeless and reckless of relief.
+>
+> When *he* again shall glad my hours,  
+> Then, girl, I'll take thy blooming flowers ;  
+> But now my love is far away,  
+> Where should I place thy *Busunt* gay.
 
 The foragers are scattered all over the country ; and are to be seen at all hours returning to camp with their *tuthoos*, a hardy species of pony, or bullocks groaning under their loads of green wheat or barley. Such depredations necessarily cause the greatest distress among the unfortunate peasants ; who are driven from their dwellings, and forced to seek a shelter in *Kota*, or some other territory which is not threatened with a visit from a Mahratta camp. I have myself met several families emigrating in this manner ; who one and all raised their voices, to call down curses upon Seendhiya and his horde of ravagers. In some cases they have avenged themselves, by carrying off cattle from the foraging parties, when there has not been a detachment sufficiently strong to protect them. Many of the Muha Raj's people have been wounded in these skirmishes.
 
 ### Letter 5
 
-### LETTER V
+#### LETTER V
 
 March to the Chumbul—Ford of the Parbuttee—Destruction of the young corn—Bunjaras—March to Babue—Confusion in the ravines—Cross the Arrabaree Hills—Elephants forcing a passage through the woods—Moisture of the soil—Goojurs—Grupchat—Surjee Rao—The Muha Raj in d,hurna—Holkar's villages—The Hohlee and Moohurrum—B,hanmittees—Fruit merchant.
 
@@ -486,7 +488,7 @@ A set of jugglers, called *Bhanmittees*, came into our camp this morning, and ex
 
 ### Letter 6
 
-### LETTER VI
+#### LETTER VI
 
 March to Choroo and Puchala—Ooniara and Rampoora—Circuitous route—Great inconvenience from heat—March to the Bunas—Rejoin the army—Bad encampment--Commencement of the Moohurrum.
 
@@ -502,7 +504,7 @@ This morning we rejoined the army; the greatest part of which is encamped along 
 
 ### Letter 7
 
-### LETTER VII
+#### LETTER VII
 
 Change of ground—Insolence of the Infantry Sipahees—Aleegols— Change of Ministry—Surjee Rao—Raja Ambajee—The Resident visits the new Minister—The Moohurrum—Alarm among the merchants—The country laid waste.
 
@@ -532,7 +534,7 @@ Within a short distance of our camp are two fine hill forts, *Sursot* and *Sowar
 
 ### Letter 8
 
-### LETTER VIII
+#### LETTER VIII
 
 March to Issurdu—Jamdars—March to Kakorh—Scarcity of water—March towards Tod,ha—Face of the country—Cavalry moving in advance—Mahrattas destroying the crops—Remonstrance of the Takoor of Issurdu—Detachment sent to Kurera and Doonee—Ana Siknuvees dismissed from camp—His nephew poisoned—Quicksands of the Bunas—Villages laid waste—The Rangras retaliate—The Muha Raj plays the Hohlee—A sally from Doonee.
 
@@ -558,7 +560,7 @@ We have just heard that the garrison of Doonee have made a vigorous sally upon t
 
 ### Letter 9
 
-### LETTER IX
+#### LETTER IX
 
 Orders for a march—Uncertainty respecting it—March towards Doonee—Wandering Gosaeens—Visit to the Muha Raj—Playing the Hohlee—Arrangements for the purpose—Extraordinary scene—Account of the Hohlee—Sports and songs of the season—Concluding ceremony—Dancing boys—Bengal Sipahees—Surjee Rao returns the Resident's visit—Khiluts—Trait of Ambajee's character—Destruction of the cornfields—Attack upon the garrison of Doonee—Positions taken up for the siege—Butkees—Management of them.
 
@@ -578,24 +580,26 @@ FIG. 3.—PLAYING THE HOHLEE.
 
 The festival of the Hohlee is observed by all classes throughout Hindoostan : it is the season of universal merriment and joy ; and the sports that take place at its celebration bear some resemblance to those which were allowed in Rome during the Saturnalia. The utmost licence is permitted to all ranks ; the men, old and young, parade about the streets, or the camp, in large groups, singing *Kuveers*, or extemporary stanzas, full of the grossest indelicacy, into which they freely introduce the names of their superiors, coupled with the most abominable allusions ; the whole party joining in the chorus, and expressing their delight by loud peals of laughter, hallooing, and almost frantic gestures. An individual sometimes exhibits himself dressed in a most grotesque and indecent manner, as a personification of the Hohlee, and is followed by crowds throwing about the *abeer* and singing the *P,hagoon* songs, to the great annoyance of such women as they may happen to meet, whom they delight to attack with the coarsest ribaldry. The ladies, however, are not without their share of the festivities of the season : they make parties at each other's tents or houses ; sit up at *Naches* all night ; and play the Hohlee with as much spirit as their male relations. No men, however, are admitted to these select parties, except their husbands ; or sometimes their brothers, if they happen to be of a very tender age. These joyous parties begin with the month of *P,hagoon*, the last of the Hindoo year, and the commencement of the spring. The words *P,hagoon* and *P,hag* are also used to denote the little presents of flowers, fruits, or sweetmeats, which lovers are accustomed to make to their mistresses, as well as the sports and songs peculiar to the season : and when these last are marked with more than ordinary licence, they are termed *Dhumaree.* But the Hohlee songs are not necessarily indelicate : in the following one, Krishna,[^fn-p0108-1] in his youthful character of *Kunueya,* or the beloved, is described as attacked by a party of the *Gopees,* or maids, of Muttra, during the time of the Hohlee. As it pourtrays, with much accuracy and spirit, the peculiar customs of that festival, I have translated it for your amusement.
 
-### HOHLEE SONG
-
-While some his loosen'd turban seize,  
-And ask for *P,hag,* and laughing teaze ;  
-Others approach with roguish leer,  
-And softly whisper in his ear.  
-With many a scoff, and many a taunt,  
-The *P,hagoon* some fair Gopees chaunt ;  
-While others, as he bends his way,  
-Sing at their doors *Dhumaree* gay.  
-One boldly strikes a loving slap ;  
-One brings the powder in her lap ;  
-And clouds of crimson dust arise  
-About the youth with lotus-eyes.  
-Then all the colour'd water pour,  
-And whelm him in a saffron shower ;  
-And crowding round him bid him stand,  
-With wands of flowers in every hand.
+> **[verse_insert]**
+>
+> ###### HOHLEE SONG
+>
+> While some his loosen'd turban seize,  
+> And ask for *P,hag,* and laughing teaze ;  
+> Others approach with roguish leer,  
+> And softly whisper in his ear.  
+> With many a scoff, and many a taunt,  
+> The *P,hagoon* some fair Gopees chaunt ;  
+> While others, as he bends his way,  
+> Sing at their doors *Dhumaree* gay.  
+> One boldly strikes a loving slap ;  
+> One brings the powder in her lap ;  
+> And clouds of crimson dust arise  
+> About the youth with lotus-eyes.  
+> Then all the colour'd water pour,  
+> And whelm him in a saffron shower ;  
+> And crowding round him bid him stand,  
+> With wands of flowers in every hand.
 
 The term *P,hagoon* is compounded of two Sunskreet words—*P,hal,* which signifies faults or slight errors ; and *Goon,* admissible or venial—and implies, that little irregularities, such as talking indecently, rallying the women, or innocently romping with them, are allowable at this joyous season ; when Nature herself sets the example, and smiles voluptuously on all the world. The Hohlee, however, strictly speaking, does not commence till the 23rd of the month; which day is the anniversary of a goddess named *Hohlika*, in whose honour the festival is held. On the last night of the month, the ceremony of burning the Hohlee concludes the festivities. A quantity of wood having been collected for the purpose, a lucky moment is fixed upon for setting fire to the pile. Every family has a small one within their own premises, where they burn little balls of cow-dung strung upon a rope, called *Bulha*; and a larger one is burned in every street or market place, around which all the neighbours assemble. In the morning, when the fire has burned out, they who have watched it through the night cast the ashes upon one another, and throw them into the air; laughing and hallooing, and repeating for the last time their favourite *Kuveers*. This concluding ceremony is allusive to the demise of the old year now just expired, and expressive of their joy at the approach of the new one now commencing. The riotous crew then bathe themselves, put on clean clothes, and go about to compliment their friends.
 
@@ -613,7 +617,7 @@ As I was sitting in my tent a few mornings ago, I was not a little surprised by 
 
 ### Letter 10
 
-### LETTER X
+#### LETTER X
 
 Siege of Doonee continued—Two classes of Mahrattas—Brahmuns—Inferior classes—Their want of public attachments—Personal peculiarities—Moral qualities—Progress of the siege—Fanatic Fuqeer—Guns taken from the battery—Reinforcement to Doonee—The Muha Raj displeased with his ministers—Surjee Rao's drunkenness and debaucheries—His passion for Juwahir—Distress from want of water and forage—Thieves—Distress of the country—Requisitions on the merchants—Mankurrees—Meenas of Jypoor—Of Kota and Boondee—Ladkunnees—The small-pox appears in camp—The Muha Raj applies for vaccine matter—Raja Ambajee dying—Doonee, Tod,ha, and Malpoora—Raja of Boondee's present—Charge and use of Grupchat.
 
@@ -647,7 +651,7 @@ I mentioned to you in one of my former letters[^fn-p0125-1] a large unwieldy gun
 
 ### Letter 11
 
-### LETTER XI
+#### LETTER XI
 
 Siege of Doonee continued—Surdars sent to meet the Jypoor Ambassador—Mahratta claims upon the Rajpoot states—Character of the Rajpoots—Battle of Jypoor—Koosallee Ram—Presents brought for the Muha Raj—Seendhiya's employments and companions—His wives—Old Mogulanee attendant of the Baee—Divisions among the ministers—Distress throughout the camp—Baboo Khan—Detachments in the Jypoor country—Gosaeens—Change of officers—Remarkably dry weather.
 
@@ -675,7 +679,7 @@ Almost all the old officers of the Sirkar have been turned out, and their places
 
 ### Letter 12
 
-### LETTER XII
+#### LETTER XII
 
 Arrival of the Jypoor Ambassador—Extravagant demands of the Durbar—Demands of Jypoor—Strength of the Jypoor country—Disaffection of the Rajpoot Generals—Differences respecting Doonee—Visit to the Durbar—Surjee Rao's cruelties—His influence over the Muha Raj lessened—Revolution in Holkar's camp—Mutiny in Appa Kandra's camp—Corps of Meenas—Account of them—Increasing distress of the camp—Surdars quit it—Others sit D,hurna—Rajah Bawanee Purshad—Seendhiya's privy purse—Flying kites—Eclipse of the moon.
 
@@ -703,7 +707,7 @@ Early on the morning of the 30th ult. there was an eclipse of the moon, when the
 
 ### Letter 13
 
-### ESLOK
+###### ESLOK
 
 Enter quick, O fly the place !—  
 Veil, O veil, thy fairer face !—  
@@ -716,7 +720,7 @@ And quit a Moon less pure, for thee.
 
 ### Letter 14
 
-### LETTER XIII
+#### LETTER XIII
 
 Return of the messenger from Jypoor—Differences regarding Doonee adjusted—The treaty with Jypoor announced—Number of guns in camp—Establishment of the Jinsee—Part of the army marches —Clamours for pay—Balajee Juswunt confined—Curious message from Surjee Rao—Ambajee's death—His great wealth—Visit of condolence to Bala Rao—Miserable state of the cattle—Buniyas —Management of the Bazars—Imposts and taxes—Four girls exposed for sale by the Meenas.
 
@@ -756,8 +760,9 @@ Upon all other articles these duties are levied according to their value, and in
 
 *Palputtee*; a tax levied for the professed purpose of providing a tent for the accommodation of the *Dundiya*, or constable, and other petty officers of the Bazar, but which is generally paid *en masse* to the Sirkar, or the farmer, by the *Kotwal*, who levies it upon all the shops of his Bazar, according to their ostensible means. It is estimated in four of the Bzaars at the following sums:
 
-| Duolut-gunj | . . | 3,000 Rupees. |
+|  |  |  |
 | --- | --- | --- |
+| Duolut-gunj | . . | 3,000 Rupees. |
 | Danuwulee. | . . | 3,000 ,, |
 | Chuonree . | . . | 2,000 ,, |
 | Surrafa | . . . | 6,000 ,, |
@@ -782,7 +787,7 @@ I mentioned to you in my last letter that the Meenas were in the habit of carryi
 
 ### Letter 15
 
-### LETTER XIV
+#### LETTER XIV
 
 March to the Bunas—Mahratta women—Marwaree Buniyas—Must elephants—Slaughter of the Golundaz—March to Rioota Ghat—Plunder of the village—Adroitness of the Meenas—Body of a Surdar burned—March towards Sawur—Sagacity of elephants attached to the guns.
 
@@ -802,7 +807,7 @@ This morning we marched ten miles, along the right bank of the river, and are en
 
 ### Letter 16
 
-### LETTER XV
+#### LETTER XV
 
 March towards Jajgurh—Grove of date trees—Heera Sing,h joins the army—Bawanee Purshad—The Gosaeens—Projected march to Ajmeer—Remonstrance of the Buhora—Attacks of the Meenas—Consternation in camp—Melon Gardens—Tent of Kus—Seendhiya's extraordinary conduct at the Durbar—Filth of the camp—Disputes with Surjee Rao—Shuhamut Khan, and his wife—Seendhiya sits D,hurna—Ambajee's family arrives in camp—Ravages continued in Jypoor—Jypoorian faith—Discontent of the Buhora—Manners of the Rajpoots—Dokul Sing,h's Wukeels—Surjee Rao performs his ablutions ; and feeds Brahmuns—Fuqeers—Hindoo songs.
 
@@ -838,40 +843,44 @@ On the 24th ult. was the *Dusera*,[^fn-p0167-1] a Hindoo festival, from which is
 
 I have already sent you some specimens of these compositions, and now enclose two more, in a different style, which I have picked up from these itinerant bards. The first is of the kind called *Doha*, and is meant to ridicule the proverbial thrift of the *Buniyas*: one of whom made a vow to give a handful of meal to every beggar who came to his shop ; but, that his charity might cost him as little as possible, warily dealt it out by the small hand of his lovely daughter. The second is a *Kubit*, and is merely a little *i'eu d'esprit*, not, however, without a moral point.
 
-### DOHA
+> **[verse_insert]**
+>
+> ###### DOHA
+>
+> The frugal father's sage commands,  
+> Dealt by his daughter's smaller hands,  
+>   His daily pittance to the poor.  
+> Bad thrift ;—her beauty to behold,  
+> In beggar's guise, both young and old  
+>   Came thronging round the crowded door.
 
-The frugal father's sage commands,  
-Dealt by his daughter's smaller hands,  
-  His daily pittance to the poor.  
-Bad thrift ;—her beauty to behold,  
-In beggar's guise, both young and old  
-  Came thronging round the crowded door.
-
-### KUBIT
-
-Your beast perverse ; your man a rogue ;  
-Your heart to amorous courses given ;  
-Your friend a fool ; your master mean ;—  
-Can greater plagues be sent by Heaven ?
-
-Dinner to seek abroad ; a house  
-Built in some little dirty town ;  
-Long journeys on cold rainy days ;  
-Are miseries all mortals own.
-
-Yourself with wantons sporting oft,  
-While wife at home to love is given ;  
-An itch to cheat, oppress, or rob ;  
-A child, whom from your love you've driven.
-
-Folly, old age, a sickly frame ;  
-A lack of means ; a memory gone ;  
-These, these are hell, a present hell ;  
-Talk not of others still to come.
+> **[verse_insert]**
+>
+> ###### KUBIT
+>
+> Your beast perverse ; your man a rogue ;  
+> Your heart to amorous courses given ;  
+> Your friend a fool ; your master mean ;—  
+> Can greater plagues be sent by Heaven ?
+>
+> Dinner to seek abroad ; a house  
+> Built in some little dirty town ;  
+> Long journeys on cold rainy days ;  
+> Are miseries all mortals own.
+>
+> Yourself with wantons sporting oft,  
+> While wife at home to love is given ;  
+> An itch to cheat, oppress, or rob ;  
+> A child, whom from your love you've driven.
+>
+> Folly, old age, a sickly frame ;  
+> A lack of means ; a memory gone ;  
+> These, these are hell, a present hell ;  
+> Talk not of others still to come.
 
 ### Letter 17
 
-### LETTER XVI
+#### LETTER XVI
 
 March towards Shahpoora—Dokul Sing,h—Jypoor treaty still un-executed—Alarming discontents in camp—The Khans sit D,hurna—Are driven from camp—Disturbances in the battalions—Mahratta chiefs offended—Balajee Juswunt tortured—Method of raising supplies—The Khasgee—Seendhiya intimates his intention to befriend Dokul Sing,h—Wukeels from Krishngurh—Physicians of Ajmeer—Number of snakes and scorpions—Deoba Kalia's wedding—Marriage creemonies among the Mahrattas—Marriage of Madoojee Seendhiya—Dancing girls.
 
@@ -903,7 +912,7 @@ On the 4th we wished to celebrate the birthday of our revered monarch, but our m
 
 ### Letter 18
 
-### LETTER XVII
+#### LETTER XVII
 
 Surjee Rao goes to Shahpoora—March to Irwur—Province of Ajmeer—Protection afforded to the villages—The perambulator—Loan with Gokul Paruk—Universal distress in camp—Contributions not realized in the neighbourhood—Visit to the Durbar—System of espionage.
 
@@ -925,7 +934,7 @@ He has now established a system of *espionage* throughout the camp, which pervad
 
 ### Letter 19
 
-### LETTER XVIII
+#### LETTER XVIII
 
 March to Roopahelee—Body of a murdered girl—Surjee Rao's influence declining—Fresh quarrels with the Muha Raj—The Minister remains behind—He prepares to quit camp—Detachment formed for Malwa—Violent dispute with the Mamma—Part of the Jypoor contribution paid—The Rana of Oodipoor—Disturbances in his country—Villagers of Boorkera—Temple of Nathdooara—Boldness of the thieves—Huts erecting in camp—Influence of his companions over the mind of the Muha Raj—The Bala Baee.
 
@@ -959,7 +968,7 @@ The Wukeels of Dokul Sing,h are very urgent for the army to march to Ajmeer, whe
 
 ### Letter 20
 
-### LETTER XIX
+#### LETTER XIX
 
 March to Nimara—Increased disputes between Seendhiya and Surjee Rao—Intrigues respecting Gwaliur—The Buhora urgent to quit camp—Plans proposed for Mewar—The Ukhara—Gymnastics— Puhlwans.
 
@@ -981,7 +990,7 @@ A sufficient space is marked out, generally in the smoothest ground, and, if pos
 
 ### Letter 21
 
-### LETTER XX
+#### LETTER XX
 
 Death of Surjee Rao—His character—Distress of the Baee—Friends  
 of the late Minister confined—Juwahir and Khueratun—Seend-  
@@ -1003,7 +1012,7 @@ It is difficult to conjecture who will immediately succeed Surjee Rao in the dir
 
 ### Letter 22
 
-### LETTER XXI
+#### LETTER XXI
 
 The Mourning of the Baee—Punishment of Juwahir—Khueratun—Disposal of Surjee Rao's property—Treatment of Bala Rao—Intrigues for office—Bapoo Seendhiya—Justice of the Durbar—Remonstrances with the Juodpoor Wukeels—Distresses of the army—Soobudarees—Bawanee Purshad—Kulamuts—Restoration of the old officers of government.
 
@@ -1031,7 +1040,7 @@ Many of the inferior servants of the government, who were displaced to make way 
 
 ### Letter 23
 
-### LETTER XXII
+#### LETTER XXII
 
 Seendhiya's designs upon the Wukeels of Dokul Sing,h—The Takoor of Kuliawas—The Muha Raj discontented with his new advisers—Superstition of the Mahrattas—Siege of Soopoor—Kafilus to Ajmeer and Pokur.
 
@@ -1047,7 +1056,7 @@ Several *Kafilus* of pilgrims, both Moosulmans and Hindoos, have lately gone fro
 
 ### Letter 24
 
-### LETTER XXIII
+#### LETTER XXIII
 
 March from Kuliawas—Naked Fuqeer—Battle of the Bunjaras—The Juree Putkee—Bapoo Seendhiya—Disputes with the Buhora—Alliance between Jypoor and Juodpoor—Discontent among the troops—Tent erected for the Junum-ushtoomee—The Rakia—Preparations for the Baee's confinement—Succession to the Raj—The Takoor of Roopahelee—Seendhiya transacts public business—Buffalo fights.
 
@@ -1081,7 +1090,7 @@ Nothing like the arrangement of a ministry has taken place, the Muha Raj continu
 
 ### Letter 25
 
-### LETTER XXIV
+#### LETTER XXIV
 
 The Junum-ushtoomee—Conduct adopted towards Bala Rao—Coolness between the favourites—Baptiste's battalions join the army without orders—Jooruor Sing,h—Seendhiya proposes to take a muster—Proceedings at Soopoor—Fresh preparations for the Baee's confinement.
 
@@ -1095,71 +1104,75 @@ FIG. 9.—THE JUNUM-USHTOOMEE.
 
 I have procured copies of some of the songs performed on this occasion, and, as you expressed yourself gratified by the former specimens of Hindoo poetry which I sent you, have added translations of two of them, which particularly pleased me. The first is supposed to be a dialogue between Kunya and one of the *Gopees*, who returned to him, after a former visit, sooner than he expected. The second contains a description of the effect caused in the bosoms of the Muttra maids, by the sound of the pipe of their darling shepherd, and a dialogue between them and Jasooda, in consequence of their interview with him in the groves of Mudbun,[^fn-p0230-1] a village in the neighbourhood of Muttra. The only figure, peculiarly oriental, which requires explanation, is, in the first poem, an allusion to the gathering clouds, which the Hindoos suppose to be peculiarly incitive of the tender passion; and the only personages introduced, with whom you are not already well acquainted, are Nund,h and Jasooda, in the second poem: the former the principal *Go,ala,* or cowherd, of Gokul, with whom Krishna passed his boyish years; the latter, his wife. Both poems are of the kind called *Kubits.*
 
-<span class="small-caps">Kunya</span>
+> **[verse_insert]**
+>
+> <span class="small-caps">Kunya</span>
+>
+> Again, my fair one!—hast thou purchased me?—
+>
+> <span class="small-caps">The Gopee</span>
+>
+> Think'st thou uncalled I boldly come?—Ah, see!—  
+> The gathering clouds, dear youth, invite to love.
+>
+> <span class="small-caps">Kunya</span>
+>
+> How could a frame so soft, such dangers prove?  
+> While e'en thy pretty self was lost in night,  
+> How see thy way?
+>
+> <span class="small-caps">The Gopee</span>
+>
+> The lightning gleam'd so bright!
+>
+> <span class="small-caps">Kunya</span>
+>
+> O'er broken roads, through mire, and tangling thorn,  
+> Thy tender limbs must ache, thy feet be torn?
+>
+> <span class="small-caps">The Gopee</span>
+>
+> Steps light and firm will weariest way o'ercome.
+>
+> <span class="small-caps">Kunya</span>
+>
+> Yet dark's the night; and thou wert all alone.
+>
+> <span class="small-caps">The Gopee</span>
+>
+> No, my soul's lord,!—for love was with me still;  
+> Pointed my path, and warded every ill!
 
-Again, my fair one!—hast thou purchased me?—
-
-<span class="small-caps">The Gopee</span>
-
-Think'st thou uncalled I boldly come?—Ah, see!—  
-The gathering clouds, dear youth, invite to love.
-
-<span class="small-caps">Kunya</span>
-
-How could a frame so soft, such dangers prove?  
-While e'en thy pretty self was lost in night,  
-How see thy way?
-
-<span class="small-caps">The Gopee</span>
-
-The lightning gleam'd so bright!
-
-<span class="small-caps">Kunya</span>
-
-O'er broken roads, through mire, and tangling thorn,  
-Thy tender limbs must ache, thy feet be torn?
-
-<span class="small-caps">The Gopee</span>
-
-Steps light and firm will weariest way o'ercome.
-
-<span class="small-caps">Kunya</span>
-
-Yet dark's the night; and thou wert all alone.
-
-<span class="small-caps">The Gopee</span>
-
-No, my soul's lord,!—for love was with me still;  
-Pointed my path, and warded every ill!
-
-### KUBIT
-
-The pipe is heard of *Nund,h's* sweet boy ;  
-The *Goalins'* hearts beat high with joy :  
-To the cool woods in crowds they speed ;  
-Nor danger fear, nor toil they heed.  
-And if by chance the youth they spy,  
-Away go prudence, modesty :  
-They gaze, by his bright beauties burned,  
-And soon,—their pails are overturned !
-
-Jasooda !—listen to our prayer ;  
-Thy son's audacious frolics hear !  
-To Bindrabun we bent our way ;—  
-He seized our arms, and bade us stay.  
-Lady ! our cheeks with shame were red ;  
-Like modest girls away we fled :  
-In vain we've milked, in vain we've churned  
-For he—our pails has overturned.
-
-Go, bold and forward *Goalins*, go !—  
-No one your wily ways can know.  
-Often in laughing groups you're seen,  
-Bending your steps to coverts green ;  
-There in the cool retreats you rove,  
-And pass the hours in mirth and love ;  
-Then tell me, from your pranks returned,  
-Forsooth—your pails are overturned !
+> **[verse_insert]**
+>
+> ###### KUBIT
+>
+> The pipe is heard of *Nund,h's* sweet boy ;  
+> The *Goalins'* hearts beat high with joy :  
+> To the cool woods in crowds they speed ;  
+> Nor danger fear, nor toil they heed.  
+> And if by chance the youth they spy,  
+> Away go prudence, modesty :  
+> They gaze, by his bright beauties burned,  
+> And soon,—their pails are overturned !
+>
+> Jasooda !—listen to our prayer ;  
+> Thy son's audacious frolics hear !  
+> To Bindrabun we bent our way ;—  
+> He seized our arms, and bade us stay.  
+> Lady ! our cheeks with shame were red ;  
+> Like modest girls away we fled :  
+> In vain we've milked, in vain we've churned  
+> For he—our pails has overturned.
+>
+> Go, bold and forward *Goalins*, go !—  
+> No one your wily ways can know.  
+> Often in laughing groups you're seen,  
+> Bending your steps to coverts green ;  
+> There in the cool retreats you rove,  
+> And pass the hours in mirth and love ;  
+> Then tell me, from your pranks returned,  
+> Forsooth—your pails are overturned !
 
 Both the dancing and singing of the *Rahus-d,harees* was far superior to that of common performers ; their attitudes were exceedingly graceful, and their voices were never raised beyond the natural pitch. The dresses were appropriate and elegant, especially that of Kunya, who wore a brilliant sun upon his head, and a quantity of superb jewels about his neck and breast ; all of which, as well as the dresses of the other boys, were furnished from the wardrobe of the Muha Raj. After the dances were over, they exhibited in groups representations of the most celebrated statues of Krishna and his relatives, with an accuracy and steadiness quite surprising in such children. The instrumental performers who accompany the *Rahus-d,harees* are, as well as the boys themselves, all Brahmuns ; and it was pleasing to see them, after the performance, instead of making the usual obeisance, lifting up their little hands, as invoking a blessing upon the Muha Raj, who rose, and bowed to each as he retired. We quitted the tent soon after, highly gratified by the entertainment of the evening.
 
@@ -1183,7 +1196,7 @@ A temporary wooden house has been substituted for the tent prepared for the Baee
 
 ### Letter 26
 
-### LETTER XXV
+#### LETTER XXV
 
 Increasing perplexities of the Muha Raj—Kundoojee—Violent conduct of the Sipahees of the regular battalions—First instalment of the Jypoor contribution paid—The young Pretender Man Sing,h—Usurped power in different states of Hindoostan—Raja of Jypoor—Pindara delegates—Attempts upon Holkar and his family—Bawanee Purshad demanded by the Nuwab—The Shub-i-burat—The Puttur Chuot,h—The Pitr-puch.
 
@@ -1209,7 +1222,7 @@ The weather, which, till within these few days, has been pleasanter than I ever 
 
 ### Letter 27
 
-### LETTER XXVI
+#### LETTER XXVI
 
 Confinement of the Baee—Doubts respecting the sex of the child—  
 Influence of evil eyes—Women pour out water at the Deooree—  
@@ -1234,7 +1247,7 @@ The nights and mornings are become cool and pleasant, and the labours of the fie
 
 ### Letter 28
 
-### LETTER XXVII
+#### LETTER XXVII
 
 Violent disturbances in the battalions—European officers turned out of camp—Character of the Sipahees—Difference of the two brigades —Seendhiya visits Nimalkur—Naming of the Muha Raj's child— Ceremonies upon the occasion—The Buhora moves out of camp— Muster of the cavalry taken—Offers of aid to the Muha Raj— Shikarees—Productions of Mewar—The Ramzan—Eras observed by the Mahrattas— Khueratun.
 
@@ -1264,7 +1277,7 @@ We celebrated the glorious 21st of October,[^fn-p0262-4] as usual, with a *Nach,
 
 ### Letter 29
 
-### LETTER XXVIII
+#### LETTER XXVIII
 
 The Muha Raj's birth-day—The Buhora marches from camp—The Teeka—The Baee completes her purification—Anajee writes to Seendhiya—Disturbances near Oojyn—Troops go over to Holkar—Defeat of the expedition against Rutlam—Baptiste's intrigues at the Durbar—Grand D,hurna—Mode of torturing among the Mahrattas—The Mamma's distress—Ajmeer given to Bapoo Seendhiya's brother—The Diwalee.
 
@@ -1294,7 +1307,7 @@ We have been celebrating the *Diwalee*, a Hindoo festival in honour of *Luchmee*
 
 ### Letter 30
 
-### LETTER XXIX
+#### LETTER XXIX
 
 Anajee's agent arrives in camp—The affair of the Teeka settled— Visit of condolence to Bala Baee—Character of the Mewar peasantry—Seendhiya's distress for money—Intrigues with Bala Rao—Jugoo Bapoo quits camp—Takoor of Juodpoor—Marriage of Narain and Toolsee.
 
@@ -1318,7 +1331,7 @@ A general salute was fired three days ago by all the artillery and regular infan
 
 ### Letter 31
 
-### LETTER XXX
+#### LETTER XXX
 
 March from Roopahelee—Opposition by the troops—Bala Qadir—Moohumedan Fuqeers—Designs upon the Raja of Shahpoora—Flocks of wild-fowl—Bapoo Seendhiya's domestic afflictions—Ceremonies of the Kiria Kurum—The Muha Raj's attentions to Anajee—Bala Chobdar—Battle between Meer Khan and the B,honslah—Pleasant weather.
 
@@ -1344,7 +1357,7 @@ We expect Mr. M——[^fn-p0281-2] soon in camp, to reassume the duties of Resid
 
 ### Letter 32
 
-### LETTER XXXI
+#### LETTER XXXI
 
 Negotiations with the Shahpoora Wukeels not concluded—Bala Rao escapes from camp—The Mamma's vexation, and message to Seendhiya—Disturbances in the first brigade—The Nuwab Moorteza Khan—Daring attack upon Puriag Das—Wretched state of the peasants—Their imprecations on the Mahrattas—Mr. M——'s arrival in camp—Ceremonies of conducting him into camp—Visit to the Durbar—Discussions respecting Khiluts—Seendhiya returns the Resident's visit—Superb barouche presented to him—His suspicions on the subject—The Ziyafut—Conclusion.
 
@@ -1374,7 +1387,7 @@ But enough of Seendhiya and Mahrattas. Let me close my descriptions of them with
 
 ### Letter 33
 
-### LETTER XXXII
+#### LETTER XXXII
 
 March to Ajmeer—Description of the fort and city—Tomb of Moouen-oo-deen Chishtee—Ceremonies observed at the tomb—Visit to Pokur—Description of the different temples—The town, and manners of its inhabitants—Alarm of the Muha Raj ; and preparations for quitting Ajmeer.
 
@@ -1705,7 +1718,7 @@ Raja Desmookh, funeral ceremonies of, 241; presents for "shade" of the deceased,
 
 **er,** ARCHIBALD
 
-### Map showing <span class="small-caps">the Line of March</span> from **AGRA <span class="small-caps">to</span> AJMEER**
+### Map showing<br /><span class="small-caps">the Line of March</span><br />from<br />**AGRA <span class="small-caps">to</span> AJMEER**
 
 <span class="small-caps">Scale.</span> 1 <span class="small-caps">Inch</span> = 32 <span class="small-caps">Miles.</span>
 
@@ -1720,16 +1733,16 @@ Westminster, <span class="small-caps">Archibald Constable & Co.</span>
 
 *Stanford's Geogl Estabt*
 
-### ARCHIBALD CONSTABLE AND COMPANY'S PUBLICATIONS
+### ARCHIBALD CONSTABLE AND COMPANY'S<br />PUBLICATIONS
 
 > <span class="small-caps">Constable's Oriental Miscellany</span>, a series that . . . . has  
 > the strongest claim on popularity.—*Notes and Queries*
 
 * * *
 
-### *Already published*
+##### *Already published*
 
-### Vol. I.
+###### Vol. I.
 
 <span class="small-caps">Bernier's Travels in the Mogul Empire.</span> An entirely new edition, with illustrations, and reproductions of maps from early editions. By <span class="small-caps">Archibald Constable</span>, Mem. As. Soc.Bengal, F.S.A.Scot. Cr. 8vo, pp. liv + 500. Price 6s. nett.
 
@@ -1753,7 +1766,7 @@ The book is of almost indispensable necessity to the reader of history, being ac
 
 The volume has been admirably edited and illustrated. The numerous allusions in the text to individuals, places, productions of art and industry, &c., are well explained in brief but sufficient notes, which contain the results of careful research in contemporary historians, and of an intimate personal acquaintance with Indian life and industry at the present day.—*The Scottish Geographical Magazine.*
 
-### Vol. II.
+#### Vol. II.
 
 <span class="small-caps">Popular Readings in Science.</span> By <span class="small-caps">John Gall</span>, M.A., LL.B., late Professor of Mathematics and Physics, Canning College, Lucknow, and <span class="small-caps">David Robertson</span>, M.A., LL.B., B.Sc. With many Diagrams, a Glossary of Technical Terms, and an Index. Cr. 8vo, pp. 468. Price 5s. nett.
 
@@ -1773,7 +1786,7 @@ This is a popular treatise covering a very wide range of subjects. . . . . A wel
 
 The authors write about what they know, and they write with clearness and precision, and on the topics which they discuss they have spoken with that accuracy which comes from full knowledge. . . . . The value of the book is enhanced by a glossary of technical terms, which will be of the utmost possible use to the beginner, and also of use to those who are somewhat advanced in their studies.—*The Aberdeen Daily Free Press.*
 
-### Vol. III.
+##### Vol. III.
 
 <span class="small-caps">Aureng-Zebe</span>, a Tragedy, by <span class="small-caps">John Dryden</span>, and Book ii. of <span class="small-caps">The Chace</span>, a Poem, by <span class="small-caps">William Somervile</span>. Edited, with Biographical Memoirs and Notes, by <span class="small-caps">Kenneth Deighton</span>, Editor of Select Plays of Shakespeare. With a Portrait of Dryden, and a coloured reproduction of an Indian painting representing the Emperor Akbar deer-stalking. Cr. 8vo, pp. xiii + 222. Price 5s. nett.
 
@@ -1783,7 +1796,7 @@ This volume, like its predecessors, is admirably got up, and is enriched by a fi
 
 Mr. Kenneth Deighton supplies a short biography of Dryden, and a just estimate of his dramatic power, taking due notice of the improvement in the later tone of a poet who was largely made by his surroundings, and had to write to please. . . . . Ample notes, suited to the capacity of the Indian student, are incorporated in the volume.—*The Glasgow Herald.*
 
-### *Forthcoming volumes, in active preparation*
+##### *Forthcoming volumes, in active preparation*
 
 <span class="small-caps">Life in Ancient India.</span> By Mrs. <span class="small-caps">Speir.</span> A new edition, revised and edited by Dr. <span class="small-caps">Rost</span>, C.I.E., Librarian, India Office.
 
@@ -1791,7 +1804,7 @@ Mr. Kenneth Deighton supplies a short biography of Dryden, and a just estimate o
 
 * * *
 
-### *Other publications*
+##### *Other publications*
 
 <span class="small-caps">Studies in Mohammedanism</span>, Historical and Doctrinal, with a chapter on Islam in England. By <span class="small-caps">John J. Pool.</span> With a Frontispiece and Index, pp. xvi + 420. Cr. 8vo, full cloth. Price 6s.
 
@@ -1817,7 +1830,7 @@ A valuable monograph on the history of the Mughal Emperors as illustrated by the
 
 A work of this character could hardly have been issued under better auspices. The collection of Moghul coins contained in the British Museum is the richest and most complete in the world ; and few, if any, are better qualified, whether as orientalists or numismatists, than Mr. Stanley Lane-Poole to extract from it every ray of light whereby the history of the period may be elucidated and controlled. . . . Not least should the history of this great dynasty [Moghul] interest us Englishmen, to whom has passed the wide empire over which it once held sovereign sway ; and Messrs. Constable may well be congratulated on having within so short a time increased our knowledge of it by two books so excellent as this one before us and the *Bernier* of last year.—*The National Observer.*
 
-### *Under preparation*
+##### *Under preparation*
 
 <span class="small-caps">Ancient India</span>, its Invasion by Alexander the Great, as described by Arrian, Q. Curtius, Diodôros, Plutarch, and Justin : Being Translations of such portions of the works of these and other classical authors as describe Alexander's Campaigns in Afghanistan, the Panjáb, Sindh, Gedrosia, and Karmania. With an Introduction, containing a Life of Alexander, copious Notes, Illustrations, Maps, and an Index. By J. W. <span class="small-caps">McCrindle</span>, M.A., M.R.A.S., F.R.S.G.S.—*In the Press.*
 

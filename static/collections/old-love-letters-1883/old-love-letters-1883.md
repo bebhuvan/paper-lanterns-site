@@ -9,11 +9,11 @@
 
 ### <span class="small-caps">Old Love-Letters</span>
 
-### <span class="small-caps">or</span>
+#### <span class="small-caps">or</span>
 
-### Letters of Sentiment
+#### Letters of Sentiment
 
-### <span class="small-caps">written by persons eminent in english literature and history</span>
+##### <span class="small-caps">written by persons eminent in english literature<br />and history</span>
 
 *<span class="small-caps">collected and edited by</span>*
 
@@ -69,7 +69,7 @@ No one will fancy that this little book claims to contain all the famous love-le
 
 * * *
 
-### NOTE.
+#### NOTE.
 
 <span class="small-caps">This</span> little volume bears exactly the same name as a charming comedy by the dramatic author, Mr. <span class="small-caps">Bronson Howard</span>; and I take this opportunity of apologizing to him for what might otherwise seem like an unwarrantable appropriation of a title, and of urging in excuse that this book could not easily have been called anything else than *Old Love-Letters.*
 
@@ -77,9 +77,9 @@ No one will fancy that this little book claims to contain all the famous love-le
 
 * * *
 
-### PART I.
+#### PART I.
 
-### LETTERS OF POETS AND MEN OF LETTERS.
+##### LETTERS OF POETS AND MEN OF LETTERS.
 
 <span class="small-caps">Page</span>
 
@@ -275,7 +275,7 @@ William Hazlitt to Sarah L. . . . . . . . . . 173
 
 ### PART II.
 
-### LETTERS OF ROYAL PERSONAGES.
+#### LETTERS OF ROYAL PERSONAGES.
 
 Letters of Henry VIII. to Anne Boleyn . . . . . 179
 
@@ -325,7 +325,7 @@ Prince Albert to Queen Victoria . . . . . . . . 219
 
 ### PART III.
 
-### LETTERS OF STATESMEN, MILITARY MEN, AND MEN OF AFFAIRS.
+#### LETTERS OF STATESMEN, MILITARY MEN, AND<br />MEN OF AFFAIRS.
 
 <span class="small-caps">Page</span>
 
@@ -426,13 +426,13 @@ The Same to the Same . . . . . . . . . . . . 320
 
 ### PART I.
 
-### LETTERS OF POETS AND MEN OF LETTERS.
+#### LETTERS OF POETS AND MEN OF LETTERS.
 
 * * *
 
 ### Letter 1: Thomas Otway → Mrs. Barry
 
-### *Thomas Otway to Mrs. Barry.*
+#### *Thomas Otway to Mrs. Barry.*
 
 <span class="small-caps">The</span> following letters were written by <span class="small-caps">Thomas Otway</span>, the poet, to Mrs. Barry, one of the most popular of English actresses in the last quarter of the seventeenth century. Her personation of *Monimia* in *The Orphan*, by Otway, and of *Belvidera* in his play of *Venice Preserved*, raised her to the very highest rank in her profession. “In the gentle passions of Monimia and Belvidera,” says one of her biographers, “she has never been excelled. In scenes of anger, despair, and resentment she was impetuous and terrible, and yet uttered the lines of sentiment with a most enchanting harmony.”
 
@@ -457,7 +457,7 @@ Unfortunate
 
 ### Letter 2: Thomas Otway → Mrs. Barry
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Could</span> I see you without passion, or be absent from you without pain, I need not beg your pardon for thus renewing my vows, that I love you more than health, or any happiness here or hereafter. Everything you do is a new charm to me ; and though I have languished for seven long years, jealously despairing, yet every minute I see you I still discover something more bewitching.
 
@@ -469,7 +469,7 @@ Consider how I love you. What would I not renounce or undertake for you ? I must
 
 ### Letter 3: Earl of Rochester → Mrs. Barry
 
-### *Earl of Rochester to Mrs. Barry.*
+#### *Earl of Rochester to Mrs. Barry.*
 
 One of Mrs. Barry's lovers, more fortunate than Otway, was the profligate <span class="small-caps">Earl of Rochester</span>; and the following are two brief notes which he wrote to the actress. It would seem that his brevity was more potent with her than Otway's eloquence; but it must be remembered that Rochester was an earl, and Otway only a poor poet.
 
@@ -491,7 +491,7 @@ P. S. This is all my hand would write, but my heart thinks a great deal more.
 
 ### Letter 5: George Farquhar → Robert Wilks
 
-### *George Farquhar to Mrs. Oldfield.*
+#### *George Farquhar to Mrs. Oldfield.*
 
 <span class="small-caps">George Farquhar</span> was one of the most brilliant writers of comedy during the first decade of the eighteenth century; and Mrs. Oldfield, who played the leading parts in some of his plays, was one of the most charming actresses of that time. When a girl of sixteen or eighteen, she lived with an aunt who kept the Mitre Tavern in St. James's Market, which was the resort of authors, actors, and men of artistic professions. Farquhar, dining there one day, overheard a fresh, musical voice reading aloud with great zest and vivacity a scene from Beaumont and Fletcher's *Scornful Lady.* The reading seasoned his repast, and after it he sought out the reader, and found her young, handsome, and clever. Through his influence, Anne Oldfield became an actress, and was for years one of the queens of the stage.
 
@@ -537,7 +537,7 @@ The headless and heartless
 
 ### Letter 7: George Farquhar → Mrs. Oldfield
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Monday</span>, 12 o'clock at night.
 
@@ -551,7 +551,7 @@ Your faithful and humble servant,
 
 ### Letter 8: George Farquhar → Mrs. Oldfield
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Why</span> should I write to my dearest Penelope when I only trouble her with reading what she won't believe? I have told my passion, my eyes have spoke it, my tongue pronounced it, and my pen declared it; I have sighed it, swore it, and subscribed it. Now my heart is full of you, my head raves of you, and my hand writes to you; but all in vain.
 
@@ -567,7 +567,7 @@ P. S. Pray let me know in a line whether you are better or worse, whether I am h
 
 ### Letter 9: George Farquhar → Mrs. Oldfield
 
-### *Farquhar's Last Letter to Penelope (Mrs. Oldfield ?).*
+#### *Farquhar's Last Letter to Penelope (Mrs. Oldfield ?).*
 
 <span class="small-caps">Madam</span>, —
 
@@ -587,7 +587,7 @@ He seems to have been desirous that she should separate herself from her family,
 
 ### Letter 10: Alexander Pope → Martha Blount
 
-### *Pope to Martha Blount.*
+#### *Pope to Martha Blount.*
 
 <span class="small-caps">May</span> 25, 1712.
 
@@ -601,7 +601,7 @@ Your most obedient, etc.
 
 ### Letter 11: Alexander Pope → Teresa Blount
 
-### *Pope to Teresa Blount.*
+#### *Pope to Teresa Blount.*
 
 <span class="small-caps">Bath</span>, 1714.
 
@@ -617,7 +617,7 @@ Your, &c.
 
 ### Letter 12: Alexander Pope → Martha Blount
 
-### *Pope to Martha Blount.*
+#### *Pope to Martha Blount.*
 
 1714.
 
@@ -628,7 +628,7 @@ servant, anything, &c.
 
 ### Letter 13: Alexander Pope → Martha Blount
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Cirencester</span>, no date.
 
@@ -644,7 +644,7 @@ You cannot conceive how much you would find resolution rise and cheerfulness gro
 
 ### Letter 14: Alexander Pope → Lady Mary Wortley Montagu
 
-### *Pope to Lady Mary Wortley Montagu.*
+#### *Pope to Lady Mary Wortley Montagu.*
 
 Lady <span class="small-caps">Montagu</span> is one of the most prominent female figures in her time, which extends over the first half of the eighteenth century. We get our first glimpse of her at eight years of age, set up on the dining-table of the Kit-Kat Club to be toasted as a reigning beauty; and from that time, till her death, she occupies a large space in the age which alternately admired and traduced her.
 
@@ -670,9 +670,9 @@ I am always yours.
 
 This brief note was written to Lady Mary Wortley Montagu after her return from Constantinople, and was one of the last which passed between them.
 
-### Letter 15
+### Letter 15: Pope → Lady Mary Wortley Montagu
 
-### *Pope to Lady Mary Wortley Montagu.*
+#### *Pope to Lady Mary Wortley Montagu.*
 
 I <span class="small-caps">might</span> be dead, or you in Yorkshire, for anything that I am the better for your being in town. I have been sick ever since I saw you last, and have now a swelled face, and very bad. Nothing will do me so much good as the sight of dear Lady Mary. When you come this way, let me see you, for indeed I love you.
 
@@ -680,7 +680,7 @@ I <span class="small-caps">might</span> be dead, or you in Yorkshire, for anythi
 
 ### Letter 16: Lady Mary Pierrepont → Edward Wortley Montagu
 
-### *Lady Mary Pierrepont to Edward Wortley Montagu.*
+#### *Lady Mary Pierrepont to Edward Wortley Montagu.*
 
 The lively Lady <span class="small-caps">Mary Wortley Montagu</span>, *née* Pierrepont, who had been the object of Pope’s passion, was hardly twenty when she met Edward Wortley Montagu. They were married after a rather stormy courtship of two years. Her lover seems to have been rather uncertain in his wooing, and the course of their love was troubled from the outset. “When I foolishly fancied,” she writes him, “that you loved me, there is no condition of life I could not have been happy in with you. But I will *never* see you more. If you write, be not displeased if I send it back unopened.” And in the very next post she acknowledges a letter from him in such terms as the following.
 
@@ -700,7 +700,7 @@ As might have been fancied from this stormy courtship, in which there does not s
 
 ### Letter 17: Lady Mary Pierrepont → Edward Wortley Montagu
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Friday Night</span>, August, 1712.
 
@@ -712,7 +712,7 @@ M. P.
 
 ### Letter 18: William Congreve → Mrs. Arabella Hunt
 
-### *William Congreve to Mrs. Arabella Hunt.*
+#### *William Congreve to Mrs. Arabella Hunt.*
 
 <span class="small-caps">William Congreve</span>, whose tragedy of the “Mourning Bride” Dr. Johnson thought contained some lines unequalled in English poetry, was contemporary with Farquhar as a dramatist, and was a friend of Pope, Lady Mary Montagu, Swift, and the other celebrated writers of this period.
 
@@ -764,7 +764,7 @@ This is the story of Stella and Vanessa which has become almost as famous as the
 
 ### Letter 19: Jonathan Swift → Stella
 
-### *Dean Swift to Stella.*
+#### *Dean Swift to Stella.*
 
 <span class="small-caps">London</span>, Sept. 10, 1710.
 
@@ -780,7 +780,7 @@ Cannot you do what you will with your own horse? Pray do not let that puppy Parv
 
 ### Letter 20: Jonathan Swift → Stella
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">London</span>, October, 1710.
 
@@ -798,7 +798,7 @@ Now to Stella's little postscript, and I am almost crazed that you vex yourself 
 
 ### Letter 21: Hester Vanhomrigh → Jonathan Swift
 
-### *Hester Vanhomrigh to Dean Swift.*
+#### *Hester Vanhomrigh to Dean Swift.*
 
 <span class="small-caps">Dublin</span>, 1714.
 
@@ -808,7 +808,7 @@ Now to Stella's little postscript, and I am almost crazed that you vex yourself 
 
 ### Letter 22: Hester Vanhomrigh → Jonathan Swift
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 No date.
 
@@ -816,13 +816,13 @@ Is it possible that you will do the very same thing I warned you of so lately? I
 
 ### Letter 23: Jonathan Swift → Hester Vanhomrigh
 
-### *Dean Swift's Answer to the Above.*
+#### *Dean Swift's Answer to the Above.*
 
 <span class="small-caps">If</span> you write as you do, I shall come the seldomer on purpose to be pleased with your letters, which I never look into without wondering how a brat who cannot read can possibly write so well. You are mistaken. Send me a letter without your hand on the outside and I hold you a crown I shall not read it. But, raillery apart, I think it inconvenient, for a hundred reasons, that I should make your house a sort of constant dwelling-place. I will certainly come as often as I conveniently can; but health and the perpetual run of ill-weather hinders me from going out in the morning, and my afternoons are so taken up, I know now how, that I am in rebellion with a dozen people beside yourself for not seeing them. For the rest you need make use of no black art besides your wits. 'T is a pity your eyes are not black, or I should have said the same of them; but you are a white witch and can do no mischief. If you have employed any of your arts on the black scarf I defy it for one reason. Guess. Adieu, for Dr. P—— 's come in to see me.
 
 ### Letter 24: Hester Vanhomrigh → Jonathan Swift
 
-### *Hester Vanhomrigh to Dean Swift.*
+#### *Hester Vanhomrigh to Dean Swift.*
 
 <span class="small-caps">Marley Abbey, Cellbridge</span>, 1720.
 
@@ -834,7 +834,7 @@ Put my passion under the utmost restraint, send me as distant from you as the ea
 
 ### Letter 25: Jonathan Swift → Hester Vanhomrigh
 
-### *Dean Swift to Hester Vanhomrigh.*
+#### *Dean Swift to Hester Vanhomrigh.*
 
 <span class="small-caps">Gallstown</span>, near <span class="small-caps">Kninegad</span>, July 5, 1721.
 
@@ -866,7 +866,7 @@ The first of the following letters is that with which Lord Peterborough opened t
 
 ### Letter 26: Lord Peterborough → Henrietta Howard
 
-### *Lord Peterborough to Henrietta Howard.*
+#### *Lord Peterborough to Henrietta Howard.*
 
 As I can as well live without meat or sleep as without thinking of her who has possession of my soul, so, to find some relief in never having any conversation with this adored lady, I have been forced, when alone, to make many a dialogue between her and myself; but, alas! Madam, the conclusions are all in her favour, and I am often more cruelly condemned by myself,—nay, more, her indifference and almost all her rigour are approved.
 
@@ -888,7 +888,7 @@ It was long before I could recover from the terror and amaze into which I had th
 
 ### Letter 27: Lord Peterborough → Henrietta Howard
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Love</span> is the general word, but upon many occasions very improperly used; for passions very different, if not quite opposite, go under the same title.
 
@@ -908,7 +908,7 @@ This is no unlively picture of a woman who can please, but far from that person 
 
 ### Letter 28: Henrietta Howard → Lord Peterborough
 
-### *Mrs. Howard's Reply to the Foregoing.*
+#### *Mrs. Howard's Reply to the Foregoing.*
 
 <span class="small-caps">One</span> would imagine, by observing upon the world, that every man thought it necessary to be in love—just as he does to talk—to show his superiority to a brute; but such pretenders have only convinced us that they want that quality they would be thought to have.
 
@@ -944,7 +944,7 @@ Mrs. Steele’s correspondence has not been preserved. I find only these few lin
 
 ### Letter 30: Mrs. Steele → Dick Steele
 
-### *Mrs. Steele to her Husband.*
+#### *Mrs. Steele to her Husband.*
 
 <span class="small-caps">Ah</span>, Dick Steele, that I were sure  
 Your love, like mine, would still endure;  
@@ -962,7 +962,7 @@ In his dear arms may I forever rest.
 
 ### Letter 31: Richard Steele → Mary Scurlock
 
-### *Steele to Mary Scurlock.*
+#### *Steele to Mary Scurlock.*
 
 <span class="small-caps">Lord Sunderland's Office</span>, 1707.
 
@@ -976,14 +976,16 @@ Your most obedient, most devoted humble servant,
 
 ### Letter 32: Richard Steele → Mary Scurlock
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Madam</span>, —It is the hardest thing in the world to be in love, and yet attend to business. As for me, all who speak to me find it out, and I must lock myself up, or other people will do it for me.
 
 A gentleman asked me this morning, “What news from Lisbon?” and I answered, “She is exquisitely handsome.” Another desired to know when I had been last at Hampton Court. I replied, “It will be on Tuesday come se’nnight.” Pr’ythee, allow me at least to kiss your hand before that day, that my mind may be in some composure. O love!
 
-A thousand torments dwell about thee,  
-Yet who would live to live without thee?
+> **[verse_insert]**
+>
+> A thousand torments dwell about thee,  
+> Yet who would live to live without thee?
 
 Methinks I could write a volume to you; but all the language on earth would fail in saying how much, and with what disinterested passion,
 
@@ -995,7 +997,7 @@ I am ever yours,
 
 ### Letter 33: Richard Steele → Mrs. Steele
 
-### *Steele to his Wife.*
+#### *Steele to his Wife.*
 
 <span class="small-caps">Sept.</span> 13, 1708.
 
@@ -1009,7 +1011,7 @@ Your enamoured husband,
 
 ### Letter 34: Richard Steele → Mrs. Steele
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Sept.</span> 21, 1708.
 
@@ -1021,7 +1023,7 @@ Ever yours,
 
 ### Letter 35: Richard Steele → Mrs. Steele
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Sept.</span> 30, 1710.
 
@@ -1037,7 +1039,7 @@ From the press, one in the morning.
 
 ### Letter 36: Richard Steele → Mrs. Steele
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 1714.
 
@@ -1076,7 +1078,7 @@ Sterne's expression of feeling in his *Sentimental Journey,* in his sermons, eve
 
 ### Letter 37: Laurence Sterne → Elizabeth Lumley
 
-### *Laurence Sterne to Elizabeth Lumley* [*afterwards his Wife*].
+#### *Laurence Sterne to Elizabeth Lumley* [*afterwards his Wife*].
 
 No date
 
@@ -1090,7 +1092,7 @@ L. <span class="small-caps">Sterne.</span>
 
 ### Letter 38: Laurence Sterne → Kitty Tourmantelle
 
-### *Laurence Sterne to Kitty Tourmantelle.*
+#### *Laurence Sterne to Kitty Tourmantelle.*
 
 1759 (?).
 
@@ -1102,7 +1104,7 @@ L. S.
 
 ### Letter 39: Laurence Sterne → Eliza Draper
 
-### *Sterne to Eliza Draper.*
+#### *Sterne to Eliza Draper.*
 
 These letters have no dates, but were written in March and April, 1767.
 
@@ -1116,7 +1118,7 @@ I <span class="small-caps">cannot</span> rest, Eliza, though I shall call on you
 
 ### Letter 40: Laurence Sterne → Eliza Draper
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 I <span class="small-caps">got</span> thy letter last night, Eliza, on my return from Lord Bathurst's, where I was heard (as I talked of thee an hour without intermission) with so much pleasure and attention that the good old Lord toasted your health three different times ; and now he is in his eighty-fifth year, says he hopes to live long enough to be introduced as a friend to my fair Indian disciple, and to see her eclipse all other Nabobesses as much in wealth as she does already in exterior and (what is far better) in interior merit. I hope so too. This nobleman is an old friend of mine. You know he was always the protector of men of wit and genius ; and he has had those of the last century, Addison, Steele, Pope, Swift, Prior, etc., etc., always at his table. The manner in which his notice began of me, was as singular as it was polite. He came up to me one day, as I was at the Princess of Wales's Court. “ I want to know you, Mr. Sterne ; but it is fit you should know, also, who it is that wishes this pleasure. You have heard ” (continued he) “ of an old Lord Bathurst, of whom your Popes and Swifts have sung and spoken so much. I have lived my life with geniuses of that cast, but have survived them ; and, despairing ever to find their equals, it is some years since I have closed my accounts and shut up my books, with thoughts of never opening them again ; but you have kindled a desire in me of opening them once more before I die ; which I now do : so go home and dine with me ! ” This nobleman, I say, is a prodigy ; for at eighty-five he has all the wit and promptness of a man of thirty; a disposition to be pleased, and a power to please others beyond whatever I knew; added to which, a man of learning, courtesy, and feeling.
 
@@ -1136,7 +1138,7 @@ I am glad Miss Light goes with you. She may relieve you from many anxious moment
 
 ### Letter 41: Laurence Sterne → Eliza Draper
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">My dear Eliza</span>, —
 
@@ -1176,7 +1178,7 @@ I am, &c.,
 
 ### Letter 43: Samuel Johnson → Mrs. Thrale
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 Written by Johnson to Mrs. Thrale after her friendship for him had begun to decline.
 
@@ -1184,7 +1186,7 @@ Written by Johnson to Mrs. Thrale after her friendship for him had begun to decl
 
 ### Letter 44: Samuel Johnson → Mrs. Thrale
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 After Mrs. Thrale's marriage to Mr. Piozzi was announced, Johnson wrote her the following, — his last letter to her.
 
@@ -1226,7 +1228,7 @@ But if the brilliant old peer ever desired such a marriage his letters rather di
 
 ### Letter 45: Horace Walpole → Misses Berry
 
-### *Walpole to the Misses Berry.*
+#### *Walpole to the Misses Berry.*
 
 <span class="small-caps">Feb.</span> 2, 1789.
 
@@ -1240,7 +1242,7 @@ H. <span class="small-caps">Walpole.</span>
 
 ### Letter 46: Horace Walpole → Misses Berry
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 Not long after their first acquaintance the Misses Berry went to the Continent for a visit, and it was during this absence that most of Walpole's letters to them were written.
 
@@ -1287,7 +1289,7 @@ From that time the friendship continued uninterrupted till Walpole's death in 17
 
 ### Letter 49: Horace Walpole → two Misses Berry
 
-### *To the two Misses Berry in Yorkshire.*
+#### *To the two Misses Berry in Yorkshire.*
 
 <span class="small-caps">Tuesday Night</span>, 8 o'clock, Sept. 17, 1793.
 
@@ -1301,7 +1303,7 @@ I must repeat it, keep in mind that both of you are delicate, and not strong. If
 
 ### Letter 50: Robert Burns → Ellison Begbie
 
-### *Robert Burns to Ellison Begbie.*
+#### *Robert Burns to Ellison Begbie.*
 
 The affections of <span class="small-caps">Burns</span> — always inclined to rove — were first seriously fixed on Ellison Begbie, a pretty servant-lass in Lochlie, to whom he wrote the following offer of marriage. Not this letter, however, nor the beautiful verses of *Mary Morrison,* which he addressed to her, had any effect on her heart, and her refusal plunged him for a time into a deep melancholy. Years after he spoke of her as the one among all his early loves who would have made him the most suitable wife.
 
@@ -1317,8 +1319,10 @@ It is natural for a young fellow to like the acquaintance of the females, and cu
 
 If you will be so good as to grant my wishes, and it should please Providence to spare us to the latest periods of life, I can look forward and see that even then, though bent down with wrinkled age, — even then, when all other worldly circumstances will be indifferent to me, I will regard my E. with the tenderest affection,—and for this plain reason, because she is still possessed of those noble qualities, improved to a much higher degree, which first inspired my affection for her.
 
-“O happy state, when souls each other draw,  
-Where love is liberty, and nature law.”
+> **[verse_insert]**
+>
+> “O happy state, when souls each other draw,  
+> Where love is liberty, and nature law.”
 
 I know, were I to speak in such a style to many a girl who thinks herself possessed of no small share of sense, she would think it ridiculous; but the language of the heart is, my dear E., the only courtship I shall ever use to you.
 
@@ -1332,7 +1336,7 @@ Burns’s correspondence with Mrs. McLehose, under the title of “Letters of Sy
 
 ### Letter 51: Robert Burns → Clarinda
 
-### *Sylvander to Clarinda.*
+#### *Sylvander to Clarinda.*
 
 <span class="small-caps">Monday Evening</span>, 11 o’clock, Jan. 14, 1788.
 
@@ -1340,42 +1344,50 @@ Burns’s correspondence with Mrs. McLehose, under the title of “Letters of Sy
 
 Did I ever repeat to you an epigram I made on a Mr. Elphinston, who has given a translation of *Martial*, a famous Latin poet? The poetry of Elphinston can only equal his prose notes. I was sitting in a merchant’s shop of my acquaintance, waiting somebody; he put *Elphinston* into my hand, and asked my opinion of it; I begged leave to write it on a blank leaf, which I did, as you shall see on a new page: —
 
-### *To Mr. Elphinston.*
-
-O thou whom poesy abhors!  
-Whom poesy has turnèd out of doors!  
-Heard'st thou yon groan? Proceed no further!  
-'T was laurell'd Martial calling murther!
+> **[verse_insert]**
+>
+> ##### *To Mr. Elphinston.*
+>
+> O thou whom poesy abhors!  
+> Whom poesy has turnèd out of doors!  
+> Heard'st thou yon groan? Proceed no further!  
+> 'T was laurell'd Martial calling murther!
 
 I am determined to see you, if at all possible, on Saturday evening. Next week I must sing: —
 
-“The night is my departing night,  
-    The morn's the day I must awa':  
-There's neither friend nor foe o' mine  
-    But wishes that I were awa'!  
-What I hae done for lack o' wit  
-    I never, never can reca';  
-I hope ye're a' my friends as yet.  
-    Gude night, and joy be wi' you a'!”
+> **[verse_insert]**
+>
+> “The night is my departing night,  
+>     The morn's the day I must awa':  
+> There's neither friend nor foe o' mine  
+>     But wishes that I were awa'!  
+> What I hae done for lack o' wit  
+>     I never, never can reca';  
+> I hope ye're a' my friends as yet.  
+>     Gude night, and joy be wi' you a'!”
 
 If I could see you sooner, I would be so much the happier; but I would not purchase the *dearest gratification* on earth, if it must be at your expense in worldly censure; far less, inward peace!
 
 I shall certainly be ashamed of thus scrawling whole sheets of incoherence. The only *unity* (a sad word with poets and critics!) in my ideas is Clarinda. There my heart “reigns and revels.”
 
-“What art thou, Love? whence are those charms,  
-    That thus thou bear'st an universal rule?  
-For thee the soldier quits his arms,  
-    The king turns slave, the wise man fool.
-
-In vain we chase thee from the field,  
-And with vain thoughts resist the yoke:  
-Next tide of blood, alas! we yield;  
-And all those high resolves are broke!”
+> **[verse_insert]**
+>
+> “What art thou, Love? whence are those charms,  
+>     That thus thou bear'st an universal rule?  
+> For thee the soldier quits his arms,  
+>     The king turns slave, the wise man fool.
+>
+> In vain we chase thee from the field,  
+> And with vain thoughts resist the yoke:  
+> Next tide of blood, alas! we yield;  
+> And all those high resolves are broke!”
 
 I like to have quotations ready for every occasion. They give one’s ideas so pat, and save the trouble of finding expressions adequate to one’s feelings. I think it is one of the greatest pleasures attending a poetic genius, that we can give our woes, cares, joys, loves, &c., an embodied form in verse, which, to me, is ever immediate ease. Goldsmith finely says of his muse: —
 
-“Thou source of all my bliss and all my woe:  
-Who found me poor at first, and keep’st me so.”
+> **[verse_insert]**
+>
+> “Thou source of all my bliss and all my woe:  
+> Who found me poor at first, and keep’st me so.”
 
 My limb has been so well to-day that I have gone up and down stairs often without my staff. To-morrow I hope to walk once again on my own legs to dinner. It is only next street. Adieu!
 
@@ -1385,7 +1397,7 @@ My limb has been so well to-day that I have gone up and down stairs often withou
 
 ### Letter 52: Robert Burns → Clarinda
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Monday</span>, 21st January, 1788.
 
@@ -1403,16 +1415,18 @@ I am just going to take your Blackbird, — the sweetest, I am sure, that ever s
 
 ### Letter 53: Robert Burns → Clarinda
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Glasgow</span>, February 18, 1788,  
 Monday Evening, 9 o'clock.
 
 <span class="small-caps">The</span> attraction of Love, I find, is in an inverse proportion to the attraction of the Newtonian philosophy. In the system of Sir Isaac, the nearer objects are to one another the stronger is the attractive force: in my system, every milestone that marked my progress from Clarinda awakened a keener pang of attachment to her. How do you feel, my love? is your heart ill at ease? I fear it. God forbid that these persecutors should harass that peace which is more precious to me than my own! Be assured I shall ever think of you, muse on you, and, in my hours of devotion, pray for you. The hour that you are not in all my thoughts— “ be that hour darkness! let the shadows of death cover it! let it not be numbered in the hours of day!”
 
-“ When I forget my darling theme,  
-Be my tongue mute! my fancy paint no more!  
-And, dead to joy, forget my heart to beat!”
+> **[verse_insert]**
+>
+> “ When I forget my darling theme,  
+> Be my tongue mute! my fancy paint no more!  
+> And, dead to joy, forget my heart to beat!”
 
 I have just met with my old friend, the ship-captain—guess my pleasure! To meet you could alone have given me more. My brother William, too, the young saddler, has come to Glasgow to meet me; and here are we three spending the evening.
 
@@ -1426,7 +1440,7 @@ Adieu, my Clarinda! I am just going to propose your health by way of grace-drink
 
 ### Letter 54: Robert Burns → Clarinda
 
-### *Burns's Last Letter to Clarinda.*
+#### *Burns's Last Letter to Clarinda.*
 
 <span class="small-caps">Friday</span>, 9 o'clock, Night,  
 21st March, 1788.
@@ -1435,7 +1449,9 @@ I <span class="small-caps">am</span> just now come in, and have read your letter
 
 Will you open, with satisfaction and delight, a letter from a man who loves you, who has loved you, and who will love you to death, through death, and forever? O Clarinda! what do I owe to Heaven for blessing me with such a piece of exalted excellence as you! I call over your idea, as the miser counts over his treasure! Tell me, were you studious to please me last night? I am sure you did it to transport. How rich am I who have such a treasure as you! You know me; you know how to make me happy, and you do it most effectually. God bless you with
 
-“ Long life, long youth, long pleasure, and a friend ! ”
+> **[verse_insert]**
+>
+> “ Long life, long youth, long pleasure, and a friend ! ”
 
 To morrow-night, according to your own direction, I shall watch the window: ’t is the star that guides me to Paradise. The great relish to all is — that Honour — that Innocence — that Religion, are the witnesses and guarantees of our happiness. “ The Lord God knoweth,” and perhaps “ Israel, he shall know ” my love and your merit. Adieu, Clarinda! I am going to remember you in my prayers.
 
@@ -1469,7 +1485,7 @@ These letters of Mary Wollstonecraft, which had been returned to her by Imlay, w
 
 ### Letter 55: Mary Wollstonecraft → Captain Imlay
 
-### *Mary Wollstonecraft to Captain Imlay.*
+#### *Mary Wollstonecraft to Captain Imlay.*
 
 <span class="small-caps">Past</span> 12 o'clock, Monday, August, 1793.
 
@@ -1485,7 +1501,7 @@ Yours,
 
 ### Letter 56: Mary Wollstonecraft → Captain Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Wednesday Morn</span>, August, 1793.
 
@@ -1501,7 +1517,7 @@ Your humbled yet most affectionate
 
 ### Letter 57: Mary Wollstonecraft → Captain Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Paris</span>, September, 1793,  
 Friday Morning.
@@ -1524,7 +1540,7 @@ Take care of yourself, and write soon to your own girl (you may add dear, if you
 
 ### Letter 58: Mary Wollstonecraft → Captain Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Paris</span>, January, 1794,  
 Monday Night.
@@ -1545,7 +1561,7 @@ God bless you, my love! Do not shut your heart against a return of tenderness; a
 
 ### Letter 59: Mary Wollstonecraft → Captain Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 Written after the birth of their child.
 
@@ -1563,7 +1579,7 @@ You, too, have somehow clung round my heart. I found I could not eat my dinner i
 
 ### Letter 60: Mary Wollstonecraft → Captain Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Paris</span>, Dec. 26, 1794.
 
@@ -1583,7 +1599,7 @@ Yours,
 
 ### Letter 61: Mary Wollstonecraft → Captain Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Paris</span>, Dec. 30, 1794.
 
@@ -1601,7 +1617,7 @@ You will call this an ill-humoured letter, when, in fact, it is the strongest pr
 
 ### Letter 62: Mary Wollstonecraft → Captain Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Paris</span>, Feb. 9, 1795.
 
@@ -1623,7 +1639,7 @@ Perhaps this is the last letter you will ever receive from me.
 
 ### Letter 63: Mary Wollstonecraft → Captain Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 In the course of their correspondence Mary Wollstonecraft went to Sweden, whence she wrote a collection of letters, which are published, among her other works, under the title of *Letters from Norway, Sweden, and Denmark.*
 
@@ -1647,7 +1663,7 @@ Still, when we meet again I will not torment you, I promise you. I blush when I 
 
 ### Letter 64: Mary Wollstonecraft → Captain Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Sweden</span>, July 4, 1795.
 
@@ -1663,7 +1679,7 @@ Do not tell me that you are happier without us. Will you not come to us in Switz
 
 ### Letter 65: Mary Imlay → Captain Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Tonsberg</span>, July 30, 1795.
 
@@ -1693,7 +1709,7 @@ Yours most affectionately,
 
 ### Letter 66: Mary Wollstonecraft → Captain Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Copenhagen</span>, Sept. 6, 1795.
 
@@ -1707,7 +1723,7 @@ I am weary of travelling, yet seem to have no home—no resting-place to look to
 
 ### Letter 67: Mary Wollstonecraft → Gilbert Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 This letter is written on the night when, driven to madness by Imlay's conduct, Mary Wollstonecraft went out and made the desperate attempt to drown herself in the Thames. The one following this is written soon after her rescue.
 
@@ -1729,7 +1745,7 @@ God bless you! May you never know by experience what you have made me endure. Sh
 
 ### Letter 68: Mary Wollstonecraft → Gilbert Imlay
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">London</span>, November, 1795,  
 Sunday Morning.
@@ -1748,7 +1764,7 @@ I write with difficulty—probably I shall never write to you again. Adieu. God 
 
 ### Letter 69: Percy Bysshe Shelley → Mary Shelley
 
-### *Shelley to Mary Shelley.*
+#### *Shelley to Mary Shelley.*
 
 There is very little that is characteristic of the poet <span class="small-caps">Shelley</span> to be found in any of his letters which have yet been printed. In a collection of his prose writings edited by his wife, she gives a few letters written to her after they went to reside in Italy. They are printed somewhat fragmentarily, and I have copied them in fragments, leaving out portions which relate to business or uninteresting matters. Shelley does not pour out his heart in his letters, like Keats, nor write to publisher or friends on every trivial occasion, like Byron ; and one feels in his letters a reticence of nature which did not unloose itself except in his poetry.
 
@@ -1767,7 +1783,7 @@ How is Willmouse and little Clara? They must be kissed for me; and you must part
 
 ### Letter 70: Percy Bysshe Shelley → Mary Shelley
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 Later from Venice he writes her to join him.
 
@@ -1783,7 +1799,7 @@ Kiss the blue-eyed darlings for me, and do not let William forget me. Clara cann
 
 ### Letter 71: Percy Bysshe Shelley → Mary Shelley
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 This little note, written a year before his death, when Mary sent him her picture, is among Shelley's latest letters to his wife.
 
@@ -1801,7 +1817,7 @@ Your faithful and affectionate        S.
 
 ### Letter 72: Lord Byron → Countess Guicciola
 
-### *Byron to the Countess Guicciola.*
+#### *Byron to the Countess Guicciola.*
 
 It was in the autumn of 1818 that Lord <span class="small-caps">Byron</span> met with Teresa Guicciola. She was a little more than eighteen years old,—a golden-haired Italian woman, such as Titian loved to paint,—and had recently been taken from the convent in which she was reared, to be married to Count Guicciola, a wealthy widower of sixty. Moore says, in his *Life of Byron:* “The love that sprung up between Byron and Madame Guicciola was instantaneous and mutual, though with the usual disproportion of sacrifice between the two. . . . The fount of natural tenderness in his soul, which neither the world’s efforts nor his own had been able to chill or choke up, was, with something of its first freshness, set flowing once more. He knew what it was to love and to be loved,—too late, it is true, for happiness and too wrongly for peace, but with devotion enough on the part of the woman to satisfy even his thirst for affection, and on his own part with a sad earnestness, a foreboding fidelity, which made him cling the more passionately to this attachment from feeling it would be his last.”
 
@@ -1821,7 +1837,7 @@ Think of me sometimes when the Alps and the ocean divide us ; but they never wil
 
 ### Letter 73: Charlotte Carpenter → Walter Scott
 
-### *Charlotte Carpenter to Walter Scott.*
+#### *Charlotte Carpenter to Walter Scott.*
 
 Walter Scott had had a disappointment in a love affair in which his feelings seem to have been deeply engaged, when his heart was caught in the rebound by Miss <span class="small-caps">Charlotte Carpenter</span>, a lively brunette, of French birth and parentage, the ward of an English marquis, Lord Downshire, who, in the spring of 1797, was travelling in Scotland. Scott and Miss Carpenter were engaged in the fall of this year, and these letters are written by Miss Carpenter to her betrothed just before marriage. There was only a little delay after the engagement, to get Lord Downshire's consent, and to settle the minds of Scott's family on the subject of the lady's fortune and birth.
 
@@ -1839,7 +1855,7 @@ C. C.
 
 ### Letter 74: Charlotte Carpenter → Walter Scott
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Carlisle</span>, <span class="small-caps">Nov.</span> 14, 1797.
 
@@ -1853,7 +1869,7 @@ C. C.
 
 ### Letter 75: Charlotte Carpenter → Walter Scott
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Carlisle</span>, <span class="small-caps">Nov.</span> 27, 1797.
 
@@ -1867,7 +1883,7 @@ C. C.
 
 ### Letter 76: Charlotte Carpenter → Walter Scott
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Carlisle</span>, Dec. 10, 1797.
 
@@ -1881,7 +1897,7 @@ P. S. Étudiez votre Français. Remember you are to teach me Italian in return, 
 
 ### Letter 77: Charlotte Carpenter → Walter Scott
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Carlisle</span>, Dec. 14, 1797.  
 (A week before marriage.)
@@ -1894,9 +1910,9 @@ P. S. Arrange so that we shall see none of your family the night of our arrival.
 
 * * *
 
-### Letter 78: Leigh Hunt
+### Letter 78: Leigh Hunt → his Betrothed
 
-### *Leigh Hunt to his Betrothed.*
+#### *Leigh Hunt to his Betrothed.*
 
 This letter was written by <span class="small-caps">Leigh Hunt</span> to his betrothed three or four years before their marriage, when he was just beginning to be known in literary and journalistic circles. He was not more than twenty-two when he was engaged to be married, and his Marienne at this date could not have been more than sixteen, so that the faults of handwriting and blotting about which he lectures her, may be pardoned in one who was still a school-girl.
 
@@ -1929,7 +1945,7 @@ In the autumn of 1820 it was decided he should go to Italy, and his faithful fri
 
 ### Letter 79: John Keats → Fanny Brawne
 
-### *Keats to Fanny Brawne.*
+#### *Keats to Fanny Brawne.*
 
 <span class="small-caps">Newport</span>, 10th July, 1819.
 
@@ -1945,7 +1961,7 @@ Ever yours, my love,
 
 ### Letter 80: John Keats → Fanny Brawne
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 25 <span class="small-caps">College Street</span>, 13 Oct., 1819.
 
@@ -1959,7 +1975,7 @@ Yours forever,
 
 ### Letter 81: John Keats → Fanny Brawne
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">February</span>, 1820 (?).
 
@@ -1969,7 +1985,7 @@ Your affectionate        J. K.
 
 ### Letter 82: John Keats → Fanny Brawne
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 1820.
 
@@ -1983,7 +1999,7 @@ J. <span class="small-caps">Keats</span>.
 
 ### Letter 83: John Keats → Fanny Brawne
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 1820.
 
@@ -1995,7 +2011,7 @@ J. <span class="small-caps">Keats</span>.
 
 ### Letter 84: John Keats → Fanny Brawne
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">My dearest Fanny</span>,—I slept well last night, and am no worse this morning for it. Day by day, if I am not deceived, I get a more unrestrained use of my Chest. The nearer a racer gets to the Goal the more his anxiety becomes; so I, lingering upon the borders of health, feel my impatience increase. Perhaps on your account I have imagined my illness more serious than it is: how horrid was the chance of slipping into the ground instead of into your arms—the difference is amazing, Love. Death must come at last; Man must die as Shallow says; but before that is my fate I fain would try what more pleasures than you have given, so sweet a creature as you can give. Let me have another opportunity of years before me and I will not die without being remembered. Take care of yourself, dear, that we may both be well in the Summer. I do not at all fatigue myself with writing, having merely put a line or two here and there,—a Task which would worry a stout state of the body and mind, but which just suits me, as I can do no more.
 
@@ -2005,7 +2021,7 @@ J. K.
 
 ### Letter 85: John Keats → Fanny Brawne
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">September</span> (?), 1820.
 
@@ -2021,7 +2037,7 @@ Yours forever, my dearest,
 
 ### Letter 86: John Keats → Fanny Brawne
 
-### *The Last Letter of Keats written before his Departure.*
+#### *The Last Letter of Keats written before his Departure.*
 
 <span class="small-caps">September</span> (?), 1820.
 
@@ -2035,7 +2051,7 @@ J. K.
 
 ### Letter 87: William Hazlitt → Sarah L.
 
-### *William Hazlitt to Sarah L.*
+#### *William Hazlitt to Sarah L.*
 
 <span class="small-caps">William Hazlitt</span>, the poet-essayist, and one of the finest critics of his time, was a man of keen sensibility, with the poetic tendency to idealize some of the commonest things of earth into visions of beauty and objects of rapturous adoration. In one of these moods he met with a young woman, the daughter of his lodging-house keeper, for whom he entertained an affection as mad as it was hopeless. He would have married her if she would have consented to become his wife, but she seems not to have been sensible of the honour he would have done her, and to have merely played with his feelings as the amusement of her unoccupied mornings, in which she would sometimes remain beside him while he ate the breakfast which she served him with her fair hands. Hazlitt paints her as a vision of rarest beauty, somewhat undeveloped and soulless, but into whom, like Pygmalion, his devotion would infuse life and soul. The truth seems to be, that his statue was a vulgar young woman, accustomed to flirt with the lodgers who came under her mother’s roof, and that she could no more understand the feeling with which she was regarded by a man of genius than she could have returned it if it had been comprehensible to her. The following, like some of Keats’s letters, opens so deep the heart of the writer that it would seem too personal to print it, if Hazlitt had not himself published an account of this unhappy episode in his life, and included in it the few letters which he wrote to Sarah L.
 
@@ -2066,11 +2082,11 @@ That Hazlitt suffered greatly from this melancholy passion is not to be doubted.
 
 ### PART II.
 
-### LETTERS OF ROYAL PERSONAGES.
+#### LETTERS OF ROYAL PERSONAGES.
 
 * * *
 
-### *Letters of Henry VIII. to Anne Boleyn.*
+##### *Letters of Henry VIII. to Anne Boleyn.*
 
 <span class="small-caps">Among</span> all the collections of old love-letters there is none which has elicited more interest and curiosity than that of <span class="small-caps">Henry</span> VIII. to his second queen, <span class="small-caps">Anne Boleyn.</span> These letters are supposed to have been stolen from her during her brief queenship, and were found, years after, in the library of the Vatican in Rome. Most of them were written in French, although one or two are in English. They are as ardent as anything in the history of courtship, and show the king as passionate in following his inclinations as he was earnest in annulling any ties he had formed, after his ardour had cooled.
 
@@ -2092,7 +2108,7 @@ H., R.
 
 ### Letter 89: Henry VIII → Anne Boleyn
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 1528.
 
@@ -2192,7 +2208,7 @@ Lastly, I do vow, mine eyes desire you above all things.
 
 ### Letter 94: Katherine Parr → Henry VIII
 
-### *Katherine Parr to Henry VIII.*
+#### *Katherine Parr to Henry VIII.*
 
 <span class="small-caps">Katherine Parr</span>, last queen of Henry VIII., had been previously twice married before she became queen-consort. She managed the king with great tact, although her life must have been a hard one. She was little else than a slavish nurse to the gouty person of the king, who had grown so obese that he was almost helpless. Katherine showed her satisfaction at escaping from such servitude by marrying Thomas Seymour, Lord High Admiral of England, as soon as the king's remains were comfortably deposited in the chapel choir at Windsor. This letter was probably written in 1544, while King Henry was absent upon his campaign in France.
 
@@ -2230,7 +2246,7 @@ Your bondsman everlastingly tied,
 
 ### Letter 96: Essex → Elizabeth I
 
-### *The Earl of Essex to Queen Elizabeth.*
+#### *The Earl of Essex to Queen Elizabeth.*
 
 The unfortunate <span class="small-caps">Earl of Essex</span>, who was Queen Elizabeth's favourite in her last years, was more independent in spirit and less fulsome in his flattery to the queen than any of her previous favourites. Yet this letter, which was written when Essex was twenty-five and the queen sixty, is a very good specimen of the manner in which, during her life from twenty-five to seventy years of age, the queen was addressed by her courtiers.
 
@@ -2252,7 +2268,7 @@ Below is one of these disputed letters. It would appear to have been sent by the
 
 ### Letter 97: Mary Queen of Scots → Earl of Bothwell
 
-### *From Mary Queen of Scots to the Earl of Bothwell, concerning certain Tokens that she sent him.*
+#### *From Mary Queen of Scots to the Earl of Bothwell,<br />concerning certain Tokens that she sent him.*
 
 1567 (?).
 
@@ -2264,7 +2280,7 @@ Yet, my heart, fearing to displease you, as much in the reading hereof, as it de
 
 ### Letter 98: James I → Duke of Buckingham
 
-### *James I. to the Duke of Buckingham.*
+#### *James I. to the Duke of Buckingham.*
 
 <span class="small-caps">James</span> I., who was such a strange mixture of learning and foolishness, of weak cruelty and doting fondness, has left no letters to women to be placed in the catalogue of love-letters; but some of his letters to George Villiers, the Duke of Buckingham, whom he doted on with an affection which was more than womanish, are so much in the style of love-letters that one of them deserves a place in this collection. Buckingham seems to have been a lovable person, in spite of his faults. Clarendon says of him: “ He was indeed an extraordinary person, and never any man in any age, nor, I believe, in any nation, rose, in so short a time, to so much greatness of honour, fame, and fortune, upon no other advantage or recommendation than the beauty and gracefulness of his person. I have not the least purpose of undervaluing his good parts, when I say that his first introduction into favour rose purely from the handsomeness of his person.”
 
@@ -2312,7 +2328,7 @@ The marriage of <span class="small-caps">Charles</span> I. with Henrietta Maria 
 
 ### Letter 101: Charles I → Henrietta Maria
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Oxford</span>, April 9, 1645.
 
@@ -2349,7 +2365,7 @@ I rest thine
 
 ### Letter 103: Oliver Cromwell → Elizabeth Cromwell
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 For my beloved wife, <span class="small-caps">Elizabeth Cromwell</span>, at the Cockpit,  
 these:
@@ -2366,7 +2382,7 @@ I am glad to hear thy son and daughter are with thee.[^fn-p0233-1] I hope thou w
 
 ### Letter 104: Charles II → Catherine of Braganza
 
-### *Charles II. to Catherine of Braganza.*
+#### *Charles II. to Catherine of Braganza.*
 
 This letter, written just before Catherine of Braganza departed for England to be wedded to <span class="small-caps">Charles II.</span>, is the only love-letter I have found of the many which were doubtless written by this royal Lothario. This is rather coldly, though courteously expressed, and may have struck a chill to the heart of the unhappy princess, as a presage of the neglect and wretchedness she was to suffer as his wife.
 
@@ -2402,7 +2418,7 @@ I think Lord Torrington has made no haste, and I cannot tell whether his being s
 
 ### Letter 106: Queen Mary II → King William
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Whitehall</span>, July <sup>26</sup>/<sub>16</sub>, 1690.
 
@@ -2412,7 +2428,7 @@ I think Lord Torrington has made no haste, and I cannot tell whether his being s
 
 ### Letter 107: Queen Mary II → King William
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Whitehall</span>, July <sup>27</sup>/<sub>17</sub>, 1690.
 
@@ -2422,7 +2438,7 @@ I think Lord Torrington has made no haste, and I cannot tell whether his being s
 
 ### Letter 108: Queen Mary II → King William
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 These last two letters from Mary to her husband were written when she was impatiently awaiting his return from his Irish campaign, and was hurrying forward the repairs upon the palace at Kensington, which she was fitting up and making ready for his return.
 
@@ -2432,7 +2448,7 @@ These last two letters from Mary to her husband were written when she was impati
 
 ### Letter 109: Queen Mary II → King William
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Whitehall</span>, Aug. 12/22, 1690.
 
@@ -2444,7 +2460,7 @@ The house would have been ready by Tuesday night, and I hope will be in better o
 
 ### Letter 110: Albert → Queen Victoria
 
-### *Prince Albert to Queen Victoria.*
+#### *Prince Albert to Queen Victoria.*
 
 This letter from <span class="small-caps">Albert</span>, Prince-Consort to Queen Victoria, closes this collection of royal letters. It was written by Prince Albert just after his parting from the queen for a visit to Germany, his first absence from her after their marriage.
 
@@ -2482,11 +2498,11 @@ Your most devoted
 
 ### PART III.
 
-### LETTERS OF STATESMEN, MILITARY MEN, AND MEN OF AFFAIRS.
+#### LETTERS OF STATESMEN, MILITARY MEN,<br />AND MEN OF AFFAIRS.
 
 * * *
 
-### *The Paston Letters.*[^fn-p0247-1]
+##### *The Paston Letters.*[^fn-p0247-1]
 
 <span class="small-caps">One</span> of the most interesting collections of old letters which has come down to us from the past is that of the Paston family, who were people of consequence in the fifteenth century. Their domestic correspondence, which was carefully preserved, throws a vivid light on the social and family life of the time. The head of the family about the middle of the century was <span class="small-caps">John Paston</span>, whose wife, <span class="small-caps">Margaret</span>, writes a large number of the letters in the collection.
 
@@ -2494,7 +2510,7 @@ She was an affectionate wife as well as a true helpmeet. The following is one of
 
 ### Letter 111: Margaret Paston / M. Paston → John Paston
 
-### *Margaret Paston to her Husband.*
+#### *Margaret Paston to her Husband.*
 
 To my right worshipful husband, <span class="small-caps">John Paston</span>, dwelling  
 at the Inner Temple in London, in haste.
@@ -2545,7 +2561,7 @@ In spite of this there must still have been some holding off about money matters
 
 ### Letter 113: Margery Brews → John Paston
 
-### *Margery Brews to John Paston.*
+#### *Margery Brews to John Paston.*
 
 Unto my right well-beloved Valentine, <span class="small-caps">John Paston</span>, Esq.,  
 be this billet delivered.
@@ -2581,7 +2597,7 @@ By your own
 
 ### Letter 114: Margery Brews → John Paston
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 To my right well-beloved cousin, <span class="small-caps">John Paston</span>, Esq., be  
 this letter delivered.
@@ -2624,7 +2640,7 @@ This letter was written with as great pain as ever wrote I thing in my life ; fo
 
 * * *
 
-### *Roger Ascham to his Wife Margaret, in Consolation for the Death of their Son, Sturm Ascham.*
+### *Roger Ascham to his Wife Margaret, in Consolation for<br />the Death of their Son, Sturm Ascham.*
 
 The following letter was written by <span class="small-caps">Roger Ascham</span>, the famous schoolmaster of the sixteenth century. He was the teacher of Queen Elizabeth in her girlhood, and of Lady Jane Grey ; and these two princesses seem to have been favourite pupils of his, for he cannot speak too highly in praise of their learning and studiousness.
 
@@ -2704,7 +2720,7 @@ G. <span class="small-caps">Shrewsbury.</span>
 
 ### Letter 119: Shrewsbury → Countess of Shrewsbury
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">My dear One</span>,—Of all joys I have under God the greatest is yourself. To think I possess one so faithful and one that I know loves me so dearly, is all, and the greatest comfort, that this earth can give. Therefore, God give me grace to be thankful to him for his good showed upon me a vile sinner. [*Part of the letter here is effaced and the meaning obscure.*] I thank you, sweet heart, that you are so ready to come when I will; therefore, dear heart, send me word how I might send for you, and till I may have your company I shall think it long, my only joy, and therefore appoint a day, and in the meantime I shall content me with your will, and long daily for your coming. I your letters con very well, and I like them so well they could not be amended, and I have sent them up to Gilbert. I have written him how happy he is to have such a mother as you are. Farewell, my only joy. This Tuesday eve.
 
@@ -2762,7 +2778,7 @@ Raleigh was arrested immediately after landing, and, without any new trial, was 
 
 Sir Walter was not buried in Beddington notwithstanding this request. His remains are in St. Margaret’s Church just over the way from Westminster Abbey, and his faithful wife is not buried beside him. Her brief letter, with its supplication, “God hold me in my wits,” is worth volumes of lamentation.
 
-### *From Kate, Duchess of Buckingham, to her Husband, George Villiers, Duke of Buckingham.*
+### *From Kate, Duchess of Buckingham, to her Husband,<br />George Villiers, Duke of Buckingham.*
 
 The following letter was written by <span class="small-caps">Kate Villiers</span>, Duchess of Buckingham, to her handsome and profligate husband, when he was absent in Spain, as friend and companion to Prince Charles, afterwards Charles I. It is to this same Duke of Buckingham, familiarly called “Steenie” by James I. and the prince, that King James wrote the letter quoted on page 200.
 
@@ -2863,7 +2879,7 @@ I have quoted, as a prefix to some of the letters of John Winthrop and his wife,
 
 ### Letter 126: Anne Winthrop → Adam Winthrop
 
-### *Anne Winthrop to her Husband.*
+#### *Anne Winthrop to her Husband.*
 
 No date.
 
@@ -2926,7 +2942,7 @@ Your obedient wife,
 
 ### Letter 129: J. Winthrop → Mrs. Winthrop
 
-### *John Winthrop to his Wife.*
+#### *John Winthrop to his Wife.*
 
 To my very loving wife, M<span class="small-caps">rs.</span> W<span class="small-caps">inthrop</span>, at Groton, in  
 Suffolk.
@@ -2972,7 +2988,7 @@ Some of Lady Dorothy’s letters to her husband and to her son, Algernon Sidney,
 
 ### Letter 131: Dorothy Leicester → Robert Sidney, 2nd Earl of Leicester
 
-### *Lady Dorothy Sidney to her Husband.*
+#### *Lady Dorothy Sidney to her Husband.*
 
 <span class="small-caps">Penshurst</span>, Feb. 7, 1636.
 
@@ -3048,7 +3064,7 @@ It will be noticed that Lady Russell's early letters to her husband are signed �
 
 ### Letter 133: Russell → Lady Russell
 
-### *Lord Russell to Lady Russell, written ten Years after Marriage.*
+#### *Lord Russell to Lady Russell, written ten Years after Marriage.*
 
 <span class="small-caps">Basing</span>, Feb. 8, 1679.
 
@@ -3062,7 +3078,7 @@ Your
 
 ### Letter 134: Rachel Vaughan → Lord Russell
 
-### *Lady Russell to Lord Russell.*
+#### *Lady Russell to Lord Russell.*
 
 <span class="small-caps">Tichfield</span>, Aug. 22, 1675.
 
@@ -3074,7 +3090,7 @@ I <span class="small-caps">write</span> this to my dear Mr. Russell, because I l
 
 ### Letter 135: R. Russell → Lord Russell
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">London</span>, Sept. 6, 1680.
 
@@ -3090,7 +3106,7 @@ R. <span class="small-caps">Russell</span>.
 
 ### Letter 136: R. Russell → Lord Russell
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">Stratton</span>, Sept. 30, 1681.
 
@@ -3122,7 +3138,7 @@ My dearest soul, my desire of being with you is so great that I am not able to e
 
 ### Letter 138: John Churchill, Duke of Marlborough → Duchess of Marlborough
 
-### *The Same to the Same, written just after the Battle of Ramillies.*
+#### *The Same to the Same, written just after the Battle<br />of Ramillies.*
 
 <span class="small-caps">Ramillies</span>, Monday, May 24, 11 o'clock, 1706.
 
@@ -3134,7 +3150,7 @@ Especially interesting to Americans are the letters of John Adams and his wife, 
 
 ### Letter 139: John Adams → Abigail Adams
 
-### *John Adams to his Wife.*
+#### *John Adams to his Wife.*
 
 <span class="small-caps">Philadelphia</span>, 22 May, 1776.
 
@@ -3150,7 +3166,7 @@ Alas, poor imagination! how faintly and imperfectly do you supply the want of or
 
 ### Letter 140: Portia / Mrs. Adams → John Adams
 
-### *Mrs. Adams to her Husband.*
+#### *Mrs. Adams to her Husband.*
 
 23 <span class="small-caps">December</span>, 1782.
 
@@ -3180,7 +3196,7 @@ Mrs Hastings had two children by her first marriage, whom Hastings adopted, and 
 
 ### Letter 141: Warren Hastings → Marian Hastings
 
-### *Warren Hastings to his Wife.*
+#### *Warren Hastings to his Wife.*
 
 <span class="small-caps">Benares</span>, Oct. 1, 1784.
 
@@ -3204,7 +3220,7 @@ The letters of Mrs. Burr to her husband are full of sentiment. Her husband’s a
 
 ### Letter 142: Theo. / Mrs. Burr → Aaron Burr
 
-### *Mrs. Burr to her Husband.*
+#### *Mrs. Burr to her Husband.*
 
 <span class="small-caps">New York</span>, Saturday, April, 1785.
 
@@ -3216,7 +3232,7 @@ I <span class="small-caps">persuade</span> myself this is the last day you spend
 
 ### Letter 143: Theodosia → Aaron Burr
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">New York</span>, May, 1785.
 
@@ -3230,7 +3246,7 @@ The family as you left it. Barton never quits the office, and is perfectly oblig
 
 ### Letter 144: A. Burr → Theodosia Burr
 
-### *Aaron Burr to his Wife.*
+#### *Aaron Burr to his Wife.*
 
 <span class="small-caps">Albany</span>, 2 <span class="small-caps">Nov.</span>, 1785.
 
@@ -3284,7 +3300,7 @@ The letters of Nelson are very numerous, and are written on every occasion on wh
 
 ### Letter 146: Nelson & Bronté → Lady Hamilton
 
-### *Lord Nelson to Lady Hamilton.*
+#### *Lord Nelson to Lady Hamilton.*
 
 <span class="small-caps">St. George, Kioge Bay</span>, Apr. 25, 1801.
 
@@ -3300,7 +3316,7 @@ May the God of heaven and earth bless and preserve you, my dearest friend, for t
 
 ### Letter 147: Nelson → Lady Hamilton
 
-### *The Same to the Same.*
+#### *The Same to the Same.*
 
 <span class="small-caps">At Sea</span>, Aug. 21, 1803.
 

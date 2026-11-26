@@ -133,14 +133,14 @@
   {
    "format": "epub",
    "file": "newton-bentley-1756.epub",
-   "bytes": 95232,
-   "sha256": "23ca2b262a5f2d70b6dd42c63f6704210f7d46c68d61a98ea781eca899a15e75"
+   "bytes": 95256,
+   "sha256": "10639c4ee26f78de680dd4c7e385d9ff0d753ea0bef41bc0ad20b79af258d404"
   },
   {
    "format": "markdown",
    "file": "newton-bentley-1756.md",
-   "bytes": 28184,
-   "sha256": "99bd8d1ebaa895e91affbe3ae95007d76c0b391e2d01c5565b3ae12e899b5ff9"
+   "bytes": 28188,
+   "sha256": "ee5d6b5d51ed1899060fa7c7a69d34e94edff85f8ed9c8c31b93fd85b7845db4"
   },
   {
    "format": "tei",
@@ -152,8 +152,8 @@
  "scan_base": "https://archive.org/download/fourlettersfroms00newt/page/",
  "provenance": {
   "active_run_id": "canonical-v1-1756",
-  "compiled_at": "2026-11-22T08:51:48Z",
-  "source_ast_sha256": "8ab51272faae7450a3b323a1c6ccdae972ab13c559919f7d560a2b2518c8ace8",
+  "compiled_at": "2026-11-24T19:22:58Z",
+  "source_ast_sha256": "780c39d3ead0344720efc8aa04cb5a784a6ccab79a180f6a15e95dbec4b44669",
   "hugo_renderer_version": "1.0.0"
  }
 }

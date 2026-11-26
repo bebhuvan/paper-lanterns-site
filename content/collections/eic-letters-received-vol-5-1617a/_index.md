@@ -22,16 +22,16 @@
   "letters": 78,
   "notes": 855,
   "pages": 423,
-  "dated_letters": 76
+  "dated_letters": 78
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 80.5,
+  "score": 80.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 20.0,
+    "score": 19.5,
     "out_of": 30.0
    },
    {
@@ -55,7 +55,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 20,
+  "flagged": 29,
   "blockers": 0
  },
  "proof": {
@@ -178,7 +178,7 @@
  "year_counts": [
   [
    1617,
-   76
+   78
   ]
  ],
  "periods": [],
@@ -192,27 +192,27 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-5-1617a.epub",
-   "bytes": 483606,
-   "sha256": "f9dd765a5a2fb4d4adf77c9a551991d86f82f4d23fce817d91707c7b48ff3672"
+   "bytes": 483755,
+   "sha256": "70919d78b72a5c1c6342f398e2f2f387905f39d22a1be2b47894e6cc1d01c1d9"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-5-1617a.md",
-   "bytes": 937122,
-   "sha256": "1251dd31563261c1e2ea919e95ac6ff80b1379acb32a14f4f1eb1456646fa374"
+   "bytes": 937525,
+   "sha256": "0f88d904673fab6186df25c804e48eda07b1f43246c6a96c43a4b9099be9d769"
   },
   {
    "format": "tei",
    "file": "eic-letters-received-vol-5-1617a.tei.xml",
-   "bytes": 1143783,
-   "sha256": "2dfa7dbecc9acd366b39fd402514543d3c037554a6cd6ed8d1fb6c96904c5d5d"
+   "bytes": 1147472,
+   "sha256": "d8a93d149e5f01413ed213017da299d13b87b6063c70be9abec6d6de4a83289d"
   }
  ],
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.529466/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-22T08:48:45Z",
-  "source_ast_sha256": "1feedef56d8f6934d7ba406a78fd473ecd363abd7ba878fa64ac7edf52d4bedb",
+  "compiled_at": "2026-11-24T19:21:50Z",
+  "source_ast_sha256": "26349cf22ad3a25d23ee067646f403d274c8bce48acf3c2f64fde7e22de03317",
   "hugo_renderer_version": "1.0.0"
  }
 }

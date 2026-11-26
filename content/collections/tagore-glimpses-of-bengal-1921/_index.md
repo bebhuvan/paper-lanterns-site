@@ -151,27 +151,27 @@
   {
    "format": "epub",
    "file": "tagore-glimpses-of-bengal-1921.epub",
-   "bytes": 147816,
-   "sha256": "d7a1f4bcec6c4cdb6da6e30f7ffd5b47646498531920da23e1ed0bcb93f07f04"
+   "bytes": 147887,
+   "sha256": "3021e213f8e974993ffea5912d81c37ba82a915d2cc50a1980165037d95c174c"
   },
   {
    "format": "markdown",
    "file": "tagore-glimpses-of-bengal-1921.md",
-   "bytes": 144922,
-   "sha256": "58a834a19ff463a76a72550ee4f3d063a0923b38e27bb832d87c2d7f9151f48b"
+   "bytes": 144964,
+   "sha256": "8b981076e9358b95bf974f472d855579eaeca33dc9580c67348039e9a73f85f6"
   },
   {
    "format": "tei",
    "file": "tagore-glimpses-of-bengal-1921.tei.xml",
-   "bytes": 188690,
-   "sha256": "3b208f6e6e2544a33b379c6ac1272f49f5124702d0eaa8610b18a8232fbd69a8"
+   "bytes": 188755,
+   "sha256": "ac8e16913d5c15f92d3195e3ee5a85fddc9521bfb684b92c9fa5058f80225470"
   }
  ],
  "scan_base": "https://archive.org/download/glimpsesofbengal00tagoiala/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-22T08:00:20Z",
-  "source_ast_sha256": "2d8f3296e1707a0e97ddbd9045cdda125d977f4ad5cd3b644ad27ed1d1194fe2",
+  "compiled_at": "2026-11-24T19:24:04Z",
+  "source_ast_sha256": "013b917b7f467f9d332882d2549f35b27156301732e26ec4ca72f9f036a04a52",
   "hugo_renderer_version": "1.0.0"
  }
 }

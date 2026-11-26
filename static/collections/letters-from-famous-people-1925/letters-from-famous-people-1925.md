@@ -7,7 +7,7 @@
 
 ## Frontmatter
 
-### <span class="small-caps">Letters</span> *from* <span class="small-caps">Famous People</span>
+### <span class="small-caps">Letters</span> *from*<br /><span class="small-caps">Famous People</span>
 
 *Sharpless D. Green*
 
@@ -15,9 +15,9 @@
 
 ### LETTERS *from* FAMOUS PEOPLE
 
-### LETTERS FROM FAMOUS PEOPLE
+### LETTERS FROM<br />FAMOUS PEOPLE
 
-### SHARPLESS DOBSON GREEN
+#### SHARPLESS DOBSON GREEN
 
 THE GREGG PUBLISHING COMPANY  
 NEW YORK: CHICAGO: SAN FRANCISCO: BOSTON: LONDON
@@ -997,9 +997,11 @@ DONALD BRIAN
 
 I RECOMMEND the following extract from a letter which Theodore Roosevelt wrote to his son “Ted,” when the latter was a freshman at Harvard. It contains good advice on the relative merits of popularity and good judgment.
 
-> “Exercise your own best judgment and form some idea of what the really best fellows in the class think on the subject. Do not make the mistake of thinking that the men who are merely undeveloped are really the best fellows, no matter how pleasant and agreeable they are or how popular. Popularity is a good thing, but it is not something for which to sacrifice studies or athletics or good standing in any way; and sometimes to seek it overmuch is to lose it. I do not mean this as applying to you, but as applying to certain men who still have a great vogue at first in the class, and of whom you will naturally tend to think pretty well.
-
-> “In all these things I can only advise you in a very general way. You are on the ground. You know the men and the general college sentiment. You have gone in with the serious purpose of doing decently and honorably; of standing well in your studies; of showing that in athletics you mean business up to the extent of your capacity, and of getting the respect and liking of your classmates so far as they can be legitimately obtained.”
+> **[letter_excerpt]**
+>
+> > “Exercise your own best judgment and form some idea of what the really best fellows in the class think on the subject. Do not make the mistake of thinking that the men who are merely undeveloped are really the best fellows, no matter how pleasant and agreeable they are or how popular. Popularity is a good thing, but it is not something for which to sacrifice studies or athletics or good standing in any way; and sometimes to seek it overmuch is to lose it. I do not mean this as applying to you, but as applying to certain men who still have a great vogue at first in the class, and of whom you will naturally tend to think pretty well.
+>
+> > “In all these things I can only advise you in a very general way. You are on the ground. You know the men and the general college sentiment. You have gone in with the serious purpose of doing decently and honorably; of standing well in your studies; of showing that in athletics you mean business up to the extent of your capacity, and of getting the respect and liking of your classmates so far as they can be legitimately obtained.”
 
 ROBERT BRIDGES  
 (“Droch”)
@@ -1997,12 +1999,14 @@ FIDELITY to principle, loyalty to labor, consideration to comrades, and equity i
 
 As Masefield sings, they will find in—
 
-“This life of ours,  
-The half-seen prize, the difficult pursuit—  
-The passionate lusts that shut us in their towers,  
-The love that helps us on, the fear that lowers,  
-The pride that makes us, and the pride that mars,  
-The beauty and the truth that are our stars.”
+> **[verse_insert]**
+>
+> “This life of ours,  
+> The half-seen prize, the difficult pursuit—  
+> The passionate lusts that shut us in their towers,  
+> The love that helps us on, the fear that lowers,  
+> The pride that makes us, and the pride that mars,  
+> The beauty and the truth that are our stars.”
 
 From these young Americans may much good come to the world, and may the joy of service be theirs.
 
@@ -2042,10 +2046,12 @@ Back in ancient Rome, the slaves, in order to protect themselves against the inh
 
 The great mind of Shakespeare in his turn accepted the idea that all men are brothers; and so we find on Shakespeare’s tomb or monument at Stratford, these puzzling words copied from the practice of the Roman slave, the most wretched man in the world:
 
-“Good friend, for Jesus sake forebeare  
-To digg the dust enclosed heare;  
-Bleste be ye man yt spares thes stones,  
-And curst be he yt moves my bones.”
+> **[verse_insert]**
+>
+> “Good friend, for Jesus sake forebeare  
+> To digg the dust enclosed heare;  
+> Bleste be ye man yt spares thes stones,  
+> And curst be he yt moves my bones.”
 
 In that moment Shakespeare was more than a poet. He was a great Democrat. He saw the absolute interdependence of all forms and levels of human life; and in humility he leveled his great intellect to that of the Roman swineherd, doomed to die by the roadside.
 
@@ -2635,17 +2641,19 @@ HAROLD MACGRATH
 
 AS I am particularly interested in promulgating sensible ideas of thrift, I believe that I can do nothing better than quote for the benefit of your pupils the following paragraphs from my own volume, “The Book of Thrift”:
 
-### “*Getting on in the World*”
-
-> “How to succeed, how to get on in the world—that is the problem that millions of earnest men and women are striving to solve, each in his own way, but all, consciously or unconsciously, observing the same general principles. “There is nothing in such an effort at variance with the highest moral standards. In fact, the zealous pursuit of such an object has a beneficial reflex action upon the character, as it has upon the physical and mental nature. “Saving has a beneficial moral effect, but extravagance, as it usually is acting a lie, is essentially immoral and breeds many other irregularities and sins. On the other hand, temperance and integrity go hand in hand with thrift. This course is the harder one, but it is doing hard things that develops strength and character.
-
-“Luck is a fetish. Too many persons believe in it, and fall down and worship it. Too often speculation takes the place of industry; gambling, of thrift; extravagance, of saving.
-
-“Earnest men think more of pluck than of luck. But the earnest men are so few in the world, as Dwight says, that their very earnestness becomes at once the badge of their nobility; and as men in a crowd instinctively make room for one who seems eager to force his way through it, so people everywhere open their ranks to one who rushes zealously toward some object lying beyond them.
-
-“That is the way it is in the matter of saving. If a man is determined to save and get ahead, the gibes and jeers of his spendthrift acquaintances will not deter him, and he will have the laugh on them later on.
-
-“When a man realizes that money is nothing less than stored labor, and that the more of it he has saved, the less he himself will need to work, because he has stored labor at his command, he has taken a long step in the direction of financial independence. The genuinely thrifty man or woman is not parsimonious or niggardly, but thoroughly sensible in money affairs. Such persons simply look at the question in this way— they don’t know about the future; but they do know that now they are able to earn and save, so they make the most of their present opportunity and prepare themselves for greater ones afterward.”
+> **[enclosure]**
+>
+> ###### “*Getting on in the World*”
+>
+> > “How to succeed, how to get on in the world—that is the problem that millions of earnest men and women are striving to solve, each in his own way, but all, consciously or unconsciously, observing the same general principles. “There is nothing in such an effort at variance with the highest moral standards. In fact, the zealous pursuit of such an object has a beneficial reflex action upon the character, as it has upon the physical and mental nature. “Saving has a beneficial moral effect, but extravagance, as it usually is acting a lie, is essentially immoral and breeds many other irregularities and sins. On the other hand, temperance and integrity go hand in hand with thrift. This course is the harder one, but it is doing hard things that develops strength and character.
+>
+> “Luck is a fetish. Too many persons believe in it, and fall down and worship it. Too often speculation takes the place of industry; gambling, of thrift; extravagance, of saving.
+>
+> “Earnest men think more of pluck than of luck. But the earnest men are so few in the world, as Dwight says, that their very earnestness becomes at once the badge of their nobility; and as men in a crowd instinctively make room for one who seems eager to force his way through it, so people everywhere open their ranks to one who rushes zealously toward some object lying beyond them.
+>
+> “That is the way it is in the matter of saving. If a man is determined to save and get ahead, the gibes and jeers of his spendthrift acquaintances will not deter him, and he will have the laugh on them later on.
+>
+> “When a man realizes that money is nothing less than stored labor, and that the more of it he has saved, the less he himself will need to work, because he has stored labor at his command, he has taken a long step in the direction of financial independence. The genuinely thrifty man or woman is not parsimonious or niggardly, but thoroughly sensible in money affairs. Such persons simply look at the question in this way— they don’t know about the future; but they do know that now they are able to earn and save, so they make the most of their present opportunity and prepare themselves for greater ones afterward.”
 
 T. D. <span class="small-caps">MacGregor</span>
 
@@ -2951,7 +2959,7 @@ MEREDITH NICHOLSON
 
 ### Letter 211: Kathleen Norris
 
-I REGRET sincerely that I had no opportunity to tell you at once how deeply I appreciate having been made the choice of one of your groups of students; I don't think anything could be more touching or gratifying to a woman reaching middle age, who has had her own hard fight for recognition and ideals. Will you tell them that when I look back at the more than twenty years between me and my own student days, my most definite regret is that I did not realize, as a girl, that the valuable thing in life is the *ideal,* rather than the tangible thing. Girls and boys set their hearts upon some special material advantage, and try in their inexperienced way to grasp it, when all the great joys, and the unforeseen opportunities and successes of life, come to those who adopt an ideal of service, of wisdom, self-control, and let the great forces themselves take care of the details. I believe that if such a group of eight said to themselves, “We will be honest, simple, industrious, and our hope will be to serve, rather than to be served; to help, rather than to expect help; and to build with love rather than ever to try to clear our roads with jealousy and hate,” then every one of those eight would become one of the really significant men and women of, say, 1935. We are all sailing under sealed orders in this life, but there are lighthouses on some of the shoals, and surely no modern essay upon ethics contains more of them than the Sermon on the Mount.
+I REGRET sincerely that I had no opportunity to tell you at once how deeply I appreciate having been made the choice of one of your groups of students; I don't think anything could be more touching or gratifying to a woman reaching middle age, who has had her own hard fight for recognition and ideals. Will you tell them that when I look back at the more than twenty years between me and my own student days, my most definite regret is that I did not realize, as a girl, that the valuable thing in life is the *ideal,* rather than the tangible thing. Girls and boys set their hearts upon some special material advantage, and try in their inexperienced way to grasp it, when all the great joys, and the unforeseen opportunities and successes of life, come to those who adopt an ideal of service, of wisdom, self-control, and let the great forces themselves take care of the details. I believe that if such a group of eight said to themselves, “We will be honest, simple, industrious, and our hope will be to serve, rather than to be served; to help, rather than to expect help; and to build with love rather than ever to try to clear our roads with jealousy and hate,” then every one of those eight would become one of the really significant men and women of, say, 1935. We are all sailing under sealed orders in this life, but there are light-houses on some of the shoals, and surely no modern essay upon ethics contains more of them than the Sermon on the Mount.
 
 No poem that I know means more to me than this one by Louise Imogen Guiney, one of our own New England women, who died a year or two ago.
 
@@ -3052,13 +3060,15 @@ The recent Conference in Washington to limit armaments was based upon the recogn
 
 ### Letter 219: Victor Hugo Paltsits
 
-I <span class="small-caps">suppose</span> that every normal being seeks joy. Many fail in the quest because there are so many counterfeits which they follow as false gods. Banks cannot prosper with counterfeits; business cannot succeed on a counterfeit basis—neither can a human life. Integrity is the key to a good name and a good name is retained by everlasting vigilance; it is easy to lose it, because it is harder to build up than to destroy. These are commonplaces, yet it is remarkable that withal they are so much disregarded. I have been thinking a good deal about joy—real joy. It is not found in envy, nor in dissatisfaction with one's lot, nor in shirking duties, nor in numerous counterfeit substitutes for a real life, but
+I <span class="small-caps">suppose</span> that every normal being seeks joy. Many fail in the quest because there are so many counterfeits which they follow as false gods. Banks cannot prosper with counterfeits; business cannot succeed on a counterfeit basis—neither can a human life. Integrity is the key to a good name and a good name is retained by everlasting vigilance; it is easy to lose it, because it is harder to build up than to destroy. These are common-places, yet it is remarkable that withal they are so much disregarded. I have been thinking a good deal about joy—real joy. It is not found in envy, nor in dissatisfaction with one's lot, nor in shirking duties, nor in numerous counterfeit substitutes for a real life, but
 
-Joy, staple and secure,  
-The balm that will endure,  
-In sacrifice is sanctified—  
-Just overcome yourself!  
-For that speed JOY!
+> **[verse_insert]**
+>
+> Joy, staple and secure,  
+> The balm that will endure,  
+> In sacrifice is sanctified—  
+> Just overcome yourself!  
+> For that speed JOY!
 
 Such joy makes of us good friends and good citizens.
 
@@ -3577,9 +3587,11 @@ I remember as a girl, I met James G. Blaine. As I was introduced to him I said: 
 
 To obtain influence, don’t forget good manners are an introduction to much that is best in life. I heard a great lecturer once say that he and President Roosevelt were the only two men he ever heard of who traveled all over Europe and saw the best people, on less than four hundred dollars. “We all know why Roosevelt was entertained,” he said, “but I will tell you my secret. It was because I could say ‘Thank you’ and ‘If you please’ in twenty-one languages!” And if the ability to say, “I am sorry,” and say it quick, is added to the vocabulary of man or maid, much is gained. I have in my possession a telegram that is very precious. It reads:
 
-> Gov. F. H. Pierpont, Alexandria, Va.: I am sorry to have offended you. I thought I was doing what you wished. I will examine the papers in the case tomorrow, and see if this is so.
-
-A. Lincoln
+> **[enclosure]**
+>
+> > Gov. F. H. Pierpont, Alexandria, Va.: I am sorry to have offended you. I thought I was doing what you wished. I will examine the papers in the case tomorrow, and see if this is so.
+>
+> A. Lincoln
 
 No waiting to make sure he was right did the great President allow to come between himself and a friend. Whether he was in the right or not, I do not know. All I know is, he was sorry to have offended a loyal friend and did not hesitate to say so!
 
@@ -4077,25 +4089,27 @@ I hope I have said something in this letter that will inspire and encourage. I h
 
 I <span class="small-caps">enclose</span> a copy of a little article which I wrote some time since, expressing my thoughts in regard to some of the things which hold back either a young man or a young woman in their efforts to succeed in business life. I see no reason to change my opinion regarding any of the statements set forth. I am glad to know of the little company of eight, who are desirous of making the best use of their business education, and after a long business experience, which has covered over sixty years of continuous effort to raise the standards of American business, I stretch forth my hand to each one of them in friendly encouragement, and in the hope that they will keep lighted the torch which is passed on to them by those of the older generation whose places they will be called upon to fill.
 
-An unsuccessful clerk or business man does not need to look far for the cause of his trouble. It is generally in himself or herself. It may be one of this dozen of little things that are not little things:
-
-- 1. He forgets that his worth is manifest by what he produces in management or sales.
-- 2. He finds excuses for *not doing,* instead of finding ways *to do,* what should be done.
-- 3. The world goes ahead in almost every direction, and he keeps on the humdrum turnpike where somebody will have to pay the tolls.
-- 4. He is not observant, accurate or thoughtful.
-- 5. He is sailing by the broken compass of chance.
-- 6. He flatters himself by comparing in his own mirror instead of with others that have passed him in the race.
-- 7. He thinks nobody notices that he has fallen behind.
-- 8. He does not love his work as he used to, and therefore his enthusiasms have been lost.
-- 9. He puts off too many things until tomorrow.
-- 10. He is unconscious of being idle much of his time, and lets the day go by lacking results he could have attained.
-- 11. His lack of thoroughness blocks his leadership.
-- 12. However honorable, he fails to realize that his example affects others.
-When His Majesty, King George, came back from Australia just before his coronation as King, he called the leading business men into the old Guild Hall of London, and told them they must *wake up*, or their provinces would get ahead of them in the Mother Country.
-
-In hundreds of places in the business parts of London, during the Coronation ceremonies, great electric signs in color stood out saying—
-
-> “THE KING SAYS WE MUST *WAKE UP*.”
+> **[enclosure]**
+>
+> An unsuccessful clerk or business man does not need to look far for the cause of his trouble. It is generally in himself or herself. It may be one of this dozen of little things that are not little things:
+>
+> - 1. He forgets that his worth is manifest by what he produces in management or sales.
+> - 2. He finds excuses for *not doing,* instead of finding ways *to do,* what should be done.
+> - 3. The world goes ahead in almost every direction, and he keeps on the humdrum turnpike where somebody will have to pay the tolls.
+> - 4. He is not observant, accurate or thoughtful.
+> - 5. He is sailing by the broken compass of chance.
+> - 6. He flatters himself by comparing in his own mirror instead of with others that have passed him in the race.
+> - 7. He thinks nobody notices that he has fallen behind.
+> - 8. He does not love his work as he used to, and therefore his enthusiasms have been lost.
+> - 9. He puts off too many things until tomorrow.
+> - 10. He is unconscious of being idle much of his time, and lets the day go by lacking results he could have attained.
+> - 11. His lack of thoroughness blocks his leadership.
+> - 12. However honorable, he fails to realize that his example affects others.
+> When His Majesty, King George, came back from Australia just before his coronation as King, he called the leading business men into the old Guild Hall of London, and told them they must *wake up*, or their provinces would get ahead of them in the Mother Country.
+>
+> In hundreds of places in the business parts of London, during the Coronation ceremonies, great electric signs in color stood out saying—
+>
+> > “THE KING SAYS WE MUST *WAKE UP*.”
 
 JOHN WANAMAKER
 
@@ -4284,22 +4298,24 @@ People who live in such ruts see too much of themselves and become dreadful bore
 
 I am and I must quote some lines by McLandburgh Wilson that drive home my message, as I understand it.
 
-### Yourself
-
-Don't think your charity will live  
-   By just donating wealth to it;  
-A check is not enough to give—  
-   You have to add yourself to it.
-
-And likewise come to understand  
-   There is no hidden art to it;  
-'Tis not enough to give your hand  
-   Unless you add your heart to it.
-
-Would you succeed in any plan?  
-   Your strength—you have to spend of it;  
-Your rope won't help a drowning man  
-   Unless you hold your end of it.
+> **[verse_insert]**
+>
+> ###### Yourself
+>
+> Don't think your charity will live  
+>    By just donating wealth to it;  
+> A check is not enough to give—  
+>    You have to add yourself to it.
+>
+> And likewise come to understand  
+>    There is no hidden art to it;  
+> 'Tis not enough to give your hand  
+>    Unless you add your heart to it.
+>
+> Would you succeed in any plan?  
+>    Your strength—you have to spend of it;  
+> Your rope won't help a drowning man  
+>    Unless you hold your end of it.
 
 <span class="small-caps">Mabel Osgood Wright</span>
 

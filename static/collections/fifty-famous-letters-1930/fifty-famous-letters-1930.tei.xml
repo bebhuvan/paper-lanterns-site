@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title>Fifty Famous Letters of History</title>
-        <author>Curtis Gentry (ed.)</author>
+        <editor>Curtis Gentry</editor>
       </titleStmt>
       <publicationStmt>
         <publisher>Paper Lanterns Archival Correspondence Library</publisher>
@@ -14,6 +14,7 @@
       <sourceDesc>
         <bibl>
           <title>Fifty Famous Letters of History</title>
+          <publisher>New York: Thomas Y. Crowell Co., 1930</publisher>
           <date>1930</date>
           <idno type="URI">https://archive.org/details/fiftyfamouslette0000curt</idno>
         </bibl>
@@ -250,18 +251,13 @@
 <head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
 <pb xml:id="page-9" n="9"/><head><hi rend="italic">CURTIS GENTRY</hi></head>
-<head rend="center">FIFTY
-FAMOUS
-LETTERS
-OF
-HISTORY</head>
+<head rend="center">FIFTY<lb/>FAMOUS<lb/>LETTERS<lb/>OF<lb/>HISTORY</head>
 <p rend="imprint"><hi rend="italic">NEW YORK</hi><lb/><hi rend="italic">THOMAS·Y·CROWELL CO.</hi></p>
 <pb xml:id="page-10" n="10"/><p rend="imprint"><hi rend="smallcaps">COPYRIGHT 1930 BY THOMAS Y. CROWELL CO.</hi></p>
 <p rend="imprint"><hi rend="italic">Designed by Werner Helmer</hi><lb/><hi rend="smallcaps">MADE IN THE U. S. A. BY THE VAN REES PRESS</hi></p>
 </div>
 <div xml:id="div-unit-0002" type="document">
-<pb xml:id="page-11" n="11"/><head rend="center"><hi rend="italic">TO
-GRACE</hi></head>
+<pb xml:id="page-11" n="11"/><head rend="center"><hi rend="italic">TO</hi><lb/><hi rend="italic">GRACE</hi></head>
 <p rend="center"><hi rend="italic">In appreciation for helpful suggestions</hi><lb/><hi rend="italic">These pages are dedicated</hi></p>
 </div>
 <div xml:id="div-unit-0003" type="narrative">
@@ -371,7 +367,7 @@ GRACE</hi></head>
 <p rend="center">Effort has been made to trace all copyrighted material to original sources; if any discrepancy has been made the author will make the necessary corrections.</p>
 </div>
 <div xml:id="div-unit-0006" type="apparatus">
-<pb xml:id="page-27" n="27"/><p rend="heading">FIFTY<lb/>FAMOUS<lb/>LETTERS<lb/>OF<lb/>HISTORY</p>
+<pb xml:id="page-27" n="27"/><head rend="center">FIFTY<lb/>FAMOUS<lb/>LETTERS<lb/>OF<lb/>HISTORY</head>
 </div>
 </div>
     </front>
@@ -393,8 +389,7 @@ GRACE</hi></head>
 </div>
 <div xml:id="div-letter-0002" type="letter" corresp="#letter-0002">
 <pb xml:id="page-31" n="5"/><head rend="center">2</head>
-<head rend="center"><hi rend="italic">ALEXANDER THE GREAT
-TO DARIUS</hi></head>
+<head rend="center"><hi rend="italic">ALEXANDER THE GREAT</hi><lb/><hi rend="italic">TO DARIUS</hi></head>
 <p>A <hi rend="smallcaps">young</hi> <hi rend="italic">man, only twenty-three years of age, who had conquered more than half of the civilized world, was sitting in his tent reading a letter. The message was from Darius, the great king of the rich Persian dominions, whose army Alexander had practically destroyed a while before on the plains of Issus. Darius had managed to get together a remnant of his followers and did not stop running until he crossed the Euphrates. Then he organized another great army, larger than that of his pursuer. In this message he was admonishing the upstart from Macedonia for overrunning his kingdom. He did not even address Alexander as king. But fear of further conquest prompted him to offer Alexander half of his realm, with the Euphrates as a boundary, if he would return to Greece. General Parmenio, a wise old counsellor who had followed Phillip, Alexander's father, was urging the young king to accept the proffered terms of peace. Parmenio warned him of the great Persian fleet in his rear, of revolt and other dangers, if he advanced. But in his veins was the lust for power and a vision of a world empire opened before the eyes of the young conqueror.</hi> <pb xml:id="page-32" n="6"/> <hi rend="italic">It was a decisive hour and the destiny of the world was lodged in Alexander's reply. He sent Darius the following letter:</hi></p>
 <p rend="letter_header"><hi rend="italic">"Call Me King"</hi></p>
 <p rend="salutation">D<hi rend="smallcaps">arius</hi>:</p>
@@ -407,8 +402,7 @@ TO DARIUS</hi></head>
 </div>
 <div xml:id="div-letter-0003" type="letter" corresp="#letter-0003">
 <pb xml:id="page-34" n="8"/><head rend="center">3</head>
-<head rend="center"><hi rend="italic">DIOGENES TO THE PEOPLE
-OF SYNOPE</hi></head>
+<head rend="center"><hi rend="italic">DIOGENES TO THE PEOPLE</hi><lb/><hi rend="italic">OF SYNOPE</hi></head>
 <p><hi rend="smallcaps">Diogenes</hi>, <hi rend="italic">the great cynic philosopher, made himself immortal by going about the streets of Athens with a lantern in broad daylight looking for an honest man. Some time before this he had been banished from his native city, Synope, because he had become involved in some financial matters in the banking business. He went to Athens, met the great philosopher Socrates, and became a cynic. Most of the time he begged his living, saying that a philosopher had as much right to ask the people to support him as any king did in levying taxes to support a royal palace. He regarded both as begging. Becoming very happy at Athens he wrote to the people of Synope the following letter:</hi></p>
 <p rend="heading"><hi rend="italic">“I Choose to Be a Vagabond”</hi></p>
 <p rend="salutation">M<hi rend="smallcaps">y</hi> countrymen:</p>
@@ -433,8 +427,7 @@ OF SYNOPE</hi></head>
 <p rend="indented"><hi rend="italic">Tradition says that they both died on the same day. Alexander spent his life in grand robbery, Diogenes in vagabondage; the richest and the poorest; or might it not be reversed? Alexander thought that the greatest virtues were glory and splendor. Diogenes believed that to gain virtue one must avoid all physical pleasure.</hi></p>
 </div>
 <div xml:id="div-letter-0005" type="letter" corresp="#letter-0005">
-<pb xml:id="page-38" n="12"/><head rend="center">4
-<hi rend="italic">CICERO TO JULIUS CÆSAR</hi></head>
+<pb xml:id="page-38" n="12"/><head rend="center">4<lb/><hi rend="italic">CICERO TO JULIUS CÆSAR</hi></head>
 <p><hi rend="smallcaps">During</hi> <hi rend="italic">the great conflict in Rome between Julius Cæsar and Pompey, both of whom were struggling for supreme power, Cicero found himself in a difficult position. By political party and conviction he favored Pompey. At the same time he wanted to help bring peace to his country. Cæsar was very anxious to have Cicero's support. “Still, I have no doubt,” said Cæsar to a friend, “that he hates me bitterly.” Cicero had once saved the nation by thwarting the conspiracy of Cataline, and for which he had been honored with the epithet, “The father of his country.” He was an honest, noble figure; above all a patriot. He saw that the foundations of the Republic were about to give way, and he was doing all he could to save it. The following letter shows a great soul struggling in the midst of a turmoil which involved his personal friendship for Pompey and his love for his country:</hi></p>
 <p rend="letter_header"><hi rend="italic">“A Pious, Good and Grateful Man”</hi></p>
 <p>THE letters Furnius brought me from you surprised me. . . . I confess I did not know what you meant by <pb xml:id="page-39" n="13"/> favor and assistance. But hope led me to an agreeable imagination, that following the dictates of your wonderful and singular wisdom, you had some thought of negotiating a peace, and the concord and union of the city; whereupon I thought myself no improper person for a negotiation of that nature. And if you have in reality any thoughts of reconciling Pompey to you, and the Commonwealth, you could choose no one so proper as myself, who have always persuaded him and the Senate, as soon as I could, against a war; nor since they have taken up arms have I had my hand in their military expeditions.</p>
@@ -478,9 +471,7 @@ OF SYNOPE</hi></head>
 <p><hi rend="italic">Herod lived 62 – 4 B.C.</hi></p>
 </div>
 <div xml:id="div-letter-0008" type="letter" corresp="#letter-0008">
-<pb xml:id="page-48" n="22"/><head rend="center">7
-<hi rend="italic">AUGUSTUS CÆSAR
-TO ROMAN BACHELORS</hi></head>
+<pb xml:id="page-48" n="22"/><head rend="center">7<lb/><hi rend="italic">AUGUSTUS CÆSAR</hi><lb/><hi rend="italic">TO ROMAN BACHELORS</hi></head>
 <p><hi rend="smallcaps">Like</hi> <hi rend="italic">the poor, bachelors are always with us. The Roman Empire's population was being depleted. Wars against the barbarians, as well as the general habits of the Romans, contributed to this situation. Augustus Cæsar, one of the greatest of Roman rulers, unlike many emperors, had his country's welfare sincerely at heart. This interesting and scathing letter to the Roman bachelors, however effective it was at the moment, did not save Rome from its decline and fall.</hi></p>
 <p rend="heading"><hi rend="italic">“Virgins of Rome Are Neglected”</hi></p>
 <p>WRITING to you I am not only at a loss what title to give you, but also find in myself different sentiments from those I usually have when I speak to Romans. As to the first of these, I cannot, I cannot think it proper to call you men, since you give no proof of your <pb xml:id="page-49" n="23"/> manhood, neither can I style you citizens, inasmuch as all your endeavors are directly levelled at the destruction of the city. Nor can I name you Romans, who aim at the abolishing of that very name. . . .</p>
@@ -512,9 +503,7 @@ TO ROMAN BACHELORS</hi></head>
 <p rend="indented"><hi rend="smallcaps">It</hi> <hi rend="italic">is supposed that St. Paul was executed, and was buried in or near Rome.</hi></p>
 </div>
 <div xml:id="div-letter-0010" type="letter" corresp="#letter-0010">
-<pb xml:id="page-56" n="30"/><head rend="center">9
-<hi rend="italic">EMPRESS AGRIPPINA TO
-HER SON, NERO</hi></head>
+<pb xml:id="page-56" n="30"/><head rend="center">9<lb/><hi rend="italic">EMPRESS AGRIPPINA TO</hi><lb/><hi rend="italic">HER SON, NERO</hi></head>
 <p><hi rend="smallcaps">Nero</hi> <hi rend="italic">is the blackest of all the villainous rulers in history. He started well, but ended his own life in disgrace. It was through the influence of his strong-minded mother, Agrippina, that Nero was made emperor, instead of a step-son, Britannicus, who was entitled to the emperorship. His suspicious and cowardly nature led him to put to death his old teacher, Seneca, many innocent and worthy men, his own wife; and, to crown his infamy, he even had his own mother assassinated. On hearing that the Senate had voted his death, he went into hiding, and theatrically stabbing himself, said before passing away, “What a pity for such an artist to die!” The following letter from his mother to him, after hearing that she had been accused of wanting to take his life, is unique among human documents:</hi></p>
 <p rend="salutation"><hi rend="italic">“Unhappy Agrippina!”</hi></p>
 <p>I WONDER not that barren Silana should have no sense of maternal affections. She that never bore a son, <pb xml:id="page-57" n="31"/> might well be ignorant how to bear the loss of one. Nature renders those objects either hateful or indifferent, which do not strike our senses. . . . I am amazed that the utmost magic of words could make you give the least credit to such barbarous inhumanity. . . . Dost thou not know, O Son, the affection all mothers naturally bear their children? Our love is without bounds, being incessantly fed by that tenderness which is incredible to all but ourselves. Nothing ought to be more dear to us than what we have purchased with the risk of our lives; nothing more valuable than what we have undergone so great grief and pain to procure. These are so sharp and intolerable, that were it not for the prospect of a happy birth, which makes us unmindful of our agonies, generation would soon be at an end. Can'st thou be ignorant that nine full months I have carried thee in my bowels, and nourished thee with my blood? How likely is it then that I would destroy that very darling I had taken so much care to bring into the world? It may be the just gods took offense at my over fondness of thee, and made use of this way to punish me. . . .</p>
@@ -539,13 +528,11 @@ HER SON, NERO</hi></head>
 </div>
 <div xml:id="div-unit-0029" type="editorial">
 <pb xml:id="page-63" n="37"/><head rend="center">11</head>
-<head rend="center"><hi rend="italic">MARCUS AURELIUS
-TO SOME WOMEN OF ROME</hi></head>
+<head rend="center"><hi rend="italic">MARCUS AURELIUS</hi><lb/><hi rend="italic">TO SOME WOMEN OF ROME</hi></head>
 <p>A <hi rend="smallcaps">few</hi> <hi rend="italic">clever women, for once at least, found a match for their wit in the great philosopher and Emperor of Rome, Marcus Aurelius. Rudyard Kipling, who wrote “The Female of the Species,” a poem which aroused the ire of the women of two continents a few years ago, must have been familiar with Aurelius' letter to these presumptuous ladies of Rome. After satirizing the great philosopher, they had the audacity to ask of him a favor. He surprised them by granting it. His reply to a certain question which they propounded to him was the occasion for one of the greatest satires on women that has ever been written. It follows:</hi></p>
 </div>
 <div xml:id="div-letter-0012" type="letter" corresp="#letter-0012">
-<head rend="center"><hi rend="italic">“The Lion May Be Subdued,
-But Woman—?”</hi></head>
+<head rend="center"><hi rend="italic">“The Lion May Be Subdued,</hi><lb/><hi rend="italic">But Woman—?”</hi></head>
 <p>WHILST I continue at Rhodes, improving myself in the art of oratory, you, I understand, have made and <pb xml:id="page-64" n="38"/> played a farce upon me at Rome. . . . It seems you presented me after different manners. You gave me a book turned upside down, to signify I was an absurd philosopher. You made me go with my tongue lolling out to show I was a bold speaker. You planted horns upon my head to make me pass for a common cuckold. You put a trayling pike in my hand to denote me a cowardly leader. You represented me with no beard as an effeminate person. And lastly, bound a handkerchief about my eyes to make me look as if I had been a condemned criminal. . . .</p>
 <p rend="indented">You made a statue with feet of straw, legs of wood, thighs of brass, belly of horn, arms of pitch, hands of paste, head of plaster, asses' ears, serpents' eyes, cats' teeth, a scorpion's tongue, hair of vine roots and forehead of lead. . . . Now after these affronts you put upon me, I cannot but wonder how you could have had the assurance to send Fulvius Fabritius to ask me a question in your names? Yet to show you your harmless satire does not in the least affect me, I will gratify your request, though you have so little deserved it of me. Your question is whether I have found in all the course of my reading, of what, by whom, where, when and how the first woman was made? . . .</p>
 <p rend="indented">The Egyptians held that by the overflowing of the Nile, certain fat clots of earth being thrown upon the <pb xml:id="page-65" n="39"/> shore, and there left, upon the reflux of the sun, by its prolific virtue impregnated them, and turned them to worms, one of which afterwards became a woman.... Woman was at first irregular in birth so has she been ever since.... Be the lion never so wild, at length he may be brought to be led by his keeper; be the bull never so fierce, at last he may be taken by the horns. The horse in time submits to the bit, and the young colt to the saddle, only woman, the most perverse of all animals, never loses either her imperiousness or disobedience. The gods have made men wise, and endowed beasts with natural instinct, yet are neither of them able to defend themselves against the subtleties of woman. Her obstinacy also is not less than her cunning; for if she has a mind to stay, no spur can make her go forward; and if on the contrary she inclines to go, no reins can hold her in.... Where once she entertains an opinion all the arguments of the world shall not beat her out of it....</p>
@@ -554,8 +541,7 @@ But Woman—?”</hi></head>
 </div>
 <div xml:id="div-unit-0031" type="editorial">
 <pb xml:id="page-67" n="41"/><head rend="center">12</head>
-<head rend="center"><hi rend="italic">THE EMPEROR AURELIAN TO
-QUEEN ZENOBIA, AND HER REPLY</hi></head>
+<head rend="center"><hi rend="italic">THE EMPEROR AURELIAN TO</hi><lb/><hi rend="italic">QUEEN ZENOBIA, AND HER REPLY</hi></head>
 <p><hi rend="smallcaps">Zenobia</hi>, <hi rend="italic">Queen of Palmyra, a city state in Persia, was famed for her virtue in private life. A brave, capable and determined ruler, she defied Aurelian, Emperor of Rome, when he demanded that she deliver her city to him. Although the Romans usually heaped praise upon the Emperor who extended the Roman territory, in this instance they ridiculed their Emperor for his ungallant attitude toward the popular Queen of the East. His letter to her follows:</hi></p>
 </div>
 <div xml:id="div-letter-0013" type="letter" corresp="#letter-0013">
@@ -583,9 +569,7 @@ QUEEN ZENOBIA, AND HER REPLY</hi></head>
 <p rend="indented">But from what you have since done and decreed, it is evident how little you care for our warnings, or for the observance of justice. . . . But since we hope that, while the long-suffering patience of God still invites you to repent, you may become wiser and your heart may be turned to obey the commands of God, we warn you with fatherly love that . . . you should consider how dangerous it is to place your honor above <hi rend="smallcaps">His</hi>.</p>
 </div>
 <div xml:id="div-unit-0036" type="editorial">
-<pb xml:id="page-74" n="48"/><head rend="center">14
-<hi rend="italic">HENRY IV. OF GERMANY TO
-POPE GREGORY VII.</hi></head>
+<pb xml:id="page-74" n="48"/><head rend="center">14<lb/><hi rend="italic">HENRY IV. OF GERMANY TO</hi><lb/><hi rend="italic">POPE GREGORY VII.</hi></head>
 <p><hi rend="smallcaps">For</hi> <hi rend="italic">writing the following letter to Pope Gregory, Henry IV. was excommunicated. It was in answer to Gregory's letter to him requesting the King to confess his sins. Henry's friends fell away, unable to stand before the terrible papal bull. The King hurried to meet the Pope at Conossa, who was already on his way across the Alps. Gregory refused to see Henry, and the latter stood barefoot in the snow for three days, wearing a penitent's garb. Admitted finally into the presence of the Pope, Henry threw himself at Gregory's feet crying, "Spare me, Holy Father, spare me!" Gregory was moved to tears and gave Henry the kiss of peace. In this letter Henry hints at the irregularity of the election of Gregory to the head of the church. Gregory was elected Pope by the people of Rome, but this action was later approved by the cardinals. Here is the fiery epistle which made this great chapter in history:</hi></p>
 </div>
 <div xml:id="div-letter-0016" type="letter" corresp="#letter-0016">
@@ -616,8 +600,7 @@ POPE GREGORY VII.</hi></head>
 <p><hi rend="smallcaps">The</hi> <hi rend="italic">vanity in us all makes us want to leave something to be remembered by when we are gone. This was especially characteristic of Petrarch and the scholars of the Renaissance. Petrarch was the greatest scholar of this period. He was intensely human, as the following letter will show. Some peculiar whim moved him to write this letter to posterity. The idea of the letter itself, and the wit and subtle humor of its passages, have made it one of the world's greatest epistles.</hi></p>
 </div>
 <div xml:id="div-letter-0018" type="letter" corresp="#letter-0018">
-<head rend="center"><hi rend="italic">"If I Only Lived Well,
-It Matters Little How I Talked"</hi></head>
+<head rend="center"><hi rend="italic">"If I Only Lived Well,</hi><lb/><hi rend="italic">It Matters Little How I Talked"</hi></head>
 <p><hi rend="smallcaps">Greeting</hi>— It is possible that some word of me have come to you, though even this is doubtful, since an insignificant and obscure name will scarcely penetrate far in either time or space. If, however, you should <pb xml:id="page-83" n="57"/> have heard of me, you may desire to know what manner of man I was. . . .</p>
 <p rend="indented">To begin with myself, then, the utterances of men concerning me will differ widely, since in passing judgment almost every one is influenced not so much by truth as by preference, and good and evil report alike know no bounds. I was, in truth, a poor mortal like yourself, neither very exalted in my origin, nor, on the other hand, of the most humble birth, but belonging, as Augustus Cæsar says of himself, to an ancient family. As to my disposition, I was not naturally perverse or wanting in modesty, however, the contagion of evil associations may have corrupted me. My youth was gone before I realized it; I was carried away by the strength of manhood; but a riper age brought me to my senses and taught me, by experience, the truth I had long before read in books, that youth and pleasure are vanity—nay, that the Author of all ages and times permits us miserable mortals, puffed up with emptiness, thus to wander about, until finally, coming to a tardy consciousness of our sins, we shall learn to know ourselves. . . .</p>
 <p rend="indented">I have always expressed an extreme contempt for wealth. . . . Nothing displeases me more than display. . . .</p>
@@ -655,8 +638,7 @@ It Matters Little How I Talked"</hi></head>
 </div>
 <div xml:id="div-unit-0046" type="editorial">
 <pb xml:id="page-92" n="66"/><head rend="center">19</head>
-<head rend="center"><hi rend="italic">POPE LEO X. TO DUKE GEORGE
-OF SAXONY</hi></head>
+<head rend="center"><hi rend="italic">POPE LEO X. TO DUKE GEORGE</hi><lb/><hi rend="italic">OF SAXONY</hi></head>
 <p><hi rend="smallcaps">When</hi> <hi rend="italic">Pope Leo X heard that Martin Luther had rebelled against certain practices of the Catholic church, he “flew up in arms” and wrote the most powerful princes and churchmen in Germany to extirpate the “only son of Satan.” In one of these letters he calls Luther an “infected scrofulous sheep” which must not be allowed to “grow strong in the healthy sheepfold of the Lord.” The following letter reveals the indignation of the Pope, and at the same time marks the beginning of one of the greatest movements in history, the Reformation:</hi></p>
 </div>
 <div xml:id="div-letter-0021" type="letter" corresp="#letter-0021">
@@ -709,9 +691,7 @@ OF SAXONY</hi></head>
 <closer><salute rend="right">At your Lordship's commandment,</salute><signed rend="right">W. Essex.</signed><address><addrLine>To <hi rend="italic">the Right Honorable my very good Lord, the Lord Burleigh, Lord Treasurer of England.</hi></addrLine></address></closer>
 </div>
 <div xml:id="div-unit-0054" type="editorial">
-<pb xml:id="page-105" n="79"/><head rend="center">23
-<hi rend="italic">MARY QUEEN OF SCOTS TO HER LOVER,
-THE EARL OF BOTHWELL</hi></head>
+<pb xml:id="page-105" n="79"/><head rend="center">23<lb/><hi rend="italic">MARY QUEEN OF SCOTS TO HER LOVER,</hi><lb/><hi rend="italic">THE EARL OF BOTHWELL</hi></head>
 <p><hi rend="smallcaps">Unhappy</hi> <hi rend="italic">Mary Queen of Scots! Beautiful, as a queen should be, brilliant, affable, defiant, fervent in love, she was the victim of an indecent court in youth, being trained by Catherine de Medici in France; a victim of two unhappy marriages which were forced upon her by circumstances, a third and the only marriage of love ending in the banishment of her husband and the loss of her throne; accused of the murder of her second husband; thrown into the hands of her English enemies, once befriended by her cousin, Queen Elizabeth, who later signed Mary's death warrant, though reluctantly; going to her death praying for her enemies and Queen Elizabeth, asking her executioners to admit some of her subjects so that they might see how bravely a queen could die; misrepresented, the victim of ambitious plots and her own passions, welcoming death to put an end to her troubles — this queen presents a life which those who read with an unbiased mind, find much to censure, more to love, and still more to pity — truly a tragic life, a life which found itself unable to withstand the cruel flings of an indifferent world. The following is one of the love letters for which she has become famous:</hi></p>
 </div>
 <div xml:id="div-letter-0025" type="letter" corresp="#letter-0025">
@@ -728,8 +708,7 @@ THE EARL OF BOTHWELL</hi></head>
 <p><hi rend="italic">Elizabeth was driven, step by step, by political circumstances, to imprison Mary. Although accused of being jealous of Mary's beauty and power, to which there may be some truth, at the same time, Elizabeth's position as Queen, surrounded by factions also, naturally made her sympathize with her cousin. Mary was accused of conspiring against Elizabeth's life, was tried and sentenced to death. Elizabeth was reluctant to sign the death warrant, and after she had done so, expressed regret that one of Mary's</hi> <pb xml:id="page-110" n="84"/> <hi rend="italic">keepers had not found a way to shorten the latter's life, thereby relieving her of a great responsibility. Mary was of a defiant disposition. The following letter gives us an insight into the relations between the two, which ended in the tragedy the world will never forget:</hi></p>
 </div>
 <div xml:id="div-letter-0026" type="letter" corresp="#letter-0026">
-<head rend="center"><hi rend="italic">“Your Cousin That Wisheth
-You a Better Mind”</hi></head>
+<head rend="center"><hi rend="italic">“Your Cousin That Wisheth</hi><lb/><hi rend="italic">You a Better Mind”</hi></head>
 <opener><dateline rend="right">February 1, 1571.</dateline><salute>MADAM:</salute></opener>
 <p>Of late I have received divers letters from you, which you may well guess, by the accidents of the time, why I have not answered, but specially because I saw no matter in them that required any such answer as could have contented you, and to have discontented you would have been an increase of your impatience, which I thought time would have mitigated, as it commonly does where the cause thereof is not truly grounded, as it is in this case. But now finding by your last letter of the 27th, an increase of your impatience, tending also to many uncomely, passionate and vindictive speeches, I thought to change my former opinion, and by patient and advised words to move you to stay, or else to qualify your passions, and consider that it is not the manner to obtain good <pb xml:id="page-111" n="85"/> things with evil speeches, nor benefits with injurious challenges, nor to get good to yourself by doing evil to another.</p>
 <p rend="indented">And yet, to avoid the fault which I note you have committed in filling a long letter with a multitude of sharp and injurious words, I will not by way of letter write any more of the matter, but have rather chosen to commit to my cousin, the Earl of Shrewsbury, the things which I have thought meet, upon the reading of your letters, to impart unto you. Wherewith, I think if reason may be present with you, and passion absent, at the reading, you will follow hereafter the course of the last part of your letter than the first; the latter being written as in a calm and the former in a storm. Wishing to you the same grace of God that I wish to myself, and that He may direct you to desire and attain to that which is meet for His honor and your quietness, with contention both of body and mind. Given at my Palace of Westminster the first day of February 1571.</p>
@@ -776,8 +755,7 @@ You a Better Mind”</hi></head>
 <p><hi rend="smallcaps">Oliver Cromwell</hi> <hi rend="italic">won the great battle of Marston Moor with an army of farmers who went into the fight singing the Old Testament Psalms. His troop was known as “Ironsides.” He felt that religious enthusiasm was a great factor in winning battles. His men were free from the usual license of the camp. They were truly Godly men. In selecting these men for soldiers there was a bit of strategy, as well as sincerity, on Cromwell’s part. It is well known to students of history that he was uniformly successful in this war against the tyrannical Charles I., the latter losing his throne and his head as a result of the war, and Cromwell becoming Lord Protector of England. The following letter to one of his subordinates is significant because it gives Cromwell’s idea of what he wanted his army to be:</hi></p>
 </div>
 <div xml:id="div-letter-0029" type="letter" corresp="#letter-0029">
-<head rend="center"><hi rend="italic">“He That Prays and Preaches Best
-Will Fight Best”</hi></head>
+<head rend="center"><hi rend="italic">“He That Prays and Preaches Best</hi><lb/><hi rend="italic">Will Fight Best”</hi></head>
 <opener><dateline rend="right">December 25, 1650</dateline></opener>
 <p><hi rend="smallcaps">Sir</hi>: I have the best consideration for the present in this business, and although I believe Captain Hubbert <pb xml:id="page-121" n="95"/> is a worthy man, and hear so much, yet as the cause stands, I cannot with satisfaction to myself and some others, revoke the commission I had given to Captain Empson, without offense to them and reflection upon my own judgment. I pray let Captain Hubbert know I shall not be unmindful of him, and that no disrespect is intended to him. But indeed I was not satisfied with your last speech to me about Empson, that he was a better preacher than a fighter or soldier, or words to that effect. Truly I think he that prays and preaches best will fight best. I know nothing will give like courage and confidence as the knowledge of God in Christ will, and I bless God to see any in this army able and willing to impart the knowledge they have for the good of others. And I expect it to be encouraged by all chief officers in this army especially: and I hope you will do so. I pray receive Captain Empson lovingly. I dare assure you he is a good man and a good officer. I would we had no worse.</p>
 <closer><salute rend="cascading">I rest<lb/>Your loving friend,</salute><signed rend="right">O. Cromwell.</signed><address><addrLine><hi rend="italic">To Colonel Francis Hacker</hi></addrLine><addrLine><hi rend="italic">at Pebles.</hi></addrLine></address></closer>
@@ -802,8 +780,7 @@ Will Fight Best”</hi></head>
 <p><hi rend="smallcaps">It</hi> <hi rend="italic">is not easy to judge the religion of a man who criticizes the Church. Voltaire attacked the Church mercilessly. He believed that it was responsible for most of the evils of his day. He was blind to the good that it had done. As a result, his attitude toward religion has many times been misunderstood. There is a work entitled: “Voltaire in Hades.” The truth is, Voltaire was a firm believer in God. At his country home on Lake Geneva he erected a temple which he dedicated to the God of Nature. He defended the existence of the soul, and pronounced Baron d’ Holbach’s book, “The System of Nature” (on the necessity of Atheism) as a “sin against nature.” Truly he was a breaker of images, but he wrote in defense of human freedom, especially the free exercise of reason. Lowell said that we owe half of our liberties to that “leering old mocker.” He wrote dramas, histories, philosophic works, romances, epics and innumerable letters. The following letter is of interest because of Voltaire’s defense of God and the soul.</hi></p>
 </div>
 <div xml:id="div-letter-0031" type="letter" corresp="#letter-0031">
-<pb xml:id="page-128" n="102"/><head rend="center"><hi rend="italic">‘If There Were No God It Would
-Be Necessary to Invent One”</hi></head>
+<pb xml:id="page-128" n="102"/><head rend="center"><hi rend="italic">‘If There Were No God It Would</hi><lb/><hi rend="italic">Be Necessary to Invent One”</hi></head>
 <opener><salute>MONSEIGNEUR, the royal family of Prussia has excellent reasons for not wishing the annihilation of the soul. It has more right than anyone to immortality.</salute></opener>
 <p>It is very true that we do not know any too well what the soul is: no one has ever seen it. All that we do know is that the eternal Lord of Nature has given us the power of thinking, and of distinguishing virtues. It is not proved that this faculty survives our death; but the contrary is not proved either. It is possible, doubtless, that God has given thought to a particle, which, after we are no more, He will still give the power of thought; there is no inconsistency in this idea.</p>
 <p>In the midst of all the doubts which we have discussed for four thousand years in four thousand ways, the safest course is to do nothing against one’s conscience. With this secret, we can enjoy life and can have nothing to fear from death.</p>
@@ -838,9 +815,7 @@ Be Necessary to Invent One”</hi></head>
 <closer><signed rend="right">Frederick.</signed></closer>
 </div>
 <div xml:id="div-unit-0073" type="editorial">
-<pb xml:id="page-135" n="109"/><head rend="center">31
-<hi rend="italic">THE EARL OF CHESTERFIELD TO
-HIS SON, PHILIP STANHOPE</hi></head>
+<pb xml:id="page-135" n="109"/><head rend="center">31<lb/><hi rend="italic">THE EARL OF CHESTERFIELD TO</hi><lb/><hi rend="italic">HIS SON, PHILIP STANHOPE</hi></head>
 <p><hi rend="smallcaps">The</hi> <hi rend="italic">Earl of Chesterfield, who married the daughter of a king, rose to be Lord Protector of Ireland and became Secretary of State, is remembered best for what he wanted to be remembered by least, or not at all, and that is, the letters to his son. And what he wanted to be remembered by, his acts and writings, have been forgotten. He became an ally of the great Pitt and an enemy of Robert Walpole. He was tremendously in earnest about the education of his son, and his letters are full of sincere advice. Much of this advice is of the best kind, while a great deal of it would not today, or even then, be suitable for any son, according to critics of the great Earl. It many times happens that what is not intended to be literature is the most interesting of all literature, because such writings very often are unaffected effusions of the heart and soul. The following is typical:</hi></p>
 </div>
 <div xml:id="div-letter-0034" type="letter" corresp="#letter-0034">
@@ -864,14 +839,11 @@ HIS SON, PHILIP STANHOPE</hi></head>
 <closer><salute rend="cascading">My Lord,<lb/>Your Lordship's most humble,<lb/>Most obedient servant,</salute><signed rend="right">Sam. Johnson.</signed></closer>
 </div>
 <div xml:id="div-unit-0077" type="editorial">
-<pb xml:id="page-142" n="116"/><head rend="center">33
-<hi rend="italic">GEORGE WASHINGTON TO THE
-CONTINENTAL CONGRESS</hi></head>
+<pb xml:id="page-142" n="116"/><head rend="center">33<lb/><hi rend="italic">GEORGE WASHINGTON TO THE</hi><lb/><hi rend="italic">CONTINENTAL CONGRESS</hi></head>
 <p>“<hi rend="smallcaps">Fighting</hi> <hi rend="italic">will be far preferable to starving,”</hi> <hi rend="italic">wrote General Huntington to General Washington, when the latter ordered him to be in readiness to march against the enemy. This was during the terrible winter at Valley Forge. Washington’s generals were complaining because of a lack of provisions. In vain the great commander had urged the Continental Congress to send food and clothing. He was forced to do what all honest generals dislike very much to do — forage the surrounding country and seize supplies wherever he could find them. Although he had been given this authority by Congress, he “had a strong sympathy with the cultivators of the soil and ever regarded the yeomanry with a paternal eye.” He was accused, by his enemies, of being wilfully inactive, when in reality he could not fight because he had nothing with which to fight. His army was small, and what men he had were either freezing to death or starving. A dangerous mutiny had occurred among General Varnum’s men which had been very difficult to put down. There were provisions aplenty lying at different places “on the roads and in the woods,” perishing for want of ways to transport them. Such was the inefficiency of</hi> <pb xml:id="page-143" n="117"/> <hi rend="italic">Congress and the commissariat. It was under these circumstances that Washington wrote the following famous letter:</hi></p>
 </div>
 <div xml:id="div-letter-0036" type="letter" corresp="#letter-0036">
-<head rend="center"><hi rend="italic">“On a Cold, Bleak Hill Without
-Clothes or Blankets”</hi></head>
+<head rend="center"><hi rend="italic">“On a Cold, Bleak Hill Without</hi><lb/><hi rend="italic">Clothes or Blankets”</hi></head>
 <opener><dateline rend="right">December 23, 1777</dateline></opener>
 <p>THOUGH I had been tender, heretofore, of giving any opinion, or lodging complaints, as the change in that department took place contrary to my judgment, and the consequences thereof were predicted; yet, finding that the inactivity of the army, whether for want of provisions, clothes, or other essentials, is charged to my account, not only by the common vulgar but by those in power, it is time to speak plain in exculpation of myself. With truth, then, I can declare that no man, in my opinion, ever had his measures more impeded than I have by every department of the army....</p>
 <p rend="indented">As a proof of the little benefit received from a clothier-general, and as a further proof of the inability of any army, under the circumstances of this, to perform the common duties of soldiers,... we have, by a <pb xml:id="page-144" n="118"/> field return this day made, no less than two thousand eight hundred and ninety-eight men now in camp unfit for duty, because they are barefoot and otherwise naked. . . . Since the 4th instant, our numbers fit for duty, from the hardships and exposures they have undergone, particularly <hi rend="italic">on account of blankets, ( numbers have been obliged, and still are, to sit up all night by fires instead of taking comfortable rest in a natural and common way)</hi>, have decreased near to two thousand men.</p>
@@ -882,8 +854,7 @@ Clothes or Blankets”</hi></head>
 </div>
 <div xml:id="div-unit-0079" type="editorial">
 <pb xml:id="page-146" n="120"/><head rend="center">34</head>
-<head rend="center"><hi rend="italic">THOMAS PAINE
-TO GEORGE WASHINGTON</hi></head>
+<head rend="center"><hi rend="italic">THOMAS PAINE</hi><lb/><hi rend="italic">TO GEORGE WASHINGTON</hi></head>
 <p>“<hi rend="smallcaps">Tyranny</hi>, <hi rend="italic">like hell, is not easily conquered,”</hi> <hi rend="italic">were a few of the ringing words which Thomas Paine, soldier of fortune, wrote during the American Revolution to stir the people to action against the British. Benjamin Franklin had persuaded him to come to America and edit the Pennsylvania Magazine. After the Revolution Paine went to France and became involved in the intrigues of the French Revolution. He was arrested and imprisoned. He disliked Washington very much because the latter did not get him released. He also had a natural dislike for Washington’s conservative policies, Paine thinking the United States should have had a freer government. This stinging letter to Washington is unique of its kind in all history. It has become so famous that it is known as Thomas Paine’s letter.</hi></p>
 </div>
 <div xml:id="div-letter-0037" type="letter" corresp="#letter-0037">
@@ -896,9 +867,7 @@ TO GEORGE WASHINGTON</hi></head>
 <closer><signed rend="right">Thomas Paine.</signed></closer>
 </div>
 <div xml:id="div-unit-0081" type="editorial">
-<pb xml:id="page-150" n="124"/><head rend="center">35
-<hi rend="italic">MADAME SEVIGNE TO HER DAUGHTER,
-MADAME DE GRIGNAN</hi></head>
+<pb xml:id="page-150" n="124"/><head rend="center">35<lb/><hi rend="italic">MADAME SEVIGNE TO HER DAUGHTER,</hi><lb/><hi rend="italic">MADAME DE GRIGNAN</hi></head>
 <p><hi rend="smallcaps">Every</hi> <hi rend="italic">honest trade has its noblemen. "Put thy heart into thy trowel," said an old Frenchman. Joy comes to the man who does his work well, be it ever so small. Men and women bury themselves in their trade and forget the cares of a troublous world. The butcher is just as proud of the finesse with which he cuts a steak, as the statesman is of an eloquent speech; the cook is just as proud of her cake, as the poet is of his verse. Pride in achievement is the mainspring of human progress. There is honor in every trade. A brick mason can rightly feel himself disgraced if his work is toppled by the first storm. Even the housewife has her pride. What hostess has not at some time been embarrassed by the insufficiency of her table? The meat would not go round, or the biscuits ran out. Men have died for the honor of their trade. The little story narrated in the following letter by Madame Sévigné, the celebrated Frenchwoman, whose beautiful letters have become known far beyond the realm of France, shows to what extremities men may go for the glory of their handiwork:</hi></p>
 </div>
 <div xml:id="div-letter-0038" type="letter" corresp="#letter-0038">
@@ -907,8 +876,7 @@ MADAME DE GRIGNAN</hi></head>
 <p>THIS is Sunday, April 26th, and this letter will not go out till Wednesday; but it is not so much a letter as a narrative that I have just learned from Moreuil, of what passed at Chantilly with regard to poor Vatel. I wrote to you last Friday that he had stabbed himself — these are the particulars of the affair: The King arrived there on Thursday night; the walk, and the collation, which was served in a place set apart for the purpose, and strewed with jonquils, were just as they should be. Supper was served, but there was no roast meat at one or two of the tables, on account of Vatel’s having been obliged to provide several dinners more than were expected. This affected his spirits, and he was heard to say, several times, “I have lost my honor! I cannot bear this disgrace!” “My head is quite bewildered,” said he to Gourville. “I have not had a wink of sleep these twelve nights; I wish you would assist me in giving orders.” Gourville did all he could to comfort and assist him; but the failure of the roast meat ( which, however, did not happen at the King’s <pb xml:id="page-152" n="126"/> table, but at some of the other twenty-five), was always uppermost with him. Gourville mentioned it to the Prince, who went directly to Vatel's apartment, and said to him: “Everything is extremely well conducted, Vatel; nothing could be more admirable than his majesty's supper.” “Your highness's goodness,” replied he, “overwhelms me; I am sensible that there was a deficiency of roast meat at two tables.” “Not at all,” said the Prince; “do not perplex yourself, and all will go well.” Midnight came; the fireworks did not succeed, they were covered with a thick cloud; they cost sixteen thousand franks. At four o'clock in the morning Vatel went round and found everybody asleep; he met one of the under-purveyors, who had just come in with only two loads of fish. “What!” said he, “is this all?” “Yes, sir,” said the man, not knowing that Vatel had dispatched other people to all the seaports around. Vatel waited for some time; the other purveyors did not arrive; his head grew distracted; he thought there was no more fish to be had. He flew to Gourville: “Sir,” said he, “I cannot outlive this disgrace.” Gourville laughed at him. Vatel, however, went to his apartment, and setting the hilt of his sword against the door, after two ineffectual attempts, succeeded in the third, in forcing his sword through his heart. At that instant the carriers arrived with the fish; Vatel was <pb xml:id="page-153" n="127"/> inquired after to distribute it. They ran to his apartment, knocked at the door, but received no answer, upon which they broke it open, and found him lying in a sea of blood. A messenger was immediately dispatched to acquaint the Prince with what had happened, who was like a man in despair. The Duke wept, for his Burgundy journey depended upon Vatel. The Prince related the whole affair to his majesty with great concern; it was considered as a consequence of too nice a sense of honor; some blamed, others praised him for his courage. The King said he had put off this excursion for more than five years because he was aware it would be attended with infinite trouble. He told the Prince that he ought to have had but two tables, and not have been at the expense of so many, and declared that he would never suffer him to do so again; but all this was too late for poor Vatel. However, Gourville attempted to supply the loss of Vatel which he did in great measure. The dinner was elegant, the collation the same. They supped, they walked, they hunted; all was perfumed with jonquils, all was enchantment. . . .</p>
 </div>
 <div xml:id="div-unit-0083" type="editorial">
-<pb xml:id="page-154" n="128"/><head rend="center">36
-<hi rend="italic">FRANKLIN TO STRAHAN</hi></head>
+<pb xml:id="page-154" n="128"/><head rend="center">36<lb/><hi rend="italic">FRANKLIN TO STRAHAN</hi></head>
 <p>A <hi rend="smallcaps">poor</hi> <hi rend="italic">boy at sixteen, wealthy enough to retire at forty-two and devote the rest of his life to public service, printer, inventor, scientist, philosopher, statesman, Benjamin Franklin, Doctor Franklin, they called him in Europe, the first self-made American, set an example of success, human benefaction and patriotism that has never been surpassed in our history. His patriotism never received the glamour that surrounded Washington, because its expression lay along quieter channels, but through his negotiations in England and France he proved himself to be so valuable a factor that, without his labors, America might not have gained her freedom. The following cryptic letter to his old friend, Strahan, in England, has long been famous because of its patriotic fervor and unique ending. It is the shortest famous letter ever written by an American.</hi></p>
 </div>
 <div xml:id="div-letter-0039" type="letter" corresp="#letter-0039">
@@ -946,8 +914,7 @@ MADAME DE GRIGNAN</hi></head>
 </div>
 <div xml:id="div-unit-0089" type="editorial">
 <pb xml:id="page-163" n="137"/><head rend="center">39</head>
-<head rend="center"><hi rend="italic">SIR WALTER SCOTT TO THE DUKE
-OF BUCCLEUCH</hi></head>
+<head rend="center"><hi rend="italic">SIR WALTER SCOTT TO THE DUKE</hi><lb/><hi rend="italic">OF BUCCLEUCH</hi></head>
 <p><hi rend="smallcaps">At</hi> <hi rend="italic">Waterloo, the little Emperor who had boasted that Europe needed a Big Boss, took to his heels and left the field of honor in the hands of his old enemy, England, with the Duke of Wellington made immortal. As one star rose another fell. The days of glory of the great Corsican were over; the rest was retribution. Lucifer had fallen. Yesterday he was dispensing thrones to his brothers and generals. Within a few years he had risen from poverty and obscurity to be the most powerful man of his age, if not of all time. It had been a wonderful drama. The world stood aghast! It had admired his rise, had cursed his ambition, and now it was to laugh at him, scorn him, pity him. The lion was to be caged. St. Helena was to be his grave, Paris his sepulcher. He once had the whole of Europe almost within his grasp, but his last days were spent in a little, cramped, imprisoned place, hardly big enough in which to die. Yet today he remains the most fascinating figure the world has ever known. The following letter, describing his behavior at the battle of Waterloo, will live for years to come:</hi></p>
 </div>
 <div xml:id="div-letter-0042" type="letter" corresp="#letter-0042">
@@ -959,8 +926,7 @@ OF BUCCLEUCH</hi></head>
 </div>
 <div xml:id="div-unit-0091" type="editorial">
 <pb xml:id="page-167" n="141"/><head rend="center">40</head>
-<head rend="center"><hi rend="italic">JANE WELSH CARLYLE TO
-THOMAS CARLYLE</hi></head>
+<head rend="center"><hi rend="italic">JANE WELSH CARLYLE TO</hi><lb/><hi rend="italic">THOMAS CARLYLE</hi></head>
 <p>A <hi rend="smallcaps">great</hi> <hi rend="italic">genius is often a poor husband. The marital life of Thomas Carlyle and Jane Welsh was a domestic drama of bitterness and the deepest love. Both were irritable, due to considerable illness; both were quick-tempered. Carlyle was afflicted with chronic indigestion. The worst punishment he thought suitable for Satan would be to compel the latter to “try to digest for all eternity with my stomach.” Mrs. Carlyle once said that living with him was like living with a lunatic. But she loved him deeply. He had found it very difficult to win the brilliant and beautiful Jane Welsh, descendant of John Knox and William Wallace. Their early married life was filled with poverty and spiritual stress. Her letters written to him during periods of absences from each other are among the best in the English language. They reflect a very interesting personality. She was a woman and wanted her husband to show the affection due to a wife. “You don’t want to be praised for doing your duty,” he once said to her. “I did though,” she wrote. What woman doesn’t? She was proud of Carlyle and was one of the first to recognize his genius. What wife, what</hi> <pb xml:id="page-168" n="142"/> <hi rend="italic">husband, has not experienced something like the incident described in the following touching little letter?</hi></p>
 </div>
 <div xml:id="div-letter-0043" type="letter" corresp="#letter-0043">
@@ -1036,8 +1002,7 @@ THOMAS CARLYLE</hi></head>
 <closer><salute rend="right">Yours very sincerely.</salute></closer>
 </div>
 <div xml:id="div-unit-0103" type="editorial">
-<pb xml:id="page-184" n="158"/><head rend="center">45
-<hi rend="italic">LINCOLN TO GENERAL HOOKER</hi></head>
+<pb xml:id="page-184" n="158"/><head rend="center">45<lb/><hi rend="italic">LINCOLN TO GENERAL HOOKER</hi></head>
 <p><hi rend="smallcaps">The</hi> <hi rend="italic">Civil War at its height. The South was winning. Lincoln had tried one general after another, and they had failed him. He was looking for a real fighter to cope with the genius of Lee and his generals. He saw such a fighter in General Hooker. Although Hooker had ability he was ambitious, and had distrusted his commander, General Burnsides. Moreover he had spoken disrespectfully of President Lincoln. In such a crisis Lincoln knew that a mistake in the selection might lose the war. But he decided that Hooker, in spite of his shortcomings, was the man. He wrote Hooker appointing him as commander of the Army of the Potomac. No letter that Lincoln ever wrote, or few of his acts, show the greatness of the man more than this incident. The original letter was sold a few years ago for $10,000. “Cheap at the price,” said the editor of one of our great periodicals. The letter follows:</hi></p>
 </div>
 <div xml:id="div-letter-0048" type="letter" corresp="#letter-0048">
@@ -1047,8 +1012,7 @@ THOMAS CARLYLE</hi></head>
 <closer><salute rend="cascading">Yours very truly,</salute><signed rend="cascading">A. Lincoln.</signed></closer>
 </div>
 <div xml:id="div-unit-0105" type="editorial">
-<pb xml:id="page-187" n="161"/><head rend="center"><hi rend="italic">46</hi>
-<hi rend="italic">LINCOLN TO MRS. BIXBY</hi></head>
+<pb xml:id="page-187" n="161"/><head rend="center"><hi rend="italic">46</hi><lb/><hi rend="italic">LINCOLN TO MRS. BIXBY</hi></head>
 <p><hi rend="smallcaps">All</hi> <hi rend="italic">the world knows Abraham Lincoln's letter to Mrs. Bixby. Lincoln suffered deeply with every wounded soldier and every war widow and mother. The War Department complained that Lincoln pardoned so many soldiers who were sentenced to death, that it was difficult to maintain discipline. Far into the night he would be seen poring over war files, looking for clues to enable him to save the life of some mother's son. His official duty did not call for a lot of this extra work, but he had a conscience. Somehow the soldiers at the front felt that there was a sympathetic father in the White House. No wonder they voted for him when the crisis arose over his reëlection. But this tendency to pardon soldiers was not a weakness. He could be firm when he felt that it was necessary. The War Department looked at details; he looked at human lives. War Departments are machines, and machines do not have souls. Lincoln had efficiency plus a soul, and he could see good in what seemed to others to be harmful. This letter to Mrs. Bixby is typical of the sentiment which he would have expressed to every mother and widow. For beauty of sentiment,</hi> <pb xml:id="page-188" n="162"/> <hi rend="italic">phrasing and sincerity, no letter surpasses this gem, and hard indeed is he who is not moved by it.</hi></p>
 </div>
 <div xml:id="div-letter-0049" type="letter" corresp="#letter-0049">
@@ -1103,14 +1067,11 @@ THOMAS CARLYLE</hi></head>
 <closer><signed rend="right">Willy.</signed></closer>
 </div>
 <div xml:id="div-unit-0114" type="editorial">
-<pb xml:id="page-199" n="173"/><head rend="center">49
-<hi rend="italic">WALTER HINES PAGE TO
-ARTHUR W. PAGE</hi></head>
+<pb xml:id="page-199" n="173"/><head rend="center">49<lb/><hi rend="italic">WALTER HINES PAGE TO</hi><lb/><hi rend="italic">ARTHUR W. PAGE</hi></head>
 <p><hi rend="smallcaps">Some</hi> <hi rend="italic">day a great writer with the imagination of a Milton and the philosophy of a Schopenhauer will write a tragedy of the nations. And what a piece of work it will be! It will contain all the tears of five thousand years, and the wailings of humanity will furnish the orchestral music. Open your ancient history and you can hear the voices of old Babylonia, with her many states and gilded kings, crying out of the dust of the centuries. Purple robes and Hanging Gardens! Ah, Belshazzar! And where is the glory of Greece and the grandeur of Rome? Where are the beautiful cedars of Lebanon, the magnificent ships of Tyre and Sidon! And where are the “topless towers of Ilium”? The strewn and wasted columns of materialistic Rome; Rome with the burden of slaves on her back; Rome that fed her Christians to the beasts, attest the fact that “man’s inhumanity to man” does not pay. And what excellent material would the author of this tragedy find for his fifth act in the seething years of the World War! It is of a war-weary world, a world that knew not itself, a world not of the dim ages past, but of our own day, that Walter Hines Page writes in the following</hi> <pb xml:id="page-200" n="174"/> <hi rend="italic">letter, perhaps the most significant of the many celebrated letters which he wrote:</hi></p>
 </div>
 <div xml:id="div-letter-0054" type="letter" corresp="#letter-0054">
-<head rend="center"><hi rend="italic">“The Curtains Are Drawn and
-the Music Is Muffled”</hi></head>
+<head rend="center"><hi rend="italic">“The Curtains Are Drawn and</hi><lb/><hi rend="italic">the Music Is Muffled”</hi></head>
 <opener><dateline rend="right">American Embassy, London, December 23, 1917</dateline><salute><hi rend="smallcaps">Dear</hi> Arthur:</salute></opener>
 <p>...A wave of depression hangs over the land like a London fog. And everybody on this tired-outside of the world shows a disposition to lean too heavily on us —to depend on us so completely that the fear arises that they may unconsciously relax their utmost efforts when we begin to fight....Except the British and the French, there’s not a nation in Europe worth a tinker’s damn when you come to the real scratch. The whole continent is tyrannical or rotten or yellow-dog. I wouldn’t give Long Island or Moore County for the whole of continental Europe, with its kings and itching palms....</p>
 <p rend="indented">It is...the weariest Christmas in all British annals, certainly since the Napoleonic wars....</p>
