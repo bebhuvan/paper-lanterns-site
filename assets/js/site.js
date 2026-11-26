@@ -12,18 +12,40 @@
   function save(key, value) {
     try { window.localStorage.setItem("pl:" + key, value); } catch (err) { /* private mode: keep the choice for this page only */ }
   }
-  var PREFS = { size: ["0", "1", "2", "3"], width: ["0", "1", "2"], theme: ["day", "night"] };
+  // The page colour is decided by theme.js before the first paint; size and width are applied here.
+  var PREFS = { size: ["0", "1", "2", "3"], width: ["0", "1", "2"], theme: ["day", "night", "auto"] };
   function applyPref(name, value) {
     if (PREFS[name].indexOf(value) === -1) { return; }
-    root.setAttribute("data-" + name, value);
+    if (name === "theme") {
+      if (window.plSetTheme) { window.plSetTheme(value); }
+    } else {
+      root.setAttribute("data-" + name, value);
+    }
     document.querySelectorAll('[data-pref="' + name + '"]').forEach(function (b) {
       b.setAttribute("aria-pressed", b.getAttribute("data-value") === value ? "true" : "false");
     });
   }
-  Object.keys(PREFS).forEach(function (name) {
+  ["size", "width"].forEach(function (name) {
     var stored = load(name);
     if (stored !== null) { applyPref(name, stored); }
   });
+  function markTheme() {
+    var pref = root.getAttribute("data-theme-pref") || "auto";
+    all('[data-pref="theme"]').forEach(function (b) { b.setAttribute("aria-pressed", b.getAttribute("data-value") === pref ? "true" : "false"); });
+    var night = root.getAttribute("data-theme") === "night";
+    all("[data-theme-toggle]").forEach(function (b) { b.setAttribute("aria-label", night ? "Light page" : "Dark page"); });
+  }
+  function initTheme() {
+    markTheme();
+    all("[data-theme-toggle]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        if (!window.plSetTheme) { return; }
+        window.plSetTheme(root.getAttribute("data-theme") === "night" ? "day" : "night");
+        markTheme();
+      });
+    });
+    window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", markTheme);
+  }
 
   function all(sel, scope) { return Array.prototype.slice.call((scope || document).querySelectorAll(sel)); }
   function el(tag, cls, text) {
@@ -225,44 +247,87 @@
       });
     });
 
+    // The letters rail sits beside the text from 901px (and can be hidden); on phones it is a sheet from the bottom.
+    // Reading settings are a sheet on phones and a small panel under the toolbar on computers.
+    var prefs = document.getElementById("prefs");
+    var scrim = document.querySelector("[data-sheet-scrim]");
+    var wide = window.matchMedia("(min-width: 901px)");
+    var opener = null;
+    var setExpanded = function (sel, open) { all(sel).forEach(function (b) { b.setAttribute("aria-expanded", open ? "true" : "false"); }); };
+    var syncScrim = function () {
+      var phonePanel = !wide.matches && panel.classList.contains("open");
+      var any = phonePanel || (prefs && !prefs.hidden);
+      if (scrim) { scrim.hidden = !any; }
+      root.classList.toggle("sheet-open", Boolean(any));
+    };
     var togglePanel = function (open) {
       var isOpen = typeof open === "boolean" ? open : !panel.classList.contains("open");
       panel.classList.toggle("open", isOpen);
-      // On wide screens the panel is shown by default; "Hide this panel" hides it there.
-      panel.hidden = !isOpen && window.matchMedia("(min-width: 901px)").matches;
-      all("[data-panel-toggle][aria-expanded]").forEach(function (b) { b.setAttribute("aria-expanded", isOpen ? "true" : "false"); });
-      if (isOpen && window.matchMedia("(max-width: 900px)").matches) { panel.scrollIntoView({ block: "start" }); }
+      panel.hidden = !isOpen && wide.matches;
+      setExpanded("[data-panel-toggle][aria-expanded]", isOpen);
+      if (isOpen && !wide.matches) {
+        if (prefs) { prefs.hidden = true; setExpanded("[data-prefs-open]", false); }
+        var here = panel.querySelector('[aria-current="page"]');
+        if (here) { here.scrollIntoView({ block: "center" }); }
+        panel.focus({ preventScroll: true });
+      }
+      syncScrim();
     };
-    if (window.matchMedia("(min-width: 901px)").matches) {
+    var togglePrefs = function (open) {
+      if (!prefs) { return; }
+      var isOpen = typeof open === "boolean" ? open : prefs.hidden;
+      prefs.hidden = !isOpen;
+      setExpanded("[data-prefs-open]", isOpen);
+      if (isOpen) {
+        if (!wide.matches && panel.classList.contains("open")) { togglePanel(false); }
+        prefs.focus({ preventScroll: true });
+      } else if (opener) {
+        opener.focus({ preventScroll: true });
+      }
+      syncScrim();
+    };
+    if (wide.matches) {
       panel.classList.add("open");
-      all("[data-panel-toggle][aria-expanded]").forEach(function (b) { b.setAttribute("aria-expanded", "true"); });
+      setExpanded("[data-panel-toggle][aria-expanded]", true);
     }
+    wide.addEventListener("change", function (e) {
+      panel.hidden = false;
+      panel.classList.toggle("open", e.matches);
+      setExpanded("[data-panel-toggle][aria-expanded]", e.matches);
+      syncScrim();
+    });
     all("[data-panel-toggle]").forEach(function (b) { b.addEventListener("click", function () { togglePanel(); }); });
     all("[data-prefs-open]").forEach(function (b) {
-      b.addEventListener("click", function () {
-        togglePanel(true);
-        var first = panel.querySelector("[data-prefs] button");
-        if (first) { first.focus(); }
-      });
+      b.addEventListener("click", function () { opener = b; togglePrefs(); });
     });
+    all("[data-prefs-close]").forEach(function (b) { b.addEventListener("click", function () { togglePrefs(false); }); });
+    if (scrim) {
+      scrim.addEventListener("click", function () {
+        togglePrefs(false);
+        if (!wide.matches) { togglePanel(false); }
+      });
+    }
 
     all("[data-pref]").forEach(function (b) {
       b.addEventListener("click", function () {
         var name = b.getAttribute("data-pref"), value = b.getAttribute("data-value");
         applyPref(name, value);
-        save(name, value);
+        if (name === "theme") { markTheme(); } else { save(name, value); }
       });
     });
 
-    var focusBtn = document.querySelector("[data-focus]");
-    if (focusBtn) {
-      focusBtn.addEventListener("click", function () {
-        var on = !root.classList.contains("focus");
-        root.classList.toggle("focus", on);
-        focusBtn.setAttribute("aria-pressed", on ? "true" : "false");
-        focusBtn.querySelector("[data-focus-label]").textContent = on ? "Leave focus" : "Focus";
-      });
-    }
+    var setFocus = function (on) {
+      root.classList.toggle("focus", on);
+      all("[data-focus]").forEach(function (b) { b.setAttribute("aria-pressed", on ? "true" : "false"); });
+      if (on) { togglePrefs(false); }
+    };
+    all("[data-focus]").forEach(function (b) { b.addEventListener("click", function () { setFocus(!root.classList.contains("focus")); }); });
+    all("[data-focus-leave]").forEach(function (b) { b.addEventListener("click", function () { setFocus(false); }); });
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key !== "Escape") { return; }
+      if (prefs && !prefs.hidden) { togglePrefs(false); } else if (!wide.matches && panel.classList.contains("open")) { togglePanel(false); } else if (root.classList.contains("focus")) { setFocus(false); }
+    });
 
     var cite = document.querySelector("[data-cite]");
     if (cite) {
@@ -455,6 +520,6 @@
     } catch (err) { /* ignore unsupported WebMCP draft signatures */ }
   }
 
-  function start() { initHeader(); initMenu(); initHome(); initBook(); initLetter(); initSearch(); initWebMCP(); }
+  function start() { initTheme(); initHeader(); initMenu(); initHome(); initBook(); initLetter(); initSearch(); initWebMCP(); }
   if (document.readyState === "loading") { document.addEventListener("DOMContentLoaded", start); } else { start(); }
 })();

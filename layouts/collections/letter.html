@@ -13,54 +13,67 @@
 {{- if not .Params.start_folio }}{{ $folios = printf "scan leaf %d" (int .Params.start_page) }}{{ end -}}
 {{- $label := .Params.number | default (printf "%d" (int .Params.sequence)) -}}
 {{- $rs := partial "reading-status.html" $book -}}
+{{- $pos := add $idx 1 -}}
 <header class="letter-bar">
 <div class="wrap">
-<a class="logo" href="{{ "/" | relURL }}">{{ partial "logo.html" (dict "w" 36 "sw" 1.3) }}<span class="word">Paper Lanterns</span></a>
-<nav class="crumb" aria-label="Breadcrumb"><a href="{{ $book.RelPermalink }}">{{ $book.Title }}</a><span aria-hidden="true">  /  </span><span>Letter {{ $label }} of {{ len $letters }}</span></nav>
+<a class="logo" href="{{ "/" | relURL }}" aria-label="Paper Lanterns, home">{{ partial "logo.html" (dict "w" 36 "sw" 1.3) }}<span class="word">Paper Lanterns</span></a>
+<nav class="crumb" aria-label="Breadcrumb"><a href="{{ $book.RelPermalink }}">{{ $book.Title }}</a><span class="of"><span class="long">Letter </span>{{ $pos }} of {{ len $letters }}</span></nav>
 <div class="tools">
-<button type="button" class="tool focus-btn js-only flexy" aria-pressed="false" data-focus><span class="dot" aria-hidden="true"></span><span data-focus-label>Focus</span></button>
-<button type="button" class="tool panel-btn js-only flexy" aria-expanded="false" aria-controls="panel" data-panel-toggle><svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M4 6h16M4 12h10M4 18h16"/></svg>Contents</button>
+<button type="button" class="tbtn panel-btn js-only flexy" aria-expanded="false" aria-controls="panel" data-panel-toggle><svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M9 6h11M9 12h11M9 18h11"/><circle cx="4.5" cy="6" r="1.2"/><circle cx="4.5" cy="12" r="1.2"/><circle cx="4.5" cy="18" r="1.2"/></svg><span>Letters</span></button>
 {{- if $id }}
-<div class="seg view-seg js-only flexy" role="group" aria-label="What to show">
+<div class="view-seg js-only flexy" role="group" aria-label="What to show">
 <button type="button" aria-pressed="false" data-view="text">Text</button>
-<button type="button" aria-pressed="true" data-view="both">Text and page</button>
-<button type="button" aria-pressed="false" data-view="page">Page</button>
+<button type="button" aria-pressed="true" data-view="both">Text and scan</button>
+<button type="button" aria-pressed="false" data-view="page">Scan</button>
 </div>
 {{- end }}
+<button type="button" class="tbtn aa-btn js-only flexy" aria-expanded="false" aria-controls="prefs" data-prefs-open aria-label="Reading settings"><span aria-hidden="true">Aa</span></button>
+{{ partial "theme-toggle.html" . }}
+<button type="button" class="tbtn leave-focus" data-focus-leave><span class="dot" aria-hidden="true"></span>Leave focus</button>
 </div>
 </div>
 </header>
 
+<div class="prefs-sheet" id="prefs" role="dialog" aria-label="Reading settings" tabindex="-1" hidden data-prefs>
+<div class="sheet-head"><span class="sheet-t">Reading</span><button type="button" class="sheet-x" data-prefs-close aria-label="Close reading settings"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+<div role="group" aria-label="Text size" class="pref">
+<div class="lbl">Text size</div>
+<div class="opts g4">{{ range $i, $l := slice "Small text" "Standard text" "Large text" "Largest text" }}<button type="button" class="aa{{ $i }}" aria-label="{{ $l }}" aria-pressed="{{ cond (eq $i 1) "true" "false" }}" data-pref="size" data-value="{{ $i }}">Aa</button>{{ end }}</div>
+</div>
+<div role="group" aria-label="Line width" class="pref width-group">
+<div class="lbl">Line width</div>
+<div class="opts g3">{{ range $i, $l := slice "Narrow lines" "Standard lines" "Wide lines" }}<button type="button" aria-label="{{ $l }}" aria-pressed="{{ cond (eq $i 1) "true" "false" }}" data-pref="width" data-value="{{ $i }}"><span class="lines w{{ $i }}" aria-hidden="true"><span></span><span></span><span></span></span></button>{{ end }}</div>
+</div>
+<div role="group" aria-label="Page colour" class="pref">
+<div class="lbl">Page</div>
+<div class="opts g3 theme">
+<button type="button" aria-pressed="false" data-pref="theme" data-value="day"><span class="swatch" aria-hidden="true"></span>Light</button>
+<button type="button" aria-pressed="false" data-pref="theme" data-value="night"><span class="swatch night" aria-hidden="true"></span>Dark</button>
+<button type="button" aria-pressed="true" data-pref="theme" data-value="auto"><span class="swatch auto" aria-hidden="true"></span>Device</button>
+</div>
+</div>
+<button type="button" class="focus-row" data-focus aria-pressed="false"><span class="dot" aria-hidden="true"></span><span><span class="ft">Focus</span><span class="fs">Only the letter: no scan, no panels, no footer.</span></span></button>
+</div>
+<div class="sheet-scrim" data-sheet-scrim hidden></div>
+
 <div class="reader">
-<aside class="panel" id="panel" aria-label="Reading panel">
+<aside class="panel" id="panel" aria-labelledby="panel-h" tabindex="-1">
+<div class="rail-head">
+<div class="sheet-head"><span class="sheet-t" id="panel-h">{{ with .Params.period }}{{ . }}{{ else }}Letters nearby{{ end }}</span><button type="button" class="sheet-x" data-panel-toggle aria-controls="panel" aria-label="Close the list of letters"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+<p class="rail-pos">Letter {{ $pos }} of {{ len $letters }}</p>
+{{- $x := 0.0 }}{{ if gt (len $letters) 1 }}{{ $x = div (mul 1000.0 $idx) (sub (len $letters) 1) }}{{ end }}
+<svg class="rail-line" viewBox="0 0 1000 12" preserveAspectRatio="none" aria-hidden="true" focusable="false"><rect class="track" x="0" y="5.5" width="1000" height="1"/><rect class="done" x="0" y="5.5" width="{{ $x }}" height="1"/></svg>
+</div>
 <nav aria-label="Letters nearby">
-<div class="h">{{ with .Params.period }}{{ . }}{{ else }}Nearby letters{{ end }}</div>
-<ol>
+<ol class="thread">
 {{- range $nearby }}
-<li><a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $p.RelPermalink }} aria-current="page"{{ end }}><span class="mono">{{ .Params.number | default (printf "%d" (int .Params.sequence)) }}</span><span>{{ with .Params.recipient }}To {{ . }}{{ else }}{{ .Title }}{{ end }}<span class="d">{{ .Params.letter_date.short | default "Undated" }}</span></span></a></li>
+{{- $sal := index (split .Title "—") 0 -}}
+<li><a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $p.RelPermalink }} aria-current="page"{{ end }}><span class="bead" aria-hidden="true"></span><span class="sal">{{ $sal }}</span>{{- $who := slice -}}{{- with .Params.recipient }}{{ $who = $who | append (printf "to %s" .) }}{{ end -}}{{- $who = $who | append (.Params.letter_date.display | default "undated") -}}
+<span class="who">{{ delimit $who " · " }}</span></a></li>
 {{- end }}
 </ol>
-<a class="all" href="{{ $book.RelPermalink }}#contents">All {{ len $letters }} letters</a>
 </nav>
-<div class="prefs js-only flexy" data-prefs>
-<div class="muted">Reading</div>
-<div role="group" aria-label="Text size">
-<div class="lbl">Text size</div>
-<div class="grid g4">{{ range $i, $l := slice "Small text" "Standard text" "Large text" "Largest text" }}<button type="button" class="aa{{ $i }}" aria-label="{{ $l }}" aria-pressed="{{ cond (eq $i 1) "true" "false" }}" data-pref="size" data-value="{{ $i }}">Aa</button>{{ end }}</div>
-</div>
-<div role="group" aria-label="Line width" class="width-group">
-<div class="lbl">Line width</div>
-<div class="grid g3">{{ range $i, $l := slice "Narrow lines" "Standard lines" "Wide lines" }}<button type="button" aria-label="{{ $l }}" aria-pressed="{{ cond (eq $i 1) "true" "false" }}" data-pref="width" data-value="{{ $i }}"><span class="lines w{{ $i }}" aria-hidden="true"><span></span><span></span><span></span></span></button>{{ end }}</div>
-</div>
-<div role="group" aria-label="Page colour">
-<div class="lbl">Page</div>
-<div class="theme">
-<button type="button" aria-pressed="true" data-pref="theme" data-value="day"><span class="swatch" aria-hidden="true"></span>Day</button>
-<button type="button" aria-pressed="false" data-pref="theme" data-value="night"><span class="swatch night" aria-hidden="true"></span>Night</button>
-</div>
-</div>
-<button type="button" class="linkish" data-panel-toggle aria-controls="panel">Hide this panel</button>
-</div>
+<a class="all" href="{{ $book.RelPermalink }}#contents">All {{ len $letters }} letters <span aria-hidden="true">→</span></a>
 </aside>
 
 <main id="main" class="reading" data-view="both" data-reading>
@@ -71,7 +84,7 @@
 <span hidden data-pagefind-filter="kind">Letters in the collections</span>
 {{- /* The book's own heading opens the letter text; repeat it here only when the text has none. */ -}}
 {{- if not (where .Params.blocks "type" "letter_header") }}<p class="kicker-heading">{{ .Params.heading }}</p>{{ end }}
-<div class="pair" data-pagefind-ignore><span>{{ .Params.sender }}</span><span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ .Params.recipient }}</span></div>
+<div class="pair" data-pagefind-ignore><span>{{ .Params.sender }}</span><span class="to"><span class="glyph" aria-hidden="true"><span class="a"></span><span class="l"></span><span class="b"></span></span><span>{{ .Params.recipient }}</span></span></div>
 <h1>{{ .Title }}</h1>
 <div class="meta" data-pagefind-ignore>{{ with .Params.letter_date.short }}<time class="mono"{{ with $.Params.letter_date.iso }} datetime="{{ . }}"{{ end }}>{{ . }}</time>{{ end }}{{ with .Params.place }}<span>{{ . }}</span>{{ end }}<span>Printed {{ $folios }}</span></div>
 <div class="text" data-letter-text>
@@ -219,9 +232,9 @@
 </main>
 </div>
 <nav class="mobile-bar" aria-label="Reading controls">
-<button type="button" data-panel-toggle aria-controls="panel" aria-expanded="false">Contents</button>
+<button type="button" data-panel-toggle aria-controls="panel" aria-expanded="false">Letters</button>
 {{ if $id }}<button type="button" data-view-toggle aria-pressed="false"><span data-view-toggle-label>Scan</span></button>{{ else }}<a href="{{ $book.RelPermalink }}">The book</a>{{ end }}
-<button type="button" data-prefs-open aria-controls="panel">Aa</button>
+<button type="button" data-prefs-open aria-controls="prefs" aria-expanded="false" aria-label="Reading settings"><span aria-hidden="true">Aa</span></button>
 {{ with $next }}<a href="{{ .RelPermalink }}">Next →</a>{{ else }}<a href="{{ $book.RelPermalink }}#contents">All letters</a>{{ end }}
 </nav>
 {{ partial "footer.html" . }}

@@ -25,6 +25,7 @@ letters), plus the old site's 105 hand-curated letters, essays, lectures, speech
 | `legacy-addresses.txt` | The 128 addresses the old site served; each stays in `published-addresses.txt` for good |
 | `layouts/` | Templates: `index.html` (home), `collections/list.html`, `collections/book.html`, `collections/letter.html` |
 | `assets/css/site.css`, `assets/js/site.js` | All styling and all interactivity (the pages read fully without the script) |
+| `assets/js/theme.js` | Picks the light or dark page before the first paint (D34) |
 | `static/fonts/` | Self-hosted Newsreader and IBM Plex Mono (SIL Open Font Licence, files included) |
 | `scripts/sync_from_pipeline.py` | Copies one book from the pipeline, checking every SHA-256 |
 | `scripts/build_indexes.py`, `data/` | People and Explore indexes derived from the content (`data/people-same-person.json` is the one hand-kept list) |

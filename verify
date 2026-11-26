@@ -33,7 +33,8 @@ gitleaks git --redact --no-banner --exit-code 1 .
 
 step "[3/9] JavaScript parses"
 node --check assets/js/site.js
-echo "assets/js/site.js OK"
+node --check assets/js/theme.js
+echo "assets/js/site.js and assets/js/theme.js OK"
 
 step "[4/9] Script tests (sync, site checker, share-card images)"
 python3 -I -m unittest discover -s tests

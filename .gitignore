@@ -14,3 +14,4 @@ dist/
 /.cache/
 # Private SEO & GEO/AEO optimization playbook (intentionally untracked)
 SEO_GEO_PLAYBOOK.md
+.claude/

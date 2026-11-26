@@ -499,6 +499,28 @@ how the site is built; say why if you overturn one.
 - **Why:** after launch the strict CSP blocked `beacon.min.js` on every page and no visits were counted. Cloudflare
   already serves every request, sets no cookies, and adds no new third party.
 
+## D34. Letter page toolbar, letters rail and reading settings redrawn; light and dark on every page (2026-11-26)
+
+- **Toolbar:** quiet text controls without boxes: "Letters", a "Text / Text and scan / Scan" switch underlined in
+  lamp red, "Aa" for reading settings, and the light/dark button. The book title and "Letter 1 of 281" sit beside
+  the logo; phones show only the position ("1 of 281") and the light/dark button, the rest stays in the bottom bar.
+- **Letters rail** (was "Nearby letters"): the letters around this one hung on a thread like the site's lanterns,
+  each with its opening salutation (the printed words up to the first dash, never invented), "to" the recipient
+  and the date; the current letter is the lit lantern. A hairline shows how far into the book this letter is. On
+  computers it stays beside the text while you scroll; on phones it rises from the bottom as a sheet.
+- **Reading settings** left the rail for their own "Aa" panel: text size, line width, page (Light, Dark, Device)
+  and Focus, which is now explained in a line and left by "Leave focus" or Escape.
+- **Light and dark everywhere:** a moon/sun button in every page header. With no choice made, pages follow the
+  device's setting. A small `theme.js` in the head decides before the first paint, so a dark page never flashes
+  white; it is a separate file because the CSP allows no inline script. Book title bands get a dark version of
+  their era colour; the small covers stay light, like printed covers.
+- **Also:** the reading-score seal set the figure and "/100" side by side and "97.5/100" ran out of its ring; the
+  figure now sits above "/100", centred.
+- **Why:** the owner's review: the letter page's toolbar, panel and layout looked "a little shoddily designed",
+  "Nearby letters" felt under-designed, and dark mode could only be reached from inside a letter.
+- **Rejected:** keeping the settings inside the rail (it made the rail long and mixed two jobs); a dark mode
+  without a stored choice (readers who prefer dark on a light device, or the reverse, need to override it).
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should

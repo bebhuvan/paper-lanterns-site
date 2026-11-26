@@ -6,6 +6,7 @@
 <div class="header-tools">
 <nav class="site-nav" aria-label="Main">{{ partial "nav-links.html" . }}</nav>
 <a class="search-link" href="{{ "/search/" | relURL }}" aria-label="Search"{{ if eq .RelPermalink "/search/" }} aria-current="page"{{ end }}><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></a>
+{{ partial "theme-toggle.html" . }}
 <details class="menu" data-menu>
 <summary aria-label="Menu"><svg class="i-open" aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M4 8h16M4 16h16"/></svg><svg class="i-close" aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></summary>
 <div class="menu-sheet">
