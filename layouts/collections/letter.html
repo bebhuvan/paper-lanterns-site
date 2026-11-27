@@ -224,7 +224,7 @@
 {{- with .Params.place }}{{ if or $sName $rName $.Params.letter_date.display }} · {{ end }}{{ . }}{{ end }}.
 </dd></div>
 {{- end }}
-<div><dt>Source</dt><dd><a class="u" href="{{ $book.RelPermalink }}"><i>{{ $book.Title }}</i></a>{{ with $book.Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}, {{ $book.Params.year }}, {{ $folios }}.</dd></div>
+<div><dt>Source</dt><dd><a class="u" href="{{ $book.RelPermalink }}"><i>{{ $book.Title }}</i></a>{{ with $book.Params.subtitle }}, {{ lower (substr . 0 1) }}{{ substr . 1 }}{{ end }}, {{ $book.Params.year }}, {{ $folios }}.{{ if $id }}{{ with index .Params.pages 0 }} <a class="u" href="https://archive.org/details/{{ $id }}/page/n{{ int .leaf }}/mode/1up">Original scan on the Internet Archive ↗</a> (hosted freely by the Archive).{{ end }}{{ end }}</dd></div>
 <div><dt>How it was read</dt><dd>{{ $rs.line }} The book’s reading score is {{ $rs.score }} out of {{ $rs.out_of }}. <a class="u" href="{{ $book.RelPermalink }}#how-read">How this text was read</a></dd></div>
 <div><dt>Take the whole book with you</dt><dd class="chips">{{ range $book.Params.downloads }}<a href="{{ $book.RelPermalink }}{{ .file }}" download>{{ index (dict "epub" "EPUB" "markdown" "Markdown" "tei" "TEI") .format }}</a>{{ end }}</dd></div>
 </dl>

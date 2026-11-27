@@ -72,9 +72,9 @@ if [[ "$pf_have" != "$pf_want" ]]; then
 fi
 pagefind --site "$OUT" --quiet
 files=$(find "$OUT" -type f | wc -l)
-echo "search index built; $files files in all (Cloudflare Pages allows 20000)"
-if (( files > 19000 )); then
-  echo "Too close to Cloudflare Pages' 20000-file limit" >&2
+echo "search index built; $files files in all (Cloudflare Workers Paid allows 100000)"
+if (( files > 95000 )); then
+  echo "Too close to Cloudflare Workers Paid's 100000-file limit" >&2
   exit 1
 fi
 

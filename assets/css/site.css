@@ -980,6 +980,14 @@ html.js .site-header:has(.menu[open]) { transform: none; }
 .f-size { font-size: 16px; color: var(--ink-2); font-variant-numeric: oldstyle-nums; white-space: nowrap; }
 @media (hover: hover) { .files a:hover .f-icon { background: var(--ink); color: var(--paper); } .files a:hover .f-name { color: var(--lamp); } }
 
+/* Internet Archive source card & gratitude note on book pages. */
+.ia-source { margin-top: 24px; padding: 20px 22px; background: var(--paper); border: 1px solid var(--rule); border-left: 3px solid var(--lamp); max-width: 760px; }
+.ia-link { display: grid; grid-template-columns: 40px minmax(0, 1fr); align-items: center; gap: 12px 16px; min-height: 44px; }
+.ia-id { grid-column: 2; font-family: var(--mono); font-size: 13px; color: var(--ink-3); overflow-wrap: anywhere; }
+@media (min-width: 640px) { .ia-link { grid-template-columns: 40px minmax(0, 1fr) auto; } .ia-id { grid-column: auto; text-align: right; } }
+@media (hover: hover) { .ia-link:hover .f-icon { background: var(--ink); color: var(--paper); } .ia-link:hover .f-name { color: var(--lamp); } }
+.ia-thanks { margin: 16px 0 0; padding-top: 14px; border-top: 1px solid var(--rule); font-size: 16px; line-height: 1.65; color: var(--ink-2); }
+
 /* Book top: a sentence about the book from its data, the download line, and the first letter as a showcase. */
 .about-book { margin: 16px 0 0; max-width: 620px; font-size: 19px; line-height: 1.55; color: var(--ink); }
 .act-files { grid-column: 1 / -1; margin: 6px 0 0; display: flex; flex-wrap: wrap; align-items: center; gap: 0 18px; font-size: 16px; }
@@ -1014,6 +1022,7 @@ html[data-theme="night"] .book-hero.era-c20 { --c-bg: #172423; --c-ink: #d9e8e5;
 .book-hero .btn:not(.solid) { background: transparent; border-color: var(--c-ink, var(--ink)); color: var(--c-ink, var(--ink)); }
 .book-hero .act-files, .book-hero .act-files a { color: var(--c-ink, var(--ink)); }
 .book-hero .act-files .muted, .book-hero .act-files .sz { color: var(--c-acc, var(--ink-3)); }
+.book-hero .act-files .sep { opacity: 0.55; }
 .hero-lanterns { margin: 0; }
 .hero-lanterns .lanterns { width: 100%; max-width: 520px; margin: 0; }
 .hero-lanterns .lanterns .string, .hero-lanterns .lanterns .drop { stroke-width: 0.6; }
