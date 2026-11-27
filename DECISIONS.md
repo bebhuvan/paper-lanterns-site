@@ -521,6 +521,21 @@ how the site is built; say why if you overturn one.
 - **Rejected:** keeping the settings inside the rail (it made the rail long and mixed two jobs); a dark mode
   without a stored choice (readers who prefer dark on a light device, or the reverse, need to override it).
 
+## D35. Letters rail, second pass (2026-11-27)
+
+- **Heading** is now the stretch of time the nearby letters cover ("May 1617", "Aug 1876 – Jan 1877"), worked
+  out from their dates, instead of a second "Letter N of M" (the toolbar already says it). A book's own period
+  name, where it has one, sits under it. With no dates at all it says "Letters nearby".
+- **Each entry** gives the date first and never breaks it across lines; a long recipient stops at two lines.
+  Opening words are 16px, a step below the letter's text, so the rail reads as a list to pick from.
+- **Capitals:** an opening that the transcription keeps in capitals ("RIGHT Honourable", "SIR,") is drawn in small
+  capitals with each word's first letter full size, as the old printings set it. Only the drawing changes; the
+  text, what a screen reader reads, and what is copied stay exactly as transcribed.
+- **Why:** the owner's review of D34: dates split across lines, capitals shouted, long recipients ran to three
+  lines, the entries were as big as the letter, and the position was shown twice.
+- **Rejected:** one line per entry with the recipient cut short (it cut even "to Johannes Brahms" in a 300px rail);
+  lower-casing the capitals in the text itself (it would change what screen readers and copying get).
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should

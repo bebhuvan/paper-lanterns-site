@@ -59,8 +59,23 @@
 <div class="reader">
 <aside class="panel" id="panel" aria-labelledby="panel-h" tabindex="-1">
 <div class="rail-head">
-<div class="sheet-head"><span class="sheet-t" id="panel-h">{{ with .Params.period }}{{ . }}{{ else }}Letters nearby{{ end }}</span><button type="button" class="sheet-x" data-panel-toggle aria-controls="panel" aria-label="Close the list of letters"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
-<p class="rail-pos">Letter {{ $pos }} of {{ len $letters }}</p>
+{{- /* The heading names the stretch of time these nearby letters cover; the toolbar already says "Letter N of M". */ -}}
+{{- $isos := slice -}}{{- range $nearby }}{{ with .Params.letter_date.iso }}{{ $isos = $isos | append . }}{{ end }}{{ end -}}
+{{- $span := "" -}}
+{{- if $isos -}}
+{{- $isos = sort $isos -}}{{- $a := index $isos 0 -}}{{- $b := index $isos (sub (len $isos) 1) -}}
+{{- $ya := substr $a 0 4 -}}{{- $yb := substr $b 0 4 -}}
+{{- if and (ge (len $a) 7) (ge (len $b) 7) -}}
+{{- $ma := (time.AsTime (printf "%s-01" (substr $a 0 7))).Format "January" -}}{{- $mb := (time.AsTime (printf "%s-01" (substr $b 0 7))).Format "January" -}}
+{{- if ne $ya $yb }}{{ $span = printf "%s %s – %s %s" (substr $ma 0 3) $ya (substr $mb 0 3) $yb }}{{ else if ne $ma $mb }}{{ $span = printf "%s – %s %s" $ma $mb $ya }}{{ else }}{{ $span = printf "%s %s" $ma $ya }}{{ end -}}
+{{- else -}}
+{{- if ne $ya $yb }}{{ $span = printf "%s – %s" $ya $yb }}{{ else }}{{ $span = $ya }}{{ end -}}
+{{- end -}}
+{{- end }}
+<div class="sheet-head"><span class="sheet-t" id="panel-h">{{ with $span }}<span class="visually-hidden">Letters from </span>{{ . }}{{ else }}Letters nearby{{ end }}</span><button type="button" class="sheet-x" data-panel-toggle aria-controls="panel" aria-label="Close the list of letters"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+{{- with .Params.period }}
+<p class="rail-pos">{{ . }}</p>
+{{- end }}
 {{- $x := 0.0 }}{{ if gt (len $letters) 1 }}{{ $x = div (mul 1000.0 $idx) (sub (len $letters) 1) }}{{ end }}
 <svg class="rail-line" viewBox="0 0 1000 12" preserveAspectRatio="none" aria-hidden="true" focusable="false"><rect class="track" x="0" y="5.5" width="1000" height="1"/><rect class="done" x="0" y="5.5" width="{{ $x }}" height="1"/></svg>
 </div>
@@ -68,12 +83,14 @@
 <ol class="thread">
 {{- range $nearby }}
 {{- $sal := index (split .Title "—") 0 -}}
-<li><a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $p.RelPermalink }} aria-current="page"{{ end }}><span class="bead" aria-hidden="true"></span><span class="sal">{{ $sal }}</span>{{- $who := slice -}}{{- with .Params.recipient }}{{ $who = $who | append (printf "to %s" .) }}{{ end -}}{{- $who = $who | append (.Params.letter_date.display | default "undated") -}}
-<span class="who">{{ delimit $who " · " }}</span></a></li>
+{{- /* Old printings set a letter's first word in small capitals and the transcription keeps them as capitals; show them as small capitals again, each word keeping its full-size first letter. The text is escaped before the span is added. The letters themselves stay as transcribed; only how they are drawn changes. */ -}}
+{{- $caps := index (findRE `^(?:[A-Z][A-Z'’]+\b[ ,]*)+` $sal 1) 0 | default "" -}}
+<li><a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $p.RelPermalink }} aria-current="page"{{ end }}><span class="bead" aria-hidden="true"></span><span class="sal">{{ with $caps }}{{ replaceRE `([A-Z])([A-Z]+)` `$1<span class="sc">$2</span>` (htmlEscape .) | safeHTML }}{{ strings.TrimPrefix . $sal }}{{ else }}{{ $sal }}{{ end }}</span>
+<span class="who"><span class="d">{{ .Params.letter_date.display | default "undated" }}</span>{{ with .Params.recipient }}<span class="sep" aria-hidden="true"> · </span><span class="to">to {{ . }}</span>{{ end }}</span></a></li>
 {{- end }}
 </ol>
 </nav>
-<a class="all" href="{{ $book.RelPermalink }}#contents">All {{ len $letters }} letters <span aria-hidden="true">→</span></a>
+<a class="all" href="{{ $book.RelPermalink }}#contents">All {{ len $letters }} letters<span aria-hidden="true">&nbsp;→</span></a>
 </aside>
 
 <main id="main" class="reading" data-view="both" data-reading>
