@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import shutil
 import subprocess
 import sys
@@ -440,8 +441,8 @@ class EditorialNotesTests(unittest.TestCase):
 
 class LetterTemplateContractTests(unittest.TestCase):
     def test_letter_template_renders_structured_table_cells_and_illustration_runs(self) -> None:
-        hugo = shutil.which("hugo")
-        self.assertIsNotNone(hugo, "hugo binary must be installed on PATH")
+        hugo = shutil.which(os.environ.get("HUGO") or "hugo")
+        self.assertIsNotNone(hugo, "hugo binary must be installed on PATH or HUGO env")
         site_root = Path(__file__).resolve().parents[1]
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
