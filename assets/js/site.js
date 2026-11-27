@@ -286,17 +286,21 @@
       }
       syncScrim();
     };
-    if (wide.matches) {
-      panel.classList.add("open");
-      setExpanded("[data-panel-toggle][aria-expanded]", true);
-    }
+    // On computers the rail starts open unless the reader closed it before; that choice is remembered.
+    // theme.js hid it before the first paint (html.rail-closed) so it does not flash open.
+    var railOpen = function () { return load("rail") !== "closed"; };
+    if (wide.matches) { togglePanel(railOpen()); }
+    root.classList.remove("rail-closed");
     wide.addEventListener("change", function (e) {
       panel.hidden = false;
-      panel.classList.toggle("open", e.matches);
-      setExpanded("[data-panel-toggle][aria-expanded]", e.matches);
-      syncScrim();
+      togglePanel(e.matches && railOpen());
     });
-    all("[data-panel-toggle]").forEach(function (b) { b.addEventListener("click", function () { togglePanel(); }); });
+    all("[data-panel-toggle]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        togglePanel();
+        if (wide.matches) { save("rail", panel.classList.contains("open") ? "open" : "closed"); }
+      });
+    });
     all("[data-prefs-open]").forEach(function (b) {
       b.addEventListener("click", function () { opener = b; togglePrefs(); });
     });

@@ -536,6 +536,23 @@ how the site is built; say why if you overturn one.
 - **Rejected:** one line per entry with the recipient cut short (it cut even "to Johannes Brahms" in a 300px rail);
   lower-casing the capitals in the text itself (it would change what screen readers and copying get).
 
+## D36. Letters rail: heading back, line to the bottom, closing remembered (2026-11-27)
+
+- **Heading:** "Letters nearby" is the rail's heading again; the date range of D35 moved under it as a quiet line,
+  with a book's period name after it ("Jul 1849 – Jun 1855 · The Fortress"). The range is left out when the
+  nearby letters jump back more than a year in date, as in an anthology ("Selected English Letters" goes 1478,
+  1566, undated, 1725, 1702), where "1478 – 1566" was wrong and any range would mislead. Small slips in a printed
+  series (a 16 May letter before a 15 May one) still get a range.
+- **Line:** on computers the rail is always a full screen tall, so its dividing line runs to the bottom edge
+  instead of stopping where the list ends.
+- **Hiding:** the rail stays closable on computers, because "Text and scan" and readers who want a calmer page
+  need the width. Closing it is now remembered in this browser (`pl:rail`), so it no longer reopens on the next
+  letter; `theme.js` hides a closed rail before the first paint so it does not flash open.
+- **Why:** the owner's review of D35: the date with no heading read oddly, the line "drops off", and they asked
+  whether hiding the rail makes sense.
+- **Rejected:** removing the close button (the rail would then always take 300px from the scan view); a range for
+  anthologies (it would suggest an order the book does not have).
+
 ## Open questions for the owner
 
 1. **Curated letters' authenticity.** The old site's verification report covers 45 letters; 87 are live now. Should

@@ -1,4 +1,5 @@
 // Paper Lanterns: light or dark page, decided before the first paint so a dark page never flashes white.
+// Also hides a letters rail the reader closed, for the same reason.
 // The reader's choice is "day", "night" or "auto" (follow the device); it lives in this browser only.
 (function () {
   "use strict";
@@ -15,6 +16,8 @@
     root.setAttribute("data-theme", pref === "auto" ? (dark.matches ? "night" : "day") : pref);
   }
   apply();
+  // A letters rail the reader closed stays closed; hide it before the first paint (site.js takes over).
+  try { if (window.localStorage.getItem("pl:rail") === "closed") { root.classList.add("rail-closed"); } } catch (err) { /* storage blocked: rail open */ }
   dark.addEventListener("change", function () { if (pref === "auto") { apply(); } });
 
   // site.js calls this when the reader picks a page colour.

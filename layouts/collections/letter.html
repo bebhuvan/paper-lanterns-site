@@ -59,11 +59,20 @@
 <div class="reader">
 <aside class="panel" id="panel" aria-labelledby="panel-h" tabindex="-1">
 <div class="rail-head">
-{{- /* The heading names the stretch of time these nearby letters cover; the toolbar already says "Letter N of M". */ -}}
-{{- $isos := slice -}}{{- range $nearby }}{{ with .Params.letter_date.iso }}{{ $isos = $isos | append . }}{{ end }}{{ end -}}
+{{- /* Under the heading, the stretch of time these nearby letters cover ("May 1617"); the toolbar already says
+     "Letter N of M". Left out when the dates jump back more than a year, as in an anthology, where a range would
+     mislead; small slips (a 16 May letter printed before a 15 May one) are normal in a printed series. Dates are
+     padded to one length ("1566" → "1566-00-00") so they compare as text. */ -}}
+{{- $ordered := true -}}{{- $lastYear := 0 -}}{{- $a := "" -}}{{- $b := "" -}}{{- $ka := "" -}}{{- $kb := "" -}}
+{{- range $nearby }}{{ with .Params.letter_date.iso }}
+{{- $k := substr (printf "%s-00-00" .) 0 10 -}}{{- $y := int (substr . 0 4) -}}
+{{- if and $lastYear (lt $y (sub $lastYear 1)) }}{{ $ordered = false }}{{ end -}}
+{{- $lastYear = $y -}}
+{{- if or (not $ka) (lt $k $ka) }}{{ $ka = $k }}{{ $a = . }}{{ end -}}
+{{- if or (not $kb) (gt $k $kb) }}{{ $kb = $k }}{{ $b = . }}{{ end -}}
+{{- end }}{{ end -}}
 {{- $span := "" -}}
-{{- if $isos -}}
-{{- $isos = sort $isos -}}{{- $a := index $isos 0 -}}{{- $b := index $isos (sub (len $isos) 1) -}}
+{{- if and $a $ordered -}}
 {{- $ya := substr $a 0 4 -}}{{- $yb := substr $b 0 4 -}}
 {{- if and (ge (len $a) 7) (ge (len $b) 7) -}}
 {{- $ma := (time.AsTime (printf "%s-01" (substr $a 0 7))).Format "January" -}}{{- $mb := (time.AsTime (printf "%s-01" (substr $b 0 7))).Format "January" -}}
@@ -71,10 +80,11 @@
 {{- else -}}
 {{- if ne $ya $yb }}{{ $span = printf "%s – %s" $ya $yb }}{{ else }}{{ $span = $ya }}{{ end -}}
 {{- end -}}
-{{- end }}
-<div class="sheet-head"><span class="sheet-t" id="panel-h">{{ with $span }}<span class="visually-hidden">Letters from </span>{{ . }}{{ else }}Letters nearby{{ end }}</span><button type="button" class="sheet-x" data-panel-toggle aria-controls="panel" aria-label="Close the list of letters"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
-{{- with .Params.period }}
-<p class="rail-pos">{{ . }}</p>
+{{- end -}}
+{{- $sub := slice -}}{{ with $span }}{{ $sub = $sub | append . }}{{ end }}{{ with $p.Params.period }}{{ $sub = $sub | append . }}{{ end }}
+<div class="sheet-head"><span class="sheet-t" id="panel-h">Letters nearby</span><button type="button" class="sheet-x" data-panel-toggle aria-controls="panel" aria-label="Close the list of letters"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+{{- with $sub }}
+<p class="rail-pos">{{ delimit . " · " }}</p>
 {{- end }}
 {{- $x := 0.0 }}{{ if gt (len $letters) 1 }}{{ $x = div (mul 1000.0 $idx) (sub (len $letters) 1) }}{{ end }}
 <svg class="rail-line" viewBox="0 0 1000 12" preserveAspectRatio="none" aria-hidden="true" focusable="false"><rect class="track" x="0" y="5.5" width="1000" height="1"/><rect class="done" x="0" y="5.5" width="{{ $x }}" height="1"/></svg>
