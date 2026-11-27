@@ -567,6 +567,8 @@ html[data-theme="night"] .salutations a { color: var(--ink-3); }
 /* The book title gives way (with an ellipsis) before the position does. */
 .letter-bar .crumb { min-width: 0; flex: 1 1 auto; display: flex; justify-content: flex-end; align-items: baseline; font-size: 15px; color: var(--ink-3); white-space: nowrap; }
 .letter-bar .crumb a { display: none; min-width: 0; overflow: hidden; text-overflow: ellipsis; font-style: italic; color: var(--ink-2); }
+/* The link keeps its 44px tap height; a 44px line box puts its words (and the baseline-aligned count) on the bar's centre line. */
+.letter-bar .crumb a { line-height: 44px; }
 .letter-bar .crumb .of { flex: none; }
 @media (max-width: 420px) { .letter-bar .crumb .long { display: none; } }
 .letter-bar .tools { flex: none; display: flex; align-items: center; gap: 2px; }
@@ -574,6 +576,8 @@ html[data-theme="night"] .salutations a { color: var(--ink-3); }
   border: 0; border-radius: 2px; background: transparent; color: var(--ink-2); font-size: 16px; cursor: pointer; }
 .tbtn[aria-expanded="true"] { color: var(--ink); }
 .aa-btn { font-size: 19px; letter-spacing: -0.01em; }
+/* Capitals carry their ink above the line box's centre; drop them so "Aa" lines up with the moon beside it. */
+.aa-btn span { transform: translateY(2px); }
 .tbtn .dot, .focus-row .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--lamp); flex: none; }
 .leave-focus { display: none; }
 html.focus .leave-focus { display: inline-flex; color: var(--ink); }
