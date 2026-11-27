@@ -10,28 +10,57 @@
   "Raja Rammohun Roy"
  ],
  "translators": [],
- "publisher": "",
+ "publisher": "A. C. Sarkar, Brahmo Mission Press",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [
+  "Sophia Dobson Collet spent her last years in London gathering every surviving trace of Raja Rammohun Roy—his polemics in Calcutta against idolatry and suttee, his Unitarian correspondence across Britain and America, and his final embassy to London and Paris between 1830 and his death at Bristol in September 1833. Left unfinished at her death in 1894 and completed at her dying request by F. Herbert Stead in 1900, this 1914 Calcutta second edition edited by Hem Chandra Sarkar weaves fourteen complete letters and autobiographical dispatches alongside contemporary excerpts into a full portrait of his career.",
+  "For Rammohun Roy's fuller public memorials and later-unearthed correspondence—including his three-letter exchange with Jeremy Bentham, his 1823 letter to Lord Amherst on scientific education, his letter to Robert Dale Owen, and his 1831 passport appeal to the Foreign Minister of France—see the companion volume Letters, Petitions, and Public Addresses of Raja Rammohun Roy."
+ ],
+ "people": [
+  {
+   "name": "Raja Rammohun Roy",
+   "bio": "Bengali reformer, polyglot scholar of Sanskrit, Persian, Arabic, and English, and founder of the Brahmo Samaj whose writings and letters championed press freedom, the abolition of suttee, and modern scientific education.",
+   "dates": "1772–1833",
+   "wikipedia": "https://en.wikipedia.org/wiki/Raja_Ram_Mohan_Roy",
+   "wikisource": "https://en.wikisource.org/wiki/Author:Raja_Ram_Mohan_Roy"
+  },
+  {
+   "name": "Sophia Dobson Collet",
+   "bio": "English chronicler of the Brahmo Samaj who saw Rammohun Roy at South Place Chapel in London as a child and devoted decades to assembling his standard nineteenth-century biography.",
+   "dates": "1822–1894",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sophia_Dobson_Collet"
+  }
+ ],
+ "links": [
+  {
+   "label": "Raja Ram Mohan Roy on Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Raja_Ram_Mohan_Roy"
+  },
+  {
+   "label": "Raja Ram Mohan Roy on Wikisource",
+   "url": "https://en.wikisource.org/wiki/Author:Raja_Ram_Mohan_Roy"
+  }
+ ],
  "author_or_editor": "Sophia Dobson Collet, Raja Rammohun Roy",
  "year": 1914,
  "archive_id": "lifelettersofraj00collrich",
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 13,
+  "letters": 14,
   "notes": 132,
   "pages": 374,
-  "dated_letters": 8
+  "dated_letters": 10
  },
- "provenance_tier": "community",
+ "provenance_tier": "machine_checked",
  "quality": {
-  "score": 98.5,
+  "score": 100.0,
   "out_of": 100.0,
   "pillars": [
    {
     "key": "text",
-    "score": 28.5,
+    "score": 30.0,
     "out_of": 30.0
    },
    {
@@ -55,7 +84,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 3,
+  "flagged": 0,
   "blockers": 0
  },
  "proof": {
@@ -64,7 +93,7 @@
   "verified": 0,
   "machine_reread": 4
  },
- "page_kinds": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnLLnnnnLLnnnnnnnnnnnnnnnnnnnnLnnnLnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnLLnLLnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnLLLLLnnnnnnnnnnnnnnnnnnnnnnaaaaaaaaLLLLaaaaaaaaaaaaaaaaaaaaiiiiaaaaaaaa",
+ "page_kinds": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnLLnnnnLLnnnnnnnnnnnnnnnnnnnnLnnnLnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnLLnLLnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnLLnLLLLLnnnnnnnnnnnnnnnnnnnnnnaaaaaaaaLLLLaaaaaaaaaaaaaaaaaaaaiiiiaaaaaaaa",
  "page_runs": [
   [
    "f",
@@ -120,7 +149,15 @@
   ],
   [
    "n",
-   44
+   41
+  ],
+  [
+   "L",
+   2
+  ],
+  [
+   "n",
+   1
   ],
   [
    "L",
@@ -233,6 +270,10 @@
  ],
  "year_counts": [
   [
+   1789,
+   1
+  ],
+  [
    1820,
    1
   ],
@@ -246,11 +287,11 @@
   ],
   [
    1833,
-   5
+   6
   ]
  ],
  "periods": [],
- "unperiodised_count": 13,
+ "unperiodised_count": 14,
  "frontispiece": {
   "page": 9,
   "leaf": 8,
@@ -264,27 +305,27 @@
   {
    "format": "epub",
    "file": "rammohun-roy-life-letters-1914.epub",
-   "bytes": 364878,
-   "sha256": "a10f15bc9fa438440aaf40779141a872f328387c58c68aef1169bb6753d98ab5"
+   "bytes": 364946,
+   "sha256": "e6386443410244ea58ec6c9363e63db6b54be4a6763edac6868d220474f51ea2"
   },
   {
    "format": "markdown",
    "file": "rammohun-roy-life-letters-1914.md",
-   "bytes": 722095,
-   "sha256": "04fbfbd2e69d258c32f873c0b34ed254b06ab9c104860ebf3f6ea364d540ba58"
+   "bytes": 722206,
+   "sha256": "76b4b14e3c7d26dca37af72a3fa20d3c8de1c5703cbec77fbf75920a54f56bb6"
   },
   {
    "format": "tei",
    "file": "rammohun-roy-life-letters-1914.tei.xml",
-   "bytes": 805773,
-   "sha256": "b018dfaac3b4083b47f42fbddc82268532d08897a1c48e25a0e3770ec3595658"
+   "bytes": 806535,
+   "sha256": "526bf91d715a455b82fc948db558dcc098221ffd67a3eb8ddb02f2b3888033af"
   }
  ],
  "scan_base": "https://archive.org/download/lifelettersofraj00collrich/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-24T19:23:40Z",
-  "source_ast_sha256": "fcdb9d7c985ee4f93395793fae7a7b2c84102d62017a067cbc7d4269c59c84b1",
+  "compiled_at": "2026-11-27T05:11:17Z",
+  "source_ast_sha256": "cc397262afe145b8cca2b0276632b30cde560bbfe8c4f63d1404cdabebe51488",
   "hugo_renderer_version": "1.0.0"
  }
 }

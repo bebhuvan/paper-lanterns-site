@@ -2,7 +2,7 @@
 
 - **Author / Editor**: Toru Dutt, Harihar Das (ed.)
 - **Year**: 1921
-- **Letters**: 75
+- **Letters**: 76
 - **Pages**: 408
 
 ## Frontmatter
@@ -4606,9 +4606,9 @@ Tom Thumb, Tom Thumb !
 
 ### Notes
 
-[^fn-p0328-1]: (1) I bring some flowers and fruits,
-    Gathered on another soil,
-    In another sunlight,
+[^fn-p0328-1]: (1) I bring some flowers and fruits,  
+    Gathered on another soil,  
+    In another sunlight,  
     In a happier clime.
 [^fn-p0328-2]: (2) Maud Diver's *The Englishwoman in India.*
 [^fn-p0343-1]: (1) See vol. i, pp. 357–75, *Actes et Paroles*, 1875.
@@ -4651,6 +4651,8 @@ DIED 30th AUGUST, 1877.
 > <span class="small-caps">Rev.</span> ii. 10.
 
 In conveying the sad news of his bereavement to Miss Martin, Mr. Dutt wrote, on August 31, 1877 :
+
+### Letter 68: Govin Chunder Dutt → Miss Martin / Mary Martin
 
 > ‘Your letter to Toru’s address was delivered to me this morning. Toru has passed from the earth. She left us last night at 8 p.m., and her end was perfect peace. She loved you very much. I have no doubt, loves you still. I shall send you hereafter one or two trifles to keep as reminiscences, but do not find myself able to write just at present. The Lord bless you for all you have been to my beloved child. Kindest regards to your parents from self and Mrs. Dutt, and believe me ever to remain,—Your most sincere friend,
 
@@ -5095,7 +5097,7 @@ The story of these gifted and heroic sisters, whose brief lives found fulfilment
 
 #### TRANSLATION OF THE CORRESPONDENCE<br />BETWEEN M<span class="small-caps">lle</span> BADER AND TORU
 
-### Letter 68: Clarisse Bader → Toru Dutt
+### Letter 69: Clarisse Bader → Toru Dutt
 
 #### *Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.*
 
@@ -5120,7 +5122,7 @@ de Babylone, 62, Paris.
 
 PS. I understand that your English translation is to be published in India. The intervention of my publisher would only be necessary in case it were printed in England. But, as he has himself told me, there is no difficulty about your translation appearing in such a distant country as India.
 
-### Letter 69: Toru Dutt → Clarisse Bader
+### Letter 70: Toru Dutt → Clarisse Bader
 
 #### *Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.*
 
@@ -5149,7 +5151,7 @@ and Justice of the Peace, Calcutta.
 
 PS. I have kept back this letter till now, hoping to have received the book kindly promised by M. Garcin de Tassy, but it has not come, and the mail leaves to-morrow. Perhaps I may soon have the pleasure of clasping your hand, as we hope to leave India next month. My father has absolutely decided upon going to Europe. He says that in France and England there are more learned doctors than in Calcutta ; and also our doctors advise a change of climate, which they say will do me more good than all the drugs of a pharmacy. This change in our plans obliges me to ask you not to write till you have heard again from me.
 
-### Letter 70: Toru Dutt → Clarisse Bader
+### Letter 71: Toru Dutt → Clarisse Bader
 
 #### *Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.*
 
@@ -5160,7 +5162,7 @@ April 13, 1877.
 
 <span class="small-caps">Toru Dutt.</span>
 
-### Letter 71: Clarisse Bader → Toru Dutt
+### Letter 72: Clarisse Bader → Toru Dutt
 
 #### *Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.*
 
@@ -5178,7 +5180,7 @@ Believe, dear Mademoiselle, that you have in France a friend who could be happy 
 
 <span class="small-caps">Clarisse Bader.</span>
 
-### Letter 72: Toru Dutt → Clarisse Bader
+### Letter 73: Toru Dutt → Clarisse Bader
 
 #### *Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.*
 
@@ -5188,7 +5190,7 @@ July 30, 1877.
 
 <span class="small-caps">Toru Dutt.</span>
 
-### Letter 73: Clarisse Bader → Toru Dutt
+### Letter 74: Clarisse Bader → Toru Dutt
 
 #### *Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.*
 
@@ -5210,7 +5212,7 @@ PS. I enclose a little flower of my country. It is my favourite one and it is ca
 
 It may interest our readers to learn that in December of 1907 Miss Elizabeth S. Colton, an American lady, came to visit India, and wrote a letter to one of Toru Dutt’s surviving relatives expressing her desire to see the Baugmaree Garden- House. The letter will speak for itself as to how Toru Dutt's name is revered and loved even by the people of that far-off country.
 
-### Letter 74: Elizabeth S. Colton
+### Letter 75: Elizabeth S. Colton
 
 31, Free School Street, Calcutta.  
 December 28, 1907.
@@ -5227,7 +5229,7 @@ I am to be in Calcutta for a very short time, and would be grateful for an inter
 
 The following recollections of Toru Dutt were sent by the Right Rev. Bishop Clifford, formerly of Lucknow :
 
-### Letter 75: A. Clifford → Harihar Das
+### Letter 76: A. Clifford → Harihar Das
 
 The Vicarage, Stoke Bishop, near Bristol.  
 October 30, 1915.

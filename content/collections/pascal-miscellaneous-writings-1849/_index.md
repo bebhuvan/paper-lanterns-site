@@ -14,6 +14,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Blaise Pascal (tr. George Pearce)",
  "year": 1849,
  "archive_id": "cu31924029054439",
@@ -25,9 +28,9 @@
   "pages": 468,
   "dated_letters": 8
  },
- "provenance_tier": "community",
+ "provenance_tier": "machine_checked",
  "quality": {
-  "score": 97.0,
+  "score": 100.0,
   "out_of": 100.0,
   "pillars": [
    {
@@ -37,7 +40,7 @@
    },
    {
     "key": "structure",
-    "score": 22.0,
+    "score": 25.0,
     "out_of": 25.0
    },
    {
@@ -56,7 +59,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 1,
+  "flagged": 0,
   "blockers": 0
  },
  "proof": {
@@ -261,27 +264,27 @@
   {
    "format": "epub",
    "file": "pascal-miscellaneous-writings-1849.epub",
-   "bytes": 395937,
-   "sha256": "541a0ba224a41394b7085237e63d47856687b27e42aa5286c4f49bcfb27ddf12"
+   "bytes": 395957,
+   "sha256": "e805585a06ff0b3e509f0084e597b2efb8e2cb605a6e0150956bf3d425dc23e7"
   },
   {
    "format": "markdown",
    "file": "pascal-miscellaneous-writings-1849.md",
-   "bytes": 661853,
-   "sha256": "b86cb7415392fc4cd26f749358848e5e7edec8fcbb34568e02e8d059cf05f7a2"
+   "bytes": 661940,
+   "sha256": "958e09e4d4289bc28996860adf6279f5ec139abeda74e73be679a94f27aa852b"
   },
   {
    "format": "tei",
    "file": "pascal-miscellaneous-writings-1849.tei.xml",
-   "bytes": 780710,
-   "sha256": "6db0256fb97f364b5ed7416bc9d6f974098cf8d4dd11e5be4f4629f4e1b893ba"
+   "bytes": 780935,
+   "sha256": "4bd40ae871ca259c1b1367355678cf3bf74bd66ba09ef817d62454a56bd5f1e5"
   }
  ],
  "scan_base": "https://archive.org/download/cu31924029054439/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:23:17Z",
-  "source_ast_sha256": "5aadb1f23e91dcbc987ff5e27779314b4c2830c604a5f9764633f056d0c8bbf3",
+  "compiled_at": "2026-11-27T05:12:14Z",
+  "source_ast_sha256": "5c0a2a3235b07c52bc8bb650c318ae8f97ba3789a7df61121d3edec0e2dfbf1f",
   "hugo_renderer_version": "1.0.0"
  }
 }

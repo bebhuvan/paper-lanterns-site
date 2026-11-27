@@ -1,4 +1,54 @@
 {
+  "adams-jefferson-correspondence-1925": {
+    "book": [
+      "After fifteen years of political estrangement following the election of 1800, former presidents John Adams (then seventy-six) and Thomas Jefferson (sixty-eight) renewed their friendship in January 1812 at the urging of their mutual friend Dr. Benjamin Rush. Over the next fourteen years—writing between Quincy, Massachusetts, and Monticello, Virginia—they debated natural aristocracy, religion, classics, American history, books, and old age right up to their final months in 1826.",
+      "Paul Wilstach selected and linked seventy-three letters from that reconciliation correspondence for The Bobbs-Merrill Company in 1925. This Paper Lanterns edition is transcribed from the unaugmented 1966 Capricorn Books reprint, keeping the editor's narrative bridges and the printed spelling and classical Greek and Latin quotations verbatim."
+    ],
+    "links": [
+      {
+        "label": "John Adams on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Adams"
+      },
+      {
+        "label": "Thomas Jefferson on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+      },
+      {
+        "label": "Benjamin Rush on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benjamin_Rush"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Second President of the United States and leading theorist of constitutional balance, writing candidly in retirement from Quincy, Massachusetts, about history, classics, religion, and the American Revolution.",
+        "dates": "1735–1826",
+        "name": "John Adams",
+        "slug": "john-adams"
+      },
+      {
+        "bio": "Principal author of the Declaration of Independence and third President of the United States, answering Adams from Monticello on philosophy, science, ancient Greek, and republican self-government.",
+        "dates": "1743–1826",
+        "name": "Thomas Jefferson",
+        "slug": "thomas-jefferson"
+      },
+      {
+        "bio": "Philadelphia physician, educator, and signer of the Declaration of Independence whose long friendship with both statesmen helped bring about the 1812 reconciliation.",
+        "dates": "1746–1813",
+        "name": "Benjamin Rush"
+      },
+      {
+        "bio": "American author and editor who selected, arranged, and supplied connective commentary for this 1925 volume of the Adams–Jefferson correspondence.",
+        "dates": "1870–1952",
+        "name": "Paul Wilstach",
+        "slug": "paul-wilstach"
+      }
+    ],
+    "related": [
+      "fifty-famous-letters-1930",
+      "letters-from-famous-people-1925",
+      "mill-letters-vol1-1910"
+    ]
+  },
   "anandabai-joshee-life-letters-1888": {
     "book": [
       "Anandabai Joshee (1865–1887) sailed from Calcutta to Philadelphia in 1883 to earn her medical degree at the Woman’s Medical College of Pennsylvania, becoming the first Indian woman to qualify in Western medicine; her letters home trace the loneliness, winter cold, and steady resolve of those years before her death in Pune at twenty-one.",
@@ -804,6 +854,51 @@
       "fifty-famous-letters-1930"
     ]
   },
+  "mary-shelley-letters-1918": {
+    "book": [
+      "Written between 1817 and 1844 from Marlow, Italy (Pisa, Leghorn, the Baths of Lucca, Rome, and Genoa), and London, these thirty-six letters—most addressed to Leigh Hunt and his wife Marianne—record Mary Wollstonecraft Shelley's daily reading, travels with Percy Bysshe Shelley, bereavement, literary friendships, and later efforts to edit Shelley's prose.",
+      "Henry Howard Harper introduced and annotated the manuscripts for a private edition of one hundred and fifty copies printed in 1918 at the Plimpton Press for Edmund D. Brooks of Minneapolis under the auspices of the Bibliophile Society."
+    ],
+    "links": [
+      {
+        "label": "Mary Shelley on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mary_Shelley"
+      },
+      {
+        "label": "Leigh Hunt on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Leigh_Hunt"
+      }
+    ],
+    "people": [
+      {
+        "bio": "English novelist, essayist, and editor, author of Frankenstein, whose letters here chronicle life in England and Italy alongside Percy Bysshe Shelley and her widowhood work preserving his writings.",
+        "dates": "1797–1851",
+        "name": "Mary Wollstonecraft Shelley",
+        "slug": "mary-wollstonecraft-shelley"
+      },
+      {
+        "bio": "English poet, essayist, and editor of The Examiner who championed the younger Romantics and received many of Mary Shelley's letters from Italy and England.",
+        "dates": "1784–1859",
+        "name": "Leigh Hunt"
+      },
+      {
+        "bio": "Silhouette artist and sculptor, wife of Leigh Hunt, and close friend and frequent confidante of Mary Shelley.",
+        "dates": "1788–1857",
+        "name": "Marianne Hunt"
+      },
+      {
+        "bio": "Bibliophile Society officer, author, and editor who wrote the introduction and notes to this 1918 collection.",
+        "dates": "1871–1953",
+        "name": "Henry Howard Harper",
+        "slug": "henry-howard-harper"
+      }
+    ],
+    "related": [
+      "percy-shelley-hogg-letters-1897",
+      "selected-english-letters-1914",
+      "nineteenth-century-letters-1919"
+    ]
+  },
   "michelangelo-letters-1913": {
     "book": [
       "Across more than two hundred letters and papers translated and edited by Robert W. Carden in 1913 (Houghton Mifflin), Michelangelo appears far from marble myth: haggling over Carrara quarries, wrangling with patrons and popes over the Sistine Chapel and Julius II’s tomb, lecturing his nephew Lionardo on marriage and thrift, and grieving the death of his servant Urbino.",
@@ -1109,6 +1204,64 @@
       "voltaire-in-his-letters-1919"
     ]
   },
+  "percy-shelley-hogg-letters-1897": {
+    "book": [
+      "Between December 1810 and April 1811, eighteen-year-old Percy Bysshe Shelley wrote rapidly from Field Place, Horsham, and London to his Oxford friend Thomas Jefferson Hogg—arguing religious skepticism, recounting his engagement break with Harriet Grove, reacting to his expulsion from University College over The Necessity of Atheism, and reporting early negotiations with his father in London.",
+      "William Michael Rossetti and Harry Buxton Forman edited and annotated Volume I in London in 1897 in a privately printed edition limited to thirty copies."
+    ],
+    "links": [
+      {
+        "label": "Percy Bysshe Shelley on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley"
+      },
+      {
+        "label": "Thomas Jefferson Hogg on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson_Hogg"
+      },
+      {
+        "label": "William Michael Rossetti on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/William_Michael_Rossetti"
+      },
+      {
+        "label": "Harry Buxton Forman on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Harry_Buxton_Forman"
+      }
+    ],
+    "people": [
+      {
+        "bio": "English Romantic poet writing here at eighteen during his Oxford term and the weeks immediately following his expulsion in spring 1811.",
+        "dates": "1792–1822",
+        "name": "Percy Bysshe Shelley",
+        "slug": "percy-bysshe-shelley"
+      },
+      {
+        "bio": "Barrister, writer, and Shelley's close University College confidant, co-expelled from Oxford in March 1811 and later author of a celebrated life of Shelley.",
+        "dates": "1792–1862",
+        "name": "Thomas Jefferson Hogg"
+      },
+      {
+        "bio": "Father of Thomas Jefferson Hogg (as identified on scan leaf 82, footnote to Letter XIV), to whom Shelley wrote in April 1811 regarding settlement terms.",
+        "name": "John Hogg"
+      },
+      {
+        "bio": "English man of letters, co-founder of the Pre-Raphaelite Brotherhood, and joint editor with H. Buxton Forman of these annotated 1897 volumes.",
+        "dates": "1829–1919",
+        "name": "William Michael Rossetti",
+        "slug": "william-michael-rossetti"
+      },
+      {
+        "bio": "English bibliographer and Shelley scholar who co-edited this privately printed annotated edition with W. M. Rossetti.",
+        "dates": "1842–1917",
+        "name": "Harry Buxton Forman",
+        "slug": "h-buxton-forman"
+      }
+    ],
+    "related": [
+      "mary-shelley-letters-1918",
+      "selected-english-letters-1914",
+      "nineteenth-century-letters-1919"
+    ]
+  },
   "poe-valentine-letters-1925": {
     "book": [
       "Before the raven and the legend, there was a proud, penniless young man writing desperately to the Richmond merchant who had raised him without ever formally adopting him. These thirty-five letters from 1826 to 1833 follow the slow rupture between Edgar Allan Poe and John Allan across gambling debts at the University of Virginia, secret army enlistment, dismissal from West Point, and hunger in Baltimore.",
@@ -1180,10 +1333,54 @@
       "old-love-letters-1883"
     ]
   },
+  "rammohun-roy-letters-and-petitions": {
+    "book": [
+      "Collected here from the public-domain historical appendices of the 1962 Calcutta edition of Collet’s Life and Letters are Raja Rammohun Roy’s principal public petitions, constitutional addresses, and late European correspondence (1823–1833) absent from the 1914 edition. They open in Calcutta with his 1823 Press Regulation memorials to the Supreme Court and King George IV, his celebrated letter to Lord Amherst pleading for chemistry, mathematics, and natural philosophy over scholastic routine, the 1830 congratulatory address to Lord William Bentinck on the abolition of suttee, the Brahmo Samaj Trust Deed, and the petition drafted for Mughal Emperor Akbar II.",
+      "From his final years in England come his complete surviving three-letter exchange with Jeremy Bentham on judicial reform and Panopticon (1828–1831), his April 1833 letter to Robert Dale Owen on religion and social reform, and his December 1831 letters to T. Hyde Villiers and the French Foreign Minister challenging passport barriers and proposing an international parliamentary congress to arbitrate disputes between constitutional states."
+    ],
+    "links": [
+      {
+        "label": "Raja Ram Mohan Roy on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Raja_Ram_Mohan_Roy"
+      },
+      {
+        "label": "Jeremy Bentham on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jeremy_Bentham"
+      },
+      {
+        "label": "Raja Ram Mohan Roy on Wikisource",
+        "url": "https://en.wikisource.org/wiki/Author:Raja_Ram_Mohan_Roy"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Bengali reformer, constitutional petitioner, and envoy of Emperor Akbar II to London whose public memorials and private letters bridged Calcutta, Westminster, and Paris.",
+        "dates": "1772–1833",
+        "name": "Raja Rammohun Roy",
+        "slug": "raja-rammohun-roy"
+      },
+      {
+        "bio": "English utilitarian philosopher and jurist who addressed Rammohun Roy as his ‘intensely admired and dearly beloved collaborator in the service of mankind’ and corresponded with him on Indian judicial reform.",
+        "dates": "1748–1832",
+        "name": "Jeremy Bentham",
+        "slug": "jeremy-bentham"
+      },
+      {
+        "bio": "Scottish-American social reformer and legislator, son of Robert Owen, to whom Rammohun Roy wrote from Bedford Square in April 1833 on religion, Locke, Newton, and social reform.",
+        "dates": "1801–1877",
+        "name": "Robert Dale Owen"
+      }
+    ],
+    "related": [
+      "rammohun-roy-life-letters-1914",
+      "mill-letters-vol1-1910",
+      "anandabai-joshee-life-letters-1888"
+    ]
+  },
   "rammohun-roy-life-letters-1914": {
     "book": [
       "Sophia Dobson Collet spent years collecting documents on the Bengali reformer, linguist, and founder of the Brahmo Samaj, Raja Rammohun Roy (1772–1833), whose letters address press freedom, English education, constitutional reform, and comparative religion from Calcutta to Bristol.",
-      "Completed after Collet’s death and issued in this 1914 Calcutta second edition edited by Hem Chandra Sarkar, the volume preserves key letters alongside her biographical narrative."
+      "Completed after Collet’s death and issued in this 1914 Calcutta second edition edited by Hem Chandra Sarkar, the volume preserves fourteen complete letters alongside her biographical narrative. For Rammohun Roy’s fuller public memorials and later-unearthed correspondence—including his exchange with Jeremy Bentham, his 1823 letter to Lord Amherst, his letter to Robert Dale Owen, and his 1831 passport appeal to the Foreign Minister of France—see the companion volume Letters, Petitions, and Public Addresses of Raja Rammohun Roy."
     ],
     "links": [
       {
@@ -1214,6 +1411,7 @@
       }
     ],
     "related": [
+      "rammohun-roy-letters-and-petitions",
       "anandabai-joshee-life-letters-1888",
       "toru-dutt-life-letters-1921",
       "tagore-letters-to-a-friend-1928"

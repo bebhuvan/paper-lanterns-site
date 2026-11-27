@@ -2,7 +2,7 @@
 
 - **Author / Editor**: Joseph Dalton Hooker
 - **Year**: 1848
-- **Letters**: 4
+- **Letters**: 6
 - **Pages**: 64
 
 ## Title Page and Front Matter
@@ -239,6 +239,8 @@ The islands we passed were masses of cinders and scoriæ, red and black, quite b
 
 I have been much interested with some of the phenomena of the Red Sea. The winds always blow up and down it, a fact which is not wonderful, though the southern end is in the N.E. and S.W. monsoon, and the northern end within the westerly wind limits. The curious thing is, that the north wind blows all the year round, from Suez to about 20° S. lat., and the south wind nearly all the year from the Straits to Jibbel Zeer island, between which is a broad belt of calms and variables with hot weather and much more vapour than at either extremity. Again, though the north winds always prevail from Suez southwards to 20° lat., all that portion of the sea is higher than the middle or lower part, and twenty-four feet higher than the Mediterranean. It is also much salter than any other part, or than any other sea in the East, the saltness decreasing from Suez to 20° lat., where and from whence to the Straits the sea is no salter than the Indian Ocean, which does not differ from the Atlantic or Pacific.
 
+### Letter 4: J. D. Hooker
+
 Aden, Dec. 19th.
 
 Aden is one of the most remarkable places I ever saw, and I only wonder that so little has been heard of it. It is a great, black, barren volcano, long extinct and of great age, starting abruptly from the ocean opposite the flat shore of Arabia, with which it is connected by a long, low, flat spit of sand. To the west of it is a smaller, but somewhat similar, peninsula of rugged rocks. They are like to the volcanic islands of the southern part of the Red Sea and some parts of the coast of Africa, but altogether different from the S.W. end of Arabia. The long low beach is richly wooded with Acacias, Dates, and Mangroves, I am informed; but it is impossible to land there without being taken prisoner by the Arabs, whom we deprived of Aden. Ships do not lie off the shore, but at the N.W. end of the peninsula, and sheltered from the N.E. monsoon now blowing strong; and there are the coal depôts, a solitary hôtel, and one or two houses of officials. The peninsula is one mass of volcanic rock, 1,700 feet high, a very ancient volcano, in short, whose crater is broken down to the eastward, where the town is placed. In this respect it resembles St. Helena, but is as sterile to look at as Ascension, or more so; for the top of Green Mountain (in Ascension) is *green*; while here, except in a few flat places near the coast, no green thing is to be discerned from the sea. Quite three-fourths of the rock are inaccessible, the upper part consisting of a wall extraordinarily jagged and serrated, several miles long, many parts of which are no broader than a horse's back. This wall sends off spurs; so that take the peninsula where you will, you have a full front; and cut it down where you may, there is always a pointed perpendicular section. The wall forms the rim of the crater and is all but inaccessible; the slopes and land at the base are all volcanic cinders, strata of lava, dykes of basalt, and such like. Upon the whole, it is the ugliest, blackest, most desolate, and most dislocated piece of land, of its size, that ever I set eyes on; and I have seen a good many ugly places.
@@ -263,7 +265,7 @@ A similar eauseway to that by whieh I aseended was carried along the ridges, but
 
 On the Monday morning I went out at day-break to gather what plants I eould find in the eooler valleys faeing the west: they were more luxuriant than on the eastern side, the soil being more gravelly; but still sterility was the order of the day. I added about twenty kinds to my former collection, but nothing remarkable on a easual inspection, or attractive at this flowerless season. Along the beach I did not proeure a single maritime plant, nor an *Alga*: a dichotomous-leaved *Poa*, and a *Cyperus*, both growing in scattered tufts, oeeupying all the sand, whilst the roeks were invariably naked. Further baek, the *Cleome* was abundant, with several smaller *Capparideæ*, the universal *Reseda*, some herbaeeous and shrubby *Euphorbiaceæ* and *Leguminosæ*. A small weeping tree, ten feet high, possibly *Osyris*, was the largest plant. Several *Zygophylleæ, Fagoniæ,* and some *Rubiaceæ* were plentiful; a filiform *Mathiola* (?) and a suffrutescent *Campylanthus,* a pretty Acanthaceous plant, two *Labiatæ,* one *Boraginea,* and some *Scrophularineæ* were also common. A fine fox crossed my path; but I saw none of the apes which are said to be common on the rocks, and thus to strengthen the resemblance between this peninsula and that of Gibraltar. Before 9 o'clock, <span class="small-caps">a.m.,</span> the heat became considerable, and I was glad to get back to Capt. Haines', with barely time enough for breakfast, and to get my collections put into paper before going on board and starting for Ceylon, where we arrived on the last day of the year, and where I found Gardner, who had been waiting our arrival at Colombo for three weeks, and then started for Point de Galle, where we were in company with His Excellency the Governor of Ceylon. He was looking well, and extremely happy, and is evidently in high favour with the authorities.
 
-### Letter 4: J. D. H.
+### Letter 5: J. D. H.
 
 "Moozuffer," Madras Roads, Jan. 5, 1848.
 
@@ -298,6 +300,8 @@ In the town I saw a juggler carrying a hooded snake, the Cobra, a beautiful crea
 In the afternoon of Friday we had to attend upon Lord Dalhousie during a levée, at which all the Madras people, civil and military, made their obeisance. It was held in a magnificent hall or banqueting-room, detached from Government-House, having a good deal the character of the noble Exchange-room in Glasgow.
 
 I do not think I have any more about Madras worth relating to you. The little leisure I could spare was devoted to the Agro-Horticultural Society's Gardens, and to the inspection of Mr. Elliott's birds and animals.
+
+### Letter 6: J. D. Hooker
 
 Sir Laurence Peel's, Garden Reach,  
 Calcutta, Jan. 20th, 1848.

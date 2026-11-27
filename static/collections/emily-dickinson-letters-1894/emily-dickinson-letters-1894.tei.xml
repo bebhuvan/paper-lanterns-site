@@ -239,11 +239,11 @@
         <correspAction type="received"><persName>William Austin Dickinson</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0054">
-        <correspAction type="sent"><persName>Emily</persName><date>Thursday Evening.</date></correspAction>
+        <correspAction type="sent"><persName>Emily</persName></correspAction>
         <correspAction type="received"><persName>William Austin Dickinson</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0055">
-        <correspAction type="sent"><persName>Emilie</persName><date>Tuesday Evening.</date></correspAction>
+        <correspAction type="sent"><persName>Emilie</persName></correspAction>
         <correspAction type="received"><persName>William Austin Dickinson</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0056">
@@ -271,23 +271,22 @@
         <correspAction type="received"><persName>Mrs Ford</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0062">
-        <correspAction type="sent"><persName>E.</persName><date>Tuesday Morn.</date></correspAction>
+        <correspAction type="sent"><persName>E.</persName></correspAction>
         <correspAction type="received"><persName>Mrs Ford</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0063">
-        <correspAction type="sent"><persName>Emilie</persName><date>Thursday Morning.</date></correspAction>
+        <correspAction type="sent"><persName>Emilie</persName></correspAction>
         <correspAction type="received"><persName>Mrs Ford</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0064">
-        <correspAction type="sent"><persName>Emily</persName><date>Thursday Morn.</date></correspAction>
+        <correspAction type="sent"><persName>Emily</persName></correspAction>
         <correspAction type="received"><persName>Mrs Ford</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0065">
-        <correspAction type="sent"><persName>Emily</persName><date>Saturday Morn.</date></correspAction>
+        <correspAction type="sent"><persName>Emily</persName></correspAction>
         <correspAction type="received"><persName>Mrs Ford</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0066">
-        <correspAction type="sent"><date>Thursday Morning.</date></correspAction>
         <correspAction type="received"><persName>Mrs Ford</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0067">
@@ -356,7 +355,7 @@
         <correspAction type="received"><persName>Mrs Holland</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0084">
-        <correspAction type="sent"><persName>Emilie</persName><date>Tuesday Evening.</date></correspAction>
+        <correspAction type="sent"><persName>Emilie</persName></correspAction>
         <correspAction type="received"><persName>Dr Holland</persName><persName>Mrs Holland</persName><persName>Minnie</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0085">
@@ -402,7 +401,7 @@
         <correspAction type="sent"><persName>Emily</persName><date when="1860">[1860.]</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0096">
-        <correspAction type="sent"><persName>Emily</persName><date>Friday.</date></correspAction>
+        <correspAction type="sent"><persName>Emily</persName></correspAction>
         <correspAction type="received"><persName>Friends</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0097">
@@ -435,7 +434,7 @@
         <correspAction type="sent"><persName>Emily</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0105">
-        <correspAction type="sent"><persName>Emily</persName><date>Thursday.</date></correspAction>
+        <correspAction type="sent"><persName>Emily</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0106">
         <correspAction type="sent"><persName>Emily</persName></correspAction>
@@ -465,7 +464,7 @@
         <correspAction type="received"><persName>Mary Bowles</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0114">
-        <correspAction type="sent"><persName>Emily Dickinson</persName><placeName>Amherst</placeName><date when="1859">Amherst.</date></correspAction>
+        <correspAction type="sent"><persName>Emily Dickinson</persName><placeName>Amherst</placeName><date when="1859">1859</date></correspAction>
         <correspAction type="received"><persName>Mary Bowles</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0115">
@@ -492,7 +491,7 @@
         <correspAction type="received"><persName>Samuel Bowles</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0121">
-        <correspAction type="sent"><persName>Emily Dickinson</persName><date>Sunday Night.</date></correspAction>
+        <correspAction type="sent"><persName>Emily Dickinson</persName></correspAction>
         <correspAction type="received"><persName>Mary Bowles</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0122">
@@ -578,7 +577,7 @@
         <correspAction type="sent"><persName>Emilie.</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0143">
-        <correspAction type="sent"><persName>Emily Dickinson</persName><date>Saturday.</date></correspAction>
+        <correspAction type="sent"><persName>Emily Dickinson</persName></correspAction>
         <correspAction type="received"><persName>Samuel Bowles</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0144">
@@ -602,7 +601,7 @@
         <correspAction type="received"><persName>Samuel Bowles</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0149">
-        <correspAction type="sent"><persName>Emily Dickinson</persName><date>Wednesday.</date></correspAction>
+        <correspAction type="sent"><persName>Emily Dickinson</persName></correspAction>
         <correspAction type="received"><persName>Samuel Bowles</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0150">
@@ -906,12 +905,11 @@
       <div xml:id="sec-sec-03" type="chapter">
 <head>CHAPTER II</head>
 <pb xml:id="page-83" n="65"/>
-<div xml:id="div-unit-0035" type="editorial">
+<div xml:id="div-letter-0021" type="letter" corresp="#letter-0021">
 <head rend="center"><hi rend="italic">To Mr William Austin Dickinson</hi></head>
 <p>THE following letters were written to Emily Dickinson's brother between the years 1847 and 1854, the earlier ones being sent from South Hadley, while he was a student in Amherst College. Later ones were written at Amherst, and sent to Boston, where he had charge of a school after graduation, 1851 and 1852; while the latest were addressed to Cambridge during her brother's studies at the Harvard Law School, 1853 and 1854. During these last two years their father, the Hon. Edward Dickinson, was in Congress at Washington.</p>
-</div>
-<div xml:id="div-letter-0021" type="letter" corresp="#letter-0021">
-<opener><dateline rend="center">[South Hadley, Autumn, 1847.]</dateline><dateline rend="right"><hi rend="italic">Thursday Noon.</hi></dateline></opener>
+<p rend="dateline">[South Hadley, Autumn, 1847.]</p>
+<p rend="dateline"><hi rend="italic">Thursday Noon.</hi></p>
 <p><hi rend="smallcaps">My dear Brother Austin</hi>, — I have not really a moment of time in which to write you, and am taking time from ‘silent study hours;’ but I am determined not to break my promise again, and I generally carry my resolutions into effect. I watched you until you were out of sight Saturday evening, <pb xml:id="page-84" n="66"/> and then went to my room and looked over my treasures; and surely no miser ever counted his heaps of gold with more satisfaction than I gazed upon the presents from home. . . .</p>
 <p rend="indented">I can't tell you now how much good your visit did me. My spirits have wonderfully lightened since then. I had a great mind to be homesick after you went home, but I concluded not to, and therefore gave up all homesick feelings. Was not that a wise determination? . . .</p>
 <p rend="indented">There has been a menagerie here this week. Miss Lyon provided ‘Daddy Hawks' as a beau for all the Seminary girls who wished to see the bears and monkeys, and your sister, not caring to go, was obliged to decline the gallantry of said gentleman,—which I fear I may never have another opportunity to avail myself of. The whole company stopped in front of the Seminary and played for about a quarter of an hour, for the purpose of getting custom in the afternoon, I opine. Almost all the girls went; and I enjoyed the solitude finely.</p>
@@ -960,7 +958,7 @@
 <p rend="indented"><hi rend="smallcaps">My dear Austin</hi>,—I received a letter from home on Saturday by Mr G—— S——, and father wrote in it that he intended to send for cousin Emily and myself on Saturday of this week to spend the Sabbath at home. I went to Miss Whitman, after receiving the letter, and asked her if we could go if you decided to come for us. She seemed stunned by my request, and could not find utterance to an answer for some time. At length she said, ‘Did you not know it was contrary to the rules of the Seminary to ask to be absent on the Sabbath?’ I told her I did not. She then took a Catalogue from her table, and showed me the law in full at the last part of it. She closed by saying that we could not go, and I returned to my room without farther ado. So you see I shall be deprived of the pleasure of a visit home, and you that of seeing me, if I may have the presumption to call it a pleasure! The teachers are not willing to let the girls go home this term as it is the last one, and as I have only nine weeks more to spend here, we had better be contented to obey the commands. We shall only be the more glad to see one another after a longer absence, that will be all. I was highly edified with your imaginative note to me, and think your flights of fancy indeed wonderful at your age! When are you coming to see me—it would be very pleasant to us to receive a visit from your highness <pb xml:id="page-93" n="75"/> if you can be absent from home long enough for such a purpose. . . . I can't write longer.</p>
 <closer><salute rend="center">Your affectionate sister,</salute><signed rend="right"><hi rend="smallcaps">Emilie.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0041" type="editorial">
+<div xml:id="div-unit-0040" type="editorial">
 <p>The next letter was written three years later, and sent to Boston.</p>
 </div>
 <div xml:id="div-letter-0026" type="letter" corresp="#letter-0026">
@@ -1097,7 +1095,7 @@
 <p>Father is really sober from excessive satisfaction, and bears his honors with a most becoming air. Nobody believes it yet, it seems like a fairy tale, a most miraculous event in the lives of us all. The men begin working next week; only think of it, Austin; why, I verily believe we shall fall down and worship the first ‘son of Erin’ that comes, and the first sod he turns will be preserved as an emblem of the struggle and victory of our heroic fathers. Such old fellows as Col. S. and his wife fold their arms complacently and say, ‘Well, I declare, we have got it after all.’ Got it, <hi rend="italic">you</hi> good-for-nothings! and so we have, in spite of sneers and pities and insults from all around; and we will keep it too, in spite of earth and heaven! How I wish you were here — it is really too bad, Austin, at such a time as now. I miss your big hurrahs, and the famous stir you make upon all such occasions; but it is a comfort to know that you are here — that your whole soul is here, and though apparently absent, yet present in the highest and the truest sense. . . . Take good care of yourself, Austin, and think much of us all, for we do so of you.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Emilie.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0060" type="editorial">
+<div xml:id="div-unit-0059" type="editorial">
 <p>Several subsequent letters, all piquant and breezy, but dealing quite entirely with family <pb xml:id="page-124" n="106"/> matters, experiences with callers, and other personal subjects, have been omitted.</p>
 </div>
 <div xml:id="div-letter-0044" type="letter" corresp="#letter-0044">
@@ -1111,7 +1109,7 @@
 <p><hi rend="smallcaps">Dear Austin</hi>,— . . . Vinnie will tell you all the news, so I will take a little place to describe a thunder-shower which occurred yesterday afternoon, — the very first of the season. Father and Vinnie were at meeting, mother asleep in her room, and I at work by my window on a 'Lyceum lecture.' The air was really scorching, the sun red and hot, and you know just how the birds sing before a thunder-storm, a sort of hurried and agitated song — pretty soon it began to thunder, and the great 'cream-colored heads' peeped out of their windows. Then came the wind and rain, and I hurried around the house to shut all the doors and windows. I wish you had seen it come, so cool and so refreshing — and everything glistening from it as with a golden dew — I thought of you all the time. This morning is fair and delightful. You will awake in dust, and with it the ceaseless din of the untiring city. Would n't you change your dwelling for my palace in the dew? Good-by for now. I shall see you so soon.</p>
 <closer><signed rend="right">E.</signed></closer>
 </div>
-<div xml:id="div-unit-0063" type="editorial">
+<div xml:id="div-unit-0062" type="editorial">
 <pb xml:id="page-126" n="108"/><p>Mr Edward Dickinson was in Baltimore when the following letter was written, in attendance upon the Whig Convention which sought, unsuccessfully, the nomination of Daniel Webster for the presidency.</p>
 </div>
 <div xml:id="div-letter-0046" type="letter" corresp="#letter-0046">
@@ -1148,7 +1146,7 @@
 <p rend="indented">The cars continue thriving — a good many passengers seem to arrive from somewhere, though nobody knows from where. Father expects his new buggy to arrive by the cars every day now, and that will help a little. I expect all our grandfathers and all their country cousins will come here to spend Commencement, and don't doubt the stock will rise several per cent that week. If we children could obtain board for the week in some 'vast wilderness,' <pb xml:id="page-133" n="115"/> I think we should have good times. Our house is crowded daily with the members of this world, the high and the low, the bond and the free, the ‘poor in this world’s goods,’ and the ‘almighty dollar;’ and what in the world they are after continues to be unknown. But I hope they will pass away as insects or vegetation, and let us reap together in golden harvest time. You and I and our sister Vinnie must have a pleasant time to be unmolested together when your school-days end. You must come home from school, not stopping to play by the way. . . . We all send our love to you, and miss you very much, and think of seeing you again very much. Write me again soon. I have said a good deal to-day.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Emilie.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0069" type="editorial">
+<div xml:id="div-unit-0068" type="editorial">
 <p rend="indented">The new railroad was opened for the first regular trip from Palmer to Amherst, May 9, 1853. Mr Edward Dickinson wrote on that day, ‘We have no railroad jubilee till we see whether all moves right, then we shall glorify becomingly.’ Everything was apparently satisfactory, for the celebration occurred early in June, when more than three hundred New London people visited Amherst. In the following letter from Emily are indications of her growing distaste to mingle in a social <hi rend="italic">mêlée</hi>, despite genuine interest in itself and its cause.</p>
 </div>
 <div xml:id="div-letter-0051" type="letter" corresp="#letter-0051">
@@ -1189,7 +1187,7 @@
 <p rend="indented">There is to be a party at Professor Haven's tomorrow night, for married people merely. Celibacy excludes me and my sister. Father and mother are invited. Mother will go. . . . Mother and Vinnie send love. They are both getting ready for Washington. Take care of yourself.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Emilie.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0076" type="editorial">
+<div xml:id="div-unit-0075" type="editorial">
 <p rend="indented">Already Emily seems to have exhibited disinclination for journeys, as, in a letter to his son in Cambridge, dated at Washington, March 13, 1854, Mr Edward Dickinson said, ‘I have written home to have Lavinia come with your mother and you, and Emily, too, if she will, but that I will not insist upon her coming.’ Emily, however, did go to Washington with her family, later in the spring, as a subsequent letter to Mrs Holland will show.</p>
 </div>
 <div xml:id="div-letter-0057" type="letter" corresp="#letter-0057">
@@ -1220,7 +1218,7 @@
 </div>
       <div xml:id="sec-sec-04" type="chapter">
 <head>CHAPTER III. To Mrs Gordon L. Ford, Mr Bowdoin, Mrs Anthon, and Miss Lavinia Dickinson</head>
-<div xml:id="div-unit-0080" type="narrative">
+<div xml:id="div-unit-0079" type="narrative">
 <pb xml:id="page-143" n="125"/><head rend="center">CHAPTER III</head>
 <head rend="center"><hi rend="italic">To Mrs Gordon L. Ford, Mr Bowdoin, Mrs</hi><lb/><hi rend="italic">Anthon, and Miss Lavinia Dickinson</hi></head>
 <p>WITH a number of early letters to herself, Mrs Ford of Brooklyn sent me also a short sketch of her remembrance of Emily Dickinson’s girlhood, which seems to show her in a somewhat different aspect from anything which other friends have given.</p>
@@ -1244,7 +1242,7 @@
 <p rend="indented">‘I only wish the interest and delight her poems have aroused could have come early enough in her career to have kept her social and communicative, and at one with her friends. Still, these late tributes to her memory are most welcome to the circle that loved her, even though they are but laurels to lay on her grave.</p>
 <closer><signed rend="right">‘E. E. F. F.’</signed></closer>
 </div>
-<div xml:id="div-unit-0081" type="editorial">
+<div xml:id="div-unit-0080" type="editorial">
 <pb xml:id="page-151" n="133"/><p rend="indented">The first letter was written in 1848; the others at intervals until 1853. Though placed in order, they were not dated by Mrs Ford.</p>
 </div>
 <div xml:id="div-letter-0060" type="letter" corresp="#letter-0060">
@@ -1263,7 +1261,7 @@
 <p><hi rend="smallcaps">Dear Emily</hi>,—I come and see you a great many times every day, though I don't bring my body with me, so perhaps you don't know I 'm there. But I love to come just as dearly, for nobody sees me then, and I sit and chat away, and look up in your face, and no matter who calls if ‘ my Lord the King,' he does n't interrupt me. Let me say, dear Emily, both mean to come at a time, so you shall be very sure I am sitting by your side, and not have to trust the fancy. . . .</p>
 <closer><salute rend="center">Affectionately,</salute><signed rend="right">E.</signed></closer>
 </div>
-<div xml:id="div-unit-0085" type="editorial">
+<div xml:id="div-unit-0084" type="editorial">
 <p rend="center">[1849?]</p>
 </div>
 <div xml:id="div-letter-0063" type="letter" corresp="#letter-0063">
@@ -1290,14 +1288,14 @@
 <opener><dateline rend="right"><hi rend="italic">Thursday Morning.</hi></dateline></opener>
 <p rend="indented">. . . When I am as old as you, and have had so many friends, perhaps they won't seem so precious, and then I sha'n't write any more little <hi rend="italic">billets-doux</hi> like these, but you will forgive me now, because I can't find many so dear to me as you. Then I know I can't have you always; some day a ‘brave dragoon' <pb xml:id="page-155" n="137"/> will be stealing you away, and I will have farther to go to discover you at all, so I shall recollect all these sweet opportunities, and feel so sorry if I did n't improve them. . . .</p>
 </div>
-<div xml:id="div-unit-0090" type="editorial">
+<div xml:id="div-unit-0089" type="editorial">
 <p rend="indented">About this time (December, 1849), the following little note was sent to Mr Bowdoin, a law student in Mr Dickinson's office, ' on returning <hi rend="italic">Jane Eyre.</hi> The leaves mentioned were box leaves.'</p>
 </div>
 <div xml:id="div-letter-0067" type="letter" corresp="#letter-0067">
 <opener><dateline rend="center">[December, 1849.]</dateline></opener>
 <p><hi rend="smallcaps">Mr Bowdoin</hi>,—If all these leaves were altars, and on every one a prayer that Currer Bell might be saved, and you were God—would you answer it?</p>
 </div>
-<div xml:id="div-unit-0092" type="editorial">
+<div xml:id="div-unit-0091" type="editorial">
 <p rend="indented">Mr Bowdoin, who was considered by the young girls at that time 'a confirmed bachelor,' also received the accompanying valentine from Emily.</p>
 </div>
 <div xml:id="div-letter-0068" type="letter" corresp="#letter-0068">
@@ -1308,7 +1306,7 @@
 <pb xml:id="page-156" n="138"/><lg><l>The <hi rend="italic">bride</hi> and then the <hi rend="italic">bridegroom</hi>, the <hi rend="italic">two</hi>, and</l><l>    then the <hi rend="italic">one</hi>,</l><l>Adam, and Eve, his consort, the moon and then the</l><l>    sun ;</l><l>The life doth prove the precept, who obey shall</l><l>    happy be,</l><l>Who will not serve the sovereign, be hanged on fatal</l><l>    tree.</l><l>The high do seek the lowly, the great do seek the</l><l>    small,</l><l>None cannot find who seeketh, on this terrestrial</l><l>    ball ;</l><l>The bee doth court the flower, the flower his suit</l><l>    receives,</l><l>And they make a merry wedding, whose guests are</l><l>    hundred leaves ;</l><l>The wind doth woo the branches, the branches they</l><l>    are won,</l><l>And the father fond demandeth the maiden for his</l><l>    son.</l><l>The storm doth walk the seashore humming a mourn-</l><l>    ful tune,</l><l>The wave with eye so pensive, looketh to see the</l><l>    moon,</l><l>Their spirits meet together, they make them solemn</l><l>    vows,</l><l>No more he singeth mournful, her sadness she doth</l><l>    lose.</l><l>The worm doth woo the mortal, death claims a living</l><l>    bride,</l></lg>
 <pb xml:id="page-157" n="139"/><lg><l>Night unto day is married, morn unto eventide ;</l><l>Earth is a merry damsel, and heaven a knight so</l><l>    true,</l><l>And Earth is quite coquettish, and beseemeth in vain</l><l>    to sue.</l><l>Now to the application, to the reading of the roll,</l><l>To bringing thee to justice, and marshalling thy soul :</l><l>Thou art a <hi rend="italic">human</hi> solo, a being cold, and lone,</l><l>Wilt have no kind companion, thou reapest what</l><l>    thou hast sown.</l><l>Hast never silent hours, and minutes all too long,</l><l>And a deal of sad reflection, and wailing instead of</l><l>    song ?</l><l>There 's <hi rend="italic">Sarah,</hi> and <hi rend="italic">Eliza,</hi> and <hi rend="italic">Emeline</hi> so fair,</l><l>And <hi rend="italic">Harriet</hi> and <hi rend="italic">Sabra,</hi> and she with curling hair.</l><l>Thine eyes are sadly blinded, but yet thou mayest</l><l>    see</l><l><hi rend="italic">Six</hi> true and comely maidens sitting upon the tree ;</l><l>Approach that tree with caution, then up it boldly</l><l>    climb,</l><l>And seize the one thou lovest, nor care for space, or</l><l>    time.</l><l>Then bear her to the greenwood, and build for her</l><l>    a bower,</l><l>And give her what she asketh, jewel, or bird, or</l><l>    flower —</l><l>And bring the fife, and trumpet, and beat upon the</l><l>    drum —</l><l>And bid the world Goodmorrow, and go to glory</l><l>    home !</l></lg>
 </div>
-<div xml:id="div-unit-0094" type="editorial">
+<div xml:id="div-unit-0093" type="editorial">
 <pb xml:id="page-158" n="140"/><p>Valentines seemed ever near the thoughts of the young people of this generation, and another clever one, written by Emily in 1852, somehow found its way into <hi rend="italic">The Republican,</hi> probably through some friend. It was originally sent to Mr William Howland.</p>
 </div>
 <div xml:id="div-letter-0069" type="letter" corresp="#letter-0069">
@@ -1389,7 +1387,7 @@
 <p rend="indented">It is too late for frogs — or what pleases me better, dear, not quite early enough! The pools were full of you for a brief period, but that brief period blew away, leaving me with many stems, and but a few foliage! Gentlemen here have a way of plucking the tops of the trees, and putting the fields in their cellars annually, which in point of taste is execrable, and would they please omit, I should have fine vegetation and foliage all the year round, and never a winter month. Insanity to the sane seems so unnecessary — but I am only one, and they are ' four and forty,' which little affair of numbers leaves me impotent. Aside from this, dear Katie, inducements to visit Amherst are as they were — I am pleasantly located in the deep sea, but love will row you out, if her hands are strong, and don't wait till I land, for I 'm going ashore on the other side.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Emilie.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0103" type="editorial">
+<div xml:id="div-unit-0102" type="editorial">
 <p rend="indented">Following are letters written to her sister, Miss Lavinia Dickinson, while Emily was receiving treatment for her eyes in Boston. She was there for this purpose twice, — during the summer of 1864, and again in 1865, usually <pb xml:id="page-169" n="151"/> writing of these years as ‘ when I was sick so long,’ which has given many persons the idea of an invalidism she never had.</p>
 </div>
 <div xml:id="div-letter-0077" type="letter" corresp="#letter-0077">
@@ -1424,14 +1422,14 @@
 <p>Love of Fanny and Lou.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Sister.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0108" type="editorial">
+<div xml:id="div-unit-0107" type="editorial">
 <pb xml:id="page-172" n="154"/><p rend="indented">Soon after the close of the war, a friend, Mrs Vanderbilt of Long Island, met with a very serious bodily accident. Upon her recovery she received the following welcome to the realm of health : —</p>
 </div>
 <div xml:id="div-letter-0081" type="letter" corresp="#letter-0081">
 <lg rend="indented"><l>To this world she returned,</l><l>But with a tingle of that ;</l><l>A compound manner,</l><l>As a sod</l><l>Espoused a violet</l><l>That chiefer to the skies</l><l>Than to himself allied,</l><l>Dwelt, hesitating,</l><l>Half of dust,</l><l>And half of day, the bride.</l></lg>
 <closer><signed rend="right"><hi rend="smallcaps">Emily.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0110" type="editorial">
+<div xml:id="div-unit-0109" type="editorial">
 <p rend="indented">On the occasion of another friend's departure from Amherst after a visit, Emily's good-by was embodied in the following lines, accompanied by an oleander blossom tied with black ribbon : —</p>
 </div>
 <div xml:id="div-letter-0082" type="letter" corresp="#letter-0082">
@@ -1446,12 +1444,11 @@
       <div xml:id="sec-sec-05" type="chapter">
 <head>CHAPTER IV</head>
 <pb xml:id="page-173" n="155"/>
-<div xml:id="div-unit-0113" type="editorial">
+<div xml:id="div-letter-0083" type="letter" corresp="#letter-0083">
 <head rend="center"><hi rend="italic">To Dr J. G. Holland, and Mrs Holland</hi></head>
 <p>THE dates of these letters can be approximated only by the handwriting—which varies from the early style, about 1853, to the latest—and by events mentioned, the time of whose occurrence is known. Mrs Holland writes that there were many other letters, even more quaint and original, but unhappily not preserved.</p>
-</div>
-<div xml:id="div-letter-0083" type="letter" corresp="#letter-0083">
-<opener><dateline rend="center">[About 1853.]</dateline><dateline rend="right"><hi rend="italic">Friday Evening.</hi></dateline></opener>
+<p rend="dateline">[About 1853.]</p>
+<p rend="dateline"><hi rend="italic">Friday Evening.</hi></p>
 <p>Thank you, dear Mrs Holland—Vinnie and I will come, if you would like to have us. We should have written before, but mother has not been well, and we hardly knew whether we could leave her, but she is better now, and I write quite late this evening, that if you still desire it, Vinnie and I will come. Then, dear Mrs Holland, if agreeable to you, we will take the Amherst train on Tuesday morning, for Springfield, and be with you at noon. The cars leave here at nine o'clock, and I think <pb xml:id="page-174" n="156"/> reach Springfield at twelve. I can think just how we dined with you a year ago from now, and it makes my heart beat faster to think perhaps we 'll see you so little while from now.</p>
 <p rend="indented">To live a thousand years would not make me forget the day and night we spent there, and while I write the words, I don't believe I 'm coming, so sweet it seems to me. I hope we shall not tire you; with all your other cares, we fear we should not come, but you <hi rend="italic">will</hi> not let us trouble you, will you, dear Mrs Holland?</p>
 <p rend="indented">Father and mother ask a very warm remembrance to yourself and Dr Holland.</p>
@@ -1472,7 +1469,7 @@
 <p rend="indented">Heaven is large — is it not? Life is short too, is n’t it? Then when one is done, is there not another, and — and — then if God is willing, we are neighbors then. Vinnie and mother send their love. Mine too is here. My letter as a bee, goes laden. Please love us and remember us. Please write us very soon, and tell us how you are. . . .</p>
 <closer><salute rend="center">Affectionately,</salute><signed rend="right"><hi rend="smallcaps">Emilie.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0116" type="apparatus">
+<div xml:id="div-unit-0114" type="apparatus">
 <pb xml:id="page-177" n="177"/><figure type="facsimile_plate"><figDesc>facsimile_plate on p. 177</figDesc></figure>
 </div>
 <div xml:id="div-letter-0085" type="letter" corresp="#letter-0085">
@@ -1511,7 +1508,7 @@
 <p rend="indented">The ‘new house’! God bless it! You will leave the ‘maiden and married life of Mary Powell’ behind.</p>
 <closer><salute rend="indented">Love and remember</salute><signed rend="right"><hi rend="smallcaps">Emilie.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0121" type="editorial">
+<div xml:id="div-unit-0119" type="editorial">
 <pb xml:id="page-184" n="166"/><p rend="indented">While the family lived for many years in the old mansion built by Emily Dickinson's grandfather, the Hon. Samuel Fowler Dickinson, they had moved away from it about 1840; and the following letter describes their return after fifteen years to their early home, where Emily was born, and where she died: —</p>
 </div>
 <div xml:id="div-letter-0089" type="letter" corresp="#letter-0089">
@@ -1585,7 +1582,7 @@
 <p rend="indented">How is your little Byron? Hope he gains his foot without losing his genius. Have heard it ably argued that the poet's genius lay in his foot — as the bee's prong and his song are concomitant. Are you stronger than these? To assault so minute a creature seems to me malign, unworthy of Nature — but the frost is no respecter of persons. <pb xml:id="page-193" n="175"/> I should be glad to be with you, or to open your letter. Blossoms belong to the bee, if needs be by <hi rend="italic">habeas corpus.</hi></p>
 <closer><signed rend="right"><hi rend="smallcaps">Emily.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0129" type="editorial">
+<div xml:id="div-unit-0127" type="editorial">
 <p>Probably about 1861 came this brilliant, yet half pathetic, arraignment of the friends who had not written when Emily expected to hear. Who could resist such a plea?</p>
 </div>
 <div xml:id="div-letter-0096" type="letter" corresp="#letter-0096">
@@ -1617,7 +1614,7 @@
 <pb xml:id="page-196" n="178"/><p>Will some one lay this little flower on Mrs Holland's pillow?</p>
 <closer><signed rend="right"><hi rend="smallcaps">Emilie.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0134" type="editorial">
+<div xml:id="div-unit-0132" type="editorial">
 <p>In handwriting similar to the letters about 1862–68, are several poems, enclosed to the Hollands, among them, —</p>
 <lg rend="indented"><l>Away from home are some and I,</l><l>An emigrant to be</l><l>In a metropolis of homes</l><l>Is common possibility.</l><l>The habit of a foreign sky</l><l>We, difficult, acquire,</l><l>As children who remain in face,</l><l>The more their feet retire.</l></lg>
 <p>And—</p>
@@ -1634,7 +1631,7 @@
 <p rend="indented">I shall not tell how short time is, for I was told by lips which sealed as soon as it was said, and the open revere the shut. You were not here in summer. <hi rend="italic">Summer?</hi> My memory flutters—had I—was there <pb xml:id="page-198" n="180"/> a summer? You should have seen the fields go — gay little entomology! Swift little ornithology! Dancer, and floor, and cadence quite gathered away, and I, a phantom, to you a phantom, rehearse the story! An orator of feather unto an audience of fuzz, — and pantomimic plaudits. ‘Quite as good as a play,’ indeed! Tell Mrs Holland she is mine. Ask her if <hi rend="italic">vice versa?</hi> Mine is but just the thief’s request — ‘Remember me to-day.’ Such are the bright chirographies of the ‘Lamb’s Book.’ Good-night! My ships are in! — My window overlooks the wharf! One yacht, and a man-of-war; two brigs and a schooner! ‘Down with the topmast! Lay her a’ hold, a’ hold!’</p>
 <closer><signed rend="right"><hi rend="smallcaps">Emilie.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0136" type="editorial">
+<div xml:id="div-unit-0134" type="editorial">
 <p>A letter from Mrs Holland to Emily and her sister jointly, in 1877, called forth this unique protest.</p>
 </div>
 <div xml:id="div-letter-0101" type="letter" corresp="#letter-0101">
@@ -1664,7 +1661,7 @@
 <p rend="indented">The grass is painted brown, and how nature would look in other than the standard colors, we can all infer. . . . I bade —— call on you, but Vinnie said you were ‘the other side the globe,’ yet Vinnie thinks Vermont is in Asia, so I don’t intend to be disheartened by trifles.</p>
 <p rend="indented">Vinnie has a new pussy that catches a mouse an hour. We call her the ‘minute hand.’ . . .</p>
 </div>
-<div xml:id="div-unit-0140" type="editorial">
+<div xml:id="div-unit-0138" type="editorial">
 <pb xml:id="page-201" n="183"/><p rend="indented">Dr Holland's death, in October of 1881, brought grief to many loving hearts, but to the quiet Amherst household peculiar pain, voiced in the notes to follow.</p>
 </div>
 <div xml:id="div-letter-0104" type="letter" corresp="#letter-0104">
@@ -1730,7 +1727,7 @@
       <div xml:id="sec-sec-06" type="chapter">
 <head>CHAPTER V</head>
 <pb xml:id="page-207" n="189"/>
-<div xml:id="div-unit-0149" type="narrative">
+<div xml:id="div-unit-0147" type="narrative">
 <head rend="center"><hi rend="italic">To Mr Samuel Bowles and Mrs Bowles</hi></head>
 <p>AS Emily Dickinson approached middle life, and even before her thirtieth year, it seemed to become more and more impossible for her to mingle in general society; and a growing feeling of shyness, as early as 1862 or 1863, caused her to abstain, sometimes, from seeing the dearest friends who came to the house. In spite of her sympathy with sadness, and her deep apprehension of the tragic element in life, she was not only keenly humorous and witty, as already said, but, while made serious by the insistence of life's pathos, she was yet at heart as ecstatic as a bird. This combination of qualities made her companionship, when she vouchsafed it, peculiarly breezy and stimulating. Such a nature must inevitably know more pain than pleasure.</p>
 <p rend="indented">Passionately devoted to her friends, her happiness in their love and trust was at times almost too intense to bear; and it will already <pb xml:id="page-208" n="190"/> have been seen how disproportionately great pain was caused by even comparatively slight separations. With her, pathos lay very near raillery and badinage, — sadness very near delight.</p>
@@ -1772,7 +1769,7 @@
 <p rend="indented">Please, now I write so often, make lamplighter of me, then I shall not have lived in vain. <pb xml:id="page-213" n="195"/> Dear Mrs Bowles, dear Mr Bowles, dear Sally — Sam and Mamie, now all shut your eyes, while I do benediction !</p>
 <closer><salute rend="center">Lovingly,</salute><signed rend="right"><hi rend="smallcaps">Emily.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0153" type="editorial">
+<div xml:id="div-unit-0151" type="editorial">
 <p rend="center">[Written in 1861, on the birth of a son.]</p>
 </div>
 <div xml:id="div-letter-0115" type="letter" corresp="#letter-0115">
@@ -1782,7 +1779,7 @@
 <p rend="indented">We have very cold days since you went away, and I think you hear the wind blow far as the Brevoort House, it comes from so far, and crawls so. Don't let it blow baby away. Will you call him Robert for me? He is the bravest man alive, but <hi rend="italic">his</hi> boy has no mamma. That makes us all weep, don't it?</p>
 <closer><salute rend="center">Good-night, Mary.</salute><signed rend="right"><hi rend="smallcaps">Emily.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0155" type="document">
+<div xml:id="div-unit-0153" type="document">
 <p rend="indented">One of the very few of Emily Dickinson's verses named by herself was sent Mrs Bowles soon after the preceding letter.</p>
 <pb xml:id="page-214" n="196"/><p rend="letter_header">BABY.</p>
 <lg rend="indented"><l>Teach him, when he makes the names,</l><l>Such an one to say</l><l>On his babbling, berry lips</l><l>As should sound to me —</l><l>Were my ear as near his nest</l><l>As my thought, to-day —</l><l>As should sound — ‘ forbid us not ’ —</l><l>Some like ‘ Emily.’</l></lg>
@@ -1875,7 +1872,7 @@
 <p rend="indented">I must do my good-night in crayon I meant to in red.</p>
 <closer><salute rend="indented">Love for Mary.</salute><signed rend="right"><hi rend="smallcaps">Emily.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0165" type="document">
+<div xml:id="div-unit-0163" type="document">
 <p rend="indented">After Mr Bowles had sailed for Europe, Emily sent this quaintly consoling note to Springfield.</p>
 </div>
 <div xml:id="div-letter-0125" type="letter" corresp="#letter-0125">
@@ -1961,7 +1958,7 @@
 <lg rend="indented"><l>I stole them from a bee,</l><l>Because — thee !</l><l>Sweet plea —</l><l>He pardoned me !</l></lg>
 <closer><signed rend="right"><hi rend="smallcaps">Emily.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0177" type="editorial">
+<div xml:id="div-unit-0175" type="editorial">
 <p rend="indented">Besides the verses given here, many others were sent to Mr and Mrs Bowles, as to the Hollands, which, having already been published <pb xml:id="page-230" n="212"/> in one or the other volume of the <hi rend="italic">Poems</hi>, will not be reprinted.</p>
 </div>
 <div xml:id="div-letter-0136" type="letter" corresp="#letter-0136">
@@ -2007,7 +2004,7 @@
 <lg rend="indented"><l>No wilderness can be</l><l>Where <hi rend="italic">this</hi> attendeth thee —</l><l>No desert noon,</l><l>No fear of frost to come</l><l>Haunt the perennial bloom,</l><l>But certain June !</l></lg>
 <closer><signed rend="right"><hi rend="smallcaps">Emily.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0184" type="document">
+<div xml:id="div-unit-0182" type="document">
 <p rend="indented">The following lines, sent with flowers, have almost as quaint and 'seventeenth century' a flavor as the now famous quatrain beginning, —</p>
 <lg rend="center"><l>'A death-blow is a life-blow to some.'</l></lg>
 </div>
@@ -2015,7 +2012,7 @@
 <lg rend="indented"><l>If recollecting were forgetting</l><l>Then I remember not.</l><l>And if forgetting, recollecting,</l><l>How near I had forgot !</l><l>And if to miss were merry,</l><l>And if to mourn were gay,</l><l>How very blithe the fingers</l><l>That gathered this, to-day !</l></lg>
 <closer><signed rend="right"><hi rend="smallcaps">Emilie.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0186" type="document">
+<div xml:id="div-unit-0184" type="document">
 <pb xml:id="page-235" n="217"/><p rend="indented">Other verses, sent at different times, were written in the same general hand, — that of the early middle period, from about 1863 to 1870; among them : —</p>
 <lg rend="indented"><l>‘ They have not chosen me,’ he said,</l><l>‘ But I have chosen them.’</l><l>Brave, broken-hearted statement</l><l>Uttered in Bethlehem !</l></lg>
 <lg rend="indented"><l><hi rend="italic">I</hi> could not have told it,</l><l>But since Jesus dared,</l><l>Sovereign ! know a daisy</l><l>Thy dishonor shared.</l></lg>
@@ -2028,7 +2025,7 @@
 <lg rend="indented"><l>Just once — oh ! least request !</l><l>Could adamant refuse</l><l>So small a grace,</l><l>So scanty put,</l><l>Such agonizing terms ?</l></lg>
 <lg rend="indented"><l>Would not a God of flint</l><l>Be conscious of a sigh,</l><l>As down his heaven dropt remote,</l><l>‘ Just once, sweet Deity ? ’</l></lg>
 </div>
-<div xml:id="div-unit-0188" type="apparatus">
+<div xml:id="div-unit-0186" type="apparatus">
 <pb xml:id="page-236" n="236"/><figure type="facsimile_plate"><figDesc>facsimile_plate on p. 236</figDesc></figure>
 </div>
 <div xml:id="div-letter-0144" type="letter" corresp="#letter-0144">
@@ -2094,7 +2091,7 @@
 <pb xml:id="page-241" n="223"/><p>To remember our own Mr Bowles is all we can do. With grief it is done, so warmly and long, it can never be new.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Emily.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0200" type="editorial">
+<div xml:id="div-unit-0198" type="editorial">
 <p>In January of 1878, Mr Bowles died, leaving a sense of irreparable loss, not only to his friends, but to his great constituency through <hi rend="italic">The Republican,</hi> into whose success he had woven the very tissue of his own magnetic personality.</p>
 </div>
 <div xml:id="div-letter-0155" type="letter" corresp="#letter-0155">
@@ -2157,7 +2154,7 @@
 <p rend="indented">Thank you indeed.</p>
 <closer><signed rend="right"><hi rend="smallcaps">Emily.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0207" type="apparatus">
+<div xml:id="div-unit-0205" type="apparatus">
 <p rend="center">END OF VOL. I.</p>
 </div>
 <div xml:id="notes-sec-06" type="notes"><head>Notes</head>

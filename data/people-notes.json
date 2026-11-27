@@ -216,6 +216,12 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Gustave_Flaubert",
     "wikisource": "https://en.wikisource.org/wiki/Author:Gustave_Flaubert"
   },
+  "h-buxton-forman": {
+    "bio": "English bibliographer and Shelley scholar who co-edited this privately printed annotated edition with W. M. Rossetti.",
+    "dates": "1842–1917",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Buxton_Forman",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Harry_Buxton_Forman"
+  },
   "h-l-mencken": {
     "bio": "American critic and journalist whose 1921 introduction frames the correspondence with characteristic scepticism.",
     "dates": "1880–1956",
@@ -251,6 +257,10 @@
     "dates": "1817–1862",
     "wikipedia": "https://en.wikipedia.org/wiki/Henry_David_Thoreau",
     "wikisource": "https://en.wikisource.org/wiki/Author:Henry_David_Thoreau"
+  },
+  "henry-howard-harper": {
+    "bio": "Bibliophile Society officer, author, and editor who wrote the introduction and notes to this 1918 collection.",
+    "dates": "1871–1953"
   },
   "hernan-cortes": {
     "bio": "Spanish conquistador who led the campaign that overturned the Aztec Empire between 1519 and 1521. His five dispatches to Charles V became Europe’s primary account of the conquest of Mexico.",
@@ -382,6 +392,12 @@
     "dates": "1865–1929",
     "wikipedia": "https://en.wikipedia.org/wiki/Mary_Newton_Stanard"
   },
+  "mary-wollstonecraft-shelley": {
+    "bio": "English novelist, essayist, and editor, author of Frankenstein, whose letters here chronicle life in England and Italy alongside Percy Bysshe Shelley and her widowhood work preserving his writings.",
+    "dates": "1797–1851",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Shelley",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Mary_Shelley"
+  },
   "max-kalbeck": {
     "bio": "Viennese music critic and Brahms’s official biographer, who edited the Herzogenberg correspondence.",
     "dates": "1850–1921",
@@ -428,6 +444,16 @@
     "dates": "1818–1905",
     "wikipedia": "https://en.wikipedia.org/wiki/Paul_Meurice",
     "wikisource": "https://en.wikisource.org/wiki/Author:Fran%C3%A7ois_Paul_Meurice"
+  },
+  "paul-wilstach": {
+    "bio": "American author and editor who selected, arranged, and supplied connective commentary for this 1925 volume of the Adams–Jefferson correspondence.",
+    "dates": "1870–1952"
+  },
+  "percy-bysshe-shelley": {
+    "bio": "English Romantic poet writing here at eighteen during his Oxford term and the weeks immediately following his expulsion in spring 1811.",
+    "dates": "1792–1822",
+    "wikipedia": "https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Percy_Bysshe_Shelley"
   },
   "prosper-faugere": {
     "bio": "French archivist whose 1844 manuscript edition returned Pascal’s jagged, authentic texts to print.",
@@ -591,5 +617,11 @@
   "william-kirkpatrick": {
     "bio": "East India Company officer, Persian scholar, and military secretary to Lord Wellesley who combed the captured Mysore records to produce this 1811 edition.",
     "dates": "1754–1812"
+  },
+  "william-michael-rossetti": {
+    "bio": "English man of letters, co-founder of the Pre-Raphaelite Brotherhood, and joint editor with H. Buxton Forman of these annotated 1897 volumes.",
+    "dates": "1829–1919",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Michael_Rossetti",
+    "wikisource": "https://en.wikisource.org/wiki/Author:William_Michael_Rossetti"
   }
 }

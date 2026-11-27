@@ -1868,6 +1868,12 @@
     ]
    },
    {
+    "book_id": "rammohun-roy-life-letters-1914",
+    "paths": [
+     "/collections/rammohun-roy-life-letters-1914/2"
+    ]
+   },
+   {
     "book_id": "selected-english-letters-1914",
     "paths": [
      "/collections/selected-english-letters-1914/17",
@@ -1928,7 +1934,7 @@
     ]
    }
   ],
-  "count": 90,
+  "count": 91,
   "curated": [
    "/letters/franklin-daughter-1784",
    "/letters/franklin-priestley-1780",
@@ -2126,6 +2132,72 @@
  {
   "books": [
    {
+    "book_id": "adams-jefferson-correspondence-1925",
+    "paths": [
+     "/collections/adams-jefferson-correspondence-1925/1",
+     "/collections/adams-jefferson-correspondence-1925/2",
+     "/collections/adams-jefferson-correspondence-1925/3",
+     "/collections/adams-jefferson-correspondence-1925/4",
+     "/collections/adams-jefferson-correspondence-1925/5",
+     "/collections/adams-jefferson-correspondence-1925/6",
+     "/collections/adams-jefferson-correspondence-1925/7",
+     "/collections/adams-jefferson-correspondence-1925/8",
+     "/collections/adams-jefferson-correspondence-1925/9",
+     "/collections/adams-jefferson-correspondence-1925/10",
+     "/collections/adams-jefferson-correspondence-1925/11",
+     "/collections/adams-jefferson-correspondence-1925/12",
+     "/collections/adams-jefferson-correspondence-1925/13",
+     "/collections/adams-jefferson-correspondence-1925/14",
+     "/collections/adams-jefferson-correspondence-1925/15",
+     "/collections/adams-jefferson-correspondence-1925/16",
+     "/collections/adams-jefferson-correspondence-1925/17",
+     "/collections/adams-jefferson-correspondence-1925/18",
+     "/collections/adams-jefferson-correspondence-1925/19",
+     "/collections/adams-jefferson-correspondence-1925/20",
+     "/collections/adams-jefferson-correspondence-1925/21",
+     "/collections/adams-jefferson-correspondence-1925/22",
+     "/collections/adams-jefferson-correspondence-1925/23",
+     "/collections/adams-jefferson-correspondence-1925/24",
+     "/collections/adams-jefferson-correspondence-1925/25",
+     "/collections/adams-jefferson-correspondence-1925/26",
+     "/collections/adams-jefferson-correspondence-1925/27",
+     "/collections/adams-jefferson-correspondence-1925/28",
+     "/collections/adams-jefferson-correspondence-1925/29",
+     "/collections/adams-jefferson-correspondence-1925/30",
+     "/collections/adams-jefferson-correspondence-1925/31",
+     "/collections/adams-jefferson-correspondence-1925/32",
+     "/collections/adams-jefferson-correspondence-1925/33",
+     "/collections/adams-jefferson-correspondence-1925/34",
+     "/collections/adams-jefferson-correspondence-1925/35",
+     "/collections/adams-jefferson-correspondence-1925/36",
+     "/collections/adams-jefferson-correspondence-1925/37",
+     "/collections/adams-jefferson-correspondence-1925/38",
+     "/collections/adams-jefferson-correspondence-1925/39",
+     "/collections/adams-jefferson-correspondence-1925/40",
+     "/collections/adams-jefferson-correspondence-1925/41",
+     "/collections/adams-jefferson-correspondence-1925/42",
+     "/collections/adams-jefferson-correspondence-1925/43",
+     "/collections/adams-jefferson-correspondence-1925/44",
+     "/collections/adams-jefferson-correspondence-1925/45",
+     "/collections/adams-jefferson-correspondence-1925/46",
+     "/collections/adams-jefferson-correspondence-1925/47",
+     "/collections/adams-jefferson-correspondence-1925/48",
+     "/collections/adams-jefferson-correspondence-1925/49",
+     "/collections/adams-jefferson-correspondence-1925/50",
+     "/collections/adams-jefferson-correspondence-1925/51",
+     "/collections/adams-jefferson-correspondence-1925/52",
+     "/collections/adams-jefferson-correspondence-1925/53",
+     "/collections/adams-jefferson-correspondence-1925/54",
+     "/collections/adams-jefferson-correspondence-1925/55",
+     "/collections/adams-jefferson-correspondence-1925/56",
+     "/collections/adams-jefferson-correspondence-1925/57",
+     "/collections/adams-jefferson-correspondence-1925/58",
+     "/collections/adams-jefferson-correspondence-1925/59",
+     "/collections/adams-jefferson-correspondence-1925/60",
+     "/collections/adams-jefferson-correspondence-1925/61"
+    ]
+   },
+   {
     "book_id": "broughton-mahratta-1809",
     "paths": [
      "/collections/broughton-mahratta-1809/33"
@@ -2158,6 +2230,24 @@
      "/collections/literature-in-letters-1870/182",
      "/collections/literature-in-letters-1870/188",
      "/collections/literature-in-letters-1870/191"
+    ]
+   },
+   {
+    "book_id": "mary-shelley-letters-1918",
+    "paths": [
+     "/collections/mary-shelley-letters-1918/1",
+     "/collections/mary-shelley-letters-1918/2",
+     "/collections/mary-shelley-letters-1918/3",
+     "/collections/mary-shelley-letters-1918/4",
+     "/collections/mary-shelley-letters-1918/5",
+     "/collections/mary-shelley-letters-1918/7",
+     "/collections/mary-shelley-letters-1918/8",
+     "/collections/mary-shelley-letters-1918/9",
+     "/collections/mary-shelley-letters-1918/10",
+     "/collections/mary-shelley-letters-1918/11",
+     "/collections/mary-shelley-letters-1918/12",
+     "/collections/mary-shelley-letters-1918/13",
+     "/collections/mary-shelley-letters-1918/14"
     ]
    },
    {
@@ -2210,6 +2300,29 @@
     ]
    },
    {
+    "book_id": "percy-shelley-hogg-letters-1897",
+    "paths": [
+     "/collections/percy-shelley-hogg-letters-1897/1",
+     "/collections/percy-shelley-hogg-letters-1897/2",
+     "/collections/percy-shelley-hogg-letters-1897/3",
+     "/collections/percy-shelley-hogg-letters-1897/4",
+     "/collections/percy-shelley-hogg-letters-1897/5",
+     "/collections/percy-shelley-hogg-letters-1897/6",
+     "/collections/percy-shelley-hogg-letters-1897/7",
+     "/collections/percy-shelley-hogg-letters-1897/8",
+     "/collections/percy-shelley-hogg-letters-1897/9",
+     "/collections/percy-shelley-hogg-letters-1897/10",
+     "/collections/percy-shelley-hogg-letters-1897/11",
+     "/collections/percy-shelley-hogg-letters-1897/12",
+     "/collections/percy-shelley-hogg-letters-1897/13",
+     "/collections/percy-shelley-hogg-letters-1897/14",
+     "/collections/percy-shelley-hogg-letters-1897/15",
+     "/collections/percy-shelley-hogg-letters-1897/16",
+     "/collections/percy-shelley-hogg-letters-1897/17",
+     "/collections/percy-shelley-hogg-letters-1897/18"
+    ]
+   },
+   {
     "book_id": "selected-english-letters-1914",
     "paths": [
      "/collections/selected-english-letters-1914/26",
@@ -2223,7 +2336,7 @@
     ]
    }
   ],
-  "count": 72,
+  "count": 164,
   "curated": [
    "/letters/adams-jefferson-reconciliation-1812",
    "/letters/austen-cassandra-1813",
@@ -2241,6 +2354,23 @@
  },
  {
   "books": [
+   {
+    "book_id": "adams-jefferson-correspondence-1925",
+    "paths": [
+     "/collections/adams-jefferson-correspondence-1925/62",
+     "/collections/adams-jefferson-correspondence-1925/63",
+     "/collections/adams-jefferson-correspondence-1925/64",
+     "/collections/adams-jefferson-correspondence-1925/65",
+     "/collections/adams-jefferson-correspondence-1925/66",
+     "/collections/adams-jefferson-correspondence-1925/67",
+     "/collections/adams-jefferson-correspondence-1925/68",
+     "/collections/adams-jefferson-correspondence-1925/69",
+     "/collections/adams-jefferson-correspondence-1925/70",
+     "/collections/adams-jefferson-correspondence-1925/71",
+     "/collections/adams-jefferson-correspondence-1925/72",
+     "/collections/adams-jefferson-correspondence-1925/73"
+    ]
+   },
    {
     "book_id": "fifty-famous-letters-1930",
     "paths": [
@@ -2399,6 +2529,25 @@
     ]
    },
    {
+    "book_id": "mary-shelley-letters-1918",
+    "paths": [
+     "/collections/mary-shelley-letters-1918/16",
+     "/collections/mary-shelley-letters-1918/17",
+     "/collections/mary-shelley-letters-1918/18",
+     "/collections/mary-shelley-letters-1918/19",
+     "/collections/mary-shelley-letters-1918/20",
+     "/collections/mary-shelley-letters-1918/21",
+     "/collections/mary-shelley-letters-1918/22",
+     "/collections/mary-shelley-letters-1918/23",
+     "/collections/mary-shelley-letters-1918/24",
+     "/collections/mary-shelley-letters-1918/25",
+     "/collections/mary-shelley-letters-1918/26",
+     "/collections/mary-shelley-letters-1918/27",
+     "/collections/mary-shelley-letters-1918/28",
+     "/collections/mary-shelley-letters-1918/29"
+    ]
+   },
+   {
     "book_id": "mill-letters-vol1-1910",
     "paths": [
      "/collections/mill-letters-vol1-1910/1"
@@ -2479,6 +2628,16 @@
     ]
    },
    {
+    "book_id": "rammohun-roy-letters-and-petitions",
+    "paths": [
+     "/collections/rammohun-roy-letters-and-petitions/1",
+     "/collections/rammohun-roy-letters-and-petitions/2",
+     "/collections/rammohun-roy-letters-and-petitions/3",
+     "/collections/rammohun-roy-letters-and-petitions/6",
+     "/collections/rammohun-roy-letters-and-petitions/7"
+    ]
+   },
+   {
     "book_id": "rammohun-roy-life-letters-1914",
     "paths": [
      "/collections/rammohun-roy-life-letters-1914/3",
@@ -2516,7 +2675,7 @@
     ]
    }
   ],
-  "count": 219,
+  "count": 250,
   "curated": [],
   "decade": 1820,
   "slug": "1820s"
@@ -2745,6 +2904,13 @@
     ]
    },
    {
+    "book_id": "mary-shelley-letters-1918",
+    "paths": [
+     "/collections/mary-shelley-letters-1918/30",
+     "/collections/mary-shelley-letters-1918/34"
+    ]
+   },
+   {
     "book_id": "mill-letters-vol1-1910",
     "paths": [
      "/collections/mill-letters-vol1-1910/2",
@@ -2840,14 +3006,28 @@
     ]
    },
    {
+    "book_id": "rammohun-roy-letters-and-petitions",
+    "paths": [
+     "/collections/rammohun-roy-letters-and-petitions/4",
+     "/collections/rammohun-roy-letters-and-petitions/5",
+     "/collections/rammohun-roy-letters-and-petitions/8",
+     "/collections/rammohun-roy-letters-and-petitions/9",
+     "/collections/rammohun-roy-letters-and-petitions/10",
+     "/collections/rammohun-roy-letters-and-petitions/11",
+     "/collections/rammohun-roy-letters-and-petitions/12",
+     "/collections/rammohun-roy-letters-and-petitions/13"
+    ]
+   },
+   {
     "book_id": "rammohun-roy-life-letters-1914",
     "paths": [
      "/collections/rammohun-roy-life-letters-1914/5",
      "/collections/rammohun-roy-life-letters-1914/7",
      "/collections/rammohun-roy-life-letters-1914/8",
-     "/collections/rammohun-roy-life-letters-1914/10",
+     "/collections/rammohun-roy-life-letters-1914/9",
      "/collections/rammohun-roy-life-letters-1914/11",
-     "/collections/rammohun-roy-life-letters-1914/12"
+     "/collections/rammohun-roy-life-letters-1914/12",
+     "/collections/rammohun-roy-life-letters-1914/13"
     ]
    },
    {
@@ -2939,7 +3119,7 @@
     ]
    }
   ],
-  "count": 350,
+  "count": 361,
   "curated": [],
   "decade": 1830,
   "slug": "1830s"
@@ -3069,7 +3249,9 @@
      "/collections/hooker-tour-1848/1",
      "/collections/hooker-tour-1848/2",
      "/collections/hooker-tour-1848/3",
-     "/collections/hooker-tour-1848/4"
+     "/collections/hooker-tour-1848/4",
+     "/collections/hooker-tour-1848/5",
+     "/collections/hooker-tour-1848/6"
     ]
    },
    {
@@ -3260,6 +3442,12 @@
     ]
    },
    {
+    "book_id": "mary-shelley-letters-1918",
+    "paths": [
+     "/collections/mary-shelley-letters-1918/35"
+    ]
+   },
+   {
     "book_id": "mill-letters-vol1-1910",
     "paths": [
      "/collections/mill-letters-vol1-1910/35",
@@ -3421,7 +3609,7 @@
     ]
    }
   ],
-  "count": 399,
+  "count": 402,
   "curated": [
    "/letters/darwin-hooker-1844",
    "/letters/dostoevsky-mikhail-1849",
@@ -4503,35 +4691,35 @@
      "/collections/nietzsche-wagner-1921/11",
      "/collections/nietzsche-wagner-1921/13",
      "/collections/nietzsche-wagner-1921/15",
-     "/collections/nietzsche-wagner-1921/17",
      "/collections/nietzsche-wagner-1921/18",
      "/collections/nietzsche-wagner-1921/19",
      "/collections/nietzsche-wagner-1921/20",
      "/collections/nietzsche-wagner-1921/21",
      "/collections/nietzsche-wagner-1921/22",
-     "/collections/nietzsche-wagner-1921/24",
+     "/collections/nietzsche-wagner-1921/23",
      "/collections/nietzsche-wagner-1921/25",
-     "/collections/nietzsche-wagner-1921/28",
+     "/collections/nietzsche-wagner-1921/26",
      "/collections/nietzsche-wagner-1921/29",
-     "/collections/nietzsche-wagner-1921/31",
-     "/collections/nietzsche-wagner-1921/34",
+     "/collections/nietzsche-wagner-1921/30",
+     "/collections/nietzsche-wagner-1921/32",
      "/collections/nietzsche-wagner-1921/35",
-     "/collections/nietzsche-wagner-1921/37",
+     "/collections/nietzsche-wagner-1921/36",
      "/collections/nietzsche-wagner-1921/38",
      "/collections/nietzsche-wagner-1921/39",
      "/collections/nietzsche-wagner-1921/40",
      "/collections/nietzsche-wagner-1921/41",
      "/collections/nietzsche-wagner-1921/42",
      "/collections/nietzsche-wagner-1921/43",
-     "/collections/nietzsche-wagner-1921/46",
-     "/collections/nietzsche-wagner-1921/48",
+     "/collections/nietzsche-wagner-1921/44",
+     "/collections/nietzsche-wagner-1921/47",
      "/collections/nietzsche-wagner-1921/49",
      "/collections/nietzsche-wagner-1921/50",
      "/collections/nietzsche-wagner-1921/51",
      "/collections/nietzsche-wagner-1921/52",
      "/collections/nietzsche-wagner-1921/53",
      "/collections/nietzsche-wagner-1921/54",
-     "/collections/nietzsche-wagner-1921/55"
+     "/collections/nietzsche-wagner-1921/55",
+     "/collections/nietzsche-wagner-1921/56"
     ]
    },
    {
@@ -4786,11 +4974,12 @@
      "/collections/toru-dutt-life-letters-1921/70",
      "/collections/toru-dutt-life-letters-1921/71",
      "/collections/toru-dutt-life-letters-1921/72",
-     "/collections/toru-dutt-life-letters-1921/73"
+     "/collections/toru-dutt-life-letters-1921/73",
+     "/collections/toru-dutt-life-letters-1921/74"
     ]
    }
   ],
-  "count": 400,
+  "count": 401,
   "curated": [
    "/letters/vangogh-theo-spiritual-crisis-miners-1878",
    "/letters/vangogh-theo-theological-studies-1877"
@@ -5633,7 +5822,7 @@
    {
     "book_id": "toru-dutt-life-letters-1921",
     "paths": [
-     "/collections/toru-dutt-life-letters-1921/74"
+     "/collections/toru-dutt-life-letters-1921/75"
     ]
    },
    {
@@ -5764,7 +5953,7 @@
    {
     "book_id": "toru-dutt-life-letters-1921",
     "paths": [
-     "/collections/toru-dutt-life-letters-1921/75"
+     "/collections/toru-dutt-life-letters-1921/76"
     ]
    }
   ],
@@ -6044,11 +6233,10 @@
      "/collections/bapu-mira-letters/173",
      "/collections/bapu-mira-letters/174",
      "/collections/bapu-mira-letters/175",
-     "/collections/bapu-mira-letters/176",
      "/collections/bapu-mira-letters/177",
      "/collections/bapu-mira-letters/178",
      "/collections/bapu-mira-letters/179",
-     "/collections/bapu-mira-letters/181",
+     "/collections/bapu-mira-letters/180",
      "/collections/bapu-mira-letters/182",
      "/collections/bapu-mira-letters/183",
      "/collections/bapu-mira-letters/184",
@@ -6080,7 +6268,7 @@
      "/collections/bapu-mira-letters/210",
      "/collections/bapu-mira-letters/211",
      "/collections/bapu-mira-letters/212",
-     "/collections/bapu-mira-letters/214",
+     "/collections/bapu-mira-letters/213",
      "/collections/bapu-mira-letters/215",
      "/collections/bapu-mira-letters/216",
      "/collections/bapu-mira-letters/217",
@@ -6113,7 +6301,7 @@
      "/collections/bapu-mira-letters/244",
      "/collections/bapu-mira-letters/245",
      "/collections/bapu-mira-letters/246",
-     "/collections/bapu-mira-letters/248",
+     "/collections/bapu-mira-letters/247",
      "/collections/bapu-mira-letters/249",
      "/collections/bapu-mira-letters/250",
      "/collections/bapu-mira-letters/251",
@@ -6137,9 +6325,9 @@
      "/collections/bapu-mira-letters/269",
      "/collections/bapu-mira-letters/270",
      "/collections/bapu-mira-letters/271",
-     "/collections/bapu-mira-letters/273",
+     "/collections/bapu-mira-letters/272",
      "/collections/bapu-mira-letters/274",
-     "/collections/bapu-mira-letters/276",
+     "/collections/bapu-mira-letters/275",
      "/collections/bapu-mira-letters/277",
      "/collections/bapu-mira-letters/278",
      "/collections/bapu-mira-letters/279",
@@ -6190,7 +6378,8 @@
      "/collections/bapu-mira-letters/324",
      "/collections/bapu-mira-letters/325",
      "/collections/bapu-mira-letters/326",
-     "/collections/bapu-mira-letters/327"
+     "/collections/bapu-mira-letters/327",
+     "/collections/bapu-mira-letters/328"
     ]
    }
   ],
@@ -6213,7 +6402,6 @@
    {
     "book_id": "bapu-mira-letters",
     "paths": [
-     "/collections/bapu-mira-letters/328",
      "/collections/bapu-mira-letters/329",
      "/collections/bapu-mira-letters/330",
      "/collections/bapu-mira-letters/331",
@@ -6267,14 +6455,15 @@
      "/collections/bapu-mira-letters/379",
      "/collections/bapu-mira-letters/380",
      "/collections/bapu-mira-letters/381",
-     "/collections/bapu-mira-letters/383",
+     "/collections/bapu-mira-letters/382",
      "/collections/bapu-mira-letters/384",
      "/collections/bapu-mira-letters/385",
      "/collections/bapu-mira-letters/386",
      "/collections/bapu-mira-letters/387",
      "/collections/bapu-mira-letters/388",
      "/collections/bapu-mira-letters/389",
-     "/collections/bapu-mira-letters/390"
+     "/collections/bapu-mira-letters/390",
+     "/collections/bapu-mira-letters/391"
     ]
    },
    {

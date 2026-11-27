@@ -12,13 +12,16 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "M. K. Gandhi",
  "year": 1949,
  "archive_id": "bapusletterstomi00gand",
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 390,
+  "letters": 391,
   "notes": 208,
   "pages": 406,
   "dated_letters": 372
@@ -63,7 +66,7 @@
   "verified": 0,
   "machine_reread": 27
  },
- "page_kinds": "fffffffffffffffff.LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLLLLLLLLLLLLLLLLLnnLLLLLLLLLaaiiiii",
+ "page_kinds": "fffffffffffffffff.LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLLLLLLLLLLLLLLLLLnnLLLLLLLLLaaiiiii",
  "page_runs": [
   [
    "f",
@@ -75,7 +78,7 @@
   ],
   [
    "L",
-   155
+   251
   ],
   [
    "n",
@@ -83,23 +86,7 @@
   ],
   [
    "L",
-   95
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   15
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   27
+   43
   ],
   [
    "n",
@@ -267,7 +254,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 390,
+ "unperiodised_count": 391,
  "frontispiece": {
   "page": 8,
   "leaf": 7,
@@ -281,27 +268,27 @@
   {
    "format": "epub",
    "file": "bapu-mira-letters.epub",
-   "bytes": 275484,
-   "sha256": "bf30236d8586c7ab9417d79897a7cd9b29024eb40f93b6956279582eb554d79c"
+   "bytes": 275340,
+   "sha256": "5140b4631b39709b9972008edb43647cc305c2e967712eb7aef44c8d26efdab6"
   },
   {
    "format": "markdown",
    "file": "bapu-mira-letters.md",
-   "bytes": 499603,
-   "sha256": "ddaca376b1a3897b770f70120f1ad6b1fb669d4de73696e71303b413c931b184"
+   "bytes": 499632,
+   "sha256": "bcf49e7dc68320ca3794f186f81453689eb5ab12dd5256f46c5377a2e04e410a"
   },
   {
    "format": "tei",
    "file": "bapu-mira-letters.tei.xml",
-   "bytes": 773884,
-   "sha256": "89fe636d1796a2c9f1f742e3d1939f3fa294972918b812e4e4036200cb4aa3f9"
+   "bytes": 773489,
+   "sha256": "417f0346dacca2f109ffe763bf10cfe3849876eccfd9848b07faa15824cac942"
   }
  ],
  "scan_base": "https://archive.org/download/bapusletterstomi00gand/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-24T19:21:32Z",
-  "source_ast_sha256": "168dd6b44f251e546d689a430c22fd55af4360948817b0e60a478318f1d2fa31",
+  "compiled_at": "2026-11-27T03:44:00Z",
+  "source_ast_sha256": "5324535869b1b20378ea6344ec0d84f97307de65fb23f4c762d94574fe66d09f",
   "hugo_renderer_version": "1.0.0"
  }
 }

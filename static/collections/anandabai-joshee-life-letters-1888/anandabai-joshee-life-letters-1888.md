@@ -137,12 +137,12 @@ What is your favorite
 - 23.[^fn-p0020-1] What is your favorite occupation? Whatever is necessary to the common comfort.
 - 24. What is your favorite trait of character? Sincerity.
 - 25. What trait do you most detest? Dishonesty and infidelity.
-- 26.* If not yourself, whom would you like to be? No one.
-- 27.* What is your idea of happiness? Faith in God.
-- 28.* What is your idea of misery? To follow one’s own will.
+- 26.[^fn-p0020-1] If not yourself, whom would you like to be? No one.
+- 27.[^fn-p0020-1] What is your idea of happiness? Faith in God.
+- 28.[^fn-p0020-1] What is your idea of misery? To follow one’s own will.
 - 29. What is your *bête noir*? Slavery and Dependence.
 - 30. What is your ideal pleasure? To be rewarded for what I do.
-- 31.* What is your distinguishing characteristic? I have not yet found out.
+- 31.[^fn-p0020-1] What is your distinguishing characteristic? I have not yet found out.
 - 32. That of your husband? Benevolence.
 - 33. What is the sublimest passion? Love.
 - 34. What are the sweetest words? Love, charity, truth and hope.
@@ -671,9 +671,7 @@ Dr. Bodley saw how it was; and long before her one line of complaint, “I feel 
 
 A female physician who had been very kind to Anandabai died about this time at Elizabeth in New Jersey.
 
-> **[enclosure]**
->
-> > “Is she taken away from those who love her dearly and need her so badly?” our little Hindu wrote. “What a mystery this world is! Happy to-day, miserable to-morrow! How true that our deepest sorrows flow from our deepest affections. What an instrument of torture one’s own heart is!”
+> “Is she taken away from those who love her dearly and need her so badly?” our little Hindu wrote. “What a mystery this world is! Happy to-day, miserable to-morrow! How true that our deepest sorrows flow from our deepest affections. What an instrument of torture one’s own heart is!”
 
 She often spoke of “seeing” this friend as simply, and with as little thought of possible contradiction, as if the Doctor had walked in from the street in the flesh to call upon her.
 

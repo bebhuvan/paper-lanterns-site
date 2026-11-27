@@ -2,7 +2,7 @@
 
 - **Author / Editor**: Sophia Dobson Collet, Raja Rammohun Roy
 - **Year**: 1914
-- **Letters**: 13
+- **Letters**: 14
 - **Pages**: 374
 
 ## Frontmatter
@@ -362,7 +362,7 @@ Shall smile to find me faithful.
 [^fn-p0060-1]: (*) Miss Carpenter writes that during the residence of Rammohun Roy in England “his time and thoughts were continually occupied with the proceedings of the Government, and affording information and advice whenever they were required. Everything else was made subservient to this great object. Frequently was the noble form of the illustrious stranger seen within the precincts of our Houses of Parliament, as those still remember who were there thirty-five years ago.”
 [^fn-p0072-1]: (*) The letter is so interesting that it is worth reproduction in its entirety. It is as follows :—
 
-    24, Gower Street, Bedford Square,
+    24, Gower Street, Bedford Square,  
     *27th November 1833.*
 
     My dear Sir,—Your kind, most kind, letter of yesterday, has this moment reached me, and I have shed tears over it, at the fresh recollection of the sorrow that has thrown a deep shadow over the future hopes and happiness of my life. I feel most sincere gratitude to you for your valuable services, and your devotion and tenderness over the sick bed of our late beloved friend. God knows I have deeply sympathised with you in the painful responsibility of your situation and I can well assure that everything which the soundest medical judgment and the deepest solicitude could suggest was done. In the feelings of all around me here, who dearly loved him, you and Dr. Prichard are spoken of with sincere and grateful respect, and the blessing of a just man made perfect now rests upon you.
@@ -377,7 +377,7 @@ Shall smile to find me faithful.
 
     Present my best respects to Miss Acland and Dr. Carpenter, and believe me.
 
-    My dear Sir,
+    My dear Sir,  
     Sincerely and gratefully yours
 
     T. BOOT.
@@ -605,7 +605,7 @@ When the European powers came to obtain footing in India, they also usually seem
 
 From this valuable storehouse of evidence we find that the first recorded British action in this matter took place in the very year of Rammohun’s birth, 1772; when a Captain Tomyn, of Tripetty in Southern India, hearing that a widow was about to be sacrificed, went straightway to the spot, and led her away to a place of safety. This truly British course drew down upon him a formidable riot from a large and indignant crowd. But the first deliberate official step taken on this subject was the refusal, in January 1789, of a British magistrate to permit the performance of a Suttee at Shahabad. His letter to the Governor-General in Council, Lord Cornwallis, is so terse and sensible, that it is worth preserving :—
 
-### Letter 2
+### Letter 2: M. H. Brooke → Lord Cornwallis
 
 > *My Lord.—Cases sometimes occur in which a Collector having no specific orders for the guidance of his conduct, is necessitated to act from his own sense of what is right. This assertion has this day been verified in an application from the relatives and friends of a Hindu woman, for my sanction to the horrid ceremony of burning with her deceased husband. Being impressed with a belief that this savage custom has been prohibited in and about Calcutta, and considering the same reasons for its discontinuance would probably be held valid throughout the whole extent of the Company’s authority, I positively refused my consent. The rites and superstitions of the Hindu religion should be allowed with the most unqualified tolerance, but a practice at which human nature shudders I cannot permit within the limits of my jurisdicion, without particular instructions. I beg, therefore, my Lord, to be informed whether my conduct in this instance meets your approbation.— I am, &c., M. H, Brooke, Collector. Shahabad, 28th Jan., 1789.
 
@@ -751,7 +751,7 @@ This noble defence may fitly close our record of Rammohun's first regular campai
 
 [^fn-p0115-1]: (*) To the third period two chapters are devoted (v., vi.); to the rest one chapter each.—*Continuator.*
 [^fn-p0116-1]: (*) Final paragraphs to the Preface of his first English work, whose title was in itself a manifesto of the new crusade which he was initiating :—“*Translation of an Abridgment of the Vedant, or Resolution of all the Veds* ; the most celebrated and revered work of Brahminical Theology : establishing the Unity of the Supreme Being : and that He Alone is the object of propitiation and worship. Calcutta, 1816.”—*English Works of Raja Rammohun Roy*, I. 5.
-[^fn-p0118-1]: (*) Preface to the *Translation of the Ishopanishad*. Calcutta, 1816, *Engl<mark>is</mark>h Works*, I. pp. 77-79.
+[^fn-p0118-1]: (*) Preface to the *Translation of the Ishopanishad*. Calcutta, 1816, *English Works*, I. pp. 77-79.
 [^fn-p0119-1]: (*) Concluding paragraph of the *Introduction to the Ishopanishad. English Works*, I. pp. 86-87.
 [^fn-p0119-2]: (†) [At the same time these publications created a very favourable impression among thoughtful Europeans, and spread the fame of Raja Rammohun Roy as a great religious reformer in Europe and America. The first English notice we find of Rammohun Roy occurs in the Periodical Accounts of the Baptist Missionary Society Vol. VI. pp. 106-109 of the date of 1816 : “Rama-mohuna Raya, a very rich Rarhee Brahmun of Calcutta is a respectable Sungskrita scholar and so well-versed in Persian, that he is called Mouluvee Rama-mohuna Raya : He also writes English with correctness and reads with ease English mathematical and metaphysical works. He has published in Bengalee one or two philosophical works, from the Sungskrita, which he hopes may be useful in leading his countrymen to renounce idolatry.” The narrative gives an account of Rammohun Roy’s interview with the Serampore Missionaries and some particulars about his mode of life at this period. A fuller account is found in the Church of England “Missionary Register” for Sept. 1816 p. 370 in the course of a review of the Translation of the Vedant Sutra : “We have been favoured with a sight of a tract printed at Calcutta in the present year (1816) with the following tittle :—“Translation of an Abridgment of the Vedant &c.”......by Rammohun Roy. Before we give an account of this curious tract, it may be advantageous to our readers to know something of the author.” Then follows a brief account of the life and views of Rammohun Roy, with speculations as to the possibility of his becoming a Christian. The review of the Abridgment of the Vedant is very fair. The account closes with the following thoughtful remarks on the propaganda of Rammohun Roy : “The rise of this new sect, the zeal and subtlety displayed by its founder, with its obvious tendency to undermine the fabric of Hindu superstition, are objects of serious attention to the Christian mind. ‘Who knows,’ asks one of the friends from whom we have received these communications, but this man may be one of the many instruments by which God, in his mysterious providence, may accomplish the overthrow of idolatry ? “What may be the effect of this man’s labours’, says another correspondent, ‘time will show. Probably they may bring the craft of Brahmanism and caste into danger.”
 
@@ -1787,6 +1787,8 @@ Among all the permutations and combinations of the Eastern and the English-speak
 
 Within a few months of penning this high tribute to the worth of English civilization, we find Rammohun Roy resident in the metropolis of our traditional rival in the East. Of his stay in Paris we have very scanty information. [^fn-p0301-1] Between the letter cited above and dated Bedford Square, July 31st, and a letter of Miss Aikin written in October (1832), in which she speaks of Rammohun Roy being then in Paris, we have no account of his movements. We do not know when he went or when he returned. In an *Appendice* to M. Garcin de Tassy's *Rudiments de la Langue Hindustani*, published in 1883, there are twenty-one original Hindustani letters from various authors, one of whom is Rammohun Roy. Whether this was a fruit of his Parisian visit we have no knowledge. The next that we do know of him is given in a letter of his written after his return to England, and dated January 31st, 1833. It is addressed to Mr. Woodford and reads in full :—
 
+### Letter 7: Rammohun Roy → Mr. Woodford
+
 My dear Sir,—I had on the 27th the pleasure of receiving your obliging communication, and beg to offer you and Mrs. W. my best thanks for this mark of attention towards me. I rejoice to observe that the translation of the Veds, &c., which I presented to Mrs. W. before my departure for the Continent of Europe, has proved interesting to her and yourself. I am now confirmed in the opinion that her good sense and her *rational* devotion to religion will not induce her to reject any reasonable sentiments on the ground that they are not found in this book, or in that volume.
 
 I was detained in France too late to proceed to Italy last year ; besides, without a knowledge of French, I found myself totally unable to carry on communication with foreigners, with any degree of facility. Hence I thought I would not avail myself of my travels through Italy and Austria to my own satisfaction. I have been studying French with a French gentleman, who accompanied me to London, and is now living with me.
@@ -1823,7 +1825,7 @@ I hope you will excuse my boldness when I take upon myself to remind you of your
 
 As we have seen, Rammohun was always eager to introduce Hindu books to the knowledge of English people, and this desire was naturally greater in regard to his son’s teachers. About the same time, he wrote Miss Kiddell, begging her acceptance of a volume containing a series of sermons preached by Dr. Channing, which, he added, “I prize very highly.” The following letter to Miss Kiddell gives another glimpse of the Rajah’s varied character :
 
-### Letter 7: Rammohun Roy
+### Letter 8: Rammohun Roy → Miss Ann Kiddell
 
 48, Bedford Square,  
 July 9th, 1833.
@@ -1840,7 +1842,7 @@ Yours very sincerely,
 
 Private convenience was, however, still further interfered with by the slow progress of public business, as is shown by this letter to Miss Ann Kiddell :—
 
-### Letter 8: Rammohun Roy → Miss Ann Kiddell
+### Letter 9: Rammohun Roy → Miss Ann Kiddell
 
 48, Bedford Square,  
 July 19th, 1833.
@@ -1858,7 +1860,7 @@ R. R.
 
 The following letter to Miss Castle is on the same sheet :—
 
-### Letter 9: Rammohun Roy → Miss Castle
+### Letter 10: Rammohun Roy → Miss Castle
 
 Friday, dispatched on Saturday.
 
@@ -1873,7 +1875,7 @@ Yours very sincerely and obliged,
 
 Impatience of protracted parliamentary delay appears again in the following to Miss Ann Kiddell ;—
 
-### Letter 10: Rammohun Roy → Miss Ann Kiddell
+### Letter 11: Rammohun Roy → Miss Ann Kiddell
 
 48, Beford Square,  
 July 24th, 1833.
@@ -1890,7 +1892,7 @@ Three days after this letter (July 27th) we find Rammohun writing to Miss Mary C
 
 The delay attending his Bristol visit is further explained in another note to Miss Kiddell, dated 48, Bedford Square, August 16th, 1833 :—
 
-### Letter 11: Rammohun Roy → Miss Kiddell
+### Letter 12: Rammohun Roy → Miss Kiddell
 
 Dear Madam,—I have now the pleasure of informing you that I feel relieved, and will proceed to Stapleton Grove on Thursday next. I beg you will excuse this short letter as I am incessantly engaged in making preparations, particularly in writing letters to India and in different parts of this country. Pray give my love to my son and my kind regards to Miss Castle and believe me, dear Madam, yours very sincerely,
 
@@ -1901,7 +1903,7 @@ R. R.
 
 At last the great measure which legalized the twenty odd years, transition of Indian government from a trading com pany to an Empire was finally enacted. The East India Bill received the Royal Assent on August 20. The Charter, then and thus renewed, made the Company less than ever a commercial agency and more more than ever a political. It was virtually the last Charter. A precarious renewal in 1853 ended in the government of India being taken over by the Queen in 1858. But Rammohun was not pleased with the legislative activity of the Reformed Parliament, as may be seen from this letter to Mr. Woodford.
 
-### Letter 12: Rammohun Roy
+### Letter 13: Rammohun Roy → Mr. Woodford
 
 48, Bedford Square,  
 August 22nd, 1833.
@@ -2288,7 +2290,7 @@ Where sleeps the friend and prophet of their race !
 
 * * *
 
-### Letter 13: Rammohun Roy
+### Letter 14: Rammohun Roy → Mr. Gordon
 
 #### AUTO-BIOGRAPHICAL SKETCH[^fn-p0339-1]
 
@@ -2900,7 +2902,7 @@ Young, Mr. J, 124, 171
 
 ## LIST OF SOURCES USED IN THIS LIFE.
 
-- The letters of William Adam. In the *Inqui<mark>rer o</mark>f* Nov. 4, 1882, the Author, Miss S. D. Collect, says: “I have been so fortunate as to be favoured by the executrix of the late Mr. William Adam (formerly a Unitarian missionary at Calcutta) with much interesting matter from his private letters relating to the Rajah.”
+- The letters of William Adam. In the *Inquirer* of Nov. 4, 1882, the Author, Miss S. D. Collect, says: “I have been so fortunate as to be favoured by the executrix of the late Mr. William Adam (formerly a Unitarian missionary at Calcutta) with much interesting matter from his private letters relating to the Rajah.”
 - Other previously unpublished materials. In the same letter the Author says: Some of my Brahmo friends in India have supplied me with valuable materials for the work, which will be quite new to the English public.” Among these may be included history of the Brahmo Samaj by P. S. N. Sastri.
 - The published works of Rammohun Roy, as cited in text, notably *“The English Works of Raja Rammohun Roy:* edited by Jogendra Chunder Ghose, M.A., L.L.B.: compiled and published by Eshan Chunder Bose. Calcutta: Bhowanipore, Oriental press. 1885.” 2 vols. with biographical introduction by the editor.
 - Adam, William : A Lecture on the Life and Labours of Rammohun Roy ; Calcutta, 1879.

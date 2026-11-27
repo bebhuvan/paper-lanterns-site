@@ -2324,13 +2324,13 @@ But while we agree thus far, we differ very much on other points. I would not gi
 
 I would also include women in the ultimate universal suffrage that you contemplate—which as far as I can collect from a note in your book you would not do. I think your principles break down altogether if you allow of any exceptions among persons *sui juris*.
 
-### To <span class="small-caps">Thomas Hare</span>,
+### Letter 102: J. S. Mill → Thomas Hare
+
+#### To <span class="small-caps">Thomas Hare</span>,
 
 acknowledging his book on Representation. In this book was described the scheme, to the propaganda of which Mill afterwards devoted so much time and trouble.
 
 > *[Margin: 1859 — Aetat. 52.]*
-
-### Letter 102: J. S. Mill → Thomas Hare
 
 *3rd March* 1859.
 

@@ -16,13 +16,16 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Friedrich Nietzsche, Richard Wagner, Elisabeth Förster-Nietzsche (ed.), Caroline V. Kerr (tr.), H. L. Mencken (intro.)",
  "year": 1921,
  "archive_id": "nietzschewagnerc00niet",
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 56,
+  "letters": 57,
   "notes": 9,
   "pages": 342,
   "dated_letters": 39
@@ -67,7 +70,7 @@
   "verified": 0,
   "machine_reread": 11
  },
- "page_kinds": "fffffffffffffffffffffff.nnnnnnnnnnLLLLLLLLLLLLLnnLLnnLLLLLLLLLLLnnnnnnLLLLLLnnnnnnnnnnnnnnnLLnLLnnnnnnnnnnLLLLLLLnnnLLLnnLLLLLnnnnLnLLnnnnnnnnnnnnnnLLLLLLLLLLLnLnnnLLLLLLLLLLnnnnnnnnnnLLnnLLnnnnnLLLnnLLLnnnnnnnnnnnnnnnnnnnnnnnnnnLLnnnnnLLnnnnnnnnnnnnLLLLLLnnLLLnnnnnnnLLnnnLLnnnnnnnnnLLLnLLLnnnnnnnnnnnnnnnnnnnLLLnnnnnnnnnnnnnnnnLLnnnnnnnnnnn",
+ "page_kinds": "fffffffffffffffffffffff.nnnnnnnnnnLLLLLLLLLLLLLnnLLnnLLLLLLLLLLLnnnnnnLLLLLLnnnnnLnnnnnnnnnLLnLLnnnnnnnnnnLLLLLLLnnnLLLnnLLLLLnnnnLnLLnnnnnnnnnnnnnnLLLLLLLLLLLnLnnnLLLLLLLLLLnnnnnnnnnnLLnnLLnnnnnLLLnnLLLnnnnnnnnnnnnnnnnnnnnnnnnnnLLnnnnnLLnnnnnnnnnnnnLLLLLLnnLLLnnnnnnnLLnnnLLnnnnnnnnnLLLnLLLnnnnnnnnnnnnnnnnnnnLLLnnnnnnnnnnnnnnnnLLnnnnnnnnnnn",
  "page_runs": [
   [
    "f",
@@ -111,7 +114,15 @@
   ],
   [
    "n",
-   15
+   5
+  ],
+  [
+   "L",
+   1
+  ],
+  [
+   "n",
+   9
   ],
   [
    "L",
@@ -317,12 +328,12 @@
    "label": "CHAPTER I. First Meeting.",
    "kind": "chapter",
    "start": 25,
-   "end": 35
+   "end": 33
   },
   {
    "label": "CHAPTER II. First visit to Tribschen.",
    "kind": "chapter",
-   "start": 35,
+   "start": 34,
    "end": 47
   },
   {
@@ -493,7 +504,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 56,
+ "unperiodised_count": 57,
  "frontispiece": {},
  "title_page": {
   "page": 7,
@@ -503,27 +514,27 @@
   {
    "format": "epub",
    "file": "nietzsche-wagner-1921.epub",
-   "bytes": 332595,
-   "sha256": "83f8a19128e1fbbd55f640a46720451679bf7b0aa967ced1df6f32ab2cdf8a28"
+   "bytes": 332523,
+   "sha256": "a6f3ee67f4d3c513a9a719fed6feb7253562e0af9254e7ab966308734417503d"
   },
   {
    "format": "markdown",
    "file": "nietzsche-wagner-1921.md",
-   "bytes": 517412,
-   "sha256": "472046f6f514f7bc2fa28a65b77768ac33ca58148f085088b7f594540de13d3e"
+   "bytes": 517354,
+   "sha256": "ca20470da7e509f95802b96652cab0d1085b9f9128a6e616dd99d663b435bf4d"
   },
   {
    "format": "tei",
    "file": "nietzsche-wagner-1921.tei.xml",
-   "bytes": 598788,
-   "sha256": "a4c5fec1a3183f108c587e181d36468daec3052f668745efaaa4d7caadba9923"
+   "bytes": 598864,
+   "sha256": "388a96db2e1fa7cf66fec10465956a21132758f6e4a8c250c90ac3d07bd21417"
   }
  ],
  "scan_base": "https://archive.org/download/nietzschewagnerc00niet/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:23:09Z",
-  "source_ast_sha256": "cf8c1702e7c5a9a9ad13b83d0822667b236cb3a1301dc023de33ababa444eb7b",
+  "compiled_at": "2026-11-27T03:42:58Z",
+  "source_ast_sha256": "85360d0875411a42b5b3434a7939bc26736ec00b7ff237b99f2ff7a081df03f0",
   "hugo_renderer_version": "1.0.0"
  }
 }

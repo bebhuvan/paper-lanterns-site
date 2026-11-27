@@ -2,7 +2,7 @@
 
 - **Author / Editor**: M. K. Gandhi
 - **Year**: 1949
-- **Letters**: 390
+- **Letters**: 391
 - **Pages**: 406
 
 ## Frontmatter
@@ -3373,15 +3373,15 @@ On the train,
 
 Bapu
 
-### 140
+### Letter 141: Bapu → मीरां
+
+#### 140
 
 [ Again a long and eventful period has elapsed. After the previous letter, Bapu went to Simla again for final discussions with Lord Willingdon regarding the Round Table Conference visit and I went to Borsad to await final telegraphic news from Bapu as to whether we were to pack up for the London visit. Finally, a telegram came, saying we were to leave by the next boat, which left us only two or three days to make all preparations. I dashed to Bombay by the next train and spent the next two days collecting passports, reserving the necessary cabins in the P. & O. , and collecting clothes and boxes. Kind friends kept coming with various gifts, warm socks for Bapu (which he never wore), shawls and the like. Bapu arrived straight from Simla just about the time for sailing and the P. & O. mail steamer was held back for him. I had spent the whole of the previous night packing up. Just as I had finished, Mahadeo and Devadas, who had arrived with Bapu, triumphantly placed before me several more trunks and suit cases of warm clothes they had gathered up from friends in the north of India. There was no time left to sort out the clothes and decide what to take and what not to take. So everything had to go straight to the ship.
 
 In an atmosphere of intense excitement and enthusiasm, Bombay bade farewell to Bapu that morning. The ship steamed out into the Arabian sea and we (Bapu, Mahadeo, Devadas, Pyarelal and myself) at last had time to breathe. Bapu now began to make inquiries about how much luggage we had got. This was a disturbing question. We told him the number of trunks, suit cases, etc. , and explained why the number was rather large. Bapu was not satisfied and told us that we must open up all the boxes, sort out everything and whatever could possibly be done without, we should send back from Aden. So that was that. In the meantime, the monsoon rough weather had started the ship rolling. Bapu flourished, Mahadeo was next best, Devadas so so, Pyarelal rotten, myself laid low. But the clothes had to be sorted. I struggled down to the cabin of Mahadeo and the others, and there we all tussled with the boxes. At Aden nearly half the luggage went back to Bombay.
 
 But I must not continue describing in detail the many incidents which filled the time between then and our return to Bombay after the Round Table Conference was over. Suffice it to say here that the following letter was written immediately after Bapu’s arrest in Bombay within a few days of our return from the Round Table Conference.]
-
-### Letter 141: Bapu → मीरां
 
 चि. मीरां,
 
@@ -4216,13 +4216,15 @@ Love,
 
 Bapu
 
-### **174**
+### Letter 176: M.
+
+#### **174**
 
 Letter of 25th I never received.
 
 M.
 
-### Letter 176: Bapu → Mirabehn
+### Letter 177: Bapu → Mirabehn
 
 #### **175**
 
@@ -4236,7 +4238,7 @@ Love,
 
 Bapu
 
-### Letter 177: Bapu → Mirabehn
+### Letter 178: Bapu → Mirabehn
 
 #### **176**
 
@@ -4253,7 +4255,7 @@ Y. M.,
 
 Bapu
 
-### Letter 178: Bapu → Mirabehn
+### Letter 179: Bapu → Mirabehn
 
 #### **177**
 
@@ -4273,7 +4275,7 @@ Love to you and Kisan.
 
 Bapu
 
-### Letter 179: Bapu → Mirabehn
+### Letter 180: Bapu → Mirabehn
 
 #### **178**
 
@@ -4300,7 +4302,7 @@ Y. M.,
 
 Bapu
 
-### Letter 180: Bapu → Mirabehn
+### Letter 181: Bapu → Mirabehn
 
 #### **179**
 
@@ -4319,7 +4321,7 @@ Bapu
 
 I understand you have no other companion.
 
-### Letter 181: Bapu → Mirabehn
+### Letter 182: Bapu → Mirabehn
 
 #### **180**
 
@@ -4344,7 +4346,7 @@ Y. M.,
 
 Bapu
 
-### Letter 182: Bapu → Mirabehn
+### Letter 183: Bapu → Mirabehn
 
 #### **181**
 
@@ -4362,7 +4364,7 @@ Love to you both from us all including Ba.
 
 Bapu
 
-### Letter 183: Bapu → Mirabehn
+### Letter 184: Bapu → Mirabehn
 
 #### **182**
 
@@ -4387,7 +4389,7 @@ Y. M.,
 
 Bapu
 
-### Letter 184: Bapu → Mirabehn
+### Letter 185: Bapu → Mirabehn
 
 #### 183
 
@@ -4415,7 +4417,7 @@ Bapu
 
 This is going in a special envelope which I hope you will get.
 
-### Letter 185: Bapu → Mirabehn
+### Letter 186: Bapu → Mirabehn
 
 #### **184**
 
@@ -4439,7 +4441,7 @@ Love from us all to you and Kisan.
 
 Bapu
 
-### Letter 186: Bapu → मीरां
+### Letter 187: Bapu → मीरां
 
 #### **185**
 
@@ -4463,7 +4465,7 @@ Bapu
 
 * * *
 
-### Letter 187: Bapu → मीरां
+### Letter 188: Bapu → मीरां
 
 #### **186**
 
@@ -4487,7 +4489,7 @@ Bapu
 
 It is now after 5-30 a. m. I must now go to the “ library ” and then to the walk till the goats come i. e. about 6-30.
 
-### Letter 188: Bapu → मीराँ
+### Letter 189: Bapu → मीराँ
 
 #### **187**
 
@@ -4512,7 +4514,7 @@ Y. C. P.
 
 Bapu
 
-### Letter 189: Bapu → मीरां
+### Letter 190: Bapu → मीरां
 
 #### 188
 
@@ -4541,7 +4543,7 @@ Bapu
 
 I hope you have received the book on Buddhism.
 
-### Letter 190: Bapu
+### Letter 191: Bapu
 
 #### **189**
 
@@ -4556,7 +4558,7 @@ Y. M.,
 
 Bapu
 
-### Letter 191: Bapu → मीरां
+### Letter 192: Bapu → मीरां
 
 #### **190**
 
@@ -4572,7 +4574,7 @@ Love,
 
 Bapu
 
-### Letter 192: Bapu → मीरां
+### Letter 193: Bapu → मीरां
 
 #### **191**
 
@@ -4603,7 +4605,7 @@ Y. M.,
 
 Bapu
 
-### Letter 193: Bapu → मीरां
+### Letter 194: Bapu → मीरां
 
 #### **192**
 
@@ -4638,7 +4640,7 @@ Bapu
 
 I am sending the first nine statements save seventh and eighth. These I must find out . . . . . . . . . . (deleted by jail authorities).
 
-### Letter 194: Bapu → मीरां
+### Letter 195: Bapu → मीरां
 
 #### 193
 
@@ -4663,7 +4665,7 @@ Y. M.,
 
 Bapu
 
-### Letter 195: Bapu → मीरां
+### Letter 196: Bapu → मीरां
 
 #### 194
 
@@ -4691,7 +4693,7 @@ Bapu
 
 M.
 
-### Letter 196: Bapu → मीरां
+### Letter 197: Bapu → मीरां
 
 #### **195**
 
@@ -4717,7 +4719,7 @@ Y. M.,
 
 Bapu
 
-### Letter 197: Bapu → मीरां
+### Letter 198: Bapu → मीरां
 
 #### 196
 
@@ -4740,7 +4742,7 @@ Y. M., Now 5 a. m.
 
 Bapu
 
-### Letter 198: Bapu → मीरां
+### Letter 199: Bapu → मीरां
 
 #### **197**
 
@@ -4763,7 +4765,7 @@ Y. M.,
 
 Bapu
 
-### Letter 199: Bapu → मीरां
+### Letter 200: Bapu → मीरां
 
 #### 198
 
@@ -4788,7 +4790,7 @@ Y. M.,
 
 Bapu
 
-### Letter 200: Bapu → मीरां
+### Letter 201: Bapu → मीरां
 
 #### **199**
 
@@ -4820,7 +4822,7 @@ God keep you.
 
 Bapu
 
-### Letter 201: Bapu → मीरां
+### Letter 202: Bapu → मीरां
 
 #### 200
 
@@ -4842,7 +4844,7 @@ I am, we are all, just now, very busy over the forthcoming *Harijan*. I have a v
 
 Bapu
 
-### Letter 202: Bapu → मीरां
+### Letter 203: Bapu → मीरां
 
 #### **201**
 
@@ -4879,7 +4881,7 @@ Bapu
 
 * * *
 
-### Letter 203: Bapu → मीरां
+### Letter 204: Bapu → मीरां
 
 #### 202
 
@@ -4905,7 +4907,7 @@ I have just got your letter. But no time to deal with it today.
 
 Bapu
 
-### Letter 204: Bapu → मीरां
+### Letter 205: Bapu → मीरां
 
 #### **203**
 
@@ -4927,7 +4929,7 @@ Love from us all,
 
 Bapu
 
-### Letter 205: Bapu → मीरां
+### Letter 206: Bapu → मीरां
 
 #### 204
 
@@ -4954,7 +4956,7 @@ Y. M.,
 
 Bapu
 
-### Letter 206: Bapu → मीरां
+### Letter 207: Bapu → मीरां
 
 #### **205**
 
@@ -4974,7 +4976,7 @@ Love,
 
 Bapu
 
-### Letter 207: Bapu → मीरां
+### Letter 208: Bapu → मीरां
 
 #### 206
 
@@ -5002,7 +5004,7 @@ Love from us all,
 
 Bapu
 
-### Letter 208: Bapu → मीरां
+### Letter 209: Bapu → मीरां
 
 #### 207
 
@@ -5034,7 +5036,7 @@ Love,
 
 Bapu
 
-### Letter 209: Bapu → मीरां
+### Letter 210: Bapu → मीरां
 
 #### **208**
 
@@ -5051,7 +5053,7 @@ Y. C. Prison,
 
 Bapu
 
-### Letter 210: Bapu → मीरां
+### Letter 211: Bapu → मीरां
 
 #### 209
 
@@ -5076,11 +5078,11 @@ Y. M.,
 
 I hope you got my letter written on Saturday. One was sent to Ba also.
 
-### 210
+### Letter 212: Bapu
+
+#### 210
 
 [The following messages were written by Bapu himself on the letters reporting the progress of his fast:]
-
-### Letter 211: Bapu
 
 You and Ba will get such reports daily. I hope you are bearing up well.
 
@@ -5088,7 +5090,7 @@ You and Ba will get such reports daily. I hope you are bearing up well.
 
 Bapu
 
-### Letter 212: Bapu → मीरा
+### Letter 213: Bapu → मीरा
 
 चि. मीरा,
 
@@ -5100,7 +5102,7 @@ Bapu
 
 (Letter written on 12-5-’33 the fifth day of the fast.)
 
-### Letter 213: Bapu → मीरां
+### Letter 214: Bapu → मीरां
 
 #### **211**
 
@@ -5112,7 +5114,7 @@ Love,
 
 Bapu
 
-### Letter 214: Bapu
+### Letter 215: Bapu
 
 #### **212**
 
@@ -5124,7 +5126,7 @@ Love,
 
 Bapu
 
-### Letter 215: Bapu
+### Letter 216: Bapu
 
 #### **213**
 
@@ -5136,7 +5138,7 @@ Love,
 
 Bapu
 
-### Letter 216: मीरां
+### Letter 217: मीरां
 
 #### **214**
 
@@ -5148,7 +5150,7 @@ I have just broken the fast. The next task commences. He will find the ways and 
 
 *[Illustration, p. 266]*
 
-### Letter 217: Bapu → मीरां
+### Letter 218: Bapu → मीरां
 
 #### **215**
 
@@ -5163,7 +5165,7 @@ Poona,
 
 Bapu
 
-### Letter 218: Bapu → मीरां
+### Letter 219: Bapu → मीरां
 
 #### **216**
 
@@ -5178,7 +5180,7 @@ Poona,
 
 Bapu
 
-### Letter 219: Bapu → मीरां
+### Letter 220: Bapu → मीरां
 
 #### **217**
 
@@ -5207,7 +5209,7 @@ Love,
 
 Bapu
 
-### Letter 220: Bapu → मीरां
+### Letter 221: Bapu → मीरां
 
 #### **218**
 
@@ -5226,7 +5228,7 @@ Poona,
 
 Bapu
 
-### Letter 221: Bapu → मीरां
+### Letter 222: Bapu → मीरां
 
 #### **219**
 
@@ -5245,7 +5247,7 @@ Love,
 
 Bapu
 
-### Letter 222: Bapu → मीरां
+### Letter 223: Bapu → मीरां
 
 #### **220**
 
@@ -5268,7 +5270,7 @@ Love,
 
 Bapu
 
-### Letter 223: Bapu → मीरां
+### Letter 224: Bapu → मीरां
 
 #### 221
 
@@ -5291,7 +5293,7 @@ Love from us all,
 
 Bapu
 
-### Letter 224: Bapu → मीरां
+### Letter 225: Bapu → मीरां
 
 #### **222**
 
@@ -5314,7 +5316,7 @@ Love,
 
 Bapu
 
-### Letter 225: Bapu → मीरां
+### Letter 226: Bapu → मीरां
 
 #### **223**
 
@@ -5333,11 +5335,11 @@ Love,
 
 Bapu
 
-### **224**
+### Letter 227: Bapu → मीरां
+
+#### **224**
 
 [ Here again between the last letter and this comes a big gap filled with many events. The very next day after Bapu had been to see me in Sabarmati Jail he was arrested in the evening and sent to Yeravda Jail in order to prevent his intended march to the village of Ras which was to have commenced the following day. The former facilities for serving the Harijans while in jail were this time withheld and, consequently, Bapu commenced fasting. The Government was adamant and Bapu's health was such, owing to the previous twentyone days' fast, that his staying power was greatly reduced and his condition rapidly deteriorated. My year's imprisonment was just coming to an end. The Superintendent of the Sabarmati jail was very sympathetic and did the best he could which was to release me an hour or two before my term was up, to enable me to catch the early morning train for Poona. I went straight from the jail to the station and all through the journey heard people discussing Bapu’s condition and saying he was dying. When I reached Parnakuti I found Ba and others ringing their hands and saying, “Bapu will not survive.” Ba who had been allowed to see him said, that morning he had refused to take any more water, had distributed his few little belongings amongst his attendants and was preparing for the end. Though I had no grounds beyond instinct to go upon I could only say, ‘I feel Bapu can not be going to die.’ That morning Andrews had gone to the jail in the hope of a last moment agreement. We waited in suspense. News came that the Government was releasing Bapu, and in a short while an ambulance conveyed Bapu, accompanied by Andrews, to Parnakuti. Bapu was carried out on a stretcher. Never before or after have I seen Bapu, look so bad as he did then, with the eyes sunk and all colour gone from his face; but even so the spirit remained buoyant. Now followed a period of long convalescence and then the all-India Harijan tour. I accompanied Bapu throughout the whole of the Central and South Indian part of the tour. By the time we had come North again as far as Bombay, an inner urge came to me that I should go to England and speak of Bapu and his message to the people, specially of the working classes. I went straight to Bapu and told him. He said I should go, and within 5 days I was on a ship and sailing to Europe. The following letter is the first Bapu wrote to me after my departure.]
-
-### Letter 226: Bapu → मीरां
 
 चि० मीरां,
 
@@ -5353,7 +5355,7 @@ Love,
 
 Bapu
 
-### Letter 227: Bapu → मीरां
+### Letter 228: Bapu → मीरां
 
 #### **225**
 
@@ -5365,7 +5367,7 @@ I have your letter and p. c. God be with you. I am in the midst of appointments 
 
 Bapu
 
-### Letter 228: Bapu → मीरां
+### Letter 229: Bapu → मीरां
 
 #### **226**
 
@@ -5377,7 +5379,7 @@ Nothing more beyond sending you a cart-load of love. . . . . . .
 
 Bapu
 
-### Letter 229: Bapu → मीरां
+### Letter 230: Bapu → मीरां
 
 #### **227**
 
@@ -5394,7 +5396,7 @@ Ajmer,
 
 Bapu
 
-### Letter 230: Bapu → मीरां
+### Letter 231: Bapu → मीरां
 
 #### **228**
 
@@ -5408,7 +5410,7 @@ Love to all,
 
 Bapu
 
-### Letter 231: Bapu → मीरां
+### Letter 232: Bapu → मीरां
 
 #### **229**
 
@@ -5430,7 +5432,7 @@ Love,
 
 Bapu
 
-### Letter 232: Bapu → मीरां
+### Letter 233: Bapu → मीरां
 
 #### **230**
 
@@ -5450,7 +5452,7 @@ Love,
 
 Bapu
 
-### Letter 233: Bapu → मीरां
+### Letter 234: Bapu → मीरां
 
 #### **231**
 
@@ -5465,7 +5467,7 @@ Love,
 
 Bapu
 
-### Letter 234: Bapu → मीरां
+### Letter 235: Bapu → मीरां
 
 #### **232**
 
@@ -5477,7 +5479,7 @@ This is being written with the vegetable in the one hand and pen in the other. T
 
 Bapu
 
-### Letter 235: Bapu → मीरां
+### Letter 236: Bapu → मीरां
 
 #### **233**
 
@@ -5506,7 +5508,7 @@ Bapu
 
 I have not been able to write to Maxwell. Sorry.
 
-### Letter 236: Bapu → मीरां
+### Letter 237: Bapu → मीरां
 
 #### 234
 
@@ -5532,7 +5534,7 @@ Bapu
 
 Not revised
 
-### Letter 237: Bapu → मीरां
+### Letter 238: Bapu → मीरां
 
 #### **235**
 
@@ -5553,7 +5555,7 @@ Love,
 
 Bapu
 
-### Letter 238: Bapu → Miraben
+### Letter 239: Bapu → Miraben
 
 #### **236**
 
@@ -5569,7 +5571,7 @@ Love,
 
 Bapu
 
-### Letter 239: Bapu → Mirabai
+### Letter 240: Bapu → Mirabai
 
 #### **237**
 
@@ -5582,7 +5584,7 @@ God light your path. Blessings.[^fn-p0294-1]
 
 Bapu
 
-### Letter 240: Bapu → मीरां / Mirabehn
+### Letter 241: Bapu → मीरां / Mirabehn
 
 #### **238**
 
@@ -5607,7 +5609,7 @@ Bapu
 
 Shrimati Mirabehn,
 
-### Letter 241: Bapu → मीरां
+### Letter 242: Bapu → मीरां
 
 #### **239**
 
@@ -5624,7 +5626,7 @@ On the train to Bombay,
 
 Bapu
 
-### Letter 242: Bapu → मीरां
+### Letter 243: Bapu → मीरां
 
 #### **240**
 
@@ -5643,7 +5645,7 @@ Borsad,
 
 Bapu
 
-### Letter 243: Bapu → मीरां
+### Letter 244: Bapu → मीरां
 
 #### **241**
 
@@ -5660,7 +5662,7 @@ Borsad
 
 Bapu
 
-### Letter 244: Bapu → मीरां
+### Letter 245: Bapu → मीरां
 
 #### **242**
 
@@ -5674,7 +5676,7 @@ Love,
 
 Bapu
 
-### Letter 245: Bapu → मीरां
+### Letter 246: Bapu → मीरां
 
 #### **243**
 
@@ -5691,7 +5693,7 @@ Borsad,
 
 Bapu
 
-### Letter 246: Bapu → मीरां
+### Letter 247: Bapu → मीरां
 
 #### **244**
 
@@ -5710,7 +5712,7 @@ Love,
 
 Bapu
 
-### Letter 247: Bapu → मीरां
+### Letter 248: Bapu → मीरां
 
 #### **245**
 
@@ -5724,7 +5726,7 @@ Bapu
 
 [ Bapu had been taken to Ahmedabad for change. ]
 
-### Letter 248: Bapu → मीरां
+### Letter 249: Bapu → मीरां
 
 #### **246**
 
@@ -5739,11 +5741,11 @@ Ahmedabad,
 
 Bapu
 
-### **247**
+### Letter 250: Bapu → मीरां
+
+#### **247**
 
 [ A tremendous struggle was going on within myself. My greatest longing was to live in a village with Bapu. To get into the villages had been my desire ever since the days of Sabarmati, but I had always been torn between the longing for the countryside and the longing to be with Bapu. Now I had hoped that the time had come when the two longings could be fulfilled. The situation however became very painful. If living in Segaon was to mean perpetual separation from Bapu, my health and nerves would not be able to endure it. Already my health was giving way under the strain which was seriously aggravated by other people telling me that if I did not stay permanently in Segaon, Bapu's blood pressure would get worse. When Bapu became aware of the fact that my nerves were giving out, he said, if I could not live in Segaon he would himself go there. But then he would go there on the same terms as he had contemplated for Sindi, i. e., to live alone without any of his old workers, and I must go to a neighbouring village. This nearly broke my heart, but somehow I managed to carry on, and when Bapu finally decided to come and live in Segaon, I buried my sorrow in the joy of preparing for him his cottage and cowshed. For myself I built a little cottage a mile away on the ridge above Varoda village, and within a week of Bapu coming to live in Segaon I departed for the hut on the hill where I lived alone with my little horse as my companion. Other workers, however, did not leave Segaon and Bapu was never able to achieve his object of being alone; but on the contrary his cottage became so overcrowded that after a time there was no room left for Bapu himself. ]
-
-### Letter 249: Bapu → मीरां
 
 चि. मीरां,
 
@@ -5757,7 +5759,7 @@ Love,
 
 Bapu
 
-### Letter 250: Bapu → मीरां
+### Letter 251: Bapu → मीरां
 
 #### 248
 
@@ -5772,7 +5774,7 @@ Ahmedabad,
 
 Bapu
 
-### Letter 251: Bapu → मीरां
+### Letter 252: Bapu → मीरां
 
 #### **249**
 
@@ -5792,7 +5794,7 @@ Love,
 
 Bapu
 
-### Letter 252: Bapu → मीरां
+### Letter 253: Bapu → मीरां
 
 #### **250**
 
@@ -5811,7 +5813,7 @@ Delhi,
 
 Bapu
 
-### Letter 253: Bapu → मीरां
+### Letter 254: Bapu → मीरां
 
 #### **251**
 
@@ -5831,7 +5833,7 @@ Delhi,
 
 Bapu
 
-### Letter 254: Bapu → मीरां
+### Letter 255: Bapu → मीरां
 
 #### **252**
 
@@ -5848,7 +5850,7 @@ Delhi,
 
 Bapu
 
-### Letter 255: Bapu → मीरां
+### Letter 256: Bapu → मीरां
 
 #### **253**
 
@@ -5873,7 +5875,7 @@ Allahabad,
 
 Bapu
 
-### Letter 256: Bapu → मीरां
+### Letter 257: Bapu → मीरां
 
 #### 254
 
@@ -5893,7 +5895,7 @@ Bapu
 
 We are all fasting today. I have just broken mine.
 
-### Letter 257: Bapu → मीरां
+### Letter 258: Bapu → मीरां
 
 #### **255**
 
@@ -5909,7 +5911,7 @@ Love,
 
 Bapu
 
-### Letter 258: Bapu → मीरां
+### Letter 259: Bapu → मीरां
 
 #### **256**
 
@@ -5925,7 +5927,7 @@ Love,
 
 Bapu
 
-### Letter 259: Bapu → मीरां
+### Letter 260: Bapu → मीरां
 
 #### **257**
 
@@ -5941,7 +5943,7 @@ Love,
 
 Bapu
 
-### Letter 260: Bapu → मीरां
+### Letter 261: Bapu → मीरां
 
 #### **258**
 
@@ -5956,7 +5958,7 @@ Wardha,
 
 Bapu
 
-### Letter 261: Bapu → मोरां
+### Letter 262: Bapu → मोरां
 
 #### 259
 
@@ -5972,7 +5974,7 @@ Love,
 
 Bapu
 
-### Letter 262: Bapu → मीरां
+### Letter 263: Bapu → मीरां
 
 #### 260
 
@@ -5995,7 +5997,7 @@ Nandi Hill,
 
 Bapu
 
-### Letter 263: Bapu → मीरां
+### Letter 264: Bapu → मीरां
 
 #### 261
 
@@ -6016,7 +6018,7 @@ Nandi Hill,
 
 Bapu
 
-### Letter 264: Bapu → मीरां
+### Letter 265: Bapu → मीरां
 
 #### **262**
 
@@ -6035,7 +6037,7 @@ Bapu
 
 We descend to Bangalore on 31st.
 
-### Letter 265: Bapu → मीरां
+### Letter 266: Bapu → मीरां
 
 #### **263**
 
@@ -6053,7 +6055,7 @@ Bapu
 
 *[Illustration, p. 304]*
 
-### Letter 266: Bapu → मीरां
+### Letter 267: Bapu → मीरां
 
 #### **264**
 
@@ -6071,7 +6073,7 @@ Love,
 
 Bapu
 
-### Letter 267: Bapu → मीरां
+### Letter 268: Bapu → मीरां
 
 #### **265**
 
@@ -6091,7 +6093,7 @@ Love,
 
 Bapu
 
-### Letter 268: Bapu → मीरां
+### Letter 269: Bapu → मीरां
 
 #### **266**
 
@@ -6105,7 +6107,7 @@ Love,
 
 Bapu
 
-### Letter 269: Bapu → मीरां
+### Letter 270: Bapu → मीरां
 
 #### **267**
 
@@ -6131,7 +6133,7 @@ Nandi Hill,
 
 Bapu
 
-### Letter 270: Bapu → मीरां
+### Letter 271: Bapu → मीरां
 
 #### **268**
 
@@ -6152,7 +6154,7 @@ Bangalore,
 
 Bapu
 
-### Letter 271: Bapu → मीरां
+### Letter 272: Bapu → मीरां
 
 #### **269**
 
@@ -6172,7 +6174,7 @@ Love,
 
 Bapu
 
-### Letter 272: Bapu → मीरां
+### Letter 273: Bapu → मीरां
 
 #### **270**
 
@@ -6186,7 +6188,7 @@ Love,
 
 Bapu
 
-### Letter 273: Bapu → मीरां
+### Letter 274: Bapu → मीरां
 
 #### 271
 
@@ -6207,7 +6209,7 @@ B. Lore,
 
 Bapu
 
-### Letter 274: Bapu → मीरां
+### Letter 275: Bapu → मीरां
 
 #### 272
 
@@ -6223,7 +6225,7 @@ Love,
 
 Bapu
 
-### Letter 275: Bapu → मीरां
+### Letter 276: Bapu → मीरां
 
 #### **273**
 
@@ -6233,7 +6235,7 @@ Bapu
 
 This is merely a love letter. Nothing to say except that I am praying for your relief. Do not make any experiments, is the lesson to be learnt from this new experience.[^fn-p0320-2]
 
-### Letter 276: Bapu → मीरां
+### Letter 277: Bapu → मीरां
 
 #### **274**
 
@@ -6247,7 +6249,7 @@ Love,
 
 Bapu
 
-### Letter 277: Bapu → मीरां
+### Letter 278: Bapu → मीरां
 
 #### **275**
 
@@ -6261,7 +6263,7 @@ Love,
 
 Bapu
 
-### Letter 278: Bapu → मीरां
+### Letter 279: Bapu → मीरां
 
 #### **276**
 
@@ -6275,7 +6277,7 @@ Love,
 
 Bapu
 
-### Letter 279: Bapu → मीरां
+### Letter 280: Bapu → मीरां
 
 #### **277**
 
@@ -6289,7 +6291,7 @@ Love,
 
 Bapu
 
-### Letter 280: Bapu → मीरां
+### Letter 281: Bapu → मीरां
 
 #### **278**
 
@@ -6303,7 +6305,7 @@ Love,
 
 Bapu
 
-### Letter 281: Bapu → मीरां
+### Letter 282: Bapu → मीरां
 
 #### **279**
 
@@ -6320,7 +6322,7 @@ Kashi,
 
 Bapu
 
-### Letter 282: Bapu → मीरां
+### Letter 283: Bapu → मीरां
 
 #### **280**
 
@@ -6339,7 +6341,7 @@ Bapu
 
 Tomorrow Rajkot. 30th Ahmedabad.
 
-### Letter 283: Bapu → मीरां
+### Letter 284: Bapu → मीरां
 
 #### **281**
 
@@ -6354,7 +6356,7 @@ Tilaknagar,
 
 Bapu
 
-### Letter 284: Bapu → मीरां
+### Letter 285: Bapu → मीरां
 
 #### **282**
 
@@ -6369,7 +6371,7 @@ Cape Comorin,
 
 Bapu
 
-### Letter 285: Bapu → मीरां
+### Letter 286: Bapu → मीरां
 
 #### **283**
 
@@ -6387,7 +6389,7 @@ Love,
 
 Bapu
 
-### Letter 286: Bapu → मीरां
+### Letter 287: Bapu → मीरां
 
 #### **284**
 
@@ -6406,7 +6408,7 @@ Delhi, 15-3-’37
 
 Bapu
 
-### Letter 287: Bapu → मीरां
+### Letter 288: Bapu → मीरां
 
 #### **285**
 
@@ -6423,7 +6425,7 @@ Segaon (Wardha),
 
 Bapu
 
-### Letter 288: Bapu → मोरां
+### Letter 289: Bapu → मोरां
 
 #### **286**
 
@@ -6439,7 +6441,7 @@ Love,
 
 Bapu
 
-### Letter 289: Bapu → मीरां
+### Letter 290: Bapu → मीरां
 
 #### **287**
 
@@ -6460,7 +6462,7 @@ Segaon, Wardha,
 
 Bapu
 
-### Letter 290: Bapu → मीरां
+### Letter 291: Bapu → मीरां
 
 #### **288**
 
@@ -6479,7 +6481,7 @@ Segaon, Wardha,
 
 Bapu
 
-### Letter 291: Bapu → मीरां
+### Letter 292: Bapu → मीरां
 
 #### **289**
 
@@ -6506,7 +6508,7 @@ Segaon, Wardha,
 
 Bapu
 
-### Letter 292: Bapu → मीरां
+### Letter 293: Bapu → मीरां
 
 #### **290**
 
@@ -6523,7 +6525,7 @@ Segaon,
 
 Bapu
 
-### Letter 293: Bapu → मीरां
+### Letter 294: Bapu → मीरां
 
 #### **291**
 
@@ -6542,7 +6544,7 @@ Segaon, Wardha,
 
 Bapu
 
-### Letter 294: Bapu → मीरां
+### Letter 295: Bapu → मीरां
 
 #### **292**
 
@@ -6558,7 +6560,7 @@ Love,
 
 Bapu
 
-### Letter 295: Bapu → मीरां
+### Letter 296: Bapu → मीरां
 
 #### **293**
 
@@ -6580,7 +6582,7 @@ addition to the family.
 
 Page 318
 
-### Letter 296: Bapu → मीरां
+### Letter 297: Bapu → मीरां
 
 #### 294
 
@@ -6601,7 +6603,7 @@ Love,
 
 Bapu
 
-### Letter 297: Bapu → मीरां
+### Letter 298: Bapu → मीरां
 
 #### **295**
 
@@ -6616,7 +6618,7 @@ Calcutta,
 
 Bapu
 
-### Letter 298: Bapu → मीरां
+### Letter 299: Bapu → मीरां
 
 #### **296**
 
@@ -6632,7 +6634,7 @@ Love,
 
 Bapu
 
-### Letter 299: Bapu → मीरां
+### Letter 300: Bapu → मीरां
 
 #### **297**
 
@@ -6649,7 +6651,7 @@ Peshawar,
 
 Bapu
 
-### Letter 300: Bapu → मीरां
+### Letter 301: Bapu → मीरां
 
 #### **298**
 
@@ -6666,7 +6668,7 @@ Delhi,
 
 Bapu
 
-### Letter 301: Bapu → Mira
+### Letter 302: Bapu → Mira
 
 #### **299**
 
@@ -6678,7 +6680,7 @@ Leaving Tomorrow Post Utmanzai.
 
 Bapu
 
-### Letter 302: Bapu → मीरां
+### Letter 303: Bapu → मीरां
 
 #### **300**
 
@@ -6697,7 +6699,7 @@ Utmanzai,
 
 Bapu
 
-### Letter 303: Bapu → मीरां
+### Letter 304: Bapu → मीरां
 
 #### **301**
 
@@ -6720,7 +6722,7 @@ Utmanzai,
 
 Bapu
 
-### Letter 304: Bapu → मीरां
+### Letter 305: Bapu → मीरां
 
 #### **302**
 
@@ -6739,7 +6741,7 @@ Peshawar,
 
 Bapu
 
-### Letter 305: Bapu → मीरां
+### Letter 306: Bapu → मीरां
 
 #### **303**
 
@@ -6755,7 +6757,7 @@ Love,
 
 Bapu
 
-### Letter 306: Bapu → मीरां
+### Letter 307: Bapu → मीरां
 
 #### **304**
 
@@ -6772,7 +6774,7 @@ Segaon,
 
 Bapu
 
-### Letter 307: Bapu → मीरां
+### Letter 308: Bapu → मीरां
 
 #### **305**
 
@@ -6792,7 +6794,7 @@ Bapu
 
 I have at last your letter from Peshawar. I am quite well. B. P. is in order. The cold has begun here.
 
-### Letter 308: Bapu → मीरां
+### Letter 309: Bapu → मीरां
 
 #### 306
 
@@ -6809,7 +6811,7 @@ Love,
 
 Bapu
 
-### Letter 309: Bapu → मीरां
+### Letter 310: Bapu → मीरां
 
 #### **307**
 
@@ -6826,7 +6828,7 @@ Love,
 
 Bapu
 
-### Letter 310: Bapu → मीरां
+### Letter 311: Bapu → मीरां
 
 #### **308**
 
@@ -6843,7 +6845,7 @@ Bardoli,
 
 Bapu
 
-### Letter 311: Bapu → मीरां
+### Letter 312: Bapu → मीरां
 
 #### **309**
 
@@ -6860,7 +6862,7 @@ Love,
 
 Bapu
 
-### Letter 312: Bapu → मीरां
+### Letter 313: Bapu → मीरां
 
 #### **310**
 
@@ -6877,7 +6879,7 @@ Love,
 
 Bapu
 
-### Letter 313: Bapu → मीरां
+### Letter 314: Bapu → मीरां
 
 #### **311**
 
@@ -6897,7 +6899,7 @@ Love,
 
 Bapu
 
-### Letter 314: Bapu → मीरां
+### Letter 315: Bapu → मीरां
 
 #### **312**
 
@@ -6912,7 +6914,7 @@ Love,
 
 Bapu
 
-### Letter 315: Bapu → Mirabehn
+### Letter 316: Bapu → Mirabehn
 
 #### **313**
 
@@ -6926,7 +6928,7 @@ Love,
 
 Bapu
 
-### Letter 316: Bapu → Mirabai
+### Letter 317: Bapu → Mirabai
 
 #### **314**
 
@@ -6940,7 +6942,7 @@ Love,
 
 Bapu
 
-### Letter 317: Bapu → Mirabai
+### Letter 318: Bapu → Mirabai
 
 #### **315**
 
@@ -6952,7 +6954,7 @@ Keeping well. Have no anxiety. Inform Khansahib.
 
 Bapu
 
-### Letter 318: Pyarelal → Mirabehn
+### Letter 319: Pyarelal → Mirabehn
 
 #### **316**
 
@@ -6964,7 +6966,7 @@ Fast broken[^fn-p0344-1] thank God. Inform Doctor Saheb Badshahkhan.
 
 Pyarelal
 
-### Letter 319: Bapu → मीरां
+### Letter 320: Bapu → मीरां
 
 #### **317**
 
@@ -6979,7 +6981,7 @@ Rajkot,
 
 Bapu
 
-### Letter 320: Bapu → मीरां
+### Letter 321: Bapu → मीरां
 
 #### **318**
 
@@ -6993,7 +6995,7 @@ Love,
 
 Bapu
 
-### Letter 321: Bapu → मीरां
+### Letter 322: Bapu → मीरां
 
 #### **319**
 
@@ -7014,7 +7016,7 @@ Love,
 
 Bapu
 
-### Letter 322: Bapu → मीरां
+### Letter 323: Bapu → मीरां
 
 #### **320**
 
@@ -7034,7 +7036,7 @@ Champaran,
 
 Bapu
 
-### Letter 323: Bapu → मीरां
+### Letter 324: Bapu → मीरां
 
 #### **321**
 
@@ -7049,7 +7051,7 @@ Rajkot,
 
 Bapu
 
-### Letter 324: Bapu → Mirabai
+### Letter 325: Bapu → Mirabai
 
 #### **322**
 
@@ -7062,7 +7064,7 @@ Hoping leave Bombay sixth June.
 
 Bapu
 
-### Letter 325: Bapu → Mirabehn
+### Letter 326: Bapu → Mirabehn
 
 #### **323**
 
@@ -7074,11 +7076,11 @@ Again held up till end month.
 
 Bapu
 
-### **324**
+### Letter 327: Bapu → Mirabehn
+
+#### **324**
 
 [ The long delay in Bapu’s coming to the Frontier had told severely on my health and at last I returned to Sevagram. Knowing that Bapu wanted me to work independently, I mustered up courage and went on to Bihar. In the meantime, Bapu’s long postponed visit to the Frontier materialized, and the sorrow in my heart became further accentuated. ]
-
-### Letter 326: Bapu → Mirabehn
 
 Telegram  (From Abbottabad dated 11-7-1939).
 
@@ -7088,7 +7090,7 @@ You can remain if health continues good.
 
 Bapu
 
-### Letter 327: Bapu → मीरां
+### Letter 328: Bapu → मीरां
 
 #### **325**
 
@@ -7107,11 +7109,11 @@ Abbottabad,
 
 Bapu
 
-### **326**
+### Letter 329: Bapu → मीरां
+
+#### **326**
 
 [ I had returned from Bihar to Sevagram and later gone on to the Punjab. ]
-
-### Letter 328: Bapu → मीरां
 
 Segaon,  
 Wardha, (C. P.)
@@ -7128,7 +7130,7 @@ Love,
 
 Bapu
 
-### Letter 329: Bapu → मीरां
+### Letter 330: Bapu → मीरां
 
 #### **327**
 
@@ -7143,11 +7145,11 @@ Love,
 
 Bapu
 
-### **328**
+### Letter 331: Bapu → मीरां
+
+#### **328**
 
 [ I was now at Palampur (Kangra). I had stayed at Oel Ashram for some three months, and had further experience of the art of building mud cottages. As a demonstration to the Ashramites who had been building a *pucca* brick house at considerable expense, I built myself with the aid of two or three villagers and a carpenter a small cottage for Rs. 18/-. I then wandered round the villages and purchased for Rs. 7/- a cow and calf whom I tied at the corners of my verandah. These were the last cheap days ! ]
-
-### Letter 330: Bapu → मीरां
 
 Sevagram, Wardha,  
 18-5-’40
@@ -7166,7 +7168,7 @@ Love,
 
 Bapu
 
-### Letter 331: Bapu → मीरां
+### Letter 332: Bapu → मीरां
 
 #### **329**
 
@@ -7183,7 +7185,7 @@ Sevagram, Wardha,
 
 Bapu
 
-### Letter 332: Bapu → मीरां
+### Letter 333: Bapu → मीरां
 
 #### **330**
 
@@ -7200,11 +7202,11 @@ Love,
 
 Bapu
 
-### **331**
+### Letter 334: Bapu → मीरां
+
+#### **331**
 
 [The inner struggle had come to a crisis and such bewildering and delusive mists and fogs had enveloped my path that, in my anguish, I went into silence and seclusion that I might the better pray to God for help. The silence, with a few days’ breaks for travelling, lasted 15 months. For part of the time my rule was to speak once a day for half an hour, if necessary, and for the rest of the time when I was in a cottage in the Sevagram fields, I spoke twice a week in the evening when I went to see Bapu. I read only the *Vedas* and the *Puranas*, and I span 1,000 yards of yarn a day. When I came out of the silence, God had given me the strength which I had up to then sought in vain ].
-
-### Letter 333: Bapu → मीरां
 
 Sevagram,  
 Wardha, C. P., 7-9-’40
@@ -7219,7 +7221,7 @@ Love,
 
 Bapu
 
-### Letter 334: Bapu → मीरां
+### Letter 335: Bapu → मीरां
 
 #### **332**
 
@@ -7242,7 +7244,7 @@ Bapu
 
 I expect you do not want me to give you political news or even Ashram news.[^fn-p0353-3]
 
-### Letter 335: Bapu → मीरां
+### Letter 336: Bapu → मीरां
 
 #### **333**
 
@@ -7261,7 +7263,7 @@ Bapu
 
 Your *khadi* has now come. If you gave me instructions about it, I have forgotten. Shall I keep it for you?
 
-### Letter 336: Bapu → मीरां
+### Letter 337: Bapu → मीरां
 
 #### **334**
 
@@ -7284,7 +7286,7 @@ V. was arrested at 3 a. m. today. The trial takes place today. Successor not yet
 
 P[^fn-p0354-1]
 
-### Letter 337: Bapu → मीरां
+### Letter 338: Bapu → मीरां
 
 #### **335**
 
@@ -7301,7 +7303,7 @@ Love,
 
 Bapu
 
-### Letter 338: Bapu → मीरां
+### Letter 339: Bapu → मीरां
 
 #### **336**
 
@@ -7318,7 +7320,7 @@ Love,
 
 Bapu
 
-### Letter 339: Bapu → मीरां
+### Letter 340: Bapu → मीरां
 
 #### **337**
 
@@ -7339,7 +7341,7 @@ Bapu
 
 Put alum 6 gr. to a gallon of water. Let the water stand overnight. In the morning take out the water. Add half a teaspoonful of lime to a gallon of this water and boil and use. But you should get distilled water in Palampur. If you can, use that only.
 
-### Letter 340: Bapu → मीरां
+### Letter 341: Bapu → मीरां
 
 #### **338**
 
@@ -7354,7 +7356,7 @@ Love,
 
 Bapu
 
-### Letter 341: Bapu → मीरां
+### Letter 342: Bapu → मीरां
 
 #### **339**
 
@@ -7371,7 +7373,7 @@ Love,
 
 Bapu
 
-### Letter 342: Bapu → Mirabehn
+### Letter 343: Bapu → Mirabehn
 
 #### **340**
 
@@ -7383,7 +7385,7 @@ Come at once Varoda love, well.
 
 Bapu
 
-### Letter 343: Bapu → मीरां
+### Letter 344: Bapu → मीरां
 
 #### **341**
 
@@ -7399,7 +7401,7 @@ Love,
 
 Bapu
 
-### Letter 344: Bapu → मीरां
+### Letter 345: Bapu → मीरां
 
 #### **342**
 
@@ -7418,7 +7420,7 @@ Love,
 
 Bapu
 
-### Letter 345: Bapu → मीरां
+### Letter 346: Bapu → मीरां
 
 #### **343**
 
@@ -7435,7 +7437,7 @@ Love,
 
 Bapu
 
-### Letter 346: Bapu → मीरां
+### Letter 347: Bapu → मीरां
 
 #### **344**
 
@@ -7452,7 +7454,7 @@ Love,
 
 Bapu
 
-### Letter 347: Bapu → मीरां
+### Letter 348: Bapu → मीरां
 
 #### **345**
 
@@ -7473,7 +7475,7 @@ Love,
 
 Bapu
 
-### Letter 348: Bapu → मीरां
+### Letter 349: Bapu → मीरां
 
 #### **346**
 
@@ -7490,7 +7492,7 @@ Love,
 
 Bapu
 
-### Letter 349: Bapu → मीरां
+### Letter 350: Bapu → मीरां
 
 #### 347
 
@@ -7505,7 +7507,7 @@ Love,
 
 Bapu
 
-### Letter 350: Bapu → मीरां
+### Letter 351: Bapu → मीरां
 
 #### 348
 
@@ -7521,7 +7523,7 @@ Love,
 
 Bapu
 
-### Letter 351: Bapu → मीरां
+### Letter 352: Bapu → मीरां
 
 #### **349**
 
@@ -7535,7 +7537,7 @@ Love,
 
 Bapu
 
-### Letter 352: Bapu → मीरां
+### Letter 353: Bapu → मीरां
 
 #### **350**
 
@@ -7550,7 +7552,7 @@ Love,
 
 Bapu
 
-### Letter 353: Bapu → मीरां
+### Letter 354: Bapu → मीरां
 
 #### **351**
 
@@ -7567,7 +7569,7 @@ Bapu
 
 I am in excellent form.
 
-### Letter 354: Bapu → मीरां
+### Letter 355: Bapu → मीरां
 
 #### **352**
 
@@ -7584,7 +7586,7 @@ Love to you all,
 
 Bapu
 
-### Letter 355: Bapu → मीरां
+### Letter 356: Bapu → मीरां
 
 #### **353**
 
@@ -7603,7 +7605,7 @@ Love,
 
 Bapu
 
-### Letter 356: Bapu → मीरां
+### Letter 357: Bapu → मीरां
 
 #### **354**
 
@@ -7620,7 +7622,7 @@ Love,
 
 Bapu
 
-### Letter 357: Bapu → मीरां
+### Letter 358: Bapu → मीरां
 
 #### **355**
 
@@ -7637,7 +7639,7 @@ Love,
 
 Bapu
 
-### Letter 358: Bapu → मीरां
+### Letter 359: Bapu → मीरां
 
 #### **356**
 
@@ -7654,7 +7656,7 @@ Love,
 
 Bapu
 
-### Letter 359: Bapu → मीरां
+### Letter 360: Bapu → मीरां
 
 #### **357**
 
@@ -7675,7 +7677,7 @@ Love,
 
 Bapu
 
-### Letter 360: Bapu → मीरां
+### Letter 361: Bapu → मीरां
 
 #### **358**
 
@@ -7730,7 +7732,7 @@ prisoner the lightly wounded of their enemy, but the rest would probably be left
 
 Mira
 
-### Letter 361: Bapu → मीरां
+### Letter 362: Bapu → मीरां
 
 #### **359**
 
@@ -7758,7 +7760,7 @@ Love,
 
 Bapu
 
-### Letter 362: Bapu → मीरां
+### Letter 363: Bapu → मीरां
 
 #### **360**
 
@@ -7781,7 +7783,7 @@ Love,
 
 Bapu
 
-### Letter 363: Bapu → मीरां
+### Letter 364: Bapu → मीरां
 
 #### **361**
 
@@ -7801,7 +7803,7 @@ Love,
 
 Bapu
 
-### Letter 364: Bapu → मीरां
+### Letter 365: Bapu → मीरां
 
 #### **362**
 
@@ -7822,7 +7824,7 @@ Love,
 
 Bapu
 
-### Letter 365: Bapu → मीरां
+### Letter 366: Bapu → मीरां
 
 #### **363**
 
@@ -7837,7 +7839,7 @@ Love,
 
 Bapu
 
-### Letter 366: Bapu → मीरां
+### Letter 367: Bapu → मीरां
 
 #### **364**
 
@@ -7856,7 +7858,7 @@ Love,
 
 Bapu
 
-### Letter 367: Bapu → मीरां
+### Letter 368: Bapu → मीरां
 
 #### **365**
 
@@ -7873,7 +7875,7 @@ Love,
 
 Bapu
 
-### Letter 368: बापुके आशीर्वाद → मीरां
+### Letter 369: बापुके आशीर्वाद → मीरां
 
 #### **366**
 
@@ -7890,7 +7892,7 @@ Love,
 
 बापुके आशीर्वाद
 
-### Letter 369: Bapu → मीरां
+### Letter 370: Bapu → मीरां
 
 #### **367**
 
@@ -7907,7 +7909,7 @@ Love,
 
 Bapu
 
-### Letter 370: Bapu → मीरां
+### Letter 371: Bapu → मीरां
 
 #### **368**
 
@@ -7924,7 +7926,7 @@ Love,
 
 Bapu
 
-### Letter 371: Bapu → मीरां
+### Letter 372: Bapu → मीरां
 
 #### **369**
 
@@ -7941,7 +7943,7 @@ Love,
 
 Bapu
 
-### Letter 372: Bapu → मीरां
+### Letter 373: Bapu → मीरां
 
 #### **370**
 
@@ -7958,7 +7960,7 @@ Love,
 
 Bapu
 
-### Letter 373: Bapu → मीरां
+### Letter 374: Bapu → मीरां
 
 #### **371**
 
@@ -7977,7 +7979,7 @@ Love,
 
 Bapu
 
-### Letter 374: Bapu → मीरां
+### Letter 375: Bapu → मीरां
 
 #### **372**
 
@@ -7995,7 +7997,7 @@ Love,
 
 Bapu
 
-### Letter 375: Bapu → Miraben
+### Letter 376: Bapu → Miraben
 
 #### **373**
 
@@ -8007,7 +8009,7 @@ No chance Delhi. You may come to Poona any date after March twentieth.
 
 Bapu
 
-### Letter 376: Bapu → Miraben
+### Letter 377: Bapu → Miraben
 
 #### **374**
 
@@ -8019,7 +8021,7 @@ No chance. Come Delhi when I go there.
 
 Bapu
 
-### Letter 377: Bapu → मीरां
+### Letter 378: Bapu → मीरां
 
 #### **375**
 
@@ -8038,7 +8040,7 @@ Love,
 
 Bapu
 
-### Letter 378: Bapu → Mira
+### Letter 379: Bapu → Mira
 
 #### **376**
 
@@ -8059,7 +8061,7 @@ Love,
 
 Bapu
 
-### Letter 379: बापु → Mira
+### Letter 380: बापु → Mira
 
 #### 377
 
@@ -8079,7 +8081,7 @@ I am glad that the Spirit moved me to this place. Let us see what is in store.
 
 बापुके आशीर्वाद
 
-### Letter 380: बापु → Mira
+### Letter 381: बापु → Mira
 
 #### **378**
 
@@ -8107,7 +8109,7 @@ This I have dictated before going out for my walk, i. e., as soon after 7-30 in 
 
 बापुके आशीर्वाद
 
-### Letter 381: Mira
+### Letter 382: Mira
 
 #### **379**
 
@@ -8127,7 +8129,7 @@ During my last days with Bapu in Delhi
 
 (Bapu is here seen coming out of Birla House on his way to visit a refugee camp.)
 
-### Letter 382: Bapu
+### Letter 383: Bapu
 
 to be doing your duty to the fullest extent possible in your field of work.
 
@@ -8137,7 +8139,7 @@ Love,
 
 Bapu
 
-### Letter 383: Bapu → Mira Behn
+### Letter 384: Bapu → Mira Behn
 
 #### **380**
 
@@ -8156,7 +8158,7 @@ Shrimati Mira Behn,
 P. O. Rishikesh,  
 Dist. Dehra Dun.
 
-### Letter 384: Bapu → Mira
+### Letter 385: Bapu → Mira
 
 #### **381**
 
@@ -8178,7 +8180,7 @@ Love,
 
 Bapu
 
-### Letter 385: Bapu → Mira
+### Letter 386: Bapu → Mira
 
 #### **382**
 
@@ -8201,7 +8203,7 @@ Love,
 
 Bapu
 
-### Letter 386: बापु → Mira
+### Letter 387: बापु → Mira
 
 #### **383**
 
@@ -8218,7 +8220,7 @@ I have your two wires and two letters giving me a vivid description of your expe
 
 बापुके आशीर्वाद
 
-### Letter 387: Bapu → Mira Behn
+### Letter 388: Bapu → Mira Behn
 
 #### **384**
 
@@ -8253,7 +8255,7 @@ Shri Mira Behn,
 Birla House,  
 New Delhi.
 
-### Letter 388: Mira
+### Letter 389: Mira
 
 #### 385
 
@@ -8279,7 +8281,7 @@ Your describing the Ashram as “Pashulok”[^fn-p0397-2] is a magnificent idea.
 
 Don’t rush here because I am fasting. The *yagna*, as I have called it, demands that everyone, wherever he or she is, should perform his or her duty. If an appreciable number do this, I must survive the ordeal. Trust God and be where you are. . . .  . . .[^fn-p0398-1]
 
-### Letter 389: Bapu → Mira
+### Letter 390: Bapu → Mira
 
 #### **386**
 
@@ -8296,7 +8298,7 @@ Love,
 
 Bapu
 
-### Letter 390: Bapu → Mira
+### Letter 391: Bapu → Mira
 
 ૨૬-૧-૪૮  
 ન. દિ.

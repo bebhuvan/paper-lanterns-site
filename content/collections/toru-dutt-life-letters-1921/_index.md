@@ -13,16 +13,19 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Toru Dutt, Harihar Das (ed.)",
  "year": 1921,
  "archive_id": "lifelettersoftor00duttuoft",
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 75,
+  "letters": 76,
   "notes": 72,
   "pages": 408,
-  "dated_letters": 74
+  "dated_letters": 75
  },
  "provenance_tier": "community",
  "quality": {
@@ -64,7 +67,7 @@
   "verified": 0,
   "machine_reread": 40
  },
- "page_kinds": "ffffffffffffffffffffffnnnnnnnnnnnnnnnnLLnnnnnnLLnnnnnnnnnLLnLLLLLnnnnnnnnLLLLLLLnnnnLLLLLLLLLLnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnLLLLLLLLLLLLLLLLLLLnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnLLLLLLLLLaiiiiiiiii",
+ "page_kinds": "ffffffffffffffffffffffnnnnnnnnnnnnnnnnLLnnnnnnLLnnnnnnnnnLLnLLLLLnnnnnnnnLLLLLLLnnnnLLLLLLLLLLnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnLLLLLLLLLLLLLLLLLLLnnnnnnnnnnnnnnnnnnnnnnnnnnLnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnLLLLLLLLLaiiiiiiiii",
  "page_runs": [
   [
    "f",
@@ -136,7 +139,15 @@
   ],
   [
    "n",
-   68
+   26
+  ],
+  [
+   "L",
+   1
+  ],
+  [
+   "n",
+   41
   ],
   [
    "L",
@@ -266,7 +277,7 @@
   ],
   [
    1877,
-   25
+   26
   ],
   [
    1884,
@@ -282,7 +293,7 @@
   ]
  ],
  "periods": [],
- "unperiodised_count": 75,
+ "unperiodised_count": 76,
  "frontispiece": {
   "page": 8,
   "leaf": 7,
@@ -296,27 +307,27 @@
   {
    "format": "epub",
    "file": "toru-dutt-life-letters-1921.epub",
-   "bytes": 389488,
-   "sha256": "a84b977e13d26769b5562b1fd64856e78c805fb41c7ef5357a0af446ac73a16a"
+   "bytes": 389546,
+   "sha256": "4cf5365426759f3b4ea51af722501b0ed34eacb9df97844db23c9c08a79dbfc0"
   },
   {
    "format": "markdown",
    "file": "toru-dutt-life-letters-1921.md",
-   "bytes": 755481,
-   "sha256": "b3682756b9754a785bab4f5443a819aa95ebfb2d2c9afb817fe872a659dbc9e6"
+   "bytes": 755552,
+   "sha256": "8b1daff94bad13e635b9e9c35652bf507948a0cbba552eccf91b5e0ca030e4ac"
   },
   {
    "format": "tei",
    "file": "toru-dutt-life-letters-1921.tei.xml",
-   "bytes": 880943,
-   "sha256": "b195c16319977206718eac92b2cb8f0d04a3ebec4bd0389772d7d8cb2921a72c"
+   "bytes": 881291,
+   "sha256": "cc6243c57279e75f9a776b0c8bfe3f9060ca6b806d979bb839631d7268647d5c"
   }
  ],
  "scan_base": "https://archive.org/download/lifelettersoftor00duttuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:24:29Z",
-  "source_ast_sha256": "35feae6ea72f6dffc388f8e0209da73ef49d83da08d9a278c4fa2054b7ae5379",
+  "compiled_at": "2026-11-27T05:13:17Z",
+  "source_ast_sha256": "f7079a956995ec0f00da43476ba9177e40292a13d9fdd47c928818635ee00429",
   "hugo_renderer_version": "1.0.0"
  }
 }

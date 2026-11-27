@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Caroline Wells Healey Dall, Anandabai Joshee",
  "year": 1888,
  "archive_id": "lifeofdranandaba00dalluoft",
@@ -24,7 +27,7 @@
   "pages": 206,
   "dated_letters": 14
  },
- "provenance_tier": "machine_checked",
+ "provenance_tier": "community",
  "quality": {
   "score": 100.0,
   "out_of": 100.0,
@@ -55,7 +58,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 0,
+  "flagged": 1,
   "blockers": 0
  },
  "proof": {
@@ -210,27 +213,27 @@
   {
    "format": "epub",
    "file": "anandabai-joshee-life-letters-1888.epub",
-   "bytes": 171808,
-   "sha256": "4c7fbe0df167308c02b382cfdefaed3b18a9149751eda242bd4d10fb9f2fca5e"
+   "bytes": 171872,
+   "sha256": "539ff356aca7c43dbdf55457cdbca2833b3842c371a281780d3e907de274d9d4"
   },
   {
    "format": "markdown",
    "file": "anandabai-joshee-life-letters-1888.md",
-   "bytes": 236409,
-   "sha256": "b3fa0592151d39c2a48d98ca2a783ab3600a9163f19e6612c2e42bdd870f9601"
+   "bytes": 236435,
+   "sha256": "ddf70573f252a7029b41ada045933184a334b953863bc26c3bca1177ce5a8a17"
   },
   {
    "format": "tei",
    "file": "anandabai-joshee-life-letters-1888.tei.xml",
-   "bytes": 267123,
-   "sha256": "193bf05454999019357f32020b3dcc255257b038751ba3f74342a8a35f85ffe1"
+   "bytes": 267381,
+   "sha256": "285df5c63fb4188b609f4fc47bd1792ece3f72cd61644a847de200c76f8739a4"
   }
  ],
  "scan_base": "https://archive.org/download/lifeofdranandaba00dalluoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:21:15Z",
-  "source_ast_sha256": "a87174f5175029171670b10fd05b7fc3f33fd7cb3002b8f07ca36d8bdb6d2eb5",
+  "compiled_at": "2026-11-27T05:12:53Z",
+  "source_ast_sha256": "dfc22d8c253e4d5f5ea2ca9c42ef1eb7f5304a7d79956a43de621b5b8a0b2432",
   "hugo_renderer_version": "1.0.0"
  }
 }

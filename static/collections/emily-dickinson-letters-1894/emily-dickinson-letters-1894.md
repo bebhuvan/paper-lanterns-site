@@ -453,11 +453,11 @@ Good-night, from
 
 ## CHAPTER II
 
-### *To Mr William Austin Dickinson*
+### Letter 21: Emily Dickinson → William Austin Dickinson
+
+#### *To Mr William Austin Dickinson*
 
 THE following letters were written to Emily Dickinson's brother between the years 1847 and 1854, the earlier ones being sent from South Hadley, while he was a student in Amherst College. Later ones were written at Amherst, and sent to Boston, where he had charge of a school after graduation, 1851 and 1852; while the latest were addressed to Cambridge during her brother's studies at the Harvard Law School, 1853 and 1854. During these last two years their father, the Hon. Edward Dickinson, was in Congress at Washington.
-
-### Letter 21: Emily Dickinson → William Austin Dickinson
 
 [South Hadley, Autumn, 1847.]
 
@@ -1589,11 +1589,11 @@ Those who died.
 
 ## CHAPTER IV
 
-### *To Dr J. G. Holland, and Mrs Holland*
+### Letter 83: Emilie → Mrs Holland
+
+#### *To Dr J. G. Holland, and Mrs Holland*
 
 THE dates of these letters can be approximated only by the handwriting—which varies from the early style, about 1853, to the latest—and by events mentioned, the time of whose occurrence is known. Mrs Holland writes that there were many other letters, even more quaint and original, but unhappily not preserved.
-
-### Letter 83: Emilie → Mrs Holland
 
 [About 1853.]
 

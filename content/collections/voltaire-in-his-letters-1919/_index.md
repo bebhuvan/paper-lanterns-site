@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Voltaire, S. G. Tallentyre (Evelyn Beatrice Hall)",
  "year": 1919,
  "archive_id": "voltaireinhislet00voltrich",
@@ -26,7 +29,7 @@
  },
  "provenance_tier": "community",
  "quality": {
-  "score": 92.0,
+  "score": 90.0,
   "out_of": 100.0,
   "pillars": [
    {
@@ -36,7 +39,7 @@
    },
    {
     "key": "structure",
-    "score": 25.0,
+    "score": 23.0,
     "out_of": 25.0
    },
    {
@@ -55,7 +58,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 4,
+  "flagged": 5,
   "blockers": 0
  },
  "proof": {
@@ -64,7 +67,7 @@
   "verified": 0,
   "machine_reread": 3
  },
- "page_kinds": "fffffffffffffffffffffffffffffffffffff.LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLLLLnLLnLLLLLLLLLLLLLLLLLLLLLLnnnnLLLLLLLLLnLLLLLLLLLLLLnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLLLnnLLLLLLLLLLLLLLLLLLnLLLLnLnLLLLLLLLLLLnLLLLLLLnnLLLLLLLLnLiiiiiiiiiiii",
+ "page_kinds": "fffffffffffffffffffffffffffffffffffff.LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLLLLLLLLLnLLLLLLLLLLLLnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnLLLLLLLLLLiiiiiiiiiiii",
  "page_runs": [
   [
    "f",
@@ -84,31 +87,15 @@
   ],
   [
    "L",
-   5
+   31
   ],
   [
    "n",
-   1
+   3
   ],
   [
    "L",
-   2
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   22
-  ],
-  [
-   "n",
-   4
-  ],
-  [
-   "L",
-   9
+   10
   ],
   [
    "n",
@@ -120,11 +107,11 @@
   ],
   [
    "n",
-   3
+   2
   ],
   [
    "L",
-   81
+   82
   ],
   [
    "n",
@@ -132,7 +119,7 @@
   ],
   [
    "L",
-   4
+   51
   ],
   [
    "n",
@@ -140,55 +127,7 @@
   ],
   [
    "L",
-   18
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   4
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   1
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   11
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   7
-  ],
-  [
-   "n",
-   2
-  ],
-  [
-   "L",
-   8
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   1
+   10
   ],
   [
    "i",
@@ -412,27 +351,27 @@
   {
    "format": "epub",
    "file": "voltaire-in-his-letters-1919.epub",
-   "bytes": 232926,
-   "sha256": "1ecd4bb6315b4ed3b5e074257b837bff7f18839f81adfb146f7f63aac95a3e1c"
+   "bytes": 232662,
+   "sha256": "e27d1b04e56362ef463918edece1532ec3f43988ff3e66ca1c0a8259fa364a0b"
   },
   {
    "format": "markdown",
    "file": "voltaire-in-his-letters-1919.md",
-   "bytes": 367564,
-   "sha256": "dec84001a48b24d373d7c206955d27f5d555b125fadcf27c9d174692fdffe019"
+   "bytes": 367691,
+   "sha256": "32c2855c7b0db30c1704958b989c81e42c9d20a0b9169f1d87fb202ba3afe650"
   },
   {
    "format": "tei",
    "file": "voltaire-in-his-letters-1919.tei.xml",
-   "bytes": 454489,
-   "sha256": "32a86a0b5e7b47628e64e5c46257b5db2946ac7bf976148f98b47df23d0deb9a"
+   "bytes": 451588,
+   "sha256": "1b210e79638fcd8f26993208cebd0141a958ef62f9eedb0a41cc561e6cda6811"
   }
  ],
  "scan_base": "https://archive.org/download/voltaireinhislet00voltrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:24:35Z",
-  "source_ast_sha256": "aa345267cdfce4b641bf467bc11cf4acf7fd370d73758009d402e86ddaa65781",
+  "compiled_at": "2026-11-27T03:44:32Z",
+  "source_ast_sha256": "e7a0b96832af559254bef61017db1c1ef4d8ea61efb27279a6605029848c9d4d",
   "hugo_renderer_version": "1.0.0"
  }
 }

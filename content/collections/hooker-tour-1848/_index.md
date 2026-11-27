@@ -12,16 +12,19 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Joseph Dalton Hooker",
  "year": 1848,
  "archive_id": "b30361126",
  "language": "en",
  "text_direction": "ltr",
  "counts": {
-  "letters": 4,
+  "letters": 6,
   "notes": 2,
   "pages": 64,
-  "dated_letters": 4
+  "dated_letters": 6
  },
  "provenance_tier": "community",
  "quality": {
@@ -95,15 +98,15 @@
  "year_counts": [
   [
    1847,
-   3
+   4
   ],
   [
    1848,
-   1
+   2
   ]
  ],
  "periods": [],
- "unperiodised_count": 4,
+ "unperiodised_count": 6,
  "frontispiece": {
   "page": 4,
   "leaf": 3,
@@ -117,27 +120,27 @@
   {
    "format": "epub",
    "file": "hooker-tour-1848.epub",
-   "bytes": 144643,
-   "sha256": "f4563554dc13fc0c1ffa4b07f941352dbdf7b649b9fbe503e9d7219bcdb1061c"
+   "bytes": 144673,
+   "sha256": "c9c05c4846951239fb833335f7832deeff1d62b13ff12a9f482abd6e9d6bada5"
   },
   {
    "format": "markdown",
    "file": "hooker-tour-1848.md",
-   "bytes": 128098,
-   "sha256": "5e091e1f2bf83311bb475d1ac19df74c63f955e8e34d243c35f46418ceb64e76"
+   "bytes": 128154,
+   "sha256": "83eeaff7c393f8ed4ac4d3946ebc707d870231394b997b983c0ccc051b68a2d4"
   },
   {
    "format": "tei",
    "file": "hooker-tour-1848.tei.xml",
-   "bytes": 140168,
-   "sha256": "cc996976207054b75be1f2e89e28f22dd0157b73c86ea51d5cf52a0b291e724a"
+   "bytes": 140770,
+   "sha256": "65dc7a075993232a3e1d6a2e588fd2cd4417537109c880cd394cfa0a23f6c4da"
   }
  ],
  "scan_base": "https://archive.org/download/b30361126/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-v1",
-  "compiled_at": "2026-11-24T19:22:05Z",
-  "source_ast_sha256": "5800cb8b7afb1307231275bf906f8201b2371fc416b60a8c331b23ab19cf6131",
+  "compiled_at": "2026-11-27T05:12:33Z",
+  "source_ast_sha256": "6539985c3784840c678443deaaf106dc2701fb2ee3d7cd19e56b7f15c055fc0d",
   "hugo_renderer_version": "1.0.0"
  }
 }

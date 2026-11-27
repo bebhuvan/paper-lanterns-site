@@ -5626,9 +5626,9 @@ H. <span class="small-caps">Herzogenberg.</span>
 [^fn-p0041-1]: (*) Karl Reinecke (b. 1824), pianist and composer, Director of the Gewandhaus.
 [^fn-p0041-2]: (†) Dr. Hermann Kretzschmar (b. 1848), writer and composer, afterwards Professor at Berlin University, was one of the earliest and most persuasive apostles of Brahms’ music.
 [^fn-p0042-1]: (*) Julius Röntgen (b. 1855), pianist and composer, was from 1869 leader of the Gewandhaus orchestra, and afterwards Director of Music in Amsterdam.
-[^fn-p0042-2]: (†) A variant of the well-known volkslied *Da unten im Tale*, set to music by Brahms. Herzogenberg’s lines are as follows : ‘ Für die Zeit, wo Sie vorlieb nahmen,
-          Danke ich schön,
-    Und ich wünsch’, dass es Ihnen anderswo
+[^fn-p0042-2]: (†) A variant of the well-known volkslied *Da unten im Tale*, set to music by Brahms. Herzogenberg’s lines are as follows : ‘ Für die Zeit, wo Sie vorlieb nahmen,  
+          Danke ich schön,  
+    Und ich wünsch’, dass es Ihnen anderswo  
           Besser mag gehn !’
 [^fn-p0043-1]: (*) Songs in manuscript from Op. 69-71.
 [^fn-p0043-2]: (†) *Presto nach J. S. Bach*, from the Sonata for Violin Solo in G minor. Two editions of this were published in 1879 by Bartholf Senff in *Studien für Pianoforte von Brahms*.

@@ -176,11 +176,11 @@ A word may be added as to the principles which have determined the selection. Mo
 
 ## SELECTED ENGLISH LETTERS
 
-### I
+### Letter 1: William Paston, Junior → John Paston
+
+#### I
 
 A fortunate chance has preserved to us a large portion of the correspondence of a certain Paston family from Norfolk, England, during the period from 1422 to 1509. These Paston letters constitute our earliest collection of the sort in English, and, being largely of a private character, they throw much light on the informal letter-writing of the fifteenth century. The following, from a young fellow at Eton to his elder brother, is, in substance, such a schoolboy plea as might have been sent yesterday.
-
-### Letter 1: William Paston, Junior → John Paston
 
 #### *William Paston, Junior, to his Brother, John Paston*
 
@@ -196,11 +196,11 @@ Written the Saturday next after All Hallowe'en Day with the hand of your brother
 
 <span class="small-caps">William Paston.</span>
 
-### II
+### Letter 2: Sir Henry Sidney → Philip Sidney
+
+#### II
 
 This letter was sent by Sir Henry Sidney (1529–86) to his more famous son, Philip, then a scholar in Shrewsbury School. Sir Philip Sidney (1554–86), who lived to exemplify in his character the Renaissance ideals expressed in his father's counsel, became a picturesque figure at the court of Queen Elizabeth, wrote the pastoral romance of *Arcadia* and a series of brilliant sonnets called *Astrophel and Stella*, and finally died fighting gallantly on the battle-field of Zutphen. As a specimen of parental admonition, this should be compared with Lord Chesterfield's letter to his son in the eighteenth century (see page 16).
-
-### Letter 2: Sir Henry Sidney → Philip Sidney
 
 #### *Sir Henry Sidney to his Son, Philip Sidney*
 
@@ -208,11 +208,11 @@ This letter was sent by Sir Henry Sidney (1529–86) to his more famous son, Phi
 
 I have received two letters from you, one written in Latin, the other in French, which I take in good part, and will you to exercise that practice of learning often: for that will stand you in most stead, in that profession of life that you are born to live in. And, since this is my first letter that ever I did write to you, I will not, that it be all empty of some advices, which my natural care of you provoked me to wish you to follow, as documents to you in this your tender age. Let your first action be, the lifting up of your mind to Almighty God, by hearty prayer, and feelingly digest the words you speak in prayer, with continual meditation, and thinking of him to whom you pray, and of the matter for which you pray. And use this as an ordinary, and at an ordinary hour. Whereby the time itself will put you in remembrance to do that which you are accustomed to do. In that time apply your study to such hours as your discreet master doth assign you, earnestly; and the time (I know) he will so limit, as shall be both sufficient for your learning, and safe for your health. And mark the sense and the matter of that you read, as well as the words. So shall you both enrich your tongue with words, and your wit with matter; and judgment will grow as years groweth in you. Be humble and obedient to your master, for unless you frame yourself to obey others, yea, and feel in yourself what obedience is, you shall never be able to teach others how to obey you. Be courteous of gesture, and affable to all men, with diversity of reverence, according to the dignity of the person. There is nothing that winneth so much with so little cost. Use moderate diet, so as, after your meat, you may find your wit fresher, and not duller, and your body more lively, and not more heavy. Seldom drink wine, and yet sometime do, lest being enforced to drink upon the sudden, you should find yourself inflamed. Use exercise of body, but such as is without peril of your joints or bones. It will increase your force, and enlarge your breath. Delight to be cleanly, as well in all parts of your body, as in your garments. It shall make you grateful in each company, and otherwise loathsome. Give yourself to be merry, for you degenerate from your father, if you find not yourself most able in wit and body, to do any thing, when you be most merry; but let your mirth be ever void of all scurrility, and biting words to any man, for a wound given by a word is oftentimes harder to be cured than that which is given with the sword. Be you rather a hearer and bearer away of other men's talk, than a beginner or procurer of speech, otherwise you shall be counted to delight to hear yourself speak. If you hear a wise sentence, or an apt phrase, commit it to your memory, with respect of the circumstance, when you shall speak it. Let never oath be heard to come out of your mouth, nor words of ribaldry; detest it in others, so shall custom make to yourself a law against it in yourself. Be modest in each assembly, and rather be rebuked of light fellows, for maiden-like shamefacedness, than of your sad friends for pert boldness. Think upon every word that you will speak, before you utter it, and remember how nature hath rampired[^fn-p0018-1] up (as it were) the tongue with teeth, lips, yea, and hair without the lips, and all betokening reins, or bridles, for the loose use of that member. Above all things tell no untruth, no, not in trifles. The custom of it is naughty, and let it not satisfy you, that, for a time, the hearers take it for a truth; for after it will be known as it is, to your shame; for there cannot be a greater reproach to a gentleman than to be accounted a liar. Study and endeavour yourself to be virtuously occupied. So shall you make such an habit of well-doing in you, that you shall not know how to do evil, though you would. Remember, my son, the noble blood you are descended of, by your mother's[^fn-p0018-2] side; and think that only by virtuous life and good action, you may be an ornament to that illustrious family; and otherwise, through vice and sloth, you shall be counted *labes generis,*[^fn-p0019-1] one of the greatest curses that can happen to man. Well (my little Philip) this is enough for me, and too much, I fear, for you. But if I shall find that this light meal of digestion nourish anything the weak stomach of your young capacity, I will, as I find the same grow stronger, feed it with tougher food. Your loving father, so long as you live in the fear of God.
 
-### III
+### Letter 3: Sir Francis Bacon → Sir Edward Coke
+
+#### III
 
 Francis Bacon (1561–1626), essayist, statesman, and philosopher, passed through several stages of political preferment, eventually becoming Lord Chancellor (1619) and Viscount St. Albans (1621). He was, however, accused of corruption in 1621 and forced to retire from public life. As a philosopher, he established the value of the inductive method of reasoning, and published several authoritative works in Latin; his *Essays,* in English, are models of compressed style and profound thought. The following letter was written to Sir Edward Coke, a distinguished lawyer, who had thwarted Bacon in his desire to become Attorney-General, and was his most conspicuous public enemy.
-
-### Letter 3: Sir Francis Bacon → Sir Edward Coke
 
 #### *Sir Francis Bacon to Sir Edward Coke*
 
@@ -224,11 +224,11 @@ I thought best once for all, to let you know in plainness what I find of you, an
 
 I write not this to shew my friends what a brave letter I have written to Mr. Attorney; I have none of those humours; but that I have written is to a good end, that is, to the more decent carriage of my master's service, and to our particular better understanding one of another. This letter, if it shall be answered by you in deed, and not in word, I suppose it will not be worse for us both; else it is but a few lines lost, which for a much smaller matter I would have adventured. So this being to yourself, I for my part rest &c.
 
-### IV
+### Letter 4: Dean Swift → Alexander Pope
+
+#### IV
 
 Jonathan Swift (1667–1745), the vigorous English satirist who wrote *Gulliver's Travels* (1726), had returned to his native Ireland, after being disappointed in his ambition to gain a high position in the Church, and there was rapidly sinking into that sour and gloomy misanthropy which ended in his madness and death. This letter to his intimate friend, Alexander Pope, voices the savage mood which, even before 1725, was gradually growing habitual with Swift.
-
-### Letter 4: Dean Swift → Alexander Pope
 
 #### *Dean Swift to Alexander Pope*
 
@@ -252,11 +252,11 @@ By consequence you are to embrace it immediately, and procure that all who deser
 
 The matter is so clear, that it will admit of no dispute; nay, I will hold a hundred pounds that you and I agree in the point.
 
-### V
+### Letter 5: Joseph Addison → Chamberlain Dashwood
+
+#### V
 
 Joseph Addison (1672–1719), not yet famous as the essayist of the *Tatler* and the *Spectator*, writes while traveling on the Continent, to thank a friend for the gift of a snuffbox. This letter is one of the earliest in English literature to show something of the ease and vivacity with which we have become familiar in modern letters. This is the more curious because Addison's correspondence in general is dull and commonplace.
-
-### Letter 5: Joseph Addison → Chamberlain Dashwood
 
 #### *Joseph Addison to Chamberlain Dashwood*
 
@@ -274,11 +274,11 @@ I should be afraid of being thought a Pedant for my Quotation did not I know tha
 
 Your most &c.
 
-### VI
+### Letter 6: Richard Steele → Mary Scurlock
+
+#### VI
 
 The first of these two letters of Richard Steele (1672–1729), the warm-hearted Irishman who originated the *Tatler* (1709) and, in 1711, joined with Addison in editing the *Spectator*, was written to Miss Mary Scurlock, who, shortly after, became Steele's second wife. It is a fine illustration of the author's grace and charm of style.
-
-### Letter 6: Richard Steele → Mary Scurlock
 
 #### *Richard Steele to Mary Scurlock*
 
@@ -295,11 +295,11 @@ Methinks I could write a volume to you; but all the language on earth would fail
 
 <span class="small-caps">Rich. Steele.</span>
 
-### VII
+### Letter 7: Richard Steele → Mrs. Steele
+
+#### VII
 
 That the second Mrs. Steele turned him into a somewhat henpecked husband is quite evident from this hasty note, sent from a tavern where he was preparing for an evening of gayety.
-
-### Letter 7: Richard Steele → Mrs. Steele
 
 #### *Richard Steele to Mrs. Steele*
 
@@ -315,11 +315,11 @@ R: <span class="small-caps">Steele.</span>
 
 Send me word you have received this.
 
-### VIII
+### Letter 8: Alexander Pope → Dean Swift
+
+#### VIII
 
 Alexander Pope (1688–1744), the guest of Lord Bolingbroke at the latter's country villa, writes to tell Dean Swift something of his manner of life. Most of Pope's letters have a touch of formality about them which does not add to their attractiveness; in this case, however, his style is less studied than usual, possibly because he and Swift were very close friends.
-
-### Letter 8: Alexander Pope → Dean Swift
 
 #### *Alexander Pope to Dean Swift*
 
@@ -333,11 +333,11 @@ The “Dunciad” [^fn-p0026-1] is going to be printed in all pomp, with the ins
 
 Dr. Arbuthnot [^fn-p0026-2] vexed with his fever by intervals; I am afraid he declines, and we shall lose a worthy man: I am troubled about him very much: I am, &c.
 
-### IX
+### Letter 9: Lady Mary Wortley Montagu → Mrs. S. C———
+
+#### IX
 
 Lady Mary Wortley Montagu (1690–1762), the most copious and brilliant woman letter-writer of the eighteenth century, was the wife of an English diplomat and passed much of her life in foreign countries. Many of her most interesting letters were sent from Turkey, to which country her husband was for a time ambassador, to her friends at home. The following letter, of the more formal essay type so common in the days of Pope and Addison, describes the Oriental method of inoculation for smallpox, a practice which Lady Montagu had the courage to introduce into England.
-
-### Letter 9: Lady Mary Wortley Montagu → Mrs. S. C———
 
 #### *Lady Mary Wortley Montagu to Mrs. S. C———*
 
@@ -351,11 +351,11 @@ Apropos of distempers, I am going to tell you a thing that will make you wish yo
 
 I am patriot enough to take pains to bring this useful invention into fashion in England; and I should not fail to write some of our doctors very particularly about it, if I knew any one of them that I thought had virtue enough to destroy such a considerable branch of their revenue for the good of mankind. But that distemper is too beneficial to them, not to expose to all their resentment the hardy wight that should undertake to put an end to it. Perhaps, if I live to return, I may, however, have courage to war with them. Upon this occasion admire the heroism in the heart of your friend, etc. etc.
 
-### X
+### Letter 10: The Earl of Chesterfield → Philip Stanhope, Esq.
+
+#### X
 
 The letters of the 4th Earl of Chesterfield (1694–1773) to his natural son, Philip Dormer Stanhope, cover a period of nearly thirty years from 1738 to 1768, and reflect accurately the wit, the worldliness, and the graceful manners of the writer. Unfortunately the Earl was unsuccessful in his effort to teach his son ease and politeness, and the boy grew up incorrigibly awkward and stupid.
-
-### Letter 10: The Earl of Chesterfield → Philip Stanhope, Esq.
 
 #### *The Earl of Chesterfield to his Son, Philip<br />Stanhope, Esq.*
 
@@ -379,11 +379,11 @@ Here is advice enough, I think, and too much, it may be, you will think, for one
 
 I send you, by a person who sets out this day for Leipsic, a small packet from your Mamma, containing some valuable things which you left behind, to which I have added, by way of New Year's gift, a very pretty tooth-pick case; and, by the way, pray take great care of your teeth, and keep them extremely clean. I have likewise sent you the Greek roots, lately translated into English from the French of the Port Royal.[^fn-p0033-2] Inform yourself what the Port Royal is. To conclude with a quibble; I hope you will not only feed upon these Greek roots, but likewise digest them perfectly. Adieu.
 
-### XI
+### Letter 11: Benjamin Franklin → Joseph Priestley
+
+#### XI
 
 Benjamin Franklin (1706–90), attending the meeting of the Continental Congress in Philadelphia, writes to assure a friend in England of the temper of the American people.
-
-### Letter 11: Benjamin Franklin → Joseph Priestley
 
 #### *Benjamin Franklin to Joseph Priestley*
 
@@ -395,11 +395,11 @@ I am to set out to-morrow for the camp, and, having just heard of this opportuni
 
 B. <span class="small-caps">Franklin</span>.
 
-### XII
+### Letter 12: Dr. Samuel Johnson → the Earl of Chesterfield
+
+#### XII
 
 Samuel Johnson (1709–84), after several years of privation in Grub Street, was engaged in 1747 by a group of London booksellers to prepare a *Dictionary of the English* *Language*, the Prospectus for which Johnson addressed to the Earl of Chesterfield. Chesterfield, from motives of his own, refused to receive the struggling author, and accordingly Johnson, resolute in his independence, brought out his work in 1755 without a Dedication. On the eve of its publication, Chesterfield printed in the *World* two papers recommending the *Dictionary* and praising it highly. In reply Johnson sent the nobleman the following letter, the dignified scorn of which has made it celebrated in our literature.
-
-### Letter 12: Dr. Samuel Johnson → the Earl of Chesterfield
 
 #### *Dr. Samuel Johnson to the Earl of Chesterfield*
 
@@ -423,11 +423,11 @@ most obedient servant
 
 <span class="small-caps">Sam. Johnson.</span>
 
-### XIII
+### Letter 13: Dr. Samuel Johnson → Mr. Macpherson
+
+#### XIII
 
 Dr. Johnson perceived at once that the so-called “ Ossianic poems,” printed by James Macpherson (1736–96), a Scotch schoolmaster, as translations from the ancient Gaelic language, were really Macpherson’s own work, and did not hesitate to express his opinion freely. In response to an indignant protest from Macpherson, Johnson sent him the following angry retort.
-
-### Letter 13: Dr. Samuel Johnson → Mr. Macpherson
 
 #### *Dr. Samuel Johnson to Mr. Macpherson*
 
@@ -439,11 +439,11 @@ What would you have me retract? I thought your book an imposture; I think it an 
 
 <span class="small-caps">Sam. Johnson.</span>
 
-### XIV
+### Letter 14: The Honourable Horace Walpole → George Montagu
+
+#### XIV
 
 Horace Walpole (1717–97), the third son of Sir Robert Walpole, took little part in public affairs, but devoted himself largely to collecting curios and writing unusual books. His intimate knowledge of court life and his fondness for gossip made him an admirable chronicler of the events going on around him in politics and society, and his *Memoirs* are therefore of permanent value. In his large correspondence — nearly three thousand letters of his exist — he showed himself a witty and entertaining man of the world, and he was among the first to reveal the possibilities of the letter as a literary type. With all their grace and charm, however, his letters have a touch of formality, and were evidently intended for publication. The first one here printed presents a chatty description of the events attending the coronation of George III.
-
-### Letter 14: The Honourable Horace Walpole → George Montagu
 
 #### *The Honourable Horace Walpole to George Montagu*
 
@@ -461,11 +461,11 @@ Attending the funeral of a father could not be pleasant: his leg extremely bad, 
 
 I have nothing more to tell you, but a trifle, a very trifle. The King of Prussia has totally defeated Marshal Daun.[^fn-p0041-1] This which would have been prodigious news a month ago, is nothing to-day; it only takes its turn among the questions, “Who is to be groom of the bed-chamber? What is Sir T. Robinson to have?” I have been to Leicester fields to-day; the crowd was immoderate; I don't believe it will continue so. Good night.
 
-### XV
+### Letter 15: Oliver Goldsmith → Maurice Goldsmith
+
+#### XV
 
 Oliver Goldsmith (1728–74), the author of *The Vicar of Wakefield* (1766) and *The Deserted Village* (1770), was careless, impractical, and improvident, seldom in funds and usually in debt. When money came his way, however, he was generous to both relatives and friends; and this letter shows his whole-hearted liberality towards his brother and sister at a time when he himself was none too rich.
-
-### Letter 15: Oliver Goldsmith → Maurice Goldsmith
 
 #### *Oliver Goldsmith to Maurice Goldsmith*
 
@@ -489,11 +489,11 @@ Yours, most affectionately,
 
 <span class="small-caps">Oliver Goldsmith.</span>
 
-### XVI
+### Letter 16: William Cowper → the Reverend William Unwin
+
+#### XVI
 
 William Cowper (1731–1800) is, in the opinion of his editor, Thomas Wright, “the greatest of English letter-writers,” and even if we cannot quite give him that high position, he must be ranked among the very first. Cowper's originality, playfulness, delicacy, and shrewdness make his correspondence such delightful reading that it is difficult to know what letters to select as characteristic of the man. The first letter chosen has the advantage of illustrating Cowper's critical opinions, and introduces another view of Dr. Johnson.
-
-### Letter 16: William Cowper → the Reverend William Unwin
 
 #### *William Cowper to the Reverend William Unwin*
 
@@ -509,11 +509,11 @@ I could talk a good while longer, but I have no room; our love attends yourself,
 
 W. C.
 
-### XVII
+### Letter 17: William Cowper → Lady Hesketh
+
+#### XVII
 
 Cowper's best letters were written to his friends, Mrs. Unwin and Lady Hesketh, with whom he was on delightfully confidential terms. His life was apparently secluded and uneventful, but he succeeded in making even insignificant things interesting to others. In this, perhaps, more than in anything else, lies the genuine charm of his correspondence.
-
-### Letter 17: William Cowper → Lady Hesketh
 
 #### *William Cowper to Lady Hesketh*
 
@@ -531,11 +531,11 @@ I have made your heart ache too often, my poor dear cousin, with talking about m
 
 W. C.
 
-### XVIII
+### Letter 18: John Adams → his Wife
+
+#### XVIII
 
 John Adams (1735–1826), a short time before his inauguration as second President of the United States, writes his wife concerning some interesting matters of domestic economy. The curious form of salutation, “ My Dearest Friend,” occurs repeatedly in letters of this period between husband and wife.
-
-### Letter 18: John Adams → his Wife
 
 #### *John Adams to his Wife*
 
@@ -551,11 +551,11 @@ I am tenderly your
 
 J. A.
 
-### XIX
+### Letter 19: Robert Burns → the Earl of Glencairn
+
+#### XIX
 
 In the pathetic letter which follows, Robert Burns (1759–96), the marvelously gifted but unfortunate Scotch poet, applies for a minor position in the excise. He received the desired appointment in 1789; but it only offered a further encouragement to his intemperate habits, and he died, poor and neglected, in 1796.
-
-### Letter 19: Robert Burns → the Earl of Glencairn
 
 #### *Robert Burns to the Earl of Glencairn*
 
@@ -572,11 +572,11 @@ And deeply indebted humble servant,
 
 R. B.
 
-### XX
+### Letter 20: Sir Walter Scott → George Crabbe
+
+#### XX
 
 Walter Scott (1771–1832), at this date known as the author of *The Lay of the Last Minstrel* (1805) and *Marmion* (1808), writes this letter of praise to a brother poet, George Crabbe (1754–1832), who had published his *Parish Register* in 1807. Scott's largeness of mind and heart shows itself in this enthusiastic recognition of another's work.
-
-### Letter 20: Sir Walter Scott → George Crabbe
 
 #### *Sir Walter Scott to George Crabbe*
 
@@ -588,11 +588,11 @@ I am just honoured with your letter, which gives me the more sensible pleasure, 
 
 <span class="small-caps">Walter Scott.</span>
 
-### XXI
+### Letter 21: Sydney Smith → Lady Georgiana Morpeth
+
+#### XXI
 
 Sydney Smith (1771–1845), the witty and brilliant editor of the *Edinburgh Review*, was a favorite in society and an intellectual leader of his time. As a preacher in London he was exceedingly influential, and his *Plymley Letters* helped to further the movement for Catholic emancipation. The Lady Georgiana Morpeth to whom this letter is addressed was the wife of the Earl of Carlisle, and the mother of a boy whom Smith had tutored in Edinburgh.
-
-### Letter 21: Sydney Smith → Lady Georgiana Morpeth
 
 #### *Sydney Smith to Lady Georgiana Morpeth*
 
@@ -606,11 +606,11 @@ Yours, dear Lady Georgiana,
 
 <span class="small-caps">Sydney Smith.</span>
 
-### XXII
+### Letter 22: Sydney Smith → Miss ———
+
+#### XXII
 
 This note from Sydney Smith to a girl friend of his is an example of a type of letter which becomes more common later in the century, notably in the letters of Dickens and of Stevenson.
-
-### Letter 22: Sydney Smith → Miss ———
 
 #### *Sydney Smith to Miss ———*
 
@@ -624,11 +624,11 @@ You are going to Boulogne, the city of debts, peopled by men who never understoo
 
 <span class="small-caps">Sydney Smith.</span>
 
-### XXIII
+### Letter 23: Samuel Taylor Coleridge → William Godwin
+
+#### XXIII
 
 Samuel Taylor Coleridge (1772–1834), the author of *The Ancient Mariner*, was a poet of marvelous endowment who became a slave to opium and, under the influence of German thinkers, devoted much of his life to philosophical and theological speculation, thus disappointing the hopes of those who knew his splendid imaginative and poetic power. He was a brilliant conversationalist, and numbered among his friends Lamb, Southey, Wordsworth, and other able men of his time, during his later years becoming the center of a group of talented disciples. This letter, written to Godwin, the father-in-law of Shelley and the author of *Political Justice*, illustrates Coleridge's weakness and the vagaries of his intellect.
-
-### Letter 23: Samuel Taylor Coleridge → William Godwin
 
 #### *Samuel Taylor Coleridge to William Godwin*
 
@@ -641,11 +641,11 @@ The punch, after the wine, made me tipsy last night. This I mention, not that my
 
 S. T. <span class="small-caps">Coleridge.</span>
 
-### XXIV
+### Letter 24: Charles Lamb → William Wordsworth
+
+#### XXIV
 
 Charles Lamb (1775–1834) shows in his correspondence the same oddities, the same charm, and the same picturesque style that appear in his *Essays of Elia.* Like the letters of Byron, Lamb's letters give full expression to the personality of the writer, and in this lies their great merit. The first letter, to Wordsworth, describes Lamb's sensations on retiring from his position as clerk in the India House, a place which he had filled for thirty-three years.
-
-### Letter 24: Charles Lamb → William Wordsworth
 
 #### *Charles Lamb to William Wordsworth*
 
@@ -662,11 +662,11 @@ Leigh Hunt[^fn-p0058-2] and Montgomery[^fn-p0058-3] after their releasements, de
 
 C. <span class="small-caps">Lamb.</span>
 
-### XXV
+### Letter 25: Benjamin Robert Haydon → Miss Mitford
+
+#### XXV
 
 Benjamin Robert Haydon (1786–1846), artist and critic, was the friend of many of the prominent literary men of his time, including Wordsworth, Keats, Coleridge, Lamb, Hazlitt, Hunt, and Scott. This letter to Miss Mary Russell Mitford (1787–1855), the author of *Our Village*, is full of interesting gossip about poets whom Haydon actually knew in the flesh.
-
-### Letter 25: Benjamin Robert Haydon → Miss Mitford
 
 #### *Benjamin Robert Haydon to Miss Mitford*
 
@@ -689,11 +689,11 @@ I have it in his own hand. This is different from the first edition. And as he r
 
 You should make allowance for Byron's not liking Keats. He could not. Keats's poetry was an immortal stretch beyond the mortal intensity of his own. An intense egotism, as it were, was the leading exciter of Byron's genius. He could feel nothing for fauns or satyrs, or gods, or characters *past*, unless the association of them were excited by some positive natural scene where they had actually died, written, or fought. All his poetry was the result of a deep feeling roused by what passed before his eyes. Keats was a stretch beyond this. Byron could not enter into it any more than he could Shakespeare. He was too frank to conceal his thoughts. If he really admired Keats he would have said so (I am afraid I am as obscure here as Wordsworth). So, in his controversy with Bowles;[^fn-p0061-1] Byron really thought Pope the greater poet. He pretended that a man who versified the actual vices or follies was a greater, and more moral poet than he who invented a plot, invented characters which by their action on each other produced a catastrophe from which a moral was inferred. This at once showed the reach of his genius.
 
-### XXVI
+### Letter 26: Lord Byron → Thomas Moore
+
+#### XXVI
 
 No English letter-writer is more easy, more spontaneous, and more varied than Lord Byron (1788–1824). In his correspondence with his friends he reveals himself frankly and fully, without pretense or artificiality, and with a vivacity that is delightful. The formal letter in the manner of the essay, used by Pope, Swift, and Lady Montagu, and not altogether abandoned by Walpole and Cowper, has, in Byron's letters, been replaced by a new literary form, the virtue of which lies chiefly in its flexibility, its gossipy tone, and its autobiographical interest. The first letter, to Thomas Moore, the Irish poet and Byron's biographer, shows the jocular spirit in which the nobleman announced his approaching marriage to Miss Milbanke, a marriage which proved to be the most unfortunate step in Byron's life.
-
-### Letter 26: Lord Byron → Thomas Moore
 
 #### *Lord Byron to Thomas Moore*
 
@@ -716,11 +716,11 @@ If this had not happened, I should have gone to Italy. In my way down, perhaps, 
 
 Ever, etc.
 
-### XXVII
+### Letter 27: Lord Byron → John Murray
+
+#### XXVII
 
 Much of Byron’s correspondence with his publisher, John Murray, is of exceptional interest, for it is filled, not only with business details, but also with the poet’s views and experiences. This letter was written when Byron, at the height of his power, was working on *Don Juan*, the poem in which he finally attained maturity in thought and style.
-
-### Letter 27: Lord Byron → John Murray
 
 #### *Lord Byron to John Murray*
 
@@ -746,11 +746,11 @@ Bn.
 
 P.S.—Tell Mrs. Leigh I have never had “my Sashes,” and I want some tooth-powder, the red, by all or any means.
 
-### XXVIII
+### Letter 28: Percy Bysshe Shelley → John Keats
+
+#### XXVIII
 
 Percy Bysshe Shelley (1792–1822), settled with his wife and family in Italy, writes to encourage John Keats to visit him, offering to receive his brother poet as his guest. Shelley at this time had already published his two great poems, *Prometheus Unbound* and *The Cenci*, besides many of his wonderful lyrics.
-
-### Letter 28: Percy Bysshe Shelley → John Keats
 
 #### *Percy Bysshe Shelley to John Keats*
 
@@ -772,11 +772,11 @@ Yours sincerely,
 
 P. B. <span class="small-caps">Shelley.</span>
 
-### XXIX
+### Letter 29: John Keats → Percy Bysshe Shelley
+
+#### XXIX
 
 The response of John Keats (1795–1821) to Shelley’s invitation is somewhat indefinite ; as a matter of fact, although Keats finally succeeded in reaching Italy, he never arrived in Pisa, but died of consumption at Rome very shortly after settling in that city. His tragic death moved Shelley to compose his immortal elegy, *Adonais.*
-
-### Letter 29: John Keats → Percy Bysshe Shelley
 
 #### *John Keats to Percy Bysshe Shelley*
 
@@ -788,11 +788,11 @@ I am very much gratified that you, in a foreign country, and with a mind almost 
 
 <span class="small-caps">John Keats.</span>
 
-### XXX
+### Letter 30: Percy Bysshe Shelley → Thomas Love Peacock
+
+#### XXX
 
 While in Italy, Shelley carried on a most entertaining correspondence with Thomas Love Peacock (1785–1866), the author of several whimsical, but exceedingly witty novels. Many of the letters contain intimate details describing the members of the so-called Pisan circle of literary people; in the one printed here, something is said of Lord Byron and the manner of his life in Italy.
-
-### Letter 30: Percy Bysshe Shelley → Thomas Love Peacock
 
 #### *Percy Bysshe Shelley to Thomas Love Peacock*
 
@@ -1571,7 +1571,7 @@ Faithfully yours,
 [^fn-p0106-1]: (59) **Dapprimo**: first of all.
 [^fn-p0106-2]: (60) Emerson's **Brahma** is a short poem of some obscurity of meaning, beginning,
 
-    " If the red slayer think he slays,
+    " If the red slayer think he slays,  
     Or if the slain think he is slain."
 [^fn-p0107-1]: (61) **Albert Pike** (1809–91) was an American poet, born in Boston, who imitated Coleridge and Keats.
 [^fn-p0108-1]: (62) The Browning love-letters were first printed in 1889.

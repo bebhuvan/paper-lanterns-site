@@ -220,6 +220,7 @@
       </correspDesc>
       <correspDesc xml:id="letter-0050">
         <correspAction type="sent"><placeName>Near Colmar</placeName><date when="1753-10-03">October 3, 1753.</date></correspAction>
+        <correspAction type="received"><persName>Comte d’Argental</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0051">
         <correspAction type="sent"><placeName>Colmar</placeName><date when="1754-03-03">March 3, 1754.</date></correspAction>
@@ -878,34 +879,32 @@ Crépy sc.</figDesc></figure>
 <p>I greatly reproach myself for my laziness, my dear friend, but I have been for a whole month so unworthily occupied in prose that I hardly dare write to you of verse. My imagination is weighed down by studies which are to poetry what dark and dusty old furniture is to a gaily-lit ballroom. I must shake off the dust to reply to you. You have written to me a letter in which I recognise your genius. You find Boileau fairly clever: I agree with you that he has neither sublimity nor a very brilliant imagination; but he has done exceedingly well what he could do, and what he set out to do. He has put good sense into melodious verse; he is clear, logical, easy, and agreeable in his transitions; he never soars high, or falls low. His subjects are not suitable for the dignified treatment yours deserve. You have realised what your talent is, just as he realised his. You are a philosopher, you see everything life-size, your brush is bold and big. So far, nature has made you (I say it in all sincerity) greatly Despréaux's superior: but your talents, fine as they are, will be nothing without his. You <pb xml:id="page-109" n="69"/> have so much the more need of his correctness because the breadth of your thoughts is less tolerant of circumstriction. It is no trouble to you to think, but much to write. I shall therefore never cease to preach to you that art of writing which Despréaux knew and taught so well, the respect for our language, the sequence of ideas, the easy manner in which he carries his reader with him, the naturalness which is the result of art, and the appearance of ease which involves such hard work. A word out of place spoils the finest thought. Boileau's ideas—I confess it once more—are never fine, but they are never ill set out: so, to be better than he is, it is essential to begin by writing as clearly and correctly.</p>
 <p rend="indented">No false steps can be permitted in your stately measure: in a little minuet they would not matter. You sparkle with precious stones; his dress is simple but well made. Your diamonds must be in good order lest your diadem shame you. Send me then, dear friend, something which is as well worked out as it is nobly conceived: do not disdain to be at once the owner of the mine and the gold digger. You know, by my writing to you thus, how great an interest I feel in your reputation, and that of the arts. Your last visit has doubled my regard for you. It really looks as if I should stop writing verses, and content <pb xml:id="page-110" n="70"/> myself with admiring yours. Mme. du Châtelet, who has written to you, sends kindest regards. Goodbye, yours for ever.</p>
 </div>
-<div xml:id="div-unit-0031" type="editorial">
+<div xml:id="div-letter-0024" type="letter" corresp="#letter-0024">
 <head rend="center">XXIV</head>
 <head rend="center">ON BRITISH TOLERANCE</head>
 <head rend="center"><hi rend="italic">To M. César de Missy</hi></head>
 <p>[<hi rend="italic">M. de Missy</hi> was the chaplain of the French Church of St. James's in London. Voltaire's tragedy, <hi rend="italic">Fanaticism, or Mahomet the Prophet,</hi> had been produced on August 19th of the year 1742 to a crowded and enthusiastic audience in Paris. But its attack upon bigotry and intolerance was indeed, as the author himself said, too outspoken for the French authorities, who, without reading a line of it, declared it "infamous, wicked, irreligious, blasphemous," and after four performances demanded its withdrawal. Voltaire, wholly disgusted, left Paris for Brussels with Mme. du Châtelet on August 29th, and spent his time there in sitting up in bed—for he was ill, as usual—making a fair and correct copy of the play to send to Frederick (by now King Frederick of Prussia) and in writing to M. César de Missy.]</p>
-</div>
-<div xml:id="div-letter-0024" type="letter" corresp="#letter-0024">
-<opener><pb xml:id="page-111" n="71"/><dateline rend="right"><hi rend="smallcaps">Brussels</hi>, September 1, 1742.</dateline></opener>
+<pb xml:id="page-111" n="71"/><p rend="dateline"><hi rend="smallcaps">Brussels</hi>, September 1, 1742.</p>
 <p>I found, sir, on my return to Brussels, a very welcome letter from you: to which I only reply in vile prose, in order that you may have it the sooner. I do not know if the country you have adopted as yours has become the enemy of the one which chance of birth made mine: but I do know that minds which think like yours are all my countrymen and my friends. I beg you then, sir, to prove your friendship by sending me as much of the <hi rend="italic">Universal History</hi> as has so far appeared in English. . . .</p>
 <p>A little while ago a small edition of my works was published in Paris, under the title of the Genevan edition; publishers, Bousquet; it is the least incorrect and the most complete I have seen. I have ordered some copies, and shall have the honour of sending you one.</p>
 <p>If any publisher in London likes to reprint them, I will send him corrected proofs, in good order, accompanied by some curious little papers which have not yet appeared: above all, by my tragedy of <hi rend="italic">Mahomet</hi>, or <hi rend="italic">Fanaticism</hi>, which is a great Tartufe, so the fanatics have stopped its being played in Paris, just as the pious tried to smother the other “Tartuffe” at his birth. My tragedy is suited, I believe, rather to English heads than French hearts. Paris found it too <pb xml:id="page-112" n="72"/> daring, because it is strong: and dangerous, because it is truthful. I tried to show in it into what horrible excesses fanaticism, led by an impostor, can plunge weak minds.</p>
 <p rend="indented">My piece represents, under the guise of Mahomet, the Prior of the Jacobins giving the dagger to Jacques Clément, who is further incited to that crime by his mistress. The author of the <hi rend="italic">Henriade</hi> was recognized in the work; and he <hi rend="italic">must</hi> be persecuted: for he loves truth and humankind. It is only in London that poets are allowed to be philosophers.</p>
 <p rend="indented">My compliments to M. Nancy, from whom I have received a letter. Farewell, sir: you may depend on my gratitude and affection.</p>
 </div>
-<div xml:id="div-unit-0033" type="editorial">
+<div xml:id="div-unit-0032" type="editorial">
 <head rend="center">XXV</head>
 <head rend="center">ON CORNEILLE AND RACINE</head>
 <head rend="center"><hi rend="italic">To M. de Vauvenargues</hi></head>
 <p>[<hi rend="italic">Vauvenargues</hi>, who became the famous author of some of the wisest and most delicately beautiful maxims even in the French language—that language of the maxim <hi rend="italic">par excellence</hi>—was at the date of this letter a handsome young soldier of</p>
 </div>
-<div xml:id="div-unit-0034" type="apparatus">
+<div xml:id="div-unit-0033" type="apparatus">
 <pb xml:id="page-113" n="113"/><figure type="illustration"><figDesc>CAROLUS DE SECONDAT
 BARO DE MONTESQUIEU,
 natus 18 Januar. 1689.
 obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p rend="caption"><hi rend="smallcaps">Montesquieu, Author of "Les Lettres Persanes" and "L'Esprit des Lois."</hi><lb/><hi rend="italic">From the portrait by Benoist</hi></p>
 </div>
-<div xml:id="div-unit-0035" type="editorial">
+<div xml:id="div-unit-0034" type="editorial">
 <pb xml:id="page-115" n="73"/><p>eight and twenty, who had been with Marshal Villars on his last Italian campaign, and in Bohemia with Belle-Isle, where in 1742 he had endured with his regiment all the horrors of the great mid-winter march from Prague to Egra. He returned to Paris with his health utterly ruined: but purposing not the less to rejoin his regiment in Germany, which purpose he effected, and fought at Dettingen. It was during this interlude in Paris that he introduced himself to Voltaire in a letter in which he expressed his preference for Racine over Corneille.</p>
 <p rend="indented">After the campaign of '42, when Vauvenargues had become a complete invalid, their friendship was resumed: and it was on Voltaire's advice that Vauvenargues took up literature as a profession, and so gave the world that slender volume, containing only the <hi rend="italic">Maxims</hi> and a few <hi rend="italic">Counsels and Reflections</hi>, which in its strong sense, serenity, courage, and sweetness remains for ever the noblest inspiration to Do What One Can. To the last a most patient sufferer, his life ended at the early age of thirty-two: Voltaire's respect and reverence for him died only with his own death.</p>
 <p rend="indented"><hi rend="italic">"The Persian Letters"</hi>—<hi rend="italic">Les Lettres Persanes</hi>—were the first great literary success of the famous Montesquieu, the celebrated writer on law and <pb xml:id="page-116" n="74"/> politics. Though extremely lively and satirical, the <hi rend="italic">Letters</hi> are not without the weightier observations which distinguish the later work by which Montesquieu chiefly lives, <hi rend="italic">L'Esprit des Lois</hi> (see Letter LVI, "A Profession of Faith"). The judgment of posterity has confirmed Voltaire's that Montesquieu's "little book on the Decadence of the Romans" was a far more solid and able work than <hi rend="italic">The Persian Letters</hi>.]</p>
@@ -932,30 +931,26 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p rend="indented">Furthermore, if ever you understand anything about preordained harmony—if you discover how, under the law of necessity, man is free, you will do me a service if you will pass on the information to me. When you have shown, in verse or otherwise, why so many men cut their throats in the best of all possible worlds, I shall be exceedingly obliged to you.</p>
 <p rend="indented">I await your arguments, your verses, and your abuse: and assure you from the bottom of my heart that neither you nor I know anything about the matter. I have the honour to be, etc.</p>
 </div>
-<div xml:id="div-unit-0038" type="editorial">
+<div xml:id="div-letter-0027" type="letter" corresp="#letter-0027">
 <pb xml:id="page-121" n="79"/><head rend="center">XXVII</head>
 <head rend="center">ON THE BLIND</head>
 <head rend="center"><hi rend="italic">To M. Diderot</hi></head>
 <p>[<hi rend="italic">Diderot</hi>—the brilliant ne'er-do-weel of the philosophic party and, to be, the hot-headed and hot-hearted instigator of the great Encyclopædia, the book "that was all books"—in 1749 wrote his famous <hi rend="italic">Letter on the Blind for the Use of Those Who See</hi> and sent it to Voltaire as the chief of that party of which his own <hi rend="italic">Philosophical Thoughts</hi>, published four years earlier, had proclaimed him a member. Voltaire's letter in reply reveals his own deism, as it reveals Diderot's atheism, and explains the meaning of the jesting epithet "cagot"=bigot—which Diderot so often applied to Voltaire. Diderot's <hi rend="italic">Letter</hi> contained unfortunately a sneer at the expense of a fine lady, the <hi rend="italic">chère amie of</hi> a minister of state, and so presently imprisoned him in Vincennes: from whence Mme. du Châtelet (who was a near relation of the governor of the fortress), urged by Voltaire, speedily obtained his release. Diderot, though he was Voltaire's correspondent for twenty-nine years, never saw him until 1778, when Voltaire was on his last triumphant visit to Paris, and Diderot was himself growing old.</p>
 <pb xml:id="page-122" n="80"/><p>“<hi rend="italic">The book I send you</hi>” was the <hi rend="italic">Elements of Newton’s Philosophy.</hi> “<hi rend="italic">Saunderson, who denies a God because he was born sightless,</hi>” was the subject of a successful operation for cataract which had inspired Diderot’s <hi rend="italic">Letter,</hi> Diderot himself being of the opinion that, to a man born blind, atheism was a natural religion. “<hi rend="italic">Before I leave Lunéville,</hi>” where Voltaire was staying at the court of Stanislas, ex-King of Poland.]</p>
-</div>
-<div xml:id="div-letter-0027" type="letter" corresp="#letter-0027">
-<opener><dateline rend="right">June, 1749.</dateline></opener>
+<p rend="dateline">June, 1749.</p>
 <p>I thank you, sir, for the profound and brilliant work you have been so good as to send me: the book I send you is neither the one nor the other, but in it you will find the anecdote of the man born blind set forth in greater detail than in the earlier editions. I am entirely of your opinion as to what you say respecting the judgment formed in such a case by ordinary men of average good sense, and that formed by philosophers. I am sorry that in the examples you quote you have forgotten the case of the blind who, receiving the gift of sight, saw men as trees walking. I have read your book with great pleasure. It says much, and gives still more to be understood. I have long honoured you as much as I despise the stupid vandals who condemn what they do not <pb xml:id="page-123" n="81"/> understand, and the wicked who unite themselves with the fools to denounce those who are trying to enlighten them.</p>
 <p rend="indented">But I confess I am not at all of the opinion of Saunderson, who denies a God because he was born sightless. I am, perhaps, mistaken, but, in his place, I should recognise a great Intelligence who had given me so many substitutes for sight, and perceiving, on reflection, the wonderful relations between all things, I should have suspected a Workman, infinitely able. If it is very presumptuous to pretend to divine <hi rend="italic">what</hi> He is, and <hi rend="italic">why</hi> He has made everything that exists, so it seems to me very presumptuous to deny <hi rend="italic">that</hi> He is.</p>
 <p rend="indented">I am exceedingly anxious to meet and talk with you, whether you think yourself one of His works, or a particle drawn, of necessity, from matter, eternal and necessary. Whatever you are, you are a worthy part of that great whole which I do not understand.</p>
 <p rend="indented">I very much wish, before I leave Luneville, you would do me the honour to join a philosophers' feast at my table with a few other wise men. I am not one myself, but I have a passion for them when they are wise after your fashion. Rest assured, sir, that I appreciate your merits, and that to render them fuller justice I long to see you and assure you etc., etc.</p>
 </div>
-<div xml:id="div-unit-0040" type="editorial">
+<div xml:id="div-letter-0028" type="letter" corresp="#letter-0028">
 <pb xml:id="page-124" n="82"/><head rend="center">XXVIII</head>
 <head rend="center">ON THE DEATH OF MME. DU CHÂTELET</head>
 <head rend="center"><hi rend="italic">To Mme. du Boccage</hi></head>
 <p rend="indented">[<hi rend="italic">Mme. du Boccage</hi>, a pretty and charming woman, was greatly overrated as a poetess by almost all her contemporaries, including Voltaire. “<hi rend="italic">Your translation of Milton</hi>” was her imitation of <hi rend="italic">Paradise Lost</hi> which she called <hi rend="italic">Le Paradis Terrestre</hi>. Her <hi rend="italic">Letters</hi>, written on her travels, are much her best performance. In 1758, she was Voltaire’s guest at Ferney.</p>
 <p rend="indented">In September, 1749, <hi rend="italic">Mme. du Châtelet</hi>, with whom Voltaire’s connection had lasted for fifteen years, died suddenly, in childbirth, at the Court of King Stanislas at Luneville, while she, Voltaire, and the Marquis de Saint Lambert, who was now her lover, were on a visit there. Faithless to Voltaire as she had been, that he sincerely and passionately regretted her death and the loss of her clever and stimulating companionship, the two following letters bear evidence.</p>
 <p rend="indented">“<hi rend="italic">A wretch named Roi.</hi>” Roi, or Roy, was a scurrilous old poet who, in 1745–6, jealous of Voltaire’s election to the French Academy, had burlesqued and lampooned him; and whom Voltaire had not been wise enough to treat with the silence of contempt. <pb xml:id="page-125" n="83"/> Roi saw in Mme. du Châtelet's death the chance to sting afresh.]</p>
-</div>
-<div xml:id="div-letter-0028" type="letter" corresp="#letter-0028">
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, October 12, 1749.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Paris</hi>, October 12, 1749.</p>
 <p rend="indented">I have just arrived in Paris, madam: the greatness of my sorrow and my wretched health shall not prevent my at once assuring you how deeply I feel your kindness. A mind as noble as yours must needs regret such a woman as Mme. du Châtelet. She was an honour to her sex and to France. She was to philosophy what you are to literature: and although she had just translated and simplified Newton—that is to say, done what, at most, three or four men in France would have dared to attempt—she also regularly cultivated, by reading lighter books, the splendid intelligence which nature had given her. Alas, madam! it was but four days before her death that I re-read your tragedy with her. We had also read together your translation of Milton, with the original. You would regret her yet more had you been present at this reading. She rendered you justice: you had no more sincere admirer. Just after her death there appeared a feeble quatrain belauding her. People with neither taste nor feeling ascribed it to me. Any one who could suppose that in the depth of my grief I should feel inclined to write verses on her must be himself unworthy of friendship, or exceedingly light minded: <pb xml:id="page-126" n="84"/> but what is much more horrible and culpable is that a wretch, named Roi, has actually dared to lampoon her.</p>
 <p rend="indented">I know, madam, only one thing against your character—to have been the object of that miserable creature's flattery. Society should unite to exterminate him. Was not my misery great enough, without that horror to crown it? Farewell, madam . . . .</p>
 </div>
@@ -967,28 +962,24 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <pb xml:id="page-127" n="85"/><p rend="dateline"><hi rend="smallcaps">Paris</hi>, October 14, 1749.</p>
 <p rend="indented">My dear boy, a woman who translated Virgil, who translated and simplified Newton, and yet was perfectly unassuming in conversation and manner: a woman who never spoke ill of anyone and never uttered a lie: a constant and fearless friend—in a word, a great man, whom other women only thought of in connection with diamonds and dancing: for such a woman as this you cannot prevent my grieving all my life. I am very far from going to Prussia: I can hardly leave the house. I am much touched by your kindness: I have need of it. . . . Goodbye, my dear Arnaud.</p>
 </div>
-<div xml:id="div-unit-0043" type="editorial">
+<div xml:id="div-letter-0030" type="letter" corresp="#letter-0030">
 <head rend="center">XXX</head>
 <head rend="center">ARRIVING IN PRUSSIA</head>
 <head rend="center"><hi rend="italic">To Mme. Denis</hi></head>
 <p rend="indented">[<hi rend="italic">Mme. Denis</hi>, Voltaire's niece,—now widowed,—had come to keep his house for him in Paris after the death of Mme. du Châtelet. Vulgar, lively, good-natured—the very apotheosis of the commonplace—her uncle's toleration of her can only be accounted for by the fact that genius, or even very great talent, is nearly always generous to mediocrity: and seems to use some of its own wits to discover <pb xml:id="page-128" n="86"/> those of people usually credited with none. It will be noticed in this letter that Voltaire tried his best to entice his niece to follow him to Prussia: whither he had gone at last, finally spurred to that rash act by the fact that Baculard d'Arnaud was in such high favour there that King Frederick—astutely calculating the effect of such compliments—had written the young gentleman a poem in which Voltaire was alluded to as the setting, and d'Arnaud as the rising, sun. "When a wise man commits a folly, it is not a small one." In all Voltaire's early letters from Prussia, he is, as it were, trying to justify his folly in going there, and to prove it wisdom. This letter was written about a fortnight after his arrival.</p>
 <p rend="indented">"<hi rend="italic">He treats Popes much better than pretty women.</hi>" Frederick's contempt of the sex was notorious.</p>
 <p rend="indented">"<hi rend="italic">It is essential that the King, my master, should consent.</hi>" The King of France. Voltaire was still his Gentleman-in-Ordinary. The story ran that when Voltaire had asked permission of him to visit King Frederick, Louis turned his back and said indifferently, "You can go when you please!"]</p>
-</div>
-<div xml:id="div-letter-0030" type="letter" corresp="#letter-0030">
-<opener><dateline rend="right"><hi rend="smallcaps">Charlottenburg</hi>, August 14, 1750.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Charlottenburg</hi>, August 14, 1750.</p>
 <p rend="indented">This is the fact of the matter, my dear child. The King of Prussia is making me his chamberlain, <pb xml:id="page-129" n="87"/> and giving me one of his orders and a pension of twenty thousand francs, and will settle one of four thousand on you for life if you will come and keep house for me in Berlin, as you do in Paris. You had a very pleasant life at Landau with your husband: I promise you that Berlin is worth many Landaus, and has much better operas. Consider the matter: consult your feelings. You may reply that the King of Prussia must be singularly fond of verses. It is true that he is a purely French writer who happened to be born in Berlin. On consideration, he has come to the conclusion that I shall be of more use to him than d'Arnaud. I have forgiven the gay little rhymes which his Prussian Majesty wrote for my young pupil, in which he spoke of him as the <hi rend="italic">rising sun,</hi> extremely brilliant: and of me as the <hi rend="italic">setting sun,</hi> exceedingly feeble. He still sometimes scratches with one hand, while he caresses with the other: but, so near him, I am not afraid. If you consent, he will have both <hi rend="italic">rising</hi> and <hi rend="italic">setting</hi> at his side, and in his <hi rend="italic">high noon</hi> will be writing prose and verse to his heart's content, now he has no more battles on hand. I have but a short time to live. Perhaps it will be pleasanter to die here at Potsdam, in his fashion, than as an ordinary citizen in Paris. You can go back there afterwards with your four thousand francs pension. If these propositions meet your views, you must pack your <pb xml:id="page-130" n="88"/> boxes in the spring: and, at the end of the autumn, I shall make a pilgrimage to Italy to see St. Peter's at Rome, the Pope, the Venus of Medici, and the buried city. It always lay heavy on my conscience to die without having seen Italy. We will rejoin each other in May. I have four verses by the King of Prussia for His Holiness. It will be very entertaining to take to the Pope four French verses written by a German heretic, and to bring back indulgences to Potsdam. You will see he treats Popes much better than pretty women. He will never write sonnets to you: but you would have excellent company here and a good house. First of all, it is essential that the King, my master, should consent. I believe he will be perfectly indifferent. It matters little to a King of France where the most useless of his twenty-two or twenty-three million of subjects spends his life: but it would be dreadful to live without you.</p>
 </div>
-<div xml:id="div-unit-0045" type="editorial">
+<div xml:id="div-letter-0031" type="letter" corresp="#letter-0031">
 <head rend="center">XXXI</head>
 <head rend="center">FELICITY IN POTSDAM</head>
 <head rend="center"><hi rend="italic">To Mme. de Fontaine</hi></head>
 <p>[<hi rend="italic">Mme. de Fontaine,</hi> Voltaire's younger niece, had been married to M. de Fontaine in 1738. <hi rend="italic">"I can be much more useful to your brother."</hi> <pb xml:id="page-131" n="89"/> This was the Abbé Mignot—fat, good-natured, ordinary.</p>
 <p rend="indented">“‘<hi rend="italic">Mahomet’ has put me on such good terms with the Pope.</hi>” Voltaire, in a very astute letter, had asked and obtained permission of His Holiness to lay “a work against the founder of a false religion at the feet of the chief of the true”: and beheld himself, with much cynical enjoyment, the protégé of Rome.</p>
 <p rend="indented">“<hi rend="italic">I shall be acting in ‘Rome Sauvée’ at Berlin.</hi>” <hi rend="italic">Rome Sauvée</hi>, written in a fortnight at Lunéville to outvie the <hi rend="italic">Catilina</hi> of Crébillon,—dismal old rival playwright,—had been first performed before a distinguished audience at Voltaire’s house in Paris, just before he left for Prussia. At the second performance he had taken, most successfully, the part of Cicero.]</p>
-</div>
-<div xml:id="div-letter-0031" type="letter" corresp="#letter-0031">
-<opener><dateline rend="right"><hi rend="smallcaps">Berlin</hi>, September 23, 1750.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Berlin</hi>, September 23, 1750.</p>
 <p rend="indented">When you set about it, my dear niece, you write charming letters, and prove yourself one of the most amiable women in the world. You add to my regrets, and make me feel the extent of my losses. I never lacked delightful society when I was in yours. However, I hope even misfortunes may be turned to account. I can be much more useful to your brother here than in Paris. Perhaps a heretic King will protect a Catholic preacher. <pb xml:id="page-132" n="90"/> All roads lead to Rome, and since <hi rend="italic">Mahomet</hi> has put me on such good terms with the Pope, I do not despair of a Huguenot doing something for the benefit of a Carmelite.</p>
 <p>When I say, my dear niece, that all roads lead to Rome, I do not mean that they will lead <hi rend="italic">me</hi> there. I was wild to see Rome and our present good Pope: but you and your sister attract me back to France: I sacrifice the Holy Father to you. I wish I could also sacrifice the King of Prussia, but that is impossible. He is as amiable as are you yourselves; he is a king, but his passion for me is of sixteen years' standing: he has turned my head. I had the audacity to think that nature made me for him; I found that there is so remarkable a conformity in our tastes that I forgot he was the lord of half Germany, and that the other half trembled at his name, that he had won five battles, that he was the finest general in Europe, and had about him great monsters of heroes six feet high. All that would, indeed, have made me fly a thousand miles from him: but the philosopher humanised the monarch, and I know him only as a great man, good and kindly. Everybody taunts me with his having written verses for d'Arnaud—which are certainly not among his best: but you must remember that four hundred miles from Paris it is very difficult to judge if a person who has been <pb xml:id="page-133" n="91"/> recommended to you is, or is not, worthy; that, anyhow, verses, ill or well applied, prove that the conqueror of Austria loves literature; and I love him with all my heart. Besides, d’Arnaud is a good sort of person who, now and again, does light on some pretty lines. He has taste: he is improving; and if he does not improve—well, it is no great matter. In a word, that little slight the King of Prussia put on me does not prevent him being the must agreeable and remarkable of men.</p>
 <p rend="indented">The climate here is not so rigorous as people think. You Parisians talk as if I were in Lapland: let me inform you that we have had a summer quite as hot as yours, that we have enjoyed good peaches and grapes, and that you really have no business to give yourself such airs of superiority on the strength of two or three extra degrees of sunshine.</p>
@@ -1006,7 +997,7 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p rend="indented">It is rather amusing that the same literary men in Paris, who longed to exterminate me, are now calling out against my absence—as desertion. They are sorry to have lost their victim. I was indeed wrong to leave you: my heart tells me so daily, more often than you think: but I have done very well to escape those gentry.</p>
 <closer><salute rend="indented">Goodbye—with regrets and affection.</salute></closer>
 </div>
-<div xml:id="div-unit-0048" type="editorial">
+<div xml:id="div-letter-0033" type="letter" corresp="#letter-0033">
 <head rend="center">XXXIII</head>
 <head rend="center">THE LITTLE RIFT WITHIN THE LUTE</head>
 <head rend="center"><hi rend="italic">To Mme. Denis</hi></head>
@@ -1015,45 +1006,37 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p rend="indented">“<hi rend="italic">Isaac d’Argens</hi>,” a witty and profligate French marquis, formerly a guest at King Frederick’s supper-parties.</p>
 <p rend="indented">“<hi rend="italic">Maupertuis</hi>,” President of the Berlin Academy, well known as a very self-satisfied and pompous geometrician, soon to be better known by his famous quarrel with Voltaire and to be made <pb xml:id="page-137" n="95"/> eternally ridiculous as the <hi rend="italic">Akakia</hi> of Voltaire's cutting <hi rend="italic">Diatribe.</hi> He had taught Mme. du Châtelet mathematics and been a visitor at Cirey: and already, in October, 1750, had had a tiff with Voltaire over a vacant chair in the Berlin Academy—Voltaire winning the chair for his protégé, Maupertuis was left more than "<hi rend="italic">a little</hi>" jealous.</p>
 <p rend="indented">"<hi rend="italic">A man who is only too lively: La Mettrie</hi>"—a wild free-thinker and a French doctor of medicine. His book was entitled <hi rend="italic">The Man-Machine,</hi> and proved, entirely to his own satisfaction, the material nature of the soul.]</p>
-</div>
-<div xml:id="div-letter-0033" type="letter" corresp="#letter-0033">
-<opener><dateline rend="right"><hi rend="smallcaps">Potsdam</hi>, November 6, 1750.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Potsdam</hi>, November 6, 1750.</p>
 <p rend="indented">Paris has learnt, then, my dear, that we have played the <hi rend="italic">Death of Cæsar</hi> at Potsdam, that Prince Henry is a most amiable man, a good actor, with no accent, and very pleasant: and that everything here is exceedingly agreeable. Quite true . . . but . . . the King's suppers are delicious, the conversation clever, witty, informing: perfect liberty prevails: he is the soul of everything: no bad temper, not a cloud, or, at least, not a storm. My life is free and busy; but . . . but . . . operas, comedies, fêtes, suppers at Sans Souci, military manœuvres, concerts, study, reading; but . . . but . . . the city of Berlin, huge, better opened up than Paris, palaces, theatres, affable queens, charming princesses, beautiful maids-of-honour, <pb xml:id="page-138" n="96"/> the house of Mme. Tyrconnel always full, sometimes too full; but . . . but, my dear child, the weather begins to be cold and frosty.</p>
 <p rend="indented">I am in the mood for Buts, so I will add: But it is impossible for me to get away before December 15th. You may be sure that I am dying to see you, embrace you, and talk to you. My longing to go to Italy is not nearly so strong as my desire to return to you: but, my dear, give me one more month, ask M. d'Argental to grant me this favour: for I always tell the King of Prussia that, though I am his chamberlain, I belong not the less to you and to M. d'Argental. But is it true our Isaac d'Argens has gone to bury himself at Monaco, with his wife who is an artist? That seems to be a little foolish—or extremely philosophical. He would do better to come here and add to our colony.</p>
 <p rend="indented">Maupertuis' energies are not very pleasing: he takes my measure most rigidly with his mathematical implements. They say a little jealousy creeps into his problems. But to make up there is a man here who is only too lively: La Mettrie.</p>
 <p rend="indented">His ideas are perfect fireworks—in fact, sky-rockets. His noise is very amusing for the first quarter of an hour, and mortally wearisome afterwards. He has just written (without knowing it) a vile book printed at Potsdam, in which he proscribes virtue and repentance, praises vice, and <pb xml:id="page-139" n="97"/> invites the reader to all sorts of wickedness—without any evil intention. The book contains not half a page of sense, and a thousand flashes of light—lightnings in the dark. Sensible people have pointed out to him the enormity of his immorality. He was wholly astonished: he had not the least idea of the nature of what he had written: he is always ready to contradict himself the next day, if they like. The Lord preserve me from having him as my doctor! he would give me corrosive sublimate instead of rhubarb, most innocently, and then roar with laughter. This remarkable physician is reader to the King: and what is still richer, is now reading him a History of the Church. He skips hundreds of pages, and there are places when monarch and reader nearly kill themselves with laughing.</p>
 <p rend="indented">Goodbye, my dear child: they want to play <hi rend="italic">Rome Sauvée</hi> in Paris, do they? but . . . but . . . Goodbye. My warmest love to you.</p>
 </div>
-<div xml:id="div-unit-0050" type="editorial">
+<div xml:id="div-letter-0034" type="letter" corresp="#letter-0034">
 <head rend="center">XXXIV</head>
 <head rend="center">THE FAVOUR OF KINGS</head>
 <head rend="center"><hi rend="italic">To Mme. Denis</hi></head>
 <p>[Baculard d’Arnaud, who had had his head turned by the favours of King Frederick, in 1750 <pb xml:id="page-140" n="98"/> allied himself with Fréron—journalist of Paris and bitter enemy of Voltaire—to write against him. Voltaire retaliated by obtaining from Frederick d'Arnaud's dismissal from Potsdam. But the victory was a cause for reflection rather than for triumph.</p>
 <p rend="indented">“<hi rend="italic">There has not been so terrible a fall since ‘Belisaire.’</hi>” The once popular, and now forgotten, political novel by Marmontel contained a too daring chapter on toleration, which earned the fury and condemnation of the Sorbonne (see Letter LXV, “On the Jesuits and Catherine the Great”). Marmontel owed his first start in life and the profession of letters to Voltaire: who always remained his friend and too generous admirer.]</p>
-</div>
-<div xml:id="div-letter-0034" type="letter" corresp="#letter-0034">
-<opener><dateline rend="right">November 24, 1750.</dateline></opener>
+<p rend="dateline">November 24, 1750.</p>
 <p rend="indented">The rising sun has set. Poor d'Arnaud was mortally bored here seeing neither King nor actress—nor anything except bayonets in front of his house. He presumed on his credit by having his comedy, the <hi rend="italic">Mauvais Riche</hi>, played at Charlottenburg: but pieces taken from the New Testament do not succeed here: it was badly received. . . . All this, added to a little annoyance in seeing me, the setting sun, passably well treated, decided him to ask, regretfully, for leave of absence. The King <pb xml:id="page-141" n="99"/> sharply ordered him to go in twenty-four hours, and, kings always being so busy, forgot to pay his travelling expenses. My dear, my triumph saddens me—it makes me reflect deeply on the perils of greatness. This d'Arnaud had one of the most delightful sinecures in the kingdom. He was boy-poet to the King, and his Prussian Majesty had written most complimentary little verses to him. There has not been so terrible a fall since <hi rend="italic">Bélisaire.</hi> What a treatment for the monarch to mete to one of his two suns. . . . He palavers me more than ever: but . . . goodbye: goodbye: I long to see you.</p>
 </div>
-<div xml:id="div-unit-0052" type="editorial">
+<div xml:id="div-letter-0035" type="letter" corresp="#letter-0035">
 <head rend="center">XXXV</head>
 <head rend="center">ON INSPIRATION</head>
 <head rend="center"><hi rend="italic">To King Frederick</hi></head>
 <p rend="indented">[At the end of 1750, a quarrel with Hirsch, a Jew money lender of Berlin, had robbed Voltaire of the royal favour. A reconciliation followed: and Voltaire was once more restored to his post of literary adviser to the King. The following is a specimen of hundreds of notes which passed between them when they were both at Potsdam, separated only by a few rooms.]</p>
-</div>
-<div xml:id="div-letter-0035" type="letter" corresp="#letter-0035">
-<opener><pb xml:id="page-142" n="100"/><dateline rend="right"><hi rend="smallcaps">Potsdam</hi>, August, 1751.</dateline></opener>
+<pb xml:id="page-142" n="100"/><p rend="dateline"><hi rend="smallcaps">Potsdam</hi>, August, 1751.</p>
 <p rend="indented">Sire, I return your Majesty the first volume: I am not the person who has spilled the ink all over it. Just a word on the feebleness of the human intelligence: I re-wrote to-day, in five different forms, a little passage of the <hi rend="italic">Henriade</hi>, without being able to turn it as I did a month ago. What does that prove? That one's powers are never the same; that one never has exactly the same idea twice in one's life; that one must always be ready to seize the right moment. What a devil of a profession! but it has its charms: and a busy solitude is, I think, the happiest life of all. My poor exhausted muse humbly kisses the feet and wings of yours.</p>
 </div>
-<div xml:id="div-unit-0054" type="editorial">
+<div xml:id="div-letter-0036" type="letter" corresp="#letter-0036">
 <head rend="center">XXXVI</head>
 <head rend="center">THE RIFT WIDENS</head>
 <head rend="center"><hi rend="italic">To Mme. Denis</hi></head>
 <p rend="indented">["<hi rend="italic">He is imploring me to get M. Richelieu to obtain a permit for him.</hi>" La Mettrie had been banished from France for his writings: and a permit was necessary to enable him to return.</p>
 <p rend="indented">"<hi rend="italic">You will take me for M. Jourdain,</hi>" who is of course the immortal hero of Molière's <hi rend="italic">Bourgeois Gentilhomme.</hi>]</p>
-</div>
-<div xml:id="div-letter-0036" type="letter" corresp="#letter-0036">
-<opener><pb xml:id="page-143" n="101"/><dateline rend="right"><hi rend="smallcaps">Berlin</hi>, September 1, 1751.</dateline></opener>
+<pb xml:id="page-143" n="101"/><p rend="dateline"><hi rend="smallcaps">Berlin</hi>, September 1, 1751.</p>
 <p rend="indented">I have just time, my dear, to send you a fresh packet of letters. You will find in it one from La Mettrie to the Maréchal de Richelieu, asking his good offices. Reader though he be to the King of Prussia, he is dying to return to France. This cheerful soul, supposed to do nothing but laugh, cries like a child at having to be here. He is imploring me to get M. Richelieu to obtain a permit for him. It is certainly a fact that one must never judge by appearances.</p>
 <p rend="indented">La Mettrie, in his writings, boasts of his delight at being near a great king, who sometimes reads his verses: in private, he weeps with me. He is ready to go back on foot: but as for me! . . . what am <hi rend="italic">I</hi> here for? I am going to astonish you.</p>
 <p rend="indented">This La Mettrie is a person of no importance, and chats familiarly with the King after their readings. He tells me much in confidence; and swears that, talking to the King a few days ago of the so-called favour extended to me and the little jealousy it excites, the King replied, “I shall want him a year longer, at the outside: one squeezes the orange and throws away the peel.”</p>
@@ -1064,19 +1047,17 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p rend="indented">You can easily fancy what reflections, what regrets, what difficulties, and, since I must own it, what grief the words of La Mettrie have brought upon me. You will say, Come away! But I am in no position to come away. What I have begun, I must finish—and I have two editions on hand and engagements for several months ahead. I am encompassed on all sides. What is to be done? Ignore that La Mettrie ever told me, confide in you alone, forget all about it, wait? You will most certainly be my consolation. I shall never have to say of you, “She deceived me, vowing she loved me.” Were you a queen, you would be true.</p>
 <p rend="indented">Tell me your opinion, I beg you, in detail by the first courier despatched to Lord Tyrconnel.</p>
 </div>
-<div xml:id="div-unit-0056" type="editorial">
+<div xml:id="div-letter-0037" type="letter" corresp="#letter-0037">
 <pb xml:id="page-146" n="104"/><head rend="center">XXXVII</head>
 <head rend="center">THE PEEL OF AN ORANGE</head>
 <head rend="center"><hi rend="italic">To Mme. Denis</hi></head>
 <p>[“<hi rend="italic">His secretary, Darget</hi>”—reserved, discreet, and trustworthy. In November, 1750, Voltaire had written and told Mme. Denis that when Darget lost his wife King Frederick had written him a touching letter of sympathy: and, the same day, made a shameful epigram upon her. In the affair with Hirsch, the money lender, Darget had pleaded Voltaire’s case with angry Frederick: and he was often the medium of letters and messages between the King and his guest.</p>
 <p>“<hi rend="italic">I have reconciled him</hi> (<hi rend="italic">d’Argens</hi>) <hi rend="italic">with Algarotti.</hi>” The Marquis d’Argens (see Letter XXXIII, “The Little Rift within the Lute”).</p>
 <p><hi rend="italic">Algarotti</hi> was an agreeable Italian who had been a visitor at Cirey. He had written a book called <hi rend="italic">Newtonianism for Ladies</hi>, which had been completely eclipsed by Voltaire and Mme. du Châtelet’s <hi rend="italic">Elements of Newton’s Philosophy.</hi>]</p>
-</div>
-<div xml:id="div-letter-0037" type="letter" corresp="#letter-0037">
-<opener><dateline rend="right"><hi rend="smallcaps">Potsdam</hi>, October 29, 1751.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Potsdam</hi>, October 29, 1751.</p>
 <p rend="indented">My dear plenipotentiary, I am much afraid that my letters will not go via Lord Tyrconnel much longer. He has taken it into his head to burst</p>
 </div>
-<div xml:id="div-unit-0058" type="apparatus">
+<div xml:id="div-unit-0048" type="apparatus">
 <pb xml:id="page-147" n="147"/><figure type="illustration"><figDesc>illustration on p. 147</figDesc></figure>
 <p rend="caption"><hi rend="smallcaps">Frederick the Great</hi><lb/><hi rend="italic">From the portrait by Graf</hi></p>
 <pb xml:id="page-149" n="105"/><p>a large blood-vessel in his chest. It is the broadest and strongest chest imaginable, but the enemy has a footing, and the worst is to be feared.</p>
@@ -1087,7 +1068,7 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p rend="indented">I am much pleased at the return of brother Isaac d'Argens. He was a little uproarious at first, but now he has put himself in tune with the rest of the orchestra. I have reconciled him with Algarotti. We live like brothers: they come to my room, which I hardly ever leave: from there we go to sup with the King, and sometimes are gay enough. The man who fell from a steeple, and, finding his passage through the air soft, said, <hi rend="italic">Good! provided it lasts</hi>, is much as I am.</p>
 <p rend="indented">Goodbye, my dear plenipotentiary: how I wish I could fall on to the top of my house in Paris!</p>
 </div>
-<div xml:id="div-unit-0059" type="editorial">
+<div xml:id="div-letter-0038" type="letter" corresp="#letter-0038">
 <head rend="center">XXXVIII</head>
 <head rend="center">THE TENSION GROWS</head>
 <head rend="center"><hi rend="italic">To Mme. Denis</hi></head>
@@ -1095,9 +1076,7 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p rend="indented">“<hi rend="italic">La Mettrie, when he was at the point of death.</hi>” On November 11, 1751, La Mettrie, having devoured a whole pâté (of eagle, pork, pheasant, and ginger!) at one of Lord Tyrconnel's too excellent suppers, died of a violent indigestion —“the patient,” as Voltaire said, “killing the doctor.”</p>
 <p rend="indented">“<hi rend="italic">He never promised any province to Chazot,</hi>” who was a Major, a Frenchman, and a flute player. The fact that he had saved Frederick's life at the battle of Mollwitz did not prevent his experiencing the fickleness of royal favour.</p>
 <p rend="indented">“<hi rend="italic">This chamberlain's key was simply a gift . . . my cross is a toy.</hi>” Part of Frederick's bribe to Voltaire to come and live in Prussia had been the post of chamberlain and the cross and ribbon of the Prussian Order of Merit.]</p>
-</div>
-<div xml:id="div-letter-0038" type="letter" corresp="#letter-0038">
-<opener><dateline rend="right"><hi rend="smallcaps">Potsdam</hi>, December 24, 1751.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Potsdam</hi>, December 24, 1751.</p>
 <p rend="indented">I never write to you now, my dear, except by a special courier; and for a good reason. He will give you six complete proofs of the <hi rend="italic">Century of Louis XIV</hi> corrected in my handwriting. No permit to print, if you please! Everybody would make game of me. A permit is nothing but a command to flatter, sealed with the yellow seal. <pb xml:id="page-152" n="108"/> Nothing but a permit and official approval are needed to disparage my work.</p>
 <p rend="indented">I have made my court only to truth, and dedicate the book to her alone. The approbation I want is that of honest men and disinterested readers.</p>
 <p rend="indented">I should like to have asked La Mettrie, when he was at the point of death, more about that <hi rend="italic">peel of an orange.</hi> That good soul, just about to appear before God, would never have lied. There is a great appearance that he spoke the truth. He was the maddest of men, but the most frank. The King informed himself exactly of the manner of his death—if he dispensed with all religious forms and counsels: and at last was fully convinced that this <hi rend="italic">gourmand</hi> died as a good philosopher. “I am glad of it,” said the King to us, “for the repose of his soul”: we all laughed, the King included.</p>
@@ -1129,7 +1108,7 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p rend="indented">As to the quarrel between Maupertuis and Koenig, here are the facts:</p>
 <p rend="indented">Koenig has fallen in love with a geometrical problem, as a paladin with a lady. Last year he travelled from the Hague to Berlin expressly to confer with Maupertuis on an algebraic formula and on a law of nature, which would not interest you in the least. He showed him a couple of letters from an old philosopher of the last century, named Leibnitz, who would interest you no better: and made it clear that Leibnitz, in dealing with this same law, had totally disagreed with Maupertuis. Maupertuis, who is much more engaged in court intrigues—or what he takes to be such— than geometrical truths, did not even read Leibnitz's letters.</p>
 </div>
-<div xml:id="div-unit-0063" type="narrative">
+<div xml:id="div-unit-0052" type="narrative">
 <pb xml:id="page-160" n="116"/><p rend="indented">The Hague professor demanded permission to ventilate his theories in the Leipsic papers: having it, he refuted therein, with the most exquisite politeness, the opinion of Maupertuis, quoting Leibnitz as his authority and printing passages from his works which bore on the dispute.</p>
 <p rend="indented">Now comes the odd part.</p>
 <p rend="indented">Maupertuis, having looked through and misread the Leipsic papers and the quotations from Leibnitz, gets it into his head that Leibnitz was of <hi rend="italic">his</hi> opinion, and that Koenig had forged the letters to deprive him (Maupertuis) of the honour and glory of having originated—a blunder.</p>
@@ -1141,14 +1120,12 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p rend="indented">These details only reached my solitude yesterday. Every day there is something new under the sun. Never before, surely, was there such a thing as a criminal suit in an academy of sciences! Flight from such a country as this is now proved a necessity.</p>
 <p rend="indented">I am quietly putting my affairs in order. My warmest love to you.</p>
 </div>
-<div xml:id="div-unit-0065" type="editorial">
+<div xml:id="div-letter-0042" type="letter" corresp="#letter-0042">
 <head rend="center">XLI</head>
 <head rend="center">ON THE SAME SUBJECT</head>
 <head rend="center"><hi rend="italic">To Mme. Denis</hi></head>
 <p>[In the three months which had passed since Voltaire's letter to his niece of July 24th, his quarrel with Maupertuis had made rapid progress. On September 18th Voltaire had published an anonymous pamphlet defending Koenig: and a few days later Koenig wrote a convincing <hi rend="italic">Appeal</hi> on his own behalf. King Frederick, meaning to stand by Maupertuis, right or wrong, did not even read it, but himself produced that "<hi rend="italic">brochure against Koenig, against me</hi>" and against everyone who had tried to prove Koenig's innocence to which <pb xml:id="page-162" n="118"/> this letter alludes, and which was entitled <hi rend="italic">A Letter to the Public.</hi> <hi rend="italic">“I have no sceptre, but I have a pen: and I have used it to turn Plato into ridicule”</hi> in the famous <hi rend="italic">Diatribe of Dr. Akakia</hi> at the moment still in the author’s desk.]</p>
-</div>
-<div xml:id="div-letter-0042" type="letter" corresp="#letter-0042">
-<opener><dateline rend="right"><hi rend="smallcaps">Potsdam</hi>, October 15, 1752.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Potsdam</hi>, October 15, 1752.</p>
 <p rend="indented">Here is something unprecedented—inimitable—unique. The King of Prussia, without having read a word of Koenig’s reply, without listening to or consulting anybody, has just produced a brochure against Koenig, against me, and against everyone who has tried to prove the innocence of the unjustly condemned professor. He treats all Koenig’s friends as fools, envious, dishonest. A singular pamphlet indeed: and a king wrote it!</p>
 <p rend="indented">The German journalists, not suspecting that a monarch who had won battles could be the author of such a work, have spoken of it freely as the effort of a schoolboy, perfectly ignorant of his subject. However, the brochure has been reprinted at Berlin with the Prussian eagle, a crown, and a sceptre on the title-page. The eagle, the sceptre, and the crown are exceedingly surprised to find themselves there. Everybody shrugs their shoulders, casts down their eyes, and is afraid to say anything. Truth is never to be found near a throne: and is <pb xml:id="page-163" n="119"/> never farther from it than when the king turns author. Coquettes, kings, and poets are accustomed to be flattered. Frederick is a combination of all three. How can truth pierce that triple wall of vanity? Maupertuis has not succeeded in being Plato, but he wants his royal master to be Dionysius of Syracuse.</p>
 <p>What is most extraordinary in this cruel and ridiculous affair is that the King has no liking for this Maupertuis, for whose benefit he is employing his sceptre and his pen. Plato nearly died of mortification at not being invited to certain little suppers, which I attended, and where the King told us a hundred times that this Plato's mad vanity rendered him intolerable.</p>
@@ -1156,15 +1133,13 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p>But all this is but the most insignificant part of what has happened. I too am unfortunately an author, and in the opposite camp. I have no sceptre, but I have a pen: and I have used it—I really do not know how—to turn Plato—with his stipendiaries, his predictions, his dissections, and his insolent quarrel with Koenig—into ridicule. My raillery is quite innocent, but I did not know <pb xml:id="page-164" n="120"/> when I wrote it I was laughing at the pastimes of the King. The affair is unlucky. I have to deal with conceit and with despotic power—two very dangerous things. I also have reason to believe that my affair with the Duke of Würtemberg has given offence. It was discovered: and I have been made to feel it was discovered. . . .</p>
 <p rend="indented">I am at the moment very wretched and very ill: and, to crown all, I have to sup with the King. Truly, a feast of Damocles! I need to be as philosophical as was the real Plato in the house of Dionysius.</p>
 </div>
-<div xml:id="div-unit-0067" type="editorial">
+<div xml:id="div-letter-0043" type="letter" corresp="#letter-0043">
 <head rend="center">XLII</head>
 <head rend="center">THE STORM BURSTS</head>
 <head rend="center"><hi rend="italic">From Frederick the Great</hi></head>
 <p>[The originals of this letter and of the next one, frcm Voltaire, are preserved in the Bibliothèque Nationale. Voltaire's is written at the foot of his royal host's. Frederick's is evidently dashed on to paper in a rage, and the French is very ill spelt.</p>
 <p rend="indented">"<hi rend="italic">After what you have done</hi>," that is, in the affair of the <hi rend="italic">Diatribe of Dr. Akakia</hi> against Maupertuis. For this <hi rend="italic">Diatribe</hi>, in which Voltaire had attacked Maupertuis in one of the most famous satires in <pb xml:id="page-165" n="121"/> the world, which, in its mocking wit and the seeming-innocent gaiety of its remorseless logic, is one of the most Voltairean of all Voltaire's works, he had obtained the royal permit to publish by a trick. He read to Frederick a <hi rend="italic">Defence of Lord Bolingbroke</hi>—that is, a defence of Bolingbroke's <hi rend="italic">Letters on History</hi>—which he, Voltaire, had just written, gained the King's sanction for its publication, and then slipped in front of it, <hi rend="italic">Akakia</hi>. Thus, printed by his own printers, in his own private printing office at Potsdam, there appeared, to the immeasurable but very natural rage of King Frederick, this merciless onslaught on his friend and president. All things considered, the royal letter is not immoderate. Though the printer owned everything, Voltaire continued to deny everything. His royal host threatened the guest with a heavy fine, and for a week stationed a sentinel, in true Prussian fashion, outside his door.]</p>
-</div>
-<div xml:id="div-letter-0043" type="letter" corresp="#letter-0043">
-<opener><dateline rend="right">1752.</dateline></opener>
+<p rend="dateline">1752.</p>
 <p rend="indented">Your effrontery amazes me after what you have done, which is as clear as daylight. You persist in it instead of owning yourself guilty: do not imagine that you can make people believe that black is white; when one takes no notice, it is because one prefers to see nothing; but if you carry this business any further, I shall have everything <pb xml:id="page-166" n="122"/> printed, and the world will see that if your works deserve statues, your conduct deserves chains.</p>
 <p rend="indented">The publisher has been questioned, and has confessed all.</p>
 </div>
@@ -1172,15 +1147,13 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <head rend="center"><hi rend="italic">Voltaire to Frederick the Great</hi></head>
 <p rend="indented">Good God, sire, what a position I am <hi rend="bold">in!</hi> I swear to you on my life—which I will most willingly relinquish—that the whole thing is a frightful calumny. I implore you to cross-examine all my <hi rend="italic">entourage.</hi> Surely, you would not condemn me without hearing me. I demand justice and death.</p>
 </div>
-<div xml:id="div-unit-0070" type="editorial">
+<div xml:id="div-letter-0045" type="letter" corresp="#letter-0045">
 <head rend="center">XLIII</head>
 <head rend="center">THE DICTIONARY OF KINGS</head>
 <head rend="center"><hi rend="italic">To Mme. Denis</hi></head>
 <p rend="indented">[In November of this year, 1752, Frederick had been able to assure Maupertuis that <hi rend="italic">Akakia</hi> had been burnt in the royal presence. But there were other editions, and in December, Berlin, which hated Maupertuis, was reading them and enjoying itself as it had never enjoyed itself before. Voltaire was living in Berlin at a friend's house—sombrely considering how “to save the peel.”</p>
 <p rend="indented">“<hi rend="italic">It is not possible to say ‘I am going to Plombières’</hi> <pb xml:id="page-167" n="123"/> <hi rend="italic">in December</hi>”—Plombières being a summer resort and no one taking its water-cure in winter.]</p>
-</div>
-<div xml:id="div-letter-0045" type="letter" corresp="#letter-0045">
-<opener><dateline rend="right"><hi rend="smallcaps">Berlin</hi>, December 18, 1752.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Berlin</hi>, December 18, 1752.</p>
 <p rend="indented">I enclose, my dear, the two contracts from the Duke of Würtemberg: they secure you a little fortune for life. I also enclose my will. Not that your prophecy that the King of Prussia <hi rend="italic">would worry me to death</hi> is going to be fulfilled. I have no mind to come to such a foolish end: nature afflicts me much more than he can, and it is only prudent that I should always have my valise packed and my foot in the stirrup, ready to start for that world where, happen what may, kings will be of small account.</p>
 <p rend="indented">As I do not possess here below a hundred and fifty thousand soldiers, I cannot pretend to make war. My only plan is to desert honourably, to take care of my health, to see you again, and forget this three years’ nightmare. I am very well aware that <hi rend="italic">the orange has been squeezed:</hi> now we must consider how to save the peel. I am compiling, for my instruction, a little Dictionary for the Use of Kings.</p>
 <p rend="indented"><hi rend="italic">My friend</hi> means <hi rend="italic">my slave.</hi></p>
@@ -1194,41 +1167,35 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <pb xml:id="page-169" n="125"/><p rend="indented">There is a man named Pérrard here: a sort of minister of the Gospel and born, like myself, in France: he asked permission to go to Paris on business: the King answered that he knew his affairs better than he did himself, and that there was no need at all for him to go to Paris.</p>
 <p rend="indented">My dear child, when I think over the details of all that is going on here, I come to the conclusion that it cannot be true, that it is impossible, that I must be mistaken—that such a thing must have happened at Syracuse three thousand years ago. What <hi rend="italic">is</hi> true is that I sincerely love you and that you are my only consolation.</p>
 </div>
-<div xml:id="div-unit-0072" type="editorial">
+<div xml:id="div-letter-0046" type="letter" corresp="#letter-0046">
 <head rend="center">XLIV</head>
 <head rend="center">FAREWELL</head>
 <head rend="center"><hi rend="italic">To Frederick the Great</hi></head>
 <p rend="indented">[On the Christmas Eve of 1752 Voltaire, looking out of the window of his Berlin lodgings, beheld a crowd watching a bonfire. “I’ll bet that’s my Doctor,” said he; and, in fact, <hi rend="italic">Akakia</hi> it was. That conflagration (which advertised the <hi rend="italic">Diatribe</hi> to the four corners of Europe) decided its author to “desert honourably” as soon as might be. On New Year’s Day, 1753, at three o’clock in the afternoon he returned to King Frederick the cross and <pb xml:id="page-170" n="126"/> ribbon of the Prussian order bestowed on him and the chamberlain's key, and accompanied them by the following letter.]</p>
-</div>
-<div xml:id="div-letter-0046" type="letter" corresp="#letter-0046">
-<opener><dateline rend="right">January 1, 1753.</dateline></opener>
+<p rend="dateline">January 1, 1753.</p>
 <p rend="indented">Sire, urged by the prayers and tears of my family, I am compelled to lay my fate at your feet, together with the favours and marks of distinction with which you have honoured me. Only my grief can be as great as the value of all I am renouncing. Your Majesty may rest assured that I shall remember nothing but the benefits conferred on me. Attached to you for sixteen years by many kindnesses: summoned to your side in my old age: my fears of that transplantation, which has cost me much, quieted by the most solemn promises: and having had the honour of living for two and a half years at your side; it is impossible you should deny to me the possession of feelings which have outweighed in my heart the claims of my country, my king (who is at once my sovereign and benefactor), my family, my friends, and my occupations.</p>
 <p rend="indented">I have lost them all. Nothing remains to me but the remembrance of the pleasant days I have spent in your retreat at Potsdam. After that, all other solitudes will indeed seem melancholy to me. It is, moreover, hard to leave at this season of the <pb xml:id="page-171" n="127"/> year, especially when one is, as I am, the victim of many diseases: and it is harder still to leave you. Believe me, that is the only pain I am capable of feeling at this moment. The French envoy, who has come in as I write this, will bear witness to my sorrow, and will answer for me to your Majesty of the sentiments I shall always retain. I made you my idol: an honest man does not change his religion, and sixteen years of a limitless devotion cannot be destroyed by a single unfortunate moment.</p>
 <p rend="indented">I flatter myself that out of so much kindness you will keep at least some feeling of humanity towards me: that is my sole consolation, if consolation I may have.</p>
 </div>
-<div xml:id="div-unit-0074" type="editorial">
+<div xml:id="div-letter-0047" type="letter" corresp="#letter-0047">
 <head rend="center">XLV</head>
 <head rend="center">DISMISSED</head>
 <head rend="center"><hi rend="italic">King Frederick the Great to Voltaire</hi></head>
 <p rend="indented">[To a moral obtuseness, characteristically German, must be attributed the fact that, after Voltaire's “Farewell” letter of January 1, 1753, the royal host did not disdain to use all his royal powers to chain his unwilling guest to his side. On March 1st Voltaire begged formally for leave of absence to <pb xml:id="page-172" n="128"/> go to French Plombières and drink the waters. After a fortnight's silence, Frederick replied that the waters of Moravia were quite as good: and then, on March 16th, flung on to paper the following famous dismissal, which, with some slight differences of expression, was printed by his orders in the gazettes of Holland and Utrecht, and is still preserved in the archives of Berlin.</p>
 <p rend="indented">"<hi rend="italic">The volume of poetry which I have confided to him</hi>"—the free-thinking, and often indecorous, poetical effusions of King Frederick, which Voltaire had been correcting for him, and which were shortly to become all too notorious for both writer and corrector.]</p>
-</div>
-<div xml:id="div-letter-0047" type="letter" corresp="#letter-0047">
-<opener><dateline rend="right">March 16, 1753.</dateline></opener>
+<p rend="dateline">March 16, 1753.</p>
 <p rend="indented">He can leave my service when he feels inclined: he need not trouble to invent the excuse of the waters of Plombières, but he must have the goodness, before he goes, to return to me the contract of his engagement, the key, the cross, and the volume of poetry which I have confided to him: I could wish that he and Koenig had only attacked my works, which I sacrifice willingly to those who desire to belittle other people's reputations: I have none of the vanity and folly of authors, and the cabals of men of letters seem to me the depth of baseness.</p>
 </div>
-<div xml:id="div-unit-0076" type="apparatus">
+<div xml:id="div-unit-0060" type="apparatus">
 <pb xml:id="page-173" n="173"/><figure type="illustration"><figDesc>LE COMTE D'ARGENSON</figDesc></figure>
 <p rend="caption"><hi rend="smallcaps">The Comte d'Argenson, Minister of War to Louis XV.</hi><lb/><hi rend="italic">From the portrait by Nattier</hi></p>
 </div>
-<div xml:id="div-unit-0077" type="editorial">
+<div xml:id="div-letter-0048" type="letter" corresp="#letter-0048">
 <pb xml:id="page-175" n="129"/><head rend="center">XLVI</head>
 <head rend="center">THE ESCAPE FROM PRUSSIA</head>
 <head rend="center"><hi rend="italic">Petition to the King of France, through the Comte</hi><lb/><hi rend="italic">d'Argenson, Minister of War</hi></head>
 <p>[<hi rend="italic">The Comte d'Argenson</hi> and his brother, the Marquis, had been at school with Voltaire, and remained thereafter his very influential friends. It was the Comte d'Argenson who had obtained for him the honour of writing the authorised account of the royal campaigns, which eventually became the <hi rend="italic">History of Louis XV.</hi> This petition "<hi rend="italic">to be allowed to die in his own country</hi>" was not, however, accorded to Voltaire. Only a month later d'Argenson, who is famous for having reorganised the French army, was writing in his diary, "Permission to re-enter France is refused to M. de Voltaire—to please the King of Prussia." By March 26, 1753, Voltaire had, however, effected his escape from Frederick and Potsdam. On April 11th, Frederick had practically commanded Freytag, his resident at Frankfort, to harry the parting guest when he passed through that city: and Freytag—the typical German official, literally choked with red tape—exceeded his orders in the manner described in the following letter. Despite it, it was not until the early days of July that Voltaire and <pb xml:id="page-176" n="130"/> his niece succeeded in getting away from Frankfort.]</p>
-</div>
-<div xml:id="div-letter-0048" type="letter" corresp="#letter-0048">
-<opener><dateline rend="right">June 28, 1753.</dateline></opener>
+<p rend="dateline">June 28, 1753.</p>
 <p rend="indented">Sire, M. de Voltaire takes the liberty of informing your Majesty that, having worked for two and a half years to perfect the King of Prussia's knowledge of French literature, M. de Voltaire respectfully returned to him his key, his ribbon, and his pensions: that he has annulled, in writing, the agreement his Prussian Majesty made with him, promising to return it to him as soon as he can get at his papers, to make no further use of it, and desiring no other reward than to be allowed to die in his own country. He went to Plombières with your Majesty's permission. Mme. Denis preceded him to Frankfort, with a passport.</p>
 <p rend="indented">A person called Dorn, the clerk of M. Freytag, who calls himself the King of Prussia's envoy at Frankfort, on June 20th arrested Mme. Denis, the widow of an officer in his Majesty's service, furnished with a passport: he then dragged her through the streets under an escort of soldiers, and without instructions or formalities or the slightest pretext of any kind, put her in prison, and had the insolence to stay all night in her room. For thirty-six hours she was at the point of death, and now—June 28th—has not entirely recovered.</p>
 <p rend="indented">During this time, a merchant named Schmith, <pb n="131"/> professing to be a representative of the King of Prussia, meted like treatment to M. de Voltaire and his secretary, and without any sort of <hi rend="italic">procès-verbal</hi> took possession of all their effects. The next day, Freytag and Schmith informed their prisoners that they would have to pay a hundred and twenty-eight écus each day they were detained.</p>
@@ -1241,16 +1208,14 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <pb xml:id="page-178" n="132"/><p>“I promise to return to M. de Voltaire these two packets, sealed with his seal, as soon as the packet containing the poetical work which the King demands is to hand.”</p>
 <p rend="indented">The poetical work having arrived on June 18th, addressed to M. Freytag, with the box from Hamburg, M. de Voltaire obviously had the right to leave on June 20th. It was on June 20th that he, his niece, his secretary, and his servants were treated as prisoners in the manner herein set forth.</p>
 </div>
-<div xml:id="div-unit-0080" type="editorial">
+<div xml:id="div-letter-0050" type="letter" corresp="#letter-0050">
 <head rend="center">XLVII</head>
 <head rend="center">ON INOCULATION</head>
 <head rend="center"><hi rend="italic">To the Comte d’Argental</hi></head>
 <p rend="indented">[<hi rend="italic">The Comte d’Argental</hi> (see Letter XXI, “On Treachery”). This letter was written when Voltaire was nearing Colmar, where he spent nearly a year in hard literary work before settling in Switzerland.</p>
 <p rend="indented">“<hi rend="italic">Mme. de Montaigu,</hi>” Lady Mary Wortley Montagu, the famous letter-writer, who introduced inoculation into England from the East in 1717 (see Letter LX, “On Lady Mary Wortley Montagu”).</p>
 <p rend="indented">“<hi rend="italic">The late Queen.</hi>” This was Queen Caroline of England, wife of George II. <pb xml:id="page-179" n="133"/> “<hi rend="italic">That Fontenelle would have outlived Mme. d’Aumont.</hi>” Fontenelle—in Voltaire’s own words “poet, philosopher, scholar”—the nephew of the great Corneille, was known as the author of the <hi rend="italic">Plurality of Worlds</hi> and for his extraordinary length of days. “Fontenelle,” said Voltaire, “was a Norman, he cheated even nature.” He died in 1757, being a hundred years old.]</p>
-</div>
-<div xml:id="div-letter-0050" type="letter" corresp="#letter-0050">
-<opener><dateline rend="right"><hi rend="smallcaps">Near Colmar</hi>, October 3, 1753.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Near Colmar</hi>, October 3, 1753.</p>
 <p>My dear angel, if the Maréchale de Duras, who looks so very strong-minded, had done as did Mme. de Montaigu and the late Queen—if she had been courageous enough to give the smallpox to her children, you would not be mourning the Duchesse d’Aumont to-day. Thirty years ago I declared that a tenth part of the nation might thus be saved. A few people, grieved by the loss of valuable lives from smallpox in the flower of their youth, say, “Really, inoculation ought to be tried”: and by the end of a fortnight they have forgotten alike those who have fallen victims to the scourge and those who yet will fall.</p>
 <p rend="indented">Last year, the Bishop of Worcester preached in London before the Houses of Parliament in favour of inoculation, and proved that it saved, in London alone, two thousand lives a year. That was a <pb xml:id="page-180" n="134"/> sermon which did much more good than the stuff our preachers talk. . . .</p>
 <p rend="indented">I dare not ask you to give my respects and sympathy to the Duc d'Aumont. Who would have thought that Fontenelle would have outlived Mme. d'Aumont! But a hundred years and thirty are the same before Death's scythe. Our life is a point in space—a dream. <hi rend="italic">My</hi> life's dream has been a perpetual nightmare: it would be very soothing if, at the end of it, I could see you: that would be a very pleasant light on which to open my eyes. . . .</p>
@@ -1358,14 +1323,12 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p rend="indented">Forgive this long disquisition; you must please attribute it to my obedience to your commands.</p>
 <closer><salute rend="indented">I have the honour to be very respectfully yours.</salute></closer>
 </div>
-<div xml:id="div-unit-0088" type="editorial">
+<div xml:id="div-letter-0057" type="letter" corresp="#letter-0057">
 <head rend="center">LIV</head>
 <head rend="center">ON THE CASE OF ADMIRAL BYNG</head>
 <p>[In 1756, the French, under the Duc de Richelieu, took Minorca from the English—the English fleet, under Admiral Byng, retiring before the French. Paris went mad with joy. Britain forgot her traditional love of fair play, and wreaked her bitterness at being beaten on her native element, not on the blundering ministry who had commanded him impossibilities, but on <hi rend="italic">Admiral Byng</hi> himself. In December, 1756, George Keith, Earl Marischal of Scotland (whom Voltaire had <pb xml:id="page-205" n="159"/> met in Prussia), arrived at Les Délices to plead with the man who was fast becoming Humanitarian-in-Chief of Europe to defend Admiral Byng—now arraigned on a charge of treason and cowardice. Voltaire wrote to his friend Richelieu, who replied in the first of the following letters, vindicating the character and conduct of his foe. Voltaire sent a copy of this letter to Byng with his own. He had met the Admiral many years before in England, but judged it better not to mention the acquaintance. The third letter—Voltaire to Richelieu—shows the fruitlessness of their efforts. Notwithstanding the recommendation to mercy, Byng was shot on March 14, 1757, and his defender, the author of <hi rend="italic">Candide</hi>, added to it an immortal phrase, "In this country (England) it is as well to put an admiral to death now and then, <hi rend="italic">to encourage the others.</hi>"]</p>
-</div>
-<div xml:id="div-letter-0057" type="letter" corresp="#letter-0057">
-<head rend="center"><hi rend="italic">The Duc de Richelieu to Voltaire</hi></head>
-<opener><dateline rend="right">December, 1756 (probably).</dateline></opener>
+<p rend="letter_header"><hi rend="italic">The Duc de Richelieu to Voltaire</hi></p>
+<p rend="dateline">December, 1756 (probably).</p>
 <p rend="indented">I am much concerned, sir, about the case of Admiral Byng. I can assure you that all I have seen and heard of him is entirely honourable to him. Since he had done all that could reasonably be expected of him, he was not to be blamed for having suffered defeat.</p>
 <p rend="indented">When two generals engage in battle, though both <pb xml:id="page-206" n="160"/> are equally men of honour, one <hi rend="italic">must</hi> be beaten: it is not in the least to M. Byng's discredit that he was. His conduct was throughout that of a clever sailor, and worthy of all admiration. The strength of the two fleets was about the same: the English had thirteen vessels: we had twelve, but ours were much better equipped and smarter. Fortune—which is the goddess of all battles—particularly of sea-battles—was more favourable to us than to our enemies, in causing our fire to have a much greater effect on their vessels than their fire on ours. I am convinced—and it is the general opinion—that, had the English persisted in the fight, their whole fleet would have been destroyed. Nothing could be more unjust than the present campaign against Admiral Byng. All men of honour, all officers in the services, should take a special interest in it.</p>
 </div>
@@ -1565,18 +1528,18 @@ obiit 10 die Febr. anno 1755.</figDesc></figure>
 <p rend="indented">Jean-Jacques' logic seemed to me most amusing <pb xml:id="page-256" n="208"/> —he tried to prove that Mr. Hume had been his benefactor out of spite: he brought against him three arguments, which he calls <hi rend="italic">three slaps on his protector's cheeks.</hi> If the King of England had given him a pension, the fourth slap would doubtless have been for his Majesty. The man seems to me completely mad. There are several like him at Geneva. They are more dismal there than they are in England: and I believe, in proportion to the population, there are more suicides in Geneva than in London. Not that suicide always comes from madness. There are said to be occasions when a wise man takes that course: but, generally speaking, it is not in an access of reasonableness that people kill themselves.</p>
 <p rend="indented">If you see Mr. Franklin, I pray you, sir, be so good as to give him my remembrances and my respects. With the same, I have the honour to be, sir, yours, etc., etc.</p>
 </div>
-<div xml:id="div-unit-0103" type="editorial">
+<div xml:id="div-unit-0084" type="editorial">
 <head rend="center">LXV</head>
 <head rend="center">ON THE JESUITS AND CATHERINE THE<lb/>GREAT</head>
 <head rend="center"><hi rend="italic">To Mme. du Deffand</hi></head>
 <p rend="indented">[“<hi rend="italic">I find myself exposed to all the plagues of war . . . for some time I was exposed to famine.</hi>”</p>
 </div>
-<div xml:id="div-unit-0104" type="apparatus">
+<div xml:id="div-unit-0085" type="apparatus">
 <pb xml:id="page-257" n="257"/><figure type="illustration"><figDesc>J. F. MARMONTEL
 DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="caption"><hi rend="smallcaps">Marmontel, author of "Bélisaire" and the "Contes Moraux."</hi><lb/><hi rend="italic">From the portrait by Cochin</hi></p>
 </div>
-<div xml:id="div-unit-0105" type="editorial">
+<div xml:id="div-unit-0086" type="editorial">
 <pb xml:id="page-259" n="209"/><p>The disputes in the Genevan republic between the governing class and the <hi rend="italic">bourgeoisie</hi> had risen to such a height by the beginning of 1767 that France, (asked by Voltaire himself, acting as mediator,) had quartered troops along the Lake of Geneva, to bring the republic to its senses by famine and blockade. For a while Ferney itself could with difficulty procure the necessaries of life.</p>
 <p rend="indented">“<hi rend="italic">The fifteenth chapter of ‘Bélisaire,’</hi>” by Marmontel (see Letter XXXIV, “The Favour of Kings”).</p>
 <p rend="indented">“<hi rend="italic">I must humbly present you with my folly, ‘The Scythians’</hi>”—a play of Voltaire’s which Paris had received in the March of this year 1767 with loud disapproval.</p>
@@ -1597,7 +1560,7 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">I long, madam, to relieve your boredom by the present of a little book about Catherine—pray God, it may not bore you further! I suppose women are not displeased at their sex being praised and considered capable of great things. You will have heard that she is about to make the tour of her vast empire. She has promised to write to me from the remotest confines of Asia. . . .</p>
 <p rend="indented">Goodbye, madam. Were I in Paris I should prefer your society to any to be found in either Asia or Europe.</p>
 </div>
-<div xml:id="div-unit-0107" type="editorial">
+<div xml:id="div-letter-0072" type="letter" corresp="#letter-0072">
 <head rend="center">LXVI</head>
 <head rend="center">ON SHAKESPEARE</head>
 <head rend="center"><hi rend="italic">To Mr. Horace Walpole</hi></head>
@@ -1611,9 +1574,7 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">“<hi rend="italic">The Misanthrope</hi>” . . .“<hi rend="italic">Georges Dandin</hi>”—comedies by Molière.</p>
 <p rend="indented">“<hi rend="italic">Don Japhet d’Arménie</hi>” and “<hi rend="italic">Jodelet</hi>”—comedies by Scarron.</p>
 <pb xml:id="page-266" n="216"/><p>The "<hi rend="italic">Siège de Calais</hi>"—a bad tragedy by Belloy. "<hi rend="italic">Cinna,</hi>" "<hi rend="italic">Athalie,</hi>" "<hi rend="italic">Iphigènie</hi>"—<hi rend="italic">Cinna</hi> by Corneille; <hi rend="italic">Athalie</hi> and <hi rend="italic">Iphigènie</hi> by Racine.]</p>
-</div>
-<div xml:id="div-letter-0072" type="letter" corresp="#letter-0072">
-<opener><dateline rend="right"><hi rend="smallcaps">Ferney</hi>, July 15, 1768.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Ferney</hi>, July 15, 1768.</p>
 <p>Sir, I have not ventured to speak English for forty years, and you are perfectly at home in our language. I have seen letters from you, written as naturally as you think. Moreover, my age and my state of health do not allow me to write with my own hand. So you must accept my thanks in my own tongue.</p>
 <p>I have just read the preface of your <hi rend="italic">History of Richard III</hi> and found it all too short. When an author is so visibly in the right, and has in addition a philosophy so bold and a style so virile, I want more of him. Your father was a great statesman and a good orator, but I doubt if he could have written as you write. <hi rend="italic">You</hi> cannot say, "My father is greater than I."</p>
 <p>I have always agreed with you, sir, that ancient histories are untrustworthy. Fontenelle, the only man of the time of Louis XIV who was at once poet, philosopher, and scholar, declared that they were undoubtedly fabrications; and it must be admitted that Rollin has amassed many absurdities and contradictions.</p>
@@ -1635,29 +1596,25 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p>Truly, the history of the Yorkists and Lancastrians, and many others, is much like reading the history of highway robbers.</p>
 <closer><salute rend="indented">Yours, with respects, etc.</salute></closer>
 </div>
-<div xml:id="div-unit-0109" type="editorial">
+<div xml:id="div-letter-0073" type="letter" corresp="#letter-0073">
 <head rend="center">LXVII<lb/>ON THE ADVANTAGES OF BEING A BRUTE</head>
 <head rend="center"><hi rend="italic">To the Comte de Schomberg</hi></head>
 <p>[“<hi rend="italic">I have never had the honour of seeing Mme. Gargantua</hi>”—this was the charming and fairy-like little Duchesse de Choiseul, the wife of the head of the French ministry. By 1769 Voltaire had established the silk-weaving industry at Ferney, <pb xml:id="page-273" n="223"/> and asked the Duchesse de Choiseul to advertise it by accepting the first pair of stockings made on his looms. In mistake, she sent him a pattern shoe much too large for her. Hence the reference to “Mme. Gargantua” and the very misleading shoe which “proclaimed” her to be “one of the largest women in the world.”</p>
 <p rend="indented">“<hi rend="italic">The</hi> [<hi rend="italic">East</hi>] <hi rend="italic">Indian Company . . . are now paying dearly for the blood of Lally</hi> (see Letter LXXXIV, “The Last Letter”).</p>
 <p rend="indented">“<hi rend="italic">I always have a feverish attack about the 24th of that month</hi> [<hi rend="italic">August</hi>] <hi rend="italic">and about May 14th.</hi>” The dates, respectively, of the Massacre of St. Bartholomew and the murder of Henri IV by Ravaillac.]</p>
-</div>
-<div xml:id="div-letter-0073" type="letter" corresp="#letter-0073">
-<opener><dateline rend="right">August 31, 1769.</dateline></opener>
+<p rend="dateline">August 31, 1769.</p>
 <p rend="indented">Yes, sir, it is true that I have been very ill. But that is the common lot of old age, especially when one has always had a feeble constitution: and these little warnings are the stroke of the clock to tell us that soon we shall have passed beyond time. Animals have a great advantage over human beings: they never hear the clock strike, however intelligent they may be: they die without having any notion of death: they have no theologians to instruct them on the Four Ends of animals: their last moments are not disturbed <pb xml:id="page-274" n="224"/> by unwelcome and often objectionable ceremonies: it costs them nothing to be buried: no one goes to law over their wills: but in one respect we are greatly their superior—they only know the ties of habit, and we know friendship. Even spaniels, which have the reputation of being the most faithful friends in the world, do not approach us.</p>
 <p rend="indented">You, sir, make me enjoy this consolation to its fullest extent.</p>
 <p rend="indented">I have never had the honour of seeing Mme. Gargantua: the only thing I know about her is a shoe which proclaims her to be one of the largest women in the world: but I have seen letters of hers which make me believe that she has a wit even more delicate than her feet are enormous. . . .</p>
 <p rend="indented">The [East] Indian Company, of whom you tell me, are now paying dearly for the blood of Lally: but who will pay for the blood of the Chevalier de la Barre?</p>
 <p rend="indented">Do not be astonished, sir, that I have been ill in the month of August. I always have a feverish attack about the 24th of that month, as about May 14th. <hi rend="italic">You</hi> will easily guess why, for your ancestors were so deeply attached to Henri IV. The thought of you and your visit are balm to my wounds. Keep a kindly recollection of me: I shall deeply value it.</p>
 </div>
-<div xml:id="div-unit-0111" type="editorial">
+<div xml:id="div-letter-0074" type="letter" corresp="#letter-0074">
 <pb xml:id="page-275" n="225"/><head rend="center">LXVIII</head>
 <head rend="center">THE CASE OF MARTIN</head>
 <head rend="center"><hi rend="italic">To M. d'Alembert</hi></head>
 <p>[To Voltaire's account of the <hi rend="italic">Case of Martin</hi> nothing need be added, save that such miscarriages of justice—and they were many—he never passed by on the other side. "<hi rend="italic">I have enough to do with the Sirven family</hi>" (see Letter LXII, "The Case of Calas and of the Sirvens"). "<hi rend="italic">The sentence of the Chevalier de la Barre has been condemned as an atrocity</hi>" (see Letter LXIII, "The Chevalier de la Barre").</p>
-</div>
-<div xml:id="div-letter-0074" type="letter" corresp="#letter-0074">
-<opener><dateline rend="right">September 4, 1769.</dateline></opener>
+<p rend="dateline">September 4, 1769.</p>
 <p>Martin was an agriculturist, with a large family, settled at Bleurville, in Barrois, on a farm of the Marche. Two years eight months ago a man was assassinated on the highroad near the village of Bleurville. Some sharp person, having noticed on that same road, between Martin's house and the place where the murder was committed, the impress of a shoe, Martin was arrested, and his shoes fitting more or less into the prints, he was interrogated. After this preliminary, a witness came forward <pb xml:id="page-276" n="226"/> who had seen the murderer fleeing: Martin was confronted with the witness, who said he did not recognise him as the murderer: whereon Martin cried: “Thank God! Here is one person who says he does not recognise me!”</p>
 <p rend="indented">The judge, being very weak in his logic, thus interpreted the words: “Thank God! I have committed the murder, and have not been identified by the witness.”</p>
 <p rend="indented">This judge, assisted by several local barristers, condemned Martin to the wheel, on an equivocal meaning. The case is sent up to La Tournelle of Paris: and the sentence being confirmed, Martin is executed in his own village. When he was stretched out on St. Andrew’s cross, he asked permission of the sheriff’s officer and the executioner to raise his arms to call heaven to witness to his innocence, as he could not make himself heard by the crowd. He was allowed that favour: after which, his arms, thighs, and legs were broken, and he was left to die on the wheel.</p>
@@ -1670,14 +1627,12 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">The Turks' affairs go ill. How I should like to see those scoundrels hunted out of the country of Pericles and Plato: it is true, they are not persecutors, but they are brutes. God defend us from both the one and the other! . . .</p>
 <p rend="indented"><hi rend="italic">À propos,</hi> have you heard that the sentence of the Chevalier de la Barre has been condemned as an atrocity by four hundred Russian deputies appointed to frame a legal code? I believe that it will be spoken of in that code as an instance of the most horrible barbarity, and that it will be long cited throughout Europe to the eternal shame of our nation.</p>
 </div>
-<div xml:id="div-unit-0113" type="editorial">
+<div xml:id="div-letter-0075" type="letter" corresp="#letter-0075">
 <head rend="center">LXIX</head>
 <head rend="center">ON A STATUE BY PIGALLE</head>
 <head rend="center"><hi rend="italic">To Mme. Necker</hi></head>
 <p rend="indented">[In 1770 a group of Voltaire's friends, headed by Mme. Necker—once the beloved of Gibbon, and now the wife of the Genevan banker who was to become Controller-General of France—proposed to erect, by public subscription, a statue <pb xml:id="page-279" n="229"/> of the Patriarch of Ferney, now seventy-six years old. The famous sculptor Pigalle undertook the work, which was not successful. Voltaire's boyish delight in the compliment peeps through the self-depreciation of the following letters.]</p>
-</div>
-<div xml:id="div-letter-0075" type="letter" corresp="#letter-0075">
-<opener><dateline rend="right">May 21, 1770.</dateline></opener>
+<p rend="dateline">May 21, 1770.</p>
 <p rend="indented">My just modesty, madam, and my good sense made me at first think the scheme of a statue was only a joke: but, since the thing is serious, allow me to discuss it seriously with you.</p>
 <p rend="indented">I am seventy-six years old and scarcely recovered from a severe illness, which for six weeks has dealt very hardly with both my body and my soul. M. Pigalle is supposed to be coming to model my face: but, madam, I must first have a face: you would hardly be able to guess where it ought to be. My eyes have sunk three inches, my cheeks are nothing but old parchment badly glued on to bones which have nothing to hold to. The few teeth I had have departed. This is not mere coquetry: it is the literal fact. M. Pigalle will think he is being made game of; and, from my own point of view, really I have too much vanity ever to appear before him. I should advise him, if he really wants to see this extraordinary venture through, to take, more or less, as his model the little Sèvres china bust. After all, what does it <pb xml:id="page-280" n="230"/> matter to posterity if a block of marble resembles one man or another? I am perfectly philosophic on the subject. But, as I am still more grateful than philosophic, I give you, over what remains to me of a body, the same power that you have over what remains to me of a soul. Both are in a bad way: but my heart is as much yours, madam, as if I were five and twenty, and my respect for you is as sincere. My duty to M. Necker.</p>
 </div>
@@ -1690,16 +1645,14 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">But all is not vanity: my warm gratitude to <pb xml:id="page-281" n="231"/> my friends, and to you above all, madam, is not vanity.</p>
 <p rend="indented">My respects to M. Necker.</p>
 </div>
-<div xml:id="div-unit-0116" type="editorial">
+<div xml:id="div-letter-0077" type="letter" corresp="#letter-0077">
 <head rend="center">LXXI</head>
 <head rend="center">ON THE SOUL AND GOD</head>
 <head rend="center"><hi rend="italic">To Frederick William, Prince of Prussia</hi></head>
 <p>[Prince Frederick William was the nephew of Frederick the Great and succeeded him on the throne of Prussia in 1786.</p>
 <p>"<hi rend="italic">The System of Nature</hi>"—the famous work by Baron d'Holbach (who long disavowed it) on the necessity of atheism. Voltaire pronounced it "a sin against nature": passionately refuted it in the article on "God" in his <hi rend="italic">Philosophical Dictionary:</hi> and declared that it did untold harm to the philosophic party.</p>
 <p>"<hi rend="italic">Si Dieu n'existait pas, il faudrait l'inventer</hi>"—"If God did not exist, He would have had to be invented"—this famous line—one of the most famous in literature—is, of course, Voltaire's own. It occurs in his <hi rend="italic">Epistle to the Author of the Book of the Three Imposters,</hi> and he often quotes it himself.]</p>
-</div>
-<div xml:id="div-letter-0077" type="letter" corresp="#letter-0077">
-<opener><pb xml:id="page-282" n="232"/><dateline rend="right"><hi rend="smallcaps">Ferney</hi>, November 28, 1770.</dateline></opener>
+<pb xml:id="page-282" n="232"/><p rend="dateline"><hi rend="smallcaps">Ferney</hi>, November 28, 1770.</p>
 <p rend="indented">Monseigneur, the royal family of Prussia has excellent reasons for not wishing the annihilation of the soul. It has more right than anyone to immortality.</p>
 <p rend="indented">It is very true that we do not know any too well what the soul is: no one has ever seen it. All that we do know is that the eternal Lord of nature has given us the power of thinking, and of distinguishing virtue. It is not proved that this faculty survives our death: but the contrary is not proved either. It is possible, doubtless, that God has given thought to a particle to which, after we are no more, He will still give the power of thought: there is no inconsistency in this idea.</p>
 <p rend="indented">In the midst of all the doubts which we have discussed for four thousand years in four thousand ways, the safest course is to do nothing against one's conscience. With this secret, we can enjoy life and have nothing to fear from death.</p>
@@ -1710,7 +1663,7 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">From the depth of our profound ignorance, let us do our best: this is what I think, and what I have always thought, amid all the misery and follies inseparable from seventy-seven years of life.</p>
 <p rend="indented">Your Royal Highness has a noble career before you. I wish you, and dare prophesy for you, a happiness worthy of yourself and of your heart. I knew you when you were a child, monseigneur: I visited you in your sick room when you had smallpox: I feared for your life. Your father honoured me with much goodness: you condescend to shower on me the same favours which are the honour of my old age, and the consolation of those sufferings which must shortly end it. I am, with deep respect, etc.</p>
 </div>
-<div xml:id="div-unit-0118" type="editorial">
+<div xml:id="div-letter-0078" type="letter" corresp="#letter-0078">
 <pb xml:id="page-284" n="234"/><head rend="center">LXXII</head>
 <head rend="center">ON HAPPINESS IN OLD AGE</head>
 <head rend="center"><hi rend="italic">To Lord Chesterfield</hi></head>
@@ -1718,49 +1671,41 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">During Voltaire’s visit to England in 1726–7 he had dined with Lord Chesterfield in London (and had been obliged to refuse a second invitation, as the vails expected by the servants were so high). In 1741, Lord Chesterfield had stayed with Voltaire in Brussels, and Voltaire had read aloud to him selections from his drama <hi rend="italic">Mahomet</hi>, which Lord Chesterfield afterwards said he regarded as “a covert attack on Christianity.” Lord Chesterfield had retired from public life on account of ill-health and deafness many years before this letter was written.</p>
 <p rend="indented">His “<hi rend="italic">desirable lot</hi>” in the “<hi rend="italic">great lottery</hi>” to which Voltaire refers, had included the posts of a privy counsellor, ambassador to the Hague, and lord-lieutenant of Ireland.</p>
 <p rend="indented">“<hi rend="italic">The fine house you have built yourself</hi>” was Chesterfield House in South Audley Street, Mayfair. <pb xml:id="page-285" n="235"/> Lord Chesterfield said himself that “the only real comforts in the latter end of life” were “quiet, liberty, and health,” so his views were in agreement with Voltaire’s.]</p>
-</div>
-<div xml:id="div-letter-0078" type="letter" corresp="#letter-0078">
-<opener><dateline rend="right"><hi rend="smallcaps">Ferney</hi>, September 24, 1771.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Ferney</hi>, September 24, 1771.</p>
 <p rend="indented">Lord Huntington tells me that, of the five senses common to us all, you have only lost one, and that you have a good digestion: that is well worth a pair of ears.</p>
 <p rend="indented">I, rather than you, should be the person to decide whether it is worse to be deaf or blind or to have a weak digestion. I can judge these three conditions from personal experience: only for a long time I have not dared to come to decisions on trifles, much less on subjects so important. I confine myself to the belief that, if you get the sun in the fine house you have built yourself, you will have very bearable moments. That is all that we can hope for at our ages, and, in fact, at any age. Cicero wrote a beautiful treatise on old age, but facts did not confirm his theories, and his last years were very miserable. You have lived longer and more happily than he did. You have not had to deal with perpetual dictators or triumvirs. Your lot has been, and is still, one of the most desirable in this great lottery, where the prizes are so rare, and the biggest one—lasting <pb xml:id="page-286" n="236"/> happiness—has never yet been gained by anybody. Your philosophy has never been misled by the wild dreams which have confused heads otherwise strong enough. You have never been, in any sort, either an impostor or the dupe of impostors, and I count that as one of the most uncommon advantages of this brief life.</p>
 </div>
-<div xml:id="div-unit-0120" type="editorial">
+<div xml:id="div-letter-0079" type="letter" corresp="#letter-0079">
 <head rend="center">LXXIII</head>
 <head rend="center">ON NATURAL TALENT</head>
 <head rend="center"><hi rend="italic">To M. Diderot</hi></head>
 <p>[For <hi rend="italic">Diderot,</hi> see Letter XXVII, “On the Blind.” “<hi rend="italic">I shall always regret having lived without seeing you.</hi>” Voltaire saw Diderot in Paris, for the first and last time, five years later. “<hi rend="italic">You send me the ‘Fables’ of one of your friends. . . . to whom nature has given, in place of inspiration, much good sense,</hi>” etc., etc. The friend was M. Boisard, of the Literary Academy of Caen. Voltaire here forecasts Goethe’s sentiment—“The older one grows, the more one prizes natural gifts, because by no possibility can they be procured and stuck on.” “<hi rend="italic">So much has been said of La Motte</hi>”—La Motte Fouquet, the German romancer who wrote <hi rend="italic">Undine</hi> <pb xml:id="page-287" n="237"/> and who certainly cannot be compared with La Fontaine, whose <hi rend="italic">Fables</hi> Mme. de Sévigné characterised as “divine”: and which are indeed marked, as Voltaire declares, by a delicate and exquisite inspiration—‘laissant tomber les fleurs et ne les semant pas.”</p>
 <p rend="indented">“<hi rend="italic">The ‘Armide’ of Quinault.</hi>” One of the famous rôles of Mdlle. Quinault, the actress. (See Letter XIX, “On a Quiet Life and a Fit of Discouragement.” ) ]</p>
-</div>
-<div xml:id="div-letter-0079" type="letter" corresp="#letter-0079">
-<opener><dateline rend="right"><hi rend="smallcaps">Ferney</hi>, April 20, 1773.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Ferney</hi>, April 20, 1773.</p>
 <p rend="indented">I was very pleasantly surprised, sir, to find a letter signed Diderot awaiting me when I had recrossed from one bank of Styx to the other.</p>
 <p rend="indented">Imagine the joy of an old soldier scarred with wounds on receiving a letter from M. de Turenne. Nature has granted me leave to stay on a little longer in this world—that is to say, to poise for just a moment between two eternities (as if there could possibly be two of them).</p>
 <p rend="indented">I shall therefore go on vegetating for a while at the foot of the Alps by the river of time, which sweeps away everything at last. My intellectual powers fade like a dream, but I shall always regret having lived without seeing you.</p>
 <p rend="indented">You send me the <hi rend="italic">Fables</hi>, written by one of your friends. If he is young, I answer for it he will go far: if he is not, it may be said of him that <pb xml:id="page-288" n="238"/> he writes with wit what he has originated with talent: so much has been said of La Motte. Who would think there could be any higher praise? but there is that accorded to La Fontaine: <hi rend="italic">he wrote perfectly spontaneously.</hi> In all the arts there is a something exceedingly difficult to come by. All the philosophers of the world, melted down together, would not have succeeded in portraying the <hi rend="italic">Armide</hi> of Quinault, nor the <hi rend="italic">Les Animaux Malades de la Peste</hi> which La Fontaine wrote, without knowing what he did, almost unconsciously. Let us confess that in works of genius everything is the result of instinct. Corneille wrote the scene of Horace and Curiace as a bird makes its nest, which a bird always does well—that not being at all the case with our wretched talents. M. Boisard seems to me a very pretty bird of Parnassus, to whom nature has given, in place of the instincts of genius, much good sense, truth, and acuteness. I enclose a letter of thanks to him. The after-effects of my illness, from which I still suffer, do not permit me to write at length. Be sure that I shall look on you, till I die, as a man who has had the courage to be useful to the thankless, and who deserves the commendation of all wise men—I regard and esteem you as if I were myself a wise man.</p>
 <closer><signed rend="right"><hi rend="smallcaps">The Old Invalid of Ferney.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0122" type="editorial">
+<div xml:id="div-letter-0080" type="letter" corresp="#letter-0080">
 <pb xml:id="page-289" n="239"/><head rend="center">LXXIV</head>
 <head rend="center">ON A WISE APPOINTMENT</head>
 <head rend="center"><hi rend="italic">To M. Turgot</hi></head>
 <p>[Just a week before this letter was written, <hi rend="italic">Turgot</hi>, one of the wisest and greatest of the statesmen of France, was appointed Minister of Marine by the young King Louis XVI. A month later he was made Controller General of Finance. Honest, enlightened, and disinterested, he was also the friend of the philosophers, and had pleaded in the Calas case on the side of tolerance. In this, and the following letter, Voltaire expresses opinions of him which time and history have ratified. Two years later, in 1776, he was dismissed from his high office by the frivolous Queen: the abuses he had abolished were re-established: France went her lighthearted way to ruin: and old Voltaire at Ferney wrote that this was death before death, and that a thunderbolt had fallen on his head and his heart. When he was on his last visit to Paris in 1778 he went to see Turgot. "Let me kiss the hand," says old Voltaire, "which signed the salvation of the people."</p>
 <p>"<hi rend="italic">M. de Condorcet.</hi>" See Letter LXXV, "On Turgot and Ferney."]</p>
-</div>
-<div xml:id="div-letter-0080" type="letter" corresp="#letter-0080">
-<opener><pb xml:id="page-290" n="240"/><dateline rend="right"><hi rend="smallcaps">Ferney</hi>, July 28, 1774.</dateline></opener>
+<pb xml:id="page-290" n="240"/><p rend="dateline"><hi rend="smallcaps">Ferney</hi>, July 28, 1774.</p>
 <p rend="indented">M. de Condorcet tells me that he was never really happy until the day M. Turgot was made Secretary of State.</p>
 <p rend="indented">And I, too, sir, am grieved to be so near death now that I see virtue and reason in their rightful place. You will be overwhelmed with heartfelt congratulations—and you will be one of the very few who has ever received them. Far be it from me to ask you to reply to me: but while I chant a <hi rend="italic">De Profundis</hi> with my failing breath for myself, I sing aloud <hi rend="italic">Te Deum laudamus</hi> for you.</p>
 <closer><signed rend="indented">The happy old dying invalid of Ferney,</signed></closer>
 </div>
-<div xml:id="div-unit-0124" type="editorial">
+<div xml:id="div-letter-0081" type="letter" corresp="#letter-0081">
 <head rend="center">LXXV</head>
 <head rend="center">ON TURGOT AND FERNEY</head>
 <head rend="center"><hi rend="italic">To M. le Marquis de Condorcet</hi></head>
 <p rend="indented">[<hi rend="italic">The Marquis de Condorcet</hi>, the Aristocrat of the philosophic party, who poisoned himself to escape the guillotine, had been made in 1773, Perpetual Secretary of the Academy of Sciences. In 1770 he had stayed at Ferney with d'Alembert—to whom Voltaire alludes in this letter as “M. Bertrand”—one of d'Alembert's pen-names. Voltaire had the greatest admiration for the modest <pb xml:id="page-291" n="241"/> and disinterested character of the young marquis—Condorcet was twenty-seven at the date of the visit to Ferney—as well as for his splendid intellectual gifts and his noble ideals. “You will see great days,” the old patriarch wrote to him: “you will make them.”</p>
 <p rend="indented">“<hi rend="italic">Ferney has become . . . a pretty considerable place . . . not unworthy the attention of the Ministry.</hi>” By 1770 Voltaire had added watchmaking to the silk-weaving industry he had established at Ferney (see Letter LXVII, “On the Advantages of being a Brute”). The quarrels of Geneva (which France had only made worse by “mediation” in the form of an armed force—see Letter LXV, “On the Jesuits and Catherine the Great”) threatening the existence of the watchmakers there, Voltaire had bidden them welcome at Ferney: and presently built “<hi rend="italic">the large and lofty stone houses</hi>” he here alludes to for their benefit. He had not only, as he says, “<hi rend="italic">never asked the government for money</hi>” for the scheme, but had most liberally expended his own. He succeeded in obtaining for his colonists their exemption from a pitiless tax which extorted from the poverty-stricken province of Gex alone forty thousand livres annually. All the same, after his death, Ferney did in a measure relapse into the “<hi rend="italic">nothingness whence</hi>” he “<hi rend="italic">drew it,</hi>” and its industries declined: <pb xml:id="page-292" n="242"/> and “Ferney-Voltaire” is now only a straggling suburb of Geneva, with Voltaire’s charmingly situated house and grounds and the church he built perpetual objects of interest, for the memories which cling to them.]</p>
-</div>
-<div xml:id="div-letter-0081" type="letter" corresp="#letter-0081">
-<opener><dateline rend="right"><hi rend="smallcaps">Ferney</hi>, August 12, 1774.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Ferney</hi>, August 12, 1774.</p>
 <p rend="indented">I shall not write to you to-day, Mr. Secretary, on either arts or sciences, which are beginning to be much indebted to you, nor on liberty of conscience, of which people have tried to rob the arts which cannot exist without it.</p>
 <p rend="indented">You filled my heart with a holy joy when you told me that the King replied to the malcontent who told him that M. Turgot was an Encyclopædist. “He is an honest and an enlightened man: that suffices me.” Did you ever know before kings and sensible men to be of the same mind?</p>
 <p rend="indented">Do you know, and does M. Bertrand know, that the poet Kien-long, Emperor of China, said as much a few years ago? Did you read in the thirty-second miscellany of (so-called) <hi rend="italic">Curious and Edifying Letters</hi> the letter of a fool of a Jesuit called Benoît to a rogue of a Jesuit called Dugad? It is there stated in so many words that a Minister of State accusing a mandarin of being a Christian, the Emperor Kien-long asked: “Does his province <pb xml:id="page-293" n="243"/> complain of him?"—"No."—"Does he render justice impartially?"—"Yes."—"Has he failed in his duty towards the state?"—"No."—"Is he a good father to his family?"—"Yes."—"Why then dismiss him for a mere nothing?"</p>
@@ -1769,7 +1714,7 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">I should much like to consult you both on an affair which would interest you much more, and <pb xml:id="page-294" n="244"/> on which I am about to embark—I appeal to God and to yourselves to help its success. It concerns our good cause: so I can count on your aid. My respects to you both.</p>
 <closer><signed rend="right">V.</signed></closer>
 </div>
-<div xml:id="div-unit-0126" type="editorial">
+<div xml:id="div-letter-0082" type="letter" corresp="#letter-0082">
 <head rend="center">LXXVI</head>
 <head rend="center">ON LORD CHESTERFIELD'S LETTERS</head>
 <head rend="center"><hi rend="italic">To Mme. du Deffand</hi></head>
@@ -1777,9 +1722,7 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented"><hi rend="italic">"The great Moncrief, who found out how to please an august Queen of France."</hi> Moncrief wrote <hi rend="italic">Essays on the Art and Necessity of Being Pleasant,</hi> <pb xml:id="page-295" n="245"/> and the “august Queen” was Marie Leczinska, Queen of France—from whose privy purse (when she was a young bride at the French Court) Voltaire had received a pension.</p>
 <p rend="indented">“<hi rend="italic">Verses . . . with which Louis XVI is deluged</hi>”—on his accession, which had taken place three months earlier, in May, 1774.</p>
 <p rend="indented">“<hi rend="italic">The Duc de Choiseul</hi>”—the French minister, and an old friend of Voltaire's. The Duc had helped him in the affair of Calas and had protected his colony of watchmakers and weavers at Ferney. His wife was the airy, fairy little Duchess—the dear “grandmère” of Mme. du Deffand, who had coquetted with Voltaire over the first pair of silk stockings woven in the Ferney looms (see Letter LXVII, “On the Advantages of Being a Brute”). Since then, in 1770, Choiseul had been disgraced and exiled through the machinations of Mme. Dubarry, the royal mistress; and Voltaire had considerably offended him by embracing the policy of his supplanter, Maupeou.]</p>
-</div>
-<div xml:id="div-letter-0082" type="letter" corresp="#letter-0082">
-<opener><dateline rend="right">August 12, 1774.</dateline></opener>
+<p rend="dateline">August 12, 1774.</p>
 <p rend="indented">. . . I much wish someone would translate at once and well, for your amusement, the two large volumes of <hi rend="italic">The Letters of Lord Chesterfield to his Son, Philip Stanhope.</hi> They mention a number of people you used to know. There is much <pb xml:id="page-296" n="246"/> to be learnt from them: I am not sure they do not form the best educational manual that has ever appeared. They describe all the courts of Europe. Lord Chesterfield tries to make his son an agreeable person, and shows him the means to become so—and his are better means than those of the great Moncrief, who found out how to please an august Queen of France.</p>
 <p rend="indented">Save for the admission that he knew how to make himself pleasant, Lord Chesterfield has nothing good to say about Marshal Richelieu. He advises his son to become the lover of Mme. du P. . ., and sends him a model of a declaration of love.</p>
 <p rend="indented">I am much afraid that the book will be translated by some clerk in the shop of your friend Fréron, or some other bookseller's hack.</p>
@@ -1787,28 +1730,24 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">It seems to me that when Louis XIV took the reins of government he had better verses addressed to him than those with which Louis XVI is deluged. I sincerely pity him if he is obliged to read them.</p>
 <p rend="indented">You are sure to know, madam, if the Duc de Choiseul has really bought the post of High Chamberlain from the Duc de Bouillon. It would be a good thing indeed that a man of such loftiness of character should be perpetually bound to the Court by some high office. I must end, having no more paper. My tenderest respects.</p>
 </div>
-<div xml:id="div-unit-0128" type="editorial">
+<div xml:id="div-letter-0083" type="letter" corresp="#letter-0083">
 <head rend="center">LXXVII</head>
 <head rend="center">ON THE SAME SUBJECT</head>
 <head rend="center"><hi rend="italic">To Frederick the Great</hi></head>
 <p rend="indented">[Since their rupture in 1753, Frederick and Voltaire had corresponded; sometimes with the old warmth and fervour; sometimes coldly and politely; and once, for four years, not at all. Both knew if they met they would quarrel again: they feared and distrusted each other; and yet <pb xml:id="page-298" n="248"/> sometimes, as this letter shows, yearned for each other like estranged lovers.]</p>
-</div>
-<div xml:id="div-letter-0083" type="letter" corresp="#letter-0083">
-<opener><dateline rend="right">August 16, 1774.</dateline></opener>
+<p rend="dateline">August 16, 1774.</p>
 <p rend="indented">. . . A collection of the late Lord Chesterfield's Letters has appeared, addressed to a natural son to whom he was as much attached as Mme. de Sévigné to her daughter.</p>
 <p rend="indented">These letters very often speak of you: and do you the full justice which posterity will also render you.</p>
 <p rend="indented">The approval of Lord Chesterfield has very great weight, not only because he belongs to a nation who hardly ever flatters even kings, but because he is perhaps the most graceful of English writers. His admiration for you is above suspicion: he had no idea that his Letters would be published after his death and after that of his son. They are being translated into French in Holland: so your Majesty will soon see them. You will read the only Englishman who ever advocated the art of pleasing as the first duty in life.</p>
 <p rend="indented">I never forget that my dearest wish was once to please you: it is now not to displease you. Everything grows feeble with age: the more one realises one's shortcomings, the more modest one grows.</p>
 <closer><signed rend="right">Your old admirer.</signed></closer>
 </div>
-<div xml:id="div-unit-0130" type="editorial">
+<div xml:id="div-letter-0084" type="letter" corresp="#letter-0084">
 <pb xml:id="page-299" n="249"/><head rend="center">LXXVIII</head>
 <head rend="center">A PLEA FOR THE POOR</head>
 <head rend="center"><hi rend="italic">To M. de Fargès</hi></head>
 <p>[<hi rend="italic">M. de Fargès</hi> was a Councillor of State. Voltaire gives here an admirable description of the condition of the country poor before the Revolution, and as in the sarcastic letter to M. de Bastide (Letter LIX, “Social Conditions in 1760”), emphasises the fact that it was not the iniquitous extortion of the taxes which so much oppressed them but the cruel and rapacious character of the tax-gatherers. Gabelle, or the tax on salt, to which Voltaire alludes here, compelled each person to buy seven pounds of salt per year at a price which varied in the different provinces and was everywhere iniquitously high. The nobles, clergy, and government officials were exempt from the tax altogether. No wonder in a very few years’ time the Gabelle was as a fuse to the fire of the Great Revolution.]</p>
-</div>
-<div xml:id="div-letter-0084" type="letter" corresp="#letter-0084">
-<opener><dateline rend="right"><hi rend="smallcaps">Ferney</hi>, February 25, 1776.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Ferney</hi>, February 25, 1776.</p>
 <p>Sir, since thou wouldest enter into judgment with thy servant, permit me to tell you that, if I could leave my bed (being now in my eighty-third year and the victim of many maladies), I should <pb xml:id="page-300" n="250"/> hasten to throw myself at the feet of the Controller General: and this is how I should prose on the subject of our states:</p>
 <p rend="indented">Our little country is worse than Sologne and the miserable land of Champagne, and worse than the worst parts of Bordeaux.</p>
 <p rend="indented">Notwithstanding our wretchedness, eight and twenty parishes sang eight and twenty Te Deums and shouted eight and twenty “Long live the Kings and Long live M. Turgots!” We shall cheerfully pay thirty thousand francs to the sixty sub-kings—being delighted to die of hunger, on condition of being delivered from seventy-eight rogues who made us die of rage.</p>
@@ -1826,14 +1765,12 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">Here, sir, are a few of the grievances which I should lay at the feet of the Controller General: but I say nothing, I leave all to you. If you are moved by my reasonings you will deign to be so good as to present them: if they strike you as bad, you will whistle them down the wind.</p>
 <p rend="indented">If I do wrong to plead thus feebly for my country, I am undoubtedly right in saying that I have the greatest esteem for your enlightenment, the greatest gratitude for your kindnesses, and that I am, with the sincerest respects, yours, sir, etc., etc.</p>
 </div>
-<div xml:id="div-unit-0132" type="editorial">
+<div xml:id="div-letter-0085" type="letter" corresp="#letter-0085">
 <pb xml:id="page-303" n="253"/><head rend="center">LXXIX</head>
 <head rend="center">ON THE TIMES OF LOUIS XIV</head>
 <head rend="center"><hi rend="italic">To the Baron de Faugères</hi></head>
 <p>[<hi rend="italic">The Baron de Faugères</hi> was a naval officer. “<hi rend="italic">Castel suggests an ocular harpsichord.</hi>” Castel was a French mathematician who experimented in natural philosophy. In his book called <hi rend="italic">Optique des Couleurs</hi> or Treatise on the Melody of Colours, which he produced in 1740, he had tried to illustrate his subject by the <hi rend="italic">clavecin oculaire</hi> or ocular harpsichord. “<hi rend="italic">Needham fancies he can produce eels out of a little soup.</hi>” Needham was an English eighteenth century scientist and a friend of Buffon. Like Castel, he was a Jesuit—which may account for some of Voltaire’s contempt for their theories. Needham’s—“that animals are brought to life from putridity”—is certainly not so ridiculous as Voltaire supposed it. Needham wrote in a most involved and confusing style, which would be particularly objectionable to Voltaire’s lucid mind. “ <hi rend="italic">The great epoch in which the brutes, our ancestors, developed into men.</hi>” It is certainly something of an anomaly to find a Voltaire laughing, in advance, at the Darwinian theory.]</p>
-</div>
-<div xml:id="div-letter-0085" type="letter" corresp="#letter-0085">
-<opener><pb xml:id="page-304" n="254"/><dateline rend="right">May 3, 1776.</dateline></opener>
+<pb xml:id="page-304" n="254"/><p rend="dateline">May 3, 1776.</p>
 <p rend="indented">You suggest, sir, that round the statue raised at Montpellier—<hi rend="italic">To Louis XIV, after his death</hi>—monuments should be erected to those great men who were the glory of his age.</p>
 <p rend="indented">This project is the more commendable because for many years there seems to have been a sort of cabal among us to depreciate everything which made that splendid epoch renowned. People are weary of the masterpieces of the last century. They try to belittle Louis XIV and reproach him for his desire for fame. The nation in general prefers Henri IV to the exclusion of all other kings: I do not ask if this is from justice or from inconstancy—if, being better informed, we know more of the truth to-day than we did formerly. I merely remark that we do not in the slightest degree realise or feel the grandeur of the times which succeeded the age of Henri IV.</p>
 <p rend="indented">“They have not understood me,” said that good Prince to the Duc de Sully. “But they will regret me.” And, indeed, sir, to speak plainly, he was much hated and little respected. Fanaticism, which persecuted him from his cradle, conspired a hundred times against his life, and finally snatched it from him by the hand of an ex-monk—a madman, maddened by the madness of the League. We now make him honourable amends: <pb xml:id="page-305" n="255"/> we prefer him above all our kings, although we kept, and kept for a long time, many of the bigotries which inspired the assassination of our hero.</p>
@@ -1845,45 +1782,39 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">No sooner has the real philosopher calculated the effect of sun and moon on the tides, than romancers, inferior to Cyrano de Bergerac, write the history of the time when the seas covered the Alps and the Caucasus, and when the universe was only peopled by fish. They end by discovering that very remarkable epoch in which the brutes, our ancestors, developed into men, and their forked tails turned into thighs and legs. This is the great service which Telliamed has recently rendered to humankind. Thus, sir, in all the arts and in all the professions, impostors succeed the genuine discoverers: heaven grant that all the charlatans we have to do with may be as harmless!</p>
 <pb xml:id="page-308" n="258"/><p rend="indented">Success to your project! May all the men of genius who adorned the time of Louis XIV reappear in the square at Montpellier, round that king's statue, and inspire the ages to come to an eternal emulation!</p>
 </div>
-<div xml:id="div-unit-0134" type="editorial">
+<div xml:id="div-letter-0086" type="letter" corresp="#letter-0086">
 <head rend="center">LXXX<lb/>ON MONARCHY AND DESPOTISM</head>
 <head rend="center"><hi rend="italic">To M. Gin</hi></head>
 <p>[<hi rend="italic">M. Gin</hi> had sent Voltaire his book, <hi rend="italic">The True Principles of French Government as shown by Reason and Facts.</hi> The "<hi rend="italic">Esprit des Lois</hi>" (see Letter LVI, "A Profession of Faith," in which Voltaire also alludes to Montesquieu's inaccuracy, which was notorious). "<hi rend="italic">The President Montesquieu</hi>" (see Letter XXV, "On Corneille and Racine"). He was President of the Parliament of Bordeaux.]</p>
-</div>
-<div xml:id="div-letter-0086" type="letter" corresp="#letter-0086">
-<opener><dateline rend="right"><hi rend="smallcaps">Ferney</hi>, June 20, 1777</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Ferney</hi>, June 20, 1777</p>
 <p rend="indented">Omitting, sir, the compliments and thanks I owe you, I begin by assuring you that <hi rend="italic">despotic</hi> and <hi rend="italic">monarchical</hi> are the same thing in the hearts of all sensible people. Despot (<hi rend="italic">herus</hi>) means <hi rend="italic">master</hi>, and <hi rend="italic">monarch</hi> means <hi rend="italic">sole master</hi>, which is very <pb xml:id="page-309" n="259"/> much stronger. A fly is monarch of the imperceptible animalculæ which it devours: the spider is the monarch of flies, for it ensnares and eats them: the swallow rules the spiders: shrikes devour the swallows: and so on indefinitely. You will not deny that the farmers-general devour us: you know the world has been so made since the beginning. But that does not prevent your being most clearly in the right as opposed to the Abbé Mably, and I return you, sir, therefore a thousand thanksgivings. You arrive at the happy conclusion that monarchical government is the best of all; always provided that Marcus Aurelius is the monarch: for, otherwise, what can it matter to a man if he is devoured by a lion or by a tribe of rats? You appear, sir, to be of the opinion of the <hi rend="italic">Esprit des Lois</hi> in granting that the principle of monarchies is <hi rend="italic">honour</hi>, and the principle of republics <hi rend="italic">virtue</hi>. If you were not of this opinion, I should be of the Duc d'Orléans' (the Regent's), who said of one of our great lords: "He is the most perfect courtier—he has neither humour nor honour": and I should tell President Montesquieu, if he hopes to prove his thesis by saying that under a monarchy men seek honours, that they seek them much more in republics. In them, they strive for the honour of ovation, triumph, and all the dignities. The office of doge <pb xml:id="page-310" n="260"/> at Venice is sought after, though this indeed is <hi rend="italic">vanitas vanitatum.</hi> For the rest, sir, you are much more methodical than that <hi rend="italic">Esprit des Lois</hi> and you never misquote as he does—a most important point: for if you verify Montesquieu's quotations you will hardly find four that are correct; I once had the pleasure of testing them. I am much edified, sir, by your discretion in stopping at the reign of Henri IV: all you say affords me information: and I take the liberty of divining much that you do not say. Above all, I am grateful to you for your way of thinking and of expressing yourself on the barbarous method of government called feudal: it is brought to perfection, it is said, at the diet of Ratisbon: it is abhorred half a mile from me here, to my right and to my left; but, by one of our French anomalies, it exists in all its horrors just behind my kitchen garden, in the valleys of Mount Jura; and twelve thousand slaves of the canons of Saint Claud, who have had the insolence to desire to be subjects of the king instead of serfs and beasts of burden to the monks, have just lost their suit to the Parliament of Besançon, while many councillors of the Grand Chambre have lands where the mortmain is in full vigour, in spite of the edicts of our kings: so uniform is jurisprudence amongst us! Finally, your book instructs and cheers me: I love its</p>
 </div>
-<div xml:id="div-unit-0136" type="apparatus">
+<div xml:id="div-unit-0103" type="apparatus">
 <pb xml:id="page-311" n="311"/><figure type="illustration"><figDesc>illustration on p. 311</figDesc></figure>
 <p rend="caption"><hi rend="smallcaps">Voltaire as an Old Man</hi><lb/><hi rend="italic">From the portrait by Schoff</hi></p>
 </div>
 <div xml:id="div-letter-0087" type="letter" corresp="#letter-0087">
 <pb xml:id="page-313" n="261"/><p>method and style. You do not write to parade your wit, as does the author of the <hi rend="italic">Esprit des Lois</hi> and the <hi rend="italic">Lettres Persanes:</hi> you use your wits to discover the truth. Judge then, sir, of my indebtedness to you for the honour you have done me in sending me your work: judge if I have read it with pleasure and if I am merely employing an empty formula when I assure you that I have the honour to be, with the deepest esteem and the most heartfelt gratitude, etc., etc.</p>
 </div>
-<div xml:id="div-unit-0138" type="editorial">
+<div xml:id="div-letter-0088" type="letter" corresp="#letter-0088">
 <head rend="center">LXXXI</head>
 <head rend="center">A DYING TESTIMONY</head>
 <head rend="center"><hi rend="italic">To the Abbé Gaultier</hi></head>
 <p>[In 1778, Voltaire, being now in his eighty-fourth year, decided, against the advice of his best friends, to leave Ferney on a visit to Paris. He was overwhelmed with homage and attentions—in one day alone he received three hundred visitors. By Sunday, February 15th, he was too ill to leave the house. On that day, as recorded in this letter, <hi rend="italic">Benjamin Franklin</hi>—the American statesman, philosopher, diplomatist, now seventy-two years old, and in Paris on a diplomatic mission to secure foreign assistance for America in the war she was then waging with Great Britain—brought his <pb xml:id="page-314" n="262"/> grandson to receive the patriarch's blessing. (Franklin's efforts had been so far successful that on February 6, 1778,—a week or two before this letter was written,—Louis XVI had signed a treaty of alliance with the United States—see Letter LXXXII, "Paris: 1778.") It is said that Voltaire and Franklin talked of the government and constitution of that free country. "If I were forty," said Voltaire, "I should go and settle in your happy fatherland."</p>
 <p rend="indented">On February 20th Voltaire received a letter from the Jesuit <hi rend="italic">Abbé Gaultier</hi>, who was anxious for the salvation of the sceptic's soul and that he himself should have the prestige of saving it. To this letter Voltaire made the following reply, and on February 21st accorded Gaultier a long interview, in which he accepted the abbé as his confessor—since to ensure decent and Christian burial a confessor was a necessary evil—and promised to see him again. Gaultier played no insignificant part in the extraordinary scenes which took place round Voltaire's deathbed: and in the struggle for his conversion showed more mercy and moderation than some of his brethren.]</p>
-</div>
-<div xml:id="div-letter-0088" type="letter" corresp="#letter-0088">
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, February 21, 1778.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Paris</hi>, February 21, 1778.</p>
 <p rend="indented">Your letter, sir, seems to me to be that of an honest man: that is sufficient to determine me to <pb xml:id="page-315" n="263"/> receive the honour of a visit from you on the day and at the hour most convenient to you. I shall say to you exactly what I said when I gave my blessing to the grandson of the wise and famous Franklin, the most honoured of American citizens: I spoke only these words, “<hi rend="italic">God and liberty.</hi>” All present were greatly moved. I flatter myself that you share these aspirations.</p>
 <p rend="indented">I am eighty-four years of age: I am about to appear before God, the Creator of all the universe. If you have anything to say to me, it will be my duty and privilege to receive you, despite the sufferings which overwhelm me.</p>
 <closer><salute rend="indented">I have the honour to be, etc.,</salute><signed rend="right"><hi rend="smallcaps">Voltaire.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0140" type="editorial">
+<div xml:id="div-letter-0089" type="letter" corresp="#letter-0089">
 <head rend="center">LXXXII</head>
 <head rend="center">PARIS: 1778</head>
 <head rend="center"><hi rend="italic">To the Marquis de Florian at Bijou-Ferney</hi></head>
 <p>[<hi rend="italic">The Marquis de Florian</hi> was the second husband of Voltaire’s niece, Mme. de Fontaine. After her death in 1772 he had married a pretty little Protestant whom he had met at Voltaire’s home: and the couple had taken up their abode at a little house near Ferney. <pb xml:id="page-316" n="264"/> “<hi rend="italic">Half dead this last fortnight since his accident.</hi>” On February 25th Voltaire had broken a blood-vessel and had been alarmingly ill.</p>
 <p>“<hi rend="italic">You know there has been much talk of war</hi>” —against England, France having pledged herself to intervene as the ally of America (see Letter LXXXI, “A Dying Testimony”).</p>
 <p>“<hi rend="italic">Necker’s lottery tickets.</hi>” Necker was Director General of the disastrous finances of France.]</p>
-</div>
-<div xml:id="div-letter-0089" type="letter" corresp="#letter-0089">
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, March 15, 1778.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Paris</hi>, March 15, 1778.</p>
 <p>The old invalid has been unable to write sooner to M. and Mme. de Florian. He has been half dead this last fortnight since his accident; and he has had to endure all the miseries inevitable to such a condition. He seizes a moment when he is somewhat easier to tell M. and Mme. de Florian that if he had quite died it would have been with the warmest affection for them and trusting them not to forget him.</p>
 <p>You know there has been much talk of war in Paris: that the King has declared, through his Ambassador in London, that he desires peace, but that he must insist on his flag and commerce being respected. The treaty with the Americans is made public. I saw M. Franklin at my own house, as I was too ill to visit him: he asked me to give my blessing to his grandson. I gave it, <pb xml:id="page-317" n="265"/> saying only “<hi rend="italic">God and liberty</hi>”—in the presence of twenty people who were in my room.</p>
 <p rend="indented">The English Ambassador came about an hour later. The kindness I have received both from the Court and from the city has been far above my hopes, and even my wishes: but I have not found the time a favourable one to ask for pecuniary help for my colony. The King is too deeply in debt. The fleet has cost an immense sum. Eighty out of a thousand of Necker’s lottery tickets are worthless. There is no longer any question of economy—only a desire for vengeance. M. d’Estaing is in command of a formidable squadron, and M. de la Motte-Piquet of another.</p>
@@ -1891,14 +1822,12 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">I beg M. de Florian’s pardon for entering into these details. I would much rather have had a road made outside his house: but I see it is easier to cure oneself of spitting blood than to get money out of an involved government which has not even the wherewithal to pay poor Racle. Here, <pb xml:id="page-318" n="266"/> there is everywhere revolting luxury and frightful misery. Paris is the headquarters of all the follies, blunders, and horrors conceivable.</p>
 <p rend="indented">When shall I see Ferney again and embrace the master and mistress of Bijou!</p>
 </div>
-<div xml:id="div-unit-0142" type="editorial">
+<div xml:id="div-letter-0090" type="letter" corresp="#letter-0090">
 <head rend="center">LXXXIII</head>
 <head rend="center">FAREWELL</head>
 <head rend="center"><hi rend="italic">To Frederick the Great</hi></head>
 <p>[This is the last letter of the long and famous correspondence between Frederick and Voltaire. Old Frederick, like young Frederick, could still take flattery in immense doses: and old Voltaire, like young Voltaire, does not scruple to administer them. But his last letter to “Frederick the Immortal” is, like his first, the letter of the man who more than any other of his generation loved that men should be enlightened, and had worked all his life that those “paid to blind them” should not always be able to “put out their eyes.”]</p>
-</div>
-<div xml:id="div-letter-0090" type="letter" corresp="#letter-0090">
-<opener><dateline rend="right"><hi rend="smallcaps">Paris</hi>, April 1, 1778.</dateline></opener>
+<p rend="dateline"><hi rend="smallcaps">Paris</hi>, April 1, 1778.</p>
 <p rend="indented">Sire, the French gentleman who will present this letter to your Majesty, and who seems to be worthy of entering your presence, will tell you <pb xml:id="page-319" n="267"/> that I have not had the honour of writing to you for so long a time because I have been engaged in avoiding two things which pursue me in Paris—excitement and death.</p>
 <p rend="indented">It is really amusing that at eighty-four years of age I should have been saved from two mortal maladies. My good fortune comes from being under your protection: I owe my reputation to you.</p>
 <p rend="indented">I have been the witness—with surprise and a deep satisfaction—at the performance of a new tragedy, of the public (who for thirty years regarded Constantine and Theodosius as models of princes and even of saints) rapturously applauding verses which proclaimed the two of them to be no better than superstitious tyrants. I have seen twenty similar proofs of the progress which philosophy has made at last in all ranks. I do not despair, in a month or two, of having a panegyric pronounced on the Emperor Julian; and assuredly, if the Parisians remember that he rendered justice among them like Cato, and that he fought for them like Cæsar, they should be eternally grateful to him.</p>
@@ -1906,10 +1835,10 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">Outlive me to establish all the empires you have founded! May Frederick the Great be Frederick the Immortal!</p>
 <closer><salute rend="indented">Accept my unalterable devotion.</salute><signed rend="right"><hi rend="smallcaps">Voltaire.</hi></signed></closer>
 </div>
-<div xml:id="div-unit-0144" type="editorial">
+<div xml:id="div-unit-0108" type="editorial">
 <head rend="center">LXXXIV</head>
 </div>
-<div xml:id="div-unit-0145" type="editorial">
+<div xml:id="div-letter-0091" type="letter" corresp="#letter-0091">
 <head rend="center">THE LAST LETTER</head>
 <head rend="center"><hi rend="italic">To the Comte de Lally</hi></head>
 <p>[General Lally, the father of Lally-Tollendal, the man to whom this letter is addressed, was an Irish Jacobite who had plotted in France for the restoration of the Stuarts: and in India, unsuccessfully, against the British East India Company.</p>
@@ -1918,9 +1847,7 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
 <p rend="indented">By a last mighty effort, the dying man recalled the splendid intellect, now waning fast, which had so nobly served him, and dictated the following letter to the Comte de Lally-Tollendal. Then he made someone write in a large hand on a sheet of paper, which he caused to be pinned to his bed hangings, the following words:</p>
 <quote><p rend="indented">“On May 26th, the judicial murder committed by Pasquier (Councillor to the Parliament) upon the person of Lally was avenged by the Council of the King.”</p></quote>
 <p rend="indented">It was his last conscious act. He died four days later, on May 30, 1778. There have been few men with whom the ruling passion of hatred of tyranny, oppression, injustice, has been so strong in death: and better men, who, in their last hours <pb xml:id="page-322" n="270"/> have found it impossible to think of any soul but their own.]</p>
-</div>
-<div xml:id="div-letter-0091" type="letter" corresp="#letter-0091">
-<opener><dateline rend="right">May 26, 1778.</dateline></opener>
+<p rend="dateline">May 26, 1778.</p>
 <p rend="indented">The dying man returns to life on hearing this great news: he tenderly embraces M. de Lally: he sees that the King is the defender of justice: and he dies content.</p>
 </div>
 </div>
@@ -1928,7 +1855,7 @@ DE L'ACADEMIE FRANCOISE</figDesc></figure>
     <back>
       <div xml:id="sec-sec-03" type="backmatter">
 <head>Publisher&#x27;s Catalogue</head>
-<div xml:id="div-unit-0147" type="apparatus">
+<div xml:id="div-unit-0110" type="apparatus">
 <pb xml:id="page-323" n="283"/><head rend="center"><hi rend="italic">A Selection from the</hi><lb/><hi rend="italic">Catalogue of</hi></head>
 <p rend="imprint"><hi rend="bold">G. P. PUTNAM'S SONS</hi></p>
 <milestone unit="section" rend="ornament"/>

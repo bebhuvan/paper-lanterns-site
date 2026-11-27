@@ -12,6 +12,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Claude M. Fuess (ed.)",
  "year": 1914,
  "archive_id": "selectedenglishl00fues",
@@ -333,27 +336,27 @@
   {
    "format": "epub",
    "file": "selected-english-letters-1914.epub",
-   "bytes": 137600,
-   "sha256": "30558fd93f2ec7f4f5d9952f5caf7a829d3b4b9583d0570aec2d37f00d7d67b3"
+   "bytes": 137387,
+   "sha256": "39ce139bbef3673a72cc567a9439fec714e122d95b99280dc931e9c262bd1824"
   },
   {
    "format": "markdown",
    "file": "selected-english-letters-1914.md",
-   "bytes": 209185,
-   "sha256": "1d7f5366f69adeec84d8b5ff8374762b1be3355779af53e42f138fef290112fa"
+   "bytes": 209217,
+   "sha256": "4cc9f74da6588296102dba507ecae8912865e6c7b61881ca78aa5a751c10296d"
   },
   {
    "format": "tei",
    "file": "selected-english-letters-1914.tei.xml",
-   "bytes": 264696,
-   "sha256": "2ab9d4b4a0c046e7da3a0a09ef38aae3ba84bff09e67b87cdee002bc489fca48"
+   "bytes": 262522,
+   "sha256": "0936189f52c43a84895044812eb38bbab79f4e440c9667802035f73f7ea33efa"
   }
  ],
  "scan_base": "https://archive.org/download/selectedenglishl00fues/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:23:52Z",
-  "source_ast_sha256": "964c853a0fc6838aef9911117d7ddfef2d4f728b31a9dd5acd8298f5bb7a38ab",
+  "compiled_at": "2026-11-27T03:45:27Z",
+  "source_ast_sha256": "1d6ab2d384855b6dd879f60e4e3b93ac3490c000b52eb8d70967ef1c657f179d",
   "hugo_renderer_version": "1.0.0"
  }
 }

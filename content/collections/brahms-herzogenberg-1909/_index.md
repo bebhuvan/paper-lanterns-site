@@ -16,6 +16,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Johannes Brahms, Heinrich von Herzogenberg, Elisabet von Herzogenberg, Max Kalbeck (ed.), Hannah Bryant (tr.)",
  "year": 1909,
  "archive_id": "johannesbrahmshe00brah_0",
@@ -65,7 +68,7 @@
   "total_pages": 454,
   "p1_proofed": 0,
   "verified": 0,
-  "machine_reread": 0
+  "machine_reread": 2
  },
  "page_kinds": "fffffffffffffffffffffffff.LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLiiiiiiiii",
  "page_runs": [
@@ -211,27 +214,27 @@
   {
    "format": "epub",
    "file": "brahms-herzogenberg-1909.epub",
-   "bytes": 422179,
-   "sha256": "e39146ee73b3f68912bb40d21f68a55a611a1694405b0e0cabb23ad45f70ca3e"
+   "bytes": 422180,
+   "sha256": "bdfb39e5a866eb0623d9e42780c48942a9db1f7bd8ba6a5250468d2321a057eb"
   },
   {
    "format": "markdown",
    "file": "brahms-herzogenberg-1909.md",
-   "bytes": 782245,
-   "sha256": "e7ca870e26efd88dec823b15cf2fd8a1de4b83bb7d3b9d10e518f46adc707822"
+   "bytes": 782251,
+   "sha256": "d0fae78eb495d2df0fb746d6c315f6dd1c24c4fd77e0630b7ee526ec12ea5dfd"
   },
   {
    "format": "tei",
    "file": "brahms-herzogenberg-1909.tei.xml",
-   "bytes": 1117816,
-   "sha256": "1d5f1d31fa2f97b3817ea30cfc72601f6aabd36e8db818fde938f44a109ee64a"
+   "bytes": 1117828,
+   "sha256": "73d95fb1dae6c3350b06bffc15eb38dbba528524db477ebd842dc86b4f073152"
   }
  ],
  "scan_base": "https://archive.org/download/johannesbrahmshe00brah_0/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-25T14:07:57Z",
-  "source_ast_sha256": "65615b4ff7309f60828dae43af6b6b41a77548285654955c9f30579250947fdc",
+  "compiled_at": "2026-11-27T05:13:49Z",
+  "source_ast_sha256": "fbb3b382342ccd111035e35e3658da13e67448ceb9faf73ea7cbaf81866e4538",
   "hugo_renderer_version": "1.0.0"
  }
 }

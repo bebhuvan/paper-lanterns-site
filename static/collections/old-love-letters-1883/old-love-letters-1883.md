@@ -2124,13 +2124,13 @@ Your loyal and most assured servant,
 
 H. no other (A. B.) seeks, R.
 
-### *Anne Boleyn to Henry VIII.*
+### Letter 90: Anne Boleyn → Henry VIII
+
+#### *Anne Boleyn to Henry VIII.*
 
 I have not been able to find any English copy from the original of the following letter. It is translated from a Life of Queen Elizabeth, in Italian, by Gregorio Leti, who claims that it is from authentic sources. Miss Strickland, in her Life of Anne Boleyn, and some other historians, have doubted its genuineness. Miss Strickland refuses to accept it on the ground that it is “too fulsome” a letter for Anne Boleyn’s lofty pride of character to dictate. But this is not good ground for disproving such a letter in the age of Henry VIII. or Queen Elizabeth, when such fulsome flattery of the sovereign was so common even from noble minds. This letter sounds rather like the natural adulation of a young and ambitious girl who had been flattered by the boldly expressed admiration of a great king. Leti dates it in 1519, but this would certainly be much too early, as she did not return from France, where she had passed part of her girlhood, till long after that time.
 
 It is supposed that King Henry met her at her father’s house not long after her return, and that it was through his influence she was made maid of honour to Queen Katherine.
-
-### Letter 90: Anne Boleyn → Henry VIII
 
 No date.
 
@@ -2146,11 +2146,11 @@ Your majesty's very obliged and very obedient servant, without any reserve,
 
 * * *
 
-### *Anne Boleyn's Last Letter to Henry VIII.*
+### Letter 91: Anne Boleyn → Henry VIII
+
+#### *Anne Boleyn's Last Letter to Henry VIII.*
 
 As a proper accompaniment to King Henry's love-letters, we put the last letter of Anne Boleyn to her royal husband, who had now ceased to be her lover, written from her prison in the Tower just before her execution. It is the letter of a woman without hope, who knows well the man to whom she writes, and is not afraid to speak clearly and bravely. There has been some slight doubt expressed as to the authenticity of this letter as well as of the foregoing; but it seems plain to me no one but Anne could have written it, and her allusion to Jane Seymour as “that party, for whose sake I am now as I am, whose name I could some while since have pointed unto; your Grace being not ignorant of my suspicions therein,” is in true womanly spirit, and shows that there had been accusations on her part before the king began those counter-accusations which led to the unhappy queen’s death.
-
-### Letter 91: Anne Boleyn → Henry VIII
 
 <span class="small-caps">The Tower</span>, May 6, 1536.
 
@@ -2168,15 +2168,15 @@ Your most loyal and ever faithful wife,
 
 * * *
 
-### *Henry VIII. to Jane Seymour.*
+### Letter 92: Henry VIII → Jane Seymour
+
+#### *Henry VIII. to Jane Seymour.*
 
 The following is the only other love-letter from Henry VIII. to any of his royal favourites, which is extant. This was written to Jane Seymour, Anne's successor to the dangerous position of queen, while Anne was in the Tower awaiting her death.
 
 Jane Seymour died at the birth of her son the year following her marriage. The value of Henry's protestations of affection to any woman may be judged by this brief extract from old John Heywood's account of her death: —
 
 “*News was sent to the king that her life was in great peril, nay, the issue was driven to so great an exigeance that either mother or child must necessarily perish; desiring the king to decide in so great an emergency. His answer was the mother should then die, for certain he was he could have more wives, but uncertain whether to have more children.*” On this the mother was at once sacrificed to preserve the life of her son, Prince Edward VI.
-
-### Letter 92: Henry VIII → Jane Seymour
 
 1536.
 
@@ -2190,11 +2190,11 @@ H., R.
 
 * * *
 
-### *Katherine of Arragon to Henry VIII.*
+### Letter 93: Katherine of Arragon → Henry VIII
+
+#### *Katherine of Arragon to Henry VIII.*
 
 Of all the six women whom the royal Blue-beard took to wife, it is probable that the only one who had any real affection for him was his first wife, <span class="small-caps">Katherine of Arragon</span>. This is her last letter to him, written after her divorce and very shortly before her death. Shakespeare has given the substance of this letter in the last speeches of Katherine in *Henry VIII.*, Act IV. Scene 2.
-
-### Letter 93: Katherine of Arragon → Henry VIII
 
 1536 (?).
 
@@ -2228,13 +2228,13 @@ From Greenwich, by your majesty's humble and obedient wife and servant,
 
 * * *
 
-### *Sir Christopher Hatton to Queen Elizabeth.*
+### Letter 95: Ch. Hatton → Elizabeth I
+
+#### *Sir Christopher Hatton to Queen Elizabeth.*
 
 The following letter to Queen Elizabeth from one of her court favourites is among the very few love-letters to her which have come down to the present. As for the queen, she was probably too discreet to write letters of sentiment, as none such have been found from her hand.
 
 <span class="small-caps">Christopher Hatton</span>, who wrote the following, held the offices of Vice-Chamberlain and Lord Chancellor during the reign of Elizabeth, and for a time was a prime favourite. The queen had a number of odd pet-names for him; she called him her “sheep,” her “lids” (eyelids), sometimes “her most sweet lids.” He came to court quite an obscure gentleman, but he rose rapidly in favour, partly, no doubt, because, like Leicester and Raleigh, he was of handsome and graceful person. Robert Naunton, one of Elizabeth's counsellors, says: “The queen had much of her father in this, for (excepting some of her kindred, and some few that had handsome wits in their crooked bodies) she always took her a handsome person in the way of her choice; for the people have it to this day in proverb, ‘King Harry loved a *man*.’ One of his rivals says Hatton danced himself into favour by his grace in a galliard which he executed in some theatrical performance given before the queen; and as he was a gentleman who, besides the graces of his person and dancing, had the addition of strong and subtle capacity, he soon grew in favour and place.”
-
-### Letter 95: Ch. Hatton → Elizabeth I
 
 <span class="small-caps">June</span>, 1573.
 
@@ -2260,13 +2260,13 @@ The delights of this place cannot make me unmindful of one in whose sweet compan
 
 * * *
 
-### *Mary Queen of Scots to the Earl of Bothwell.*
+### Letter 97: Mary Queen of Scots → Earl of Bothwell
+
+#### *Mary Queen of Scots to the Earl of Bothwell.*
 
 I quote the ensuing letter, claimed to have been written by <span class="small-caps">Mary Queen of Scots</span> to Bothwell, without any expression of opinion as to its authenticity. There is no fact alleged concerning that unfortunate and extraordinary queen and woman which has not been denied by one side or the other, on which are ranged her partisans and her accusers. Her accusers claim that there were found before her trial some authentic love-letters written by her to Bothwell, which prove that she was a party to the murder of her husband Lord Darnley, and to her abduction by Bothwell. When Bothwell fled from his enemies he left behind him in his haste a silver-gilt casket, which had been given to Mary by her first husband, Francis II. of France, containing twenty one letters and love-sonnets written by Mary to Bothwell. Seven of these letters, claimed by her enemies to be genuine, were printed by Buchanan in his History of Scotland. Her partisans vehemently deny their genuineness, and declare them forgeries.
 
 Below is one of these disputed letters. It would appear to have been sent by the queen to Bothwell with some love-token, — a ring of black enamel containing an engraved stone, which Mary compares to her heart. The famous silver-gilt casket still exists, forever voiceless as to the nature of its contents three hundred years ago.
-
-### Letter 97: Mary Queen of Scots → Earl of Bothwell
 
 #### *From Mary Queen of Scots to the Earl of Bothwell,<br />concerning certain Tokens that she sent him.*
 
@@ -2294,13 +2294,13 @@ Sweet heart! be earnest with Kate[^fn-p0225-1] to come and meet thee at New Hall
 
 <span class="small-caps">James</span>, R.
 
-### *Lady Arabella Stuart to her Husband.*
+### Letter 99: Arb. S. → William Seymour
+
+#### *Lady Arabella Stuart to her Husband.*
 
 Among royal ladies, the Lady <span class="small-caps">Arabella Stuart</span> stands hardly second in misfortune to Lady Jane Grey, although her name is much less prominent in history. She was, like James I., descended from Margaret, the daughter of Henry VII., and so had some claim to the English succession after Elizabeth's death, which she seems never to have urged or to have wished urged in her favour. Yet it was through a pretended plot to put her on the throne that Raleigh was so long imprisoned in the Tower. She was for years a source of alarm to James I., and was allowed neither liberty nor the pursuit of happiness during her ill-fated life, simply because she had the misfortune to be born near a throne. At length the poor lady added to her other misfortunes that of falling in love. Many matches had been proposed for her, but they were considered dangerous by some of the royal parties, and nipped in the bud, until William Seymour, afterwards Marquis of Hertford, boldly wooed her in person, and they were privately married. The marriage was kept hidden for a year, and then they were both imprisoned. Seymour was placed in the Tower for "marrying a member of the royal family without the king's leave." They managed to correspond for a time by letters, till this was discovered and stopped. Then the Lady Arabella fell ill, but in spite of illness made an attempt to escape with her husband,—an attempt which, just when it seemed ripe for success, was frustrated, and the poor lady was returned to prison. She sunk under these persecutions; meditated suicide; finally lost her reason, and sunk into a melancholy, in which she died. Seymour seems always to have cherished her memory; and years after, when his fortunes had brightened, his titles were granted him, and he had married a second time, he gave the daughter by this second marriage the name of *Arabella Stuart*.
 
 This letter from the Lady Arabella is very pathetic, from its simplicity and womanly tenderness, in which there is mingled no resentment against her persecutors.
-
-### Letter 99: Arb. S. → William Seymour
 
 1610.
 
@@ -2312,11 +2312,11 @@ Your faithful and loving wife,
 
 * * *
 
-### *Charles I. to Henrietta Maria.*
+### Letter 100: Charles I → Henrietta Maria
+
+#### *Charles I. to Henrietta Maria.*
 
 The marriage of <span class="small-caps">Charles</span> I. with Henrietta Maria of France was doubtless an unusually happy state-marriage. They first saw each other at a court ball in Paris in 1623, when Charles, then Prince of Wales, was on his way to Spain, in company with the Duke of Buckingham and Endymion Porter,[^fn-p0229-1] to visit the Spanish Infanta, who was the proposed wife of the prince. The Spanish match was abandoned, and two years later he married the French princess. History gives a very pretty picture of her coming to England: how she tried to kneel when presented to the king, how he prevented her by raising her in his arms, and how her arch coquetries won his heart. Whatever may be said of him as a king, he was a loyal husband and a tender father; and the domestic life of his court was in fine contrast to that of James I., who preceded, and of Charles II., who followed him. These two letters which follow were written when the king was holding his court at Oxford, during the Civil War, and after the queen had left England to seek an asylum in her native France.
-
-### Letter 100: Charles I → Henrietta Maria
 
 <span class="small-caps">Oxford</span>, Feb. 13, 1643.
 
@@ -2531,11 +2531,11 @@ My mother greets you well, and sendeth you God's blessing and hers; and she pray
 
 * * *
 
-### *Sir John Paston to Anne Haute.*
+### Letter 112: John Paston / Sir John Paston → Anne Haute
+
+#### *Sir John Paston to Anne Haute.*
 
 Madame Margaret Paston, who wrote the above letter, had several children, among them two sons named John, and a daughter named for herself, and familiarly known as “Margery.” The oldest son, John, was made a knight when twenty-one years old, which made him a very desirable match for the young ladies of the time. He seems to have been difficult to suit and to have paid his addresses to several without result, for he died a bachelor in 1487. This letter was written by him to a lady of French birth but English family, residing in Calais, with whom for some years he seems to have kept up a desultory courtship.
-
-### Letter 112: John Paston / Sir John Paston → Anne Haute
 
 21 <span class="small-caps">July</span>, 1468.
 
@@ -2640,15 +2640,15 @@ This letter was written with as great pain as ever wrote I thing in my life ; fo
 
 * * *
 
-### *Roger Ascham to his Wife Margaret, in Consolation for<br />the Death of their Son, Sturm Ascham.*
+### Letter 116: Roger Ascham → Margaret Ascham
+
+#### *Roger Ascham to his Wife Margaret, in Consolation for<br />the Death of their Son, Sturm Ascham.*
 
 The following letter was written by <span class="small-caps">Roger Ascham</span>, the famous schoolmaster of the sixteenth century. He was the teacher of Queen Elizabeth in her girlhood, and of Lady Jane Grey ; and these two princesses seem to have been favourite pupils of his, for he cannot speak too highly in praise of their learning and studiousness.
 
 His marriage, which took place rather late in life, when he was nearly forty, seems to have been a very happy one. At the time of his marriage he wrote thus to his friend John Sturm : —
 
 “ You wish to know about my wife. In face she is like her aunt, the wife of Sir R. Walop. She is just such a wife as John Sturm would desire for his friend Roger Ascham. Her name is Margaret; our wedding-day was the 1st of June, 1554, if there be anything lucky in that name or that day.”
-
-### Letter 116: Roger Ascham → Margaret Ascham
 
 <span class="small-caps">November</span>, 1568.
 
@@ -2666,11 +2666,11 @@ To my dear wife, <span class="small-caps">Margaret Ascham</span>, these.
 
 * * *
 
-### *Sir William St. Lo to his Wife.*
+### Letter 117: Master Sir William St. Lo., Esq. → Countess of Shrewsbury
+
+#### *Sir William St. Lo to his Wife.*
 
 The Countess of Shrewsbury was one of the most remarkable women of the reign of Queen Elizabeth; beautiful in person, though masculine in character, and by all evidence utterly selfish and without heart. Yet her fascination helped her to four husbands, each of whom seems to have been equally in love with her, and each of whom she ruled with imperious sway. This letter from her third husband, <span class="small-caps">William St. Lo</span>, a bluff soldier of Elizabeth's guard, was written while he was stationed at the queen's palace in Windsor.
-
-### Letter 117: Master Sir William St. Lo., Esq. → Countess of Shrewsbury
 
 4 <span class="small-caps">September</span> (about 1560?).
 
@@ -2688,7 +2688,9 @@ From Windsor, the 4th of September, by thy right worshipful master and most hone
 
 * * *
 
-### *Earl of Shrewsbury to the Countess.*
+### Letter 118: G. Shrewsbury → Countess of Shrewsbury
+
+#### *Earl of Shrewsbury to the Countess.*
 
 After the death of William St. Lo his lady married <span class="small-caps">George Talbot</span>, Earl of Shrewsbury, who was as much enamoured of her as any of the three husbands who had preceded him. As in her previous marriages, she schemed very cleverly to get the lion's share of the property into her hands and a controlling influence over his affairs. But in some of her scheming she overreached herself. Not long after her marriage with the Earl, Mary Queen of Scots threw herself upon the protection of Elizabeth, " her cousin and sister-queen." As soon as Mary's coming to England was made certain, the Countess of Shrewsbury began to seek for her husband the dangerous honour of custodian to the person of the Scottish queen. In this she succeeded. Elizabeth placed her charge in the keeping of the Earl and Countess, and their castle was turned, in a manner, into a prison to hold the royal guest. It was not long after, that trouble began in the family of the Earl of Shrewsbury. Whether Mary Stuart used her fascination to excite the Earl's compassion and alleviate her captivity, is not certain, though not unlikely. It is certain that for once the managing Countess found her rival, if not her match. She could not conceal her discontent with the affairs in her household, and when Queen Elizabeth one day inquired how her prisoner fared, she made answer: "She cannot fare *ill* while she is with my husband; and I begin to grow jealous, they are so great together."
 
@@ -2697,8 +2699,6 @@ Queen Mary herself writes to one of her friends in France: "I have twice informe
 It was not long after this that Elizabeth compelled the Earl to relinquish his charge, but not before he and his Countess had fallen into such disagreement as was never wholly removed, although at last a peace was patched up between them. The Earl died some time before his wife, who spent her latest days in bickering and contentions with different members of her family, and in building and repairing the castles in her possession,—an occupation which seemed to gratify the ambition of her restless old age.
 
 The following letters were written to her by the Earl in the days of their early wedded life before she had begun to be jealous of Queen Mary, at the time even when she was planning to secure the office of custodian to the queen for her husband.
-
-### Letter 118: G. Shrewsbury → Countess of Shrewsbury
 
 <span class="small-caps">Hampton Court</span>, 1568.
 
@@ -2732,11 +2732,11 @@ Your faithful one,
 
 * * *
 
-### *Walter Raleigh to his Wife.*
+### Letter 120: W. Raleigh → Lady Raleigh
+
+#### *Walter Raleigh to his Wife.*
 
 The following beautiful letter was written by Sir <span class="small-caps">Walter Raleigh</span> to his wife after his trial for treason and condemnation to death in 1603. His sentence was afterwards reprieved and he was committed to imprisonment in the Tower, where he remained more than twelve years, his captivity during much of that time softened by the society and affection of his wife. During his imprisonment he wrote his *History of the World,* and he occupied himself also in experiments in chemistry and in medicine. The queen of James I., it is said, often sent for his remedies when she or any one of the royal children was ill, and Prince Henry, the eldest son of James I., was so much in sympathy with Raleigh that he said openly that no king but his father “ would keep so rare a bird in so ill a cage.”
-
-### Letter 120: W. Raleigh → Lady Raleigh
 
 You shall now receive, dear wife, my last words in these my last lines. My love I send you, that you may keep it when I am dead ; and my counsel, that you may remember it when I am no more. I would not by my will present you with sorrows, dear Bess ; let them go to the grave and be buried with me in dust. And seeing it is not the will of God that I shall ever see you more in this life, bear it patiently and with a heart like thyself.
 
@@ -2752,13 +2752,13 @@ W. <span class="small-caps">Raleigh.</span>
 
 * * *
 
-### *The Same to the Same.*
+### Letter 121: W. Ralegh → Lady Raleigh
+
+#### *The Same to the Same.*
 
 During the last years of Raleigh's captivity the interest in American discovery was strongly aroused and there were rumours of rich mines discovered in Guiana. No man in England knew so much about America as Sir Walter; and the king, as mercenary as he was cowardly, finally concluded to send Sir Walter on an expedition, although his sentence was unrevoked and he was still held a prisoner to the crown. He sailed in 1617 for the Orinoco region, and anchored near some Spanish settlements there.
 
 Almost immediately the old feud broke out, which rankled in the heart of every English sailor whenever the name Spaniard was spoken. The town was attacked and burned, the Spanish governor was killed, and also Raleigh's son Walter, who had gone with him on this expedition. It was upon his return, when he could clearly foresee his doom, that Sir Walter wrote the following to his wife to console her for the death of their son.
-
-### Letter 121: W. Ralegh → Lady Raleigh
 
 <span class="small-caps">March</span> 22, 1618.
 
@@ -2778,15 +2778,15 @@ Raleigh was arrested immediately after landing, and, without any new trial, was 
 
 Sir Walter was not buried in Beddington notwithstanding this request. His remains are in St. Margaret’s Church just over the way from Westminster Abbey, and his faithful wife is not buried beside him. Her brief letter, with its supplication, “God hold me in my wits,” is worth volumes of lamentation.
 
-### *From Kate, Duchess of Buckingham, to her Husband,<br />George Villiers, Duke of Buckingham.*
+### Letter 122: Kate Buckingham → George Villiers, Duke of Buckingham
+
+#### *From Kate, Duchess of Buckingham, to her Husband,<br />George Villiers, Duke of Buckingham.*
 
 The following letter was written by <span class="small-caps">Kate Villiers</span>, Duchess of Buckingham, to her handsome and profligate husband, when he was absent in Spain, as friend and companion to Prince Charles, afterwards Charles I. It is to this same Duke of Buckingham, familiarly called “Steenie” by James I. and the prince, that King James wrote the letter quoted on page 200.
 
 The negotiations for Charles’s marriage with the Infanta, which took the Prince and his suite to Madrid, at the time the following letters were written, were carried on for some time, but the alliance was so obnoxious to the English people that it was finally given up.
 
 That the Duke of Buckingham was very attractive in person, and capable of inspiring most ardent attachments, is proved by the affection the king and prince felt for him as well as by the extravagant terms of his wife’s letters.
-
-### Letter 122: Kate Buckingham → George Villiers, Duke of Buckingham
 
 1623.
 
@@ -2818,7 +2818,9 @@ The little Moll mentioned above was the daughter of the Duke, of whose baby ways
 
 * * *
 
-### *Endymion Porter to his Wife, Olive Porter.*
+### Letter 124: Endymion Porter → Olive Porter
+
+#### *Endymion Porter to his Wife, Olive Porter.*
 
 Another companion of Prince Charles on this embassy to Spain for the wooing of the Infanta, was Mr. Endymion Porter, who had been, in early life, resident in Spain, and in later years attached to the family of the great Duke of Buckingham. He was himself of good family, and is a most picturesque figure of a cavalier of this age. His marriage with his wife, Olive, to whom these letters are addressed, was purely a love-match, and it seems to have been a very happy one, although somewhat troubled by Olive’s jealousy during his frequent absences,—a jealousy which the free manners of the age and the society in which he lived made not unreasonable. A great number of his early letters are devoted to soothing her jealous alarms and protesting his affection. In one of his letters he says : —
 
@@ -2830,20 +2832,18 @@ Even the sober Prince Charles seems to have been somewhat infected by absence fr
 
 When Endymion’s fortunes in later years were clouded by his devotion to the royal family, his wife dropped all jealous reproaches and became a most helpful and noble wife. He went to France with Queen Henrietta Maria, and Olive Porter, remaining in England, used great address and courage in protecting and preserving his fortunes and interests at home.
 
-### Letter 124: Endymion Porter → Olive Porter
-
 No date (probably 1622).
 
 <span class="small-caps">My dearest Olive</span>, — Thy care in sending to me shows me how truly thou lovest me, and thy fear of my inconstancy argues no want of affection, only of faith, which, if any good works of mine may strengthen, I will come on my knees to see thee, and put out my eyes rather than look with unchaste desire upon any creature while I breathe; and to be more secure of me, I would have thee inquire if ever I was false to any *friend*, and then to consider what a traitor I should be, if to a wife (and to such a wife!) so virtuous and good, I should prove false, and not to my friends. Dear Olive, be assured that I strive to make myself happy in nothing but in thee, and therefore I charge you to be merry, and to cherish your health and life, the more because I live in you. But what can I say, or what in the least little can I do? *Love you?* That I do and ever shall, as he who vows never to be anybody's but your true husband.
 
 <span class="small-caps">Endymion Porter.</span>
 
-### *The Same to the Same.*
+### Letter 125: Endymion Porter → Olive Porter
+
+#### *The Same to the Same.*
 
 Written during his absence in Spain with Prince Charles  
 and the Duke of Buckingham.
-
-### Letter 125: Endymion Porter → Olive Porter
 
 <span class="small-caps">Madrid</span>, April 17, 1623, N. S.
 
@@ -2895,11 +2895,11 @@ Je vous rende grace de la bien souvenance que vous avez de moi Bible François. 
 
 * * *
 
-### *John Winthrop to Margaret Tyndal.*
+### Letter 127: John Winthrop → Margaret Tyndal
+
+#### *John Winthrop to Margaret Tyndal.*
 
 The following letter is from John Winthrop to his betrothed wife Margaret Tyndal shortly before their marriage. She was his third wife, although he was barely thirty at the time of his marriage with her. This is as unique a love-letter as can be found in the annals of courtship, and its mixture of ardent affection with religious devotion, its adaptation of scripture to the language of passionate wooing, is not equalled by anything in literature.
-
-### Letter 127: John Winthrop → Margaret Tyndal
 
 To my best beloved, Mrs. <span class="small-caps">Margaret Tyndal</span>, at Great  
 Maplestead, Essex. Grace, mercy, and peace, etc.
@@ -2920,11 +2920,11 @@ My father and mother salute thee heartily, with my Lady and the rest. If I had t
 
 * * *
 
-### *Margaret Winthrop to her Husband.*
+### Letter 128: Margaret Winthrop → John Winthrop
+
+#### *Margaret Winthrop to her Husband.*
 
 The next letter is from Margaret Tyndal, now become Mrs. Winthrop, written in their early wedded life, before her husband had departed for the home in the New World. It is rather more submissive than the more modern ideas of woman's dependence upon man would warrant, but Margaret Tyndal was probably bred up in Milton's ideas of the relations of the man and woman, "*He* for God only, *she* for God in him."
-
-### Letter 128: Margaret Winthrop → John Winthrop
 
 <span class="small-caps">Groton</span>, Nov. 22, 1627.
 
@@ -2959,11 +2959,11 @@ Thy faithful husband,
 
 J. <span class="small-caps">Winthrop.</span>
 
-### *The Same to the Same.*
+### Letter 130: Jo. Winthrop → Margaret Winthrop
+
+#### *The Same to the Same.*
 
 The following letter was written by John Winthrop after he had parted from his family and embarked on the “ Arbella ” for Massachusetts. It seems to have been agreed upon between them that they should think of each other at “ five of the clock Mondays and Fridays.” No lovers could have been more devoted in the first hour of troth-plight than these two who had then been twelve years wedded.
-
-### Letter 130: Jo. Winthrop → Margaret Winthrop
 
 To Mrs. <span class="small-caps">Margaret Winthrop</span>, the elder, at Groton.
 
@@ -3008,7 +3008,9 @@ Your
 
 * * *
 
-### *The Earl of Sunderland to Lady Dorothy, his Wife.*
+### Letter 132: Sunderland → Lady Dorothy, his Wife
+
+#### *The Earl of Sunderland to Lady Dorothy, his Wife.*
 
 The daughter of Lady Dorothy Sidney, who wrote the beautiful letter given above, also named Dorothy, was married to Robert Spenser, Earl of Sunderland. She had been wooed by Edmund Waller in his verses, as the “incomparable Saccharissa,” and on the occasion of her marriage with Spenser, the poet wrote her sister, Lady Lucy Sidney, a letter which is famous for its wit and playful irony. In it he says: —
 
@@ -3017,8 +3019,6 @@ The daughter of Lady Dorothy Sidney, who wrote the beautiful letter given above,
 “<span class="small-caps">Edmund Waller.</span>”
 
 The happiness of Lady Dorothy and her husband was of brief duration. The Earl of Sunderland was killed in the battle of Newbury, fighting for a cause in which he felt his honour more than his heart was enlisted. The letter which follows was written at Oxford, then the headquarters of King Charles, four days before the battle in which the Earl met his death.
-
-### Letter 132: Sunderland → Lady Dorothy, his Wife
 
 <span class="small-caps">Oxford</span>, Sept. 16, 1643.
 
@@ -3122,11 +3122,11 @@ R. <span class="small-caps">Russell.</span>
 
 * * *
 
-### *The Duke of Marlborough to the Duchess.*
+### Letter 137: John Churchill, Duke of Marlborough → Duchess of Marlborough
+
+#### *The Duke of Marlborough to the Duchess.*
 
 The greatest military leader of England in the eighteenth century, <span class="small-caps">John Churchill</span>, Duke of Marlborough, was under the domination of a ruler more powerful than he. For years the Duchess of Marlborough, imperious, brilliant, ambitious, was the most powerful person in England, ruling even the queen by the ascendancy she had gained through their long friendship. It is difficult to see now how she held such power, with so little that seems attractive, and with nothing that is amiable, in her character; but that she must have been in youth a woman capable of attaching others to her with hooks of steel is incontrovertible. Marlborough married her for love, and loved her absolutely. His affection breaks through all his letters to her. He writes, “I am heart and soul yours,” “I can have no happiness till I am with you;” and his fear of her displeasure or tempers comes in such plaintive bursts as “I am never so happy as when I think you are kind.” His motive of life was to please her, and his ambition to conquer all fields that were before him, that he might settle down at home with “the blessing of living quietly with her my soul longs for.” Perhaps fortunately for this much-wished-for peace, the Duke died long before the Duchess, who lived to great old age; a virago whose last days remind us not a little of those of the Countess of Shrewsbury,[^fn-p0321-1] in Elizabeth’s reign, who spent her last days not only at variance with those about her, but even with her nearest of kin, and who died execrated by those to whom she should have been an object of reverence and love.
-
-### Letter 137: John Churchill, Duke of Marlborough → Duchess of Marlborough
 
 <span class="small-caps">Hague</span>, April 23, 1706.
 
@@ -3266,11 +3266,11 @@ A. <span class="small-caps">Burr</span>.
 
 * * *
 
-### *The Same to the Same.*
+### Letter 145: A. Burr → Theodosia Burr
+
+#### *The Same to the Same.*
 
 This is among the later letters of Burr to his wife, who was then in failing health. She died the following year, after twelve years of happy wedded life.
-
-### Letter 145: A. Burr → Theodosia Burr
 
 <span class="small-caps">Philadelphia</span>, 15 Feb., 1793.
 
@@ -3332,11 +3332,11 @@ Ever yours
 
 * * *
 
-### *The Same to the Same.*
+### Letter 148: Nelson & Bronté → Lady Hamilton
+
+#### *The Same to the Same.*
 
 This, Nelson's last letter to Lady Hamilton, was found on his desk after death. It is now in the British Museum, and is indorsed with these words in Lady Hamilton's handwriting: “ This letter was found open on *his* desk and brought to Lady Hamilton by Captain Hardy. Oh miserable wretched Emma! Oh glorious and happy Nelson!" This letter also enclosed a brief one for his daughter, Horatia.
-
-### Letter 148: Nelson & Bronté → Lady Hamilton
 
 "<span class="small-caps">Victory</span>," Oct. 19, 1805, Noon.  
 <span class="small-caps">Cadiz</span>, E. S. E. 16 leagues.

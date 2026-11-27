@@ -2,7 +2,7 @@
 
 - **Author / Editor**: Friedrich Nietzsche, Richard Wagner, Elisabeth Förster-Nietzsche (ed.), Caroline V. Kerr (tr.), H. L. Mencken (intro.)
 - **Year**: 1921
-- **Letters**: 56
+- **Letters**: 57
 - **Pages**: 342
 
 ## Frontmatter
@@ -161,9 +161,7 @@ At last the moment arrived when my brother was to make the personal acquaintance
 
 > “During the course of the evening we had a long conversation about Schopenhauer, and you can imagine my unbounded joy at hearing him say, with indescribable enthusiasm, how much he owed to Schopenhauer and to hear him called the only philosopher who had recognized the real nature of music. Then he inquired what attitude the professors now took towards Schopenhauer, and laughed heartily over the Philosopher’s Congress in Prague, referring to them as ‘philosophic porters.’ Later in the evening, he read us parts of his autobiography upon which he is now at work, among other things, a delicious scene from his student days in Leipzig, of which I cannot yet think without bursting into laughter. By the way, he is very clever and witty with his pen. As we were leaving, he pressed my hand and cordially invited me to come and see him so that we might continue our conversation upon music and philosophy. He also commissioned me to familiarize his sister and her family with his music, which I solemnly pledged myself to do. . . . You shall hear more when I am able to look back upon this evening more objectively, and from a greater perspective. . . .”
 
-### CHAPTER II.
-
-#### <span class="small-caps">First visit to Tribschen.</span>
+## CHAPTER II. First visit to Tribschen.
 
 ##### (Spring of 1869.)
 
@@ -176,8 +174,6 @@ Finally he was observed by a servant who came out to say that Herr Wagner was in
 The visit was, therefore, postponed until Monday, when he went over to Tribschen early in the morning and spent the first of those enchanting days with Richard Wagner and Frau Cosima which were to form veritable oases in the desert of his solitary life. I must explain here that some time elapsed before my brother began to feel at home in Basle. He was tremendously impressed by the solidarity of this firmly established little commonwealth, and by the extreme cordiality manifested by his colleagues, all of whom were men much older than himself. He also had a high regard for the serious-minded and reserved burghers, but his was not the temperament to make friends easily, and the same has always been said of the good folk of Basle.
 
 He was, therefore, made indescribably happy by the unexpected cordiality displayed towards him by Wagner and Frau Cosima von Bülow from whom the first advances came in a note written on May 20, 1869:
-
-## CHAPTER II. First visit to Tribschen.
 
 ### Letter 1: Cosima von Bülow
 
@@ -649,6 +645,8 @@ When Hans Richter was expected in Tribschen, Wagner sent word to my brother that
 
 Late in June my mother returned to her home in Germany, but at my brother's urgent request, it was decided that I should remain in Basle. Letters and all sorts of greetings were exchanged between Basle and Tribschen, but my brother had sprained his ankle rather seriously and was therefore unable to accept any invitations. The execution of the Tribschen commissions devolved upon me, and it was I who answered Wagner's humorous appeal:
 
+### Letter 16: Wagner
+
 > “Fresh Holland herrings longed for in Tribschen. Would not Marie Walther be willing to come to the rescue, if she knew that thereby she would be saving the art-work of the future? Conductor Richter now installed at Tribschen. And the Professor?
 
 “<span class="small-caps">Wagner.</span>”
@@ -709,7 +707,7 @@ With these thoughts in his mind, how different must he have felt towards Schopen
 
 An account of his experiences on the battlefield and the disastrous effect upon his health, was sent by my brother to Tribschen in reply to the letter containing news of events there.
 
-### Letter 16: Friedrich Nietzsche → Richard Wagner
+### Letter 17: Friedrich Nietzsche → Richard Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 
@@ -737,7 +735,7 @@ As soon as my brother was able to travel he was moved in easy stages from Erlang
 
 While all this was happening, Wagner had finished his essay on "*Beethoven*," the manuscript of which he sent to my brother with heartfelt greetings and received in reply the following letter:
 
-### Letter 17: Friedrich Nietzsche → Richard Wagner
+### Letter 18: Friedrich Nietzsche → Richard Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 
@@ -815,7 +813,7 @@ We spent the summer in the charming little resort of Gimmelwald near Lauterbrunn
 
 Erwin Rohde and Baron von Gersdorff who had come to Naumburg on a birthday visit, finally persuaded my brother to go with them over to Leipzig and try Wagner's publisher, who could certainly have no objection to the work on the ground that it dealt with such modern problems as those raised by Wagner's own art. According to my brother, the two friends fairly “dragged” him to this publisher, E. W. Fritzsch, who after some hesitation agreed to publish the book. Wagner was greatly surprised to hear of this and disagreeably so, as it would seem from the following letter:
 
-### Letter 18: Richard Wagner → Friedrich Nietzsche
+### Letter 19: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -833,7 +831,7 @@ Erwin Rohde and Baron von Gersdorff who had come to Naumburg on a birthday visit
 
 After my brother had explained the situation to Wagner, the latter wrote warm words of recommendation to Fritzsch to which reference is made in the following letter:
 
-### Letter 19: Friedrich Nietzsche → Richard Wagner
+### Letter 20: Friedrich Nietzsche → Richard Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 
@@ -859,7 +857,7 @@ Even at this time, my brother intimated to me that certain of his own ideas had 
 
 In justice to Wagner, it must be stated that he had only a vague idea as to the extent he and his art were to figure in my brother's book. Before going to Naumburg and Leipzig, my brother had paid a visit to Tribschen, where nothing was discussed but the unsuccessful negotiations with Engelmann, as Fritzsch had not yet entered upon the scene. My brother had consistently refrained from any further mention of his intention of amplifying or altering the manuscript out of deference to Wagner, and had charged me in particular not to divulge the secret. Wagner was, therefore, left in complete ignorance of the revisions as well be seen from his next letter:
 
-### Letter 20: Richard Wagner → Friedrich Nietzsche
+### Letter 21: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -879,7 +877,7 @@ In justice to Wagner, it must be stated that he had only a vague idea as to the 
 
 Amusingly enough, my brother was also engaged in composing that autumn. He had been made very happy by the reunion with his friends in Naumburg and Leipzig, and was now endeavoring to give concrete expression to these feelings in a musical composition dedicated to the “Memory of Our Happy Autumn Vacation.” This work brought him into contact with a very clever copyist, in reduced circumstances, whom he endeavored to help by recommending him to Wagner. This effort was unsuccessful as will be seen from the following letter:
 
-### Letter 21: Richard Wagner → Friedrich Nietzsche
+### Letter 22: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -944,7 +942,7 @@ ON New Year's Day, 1872, my brother received his first published work, and, with
 
 He then hurried off a copy to his dear friends in Tribschen.
 
-### Letter 22: Friedrich Nietzsche → Richard Wagner
+### Letter 23: Friedrich Nietzsche → Richard Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 
@@ -966,7 +964,7 @@ He then hurried off a copy to his dear friends in Tribschen.
 
 <span class="small-caps">Friedrich Nietzsche</span>.”
 
-### Letter 23: Richard Wagner → Friedrich Nietzsche
+### Letter 24: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -998,7 +996,7 @@ A fresh breakdown was the result of this strain, and for a time we feared a repe
 
 Wagner hardly knew how to explain my brother’s conduct as he had fully expected him to hasten to Tribschen upon learning of the stormy admiration his book had aroused. Suspicious as he ever was, Wagner construed this to mean that my brother had already regretted having written the work, or at least, to having had it published. This is to be seen from the following letter:
 
-### Letter 24: Richard Wagner → Friedrich Nietzsche
+### Letter 25: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -1029,7 +1027,7 @@ In reply to this warm-hearted, but nevertheless, somewhat suspicious letter, Wag
 
 He made only one reservation and that was in the case of the king of Bavaria, to whom he did not wish to send a copy directly as Wagner had requested. His reason for this lay in his inherent feeling for style, which rebelled at the so-called “curial style of letter-writing.” As children we had always been obliged to use this in writing to my father’s former pupils, the Grand Duchess Constantine, the Grand Duchess of Oldenburg and Princess Therese of Altenburg, and it had ever been a source of intense irritation to my brother. However, Wagner found a way out of this difficulty and my brother was relieved of the necessity of writing this much-detested formal letter.
 
-### Letter 25: Richard Wagner → Friedrich Nietzsche
+### Letter 26: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -1088,7 +1086,7 @@ Gersdorff entirely fulfilled my brother's confidence in him and Wagner telegraph
 
 In the following letter is to be found my brother's answer to this question, as he here gives the first direct intimation of his readiness to sacrifice everything for the beloved master:
 
-### Letter 26: Friedrich Nietzsche → Richard Wagner
+### Letter 27: Friedrich Nietzsche → Richard Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 
@@ -1114,7 +1112,7 @@ It was not without a heavy heart that my brother decided upon taking this step, 
 
 Wagner was in high spirits when he returned to Tribschen and one of his first letters was to my brother, and from this it is to be seen that the intimations he had made while in Basle were really an expression of his innermost hopes and wishes, but that his affectionate interest in my brother made him hesitate about accepting this supreme sacrifice.
 
-### Letter 27: Richard Wagner → Friedrich Nietzsche
+### Letter 28: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -1247,7 +1245,7 @@ The thick-headed philologians grumbled and waxed indignant at what they consider
 
 ### CHAPTER XIII.
 
-### Letter 28: Richard Wagner → FRIEDRICH NIETZSCHE
+### Letter 29: Richard Wagner → FRIEDRICH NIETZSCHE
 
 #### CIRCULAR LETTER FROM RICHARD WAGNER TO FRIEDRICH<br />NIETZSCHE, PROFESSOR IN ORDINARY OF CLASSICAL<br />PHILOLOGY AT THE UNIVERSITY OF BASLE.
 
@@ -1291,7 +1289,7 @@ The thick-headed philologians grumbled and waxed indignant at what they consider
 
 IT is greatly to be deplored that the letter in which my brother expressed his gratitude for Wagner's defense of his work should also have been among those destroyed. He had feared that Wagner, out of affection for him, might write in such a way as would tend to make his position in the academic world even more difficult, but happily, the circular letter turned out far more discreet and diplomatic than my brother had expected. On the other hand, Wagner frankly admitted that Nietzsche had injured himself by espousing the Wagnerian cause, and regarded his article as having done nothing to improve the situation, but had rather made matters worse. Expression is given to these fears in Wagner's reply to my brother's letter of thanks:
 
-### Letter 29: Richard Wagner → Friedrich Nietzsche
+### Letter 30: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -1315,7 +1313,7 @@ Upon learning of Wagner's intention of writing a public defense of Nietzsche, Ro
 
 Before going to Basle in 1872, for my customary summer visit to my brother, I made a flying trip to Leipzig, in order to hear from Professor Ritschl's own mouth his opinion of the "*Birth of Tragedy*" and of the stand taken by my brother. I found both him and his wife "incredibly kind and well disposed" towards my brother, who was overjoyed at hearing this. The report I brought back with me also encouraged Rohde to proceed with his polemic against Willamowitz, and thereby prove himself a staunch comrade-in-arms to his friend Nietzsche. Many letters were exchanged on this subject and it was finally agreed upon that this purely scientific defense should be written in the form of a circular letter addressed to Wagner as it was “*the direct allusion* to Wagner and his art in the book, which had given the philologians such a shock and aroused such antagonism.” But before proceeding along these lines, Rohde wrote to Wagner asking his permission and received the following answer:
 
-### Letter 30: Richard Wagner → Erwin Rohde
+### Letter 31: Richard Wagner → Erwin Rohde
 
 #### *Richard Wagner to Erwin Rohde.*
 
@@ -1357,7 +1355,7 @@ Wagner also wrote a cordial letter of thanks to Rohde, saying:
 
 At this time my brother was struggling with many difficulties and discouragements, and as a birthday present to himself (October 15, 1872) he wrote a letter in which he unburdened his heart to Wagner. In reply, the master wrote him in a very affectionate strain, which gives rise to renewed regrets that my brother’s letter was destroyed at Wahnfried.
 
-### Letter 31: Richard Wagner → Friedrich Nietzsche
+### Letter 32: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -1387,7 +1385,7 @@ My brother wrote to Gersdorff telling him of Frau Wagner’s comments after re-r
 
 From the following letter it will be seen how the thought of Wagner always filled my brother with joy and confidence:
 
-### Letter 32: Friedrich Nietzsche → Richard Wagner
+### Letter 33: Friedrich Nietzsche → Richard Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 
@@ -1415,7 +1413,7 @@ From the following letter it will be seen how the thought of Wagner always fille
 
 Nothing came of Wagner’s projected visit to Basle, but instead he sent a telegram to my brother asking him to meet him in Strassburg on November 21st:
 
-### Letter 33: Richard Wagner → Friedrich Nietzsche
+### Letter 34: Richard Wagner → Friedrich Nietzsche
 
 > “Changed plans necessitate abandoning Basle visit. Please cancel all engagements. If possible, meet us in Strassburg Friday evening prepared to remain until Sunday. Address Hotel Marquardt, Stuttgart.
 
@@ -1480,7 +1478,7 @@ Wagner made no attempt to clear away the misunderstanding, but delegated this ta
 
 Later my mother learned from Gersdorff, who had spent the Christmas holidays in Bayreuth, that Wagner had literally raved and declared in endless repetition, how dear my brother was to him, but that Nietzsche always held back and preferred to go his own way.
 
-### Letter 34: Richard Wagner → Friedrich Nietzsche
+### Letter 35: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -1514,7 +1512,7 @@ In the letter from Cosima, quoted above, she said she did not quite know what to
 
 Wagner was so deeply touched by the “sacrifice I had made for his great cause,” that he in turn presented me with a Patron's Certificate, purchased out of the special fund contributed by friends of Bayreuth, during his recent concert tour in Germany. He was mistaken, however, in thinking that the money I had spent was in the nature of a deprivation, whereas it was only a passive sacrifice. Wagner wrote to me:
 
-### Letter 35: Richard Wagner → Elisabeth Förster-Nietzsche
+### Letter 36: Richard Wagner → Elisabeth Förster-Nietzsche
 
 “My dear Fräulein:
 
@@ -1530,7 +1528,7 @@ Wagner was so deeply touched by the “sacrifice I had made for his great cause,
 
 Determined that no further estrangement should occur between Wagner and himself, and remembering that Rohde had expressed the desire of being alone with Nietzsche in Bayreuth some time—my brother inquired if it would be convenient for him to come with his friend for a short visit at Easter. Wagner telegraphed the following answer:
 
-### Letter 36: Richard Wagner → Friedrich Nietzsche
+### Letter 37: Richard Wagner → Friedrich Nietzsche
 
 “Always overjoyed by sensible suggestions, especially when they take the form of announcing a visit herewith heartily welcomed. Expect you Sunday.
 
@@ -1538,7 +1536,7 @@ Determined that no further estrangement should occur between Wagner and himself,
 
 Beside himself for joy, my brother wrote to Gersdorff on April 5, 1873:
 
-### Letter 37: Friedrich Nietzsche → Carl von Gersdorff
+### Letter 38: Friedrich Nietzsche → Carl von Gersdorff
 
 “Dearest friend:
 
@@ -1568,7 +1566,7 @@ It would be wrong to deduce from words of this kind that my brother did not cher
 
 No sooner was the work well under way, than my brother wrote to Wagner, and it is impossible to read this letter without being moved by the manner in which he endeavored to assume the responsibility for the mild discords which had threatened to overcloud their relations, and also by the modesty he displays in calling Wagner’s attention to the fact that he has now written something more closely in conformity with his own ideas.
 
-### Letter 38: Friedrich Nietzsche → Richard Wagner
+### Letter 39: Friedrich Nietzsche → Richard Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 
@@ -1596,7 +1594,7 @@ This touching letter was followed immediately by a second, in which my brother i
 
 Wagner answered both letters at once:
 
-### Letter 39: Richard Wagner → Friedrich Nietzsche
+### Letter 40: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -1636,7 +1634,7 @@ When the first copy of this book was received on August 8, we celebrated the eve
 
 Baron von Gersdorff had been good enough to attend to the correspondence with Bayreuth and was therefore, the first to receive the thanks and expressions of delight from the Wagners in regard to the book. Finally my brother felt himself equal to the task of attempting a long letter, and it goes without saying, that the first of these was addressed to Richard Wagner, (this letter is also missing in Wahnfried) which Wagner answered immediately:
 
-### Letter 40: Richard Wagner → Friedrich Nietzsche
+### Letter 41: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -1874,7 +1872,7 @@ IN the meantime, the second “*Thoughts Out of Season*” on the “Use and Abu
 
 This is not difficult to understand if one keeps in mind that Wagner was engaged in a supreme struggle for the realization of his idea, and at such times, demanded of his friends that they neglect their own affairs and devote themselves heart and soul, to his cause. In other words, he expected them to suffer when he suffered and rejoice when he rejoiced. This my brother did unreservedly, but at the same time, he took the liberty of writing books which had nothing to do with Bayreuth. Privy Councillor Ritschl had once said that Nietzsche was of no use in party factions and to my brother’s way of thinking, Bayreuth had already become a party fight, that is to say, a matter for the masses. This explains why my brother, despite his solemn exhortation to the Germans, was unable to manifest the proper degree of zeal and partisanship demanded by Wagner, and also accounts for the unfriendly comments on the book made in the presence of Fritzsch. It is also possible that Wagner was repeating what he had often said: “Nietzsche always goes his own way, and one has to take him as he is.” However this may be, the letters acknowledging the receipt of the book, were not lacking in warmth and cordiality:
 
-### Letter 41: Richard Wagner → Friedrich Nietzsche
+### Letter 42: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -1931,7 +1929,7 @@ He also wrote in the same melancholy strain to Bayreuth, and Frau Cosima replied
 
 My brother entertained quite different feelings towards Basle and Wagner also displayed a far greater understanding of the situation, ascribing Cosima’s animosity to the place to a disagreeable experience she once had there. Wagner wrote a pleading letter to my brother, begging him to come at once to Bayreuth. In this letter he made use of all sorts of joking allusions which he knew my brother would be apt to employ in searching about for an excuse for not going.
 
-### Letter 42: Richard Wagner → Friedrich Nietzsche
+### Letter 43: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -2030,7 +2028,7 @@ Upon returning from Bayreuth to Basle in August of 1874, my brother at once set 
 
 The forthcoming publication of the third “*Thoughts Out of Season*” was also announced to the friends in Bayreuth, as is to be seen from a draft of a letter found in an old note-book. The letter itself, like so many others, was destroyed in Bayreuth, but the replies of Wagner and Frau Cosima indicate that the rough draft agrees in the main with the letter as it was finally written.
 
-### Letter 43: Friedrich Nietzsche → Richard Wagner
+### Letter 44: Friedrich Nietzsche → Richard Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 
@@ -2042,7 +2040,7 @@ The forthcoming publication of the third “*Thoughts Out of Season*” was also
 
 Copy of a telegram sent by Richard Wagner to Nietzsche upon receiving the above-mentioned copy of his “*Schopenhauer as Educator*”:
 
-### Letter 44: Richard Wagner → Friedrich Nietzsche
+### Letter 45: Richard Wagner → Friedrich Nietzsche
 
 > “Deep and great. Presentation of Kant boldest and most original idea. Verily, only intelligible for those who are possessed. I can picture to myself the three just men. May they cast long shadows in the sun-land of the present.
 
@@ -2052,7 +2050,7 @@ Copy of a telegram sent by Richard Wagner to Nietzsche upon receiving the above-
 
 This third “*Thoughts Out of Season*” was greeted with enthusiasm in Bayreuth, and made the subject of much rejoicing. It was received with quite different feelings from the second which had provoked only a moderate degree of approval, not unmixed with antagonism. Frau Cosima wrote a wonderful letter on the subject:
 
-### Letter 45: Cosima Wagner → Friedrich Nietzsche
+### Letter 46: Cosima Wagner → Friedrich Nietzsche
 
 > “This is *my ‘Thoughts Out of Season,’* my dear friend, and I thank you from the bottom of my heart for the pleasurable stimulation the book has given me. The feelings, thoughts, ideas, intuition, power and knowledge therein displayed, have amazed me and I have warmed my soul at the fire of your enthusiasm,—here burning so bright and clear—just as I did in the case of your ‘*Birth of Tragedy.*’ And how beautiful and characteristic is your language! It is easy to see that here you had a concrete and inspiring theme which you were able to grasp in its entirety, and the depths to which you have moved me are only to be measured by the strength you have displayed in your comprehension of this theme. I find your introduction extraordinarily beautiful and artistic; it suggests those magnificent introductions employed by the master musicians in leading up to their *Allegri.* And you could not have introduced the name of Schopenhauer more effectively and beautifully, and at the same time, done more to arouse the interest of the reader, than by expounding to us, first of all, the debt we owe to culture. I find it particularly beautiful that you write here subjectively, for as you say later on, the effect of Schopenhauer’s genius is almost uncanny, and for that reason it is of the utmost importance to learn the personal testimony of one of the elect.
 
@@ -2072,7 +2070,7 @@ Without a knowledge of the above-mentioned reasons, it would be impossible to un
 
 High spirits also reigned in Bayreuth where Christmas was being celebrated for the first time in Wagner’s new home, christened “*Wahnfried.*” The Christmas tree, placed in the large reception hall, stretched out its branches until they reached the golden gallery. Frau Wagner wrote us a detailed account of the festivities and described how she stood in the gallery, taking the part of the “dear God” to the young musicians of the *Nibelung* “Kanzelei,” who were climbing up and down the ladder disposing of the decorations according to her instructions, while Wagner in the role of Jacob, but not a sleeping one, attended to matters at the foot of the ladder. My brother's letter of birthday greeting to Frau Cosima introduced a minor strain into this symphony of gayety and Christmas cheer, and so annoyed Wagner that he replied at once and took this opportunity of airing all the grievances he had been cherishing for the last year:
 
-### Letter 46: Richard Wagner → Friedrich Nietzsche
+### Letter 47: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -2139,7 +2137,7 @@ But that which gave the greatest pleasure during this sojourn in Bayreuth was th
 
 But he could also manifest great impatience when approached with all sorts of tiresome requests; one thing that was extremely distasteful to him being the examination of new compositions. Some days the mail brought heaps of such compositions and at such times Wagner raged in a manner truly Jovian. One incident of this nature has remained indelibly impressed upon my memory because of the part I took in it. An unusually bulky parcel arrived one day, containing an opera composed by the director of such and such a bank. When Wagner told me this, I said, “Oh, I know his name, as I have some stock in that bank.” Wagner raised his finger with a warning gesture, saying: “Little girl, sell those stocks at once; a bank director who writes operas does not pay sufficient attention to business.” Thereupon, banker Feustel took the matter up and reassured us as to the liability of the bank in question. But in this instance, the artist’s intuition was correct, as the bank later became quasi-bankrupt and my disregard of Wagner’s advice cost me several thousand marks. On the other hand, Wagner was always ready to comply with any reasonable request made by his friends whether it were the inspection of manuscripts or the autographing of photographs [tasks for which he had no great fondness]. For instance, my brother asked him for a picture for Frau von Moltke, the sister-in-law of the field marshal, which Wagner sent at once with the following note:
 
-### Letter 47: Richard Wagner → Friedrich Nietzsche
+### Letter 48: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -2174,7 +2172,7 @@ The attributes here described are fundamentally different from those possessed b
 
 It was a great delight to my brother to learn so many details of the life in Bayreuth from my letters and later verbally, and all that I told him only strengthened his belief in Wagner's friendship. Gersdorff confirmed these reports so that my brother had no reason to doubt the absolute sincerity of those feelings. Gersdorff was on a very intimate footing at Wahnfried, and Wagner looked upon him as the only person to whom he could confide his thoughts about Nietzsche. This is shown in the following letter:
 
-### Letter 48: Richard Wagner → Baron von Gersdorff
+### Letter 49: Richard Wagner → Baron von Gersdorff
 
 #### *Richard Wagner to Baron von Gersdorff.*
 
@@ -2256,7 +2254,7 @@ This renewed activity had again imposed a great strain upon his poor eyes, and a
 
 In the following letter, my brother enumerates very distinctly everything he owed to Wagner and it may be easily imagined that Wagner’s reply stimulated him to further effort, as Wagner granted him permission to “look on *in his own way*.”
 
-### Letter 49: Friedrich Nietzsche → Richard Wagner
+### Letter 50: Friedrich Nietzsche → Richard Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 
@@ -2274,7 +2272,7 @@ In the following letter, my brother enumerates very distinctly everything he owe
 
 “<span class="small-caps">Friedrich Nietzsche.</span>”
 
-### Letter 50: Richard Wagner → Friedrich Nietzsche
+### Letter 51: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -2306,7 +2304,7 @@ Strangely enough, my brother feared that the book would meet with Wagner's disap
 
 Although the two letters which follow exist only in rough drafts, there is no reason for supposing that there is any deviation from the exact text of the letters finally dispatched by my brother to his friends in Bayreuth.
 
-### Letter 51: Friedrich Nietzsche → Richard Wagner
+### Letter 52: Friedrich Nietzsche → Richard Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 
@@ -2325,7 +2323,7 @@ Although the two letters which follow exist only in rough drafts, there is no re
 
 “<span class="small-caps">Fr.</span> N.”
 
-### Letter 52: Friedrich Nietzsche → Frau Cosima Wagner
+### Letter 53: Friedrich Nietzsche → Frau Cosima Wagner
 
 #### *Friedrich Nietzsche to Frau Cosima Wagner.*
 
@@ -2339,7 +2337,7 @@ Both Wagner and Frau Cosima replied immediately.
 
 ##### “*Richard Wagner in Bayreuth*”
 
-### Letter 53: Richard Wagner → Friedrich Nietzsche
+### Letter 54: Richard Wagner → Friedrich Nietzsche
 
 #### *Richard Wagner to Friedrich Nietzsche.*
 
@@ -2351,7 +2349,7 @@ Both Wagner and Frau Cosima replied immediately.
 
 “R. W.”
 
-### Letter 54: Frau Cosima → Friedrich Nietzsche
+### Letter 55: Frau Cosima → Friedrich Nietzsche
 
 #### *Frau Cosima to Friedrich Nietzsche.*
 
@@ -2496,7 +2494,7 @@ Furthermore, my brother's health had suffered greatly from his stay in Bayreuth,
 
 Wagner seems to have sensed nothing of my brother's changed feelings, but appealed to him by wire to make some purchases for him in Basle, there being certain articles which he fancied only that city could furnish in the desired quality. My brother's feelings upon receiving these commissions are expressed in the following letter:
 
-### Letter 55: Friedrich Nietzsche → Richard Wagner
+### Letter 56: Friedrich Nietzsche → Richard Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 
@@ -2629,7 +2627,7 @@ My brother was deeply impressed at receiving the *Parsifal* text just as he was 
 
 ## CHAPTER XXIV. END OF THE FRIENDSHIP.
 
-### Letter 56: Friedrich Nietzsche → Richard Wagner / Cosima Wagner
+### Letter 57: Friedrich Nietzsche → Richard Wagner / Cosima Wagner
 
 #### *Friedrich Nietzsche to Richard Wagner.*
 

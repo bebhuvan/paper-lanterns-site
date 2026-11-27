@@ -664,15 +664,17 @@ I <span class="small-caps">doubt</span> not you have been disappointed at being 
 
 I am, my dear Sister
 
-(Here follows a postscript in the hand-writing of Stephen Pascal, the father) :—
-
-My dear daughter must excuse me for not having written to her as she wished; but I have really had no leisure. I have never been a tenth part so pressed for time as at this moment. I have not been in bed six times, during the last four months, before two o'clock in the morning.
-
-I lately began a letter rallying you on the subject of your last respecting M. Desjeux's marriage; but I have never found time to finish it. As for news, the daughter of M. de Paris, Master of the Accounts, married to M. Neufville, is dead, as well as M. Belair's daughter, married to young Lambert. Your little boy slept here last night, and is, thank God! very well.
-
-Believe me ever your true and affectionate friend,
-
-<span class="small-caps">Pascal.</span>
+> **[enclosure: Postscript in the handwriting of Stephen Pascal]**
+>
+> (Here follows a postscript in the hand-writing of Stephen Pascal, the father) :—
+>
+> My dear daughter must excuse me for not having written to her as she wished; but I have really had no leisure. I have never been a tenth part so pressed for time as at this moment. I have not been in bed six times, during the last four months, before two o'clock in the morning.
+>
+> I lately began a letter rallying you on the subject of your last respecting M. Desjeux's marriage; but I have never found time to finish it. As for news, the daughter of M. de Paris, Master of the Accounts, married to M. Neufville, is dead, as well as M. Belair's daughter, married to young Lambert. Your little boy slept here last night, and is, thank God! very well.
+>
+> Believe me ever your true and affectionate friend,
+>
+> <span class="small-caps">Pascal.</span>
 
 Your humble servant, and affectionate brother,
 
@@ -2924,7 +2926,7 @@ CLXXXIX. My fancy leads me to dislike any one that makes a disagreeable noise in
 [^fn-p0262-1]: (*) This fragment presents the interesting feature, that it is in the hand-writing of Domat, who has added the following note:—“ Madame Perier has the original of this paper.” Madame Perier has reproduced the passage in her memoir of her brother.
 [^fn-p0264-1]: (*) From the quotation heading this Thought, it is evident that it was suggested by the following passage in Montaigne, of which it is a kind of refutation;—“*Ce vénérable sénat d'aréopage jugeait de nuict, de peur que la veue des poursuivans corrompist sa justice. L'air mesme et la serenité du ciel nous apporte quelque mutation, comme dit ce vers grec en Cicero,*
 
-    ‘*Tales sunt homines mentes, quali pater ipse
+    ‘*Tales sunt homines mentes, quali pater ipse  
     Juppiter auctiferá* lustravit lampade terras.’”—Essays, Book ii., ch. 12.
 
     These two Latin verses, which are in the “*Fragmenta Poëmatum*” of Cicero, are an indifferent translation of verses 135 and 136, Book xviii., Odyssey. (French Editor.)
@@ -4406,7 +4408,7 @@ We ought, my father, to judge Divine ordinances with sobriety.[^fn-p0415-1] (Era
 [^fn-p0389-1]: (*) All these Thoughts and Notes are published for the *first* time, although not preceded by the mark +.
 [^fn-p0390-1]: (*) Les points remplacent cinq à six mots illisibles.
 [^fn-p0391-1]: (*) Several words illegible in the MS.
-[^fn-p0398-1]: (*) In the margin, Kings, Pope,
+[^fn-p0398-1]: (*) In the margin, Kings, Pope,  
     3 Reg. 246.
 [^fn-p0399-1]: (*) These are the *Declarations* of the Generals of the Order, which have the same force as the *Constitutions*. (French Editor.)
 

@@ -12,6 +12,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Curtis Gentry (ed.)",
  "year": 1930,
  "archive_id": "fiftyfamouslette0000curt",
@@ -63,7 +66,7 @@
   "verified": 0,
   "machine_reread": 35
  },
- "page_kinds": "fffffffffffffffffffffffffff.LLLLLLLLnLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLnnLLLnLLLnLLLLLLLLLLLLLLLLnLLLnLLnLLnLLLnLLLLLLnLLLLLnnLLLnLLLnLLLnLLLnLLnLLLnLLLnLLLnLnLLnLLLnLLLnLLnLLLnLLLnLLLLLnLLnLnnnLLLnLLLnLLLnLL.iiiiiiiiiiiiii",
+ "page_kinds": "fffffffffffffffffffffffffff.LLLLLLLLnLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnLLLLLLLLLLLLLLL.iiiiiiiiiiiiii",
  "page_runs": [
   [
    "f",
@@ -95,11 +98,11 @@
   ],
   [
    "n",
-   2
+   1
   ],
   [
    "L",
-   3
+   52
   ],
   [
    "n",
@@ -107,63 +110,7 @@
   ],
   [
    "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   16
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   2
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   2
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   6
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   5
+   66
   ],
   [
    "n",
@@ -171,175 +118,7 @@
   ],
   [
    "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   2
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   1
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   2
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   2
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   5
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   2
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   1
-  ],
-  [
-   "n",
-   3
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   3
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   2
+   15
   ],
   [
    ".",
@@ -483,27 +262,27 @@
   {
    "format": "epub",
    "file": "fifty-famous-letters-1930.epub",
-   "bytes": 143832,
-   "sha256": "0c00b6ad5b9106d9147d952ba5a5c723faf2f5ca7de07f946cf9123e236d25f8"
+   "bytes": 143652,
+   "sha256": "bbdd5a4601f6bb02db762aa7f08e948c8c93c546c0102ffdad751580a88193d3"
   },
   {
    "format": "markdown",
    "file": "fifty-famous-letters-1930.md",
-   "bytes": 207542,
-   "sha256": "938a17d0bc11d585d862efce214324b038e2ac4cf43dfe39dfe7c42315cbd128"
+   "bytes": 207617,
+   "sha256": "82677bb70549945cdc44e43d7dde70d0518c6849c3bb3ccb09132e41cc5b9ae1"
   },
   {
    "format": "tei",
    "file": "fifty-famous-letters-1930.tei.xml",
-   "bytes": 257638,
-   "sha256": "20bf5a444328817a9a5217ce94927e9054878c4d8d9e505fea868c04eebb2b06"
+   "bytes": 255242,
+   "sha256": "917b56bc1996fc7663635aec5d8094cc866050ec0d1aaca8cbb86c92edebabd2"
   }
  ],
  "scan_base": "https://archive.org/download/fiftyfamouslette0000curt/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:22:00Z",
-  "source_ast_sha256": "fd70f262caa23372ce3cbb9c3a6b8f5d860f524afd9450b9c3c9e3337538166a",
+  "compiled_at": "2026-11-27T03:45:01Z",
+  "source_ast_sha256": "b79495e0aba53cb176ed4bdd7ee07402bf8b965c38158a7bb62c41fd69b34b59",
   "hugo_renderer_version": "1.0.0"
  }
 }

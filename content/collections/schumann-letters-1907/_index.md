@@ -14,6 +14,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Robert Schumann, Dr. Karl Storck (ed.), Hannah Bryant (tr.)",
  "year": 1907,
  "archive_id": "lettersofroberts00schu",
@@ -25,9 +28,9 @@
   "pages": 334,
   "dated_letters": 132
  },
- "provenance_tier": "community",
+ "provenance_tier": "machine_checked",
  "quality": {
-  "score": 98.5,
+  "score": 100.0,
   "out_of": 100.0,
   "pillars": [
    {
@@ -42,7 +45,7 @@
    },
    {
     "key": "notes",
-    "score": 18.5,
+    "score": 20.0,
     "out_of": 20.0
    },
    {
@@ -56,7 +59,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 1,
+  "flagged": 0,
   "blockers": 0
  },
  "proof": {
@@ -277,27 +280,27 @@
   {
    "format": "epub",
    "file": "schumann-letters-1907.epub",
-   "bytes": 259379,
-   "sha256": "ee1a347d4f69aed88a1fcb1bb5d04f5c4401cdad1553d9d8ccaf6bdb6bc3d745"
+   "bytes": 259388,
+   "sha256": "566054747af197bbc7b479229b556169323aa77500e9ee248d843c2a706d7412"
   },
   {
    "format": "markdown",
    "file": "schumann-letters-1907.md",
    "bytes": 442593,
-   "sha256": "7fbb90c9e5ddceffc1f139552b164999d4dd574677bb66c10dcfaff1dfc3ce01"
+   "sha256": "8fed26a4dac7242d38441ae44eab505d13c0636539d3d3ab9308dd7b4c401069"
   },
   {
    "format": "tei",
    "file": "schumann-letters-1907.tei.xml",
-   "bytes": 575056,
-   "sha256": "f4934cfa70f8f849a368040fb0087dc4c23d0db30b1b018aa52f9594c289c19e"
+   "bytes": 575078,
+   "sha256": "369c9deb8f498e777a33aa6eaf43efde076ff63e024dc8cc6cf0ae3e305ccb04"
   }
  ],
  "scan_base": "https://archive.org/download/lettersofroberts00schu/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:24:00Z",
-  "source_ast_sha256": "843d361bc0bf6001cff1c54f2ed9d3039622a54c1be774138468f12ce2793ce9",
+  "compiled_at": "2026-11-27T05:11:51Z",
+  "source_ast_sha256": "345675b8e225f2468f63204b7ab9c6929154cd2e0a4cabf15ad3f80737056847",
   "hugo_renderer_version": "1.0.0"
  }
 }

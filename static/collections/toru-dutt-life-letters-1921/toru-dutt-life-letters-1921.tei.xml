@@ -295,33 +295,37 @@
         <correspAction type="received"><persName>Miss Martin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0068">
+        <correspAction type="sent"><persName>Govin Chunder Dutt</persName><date when="1877-08-31">August 31, 1877</date></correspAction>
+        <correspAction type="received"><persName>Miss Martin</persName><persName>Mary Martin</persName></correspAction>
+      </correspDesc>
+      <correspDesc xml:id="letter-0069">
         <correspAction type="sent"><persName>Clarisse Bader</persName><placeName>Paris</placeName><date when="1877-02-16">February 16, 1877.</date></correspAction>
         <correspAction type="received"><persName>Toru Dutt</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0069">
+      <correspDesc xml:id="letter-0070">
         <correspAction type="sent"><persName>Toru Dutt</persName><placeName>Calcutta</placeName><date when="1877-03-18">March 18, 1877.</date></correspAction>
         <correspAction type="received"><persName>Clarisse Bader</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0070">
+      <correspDesc xml:id="letter-0071">
         <correspAction type="sent"><persName>Toru Dutt</persName><placeName>Calcutta</placeName><date when="1877-04-13">April 13, 1877.</date></correspAction>
         <correspAction type="received"><persName>Clarisse Bader</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0071">
+      <correspDesc xml:id="letter-0072">
         <correspAction type="sent"><persName>Clarisse Bader</persName><placeName>Paris</placeName><date when="1877-05-11">May 11, 1877.</date></correspAction>
         <correspAction type="received"><persName>Toru Dutt</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0072">
+      <correspDesc xml:id="letter-0073">
         <correspAction type="sent"><persName>Toru Dutt</persName><placeName>Calcutta</placeName><date when="1877-07-30">July 30, 1877.</date></correspAction>
         <correspAction type="received"><persName>Clarisse Bader</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0073">
+      <correspDesc xml:id="letter-0074">
         <correspAction type="sent"><persName>Clarisse Bader</persName><placeName>Paris</placeName><date when="1877-09-11">September 11, 1877.</date></correspAction>
         <correspAction type="received"><persName>Toru Dutt</persName></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0074">
+      <correspDesc xml:id="letter-0075">
         <correspAction type="sent"><persName>Elizabeth S. Colton</persName><placeName>31, Free School Street, Calcutta</placeName><date when="1907-12-28">December 28, 1907.</date></correspAction>
       </correspDesc>
-      <correspDesc xml:id="letter-0075">
+      <correspDesc xml:id="letter-0076">
         <correspAction type="sent"><persName>A. Clifford</persName><placeName>The Vicarage, Stoke Bishop, near Bristol</placeName><date when="1915-10-30">October 30, 1915.</date></correspAction>
         <correspAction type="received"><persName>Harihar Das</persName></correspAction>
       </correspDesc>
@@ -2340,10 +2344,7 @@ Calcutta</figDesc></figure>
 <lg rend="two_column_right"><l>Dark, dark archangel—but he</l><l>fell,</l><l>Earth felt the sound,</l><l>And ocean opened by a spell</l><l>Its gulf profound.</l><l>Down headlong—but his name</l><l>through time</l><l>Shall overcome—</l><l>Thou too shalt drown, but</l><l>drown in slime,</l><l>Tom Thumb, Tom Thumb !</l></lg>
 </div>
 <div xml:id="notes-sec-09" type="notes"><head>Notes</head>
-<note place="foot" xml:id="fn-p0328-1" n="1"><p>I bring some flowers and fruits,
-Gathered on another soil,
-In another sunlight,
-In a happier clime.</p></note>
+<note place="foot" xml:id="fn-p0328-1" n="1"><p>I bring some flowers and fruits,<lb/>Gathered on another soil,<lb/>In another sunlight,<lb/>In a happier clime.</p></note>
 <note place="foot" xml:id="fn-p0328-2" n="2"><p>Maud Diver's <hi rend="italic">The Englishwoman in India.</hi></p></note>
 <note place="foot" xml:id="fn-p0343-1" n="1"><p>See vol. i, pp. 357–75, <hi rend="italic">Actes et Paroles</hi>, 1875.</p></note>
 </div>
@@ -2377,7 +2378,7 @@ In a happier clime.</p></note>
 <quote><p rend="center"><hi rend="smallcaps">Be thou faithful unto death and I will give thee a crown of life.</hi><lb/><hi rend="smallcaps">Rev.</hi> ii. 10.</p></quote>
 <p>In conveying the sad news of his bereavement to Miss Martin, Mr. Dutt wrote, on August 31, 1877 :</p>
 </div>
-<div xml:id="div-unit-0121" type="letter_excerpt">
+<div xml:id="div-letter-0068" type="letter" corresp="#letter-0068">
 <quote><p>‘Your letter to Toru’s address was delivered to me this morning. Toru has passed from the earth. She left us last night at 8 p.m., and her end was perfect peace. She loved you very much. I have no doubt, loves you still. I shall send you hereafter one or two trifles to keep as reminiscences, but do not find myself able to write just at present. The Lord bless you for all you have been to my beloved child. Kindest regards to your parents from self and Mrs. Dutt, and believe me ever to remain,—Your most sincere friend,</p></quote>
 <closer><signed rend="right">‘<hi rend="smallcaps">Govin Chunder Dutt</hi>.’</signed></closer>
 </div>
@@ -2619,7 +2620,7 @@ In a happier clime.</p></note>
 <head rend="center">I</head>
 <head rend="center">TRANSLATION OF THE CORRESPONDENCE<lb/>BETWEEN M<hi rend="smallcaps">lle</hi> BADER AND TORU</head>
 </div>
-<div xml:id="div-letter-0068" type="letter" corresp="#letter-0068">
+<div xml:id="div-letter-0069" type="letter" corresp="#letter-0069">
 <head><hi rend="italic">Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.</hi></head>
 <opener><dateline rend="right">February 16, 1877.</dateline></opener>
 <p><hi rend="smallcaps">Dear Mademoiselle</hi>,—Is it really a descendant of my dear Indian heroines who wishes to translate the work dedicated to the ancient Aryans of the Gangetic Peninsula ? Such a desire, and coming from such a source, touches me so deeply that it must be granted. Translate therefore <hi rend="italic">Woman in Ancient India</hi> ; with all my heart do I authorize you to do it and with fullest sympathy do I wish you every success in your enterprise. Last evening I showed your letter and your charming collection of poems to an illustrious authority on India, M. Garcin de Tassy, Member of the Institute, of whose reputation you must be aware. He is a friend of your learned neighbour, Rajendra Lal Mitter.<ref xml:id="fnref-p0390-1" type="noteref" target="#fn-p0390-1">1</ref> M. Garcin de Tassy<ref xml:id="fnref-p0390-2" type="noteref" target="#fn-p0390-2">2</ref> was so struck with your wonderful courage in writing, that he took your address in order to send you one of his books at once.</p>
@@ -2629,7 +2630,7 @@ In a happier clime.</p></note>
 <closer><signed rend="right"><hi rend="smallcaps">Clarisse Bader.</hi></signed><address><addrLine>C/o my father, retired superior officer of the Legion of</addrLine><addrLine>Honour, attached to the office of the Minister of War, rue</addrLine><addrLine>de Babylone, 62, Paris.</addrLine></address></closer>
 <postscript><p rend="postscript">PS. I understand that your English translation is to be published in India. The intervention of my publisher would only be necessary in case it were printed in England. But, as he has himself told me, there is no difficulty about your translation appearing in such a distant country as India.</p></postscript>
 </div>
-<div xml:id="div-letter-0069" type="letter" corresp="#letter-0069">
+<div xml:id="div-letter-0070" type="letter" corresp="#letter-0070">
 <head><hi rend="italic">Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.</hi></head>
 <opener><dateline rend="right">Calcutta, March 18, 1877.</dateline><salute><hi rend="smallcaps">Dear Mademoiselle</hi>,—I thank you very sincerely for kindly allowing me to translate <hi rend="italic">La Femme dans l’Inde Antique</hi>, and also for your kind sympathetic letter, which gave the greatest pleasure.</salute></opener>
 <p>I am so sorry not to have been able to begin the translation yet. I am not very strong, and an obstinate cough contracted two years ago does not leave me. However, I hope soon to begin the work.</p>
@@ -2640,13 +2641,13 @@ In a happier clime.</p></note>
 <closer><salute rend="indented">Please accept, Mademoiselle, the fresh assurance of my friendship.</salute><signed rend="right"><hi rend="smallcaps">Toru Dutt.</hi></signed><address><addrLine>C/o her father, Mr. Govin C. Dutt, Honorary Magistrate</addrLine><addrLine>and Justice of the Peace, Calcutta.</addrLine></address></closer>
 <postscript><p rend="postscript">PS. I have kept back this letter till now, hoping to have received the book kindly promised by M. Garcin de Tassy, but it has not come, and the mail leaves to-morrow. Perhaps I may soon have the pleasure of clasping your hand, as we hope to leave India next month. My father has absolutely decided upon going to Europe. He says that in France and England there are more learned doctors than in Calcutta ; and also our doctors advise a change of climate, which they say will do me more good than all the drugs of a pharmacy. This change in our plans obliges me to ask you not to write till you have heard again from me.</p></postscript>
 </div>
-<div xml:id="div-letter-0070" type="letter" corresp="#letter-0070">
+<div xml:id="div-letter-0071" type="letter" corresp="#letter-0071">
 <pb xml:id="page-393" n="353"/><head><hi rend="italic">Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.</hi></head>
 <opener><dateline rend="right">Calcutta,<lb/>April 13, 1877.</dateline></opener>
 <p><hi rend="smallcaps">My dear Mademoiselle</hi>,—Please write to me at the address given you in my last letter. I have been ill in bed for the last fortnight. A letter from you with your portrait will do me good. All our plans are changed. We shall not be able to go to Europe in April. Man proposes and God disposes. Please convey my thanks to M. Garcin de Tassy for his review. It is very interesting. I will write to him when I am stronger. Assuring you again of my devotion and very sincere love,</p>
 <closer><signed rend="right"><hi rend="smallcaps">Toru Dutt.</hi></signed></closer>
 </div>
-<div xml:id="div-letter-0071" type="letter" corresp="#letter-0071">
+<div xml:id="div-letter-0072" type="letter" corresp="#letter-0072">
 <head><hi rend="italic">Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.</hi></head>
 <opener><dateline rend="right">May 11, 1877.</dateline></opener>
 <p><hi rend="smallcaps">Dear Mademoiselle and gracious Friend</hi>,—What a cruel disappointment your last letter has brought me! I was greatly looking forward to your arrival, and to be able to tell you in person of the warm fellow-feeling which not only your very remarkable works but also your letters inspire in me, revealing, as they do, a refined and charming soul, and your portrait, also, so full of life and expression. I pray God that He may soon cure you, and please believe that in this prayer there is some selfishness, because your plans about travelling depend on your recovery. You are still young, and youth has such powerful resources, especially when assisted by the fine constitution revealed in your charming portrait! Do you know, dear Mademoiselle, that your photograph and letters are winning the hearts of my own friends, beginning with my father and mother? My family and friends are sharing with me the great desire to see you, and to-day, alas! their disappointment and mine are deeply felt! If it had been possible for me to have had my photograph taken at once, I would have made another effort on your behalf to have had done what has never really succeeded. Photographers are in despair over the mobility of my features. My portraits get continually more and more ugly, and were I inclined to coquetry, I should never give them away, especially to those who do not know me. But I am not so, and I therefore enclose two photographs, dating as far back as 1872. They were taken only a few months after enduring the terrible patriotic trials of the two sieges of Paris, and my features were still bearing the traces of cruel emotions. These photographs were taken in the country by an amateur, an <pb xml:id="page-394" n="354"/> officer of high rank and one of our friends. My father is with me in one of these, and he also aged wonderfully during that time.</p>
@@ -2656,13 +2657,13 @@ In a happier clime.</p></note>
 <p rend="indented">Believe, dear Mademoiselle, that you have in France a friend who could be happy to clasp your hand.—Always yours,</p>
 <closer><signed rend="right"><hi rend="smallcaps">Clarisse Bader.</hi></signed></closer>
 </div>
-<div xml:id="div-letter-0072" type="letter" corresp="#letter-0072">
+<div xml:id="div-letter-0073" type="letter" corresp="#letter-0073">
 <head><hi rend="italic">Miss Toru Dutt, Calcutta, to Mlle Clarisse Bader, Paris.</hi></head>
 <opener><dateline rend="right">July 30, 1877.</dateline></opener>
 <p rend="indented"><hi rend="smallcaps">Dear and affectionate Friend</hi>,—It is now four months that I have been suffering from fever. This has prevented me from writing and expressing to you sooner the great pleasure given me by your letter and photographs. That nice and sympathetic letter arrived when I was suffering very much, and it did me more good than all the doctor's remedies. Dear Mademoiselle, pray excuse very kindly the shortness of this letter. I am not yet quite well, and I cannot go from my room to the next one without fatigue. I have been very ill, dear friend, but the good God has granted the prayers of my parents and I am gradually recovering. I hope to write at greater length before long.— Always yours,</p>
 <closer><signed rend="right"><hi rend="smallcaps">Toru Dutt.</hi></signed></closer>
 </div>
-<div xml:id="div-letter-0073" type="letter" corresp="#letter-0073">
+<div xml:id="div-letter-0074" type="letter" corresp="#letter-0074">
 <head><hi rend="italic">Mlle Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.</hi></head>
 <opener><dateline rend="right">September 11, 1877.</dateline></opener>
 <p rend="indented"><hi rend="smallcaps">Dear and charming Indian Friend</hi>,—I missed the last mail to Brindisi, and regret this involuntary delay all the more, because your kind and affectionate letter tells me that you have been ill, and that you were still convalescent at the moment of writing. What ! can your illness have lessened in any degree the virility of the nature revealed in your portrait ? Are those beautiful eyes, full of fire, languishing ? Ah ! but <pb xml:id="page-395" n="355"/> that can only be just a passing phase. You are now quite restored, are you not ? When the Exhibition is opened, you will come to our sweet French country, and the warm breezes will do you good after your hot climate.</p>
@@ -2676,7 +2677,7 @@ In a happier clime.</p></note>
 <head rend="center">II</head>
 <p rend="indented">It may interest our readers to learn that in December of 1907 Miss Elizabeth S. Colton, an American lady, came to visit India, and wrote a letter to one of Toru Dutt’s surviving relatives expressing her desire to see the Baugmaree Garden- <pb xml:id="page-396" n="356"/> House. The letter will speak for itself as to how Toru Dutt's name is revered and loved even by the people of that far-off country.</p>
 </div>
-<div xml:id="div-letter-0074" type="letter" corresp="#letter-0074">
+<div xml:id="div-letter-0075" type="letter" corresp="#letter-0075">
 <opener><dateline rend="right">31, Free School Street, Calcutta.<lb/>December 28, 1907.</dateline></opener>
 <p><hi rend="smallcaps">My dear Sir</hi>,—For years I have regarded Calcutta as a place sacred to the memory of the gifted Toru Dutt, and I have come to see if possible the home where she lived and left to a sorrowing world so few but precious hints of her great genius.</p>
 <p rend="indented">I should like to see the Garden-House where, as Mr. Edmund Gosse expresses it, she plunged into the mysterious depths of Sanskrit literature.</p>
@@ -2687,7 +2688,7 @@ In a happier clime.</p></note>
 <head rend="center">III</head>
 <p>The following recollections of Toru Dutt were sent by the Right Rev. Bishop Clifford, formerly of Lucknow :</p>
 </div>
-<div xml:id="div-letter-0075" type="letter" corresp="#letter-0075">
+<div xml:id="div-letter-0076" type="letter" corresp="#letter-0076">
 <opener><dateline rend="right">The Vicarage, Stoke Bishop, near Bristol.<lb/>October 30, 1915.</dateline></opener>
 <p><hi rend="smallcaps">Dear Mr. Harihar Das</hi>,—I am much interested to hear that you contemplate bringing out a Life of Miss Toru Dutt. I hope when it appears I shall have the privilege of seeing it.</p>
 <p rend="indented">It is nearly forty years since I knew her, and details do not remain clear after the interval of time, but I have tried in the enclosed paper to put down some slight accounts of what I remember. She was of course a shy young girl and did not disclose herself much to a young English clergyman of twenty-seven. But such as they are, here are my recollections of her and her parents. I wish I could tell you more. I shall always look back to my acquaintance with the G. C. Dutt family with the greatest interest.—With kind regards, Yours very sincerely,</p>

@@ -1,0 +1,1330 @@
+# Correspondence of John Adams and Thomas Jefferson (1812–1826)
+
+- **Author / Editor**: John Adams, Thomas Jefferson, Paul Wilstach (ed.)
+- **Year**: 1925
+- **Letters**: 73
+- **Pages**: 196
+
+## Frontmatter
+
+### *1812<br />Correspondence<br />of Adams<br />and Jefferson<br />1826*
+
+*Edited by Paul Wilstach*
+
+### Correspondence of<br />J<span class="small-caps">OHN</span> A<span class="small-caps">DAMS AND</span> T<span class="small-caps">HOMAS</span> J<span class="small-caps">EFFERSON</span><br />1812-1826
+
+### Correspondence of<br />JOHN ADAMS<br />...and...<br />THOMAS JEFFERSON
+
+##### [1812....1826]
+
+Selected with Comment by  
+PAUL WILSTACH
+
+CAPRICORN BOOKS  
+New York
+
+<span class="small-caps">Copyright</span>, 1925  
+<span class="small-caps">By The Bobbs-Merrill Company</span>
+
+CAPRICORN BOOKS EDITION 1966
+
+*Printed in the United States of America*
+
+## CORRESPONDENCE OF JOHN ADAMS and THOMAS JEFFERSON 1812-1826
+
+<span class="small-caps">Here</span> is a book whose material was the collaboration of two of the greatest Americans. These two men had in their earlier years been friends. Then they were tossed apart on the fork of politics, each believing the other to have been at the end of the handle, each blaming the other in a silence of years, until brought together toward the end of their long lives; not together in the corporeal sense, not that they ever saw each other again, but in the better and fuller sense of understanding.
+
+The reconciliation came to one in his seventy-seventh year, to the other in his sixty-ninth year. The highest honors that their country could have offered them had been theirs. Ambition had no further bait for them, they had no further favors to ask. They waited in the twilight, and gossiped, and speculated, and criticized, and gave their ideas and convictions such free rein as only completely liberated men dare.
+
+What they uttered was uttered in the most religious privacy, one confidant to another, whispered so low that no one else could hear; cautiously, not even whispered, but written, in the form of an epistolary duet, by turn impish, eloquent, humorous and profound. A strange enough duet, the composer-performers out of sight and unseen of each other for a decade, never to see each other again, the elder secluded on the shore of his northern ocean, a pugnacious octogenarian, the younger galloping his horse through his threescore and second ten over his southern mountain. Already, if other indicators were absent, it would be evident that these transparent references are to John Adams, of Quincy, and Thomas Jefferson, of Monticello.
+
+These men had lived most of their lives under the terror which political careers impose on free utterance. Both of them had thought much on the problems of life, of both lives, this one and the hereafter. They both had outstripped a dogmatized philosophy and ranged high and free and untrammeled, that is untrammeled except by the specter of conventionality, with which expediency yet harnessed their tongues for a while, but never their minds. Even in their later leisure when these letters were written, they seemed to be not wholly free of another ogre, this one a public opinion whose prejudice would give them their position in history.
+
+The correspondence was so regular, and extended over a term of so many years, that it attracted the attention of the post-riders and postmasters along the route between Massachusetts and Virginia. It began to be talked about, the very mystery of it begot a fame for that of which nothing was known, except that it was. There were Barnums among publishers even then. Adams and Jefferson, titanic figures, the last of the revolutionists, were too good as head-liners to be overlooked, no matter what their performance might be. So, ignorant of a single letter or line or word, an offer was made to publish the great epistolary mystery of the period. It is difficult even to write of it except in terms of the theatrical poster. The letters were, however, too full of the nakedness of two wise old souls to be published in their lifetime. They were both men of a solid sense of propriety, and they hung indignant refusals on that peg, whatever they may have thought and feared would be the effect on their reputations if their delightful heresies got out.
+
+Curiously, not much attention has been given to this correspondence since. The letters were released by the family of each of the correspondents, and they have been available to any eye for over three-quarters of a century; some in the published collections of Jefferson's and of Adams' writings, some in manuscript in the Library of Congress. They have long been dedicated to the public, property of that same public that burned with unsatisfied curiosity while the sealed messages traveled up and down the coast. It does not seem possible that any one who has curiosity about the inside of two wise old heads could fail to find a lark in these letters.
+
+Not all the letters which Jefferson and Adams wrote to each other are given here, not even all the letters exchanged in their later period of reconciliation. And such as are here reproduced are not in all instances quoted in full. But it is believed that what is here offered in part only, will give the substance and temper of the whole; indicating what subjects occupied their later leisure and what was their attitude toward these subjects and toward each other after having become reconciled.
+
+Adams and Jefferson had an early correspondence between 1777 and 1796. The latter year Jefferson was Adams' nearest political opponent for the presidency. Adams won; Jefferson took the vice-presidency. In 1800 they again were pitted against each other. This time Jefferson won. But their friendship lapsed. Twelve years later a reconciliation was effected and the correspondence was resumed about the first of the year 1812.
+
+It was, however, of a wholly different character from those early letters. Now the long, intimate, unbridled confidences suggested two starved aloof intellects suddenly finding each other at the deep well of refreshing understanding. They had kindred curiosity, kindred doubts, similar intellectual hobbies, and they wrote with such spontaneity that one might have supposed their letters were the letters of young men, if it were not for the experiences of life they disclosed and if they had not made one of their favorite topics the question of whether, in any of many hypothetical circumstances, they would care to live their lives over again.
+
+From the time they resumed writing, letters passed between them every one of their remaining fifteen years. What was the entire number of the letters they wrote each other can not be stated with certainty. Each acknowledged receiving from the other, letters of dates which do not appear to have been preserved, so that one or both of them may have performed operations on their files which they preferred not to trust to the discretion of an unknown editor. Of those letters that do survive there are at least one hundred and two from Adams and forty-eight from Jefferson. In 1813 Adams wrote twenty-nine, Jefferson seven. This does not necessarily imply that Jefferson destroyed more of his letters, for in the midst of that orgy Adams began one of his letters: “Never mind if I write four letters to your one, your one is worth more than my four.”
+
+Each of them expended prodigious effort or were impelled by prodigious exuberance. The letters were frequently more than one thousand words in length. If Jefferson wrote fewer he at any rate generally wrote the longer letters of the two men. But Adams topped him handsomely several times, once with a single letter of four thousand words. When they had folded and sealed their letters, they addressed each other by superscription as “President Jefferson” and “President Adams.” There was another occasional usage of theirs, a reminder that the prefix “ex” had not then established itself in general to indicate “former,” nor as yet had the word “late” before a name settled into its present significance of “deceased.” Adams several times addressed Jefferson as “The Late President Jefferson.”
+
+Jefferson wrote always by his own hand. His script was as a rule very fine and firm and clear almost to the last. Two accidents to his wrists showed their effect on his usually even and exquisite penmanship. Adams’ hand was less firm than the younger man’s. It shook with a palsy which made letter-writing possible only by the pen of an amanuensis. His letters disclose several different scripts, indicating the various aides in transcribing them. At first Mrs. Adams helped him; later his daughter, Mrs. Smith. The round heavy characters of some of the letters show an unmistakable masculine hand. But at the foot of all of them, the accent of the ancient who dictated them, was the wavery trembly signature of John Adams himself.
+
+The long middle silence between these two men was broken in 1812 on New Year's Day, as if the result of a good resolution, when Adams wrote Jefferson that he was sending him “two pieces of homespun.” There was a twinkle in Adams' pen, as he wrote that phrase, which will reveal itself further on when the letter itself is reached. The very day the letter reached Jefferson he wrote thanking Adams for “the homespun” before it had reached him; referred to his habits in retirement; and concluded politely: “No circumstances have lessened the interest I feel in these particulars respecting yourself; none have suspended for one moment my sincere esteem for you, and I now salute you with unchanged affection and respect,” and the old boys were figuratively if not literally back in each other's arms.
+
+The early communications were on the subject of the Indians and their historians. But they were not wholly impersonal for Jefferson wrote:
+
+> “Another of our friends of seventy-six is gone, my dear Sir, another of the co-signers of the Independence of our country. And a better man than Rush could not have left us, more benevolent, more learned, of finer genius, or more honest. We too must go; and that ere long. I believe we are under half a dozen at present; I mean the signers of the Declaration. Yourself, Gerry, Carroll, and myself, are all I know to be living. I am the only one south of the Potomac. Is Robert Treat Payne, or Floyd living? It is long since I heard of them, and yet I do not recollect to have heard of their deaths."
+
+The Doctor Rush he lamented was Benjamin Rush, a distinguished physician of Philadelphia. He mainly was responsible for the reconciliation between Adams and Jefferson, as will appear, and so, in a measure, was responsible for the delightful flow of letters that followed it.
+
+When Jefferson let slip a Greek phrase or two, Adams came back with:
+
+> “Lord! Lord! What can I do with so much Greek? When I was your age, young man, that is, seven or eight years ago, I felt a kind of pang of affection for one of the flames of my youth, and again paid my addresses to Isocrates and Dionysius of Halicarnassensis, &c., &c., &c. . . . In this way I amused myself for some time but I found that if I looked a word to-day, in less than a week I had to look it again. It was to little better purpose than writing letters on a pail of water.”
+
+They ranged back and forth on history and politics, the men they knew and the writers they didn’t, sage and gay, and at great lengths.
+
+When Jefferson remarked that “the same political parties which now agitate the United States, have existed through all time,” it instantly kindled Adams to roar back:
+
+> “Precisely. . . . While all other sciences have advanced, that of government is still at a stand: little better understood, little better practised now, than three or four thousand years ago. What is the reason? I say, parties and factions will not suffer improvements to be made. As soon as one man hints at an improvement, his rival opposes it. No sooner has one party discovered or invented an amelioration of the condition of man, or the order of society, than the opposite party belies it, misconstrues it, misrepresents it, ridicules it, insults it, and persecutes it. Records are destroyed. Histories are annihilated or interpolated or prohibited; sometimes by Popes, sometimes by Emperors, sometimes by aristocratical, and sometimes by democratical assemblies, and sometimes by mobs. . . .
+
+> “Why are the histories of all nations, more ancient than the Christian era, lost? Who destroyed the Alexandrian Library? I believe that Christian priests, Jewish rabbis, Grecian sages, and Roman emperors, had as great a hand in it as Turks and Mahometans. Democrats, rebels, and Jacobins, when they possess a momentary power, have shown a disposition both to destroy and to forge records, as Vandalical as priests and despots. Such has been and such is the world we live in.”
+
+At the first appearance of the word “religion” in Jefferson’s letters, Adams seized it. Then they battledored and shuttlecocked: have you read this or this? what do you think of that and that? all the orders of priesthood of all ages and creeds, all the dogmas that ever were set, every obstacle that they believed was put in the way of an original and speculative mind, were put on the anvils. Adams was claimed by the Unitarians. Jefferson was not claimed by nor did he claim any church.
+
+They were not vain in their frankness. After lengthy speculations Adams posed the question of “What conclusion do I draw from all this?” and continued:
+
+“I answer, I drop into myself, and acknowledge myself to be a fool. No mind but one can see through the immeasurable system. It would be presumption and impiety in me to dogmatize on such subjects. My duties in my little infinitesimal circle, I can understand and feel. The duties of a son, a brother, a father, a neighbor, a citizen, I can see and feel; but I trust the ruler with his skies.”
+
+Having written six long letters to Jefferson in seventeen days, he warmed to his enthusiasm for his new-found friend: “You and I ought not to die before we have explained ourselves to each other.” It was a bomb, or at least a boon, to Jefferson. He at once let off a fusillade of three thousand words, wiping off the perspiration in this quieter conclusion:
+
+> “I have thus stated my opinion on a subject on which we differ, not with a view to controversy, for we both are too old to change opinions which are the result of inquiry and reflection; but on the suggestion of a former letter of yours, that we ought not to die until we had explained ourselves to each other.”
+
+He need not have apologized. Adams thrived on controversy. What Jefferson had said acted merely as a cocktail to Adams. He tossed it off, smacked his lips and the letter which it inspired was one of the best of the many he sent down the coast to the Virginian mountains. He accepted talents as the basis of aristocracy, and set out vivaciously to prove that not “genius, science, and learning” alone were talents, but also and equally “education, wealth, strength, beauty, stature, birth, marriage, graceful attitudes and motions, gait, air, complexion, and physiognomy.”
+
+This letter will be found to have been a whole tract in length, but time after time he despatched such and many longer disquisitions, gasping amiably at the close: “I will not persecute you so severely in the future, if I can help it,” or “I cannot write the hundredth part of what I wish to say to you,” and begins others with “as I can never let a sheet of yours rest, I sit down immediately to acknowledge it.”
+
+In the midst of other considerations Jefferson once parenthetically expressed a rather despairing curiosity as to what might be the Uses of Grief in human economy. Adams, however, was at the moment in a ferment of interest on another topic. He seemed nevertheless to have noted the query even if he did leave it secured in its parentheses for another month. Then he broke them down, took out the subject, found it freshly stimulating, and answered it in one of the most engaging letters of the entire series. Jefferson was satisfied with the reply. “You have exhausted the subject,” was practically his only rejoinder. But Adams never exhausted anything, least of all himself. He took the subject up a little later, turned it around, observed it from the new angle, and wrote quite as vivaciously on the Abuses of Grief.
+
+Apart from the philosophical and religious broadsides, another great fun and business of the letters began when Adams started the discussion as to living their lives over again:
+
+> **[enclosure]**
+>
+> > “I cannot be serious! I am about to write you the most frivolous letter you ever read.
+>
+> > “Would you go back to your cradle and live over again your seventy years? I believe you would return me a New England answer, by asking me another question: Would you live your eighty years over again?
+>
+> > “I am not prepared to give you an explicit answer; the question involves so many questions of metaphysics and physics, of experience and romance, of tragedy, comedy, and farce, that I would not give my opinion without writing a volume to justify it.”
+
+In his reply to that letter Jefferson said: “As you began . . . with a declaration that you were about to write the most frivolous letter I had ever read, so I will close mine by saying, I have written a full match for it.” There the issue was joined, under the mask of frivolity, which only partly concealed the serious enough features of these two speculative old gentlemen. Adams very nearly made good his estimate of how much might be written on this subject, for between them, they did spin out their speculations on reliving their lives to something that approached the content of a volume; if only the type were large enough, the margins broad enough, and the pages few enough. They did not wholly abandon these piquant speculations as long as they wrote, and they continued to write each other into the last year of their long lives.
+
+It may be interesting before beginning to become more fully acquainted with the letters of the period of Adams' and Jefferson's reconciliation, to consider briefly the circumstances which brought about the renewal of their friendship.
+
+The estrangement had extended over a decade when their common friend, Doctor Benjamin Rush, of Philadelphia, who had worked with them during the Revolution and whose name appears with theirs among the signatures to the Declaration of Independence, wrote Jefferson deploring the alienation. Jefferson's reply, of January 16, 1811, gave his point of view with much particularity. Such as it was, it did not encourage Rush to take any immediate step to draw Adams toward Jefferson. Nearly a year passed when Doctor Rush evidently thought something might be effected by writing to Adams. He despatched a letter on this subject to Adams in the middle of December, and it drew this highly characteristic and peppery reply:
+
+### Letter 1: Adams → Rush
+
+#### *Adams to Rush:*
+
+“December 25, 1811.
+
+“I never was so much at a loss how to answer a letter as yours of the 16th.
+
+“Shall I assume a sober face and write a grave essay on religion, philosophy, laws, or government?
+
+“Shall I laugh, like Bacchus among his grapes, wine vats, and bottles?
+
+“Shall I assume the man of the world, the fine gentleman, the courtier, and bow and scrape, with a smooth, smiling face, soft words, many compliments and apologies; think myself highly honored, bound in gratitude, &c., &c.?
+
+“I perceive plainly enough, Rush, that you have been teasing Jefferson to write to me, as you did me some time ago to write to him. You gravely advise me ‘to receive the olive branch,’ as if there had been war; but there has never been any hostility on my part, nor that I know, on his. When there has been no war, there can be no room for negotiations of peace.
+
+“Mr. Jefferson speaks of my political opinions; but I know of no difference between him and myself relative to the Constitution, or to forms of government in general. In measures of administration, we have differed in opinion. I have never approved the repeal of the judicial law, the repeal of the taxes, the neglect of the navy; and I have always believed that his system of gunboats for a national defence was defective. To make it complete, he ought to have taken a hint from Molière’s ‘*Femmes précieuses,*’ or his learned ladies, and appointed three or four brigades of horse, with a major-general, and three or four brigadiers, to serve on board his galleys of Malta. I have never approved his non-embargo, or any non-intercourse, or non-importation laws.
+
+“But I have raised no clamors nor made any opposition to any of these measures. The nation approved them; and what is my judgment against that of the nation? On the contrary, he disapproved of the alien and sedition law, which I believe to have been constitutional and salutary, if not necessary.
+
+“He disapproved of the eight per cent loan, and with good reason. For I hated it as much as any man, and the army, too, which occasioned it. He disapproved, perhaps, of the partial war with France, which I believed, as far as it proceeded, to be a holy war. He disapproved of taxes, and perhaps the whole scheme of my administration, &c., and so perhaps did the nation. But his administration and mine are passed away into the dark backwards, and now are of no more importance than the administration of the old Congress in 1774 and 1775.
+
+“We differed in opinion about the French Revolution. He thought it wise and good, and it would end in the establishment of a free republic. I saw through it, to the end of it, before it broke out, and was sure it could end only in a restoration of the Bourbons, or a military despotism, after deluging France and Europe in blood. In this opinion I differed from you as much as from Jefferson; but all this made me no more of an enemy to you than to him, nor to him than to you. I believe you both mean well to mankind and your country. I might suspect you both to sacrifice a little to the infernal Gods, and perhaps unconciously to suffer your judgments to be a little swayed by a love of popularity, and possibly by a little spice of ambition.
+
+“In point of republicanism, all the difference I ever knew or could discover between you and me, or between Jefferson and me, consisted,
+
+“1. In the difference between speeches and messages. I was a monarchist because I thought a speech more manly, more respectful to Congress and the nation. Jefferson and Rush preferred messages.
+
+“2. I held levees once a week, that all my time might not be wasted by idle visits. Jefferson’s whole eight years was a levee.
+
+“3. I dined a large company once or twice a week. Jefferson dined a dozen every day.
+
+“4. Jefferson and Rush were for liberty and straight hair. I thought curled hair was as republican as straight.
+
+“In these, and a few other points of equal importance, all miserable frivolities, that Jefferson and Rush ought to blush that they ever laid any stress upon them, I might differ; but I never knew any points of more consequence, on which there was any variation between us.
+
+“You exhort me to ‘forgiveness and love of enemies,’ as if I considered, or ever had considered, Jefferson as my enemy. This is not so; I have always loved him as a friend. If I ever received or suspected an injury from him, I have forgotten it long and long ago, and have no more resentment against him than against you.
+
+“You enforce your exhortations by the most solemn considerations that can enter the human mind. After mature reflection upon them, and laying them properly to heart, I could not help feeling that they were so unnecessary, that you must excuse me if I had some inclination to be ludicrous.
+
+“You often put me in mind that I am soon to die; I know it, and shall not forget it. Stepping into my kitchen one day, I found two of my poor neighbors, as good sort of men as two drunkards could be. One had sotted himself into a consumption. His cough and his paleness and weakness showed him near the last stage. Tom, who was not so far gone as yet, though he soon followed, said to John, ‘You have not long for this world.’ John answered very quick: ‘I know it, Tom, as well as you do; but why do you tell me of it? I had rather you should strike me.’ This was one of those touches of nature which Shakespere or Cervantes would have noted in his ivory book.
+
+“But why do you make so much about nothing? Of what use can it be for Jefferson and me to exchange letters? I have nothing to say to him, but to wish him an easy journey to heaven, when he goes, which I wish may be delayed, as long as life shall be agreeable to him. And he can have nothing to say to me, but to bid me make haste and be ready. Time and chance, however, or possibly design, may produce ere long a letter between us.”
+
+This may have sounded quite conclusive. It may have appeared to slam the door in Rush’s face. But it was just like Adams as revealed in his other letters before and afterward. Its definitive tone was not more like him than the immediate sequel. It was highly characteristic of his larger and more generous disposition that, in spite of this superficial bluster, six days later he brushed the whole past into the discard, and, without further ado, wrote directly to Jefferson.
+
+### Letter 2: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“January 1, 1812.
+
+> “As you are a friend to American Manufacturers under proper restrictions, especially Manufacturers of a domestic kind, I take the liberty of sending you by the Post a Packet containing two Pieces of Homespun lately produced in this quarter by one who was honored in his youth with some of your Attention and much of your Kindness.
+
+> “All my family whom you formerly knew are well. My daughter Smith is here and has gone through a perilous and painful operation which detains her here this winter from her Husband and her Family at Chenango; where one of the most gallant and skilful officers of our Revolution is probably destined to spend the rest of his days, not in the Field of Glory, but in the hard labors of Husbandry.
+
+> “I wish you, sir, many happy New Years and that you may enter the next and many succeeding years with as animating prospects for the Public as those at present before us. I am, sir, with a long and sincere Esteem your Friend and Servant.”
+
+Jefferson was obviously pleased. He replied the moment the letter reached Monticello. He did not wait for the “homespun” to arrive.
+
+### Letter 3: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“January 21, 1812.
+
+> “I thank you beforehand (for they are not yet arrived) for the specimens of homespun you have been so kind as to forward to me by post. I doubt not their excellence, knowing how far you are advanced in these things in your quarter. Here we do little in the fine way, but in coarse and middling goods a great deal. Every family in the country is a manufactory within itself, and is very generally able to make within itself all the stouter and middling stuffs for its own clothing and household use. We consider a sheep for every person in the family as sufficient to clothe it, in addition to the cotton, hemp and flax which we raise ourselves. For fine stuff we shall depend on your northern manufactories. Of these, that is to say, of company establishments, we have none. We use little machinery. The spinning jenny, and loom with the flying shuttle, can be managed in a family; but nothing more complicated. The economy and thriftiness resulting from our household manufactures are such that they will never again be laid aside; and nothing more salutary for us has ever happened than the British obstructions to our demands for their manufactures. Restore free intercourse when they will, their commerce with us will have totally changed its form, and the articles we shall in future want from them will not exceed their own consumption of our produce.
+
+“A letter from you calls up recollections very dear to my mind. It carries me back to the times when, beset with difficulties and dangers, we were fellow laborers in the same cause, struggling for what is most valuable to man, his right of self-government. Laboring always at the same oar, with some wave ever ahead, threatening to overwhelm us, . . . we knew not how we rode through the storm with heart and hand, and made a happy port. Still we did not expect to be without rubs and difficulties; and we have had them. . . .
+
+“But whither is senile garrulity leading me? Into politics, of which I have taken final leave. I think little of them and say less. I have given up newspapers in exchange for Tacitus and Thucydides, for Newton and Euclid, and I find myself much the happier. Sometimes, indeed, I look back to former occurrences, in remembrances of our old friends and fellow laborers, who have fallen before us. Of the signers of the Declaration of Independence, I see now living not more than half a dozen on your side of the Potomac, and on this side, myself alone. You and I have been wonderfully spared, and myself with remarkable health, and a considerable activity of body and mind. I am on horseback three or four hours of every day; visit three or four times a year a possession I have ninety miles distant, performing the winter journey on horseback. I walk little, however, a single mile being too much for me, and I live in the midst of my grandchildren, one of whom has lately promoted me to be a great-grandfather. I have heard with pleasure that you also retain good health, and a greater power of exercise in walking than I do. But I would rather have heard this from yourself, and that, writing a letter like mine, full of egotisms, and of details of your health, your habits, occupations and enjoyments, I should have the pleasure of knowing that in the race of life, you do not keep, in its physical decline, the same distance ahead of me which you have done in political honors and achievements. No circumstances have lessened the interest I feel in these particulars respecting yourself; none have suspended for one moment my sincere esteem for you, and I now salute you with unchanged affection and respect.”
+
+This drew an immediate reply. The preamble will be made clearer by understanding, what Adams evidently did not understand, that Jefferson’s post-office was at the little town of Milton, on the Rivanna, a few miles east of Monticello.
+
+If the letter in its entirety is not of especial interest here, the opening will be found to be sprightly and to reflect Adams' pleasure in once more being in communication with his old friend, and another paragraph, here repeated, gives an amusing twist to their exchange in regard to those two pieces of American “homespun.”
+
+### Letter 4: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+February 3, 1812.
+
+“Sitting at my fireside, with my Daughter Smith, on the first of February, My servant brought me a Bundle of Letters and Newspapers from the Post-office in this Town: one of the first letters that struck my eye had the post-mark of Milton, 23 Jany. 1812. Milton is the next Town to Quincy and the Post-office in it is but three miles from my house. How could the letter be so long in coming three miles? Reading the superscription I instantly handed the letter to Mrs. Smith; ‘Is not that Mr. Jefferson's hand?’ Looking attentively at it, she answered: ‘It is very like it. How is it possible a letter from Mr. Jefferson could get into the Milton Post-office?’ Opening the letter I found it, indeed from Monticello, in the hand and with the signature of Mr. Jefferson: but this did not much diminish my surprize. How is it possible a letter can come from Mr. Jefferson to me in seven or eight days? I had no expectation of an answer, thinking the distance so great and the roads so embarrassed, under two or three months.——This History would not be worth recording but for the discovery it made of a fact, very pleasing to me, viz., that the communication between us is much easier, surer and maybe more frequent than I had ever believed or suspected to be possible. . . .
+
+“The Material of the Samples of American Manufacture which I sent you, was not Wool nor Cotton, nor Silk nor Flax nor Hemp nor Iron nor Wood. They were spun from the brain of John Quincy Adams and consist in two Volumes of his Lectures on Rhetorick and oratory, delivered when he was Professor of that Science in our University of Cambridge. . . .
+
+“I have never yet seen the day I could say I have had no pleasure; or that I have more pain than pleasure. . . . But I have a complaint (of the nerves) that nothing but the ground can cure. . . . I have the start of you in age by at least ten years; but you are advanced to the rank of a Great-Grandfather before me.”
+
+### Letter 5: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“April 20, 1812.
+
+“I have it now in my power to send you a piece of homespun in return for that I received from you. Not of the fine texture, or delicate character of yours, or to drop our metaphor, not filled as that was with that display of imagination which constitutes excellence in Belles Lettres, but a mere sober, dry and formal piece of logic. *Ornari res ipsa negat.* Yet you may have enough left of your old taste for law reading, to cast an eye over some of the questions it discusses. At any rate, accept it as the offering of esteem and friendship. . . .”
+
+This refers to Jefferson’s Statement, written at the request of his Counsel and for their use in defending the former president in the then celebrated Batture Case. The Batture was “a shoal or elevation” at the bottom of the Mississippi River near New Orleans. Jefferson in a preface to his pamphlet said: “Edward Livingston, of the territory of Orleans, having taken possession of the beach of the river Mississippi adjacent to the city of New Orleans, in defiance of the general right of the nation to the property and use of the beaches and beds of their rivers, it became my duty, as charged with the preservation of the public property, to remove the intrusion, and to maintain the citizens of the United States in their right to a common use of that beach. Instead of viewing this as public act, and having recourse to those proceedings which are regularly provided for conflicting claims between the public and an individual, he chose to consider it as a private trespass committed on his freehold, by myself personally, and instituted against me, after my retirement from office, an act of trespass, in the circuit court of the United States for the district of Virginia.
+
+> “Being requested by my Counsel to furnish them with a statement of the facts in the case, as well as of my own ideas of the questions of right, I proceeded to make such a statement, fully as to facts, but briefly and generally as to the questions of right.”
+
+The receipt of this document and his appreciation of it was acknowledged by Adams:
+
+### Letter 6: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“May 1, 1812.
+
+“Yesterday, I received from the Post-office, under an envelope inscribed with your hand, but without any letter, a very learned and ingenious Pamphlet, prepared by you for the use of your Counsel in the case of Edward Livingston against you. Mr. Ingersol of Philadelphia, two or three years ago sent me two large Pamphlets upon the same Subject. Neddy is a naughty lad as well as a saucy one. I have not forgotten his lying villainy in his fictitious fabricated case of Jonathan Robbins who never existed. His Suit against you, I hope, has convinced you of his character. What has become of his defalcation and plunder of the Publick? I rejoice however that you have been plagued by this fellow; because it has stimulated you to a Research that cannot fail to be of great use to your Country. You have brought up to the view of the young generation of Lawyers in our Country Tracts and Regions of Legal Information of which they never had dreamed; but which will become, every day more and more necessary for our Courts of Justice to investigate.
+
+> “Good God! Is a President of the U. S. to be Subject to a private action of every Individual? This will soon introduce the Axiom that a President can do no wrong; or another equally curious that a President can do no right. . . .”
+
+It would not be wholly just to the memory of Edward Livingston to let Adams' impulsive comment go unnoticed. Whatever he and Jefferson may have thought of Livingston at that time, Jefferson at least so far appreciated him that they eventually became reconciled, as is amply reflected in a letter of April 4, 1824, from Jefferson to Livingston himself.
+
+The missing letter, referred to in Adams' last, turned up the next day and on the third of May he again wrote Jefferson, supplementing his further appreciation of the Batture Pamphlet with amusing references to the Prophets:
+
+### Letter 7: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“May 3, 1812.
+
+“I wrote you the first of this month acknowledging the receipt of your ‘Proceedings’ &c., and now repeat my thanks for it. It is as masterly a pamphlet as ever I have read; and every way worthy of the Mind that composed and the pen which commited it to writing. There is witt and fancy and delicate touches of satyr enough in it to make it entertaining while the profusion of learning, the close reasoning and accurate Criticism must have required a Patience of Investigation that at your age is very uncommon.
+
+“On the second of the month your letter of the 20 of April was sent to me from the Postoffice. How it was separated from the Pamphlet I know not. I thank you for the account of the Wabash Prophet. MacPherson, Parson Austin and Abraham Brown made themselves sufficiently known to me when I was in the Government. They all assumed the Character of Ambassadors extraordinary from the Almighty, but as I required miracles in proof of their Credentials, and they did not perform any, I never gave publick audience to any of them.
+
+“Though I have long acknowledged your Superiority in most branches of Science and Literature; I little thought of being compelled to confess it, in Biblical Knowledge. I had forgotten the custom of putting Prophets in the Stocks, and was obliged to have recourse to the Concordance to discover Jer. 29.20 for your Text, and found at the same time Jer. 20.23 that Jeremiah himself had been put in the Stocks. It may be thought impiety by many, but I could not help wishing that the ancient practice had been continued down to more modern times and that all the Prophets at least from Peter the Hermit, to Nimrod Hews inclusively had been confined in the Stocks and been prevented from spreading so many delusions and shedding so much blood. Could you believe that the mad rant of Nimrod which was sent to me, by Christopher [MacPherson above] with his own, and which I lent to a neighbor in whose house it was seen and read by some visitors, spread a great deal of terror and a serious apprehension that one third of the human race would be destroyed on the fourth day of the next month? . . .
+
+> “In one of your letters you mentioned the confused traditions of the Indian Antiquities. Is there any book that pretends to give any account of those traditions, or how can one acquire any idea of them? Have they any order of Priesthood among them like the Druids Bards or Minstrels of the Celtic nations, &c.?”
+
+These first exchanges about the Indians led to the first precise subject which they sustained through a sequence of letters. Their inquiries and comment in general are now of little interest to any except students of the subject; nor was the subject, in Adams’ own words, of “moment to the present or future happiness of man.” These excerpts will indicate the drift their interest took:
+
+### Letter 8: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“June 11, 1812.
+
+“You ask if there is any book that pretends to give any account of the traditions of the Indians, or how one can acquire an idea of them? Some scanty accounts of their traditions, but fuller of their customs and characters, are given us by most of the early travellers among them; these you know were mostly French. . . .”
+
+Here follows an account of the works of Lafitan, Adair and De Bry.
+
+“So much in answer to your inquiries concerning Indians, a people with whom, in the early part of my life, I was very familiar, and acquired impressions of attachment and commiseration for them which have never been obliterated. Before the Revolution, they were in the habit of coming often and in great numbers to the seat of government, where I was very much with them. I knew much the great Ontasseté, the warrior and orator of the Cherokees; he was always the guest of my father, on his journeys to and from Williamsburg. I was in his camp when he made his great farewell oration to his people the evening before his departure for England. The moon was in full splendor, and to her he seemed to address himself in his prayers for his own safety on the voyage, and that of his people during his absence; his sounding voice, distinct articulation, animated action, and the solemn silence of his people at their several fires, filled me with awe and veneration, although I did not understand a word he uttered.”
+
+### Letter 9: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“June 28, 1812.
+
+“I know not what, unless it were the prophet of Tippecanoe, had turned my curiosity to inquiries after the metaphysical science of the Indians, their ecclesiastical establishments, and theological theories; but your letter, written with all the accuracy, perspicuity, and elegance of your youth and middle age, as it has given me great satisfaction, deserves my best thanks. . . .
+
+“The various ingenuity which has been displayed in inventions of hypotheses to account for the original population of America, and the immensity of learning profusely expended to support them, have appeared to me, for a longer time than I can possibly recollect, what the physicians call the *literæ nihil sanantes.* Whether serpents’ teeth were sown here and sprung up men; whether men and women dropped from the clouds upon this Atlantic island; whether the Almighty created them here, or whether they emigrated from Europe, are questions of no moment to the present or future happiness of man. . . .
+
+“I would make a system, too. The seven hundred thousand soldiers of Zengis, when the whole or any part of them went to battle, set up a howl which resembled nothing that human imagination has conceived, unless it be the supposition that all the devils in hell were let loose at once to set up an infernal scream, which terrified their enemies and never failed to obtain them victory. The Indian yell resembles this; and therefore America was peopled from Asia.
+
+“Another system. The armies of Zengis, sometimes two, three or four hundred thousand of them, surrounded a province in a circle, and marched toward the center, driving all the wild beasts before them—lions, tigers, wolves, bears, and every living thing—terrifying them with their howls and yells, their drums and trumpets, &c., till they terrified and tamed enough of them to victual the whole army. Therefore the Scotch highlanders, who practise the same thing in miniature, are emigrants from Asia. Therefore, the American Indians, who, for anything I know, practise the same custom, are emigrants from Asia or Scotland. “I am weary of contemplating nations from the lowest and most beastly degradations of human life to the highest refinement of civilization. I am weary of philosophers, theologians, politicians, and historians. They are immense masses of absurdities, vices, and lies. Montesquieu had sense enough to say in jest, that all our knowledge might be comprehended in twelve pages in duodecimo; and I believe him in earnest. I could express my faith in shorter terms. He who loves the workman and his work, and does what he can to preserve and improve it, shall be accepted of him. . . .
+
+> “We have war now in earnest. I lament the contumacious spirit that appears about me, but I lament the cause that has given too much apology for it, the total neglect and absolute refusal of all maritime protection and defence. Money, mariners, and soldiers would be at the public service, if only a few frigates had been ordered to be built. Without this, our Union will be but a brittle China vase, a house of ice, or a palace of glass.”
+
+In his next letter Jefferson began with that touching reference to Doctor Rush already cited:
+
+### Letter 10: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“May 27, 1813.
+
+“Another of our friends of seventy-six is gone, my dear Sir, another of the co-signers of the Independence of our country. And a better man than Rush could not have left us, more benevolent, more learned, of finer genius, or more honest. We too must go; and that ere long. I believe we are under half a dozen at present; I mean the signers of the Declaration. Yourself, Gerry, Carroll, and myself, are all I know to be living. I am the only one south of the Potomac. Is Robert Treat Payne, or Floyd living? It is long since I heard of them, and yet I do not recollect to have heard of their deaths.
+
+“Moreton’s deduction of the origin of our Indians from the fugitive Trojans, . . . and his manner of accounting for the sprinkling of their Latin and Greek, is really amusing. Adair makes them talk Hebrew. Reinold Foster derives them from the soldiers sent by Kouli Khan to conquer Japan. Brerewood, from the Tartars, as well as our bears, wolves, foxes, etc., which he says, ‘must of necessity fetch their beginning from Noah’s ark, which rested, after the deluge in Asia, seeing they could not proceed by the course of nature, as the imperfect sort of living creatures do, from putrefaction.’ Bernard Romans is of opinion that God created an original man and woman in this part of the globe . . . the question of Indian origin, like many others, pushed to a certain height must receive the same answer, ‘Ignoro.’
+
+> “You ask if the usage of hunting in circles has ever been known among any of our tribes of Indians? It has been practised by them all; and is to this day, by those still remote from the settlements of the whites. But their numbers not enabling them, like Genghis Khan’s seven hundred thousand, to form themselves into circles of one hundred miles diameter, they make their circle by firing the leaves fallen on the ground, which gradually forcing the animals to a center, they there slaughter them with arrows, darts, and other missiles. This is called fire hunting, and has been practised in this State within my time, by the white inhabitants. This is the most probable cause of the origin and extension of the vast prairies in the western country, where the grass having been of extraordinary luxuriance, has made a conflagration sufficient to kill even the old as well as the young timber.”
+
+One paragraph from Adams’ reply suffices:
+
+### Letter 11: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“June 11, 1813.
+
+“ . . . To your *Ignoro,* I add *non curo.* I would as soon suppose that the Prodigal Son, in a frolic with one of his Girls, made a trip to America in one of Mother Carey’s Eggshells, and left the fruit of their Amours here: as believe any of the grave hypotheses and solemn reasonings of the Philosophers or Divines upon the subject of the peopling of America. If my Faith in Moses or Noah depended on any of these speculations, I would give it up.”
+
+During this month of May the Memoirs of the celebrated English Unitarian theologian, Theophilus Lindsay, came into Adams’ hands. In the Appendix to that work he found two letters from Jefferson to Doctor Priestley which supplied topics for several letters in both directions, beginning with a letter from Adams on May twentyninth. Jefferson was disturbed by the publication of these letters, because he saw therein a gross violation of the sanctity of private correspondence and because of their possible effect on public esteem of him. Among Adams’ comments on the two letters were:
+
+### Letter 12: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“June 14, 1813.
+
+“I cannot write volumes on a single sheet, but these letters of yours require volumes from me.
+
+“ ‘The mighty wave of public opinion, which has rolled over!’ This is in your style; and sometimes in mine, with less precision and less delicacy. O, Mr. Jefferson! what a wave of public opinion has rolled over the universe! By the universe here, I mean our globe. I can yet say, ‘there is nothing new under the sun’ in my sense. The reformation rolled a wave of public opinion over the globe, as wonderful as this. A war of thirty years was necessary to compose this wave. The wars of Charlemagne rolled a wave. The Crusades rolled a wave more mountainous than the French revolution. Only one hundred years ago, a wave rolled, when Austria, England, and Holland, in alliance, contended against France for the dominion, or rather, the alliance of Spain. . . .
+
+“What ‘a wave’ has rolled over christendom for fifteen hundred years! What a wave has rolled over France for fifteen hundred years, supporting in power and glory the dynasty of Bourbon! What a wave supported the house of Austria! What a wave has supported the dynasty of Mahomet for twelve hundred years! What a wave supported the house of Hercules for so many ages in more remote antiquity! These waves are not to be slighted. They are less resistible than those in the gulf stream in a hurricane. What a wave has the French revolution spread! And what a wave is our navy of five frigates raising!”
+
+These were Jefferson’s first references to the publication of his two letters:
+
+### Letter 13: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“June 15, 1813.
+
+“ . . . Of Lindsay’s Memoirs I had never before heard, and scarcely indeed of himself. It could not, therefore, but be unexpected, that two letters of mine should have anything to do with his life. The name of his editor was new to me, and certainly presents itself for the first time under unfavorable circumstances. Religion, I suppose, is the scope of his book; and that a writer on that subject should usher himself to the world in the very act of the grossest abuse of confidence, by publishing private letters which passed between two friends, with no view to their ever being made public, is an instance of inconsistency as well as of infidelity, of which I would rather be the victim than the author.
+
+> “By your kind quotation of the dates of my two letters, I have been enabled to turn to them. They had completely vanished from my memory. The last is on the subject of religion, and by its publication will gratify the priesthood with new occasion of repeating their comminations against me. They wish it to be believed that he can have no religion who advocates its freedom. This was the doctrine of Priestley; and I honored him for the example of liberality he set to his order. The first letter is political. It recalls to our recollection the gloomy transactions of the times, the doctrines they witnessed, and the sensibilities they excited. It was a confidential communication of reflections on these from one friend to another, deposited in his bosom, and never meant to trouble the public mind. Whether the character of the times is justly portrayed or not, posterity will decide. But on one feature of them they can never decide, the sensations excited in free yet firm minds by the terrorism of the day.”
+
+It required several long letters for Adams thoroughly to relieve himself of all that these two paragraphs suggested and from them are drawn these particular paragraphs:
+
+### Letter 14: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“June 25, 1813.
+
+“Be not surprised or alarmed. Lindsay’s Memoirs will do no harm to you or me. You have right and reason to feel and resent the breach of Confidence. I have had enough of the same kind of Treachery and Perfidy practised upon me, to know how to Sympathise with you. I will agree with you in unqualified censure of such abuses. They are the worst Species of Tyranny over private Judgment and free Enquiry. They suppress the free communication of Soul to Soul. . . . If our letters should be shown to a friend or two, in confidence, and if that confidence should be betrayed: your letters will do you no dishonor. As to mine, I care not a farthing. My Reputation has been so much the sport of the public, for fifty years, and will be with Posterity, that I hold it a bubble, a Gossamer, that idles in the wanton summer’s air.”
+
+### Letter 15: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“June 28, 1813.
+
+“It is very true that the denunciations of the priesthood are fulminated against every advocate for a complete freedom of religion. Comminations, I believe, would be plenteously pronounced by even the most liberal of them, against Atheism, Deism, against every man who disbelieved or doubted the resurrection of Jesus, or the miracles of the New Testament. Priestley himself would denounce the man who should deny the Apocalypse, or the Prophecies of Daniel. Priestley and Lindsay both have denounced as idolaters and blasphemers all the Trinitarians, and even the Arians.
+
+“Poor weak man, when will thy perfection arrive? Thy perfectability I will not deny; for a greater character than Priestley or Godwin has said, ‘Be ye perfect,’ etc. For my part I can not deal damnation around the land on all I judge the foes of God and man. . . .”
+
+### Letter 16: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“June 30, 1813.
+
+“ . . . to return, *for the present,* to ‘The sensations excited in free, yet firm minds by the Terrorism of the day.’ You say none can conceive them who did not witness them; and they were felt by one party only.
+
+“Upon this subject I despair of making myself understood by posterity, by the present age, and even by you. To collect and arrange the documents illustrative of it, would require as many lives as those of a cat. You never felt the terrorism of Shay's Rebellion in Massachusetts. I believe you never felt the terrorism of Gallatin's insurrection in Pennsylvania. You certainly never realized the terrorism of Tries's outrageous riot and rescue, as I call it. Treason rebellion—as the world and great judges, and two juries pronounce it.
+
+“You certainly never felt the terrorism excited by Genet in 1793, when ten thousand people in the streets of Philadelphia, day after day, threatened to drag Washington out of his house, and effect a revolution in the government, or compel it to declare war in favor of the French Revolution, and against England. The coolest and the firmest minds, even among the Quakers in Philadelphia, have given their opinions to me, that nothing but the yellow fever, . . . could have saved the United States from a total revolution of government. I have no doubt you were fast asleep in philosophical tranquillity when ten thousand people, and perhaps many more, were parading the streets of Philadelphia, on the evening of my *Fast Day.* When even Governor Mifflin himself, thought it his duty to order a patrol of horse and foot, to preserve the peace; when Market Street was as full of men as could stand by one another, and even before my door; when some of my domestics, in frenzy, determined to sacrifice their lives in my defense; when all were ready to make a desperate sally among the multitude, and others were with difficulty and danger dragged back by the others; when I myself judged it prudent and necessary to order chests of arms from the War Office, to be brought through the lanes and back doors; determined to defend my house at the expense of my life, and the lives of the few, very few, domestics and friends within it. What think you of terrorism, Mr. Jefferson? Shall I investigate the causes, the motives, the incentives of these terrorisms? . . .
+
+“The real terrors of both parties have always been, and now are, the fear that they shall lose the elections, and consequently the loaves and fishes; and that their antagonists will obtain them. Both parties have excited artificial terrors, and if I were summoned as a witness to say, upon oath, which party had excited, Machiavellially, the most terror, and which had really felt the most, I could not give a more sincere answer than in the vulgar style, put them in a bag and shake them, and then see which comes out first. . . .
+
+> “I will give you a hint or two more on the subject of terrorism. When John Randolph in the House, and Stephens Thompson Mason in the Senate, were treating me with the utmost contempt; when Ned Livingston was threatening me with impeachment . . . ; when I had certain information, that the daily language in an Insurance Office in Boston was, . . . ‘We must go to Philadelphia and drag that John Adams from his chair’; I thank God that terror never yet seized on my mind. But I have had more excitements to it, from 1761 to this day, than any other man. Name the other if you can. I have been disgraced and degraded, and I have a right to complain. But I always expected it, I have always submitted to it; perhaps often with too much tameness. . . .”
+
+Adams picked up the subject of Correspondences in his next letter, written a few days later, but at less length than on Tolerance and Terrorism. Most pertinent is this parenthetical remark:
+
+> “Your character in history may easily be foreseen. Your administration will be quoted by philosophers as a model of profound wisdom; by politicians, as weak, superficial, and shortsighted. Mine, like Pope's woman, will have no character at all.”
+
+Jefferson had, on June twenty-seventh, written another letter which Adams found stimulating.
+
+### Letter 17: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“June 27, 1813.
+
+“ . . . The *summum bonum* with me is now truly epicurean, ease of body and tranquillity of mind; and to these I wish to consign my remaining days. Men have differed in opinion, and been divided into parties by these opinions, from the first origin of societies, and in all governments where they have been permitted freely to think and to speak. The same political parties which now agitate the United States, have existed through all time. Whether the power of the people or that of the αριστοι should prevail, were questions which kept the States of Greece and Rome in eternal convulsions, as they now schismatize every people whose minds and mouths are not shut up by the gag of a despot. And in fact, the terms of whig and tory belong to natural as well as civil history. They denote the temper and constitution of mind of different individuals. To come to our own country, and to times when you and I became first acquainted, we well remember the violent parties which agitated the old Congress, and their bitter contests.”
+
+At the head of this letter he placed some lines from Theocritus, in the original Greek, and they drew from Adams:
+
+### Letter 18: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“July 9, 1813.
+
+“Lord! Lord! What can I do with so much Greek? When I was your age, young man, that is, seven or eight years ago, I felt a kind of pang of affection for one of the flames of my youth, and again paid my addresses to Isocrates, and Dionysius of Halicarnassensis, &c., &c., &c. I collected all my lexicons and grammars, and sat down to Περὶ συνθέσεως ὀνομάτων. In this way I amused myself for some time; but I found if I looked a word to-day, in less than a week I had to look it again. It was to little better purpose than writing letters on a pail of water.
+
+“Whenever I sit down to write you I am precisely in the situation of the wood-cutter on Mount Ida. I cannot see wood for trees. So many subjects crowd upon me, that I know not with which to begin. . . . “ ‘The same political parties, which now agitate the United States, have existed through all time.’ Precisely. . . . While all other sciences have advanced, that of government is at a stand; little better understood, little better practised now, than three or four thousand years ago. What is the reason? I say, parties and factions will not suffer improvements to be made. As soon as one man hints at an improvement, his rival opposes it. No sooner has one party discovered or invented an amelioration of the condition of man, or the order of society, than the opposite party belies it, misconstrues it, misrepresents it, ridicules it, insults it, and persecutes it. Records are destroyed. Histories are annihilated or interpolated or prohibited: sometimes by Popes, sometimes by Emperors, sometimes by aristocratical, and sometimes by democratical assemblies, and sometimes by mobs.
+
+“Aristotle wrote the history and description of eighteen hundred republics which existed before his time. Cicero wrote two volumes of discourses on government, which, perhaps, were worth all the rest of his works. The works of Livy and Tacitus, &c., that are lost, would be more interesting than all that remain. Fifty gospels have been destroyed. Where are St. Luke’s world of books that have been written?
+
+> “If you ask my opinion who has committed all the havoc, I will answer candidly, Ecclesiastical and imperial despotism have done it to conceal their frauds.
+
+> “Why are the histories of all nations, more ancient than the Christian era, lost? Who destroyed the Alexandrian library? I believe that Christian priests, Jewish rabbis, Grecian sages, and Roman emperors, had as great a hand in it as Turks and Mahometans. Democrats, rebels, and Jacobins, when they possess a momentary power, have shown a disposition both to destroy and to forge records, as Vandalical as priests and despots. Such has been and such is the world we live in.
+
+> “I recollect, near some thirty years ago, to have said carelessly to you that I wished I could find time and means to write something upon aristocracy. You seized upon the idea, and encouraged me to do it with all that friendly warmth that is natural and habitual to you. I soon began, and have been writing upon that subject ever since. I have been so unfortunate as never to be able to make myself understood.
+
+> “Your ἄριστοι are the most difficult animals to manage of anything in the whole theory and practice of government. They will not suffer themselves to be governed. They not only exert all their own subtilty, industry, and courage, but they employ the commonalty to knock to pieces every plan and model that the most honest architects in legislation can invent to keep them within bounds. Both patricians and plebeians are as furious as the workmen in England to demolish labor-saving machinery.
+
+“But who are these ἄριστοι ? Who shall judge? Who shall select these choice spirits from the rest of the congregation? Themselves? We must find out and determine who themselves are. Shall the congregation choose? Ask Xenophon. Perhaps, hereafter I may quote you Greek; too much in a hurry at present; English must suffice. Xenophon says, that the ecclesia always choose the worst men they can find, because none others will do their dirty work. This wicked motive is worse than birth or wealth. Here I want to quote Greek again, but the day before I received your letter of June 27th, I gave the book to George Washington Adams, going to the academy at Hingham. The title is ΗΘΙΚΗ ΠΟΙΗΣΙΣ , a collection of moral sentences from all the most ancient Greek poets. In one of the oldest of them I read, in Greek that I cannot repeat, a couplet, the sense of which was ‘Nobility in men is worth as much as it is in horses, asses, or rams; but the meanest-blooded puppy in the world, if he gets a little money, is as good a man as the best of them.’ Yet birth and wealth together have prevailed over virtue and talents in all ages. The many will acknowledge no other ἄριστοι. Your experience of this truth will not differ much from that of your old friend.”
+
+He followed this with two other letters written July twelfth and thirteenth, largely in defense of his writings on Aristocracy, and concluded apologetically:
+
+> “The wood-cutter on Ida, though he was puzzled to find a tree to chop at first, I presume knew how to leave off when he was weary. But I never know when to cease when I begin to write to you.”
+
+In this month of July of this year 1813, Adams wrote eight long letters to Jefferson. It was his letter of July fifteenth which began with: “Never mind, my dear Sir, if I write four letters to your one, your one is worth more than my four.” And it was this same letter which he concluded a long dissertation on his writings on government with: “You and I ought not to die before we have explained ourselves to each other.” Whereupon he took up the subject of Religion.
+
+### Letter 19: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“July 17, 1813.
+
+“Your letters to Priestley have increased my grief, if that were possible, for the loss of Rush. Had he lived, I would have stimulated him to insist on your promise to him to write him on the subject of religion. Your plan I admire.
+
+“In your letter to Priestley, of March 21st, 1801, dated at Washington, you call the Christian philosophy, ‘the most sublime and benevolent, but most perverted system, that ever shone on man.’ That it is the most sublime and benevolent, I agree, but whether it has been more perverted than that of Moses, of Confucius, of Zoroaster, of Sanchoniathon, of Numa, of Mahomet, of the Druids, of the Hindoos, &c., &c., &c., I cannot as yet determine, because I am not sufficiently acquainted with these systems, or the history of their effects, to form a decisive opinion of the result of the comparison.
+
+“In your letter, dated Washington, April 9th, 1803, you say, ‘in consequence of some conversation with Dr. Rush, in the years 1798-99, I had promised him some day to write him a letter, giving him my view of the Christian system. I have reflected upon it since, and even sketched the outlines in my own mind. I should first take a general view of the moral doctrines of the most remarkable of the ancient philosophers, of whose ethics we have sufficient information to make an estimate, say of Pythagoras, Epicurus, Epictetus, Socrates, Cicero, Seneca, Antoninus. I should do justice to the branches of morality they have treated well, but point out the importance of those in which they are deficient. I should then take a view of the deism and ethics of the Jews, and show in what a degraded state they were, and the necessity they presented of a reformation. I should proceed to a view of the life, character, and doctrines of Jesus, who, sensible of the incorrectness of their ideas of the Deity and of morality, endeavored to bring them to the principles of a pure deism, and juster notions of the attributes of God, to reform their moral doctrines to the standard of reason, justice, and philanthropy, and to inculcate a belief of a future state. This view would purposely omit the question of his divinity, and even of his inspiration. To do him justice, it would be necessary to remark the disadvantages his doctrines have to encounter, not having been committed to writing by himself, but by the most unlettered of men, by memory, long after they had heard them from him, when much was forgotten, much misunderstood, and presented in very paradoxical shapes. Yet such are the fragments remaining as to show a master-workman, and that his system of morality was the most benevolent and sublime, probably, that has ever been taught, and more perfect than those of any of the ancient philosophers. His character and doctrines have received still greater injury from those who pretend to be his special disciples, and who have disfigured and sophisticated his actions and precepts from views of personal interest, so as to induce the unthinking part of mankind to throw off the whole system in disgust, and to pass sentence, as an impostor on the most innocent, the most benevolent, the most eloquent and sublime character that has ever been exhibited to mankind. This is the outline.’”
+
+Adams’ pithy comment on this was to add: “‘*Sancte Socrate! Ora pro nobis!*’—Erasmus.” The next day again he wrote another lengthy letter, showing anew the extraordinary compass of his reading:
+
+### Letter 20: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“July 18, 1813.
+
+“I have more to say on religion. For more than sixty years I have been attentive to this great subject. Controversies between Calvinists and Arminians, Trinitarians and Unitarians, Deists and Christians, Atheists and both, have attracted my attention, whenever the singular life I have led would admit, to all these questions. The history of this little village of Quincy, if it were worth recording, would explain to you how this happened. I think I can say I have now read away bigotry, if not enthusiasm.
+
+“What does Priestley mean by unbeliever when he applies it to you? How much did he ‘unbelieve’ himself? Gibbon had him right when he determined his creed scanty. We are to understand, no doubt, that he believed the resurrection of Jesus, some of his miracles, his inspiration; but in what degree? He did not believe in the inspiration of the writings that contain his history. Yet he believed in the Apocalyptic beast, and he believed as much as he pleased in the writings of Daniel and John. This great and extraordinary man, whom I sincerely loved, esteemed, and respected, was really a phenomenon; a comet in the system, like Voltaire, Bolingbroke, and Hume. Had Bolingbroke or Hume taken him in hand, what would they have made of him and his creed?
+
+> “I do not believe you have read much of Priestley’s ‘corruptions of Christianity,’ his History of early opinions of Jesus Christ, his predestination, his no soul system, or his controversy with Horsley.
+
+> “I have been a diligent student for many years in books whose titles you have never seen. In Priestley’s and Lindsay’s writings, in Farmer, Cappe, in Tucker, or Edward Search’s Light of Nature Pursued; in Edwards and Hopkins, and, lately, in Ezra Styles Ely, his reverend and learned panegyrists, and his elegant and spirited opponents. I am not wholly uninformed of the controversies in Germany, and the learned researches of universities and professors, in which the sanctity of the Bible and the inspiration of its authors are taken for granted or waived, or admitted or not denied. I have also read Condorcet’s Progress of the Human Mind.
+
+> “Now, what is all this to you? No more than if I should tell you that I read Dr. Clark, and Dr. Waterland, and Emlyn, and Leland’s View or Review of the Deistical writers, more than fifty years ago, which is a literal truth.
+
+> “I blame you not for reading Euclid and Newton, Thucydides and Theocritus; for I believe you will find as much entertainment and instruction in them as I have found in my theological and ecclesiastical instructors, or even, as I have found, in a profound investigation of the life, writings, and doctrines of Erasmus, whose disciples were Milton, Harrington, Selden, St. John, the Chief Justice, father of Bolingbroke, and others, the choicest spirits of their age; or in Le Harpe’s history of the philosophy of the eighteenth century; or in Vanderkemp’s vast map of the causes of the revolutionary spirit, in the same and preceding centuries. These things are to me the marbles and nine-pins of old age; I will not say the beads and prayer-books.
+
+> “I agree with you as far as you go, most cordially, and, I think, solidly. How much farther I go, how much more I believe than you, I may explain in a future letter. This much I will say at present. I have found so many difficulties that I am not astonished at your stopping where you are; and, so far from sentencing you to perdition, I hope soon to meet you in another country.”
+
+On July twenty-second Adams quoted from letters written by Priestley, and remarked: “This was possibly, and not improbably, the last letter this great, this learned, indefatigable, most excellent and extraordinary man ever wrote, for on the 4th of February, 1804, he was released from his labors and sufferings. Peace, rest, joy and glory to his soul! For I believe he had one, and one of the greatest. . . .
+
+> “If Priestley had lived I should certainly have corresponded with him. . . .
+
+> “I will not communicate to you more than a specimen of the questions I would have asked Priestley.
+
+> “One is: Learned and scientific, Sir!—You have written largely about matter and spirit, and have concluded there is no human soul. Will you please to inform me what matter is? and what spirit is? Unless we know the meaning of words, we cannot reason in or about words.
+
+> “I shall never send you all the questions that I would put to Priestley, because they are innumerable; but I may hereafter send you two or three.
+
+> “I am, in perfect charity, your old friend.”
+
+He reverted to the subject of Aristocracy on an unindicated day in August, beginning his letter with a quotation from Theognis in Greek, which he immediately rendered into English.
+
+### Letter 21: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“August, 1813.
+
+“Behold my translation!
+
+“My friend Curnis, when we want to purchase horses, asses, or rams, we inquire for the well-born, and every one wishes to procure from the good breeds. A good man does not wish to marry a shrew, the daughter of a shrew, unless they give a great deal of money with her. . . .
+
+“Theognis lived five hundred and forty-four years before Jesus Christ. Has science, or morals, or philosophy, or criticism, or Christianity, advanced, or improved, or enlightened mankind upon this subject, and shown them that the idea of the ‘well-born’ is a prejudice, a phantom, a point-no-point, a Cape Flyaway, a dream?
+
+“I say it is the ordinance of God Almighty, in the constitution of human nature, and wrought into the fabric of the universe. Philosophers and politicians may nibble and quibble, but they never will get rid of it. Their only recourse is to control it. Wealth is another monster to be subdued. Hercules could not subdue both or either. To subdue them by regular approaches and strong fortifications, by a regular siege, was not my object in writing on aristocracy, as I proposed to you in Grosvenor Square. [When Jefferson, then Minister to France, was on a visit to England, where Adams was Minister of the United States.] If you deny any one of these positions, I will prove them to demonstration by examples from your own Virginia, and from every other State in the Union, and from the history of every nation, civilized or savage, from all we know of the time of the creation of the world.
+
+“Whence is the derivation of the words *generous, generously, generosity,* &c.? Johnson says, ‘Generous—*a generosus,* Latin, not of mean birth; of good extraction; noble of mind; magnanimous; open of heart; liberal; munificent; strong, vigorous,’ and he might have added, courageous, heroic, patriotic. . . .
+
+“What is the origin of the word *gentleman?*
+
+“It would be a curious critical speculation for a learned idler to pursue this idea through all languages.
+
+“We call this sentiment a prejudice, because we can give what names we please to such things as we please; but, in my opinion, it is a part of the natural history of man, and politicians and philosophers may as well project to make the animal live without bones or blood, as society can pretend to establish a free government without attention to it.”
+
+This letter closed abruptly with this postscript:
+
+“Quincy, 16 August, 1813.
+
+“I can proceed no further with this letter, as I intended.
+
+“Your friend, my only daughter, expired yesterday morning . . . in the forty-ninth year of her age, forty of which she was the healthiest and firmest of us all. Since which she has been a monument to suffering and patience.”
+
+He began his next letter with another quotation from Theognis, in continuation of his consideration of Aristocracy:
+
+### Letter 22: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“September 2, 1813.
+
+“ . . . I should render the Greek into English thus:
+
+“Nor does a woman disdain to be the wife of a bad rich man. But she prefers a man of property before a good man; for riches are honored, and a good man marries from a bad family, and a bad man from a good one. Wealth mingles races. . . .
+
+“Tell me, also, whether poet, orator, historian, or philosopher, can paint the picture of every city, county, or State, in our pure, uncorrupted, unadulterated, uncontaminated federal republic, or, in France, England, Holland, and all the rest of Christendom or Mahometanism, in more precise colors? . . .
+
+“The five pillars of aristocracy are beauty, wealth, birth, genius, and virtue. Any one of these three first can, at any time, overbear any one of the two last.
+
+“Let me ask again, what a wave of public opinion, in favor of birth, has been spread over the globe by Abraham, by Hercules, by Mahomet, by Guelphs, Ghibellines, Bourbons, and a miserable Scottish chief, Stuart, by Zengis, by ——, by ——, by a million of others. And what a wave will be spread by Napoleon and by Washington! Their remotest cousins will be sought, and will be proud, and will avail themselves of their descent. Call this principle, prejudice, folly, ignorance, baseness, slavery, stupidity, adulation, superstition, or what you will, I will not contradict you. But the fact in natural, moral, political, and domestic history, I will not deny, or dispute, or question.
+
+> “And is this great fact in the natural history of man, this unalterable principle of morals, philosophy, policy, domestic felicity, and daily experience from the creation, to be overlooked, forgotten, neglected, or hypocritically waved out of sight, by a legislator, by a professed writer upon civil government, and upon constitutions of civil government? . . .
+
+> “You may laugh at the introduction of beauty among the pillars of aristocracy. But Madame du Barry says, *‘la véritable royauté c’est la beauté;* and there is not a more certain truth. Beauty, grace, figure, attitude, movement, have in innumerable instances, prevailed over wealth, birth, talents, virtues, and everything else, in men of the highest rank, greatest power, and, sometimes, the most exalted genius, greatest fame, and highest merit.”
+
+This paragraph on the talent of beauty waited during more than two months for its more extensive and even more vivacious development. Meantime, Jefferson wrote, in late August, a letter which deflected Adams from the discussion of Aristocracy and set him off again on religion. He despatched five letters before Jefferson wrote again. Here are given Jefferson's stimulating letter, in large part, and the more interesting quotations from Adams' replies.
+
+### Letter 23: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“August 22, 1813.
+
+“Since my letter of June the 27th, I am in your debt for many; all of which I have read with infinite delight. They open a wide field for reflection, and offer subjects enough to occupy the mind and the pen indefinitely. I must follow the good example you have set, and when I have not time to take up every subject, take up a single one. Your approbation of my outline to Dr. Priestley is a great gratification to me; and I very much suspect that if thinking men would have the courage to think for themselves, and to speak what they think, it would be found they do not differ in religious opinions as much as is supposed. . . .
+
+“It is with pleasure I can inform you, that Priestley finished the comparative view of the doctrines of the philosophers of antiquity, and of Jesus, before his death; and that it was printed soon after. And, with still greater pleasure, that I can have a copy of his work forwarded from Philadelphia, by a correspondent there, and presented for your acceptance, by the same mail which carries you this, or very soon after. The branch of the work which the title announces, is executed with learning and candor, as was everything Priestley wrote, but perhaps a little hastily; for he felt himself pressed by the hand of death. The Abbé Batteux had, in fact, laid the foundation of this part in his Causes Premieres, with which he has given us the originals of Ocellus and Timæus, who first committed the doctrines of Pythagoras to writing, and Enfield, to whom the Doctor refers, had done it more copiously. But he has omitted the important branch, which, . . . you say you have never seen executed, a comparison of the morality of the Old Testament with that of the New. And yet, no two things were ever more unlike. I ought not to have asked him to give it. He dared not. He would have been eaten alive by his intolerant brethren. . . .
+
+“Very soon after my letter to Doctor Priestley, the subject being still in my mind, I had leisure during an abstraction from business for a day or two, while on the road, to think a little more on it, and to sketch more fully than I had done to him, a syllabus of the matter which I thought should enter into the work. I wrote it to Doctor Rush, and there ended all my labor on the subject; himself and Doctor Priestley being the only two depositories of my secret. The fate of my letter to Priestley, after his death, was a warning to me on that of Doctor Rush; and at my request, his family were so kind as to quiet me by returning my original letter and syllabus. By this, you will be sensible how much interest I take in keeping myself clear of religious disputes before the public, and especially of seeing my syllabus disembowelled by the Aruspices of the modern Paganism. Yet I enclose it *to you* with entire confidence, free to be perused by yourself and Mrs. Adams, but by no one else, and to be returned to me.
+
+> **[enclosure]**
+>
+> > “You are right in supposing, in one of yours, that I had not read much of Priestley’s Predestination, his no-soul system, or his controversy with Horsley. But I have read his Corruptions of Christianity, and Early Opinions of Jesus, over and over again; and I rest on them, and on Middleton’s writings, especially his letters from Rome, and to Waterland, as the basis of my own faith. These writings have never been answered, nor can be answered by quoting historical proofs, as they have done. For these facts, therefore, I cling to their learning, so much superior to my own.”
+
+### Letter 24: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“September 14, 1813.
+
+“I owe you a thousand thanks for your favor of August 22d and its enclosures, and for Doctor Priestley’s ‘Doctrines of Heathen Philosophy compared with those of Revelation.’ Your letter to Dr. Rush, and the syllabus, I return inclosed with this, according to your injunction, though with great reluctance. May I beg a copy of both? . . .
+
+“The human understanding is a revelation from its maker which can never be disputed or doubted. There can be no scepticism, Pyrrhonism, or incredulity or infidelity here. No prophecies, no miracles are necessary to prove the celestial communication.
+
+“This revelation had made it certain that two and one make three, and that one is not three nor can three be one. We can never be so certain of any prophecy, or the fulfillment of any prophecy, or of any miracle, or the design of any miracle, as we are from the revelation of nature, that is, nature’s God, that two and two are equal to four. Miracles or prophecies might frighten us out of our wits, might scare us to death, might induce us to lie, to say that we believe that two and two make five, but we should not believe it; we should know the contrary.
+
+“Had you and I been forty days with Moses on Mount Sinai, and admitted to behold the divine Shechinah, and there told that one was three and three one, we might not have had courage to deny it, but we could not have believed it. The thunders and lightnings and earthquakes, and the transcendent splendors and glories, might have overwhelmed us with terror and amazement, but we could not have believed the doctrine. We should be more likely to say in our hearts—whatever we might say with our lips,—This is chance. There is no God, no truth. This is all delusion, fiction, and a lie, or it is all chance. But what is chance? It is motion; it is action; it is event; it is phenomenon without cause. Chance is no cause at all; it is nothing, and nothing has produced all this pomp and splendor, and nothing may produce our eternal damnation in the flames of hell-fire and brimstone, for what we know, as well as this tremendous exhibition of terror and falsehood.
+
+“God has infinite wisdom, goodness and power; he created the universe; his duration is eternal, *a parte ante* and *a parte post*. His presence is as extensive as space. What is space? An infinite spherical *vacuum*. He created this speck of dirt and the human species for his glory; and with the deliberate design of making nine-tenths of our species miserable for ever for his glory. This is the doctrine of Christian theologians, in general, ten to one. Now, my friend, can prophecies or miracles convince you or me that infinite benevolence, wisdom, and power, created, and preserves for a time, innumerable millions, to make them miserable for ever, for his own glory? Wretch! What is his glory? Is he ambitious? Does he want promotion? Is he vain, tickled with adulation, exulting and triumphing in his power and the sweetness of his vengeance? Pardon me, my Maker, for these awful questions. My answer to them is always ready. I believe no such things. My adoration of the author of the universe is too profound and too sincere. The love of God and his creation—delight, joy, triumph, exultation in my own existence—though but an atom, a *molécule organique* in the universe—are my religion.
+
+“Howl, snarl, bite, ye Calvinistic, ye Athanasian divines, if you will; ye will say I am no Christian. tian; I say ye are no Christians, and there the account is balanced. Yet I believe all the honest men among you are Christians, in my sense of the word.
+
+“When I was at college, I was a metaphysician, at least I thought myself such, and such men as Locke, Hemmenway, and West thought me so too, for we were forever disputing, though in great good humor.
+
+“When I was sworn as an attorney in 1758, . . . I was in a low state of health, thought in great danger of a consumption, living on milk, vegetables, pudding, and water, not an atom of meat or a drop of spirit; my next neighbor, my cousin, my friend, Dr. Savil, was my physician. He was anxious for me, and did not like to take upon himself the sole responsibility of my recovery. He invited me to a ride. I mounted my horse, and rode with him to Hingham, on a visit to Dr. Ezekiel Hersey, a physician of great fame, who felt my pulse, looked in my eyes, heard Savil describe my regimen and course of medicine, and then pronounced his oracle: ‘Persevere, and as sure as there is a God in Heaven you will recover.’
+
+“He was an everlasting talker, and ran out into history, philosophy, metaphysics, &c., and frequently put questions to me as if he wanted to sound me and see if there was any thing in me besides hectic fever. I was young and then very bashful, however saucy I may have sometimes been since. I gave him very modest and very diffident answers. But when he got upon metaphysics, I seemed to feel a little bolder, and ventured into something like argument with him. I drove him up, as I thought, into a corner, from which he could not escape. ‘Sir, it will follow, from what you have now advanced, that the universe, as distinct from God, is both infinite and eternal.’ ‘Very true,’ said Dr. Hersey, ‘your inference is just, the consequence is inevitable, and I believe the universe to be both eternal and infinite.’
+
+“Here I was brought up! I was defeated! I was not prepared for this answer. This was fifty-five years ago.
+
+“When I was in England, from 1785 to 1788, I may say I was intimate with Dr. Price. I had much conversation with him at his own house, at my house, and at the houses and tables of many friends. In some of our most unreserved conversations, when we have been alone, he has repeatedly said to me: ‘I am inclined to believe that the universe is eternal and infinite: it seems to me that an eternal and infinite effect must necessarily flow from an eternal and infinite cause; and an infinite wisdom, goodness, and power, that could have been induced to produce a universe in time, must have produced it from eternity. It seems to me the effect must flow from the cause.’
+
+> “Now, my friend Jefferson, suppose an eternal, self-existent being, existing from eternity, possessed of infinite wisdom, goodness, and power, in absolute, total solitude, six thousand years ago, conceiving the benevolent project of creating a universe! I have no more to say at present.
+
+> “It has been long, very long, a settled opinion in my mind, that there is now, never will be, and never was, but one being who can understand the universe, and that it is not only vain but wicked for insects to pretend to comprehend it.”
+
+Next day, in the course of another letter on kindred topics, he drew himself up suddenly with:
+
+### Letter 25: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“September 15, 1813.
+
+> “ . . . You will ask me, what conclusion I draw from all this. I answer, I drop into myself, and acknowledge myself to be a fool. No mind but one can see through the immeasurable system. It would be presumption and impiety in me to dogmatize on such subjects. My duties in my little infinitisimal circle I can understand and feel. The duties of a son, a brother, a father, a neighbor, a citizen, I can see and feel, but I trust the ruler with his skies. . . .
+
+“Now for the odd, the whimsical, the frivolous. I had scarcely sealed my last letter to you upon Theognis’ doctrine of well-born stallions, jacks, and rams, when they brought me from the post-office, a packet, without post-mark, without letter, without name, date, or place. Nicely sealed was a printed copy of eighty or ninety pages, in large full octavo, entitled,—Section first. Aristocracy.
+
+“I gravely composed my risible muscles and read it through. It is, from beginning to end, an attack upon me, by name, for the doctrines of aristocracy in my three volumes of Defence, &c. [*A Defense of the Constitution of Government of the United States of America.*] The conclusion of the whole is, that an aristocracy of bank-paper is as bad as the nobility of France or England. I most assuredly will not controvert this point, with this man. Who he is, I cannot conjecture. . . .
+
+“Is it Oberon, is it Queen Mab, that reigns and sports with us little beings? I thought that my books, as well as myself, were forgotten. But, behold! I am to become a great man in my expiring moments. Theognis and Plato, and Hersey and Price, and Jefferson and I, must go down to posterity together! and I know not, upon the whole, where to wish for better company. I wish to add [F. Adrian] Vanderkemp, who has been here to see me after an interruption of twenty-four years. I could and ought to add many others, but the catalogue would be too long.
+
+“Why is Plato associated with Theognis, &c.? Because no man ever expressed so much terror of the power of birth. His genius could invent no remedy or precaution against it, but a community of wives, a confusion of families, a total extinction of all relations of father, son, and brother. Did the French revolutionists contrive much better against the influence of birth?”
+
+### Letter 26: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“September 22, 1813.
+
+“ . . . It appears to me that the great principle of the Hebrews was the fear of God; that of the Gentiles, honor the gods; that of the Christians, the *love* of God. Could the equiveration of my nerves and the inflammation of my eyes be cured, and my age diminished by twenty or thirty years, I would attend you in these researches with infinitely more pleasure than I would George the Fourth, Napoleon, Alexander, or Madison. But only a few hours, a few moments remain for your old friend.”
+
+### Letter 27: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“October 13, 1813.
+
+“ . . . I now send you, according to your request, a copy of the syllabus. To fill up this skeleton with arteries, with veins, with nerves, muscles and flesh, is really beyond my time and information. . . .
+
+“Such a canvass is too broad for the age of seventy, and especially of one whose chief occupations have been in the practical business of life. We must leave, therefore, to others, younger and more learned than we are, to prepare the euthanasia for Platonic Christianity, and its restoration to the primitive simplicity of its founder. I think you give a just outline of the theism of the three religions, when you say that the principle of the Hebrew was the fear, of the Gentile the honor, and of the Christian the love of God. . . .
+
+“On the subject of the postscript of yours of August the 16th and of Mrs. Adams' letter, I am silent. I know the depths of the affliction it has caused and can sympathize with it the more sensibly, inasmuch as there is no degree of affliction, produced by the loss of those dear to us, which experience has not taught me to estimate. I have ever found time and silence the only medicine, and these but assuage, they never can suppress, the deep drawn sigh which recollection forever brings up, until recollection and life are extinguished together. Ever affectionately yours."
+
+Jefferson did indeed run the gamut of domestic affliction. He was married in 1772 and his wife bore him six children. Three of these, of whom one was a son, died in infancy. A daughter named Lucy died in her twelfth year while her father was absent as United States Minister in France. Another daughter, Maria, grew to young womanhood and married, but she died in her twenty-sixth year. After his wife died Jefferson did not marry again in the remaining forty-four years of his lifetime. He survived all his children except his daughter, Martha, the wife of Thomas Mann Randolph.
+
+### Letter 28: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“October 28, 1813.
+
+“According to the reservation between us, of taking up one of the subjects of our correspondence at a time, I turn to your letters of August the 16th and September the 2d.
+
+“The passage you quote from Theognis, I think has an ethical rather than a political object. The whole piece is a moral *exhortation* . . . and this passage particularly seems to be a reproof to man, who, while with his domestic animals he is curious to improve the race, by employing always the finest male, pays no attention to the improvement of his own race, but intermarries with the vicious, the ugly, or the old, for considerations of wealth or ambition. It is conformity with the principle adopted afterwards by the Pathagoreans, and expressed by Ocellus in another form . . . which, as literally as intelligibility will admit, may be thus translated: ‘concerning the interprocreation of men, how, and of whom it shall be, in a perfect manner, and according to the laws of modesty and sanctity, conjointly, this is what I think right. First to lay it down that we do not commix for the sake of pleasure, but of the procreation of children. For the powers, the organs and desires for coition have not been given by God to man for the sake of pleasure, but for the procreation of the race. For as it were incongruous, for a mortal born to partake of divine life, the immortality of the race being taken away, God fulfilled the purpose by making the generations uninterrupted and continuous. This, therefore, we are especially to lay down as a principle, that coition is not for pleasure.’ But nature, not trusting to this moral and abstract motive, seems to have provided more securely for the perpetuation of the species, by making it the effect of the *œstrum* implanted in the constitution of both sexes. And not only has the commerce of love been indulged on this unhallowed impulse, but made subservient also to wealth and ambition by marriage, without regard to the beauty, the healthiness, the understanding, or virtue of the subject from which we are to breed. The selecting the best male for a harem of well-chosen females also, which Theognis seems to recommend from the example of our sheep and asses, would doubtless improve the human, as it does the brute animal, and produce a race of veritable αριστοι. For experience proves, that the moral and physical qualities of man, whether good or evil, are transmissible in a certain degree from father to son. But I suspect that the equal rights of men will rise up against this privileged Solomon and his harem, and oblige us to continue acquiescence under the «Αμαυρωσις γενεος αστων» which Theognis complains of, and to content ourselves with the accidental aristoi produced by the fortuitous concourse of breeders. For I agree with you that there is a natural aristocracy among men. The grounds of this are virtue and talents. Formerly, bodily powers gave place among the aristoi. But since the invention of gunpowder has armed the weak as well as the strong with missile death, bodily strength, like beauty, good humor, politeness and other accomplishments, has become but an auxiliary ground of distinction. There is also an artificial aristocracy, founded on wealth and birth, without either virtue or talents; for with these it would belong to the first class. The natural aristocracy I consider as the most precious gift of nature, for the instruction, the trusts, and government of society. And indeed, it would have been inconsistent in creation to have formed man for the social state, and not to have provided virtue and wisdom enough to manage the concerns of the society. May we not even say, that that form of government is the best, which provides the most effectually for a pure selection of these natural aristoi into the offices of government? The artificial aristocracy is a mischievous ingredient in government, and provision should be made to prevent its ascendency. On the question, what is the best provision, you and I differ; but we differ as rational friends, using the free exercise of our own reason, and mutually indulging its errors. . . .
+
+“With respect to aristocracy, we should further consider, that before the establishment of the American States, nothing was known to history but the man of the old world, crowded within limits either small or overcharged, and steeped in the vices which that situation generates. A government adapted to such men would be one thing; but a very different one, that for the man of these States. Here every one may have had to labor for himself, if he chooses; or, preferring the exercise of any other industry, may exact for it such compensation as not only to afford a comfortable subsistence, but wherewith to provide for a cessation from labor in old age. Every one, by his property, or by his satisfactory situation, is interested in the support of law and order. And such men may safely and advantageously reserve to themselves a wholesome control over their public affairs, and a degree of freedom, which, in the hands of the *canaille* of the cities of Europe, would be instantly perverted to the demolition and destruction of everything public and private. The history of the last twenty-five years of France, and of the last forty years in America, nay of the last two hundred years, proves the truth of both parts of this observation.
+
+“But even in Europe a change has sensibly taken place in the mind of man. Science has liberated the ideas of those who read and reflect, and the American example has kindled feelings of right in the people. An insurrection has consequently begun, of science, talents, and courage, against rank and birth, which have fallen into contempt. It has failed in its first effort, because the mobs of the cities, the instrument used for its accomplishment, debased by ignorance, poverty, and vice, could not be restrained to rational action. But the world will recover from the panic of this first catastrophe. Science is progressive, and talents and enterprise on the alert. Resort may be had to the people of the country, a more governable power from their principles and subordination; and rank, and birth, and tinsel-aristocracy will finally shrink into insignificance, even there. This, however, we have no right to meddle with. It suffices for us, if the moral and physical condition of our own citizens qualifies them to select the able and good for the direction of their government, with a recurrence of elections at such short periods as will enable them to displace an unfaithful servant, before the mischief he meditates, may be irremediable.
+
+“I have thus stated my opinion on a point on which we differ, not with a view to controversy, for we are both too old to change opinions which are the result of a long life of inquiry and reflection; but on the suggestions of a former letter of yours, that we ought not to die before we have explained ourselves to each other. We acted in perfect harmony, through a long and perilous contest for our liberty and independence. A constitution has been acquired, which, though neither of us thinks perfect, yet both consider as competent to render our fellow citizens the happiest and the securest on whom the sun has ever shone. If we do not think exactly alike as to its imperfections, it matters little to our country, which after devoting to it long lives of disinterested labor, we have delivered over to our successors in life, who will be able to take care of it and of themselves.
+
+“Of the pamphlet on aristocracy which has been sent to you, or who may be its author, I have heard nothing but through your letter. If the person you suspect, it may be known from the quaint, mystical, and hyperbolical ideas, involved in affected, new-fangled and pedantic terms which stamp his writings. Whatever it be, I hope your quiet is not to be affected at this day by the rudeness or intemperance of scribblers; but that you may continue in tranquillity to live and to rejoice in the prosperity of our country, until it shall be your own wish to take your seat among the aristoi who have gone before you. Ever and affectionately yours.”
+
+Adams wrote on November twelfth and the letter was the first of six in six consecutive weeks. He began a letter on November fifteenth with:
+
+### Letter 29: Adams → Jefferson
+
+> “Accept my thanks for the comprehensive syllabus in your favor of October 12th.
+
+> “The Psalms of David, in sublimity, beauty, pathos and originality, or, in one word, in poetry, are superior to all the odes, hymns and songs on our language. But I had rather read them in our prose translation, than in any version I have seen. His morality, however, often shocks me, like Tristram Shandy’s execrations.”
+
+He drifted into inquiries on the authenticity of the Ten Commandments, as questioned by Goethe. When he had finished that letter his appetite for writing on that day was not appeased, for immediately he wrote another:
+
+### Letter 30: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“November 15, 1813.
+
+“I cannot appease my melancholy commiseration for our armies in this furious snow storm, in any way so well as by studying your letter of October 28.
+
+“We are now explicitly agreed on one important point, viz., that there is a natural aristocracy among men, the grounds of which are virtue and talents. You very justly indulge a little merriment upon this solemn subject of aristocracy. I often laugh at it too, for there is nothing in this laughable world more ridiculous than the management of it by all the nations of the earth; but while we smile, mankind have reason to say to us, as the frogs said to the boys, what is sport to you, are wounds and death to us. When I consider the weakness, the folly, the pride, the vanity, the selfishness, the artifice, the low craft and mean cunning, the want of principle, . . . the unfeeling cruelty of a majority of those (in all nations) who are allowed an aristocratical influence, and, on the other hand, the stupidity with which the more numerous multitude not only become their dupes, but even love to be taken in by their tricks, I feel a stronger disposition to weep at their destiny, than to laugh at their folly. But though we are agreed in one point, in words, it is not yet certain that we are perfectly agreed in sense. Fashion has introduced an indeterminate use of the word talents. Education, wealth, strength, beauty, stature, birth, marriage, graceful attitudes and motions, gait, air, complexion, physiognomy, are talents, as well as genius, science, and learning. Any one of these talents that in fact commands or influences two votes in society, gives to the man who possesses it the character of an aristocrat, in my sense of the word. Pick up the first hundred men you meet, and make a republic. Every man will have an equal vote; but when deliberations and discussions are opened, it will be found that twenty-five, by their talents, virtues being equal, will be able to carry fifty votes. Every one of these twenty-five is an aristocrat in my sense of the word; whether he obtains one vote in addition to his own, by his birth, fortune, figure, eloquence, science, learning, craft, cunning, or even his character for good fellowship, and a *bon vivant.*
+
+“What gave Sir William Wallace his amazing aristocratical superiority? His strength. What gave Mrs. Clarke her aristocratical influence—to create generals, admirals and bishops? Her beauty. What gave Pompadour and Du Barry the power of making cardinals and popes? And I have lived for years in the Hotel de Valentinois, with Franklin, who had as many virtues as any of them. In the investigation of the meaning of the word “talents,” I could write 630 pages as pertinent as John Taylor’s, of Hazlewood; but I will select a single example; for female aristocrats are nearly as formidable as males. A daughter of a greengrocer walks the streets in London daily, with a basket of cabbage sprouts, dandelions, and spinach, on her head. She is observed by the painters to have a beautiful face, an elegant figure, a graceful step, and a *debonair.* They hire her to sit. She complies, and is painted by forty artists in a circle around her. The scientific Dr. William Hamilton outbids the painters, sends her to school for a genteel education, and marries her. This lady not only causes the triumphs of the Nile, Copenhagen, and Trafalgar, but separates Naples from France, and finally banishes the king and queen from Sicily. Such is the aristocracy of the natural talent of beauty. Millions of examples might be quoted from history, sacred and profane, from Eve, Hannah, Deborah, Susanna, Abigail, Judith, Ruth, down to Helen, Mrs. de Mainbenor, and Mrs. Fitzherbert. For mercy's sake do not compel me to look to our chaste States and territories to find women, one of whom let go would in the words of Holopherne's guards, deceive the whole earth. . . .
+
+“Your commentary on the proverbs of Theognis, reminds me of two solemn characters; the one resembling John Bunyan, the other Scarron. The one John Torrey, the other Ben Franklin. Torrey, a poet, an enthusiast, a superstitious bigot, once very gravely asked my brother, whether it would not be better for mankind if children were not always begotten by religious motives only? Would not religion in this sad case have as little efficiency in encouraging procreation, as it has now in discouraging it? I should apprehend a decrease in population, even in our country where it increases so rapidly.
+
+“In 1775, Franklin made a morning visit at Mrs. Yard's, to Sam Adams and John. He was unusually loquacious. ‘Man, a rational creature!’ said Franklin. ‘Come, let us suppose a rational man. Strip him of all his appetites, especially his hunger and thirst. He is in his chamber, engaged in making experiments, or in pursuing some problem. He is highly entertained. At this moment a servant knocks. “Sir, dinner is on the table.” “Dinner! pox! pough! but what have you for dinner?” “Ham and chickens.” “Ham! and must I break the chain of my thoughts to go down and gnaw a morsel of damned hog’s arse? Put aside your ham; I will dine to-morrow.”’ Take away appetite, and the present generation would not live a month, and no future generation would ever exist; and thus the exalted dignity of human nature would be annihilated and lost, and in my opinion the whole loss would be of no more importance than putting out a candle, quenching a torch, or crushing a firefly, *if in this world we only have hope.* Your distinction between natural and artificial aristocracy, does not appear to me founded. Birth and wealth are conferred upon some men as imperiously by nature as genius, strength, or beauty. The heir to honors, and riches, and power, has often no more merit in procuring these advantages, than he has in obtaining a handsome face, or an elegant figure. When aristocracies are established by human laws, and honor, wealth and power are made hereditary by municipal laws and political institutions, then I acknowledge artificial aristocracy to commence; but this never commences till corruption in elections become dominant and uncontrollable. But this artificial aristocracy can never last. The everlasting envies, jealousies, rivalries, and quarrels among them; their cruel rapacity among the poor ignorant people, their followers, compel them to set up Cæsar, a demagogue, to be a monarch, a master; *pour mettre chacun à sa place.* Here you have the origin of all artificial aristocracy, which is the origin of all monarchies. And both artificial aristocracy and monarchy, and civil, military, political, and hierarchical despotism, have all grown out of the natural aristocracy of virtues and talents. . . .”
+
+Adams’ next letter, written December third, ranges in many directions over the field of ecclesiastical history and terminates with this anecdote, probably of the nomadic George Whitefield:
+
+> “I know of no philosopher, or theologian, or moralist, ancient or modern, more profound, more infallible than Whitefield, if the anecdote I heard be true.
+
+“He began: ‘Father Abraham,’ with his hands and eyes gracefully directed to the heavens, as I have more than once seen him: ‘Father Abraham, whom have you there with you? Have you Catholics?’ ‘No.’ ‘Have you Protestants?’ ‘No.’ ‘Have you Churchmen?’ ‘No.’ ‘Have you Dissenters?’ ‘No.’ ‘Have you Presbyterians?’ ‘No.’ ‘Quakers?’ ‘No.’ ‘Anabaptists?’ ‘No.’ ‘Whom have you there? Are you alone?’ ‘No.’
+
+“ ‘My brethren, you have the answer to all these questions in the words of my next text: “He who feareth God and worketh righteousness, shall be accepted of him.” ’
+
+“Allegiance to the Creator and the Governor of the Milky Way, and the Nebulæ, and benevolence to all His creatures, is my Religion.”
+
+Adams wrote again on the nineteenth of December and a few days later he celebrated Christmas Day by writing Jefferson a letter of more than two thousand words. He began with:
+
+### Letter 31: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“December 25, 1813.
+
+“Answer my letter at your leisure. Give yourself no concern. I write as a refuge and protection against *ennui*.
+
+“The fundamental principle of all philosophy and all Christianity, is *‘Rejoice always in all things!’* ‘Be thankful at all times for all good, and all that we call evil.’ Will it not follow, that I ought to rejoice and be thankful that Priestley has lived? . . . That Gibbon has lived? That Hume has lived, though a conceited Scotchman? That Bolingbroke has lived, though a haughty, arrogant, supercilious dogmatist? That Burke and Johnson have lived, though superstitious slaves, or self-deceiving hypocrites both? Is it not laughable to hear Burke call Bolingbroke a superficial writer; to hear him ask: ‘who ever read him through!’ Had I been present, I should have answered him: ‘I, I myself! I have read him through, more than fifty years ago, and more than five times in my life, and once within five years past. And, in my opinion, the epithet “superficial” belongs to you and your friend Johnson more than to him.’ . . .
+
+“Dr. Brocklesby, an intimate friend and convivial companion of Johnson, told me, that Johnson died in agonies of horror of annihilation; and all the accounts we have of his death corroborate this account of Brocklesby. Dread of annihilation! Dread of nothing! A dread of nothing, I should think, would be no dread at all. Can there be any real, substantial, rational fear of nothing? . . . “Despotical, monarchical, aristocratical, and democratical fury, have all been employed in this work of destruction of every thing [written by the ancients] that could give us true light, and a clear insight of antiquity. For every one of these parties, when possessed of power, or when they have been undermost, and struggling to get uppermost, has been equally prone to every species of fraud and violence and usurpation. . . .
+
+> “Philosophy looks with an impartial eye on all terrestrial religions. I have examined all, as well as my narrow sphere, my straightened means, and my busy life would allow me; and the result is, that the Bible is the best book in the world. It contains more of my little philosophy than all the libraries I have seen; and such parts of it as I cannot reconcile to my little philosophy, I postpone for future investigation. . . .
+
+> “If I am not weary of writing, I am sure you must be of reading such incoherent rattle. I will not persecute you so severely in future, if I can help it, so farewell.”
+
+Jefferson gathered his reply to Adams’ three November and three December letters into one letter of his own written January 24, 1814. He recognized other topics at considerable length, but ignored the one on which it would have been most interesting to have had his reply. He was silenced apparently by Adams' discourse on talents and aristocracy. Fewer letters passed in the entire year 1814 than in the preceding month of July alone. Jefferson acknowledged two letters in his of July fifth. In one of them Adams had pleaded illness for having written less frequently. Jefferson hoped for better news of his friend:
+
+### Letter 32: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“July 5, 1814.
+
+“ . . . I learned with great regret of the serious illness mentioned in your letter. . . . But our machines have been running now seventy or eighty years, and we must expect that, worn as they are, here a pivot, there a wheel, now a pinion, next a spring, will be giving way; and however we may tinker them up for a while, all will at length surcease motion. Our watches, with works of brass and steel, wear out within that period.
+
+“Shall you and I last to see the course the seven-fold wonders of the times will take? The Attila of the age dethroned, the ruthless destroyer of ten millions of the human race, whose thirst for blood appeared unquenchable, the great oppressor of the rights and liberties of the world, shut up within the circle of a little island of the Mediterranean, and dwindled to the condition of an humble and degraded pensioner on the bounty of those he has most injured. How miserably, how meanly, has he closed his inflated career! What a sample of the bathos will his history present! He should have perished on the swords of his enemies, under the walls of Paris. . . .
+
+> “But Bonaparte was a lion in the field only. In civil life, a cold-blooded, calculating, unprincipled usurper, without a virtue; no statesman, knowing nothing of commerce, political economy, or civil government, and supplying ignorance by bold presumption.”
+
+He reported having read Plato’s *Republic,* and wrote it a work of “whimsies, puerilities and unintelligible jargon,” and wrote at length in extenuation of his criticism, concluding: “to avoid my being run away with by another subject, and adding to the length and ennui of the present letter, I will here present to Mrs. Adams and yourself, the assurance of my constant and sincere friendship and respect.”
+
+Adams replied immediately he received this letter.
+
+### Letter 33: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“July 16, 1814.
+
+“I received this morning your favor of the 5th, and as I can never let a sheet of yours rest, I sit down immediately to acknowledge it. . . .
+
+“I am sometimes afraid that my machine will not surcease motion soon enough; for I dread nothing so much as ‘dying at top,’ and expiring like Dean Swift, ‘a driveller and a show,’ or like Sam Adams, a grief and a distress to his family, a weeping, helpless object of compassion for years. . . .
+
+“Napoleon is a military fanatic like Achilles, Alexander, Cæsar, Mahomet, Zengis, Kouli, Charles XII. The maxim and principle of all of them was the same: *‘Jura negat sibi lata, nihil non arrogat armis.’*
+
+“But is it strict to call him a usurper? Was not his elevation to the empire of France as legitimate and authentic a national act as that of William the III. or the House of Hanover to the throne of the three kingdoms? or as the election of Washington to the command of our army or to the chair of the State?
+
+“Human nature, in no form of it, could ever bear prosperity. That peculiar tribe of men called conquerors, more remarkably than any other, have been swelled with vanity by a series of victories. Napoleon won so many mighty battles in such quick succession, and for so long a time, that it was no wonder his brain became completely intoxicated, and his enterprises rash, extravagant and mad. . . .
+
+“I am very glad you have seriously read Plato; and still more rejoiced to find that your reflections upon him so perfectly harmonize with mine. Some thirty years ago I took upon me the severe task of going through all his works. With the help of two Latin translations and one English and one French translation, and comparing some of the most remarkable passages with the Greek, I labored through the tedious toil. My disappointment was very great, my astonishment was greater, and my disgust was shocking. Two things only did I learn from him. First, that Franklin’s ideas of exempting husbandmen and mariners, &c., from the depredetions of war, were borrowed from him; and second, that sneezing is a cure for the hiccough. Accordingly, I have cured myself and all my friends, of that provoking disorder, for thirty years, with a pinch of snuff. . . .”
+
+The long interval before the next exchange of letters provided exciting times. In late December, 1814, the War with England was terminated by the treaty of Ghent. But news traveled slowly in those days and with tragic sacrifice of lives that might have been saved. Because of the primitive means of communication thousands of lives were taken at the battle of Toulouse in the spring of 1814 because Wellington and Soult did not know that Napoleon had abdicated and retired to Elba. Within nine months this awful futility was repeated at New Orleans. The British and Americans met there early in January, 1815, and Andrew Jackson won his great victory fifteen days after the war had been officially terminated at Ghent. The Bourbons were struggling with their opportunity with the throne of France at the same time when word came that the exile of Elba was again on the continent and on his way to Paris. On March twentieth he entered the Tuileries in triumph and the Bourbons, in the person of Louis XVIII, fled to Ghent. It was to these events that Jefferson addressed himself when he next wrote to Adams in June, 1815; and news crossed the Atlantic so slowly that when he wrote they were but recently current on this side of the ocean.
+
+### Letter 34: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“June 10, 1815.
+
+“It is long since we have exchanged a letter, and yet what volumes might have been written on the occurrences even of the last three months. In the first place, peace, God bless it! has returned to put us all again into a course of lawful and laudable pursuits; a new trial of the Bourbons has proved to the world their incompetence to the functions of the station they have occupied; and the recall of the usurper has clothed him with the semblance of a legitimate autocrat. If adversity should have taught him wisdom, of which I have little expectation, he may yet render some service to mankind, by teaching the ancient dynasties that they can be changed for misrule, and by wearing down the maritime rule of England to limitable and safe dimensions. But it is not possible he should love us; and of that our commerce had sufficient proof during his power. . . . ”
+
+### Letter 35: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“June 20, 1815.
+
+“The fit of recollection came upon both of us so nearly at the same time, that I may, some time or other, begin to think there is something in Priestley’s and Hartley’s vibrations. The day before yesterday I sent to the post office a letter to you, and last night I received your kind favor of the 10th.
+
+“The question before the human race is, whether the God of nature shall govern the world by His own laws, or whether priests and kings shall rule it by fictitious miracles? Or, in other words, whether authority is originally in the people? or whether it has descended for 1800 years in a succession of popes and bishops, or brought down from heaven by the Holy Ghost in the form of a dove, in a phial of holy oil?
+
+“Who shall take the side of God and Nature? Brahmans? Mandarins? Druids? or Tecumseh and his brother the prophet? Or shall we become disciples of the Philosophers? And who are the Philosophers? Frederic? Voltaire? Rousseau? Buffon? Diderot? or Condorcet? These philosophers have shown themselves as incapable of governing mankind, as the Bourbons or the Guelphs. Condorcet has let the cat out of the bag. He has made precious confessions. I regret that I have only an English translation of his ‘Outlines of an Historical View of the Progress of the Human Mind.’ But in pages 247, 248, and 249, you will find it frankly acknowledged, that the philosophers of the eighteenth century, adapted all the maxims, and practiced all the arts of the Pharisees, the ancient priests of all countries, the Jesuits, the Machiavellians, etc., etc., to overthrow the institutions that such arts had established. This new philosophy was, by his own account, as insidious, fraudulent, hypocritical, and cruel, as the old policy of the priests, nobles, and kings. When and where were ever found, or will be found, sincerity, honesty, or veracity, in any sect or party in religion, government, or philosophy? . . .
+
+> “Our correspondence shall not again be so long interrupted. Affectionately.”
+
+In a postscript he broke out with new topics but checked himself with “I cannot write a hundredth part of what I wish to say to you.” It is, therefore, not surprising to find him, the day after the morrow of the last letter, writing for the third time in four days. The letter was wholly devoted to his discoveries in a volume of A. G. Camus, a scholarly French revolutionary.
+
+### Letter 36: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“August 10, 1815.
+
+“The simultaneous movements in our correspondence have been remarkable on several occasions. It would seem as if the state of the air, or state of the times, or some other unknown cause, produced a sympathetic effect on our mutual recollections. . . .
+
+“On the subject of the American Revolution, you ask who shall write it? Who can write it? . . . Nobody; except merely its external facts; all its councils, designs and discussions having been conducted by Congress with closed doors, and no members, as far as I know, having ever made notes of them. These, which are the life and soul of history, must forever be unknown. . . .
+
+“I presume that our correspondence has been observed at the post office, and thus has attracted notice. Would you believe, that a printer has had the effrontery to propose to me the letting him publish it? These people think they have a right to everything, however secret or sacred. . . .
+
+“At length Bonaparte has got on the right side of a question. From the time of his entering the legislative hall to his retreat to Elba, no man has execrated him more than myself. . . . But at length, and as far as we can judge, he seems to have become the choice of the nation. At least, he is defending the cause of his nation, and that of all mankind, the rights of every people to independence and self-government. He and the allies have now changed sides. They are parceling out among themselves Poland, Belgium, Saxony, Italy, dictating a ruler and government to France, and looking askance at our republic, the splendid libel on their governments, and he is fighting for the principles of national independence, of which his whole life hitherto has been a continued violation. . . .
+
+“Present me affectionately and respectfully to Mrs. Adams, and Heaven give you both as much more of life as you wish, and bless it with health and happiness.
+
+“P. S. *August the 11th.*—I had finished my letter yesterday, and this morning receive the news of Bonaparte’s second abdication. Very well. For him personally, I have no feeling but reprobation. The representatives of the nation have deposed him. They have taken the allies at their word, that they had no object in the war but his removal. The nation is now free to give itself a good government, either with or without a Bourbon; and France, unsubdued, will still be a bridle on the enterprises of the combined powers, and a bulwark to others.”
+
+### Letter 37: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“August 24, 1815.
+
+“ . . . As to the history of the revolution, my ideas may be peculiar, perhaps singular. What do we mean by the revolution? The war? That was no part of the revolution; it was only an effect and consequence of it. The revolution was in the minds of the people, and this was effected from 1760 to 1775, in the course of fifteen years, before a drop of blood was drawn at Lexington. The records of thirteen legislatures, the pamphlets, newspapers in all the colonies ought to be consulted during that period, to ascertain the steps by which the public opinion was enlightened and informed concerning the authority of parliament over the colonies. The Congress of 1774 resembled in some respects, though I hope not in many, the Council of Nice in ecclesiastical history. It assembled the priests from the east and the west, the north and the south, who compared notes, engaged in discussions and debates, and formed results, by one vote and by two votes, which went out to the world as unanimous. . . .
+
+> “Poor Bonaparte! Poor devil! What has and what will become of him? Going the way of King Theodore, Alexander, Cæsar, Charles XII, Cromwell, Wat Tyler, and Jack Cade; that is, to a bad end. And what will become of Wellington? Envied, hated, despised by all the barons, earls, viscounts, marquises, as an upstart, a *parvenu,* elevated over their heads (for these people have no idea of any merit but birth), Wellington must pass the rest of his days buffeted, ridiculed, scorned, and insulted by factions, as Marlborough and his duchess did. Military glory dazzles the eyes of mankind, and for a time eclipses all wisdom, all virtue, all laws, human and divine; and after this it would be bathos to descend to services merely civil or political.”
+
+### Letter 38: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“November 13, 1815.
+
+“The fundamental article of my political creed is, that despotism, or unlimited sovereignty, or absolute power, is the same in a majority of a popular assembly, an aristocratical council, and oligarchical junto, and a single emperor. Equally arbitrary, cruel, bloody, and in every respect diabolical. Accordingly, arbitrary power, wherever it has resided, has never failed to destroy all records, memorials, and histories of former times, which it did not like, and to corrupt and interpolate such as it was cunning enough to preserve or tolerate. We cannot therefore say with much confidence what knowledge or what *virtues* may have prevailed in some former ages in some quarters of the world.
+
+> “Nevertheless, according to the few lights that remain to us, we may say that the eighteenth century, notwithstanding all its errors and vices, has been, of all that are past, the most honorable to human nature. Knowledge and virtues were increased and diffused; arts, sciences, useful to men, ameliorating their condition, were improved more than in any former equal period.”
+
+Jefferson had not written during five months when he wrote again in January, 1816. He wrote from Monticello as usual and referred to a long visit to his “other domicile.” This was about one hundred miles south of Monticello, in Bedford County, Virginia, near the little city of Lynchburg. It was called Poplar Forest, and it survives to-day, one of many graceful expressions of Jefferson's talent as an architect. The land came to him from the estate of his wife. After his two terms as president he went frequently to Poplar Forest, not only to oversee his property, but as a refuge from the continual flow of summer visitors, lion hunters and curiosity seekers most of them, who robbed Monticello of the quiet which his age and his desire to study required.
+
+### Letter 39: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“January 11, 1816.
+
+“Of the last five months I have passed four at my other domicile, for such it is in a considerable degree. No letters are forwarded to me there, because the cross post to that place is circuitous and uncertain; during my absence, therefore, they are accumulating here, and awaiting acknowledgments. This has been the fate of your favor of November 13th.
+
+“I agree with you in all its eulogies of the eighteenth century. It certainly witnessed the sciences and arts, manners and morals, advanced to a higher degree than the world has ever before seen. And might we not go back to the æra of the Borgias, by which time the barbarous ages had reduced national morality to the lowest point of depravity, and observe that the arts and sciences, rising from that point, advanced gradually through all the sixteenth, seventeenth and eighteenth centuries, softening and correcting the manners and morals of man? I think, too, we may add to the great honor of science and the arts, that their natural effect is, by illuminating public opinion, to erect it into a censor, before which the most exalted tremble for their future, as well as present fame. With some exceptions only, through the seventeenth and eighteenth centuries, morality occupied an honorable chapter in the political code of nations.”
+
+The rest of this long letter he devoted to the consideration of contemporary European politics. Before Jefferson wrote again Adams injected an entirely new topic into the correspondence. It popped unexpectedly like a cork out of a wine bottle, and not wholly unlike champagne was the sparkle of the letters that flowed after.
+
+### Letter 40: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“March 2, 1816.
+
+“I cannot be serious! I am about to write you the most frivolous letter you ever read. Would you go back to your cradle, and live over again your seventy years? I believe you would return me a New England answer, by asking me another question: ‘Would you live your eighty years over again?’ If I am prepared to give you an explicit answer, the question involves so many considerations of metaphysics and physics, of theology and ethics, of philosophy and history, of experience and romance, of tragedy, comedy, and farce, that I would not give my opinion without writing a volume to justify it.”
+
+He then wrote at length on the Baron de Grimm whose *Memoirs* had recently come into his hands. Jefferson knew de Grimm in Paris and was able in his next letter to tell Adams something of the man whose reminiscences engaged him. Of more particular interest here is the beginning and end of that letter:
+
+### Letter 41: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“April 8, 1816.
+
+“I have to acknowledge your two favors of February the 16th and March the 2d, and to join sincerely in the sentiment of Mrs. Adams, and regret that distance separates us so widely. An hour of conversation would be worth a volume of letters. But we must take things as they come.
+
+“You ask if I would agree to live my seventy or rather my seventy-three years over again? To which I say, yea. I think with you, that it is a good world on the whole; that it has been framed on a principle of benevolence, and more pleasure than pain dealt out to us. There are, indeed, (who might say nay) gloomy and hypochondriac minds, inhabitants of diseased bodies, disgusted with the present, and despairing of the future; always counting that the worst will happen, because it may happen. To these I say, how much pain have cost us the evils which have never happened! My temperament is sanguine. I steer my bark with Hope in the head, leaving Fear astern. My hopes, indeed, sometimes fail; but not oftener than the forebodings of the gloomy. There are, I acknowledge, even in the happiest life, some terrible convulsions, heavy set-offs against the opposite page of the account. I have often wondered for what good end the sensations of grief could be intended. All our other passions, within proper bounds, have an useful object. And the perfection of the moral character is, not in a stoical apathy, so hypocritically vaunted, and so untruly too, because impossible, but in a just equilibrium of all the passions. I wish the pathologists then would tell us what is the use of grief in the economy, and of what good it is the cause, proximate or remote.
+
+> “Did I know Baron Grimm while at Paris? Yes, most intimately. He was the pleasantest and most conversable member of the diplomatic corps while I was there; a man of good fancy, acuteness, irony, cunning and egoism. No heart, not much of any science, yet enough of every one to speak its language; his forte was belles-lettres, painting and sculpture. In these he was the oracle of society, and as such, was the Empress Catharine’s private correspondent and factor, in all things diplomatic. . . . I have never seen the Memoirs of Grimm. Their volume has kept them out of our market.”
+
+Dropped casually into the letter above is an observation which was the inspiration of two notable letters from Adams. Jefferson remarked: “I have often wondered for what good end the sensations of grief could be intended.” Adams was at the moment too much engaged with his amusing speculations on reliving life. But he found the uses of grief a fertile topic for a letter written early in the following May. That was but one aspect of the subject, however, and a few months later he followed with an equally significant letter on the abuses of grief. These considerations did not however deflect him from his immediate nimble antics on reliving life. Adams began his next letter in the form of an imagined dialogue between him and Jefferson:
+
+### Letter 42: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“May 3, 1816.
+
+“Yours of April 8th has long since been received.
+
+“*J.* Would you agree to live your eighty years over again?
+
+“*A.* Aye! and *sans phrase.*
+
+“*J.* Would you agree to live your eighty years over again for ever?
+
+“*A.* I once heard our acquaintance, Benjamin Chew, of Philadelphia, say, he should like to go back to twenty-five, for all eternity. But I own my soul would start and shrink back on itself at the prospect of an endless succession of *boules de savon,* almost as much as at the certainty of annihilation. For what is human life? I can speak only for one. I have had more comfort than distress, more pleasure than pain, ten to one; nay, if you please, a hundred to one. A pretty large dose, however, of distress and pain. But, after all, what is human life? A vapor, a fog, a dew, a cloud, a blossom, a flower, a rose, a blade of grass, a glass bubble, a tale told by an idiot, a *boule de savon,* vanity of vanities, an eternal succession of which would terrify me almost as much as annihilation.
+
+“*J.* Would you prefer to live over again, rather than accept the offer of a better life in a future state?
+
+“*A.* Certainly not.
+
+“*J.* Would you live again, rather than change for the worse in a future state, for the sake of trying something new?
+
+“*A.* Certainly yes.
+
+“*J.* Would you live over again once or forever rather than run the risk of annihilation, or of a better or a worse state at or after death?
+
+“*A.* Most certainly I would not.
+
+“*J.* How valiant you are!
+
+“*A.* Aye, at this moment and at all moments of my life that I can recollect; but who can tell what will become of his bravery, when his flesh and his philosophy were not sufficient to support him in his last hours. D’Alembert said: Happy are they who have courage, but I have none. Voltaire, the greatest genius of them all, behaved like the greatest coward of them all, at his death, as he had like the wisest fool of them all in his lifetime. Hume awkwardly affects to sport away all sober thoughts. Who can answer for his last feelings and reflections, especially as the priests are in possession of the custom of making them the engines of their craft, *procul este profani!*
+
+“*J.* How shall we, how can we, estimate the real value of human life?
+
+“*A.* I know not; I cannot weigh sensations and reflections, pleasures and pains, hopes and fears in money-scales. But I can tell you how I have heard it estimated by some philosophers. One of my old friends and clients, a *mandamus* counsellor against his will, a man of letters and virtues, without one vice that I ever knew or suspected, except garrulity, William Vassall, asserted to me, and strenuously maintained, that pleasure is no compensation for pain. A hundred years of the keenest delights of human life could not atone for one hour of bilious colic that he had felt. The sublimity of this philosophy my dull genius could not reach. I was willing to state a fair account between pleasure and pain, and give credit for the balance, which I found very great in my favor.
+
+“Another philosopher, who, as we say, believed nothing, ridiculed the notion of a future state. One of the company asked, ‘Why are you an enemy to a future state? Are you wearied of life? Do you detest existence?’ ‘Weary of life! Detest existence!’ said the philosopher, ‘no, I love life so well, and am so attached to existence, that to be sure of immortality, I would consent to be pitched about with forks by the devils among flames of fire and brimstone to all eternity.’ I find no resources in my courage for this exalted philosophy. I had rather be blotted out. *Il faut trancher le mot.* What is there in life to attach us to it, but the hope of a future and a better? It is a cracker, a bouquet, a firework, at best.
+
+“I admire your navigation, and should like to sail with you, either in your bark or in my own, alongside with yours. Hope, with her gay ensigns displayed in the prow; fear, with her hobgoblins behind her stern. Hope remains. What pleasure! I mean, take away hope, and what remains? Ninety-nine hundredths of the pleasures and pains of life are nothing but hopes and fears. All nations known to history or in travels have hoped, believed and expected a future and a better state. The Maker of the universe, the cause of all things, whether we call it *fate,* or *chance,* or God, has inspired this hope. If it is a fraud, we shall never know it; we shall never resent the imposition, be grateful for the illusion, nor grieve for the disappointment; we shall be no more.
+
+“*Credant* Grimm, Diderot, Buffon, La Lande, Condorcet, D’Holbach, Frederic, Catherine, *non ego.* Arrogant as it may be, I shall take the liberty to pronounce them all *ideologians.* Yet I would not persecute a hair of their heads; the world is wide enough for them and me.
+
+“Suppose the cause of the universe should reveal to all mankind at once a certainty, that they must all die within a century, and that death is an eternal extinction of all living powers, of all sensation and reflection. What would be the effect? Would there be one man, woman, or child existing on this globe twenty years hence? Would every human being be a Madame Deffand, Voltaire’s *aveugle clairvoyante,* all her lifetime regretting her existence, bewailing that she had ever been born; grieving that she had ever been dragged without her consent into being? Who would bear the gout, the stone, the colic, for the sake of a *boule de savon,* when a pistol, a cord, a pond, a phial of laudanum, was at hand? What would men say to their Maker? Would they thank him? No; they would reproach him; they would curse him to his face.
+
+> “*Voila,* a sillier letter than my last! For a wonder, I have filled a sheet, and a greater wonder, I have read fifteen volumes of Grimm. . . . I hope to write you more upon this and other topics of your letter.”
+
+He did. Life, which at his age seemed so precarious to him, provided him a well-nigh insatiable interest. He interrupted himself in its consideration at this time, however, to write, three days later, the first of his two letters on the uses and the abuses of grief.
+
+### Letter 43: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“May 6, 1816.
+
+“Neither eyes, fingers or paper held out to despatch all the trifles I wished to write in my last letter.
+
+“In your favor of April 8th, you wonder for what good end the sensations of grief could be intended? You wish the pathologists would tell us what is the use of grief in our economy, and of what good it is the cause, proximate or remote. When I approach such questions as this, I consider myself like one of those little eels in vinegar, or one of those animalcules in black or red pepper or in the horseradish root, that bite our tongues so cruelly, reasoning upon the τὸ πᾶν. Of what use is this sting upon the tongue? Why might we not have the benefit of these stimulants without the sting? Why might we not have the fragrance, beauty of the rose, without the thorn?
+
+“In the first place, however, we know not the connections between pleasure and pain. They seem to be mechanical and inseparable. How can we conceive a strong passion, a sanguine hope, suddenly disappointed, without producing pain or grief? Swift, at seventy, recollected the fish he had angled out of water when a boy, which broke loose from his hook; and said, ‘I feel the disappointment at this moment.’ A merchant places all his fortune and all his credit in a single India or China ship. She arrives at the Vineyard with a cargo worth a million, in order. Sailing around the cape for Boston, a sudden storm wrecks her; ship, cargo, and crew all lost. Is it possible that the merchant, ruined, bankrupt, sent to prison by his creditors, his wife and children starving, should not grieve? Suppose a young couple, with every advantage of persons, fortune, and connection, on the point of an indissoluble union. A flash of lightning, or any one of those millions of accidents which are allotted to humanity, proves fatal to one of the lovers. Is it possible that the other, and all the friends of both, should not grieve? It should seem that grief, as a mere passion, must be in proportion to sensibility.
+
+“Did you ever see a portrait, or a statue of a great man, without perceiving strong traits of pain and anxiety? These furrows were all ploughed in the countenance by grief. Our judicial oracle, Sir Edward Coke, thought that none were fit for legislators and magistrates but *sad men;* and who were these sad men? They were aged men, who had been tossed and buffeted in the vicissitudes of life, forced upon profound reflection by grief and disappointments, and taught to command their passions and prejudices.
+
+“But all this, you will say, is nothing to the purpose; it is only repeating and exemplifying a fact, which my question supposed to be well known, namely, the existence of grief, and is no answer to my question, what are the uses of grief? This is very true, and you are very right; but may not the uses of grief be inferred, or at least suggested by such exemplifications of known facts? Grief compels the India merchant to think, to reflect upon the plans of his voyage. ‘Have I not been rash to trust my fortune, my family, my liberty to the caprice of winds and waves in a single ship? I will never again give loose to my imagination and avarice. It had been wiser and more honest to have traded on a smaller scale, upon my own capital.’
+
+“The desolated lover, and disappointed connections, are compelled by their grief to reflect on the vanity of human wishes and expectations; to learn the essential lesson of resignation, to review their own conduct towards the deceased, to correct any errors or faults in their future conduct towards their remaining friends, and towards all men; to recollect the virtues of the lost friend, and resolve to imitate them; his follies and vices, if he had any, and resolve to avoid them.
+
+“Grief drives men into habits of serious reflection, sharpens the understanding, and softens the heart; it compels them to rouse their reason, to assert its empire over their passions, propensities and prejudices, to elevate them to a superiority over all human events, to give them the *felicis animi immotam tranquilitatem;* in short, to make them stoics and Christians.
+
+“After all, as grief is a pain, it stands in the predicament of all other evil, and the great question occurs, what is the origin, and what the final cause of evil. This, perhaps, is known only to Omniscience. We poor mortals have nothing to do with it, but to fabricate all the good we can out of all inevitable evils, and to avoid all that are avoidable; and many such there are, among which are our own unnecessary apprehensions and imaginary fears. Though stoical apathy is impossible, yet patience, and resignation, and tranquillity may be acquired, by consideration, in a great degree, very much for the happiness of life.
+
+“I have read Grimm in fifteen volumes, of more than five hundred pages each. I will not say, like Uncle Toby, ‘you shall not die’ till you have read him, but you ought to read him, if possible. It is the most entertaining work I ever read. He appears exactly as you represent him. What is most of all remarkable is his impartiality.” . . .
+
+### Letter 44: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“August 1, 1816.
+
+“Your two philosophical letters of May 4th and 6th have been too long in my carton of ‘letters to be answered.’ To the question, indeed, on the utility of grief, no answer remains to be given. You have exhausted the subject. I see that, with the other evils of life, it is destined to temper the cup we are to drink.
+
+> **[verse_insert]**
+>
+> “Two urns by Jove’s high throne have ever stood,  
+>  The source of evil one, and one of good;  
+>  From thence the cup of mortal man he fills,  
+>  Blessings to these, to those distributes ills;  
+>  To most he mingles both.
+
+“Putting to myself your question, would I agree to live my seventy-three years over again forever? I hesitate to say. With Chew’s limitations from twenty-five to sixty, I would say yes; and I might go farther back, but not come lower down. For, at the latter period, with most of us, the powers are sensibly on the wane, sight becomes dim, hearing dull, memory constantly enlarging its frightful blank and parting with all we have ever seen or known, spirits evaporate, bodily debility creeps on palsying every limb, and so faculty after faculty quits us, and where then is life? If, in its full vigor, of good as well as evil, your friend Vassall could doubt its value, it must be purely a negative quantity when evils alone remain. Yet I do not go into his opinion entirely. I do not agree that an age of pleasure is no compensation for a moment of pain. I think, with you, that life is a fair matter of account, and the balance often, nay generally, in its favor. It is not indeed easy, by calculation of intensity and time, to apply a common measure, or to fix the par between pleasure and pain; yet it exists, and is measurable. On the question, for example, whether to be cut for the stone? The young, with a longer prospect of years, think these overbalance the pain of the operation. Dr. Franklin, at the age of eighty, thought his residuum of life not worth that price. I should have thought with him, even taking the stone out of the scale. There is a ripeness of time for death, regarding others as well as ourselves, when it is reasonable we should drop off, and make room for another growth. When we have lived our generation out, we should not wish to encroach on another. I enjoy good health; I am happy in what is around me, yet I assure you I am ripe for leaving all, this year, this day, this hour. If it could be doubted whether we would go back to twenty-five, how can it be whether we would go forward from seventy-three? . . . Perhaps, however, I might accept of time to read Grimm before I go. Fifteen volumes of anecdotes and incidents, within the compass of my own time and cognizance, written by a man of genius, of taste, of point, an acquaintance, the measures and traverses of whose mind I know, would not fail to turn back the scale in favor of life during their perusal. . . . I like the dreams of the future better than the history of the past,—so good night! I will dream on, always fancying that Mrs. Adams and yourself are by my side marking the progress and the obliquities of ages and countries.”
+
+### Letter 45: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“August 9, 1816.
+
+“ . . . Your poet, the Ionian I suppose, ought to have told us, whether Jove, in the distribution of good and evil from his two urns, observes any rule of equity or not; whether he thunders out flames of eternal fire on the many, and power, glory, and felicity on the few, without any consideration of justice? Let us state a few questions *‘sub rosa.’*
+
+“1. Would you accept a life, if offered you, of equal pleasure and pain, *e. g.* one million of moments of pleasure and one million moments of pain? 1,000,000 pleasure = 1,000,000 pain. Suppose the pleasure as exquisite as any in life, and the pain as exquisite as any, *e. g.* stone, gravel, gout, headache, earache, toothache, colic, &c. I would not. I would rather be blotted out.
+
+“2. Would you accept a life of one year of incessant gout, headache, &c., for seventy-two years of such life as you have enjoyed? I would not. 1 year of colic = 72 of *boule de savon.* Pretty, but unsubstantial. I would rather be extinguished. You may vary these algebraical equations at pleasure and without end. All this ratiocination, calculation, call it what you will, is founded on the supposition of no future state. Promise me eternal life, free from pain, though in all other respects no better than our present terrestrial existence, I know not how many thousand years of Smithfield fevers I would not endure to obtain it. In fine, without the supposition of a future state, mankind and this globe appear to me the most sublime and beautiful bubble and bauble that imagination can conceive. Let us, then, wish for immortality at all hazards, and trust the ruler with his skies. I do, and earnestly wish for his commands, which, to the utmost of my power, shall be implicitly and piously obeyed.
+
+> “It is worth while to live to read Grimm, whom I have read. And La Harpe, and Mademoiselle d’Espinasse the fair friend of d’Alembert, both of whom Grimm characterizes very distinctly, are, I am told, in print. . . . Your taste is judicious in liking better the dreams of the future than the history of the past. Upon this principle I prophesy that you and I shall soon meet better friends than ever.”
+
+### Letter 46: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“September 3, 1816.
+
+“Dr. James Freeman is a learned, ingenious, honest and benevolent man, who wishes to see President Jefferson, and requests me to introduce him. If you would introduce some of your friends to me, I could, with more confidence, introduce mine to you. He is a Christian, but not a Pythagorian, a Platonic, or a Philonic Christian. You will ken him, and he will ken you; but you may depend he will never betray, deceive, or injure you.
+
+“Without hinting to him anything which has passed between you and me, I asked him your question, *‘What are the uses of grief?’* He stared, and said ‘The question was new to him.’ All he could say at present was, that he had known, in his own parish, more than one instance of ladies who had been thoughtless, modish, extravagant in a high degree, who, upon the death of a child, had become thoughtful, modest, humble; as prudent, amiable women as any he had known. Upon this I read to him your letters and mine upon this subject of grief, with which he seemed to be pleased. You see I was not afraid to trust him, and you need not be.
+
+“Since I am, accidently, invited to write to you, I may add a few words upon pleasures and pains of life. Vassall thought, an hundred years, nay, an eternity of pleasure, was no compensation for one hour of bilious colic. Read again Molière’s Psyché, act 2d, scene 1st, on the subject of grief. And read in another place, *‘on est payé de mille maux, par un heureux moment.’* Thus differently do men speak of pleasures and pains. Now, Sir, I will tease you with another question. What have been the *abuses* of grief?
+
+“In answer to this question, I doubt not you might write an hundred volumes. A few hints may convince you that the subject is ample.
+
+“1st. The death of Socrates excited a general sensibility of grief at Athens, in Attica, and in all Greece. Plato and Xenophon, two of his disciples, took advantage of that sentiment, by employing their enchanting style to represent their master to be greater and better than he probably was; and what have been the effects of Socratic, Platonic, which were Pythagorian, which was Indian philosophy, in the world?
+
+“2d. The death of Cæsar, tyrant that he was, spread a general compassion, which always includes grief, among the Romans. The scoundrel Mark Antony availed himself of this momentary grief to destroy the republic, to establish the empire, and to prescribe Cicero.
+
+“3d. But skip over all ages and nations for the present, and descend to our own times. The death of Washington diffused a general grief. The old Tories, the hyperfederalists, the speculators, set up a general howl. Orations, prayers, sermons, mock funerals, were all employed, not that they loved Washington, but to keep in continuance the funding and banking system; and to cast into the background and the shade, all others who had been concerned in the service of their country in the Revolution.
+
+> “4th. The death of Hamilton, under all its circumstances, produced a general grief. His most determined enemies did not like to get rid of him in that way. They pitied, too, his widow and children. His party seized the moment of public feeling to come forward with funeral orations, and printed panegyrics, reinforced with mock funerals and solemn grimaces, and all this who have buried Otis, Sam Adams, Hancock, and Gerry, in comparative obscurity. And why? Merely to disgrace the old Whigs, and keep the funds and banks in countenance.
+
+> “5th. The death of Mr. [Fisher] Ames excited a general regret. His long consumption, his amiable character, and reputable talents, had attracted a general interest, and his death a general mourning. His party made the most of it, by processions, orations, and mock funeral. And why? To glorify the Tories, to abash the Whigs, and maintain the reputation of funds, banks, and speculations. And all this was done in honor of that insignificant boy, by people who have let a Dance, a Gerry, and a Dexter, go to their graves without notice.
+
+> “6th. I almost shudder at the thought of alluding to the most fatal example of the abuses of grief which the history of mankind has preserved—the Cross. Consider what calamities that engine of grief had produced! With the rational respect which is due to it, knavish priests have added prostitutions to it, that fill, or might fill, the blackest and bloodiest pages of human history.
+
+> “I am with ancient friendly sentiments.”
+
+He wrote again the last day of the month; beginning his letter:
+
+> “The seconds of life that remain to me are so few and so short (and they seem to me shorter and shorter every minute) that I cannot stand upon epistolary etiquette; and though I have written two letters yet unnoticed, I must write a third, because I am not acquainted with any man on this side Monticello who can give me any information upon subjects that I am now *analyzing* and *investigating,* if I may now be permitted to use the pompous words now in fashion.”
+
+He wanted to chat about Charles François Dupuis, whose works, in twelve volumes, presumably his *Origine de tous les Cultes,* he had secured after prolonged effort. Jefferson gave no opportunity for Adams to add other letters to the two “unnoticed,” but answered at once.
+
+### Letter 47: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“October 14, 1816.
+
+“Your letter, dear Sir, of May the 6th, had already well explained the uses of grief. That of September the 3d, with equal truth, adduces instances of its abuse; and when we put into the same scale these abuses, with the afflictions of soul which even the uses of grief cost us, we may consider its value in the economy of the human being, as equivocal at least. Those afflictions cloud too great a portion of life to find a counterpoise in any benefits derived from its use. . . .
+
+“Your undertaking the twelve volumes of Dupuis, is a degree of heroism to which I could not have aspired even in my younger days. I have been contented with the humble achievement of reading the analysis of his work by Destutt Tracy, in two hundred pages octavo. I believe I should have ventured on his own abridgment of the work, in one octavo volume, had it ever come to my hands; but the marrow of it in Tracy has satisfied my appetite; and even in that, the preliminary discourse of the analyzer himself, and his conclusion, are worth more in my eye than the body of the work. For the object of that seems to be to smother all history under the mantle of allegory. If histories as unlike as those of Hercules and Jesus, can, by a fertile imagination and allegorical interpretations, be brought to the same tally, no line of distinction remains between fact and fancy. As this pithy morsel will not overburden the mail in passing and repassing between Quincy and Monticello, I send it for your perusal. Perhaps it will satisfy you, as it has me; and may save you the labor of reading twenty-four times its volume. I have said to you that it was written by Tracy; and I had so entered it on the title page, as I usually do on anonymous works whose authors are known to me. But Tracy requested me not to betray his anonyme, for reasons which may not yet, perhaps, have ceased to weigh. I am bound, then, to make the same reserve with you. Destutt Tracy is, in my judgment, the ablest writer living on intellectual subjects, or the operations of the understanding. His three octavo volumes on Ideology, which constitute the foundation of what he has since written, I have not entirely read; because I am not fond of reading what is merely abstract, and unapplied immediately to some useful science. Bonaparte, with his repeated derisions of Ideologists (squinting at this author), has by this time felt that true wisdom does not lie in mere practice without principle. . . . I gather from his other works that he adopts the principle of Hobbes, that justice is founded in contract solely, and does not result from the construction of man. I believe, on the contrary, that it is instinct and innate, that the moral sense is as much a part of our constitution as that of feeling, seeing, or hearing; as a wise creator must have seen to be necessary in an animal destined to live in society; that every human mind feels pleasure in doing good to another; that the non-existence of justice is not to be inferred from the fact that the same act is deemed virtuous and right in one society which is held vicious and wrong in another; because, as the circumstances and opinions of different societies vary, so the acts which may do them right or wrong must vary also; for virtue does not consist in the act we do, but in the end it is to effect. If it is to effect the happiness of him to whom it is directed, it is virtuous, while in a society under different circumstances and opinions, the same act might produce pain, and would be vicious. The essence of virtue is in doing good to others, while what is good may be one thing in one society, and its contrary in another. . . . ”
+
+Adams replied on November fourth. He reviewed much of his reading, but of particular interest is a delightfully characteristic blast set off by Dupuis.
+
+### Letter 48: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“November 4, 1816.
+
+“Your letter of October 14th has greatly obliged me. Tracy’s Analysis I have read once, and wish to read it a second time. It shall be returned to you; but I wish to be informed whether this gentleman is one of that family of Tracy’s with which the Marquis Lafayette is connected by intermarriages.
+
+“I have read not only the Analysis, but eight volumes out of twelve of the ‘*Origine de tous les Cultes,*’ and, if life lasts, will read the other four. But, my dear Sir, I have been often obliged to stop and talk to myself, like the reverend, allegorical, hieroglyphical, and apocalyptical Mr. John Bunyan, and say, ‘*sobrius esto,* John, be not carried away by sudden blasts of wind, by unexpected flashes of lightning, nor terrified by the sharpest crashes of thunder.’
+
+“We have now, it seems, a national Bible Society, to propagate King James’s Bible through all nations. Would it not be better to apply these pious subscriptions to purify Christendom from the corruptions of Christianity than to propagate those corruptions in Europe, Asia, Africa, and America? Suppose we should project a society to translate Dupuis into all languages, and offer a reward in medals of diamonds to any man or body of men who would produce the best answer to it.
+
+> “Enthusiasms, crusades, French revolutions, are epidemical or endemical distempers, to which mankind is liable. They are not tertian or quartan agues. Ages and centuries are sometimes required to cure them. . . .
+
+> “Conclude not from all this that I have renounced the Christian religion, or that I agree with Dupuis in all his sentiments. Far from it. I see in every page something to recommend Christianity in its purity, and something to discredit its corruptions. If I had strength, I would give you my opinion of it in a fable of the bees. The ten commandments and the sermon on the mount contain my religion. . . .
+
+> “A scrap of an English paper, in which you are honorably mentioned, and I am not much abused, must close this letter from your friend.”
+
+This letter, addressed to Monticello, traveled farther, however, to find Jefferson. He was again on one of his visits at his other seat, Poplar Forest. Jefferson replied from the more remote seat on November twenty-fifth, beginning his letter with this note on Destutt Tracy:
+
+### Letter 49: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“November 25, 1816.
+
+“I received here, dear Sir, your favor of the 4th, just as I am preparing my return to Monticello for winter quarters, and I hasten to answer to some of your inquiries. The Tracy I mentioned to you is the one connected by marriage with Lafayette’s family. The mail which brought your letter, brought one also from him. He writes me that he is become blind, and so infirm that he is no longer able to compose anything. So that we are to consider his works as now closed. They are three volumes of Ideology, one on Political Economy, one on Ethics, and one containing his Commentary on Montesquieu, and a little tract on education. Although his commentary explains his principles of government, he had intended to have substituted for it an elementary and regular treatise on the subject, but he is prevented by his infirmities. His *Analyse de Dupuys* he does not avow.”
+
+The rest of this letter, and it was a long one, was devoted principally to current domestic English politics. It was inspired by what Jefferson called “the letter” which Adams had enclosed in his last. This letter was probably printed in that “scrap of an English paper.” Adams wrote again in quick succession on the twelfth and sixteenth of December.
+
+### Letter 50: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“December 12, 1816.
+
+“I return the Analysis of Dupuis, with my thanks for the loan of it. It is but a faint miniature of the original. I have read that original in twelve volumes, besides a thirteenth of plates. I have been a lover and a reader of romances all my life, from Don Quixote and Gil Blas to the Scottish Chiefs, and a hundred others. For the last year or two I have devoted myself to this kind of study, and have read fifteen volumes of Grimm, seven volumes of Tucker’s Neddy Search, twelve volumes of Dupuis, and Tracy’s Analysis, and four volumes of Jesuitical History! Romances all! I have learned nothing of importance to me, for they have made no change in my moral or religious creed, which has, for fifty or sixty years, been contained in four short words, ‘Be just and good.’ In this result they all agree with me.” . . .
+
+### Letter 51: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“December 16, 1816.
+
+> “ . . . ‘Three vols. of Ideology!’ Pray explain to me this Neological title! What does it mean? When Bonaparte used it, I was delighted with it, upon the common principle of delight in everything we cannot understand. Does it mean Idiotism? The science of *non compos mentuism?* The science of Lunacy? The theory of delirium? or does it mean the science of self-love? of *amour propre?* or the element of vanity?” . . .
+
+In this letter he refers to a volume entitled *Uranologia,* recently arrived oversea for his son John Quincy Adams. He had expressed a desire to compare Dupuis with this volume. Why he did not, why he did not even go to see this book he explained in this same letter:
+
+> “The Uranologia, as I am told, is a collection of plates, stamps, charts of the heavens upon a large scale, representing all the constellations. The work of some professor in Sweden. It is said to be the most perfect that has ever appeared. I have not seen it. Why should I ride fifteen miles to see it, when I can see the original every clear evening; and especially as Dupuis has almost made me afraid to inquire after anything more of it than I can see with my naked eye in a star-light night?”
+
+Jefferson replied to these two letters on January 11, 1817, not long after the arrival of the second of the two.
+
+### Letter 52: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“January 11, 1817.
+
+“Forty-three volumes read in one year, and twelve of them quarto! Dear Sir, how I envy you! Half a dozen octavos in that space of time, are as much as I am allowed. I can read by candle-light only, and stealing long hours from my rest; nor would that time be indulged to me, could I, by that light see to write. From sunrise to one or two o’clock, and often from dinner to dark, I am drudging at the writing-table. And all this to answer letters into which neither interest nor inclination on my part enters; and often from persons whose names I have never before heard. Yet, writing civilly, it is hard to refuse them civil answers. This is the burden of my life, a very grievous one indeed, and one which I must get rid of. [Joseph] Delaplaine lately requested me to give him a line on the subject of his book [*Repository of the Lives and Portraits of Distinguished Americans,* Philadelphia, 1813]; meaning, as I well knew, to publish it. This I constantly refuse; but in this instance yielded, that in saying a word for him, I might say two for myself. I expressed in it freely my sufferings from this source; hoping it would have the effect of an indirect appeal to the discretion of those, strangers and others, who, in the most friendly dispositions, oppress me with their concerns, their pursuits, their projects, inventions and speculations, political, moral, religious, mechanical, mathematical, historical, etc., etc., etc. I hope the appeal will bring me relief, and that I shall be left to exercise and enjoy correspondence with the friends I love, and on subjects which they, or my own inclinations present. In that case, your letters shall not be so long on my files unanswered, as sometimes they have been, to my great mortification. . . . “The result of your fifty or sixty years of religious reading, in the four words, ‘Be just and good,’ is that in which all our inquiries must end; as the riddles of all priesthoods end in four more, *‘ubi panis, ibi deus.’* What all agree in, is probably right. What no two agree in, most probably wrong. One of our fan-coloring biographers, who paints small men as very great, inquired of me lately, with real affection too, whether he might consider as authentic, the change in my religion much spoken of in some circles. Now this supposed that they knew what had been my religion before, taking for it the word of their priests, whom I certainly never made the confidents of my creed. My answer was, ‘say nothing of my religion. It is known to my God and myself alone. Its evidence before the world is to be sought in my life; if that has been *honest and dutiful* to society, the religion which has regulated it cannot be a bad one.’ Affectionately adieu.”
+
+### Letter 53: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“February 2, 1817.
+
+“I am glad to see that De la Plane has published a part of your Letter, and I hope it will procure you some relief. I have suffered in the same manner, though not probably in the same degree. Necessity has compelled me to resort to two expedients to avoid or escape excessive importunity. One has been, by totally neglecting to answer Letter after Letter. But his Method has cost me very dear in the case of many correspondences that had been and would have been instructive and profitable to me, as well as honorable and entertaining. The other has been by giving gruff, short, unintelligible, mysterious, enigmatical or pedantical answers. This resource is out of your power, because it is not in your nature to avail yourself of it. The practice however of publishing private Letters without leave, though even as rude ones as mine, is an abuse and must be reformed. . . .
+
+“I find that all our young Gentlemen who have any *Nous* and can afford to travel, have an ardent curiosity to visit, what shall I say? the Man of the Mountain? The Sage of Monticello? or the celebrated Philosopher and Statesman of Virginia? They all apply to me for Introduction. In hopes of softening asperities and promoting Union, I have refused none whom I thought Men of sense.
+
+“I forgot one thing that I intended to say. I Pitty our good Brother Madison. You and I have had Children and Grand Children and Great Grand Children. Though they have cost us grief, anxiety, often vexation, and sometimes humiliation; yet it has been cheering to have them hovering about us; and I verily believe they have contributed largely to keep us alive. Books cannot always dispel Ennui. I therefore Pitty Brother Madison and especially his Lady. I Pitty him the more, because, notwithstand a thousand Faults and blunders, his Administration has acquired more glory, and established more Union, than all his three Predecessors Washington, Adams and Jefferson put together.” . . .
+
+### Letter 54: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“April 19, 1817.
+
+“My loving and beloved friend [Timothy] Pickering, has been pleased to inform the world that I have ‘few friends.’ I wanted to whip the rogue, and I had it in my power, if it had been in my will to do it, till the blood came. But all my real friends, as I thought them, with Dexter and Gray at their head, insisted that I should not say a word; that ‘nothing that such a person could write would do me the least injury;’ that ‘it would betray the constitution and the government, if a President, out or in, should enter into a newspaper controversy with one of his ministers, whom he had removed from his office, in justification of himself for that removal or anything else.’ And they talked a great deal about ‘*the dignity*’ of the office of President, which I do not find that any other persons, public or private, regard very much.
+
+“Nevertheless, I fear that Mr. Pickering’s information is too true. It is impossible that any man should run such a gauntlet as I have been driven through, and have many friends at last. This ‘all who know me, know,’ though I cannot say ‘who love me, tell.’ I have, however, either friends, who wish to amuse and solace my old age, or enemies, who mean to heap coals of fire on my head, and kill me with kindness, for they overwhelm me with books from all quarters, enough to obfuscate all eyes, and smother and stifle all human understanding—Chateaubriand, Grimm, Tucker, Dupuis, La Harpe, Sismondi, Eustace, a new translation of Herodotus, by Beloe, with more notes than text. What shall I do with all this lumber? I make my ‘woman-kind,’ as the Antiquary expresses it, read to me all the English; but as they will not read the French, I am obliged to excruciate my eyes to read it myself. And all to what purpose? I verily believe I was as wise and good, seventy years ago as I am now. At that period Lemuel Bryant was my parish priest, and Joseph Cleverly my Latin schoolmaster. Lemuel was a jocular and liberal scholar and divine, Joseph a scholar and a gentleman, but a bigoted Episcopalian of the school of Bishop Saunders and Dr. Hicks, a downright, conscientious, passive obedience man in church and state. The parson and the pedagogue lived much together, but were eternally disputing about government and religion. One day, when the schoolmaster had been more than commonly fanatical, and declared ‘if he were a monarch, he would have but one religion in his dominions,’ the parson coolly replied, ‘Cleverly! you would be the best man in the world, if you had no religion.’
+
+“Twenty times, in the course of my late reading, have I been on the point of breaking out, ‘this would be the best of all possible worlds, if there were no religion in it!!!’ But in this exclamation, I should have been as fanatical as Bryant or Cleverly. Without religion, this world would be something not fit to be mentioned in polite company—I mean hell. So far from believing in the total and universal depravity of human nature, I believe there is no individual totally depraved. The most abandoned scoundrel that ever existed, never yet wholly extinguished his conscience, and, while conscience remains, there is some religion. . . . ”
+
+After much beside, he concluded:
+
+“When writing to you, I never know when to subscribe.”
+
+### Letter 55: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“May 5, 1817.
+
+“ . . . If by *religion* we are to understand *sectarian dogmas,* in which no two of them agree, then your exclamation on that hypothesis is just, ‘that this would be the best of all possible worlds, if there were no religion in it.’ But if the moral precepts, innate in man, and made a part of his physical constitution, as necessary for a social being, if the sublime doctrines of philanthropism and deism taught us by Jesus of Nazareth, in which all agree, constitute true religion, then, without it, this would be, as you again say, ‘something not fit to be named even, indeed, a hell.’
+
+“You certainly acted wisely in taking no notice of what the malice of Pickering could say of you. Were such things to be answered, our lives would be wasted in the filth of fendings and provings, instead of being employed in promoting the happiness and prosperity of our fellow citizens. The tenor of your life is the proper and sufficient answer. . . .
+
+“I am glad to find you have a copy of [Jean C. de] Sismondi, because his is a field familiar to you, and on which you can judge him. His work is highly praised, but I have not yet read it. I have been occupied and delighted with reading another work, the title of which did not promise much useful information or amusement, *‘l’Italia avanti il dominio dei Romani dal Micali.’* It has often, you know, been a subject of regret, that Carthage had no writer to give her side of her own history, while her wealth, power and splendor, prove she must have had a very distinguished policy and government. Micali has given the counterpart of the Roman history, for the nations over which they extended their dominion. For this he has gleaned up matter from every quarter, and furnished materials for reflection and digestion to those who, thinking as they read, have perceived that there was a great deal of matter behind the curtain, could that be fully withdrawn. He certainly gives new views of a nation whose splendor has masked and palliated their barbarous ambition. I am now reading Botta’s history of our own Revolution. Bating the ancient practice which he has adopted, of putting speeches into mouths which never made them, and fancying motives of action which we never felt, he has given that history with more detail, precision and candor, than any writer I have yet met with. It is, to be sure, compiled from those writers; but it is a good secretion of their matter, the pure from the unpure, and presented in a just sense of right, in opposition to usurpation.”
+
+Adams wrote to Jefferson three times that spring and summer rather discoursively. In the last of the three, written July fifteenth, he said:
+
+> “I cannot contemplate human affairs without laughing or crying. I choose to laugh. When People talk of the Freedom of Writing, Speaking or Thinking, I cannot choose but laugh. No such thing ever existed. No such thing now exists; but I hope it will exist. But it must be hundreds of years after you and I shall write and speak no more.”
+
+They exchanged one letter each in the early fall of 1817, referring to the books they were reading, and to politics as it evolved about them. In the spring of 1818, Jefferson said, in the course of a letter written May seventeenth:
+
+### Letter 56: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“May 17, 1818.
+
+“ . . . I had been long without hearing from you, but I had heard *of* you through a letter from Doctor [Benjamin] Waterhouse. He wrote to reclaim an expression of Mr. Wirt’s, as to the commencement of motion in the revolutionary ball. The lawyers say that words are always to be expounded *secundum subjectam materiem,* which, in Mr. Wirt’s case, was Virginia. It would, moreover, be as difficult to say at what moment the Revolution began, and what incident set it in motion, as to fix the moment that the embryo becomes an animal, or the act which gives him a beginning.
+
+“But the most agreeable part of his letter was that which informed me of your health, your activity, and strength of memory; and the most wonderful, that which assured me that you retained your industry and promptness in epistolary correspondence. Here you have entire advantage over me. My repugnance to the writing-table becomes daily and hourly more deadly and insurmountable. In place of this has come on a canine appetite for reading. And I indulge it, because I see in it relief against the *tædium senectutis;* a lamp to lighten my path through the dreary wilderness of time before me, whose bourne I see not. Losing daily all interest in the things around us, something else is necessary to fill the void. With me it is reading, which occupies the mind without the labor of producing ideas from my own stock."
+
+Adams wrote, July eighteenth, of some books he was sending and again, October twentieth, of the serious illness of Mrs. Adams. Jefferson wrote on the November thirteenth following:
+
+> "The public papers, my dear friend, announce the fatal event of which your letter of October the 20th had given me ominous foreboding. Tried myself in the school of affliction, by the loss of every form of connection which can rive the human heart, I know well, and feel what you have lost, what you have suffered, are suffering, and have yet to endure. The same trials have taught me that for ills so immeasurable, time and silence are the only medicine. I will not, therefore, by useless condolences, open afresh the sluices of your grief, nor, although mingling sincerely my tears with yours, will I say a word more where words are vain, but that it is of some comfort to us both, that the term is not very distant, at which we are to deposit in the same cerement, our sorrows and suffering bodies, and to ascend in essence to an ecstatic meeting with the friends we have loved and lost, and whom we shall still love and never lose again. God bless you and support you under your heavy affliction.”
+
+### Letter 57: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“December 8, 1818.
+
+> “Your letter of November 13th gave great delight, not only by the divine consolation it afforded me under my great affliction, but as it gave me full proof of your restoration to health.
+
+> “While you live, I seem to have a bank at Monticello, on which I can draw for a letter of friendship and entertainment, when I please.
+
+> “I know not how to prove, physically, that we shall meet and know each other in a future state; nor does revelation, as I can find, give us any positive assurance of such a felicity. My reasons for believing it, as I do most undoubtedly, are that I cannot conceive such a being could make such a species as the human, merely to live and die on this earth. If I did not believe a future state, I should believe in no God. This universe, this all, this τὸ παν, would appear, with all its swelling pomp, a boyish fire-work. And, if there be a future state, why should the Almighty dissolve forever all the tender ties which unite us so delightfully in this world, and forbid us to see each other in the next?
+
+“Trumbull, with a band of associates, drew me, by the cords of an old friendship, to see his picture, on Saturday, where I got a great cold. The air of Faneuil Hall is changed. I have not been used to catch cold there.
+
+“Sick or well, the friendship is the same of your old acquaintance.”
+
+### Letter 58: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+December 30, 1818.
+
+“ . . . Late last night I received your Report and your translation of Tracy, for both of which, tho’ I have read neither, I thank you. But the full proof of your returning health has given me more Pleasure than both. I envy your eyes, and hands and horse. . . . All is now still and tranquil. There is nothing to try men’s souls nor to excite men’s souls but Agriculture and I say God speed the plough and prosper stone walls. Had I your eyes and fingers and 100 years to live I could write an 100 volumes in folio but neither myself nor the World would be the wiser or the better for anything that could be done by your assured friend.”
+
+The correspondence in 1819 roused a little from the comparative lethargy of the preceding year. Jefferson, on January nineteenth, remarked, acknowledging a copy of the *North American Review:* “I see with pride that we are ahead of Europe in political science, so on other subjects we are getting alongside of them.” Adams next wrote five times in less than five weeks. His letters were devoted principally to considerations drawn from Jefferson’s translation of Tracy. On February twenty-third, he devoted an entire letter to the effect produced on him by Mademoiselle de l’Espinasse:
+
+### Letter 59: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“February 23, 1819.
+
+“As you were so well acquainted with the philosophers of France, I presume the name and character of Mademoiselle de l’Espinasse is not unknown to you.
+
+> “I have almost put my eyes out by reading two volumes of her letters, which, as they were printed in 1809, I presume you have read long ago. I confess I have never read any thing with more ennui, disgust, and loathing; the eternal repetition of *mon dieu* and *mon ami, je vous aime, je vous aime éperdument, je vous aime à la folie, je suis au désespoir, j’espère la mort, je suis morte, je prend l’opium,* &c., &c.
+
+> “She was constantly in love with other women’s husbands, constantly violating her fidelity to her own keepers, constantly tormented with remorse and regrets, constantly wishing for death, and constantly threatening to put herself to death, &c., &c., &c. Yet this great lady was the confidential friend of M. Turgot, the Duke de la Rochefoucauld, the Duchess d’Enville, M. Condorcet, the only lady who was admitted to the dinners which Madame Geoffrin made for the literati of France and the world, the intimate friend of Madame Boufflers, the open, acknowledged mistress of the great D’Alembert, and much admired by Marmontel.
+
+> “If these letters and the fifteen volumes of De Grimm are to give me an idea of the amelioration of society, and government and manners in France, I should think the age of reason had produced nothing better than the Mahometans, the Mamelukes, or the Hindoos, or the North American Indians have produced, in different parts of the world.
+
+> “*Festina lente,* my friend, in all your projects of reformation. Abolish polytheism, however, in every shape, if you can, and unfrock every priest who teaches it, if you can.
+
+> “To compensate, in some measure, for this crazy letter, I enclose to you Mr. Pickering’s Essay on the Pronunciation of the Greek Language, which, very probably, you have received from various quarters before now, and with it, I pray you to accept assurances of the unabated friendship of your humble servant.”
+
+Jefferson asked permission to publish two of Adams’ letters on Tracy, and it was given cheerfully. The receipt of the *Essay on the Pronunciation of the Greek Language* drew a long epistolary essay on that subject from Jefferson, affording additional illustration of the astonishing range of his culture. And this letter on Greek he concluded in Spanish! Other letters this year were devoted to discussion of the authenticity of the Mecklenburg Resolutions. Neither believed in it. Adams, in the course of a letter dated November twenty-third, said:
+
+> “I congratulate you and myself on your recovery from the three illnesses that have distressed you. . . . My health is astonishing to myself, I can say, like Deborah Queen Ann Duchess of Marlborough—who in one of her letters, after innumerating a Multitude of her griefs and misfortunes says, I believe nothing but Distemper will kill me. . . . I ought however, to remember the saying of a Bishop with whom I dined once at Versailles who asked me many questions concerning Dr. Frankline, his Health, his Spirits, and his Mind—I answered his health is very robust, his Spirits very cheerful, and his Intellect as bright as ever. Monseigneur replied: *‘Mais à son age il ne peut de chose pour abbatre un collapse.’*”
+
+### Letter 60: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+December 10, 1819.
+
+“ . . . I have been amusing myself latterly with reading the voluminous letters of Cicero. They certainly breathe the purest effusions of an exalted patriot, while the parricide Cæsar is lost in odious contrast. When the enthusiasm, however, kindled by Cicero’s pen and principles, subsides into cool reflection, I ask myself, what was that government which the virtues of Cicero were so zealous to restore, and the ambition of Cæsar to subvert? And if Cæsar had been as virtuous as he was daring and sagacious, what could he, even in the plenitude of his usurped power, have done to lead his fellow citizens into good government? I do not say to *restore it,* because they never had it, from the rape of the Sabines to the ravages of the Cæsars.”
+
+### Letter 61: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“December 18, 1819.
+
+“I must answer your question of the 10th in the words of D’Alembert to his correspondent, who asked him what is matter; ‘*Je vous avoue que je n’en sais rien.*’ In some part of my life I read a great work of a Scotchman on the court of Augustus, in which, with much learning, hard study, and fatiguing labor, he undertook to prove that, had Brutus and Cassius been conquerors, they would have restored virtue and liberty to Rome. *Mais je n’en crois rien.* Have you ever found in history one single example of a nation thoroughly corrupted, that was afterwards restored to virtue? And without virtue there can be no political liberty. . . .
+
+“Will you tell me how to prevent riches from becoming the effects of temperance and industry? Will you tell me how to prevent riches from producing luxury? Will you tell me how to prevent luxury from producing effeminacy, intoxication, extravagance, vice and folly?
+
+“When you will answer me these questions, I hope I may venture to answer yours. Yet all these ought not to discourage us from exertion, for, with my friend Jebb, I believe no effort in favor of virtue is lost, and all good men ought to struggle, both by their counsel and example. . . .
+
+“To return to the Romans. I never could discover that they possessed much virtue or real liberty. Their patricians were in general, griping usurers and tyrannical creditors in all ages. Pride, strength, and courage, were all the virtues that composed their national character. A few of their nobles affecting simplicity, frugality, and piety, perhaps really possessing them, acquired popularity among the plebeians, and extended the power and dominions of the republic, and advanced in glory till riches and luxury came in, sat like an incubus on the Republic, *victamque ulciscitur orbem.* “Our winter sets in a fortnight earlier than usual, and is pretty severe. I hope you have fairer skies and milder air. Wishing your health may last as long as your life, and your life as long as you desire it, I am, &c.”
+
+### Letter 62: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“January 17, 1820.
+
+“When [James] Harris was returned a member of Parliament, a friend introduced him to Chesterfield, whom he had never seen. ‘So, Mr. Harris,’ said his lordship, ‘you are a member of the House of Commons. You have written upon universal and scientific grammar; you have written upon art, upon music, painting and poetry;—and what has the House of Commons to do with art, or music, or painting, or poetry, or taste? Have not you written upon virtue and happiness?’ ‘I have, my lord, indulged myself in speculations upon those subjects.’ ‘And what the devil has the House of Lords to do with either happiness or virtue?’ This idle tale, which I had from the mouth of Sir James Harris, now Lord Malmesbury, I repeat to you for a preface to another idle tale, which I am about to relate to you, namely—Too much confined by the cold weather, I have for a few days past whirled away the time in reading these pieces of Harris, and another, entitled Philosophical Arrangements. The Dialogue upon Happiness is one of the first pieces of morals I ever read. . . . Harris's Dialogue on Happiness is worth all the metaphysical researches of philosophers, from the beginning of the world, into the nature of matter and spirit, of energy, of power, of activity, of motion, or any such thing. When we say God is a spirit, we know what we mean, as well as we do when we say that the pyramids of Egypt are matter. Let us be content, therefore, to believe him to be a spirit, that is, an essence that we know nothing of, in which originally and necessarily reside all energy, all power, all capacity, all activity, all wisdom, all goodness.
+
+> “Behold the creed and confession of faith of your ever affectionate friend.”
+
+Two more philosophical letters were exchanged this spring, and Adams concluded a third, on May twelfth, with:
+
+> “Oh delightful Ignorance—when I arrive at a certainty that I am ignorant and that I always must be ignorant while I live, I am happy for I know I can no longer be responsible. We shall meet hereafter and laugh at our present bothera-tions. So believes your old friend.”
+
+Jefferson did not write again until midsummer. He refers to visiting again at Poplar Forest and to the construction of the buildings of the University of Virginia, which was the absorbing activity of his last years.
+
+### Letter 63: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“August 15, 1820.
+
+> “I am a great defaulter, my dear Sir, in our correspondence, but prostrate health rarely permits me to write; and when it does, matters of business imperiously press their claims. I am getting better, however, slowly. . . . I can walk but little; but I ride six or eight miles a day without fatigue; and within a few days, I shall endeavor to visit my other home, after a twelvemonth’s absence from it. Our University, four miles distant, gives me frequent exercise, and the oftener, as I direct the architecture. Its plan is unique, and it is coming an object of curiosity for the traveler.”
+
+This was, however, but the preamble to a long dissertation on some criticism which had been leveled at the language course of the University of Virginia. Jefferson was the father of this institution in all respects. He conceived the idea of it, he was the architect of its buildings, he fashioned the curriculum, and he was the first Rector. Turning from criticism to philosophical speculation, he terminated his letter:
+
+> “I am satisfied, and sufficiently occupied with the things which are, without tormenting or troubling myself about those which may indeed be, but of which I have no evidence. I am sure that I really know many, many things, and none more surely than that I love you with all my heart, and pray for the continuance of your life until you shall have tired of it yourself.”
+
+“I was quite rejoiced,” wrote Jefferson in the first letter of 1821, dated January twenty-second, “to see that you had health and spirits enough to take part in the late convention of your State, for revising its Constitution, and to bear your share in its debates and labors.” To this Adams replied immediately:
+
+> “ . . . My appearance in the late convention was too ludicrous to be talked of. I was a member in the Convention of 1779 and there I was loquacious enough. I have harangued and scribbled more than my share, but from that time to the convention of 1820 I never opened my lips in a publick debate. After a total desuetude of 40 years, I boggled and blundered more than a young fellow just rising to speak at the bar. What I said I know not, I believe the printers have made better speeches than I made for myself. Feeling my weakness I attempted little and that seldom. What would I give for nerves as good as yours, but as Wesley said of himself at my age, ‘Old Time has shaken me by the hand, and paralysed it.’”
+
+Adams wrote, on May nineteenth, about European affairs, and, on August twentieth, advocating army and navy academies; to which Jefferson replied sympathetically on September twelfth. Adams retorted almost gaily on September twenty-fourth; and in the course of the letter he reveals their habit of noting the diminishing group of Signers of the Declaration of Independence, this time *à propos* the passing of William Floyd, of New York:
+
+### Letter 64: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“September 24, 1821.
+
+“I thank you for your favor of the 12th instant. Hope springs eternal. Eight millions of Jews hope for a Messiah more powerful and glorious than Moses, David, or Solomon; who is to make them as powerful as he pleases. Some hundreds of millions of Mussulmans expect another prophet more powerful than Mahomet, who is to spread Islamism over the whole earth. Hundreds of millions of Christians expect and hope for a millennium in which Jesus is to reign for a thousand years over the whole world before it is burnt up. The Hindoos expect another and final incarnation of Vishnu, who is to do great and wonderful things, I know not what. All these hopes are founded on real or pretended revelation. The modern Greeks, too, it seems, hope for a deliverer who is to produce them—the Themistocleses and Demostheneses—the Platos and Aristotles—the Solons and Lycurguses. On what prophecies they found their belief, I know not. You and I hope for splendid improvements in human society, and vast amelioration in the condition of mankind. Our faith may be supposed by more rational arguments than any of the former. I own I am very sanguine in the belief of them, as I hope and believe you are, and your reasoning in your letter confirmed me in them.
+
+“As Brother Floyd has gone, I am now the oldest of the little Congressional group that remain. I may therefore rationally hope to be the first to depart; and as you are the youngest and most energetic in mind and body, you may therefore rationally hope to be the last to take your flight, and to rake up the fire as father Sherman, [Roger Sherman, a Signer for Massachusetts] who always staid to the last, and commonly two days afterwards, used to say, ‘that it was his office to sit up and rake the ashes over the coals.’ And much satisfaction may you have in your office.”
+
+The wrist to which Jefferson refers in his next, was dislocated while he was Minister to France. It was at that time so long in mending that he skilled himself in writing with his left hand. Later in life the wrist grew stiff and troublesome, and at the time of mentioning it to Adams the inconvenience was probably accented by the fact that he had recently suffered a fall from one of the terraces at Monticello and had broken his left arm.
+
+It was not till the sunny May of 1822 had thawed both their ink-wells that they wrote again. Jefferson broke the silence with:
+
+### Letter 65: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“June 1, 1822.
+
+“It is very long, my dear Sir, since I have written to you. My dislocated wrist is now become so stiff that I write slow and with pain, and therefore write as little as I can. Yet it is due to mutual friendship to ask once in awhile how we do? The papers tell us that General Stark is off at the age of 93. Charles Thomson still lives at about the same age, cheerful, slender as a grasshopper, and so much without memory that he scarcely recognizes the members of his household. An intimate friend called on him not long since; . . . and, sitting one hour, he told him the same story four times over. Is this life? . . . It is at most but the life of a cabbage; surely not worth a wish. When all our faculties have left, or are leaving us, one by one, sight, hearing, memory, every avenue of pleasing sensation is closed, and athumy, debility and *malaise* left in their places, when friends of our youth are all gone, and a generation is risen around us whom we know not, is death an evil?
+
+“ . . . I have ever dreaded a doting old age; and my health has generally been so good, and is now so good, that I dread it still. The rapid decline of my strength during the last winter has made me hope sometimes that I see land. During summer I enjoy the temperature, but I shudder at the approach of winter, and wish I could sleep through it with the dormouse, and only wake with the spring, if ever. . . . I am told you walk well and firmly. I can only reach my garden, and that with sensible fatigue. I ride, however, daily. But reading is my delight. I should wish never to put pen to paper; and the more because of the treacherous practice some people have of publishing one's letters without leave. Lord Mansfield declared it a ‘breach of trust, and punishable by law.’ I think it should be a penitentiary felony; yet you will have seen that they have drawn me out into the arena of the newspapers; although I know it is too late for me to buckle on the armor of youth, yet my indignation would not permit me passively to receive the kick of an ass.”
+
+Adams replied briefly the very day he received the letter. Jefferson then replied to him with equal promptitude, on the twenty-seventh, in the course of which he wrote of the continuing scourge of letters to which he was subjected: “ . . . I do not know how far you may suffer, as I do, under the persecution of letters, of which every mail brings a fresh load. They are letters of inquiry, for the most part, always of good will, sometimes from friends I esteem, but much oftener from persons whose names are unknown to me, but written kindly and civilly, and to which, therefore, civility requires answers. Perhaps the better known failure of your hand in its function of writing, may shield you in greater degree from this distress, and so far qualify the misfortune of its disability. I happened to turn to my letter-list some time ago, and a curiosity was excited to count those received in a single year. It was the year before the last. I found the number to be one thousand two hundred and sixty-seven, many of them requiring answers of elaborate research, and all to be answered with due attention and consideration.”
+
+The antiphonal exchange was continued by a reply from Adams, written on July twelfth, urging the publication of Jefferson’s letters and suggesting that, as former executives carried into private life so much burden as a result of their public service, there should, at public cost, be provision for the lightening of it. One other letter from each that year was devoted to recalling the attitude of Washington's Cabinet toward a proposed navy. Referring to a lady's description of a visit to Monticello, Adams, on February 10, 1823, wrote:
+
+> “But now to the point. This Lady says she saw in your Sanctum Sanctorum, a large folio volume, on which was written Libels, on opening which, she found it was a magazine of slips of newspapers and pamphlets, vilifying, calumniating and defaming you. I started as from a trance, exclaiming, what a dunce have I been all my days, but what lubbers my children and grandchildren were, that none of us, have ever thought to make a similar collection. If we had I am confident I could have produced a more splendid mass than yours.”
+
+This drew the following and immediate explanation from Jefferson:
+
+### Letter 66: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“February 25, 1823.
+
+“ . . . The paper respecting Monticello, to which you allude, was . . . written by memory at least a dozen years after the visit. This has occasioned some lapses of recollection, and a confusion of some things in the mind of our friend, and particularly as to the volume of slanders supposed to have been cut out of newspapers and preserved. It would not, indeed, have been a single volume, but an encyclopedia in bulk. But I never had such a volume; indeed, I rarely thought those libels worth reading, much less preserving and remembering. At the end of every year I generally sorted all my pamphlets, and had them bound according to their subjects. One of these volumes consisted of personal altercations between individuals, and calumnies on each other. This was lettered on the back, ‘Personalities,’ and is now in the library of Congress. I was in the habit, also, while living apart from my family, of cutting out of the newspapers such morsels of poetry, or tales, as I thought would please, and of sending them to my grandchildren, who pasted them on leaves of blank paper and formed them into a book. These two volumes have been confounded into one in the recollection of our friend. Her poetical imagination, too, has heightened the scenes she visited, as well as the merits of the inhabitants, to whom her society was a delightful gratification.”
+
+### Letter 67: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“March 9, 1823.
+
+“The sight of your well-known handwriting in your favor of February 25th last, gave me great pleasure, as it proved your arm to be restored, and your pen still manageable. May it continue till you become as perfect a Calvinist as I am, in one particular. Poor Calvin’s infirmities, his rheumatism, his gout, and sciatica, made him frequently cry out, *‘Mon dieu, jusqu’a quand!’* ‘Lord, how long!’ Prat, once Chief Justice of New York, always tormented with infirmities, dreamed that he was situated on a single rock in the midst of the Atlantic ocean. He heard a voice,
+
+> **[verse_insert]**
+>
+> “ ‘Why mourns the bard? Apollo bids thee rise;  
+> Renounce the dirt, and claim thy native skies.’
+
+“The ladies’ visit to Monticello has put my readers in requisition to read to me ‘Simond’s Travels in Switzerland.’ I thought I had some knowledge of that country before, but I find I had no idea of it. How degenerated are the Swiss! They might defend their country against France, Austria, and Russia, neither of whom ought to be suffered to march armies over their mountains. Those powers have practised as much tyranny and immorality, as even the Emperor Napoleon did, or over the *roitelets* of Germany or Italy. Neither France, Austria, or Spain, ought to have a foot of land in Italy.
+
+“All conquerors are alike. Every one of them, *jura negat sibi lata, nihil non arrogat armis.* We have nothing but fables concerning Theseus, Bacchus, and Hercules, and even Sesostris; but I dare say that every one of them was as tyrannical and immoral as Napoleon. Nebuchadnezzar is the first great conqueror of whom we have anything like history, and he was as great as any of them. Alexander and Cæsar were more immoral than Napoleon. Genghis Khan was as great a conqueror as any of them, and destroyed as many millions of lives, and thought he had a right to the whole globe, if he could subdue it.
+
+“What are we to think of the crusades, in which three millions of lives, at least, were probably sacrificed? And what right had St. Louis and Richard Cœur de Lion to Palestine and Syria, more than Alexander to India, or Napoleon to Egypt and Italy? Right and justice have hard fare in this world, but there is a Power above who is capable and willing to put all things right in the end, *et pour mettre chacun à sa place dans l’univers;* and I doubt not he will. . . . ”
+
+And he concluded a little hilariously: “You see, as my reason and intellect fail, my imagination grows more wild and ungovernable, but my friendship remains the same. Adieu.” Jefferson in reply, April eleventh, took Calvin’s exclamation as text for a long letter on religion. The state of Europe drew exchanges of letters in the early fall on European and domestic politics, but sweetened by renewed assurances of their mellowed friendship. “As you write so easily and so well, I pray you to write me as often as possible,” pleaded Adams, “for nothing revives my spirits so much as your letters, except the society of my son and his family, who are now happily with me after an absence of two years.” The reference was to his son, John Quincy Adams, who became president of the United States the year following. This letter from Adams was followed by Jefferson’s charming letter of October twelfth, here given in full:
+
+### Letter 68: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“October 12, 1823.
+
+“I do not write with the ease which your letter of September the 18th supposes. . . . Crippled wrists and fingers make writing slow and laborious. But while writing to you, I lose all sense of these things in the recollection of ancient times, when youth and health made happiness out of everything. I forget for a while the hoary winter of age, when we can think of nothing but how to keep ourselves warm, and how to get rid of our heavy hours until the friendly hand of death shall rid us of all at once. Against this *tedium vitæ,* however, I am fortunately mounted on a hobby, which, indeed, I should have better managed thirty or forty years ago; but whose easy amble is still sufficient to give exercise and amusement to an octogenary rider. This is the establishment of a University, on a scale more comprehensive, and in a country more healthy and central than our old William and Mary, which these obstacles have long kept in a state of languor and inefficiency. But the tardiness with which such works proceed, may render it doubtful whether I shall live to see it go into action.
+
+“Putting aside these things, however, for the present, I write this letter as due to a loyal friendship coeval with our government, and now attempted to be poisoned, when too late in life to be replaced by new affections. I had for some time observed in the public papers, dark hints and mysterious innuendoes of a correspondence of yours with a friend, to whom you had opened your bosom without reserve, and which was to be made public by that friend or his representative. And now it is said to be actually published. It has not yet reached us, but extracts have been given, and such as seemed most likely to draw a curtain of separation between you and myself. Were there no other motive than that of indignation against the author of this outrage on private confidence, whose shaft seems to have been aimed at yourself more particularly, this would make it the duty of every honorable mind to disappoint that aim, by opposing to its impression a sevenfold shield of apathy and insensibility. With me, however, no such armor is needed. The circumstances of the times in which we have happened to live, and the partiality of our friends at a particular period, placed us in a state of apparent opposition, which some might suppose to be personal also; and there might not be wanting those who wished to make it so, by filling our ears with malignant falsehoods, by dressing up hideous phantoms of their own creation, presenting them to you under my name, to me under yours, and endeavoring to instil into our minds things concerning each other the most destitute of truth. And if there had been at any time, a moment when we were off our guard, and in a temper to let the whispers of those people make us forget what we had known of each other for so many years, and years of so much trial, yet all men who have attended to the workings of the human mind, who have seen the false colors under which passion sometimes dresses the actions and motives of others, have seen also those passions subsiding with time and reflection, dissipating like mists before the rising sun, and restoring to us the sight of all things in their shape and colors. It would be strange indeed, if, at our years, we were to go back an age to hunt up imaginary or forgotten facts, to disturb the repose of affections so sweetening to the evening of our lives. Be assured, my dear Sir, that I am incapable of receiving the slightest impression from the effort now made to plant thorns on the pillow of age, worth and wisdom, and to sow tares between friends who have been such for near half a century. Beseeching you then, not to suffer your mind to be disquieted by this wicked attempt to poison its peace, and praying you to throw it by among the things which have never happened, I add sincere assurances of my unabated and constant attachment, friendship and respect.”
+
+How much Adams appreciated this expression was shown in his next letter, of November tenth, which reveals all the vivacity so characteristic of him and of a man many years younger than one in his eighty-ninth year. However he may have otherwise succumbed to the ravages of age, his mind and disposition held on to their pugnacious enthusiasms. The name of the miscreant, however, was not mentioned.
+
+### Letter 69: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“November 10, 1823.
+
+“Your last letter was brought to me from the Postoffice when at breakfast with my family. I bade one of the misses open the budget, she reported a letter from Mr. Jefferson and two or three newspapers. ‘A letter from Mr. Jefferson,’ says I, ‘I know what the substance is before I open it; There are no secrets between Mr. Jefferson and me, and I cannot read it, therefore you may open and read it.’ When it was done, it was followed by an universal exclamation: ‘The best letter that ever was written,’ and round it went through the whole table.—How generous! How noble! How magnanimous! I said that it was just such a letter as I expected only it was infinitely better expressed. A universal cry that the letter ought to be printed; no, hold—certainly not without Mr. Jefferson's express leave.
+
+> “As to the blunderbuss itself which was loaded by a miserable melancholy man, out of his wits, and left by him to another to draw the trigger. The only affliction it has given me is sincere grief at the melancholy fate of both. The peevish and fretful effusions of politicians in difficult and dangerous conjunctures from the agony of their hearts are not worth remembering, much less of laying to heart.
+
+> “The published correspondence is garbled. All the letters are left out that could explain the whole mystery. The vengeance against me was wholly occasioned because he could not persuade me to recommend him to the national government for a mission abroad or the government of a territory; services for which I did not think him qualified.
+
+> “I salute your fireside with cordial esteem and affection.
+
+J. A.
+
+“In the 89th year of his age still has fat to last much longer.”
+
+Jefferson did not write again until more than a year had passed. Meantime Adams wrote briefly on three other occasions, on the last of which, November 15, 1824, he referred to the visits of LaFayette to him and Jefferson, marveling at that old gentleman's courage in traveling so far at his age, and added a note on his own health. Jefferson replied:
+
+### Letter 70: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“January 8, 1825.
+
+“It is long since I have written to you. This proceeds from the difficulty of writing with my crippled wrist, and from an unwillingness to add to your inconveniences of either reading by the eyes, or writing by the hands of others. The account I receive of your physical situation afflicts me sincerely; but if body or mind was one of them to give way, it is a great comfort that it is the mind which remains whole, and that its vigor, and that of memory continues firm. Your hearing, too, is good, as I am told. In this you have the advantage of me. The dullness of mine makes me lose much of the conversation of the world, and much a stranger to what is passing in it. Acquiescence is the only pillow, although not always a soft one. . . .
+
+“I have lately been reading the most extraordinary of all books, and at the same time the most demonstrative by numerous and unequivocal facts. It is Flourend's experiments on the functions of the nervous system, in vertebrated animals. He takes out the cerebrum completely, leaving the cerebellum and other parts of the system uninjured. The animal loses all its senses of hearing, seeing, feeling, smelling, tasting, is totally deprived of will, intelligence, memory, perception, etc., yet lives for months in perfect health, with all its powers of motion, but without moving but on external excitement, starving even on a pile of grain, unless crammed down its throat; in short, in a state of the most absolute stupidity. He takes the cerebellum out of others, leaving the cerebrum untouched. The animal retains all its senses, faculties, and understanding, but loses the power of regulated motion, and exhibits all the symptoms of drunkenness. While he makes incisions in the cerebrum and cerebellum, lengthwise and crosswise, which heal and get well, a puncture in the medulla elongata is instant death; and many other interesting things too long for a letter."
+
+His pen traveled along on other topics before he concluded: "But all this, you and I shall know better when we meet again, in another place, and at no distant period. In the meantime, that the revived powers of your frame, and the anodyne of philosophy may preserve you from all suffering, is my sincere and affectionate prayer.” In answering, Adams declared the letter had revived him, and among other remarks, let drop:
+
+> “As to the decision of your author, though I wish to see the book, I look upon it as a mere game of push-pin. Incision-knives will never discover the distinction between matter and spirit, or whether there is any or not. That there is an active principle of power in the universe, is apparent; but in what substance that principle resides, is past our investigation. The faculties of our understanding are not adequate to penetrate the universe. Let us do our duty, which is to do as we would be done by; and that, one would think, could not be difficult, if we honestly aim at it.”
+
+He followed this next day with a brief but solid blast at the difficulty of free inquiry into the inspiration of the Scriptures; and wrote again, on February twenty-fifth, on several topics of no particular interest here, except some appreciation of Jefferson’s granddaughter, Mrs. Joseph Coolidge, Jr., which inspired this reply from Monticello, December eighteenth:
+
+### Letter 71: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“December 18, 1825.
+
+“ Your letters are always welcome, the last more than all the others, its subject being one of the dearest to my heart. To my granddaughter your commendations cannot fail to be an object of high ambition, as a certain passport to the good opinion of the world. . . . You tell me she repeated to you an expression of mine, that I should be willing to go again over the scenes of past life. I should not be unwilling, without, however, wishing it; and why not? I have enjoyed a greater share of health than falls to the lot of most men; my spirits have never failed me, except under those paroxysms of grief which you, as well as myself, have experienced in every form, and with good health and good spirits, the pleasures surely outweigh the pains of life. Why not, then, taste them again, fat and lean together? Were I indeed permitted to cut off from the train the last seven years, the balance would be much in favor of treading the ground over again. . . .
+
+“I learn with sincere pleasure that you have experienced lately a renovation of your health. That it may continue to the ultimate period of your wishes is the sincere prayer of *usque ad eras amicissimi tui*.”
+
+They each wrote once more, in the next and what proved to be the last year of the life of each of them.
+
+### Letter 72: Jefferson → Adams
+
+#### *Jefferson to Adams:*
+
+“March 25, 1826.
+
+“My grandson, Thomas J. Randolph, the bearer of this letter, being on a visit to Boston, would think he had seen nothing were he to leave without seeing you. Although I truly sympathize with you in the trouble these interruptions give, yet I must ask for him permission to pay you his personal respects. Like other young people, he wishes to be able in the winter nights of old age, to recount to those around him, what he has heard and learnt of the heroic age preceding his birth, and which of the Argonauts individually he was in time to have seen.
+
+“It was the lot of our early years to witness nothing but the dull monotony of a colonial subservience; and of our riper years, to breast the labors and perils of working out of it. Theirs are the Halcyon calms succeeding the storm which our Argosy had so stoutly weathered. Gratify his ambition then, by receiving his best bow; and my solicitude for your health, by enabling him to bring me a favorable account of it. Mine is but indifferent, but not so my friendship and respect for you.”
+
+### Letter 73: Adams → Jefferson
+
+#### *Adams to Jefferson:*
+
+“April 17, 1826.
+
+“Your letter of March 25th has been a cordial to me, and the more consoling as it was brought by your grandsons, Mr. Randolph and Mr. Coolidge. Everybody connected with you is snatched up, so that I cannot get any of them to dine with me. They are always engaged.—How happens it that you Virginians are all sons of Anak? We New Englanders are but pygmies by the side of Mr. Randolph; I was very much gratified with Mr. Randolph and his conversation. Your letter is one of the most beautiful and delightful I have ever received.
+
+“Public affairs go on pretty much as usual, perpetual chicanery and rather more personal abuse than there used to be; Messrs. Randolph and McDuffie have out Heroded Herod. Mrs. McDuffie seems to be swallowed up in chivalry. Such institutions ought not to be suffered in a republican government. Our American chivalry is the worst in the world—it has no laws, no bounds, no definitions, it seems to be all a caprice. My love to all your family and best wishes for your health.”
+
+They did not write again. They died soon after, within an hour of each other, Jefferson in his eighty-third year, Adams in his ninety-first, about noon, on the anniversary of the day they had both done so much to make memorable, the Fourth of July.
+
+### THE END
+
+## Backmatter
+
+### *Correspondence of<br />John Adams and<br />Thomas Jefferson<br />1812-1826<br />edited by Paul Wilstach*
+
+This one-volume abridgment of the famous exchange of letters between two great Americans provides students of American history with the best portions of the correspondence in convenient form. The letters, whole or in part, are presented in sequence and are interspersed with brief passages by the editor to bridge the gaps.
+
+Parted by politics and reconciled through this correspondence when Adams was 77 and Jefferson 69, the two former Presidents, now past ambition and favor-seeking, gossiped, speculated and criticized freely, expressing their ideas and convictions to each other without restraint. "You and I ought not to die before we have explained ourselves to each other," wrote Adams, and for nearly fifteen years they shared intimate confidences on history, politics, religion, and former associates, revealing themselves to each other and to the fortunate modern reader.
+
+Cover by Carl Smith
+
+A CAPRICORN BOOK

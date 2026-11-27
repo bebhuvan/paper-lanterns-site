@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Emily Dickinson, Mabel Loomis Todd (ed.)",
  "year": 1894,
  "archive_id": "lettersofemilydi00dick",
@@ -290,27 +293,27 @@
   {
    "format": "epub",
    "file": "emily-dickinson-letters-1894.epub",
-   "bytes": 196629,
-   "sha256": "d612fdc20f03ae758eb1955cf312593e7e264ca7111612f1a10117494ebe11f2"
+   "bytes": 196614,
+   "sha256": "2732dec749b6dae7bd59b47b9bca9c849d22a53256ba5b961fc1cdbe46fd5c46"
   },
   {
    "format": "markdown",
    "file": "emily-dickinson-letters-1894.md",
-   "bytes": 315486,
-   "sha256": "052d99e292537901154008f5e08fc215143410a394f5676299b015dde10efd65"
+   "bytes": 315488,
+   "sha256": "415e4b0e800186cb8e444a91f97e5f989532c9213d417dcdbb17ce977abb3fe1"
   },
   {
    "format": "tei",
    "file": "emily-dickinson-letters-1894.tei.xml",
-   "bytes": 414882,
-   "sha256": "55349a8c8a9e106c8eecdffa7c1c5348454b893ff116d835a13ee9a0f4cb70e7"
+   "bytes": 414301,
+   "sha256": "dd2fa8557c58b0158276195da1e0b29aab41c95b622b8c4edb15b4b5cc439d75"
   }
  ],
  "scan_base": "https://archive.org/download/lettersofemilydi00dick/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:21:58Z",
-  "source_ast_sha256": "895655da763de455e0fcf9d5b004aec58c6bb0153cbe1a6d6d11effad3ae6eef",
+  "compiled_at": "2026-11-27T03:47:02Z",
+  "source_ast_sha256": "7ea5074f6433bcc4b949c5e745e79f20c07cf0a0263805c2e1729fec999e6085",
   "hugo_renderer_version": "1.0.0"
  }
 }

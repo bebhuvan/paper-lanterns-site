@@ -2121,7 +2121,7 @@ Our wealth seems to me quite terrific when I compare it with that of some people
 | 2. With Karl ... ... | 4,000 „ |
 | 3. With Eduard ... | 3,540 „ |
 | 4. From Eduard's estate | 1,500 „ |
-| 14,040 talers. |  |
+|  | 14,040 talers. |
 | Interest ... ... ... | 560 talers. |
 | Other sources of yearly income : |  |
 | From Friese[^fn-p0234-1] ... ... | 624 talers. |

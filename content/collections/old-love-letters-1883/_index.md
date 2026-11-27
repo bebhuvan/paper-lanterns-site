@@ -12,6 +12,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Abby Sage Richardson (ed.)",
  "year": 1883,
  "archive_id": "oldloveletters00rich",
@@ -63,7 +66,7 @@
   "verified": 0,
   "machine_reread": 48
  },
- "page_kinds": "ffffffffffffffffffffffffnnLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLnnnnLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLnLLLLLLLLLLLLLLLLLLLnnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnLLLLLLLLLLLLLLLLLLLnnLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLnnnLLLLLnLLLnLLLLLLLLLLLnLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLnLLLLLLLnnnnLLLLLLLLLLLLLLnLLLLLLLLLnnLLLLLiiiiii",
+ "page_kinds": "ffffffffffffffffffffffffnnLLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLnnnnLLLLLLLLLLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLnLLLLLLLLLLLLLLLLLLLnnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnLLLLLLLLLLLLLLLLLLLnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnnnLLLLLnLLLnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLnLLLLLLLnnnnLLLLLLLLLLLLLLnLLLLLLLLLnnLLLLLiiiiii",
  "page_runs": [
   [
    "f",
@@ -139,15 +142,7 @@
   ],
   [
    "L",
-   23
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   18
+   42
   ],
   [
    "n",
@@ -171,23 +166,7 @@
   ],
   [
    "L",
-   11
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   13
-  ],
-  [
-   "n",
-   1
-  ],
-  [
-   "L",
-   20
+   46
   ],
   [
    "n",
@@ -519,27 +498,27 @@
   {
    "format": "epub",
    "file": "old-love-letters-1883.epub",
-   "bytes": 275754,
-   "sha256": "de7e3d2da00e905c32918255a6f5fb53238ee8e6e63c4cc663d08eac6b0f42a9"
+   "bytes": 275595,
+   "sha256": "55a9ebd12da9fcd91e704c15a3680d0b3eaf4d0acacddee6e386ecfb1fd13031"
   },
   {
    "format": "markdown",
    "file": "old-love-letters-1883.md",
-   "bytes": 442255,
-   "sha256": "05dd5e2d4fce3f5bdc4916cfd571ac55b9c1b4365302de51d53277beda93a463"
+   "bytes": 442279,
+   "sha256": "a29a534a905b760c0e01d29c36a6497c6eb83796b64de67d30200ef36572a4cd"
   },
   {
    "format": "tei",
    "file": "old-love-letters-1883.tei.xml",
-   "bytes": 550543,
-   "sha256": "dc501b81dc3068b139fe3b53e2767df2d5341f3a71683c9d50a0f5f5724c6461"
+   "bytes": 548374,
+   "sha256": "181ba81bd44f03d9d57a2113b8748c218657d470cc3b110af907060ff131214e"
   }
  ],
  "scan_base": "https://archive.org/download/oldloveletters00rich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:23:18Z",
-  "source_ast_sha256": "f4ebcc507bfaf75db369ff42990f9614654705402aea404b647e3c7e183b9238",
+  "compiled_at": "2026-11-27T03:45:58Z",
+  "source_ast_sha256": "1a36dc84c075776dfce597c96293b75048f7641ce15bf8a46e23153cb4997a71",
   "hugo_renderer_version": "1.0.0"
  }
 }
