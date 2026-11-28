@@ -145,27 +145,27 @@
   {
    "format": "epub",
    "file": "broughton-mahratta-1809.epub",
-   "bytes": 343718,
-   "sha256": "5682905b90c96dc20392c0bca7238817f6e942a9bc05df690c6afed5c920bd67"
+   "bytes": 343749,
+   "sha256": "05c0a8cce6f87700e9f662173e9d01d0b466b78cdffdd72d6f2af48fa4b666bb"
   },
   {
    "format": "markdown",
    "file": "broughton-mahratta-1809.md",
-   "bytes": 565675,
-   "sha256": "8ee016afac137783eb51460adc2d0268f20a75ed31531f61b4ff60da573f8ba9"
+   "bytes": 565685,
+   "sha256": "d48f433391d4c75d6c662dc0401fe275ed2d5d0aa5a09563f99a03bdfa02e676"
   },
   {
    "format": "tei",
    "file": "broughton-mahratta-1809.tei.xml",
-   "bytes": 632879,
-   "sha256": "9f4d9a709d148b2c0edc05acfd295285152fd1ac3ecb7345b8b8e40ef08a7ee6"
+   "bytes": 633187,
+   "sha256": "6a86c505b69c76905b1e6fb23dc2661a5ca5303b854081692434b46d088f93f9"
   }
  ],
  "scan_base": "https://archive.org/download/letterswrittenin00brou/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-v1",
-  "compiled_at": "2026-11-28T05:29:51Z",
-  "source_ast_sha256": "fcf5b17e05404b12d7bd224dea4adc1f61d57e06556dc3738340310a741c777d",
+  "compiled_at": "2026-11-28T12:55:18Z",
+  "source_ast_sha256": "f701ba619f628ad37f081c13e014c84141fd4a3120b7420a83442030bfed12a2",
   "hugo_renderer_version": "1.0.0"
  }
 }

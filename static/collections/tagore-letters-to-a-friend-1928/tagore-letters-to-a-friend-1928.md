@@ -242,15 +242,11 @@ Through what depth of suffering that peace and joy came out at last triumphant, 
 
 It was during this period that *Gitanjali* was written in his own mother-tongue, Bengali. “I wrote,” he said, “those poems for myself. I did not think of publishing them when I was writing.” They mark the great transition in his life, when the Poet’s social and national longings became wholly merged in the universal. He has attempted —to use his own words—“to express the fullness of human life, in its beauty, as perfection.” Since that period of sorrow he has fared forth as a voyager, a pilgrim. This is the last phase of all. It was his own health which first compelled him to set out to the West. But here again, as in the former period mentioned, the outward circumstance has brought with it a new spiritual development.
 
-> **[letter_excerpt]**
->
-> > As I crossed the Atlantic (he wrote to me), and spent on board ship the beginning of a new year, I realized that a new stage in my life had come, the stage of a voyager. To the open road! To the emancipation of self! To the realization in love!
+> As I crossed the Atlantic (he wrote to me), and spent on board ship the beginning of a new year, I realized that a new stage in my life had come, the stage of a voyager. To the open road! To the emancipation of self! To the realization in love!
 
 In another letter, which he wrote earlier to me, dealing with the meeting of the conflicting races of the world and the removal of colour prejudice, he uses these words:—
 
-> **[letter_excerpt]**
->
-> > This meeting of the races affords the greatest of all problems that men have ever been asked to solve. It is, I believe, the one question of the present age, and we must be prepared to go through the martyrdom of suffering and humiliation till the victory of God in man is achieved.
+> This meeting of the races affords the greatest of all problems that men have ever been asked to solve. It is, I believe, the one question of the present age, and we must be prepared to go through the martyrdom of suffering and humiliation till the victory of God in man is achieved.
 
 Since *Gitanjali* was written, Rabindranath Tagore has been facing, day by day, these larger international questions and casting aside altogether that narrower nationalism which for one period in his life had affected his own songs. He has attempted, also, to comprehend the inner harmony of his own life's work and to read its deeper meaning. The stage of philosophy has been reached by the Poet. Yet his lyrical powers seem in no way to be diminished. The fountain of song is still sending forth new streams.
 
@@ -347,8 +343,6 @@ But early in July the darkness again came down upon his life and seemed once mor
 
 Long before any news reached us about the World War that was impending, and before any hint of it had come to us in the midst of our comparative retirement from the world at Santiniketan, his mind was entirely preoccupied with the foreboding of some disaster which was about to overwhelm humanity. He wrote at this time, and published some weeks before the war began, a very remarkable Bengali poem called *The Destroyer*, in which he spoke of the sudden destruction that was coming upon the earth. It contained the following lines:—
 
-> **[verse_insert]**
->
 > Is it the Destroyer who comes?  
 > For the boisterous sea of tears heaves in the flood-tide of pain.  
 > The crimson clouds run wild in the wind, lashed by lightning, and the thundering laughter of the Mad is over the sky.  
@@ -560,8 +554,6 @@ If this purpose were only moral, it could be more easily tolerated—nay, welcom
 
 The human soul is God’s flower. It gives its best bloom and scent, not when shut up in eager palms to be squeezed, but when left alone in the immense freedom of light and air. But, very unfortunately,
 
-> **[verse_insert]**
->
 > The World is too much with us; late and soon  
 > Getting and spending, we lay waste our powers;  
 > Little we see in Nature that is ours;  
@@ -774,8 +766,6 @@ I am going on with the rehearsal, and rather like it. For it gives me opportunit
 
 But when he spoke out strongly against the militant imperialism which he saw on every side in Japan and set forward in contrast his own ideal picture of the true meeting of East and West, with its vista of world brotherhood, the hint went abroad that such “pacifist” teaching was a danger in war-time, and that the Indian Poet represented a defeated nation. Therefore, almost as rapidly as the enthusiasm had arisen, it subsided. In the end, he was almost isolated, and the object for which he had come to the Far East remained unfulfilled. It was at this time that he wrote his poem called *The Song of the Defeated,* which begins:—
 
-> **[verse_insert]**
->
 > My Master bids me, while I stand at the wayside,  
 >     to sing the song of defeat.  
 > For that is the bride whom He woos in secret.
@@ -816,8 +806,6 @@ Coming away from Calcutta, I have come to myself. Every time it is a new discove
 
 You know the English translation of my poem about “taking truth simply.” Last night, while reading it in *The Gardener* along with others, it seemed to me strangely incongruous in its semi-metrical form. It was like meeting a woman dressed in tights in the midst of others dressed in simple *saris*. So I tried to divest it of its metrical disguise, though it is difficult to exorcise altogether the ghost of the old metre.
 
-> **[verse_insert]**
->
 > Whatever may come, my heart, take truth simply,  
 > Though there be some who can love you, there must be  
 >     others who never can, and if you must know the  
@@ -1353,8 +1341,6 @@ You have asked for my permission to abolish the matriculation class from our sch
 
 I am enclosing with this a translation, which runs thus:—
 
-> **[enclosure]**
->
 > ###### WOMAN
 >
 > The fight is ended.  
@@ -1400,8 +1386,6 @@ Yesterday some Santiniketan photographs came by chance into my hands. I felt as 
 
 What makes me feel so sad, in this country, is the fact that people here do not know that they are not happy. They are proud, like the sandy desert, which is proud of its glitter. This Sahara is mightily big; but my mind turns its back upon it, and sings:—
 
-> **[verse_insert]**
->
 > I will arise and go now, and go to Innisfree,  
 > And a small cabin build there, of clay and wattles made;  
 > Nine bean rows will I have there, a hive for the honey-bee,  
@@ -1420,8 +1404,6 @@ Rabindranath Tagore
 
 autumn in our *Shiuli* groves, the rainy evening resonant with music in Dinu's absurd little room!
 
-> **[verse_insert]**
->
 > And I shall have some peace there, for peace comes  
 > dropping slow,  
 > Dropping from the veils of the morning to where the  
@@ -1740,8 +1722,6 @@ Never mind! Let me forget it for a moment. Possibly I am exaggerating. The reaso
 
 I am requested by some association to read a paper at one of their meetings. They asked me for a summary, which they will circulate among the members. I enclose a copy of it which I have given to them for circulation.
 
-> **[enclosure]**
->
 > ###### <span class="small-caps">The Summary of a Lecture</span>
 >
 > From the beginning of their history the Western races have had to deal with Nature as their antagonist. This fact has emphasized in their minds the dualistic aspect of truth, the eternal conflict between good and evil. Thus it has kept up the spirit of fight in the heart of their civilization. They seek victory and cultivate power.
@@ -1786,8 +1766,6 @@ We are going to Switzerland to-morrow, and our next destination will be Germany.
 
 It is a beautiful town, this Strasbourg, and to-day the morning light is beautiful. The sunshine has mingled with my blood and tinged my thoughts with its gold, and I feel ready to sing:—
 
-> **[verse_insert]**
->
 > " Brothers, let us squander this morning with futile  
 > songs."
 

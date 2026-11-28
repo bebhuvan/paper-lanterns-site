@@ -885,16 +885,12 @@ As for the boy Clodius, I think it is your duty to imbue what you call “his yo
 
 <span class="small-caps">Your</span> letter of the 19th did not reach me till the seventh day. In it ·you ask me (and even seem to think I can't answer) which of the two I like best—hills and a fine view or a walk along a flat coast. Well, it is quite true that, as you say, the charm of both spots is so great, that I ·can't make up my mind which is to be preferred.
 
-> **[verse_insert]**
->
 > “ But 'tis no time to think of dainty fare,  
 > When heaven upon us rolls this cloud of woe :  
 > We look and shudder—is it life or death ?” [^fn-p0077-2]
 
 For though you have sent me important and welcome news about Decimus Brutus having joined his legions,[^fn-p0077-3] in which I see the promise of very great things. Nevertheless, if there is to be a civil war, as there is sure to be, if Sextus Pompeius is going to remain in arms—as I know for certain he will—what I am to do I am at loss to conceive. For it will not be allowable now, as it was in Cæsar's war, to go neither to the one nor to the other. For anyone that this party shall believe to have rejoiced at Cæsar's death—and we all of us shewed our joy in the most open way—they will consider in the light of a public enemy : and that means a formidable massacre. The only resource is to go to the camp of Sextus Pompeius or perhaps to that of Brutus. It is a tiresome step and quite unsuitable to our time of life, considering the uncertainty of war, and somehow or another I can say to you and you to me:
 
-> **[verse_insert]**
->
 > “My son, the deeds of war are not for you:  
 > Seek rather thou the witching works of”—speech.[^fn-p0078-1]
 
@@ -1022,8 +1018,6 @@ First, thank you for what you have done on my behalf both as to the payment and 
 
 I have answered your first letter: I now come to your second. I will see to the Quinti and Buthrotum when I come, as you say. Thank you for supplying my son. You think me mistaken in my idea that the constitution depends on Brutus. The truth is that it will all go or will be saved by him and his friends. You urge me to send you a written copy of a speech to the people. Well, here, my dear Atticus, you may take it from me as a general maxim applicable to the affairs in which we have had a fairly wide experience—*no one, whether poet or orator, ever yet thought anyone else better than himself.* This is the case even with bad ones. What can you expect of the brilliant and accomplished Brutus. I had actual experience of him recently in the matter of the edict.[^fn-p0095-4] I drafted one on your request. I liked mine, he his. Nay, more, when in answer to what I may almost call his entreaties I had dedicated my book "On the best Style of Oratory" to him, he wrote not only to me, but to you also, to say that he did not agree with my choice of style. Therefore, pray, let each man write for himself:
 
-> **[verse_insert]**
->
 > “Each man has the best of wives:  
 >   So have I.  
 > That you have a sweeter love,  
@@ -1043,9 +1037,7 @@ Now for your third letter. I am glad that Brutus and Cassius liked my letter. Ac
 
 <span class="small-caps">Only</span> a little while ago I had sent you a letter by Cassius's letter-carrier, when my own letter-carrier arrived on the 11th, and, marvellous to say, without a letter from you. But I soon concluded that you had been at Lanuvium. Eros, however, made great haste to have Dolabella's letter delivered to me. It was not about my money—for he had not received my letter: but he wrote in answer to the letter of which I sent you a copy. It was very well expressed. Balbus, however, came to see me immediately after I had despatched Cassius's letter-carrier. Good heavens! how plainly he shewed his dread of peace! You know, too, what a reserved fellow he is, yet he told me Antony's plans. That he was making the round of the veterans, to induce them to confirm Cæsar's *acta*, and to take an oath that they would do so; to secure that they all had arms; and that two commissioners should inspect them every month.[^fn-p0097-2] He also grumbled about the prejudice existing against himself, and his whole conversation indicated an affection for Antony. In a word, there is nothing sound about him. For my part, I feel certain that things have a warlike look. For that deed was done with the courage of men, but the imprudence of a child. For who can fail to see that an heir to the tyranny has been left? [^fn-p0098-1] Now what can be more irrational than
 
-> **[verse_insert]**
->
-> > “To fear the one, nor dread at all the other”?
+> “To fear the one, nor dread at all the other”?
 
 Nay, at this very moment there are many circumstances of a paradoxical character. What about the mother of the tyrannicide retaining the Neapolitan villa of Pontius? [^fn-p0098-2] I must read over again and again my *Cato Maior*, which is dedicated to you. For old age is spoiling my temper. Everything puts me in a rage. But for me life is over. The rising generation must look to it. Take care of my affairs, as you always do.
 
@@ -1061,9 +1053,7 @@ I write, or rather dictate this, after the dessert has been put on the table at 
 
 <span class="small-caps">Having</span> been informed by Pilia that letter-carriers were starting for you on the 15th, I scrawl these few lines. First then I want you to know that I am leaving this place for Arpinum on the 17th of May. So please direct there if there is anything to write after this: though I shall be with you almost immediately myself. For I am anxious that before I arrive at Rome very careful inquiry should be made as to what is going to happen. However, I fear that my presentiments are not wide of the mark. It is in truth quite plain what these fellows are at. For my pupil,[^fn-p0099-1] who dines with me to-day, is much devoted to the victim of our Brutus’s dagger: and if you ask my opinion, I see very plainly their attitude—they dread peace. Moreover, their constant theme is that “a man of the most illustrious character has been killed: that by his death the constitution has been thoroughly shaken: that his *acta* will be rendered nugatory as soon as we cease to be frightened: that his clemency did him harm; and that if he had not shewn it, nothing of the sort would have befallen him.” It strikes me, therefore, that if Pompeius arrives with a strong army—as is reasonable to expect—there will certainly be war. This idea haunts my imagination and terrifies me. For we shall not now be able to do what you did on the former occasion. For I made no secret of my triumphant joy. In the next place, they talk of our ingratitude. It certainly will be impossible for me on any grounds to take up the position which was then possible for you and many others.[^fn-p0099-2] Must I then put a good face on it and go to the camp? A thousand times better die, especially at my time of life. Accordingly, the Ides of March do not console me so much as they did: for they involve a serious blunder, unless our young heroes
 
-> **[verse_insert]**
->
-> > “ By other noble deeds wipe out this shame.” [^fn-p0100-1]
+> “ By other noble deeds wipe out this shame.” [^fn-p0100-1]
 
 But if you have any brighter hope as being more in the way of hearing news and being cognizant of their plans, pray write me word and at the same time turn over in your mind what I ought to do about taking a “ votive legation.” [^fn-p0100-2] The fact is that in these parts many warn me against appearing in the senate on the 1st of June. Troops [^fn-p0100-3] are said to be secretly collecting for that day, and that too against the men who seem to me likely to be safer anywhere than in the senate.
 
@@ -1077,8 +1067,6 @@ But if you have any brighter hope as being more in the way of hearing news and b
 
 How sad about Alexio! [^fn-p0100-4] you would scarcely believe the extent to which it has afflicted me; and, by heaven! not from the point of view suggested by most people to me— “ Where will you go for a physician now ? ” For what need have I of a physician ? Or if I do need one, is there such a dearth of them ? It is his affection for me, his culture, his gracious manners that I miss. Then there is this consideration—what is there that we may not fear when a man of such temperate habits, of such eminence as a physician, is carried off by such a sudden illness ? But to all such thoughts the only consolation is that the conditions of our birth forbid us to shrink from anything to which flesh is heir. As to Antony, I have already told you that I did not meet him. For he came to Misenum while I was at my Pompeian house, and left it before I knew of his arrival. But, as it happened, Hirtius was with me at Puteoli when I was reading your letter. I read it out to him and stated the case.[^fn-p0101-1] As at first advised he would make no concession. At last, however, he said that I should be judge, not only in this matter but of the whole of his administration as consul. With Antony again I will put the case in such a way as to make him perceive that, if he does what we want in that business, I shall be wholly his in the future. I hope Dolabella is in town. Let us return to our heroes, of whom you shew that you have good hopes owing to the moderate tone of their edicts. Now, when Hirtius left my house at Puteoli on the 16th of May for Naples, to visit Pansa, I had a clear view of his whole mind. For I took him aside and exhorted him earnestly to preserve the peace. He could not of course say that he did not wish for peace : but he indicated that he was no less afraid of our side appealing to arms than of Antony doing so : and that after all both sides had reason to be on their guard, but that he feared the arms of both. I needn't go on : there is nothing sound about him. As to the younger Quintus, I agree with you : at any rate your charming letter to him gave the greatest pleasure to his father. Cærellia, indeed, I had no difficulty in convincing. She did not seem to me to be very anxious for it, and if she had been, I certainly should not have done so.[^fn-p0101-2] As to the lady whom you say has been troublesome to you, I am quite surprised that you listened to her at all. For because I spoke in complimentary terms of her in the presence of friends and in the hearing of her three sons, and your daughter, does the rest follow ?[^fn-p0101-3] What is the point of—
 
-> **[verse_insert]**
->
 > “ Why should I pace the streets with features masked ? ”
 
 Isn't the mask of old age itself ugly enough ?
@@ -1139,8 +1127,6 @@ You say you don't know what our men are to do. Well, that difficulty has been tr
 
 I now come back to your earlier letter. I will pass over the first clause about the Buthrotians, for
 
-> **[verse_insert]**
->
 > “That in my heart of hearts is fixed.”
 
 I only hope, as you say, we may have some opportunity of acting in the matter. You must be very keen about Brutus's speech, considering the length at which you discuss it again. Would you have me treat the subject after he has actually produced a written oration on it? Am I to write without being asked by him? That would be putting one's oar in with a vengeance! Nothing could be ruder. But something, say you, in the style of Heracleides.[^fn-p0108-3] Well, I don't decline that much: but it is necessary first to settle on a line of argument, and secondly to wait for a more suitable time for writing. For think what you will of me (though of course I should like you to think as well as possible), if things go on as they seem to be doing—you will not be vexed at my saying it—I feel no pleasure in the Ides of March. For Cæsar would never have come back:[^fn-p0108-4] fear would not have forced us to confirm his acts. Or supposing me to join Saufeius's school and abandon the doctrines of the Tusculans, I was so high in his favour (whom may the gods confound though dead!) that to a man of my age he was not a master to be shunned, since the slaying of the master has not made us free men. I blush—believe me. But I have written the words, and will not erase them. I only wish it had been true about Menedemus.[^fn-p0109-1] About the Queen I hope it may turn out to be true.[^fn-p0109-2] The rest when we meet, and especially as to what our heroes are to do, and even what I am to do myself if Antony means to blockade the senate with soldiers. If I had given this letter to his letter-carrier I feared he would open it. So I send it with special care : for I was obliged to answer yours.
@@ -1177,8 +1163,6 @@ Athens, 25 May.
 
 <span class="small-caps">My</span> letter-carrier has come back from Brutus, and has brought me a letter both from him and from Cassius. They are very earnest to have my advice—Brutus, indeed, wants to know which of the two courses I recommend. What a miserable state of things! I am quite uncertain what to say to them. So I think I shall try silence, unless you think I had better not. But if anything occurs to you, pray write and tell me. Cassius, however, begs and entreats me earnestly to bring Hirtius over to the right side as much as possible. Do you think he is in his right senses?
 
-> **[verse_insert]**
->
 > “Ashes and dust  
 > Is all our trust.”[^fn-p0112-1]
 
@@ -1194,8 +1178,6 @@ I inclose his letter. Balbus also writes to the same effect as you do as to the 
 
 <span class="small-caps">Our</span> friend Brutus has, as well as Cassius, written to me to urge that I should bring over Hirtius to the right side as much as possible. I neither knew that he entertained loyal sentiments, nor did I feel any confidence in being able to improve him in that respect by my influence:[^fn-p0113-1] for though he is perhaps somewhat irritated with Antony, he is devotedly attached to the cause. Nevertheless, I wrote to him and commended to him the maintenance of the civil position of Brutus and Cassius. I wished you to know the nature of his answer, in case you might entertain the same opinion as myself, namely, that that party are even now afraid of those heroes of ours having perhaps more courage than they actually do retain.
 
-> **[enclosure]**
->
 > ##### *Hirtius to his friend Cicero.*
 >
 > *You want to know whether I have yet returned from the country. Am I to be shewing indifference, when all the world is in a state of excitement? I in fact have left town because it is my belief that my absence is more advantageous than my presence. I despatch this letter to you when on the point of starting for my Tusculan villa. Don't imagine me to be so indefatigable as to hurry back by the 5th. I can't see that there is anything now requiring my attention, especially as provision for safety has been made for so many years in advance. How I wish that Brutus and Cassius may be induced by your entreaties not to enter upon any hot-headed design, as easily as they can obtain a like promise from you in regard to myself! For you say that they have written what you mention when on the point of leaving the country. Why or whither are they going? Stop them, I beseech you, Cicero: and don't allow the present settlement to be entirely undone, which, on my honour, is being shaken by plunder, arson, and murder. Let them only take precautions against absolute danger: don't let them attempt anything beyond. I assure you they will gain nothing more by the most spirited policy than by resolutely playing the waiting game, so long as they remain on the alert. For things here are in a state of transition, and cannot from their very nature last long as they are. If a struggle occurs they have means to strike an ugly blow. What your hopes are for them write and tell me at my Tusculan villa.*
@@ -1260,14 +1242,10 @@ Wherefore we beg you to let us know what your feeling towards us is: whether you
 
 I <span class="small-caps">reached</span> Antium on the 8th. Brutus was delighted at my arrival. Thereupon in the presence of a large party—Servilia, dear Tertia, and Porcia[^fn-p0120-4]—he asked me my opinion. Favonius[^fn-p0120-5] was there too. I had thought over what to say as I was on the road, and now advised him to avail himself of the corn-purchasing office in Asia. I urged that all we could now do was to consult for his safety: that on him depended the defence of the constitution itself. I had just got well into my speech when Cassius came in. I repeated the same remarks. At this point Cassius with a determined look in his eyes—you would have said he was breathing war—declared that “he would not go to Sicily. Was he to accept as a favour what was meant as an insult?” “What are you going to do then?” said I. He replied that he would go to Achaia. “And you, Brutus?” said I. “To Rome, if you think it right,” said he. “I don’t think so at all,” said I, “for you will not be safe.” “But if I could be there safely, would you think I ought to go?” “Yes,” said I, “and that you should not go to a province either now or after your prætorship. But I do not advise your trusting yourself to the city.” Then I stated the reasons, which will doubtless occur to you, why he was not likely to be safe there. Then followed a long conversation in which they complained—and especially Cassius—that opportunities had been let slip. They were especially hard upon Decimus.[^fn-p0121-1] I said that they should not harp on the past, but I agreed with them all the same. When, however, I had begun discussing what ought to have been done—my topics were the old ones and such as are in everybody’s mouth—without touching upon the question as to whether some one else ought to have been attacked,[^fn-p0121-2] I said that the senate should have been summoned, the people already burning with excitement should have been still farther roused, that the whole government of the state should have been taken in hand by them. At that point your friend Servilia exclaims: “That indeed I never heard anyone——” Here I stopped her. But I not only think that Cassius will go,[^fn-p0121-3] for Servilia promised to see that this corn-commissionership should be cut out of the senatorial decree, but Brutus also was quickly induced to give up that foolish talk of being determined to go to Rome. He accordingly settled that the games should be given in his name without his presence. He, however, appeared to me to wish to start for Asia from Antium. In short, I got no satisfaction from my journey except the consciousness of having done my duty. For it was impossible for me to allow him to quit Italy without my having had an interview with him. Barring the discharge of this obligation of duty and affection, I could only ask myself:
 
-> **[verse_insert]**
->
 > “What doth thy journey here avail thee, seer?”
 
 In good truth I found a ship with timbers all started, or rather gone to pieces. No plan, no system, no method! Accordingly, though I had no doubt before, I am now more bent than ever “to fly away”—and that at the first chance—
 
-> **[verse_insert]**
->
 > “Where deeds and fame of the Pelopidæ  
 > May greet my ears no more.”[^fn-p0122-1]
 
@@ -1425,7 +1403,7 @@ I <span class="small-caps">am</span> wonderfully distracted, yet not with pain: 
 
 > **[enclosure: Cicero to his friend Dolabella, consul]**
 >
-> > “ Cicero to his friend Dolabella, consul. Having on a previous occasion been informed by a letter from our friend Atticus of the great liberality and the very great kindness which you had shewn him; and you having yourself written to tell me of your having done everything that we wished, I wrote to thank you in language meant to shew that you could have done me no greater favour. But when Atticus himself came to see me with the express purpose of declaring his gratitude to you, whose really eminent and surprising kindness in the business of the Buthrotians and marked affection for himself he had thoroughly appreciated, I could not be restrained from giving a more open expression to the same feeling on my part in this letter. Let me assure you, my dear Dolabella, that of all your kindnesses and services to me—eminent as they are—the most generous and gratifying in my eyes is this, that you have made Atticus understand how much I love you and you me. For the rest, though the claims and political existence of the Buthrotians have been set on a firm foundation by you, I would wish you—for I always want to make my favours secure—to resolve that, having been taken under your care and frequently recommended by me, they shall continue to enjoy the support of your influence and active assistance. That will be sufficient protection to the Buthrotians for ever, and you will have set both Atticus and myself free from great care and anxiety if you undertake in compliment to me to resolve that they shall always enjoy your defence. I warmly and repeatedly entreat you to do so.”
+> “ Cicero to his friend Dolabella, consul. Having on a previous occasion been informed by a letter from our friend Atticus of the great liberality and the very great kindness which you had shewn him; and you having yourself written to tell me of your having done everything that we wished, I wrote to thank you in language meant to shew that you could have done me no greater favour. But when Atticus himself came to see me with the express purpose of declaring his gratitude to you, whose really eminent and surprising kindness in the business of the Buthrotians and marked affection for himself he had thoroughly appreciated, I could not be restrained from giving a more open expression to the same feeling on my part in this letter. Let me assure you, my dear Dolabella, that of all your kindnesses and services to me—eminent as they are—the most generous and gratifying in my eyes is this, that you have made Atticus understand how much I love you and you me. For the rest, though the claims and political existence of the Buthrotians have been set on a firm foundation by you, I would wish you—for I always want to make my favours secure—to resolve that, having been taken under your care and frequently recommended by me, they shall continue to enjoy the support of your influence and active assistance. That will be sufficient protection to the Buthrotians for ever, and you will have set both Atticus and myself free from great care and anxiety if you undertake in compliment to me to resolve that they shall always enjoy your defence. I warmly and repeatedly entreat you to do so.”
 
 After writing this letter I devoted myself to my treatise,[^fn-p0138-1] which, however, I fear will require to be scored by your red wax [^fn-p0138-2] in a good number of places. I have been so distracted and hindered by engrossing thoughts.
 
@@ -1543,8 +1521,6 @@ So I have answered all your news. Now for my own. The younger Quintus is going t
 
 Pray what's this all about? When I had already sealed this letter some Formians who were dining with me told me that the day before I write this—that is, on the 5th—they had seen our Buthrotian commissioner Plancus [^fn-p0149-4]
 
-> **[verse_insert]**
->
 > “With downcast look and bare of ornament;”
 
 and that his poor slaves said that he and the land-grabbers had been turned out of the country by the Buthrotians. Well done they! But please write me a full account of the whole affair.
@@ -1573,8 +1549,6 @@ Though I made frequent hints to Brutus about our sailing together, he didn't see
 
 This favourable report is conveyed by Quintus himself. Cicero had already warned Atticus not to believe it. See last letter, and *infra*, p. 108. where I am. Do you think I am joking? Upon my life you are the only tie that keeps me here. For take a careful view of the situation: but do it before I have cause to blush for my conduct. Ah! Lepidus's notice of his inauguration days is just like him, and just suits with my plan of return.[^fn-p0154-1] Your letter conveys a strong motive for my starting for Greece. And oh, that I might find you there! But it must be as you think most to your advantage. I am anxious for a letter from Nepos. Can he really want my books, when he thinks the subjects on which I plume myself not worth reading? Yes—as you say:
 
-> **[verse_insert]**
->
 > “ in form and face  
 > Ajax the flower of all the Grecian host  
 > Next to the flawless son whom Thetis bore.” [^fn-p0154-2]
@@ -1643,14 +1617,10 @@ Velia, 20th July.
 
 As yet—for I have got as far as Sicca's house at Vibo—I have prosecuted my voyage with more comfort than energy. For the greater part has been done by rowing, and there have been no nor'-nor'-easters. That has been rather lucky, for there were two bays to be crossed, that of Pæstum and that of Vibo. We crossed both with sheets taut. I arrived at Sicca's house therefore on the eighth day from Pompeii, having rested one day at Velia. There I stayed at our friend Talna's house, and couldn't possibly have been received more hospitably—especially as Talna himself was away from home. So on the 24th I went to Sicca's house. There I found myself quite at home. So I put on an extra day to my visit. But I think when I reach Rhegium I shall consider—being
 
-> **[verse_insert]**
->
 > “On long and weary sea voyage bent”[^fn-p0163-1]—
 
 whether to make for Patræ on a merchant vessel or to go as far as Tarentine Leucopetra on packet-boats, and thence to Corcyra: and if on the ship of burden, whether to go from the strait direct or from Syracuse.[^fn-p0163-2] On this point I will write to you from Rhegium. By heaven, Atticus, it often occurs to me to ask:
 
-> **[verse_insert]**
->
 > “What boots it you to journey hither thus?”[^fn-p0163-3]
 
 Why am I not with you? Why do I not see my pretty villas—those sweet eyes of Italy? But it is enough and to spare that I am losing you. And from what am I running away? Is it danger? But of that at the present moment, if I do not mistake, there is none. For it is precisely to that which you use your influence to bid me return. For you say that my quitting the country is praised to the skies, but only on the understanding that I return before the 1st of January. That I shall certainly try to do; for I had rather be at home even in fear, than at Athens without it. But look out to see to what things at Rome are tending, and either write me news of them or, as I should much prefer, bring it with you in person. Enough of this.
@@ -1977,14 +1947,10 @@ Morning, 8 November, at Sinuessa.
 
 <span class="small-caps">What</span> a wonderful coincidence! On the 8th,[^fn-p0205-2] having got up before daybreak to quit my lodge at Sinuessa, and having just before dawn reached the Tiretian bridge at Minturnæ, where the road to Arpinum branches off, there met me a letter-carrier, who found me
 
-> **[verse_insert]**
->
 > “On long, long voyage bent.”
 
 I at once exclaimed, “Here! anything from Atticus?” I wasn’t able at first to read it: for I had sent away the torches and there wasn’t sufficient daylight. As soon, however, as it grew light—having already written a letter to you—I began reading the earlier of your two. It certainly is the most charming letter in the world. May I perish if I do not write and exactly what I think: I never read anything kinder. So I will come when you call me, only provided that you support me. At first, however, I thought nothing could be more at cross purposes than that you should send me such an answer to the letter in which I asked for your advice. Then there's your second letter, in which you advise me to go
 
-> **[verse_insert]**
->
 > “By windy Mimas towards the Psyrian isle,”[^fn-p0206-1]
 
 that is, leaving the Appian Way *à gauche*. Accordingly, I stay this day at Aquinum. It was a somewhat weary journey and a bad road. I despatch this letter next day, as I am leaving Aquinum.
@@ -2251,8 +2217,6 @@ You ought not to think it at all surprising that I have written nothing to you o
 
 As to your defence of yourself in regard to Sempronius,[^fn-p0238-2] I accept your explanation; for that was a dark period of servitude. I, the supporter of your policy and champion of your position, enraged at the position of affairs and despairing of freedom, was on the point of hurrying off to Greece, when the Etesian winds, like loyal citizens, refused to further me in my desertion of the Republic, and a south wind blowing in my teeth carried me back by his strongest blast to your fellow tribesmen of Rhegium. And so from thence I hurried at full speed—sail and oar together—to my country; and the day after my arrival was the one free man in a nation of slaves.[^fn-p0238-3] I delivered such an invective against Antony[^fn-p0238-4] that he could not bear it, and vented all his vinous madness on my devoted head,[^fn-p0238-5] and endeavoured at one time to entice me to give him an excuse for bloodshed, at another tried to entrap me. But I hunted him belching and vomiting into the toils of Cæsar Octavianus. For that illustrious youth collected for himself a protecting force—at first in favour of our party, and subsequently in that of the supreme state. And if it hadn't been for him, Antony's return from Brundisium[^fn-p0238-6] would have sealed the fate of Rome. The events which followed I think you know. But to return to the point from which I have strayed. I accept your explanation as to Sempronius : for you could have no fixed principle of procedure in the midst of such complete disorganization.
 
-> **[verse_insert]**
->
 > “ But time has passed and taught a different way ;  
 > And nobler manners asks our nobler day,”
 
@@ -2476,9 +2440,7 @@ I <span class="small-caps">rejoice</span> that you have found the army and caval
 
 You say in your letter that I have not hurried myself[^fn-p0269-1] at all in making attacks on the Antonies; and you go on to commend me for it. I have no doubt that you think so; but I can in no sense admit the justice of the distinction you draw, when you say that more vigour should be used in preventing civil wars, than in wreaking vengeance upon the vanquished. I strongly differ from you, Brutus, and I do not admit your clemency doctrine. A salutary sternness is superior to the empty show of clemency. But if we choose the *rôle* of clemency we shall never have any lack of civil wars. However, that is more your concern than mine. For myself I can say, like the father in the *Trinummus* of Plautus,[^fn-p0269-2]
 
-> **[verse_insert]**
->
-> > “ My time is all but past: ’tis you this most concerns.”
+> “ My time is all but past: ’tis you this most concerns.”
 
 You will be crushed, believe me, Brutus, unless you take proper precautions. For you won't always have the same people, nor the same senate, nor the same leader of the senate. Regard these words as uttered by the oracle of the Pythian Apollo. Nothing can be truer.
 
@@ -3072,9 +3034,7 @@ Corduba, 8 June.
 
 I <span class="small-caps">have</span> no letter as yet from you—not so much as a rumour—to shew that you are aware of the resolution of the senate and are bringing your army into Italy. That you should do so, and with all speed, the Republic urgently requires: for the internal mischief daily grows more serious, and we are in difficulties from enemies at home no less than from those abroad. The former have, it is true, always existed from the beginning of the war, but they were then more easily crushed. The senate was then in a more resolute frame of mind, roused to action not only by the motions which I brought forward, but also by my earnest exhortations. Pansa was then in the senate very strenuous and bold in his attacks upon all men of that sort, and especially his father-in-law.[^fn-p0350-1] As consul his courage never failed him from the beginning, nor his loyalty at the end. The conduct of the war at Mutina left nothing to complain of in Cæsar, though some few points in Hirtius. The fortune of this war is
 
-> **[verse_insert]**
->
-> > “ For happy though but ill, for ill not worst.” [^fn-p0350-2]
+> “ For happy though but ill, for ill not worst.” [^fn-p0350-2]
 
 The Republic was victorious: Antony's forces were cut to pieces, and he himself driven out of the country. Then came so many mistakes on the part of Decimus Brutus, that in a certain sense the victory slipped through our fingers.[^fn-p0350-3] Our generals did not pursue the demoralized, unarmed, wounded enemy, and time was granted to Lepidus to give us a taste of that fickleness, which we had had many occasions to know before, in a more disastrous field. The armies of Brutus and Plancus are good but raw; their auxiliary forces of Gauls are very numerous and very loyal. But certain persons by most unprincipled letters and misleading agents and messages induced Cæsar—up to that time wholly governed by my advice, and personally possessed of brilliant ability and admirable firmness of character—to entertain a very confident hope of the consulship. As soon as I discovered that, I never ceased offering him advice by letter in his absence, and remonstrating with his connexions who were in town, and who seemed to be supporting his ambition; nor in the senate did I hesitate to lay bare the sources of a most criminal plot. Nor indeed do I remember a better disposition on the part of senate or magistrates. For in the case of voting an extra-constitutional office to a man of power, or rather of super-eminent power—since power now depends on force and arms—it never yet happened that no tribune, no one in any other office, no private senator was found to support it. But in spite of this firmness and manly spirit, the city was after all in a state of anxiety. For we are flouted, Brutus, both by the airs assumed by the soldiers and the arrogance of their commander. Each man claims to be powerful in the Republic in proportion to his physical force. Reason, moderation, law, custom, duty—all go for nothing: as do the judgment and opinion of their fellow citizens, and their respect for the verdict of posterity. It was because I foresaw all this long ago that I was on the point of flying from Italy at the time when the report of the edicts issued by you and Cassius recalled me. You also roused my spirits, Brutus, at Velia. For though it vexed me to be going to a city from which you who freed it were an exile—which had also happened to me formerly in a similar danger, though with more melancholy result—yet I continued my journey and reached Rome, and without any guard to protect me I shook the power of Antony, and encouraged by my influence and advice the protecting force offered by Cæsar against his treasonable arms. And if Cæsar keeps his word and follows my counsel, I think we shall have protection enough. But if the counsels of the disloyal have greater weight than mine, or if the weakness of his time of life proves unequal to the strain of the business, our whole hope is in you. Wherefore fly hither, I beseech you, and put the last touch to the freedom of a state, which you liberated by courage and high spirit rather than by any fortunate coincidence. Men of all sorts will crowd round you. Write and urge Cassius to do the same. Hope of liberty is nowhere to be found except in the headquarters of your two camps. We have, it is true, generals and armies in the west on which we can rely. The protecting force of the young Cæsar, for instance, I regard at present as trustworthy: but so many are trying to shake his loyalty that at times I am mortally afraid of his giving way.
 

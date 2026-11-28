@@ -54,9 +54,7 @@ One day, soon after her arrival in America, Anandabai amused herself at Roselle 
 
 In a letter written since his wife’s death Mr. Joshee thus alludes to the contents of the eleven trunks which Anandabai carried back to India.
 
-> **[letter_excerpt]**
->
-> > “ I have given the contents of Dr. Joshee’s boxes to an English school, the founder of which Dr. Joshee greatly admired. They are arranged in a nice glass case and I hope they will be better cared for than they could be by me. It was a painful thing to see them all again.” This school is probably at Poonah, and here I suppose Mr. Joshee deposited all the North American pottery, which Anandabai was so anxious to obtain.
+> “ I have given the contents of Dr. Joshee’s boxes to an English school, the founder of which Dr. Joshee greatly admired. They are arranged in a nice glass case and I hope they will be better cared for than they could be by me. It was a painful thing to see them all again.” This school is probably at Poonah, and here I suppose Mr. Joshee deposited all the North American pottery, which Anandabai was so anxious to obtain.
 
 It was not until I had nearly finished my work that I learned that the acquaintance between Ramabai and her cousin began through the cordial entreaty of the Joshees that she would come and live with them at Serampore at a time when she was bitterly persecuted.
 
@@ -291,9 +289,7 @@ Early in March, 1880, Mrs. Carpenter wrote to Gopal, using the Kolhapur address;
 
 In writing of widows at another time, she said to Mrs. Carpenter : —
 
-> **[enclosure]**
->
-> > “ To tell you the truth, I shudder at the very sound of the word. Your American widows may have difficulties and inconveniences to struggle with, but weighed in the scale against ours, all of them put together are but as a particle against a mountain. When we began to write, I cared little for letters ; but I now see how the daily occurrences of life, which I thought so trifling, may yield instruction.”
+> “ To tell you the truth, I shudder at the very sound of the word. Your American widows may have difficulties and inconveniences to struggle with, but weighed in the scale against ours, all of them put together are but as a particle against a mountain. When we began to write, I cared little for letters ; but I now see how the daily occurrences of life, which I thought so trifling, may yield instruction.”
 
 Later she continued :—
 
@@ -677,9 +673,7 @@ She often spoke of “seeing” this friend as simply, and with as little though
 
 She returned to the College, Jan. 2nd, 1884, in deep distress of mind, occasioned by a letter received from a most bitter enemy in India. She could not listen to her lectures, and writes as follows a day or two after : —
 
-> **[enclosure]**
->
-> > “My face was clouded by my indignation. My friends said my color changed from red to blue, and thought I was sick. All at once a beautiful young lady with a sweet voice came and sat down by me, and pressing my hand with her own, said, — “‘Dear child, do not despond. Providence is just and merciful, and means you no harm. Have courage to endure many more such things. Do you not remember how I was persecuted in the presence of my husband the king ? Be true and faithful.’ Then she seemed to disappear. I felt her presence though I could no longer see her, and was comforted.”
+> “My face was clouded by my indignation. My friends said my color changed from red to blue, and thought I was sick. All at once a beautiful young lady with a sweet voice came and sat down by me, and pressing my hand with her own, said, — “‘Dear child, do not despond. Providence is just and merciful, and means you no harm. Have courage to endure many more such things. Do you not remember how I was persecuted in the presence of my husband the king ? Be true and faithful.’ Then she seemed to disappear. I felt her presence though I could no longer see her, and was comforted.”
 
 In February, 1884, Mrs. Joshee was so ill of diphtheria, that for a short time her life was despaired of. The best medical attendance, a trained nurse, and the loving care of Dean Bodley and Dr. Schultze saved her. It was during this spring that Anandabai gave an address before a Ladies' Missionary Society upon the subject of “Early Marriages.” I think it tried the patience of those who were interested in her very severely. I have never seen any abstract of her remarks, but if she favored early marriages was it strange? She had been married at nine years. All the happiness of her life had flowed from the instruction of her husband, and from that liberal sympathy which she supposed to move him in assisting her to come to this country. When she arrived, she found our papers full of conjugal quarrels, and applications for divorce. Not in one year nor twenty could she be expected to solve the problems whose very existence filled her with disgust. At this time she was taken frequently to schools, asylums, and public institutions, and wherever she could learn anything, she was delighted to go. A visit to Barnum's Circus gave her no pleasure whatever.
 
@@ -709,13 +703,13 @@ It will be remembered that Mr. James, the Director General of the Post Offices i
 
 > **[enclosure: Circular by Mr. James]**
 >
-> > “ A young Brahmin lady has recently gone to America to study medicine, and qualify herself as a medical attendant for native ladies.
+> “ A young Brahmin lady has recently gone to America to study medicine, and qualify herself as a medical attendant for native ladies.
 >
-> > “ In doing this, she and her husband have made great pecuniary sacrifices, and her income barely suffices for necessaries.
+> “ In doing this, she and her husband have made great pecuniary sacrifices, and her income barely suffices for necessaries.
 >
-> > “ Going alone among strangers, though treated kindly, she has had to encounter many obstacles which she has bravely faced. In recognition of her courage and public spirit, it is desired to raise a sum which will pay her tuition fees, and relieve her from pecuniary anxiety during her absence.
+> “ Going alone among strangers, though treated kindly, she has had to encounter many obstacles which she has bravely faced. In recognition of her courage and public spirit, it is desired to raise a sum which will pay her tuition fees, and relieve her from pecuniary anxiety during her absence.
 >
-> > “ Mr. James, No. 2 Camoe Street, Calcutta, will be happy to receive subscriptions.
+> “ Mr. James, No. 2 Camoe Street, Calcutta, will be happy to receive subscriptions.
 >
 > ***Subscriptions.***
 >
@@ -770,9 +764,9 @@ Previous to Anandabai's arrival in this country, a letter of her writing was sen
 
 > **[letter_excerpt: Impression derived from letter]**
 >
-> > “This is an intellectual well-balanced mind, cultivated with great care,” the paper begins. “The writer is a lady of more than ordinary brain power, very independent, but neither egotistical nor intolerant. She is not afraid to investigate any subject however unpopular. She is analytical and very frank in speaking her mind. She converses fluently and meets strangers with a cordial, graceful ease that wins confidence and esteem. She has talent as an instructor, a clear style of expression easy to be understood. She has great equanimity, enjoys the attention of refined people, and naturally drifts into the society of the best, but never shrinks from those less fortunate if she can do them good. She has a taste for missionary work, and an executiveness and systematic way of managing that are quite original. She has great delicacy of character, is womanly in every respect, has an ardent love of nature and clings to old friends and associations and to family ties. Her radicalism springs from a holy desire to do her duty. She has a religious cast of mind, is very spiritual but seems to know nothing of *spiritualism.* Her penetrative mind is constantly reaching for more light. She perceives the character of others readily and is seldom deceived, has a fine memory and good descriptive powers. In travelling nothing escapes her.
+> “This is an intellectual well-balanced mind, cultivated with great care,” the paper begins. “The writer is a lady of more than ordinary brain power, very independent, but neither egotistical nor intolerant. She is not afraid to investigate any subject however unpopular. She is analytical and very frank in speaking her mind. She converses fluently and meets strangers with a cordial, graceful ease that wins confidence and esteem. She has talent as an instructor, a clear style of expression easy to be understood. She has great equanimity, enjoys the attention of refined people, and naturally drifts into the society of the best, but never shrinks from those less fortunate if she can do them good. She has a taste for missionary work, and an executiveness and systematic way of managing that are quite original. She has great delicacy of character, is womanly in every respect, has an ardent love of nature and clings to old friends and associations and to family ties. Her radicalism springs from a holy desire to do her duty. She has a religious cast of mind, is very spiritual but seems to know nothing of *spiritualism.* Her penetrative mind is constantly reaching for more light. She perceives the character of others readily and is seldom deceived, has a fine memory and good descriptive powers. In travelling nothing escapes her.
 >
-> > “ I see her in the future as one who has no superior; living for truth, justice, and honor. She will always defend the weak. She has great forbearance, is seldom offended, and when she is, it passes and leaves no cloud upon her brow. She has a large *hope* which will sustain her as long as she lives.”
+> “ I see her in the future as one who has no superior; living for truth, justice, and honor. She will always defend the weak. She has great forbearance, is seldom offended, and when she is, it passes and leaves no cloud upon her brow. She has a large *hope* which will sustain her as long as she lives.”
 
 Since I began to write this Life, I have met a gentleman who listened to Anandabai’s talk at my house on the evening to which I have alluded. I asked him if he had preserved any record of that brilliant conversation. “No,” he said thoughtfully, “I cannot report anything that she said, but I remember wondering when I realized how soon the foreigner and the lion I went to see, was lost in the sweet and cultivated woman with whom it was a pleasure to talk.”
 
@@ -935,9 +929,9 @@ After a cordial acceptance of the appointment Anandabai went on to say:—
 
 > **[letter_excerpt: Acceptance of appointment]**
 >
-> > “ There is nothing in the seven conditions which you name, that causes me any uneasiness, but if any question were likely to arise under it, I might object to the seventh.
+> “ There is nothing in the seven conditions which you name, that causes me any uneasiness, but if any question were likely to arise under it, I might object to the seventh.
 >
-> > “ Our Shasters require us to impart the gifts of healing and of religious truth without pay, and to this practice I shall adhere; but if I ever meant to take a fee from any one, it would assuredly be from those who are rich and powerful, and never from those who are poor and depressed.”
+> “ Our Shasters require us to impart the gifts of healing and of religious truth without pay, and to this practice I shall adhere; but if I ever meant to take a fee from any one, it would assuredly be from those who are rich and powerful, and never from those who are poor and depressed.”
 
 On the 12th of June, 1886, the Dewan of Kolhapur, an officer of the government corresponding to our Secretary of State, acknowledged Dr. Joshee's acceptance of the position in the Albert Edward Hospital, and consented to allow her to spend the summer in Roxbury as she desired.
 
@@ -979,9 +973,9 @@ Of this meeting Mrs. Underwood wrote as follows: —
 
 > **[letter_excerpt: Account by Mrs. Underwood]**
 >
-> > “She wore no bonnet, but instead a fawn-colored wrap enveloped her finely shaped head and gracefully draped her shoulders; this was removed on entering. Her robe of some fine dark woollen material was edged to the depth of several inches with gold-colored embroidery, and in spite of its flowing drapery at one arm, fitted nicely her plump *petite* form; gold bracelets adorned her wrists. The dark face was round, with full lips; she had a handsomely shaped brow, broad and intellectual looking. Between the eyebrows was a small tattooed mark, in shape somewhat like a cross. The eyes were beautiful and expressive, large, black, softly shining, as capable of smiles as of tears, with a strangely pathetic look in them. The prevailing expression of Dr. Joshee's face was grave, dignified, almost sad, but the rare smile which marked her appreciation of the ludicrous was charmingly bright and girlish. The talk drifted during the evening into channels which in spite of her modest diffidence drew her out.
+> “She wore no bonnet, but instead a fawn-colored wrap enveloped her finely shaped head and gracefully draped her shoulders; this was removed on entering. Her robe of some fine dark woollen material was edged to the depth of several inches with gold-colored embroidery, and in spite of its flowing drapery at one arm, fitted nicely her plump *petite* form; gold bracelets adorned her wrists. The dark face was round, with full lips; she had a handsomely shaped brow, broad and intellectual looking. Between the eyebrows was a small tattooed mark, in shape somewhat like a cross. The eyes were beautiful and expressive, large, black, softly shining, as capable of smiles as of tears, with a strangely pathetic look in them. The prevailing expression of Dr. Joshee's face was grave, dignified, almost sad, but the rare smile which marked her appreciation of the ludicrous was charmingly bright and girlish. The talk drifted during the evening into channels which in spite of her modest diffidence drew her out.
 >
-> > “The car of Juggernaut was discussed, and in speaking of the mothers who distraught with poverty sometimes throw their babes into the Ganges, Dr. Joshee said that during her medical experience in Philadelphia a large number of new-born infants, either murdered or deserted, found their way into the dissecting-room, and she might as well on her return to India relate this fact, making it a *custom* of American mothers to kill or desert their children, and adducing it as a result of Christian belief, as to charge the Hindu faith with the drowning so often reported.
+> “The car of Juggernaut was discussed, and in speaking of the mothers who distraught with poverty sometimes throw their babes into the Ganges, Dr. Joshee said that during her medical experience in Philadelphia a large number of new-born infants, either murdered or deserted, found their way into the dissecting-room, and she might as well on her return to India relate this fact, making it a *custom* of American mothers to kill or desert their children, and adducing it as a result of Christian belief, as to charge the Hindu faith with the drowning so often reported.
 
 > “In discussing the right of men to kill and eat animals, Dr. Joshee said that she had lived in America for three years without feeling the need of any other food than that she ate in India.  In speaking of Edwin Arnold’s Poems, by which she meant the ‘Song Celestial’ and ‘Indian Idylls’ she said he had not, exaggerated but had sometimes failed to catch the subtle spiritual meanings of the ancient writings.”
 
@@ -1023,19 +1017,19 @@ Finally, Dr. Joshee started on the 10th of July with Mrs. Carpenter’s oldest d
 
 > **[letter_excerpt: Letter excerpt]**
 >
-> > “We are having lovely times. I have not botanized, but we roam about and work. Sometimes we find nice little strawberry patches and we eat of the fruit heartily. The day before yesterday Eighmie and I went to Aunt Jenny's. I took my 'crazy' work with me, and made one block."
+> “We are having lovely times. I have not botanized, but we roam about and work. Sometimes we find nice little strawberry patches and we eat of the fruit heartily. The day before yesterday Eighmie and I went to Aunt Jenny's. I took my 'crazy' work with me, and made one block."
 
 But this cheerful strain could not last. On the 20th of July these words came to Mrs. Carpenter: —
 
 > **[letter_excerpt: Letter excerpt]**
 >
-> > “ How I wish you were here. I won't stay much longer, for I have been ill ever since I came. I am having chills three times a day, and fever. My whole body is aching. If you do not come within a reasonable time, I shall leave this place and go to you. I am afraid I shall not see you much before I go to India."
+> “ How I wish you were here. I won't stay much longer, for I have been ill ever since I came. I am having chills three times a day, and fever. My whole body is aching. If you do not come within a reasonable time, I shall leave this place and go to you. I am afraid I shall not see you much before I go to India."
 
 In this letter she mentions having been for ten hours in attendance on a difficult delivery. On the 23d she continues: —
 
 > **[letter_excerpt: Letter excerpt]**
 >
-> > “ I am now having two chills daily, and fever after each one. My throat is so inflamed that it keeps me coughing all the time. Last night I did not have five minutes' rest."
+> “ I am now having two chills daily, and fever after each one. My throat is so inflamed that it keeps me coughing all the time. Last night I did not have five minutes' rest."
 
 It is evident that she had been for some time a victim of malaria, but had not had enough vitality to develop chills. As soon as the invigorating quality of the mountain air made itself felt, they were exhibited. Her husband now went to her, and in a few days the Carpenters followed. It had been all along intended that Dr. Bodley, Dr. Joshee, and Ramabai should go from Rochester about this time to Niagara, Cincinnati, and Chicago, perhaps even to St. Louis. So little did those who loved Anandabai best, realize her condition, that it was thought this long and exhausting journey might benefit her. When Mrs. Carpenter reached her, in Delaware County, she found her bright and cheerful, but with a troublesome cough. Anandabai was busy putting together a silk quilt, the various blocks of which had been contributed by her American friends. In spite of all that she and her friends could do it could not be finished, and was laid aside till her return to Roselle. She knew that Hospital work would leave her no time for it in India.
 
@@ -1108,15 +1102,15 @@ During the month that preceded Anandabai's departure, I heard from Gopal twice, 
 
 > **[letter_excerpt: Letter excerpt]**
 >
-> > “ I have not as much strength as when I left Delaware County. I do not feel able to go to Chicago, and after rest and care shall go home. Do not worry, for there is no need at all.”
+> “ I have not as much strength as when I left Delaware County. I do not feel able to go to Chicago, and after rest and care shall go home. Do not worry, for there is no need at all.”
 
 From Philadelphia she once wrote : —
 
 > **[letter_excerpt: Letter excerpt]**
 >
-> > “ Even the least breeze seems to abuse me. No one in the house realizes the trouble as my Doctor and I do, and no one need.
+> “ Even the least breeze seems to abuse me. No one in the house realizes the trouble as my Doctor and I do, and no one need.
 >
-> > “My headache, which is reflex, is perfectly intolerable. It is aggravated by every attempt to think.”
+> “My headache, which is reflex, is perfectly intolerable. It is aggravated by every attempt to think.”
 
 When I connect the allusions to her health in my own letters with the fuller extracts furnished from Mrs. Carpenter’s, I feel sure that Anandabai was not deceived as to her own condition.
 
@@ -1134,11 +1128,11 @@ In this letter he writes : —
 
 > **[letter_excerpt: Letter from The Index]**
 >
-> > “ We are as you know vegetarians. On board the ‘ Etruria ’ especial attention was paid to our food. The chief steward sent us any quantity of grapes, apples, pears, and peaches, beside vegetable soups, baked apples, and tomatoes, ice-creams and puddings. On that steamer we were respected.
+> “ We are as you know vegetarians. On board the ‘ Etruria ’ especial attention was paid to our food. The chief steward sent us any quantity of grapes, apples, pears, and peaches, beside vegetable soups, baked apples, and tomatoes, ice-creams and puddings. On that steamer we were respected.
 >
-> > “ We came from New York to Liverpool well cared for and looked after. The Doctor on board called twice a day. The steward and stewardess were always in attendance whenever the bell rang.
+> “ We came from New York to Liverpool well cared for and looked after. The Doctor on board called twice a day. The steward and stewardess were always in attendance whenever the bell rang.
 >
-> > “ While Dr. Joshee was in America, and up to the time of her landing in England, she never knew what kind of animosity was fostered by the English between the black and white races. She had lived among white people for nearly four years respectfully treated as a lady.”
+> “ While Dr. Joshee was in America, and up to the time of her landing in England, she never knew what kind of animosity was fostered by the English between the black and white races. She had lived among white people for nearly four years respectfully treated as a lady.”
 
 And yet how bitterly Gopal had upbraided her friends in America for not showing sufficient consideration for her race and habits !
 
@@ -1156,13 +1150,13 @@ Indirectly we heard that Anandabai took cold in a severe storm in the Bay of Bis
 
 > **[letter_excerpt: Letter excerpt]**
 >
-> > “The day we left London Dr. Joshee felt bright, and was able to go on deck without assistance. I, being only her native servant, had to stay away till sent for. The second day she sat there reading. Now she is again confined to her bed, as ill as she was when she last reached Roselle. Now I am with her day and night, and she will soon be better. The sea is calm; it troubles us far less than the people.”
+> “The day we left London Dr. Joshee felt bright, and was able to go on deck without assistance. I, being only her native servant, had to stay away till sent for. The second day she sat there reading. Now she is again confined to her bed, as ill as she was when she last reached Roselle. Now I am with her day and night, and she will soon be better. The sea is calm; it troubles us far less than the people.”
 
 In this letter came a few lines from Anandabai to Mrs. Carpenter, the last she ever wrote.
 
 > **[letter_excerpt: Letter to Mrs. Carpenter]**
 >
-> > “I am stronger,” she says, “cough better, throat worse. I shall improve when I am able to eat. There has not been an hour since I left New York when I have not missed your precious self. I am writing in bed, and see my Doctor twice a day."
+> “I am stronger,” she says, “cough better, throat worse. I shall improve when I am able to eat. There has not been an hour since I left New York when I have not missed your precious self. I am writing in bed, and see my Doctor twice a day."
 
 At Malta they paused a little while to take in water, fruit, and vegetables.
 

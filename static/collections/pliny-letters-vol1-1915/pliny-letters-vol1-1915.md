@@ -152,16 +152,12 @@ You might perceive by my last short letter of some time ago, that I had no occas
 
 <span class="small-caps">See</span> on what a dizzy eminence you have placed me! You have even invested me with a sovereignty equal to that which Homer attributes to his mighty Jove:
 
-> **[verse_insert]**
->
 > “From heav’n’s imperial throne Jove heard his  
 >     pray’r,  
 > Part he admits, and scatters part in air.”
 
 ’Tis thus with a nod or a frown, I may grant or reject your petition as I see proper. To be serious: as I am at liberty, I think, to excuse myself to the Baetici, especially at your request, from being counsel for them against a single person ; so on the other hand, to oppose a whole province which I have long since attached to me by many good offices, and spared no pains to oblige even at the hazard of my own interest, would be acting inconsistently with my honour, and that uniformity of conduct which I know you admire. I shall steer therefore in this affair a middle course, and of the alternatives which you propose to me, choose that which will satisfy your judgement, as well as your inclination. For I do not look upon myself as obliged to consider so much what you at present desire, as what a man of your worthy character will *always* approve. I hope to be at Rome about the 15th of October, when I will personally pledge our united credit to Gallus in support of my present offer. In the meanwhile you may assure him of my good disposition towards him.
 
-> **[verse_insert]**
->
 > “The sire of men and gods,  
 >   With gracious aspect mild, compliance nods.”
 
@@ -277,14 +273,10 @@ His works are never out of my hands; and whether I sit down to write any thing m
 
 <span class="small-caps">Your</span> letter informs me that you are extremely terrified with a dream, as apprehending that it threatens some ill success to you in the cause you have undertaken to defend; and therefore desire that I would get it adjourned for a few days, or at least to the next. This is a favour, you are sensible, not very easily obtained, but I will use all my interest for that purpose;
 
-> **[verse_insert]**
->
 > “ For dreams descend from Jove.”
 
 In the mean while it is very material for you to recollect whether your dreams generally represent things as they afterwards fall out, or quite the reverse. But if I may judge of this dream that alarms you by one that happened to myself, it portends you will acquit yourself with great success. I had promised to be counsel for Junius Pastor; when I fancied in my sleep that my mother-in-law came to me, and throwing herself at my feet, earnestly entreated me not to be concerned in the cause. I was at that time a very young man; the case was to be argued in the fourfold Court[^fn-p0083-1]; my adversaries were some of the most considerable men in Rome, and favourites of Caesar; any of which circumstances were sufficient, after such an inauspicious dream, to have discouraged me. Notwithstanding this, I engaged in the cause, reflecting within myself,
 
-> **[verse_insert]**
->
 > “ Without a sign, his sword the brave man draws,  
 >     And asks no omen, but his country’s cause ” :
 
@@ -314,8 +306,6 @@ But, it is objected, there is a wide difference between a good *spoken* and a go
 
 Once when Regulus and I were counsel together in a cause, he said to me, “ you think it necessary to insist upon every point: whereas I mark at once the *throat,* and closely press *that.”* ('Tis true he tenaciously holds whatever part he has once fixed upon; but the misfortune is, he is extremely apt to mistake the right place.) I answered, it might possibly happen that what he took for the throat was in reality the knee, shin, or heel. “As for me,” said I, “who cannot descry this throat, I attack every part, and push at every opening; in short, I leave no stone unturned.” As in agriculture, it is not my vineyards, or my woods, alone, but my fields also that I cultivate; and as I do not sow those fields with only spelt and winter-wheat, but employ also barley, beans, and the other leguminous plants; so in my pleadings at the bar, I spread at large a variety of matter like so many different seeds, in order to reap from thence whatever may happen to sprout; for the disposition of your jurors is as precarious and as little to be ascertained, as that of soils and seasons. I remember the comic writer Eupolis mentions in praise of that excellent orator Pericles, that
 
-> **[verse_insert]**
->
 > “ He spake, and straight  
 > Upon his lips Persuasion sate;  
 > He only eloquence could find  
@@ -323,8 +313,6 @@ Once when Regulus and I were counsel together in a cause, he said to me, “ you
 
 But could Pericles, without the richest gifts of expression, and merely by force of the concise or the rapid style, or both together (for they are different), have exerted that *persuasion* and that *charm* of which the poet here speaks? To delight and to persuade requires time, and a great compass of language; while to leave a *sting* in the minds of his audience is an effect not to be achieved by an orator who slightly pushes, but by him, and him only, who thrusts home and deep. Again, another comic poet, speaking of the same orator, says:
 
-> **[verse_insert]**
->
 > “ Lightnings and thunders from his mouth he hurled,  
 >   And made a chaos of the Grecian world.”
 
@@ -332,15 +320,11 @@ For it is not concise and curtailed, it is copious, majestic, and sublime orator
 
 The just mean, we all allow, is best; but he equally deviates from that mean who falls short of it, as he who goes beyond it; he who confines himself in too narrow a compass, as he who launches out with too great latitude of speech. Hence it is as common to hear our orators condemned for being too barren, as too luxuriant; for not reaching, as well as for overflowing the bounds of their subject. Both are equally in fault; but with this difference however, that in the one the fault arises from weakness, in the other from strength; an error which if it be not a sign of a more correct, yet it is certainly of a more exalted genius. When I say this, I would not be understood to approve that “measureless talker” mentioned in Homer, but that other described in the following lines:
 
-> **[verse_insert]**
->
 > “ Frequent and soft as falls the winter snow,  
 >    Thus from his lips the copious periods flow.”
 
 Not but I extremely admire him too, of whom the poet says:
 
-> **[verse_insert]**
->
 > “ Few were his words, but wonderfully clear.”
 
 Yet if I were to choose, I should clearly give the preference to the style resembling *winter snow*, that is, to the full, fluent and diffusive; in short, to the heavenly and divine.
@@ -966,8 +950,6 @@ I have given you this incident not only as a piece of news, but because it affor
 
 I <span class="small-caps">have</span> just heard of the death[^fn-p0289-1] of poor Martial, which much concerns me. He was a man of an acute and lively genius, and his writings abound in both wit and satire, combined with equal candour. When he left Rome I complimented him by a present to defray the charges of his journey, not only as a testimony of my friendship, but in return for the little poem which he had written about me. It was the custom of the ancients to distinguish those poets with honours or pecuniary rewards, who had celebrated particular persons or cities in their verses ; but this practice, with every other that is fair and noble, is now grown out of fashion; and in consequence of having ceased to act laudably, we consider applause as an impertinent and worthless tribute. You will be desirous, perhaps, to see the verses which merited this acknowledgement from me; and I believe I can, from my memory, partly satisfy your curiosity, without referring you to his works: but if you are pleased with this specimen of them, you must turn to his poems for the rest. He addresses himself to his Muse, whom he directs to seek my house upon the Esquiline, and to approach me with respect: [^fn-p0291-1]
 
-> **[verse_insert]**
->
 > “ Go, wanton Muse, but go with care,  
 > Nor meet, ill-tim’d, my Pliny’s ear.  
 > He, by sage Minerva taught,  
@@ -1146,8 +1128,6 @@ You will say, this situation, wretched and deplorable as it is, is what he well 
 
 However, the priests were immediately dispatched to see the sentence of death by burying alive performed. As for Cornelia, she implored now Vesta, now the rest of the Gods ; and amongst other exclamations, frequently cried out, “Is it possible that Caesar can think me polluted, during whose exercise of sacred functions he has conquered and triumphed ? ” [^fn-p0327-2] Whether she said this in flattery or derision ; from a consciousness of her innocence, or contempt of the emperor, is not certain ; [^fn-p0327-3] but she continued exclaiming in this manner, if perhaps not guiltless, at least with every appearance of innocence, until she was carried off to execution. As she was sent down into the subterraneous cell, her gown hung upon something in the way ; on her turning back to disengage it, the executioner offered her his hand, which she, starting back with averted face, refused, as if by a last impulse of chastity warding off his polluting touch from her pure and spotless person. Thus she observed every point of modesty in the concluding scene of her life—
 
-> **[verse_insert]**
->
 > “ And took much forethought decently to fall.”[^fn-p0327-4]
 
 Celer likewise, a Roman knight, who was accused of being her gallant, during the whole time his sentence of death by scourging was executing upon him, in the square near the Senate-house, persisted in saying, “ What have I done ? I have done nothing.”
@@ -1186,8 +1166,6 @@ I thought proper thus to lay open to you the rise of this affair, that you might
 
 You expect and demand, perhaps, as usual, an oration ; but I am going to put into your hands, as if they were some choice bits of foreign merchandise, some of my poetical amusements. You will receive then with this letter a collection of my hendecasyllabic verses, which I write to while away an idle hour upon the road, in the bath, or at table. They express different moods—jesting, frivolous, amorous, melancholy, plaintive, or irate ; or give descriptions, in a style sometimes concise, and sometimes lofty. I endeavoured by this variety to hit different tastes with different pieces, and provide a few, perhaps, of general relish. If you should meet with any passages which may seem too free, your reading will supply you with my apology, in the example of those great and venerable names who have gone before me in the same kind of writing, who without scruple have employed not only the warmest descriptions, but the plainest terms. This, however, is a liberty I have not allowed myself; not as pretending to more austerity (for why should I ?) but because, in truth, I have less courage. Nevertheless, I entirely approve of the rule which Catullus lays down for this kind of compositions :
 
-> **[verse_insert]**
->
 > “ Let the poet’s conduct be  
 > Free from wanton levity :  
 > Not so his Muse—her sportive lay  
@@ -1323,8 +1301,6 @@ You request me to supervise the revision of my works, which you have most dilige
 
 I <span class="small-caps">have</span> been attending these three days the recital of Augurinus’s poems, which I heard not only with great pleasure, but even admiration. He calls them “ Poems in Little.” They are conceived with much delicacy and elegance, and abound with numberless strokes of tenderness and sublimity, of wit and satire. I am of opinion, there has not any thing for these many years appeared more finished of the kind; if indeed my great affection for him and the praises he bestows upon me, do not bias my judgement. For he has made it the subject of an epigram[^fn-p0371-1] that I sometimes amuse myself with writing verses. If I can recollect the second line of this epigram (for the rest I remember and have already got correctly) you shall judge if my sentiments are just:
 
-> **[verse_insert]**
->
 > “ Sweetly flow my tender lays,  
 >     Like Calvus’ or Catullus’ strains,  
 > (Bards approv’d of ancient days !)  
@@ -1342,8 +1318,6 @@ I <span class="small-caps">have</span> been attending these three days the recit
 
 You see with what sprightliness of imagination, what propriety of sentiment, what clearness of expression the whole is wrought up; and in this taste I will venture to assure you, you will find his performance in general, which I will send you as soon as it shall be published. In the meanwhile, admit this excellent youth into a share of your affection, and congratulate our age on the production of such a genius, whose virtues render him still more illustrious. He spends his time partly with Spurinna, and partly with Antoninus; he has the honour to be related to one, and to be the companion of both. You will easily imagine what uncommon virtues *he* must possess, who is thus the favourite of two such venerable old men: for the poet's observation is most undoubtedly true:
 
-> **[verse_insert]**
->
 > “Those who in close society are join'd  
 >    In *manners* equal, you will ever find.”
 
@@ -1546,14 +1520,10 @@ You, who have the affection of a loyal citizen for this same commonwealth, will 
 
 You are not singular in the advice you give me to undertake the writing of history; it is a work which many have frequently pressed upon me; and I strongly incline to it. Not that I have any confidence of success (which you would think presumptuous in a tiro), but because I hold it a noble task to rescue from oblivion those who deserve to be eternally remembered, and extend the fame of others, at the same time as our own. Nothing, I confess, so strongly affects me as the desire of a lasting name: a passion highly worthy of the human breast, especially of one, who, not being conscious to himself of any ill, is not afraid of being remembered by posterity. It is the continual subject therefore of my thoughts:
 
-> **[verse_insert]**
->
 > “ How from the lowly ground I too may rise,”
 
 for that I moderate my prayers; the sequel, to be
 
-> **[verse_insert]**
->
 > “ Wafted victorious by the breath of men ”
 
 is much beyond them. “ Yet O ! ”—[^fn-p0423-1] However, the former fate is enough for me, and History seems almost the only means that can assure it. Oratory and Poetry meet small favour unless carried to the highest point of eloquence ; but History, however executed, always pleases, for mankind are naturally inquisitive, and information, however baldly presented, has its charm for beings who adore even small talk and anecdote. But, besides this, I have an example in my own family that incites me to this pursuit, my uncle and adoptive father [^fn-p0423-2] having been a historian, and that a very accurate one ; and I read in the philosophers that ’tis a high virtue to tread in the steps of our ancestors, when they have gone before us in the right path.
@@ -1676,9 +1646,7 @@ May the gods grant me frequent occasions of giving you such tidings! for I have 
 
 As I know how mildly you treat your own servants I the more frankly confess to you the indulgence I shew to mine. I have ever in my mind that line of Homer's :
 
-> **[verse_insert]**
->
-> > “ Like to a father's was his gentle sway,”
+> “ Like to a father's was his gentle sway,”
 
 and that expression in our own language, “ father of a household.” But were I naturally of a rough and hardened temper, the ill state of health of my freedman Zosimus (who has the stronger claim to humane treatment, as he now stands the more in need of it) would suffice to soften me. He is honest and well-educated ; but his profession, his *certified accomplishment,* one might say, is that of comedian, wherein he highly excels. He speaks with great emphasis, judgement, propriety, and some gracefulness ; and also plays the lyre more skilfully than a comedian need do. To this I must add, he reads history, oratory, and poetry, as well as if he had singly applied himself to that art.
 
@@ -1698,8 +1666,6 @@ I was counsel (and no unsuccessful one) for Varenus ; but whether a good one or 
 
 The next day Homullus spoke for Varenus with great art, strength, and elegance ; to whom Nigrinus made a very close, solid, and graceful reply. Acilius Rufus, the consul-elect, moved that the Bithynians should be granted an inquiry ; but he took no notice of the petition of Varenus ; which was only another way of negativing it. Cornelius Priscus, a consular, proposed to grant both petitions, and his motion was carried by a majority. Thus we gained a concession not warranted by either law or precedent, but none the less equitable. But why equitable, I will not expound in this letter, that you may with more impatience turn to my speech. For if it is true, as Homer sings, that
 
-> **[verse_insert]**
->
 > “ . . . Novel lays attract our ravish’d ears ;  
 > But old, the mind with inattention hears :”
 
@@ -1828,8 +1794,6 @@ You tell me, my absence is greatly uneasy to you, and that your only consolation
 
 You know and esteem Atilius Crescens; as indeed what person of any distinction does not? My own attachment to him is much closer than the common run of his numerous friendships. Our native towns are separated only by a day's journey; and we became friends in early youth, a season when friendship is most ardent. Ours survived that period; and so far from being weakened, was confirmed by our riper judgements, as those who know us best can witness. For he takes pleasure in boasting every where of my friendship; as I do to let the world know that his honour, ease, and safety are my peculiar concern. Insomuch that upon his expressing to me some apprehension from the insolence of a certain person who was entering upon the tribuneship of the people, I could not forbear answering,
 
-> **[verse_insert]**
->
 > “ Long as Achilles breathes this vital air,  
 >  To touch thy head no impious hand shall dare.”
 
@@ -1853,8 +1817,6 @@ In a word, as you are well acquainted with Atilius' sportive temper, I hope you 
 
 I <span class="small-caps">was</span> lately at Alsium, where my wife's mother has a villa which once belonged to Verginius Rufus.[^fn-p0485-1] The place renewed even painfully my regrets for that great and excellent man. He was extremely fond of this retreat, and used to call it “ the nest of his old age.” Wherever I turned, my heart, my eyes, ached to behold my vanished friend. I even had an inclination to view his monument; but I repented the visit, for I found it still unfinished, and this not from any difficulty in erecting a work of such modest, indeed, small dimensions, but through the neglect of him to whose charge it was committed.[^fn-p0487-1] I could not see without a concern mixed with indignation, the remains of a man, whose fame filled the whole world, lie for ten years after his death without an inscription, or a name. Yet he had directed that the divine and immortal action of his life should be recorded upon his tomb in the following lines:
 
-> **[verse_insert]**
->
 > “ Here Rufus lies, who raised in victory's hour  
 > His country, not himself, to sovran power.”[^fn-p0487-2]
 
@@ -1904,8 +1866,6 @@ I <span class="small-caps">accept</span> your invitation to visit you at your Fo
 
 You were not present at a very droll accident which lately happened : neither was I, however, I had an early account of it.[^fn-p0495-1] Passennus Paulus, a distinguished Roman knight, and an eminently learned man, has a turn for Elegiac Poetry ; a talent which runs in the family, for he is a fellow-townsman of Propertius, and actually reckons that poet among his ancestors. He was lately reciting a poem which began thus :
 
-> **[verse_insert]**
->
 > “ Priscus, thou dost command—”
 
 Whereupon Iavolenus Priscus (who was present, being one of his particular friends) cried out—“But I don't command.” Think what a peal of laughter, what numerous sallies, this occasioned ! The intellects of Priscus, you must know, are something suspicious ; yet he enters into common offices of life, is called to consultations, and publicly acts as a civil pleader, so that this behaviour was the more remarkable and ridiculous.[^fn-p0495-2]
@@ -1974,8 +1934,6 @@ Hence there is a general struggle among candidates ; they bid against each other
 
 <span class="small-caps">The</span> letter which, in compliance with your request, I wrote to you concerning the death of my uncle,[^fn-p0511-1] has raised, you say, your curiosity to know not only what terrors, but what calamities I endured when left behind at Misenum (for there I broke off my narrative).
 
-> **[verse_insert]**
->
 > “Though my shock’d soul recoils, my tongue shall  
 > tell.”
 
@@ -2129,8 +2087,6 @@ Here is a villa, surrounded by the most verdant meadows, and overhanging a bay o
 
 #### XXXIII<br />To <span class="small-caps">Romanus</span>
 
-> **[verse_insert]**
->
 > “‘<span class="small-caps">Hence</span> with the rest,’ quoth he, ‘and throw aside  
 > Your tasks begun—’”[^fn-p0551-1]
 

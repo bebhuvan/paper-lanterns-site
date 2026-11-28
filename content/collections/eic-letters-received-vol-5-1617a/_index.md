@@ -195,8 +195,8 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-5-1617a.epub",
-   "bytes": 483949,
-   "sha256": "c83c34eb274428fc0905d833e1ca89ec9c55450c78dff1a8cb21468edc294536"
+   "bytes": 483974,
+   "sha256": "b7a11abe6b5d005fcc4655b144e817f380d9481519a2612ab32c116fa0f46c08"
   },
   {
    "format": "markdown",
@@ -214,7 +214,7 @@
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.529466/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:23:56Z",
+  "compiled_at": "2026-11-28T12:56:15Z",
   "source_ast_sha256": "26349cf22ad3a25d23ee067646f403d274c8bce48acf3c2f64fde7e22de03317",
   "hugo_renderer_version": "1.0.0"
  }

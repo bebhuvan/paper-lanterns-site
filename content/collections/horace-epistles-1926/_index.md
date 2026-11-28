@@ -449,14 +449,14 @@
   {
    "format": "epub",
    "file": "horace-epistles-1926.epub",
-   "bytes": 202517,
-   "sha256": "ce00f69862bd9e7aa6fc5ce8573ea03ba7027ca341802cc33db5de2a926a29a0"
+   "bytes": 202543,
+   "sha256": "ec58c44c6de9c8d49b5fba41208d4523bee11ce0aafa202bcfe9b7f8bee1d6ff"
   },
   {
    "format": "markdown",
    "file": "horace-epistles-1926.md",
-   "bytes": 327666,
-   "sha256": "0de38e0348ab435a18f5ebcf5e509f1610cb7afec2a71d73f2bf5e706587ba3d"
+   "bytes": 327505,
+   "sha256": "47115a97cce03f90da719c33f3f6d08a405c30cbca9f592cb76f02808127fb9f"
   },
   {
    "format": "tei",
@@ -468,7 +468,7 @@
  "scan_base": "https://archive.org/download/satiresepistlesa00horauoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T11:42:12Z",
+  "compiled_at": "2026-11-28T12:56:35Z",
   "source_ast_sha256": "fc14e328612a42d96424cbe85ba5babb38a984f62cd141542fc3777063fe6225",
   "hugo_renderer_version": "1.0.0"
  }

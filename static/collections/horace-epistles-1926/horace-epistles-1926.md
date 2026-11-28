@@ -469,8 +469,6 @@ If you can recline at my table on couches made by Archias,[^fn-p0317-1] and are 
 
 The key-note is struck in the opening phrase, *nil admirari*, a rendering of the τὸ μηδὲν θαυμάζειν of Pythagoras, or of ἡ ἀθαυμαστία of philosophers in general (Strabo, i. 3. 21). This ἀθαυμαστία, identical with the ἀθαμβία of Democritus (Cic. *De fin.* v. 29. 87), the ἀταραξία of the Epicureans, and the ἀπάθεια of the Stoics, is a philosophic calm, a composure of mind and feeling, a freedom from exciting emotions, which ancient philosophy often regarded as the *summum bonum* and which Tennyson defines so well in his *Lucretius* :
 
-> **[verse_insert]**
->
 >                     O thou,  
 > Passionless bride, divine Tranquillity,  
 > Yearn’d after by the wisest of the wise,  
@@ -555,8 +553,6 @@ Then ask him how his own health is, how in estate and person he is faring, how h
 
 <span class="small-caps">This</span> charming letter of introduction is addressed to the young prince Tiberius on behalf of one Septimius, probably the friend of *Carm.* ii. 6,
 
-> **[verse_insert]**
->
 > Septimi, Gadis aditure mecum et  
 > Cantabrum indoctum iuga ferre nostra et  
 > barbaras Syrtis.
@@ -601,8 +597,6 @@ These lines I am dictating to you behind Vacuna's crumbling shrine, happy on all
 
 <span class="small-caps">Bullatius</span>, a friend of the poet's, has been travelling in the Province of Asia, and Horace, who seems to have had little of the *Wanderlust* himself, asks him whether, tired of journeying by land and sea, he would like to settle down at even so deserted a place as Lebedus. That lonely spot, with its outlook on the raging sea, appealed strongly to the poet, who would love to live there,
 
-> **[verse_insert]**
->
 > The world forgetting, by the world forgot.
 
 But after all a man's happiness depends, not on his place of abode, but on his state of mind.
@@ -721,8 +715,6 @@ Lest you, my good Quinctius, should have to ask me about my farm, whether it sup
 
 <sup>25</sup> Suppose a man were to speak of wars fought by you on land and sea, and with words like these flatter your attentive ears :
 
-> **[verse_insert]**
->
 > May He, to whom both thou and Rome are dear,  
 > Keep secret still, which is the fuller truth,  
 > The love of Rome for thee, or thine for her !
@@ -1289,8 +1281,6 @@ The sketch of a crazy poet with which the poem closes corresponds to that of the
 
 <sup>14</sup> Works with noble beginnings and grand promises often have one or two purple patches so stitched on as to glitter far and wide, when Diana's grove and altar, and
 
-> **[verse_insert]**
->
 > The winding stream a-speeding 'mid fair fields
 
 or the river Rhine, or the rainbow is being described.[^fn-p0487-1] For such things there is a place, but not just now. Perhaps, too, you can draw a cypress. But what of that, if you are paid to paint a sailor swimming from his wrecked vessel in despair? [^fn-p0489-1] That was a wine-jar, when the moulding began: why, as the wheel runs round, does it turn out a pitcher? In short, be the work what you will, let it at least be simple and uniform.
@@ -1311,14 +1301,10 @@ or the river Rhine, or the rainbow is being described.[^fn-p0487-1] For such thi
 
 <sup>128</sup> It is hard to treat in your own way what is common : and you are doing better in spinning into acts a song of Troy than if, for the first time, you were giving the world a theme unknown and unsung. In ground open to all you will win private rights,[^fn-p0497-3] if you do not linger along the easy and open pathway, if you do not seek to render word for word as a slavish translator, and if in your copying you do not leap into the narrow well, out of which either shame or the laws of your task will keep you from stirring a step.[^fn-p0499-1] And you are not to begin as the Cyclic poet of old :
 
-> **[verse_insert]**
->
 > Of Priam's fate and famous war I'll sing.
 
 What will this boaster produce in keeping with such mouthing ? Mountains will labour, to birth will come a laughter-rousing mouse ! How much better he who makes no foolish effort :
 
-> **[verse_insert]**
->
 > Sing, Muse, for me the man who on Troy's fall  
 > Saw the wide world, its ways and cities all.[^fn-p0499-2]
 

@@ -1545,21 +1545,17 @@ The moments which pass between now and then will be charged with the same emotio
 
 <span class="small-caps">Robert Schumann.</span>
 
-> **[enclosure]**
->
 > ##### *Enclosure to Frau Wieck.*
 >
-> > Let me, above all, enlist your sympathy, my dear lady, on behalf of our future. I know that there is nothing of the step-mother in your attitude. Your clear-sightedness and kindly disposition, your genuine respect and love for Clara, will help you to find a way. We should all think it a calamity if the birthday of one who has contributed to the happiness of so many people should be turned into a day of sorrow. Will you not try to avert it?
+> Let me, above all, enlist your sympathy, my dear lady, on behalf of our future. I know that there is nothing of the step-mother in your attitude. Your clear-sightedness and kindly disposition, your genuine respect and love for Clara, will help you to find a way. We should all think it a calamity if the birthday of one who has contributed to the happiness of so many people should be turned into a day of sorrow. Will you not try to avert it?
 >
 > Yours sincerely,
 >
 > R. <span class="small-caps">Schumann.</span>
 
-> **[enclosure]**
->
 > ##### *Enclosure to Clara.*
 >
-> > After our most painful separation, dear Clara, you will, I know, support me lovingly in all that I have said to your parents, and raise your voice where my words seem inadequate.[^fn-p0186-1]
+> After our most painful separation, dear Clara, you will, I know, support me lovingly in all that I have said to your parents, and raise your voice where my words seem inadequate.[^fn-p0186-1]
 >
 > Your
 >
@@ -2151,8 +2147,6 @@ There is no other way of deciding the matter. I cannot impress it upon you too s
 
 . . . One thing more, my Clara, that you may be sure of me on every point. You have sometimes asked whether the financial cares of everyday life would not overwhelm me. In the first place, we need have no cares ; but should this be the case, I would meet them smiling, even with the half of what we have. To have debts which I was unable to pay would harass me, but nothing else. I am too much of an idealist. But you must not jump to the conclusion that I am imprudent ; have I not shown that I can be parsimonious—for your sake ? . . .
 
-> **[enclosure]**
->
 > ##### *Schumann's Letter to Friedrich Wieck.*[^fn-p0238-1]
 >
 > Once more I ask you, in Clara's name and my own, to give your consent to our union next Easter. Two years have passed since my first appeal. You doubted our constancy ; but it has stood the test, and our confidence in a happy future is unshaken.
@@ -2165,9 +2159,7 @@ There is no other way of deciding the matter. I cannot impress it upon you too s
 
 Dear Clara, the letter is cold, but one might as well try to be affectionate towards a block of ice. It is the best I can do. Tell me what you think of it. Hermann[^fn-p0239-1] is responsible for the greater part of the following letter :
 
-> **[enclosure]**
->
-> > We, the undersigned, have long entertained a strong mutual desire to be united in matrimony. There is an obstacle in our path which prevents the fulfilment of our desire. We are therefore, to our great regret, driven to seek this means of removing it. The father of the undersigned Clara Wieck persists in withholding his consent, despite our repeated requests. We are at a loss to understand the grounds of his refusal. We have not consciously offended in any way. Our financial position ensures freedom from anxiety. Herr Wieck's objection can only be due to a personal hostility to the undersigned, who, for his part, is under the impression that he amply fulfilled his obligations to his future wife's father. In any case, we are not inclined to go back on our carefully weighed resolution. We therefore present our petition as follows :
+> We, the undersigned, have long entertained a strong mutual desire to be united in matrimony. There is an obstacle in our path which prevents the fulfilment of our desire. We are therefore, to our great regret, driven to seek this means of removing it. The father of the undersigned Clara Wieck persists in withholding his consent, despite our repeated requests. We are at a loss to understand the grounds of his refusal. We have not consciously offended in any way. Our financial position ensures freedom from anxiety. Herr Wieck's objection can only be due to a personal hostility to the undersigned, who, for his part, is under the impression that he amply fulfilled his obligations to his future wife's father. In any case, we are not inclined to go back on our carefully weighed resolution. We therefore present our petition as follows :
 >
 > Will the High Court cause Herr Wieck to give his paternal consent to our marriage, or, failing that, substitute legal permission? Only the imperative need for action reconciles us to this step. We seek our consolation in the hope that this painful breach, like many another, may be healed by time.
 >
@@ -2784,8 +2776,6 @@ I have been so pressed by various business matters that I could not acknowledge 
 
 I have ventured to note on the enclosed paper a few suggestions for alterations. Up to the words
 
-> **[verse_insert]**
->
 > ‘und bittet freundlich hier  
 > Um Obdach’
 

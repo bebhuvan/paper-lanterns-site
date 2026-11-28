@@ -94,13 +94,11 @@ In the midst of other considerations Jefferson once parenthetically expressed a 
 
 Apart from the philosophical and religious broadsides, another great fun and business of the letters began when Adams started the discussion as to living their lives over again:
 
-> **[enclosure]**
+> “I cannot be serious! I am about to write you the most frivolous letter you ever read.
 >
-> > “I cannot be serious! I am about to write you the most frivolous letter you ever read.
+> “Would you go back to your cradle and live over again your seventy years? I believe you would return me a New England answer, by asking me another question: Would you live your eighty years over again?
 >
-> > “Would you go back to your cradle and live over again your seventy years? I believe you would return me a New England answer, by asking me another question: Would you live your eighty years over again?
->
-> > “I am not prepared to give you an explicit answer; the question involves so many questions of metaphysics and physics, of experience and romance, of tragedy, comedy, and farce, that I would not give my opinion without writing a volume to justify it.”
+> “I am not prepared to give you an explicit answer; the question involves so many questions of metaphysics and physics, of experience and romance, of tragedy, comedy, and farce, that I would not give my opinion without writing a volume to justify it.”
 
 In his reply to that letter Jefferson said: “As you began . . . with a declaration that you were about to write the most frivolous letter I had ever read, so I will close mine by saying, I have written a full match for it.” There the issue was joined, under the mask of frivolity, which only partly concealed the serious enough features of these two speculative old gentlemen. Adams very nearly made good his estimate of how much might be written on this subject, for between them, they did spin out their speculations on reliving their lives to something that approached the content of a volume; if only the type were large enough, the margins broad enough, and the pages few enough. They did not wholly abandon these piquant speculations as long as they wrote, and they continued to write each other into the last year of their long lives.
 
@@ -512,9 +510,7 @@ This paragraph on the talent of beauty waited during more than two months for it
 
 “Very soon after my letter to Doctor Priestley, the subject being still in my mind, I had leisure during an abstraction from business for a day or two, while on the road, to think a little more on it, and to sketch more fully than I had done to him, a syllabus of the matter which I thought should enter into the work. I wrote it to Doctor Rush, and there ended all my labor on the subject; himself and Doctor Priestley being the only two depositories of my secret. The fate of my letter to Priestley, after his death, was a warning to me on that of Doctor Rush; and at my request, his family were so kind as to quiet me by returning my original letter and syllabus. By this, you will be sensible how much interest I take in keeping myself clear of religious disputes before the public, and especially of seeing my syllabus disembowelled by the Aruspices of the modern Paganism. Yet I enclose it *to you* with entire confidence, free to be perused by yourself and Mrs. Adams, but by no one else, and to be returned to me.
 
-> **[enclosure]**
->
-> > “You are right in supposing, in one of yours, that I had not read much of Priestley’s Predestination, his no-soul system, or his controversy with Horsley. But I have read his Corruptions of Christianity, and Early Opinions of Jesus, over and over again; and I rest on them, and on Middleton’s writings, especially his letters from Rome, and to Waterland, as the basis of my own faith. These writings have never been answered, nor can be answered by quoting historical proofs, as they have done. For these facts, therefore, I cling to their learning, so much superior to my own.”
+> “You are right in supposing, in one of yours, that I had not read much of Priestley’s Predestination, his no-soul system, or his controversy with Horsley. But I have read his Corruptions of Christianity, and Early Opinions of Jesus, over and over again; and I rest on them, and on Middleton’s writings, especially his letters from Rome, and to Waterland, as the basis of my own faith. These writings have never been answered, nor can be answered by quoting historical proofs, as they have done. For these facts, therefore, I cling to their learning, so much superior to my own.”
 
 ### Letter 24: Adams → Jefferson
 
@@ -878,8 +874,6 @@ He did. Life, which at his age seemed so precarious to him, provided him a well-
 
 “Your two philosophical letters of May 4th and 6th have been too long in my carton of ‘letters to be answered.’ To the question, indeed, on the utility of grief, no answer remains to be given. You have exhausted the subject. I see that, with the other evils of life, it is destined to temper the cup we are to drink.
 
-> **[verse_insert]**
->
 > “Two urns by Jove’s high throne have ever stood,  
 >  The source of evil one, and one of good;  
 >  From thence the cup of mortal man he fills,  
@@ -1220,8 +1214,6 @@ This drew the following and immediate explanation from Jefferson:
 
 “The sight of your well-known handwriting in your favor of February 25th last, gave me great pleasure, as it proved your arm to be restored, and your pen still manageable. May it continue till you become as perfect a Calvinist as I am, in one particular. Poor Calvin’s infirmities, his rheumatism, his gout, and sciatica, made him frequently cry out, *‘Mon dieu, jusqu’a quand!’* ‘Lord, how long!’ Prat, once Chief Justice of New York, always tormented with infirmities, dreamed that he was situated on a single rock in the midst of the Atlantic ocean. He heard a voice,
 
-> **[verse_insert]**
->
 > “ ‘Why mourns the bard? Apollo bids thee rise;  
 > Renounce the dirt, and claim thy native skies.’
 

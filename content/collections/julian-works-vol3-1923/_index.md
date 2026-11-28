@@ -312,14 +312,14 @@
   {
    "format": "epub",
    "file": "julian-works-vol3-1923.epub",
-   "bytes": 300575,
-   "sha256": "19e29ad9a781b560f15926f702639dc86813669e4d16ee1b4b0a2ef6cde44c5a"
+   "bytes": 300603,
+   "sha256": "7f43b04a0eac18f473f0555dd28c9891346d09903d582bd48eaa7e165964fb3b"
   },
   {
    "format": "markdown",
    "file": "julian-works-vol3-1923.md",
-   "bytes": 547748,
-   "sha256": "c6308b566696aede4853477f80394327a0848ebc6da321ae36131b5c8692ef94"
+   "bytes": 547702,
+   "sha256": "1f9448ba85704baa997a21a5555e455286c6e8646f8f93c5bc0b9a3f48b17c6e"
   },
   {
    "format": "tei",
@@ -331,8 +331,8 @@
  "scan_base": "https://archive.org/download/workswithenglish03juliuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T10:28:32Z",
-  "source_ast_sha256": "1cde1fd9b12599f184770f489537b1977ef7616a6e734482129eb2cb948d0199",
+  "compiled_at": "2026-11-28T12:56:51Z",
+  "source_ast_sha256": "90387ec3d52e130357954fcad7a59c9ca61bc5926c19d576323654a2b9ed7721",
   "hugo_renderer_version": "1.0.0"
  }
 }

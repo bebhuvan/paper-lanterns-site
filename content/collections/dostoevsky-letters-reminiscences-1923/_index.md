@@ -224,14 +224,14 @@
   {
    "format": "epub",
    "file": "dostoevsky-letters-reminiscences-1923.epub",
-   "bytes": 216656,
-   "sha256": "f724d692b25e7177493fe3ae60a7fb86f0ccac1a5ec601315b209d1e491d636c"
+   "bytes": 216682,
+   "sha256": "128cd85ada0c92fd01c017b2f59a9f8ddf309b9c85f33dc1bfc6dde5b1ec6b46"
   },
   {
    "format": "markdown",
    "file": "dostoevsky-letters-reminiscences-1923.md",
-   "bytes": 363561,
-   "sha256": "e55906ea614b1b3072dd3529b3c6bae2f9da06797a27b1de0067fb4ebe08378c"
+   "bytes": 363492,
+   "sha256": "86a23fd965a52cc0409fe64fac295b9c06d63f79636cf4bcbd379836baf3e084"
   },
   {
    "format": "tei",
@@ -243,7 +243,7 @@
  "scan_base": "https://archive.org/download/bwb_P8-ADV-479/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T21:09:38Z",
+  "compiled_at": "2026-11-28T12:55:58Z",
   "source_ast_sha256": "8026cbac33192c5bf8f8536aeb708b5e391efe7ea30931fd0f0fed0f37b82e4e",
   "hugo_renderer_version": "1.0.0"
  }

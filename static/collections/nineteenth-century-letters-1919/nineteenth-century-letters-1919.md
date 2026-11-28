@@ -343,7 +343,7 @@ You have had our history up to Kinneil House. Mr. and Miss Stewart accompanied u
 >
 > “*Dear Miss Edgeworth,*
 >
-> > I have just received your kind note, just when I had persuaded myself it was most likely I should see you in person or hear of your arrival. Mr. Alison writes to me you are engaged to dine with him to-morrow, which puts Roslin out of the question for that day, as it might keep you late. On Sunday I hope you will join our family-party at five, and on Monday I have asked one or two of the Northern Lights on purpose to meet you. I should be engrossing at any time, but we shall be more disposed to be so just now, because on the 12th I am under the necessity of going to a different kingdom (only the kingdom of *Fife*) for a day or two. To-morrow, if it is quite agreeable, I will wait on you about twelve, and hope you will permit me to show you some of our improvements.
+> I have just received your kind note, just when I had persuaded myself it was most likely I should see you in person or hear of your arrival. Mr. Alison writes to me you are engaged to dine with him to-morrow, which puts Roslin out of the question for that day, as it might keep you late. On Sunday I hope you will join our family-party at five, and on Monday I have asked one or two of the Northern Lights on purpose to meet you. I should be engrossing at any time, but we shall be more disposed to be so just now, because on the 12th I am under the necessity of going to a different kingdom (only the kingdom of *Fife*) for a day or two. To-morrow, if it is quite agreeable, I will wait on you about twelve, and hope you will permit me to show you some of our improvements.
 >
 > I am always,  
 >     Most respectfully yours,
@@ -1057,8 +1057,6 @@ December 25, 1806.
 
 By my letter from Derby you will have been satisfied of our safety so far. We had, however, been grossly deceived as to the equi-distance of Derby and Loughborough. The expense was nearly double. Still, however, I was in such torture and my boils bled, throbbed, and *stabbed* so *con furia,* that perhaps I have no reason for regret. At Coleorton we found them dining, Sunday, ½ past one o’clock. To-day is Xmas day. Of course we were welcomed with an uproar of sincere joy: and Hartley hung suspended between the ladies for a long minute. The children, too, jubilated at Hartley’s arrival.[^fn-p0082-1] He has behaved very well indeed—only that when he could get out of the coach at dinner, I was obliged to be in incessant watch to prevent him from rambling off into the fields. He twice ran into a field, and to the further end of it, and once after the dinner was on table, I was out five minutes seeking him in great alarm, and found him at the further end of a wet meadow, on the marge of a river. After dinner, fearful of losing our places by the window (of the long coach), I ordered him to go into the coach and sit in the place where he was before, and I would follow. In about five minutes I followed. No Hartley! Halloing—in vain! At length, where should I discover him! In the same meadow, only at a greater distance, and close down on the very edge of the water. I was angry from downright fright! And what, think you, was Cataphract's excuse! “It was a misunderstanding, Father! I thought, you see, that you bid me go to the very same place, in the meadow where I was.” I told him that he had interpreted the text by the suggestions of the flesh, not the inspiration of the spirit; and *his Wish* the naughty father of the baseborn Thought. However, saving and excepting his passion for field truantry, and his hatred of confinement (in which his fancy at least—
 
-> **[verse_insert]**
->
 > Doth sing a doleful song about green fields;  
 > How sweet it were in woods and wild savannas;  
 > To hunt for food and be a naked man  
@@ -1305,8 +1303,6 @@ Yours very truly,
 
 It is true enough that you have not heard from me for a long time; and the reason is not that I am idle, which I am, but because I hoped, from the long absence of all letters from Passy, that you surely were on your way to Bath. Otherwise not only should I have written, but have been, long ere this time, in Devonshire. Tell Mama that I might safely have been entrusted with the *tapis,* or, even with everything *sur le tapis.* There is no commission of hers which I would not have executed, at least carefully. I am indeed quite as idle as usual.
 
-> **[verse_insert]**
->
 > I never sprain,  
 > Dear Rose! my brain;  
 > And if I did,  
@@ -1386,8 +1382,6 @@ March 20th, 1799.
 
 I am hugely pleased with your “Spider,” [^fn-p0108-2] “your old freemason,” as you call him. The first three stanzas are delicious; they seem to me a compound of Burns and Old Quarles, the kind of home-strokes, where more is felt than strikes the ear; a terseness, a jocular pathos, which makes one feel in laughter. The measure, too, is novel and pleasing. I could almost wonder Robert Burns in his lifetime never stumbled upon it. The fourth stanza is less striking, as being less original. The fifth falls off. It has no felicity of phrase, no old-fashioned phrase or feeling.
 
-> **[verse_insert]**
->
 > “Young hopes, and love’s delightful dreams,”
 
 savour neither of Burns nor Quarles; they seem more like shreds of many a modern sentimental sonnet. The last stanza hath nothing striking in it, if I except the two concluding lines, which are Burns all over. I wish, if you concur with me, these things could be looked to. I am sure this is a kind of writing, which comes ten-fold better recommended to the heart, comes there more like a neighbour or familiar, than thousands of Hamnels, and Zillahs, and Madelons. I beg you will send me the “Holly Tree,” if it at all resemble this, for it must please me. I have never seen it. I love this sort of poems, that open a new intercourse with the most despised of the animal and insect race. I think this vein may be further opened. Peter Pindar hath very prettily apostrophized a fly; Burns hath his mouse and his louse; Coleridge less successfully hath made overtures of intimacy to a jackass, therein only following, at unresembling distance, Sterne, and greater Cervantes. Besides these, I know of no other examples of breaking down the partition between us and our “poor earth-born companions.” It is sometimes revolting to be put in a track of feeling by other people, not one’s own immediate thoughts, else I would persuade you, if I could, (I am in earnest,) to commence a series of these animals’ poems, which might have a tendency to rescue some poor creatures from the antipathy of mankind. Some thoughts came across me: for instance—to a rat, to a toad, to a cockchafer, to a mole. People bake moles alive by a slow oven fire to cure consumption. Rats are, indeed, the most despised and contemptible parts of God’s earth. I killed a rat the other day by punching him to pieces, and feel a weight of blood upon me to this hour. Toads you know are made to fly, and tumble down and crush all to pieces. Cockchafers are old sport. Then again to a worm, with an apostrophe to anglers, those patient tyrants, meek inflictors of pangs intolerable, cool devils; to an owl; to all snakes, with an apology for their poison; to a cat in boots or bladders. Your own fancy, if it takes a fancy to these hints, will suggest many more. A series of such poems, suppose them accompanied with plates descriptive of animal torments, cooks roasting lobsters, fishmongers crimping skates, &c., &c., would take excessively. I will willingly enter into a partnership in the plan with you. I think my heart and soul would go with it too—at least, give it a thought. My plan is but this minute come into my head; but it strikes me instantaneously as something new, good, and useful, full of pleasure, and full of moral. If old Quarles and Wither could live again, we would invite them into our firm. Burns hath done his part.
@@ -1802,8 +1796,6 @@ I am oppressed with business all day and Company all night. But I will snatch a 
 
 > *[Margin: [Æt. 49]*
 
-> **[verse_insert]**
->
 > “Tiger, Tiger, burning bright,  
 > Thro’ the desarts of the night” [^fn-p0138-1]
 
@@ -1915,8 +1907,6 @@ We had a merry passage with the widow at the Commons. She was howling—part how
 
 She'd make a good match for any body (by she I mean the widow).
 
-> **[verse_insert]**
->
 > “If he bring but a *relict* away,  
 > He is happy, nor heard to complain.”  
 > Shenstone.
@@ -2181,8 +2171,6 @@ W. I.
 
 <span class="small-caps">Brighton</span>, August 14, 1824.
 
-> **[verse_insert]**
->
 > My boat is on the shore  
 > And my bark is on the sea;
 
@@ -2278,8 +2266,6 @@ B. R. <span class="small-caps">Haydon</span>.
 
 . . . . Keats was a victim to personal abuse and want of nerve to bear it. Ought he to have sunk in that way because a few quizzers told him that he was an apothecary's apprentice? A genius more purely poetical never existed! In conversation he was nothing, or if anything, weak and inconsistent; he had an exquisite sense of humour, but it was in the fields Keats was in his glory. . . . His ruin was owing to his want of decision of character and power of will, without which genius is a curse. He could not bring his mind to bear on one object, and was at the mercy of every pretty theory Leigh Hunt's ingenuity would suggest. . . . He had a tending to religion when first I knew him, but Leigh Hunt soon forced it from his mind. Never shall I forget Keats once rising from his chair and approaching my last picture (“Entry into Jerusalem”); he went before the portrait of Voltaire, placed his hand on his heart and bowing low
 
-> **[verse_insert]**
->
 > “. . . . In reverence done, as to the power  
 > That dwelt within, whose presence had infused  
 > Into the plant sciential sap, derived  
@@ -2434,8 +2420,6 @@ When at Newstead, somebody by accident rubbed against one of his white silk stoc
 
 One of Matthews's passions was “the fancy”; and he sparred uncommonly well. But he always got beaten in rows, or combats with the bare fist. In swimming, too, he swam well; but with *effort* and *labour,* and *too high* out of the water; so that Scrope Davies and myself, of whom he was therein somewhat emulous, always told him that he would be drowned if ever he came to a difficult pass in the water. He was so; but surely Scrope and myself would have been most heartily glad that
 
-> **[verse_insert]**
->
 > “the Dean had lived,  
 > And our prediction proved a lie.”
 
@@ -2449,8 +2433,6 @@ One evening, after dining together, as we were going to the Opera, I happened to
 
 When Sir Henry Smith was expelled from Cambridge for a row with a tradesman named “Hiron,” Matthews solaced himself with shouting under Hiron’s windows every evening,
 
-> **[verse_insert]**
->
 > “Ah me! what perils do environ  
 > The man who meddles with *hot Hiron.*”
 
@@ -2792,8 +2774,6 @@ Ever since I wrote to my brother from Southampton, I have been in a taking, and 
 
 The wind is in a sulky fit, and I feel that it would be no bad thing to be the favourite of some Fairy, who would give one the power of seeing how our friends got on at a distance. I should like, of all loves, a sketch of you, and Tom, and George in ink: which Haydon will do if you tell him how I want them. From want of regular rest I have been rather *narvus,* and the passage in Lear, “Do you not hear the sea!” has haunted me intensely.
 
-> **[verse_insert]**
->
 > It keeps eternal whisperings around  
 > Desolate shores, and with its mighty swell  
 > Gluts twice ten thousand caverns, till the spell  
@@ -2811,22 +2791,16 @@ The wind is in a sulky fit, and I feel that it would be no bad thing to be the f
 
 I’ll tell you what—on the 23rd was Shakespeare born. Now if I should receive a letter from you, and another from my brother on that day, ’twould be a parlous good thing. Whenever you write, say a word or two on some passage in Shakespeare that may have come rather new to you, which must be continually happening, notwithstanding that we read the same play forty times—for instance, the following from the “Tempest” never struck me so forcibly as at present:—
 
-> **[verse_insert]**
->
 > “Urchins  
 > Shall, for that vast of night that they may work,  
 > All exercise on thee.”
 
 How can I help bringing to your mind the line—
 
-> **[verse_insert]**
->
 > “In the dark backward and abysm of time.”
 
 I find that I cannot exist without Poetry—without eternal Poetry; I began with a little, but habit has made me a leviathan. I had become all in a tremble from not having written anything of late: the Sonnet over-leaf did me good; I slept the better last night for it; this morning, however, I am nearly as bad again. Just now I opened Spenser, and the first lines I saw were these:—
 
-> **[verse_insert]**
->
 > “The noble heart that harbours virtuous thought,  
 > And is with child of glorious great intent,  
 > Can never rest until it forth have brought  
@@ -2872,8 +2846,6 @@ In return for your dish of filberts, I have gathered a few catkins. I hope they'
 
 I hope you will like them—they are at least written in the spirit of outlawry. Here are the Mermaid lines:—
 
-> **[verse_insert]**
->
 > Souls of Poets dead and gone. &c.
 
 In the hope that these scribblings will be some amusement for you this evening, I remain, copying on the hill,
@@ -2926,8 +2898,6 @@ Being in the midst of your favourite Devon, I should not, by rights, pen one wor
 
 I went yesterday to Dawlish fair.
 
-> **[verse_insert]**
->
 > “Over the Hill and over the Dale,  
 > And over the Bourne to Dawlish,  
 > Where ginger-bread wives have a scanty sale,  
@@ -3117,8 +3087,6 @@ The side streets here are excessively maiden-lady-like; the door-steps always fr
 
 How beautiful the season is now. How fine the air—a temperate sharpness about it. Really, without joking, chaste weather—Dian skies. I never liked stubble-fields so much as now—aye, better than the chilly green of the Spring. Somehow, a stubble plain looks warm, in the same way that some pictures look warm. This struck me so much in my Sunday's walk that I composed upon it.
 
-> **[verse_insert]**
->
 > “Season of mists and mellow fruitfulness,” &c.
 
 I hope you are better employed than in gazing after weather. I have been, at different times, so happy as not to know what weather it was. No, I will not copy a parcel of verses. I always somehow associate Chatterton with Autumn. He is the purest writer in the English language. He has no French idiom or particles, like Chaucer; 'tis genuine English idiom in English words. I have given up “Hyperion”—there were too many Miltonic inversions in it—Miltonic verse cannot be written but in an artful, or, rather, artist's humour. I wish to give myself up to other sensations. English ought to be kept up. It may be interesting to you to pick out some lines from “Hyperion,” and put a mark, †, to the false beauty, proceeding from art, and one, ||, to the true voice of feeling. Upon my soul, 'twas imagination; I cannot make the distinction—every now and then there is a Miltonic intonation—but I cannot make the division properly. . . .
@@ -3572,8 +3540,6 @@ One execrable effect the climate produces. It destroys all the works of man with
 
 We have been for some months in the middle of what the people here think a political storm. To a person accustomed to the hurricanes of English faction this sort of tempest in a horse-pond is merely ridiculous. We have put the English settlers up the country under the exclusive jurisdiction of the company's courts in civil actions in which they are concerned with natives. The English settlers are perfectly contented; but the lawyers of the Supreme Court have set up a yelp which they think terrible, and which has infinitely diverted me. They have selected me as the object of their invectives, and I am generally the theme of five or six.columns of prose and verse daily. I have not patience to read a tenth part of what they put forth. The last ode in my praise which I perused began,
 
-> **[verse_insert]**
->
 > Soon we hope they will recall ye,  
 > Tom Macaulay, Tom Macaulay.
 
@@ -3903,8 +3869,6 @@ March 25, 1864.
 
 This is a lovely day, as you are well aware. Moreover, it is Good Friday, as you are equally well aware; and leaving aside the deeper meaning of the day, I will tell you something of which I suspect you are not aware. Have you remembered, or noticed, that the days and dates of 1864 correspond with those of the Dantesque 1300?—so that in both years Good Friday falls on the 25th of March. Five hundred and sixty-four years ago to-day, Dante descended to the *città dolente;* and to-day, with the first two cantos of the *Inferno* in my hand, I descended among the printers’ devils,—the *malebolge* of the University Press. Is it a good omen? I know not. But something urges me on and on and on with this work, and will not let me rest; though I often hear the warning voice from within,—
 
-> **[verse_insert]**
->
 > Me degno a ciò nè io nè altri crede.
 
 Did you ever notice the beautiful and endless aspiration so artistically and silently suggested by Dante in closing each part of his poem with the word *stelle?* Did any Italian commentator ever find it out? Among English translators, I believe Cayley was the first to remark it.
@@ -4236,8 +4200,6 @@ Sunday, Dec. 10, 1843.
 
 Either you wrote me word yourself, or some one told me, that you meant to winter at Florence. So I shall direct to the Poste Restante there. You see I am not settled at the Florence of Suffolk, called Ipswich, yet: but I am perhaps as badly off; being in the most dull country house quite alone; a grey mist that seems teeming with half formed snow, all over the landscape before my windows. It is also Sunday morning: ten of the clock by the chime now sounding from the stables. I have fed on bread and milk (a dreadfully opaque diet) and I await the morning church in humble hope. It will begin in half an hour. We keep early hours in the country. So you will be able to measure my aptitude and fullness for letter writing by the quantity written now, before I bolt off for hat, gloves, and prayerbook. I always put on my thickest great coat to go to our Church in: as fungi grow in great numbers about the communion table. And now, to turn away from Boulge, I must tell you that I went up to London a month ago to see old Thackeray, who had come there to have his eyes doctored. I stayed with him ten days and we were as usual together. Alfred came up “in transitu” from Boxley to Cheltenham; he looked, and said he was, ill: I have never seen him so hopeless: and I am really anxious to know how he is. . . . I remember the days of the summer when you and I were together, quarreling and laughing —these I remember with pleasure. Our trip to Gravesend has left a perfume with me. I can get up with you on that everlastingly stopping coach on which we tried to travel from Gravesend to Maidstone that Sunday morning: worn out with it, we got down at an inn, and then got up on another—and an old smiling fellow passed us holding out his hat—and you said, “That old fellow must go about as Homer did”—and numberless other turns of road and humour, which sometimes pass before me as I lie in bed. . . . Now before I turn over, I will go and see about Church, as I hear no bell, pack myself up as warmly as I can, and be off. So good-bye till twelve o’clock. . . . ’Tis five minutes past twelve by the stable clock: so I saw as I returned from Church through the garden. Parson and Clerk got through the service see-saw, like two men in a sawpit. In the garden I see the heads of the snowdrops and crocuses just out of the earth. Another year with its same flowers and topics to open upon us. Shenstone somewhere sings
 
-> **[verse_insert]**
->
 > Tedious again to mark the drizzling day,  
 > Again to trace the same sad tracts of snow:  
 > Or, lull’d by vernal airs, again survey  
@@ -4263,8 +4225,6 @@ When I get back to Boulge I shall recover my quietude, which is now all in a rip
 
 A cloud comes over Charlotte Street and seems as if it were sailing softly on the April wind to fall in a blessed shower upon the lilac buds and thirsty anemones somewhere in Essex; or, who knows? perhaps at Boulge. Out will run Mrs. Faiers, and with red arms and face of woe haul in the struggling windows of the cottage, and make all tight. Beauty Bob will cast a bird's eye out at the shower, and bless the useful wet. Mr. Loder will observe to the farmer for whom he is doing up a dozen of Queen's Heads that it will be of great use: and the farmer will agree that his young barleys wanted it much. The German Ocean will dimple with innumerable pin points, and porpoises rolling near the surface sneeze with unusual pellets of fresh water—
 
-> **[verse_insert]**
->
 > Can such things be,  
 > And overcome us like a summer cloud,  
 > Without our special wonder?
@@ -4307,8 +4267,6 @@ I expect to run up to London some time during the winter, just to tell over old 
 
 Now I feel just in the same fix as I did in that sheet of paper whose fate is uncertain. But if I don't put in a word more, yet this shall go, I am determined. Only consider how it is a matter of necessity that I should have nothing to say. If you could see this place of Boulge! You who sit and survey marble palaces rising out of cypress and olive. There is a dreadful vulgar ballad, composed by Mr. Balfe, and sung with the most unbounded applause by Miss Rainforth,
 
-> **[verse_insert]**
->
 > “I dreamt that I dwelt in marble Halls,”
 
 which is sung and organed at every corner in London. I think you may imagine what kind of flowing 6/8 time of the last degree of imbecility it is. The words are written by Mr. Bunn! Arcades ambo.
@@ -4337,8 +4295,6 @@ Come, I have got more than two ideas into this sheet; but I don't know if you wo
 
 And three nights ago I looked out at about ten o'clock at night, before going to bed. It seemed perfectly still; frosty, and the stars shining bright. I heard a continuous moaning sound, which I knew to be, not that of an infant exposed, or female ravished, but of the sea, more than ten miles off! What little wind there was carried to us the murmurs of the waves circulating round these coasts so far over a flat country. But people here think that this sound so heard is not from the waves that break, but a kind of prophetic voice from the body of the sea itself announcing great gales. Sure enough we have got them, however heralded. Now I say that all this shows that we in this Suffolk are not so completely given over to prose and turnips as some would have us. I always said that being near the sea, and being able to catch a glimpse of it from the tops of hills, and of houses; redeemed Suffolk from dulness; and at all events that our turnip fields, dull in themselves, were at least set all round with an undeniably poetic element. And so I see Arnold says; he enumerates five inland counties as the only parts of England for which nothing could be said in praise. Not that I agree with him there neither; I cannot allow the valley of the Ouse about which some of my pleasantest recollections hang to be without its great charm. W. Browne, whom you despised, is married, and I shall see but little of him for the future. I have laid by my rod and line by the willows of the Ouse forever. “He is married and cannot come.” This change is the true meaning of those verses,
 
-> **[verse_insert]**
->
 > Friend after friend departs;  
 > Who has not lost a friend?
 
@@ -5697,8 +5653,6 @@ June 19, 1864.
 
 We are here among the serenities and the fresh eggs. Would that you were near, to feel with us the wonderful beauty of the hills! Do come, and go over the Willy acres, and drive down into the comforting valleys by the lovely river, and eat wild strawberries, and rattle over the hills in our old wagon. In one week of this life I have grown as rusty as an old nail. I have lost all care; and the bundles of business have dropped clean off my shoulders and gone into the Pemigewasset. All the *buzziness* here is done by the bees; and the only active people are the birds, who sing all day long about our old dwelling by the roadside. Such a careless, good-for-nothing peaceful old life as this is well worth trying. A great and glorious laziness creeps up and takes possession of you the moment you arrive, and never lets go its hold as long as you stay. You loaf about in dell and hollow, and lie down on the hillside and let the slugs crawl over you without a shake. In the “broad orchards resonant with bees” you go to sleep, and only wake up when the horn blows for dinner. We know nothing of the weather in these parts.
 
-> **[verse_insert]**
->
 > “It may blow North, it still is warm,  
 > Or South, it still is clear;  
 > Or East, it smells like a clover farm,  
@@ -5708,8 +5662,6 @@ Will you not come? . . .
 
 I hope “Palingenesis” will be well launched when the July Atlantic is ready. I left directions to have it properly put in the papers, but I have small faith in editors when I am out of the way. I am sure nothing finer has been printed for years.
 
-> **[verse_insert]**
->
 > “Suns rise and set in Saadi’s speech.”
 
 My wife sends kindest regards and hopes you will make your way to our roadside perch in New Hampshire.
@@ -5979,9 +5931,7 @@ Our trees are beginning to turn—the maples are all ablaze, and even in our *as
 
 I have had an adventure. I have dined with a prince. After changing my mind twenty times, I at last sat down desperately and “had the honor to accept.” And I was glad of it—for H. I. H.’s resemblance to his uncle is something wonderful. I had always supposed the portraits of the elder Nap imperialized, but Jerome N. looks as if he had sat for that picture where the emperor lies reading on a sofa—you remember it. A trifle weaker about the mouth, suggesting loss of teeth; but it is not so, for his teeth are exquisite. He looks as you would fancy his uncle if he were *Empereur de Ste. Hélène, roi d’Yvetôt.* I sat next to colonel Ragon, who led the forlorn hope at the taking of the Malakoff and was at the siege of Rome. He was a very pleasant fellow. (I don’t feel quite sure of my English yet—J’ai tant parlé Français que je trouve beaucoup de difficulté à m’y déshabituer.) Pendant—I mean during—the dinner Ooendel Homes récitait des vers vraiment jolis. Il arrivait déjà au bout, quand M. Ragon, se tournant vers moi d’un air mêlé d’intelligence et d’interrogation, et à la même fois d’un Colomb qui fait la découverte d’un monde tout nouveau, s’écria, “C’est en vers, Monsieur, n’est ce pas?” St’anegdot charmang j’ai rahcontay ah Ooendell daypwee, avec days eclah de reer. (See Bolmar.) Mr. Everett made a speech où il y avait un soupçon de longueur. The prince replied most gracefully, as one
 
-> **[verse_insert]**
->
-> > “Who saying nothing yet saith all.”
+> “Who saying nothing yet saith all.”
 
 He speaks French exquisitely—foi de professeur. Ho parlato anche Italiano col Colonello, chi è stato sei anni in Italia, and I believe I should have tried Hebrew with the secretary of legation, who looked like a Jew, if I had had the chance. After dinner the prince was brought up and *presented to me!* Please remember that when we meet. The political part of our conversation of course I am not at liberty to repeat(!!), but he asked me whether I myself occupied of any work literary at present? to which I answered, no. Then he spoke of the factories at Lowell and Lawrence, and said how much the intelligence of the operatives had interested him, etc., etc. He said that Boston seemed to have much more movement intellectual than the rest of the country (to which I replied. *nous* le croyons, au moins); astonished himself at the freedom of opinion here, etc., at the absence of Puritanism and the like. I thought him very intelligent and thanked him for his bo deescoor o saynah Frongsay shure lays ahfair deetahlee. (See Bolmar again, which I took in my pocket.) . . .
 
@@ -6377,9 +6327,9 @@ Went to Exhibition on opening Day with Borthwick. Crush. Saw everything. . . . D
 
 <span class="small-caps">Copsham</span>, May 5, 1862.
 
-> **[verse_insert]**
->
-> ###### Madrigal<br />“Since Tuck is faithless found”
+###### Madrigal<br />“Since Tuck is faithless found”
+
+> **[verse_insert: Madrigal “Since Tuck is faithless found”]**
 >
 > Since Tuck is faithless found, no more  
 > I’ll trust to man or maid;  
@@ -7104,17 +7054,15 @@ Herewith please find the DOCUMENT, which I trust will prove sufficient in law. I
 
 <span class="small-caps">Robert Louis Stevenson.</span>
 
-> **[enclosure]**
+> I, Robert Louis Stevenson, Advocate of the Scots Bar, author of *The Master of Ballantrae* and *Moral Emblems,* stuck civil engineer, sole owner and patentee of the Palace and Plantation known as Vailima in the island of Upolu, Samoa, a British subject, being in sound mind, and pretty well, I thank you, in body:
 >
-> > I, Robert Louis Stevenson, Advocate of the Scots Bar, author of *The Master of Ballantrae* and *Moral Emblems,* stuck civil engineer, sole owner and patentee of the Palace and Plantation known as Vailima in the island of Upolu, Samoa, a British subject, being in sound mind, and pretty well, I thank you, in body:
+> In consideration that Miss Annie H. Ide, daughter of H. C. Ide, in the town of St. Johnsbury, in the county of Caledonia, in the state of Vermont, United States of America, was born, out of all reason, upon Christmas Day, and is therefore out of all justice denied the consolation and profit of a proper birthday;
 >
-> > In consideration that Miss Annie H. Ide, daughter of H. C. Ide, in the town of St. Johnsbury, in the county of Caledonia, in the state of Vermont, United States of America, was born, out of all reason, upon Christmas Day, and is therefore out of all justice denied the consolation and profit of a proper birthday;
+> And considering that I, the said Robert Louis Stevenson, have attained an age when O, we never mention it, and that I have now no further use for a birthday of any description;
 >
-> > And considering that I, the said Robert Louis Stevenson, have attained an age when O, we never mention it, and that I have now no further use for a birthday of any description;
+> And in consideration that I have met H. C. Ide, the father of the said Annie H. Ide, and found him about as white a land commissioner as I require:
 >
-> > And in consideration that I have met H. C. Ide, the father of the said Annie H. Ide, and found him about as white a land commissioner as I require:
->
-> > *Have transferred, and do hereby transfer,* to the said Annie H. Ide, *all and whole* my rights and privileges in the thirteenth day of November, formerly my birthday, now, hereby, and henceforth, the birthday of the said Annie H. Ide, to have, hold, exercise, and enjoy the same in the customary manner, by the sporting of fine raiment, eating of rich meats, and receipt of gifts, compliments, and copies of verse, according to the manner of our ancestors;
+> *Have transferred, and do hereby transfer,* to the said Annie H. Ide, *all and whole* my rights and privileges in the thirteenth day of November, formerly my birthday, now, hereby, and henceforth, the birthday of the said Annie H. Ide, to have, hold, exercise, and enjoy the same in the customary manner, by the sporting of fine raiment, eating of rich meats, and receipt of gifts, compliments, and copies of verse, according to the manner of our ancestors;
 >
 > > *[Margin: [Æt. 41]*
 >
@@ -7205,8 +7153,6 @@ Let me speak first of the dedication. I thank you for it from my heart. It is be
 
 But here comes my Amanuensis, so we'll get on more swimmingly now. You will understand perhaps that what so particularly pleased me in the new volume, what seems to me to have so personal and original a note, are the middle-aged pieces in the beginning. The whole of them, I may say, though I must own an especial liking to—
 
-> **[verse_insert]**
->
 > I yearn not for the fighting fate,  
 > That holds and hath achieved;  
 > I live to watch and meditate  

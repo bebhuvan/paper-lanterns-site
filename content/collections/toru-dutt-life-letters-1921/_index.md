@@ -307,27 +307,27 @@
   {
    "format": "epub",
    "file": "toru-dutt-life-letters-1921.epub",
-   "bytes": 389570,
-   "sha256": "e8a0730ff7a0b8d1c8e25bc53cb2df3c317c2d2eaf686dbf66c8a88deb532dc7"
+   "bytes": 389629,
+   "sha256": "4b08414a850665be40bbb91099842b0ff2aede8aba67627e77fdc6dfc04a787c"
   },
   {
    "format": "markdown",
    "file": "toru-dutt-life-letters-1921.md",
-   "bytes": 755616,
-   "sha256": "281ab27e86ce7afda9bba81148d2c926c2bae5826ab120d8c577794827cf55db"
+   "bytes": 755199,
+   "sha256": "b2e03f320412bf598398b54779ec04acc8a3829e4ae2cb26deee5e867eaaf917"
   },
   {
    "format": "tei",
    "file": "toru-dutt-life-letters-1921.tei.xml",
-   "bytes": 881291,
-   "sha256": "cc6243c57279e75f9a776b0c8bfe3f9060ca6b806d979bb839631d7268647d5c"
+   "bytes": 882124,
+   "sha256": "3d51c007385e37f04ee104c9770aa6280596a60dba795d10e251b4de58080393"
   }
  ],
  "scan_base": "https://archive.org/download/lifelettersoftor00duttuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T21:17:58Z",
-  "source_ast_sha256": "f7079a956995ec0f00da43476ba9177e40292a13d9fdd47c928818635ee00429",
+  "compiled_at": "2026-11-28T12:58:30Z",
+  "source_ast_sha256": "ed236e6787e0eba4731feb92106fc60e1897b00020f7ffa820aeef0344eed8cd",
   "hugo_renderer_version": "1.0.0"
  }
 }

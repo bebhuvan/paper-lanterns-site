@@ -209,8 +209,8 @@
   {
    "format": "epub",
    "file": "cortes-letters-vol1-1908.epub",
-   "bytes": 361963,
-   "sha256": "a0b9045aa2b57f6e278d453f5584bc681b915c51f09ecea95e50d1a2288f5d20"
+   "bytes": 361986,
+   "sha256": "d2dfa4ceae760d49534dc4b1a309694de96d292e77469a64ab3dca221751552e"
   },
   {
    "format": "markdown",
@@ -228,7 +228,7 @@
  "scan_base": "https://archive.org/download/lettersofcorts01cortuoft/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-28T05:26:04Z",
+  "compiled_at": "2026-11-28T12:55:44Z",
   "source_ast_sha256": "6fc562e3f452ecf254289450ac390e21ec6f0ace18978360e1de72b1c79636d5",
   "hugo_renderer_version": "1.0.0"
  }

@@ -774,8 +774,6 @@ I was delighted to find him thus fall into the topic I desired; and eagerly expr
 
 “Admirable! my good Father, your doctrine is most convenient. So, you may reply Yes or No, at your pleasure! It is impossible to estimate too highly such an advantage. I now see the use of the opposing opinions held by your authorities on all subjects; for the one are always serviceable, and the other can never be injurious. If you don’t find your account on the one side, you try the other, and are thus always secure.” “It is very true,” he replied; “and thus we can always say, with Diana, who had Father Bauny on his side, while Father Lugo was against him,
 
-> **[verse_insert]**
->
 > ‘Sœpe, premente Deo, fert Deus alter opem.’  
 > ‘Si quelque Dieu nous presse, un autre nous delivre.’
 
@@ -1163,8 +1161,6 @@ But if you are desirous indeed that I should briefly exhibit to you a conduct at
 
 To begin, then, with the contemptuous manner in which the authors of your school deal with sacred things, whether in their jocularities, their gallantries, or their serious discussions, would you consider the various absurd stories introduced by your Père Benit, into his “ Consolations for the Sick,” as very appropriate to his ostensible design of furnishing Christian consolation to those who are suffering under the afflictions of God? Would you maintain that the profane and wanton manner in which the Père Le Moine talks of piety, in his “ Devotion made Easy,” is calculated to inspire respect for the picture he draws of Christian virtue? Does his entire work of “ Moral Portraits”—whether the prose or the verse—breathe of aught but the vanity and follies of the world? Is the poem in the seventh book entitled “ Praises of Modesty,” worthy of an ecclesiastic, purporting to show that every thing fair blushes, or is subject to blushing? It professes to be intended to console a lady, who is called Delphine, and who had a habit of frequent blushing. The burthen of each stanza is, that every thing most admired is of a blushing hue, such as roses, pomegranates, the lips, the tongue; and it is amongst these gallantries, disgraceful to a Pietist, that he dares indecently to mix up allusions to those *blessed spirits* who stand before the Lord, and whom the Christian should never name but with reverence.[^fn-p0277-1]
 
-> **[verse_insert]**
->
 > ‘ Les chérubins, ces glorieux  
 > Composés de tête et de plume,  
 > Que Dieu de son esprit allume,  

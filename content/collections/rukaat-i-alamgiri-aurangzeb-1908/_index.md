@@ -215,8 +215,8 @@
   {
    "format": "epub",
    "file": "rukaat-i-alamgiri-aurangzeb-1908.epub",
-   "bytes": 250908,
-   "sha256": "1ce8e159291b0e9bb2e133bb0b236540638541c7967bf2917c3b06e3c8251dce"
+   "bytes": 250935,
+   "sha256": "cdb1815f26c9ff74a091f860efae4ee36eaf9d97d690e9c6d00bdc179b9a844d"
   },
   {
    "format": "markdown",
@@ -234,7 +234,7 @@
  "scan_base": "https://archive.org/download/rukaatialamgirio00aurarich/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-v1",
-  "compiled_at": "2026-11-27T21:15:54Z",
+  "compiled_at": "2026-11-28T12:57:55Z",
   "source_ast_sha256": "1665de71c75f3f7e464f8b09618622a21fbdf00d62e05d00589bd5533e7bf471",
   "hugo_renderer_version": "1.0.0"
  }

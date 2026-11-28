@@ -197,14 +197,14 @@
   {
    "format": "epub",
    "file": "cicero-letters-vol2-1899.epub",
-   "bytes": 471269,
-   "sha256": "83c3b168270413f7ef061cbc95495760a48ffa029910267d7e8e21ba20db9ab7"
+   "bytes": 471295,
+   "sha256": "4eaae3d5a8c1fcae8a665064fea9b9a86370ba1d530531274a1869cfe2075ef2"
   },
   {
    "format": "markdown",
    "file": "cicero-letters-vol2-1899.md",
-   "bytes": 932268,
-   "sha256": "dce525054012f2eb0d879f9470dbe1ef496d07e6d3342b399ed4d68afdda1c04"
+   "bytes": 931890,
+   "sha256": "4924285e9f82ae4b2b06fd6095ecdf676396d86fec2ad9bcfce2367174a73a21"
   },
   {
    "format": "tei",
@@ -216,7 +216,7 @@
  "scan_base": "https://archive.org/download/lettersofcicerow02cice/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T11:42:36Z",
+  "compiled_at": "2026-11-28T12:55:48Z",
   "source_ast_sha256": "3e164f7bcd2a5cbd5ce08bcd8170e884ca468e0f697fb5b5ed9e02e8f1ac975d",
   "hugo_renderer_version": "1.0.0"
  }

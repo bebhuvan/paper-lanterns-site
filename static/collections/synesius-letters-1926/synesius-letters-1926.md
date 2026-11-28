@@ -285,9 +285,7 @@ Andronicus was not long in declaring himself, for his first act on arriving at C
 
 He at once declared war upon the evildoer. He addressed stern letters of remonstrance to him, and was not long in showing him that he meant to force him to amend his ways, or to forfeit his position as governor of the province. This struggle between the civil governor and the ecclesiastic is very typical of the political conditions of the fourth and fifth centuries. As the Church had grown in the number of its congregations, the bishops all through the Roman Empire had increased in political power and prestige. The Church had become an *imperium in imperio*, and no man could set limitations to its ultimate power, because it was on the one hand the official religion of the Empire, and because on the other hand, by the decrees of Theodosius, the celebrations of pagan rituals had been forbidden by law. But there was another thing which rendered the power of the Church peculiarly drastic. This was the right of sanctuary [^fn-p0051-1]— a privilege which persisted with more or less success during the Middle Ages. Again, there were the terrible consequences of excommunication. We shall see with what effect these weapons were wielded in this struggle between the governor and the bishop. Andronicus at first showed nothing but contempt for his remonstrances and admonitions. He displayed a spirit of bravado, and seemed to delight in attacking not only the bishop himself but the whole body of priests ; growing more and more reckless, he sought to establish a despotic authority by openly persecuting the Christian religion itself. He challenged the sacred right of sanctuary, a right which had existed in the pagan temples, as it existed in the Christian churches at this period. He finally went to the insane length of forbidding any one whom he was persecuting to claim the right of sanctuary, and even had the audacity to post a proclamation on the church door to this effect. The bishop replied by his celebrated philippic *Against Andronicus* (Letter 57), in which he accuses him as one guilty of a second crucifixion. But all in vain; and as there seemed no other issue, the bishop finally called his congregation into the church, and reading to them assembled together this scathing condemnation, he solemnly pronounced before them the sentence of excommunication which, if approved by his clergy, he intended to address as an encyclical letter to all the other churches. But he had reckoned without his host. For the clergy who surrounded him lacked the civic courage of their fiery leader, and when Andronicus, who was now in a state of terror, appeared before them as a suppliant and promised to amend his ways, they seem to have brought pressure upon Synesius to suspend, although he did not revoke, his sentence of excommunication. This Synesius reluctantly agreed to do. He tells Andronicus that if he amends his ways, not merely will the clergy pray that his sins may be forgiven, but will admit him again to pray in church. ‘Your punishment’, he says, ‘is suspended or deferred according to your own future acts.’ The event showed that the bishop was right in his first judgement and the clergy wrong, for Andronicus recommenced his evil courses ; in the end, the excommunication had to take place, and an encyclical letter was sent out to all the churches. The results of an excommunication in those days must have indeed been terrible, if we can judge aright from reading the terms of the sentence. ‘I exhort, therefore, every private individual and ruler not to be under the same roof with them, nor to be seated at the same table, particularly the clergy, for these shall neither speak to them while living, nor give them burial when dead.’ This must have amounted to a social boycott, and, of course, would automatically render it impossible for an official to discharge the functions of his office. It would seem, therefore, that the Church by handling dexterously the right of sanctuary and the prerogative of excommunication she possessed, could always in the end get the better in the struggle. But now a curious phenomenon occurs, and is well worthy of observation, as significant of the curious moral nature of Synesius. The bishop, who has been hurling his thunderbolts at his adversary; who has described him as ‘a being beyond the pale of sympathy or forgiveness by God or man’; once he sees the enemy of the Church prostrate and excommunicated by his own initiative, is the first to take pity upon him. After speaking against him with the relentless sternness of an Old Testament prophet, he seems to have been touched by the Christian spirit of forgiveness, and he writes to Theophilus, the Primate of Alexandria, in the following strain:
 
-> **[enclosure]**
->
-> > ‘The Church detested this man Andronicus on account of his crimes, but now she who had urged on his fall has taken pity on him, for that he has exceeded the measure of her malediction. . . . If your sacred person judges that this unfortunate man is worthy of any interest, I shall regard it as a signal proof that God has not yet entirely abandoned him.’[^fn-p0053-1]
+> ‘The Church detested this man Andronicus on account of his crimes, but now she who had urged on his fall has taken pity on him, for that he has exceeded the measure of her malediction. . . . If your sacred person judges that this unfortunate man is worthy of any interest, I shall regard it as a signal proof that God has not yet entirely abandoned him.’[^fn-p0053-1]
 >
 > This letter to Theophilus has been regarded as a sign of weakness on the part of Synesius, but it may be taken rather as an evidence of his humanity of sentiment and Christian feeling.[^fn-p0053-2] Another side-light on his character may be found in a passage of his impeachment of Andronicus. It would seem from this that he was rather anxious than otherwise to restrict the political authority of the Church and to keep it within its more purely ecclesiastical sphere. Quite consistently with this doctrine, he waited to proceed against Andronicus until the latter, by his own proceedings against the Church and violations of the right of sanctuary, had laid himself open to an attack from the religious side. ‘I have waited’, he says to his congregation, ‘to make you convinced with me by the logic of facts that to join together the political with the ecclesiastical forces is to combine the uncombinable. Past ages made the same men priests and judges. Then later . . . God separated their lives. One was appointed to the priestly and the other to the governing order.’[^fn-p0054-1] Druon remarks[^fn-p0054-2] that a complete separation of the temporal and spiritual powers was not as yet in the popular mind ; that the direct temporal action of the bishops was not only useful but often necessary. This, at all events, was the view of the Emperors, for they were always calling the bishops to their assistance and, indeed, made a sort of magistracy of them. He thinks that the disinclination of Synesius to take a part in the political functions of his office was caused purely by his philosophic disdain of whatever concerned the masses. I cannot quite read this into the passage in question. Whether such a feeling was contributory to the doctrine he expresses on this point it would be impossible to say, but the statement he makes expresses a view which was certainly a very advanced one for his time, and, as we are aware, a view that has not been entirely realized as yet by Christendom.
 
@@ -1119,8 +1117,6 @@ I have just sent you a present, a horse most perfect in every quality that befit
 
 I have hired a ship for you furnished with a crew of sailors of good stock, sailors who trust more to skill than chance in navigation. These vessels of the Carpathians[^fn-p0117-2] have the reputation of being endowed with intelligence, as were the famed ships of the Phaeacians[^fn-p0117-3] before the wrath of the Gods beat upon their island.[^fn-p0117-4]
 
-> **[verse_insert]**
->
 > τοῖσιν δ᾽ Ἀλκίνοος ἀγορήσατο καὶ μετέειπεν·  
 > “ὦ πόποι, ἦ μάλα δή με παλαίφατα θέσφαθ᾽ ἱκάνει  
 > πατρὸς ἐμοῦ, ὃς φάσκε Ποσειδάων’ ἀγάσεσθαι . . .  
@@ -1515,8 +1511,6 @@ I have just sent you the treatise,[^fn-p0172-1] written in Attic style and of fi
 
 The following is a famous epigram of mine. How could it fail to be famous, when great Nicander himself has praised it ?
 
-> **[verse_insert]**
->
 > Image of golden Cypris or of Stratonice.
 
 You know, of course, that it was addressed by me formerly to my sister ; you may learn so much from the verse. Theodosius of the Emperor's Guard is the husband of this one, the dearest to me of my sisters, to whom I have done honour with an epigram and a statue.[^fn-p0172-2] If one took account only of the duration and assiduity of his military services, Theodosius would have been promoted long ago, but intrigue is more powerful than years of service. Try to help him, therefore, in this way, even in lawsuits which he may have to go through before Anthemius. May he obtain the great Nicander's protection !
@@ -1557,8 +1551,6 @@ He is also exacting a sum for the needs of the court.[^fn-p0175-3] Ever he finds
 
 This is the story which Thoas whispers in the ears of every one. On this account Andronicus refuses to allow Maximinus to contribute, and holds off by threats those who wish to purchase the property of Leucippus. It is not a question of replenishing the public treasury, but of giving back health to the prefects. The prefects made Thoas alone come home, he says, and, without any other witness of their interview than the sophist himself, they disclosed the dream to him. Then, as Thoas declares on oath, the harbours were closed until he should first have sailed out and communicated the secret to Andronicus, in order that none of those that deserved to die in place of Anthemius might escape in secret. Therefore, as the result of a dream seen by another, or rather said to have been seen, Pentapolis fares evilly in a waking state. Andronicus, who has been entrusted with this information, and is to be the benefactor of the prefects’ prosperous house, ‘now rages madly, trusting in’ Thoas. ‘He no longer’ knows how to ‘ respect—
 
-> **[verse_insert]**
->
 > Or Gods or men, wild frenzy holds him fast’.[^fn-p0177-1]
 
 In the sad state into which our city has fallen, Evagrius had no need to consult a prophet to predict that he was bound to come off badly, if his case should come up before the courts. Andronicus himself announced his intentions beforehand, not to outsiders, but direct to Evagrius himself. He bade him to be wise in time, and to take up the public duties of his own free will. For he would certainly give *his* vote for condemnation. Now I have made it my defence before God, the divine Dioscurides, and all men, that in worldly matters I myself am become more dishonoured than I was honoured, and weak instead of strong. When I was away, Andronicus courted my power, for that I twice saved him at Alexandria from prison. When I came back here, however, he showed himself quite another man to me; by your sacred head, I swear it. When I was so unfortunate as to lose the dearest of my children, I might even have rid me of my life, so crushed was I with grief, and grief has always found me too much like a woman, as you know well. If I ended by overcoming my grief, this was not by any effort of my reason. It was Andronicus who changed the whole current of my ideas, and compelled me to think about nothing except public disasters. Troubles have become for me a consolation for troubles, drawing me towards them, and pushing out grief by grief. All the sadness that I felt for the death of my boy has given way to another sort of sadness mingled with wrath. You must know that my death had been predicted to fall upon a certain day of the year. That day turned out to be the one on which I entered on the priesthood. I felt a change in my life, I who up to the moment have held festal assemblies in it, and have enjoyed honour from men, and benevolence such as has been granted to no philosopher before me— no less outwardly than in the state of the soul.
@@ -1681,8 +1673,6 @@ When, however, you say that you are sure that friendship with me is Julius' grea
 
 It is true that the man is detestable. He talks with the intent to injure me, and only opens his mouth for the purpose of backbiting me. His purpose therefore is not blameless, but culpable.[^fn-p0188-2] Nevertheless, let him know, or rather let him not know all this, for in the latter case he might cease benefiting me.[^fn-p0188-3] You at any rate must know by experience the truth of the old proverb, ‘Even enemies have their uses.’ Now this has been proved by the facts. After all, what does the fellow not contribute for my glory? When people desire to speak well of me, if they are at a loss how to add to their praise of me, the highest eulogy, the very *ne plus ultra* of praise, is theirs in these few words, ‘Julius speaks ill of him.’ What a swarm of truths is there not in this one phrase, for to be antagonistic to every kind of evil is to be intimate with every kind of virtue! For myself, I could never be conscious of such virtue. It is he who declares it, and as everything he denies gains credence, I am very grateful to him for this result. I swear by thy sacred head and by the life of my children, that there is no greater favour he could confer on me than to slander me, for this is the highest claim that I have to the esteem of God and man. Julius will end in being punished for his line of conduct, not that I shall ever take vengeance on him—no, perchance not even if I could, would I do so; and certainly even if I would I could not. What influence could an unfortunate man like me have with the present governor? hunted as I am from my home, wandering without hope of return, with the enemy encamped on my property, and making of my house a base whence to menace Cyrene. To whom then, to whom will he pay the penalty? To Justice herself. I pledge myself to this. I am profoundly convinced of it. Justice will overtake him in behalf of me and our common city, for it is for her sake we have adopted opposite courses in public affairs, and on her account that we have become enemies—he and I. Even he could not say that I acted for any private interest of my own, for in the first place I saw the army and the senate falling under the yoke of mercenaries, and I endeavoured to resist.[^fn-p0189-1] Then the matter of the embassy was a most conspicuous cause of discord between us. I pass over the case of my friend Dioscurides; for that was conducted with restraint, and so as not to stir up the wrath of God or man. Clearly it is Justice about whom we sing with the lyre thus:
 
-> **[verse_insert]**
->
 > Thou comest in secret at their heels,  
 > Thou bendest the proud neck,  
 > Thy law imposes itself on every mortal.
@@ -1867,8 +1857,6 @@ Scarcity of food is a good forced upon us. Some one else might even scoff at the
 
 ‘To the mountain, or the wave of the much-sounding sea’[^fn-p0214-1] Homer banishes the evils arising from contention, but Philosophy does not allow these even at the first to approach the soul. We are too weak to be philosophers, at least I am, but nevertheless we do not at all wish to conduct ourselves in a less worthy manner than those men of arms about whom the poem was written. I therefore borrow this other verse from Homer, who says somewhere:
 
-> **[verse_insert]**
->
 > Do you begin, for you are younger in years.[^fn-p0214-2]
 
 May there be no conflict, but if it comes, may the youngest begin it, for some such thing as this was in Poseidon’s mind when he made way for a god younger than himself to open the conflict. It is the part of the elder to be the leader in noble actions, and the noblest thing of all is concord. In my case, not merely am I older than you, but I am even already an old man. As Pherecydes says, you can see it in my skin.[^fn-p0214-3] Therefore the matter of an apology devolves upon me. If the man who is first wrong, ought always to be the first to give in, and if you wish me to be that man, I grant this also for your sake. For since I first made a claim on you, it is right that I should at once accord you a favour which you desire.
@@ -1887,8 +1875,6 @@ If you have heard of the late Maximinianus (he spent a great deal of time at cou
 
 It is evident that you will be of great assistance to him in his present difficulties, for he is being attacked by the informers who unfortunately abound in Cyrene,
 
-> **[verse_insert]**
->
 > Unless you arm yourself with valour.[^fn-p0215-1]
 
 Whatever you shall persuade Anthemius or any one of his colleagues to say in defence of us and the truth, will be entirely your own act, and you will have the credit of all that takes place.
@@ -1933,8 +1919,6 @@ For my part, I would willingly give a victor's wreath to all those who participa
 
 #### 123 *To Troilus* 71
 
-> **[verse_insert]**
->
 > Even though there shall be utter forgetfulness of the dead  
 >     in Hades,  
 > I shall remember there my so dear companion.[^fn-p0219-1]
@@ -1945,8 +1929,6 @@ These lines were written by Homer, but as to the meaning of them, I know not whe
 
 #### 124 *To the Philosopher* (*Hypatia*) 24
 
-> **[verse_insert]**
->
 > Even though there shall be utter forgetfulness of the dead  
 >    in Hades,[^fn-p0220-1]
 
@@ -1996,14 +1978,10 @@ When you asked Cerialis to bring me your congratulations, you did him this good 
 
 This was soon known to the Macetae; these half-barbarous people told the story to the barbarians themselves and these latter
 
-> **[verse_insert]**
->
 > Came countless like the leaves and flowers in spring.[^fn-p0226-1]
 
 Alas! for the young men we have lost. Alas! for our crops which we hoped for in vain! We have planted our fields for the fires lit by our enemies. Our wealth for the most of us was our cattle, our herds of camels and of horses which grazed on the prairie. All are lost, all have been driven away. I feel that I am not master of my grief, but forgive me. I write to you shut up behind ramparts and besieged. Often in an hour I see torches gleaming, I am lighting some myself, and raising them as signals to others. But those hunts of yore which drew us on so far, and in which we rejoiced formerly in perfect safety, thanks, above all, to you, all these have gone. It is with a groan that we call to mind ‘those young years, that mind, and those thoughts’. To-day we suffer from entire lack of horses, the country is held by the enemy, and I, placed as a sentinel between two towers, am struggling against sleep.
 
-> **[verse_insert]**
->
 > To my lance I owe my bread,  
 > To my lance I owe my wine (Ismarian),  
 > Leaning on my lance I drink.[^fn-p0226-2]
@@ -2082,8 +2060,6 @@ I once heard one of our brilliant speakers praising the practice of letter-writi
 
 If there is such a sting of persuasion in letters, if even without your living sympathy and charm the images of your character cast such a spell over those who read, to converse with you face to face would be irresistible indeed. For my part, as long as I was in your company, you charmed me by the sweet siren of your voice. Nevertheless, I should not be ashamed to tell you the truth that a pleasure still sweeter would be our second meeting, for the perception of a present good cannot compare with that of an absent good, to him who has once made trial. Moreover, the continuity of the enjoyment steals away the sensation of joy, but he who has been separated even a little while from pleasures, retains a proportionately poignant memory of those things which he actually lacks. May you come to me, friend who are so dear to me! Let us take up again our discourses on philosophy, and build up something worthy of our beginnings, that from perfect things a perfect beauty may be manifest, not one that is marred. But if we are fated to remain deprived of each other's company, which God forbid, the loss will certainly be mine alone, for where you are, education flourishes amongst a multitude of men, and there will be with you many like Synesius and many better than he. My city is dear to me because it is my city, but it has become, I know not how, insensible to philosophy. It is therefore not without apprehension that I feel myself alone and without help in the absence of one with whom to share my philosophic frenzy. But even if we should admit that there are some such,
 
-> **[verse_insert]**
->
 > How could I forget Odysseus equal unto the Gods![^fn-p0239-1]
 
 Leaving your sacred soul, against what other piece of wood could I rub myself, and bring forth a luminous child of reason? Who will be so able by every contrivance powerfully to call forth a hidden spark which loves to conceal itself, to ignite it, and reveal a brilliant flame? United or separated, may God be always with us! If God is present, there is a path in every pathless place. Farewell; philosophize, and raise the divine within you to the first-born divine. For it is a beautiful thing that my whole letter should say from me to your honoured self what Plotinus, the story goes, said to those present as he released his soul from its body.[^fn-p0239-2]
@@ -2110,8 +2086,6 @@ Do not be surprised that I am giving two letters for you to the same messenger. 
 
 On reading over your letter, I recognize Odysseus at once. Many traits of character therein recall that hero to my memory, but I do not recognize Proteus.[^fn-p0242-1] It is not improbable that a man like you might approach the demigods; but for my part, although wise in a way, although knowing myself, in accordance with the Delphic injunction, I condemn the feebleness of my own character, and I disclaim an affinity with heroes. My whole ambition would be rather to imitate their taciturnity, the very thing which, like the Spartan Menelaus, you have muddled; so well indeed that you seem to belong no longer to Odysseus alone, but to a pair of heroes. But enough of all this. While you blame your own lack of taste for writing, you have no right to ask me for an abundance of letters that would only weary you. I have therefore reduced the length of this one, so that you may not give yourself more trouble by reading more. Take care of your health and live on in cheerfulness. Work at philosophy, my admirable friend, and it will conduct you to the divine. Give my regards to the noble Count; we have not allowed ourselves a personal interview with him; for the words of the poem are:
 
-> **[verse_insert]**
->
 > Commence, you are the younger.
 
 Thus he allows the younger the right to begin war and strife, the elder benevolence. But the man is honoured by me and is in every way worthy, for he alone of our time has conducted to the same goal education and military science, once walled off from each other by formidable barriers, and has discovered some ancient affinity in these callings. Proud as no other soldier, he turns away from that arrogance that dwells on the border of pride. Such a man as this I love, even if I do not write to him, and if I do not court him, I honour him.
@@ -2162,8 +2136,6 @@ I think you are a happy man beyond all power of expression, inasmuch as you have
 
 I have neglected the duty to pay tribute, but what could I do? Not one of the Greeks settled in Libya is willing to dispatch merchantmen to your sea. At the same time I release you from your own contribution, for Syrians never take the trouble to call at the ports of the Cyrenaïca, and if one did by chance come, I should never know of it. As a matter of fact, I do not live near the sea, and I very rarely come to the harbour. I have moved up country to the southern extremity of the Cyrenaïca, and my neighbours are such men as Odysseus was in quest of, when he steered from Ithaca, to appease the wrath of Poseidon, in obedience to the oracle :
 
-> **[verse_insert]**
->
 > Men, who know not of the sea  
 >  Nor eat food mixed with salt.
 
@@ -2297,8 +2269,6 @@ This very manner of approaching the problem gives us the means of cutting a flat
 
 As to the epigrams, they are of solid gold, and we have carved them and inserted them under the Antarctic circle in such places as are free from stars. The second of the two, the one in four lines, is ancient, and contains a general eulogy of astronomy :
 
-> **[verse_insert]**
->
 > Mortal I am, well I wot, and ephemeral ; yet when I thread my  
 >   Way through the crowded stars, hemming me this way and that,  
 > No more do I touch with my feet the dark earth, but in union  
@@ -2309,8 +2279,6 @@ But that which takes precedence of this, the stanza in eight lines, was written 
 
 It professes to show the places of the stars, not their positions in respect to the zodiac, but in respect to the equator. For it has been shown in my work that it is impossible to take the positions in reference to the former. And it says that the obliquities have been represented, I mean of the parts of the zodiac with respect to the parts of the equator, and for all of them the ascensions also. That is to say, that as many divisions as there are of the zodiac, there are so many in the equator, and the same equator is divided accordingly. And this is the poem—let it be set down for such as may read it later, since for you it is enough that it lies on the tablet :
 
-> **[verse_insert]**
->
 > Wisdom has found a path to the heavens—O mighty marvel!  
 > And intelligence has come from these heavenly beings.  
 > Behold! it has also ordered the curved form of the globe,  

@@ -926,8 +926,6 @@ Nohant, 15 January, 1867
 
 Here I am at home, fairly strong except for several hours during the evening. Yet, *that will pass. The evil or he who endures it*, my old curé used to say, *can not last*. I received your letter this morning, dear friend of my heart. Why do I love you more than most of the others, even more than old and well-tried friends? I am asking, for my condition at this hour, is that of being
 
-> **[verse_insert]**
->
 > *Thou who goest seeking,  
 > At sunset,  
 > Fortune! . . .*
@@ -1894,8 +1892,6 @@ Well, you have written a masterpiece, that’s true! and a very amusing one. My 
 
 My mother is going in a few days to Dieppe, to her grandchild’s. I shall be alone a good part of the summer, and I plan to grub.
 
-> **[verse_insert]**
->
 > “I labor much and shun the world.  
 >  It is not at balls that the future is founded.”  
 > (Camille Doucet.)

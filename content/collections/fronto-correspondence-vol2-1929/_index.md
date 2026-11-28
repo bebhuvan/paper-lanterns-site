@@ -352,14 +352,14 @@
   {
    "format": "epub",
    "file": "fronto-correspondence-vol2-1929.epub",
-   "bytes": 262923,
-   "sha256": "9ae78c60dd592601ef39e137e889fc6dfeca58188410a3ad9e8186f43b167697"
+   "bytes": 262950,
+   "sha256": "9058925b94dd37b840e787a46c2ce6d4a412b52e43d749204b5f4fef25db3bea"
   },
   {
    "format": "markdown",
    "file": "fronto-correspondence-vol2-1929.md",
-   "bytes": 428781,
-   "sha256": "701b572082628850cee7d0d0810c0489e93e2858be8d93ad2e7f07869ed95129"
+   "bytes": 428685,
+   "sha256": "8856aa98222699dcdd987759d120f98820b7c8881d42770b05895715f0c2efbd"
   },
   {
    "format": "tei",
@@ -371,7 +371,7 @@
  "scan_base": "https://archive.org/download/frontocorrespond0002crha/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T11:42:15Z",
+  "compiled_at": "2026-11-28T12:56:30Z",
   "source_ast_sha256": "c756ef45470ae93279143c732315e1db0b4bcfb7832ce842aca10af8965622a7",
   "hugo_renderer_version": "1.0.0"
  }

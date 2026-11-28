@@ -198,14 +198,14 @@
   {
    "format": "epub",
    "file": "mary-shelley-letters-1918.epub",
-   "bytes": 167527,
-   "sha256": "1b0f90e9ce9c9642c792238a2f9c11a5736fe3d6b59343d55ace79ef7b327d72"
+   "bytes": 167553,
+   "sha256": "99dc1bdb7f2ff3cca4fc6b0836c717277a5deabb138237f0e4e48a4b9e13da37"
   },
   {
    "format": "markdown",
    "file": "mary-shelley-letters-1918.md",
-   "bytes": 213988,
-   "sha256": "bf4a0b3acaf5436d96e54264b3fa569e0c59eccb43505766425d09431697ed80"
+   "bytes": 213942,
+   "sha256": "07cb60120edd066cf67f71e7ba58982a4bf0ac23fac26781d348e37ce6f0105e"
   },
   {
    "format": "tei",
@@ -217,7 +217,7 @@
  "scan_base": "https://archive.org/download/lettersofmarywshe00shel/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:25:01Z",
+  "compiled_at": "2026-11-28T12:56:48Z",
   "source_ast_sha256": "bdaa6f2aeb81ab13c8061a91fde442d55b3031291844c2c4733092a252f02dd8",
   "hugo_renderer_version": "1.0.0"
  }

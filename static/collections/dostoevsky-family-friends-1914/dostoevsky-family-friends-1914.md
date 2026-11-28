@@ -502,8 +502,6 @@ Brother, I have read your poem. It urged some tears from my soul, and lulled it 
 
 moment of his highest creative rapture. But the shouting of the mob is empty and vain. There occur to me those lines of Pushkin, where he describes the mob and the poet:
 
-> **[verse_insert]**
->
 > “ So let the foolish crowd, thy work despising, scream,  
 > And spit upon the shrine where burns thy fire supreme,  
 > Let them in childish arrogance thy tripod set a-tremble. . . .”
@@ -1980,8 +1978,6 @@ The June number of the *Diary* pleased you, then. I am glad of that, and for a s
 
 And then there happened precisely what I had expected: even those newspapers and magazines which are friendly to me raised an outcry, saying that my whole article was hopelessly paradoxical; while the others bestowed not the smallest attention on it—and here am I, who believe that I have opened up the most important of all questions! That's what happens when one attempts to carry an idea to its issue! One may set up any paradox one likes, and so long as one doesn't carry it to its ultimate conclusion, everyone will think it most subtle, witty, *comme il faut;* but once blurt out the last word, and quite frankly (not by implication) declare: "This is the Messiah!" why, nobody will believe in you any more—for it was so silly of you to push your idea to its ultimate conclusion! If many a famous wit, such as Voltaire, had resolved for once to rout all hints, allusions, and esotericisms by force of his genuine beliefs, to show the real Himself, he would quite certainly not have had a tithe of the success he enjoyed. He would merely have been laughed at. For man instinctively avoids saying his last word; he has a prejudice against "thoughts said."
 
-> **[verse_insert]**
->
 > "Once said, the thought turns lie!"[^fn-p0264-1]
 
 Now you can judge for yourself how precious to me are your friendly expressions about the June number. For you have understood my words and taken them exactly as I thought them myself. I thank you for that; for I was already a little disillusioned, and was reproving myself for my precipitancy. If there are but a few members of the public who understand me as you do, I have done what I aimed at doing, and am content—my words have not been in vain. . . . But the rest at once proclaimed with cries of joy: “ He *is* so frightfully paradoxical !” And the folk who say it are precisely those who never had an idea of their own in their lives. . . .
@@ -2589,8 +2585,6 @@ I was invited to lunch with the other officials at the Governor's. I had known h
 
 At table the Governor assumed quite a different tone, and behaved like an ordinary mortal. He seemed in good spirits, asked me about my acquaintances, and let fall the remark that he was well aware of my relations with Dostoevsky. I made up my mind to play upon his better temper, and win him to Dostoevsky's cause. Dostoevsky had shortly before written a poem on the death of Tsar Nicholas I.; we wanted to send it through General Hasford to the widowed Tsarina. The poem began, if I remember rightly, in this way:
 
-> **[verse_insert]**
->
 > “ As evening-red dies in the heavens,  
 > So sank thy glorious spouse to rest. . .”
 
@@ -2606,8 +2600,6 @@ I was invited to lunch with the other officials at the Governor's. I had known h
 
 At table the Governor assumed quite a different tone, and behaved like an ordinary mortal. He seemed in good spirits, asked me about my acquaintances, and let fall the remark that he was well aware of my relations with Dostoevsky. I made up my mind to play upon his better temper, and win him to Dostoevsky's cause. Dostoevsky had shortly before written a poem on the death of Tsar Nicholas I.; we wanted to send it through General Hasford to the widowed Tsarina. The poem began, if I remember rightly, in this way:
 
-> **[verse_insert]**
->
 > “ As evening-red dies in the heavens,  
 > So sank thy glorious spouse to rest. . .”
 
@@ -2647,15 +2639,11 @@ In February I came to Petersburg. And now began an unbroken correspondence betwe
 
 I had known Count Eduard Ivanovitch Totleben from my school-days ; and had often met him at the house of my great-uncle Manderstyerna, then Commandant of the Petropaulovsky Fortress. He had attended the College of Engineering at the same time as Dostoevsky, and his brother Adolf had even been intimate with the latter. Directly I arrived in Petersburg I looked up Totleben, told him of Dostoevsky's insupportable lot, and begged for his support. I visited his brother Adolf also. Both showed warm sympathy for Dostoevsky, and promised me to do all they could. The name of Totleben was then in everyone's mouth, not only in Russia, but over all Europe. As a private individual, he was unusually attractive. The high honours with which he had been overwhelmed, had altered his character in no wise. He was still the same friendly, good-humoured, and humane person as when I had known him before the war. He did much for Dostoevsky by his intercession with Prince Orlov and other powerful men in Petersburg.
 
-> **[letter_excerpt]**
->
 > Dostoevsky esteemed Totleben very highly, and was much moved by his sympathy. In his letter to me of March 23, 1856, he writes: “He is through and through of knightly, noble, and generous nature. You can’t at all imagine with what joy I am following all that such splendid fellows as you and the Totleben brothers are doing for me.”
 
 But the greatest influence on Dostoevsky’s fate was that of Prince Peter von Oldenburg. He had known me since my school-days. He was Proctor of the school, and came there nearly every day. And now, therefore, I was called upon again to turn to Adolf Henselt. I delivered to the Prince, through Henselt, the new poem that Dostoevsky had written on the Coronation. He mentions this poem in his letter to me of May 23, 1856:
 
-> **[letter_excerpt]**
->
-> > “It would be, I think, clumsy to try unofficially for permission to publish my works, unless I offer a poem at the same time. Read the enclosed, then; paraphrase it, and try to bring it under the monarch’s notice in some way or other.”
+> “It would be, I think, clumsy to try unofficially for permission to publish my works, unless I offer a poem at the same time. Read the enclosed, then; paraphrase it, and try to bring it under the monarch’s notice in some way or other.”
 
 I did all I could. The Prince gave the poem to the Tsarina Maria Alexandrovna; whether it ever reached the Tsar’s hands, I know not.
 
@@ -2691,8 +2679,6 @@ Even a perfectly sound man could not have borne the harassed life that Dostoevsk
 
 He told me of one incident, among others, which will show how nervous and irritable he sometimes was. When in Paris, it had occurred to him to pay a visit to Rome. To do this, he had to have his passport signed by the Papal Nuncio in Paris. Dostoevsky went twice to the Nuncio's, but on neither occasion found him. When he went for the third time, he was received by a young abbé, who asked him to wait a while, as Monsignor was just breakfasting, and would take his coffee first. Dostoevsky leaped up as though gone suddenly crazy, and cried: "*Dites à votre Monseigneur, que je crache dans son café—qu'il me signe mon passeport, ou je me précipiterai chez lui avec scandale!*" The young abbé stared at him in consternation; he rushed into his chief's apartment, came back with another abbé, and requested our Fyodor Michailovitch to clear out at once, and let the porter of his hotel come and see about the passport.
 
-> **[letter_excerpt]**
->
 > "Yes—I was too hot-tempered that time!" concluded Dostoevsky, with a shy smile. But evidently this irritability long endured ; for in one of his later letters he writes : “ I have become frightfully nervous and irritable ; my character gets worse every day, and I can’t imagine what it will end in.”[^fn-p0366-1]
 
 ### <span class="small-caps">FROM THE REMINISCENCES OF<br />SOPHIE KOVALEVSKY</span>[^fn-p0367-1]<br />1866

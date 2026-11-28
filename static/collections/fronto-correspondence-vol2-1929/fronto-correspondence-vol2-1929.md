@@ -117,8 +117,6 @@ To the Emperor Antoninus.
 
 1. . . . . The God who begat the great Roman race has no compunction in suffering us to faint at times and be defeated and wounded. Or would Father Mars hesitate to say of our soldiers the words?—
 
-> **[verse_insert]**
->
 > *Full well I knew when I begot you, you would die:*  
 >   *I reared you for that end;*  
 > *Aye, when I sent you forth the wide world through the*  
@@ -188,9 +186,7 @@ Do you remember that speech of yours,[^fn-p0051-1] which you delivered in the Se
 
 9. Since mention has been made of *paraleipsis,* I must not fail to acquaint you with what I have noticed with regard to this figure in a somewhat careful search. None of the Greek or Roman orators that I have read has used this figure more happily than M. Porcius in that speech which is entitled *On his Expenses,*[^fn-p0057-1] in which he says as follows:
 
-> **[letter_excerpt]**
->
-> > *I ordered the volume to be produced containing my speech on the subject of my having made an agreement with M. Cornelius. The tablets were produced: the services of my ancestors were read out: then was recited what I had done for the state. The reading out of both these being finished, the speech went on as follows: "I have never either scattered my own money or that of the allies broadcast to gain popularity." "Oh, don't, don't, I say, record that: they have no wish to hear it." Then he read on: "Never have I set up officials in the towns of your allies to rob them of their goods, their wives, and the children." "Erase that too; they will not listen: go on reading." "I have never divided booty or spoil taken from the enemy or prize money among my select friends so as to rob those who had won it." "Erase as far as that too: they would rather hear anything than that; there is no need to read it." "I have never granted a pass to travel post, to enable my friends to gain large* *sums by these warrants."* " *Be quick, erase as far as that too most particularly."*[^fn-p0059-1] " *I have never shared the money for wine-largess between my retinue and friends, nor enriched them to the detriment of the state."* " *Marry, erase as far as that down to the wood."* Pray mark the pass to which the state has come, when I dare not now mention the very services I have done it, whereby I hoped to gain gratitude, lest it should bring odium upon me. So much has it become the fashion that a man may do ill with impunity, but not with impunity do well.
+> *I ordered the volume to be produced containing my speech on the subject of my having made an agreement with M. Cornelius. The tablets were produced: the services of my ancestors were read out: then was recited what I had done for the state. The reading out of both these being finished, the speech went on as follows: "I have never either scattered my own money or that of the allies broadcast to gain popularity." "Oh, don't, don't, I say, record that: they have no wish to hear it." Then he read on: "Never have I set up officials in the towns of your allies to rob them of their goods, their wives, and the children." "Erase that too; they will not listen: go on reading." "I have never divided booty or spoil taken from the enemy or prize money among my select friends so as to rob those who had won it." "Erase as far as that too: they would rather hear anything than that; there is no need to read it." "I have never granted a pass to travel post, to enable my friends to gain large* *sums by these warrants."* " *Be quick, erase as far as that too most particularly."*[^fn-p0059-1] " *I have never shared the money for wine-largess between my retinue and friends, nor enriched them to the detriment of the state."* " *Marry, erase as far as that down to the wood."* Pray mark the pass to which the state has come, when I dare not now mention the very services I have done it, whereby I hoped to gain gratitude, lest it should bring odium upon me. So much has it become the fashion that a man may do ill with impunity, but not with impunity do well.
 
 10. This form of *paraleipsis* is original and, as far as I know, not employed by anyone else. For Cato bids the tablets be read, and what is read he bids be waived aside. You also have shewn originality by beginning your speech with this figure, just as you will, I am sure, do many other original and brilliant things in your speeches, so great is your natural ability.
 
@@ -1722,8 +1718,6 @@ I made known[^fn-p0313-4] to you the greatness of my enterprize, and what things
 
 I <span class="small-caps">have</span> put Avidius Cassius in command of the Syrian army which is dissolved in luxury and living in the moral atmosphere of Daphne.[^fn-p0319-2] Caesonius Vectilianus described them as indulging wholesale in hot baths. And I think I have done right, for you too must have noted Cassius, a man of the old Cassian severity and discipline. Nor indeed can soldiers be ruled except by the ancient discipline. For you know that line of an excellent poet, which is in the mouths of all:
 
-> **[verse_insert]**
->
 > *Rome on her ancient ways and men unshakably standeth.*[^fn-p0319-3]
 
 You have only to see that the troops are plentifully provided with supplies. If I know anything of Cassius[^fn-p0319-4] I am certain they will not be wasted.
@@ -1802,8 +1796,6 @@ I <span class="small-caps">will</span> come myself as you suggest to Albanum to-
 
 <span class="small-caps">The</span> anxiety which you shew for your husband and our children, my Faustina, is natural. For I have read your letter again in the Formian Villa, in which you urge me to take vengeance on the accomplices of Cassius. But I intend to spare his children and son-in-law and wife,[^fn-p0331-1] and I shall write to the Senate not to permit any severer persecution or harsher penalty being inflicted on them. For there is nothing that can commend an emperor to the world more than clemency. It was clemency that made Caesar into a God, that deified Augustus, that honoured your father with the distinctive title of Pius.[^fn-p0331-2] Finally, if my wishes had been followed in respect to the war, not even Cassius would have been slain. So do not be troubled:
 
-> **[verse_insert]**
->
 > *The Gods protect me, to the Gods my loyalty is dear.*[^fn-p0331-3]
 
 I have named our Pompeianus[^fn-p0331-4] consul for the ensuing year.

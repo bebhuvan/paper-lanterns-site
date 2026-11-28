@@ -406,14 +406,14 @@
   {
    "format": "epub",
    "file": "ovid-tristia-ex-ponto-1924.epub",
-   "bytes": 298797,
-   "sha256": "3033367602a20db4b34e212983a0fedfc51cbc28344face82115da673d8cca37"
+   "bytes": 298823,
+   "sha256": "0125c34832ae1677c57acbfe993e24342ff89f8e7f92d346b16e49c34d2e3b32"
   },
   {
    "format": "markdown",
    "file": "ovid-tristia-ex-ponto-1924.md",
-   "bytes": 551252,
-   "sha256": "b91d65bbd3678f1a3cae7a1e7be1ebb26b9f3fa30f79cf9d53154e485a3b5ff7"
+   "bytes": 551229,
+   "sha256": "d36f0eef25825ed87642f68ee875808c301d6b5b8677e8a15377b48dbe3960a2"
   },
   {
    "format": "tei",
@@ -425,7 +425,7 @@
  "scan_base": "https://archive.org/download/ovid0000arth_j8i0/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T10:26:05Z",
+  "compiled_at": "2026-11-28T12:57:23Z",
   "source_ast_sha256": "e4fad71a57d829625de7a5fb92d479220a0df494b5ee860b6773755a5566e150",
   "hugo_renderer_version": "1.0.0"
  }

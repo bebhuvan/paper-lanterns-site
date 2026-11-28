@@ -174,14 +174,14 @@
   {
    "format": "epub",
    "file": "porphyry-marcella-1896.epub",
-   "bytes": 105478,
-   "sha256": "a2f5da7cfb9af924632fb781dbb62fff4b15c5b79f463364b34b014f07ee680d"
+   "bytes": 105504,
+   "sha256": "f6f5d5dbcd9125949ae3b181888a1ef306c55f7b3f8f5a3be087c2fcff08f93d"
   },
   {
    "format": "markdown",
    "file": "porphyry-marcella-1896.md",
-   "bytes": 92740,
-   "sha256": "30380e6e7c9a3c0fdca7683b67b66e428397687b8233f088f80e05a98df7b0d2"
+   "bytes": 92717,
+   "sha256": "3e0e0695d2bfaa6778edc1db79f5368539ab48b14c4d3127e77769344dbfc73f"
   },
   {
    "format": "tei",
@@ -193,7 +193,7 @@
  "scan_base": "https://archive.org/download/letterofporphyry0000alic/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T10:25:14Z",
+  "compiled_at": "2026-11-28T12:57:34Z",
   "source_ast_sha256": "fcf079f6a224885b33420c0cdbfa534185f6ab081c1e2a515bf2eeadb596a100",
   "hugo_renderer_version": "1.0.0"
  }

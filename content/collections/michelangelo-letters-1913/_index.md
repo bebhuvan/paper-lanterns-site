@@ -473,8 +473,8 @@
   {
    "format": "epub",
    "file": "michelangelo-letters-1913.epub",
-   "bytes": 287700,
-   "sha256": "c187b1da2a8ef06e3f592ee84ba6a992dcf3950f479722dcf985e3dc86b5b6ca"
+   "bytes": 287726,
+   "sha256": "7f2724bb1df0124fba6d2e9810fa2f589d8c72fb786226a7ccea739e3176586b"
   },
   {
    "format": "markdown",
@@ -492,7 +492,7 @@
  "scan_base": "https://archive.org/download/michelangeloreco00mich_0/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-27T21:13:29Z",
+  "compiled_at": "2026-11-28T12:57:15Z",
   "source_ast_sha256": "6cfcb3e35a51f943695847623a86f6f7e5467043955ef17774d9fae6f2e7c31a",
   "hugo_renderer_version": "1.0.0"
  }

@@ -605,8 +605,6 @@ But we have one consolation in our trouble; fair Tanaquil restrains our Lucumon:
 
 > *[Margin: 2]*
 
-> **[verse_insert]**
->
 > ‘Who wants back Saturn and his golden age?  
 >    We have the diamond age—Neronian.’
 
@@ -746,9 +744,7 @@ It is no foolish pride of mine, but this alien dominance which makes my letters 
 
 > *[Margin: 10]*
 
-> **[verse_insert]**
->
-> > ‘At dawn, or when the seething bath invites, or when the hot chase beads the brow, may goodly Filimatius with this cloth cherish his face till all the perspiration flows into the thirsty fleece.’
+> ‘At dawn, or when the seething bath invites, or when the hot chase beads the brow, may goodly Filimatius with this cloth cherish his face till all the perspiration flows into the thirsty fleece.’
 
 Our good friend Epiphanius the secretary had hardly taken down the lines, when they came to tell us that our time was up, and that the bishop was leaving his retreat; we therefore rose to go. You must not be too critical of verses written thus to order. It is another matter with the longer poem which some time ago you two asked me to write in a hyperbolical and figured style on the man who bore good fortune ill.<sup>1</sup> I shall send it off to-morrow for your private revision. If you both approve of it, you can then publish it under your auspices; if you condemn, you can tear it up and forgive me as best you can. Farewell.
 
@@ -1301,8 +1297,6 @@ A <span class="small-caps">short</span> while since at a large gathering of the 
 
 > *[Margin: 2]*
 
-> **[verse_insert]**
->
 > [^fn-p0138-1]‘Abraham, worthy to stand beside the celestial patrons whom I shall not fear to call thy colleagues, since they are gone before on the path which thou shalt follow; a share in the martyr's glory gives a share in the kingdom of heaven. Born by Euphrates, for Christ thou didst endure the prison, chains, and hunger for five long years. From the cruel King of Susa<sup>2</sup> thou didst fly, escaping alone to the distant land of the West. Marvels born of his holiness followed the steps of the confessor; thyself a fugitive, thou didst put to flight the spirits of evil. Wherever thy footsteps passed, the throng of Lemures cried surrender; the exile's voice bade the demons go forth into banishment. All sought
 
 thee, yet didst thou yield to no vain ambition; the honours acceptable in thy sight were those that brought the heaviest burdens. Thou didst shun the tumult of Rome and of Byzantium, and the walls of the city that warlike Titus breached.<sup>1</sup> Not Alexandria held thee, not Antioch; thou spurnedst Byrsa, the famed home of Dido.<sup>2</sup> Thou didst contemn the populous lands of Ravenna by the marshes, and the city named from the woolly swine.<sup>3</sup> But this corner of earth was pleasing to thee, this poor retreat, this hut roofed with reeds. Here didst thou rear a sacred house to God, thou whose own frame was already itself His temple. Here ended thy wanderings, here thy life's course; now thy labours are rewarded by a twofold crown. Now dost thou stand in Paradise amid the thousands of the Saints, with Abraham for thy fellow wanderer. Now art thou entered into thine own land, from which Adam fell; now lies thy way clear to the sources of thy native stream.'<sup>4</sup>
@@ -1910,8 +1904,6 @@ I should personally much prefer that when you divert yourself at the banquet you
 
 We were only granted just time for the allotting of the metres; for we had agreed, as honourable members of the poetical fraternity, that though the subject should be the same for all, the verses of each should be in a different measure, so that the unsuccessful competitors might be spared immediate mortification and subsequent jealousy of the victor. For if all is composed in the same metre, inequality of talent is much more easily detected. I recommend the enclosed to your approval, preferably at some hour of perfect relaxation. It would hardly be fair to subject it to a severe criticism when your friend was never able to give his whole mind to the composition.
 
-> **[verse_insert]**
->
 > [^fn-p0206-1] 'Come, flower of youth, called happily together. The place, the hour, the festal board, the theme, bid you extol to the skies the book which you now hear
 
 recited, now yourselves recite. It is the book of Petrus, master alike of prose and verse. Brothers, let us celebrate the pious festival of letters. Let all things ministering to delight usher out the day which now moves to its close, fair cheer, and wine and the dance.
@@ -1948,14 +1940,10 @@ Seeking a song for your lips, I have found one of my own. These trifles I drag i
 
 The inquiry which your messenger brings is: what do I mean by recurrent verses ? you want an immediate answer, with a concrete illustration. A recurrent verse is one which reads the same backwards and forwards without changing the position of a single letter, or making any alteration in the metre.<sup>1</sup> Here is the classic example :
 
-> **[verse_insert]**
->
 > *Roma tibi subito motibus ibit amor.*
 
 [Here is another :
 
-> **[verse_insert]**
->
 > *Sole medere pede, ede perede melos.*]
 
 There is another kind in which, though the metre is unchanged, only the words are read backwards, not the several letters. A distich of my own shall illustrate the point, though I am sure I have met with many others in the course of my reading. I amused myself by composing it about a brook which had been filled by sudden rain storms, crossing the highway with a noisy rush of waters, and overflowing all the tilled lands below.
@@ -1966,15 +1954,11 @@ It was merely a passing flood, swollen with transient rains, and not sustained b
 
 > *[Margin: 6]*
 
-> **[verse_insert]**
->
 > ‘ Praecipiti modo quod decurrit tramite flumen,  
 >     Tempore consumptum iam cito deficiet.’
 
 You see that, inverting the order, you get the following :
 
-> **[verse_insert]**
->
 > ‘ Deficiet cito iam consumptum tempore flumen,  
 >     Tramite decurrit quod modo praecipiti.’
 

@@ -359,8 +359,6 @@ I love you, I love you dearly, my little Toto.
 
 I am at Mayence, a place which has been French, which will become French again one day, — which still is so in heart and mind, and will be until it is marked thus on the map by the red or blue line of the frontier. Just now I was at my window overlooking the Rhine. I was listening vaguely to the noise of the water-mills moored to the old sunken piles of Charlemagne's bridge, and thinking of the great things which Napoleon did here, when from a neighboring window a woman's voice, a sweet voice, wafted me snatches of the charming lines : —
 
-> **[verse_insert]**
->
 > “ J'aime qu'un russe soit russe,  
 > Et qu'un anglais soit anglais ;  
 > Si l'on est prussien en Prusse,  
@@ -1419,9 +1417,7 @@ As regards the paper,[^fn-p0102-1] as at present advised, I agree with Auguste. 
 
 Talking of good politics and good literature, here is a noble letter : —
 
-> **[enclosure]**
->
-> > <span class="small-caps">Monsieur</span>, — As I do not admit your right to plunder my family, I cannot admit your right to assign me an allowance in the name of France. I refuse the dowry.
+> <span class="small-caps">Monsieur</span>, — As I do not admit your right to plunder my family, I cannot admit your right to assign me an allowance in the name of France. I refuse the dowry.
 >
 > <span class="small-caps">Hélène d'Orléans.</span>
 
@@ -1443,15 +1439,11 @@ I have spent the day with Marc Dufraisse, he dictating to me, and I writing. In 
 
 Yesterday I invited Girardin to dinner, and we talked together very cordially. He told me of an article of Gautier's which touches me. Thank Gautier for me. Girardin said that it was charming, and promised to send it me, as well as one by Janin. So you must thank Janin, too. I am sure that thanks coming from you will please him still more than if they came from me. I have just read a good paragraph in the *Emancipation,* a Jesuit and Bonapartist paper here. I transcribe it for you. The subject is the *Corps Législatif:* —
 
-> **[enclosure]**
->
-> > The elections are perfectly free. Yet a paper which should venture to suggest the name of Victor Hugo or of Charras to the electors would inevitably be suspended.
+> The elections are perfectly free. Yet a paper which should venture to suggest the name of Victor Hugo or of Charras to the electors would inevitably be suspended.
 
 This is delightful. Here is what the *Messager des Chambres* says on the same subject: —
 
-> **[enclosure]**
->
-> > What the ministry of the interior concedes ostensibly, freedom of voting, the police has orders to withdraw. Thus in the Faubourg Saint-Antoine several workmen, heads of families, have been threatened with a prosecution for clandestine printing, — for having printed, with one of the small lithographic presses which every tradesman possesses, tickets with the name of Victor Hugo. Of all the exiles, the illustrious poet is the one for whom M. Bonaparte has the most hatred: it is personal animosity, enhanced by the constantly increasing popularity of the poet. Detested in aristocratic and middle-class circles before the *coup d'état*, M. Hugo has regained all the ground lost in them. He is now considered one of the most energetic champions of law and liberty.
+> What the ministry of the interior concedes ostensibly, freedom of voting, the police has orders to withdraw. Thus in the Faubourg Saint-Antoine several workmen, heads of families, have been threatened with a prosecution for clandestine printing, — for having printed, with one of the small lithographic presses which every tradesman possesses, tickets with the name of Victor Hugo. Of all the exiles, the illustrious poet is the one for whom M. Bonaparte has the most hatred: it is personal animosity, enhanced by the constantly increasing popularity of the poet. Detested in aristocratic and middle-class circles before the *coup d'état*, M. Hugo has regained all the ground lost in them. He is now considered one of the most energetic champions of law and liberty.
 
 Shrove Tuesday here is very frolicsome, and rather farcical. From my room on the Grande Place I could see the centre of the masquerades. My window was a box for the play. The Flemings have a sleepy look all the year through. On Shrove Tuesday there comes an access of gayety which makes them wild. They are very funny in this state. They get five at a time into the same blouse, with enormous hats on, and dance together. They smear their faces, cover themselves with flour, paint themselves black, red, and yellow; it is killing. Yesterday the Grande Place was full of scenes from Teniers and Callots. And then deafening blasts from trumpets all the night. Under my window I read the following notice: *Société des Crocodiles. Dernier grand bal.*
 
@@ -1567,9 +1559,7 @@ The worthy man will be a Senator one of these days. He took his departure.
 
 More impromptu notes, dearest. Our dear good Deschanel, who will bring you this, is starting for Paris in an hour. Receive him as one of our best friends, as he is. I saw by a few lines from Paul in the *Indépendance* (thank Paul from me) that you had taken steps, and to some purpose, about the silly rumors spread by the Elysée on the subject of my *solicited return.* I had replied at once here by the following: —
 
-> **[enclosure]**
->
-> > Several papers announce that M. Victor Hugo has been *authorized* to return to France. It is difficult to account for such a report. M. Hugo formerly procured for M. Bonaparte permission to return to France. He has no need to solicit it from him to-day. Now you know all about my dialogue with the Elysée. I hope that this will silence him.
+> Several papers announce that M. Victor Hugo has been *authorized* to return to France. It is difficult to account for such a report. M. Hugo formerly procured for M. Bonaparte permission to return to France. He has no need to solicit it from him to-day. Now you know all about my dialogue with the Elysée. I hope that this will silence him.
 
 Dearest mamma, I spent such a nice evening yesterday. Alexandre Dumas has arrived, we dined together, and spoke about you. He told me again how every one loves and respects you, and I told him that every one is quite right.
 
@@ -3350,8 +3340,6 @@ Later on, I heard about the interior of Sainte-Pélagie from two old friends of 
 
 You are an exquisite poet and a charming friend. Do not be afraid, the variations of the magnetic needle called *fashion* are meaningless; they govern only the Scribe drama and Feuillet literature. Where you are, is taste; where you are, is art. Your exquisite, your beautiful odes in the *Charivari* appeal to *La voix de Guernesey.* Here it is. You will find it in a separate envelope. My echo answers you : —
 
-> **[verse_insert]**
->
 > “ Echo n’est plus un son qui dans l’art retentisse,  
 > C’est une voix qui dit : Droit, Liberté, Justice.”
 
@@ -3508,8 +3496,6 @@ I answer your question, dear sir, for you are witty, learned, and charming (I re
 
 May I tell you of another coincidence of which I was still more proud? It was in 1823. Lamennais, who had been my confessor (which of us two *perverted* the other?), came to see me one morning. I was writing some lines which I had just composed. Lamennais looked over my shoulder and read the following:
 
-> **[verse_insert]**
->
 > “Ephémère histrion qui sait son rôle à peine,  
 > Chaque homme ivre d'audace ou palpitant d'effroi,  
 > Sous le sayon du pâtre ou la robe du roi,  
@@ -3553,15 +3539,11 @@ I reply to your question. I heard of my appointment to the peerage on *the 16th 
 
 . . . It is *el Puente de los Contrabandistas.* I saw it in the Pyrenees, when I was a child. The Smugglers' Bridge was a terrible thing. It was used as a bridge by smugglers and as a gallows by justice. They were hung to the beams. That did not prevent them from continuing to pass over it. The bridge was also described as follows: —
 
-> **[verse_insert]**
->
 > <span class="small-caps">On marche dessus,  
 > On danse dessous.</span>
 
 I quoted, in the *Dernier jour d'un condamné,* the melancholy lines: —
 
-> **[verse_insert]**
->
 > “ Je lui ferai donner la danse  
 > Où il n'y a pas de plancher.”
 
@@ -3579,9 +3561,7 @@ The present is not much more attractive. But what a Morrow you will have, you wh
 
 What can I say? I am dazzled, intoxicated, overwhelmed. Your tender friendship gives me a glimpse of paradise, and I cannot enter it; I am bound and sentenced by my own line.
 
-> **[verse_insert]**
->
-> > “ Revenir sur ses pas à la porte du ciel ! ”
+> “ Revenir sur ses pas à la porte du ciel ! ”
 
 I wrote that and I am under its orders. This winter they thought I was very ill; the doctors told me that I must make a rapid journey across France and go to Nice. I replied: I have made an oath, I cannot put foot in France; I would sooner die first! But it is much easier to die than to resist you. When I think that she is there, facing me, she who unites all, she who combines beauty, grace, courage, commanding and bewitching intelligence, brilliant acquirements, deep poetry, and that she says to me: Come! and in such affecting and enchanting terms! — oh! not to obey, not to come, not to hasten to the spot, not to trample on the frontier, were it red-hot iron, and on the oath, were it writ in brass, do you know, madam, that that is a superhuman effort, and that I am almost prostrated by it! What! it is you who send me this flower! it is you who have written these lines! they were composed by you, they are destined for me, on your lips plays that angelic smile in which I fancy I see the birth of a star. That heavenly smile will welcome me. And I stay where I am! Alas! try to fathom the depth of this regret. What a stern thing sometimes is duty! I wrote this: —
 
@@ -3965,9 +3945,7 @@ I believe it.
 
 You have had the goodness to write the following lines about me, which have been communicated to me:—
 
-> **[letter_excerpt]**
->
-> > “ Victor Hugo, the great, the austere Victor Hugo, the magnificent poet of the democracy and of the universal republic, is also a poor man afflicted with a yearly income of more than *three hundred thousand francs* [underlined in the text]; some go so far as to say *five hundred thousand* [underlined in the text]. His infamous book *Les Misérables* brought him in five hundred thousand francs at one stroke. People always forget to mention the charity which his large humanitarian heart doubtless compels him to bestow on his dear clients of the working classes. He is said to be as stingy and selfish as he is boastful.”
+> “ Victor Hugo, the great, the austere Victor Hugo, the magnificent poet of the democracy and of the universal republic, is also a poor man afflicted with a yearly income of more than *three hundred thousand francs* [underlined in the text]; some go so far as to say *five hundred thousand* [underlined in the text]. His infamous book *Les Misérables* brought him in five hundred thousand francs at one stroke. People always forget to mention the charity which his large humanitarian heart doubtless compels him to bestow on his dear clients of the working classes. He is said to be as stingy and selfish as he is boastful.”
 
 Then follow two pages in the same strain on Ledru-Rollin, who is called “an old Croesus;” on Rochefort, who was *caught at Meaux with a lot of bank-notes in the lining of his clothes*; on Garibaldi, whom you call “Garibaldi-pacha,” *who makes war without fighting,* whose army consisted of *fifteen thousand bandits as brave as mice,* and who *ran away carrying off our millions,* etc., etc.
 

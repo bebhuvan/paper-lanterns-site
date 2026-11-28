@@ -266,8 +266,6 @@ Joseph Addison (1672–1719), not yet famous as the essayist of the *Tatler* and
 
 About three days ago Mr. Bocher put a very pretty snuffbox in my hand. I was not a little pleas'd to hear that it belonged to myself, and was much more so when I found it was a present from a Gentleman that I have so great an honour for. You did not probably foresee that it would draw on you y<sup>e</sup> trouble of a Letter, but you must blame yourself for it. For my part I can no more accept of a Snuffbox without returning my Acknowledgements, than I can take Snuff without sneezing after it. This last I must own to you is so great an absurdity that I should be ashamed to confess it, were not I in hopes of correcting it very speedily. I am observ'd to have my Box oft'ner in my hand than those that have been used to one these twenty years, for I can't forbear taking it out of my pocket whenever I think of Mr. Dashwood. You know Mr. Bays[^fn-p0023-1] recommends Snuff as a great provocative to Wit, but you may produce this Letter as a Standing Evidence against him. I have since y<sup>e</sup> beginning of it taken above a dozen pinches, and still find myself much more inclin'd to sneeze than to jest. From whence I conclude that Wit and Tobacco are not inseparable, or to make a Pun of it, tho' a Man may be master of a snuffbox,
 
-> **[verse_insert]**
->
 > *Non cuicunque datum est habere Nasam.*[^fn-p0023-2]
 
 I should be afraid of being thought a Pedant for my Quotation did not I know that y<sup>e</sup> Gentleman I am writing to always carries a Horace[^fn-p0023-3] in his pocket. But whatever you may think me, pray S<sup>r</sup> do me y<sup>e</sup> Justice to esteem me
@@ -286,8 +284,6 @@ September 1, 1707.
 
 It is the hardest thing in the world to be in love, and yet attend to business. As for me, all who speak to me find me out, and I must lock myself up, or other people will do it for me. A gentleman asked me this morning, “What news from Lisbon?” and I answered, “She is exquisitely handsome.” Another desired to know when I had been last at Hampton Court. I replied, “I will be on Tuesday come se’nnight.” Pr’ythee, allow me at least to kiss your hand before that day, that my mind may be in some composure. O love!
 
-> **[verse_insert]**
->
 > A thousand torments dwell about thee!  
 > Yet who would live to live without thee?
 
@@ -676,8 +672,6 @@ You are unjust, depend upon it, in your estimate of Byron's poetry, and wrong in
 
 When he came back from his tour, I breakfasted with him in Oxford Street. He read *Laodamia*[^fn-p0060-1] to me, and very finely. He had altered, at the suggestion of his wife, Laodamia’s fate (but I cannot refer to it at this moment), because she had shown such weakness as to wish her husband’s stay. Mrs. Wordsworth held that Laodamia ought to be punished, and punished she was. I will refer to it. Here it is—
 
-> **[verse_insert]**
->
 > She whom a trance of passion thus removed,  
 > As she departed, not without the crime  
 > Of lovers, who, in reason’s spite have loved,  
@@ -1232,8 +1226,6 @@ Many thanks for the letter, which is indeed a letter worth reading, which few ar
 
 Then there were the wild outbursts of poems such as—
 
-> **[verse_insert]**
->
 > I seen her out a-walking  
 > In her *habit de la rue*,  
 > But ’t aint no use a-talking—  
@@ -1281,8 +1273,6 @@ Don't ever go away from home on a ten months' absence without leaving somebody b
 
 We are gradually breaking up here, preparatory to moving to The Crags, which has been closed these three summers. I shall go there without any literary plans, unless I carry out my idea of turning *The Eve of St. Agnes*[^fn-p0109-1] into Kiplingese. Would n’t it be delicious! —
 
-> **[verse_insert]**
->
 > St. Hagnes Heve ! ’ow bloomin’ chill it was !  
 > The Howl, for all his hulster, was acold.  
 > The ’are limped tremblin’ through the blarsted grass,  
@@ -1436,8 +1426,6 @@ Dr. Henry van Dyke, the well-known essayist and poet, writes to congratulate his
 
 Some procrastinating imp must have slipped into my fountain pen, to make me put off for so long a time the warm and hearty thanks which I have owed you since you sent me your *New Poems.* The other little volume by your young admirer had some pretty touches and sweet notes in it, — but here comes the master-lyrist and the disciple fades. This new book of yours is extraordinarily rich in music and colour. It is in these bits of pure song and absolute picture that I think you at your best. You have often words so vivid that they seem to convey an actual form, colour, movement, to the page: and you have sometimes cadences so delicately melodious that they seem to carry music with them. Next to this I put your elfin fancy, — for example as it plays in “Witchery.” In this volume your lyrics “with a story to tell” are very different in tone. There is a strong contrast between the Italian Renaissance of “That Night when I came to the Grange,” and the pure Kentucky of “The Old Gate made of Pickets,” and the *anywhere* of “Tramps.” But each one has its own kind of imaginative passion. You tend to the intense in your poetry, — always, — and sometimes I think you agitate Nature a little too much with piercing adjectives and violent verbs. She has her wild moods, her fantastic hours, and these you render wonderfully. But most of the time she is as simple as a milk-maid and as great as the Venus of Melos, — sure of herself, inexhaustible, a little lazy, and full of intimate and tranquil charm. I don't mean to say that you fail to see or to express this ; but now and then you yield to the temptation to make her scream, — you " stab " the haws with a sunbeam, — or you give the innocent grasshopper a dagger, — or you make the poor bat very, very drunk. This is naughty, Madison, naughty, naughty ! But I 'll forgive you all these agitating escapades when you can write such a couplet as,
 
-> **[verse_insert]**
->
 > " While from a curved and azure jar  
 > She poured the white moon and a star."
 

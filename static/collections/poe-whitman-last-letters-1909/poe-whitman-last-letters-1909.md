@@ -149,8 +149,6 @@ When I spoke to you of what I felt, saying that I loved now for the *first* time
 
 *[Illustration, p. 25]*
 
-> **[verse_insert]**
->
 > Oh then, beloved, I think on thee  
 >  And on that life so strangely fair,  
 > Ere yet one cloud of Memory  
@@ -204,8 +202,6 @@ IN pressing my last letter between your dear hands, there passed into your spiri
 
 to slander me, in private society, without my knowledge, and thus with impunity. Although much, however, may (and I now see must) have been said to my discredit, during my retirement, those few who, knowing me well, have been steadfastly my friends, permitted nothing to reach my ears—unless in one instance, where the malignity of the accuser hurried her beyond her usual caution, and thus the accusation was of such a character that I could appeal to a court of justice for redress. The tools employed in this instance were Mr. Hiram Fuller, Mr. T. D. English. I replied to the charge fully, in a public newspaper—afterwards suing the “Mirror” (in which the scandal appeared) obtaining a verdict and obtaining such an amount as, for the time, completely to break up that journal.—And you ask me, *why* men so misjudge me—why I have enemies. If your knowledge of my character and of my career does not afford you an answer to the query, at least it does not become me to suggest the answer. Let it suffice that I have had the audacity to remain poor that I might preserve my independence—that, nevertheless, in letters, to a certain extent and in certain regards, I have been “successful”—that I have been a critic—an unscrupulously honest and in many cases a bitter one—that I have been uniformly attacked—where I attacked at all—those who stood highest in power and influence—and that, whether in literature or in society, I have seldom refrained from expressing, either directly or indirectly, the pure contempt with which the pretensions of ignorance, arrogance, or hostility inspire me.—And you who know all this—*you* ask me *why* I have enemies. Ah, Helen, I have a hundred friends for every individual enemy—but has it never occurred to you that you do not live among my friends? Miss Lynch, Miss Fuller, Miss Blackwell, Mrs. Ellet—neither these nor any within their influence, are my friends. Had you read my criticisms generally, you would see, too, how and why it is that the Channings—the Emerson and Hudson coterie—the Longfellow clique, one and all—the cabal of the “N. American Review”—you would see why all these, whom *you* know best, know me least and are my enemies. Do you not remember with how deep a sigh I said to you in Providence—“My heart is heavy, Helen, for I see that your friends are not my own.” But the cruel sentence in your letter would not—could not so deeply have wounded me, had my soul first been so strengthened by those assurances of your love, which I so wildly—so vainly—and, I now feel, so presumptuously entreated. That our souls are one, every line which you have ever written asserts—but our hearts do not beat in unison. Tell me, darling! to your heart has any angel ever whispered that the very noblest lines in all human poetry are these—hackneyed though they be!
 
-> **[verse_insert]**
->
 > “I know not—I ask not if guilt ’s in thy heart:—  
 > I but know that *I love thee* whatever thou art.”
 
@@ -215,8 +211,6 @@ Forgive me, best and only beloved Helen, if there be bitterness in my tone. Towa
 
 I heard something, a day or two ago, which, had your last letter never reached me, might not irreparably have disturbed the relations between us, but which, as it is, withers forever all the dear hopes upspringing in my bosom. A few words will explain to you what I mean. Not long after the receipt of your Valentine I learned, for the first time, that you were free—unmarried. I will not pretend to express to you what is absolutely inexpressible—that wild—long-enduring thrill of joy which pervaded my whole being on hearing that it was not *impossible* I might one day call you by the sacred title, wife:—but there was one alloy to this happiness:—I *dreaded* to find you in worldly circumstances superior to my own. Let me speak freely to you *now,* Helen, for perhaps I may never thus be permitted to speak to you again—Let me speak openly—fearlessly—trusting to the generosity of your own spirit for a true interpretation of my own. I repeat, then, that I *dreaded* to find you in worldly circumstances superior to mine. So great was my *fear* that you were rich, or at least possessed some property which might cause you to seem rich in the eyes of one so poor as I had always permitted myself to be—that, on the day I refer to, I had not the courage to ask my informant any questions concerning you.—I feel that you will have difficulty in comprehending me; but the horror with which, during my sojourn in the world, I have seen affection made a subject of barter, had, long since,—long before my marriage—inspired me with the resolution that, under no circumstances, would I marry where “interest,” as the world terms it, could be suspected as, on my part, the object of the marriage. As far as this point concerned yourself, however, I was relieved, the next day, by an assurance that you were wholly dependent upon your mother. May I—dare I add—can you believe me when I say that this assurance was doubly grateful to me by the additional one that you were in ill health and had suffered more from domestic trouble than falls usually to the lot of woman?—and even if your faith in my nature is not too greatly tasked by such an assertion, can you forbear thinking me unkind, selfish, or ungenerous? You cannot:—but oh! the sweet dreams which absorbed me at once!—dear dreams of a devotional care for you that end only with life—of a tender, cherishing, patient solicitude which should bring you back, at length, to health and to happiness—a care—a solicitude—which should find its glorious reward in winning me, after long years, that which I could *feel* to be *your love!*—without well understanding *why.* I had been led to fancy you ambitious:—perhaps the fancy arose from your lines:
 
-> **[verse_insert]**
->
 > Not a bird that roams the forest  
 > Shall our lofty eyrie share!—
 
@@ -336,8 +330,6 @@ I WROTE you yesterday, sweet Helen, but, through my fear of being too late for t
 
 I forgot to reenclose your poem and do so now. Why have you omitted the two forcible lines—
 
-> **[verse_insert]**
->
 > While in its depths withdrawn, far, far away,  
 > I see the dawn of a diviner day?
 
@@ -361,9 +353,7 @@ Devotedly ————
 
 Signature and postscript cut out and given to James T. Fields, 1865.]
 
-> **[letter_excerpt]**
->
-> > “P. S.—” Preserve the printed lines. I send the MS.—Perhaps you may recognize it. As one of the signs of the times I notice that Griswold has lately copied my Raven in his Hartford Weekly Gazette — I enclose his editorial comments so that you have quite a budget of enclosures.”
+> “P. S.—” Preserve the printed lines. I send the MS.—Perhaps you may recognize it. As one of the signs of the times I notice that Griswold has lately copied my Raven in his Hartford Weekly Gazette — I enclose his editorial comments so that you have quite a budget of enclosures.”
 
 [*The letter now continues:*]
 

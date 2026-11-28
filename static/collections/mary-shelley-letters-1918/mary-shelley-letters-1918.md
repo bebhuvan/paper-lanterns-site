@@ -684,8 +684,6 @@ I have seen also Procter, with his “beautifully formed head” (it is beautifu
 
 After all, I spend a great deal of my time in solitude. I have been hitherto too fully occupied in preparing Shelley's MSS. It is now complete, and the poetry alone will make a large volume. Will you tell Hunt that he need not send any of the MSS. that he has (except the Essay on Devils, and some lines addressed to himself on his arrival in Italy, if he should choose them to be inserted), as I have recopied all the rest? We should be very glad, however, of his notice as quickly as possible, as we wish the book to be out in a month at furthest, and that will not be possible unless he sends it immediately. It would break my heart if the book should appear without it.[^fn-p0137-1] When he does send a packet over (let it be directed to his brother), will he also be so good as to send me a copy of my “Choice,” beginning after the line
 
-> **[verse_insert]**
->
 > Entrenched sad lines, or blotted with its might?
 
 Perhaps, dear Marianne, you would have the kindness to copy them for me, and send them soon. I have another favour to ask of you. Miss Curran has a portrait of Shelley, in many things very like, and she has so much talent that I entertain great hopes that she will be able to make a good one; for this purpose I wish her to have all the aids possible, and among the rest a profile from you.[^fn-p0137-2] If you could not cut another, perhaps you would send her one already cut, and if you sent it with a note requesting her to return it when she had done with it, I will engage that it will be most faithfully returned. At present I am not quite sure where she is, but if she should be there, and you can find her and send her this, I need not tell you how you would oblige me.
@@ -1000,8 +998,6 @@ Enough of this! The great work of life goes on. Death draws near. To be better a
 
 The remainder of Mary Shelley’s life was passed quietly; it was devoted to the education of her son and to the memory of her husband, who she insisted was not dead, but was only waiting for her to join him in another sphere. She wrote —
 
-> **[verse_insert]**
->
 > My trembling hand shall never write thee — dead —  
 > Thou liv’st in Nature, Love, My Memory,  
 > With deathless faith for aye adoring thee,  

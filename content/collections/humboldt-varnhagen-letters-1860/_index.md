@@ -367,27 +367,27 @@
   {
    "format": "epub",
    "file": "humboldt-varnhagen-letters-1860.epub",
-   "bytes": 311872,
-   "sha256": "807612a98e3469b7406c763ab74d579521bdd7db6b7cddb5eea0f3f2648b99dd"
+   "bytes": 311904,
+   "sha256": "d3bcacb5a8ec8788db42497bc79c65228d3b91c98946ea296b71098118399518"
   },
   {
    "format": "markdown",
    "file": "humboldt-varnhagen-letters-1860.md",
-   "bytes": 528003,
-   "sha256": "46952d1dfb14a0ee22d467d3e975f9995e2af1cb421a2554de0d6daf6e15703c"
+   "bytes": 527787,
+   "sha256": "37b205f7b73da20281a98525a7e044c2ebdf7d96546fe172a30e39cf7b30a86d"
   },
   {
    "format": "tei",
    "file": "humboldt-varnhagen-letters-1860.tei.xml",
    "bytes": 703163,
-   "sha256": "de63905e0a0ae42900c7f879f8e5ae7d74dc89954ce02144f8cf8b17becdab80"
+   "sha256": "4d3042d1acb0d6c91df74addb3fecc7c8eb7972cffdcd08e43a233d79b51af29"
   }
  ],
  "scan_base": "https://archive.org/download/alexandlettersof00humbrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:30:26Z",
-  "source_ast_sha256": "b602968a388a6fcb6e0b2048bf5a73e11a1e4bfb34f4a5b5176eec5f7fb398e2",
+  "compiled_at": "2026-11-28T12:56:57Z",
+  "source_ast_sha256": "4201ea4b772da644236c15e0430896fa7b14b060796be7f82c77a3640644e57c",
   "hugo_renderer_version": "1.0.0"
  }
 }

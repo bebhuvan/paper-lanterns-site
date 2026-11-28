@@ -259,14 +259,14 @@
   {
    "format": "epub",
    "file": "augustine-letters-vol2-1875.epub",
-   "bytes": 511908,
-   "sha256": "9f213e6bbdc8ecb6505246a7c825c072986dcfa58d99c16b8302e4cd89b100e4"
+   "bytes": 511934,
+   "sha256": "683dcddf15541b9857fb321505914a208ee290185a69836f354160a388b3895d"
   },
   {
    "format": "markdown",
    "file": "augustine-letters-vol2-1875.md",
-   "bytes": 1139167,
-   "sha256": "a74b0e2445796fc7c005ad4fa2fbdbed70242e31fc2a2c0cf330af1c5592ec6a"
+   "bytes": 1139076,
+   "sha256": "688bac0305755bc8aa7f95395257480976887cc8ab9af21d6c71c382e1d4f555"
   },
   {
    "format": "tei",
@@ -278,7 +278,7 @@
  "scan_base": "https://archive.org/download/worksofaureliusa13augu/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T11:42:48Z",
+  "compiled_at": "2026-11-28T12:55:27Z",
   "source_ast_sha256": "581fd4353b52c1d4b5fccbaa6d46e2c20be0a296870eff0f3fc62d322592fff4",
   "hugo_renderer_version": "1.0.0"
  }

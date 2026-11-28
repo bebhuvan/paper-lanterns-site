@@ -280,14 +280,14 @@
   {
    "format": "epub",
    "file": "schumann-letters-1907.epub",
-   "bytes": 259479,
-   "sha256": "de4cfe977f3e894c77040052acfd0b976cedd0e21135d2223a78e2d65b4e10ae"
+   "bytes": 259505,
+   "sha256": "284769acfbc822c0b8babafca6ea6062be75434663165e5eed366837fd349827"
   },
   {
    "format": "markdown",
    "file": "schumann-letters-1907.md",
-   "bytes": 442665,
-   "sha256": "406bc742890c0b5662bff62c3f6b8dcce7d5a191bf1dc51bd9abf64563943892"
+   "bytes": 442556,
+   "sha256": "e8c5730c8be4f7f99e27a867a980698f6c71fd9b4516d5546b45d422228a698d"
   },
   {
    "format": "tei",
@@ -299,7 +299,7 @@
  "scan_base": "https://archive.org/download/lettersofroberts00schu/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T21:16:19Z",
+  "compiled_at": "2026-11-28T12:57:58Z",
   "source_ast_sha256": "345675b8e225f2468f63204b7ab9c6929154cd2e0a4cabf15ad3f80737056847",
   "hugo_renderer_version": "1.0.0"
  }

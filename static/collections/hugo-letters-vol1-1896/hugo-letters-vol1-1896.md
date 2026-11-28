@@ -134,8 +134,6 @@ In my next letter, I will tell you of all the work which a happy married life wi
 
 I hasten to discuss your ingenious poem. I was longing to tell you all the pleasure I experienced in reading it; I have already read it three times, and I know some of the passages in it by heart. There are a number of excellent lines on every page, as for instance —
 
-> **[verse_insert]**
->
 > Et vendre à tout venant le pardon que je donne,
 
 and descriptions full of life and *esprit*, such as that of Lucifer taking his telescope to look at the angel. Several of my friends, who are also among our most distinguished literary men, share my opinion of your work; so you see, dear papa, I am not biased by the deep love and tender gratitude which I shall ever feel for you.
@@ -1579,8 +1577,6 @@ I should be delighted if you could find time to devote to M. Rabbe's work one of
 
 Yes, my friend, from this historic and picturesque town I shall often look towards Paris and Montfort, and the castle at Blois will not make me forget Saint-Laurent. I spent a delightful time there in August, 1821, and your kind mother made me almost forget for the space of a week the admirable mother I had just lost. Thank you for the news you give me. I am very pleased that good Jules Lefèvre owes the sale of his *Clocher de Saint Marc* to your efforts. He has real ability, and all it wants is a success. You have no lack of all this, my dear friend, and you are wrong to despair about yourself; your poem must and shall be sold. The public is always quick to recognize real talent. I am told here that it is said in Paris that I have abjured my literary heresies, like our great poet Soumet. Contradict this flatly wherever you may be; you will be doing me a service. I went to see Chambord yesterday. You cannot imagine how singularly beautiful it is. Every enchantment, every kind of poetry, every folly, even, is represented in the admirable quaintness of this palace of knights and fairies. I cut my name on the top of the highest tower; I took away a little stone and moss from it, and a piece of the framework of the window on which Francis I. wrote the two lines:—
 
-> **[verse_insert]**
->
 > “ Souvent femme varie,  
 > Bien fol qui s’y fie ! ”
 
@@ -1752,8 +1748,6 @@ And you have written me a charming letter, which would have made up to me for th
 
 I have told my publisher to send you that *Ode à la Colonne*, the whole of which is not equal to the single line—
 
-> **[verse_insert]**
->
 > C’était une feuille d’automne.
 
 Farewell! You promise to write to me often. Pray do not fail to do so. Your friendship, your poetry, makes me feel young again. Your letters are already more than a pleasure to me.
@@ -2445,8 +2439,6 @@ I am, with deep respect, Your Majesty's most humble servant,
 
 It is I, my dear, good friend, who at once abandon the idea of *Louis XVI.,*[^fn-p0166-1]— at any rate, until after the performance of *Strafford.* You may depend on this. There, my dear friend, the pleasure which I feel in making this sacrifice for you outweighs the sacrifice, if there is any sacrifice in it. If I can hit upon any other contrivance, such as mentioning Bonaparte at the very beginning of the play, and giving up the effect of the name thrown in at the end, I will submit it to you as between friends, *ut decet.* And, in any case, I repeat, Louis XVI. will only be performed when you wish, and not at all if you so desire it. I now remember perfectly well that you told me about your idea, and I agree that mine has a great resemblance to it. You have a prior right then. It is the first time, I can honestly say, that I detect myself in the very act of plagiarism. This distresses me. Is it possible that the Archbishop of Granada is already departing from his high principles? Besides, your line is sublime, and contains an idea which is the finest of all, and which I have not —
 
-> **[verse_insert]**
->
 > . . . Charles premier, je me nomme Cromwell.
 
 There is nothing so grand as this in my piece. Bonaparte does not say the line to Louis XVI., and Bonaparte is not the regicide of Louis XVI.
@@ -3262,8 +3254,6 @@ You will come and dine with us one of these days, won't you?
 
 *Friday morning, 1st July,* 1831.
 
-> **[verse_insert]**
->
 > . . . . . . . . . . . . .  
 > Dans un concours heureux brillaient de toutes parts  
 > Le sentiment, le charme et l'amour des beaux-arts.  
@@ -4355,7 +4345,7 @@ V. M. <span class="small-caps">Hugo</span>.
 >
 > *7th Strophe.* — The following note might come after it : —
 >
-> > Moreau took the fort of l'Ecluse on the island of Cazand from a superior force of the enemy the very day on which his aged father was led to the scaffold. Patriotism must indeed have had a strong hold on the hearts of our soldiers to make them defend with such heroic resignation a country in which their dearest interests were daily betrayed in a disgraceful manner. Our army was fortunate in always being free from the reproaches which were leveled against our executioners. Do not let us forget that if it fought against its king, this was in opposing a foreign invasion, and that, as an illustrious author has said, its sword, thrown in the balance, weighed down the axe of the Revolution.
+> Moreau took the fort of l'Ecluse on the island of Cazand from a superior force of the enemy the very day on which his aged father was led to the scaffold. Patriotism must indeed have had a strong hold on the hearts of our soldiers to make them defend with such heroic resignation a country in which their dearest interests were daily betrayed in a disgraceful manner. Our army was fortunate in always being free from the reproaches which were leveled against our executioners. Do not let us forget that if it fought against its king, this was in opposing a foreign invasion, and that, as an illustrious author has said, its sword, thrown in the balance, weighed down the axe of the Revolution.
 >
 > *8th Strophe.*—For the three first lines one of the two following versions may be substituted:—
 >
@@ -4610,8 +4600,6 @@ Farewell, my good colleague; my wife, who is going on well, shares the deep feel
 
 A slight indisposition prevents me from having the honor of going in person to express my gratitude for the favor which the French Academy has deigned to confer on me by according an honorable mention to the piece No. 15, of which I am the author. Having heard that you have raised doubts as to my age, I take the liberty of inclosing my certificate of birth. It will prove to you that the line —
 
-> **[verse_insert]**
->
 > Moi, qui . . .  
 > De trois lustres à peine ai vu finir le cours,
 
@@ -4621,8 +4609,6 @@ Your most obedient, humble servant,
 
 <span class="small-caps">Victor Marie Hugo.</span>
 
-> **[enclosure]**
->
 > ##### *A Raynouard, auteur des Templiers.*
 >
 > O Raynouard, toi qui d'un ordre auguste  

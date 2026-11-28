@@ -655,8 +655,6 @@ If haply you wonder why this letter of mine is written by another's fingers, I a
 
 <sup>59</sup> O that our souls might perish with the body and that so no part of me might escape the greedy pyre! For if the spirit flits aloft deathless in the empty air, and the words of the Samian sage[^fn-p0161-1] are true, a Roman will wander among Sarmatian shades, a stranger forever among barbarians. But my bones —see that they are carried home in a little urn: so shall I not be an exile even in death. This nobody forbids: the Theban sister[^fn-p0161-2] laid her slain brother beneath the tomb though the king forbade; and mingling with my bones the leaves and powder of the nard lay them to rest in soil close to the city, and on the marble carve lines for the wayfarer to read with hasty eye, lines in large characters:
 
-> **[verse_insert]**
->
 > <span class="small-caps">I, who lie here, with tender loves once played,</span>  
 > <span class="small-caps">Naso, the bard, whose life his wit betrayed.</span>  
 > <span class="small-caps">Grudge not, O lover, as thou passest by,</span>  

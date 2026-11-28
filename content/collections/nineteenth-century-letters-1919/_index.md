@@ -506,27 +506,27 @@
   {
    "format": "epub",
    "file": "nineteenth-century-letters-1919.epub",
-   "bytes": 563433,
-   "sha256": "c7d25fc9a08e0abe5ea77b3740c7fa752c41064f59d13e072a7e02c6a867f7e2"
+   "bytes": 563459,
+   "sha256": "028d3bcbdf9ddef4d91dc1c0b159a4c07fe6d06062f01629d40ed21973f67383"
   },
   {
    "format": "markdown",
    "file": "nineteenth-century-letters-1919.md",
-   "bytes": 1186120,
-   "sha256": "a2980f0f18e25556a37452b05c8746d924da9ee070dec46f8bc0a34236237361"
+   "bytes": 1185531,
+   "sha256": "2e1097b5f0a77106da4a30ad4cd4bdffcc2ce6020fce50b331206f92e360494d"
   },
   {
    "format": "tei",
    "file": "nineteenth-century-letters-1919.tei.xml",
-   "bytes": 1422979,
-   "sha256": "f995919c04b7d0706383ee7235a04f1bacec19a653ad80815819e50ed6e53a6c"
+   "bytes": 1423082,
+   "sha256": "721de5f2330e41b871bbd664822062fae5b6041a98b00b330e7176cde2b73b82"
   }
  ],
  "scan_base": "https://archive.org/download/nineteenthcentur00reesrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:26:32Z",
-  "source_ast_sha256": "5735396652c53df0e3c95c9680deb3e304288c1532f61cda327ef1d863afba95",
+  "compiled_at": "2026-11-28T12:57:44Z",
+  "source_ast_sha256": "898139cfe9e698d4277cd5ba303a6e8de0e618ff6e88a92304b5c6b9ba032ab5",
   "hugo_renderer_version": "1.0.0"
  }
 }

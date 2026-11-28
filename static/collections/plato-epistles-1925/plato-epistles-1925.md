@@ -1374,8 +1374,6 @@ It is also appropriate for me to repeat the words of Euripides, that when you ar
 
 > *[Margin: 310]*
 
-> **[verse_insert]**
->
 > ‘Not gleaming gold is rarest in the unhopeful life  
 >     of mortals.  
 > Diamonds and couches of silver sparkle not to the  

@@ -568,27 +568,27 @@
   {
    "format": "epub",
    "file": "literature-in-letters-1870.epub",
-   "bytes": 465937,
-   "sha256": "306240446599318adeac0a4658efc75d9be02acc37db9393637e3bcc552aaf25"
+   "bytes": 465977,
+   "sha256": "8650e1ab64fbc0b324c2a570451829ae3333476544af86bdb3dcda8273371f72"
   },
   {
    "format": "markdown",
    "file": "literature-in-letters-1870.md",
-   "bytes": 968869,
-   "sha256": "40de46b1f3a1f55f18c104840c75e288a31940aa56eb3517d3d58ba850ded2fc"
+   "bytes": 968052,
+   "sha256": "71095ecd7b3de8406ca08456a397b5eefe80b3aa4b46396dfd2b26a6b09ada97"
   },
   {
    "format": "tei",
    "file": "literature-in-letters-1870.tei.xml",
-   "bytes": 1132339,
-   "sha256": "a27bd28b841e516a91fc14e50e1ad5cf9488c2c983849ecace9cf6ffacbf377e"
+   "bytes": 1132451,
+   "sha256": "712396b9177a0b73a191aa7550db4b4a1944f1a6a6660c5f118ec4488227b4da"
   }
  ],
  "scan_base": "https://archive.org/download/literatureinlett00holcuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T21:13:16Z",
-  "source_ast_sha256": "9fd9baa26e342498738f8df4183daeb3649b4582ea41187ed60574aa860375e6",
+  "compiled_at": "2026-11-28T12:57:07Z",
+  "source_ast_sha256": "b97ee7dcd63f561dfb8de80b3bc56425c9d0cf95c6b11f9107f0a6d0aa2b00ab",
   "hugo_renderer_version": "1.0.0"
  }
 }

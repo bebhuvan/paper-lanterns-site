@@ -491,8 +491,6 @@ Your affectionate sister,
 
 Enclosed with this was a delicately written ‘bill of fare’ for one of the Seminary dinners.
 
-> **[enclosure]**
->
 > ##### SOUTH HADLEY SEMINARY
 >
 > <span class="small-caps">Nov.</span> 2d, 1847
@@ -1406,8 +1404,6 @@ Dear Emily, we are lonely here. I know Col. S——— is left, and Mr and Mrs K
 
 And now five days have gone, Emily, and long and silent, and I begin to know that you will not come back again. There's a verse in the Bible, Emily, I don't know where it is, nor just how it goes can I remember, but it's a little like this—‘I can go to her, but she cannot come back to me.’ I guess that isn't right, but my eyes are full of tears, and I'm sure I do not care if I make mistakes or not. Is it happy there, dear Emily, and is the fireside warm, and have you a little cricket to chirp upon the hearth? How much we think of you—how dearly love you—how often hope for you that it may all be happy. Sunday evening your father came in—he stayed a little while. I thought he looked solitary. I thought he had grown old. How lonely he must be—I 'm sorry for him. Mother and Vinnie send their love, and hope you are so happy. Austin has gone away. Father comes home to-morrow. I know father will miss you. He loved to meet you here.
 
-> **[verse_insert]**
->
 > ‘ So fades a summer cloud away,  
 > So smiles the gale when storms are o’er,  
 > So gently shuts the eye of day,  
@@ -1663,8 +1659,6 @@ Affectionately,
 
 <span class="small-caps">Emily.</span>
 
-> **[enclosure]**
->
 > This little poem was enclosed in the fore-going letter: —
 >
 > Truth is as old as God,  
@@ -1999,13 +1993,11 @@ I trust you are merry and sound. The chances are all against the dear, when we a
 
 Dr Vaill called here Monday on his way to your house to get the Doctor to preach for him. Shall search *The Republican* for a brief of the sermon. To-day is very homely and awkward as the homely are who have not mental beauty.
 
-> **[verse_insert]**
->
-> Then follows, —
->
+Then follows, —
+
 > ‘The sky is low, the clouds are mean,’
->
-> printed at page 103 of the *Poems*, First Series.
+
+printed at page 103 of the *Poems*, First Series.
 
 ### Letter 102: Emily
 

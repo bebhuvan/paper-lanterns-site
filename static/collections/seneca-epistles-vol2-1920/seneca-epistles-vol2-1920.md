@@ -99,8 +99,6 @@ INDEX OF PROPER NAMES . . . . . 474
 
 I <span class="small-caps">have</span> just seen my former school-mate Claranus for the first time in many years. You need not wait for me to add that he is an old man; but I assure you that I found him hale in spirit and sturdy, although he is wrestling with a frail and feeble body. For Nature acted unfairly when she gave him a poor domicile for so rare a soul; or perhaps it was because she wished to prove to us that an absolutely strong and happy mind can lie hidden under any exterior. Be that as it may, Claranus overcomes all these hindrances, and by despising his own body has arrived at a stage where he can despise other things also. The poet who sang
 
-> **[verse_insert]**
->
 > Worth shows more pleasing in a form that's fair,[^fn-p0015-1]
 
 is, in my opinion, mistaken. For virtue needs nothing to set it off; it is its own great glory, and it hallows the body in which it dwells. At any rate, I have begun to regard Claranus in a different light; he seems to me handsome, and as well-set-up in body as in mind. A great man can spring from a hovel; so can a beautiful and great soul from an ugly and insignificant body. For this reason Nature seems to me to breed certain men of this stamp with the idea of proving that virtue springs into birth in any place whatever. Had it been possible for her to produce souls by themselves and naked, she would have done so; as it is, Nature does a still greater thing, for she produces certain men who, though hampered in their bodies, none the less break through the obstruction. I think Claranus has been produced as a pattern, that we might be enabled to understand that the soul is not disfigured by the ugliness of the body, but rather the opposite, that the body is beautified by the comeliness of the soul.
@@ -149,8 +147,6 @@ Certain of our school[^fn-p0051-1] think that, of all such qualities, a stout en
 
 “ But,” you say, “ who ever desired such a thing for himself ? ” Some prayers are open and outspoken, when the requests are offered specifically ; other prayers are indirectly expressed, when they include many requests under one title. For example, I desire a life of honour. Now a life of honour includes various kinds of conduct ; it may include the chest in which Regulus was confined, or the wound of Cato which was torn open by Cato’s own hand, or the exile of Rutilius,[^fn-p0051-2] or the cup of poison which removed Socrates from gaol to heaven. Accordingly, in praying for a life of honour, I have prayed also for those things without which, on some occasions, life cannot be honourable.
 
-> **[verse_insert]**
->
 > O thrice and four times blest were they  
 > Who underneath the lofty walls of Troy  
 > Met happy death before their parents' eyes ! [^fn-p0053-1]
@@ -189,8 +185,6 @@ I <span class="small-caps">do</span> not like you to change your headquarters an
 
 After a long space of time I have seen your beloved Pompeii.[^fn-p0069-1] I was thus brought again face to face with the days of my youth. And it seemed to me that I could still do, nay, had only done a short time ago, all the things which I did there when a young man. We have sailed past life, Lucilius, as if we were on a voyage, and just as when at sea, to quote from our poet Vergil,
 
-> **[verse_insert]**
->
 > Lands and towns are left astern,[^fn-p0069-2]
 
 even so, on this journey where time flies with the greatest speed, we put below the horizon first our boyhood and then our youth, and then the space which lies between young manhood and middle age and borders on both, and next, the best years of old age itself. Last of all, we begin to sight the general bourne of the race of man. Fools that we are, we believe this bourne to be a dangerous reef; but it is the harbour, where we must some day put in, which we may never refuse to enter; and if a man has reached this harbour in his early years, he has no more right to complain than a sailor who has made a quick voyage. For some sailors, as you know, are tricked and held back by sluggish winds, and grow weary and sick of the slow-moving calm; while others are carried quickly home by steady gales.
@@ -271,15 +265,11 @@ For there are many of our toga-clad citizens to whom peace brings more trouble t
 
 Therefore the philosopher thinks of the person who makes it possible for him to use and enjoy these things, of the person who exempts him when the state's dire need summons to arms, to sentry duty, to the defence of the walls, and to the manifold exactions of war; and he gives thanks to the helmsman of his state. This is what philosophy teaches most of all,—honourably to avow the debt of benefits received, and honourably to pay them; sometimes, however, the acknowledgment itself constitutes payment. Our philosopher will therefore acknowledge that he owes a larger debt to the ruler who makes it possible, by his management and foresight, for him to enjoy rich leisure, control of his own time, and a tranquillity uninterrupted by public employments.
 
-> **[verse_insert]**
->
 > Shepherd! a god this leisure gave to me,  
 > For he shall be my god eternally.[^fn-p0123-1]
 
 And if even such leisure as that of our poet owes a great debt to its author, though its greatest boon is this:
 
-> **[verse_insert]**
->
 >                     As thou canst see,  
 > He let me turn my cattle out to feed,  
 > And play what fancy pleased on rustic reed;[^fn-p0123-2]
@@ -374,8 +364,6 @@ This, therefore, is the only good, and not only is every soul that has reached p
 
 If a man can behold with unflinching eyes the flash of a sword, if he knows that it makes no difference to him whether his soul takes flight through his mouth or through a wound in his throat,[^fn-p0179-1] you may call him happy; you may also call him happy if, when he is threatened with bodily torture, whether it be the result of accident or of the might of the stronger, he can without concern hear talk of chains, or of exile, or of all the idle fears that stir men's minds, and can say:
 
-> **[verse_insert]**
->
 > “ O maiden, no new sudden form of toil  
 >  Springs up before my eyes; within my soul  
 >  I have forestalled and surveyed everything.[^fn-p0179-2]
@@ -388,8 +376,6 @@ To-day it is you who threaten me with these terrors; but I have always threatene
 
 Suddenly there came into our view to-day the “ Alexandrian ” ships, — I mean those which are usually sent ahead to announce the coming of the fleet; they are called “ mail-boats.” The Campanians are glad to see them; all the rabble of Puteoli[^fn-p0181-1] stand on the docks, and can recognize the “ Alexandrian ” boats, no matter how great the crowd of vessels, by the very trim of their sails. For they alone may keep spread their topsails, which all ships use when out at sea, because nothing sends a ship along so well as its upper canvas; that is where most of the speed is obtained. So when the breeze has stiffened and becomes stronger than is comfortable, they set their yards lower; for the wind has less force near the surface of the water. Accordingly, when they have made Capreae and the headland whence
 
-> **[verse_insert]**
->
 > Tall Pallas watches on the stormy peak,[^fn-p0181-2]
 
 all other vessels are bidden to be content with the mainsail, and the topsail stands out conspicuously on the “ Alexandrian ” mail-boats.
@@ -402,8 +388,6 @@ Marcellinus did not need someone to urge him, but rather someone to help him ; h
 
 This little anecdote into which I have digressed will not be displeasing to you. For you will see that your friend departed neither with difficulty nor with suffering. Though he committed suicide, yet he withdrew most gently, gliding out of life. The anecdote may also be of some use; for often a crisis demands just such examples. There are times when we ought to die and are unwilling; sometimes we die and are unwilling. No one is so ignorant as not to know that we must at some time die; nevertheless, when one draws near death, one turns to flight, trembles, and laments. Would you not think him an utter fool who wept because he was not alive a thousand years ago? And is he not just as much of a fool who weeps because he will not be alive a thousand years from now? It is all the same; you will not be, and you were not. Neither of these periods of time belongs to you. You have been cast upon this point of time;[^fn-p0187-1] if you would make it longer, how much longer shall you make it? Why weep? Why pray? You are taking pains to no purpose.
 
-> **[verse_insert]**
->
 > Give over thinking that your prayers can bend  
 > Divine decrees from their predestined end.[^fn-p0187-2]
 
@@ -431,8 +415,6 @@ Let us now return to the consideration of the characteristic disadvantage of dis
 
 Two elements must therefore be rooted out once for all,—the fear of future suffering, and the recollection of past suffering; since the latter no longer concerns me, and the former concerns me not yet. But when set in the very midst of troubles one should say:
 
-> **[verse_insert]**
->
 > Perchance some day the memory of this sorrow  
 > Will even bring delight.[^fn-p0203-1]
 
@@ -476,8 +458,6 @@ For although the body needs many things in order to be strong, yet the mind grow
 
 First of all, free yourself from the fear of death, for death puts the yoke about our necks; then free yourself from the fear of poverty. If you would know how little evil there is in poverty, compare the faces of the poor with those of the rich; the poor man smiles more often and more genuinely; his troubles do not go deep down; even if any anxiety comes upon him, it passes like a fitful cloud. But the merriment of those whom men call happy is feigned, while their sadness is heavy and festering, and all the heavier because they may not meanwhile display their grief, but must act the part of happiness in the midst of sorrows that eat out their very hearts. I often feel called upon to use the following illustration, and it seems to me that none expresses more effectively this drama of human life, wherein we are assigned the parts which we are to play so badly. Yonder is the man who stalks upon the stage with swelling port and head thrown back, and says:
 
-> **[verse_insert]**
->
 > Lo, I am he whom Argos hails as lord,  
 > Whom Pelops left the heir of lands that spread  
 > From Hellespont and from th' Ionian sea  
@@ -485,8 +465,6 @@ First of all, free yourself from the fear of death, for death puts the yoke abou
 
 And who is this fellow? He is but a slave; his wage is five measures of grain and five denarii. Yon other who, proud and wayward and puffed up by confidence in his power, declaims:
 
-> **[verse_insert]**
->
 > Peace, Menelaus, or this hand shall slay thee![^fn-p0229-1]
 
 receives a daily pittance and sleeps on rags. You may speak in the same way about all these dandies whom you see riding in litters above the heads of men and above the crowd; in every case their happiness is put on like the actor's mask. Tear it off, and you will scorn them.
@@ -533,8 +511,6 @@ Therefore, gird yourself about with philosophy, an impregnable wall. Though it b
 
 Some men flatter themselves that they have checked these evils by themselves even without the aid of philosophy; but when some accident catches them off their guard, a tardy confession of error is wrung from them. Their boastful words perish from their lips when the torturer commands them to stretch forth their hands, and when death draws nearer! You might say to such a man: “ It was easy for you to challenge evils that were not near-by; but here comes pain, which you declared you could endure; here comes death, against which you uttered many a courageous boast! The whip cracks, the sword flashes:
 
-> **[verse_insert]**
->
 > Ah now, Aeneas, thou must needs be stout  
 > And strong of heart! ”[^fn-p0257-1]
 
@@ -546,8 +522,6 @@ Furthermore, there are vast distinctions among these qualities which we call “
 
 Death ought to be despised more than it is wont to be despised. For we believe too many of the stories about death. Many thinkers have striven hard to increase its ill repute; they have portrayed the prison in the world below and the land overwhelmed by everlasting night, where
 
-> **[verse_insert]**
->
 > Within his blood-stained cave Hell's warder huge  
 > Doth sprawl his ugly length on half-crunched bones,  
 > And terrifies the disembodied ghosts  
@@ -557,8 +531,6 @@ Even if you can win your point and prove that these are mere stories and that no
 
 In the face of these notions, which long-standing opinion has dinned in our ears, how can brave endurance of death be anything else than glorious, and fit to rank among the greatest accomplishments of the human mind ? For the mind will never rise to virtue if it believes that death is an evil ; but it will so rise if it holds that death is a matter of indifference. It is not in the order of nature that a man shall proceed with a great heart to a destiny which he believes to be evil ; he will go sluggishly and with reluctance. But nothing glorious can result from unwillingness and cowardice; virtue does nothing under compulsion. Besides, no deed that a man does is honourable unless he has devoted himself thereto and attended to it with all his heart, rebelling against it with no portion of his being. When, however, a man goes to face an evil, either through fear of worse evils or in the hope of goods whose attainment is of sufficient moment to him that he can swallow the one evil which he must endure,—in that case the judgment of the agent is drawn in two directions. On the one side is the motive which bids him carry out his purpose ; on the other, the motive which restrains him and makes him flee from something which has aroused his apprehension or leads to danger. Hence he is torn in different directions ; and if this happens, the glory of his act is gone. For virtue accomplishes its plans only when the spirit is in harmony with itself. There is no element of fear in any of its actions.
 
-> **[verse_insert]**
->
 > Yield not to evils, but, still braver, go  
 > Where'er thy fortune shall allow.[^fn-p0265-1]
 
@@ -604,8 +576,6 @@ The journeys to which you refer—journeys that shake the laziness out of my sys
 
 We should follow, men say, the example of the bees, who flit about and cull the flowers that are suitable for producing honey, and then arrange and assort in their cells all that they have brought in; these bees, as our Vergil says,
 
-> **[verse_insert]**
->
 > pack close the flowing honey,  
 > And swell their cells with nectar sweet.[^fn-p0291-1]
 
@@ -629,8 +599,6 @@ I had been inclined to spare you, and had omitted any knotty problems that still
 
 Certain of the Peripatetics [^fn-p0299-2] reply to this syllogism by interpreting “unperturbed,” “unwavering,” and “free from sadness” in such a way as to make “unperturbed” mean one who is rarely perturbed and only to a moderate degree, and not one who is never perturbed. Likewise, they say that a person is called “free from sadness” who is not subject to sadness, one who falls into this objectionable state not often nor in too great a degree. It is not, they say, the way of human nature that a man’s spirit should be exempt from sadness, or that the wise man is not overcome by grief but is merely touched by it, and other arguments of this sort, all in accordance with the teachings of their school. They do not abolish the passions in this way; they only moderate them. But how petty is the superiority which we attribute to the wise man, if he is merely braver than the most craven, happier than the most dejected, more self-controlled than the most unbridled, and greater than the lowliest! Would Ladas boast his swiftness in running by comparing himself with the halt and the weak?
 
-> **[verse_insert]**
->
 > For she could skim the topmost blades of corn  
 > And touch them not, nor bruise the tender ears;  
 > Or travel over seas, well-poised above  
@@ -677,15 +645,11 @@ How some persons nowadays condemn Scipio as a boor because he did not let daylig
 
 If what I am saying shall seem to you too pessimistic, charge it up against Scipio’s country-house, where I have learned a lesson from Aegialus, a most careful householder and now the owner of this estate; he taught me that a tree can be transplanted, no matter how far gone in years. We old men must learn this precept; for there is none of us who is not transplanting an olive-stock for his successor. I have seen them bearing fruit in due season after three or four years of unproductiveness.[^fn-p0331-2] And you too shall be shaded by the tree which
 
-> **[verse_insert]**
->
 > Is slow to grow, but bringeth shade to cheer  
 > Your grandsons in the far-off years,[^fn-p0331-3]
 
 as our poet Vergil says. Vergil sought, however, not what was nearest to the truth, but what was most appropriate, and aimed, not to teach the farmer, but to please the reader. For example, omitting all other errors of his, I will quote the passage in which it was incumbent upon me to-day to detect a fault:
 
-> **[verse_insert]**
->
 > In spring sow beans ; then, too, O clover plant,  
 > Thou'rt welcomed by the crumbling furrows ; and  
 > The millet calls for yearly care.[^fn-p0333-1]
@@ -710,8 +674,6 @@ So my progress is still insufficient. I have not yet the courage openly to ackno
 
 I suppose you call a man rich just because his gold plate goes with him even on his travels, because he farms land in all the provinces, because he unrolls a large account-book, because he owns estates near the city so great that men would grudge his holding them in the waste lands of Apulia. But after you have mentioned all these facts, he is poor. And why? He is in debt. “To what extent?” you ask. For all that he has. Or perchance you think it matters whether one has borrowed from another man or from Fortune. What good is there in mules caparisoned in uniform livery? Or in decorated chariots and
 
-> **[verse_insert]**
->
 > Steeds decked with purple and with tapestry,  
 > With golden harness hanging from their necks,  
 > Champing their yellow bits, all clothed in gold?[^fn-p0339-2]
@@ -724,8 +686,6 @@ Neither master nor mule is improved by such trappings. Marcus Cato the Censor, w
 
 Why, then, is the wise man great? Because he has a great soul. Accordingly, it is true that that which falls to the lot even of the most despicable person is not a good. Thus, I should never regard inactivity as a good; for even the tree-frog and the flea possess this quality.[^fn-p0347-1] Nor should I regard rest and freedom from trouble as a good; for what is more at leisure than a worm? Do you ask what it is that produces the wise man? That which produces a god.[^fn-p0347-2] You must grant that the wise man has an element of godliness, heavenliness, grandeur. The good does not come to every one, nor does it allow any random person to possess it. Behold
 
-> **[verse_insert]**
->
 > What fruits each country bears, or will not bear;  
 > Here corn, and there the vine, grow richlier.  
 > And elsewhere still the tender tree and grass  
@@ -771,15 +731,11 @@ Now I will transfer my attention to the musician. You, sir, are teaching me how 
 
 I come next to the person who boasts his knowledge of the heavenly bodies, who knows
 
-> **[verse_insert]**
->
 > Whither the chilling star of Saturn hides,  
 >  And through what orbit Mercury doth stray.[^fn-p0369-2]
 
 Of what benefit will it be to know this? That I shall be disturbed because Saturn and Mars are in opposition, or when Mercury sets at eventide in plain view of Saturn, rather than learn that those stars, wherever they are, are propitious,[^fn-p0369-3] and that they are not subject to change? They are driven along by an unending round of destiny, on a course from which they cannot swerve. They return at stated seasons; they either set in motion, or mark the intervals of the whole world's work. But if they are responsible for whatever happens, how will it help you to know the secrets of the immutable? Or if they merely give indications, what good is there in foreseeing what you cannot escape? Whether you know these things or not, they will take place.
 
-> **[verse_insert]**
->
 >                     Behold the fleeting sun,  
 > The stars that follow in his train, and thou  
 > Shalt never find the morrow play thee false,  
@@ -821,8 +777,6 @@ It is a useful fact that you wish to know, one which is essential to him who has
 
 The wise man's mind, to be sure, embraces the whole framework of philosophy, surveying it with no less rapid glance than our mortal eyes survey the heavens ; we, however, who must break through the gloom, we whose vision fails even for that which is near at hand, can be shown with greater ease each separate object even though we cannot yet comprehend the universe. I shall therefore comply with your demand, and shall divide philosophy into parts, but not into scraps. For it is useful that philosophy should be divided, but not chopped into bits. Just as it is hard to take in what is indefinitely large, so it is hard to take in what is indefinitely small. The people are divided into tribes, the army into centuries. Whatever has grown to greater size is more easily identified if it is broken up into parts ; but the parts, as I have remarked, must not be countless in number and diminutive in size. For over-analysis is faulty in precisely the same way as no analysis at all ; whatever you cut so fine that it becomes dust is as good as blended into a mass again.[^fn-p0391-2] In the first place, therefore, if you approve, I shall draw the distinction between wisdom and philosophy. Wisdom is the perfect good of the human mind; philosophy is the love of wisdom, and the endeavour to attain it. The latter strives toward the goal which the former has already reached. And it is clear why philosophy was so called. For it acknowledges by its very name the object of its love.[^fn-p0393-1] Certain persons have defined wisdom as the knowledge of things divine and things human.[^fn-p0393-2] Still others say: “Wisdom is knowing things divine and things human, and their causes also.”[^fn-p0393-3] This added phrase seems to me to be superfluous, since the causes of things divine and things human are a part of the divine system. Philosophy also has been defined in various ways; some have called it “the study of virtue,”[^fn-p0393-4] others have referred to it as “a study of the way to amend the mind,”[^fn-p0393-5] and some have named it “the search for right reason.” One thing is practically settled, that there is some difference between philosophy and wisdom. Nor indeed is it possible that that which is sought and that which seeks are identical. As there is a great difference between avarice and wealth, the one being the subject of the craving and the other its object, so between philosophy and wisdom. For the one is a result and a reward of the other. Philosophy does the going, and wisdom is the goal. Wisdom is that which the Greeks call σοφία. The Romans also were wont to use this word in the sense in which they now use “philosophy” also. This will be proved to your satisfaction by our old national plays, as well as by the epitaph that is carved on the tomb of Dossennus[^fn-p0395-1] :
 
-> **[verse_insert]**
->
 > Pause, stranger, and read the wisdom of Dossennus.
 
 Certain of our school, however, although philosophy meant to them “the study of virtue,” and though virtue was the object sought and philosophy the seeker, have maintained nevertheless that the two cannot be sundered. For philosophy cannot exist without virtue, nor virtue without philosophy. Philosophy is the study of virtue, by means, however, of virtue itself; but neither can virtue exist without the study of itself, nor can the study of virtue exist without virtue itself. For it is not like trying to hit a target at long range, where the shooter and the object to be shot at are in different places. Nor, as roads which lead into a city, are the approaches to virtue situated outside virtue herself; the path by which one reaches virtue leads by way of virtue herself; philosophy and virtue cling closely together.
@@ -837,8 +791,6 @@ The natural side of philosophy is twofold: bodily and non-bodily.[^fn-p0401-1] E
 
 It remains for me to divide rational philosophy into its parts. Now all speech is either continuous, or split up between questioner and answerer. It has been agreed upon that the former should be called rhetoric, and the latter dialectic. Rhetoric deals with words, and meanings, and arrangement. Dialectic is divided into two parts: words and their meanings, that is, into things which are said, and the words in which they are said. Then comes a subdivision of each—and it is of vast extent. Therefore I shall stop at this point, and
 
-> **[verse_insert]**
->
 > But treat the climax of the story;[^fn-p0401-4]
 
 for if I should take a fancy to give the subdivisions, my letter would become a debater's handbook! I am not trying to discourage you, excellent Lucilius, from reading on this subject, provided only that you promptly relate to conduct all that you have read.
@@ -867,16 +819,12 @@ But when once vice stole in and kingdoms were transformed into tyrannies, a need
 
 Up to this point I agree with Posidonius ; but that philosophy discovered the arts of which life makes use in its daily round [^fn-p0411-2] I refuse to admit, nor will I ascribe to it an artisan's glory. Posidonius says : “When men were scattered over the earth, protected by caves or by the dug-out shelter of a cliff or by the trunk of a hollow tree, it was philosophy that taught them to build houses." But I, for my part, do not hold that philosophy devised these shrewdly-contrived dwellings of ours which rise story upon story, where city crowds against city, any more than that she invented the fish-preserves, which are enclosed for the purpose of saving men's gluttony from having to run the risk of storms, and in order that, no matter how wildly the sea is raging, luxury may have its safe harbours in which to fatten fancy breeds of fish. What! Was it philosophy that taught the use of keys and bolts? Nay, what was that except giving a hint to avarice? Was it philosophy that erected all these towering tenements, so dangerous to the persons who dwell in them? Was it not enough for man to provide himself a roof of any chance covering, and to contrive for himself some natural retreat without the help of art and without trouble? Believe me, that was a happy age, before the days of architects, before the days of builders! All this sort of thing was born when luxury was being born,—this matter of cutting timbers square and cleaving a beam with unerring hand as the saw made its way over the marked-out line.
 
-> **[verse_insert]**
->
 > The primal man with wedges split his wood.[^fn-p0413-1]
 
 For they were not preparing a roof for a future banquet-hall; for no such use did they carry the pine-trees or the firs along the trembling streets [^fn-p0413-2] with a long row of drays—merely to fasten thereon panelled ceilings heavy with gold. Forked poles erected at either end propped up their houses. With close-packed branches and with leaves heaped up and laid sloping they contrived a drainage for even the heaviest rains. Beneath such dwellings they lived, but they lived in peace. A thatched roof once covered free men; under marble and gold dwells slavery.
 
 On another point also I differ from Posidonius, when he holds that mechanical tools were the invention of wise men. For on that basis one might maintain that those were wise who taught the arts
 
-> **[verse_insert]**
->
 > Of setting traps for game, and liming twigs  
 >   For birds, and girdling mighty woods with dogs.[^fn-p0415-1]
 
@@ -890,8 +838,6 @@ Nature was not so hostile to man that, when she gave all the other animals an ea
 
 It is hard to believe, my dear Lucilius, how easily the charm of eloquence wins even great men away from the truth. Take, for example, Posidonius— who, in my estimation, is of the number of those who have contributed most to philosophy—when he wishes to describe the art of weaving. He tells how, first, some threads are twisted and some drawn out from the soft, loose mass of wool ; next, how the upright warp keeps the threads stretched by means of hanging weights; then, how the inserted thread of the woof, which softens the hard texture of the web which holds it fast on either side, is forced by the batten to make a compact union with the warp. He maintains that even the weaver's art was discovered by wise men, forgetting that the more complicated art which he describes was invented in later days—the art wherein
 
-> **[verse_insert]**
->
 > The web is bound to frame; asunder now  
 > The reed doth part the warp. Between the threads  
 > Is shot the woof by pointed shuttles borne;  
@@ -917,8 +863,6 @@ I am not speaking of that philosophy which has placed the citizen outside his co
 
 Next there came the fortune-favoured period when the bounties of nature lay open to all, for men's indiscriminate use, before avarice and luxury had broken the bonds which held mortals together, and they, abandoning their communal existence, had separated and turned to plunder. The men of the second age were not wise men, even though they did what wise men should do.[^fn-p0435-2] Indeed, there is no other condition of the human race that anyone would regard more highly; and if God should commission a man to fashion earthly creatures and to bestow institutions upon peoples, this man would approve of no other system than that which obtained among the men of that age, when
 
-> **[verse_insert]**
->
 > No ploughman tilled the soil, nor was it right  
 > To portion off or bound one's property.  
 > Men shared their gains, and earth more freely gave  
@@ -964,8 +908,6 @@ You and I will agree, I think, that outward things are sought for the satisfacti
 
 The irrational part of the soul is twofold [^fn-p0463-2] : the one part is spirited, ambitious, uncontrolled ; its seat is in the passions ; the other is lowly, sluggish, and devoted to pleasure. Philosophers have neglected the former, which, though unbridled, is yet better, and is certainly more courageous and more worthy of a man, and have regarded the latter, which is nerveless and ignoble, as indispensable to the happy life. They have ordered reason to serve this latter ; they have made the Supreme Good of the noblest living being an abject and mean affair, and a monstrous hybrid, too, composed of various members which harmonize but ill. For as our Vergil, describing Scylla, says [^fn-p0465-1] :
 
-> **[verse_insert]**
->
 > Above, a human face and maiden's breast,—  
 > A beauteous breast,—below, a monster huge  
 > Of bulk and shapeless, with a dolphin's tail  
@@ -987,8 +929,6 @@ But some say: “Only to the immortal gods is given virtue and the happy life; w
 
 But
 
-> **[verse_insert]**
->
 > He in whose body virtue dwells, and spirit  
 > E'er present,[^fn-p0479-1]
 
@@ -996,14 +936,10 @@ is equal to the gods; mindful of his origin, he strives to return thither. No ma
 
 The soul, I affirm, knows that riches are stored elsewhere than in men's heaped-up treasure-houses; that it is the soul, and not the strong-box, which should be filled. It is the soul that men may set in dominion over all things, and may install as owner of the universe, so that it may limit its riches only by the boundaries of East and West, and, like the gods, may possess all things ; and that it may, with its own vast resources, look down from on high upon the wealthy, no one of whom rejoices as much in his own wealth as he resents the wealth of another. When the soul has transported itself to this lofty height, it regards the body also, since it is a burden which must be borne, not as a thing to love, but as a thing to oversee ; nor is it subservient to that over which it is set in mastery. For no man is free who is a slave to his body. Indeed, omitting all the other masters which are brought into being by excessive care for the body, the sway which the body itself exercises is captious and fastidious. Forth from this body the soul issues, now with unruffled spirit, now with exultation, and, when once it has gone forth, asks not what shall be the end of the deserted clay. No ; just as we do not take thought for the clippings of the hair and the beard, even so that divine soul, when it is about to issue forth from the mortal man, regards the destination of its earthly vessel—whether it be consumed by fire, or shut in by a stone, or buried in the earth, or torn by wild beasts—as being of no more concern to itself than is the afterbirth to a child just born. And whether this body shall be cast out and plucked to pieces by birds, or devoured when
 
-> **[verse_insert]**
->
 > thrown to the sea-dogs as prey,[^fn-p0481-1]
 
 how does that concern him who is nothing ? Nay, even when it is among the living, the soul fears nothing that may happen to the body after death ; for though such things may have been threats, they were not enough to terrify the soul previous to the moment of death. It says : “ I am not frightened by the executioner's hook,[^fn-p0483-1] nor by the revolting mutilation of the corpse which is exposed to the scorn of those who would witness the spectacle. I ask no man to perform the last rites for me ; I entrust my remains to none. Nature has made provision that none shall go unburied. Time will lay away one whom cruelty has cast forth." Those were eloquent words which Maecenas uttered :
 
-> **[verse_insert]**
->
 > I want no tomb ; for Nature doth provide  
 > For outcast bodies burial.[^fn-p0483-2]
 

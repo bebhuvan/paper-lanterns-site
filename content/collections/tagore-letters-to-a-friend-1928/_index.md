@@ -291,14 +291,14 @@
   {
    "format": "epub",
    "file": "tagore-letters-to-a-friend-1928.epub",
-   "bytes": 196711,
-   "sha256": "6798049cefae63b0fa94dc273b54bbf91cfed63309f89e15459b654ba66e4423"
+   "bytes": 196738,
+   "sha256": "d175142d8ef1db051221487ee91bc3db11bde3229ced12ac77f8d6cdd3c8e2d3"
   },
   {
    "format": "markdown",
    "file": "tagore-letters-to-a-friend-1928.md",
-   "bytes": 321965,
-   "sha256": "3e45397bf072c0edb9903929fcd792c08d4a2848bafa575781ac90a9866d7f14"
+   "bytes": 321710,
+   "sha256": "020f4f225c64527afbd5b818ec91449f2659570e1bdcf4fec78943a3f59aafc8"
   },
   {
    "format": "tei",
@@ -310,7 +310,7 @@
  "scan_base": "https://archive.org/download/letterstofriend00tago/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T21:17:40Z",
+  "compiled_at": "2026-11-28T12:58:17Z",
   "source_ast_sha256": "c872c163ee7d8ed6a5307f75910fb0826037e525674939c4b3c4d7fa3808c931",
   "hugo_renderer_version": "1.0.0"
  }

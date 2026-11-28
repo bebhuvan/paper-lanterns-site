@@ -159,8 +159,6 @@ This is what Aristo says ; and I shall answer his arguments one by one. First, i
 
 “ But if,” comes the answer. “ your precepts are not obvious, you will be bound to add proofs ; hence the proofs, and not the precepts, will be helpful.” But cannot the influence of the monitor avail even without proofs ? It is like the opinions of a legal expert, which hold good even though the reasons for them are not delivered. Moreover, the precepts which are given are of great weight in themselves, whether they be woven into the fabric of song, or condensed into prose proverbs, like the famous *Wisdom of* *Cato* [^fn-p0043-1] : “ Buy not what you need, but what you must have. That which you do not need, is dear even at a farthing.” Or those oracular or oracular-like replies, such as “ Be thrifty with time ! ” “ Know thyself ! ” Shall you not call yourself to account when someone repeats to you lines like these :
 
-> **[verse_insert]**
->
 > Forgetting trouble is the way to cure it.[^fn-p0043-2]  
 > Fortune favours the brave ; but the coward is foiled by his  
 >     faint heart.[^fn-p0043-3]
@@ -201,8 +199,6 @@ Therefore, if our dwelling is situated amid the din of a city, there should be a
 
 You keep asking me to explain without postponement [^fn-p0071-1] a topic which I once remarked should be put off until the proper time, and to inform you by letter whether this department of philosophy which the Greeks call *paraenetic,*[^fn-p0071-2] and we Romans call the “preceptorial,” is enough to give us perfect wisdom. Now I know that you will take it in good part if I refuse to do so. But I accept your request all the more willingly, and refuse to let the common saying lose its point:
 
-> **[verse_insert]**
->
 > Don't ask for what you'll wish you hadn't got.
 
 For sometimes we seek with effort that which we should decline if offered voluntarily. Call that fickleness or call it pettishness,[^fn-p0071-3]—we must punish the habit by ready compliance. There are many things that we would have men think that we wish, but that we really do not wish. A lecturer sometimes brings upon the platform a huge work of research, written in the tiniest hand and very closely folded; after reading off a large portion, he says: “I shall stop, if you wish;” and a shout arises: “Read on, read on!” from the lips of those who are anxious for the speaker to hold his peace then and there. We often want one thing and pray for another, not telling the truth even to the gods, while the gods either do not hearken, or else take pity on us. But I shall without pity avenge myself and shall load a huge letter upon your shoulders ; for your part, if you read it with reluctance, you may say : “ I brought this burden upon myself,” and may class yourself among those men whose too ambitious wives drive them frantic, or those whom riches harass, earned by extreme sweat of the brow, or those who are tortured with the titles which they have sought by every sort of device and toil, and all others who are responsible for their own misfortunes.
@@ -213,8 +209,6 @@ It is also said : “ If honourable conduct results from precepts, then precepts
 
 Furthermore, many arts, aye and the most liberal of them all, have their special doctrines, and not mere precepts of advice—the medical profession, for example. There are the different schools of Hippocrates, of Asclepiades, of Themison.[^fn-p0077-1] And besides, no art that concerns itself with theories can exist without its own doctrines; the Greeks call them *dogmas*, while we Romans may use the term “doctrines,” or “tenets,” or “adopted principles,” [^fn-p0077-2]—such as you will find in geometry or astronomy. But philosophy is both theoretic and practical; it contemplates and at the same time acts. You are indeed mistaken if you think that philosophy offers you nothing but worldly assistance; her aspirations are loftier than that. She cries: “I investigate the whole universe, nor am I content, keeping myself within a mortal dwelling, to give you favourable or unfavourable advice. Great matters invite and such as are set far above you. In the words of Lucretius: [^fn-p0077-3]
 
-> **[verse_insert]**
->
 > To thee shall I reveal the ways of heaven  
 > And of the gods, spreading before thine eyes  
 > The atoms,—whence all things are brought to birth,  
@@ -237,8 +231,6 @@ Now I declare to you that the same statement applies to philosophy. It was once 
 
 It used to be easy to scold men who were slaves to drink and who sought out more luxurious food ; it did not require a mighty effort to bring the spirit back to the simplicity from which it had departed only slightly. But now
 
-> **[verse_insert]**
->
 > One needs the rapid hand, the master-craft.[^fn-p0091-1]
 
 Men seek pleasure from every source. No vice remains within its limits ; luxury is precipitated into greed. We are overwhelmed with forgetfulness of that which is honourable. Nothing that has an attractive value, is base. Man, an object of reverence in the eyes of man, is now slaughtered for jest and sport ; and those whom it used to be unholy to train for the purpose of inflicting and enduring wounds, are thrust forth exposed and defenceless ; and it is a satisfying spectacle to see a man made a corpse.
@@ -257,8 +249,6 @@ The first way to worship the gods is to believe in the gods ; the next to acknow
 
 Then comes the second problem,—how to deal with men. What is our purpose ? What precepts do we offer ? Should we bid them refrain from bloodshed ? What a little thing it is not to harm one whom you ought to help ! It is indeed worthy of great praise, when man treats man with kindness ! Shall we advise stretching forth the hand to the shipwrecked sailor, or pointing out the way to the wanderer, or sharing a crust with the starving ? Yes, if I can only tell you first everything which ought to be afforded or withheld ; meantime, I can lay down for mankind a rule, in short compass, for our duties in human relationships : all that you behold, that which comprises both god and man, is one—we are the parts of one great body. Nature produced us related to one another, since she created us from the same source and to the same end. She engendered in us mutual affection, and made us prone to friendships. She established fairness and justice ; according to her ruling, it is more wretched to commit than to suffer injury. Through her orders, our hands are ready to help in the good work. Let this verse be in your heart and on your lips :
 
-> **[verse_insert]**
->
 > I am a man ; and nothing in man's lot  
 > Do I deem foreign to me.[^fn-p0103-1]
 
@@ -274,8 +264,6 @@ But reason is not satisfied by obvious facts ; its higher and nobler function is
 
 Posidonius holds that not only precept-giving (there is nothing to prevent my using this word), but even persuasion, consolation, and encouragement, are necessary. To these he adds *the investigation of causes* (but I fail to see why I should not dare to call it *aetiology*, since the scholars who mount guard over the Latin language thus use the term as having the right to do so). He remarks that it will also be useful to illustrate each particular virtue ; this science Posidonius calls *ethology*, while others call it *characterization.*[^fn-p0111-2] It gives the signs and marks which belong to each virtue and vice, so that by them distinction may be drawn between like things. Its function is the same as that of precept. For he who utters precepts says : “ If you would have self-control, act thus and so ! ” He who illustrates, says : “ The man who acts thus and so, and refrains from certain other things, possesses self-control.” If you ask what the difference here is, I say that the one gives the precepts of virtue, the other its embodiment. These illustrations, or, to use a commercial term, these *samples*, have, I confess, a certain utility; just put them up for exhibition well recommended, and you will find men to copy them. Would you, for instance, deem it a useful thing to have evidence given you by which you may recognize a thorough-bred horse, and not be cheated in your purchase or waste your time over a low-bred animal?[^fn-p0113-1] But how much more useful it is to know the marks of a surpassingly fine soul—marks which one may appropriate from another for oneself!
 
-> **[verse_insert]**
->
 > Straightway the foal of the high-bred drove, nursed up in the  
 >     pastures,  
 > Marches with spirited step, and treads with a delicate motion;  
@@ -294,8 +282,6 @@ Posidonius holds that not only precept-giving (there is nothing to prevent my us
 
 Vergil's description, though referring to something else, might perfectly well be the portrayal of a brave man; at any rate, I myself should select no other simile for a hero. If I had to describe Cato, who was unterrified amid the din of civil war, who was first to attack the armies that were already making for the Alps, who plunged face-forward into the civil conflict, this is exactly the sort of expression and attitude which I should give him. Surely none could “march with more spirited step” than one who rose against Caesar and Pompey at the same time and, when some were supporting Caesar's party and others that of Pompey, issued a challenge to both leaders,[^fn-p0115-1] thus showing that the republic also had some backers. For it is not enough to say of Cato “ without fear at its creakings.” Of course he is not afraid ! He does not quail before real and imminent noises ; in the face of ten legions, Gallic auxiliaries, and a motley host of citizens and foreigners, he utters words fraught with freedom, encouraging the Republic not to fail in the struggle for freedom, but to try all hazards ; he declares that it is more honourable to fall into servitude than to fall in line with it. What force and energy are his ! What confidence he displays amid the general panic ! He knows that he is the only one whose standing is not in question, and that men do not ask whether Cato is free, but whether he is still *among* the free. Hence his contempt for danger and the sword. What a pleasure it is to say, in admiration of the unflinching steadiness of a hero who did not totter when the whole state was in ruins :
 
-> **[verse_insert]**
->
 > A breast abounding in courage and muscle !
 
 It will be helpful not only to state what is the usual quality of good men, and to outline their figures and features, but also to relate and set forth what men there have been of this kind. We might picture that last and bravest wound of Cato's, through which Freedom breathed her last ; or the wise Laelius and his harmonious life with his friend Scipio ; or the noble deeds of the Elder Cato at home and abroad ; or the wooden couches of Tubero, spread at a public feast, goatskins instead of tapestry, and vessels of earthernware set out for the banquet before the very shrine of Jupiter! What else was this except consecrating poverty on the Capitol? Though I know no other deed of his for which to rank him with the Catos, is this one not enough? It was a censorship, not a banquet.[^fn-p0117-1] How lamentably do those who covet glory fail to understand what glory is, or in what way it should be sought! On that day the Roman populace viewed the furniture of many men; it marvelled only at that of one! The gold and silver of all the others has been broken up and melted down times without number; but Tubero's earthenware will endure throughout eternity. Farewell.
@@ -356,8 +342,6 @@ By these words, and words of a like kind, the malignity of the ulcer is quieted 
 
 I enclose a copy of the letter which I wrote to Marullus [^fn-p0141-1] at the time when he had lost his little son and was reported to be rather womanish in his grief— a letter in which I have not observed the usual form of condolence : for I did not believe that he should be handled gently, since in my opinion he deserved criticism rather than consolation. When a man is stricken and is finding it most difficult to endure a grievous wound, one must humour him for a while ; let him satisfy his grief or at any rate work off the first shock; but those who have set themselves to make lamentation should be rebuked forthwith, and should learn that there are certain follies even in tears.
 
-> **[enclosure]**
->
 > [^fn-p0143-1] “ Is it solace that you look for? Let me give you a scolding instead! You are like a woman in the way you take your son’s death; what would you do if you had lost an intimate friend? A son, a little child of unknown promise, is dead; a fragment of time has been lost. We hunt out excuses for grief; we would even utter unfair complaints about Fortune, as if Fortune would never give us just reason for complaining! But I had really thought that you possessed spirit enough to deal with concrete troubles, to say nothing of the shadowy troubles over which men make moan through force of habit. Had you lost a friend (which is the greatest blow of all),[^fn-p0143-2] you would have had to endeavour rather to rejoice because you had possessed him than to mourn because you had lost him.
 >
 > “ But many men fail to count up how manifold their gains have been, how great their rejoicings. Grief like yours has this among other evils: it is not only useless, but thankless. Has it then all been for nothing that you have had such a friend? During so many years, amid such close associations, after such intimate communion of personal interests, has nothing been accomplished? Do you bury friendship along with a friend? And why lament having lost him, if it be of no avail to have possessed him? Believe me, a great part of those we have loved, though chance has removed their persons, still abides with us. The past is ours, and there is nothing more secure for us than that which has been. We are ungrateful for past gains, because we hope for the future, as if the future—if so be that any future is ours—will not be quickly blended with the past. People set a narrow limit to their enjoyments if they take pleasure only in the present; both the future and the past serve for our delight—the one with anticipation, and the other with memories—but the one is contingent and may not come to pass, while the other must have been.
@@ -412,8 +396,6 @@ Every day and every hour reveal to us what a nothing we are, and remind us with 
 
 Do you ask me what this preamble means ? It refers to Cornelius Senecio, a distinguished and capable Roman knight, whom you knew : from humble beginnings he had advanced himself to fortune, and the rest of the path already lay downhill before him. For it is easier to grow in dignity than to make a start ; and money is very slow to come where there is poverty ; until it can creep out of that, it goes halting. Senecio was already bordering upon wealth, helped in that direction by two very powerful assets—knowing how to make money and how to keep it also ; either one of these gifts might have made him a rich man. Here was a person who lived most simply, careful of health and wealth alike. He had, as usual, called upon me early in the morning, and had then spent the whole day, even up to nightfall, at the bedside of a friend who was seriously and hopelessly ill. After a comfortable dinner, he was suddenly seized with an acute attack of quinsy, and, with the breath clogged tightly in his swollen throat, barely lived until daybreak. So within a very few hours after the time when he had been performing all the duties of a sound and healthy man, he passed away. He who was venturing investments by land and sea, who had also entered public life and left no type of business untried, during the very realization of financial success and during the very onrush of the money that flowed into his coffers, was snatched from the world !
 
-> **[verse_insert]**
->
 > Graft now thy pears, Meliboeus, and set out thy vines in  
 >     their order ! [^fn-p0173-1]
 
@@ -427,8 +409,6 @@ How, then, shall we avoid this vacillation ? In one way only,—if there be no r
 
 Therefore, my dear Lucilius, begin at once to live, and count each separate day as a separate life. He who has thus prepared himself, he whose daily life has been a rounded whole, is easy in his mind ; but those who live for hope alone find that the immediate future always slips from their grasp and that greed steals along in its place, and the fear of death, a curse which lays a curse upon everything else. Thence came that most debased of prayers, in which Maecenas [^fn-p0177-1] does not refuse to suffer weakness, deformity, and as a climax the pain of crucifixion—provided only that he may prolong the breath of life amid these sufferings : [^fn-p0177-2]
 
-> **[verse_insert]**
->
 > Fashion me with a palsied hand,  
 > Weak of foot, and a cripple ;  
 > Build upon me a crook-backed hump ;  
@@ -439,8 +419,6 @@ Therefore, my dear Lucilius, begin at once to live, and count each separate day 
 
 There he is, praying for that which, if it had befallen him, would be the most pitiable thing in the world ! And seeking a postponement of suffering, as if he were asking for life ! I should deem him most despicable had he wished to live up to the very time of crucifixion : “ Nay,” he cries, “ you may weaken my body if you will only leave the breath of life in my battered and ineffective carcase ! ” “ Maim me if you will, but allow me, misshapen and deformed as I may be, just a little more time in the world ! You may nail me up and set my seat upon the piercing cross ! ” Is it worth while to weigh down upon one’s own wound, and hang impaled upon a gibbet, that one may but postpone something which is the balm of troubles, the end of punishment ? Is it worth all this to possess the breath of life only to give it up ? What would you ask for Maecenas but the indulgence of Heaven ? What does he mean by such womanly and indecent verse ? What does he mean by making terms with panic fear ? What does he mean by begging so vilely for life ? He cannot ever have heard Vergil read the words :
 
-> **[verse_insert]**
->
 > Tell me, is Death so wretched as that ? [^fn-p0179-1]
 
 He asks for the climax of suffering, and—what is still harder to bear — prolongation and extension of suffering ; and what does he gain thereby ? Merely the boon of a longer existence. But what sort of life is a lingering death ? Can anyone be found who would prefer wasting away in pain, dying limb by limb, or letting out his life drop by drop, rather than expiring once for all ? Can any man be found willing to be fastened to the accursed tree,[^fn-p0179-2] long sickly, already deformed, swelling with ugly tumours on chest and shoulders, and draw the breath of life amid long-drawn-out agony ? I think he would have many excuses for dying even before mounting the cross !
@@ -473,8 +451,6 @@ Picture to yourself how great is the glow when all the stars mingle their fires 
 
 Such thoughts permit nothing mean to settle in the soul, nothing low, nothing cruel. They maintain that the gods are witnesses of everything. They order us to meet the gods' approval, to prepare ourselves to join them at some future time, and to plan for immortality. He that has grasped this idea shrinks from no attacking army, is not terrified by the trumpet-blast, and is intimidated by no threats. How should it not be that a man feels no fear, if he looks forward to death ? He also who believes that the soul abides only as long as it is fettered in the body, scatters it abroad forthwith when dissolved, so that it may be useful even after death. For though he is taken from men's sight, still
 
-> **[verse_insert]**
->
 > Often our thoughts run back to the hero, and often the glory  
 > Won by his race recurs to the mind. [^fn-p0199-1]
 
@@ -502,8 +478,6 @@ So you are curious to know the outcome of this prescription of travel ? As soon 
 
 Suppose that you hold wealth to be a good: poverty will then distress you, and,—which is most pitiable,—it will be an imaginary poverty. For you may be rich, and nevertheless, because your neighbour is richer, you suppose yourself to be poor exactly by the same amount in which you fall short of your neighbour. You may deem official position a good; you will be vexed at another’s appointment or re-appointment to the consulship; you will be jealous whenever you see a name several times in the state records. Your ambition will be so frenzied that you will regard yourself last in the race if there is anyone in front of you. Or you may rate death as the worst of evils, although there is really no evil therein except that which precedes death’s coming— fear. You will be frightened out of your wits, not only by real, but by fancied dangers, and will be tossed for ever on the sea of illusion. What benefit will it be to
 
-> **[verse_insert]**
->
 > Have threaded all the towns of Argolis,  
 > A fugitive through midmost press of foes ? [^fn-p0209-1]
 
@@ -519,8 +493,6 @@ Where lies the truth, then ? Can wisdom, the greatest of all the arts, be picked
 
 Change therefore to better associations : live with the Catos, with Laelius, with Tubero. Or, if you enjoy living with Greeks also, spend your time with Socrates and with Zeno : the former will show you how to die if it be necessary ; the latter how to die before it is necessary. Live with Chrysippus, with Posidonius : [^fn-p0215-1] they will make you acquainted with things earthly and things heavenly ; they will bid you work hard over something more than neat turns of language and phrases mouthed forth for the entertainment of listeners ; they will bid you be stout of heart and rise superior to threats. The only harbour safe from the seething storms of this life is scorn of the future, a firm stand, a readiness to receive Fortune's missiles full in the breast, neither skulking nor turning the back. Nature has brought us forth brave of spirit, and, as she has implanted in certain animals a spirit of ferocity, in others craft, in others terror, so she has gifted us with an aspiring and lofty spirit, which prompts us to seek a life of the greatest honour, and not of the greatest security, that most resembles the spirit of the universe, which it follows and imitates as far as our mortal steps permit. This spirit thrusts itself forward, confident of commendation and esteem. It is superior to all, monarch of all it surveys ; hence it should be subservient to nothing, finding no task too heavy, and nothing strong enough to weigh down the shoulders of a man.
 
-> **[verse_insert]**
->
 > Shapes dread to look upon, of toil or death [^fn-p0217-1]
 
 are not in the least dreadful, if one is able to look upon them with unflinching gaze, and is able to pierce the shadows. Many a sight that is held a terror in the night-time, is turned to ridicule by day. “ Shapes dread to look upon, of toil or death ” : our Vergil has excellently said that these shapes are dread, not in reality, but only “ to look upon ”—in other words, they seem terrible, but are not. And in these visions what is there, I say, as fear-inspiring as rumour has proclaimed ? Why, pray, my dear Lucilius, should a man fear toil, or a mortal death ? Countless cases occur to my mind of men who think that what they themselves are unable to do is impossible, who maintain that we utter words which are too big for man’s nature to carry out. But how much more highly do I think of these men ! They *can* do these things, but decline to do them. To whom that ever tried have these tasks proved false ? To what man did they not seem easier in the doing ? Our lack of confidence is not the result of difficulty ; the difficulty comes from our lack of confidence.
@@ -531,8 +503,6 @@ Do you desire another case ? Take that of the younger Marcus Cato, with whom For
 
 I tell you, you will marvel when you see
 
-> **[verse_insert]**
->
 > Atreus’ son, and Priam, and Achilles, wroth at both.[^fn-p0221-4]
 
 Like Achilles, he scorns and disarms each faction. And this is the vote which he casts concerning them both : “ If Caesar wins, I slay myself ; if Pompey, I go into exile.” What was there for a man to fear who, whether in defeat or in victory, had assigned to himself a doom which might have been assigned to him by his enemies in their utmost rage ? So he died by his own decision.
@@ -565,8 +535,6 @@ Do you ask what these are? Questions regarding which knowledge pleases rather th
 
 Now all the virtues which I have mentioned are goods, and so are their results. Have you any doubt that whatever can be touched is corporeal?
 
-> **[verse_insert]**
->
 > Nothing but body can touch or be touched,
 
 as Lucretius[^fn-p0233-1] says. Moreover, such changes as I have mentioned could not affect the body without touching it. Therefore, they are bodily. Furthermore, any object that has power to move, force, restrain, or control, is corporeal. Come now! Does not fear hold us back? Does not boldness drive us ahead? Bravery spur us on, and give us momentum? Restraint rein us in and call us back? Joy raise our spirits? Sadness cast us down? In short, any act on our part is performed at the bidding of wickedness or virtue. Only a body can control or forcefully affect another body. The good of the body is corporeal; a man's good is related to his bodily good; therefore, it is bodily.
@@ -583,8 +551,6 @@ Where is that common-sense of yours ? Where that deftness in examining things ? 
 
 Does one wish to die ? Let the mind be prepared to meet everything; let it know that it has reached the heights round which the thunder plays. Let it know that it has arrived where—
 
-> **[verse_insert]**
->
 > Grief and avenging Care have set their couch,  
 > And pallid sickness dwells, and drear Old Age.[^fn-p0237-1]
 
@@ -598,8 +564,6 @@ It is to this law that our souls must adjust themselves, this they should follow
 
 Let us address Jupiter, the pilot of this world-mass, as did our great Cleanthes in those most eloquent lines — lines which I shall allow myself to render in Latin, after the example of the eloquent Cicero. If you like them, make the most of them ; if they displease you, you will understand that I have simply been following the practice of Cicero :
 
-> **[verse_insert]**
->
 > Lead me, O Master of the lofty heavens,  
 > My Father, whithersoever thou shalt wish.  
 > I shall not falter, but obey with speed.  
@@ -620,22 +584,16 @@ This was the advice, I remember, which Attalus [^fn-p0243-2] gave me in the days
 
 “ What then ? ” you say, “ do we not know certain men who have sat for many years at the feet of a philosopher and yet have not acquired the slightest tinge of wisdom ? ” Of course I know such men. There are indeed persevering gentlemen who stick at it ; I do not call them pupils of the wise, but merely “ squatters.” [^fn-p0245-1] Certain of them come to hear and not to learn, just as we are attracted to the theatre to satisfy the pleasures of the ear, whether by a speech, or by a song, or by a play. This class, as you will see, constitutes a large part of the listeners, —who regard the philosopher's lecture-room merely as a sort of lounging-place for their leisure. They do not set about to lay aside any faults there, or to receive a rule of life, by which they may test their characters ; they merely wish to enjoy to the full the delights of the ear. And yet some arrive even with notebooks, not to take down the matter, but only the words,[^fn-p0245-2] that they may presently repeat them to others with as little profit to these as they themselves received when they heard them. A certain number are stirred by high-sounding phrases, and adapt themselves to the emotions of the speaker with lively change of face and mind—just like the emasculated Phrygian priests [^fn-p0245-3] who are wont to be roused by the sound of the flute and go mad to order. But the true hearer is ravished and stirred by the beauty of the subject matter, not by the jingle of empty words. When a bold word has been uttered in defiance of death, or a saucy fling in defiance of Fortune, we take delight in acting straightway upon that which we have heard. Men are impressed by such words, and become what they are bidden to be, should but the impression abide in the mind, and should the populace, who discourage honourable things, not immediately lie in wait to rob them of this noble impulse ; only a few can carry home the mental attitude with which they were inspired. It is easy to rouse a listener so that he will crave righteousness ; for Nature has laid the foundations and planted the seeds of virtue in us all. And we are all born to these general privileges ; hence, when the stimulus is added, the good spirit is stirred as if it were freed from bonds. Have you not noticed how the theatre re-echoes whenever any words are spoken whose truth we appreciate generally and confirm unanimously ?
 
-> **[verse_insert]**
->
 > The poor lack much ; the greedy man lacks all.[^fn-p0247-1]  
 > A greedy man does good to none ; he does  
 > Most evil to himself.[^fn-p0247-2]
 
 At such verses as these, your meanest miser claps applause and rejoices to hear his own sins reviled. How much more do you think this holds true, when such things are uttered by a philosopher, when he introduces verses among his wholesome precepts, that he may thus make those verses sink more effectively into the mind of the neophyte ! Cleanthes used to say : [^fn-p0247-3] “ As our breath produces a louder sound when it passes through the long and narrow opening of the trumpet and escapes by a hole which widens at the end, even so the fettering rules of poetry clarify our meaning.” The very same words are more carelessly received and make less impression upon us, when they are spoken in prose; but when metre is added and when regular prosody has compressed a noble idea, then the selfsame thought comes, as it were, hurtling with a fuller fling. We talk much about despising money, and we give advice on this subject in the lengthiest of speeches, that mankind may believe true riches to exist in the mind and not in one's bank account, and that the man who adapts himself to his slender means and makes himself wealthy on a little sum, is the truly rich man; but our minds are struck more effectively when a verse like this is repeated:
 
-> **[verse_insert]**
->
 > He needs but little who desires but little.
 
 or,
 
-> **[verse_insert]**
->
 > He hath his wish, whose wish includeth naught  
 > Save that which is enough.[^fn-p0249-1]
 
@@ -653,22 +611,16 @@ Attalus used to recommend a pillow which did not give in to the body; and now, o
 
 Now it makes a great deal of difference what you have in mind when you approach a given subject. If a man is to be a scholar,[^fn-p0257-1] and is examining the works of Vergil, he does not interpret the noble passage:
 
-> **[verse_insert]**
->
 > Time flies away, and cannot be restored[^fn-p0257-2]
 
 in the following sense: “ We must wake up; unless we hasten, we shall be left behind. Time rolls swiftly ahead, and rolls us with it. We are hurried along ignorant of our destiny; we arrange all our plans for the future, and on the edge of a precipice are at our ease.” Instead of this, he brings to our attention how often Vergil, in speaking of the rapidity of time, uses the word “ flies ” (*fugit*).
 
-> **[verse_insert]**
->
 > The choicest days of hapless human life  
 > Fly first; disease and bitter eld succeed,  
 > And toil, till harsh death rudely snatches all.[^fn-p0257-3]
 
 He who considers these lines in the spirit of a philosopher comments on the words in their proper sense: “ Vergil never says, ‘ Time goes,’ but ‘ Time flies,’ because the latter is the quickest kind of movement, and in every case our best days are the first to be snatched away ; why, then, do we hesitate to bestir ourselves so that we may be able to keep pace with this swiftest of all swift things ? ” The good flies past and the bad takes its place. Just as the purest wine flows from the top of the jar and the thickest dregs settle at the bottom ; so in our human life, that which is best comes first. Shall we allow other men to quaff the best, and keep the dregs for ourselves ? Let this phrase cleave to your soul ; you should be satisfied thereby as if it were uttered by an oracle :
 
-> **[verse_insert]**
->
 > Each choicest day of hapless human life  
 > Flies first.
 
@@ -676,34 +628,24 @@ Why “ choicest day ” ? Because what’s to come is unsure. Why “ choicest 
 
 Let us therefore strive with all courage, omitting attractions by the way ; let us struggle with a single purpose, lest, when we are left behind, we comprehend too late the speed of quick-flying time, whose course we cannot stay. Let every day, as soon as it comes, be welcome as being the choicest, and let it be made our own possession. We must catch that which flees. Now he who scans with a scholar’s eye the lines I have just quoted, does not reflect that our first days are the best because disease is approaching and old age weighs upon us and hangs over our heads while we are still thinking about our youth. He thinks rather of Vergil's usual collocation of *disease and eld*; and indeed rightly. For old age is a disease which we cannot cure. “Besides,” he says to himself, “think of the epithet that accompanies *eld*; Vergil calls it *bitter*,”—
 
-> **[verse_insert]**
->
 > Disease and bitter eld succeed.
 
 And elsewhere Vergil says:
 
-> **[verse_insert]**
->
 > There dwelleth pale disease and bitter eld.[^fn-p0261-1]
 
 There is no reason why you should marvel that each man can collect from the same source suitable matter for his own studies; for in the same meadow the cow grazes, the dog hunts the hare, and the stork the lizard. When Cicero's book *On the State* is opened by a philologist, a scholar, or a follower of philosophy, each man pursues his investigation in his own way. The philosopher wonders that so much could have been said therein against justice. The philologist takes up the same book and comments on the text as follows: There were two Roman kings—one without a father and one without a mother. For we cannot settle who was Servius's mother, and Ancus, the grandson of Numa, has no father on record.[^fn-p0261-2] The philologist also notes that the officer whom we call dictator, and about whom we read in our histories under that title, was named in old times the *magister populi*; such is the name existing to-day in the augural records, proved by the fact that he whom the dictator chose as second in command was called *magister equitum*. He will remark, too, that Romulus met his end during an eclipse ; that there was an appeal to the people even from the kings (this is so stated in the pontiffs' register and is the opinion of others, including Fenestella [^fn-p0263-1]). When the scholar unrolls this same volume, he puts down in his note-book the forms of words, noting that *reapse*, equivalent to *re ipsa*, is used by Cicero, and *sepse* [^fn-p0263-2] just as frequently, which means *se ipse*. Then he turns his attention to changes in current usage. Cicero, for example, says : “ Inasmuch as we are summoned back from the very *calx* by his interruption.” Now the line in the circus which we call the *creta*,[^fn-p0263-3] was called the *calx* by men of old time. Again, he puts together some verses by Ennius, especially those which referred to Africanus :
 
-> **[verse_insert]**
->
 > A man to whom nor friend nor foe could give  
 > Due meed for all his efforts and his deeds.[^fn-p0263-4]
 
 From this passage the scholar declares that he infers the word *opem* to have meant formerly not merely *assistance*, but *efforts*. For Ennius must mean that neither friend nor foe could pay Scipio a reward worthy of his efforts. Next, he congratulates himself on finding the source of Vergil's words :
 
-> **[verse_insert]**
->
 > Over whose head the mighty gate of Heaven  
 > Thunders,[^fn-p0263-5]
 
 remarking that Ennius stole the idea from Homer, and Vergil from Ennius. For there is a couplet by Ennius, preserved in this same book of Cicero's, *On* *the State* : [^fn-p0265-1]
 
-> **[verse_insert]**
->
 > If it be right for a mortal to scale the regions of Heaven,  
 > Then the huge gate of the sky opens in glory to *me*.
 
@@ -741,8 +683,6 @@ There is no reason, however, why you should ask the gods to be hostile to anyone
 
 If, however, you are wise, measure all things according to the state of man ; restrict at the same time both your joys and your fears. Moreover, it is worth while not to rejoice at anything for long, so that you may not fear anything for long. But why do I confine the scope of this evil ? There is no reason why you should suppose that anything is to be feared. All these things which stir us and keep us a-flutter, are empty things. None of us has sifted out the truth ; we have passed fear on to one another ; none has dared to approach the object which caused his dread, and to understand the nature of his fear—aye, the good behind it. That is why falsehood and vanity still gain credit—because they are not refuted. Let us account it worth while to look closely at the matter ; then it will be clear how fleeting, how unsure, and how harmless are the things which we fear. The disturbance in our spirits is similar to that which Lucretius detected :
 
-> **[verse_insert]**
->
 > Like boys who cower frightened in the dark,  
 > So grown-ups in the light of day feel fear.[^fn-p0281-1]
 
@@ -830,8 +770,6 @@ Some individual makes these vices fashionable— some person who controls the el
 
 These and similar faults, which imitation stamps upon one’s style, are not necessarily indications of loose standards or of debased mind ; for they are bound to be personal and peculiar to the writer, enabling one to judge thereby of a particular author’s temperament ; just as an angry man will talk in an angry way, an excitable man in a flurried way, and an effeminate man in a style that is soft and unresisting. You note this tendency in those who pluck out, or thin out, their beards, or who closely shear and shave the upper lip while preserving the rest of the hair and allowing it to grow, or in those who wear cloaks of outlandish colours, who wear transparent togas, and who never deign to do anything which will escape general notice ; they endeavour to excite and attract men’s attention, and they put up even with censure, provided that they can advertise themselves. That is the style of Maecenas and all the others who stray from the path, not by hazard, but consciously and voluntarily. This is the result of great evil in the soul. As in the case of drink, the tongue does not trip until the mind is overcome beneath its load and gives way or betrays itself ; so that intoxication of style—for what else than this can I call it ?—never gives trouble to anyone unless the soul begins to totter. Therefore, I say, take care of the soul ; for from the soul issue our thoughts, from the soul our words, from the soul our dispositions, our expressions, and our very gait. When the soul is sound and strong, the style too is vigorous, energetic, manly ; but if the soul lose its balance, down comes all the rest in ruins.
 
-> **[verse_insert]**
->
 > If but the king be safe, your swarm will live  
 > Harmonious ; if he die, the bees revolt.[^fn-p0329-1]
 
@@ -845,8 +783,6 @@ I wish, my dear Lucilius, that you would not be too particular with regard to wo
 
 You are familiar with the young dandies,[^fn-p0333-1] natty as to their beards and locks, fresh from the bandbox ; you can never expect from them any strength or any soundness. Style is the garb of thought : if it be trimmed, or dyed, or treated, it shows that there are defects and a certain amount of flaws in the mind. Elaborate elegance is not a manly garb. If we had the privilege of looking into a good man's soul, oh what a fair, holy, magnificent, gracious, and shining face should we behold—radiant on the one side with justice and fortitude, on another with temperance and wisdom ! And, besides these, thriftiness, moderation, endurance, refinement, affability, and— though hard to believe—love of one's fellow-men, that Good which is so rare in man, all these would be shedding their own glory over that soul. There, too, forethought combined with elegance and, resulting from these, a most excellent greatness of soul (the noblest of all these virtues)—indeed what charm, O ye heavens, what authority and dignity would they contribute ! What a wonderful combination of sweetness and power ! No one could call such a face lovable without also calling it worshipful. If one might behold such a face, more exalted and more radiant than the mortal eye is wont to behold, would not one pause as if struck dumb by a visitation from above, and utter a silent prayer, saying : “ May it be lawful to have looked upon it !”? And then, led on by the encouraging kindliness of his expression, should we not bow down and worship ? Should we not, after much contemplation of a far superior countenance, surpassing those which we are wont to look upon, mild-eyed and yet flashing with life-giving fire—should we not then, I say, in reverence and awe, give utterance to those famous lines of our poet Vergil:
 
-> **[verse_insert]**
->
 > O maiden, words are weak! Thy face is more  
 > Than mortal, and thy voice rings sweeter far  
 > Than mortal man's; . . . . . . . . . . . . . . .  
@@ -863,23 +799,17 @@ Nor is such superficial decoration spread merely over walls and ceilings ; nay, 
 
 Verses of poets also are added to the account—verses which lend fuel to our passions, verses in which wealth is praised as if it were the only credit and glory of mortal man. People seem to think that the immortal gods cannot give any better gift than wealth—or even possess anything better :
 
-> **[verse_insert]**
->
 > The Sun-god's palace, set with pillars tall,  
 > And flashing bright with gold.[^fn-p0339-1]
 
 Or they describe the chariot of the Sun[^fn-p0339-2] :
 
-> **[verse_insert]**
->
 > Gold was the axle, golden eke the pole,  
 > And gold the tires that bound the circling wheels,  
 > And silver all the spokes within the wheels.
 
 And finally, when they would praise an epoch as the best, they call it the “ Golden Age.” Even among the Greek tragic poets there are some who regard pelf as better than purity, soundness, or good report :
 
-> **[verse_insert]**
->
 > Call me a scoundrel, only call me rich !  
 >   
 > All ask how great my riches are, but none  
@@ -991,8 +921,6 @@ Do you ask, then, what it is that has pleased me ? It is this noble saying which
 
 “ But one possesses too little, if one is merely free from cold and hunger and thirst.” Jupiter himself however, is no better off. Enough is never too little, and not-enough is never too much. Alexander was poor even after his conquest of Darius and the Indies. Am I wrong? He seeks something which he can really make his own, exploring unknown seas, sending new fleets over the Ocean, and, so to speak, breaking down the very bars of the universe. But that which is enough for nature, is not enough for man. There have been found persons who crave something more after obtaining everything; so blind are their wits and so readily does each man forget his start after he has got under way. He who[^fn-p0387-1] was but lately the disputed lord of an unknown corner of the world, is dejected when, after reaching the limits of the globe, he must march back through a world which he has made his own. Money never made a man rich; on the contrary, it always smites men with a greater craving for itself. Do you ask the reason for this? He who possesses more begins to be able to possess still more. To sum up, you may hale forth for our inspection any of the millionaires whose names are told off when one speaks of Crassus and Licinus. Let him bring along his rating and his present property and his future expectations, and let him add them all together : such a man, according to my belief, is poor ; according to yours, he may be poor some day. He, however, who has arranged his affairs according to nature's demands, is free from the fear, as well as from the sensation, of poverty. And in order that you may know how hard it is to narrow one's interests down to the limits of nature—even this very person of whom we speak, and whom you call poor, possesses something actually superfluous. Wealth, however, blinds and attracts the mob, when they see a large bulk of ready money brought out of a man's house, or even his walls crusted with abundance of gold, or a retinue that is chosen for beauty of physique, or for attractiveness of attire. The prosperity of all these men looks to public opinion; but the ideal man, whom we have snatched from the control of the people and of Fortune, is happy inwardly. For as far as those persons are concerned, in whose minds bustling [^fn-p0389-1] poverty has wrongly stolen the title of riches—these individuals have riches just as we say that we “ have a fever,” when really the fever has *us.* Conversely, we are accustomed to say : “ A fever grips him.” And in the same way we should say : “ Riches grip him.” There is therefore no advice—and of such advice no one can have too much—which I would rather give you than this : that you should measure all things by the demands of Nature ; for these demands can be satisfied either without cost or else very cheaply. Only, do not mix any vices with these demands. Why need you ask how your food should be served, on what sort of table, with what sort of silver, with what well-matched and smooth-faced young servants? Nature demands nothing except mere food.
 
-> **[verse_insert]**
->
 > Dost seek, when thirst inflames thy throat, a cup of gold ?  
 > Dost scorn all else but peacock's flesh or turbot  
 > When the hunger comes upon thee ?[^fn-p0391-1]
@@ -1025,8 +953,6 @@ But we, to whom such corruptible bodies have been allotted, nevertheless set ete
 
 For this reason the noble soul, knowing its better nature, while taking care to conduct itself honourably and seriously at the post of duty where it is placed, counts none of these extraneous objects as its own, but uses them as if they were a loan, like a foreign visitor hastening on his way. When we see a person of such steadfastness, how can we help being conscious of the image of a nature so unusual? Particularly if, as I remarked, it was shown to be true greatness by its consistency. It is indeed consistency that abides; false things do not last. Some men are like Vatinius or like Cato by turns;[^fn-p0405-2] at times they do not think even Curius stern enough, or Fabricius poor enough, or Tubero sufficiently frugal and contented with simple things; while at other times they vie with Licinus in wealth, with Apicius in banqueting, or with Maecenas in daintiness. The greatest proof of an evil mind is unsteadiness, and continued wavering between pretence of virtue and love of vice.
 
-> **[verse_insert]**
->
 > He'd have sometimes two hundred slaves at hand  
 > And sometimes ten. He'd speak of kings and grand  
 > Moguls and naught but greatness. Then he'd say:  
@@ -1071,8 +997,6 @@ Farewell.
 
 The day has already begun to lessen. It has shrunk considerably, but yet will still allow a goodly space of time if one rises, so to speak, with the day itself. We are more industrious, and we are better men if we anticipate the day and welcome the dawn ; but we are base churls if we lie dozing when the sun is high in the heavens, or if we wake up only when noon arrives ; and even then to many it seems not yet dawn. Some have reversed the functions of light and darkness ; they open eyes sodden with yesterday's debauch only at the approach of night. It is just like the condition of those peoples whom, according to Vergil, Nature has hidden away and placed in an abode directly opposite to our own :
 
-> **[verse_insert]**
->
 > When in our face the Dawn with panting steeds  
 > Breathes down, for them the ruddy evening kindles  
 > Her late-lit fires.[^fn-p0425-1]
@@ -1087,8 +1011,6 @@ Do you not believe that men live contrary to Nature who exchange the fashion of 
 
 When men have begun to desire all things in opposition to the ways of Nature, they end by entirely abandoning the ways of Nature. They cry : “ It is daytime : let us go to sleep ! It is the time when men rest : now for exercise, now for our drive, now for our lunch ! Lo, the dawn approaches : it is dinner-time ! We should not do as mankind do. It is low and mean to live in the usual and conventional way. Let us abandon the ordinary sort of day. Let us have a morning that is a special feature of ours, peculiar to ourselves ! ” Such men are, in my opinion, as good as dead. Are they not all but present at a funeral—and before their time too— when they live amid torches and tapers ? [^fn-p0429-2] I remember that this sort of life was very fashionable at one time : among such men as Acilius Buta, a person of praetorian rank, who ran through a tremendous estate and on confessing his bankruptcy to Tiberius, received the answer : “ You have waked up too late ! ” Julius Montanus was once reading a poem aloud ; he was a middling good poet, noted for his friendship with Tiberius, as well as his fall from favour. He always used to fill his poems with a generous sprinkling of sunrises and sunsets. Hence, when a certain person was complaining that Montanus had read all day long, and declared that no man should attend any of his readings, Natta Pinarius [^fn-p0431-1] remarked : “ I couldn’t make a fairer bargain than this : I am ready to listen to him from sunrise to sunset ! ” Montanus was reading, and had reached the words : [^fn-p0431-2]
 
-> **[verse_insert]**
->
 > ’Gins the bright morning to spread forth his flames clear-  
 >     burning ; the red dawn  
 > Scatters its light ; and the sad-eyed swallow [^fn-p0431-3] returns to  
@@ -1098,8 +1020,6 @@ When men have begun to desire all things in opposition to the ways of Nature, th
 
 Then Varus, a Roman knight, the hanger-on of Marcus Vinicius,[^fn-p0431-4] and a sponger at elegant dinners which he earned by his degenerate wit, shouted : “ Bed-time for Buta ! ” And later, when Montanus declaimed :
 
-> **[verse_insert]**
->
 > Lo, now the shepherds have folded their flocks, and the  
 >     slow-moving darkness  
 > ’Gins to spread silence o’er lands that are drowsily lulled  
@@ -1137,8 +1057,6 @@ You should learn such principles as these, nay rather you should learn them by h
 
 #### CXXIV. ON THE TRUE GOOD AS ATTAINED<br />BY REASON
 
-> **[verse_insert]**
->
 > Full many an ancient precept could I give,  
 > Didst thou not shrink, and feel it shame to learn  
 > Such lowly duties.[^fn-p0447-1]

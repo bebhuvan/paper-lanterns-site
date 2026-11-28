@@ -136,8 +136,8 @@
   {
    "format": "epub",
    "file": "newton-bentley-1756.epub",
-   "bytes": 95307,
-   "sha256": "58ec8623ff1861eca5b360fb1be647c0549c0b4fec90d1a4ed0adec7f2153731"
+   "bytes": 95333,
+   "sha256": "aeb2410a0f8ec10b4ab3028628c43b6fe93fcc0fc16c25e8ed23346cfeff2438"
   },
   {
    "format": "markdown",
@@ -155,7 +155,7 @@
  "scan_base": "https://archive.org/download/fourlettersfroms00newt/page/",
  "provenance": {
   "active_run_id": "canonical-v1-1756",
-  "compiled_at": "2026-11-27T21:13:55Z",
+  "compiled_at": "2026-11-28T12:57:03Z",
   "source_ast_sha256": "780c39d3ead0344720efc8aa04cb5a784a6ccab79a180f6a15e95dbec4b44669",
   "hugo_renderer_version": "1.0.0"
  }

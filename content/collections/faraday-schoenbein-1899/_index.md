@@ -245,8 +245,8 @@
   {
    "format": "epub",
    "file": "faraday-schoenbein-1899.epub",
-   "bytes": 416467,
-   "sha256": "a14b6d2db8955883322225a17747a29b2af1b041492016860f3c6a18d37bdbfb"
+   "bytes": 416492,
+   "sha256": "2feff19326a8c061c62c5263407c2fe14a3de6a3b3567447e9c5be46b198f0b4"
   },
   {
    "format": "markdown",
@@ -264,7 +264,7 @@
  "scan_base": "https://archive.org/download/lettersoffaraday00fararich/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-27T21:11:23Z",
+  "compiled_at": "2026-11-28T12:56:27Z",
   "source_ast_sha256": "f916eb0d556484a8b886fcfc3ba84f42dc4bf2ca3959696822f12aec6dc611d2",
   "hugo_renderer_version": "1.0.0"
  }

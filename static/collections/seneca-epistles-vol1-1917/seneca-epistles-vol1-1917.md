@@ -369,21 +369,15 @@ But I must stop, and pay my customary contribution, to balance this letter. The 
 
 It is likely that you will ask me why I quote so many of Epicurus’s noble words instead of words taken from our own school. But is there any reason why you should regard them as sayings of Epicurus and not common property? How many poets give forth ideas that have been uttered, or may be uttered, by philosophers! I need not touch upon the tragedians and our writers of national drama [^fn-p0065-4]; for these last are also somewhat serious, and stand half-way between comedy and tragedy. What a quantity of sagacious verses lie buried in the mime! How many of Publilius’s lines are worthy of being spoken by buskin-clad actors, as well as by wearers of the slipper [^fn-p0065-5]! I shall quote one verse of his, which concerns philosophy, and particularly that phase of it which we were discussing a moment ago, wherein he says that the gifts of Chance are not to be regarded as part of our possessions:
 
-> **[verse_insert]**
->
 > Still alien is whatever you have gained  
 > By coveting.[^fn-p0067-1]
 
 I recall that you yourself expressed this idea much more happily and concisely:
 
-> **[verse_insert]**
->
 > What Chance has made yours is not really yours.[^fn-p0067-2]
 
 And a third, spoken by you still more happily, shall not be omitted:
 
-> **[verse_insert]**
->
 > The good that could be given, can be removed.[^fn-p0067-3]
 
 I shall not charge this up to the expense account, because I have given it to you from your own stock. Farewell.
@@ -412,8 +406,6 @@ We marvel at certain animals because they can pass through fire and suffer no bo
 
 But you must not think that our school alone can utter noble words; Epicurus himself, the reviler of Stilbo, spoke similar language[^fn-p0079-1]; put it down to my credit, though I have already wiped out my debt for the present day.[^fn-p0079-2] He says: "Whoever does not regard what he has as most ample wealth, is unhappy, though he be master of the whole world." Or, if the following seems to you a more suitable phrase,—for we must try to render the meaning and not the mere words: "A man may rule the world and still be unhappy, if he does not feel that he is supremely happy." In order, however, that you may know that these sentiments are universal,[^fn-p0079-3] suggested, of course, by Nature, you will find in one of the comic poets this verse:
 
-> **[verse_insert]**
->
 > Unblest is he who thinks himself unblest.[^fn-p0079-4]
 
 For what does your condition matter, if it is bad in your own eyes? You may say: "What then? If yonder man, rich by base means, and yonder man, lord of many but slave of more, shall call themselves happy, will their own opinion make them happy?" It matters not what one says, but what one feels; also, not how one feels on one particular day, but how one feels at all times. There is no reason, however, why you should fear that this great privilege will fall into unworthy hands; only the wise man is pleased with his own. Folly is ever troubled with weariness of itself. Farewell.
@@ -452,8 +444,6 @@ Our span of life is divided into parts; it consists of large circles enclosing s
 
 Pacuvius, who by long occupancy made Syria his own,[^fn-p0095-2] used to hold a regular burial sacrifice in his own honour, with wine and the usual funeral feasting, and then would have himself carried from the dining-room to his chamber, while eunuchs applauded and sang in Greek to a musical accompaniment: “He has lived his life, he has lived his life!” Thus Pacuvius had himself carried out to burial every day. Let us, however, do from a good motive what he used to do from a debased motive; let us go to our sleep with joy and gladness; let us say:
 
-> **[verse_insert]**
->
 > I have lived; the course which Fortune set for me  
 > Is finished.[^fn-p0095-3]
 
@@ -559,8 +549,6 @@ Even Epicurus, the teacher of pleasure, used to observe stated intervals, during
 
 So begin, my dear Lucilius, to follow the custom of these men, and set apart certain days on which you shall withdraw from your business and make yourself at home with the scantiest fare. Establish business relations with poverty.
 
-> **[verse_insert]**
->
 > Dare, O my friend, to scorn the sight of wealth,  
 > And mould thyself to kinship with thy God.[^fn-p0147-1]
 
@@ -612,8 +600,6 @@ It is your own studies that will make you shine and will render you eminent. All
 
 That which Epicurus could promise his friend, this I promise you, Lucilius. I shall find favour among later generations; I can take with me names that will endure as long as mine. Our poet Vergil promised an eternal name to two heroes, and is keeping his promise:[^fn-p0169-1]
 
-> **[verse_insert]**
->
 > Blest heroes twain! If power my song possess,  
 > The record of your names shall never be  
 > Erased from out the book of Time, while yet  
@@ -683,8 +669,6 @@ I may become a poor man; I shall then be one among many. I may be exiled; I shal
 
 Allow me at this point to quote a verse of yours, first suggesting that, when you wrote it, you meant it for yourself no less than for others. It is ignoble to say one thing and mean another; and how much more ignoble to write one thing and mean another! I remember one day you were handling the well-known commonplace,—that we do not suddenly fall on death, but advance towards it by slight degrees; we die every day. For every day a little of our life is taken from us; even when we are growing, our life is on the wane. We lose our childhood, then our boyhood, and then our youth. Counting even yesterday, all past time is lost time; the very day which we are now spending is shared between ourselves and death. It is not the last drop that empties the water-clock, but all that which previously has flowed out; similarly, the final hour when we cease to exist does not of itself bring death; it merely of itself completes the death-process. We reach death at that moment, but we have been a long time on the way. In describing this situation, you said in your customary style (for you are always impressive, but never more pungent than when you are putting the truth in appropriate words):—
 
-> **[verse_insert]**
->
 > Not single is the death which comes; the death  
 > Which takes us off is but the last of all.
 
@@ -730,14 +714,10 @@ But let me pay off my debt and say farewell: “Real wealth is poverty adjusted 
 
 Do you suppose that you alone have had this experience? Are you surprised, as if it were a novelty, that after such long travel and so many changes of scene you have not been able to shake off the gloom and heaviness of your mind? You need a change of soul rather than a change of climate.[^fn-p0223-1] Though you may cross vast spaces of sea, and though, as our Vergil [^fn-p0223-2] remarks,
 
-> **[verse_insert]**
->
 > Lands and cities are left astern,
 
 your faults will follow you whithersoever you travel. Socrates made the same remark to one who complained; he said: “Why do you wonder that globe-trotting does not help you, seeing that you always take yourself with you? The reason which set you wandering is ever at your heels.” What pleasure is there in seeing new lands? Or in surveying cities and spots of interest? All your bustle is useless. Do you ask why such flight does not help you? It is because you flee along with yourself. You must lay aside the burdens of the mind; until you do this, no place will satisfy you. Reflect that your present behaviour is like that of the prophetess whom Vergil describes:[^fn-p0223-3] she is excited and goaded into fury, and contains within herself much inspiration that is not her own:
 
-> **[verse_insert]**
->
 > The priestess raves, if haply she may shake  
 > The great god from her heart.
 
@@ -797,8 +777,6 @@ What then is good? The knowledge of things. What is evil? The lack of knowledge 
 
 What we have to seek for, then, is that which does not each day pass more and more under the control of some power which cannot be withstood.[^fn-p0253-1] And what is this? It is the soul,—but the soul that is upright, good, and great. What else could you call such a soul than a god dwelling as a guest in a human body? A soul like this may descend into a Roman knight just as well as into a freedman's son or a slave. For what is a Roman knight, or a freedman's son, or a slave? They are mere titles, born of ambition or of wrong. One may leap to heaven from the very slums. Only rise
 
-> **[verse_insert]**
->
 > And mould thyself to kinship with thy God.[^fn-p0253-2]
 
 This moulding will not be done in gold or silver; an image that is to be in the likeness of God cannot be fashioned of such materials; remember that the gods, when they were kind unto men,[^fn-p0253-3] were moulded in clay. Farewell.
@@ -821,8 +799,6 @@ You wish me to close these letters also, as I closed my former letters, with cer
 
 Therefore, you need not call upon me for extracts and quotations; such thoughts as one may extract here and there in the works of other philosophers run through the whole body of our writings. Hence we have no “show-window goods,” nor do we deceive the purchaser in such a way that, if he enters our shop, he will find nothing except that which is displayed in the window. We allow the purchasers themselves to get their samples from anywhere they please. Suppose we should desire to sort out each separate motto from the general stock; to whom shall we credit them? To Zeno, Cleanthes, Chrysippus, Panaetius, or Posidonius? We Stoics are not subjects of a despot: each of us lays claim to his own freedom. With them,[^fn-p0259-3] on the other hand, whatever Hermarchus says, or Metrodorus, is ascribed to one source. In that brotherhood, everything that any man utters is spoken under the leadership and commanding authority[^fn-p0259-4] of one alone. We cannot, I maintain, no matter how we try, pick out anything from so great a multitude of things equally good.
 
-> **[verse_insert]**
->
 > Only the poor man counts his flock.[^fn-p0259-5]
 
 Wherever you direct your gaze, you will meet with something that might stand out from the rest, if the context in which you read it were not equally notable. For this reason, give over hoping that you can skim, by means of epitomes, the wisdom of distinguished men. Look into their wisdom as a whole; study it as a whole. They are working out a plan and weaving together, line upon line, a masterpiece, from which nothing can be taken away without injury to the whole. Examine the separate parts, if you like, provided you examine them as parts of the man himself. She is not a beautiful woman whose ankle or arm is praised, but she whose general appearance makes you forget to admire her single attributes.
@@ -869,8 +845,6 @@ You have promised to be a good man; you have enlisted under oath; that is the st
 
 “Then how can I free myself?” you ask. You cannot escape necessities, but you can overcome them.
 
-> **[verse_insert]**
->
 > By force a way is made.[^fn-p0279-3]
 
 And this way will be afforded you by philosophy. Betake yourself therefore to philosophy if you would be safe, untroubled, happy, in fine, if you wish to be, —and that is most important,—free. There is no other way to attain this end. Folly [^fn-p0279-4] is low, abject, mean, slavish, and exposed to many of the cruellest passions. These passions, which are heavy task-masters, sometimes ruling by turns, and sometimes together, can be banished from you by wisdom, which is the only real freedom. There is but one path leading thither, and it is a straight path; you will not go astray. Proceed with steady step, and if you would have all things under your control, put yourself under the control of reason; if reason becomes your ruler, you will become ruler over many. You will learn from her what you should undertake, and how it should be done; you will not blunder into things. You can show me no man who knows how he began to crave that which he craves. He has not been led to that pass by forethought; he has been driven to it by impulse. Fortune attacks us as often as we attack Fortune. It is disgraceful, instead of proceeding ahead, to be carried along, and then suddenly, amid the whirlpool of events, to ask in a dazed way: “How did I get into this condition?” Farewell.
@@ -915,8 +889,6 @@ However, I have this further reason for frightening you away from the latter mal
 
 You are doing an excellent thing, one which will be wholesome for you, if, as you write me, you are persisting in your effort to attain sound understanding; it is foolish to pray for this when you can acquire it from yourself. We do not need to uplift our hands towards heaven, or to beg the keeper of a temple to let us approach his idol's ear, as if in this way our prayers were more likely to be heard. God is near you, he is with you, he is within you. This is what I mean, Lucilius: a holy spirit indwells within us, one who marks our good and bad deeds, and is our guardian. As we treat this spirit, so are we treated by it. Indeed, no man can be good without the help of God. Can one rise superior to fortune unless God helps him to rise? He it is that gives noble and upright counsel. In each good man
 
-> **[verse_insert]**
->
 > A god doth dwell, but what god know we not.[^fn-p0297-1]
 
 If ever you have come upon a grove that is full of ancient trees which have grown to an unusual height, shutting out a view of the sky by a veil of pleached and intertwining branches, then the loftiness of the forest, the seclusion of the spot, and your marvel at the thick unbroken shade in the midst of the open spaces, will prove to you the presence of deity. Or if a cave, made by the deep crumbling of the rocks, holds up a mountain on its arch, a place not built with hands but hollowed out into such spaciousness by natural causes, your soul will be deeply moved by a certain intimation of the existence of God. We worship the sources of mighty rivers; we erect altars at places where great streams burst suddenly from hidden sources; we adore springs of hot water as divine, and consecrate certain pools because of their dark waters or their immeasurable depth. If you see a man who is unterrified in the midst of dangers, untouched by desires, happy in adversity, peaceful amid the storm, who looks down upon men from a higher plane, and views the gods on a footing of equality, will not a feeling of reverence for him steal over you? Will you not say: “This quality is too great and too lofty to be regarded as resembling this petty body in which it dwells? A divine power has descended upon that man.” When a soul rises superior to other souls, when it is under control, when it passes through every experience as if it were of small account, when it smiles at our fears and at our prayers, it is stirred by a force from heaven. A thing like this cannot stand upright unless it be propped by the divine. Therefore, a greater part of it abides in that place from whence it came down to earth. Just as the rays of the sun do indeed touch the earth, but still abide at the source from which they are sent; even so the great and hallowed soul, which has come down in order that we may have a nearer knowledge of divinity, does indeed associate with us, but still cleaves to its origin; on that source it depends, thither it turns its gaze and strives to go, and it concerns itself with our doings only as a being superior to ourselves.
@@ -1029,8 +1001,6 @@ This friend, in whose company you are jesting, is in fear. Help him, and take th
 
 I should deem your games of logic to be of some avail in relieving men's burdens, if you could first show me what part of these burdens they will relieve. What among these games of yours banishes lust? Or controls it? Would that I could say that they were merely of no profit! They are positively harmful. I can make it perfectly clear to you whenever you wish, that a noble spirit when involved in such subtleties is impaired and weakened. I am ashamed to say what weapons they supply to men who are destined to go to war with fortune, and how poorly they equip them! Is this the path to the greatest good? Is philosophy to proceed by such claptrap[^fn-p0343-1] and by quibbles which would be a disgrace and a reproach even for expounders[^fn-p0345-1] of the law? For what else is it that you men are doing, when you deliberately ensnare the person to whom you are putting questions, than making it appear that the man has lost his case on a technical error?[^fn-p0345-2] But just as the judge can reinstate those who have lost a suit in this way, so philosophy has reinstated these victims of quibbling to their former condition. Why do you men abandon your mighty promises, and, after having assured me in high-sounding language that you will permit the glitter of gold to dazzle my eyesight no more than the gleam of the sword, and that I shall, with mighty steadfastness, spurn both that which all men crave and that which all men fear, why do you descend to the ABC's of scholastic pedants? What is your answer?
 
-> **[verse_insert]**
->
 > Is this the path to heaven?[^fn-p0345-3]
 
 For that is exactly what philosophy promises to me, that I shall be made equal to God. For this I have been summoned, for this purpose have I come. Philosophy, keep your promise!
@@ -1049,8 +1019,6 @@ For this reason I am all the more angry that some men claim the major portion of
 
 Why do you torment yourself and lose weight over some problem which it is more clever to have scorned than to solve? When a soldier is undisturbed and travelling at his ease, he can hunt for trifles along his way; but when the enemy is closing in on the rear, and a command is given to quicken the pace, necessity makes him throw away everything which he picked up in moments of peace and leisure. I have no time to investigate disputed inflections of words, or to try my cunning upon them.
 
-> **[verse_insert]**
->
 > Behold the gathering clans, the fast-shut gates,  
 > And weapons whetted ready for the war.[^fn-p0351-1]
 
@@ -1058,8 +1026,6 @@ I need a stout heart to hear without flinching this din of battle which sounds r
 
 Rid me of these shadowy terrors; then you will more easily deliver to me the instruction for which I have prepared myself. At our birth nature made us teachable, and gave us reason, not perfect, but capable of being perfected. Discuss for me justice, duty, thrift, and that twofold purity, both the purity which abstains from another's person, and that which takes care of one's own self. If you will only refuse to lead me along by-paths, I shall more easily reach the goal at which I am aiming. For, as the tragic poet[^fn-p0353-2] says:
 
-> **[verse_insert]**
->
 > The language of truth is simple.
 
 We should not, therefore, make that language intricate; since there is nothing less fitting for a soul of great endeavour than such crafty cleverness. Farewell.
@@ -1122,14 +1088,10 @@ I shall postpone this topic for the present; it demands a long and special inves
 
 You can persuade me into almost anything now, for I was recently persuaded to travel by water. We cast off when the sea was lazily smooth; the sky, to be sure, was heavy with nasty clouds, such as usually break into rain or squalls. Still, I thought that the few miles between Puteoli and your dear Parthenope[^fn-p0377-1] might be run off in quick time, despite the uncertain and lowering sky. So, in order to get away more quickly, I made straight out to sea for Nesis,[^fn-p0377-2] with the purpose of cutting across all the inlets. But when we were so far out that it made little difference to me whether I returned or kept on, the calm weather, which had enticed me, came to naught. The storm had not yet begun, but the ground-swell was on, and the waves kept steadily coming faster. I began to ask the pilot to put me ashore somewhere; he replied that the coast was rough and a bad place to land, and that in a storm he feared a lee shore more than anything else. But I was suffering too grievously to think of the danger, since a sluggish seasickness which brought no relief was racking me, the sort that upsets the liver without clearing it. Therefore I laid down the law to my pilot, forcing him to make for the shore, willy-nilly. When we drew near, I did not wait for things to be done in accordance with Vergil's orders, until
 
-> **[verse_insert]**
->
 > Prow faced seawards [^fn-p0379-1]
 
 or
 
-> **[verse_insert]**
->
 > Anchor plunged from bow ; [^fn-p0379-2]
 
 I remembered my profession [^fn-p0379-3] as a veteran devotee of cold water, and, clad as I was in my cloak, let myself down into the sea, just as a cold-water bather should. What do you think my feelings were, scrambling over the rocks, searching out the path, or making one for myself? I understood that sailors have good reason to fear the land. It is hard to believe what I endured when I could not endure myself; you may be sure that the reason why Ulysses was shipwrecked on every possible occasion was not so much because the sea-god was angry with him from his birth; he was simply subject to seasickness. And in the future I also, if I must go anywhere by sea, shall only reach my destination in the twentieth year.[^fn-p0379-4]
@@ -1178,8 +1140,6 @@ So you say: “What iron nerves or deadened ears you must have, if your mind can
 
 Furthermore, an intermittent noise upsets me more than a steady one. But by this time I have toughened my nerves against all that sort of thing, so that I can endure even a boatswain marking the time in high-pitched tones for his crew. For I force my mind to concentrate, and keep it from straying to things outside itself; all outdoors may be bedlam, provided that there is no disturbance within, provided that fear is not wrangling with desire in my breast, provided that meanness and lavishness are not at odds, one harassing the other. For of what benefit is a quiet neighbourhood, if our emotions are in an uproar?
 
-> **[verse_insert]**
->
 > ’Twas night, and all the world was lulled to rest.[^fn-p0393-8]
 
 This is not true; for no real rest can be found when reason has not done the lulling. Night brings our troubles to the light, rather than banishes them; it merely changes the form of our worries. For even when we seek slumber, our sleepless moments are as harassing as the daytime. Real tranquillity is the state reached by an unperverted mind when it is relaxed. Think of the unfortunate man who courts sleep by surrendering his spacious mansion to silence, who, that his ear may be disturbed by no sound, bids the whole retinue of his slaves be quiet and that whoever approaches him shall walk on tiptoe; he tosses from this side to that and seeks a fitful slumber amid his frettings! He complains that he has heard sounds, when he has not heard them at all. The reason, you ask? His soul is in an uproar; it must be soothed, and its rebellious murmuring checked. You need not suppose that the soul is at peace when the body is still. Sometimes quiet means disquiet.
@@ -1188,8 +1148,6 @@ We must therefore rouse ourselves to action and busy ourselves with interests th
 
 Men think that we are in retirement, and yet we are not. For if we have sincerely retired, and have sounded the signal for retreat, and have scorned outward attractions, then, as I remarked above,[^fn-p0393-10] no outward thing will distract us; no music of men or of birds[^fn-p0393-11] can interrupt good thoughts, when they have once become steadfast and sure. The mind which starts at words or at chance sounds is unstable and has not yet withdrawn into itself; it contains within itself an element of anxiety and rooted fear, and this makes one a prey to care, as our Vergil says:
 
-> **[verse_insert]**
->
 > I, whom of yore no dart could cause to flee,  
 > Nor Greeks, with crowded lines of infantry,  
 > Now shake at every sound, and fear the air,  
@@ -1215,8 +1173,6 @@ Accordingly, as I said, I experienced a certain transformation, though it could 
 
 How scant of words our language is, nay, how poverty-stricken, I have not fully understood until to-day. We happened to be speaking of Plato, and a thousand subjects came up for discussion, which needed names and yet possessed none; and there were certain others which once possessed, but have since lost, their words because we were too nice about their use. But who can endure to be nice in the midst of poverty?[^fn-p0399-2] There is an insect, called by the Greeks *oestrus,*[^fn-p0401-1] which drives cattle wild and scatters them all over their pasturing grounds; it used to be called *asilus* in our language, as you may believe on the authority of Vergil :—
 
-> **[verse_insert]**
->
 > Near Silarus' groves, and eke Alburnus' shades  
 > Of green-clad oak-trees flits an insect, named  
 > *Asilus* by the Romans ; in the Greek  
@@ -1226,15 +1182,11 @@ How scant of words our language is, nay, how poverty-stricken, I have not fully 
 
 By which I infer that the word has gone out of use. And, not to keep you waiting too long, there were certain uncompounded words current, like *cernere ferro inter se,* as will be proved again by Vergil :—
 
-> **[verse_insert]**
->
 > Great heroes, born in various lands, had come  
 > To *settle matters* mutually with the sword.[^fn-p0401-3]
 
 This “settling matters” we now express by *decernere.* The uncompounded word has become obsolete. The ancients used to say *iusso,* instead of *iussero,* in conditional clauses. You need not take my word, but you may turn again to Vergil :—
 
-> **[verse_insert]**
->
 > The other soldiers shall conduct the fight  
 > With me, where I *shall bid.*[^fn-p0401-4]
 
@@ -1276,8 +1228,6 @@ I received great pleasure from your letter; kindly allow me to use these words i
 
 Accordingly, when our Vergil speaks of
 
-> **[verse_insert]**
->
 > The evil joys of the mind,[^fn-p0423-3]
 
 his words are eloquent, but not strictly appropriate. For no “joy” can be evil. He has given the name “joy” to pleasures, and has thus expressed his meaning. For he has conveyed the idea that men take delight in their own evil. Nevertheless, I was not wrong in saying that I received great “pleasure” from your letter; for although an ignorant[^fn-p0423-4] man may derive “joy” if the cause be an honourable one, yet, since his emotion is wayward, and is likely soon to take another direction, I call it “pleasure”; for it is inspired by an opinion concerning a spurious good; it exceeds control and is carried to excess.
@@ -1296,8 +1246,6 @@ All men of this stamp, I maintain, are pressing on in pursuit of joy, but they d
 
 Reflect, therefore, on this, that the effect of wisdom is a joy that is unbroken and continuous.[^fn-p0433-1] The mind of the wise man is like the ultra-lunar firmament[^fn-p0433-2]; eternal calm pervades that region. You have, then, a reason for wishing to be wise, if the wise man is never deprived of joy. This joy springs only from the knowledge that you possess the virtues. None but the brave, the just, the self-restrained, can rejoice. And when you query: “What do you mean? Do not the foolish and the wicked also rejoice?” I reply, no more than lions who have caught their prey. When men have wearied themselves with wine and lust, when night fails them before their debauch is done, when the pleasures which they have heaped upon a body that is too small to hold them begin to fester, at such times they utter in their wretchedness those lines of Vergil[^fn-p0433-3]:
 
-> **[verse_insert]**
->
 > Thou knowest how, amid false-glittering joys,  
 > We spent that last of nights.
 
@@ -1351,8 +1299,6 @@ Therefore let us continually think as much about our own mortality as about that
 
 Yesterday you were with us. You might complain if I said “yesterday” merely. This is why I have added “with us.” For, so far as I am concerned, you are always with me. Certain friends had happened in, on whose account a somewhat brighter fire was laid,—not the kind that generally bursts from the kitchen chimneys of the rich and scares the watch, but the moderate blaze which means that guests have come. Our talk ran on various themes, as is natural at a dinner; it pursued no chain of thought to the end, but jumped from one topic to another. We then had read to us a book by Quintus Sextius the Elder.[^fn-p0451-1] He is a great man, if you have any confidence in my opinion, and a real Stoic, though he himself denies it. Ye Gods, what strength and spirit one finds in him! This is not the case with all philosophers; there are some men of illustrious name whose writings are sapless. They lay down rules, they argue, and they quibble; they do not infuse spirit simply because they have no spirit. But when you come to read Sextius, you will say: “He is alive; he is strong; he is free; he is more than a man; he fills me with a mighty confidence before I close his book.” I shall acknowledge to you the state of mind I am in when I read his works: I want to challenge every hazard; I want to cry: “Why keep me waiting, Fortune? Enter the lists! Behold, I am ready for you!” I assume the spirit of a man who seeks where he may make trial of himself, where he may show his worth:
 
-> **[verse_insert]**
->
 > And fretting 'mid the unwarlike flocks he prays  
 > Some foam-flecked boar may cross his path, or else  
 > A tawny lion stalking down the hills.[^fn-p0453-1]

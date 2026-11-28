@@ -662,11 +662,9 @@ I <span class="small-caps">enclose</span> you, most honored friend, some words o
 
 Sunday.    A. v. <span class="small-caps">Humboldt</span>.
 
-> **[enclosure]**
->
 > <span class="small-caps">Dessau</span>, *December* 1, 1833.
 >
-> > <span class="small-caps">Accept</span> my best thanks for the books you sent me. Each in its way interested me very much. I am sorry not to have been personally acquainted with Rahel. Her mind now lies so clearly before me, that I should have been happy to have been acquainted with her exterior appearance, that it might suggest to me the intellect within.
+> <span class="small-caps">Accept</span> my best thanks for the books you sent me. Each in its way interested me very much. I am sorry not to have been personally acquainted with Rahel. Her mind now lies so clearly before me, that I should have been happy to have been acquainted with her exterior appearance, that it might suggest to me the intellect within.
 >
 > <span class="small-caps">Friederike</span>, Duchess at Anhalt.
 
@@ -1422,11 +1420,9 @@ A <span class="small-caps">disappointment</span>, dear friend, not to have found
 
 <span class="small-caps">Ht.</span>
 
-> **[enclosure]**
+> “ Kosmos. Sketch of a Physical Description of the World, by A. von Humboldt. From Sketches and Lectures delivered in the years 1827 and 1828, enlarged and corrected according to the latest researches.
 >
-> > “ Kosmos. Sketch of a Physical Description of the World, by A. von Humboldt. From Sketches and Lectures delivered in the years 1827 and 1828, enlarged and corrected according to the latest researches.
->
-> > “ ‘ Naturæ vero rerum vis atque majestas sin omnibus momentis fide caret, si quis modo partes ejus ac non totam complectatur animo.’—*Plin. Hist. Nat., lib.* 7. c. 1. Stuttgart.”
+> “ ‘ Naturæ vero rerum vis atque majestas sin omnibus momentis fide caret, si quis modo partes ejus ac non totam complectatur animo.’—*Plin. Hist. Nat., lib.* 7. c. 1. Stuttgart.”
 
 ### Letter 54: Humboldt → Varnhagen
 
@@ -1472,18 +1468,16 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 #### (C.)
 
-> **[verse_insert]**
->
-> > [*Biron speaks to the King of Navarre.*]
->
+> [*Biron speaks to the King of Navarre.*]
+
 > “These earthly godfathers of heaven's lights,  
 > That gave a name to every fixed star,  
 > Have no more profit of their shining nights,  
 > Than those that walk, and wot not what they are,  
 > Too much to know, is to know nought but fame;  
 > And every godfather can give a name.”
->
-> > <span class="small-caps">Shakespeare</span>, *Love's Labor Lost.* Act I. Scene 1.
+
+> <span class="small-caps">Shakespeare</span>, *Love's Labor Lost.* Act I. Scene 1.
 
 <span class="small-caps">Be</span> so kind as to send me back this page. I make use of your fine translation in a note which is now being printed in my *Kosmos.* You will permit me to say: “according to Spiker's translation.” It will give me pleasure to do so. Shall I excite the ire of the Marquis August von Schlegel or of Tieck Acorombonus? Please tell me whether they have also translated that passage? Many kind regards.
 
@@ -2360,8 +2354,6 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 In the Rhine and Moselle Gazette, No. 122 of the 29th of May, I am judged guilty of Voltairianism, denial of all revelations, of conspiring with Marheineke, Bruno Bauer, Feuerbach, nay even of the expedition against Luzerne—ipsissimis verbis—and all that on account of my Kosmos, page 381. The King had already been told that my book was the work of a demagogue and an infidel. Whereupon the King wrote me, that he could but say what Alfons said to Tasso:
 
-> **[verse_insert]**
->
 > “And so I hold it in my hand at last  
 > And call it *mine*, if I may use that word!”
 
@@ -2692,7 +2684,7 @@ In grateful submission,
 >
 > *The King wrote on the fly-leaf:*
 >
-> > My warmest thanks, dearest Humboldt. M. Bodelschwingh will send for Massmann. In all haste, as ever.
+> My warmest thanks, dearest Humboldt. M. Bodelschwingh will send for Massmann. In all haste, as ever.
 >
 > Your faithful          F. W.
 >
@@ -3277,11 +3269,9 @@ A. H<span class="small-caps">T</span>.
 
 * * *
 
-> **[enclosure]**
->
 > ###### (<span class="small-caps">Inclosure.</span>)
 >
-> > I cannot, fellow-citizens, more vividly express the profound gratitude I entertain, than by saying, that you have given me as great a pleasure as you have bestowed an unexpected honor. A pleasure such as this shall not be dashed by the question how I can possibly deserve this distinction at the hands of your beautiful city. You have worthily shown, not only that you value her material prosperity, but that you are alive to higher interests, and accord sympathy and respect to efforts directed to the advancement of knowledge, the education of the people, and the general culture of mankind. As a reward for a portion of these efforts, to which my long and chequered life has been devoted, I accept with pride your flattering gift. By the favor of two illustrious monarchs it has been my privilege, for twenty-two years, with but little interruption, to live as your townsman, and to find, in scenery beautiful by nature and art, those inspirations indispensable to a life-like portraiture of nature, which aims to display the workings of the powers of the universe. Grateful for this good fortune, I have adorned almost all my later writings with the historic name which has become dear to me, and in the walls of which the year 1767 witnessed the birth of my brother, whose memory lives in the hearts of those who have preserved a sense of the enlarged proportions of a political life which progresses in obedience to laws inherent in the constitution of society.
+> I cannot, fellow-citizens, more vividly express the profound gratitude I entertain, than by saying, that you have given me as great a pleasure as you have bestowed an unexpected honor. A pleasure such as this shall not be dashed by the question how I can possibly deserve this distinction at the hands of your beautiful city. You have worthily shown, not only that you value her material prosperity, but that you are alive to higher interests, and accord sympathy and respect to efforts directed to the advancement of knowledge, the education of the people, and the general culture of mankind. As a reward for a portion of these efforts, to which my long and chequered life has been devoted, I accept with pride your flattering gift. By the favor of two illustrious monarchs it has been my privilege, for twenty-two years, with but little interruption, to live as your townsman, and to find, in scenery beautiful by nature and art, those inspirations indispensable to a life-like portraiture of nature, which aims to display the workings of the powers of the universe. Grateful for this good fortune, I have adorned almost all my later writings with the historic name which has become dear to me, and in the walls of which the year 1767 witnessed the birth of my brother, whose memory lives in the hearts of those who have preserved a sense of the enlarged proportions of a political life which progresses in obedience to laws inherent in the constitution of society.
 >
 > A. v. <span class="small-caps">Humboldt.</span>
 >
@@ -3398,9 +3388,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 
 <span class="small-caps">Wednesday.</span>
 
-> **[enclosure]**
->
-> > With two yellow pamphlets, to his friend of many years, Varnhagen von Ense, with old admiration and attachment. The author.
+> With two yellow pamphlets, to his friend of many years, Varnhagen von Ense, with old admiration and attachment. The author.
 
 On the 29th January, 1852, Varnhagen's journal reads as follows: “Humboldt came at one o'clock, wonderfully robust for his time of life! Speaks with indignant scorn of the *coup d'état* in France, the undisguised outrage, the arbitrary banishments, and particularly the robbery of the estates of the Orleans family. The King was at first full of rejoicing, he and the court saw nothing offensive in the crime committed against the people, the legislature, the law, and the sanctity of oaths, but that the adventurer preserves universal suffrage, rests upon the people, practises socialism, and even wants to be emperor ; this is what makes him detested ! Humboldt is of opinion that in the revolution of February the establishment of the Provisional Government, which was immediately obeyed throughout France, was a piece of even greater audacity than the present usurpation of the one man who has already been president, and worn the name of government for three years. I reminded him of the parliament, and the committee of fifty at Frankfort-on-the-Main. In the disposition to acquiesce, he sees that national feeling of unity and cohesion which, among Frenchmen, suppresses all party feeling. Humboldt says there is no doubt that Louis Bonaparte is a son of Admiral Verhuel, and his brother, Morny, a son of General Flahault, who, he says, lived with both the sisters, the Queen of Holland and the Queen of Naples. Of Persigny—Fialin de Persigny— he speaks with the utmost contempt, calling him a raw, unkempt non-commissioned officer, who still arrogates to himself discoveries about the pyramids. Passing on to our own affairs, he deplored the narrowness, the pitiful character of our ministry ; he considers Raumer the most stupid of them all, stupid and unmannerly both; the King is cross and peevish, capricious, and prone to excuse himself by saying that he is powerless, and must be governed by his ministers.
 
@@ -3426,8 +3414,6 @@ A. <span class="small-caps">Humboldt</span>.
 
 * * *
 
-> **[enclosure]**
->
 > ###### <span class="small-caps">SUPPLEMENT.</span>
 >
 > “Spenersche Zeitung,” of 1852, Feb. 4, No. 29.—The transactions in reference to the formation of the second Chamber have repeatedly been the subject of our communications. It is perhaps not equally well known, that at this moment the attention of higher circles is also directed to the formation of the Second Chamber. The present electoral law presents the right of suffrage as one to be exercised or not at the option of the voter, without a corresponding obligation on his part. A law compelling men to vote would seem to be equally inexpedient and impracticable. But by refraining from voting in any number, the voters repose the decision of the question in the hands of an unknown minority, who, by exercising their privilege, frequently bring about a state of things by which representation is given, not to the political views of the constituency, but to their very opposite. The principles had in view in fixing the reconstruction of the First Chamber, have, by force of logical inference, led to the proposals to alter the electoral law for the Second Chamber in this manner, *that His Majesty, the King, shall appoint in each district, long before the election, a government candidate, who shall be the representative, unless the majority of the voters should at the election record their preference for another.* The specific arguments in support of such a plan will appear to-morrow in connexion with its details.
@@ -3467,8 +3453,6 @@ A. <span class="small-caps">Ht.</span>
 
 <span class="small-caps">Tuesday</span>, late at night.
 
-> **[letter_excerpt]**
->
 > The enclosed letter from August. Grau, of Montgomery County, Ohio, dated February 6, 1852, contains the following: “A gentleman who has travelled over a large portion of the earth, who, by the publication of so many excellent writings, has erected for himself so durable and so resplendent a monument on the field of literature and science, is not to be named by any German without the greatest esteem. When the names of great warriors who have spilt the blood of their fellow-men upon the battle-field shall be forgotten, your name will blaze for hundreds and thousands of years in the annals of history. But it is singular, at the same time, that the greatest naturalists, philosophers, and astronomers who have occupied the principal portion of their lives with new inventions, and with investigations into the elementary powers of nature, are often totally indifferent to their salvation or perdition in the world to come. Goethe, Schiller, Wieland, and Kant, were all distinguished characters and brilliant ideals, and in their walk and conversation were more or less observant of what are called the laws of morality, so as probably to abstain from cards, nine-pins, playhouses, and dancing, but their sphere of operations did not reach into eternity, and the fate of their fellow-men in the other world—their salvation—was of little interest to them." After launching into further sanctified regrets at the scarcity of true godliness, and its absence even in princes and royal chaplains, the writer continues: "The last King of Prussia, and his truly royal Louise, had some knowledge of a state of regeneration, as well as the last King of Sweden, the former French Marshal Bernadotte, Prince of Ponte Corvo. A poor peasant was better able to enlighten him on the means of salvation than one of the first bishops of the Lutheran church. O, Sir Privy Councillor, while I do full justice to your unblemished life, your high character as a statesman, and your acquirements as a man of science; and while I rejoice that Berlin—ay, that Prussia may boast of such a man as your Excellency, yet my joy would turn into holy exultation if I should have the honor of seeing you a warm disciple of Him who died upon Golgotha. Without Him, Lord Chamberlain, with all our acquirements, with all our boasted knowledge, we are singularly unhappy.” Further on, the letter reads: “Goethe says, on a certain occasion, that during the whole course of his long life he had not spent four happy weeks. These are the words of a great man of science. If Christ has not taken up his residence in our hearts, who else can be there but Satan? One of them, surely, must be there—one must wield the baton of command. It is manifestly impossible at one and the same time to serve two masters! Worthy sir, my gracious Lord Chamberlain, I am penetrated with great esteem for you and your lofty merits; I love and revere you. I am not worthy to unlace your shoes. This is the unconstrained language of my heart; although I have occupied myself with acquiring the elements of seventeen different languages, and can even at this day read the writings of the New Testament in seven different tongues. But I have not only been firmly convinced of the truth of the Christian religion for thirty-one years, but experience the influence of the Holy Ghost from day to day, and almost from hour to hour.” The letter is subscribed, “Your Grace's most devoted servant and brother in Christ, Augustus Grau.” Humboldt adds the remark: “An attempt at conversion, from the State of Ohio.”
 
 ### Letter 153: Humboldt → Varnhagen
@@ -4322,8 +4306,6 @@ Painting and painted at once, fresh images, brighter and brighter.[^fn-p0354-1]
 
 So my pedestrian prose has led you back, my friend, to the regions of the noblest of rhythms! It would make me proud, if the universe were not entitled to your favor. With even more modesty than the poor, for whose benefit the old man with the moss-grown beard* exhibits himself for the small compensation of five silver groschen. With what excellent taste you have transferred the English "*home*" into "*Daheim*." Indescribably beautiful is your poetry, full of grace
 
-> **[verse_insert]**
->
 > Werke der Kunst, der Natur, und Schrift und Geraeth des  
 >     Gelehrten.  
 > Aber ihn selbst inmitten des neidenswerthen Besitzthums  
@@ -4604,7 +4586,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 >
 > (<span class="small-caps">Inclosure in a letter from Humboldt to Varnhagen.</span>)
 >
-> > You ask me, dear friend, what were the earliest impressions produced upon me by Franz Baader! I first saw him in June, 1791, while studying the art of mining in Freiberg, after the journey with George Forster to England, and after my sojourn in the Hamburg Commercial Academy of Buesching and Ebeling. For eight months I enjoyed the daily intercourse of this amiable and gifted man. Franz Baader had then published his work on caloric, and his inclinations were all of a chemico-physical nature, with a slight infusion of ideas on the philosophy of physical science. He was active underground, more occupied with practical mining and furnace operations than with geognostic researches; thorough in the observation of fact, cheerful, and satirical, but always with good taste, and not intolerant of those who differed from him. His imagination was not then specially directed to religious subjects. He was generally popular, and a little feared at the same time, as is so common where there is a consciousness of mental superiority. His political opinions were liberal. It was the period of the Congress of Pillnitz in our neighborhood—a time and a neighborhood which gave occasion to political utterances.
+> You ask me, dear friend, what were the earliest impressions produced upon me by Franz Baader! I first saw him in June, 1791, while studying the art of mining in Freiberg, after the journey with George Forster to England, and after my sojourn in the Hamburg Commercial Academy of Buesching and Ebeling. For eight months I enjoyed the daily intercourse of this amiable and gifted man. Franz Baader had then published his work on caloric, and his inclinations were all of a chemico-physical nature, with a slight infusion of ideas on the philosophy of physical science. He was active underground, more occupied with practical mining and furnace operations than with geognostic researches; thorough in the observation of fact, cheerful, and satirical, but always with good taste, and not intolerant of those who differed from him. His imagination was not then specially directed to religious subjects. He was generally popular, and a little feared at the same time, as is so common where there is a consciousness of mental superiority. His political opinions were liberal. It was the period of the Congress of Pillnitz in our neighborhood—a time and a neighborhood which gave occasion to political utterances.
 
 * * *
 
@@ -4757,7 +4739,7 @@ In great haste, and incorrect.
 >
 > (Inclosed, a Letter from Friesen, of the year 1807, with this Superscription by Humboldt.)
 >
-> > A little gift for Miss Ludmilla Assing, the brilliant authoress of Elisa von Ahlefeldt, an autograph of my dear young friend Friesen, with sentiments of sincere thankfulness.
+> A little gift for Miss Ludmilla Assing, the brilliant authoress of Elisa von Ahlefeldt, an autograph of my dear young friend Friesen, with sentiments of sincere thankfulness.
 >
 > A. v. <span class="small-caps">Humboldt.</span>
 >

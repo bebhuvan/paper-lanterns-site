@@ -209,14 +209,14 @@
   {
    "format": "epub",
    "file": "cicero-letters-vol4-1900.epub",
-   "bytes": 527038,
-   "sha256": "31237f6c26d369b004c640b04b46c187496199088c9dd56c87254086e68b4def"
+   "bytes": 527064,
+   "sha256": "0530b305220f357fdb488b32f5f884bd7daa3c2adf11791e919635899844d7e8"
   },
   {
    "format": "markdown",
    "file": "cicero-letters-vol4-1900.md",
-   "bytes": 1082453,
-   "sha256": "0b255c5909f2c1a7668acb3e41695d684d4384d93029644d7c9d28b58d09ab7b"
+   "bytes": 1081986,
+   "sha256": "f0de948764f5a522cec52aea521469a9a58d6d3932ecd7e1ddef70fa92f384b3"
   },
   {
    "format": "tei",
@@ -228,8 +228,8 @@
  "scan_base": "https://archive.org/download/letterswholeexta04ciceuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T10:30:31Z",
-  "source_ast_sha256": "39214f8480316481bbe3fb81d6d7160f0a18720cc7f139ac6a5be6aeb623d52c",
+  "compiled_at": "2026-11-28T12:55:57Z",
+  "source_ast_sha256": "85bd279fc9169e43428476495bf209d1e82913949934f3df940c3bfbeb33c52c",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -249,14 +249,14 @@
   {
    "format": "epub",
    "file": "cicero-letters-vol1-1920.epub",
-   "bytes": 503283,
-   "sha256": "d30c2d3c4ef626dbe9c7a5875a44f74745f09cd3510d5871176cf3821845d9b2"
+   "bytes": 503308,
+   "sha256": "676643195295d4d39a1a40465a9240c06881cce6d080c252c77a53f9285df0c7"
   },
   {
    "format": "markdown",
    "file": "cicero-letters-vol1-1920.md",
-   "bytes": 1001217,
-   "sha256": "c2dc3595fe8dbdf735b9cc2b8d3d3f2db0b0b1c7469754c1f631758f6f324002"
+   "bytes": 1000659,
+   "sha256": "0ae95e543f8be2a147972592dcfcc7f562632dd05b7ec5f44bce3be1226d2d4b"
   },
   {
    "format": "tei",
@@ -268,8 +268,8 @@
  "scan_base": "https://archive.org/download/lettersofcicero01ciceiala/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:30:56Z",
-  "source_ast_sha256": "e4c6d4f164d25e124d74d4a2d22385acd3545042e16b16a7c611372d1d634105",
+  "compiled_at": "2026-11-28T12:55:42Z",
+  "source_ast_sha256": "a757b9032d52f6b950873c97dc8a4e0545092a7f69924d60192eaeb7b60cbcab",
   "hugo_renderer_version": "1.0.0"
  }
 }

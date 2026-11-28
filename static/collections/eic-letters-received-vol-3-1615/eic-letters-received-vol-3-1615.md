@@ -1519,15 +1519,11 @@ At Achein, the 23rd of June 1615.
 
 THE Hector and the Thomas being here accidentally met together,[^fn-p0168-1] it is by the merchants of the Thomas called in question which of the ships is fittest to work out her lading upon the coast of Sumatra, it being acknowledged that the Hector coming directly from Suratt is laden with goods that will do the Company service at any time hereafter, whereas those aboard the Thomas are so defective that they will hardly last the carrying to Bantam. To resolve this question each of us have set down our opinions under our hands, viz :
 
-> **[enclosure]**
->
-> > For my opinion, I think it fitting that the Hector should proceed in her voyage for Pryaman etc., for reasons which afterward we shall allege.
+> For my opinion, I think it fitting that the Hector should proceed in her voyage for Pryaman etc., for reasons which afterward we shall allege.
 >
 > Robt. Johnson.
 
-> **[enclosure]**
->
-> > Also I, Samuell Juxon, do allege that I hold it not expedient that the Hector should leave off her voyage and proceed directly for Bantam as is pretended by the merchants of the Thomas; for because we have now our despatch or free grant for trade at Priaman, Tecoo etc., the effecting whereof hath cost great charges and much labour, and the Thomas may also very well spend two months time, as also much bribes, before her despatch may be procured. And whereas it is by the said merchants of the Thomas alleged that their goods are defective and will not last the carrying to Bantam, I hold it needful that part of the said goods may be sent aboard the Hector, and we to do our endeavours at the places aforesaid as with the goods which be brought from Suratt; part also may be left here in Acheen, which may turn to profit; and with part may they barter with the King for pepper, namely their iron. And so by consequence the Thomas rather than the Hector I hold most fitting to relinquish the voyage, and to return directly for Bantam.
+> Also I, Samuell Juxon, do allege that I hold it not expedient that the Hector should leave off her voyage and proceed directly for Bantam as is pretended by the merchants of the Thomas; for because we have now our despatch or free grant for trade at Priaman, Tecoo etc., the effecting whereof hath cost great charges and much labour, and the Thomas may also very well spend two months time, as also much bribes, before her despatch may be procured. And whereas it is by the said merchants of the Thomas alleged that their goods are defective and will not last the carrying to Bantam, I hold it needful that part of the said goods may be sent aboard the Hector, and we to do our endeavours at the places aforesaid as with the goods which be brought from Suratt; part also may be left here in Acheen, which may turn to profit; and with part may they barter with the King for pepper, namely their iron. And so by consequence the Thomas rather than the Hector I hold most fitting to relinquish the voyage, and to return directly for Bantam.
 >
 > Samuel Juxon.
 

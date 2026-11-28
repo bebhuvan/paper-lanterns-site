@@ -409,8 +409,8 @@
   {
    "format": "epub",
    "file": "poe-valentine-letters-1925.epub",
-   "bytes": 171302,
-   "sha256": "b0de53f49d944590d6985bfd31f53c07d0daff9588af04f30c61f65b30fa0cec"
+   "bytes": 171328,
+   "sha256": "d2b80a4cb4dfa7f59855d041534b8f1a96e68bb17f592a0a7ebcfb144e656361"
   },
   {
    "format": "markdown",
@@ -428,7 +428,7 @@
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.88404/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-28T05:29:59Z",
+  "compiled_at": "2026-11-28T12:57:40Z",
   "source_ast_sha256": "4fbe1d8424829753e6e439803b519c387e3edb422541eadcc9507ef9666cd2d5",
   "hugo_renderer_version": "1.0.0"
  }

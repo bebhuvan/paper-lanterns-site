@@ -1379,8 +1379,6 @@ To prevent any more credulity of this sort as regards your old friend, I will se
 
 assailant, provided I observe the law.’ The emperor looked at Paeonius, who was hesitating, and made a sign of inquiry whether he accepted the conditions. But he had not a word to answer, and the prince spared his embarrassment ; at last, however, he managed to say : ‘ I agree to your conditions, if you can put them in verse on the spot.’ ‘ Very well,’ I said ; and turning back, as if to call for water for my hands, I remained in that attitude the time occupied by a quick servant in going round the table. I then resumed my former position, and the emperor said : ‘ Your undertaking was to ask in an impromptu our sanction for writing satire.’ I replied :
 
-> **[verse_insert]**
->
 > ‘ O mightiest prince, I pray that this be thy decree :  
 > let him who calls me libeller or prove his charge, or fear.’
 
@@ -1555,7 +1553,7 @@ Here is my epitaph:
 
 > **[verse_insert: Here is my epitaph:]**
 >
-> > ‘In this tomb a mourning country's hands have laid the matron Filimatia, whom with fierce stroke and swift, fate snatched from spouse, from sire, from five orphaned children. O pride of thy house, O glory of thy consort, O wise and pure and seemly, O strict and tender, and worthy to precede even the aged, by what art of thy gentle nature didst thou unite the qualities which seem at discord with each other? For a grave ease and a modesty not too severe for gaiety were ever the companions of thy life. Therefore we mourn thee taken, thy sixth lustre hardly run, and the due rites paid in this undue season of thy prime.’<sup>1</sup>
+> ‘In this tomb a mourning country's hands have laid the matron Filimatia, whom with fierce stroke and swift, fate snatched from spouse, from sire, from five orphaned children. O pride of thy house, O glory of thy consort, O wise and pure and seemly, O strict and tender, and worthy to precede even the aged, by what art of thy gentle nature didst thou unite the qualities which seem at discord with each other? For a grave ease and a modesty not too severe for gaiety were ever the companions of thy life. Therefore we mourn thee taken, thy sixth lustre hardly run, and the due rites paid in this undue season of thy prime.’<sup>1</sup>
 
 Whether you like the verses or not, hasten back to the city. You owe the bereaved homes of two fellow townsmen the duty of consolation. Pray God you so act that the manner of your action may never be your reproach hereafter. Farewell.
 
@@ -1828,9 +1826,7 @@ I <span class="small-caps">have</span> dreadful news. Yesterday profane hands al
 
 > *[Margin: 5]*
 
-> **[verse_insert]**
->
-> > ‘ A grandson not all unworthy of such a grandsire, I dedicate to him, though all too late, this epitaph, my father and my paternal uncles being dead, that you, O passer by, may never tread on unmounded earth, unwitting of the reverence due to him who is buried in this grave. Here lies Apollinaris, who, having ruled all Gaul, was gathered to the bosom of a mourning country. He was learned in the law and helpful to his kind above all other men. He laboured for the land, and for the State, and in the cause of eloquence ; and, example perilous to others, he dared be free under the rule of tyrants. But this stands as his chief title to fame, that of all his race he was the first to purify his brow with the sign of the cross and his limbs with baptismal water; he first abandoned the old sacrilegious rites. This is the highest glory, this the transcendent virtue, if a man outstrip in hope those whom he equals in honours, and is placed by his desert above his fathers though on earth his titles were the same as theirs.’
+> ‘ A grandson not all unworthy of such a grandsire, I dedicate to him, though all too late, this epitaph, my father and my paternal uncles being dead, that you, O passer by, may never tread on unmounded earth, unwitting of the reverence due to him who is buried in this grave. Here lies Apollinaris, who, having ruled all Gaul, was gathered to the bosom of a mourning country. He was learned in the law and helpful to his kind above all other men. He laboured for the land, and for the State, and in the cause of eloquence ; and, example perilous to others, he dared be free under the rule of tyrants. But this stands as his chief title to fame, that of all his race he was the first to purify his brow with the sign of the cross and his limbs with baptismal water; he first abandoned the old sacrilegious rites. This is the highest glory, this the transcendent virtue, if a man outstrip in hope those whom he equals in honours, and is placed by his desert above his fathers though on earth his titles were the same as theirs.’
 
 I know well that this epitaph is unworthy of our accomplished ancestor; yet methinks the souls of the lettered do not refuse a poetic tribute. And neither of us need regard as too belated the pious duty which we have now fulfilled in our quality as heirs in the third and fourth degree. How many revolving years rolled by before Alexander celebrated funeral rites for Achilles’ shade, or Julius Caesar for the shade of that Hector whom he treated as an ancestor of his own? Farewell.
 

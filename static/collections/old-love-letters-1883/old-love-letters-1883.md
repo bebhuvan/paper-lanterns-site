@@ -982,8 +982,6 @@ Your most obedient, most devoted humble servant,
 
 A gentleman asked me this morning, “What news from Lisbon?” and I answered, “She is exquisitely handsome.” Another desired to know when I had been last at Hampton Court. I replied, “It will be on Tuesday come se’nnight.” Pr’ythee, allow me at least to kiss your hand before that day, that my mind may be in some composure. O love!
 
-> **[verse_insert]**
->
 > A thousand torments dwell about thee,  
 > Yet who would live to live without thee?
 
@@ -1319,8 +1317,6 @@ It is natural for a young fellow to like the acquaintance of the females, and cu
 
 If you will be so good as to grant my wishes, and it should please Providence to spare us to the latest periods of life, I can look forward and see that even then, though bent down with wrinkled age, — even then, when all other worldly circumstances will be indifferent to me, I will regard my E. with the tenderest affection,—and for this plain reason, because she is still possessed of those noble qualities, improved to a much higher degree, which first inspired my affection for her.
 
-> **[verse_insert]**
->
 > “O happy state, when souls each other draw,  
 > Where love is liberty, and nature law.”
 
@@ -1344,9 +1340,9 @@ Burns’s correspondence with Mrs. McLehose, under the title of “Letters of Sy
 
 Did I ever repeat to you an epigram I made on a Mr. Elphinston, who has given a translation of *Martial*, a famous Latin poet? The poetry of Elphinston can only equal his prose notes. I was sitting in a merchant’s shop of my acquaintance, waiting somebody; he put *Elphinston* into my hand, and asked my opinion of it; I begged leave to write it on a blank leaf, which I did, as you shall see on a new page: —
 
-> **[verse_insert]**
->
-> ##### *To Mr. Elphinston.*
+#### *To Mr. Elphinston.*
+
+> **[verse_insert: To Mr. Elphinston.]**
 >
 > O thou whom poesy abhors!  
 > Whom poesy has turnèd out of doors!  
@@ -1355,8 +1351,6 @@ Did I ever repeat to you an epigram I made on a Mr. Elphinston, who has given a 
 
 I am determined to see you, if at all possible, on Saturday evening. Next week I must sing: —
 
-> **[verse_insert]**
->
 > “The night is my departing night,  
 >     The morn's the day I must awa':  
 > There's neither friend nor foe o' mine  
@@ -1370,8 +1364,6 @@ If I could see you sooner, I would be so much the happier; but I would not purch
 
 I shall certainly be ashamed of thus scrawling whole sheets of incoherence. The only *unity* (a sad word with poets and critics!) in my ideas is Clarinda. There my heart “reigns and revels.”
 
-> **[verse_insert]**
->
 > “What art thou, Love? whence are those charms,  
 >     That thus thou bear'st an universal rule?  
 > For thee the soldier quits his arms,  
@@ -1384,8 +1376,6 @@ I shall certainly be ashamed of thus scrawling whole sheets of incoherence. The 
 
 I like to have quotations ready for every occasion. They give one’s ideas so pat, and save the trouble of finding expressions adequate to one’s feelings. I think it is one of the greatest pleasures attending a poetic genius, that we can give our woes, cares, joys, loves, &c., an embodied form in verse, which, to me, is ever immediate ease. Goldsmith finely says of his muse: —
 
-> **[verse_insert]**
->
 > “Thou source of all my bliss and all my woe:  
 > Who found me poor at first, and keep’st me so.”
 
@@ -1422,8 +1412,6 @@ Monday Evening, 9 o'clock.
 
 <span class="small-caps">The</span> attraction of Love, I find, is in an inverse proportion to the attraction of the Newtonian philosophy. In the system of Sir Isaac, the nearer objects are to one another the stronger is the attractive force: in my system, every milestone that marked my progress from Clarinda awakened a keener pang of attachment to her. How do you feel, my love? is your heart ill at ease? I fear it. God forbid that these persecutors should harass that peace which is more precious to me than my own! Be assured I shall ever think of you, muse on you, and, in my hours of devotion, pray for you. The hour that you are not in all my thoughts— “ be that hour darkness! let the shadows of death cover it! let it not be numbered in the hours of day!”
 
-> **[verse_insert]**
->
 > “ When I forget my darling theme,  
 > Be my tongue mute! my fancy paint no more!  
 > And, dead to joy, forget my heart to beat!”
@@ -1449,8 +1437,6 @@ I <span class="small-caps">am</span> just now come in, and have read your letter
 
 Will you open, with satisfaction and delight, a letter from a man who loves you, who has loved you, and who will love you to death, through death, and forever? O Clarinda! what do I owe to Heaven for blessing me with such a piece of exalted excellence as you! I call over your idea, as the miser counts over his treasure! Tell me, were you studious to please me last night? I am sure you did it to transport. How rich am I who have such a treasure as you! You know me; you know how to make me happy, and you do it most effectually. God bless you with
 
-> **[verse_insert]**
->
 > “ Long life, long youth, long pleasure, and a friend ! ”
 
 To morrow-night, according to your own direction, I shall watch the window: ’t is the star that guides me to Paradise. The great relish to all is — that Honour — that Innocence — that Religion, are the witnesses and guarantees of our happiness. “ The Lord God knoweth,” and perhaps “ Israel, he shall know ” my love and your merit. Adieu, Clarinda! I am going to remember you in my prayers.

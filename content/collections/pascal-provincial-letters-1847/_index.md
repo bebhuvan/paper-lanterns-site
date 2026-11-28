@@ -156,14 +156,14 @@
   {
    "format": "epub",
    "file": "pascal-provincial-letters-1847.epub",
-   "bytes": 427555,
-   "sha256": "cef2903ce686e4e41ed39107f12bd6da0a65822df372bf318dee57b1fde4ee7e"
+   "bytes": 427581,
+   "sha256": "99eec77145b5129209916f9a05b10d60bea9d3c3866034ac4f839bcfc85e49f8"
   },
   {
    "format": "markdown",
    "file": "pascal-provincial-letters-1847.md",
-   "bytes": 948837,
-   "sha256": "c3323f36442b0d5fc6300b8400f1e47d722a2354e8d49d88214946ae6802c9c3"
+   "bytes": 948791,
+   "sha256": "b8cbbee4c449176abb0859b4779c1819cbd523dc9502f7abfcc4e0b16672af24"
   },
   {
    "format": "tei",
@@ -175,7 +175,7 @@
  "scan_base": "https://archive.org/download/provincialletter00pasc_1/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:29:00Z",
+  "compiled_at": "2026-11-28T12:57:36Z",
   "source_ast_sha256": "6449d1c772a7fc848d3119c995b9cb18323c2006f29f0c8944693c797db3cf60",
   "hugo_renderer_version": "1.0.0"
  }

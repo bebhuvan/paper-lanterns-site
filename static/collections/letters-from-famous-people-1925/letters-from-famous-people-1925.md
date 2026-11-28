@@ -987,11 +987,9 @@ DONALD BRIAN
 
 I RECOMMEND the following extract from a letter which Theodore Roosevelt wrote to his son “Ted,” when the latter was a freshman at Harvard. It contains good advice on the relative merits of popularity and good judgment.
 
-> **[letter_excerpt]**
+> “Exercise your own best judgment and form some idea of what the really best fellows in the class think on the subject. Do not make the mistake of thinking that the men who are merely undeveloped are really the best fellows, no matter how pleasant and agreeable they are or how popular. Popularity is a good thing, but it is not something for which to sacrifice studies or athletics or good standing in any way; and sometimes to seek it overmuch is to lose it. I do not mean this as applying to you, but as applying to certain men who still have a great vogue at first in the class, and of whom you will naturally tend to think pretty well.
 >
-> > “Exercise your own best judgment and form some idea of what the really best fellows in the class think on the subject. Do not make the mistake of thinking that the men who are merely undeveloped are really the best fellows, no matter how pleasant and agreeable they are or how popular. Popularity is a good thing, but it is not something for which to sacrifice studies or athletics or good standing in any way; and sometimes to seek it overmuch is to lose it. I do not mean this as applying to you, but as applying to certain men who still have a great vogue at first in the class, and of whom you will naturally tend to think pretty well.
->
-> > “In all these things I can only advise you in a very general way. You are on the ground. You know the men and the general college sentiment. You have gone in with the serious purpose of doing decently and honorably; of standing well in your studies; of showing that in athletics you mean business up to the extent of your capacity, and of getting the respect and liking of your classmates so far as they can be legitimately obtained.”
+> “In all these things I can only advise you in a very general way. You are on the ground. You know the men and the general college sentiment. You have gone in with the serious purpose of doing decently and honorably; of standing well in your studies; of showing that in athletics you mean business up to the extent of your capacity, and of getting the respect and liking of your classmates so far as they can be legitimately obtained.”
 
 ROBERT BRIDGES  
 (“Droch”)
@@ -1989,8 +1987,6 @@ FIDELITY to principle, loyalty to labor, consideration to comrades, and equity i
 
 As Masefield sings, they will find in—
 
-> **[verse_insert]**
->
 > “This life of ours,  
 > The half-seen prize, the difficult pursuit—  
 > The passionate lusts that shut us in their towers,  
@@ -2036,8 +2032,6 @@ Back in ancient Rome, the slaves, in order to protect themselves against the inh
 
 The great mind of Shakespeare in his turn accepted the idea that all men are brothers; and so we find on Shakespeare’s tomb or monument at Stratford, these puzzling words copied from the practice of the Roman slave, the most wretched man in the world:
 
-> **[verse_insert]**
->
 > “Good friend, for Jesus sake forebeare  
 > To digg the dust enclosed heare;  
 > Bleste be ye man yt spares thes stones,  
@@ -2631,11 +2625,9 @@ HAROLD MACGRATH
 
 AS I am particularly interested in promulgating sensible ideas of thrift, I believe that I can do nothing better than quote for the benefit of your pupils the following paragraphs from my own volume, “The Book of Thrift”:
 
-> **[enclosure]**
->
 > ###### “*Getting on in the World*”
 >
-> > “How to succeed, how to get on in the world—that is the problem that millions of earnest men and women are striving to solve, each in his own way, but all, consciously or unconsciously, observing the same general principles. “There is nothing in such an effort at variance with the highest moral standards. In fact, the zealous pursuit of such an object has a beneficial reflex action upon the character, as it has upon the physical and mental nature. “Saving has a beneficial moral effect, but extravagance, as it usually is acting a lie, is essentially immoral and breeds many other irregularities and sins. On the other hand, temperance and integrity go hand in hand with thrift. This course is the harder one, but it is doing hard things that develops strength and character.
+> “How to succeed, how to get on in the world—that is the problem that millions of earnest men and women are striving to solve, each in his own way, but all, consciously or unconsciously, observing the same general principles. “There is nothing in such an effort at variance with the highest moral standards. In fact, the zealous pursuit of such an object has a beneficial reflex action upon the character, as it has upon the physical and mental nature. “Saving has a beneficial moral effect, but extravagance, as it usually is acting a lie, is essentially immoral and breeds many other irregularities and sins. On the other hand, temperance and integrity go hand in hand with thrift. This course is the harder one, but it is doing hard things that develops strength and character.
 >
 > “Luck is a fetish. Too many persons believe in it, and fall down and worship it. Too often speculation takes the place of industry; gambling, of thrift; extravagance, of saving.
 >
@@ -3052,8 +3044,6 @@ The recent Conference in Washington to limit armaments was based upon the recogn
 
 I <span class="small-caps">suppose</span> that every normal being seeks joy. Many fail in the quest because there are so many counterfeits which they follow as false gods. Banks cannot prosper with counterfeits; business cannot succeed on a counterfeit basis—neither can a human life. Integrity is the key to a good name and a good name is retained by everlasting vigilance; it is easy to lose it, because it is harder to build up than to destroy. These are common-places, yet it is remarkable that withal they are so much disregarded. I have been thinking a good deal about joy—real joy. It is not found in envy, nor in dissatisfaction with one's lot, nor in shirking duties, nor in numerous counterfeit substitutes for a real life, but
 
-> **[verse_insert]**
->
 > Joy, staple and secure,  
 > The balm that will endure,  
 > In sacrifice is sanctified—  
@@ -3577,9 +3567,7 @@ I remember as a girl, I met James G. Blaine. As I was introduced to him I said: 
 
 To obtain influence, don’t forget good manners are an introduction to much that is best in life. I heard a great lecturer once say that he and President Roosevelt were the only two men he ever heard of who traveled all over Europe and saw the best people, on less than four hundred dollars. “We all know why Roosevelt was entertained,” he said, “but I will tell you my secret. It was because I could say ‘Thank you’ and ‘If you please’ in twenty-one languages!” And if the ability to say, “I am sorry,” and say it quick, is added to the vocabulary of man or maid, much is gained. I have in my possession a telegram that is very precious. It reads:
 
-> **[enclosure]**
->
-> > Gov. F. H. Pierpont, Alexandria, Va.: I am sorry to have offended you. I thought I was doing what you wished. I will examine the papers in the case tomorrow, and see if this is so.
+> Gov. F. H. Pierpont, Alexandria, Va.: I am sorry to have offended you. I thought I was doing what you wished. I will examine the papers in the case tomorrow, and see if this is so.
 >
 > A. Lincoln
 
@@ -4079,8 +4067,6 @@ I hope I have said something in this letter that will inspire and encourage. I h
 
 I <span class="small-caps">enclose</span> a copy of a little article which I wrote some time since, expressing my thoughts in regard to some of the things which hold back either a young man or a young woman in their efforts to succeed in business life. I see no reason to change my opinion regarding any of the statements set forth. I am glad to know of the little company of eight, who are desirous of making the best use of their business education, and after a long business experience, which has covered over sixty years of continuous effort to raise the standards of American business, I stretch forth my hand to each one of them in friendly encouragement, and in the hope that they will keep lighted the torch which is passed on to them by those of the older generation whose places they will be called upon to fill.
 
-> **[enclosure]**
->
 > An unsuccessful clerk or business man does not need to look far for the cause of his trouble. It is generally in himself or herself. It may be one of this dozen of little things that are not little things:
 >
 > - 1. He forgets that his worth is manifest by what he produces in management or sales.
@@ -4099,7 +4085,7 @@ I <span class="small-caps">enclose</span> a copy of a little article which I wro
 >
 > In hundreds of places in the business parts of London, during the Coronation ceremonies, great electric signs in color stood out saying—
 >
-> > “THE KING SAYS WE MUST *WAKE UP*.”
+> “THE KING SAYS WE MUST *WAKE UP*.”
 
 JOHN WANAMAKER
 
@@ -4288,9 +4274,9 @@ People who live in such ruts see too much of themselves and become dreadful bore
 
 I am and I must quote some lines by McLandburgh Wilson that drive home my message, as I understand it.
 
-> **[verse_insert]**
->
-> ###### Yourself
+###### Yourself
+
+> **[verse_insert: Yourself]**
 >
 > Don't think your charity will live  
 >    By just donating wealth to it;  

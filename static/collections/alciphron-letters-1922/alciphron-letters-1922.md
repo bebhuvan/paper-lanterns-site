@@ -1114,8 +1114,6 @@ You ought to know the reason why the girls jeer at me and why that old slave wom
 
 <span class="small-caps">Hurrah</span>, hurrah! the boat from Istria lying at the quay side now has brought a real treasure to Athens. He is a wonder, that merchant on board her: he makes our richest men, for all their gifts, seem stingy and avaricious, so lavish is he with his purse. He has sent for every single parasite in town, and besides us for the most expensive courtesans and the prettiest music-girls. As for the stage folk, to put it briefly, he has invited the whole crowd. Moreover it is not his father's property he is spending, but his own fair gains. He loves the sound of harp and flute, his conversation is full of grace and charm, and he is never violent to anybody. He is, besides, of most attractive appearance: upon his face dance all the fairies of spring, and allurement, you might well say, sits upon his lips. He is a good sportsman and a witty talker.
 
-> **[verse_insert]**
->
 > “As quoth the poet—‘From his lip  
 > The muses will their nectar sip.’”
 

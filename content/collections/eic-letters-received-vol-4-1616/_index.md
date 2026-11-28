@@ -223,14 +223,14 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-4-1616.epub",
-   "bytes": 469906,
-   "sha256": "61db725bd70f2e1a00f7c509ef3a012363a660e908b4667f6426cfe7f2b92898"
+   "bytes": 469932,
+   "sha256": "6a1e609b27af01338ad4bf93f479a2bd8f2aa6100b1031daa74a7f0bd0a114a0"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-4-1616.md",
-   "bytes": 934021,
-   "sha256": "ed9507042ca4d5fd86097a3e542de8653f79d340f3637745be1b26e33e2a6626"
+   "bytes": 934001,
+   "sha256": "c7fbc2b6841e998a50b90694398a1688d36a4bf3db3179d9355eb460e66e082a"
   },
   {
    "format": "tei",
@@ -242,7 +242,7 @@
  "scan_base": "https://archive.org/download/lettersreceivedb04east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:31:33Z",
+  "compiled_at": "2026-11-28T12:56:15Z",
   "source_ast_sha256": "13191b22ebb8f7c2661710680ad9823be445dbfd735bd95e0a36f4d208f06e37",
   "hugo_renderer_version": "1.0.0"
  }

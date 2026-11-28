@@ -139,8 +139,8 @@
   {
    "format": "epub",
    "file": "nehru-father-daughter-letters-1929.epub",
-   "bytes": 134122,
-   "sha256": "3c64b3c48b36791d7b1478f94f01bfa6904dc42709a621fa69c87391a89324d1"
+   "bytes": 134150,
+   "sha256": "986e3858c015d301cb4a48b8ee90f4b230824866d084b8257843d7dd7971d7c4"
   },
   {
    "format": "markdown",
@@ -158,7 +158,7 @@
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.220076/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-27T21:13:33Z",
+  "compiled_at": "2026-11-28T12:57:03Z",
   "source_ast_sha256": "c1f8fb98a6d8812a90cae28a14ec419bed8f3dec529f658b289f704f36937c05",
   "hugo_renderer_version": "1.0.0"
  }

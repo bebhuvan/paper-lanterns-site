@@ -185,8 +185,8 @@
   {
    "format": "epub",
    "file": "rammohun-roy-letters-and-petitions.epub",
-   "bytes": 126871,
-   "sha256": "4ebaf5e062b47d9a29d66ebe9aad9861cdf406322589cb4e461233825e38cae7"
+   "bytes": 126897,
+   "sha256": "5caea3e82486f2d90eeaf5b15beeaee4e6e35dc32f39a1eb90025f54ec459454"
   },
   {
    "format": "markdown",
@@ -204,7 +204,7 @@
  "scan_base": "https://archive.org/download/lifelettersofraj00coll/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-v1",
-  "compiled_at": "2026-11-28T05:24:25Z",
+  "compiled_at": "2026-11-28T12:57:37Z",
   "source_ast_sha256": "fa02cb4574ae659bbbe732f4ecc8fc3c4a3a31b6b9bf6fc7bae8f4279df5a55a",
   "hugo_renderer_version": "1.0.0"
  }

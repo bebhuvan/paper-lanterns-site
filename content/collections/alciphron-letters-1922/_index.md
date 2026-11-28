@@ -224,27 +224,27 @@
   {
    "format": "epub",
    "file": "alciphron-letters-1922.epub",
-   "bytes": 158310,
-   "sha256": "1a704a721eb501b25c02108ec934da78dec1c9b94d4abe71f56833d21f17c82c"
+   "bytes": 158342,
+   "sha256": "7155eb6600cf33ac36a1d744911f6363ecca4243e890d373e5ee103549e30017"
   },
   {
    "format": "markdown",
    "file": "alciphron-letters-1922.md",
-   "bytes": 220908,
-   "sha256": "41e5af82dec97b2e34a8c15f25ec0ca692bb75eae8f54d9d04e182bba157fee0"
+   "bytes": 220885,
+   "sha256": "5d886952505d9d462ad21daa3b2c68972bbf0ab002ae3f6c65722e9f91864501"
   },
   {
    "format": "tei",
    "file": "alciphron-letters-1922.tei.xml",
-   "bytes": 278293,
-   "sha256": "2c3443232b6fe78b71290b77b727dee90a5c9fff6c0221f6f34d6867e813e93b"
+   "bytes": 278371,
+   "sha256": "ac79791f8abead7e8458e303f9fd8831bfb6d4aebf377a8ea0ff76d7d151ce33"
   }
  ],
  "scan_base": "https://archive.org/download/lettersfromcount00alciuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:24:53Z",
-  "source_ast_sha256": "abe5abddc6d66fbae5f8abebda2fbfb87f9250deb452c07ef8c410bcf51c1022",
+  "compiled_at": "2026-11-28T12:55:21Z",
+  "source_ast_sha256": "e36f0846ad7540f23257e7d1ff1e6f54e873eb36147bb75d0ff10c03e163f58f",
   "hugo_renderer_version": "1.0.0"
  }
 }

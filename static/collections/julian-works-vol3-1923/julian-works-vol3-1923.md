@@ -452,8 +452,6 @@ I <span class="small-caps">have</span> written you a more familiar sort of lette
 
 > *[Margin: 362 Before May 12th From Constantinople]*
 
-> **[verse_insert]**
->
 > “For I never met or saw him”;[^fn-p0129-4]
 
 and well said is “Before we love we must know, and before we can know we must test by experience.” But it seems that after all a certain other saying has most weight with me, namely, “The Master has spoken.”[^fn-p0131-1] That is why I thought even then that I ought to count you among my friends, and now I entrust to you a task that is dear to my heart, while to all men everywhere it is of the greatest benefit. And if, as I have the right to expect, you administer the office well, be assured that you will rejoice me greatly now and give me still greater good hope for the future life. For I certainly am not one of those who believe that the soul perishes before the body or along with it, nor do I believe any human being but only the gods; since it is likely that they alone have the most perfect knowledge of these matters, if indeed we ought to use the word “likely” of what is inevitably true; since it is fitting for men to conjecture about such matters, but the gods must have complete knowledge.
@@ -820,8 +818,6 @@ I am not saying this in Laconic fashion [^fn-p0243-2] and concisely, am I? Nay, 
 
 But why does the divine Alexander seem to you so pre-eminent? Is it because you took to imitating him and aspired to that for which the youth Hermolaus [^fn-p0243-6] reproached him? Or rather, no one is so foolish as to suspect you of that. But the very opposite, that which Hermolaus lamented that he had endured, and which was the reason for his plotting, as they say, to kill Alexander—everyone believes this about you also, do they not? I call the gods to witness that I have heard many persons assert that they were very fond of you and who made many excuses for this offence of yours, but I have found just one person who did not believe it. However he is that one swallow who does not make a spring. But perhaps the reason why Alexander seemed in your eyes a great man was that he cruelly murdered Callisthenes,[^fn-p0245-1] that Cleitus [^fn-p0245-2] fell a victim to his drunken fury, and Philotas too, and Parmenio [^fn-p0245-3] and Parmenio's son; for that affair of Hector,[^fn-p0245-4] who was smothered in the whirlpools of the Nile in Egypt or the Euphrates—the story is told of both rivers—I say nothing about, or of his other follies, lest I should seem to speak ill of a man who by no means maintained the ideal of rectitude but nevertheless excelled as a general in the works of war. Whereas you are less endowed with both these, namely, good principles and courage, than a fish with hair. Now listen to my advice and do not resent it too much.
 
-> **[verse_insert]**
->
 > “Not to thee, my child, have been given the works  
 >     of war.” [^fn-p0245-5]
 

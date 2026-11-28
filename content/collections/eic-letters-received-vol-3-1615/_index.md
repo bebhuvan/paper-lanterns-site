@@ -237,14 +237,14 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-3-1615.epub",
-   "bytes": 449623,
-   "sha256": "98445de5e9f64e0d584868a42e80c4195308bd96720ab68bb04e960884edd68a"
+   "bytes": 449649,
+   "sha256": "0a32034278a3e447f7e0e1c1bc36f929d062dff97630b90dbb8123028cac1554"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-3-1615.md",
-   "bytes": 897815,
-   "sha256": "ebe7065bbf5293c953689cb4289897ff6b2a5654080afecb7173d904418a7680"
+   "bytes": 897771,
+   "sha256": "279cc17706ddfab38945b1933d0589b9b59ad49c97434a398efcc526bcdda5c0"
   },
   {
    "format": "tei",
@@ -256,7 +256,7 @@
  "scan_base": "https://archive.org/download/lettersreceivedb03east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:30:25Z",
+  "compiled_at": "2026-11-28T12:56:11Z",
   "source_ast_sha256": "ebfc05d474be48b46819ceda1956a25bf7d8d64ac5b79491756f01ed1fd58d11",
   "hugo_renderer_version": "1.0.0"
  }

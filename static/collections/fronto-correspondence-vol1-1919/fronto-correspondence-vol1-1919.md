@@ -1002,8 +1002,6 @@ I need not say how pleased I was at reading those speeches of Gracchus, for you 
 
 2. But I let that pass. For the nonce, as we are staying at Baiae in this interminable labyrinth [^fn-p0157-1] of Ulysses, I will take from Ulysses a few things which bear on my subject. For he surely would not have taken *twenty years his fatherland to reach,*[^fn-p0157-2] nor have wandered so long about that pool, nor gone through all the other adventures which make up the *Odyssey,* had not then *sweet sleep seized his weary limbs.*[^fn-p0157-3] Yet *on the tenth day his native soil appeared*[^fn-p0157-4]—but what did sleep do?
 
-> **[verse_insert]**
->
 > *The evil counsel of my crew prevailed :  
 > The bag they opened, and forth rushed the winds ;  
 > The fierce gale caught and swept them to the sea,  
@@ -1011,15 +1009,11 @@ I need not say how pleased I was at reading those speeches of Gracchus, for you 
 
 What again took place at the island of Trinacria?[^fn-p0157-6]
 
-> **[verse_insert]**
->
 > *Nor winds sweet sleep upon mine eyelids shed :  
 > Eurylochus his crew ill counsel gave.*[^fn-p0157-7]
 
 Afterwards, when the *Sungod's oxen and fat flocks . . they slew and flayed . . and burnt the thighs and ate the flesh,*[^fn-p0157-8] what then Ulysses when awaked?
 
-> **[verse_insert]**
->
 > *Wailing I cried to all the Gods on high,  
 > Who ruthless to my ruin made me sleep.*[^fn-p0157-9]
 
@@ -1029,14 +1023,10 @@ Sleep, however, did not allow Ulysses a long recognition of his native land, fro
 
 Again, when the poet would praise Agamemnon, what says he?—
 
-> **[verse_insert]**
->
 > *Then none might see the godlike Agamemnon sleeping—*[^fn-p0159-2]
 
 what, when he is finding fault?—
 
-> **[verse_insert]**
->
 > *No councillor should sleep the whole night long,*[^fn-p0159-3]
 
 verses indeed, which an illustrious orator[^fn-p0159-4] once wrested in a strange fashion.
@@ -1045,16 +1035,12 @@ verses indeed, which an illustrious orator[^fn-p0159-4] once wrested in a strang
 
 5. From him let us to Hesiod the shepherd, who became a poet, you say, in slumber. But, indeed, I remember reading once upon a time at school:
 
-> **[verse_insert]**
->
 > *When on the swift steed's track he was leading his  
 >   sheep to the pasture,  
 > Hesiod once was met in the way by a bevy of Muses.*[^fn-p0159-6]
 
 That *was met,* you see what it implies? Why, that he was walking when the Muses met him. What, again, do you think of that, of which its most eloquent advocate says what?
 
-> **[verse_insert]**
->
 > *Sweet dreamless sleep, death's counterfeit.*[^fn-p0161-1]
 
 6. Enough of this trifling which I have indulged in more from love of you than from my own faith in it. Now after soundly abusing sleep, I am off to sleep: for I have spun all this out for you in the evening. I hope sleep will not pay me out.
@@ -1181,8 +1167,6 @@ To my Lord Aurelius Caesar your consul Fronto.
 
 5. Instead of Polemo the rhetorician, whom you lately presented to me in your letter as a Ciceronian, I have given back to you in my speech, which I delivered in the Senate, a philosopher,[^fn-p0187-2] if I am not mistaken, of the hoariest antiquity. Come, what say you, Marcus, how does my version of the story of Polemo strike you? Of course, Horatius Flaccus, a famous poet, and one with whom I have a connexion through Maecenas and my “gardens of Maecenas,”[^fn-p0187-3] supplied me with plenty of smart things on that subject. For this Horatius, in his second book of *Satires*, brings in the story of Polemo, if I remember rightly, in the following lines :—
 
-> **[verse_insert]**
->
 > *Would you the marks of mental ill forswear,  
 > The scarf, spats, lappet, that the rake declare ?  
 > Be changed, like Polemo, who, in drunken rage,  
@@ -1252,22 +1236,16 @@ M. <span class="small-caps">Caesar</span> to the most honourable consul Fronto.
 
 1. . . . . connected by marriage [^fn-p0201-1] and not subject to guardianship and stationed besides in a social position in which, as Q. Ennius says,
 
-> **[verse_insert]**
->
 > *All give foolish counsel, and look in all to pleasing only ;*
 
 and Plautus, too, in his *Colax*, says finely on the same subject,
 
-> **[verse_insert]**
->
 > *Crafty cajolers, who with fast-pledged faith*  
 > *Take in the trustful : these stand round a king,*  
 > *And what they speak is far from what they think.*
 
 These drawbacks used formerly to be confined to kings, but now, indeed, even the sons of kings have more than enough of men who, as Naevius [^fn-p0203-1] says,
 
-> **[verse_insert]**
->
 > *Still flatter with their tongues and still assent,  
 > And fawn upon them to their heart's content.*[^fn-p0203-2]
 
@@ -1295,8 +1273,6 @@ M. <span class="small-caps">Aurelius Caesar</span> to his own consul and master,
 
 1. Since my last letter to you nothing has happened worth writing of, or the knowledge of which would be of the slightest interest to you. For we have passed whole days more or less in the same occupations: the same theatre, the same dislike of it, the same longing for you—the same, do I say? nay, one that is daily renewed and increases and, as Laberius, after his own manner and in his own peculiar style, says of love,
 
-> **[verse_insert]**
->
 > *Your love as fast as any onion grows, as firm as any  
 >     palm.*
 

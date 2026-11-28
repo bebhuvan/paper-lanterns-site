@@ -121,11 +121,15 @@
   "verified": 0,
   "machine_reread": 0
  },
- "page_kinds": "nnnnnnnnnnnnnnnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL.iiii",
+ "page_kinds": "ffffffffffffffnnLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL.iiii",
  "page_runs": [
   [
+   "f",
+   14
+  ],
+  [
    "n",
-   16
+   2
   ],
   [
    "L",
@@ -142,8 +146,8 @@
  ],
  "parts": [
   {
-   "label": "Letters from Percy Bysshe Shelley to Thomas Jefferson Hogg",
-   "kind": "epistolary_part",
+   "label": "Frontmatter",
+   "kind": "frontmatter",
    "start": 1,
    "end": 14
   },
@@ -173,32 +177,35 @@
  "periods": [],
  "unperiodised_count": 18,
  "frontispiece": {},
- "title_page": {},
+ "title_page": {
+  "page": 7,
+  "leaf": 6
+ },
  "downloads": [
   {
    "format": "epub",
    "file": "percy-shelley-hogg-letters-1897.epub",
-   "bytes": 114977,
-   "sha256": "8e7ef1bd2f57105d48ccf7de2981de20fd4c37e2df02036504a3f3fddbbe43b9"
+   "bytes": 115005,
+   "sha256": "b230b0909d190c46c7df3f565e0d51b867e8903da1a9f92b4de7f5029794b01c"
   },
   {
    "format": "markdown",
    "file": "percy-shelley-hogg-letters-1897.md",
-   "bytes": 82462,
-   "sha256": "7998194ac8c04aa1ac51ab11151cec51ae8ccfc141965970b3a166cefc4c045a"
+   "bytes": 82323,
+   "sha256": "824c8b8bca7ba0d1f01c2072a395b2a345b5d1f3ec64da24f3e65656f849b16f"
   },
   {
    "format": "tei",
    "file": "percy-shelley-hogg-letters-1897.tei.xml",
-   "bytes": 114265,
-   "sha256": "0eeda5907d9b287cfb2d7ead32f80e17e7180776902397f6482289632b6a38a0"
+   "bytes": 114239,
+   "sha256": "de46ba0a0028202d57d6295116ac72bc287eba84841b57a3bbef16b969281cc1"
   }
  ],
  "scan_base": "https://archive.org/download/lettersfrompercy00shelrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T21:15:05Z",
-  "source_ast_sha256": "9db18b076bbce9db5b1280451b2c1561890070a1fbe1b86c07a62fcbd599b1f7",
+  "compiled_at": "2026-11-28T12:57:24Z",
+  "source_ast_sha256": "0fed6772074035f9895736c802db0355905985fe40bf6a2a378daeea1676b938",
   "hugo_renderer_version": "1.0.0"
  }
 }

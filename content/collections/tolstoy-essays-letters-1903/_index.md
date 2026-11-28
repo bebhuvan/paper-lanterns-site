@@ -330,8 +330,8 @@
   {
    "format": "epub",
    "file": "tolstoy-essays-letters-1903.epub",
-   "bytes": 357150,
-   "sha256": "7d2add1531177993347051cbea05d0baabc5dda9446f47c1636393209095202d"
+   "bytes": 357176,
+   "sha256": "8304e1e5594c212289c03bb2fff94c7d9ec72fe11165d5933876bdd3015535c9"
   },
   {
    "format": "markdown",
@@ -349,7 +349,7 @@
  "scan_base": "https://archive.org/download/essaysletters03tols/page/",
  "provenance": {
   "active_run_id": "canonical-20261116-132507",
-  "compiled_at": "2026-11-28T05:29:57Z",
+  "compiled_at": "2026-11-28T12:58:22Z",
   "source_ast_sha256": "c5f3a00a2031be9494480e071f90c5c7cf69e0c440393e7273907205d5c27d8b",
   "hugo_renderer_version": "1.0.0"
  }

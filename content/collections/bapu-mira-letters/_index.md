@@ -268,8 +268,8 @@
   {
    "format": "epub",
    "file": "bapu-mira-letters.epub",
-   "bytes": 275408,
-   "sha256": "ca40de65c2e8f5b787bf0a7a049b157bd7ec0e043330b2e3431646f6c470b64a"
+   "bytes": 275435,
+   "sha256": "175047219812a7fb82f1ce952e42f01b5f67432e30e08593127fbd12bbbe390a"
   },
   {
    "format": "markdown",
@@ -287,7 +287,7 @@
  "scan_base": "https://archive.org/download/bapusletterstomi00gand/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-28T10:29:55Z",
+  "compiled_at": "2026-11-28T12:55:41Z",
   "source_ast_sha256": "2b43b5e2eb8c0547faa2108c06138c356822310007d51d6236538e1113a8918e",
   "hugo_renderer_version": "1.0.0"
  }

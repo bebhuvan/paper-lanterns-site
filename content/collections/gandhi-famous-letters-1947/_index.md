@@ -269,8 +269,8 @@
   {
    "format": "epub",
    "file": "gandhi-famous-letters-1947.epub",
-   "bytes": 118789,
-   "sha256": "57187a188fee8c407f6dd655e2d38ad13d68bd69b3ec4bdf85fd4e4d8b5ac97b"
+   "bytes": 118815,
+   "sha256": "960b00554077f609dacad592791a3f527a26aa5c01fe439e42fbdab29203e8ae"
   },
   {
    "format": "markdown",
@@ -288,7 +288,7 @@
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.208999/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T21:11:28Z",
+  "compiled_at": "2026-11-28T12:56:27Z",
   "source_ast_sha256": "af780796a4304a4851f1de6f2046e1ac7e493a121379d6dce142d8e1e523415d",
   "hugo_renderer_version": "1.0.0"
  }

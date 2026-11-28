@@ -514,14 +514,14 @@
   {
    "format": "epub",
    "file": "nietzsche-wagner-1921.epub",
-   "bytes": 332578,
-   "sha256": "136f85e3c8732d6a8f6aa0ed8fb246640f6c4f1226b8af00b8df96c22309ed27"
+   "bytes": 332605,
+   "sha256": "64ff3d91267f2d8e1aa6291aedea2d937f5c8c9342d0d669ffa5167d03ecf5f8"
   },
   {
    "format": "markdown",
    "file": "nietzsche-wagner-1921.md",
-   "bytes": 517486,
-   "sha256": "f87317ba816ddd2690f00867d7102753781c17e40f1f3b4f7a95b5ece16b8852"
+   "bytes": 517198,
+   "sha256": "6a77753d045cd01364bc2fc8592d8b9997fff7b1324ef89174cccf87e1ad7620"
   },
   {
    "format": "tei",
@@ -533,7 +533,7 @@
  "scan_base": "https://archive.org/download/nietzschewagnerc00niet/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T21:14:16Z",
+  "compiled_at": "2026-11-28T12:57:15Z",
   "source_ast_sha256": "85360d0875411a42b5b3434a7939bc26736ec00b7ff237b99f2ff7a081df03f0",
   "hugo_renderer_version": "1.0.0"
  }

@@ -202,14 +202,14 @@
   {
    "format": "epub",
    "file": "vivekananda-letters-1944.epub",
-   "bytes": 438782,
-   "sha256": "f257ab958a2cf1f28708625bf349308444c8cd958ec2324c3f991c5fda3e3f09"
+   "bytes": 438808,
+   "sha256": "b2008d3b1307823e4c4c58241e76c9167e5d0c5f96c43d0c57421ca25f99e708"
   },
   {
    "format": "markdown",
    "file": "vivekananda-letters-1944.md",
-   "bytes": 921549,
-   "sha256": "ec6be116f93c981c134f0de9ff79ff68179735a1c823ae4c2bdf8a7777e24c00"
+   "bytes": 921131,
+   "sha256": "6875ac87944f8de749acd1fa239ab8f8037e39ae455e1b003450ecdf09f57b33"
   },
   {
    "format": "tei",
@@ -221,7 +221,7 @@
  "scan_base": "",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-27T21:18:33Z",
+  "compiled_at": "2026-11-28T12:58:51Z",
   "source_ast_sha256": "8270c254af10fd09d22b26d42ff9ba954bf12e7327f17c9927a96f9a6cd78f37",
   "hugo_renderer_version": "1.0.0"
  }

@@ -307,14 +307,14 @@
   {
    "format": "epub",
    "file": "tipu-sultan-select-letters-1811.epub",
-   "bytes": 654889,
-   "sha256": "63171a424b902425e2250ac53cfc892940e64effa1fd20eec450413a7695e3c9"
+   "bytes": 654916,
+   "sha256": "7d8b070504ffc580ef205778ca1458d03d1a6a5bbd6d963c94628d7be6dbb5ca"
   },
   {
    "format": "markdown",
    "file": "tipu-sultan-select-letters-1811.md",
-   "bytes": 1407036,
-   "sha256": "dfd94e26d9dca6552708e161973d685f9b593f215ef312559c78d22aa18895a8"
+   "bytes": 1406904,
+   "sha256": "778e28f60a7e07f7ac91299a12d0dcbb91087db37ed5bc6b3dbd73092c3d38fd"
   },
   {
    "format": "tei",
@@ -326,7 +326,7 @@
  "scan_base": "https://archive.org/download/selectlettersoft00tipu/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-v1",
-  "compiled_at": "2026-11-28T05:28:31Z",
+  "compiled_at": "2026-11-28T12:58:55Z",
   "source_ast_sha256": "96c4a292dc54a0b2930f4f97c42caf53ce93d1eaa9f3dbfaaf87b395b3ebe5f1",
   "hugo_renderer_version": "1.0.0"
  }

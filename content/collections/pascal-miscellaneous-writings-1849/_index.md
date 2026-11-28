@@ -264,14 +264,14 @@
   {
    "format": "epub",
    "file": "pascal-miscellaneous-writings-1849.epub",
-   "bytes": 396155,
-   "sha256": "cf5fd74927ef8eb9f32d1bd2937aab134a0cf1b92b3fe9a8625fff6676afb1e7"
+   "bytes": 396180,
+   "sha256": "9a68041196e994109708b3f44d8feb166aae898874b3b891b8f921b21a99499b"
   },
   {
    "format": "markdown",
    "file": "pascal-miscellaneous-writings-1849.md",
-   "bytes": 661940,
-   "sha256": "958e09e4d4289bc28996860adf6279f5ec139abeda74e73be679a94f27aa852b"
+   "bytes": 661899,
+   "sha256": "a88d6f8f1a8a948250913a869596ae43140b1a22b2bcbdeb6b1bc34db0dfafa7"
   },
   {
    "format": "tei",
@@ -283,7 +283,7 @@
  "scan_base": "https://archive.org/download/cu31924029054439/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:27:52Z",
+  "compiled_at": "2026-11-28T12:57:30Z",
   "source_ast_sha256": "5c0a2a3235b07c52bc8bb650c318ae8f97ba3789a7df61121d3edec0e2dfbf1f",
   "hugo_renderer_version": "1.0.0"
  }

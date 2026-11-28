@@ -544,8 +544,6 @@ And that reminds me of Julius Röntgen’s[^fn-p0042-1] *Serenade*, which we hea
 
 And now by way of farewell :
 
-> **[verse_insert]**
->
 > For all that you’ve endured unvexed,  
 >       I am your debtor ;  
 > And trust that where you sojourn next  
@@ -889,8 +887,6 @@ J. B<span class="small-caps">r</span>
 
 Your welcome letter has just arrived, giving the best of flavours to our breakfast, and we thank you for all the nice things you say or imply. But you must really make Wüllner change the programme. ‘It takes many hounds to kill a hare,’ but one *Feuerzauber* would be Frau Schumann’s death. It is inconceivable that she should play. There really is a want of delicacy in the arrangement. How can any audience be expected to appreciate really artistic work and a piece like *Feuerzauber* on one and the same evening? O Wüllner, Wüllner! I always thought you a gentleman, but this programme betrays the impresario. The glittering ‘fire-piece’ will excite everybody, of course, and the palm of the evening goes to Wagner. ‘O, how far, how far above,’[^fn-p0065-2] etc., are the gentle D major, breathing beauty, dropping balsam into the soul; and the *Phantasie*, written for the elect—and to have on top of these, a *Feuerzauber*! Why is he so impatient, our good Wüllner? Are we not to have all Wagner’s enchantments let loose in our theatres soon enough, and is it not the right, the only place for them ?
 
-> **[verse_insert]**
->
 > ‘ Fire is mighty when watched by its master ;  
 >   When fire is master itself—there’s disaster.’
 
@@ -1010,8 +1006,6 @@ Good-bye now, and thank you again. Whenever you feel moved to give me a *great* 
 
 Herr Simrock[^fn-p0075-1] was inquiring anxiously as to your movements to-day; but you are going to let poor ‘Toggenburg’ Astor[^fn-p0075-2] have the duets, are you not?
 
-> **[verse_insert]**
->
 > ‘Good deeds do make us like unto  
 >    The blessed angel train;  
 > And at the last, if so we do,  
@@ -1931,8 +1925,6 @@ The friend who now enjoys the concerts of the higher spheres was evidently full 
 
 Is it really no oversight that the Mozart and Cherubini Requiems were included?  Glad as we should be to have the scores, we have not quite the courage to appropriate them until you write and say :
 
-> **[verse_insert]**
->
 > ‘ Sei guten Muts, O Heinrich mein,  
 > Nimm diese Bretzen, sie sei Dein.’
 

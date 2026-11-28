@@ -426,9 +426,9 @@ This is the season of the *Busunt*, or spring of the Hindoos. The word signifies
 
 FIG. I.—A MAHRATTA SURDAR ENTERTAINING BRAHMUNS.
 
-> **[verse_insert]**
->
-> ###### A BUSUNT SONG
+###### A BUSUNT SONG
+
+> **[verse_insert: A BUSUNT SONG]**
 >
 > The lively drum is heard around ;  
 > The tamborine and cymbals sound :  
@@ -580,9 +580,9 @@ FIG. 3.—PLAYING THE HOHLEE.
 
 The festival of the Hohlee is observed by all classes throughout Hindoostan : it is the season of universal merriment and joy ; and the sports that take place at its celebration bear some resemblance to those which were allowed in Rome during the Saturnalia. The utmost licence is permitted to all ranks ; the men, old and young, parade about the streets, or the camp, in large groups, singing *Kuveers*, or extemporary stanzas, full of the grossest indelicacy, into which they freely introduce the names of their superiors, coupled with the most abominable allusions ; the whole party joining in the chorus, and expressing their delight by loud peals of laughter, hallooing, and almost frantic gestures. An individual sometimes exhibits himself dressed in a most grotesque and indecent manner, as a personification of the Hohlee, and is followed by crowds throwing about the *abeer* and singing the *P,hagoon* songs, to the great annoyance of such women as they may happen to meet, whom they delight to attack with the coarsest ribaldry. The ladies, however, are not without their share of the festivities of the season : they make parties at each other's tents or houses ; sit up at *Naches* all night ; and play the Hohlee with as much spirit as their male relations. No men, however, are admitted to these select parties, except their husbands ; or sometimes their brothers, if they happen to be of a very tender age. These joyous parties begin with the month of *P,hagoon*, the last of the Hindoo year, and the commencement of the spring. The words *P,hagoon* and *P,hag* are also used to denote the little presents of flowers, fruits, or sweetmeats, which lovers are accustomed to make to their mistresses, as well as the sports and songs peculiar to the season : and when these last are marked with more than ordinary licence, they are termed *Dhumaree.* But the Hohlee songs are not necessarily indelicate : in the following one, Krishna,[^fn-p0108-1] in his youthful character of *Kunueya,* or the beloved, is described as attacked by a party of the *Gopees,* or maids, of Muttra, during the time of the Hohlee. As it pourtrays, with much accuracy and spirit, the peculiar customs of that festival, I have translated it for your amusement.
 
-> **[verse_insert]**
->
-> ###### HOHLEE SONG
+###### HOHLEE SONG
+
+> **[verse_insert: HOHLEE SONG]**
 >
 > While some his loosen'd turban seize,  
 > And ask for *P,hag,* and laughing teaze ;  
@@ -843,9 +843,9 @@ On the 24th ult. was the *Dusera*,[^fn-p0167-1] a Hindoo festival, from which is
 
 I have already sent you some specimens of these compositions, and now enclose two more, in a different style, which I have picked up from these itinerant bards. The first is of the kind called *Doha*, and is meant to ridicule the proverbial thrift of the *Buniyas*: one of whom made a vow to give a handful of meal to every beggar who came to his shop ; but, that his charity might cost him as little as possible, warily dealt it out by the small hand of his lovely daughter. The second is a *Kubit*, and is merely a little *i'eu d'esprit*, not, however, without a moral point.
 
-> **[verse_insert]**
->
-> ###### DOHA
+###### DOHA
+
+> **[verse_insert: DOHA]**
 >
 > The frugal father's sage commands,  
 > Dealt by his daughter's smaller hands,  
@@ -854,9 +854,9 @@ I have already sent you some specimens of these compositions, and now enclose tw
 > In beggar's guise, both young and old  
 >   Came thronging round the crowded door.
 
-> **[verse_insert]**
->
-> ###### KUBIT
+###### KUBIT
+
+> **[verse_insert: KUBIT]**
 >
 > Your beast perverse ; your man a rogue ;  
 > Your heart to amorous courses given ;  
@@ -1104,8 +1104,6 @@ FIG. 9.—THE JUNUM-USHTOOMEE.
 
 I have procured copies of some of the songs performed on this occasion, and, as you expressed yourself gratified by the former specimens of Hindoo poetry which I sent you, have added translations of two of them, which particularly pleased me. The first is supposed to be a dialogue between Kunya and one of the *Gopees*, who returned to him, after a former visit, sooner than he expected. The second contains a description of the effect caused in the bosoms of the Muttra maids, by the sound of the pipe of their darling shepherd, and a dialogue between them and Jasooda, in consequence of their interview with him in the groves of Mudbun,[^fn-p0230-1] a village in the neighbourhood of Muttra. The only figure, peculiarly oriental, which requires explanation, is, in the first poem, an allusion to the gathering clouds, which the Hindoos suppose to be peculiarly incitive of the tender passion; and the only personages introduced, with whom you are not already well acquainted, are Nund,h and Jasooda, in the second poem: the former the principal *Go,ala,* or cowherd, of Gokul, with whom Krishna passed his boyish years; the latter, his wife. Both poems are of the kind called *Kubits.*
 
-> **[verse_insert]**
->
 > <span class="small-caps">Kunya</span>
 >
 > Again, my fair one!—hast thou purchased me?—
@@ -1143,9 +1141,9 @@ I have procured copies of some of the songs performed on this occasion, and, as 
 > No, my soul's lord,!—for love was with me still;  
 > Pointed my path, and warded every ill!
 
-> **[verse_insert]**
->
-> ###### KUBIT
+###### KUBIT
+
+> **[verse_insert: KUBIT]**
 >
 > The pipe is heard of *Nund,h's* sweet boy ;  
 > The *Goalins'* hearts beat high with joy :  

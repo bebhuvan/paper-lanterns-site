@@ -5,7 +5,7 @@
 - **Letters**: 18
 - **Pages**: 116
 
-## Letters from Percy Bysshe Shelley to Thomas Jefferson Hogg
+## Frontmatter
 
 ### LETTERS TO HOGG
 
@@ -292,8 +292,6 @@ Yours sincerely.
 
 Before we deny or believe the existence of anything, it is necessary that we should have a tolerably clear idea of what it is.[^fn-p0041-1] The word “God,” a vague word, has been, and will continue to be, the source of numberless errors, until it is erased from the nomenclature of philosophy. Does it not imply “the soul of the universe,— the intelligent and *necessarily* beneficent actuating principle? This it is impossible not to believe in. I may not be able to adduce proofs; but I think that the leaf of a tree, the meanest insect on which we trample, are in themselves arguments, more conclusive than any which can be advanced, that some vast intellect animates infinity. If we disbelieve *this*, the strongest argument in support of the existence of a future state instantly becomes annihilated. I confess that I think Pope’s
 
-> **[verse_insert]**
->
 > “ All are but parts of a stupendous whole ”
 
 something more than poetry. It has ever been my favourite theory. For the immortal soul “never to be able to die, never to escape from some shrine as chilling as the clay-formed dungeon which it now inhabits”—is the future punishment which I can most easily believe in.
@@ -340,8 +338,6 @@ I will crush Intolerance! I will, at least, attempt it. To *fail* even in so use
 
 I enclose some poetry:—[^fn-p0050-1]
 
-> **[verse_insert]**
->
 > *Oh! take the pure gem to where southerly breezes,  
 >  Waft repose to some bosom as faithful as fair,  
 > In which the warm current of love never freezes,  
@@ -440,8 +436,6 @@ My mother imagines me to be on the high road to Pandemonium ; she fancies I want
 
 You must be very solitary at Oxford. I wish I could come there now ; but, for reasons which I will tell you at meeting, it is delayed for a fortnight. I have a Poem [^fn-p0060-1] with Mr. L——, which I shall certainly publish ; there is some of Elizabeth’s in it. I will write to-morrow. I have something to add to it ; and, if L—— has any idea, when he speaks to you, of publishing it with my name, will you tell him to leave it alone till I come.
 
-> **[verse_insert]**
->
 > *Yes! the arms of Britannia victorious are  
 >   bearing  
 >  Fame, triumph, and glory, wherever they  
@@ -817,8 +811,6 @@ On other subjects you have soared above prejudices ; you have investigated them,
 
 You talk of the credulity of mankind, its proneness to superstition, that it ever has been a slave to the vilest of errors. Is your inference necessary, or direct, that it ever will continue so? You say that “I have no idea how society could be freed from false notions on almost every subject.” No; nor would the first man in the world, supposing that there ever was one, at the moment of his arriving to his estate, have any conception how a fertile piece of land would look without weeds. He stares at it, and thinks it is least of all fitted for his conveniences; when a stricter searching into its nature would convince him that it was calculated to contribute to them, with a sufficient proportion of labour, more than the barer land which appeared clear.
 
-> **[verse_insert]**
->
 > Dares the lama, most fleet of the sons of the wind,  
 >  The lion to rouse from his skull-covered lair ?  
 > When the tiger approaches, can the fast-fleeting hind  

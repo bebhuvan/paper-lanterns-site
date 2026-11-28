@@ -154,8 +154,8 @@
   {
    "format": "epub",
    "file": "tagore-glimpses-of-bengal-1921.epub",
-   "bytes": 147942,
-   "sha256": "18cf1025335c87e6c7717d5f55081adfc4682833c5b4b4196d75f13d02dcff01"
+   "bytes": 147969,
+   "sha256": "3826b47c64c68ec81f3b25ad231bdc7979f538119b71ca35c8d89c4eb129cb5c"
   },
   {
    "format": "markdown",
@@ -173,7 +173,7 @@
  "scan_base": "https://archive.org/download/glimpsesofbengal00tagoiala/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-27T21:17:10Z",
+  "compiled_at": "2026-11-28T12:58:13Z",
   "source_ast_sha256": "013b917b7f467f9d332882d2549f35b27156301732e26ec4ca72f9f036a04a52",
   "hugo_renderer_version": "1.0.0"
  }

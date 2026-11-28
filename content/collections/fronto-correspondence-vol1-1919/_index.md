@@ -427,14 +427,14 @@
   {
    "format": "epub",
    "file": "fronto-correspondence-vol1-1919.epub",
-   "bytes": 216400,
-   "sha256": "86525ecc34abd77ae73e6538809be7547e498aa9db734766e9973ccde1f1a9f2"
+   "bytes": 216426,
+   "sha256": "72ba1e82abd7278057b7fc05cd6b28cd2bdf2639afc123d6554801cea7185e59"
   },
   {
    "format": "markdown",
    "file": "fronto-correspondence-vol1-1919.md",
-   "bytes": 347145,
-   "sha256": "08f7950323384798e8a11be43a333a72bd9410bbc3e7a37dfb3414715edb7254"
+   "bytes": 346869,
+   "sha256": "38f63c09e25f4d0909b6e63e1a446d58c2ce8f9edc60b1b58f4bf41585d5dcd6"
   },
   {
    "format": "tei",
@@ -446,7 +446,7 @@
  "scan_base": "https://archive.org/download/correspondenceof01fronuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T11:42:17Z",
+  "compiled_at": "2026-11-28T12:56:33Z",
   "source_ast_sha256": "dd5cedb1d11b947d4ac7a169e41aa8ccfb1c9cc8b1d5edb4a2a1d57dc8e56d5e",
   "hugo_renderer_version": "1.0.0"
  }

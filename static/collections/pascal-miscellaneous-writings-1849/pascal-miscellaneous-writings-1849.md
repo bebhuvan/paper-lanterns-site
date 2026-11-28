@@ -716,21 +716,21 @@ The following is the graceful dedication by which the work is preceded:—
 
 > **[enclosure: TO THE QUEEN'S MOST EXCELLENT MAJESTY.]**
 >
-> > “TO THE QUEEN'S MOST EXCELLENT MAJESTY.
+> “TO THE QUEEN'S MOST EXCELLENT MAJESTY.
 >
-> > “<span class="small-caps">Madam,</span>
+> “<span class="small-caps">Madam,</span>
 >
-> > “ <span class="small-caps">Humble</span> as is this tribute of loyalty, it is not without significance. “No Sovereign ever presented stronger claims to the love and allegiance “of her industrious subjects; and it tells how happy is our Constitution, “and how condescending is our Monarch, that pages written by a “labourer's daughter should find a patron in the Queen.
+> “ <span class="small-caps">Humble</span> as is this tribute of loyalty, it is not without significance. “No Sovereign ever presented stronger claims to the love and allegiance “of her industrious subjects; and it tells how happy is our Constitution, “and how condescending is our Monarch, that pages written by a “labourer's daughter should find a patron in the Queen.
 >
-> > “ Nor will the tract itself be without its interest to Your Majesty, to “ whose royal halls such glory is added by the piety, virtue, and domestic “ tastes so often found in Britain's lowliest homes.
+> “ Nor will the tract itself be without its interest to Your Majesty, to “ whose royal halls such glory is added by the piety, virtue, and domestic “ tastes so often found in Britain's lowliest homes.
 >
-> > “ This tract discusses the temporal advantages of the Sabbath-day. “The same topic has recently engaged the pens of nearly a thousand “ working-men. And it is not the least advantage of the Lord's-day, “ that every labourer who learns to keep it holy, is another peaceful citizen “ gained to the community; and another added to those best subjects who, “ in their weekly assemblies, pray, ‘ God save the Queen.’
+> “ This tract discusses the temporal advantages of the Sabbath-day. “The same topic has recently engaged the pens of nearly a thousand “ working-men. And it is not the least advantage of the Lord's-day, “ that every labourer who learns to keep it holy, is another peaceful citizen “ gained to the community; and another added to those best subjects who, “ in their weekly assemblies, pray, ‘ God save the Queen.’
 >
-> > “ I have the honour to be, &c.
+> “ I have the honour to be, &c.
 >
-> > “<span class="small-caps">The Proposer of the Essay.</span>”
+> “<span class="small-caps">The Proposer of the Essay.</span>”
 >
-> > “July 1848.” The moral which I would venture to deduce from this digressive reference is this:—Years of exhausting labour were consumed by Pascal—then in the fulness of youthful talent—in a work, which his ambition deemed worthy alone of the patronage and ownership of the most gifted Sovereign of her time. That work is forgotten; its royal patroness is remembered only for perverted talent, and an unfeminine and eccentric career; and had its laborious inventor established no higher claim upon the memory of posterity, he too would have shared no other fate. Mark now the contrast. The Queen of England,—aiming not to measure strength with philosophers and literati,—the model of British womanhood; the Sovereign whose palace is the chosen seat of domestic virtues, and refined tastes; has already, by her homefelt graces and gentle benevolence, established an imperishable record in the hearts and remembrances of her great people. And—for the humble object of this august patronage—although her little volume will be unknown beyond the present generation, yet the fruit of her labour will assuredly survive, as long as the blessings of the “ day of rest” shall beam upon a toil-worn nation, and wherever the heart of a labouring man shall be gladdened by its tranquil hours, and its sacred duties. (Transl.)
+> “July 1848.” The moral which I would venture to deduce from this digressive reference is this:—Years of exhausting labour were consumed by Pascal—then in the fulness of youthful talent—in a work, which his ambition deemed worthy alone of the patronage and ownership of the most gifted Sovereign of her time. That work is forgotten; its royal patroness is remembered only for perverted talent, and an unfeminine and eccentric career; and had its laborious inventor established no higher claim upon the memory of posterity, he too would have shared no other fate. Mark now the contrast. The Queen of England,—aiming not to measure strength with philosophers and literati,—the model of British womanhood; the Sovereign whose palace is the chosen seat of domestic virtues, and refined tastes; has already, by her homefelt graces and gentle benevolence, established an imperishable record in the hearts and remembrances of her great people. And—for the humble object of this august patronage—although her little volume will be unknown beyond the present generation, yet the fruit of her labour will assuredly survive, as long as the blessings of the “ day of rest” shall beam upon a toil-worn nation, and wherever the heart of a labouring man shall be gladdened by its tranquil hours, and its sacred duties. (Transl.)
 
 ### Notes
 
@@ -4789,9 +4789,7 @@ After this, we find ourselves admitted into another of those repositories, in wh
 
 Yet all these topics, interesting and important as they were, were subordinated and eclipsed by that *one* great object to which the closing years of Pascal's life were devoted. To the noblest theme which could engage the thoughts or the pen of man, were now consecrated all his capacities, all his desires,—his toilsome days, and his watchful nights. To show the misery and hopelessness of man, without a voice and a guidance from heaven; to assert the authenticity and Divine authority of Scripture, in which that voice is heard; to silence, by the most copious evidences, internal and external, the cavils of atheism and infidelity against its revelations; to exhibit the necessities of man satisfied, and the types and prophecies which went before fulfilled, in the advent to our world, of a “God manifested in the flesh;” to show how our reconciliation with an offended Creator has been achieved by His sacrifice; and the gates of heaven and immortality opened to us by His resurrection:—
 
-> **[verse_insert]**
->
-> > “To justify the ways of God to man;”
+> “To justify the ways of God to man;”
 
 and to unfold the mighty scheme of the Eternal Mind in the creation of his moral universe;—these were the topics, enforced by eloquence, enriched by learning, elevated by philosophy, and carrying conviction to the heart, by a profound knowledge of man: this was the undertaking, in which all his intellectual powers were absorbed, with a continually increasing intenseness, as the close of his earthly career drew near.
 

@@ -208,14 +208,14 @@
   {
    "format": "epub",
    "file": "seneca-epistles-vol2-1920.epub",
-   "bytes": 253623,
-   "sha256": "f2f37e55ab2d399102209ed553bb09d175eb6bf73ee19b4cc1e63b00a208e7c4"
+   "bytes": 253649,
+   "sha256": "eba913be4bc1407008477af5eabfa1673016df8c6f0bed776d3f5536a0af1159"
   },
   {
    "format": "markdown",
    "file": "seneca-epistles-vol2-1920.md",
-   "bytes": 465308,
-   "sha256": "2109082908eea1921d3d79233e4195e6aea37e47bc1db7e56d773f8b2b03e8bf"
+   "bytes": 464572,
+   "sha256": "71cbd30aff59d822499d54e5addf08b6e07a5911873403aa1377f5476f7b0c5b"
   },
   {
    "format": "tei",
@@ -227,7 +227,7 @@
  "scan_base": "https://archive.org/download/adlucilium02sene/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T10:24:00Z",
+  "compiled_at": "2026-11-28T12:58:00Z",
   "source_ast_sha256": "539cbb83074cb6544941d763d5a1687c14b4a11089046c316984e61b56e6d31e",
   "hugo_renderer_version": "1.0.0"
  }

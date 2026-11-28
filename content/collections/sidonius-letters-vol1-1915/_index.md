@@ -227,14 +227,14 @@
   {
    "format": "epub",
    "file": "sidonius-letters-vol1-1915.epub",
-   "bytes": 256685,
-   "sha256": "00bc085c0ad49d0da54ff606a053f27faa89e6e0e1c42bcd3d04b953dd924474"
+   "bytes": 256712,
+   "sha256": "9cb6e7ab10af28fbca1d54c4d20e48f4144e523e4898acc3a6c9e3177becbcb1"
   },
   {
    "format": "markdown",
    "file": "sidonius-letters-vol1-1915.md",
-   "bytes": 468191,
-   "sha256": "09a6f233aa3898d55c2094963100ea190dedb79515755ce59107f2df15b29ae0"
+   "bytes": 468141,
+   "sha256": "ff4393cf7c917ce2e43356302f5ed5ccc1fe2f29cf89375007fe1118a15e9bf9"
   },
   {
    "format": "tei",
@@ -246,7 +246,7 @@
  "scan_base": "https://archive.org/download/lettersofsidoniu01sido/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T11:42:14Z",
+  "compiled_at": "2026-11-28T12:58:07Z",
   "source_ast_sha256": "1c8e854798d63c58e73b4bfcfae79f216177c9396279e94071feb8c204061719",
   "hugo_renderer_version": "1.0.0"
  }

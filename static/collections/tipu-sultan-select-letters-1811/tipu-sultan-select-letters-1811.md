@@ -1220,23 +1220,21 @@ I am equally unable to determine, whether this interesting document is in the ha
 
 But it is not essential to the authenticity of this paper that it should have been written in the *Sultan’s* own hand. The place in which it was discovered, joined to the seal and internal evidence furnished by its extraordinary tenor, sufficiently establishes its genuineness ; but whether the engagement it contains was voluntarily entered into by the *Sultan*, or exacted by Hyder, does not appear. The latter, however, is not unlikely to have been the case, notwithstanding what the writer himself declares in the eighth article. After this general account of the document in question, I proceed to present the reader with a translation of it ; and, for the satisfaction of those conversant in the language of the original, a fac-simile of it is given in article C. of the Appendix.
 
-> **[enclosure]**
->
 > ##### “ **AGREEMENT.**
 >
-> > “ 1.[^fn-p0064-1] I will not do [any] one thing without the pleasure of your blessed Majesty, Lord of Benefits [or my bountiful Lord] : if I do, let me be punished, in whatever manner may seem fitting to your auspicious mind.—— One article.[^fn-p0064-2] “ 2. If, in the affairs of the *Sircar*, I should commit theft, or be guilty of “ fraud, great or small, let me, as the due punishment thereof, be strangled.[^fn-p0065-1] “ —— One article.
+> “ 1.[^fn-p0064-1] I will not do [any] one thing without the pleasure of your blessed Majesty, Lord of Benefits [or my bountiful Lord] : if I do, let me be punished, in whatever manner may seem fitting to your auspicious mind.—— One article.[^fn-p0064-2] “ 2. If, in the affairs of the *Sircar*, I should commit theft, or be guilty of “ fraud, great or small, let me, as the due punishment thereof, be strangled.[^fn-p0065-1] “ —— One article.
 >
-> > “ 3. If I be guilty of prevarication, or misrepresentation, or of deceit, the “ due punishment thereof is this same strangulation.—— One article.
+> “ 3. If I be guilty of prevarication, or misrepresentation, or of deceit, the “ due punishment thereof is this same strangulation.—— One article.
 >
-> > “ 4. Without the orders of the Presence, I will not receive from any one, “ *Nuzzers*, &c. ; neither will I take things from any one [meaning perhaps for- “ cibly] : if I do, let my nose be cut off, and let me be driven out from the city. “ —— One article.
+> “ 4. Without the orders of the Presence, I will not receive from any one, “ *Nuzzers*, &c. ; neither will I take things from any one [meaning perhaps for- “ cibly] : if I do, let my nose be cut off, and let me be driven out from the city. “ —— One article.
 >
-> > “ 5. If, excepting on the affairs of the *Sircar*, I should hold conversation “ [probably *cabal* or *intrigue*] with any person, or be guilty of deceit, &c., let “ me, in punishment thereof, be stretched on a cross.—— One article.
+> “ 5. If, excepting on the affairs of the *Sircar*, I should hold conversation “ [probably *cabal* or *intrigue*] with any person, or be guilty of deceit, &c., let “ me, in punishment thereof, be stretched on a cross.—— One article.
 >
-> > “ 6. Whenever a country shall be committed to my charge by the *Sircar*, “ and an army be placed under my command, I will carry on all business regard- “ ing the same, with the advice, and through the medium of such confidential “ persons as may be appointed [for the purpose] by the *Sircar* ; and if I transact “ such affairs through any other channel than this, let me be strangled.—— One “ article.
+> “ 6. Whenever a country shall be committed to my charge by the *Sircar*, “ and an army be placed under my command, I will carry on all business regard- “ ing the same, with the advice, and through the medium of such confidential “ persons as may be appointed [for the purpose] by the *Sircar* ; and if I transact “ such affairs through any other channel than this, let me be strangled.—— One “ article.
 >
-> > “ 7. If there should be any occasion for correspondence by writing, or to buy “ or give [away] any thing, or any letters should arrive from any place, I will do “ nothing [in such matters] without the concurrence and advice of the person “ appointed by the *Sircar*.—— One article.
+> “ 7. If there should be any occasion for correspondence by writing, or to buy “ or give [away] any thing, or any letters should arrive from any place, I will do “ nothing [in such matters] without the concurrence and advice of the person “ appointed by the *Sircar*.—— One article.
 >
-> > “ 8. I have written and delivered these few articles of my own free will : “ keeping the contents whereof in my heart’s remembrance, I will act in each “ article accordingly. If I forget this, and act in any other [or different] manner, “ let me be punished, agreeably to the foregoing writing.”
+> “ 8. I have written and delivered these few articles of my own free will : “ keeping the contents whereof in my heart’s remembrance, I will act in each “ article accordingly. If I forget this, and act in any other [or different] manner, “ let me be punished, agreeably to the foregoing writing.”
 
 It will not, perhaps, be wondered at, that one, to whom the idea of corporal punishment, even in his own person, would seem, from the preceding instrument, as well as from Colonel Wilks's report, to have been familiar, before his accession to the *Musnud*, should, after that event, have applied the practice, with similar disregard to the rank or station of offenders, to those then subjected to his authority.
 
@@ -3781,8 +3779,6 @@ You have still [on hand], of former importations, both *Sandal* wood and black p
 
 You have done well in making prisoners of the turbulent and seditious, including Kurry-tummah,[^fn-p0249-2] with their women and children. These last must be detained. With respect to Kurry-tummah, if he be one of the insurgents he must be suspended on a tree.
 
-> **[verse_insert]**
->
 > [A verse.] “ The head of an enemy is best when hurled from the  
 > “ point of a javelin : as a path-way is best, from whence the bramble  
 > “ has been rooted out.”
@@ -5504,8 +5500,6 @@ A translation of the proclamation here mentioned, appeared, in the year 1793, in
 
 *Verse from Hafiz.*[^fn-p0355-2]
 
-> **[verse_insert]**
->
 > “ ‘ If you place your foot in the path of the law and of religion, Hafiz,  
 > “ ‘ In reward for your zeal, the Chief of Nujuf [Ali] will become your Protector.
 
@@ -6020,9 +6014,7 @@ The substance of the latter part of the foregoing extract has been given by Colo
 
 “ Accordingly, two months after this, the two confederated armies (on whom, “ and on their parents also, be the curse of God !) laid siege to the fort of “ *Bádámy*, and committed depredations, between the two rivers *Kishna* and “ *Toongbhudra*,[^fn-p0387-6] to the amount of fifteen or twenty *lacks* of *rupees*. Hereupon “ I[^fn-p0388-1] marched to *Bangalore*, where I remained ten or twelve days, and [from “ hence] dispatched a respectable person, together with an intelligent officer of “ spies, to Mâdhojee Bhonsillah, the chief of *Nágpoor*,[^fn-p0388-2] to whom I addressed a “ letter to the following effect:
 
-> **[letter_excerpt]**
->
-> > “ ‘ What is the reason that you[^fn-p0388-3] have forgotten [your] ancient obligations “ ‘ [to us] and taken [or learned] the lesson of the whoreson ?[^fn-p0388-4] Fear God, “ ‘ otherwise your shameful actions will [assuredly] draw upon you their due “ ‘ punishment.’[^fn-p0388-5]
+> “ ‘ What is the reason that you[^fn-p0388-3] have forgotten [your] ancient obligations “ ‘ [to us] and taken [or learned] the lesson of the whoreson ?[^fn-p0388-4] Fear God, “ ‘ otherwise your shameful actions will [assuredly] draw upon you their due “ ‘ punishment.’[^fn-p0388-5]
 
 “ I also wrote and dispatched [letters], to the same purport, to Hurry Pundit “ Phurkia and to Râo Râsta, commanders of the army of the infidels. “ I moreover interrogated the *Sirdars* [or chief officers] of the army, respecting the [best] mode of conducting the war, and the attack[^fn-p0389-1] [most proper] to be made [in the first instance]; when they all, according to their [respective] abilities [or powers], delivered their opinions: none of which, however, were agreeable to my mind. At this time [or hereupon] calling upon God the Bountiful, and imploring his aid, I said, ‘ Please the Almighty God, I will proceed against *Adoni*, which is at a distance from the boundary of the *Sircar*, and is a strong place, where the honor[^fn-p0389-2] of Nizâm Ali Khân is lodged. Attacking this place, we must obtain possession of it. If, for the sake [or preservation] of their honor, the two *Sirdars*[^fn-p0389-3] should come [to its relief], we shall see [the extent of] their strength and power.’ This opinion [or plan] was *apparently* assented to by all those in attendance [upon me]; but God [only] knows what they inwardly [or really] thought [on the occasion].
 
@@ -7550,8 +7542,6 @@ The letters to which numerical powers are assigned are stated to be thirty; bein
 
 The foregoing rule is conveyed in the following verses, which are inserted here for the gratification of the Persian reader. Whether they may be considered as a specimen of the *Sultan's* poetical talent I cannot affirm; but, however this may be, they do no great credit to their author.
 
-> **[verse_insert]**
->
 > چو سازي نظر در کلام الله  
 > که سي حرف هستند با سلسله  
 > بطبق حروف مسلسل حساب  
@@ -8213,7 +8203,7 @@ Although, if rigidly understood, the preceding letter would warrant a belief, th
 
 > **[letter_excerpt: copy of a letter from Tippoo to Governor of Madras]**
 >
-> > “ The *Poonah* army being pursued by mine has crossed the *Krishna*, and peace “ has taken place between us in the manner I wished. They have, accordingly, “ returned to their own country, and I purpose returning to my capital in about “ a week, after quieting the disturbances raised by some *Polygars* in these parts.”
+> “ The *Poonah* army being pursued by mine has crossed the *Krishna*, and peace “ has taken place between us in the manner I wished. They have, accordingly, “ returned to their own country, and I purpose returning to my capital in about “ a week, after quieting the disturbances raised by some *Polygars* in these parts.”
 
 “ N.B. This letter contained applications relative to some refractory boundary “ chiefs.
 

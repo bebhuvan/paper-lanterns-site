@@ -184,14 +184,14 @@
   {
    "format": "epub",
    "file": "sand-flaubert-letters-1922.epub",
-   "bytes": 381606,
-   "sha256": "910ed291634dac17c3e090325204823cc28ef2588e83e2b737f431ab106ab9fe"
+   "bytes": 381632,
+   "sha256": "51648ced517e6a3a8eea7d6adb0e230bc3cafe0eea8b5e7266eb29e4387d041d"
   },
   {
    "format": "markdown",
    "file": "sand-flaubert-letters-1922.md",
-   "bytes": 728725,
-   "sha256": "35b82b17c6614226cd17a5b8c11f3c1a586a52ebbd269021e7c34ed5c8613cf5"
+   "bytes": 728679,
+   "sha256": "49c979162b9e0e8f3b5ef6dce12d7ead431770be8ef993ae822a9742c27e4e9d"
   },
   {
    "format": "tei",
@@ -203,7 +203,7 @@
  "scan_base": "https://archive.org/download/georgesandgustav00sand/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-27T21:16:21Z",
+  "compiled_at": "2026-11-28T12:58:12Z",
   "source_ast_sha256": "61c3f85a3cd09e4864518812173c1f0e27bbb9c007ab1960323b14e18f43b93a",
   "hugo_renderer_version": "1.0.0"
  }

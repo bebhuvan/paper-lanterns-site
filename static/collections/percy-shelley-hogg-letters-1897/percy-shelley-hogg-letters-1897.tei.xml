@@ -103,9 +103,9 @@
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div xml:id="sec-sec-01" type="epistolary_part">
-<head>Letters from Percy Bysshe Shelley to Thomas Jefferson Hogg</head>
+    <front>
+      <div xml:id="sec-sec-01" type="frontmatter">
+<head>Frontmatter</head>
 <div xml:id="div-unit-0001" type="apparatus">
 <pb xml:id="page-5" n="5"/><head rend="center">LETTERS TO HOGG</head>
 </div>
@@ -149,6 +149,8 @@
 <p rend="toc_entry">Lincoln's Inn Fields, London.<lb/><hi rend="italic">Sunday, 28th April,</hi> 1811 . . 89</p>
 </div>
 </div>
+    </front>
+    <body>
       <div xml:id="sec-sec-02" type="epistolary_part">
 <head>Letters to Thomas Jefferson Hogg</head>
 <div xml:id="div-unit-0005" type="apparatus">

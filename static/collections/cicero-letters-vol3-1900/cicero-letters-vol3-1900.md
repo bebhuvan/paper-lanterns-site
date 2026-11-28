@@ -584,9 +584,7 @@ As to the state of things in Africa,[^fn-p0059-1] my information is widely diffe
 
 <span class="small-caps">Cephalio</span> delivered me a letter from you in the evening of the 8th of March. Now on the morning of the same day I had already despatched the letter-carriers, to whom I had given a letter for you. However, after reading your letter I thought I must write something in answer, more especially as you shew that you are anxious as to what explanation I intend to offer Cæsar of my journey at the time that I left Italy. I have no need of any new explanation. For I have repeatedly written to him, and have charged various people to tell him, that I was unable, much as I wished it, to stand out against people's talk; and much more to the same effect. For there is nothing I should less like than that he should think that in a matter of such importance I did not act on my independent judgment.[^fn-p0061-2] I afterwards received a letter from Cornelius Balbus the younger, saying that Cæsar regarded my brother Quintus as having “sounded the signal” for my retreat—for that was his expression. I was not at the time aware of what Quintus had written about me to many; but he had spoken and acted to my face with great bitterness, in spite of which I yet wrote to Cæsar in these words :
 
-> **[letter_excerpt]**
->
-> > “I am no less anxious for my brother Quintus than for myself: but I do not venture in such a position as mine to recommend him to you. Yet this at least I will venture to ask of you—thus much I can do—I beg you not to think that he did anything to diminish the constancy of my service, or lessen my affection to you. Believe rather that he always advised our union; and was the companion, not the leader, of my journey. Wherefore in other matters pray give him all the credit that your own kindness and your mutual friendship demand. I earnestly and repeatedly entreat you not to let me stand in his light with you.”
+> “I am no less anxious for my brother Quintus than for myself: but I do not venture in such a position as mine to recommend him to you. Yet this at least I will venture to ask of you—thus much I can do—I beg you not to think that he did anything to diminish the constancy of my service, or lessen my affection to you. Believe rather that he always advised our union; and was the companion, not the leader, of my journey. Wherefore in other matters pray give him all the credit that your own kindness and your mutual friendship demand. I earnestly and repeatedly entreat you not to let me stand in his light with you.”
 
 Wherefore if I ever do meet Cæsar—though I have no doubt of his being lenient to Quintus, and that he has already made his intention clear—I after all shall be consistent with myself. But, as far as I can see, my anxiety must be much more in regard to Africa, which, in fact, you say is growing daily stronger, though rather in a way to make one hope for conditions of peace than victory. Would to heaven it were so! But my view of the facts is far different, and I think that you yourself agree with me, but write in a different sense, not to deceive but to encourage me, especially now that Spain [^fn-p0062-1] is also joined to Africa. You advise me to write to Antony and the rest. If you think anything of the sort necessary, please do as you have often done: [^fn-p0062-2] for nothing occurs to me as needing to be written. You have been told that I am in better spirits—what can you think when you see added to my other causes of uneasiness these fine doings of my son-in-law.[^fn-p0062-3] However, don't cease doing what you can in that direction—namely, writing to me, even if you have nothing to write about. For a letter from you always conveys something to me. I have accepted the inheritance of Galeo. I presume the form of acceptance was simple, as none has been sent me.[^fn-p0063-1]
 
@@ -1044,21 +1042,15 @@ That is the explanation of my policy. For yourself, then, what I think you shoul
 
 I <span class="small-caps">was</span> dining with Seius when a letter was delivered to each of us from you. Yes, I really think it is high time. For as to the personal motive in what I said before, I will own the cunning of my heart—I wanted you to be somewhere near in case of anything good turning up: “two heads,”[^fn-p0108-1] you know. At present, seeing that it is all over and done, we should not hesitate to go over, horse, foot, and artillery! For when I heard about L. Cæsar the younger, I said to myself:
 
-> **[verse_insert]**
->
 > “What will he do for me, his sire?”[^fn-p0108-2]
 
 Accordingly, I do not cease dining out with the members of the party now in power. What else should I do? One must go with the times. But a truce to jesting, especially as we have nothing to laugh at:
 
-> **[verse_insert]**
->
 > “With fearsome tumult shakes wild Afric's shore.”[^fn-p0108-3]
 
 Accordingly, there is nothing “undesirable”[^fn-p0108-4] which I do not fear. But, in answer to your question as to when, by what road, and whither [^fn-p0109-1]—I as yet know nothing. You suggest Baiæ—but some doubt whether he will not come by way of Sardinia.[^fn-p0109-2] For that particular one of his estates he has not inspected as yet. It is the worst of them all,[^fn-p0109-3] nevertheless he does not despise it. For my part, I am on the whole more inclined to think that he will come through Sicily to Velia: but we shall know directly; for Dolabella is on his way home: he, I suppose, will be our instructor:
 
-> **[verse_insert]**
->
-> > “Scholars are often wiser than their teachers.” [^fn-p0109-4]
+> “Scholars are often wiser than their teachers.” [^fn-p0109-4]
 
 But nevertheless, if I can ascertain what you have settled, I will accommodate my policy to yours before anyone else’s. Wherefore I am anxious for a letter from you.
 
@@ -1200,8 +1192,6 @@ As to Selicius's villa,[^fn-p0126-1] you have managed the business carefully and
 
 You don't lose much by not being present at my oratorical lectures. You say you would have been envious of Hirtius, if you had not loved him: you had no reason for being envious; unless it was of his own eloquence by any chance that you were envious rather than of his being my pupil. The fact is, my dearest Volumnius, I am either a complete failure, or feel myself to be so, now that those members of my set, by whose support (joined with your applause) I once flourished, are lost: so that if I ever did produce anything worthy of my reputation, let us sigh that, as Philoctetes says in Accius,
 
-> **[verse_insert]**
->
 > “These arrows now are fleshed  
 > On winged not armèd forms—all glory lost.”
 
@@ -1261,8 +1251,6 @@ I <span class="small-caps">have</span> just lain down to dinner at three o'clock
 
 Now listen to the rest. Below Eutrapelus lay Cytheris.[^fn-p0134-3] At such a party as that, say you, was the famous Cicero,
 
-> **[verse_insert]**
->
 > "To whom all looked with rev'rence, on whose face  
 > Greeks turned their eyes with wonder?"
 
@@ -1496,8 +1484,6 @@ As to Cælius, please see that there is no defect in the gold.[^fn-p0174-1] I do
 
 Now I come to Tyrannio. Do you really mean it? Was this fair? Without me? Why, how often, though quite at leisure, did I yet refuse without you? How will you excuse yourself for this? The only way of course is to send me the book; and I beg you earnestly to do so. And yet the book itself will not give me more pleasure than your admiration of it has already done. For I love everyone who “loves learning,” and I rejoice at your feeling such a great admiration for that essay on a minute point. However, you are that sort of man in everything. You want to *know*, and that is the only food of the intellect. But pray what did you get that contributed to your *summum bonum* from that acute and grave essay?[^fn-p0175-1] However, I am talking too much, and you have been occupied in some business which is perhaps mine: and in return for that dry basking of yours in the sun, of which you took such full advantage on my lawn, I shall ask of you in return some sunshine and a good dinner.[^fn-p0175-2] But I return to what I was saying. The book, if you love me, send me the book! It is certainly yours to give, since indeed it was dedicated to you.
 
-> **[verse_insert]**
->
 > “What, Chremes,  
 > Have you such leisure from your own affairs”[^fn-p0175-3]
 
@@ -1891,8 +1877,6 @@ I am much delighted that you approve so highly of my Orator.[^fn-p0213-1] My own
 
 I am kept at Rome in any case by Tullia's confinement; but when she gets as well again as I can wish, I am still detained till I can get the first instalment of the dowry[^fn-p0213-3] out of Dolabella's agents. Besides, by Hercules, I am not so much of a traveller as I used to be. My building and my leisure satisfy me entirely. My town house is now equal to any one of my villas: my leisure is more complete than the loneliest spot in the world could supply. So I am not hindered even in my literary employments, in which I am plunged without interruption. Wherefore I think that I shall see you here before you see me there. Let our dearest Lepta learn his Hesiod by heart, and have ever on his lips:
 
-> **[verse_insert]**
->
 > “On virtue's threshold god sets sweat and toil.”[^fn-p0213-4]
 
 ### Letter 131: Cicero → Gnæus Plancius
@@ -2315,34 +2299,24 @@ I <span class="small-caps">could</span> get on here even without Sicca—for Tir
 
 <span class="small-caps">Cicero</span> to Cæsar, imperator. I recommend Precilius to your special favour, the son of a connexion of your own, a very intimate friend of mine, and a most excellent man. For the young man himself I have an extraordinary affection on account of his rectitude, culture, and the spirit and affection he has displayed to myself: but of his father also I have had practical reason to know and thoroughly learn what a warm friend he has ever been to me. Now see! —this is the man that more than anyone else has been used to ridicule and chide me for not attaching myself to you, especially when invited to do so by you in the most complimentary manner:
 
-> **[verse_insert]**
->
 > “ But in my breast my heart he ne’er could move.”
 
 For I heard our nobles shouting: “ Be staunch, and unborn men shall speak thee fair.”
 
-> **[verse_insert]**
->
 > “ He spake, and on him fell black clouds of woe.”
 
 However, these same men give me consolation also: they wish even now—though once singed—to inflame me with the fire of glory, and speak thus:
 
-> **[verse_insert]**
->
 > “ Nay, not a coward’s death nor shorn of fame,  
 > But after some high deed to live for aye.” [^fn-p0260-2]
 
 But they move me less than of yore, as you see. Accordingly from the high style of Homer I transfer myself to the true maxims of Euripides:
 
-> **[verse_insert]**
->
-> > “ Out on the sage that cannot guide himself! ”
+> “ Out on the sage that cannot guide himself! ”
 
 This is a verse that the elder Precilius praises to the skies, and says that a man may be able to see both “before and behind,” and yet
 
-> **[verse_insert]**
->
-> > “ Still may excel and rise above the crowd.”
+> “ Still may excel and rise above the crowd.”
 
 But to return to what I began with: you will greatly oblige me, if you give this young man the benefit of the kindness which so distinguishes you, and will add to what I think you would do for the sake of the Precilii themselves as much as my recommendation may be worth. I have adopted a new style of letter to you, that you might understand that my recommendation is no common one.[^fn-p0261-1]
 
@@ -3004,8 +2978,6 @@ Now just tell me—do you think it right, to begin with, to publish at all witho
 
 I <span class="small-caps">like</span> modesty in language: you prefer plain speaking.[^fn-p0325-2] The latter I know was the doctrine of Zeno, a man by heaven! of keen insight, though our Academy had a serious quarrel with him. However, as I say, the Stoic doctrine is to call everything by its right name.[^fn-p0325-3] They argue as follows: nothing is obscene, nothing unfit to be expressed: for if there is anything disgraceful in obscenity, it consists either in the thing meant or in the word: there is no third alternative. Now it is not in the thing meant. Accordingly, in tragedies as well as in comedies there is no concealment. For comedy, take the character in the *Demiurgus*:[^fn-p0326-1] you know the monologue beginning “Lately by chance,” and you remember how Roscius recited, “So naked has she left me”: the whole speech is covert in language, in meaning is very immodest. As for tragedy, what do you say to this: “The woman who”—notice the expression—“uses more than one bed.” Or again, “He dared intrude upon her bed, Pheres.” Or again:
 
-> **[verse_insert]**
->
 > “A virgin I, and sheer against my will  
 > Did Iuppiter achieve his end by force.”[^fn-p0326-2]
 
@@ -3105,8 +3077,6 @@ To demand a gift, even if a man has promised it,[^fn-p0336-3] is more than even 
 
 But pray, why in the world are you in such a fright at my bidding you send the books to Varro at your own risk? Even at this eleventh hour, if you have any doubt, let me know. Nothing can be more finished than they are. I want Varro to take a part in them, especially as he desires it himself: but he is, as you know,
 
-> **[verse_insert]**
->
 > “Keen-eyed for faults, to blame the blameless prone.”[^fn-p0338-2]
 
 The expression of his face often occurs to me as he perhaps complains, for instance, that in these books my side in the argument is defended at greater length than his own. That, on my honour, you will find not to be the case if you ever get your holiday in Epirus—for at present my works have to give place to Alexion's business letters. But after all I don't despair of the book securing Varro's approval, and I am not sorry that my plan should be persisted in, as I have gone to some expense in long paper ;[^fn-p0339-1] but I say again and again—it shall be done at your risk. Wherefore, if you have any hesitation, let us change to Brutus, for he too is an adherent of Antiochus. What an excellent likeness of the Academy itself, with its instability, its shifting views, now this way and now that ! But, please tell me, did you really like my letter to Varro ? May I be hanged if I ever take so much trouble again about anything ! Consequently I did not dictate it even to Tiro,[^fn-p0339-2] who usually takes down whole periods at a breath, but syllable by syllable to Spintharus.[^fn-p0339-3]
@@ -3289,8 +3259,6 @@ About the gladiators and the other things, which you call in your letter “airy
 
 As I was writing against the Epicureans before daybreak, I scratched a hasty note to you by the same lamp and in the same breath, and despatched it also before daybreak. Then, after going to sleep again and getting up at sunrise, a letter from your sister's son[^fn-p0353-2] is put into my hands, which I herewith send to you in the original copy. It begins with a gross insult. But perhaps he didn't stop to think. Well, this is how it begins: “Whatever can be said to your discredit I——” He will have it that much can be said to my discredit, but says that he does not endorse it. Could anything be in worse taste? Well, you shall read the rest—for I send it on to you—and judge for yourself. My belief is that it was because the fellow was disturbed by the daily and persistent compliments of our friend Brutus—the expression of which by him in regard to us has been reported to me by a very large number of people—that he has at length deigned to write to me and to you. Please let me know if that is so. For what he has written to his father about me I don't know. About his mother, how truly filial! "I had wished," he says, "to be with you as much as possible, and that a house should be taken for me; and I wrote to you to that effect. You have neglected to do it. Therefore we shall see much less of each other: for I cannot bear the sight of your house; you know why." The reason to which he alludes, his father tells me, is hatred of his mother. Now, my dear Atticus, assist me with your advice:
 
-> **[verse_insert]**
->
 > "Scale the high-built wall shall I  
 > By justice pure and verity?"
 
@@ -3532,8 +3500,6 @@ As to Dionysius,[^fn-p0376-1] as you love me, settle the business. Whatever pled
 
 <span class="small-caps">Well</span>, I have no reason after all to repent my formidable guest! For he made himself exceedingly pleasant. But on his arrival at the villa of Philippus on the evening of the second day of the Saturnalia,[^fn-p0378-1] the villa was so choke full of soldiers that there was scarcely a dining-room left for Cæsar himself to dine in. Two thousand men, if you please! I was in a great taking as to what was to happen the next day; and so Cassius Barba came to my aid and gave me guards. A camp was pitched in the open, the villa was put in a state of defence. He stayed with Philippus on the third day of the Saturnalia till one o'clock, without admitting anyone. He was engaged on his accounts, I think, with Balbus. Then he took a walk on the beach. After two he went to the bath. Then he heard about Mamurra without changing countenance.[^fn-p0378-2] He was anointed: took his place at the table. He was under a course of emetics,[^fn-p0378-3] and so ate and drank without scruple and as suited his taste. It was a very good dinner, and well served, and not only so, but
 
-> **[verse_insert]**
->
 > “Well cooked, well seasoned food, with rare discourse:  
 > A banquet in a word to cheer the heart.”[^fn-p0378-4]
 
@@ -3731,8 +3697,6 @@ I <span class="small-caps">am</span> presuming upon your regard for me, which yo
 
 I <span class="small-caps">had</span> no difficulty in gathering from your letter, what I have always been anxious for, that I am very highly valued by you, and that you are fully aware how dear you are to me. As, then, we are both convinced of that, it remains for us to enter upon a rivalry of good offices. In that contest I shall be equally content to surpass you or to be surpassed by you. I am not displeased to find that there was no need for my letter being handed to Acilius. I gather from your letter that you had no great occasion for the services of Sulpicius, because your affairs had been so much reduced in magnitude, that they had “neither head nor feet.” I could wish that they had “feet,” that you might come back to Rome some day. For you see that the old fountain of humour has run dry, so that by this time our poet Pomponius might say with good reason:
 
-> **[verse_insert]**
->
 > “We only guard—a dwindling band—  
 > The ancient fame of Attic land.”
 

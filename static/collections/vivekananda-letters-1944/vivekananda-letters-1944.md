@@ -155,8 +155,6 @@ Some relative of my former life[^fn-p0020-1] had purchased a bungalow at Simulta
 
 Words fail to describe how strong is the desire in my mind to go to Benares and have my soul blessed by meeting you and sojourning with you in good converse, but everything rests on His will ! I wonder what linking of heart existed between us, sir, from some previous incarnation that, receiving as I do the love and affection of not a few men of wealth and position in this city of Calcutta, I am apt to feel so much bored by their society, while only through one day’s interview my heart felt charmed enough to accept you as a near relative and friend in spiritual life ! One reason is that you are a favoured servant of God; another perhaps is :
 
-> **[verse_insert]**
->
 > तच्चेतसा स्मरति नूनमबोधपूर्वं  
 > भावस्थिरानि जननान्तरसौहृदानि ।[^fn-p0020-2]
 
@@ -170,8 +168,6 @@ They were quite well off before, but since my father’s death, it is going very
 
 Living near Calcutta I have to witness their adversity, and the quality of Rajas prevailing, my egotism sometimes develops into the form of a desire that rises to plunge me into action; in such moments, a fierce fighting ensues in my mind, and so I wrote that the state of my mind was terrible. Now their lawsuit has come to an end. So bless me that after a stay here in Calcutta for a few days more to settle matters, I may bid adieu to this place for ever.
 
-> **[verse_insert]**
->
 > आपूर्यमाणमचलप्रतिष्ठ  
 > समुद्रमापः प्रविशन्ति यद्वत् ।  
 > तद्वत् कामा यं प्रविशन्ति सर्वे  
@@ -486,14 +482,10 @@ The Vedic doctrine of Karma is the same as in Judaism and all other religions, t
 
 Lord Buddha is my Ishtam—my God. He preached no theory about Godhead—he was himself God, I fully believe it. But no one has the power to put a limit to God's infinite glory. No, not even God Himself has the power to make Himself limited. The translation of the Gandâra-Sutta that you have made from the Suttanipâta, is excellent. In that book there is another Sutta—the Dhaniya-Sutta—which has got a similar idea. There are many passages in the Dhammapadam too, with similar ideas. But that is at the last stage, when one has got perfectly satisfied with Knowledge and Realisation, is the same under all circumstances, and has gained mastery over his senses—
 
-> **[verse_insert]**
->
 > ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः ।
 
 He who has not the least regard for his body as something to be taken care of—it is he who may roam about at pleasure like the mad elephant caring for naught. Whereas a puny creature like myself should practise devotion, sitting at one spot, till he attains Realisation—and then only should he behave like that—but it is a far-off question—very far indeed.
 
-> **[verse_insert]**
->
 > चिन्ताशून्यमदैन्यमल्पमशनं पानं सरिद्वारिषु  
 > स्वातन्त्र्येण निरङ्कुशा स्थितिरभीर्निद्रा श्मशाने वने ।  
 > वस्त्रं क्षालनशोषणादिरहितं दिग्वास्तु शय्या मही  
@@ -595,8 +587,6 @@ P.S. In case Abhedananda reaches your place in a day or two, I shall be much obl
 
 <span class="small-caps">Revered Sir</span>—Received your kind note yesterday. I am very sorry to learn that Suresh Babu’s illness is extremely serious. What is destined to come will transpire. It is a matter of great regret that you too have fallen ill. So long as egoism lasts, any shortcoming in adopting remedial measures is to be considered as idleness—it is a fault and a guilt. For one who has not that egoistic idea, the best course is to forbear. The dwelling-place of the Jivatman, this body, is a veritable means of work, and he who converts this into an infernal den is guilty, and he who neglects it is also to blame. Please act according to circumstances as they present themselves, without the least hesitation.
 
-> **[verse_insert]**
->
 > नाभिनन्देत मरणं नाभिनन्देत जीवितम् ।  
 > कालमेव प्रतीक्षेत नियमं भृतको यथा ॥
 
@@ -615,8 +605,6 @@ There is a dreadful outbreak of influenza at Benares and Pramada Babu has gone t
 
 <span class="small-caps">Dear</span> Atul Babu—I am extremely sorry to hear that you are passing through mental afflictions. Please do only what is agreeable to you.
 
-> **[verse_insert]**
->
 > यावज्जननं तावन्मरणं  
 > तावज्जननीजठरे शयनम् ।  
 > इति संसारे स्फुटतरदोषः  
@@ -745,8 +733,6 @@ I am in fine health now, and the good I gained by my stay in Ghazipur will last,
 
 How do you find the climate at Almora ? Neither of you need come down. What is the use of so many living together in one place and doing no good to one's soul? Don't be fools always wandering from place to place—that's all very good—but be heroes.
 
-> **[verse_insert]**
->
 > निर्मानमोहा जितसंगदोषा  
 > अध्यात्मनित्या विनिवृत्तकामाः ।  
 > द्वंद्वैर्विमुक्ताः सुखदुःखसंज्ञै-  
@@ -1042,8 +1028,6 @@ As regards spirituality, the Americans are far inferior to us, but their society
 
 <span class="small-caps">My dear Balaji</span>—“ Naked came I out of my mother’s womb, and naked shall I return thither; the Lord gave and the Lord hath taken away; blessed be the name of the Lord.” Thus said the old Jewish saint when suffering the greatest calamities that could befall man, and he erred not. Herein lies the whole secret of Existence. Waves may roll over the surface and tempests rage, but deep down there is the stratum of infinite calmness, infinite peace, and of infinite bliss. “ Blessed are they that mourn, for they shall be comforted.” And why? Because it is during these moments of visitations, when the heart is wrung by hands which never stop for the father’s cries or the mother’s wail, when under the load of sorrow, dejection and despair, the world seems to be cut off from under our feet, and when the whole horizon seems to be nothing but an impenetrable sheet of misery and utter despair, that the internal eyes open, light flashes all of a sudden, the dream vanishes, and intuitively we come face to face with the grandest mystery in nature—Existence. Yes, then it is—when the load would be sufficient to sink a lot of frail vessels—that the man of genius, of strength, the hero, sees that infinite, absolute, ever-blissful Existence *per se*, that infinite Being who is called and worshipped under different names, in different climes. Then it is, the shackles that bind the soul down to this hole of misery, break, as it were, for a time, and unfettered, it rises and rises until it reaches the throne of the Lord, “where the wicked cease from troubling and the weary are at rest.” Cease not, brother, to send up petitions day and night, cease not to say day and night, <span class="small-caps">Thy Will be Done.</span>
 
-> **[verse_insert]**
->
 > “ Ours not to question why,  
 > Ours but to do and die.”
 
@@ -1206,8 +1190,6 @@ Nowhere in the world are women like those of this country. How pure, independent
 
 A country where millions of people live on flowers of the *mohua* plant, and a million or two of Sadhus and a hundred million or so of Brahmins such the blood out of these poor people, without even the least effort for their amelioration—is that a country or hell? Is that a religion, or the devil’s dance? My brother, here is one thing for you to understand fully—I have travelled all over India, and seen this country too—can there be an effect without cause? Can there be punishment without sin?
 
-> **[verse_insert]**
->
 > सर्वशास्त्रपुराणेषु व्यासस्य वचनं ध्रुवं ।  
 > परोपकारः पुण्याय पापाय परपीडनम् ॥
 
@@ -1520,8 +1502,6 @@ Here in summer they go to the seaside—I also did the same. They have got almos
 
 I shall now tell you something of the Hales to whose address you direct my letters. He and his wife are an old couple, having two daughters, two nieces and a son. The son lives abroad where he earns a living. The daughters live at home. In this country relationship is through the girls. The son marries and no longer belongs to the family, but the daughter’s husband pays frequent visits to his father-in-law’s house. They say,
 
-> **[verse_insert]**
->
 > “ Son is son till he gets a wife,  
 > The daughter is daughter all her life.”
 
@@ -1545,8 +1525,6 @@ I am now busy writing a reply to the Madras Address, which was published in all 
 
 . . . They are good-natured, kind, and truthful. All is right with them but that enjoyment is their God. It is a country where money flows like rivers, with beauty as its ripple, and learning its waves, and which rolls in luxury.
 
-> **[verse_insert]**
->
 > कांक्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः ।  
 > क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ॥
 
@@ -1562,8 +1540,6 @@ It is welcome news that Madras is in a stir.
 
 Were you not going to start a paper or something of that sort, what about that? We must mix with all, and alienate none. All the powers of good against all the powers of evil—this is what we want. Do not insist upon everybody’s believing in our Guru. . . . You shall have to edit a magazine, half Bengali and half Hindi—and, if possible, another in English. . . . It won’t do to be roaming aimlessly. Wherever you go, you must start a permanent preaching centre. Then only will people begin to change. I am writing a book. As soon as it is finished, I run for home ! . . . Always remember that Sri Ramakrishna came for the good of the world—not for name or fame. *Spread only what he came to teach. Never mind for his name—it will spread of itself.* Directly you insist on everybody’s accepting your Guru, you will be creating a sect, and everything will come to the ground—so beware ! Have a kind word for all—it spoils work to show temper. Let people say whatever they like, stick to your own convictions, and rest assured, the world will be at your feet. They say, “Have faith in this fellow or that fellow,” but I say, “Have faith in yourself first,” that’s the way. Have faith in yourself—all power is in you,—be conscious and bring it out. Say, “I can do everything.” “Even the poison of a snake is powerless if you can firmly deny it.” Beware ! No saying “nay,” no negative thoughts ! Say, “Yea, yea,” सोऽहं, सोऽहं—“I am He ! I am He !”
 
-> **[verse_insert]**
->
 > किन्नाम रोदिषि सखे त्वयि सर्वशक्तिः  
 > आमन्त्रयस्व भगवन् भगदं स्वरूपम् ।  
 > त्रैलोक्यमेतदखिलं तव पादमूले  
@@ -1573,8 +1549,6 @@ Were you not going to start a paper or something of that sort, what about that? 
 
 To work with undaunted energy ! What fear ! Who is powerful enough to thwart you ! कुर्मस्तारकचर्वणं त्रिभुवनमुत्पाटयामः बलात् किं भो न विजानास्यस्मान्, रामकृष्णदासा वयम् —“ We shall crush the stars to atoms, and unhinge the universe. Don’t you know who we are? We are the servants of Sri Ramakrishna.” Fear ! Whom to fear, forsooth !
 
-> **[verse_insert]**
->
 > क्षीणाः स्म दीनाः सकरुणाः जल्पन्ति मूढा जनाः  
 > नास्तिक्यन्त्विदन्तु अहह देहात्मवादातुराः ।  
 > प्राप्ताः स्म वीरा गतभया अभयं प्रतिष्ठां यदा  
@@ -1807,8 +1781,6 @@ Why amongst the poor of India are so many Mohammedans? It is nonsense to say the
 
 Now, let me tell you—still there is a God, no joke. He is ordering our lives, and although I know a nation of slaves cannot but try to bite at the hand that wants to give them medicine, yet, pray with me, you—one of the few that have real sympathy for everything good, for everything great, one at least whom I know to be a man of true ring, nobility of nature and a thorough sincerity of head and heart—pray with me:
 
-> **[verse_insert]**
->
 > “ Lead, Kindly Light,  
 > amid the encircling gloom.”
 
@@ -2133,8 +2105,6 @@ The address you sent reached me long ago and the reply to it has also been despa
 
 Bear in mind—the eyes are two in number and so the ears, but the mouth is but one ! Indifference, indifference, indifference ! न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति—“ The doer of good deeds never comes to grief, my dear.” Ah ! To fear ! and whom are we going to fear, brother ? Here the missionaries and their ilk have howled themselves on to silence—and the whole world will but do likewise.
 
-> **[verse_insert]**
->
 > निन्दन्तु नीतिनिपुणा यदि वा स्तुवन्तु  
 > लक्ष्मीः समाविशतु गच्छतु वा यथेष्टम् ।  
 > अद्यैव वा मरणमस्तु शतान्तरे वा  
@@ -2920,8 +2890,6 @@ P. S. Remember my previous letter—we want both men and women. There is no dist
 
 It isn’t much use getting up a sensation every day. But avail yourselves of this stir that is rife all over the country, and scatter yourselves in all quarters. In other words, try to start branches at different places. Let it not be an empty sound merely. You must join the Madrasees and start associations etc., at different places. What about the magazine which I heard was going to be started? Why are you nervous about conducting it? . . . . Come! Do something heroic. Brother, what if you do not attain Mukti, what if you suffer damnation a few times? Is the saying untrue:
 
-> **[verse_insert]**
->
 > मनसि वचसि काये पुण्यपीयूषपूर्णा-  
 > स्त्रिभुवनमुपकारश्रेणिभिः प्रीणयन्तः ।  
 > परगुणपरमाणुं पर्वतीकृत्य नित्यं  
@@ -3318,9 +3286,9 @@ Why didn’t any of you write about Daksha and Harish? I shall be glad to know i
 
 > **[enclosure: The Anniversary of Bhagavan Sri Ramakrishna]**
 >
-> > The Anniversary of Bhagavan Sri Ramakrishna.
+> The Anniversary of Bhagavan Sri Ramakrishna.
 >
-> > Sir, we have great pleasure in inviting you to join us in celebrating the —th anniversary of Bhagavan Ramakrishna Paramahamsa. For the celebration of this great occasion and for the maintenance of the Alambazar Math funds are absolutely necessary. If you think that the cause is worthy of your sympathy, we shall be very grateful to receive your contribution to the great work.
+> Sir, we have great pleasure in inviting you to join us in celebrating the —th anniversary of Bhagavan Ramakrishna Paramahamsa. For the celebration of this great occasion and for the maintenance of the Alambazar Math funds are absolutely necessary. If you think that the cause is worthy of your sympathy, we shall be very grateful to receive your contribution to the great work.
 >
 > Yours obediently,
 >
@@ -4570,8 +4538,6 @@ Secondly, along with this, education has to be imparted. That is easy to say, bu
 
 In the West, women rule; all influence and power are theirs. If bold and talented women like yourself, versed in Vedanta, go to England to preach, I am sure that every year hundreds of men and women will become blessed by adopting the religion of the land of Bhârata. The only woman who went over from our country was Româbai; her knowledge of English, Western science and art was limited; still she surprised all. If anyone like you go, England will be stirred, what to speak of America ! If an Indian woman in Indian dress preach the religion which fell from the lips of the Rishis of India—I see a prophetic vision—there will rise a great wave which will inundate the whole Western world. Will there be no woman in the land of Maitreyi, Khanâ, Lilâvati, Sâvitri and Ubhayabhârati, who will venture to do this ? The Lord knows. England we shall conquer, England we shall possess through the power of spirituality. नान्यः पन्था विद्यतेऽयनाय— “There is no other way of salvation.” Can salvation ever come by getting up meetings and societies ? Our conquerors must be made Devas by the power of our spirituality. I am a humble mendicant, an itinerant monk; I am helpless and alone; what can I do ? You have the power of wealth, intellect and education; will you forgo this opportunity ? Conquest of England, Europe and America—this should be our one supreme Mantram at present, in it lies the well-being of the country. Expansion is the sign of life and we must spread over the world with our spiritual ideals. Alas ! this frame is poor, moreover, the physique of a Bengali; even under this labour a fatal disease has attacked it, but there is the hope—
 
-> **[verse_insert]**
->
 > उत्पत्स्यतेऽस्ति मम कोऽपि समानधर्मा ।  
 > कालो ह्ययं निरवधिर्विपुला च पृथ्वी ॥ (भवभूतिः)
 
@@ -5404,8 +5370,6 @@ Hoping soon to join you in Europe or America.—I remain, ever your loving son, 
 
 <span class="small-caps">DEAR MADAM</span>—Very glad to receive your kind note. If by the sacrifice of some specially cherished object of either myself or my brother-disciples many pure and genuinely patriotic souls come forward to help our cause, rest assured, we will not hesitate in the least to make that sacrifice, nor shed a tear-drop—you will see this verified in action. But up till now I have seen nobody coming forward to assist in this way. Only some have wished to put their own hobby in place of ours—that is all. If it really help our country, or humanity—not to speak of giving up Guru-worship—believe me, we are prepared to commit any dire iniquity and suffer the eternal damnation of the Christians. But my hairs have turned grey since I began the study of man. This world is a most trying place, and it is long since I have taken to wandering with the lantern of the Grecian Philosopher in hand. A popular song my Master often used to sing comes to my mind:
 
-> **[verse_insert]**
->
 > “ He who’s a man after one’s heart  
 > Betrays himself by his very looks.  
 > Rare indeed is such a one !  

@@ -243,8 +243,8 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-1-1602-1613.epub",
-   "bytes": 433708,
-   "sha256": "70a9017cde3ec1f94ff3fde7e6a3808a3fc11eb26ba6506f7c4cecdb4db0fb9c"
+   "bytes": 433734,
+   "sha256": "a3cd5857b7c07d297422507bd366bc5106636d5fd558e756cb1c6d2a2e301584"
   },
   {
    "format": "markdown",
@@ -262,7 +262,7 @@
  "scan_base": "https://archive.org/download/lettersreceivedb01east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:28:12Z",
+  "compiled_at": "2026-11-28T12:56:08Z",
   "source_ast_sha256": "3f49ada62e45dfbd5eea1a0d62f1106078518b67d86b1736522787d91a9b7d03",
   "hugo_renderer_version": "1.0.0"
  }

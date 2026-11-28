@@ -299,14 +299,14 @@
   {
    "format": "epub",
    "file": "plato-epistles-1925.epub",
-   "bytes": 153881,
-   "sha256": "85ba467e34e7ab0efeae9975ef1648a2a0c70eeb427393b74d6c99d1c0e97f0c"
+   "bytes": 153907,
+   "sha256": "3b5975a1d3075c5cbca96ead5b19d17a24d13da10f9ce10f910894e100a98e1d"
   },
   {
    "format": "markdown",
    "file": "plato-epistles-1925.md",
-   "bytes": 264269,
-   "sha256": "6d2f919600250f3797ce9dbf5d153d7f54f3f5e049e9dd6af40172ad576460a3"
+   "bytes": 264246,
+   "sha256": "eaef9303282ac13e94f366db57b043d976c0173ad5c1e68c23826271b637efd9"
   },
   {
    "format": "tei",
@@ -318,7 +318,7 @@
  "scan_base": "https://archive.org/download/thirteenepistles0000plat/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T10:24:52Z",
+  "compiled_at": "2026-11-28T12:57:26Z",
   "source_ast_sha256": "ac0aff971e9f9e12f42af3ca16976b54d10d006d0fb8d206b21aee9ce86b48b5",
   "hugo_renderer_version": "1.0.0"
  }

@@ -112,8 +112,8 @@
   {
    "format": "epub",
    "file": "tagore-letters-1917.epub",
-   "bytes": 43812,
-   "sha256": "77e459b8acd5cc3ae601fa149c7fefa6ab2776a982bb50fcd04a4563c641e2fe"
+   "bytes": 43837,
+   "sha256": "ce22408403033d71c829585cac81edb8deada930133398310bfcb91b1add6f85"
   },
   {
    "format": "markdown",
@@ -131,7 +131,7 @@
  "scan_base": "https://archive.org/download/letters00tago/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T21:17:05Z",
+  "compiled_at": "2026-11-28T12:58:06Z",
   "source_ast_sha256": "723060cbbc9d8944791424d23d55c76cf60a79e5ad03ad5f276f287b2b764a8f",
   "hugo_renderer_version": "1.0.0"
  }

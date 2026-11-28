@@ -1501,9 +1501,7 @@ The pretext for this violence and robbery is an order which MM. Freytag and Schm
 
 This book being at Hamburg, M. de Voltaire had given his word of honour on June 1st not to leave Frankfort until the book was returned: and M. Freytag, in the name of his master the King, affixed his signature to two letters, identical with each other, and running as follows:
 
-> **[enclosure]**
->
-> > “Sir, if the packet which you declare to be at Hamburg or Leipsic, and which contains the poetical work (*œuvre de poëshie*) of the King, arrives here and the book is given up to me, you can go when you like.”
+> “Sir, if the packet which you declare to be at Hamburg or Leipsic, and which contains the poetical work (*œuvre de poëshie*) of the King, arrives here and the book is given up to me, you can go when you like.”
 
 M. de Voltaire then gave him, as pledges, two packets of papers—one literary, and the other dealing with family affairs: and M. Freytag signed the following note:
 
@@ -2232,8 +2230,6 @@ I have confessed, sir, all that was in my heart. I own that I was much in the wr
 
 Before despatching this letter, I have found time, sir, to read your *Richard III.* You would be an excellent attorney-general. You weigh all the pros and cons: still, I think I detect that you have a secret liking for the hunchback. You cannot help wishing he had been a pretty fellow, if not a fine fellow. Calmet, the Benedictine, wrote a long dissertation to prove that Christ had a beautiful countenance. I wish I could agree with you that Richard III was neither so ugly nor so wicked as he is said to have been: but I should not have cared to have had anything to do with him. Your *white rose* and your *red rose* were full of fearful thorns for the nation.
 
-> **[verse_insert]**
->
 > Those gracious kings are all a pack of rogues.
 
 Truly, the history of the Yorkists and Lancastrians, and many others, is much like reading the history of highway robbers.

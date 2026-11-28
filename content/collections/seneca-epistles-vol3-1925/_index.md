@@ -253,14 +253,14 @@
   {
    "format": "epub",
    "file": "seneca-epistles-vol3-1925.epub",
-   "bytes": 233443,
-   "sha256": "626b76cbc5fb2fbb9e06bdeb0ebe4631886604219247627cc96dd6cea27c6ecd"
+   "bytes": 233469,
+   "sha256": "70c1b0f99aaa8fe67c391aaa173222c5f025c203fa8a67736cd2a8a623fe0dec"
   },
   {
    "format": "markdown",
    "file": "seneca-epistles-vol3-1925.md",
-   "bytes": 422428,
-   "sha256": "321e348049c8954f4b72daee3d8753a9ea5b195d56926adece267a7f3a9947ae"
+   "bytes": 421488,
+   "sha256": "d61e1f88aa3b3acd49b492d4653d708c93af0bcc5e8ccdab75c1de2c98321f9c"
   },
   {
    "format": "tei",
@@ -272,7 +272,7 @@
  "scan_base": "https://archive.org/download/adluciliumepistu03seneuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T10:24:28Z",
+  "compiled_at": "2026-11-28T12:58:05Z",
   "source_ast_sha256": "8cc15bb799eb878718ad420e312530d418e76ef17adf3f2f0286c729137513ff",
   "hugo_renderer_version": "1.0.0"
  }

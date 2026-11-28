@@ -270,8 +270,8 @@
   {
    "format": "epub",
    "file": "hammurabi-letters-1900.epub",
-   "bytes": 365281,
-   "sha256": "1ffedcc914839f243178a4df66e46806f6b842ee94308e9a0eb063fae6144c8e"
+   "bytes": 365306,
+   "sha256": "c91c9ec2933daec51f422227ed4041d098e795cf08c0fa4c53eeb36d7135dfa8"
   },
   {
    "format": "markdown",
@@ -289,7 +289,7 @@
  "scan_base": "https://archive.org/download/cu31924104781285/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-28T11:42:53Z",
+  "compiled_at": "2026-11-28T12:56:45Z",
   "source_ast_sha256": "3d9d01779796ca6dcfe68148434684c4e12976075e749c37d89809b42c7733a8",
   "hugo_renderer_version": "1.0.0"
  }

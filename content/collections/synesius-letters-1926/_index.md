@@ -180,27 +180,27 @@
   {
    "format": "epub",
    "file": "synesius-letters-1926.epub",
-   "bytes": 321546,
-   "sha256": "5b2f3d9121df9ef705e22434949012de1b8c6b6ad4f4a835bbc867e6b403fcb5"
+   "bytes": 321585,
+   "sha256": "4fd9d88b17428c62b7aa95381bb623d08c6c278529a0ad6f733520ef04b9de23"
   },
   {
    "format": "markdown",
    "file": "synesius-letters-1926.md",
-   "bytes": 623980,
-   "sha256": "7d4be9064f9842ae2cb69dfeca1e1de950de4b640f0590fc99febd2b688b3eae"
+   "bytes": 623613,
+   "sha256": "4204d71f2e652c31c11026c367743ded0a5868e82bfc792ccb629adab776de1a"
   },
   {
    "format": "tei",
    "file": "synesius-letters-1926.tei.xml",
-   "bytes": 741096,
-   "sha256": "50d7dc4ca8261a24a8197ed9e8c94b0ae2331738b331a43cfb58afe84ae17c9e"
+   "bytes": 741182,
+   "sha256": "b1e860b0b2fe0ee48830c57945754c9a320e0c137a84ea8785ea5ace34919e35"
   }
  ],
  "scan_base": "https://archive.org/download/bwb_C0-AUD-889/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:26:42Z",
-  "source_ast_sha256": "295570030efe4bff5fb4ffa6c2c112ecce994436e405532f96efae74853511d3",
+  "compiled_at": "2026-11-28T12:58:21Z",
+  "source_ast_sha256": "97b566258377dc05f09bac3978d529050384ecfb3f0f62a212f8ed803a13b918",
   "hugo_renderer_version": "1.0.0"
  }
 }

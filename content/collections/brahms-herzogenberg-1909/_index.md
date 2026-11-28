@@ -214,14 +214,14 @@
   {
    "format": "epub",
    "file": "brahms-herzogenberg-1909.epub",
-   "bytes": 422378,
-   "sha256": "92578a62a440a03a47e6263f50e532def1033a43cd11b038167ba03762b7d120"
+   "bytes": 422404,
+   "sha256": "b86d8b58385b366b6dfbf8e55a240a919a3e07e7fa88ca95845e1405ac91fdbc"
   },
   {
    "format": "markdown",
    "file": "brahms-herzogenberg-1909.md",
-   "bytes": 782347,
-   "sha256": "dc6400c41bff4e44c22b5726f06098644f163d6abe1fcc05550d84a624a2930e"
+   "bytes": 782255,
+   "sha256": "c5d91377a94e2334bdc3d438bf5c90921d2bc35d12d0677a9ee8a20a58052486"
   },
   {
    "format": "tei",
@@ -233,7 +233,7 @@
  "scan_base": "https://archive.org/download/johannesbrahmshe00brah_0/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-28T05:28:35Z",
+  "compiled_at": "2026-11-28T12:55:38Z",
   "source_ast_sha256": "fbb3b382342ccd111035e35e3658da13e67448ceb9faf73ea7cbaf81866e4538",
   "hugo_renderer_version": "1.0.0"
  }

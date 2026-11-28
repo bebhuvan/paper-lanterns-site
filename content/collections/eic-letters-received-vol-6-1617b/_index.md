@@ -197,8 +197,8 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-6-1617b.epub",
-   "bytes": 461216,
-   "sha256": "03e2cf51d89d13a7232fd36059638bb1065037431bcdc020ab13f0c09c9b8996"
+   "bytes": 461242,
+   "sha256": "2491164406c5a9d2b2308311295c81e6cbc2ac1cc4c175f6e8a12e90d5db7015"
   },
   {
    "format": "markdown",
@@ -216,7 +216,7 @@
  "scan_base": "https://archive.org/download/lettersreceivedb06east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:25:22Z",
+  "compiled_at": "2026-11-28T12:56:18Z",
   "source_ast_sha256": "eb2ec66fded999faefb3babf19edd3cb6e859993056c64cdd430bebf1c64d99d",
   "hugo_renderer_version": "1.0.0"
  }

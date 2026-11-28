@@ -92,8 +92,6 @@ You have read, you tell me, my hendecasyllabic [^fn-p0021-1] poems, and are desi
 
 The treatise of Asinius Gallus [^fn-p0021-2] was read to me one day at my Laurentine villa, wherein he draws a comparison between his father and Cicero; and there I met with an epigram of Tully's on his favourite Tiro.[^fn-p0021-3] Upon retiring to take my afternoon's nap (for it was summer time), and not being visited by sleep, I began to reflect that the greatest orators have been fond of this kind of composition, and valued themselves upon it. I tried therefore what I could do in this way ; and though I had long disused myself to things of this nature, I jotted down in almost no time the following lines upon the subject which had prompted me to compose :—
 
-> **[verse_insert]**
->
 > “ When Gallus I read, who pretends that his sire  
 >   Had far more than Tully poetical fire,  
 >   The wisest of men, I perceived, held it fit  
@@ -165,8 +163,6 @@ You may sometimes venture to pick out and try to emulate the most shining passag
 
 Again, after laying aside a composition until it is no longer fresh in your memory, you may revise it; retaining several things but rejecting still more; inserting a passage here, and re-writing one there. It is a laborious and tedious task, I own, thus to re-enflame the mind after the first heat is over, to recover an impulse when its force has been checked and spent, in a word, to interweave new parts into the texture of a composition without disturbing or confounding the original plan; but the very difficulty of this method renders it a profitable one. I know your main bent at present is towards forensic oratory; but I would not for that reason advise you always to wield the controversial and, so to say, militant pen. As land is improved by sowing it with various crops in rotation so is the mind by exercising it with different studies. I would have you, therefore, sometimes single out a fine passage of history, and practise epistolary composition. For in pleading one has frequently occasion to use not only the historical, but an almost poetical style for descriptions; while a succinct and chaste style is cultivated by letter-writing. It is well also to unbend your mind with poetry; I do not mean of the long and sustained order (for that can only be achieved by men of leisure), but those little witty pieces which serve as proper reliefs to every degree of care and occupation. They commonly go under the title of *amusements*; but these amusements have sometimes gained as much fame as works of a more serious nature; and indeed (for while I am exhorting you to poetry, why should I not be poetical myself?)
 
-> **[verse_insert]**
->
 > “ As wax by pliancy our praise commands,  
 >   Submissive shap’d beneath the Artist’s hands;  
 >   Now Mars’ or chaste Minerva’s form puts on,  
@@ -504,8 +500,6 @@ Besides, considering that some had paid over either large or small instalments o
 
 This instance of my good nature or my judgement (call it which you please) was a very considerable expense to me. However, I found my account in it; for all the country-side extols both this novel rebate, and the method in which I conducted it. Even those whom I did not measure (as they say) by the same ell, but distinguished according to their several degrees, thought themselves obliged to me, in proportion to the integrity of their dispositions; and went away pleased with having experienced, that not with me
 
-> **[verse_insert]**
->
 > “The brave and mean like honour find.”
 
 Farewell.
@@ -835,9 +829,7 @@ Pray believe, what I began by saying, that I have written as your monitor, not y
 
 I <span class="small-caps">have</span> frequently recommended it to you, to be as expeditious as possible in publishing what you have written either in defence of yourself, or against Planta ; or rather indeed (as your materials demanded) what you drew up with both those views : but I particularly press this advice upon you *now* that I hear he is dead. For though you read this piece to several of your friends, and put it into the hands of others, yet I should regret extremely, that the world should suspect you only began after his death, what it is most certain you had finished during his life. Let not the character my friend has acquired of firmness and resolution be called in question. And it will ; unless both the candid and the malicious shall know, that the death of your adversary did not give you confidence to compose this piece, but merely forestalled the appearance of a work you were on the point of giving to the world. And thus you will also avoid the imputation,
 
-> **[verse_insert]**
->
-> > “ With impious joy to triumph o’er the dead.” [^fn-p0189-1]
+> “ With impious joy to triumph o’er the dead.” [^fn-p0189-1]
 
 For what you wrote and recited on the subject of a living personage, will be considered as published so too, provided you publish it at once. If therefore you have any other work upon your hands, let me intreat you to lay it aside, and give your last finishing touches to this performance. It seemed to me, indeed, when I formerly read it, to want no improvements; and so let it now seem to you; as neither the thing itself requires, nor the occasion will admit, of any farther delay. Farewell.
 
@@ -957,8 +949,6 @@ It happened very opportunely, that the Senate met the next day but one. I never 
 
 It would be too tedious to relate all that was thrown out by different sides upon this occasion. At length the Consul said, “You will be at liberty, Secundus, to speak on whatever you wish to propose, when you are called upon to give your opinion on the business of the day.”[^fn-p0213-4] “The permission you granted and now withdraw,” said I, “you never yet refused to any,” and so sat down; when immediately the House went upon other affairs. In the meanwhile, one of my consular friends took me aside, and with great earnestness telling me he thought I had carried on this affair with more boldness than prudence, used every method of reproof and persuasion, to prevail with me to desist. He even added that I should find myself a marked man under future Emperors.[^fn-p0213-5] “So be it,” quoth I, “if they are bad Emperors.” He had scarce left me, when a second came up : “ For God's sake,” said he, “what are you attempting? Will you ruin yourself? Do you consider to what hazards you are exposed? Why will you presume on the present situation of public affairs, when it is so uncertain what turn they may hereafter take? You are attacking a man who is actually at the head of the treasury,[^fn-p0215-1] and will shortly be Consul. Besides, consider what credit he has, and with what powerful friendships he is supported!” Upon which he named a certain person, who (not without several strong and suspicious rumours) was then commanding a powerful army in the east. I replied,
 
-> **[verse_insert]**
->
 > “ ‘ All I've foreseen, and oft in thought revolv'd ;'
 
 and am willing, if so it falls out, to suffer pains and penalties for an honourable action, provided I avenge an infamous one.”
@@ -969,8 +959,6 @@ Avidius Quietus and Cornutus Tertullius spoke in the opposite sense. The former 
 
 Thus they delivered their several opinions, in the order in which they were called upon. When it came to my turn, I rose up, and using the same exordium as appears in the published speech, I replied to them severally. It is surprising with what attention, with what applause I was heard by those who just before were exclaiming against me; such a wonderful conversion was wrought either by the importance of the affair, the successful progress of the speech, or the resolution of the advocate. After I had finished, Veiento began to reply; not a soul would hear him; the general clamour raised against him was so overpowering that he was reduced to saying, “I hope, my lords, you will not oblige me to implore the assistance of the Tribunes.”[^fn-p0219-1] Immediately the Tribune Murena cried out, “You have my leave, most illustrious Veiento, to proceed.” But still the uproar was renewed. In the interval the Consul put the question severally to the rest, and having taken a division, dismissed the Senate, leaving Veiento in the midst, still attempting to speak. He made great complaints of this affront (as he called it) applying the following lines of Homer to himself:
 
-> **[verse_insert]**
->
 > “ Great perils, father, wait th’ unequal fight;  
 >   Those younger champions will oppress thy might.”
 
@@ -1030,8 +1018,6 @@ I <span class="small-caps">have</span> received your letter, in which you compla
 
 You have read, it seems, in a letter of mine,[^fn-p0229-1] that Virginius Rufus directed the following lines to be inscribed upon his tomb :
 
-> **[verse_insert]**
->
 > “ Here Rufus lies, who raised in victory’s hour  
 > His country, not himself, to sovran power :”
 
@@ -1107,22 +1093,16 @@ I <span class="small-caps">said</span> once (and I think not improperly) of a ce
 
 The reason of my making this observation is, because, if I mistake not, you have condemned some passages in my writings as tumid which I thought sublime, excessive which I deemed bold, and overloaded which seemed to me copious. But it is material to consider, whether your criticism turns upon such points as are real faults, or only striking and remarkable expressions. Whatever is salient is sure to be criticized; but it requires a very nice judgement to distinguish the bounds between extravagance and grandeur; between a just and enormous height. To give instances out of Homer, by preference—what reader, whether he incline to one side or the other, can fail to remark—
 
-> **[verse_insert]**
->
 > “ Heav’n in loud thunder bids the trumpet sound,  
 >   And wide beneath them groans the rending  
 >     ground.”
 
 Again,
 
-> **[verse_insert]**
->
 > “ His spear on clouds reclined.” [^fn-p0247-1]
 
 So in that whole passage:
 
-> **[verse_insert]**
->
 > “ Not half so loud the bellowing deeps resound.”
 
 It requires, I say, a very delicate hand to poise these metaphors, and determine whether they are fantastic and absurd, or truly majestic and sublime. Not that I think anything which I have written or can write, admits of comparison with these. I am not extravagant enough to say so; what I would be understood to contend for is, that we should throw up the reins to eloquence, nor restrain the daring flights of genius within too narrow a compass.
@@ -1834,14 +1814,10 @@ I beg then you would inform me whether you would have him sent back again into e
 >
 > I <span class="small-caps">recommend</span>, my dear Maximus, to your protection, that worthy philosopher Archippus, a person whose morals are agreeable to his profession ; and I would have you accede with your utmost courtesy to his modest requests.
 
-> **[enclosure]**
->
 > ##### <span class="small-caps">The Edict of the Emperor Nerva</span>
 >
 > <span class="small-caps">There</span> are some points, no doubt, Quirites, concerning which the happy tenor of my government itself issues an edict[^fn-p0365-3] ; and a good prince need not be narrowly scrutinized in matters wherein his intention cannot but be clearly understood. Every citizen may rest assured, even without a reminder, that I gave up my private repose to the security of the public in order to dispense new benefits, and confirm those of my predecessor. But lest the memory of him[^fn-p0365-4] who made these grants, or the diffidence of those who received them, should cast any misgiving over public joy, I thought it as necessary as agreeable to obviate these doubts, by a special mark of my indulgence. I would have no one think that I shall rescind either the public or private benefactions of a former prince, in order to gain credit by restoring them. They shall be fully ratified; and let no one, on whom the Fortune of the Empire has smiled, think his happiness in need of fresh petitions. Rather let them leave me leisure to bestow new benefits; under the assurance, that I need only be solicited for those which have not already been obtained.
 
-> **[enclosure]**
->
 > ##### <span class="small-caps">From the same, to Tullius Justus</span>
 >
 > As in all matters, whether begun or accomplished, the rules laid down in the last reign are to be observed, so even the letters of Domitian must be held binding upon us.

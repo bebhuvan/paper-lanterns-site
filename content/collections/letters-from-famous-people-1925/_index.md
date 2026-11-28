@@ -117,27 +117,27 @@
   {
    "format": "epub",
    "file": "letters-from-famous-people-1925.epub",
-   "bytes": 299765,
-   "sha256": "028cb0112c85087d96876a3b2ee8e4730fe9e8171c124380567114d5fb29f966"
+   "bytes": 299792,
+   "sha256": "00edb78bcec0ed19267f60f0772a35479ab7e056fbf217341d00d1ba58bb3943"
   },
   {
    "format": "markdown",
    "file": "letters-from-famous-people-1925.md",
-   "bytes": 588045,
-   "sha256": "5faaae319d684fb7da4ca6a3cf1297d3a67074a4526139db9850c21ba3f13ff9"
+   "bytes": 587888,
+   "sha256": "c5e6a0cb910a96d473993b773cba18bb8dda0cd25f597e21dc31cccb70ff44e0"
   },
   {
    "format": "tei",
    "file": "letters-from-famous-people-1925.tei.xml",
-   "bytes": 730895,
-   "sha256": "e3b8d4c6dfaaf1d0d809472259aa63e68bd462d829973e4dd20e78a2713a22b3"
+   "bytes": 730957,
+   "sha256": "0f9221e57d66d2fe7a8810054a100b25f38eb10a471a3e3dbe13beb93ba71b64"
   }
  ],
  "scan_base": "https://archive.org/download/lettersfromfamou0000shar/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:31:41Z",
-  "source_ast_sha256": "ba6c031afc9174a5cb034f0745997ae7dc1d029cd3861560edd3cb7bddcf4e10",
+  "compiled_at": "2026-11-28T12:57:07Z",
+  "source_ast_sha256": "666d686111d57a36ade3abf615f53f319c13f798d877d00fd61db5360efaa26f",
   "hugo_renderer_version": "1.0.0"
  }
 }

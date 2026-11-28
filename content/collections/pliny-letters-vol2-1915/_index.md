@@ -695,14 +695,14 @@
   {
    "format": "epub",
    "file": "pliny-letters-vol2-1915.epub",
-   "bytes": 214815,
-   "sha256": "179d3ef1c2c4a40be843c6855a8497fd1b0359d5381e25ee5f1a9c314ed115b1"
+   "bytes": 214841,
+   "sha256": "8b735c33c478c4a372a35afe8f43b314ff37a507c5c929f4b5e17cb6fe0a0248"
   },
   {
    "format": "markdown",
    "file": "pliny-letters-vol2-1915.md",
-   "bytes": 371022,
-   "sha256": "56b71f2ce4d179581b6236954af49fb1989dbd3b6069aad8073515155d2700fa"
+   "bytes": 370750,
+   "sha256": "a6413819097fec3a991667ebf0778286cdceb24120d841ba70198e6fd21170fe"
   },
   {
    "format": "tei",
@@ -714,8 +714,8 @@
  "scan_base": "https://archive.org/download/letterswithengli02plinuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:47:10Z",
-  "source_ast_sha256": "107c0c774244f273d0655e6b6416eb9e8a87cdc2b4852cdd6ff356ce9fb45d66",
+  "compiled_at": "2026-11-28T12:57:48Z",
+  "source_ast_sha256": "8cf40a75508ce3f06bcc5e334f20158ec48a6005a581bb252f5630d6323449d2",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -231,14 +231,14 @@
   {
    "format": "epub",
    "file": "cicero-letters-vol3-1900.epub",
-   "bytes": 472975,
-   "sha256": "62eb105667129f54af1524bc5b710862ddb17ea57a0ac75e81db4e047db5a3d5"
+   "bytes": 473001,
+   "sha256": "9532ba3ccbe3313dca1e49090cd108144f1c62c1f96138b80009ca9d88cc998f"
   },
   {
    "format": "markdown",
    "file": "cicero-letters-vol3-1900.md",
-   "bytes": 946447,
-   "sha256": "b3b30efb2ff32edb4d24274962f5527493f96c81682f9a7bc400f71019e59230"
+   "bytes": 946023,
+   "sha256": "2ec8d6d822941a4950e2f54e3643d795c35d14c8921d154310b0f2b585cac94b"
   },
   {
    "format": "tei",
@@ -250,8 +250,8 @@
  "scan_base": "https://archive.org/download/lettersofcicero03ciceuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-28T05:32:07Z",
-  "source_ast_sha256": "aefed0e798f334b5249936d20b380d27de2f3deb5a986588fd0f3a5926ffa02f",
+  "compiled_at": "2026-11-28T12:55:54Z",
+  "source_ast_sha256": "254fa2d13cc5ef68b02cce5bad9cfb0998020e8b587e12f17329bf6b73b1e9bd",
   "hugo_renderer_version": "1.0.0"
  }
 }

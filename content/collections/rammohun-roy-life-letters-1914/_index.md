@@ -305,14 +305,14 @@
   {
    "format": "epub",
    "file": "rammohun-roy-life-letters-1914.epub",
-   "bytes": 365052,
-   "sha256": "ceb27217e18a81dfa381ee838e6089544bab2f08f4015dd8e774dcbbe6f23b03"
+   "bytes": 365078,
+   "sha256": "45686c297029e202904ed465ce702964418542597b7475c74ce23d82b80a012c"
   },
   {
    "format": "markdown",
    "file": "rammohun-roy-life-letters-1914.md",
-   "bytes": 722238,
-   "sha256": "7e1f9d0be6c72a2b0fb669941e0cba34c640f27c831a4e641eb45412a3f462d5"
+   "bytes": 722216,
+   "sha256": "2f30c6882444e38de4295385123319331bbe9800873a74afd17ccd2ae2ab226c"
   },
   {
    "format": "tei",
@@ -324,7 +324,7 @@
  "scan_base": "https://archive.org/download/lifelettersofraj00collrich/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-28T05:25:28Z",
+  "compiled_at": "2026-11-28T12:57:48Z",
   "source_ast_sha256": "efefead54a95057af1347967a0f4076a4e0d36f187d78b22e47445b0f37cca3a",
   "hugo_renderer_version": "1.0.0"
  }
