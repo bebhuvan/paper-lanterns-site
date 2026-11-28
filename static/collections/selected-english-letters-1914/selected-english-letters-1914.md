@@ -418,8 +418,8 @@ Is not a Patron, my Lord, one who looks with unconcern on a man struggling for l
 Having carried on my work thus far with so little obligation to any favourer of learning, I shall not be disappointed though I should conclude it, if less be possible, with less ; for I have been long wakened from that dream of hope, in which I once boasted myself with so much exultation,
 
 My Lord  
-Your Lordship's most humble  
-most obedient servant
+    Your Lordship's most humble  
+        most obedient servant
 
 <span class="small-caps">Sam. Johnson.</span>
 
@@ -568,7 +568,7 @@ I know your lordship will disapprove of my ideas in a request I am going to make
 These, my lord, are my views: I have resolved from the maturest deliberation; and now I am fixed, I shall leave no stone unturned to carry my resolve into execution. Your lordship's patronage is the strength of my hopes; nor have I yet applied to any body else. Indeed my heart sinks within me at the idea of applying to any other of the great who have honoured me with their countenance. I am ill-qualified to dog the heels of greatness with the impertinence of solicitation, and tremble nearly as much at the thought of the cold promise as the cold denial; but to your lordship I have not only the honour, the comfort, but the pleasure of being
 
 Your lordship's much obliged  
-And deeply indebted humble servant,
+    And deeply indebted humble servant,
 
 R. B.
 
@@ -830,8 +830,8 @@ Yesterday, to my great surprise, I had the honour to receive your letter contain
 This said to yourself and reposited with many feelings in my own grateful mind, I have only to add that your splendid and generous proposals for my practical behoof, must not any of them take effect ; that titles of honour are, in all degrees of them, out of keeping with the tenour of my own poor existence hitherto in this epoch of the world, and would be an encumbrance, not a furtherance to me; that as to money, it has, after long years of rigorous and frugal, but also (thank God, and those who are gone before me) not degrading poverty, become in this latter time amply abundant, even superabundant; so that royal or other bounty would be more than thrown away in my case; and in brief, that except the feeling of your fine and noble conduct on this occasion, which is a real and permanent possession, there cannot anything be done that would not now be a sorrow rather than a pleasure.
 
 With thanks more than usually sincere,  
-I have the honour to be, Sir,  
-Your obliged and obedient servant,
+    I have the honour to be, Sir,  
+        Your obliged and obedient servant,
 
 T. <span class="small-caps">Carlyle.</span>
 
@@ -877,7 +877,7 @@ We are not to meet in the flesh. Given over by my physicians and myself, I am on
 Thank God my mind is composed and my reason undisturbed, but my race as an author is run. My physical debility finds no tonic virtue in a steel pen, otherwise I would have written one more paper — a forewarning one — against an evil, or the danger of it, arising from a literary movement in which I have had some share, a one-sided humanity, opposite to that Catholic Shaksperian sympathy, which felt with King as well as Peasant, and duly estimated the mortal temptations of both stations. Certain classes at the poles of society are already too far asunder; it should be the duty of our writers to draw them nearer by kindly attraction, not to aggravate the existing repulsion, and place a wider moral gulf between Rich and Poor, with Hate on the one side and Fear on the other. But I am too weak for this task, the last I had set myself; it is death that stops my pen, you see, and not the pension. God bless you, sir, and prosper all your measures for the benefit of my beloved country.
 
 I have the honor to be, Sir,  
-Your most grateful and obedient servant,
+    Your most grateful and obedient servant,
 
 <span class="small-caps">Thos. Hood.</span>
 
@@ -1504,7 +1504,7 @@ We enclose a list of the books that have already appeared in the series, which w
 Henry James has somewhere a phrase to the effect that Lowell’s diplomatic success was the *revanche* of letters. May we say that a similar feeling is entertained, we think, by men of letters everywhere in regard to the result of the last presidential election. This gives, we think, a peculiar fitness to the publication that we are proposing.
 
 Believe us,  
-Faithfully yours,
+    Faithfully yours,
 
 <span class="small-caps">Houghton Mifflin Company.</span>
 

@@ -3,7 +3,7 @@
 <path class="string" d="M-4 10 Q100 30 204 10"/>
 {{- range .lanterns }}
 <line class="drop" x1="{{ .x }}" y1="{{ .y }}" x2="{{ .x }}" y2="{{ add .y .drop }}"/>
-<circle class="{{ if .lit }}lit{{ else }}bulb{{ end }}" cx="{{ .x }}" cy="{{ add (add .y .drop) 3.4 }}" r="{{ if .lit }}3.6{{ else }}2.6{{ end }}"><title>{{ .decade }}s: {{ .n }} {{ cond (eq (int .n) 1) "letter" "letters" }}</title></circle>
+<circle class="{{ if .lit }}lit{{ else }}bulb{{ end }}" cx="{{ .x }}" cy="{{ add (add .y .drop) 3.4 }}" r="{{ if .lit }}3.6{{ else }}2.6{{ end }}"><title>{{ partial "decade-label.html" .decade }}: {{ .n }} {{ cond (eq (int .n) 1) "letter" "letters" }}</title></circle>
 {{- end }}
 </svg>
 {{- /**/ -}}

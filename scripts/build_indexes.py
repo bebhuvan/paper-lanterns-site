@@ -89,14 +89,22 @@ def read_curated() -> list[dict]:
     return items
 
 
+def iso_year(iso: str) -> int:
+    """Parse signed astronomical year from ISO 8601 date ('-0365-04' -> -365, '0000' -> 0, '0389' -> 389)."""
+    s = iso.strip()
+    if s.startswith("-"):
+        return -int(s[1:].split("-", 1)[0])
+    return int(s.split("-", 1)[0])
+
+
 def build_decades(letters: list[dict], curated: list[dict]) -> list[dict]:
     by_decade: dict[int, dict] = defaultdict(lambda: {"collection_letters": defaultdict(list), "curated": []})
     for lt in letters:
         if lt["iso"]:
-            by_decade[int(lt["iso"][:4]) // 10 * 10]["collection_letters"][lt["book_id"]].append(lt["path"])
+            by_decade[(iso_year(lt["iso"]) // 10) * 10]["collection_letters"][lt["book_id"]].append(lt["path"])
     for item in curated:
         if item["section"] == "letters" and item["year"] is not None:
-            by_decade[item["year"] // 10 * 10]["curated"].append(item["path"])
+            by_decade[(item["year"] // 10) * 10]["curated"].append(item["path"])
     out = []
     for decade in sorted(by_decade):
         entry = by_decade[decade]

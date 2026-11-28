@@ -4,10 +4,10 @@
 {{- $p := . -}}
 {{- $yc := $p.Params.year_counts | default slice -}}
 {{- $total := 0 -}}{{- range $yc }}{{ $total = add $total (int (index . 1)) }}{{ end -}}
-{{- $mid := 0 -}}{{- $run := 0 -}}
-{{- range $yc }}{{ $run = add $run (int (index . 1)) }}{{ if and (not $mid) (ge (mul $run 2) $total) }}{{ $mid = int (index . 0) }}{{ end }}{{ end -}}
+{{- $mid := 0 -}}{{- $hasMid := false -}}{{- $run := 0 -}}
+{{- range $yc }}{{ $run = add $run (int (index . 1)) }}{{ if and (not $hasMid) (ge (mul $run 2) $total) }}{{ $mid = int (index . 0) }}{{ $hasMid = true }}{{ end }}{{ end -}}
 {{- $era := "undated" -}}
-{{- if $mid }}{{ $era = cond (lt $mid 1600) "early" (cond (lt $mid 1700) "c17" (cond (lt $mid 1800) "c18" (cond (lt $mid 1850) "c19a" (cond (lt $mid 1900) "c19b" "c20")))) }}{{ end -}}
+{{- if $hasMid }}{{ $era = cond (lt $mid 1600) "early" (cond (lt $mid 1700) "c17" (cond (lt $mid 1800) "c18" (cond (lt $mid 1850) "c19a" (cond (lt $mid 1900) "c19b" "c20")))) }}{{ end -}}
 {{- $writers := slice -}}{{- $translators := slice -}}
 {{- range $p.Params.authors -}}
 {{- if not (in . "(") }}{{ $writers = $writers | append . }}
@@ -17,9 +17,9 @@
 {{- with $p.Params.translators }}{{ $translators = . }}{{ end -}}
 {{- $form := cond (eq (len $writers) 1) "writer" (cond (eq (len $writers) 2) "pair" "anthology") -}}
 {{- $span := "" -}}{{- $years := "" -}}
-{{- with $yc }}{{ $a := int (index (index . 0) 0) }}{{ $b := int (index (index . (sub (len .) 1)) 0) }}{{ $span = cond (eq $a $b) (printf "%d" $a) (printf "%d–%d" $a $b) }}{{ $years = cond (eq $a $b) (printf "in %d" $a) (printf "between %d and %d" $a $b) }}{{ end -}}
+{{- with $yc }}{{ $a := partial "astro-year.html" (index (index . 0) 0) }}{{ $b := partial "astro-year.html" (index (index . (sub (len .) 1)) 0) }}{{ $span = cond (eq $a $b) $a (printf "%s–%s" $a $b) }}{{ $years = cond (eq $a $b) (printf "in %s" $a) (printf "between %s and %s" $a $b) }}{{ end -}}
 {{- $dec := dict -}}
-{{- range $yc }}{{ $k := string (mul (div (int (index . 0)) 10) 10) }}{{ $dec = merge $dec (dict $k (add (index $dec $k | default 0) (int (index . 1)))) }}{{ end -}}
+{{- range $yc }}{{ $k := string (int (mul (math.Floor (div (float (index . 0)) 10.0)) 10)) }}{{ $dec = merge $dec (dict $k (add (index $dec $k | default 0) (int (index . 1)))) }}{{ end -}}
 {{- $dkeys := slice -}}{{- range $k, $_ := $dec }}{{ $dkeys = $dkeys | append (int $k) }}{{ end -}}{{- $dkeys = sort $dkeys -}}
 {{- $dmax := 1 -}}{{- range $dkeys }}{{ $n := index $dec (string .) }}{{ if gt $n $dmax }}{{ $dmax = $n }}{{ end }}{{ end -}}
 {{- $nd := len $dkeys -}}

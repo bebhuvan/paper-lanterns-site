@@ -185,26 +185,26 @@
   {
    "format": "epub",
    "file": "rammohun-roy-letters-and-petitions.epub",
-   "bytes": 126818,
-   "sha256": "3f6fedebab48f8fcd4340a8a722490cce08ec70cc12004efce1e308ebad04368"
+   "bytes": 126871,
+   "sha256": "4ebaf5e062b47d9a29d66ebe9aad9861cdf406322589cb4e461233825e38cae7"
   },
   {
    "format": "markdown",
    "file": "rammohun-roy-letters-and-petitions.md",
-   "bytes": 173593,
-   "sha256": "600b2ac2fe17de44d6d0c3ec318fae2f475d7de4b19bd9da941c374a99320f2e"
+   "bytes": 173825,
+   "sha256": "bd17ef9801b5a8c529a1a98b8a084e485c1dbbd745286de13d0b2b2e1c6cda0c"
   },
   {
    "format": "tei",
    "file": "rammohun-roy-letters-and-petitions.tei.xml",
-   "bytes": 191466,
-   "sha256": "58a252b7e9643d285baec540abacf1a4a0ee68847a25be0ceda6cb57ccfea9ed"
+   "bytes": 191470,
+   "sha256": "5ff2b106420ae17a2c05cf2087992b0314282cc3f7f87e80a3a8f8969cd283d0"
   }
  ],
  "scan_base": "https://archive.org/download/lifelettersofraj00coll/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-v1",
-  "compiled_at": "2026-11-27T05:10:55Z",
+  "compiled_at": "2026-11-28T05:24:25Z",
   "source_ast_sha256": "fa02cb4574ae659bbbe732f4ecc8fc3c4a3a31b6b9bf6fc7bae8f4279df5a55a",
   "hugo_renderer_version": "1.0.0"
  }

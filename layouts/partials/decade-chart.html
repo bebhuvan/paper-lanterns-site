@@ -1,15 +1,35 @@
 {{- /* Every dated letter in the library, by decade, drawn as lanterns on a string. Args: letters. */ -}}
 {{- $counts := dict -}}
-{{- range .letters -}}
-{{- with .Params.letter_date.iso -}}
-{{- $k := string (mul (int (strings.TrimLeft "0" (substr . 0 3))) 10) -}}
+{{- $booksByDec := dict -}}
+{{- $orderByDec := dict -}}
+{{- range $l := .letters -}}
+{{- with $l.Params.letter_date.iso -}}
+{{- $y := partial "iso-year.html" . -}}
+{{- $k := string (int (mul (math.Floor (div (float $y) 10.0)) 10)) -}}
 {{- $counts = merge $counts (dict $k (add (index $counts $k | default 0) 1)) -}}
+{{- $bMap := index $booksByDec $k | default dict -}}
+{{- $bid := $l.Params.book_id -}}
+{{- if not (index $bMap $bid) -}}
+{{- $ord := index $orderByDec $k | default slice -}}
+{{- $orderByDec = merge $orderByDec (dict $k ($ord | append $bid)) -}}
+{{- end -}}
+{{- $prevEntry := index $bMap $bid | default (dict "book" $l.Parent "n" 0) -}}
+{{- $bMap = merge $bMap (dict $bid (dict "book" $l.Parent "n" (add (index $prevEntry "n") 1))) -}}
+{{- $booksByDec = merge $booksByDec (dict $k $bMap) -}}
 {{- end -}}
 {{- end -}}
 {{- $keys := slice -}}
 {{- range $k, $_ := $counts }}{{ $keys = $keys | append (int $k) }}{{ end -}}
 {{- $keys = sort $keys -}}
 {{- if $keys -}}
+{{- $itemsByDec := dict -}}
+{{- range $keys -}}
+{{- $k := string . -}}
+{{- $bMap := index $booksByDec $k | default dict -}}
+{{- $items := slice -}}
+{{- range (index $orderByDec $k | default slice) }}{{ $items = $items | append (index $bMap .) }}{{ end -}}
+{{- $itemsByDec = merge $itemsByDec (dict $k $items) -}}
+{{- end -}}
 {{- $first := index $keys 0 -}}
 {{- $last := index $keys (sub (len $keys) 1) -}}
 {{- $total := 0 -}}{{- $maxN := 0 -}}{{- $busiest := $first -}}
@@ -20,9 +40,9 @@
 {{- end -}}
 {{- /* Position decades on a folded timeline: neighbouring decades sit one slot apart, short silences keep their
        true width, and any silence longer than four decades folds to a short break marked // with its dates. */ -}}
-{{- $pos := dict -}}{{- $breaks := slice -}}{{- $slot := 0.0 -}}{{- $prev := 0 -}}
+{{- $pos := dict -}}{{- $breaks := slice -}}{{- $slot := 0.0 -}}{{- $prev := 0 -}}{{- $hasPrev := false -}}
 {{- range $keys -}}
-{{- if $prev -}}
+{{- if $hasPrev -}}
 {{- $gap := div (sub . $prev) 10 -}}
 {{- if gt $gap 4 -}}
 {{- $breaks = $breaks | append (dict "at" (add $slot 1.25) "from" (add $prev 10) "to" (sub . 1)) -}}
@@ -32,7 +52,7 @@
 {{- end -}}
 {{- end -}}
 {{- $pos = merge $pos (dict (string .) $slot) -}}
-{{- $prev = . -}}
+{{- $prev = . -}}{{- $hasPrev = true -}}
 {{- end -}}
 {{- $step := div 920.0 (math.Max $slot 1) -}}
 {{- $maxDrop := add 14 (mul (math.Sqrt $maxN) 9.4) -}}
@@ -45,14 +65,14 @@
 <p>Every dated letter in the library, by decade. The longer a lantern hangs, the more letters survive from those ten years. Long silences fold into a break. Choose a lantern to see who was writing.</p>
 </div>
 <div class="chart-box decade-box" tabindex="0" role="region" aria-label="Decade chart, scrolls sideways on small screens">
-<svg class="decade-chart" viewBox="0 0 1000 {{ $H }}" role="group" aria-label="Letters by decade, {{ $first }}s to {{ $last }}s" data-decades>
+<svg class="decade-chart" viewBox="0 0 1000 {{ $H }}" role="group" aria-label="Letters by decade, {{ partial "decade-label.html" $first }} to {{ partial "decade-label.html" $last }}" data-decades>
 {{- /* The string, broken at each folded silence. */ -}}
 {{- $x0 := 0.0 -}}
 {{- range $breaks -}}
 {{- $bx := add 40 (mul .at $step) -}}
 <line class="string" x1="{{ $x0 }}" y1="12" x2="{{ sub $bx 9 }}" y2="12"/>
 <text class="fold" x="{{ $bx }}" y="17" text-anchor="middle">//</text>
-<text class="fold-range" x="{{ $bx }}" y="34" text-anchor="middle">{{ .from }}–{{ .to }}</text>
+<text class="fold-range" x="{{ $bx }}" y="34" text-anchor="middle">{{ partial "astro-year.html" .from }}–{{ partial "astro-year.html" .to }}</text>
 {{- $x0 = add $bx 9 -}}
 {{- end -}}
 <line class="string" x1="{{ $x0 }}" y1="12" x2="1000" y2="12"/>
@@ -61,7 +81,7 @@
 {{- $x := add 40 (mul (index $pos (string .)) $step) -}}
 {{- $drop := add 14 (mul (math.Sqrt $n) 9.4) -}}
 <g class="lantern{{ if eq . $busiest }} on{{ end }}" data-decade="{{ . }}">
-<title>{{ . }}s, {{ $n }} {{ cond (eq $n 1) "letter" "letters" }}</title>
+<title>{{ partial "decade-label.html" . }}, {{ $n }} {{ cond (eq $n 1) "letter" "letters" }}</title>
 {{- $hw := math.Max 14 (math.Min 40 $step) -}}
 <rect class="hit" x="{{ sub $x (div $hw 2) }}" y="12" width="{{ $hw }}" height="{{ add $drop 40 }}"/>
 <line class="drop" x1="{{ $x }}" y1="12" x2="{{ $x }}" y2="{{ add 12 $drop }}"/>
@@ -74,7 +94,7 @@
 {{- $after := slice -}}{{- range $breaks }}{{ $after = $after | append (add .to 1) }}{{ end -}}
 {{- range $i, $d := $keys -}}
 {{- if or (le (len $keys) 14) (eq (mod $d 100) 0) (eq $i 0) (in $after $d) -}}
-<text class="tick" x="{{ add 40 (mul (index $pos (string $d)) $step) }}" y="{{ add $axisY 22 }}" text-anchor="middle">{{ $d }}</text>
+<text class="tick" x="{{ add 40 (mul (index $pos (string $d)) $step) }}" y="{{ add $axisY 22 }}" text-anchor="middle">{{ cond (lt $d 0) (printf "%d B.C." (sub 0 $d)) (printf "%d" $d) }}</text>
 {{- end -}}
 {{- end -}}
 </svg>
@@ -88,12 +108,13 @@
 <tbody>
 {{- range $keys -}}
 {{- $d := . -}}
+{{- $dLabel := partial "decade-label.html" $d -}}
 {{- $n := index $counts (string $d) -}}
 {{- $rank := 1 -}}
 {{- range $keys }}{{ if gt (index $counts (string .)) $n }}{{ $rank = add $rank 1 }}{{ end }}{{ end -}}
-<tr data-decade="{{ $d }}" data-count="{{ $n }}" data-share="{{ printf "%.4f" (div (float $n) $maxN) }}" data-rank="{{ if eq $rank 1 }}The busiest decade in the library{{ else }}Number {{ $rank }} of {{ len $keys }} decades by letters{{ end }}">
-<td>{{ $d }}s</td><td>{{ $n }}</td><td>{{ $rank }}</td>
-<td>{{ partial "decade-books.html" (dict "letters" $.letters "decade" $d) }}</td>
+<tr data-decade="{{ $d }}" data-label="{{ $dLabel }}" data-count="{{ $n }}" data-share="{{ printf "%.4f" (div (float $n) $maxN) }}" data-rank="{{ if eq $rank 1 }}The busiest decade in the library{{ else }}Number {{ $rank }} of {{ len $keys }} decades by letters{{ end }}">
+<td>{{ $dLabel }}</td><td>{{ $n }}</td><td>{{ $rank }}</td>
+<td>{{ partial "decade-books.html" (dict "items" (index $itemsByDec (string $d))) }}</td>
 </tr>
 {{- end -}}
 </tbody>
@@ -102,14 +123,14 @@
 {{- $bn := index $counts (string $busiest) -}}
 <div class="decade-detail" aria-live="polite" data-decade-detail>
 <div class="left">
-<div class="dec" data-f="decade">{{ $busiest }}s</div>
+<div class="dec" data-f="decade">{{ partial "decade-label.html" $busiest }}</div>
 <div class="count"><span class="n" data-f="count">{{ $bn }}</span><span class="u" data-f="unit">{{ cond (eq $bn 1) "letter" "letters" }}</span></div>
 <svg class="share" viewBox="0 0 100 3" preserveAspectRatio="none" aria-hidden="true"><rect data-f="share" x="0" y="0" width="100" height="3"/></svg>
 <div class="rank" data-f="rank">The busiest decade in the library</div>
 </div>
 <div class="right">
 <div class="muted">Writing in these years</div>
-<ul data-f="books">{{ partial "decade-books.html" (dict "letters" .letters "decade" $busiest "li" true) }}</ul>
+<ul data-f="books">{{ partial "decade-books.html" (dict "items" (index $itemsByDec (string $busiest)) "li" true) }}</ul>
 {{- with site.GetPage (printf "/explore/%ds" (int $busiest)) }}
 <a class="btn solid decade-go" data-f="link" href="{{ .RelPermalink }}"><span data-f="linktext">Read the letters of the {{ .Params.label }}</span><span aria-hidden="true">→</span></a>
 {{- end }}

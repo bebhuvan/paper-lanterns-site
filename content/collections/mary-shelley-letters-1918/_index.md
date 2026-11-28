@@ -64,7 +64,7 @@
   "pages": 200,
   "dated_letters": 30
  },
- "provenance_tier": "machine_checked",
+ "provenance_tier": "community",
  "quality": {
   "score": 100.0,
   "out_of": 100.0,
@@ -95,7 +95,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 0,
+  "flagged": 2,
   "blockers": 0
  },
  "proof": {
@@ -198,27 +198,27 @@
   {
    "format": "epub",
    "file": "mary-shelley-letters-1918.epub",
-   "bytes": 167246,
-   "sha256": "d0f784890295fc437023b72d659faefc6bb27ea01f2b339c347b4e86571f5e6c"
+   "bytes": 167527,
+   "sha256": "1b0f90e9ce9c9642c792238a2f9c11a5736fe3d6b59343d55ace79ef7b327d72"
   },
   {
    "format": "markdown",
    "file": "mary-shelley-letters-1918.md",
-   "bytes": 213981,
-   "sha256": "5708ca8879d74c932982c4c579b1e608df24653b288a9998ecccbcd50c54a3e8"
+   "bytes": 213988,
+   "sha256": "bf4a0b3acaf5436d96e54264b3fa569e0c59eccb43505766425d09431697ed80"
   },
   {
    "format": "tei",
    "file": "mary-shelley-letters-1918.tei.xml",
-   "bytes": 251511,
-   "sha256": "87601b8544e33f94a377d4bb4ed51eea8f786046810067ec5c5b96a698ddb16d"
+   "bytes": 251977,
+   "sha256": "c9484bbc622e70184e0a7ff21b01f195da7eade1786a8cef048868184403ceeb"
   }
  ],
  "scan_base": "https://archive.org/download/lettersofmarywshe00shel/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-26T17:59:26Z",
-  "source_ast_sha256": "afcab80806c4727a666503ede21c35ef82998775634900a5418fbbe7b71dd0ed",
+  "compiled_at": "2026-11-28T05:25:01Z",
+  "source_ast_sha256": "bdaa6f2aeb81ab13c8061a91fde442d55b3031291844c2c4733092a252f02dd8",
   "hugo_renderer_version": "1.0.0"
  }
 }

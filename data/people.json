@@ -36,15 +36,17 @@
   "slug": "abigail-adams"
  },
  {
-  "also": [],
+  "also": [
+   "A. Lincoln"
+  ],
   "credits": [],
   "curated": [
    "/letters/lincoln-bixby-1864",
    "/speeches/lincoln-gettysburg-1863"
   ],
   "letters": {
-   "fifty-famous-letters-1930": 1,
-   "nineteenth-century-letters-1919": 1,
+   "fifty-famous-letters-1930": 2,
+   "nineteenth-century-letters-1919": 3,
    "selected-english-letters-1914": 1
   },
   "name": "Abraham Lincoln",
@@ -77,6 +79,19 @@
   "also": [],
   "credits": [
    {
+    "book_id": "alciphron-letters-1922",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Alciphron",
+  "slug": "alciphron"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
     "book_id": "dostoevsky-family-friends-1914",
     "role": "ed."
    }
@@ -87,7 +102,11 @@
   "slug": "alexander-eliasberg"
  },
  {
-  "also": [],
+  "also": [
+   "A. Humboldt",
+   "A. v. Humboldt",
+   "Humboldt"
+  ],
   "credits": [
    {
     "book_id": "humboldt-varnhagen-letters-1860",
@@ -96,10 +115,24 @@
   ],
   "curated": [],
   "letters": {
-   "humboldt-varnhagen-letters-1860": 73
+   "humboldt-varnhagen-letters-1860": 157,
+   "literature-in-letters-1870": 1
   },
   "name": "Alexander von Humboldt",
   "slug": "alexander-von-humboldt"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "porphyry-marcella-1896",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Alice Zimmern",
+  "slug": "alice-zimmern"
  },
  {
   "also": [],
@@ -140,6 +173,32 @@
   "also": [],
   "credits": [
    {
+    "book_id": "ovid-tristia-ex-ponto-1924",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Arthur Leslie Wheeler",
+  "slug": "arthur-leslie-wheeler"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "synesius-letters-1926",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Augustine Fitzgerald",
+  "slug": "augustine-fitzgerald"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
     "book_id": "rukaat-i-alamgiri-aurangzeb-1908",
     "role": ""
    }
@@ -150,7 +209,10 @@
   "slug": "aurangzeb"
  },
  {
-  "also": [],
+  "also": [
+   "B. Franklin",
+   "Dr. Franklin"
+  ],
   "credits": [],
   "curated": [
    "/letters/franklin-daughter-1784",
@@ -159,6 +221,8 @@
    "/letters/franklin-washing-air-baths-1768"
   ],
   "letters": {
+   "fifty-famous-letters-1930": 1,
+   "literature-in-letters-1870": 5,
    "selected-english-letters-1914": 1
   },
   "name": "Benjamin Franklin",
@@ -226,6 +290,23 @@
  },
  {
   "also": [],
+  "credits": [
+   {
+    "book_id": "fronto-correspondence-vol1-1919",
+    "role": "ed. & tr."
+   },
+   {
+    "book_id": "fronto-correspondence-vol2-1929",
+    "role": "ed. & tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "C. R. Haines",
+  "slug": "c-r-haines"
+ },
+ {
+  "also": [],
   "credits": [],
   "curated": [
    "/letters/raman-nature-1928"
@@ -274,7 +355,10 @@
   "slug": "charles-darwin"
  },
  {
-  "also": [],
+  "also": [
+   "C. F. SCHOENBEIN",
+   "C. F. Schoenbein"
+  ],
   "credits": [
    {
     "book_id": "faraday-schoenbein-1899",
@@ -282,7 +366,9 @@
    }
   ],
   "curated": [],
-  "letters": {},
+  "letters": {
+   "faraday-schoenbein-1899": 27
+  },
   "name": "Christian Friedrich Schoenbein",
   "slug": "christian-friedrich-schoenbein"
  },
@@ -379,7 +465,10 @@
   "slug": "east-india-company"
  },
  {
-  "also": [],
+  "also": [
+   "Edgar A Poe",
+   "Edgar A. Poe"
+  ],
   "credits": [
    {
     "book_id": "poe-valentine-letters-1925",
@@ -392,8 +481,9 @@
   ],
   "curated": [],
   "letters": {
-   "nineteenth-century-letters-1919": 1,
-   "poe-whitman-last-letters-1909": 10
+   "nineteenth-century-letters-1919": 3,
+   "poe-valentine-letters-1925": 17,
+   "poe-whitman-last-letters-1909": 11
   },
   "name": "Edgar Allan Poe",
   "slug": "edgar-allan-poe"
@@ -427,7 +517,9 @@
   "slug": "elisabeth-forster-nietzsche"
  },
  {
-  "also": [],
+  "also": [
+   "Emily E. Dickinson"
+  ],
   "credits": [
    {
     "book_id": "emily-dickinson-letters-1894",
@@ -439,7 +531,7 @@
    "/letters/dickinson-mary-bowles-1862"
   ],
   "letters": {
-   "emily-dickinson-letters-1894": 50
+   "emily-dickinson-letters-1894": 58
   },
   "name": "Emily Dickinson",
   "slug": "emily-dickinson"
@@ -456,6 +548,46 @@
   "letters": {},
   "name": "Ethel Colburn Mayne",
   "slug": "ethel-colburn-mayne"
+ },
+ {
+  "also": [
+   "E. S. Shuckburgh"
+  ],
+  "credits": [
+   {
+    "book_id": "cicero-letters-vol1-1920",
+    "role": "tr."
+   },
+   {
+    "book_id": "cicero-letters-vol2-1899",
+    "role": "tr."
+   },
+   {
+    "book_id": "cicero-letters-vol3-1900",
+    "role": "tr."
+   },
+   {
+    "book_id": "cicero-letters-vol4-1900",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Evelyn S. Shuckburgh",
+  "slug": "evelyn-s-shuckburgh"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "alciphron-letters-1922",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "F. A. Wright",
+  "slug": "f-a-wright"
  },
  {
   "also": [],
@@ -550,7 +682,11 @@
   "slug": "friedrich-nietzsche"
  },
  {
-  "also": [],
+  "also": [
+   "F. Dostoevsky",
+   "F. M. Dostoevsky",
+   "Fiodor Dostoevsky"
+  ],
   "credits": [
    {
     "book_id": "dostoevsky-family-friends-1914",
@@ -565,7 +701,8 @@
    "/letters/dostoevsky-mikhail-1849"
   ],
   "letters": {
-   "dostoevsky-family-friends-1914": 76
+   "dostoevsky-family-friends-1914": 76,
+   "dostoevsky-letters-reminiscences-1923": 28
   },
   "name": "Fyodor Dostoevsky",
   "slug": "fyodor-dostoevsky"
@@ -673,6 +810,38 @@
   "also": [],
   "credits": [
    {
+    "book_id": "horace-epistles-1926",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "H. Rushton Fairclough",
+  "slug": "h-rushton-fairclough"
+ },
+ {
+  "also": [
+   "Hammurabi",
+   "Ḥammurabi",
+   "Ḫammurabi"
+  ],
+  "credits": [
+   {
+    "book_id": "hammurabi-letters-1900",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "hammurabi-letters-1900": 55
+  },
+  "name": "Hammurabi, King of Babylonia",
+  "slug": "hammurabi-king-of-babylonia"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
     "book_id": "brahms-herzogenberg-1909",
     "role": "tr."
    },
@@ -760,7 +929,9 @@
   "slug": "henry-howard-harper"
  },
  {
-  "also": [],
+  "also": [
+   "Don Fernando Cortes"
+  ],
   "credits": [
    {
     "book_id": "cortes-letters-vol1-1908",
@@ -768,9 +939,28 @@
    }
   ],
   "curated": [],
-  "letters": {},
+  "letters": {
+   "cortes-letters-vol1-1908": 1
+  },
   "name": "Hernán Cortés",
   "slug": "hernan-cortes"
+ },
+ {
+  "also": [
+   "Quintus Horatius Flaccus"
+  ],
+  "credits": [
+   {
+    "book_id": "horace-epistles-1926",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "horace-epistles-1926": 23
+  },
+  "name": "Horace",
+  "slug": "horace"
  },
  {
   "also": [],
@@ -784,6 +974,25 @@
   "letters": {},
   "name": "Hugh S. R. Elliot",
   "slug": "hugh-s-r-elliot"
+ },
+ {
+  "also": [
+   "Rev. J. G. Cunningham"
+  ],
+  "credits": [
+   {
+    "book_id": "augustine-letters-vol1-1872",
+    "role": "tr."
+   },
+   {
+    "book_id": "augustine-letters-vol2-1875",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "J. G. Cunningham",
+  "slug": "j-g-cunningham"
  },
  {
   "also": [],
@@ -977,6 +1186,25 @@
   "slug": "joseph-dalton-hooker"
  },
  {
+  "also": [
+   "Emperor Julian",
+   "Julian Caesar",
+   "Julian the Apostate"
+  ],
+  "credits": [
+   {
+    "book_id": "julian-works-vol3-1923",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "julian-works-vol3-1923": 81
+  },
+  "name": "Julian, Emperor of Rome",
+  "slug": "julian-emperor-of-rome"
+ },
+ {
   "also": [],
   "credits": [],
   "curated": [
@@ -985,6 +1213,32 @@
   "letters": {},
   "name": "Karl Marx",
   "slug": "karl-marx"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "plato-epistles-1925",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "L. A. Post",
+  "slug": "l-a-post"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "hammurabi-letters-1900",
+    "role": "tr. & ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "L. W. King",
+  "slug": "l-w-king"
  },
  {
   "also": [],
@@ -1020,7 +1274,20 @@
  },
  {
   "also": [],
-  "credits": [],
+  "credits": [
+   {
+    "book_id": "seneca-epistles-vol1-1917",
+    "role": ""
+   },
+   {
+    "book_id": "seneca-epistles-vol2-1920",
+    "role": ""
+   },
+   {
+    "book_id": "seneca-epistles-vol3-1925",
+    "role": ""
+   }
+  ],
   "curated": [
    "/letters/seneca-lucilius-festivals-fasting-letter18",
    "/letters/seneca-lucilius-friendship-letter3",
@@ -1032,7 +1299,11 @@
    "/letters/seneca-lucilius-terrors-death-letter4",
    "/letters/seneca-lucilius-time-letter1"
   ],
-  "letters": {},
+  "letters": {
+   "seneca-epistles-vol1-1917": 65,
+   "seneca-epistles-vol2-1920": 27,
+   "seneca-epistles-vol3-1925": 32
+  },
   "name": "Lucius Annaeus Seneca",
   "slug": "lucius-annaeus-seneca"
  },
@@ -1086,6 +1357,97 @@
   "letters": {},
   "name": "Mabel Loomis Todd",
   "slug": "mabel-loomis-todd"
+ },
+ {
+  "also": [
+   "Marcus Aurelius Antoninus"
+  ],
+  "credits": [
+   {
+    "book_id": "fronto-correspondence-vol2-1929",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "fifty-famous-letters-1930": 1,
+   "fronto-correspondence-vol1-1919": 68,
+   "fronto-correspondence-vol2-1929": 23
+  },
+  "name": "Marcus Aurelius",
+  "slug": "marcus-aurelius"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "fronto-correspondence-vol1-1919",
+    "role": ""
+   },
+   {
+    "book_id": "fronto-correspondence-vol2-1929",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "fronto-correspondence-vol1-1919": 79,
+   "fronto-correspondence-vol2-1929": 48
+  },
+  "name": "Marcus Cornelius Fronto",
+  "slug": "marcus-cornelius-fronto"
+ },
+ {
+  "also": [
+   "Rev. Marcus Dods"
+  ],
+  "credits": [
+   {
+    "book_id": "augustine-letters-vol1-1872",
+    "role": "ed."
+   },
+   {
+    "book_id": "augustine-letters-vol2-1875",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Marcus Dods",
+  "slug": "marcus-dods"
+ },
+ {
+  "also": [
+   "Cicero"
+  ],
+  "credits": [
+   {
+    "book_id": "cicero-letters-vol1-1920",
+    "role": ""
+   },
+   {
+    "book_id": "cicero-letters-vol2-1899",
+    "role": ""
+   },
+   {
+    "book_id": "cicero-letters-vol3-1900",
+    "role": ""
+   },
+   {
+    "book_id": "cicero-letters-vol4-1900",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "cicero-letters-vol1-1920": 178,
+   "cicero-letters-vol2-1899": 190,
+   "cicero-letters-vol3-1900": 278,
+   "cicero-letters-vol4-1900": 162,
+   "fifty-famous-letters-1930": 1
+  },
+  "name": "Marcus Tullius Cicero",
+  "slug": "marcus-tullius-cicero"
  },
  {
   "also": [],
@@ -1209,6 +1571,23 @@
  },
  {
   "also": [],
+  "credits": [
+   {
+    "book_id": "sidonius-letters-vol1-1915",
+    "role": "tr."
+   },
+   {
+    "book_id": "sidonius-letters-vol2-1915",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "O. M. Dalton",
+  "slug": "o-m-dalton"
+ },
+ {
+  "also": [],
   "credits": [],
   "curated": [
    "/letters/wilde-douglas-1897"
@@ -1216,6 +1595,25 @@
   "letters": {},
   "name": "Oscar Wilde",
   "slug": "oscar-wilde"
+ },
+ {
+  "also": [
+   "Naso",
+   "Publius Ovidius Naso",
+   "Publius Ovidius Naso (Ovid)"
+  ],
+  "credits": [
+   {
+    "book_id": "ovid-tristia-ex-ponto-1924",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "ovid-tristia-ex-ponto-1924": 96
+  },
+  "name": "Ovid",
+  "slug": "ovid"
  },
  {
   "also": [],
@@ -1263,6 +1661,62 @@
   },
   "name": "Percy Bysshe Shelley",
   "slug": "percy-bysshe-shelley"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "plato-epistles-1925",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "plato-epistles-1925": 13
+  },
+  "name": "Plato",
+  "slug": "plato"
+ },
+ {
+  "also": [
+   "Pliny"
+  ],
+  "credits": [
+   {
+    "book_id": "pliny-letters-vol1-1915",
+    "role": ""
+   },
+   {
+    "book_id": "pliny-letters-vol2-1915",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "fifty-famous-letters-1930": 1,
+   "pliny-letters-vol1-1915": 150,
+   "pliny-letters-vol2-1915": 170
+  },
+  "name": "Pliny the Younger",
+  "slug": "pliny-the-younger"
+ },
+ {
+  "also": [
+   "Porphyry of Tyre",
+   "Porphyry the Philosopher"
+  ],
+  "credits": [
+   {
+    "book_id": "porphyry-marcella-1896",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "porphyry-marcella-1896": 1
+  },
+  "name": "Porphyry",
+  "slug": "porphyry"
  },
  {
   "also": [],
@@ -1362,6 +1816,40 @@
   "also": [],
   "credits": [
    {
+    "book_id": "porphyry-marcella-1896",
+    "role": "pref."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Richard Garnett",
+  "slug": "richard-garnett"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "seneca-epistles-vol1-1917",
+    "role": "tr."
+   },
+   {
+    "book_id": "seneca-epistles-vol2-1920",
+    "role": "tr."
+   },
+   {
+    "book_id": "seneca-epistles-vol3-1925",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Richard M. Gummere",
+  "slug": "richard-m-gummere"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
     "book_id": "nietzsche-wagner-1921",
     "role": ""
    }
@@ -1428,6 +1916,29 @@
   "slug": "s-s-koteliansky"
  },
  {
+  "also": [
+   "ST. AUGUSTINE",
+   "Saint Augustine"
+  ],
+  "credits": [
+   {
+    "book_id": "augustine-letters-vol1-1872",
+    "role": ""
+   },
+   {
+    "book_id": "augustine-letters-vol2-1875",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "augustine-letters-vol1-1872": 66,
+   "augustine-letters-vol2-1875": 62
+  },
+  "name": "Saint Augustine of Hippo",
+  "slug": "saint-augustine-of-hippo"
+ },
+ {
   "also": [],
   "credits": [],
   "curated": [
@@ -1449,6 +1960,28 @@
   "letters": {},
   "name": "Sharpless Dobson Green",
   "slug": "sharpless-dobson-green"
+ },
+ {
+  "also": [
+   "Sidonius"
+  ],
+  "credits": [
+   {
+    "book_id": "sidonius-letters-vol1-1915",
+    "role": ""
+   },
+   {
+    "book_id": "sidonius-letters-vol2-1915",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "sidonius-letters-vol1-1915": 39,
+   "sidonius-letters-vol2-1915": 107
+  },
+  "name": "Sidonius Apollinaris",
+  "slug": "sidonius-apollinaris"
  },
  {
   "also": [],
@@ -1517,6 +2050,21 @@
  },
  {
   "also": [],
+  "credits": [
+   {
+    "book_id": "synesius-letters-1926",
+    "role": ""
+   }
+  ],
+  "curated": [],
+  "letters": {
+   "synesius-letters-1926": 159
+  },
+  "name": "Synesius of Cyrene",
+  "slug": "synesius-of-cyrene"
+ },
+ {
+  "also": [],
   "credits": [],
   "curated": [
    "/letters/roosevelt-kermit-1903"
@@ -1558,7 +2106,9 @@
   "slug": "thomas-jefferson"
  },
  {
-  "also": [],
+  "also": [
+   "Tippoo Sultan"
+  ],
   "credits": [
    {
     "book_id": "tipu-sultan-select-letters-1811",
@@ -1566,7 +2116,9 @@
    }
   ],
   "curated": [],
-  "letters": {},
+  "letters": {
+   "tipu-sultan-select-letters-1811": 1
+  },
   "name": "Tipu Sultan",
   "slug": "tipu-sultan"
  },
@@ -1621,7 +2173,9 @@
   "slug": "vincent-van-gogh"
  },
  {
-  "also": [],
+  "also": [
+   "M. de Voltaire"
+  ],
   "credits": [
    {
     "book_id": "voltaire-in-his-letters-1919",
@@ -1631,7 +2185,7 @@
   "curated": [],
   "letters": {
    "fifty-famous-letters-1930": 2,
-   "voltaire-in-his-letters-1919": 29
+   "voltaire-in-his-letters-1919": 30
   },
   "name": "Voltaire",
   "slug": "voltaire"
@@ -1645,6 +2199,23 @@
   "letters": {},
   "name": "W.E.B. Du Bois",
   "slug": "w-e-b-du-bois"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "pliny-letters-vol1-1915",
+    "role": "ed."
+   },
+   {
+    "book_id": "pliny-letters-vol2-1915",
+    "role": "ed."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "W. M. L. Hutchinson",
+  "slug": "w-m-l-hutchinson"
  },
  {
   "also": [],
@@ -1714,6 +2285,23 @@
   "also": [],
   "credits": [
    {
+    "book_id": "pliny-letters-vol1-1915",
+    "role": "tr."
+   },
+   {
+    "book_id": "pliny-letters-vol2-1915",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "William Melmoth",
+  "slug": "william-melmoth"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
     "book_id": "percy-shelley-hogg-letters-1897",
     "role": "ed."
    }
@@ -1722,5 +2310,18 @@
   "letters": {},
   "name": "William Michael Rossetti",
   "slug": "william-michael-rossetti"
+ },
+ {
+  "also": [],
+  "credits": [
+   {
+    "book_id": "julian-works-vol3-1923",
+    "role": "tr."
+   }
+  ],
+  "curated": [],
+  "letters": {},
+  "name": "Wilmer Cave Wright",
+  "slug": "wilmer-cave-wright"
  }
 ]

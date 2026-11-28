@@ -399,7 +399,7 @@ You met our dear Sarah T. after I saw you here. Her sweet face is the same as in
 Shall it *always* be so, A.? Is there no longer day given for our communion with the spirits of our love? Writing is brief and fleeting—conversation will come again, yet if it *will,* it hastes and must be on its way. Earth is short, but Paradise is long—there must be many moments in an eternal day; then sometime we shall tarry while time and tide roll on, and till then *vale.*
 
 Your own dear  
-<span class="small-caps">Emilie.</span>
+    <span class="small-caps">Emilie.</span>
 
 ### Letter 18: Emily E. → Mrs A. P. Strong
 

@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "East India Company, William Foster (ed.)",
  "year": 1900,
  "archive_id": "lettersreceivedb04east",
@@ -55,7 +58,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 21,
+  "flagged": 22,
   "blockers": 0
  },
  "proof": {
@@ -220,27 +223,27 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-4-1616.epub",
-   "bytes": 469793,
-   "sha256": "505e0c5a4ca7289776fdf3f7dcfcdf31a0f380f934b891e6d0e72f199190970e"
+   "bytes": 469906,
+   "sha256": "61db725bd70f2e1a00f7c509ef3a012363a660e908b4667f6426cfe7f2b92898"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-4-1616.md",
-   "bytes": 933662,
-   "sha256": "141712b9b5553e2aa5bf64188b8e6789207179ece6e5b3c7f6f049d02b3a1f25"
+   "bytes": 934021,
+   "sha256": "ed9507042ca4d5fd86097a3e542de8653f79d340f3637745be1b26e33e2a6626"
   },
   {
    "format": "tei",
    "file": "eic-letters-received-vol-4-1616.tei.xml",
-   "bytes": 1143867,
-   "sha256": "62a45a98f016155b57adc49aaf8ad16cce083750ef9ab09c5375c8f36014ac63"
+   "bytes": 1143940,
+   "sha256": "a31ad766edf3f566fda41837e2494a0c6950b3a903921814ca22748fea0b52fe"
   }
  ],
  "scan_base": "https://archive.org/download/lettersreceivedb04east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:21:48Z",
-  "source_ast_sha256": "73828b3630e37744776e9e8ba0ed37c75ccdb150bb01bb5ea3b75e7bfaca472e",
+  "compiled_at": "2026-11-28T05:31:33Z",
+  "source_ast_sha256": "13191b22ebb8f7c2661710680ad9823be445dbfd735bd95e0a36f4d208f06e37",
   "hugo_renderer_version": "1.0.0"
  }
 }

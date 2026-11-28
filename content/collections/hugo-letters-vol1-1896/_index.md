@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Victor Hugo (ed. Paul Meurice)",
  "year": 1896,
  "archive_id": "ofvictorhletters00hugorich",
@@ -282,26 +285,26 @@
   {
    "format": "epub",
    "file": "hugo-letters-vol1-1896.epub",
-   "bytes": 237397,
-   "sha256": "67d947f1128a206e52d630e4beb4b8cb6aef4162e33abef7bc45a97ec4b436f7"
+   "bytes": 237449,
+   "sha256": "dd3edb1c4bf3797ad43b376af868641c59c087e715e6b957f049d215ca8ab26c"
   },
   {
    "format": "markdown",
    "file": "hugo-letters-vol1-1896.md",
-   "bytes": 429752,
-   "sha256": "e0f6fc160a16e0e6bfad131d605d93e3e3a84d85c6affa546560d920046a889b"
+   "bytes": 429756,
+   "sha256": "f7cc9772d2886e457d772ce7dd02ae8b61b02867cb426bd7599ebce44cfbea3c"
   },
   {
    "format": "tei",
    "file": "hugo-letters-vol1-1896.tei.xml",
-   "bytes": 591639,
-   "sha256": "d8d4f52233bf5fe2b51a1d15c3403857ccbb74e862a32618f3c93881fb503f99"
+   "bytes": 591679,
+   "sha256": "39b5b6b046c1a60691e08bd64684a6365ee83c78f5942f78c4f5679fd3e099e7"
   }
  ],
  "scan_base": "https://archive.org/download/ofvictorhletters00hugorich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:22:21Z",
+  "compiled_at": "2026-11-28T05:29:17Z",
   "source_ast_sha256": "8f8d625f25a003e78a51a6e820174c8164a2456f6f8e9792c7c4c6f5b8fc5ae3",
   "hugo_renderer_version": "1.0.0"
  }

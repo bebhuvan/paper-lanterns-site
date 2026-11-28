@@ -14,6 +14,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "George Sand & Gustave Flaubert (trans. Aimée L. McKenzie)",
  "year": 1922,
  "archive_id": "georgesandgustav00sand",
@@ -181,26 +184,26 @@
   {
    "format": "epub",
    "file": "sand-flaubert-letters-1922.epub",
-   "bytes": 381557,
-   "sha256": "fded2736d16a58ba94715128d61108925024419c569bd4fcd9ad9195eac22d04"
+   "bytes": 381606,
+   "sha256": "910ed291634dac17c3e090325204823cc28ef2588e83e2b737f431ab106ab9fe"
   },
   {
    "format": "markdown",
    "file": "sand-flaubert-letters-1922.md",
-   "bytes": 728685,
-   "sha256": "3e494b685b89553b9a67e83e348100bc275b49ec67c6bcb4ad0c514f29dcf234"
+   "bytes": 728725,
+   "sha256": "35b82b17c6614226cd17a5b8c11f3c1a586a52ebbd269021e7c34ed5c8613cf5"
   },
   {
    "format": "tei",
    "file": "sand-flaubert-letters-1922.tei.xml",
-   "bytes": 957450,
-   "sha256": "0a9cf308cd873514a4ea713620b4c46c2f6f083f4bdcc3576c1b68e8c9eff007"
+   "bytes": 956645,
+   "sha256": "09005f073b5c6e2365003a509f8dac9fab3ff8fab55cb79bab4454e56c05cdf3"
   }
  ],
  "scan_base": "https://archive.org/download/georgesandgustav00sand/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-24T19:24:04Z",
+  "compiled_at": "2026-11-27T21:16:21Z",
   "source_ast_sha256": "61c3f85a3cd09e4864518812173c1f0e27bbb9c007ab1960323b14e18f43b93a",
   "hugo_renderer_version": "1.0.0"
  }

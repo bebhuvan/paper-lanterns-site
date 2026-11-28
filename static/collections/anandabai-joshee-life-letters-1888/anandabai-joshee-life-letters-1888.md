@@ -78,7 +78,7 @@ So much was this the case, that my husband's own brother would not write to him 
 Under such circumstances, we had no intercourse with many, and were too proud to ask any favors. I therefore resolved to do what I could to take care of my baby and myself independently of all relatives or friends. I made this promise to my dear husband before he left me. Therefore I did not accept Mrs. Joshee's kind invitation to go to her in my distress. I was very grateful to her all the same, for she was the only person in the whole country who cared for me, such an outcast had I become in the eyes of my people. Nor shall I ever cease to be grateful to her for this kindness.
 
 With all good wishes for the New Year,  
-I am, sincerely yours,
+    I am, sincerely yours,
 
 <span class="small-caps">Ramabai.</span>
 
@@ -927,7 +927,7 @@ Thanking you heartily for your prompt reply to my first letter and for your offe
 I remain yours sincerely,
 
 <span class="small-caps">Meherje Cooverje</span>,  
-*The Dewan of Kolhapur.*
+    *The Dewan of Kolhapur.*
 
 I am sorry to say that I have no copy of Dr. Joshee's reply to this letter, which was written on the 18th of April, but one remarkable sentence in it is impressed upon my memory.
 

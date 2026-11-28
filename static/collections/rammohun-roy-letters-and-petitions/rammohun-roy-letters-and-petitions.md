@@ -16,8 +16,8 @@
 #### **A. Memorial To The Supreme Court**
 
 To The Honourable Sir Francis Magnaghten,  
-Sole Acting Judge of the Supreme Court of  
-Judicature at Fort William in Bengal.
+    Sole Acting Judge of the Supreme Court of  
+        Judicature at Fort William in Bengal.
 
 My Lord,
 
@@ -310,14 +310,14 @@ In consideration of circumstances so disgraceful in themselves and so incompatib
 We are, my Lord, reluctantly restrained by the consideration of the nature of your exalted situation from indicating our inward feelings by presenting any valuable offering as commonly adopted on such occasions, but we should consider ourselves highly guilty of insincerity and ingratitude, if we remained negligently silent, when urgently called upon by our feelings and conscience to express publicly the gratitude we feel for the ever lasting obligation you have graciously conferred on the Hindoo Community at large. We however are at a loss to find language sufficiently indicative even of a small portion of the sentiments we are desirous of expressing on this occasion : We must therefore conclude this Address, with entreating, that your Lordship will condescendingly accept our most grateful acknowledgements for this act of benevolence towards us, and will pardon the silence of those who, though equally partaking of the blessing bestowed by your Lordship, have through ignorance or prejudice omitted to join us in this common cause.
 
 We have the honour to be  
-My Lord  
-Your Lordship’s Obdt. and Humble Servts.
+    My Lord  
+        Your Lordship’s Obdt. and Humble Servts.
 
 [Signed] Callynath Roy Choudhury  
-Rammohun Roy  
-Dwarakanath Tagore  
-Prossanno Comar Tagore  
-&c. &c. &c.
+    Rammohun Roy  
+        Dwarakanath Tagore  
+            Prossanno Comar Tagore  
+                &c. &c. &c.
 
 ### Letter 5: Lord William Bentinck → Raja Rammohun Roy
 
@@ -348,8 +348,8 @@ Ramanauth Tagore.
 Sealed and delivered at Calcutta aforesaid in the presence of
 
 J. Fountain.  
-Atty. at Law,  
-Ramgopaul Dav.
+    Atty. at Law,  
+        Ramgopaul Dav.
 
 ### Letter 6: Raja Rammohun Roy → King George IV
 
@@ -491,7 +491,7 @@ My dear and worthy Sir,
 I delayed answering your kind communication untill (*sic*,) today in the expectation of hearing further from Dr. Bowring. By a note just received from him I find that there will be no excursion on Saturday or Sunday next. Dr. B. will have communicated all the particulars to you. I am sorry to observe that you were under an impression that I probably felt a reluctance to meet you. I hope you will excuse me when I say that in entertaining such a thought you did injustice to my feelings. Wishing you the enjoyment of uninterrupted health I remain
 
 My dear sir  
-Yours most faithfully
+    Yours most faithfully
 
 Rammohun Roy
 
@@ -573,8 +573,8 @@ Such restrictions against foreigners are not observed even among the Nations of 
 In the event of my applying to Prince Talleyrand for a passport I beg to know whether I shall be justified in referring to you in your official capacity as to my character. All that I can say for myself is, that I am a traveller and that my heart is with the French People in their endeavours to support the cause of liberal principles. Sir Francis Burdett, at Mr. Byng’s, liberally and spontaneously offered to give me a letter of introduction to General Lafayette, but this will not, I think, serve my purpose on my first landing in France.
 
 I have the honour to be,  
-Sir,  
-Your most obedient servant,
+    Sir,  
+        Your most obedient servant,
 
 Rammohun Roy.
 
@@ -595,8 +595,8 @@ I beg to be permitted to add that, as I intimated to the Board my intention of e
 Unless I have the honour to hear from you that such an address would be irregular and unconstitutional, I shall forward it to a friend in Paris to be presented in due form.
 
 I have the honour to be,  
-Sir,  
-Your most obedient servant,
+    Sir,  
+        Your most obedient servant,
 
 Rammohun Roy.
 
@@ -649,8 +649,8 @@ Fourthly: If it be intended to apply to political matters, it is in the first pl
 My desire, however, to visit that country is so great that I shall conform to such conditions as are imposed on me, if the French Government, after taking the subject into consideration, judge it proper and expedient to continue restrictions, contrived for a different state of things, but to which they may have become reconciled by long habit; as I should be sorry to set up my opinion against that of the present enlightened Government of France.
 
 I have the honour to be,  
-Sir,  
-Your most obedient servant,
+    Sir,  
+        Your most obedient servant,
 
 Rammohun Roy
 

@@ -498,14 +498,14 @@
   {
    "format": "epub",
    "file": "old-love-letters-1883.epub",
-   "bytes": 275595,
-   "sha256": "55a9ebd12da9fcd91e704c15a3680d0b3eaf4d0acacddee6e386ecfb1fd13031"
+   "bytes": 275647,
+   "sha256": "40df2ac2d6f6fafdc6088a7a448e20f9a784d5bddad488353f0389c265d5a0b5"
   },
   {
    "format": "markdown",
    "file": "old-love-letters-1883.md",
-   "bytes": 442279,
-   "sha256": "a29a534a905b760c0e01d29c36a6497c6eb83796b64de67d30200ef36572a4cd"
+   "bytes": 442287,
+   "sha256": "62b0e2dbb15103dc04b0a1d5d02d4364f85f5bb7e243d5bc8c375703ccc6eb25"
   },
   {
    "format": "tei",
@@ -517,7 +517,7 @@
  "scan_base": "https://archive.org/download/oldloveletters00rich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T03:45:58Z",
+  "compiled_at": "2026-11-27T21:14:27Z",
   "source_ast_sha256": "1a36dc84c075776dfce597c96293b75048f7641ce15bf8a46e23153cb4997a71",
   "hugo_renderer_version": "1.0.0"
  }

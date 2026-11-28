@@ -12,6 +12,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Sharpless Dobson Green (comp.)",
  "year": 1925,
  "archive_id": "lettersfromfamou0000shar",
@@ -114,27 +117,27 @@
   {
    "format": "epub",
    "file": "letters-from-famous-people-1925.epub",
-   "bytes": 299736,
-   "sha256": "68bd25c019a66c15e67282d2ece2f181ed0256ece30f83cdbddf6a24e567b170"
+   "bytes": 299765,
+   "sha256": "028cb0112c85087d96876a3b2ee8e4730fe9e8171c124380567114d5fb29f966"
   },
   {
    "format": "markdown",
    "file": "letters-from-famous-people-1925.md",
-   "bytes": 588049,
-   "sha256": "8fab2dedfa3dabc0324c4737cbc21d857a5f96bc5d43cce8c8eedbfbe9d45353"
+   "bytes": 588045,
+   "sha256": "5faaae319d684fb7da4ca6a3cf1297d3a67074a4526139db9850c21ba3f13ff9"
   },
   {
    "format": "tei",
    "file": "letters-from-famous-people-1925.tei.xml",
-   "bytes": 730859,
-   "sha256": "1f505a8c13cc3789067859db2ed2b4ffee722e48d66cb3b330cae36b2b3a121d"
+   "bytes": 730895,
+   "sha256": "e3b8d4c6dfaaf1d0d809472259aa63e68bd462d829973e4dd20e78a2713a22b3"
   }
  ],
  "scan_base": "https://archive.org/download/lettersfromfamou0000shar/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:22:47Z",
-  "source_ast_sha256": "852f69a484a68d0c10626bd5ea82b58421a0e6eccdaeab18502e3356e83fda83",
+  "compiled_at": "2026-11-28T05:31:41Z",
+  "source_ast_sha256": "ba6c031afc9174a5cb034f0745997ae7dc1d029cd3861560edd3cb7bddcf4e10",
   "hugo_renderer_version": "1.0.0"
  }
 }

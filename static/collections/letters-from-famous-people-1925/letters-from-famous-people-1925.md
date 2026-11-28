@@ -48,8 +48,7 @@ Trenton, N. J., May 24.
 
 ### LIST OF CONTRIBUTORS
 
-| Name | Page |
-| --- | --- |
+**Name — Page**
 
 Abdullah, Achmed . . . . . . . . . . . . . . . . . 1
 
@@ -103,8 +102,7 @@ Birdsall, Katharine N. . . . . . . . . . . . . . . . 19
 
 Black, Alexander . . . . . . . . . . . . . . . . . . 23
 
-| Name | Page |
-| --- | --- |
+**Name — Page**
 
 Bolton, Charles Knowles . . . . . . . . . . . . . . 24
 
@@ -168,8 +166,7 @@ Clark, G. Hardy . . . . . . . . . . . . . . 59
 
 Claudy, C. H. . . . . . . . . . . . . . 61
 
-| Name | Page |
-| --- | --- |
+**Name — Page**
 
 Clews, Henry. . . . . . . . . . . . . . . . . 62
 
@@ -233,8 +230,7 @@ Edstrom, David . . . . . . . . . . . . . . . 94
 
 Egan, Maurice Francis. . . . . . . . . . . . . . 96
 
-| Name | Page |
-| --- | --- |
+**Name — Page**
 
 Elmendorf, Dwight L. . . . . . . . . . . . . . . . 97
 
@@ -298,8 +294,7 @@ Grenfell, Wilfred T. . . . . . . . . . . . . . . 123
 
 Greusel, John H. . . . . . . . . . . . . . . . . 124
 
-| Name | Page |
-| --- | --- |
+**Name — Page**
 
 Griffis, William Elliott . . . . . . . . . . . . . . . 127
 
@@ -363,8 +358,7 @@ Johnson, Constance W. . . . . . . . . . . . . . 150
 
 Johnson, Robert Underwood . . . . . . . . . . . 151
 
-| Name | Page |
-| --- | --- |
+**Name — Page**
 
 Johnson, Rossiter . . . . . . . . . . . . . . . . . . . 151
 
@@ -461,7 +455,6 @@ MacGregor, T. D. . . . . . . . . . . . . . . . . . . . 180
 | Norris, Kathleen | 211 |
 | Nutting, Wallace | 212 |
 | Orcutt, William Dana | 214 |
-| Name | Page |
 
 Osborn, Henry Fairfield . . . . . . . . . . . . . . 214  
 Osborne, William H. . . . . . . . . . . . . . . 215  
@@ -495,8 +488,7 @@ Rhodes, James F. . . . . . . . . . . . . . . 240
 Richberg, Donald R. . . . . . . . . . . . . . . 241  
 Richmond, Grace S. . . . . . . . . . . . . . . 241
 
-| Name | Page |
-| --- | --- |
+**Name — Page**
 
 Rickenbacker, Edward Vernon . . . . . . . . . . . . 242
 
@@ -560,8 +552,7 @@ Steell, Willis . . . . . . . . . . . . . . . . . . 271
 
 Stefansson, Vilhjalmur. . . . . . . . . . . . . . . 271
 
-| Name | Page |
-| --- | --- |
+**Name — Page**
 
 Steiner, Edward A. . . . . . . . . . . . . . . . . . . . 272
 
@@ -625,8 +616,7 @@ Warfield, David . . . . . . . . . . . . . . . . . . . . 312
 
 Watts, Mary S. . . . . . . . . . . . . . . . . . . . . 313
 
-| Name | Page |
-| --- | --- |
+**Name — Page**
 
 Wayland, John W. . . . . . . . . . . . . . . . . . 314
 
@@ -2966,11 +2956,11 @@ No poem that I know means more to me than this one by Louise Imogen Guiney, one 
 ### Letter 212: Kathleen Norris
 
 “Take temperance to thy breast, while yet is the hour of  
-choosing,  
-Arbitress exquisite, of all that shall thee betide,  
-For better than Fortune’s best, is mastery, in the using,  
-And sweeter than anything sweet, is the power to put it  
-aside.”
+    choosing,  
+        Arbitress exquisite, of all that shall thee betide,  
+            For better than Fortune’s best, is mastery, in the using,  
+                And sweeter than anything sweet, is the power to put it  
+                    aside.”
 
 <span class="small-caps">Kathleen Norris</span>
 

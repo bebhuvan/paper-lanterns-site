@@ -68,8 +68,7 @@ FETTER LANE, FLEET STREET, E.C.
 
 433. Richard Cocks to the Company. Firando, January 16 & 27, 1616–17 . . . . . . . . . . . 45
 
-| <span class="small-caps">page</span> |
-| --- |
+**<span class="small-caps">page</span>**
 
 434. Sir Thomas Roe to William Robbins at Ispahán. January 17 (7?), 1616–17 . . . . . . . . . . 50
 
@@ -569,7 +568,7 @@ Now concerning my [own] part, your Worship shall understand I am this year bound
 Thus being unworthy I have emboldened myself to write these few lines to let your Worship to understand of the troubles of these parts in brief; only knowing assuredly Mr. Cooks hath most largely wrote your Worship of all matters, therefore for this present, my humble duty remembered, I cease, praying God for your Worship's long life and most happy days, and in the life to come everlasting felicity for ever. Amen.
 
 Your Worship ['s] unworthy servant to command  
-in all dutiful service that I can,
+    in all dutiful service that I can,
 
 Wm. Addams.
 
@@ -604,8 +603,8 @@ Fra. Futter. William Martin.
 Sixthly and lastly. We do all in general declare the said Leske to be a most licentious, ungodly liver and one that prefers his epicurism, drunkenness, and intolerable, insolent pride before the divine worship of God: that besides the unmeasurable proportion of wine he drinks at table (of which the whole fleet have taken particular notice) he will privately in his chamber forthwith send for more and there by himself drink drunk alone, and this hath been his ordinary practice: that because he would thus live as a libertine and give the bridle of his loose affections free scope without control, he proudly and contemptuously refused the King's Ambassador's entreaty (who might have commanded him) to repair unto him for the ministry there of God's word, his Lordship being then altogether unprovided, nay, he neglected him so far that in a manner he scorned to answer two or three of his Lordship's letters: that he assumed command, and in effect did usually beat the servants of the house, for which he was often complained against. And that the premisses are true we do faithfully give testimony by subscription of our hands.
 
 Tho. Kerridge. Thomas Rastell. Henry Woodroffe.  
-Fra. Futter. William Martin. Lewis Smyth.  
-Robt. Hutchinson.
+    Fra. Futter. William Martin. Lewis Smyth.  
+        Robt. Hutchinson.
 
 Dated in Surratt, the 8th January, 1616 [1617].
 
@@ -643,9 +642,9 @@ Eersaeme, Wijse, Voorsinnighe, seer Discreete Heere,
 MIJ is leet gheweest te verstaen, V.E. sich in sijn schrijven aen Captn. Ric. Cock alhier gediscontenteert bethoont, over de vrientschap ende gerijff ons bij ditto Captn. ende Overicheijt vant schip d' Hosiander ghedaen, Int consenteeren ende overbrenghen vande perthije Ebbenhout die in ditto schip ghelaeden hadde & tot Bantam ghebracht gheweest is, daer vuijt geensints vermeijndt hadde V.E., of oock ijemandt, Eenighe occasie van discontentement souden gheschept hebben, de wijls ons dit gerijeff van te laeden op ons versoeck alhier wel gheconsenteert, maer de vrachten daer van tot advijs van V.E. ende den E. Heer President van onser sijde costj gherenvoijeert was; waeromme niet als een goede advoijatie ten weder sijde van daer verwacht hebben, dat van V.E. weghent' sij door quaede verhoorde Rapporten ofte andersints contraije verstaenis daervan de Redenen niet can Considereeren, alsoo ons versoeck niet vuijt Malicie ofte achterdencken van Vwer E. daer door In eenich deel te vercorten gherequireert hebbe, maer vuijt den goede oprechte meijninghe, als ons dienstich (ende V.E. niet hinderlijck) aen ditto Captn. ende Overicheijt vant voornoende schip versocht, met presentatie In gelijcke occasien haere E. wederom alhier met onse scheepen Int voorvallende te gerijeven ende dienen ghelijck naer ghebuijren ende onderlinghe vrienden Elck anderen In dergelijcke occurrentien sulcx niet en behoiren te weijgeren, daer van onser Zijde, soohier als op anders plaetsen, oock noijt In gebreecke van gheweest sijn, ghelijck V.E. vuijt verscheijden onse ghedaene diensten oock bekendt sijn sall, ende alnoch van de overcommende Vwer E. scheepen onse volveerdicheijt tot Vwer E. dienste alhier oock sall connen gherapporteert werden, daertoe wij noch als voordesen bereijt blijven om Int voorvallende alles goets teghendie van Vwer E. te erkennen, Ten welcken Respecte oock versoecke V.E. de ghedaenen dienst Int laeden ende overbrenghen vant voorsz. houdt met contentement ghelieve te advoijeren ghelijck V.E. discreetie toe vertrouwe, oock naer desen volcomentlijck doen sall.
 
 Hiermede,  
-Eersaeme, Wijse, Voorsinnighe, seer discreete Heere, V.E.  
-Inde ghenadighe bescherminghe des alderhoochste bevelende,  
-Uwe E. dienstwilligghe ber.
+    Eersaeme, Wijse, Voorsinnighe, seer discreete Heere, V.E.  
+        Inde ghenadighe bescherminghe des alderhoochste bevelende,  
+            Uwe E. dienstwilligghe ber.
 
 Jacques Specx  
 1617.
@@ -668,8 +667,8 @@ OUR duties humbly remembered. A long time before this come to your view your Hon
 Your Honours' charitable acceptance,
 
 Edw. Connok.  
-Edward Pettus.  
-William Bell.
+    Edward Pettus.  
+        William Bell.
 
 These we have delivered to Captain Childe for his discharge to your Honours, according as he requireth ; but overland, God willing, we will render your Honours a larger account in this particular.
 
@@ -863,7 +862,7 @@ By direction from Suratt,[^fn-p0105-4] I should have treated on articles of acce
 Your Honours' truly devoted servants,
 
 Edw. Connok.  
-Tho. Barker.
+    Tho. Barker.
 
 *Addressed :* To the Honourable the Governor, Committees and Company of Merchants of England trading the East Indies, in London. By way of Suratt and thence by the first ship.
 
@@ -1446,7 +1445,7 @@ And thus with our prayers for the preservation of your Worships' healths and pro
 Your Worships' humble servants,
 
 Tho. Kerridge.  
-Tho. Rastell.
+    Tho. Rastell.
 
 Factors deceased in the Mogoll's dominions this year: Robert Gipps the 23rd May; Saml. Saltenstall the [*blank*].
 
@@ -1674,7 +1673,7 @@ I received a letter from Mesulpotam, written by Mr. Lucas Antonius and others, t
 Lastly, [I] submit myself to your honourable and favourable censures, beseeching your charitable constructions of anything is judged to be done amiss by me. The indisposition of my body hath occasioned many inconveniences which, had I been otherwise, I would have prevented a great part of them. The charges here hath been also extraordinary, both by the reason of the multitude of our men, and also for that the people, knowing our necessity of their provisions, do raise the price of all things. Myself have not fingered nor disbursed one penny thereof, but left it to such whom I assure myself are honest, and herewith have sent their several accounts. So beseeching Almighty God to bless and prosper you and all your affairs, I most humbly take my leave and rest
 
 Always most bounden and ready to your honourable  
-service,
+    service,
 
 Henry Pepwell.
 
@@ -1863,7 +1862,7 @@ One of the strangers come home in the Globe, Antonius Dorus[^fn-p0232-1] of Char
 Your Worships' in all duty to be commanded,
 
 William Lesk,  
-Minister of God's Word.[^fn-p0233-1]
+    Minister of God's Word.[^fn-p0233-1]
 
 *Endorsed:* Mr. William Leskes. Dated aboard the Globe, 1617.
 
@@ -2198,7 +2197,7 @@ Thus with our prayers to the Almighty to prosper all your endeavours, we rest
 Your very loving friends to command,
 
 Tho. Barker.  
-Will. Bell.
+    Will. Bell.
 
 *Addressed:* To the Worshipful Edward Connocke, Agent, these dd. in Hispaune.
 
@@ -2364,9 +2363,9 @@ With our heartiest commendations we take our leaves and recommend you to God's m
 Your very loving friends truly at command,
 
 Edw. Connock.  
-George Pley.  
-Edw. Pettuss.  
-Will. Tracy.
+    George Pley.  
+        Edw. Pettuss.  
+            Will. Tracy.
 
 What goods you send us and by you packed we desire may not weigh above two hundredweight English the fardle. Our camels here, most of them, are weak and cannot stand under a burthen of above four or five hundred English. Your sugar you may pack into such square chests and cover it with raw hides, as at my being there you intended for indigo; it will be convenient for ship's stowage and lie handsome on the camel.
 
@@ -2391,9 +2390,9 @@ If therefore it shall be pleasing that your whole fleet set on hither and with s
 At your commandment,
 
 Edward Connok.  
-George Pley.  
-Edward Pettuss.  
-William Tracy.
+    George Pley.  
+        Edward Pettuss.  
+            William Tracy.
 
 ### Letter 48: Edward Connock / George Pley / Edward Pettuss / William Tracy → Agent and English Merchants in the Factory of Suratt
 
@@ -2553,12 +2552,12 @@ We take notice what cloth hath been delivered to the Company's servants related 
 You see for this time we have taken pains so largely to write you. Our many businesses might well have excused us, but we may not (as otherwise we should) omit our duty to our masters, our fittingness to you-wards. The labour is only ours, and this only once in so large a manner. We hope therein you will find much reason, as you do many lines. And hope also that you will discreetly take example by the past and modestly reform yourself for the future, in which as we shall take great comfort so will we rest confidently assured, knowing your sufficient abilities if you will be conformable, of which resting also assured we loving salute you. You shall give us comfort and cause to remain
 
 Your loving friends to command  
-And your loving fellow-servants,
+    And your loving fellow-servants,
 
 Edw. Connock.  
-George Pley.  
-Edw. Pettuss.  
-Will. Tracey.
+    George Pley.  
+        Edw. Pettuss.  
+            Will. Tracey.
 
 As I thank you for the speedy advice of the Spanish Ambassador's arrival at Ormoz, so do I desire you as speedily advise hither to the factory in my absence his arrival in any of the Shaw's country. I have ordained Mr. Pley to dispeed me the advice as soon as from you he receiveth it. Hereof you must be very careful speedily to effect it; which I recommend you with the like earnestness I did the former, I mean his arrival at Ormoz.
 
@@ -2703,7 +2702,7 @@ And thus taking our leave, we rest
 Your loving friends to command,
 
 John Johnson.  
-Richard Pitt.
+    Richard Pitt.
 
 *Addressed:* To his very loving friend, Mr. John Browne, Principal of the English, dd. in Pottania. Per Nocoda Chen-howne, whom God bless.
 
@@ -2786,9 +2785,9 @@ What else may concern worthy your Honours shall by my letters be presented you a
 Your Honours' servants in all duty,
 
 Edw. Connok.  
-George Pley.  
-Edw. Pettus.  
-Wm. Tracy.
+    George Pley.  
+        Edw. Pettus.  
+            Wm. Tracy.
 
 *Addressed:* To the Honourable the Company of Merchants of England Trading the East Indies.
 
@@ -2871,8 +2870,8 @@ Ardass[^fn-p0334-4] and Legee[^fn-p0334-5] silk, such as is bought at Alleppo, w
 And for present not having else material, I crave your pardon and favourable acceptance for these my tedious and undeserving advices, being the endeavours of my diligence; committing you and all your affairs to God's merciful protection,
 
 Resting  
-Your servant to command,  
-Edward Pettus.
+    Your servant to command,  
+        Edward Pettus.
 
 *Endorsed :* Copy. To the Worshipful Robert Midelton, merchant, dd. in London to his own hands. *Also :* Edward Pettus from Persia, June, 1617.
 
@@ -2931,7 +2930,7 @@ Not having else at present, wishing you prosperous business in all your proceedi
 Your loving friends,
 
 Lucas Antheuniss.  
-Thomas Brockedon.
+    Thomas Brockedon.
 
 *Addressed :* To his loving friend, Mr. William Nicolls, the English Factor resident in Achin.
 
@@ -3008,9 +3007,9 @@ With our many hearty commendations we take our leaves and leave you to the prote
 Your true loving friends at command,
 
 Edward Connok.  
-George Pley.  
-Edward Pettus.  
-William Tracey.
+    George Pley.  
+        Edward Pettus.  
+            William Tracey.
 
 P.S.—We send you a copy of our last letters into England under the 2nd present.[^fn-p0347-2]
 
@@ -3753,7 +3752,7 @@ George Pley.
 [^fn-p0297-1]: (1) See p. 193.
 [^fn-p0297-2]: (2) Cp. King Henry IV., Pt. II., iv. I :
 
-    ' Wherein have you been galléd by the King ?
+    ' Wherein have you been galléd by the King ?  
     What peer hath been suborned to *grate* on you ? '
 [^fn-p0298-1]: (1) Samples.
 [^fn-p0298-2]: (2) Not extant.
@@ -4169,7 +4168,7 @@ Thus, remembering my duty unto the General and yourself, I end.
 Yours in all duty,
 
 Nathaniel Courthopp.  
-Thomas Spurwaie.
+    Thomas Spurwaie.
 
 * * *
 

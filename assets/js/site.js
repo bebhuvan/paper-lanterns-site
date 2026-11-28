@@ -97,7 +97,9 @@
         x.querySelector(".bulb").setAttribute("r", on ? "7.5" : "4.5");
       });
       var n = Number(row.dataset.count);
-      field("decade").textContent = decade + "s";
+      var dNum = Number(decade);
+      var dLabel = row.dataset.label || (dNum < 0 ? (-dNum) + "s B.C." : (dNum < 1000 ? "AD " + dNum + "s" : decade + "s"));
+      field("decade").textContent = dLabel;
       field("count").textContent = String(n);
       field("unit").textContent = n === 1 ? "letter" : "letters";
       field("rank").textContent = row.dataset.rank;
@@ -111,7 +113,7 @@
       var link = field("link");
       if (link) {
         link.setAttribute("href", "/explore/" + decade + "s/");
-        field("linktext").textContent = "Read the letters of the " + decade + "s";
+        field("linktext").textContent = "Read the letters of the " + dLabel;
       }
     };
     all(".lantern", chart).forEach(function (g) {

@@ -1845,12 +1845,12 @@ Private convenience was, however, still further interfered with by the slow prog
 ### Letter 9: Rammohun Roy → Miss Ann Kiddell
 
 48, Bedford Square,  
-July 19th, 1833.
+    July 19th, 1833.
 
 Dear Madam,—I know not how to express the eager desire I feel to proceed to Bristol to experience your further marks of attention and kindness, and Mis Castle’s civil reception and polite conversation. But the sense of my duty to the natives of India has hitherto prevented me from fixing a day for my journey to that town, and has thus overpowered my feeling and inclination. It is generally believed that the main points respecting India will be settled by Wednesday next, and I therefore entertain a strong hope of visiting you by Friday next. I shall not fail to write to you on Wednesday or perhaps on Tuesday next. I feel gratified at the idea that you find my youngster worthy of your company. Nevertheless I entreat you will exercise your authority over him, that he may benefit himself by your instructions. If you find him refractory, pray send him back to London. If not, you may allow him to stay there till I supply his place. With my best wishes for your uninterrupted health and happiness,
 
 I remain, dear Madam,  
-Yours very sincerely,
+    Yours very sincerely,
 
 <span class="small-caps">Rammohun Roy.</span>
 
@@ -1869,7 +1869,7 @@ Ma chere Demoiselle,—Many thanks for your obliging and polite communication, w
 You will perceive from my letter to Miss Kiddell that I am to be detained here a week longer at the sacrifice of my feelings. I however cannot help reflecting that to entertain a hope of enjoying the society of friends though for a short time, say one month, is more pleasant than bringing it to a termination by the completion of it. Adieu for the present.
 
 I remain,  
-Yours very sincerely and obliged,
+    Yours very sincerely and obliged,
 
 <span class="small-caps">Rammohun Roy.</span>
 
@@ -1878,7 +1878,7 @@ Impatience of protracted parliamentary delay appears again in the following to M
 ### Letter 11: Rammohun Roy → Miss Ann Kiddell
 
 48, Beford Square,  
-July 24th, 1833.
+    July 24th, 1833.
 
 Dear Madam,—From my anxiety to proceed to Bristol, heavy duties appeared to me light, and difficult tasks had seemed easily manageable. The consequence was that I met with disappointments from time to time, which I felt severely. To-day is the third reading of the India<sub>n</sub> Bill in the House of Commons, after long vexatious debates in the Committee, impeding its progress under different pretensions. After the Bill has passed the Lower House,  will lose no time in ascertaining how it will stand in the Upper Branch,and will immediately leave London without waiting for the final result. I will proceed direct to Bristol next week, and on my way to [from ?] London I will endeavour to visit my acquaintances at Bath and its vicinity. I deeply regret that I should have been prevented from fulfilling my intention this week, by circumstances over which I had no control.
 

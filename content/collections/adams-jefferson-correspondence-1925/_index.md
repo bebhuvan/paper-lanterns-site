@@ -251,8 +251,8 @@
   {
    "format": "epub",
    "file": "adams-jefferson-correspondence-1925.epub",
-   "bytes": 169401,
-   "sha256": "7616b92006d68eafe9ff37589693fe7a59a1900dccb3cd4fbf50a6acbd152561"
+   "bytes": 169445,
+   "sha256": "4ff3a17e354eea59007ef096980a26f4bcffe0627c18c4c13a4077cbace4e459"
   },
   {
    "format": "markdown",
@@ -270,7 +270,7 @@
  "scan_base": "https://archive.org/download/correspondence1925adam/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T03:46:30Z",
+  "compiled_at": "2026-11-27T21:06:14Z",
   "source_ast_sha256": "008c8d498e2c544dff85607204d0c9ba027d0ca19f76ece191dd034dfa1c223a",
   "hugo_renderer_version": "1.0.0"
  }

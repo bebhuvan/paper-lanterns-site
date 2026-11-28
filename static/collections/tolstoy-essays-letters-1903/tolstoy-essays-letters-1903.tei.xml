@@ -55,7 +55,6 @@
         <correspAction type="received"><orgName>Russian Liberals</orgName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0008">
-        <correspAction type="sent"><date>from Siberia asking for information about the Single-Tax.</date></correspAction>
         <correspAction type="received"><persName>T. M. Bóndaref</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0009">
@@ -84,85 +83,9 @@
 <pb xml:id="page-5" n="5"/><head rend="center">XLVI.<lb/>THE WORKS<lb/>OF<lb/>LEO TOLSTOY.—I.<lb/>ESSAYS AND LETTERS</head>
 <pb xml:id="page-6" n="6"/><head rend="center">The World's Classics</head>
 <p rend="center"><hi rend="italic">Pott 8vo., leather, gilt,</hi> 2<hi rend="italic">s. net; cloth,</hi> 1<hi rend="italic">s. net.</hi></p>
-<list><item>1 Charlotte Bronte's JANE EYRE. 3rd Impression.
-2 Lamb's ESSAYS OF ELIA. 4th Impression.
-3 Tennyson's POEMS, 1830-58. 3rd Impression.
-4 Goldsmith's VICAR OF WAKEFIELD. 2nd Impression.
-5 Hazlitt's TABLE TALK. 3rd Impression.
-6 Emerson's ESSAYS. 3rd Impression.
-7 Keats' POEMS. 2nd Impression.
-8 Dickens' OLIVER TWIST. 2nd Impression.
-9 THE INGOLDSBY LEGENDS. 3rd Impression.
-10 Emily Bronte's WUTHERING HEIGHTS. 2nd Impression.
-11 Darwin's ORIGIN OF SPECIES. 3rd Impression.
-12 Bunyan's PILGRIM'S PROGRESS. 2nd Impression.
-13 ENGLISH SONGS AND BALLADS. Compiled by T. W. H. CROSLAND. 2nd Impression.
-14 Charlotte Bronte's SHIRLEY. 2nd Impression.
-15 Hazlitt's SKETCHES AND ESSAYS. 2nd Impression.
-16 Herrick's POEMS. 2nd Impression.
-17 Defoe's ROBINSON CRUSOE. 2nd Imp.
-18 Pope's ILIAD OF HOMER. 2nd Impression.
-19 Carlyle's SARTOR RESARTUS. 2nd Impression
-20 Swift's GULLIVER'S TRAVELS. 2nd Impression.
-21 Poe's TALES OF MYSTERY AND IMAGINATION. 2nd Impression.
-22 White's HISTORY OF SELBORNE. 2nd Impression.
-23 De Quincey's OPIUM EATER. 2nd Impression.
-24 Bacon's ESSAYS. 2nd Impression.
-25 Hazlitt's WINTERSLOW.
-26 Hawthorne's SCARLET LETTER.
-27 Macaulay's LAYS OF ANCIENT ROME.
-28 Thackeray's HENRY ESMOND. 2nd Impression.
-29 Scott's IVANHOE. 2nd Impression.
-30 Emerson's ENGLISH TRAITS.
-31 George Eliot's MILL ON THE FLOSS. 2nd Impression.
-32 SELECTED ENGLISH ESSAYS. Chosen and arranged by W. PEACOCK. 2nd Impression.
-33 Hume's ESSAYS. 2nd Impression.
-34 Burns' POEMS. 2nd Impression.
-35 Gibbon's ROMAN EMPIRE. Vol. I. Complete in 7 Vols. 2nd Impression.
-36 Pope's ODYSSEY OF HOMER.
-37 Dryden's VIRGIL.
-38 Dickens' TALE OF TWO CITIES.
-39 Longfellow's POEMS. Vol. I. Complete in 3 Vols.</item><item>40 Sterne's TRISTRAM SHANDY.
-41 Buckle's HISTORY OF CIVILIZATION. Vol. I. Complete in 3 Vols. 2nd Impression.
-42 Chaucer's WORKS. Vol. I. From the Text of Prof. <hi rend="smallcaps">Skeat</hi>. (<hi rend="italic">By permission of the Oxford University Press.</hi>) Complete in 3 Vols.
-43 Machiavelli's THE PRINCE. Translated by <hi rend="smallcaps">Luigi Ricci</hi>.
-44 Gibbon's ROMAN EMPIRE. Vol. II. 2nd Impression.
-45 ENGLISH PROSE. From Mandeville to Ruskin. Chosen and arranged by W. <hi rend="smallcaps">Peacock</hi>.
-46 ESSAYS AND LETTERS BY Leo Tolstoy. Translated by <hi rend="smallcaps">Aylmer Maude</hi>. 2nd Impression.
-47 Charlotte Bronte's VILLETTE.
-48 Buckle's HISTORY OF CIVILIZATION. Vol. II.
-49 Thomas à Kempis' OF THE IMITATION OF CHRIST.
-50 Thackeray's BOOK OF SNOBS.
-51 Gibbon's ROMAN EMPIRE. Vol. III.
-52 Watts-Dunton's AYLWIN.
-53 Buckle's HISTORY OF CIVILIZATION. Vol. III.
-54 Adam Smith's WEALTH OF NATIONS. Vol. I. Complete in 2 Vols.
-55 Gibbon's ROMAN EMPIRE. Vol. IV.
-56 Chaucer's WORKS. Vol. II.
-57 Hazlitt's SPIRIT OF THE AGE.
-58 Browning's POETICAL WORKS. Vol. I.
-59 Adam Smith's WEALTH OF NATIONS. Vol. II.
-60 THE MEDITATIONS OF MARCUS AURELIUS. (<hi rend="italic">Not ready.</hi>)
-61 Holmes' AUTOCRAT OF THE BREAKFAST-TABLE
-62 Carlyle's ON HEROES.
-63 George Eliot's ADAM BEDE.
-64 Gibbon's ROMAN EMPIRE. Vol. V.</item></list>
+<list><item>1 Charlotte Bronte's JANE EYRE. 3rd Impression.<lb/>2 Lamb's ESSAYS OF ELIA. 4th Impression.<lb/>3 Tennyson's POEMS, 1830-58. 3rd Impression.<lb/>4 Goldsmith's VICAR OF WAKEFIELD. 2nd Impression.<lb/>5 Hazlitt's TABLE TALK. 3rd Impression.<lb/>6 Emerson's ESSAYS. 3rd Impression.<lb/>7 Keats' POEMS. 2nd Impression.<lb/>8 Dickens' OLIVER TWIST. 2nd Impression.<lb/>9 THE INGOLDSBY LEGENDS. 3rd Impression.<lb/>10 Emily Bronte's WUTHERING HEIGHTS. 2nd Impression.<lb/>11 Darwin's ORIGIN OF SPECIES. 3rd Impression.<lb/>12 Bunyan's PILGRIM'S PROGRESS. 2nd Impression.<lb/>13 ENGLISH SONGS AND BALLADS. Compiled by T. W. H. CROSLAND. 2nd Impression.<lb/>14 Charlotte Bronte's SHIRLEY. 2nd Impression.<lb/>15 Hazlitt's SKETCHES AND ESSAYS. 2nd Impression.<lb/>16 Herrick's POEMS. 2nd Impression.<lb/>17 Defoe's ROBINSON CRUSOE. 2nd Imp.<lb/>18 Pope's ILIAD OF HOMER. 2nd Impression.<lb/>19 Carlyle's SARTOR RESARTUS. 2nd Impression<lb/>20 Swift's GULLIVER'S TRAVELS. 2nd Impression.<lb/>21 Poe's TALES OF MYSTERY AND IMAGINATION. 2nd Impression.<lb/>22 White's HISTORY OF SELBORNE. 2nd Impression.<lb/>23 De Quincey's OPIUM EATER. 2nd Impression.<lb/>24 Bacon's ESSAYS. 2nd Impression.<lb/>25 Hazlitt's WINTERSLOW.<lb/>26 Hawthorne's SCARLET LETTER.<lb/>27 Macaulay's LAYS OF ANCIENT ROME.<lb/>28 Thackeray's HENRY ESMOND. 2nd Impression.<lb/>29 Scott's IVANHOE. 2nd Impression.<lb/>30 Emerson's ENGLISH TRAITS.<lb/>31 George Eliot's MILL ON THE FLOSS. 2nd Impression.<lb/>32 SELECTED ENGLISH ESSAYS. Chosen and arranged by W. PEACOCK. 2nd Impression.<lb/>33 Hume's ESSAYS. 2nd Impression.<lb/>34 Burns' POEMS. 2nd Impression.<lb/>35 Gibbon's ROMAN EMPIRE. Vol. I. Complete in 7 Vols. 2nd Impression.<lb/>36 Pope's ODYSSEY OF HOMER.<lb/>37 Dryden's VIRGIL.<lb/>38 Dickens' TALE OF TWO CITIES.<lb/>39 Longfellow's POEMS. Vol. I. Complete in 3 Vols.</item><item>40 Sterne's TRISTRAM SHANDY.<lb/>41 Buckle's HISTORY OF CIVILIZATION. Vol. I. Complete in 3 Vols. 2nd Impression.<lb/>42 Chaucer's WORKS. Vol. I. From the Text of Prof. <hi rend="smallcaps">Skeat</hi>. (<hi rend="italic">By permission of the Oxford University Press.</hi>) Complete in 3 Vols.<lb/>43 Machiavelli's THE PRINCE. Translated by <hi rend="smallcaps">Luigi Ricci</hi>.<lb/>44 Gibbon's ROMAN EMPIRE. Vol. II. 2nd Impression.<lb/>45 ENGLISH PROSE. From Mandeville to Ruskin. Chosen and arranged by W. <hi rend="smallcaps">Peacock</hi>.<lb/>46 ESSAYS AND LETTERS BY Leo Tolstoy. Translated by <hi rend="smallcaps">Aylmer Maude</hi>. 2nd Impression.<lb/>47 Charlotte Bronte's VILLETTE.<lb/>48 Buckle's HISTORY OF CIVILIZATION. Vol. II.<lb/>49 Thomas à Kempis' OF THE IMITATION OF CHRIST.<lb/>50 Thackeray's BOOK OF SNOBS.<lb/>51 Gibbon's ROMAN EMPIRE. Vol. III.<lb/>52 Watts-Dunton's AYLWIN.<lb/>53 Buckle's HISTORY OF CIVILIZATION. Vol. III.<lb/>54 Adam Smith's WEALTH OF NATIONS. Vol. I. Complete in 2 Vols.<lb/>55 Gibbon's ROMAN EMPIRE. Vol. IV.<lb/>56 Chaucer's WORKS. Vol. II.<lb/>57 Hazlitt's SPIRIT OF THE AGE.<lb/>58 Browning's POETICAL WORKS. Vol. I.<lb/>59 Adam Smith's WEALTH OF NATIONS. Vol. II.<lb/>60 THE MEDITATIONS OF MARCUS AURELIUS. (<hi rend="italic">Not ready.</hi>)<lb/>61 Holmes' AUTOCRAT OF THE BREAKFAST-TABLE<lb/>62 Carlyle's ON HEROES.<lb/>63 George Eliot's ADAM BEDE.<lb/>64 Gibbon's ROMAN EMPIRE. Vol. V.</item></list>
 <p rend="center">(<hi rend="italic">The above are ready.</hi>)</p>
-<list><item>65 Montaigne's ESSAYS. Vol. I. Complete in 3 Vols.
-66 Borrow's LAVENGRO.
-67 Anne Bronte's TENANT OF WILD FELL HALL.
-68 Thoreau's WALDEN.
-69 Gibbon's ROMAN EMPIRE. Vol. VI.
-70 Montaigne's ESSAYS. Vol. II.
-71 Burke's WORKS. Vol. I.
-72 Coleridge's LECTURES ON SHAKESPEARE, etc.
-73 THE MEMOIRS OF BENVENUTO CELLINI.
-74 Gibbon's ROMAN EMPIRE. Vol. VII. (with Index).
-75 Kinglake's EOTHEN.
-76 Chaucer's WORKS. Vol. III.
-77 Montaigne's ESSAYS. Vol. III.
-78 DON QUIXOTE. Vol. I.
-79 Borrow's BIBLE IN SPAIN.</item></list>
+<list><item>65 Montaigne's ESSAYS. Vol. I. Complete in 3 Vols.<lb/>66 Borrow's LAVENGRO.<lb/>67 Anne Bronte's TENANT OF WILD FELL HALL.<lb/>68 Thoreau's WALDEN.<lb/>69 Gibbon's ROMAN EMPIRE. Vol. VI.<lb/>70 Montaigne's ESSAYS. Vol. II.<lb/>71 Burke's WORKS. Vol. I.<lb/>72 Coleridge's LECTURES ON SHAKESPEARE, etc.<lb/>73 THE MEMOIRS OF BENVENUTO CELLINI.<lb/>74 Gibbon's ROMAN EMPIRE. Vol. VII. (with Index).<lb/>75 Kinglake's EOTHEN.<lb/>76 Chaucer's WORKS. Vol. III.<lb/>77 Montaigne's ESSAYS. Vol. III.<lb/>78 DON QUIXOTE. Vol. I.<lb/>79 Borrow's BIBLE IN SPAIN.</item></list>
 <pb xml:id="page-7" n="7"/><p rend="heading">ESSAYS AND<lb/>LETTERS</p>
 <p rend="heading">BY<lb/>LEO TOLSTOY</p>
 <p rend="heading">TRANSLATED BY<lb/>AYLMER MAUDE</p>
@@ -196,16 +119,16 @@
 <p rend="toc_entry">XIV.*<hi rend="smallcaps">A Letter to Russian Liberals</hi> . . . 193</p>
 <p rend="toc_entry">XV.*<hi rend="smallcaps">Timothy Bóndaref</hi> . . . . . 210</p>
 <p rend="table_caption"><hi rend="smallcaps">PAGE</hi></p>
-<p rend="toc_entry"><hi rend="smallcaps">xvi.</hi><ref xml:id="fnref-p0013-1" type="noteref" target="#fn-p0013-1">*</ref><hi rend="smallcaps">Letters on Henry George</hi> . , . 213</p>
+<p rend="toc_entry"><hi rend="smallcaps">xvi.</hi><hi rend="sup">*</hi><hi rend="smallcaps">Letters on Henry George</hi> . , . 213</p>
 <p rend="toc_entry"><hi rend="smallcaps">xvii. Modern Science</hi> . . . . . 219</p>
-<p rend="toc_entry"><hi rend="smallcaps">xviii.</hi><ref xml:id="fnref-p0013-1-2" type="noteref" target="#fn-p0013-1">*</ref><hi rend="smallcaps">Letter to a Non-commissioned Officer</hi> . 230</p>
-<p rend="toc_entry"><hi rend="smallcaps">xix.</hi><ref xml:id="fnref-p0013-1-3" type="noteref" target="#fn-p0013-1">*</ref><hi rend="smallcaps">Patriotism and Government</hi> . . . 238</p>
-<p rend="toc_entry"><hi rend="smallcaps">xx.</hi><ref xml:id="fnref-p0013-1-4" type="noteref" target="#fn-p0013-1">*</ref>‘<hi rend="smallcaps">Thou shalt not kill</hi>’ . . . . 262</p>
-<p rend="toc_entry"><hi rend="smallcaps">xxi.</hi><ref xml:id="fnref-p0013-1-5" type="noteref" target="#fn-p0013-1">*</ref><hi rend="smallcaps">To the Tsar and his Assistants</hi> . . 270</p>
-<p rend="toc_entry"><hi rend="smallcaps">xxii.</hi><ref xml:id="fnref-p0013-1-6" type="noteref" target="#fn-p0013-1">*</ref><hi rend="smallcaps">A Reply to the Synod’s Edict of Excom-</hi><lb/><hi rend="smallcaps">munication</hi> . . . . . . 277</p>
-<p rend="toc_entry"><hi rend="smallcaps">xxiii.</hi><ref xml:id="fnref-p0013-1-7" type="noteref" target="#fn-p0013-1">*</ref><hi rend="smallcaps">What is Religion, and wherein lies its</hi><lb/><hi rend="smallcaps">Essence</hi>? . . . . . . . 288</p>
-<p rend="toc_entry"><hi rend="smallcaps">xxiv.</hi><ref xml:id="fnref-p0013-1-8" type="noteref" target="#fn-p0013-1">*</ref><hi rend="smallcaps">Letter on Education</hi> . . . . 338</p>
-<p rend="toc_entry"><hi rend="smallcaps">xxv.</hi><ref xml:id="fnref-p0013-1-9" type="noteref" target="#fn-p0013-1">*</ref><hi rend="smallcaps">An Appeal to the Clergy</hi> . . . 341</p>
+<p rend="toc_entry"><hi rend="smallcaps">xviii.</hi><hi rend="sup">*</hi><hi rend="smallcaps">Letter to a Non-commissioned Officer</hi> . 230</p>
+<p rend="toc_entry"><hi rend="smallcaps">xix.</hi><hi rend="sup">*</hi><hi rend="smallcaps">Patriotism and Government</hi> . . . 238</p>
+<p rend="toc_entry"><hi rend="smallcaps">xx.</hi><hi rend="sup">*</hi>‘<hi rend="smallcaps">Thou shalt not kill</hi>’ . . . . 262</p>
+<p rend="toc_entry"><hi rend="smallcaps">xxi.</hi><hi rend="sup">*</hi><hi rend="smallcaps">To the Tsar and his Assistants</hi> . . 270</p>
+<p rend="toc_entry"><hi rend="smallcaps">xxii.</hi><hi rend="sup">*</hi><hi rend="smallcaps">A Reply to the Synod’s Edict of Excom-</hi><lb/><hi rend="smallcaps">munication</hi> . . . . . . 277</p>
+<p rend="toc_entry"><hi rend="smallcaps">xxiii.</hi><hi rend="sup">*</hi><hi rend="smallcaps">What is Religion, and wherein lies its</hi><lb/><hi rend="smallcaps">Essence</hi>? . . . . . . . 288</p>
+<p rend="toc_entry"><hi rend="smallcaps">xxiv.</hi><hi rend="sup">*</hi><hi rend="smallcaps">Letter on Education</hi> . . . . 338</p>
+<p rend="toc_entry"><hi rend="smallcaps">xxv.</hi><hi rend="sup">*</hi><hi rend="smallcaps">An Appeal to the Clergy</hi> . . . 341</p>
 <p rend="toc_entry"><hi rend="smallcaps">xxvi. Thoughts selected from private letters</hi>:</p>
 <p rend="toc_entry"><hi rend="smallcaps">Two views of Life</hi> . . . . 365</p>
 <p rend="toc_entry"><hi rend="smallcaps">Matter is the Limit of Spirit</hi> . . 366</p>
@@ -215,9 +138,6 @@
 <p rend="toc_entry"><hi rend="smallcaps">The Way to know God and the Soul</hi> . 368</p>
 <p rend="toc_entry"><hi rend="smallcaps">Index</hi> . . . . . . . 370</p>
 <p>The articles marked in the above Table of Contents with an asterisk (*) are not included in the Moscow editions of Tolstoy’s works ; being, for the most part, prohibited in Russia.</p>
-</div>
-<div xml:id="notes-sec-01" type="notes"><head>Notes</head>
-<note place="foot" xml:id="fn-p0013-1" n="*"><p>T. M. Bóndaref was born a serf in 1820. In 1858 he was sent to serve for twenty-five years in the army, but joining the sect of ‘Sabbatarians’ (who accept the Old Testament as authoritative, and follow the Jewish faith in many things), he was banished in 1867 to Údina in Siberia. There, as a ploughman of great energy, he built up for himself a fairly comfortable peasant home, but again impoverished himself by efforts to spread his doctrine of ‘bread-labour.’ His book could not be published in Russia, but has been translated into French and other languages. Another title Bóndaref gave to his book is ‘The Agriculturist’s Triumph.’</p></note>
 </div>
 </div>
     </front>
@@ -229,7 +149,7 @@
 <head rend="center">I</head>
 <head rend="center">INDUSTRY AND IDLENESS</head>
 <opener><epigraph><p>‘In the sweat of thy face shalt thou eat bread, till thou<lb/>return unto the ground ; for out of it wast thou taken.’—<lb/><hi rend="smallcaps">Gen.</hi> iii. 19.</p></epigraph></opener>
-<p><hi rend="smallcaps">The</hi> above are the title and the epigraph of a book by Timothy Mihàylovitch Bóndaref<ref xml:id="fnref-p0013-1-10" type="noteref" target="#fn-p0013-1">*</ref> which I have read in manuscript.</p>
+<p><hi rend="smallcaps">The</hi> above are the title and the epigraph of a book by Timothy Mihàylovitch Bóndaref<ref xml:id="fnref-p0013-1" type="noteref" target="#fn-p0013-1">*</ref> which I have read in manuscript.</p>
 <p rend="indented">That book seems to me very remarkable for its strength, its clearness, and the beauty of its language, as well as for a sincerity of conviction that is apparent in every line, but above all for the importance, truth, and depth of its fundamental thought.</p>
 <pb xml:id="page-14" n="2"/><p rend="indented">The fundamental thought of the book is the following: In all the affairs of life the important thing is to know, not what is good and necessary, but what of all the good and necessary things in existence comes first in importance, what second, what third, and so on.</p>
 <p rend="indented">If that is important in worldly affairs, yet more is it important in matters of faith, which define man's duties.</p>
@@ -304,6 +224,7 @@
 <pb xml:id="page-28" n="16"/><p rend="heading">II</p>
 </div>
 <div xml:id="notes-sec-02" type="notes"><head>Notes</head>
+<note place="foot" xml:id="fn-p0013-1" n="*"><p>T. M. Bóndaref was born a serf in 1820. In 1858 he was sent to serve for twenty-five years in the army, but joining the sect of ‘Sabbatarians’ (who accept the Old Testament as authoritative, and follow the Jewish faith in many things), he was banished in 1867 to Údina in Siberia. There, as a ploughman of great energy, he built up for himself a fairly comfortable peasant home, but again impoverished himself by efforts to spread his doctrine of ‘bread-labour.’ His book could not be published in Russia, but has been translated into French and other languages. Another title Bóndaref gave to his book is ‘The Agriculturist’s Triumph.’</p></note>
 <note place="foot" xml:id="fn-p0017-1" n="*"><p>Saints' days are numerous in Russia, but on the other hand, no Saturday or other weekly half-holiday is customary, so that the total time allowed for holidays comes to much the same in Russia as in England.</p></note>
 </div>
 </div>
@@ -1881,9 +1802,11 @@
 </div>
       <div xml:id="sec-sec-21" type="chapter">
 <head>XXVI. Thoughts selected from private letters</head>
-<div xml:id="div-unit-0043" type="letter_excerpt">
+<div xml:id="div-unit-0043" type="editorial">
 <pb xml:id="page-377" n="365"/><head rend="center">XXVI</head>
 <head rend="center">THOUGHTS SELECTED FROM PRIVATE<lb/>LETTERS</head>
+</div>
+<div xml:id="div-unit-0044" type="letter_excerpt">
 <head rend="center"><hi rend="smallcaps">Two Views of Life.</hi></head>
 <p><hi rend="smallcaps">There</hi> are only two strictly logical views of life : one, a false one, which understands life to mean those visible phenomena that occur in our bodies from the time of birth to the time of death ; the other, a true one, which understands life to be the invisible consciousness which dwells within us. One view is false, the other true, but both are logical.</p>
 <p rend="indented">The first of these views, the false one, which understands life to mean the phenomena visible in our bodies from birth till death, is as old as the world. It is not, as many people suppose, a view of life produced by the materialistic science and philosophy of our day ; our science and philosophy have only carried that conception to its furthest limits, making more obvious than ever the incompatibility of that view of life with the fundamental demands of human nature, but it is a very old and primitive view, held by men on the lowest level of development. It was expressed by Chinese, by Buddhists, and by Jews, and in the Book of Job.</p>
@@ -1892,20 +1815,20 @@
 <p rend="indented">The other view of life is this. Life is only what I am conscious of in myself. And I am always conscious of my life, not as something that has been or will be (that is how I <hi rend="italic">reflect</hi> on my life), but when I am <hi rend="italic">conscious</hi> of it, I feel that—I <hi rend="italic">am</hi>—never beginning anywhere, never ending anywhere. With the consciousness of my life, conceptions of time and space do not blend. My life manifests itself in time and space, but that is only its <hi rend="italic">manifestation.</hi> Life itself, as I am conscious of it, is something I perceive apart from time and space. So that, in this view of life, we get just the contrary result: not that consciousness of life is a phantom, but that everything relating to time and space is of the nature of a phantom.</p>
 <p rend="indented">Therefore, in this view, the cessation of my physical existence in time and space has no reality, and cannot end, or even hinder, my true life. And, according to this view, death does not exist.</p>
 </div>
-<div xml:id="div-unit-0044" type="letter_excerpt">
+<div xml:id="div-unit-0045" type="letter_excerpt">
 <head rend="center"><hi rend="smallcaps">Matter is the Limit of Spirit.</hi></head>
 <p rend="indented">The material form in which the awakening of our consciousness of true life finds us in this world, is, so <pb xml:id="page-379" n="367"/> to speak, the boundary limiting the free development of our spirit.</p>
 <p rend="indented">Matter is the limit of spirit. But true life is the destruction of this limitation.</p>
 <p rend="indented">In this understanding of life lies the very essence of the understanding of truth—that essence which gives man the consciousness of eternal life.</p>
 <p rend="indented">Materialists mistake that which limits life, for life itself.</p>
 </div>
-<div xml:id="div-unit-0045" type="letter_excerpt">
+<div xml:id="div-unit-0046" type="letter_excerpt">
 <head rend="center"><hi rend="smallcaps">The Scaffolding.</hi></head>
 <p rend="indented">We must remind ourselves as often as possible that our true life is not this external, material life that passes before our eyes here on earth, but that it is the inner life of our spirit, for which the visible life serves only as a scaffolding—a necessary aid to our spiritual growth. The scaffolding itself is only of temporary importance, and, after it has served its purpose, is no longer wanted, but even becomes a hindrance.</p>
 <p rend="indented">Seeing before him an enormously high and elaborately constructed scaffolding, while the building itself only just shows above its foundations, man is apt to make the mistake of attaching more importance to the scaffolding than to the building for the sake of which, alone, this temporary scaffolding has been put up.</p>
 <p rend="indented">We must remind ourselves and one another, that the scaffolding has no meaning or importance, except to make possible the erection of the building itself.</p>
 </div>
-<div xml:id="div-unit-0046" type="letter_excerpt">
+<div xml:id="div-unit-0047" type="letter_excerpt">
 <head rend="center"><hi rend="smallcaps">The Life of the Spirit.</hi></head>
 <p rend="indented">There are moments when one ceases to believe in spiritual life.</p>
 <p rend="indented">This is not unbelief, but rather periods of belief in physical life.</p>
@@ -1915,13 +1838,13 @@
 <p rend="indented">But these moments of illusion are not enough to convince me that what goes on before me (in my physical life) is really happening.</p>
 <p rend="indented">At times when one's spirit sinks, one must treat one's self as one treats an invalid—and keep quiet !</p>
 </div>
-<div xml:id="div-unit-0047" type="letter_excerpt">
+<div xml:id="div-unit-0048" type="letter_excerpt">
 <head rend="center"><hi rend="smallcaps">The Fear of Death.</hi></head>
 <p rend="indented">It is generally supposed that there is something mystical in our view of life and death. But there is nothing of the kind.</p>
 <p rend="indented">I like my garden, I like reading a book, I like caressing a child. By dying I lose all this, and therefore I do not wish to die, and I fear death.</p>
 <p rend="indented">It may be that my whole life consists of such temporary worldly desires and their gratification. If so, I cannot help being afraid of what will end these desires. But if these desires and their gratification have given way and been replaced in me by another desire—the desire to do the will of God, to give myself to Him in my present state, and in any possible future state—then the more my desires have changed, the less I fear death, and the less does death exist for me. And if my desires be completely transformed, then nothing but life remains, and there is no death. To replace what is earthly and temporary by what is eternal is the way of life, and along it we must travel. But in what state his own soul is—each one knows for himself.</p>
 </div>
-<div xml:id="div-unit-0048" type="letter_excerpt">
+<div xml:id="div-unit-0049" type="letter_excerpt">
 <head rend="center"><hi rend="smallcaps">The Way to know God and the Soul.</hi></head>
 <p rend="indented">God and the Soul are known by me in the same way that I know infinity : not by means of definitions, but <pb xml:id="page-381" n="369"/> in quite another way. Definitions only destroy for me that knowledge. Just as I know assuredly that there is an infinity of numbers, so do I know that there is a God, and that I have a soul. For me this knowledge is indubitable, simply because I am led to it unavoidably.</p>
 <p rend="indented">To the certainty of the infinity of numbers, I am led by addition.</p>
@@ -1934,7 +1857,7 @@
 <p rend="indented">From whatever side I approach God, it will always be the same. The origin of my thoughts, my reason, is God. The origin of my love, is also He. The origin of matter, is He too.</p>
 <p rend="indented">It is the same with the conception of the soul. If I consider my striving after truth, I know that this striving after truth is my immaterial basis—my soul. If I turn to my feelings of love for goodness, I know that it is my soul which loves.</p>
 </div>
-<div xml:id="div-unit-0049" type="editorial">
+<div xml:id="div-unit-0050" type="editorial">
 <p rend="indented">These ‘Thoughts’ are taken from the 1903 Moscow edition of Tolstoy’s works, and (except ‘Two Views,’ which compare with chapter xvii. of ‘On Life’) are new in English.</p>
 </div>
 </div>
@@ -1942,7 +1865,7 @@
     <back>
       <div xml:id="sec-sec-22" type="index">
 <head>Index</head>
-<div xml:id="div-unit-0050" type="apparatus">
+<div xml:id="div-unit-0051" type="apparatus">
 <pb xml:id="page-382" n="370"/><head rend="center">INDEX</head>
 <p rend="index_entry"><hi rend="smallcaps">Absolution</hi>, 282<lb/>Administrative order, 202<lb/>Alexander II., 195, 201, 203, 262<lb/>Alexander III., 201, 203<lb/>Ambrosius, Bishop of Khárkof, 284<lb/>Anarchists, 264<lb/>Aquinas, Saint Thomas, 59<lb/>Augustine, Saint, 135<lb/><lb/>Ballou, Adin, 177<lb/>Bax, E. Belfort, 238<lb/>Bayle, Pierre, 293<lb/>Bekétof, Professor, 149<lb/>Belief, Tolstoy's, 285, 286<lb/>Berthelot, P. E. M., 289, 290<lb/>Bóndaref, T. M., 1-15, 210 <hi rend="italic">et seq.</hi><lb/>Brahmanism, 138, 294, 296, 299<lb/>Bread-labour, 5, <hi rend="italic">et seq.</hi><lb/>Brullóf, K. P., 28<lb/>Buddhism, 134, 138, 143, 294, 296, 299, 328</p>
 <p rend="index_entry">Capital punishment, 202, 273<lb/>Carpenter, Edward, 219 <hi rend="italic">et seq.</hi><lb/>Catherine the Great, 251<lb/>Chastity, 41, 42, 314<lb/><hi rend="italic">Christian Non-Resistance</hi>, 177<lb/>Christ's Five Commandments, 9<lb/>Christ's teaching, 43, 44, 56, 57, 180, 235<lb/>Christ's use of scourge, 177<lb/>Church Christianity, 143, 296<lb/>Church doctrine, 279<lb/>Church sorceries, 280-282<lb/><hi rend="italic">Civilization: Its Cause and Cure</hi>, 219<lb/>Coleridge, S. T., 277, 287<lb/>Comte, Auguste, 130, 138, 224<lb/>Consciousness, 365<lb/>Constant, B., de Rebeque, 293<lb/>Constantine the Great, 231</p>
@@ -1957,7 +1880,7 @@
 </div>
       <div xml:id="sec-sec-23" type="backmatter">
 <head>Colophon</head>
-<div xml:id="div-unit-0051" type="apparatus">
+<div xml:id="div-unit-0052" type="apparatus">
 <p rend="imprint">BILLING AND SONS, LTD., PRINTERS, GUILDFORD.</p>
 </div>
 </div>

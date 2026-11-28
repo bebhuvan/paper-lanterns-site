@@ -229,8 +229,7 @@ XI. <span class="small-caps">Edgar Allan Poe, Baltimore, May 20, 1829, to John A
 XII. <span class="small-caps">Edgar Allan Poe, Baltimore, May 29, 1829, to John Allan</span> . . . . . . . . . . . . . . . . . . 133  
 <span class="small-caps">Fac-simile</span> . . . . . . . . . . . . . . . . . 137
 
-| LETTER PAGE |
-| --- |
+**LETTER PAGE**
 
 XIII. E<span class="small-caps">DGAR</span> A<span class="small-caps">LLAN</span> P<span class="small-caps">OE</span>, B<span class="small-caps">ALTIMORE</span>, J<span class="small-caps">UNE</span> 25, 1829, <span class="small-caps">TO</span> J<span class="small-caps">OHN</span> A<span class="small-caps">LLAN</span> . . . . . . . . . . . . . . . 145  
 F<span class="small-caps">AC-SIMILE</span> . . . . . . . . . . . . . . 149
@@ -274,8 +273,7 @@ F<span class="small-caps">AC-SIMILE</span> . . . . . . . . . . . . . . 271
 XXVI. E<span class="small-caps">DGAR</span> A<span class="small-caps">LLAN</span> P<span class="small-caps">OE</span>, B<span class="small-caps">ALTIMORE</span>, O<span class="small-caps">CTOBER</span> 16, 1831, <span class="small-caps">TO</span> J<span class="small-caps">OHN</span> A<span class="small-caps">LLAN</span> . . . . . . . . . . . . . 279  
 F<span class="small-caps">AC-SIMILE</span> . . . . . . . . . . . . . . 283
 
-| <span class="small-caps">Letter</span> <span class="small-caps">Page</span> |
-| --- |
+**<span class="small-caps">Letter</span> <span class="small-caps">Page</span>**
 
 XXVII. <span class="small-caps">Edgar Allan Poe, Baltimore, November</span> 18, 1831, <span class="small-caps">to John Allan</span> . . . . . . . . . . . 291
 
@@ -429,7 +427,7 @@ Dear Sir,
 I this morning received the clothes you sent me, viz an uniform coat, six yards of striped cloth for pantaloons & four pair of socks—The coat is a beautiful one & fits me exactly—I thought it best not to write ’till I received the clothes—or I should have written before this—You have heard no doubt of the disturbances in College—Soon after you left here the Grand Jury met and put the students in a terrible fright—so much so that the lectures were unattended—and those whose names were upon the Sheriff’s list—travelled off into the woods & mountains—taking their beds & provisions along with them—there were about 50 on the list—so you may suppose the College was very well thinn’d—this was the first day of the fright—the second day “A proclamation” was issued by the faculty forbidding “any student under pain of a major punishment to leave his dormitory between the hours of 8 & 10 A M—(at which time the Sheriffs would be about) or in any way to resist the lawful authority of the Sheriffs”—This order however was very little attended to—as the fear of the Faculty could not counterbalance that of the Grand Jury—most of the “indicted” ran off a second time into the woods—and upon an examination the next morning by the Faculty—Some were reprimanded—some suspended—and one expelled—James Albert Clarke from Manchester (I went to school with him at Burke’s) was suspended for two months. Armstead Carter from this neighbourhood, for the remainder of the session—And Thomas Barclay for ever—There have ^been several fights since you were here—One between Turner Dixon, and Blow from Norfolk excited more interest than any I have seen, for a common fight is so trifling an occurrence that no notice is taken of it—Blow got much the advantage in the scuffle—but Dixon posted him in very indecent terms—upon which the whole Norfolk party rose in arms—& nothing was talked off for a week, but Dixon’s charge & Blow’s explanation—every pillar in the University was white with scratched paper—Dixon made a physical attack upon Arthur Smith one of Blow’s Norfolk friends—and a “very fine fellow”—he struck him with a large stone on one side of his head—whereupon Smith drew a pistol (which are all the fashion here) and had it not missed fire—would have put an end to the controversy—but so it was—it did miss fire—and the matter has since been more peaceably settled—as the Proctor engaged a Magistrate to bind the whole forces on both sides—over to the peace—Give my love to Ma & Miss Nancy—& all my friends—Will you be so good as to send me a copy of the Historiæ of Tacitus—it is a small volume—also some more soap—
 
 I remain  
-Yours affectionly
+    Yours affectionly
 
 Edgar
 
@@ -442,8 +440,8 @@ May 1826
 12½
 
 John Allan Esqr  
-Richmond,  
-Va
+    Richmond,  
+        Va
 
 care Wm & Wm Galt Jr.
 
@@ -835,7 +833,7 @@ I shall wait with impatience for an answer to this letter for upon it depend a g
 Give my love to Ma—
 
 I am  
-Yours affectionately
+    Yours affectionately
 
 Edgar A Poe
 
@@ -895,7 +893,7 @@ me in the morning of my departure I went to your room to tell you goodbye—but,
 My respects to Mʳ & Mʳˢ Galt & Mʳ Wᵐ Galt.
 
 I am, dear Pa,  
-Yours affectionately
+    Yours affectionately
 
 Edgar A. Poe
 
@@ -903,9 +901,9 @@ Edgar A Poe
 Mar 10th 1829
 
 To  
-John Allan Esq.,  
-Richmond  
-Va
+    John Allan Esq.,  
+        Richmond  
+            Va
 
 *[Illustration, p. 141]*
 
@@ -954,7 +952,7 @@ He perhaps remembered you when you were at the Springs in 1812, from the interes
 Yrs
 
 John Allan  
-P L D
+    P L D
 
 Copy of a  
 Letter to Edgar Poe  
@@ -984,8 +982,8 @@ Presuming upon Mr. Wirt’s former acquaintance, I introduced myself personally 
 I have been introduced to many gentlemen of high standing in the city, who were formerly acquainted with my grandfather, & have altogether been treated very handsomely.
 
 Give my best love to Miss Valentine & all at home—  
-I remain  
-Yours affectionately
+    I remain  
+        Yours affectionately
 
 Edgar A. Poe
 
@@ -1188,8 +1186,8 @@ I sometimes am afraid that you are angry & perhaps you have reason to be—but i
 You would relieve me from a great deal of anxiety by writing me soon—I think I have already had my share of trouble for one so young—
 
 I am  
-Dear Pa  
-Yours affectionately
+    Dear Pa  
+        Yours affectionately
 
 Edgar A. Poe
 
@@ -1280,7 +1278,7 @@ By your last letter I understood that it was not your wish that I should return 
 Perhaps the time may come when you will find that I have not deserved ½ the misfortunes which have happened to me & that you suspected me unworthily
 
 I am  
-Yours &c
+    Yours &c
 
 Edgar A. Poe
 
@@ -1327,8 +1325,8 @@ I left behind me in Richmond a small trunk containing books & some letters—wil
 Give my love to Miss Valentine—
 
 I remain  
-Dear Pa  
-Yours affectionately
+    Dear Pa  
+        Yours affectionately
 
 Edgar A. Poe
 
@@ -1399,7 +1397,7 @@ I would have sent you the M. S. of my poems long ago for your approval, but sinc
 I am sorry that your letters to me have still with them a tone of anger as if my former errors were not forgiven—if I knew how to regain your affection God knows I would do any thing I could—
 
 I am  
-Yours affectionately
+    Yours affectionately
 
 Edgar A. Poe
 
@@ -1443,7 +1441,7 @@ I hope the letter I wrote last was received in which you will see that I have cl
 Hoping that you will not forget to write as soon as you receive this
 
 I am   Dear Pa  
-Yours affectionately
+    Yours affectionately
 
 Edgar A Poe
 
@@ -1522,7 +1520,7 @@ I am glad to hear that your trip to the Springs was of service in recruiting you
 Give my love to Miss V.—
 
 I remain Dear Pa,  
-Yours affectionately
+    Yours affectionately
 
 Edgar A Poe
 
@@ -1563,7 +1561,7 @@ I suppose some of the officers told you that I am a cadet—If you are—at any 
 Give my respects to the company to Sᵗ Benton & wife & sister in law
 
 I remain  
-Yrs truly
+    Yrs truly
 
 E A Poe
 
@@ -1615,8 +1613,8 @@ Upon arriving here I delivered my letters of recommⁿ & was very politely recei
 Please present my respects to Mʳ & Mʳˢ Jas: Galt, Miss Valentine & Miss Carter.
 
 I remain  
-respectfully & truly  
-Yours
+    respectfully & truly  
+        Yours
 
 Edgar A Poe
 
@@ -1947,7 +1945,7 @@ Dear Sir
 As I am extremely distressed at Edgar’s situation I take the liberty of writing to you once more in his behalf—We have made every exertion for his relief—but our circumstances are too poor to afford him any—I have with great difficulty procured $20 which I will reserve for him, with all my heart—but it is insufficient to extricate him—I beg that you will assist him out of this difficulty and I am sure that it will be a warning for him as long as he lives—to involve himself no further in debt—I am satisfied that except in this instance he does not owe one cent in the world, and would do well if you would relieve him—he is extremely distressed at your refusal to assist him—and has no other resource whatever—as not being a resident of this city he cannot take the benefit of the insolvent laws—I feel deeply interested in him, for he has been extremely kind to me as far as his opportunities would permit—I should consider it as one of the greatest obligations to myself and family if you will be so generous as to assist him for this time only—
 
 I remain  
-respectfully
+    respectfully
 
 Mʳˢ Wm Clemm
 

@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "M. K. Gandhi (comp. & ed. R. L. Khipple)",
  "year": 1947,
  "archive_id": "in.ernet.dli.2015.208999",
@@ -266,27 +269,27 @@
   {
    "format": "epub",
    "file": "gandhi-famous-letters-1947.epub",
-   "bytes": 118741,
-   "sha256": "dcc678b75313f638ea41bddc28e519c79621ecf04ad83d39bf62f5810a27f5f4"
+   "bytes": 118789,
+   "sha256": "57187a188fee8c407f6dd655e2d38ad13d68bd69b3ec4bdf85fd4e4d8b5ac97b"
   },
   {
    "format": "markdown",
    "file": "gandhi-famous-letters-1947.md",
-   "bytes": 156053,
-   "sha256": "299ee8cff275a23fd69f1a071679b8bcd05bc26c0f780c65667c5673f8153afc"
+   "bytes": 156125,
+   "sha256": "9604d81d4e8ce535f8c5487a817919fafb37cb94d3208191d2e9271b2b268740"
   },
   {
    "format": "tei",
    "file": "gandhi-famous-letters-1947.tei.xml",
-   "bytes": 184243,
-   "sha256": "0a5e8bd53e716de604cb29510adfa01ae95f540c5b82245405367aff9a4b1f53"
+   "bytes": 184194,
+   "sha256": "133957d230df32bc9b1efba5b6135411a68ca092b0b81f1adb2f9b27a85a437d"
   }
  ],
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.208999/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:22:05Z",
-  "source_ast_sha256": "6b9569c88ba2c20b146ca870ad8415e7bc972d061935aaddfe83933b1cf00ee3",
+  "compiled_at": "2026-11-27T21:11:28Z",
+  "source_ast_sha256": "af780796a4304a4851f1de6f2046e1ac7e493a121379d6dce142d8e1e523415d",
   "hugo_renderer_version": "1.0.0"
  }
 }

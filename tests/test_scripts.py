@@ -362,6 +362,24 @@ class BuildIndexesTests(unittest.TestCase):
         self.assertEqual(decades["1840s"]["count"], 1)
         self.assertEqual(decades["60s"]["curated"], ["/letters/s"])
 
+    def test_decades_parse_negative_bc_year_zero_and_padded_ce_dates(self) -> None:
+        letters = [
+            {"path": "/collections/plato/1", "book_id": "plato", "iso": "-0365", "names": set()},
+            {"path": "/collections/cicero/1", "book_id": "cicero", "iso": "-0059-04-12", "names": set()},
+            {"path": "/collections/horace/1", "book_id": "horace", "iso": "-0019", "names": set()},
+            {"path": "/collections/zero/1", "book_id": "zero", "iso": "0000-05-01", "names": set()},
+            {"path": "/collections/ovid/1", "book_id": "ovid", "iso": "0008", "names": set()},
+            {"path": "/collections/seneca/1", "book_id": "seneca", "iso": "0064", "names": set()},
+            {"path": "/collections/aug/1", "book_id": "aug", "iso": "0389-05-01", "names": set()},
+        ]
+        by_dec = {d["decade"]: d for d in build_indexes.build_decades(letters, [])}
+        self.assertEqual(sorted(by_dec), [-370, -60, -20, 0, 60, 380])
+        self.assertEqual(by_dec[-370]["slug"], "-370s")
+        self.assertEqual(by_dec[-60]["slug"], "-60s")
+        self.assertEqual(by_dec[0]["count"], 2)
+        self.assertEqual(by_dec[60]["books"][0]["book_id"], "seneca")
+        self.assertEqual(by_dec[380]["books"][0]["book_id"], "aug")
+
 
 class ImportLegacyTests(unittest.TestCase):
     def test_poems_headings_and_short_years_convert_without_losing_words(self) -> None:
@@ -557,9 +575,135 @@ class LetterTemplateContractTests(unittest.TestCase):
             self.assertIn('href="#fn-p0001-1"', html)
             self.assertIn("Cell B", html)
             self.assertIn('class="illu-caption"', html)
-            self.assertIn("[Musical notation]", html)
+            self.assertIn('[Musical notation]', html)
             self.assertIn('href="#fn-p0001-2"', html)
             self.assertEqual(check_site.parse_page(rendered).errors, [])
+
+    def test_hugo_renders_bc_year_zero_and_octal_ce_dates_without_crashing(self) -> None:
+        hugo = shutil.which(os.environ.get("HUGO") or "hugo")
+        self.assertIsNotNone(hugo, "hugo binary must be installed on PATH or HUGO env")
+        site_root = Path(__file__).resolve().parents[1]
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            src, out = root / "site", root / "out"
+            (src / "data").mkdir(parents=True)
+            for name in ("hugo.toml", "layouts", "assets"):
+                (src / name).symlink_to(site_root / name)
+            for dname in ("marked_periods.json", "book-notes.json", "people-notes.json", "wikidata.json", "people-same-person.json"):
+                if (site_root / "data" / dname).is_file():
+                    (src / "data" / dname).symlink_to(site_root / "data" / dname)
+            (src / "content").mkdir()
+            shutil.copyfile(site_root / "content" / "_index.md", src / "content" / "_index.md")
+            # Override featured_letter to point at our fixture letter 1.
+            home_txt = (src / "content" / "_index.md").read_text(encoding="utf-8")
+            (src / "content" / "_index.md").write_text(
+                home_txt.replace("/collections/dostoevsky-family-friends-1914/20", "/collections/ancient-fixture/1"),
+                encoding="utf-8",
+            )
+            for sec in ("explore", "people"):
+                (src / "content" / sec).mkdir()
+                for f in (site_root / "content" / sec).iterdir():
+                    shutil.copyfile(f, src / "content" / sec / f.name)
+            for cur_sec in ("letters", "essays", "lectures", "speeches"):
+                (src / "content" / cur_sec).mkdir()
+                shutil.copyfile(site_root / "content" / cur_sec / "_index.md", src / "content" / cur_sec / "_index.md")
+            coll = src / "content" / "collections"
+            book = coll / "ancient-fixture"
+            book.mkdir(parents=True)
+            (coll / "_index.md").write_text('+++\ntitle = "The collections"\n+++\n', encoding="utf-8")
+            (book / "_index.md").write_text(
+                json.dumps(
+                    {
+                        "title": "Ancient Correspondence",
+                        "layout": "book",
+                        "book_id": "ancient-fixture",
+                        "collection": "world-correspondence",
+                        "authors": ["Marcus Tullius Cicero", "C. R. Haines (ed. & tr.)", "Richard Garnett (pref.)"],
+                        "year": 1919,
+                        "language": "en",
+                        "provenance_tier": "community",
+                        "counts": {"letters": 4, "notes": 0, "pages": 4, "dated_letters": 4},
+                        "quality": {"score": 99.0, "out_of": 100.0, "pillars": []},
+                        "proof": {"total_pages": 4, "p1_proofed": 0, "verified": 0, "machine_reread": 0},
+                        "year_counts": [[-365, 1], [-59, 1], [0, 1], [389, 1]],
+                        "periods": [{"label": "Consular Aftermath", "start": "-0059", "end": "-0043", "count": 1}],
+                        "page_kinds": "LLLL",
+                    }
+                )
+                + "\n",
+                encoding="utf-8",
+            )
+            sample_letters = [
+                (1, "-0365", "366 B.C.", "366 B.C.", ""),
+                (2, "-0059-04-12", "12 April 60 B.C.", "12 · IV · 60 B.C.", "Consular Aftermath"),
+                (3, "0000-05-01", "1 May 1 B.C.", "1 · V · 1 B.C.", ""),
+                (4, "0389-08-15", "15 August 389", "15 · VIII · 389", ""),
+            ]
+            for seq, iso, disp, short, period in sample_letters:
+                (book / f"{seq}.md").write_text(
+                    json.dumps(
+                        {
+                            "title": f"Opening {seq}.",
+                            "heading": f"Letter {seq}",
+                            "page_title": f"Cicero to Atticus, {disp}",
+                            "layout": "letter",
+                            "weight": seq,
+                            "description": f"Ancient fixture {seq}.",
+                            "book_id": "ancient-fixture",
+                            "letter_id": f"letter-000{seq}",
+                            "sequence": seq,
+                            "letter_count": 4,
+                            "section_id": "sec-01",
+                            "letter_date": {"iso": iso, "display": disp, "short": short},
+                            "period": period,
+                            "place": "Rome",
+                            "sender": "Cicero",
+                            "sender_full": "Marcus Tullius Cicero",
+                            "recipient": "Atticus",
+                            "salutation": f"Cicero to Atticus {seq},",
+                            "start_page": seq,
+                            "end_page": seq,
+                            "start_folio": str(seq),
+                            "end_folio": str(seq),
+                            "pages": [{"page": seq, "leaf": seq - 1, "folio": str(seq)}],
+                            "archive_id": "fixture_item",
+                            "blocks": [{"id": f"p000{seq}-b0001", "type": "body", "align": "left", "page": seq, "bbox": [10, 10, 90, 20], "lines": [[{"t": "Salve."}]]}],
+                            "footnotes": [],
+                        }
+                    )
+                    + "\n",
+                    encoding="utf-8",
+                )
+            books_idx = [json.loads((book / "_index.md").read_text(encoding="utf-8"))]
+            letters_idx = [
+                {"path": f"/collections/ancient-fixture/{seq}", "book_id": "ancient-fixture", "iso": iso, "names": {"Marcus Tullius Cicero"}}
+                for seq, iso, _, _, _ in sample_letters
+            ]
+            (src / "data" / "decades.json").write_text(json.dumps(build_indexes.build_decades(letters_idx, [])), encoding="utf-8")
+            (src / "data" / "people.json").write_text(json.dumps(build_indexes.build_people(books_idx, letters_idx, [])), encoding="utf-8")
+            proc = subprocess.run(
+                [str(hugo), "--source", str(src), "--destination", str(out), "--panicOnWarning", "--disableKinds", "RSS,sitemap,taxonomy,term"],
+                capture_output=True,
+                text=True,
+                check=False,
+            )
+            self.assertEqual(proc.returncode, 0, f"{proc.stderr}\n{proc.stdout}")
+            explore_bc = (out / "explore" / "-370s" / "index.html").read_text(encoding="utf-8")
+            self.assertIn("370s B.C.", explore_bc)
+            self.assertNotIn("AD -370s", explore_bc)
+            explore_ce = (out / "explore" / "380s" / "index.html").read_text(encoding="utf-8")
+            self.assertIn("AD 380s", explore_ce)
+            book_html = (out / "collections" / "ancient-fixture" / "index.html").read_text(encoding="utf-8")
+            self.assertIn("Consular Aftermath, 60 B.C.–44 B.C.", book_html)
+            self.assertIn("between 366 B.C. and 389", book_html)
+            letter_html = (out / "collections" / "ancient-fixture" / "2" / "index.html").read_text(encoding="utf-8")
+            self.assertIn('href="/explore/-60s/"', letter_html)
+            haines_html = (out / "people" / "c-r-haines" / "index.html").read_text(encoding="utf-8")
+            self.assertIn("editor and translator", haines_html)
+            garnett_html = (out / "people" / "richard-garnett" / "index.html").read_text(encoding="utf-8")
+            self.assertIn("preface", garnett_html)
+            cicero_html = (out / "people" / "marcus-tullius-cicero" / "index.html").read_text(encoding="utf-8")
+            self.assertIn("(366 B.C.–389)", cicero_html)
 
 
 if __name__ == "__main__":

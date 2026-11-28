@@ -291,8 +291,8 @@
   {
    "format": "epub",
    "file": "mill-letters-vol1-1910.epub",
-   "bytes": 367488,
-   "sha256": "fd22937a1875742405f3724f5f80c07ec140fecbd4f916c4c78b4fe1fd7277b7"
+   "bytes": 367553,
+   "sha256": "c9e0a11795becd0dc45bfcc9c1a42cbcb95c88a7abda889655d8c03945e6f71d"
   },
   {
    "format": "markdown",
@@ -310,7 +310,7 @@
  "scan_base": "https://archive.org/download/lettersofjsmill01milluoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T03:47:38Z",
+  "compiled_at": "2026-11-27T21:13:32Z",
   "source_ast_sha256": "e0d7b86b6266de9a2e9c42b0d2a4b5e57c398c78ecd2d7d0924663afd8f73492",
   "hugo_renderer_version": "1.0.0"
  }

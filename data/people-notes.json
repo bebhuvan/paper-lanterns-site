@@ -29,11 +29,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Albert_Einstein",
     "wikisource": "https://en.wikisource.org/wiki/Author:Albert_Einstein"
   },
+  "alciphron": {
+    "bio": "Greek rhetorician and epistolary stylist whose fictional letters vividly depict the everyday world of Attic fishermen, rustic farmers, witty parasites, and famous courtesans.",
+    "dates": "fl. 2nd or 3rd century A.D.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alciphron"
+  },
   "alexander-von-humboldt": {
     "bio": "Prussian naturalist, geographer, and explorer of South America who saw nature as an interconnected web and maintained one of the largest scientific correspondences of the nineteenth century.",
     "dates": "1769–1859",
     "wikipedia": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt",
     "wikisource": "https://en.wikisource.org/wiki/Author:Friedrich_Wilhelm_Heinrich_Alexander_Freiherr_von_Humboldt"
+  },
+  "alice-zimmern": {
+    "bio": "English classical scholar, suffragist, and alumna of Girton College, Cambridge (title leaf, scan leaf 7), who produced this first English translation of Porphyry's Letter to Marcella together with a thirty-four-page Introduction on Plotinus and Neo-Platonism (scan leaves 21–54, pp. 17–50).",
+    "dates": "1855–1939",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Zimmern",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Alice_Zimmern"
   },
   "anandabai-joshee": {
     "bio": "Physician who sailed from Calcutta to Philadelphia in 1883 to study at the Woman’s Medical College of Pennsylvania, becoming the first Indian woman to qualify in Western medicine.",
@@ -45,6 +56,16 @@
     "dates": "1860–1904",
     "wikipedia": "https://en.wikipedia.org/wiki/Anton_Chekhov",
     "wikisource": "https://en.wikisource.org/wiki/Author:Anton_Pavlovich_Chekhov"
+  },
+  "arthur-leslie-wheeler": {
+    "bio": "American classical scholar, Alumnae Professor of Latin at Bryn Mawr College (and later Professor of Latin at Princeton University), who edited the Latin text and authored the English translation, historical Introduction, and critical notes for this 1924 edition of Ovid's Tristia and Ex Ponto (title leaf, scan leaf 7).",
+    "dates": "1871–1932",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Leslie_Wheeler"
+  },
+  "augustine-fitzgerald": {
+    "bio": "Irish classical scholar and translator who produced the first complete English translations of the Letters and the Essays and Hymns of Synesius of Cyrene for the Oxford University Press.",
+    "dates": "1862–1930",
+    "wikipedia": "https://en.wikipedia.org/wiki/Augustine_FitzGerald"
   },
   "aurangzeb": {
     "bio": "Sixth Mughal Emperor, ruling for forty-nine years (1658–1707) over the empire’s widest territorial span. His private letters reveal a sharp, suspicious, austere, and unexpectedly self-ironic voice.",
@@ -79,6 +100,10 @@
     "dates": "1871–1940",
     "wikipedia": "https://en.wikipedia.org/wiki/Charles_Freer_Andrews",
     "wikisource": "https://en.wikisource.org/wiki/Author:Charles_Freer_Andrews"
+  },
+  "c-r-haines": {
+    "bio": "English classical scholar who edited and produced the first English translation of Fronto's correspondence (2 vols., 1919–1920).",
+    "dates": "1856–1935"
   },
   "c-v-raman": {
     "bio": "Indian physicist awarded the 1930 Nobel Prize in Physics for discovering the Raman effect—the inelastic scattering of light by molecules.",
@@ -158,6 +183,16 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Ethel_Colburn_Mayne",
     "wikisource": "https://en.wikisource.org/wiki/Author:Ethel_Colburn_Mayne"
   },
+  "evelyn-s-shuckburgh": {
+    "bio": "English classical scholar, translator, and Fellow of Emmanuel College, Cambridge, who produced the first comprehensive chronological English translation of Cicero's letters alongside translations of Polybius and works on Roman history.",
+    "dates": "1843–1906",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evelyn_Shuckburgh_(scholar)"
+  },
+  "f-a-wright": {
+    "bio": "English classical scholar and translator, Professor of Classics at Birkbeck College, University of London, who translated numerous Greek and Latin authors and edited the Broadway Translations series.",
+    "dates": "1869–1946",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Adam_Wright"
+  },
   "francis-augustus-macnutt": {
     "bio": "American diplomat and historian of early Spanish America who prepared the first complete English translation of all five letters of relation.",
     "dates": "1863–1927",
@@ -228,6 +263,18 @@
     "wikipedia": "https://en.wikipedia.org/wiki/H._L._Mencken",
     "wikisource": "https://en.wikisource.org/wiki/Author:Henry_Louis_Mencken"
   },
+  "h-rushton-fairclough": {
+    "bio": "Henry Rushton Fairclough, Canadian-born classical scholar and Professor of Classical Literature at Stanford University (title leaf, scan leaf 9), who prepared the English prose translation, analytical epistle introductions, notes, and Index of Proper Names (Preface dated December 15, 1925 and February 4, 1929, scan leaf 14).",
+    "dates": "1862–1938",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Rushton_Fairclough",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Henry_Rushton_Fairclough"
+  },
+  "hammurabi-king-of-babylonia": {
+    "bio": "Sixth Amorite king of the First Dynasty of Babylon (dated in King's 1900 edition to 'about B.C. 2200'; scan leaves 15, 80–81), conqueror of Rim-Sin of Larsa and promulgator of the Code of Hammurabi, whose fifty-five administrative and judicial letters to Sin-idinnam open this volume (scan leaves 85–198, pp. 3–116).",
+    "dates": "r. c. 1792–1750 B.C.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hammurabi",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Hammurabi"
+  },
   "hannah-bryant": {
     "bio": "English translator of Max Kalbeck’s edition of Johannes Brahms’s correspondence with Heinrich and Elisabet von Herzogenberg (1909)."
   },
@@ -268,10 +315,20 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
     "wikisource": "https://en.wikisource.org/wiki/Author:Hern%C3%A1n_Cort%C3%A9s"
   },
+  "horace": {
+    "bio": "Roman lyric poet, satirist, and epistolary philosopher, freedman's son of Venusia who fought under Brutus at Philippi before winning the friendship of Maecenas and receiving the Sabine farm in 33 B.C. (scan leaves 17, 427; pp. xi, 391).",
+    "dates": "65–8 B.C.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Horace",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Horace"
+  },
   "hugh-s-r-elliot": {
     "bio": "English scientific writer chosen by Mill’s literary executrix to prepare the first collected edition of his correspondence.",
     "dates": "1881–1930",
     "wikisource": "https://en.wikisource.org/wiki/Author:Hugh_Samuel_Roger_Elliot"
+  },
+  "j-g-cunningham": {
+    "bio": "Scottish Free Church minister of Lochwinnoch (later of St. Luke's, Edinburgh) who translated the two-volume selection of St. Augustine's Letters (Vols. VI and XIII) for T. & T. Clark's series.",
+    "dates": "1835–1907"
   },
   "j-middleton-murry": {
     "wikipedia": "https://en.wikipedia.org/wiki/John_Middleton_Murry",
@@ -334,11 +391,28 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Dalton_Hooker",
     "wikisource": "https://en.wikisource.org/wiki/Author:Joseph_Dalton_Hooker"
   },
+  "julian-emperor-of-rome": {
+    "bio": "Flavius Claudius Julianus, Roman Emperor (361–363), Neoplatonist philosopher, and author, whose extant letters and polemical treatise Against the Galilaeans survive in this third and final volume of his collected works.",
+    "dates": "331–363",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julian_(emperor)",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Julian"
+  },
   "karl-marx": {
     "bio": "German philosopher, historian, and political economist whose correspondence and pamphlets shaped modern socialist thought.",
     "dates": "1818–1883",
     "wikipedia": "https://en.wikipedia.org/wiki/Karl_Marx",
     "wikisource": "https://en.wikisource.org/wiki/Author:Karl_Marx"
+  },
+  "l-a-post": {
+    "bio": "American classical scholar and longtime Professor of Greek at Haverford College (title leaf, scan leaf 5), translator of the Thirteen Epistles of Plato (1925) and later editor of Menander and scholar of Greek drama and Plato's Laws.",
+    "dates": "1889–1971",
+    "wikipedia": "https://en.wikipedia.org/wiki/Levi_Arnold_Post"
+  },
+  "l-w-king": {
+    "bio": "British Assyriologist, Assistant in the Department of Egyptian and Assyrian Antiquities at the British Museum and later Professor of Assyrian and Babylonian Archaeology at King's College London, who edited, transliterated, and translated this three-volume corpus of First Dynasty letters and inscriptions (scan leaves 15, 17–20).",
+    "dates": "1869–1919",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_William_King",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Leonard_William_King"
   },
   "lajpat-rai": {
     "bio": "Punjabi writer, lawyer, and Indian nationalist leader—known as Punjab Kesari—who wrote widely on Indian self-rule and education.",
@@ -374,6 +448,29 @@
     "bio": "American editor and writer who transcribed and published the earliest posthumous editions of Emily Dickinson’s poems and letters in the 1890s.",
     "dates": "1856–1932",
     "wikipedia": "https://en.wikipedia.org/wiki/Mabel_Loomis_Todd"
+  },
+  "marcus-aurelius": {
+    "bio": "Roman emperor (r. A.D. 161–180) and Stoic philosopher, adopted by Antoninus Pius and made Caesar in A.D. 139, whose youthful correspondence with his rhetoric master Fronto fills the bulk of Volume I.",
+    "dates": "A.D. 121–180",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Marcus_Aurelius"
+  },
+  "marcus-cornelius-fronto": {
+    "bio": "Roman grammarian, rhetorician, and consul suffectus of A.D. 143 (Chronological Table, scan leaf 61), born at Cirta in Numidia, who served as tutor in Latin rhetoric to Marcus Aurelius and Lucius Verus.",
+    "dates": "c. A.D. 100–c. 166/170",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Cornelius_Fronto",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Marcus_Cornelius_Fronto"
+  },
+  "marcus-dods": {
+    "bio": "Scottish Presbyterian theologian, New Testament scholar, and Principal of New College, Edinburgh, who served as general editor of T. & T. Clark's English translation of the Works of Aurelius Augustine.",
+    "dates": "1834–1909",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Dods_(theologian_born_1834)"
+  },
+  "marcus-tullius-cicero": {
+    "bio": "Roman orator, statesman, philosopher, and consul of 63 B.C. whose surviving letters begin in 68 B.C. and chronicle his political ascent, exile in 58–57 B.C., and entanglement with the First Triumvirate.",
+    "dates": "106–43 B.C.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cicero",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Marcus_Tullius_Cicero"
   },
   "mark-twain": {
     "bio": "Pen name of Samuel Langhorne Clemens—American novelist, satirist, and inveterate letter-writer whose private notes are as sharp and irreverent as his books.",
@@ -433,11 +530,22 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Napoleon",
     "wikisource": "https://en.wikisource.org/wiki/Author:Napoleon_Bonaparte"
   },
+  "o-m-dalton": {
+    "bio": "Ormonde Maddock Dalton, British archaeologist and classical scholar, Keeper of British and Mediaeval Antiquities at the British Museum, who produced the first complete English translation of the letters of Sidonius Apollinaris.",
+    "dates": "1866–1945",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ormonde_Maddock_Dalton"
+  },
   "oscar-wilde": {
     "bio": "Irish poet, playwright, and wit whose letters move from sparkling London epigrams to the anguished self-reckoning of De Profundis, written in Reading Gaol.",
     "dates": "1854–1900",
     "wikipedia": "https://en.wikipedia.org/wiki/Oscar_Wilde",
     "wikisource": "https://en.wikisource.org/wiki/Author:Oscar_O'Flahertie_Wills_Wilde"
+  },
+  "ovid": {
+    "bio": "Roman elegiac poet born at Sulmo (Sulmona) on March 20, 43 B.C., of equestrian rank (Introduction, scan leaf 11, p. vii; Tristia IV. x, scan leaves 245–255, pp. 197–207). Celebrated at Rome for the Amores, Heroides, Ars Amatoria, Metamorphoses, and Fasti, he was relegated by Augustus in A.D. 8 to Tomis on the Black Sea, where he composed the Tristia and Epistulae ex Ponto and died c. A.D. 17.",
+    "dates": "43 B.C.–A.D. 17/18",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ovid",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Ovid"
   },
   "paul-meurice": {
     "bio": "French dramatist, journalist, and lifelong friend who handled Hugo’s publishing in Paris during his nineteen years of exile and later edited his letters.",
@@ -454,6 +562,24 @@
     "dates": "1792–1822",
     "wikipedia": "https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley",
     "wikisource": "https://en.wikisource.org/wiki/Author:Percy_Bysshe_Shelley"
+  },
+  "plato": {
+    "bio": "Athenian philosopher, pupil of Socrates, and founder of the Academy (Chronological Table, scan leaf 23, p. 13), whose three journeys to Syracuse in 388, 367, and 361 B.C. and alliance with Dion form the central subject of the thirteen Platonic epistles.",
+    "dates": "427–347 B.C.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Plato",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Plato"
+  },
+  "pliny-the-younger": {
+    "bio": "Gaius Plinius Caecilius Secundus, Roman lawyer, senator, consul (A.D. 100), and nephew and adopted heir of Pliny the Elder (scan leaf 17, p. xi), whose nine books of literary letters chronicle Roman public and private life under Nerva and Trajan.",
+    "dates": "A.D. 61/62–c. 113",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pliny_the_Younger",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Pliny_the_Younger"
+  },
+  "porphyry": {
+    "bio": "Tyrian Neo-Platonist philosopher (born Malchus, named Porphyrius by his Athenian teacher Cassius Longinus; scan leaves 36–37, pp. 32–33), devoted disciple, biographer, and editor of Plotinus in Rome, who married Marcella in A.D. 302 and addressed this surviving philosophical epistle to console and guide her during his journey.",
+    "dates": "A.D. 233–c. 305",
+    "wikipedia": "https://en.wikipedia.org/wiki/Porphyry_(philosopher)",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Porphyry"
   },
   "prosper-faugere": {
     "bio": "French archivist whose 1844 manuscript edition returned Pascal’s jagged, authentic texts to print.",
@@ -477,6 +603,17 @@
     "dates": "1803–1882",
     "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
     "wikisource": "https://en.wikisource.org/wiki/Author:Ralph_Waldo_Emerson"
+  },
+  "richard-garnett": {
+    "bio": "English scholar, author, and Keeper of Printed Books at the British Museum, who contributed the critical Preface comparing third- and fourth-century Neo-Platonic ethics with primitive Christianity (title leaf, scan leaf 7; Preface, scan leaves 9–20, pp. 5–16).",
+    "dates": "1835–1906",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Garnett",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Richard_Garnett"
+  },
+  "richard-m-gummere": {
+    "bio": "American classical scholar of Haverford College (title leaf, scan leaf 9; Introduction dated May 1916, scan leaf 20, p. xii), who translated Seneca's 124 Moral Epistles into English with introduction and explanatory notes.",
+    "dates": "1883–1969",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Mott_Gummere"
   },
   "richard-wagner": {
     "bio": "German composer and dramatist who saw in the brilliant young professor a public champion for Bayreuth—and struggled when his disciple refused to remain one.",
@@ -506,6 +643,12 @@
     "wikipedia": "https://en.wikipedia.org/wiki/S._S._Koteliansky",
     "wikisource": "https://en.wikisource.org/wiki/Author:Samuel_Solomonovich_Koteliansky"
   },
+  "saint-augustine-of-hippo": {
+    "bio": "Bishop of Hippo Regius in Roman North Africa (395–430), theologian, and Doctor of the Church, whose Confessions, City of God, and extensive correspondence shaped Latin Christianity.",
+    "dates": "354–430",
+    "wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Augustine_of_Hippo"
+  },
   "sarojini-naidu": {
     "bio": "Indian poet, independence leader, and first woman Governor of an Indian state, known for her lively correspondence with Gandhi, Nehru, and Tagore.",
     "dates": "1879–1949",
@@ -515,6 +658,12 @@
   "sharpless-dobson-green": {
     "bio": "English teacher at Trenton Senior High School who turned a classroom correspondence assignment into this curious 1925 anthology.",
     "dates": "fl. 1925"
+  },
+  "sidonius-apollinaris": {
+    "bio": "Gallo-Roman senator, poet, diplomat, and bishop of Clermont-Ferrand whose letters and carmina provide the central literary portrait of fifth-century Roman Gaul in transition.",
+    "dates": "c. 430–c. 489",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sidonius_Apollinaris",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Sidonius_Apollinaris"
   },
   "sir-isaac-newton": {
     "bio": "English mathematician and natural philosopher whose Principia Mathematica (1687) unified terrestrial and celestial mechanics. Nowhere else did he state his cosmological assumptions so plainly.",
@@ -544,6 +693,12 @@
     "dates": "1863–1902",
     "wikipedia": "https://en.wikipedia.org/wiki/Swami_Vivekananda",
     "wikisource": "https://en.wikisource.org/wiki/Author:Vivekananda"
+  },
+  "synesius-of-cyrene": {
+    "bio": "Greek philosopher, pupil of Hypatia of Alexandria, and bishop of Ptolemais in Cyrenaica, whose extant letters, hymns, and treatises blend Neoplatonic philosophy with vivid depictions of late Roman provincial life.",
+    "dates": "c. 373–c. 414",
+    "wikipedia": "https://en.wikipedia.org/wiki/Synesius",
+    "wikisource": "https://en.wikisource.org/wiki/Author:Synesius_of_Cyrene"
   },
   "theodore-roosevelt": {
     "bio": "Twenty-sixth President of the United States, naturalist, and historian, whose energetic letters to his children and friends span politics, books, and wilderness.",
@@ -598,6 +753,10 @@
     "wikipedia": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois",
     "wikisource": "https://en.wikisource.org/wiki/Author:William_Edward_Burghardt_Du_Bois"
   },
+  "w-m-l-hutchinson": {
+    "bio": "Winifred Margaret Lambart Hutchinson, British classical scholar who revised William Melmoth's translation and wrote the Introduction for the 1915 two-volume edition of Pliny's Letters (scan leaves 9, 17–22).",
+    "dates": "1868–1937"
+  },
   "walt-whitman": {
     "bio": "American poet of Leaves of Grass, journalist, and Civil War hospital volunteer whose letters and open prefaces celebrate democratic speech.",
     "dates": "1819–1892",
@@ -618,10 +777,20 @@
     "bio": "East India Company officer, Persian scholar, and military secretary to Lord Wellesley who combed the captured Mysore records to produce this 1811 edition.",
     "dates": "1754–1812"
   },
+  "william-melmoth": {
+    "bio": "English man of letters and translator whose 1746 translation of Pliny's Letters was praised as an English classic and served as the basis for W. M. L. Hutchinson's 1915 revised edition (scan leaf 9).",
+    "dates": "1710–1799",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_Melmoth_(1710%E2%80%931799)"
+  },
   "william-michael-rossetti": {
     "bio": "English man of letters, co-founder of the Pre-Raphaelite Brotherhood, and joint editor with H. Buxton Forman of these annotated 1897 volumes.",
     "dates": "1829–1919",
     "wikipedia": "https://en.wikipedia.org/wiki/William_Michael_Rossetti",
     "wikisource": "https://en.wikisource.org/wiki/Author:William_Michael_Rossetti"
+  },
+  "wilmer-cave-wright": {
+    "bio": "English-born classical scholar, alumna of Girton College, Cambridge, and Professor of Greek at Bryn Mawr College, who translated the three-volume edition of the Works of the Emperor Julian (1913–1923).",
+    "dates": "1868–1951",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wilmer_Cave_Wright"
   }
 }

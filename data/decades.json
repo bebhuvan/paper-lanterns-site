@@ -1,7 +1,300 @@
 [
  {
-  "books": [],
-  "count": 9,
+  "books": [
+   {
+    "book_id": "plato-epistles-1925",
+    "paths": [
+     "/collections/plato-epistles-1925/1",
+     "/collections/plato-epistles-1925/2"
+    ]
+   }
+  ],
+  "count": 2,
+  "curated": [],
+  "decade": -370,
+  "slug": "-370s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "plato-epistles-1925",
+    "paths": [
+     "/collections/plato-epistles-1925/3",
+     "/collections/plato-epistles-1925/4",
+     "/collections/plato-epistles-1925/5",
+     "/collections/plato-epistles-1925/6",
+     "/collections/plato-epistles-1925/7",
+     "/collections/plato-epistles-1925/8"
+    ]
+   }
+  ],
+  "count": 6,
+  "curated": [],
+  "decade": -360,
+  "slug": "-360s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "plato-epistles-1925",
+    "paths": [
+     "/collections/plato-epistles-1925/9"
+    ]
+   }
+  ],
+  "count": 1,
+  "curated": [],
+  "decade": -350,
+  "slug": "-350s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "cicero-letters-vol1-1920",
+    "paths": [
+     "/collections/cicero-letters-vol1-1920/23",
+     "/collections/cicero-letters-vol1-1920/30",
+     "/collections/cicero-letters-vol1-1920/86",
+     "/collections/cicero-letters-vol1-1920/94",
+     "/collections/cicero-letters-vol1-1920/117",
+     "/collections/cicero-letters-vol1-1920/118",
+     "/collections/cicero-letters-vol1-1920/119",
+     "/collections/cicero-letters-vol1-1920/120",
+     "/collections/cicero-letters-vol1-1920/121",
+     "/collections/cicero-letters-vol1-1920/122",
+     "/collections/cicero-letters-vol1-1920/123",
+     "/collections/cicero-letters-vol1-1920/124",
+     "/collections/cicero-letters-vol1-1920/125",
+     "/collections/cicero-letters-vol1-1920/129",
+     "/collections/cicero-letters-vol1-1920/130",
+     "/collections/cicero-letters-vol1-1920/131",
+     "/collections/cicero-letters-vol1-1920/132",
+     "/collections/cicero-letters-vol1-1920/133",
+     "/collections/cicero-letters-vol1-1920/134",
+     "/collections/cicero-letters-vol1-1920/135",
+     "/collections/cicero-letters-vol1-1920/137",
+     "/collections/cicero-letters-vol1-1920/138",
+     "/collections/cicero-letters-vol1-1920/139",
+     "/collections/cicero-letters-vol1-1920/140",
+     "/collections/cicero-letters-vol1-1920/141",
+     "/collections/cicero-letters-vol1-1920/143",
+     "/collections/cicero-letters-vol1-1920/144",
+     "/collections/cicero-letters-vol1-1920/145",
+     "/collections/cicero-letters-vol1-1920/146",
+     "/collections/cicero-letters-vol1-1920/147",
+     "/collections/cicero-letters-vol1-1920/148",
+     "/collections/cicero-letters-vol1-1920/149",
+     "/collections/cicero-letters-vol1-1920/150",
+     "/collections/cicero-letters-vol1-1920/151",
+     "/collections/cicero-letters-vol1-1920/152",
+     "/collections/cicero-letters-vol1-1920/153",
+     "/collections/cicero-letters-vol1-1920/154",
+     "/collections/cicero-letters-vol1-1920/155",
+     "/collections/cicero-letters-vol1-1920/156",
+     "/collections/cicero-letters-vol1-1920/157",
+     "/collections/cicero-letters-vol1-1920/158",
+     "/collections/cicero-letters-vol1-1920/160",
+     "/collections/cicero-letters-vol1-1920/170",
+     "/collections/cicero-letters-vol1-1920/172",
+     "/collections/cicero-letters-vol1-1920/178",
+     "/collections/cicero-letters-vol1-1920/181"
+    ]
+   }
+  ],
+  "count": 46,
+  "curated": [],
+  "decade": -60,
+  "slug": "-60s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "cicero-letters-vol2-1899",
+    "paths": [
+     "/collections/cicero-letters-vol2-1899/1",
+     "/collections/cicero-letters-vol2-1899/2",
+     "/collections/cicero-letters-vol2-1899/3",
+     "/collections/cicero-letters-vol2-1899/4",
+     "/collections/cicero-letters-vol2-1899/5",
+     "/collections/cicero-letters-vol2-1899/6",
+     "/collections/cicero-letters-vol2-1899/7",
+     "/collections/cicero-letters-vol2-1899/8",
+     "/collections/cicero-letters-vol2-1899/9",
+     "/collections/cicero-letters-vol2-1899/11",
+     "/collections/cicero-letters-vol2-1899/12",
+     "/collections/cicero-letters-vol2-1899/13",
+     "/collections/cicero-letters-vol2-1899/14",
+     "/collections/cicero-letters-vol2-1899/15",
+     "/collections/cicero-letters-vol2-1899/16",
+     "/collections/cicero-letters-vol2-1899/17",
+     "/collections/cicero-letters-vol2-1899/18",
+     "/collections/cicero-letters-vol2-1899/19",
+     "/collections/cicero-letters-vol2-1899/20",
+     "/collections/cicero-letters-vol2-1899/21",
+     "/collections/cicero-letters-vol2-1899/22",
+     "/collections/cicero-letters-vol2-1899/23",
+     "/collections/cicero-letters-vol2-1899/24",
+     "/collections/cicero-letters-vol2-1899/25",
+     "/collections/cicero-letters-vol2-1899/26",
+     "/collections/cicero-letters-vol2-1899/27",
+     "/collections/cicero-letters-vol2-1899/28",
+     "/collections/cicero-letters-vol2-1899/29",
+     "/collections/cicero-letters-vol2-1899/30",
+     "/collections/cicero-letters-vol2-1899/31",
+     "/collections/cicero-letters-vol2-1899/32",
+     "/collections/cicero-letters-vol2-1899/33",
+     "/collections/cicero-letters-vol2-1899/34",
+     "/collections/cicero-letters-vol2-1899/35",
+     "/collections/cicero-letters-vol2-1899/36",
+     "/collections/cicero-letters-vol2-1899/37",
+     "/collections/cicero-letters-vol2-1899/38",
+     "/collections/cicero-letters-vol2-1899/39"
+    ]
+   },
+   {
+    "book_id": "cicero-letters-vol3-1900",
+    "paths": [
+     "/collections/cicero-letters-vol3-1900/1",
+     "/collections/cicero-letters-vol3-1900/2",
+     "/collections/cicero-letters-vol3-1900/5",
+     "/collections/cicero-letters-vol3-1900/6",
+     "/collections/cicero-letters-vol3-1900/7",
+     "/collections/cicero-letters-vol3-1900/8",
+     "/collections/cicero-letters-vol3-1900/9",
+     "/collections/cicero-letters-vol3-1900/10",
+     "/collections/cicero-letters-vol3-1900/11",
+     "/collections/cicero-letters-vol3-1900/12",
+     "/collections/cicero-letters-vol3-1900/13",
+     "/collections/cicero-letters-vol3-1900/14",
+     "/collections/cicero-letters-vol3-1900/15",
+     "/collections/cicero-letters-vol3-1900/16",
+     "/collections/cicero-letters-vol3-1900/17",
+     "/collections/cicero-letters-vol3-1900/18",
+     "/collections/cicero-letters-vol3-1900/19",
+     "/collections/cicero-letters-vol3-1900/20",
+     "/collections/cicero-letters-vol3-1900/21",
+     "/collections/cicero-letters-vol3-1900/22",
+     "/collections/cicero-letters-vol3-1900/23",
+     "/collections/cicero-letters-vol3-1900/24",
+     "/collections/cicero-letters-vol3-1900/25",
+     "/collections/cicero-letters-vol3-1900/26",
+     "/collections/cicero-letters-vol3-1900/27",
+     "/collections/cicero-letters-vol3-1900/28",
+     "/collections/cicero-letters-vol3-1900/29",
+     "/collections/cicero-letters-vol3-1900/30",
+     "/collections/cicero-letters-vol3-1900/31",
+     "/collections/cicero-letters-vol3-1900/32",
+     "/collections/cicero-letters-vol3-1900/33",
+     "/collections/cicero-letters-vol3-1900/34",
+     "/collections/cicero-letters-vol3-1900/234",
+     "/collections/cicero-letters-vol3-1900/236",
+     "/collections/cicero-letters-vol3-1900/237",
+     "/collections/cicero-letters-vol3-1900/238",
+     "/collections/cicero-letters-vol3-1900/239",
+     "/collections/cicero-letters-vol3-1900/240",
+     "/collections/cicero-letters-vol3-1900/241",
+     "/collections/cicero-letters-vol3-1900/243",
+     "/collections/cicero-letters-vol3-1900/244",
+     "/collections/cicero-letters-vol3-1900/245",
+     "/collections/cicero-letters-vol3-1900/246",
+     "/collections/cicero-letters-vol3-1900/247",
+     "/collections/cicero-letters-vol3-1900/248",
+     "/collections/cicero-letters-vol3-1900/249",
+     "/collections/cicero-letters-vol3-1900/250",
+     "/collections/cicero-letters-vol3-1900/251",
+     "/collections/cicero-letters-vol3-1900/252",
+     "/collections/cicero-letters-vol3-1900/253",
+     "/collections/cicero-letters-vol3-1900/254",
+     "/collections/cicero-letters-vol3-1900/255",
+     "/collections/cicero-letters-vol3-1900/256",
+     "/collections/cicero-letters-vol3-1900/257",
+     "/collections/cicero-letters-vol3-1900/258",
+     "/collections/cicero-letters-vol3-1900/259",
+     "/collections/cicero-letters-vol3-1900/260",
+     "/collections/cicero-letters-vol3-1900/261",
+     "/collections/cicero-letters-vol3-1900/262",
+     "/collections/cicero-letters-vol3-1900/263",
+     "/collections/cicero-letters-vol3-1900/264",
+     "/collections/cicero-letters-vol3-1900/271",
+     "/collections/cicero-letters-vol3-1900/272",
+     "/collections/cicero-letters-vol3-1900/273",
+     "/collections/cicero-letters-vol3-1900/288",
+     "/collections/cicero-letters-vol3-1900/289",
+     "/collections/cicero-letters-vol3-1900/290",
+     "/collections/cicero-letters-vol3-1900/291"
+    ]
+   },
+   {
+    "book_id": "cicero-letters-vol4-1900",
+    "paths": [
+     "/collections/cicero-letters-vol4-1900/1"
+    ]
+   }
+  ],
+  "count": 107,
+  "curated": [],
+  "decade": -50,
+  "slug": "-50s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "horace-epistles-1926",
+    "paths": [
+     "/collections/horace-epistles-1926/4",
+     "/collections/horace-epistles-1926/13"
+    ]
+   }
+  ],
+  "count": 2,
+  "curated": [],
+  "decade": -30,
+  "slug": "-30s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "horace-epistles-1926",
+    "paths": [
+     "/collections/horace-epistles-1926/1",
+     "/collections/horace-epistles-1926/2",
+     "/collections/horace-epistles-1926/3",
+     "/collections/horace-epistles-1926/5",
+     "/collections/horace-epistles-1926/6",
+     "/collections/horace-epistles-1926/7",
+     "/collections/horace-epistles-1926/8",
+     "/collections/horace-epistles-1926/9",
+     "/collections/horace-epistles-1926/10",
+     "/collections/horace-epistles-1926/11",
+     "/collections/horace-epistles-1926/12",
+     "/collections/horace-epistles-1926/14",
+     "/collections/horace-epistles-1926/15",
+     "/collections/horace-epistles-1926/16",
+     "/collections/horace-epistles-1926/17",
+     "/collections/horace-epistles-1926/18",
+     "/collections/horace-epistles-1926/19",
+     "/collections/horace-epistles-1926/20",
+     "/collections/horace-epistles-1926/21",
+     "/collections/horace-epistles-1926/22",
+     "/collections/horace-epistles-1926/23"
+    ]
+   }
+  ],
+  "count": 21,
+  "curated": [],
+  "decade": -20,
+  "slug": "-20s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "seneca-epistles-vol2-1920",
+    "paths": [
+     "/collections/seneca-epistles-vol2-1920/26"
+    ]
+   }
+  ],
+  "count": 10,
   "curated": [
    "/letters/seneca-lucilius-festivals-fasting-letter18",
    "/letters/seneca-lucilius-friendship-letter3",
@@ -15,6 +308,601 @@
   ],
   "decade": 60,
   "slug": "60s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "fronto-correspondence-vol1-1919",
+    "paths": [
+     "/collections/fronto-correspondence-vol1-1919/1"
+    ]
+   }
+  ],
+  "count": 1,
+  "curated": [],
+  "decade": 130,
+  "slug": "130s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "fronto-correspondence-vol1-1919",
+    "paths": [
+     "/collections/fronto-correspondence-vol1-1919/23",
+     "/collections/fronto-correspondence-vol1-1919/24",
+     "/collections/fronto-correspondence-vol1-1919/25",
+     "/collections/fronto-correspondence-vol1-1919/26",
+     "/collections/fronto-correspondence-vol1-1919/27",
+     "/collections/fronto-correspondence-vol1-1919/28",
+     "/collections/fronto-correspondence-vol1-1919/29",
+     "/collections/fronto-correspondence-vol1-1919/30",
+     "/collections/fronto-correspondence-vol1-1919/31",
+     "/collections/fronto-correspondence-vol1-1919/32",
+     "/collections/fronto-correspondence-vol1-1919/33",
+     "/collections/fronto-correspondence-vol1-1919/34",
+     "/collections/fronto-correspondence-vol1-1919/35",
+     "/collections/fronto-correspondence-vol1-1919/36",
+     "/collections/fronto-correspondence-vol1-1919/37",
+     "/collections/fronto-correspondence-vol1-1919/38",
+     "/collections/fronto-correspondence-vol1-1919/39",
+     "/collections/fronto-correspondence-vol1-1919/40",
+     "/collections/fronto-correspondence-vol1-1919/41",
+     "/collections/fronto-correspondence-vol1-1919/42",
+     "/collections/fronto-correspondence-vol1-1919/43",
+     "/collections/fronto-correspondence-vol1-1919/44",
+     "/collections/fronto-correspondence-vol1-1919/45",
+     "/collections/fronto-correspondence-vol1-1919/46",
+     "/collections/fronto-correspondence-vol1-1919/47",
+     "/collections/fronto-correspondence-vol1-1919/48",
+     "/collections/fronto-correspondence-vol1-1919/49",
+     "/collections/fronto-correspondence-vol1-1919/50",
+     "/collections/fronto-correspondence-vol1-1919/51"
+    ]
+   },
+   {
+    "book_id": "fronto-correspondence-vol2-1929",
+    "paths": [
+     "/collections/fronto-correspondence-vol2-1929/65"
+    ]
+   }
+  ],
+  "count": 30,
+  "curated": [],
+  "decade": 140,
+  "slug": "140s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "fronto-correspondence-vol1-1919",
+    "paths": [
+     "/collections/fronto-correspondence-vol1-1919/144",
+     "/collections/fronto-correspondence-vol1-1919/145",
+     "/collections/fronto-correspondence-vol1-1919/146",
+     "/collections/fronto-correspondence-vol1-1919/147",
+     "/collections/fronto-correspondence-vol1-1919/148",
+     "/collections/fronto-correspondence-vol1-1919/150",
+     "/collections/fronto-correspondence-vol1-1919/151",
+     "/collections/fronto-correspondence-vol1-1919/152"
+    ]
+   },
+   {
+    "book_id": "fronto-correspondence-vol2-1929",
+    "paths": [
+     "/collections/fronto-correspondence-vol2-1929/1",
+     "/collections/fronto-correspondence-vol2-1929/2",
+     "/collections/fronto-correspondence-vol2-1929/3",
+     "/collections/fronto-correspondence-vol2-1929/4",
+     "/collections/fronto-correspondence-vol2-1929/5",
+     "/collections/fronto-correspondence-vol2-1929/6",
+     "/collections/fronto-correspondence-vol2-1929/7",
+     "/collections/fronto-correspondence-vol2-1929/8",
+     "/collections/fronto-correspondence-vol2-1929/9",
+     "/collections/fronto-correspondence-vol2-1929/10",
+     "/collections/fronto-correspondence-vol2-1929/11",
+     "/collections/fronto-correspondence-vol2-1929/12",
+     "/collections/fronto-correspondence-vol2-1929/13",
+     "/collections/fronto-correspondence-vol2-1929/14",
+     "/collections/fronto-correspondence-vol2-1929/15",
+     "/collections/fronto-correspondence-vol2-1929/16",
+     "/collections/fronto-correspondence-vol2-1929/17",
+     "/collections/fronto-correspondence-vol2-1929/18",
+     "/collections/fronto-correspondence-vol2-1929/19",
+     "/collections/fronto-correspondence-vol2-1929/20",
+     "/collections/fronto-correspondence-vol2-1929/21",
+     "/collections/fronto-correspondence-vol2-1929/22",
+     "/collections/fronto-correspondence-vol2-1929/23",
+     "/collections/fronto-correspondence-vol2-1929/24",
+     "/collections/fronto-correspondence-vol2-1929/25",
+     "/collections/fronto-correspondence-vol2-1929/26",
+     "/collections/fronto-correspondence-vol2-1929/27",
+     "/collections/fronto-correspondence-vol2-1929/32",
+     "/collections/fronto-correspondence-vol2-1929/33",
+     "/collections/fronto-correspondence-vol2-1929/34",
+     "/collections/fronto-correspondence-vol2-1929/35",
+     "/collections/fronto-correspondence-vol2-1929/36",
+     "/collections/fronto-correspondence-vol2-1929/37",
+     "/collections/fronto-correspondence-vol2-1929/45",
+     "/collections/fronto-correspondence-vol2-1929/46",
+     "/collections/fronto-correspondence-vol2-1929/47",
+     "/collections/fronto-correspondence-vol2-1929/48",
+     "/collections/fronto-correspondence-vol2-1929/49",
+     "/collections/fronto-correspondence-vol2-1929/50",
+     "/collections/fronto-correspondence-vol2-1929/51",
+     "/collections/fronto-correspondence-vol2-1929/52",
+     "/collections/fronto-correspondence-vol2-1929/53",
+     "/collections/fronto-correspondence-vol2-1929/54",
+     "/collections/fronto-correspondence-vol2-1929/55",
+     "/collections/fronto-correspondence-vol2-1929/56",
+     "/collections/fronto-correspondence-vol2-1929/57",
+     "/collections/fronto-correspondence-vol2-1929/58",
+     "/collections/fronto-correspondence-vol2-1929/59",
+     "/collections/fronto-correspondence-vol2-1929/71",
+     "/collections/fronto-correspondence-vol2-1929/72"
+    ]
+   }
+  ],
+  "count": 58,
+  "curated": [],
+  "decade": 160,
+  "slug": "160s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "fronto-correspondence-vol2-1929",
+    "paths": [
+     "/collections/fronto-correspondence-vol2-1929/66",
+     "/collections/fronto-correspondence-vol2-1929/68",
+     "/collections/fronto-correspondence-vol2-1929/75",
+     "/collections/fronto-correspondence-vol2-1929/76",
+     "/collections/fronto-correspondence-vol2-1929/77",
+     "/collections/fronto-correspondence-vol2-1929/78",
+     "/collections/fronto-correspondence-vol2-1929/79"
+    ]
+   }
+  ],
+  "count": 7,
+  "curated": [],
+  "decade": 170,
+  "slug": "170s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "julian-works-vol3-1923",
+    "paths": [
+     "/collections/julian-works-vol3-1923/1",
+     "/collections/julian-works-vol3-1923/3"
+    ]
+   }
+  ],
+  "count": 2,
+  "curated": [],
+  "decade": 350,
+  "slug": "350s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "julian-works-vol3-1923",
+    "paths": [
+     "/collections/julian-works-vol3-1923/6",
+     "/collections/julian-works-vol3-1923/8",
+     "/collections/julian-works-vol3-1923/9",
+     "/collections/julian-works-vol3-1923/10",
+     "/collections/julian-works-vol3-1923/11",
+     "/collections/julian-works-vol3-1923/13",
+     "/collections/julian-works-vol3-1923/15",
+     "/collections/julian-works-vol3-1923/17",
+     "/collections/julian-works-vol3-1923/18",
+     "/collections/julian-works-vol3-1923/20",
+     "/collections/julian-works-vol3-1923/21",
+     "/collections/julian-works-vol3-1923/22",
+     "/collections/julian-works-vol3-1923/23",
+     "/collections/julian-works-vol3-1923/24",
+     "/collections/julian-works-vol3-1923/25",
+     "/collections/julian-works-vol3-1923/26",
+     "/collections/julian-works-vol3-1923/27",
+     "/collections/julian-works-vol3-1923/28",
+     "/collections/julian-works-vol3-1923/29",
+     "/collections/julian-works-vol3-1923/30",
+     "/collections/julian-works-vol3-1923/31",
+     "/collections/julian-works-vol3-1923/32",
+     "/collections/julian-works-vol3-1923/33",
+     "/collections/julian-works-vol3-1923/34",
+     "/collections/julian-works-vol3-1923/35",
+     "/collections/julian-works-vol3-1923/36",
+     "/collections/julian-works-vol3-1923/37",
+     "/collections/julian-works-vol3-1923/38",
+     "/collections/julian-works-vol3-1923/39",
+     "/collections/julian-works-vol3-1923/41",
+     "/collections/julian-works-vol3-1923/42",
+     "/collections/julian-works-vol3-1923/43",
+     "/collections/julian-works-vol3-1923/44",
+     "/collections/julian-works-vol3-1923/45",
+     "/collections/julian-works-vol3-1923/46",
+     "/collections/julian-works-vol3-1923/47",
+     "/collections/julian-works-vol3-1923/48",
+     "/collections/julian-works-vol3-1923/52",
+     "/collections/julian-works-vol3-1923/53",
+     "/collections/julian-works-vol3-1923/54",
+     "/collections/julian-works-vol3-1923/56",
+     "/collections/julian-works-vol3-1923/57",
+     "/collections/julian-works-vol3-1923/58"
+    ]
+   }
+  ],
+  "count": 43,
+  "curated": [],
+  "decade": 360,
+  "slug": "360s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "augustine-letters-vol1-1872",
+    "paths": [
+     "/collections/augustine-letters-vol1-1872/1",
+     "/collections/augustine-letters-vol1-1872/2",
+     "/collections/augustine-letters-vol1-1872/3",
+     "/collections/augustine-letters-vol1-1872/4",
+     "/collections/augustine-letters-vol1-1872/5",
+     "/collections/augustine-letters-vol1-1872/6",
+     "/collections/augustine-letters-vol1-1872/7",
+     "/collections/augustine-letters-vol1-1872/8",
+     "/collections/augustine-letters-vol1-1872/9",
+     "/collections/augustine-letters-vol1-1872/10",
+     "/collections/augustine-letters-vol1-1872/11",
+     "/collections/augustine-letters-vol1-1872/13"
+    ]
+   }
+  ],
+  "count": 12,
+  "curated": [],
+  "decade": 380,
+  "slug": "380s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "augustine-letters-vol1-1872",
+    "paths": [
+     "/collections/augustine-letters-vol1-1872/14",
+     "/collections/augustine-letters-vol1-1872/15",
+     "/collections/augustine-letters-vol1-1872/16",
+     "/collections/augustine-letters-vol1-1872/17",
+     "/collections/augustine-letters-vol1-1872/18",
+     "/collections/augustine-letters-vol1-1872/19",
+     "/collections/augustine-letters-vol1-1872/20",
+     "/collections/augustine-letters-vol1-1872/21",
+     "/collections/augustine-letters-vol1-1872/22",
+     "/collections/augustine-letters-vol1-1872/24",
+     "/collections/augustine-letters-vol1-1872/25",
+     "/collections/augustine-letters-vol1-1872/27",
+     "/collections/augustine-letters-vol1-1872/28",
+     "/collections/augustine-letters-vol1-1872/29",
+     "/collections/augustine-letters-vol1-1872/31",
+     "/collections/augustine-letters-vol1-1872/32",
+     "/collections/augustine-letters-vol1-1872/33",
+     "/collections/augustine-letters-vol1-1872/34",
+     "/collections/augustine-letters-vol1-1872/35",
+     "/collections/augustine-letters-vol1-1872/36",
+     "/collections/augustine-letters-vol1-1872/37",
+     "/collections/augustine-letters-vol1-1872/38",
+     "/collections/augustine-letters-vol1-1872/39",
+     "/collections/augustine-letters-vol1-1872/40",
+     "/collections/augustine-letters-vol1-1872/41",
+     "/collections/augustine-letters-vol1-1872/43",
+     "/collections/augustine-letters-vol1-1872/44"
+    ]
+   }
+  ],
+  "count": 27,
+  "curated": [],
+  "decade": 390,
+  "slug": "390s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "augustine-letters-vol1-1872",
+    "paths": [
+     "/collections/augustine-letters-vol1-1872/48",
+     "/collections/augustine-letters-vol1-1872/49",
+     "/collections/augustine-letters-vol1-1872/50",
+     "/collections/augustine-letters-vol1-1872/51",
+     "/collections/augustine-letters-vol1-1872/52",
+     "/collections/augustine-letters-vol1-1872/53",
+     "/collections/augustine-letters-vol1-1872/54",
+     "/collections/augustine-letters-vol1-1872/55",
+     "/collections/augustine-letters-vol1-1872/56",
+     "/collections/augustine-letters-vol1-1872/57",
+     "/collections/augustine-letters-vol1-1872/58",
+     "/collections/augustine-letters-vol1-1872/59",
+     "/collections/augustine-letters-vol1-1872/60",
+     "/collections/augustine-letters-vol1-1872/61",
+     "/collections/augustine-letters-vol1-1872/62",
+     "/collections/augustine-letters-vol1-1872/63",
+     "/collections/augustine-letters-vol1-1872/64",
+     "/collections/augustine-letters-vol1-1872/65",
+     "/collections/augustine-letters-vol1-1872/66",
+     "/collections/augustine-letters-vol1-1872/67",
+     "/collections/augustine-letters-vol1-1872/68",
+     "/collections/augustine-letters-vol1-1872/69",
+     "/collections/augustine-letters-vol1-1872/70",
+     "/collections/augustine-letters-vol1-1872/71",
+     "/collections/augustine-letters-vol1-1872/72",
+     "/collections/augustine-letters-vol1-1872/73",
+     "/collections/augustine-letters-vol1-1872/74",
+     "/collections/augustine-letters-vol1-1872/75",
+     "/collections/augustine-letters-vol1-1872/76",
+     "/collections/augustine-letters-vol1-1872/77",
+     "/collections/augustine-letters-vol1-1872/78",
+     "/collections/augustine-letters-vol1-1872/79",
+     "/collections/augustine-letters-vol1-1872/80",
+     "/collections/augustine-letters-vol1-1872/81",
+     "/collections/augustine-letters-vol1-1872/82",
+     "/collections/augustine-letters-vol1-1872/83"
+    ]
+   },
+   {
+    "book_id": "augustine-letters-vol2-1875",
+    "paths": [
+     "/collections/augustine-letters-vol2-1875/1",
+     "/collections/augustine-letters-vol2-1875/2",
+     "/collections/augustine-letters-vol2-1875/3",
+     "/collections/augustine-letters-vol2-1875/4",
+     "/collections/augustine-letters-vol2-1875/6",
+     "/collections/augustine-letters-vol2-1875/7",
+     "/collections/augustine-letters-vol2-1875/8",
+     "/collections/augustine-letters-vol2-1875/9",
+     "/collections/augustine-letters-vol2-1875/10",
+     "/collections/augustine-letters-vol2-1875/11"
+    ]
+   }
+  ],
+  "count": 46,
+  "curated": [],
+  "decade": 400,
+  "slug": "400s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "augustine-letters-vol2-1875",
+    "paths": [
+     "/collections/augustine-letters-vol2-1875/12",
+     "/collections/augustine-letters-vol2-1875/14",
+     "/collections/augustine-letters-vol2-1875/15",
+     "/collections/augustine-letters-vol2-1875/16",
+     "/collections/augustine-letters-vol2-1875/17",
+     "/collections/augustine-letters-vol2-1875/18",
+     "/collections/augustine-letters-vol2-1875/19",
+     "/collections/augustine-letters-vol2-1875/20",
+     "/collections/augustine-letters-vol2-1875/21",
+     "/collections/augustine-letters-vol2-1875/22",
+     "/collections/augustine-letters-vol2-1875/23",
+     "/collections/augustine-letters-vol2-1875/24",
+     "/collections/augustine-letters-vol2-1875/25",
+     "/collections/augustine-letters-vol2-1875/26",
+     "/collections/augustine-letters-vol2-1875/27",
+     "/collections/augustine-letters-vol2-1875/28",
+     "/collections/augustine-letters-vol2-1875/29",
+     "/collections/augustine-letters-vol2-1875/30",
+     "/collections/augustine-letters-vol2-1875/31",
+     "/collections/augustine-letters-vol2-1875/33",
+     "/collections/augustine-letters-vol2-1875/34",
+     "/collections/augustine-letters-vol2-1875/35",
+     "/collections/augustine-letters-vol2-1875/37",
+     "/collections/augustine-letters-vol2-1875/38",
+     "/collections/augustine-letters-vol2-1875/39",
+     "/collections/augustine-letters-vol2-1875/40",
+     "/collections/augustine-letters-vol2-1875/41",
+     "/collections/augustine-letters-vol2-1875/42",
+     "/collections/augustine-letters-vol2-1875/43",
+     "/collections/augustine-letters-vol2-1875/44",
+     "/collections/augustine-letters-vol2-1875/45",
+     "/collections/augustine-letters-vol2-1875/46",
+     "/collections/augustine-letters-vol2-1875/47",
+     "/collections/augustine-letters-vol2-1875/48",
+     "/collections/augustine-letters-vol2-1875/49",
+     "/collections/augustine-letters-vol2-1875/50",
+     "/collections/augustine-letters-vol2-1875/51",
+     "/collections/augustine-letters-vol2-1875/52",
+     "/collections/augustine-letters-vol2-1875/53",
+     "/collections/augustine-letters-vol2-1875/54"
+    ]
+   }
+  ],
+  "count": 40,
+  "curated": [],
+  "decade": 410,
+  "slug": "410s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "augustine-letters-vol2-1875",
+    "paths": [
+     "/collections/augustine-letters-vol2-1875/55",
+     "/collections/augustine-letters-vol2-1875/56",
+     "/collections/augustine-letters-vol2-1875/57",
+     "/collections/augustine-letters-vol2-1875/58",
+     "/collections/augustine-letters-vol2-1875/59",
+     "/collections/augustine-letters-vol2-1875/60",
+     "/collections/augustine-letters-vol2-1875/61",
+     "/collections/augustine-letters-vol2-1875/62",
+     "/collections/augustine-letters-vol2-1875/63",
+     "/collections/augustine-letters-vol2-1875/64",
+     "/collections/augustine-letters-vol2-1875/67",
+     "/collections/augustine-letters-vol2-1875/68"
+    ]
+   }
+  ],
+  "count": 12,
+  "curated": [],
+  "decade": 420,
+  "slug": "420s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "sidonius-letters-vol1-1915",
+    "paths": [
+     "/collections/sidonius-letters-vol1-1915/2"
+    ]
+   }
+  ],
+  "count": 1,
+  "curated": [],
+  "decade": 450,
+  "slug": "450s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "sidonius-letters-vol1-1915",
+    "paths": [
+     "/collections/sidonius-letters-vol1-1915/3",
+     "/collections/sidonius-letters-vol1-1915/4",
+     "/collections/sidonius-letters-vol1-1915/5",
+     "/collections/sidonius-letters-vol1-1915/6",
+     "/collections/sidonius-letters-vol1-1915/7",
+     "/collections/sidonius-letters-vol1-1915/8",
+     "/collections/sidonius-letters-vol1-1915/9",
+     "/collections/sidonius-letters-vol1-1915/10",
+     "/collections/sidonius-letters-vol1-1915/37",
+     "/collections/sidonius-letters-vol1-1915/38"
+    ]
+   },
+   {
+    "book_id": "sidonius-letters-vol2-1915",
+    "paths": [
+     "/collections/sidonius-letters-vol2-1915/36",
+     "/collections/sidonius-letters-vol2-1915/38"
+    ]
+   }
+  ],
+  "count": 12,
+  "curated": [],
+  "decade": 460,
+  "slug": "460s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "sidonius-letters-vol1-1915",
+    "paths": [
+     "/collections/sidonius-letters-vol1-1915/1",
+     "/collections/sidonius-letters-vol1-1915/12",
+     "/collections/sidonius-letters-vol1-1915/14",
+     "/collections/sidonius-letters-vol1-1915/21",
+     "/collections/sidonius-letters-vol1-1915/26",
+     "/collections/sidonius-letters-vol1-1915/27",
+     "/collections/sidonius-letters-vol1-1915/28",
+     "/collections/sidonius-letters-vol1-1915/29",
+     "/collections/sidonius-letters-vol1-1915/30",
+     "/collections/sidonius-letters-vol1-1915/32",
+     "/collections/sidonius-letters-vol1-1915/34"
+    ]
+   },
+   {
+    "book_id": "sidonius-letters-vol2-1915",
+    "paths": [
+     "/collections/sidonius-letters-vol2-1915/2",
+     "/collections/sidonius-letters-vol2-1915/3",
+     "/collections/sidonius-letters-vol2-1915/4",
+     "/collections/sidonius-letters-vol2-1915/5",
+     "/collections/sidonius-letters-vol2-1915/6",
+     "/collections/sidonius-letters-vol2-1915/9",
+     "/collections/sidonius-letters-vol2-1915/10",
+     "/collections/sidonius-letters-vol2-1915/11",
+     "/collections/sidonius-letters-vol2-1915/12",
+     "/collections/sidonius-letters-vol2-1915/13",
+     "/collections/sidonius-letters-vol2-1915/14",
+     "/collections/sidonius-letters-vol2-1915/17",
+     "/collections/sidonius-letters-vol2-1915/18",
+     "/collections/sidonius-letters-vol2-1915/20",
+     "/collections/sidonius-letters-vol2-1915/21",
+     "/collections/sidonius-letters-vol2-1915/22",
+     "/collections/sidonius-letters-vol2-1915/23",
+     "/collections/sidonius-letters-vol2-1915/25",
+     "/collections/sidonius-letters-vol2-1915/26",
+     "/collections/sidonius-letters-vol2-1915/27",
+     "/collections/sidonius-letters-vol2-1915/28",
+     "/collections/sidonius-letters-vol2-1915/33",
+     "/collections/sidonius-letters-vol2-1915/34",
+     "/collections/sidonius-letters-vol2-1915/37",
+     "/collections/sidonius-letters-vol2-1915/41",
+     "/collections/sidonius-letters-vol2-1915/44",
+     "/collections/sidonius-letters-vol2-1915/47",
+     "/collections/sidonius-letters-vol2-1915/48",
+     "/collections/sidonius-letters-vol2-1915/49",
+     "/collections/sidonius-letters-vol2-1915/50",
+     "/collections/sidonius-letters-vol2-1915/52",
+     "/collections/sidonius-letters-vol2-1915/53",
+     "/collections/sidonius-letters-vol2-1915/54",
+     "/collections/sidonius-letters-vol2-1915/55",
+     "/collections/sidonius-letters-vol2-1915/56",
+     "/collections/sidonius-letters-vol2-1915/57",
+     "/collections/sidonius-letters-vol2-1915/58",
+     "/collections/sidonius-letters-vol2-1915/59",
+     "/collections/sidonius-letters-vol2-1915/60",
+     "/collections/sidonius-letters-vol2-1915/63",
+     "/collections/sidonius-letters-vol2-1915/66",
+     "/collections/sidonius-letters-vol2-1915/67",
+     "/collections/sidonius-letters-vol2-1915/68",
+     "/collections/sidonius-letters-vol2-1915/69",
+     "/collections/sidonius-letters-vol2-1915/70",
+     "/collections/sidonius-letters-vol2-1915/71",
+     "/collections/sidonius-letters-vol2-1915/72",
+     "/collections/sidonius-letters-vol2-1915/73",
+     "/collections/sidonius-letters-vol2-1915/74",
+     "/collections/sidonius-letters-vol2-1915/75",
+     "/collections/sidonius-letters-vol2-1915/76",
+     "/collections/sidonius-letters-vol2-1915/78",
+     "/collections/sidonius-letters-vol2-1915/79",
+     "/collections/sidonius-letters-vol2-1915/80",
+     "/collections/sidonius-letters-vol2-1915/83",
+     "/collections/sidonius-letters-vol2-1915/84",
+     "/collections/sidonius-letters-vol2-1915/85",
+     "/collections/sidonius-letters-vol2-1915/86",
+     "/collections/sidonius-letters-vol2-1915/91",
+     "/collections/sidonius-letters-vol2-1915/92",
+     "/collections/sidonius-letters-vol2-1915/94",
+     "/collections/sidonius-letters-vol2-1915/95",
+     "/collections/sidonius-letters-vol2-1915/96",
+     "/collections/sidonius-letters-vol2-1915/97",
+     "/collections/sidonius-letters-vol2-1915/103"
+    ]
+   }
+  ],
+  "count": 76,
+  "curated": [],
+  "decade": 470,
+  "slug": "470s"
+ },
+ {
+  "books": [
+   {
+    "book_id": "sidonius-letters-vol2-1915",
+    "paths": [
+     "/collections/sidonius-letters-vol2-1915/77",
+     "/collections/sidonius-letters-vol2-1915/81",
+     "/collections/sidonius-letters-vol2-1915/82",
+     "/collections/sidonius-letters-vol2-1915/87",
+     "/collections/sidonius-letters-vol2-1915/104",
+     "/collections/sidonius-letters-vol2-1915/105",
+     "/collections/sidonius-letters-vol2-1915/107",
+     "/collections/sidonius-letters-vol2-1915/108"
+    ]
+   }
+  ],
+  "count": 8,
+  "curated": [],
+  "decade": 480,
+  "slug": "480s"
  },
  {
   "books": [

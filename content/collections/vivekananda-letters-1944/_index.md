@@ -12,6 +12,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Swami Vivekananda",
  "year": 1944,
  "archive_id": "",
@@ -199,8 +202,8 @@
   {
    "format": "epub",
    "file": "vivekananda-letters-1944.epub",
-   "bytes": 438725,
-   "sha256": "5c015c919c8b0aec35091767dc8fbbe5a746f2304038d74afdf826a15fe7905d"
+   "bytes": 438782,
+   "sha256": "f257ab958a2cf1f28708625bf349308444c8cd958ec2324c3f991c5fda3e3f09"
   },
   {
    "format": "markdown",
@@ -211,14 +214,14 @@
   {
    "format": "tei",
    "file": "vivekananda-letters-1944.tei.xml",
-   "bytes": 1159786,
-   "sha256": "db0fb60847bb0567893b6601a1d023c271d435bf96529de7fc8956452c9304e6"
+   "bytes": 1159642,
+   "sha256": "16144e93774d188af0ea52d3174e9a8285de892185611db40d46833de238212b"
   }
  ],
  "scan_base": "",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-24T19:24:48Z",
+  "compiled_at": "2026-11-27T21:18:33Z",
   "source_ast_sha256": "8270c254af10fd09d22b26d42ff9ba954bf12e7327f17c9927a96f9a6cd78f37",
   "hugo_renderer_version": "1.0.0"
  }

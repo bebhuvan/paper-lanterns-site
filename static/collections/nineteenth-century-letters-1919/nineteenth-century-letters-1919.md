@@ -346,7 +346,7 @@ You have had our history up to Kinneil House. Mr. and Miss Stewart accompanied u
 > > I have just received your kind note, just when I had persuaded myself it was most likely I should see you in person or hear of your arrival. Mr. Alison writes to me you are engaged to dine with him to-morrow, which puts Roslin out of the question for that day, as it might keep you late. On Sunday I hope you will join our family-party at five, and on Monday I have asked one or two of the Northern Lights on purpose to meet you. I should be engrossing at any time, but we shall be more disposed to be so just now, because on the 12th I am under the necessity of going to a different kingdom (only the kingdom of *Fife*) for a day or two. To-morrow, if it is quite agreeable, I will wait on you about twelve, and hope you will permit me to show you some of our improvements.
 >
 > I am always,  
-> Most respectfully yours,
+>     Most respectfully yours,
 >
 > <span class="small-caps">Walter Scott.</span>
 >
@@ -414,8 +414,8 @@ It pleases, though it does not surprise me, to learn that, having been affected 
 With many thanks for your good wishes, and begging leave to offer mine in return,
 
 I remain,  
-Dear Sir,  
-Respectfully yours,
+    Dear Sir,  
+        Respectfully yours,
 
 <span class="small-caps">Wm. Wordsworth.</span>
 
@@ -438,7 +438,7 @@ I see no new books except by the merest accident. Of course your poem, which I s
 I and mine will be happy to see you and yours here or anywhere; but I am sorry the time you talk of is so distant: a year and a half is a long time looking forward, though looking back ten times as much is as brief as a dream. My writing is wholly illegible—at least I fear so; I had better, therefore, release you.
 
 Believe me, my dear Wrangham,  
-Your affectionate friend,
+    Your affectionate friend,
 
 W. <span class="small-caps">Wordsworth.</span>
 
@@ -506,8 +506,8 @@ Peccet ad extremum,”
 I could not but be deterred from incurring responsibilities which I might not prove equal to at so late a period of life; but as my mind has been entirely set at ease by the very kind and most gratifying letter with which you have honoured me, and by a second communication from the Lord Chamberlain to the same effect, and in a like spirit, I have accepted, with unqualified pleasure, a distinction sanctioned by her Majesty, and which expresses, upon authority entitled to the highest respect, a sense of the national importance of poetic literature; and so favourable an opinion of the success with which it has been cultivated by one who, after this additional mark of your esteem, cannot refrain from again assuring you how deeply sensible he is of the many and great obligations he owes to your goodness, and who has the honour to be,
 
 Dear Sir Robert,  
-Most faithfully,  
-Your humble servant,
+    Most faithfully,  
+        Your humble servant,
 
 <span class="small-caps">William Wordsworth.</span>
 
@@ -824,7 +824,7 @@ Oh, you little wretch! Your letter cost me fourpence. I will pull all the plums 
 I beg you to accept my best thanks for the uncommon degree of entertainment which I have received from the most excellently jocose history of New York. I am sensible, that as a stranger to American parties and politics, I must lose much of the concealed satire of the piece, but I must own that looking at the simple and obvious meaning only, I have never read anything so closely resembling the style of Dean Swift, as the annals of Diedrich Knickerbocker. I have been employed these few evenings in reading them aloud to Mrs. S. and two ladies who are our guests, and our sides have been absolutely sore with laughing. I think, too, there are passages which indicate that the author possesses powers of a different kind, and has some touches which remind me much of Sterne. I beg you will have the kindness to let me know when Mr. Irvine [^fn-p0066-1] takes pen in hand again, for assuredly I shall expect a very great treat which I may chance never to hear of but through your kindness.
 
 Believe me, Dear Sir,  
-Your obliged humble servant,
+    Your obliged humble servant,
 
 <span class="small-caps">Walter Scott.</span>
 
@@ -846,7 +846,7 @@ It is some time since I received and acknowledged your young student's very spir
 With best compliments to Dr. Hughes, and sincere regret that I have so often found Amen Corner untenanted, I am, with sincerity,
 
 Dear Mrs. Hughes,  
-Your much obliged humble servant,
+    Your much obliged humble servant,
 
 <span class="small-caps">Walter Scott.</span>
 
@@ -893,7 +893,7 @@ I might certainly have borrowed large sums. But to what good purpose? I must hav
 Many people will think that because I see company easily my pleasures depend on society. But this is not the case; I am by nature a very lonely animal, and enjoy myself much at getting rid from a variety of things connected with public business, etc., which I did because they were fixed on me, but I am particularly happy to be rid of. And now let the matter be at rest for ever. It is a bad business, but might have been much worse.
 
 I am, my dear friends,  
-Most truly yours,
+    Most truly yours,
 
 <span class="small-caps">Walter Scott.</span>
 
@@ -947,8 +947,8 @@ I cannot breathe through my nose, so my mouth, with sensual thick lips, is almos
 My wife is well and desires to be remembered to you and your *Stella* and little ones. N.B.—Stella (among the Romans) was a man’s name. All the *classics* are against you; but our Swift, I suppose, is authority for this unsexing.
 
 Write on the receipt of this, and believe me as ever,  
-with affectionate esteem,  
-Your sincere friend,
+    with affectionate esteem,  
+        Your sincere friend,
 
 S. T. <span class="small-caps">Coleridge.</span>
 
@@ -1327,7 +1327,7 @@ If your family is really to continue but a little while in Bath pray let me know
 If Mrs. Paynter thinks I can do anything in the decoration of her house, better than the servant, I will return sooner and try my hand at it. Your account of Sophy has removed from me a heavy load of anxiety. That horrible pleurisy frightened me. I can bear pain passably well myself: it is only when it rebounds from my friends that I have not the courage to face it. You would have laugh at me the other day when a lady was my protectress. I was over at Marston to see the Boyles when (tell the Admiral if he is with you) I delivered his message to Sir Courtney. In the courtyard was a magnificent black Newfoundland dog. No sooner I had entered the gate than, before I could deliver my credentials, or make the sign of dog-freemasonry, he seized my leg. A swinging box on the ear was opposed to this manœuvre. My Newfoundlander had what the boxers (not very elegantly) call *pluck*. He renewed the attack, despite some severe appellations and admirable parasol-thrusts of Miss Boyle. However she conquered him—for neither my box on the ear nor a kick at the second round, which sent him upon his back, made him give in. We were pretty good friends at last, although I told him I should trouble him, at his leisure, just to look over a certain article in my tailor's bill, which might as well be transferred to his account. Fred will think this rare fun—for several minutes it was rather serious. I would have declined the combat and have left my enemy alone with his glory had there been any escape.
 
 Believe me, dear Rose,  
-Yours very affectionately,
+    Yours very affectionately,
 
 W. S. <span class="small-caps">Landor</span>.
 
@@ -1372,7 +1372,7 @@ It is no wonder to me that you were enchanted with York Cathedral. Whatever is e
 Mrs. —— tells me she and her family went over to Weston Super Mare. Of all the places on the earth or the waters, this is surely the most muddy and miserable. She found it so, although her voyage was not made in search of the picturesque. I have no other Bath news to offer you. I have exhausted my genius in the long letter I wrote to Mrs. Paynter this morning. Luckily she asked me for two *Examiners.* The best of me was in them. If you happen to receive them do not think me spiteful because I am severe. It devolved on me to punish two [^fn-p0108-1] evil-doers. I was called to it by many loud voices, and some of them from afar. I do confess to an intolerance of baseness, but I am very tolerant of the most adverse opinions on all subjects whatsoever.
 
 Believe me, dear Rose,  
-Ever affectionately yours,
+    Ever affectionately yours,
 
 W. S. <span class="small-caps">Landor.</span>
 
@@ -1417,7 +1417,7 @@ Mind, I have only heard read one book.
 Yours sincerely,
 
 Philo-Snake,  
-C. L.
+    C. L.
 
 ### Letter 59: C. L. → William Wordsworth
 
@@ -1452,7 +1452,7 @@ I am extremely sorry that any serious differences should subsist between us, on 
 I beg you to impute my conduct solely to that, and not to any deliberate intention of offending you, from whom I have received so many friendly attentions. I know that you think a very important difference in opinion with respect to some more serious subjects between us makes me a dangerous companion; but do not rashly infer, from some slight and light expressions which I may have made use of in a moment of levity, in your presence, without sufficient regard to your feelings—do not conclude that I am an inveterate enemy to all religion. I have had a time of seriousness, and I have known the importance and reality of a religious belief. Latterly, I acknowledge, much of my seriousness has gone off, whether from new company, or some other new associations; but I still retain at bottom a conviction of the truth, and a certainty of the usefulness of religion. I will not pretend to more gravity of feeling than I at present possess; my intention is not to persuade you that any great alteration is probable in me; sudden converts are superficial and transitory; I only want you to believe that I have *stamina* of seriousness within me, and that I desire nothing more than a return of that friendly intercourse which used to subsist between us, but which my folly has suspended.
 
 Believe me,  
-Very affectionately yours,
+    Very affectionately yours,
 
 C. <span class="small-caps">Lamb.</span>
 
@@ -1665,46 +1665,46 @@ But it signifies very little what Mellish said,
     Because he is dead.
 
 For who can confute  
-A body that's mute?  
-Or who would fight  
-With a senseless sprite?  
-Or think of troubling  
-An impenetrable old goblin  
-That's dead and gone  
-And stiff as a stone—  
-To convince him with arguments pro and con  
-As if he were some live logician  
-Bred up at Merton  
-or Mr. Hazlitt the Metaphysician—  
-Ha! Mr. Ayrton—  
-With all your rare tone—
+    A body that's mute?  
+        Or who would fight  
+            With a senseless sprite?  
+                Or think of troubling  
+                    An impenetrable old goblin  
+                    That's dead and gone  
+                    And stiff as a stone—  
+                    To convince him with arguments pro and con  
+                    As if he were some live logician  
+                    Bred up at Merton  
+                    or Mr. Hazlitt the Metaphysician—  
+                    Ha! Mr. Ayrton—  
+                    With all your rare tone—
 
 For tell me how should an apparition  
-List to your call,  
-Though you talk'd forever  
-Ever so clever  
-When his ear itself  
-By which he must hear or not hear at all  
-Is laid on the shelf?  
-Or put the case  
-(for more grace)  
-It were a female spectre—  
-How could you expect her  
-To take much gust  
-In long speeches  
-With her tongue as dry as dust  
-In a sandy place  
-Where no peaches  
-Nor lemons nor limes nor oranges hang  
-To drop on the drouth of an arid harangue,  
-or quench  
-With their sweet drench  
-The fiery pangs which the worms inflict  
-With their endless nibblings  
-Like quibblings  
-Which the corpse may dislike, but can ne'er contradict.  
-Ha! Mr. Ayrton!  
-With all your rare tone—
+    List to your call,  
+        Though you talk'd forever  
+            Ever so clever  
+                When his ear itself  
+                    By which he must hear or not hear at all  
+                    Is laid on the shelf?  
+                    Or put the case  
+                    (for more grace)  
+                    It were a female spectre—  
+                    How could you expect her  
+                    To take much gust  
+                    In long speeches  
+                    With her tongue as dry as dust  
+                    In a sandy place  
+                    Where no peaches  
+                    Nor lemons nor limes nor oranges hang  
+                    To drop on the drouth of an arid harangue,  
+                    or quench  
+                    With their sweet drench  
+                    The fiery pangs which the worms inflict  
+                    With their endless nibblings  
+                    Like quibblings  
+                    Which the corpse may dislike, but can ne'er contradict.  
+                    Ha! Mr. Ayrton!  
+                    With all your rare tone—
 
 I am C. <span class="small-caps">Lamb</span>.
 
@@ -1871,9 +1871,9 @@ P.S.—We are just sitting down to dinner with a pleasant party, Coleridge, Reyn
 C. <span class="small-caps">Lamb.</span>
 
 *Addressed*  
-T. Dibdin, Esq.,  
-No. 4, Meadow Cottages,  
-Hastings.
+    T. Dibdin, Esq.,  
+        No. 4, Meadow Cottages,  
+            Hastings.
 
 ### Letter 77: C. L. → P. G. Patmore
 
@@ -1962,7 +1962,7 @@ I will assuredly come and find you out when I am better. I am driven from house 
 I repent not of my resolution. 'Tis late, and my hand is unsteady; so good-bye till we meet,
 
 Your old  
-C. L.
+    C. L.
 
 Mr. Walden's,  
 Church Street, Edmonton.  
@@ -2610,7 +2610,7 @@ You don't see much of Hunt. I wish you could contrive to see him when you go to 
 I have depression enough of spirits and not good health, though I believe the warm air of Naples does me good. We see absolutely no one here.
 
 Adieu, my dear Peacock,  
-affectionately your friend,
+    affectionately your friend,
 
 P. B. S.
 
@@ -3491,7 +3491,7 @@ Can you let me have an early copy of the “American Notes,” so that I may rev
 Pray present my respects for me to Mrs. Dickens. How she must enjoy being at home and discovering her children, after her Columbusing, and only discovering America.
 
 I am, my dear Dickens,  
-Yours very truly,
+    Yours very truly,
 
 <span class="small-caps">Thomas Hood</span>
 
@@ -3891,7 +3891,7 @@ March 3, 1863.
 I was ashamed this morning to send the expressman to your door in quest of an old umbrella, not unlike that which accompanied and consoled the exiled king of France in his flight to England. Nevertheless, I did send; for it is a lineal descendant of King Cotton, and is of that particularly audacious kind that never says “Lost.” In the hands of a modern “sensuous” poet the handle would become pearl (daughter, not mother of) and the rest would be of a “tissue from the looms of Samarcand.” Finally, it is the one I keep to lend to lecturers at the Lowell Institute, and the like; and, though very dissipated, is worth reclaiming.
 
 Accept my apology and believe me, or not,  
-Yours truly.
+    Yours truly.
 
 ### Letter 167: Henry Wadsworth Longfellow → George W. Greene
 
@@ -4190,7 +4190,7 @@ I have bought scarce any new books or prints: and am not sorry to see that I wan
 Now I must finish my letter: and a very stupid one it is. Here is a sentence of Warburton's that, I think, is very wittily expressed: though why I put it in here is not very discoverable. “The Church, like the Ark of Noah, is worth saving: not for the sake of the unclean beasts that almost filled it, and probably made most noise and clamour in it, but for the little corner of rationality, that was as much distressed by the stink within, as by the tempest without.” Is it not good? It is out of his letters: and the best thing in them. It is also the best thing in mine.
 
 With kind remembrances to Miss Barton, believe me  
-Yours very affectionately
+    Yours very affectionately
 
 E. <span class="small-caps">FitzGerald.</span>
 
@@ -4787,7 +4787,7 @@ I have been having a very pleasant vacation at Beverly, Nahant, and Mattapoisett
 Now that it is over and irremediable I am thinking with a sort of horror of a bad joke in the last number of *Vanity Fair,* which may perhaps annoy somebody whom I wouldn’t wish to displease. Amelia is represented as having a lady’s maid, and the lady’s maid’s name is Payne. I laughed when I wrote it, and thought that it was good fun, but now, who knows whether you and Payne and everybody won’t be angry, and in fine, I am in a great tremor. The only way will be, for you I fear to change Payne’s name to her Christian one. Pray don’t be angry if you are, and forgive me if I have offended. You know you are only a piece of Amelia, my mother is another half, my poor little wife—*y est pour beaucoup.*
 
 and I am  
-Yours most sincerely,
+    Yours most sincerely,
 
 W. M. <span class="small-caps">Thackeray.</span>
 
@@ -5088,7 +5088,7 @@ David Colden is as good a fellow as ever lived; and I am deeply in love with his
 Now, don't you rush at the quick conclusion that I have rushed at a quick conclusion. Pray, be upon your guard. If you can by any process estimate the extent of my affectionate regard for you, and the rush I shall make when I reach London to take you by your true right hand, I don't object. But let me entreat you to be very careful how you come down upon the sharpsighted individual who pens these words, which you seem to me to have done in what Willmott would call “one of Mr. Macready's rushes.”
 
 I am ever, my dear Macready,  
-Your faithful Friend,
+    Your faithful Friend,
 
 <span class="small-caps">Charles Dickens.</span>
 
@@ -5196,7 +5196,7 @@ Preparations were made here, about six weeks ago, to receive the Emperor, who is
 We are all quite well. Going to drop two small boys here, at school with a former Eton tutor highly recommended to me. Charley was heard of a day or two ago. He says his professor “is very short-sighted, always in green spectacles, always drinking weak beer, always smoking a pipe, and always at work.” The last qualification seems to appear to Charley the most astonishing one.
 
 Ever, my dear Mrs. Watson,  
-Most affectionately yours,
+    Most affectionately yours,
 
 <span class="small-caps">Charles Dickens.</span>
 
@@ -5256,7 +5256,7 @@ Will you let me present to you a cousin of mine, Mr. B——, who is associated 
 I had a long talk with Leslie at the last Academy dinner (having previously been with him in Paris), and he told me that you were flourishing. I suppose you know that he wears a moustache—so do I for the matter of that, and a beard too—and that he looks like a portrait of Don Quixote. Holland House has four-and-twenty youthful pages in it now—twelve for my lord, and twelve for my lady; and no clergyman coils his leg up under his chair all dinner-time, and begins to uncurve it when the hostess goes. No wheeled chair runs smoothly in with that beaming face in it; and ——'s little cotton pocket-handkerchief helped to make (I believe) this very sheet of paper. A half-sad, half-ludicrous story of Rogers is all I will sully it with. You know, I daresay, that for a year or so before his death he wandered, and lost himself like one of the Children in the Wood, grown up there and grown down again. He had Mrs. Procter and Mrs. Carlyle to breakfast with him one morning—only those two. Both excessively talkative, very quick and clever, and bent on entertaining him. When Mrs. Carlyle had flashed and shone before him for about three-quarters of an hour on one subject, he turned his poor old eyes on Mrs. Procter, and pointing to the brilliant discourser with his poor old finger, said (indignantly), “Who is *she?*” Upon this, Mrs. Procter, cutting in, delivered (it is her own story) a neat oration on the life and writings of Carlyle, and enlightened him in her happiest and airiest manner; all of which he heard, staring in the dreariest silence, and then said (indignantly, as before), “And who are *you?*”
 
 Ever, my dear Irving,  
-Most affectionately and truly yours,
+    Most affectionately and truly yours,
 
 <span class="small-caps">Charles Dickens.</span>
 
@@ -5358,7 +5358,7 @@ It is time I should explain the otherwise inexplicable enclosure. Will you tell 
 “No Thoroughfare” is very shortly coming out in Paris, where it is now in active rehearsal. It is still playing here, but without Fechter, who has been very ill. The doctor’s dismissal of him to Paris, however, and his getting better there, enables him to get up the play there. He and Wilkie missed so many pieces of stage-effect here, that, unless I am quite satisfied with his report, I shall go over and try my stage-managerial hand at the Vaudeville Theatre.
 
 Ever, my dear Mrs. Fields,  
-Your most affectionate friend,
+    Your most affectionate friend,
 
 <span class="small-caps">Charles Dickens.</span>
 
@@ -5538,7 +5538,7 @@ It is orfle cold here, and I don't know what to do. I think I shall go to Jibber
 A few days ago in a railway as I went to my sister's a gentleman explained to two ladies, (whose children had my “Book of Nonsense,”) that thousands of families were grateful to the author (which in silence I agreed to) who was not generally known—but was really Lord Derby: and now came a showing forth, which cleared up at once to my mind why that statement has already appeared in several papers. Edward Earl of Derby (said the Gentleman) did not choose to publish the book openly, but dedicated it as you see to his relations, and now if you will transpose the letters L E A R you will read simply EDWARD EARL.—Says I, joining spontanious in the conversation—“That is quite a mistake: I have reason to know that Edward Lear the painter and author wrote and illustrated the whole book.” “And I,” says the Gentleman, says he—“have good reason to know, Sir, that you are wholly mistaken. *There is no such a person* as Edward Lear.” “But,” says I, “there *is*—and I am the man—and I wrote the book!” Whereon all the party burst out laughing and evidently thought me mad or telling fibs. So I took off my hat and showed it all round, with Edward Lear and the address in large letters—also one of my cards, and a marked handkerchief: on which amazement devoured those benighted individuals and I left them to gnash their teeth in trouble and tumult.
 
 Believe me, Dear Lady Waldegrave,  
-Yours sincerely,
+    Yours sincerely,
 
 <span class="small-caps">Edward Lear.</span>
 
@@ -5744,7 +5744,7 @@ I have, however, passed this week very happily here. We have a good clergyman, M
 My wife begs me to return her sincere thanks for your kind message, and to express to you the delight with which she looks forward to being presented to you—remembering what I told her among some of my first pleadings with her, that, whatever faults she might discover in her husband, he could at least promise her friends, whom she would have every cause to love and to honor. She needs them, but I think also deserves them.
 
 Ever, my dear Miss Mitford, believe me,  
-Faithfully and affectionately yours,
+    Faithfully and affectionately yours,
 
 J. <span class="small-caps">Ruskin.</span>
 
@@ -6335,7 +6335,7 @@ I am meaning to dedicate to you the new edition of my *Italian Poets*. The first
 Hoping to hear a better account soon,
 
 I am ever  
-Your most loving Son,
+    Your most loving Son,
 
 D. <span class="small-caps">Gabriel</span> R.
 

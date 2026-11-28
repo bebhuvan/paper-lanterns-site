@@ -293,26 +293,26 @@
   {
    "format": "epub",
    "file": "emily-dickinson-letters-1894.epub",
-   "bytes": 196614,
-   "sha256": "2732dec749b6dae7bd59b47b9bca9c849d22a53256ba5b961fc1cdbe46fd5c46"
+   "bytes": 196640,
+   "sha256": "7a3c1f335b1865a4f634ab5eca4d621077fd6db92a01575d0048c6225c79f9b9"
   },
   {
    "format": "markdown",
    "file": "emily-dickinson-letters-1894.md",
-   "bytes": 315488,
-   "sha256": "415e4b0e800186cb8e444a91f97e5f989532c9213d417dcdbb17ce977abb3fe1"
+   "bytes": 315496,
+   "sha256": "e55c75992aba554dced5842550a8ed9230193a6e9d8c921a46b30423d42de095"
   },
   {
    "format": "tei",
    "file": "emily-dickinson-letters-1894.tei.xml",
-   "bytes": 414301,
-   "sha256": "dd2fa8557c58b0158276195da1e0b29aab41c95b622b8c4edb15b4b5cc439d75"
+   "bytes": 414333,
+   "sha256": "147259c850e6e336675f14bb8a8ce321deb3b20712e26779818f00d7beb92bfb"
   }
  ],
  "scan_base": "https://archive.org/download/lettersofemilydi00dick/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T03:47:02Z",
+  "compiled_at": "2026-11-28T05:26:36Z",
   "source_ast_sha256": "7ea5074f6433bcc4b949c5e745e79f20c07cf0a0263805c2e1729fec999e6085",
   "hugo_renderer_version": "1.0.0"
  }

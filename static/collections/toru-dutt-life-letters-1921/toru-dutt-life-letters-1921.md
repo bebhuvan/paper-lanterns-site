@@ -105,8 +105,7 @@ H. DAS.
 
 ### CONTENTS
 
-| PAGE |
-| --- |
+**PAGE**
 
 FOREWORD . . . . . . . . vii
 
@@ -3124,9 +3123,9 @@ and was so moved that he could not read further.
 28th. Your dear letter of the 26th July arrived yesterday. I was at first a little surprised at the writing of the address. Papa suggested that it must be a letter from M. Boquel, but I soon guessed that it was Miss A.'s hand, and your letter confirmed my suspicions. Indeed, dear, I shall write to you as often as possible when I get well again. I am very weak, you see, and am apt to get soon tired, if I exert myself ever so little. I hope you will excuse me my faults and delays in not writing to you as long as I am ill. I was thinking of you, dear, the other night. It was a Sunday night, and I could not sleep because of the fever, and I kept awake for two or three hours. I heard the clock strike one, and then I thought you were perhaps at Church, at evening service, and then I wished I could be with you and
 
 Hear once more in college fanes  
-The storms their high-built organs make,  
-And thunder-music rolling shake  
-The prophets blazoned on the panes.
+    The storms their high-built organs make,  
+        And thunder-music rolling shake  
+            The prophets blazoned on the panes.
 
 Your last letter was very nice, dear, I read it several times over.
 
@@ -3191,8 +3190,8 @@ I am now quite well, but I have been obliged to give up Sanskrit for the present
 I have just received a letter from you, dear. Such a duck of a letter ! Mr. Knight's address is :
 
 Messrs. W. Newman and Co.  
-Booksellers,  
-Dalhousie Square, E. Calcutta, India.
+    Booksellers,  
+        Dalhousie Square, E. Calcutta, India.
 
 Little Varûna has been ill, but is now quite well. He is so intelligent. He knows all about Moody and Sankey. Some months ago he had a book about them in his hand ; I was looking at their likenesses on the cover, when he explained to me : ‘ this is Moody, he preaches ; this other one is Sankey,— he sings,’ and then he breaks forth into one of their well-known hymns : ‘ F’ee f’om the law ’ (which means ‘ Free from the law ’) or ‘ Ho ! my comwades ! ’ (Ho ! my comrades).
 

@@ -3664,8 +3664,8 @@ Your letter moves and touches me. I thank you with all my heart for your thanks.
 [^fn-p0196-1]: (1) *Note by Sainte-Beuve:* “After sending him the manuscript of *Vie de Joseph Delorme.*”
 [^fn-p0196-2]: (2) *Note by Sainte-Beuve:* “During my journey on the Rhine, while I was writing *Consolations.*”
 [^fn-p0202-1]: (1) *Note by Sainte-Beuve*: “Revolution of July.”
-[^fn-p0204-1]: (1) *Le 1st Janvier,* 1831.
-    Bonjour, Sainte-Beuve, je te remercie bien ta belle poupée. Charles est bien content aussi et nous tanbrasseron bien quand tu viendra voir papa et maman ma petite sœure est bien contente aussi.
+[^fn-p0204-1]: (1) *Le 1st Janvier,* 1831.  
+    Bonjour, Sainte-Beuve, je te remercie bien ta belle poupée. Charles est bien content aussi et nous tanbrasseron bien quand tu viendra voir papa et maman ma petite sœure est bien contente aussi.  
     Ta petite ami,    <span class="small-caps">Didine.</span>
 [^fn-p0214-1]: (1) After the events of June, 1832, in consequence of the insurrection, [Par]is was placed in a state of siege; there were fears at one time of a [sangui]nary reaction, and there was some talk of inserting a signed protest [in the] *National.* (Sainte-Beuve, *Portraits contemporains,* 1870.)
 [^fn-p0219-1]: (1) 31*st December*, 1832.

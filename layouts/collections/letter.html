@@ -63,19 +63,26 @@
      "Letter N of M". Left out when the dates jump back more than a year, as in an anthology, where a range would
      mislead; small slips (a 16 May letter printed before a 15 May one) are normal in a printed series. Dates are
      padded to one length ("1566" → "1566-00-00") so they compare as text. */ -}}
-{{- $ordered := true -}}{{- $lastYear := 0 -}}{{- $a := "" -}}{{- $b := "" -}}{{- $ka := "" -}}{{- $kb := "" -}}
+{{- $ordered := true -}}{{- $lastYear := 0 -}}{{- $hasLast := false -}}{{- $a := "" -}}{{- $b := "" -}}{{- $ka := 0 -}}{{- $kb := 0 -}}{{- $hasRange := false -}}
 {{- range $nearby }}{{ with .Params.letter_date.iso }}
-{{- $k := substr (printf "%s-00-00" .) 0 10 -}}{{- $y := int (substr . 0 4) -}}
-{{- if and $lastYear (lt $y (sub $lastYear 1)) }}{{ $ordered = false }}{{ end -}}
-{{- $lastYear = $y -}}
-{{- if or (not $ka) (lt $k $ka) }}{{ $ka = $k }}{{ $a = . }}{{ end -}}
-{{- if or (not $kb) (gt $k $kb) }}{{ $kb = $k }}{{ $b = . }}{{ end -}}
+{{- $y := partial "iso-year.html" . -}}
+{{- $parts := split (strings.TrimPrefix "-" .) "-" -}}
+{{- $mm := 0 -}}{{- if gt (len $parts) 1 }}{{ $mm = int (strings.TrimLeft "0" (index $parts 1) | default "0") }}{{ end -}}
+{{- $dd := 0 -}}{{- if gt (len $parts) 2 }}{{ $dd = int (strings.TrimLeft "0" (index $parts 2) | default "0") }}{{ end -}}
+{{- $k := add (mul $y 10000) (add (mul $mm 100) $dd) -}}
+{{- if and $hasLast (lt $y (sub $lastYear 1)) }}{{ $ordered = false }}{{ end -}}
+{{- $lastYear = $y -}}{{- $hasLast = true -}}
+{{- if or (not $hasRange) (lt $k $ka) }}{{ $ka = $k }}{{ $a = . }}{{ end -}}
+{{- if or (not $hasRange) (gt $k $kb) }}{{ $kb = $k }}{{ $b = . }}{{ end -}}
+{{- $hasRange = true -}}
 {{- end }}{{ end -}}
 {{- $span := "" -}}
 {{- if and $a $ordered -}}
-{{- $ya := substr $a 0 4 -}}{{- $yb := substr $b 0 4 -}}
-{{- if and (ge (len $a) 7) (ge (len $b) 7) -}}
-{{- $ma := (time.AsTime (printf "%s-01" (substr $a 0 7))).Format "January" -}}{{- $mb := (time.AsTime (printf "%s-01" (substr $b 0 7))).Format "January" -}}
+{{- $ya := partial "astro-year.html" (partial "iso-year.html" $a) -}}{{- $yb := partial "astro-year.html" (partial "iso-year.html" $b) -}}
+{{- $pa := split (strings.TrimPrefix "-" $a) "-" -}}{{- $pb := split (strings.TrimPrefix "-" $b) "-" -}}
+{{- if and (ge (len $pa) 2) (ge (len $pb) 2) -}}
+{{- $months := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" -}}
+{{- $ma := index $months (sub (int (strings.TrimLeft "0" (index $pa 1))) 1) -}}{{- $mb := index $months (sub (int (strings.TrimLeft "0" (index $pb 1))) 1) -}}
 {{- if ne $ya $yb }}{{ $span = printf "%s %s – %s %s" (substr $ma 0 3) $ya (substr $mb 0 3) $yb }}{{ else if ne $ma $mb }}{{ $span = printf "%s – %s %s" $ma $mb $ya }}{{ else }}{{ $span = printf "%s %s" $ma $ya }}{{ end -}}
 {{- else -}}
 {{- if ne $ya $yb }}{{ $span = printf "%s – %s" $ya $yb }}{{ else }}{{ $span = $ya }}{{ end -}}
@@ -214,8 +221,7 @@
 {{- $rName := .Params.recipient_full | default .Params.recipient -}}
 {{- $sSlug := partial "person-slug.html" $sName -}}
 {{- $rSlug := partial "person-slug.html" $rName -}}
-{{- $dec := partial "letter-decade.html" . -}}
-{{- $decPage := false -}}{{- if $dec }}{{ $decPage = site.GetPage (printf "/explore/%ds" (int $dec)) }}{{ end -}}
+{{- $decPage := false -}}{{- if .Params.letter_date.iso }}{{ $decPage = site.GetPage (printf "/explore/%ds" (int (partial "letter-decade.html" .))) }}{{ end -}}
 {{- if or $sName $rName .Params.letter_date.display .Params.place }}
 <div><dt>Letter</dt><dd>
 {{- if $sName }}{{ if $sSlug }}<a class="u" href="{{ printf "/people/%s/" $sSlug | relURL }}">{{ $sName }}</a>{{ else }}{{ $sName }}{{ end }}{{ end -}}

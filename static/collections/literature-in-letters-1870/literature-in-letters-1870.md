@@ -2267,7 +2267,7 @@ I hope the process of furnishing goes on well. Attend, I pray you, to the proper
 I hope you remain in perfect favor with Rogers, and that you are not omitted in any of the dress breakfast parties. Remember me to the Norton. Tell her I am glad to be sheltered from her beauty by the insensibility of age; that I shall not live to see its decay, but die with that unfaded image before my eyes. But don't make a mistake and deliver the message to ——, instead of your sister.
 
 I remain, dear Lady Dufferin,  
-Very sincerely yours,
+    Very sincerely yours,
 
 <span class="small-caps">Sydney Smith.</span>
 
@@ -2525,35 +2525,6 @@ I was one of the many English who availed themselves of the first short peace to
 * * *
 
 Engrossed as I was with the Apollo, I could not forget the honor of being before him in the company of so august a worshipper; and it certainly increased my enjoyment to see the first interview between the paragon of Art and that of Nature. Mrs. Siddons was evidently much struck, and remained a long time before the statue; but like a true admirer she was not loquacious. I remember she said: “What a great idea it gives us of God, to think that he has made a human being capable of fashioning so divine a form!” When we walked around to other sculptures I observed almost every eye in the hall was fixed upon her and followed her ; yet I could perceive that she was not known, as I could hear the spectators say, “Who is she? Is she not an Englishwoman?” At this time, though in her fifty-ninth year, her looks were so noble, that she made you proud of English beauty—even in the presence of Grecian sculpture.[^fn-p0246-1]
-
-> **[verse_insert]**
->
-> *Page.*—Madam, there is a lady in your hall,  
->    Who begs to be admitted to your presence.  
-> *Lady.*—Is it not one of our invited friends ?  
-> *Page.*—No ; far unlike to them. It is a stranger.  
-> *Lady.*—How looks her countenance ?  
-> *Page.*—So queenly, so commanding, and so noble,  
->    I shrunk at first in awe ; but when she smiled  
->    Methought I could have compassed sea and land  
->    To do her bidding.  
-> *Lady.*—Is she young or old ?  
-> *Page.*—Neither, if right I guess ; but she is fair,  
->    For time has laid his hand so gently on her,  
->    As he too had been awed,  
->    So stately and so graceful is her form.  
->    I thought at first her statue was gigantic,  
->    But, on a near approach, I found in truth  
->    She scarcely does surpass the middle size.  
-> *Lady.*—What is her garb ?  
-> *Page.*—I cannot well describe the fashion of it ;  
->    She is not decked in any gallant trim,  
->    But seems to me clad in the usual weeds  
->    Of high habitual state.  
-> *Lady.*—Thine eyes deceive thee, boy,  
->    It is an apparition thou hast seen.  
-> *Friberg.*—It *is* an apparition he has seen,  
->    Or Jane de Montfort.
 
 This description will not seem extravagant to those who read the letters of Dr. Beattie or Washington Irving, recording the impression made upon them by this wonderful woman, when far advanced in life. Dr. Johnson, when asked whether he did not think her finer on the stage, where she was adorned by art, replied, “On the stage art does not adorn her ; nature adorns her there, and art glorifies her.”
 
@@ -2914,7 +2885,34 @@ friend,
 [^fn-p0235-1]: (*) Mr. Webster’s correspondence is full of evidence of the genuineness of his appreciation of morning. The following passage occurs in a letter to Mr. Blatchford (Vol. 2, Private Correspondence, p. 262): <span class="small-caps">Marshfield</span>, Tuesday morning, five o’clock, Dec. 7, 1847. It is a beautiful, clear, cold, still morning. I rose at four o’clock, and have looked forth. The firmament is glorious. Jupiter and Venus are magnificent, “ and stars unnumbered gild the glowing pole.” I wish I could once see the constellations of the South, though I do not think they can excel the heavens which are over our heads. An hour or two hence we shall have a fine sunrise. The long twilights of this season of the year make the sun’s rising a slow and beautiful progress. About an hour hence these lesser lights will begin to pale their ineffectual fires.
 [^fn-p0241-1]: (*) This puts me in mind of a similar description written by Dr. Jeremy Taylor, which I shall here beg leave to present to the reader, who will find by it that the old divine had occasionally as much power of description as even our modern poet. “As when the sun approaches toward the gates of the morning, he first opens a little eye of heaven, and sends away the spirits of darkness; gives light to the cock, and calls up the lark to mattins; and by and by gilds the fringes of a cloud, and peeps over the eastern hills, thrusting out his golden horns * * *; and still (while a man tells the story) the sun gets up higher till he shows a fair face and a full light.”—J. <span class="small-caps">Taylor's</span> *Holy Dying*, p. 17.—M.
 [^fn-p0241-2]: (†) Walpole's letters are full of society, but have little of nature or art.
-[^fn-p0246-1]: (*) In another place Campbell states that Joanna Baillie has left an almost perfect picture of Mrs. Siddons in the following passage: *Jane de Montfort*, Act 2.—S. 1.
+[^fn-p0246-1]: (*) In another place Campbell states that Joanna Baillie has left an almost perfect picture of Mrs. Siddons in the following passage:
+
+    *Page.*—Madam, there is a lady in your hall,  
+       Who begs to be admitted to your presence.  
+    *Lady.*—Is it not one of our invited friends ?  
+    *Page.*—No ; far unlike to them. It is a stranger.  
+    *Lady.*—How looks her countenance ?  
+    *Page.*—So queenly, so commanding, and so noble,  
+       I shrunk at first in awe ; but when she smiled  
+       Methought I could have compassed sea and land  
+       To do her bidding.  
+    *Lady.*—Is she young or old ?  
+    *Page.*—Neither, if right I guess ; but she is fair,  
+       For time has laid his hand so gently on her,  
+       As he too had been awed,  
+       So stately and so graceful is her form.  
+       I thought at first her statue was gigantic,  
+       But, on a near approach, I found in truth  
+       She scarcely does surpass the middle size.  
+    *Lady.*—What is her garb ?  
+    *Page.*—I cannot well describe the fashion of it ;  
+       She is not decked in any gallant trim,  
+       But seems to me clad in the usual weeds  
+       Of high habitual state.  
+    *Lady.*—Thine eyes deceive thee, boy,  
+       It is an apparition thou hast seen.  
+    *Friberg.*—It *is* an apparition he has seen,  
+       Or Jane de Montfort. *Jane de Montfort*, Act 2.—S. 1.
 [^fn-p0265-1]: (*) The existence of this correspondence is mentioned by Mr. Roscoe in his life of Leo X., but he had not seen it.
 [^fn-p0275-1]: (*) Pompeii, says Lord Dudley, "may be considered as a town *potted* about seventeen hundred years ago for the use of the antiquarians of the present century. You may easily conceive how much one's notions of the state of things in the ancient world are helped by a mere glimpse of this singular remain. When, in the course of their labors, the workmen had got to any spot which seemed to be particularly interesting, notice was sent to the court, which generally attended to watch the result."
 [^fn-p0287-1]: (*) From the Life and Letters of Irving, by his nephew, Pierre M. Irving.
@@ -4294,9 +4292,9 @@ H. <span class="small-caps">More</span>.
 
 ### Notes
 
-[^fn-p0401-1]: (*) Milton's eyesight began to fail when he was about thirty years of age, but the process of obscuration was so gradual that total blindness did not supervene for nine years. The affection was *gutta serena,* and left his eyes clear, and with no external disfigurement. “My mind,” says Coleridge, in his Biographia Literaria (3d vol. of Works, p. 168), “is not capable of forming a more august conception than arises from the contemplation of this great man in his latter days; poor, sick, old, blind, slandered, persecuted,— “ ‘Darkness before, and danger's voice behind,’ in an age in which he was as little understood by the party for whom, as by that against whom, he had contended; and among men before whom he strode so far as to dwarf himself by the distance; yet still listening to the music of his own thoughts, or, if additionally cheered, yet cheered only by the prophetic faith of two or three solitary individuals, he did nevertheless ——— Argue not
-    Against Heaven's hand or will, nor bate a jot
-    Of heart or hope; but still bore up, and steered
+[^fn-p0401-1]: (*) Milton's eyesight began to fail when he was about thirty years of age, but the process of obscuration was so gradual that total blindness did not supervene for nine years. The affection was *gutta serena,* and left his eyes clear, and with no external disfigurement. “My mind,” says Coleridge, in his Biographia Literaria (3d vol. of Works, p. 168), “is not capable of forming a more august conception than arises from the contemplation of this great man in his latter days; poor, sick, old, blind, slandered, persecuted,— “ ‘Darkness before, and danger's voice behind,’ in an age in which he was as little understood by the party for whom, as by that against whom, he had contended; and among men before whom he strode so far as to dwarf himself by the distance; yet still listening to the music of his own thoughts, or, if additionally cheered, yet cheered only by the prophetic faith of two or three solitary individuals, he did nevertheless ——— Argue not  
+    Against Heaven's hand or will, nor bate a jot  
+    Of heart or hope; but still bore up, and steered  
     Right onward."—H.
 [^fn-p0411-1]: (*) The character of Sporus in the Epistle to Dr. Arbuthnot.
 [^fn-p0413-1]: (*) This excellent person died Feb. 27, 1734–'5.
@@ -4310,13 +4308,13 @@ H. <span class="small-caps">More</span>.
 [^fn-p0431-1]: (*) Mr. Burke, in a letter to Mr. Murphy on his Translation of Tacitus, makes some critical reflections on Dr. Robertson’s style, which, whether just or not in reference to that historian, are entitled in themselves to great consideration. “There is a style,” says he, “which daily gains amongst us, which I should be sorry to see further advanced by a writer of your just reputation. The tendency of the mode to which I allude, is to establish two very different idioms amongst us, and to introduce a marked distinction between the English that is written and the English that is spoken. This practice, if grown a little more general, would confirm this distemper, such I must think it in our language, and render it incurable. From this feigned manner of *falsetto*, as I think the musicians call something of the same sort in singing, no one modern historian, Robertson only excepted, is perfectly free. It is assumed, I know, to give dignity and variety to the style. But whatever success the attempt may sometimes have, it is always obtained at the expense of purity and of the graces that are natural and appropriate to our language. It is true that when the exigence calls for auxiliaries of all sorts, and common language becomes unequal to the demands of extraordinary thoughts, something ought to be conceded to the necessities which make ‘ambition virtue.’ But the allowance to necessities ought not to grow into a practice.” Mr. Dugald Stewart, in commenting upon this letter (Life of Dr. Robertson), adds a very just warning to young writers. “May I,” says he, “be permitted to remark, that in the opposite extreme to that fault which Mr. Burke has censured, there is another, originating in too close an adherence to what he recommends as the model of good writing, the ease and familiarity of colloquial discourse? In the productions of his more advanced years, he has occasionally fallen into it himself, and has sanctioned it by his example, in the numerous herd of his imitators, who are incapable of atoning, by copying the exquisite and inimitable beauties which abound in his compositions. For my own part, I can much more easily reconcile myself, in a grave and dignified argument, to the *dulcia vitia* of Tacitus and of Gibbon, than that affectation of *cant* words and allusions which so often debases Mr. Burke’s eloquence, and which was long ago stigmatized by Swift ‘as the most ruinous of all the corruptions of a language.’”
 [^fn-p0435-1]: (*) Historian of Philip the Second of Spain.
 [^fn-p0455-1]: (*) His translation, from the Persian, of the Life of Nidar Shah.
-[^fn-p0464-1]: (*) This noble lyric was conceived by the poet during a storm, among the wilds of Glenken in Galloway. The first two stanzas, as they stood in the poet’s manuscript, were suppressed by the advice of some critical friends. As they are not found in many editions, they are reproduced here: “ At Bannockburn the English lay;
-    The Scots they wer na far away,
-    But waited for the break of day
-        That glinted in the east. “ But the sun broke through the heath,
-    And lighted up that field of death;
-    When Bruce wi’ saul-inspiring breath
-        His heralds thus addressed:
+[^fn-p0464-1]: (*) This noble lyric was conceived by the poet during a storm, among the wilds of Glenken in Galloway. The first two stanzas, as they stood in the poet’s manuscript, were suppressed by the advice of some critical friends. As they are not found in many editions, they are reproduced here: “ At Bannockburn the English lay;  
+    The Scots they wer na far away,  
+    But waited for the break of day  
+        That glinted in the east. “ But the sun broke through the heath,  
+    And lighted up that field of death;  
+    When Bruce wi’ saul-inspiring breath  
+        His heralds thus addressed:  
         ‘ Scots, wha hae,’ ” etc.
 [^fn-p0466-1]: (*) Dr. Beattie states that the opinion here attributed to Herschel, as to the number of fragments of the destroyed planet, was never advanced except as an hypothesis, having some probability.
 [^fn-p0471-1]: (*) The Leaureateship, although associated with the glorious names of Ben Jonson and Dryden, had been, prior to this period, degraded in popular estimation by being conferred upon unworthy incumbents. Southey, Wordsworth, and Tennyson have revived the pristine lustre of the office. It is now understood that the Laureate may write only when and what he pleases.—H.
@@ -4480,7 +4478,7 @@ My habits of life have not been favorable for this train of meditation. I have b
 In another letter I may write to you on miscellaneous subjects; at present I cannot bring my mind to speak of them. Let me hear from you soon and often.
 
 Farewell, my dear friend.  
-Yours ever most faithfully,
+    Yours ever most faithfully,
 
 <span class="small-caps">James Mackintosh.</span>
 

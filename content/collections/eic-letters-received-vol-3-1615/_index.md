@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "East India Company, William Foster (ed.)",
  "year": 1899,
  "archive_id": "lettersreceivedb03east",
@@ -55,7 +58,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 32,
+  "flagged": 34,
   "blockers": 0
  },
  "proof": {
@@ -234,27 +237,27 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-3-1615.epub",
-   "bytes": 449410,
-   "sha256": "7ba9955899d5aa919ff60652e40a0f17080bdf6b7e5239aa54599c5950b653d4"
+   "bytes": 449623,
+   "sha256": "98445de5e9f64e0d584868a42e80c4195308bd96720ab68bb04e960884edd68a"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-3-1615.md",
-   "bytes": 897693,
-   "sha256": "59a7e378582b946c6217089ec1062e26657a39ef4c037fce52c4d4f394c66159"
+   "bytes": 897815,
+   "sha256": "ebe7065bbf5293c953689cb4289897ff6b2a5654080afecb7173d904418a7680"
   },
   {
    "format": "tei",
    "file": "eic-letters-received-vol-3-1615.tei.xml",
-   "bytes": 1089983,
-   "sha256": "c369cd1604c088883624731edb94fb131749a309807fee9d04fb3636d6ecac60"
+   "bytes": 1090072,
+   "sha256": "6901e64972e57723499cdea6e1bdbc2906e2f215c83be1bc6fb62683965cf0bb"
   }
  ],
  "scan_base": "https://archive.org/download/lettersreceivedb03east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:21:43Z",
-  "source_ast_sha256": "d0ecf30f1d3d8db6778de5f36f54835e6f8805f8eb2858a10ba6c853c6791fe7",
+  "compiled_at": "2026-11-28T05:30:25Z",
+  "source_ast_sha256": "ebfc05d474be48b46819ceda1956a25bf7d8d64ac5b79491756f01ed1fd58d11",
   "hugo_renderer_version": "1.0.0"
  }
 }

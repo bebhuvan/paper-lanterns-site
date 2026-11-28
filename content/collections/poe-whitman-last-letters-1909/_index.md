@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Edgar Allan Poe (ed. James A. Harrison)",
  "year": 1909,
  "archive_id": "lastlettersofedg00poeeuoft",
@@ -132,26 +135,26 @@
   {
    "format": "epub",
    "file": "poe-whitman-last-letters-1909.epub",
-   "bytes": 91113,
-   "sha256": "2f92e8f7b78a34dc3e2d1ca82d5d9945b8d5fadaa07d23a7bb76fbfd86f605d4"
+   "bytes": 91165,
+   "sha256": "77de18d6f15b09ce0eed3f0db11d9248add2838c98440baf74075402e8af2287"
   },
   {
    "format": "markdown",
    "file": "poe-whitman-last-letters-1909.md",
-   "bytes": 58569,
-   "sha256": "1058f94686712ff253f337be5998607f682ff80ee134e13a0f6fa4d578783957"
+   "bytes": 58561,
+   "sha256": "0debc38c9de2cb388bf5cf67b035d80aaf97d6026097747088782e51599fdaba"
   },
   {
    "format": "tei",
    "file": "poe-whitman-last-letters-1909.tei.xml",
-   "bytes": 74191,
-   "sha256": "ef666aa115ebddc90d030ee51f3a6644188472167cc0e356618ce89b066ca9a7"
+   "bytes": 74215,
+   "sha256": "9bb6eba2fa3d63763ddf92c8e9ed05a3bca07faa3a29065da7dc1b3ac215e2f5"
   }
  ],
  "scan_base": "https://archive.org/download/lastlettersofedg00poeeuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:23:27Z",
+  "compiled_at": "2026-11-28T05:30:40Z",
   "source_ast_sha256": "f4a4bd680a89fa5c06c04c520d6f3343a808fdac47d2d9effc0837e9cc82b3b4",
   "hugo_renderer_version": "1.0.0"
  }

@@ -97,8 +97,7 @@ Poe to Mrs. Whitman (Eighth Letter, December
 Poe to Mrs. Whitman (Ninth and Last Letter,  
 January, 1849) . . . . . . 45
 
-| <span class="small-caps">Page</span> |
-| --- |
+**<span class="small-caps">Page</span>**
 
 Request for Banns of Marriage . . . . 46
 

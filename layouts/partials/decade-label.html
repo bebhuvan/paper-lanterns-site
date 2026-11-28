@@ -1,0 +1,3 @@
+{{- /* Format a signed floor decade integer (-370 -> "370s B.C.", 60 -> "AD 60s", 1840 -> "1840s"). */ -}}
+{{- $d := int . -}}
+{{- return (cond (lt $d 0) (printf "%ds B.C." (sub 0 $d)) (cond (lt $d 1000) (printf "AD %ds" $d) (printf "%ds" $d))) -}}

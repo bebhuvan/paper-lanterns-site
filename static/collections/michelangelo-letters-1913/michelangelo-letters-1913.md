@@ -182,7 +182,7 @@ On the 2nd day of July, 1496.
 Last Monday I delivered your other letters to Pagolo Rucellai, ([^fn-p0031-2]) who offered to place the money at my disposal, and to Cavalcanti. Afterwards I gave the letter to Baldassarre, and asked him to give me back the Cupid (*banbino*), saying that I was willing to refund the money. But he answered me only with rough words, saying he would rather break it into a hundred pieces: he had bought the *banbino*, he said, and it was therefore his: he had letters from the person to whom he sold it showing that its new owner was well satisfied with his bargain: and he did not think he would be compelled to return it. He complained bitterly of you, saying you had spoken ill of him. Some of our Florentines took the matter up, hoping to get it settled, but they were unable to do anything. I am now hoping to arrange the matter through the medium of the Cardinal’s good offices, for so I have been advised to proceed by Baldassarre Balducci. ([^fn-p0032-1]) I will keep you informed as to how the business proceeds. I have nothing more to add. I commend myself to you. May God guard you from evil.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 Michelangelo remained in Rome for more than a year, and received at the hands of the Cardinal di San Giorgio the first of those disappointments which were to fall so plentifully to his lot from successive prelates and pontiffs. The one bright feature of these long months was the unwavering friendship of Iacopo Gallo, for whom he carved the Bacchus now in the Uffizi at Florence. That he was deeply concerned for the safety of Savonarola is probable, and his interest in the Frate is shown by his letters: while the treatment to which his brother, Lionardo Buonarroti, a Dominican friar, was subjected at Viterbo may also be considered as the result of an over-warm adherence to the teachings of the great Dominican leader. The first of the following letters, addressed to his brother Buonarroto, is written in a disguised hand and signed “Thy Piero.” There can be no question, however, as to the identity of the writer, in view of its contents and their agreement with the succeeding letter, which Michelangelo signed with his own name. The second letter does not mention Savonarola, and we have here the probable key to the elaborate secrecy of the first communication. While in Florence Savonarola contrived with varying success to maintain his own position, in Rome Fra Mariano da Gennazzano, General of the Augustinian Order, was engaged in whetting the anger of Alexander VI., endeavouring to stir him to violent action: and Michelangelo, aware of the machinations of Fra Mariano, well knew the risks he might run in the papal city if a letter bearing his signature and expressing approval of Savonarola were to fall into the hands of his enemies.
 
@@ -200,7 +200,7 @@ In the name of God, this — day of March, 1497.
 Brother, thou art constantly in my thoughts ; wherefore be of good courage and strive to learn all thou canst, as thou art doing. I have told Frizzi ([^fn-p0034-1]) everything, and he understands the whole matter. Fra Mariano [da Genazzano] has nothing but evil to say of your prophet. I have nothing more to add. In my next letter I will give thee more information, for now I am in a hurry. There is no other news to give thee, save that seven paper bishops were made yesterday, and five of them were hanged by the neck. Bear my remembrances to all the members of thy family, and especially to Lodovico my father, for as such I esteem him : and when thou writest hither, commend me to Michelagniolo. No more. Written in the dark.
 
 <span class="small-caps">Thy Piero</span>,  
-in Rome.
+    in Rome.
 
 The “paper bishops” referred to in this letter were offenders against the law who were condemned to stand in the pillory with paper caps on their heads. Buonarroto was born on May 26th, 1577, and was younger than Michelangelo by two years.
 
@@ -220,7 +220,7 @@ I must tell you that Fra Lionardo ([^fn-p0035-1]) has returned here to Rome, and
 I know of nothing else I have to tell you, for I am surrounded by uncertainties and know not as yet which way matters will turn : but I hope soon to be with you once more. I am well, and trust that you are the same. Commend me to my friends.
 
 <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 In spite of the hopes for a speedy return to Florence which find a place in this letter, Michelangelo was still in Rome during the latter part of August, fretting at the delays that detained him, and at the news which reached him from home concerning his father’s financial difficulties. A certain Consiglio d’Antonio Cisti held the ex-Podestà of Caprese’s bond for 90 broad florins of gold, and as the latter had not the wherewithal to discharge his liability, he stood in peril of being attached as a debtor. To Michelangelo who had already become the mainstay of the family, his thoughts turned naturally in this dilemma, and Buonarroto, Michelangelo’s younger brother, was sent to Rome to explain matters by word of mouth and to ask assistance.
 
@@ -240,7 +240,7 @@ I was instructed by Piero de’ Medici to make a statue, and I bought the piece 
 Buonarroto arrived here quite safely and has returned to the inn, where he has a room and is comfortable ; he shall lack for nothing for as long as it pleases him to stay here. I have not the means to have him with me as I am myself lodged in the house of another, but you may rest assured that he shall want for nothing. Well, as I hope you are.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 On this letter Lodovico has written the words :— “ He says he will help me to pay Consiglio.” That is well-nigh all that ever seemed to concern the incessantly needy family of the artist in Florence. Michelangelo was their bank until death released him from his responsibilties, one by one. There is an interval of some nine years before we have another letter, but the first portion of this period is covered by the making of the Pietà, now in St. Peter’s at Rome ; that group which, it may be, of all others best expresses the sublime mystery of virgin purity immutable in the Mother of God. We need not wonder if, thralled by so exalted a thought, Michelangelo shows the Madonna to us still young, her cheeks still rounded by the touch of youth, and her brow scarcely furrowed even by the immense tragedy of the past few days, while her Son, who might seem rather to be her Brother, lies once more in her arms after the lapse of three-and-thirty years.
 
@@ -319,7 +319,7 @@ Now you write to me on behalf of the Pope, and in similar manner you will read t
 If His Holiness now wishes to proceed, let him deposit the said money here in Florence with a person whose name I will communicate to you. I have a quantity of marble in preparation at Carrara, which I will have sent here, and I will do the same with the marble I have in Rome, although it will entail a considerable loss to me : but I should disregard that if by this means I could obtain permission to carry out the work here. From time to time I would despatch the pieces as they are finished, in such a manner that His Holiness would be as well content as if I were working in Rome—more, indeed, because he would see the completed works without having any anxiety. With regard to the aforesaid money and work, I will bind myself in any way His Holiness may direct, and I will furnish whatever security here in Florence he may require. Let it be what it may, I will give him full security, even though it be the whole of Florence. There is yet one thing I have to add : it is this, that the said work could not possibly be done for the price in Rome, but it could be done here because of the many conveniences which are available, such as could not be had in Rome. Moreover, I should do better work and take more interest in it, because I should not have to think about a number of other things. However, *Guliano mio carissimo*, I beg of you to let me have an answer, and quickly. I have nothing further to add. This 2nd day of May, 1506.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Florence.
+    Sculptor, in Florence.
 
 When Julius entered Bologna in triumph on November 10th of the same year, Michelangelo, having remained with unshaken purpose in Florence ever since his ill-treatment at the hands of the Pope, repaired thither to receive the Papal pardon. He was then commissioned to model the bronze statue of Julius which for all too short a time stood above the great portal of San Petronio. The following letters date from his sojourn in Bologna.
 
@@ -336,7 +336,7 @@ I received thy tidings concerning your daily life, and especially the news about
 As to Giovansimone’s coming here, I do not advise him to come yet, for I live here in a poor room and have bought only one bed, in which four persons have to sleep, so that I have not the means to receive him as he asks. But if he still wishes to come here, let him wait until I have cast the figure I am modelling, when I will send off Lapo and Lodovico, who are helping me, and will despatch a horse for him, so that he may not arrive here like a beast of burden. No more. Pray to God for me that my affairs may go well.
 
 <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Bolognia.
+    Sculptor, in Bolognia.
 
 The figure mentioned in this letter is the colossal bronze statue of Julius, as already noted. The Lapo and Lodovico here mentioned come in for some scathing criticism in a later letter. Lapo d'Antonio di Lapo was born in 1465 and died about 1526. In 1505 he carved the tomb of Antonio da Terranova, Spedalingo di Santa Maria Nuova. Lodovico di Guglielmo del Buono was born in 1458, and had learnt the goldsmith's art under Antonio del Pollaiuolo. He was a master of the art of casting, and held a post as superintendent of artillery to the Florentine Republic.
 
@@ -362,7 +362,7 @@ Tell Piero Aldobrandini that I have entrusted his blade to the best worker in su
 This twenty-second day of January, 1506.
 
 <span class="small-caps">Michelagniolo di Lodovico Buonarroti,</span>  
-Sculptor, in Bologna.
+    Sculptor, in Bologna.
 
 Michelangelo here uses the Florentine computation *ab incarnatione*, instead of the Roman system *a nativitate*, which he generally adopted.
 
@@ -387,7 +387,7 @@ I wrote asking you to enquire of Bonifazio the name of the man in Lucca to whom 
 On the thirty-first day of January, one thousand five hundred and six.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 P.S.—Lodovico : I beg you to send on the enclosed letter addressed to Piero d’Argiento, and I beg you to see that he receives it. I think it might be well to send it through the medium of the Jesuits, as he visits them frequently. I beg you to see to this.
 
@@ -419,7 +419,7 @@ I note what thou sayest about Giovansimone. It pleases me that he should enter t
 On the first day of February, 1506 [1507].
 
 <span class="small-caps">Michelagniolo di Lodovico di Buonarrota Simoni</span>,  
-Sculptor, in Bologna.
+    Sculptor, in Bologna.
 
 ### Letter 10: Michelagniolo → Lodovico di Lionardo di Buonarrotta Simoni
 
@@ -453,7 +453,7 @@ Concerning those two scoundrels, I have no time to tell the whole story of their
 The thirteenth day of February, 1506.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Bolognia.
+    in Bolognia.
 
 ### Letter 12: Michelagniolo → Buonarroto di Lodovico di Buonarrota Simoni
 
@@ -468,7 +468,7 @@ Yesterday I sent to see if Piero’s dagger was finished and found that it had s
 The twenty-fourth day of February.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Bologna.
+    in Bologna.
 
 ### Letter 13: MICHELAGNIOLO DI LODOVICO BUONARROTI → Buonarroto di Lodovico Buonarroti
 
@@ -483,7 +483,7 @@ Now I have got the dagger back again, or rather, I have got it; but only this mo
 On the sixth day of March, 1506.
 
 <span class="small-caps">MICHELAGNIOLO DI LODOVICO BUONARROTI,</span>  
-in Bologna.
+    in Bologna.
 
 ### Letter 14: Michelagniolo → Buonarroto di Lodovico di Buonarrota Simoni
 
@@ -498,7 +498,7 @@ My affairs here are proceeding favourably, by the grace of God, and I hope to ca
 This twenty-sixth day of March.
 
 <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Bolognia.
+    Sculptor, in Bolognia.
 
 P.S.—If thou hast given the dagger to Piero say no more about it, but if thou hast not done so do not give it him at all.
 
@@ -520,7 +520,7 @@ I would like thee to go to the Herald and tell him that as I have never received
 The twentieth day of April.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Bolognia.
+    in Bolognia.
 
 The Messer Bernardino is Bernardino d’Antonio dal Ponte di Milano, superintendent of artillery to the Florentine Republic from 1504 to 1512. He took Lodovico di Guglielmo del Buono’s place with Michelangelo, and cast the figure of Julius.
 
@@ -537,7 +537,7 @@ Thou writest of a certain friend of thine, a doctor, who has told thee that the 
 I had no more paper.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Bologna.
+    in Bologna.
 
 Giovan Simone Buonarroti was born on March 11th, 1479.  He was four years younger than Michelangelo.
 
@@ -557,7 +557,7 @@ I expect Buonarroto will have told thee of my intentions, and thou mayst take it
 On the 28th day of April.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Bologna.
+    in Bologna.
 
 ### Letter 18: Michelagniolo → Giovan Simone di Lodovico di Buonarrota Simoni
 
@@ -620,7 +620,7 @@ Know that I look forward to my early return far more eagerly than ye could possi
 On the tenth day of November.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Bolognia.
+    in Bolognia.
 
 ### Letter 22: Buonarroto di Lodovico di Buonarrota Simoni
 
@@ -688,7 +688,7 @@ in Florence.
 With regard to Cassandra’s affairs, I have taken advice as to going to law about it here. I am told that it would cost three times as much here as in Florence ; and it is perfectly true, for what can be done there for a *grosso* could not be done here for two *carlini*. The other [reason] is that I have no friend to entrust with this affair, and I could not look after it myself. It seems to me that, if you wish to go to law about it, you should proceed by the usual methods, as is reasonable, taking care to protect yourself by every means in your power. For the expenses to be incurred, I will not fail you as long as I have money to spend. Be as little fearful as you can, for these are not cases in which life itself is endangered. Nothing more. As I have already said, let me hear your views.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 The date of August, 1508, as given by Milanesi, is here adhered to, though it is more likely that the letter was written earlier in the year, in view of Michelangelo’s remark that the summer is near at hand. By August the summer would be drawing to a close.
 
@@ -703,7 +703,7 @@ From Rome, [August, 1508].
 I have nothing else to tell you at present as I have not yet decided on anything of which I can advise you. I will let you know all in due course.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 27: Michelagniolo → Lodovico di Lionardo di Buonarrota Simoni
 
@@ -720,7 +720,7 @@ I should be glad if you would enquire whether some lad could be found in Florenc
 On the fifth day of November.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 28: Michelagniolo → Lodovico di Buonarrota Simoni
 
@@ -751,7 +751,7 @@ Write to me quickly.
 This — day of June.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 The hundred ducats is the sum that had been advanced by the Cardinal’s heirs as set forth in the contract (see p. 11). As Michelangelo did not complete the eleven remaining figures he was called upon to repay the money advanced.
 
@@ -764,7 +764,7 @@ From Rome, [1509].
 <span class="small-caps">Buonarroto</span>,—From thy last letter I learn that ye are all well and that Lodovico has another post. All this pleases me well, and I urge him to accept it if it be of such a nature as would allow him to return to his place in Florence, should that be necessary. Matters with me are going as usual, and by the end of this week I shall have completed my painting ; that is to say, the part of it I had begun. I expect to receive my money when I have uncovered it, and I will try once more to get permission to come to you for a month. I do not know whether I shall get it, but I stand in need of it as I am not over well. I have no time to write more. I will let you know what happens.
 
 <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 31: Michelagniolo → Buonarroto di Lodovico di Buonarrota Simoni
 
@@ -777,7 +777,7 @@ From Rome, [October 17th, 1509].
 My advice about the shop is that ye should strive to do your best ; and I am glad that Giovansimone has begun to do well. Endeavour by just means to increase what ye already have, or at least to preserve it, so that ye may know how to deal with larger matters later on ; for I am hoping that when I come back ye will be able to set up for yourselves, if ye be men enough. Tell Lodovico that I have not answered him because I have not had time, and do not be surprised when I fail to write.
 
 <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 Lorenzo Strozzi was a Florentine wool merchant and member of the Arte della Lana, in whose shop both Buonarroto and Giovansimone were apprenticed.
 
@@ -794,7 +794,7 @@ In my last letter I expressed myself as in favour of buying. You now inform me t
 On the 5th of January.
 
 <span class="small-caps">Michelagniolo,</span>  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 33: Michelagniolo → Lodovico di Buonarrota Simoni
 
@@ -807,7 +807,7 @@ From Rome, January, 1510.
 With regard to the shop, I will send you a hundred ducats on Saturday next. If you are satisfied that they are doing their best, give this money to them and make me their creditor, as was done with Buonarroto when he went away. If it should prove that they are not doing their utmost, deposit the money in my name at Santa Maria Nuova. This is not the time for investments.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 [P.S.]—If you should meet the boy’s father explain the matter to him gently : tell him he is a good lad but too refined, and not suited for my work, and that he must send for him.
 
@@ -820,7 +820,7 @@ From Rome, [January, 1510].
 <span class="small-caps">Dearest Father</span>,—I am sending you a hundred broad ducats in gold which you are to give to Buonarroto and the others, and for which you are to make me their creditor with the shop as security. If they do their utmost to succeed, I will help them from time to time to the best of my ability—tell them so. Go, therefore, on receipt of this, to Bonifazio [Fazi] or to Lorenzo Benintendi, both you and Buonarroto, and he will pay over the money. He will pay you a hundred broad ducats in gold, in exchange for an equal sum given by me here to Baldassare Balducci. I wrote in reply to your remark about buying to say that this is not the proper time. As for my affairs here, I will do the best I can, God helping me. I wrote to you about that boy, saying his father was to send for him and that I would give him no more money. This I now confirm : the carrier has already received quite enough to cover his return journey. The boy is all right for Florence, where he can stay at home and study and be with his father and mother but here he is not worth so much as a *quattrino*, and he keeps me slaving like a beast, while my other boy is not yet well enough to get up. In fact I have not kept him in the house here, for when I was so distracted and could bear with him no longer I sent him off to share the room of a brother of his. I have no money. I have had to wring my very heart strings to send what I am sending you now, and I do not feel justified in asking for any more, for I have no assistants working under me, and I alone am doing but little. When I have arranged about this house business I hope to begin work in earnest.
 
 M<span class="small-caps">ICHELANGELO</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 35: Michelagniolo → Lodovico di Buonarrota Simoni
 
@@ -832,7 +832,7 @@ in Florence.
 D<span class="small-caps">EAREST</span> F<span class="small-caps">ATHER</span>,—I received a letter from you this morning, the 5th of September, which distressed me very greatly because I learn from it that Buonarroto is ill. I entreat you to let me know how he is directly you receive this letter, for if he should be seriously ill I would ride post haste to you this coming week, although it would be a very great inconvenience to me—for this reason, that I am due to receive five hundred ducats which I have earned according to my agreement, while the Pope ought to have given me another five hundred for undertaking the other part of the work. ([^fn-p0103-1]) He has now gone away from here without leaving me any instructions, so that I am without money and do not know what I ought to do. I might go away, but I do not want him to be angry, nor do I want to lose my money : on the other hand, it will be difficult for me to stay here. I have written to him and am waiting for the reply : however, if Buonarroto is in danger, let me know, for I will leave everything and come. Take all care of him, and see that he does not lack money for what may be required. Go to the Spedalingo at Santa Maria Nuova and, if he does not believe you otherwise, show him my letter : ask him for any sum between fifty and a hundred ducats that may be necessary, and do not think about anything else. Do not be troubled : God did not create us so that He might abandon us. Answer quickly, and tell me definitely whether I am to come or not.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 36: Michelagniolo → Lodovico di Buonarrota Simoni
 
@@ -845,7 +845,7 @@ From Rome, September 7th, 1510.
 The 7th day of September.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 37: Michelagniolo → Lodovico di Buonarrota Simoni
 
@@ -861,7 +861,7 @@ I learn from your last letter how matters are going, and I am much worried about
 On the fifteenth of September.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 [P.S.].—When you take the money to the Spedalingo, let Buonarroto accompany you, and see that neither you nor he speak to any one about it for security’s sake; that is to say, see that neither you nor Buonarroto tell anyone that I ever send you money—either now or at any other time.
 
@@ -876,7 +876,7 @@ From Rome, October 3rd, 1510.
 I wrote to you saying that neither my drawings nor anything else were to be touched by anybody. I have received no answer from you. It appears to me that you do not read my letters. No more. Pray to God that I may win honour here and may give satisfaction to the Pope, for if he is satisfied with me I hope we may receive some benefit from him: and pray to God also for him.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 39: Michelagniolo → Buonarroto di Lodovico Simoni
 
@@ -889,7 +889,7 @@ From Rome, January 10th, [1511].
 On the tenth of January.
 
 <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 There are two other letters belonging to the year 1511, but they are of little importance. They show that Michelangelo was sending what money he received from the Pope to Florence and that he wished to invest it in property. As the dates of these letters are purely conjectural it is difficult to decide upon their proper sequence, and even Milanesi does not place them in the order indicated by the dates he ascribes to them.
 
@@ -902,7 +902,7 @@ From Rome, . . . [1512].
 <span class="small-caps">Dearest Father</span>,—I told you in my last letter how the idea had got into my head that the farm on the Prato road was not a sound investment. Afterwards I received further information, and it seems to me, if I am not mistaken—that you had better have nothing at all to do with it. You tell me now that the Spedalingo sent you to view another farm two miles outside Florence: you say that it appeared very dear but that except for this you formed no opinion as to its suitability. I tell you that if you were to pay fifty or a hundred ducats more for a farm bought from him than one bought from anybody else there would be no harm in it: but I do not place much faith in him, for I doubt whether he be not a great rogue. The land in the Piano della Fonte in Valdarno which you say you have now under consideration would not be displeasing to me provided it is a sound investment: however, do what seems to you best and buy whichever you prefer, because what you find satisfactory I shall find satisfactory, let it be where it may; provided always that it is a good investment. I have nothing else to say. I shall most certainly come to Florence this summer, if it please God, and we will clip the wings of this Spedalingo, if he does not accomplish something in the meanwhile. You need not tell me anything about Francesco di Consiglio, ([^fn-p0110-1]) for the father did not act so kindly towards you that I should have to befriend the son. He who does wrong will himself be the sufferer.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 [P.S.]—When you write to me send no more letters through the Altoviti. Send them as formerly to Balducci’s bank : if you send to any other bank, write on the letter :—“ To be delivered at Baccio Bettini’s shop,” and it will reach me.
 
@@ -917,7 +917,7 @@ From Rome, . . . [1512].
 I sent on to you the information I had gleaned here, and told you what I had heard : that is to say, that it was rather a risky affair than otherwise—that farm near Prato, I mean. However, you are on the spot and can see and find out things better than I can here. Act as you think best. As to the letter of authorisation you wish me to send to the Spedalingo, treat me as though I were he and write out exactly what I am to say, with the name and address and all. I will make a copy of it and send it to him, for I neither know his name nor how to compose the letter myself. Have no fear about it, for if you buy this land and the Spedalingo should refuse to give you the money, I will come to Florence in person and compel him to give it up. If you decide to buy, do not buy land near the Arno or any other dangerous river: give the preference to what the Spedalingo may offer you, and if you can get it for a reasonable price settle the matter. Even if the price were a trifle high I should be inclined to take it. I have no occasion to say more. We have not as yet seen any sign here of the danger you suspect in Florence, [^fn-p0111-1] and God grant that nothing may happen.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 [P.S.]—Let me have the copy of that letter in the exact form you desire, and I will send it you without delay. Then if you will take it to the Spedalingo I shall be much obliged, for he will see that, come what may, we intend to buy something.
 
@@ -949,7 +949,7 @@ As to the forty ducats Lodovico withdrew from Santa Maria Nuova, I wrote a lette
 On the 18th day of September.
 
 <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 44: Michelagniolo → Lodovico di Lionardo di Buonarrota Simoni
 
@@ -966,7 +966,7 @@ The aforesaid power of attorney was drawn up here by a notary, by name Ser Albiz
 Above all things, if you decide to buy have an eye to the security of the investment, and let me know what you are doing, or rather, let me know when you have completed the purchase. No more. This summer I shall come to Florence without fail : nothing shall prevent me. The latest I can be delayed will be the end of September, but I do not think I shall be able to stay long with you.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 45: Michelagniolo → Lodovico di Buonarrota Simoni
 
@@ -982,7 +982,7 @@ In your last letter I received the news about the farm you have bought from Sant
 Giovanni da Ricasoli has written me a letter to which I have had no time to reply. I beg of you to present my excuses to him. I will answer him next Saturday. Nothing more.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 46: Michelagniolo → Lodovico di Buonarrota Simoni
 
@@ -995,7 +995,7 @@ From Rome, [October, 1512].
 As to the money, all I have lies in Balducci’s bank, and I keep none of it either in the house nor upon my person, except such sums as are necessary from day to day. With regard to the Medici, I have never uttered a single word against them except in the general terms in which everybody talks—as, for instance, about the Prato affair ([^fn-p0116-1]). I think that even the very stones would have spoken of it, had they been able. There have been many other things said since then, to which, when I heard them, I have always replied :—“ If they are really doing these things, they are doing wrong.” Not that I believed the reports, and God grant they be not true. About a month ago someone who pretended to be my friend criticised their actions very adversely. I rebuked him, saying that those who spoke in such a way did wrong, and that he was not to mention the subject to me again. However, I should like Buonarroto to find out quietly where the man in question heard that I had spoken against the Medici, so that I may endeavour to trace the origin of the rumour, and find out whether it came from someone professing to be my friend. I shall then be upon my guard. I have nothing more to add. As yet I have begun nothing, and I am waiting until the Pope tells me what I am to do.
 
 <span class="small-caps">Your Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 47: Michelagniolo → Lodovico di Buonarrota Simoni
 
@@ -1007,7 +1007,7 @@ in Florence.
 <span class="small-caps">Dearest Father</span>,—Your last letter informs me of all that is happening in Florence, although I already knew something. We must be patient, commit ourselves to God, and repent of our sins; for these adversities do not proceed from any other cause, and are chiefly due to pride and ingratitude. I never had to do with a more ungrateful and arrogant people than the Florentines. If, therefore, a judgment fall on us, it is but reasonable. As for the sixty ducats you tell me you have to pay, I think it very unfair and I am exceedingly angry. However, we must have patience for as long as it please God to let us be plagued. I will write a few lines to Giuliano de’ Medici and enclose them in this letter. Read them through, and if you think it well to take them to him, do so, and see if they are of any service. If they are unavailing, consider whether you could sell what we have and take up your abode elsewhere. If you should find that you have been more heavily dealt with than other folk, do all you can to avoid paying, and let them rather take everything you possess : let me know what happens. But if you find that others have received exactly the same treatment, be patient and trust in God. You say you have already put together thirty ducats : take another thirty from my money and send me what remains. Take it to Bonifazio Fazi, and he will instruct Giovanni Balducci to pay me here : get Bonifazio to give you a form of receipt for the said money and send it here to me enclosed in your next letter. Look to your life and health, and if you cannot share the honours of the land like other citizens, be content that you have bread to eat ; and live well with Christ, and poorly, as I do here. I live in a miserable fashion, caring neither for life nor for honours—the world, that is—and I suffer excessive hardships, assailed by a thousand anxieties. It is now about fifteen years since I had an hour’s repose, and all that I have ever done has been to help you : and you have never recognised this nor believed it. God pardon us all ! I am ready to go on doing as I have done as long as I live, provided I am able.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 48: Michelagniolo → Lodovico di Buonarrota Simoni
 
@@ -1020,7 +1020,7 @@ From Rome, [October, 1512].
 I learn from your last letter that you have been received back into favour, and I am very glad to hear it. I learn also that the Spedalingo has raised your hopes, and that you think it better to wait a little. I think so too, because I am doubtful about buying from anybody else, and I do not believe, having regard to his numerous promises, that he will now deceive you. Therefore you will do well to wait. Giovanni da Ricasoli has asked me to do something I do not care to do, but I have no time to write to him to-night. Tell Buonarroto, therefore, to make my excuses with him, and tell him not to rely on me—he will understand. I have one more service to ask of you, it is this: there is a Spanish lad in Florence, by name Alonzo, a painter, who I understand is ill. There is a friend or a relative of his here, also a Spaniard, who wishes to know how he is, and he has charged me to write to some friend in Florence and find out about his state of health. I beg you, or Buonarroto, to find out from Granaccio (who knows him) how he fares, so that I may have certain news to give and may show that I have been desirous of serving him.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 The next document of importance in point of date is the second contract for the tomb of Julius. It is interesting to note that Michelangelo appears to have been very suspicious of the papers he had signed, for, not being a Latin scholar, he obtained a translation of the deed from Francesco Vigorosi, and made a careful copy of it with his own hand, this transcript being now in the Archivio Buonarroti. The contract is dated May 6th, 1513, some three months after the death of Julius, the parties on behalf of the late Pope being the Cardinal Aginensis and the Datary, Lorenzo Pucci. Michelangelo is to undertake no other work that will interfere with the progress of the tomb, which is to be completed in seven years. He is to be paid a sum of 16,500 ducats of the Camera, this sum to cover both his salary and expenses. “As to the quality, excellence and finish of the figures in the said tomb, these are to be left to the judgment and conscience of the said Michelagniolo, who will be guided by the consideration of his own honour and fame.” He acknowledges having received 3,500 ducats from the late Pope Julius, this sum to be a charge upon the 16,500 ducats. The remaining 13,000 ducats is to be paid as follows:—Two hundred ducats per month ([^fn-p0120-1]) in each of the first two years and a hundred and thirty-six ducats per month during the ensuing five years, which only make a total of 12,960 ducats. If Michelangelo cannot, for any unforeseen cause, finish the work in the seven years he is to be granted an extension of time until it is done. Subjoined there is a specification of the proposed work, this portion being written in Italian in both deeds.
 
@@ -1040,7 +1040,7 @@ The said Michele says thou toldest him thou hadst been obliged to spend somethin
 I had better tell thee that I do not expect to be able to come to you this September, for I am being driven such a way, in such a way (*i’ modo, i’ modo*) that I cannot find time even for eating. God grant I may be able to bear it. However, if I can I would like to send Lodovico that power of attorney I wrote about. It has never been out of my mind, and I want to place at his disposal a thousand broad ducats, as I promised, so that with the other money ye already have ye may begin to do business on your own account. I seek for none of your earnings, but I wish to be assured that at the end of ten years, if I am still alive, ye will return me this thousand ducats, either in goods or money, should I want it. I do not suppose it will ever happen, but should I ever be in difficulties I should like to have the money to fall back upon, as I have already said. This will act as a curb upon you and prevent your squandering it : think it over, therefore ; take counsel and write to me what ye wish to do. I should like ye to divide that four hundred ducats of mine ye now hold into four parts and take one each, for I give them to you as a present ; a hundred for Lodovico, a hundred for thyself, a hundred for Giovansimone and a hundred for Gismondo,[^fn-p0124-1] with this restriction, this restriction (*con questo, con questo*) that ye are not to withdraw the money from the shop for any purpose whatsoever. No more. Show this letter to Lodovico. Make up your minds what ye intend to do and give me the assurance I have asked for. On the thirtieth day of July. Do not forget to give Michele the money I sent thee.
 
 <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 Lodovico has endorsed the original with the following querulous note :—“ As to the hundred ducats he gives to his brothers and me, I never had mine.”
 
@@ -1049,14 +1049,14 @@ Lodovico has endorsed the original with the following querulous note :—“ As 
 From Rome, June 16th, 1515.
 
 *To Buonarroto di Lodovico Simoni*,  
-in Florence.
+    in Florence.
 
 <span class="small-caps">Buonarroto</span>,—I have written the letter to Filipo Strozi; see if it pleases thee, and give it to him. I know he will hold me excused if it is not in the proper form as writing is not my profession. It is enough if it serve thy purpose. I would like thee to go to the Spedalingo of Santa Maria Nuova and tell him to have fourteen hundred ducats of my money paid to me here because I shall have to make a great effort this summer to get my work done quickly, ([^fn-p0125-1]) as I expect soon to have to enter the Pope’s service. For this work I have bought some twenty thousand [pounds] of copper (*rame*) for casting certain figures. I must therefore have money, so as soon as this letter arrives arrange with the Spedalingo to have the sum mentioned paid to me: and if thou canst arrange with Pier Francesco Borgerini, who is now in Florence, to have the money paid through his bank here, I should be glad, for Pier Francesco is my friend and would serve me well. Keep this matter to thyself, for I would like it paid here secretly: and for the balance remaining at Santa Maria Nuova obtain sufficient security from the Spedalingo as a precaution. I am waiting for the money. No more.
 
 On the 16th day of June, 1515.
 
 <span class="small-caps">Michelagniolo</span>,  
-In Rome.
+    In Rome.
 
 ### Letter 51: Michelagniolo → Buonarroto di Lodovico Simoni
 
@@ -1067,7 +1067,7 @@ From Rome, [August 1st, 1515].
 <span class="small-caps">Buonarroto</span>,—Thy last letter explains the state of the accounts, as well as of the book and the papers. I was glad to have this information, for I propose to draw the money soon, as I have already told thee: I will advise thee in good time. Enclosed in this will be a letter for Michele [da Settignano] which is to be given to him. I do not write to him because I know he is mad, but because I am in need of a certain quantity of marble, and do not know how else to obtain it. I do not want to go to Carrara myself, for I cannot, and I am not able to send anyone else who would be suitable, as if they are not madmen they are traitors and rogues—like that scoundrel Bernardino [di Pier Basso] who at the end of his stay here left me a hundred ducats worse off than I was before, not to mention his going about gossipping and complaining about me all over Rome. I have only learnt this since I have been back here. He is a villainous scoundrel: avoid him as you would avoid fire, and do not allow him to enter the house under any pretext. I have wandered from my original subject. I have nothing else to say. Thou wilt give the letter to Michele.
 
 <span class="small-caps">Michelagniolo</span>,  
-In Rome.
+    In Rome.
 
 Michelangelo’s difficulties with regard to the marble arose out of the desire of the Medici and the Florentines to open new quarries at Pietrasanta and Serravezza, instead of obtaining their material from Carrara as they had hitherto always done. As a consequence the Marchese di Carrara, who saw a portion of his revenues threatened by the new departure, was exceedingly angry, and not only withdrew his favour from Michelangelo, but placed every conceivable difficulty in his way, in which, as may be supposed, he was ably seconded by the Carraresi.
 
@@ -1082,7 +1082,7 @@ From Rome, August 4th, [1515].
 The fourth day of August,
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 The road mentioned in this letter was that already mentioned as connecting the quarries at Pietrasanta and Serravezza to the river. It is frequently referred to in the later letters.
 
@@ -1111,7 +1111,7 @@ From Rome, [September 1st, 1515].
 <span class="small-caps">Buonarroto</span>,—I received the letters and took them to Borgerini, leaving the money there on deposit. I shall draw it either to-day or on Monday. Another time do not take money from Santa Maria Nuova until thou hast first found a means of sending it to me, and do not take more than thou sendest at one time. The remainder of the money, therefore, must be returned to Santa Maria Nuova without delay, if thou hast not already sent it here: see that thou obtainest the bank book and the papers, and send them to me as quickly as possible: do not leave my money in the hands of a stranger, for I know no man living.[^fn-p0130-1] Thou complainest to me about the prospects of thy shop. Be patient, for much more of the present state of affairs is due to circumstances than thou mayst suppose or believe. I have been expecting these evil times for several years, and I have always warned you of it, saying that it was not a propitious time to enter into such transactions. However, do all thou canst to maintain thy capital intact, and attend to the welfare of thy soul, for this state of affairs may last longer than thou thinkest. Tell Betto [Benedetto] da Rovezzano’s father that I have no marble to be worked, otherwise I would have accepted his services willingly. Enclosed there will be a letter addressed to Messere Antonio, Chancellor to the Marchese di Carrara. See that it reaches him, and let me know of its arrival.
 
 <span class="small-caps">Michelagniolo,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 55: Michelagniolo → Buonarroto di Lodovico Simoni
 
@@ -1122,7 +1122,7 @@ From Rome, [September 8th, 1515].
 <span class="small-caps">Buonarroto,</span>—I learn from my last letter that the remainder of the money is in Santa Maria Nuova after all. I wrote saying thou wert to replace it for I supposed from thy letter that thou hadst given it to Pier Francesco [Borgherini] and that he was about to send it hither in the care of a muleteer. It was because I did not approve of this method that I wrote saying the money was to be put back. Now thou tellest me it was never withdrawn, so that all accordingly is as it should be, and there is no need to say more on the subject. When I want it, I will let thee know. Thou writest as though to thy mind I care more than I ought for this world’s goods: well, I care more for them for your sakes than I do for my own, as I have always done. I do not believe in old wives’ tales, and I am not quite mad, as ye seem to think. Some time hence I believe ye will have a better opinion of the letters I have written you during these last four years than ye have at present, unless I am deceiving myself: and if I deceive myself, it is not in a bad cause that I do so, for I know that in all seasons it is wise to look after one’s own self and possessions. I remember that about eighteen months ago—it may have been more, or less, I do not remember—thou desiredst to do a certain thing. I wrote saying it was not the proper time, and that thou wouldst do well to let a year pass. Then a few days afterwards the King of France [Louis XII.] died, and thereupon thou didst reply, or rather, didst write, saying that the King was dead and there was no further danger to be feared in Italy; also, that I believed in old wives’ tales and friars’ chatter, and thou didst mock at me. Now, however, thou hast learnt that the King is not dead ; [^fn-p0132-1] and it would have been far better for all of us if ye had followed my advice years ago. But enough. With thy letter I received one from Lo Zara [Domenico Fancelli] at Carrara, who appears willing to serve me. I am not writing to him, as I sent a letter to Messer Antonio da Massa, Chancellor to the Marchese di Carrara, when I wrote to thee last. I presume thou hast sent the letter on, and I do not wish to give instructions to anyone else until I have heard from him. Nothing more.
 
 <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 56: Michelagniolo → Buonarroto di Lodovico Simoni
 
@@ -1135,7 +1135,7 @@ From Rome, [October 20th, 1515].
 I enclose a letter in this : please send it securely to Carrara.
 
 <span class="small-caps">Michelagniolo,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 57: MICHELAGNIOLO → Buonarroto di Lodovico Simoni
 
@@ -1146,7 +1146,7 @@ From Rome, [November 3rd, 1515].
 B<span class="small-caps">UONARROTO</span>,—I have received the letter of exchange for the remainder of the money. I have not yet been to Borgerini’s bank, but I shall go there next week. I believe they will treat me as well as on former occasions. Thou sayest the Spedalingo has been complaining at my drawing so much money in so short a time. It seems to me he must be a great fool to complain about anything of the kind, seeing that he is only called upon to give me back my own money on which he has been receiving interest for so long—especially as he offered to lend me five hundred ducats out of his own pocket if I had occasion for it. But I do not wonder, for I know what sort of a man he is. Thou askest me for money, saying that matters have now settled down and that thou canst begin to work and to save. I only laugh at thee, and marvel at certain things contained in thy letter. At present I have no other answer than this : I cannot help thee with money, for I shall have to do two years’ work before I shall have discharged my obligations to these people, so much money have I received from them. Wherefore abide patiently, and hold fast to life : save as much as thou canst, and enter into no other transactions until the winter be over, and allow no credit whatsoever to any man. I write these warnings because I feel compelled thereto, seeing that I have these misgivings over the present state of affairs, though I know thou wilt laugh them to scorn. No more.
 
 M<span class="small-caps">ICHELAGNIOLO</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 58: Michelagniolo → Lodovico
 
@@ -1161,7 +1161,7 @@ This letter will be brought by Rafaello da Gagliano. I beg of you for the love o
 I am being entreated to hurry away from here, but I do not mean to go until I have spoken with you and can leave you in the house here. I beg of you to lay aside all passion and come.
 
 <span class="small-caps">Your Michelagniolo,</span>  
-in Florence.
+    in Florence.
 
 ### Letter 59: Michelagniolo → Buonarroto di Lodovico Simoni
 
@@ -1279,7 +1279,7 @@ I have told you everything in my other letters. Now, you are wise and prudent, a
 If, in writing to you, I do not write as correctly as I ought, or if sometimes I do not employ exactly the proper word, I beg you to hold me excused, as I have embarked on a difficult enterprise ([^fn-p0153-1]) which makes tranquil thought impossible.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 ### Letter 63: Michelangelo → Pietro Urbano
 
@@ -1317,7 +1317,7 @@ in Florence.
 With regard to the road here, tell Iacopo that I will do all *sua Magnificenzia* wishes and will carry out all his commands : tell him he will never be deceived in me, because in such affairs as these I do not seek my own advantage but the welfare of my patrons and my country. If I begged the Pope and the Cardinal to give me full control over this road I only did so in order that I might be able to give orders that it should be laid out in such a direction as would strike the best veins of marble. The best localities are not known to everybody. I did not ask for this contract to make money out of it ; I do not entertain such ideas—indeed, I beg *sua Magnificenzia*, Iacopo, to place the matter in Maestro Donato's ([^fn-p0155-1]) hands, for he is well skilled in similar works and I am sure he is trustworthy. At the same time I should like to have control over the course it should follow and over its construction, for I know where the finest marble is to be found and how best to get it carted down; thereby, as I believe, reducing the cost for whoever is going to pay for the work. Repeat all I have said, therefore, to the aforesaid Iacopo and commend me to *sua Magnificenzia*, begging him to send a letter of recommendation to his agents at Pisa so that they may assist me in finding barges to bring my marble from Carrara. I went to Gienova [Genoa] and took four barges down to the place of embarkation so as to load them. Then the Carraresi tampered with the owners of the said barges, and endeavoured to surround me with obstacles, so that I have concluded nothing, and expect to go to-day to Pisa to charter other barges. Commend me [to Salviati] therefore, as I have asked, and write to me. On the 2nd of April.
 
 <span class="small-caps">Michelagniolo,</span>  
-in Pietra Santa.
+    in Pietra Santa.
 
 [P.S.]—You can treat Pietro, my assistant, as you would me. If he wants money, give it to him, and I will settle with you.
 
@@ -1330,7 +1330,7 @@ From Pietrasanta, [April . . . , 1518].
 <span class="small-caps">Pietro</span>,—I learn from thy last letter that thou art well and attending to thy studies. I am very glad to hear it : be diligent, and lose no opportunity of drawing or of improving as much as thou art able. Ask Gismondo to give thee whatever money thou requirest on my behalf, and keep an account thereof. I have to tell thee that I have been as far as Gienova to charter barges for the transport of the marble I collected at Carrara, and that I got them as far as Avenza : but the Carraresi corrupted the owners of the barges aforesaid and have given me so much trouble that I shall have to go to Pisa to get others. I am leaving to-day, and directly I have arranged for the transport of the said marble I shall return ; which, I think, should be in about fifteen days. Strive to improve. There is no occasion for thee to come here at present. No more.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Pietra Santa.
+    in Pietra Santa.
 
 ### Letter 66: Michelagniolo → Buonarroto di Lodovico Simoni
 
@@ -1343,7 +1343,7 @@ From Pisa, April 7th, [1518].
 On the seventh of April
 
 <span class="small-caps">Michelagniolo</span>,  
-in Pisa.
+    in Pisa.
 
 ### Letter 67: Michelagniolo → Buonarroto di Lodovico Simoni
 
@@ -1354,7 +1354,7 @@ From Pietrasanta, [April 18th, 1518].
 <span class="small-caps">Buonarroto</span>,—I learn from thy last letter that the resolution ([^fn-p0158-1]) has not yet been carried, and I am very much distressed about it : nevertheless, I am sending one of my lads to Florence simply so that he may remain there all Thursday and see what conclusion is come to, and on Friday morning he will return here and tell me the result. If they decide in accordance with the request I have put forward I will proceed with the work, but if they do not conclude anything on Thursday, as thou sayest may be the case, I shall not attribute the failure to Iacopo Salviati’s unwillingness to do anything in the matter, but to his inability ; and I shall get immediately into the saddle and be off to seek the Cardinal de’ Medici and the Pope, and shall tell them how matters stand with me. I shall leave this business and return to Carrara, where they pray for my coming as one prays for the coming of Christ. The stonecutters I brought here with me from Florence have not the smallest knowledge either of the quarries or of this marble. They have already cost me more than a hundred and thirty ducats, and so far they have not quarried a single slab of marble which is any good, but they go about bragging that they have discovered some wonderful thing, endeavouring to get work for the Cathedral [Santa Maria del Fiore] and for other people with the money they receive from me. I do not know under whose protection they are, but the Pope shall hear all about it. Since first I came here I have thrown away about three hundred ducats, and I do not see any return whatever for myself. I have undertaken to raise the dead, to try and harness these mountains, and to introduce the art of quarrying into this neighbourhood : but if the Arte della Lana, in addition to the marble, were to give me a hundred ducats a month for the work I am called upon to do they would not be far out, and even then I should not have made a fat bargain. However, recommend me to Iacopo Salviati, and send a letter by my boy to say how matters stand, so that I may make up my mind quickly ; for this continued uncertainty is consuming my very vitals.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Pietra Santa.
+    in Pietra Santa.
 
 [P.S.]—Those barges I chartered at Pisa have never arrived. I suppose I was cheated—it is the same with everything I touch. Oh, a thousand curses upon the day and the hour that ever I left Carrara ! This is the cause of all my ruin : but I will return soon to you. To do one’s duty in these days is a sin. Remember me to Giovanni da Ricasoli.
 
@@ -1383,7 +1383,7 @@ From Serravezza, . . . [August, 1518].
 <span class="small-caps">Buonarroto</span>,— Only two of the stone-cutters who came here, Meo and Ciecone ([^fn-p0161-1]) still remain : the others came and then went away. When they arrived I gave them four ducats, and I promised to keep them supplied with money for the means of subsistence so that they might be able to do all I wanted. They worked only for a few days, in a half-hearted manner, with the result that that scoundrel of a Rubechio ([^fn-p0161-2]) nearly spoiled a column I have excavated. But I am still more annoyed that they should come there [to Florence] and give both me and the quarries a bad name, in order to clear their own reputation; for if I should require workmen later on I shall not be able to get them. I wish at least, seeing they have cheated me, that they would keep their mouths shut. Therefore I ask thee to make them keep silence by holding some threat over their heads; threaten them with Iacopo Salviati, or anything that is likely to be effective, for these greedy knaves are doing great harm to the work and to me.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Seraveza.
+    in Seraveza.
 
 ### Letter 70: Michelagniolo → Buonarroto di Lodovico Simoni
 
@@ -1398,7 +1398,7 @@ Those stone-cutters who came here were a worthless lot: they only worked to earn
 Sandro, ([^fn-p0163-1]) also, has gone off; he remained for several months with a big mule and a little mule in grand style, devoting his time to fishing and making love. I have thrown away a hundred ducats on him : he has left behind him a certain quantity of marble with instructions that I am to have what is suitable for my purpose. I cannot find twenty-five ducats’ worth in the whole lot, for the whole transaction is a conspiracy. He has treated me very badly, either through malice or ignorance. When I come back to Florence I intend to obtain satisfaction, come what may. No more. I expect to remain here for another month.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Seravezza.
+    in Seravezza.
 
 There are four more letters to Buonarroto, but they are of little interest. The last of them (July, 1527) has a postcript : “ Do not touch the letters I send thee with thy hands,” apparently for fear of the plague. Buonarroto died of the scourge on July 2nd, 1528.
 
@@ -1538,7 +1538,7 @@ Stefano has finished the lantern over the chapel in San Lorenzo, and has uncover
 Your Holiness’ servant,
 
 <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Florence.
+    Sculptor, in Florence.
 
 ### Letter 77: Ser Giovan Francesco Fattucci
 
@@ -1587,7 +1587,7 @@ Copy of a minute which I sent to Giovanni Spina, asking him to write to Rome.
 On the 19th day of April, 1525.
 
 <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Florence.
+    Sculptor, in Florence.
 
 ### Letter 81: Giovan Francesco Fattucci
 
@@ -1618,7 +1618,7 @@ From Florence, September 4th, 1525.
 On the 4th day of September, 1525.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-in Florence.
+    in Florence.
 
 ### Letter 84: Michelagniolo → Giovan Francesco Fattucci
 
@@ -1639,7 +1639,7 @@ As to the doing or not doing of such things as have to be done, which you say ma
 I have not replied to your letter in full as Lo Spina will shortly be coming to Rome, and he will tell you all by word of mouth better than I should do in writing, and with more detail.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, in Rome.
+    Sculptor, in Rome.
 
 This letter seems effectually to have killed Pope Clement’s scheme for the absurd colossal figure here referred to.
 
@@ -1687,7 +1687,7 @@ M<span class="small-caps">ESSERE</span> G<span class="small-caps">IOVAN</span> F
 I have no occasion to add more. If I am not able to write coherently, you must forgive me, for I have entirely lost my wits. You know my mind : you will be able to find out the commands I have to obey—let me have a reply, I implore you. On the 1st day of November, 1526.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-Sculptor, at San Lorenzo in Florence.
+    Sculptor, at San Lorenzo in Florence.
 
 Michelangelo’s somewhat scanty *Ricordi* reflect the condition of Florence during the fateful year of 1527 in a curious half light :—
 
@@ -1814,7 +1814,7 @@ at Settignano.
 <span class="small-caps">Giovan Simone</span>,—Mona Margerita did not tell you exactly what was said. I was speaking the other morning about thee and about Gismondo while Ser Giovan Francesco [Fattucci] was in the room, and I remarked that I had always exerted myself more on your behalf than on my own, having borne many discomforts so that they might not fall on your shoulders. I also said that ye had never done otherwise than speak evil of me in all parts of Florence. That is what I said, and I would for all your sakes that it were not the truth, for ye have earned for yourselves the reputation of being ungrateful beasts. As to thy staying on here, I wish thee to do so and to take thine ease, endeavouring to get well again : for as long as I am able I will never fail any of you, because I am governed more by my sense of duty than by anything ye may say about me. I should be glad if thou couldst come here to sleep, so that Mona Margerita could sleep here also ; for when my father lay dying he left her in my care and I will therefore never desert her.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Florence.
+    in Florence.
 
 ### Letter 92: Michelagniolo → Giovan Simone
 
@@ -1823,7 +1823,7 @@ From Florence, . . . [1533].
 <span class="small-caps">Giovan Simone</span>,—I have a husband in view for Ceca ([^fn-p0216-1]) : one of the Sachetti, Benedetto by name. He has a brother whose wife is one of the Medici, and another who is a prisoner in the fortress at Pisa. There was also another brother, Albizo by name, but he died in Rome. If thou knowest aught about him I should be glad, before taking any further steps, to learn what thou thinkest of the match. Thou canst send me word by Mona Margerita, but speak not of it to any one else.
 
 <span class="small-caps">Michelagniolo</span>,  
-in San Lorenzo.
+    in San Lorenzo.
 
 ### Letter 93: Febo di Poggio
 
@@ -1866,7 +1866,7 @@ in Florence.
 <span class="small-caps">Lionardo</span>,—I have received a letter from Gismondo in which he asks me to instruct my agents in Florence to give him nine bushels of grain. I do not know who these same agents of mine may be, but I do know that I have never given more to one than to another. Tell Mona Margerita, therefore, that she is to give him whatever she can spare, and tell him from me that he has done himself but little honour in sinking to the level of a farm-hand. Tell Mona Margerita, further, that she is not to give anything away to anybody save to members of the family, for I do not wish any one to be able to go to her, take charge of my affairs and dictate to her what she is to do, as Donato del Sera did. He had no instructions whatever from me, and I did not owe him a single *scudo*. Tell her this from me, and tell her to be of good cheer : for thyself, strive to become a man of worth.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 This is the first of the letters from Michelangelo to his nephew Lionardo Buonarroti. He was born on September 25th, 1519, and was, as already noted, the son of Buonarroto Buonarroti.
 
@@ -1879,7 +1879,7 @@ From Rome, [July . . ., 1540]
 L<span class="small-caps">IONARDO</span>,—I have received thy letter and with it the three shirts. I am very much surprised that ye should have sent them to me, for they are so coarse that there is not a farm labourer here who would not be ashamed to wear them. Even if they had been made of thinner material I wish ye had not sent them: when I want shirts I will send the money to buy them. With regard to the farm at Pazzolatica, within fifteen or twenty days I will have seven hundred ducats paid to Bonifazio Fazi for the purchase thereof; but first it will be necessary to see what arrangement Michele has made, so that thy sister, if ever she has occasion to do so, may be able to withdraw the amount of her dowry which is invested in the farm. However, thou hadst better discuss it with Gismondo and then write to me ; for unless I feel assured that there is good security for the seven hundred ducats I shall not send the money. I have nothing further to add. Exhort Mona Margerita to be of good cheer, and see that thou treat her well both in word and deed : behave in all things as an upright man should, otherwise I will make it clear to thee that thou shalt enjoy no share of anything that is mine.
 
 M<span class="small-caps">ICHELAGNIOLO</span>,  
-in Rome.
+    in Rome.
 
 The Michele in this letter is Michele di Niccolò Guicciardini, who married Francesca, Buonarroto's daughter, in 1537. By way of dowry Michelangelo gave her the farm of Capiteto, at Pozzolatico, but subsequently bought it back for the sum of seven hundred ducats.
 
@@ -1892,7 +1892,7 @@ From Rome, August 7th, 1540.
 I take this opportunity of informing you that since I came to Rome I have sent about two thousand ducats to Florence, this last sum included; and that for every amount I sent I have paid cash to Bartolomeo Angelini. As I do not keep my business letters, and as we are all doomed to die and to be succeeded by a new generation, I would like a record to be kept, for the information of those who may come after to bear our name, so that it will always be easy to find out how much money has been contributed by myself. If it be permissible, therefore, I would like thee to talk the matter over with Bonifazio, to whom the money has always been made payable, asking him to keep his accounts in such a manner that it may be clear in every case that it was I who paid the money. I have nothing further to add on this head. Take good care of Mona Margerita, and tell her that if we buy these two farms she will be able to keep a servant, as I have already said.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 98: Michelagniolo → Lionardo di Buonarroto
 
@@ -1907,7 +1907,7 @@ I have learned of Mona Margerita’s death with very great sorrow, even more tha
 I would like thee to go to the said Michele and find out how much remains of the money he spent on the cattle for Pazzolatica and on the house. The taxes which, according to his letter, have been paid by him are to be allowed for.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 99: Michelagniolo → Lionardo di Buonarroto Simoni
 
@@ -1952,7 +1952,7 @@ I wrote to thee saying Guicciardino had asked for nine crowns—or rather ducats
 On the 4th day of February, 1542.
 
 <span class="small-caps">MICHELAGNIOLO</span>,  
-in Rome.
+    in Rome.
 
 There are a number of letters at this period addressed to Luigi del Riccio, one of Michelangelo’s few friends in Rome, but they refer for the most part to the interchange of courtesies, sonnets, madrigals, etc.
 
@@ -2034,7 +2034,7 @@ I have answered Messer Giovan Francesco with respect to the head of the duke,([^
 As to my buying that farm from Luigi Gerardi about which thou hast had information sent to me, it does not appear advisable for me to buy more property in Florence than I already possess: for to have over much property is to have over much anxiety, especially now that I cannot make use of it myself. Therefore I think it wiser to buy elsewhere so that I can enjoy the fruits thereof in my old age, for since I cannot work for him the provision given me by the Pope may be taken from me any day. I have already had to defend my claim to it on two occasions. Thou hadst better, therefore, give the priest thine answer and get him to write to me about it. I have nothing further to add. Strive to do well.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 106: Michelagniolo → Lionardo
 
@@ -2055,7 +2055,7 @@ From Rome, Decemb er6th, 1544.
 I have been thinking of late that I would invest sums of money from time to time, amounting in all to a thousand crowns, in a wool merchant’s business for Lionardo’s benefit, if he behaves himself properly, with the understanding that he will not be free to withdraw the money or to convert it to any other use without your permission. I have arranged to begin with a sum of 200 crowns, which I will have paid to you in Florence, if ye agree with my suggestion. If ye do so agree, see to it that the money is not invested in a precarious concern, for I did not pick the money up in the street. Let me hear what ye think of the proposition : ye are in a position to judge of Lionardo’s character better than I, and ye can tell me if it would be wise to do as I propose.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 There is one more letter to Giovan Simone, in which the writer sympathises with him in his illness. Giovan Simone died in 1548.
 
@@ -2064,7 +2064,7 @@ There is one more letter to Giovan Simone, in which the writer sympathises with 
 From Rome, [December 27th, 1544].
 
 *To Lionardo di Buonarroto Simoni,*  
-in Florence.
+    in Florence.
 
 <span class="small-caps">Lionardo</span>,—I have handed 200 crowns over to Covoni’s bank here so that the money may be paid to you in Florence for the purpose mentioned in my last letter. Go, therefore, either with Gismondo or Giovan Simone, to the Capponi and ye will receive the money ; that is to say, ye will receive 200 gold crowns in gold, the same as I paid here. It is my intention that Giovan Simone and Gismondo shall invest this money in their own names for thy benefit with any firm of wool merchants ye may consider to be sound. I do not wish my name to be mentioned in the matter at all. The conditions I impose are these, that the interest is to come to thee for thine own use but the capital sum shall neither be withdrawn, transferred, nor in any other way touched unless all three of you have agreed to the change, Giovan Simone, Gismondo and thyself. Before the money is invested in the business I should like thee to call in Michele Guicciardini,[^fn-p0248-1] so that he may be present with Giovan Simone and Gismondo to see that the documents are drawn up in due form : this is to be done to avoid mistakes, for I believe he understands these matters. He will willingly do it for my sake. Afterwards, see that Giovan Simone and Gismondo write to me acknowledging the receipt of the money and saying how the business has been arranged. Salute Michele in my name. Should neither Giovan Simone nor Gismondo be able to accompany thee when thou goest for the money, thou must go alone and take it to them so that they may do with it as I have already said.
 
@@ -2090,7 +2090,7 @@ From Rome, February 3rd, 1545.
 From Rome, on the 3rd day of February, 1545, *a Nativitate.*
 
 Your <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 Originally only three statues had been entrusted to Raffaello, under a contract dated February 27th, 1542, for which he was to be paid 400 crowns. The contract also says that Michelangelo had given him other statues to finish, “among them a Contemplative Life and an Active Life, at the price of 150 crowns. The former contract notwithstanding, I, Raffaello da Monte Lupo hereby declare that the said Messer Michelangelo shall finish these two statues himself; that is to say, the Active and Contemplative Life: and as he will do this work instead of me I shall not be entitled to receive the said sum of 150 crowns, but they shall remain the property of the said Michelangelo, as is but just.”
 
@@ -2133,7 +2133,7 @@ From Rome, . . ., 1545.
 <span class="small-caps">Lionardo</span>,—I wrote to thee last Saturday to say that I would rather have a couple of flasks of Trebbiano that the eight shirts thou sentest me. Now I have to tell thee that I have received a whole load of the Trebbiano, that is to say, forty-four flasks. Of these I have sent six to the Pope and some to other friends—so many that I have given nearly all of it away, as I cannot drink it myself. Although I wrote as I did, there is really no occasion for thee to send me either one thing or the other. It is enough for me if thou art a man of integrity, and an honour to the rest of us.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 112: Michelagniolo Buonarroti → Vittoria Colonna, Marchesana di Pescara
 
@@ -2160,7 +2160,7 @@ in Rome.
 Your Ladyship’s servant,
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 114: Michelagniolo Buonarroti → Leonardo Buonarroti
 
@@ -2177,7 +2177,7 @@ In addition to the money above mentioned, I intend to make a provision for Giova
 In Rome, on the aforesaid day.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 The signature is in Michelangelo’s own hand. Directly afterwards Lionardo went to see his uncle in Rome, as may be seen from the *Ricordi*, the visit lasting from January 15th to January 26th, 1546.
 
@@ -2212,7 +2212,7 @@ From Rome, April 26th, 1546.
 From Rome, the XXVIth day of April, MDXLVI.
 
 Your most Christian Majesty’s  
-Most humble servant,
+    Most humble servant,
 
 <span class="small-caps">Michelagniolo Buonarroti.</span>
 
@@ -2230,7 +2230,7 @@ On the 29th day of April.
 [P.S.]—About the purchase of the house, I do not mean that ye are to haggle over a matter of ten crowns or so, but only if they ask an unreasonable price.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 118: Michelangelo → Leonardo di Buonarroto Simoni
 
@@ -2241,7 +2241,7 @@ From Rome, [June 5th, 1546].
 <span class="small-caps">Leonardo</span>,—I have had the note of the power of attorney copied out just as it reached me. I have authorised thee to act as my representative, and I send thee herewith the authorisation. Have it examined for thyself, and if it is sufficient for thy purpose, it is sufficient for mine—I have other things to think of besides powers of attorney. Do not write to me again: every time one of thy letters arrives I get an attack of the fever because of the trouble I have to read it! I cannot think where thou has learnt to write. I believe that if thou hadst to write to the greatest donkey in the world thou wouldst write with more care than thou dost to me. Therefore, do not add another to the troubles I have already, for I have enough to content me. Ye will have the power of attorney, so that ye can have it seen into and examined for yourselves; if ye neglect this the loss will be your own.
 
 <span class="small-caps">Michelangelo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 119: Michelagniolo → Lionardo di Buonarroto Simoni
 
@@ -2253,7 +2253,7 @@ in Florence.
 <span class="small-caps">Lionardo</span>,—Thou hast written me a whole treatise about a small matter, and that only annoys me. As to the money, as to the money (*de' danari, de' danari*) thou writest about, consult among yourselves and spend it on what ye most need. I have nothing more to add and no time for writing.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 120: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -2267,7 +2267,7 @@ in Florence.
 Some day, when I have the time, I will tell you the history of our origin, whence we are descended and when it was we came to Florence, which perhaps ye do not know. We must not let what God has given us slip from our grasp.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 From this letter it is clear that Michelangelo believed himself to be descended from the Counts of Canossa. See also his letter to his nephew of January 6th, 1548, p. 228. The new house was required because the project of Lionardo’s marriage was already on foot.
 
@@ -2281,7 +2281,7 @@ in Florence.
 L<span class="small-caps">ionardo</span>,—About a year ago there came into my possession a manuscript Florentine Chronicle, in which I find that about two hundred years ago, if I remember rightly, a certain Buonarroti Simoni was several times one of the Signoria : after him there was a Simone Buonarroti, then a Michele di Buonarroto Simoni, and later on a Francesco Buonarroti. I found no mention in it of Lionardo, who was also one of the Signoria, and the father of our father Lodovico, because the book was not continued down to his day. Therefore it seems to me that thou shouldst sign thyself as “Lionardo di Buonarroto Buonarroti Simoni.” There is no occasion for me to reply to the rest of thy letter because I have not yet been able to make out what it is thou hast written, nor about the house.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 122: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -2293,7 +2293,7 @@ in Florence.
 L<span class="small-caps">ionardo</span>,—I have received the acknowledgement for the money paid to you by the Capponi in exchange for the sum I handed to the Altoviti here. I am very much surprised that Gismondo did not go with thee to draw this money or the last sum I sent, as what I send to Florence is intended no less for them than for thee. Thou writest thanking me for all I am doing for thee : thou shouldst have said, *We thank you for all you are doing for us*. I send thee this money under the same conditions as that for the shop ; that is to say, thou art to do nothing with it unless my brothers give their consent. I have already written to thee about the purchase of a house, for when the time comes for thee to marry, which seems to me a necessary thing, the house ye live in will not be large enough. If there is no suitable house to be found offered for sale I think ye might enlarge the house ye now occupy in the Via Ghibellina ; that is to say, ye could build over the terrace as far as the corner and continue it down the street at the side, buying up the little house below it, if that would be sufficient. However, if ye can find a suitable house to buy, one that is free from all charges, I think it would be the best course. I will send you the necessary money. With reference to thy marrying, several names have been suggested to me : some were suitable, others not. I expect that ye have also been consulted in the matter. If thy mind be inclined to it, let me know : and let me know also if thou hast already a preference. I will tell thee my opinion in the matter. I have nothing more to add.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 123: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -2304,7 +2304,7 @@ From Rome, . . . [1547].
 <span class="small-caps">Lionardo</span>,—With regard to that house of the Corsi, thou writest to say that we had best be in no hurry about buying as it is not yet finished, and that it seems to thee advisable to proceed instead with the matter of the shop, as thou hast found someone to go into partnership with thee. To me it seems—provided the external walls are being soundly built and there are no mortgages on the property—that we ought to buy it, so as to dispose of that money. The internal fittings of the house could be carried out piece by piece afterwards. After the house has been bought there may still remain enough money to enable thee to set up the shop with a partner, although this does not seem to me the proper time for such a speculative undertaking. I do not know of any family in Florence that has prospered by other means than the possession of landed property. However, do as seemeth to thee best: whatever ye may do concerns yourselves alone. As to the almsgiving, methinks thou art over neglectful: if thou wouldst not give away my money for the repose of thy father’s soul, how much less wouldst thou give of thine own? Salute Messer Francesco [Fattucci] for me: thank him and say, with reference to thy marrying, that I am waiting for a friend of mine, now absent from Rome, who has three or four propositions to put before me. I will let him know the result, and we shall see if anything suitable offers.
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 124: Michelagniolo → Lionardo di Buonarroto Simoni
 
@@ -2316,7 +2316,7 @@ in Florence.
 <span class="small-caps">Lionardo</span>,—I have written to thee concerning thy taking a wife, and I told thee of three girls whose names had been mentioned to me here. One is a daughter of Alamanno de’ Medici, another the daughter of Domenico Gugni and the third a daughter of Cherubin Fortini. None of them are known to me, and therefore I can tell thee neither good nor bad of them, nor can I advise thee to take one rather than another. If, Michele Guicciardini is willing to trouble himself over the matter he would be able to find out what sort of people they are and inform us. He could do the same if I hear of any more. Therefore beg him to do this for my sake, and salute him in my name. As to buying a house, it appears to me that this will be necessary before thou canst marry, because your present house is not large enough. So if thou writest to me about this matter see that thy letter be written so that I can read it: that is, if thou desirest me to answer and tell thee my views. Messer Giovan Francesco also might be able to advise thee well in these matters, for he is a man of years and experience. Commend me to him. But above all seek counsel from God, for this is a serious step in life. I would remind thee that there should be always at least ten years difference between the age of husband and wife; and have a care that she be healthy as well as good. I have no more to say.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 125: Michelagniolo → Lionardo di Buonarroto Simoni
 
@@ -2348,7 +2348,7 @@ Francesca writes to say she is not very well and that as she has four children s
 I advise thee to lay out the money I sent on some good investment, land or something of the sort, for it is very dangerous to keep money lying about, especially in these days. When ye sleep, keep both eyes open.
 
 <span class="small-caps">MICHELAGNIOLO BUONARROTI</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 127: Michelangelo → Lionardo di Buonarroto Simoni
 
@@ -2372,7 +2372,7 @@ in Florence.
 In the book containing the contracts there is a letter from the Conte Alessandro da Canossa which I found in the house here to-day. He has already been to see me in Rome and treated me as a kinsman. Take care of the letter.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 This letter from the Conte da Canossa formed the basis of Michelangelo’s claim to be descended from the nobility, as it mentions a certain Simoni da Canossa who was Podestà of Florence in 1250, and from whom the Buonarroti Simoni were supposed to be descended. It has been proved that there is no truth in the assumption.
 
@@ -2387,7 +2387,7 @@ From Rome, [January 16th, 1548].
 As to the documents and the book of contracts which I told thee to have fetched by the muleteer, I gave them to the man who brought me thy letter—it was on the day of the Epiphany, if I remember rightly, for I think it must have been ten days ago. I gave them to him packed in a large box wrapped in waxed cloth, tied up, and firmly secured: see that thou receivest it and advise me of its arrival, as the papers are very important. I cannot add anything more to this letter because I received thine late and have no time to write. Remember me to Guicciardino and to Francesca, and to Messer Giovanfrancesco.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 Giovan Simone Buonarroti died on January 9th, 1548.
 
@@ -2402,7 +2402,7 @@ L<span class="small-caps">ionardo</span>,—Thy letter has arrived acknowledging
 With regard to Giovansimone’s death, of which thou writest, thou treatest the matter very lightly, for thou hast not given me particulars of anything, nor dost thou say what he has left. I would remind thee that he was my brother, and as that is the case it is natural that I should grieve and wish to do something for the repose of his soul as I did for the soul of thy father. Have a care that thou be not ungrateful for all that has been done for thee, for thou hadst nothing in the world of thine own to begin with. I marvel that Gismondo has not written a single word to me about it, for it concerned him quite as much as it did me : thee it concerns only so much as we allow it to, and no more.
 
 M<span class="small-caps">ichelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 131: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -2414,7 +2414,7 @@ in Florence.
 <span class="small-caps">Lionardo</span>,—Since I last wrote to thee I have come across a letter waiting for me in the house here, in which thou givest me an account of all the property that was found belonging to Giovansimone. After that I received another letter in which thou givest me particulars of how he died. As to what he has left, thou mightest have been the first to give me information instead of leaving me to hear of it from others before thee, as was the case. I was excessively indignant about it. As to how he died, thou sayest that although he was not fortified with all the due sacraments of the Church he died, nevertheless, full of penitence. If this is the case it will suffice for the welfare of his soul. Touching the matter of his property, Gismondo is his natural heir as he has made no will : and at the same time I would have thee do as much good as thou canst for the welfare of his soul. Do not stint in the matter of money, for I will not fail thee in whatever thou mayest do. With regard to the contracts and other writings I sent thee, look carefully through them, for they may be of still further use to thee. As to the Corsi house, it seems to me that thou hadst best abide by the offer already made, for if they really desire to sell and matters are as thou sayest, I do not think they will be likely to get more for it in these days. I have nothing more to say.
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 132: MICHELAGNIOLO → Lionardo di Buonarroto Simoni
 
@@ -2427,7 +2427,7 @@ L<span class="small-caps">IONARDO</span>,—I am glad that thou hast told me abo
 As to setting up shop, do as ye yourselves think good, for it is not my trade and I cannot advise you to any good purpose. I have only this warning to give you, that if ye waste the money already in your hands ye will never have it made good to you.
 
 M<span class="small-caps">ICHELAGNIOLO</span>,  
-in Rome.
+    in Rome.
 
 The law of exile was that known as the “Polverina,” having been formulated by Iacopo Polverini, of Prato, by order of Cosimo de’ Medici, Duke of Florence. Michelangelo, it will be remembered, had been seriously ill in Rome in 1544 (p. 204), and had been nursed by Luigi del Riccio in the Strozzi Palace.
 
@@ -2442,7 +2442,7 @@ From Rome, April 7th, 1548.
 On the 7th day of April, 1548.
 
 <span class="small-caps">Michelagniolo,</span>  
-in Rome.
+    in Rome.
 
 It appears that Lionardo opened his shop shortly afterwards, as on April 14th Michelangelo acknowledges the receipt of a copy of the deed relating to the Arte della Lana.
 
@@ -2455,7 +2455,7 @@ From Rome, [May 2nd, 1548].
 <span class="small-caps">Lionardo</span>, — I have received the small barrel [*caratello*] of pears ; there were 86 in all. I sent 33 of them to the Pope, who thought them very excellent and was greatly pleased with the present. But as to the small barrel of cheese, the officer of the customs [dogana] tells me that the carrier is a rogue and that the cheese never got as far as his office. If I can find out whether he is in Rome I will see that he gets his deserts ; not on account of the cheese but so as to teach him not to value his fellow men so cheaply. I have been very ill these last few days with dysuria, and for that reason I am still far from well : however, I am now better than I was. I tell thee this lest some gossiping person should write thee a whole tissue of lies and give thee a fright. Tell the priest not to address me any more as *Michelagnolo scultore*, for I am not known here by any other name than that of Michelagniolo Buonarroti ; tell him also that if there is a Florentine who wishes to have an altar-picture painted he had better go and find a painter to do the work. I was never either a painter or a sculptor like a shop-keeper. I have ever been careful for the honour of my father and of my brothers, although I have served three Popes, having been obliged to do so. There is nothing more to add. Thou wilt have learnt what I think about the damsel from my letter written on the last day of last month. Do not tell the priest anything of what I have said about him in this letter : I shall pretend not to have received his.
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 135: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -2468,7 +2468,7 @@ From Rome, May 12th, 1548.
 On the 12th day of May, 1548.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 136: Michelagniolo → Leonardo di Buonarroto Simoni
 
@@ -2479,7 +2479,7 @@ From Rome, [June . . ., 1548].
 <span class="small-caps">Lionardo</span>,—I have received a load of Trebbiano, which was exceedingly welcome: nevertheless I repeat that thou art not again to send me anything unless I write, and then I will send the money to pay for what I require. As to the shop I shall be pleased if thou wilt let me know how the matter goes. I have nothing more to add. Commend me to Guicciardino and to Francesca, also to Messer Giovan Francesco.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 137: Michelagniolo → Leonardo di Buonarroto Simoni
 
@@ -2492,7 +2492,7 @@ From Rome, August 10th, 1548.
 On the tenth day of August, 1548.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 The reference to the “Porto” is the “Passo del Po” at Piacenza, which has already been mentioned. It was given to Michelangelo by Pope Paul III. as part payment of the annuity of 1,200 crowns conferred upon him by Clement VII., but it seems to have brought its owner more lawsuits than money. Finally, when Piacenza fell into the hands of the Emperor Charles V. Michelangelo was deprived of this source of income altogether. As Michelangelo explains, it was to save himself from starving that he wished to invest his money in such a way as to provide an independent income, though he subsequently received another post from the Pope which yielded him twenty crowns a month. It is mentioned in the *Ricordi* as “mio ufficio di Romagna,” the entry being dated February 13th, 1549.
 
@@ -2557,7 +2557,7 @@ in Florence.
 On the 21st day of February, 1549.
 
 M<span class="small-caps">ICHELAGNIOLO</span> B<span class="small-caps">UONARROTI</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 142: Michelagniolo Buonarroti → Leonardo di Buonarroto Simoni
 
@@ -2572,7 +2572,7 @@ If thou shouldst come to hear of a case of extreme poverty in some noble family�
 On the 15th day of March, 1549.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-In Rome.
+    In Rome.
 
 ### Letter 143: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -2587,7 +2587,7 @@ This illness has made me think of putting my spiritual and temporal affairs into
 On the 23rd day of March, 1549.
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 With regard to the almsgiving, the fifty crowns were employed to enable a daughter of Niccolò Cerretani to enter the Convent of Santa Verdiana, in Florence.
 
@@ -2606,7 +2606,7 @@ As to thy taking a wife, this morning a friend of mine came to see me and urged 
 On the 5th day of April, 1549.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 [P.S.]—I should be very greatly pleased if, before taking a wife, thou hadst already bought a more honourable and a larger house than the one ye now occupy, and I should like to have sent the money and settled the matter.
 
@@ -2617,7 +2617,7 @@ What I have written to thee concerning the Ginori girl I only wrote because I ha
 From Rome, [May 2nd, 1549].
 
 *To Lionardo di Buonarroto Simoni*,  
-in Florence.
+    in Florence.
 
 <span class="small-caps">Lionardo</span>,—I now repeat what I told thee in a former letter, that is to say, go and see that farm at Chianti of which thou hast written, and if ye find it satisfactory ye are to buy it at all costs and not to hesitate for a matter of fifty crowns. I give ye a free commission to do this : that is to say if it is a sound investment ye are to buy it at all costs and not to bother about the price. Let me know what ye have done because then I will send you the necessary money without delay.
 
@@ -2653,7 +2653,7 @@ THE HOLY FAMILY
 *After the picture by Michelangelo in the Uffizi Gallery*
 
 Your <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 Varchi had written to Michelangelo asking his opinion as to which of the two branches of art, painting and sculpture, was the more noble. The subject was one which engaged the attention of many artists of the day, and letters from Vasari, Palladio and others are given in Gaye’s *Carteggio Inedito*. Varchi collected these various opinions and published them in book form in Florence, in 1549, “with a letter written by Michelagnolo, and others concerning the question aforesaid, written by the most excellent painters and sculptors.”
 
@@ -2668,7 +2668,7 @@ From Rome, . . . [1549].
 Yours, and at your service in all that lies in my power,
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 149: Michelangelo → Lionardo di Buonarroto Simoni
 
@@ -2689,7 +2689,7 @@ From Rome, July 19th, 1549.
 On the 19th day of July, 1549.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 The Sister Domenica mentioned in the letter was a self-appointed prophetess who, however, gained a great reputation during the siege of Florence, and whose counsels were eagerly listened to by the rulers of the state.
 
@@ -2706,7 +2706,7 @@ Florence.
 Although we have not written a word to each other during the last few months our long and sincere friendship is not as a consequence forgotten ; nor is it that I do not desire your welfare as much as I have ever done, nor that I do not love you with all my heart, and more, for the numberless pleasures you have given me. With regard to the old age which bears upon us equally, I should like to hear how yours is treating you, for I do not like mine very much. Therefore I beg you to send me a few lines. You know we have a new Pope, and who he is. All Rome is rejoicing, thanks be to God, and no one expects to derive anything but the greatest benefit to all, especially to the poor, because of his liberality. As far as my private affairs are concerned, I should be glad, and you would bestow a great service upon me, if you would let me know how matters go with Lionardo, telling me the exact truth without reserve ; for he is a young man and I am very anxious for his welfare, the more so as he is alone and has nobody to advise him. I have nothing further to add, except this that to-day Messer Tomao [Tommaso] de’ Cavalieri asked me on his behalf to thank Varchi for a certain small book of his which has just been published, in which he speaks most honourably of him, and not less so of me. He has given me a sonnet I wrote for him about the same time and asks me to send it to him [Varchi] by way of justification. I am sending it with this : if you like it, give it to him ; if you do not, throw it on the fire, and bear in mind that I am fighting with death and that my thoughts are bent on other matters, though sometimes one is obliged to indulge in this sort of thing. I beg you to thank the said Messer Benedetto for the great honour done me in his sonnets, as already mentioned, and I offer him my services, such as they are.
 
 Your <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 Benedetto Varchi, the historian and poet, whom Michelangelo describes as “ the light and splendour of the Florentine Academy.” The book here referred to is Varchi’s *Commento* on a sonnet written by Michelangelo, already mentioned in an earlier letter.
 
@@ -2723,7 +2723,7 @@ To tell the truth, if thou hadst succeeded in finding an investment bringing in 
 On the first day of March, 1550.
 
 <span class="small-caps">Michelagniolo,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 153: Michelangelo → Giovan Francesco Fattucci
 
@@ -2751,7 +2751,7 @@ I have no more to add. Salute the priest for me, and also my friends
 On the 7th day of August, 1550.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 155: Michelagniolo Buonarotti → Lionardo di Buonarroto Simoni
 
@@ -2771,7 +2771,7 @@ A daughter of Altovito Altoviti was mentioned to me to-day in connection with th
 On the 16th day of August, 1550.
 
 <span class="small-caps">Michelagniolo Buonarotti</span>,  
-in Rome.
+    in Rome.
 
 Michelangelo appears to have misjudged the Roman women, as he found a suitable servant within a week.
 
@@ -2787,7 +2787,7 @@ in Florence.
 On the 6th day of September, 1550.
 
 <span class="small-caps">MICHELAGNIOLO BUONARROTI</span>,  
-in Rome.
+    in Rome.
 
 Lionardo went to Rome at the beginning of October, returning to Florence early in November.
 
@@ -2807,7 +2807,7 @@ Yesterday I received a letter from Messer Giovanfrancesco asking whether I had a
 On the 20th of December, 1550.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 158: Michelagniolo → Lionardo di Buonarroto Simoni
 
@@ -2824,7 +2824,7 @@ I have nothing to add. Greet the priest in my name, and say that as soon as I ca
 On the last day of February, 1551.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 From Rome, March 7th, 1551.
 
@@ -2841,7 +2841,7 @@ As to the money I told thee to give away in alms in Florence a short while ago�
 On the 7th day of March, 1551.
 
 M<span class="small-caps">ICHELAGNIOLO</span>,  
-in Rome.
+    in Rome.
 
 The *Rime* of Vittoria Colonna, Marchesa di Pescara, were first published in 1538, a new and larger edition being published in the following year. A third edition appeared in 1544.
 
@@ -2858,7 +2858,7 @@ As to the proposed alliance with the Nasi, thou writest saying that thou hast no
 On the 28th day of June, 1551.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 161: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -2871,7 +2871,7 @@ From Rome, December 19th, 1551.
 On the 19th day of December, 1551.
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 162: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -2892,21 +2892,21 @@ I am old, as I said in my last letter, and in order to avoid raising anybody’s
 On the 20th day of February, 1552.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 163: Michelagniolo → Lionardo di Buonarroto Simoni
 
 From Rome, April 1st, 1552.
 
 *To Lionardo di Buonarroto Simoni,*  
-in Florence.
+    in Florence.
 
 <span class="small-caps">Lionardo</span>,—With regard to thy marriage : I have just heard from a friend that the defect which caused thee to give up all thought of the damsel I wrote about does not exist, that is to say, she is not short-sighted. He declares it was a friend of thine who told thee this because he wanted thee to marry some other person he had in view, but that she was not as yet of marriageable age, and therefore he invented this story so as to make thee delay until she was ready for thee. It seems to me that thou shouldst take her, if it is really true that there is no defect in her vision. Have a care that thou be not led by the nose by people who are of inferior rank to thee. I have nothing more to add on this head. Bear in mind that time is slipping away, and that I do not wish the whole of my life to turn out to have been spent in labouring for strangers; but I hope my will will provide for that.
 
 On the first day of April.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 164: Michelagniolo → Lionardo di Buonarroto Simoni
 
@@ -2919,7 +2919,7 @@ From Rome, April 23rd, 1552.
 On the 23rd day of April, 1552.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 165: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -2936,7 +2936,7 @@ As to my choosing a wife for thee here, thou mayst well suppose that I do not go
 On the 24th day of June, 1552.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 166: MICHELAGNIOLO → Lionardo di Buonarroto Simoni
 
@@ -2961,14 +2961,14 @@ L<span class="small-caps">IONARDO</span>,—In this letter thou wilt find my rep
 On the 28th day of October, 1552.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 168: Lionardo di Buonarroto Simoni
 
 From Rome, [November 21st, 1552].
 
 *To Lionardo di Buonarroto Simoni,*  
-in Florence.
+    in Florence.
 
 <span class="small-caps">Lionardo</span>,—In my opinion things that begin badly cannot end well. From thy last letter I learn that all those promises which were made quite voluntarily with regard to the damsel have been withdrawn. I tell thee that although I have written on many occasions urging thee not to look for a dowry I do not think thou art therefore obliged to submit to the breaking of promises. As contempt is a powerful weapon I counsel thee to have no more to do with it, unless thou seest so many other advantages that thou canst afford to overlook smaller details. As far as this is concerned I do not know exactly how the matter stands, and consequently do not know what to say. Commit thyself to God and be confident that all will turn out for the best. I am sure that, by His grace, it must end well.
 
@@ -2986,7 +2986,7 @@ in Florence.
 On the 25th day of March, 1553.
 
 <span class="small-caps">Michelagniolo</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 170: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -2999,7 +2999,7 @@ From Rome, April 22nd, 1553.
 On the 22nd day of April, 1553.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 171: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3014,7 +3014,7 @@ I learn from thy last letter that both parties are satisfied with the alliance, 
 On the last day of April, 1553.
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 172: Michelagniolo Buonarrotti → Lionardo di Buonarroto Simoni
 
@@ -3027,7 +3027,7 @@ From Rome, May 20th, 1553.
 On the 20th of May, 1553.
 
 <span class="small-caps">Michelagniolo Buonarrotti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 173: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3042,7 +3042,7 @@ I have provided two rings for Cassandra, ([^fn-p0326-1]) one with a diamond and 
 On the 21st day of June, 1553.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 174: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3055,7 +3055,7 @@ From Rome, August 5th, 1553.
 On the 5th day of August, 1553.
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 175: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3145,7 +3145,7 @@ From Rome, September 19th, 1554.
 On the 19th day of September, 1554.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 180: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3158,7 +3158,7 @@ From Rome, [March . . ., 1555].
 Cepperello tells Urbino that he is going to Florence and that the woman who had a life interest in that farm we discussed some time ago is dead. ([^fn-p0334-1]) I expect he will come to see thee. If he will sell it at a fair price and give good security, take it and let me know the amount, so that I may send the money.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 181: Michelagniolo Buonarroti → Leonardo di Buonarroto Simoni
 
@@ -3175,14 +3175,14 @@ I am glad to hear that thou, Cassandra and the child are all well, though I am v
 On the 28th of September, 1555.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 182: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
 From Rome, November 30th, 1555.
 
 *To Lionardo di Buonarroto Simoni*,  
-in Florence.
+    in Florence.
 
 <span class="small-caps">Lionardo</span>,—I learnt from thy letter, not without the deepest sorrow, that Gismondo my brother was dead. We must be patient, and thank God that he was conscious to the end and died fortified by all the sacraments ordained by the Church.
 
@@ -3206,7 +3206,7 @@ From Rome, December 4th, 1555.
 I have to tell thee that yesterday, the 3rd of December and at the fourth hour, Francesco called Urbino passed from this life, to my deepest sorrow. He leaves me in affliction and distress so great that it would have been better for me if I had died too, such was the love I bore him. Nor did he deserve less of me, for he had grown to be a man of worth, full of loyalty and faithful service ; wherefore I feel as though his death had deprived me also of life, and I can find no rest. I should accordingly be glad to see thee, though I do not know whether thou couldst leave Florence, for love of thy wife. Let me know if thou art able to come as far as Rome within the next month or six weeks, presuming always that the Duke [Cosimo] will give thee permission. I have said thou must get the Duke’s permission for a good reason, but perhaps it may not be necessary. Do as thou thinkest best, and let me have word. Write and say if thou canst come, and I will tell thee when to set out from Florence, for I wish to get Urbino’s wife out of the house first.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 184: Michelagniolo → Bartolomeo Ammannati
 
@@ -3232,7 +3232,7 @@ I was made to undertake the work upon St. Peter’s against my will, and up to t
 On the 11th day of May, 1555.
 
 Your <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 186: Michelagniolo Buonarroti → Giorgio Vasari
 
@@ -3245,21 +3245,21 @@ From Rome, June 22nd, 1555.
 On the 22nd day of June, 1555.
 
 Your <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 187: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
 From Rome, January 11th, 1556.
 
 *To Lionardo di Buonarroto Simoni,*  
-in Florence.
+    in Florence.
 
 <span class="small-caps">Lionardo</span>,—I wrote to thee last week to say that Urbino was dead, and that I had been left with everything in disorder and myself very unhappy. I said also that I should be very glad if thou couldst come to see me. I now repeat that if thou canst arrange thine affairs in Florence in such a way that they will run no risk of loss or hurt of any sort for a month, thou art to get ready to come here. If thou shouldst not wish to do this, or if thou art likely to suffer loss, or art afraid of the dangers of the road, or hast any other cause for hesitation, delay until thou thinkest the proper time has arrived. And when that time does arrive, come, for I am old and would dearly like to see thee again before I die. I have nothing to add. If anything different should have been written to thee concerning me pay no heed to it, but believe only what is in my letters.
 
 On the 11th day of January, 1556.
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 This is the last letter before the visit to Rome referred to took place.
 
@@ -3274,7 +3274,7 @@ From Rome, February 23rd, 1556.
 The 23rd day of February, 1556.
 
 Your <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 189: Michelagniolo Buonarroti → Leonardo di Buonarroto Simoni
 
@@ -3291,7 +3291,7 @@ Urbino’s wife has sent asking me to secure for her seven *braccia* of black cl
 On the 7th day of March, 1556.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 190: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3306,7 +3306,7 @@ Tell Francesca I will reply to her letter on another occasion, as at present I d
 On the 11th of April, 1556.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 A letter dated two weeks later announces that the cloth has arrived.
 
@@ -3326,7 +3326,7 @@ I am delighted to hear that Cassandra is well again. Commend me to her, and take
 On the last day of May, 1556.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 192: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3341,7 +3341,7 @@ Yesterday I received a letter from thee written in great haste saying thou wert 
 On the first day of August, 1556.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 193: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3359,7 +3359,7 @@ From Rome, on the last day of October, 1556.
 Thine, as a father,
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 Michelangelo seems to have fled from Rome because of the dangers threatened by the approach of the Spanish forces which, marching from Naples, had already invaded the Patrimony. Paul IV. was Pope at this time.
 
@@ -3376,7 +3376,7 @@ I enclose a letter for the painter, Messer Giorgio ; give it to him as soon as p
 On the 19th day of December, 1556.
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 195: Lionardo di Buonarroto Simoni
 
@@ -3397,7 +3397,7 @@ From Rome, March 28th, [155].
 I knew thou wert angry with me, but I could not discover why. Now, from thy last letter, I think I have found out the reason. When thou sentest me the cheeses thou didst write saying it was thy desire to send me other things as well, but that the handkerchiefs were not yet ready. To prevent thy spending money on my account I wrote saying thou wert to send me nothing more, but if there were anything I could get for thee it would give me the greatest pleasure to obey thee, knowing—as thou must of a surety know—the love I still bear toward Urbino, albeit he is dead, and towards all that belonged to him. As to my coming over to see the children, or thy sending Michelagniolo ([^fn-p0349-1]) here, I must tell thee how I am situated. To send Michelagniolo here would not be practicable because I have no women-folk, and none to look after the house : and besides, the child is still too young, and some accident might happen to him and give me occasion for regret. In addition to this, about a month ago the Duke of Florence very graciously made liberal offers to me, urging me to go back to Florence. I besought him to grant me so much time as would enable me to arrange my affairs here and to leave the fabric of St. Peter’s in a satisfactory state. As a result I expect to be detained here all this summer : and when I have done all I wish to do, and have adjusted thine affairs in connection with the Monte della Fede I hope to go back to Florence and remain there for ever, for I am an old man, and time will not suffice for me ever to return again to Rome. I shall pass through your city, and if thou desirest to place Michelagniolo in my charge I would rather have him in Florence with me than the children of my nephew Lionardo ; to teach him what I can and what his father would have wished him to know. I received thy last letter yesterday, the 27th day of March.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 197: MICHELAGNIOLO BUONARROTI → Lionardo di Buonarroto Simoni
 
@@ -3414,7 +3414,7 @@ Bastiano di San Gimignano, in order to drive me back to Florence, and perhaps to
 On the 4th day of May, 1557.
 
 <span class="small-caps">MICHELAGNIOLO BUONARROTI</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 198: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3431,7 +3431,7 @@ Commend me to Messer Giorgio : he can be of much service to me if he is willing,
 On the 16th day of June, 1557.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 199: Michelagniolo Buonarroti → Cosimo
 
@@ -3446,7 +3446,7 @@ And now, to return to the subject of my letter, I beg Your Lordship to grant me 
 The least of Your Lordship’s servants,
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 200: Michelagniolo Buonarroti → Giorgio Vasari
 
@@ -3522,7 +3522,7 @@ I have to inform thee that the Florentines here are desirous of putting up a lar
 On the 15th day of June, 1559.
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 [P.S.]—Writing is very troublesome to my hand, my eyes and my memory. Such is the effect of age !
 
@@ -3545,7 +3545,7 @@ On the 1st day of November, 1559.
 Your Excellency’s servant,
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 Paul IV. died on August 18th of this year and was succeeded by Pius IV. on December 25th, the twelfth pontiff elected during the artist’s lifetime. The design for the church of San Giovanni was sent to Rome in the following March.
 
@@ -3577,7 +3577,7 @@ From Rome, March [15th], 1560.
 <span class="small-caps">Lionardo</span>,—I did not reply to thy last letter because I had no time : I now tell thee I was glad to hear about the baby girl, because as we are alone in the world it would be a good thing if we could contract an advantageous alliance with some other family. Keep this matter ever in thy mind, for when that time comes I shall no longer be here. I have written telling thee to come to Rome; as I have already said, I will let thee know when thou art to set out. I may add that the greatest of all my worries in Rome is the answering of letters.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 208: Michelagniolo Buonarroti → Cardinal Ridolfo Pio da Carpi
 
@@ -3611,7 +3611,7 @@ From my house, in Rome, on the 13th day of
 September, in the year LX.
 
 Your Most Illustrious and Reverend Lordship’s  
-Humble Servant.
+    Humble Servant.
 
 ### Letter 211: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3625,7 +3625,7 @@ in Florence.
 On the twenty-second day of March, one thousand five hundred and sixty-one.
 
 <span class="small-caps">Michelagniolo Buonarroti,</span>  
-in Rome.
+    in Rome.
 
 ### Letter 212: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3639,7 +3639,7 @@ in Florence.
 On the eighteenth day of July, one thousand five hundred and sixty-one.
 
 <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 ### Letter 213: Michelagniolo Buonarroti → Lionardo di Buonarroto Simoni
 
@@ -3652,7 +3652,7 @@ From Rome, September 20th, 1561.
 On the 20th day of September, 1561.
 
 I, <span class="small-caps">Michelagniolo Buonarroti</span>,  
-in Rome.
+    in Rome.
 
 There are several letters between this and the one here placed next to it, but they are all short and of no interest, being for the most part acknowledgments of letters or presents received.
 

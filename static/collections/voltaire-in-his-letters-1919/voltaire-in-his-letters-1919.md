@@ -128,8 +128,7 @@ To those lines of noble simplicity it may be pertinently added that he not only 
 
 ### CONTENTS
 
-| <span class="small-caps">letter</span> | <span class="small-caps">page</span> |
-| --- | --- |
+**<span class="small-caps">letter</span> — <span class="small-caps">page</span>**
 
 I.—*To Mdlle. Dunoyer*—<span class="small-caps">Arranging an Elopement</span> . . . . . I
 
@@ -155,8 +154,7 @@ XI.—*To M. Bertin de Rocheret*—<span class="small-caps">On Writing Contempor
 
 XII.—*To a First Commissioner*—<span class="small-caps">On the Liberty of the Press: and on Theatres</span> . . . . . 30
 
-| <span class="small-caps">letter</span> | <span class="small-caps">page</span> |
-| --- | --- |
+**<span class="small-caps">letter</span> — <span class="small-caps">page</span>**
 
 XIII.—*To Mme. de Champbonin*—<span class="small-caps">On Getting into a House</span> . . . . 35
 
@@ -188,8 +186,7 @@ XXVI.—*To M. Martin Kahle*—<span class="small-caps">Criticising a Critic</sp
 
 XXVII.—*To M. Diderot*—<span class="small-caps">On the Blind</span> . 79
 
-| <span class="small-caps">Letter</span> | <span class="small-caps">Page</span> |
-| --- | --- |
+**<span class="small-caps">Letter</span> — <span class="small-caps">Page</span>**
 
 XXVIII.—*To Mme. du Boccage*—<span class="small-caps">On the Death of Mme. du Châtelet</span> . . 82
 
@@ -227,8 +224,7 @@ XLIV.—*To Frederick the Great*—<span class="small-caps">Farewell</span> . 12
 
 XLV.—*King Frederick the Great to Voltaire*—<span class="small-caps">Dismissed</span> . . . . . 127
 
-| <span class="small-caps">Letter</span> | <span class="small-caps">Page</span> |
-| --- | --- |
+**<span class="small-caps">Letter</span> — <span class="small-caps">Page</span>**
 
 XLVI.—*Petition to the King of France*—<span class="small-caps">The Escape from Prussia</span> . . . 129
 
@@ -258,8 +254,7 @@ LVIII.—*To M. Palissot*—<span class="small-caps">Impeaching a Traducer</span
 
 LIX.—*To M. de Bastide*—<span class="small-caps">Social Conditions in 1760</span> . . . . . 178
 
-| <span class="small-caps">Letter</span> | <span class="small-caps">Page</span> |
-| --- | --- |
+**<span class="small-caps">Letter</span> — <span class="small-caps">Page</span>**
 
 LX.—*To M. le Comte d'Argental*—<span class="small-caps">On Lady Mary Wortley Montagu</span> . . 182
 
@@ -293,8 +288,7 @@ LXXIV.—*To M. Turgot*—<span class="small-caps">On a Wise Appointment</span> 
 
 LXXV.—*To M. le Marquis de Condorcet*—<span class="small-caps">On Turgot and Ferney</span> . . . . 240
 
-| <span class="small-caps">LETTER</span> | <span class="small-caps">PAGE</span> |
-| --- | --- |
+**<span class="small-caps">LETTER</span> — <span class="small-caps">PAGE</span>**
 
 LXXVI.—*To Mme. du Deffand*—<span class="small-caps">On Lord Chesterfield's Letters</span> . . . 244
 
@@ -316,8 +310,7 @@ LXXXIV.—*To the Comte de Lally*—<span class="small-caps">The Last Letter</sp
 
 ### ILLUSTRATIONS
 
-| <span class="small-caps">Page</span> |
-| --- |
+**<span class="small-caps">Page</span>**
 
 <span class="small-caps">Voltaire as a Young Man</span> . . . *Frontispiece*  
 From the portrait by de la Tour.

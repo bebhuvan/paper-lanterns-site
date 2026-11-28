@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Thomas Duer Broughton, Mountstuart Elphinstone Grant Duff",
  "year": 1892,
  "archive_id": "letterswrittenin00brou",
@@ -142,26 +145,26 @@
   {
    "format": "epub",
    "file": "broughton-mahratta-1809.epub",
-   "bytes": 343678,
-   "sha256": "3bc8bc38f9528b91c9d2049a73d088d1fd4d85bc1bf5c7d7261b84a345bbd0e2"
+   "bytes": 343718,
+   "sha256": "5682905b90c96dc20392c0bca7238817f6e942a9bc05df690c6afed5c920bd67"
   },
   {
    "format": "markdown",
    "file": "broughton-mahratta-1809.md",
-   "bytes": 565643,
-   "sha256": "83da298218d01f0412417b3f44f30440813dc0fde02989adac95ce70f5693e03"
+   "bytes": 565675,
+   "sha256": "8ee016afac137783eb51460adc2d0268f20a75ed31531f61b4ff60da573f8ba9"
   },
   {
    "format": "tei",
    "file": "broughton-mahratta-1809.tei.xml",
-   "bytes": 632871,
-   "sha256": "c11fee516fc4022e7ee5ee3f1f33a576669da3fa0538c372233bd9c103560483"
+   "bytes": 632879,
+   "sha256": "9f4d9a709d148b2c0edc05acfd295285152fd1ac3ecb7345b8b8e40ef08a7ee6"
   }
  ],
  "scan_base": "https://archive.org/download/letterswrittenin00brou/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-v1",
-  "compiled_at": "2026-11-24T19:21:19Z",
+  "compiled_at": "2026-11-28T05:29:51Z",
   "source_ast_sha256": "fcf5b17e05404b12d7bd224dea4adc1f61d57e06556dc3738340310a741c777d",
   "hugo_renderer_version": "1.0.0"
  }

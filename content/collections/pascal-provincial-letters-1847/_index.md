@@ -14,6 +14,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Blaise Pascal (tr. George Pearce)",
  "year": 1847,
  "archive_id": "provincialletter00pasc_1",
@@ -153,26 +156,26 @@
   {
    "format": "epub",
    "file": "pascal-provincial-letters-1847.epub",
-   "bytes": 427463,
-   "sha256": "1a99fc85bdcb8912381420c9b9c08be5dd3b2469eb078e79a656e508af9216ff"
+   "bytes": 427555,
+   "sha256": "cef2903ce686e4e41ed39107f12bd6da0a65822df372bf318dee57b1fde4ee7e"
   },
   {
    "format": "markdown",
    "file": "pascal-provincial-letters-1847.md",
-   "bytes": 948817,
-   "sha256": "ef2727d0a7942b928d735e789fec1d135d5acf8b6ae62cdc1ee6a09e1d42ebd0"
+   "bytes": 948837,
+   "sha256": "c3323f36442b0d5fc6300b8400f1e47d722a2354e8d49d88214946ae6802c9c3"
   },
   {
    "format": "tei",
    "file": "pascal-provincial-letters-1847.tei.xml",
-   "bytes": 1029088,
-   "sha256": "8c70c1af2eed945ecd664099ec4fa6595d7910fd0414beed57cf32450714b9cc"
+   "bytes": 1029160,
+   "sha256": "79f47efbd539a02ac82b3db1bf7349ad6820851d1aa70340db1a250dc9ace3a1"
   }
  ],
  "scan_base": "https://archive.org/download/provincialletter00pasc_1/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:23:28Z",
+  "compiled_at": "2026-11-28T05:29:00Z",
   "source_ast_sha256": "6449d1c772a7fc848d3119c995b9cb18323c2006f29f0c8944693c797db3cf60",
   "hugo_renderer_version": "1.0.0"
  }

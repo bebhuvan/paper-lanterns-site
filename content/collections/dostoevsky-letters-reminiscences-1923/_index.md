@@ -14,6 +14,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Fyodor Dostoevsky (tr. S. S. Koteliansky & J. Middleton Murry)",
  "year": 1923,
  "archive_id": "bwb_P8-ADV-479",
@@ -221,8 +224,8 @@
   {
    "format": "epub",
    "file": "dostoevsky-letters-reminiscences-1923.epub",
-   "bytes": 216592,
-   "sha256": "9aaa4459fc181f1a1b65a5bfb4032251bf4f3df80f8336a54c8f50e1e32dae36"
+   "bytes": 216656,
+   "sha256": "f724d692b25e7177493fe3ae60a7fb86f0ccac1a5ec601315b209d1e491d636c"
   },
   {
    "format": "markdown",
@@ -240,8 +243,8 @@
  "scan_base": "https://archive.org/download/bwb_P8-ADV-479/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:21:28Z",
-  "source_ast_sha256": "461239aa788ebad0b384c2d2d96aa9b7b5617e49f89b686d3b117a64c1d195ce",
+  "compiled_at": "2026-11-27T21:09:38Z",
+  "source_ast_sha256": "8026cbac33192c5bf8f8536aeb708b5e391efe7ea30931fd0f0fed0f37b82e4e",
   "hugo_renderer_version": "1.0.0"
  }
 }

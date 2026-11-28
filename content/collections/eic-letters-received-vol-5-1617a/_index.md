@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "East India Company, William Foster (ed.)",
  "year": 1901,
  "archive_id": "in.ernet.dli.2015.529466",
@@ -192,26 +195,26 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-5-1617a.epub",
-   "bytes": 483755,
-   "sha256": "70919d78b72a5c1c6342f398e2f2f387905f39d22a1be2b47894e6cc1d01c1d9"
+   "bytes": 483949,
+   "sha256": "c83c34eb274428fc0905d833e1ca89ec9c55450c78dff1a8cb21468edc294536"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-5-1617a.md",
-   "bytes": 937525,
-   "sha256": "0f88d904673fab6186df25c804e48eda07b1f43246c6a96c43a4b9099be9d769"
+   "bytes": 937959,
+   "sha256": "a1dee1375a3119b1291797e448828d718f246d944a34399dd579da0ac6078eba"
   },
   {
    "format": "tei",
    "file": "eic-letters-received-vol-5-1617a.tei.xml",
-   "bytes": 1147472,
-   "sha256": "d8a93d149e5f01413ed213017da299d13b87b6063c70be9abec6d6de4a83289d"
+   "bytes": 1147576,
+   "sha256": "707807ce69f5ab9df94b14055c5b156dc1d8c0f7cec4c08190dc67846d5e1690"
   }
  ],
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.529466/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:21:50Z",
+  "compiled_at": "2026-11-28T05:23:56Z",
   "source_ast_sha256": "26349cf22ad3a25d23ee067646f403d274c8bce48acf3c2f64fde7e22de03317",
   "hugo_renderer_version": "1.0.0"
  }

@@ -139,8 +139,7 @@ The same to the same. Bantam, May 29, 1616 . . . 112
 
 296. Account by Richard Steel of the moneys, weights and measures current in Persia. [October, 1615] . . 176
 
-| <span class="small-caps">Page</span> |
-| --- |
+**<span class="small-caps">Page</span>**
 
 297. Consultation at Patani. October 9, 1615 . . . . . 178
 
@@ -606,7 +605,7 @@ For the victory which it pleased God to give us against the Portingalls I refer 
 And thus with remembrance of my humble duty I end, committing your Worships to the gracious protection of the Almighty.
 
 Your Worships' obedient servant  
-in all duty to be commanded,
+    in all duty to be commanded,
 
 John Sandcrofte.
 
@@ -649,7 +648,7 @@ Laus Deo in Swalley Road, the second of March, 1614 [1615].
 HONOURABLE Sir, My service in all dutiful and respective wise remembered, etc. I acknowledge myself obliged unto you for the gracious demonstration of your love in the acceptance of me into the service of the Right Honourable and Right Worshipful Company, for the which undeserved favour in what I am able I will be found grateful, viz. in soliciting the Almighty by continual prayer for your welfare in all your proceedings. I desire I may be excused for that I suppose I shall be found defective in the demonstrating of the occurrences passed in this our present voyage, or otherwise I am jealous that my rustical discourse should in no wise be answerable to him that writeth to least effect, or that the splendent and copious advice of others may darken and obscure my slender and insignificant methods. First, for the mathematical science, I acknowledge my imbecility such as in the best sufficiency that I am able therein I can give the Right Honourable and Right Worshipful Company small or no content; wherefore I leave those marine discourses to the masters of your ships, presuming you shall so sufficiently by them understand every particular matter of consequence in this our present voyage passed, as that in the same they shall give the worthy Company full content and satisfaction. Secondarily, for merchandising causes, as I am not in place of eminency to understand every matter of consequence occurring, so by just reason cannot I acquaint, or with such facility in so full fraught manner stuff these few lines as I could wish with matter worthy your favourable censure and acceptance; therefore I desire your grave wisdom to weigh and consider the premises, and then peradventure I may pass with an acceptance answerable to my wished desire. For business here effected, I presume you shall sufficiently understand by our commanders. For myself I will endeavour to accomplish whatsoever business shall be committed to my charge to be prosecuted and effected, as that the performance thereof without question shall give you, with the Right Honourable and Right Worshipful Company, sufficient testimony to approve of my just and faithful performance. If that haply these my precedent lines shall be censured of as impertinent and too mean for this ripe and exquisite age, I desire you to consider that at the building of Solomon's Temple there was room as well for burthen-bearers as for other more curious artificers; whereupon I infer that although in matters of greatest consequence I am not, nor greatly at present desire to be, employed, yet notwithstanding in businesses of reasonable importance I suppose myself of sufficiency able to do the Right Honourable and Right Worshipful Company commendable service. But for me to begin to make relation of those businesses which I should not be sufficiently able to prosecute and close up were deservedly to be convinced of folly; therefore I refer the relation thereof to our commanders as aforesaid, by whom effectually and at large I am certain the Right Honourable and Right Worshipful Company shall be informed. Thus, desiring your pardon for my abrupt and rustical boldness herein, I humbly take my leave, with prayer for the continuance of your health, with prosperous and fortunate success to your peculiar or proper affairs as to the Right Honourable and Right Worshipful Company's to and from these parts; committing you and all your proceedings to the guidance of the Almighty.
 
 Your Honour's in all readiness to accomplish you  
-the uttermost of my best service,
+    the uttermost of my best service,
 
 Samuell Juxon.
 
@@ -674,7 +673,7 @@ The first of December Mr. Edwards with such as were appointed to go along with h
 Thus craving pardon for my abrupt boldness, with my hearty wishes and prayers unto Almighty God for the continuance and increase of your Honours' and Worships' healths and prosperity, I humbly take my leave and rest
 
 Your Honours' and Worships' servant  
-to be commanded,
+    to be commanded,
 
 Humphrey Elkington.
 
@@ -1180,8 +1179,7 @@ A NOTE of presents, duties, and compositions which we gave and paid in the procu
 
 **The 20th ditto.**
 
-| Mamodes. | Pice. |
-| --- | --- |
+**Mamodes. — Pice.**
 
 Presented to the King of Achin at Pedir by Mr. Oxwick and Mr. Juxon, which was appointed by our General, as followeth :
 
@@ -1636,8 +1634,8 @@ If you have hereafter any conveyance for Surat, either by way of Coramandell, Da
 Your loving friends,
 
 John Millward.    Arth. Spaight.  
-John Yates.    John Sandcrofte.  
-John Parsons.    Edmond Aspinall.
+    John Yates.    John Sandcrofte.  
+        John Parsons.    Edmond Aspinall.
 
 *Endorsed :* The Commission given Mr. Jouxan and myselfe, Wm. Nicolls, by the Merchants of the Hector and Thomas.
 
@@ -1991,7 +1989,7 @@ RIGHT Honourable and Right Worshipful, May it please you to understand that I wo
 Thus have I made a brief discourse of all the shipping in the country. Now for the estate of Bantam. It is at present very bare of money, for that the China junks doth carry all for China, and the Hollanders all [are ?] ill provided and we not altogether of the best; notwithstanding, I have provided pepper[^fn-p0219-2] near to lade two ships, but the year is so bad that I doubt I shall not receive the one half. God willing, we will do our best to despatch the New Year's Gift, the Hector and Thomas this year, and I hope by the month[^fn-p0219-3] of November at farthest. Mr. Elkington is determined to return,[^fn-p0219-4] for the which I am very sorry, for that I was in good hope to have gone home this year or at least not to have remained any longer in Bantam, but that your Worships' bounty towards me doth so far oblige me that I am content[^fn-p0219-5] to spend my life in your service. This being in brief all that at present I dare presume to write I end, praying the Almighty to augment and bless all your proceedings to His glory and the good of our country. Amen.
 
 Your servant to be commanded at  
-your Worships' pleasure,
+    your Worships' pleasure,
 
 Jno. Jourdain.
 
@@ -2194,10 +2192,10 @@ There is three ships Hollanders at Priaman, which hath been seventeen months fro
 Thus trusting by God's good assistance to bring your business here to good effect, wherein in us shall be all diligence that may be, we humbly take our leaves etc.
 
 Your Honours' humble servants  
-in all duty to be commanded,
+    in all duty to be commanded,
 
 John Sandcroft.  
-Edmond Aspinall.
+    Edmond Aspinall.
 
 *Endorsed:* Jo. Sandcroft and Ed. Aspinall from Tecoo, the 13 of November, 1615. Entered.
 
@@ -2220,7 +2218,7 @@ Our junk is launched into the sea at Cochi[^fn-p0241-4] yesterday, and the Dutch
 I pray you once more remember to send me the true note of all goods and debts of old account and the quality of the commodities, for we must rate them as they are worth ready money. Set every sort per itself and rate them as you think them worth ready money, both that which is sound as also rotten or moth-eaten. Send me this note per very first of all things at Osekay, Miaco, Edo, Shrongo or elsewhere ; and note down all debts you esteem desperate. And at sight hereof send away an express to travel night and day to Captain Adames ; but let him be a diligent fellow that will go through-stitch ;[^fn-p0241-5] for I should be sorry that Captain Adames should come away before he inform the Emperor of these matters, and bring order to set these men at liberty.
 
 And so in haste I end, resting  
-Your loving friend,
+    Your loving friend,
 
 Ric. Cocks.
 
@@ -2267,7 +2265,7 @@ The factors write me that your Lordship purposeth to satisfy me by a receipt for
 And so, with very much respect to your Lordship, I take my leave, and rest
 
 At your Lordship's service,  
-W. Keelinge.
+    W. Keelinge.
 
 Dragon, the 17th October 1615, about noon.
 
@@ -2396,7 +2394,7 @@ Concerning Mutton,[^fn-p0256-1] if your Lordship find his stay here unnecessary 
 Concerning Madafalabar,[^fn-p0256-2] I join in opinion that it were a place very fit for us if the passage from thence to Amadavaz may, at the Mogoll's charge, be reasonably secured in respect of thieves; but how far the Company will be at charge for the refortifying and defending it I am utterly ignorant, not knowing what to advise in that point, but leave it to your mature deliberation, the Company only having given me order to enquire how fit their shipping may ride in that river to be the more safe from the Portingalls, freer from the injury of the worm, and for their safe wintering in case of necessity.
 
 And so, with all due respects, I take my leave, and rest  
-At your Lordship's service,
+    At your Lordship's service,
 
 W. Keelinge.
 
@@ -2427,7 +2425,7 @@ Your letter to Keedokia our host Stebio[^fn-p0257-4] I have delivered; but the f
 Thus not having any further to write you of, for this present I cease, with my hearty commendations; leaving you to the protection of the Almighty, who of His mercy send us a joyful meeting. Amen.
 
 Your friend, in what I can, to command,  
-William Addames.
+    William Addames.
 
 Mr. Ettonn in Meaco hath sold some 400 taylls of goods. I would you could sell also, for our Captain hath need of money, etc. I have received the Secretary's letter to Saffe Donno[^fn-p0257-5] about the release of Damian and John de Levano.
 
@@ -2452,7 +2450,7 @@ Sir, there was a great abuse in our bread and meal, most of it being naught ; as
 Thus, as I began, with prayer to God for your good healths and prosperity of our voyage and all other your honourable affairs, I humbly take leave and rest
 
 Now and ever right ready to be commanded  
-to the utmost of my power,
+    to the utmost of my power,
 
 Ric. Rowe.
 
@@ -2539,7 +2537,7 @@ Thus with the remembrance of our humble duties and prayers to the Almighty for t
 Your Honours' servants in all duty to be commanded,
 
 John Sandcroft.  
-Edmond Aspinall.
+    Edmond Aspinall.
 
 *Endorsed:* John Sandcroft and Edmond Aspinall in Tecoo, the 13th of November 1615. Entered.
 
@@ -2720,7 +2718,7 @@ It is reported here per certain Japons (which say they dwelt in the English hous
 Thus, for any news happened in these parts referring you to the report of Captain Addames and Mr. Sares, I commend me heartily unto you and commit you to the protection of the Almighty, resting
 
 Your well willing (though unacquainted)  
-friend to command,
+    friend to command,
 
 Raphe Coppindall.
 
@@ -2804,7 +2802,7 @@ The Orrancaia's commodities nothing worth, being so base and coarse that nobody 
 The little Jackatra took a Portugall junk laden with ebony,[^fn-p0293-1] and I think some Chinaman betwixt her and the great ship, for they have sold great store of raw silks which came in this ship and have such store of made silks that they sell very good damasks (twice so good as the Orancaya's) for 2 and 2½ tayes per piece.
 
 Thus, wishing your health, I commit you to God, resting  
-Your loving friend to command,
+    Your loving friend to command,
 
 Raphe Coppindall.
 
@@ -3673,9 +3671,9 @@ William Eaton.
 [^fn-p0236-1]: (1) " And others " (duplicate).
 [^fn-p0236-2]: (2) " Sword-blades " (duplicate).
 [^fn-p0236-3]: (3) Both these ships had been sent out by the First Joint Stock.
-[^fn-p0236-4]: (4) The meaning is more clearly put in the duplicate, where the passage runs : " further he told them that he thought there was not goods enough in the country " to load both our ships, and, considering our great charges in procuring a licence " that they would say they were put in by distress of weather and for refreshing ; so
-    " they might save a great deal of charges they would be at in procuring a licence, and
-    " then to no effect if goods wanted ; and that they would come ashore and then all
+[^fn-p0236-4]: (4) The meaning is more clearly put in the duplicate, where the passage runs : " further he told them that he thought there was not goods enough in the country " to load both our ships, and, considering our great charges in procuring a licence " that they would say they were put in by distress of weather and for refreshing ; so  
+    " they might save a great deal of charges they would be at in procuring a licence, and  
+    " then to no effect if goods wanted ; and that they would come ashore and then all  
     " together we might take counsel what was best to be done."
 [^fn-p0237-1]: (1) See p. 122.
 [^fn-p0238-1]: (1) *Mr. Cletherall.*—This is Mr. Christopher Clitheroe, a prominent member of the Company, Deputy-Governor from 1624 to 1635, and Governor from July 1639 till his death on November 11, 1641.

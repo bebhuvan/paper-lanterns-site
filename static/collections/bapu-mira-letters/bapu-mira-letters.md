@@ -390,7 +390,7 @@ Did you go to Swamiji's house ?
 With love,
 
 Yours,  
-<span class="small-caps">Bapu</span>
+    <span class="small-caps">Bapu</span>
 
 ### Letter 11: Bapu → मीरां / Mirabai
 
@@ -616,7 +616,7 @@ To gain one more day, I decided to travel during my silence. I am travelling thi
 I shall read your corrections in the *Autobiography* when I reach the Ashram. I had anticipated your many corrections in the chapters that had not been previously seen by you.[^fn-p0038-2]
 
 With love,  
-Yours,
+    Yours,
 
 7-3-’27
 
@@ -3055,9 +3055,7 @@ I am glad you have taken Surendra in hand. It is criminal how he neglects his bo
 
 And now here is the first verse of the morning prayer :
 
-> **[verse_insert]**
->
-> ‘Early in the morning, I call to mind that Being which is felt in the heart, which is *sat* (the eternal), *chit* (knowledge), *sukham* (bliss), which is the state reached by perfect men and which is the super-state. I am that immaculate Brahma which ever notes the states of dream, wakefulness and deep sleep, not this body, the compound made of the elements (earth, water, space, light and air).’ You will be interested to know that the first verse was commenced on 6th May last.
+‘Early in the morning, I call to mind that Being which is felt in the heart, which is *sat* (the eternal), *chit* (knowledge), *sukham* (bliss), which is the state reached by perfect men and which is the super-state. I am that immaculate Brahma which ever notes the states of dream, wakefulness and deep sleep, not this body, the compound made of the elements (earth, water, space, light and air).’ You will be interested to know that the first verse was commenced on 6th May last.
 
 I am sorry that the very first verse needed correcting. The more I think, the more clearly I see the meaning. And then I do not mind how often I cut about the translation. Formerly I used to shudder to utter this verse thinking that the claim made therein was arrogant. But when I saw the meaning more clearly, I perceived at once that it was the very best thought with which to commence the day. It is a solemn declaration that we are not the changeful bodies which require sleep etc. but deep down, we are the Being, the witness pervading the countless bodies. The first part is the recalling to mind the presence of the vital principle and the second part is the affirmation that we are that vital principle. The description of the Being, the Brahma is also quite apposite. It *is*, nothing else *is* (*sat*), it is all knowledge or light (*chit*), and naturally, therefore, it is all bliss (*sukham*) or the word generally used is (*anand*). The rest is simple. You will compare this translation with what you have already, translated by Valjibhai. If there is a material difference, let me have his translation. In scholarship I should yield the palm to him. So now God willing, you may expect a present of this character every week. And here goes the bugle telling me it will presently be 9 p. m.
 

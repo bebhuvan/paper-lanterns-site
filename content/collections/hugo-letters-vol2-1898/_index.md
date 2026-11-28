@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Victor Hugo (ed. Paul Meurice)",
  "year": 1898,
  "archive_id": "lettersofvictorh00hugorich",
@@ -312,27 +315,27 @@
   {
    "format": "epub",
    "file": "hugo-letters-vol2-1898.epub",
-   "bytes": 216773,
-   "sha256": "d4985cd5b6d243003f2fd216f5db9791ea045e97f09f3d44caa42b5992d76101"
+   "bytes": 216836,
+   "sha256": "5b6d07b2189e12ff7837a85f63cdc0d58b08a552b358e983e93f3a9a361610fb"
   },
   {
    "format": "markdown",
    "file": "hugo-letters-vol2-1898.md",
-   "bytes": 382207,
-   "sha256": "b4babf5f13b3e90a0447355411773e9e350fcce3d1dd58ca6c3e0f19dec21b12"
+   "bytes": 382188,
+   "sha256": "1ba5f7e81152d22f938379f2bf39f4314555ca351cd7dee185f23a9155aadb44"
   },
   {
    "format": "tei",
    "file": "hugo-letters-vol2-1898.tei.xml",
-   "bytes": 537329,
-   "sha256": "0feef8e90a0561390a82cdd37ae18b520ab6920478266976ac123f3a659e8490"
+   "bytes": 537232,
+   "sha256": "e2b559e4ea624dd479335717518979a60b521bd6c65614219a8f9790e962a3c8"
   }
  ],
  "scan_base": "https://archive.org/download/lettersofvictorh00hugorich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:22:21Z",
-  "source_ast_sha256": "dc6aebb0fb20bfbe904ed03d3ecdd8316d20736c9d20166baac282e1bdb26788",
+  "compiled_at": "2026-11-28T10:31:03Z",
+  "source_ast_sha256": "38edf9acb1ba35fa0ff5bd6f27586dc88dae6057641d3a03c834f3837a1caad4",
   "hugo_renderer_version": "1.0.0"
  }
 }

@@ -635,7 +635,7 @@ Now you write to me on behalf of the Pope, and in similar manner you will read t
 If His Holiness wishes to proceed, let him deposit the said money here in Florence with a person whose name I will communicate to you. . . . With regard to the aforesaid money and work, I will bind myself in any way His Holiness may direct, and I will furnish whatever security here in Florence he may require. Let it be what it may, I will give him full security, even though it be the whole of Florence. There is yet one thing I have to add: it is this, that the said work could not possibly be done for the price in Rome, but it could be done here because of the many conveniences which are available, such as could not be had in Rome. . . . I beg of you to let me have an answer, and quickly. I have nothing further to add.
 
 Your Michel Angelo,  
-Sculptor, in Florence.
+    Sculptor, in Florence.
 
 *Michel Angelo lived 1475 - 1564.*
 
@@ -788,7 +788,7 @@ Of late I have received divers letters from you, which you may well guess, by th
 And yet, to avoid the fault which I note you have committed in filling a long letter with a multitude of sharp and injurious words, I will not by way of letter write any more of the matter, but have rather chosen to commit to my cousin, the Earl of Shrewsbury, the things which I have thought meet, upon the reading of your letters, to impart unto you. Wherewith, I think if reason may be present with you, and passion absent, at the reading, you will follow hereafter the course of the last part of your letter than the first; the latter being written as in a calm and the former in a storm. Wishing to you the same grace of God that I wish to myself, and that He may direct you to desire and attain to that which is meet for His honor and your quietness, with contention both of body and mind. Given at my Palace of Westminster the first day of February 1571.
 
 Your cousin that wisheth  
-you a better mind.
+    you a better mind.
 
 ### Letter 27: Walter Raleigh → Wife
 
@@ -861,7 +861,7 @@ December 25, 1650
 <span class="small-caps">Sir</span>: I have the best consideration for the present in this business, and although I believe Captain Hubbert is a worthy man, and hear so much, yet as the cause stands, I cannot with satisfaction to myself and some others, revoke the commission I had given to Captain Empson, without offense to them and reflection upon my own judgment. I pray let Captain Hubbert know I shall not be unmindful of him, and that no disrespect is intended to him. But indeed I was not satisfied with your last speech to me about Empson, that he was a better preacher than a fighter or soldier, or words to that effect. Truly I think he that prays and preaches best will fight best. I know nothing will give like courage and confidence as the knowledge of God in Christ will, and I bless God to see any in this army able and willing to impart the knowledge they have for the good of others. And I expect it to be encouraged by all chief officers in this army especially: and I hope you will do so. I pray receive Captain Empson lovingly. I dare assure you he is a good man and a good officer. I would we had no worse.
 
 I rest  
-Your loving friend,
+    Your loving friend,
 
 O. Cromwell.
 
@@ -989,8 +989,8 @@ Seven years, my Lord, have now passed since I waited in your outward rooms, or w
 The notice which you have been pleased to take of my labors, had it been early, had been kind; but it has been delayed till I am indifferent, and cannot enjoy it; till I am solitary, and cannot impart it; till I am known, and do not want it. I hope it is no very cynical asperity not to confess obligations where no benefit has been received, or to be unwilling that the public should consider me as owing that to a patron, which Providence has enabled me to do for myself. . . .
 
 My Lord,  
-Your Lordship's most humble,  
-Most obedient servant,
+    Your Lordship's most humble,  
+        Most obedient servant,
 
 Sam. Johnson.
 

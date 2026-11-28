@@ -36,10 +36,10 @@
 {{- $feat := site.GetPage site.Home.Params.featured_letter -}}
 {{- $featYear := 0 -}}{{- $featIdx := -1 -}}{{- $featN := 0 -}}
 {{- if and $feat (eq $feat.Parent.RelPermalink .RelPermalink) $feat.Params.letter_date.iso -}}
-{{- $featYear = int (index (split $feat.Params.letter_date.iso "-") 0) -}}
+{{- $featYear = partial "iso-year.html" $feat.Params.letter_date.iso -}}
 {{- $same := slice -}}
 {{- range sort (where (where site.RegularPages "Params.book_id" .Params.book_id) "Params.letter_date.iso" "!=" "") "Params.letter_date.iso" -}}
-{{- if eq (int (index (split .Params.letter_date.iso "-") 0)) $featYear }}{{ $same = $same | append . }}{{ end -}}
+{{- if eq (partial "iso-year.html" .Params.letter_date.iso) $featYear }}{{ $same = $same | append . }}{{ end -}}
 {{- end -}}
 {{- range $i, $l := $same }}{{ if eq $l.RelPermalink $feat.RelPermalink }}{{ $featIdx = $i }}{{ end }}{{ end -}}
 {{- end -}}
@@ -61,11 +61,11 @@
 {{- $room := sub $Hc (add $blocksH 22) -}}
 
 {{- /* The longest run of years with no letter. */ -}}
-{{- $prev := 0 -}}{{- $gapLen := 0 -}}{{- $gapAt := 0 -}}
+{{- $prev := 0 -}}{{- $hasPrev := false -}}{{- $gapLen := 0 -}}{{- $gapAt := 0 -}}
 {{- range $yc -}}
 {{- $y := int (index . 0) -}}
-{{- if and $prev (gt (sub (sub $y $prev) 1) $gapLen) }}{{ $gapLen = sub (sub $y $prev) 1 }}{{ $gapAt = add $prev 1 }}{{ end -}}
-{{- $prev = $y -}}
+{{- if and $hasPrev (gt (sub (sub $y $prev) 1) $gapLen) }}{{ $gapLen = sub (sub $y $prev) 1 }}{{ $gapAt = add $prev 1 }}{{ end -}}
+{{- $prev = $y -}}{{- $hasPrev = true -}}
 {{- end -}}
 {{- $words := dict "3" "three" "4" "four" "5" "five" "6" "six" "7" "seven" "8" "eight" "9" "nine" "10" "ten" -}}
 {{- $gapWord := index $words (string $gapLen) | default (string $gapLen) -}}
@@ -73,10 +73,10 @@
 {{- $span := sub $hi $lo -}}
 {{- $every := 5 -}}{{- if gt $span 60 }}{{ $every = 10 }}{{ end }}{{ if gt $span 150 }}{{ $every = 50 }}{{ end }}{{ if gt $span 500 }}{{ $every = 100 }}{{ end -}}
 {{- $H := add $base 40 -}}
-{{- $label := printf "%d dated letters by year, %d to %d, each letter a small block" (int .Params.counts.dated_letters) $first $last -}}
+{{- $label := printf "%d dated letters by year, %s to %s, each letter a small block" (int .Params.counts.dated_letters) (partial "astro-year.html" $first) (partial "astro-year.html" $last) -}}
 {{- with $periods }}{{ $label = printf "%s, set against the periods of the writer’s life" $label }}{{ end -}}
-{{- if ge $gapLen 3 }}{{ $label = printf "%s. None survive from %d to %d" $label $gapAt (add $gapAt (sub $gapLen 1)) }}{{ end -}}
-{{- $label = printf "%s. The busiest year is %d, with %d %s." $label $peakYear $maxN (cond (eq $maxN 1) "letter" "letters") -}}
+{{- if ge $gapLen 3 }}{{ $label = printf "%s. None survive from %s to %s" $label (partial "astro-year.html" $gapAt) (partial "astro-year.html" (add $gapAt (sub $gapLen 1))) }}{{ end -}}
+{{- $label = printf "%s. The busiest year is %s, with %d %s." $label (partial "astro-year.html" $peakYear) $maxN (cond (eq $maxN 1) "letter" "letters") -}}
 <div class="chart-box" tabindex="0" role="region" aria-label="Year chart, scrolls sideways">
 {{- $g0 := 0.0 -}}{{- $g1 := 0.0 -}}{{- $gm := 0.0 -}}{{- $gy := 0.0 -}}{{- $gx := 0.0 -}}{{- $gL := 0.0 -}}{{- $gR := 0.0 -}}{{- $gLines := slice (printf "%s years" $gapWord) "without a letter" -}}
 {{- if ge $gapLen 3 -}}
@@ -129,11 +129,13 @@
 {{- end -}}
 <line class="base" x1="0" y1="{{ $base }}" x2="1000" y2="{{ $base }}"/>
 {{- range $t := seq (int $lo) (int $hi) -}}
-{{- if eq (mod $t $every) 0 -}}
+{{- $histY := cond (le $t 0) (sub 1 $t) $t -}}
+{{- if eq (mod $histY $every) 0 -}}
 {{- $x := mul (sub (float $t) $lo) $scale -}}
 <line class="tick-line" x1="{{ $x }}" y1="{{ $base }}" x2="{{ $x }}" y2="{{ add $base 6 }}"/>
 {{- /* A year label at the very edge would be cut in half; its tick stays. */ -}}
-{{- if and (gt $x 24) (lt $x 976) }}<text class="tick" x="{{ $x }}" y="{{ add $base 26 }}" text-anchor="middle">{{ $t }}</text>{{ end }}
+{{- $pad := cond (le $t 0) 34 24 -}}
+{{- if and (gt $x $pad) (lt $x (sub 1000 $pad)) }}<text class="tick" x="{{ $x }}" y="{{ add $base 26 }}" text-anchor="middle">{{ partial "astro-year.html" $t }}</text>{{ end }}
 {{- end -}}
 {{- end -}}
 </svg>

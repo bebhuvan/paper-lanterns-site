@@ -336,14 +336,14 @@
   {
    "format": "epub",
    "file": "selected-english-letters-1914.epub",
-   "bytes": 137387,
-   "sha256": "39ce139bbef3673a72cc567a9439fec714e122d95b99280dc931e9c262bd1824"
+   "bytes": 137662,
+   "sha256": "785bdd416c0e54d4a2148fefdda15689737939d7b2940732ba979b617841e683"
   },
   {
    "format": "markdown",
    "file": "selected-english-letters-1914.md",
-   "bytes": 209217,
-   "sha256": "4cc9f74da6588296102dba507ecae8912865e6c7b61881ca78aa5a751c10296d"
+   "bytes": 209289,
+   "sha256": "df2de9edf48be78640bc86f3d37c65f81d84cfded47a5bc93ced89f53e813563"
   },
   {
    "format": "tei",
@@ -355,7 +355,7 @@
  "scan_base": "https://archive.org/download/selectedenglishl00fues/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T03:45:27Z",
+  "compiled_at": "2026-11-27T21:16:20Z",
   "source_ast_sha256": "1d6ab2d384855b6dd879f60e4e3b93ac3490c000b52eb8d70967ef1c657f179d",
   "hugo_renderer_version": "1.0.0"
  }

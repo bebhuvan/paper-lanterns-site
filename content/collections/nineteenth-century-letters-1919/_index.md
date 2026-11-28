@@ -12,6 +12,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Byron Johnson Rees (ed.)",
  "year": 1919,
  "archive_id": "nineteenthcentur00reesrich",
@@ -503,26 +506,26 @@
   {
    "format": "epub",
    "file": "nineteenth-century-letters-1919.epub",
-   "bytes": 563368,
-   "sha256": "f93f8cd3831d8ee5af6fb05dcb5ffc52f3a818a2af1b93f3e609e68097da0331"
+   "bytes": 563433,
+   "sha256": "c7d25fc9a08e0abe5ea77b3740c7fa752c41064f59d13e072a7e02c6a867f7e2"
   },
   {
    "format": "markdown",
    "file": "nineteenth-century-letters-1919.md",
-   "bytes": 1184464,
-   "sha256": "fbf178c2b299911d23c22e4b42bd7873d3a7b89e63c0a820d8de6eb8f2c662ca"
+   "bytes": 1186120,
+   "sha256": "a2980f0f18e25556a37452b05c8746d924da9ee070dec46f8bc0a34236237361"
   },
   {
    "format": "tei",
    "file": "nineteenth-century-letters-1919.tei.xml",
-   "bytes": 1422946,
-   "sha256": "03083a8a367b6bae2913fc35fa1a97d711ee9002e9700c68ce3fc4342a89d996"
+   "bytes": 1422979,
+   "sha256": "f995919c04b7d0706383ee7235a04f1bacec19a653ad80815819e50ed6e53a6c"
   }
  ],
  "scan_base": "https://archive.org/download/nineteenthcentur00reesrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:23:34Z",
+  "compiled_at": "2026-11-28T05:26:32Z",
   "source_ast_sha256": "5735396652c53df0e3c95c9680deb3e304288c1532f61cda327ef1d863afba95",
   "hugo_renderer_version": "1.0.0"
  }

@@ -300,22 +300,22 @@
         <correspAction type="sent"><placeName>New York</placeName><date when="1921-03-18">March 18th, 1921</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0085">
-        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName><date>s.s. “Rhyndam”</date></correspAction>
+        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0086">
-        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName><date>s.s. “Rhyndam”</date></correspAction>
+        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0087">
-        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName><date>s.s. “Rhyndam”</date></correspAction>
+        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0088">
-        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName><date>s.s. “Rhyndam”</date></correspAction>
+        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0089">
-        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName><date>s.s. “Rhyndam”</date></correspAction>
+        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0090">
-        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName><date>s.s. “Rhyndam”</date></correspAction>
+        <correspAction type="sent"><placeName>s.s. “Rhyndam”</placeName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0091">
         <correspAction type="sent"><placeName>London</placeName><date when="1921-04-10">April 10th, 1921</date></correspAction>

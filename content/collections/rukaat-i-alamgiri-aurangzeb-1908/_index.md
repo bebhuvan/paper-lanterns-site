@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Aurangzeb, Jamshedji Hormasji Bilimoriya (tr.)",
  "year": 1908,
  "archive_id": "rukaatialamgirio00aurarich",
@@ -212,8 +215,8 @@
   {
    "format": "epub",
    "file": "rukaat-i-alamgiri-aurangzeb-1908.epub",
-   "bytes": 250041,
-   "sha256": "1d1f711ba994f7c8019a3222eca5db950a913594b44fdaea0d4f212f59811046"
+   "bytes": 250908,
+   "sha256": "1ce8e159291b0e9bb2e133bb0b236540638541c7967bf2917c3b06e3c8251dce"
   },
   {
    "format": "markdown",
@@ -231,7 +234,7 @@
  "scan_base": "https://archive.org/download/rukaatialamgirio00aurarich/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-v1",
-  "compiled_at": "2026-11-24T19:23:48Z",
+  "compiled_at": "2026-11-27T21:15:54Z",
   "source_ast_sha256": "1665de71c75f3f7e464f8b09618622a21fbdf00d62e05d00589bd5533e7bf471",
   "hugo_renderer_version": "1.0.0"
  }

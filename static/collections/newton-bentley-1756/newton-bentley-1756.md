@@ -45,8 +45,8 @@ Laſtly, I ſee nothing extraordinary in the Inclination of the Earth’s Axis f
 There is yet another Argument for a Deity, which I take to be a very ſtrong one, but till the Principles on which it is grounded are better received, I think it more adviſable to let it ſleep.
 
 *I am,*  
-*Your moſt humble Servant,*  
-*to command,*
+    *Your moſt humble Servant,*  
+        *to command,*
 
 Cambridge,  
 Decemb. 10, 1692.
@@ -79,7 +79,7 @@ You ſometimes ſpeak of Gravity as eſſential and inherent to Matter. Pray do 
 I fear what I have ſaid of Infinites, will ſeem obſcure to you; but it is enough if you underſtand, that Infinites when conſidered abſolutely without any Reſtriction or Limitation, are neither equal nor unequal, nor have any certain Proportion one to another, and therefore the Principle that all Infinites are equal, is a precarious one.
 
 *Sir, I am*,  
-*Your moſt humble Servant*,
+    *Your moſt humble Servant*,
 
 Trinity College,  
 Jan. 17, 1692-3.
@@ -114,8 +114,8 @@ But if ſo ſoon as their Motions by which they revolve are turned upwards, the 
 I thank you very kindly for your deſigned Preſent, and reſt
 
 *Your moſt  
-humble Servant  
-to command,*
+    humble Servant  
+        to command,*
 
 Cambridge,  
 Feb. 25, 1692-3.
@@ -140,8 +140,8 @@ You queried, whether Matter evenly ſpread throughout a finite Space, of ſome o
 This, Sir, is all I would add to my former Letters.
 
 *I am,  
-Your moſt humble  
-Servant*,
+    Your moſt humble  
+        Servant*,
 
 Cambridge,  
 Feb. 11, 1693.

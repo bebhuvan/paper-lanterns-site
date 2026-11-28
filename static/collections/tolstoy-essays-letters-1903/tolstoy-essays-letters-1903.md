@@ -124,8 +124,7 @@ AYLMER MAUDE.
 
 ### CONTENTS
 
-| <span class="small-caps">page</span> |
-| --- |
+**<span class="small-caps">page</span>**
 
 <span class="small-caps">Preface</span> . . . . . . . v
 
@@ -162,27 +161,27 @@ XV.*<span class="small-caps">Timothy Bóndaref</span> . . . . . 210
 
 **<span class="small-caps">PAGE</span>**
 
-<span class="small-caps">xvi.</span>[^fn-p0013-1]<span class="small-caps">Letters on Henry George</span> . , . 213
+<span class="small-caps">xvi.</span><sup>*</sup><span class="small-caps">Letters on Henry George</span> . , . 213
 
 <span class="small-caps">xvii. Modern Science</span> . . . . . 219
 
-<span class="small-caps">xviii.</span>[^fn-p0013-1]<span class="small-caps">Letter to a Non-commissioned Officer</span> . 230
+<span class="small-caps">xviii.</span><sup>*</sup><span class="small-caps">Letter to a Non-commissioned Officer</span> . 230
 
-<span class="small-caps">xix.</span>[^fn-p0013-1]<span class="small-caps">Patriotism and Government</span> . . . 238
+<span class="small-caps">xix.</span><sup>*</sup><span class="small-caps">Patriotism and Government</span> . . . 238
 
-<span class="small-caps">xx.</span>[^fn-p0013-1]‘<span class="small-caps">Thou shalt not kill</span>’ . . . . 262
+<span class="small-caps">xx.</span><sup>*</sup>‘<span class="small-caps">Thou shalt not kill</span>’ . . . . 262
 
-<span class="small-caps">xxi.</span>[^fn-p0013-1]<span class="small-caps">To the Tsar and his Assistants</span> . . 270
+<span class="small-caps">xxi.</span><sup>*</sup><span class="small-caps">To the Tsar and his Assistants</span> . . 270
 
-<span class="small-caps">xxii.</span>[^fn-p0013-1]<span class="small-caps">A Reply to the Synod’s Edict of Excom-</span>  
+<span class="small-caps">xxii.</span><sup>*</sup><span class="small-caps">A Reply to the Synod’s Edict of Excom-</span>  
 <span class="small-caps">munication</span> . . . . . . 277
 
-<span class="small-caps">xxiii.</span>[^fn-p0013-1]<span class="small-caps">What is Religion, and wherein lies its</span>  
+<span class="small-caps">xxiii.</span><sup>*</sup><span class="small-caps">What is Religion, and wherein lies its</span>  
 <span class="small-caps">Essence</span>? . . . . . . . 288
 
-<span class="small-caps">xxiv.</span>[^fn-p0013-1]<span class="small-caps">Letter on Education</span> . . . . 338
+<span class="small-caps">xxiv.</span><sup>*</sup><span class="small-caps">Letter on Education</span> . . . . 338
 
-<span class="small-caps">xxv.</span>[^fn-p0013-1]<span class="small-caps">An Appeal to the Clergy</span> . . . 341
+<span class="small-caps">xxv.</span><sup>*</sup><span class="small-caps">An Appeal to the Clergy</span> . . . 341
 
 <span class="small-caps">xxvi. Thoughts selected from private letters</span>:
 
@@ -201,10 +200,6 @@ XV.*<span class="small-caps">Timothy Bóndaref</span> . . . . . 210
 <span class="small-caps">Index</span> . . . . . . . 370
 
 The articles marked in the above Table of Contents with an asterisk (*) are not included in the Moscow editions of Tolstoy’s works ; being, for the most part, prohibited in Russia.
-
-### Notes
-
-[^fn-p0013-1]: (*) T. M. Bóndaref was born a serf in 1820. In 1858 he was sent to serve for twenty-five years in the army, but joining the sect of ‘Sabbatarians’ (who accept the Old Testament as authoritative, and follow the Jewish faith in many things), he was banished in 1867 to Údina in Siberia. There, as a ploughman of great energy, he built up for himself a fairly comfortable peasant home, but again impoverished himself by efforts to spread his doctrine of ‘bread-labour.’ His book could not be published in Russia, but has been translated into French and other languages. Another title Bóndaref gave to his book is ‘The Agriculturist’s Triumph.’
 
 ## I. Industry and Idleness
 
@@ -366,6 +361,7 @@ You will see that what seemed to you like an island on which you were saved from
 
 ### Notes
 
+[^fn-p0013-1]: (*) T. M. Bóndaref was born a serf in 1820. In 1858 he was sent to serve for twenty-five years in the army, but joining the sect of ‘Sabbatarians’ (who accept the Old Testament as authoritative, and follow the Jewish faith in many things), he was banished in 1867 to Údina in Siberia. There, as a ploughman of great energy, he built up for himself a fairly comfortable peasant home, but again impoverished himself by efforts to spread his doctrine of ‘bread-labour.’ His book could not be published in Russia, but has been translated into French and other languages. Another title Bóndaref gave to his book is ‘The Agriculturist’s Triumph.’
 [^fn-p0017-1]: (*) Saints' days are numerous in Russia, but on the other hand, no Saturday or other weekly half-holiday is customary, so that the total time allowed for holidays comes to much the same in Russia as in England.
 
 ## II. Why do Men Stupefy themselves?

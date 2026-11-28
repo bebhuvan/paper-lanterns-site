@@ -213,26 +213,26 @@
   {
    "format": "epub",
    "file": "anandabai-joshee-life-letters-1888.epub",
-   "bytes": 171872,
-   "sha256": "539ff356aca7c43dbdf55457cdbca2833b3842c371a281780d3e907de274d9d4"
+   "bytes": 171926,
+   "sha256": "6f0746605d6668a780de7b91c8ac8850dfef7c852e448805ddf270ad9fecddbb"
   },
   {
    "format": "markdown",
    "file": "anandabai-joshee-life-letters-1888.md",
-   "bytes": 236435,
-   "sha256": "ddf70573f252a7029b41ada045933184a334b953863bc26c3bca1177ce5a8a17"
+   "bytes": 236451,
+   "sha256": "ddb66543133607c19a7239ee7bf4340e7caaa9282e6b199f903f7a2ebc090113"
   },
   {
    "format": "tei",
    "file": "anandabai-joshee-life-letters-1888.tei.xml",
-   "bytes": 267381,
-   "sha256": "285df5c63fb4188b609f4fc47bd1792ece3f72cd61644a847de200c76f8739a4"
+   "bytes": 267469,
+   "sha256": "5df64ef19dadd84c8d13625b5728e925b8ca99393d94065020ab9233566bf66b"
   }
  ],
  "scan_base": "https://archive.org/download/lifeofdranandaba00dalluoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T05:12:53Z",
+  "compiled_at": "2026-11-28T05:25:58Z",
   "source_ast_sha256": "dfc22d8c253e4d5f5ea2ca9c42ef1eb7f5304a7d79956a43de621b5b8a0b2432",
   "hugo_renderer_version": "1.0.0"
  }

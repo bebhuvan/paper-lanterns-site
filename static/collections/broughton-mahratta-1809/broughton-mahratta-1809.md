@@ -78,8 +78,8 @@ ARE OFFERED, AS A TRIBUTE OF GRATITUDE,
 ADMIRATION AND ESTEEM,
 
 <span class="small-caps">by his lordship's</span>  
-<span class="small-caps">obliged, faithful,</span>  
-<span class="small-caps">and devoted humble servant,</span>
+    <span class="small-caps">obliged, faithful,</span>  
+        <span class="small-caps">and devoted humble servant,</span>
 
 THE AUTHOR.
 
@@ -336,7 +336,7 @@ On the 24th the road was so bad, that I with difficulty reached a small village 
 I shall take the opportunity of a messenger's going off to camp, to send this account of my journey thus far. Wishing you many happy returns of the season, and a much merrier Christmas than I am likely to pass,
 
 I am,  
-My dear brother,
+    My dear brother,
 
 &c. &c.
 

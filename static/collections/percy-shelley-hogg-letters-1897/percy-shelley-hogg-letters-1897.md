@@ -206,7 +206,7 @@ Adieu. Write again. Believe me your most sincere friend. Adieu.[^fn-p0028-1]
 P. B. S.
 
 *To T. J. Hogg,*  
-*Lincoln's Inn Fields.*
+    *Lincoln's Inn Fields.*
 
 ### Letter 3: P. B. S. → T. J. Hogg
 
@@ -311,7 +311,7 @@ I could not come on Monday, my sister would not part with me; but I must—I wil
 Pray publish your tale; demand one hundred pounds for it from any publisher—he will give it in the event. It is delightful, it is divine! Not that I like your heroine: but the poor Mary is a character worthy of Heaven—I adore her! [^fn-p0046-1]
 
 Adieu, my dear friend,  
-Your sincere,
+    Your sincere,
 
 P. B. S[<span class="small-caps">helley.</span>]
 
@@ -408,8 +408,8 @@ Your sincerest
 <span class="small-caps">Percy B. Shelley.</span>[^fn-p0055-1]
 
 *To T. J. Hogg,  
-University College,  
-Oxford.*
+    University College,  
+        Oxford.*
 
 ### Letter 8: P. B. S. → T. J. Hogg
 
@@ -500,8 +500,8 @@ P. B. S.
 Can you read this?
 
 *To T. J. Hogg,  
-University College,  
-Oxford.*
+    University College,  
+        Oxford.*
 
 ### Letter 9: P. B. S. → T. J. Hogg
 
@@ -539,8 +539,8 @@ P. B. S.
 You can enclose to Timothy Shelley, Esq., M.P.
 
 *To T. J. Hogg,  
-University College,  
-Oxford.*
+    University College,  
+        Oxford.*
 
 ### Letter 10: P. B. S. → T. J. Hogg
 
@@ -568,8 +568,8 @@ P. B. S.
 Stockdale has behaved infamously to me : he has abused the confidence I reposed in him in sending him my work ; and he has made very free with your character, of which he knows nothing, with my father. I shall call on Stockdale on my way, that he may explain. May I expect to see your Tale printed ?
 
 *To T. J. Hogg,*  
-*University College,*  
-*Oxford.*
+    *University College,*  
+        *Oxford.*
 
 ### Letter 11: P. B. Shelley → T. J. Hogg
 
@@ -591,8 +591,8 @@ Adieu. I will write to-morrow,
 P. B. <span class="small-caps">Shelley.</span>
 
 *To T. J. Hogg,*  
-*University College,*  
-*Oxford.*
+    *University College,*  
+        *Oxford.*
 
 ### Letter 12: P. B. Shelley → T. J. Hogg
 
@@ -620,8 +620,8 @@ You tell me nothing of the tale; I am all anxiety about it. I am forced hastily 
 P. B. <span class="small-caps">Shelley.</span>
 
 *To T. J. Hogg,  
-University College,  
-Oxford.*
+    University College,  
+        Oxford.*
 
 ### Letter 13: P. B. Shelley → T. J. Hogg
 
@@ -645,8 +645,8 @@ Adieu. Your affectionate,
 P. B. <span class="small-caps">Shelley.</span>
 
 *To T. J. Hogg,  
-University College,  
-Oxford.*
+    University College,  
+        Oxford.*
 
 ### Letter 14: P. B. Shelley → John Hogg
 
@@ -672,8 +672,8 @@ I remain your obedient humble servant,
 P. B. <span class="small-caps">Shelley</span>.[^fn-p0084-1]
 
 *To John Hogg, Esq.,  
-Norton,  
-Stockton-on-Tees.*
+    Norton,  
+        Stockton-on-Tees.*
 
 ### Letter 15: P. B. S. → T. J. Hogg
 
@@ -782,7 +782,7 @@ You talk of the dead : “ Do we not exist after the tomb ? ”—It is a natura
 You shall hear from me again soon. I send some verses. I heard from F. yesterday. All that he said was : “ My letters are arrived.—G. S. F.”
 
 My dear friend,  
-Your affectionate,
+    Your affectionate,
 
 P. B. <span class="small-caps">Shelley.</span>
 

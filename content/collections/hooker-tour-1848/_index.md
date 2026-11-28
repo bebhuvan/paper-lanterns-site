@@ -120,8 +120,8 @@
   {
    "format": "epub",
    "file": "hooker-tour-1848.epub",
-   "bytes": 144673,
-   "sha256": "c9c05c4846951239fb833335f7832deeff1d62b13ff12a9f482abd6e9d6bada5"
+   "bytes": 144726,
+   "sha256": "14500c1c17f225cd0f8dfdd9f21e93a3ae87ecb205a81820f0b42dbd5514e9d5"
   },
   {
    "format": "markdown",
@@ -139,7 +139,7 @@
  "scan_base": "https://archive.org/download/b30361126/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-v1",
-  "compiled_at": "2026-11-27T05:12:33Z",
+  "compiled_at": "2026-11-27T21:11:52Z",
   "source_ast_sha256": "6539985c3784840c678443deaaf106dc2701fb2ee3d7cd19e56b7f15c055fc0d",
   "hugo_renderer_version": "1.0.0"
  }

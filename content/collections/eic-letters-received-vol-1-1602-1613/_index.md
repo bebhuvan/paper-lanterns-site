@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "East India Company, Frederick Charles Danvers (ed.)",
  "year": 1896,
  "archive_id": "lettersreceivedb01east",
@@ -55,7 +58,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 9,
+  "flagged": 12,
   "blockers": 0
  },
  "proof": {
@@ -240,27 +243,27 @@
   {
    "format": "epub",
    "file": "eic-letters-received-vol-1-1602-1613.epub",
-   "bytes": 433627,
-   "sha256": "b2c80c79b50c855a811cce2660adba43f32eefb3651fb35d5983466c5372a409"
+   "bytes": 433708,
+   "sha256": "70a9017cde3ec1f94ff3fde7e6a3808a3fc11eb26ba6506f7c4cecdb4db0fb9c"
   },
   {
    "format": "markdown",
    "file": "eic-letters-received-vol-1-1602-1613.md",
-   "bytes": 883910,
-   "sha256": "009d40c5a5e73834495789add0d7191f2a76128c566e19efceb62b1145be18f0"
+   "bytes": 884326,
+   "sha256": "848efd01f6657785bfd27907775c0147f3cd6a7e9981c0cd1e4d6719c82b195e"
   },
   {
    "format": "tei",
    "file": "eic-letters-received-vol-1-1602-1613.tei.xml",
-   "bytes": 1011359,
-   "sha256": "7ef55b2ef17b3fd6d44d9ec825e38aa1a3ac74887ba9a2e3ebf8fe467142e64f"
+   "bytes": 1011615,
+   "sha256": "67001d465b9fd389e55583f5f83db35842d892de9213a77c22f5640f91e238bb"
   }
  ],
  "scan_base": "https://archive.org/download/lettersreceivedb01east/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:21:33Z",
-  "source_ast_sha256": "52445b0f3537331e6c3c3a415b6c921e02c1edbacd07445ef46545cef83beba9",
+  "compiled_at": "2026-11-28T05:28:12Z",
+  "source_ast_sha256": "3f49ada62e45dfbd5eea1a0d62f1106078518b67d86b1736522787d91a9b7d03",
   "hugo_renderer_version": "1.0.0"
  }
 }

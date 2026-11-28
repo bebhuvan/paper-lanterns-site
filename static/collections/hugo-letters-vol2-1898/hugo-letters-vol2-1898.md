@@ -1243,7 +1243,7 @@ Those who are banished are forbidden, by order of the *coup d'état,* to reënte
 In this state of affairs, in face of the brute force which is triumphant, and against which I renew my indignant protests from my place of exile, I am unable to take part in the election to the Academy which will be held on the 22d of January, and I beg you, my dear colleagues, to accept, with the expression of my regret, the assurance of my heartfelt cordiality and my high consideration.
 
 <span class="small-caps">Victor Hugo,</span>  
-Representative of the People.
+    Representative of the People.
 
 ### Letter 69: Victor Hugo → André van Hasselt
 
@@ -2513,9 +2513,9 @@ I greet you and I am your brother.
 
 <span class="small-caps">Victor Hugo.</span>
 
+#### <span class="small-caps">À Charles Ribeyrolles.</span>
+
 > **[verse_insert: À Charles Ribeyrolles]**
->
-> ##### <span class="small-caps">À Charles Ribeyrolles.</span>
 >
 > Il accepta l'exil ; il aima les souffrances ;  
 > Intrépide, il voulut toutes les délivrances ;  
@@ -3585,9 +3585,7 @@ What can I say? I am dazzled, intoxicated, overwhelmed. Your tender friendship g
 
 I wrote that and I am under its orders. This winter they thought I was very ill; the doctors told me that I must make a rapid journey across France and go to Nice. I replied: I have made an oath, I cannot put foot in France; I would sooner die first! But it is much easier to die than to resist you. When I think that she is there, facing me, she who unites all, she who combines beauty, grace, courage, commanding and bewitching intelligence, brilliant acquirements, deep poetry, and that she says to me: Come! and in such affecting and enchanting terms! — oh! not to obey, not to come, not to hasten to the spot, not to trample on the frontier, were it red-hot iron, and on the oath, were it writ in brass, do you know, madam, that that is a superhuman effort, and that I am almost prostrated by it! What! it is you who send me this flower! it is you who have written these lines! they were composed by you, they are destined for me, on your lips plays that angelic smile in which I fancy I see the birth of a star. That heavenly smile will welcome me. And I stay where I am! Alas! try to fathom the depth of this regret. What a stern thing sometimes is duty! I wrote this: —
 
-> **[verse_insert]**
->
-> > “ Et s’il n’en reste qu’un, je serai celui-là ! ”
+> “ Et s’il n’en reste qu’un, je serai celui-là ! ”
 
 France is closed to me, and France, when you are not there, is the fatherland, and when you are there, is paradise.
 
@@ -3854,7 +3852,7 @@ Charles, Claretie, and Frédéric are just starting for Virton. Fighting is goin
 [^fn-p0219-1]: (1) After the death of Charles Hugo’s first child.
 [^fn-p0223-1]: (1) In reply to a request for information about the prison of Sainte-Pélagie.
 [^fn-p0224-1]: (1) A deputy in the reign of Louis Philippe, who addressed Guizot as follows : “ Qu’avez-vous fait ? Rien ! rien ! rien ! ”
-[^fn-p0231-1]: (1) “Life’s but a walking shadow; a poor player,
+[^fn-p0231-1]: (1) “Life’s but a walking shadow; a poor player,  
     That struts and frets his hour upon the stage.”
 [^fn-p0233-1]: (1) Sending him a drawing.
 [^fn-p0237-1]: (1) On the death of Lamartine.

@@ -15,6 +15,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Michael Faraday & Christian Friedrich Schoenbein (ed. Georg W. A. Kahlbaum & Francis V. Darbishire)",
  "year": 1899,
  "archive_id": "lettersoffaraday00fararich",
@@ -242,14 +245,14 @@
   {
    "format": "epub",
    "file": "faraday-schoenbein-1899.epub",
-   "bytes": 416340,
-   "sha256": "c04c8fcc71498346510f75fbb9657a644efe072582d627eb1672eb5f5477f366"
+   "bytes": 416467,
+   "sha256": "a14b6d2db8955883322225a17747a29b2af1b041492016860f3c6a18d37bdbfb"
   },
   {
    "format": "markdown",
    "file": "faraday-schoenbein-1899.md",
-   "bytes": 745399,
-   "sha256": "5ca8bb2e81a666e60f16c878014452a48c712a46f33e1c1780067379bf69427e"
+   "bytes": 746627,
+   "sha256": "92ef0da8f5864ae1fa4c96540d07f7b9b91584c6e49968758dc979aac558446e"
   },
   {
    "format": "tei",
@@ -261,7 +264,7 @@
  "scan_base": "https://archive.org/download/lettersoffaraday00fararich/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-24T19:22:06Z",
+  "compiled_at": "2026-11-27T21:11:23Z",
   "source_ast_sha256": "f916eb0d556484a8b886fcfc3ba84f42dc4bf2ca3959696822f12aec6dc611d2",
   "hugo_renderer_version": "1.0.0"
  }

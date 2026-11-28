@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Alexander von Humboldt, Friedrich Kapp (tr.)",
  "year": 1860,
  "archive_id": "alexandlettersof00humbrich",
@@ -55,7 +58,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 3,
+  "flagged": 6,
   "blockers": 0
  },
  "proof": {
@@ -364,27 +367,27 @@
   {
    "format": "epub",
    "file": "humboldt-varnhagen-letters-1860.epub",
-   "bytes": 311772,
-   "sha256": "660b330978ba49dc18a60ac70f0e1288cb9a05c189dc2b32226a7fdb49c71fa9"
+   "bytes": 311872,
+   "sha256": "807612a98e3469b7406c763ab74d579521bdd7db6b7cddb5eea0f3f2648b99dd"
   },
   {
    "format": "markdown",
    "file": "humboldt-varnhagen-letters-1860.md",
-   "bytes": 527886,
-   "sha256": "bfea9126848e97172118d7002357e264caf259f35db3dcf5d7581a791dfd216b"
+   "bytes": 528003,
+   "sha256": "46952d1dfb14a0ee22d467d3e975f9995e2af1cb421a2554de0d6daf6e15703c"
   },
   {
    "format": "tei",
    "file": "humboldt-varnhagen-letters-1860.tei.xml",
-   "bytes": 702975,
-   "sha256": "5d2cd8313fc1743942964b1dd7ed48713d1dac78e39f6c2492c082f4fb276107"
+   "bytes": 703163,
+   "sha256": "de63905e0a0ae42900c7f879f8e5ae7d74dc89954ce02144f8cf8b17becdab80"
   }
  ],
  "scan_base": "https://archive.org/download/alexandlettersof00humbrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:22:25Z",
-  "source_ast_sha256": "b3eef660e8d85d9a8719ab2e533d7d81ba742039e82390f6f0ec1771014e4906",
+  "compiled_at": "2026-11-28T05:30:26Z",
+  "source_ast_sha256": "b602968a388a6fcb6e0b2048bf5a73e11a1e4bfb34f4a5b5176eec5f7fb398e2",
   "hugo_renderer_version": "1.0.0"
  }
 }

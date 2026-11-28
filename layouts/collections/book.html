@@ -64,17 +64,21 @@
 {{- if .Params.periods -}}
 {{- range .Params.periods -}}
 {{- if gt .count 0 -}}
-{{- $groups = $groups | append (dict "id" (urlize .label) "label" (printf "%s, %s–%s" .label (substr .start 0 4) (substr .end 0 4)) "short" .label "rows" (where $letters "Params.period" .label)) -}}
+{{- $sy := partial "astro-year.html" (partial "iso-year.html" .start) -}}
+{{- $ey := partial "astro-year.html" (partial "iso-year.html" .end) -}}
+{{- $gLabel := cond (in .label "–") .label (printf "%s, %s–%s" .label $sy $ey) -}}
+{{- $groups = $groups | append (dict "id" (urlize .label) "label" $gLabel "short" .label "rows" (where $letters "Params.period" .label)) -}}
 {{- end -}}
 {{- end -}}
 {{- with where $letters "Params.period" "" }}{{ $groups = $groups | append (dict "id" "other" "label" "Undated, or outside these periods" "short" "Other" "rows" .) }}{{ end -}}
 {{- else -}}
 {{- $decs := slice -}}
-{{- range $letters }}{{ with partial "letter-decade.html" . }}{{ $decs = $decs | append . }}{{ end }}{{ end -}}
+{{- range $letters }}{{ if .Params.letter_date.iso }}{{ $decs = $decs | append (partial "letter-decade.html" .) }}{{ end }}{{ end -}}
 {{- range sort (uniq $decs) -}}
 {{- $d := . -}}
-{{- $rows := slice -}}{{- range $letters }}{{ if eq (partial "letter-decade.html" .) $d }}{{ $rows = $rows | append . }}{{ end }}{{ end -}}
-{{- $groups = $groups | append (dict "id" (printf "d%d" $d) "label" (printf "%ds" $d) "short" (printf "%ds" $d) "rows" $rows) -}}
+{{- $dLabel := partial "decade-label.html" $d -}}
+{{- $rows := slice -}}{{- range $letters }}{{ if and .Params.letter_date.iso (eq (partial "letter-decade.html" .) $d) }}{{ $rows = $rows | append . }}{{ end }}{{ end -}}
+{{- $groups = $groups | append (dict "id" (printf "d%d" $d) "label" $dLabel "short" $dLabel "rows" $rows) -}}
 {{- end -}}
 {{- with where $letters "Params.letter_date.iso" "" }}{{ $groups = $groups | append (dict "id" "undated" "label" (cond (eq (len .) (len $letters)) "All letters, in the order printed" "Undated") "short" "Undated" "rows" .) }}{{ end -}}
 {{- end -}}

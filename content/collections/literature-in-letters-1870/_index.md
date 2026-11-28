@@ -12,6 +12,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "James P. Holcombe (ed.)",
  "year": 1870,
  "archive_id": "literatureinlett00holcuoft",
@@ -54,7 +57,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 1,
+  "flagged": 16,
   "blockers": 0
  },
  "proof": {
@@ -565,27 +568,27 @@
   {
    "format": "epub",
    "file": "literature-in-letters-1870.epub",
-   "bytes": 465869,
-   "sha256": "a5a289ad9f34c9884c29d451c702a0055368c025e06e3b0d0d74cabf7c36dad9"
+   "bytes": 465937,
+   "sha256": "306240446599318adeac0a4658efc75d9be02acc37db9393637e3bcc552aaf25"
   },
   {
    "format": "markdown",
    "file": "literature-in-letters-1870.md",
-   "bytes": 968804,
-   "sha256": "2a213479f4953803866b6de9cb38edac5cf52af03872dafdeef267bf202eb2e7"
+   "bytes": 968869,
+   "sha256": "40de46b1f3a1f55f18c104840c75e288a31940aa56eb3517d3d58ba850ded2fc"
   },
   {
    "format": "tei",
    "file": "literature-in-letters-1870.tei.xml",
-   "bytes": 1132529,
-   "sha256": "d5d000f9275544ea60ff2d983651d0c82030eec21035ee2704e4e986c21e48c1"
+   "bytes": 1132339,
+   "sha256": "a27bd28b841e516a91fc14e50e1ad5cf9488c2c983849ecace9cf6ffacbf377e"
   }
  ],
  "scan_base": "https://archive.org/download/literatureinlett00holcuoft/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:22:53Z",
-  "source_ast_sha256": "860ea5808b6aa9fbaddbd52daeb685cfb87bbb8da72d204d28d668c67ca518db",
+  "compiled_at": "2026-11-27T21:13:16Z",
+  "source_ast_sha256": "9fd9baa26e342498738f8df4183daeb3649b4582ea41187ed60574aa860375e6",
   "hugo_renderer_version": "1.0.0"
  }
 }

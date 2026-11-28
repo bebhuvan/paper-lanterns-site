@@ -1,15 +1,27 @@
-{{- /* Collections with letters in one decade. Args: letters, decade, li (render <li> instead of spans). */ -}}
-{{- $d := .decade -}}
-{{- $books := slice -}}
+{{- /* Collections with letters in one decade. Args: items (pre-bucketed [{book, n}]) or {letters, decade}, plus li. */ -}}
+{{- $items := .items -}}
+{{- if not $items -}}
+{{- $d := int .decade -}}
+{{- $order := slice -}}
+{{- $byBook := dict -}}
 {{- range $l := .letters -}}
 {{- with $l.Params.letter_date.iso -}}
-{{- if eq (mul (int (strings.TrimLeft "0" (substr . 0 3))) 10) $d }}{{ $books = $books | append $l.Parent }}{{ end -}}
+{{- $y := partial "iso-year.html" . -}}
+{{- if eq (int (mul (math.Floor (div (float $y) 10.0)) 10)) $d -}}
+{{- $bid := $l.Params.book_id -}}
+{{- if not (index $byBook $bid) }}{{ $order = $order | append $bid }}{{ end -}}
+{{- $prev := index $byBook $bid | default (dict "book" $l.Parent "n" 0) -}}
+{{- $byBook = merge $byBook (dict $bid (dict "book" $l.Parent "n" (add (index $prev "n") 1))) -}}
 {{- end -}}
 {{- end -}}
-{{- range $books | uniq -}}
-{{- $b := . -}}
-{{- $n := 0 -}}
-{{- range $books }}{{ if eq . $b }}{{ $n = add $n 1 }}{{ end }}{{ end -}}
+{{- end -}}
+{{- $built := slice -}}
+{{- range $order }}{{ $built = $built | append (index $byBook .) }}{{ end -}}
+{{- $items = $built -}}
+{{- end -}}
+{{- range $items -}}
+{{- $b := .book -}}
+{{- $n := int .n -}}
 {{- $writer := index $b.Params.authors 0 | default $b.Params.author_or_editor -}}
 {{- if $.li -}}
 <li>{{ $writer }}<span class="sub">{{ $b.Title }} · {{ $n }} {{ cond (eq $n 1) "letter" "letters" }}</span></li>

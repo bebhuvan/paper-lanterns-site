@@ -81,7 +81,7 @@
   "pages": 116,
   "dated_letters": 18
  },
- "provenance_tier": "machine_checked",
+ "provenance_tier": "community",
  "quality": {
   "score": 100.0,
   "out_of": 100.0,
@@ -112,7 +112,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 0,
+  "flagged": 5,
   "blockers": 0
  },
  "proof": {
@@ -178,27 +178,27 @@
   {
    "format": "epub",
    "file": "percy-shelley-hogg-letters-1897.epub",
-   "bytes": 114822,
-   "sha256": "85d669584fc9459e7f40387aafb736bba4b029159eaab74f7b3faea5cbfe049a"
+   "bytes": 114977,
+   "sha256": "8e7ef1bd2f57105d48ccf7de2981de20fd4c37e2df02036504a3f3fddbbe43b9"
   },
   {
    "format": "markdown",
    "file": "percy-shelley-hogg-letters-1897.md",
-   "bytes": 82246,
-   "sha256": "717840a4b8605eb0fdc2ef184ad34a5c0787cf72d7e4ddd48a4091b8d0438732"
+   "bytes": 82462,
+   "sha256": "7998194ac8c04aa1ac51ab11151cec51ae8ccfc141965970b3a166cefc4c045a"
   },
   {
    "format": "tei",
    "file": "percy-shelley-hogg-letters-1897.tei.xml",
-   "bytes": 114179,
-   "sha256": "22359ac7436d8afbecc3175d559c6a2129e8f6c15be46fec606c64ffca57701c"
+   "bytes": 114265,
+   "sha256": "0eeda5907d9b287cfb2d7ead32f80e17e7180776902397f6482289632b6a38a0"
   }
  ],
  "scan_base": "https://archive.org/download/lettersfrompercy00shelrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-26T17:59:44Z",
-  "source_ast_sha256": "9eb04e658a7666b833c1c860659a0877939d35fae2c5fd0f1f938b3679948d09",
+  "compiled_at": "2026-11-27T21:15:05Z",
+  "source_ast_sha256": "9db18b076bbce9db5b1280451b2c1561890070a1fbe1b86c07a62fcbd599b1f7",
   "hugo_renderer_version": "1.0.0"
  }
 }

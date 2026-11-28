@@ -4076,7 +4076,7 @@ I have forgotten to tell you something, dear master. I have used your name. I ha
 Today I am starting again my metaphysical readings for *Saint-Antoine*. Next Saturday, I shall read a hundred and thirty pages of it, all that is finished, to Tourgueneff. Why won’t you be there!
 
 I embrace you.  
-Your old friend
+    Your old friend
 
 ### Letter 212: George Sand → Gustave Flaubert
 
@@ -4640,8 +4640,8 @@ I have not sufficient income to take unto myself a wife, nor even to live in Par
 Do you mean to say that I did not tell you that *Saint-Antoine* had been finished since last June? What I am dreaming of just now, is something of greater scope, which will aim to be comic. It would take too long to explain to you with a pen. We shall talk of it when we meet.
 
 Adieu, dear good, adorable master, yours with his best affection,  
-Your old friend.  
-Always as indignant as Saint Polycarp.
+    Your old friend.  
+        Always as indignant as Saint Polycarp.
 
 Do you know, in all history, including that of the Botocudos, anything more imbecile than the Right of the National Assembly? These gentlemen who do not want the simple and frivolous word Republic, who find Thiers too advanced!!! O profoundness! problem, revery!
 
@@ -5358,7 +5358,7 @@ On the whole, articles are not of any use, now, no more than are friends at the 
 So make fun of all this *gossip*; the guiltiest ones are those who report it to you. I think it is very odd that they say so much against you to your friends. No one indeed ever says anything to me: they know that I would not allow it. Be valiant and *content* since *Saint-Antoine* is doing well and selling better. What difference does it make if they cut you up in this or that paper? In former times it meant something; in these days, nothing. The public is not the public of other days, and journalism has not the least literary influence. Every one is a critic and forms his own opinions. They never write articles about my novels. That doesn’t make any difference to me.
 
 I embrace you and we love you.  
-Your old troubadour.
+    Your old troubadour.
 
 ### Letter 277: Gustave Flaubert → George Sand
 

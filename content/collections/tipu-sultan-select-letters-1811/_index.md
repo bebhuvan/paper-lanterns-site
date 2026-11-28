@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Tipu Sultan, William Kirkpatrick (tr.)",
  "year": 1811,
  "archive_id": "selectlettersoft00tipu",
@@ -55,7 +58,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 193,
+  "flagged": 196,
   "blockers": 0
  },
  "proof": {
@@ -304,27 +307,27 @@
   {
    "format": "epub",
    "file": "tipu-sultan-select-letters-1811.epub",
-   "bytes": 652637,
-   "sha256": "621a3ea6b2620b719925b7bb77e48f4177c521585663e5cc25051c92358e494f"
+   "bytes": 654889,
+   "sha256": "63171a424b902425e2250ac53cfc892940e64effa1fd20eec450413a7695e3c9"
   },
   {
    "format": "markdown",
    "file": "tipu-sultan-select-letters-1811.md",
-   "bytes": 1407140,
-   "sha256": "e2437b4816cf6c87bc344d088da4b80f91a4b10912b31b2b6e92d2866190fca2"
+   "bytes": 1407036,
+   "sha256": "dfd94e26d9dca6552708e161973d685f9b593f215ef312559c78d22aa18895a8"
   },
   {
    "format": "tei",
    "file": "tipu-sultan-select-letters-1811.tei.xml",
-   "bytes": 2050164,
-   "sha256": "2661ab6ac0cf8e488c96f18cc4e6150a1c415842a7a6f5cc19a4a768033d2f26"
+   "bytes": 2050255,
+   "sha256": "5219731fc5fd2556714118c73ab35a05cf4072c523519cc5e05d79ea4b10516e"
   }
  ],
  "scan_base": "https://archive.org/download/selectlettersoft00tipu/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-v1",
-  "compiled_at": "2026-11-24T19:24:50Z",
-  "source_ast_sha256": "cdaa828e6c0521205ad003c108a202ab56fa78b9f864adc0d1e4caa5f82adcd4",
+  "compiled_at": "2026-11-28T05:28:31Z",
+  "source_ast_sha256": "96c4a292dc54a0b2930f4f97c42caf53ce93d1eaa9f3dbfaaf87b395b3ebe5f1",
   "hugo_renderer_version": "1.0.0"
  }
 }

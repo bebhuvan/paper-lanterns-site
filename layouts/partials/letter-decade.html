@@ -1,4 +1,7 @@
-{{- /* The decade (e.g. 1840) of a collection letter's date, or 0 when undated. */ -}}
+{{- /* Signed floor decade (e.g. -370, 0, 60, 1840) of a collection letter's date, or 0 when undated. */ -}}
 {{- $d := 0 -}}
-{{- with .Params.letter_date.iso }}{{ $d = mul (div (int (strings.TrimLeft "0" (substr . 0 4))) 10) 10 }}{{ end -}}
+{{- with .Params.letter_date.iso -}}
+{{- $y := partial "iso-year.html" . -}}
+{{- $d = int (mul (math.Floor (div (float $y) 10.0)) 10) -}}
+{{- end -}}
 {{- return $d -}}

@@ -62,7 +62,7 @@
         <correspAction type="received"><persName>Lord Irwin</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0010">
-        <correspAction type="sent"><persName>BAPU</persName><date>silence day</date></correspAction>
+        <correspAction type="sent"><persName>BAPU</persName></correspAction>
         <correspAction type="received"><persName>MIRA BAI</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0011">
@@ -77,7 +77,7 @@
         <note>Correspondents unrecorded in source</note>
       </correspDesc>
       <correspDesc xml:id="letter-0014">
-        <correspAction type="sent"><persName>BAPU</persName><placeName>Yerawada Palace</placeName><date>Silence day.</date></correspAction>
+        <correspAction type="sent"><persName>BAPU</persName><placeName>Yerawada Palace</placeName></correspAction>
         <correspAction type="received"><persName>LAKSHMI</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0015">

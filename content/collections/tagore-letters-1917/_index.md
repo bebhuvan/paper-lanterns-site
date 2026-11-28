@@ -12,6 +12,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Rabindranath Tagore",
  "year": 1917,
  "archive_id": "letters00tago",
@@ -109,8 +112,8 @@
   {
    "format": "epub",
    "file": "tagore-letters-1917.epub",
-   "bytes": 43763,
-   "sha256": "7eb28072d1d1be12082ccbcae980fbace8fd3583bae4057a482b07994d2574f7"
+   "bytes": 43812,
+   "sha256": "77e459b8acd5cc3ae601fa149c7fefa6ab2776a982bb50fcd04a4563c641e2fe"
   },
   {
    "format": "markdown",
@@ -128,7 +131,7 @@
  "scan_base": "https://archive.org/download/letters00tago/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:23:57Z",
+  "compiled_at": "2026-11-27T21:17:05Z",
   "source_ast_sha256": "723060cbbc9d8944791424d23d55c76cf60a79e5ad03ad5f276f287b2b764a8f",
   "hugo_renderer_version": "1.0.0"
  }

@@ -42,11 +42,11 @@
         <note>Correspondents unrecorded in source</note>
       </correspDesc>
       <correspDesc xml:id="letter-0005">
-        <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>Richmond</placeName><date>Monday</date></correspAction>
+        <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>Richmond</placeName></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0006">
-        <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>Richmond</placeName><date>Tuesday</date></correspAction>
+        <correspAction type="sent"><persName>Edgar A Poe</persName><placeName>Richmond</placeName></correspAction>
         <correspAction type="received"><persName>John Allan</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0007">
@@ -1224,10 +1224,7 @@
 <div xml:id="div-unit-0115" type="document">
 <pb xml:id="page-355" n="319"/><head rend="center">BILL FOR EDGAR ALLAN POE AT MANOR<lb/>HOUSE SCHOOL</head>
 <opener><dateline rend="right">Manor House School<lb/>Stoke Newington, Xmas. 1818</dateline><address><addrLine>J. Allan Esqʳ</addrLine><addrLine>for Masʳ Allan</addrLine></address><address><addrLine>To the Revᵈ John Bransby.</addrLine></address></opener>
-<table cols="4" rows="11"><row role="label"><cell>£ S D</cell></row><row><cell>Board &amp; Education</cell><cell>23.</cell><cell>12.</cell><cell>6.</cell></row><row><cell>Washing £1:11:6 Single Bed £2: 2: 0</cell><cell>3</cell><cell>13</cell><cell>6</cell></row><row><cell>Allowance £0: 5: 0 Pew &amp; Charʸ Sermon £0: 3: 6 . . . . . . . . . . . . . . . . . . . . — 8 6</cell></row><row><cell>Books, Stationary &amp;c</cell><cell>—</cell><cell>14</cell><cell>11</cell></row><row><cell>French</cell><cell>—</cell><cell>—</cell><cell>—</cell></row><row><cell>Dancing £2: 2: 0 Drawing £
-Music £</cell><cell>2</cell><cell>2</cell><cell>—</cell></row><row><cell>Shoemaker £1: 15: 6 Taylor £
-Hairdresser £0: 2: 0</cell><cell>1</cell><cell>17</cell><cell>6</cell></row><row><cell>Sundries</cell><cell>—</cell><cell>1</cell><cell>—</cell></row><row><cell>Apothecary</cell><cell>0</cell><cell>13</cell><cell>0</cell></row><row><cell>Please to pay to Messʳˢ Sikes Snaith &amp; Co.
-Mansion House Sᵗ . . . . . . . . . . . . . . . £33. 2. 11</cell></row></table>
+<table cols="4" rows="11"><row role="label"><cell>£ S D</cell></row><row><cell>Board &amp; Education</cell><cell>23.</cell><cell>12.</cell><cell>6.</cell></row><row><cell>Washing £1:11:6 Single Bed £2: 2: 0</cell><cell>3</cell><cell>13</cell><cell>6</cell></row><row><cell>Allowance £0: 5: 0 Pew &amp; Charʸ Sermon £0: 3: 6 . . . . . . . . . . . . . . . . . . . . — 8 6</cell></row><row><cell>Books, Stationary &amp;c</cell><cell>—</cell><cell>14</cell><cell>11</cell></row><row><cell>French</cell><cell>—</cell><cell>—</cell><cell>—</cell></row><row><cell>Dancing £2: 2: 0 Drawing £<lb/>Music £</cell><cell>2</cell><cell>2</cell><cell>—</cell></row><row><cell>Shoemaker £1: 15: 6 Taylor £<lb/>Hairdresser £0: 2: 0</cell><cell>1</cell><cell>17</cell><cell>6</cell></row><row><cell>Sundries</cell><cell>—</cell><cell>1</cell><cell>—</cell></row><row><cell>Apothecary</cell><cell>0</cell><cell>13</cell><cell>0</cell></row><row><cell>Please to pay to Messʳˢ Sikes Snaith &amp; Co.<lb/>Mansion House Sᵗ . . . . . . . . . . . . . . . £33. 2. 11</cell></row></table>
 <p rend="indented">The vacation will terminate Jany. 25ᵗʰ 1819.</p>
 </div>
 <div xml:id="div-unit-0116" type="apparatus">
@@ -1236,9 +1233,7 @@ Mansion House Sᵗ . . . . . . . . . . . . . . . £33. 2. 11</cell></row></table
 </div>
 <div xml:id="div-unit-0117" type="document">
 <pb xml:id="page-359" n="323"/><head rend="center">BILL FOR EDGAR ALLAN POE AT MANOR<lb/>HOUSE SCHOOL</head>
-<table cols="4" rows="7"><head>Mast. Allan</head><row role="label"><cell>Books........</cell><cell>£</cell><cell>s</cell><cell>d</cell></row><row><cell>Sep—Biglands
-test—E. N. 0. 6. 6</cell></row><row><cell>2 Large Slates</cell><cell>0.</cell><cell>2.</cell><cell>4</cell></row><row><cell>Small copy
-book.......</cell><cell>0.</cell><cell>0.</cell><cell>10</cell></row><row><cell>Tables.......</cell><cell>0.</cell><cell>0.</cell><cell>3</cell></row><row><cell>Paper pens &amp;c</cell><cell>0.</cell><cell>5.</cell><cell>0</cell></row><row><cell>£0. 14. 11</cell></row></table>
+<table cols="4" rows="7"><head>Mast. Allan</head><row role="label"><cell>Books........</cell><cell>£</cell><cell>s</cell><cell>d</cell></row><row><cell>Sep—Biglands<lb/>test—E. N. 0. 6. 6</cell></row><row><cell>2 Large Slates</cell><cell>0.</cell><cell>2.</cell><cell>4</cell></row><row><cell>Small copy<lb/>book.......</cell><cell>0.</cell><cell>0.</cell><cell>10</cell></row><row><cell>Tables.......</cell><cell>0.</cell><cell>0.</cell><cell>3</cell></row><row><cell>Paper pens &amp;c</cell><cell>0.</cell><cell>5.</cell><cell>0</cell></row><row><cell>£0. 14. 11</cell></row></table>
 <table cols="4" rows="4"><head>Mast. Allan</head><row role="label"><cell>Sundries........</cell><cell>£</cell><cell>s</cell><cell>d</cell></row><row><cell>Postage........ 0. 0. 6</cell></row><row><cell>Shoestrings....... 0. 0. 6</cell></row><row><cell>£0. 1. 0</cell></row></table>
 <p rend="dateline">London 26 Jany 1819</p>
 <p>Red of Mess’s Allan &amp; Ellis the<lb/>Sum of Thirty Three Pounds 2/11—<lb/>on Acct of the Revᵈ Jno Bransby<lb/>for Messʳˢ Sikes Snaith &amp; Co</p>

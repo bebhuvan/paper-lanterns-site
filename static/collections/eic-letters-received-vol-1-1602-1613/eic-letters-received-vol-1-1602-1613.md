@@ -151,8 +151,7 @@ Sir Henry Middleton to Lawrence Femell. Ship 'Little Darling,' off Mocha, May 13
 
 48. The same to the same. Mocha, May 14, 1611 . . . . 95
 
-| PAGE |
-| --- |
+**PAGE**
 
 49. Lawrence Femell and John Williams to Sir Henry Middleton. Mocha, May 15, 1611 . . . . . . . . . 96
 
@@ -668,7 +667,7 @@ A Factory also to be left at Priaman the next voyage will be very beneficial for
 The matter of Sir Edward Michelborne is not yet forgotten amongst some of the chief here in town, but I hope it will in time be forgotten, but if there should any more such as he be permitted by his Majesty to come into these parts, in the same nature as he did, and should do but the like as he did, our estate here would be very dangerous, therefore you may be pleased, use all the prevention that may be in this point. The Country here are at dissension among themselves and troubles are sure to be, but God willing, we will use the best means we can to keep ourselves free of blame, and that they shall have no action against us whereby to colour any pretence that they shall have to hurt us.
 
 Thus I do in all duty take my leave  
-Your Worships' servant in all duty to command,
+    Your Worships' servant in all duty to command,
 
 John Hearne.
 
@@ -968,7 +967,7 @@ RIGHT Worshipful, We send you herein a copy of our goods that we have given noti
 We have made him acquainted with four pieces of velvet because other must serve for use at Surat. To-morrow you shall have either beeves, sheep or what else you please. Send word by this bearer, or the Truchman, what quantity you will have daily, and they shall be bought. They are to be had at no time but very early in the morning.
 
 Thus for this present we rest  
-Your Worship's at commandment
+    Your Worship's at commandment
 
 Lawrence Femell.  
 Hugh Frayne.
@@ -1063,7 +1062,7 @@ BY a letter written you the 15th of this month and kept till the 17th ditto you 
 Your loving friends
 
 Henry Middleton.  
-Lawrence Femell.
+    Lawrence Femell.
 
 * * *
 
@@ -1084,7 +1083,7 @@ Sir, till the days expired, that by yourself was nominated that we might hear fr
 Your Worship's in all duty and love
 
 Nicho: Downton.  
-Giles Thornton, Hugh Frayne.
+    Giles Thornton, Hugh Frayne.
 
 I remember my love also to Mr. Femell, Mr. Fowler, Mr. Green and to all others our good friends with you.
 
@@ -1119,8 +1118,8 @@ RIGHT Worshipful, The high God of Heaven be praised for your safe return with th
 The 12th of January there riding, great storms arose and we could not weigh, but the 18th the storm ceased and we all departed and came to this happy place for our relief, where the people of the Country used us very kindly and entreated us well, brought us goats, at the first, good size, the which they sold us for ij s. and a knife per goat, and some iij s., according as they were in good meat. Calves 2 pieces of 8 and cows 5 pieces of 8, and some 7 pieces, but very large, and good meat. But now the country people will sell no more, nor none we have had this [*torn*] days. They desire this cotton cloth to put about their middles, and will take no more money, if we had of this cotton cloth surely we should not want anything they have. Sithence the flesh failed us, God hath given us some fish with our nets. This excellent place is W. and by S. from Mocha distant 13 leagues to the ships our watering place, but to the outward isle or eastward isle where we rid first is but 7 leagues from Mocha, and the same course before specified the same course the tide keeps on that side, and in the channel as here at Mocha, and no difference but where our ships ride at the watering place, there runs no tide but the water riseth and falleth about 3 foot (as I dare swear). Your loving friend Captain Downton greeteth you and requireth me to excuse him for not writing to you, his reason was, he made full account those letters which were sent on Sunday last were now with you with all the rest before written, and having nothing since of importance to write, I thought it good to omit what otherwise he would have satisfied you. Mr. Thornton likewise remembereth his duty to you, and they both desire to hear the certainty of your arrival and will look long for our return. Lastly my humble duty remembered to your Worship, desiring God to continue your health, and that we might once more get your presence which we have longed much for. I desire to know your Worship's determination what I shall do, if you shall think it good I do purpose to-morrow if God send a sluthe to turn up [*torn*] wind of the India ships for fear of the worst, for still I fear treason, and for all this I look for it every hour. And thus not having time to enlarge further, I humbly take my leave, desiring God to bless you and grant you your former liberty, with health of body and soul. From aboard the Little Darling, this 5th of March, 1610.
 
 Your Worship's in all duty to  
-command to my poor life  
-Wm. Pemberton.
+    command to my poor life  
+        Wm. Pemberton.
 
 * * *
 
@@ -1487,7 +1486,7 @@ It was in private to Sir Henry Middleton, to consider of, not intended to the vi
 Sir, I supposing you are abused herein as well as myself, but howsoever, I desire God to send you and all the rest into safety aboard, where you may satisfy your will on me as you please, since you may be assured I will not swerve a jot from your commands.
 
 So resting ever yours,  
-Your Worship's in all humility
+    Your Worship's in all humility
 
 Nicho: Downton.
 
@@ -1630,7 +1629,7 @@ THE time of our ill fortunes, ten of us are here in prison and being called befo
 Your Worship's at command
 
 Lawrence Femell  
-John Williams.
+    John Williams.
 
 Since the Nahuda of the Dabulls as also the Nahuda of the Malabars are come to the Aga and have obtained that none of our men shall be put into irons nor otherwise wronged, but to remain in our own house till the abovesaid time be accomplished, if it please your Worship you may write if they do not deliver us at the time appointed you will seek deep revenge.
 
@@ -1647,7 +1646,7 @@ Since the Nahuda of the Dabulls as also the Nahuda of the Malabars are come to t
 UPON the receipt of your Worship's letter by the Nahuda yesterday, we were called before the Aga where was assembled the Shabunder, the said Nahuda and the merchant of whom we bought our stuffs, we made him privy unto your worship's letter ; and first as touching anchors and cables they are in this boat sent you as also five hogsheads of pitch and tar. There was a greater quantity but he affirmeth that your worship gave him five hogsheads for a present, as also there was spent two hogsheads about the pinnace, not any more to be procured. And as touching the pinnace he avoucheth that we gave her over by agreement as we did the goods unto the Basha for the account of the Grand Seignor and it is true that it was your Worship's agreement, so that he answereth, for his head he dares not consent to deliver her, grounding that upon the demand of her we may as well require our goods, contrary to agreement ; we had very much urging hereabouts and the Shabunder and Nahuda were in the mind to give 300 pieces of 8 for her, but he gave an absolute answer that he could not sell her nor deliver her. Both he and the Shabunder and Nahuda will write to the Basha to get leave to deliver her. Wherefore we desire your Worship to have patience, not doubting, with God's help, but to have a better than she, and it may be, in the end, the same. The surgeon's instruments shall be sought for and delivered : for the armourer's tools we cannot hear of them, but if there be any about the house they shall be restored. He was often times willed when he was here to go seek for them but never would once stir therein, but it is vehemently suspected here he made them away and now saith, they are in the Aga's house. The Kaihao commends him unto your Worship and saith he will send aboard a pair of silk stockings with a sword of yours. The Aga hath given licence to buy so much (and more if it may be gotten) of durra and other grain as your Worship writeth for, with oil etc. Our ill fortune in not escaping proceeded of two causes, the first Thomas Eves, the armourer, going down to the bridge to put something into the boat and presently returned a swift pace till he passed the Aga's house, then he took off his shoes and ran through the streets with all the speed he could, whereupon all the town rise after him. The second cause was the foolish dealing of that idiot and white-livered fellow the coxswain, who, seeing us hardly pursued and we waving to have the boat sheer in, we being in the water up to the armpits, fell to leeward of us, it was no small grief to us to hear your Worship reprehending him asking what he had done, pray if he had stayed the boat where they sheered in, we had gotten her. My pistol, I thank God, was a means to save my life, for two soldiers assailing me I placed two bullets in one of them, who lieth by it, as I hear. The second purposing to have cloven my head, I warded it with my pistol, the blow was so violent that his sword fell out of his hand into the sea, by this time there came a Turk who knew me and protected me from further harm. We hope that in due time we shall be well delivered. We must have patience during the time limited, and we desire your Worship to have patience. We cannot hear of Walter Taobut, Mahomet Aga's man, being here again with us, sweareth he is not at their house nor knoweth not what is become of him. We understand that one last night made an attempt to escape, which we suppose to be Walter. Assure yourself he is not in the Turks' hands, God send him well aboard.
 
 Thus with our duties remembered unto your Worship, cease  
-Your Worship's at commandment
+    Your Worship's at commandment
 
 [*unsigned*]
 
@@ -1718,7 +1717,7 @@ RIGHT Worshipful, I commend me to you etc. Yesterday at night I received your le
 The other points of your capitulation they say shall be granted and performed, and that the Nahuda and Shabunder will work it with the Aga. We demanded presently the cables, anchors, etc. but they counselled us to have patience for 5 days, within which time they shall be delivered. The old Nahuda Mahomet of Cainnor (Cannanore) goeth aboard in this boat whom I beseech you to use with all tenderness. At the time of your Worship's departure we received great comfort from him. There is sent aboard all the corn left here, as also divers other things appearing by a note here inclosed. There is put up into your worship's trunk three pieces of brown calico to make sea apparel at your Worship's pleasure. The Shabunder was also purposed to have come aboard but altered his determination. Yesterday we did see a ship in the offing, we thought it had been the Peppercorn, but suspect it was a ship bound for Jeeda. It shall be very good that you be very earnest with Nahuda Mahomet to have the anchors etc. in five days, for as now they standing in fear they will fear much more when the other two ships come into the road.
 
 Thus for the present I rest  
-Your Worship's at commandment
+    Your Worship's at commandment
 
 Lawrence Femell.
 
@@ -1737,7 +1736,7 @@ Laus Deo. In Mocha the 15th of May, 1611.
 RIGHT Worshipful, Upon the receipt of your letter by the Nahuda yesterday, we were called before the Aga, where was assembled the Shabunder, the said Nahuda, and the merchant of whom we bought our stuffs. We made the Aga privy unto your Worship's letter. And first as touching anchors and cables, they are in this boat sent you as also five hogsheads of pitch and tar, there was a greater quantity, but he affirmeth that your worship gave him five hogsheads for a present ; as also there was spent two hogsheads about the pinnace, not any more to be procured. And as touching the pinnace he avoucheth that we gave her over by agreement, as we did the goods, unto the Basha for account of the Grand Seignor and it is true that your worship did condescend thereunto, so that he answereth, for his head, he dares not consent to deliver her, grounding that upon the demand of her we may as well require our goods again contrary to agreement ; we had very much urging hereabouts and the Shabunder and Nahuda were in the mind to give 300 pieces for her, but he returned them an absolute answer that he could not sell her nor deliver her, but he and the Shabunder and Nahuda will write unto the Basha concerning her delivery. Wherefore we desire your Worship to have patience, not doubting, with God's help, but to have a better than she, and it may be, in the end, the same. The surgeon's instruments shall be sought up and returned, for the armourer's tools we cannot hear of, but if there be any about the house, they shall be restored. He was oftentimes willed when he was here to go seek for them but never would once stir therein. It is vehemently suspected here he made them away, and now saith they are in the Aga's house. The Kaihao commends him unto your Worship and saith he will perform his promise. Tomorrow he will send you a pair of silk stockings with a sword. The Aga hath given us licence to buy so much (and more if it may be gotten) of durra and other grain with oil as your Worship writeth for. Our ill fortune in not escaping proceeded of two causes ; the first, Thomas Eves, the armourer, going down to the bridge to put some thing into the boat, and presently returned a swift pace till he passed the Aga's house, then he took off his shoes and ran through the streets with all the force he could whereupon all the town rose after him. The second cause was the foolish dealing of that idiot and white-livered fellow, the coxswain, who, seeing us hardly pursued, and we waving to have the boat sheer in, we being in the water up to the armpits, fell to leeward of us ; it was no small grief to us to hear your Worship reprehending, asking what he had done, nay, if he had stayed the boat where they sheered in, we had gotten her. My pistol, I thank God, was a means to save my life, for two soldiers at once assailing me, I placed two bullets in one of them, who lieth by it as I hear, the second purposing to have cloven my head, I warded it with my pistol, the blow was so violent that his sword fell out of his hand into the sea. By this time there came a Turk who knew me, and protected me from farther harm. We hope that in due time we shall be delivered, and must have patience during the limited time, till which we beseech your Worship's forbearance. Walter Taobut was drowned last night in the evening, he was cast ashore in the Bay. We have caused him to be buried.
 
 Thus with our duties remembered to your Worship rest,  
-Your Worship's at commandment
+    Your Worship's at commandment
 
 Lawrence Femell.  
 John Williams.
@@ -1846,7 +1845,7 @@ RIGHT Worshipful, This following is the answer to your Worship's letter yesterda
 Your Worship's at commandment
 
 Lawrence Femell.  
-John Williams.
+    John Williams.
 
 * * *
 
@@ -1863,7 +1862,7 @@ RIGHT Worshipful, Upon the receipt of your letter yesterday the effect thereof b
 Your Worship's at commandment
 
 Lawrence Femell.  
-John Williams.
+    John Williams.
 
 * * *
 
@@ -1968,7 +1967,7 @@ I MELECK AMBAR being glad to hear of your Worship's welfare, salute you. Your le
 Your loving and assured friend
 
 Meleck Ambar, Nahuda of  
-the great ship.
+    the great ship.
 
 ### Letter 55: Sir Henry Middleton → Regib Aga
 
@@ -1981,7 +1980,7 @@ Laus Deo. Aboard the Increase, the 18th of May, 1611.
 REIGUB AGAO, governor of Moha, I resalute you. I have received your letter with my naked sword and dagger, though they are not fellows, yet I am content to accept them in hope you will send me the rest, or else I had as lieve return them as keep them thus mismatched. Your oxen, tame and rice I have also received, if you do me right you should send me every day the like proportion for my men which are here detained through your occasion ; whereas you demand leave of the ships to land their goods, and that the Diu ship, being at the Bab, may be suffered quietly to enter, and her men to land : I answer the ship may quietly enter and the men land, so that their boat come aboard me before she go ashore, but I will not permit the landing of any goods till I have all my people from among you. You say the time of their detainment is now short, if it be so it will be the better for both parties ; their detaining is as tedious to them as forbearance of landing goods is to you. If you advise the Basha, as you say you will, what is that to me, I am no subject of the Basha's but a servant to the King of England, besides whom, I will not be commanded by any king under heaven. And for the referring of matters to the hearing of our betters, as you say, at Constantinople, I know my cause so good that I hope to have remedy against you, but you dare never show your face there. You sent me by the bearer, Nahuda Mahomet, a foolish paper, what it is I know not, nor care not. In God is my trust, and therefore respect not what the devil or you can do with your charms.
 
 At present I cease and rest  
-As you shall deserve
+    As you shall deserve
 
 Henry Middleton.
 
@@ -2002,7 +2001,7 @@ Thus at present not having other to advise your Worship, commend you and your pr
 Your Worship's at commandment
 
 Lawrence Femell.  
-John Williams.
+    John Williams.
 
 We send you all the singing books that can be found about the house, by this bearer, with a scale and 3 weights, we pray your Worship to send us the compass we writ for yesterday, desiring you to refer the bestowing thereof unto us, for although hitherto he hath not deserved it that must have it, yet before we depart with it, in other kindness he shall countervail the worth thereof.
 
@@ -2017,7 +2016,7 @@ Laus Deo In Moha 20th of May, 1611.
 I, <span class="small-caps">SHABUNDER</span> of the Town of Mohao, do salute you with thanks for your present you sent me. The ship which came into the road this last night, and is presently under your keeping, doth appertain to me, wherefore I hope, as we have been friends, so I shall find you friendly towards me, not having deserved other at your hands. Do you desire any more than the delivery of your people. It cannot be long now before the Basha's answer come, at which time, without doubt, they shall be sent you aboard. I pray you let some of my people come ashore whereby I may understand the state of things appertaining to my business. Thus with my commendations remembered unto your Worship and the rest of your friends, cease
 
 Your loving friend to use  
-Shermale, Shabunder of Mohao.
+    Shermale, Shabunder of Mohao.
 
 I send your Worship by this bearer 10 moraes of rice which I desire you to accept in token of the goodwill I bear you.
 
@@ -2054,7 +2053,7 @@ Thus with a second remembrance of our duties, rest,
 Your Worship's at commandment
 
 Lawrence Femell.  
-John Williams.
+    John Williams.
 
 ###### Points of the news given out by Cannang, purser of the Diu ship.
 
@@ -2084,7 +2083,7 @@ Thus for the present we conclude with remembrance of our duties to your Worship,
 Your Worship's at commandment
 
 Lawrence Femell.  
-John Williams.
+    John Williams.
 
 Being at present in the Aga's house, he commends him unto your Worship very heartily giving you many thanks in suffering the Nahuda, with others, to come on shore last night, whereby you show that you pretend no evil, he meaneth no hurt (as he saith) towards your Worship nor we here on shore, but upon answer we shall be delivered safely aboard according to his former promises. Thus resting
 
@@ -2125,7 +2124,7 @@ RIGHT Worshipful, Yours yesterday we received, and whereas there was advice of 4
 Your Worship's at commandment
 
 Lawrence Femell.  
-John Williams.
+    John Williams.
 
 The Shabunder commends him unto your Worship and desireth you to favour him so much as to permit his man to bring ashore with him such apparel as appertain to the Nahuda and scrivan.
 
@@ -2160,7 +2159,7 @@ RIGHT Worshipful, Our duties remembered Yours yesterday we received and have had
 Your Worship's at commandment
 
 Lawrence Femell.  
-John Williams.
+    John Williams.
 
 By this bearer you shall receive three letters, two of which is from the Kaihao Abdollo Beg, the other from Alle Heskin our turgman of Zenan. Whereas we advised your Worship within of but 8 hens sent, there is 100, with 40 loaves of soft bread and Mr. Femell's card of the world.
 
@@ -2283,7 +2282,7 @@ Our departure out of the Downs the 5th February, 1610, and are arrived here upon
 From Mr. Anthony Hippon who was master in the Dragon, Mr. Peter Floris, Lucas Antheunis, and Robert Brown who was a merchant at Bantam (who at present is very sick, the Lord comfort him) commending you and the rest with you unto the protection of the Almighty, dated in Missalapatan the 7th September, 1611.
 
 Your loving friend  
-Lucas Antheunis.
+    Lucas Antheunis.
 
 Yesterday between eight and nine of the clock at night, it pleased God to take out of this world Mr. Robert Brown, who ended his life with great constancy towards God, to the comfort of those which were about him, when he gave up his spirit unto his Creator, and this day we have buried him here in Musalapatan, being the 8th of September, 1611.
 
@@ -2358,7 +2357,7 @@ HAVING so good occasion by hearing that certain English merchants do lie in the 
 Dated in Japan the 23rd October anno 1611.
 
 By your unworthy friend and  
-servant to command in what he may.
+    servant to command in what he may.
 
 Wm. Adams.
 
@@ -2503,12 +2502,12 @@ VERY dear Sir Don Henrico Middleton, We advise you that we had order from the Ba
 From Mocha the 28th of June, 1612.
 
 I Mammy Capitan  
-affirm this with  
-my seal  
-Mammy Capitan.  
-I Hider Aga affirm this  
-with my seal  
-Hider Aga.
+    affirm this with  
+        my seal  
+            Mammy Capitan.  
+                I Hider Aga affirm this  
+                    with my seal  
+                    Hider Aga.
 
 * * *
 
@@ -2525,7 +2524,7 @@ RIGHT Worshipful, our arrival here was the 23rd of October in safety, thanks be 
 Your Worships' servants
 
 Edmond Marlowe    Richard Cobb    Richard Bennett  
-John Gourney    Paul Hall    George Chauncey.
+    John Gourney    Paul Hall    George Chauncey.
 
 * * *
 
@@ -2868,8 +2867,8 @@ And now concerning this place where (thanks be to God) we are settled, your Wors
 Your Worships' to be commanded,
 
 Tho. Aldworth  
-Wm. Biddulph  
-Nich. Withington.
+    Wm. Biddulph  
+        Nich. Withington.
 
 About a month hence here goeth a ship to the Red Sea by whom we will also write.
 
@@ -3090,8 +3089,8 @@ The 2nd of this present the King's Armada of frigates came from Joor (Johore) br
 Your loving friends,
 
 T. Best  
-Wm. More  
-H. Gyttins.
+    Wm. More  
+        H. Gyttins.
 
 Ready to set sail, Mr. Oliver in health but absent at the sealing.
 
@@ -3260,7 +3259,7 @@ Dated aboard the Globe
 the 27th day of September A.D. 1613.
 
 signed per me  
-Tho. Essington, Captain.
+    Tho. Essington, Captain.
 
 * * *
 
@@ -3417,7 +3416,7 @@ The Almighty God, by whom all enterprises and purposes have their full effect, b
 RIGHT Worshipfuls, having so just occasion, I have emboldened myself although unworthy to write these few unworthy lines unto you, in which first of all I crave your Worships' pardon in what I shall fail in. Having through the providence of God arrived one of your ships called the Clove, being General or Captain John Saris, who at his first arrival in the island of Ferando sent a letter unto me in all haste to have me come to him, until such time he would tarry for me. The which, so soon as I had received his letter, I made no delay, being at that time at the Court, being distant from the place of the ship's arrival 250 leagues. So coming to the place of the ship's arrival I was gladly received by the General and Master and all the whole company. At which time we did enter into consultation what course was to be taken : the General making known unto me that he had brought his Majesty a letter with a present for him. Upon which for the honour of his Majesty and our country both I with him thought it good to make all speed and to go to the Court for the deliverance thereof, etc. I also entered into speech with him what commodities he had brought with him : of which he made all things to me known. So, finding such things as he had brought were not very vendible, I told him, for his arrival I was very glad thereof, but in respect of the venture by the Worshipful Company being so great, I did not see any ways in this land to requite the great charges thereof. My reason was, for their cloth at this present was very cheap, because both from Nova Spaynia, Manilia, and out of Holland, which in these four years there came very much : some sold and very much unsold. For elephant's teeth the Hollanders had brought abundance, that the price thereof was fallen very much : upon which occasion the Hollanders have transported many thereof to Siam. Steel, in long bars, still holding his old price at 20 crowns the pecul, which is 125lb. English weight, and sometimes being come much at 3*l.* 15*s.* sterling. Lead, holding his price a little more or less at 25*s.* and sometimes 30*s.* the pecul. Tin so good cheap here as in England ; and ordnance not in any great request : not the pecul above 30*s.* and sometimes under. For calicoes and fine Cambaya goods, not in any request, because the country hath abundance of cotton &c. Thus for those things. Now for pepper and cloves. This country doth not use very much thereof ; nor of any other spice : for which cause, since the trade of the Hollanders which have brought much pepper and cloves, that pepper the pound is not more worth than 5*d.* a pound, and sometimes less, and at the dearest 6*d.* and cloves at 12*d.*, which is of no profit to bring hither. Aforetime when the Spaniard had the trade with the Japanners only pepper was at 12*d.* the lb. and cloves at 2*s.* 6*d.* and 3*s.* the lb., now being overlaid is very cheap, etc. Thus having conferred hereupon the General made himself ready to go with me to the Court : of which with all haste proceeded thereof, and coming to Meaco [Miako] had the king's free horses according to need to go to the Court where the Emperor was ; at which place of the General's arrival, I made his coming known. So the first day after, being somewhat weary, rested, and somewhat in fitting of the king's present. So the next day following, being ready, the General went to his palace, being courteously received and bid welcome by the treasurer and others ; so being in the palace set down, the General called me and bid me tell the secretary that the King's Majesty's letter, he would deliver it with his own hands ; upon which I went and told the secretary thereof, at which he answered that it was not the custom of the land to deliver any letters with the hand of any stranger, but that he should keep the letter in his hand till he came in the presence of the Emperor, and then he would take it from him out of his hands and deliver it to the Emperor ; which answer I told the General thereof, at which answer being not contented caused me to tell the secretary that if he might not deliver it himself he would return again to his lodging. Which second answer I told the secretary ; the which answer not thinking well thereof, was discontented with me in that I had not instructed him in the manners and custom of all strangers which had been yearly in this country ; and made me again to go to the General : the which I did, but the General being very much discontented, it so rested. At which time, presently, the Emperor came forth, and the General was brought before him : to whom the Emperor bid him welcome of so weary journey, receiving his Majesty's letter from the General by the hands of the secretary, etc. So the General departed his way, and I was called in : to whom the Emperor enquired of me of the King's Majesty of England, concerning his greatness and power, with divers other questions which were too long to write. Only at the last he bid me tell the General that what request he had, that he should make it known to me, or to go to his secretary ; he should be answered. Which answer I returned to the General. So the next day following, the General went with me to the secretary's house, with whom he made known his demands, the which being written, were carried before the Emperor. The which the Emperor read all his demands, and having read them, told me that he should have them, having much talk with me of his coming. I told him to settle a factory in his land. He asked me in what place. I told him, I did think not far from his court, or the king's court ; at which he seemed very glad. And having had much speech here and there he asked me, if part of his coming was not for discovery to farther parts to the northwestwards or northwards. I told him our country still doth not cease to spend much money in discovery thereof. He asked me whether there were not a way and whether it was not very short, or near. I told him we doubted not but there is a way, and that very near ; at which time called for a map of the whole world, and so saw that it was very near. Having speeches with me whether we had no knowledge of a land lying hard by his country on the north part of his land called Yedzoo (Jesso) and Mattesmay (Matsmai) I told him I did never see it put into any map nor globe. I told him it might be that the Worshipful Company would send some ship or other to discover. He told me that in the year of our Lord 1611, a ship was seen off this coast, on the east side, in latitude of 38° or thereabout ; whether that were any of our country's ships, I told him I thought it not. He told me again it could be no ship of the Spaniards going for Novo Spania : for this ship was seen in April, which time no ship goeth not from the Manillious. He asked me if I did desire to go that way. I told him if the Worshipful Company should desire such a thing, I would willingly employ myself in such an honourable action. He told me if I did go, he would give me his letter of friendship to the land of Yedzoo, where his subjects have friendship having a strong town and a castle, through which means have thirty days journey friendship with those people ; which people be, as I do gather, Tartars, joining to the great Cam, or borders of Cattay. Now in my simple judgment, if the northwest passage be ever discovered, it will be discovered by this way of Jappan, and so thus, with divers other speeches most friendly used by him, I took my leave of him. So the next day following the General made himself ready to go for Quanto, a province so called, where the king the Emperor's eldest son is resident, being distant from the Emperor's court some 42 leagues. To which place we went, having in four or five days finished according to the custom of the land, the General being very well entertained. So returned to the Emperor's court again ; at which place receiving the Emperor's commission and privileges, made our return for Ferando. Now concerning myself. Having despatched the general business, I did seek unto the Council to speak in my behalf to get leave to go home for my country ; but the secretary with no other would not speak for my liberty to go for my country knowing that I had divers times made suit and he would not let me go. So I nevertheless made myself somewhat bold, finding the emperor in a good mood, I took out of my bosom his broad seal concerning certain lands, and laid it down before him, giving his majesty most humble thanks for his great favour unto me, desiring leave to go for my country. At which request he looked earnestly upon me and asked me if I was desirous to go for my country. I answered most desirous. He answered if he should detain me he should do me wrong ; insomuch that in his service I had behaved myself well, with many other words of commendation, the which I leave. So I thank God, got my liberty out of my long and evil service. With this took my leave of him bidding me if I did not think well of going this year, I should tarry till other shipping came and go as I would, bidding me if I came up into the country to bring certain goods which he named, etc. So thus, I thank God, being not a little joyful, returned with the General to Ferando where the ship was. So about a 15 days of my abode in Ferando, it was the General's pleasure to call for me, the cape-merchant with others being in presence, having written certain lines upon a side of paper, calling me to account and to know of me what my intent was, whether I would go home with him or tarry here in this country. I answered him my desire was to go home to my country. He asked me now with him or no. I answered him I had spent in this country many years through which I was poor : for which case I was desirous to get something before my return. The reason was I would not go with him for divers injuries done against me ; the which were things to me very strange and unlooked for, which things [to] write I cease, leaving it to others to make relation thereof, etc. He asked me if I would serve the Company. I answered, yes, very willing. He asked me upon what condition, whether I would take the 20*l.* of gratis which the Worshipful Company had lent my wife and stand to their courtesy. First I do most humbly thank the Worshipful Company for this deed of Christian charity in the lending of my poor wife the 20*l.* If ever I be able I will make satisfaction for the profit thereof, and for the principal have here made satisfaction to General John Saris, taking the bill of exchange, which divers of my good friends had given their words for payment thereof, having their hands firmed, and I thank Almighty God that hath given me ability to make payment thereof. The time was many years in this country I have not been master of 20*s.* &c. I answered if I were in presence of the Worshipful Company I would stand to anything they should think good of ; but, in this place, was willing to have some certainty. [They] still urging me with the 20*l.* lent to my wife of gratis, and stand to the Company's good will, I answered as at the first again. They asked me what I would for a year. I told him I have never been hired by the year, but by the month. He told me the Company did not hire any man by the month, but by the year. I told him I was not willing to go by the year, but by the month. He asked me what I would ask a month. I told him of strangers, by whom I had been employed, did give me 15*l.* the month, but I demanded 12*l.* the month. Upon demand he bade me go out of the chamber a little while and he would call me again. So I went away and a little while afterwards he called me again and asked me if I was resolved. I told him as at the first, so he bid me the year 80*l.* I told him again, I would not. So in the end I told him not under 10*l.* the month I would not serve, alleging I was unwilling to put the Company to such a great charge because I did not see in Japan any profit to be made to quit such great wages, but rather to be free, for in respect of benefit I had divers means offered me, to be more to my profit, which the General knew of; desiring the General to let me be free and to take other offers which were more for my furtherance, and not to be here employed where I saw no profit come in. Thus in the end he profited (*sic*) me 80*l.* and the 20*l.* given me free which was lent my wife I answer him, no. So let me depart till the next day, at which time I promised to give him a resolute answer. So the next day, in the morning, sent for me again, whether I was resolved, I said, Aye, as afore. So he answered me, I did exact upon them to have them to give me what I list. I told him again my meaning was not so, for I could better myself a great deal more, only I was not willing to serve where, by my service, I could not win so much for my masters, for which cause only and nothing else. So demanding me still earnestly, proffered me 100*l.* the year, the which, in consideration I would not give discontentment but granted unto it. So upon this he did ask me how I would be paid it. I told him here in Japan. He said none in his ship did receive not above a third part before he came home; at which I answered it might be so but my case was otherwise, for I have promised my service no longer but till such time as God shall send the Clove into England, or answer of her arrival, and return of the Worshipful Company's answer, whether they will discover to the northwards, or not. Therefore for me to tarry so long and not to receive no wages here, I could not maintain myself with apparel and expenses without receiving some money to maintain myself in credit as hitherto I had done. So in the end granted me to lend me 20*l.* in the space of two years to buy me clothes, &c. So I agreed with. God grant his blessing upon my labours that I may be a profitable servant unto your Worships which I hope in Almighty God I shall be. Now concerning the discovery to the northward if it stand with your Worships' good liking, in my judgment never hath been better means to discover. My reasons : first, this kingdom of Japan with whom we have friendship, the Emperor hath promised his assistance, to give his letter of friendship to the country of Yedzoo and Mates-maye where his subjects are resident. Secondly, languages [*sic* languagers ?] that can speak the Corea and Tartar language, for Jappan languaged not to be reckoned. For shipping, if your Worships send not, yet may you have builded, or cause to be builded such ships or pinnace necessary for such a discovery, with less charges. Things are here good cheap, as timber, plank, iron, hemp and carpenters ; only tar here is none ; resin enough but very dear, and cloth for sails bad and somewhat dear. These things I have experience of because I have built two ships in this country for the Emperor, the one of them sold to the Spaniards upon occasion, and the other I sailed in myself upon divers voyages upon this coast. Now, the one of them that was sold to the Spaniards was upon this occasion : that a great ship of a 1,000 tons, which came from the Manilia, which was cast away upon this coast, wherein was the Governor of Manilia, to whom the Emperor lent her to carry him to Akapulca (Acapulco), a place in Nova Spaynia ; which ship they found so good as they never returned again, but sent so much money as she was worth, and afterwards (she) was employed in the voyages from Nova Spaynia to the Phillipines &c. So that nevertheless by my profession I am no shipwright, yet I hope to make such shipping as shall be necessary for any such discovery. Now men to sail in only excepted ; the people are not acquainted with our manner. Therefore, if your Worships have any such purpose, send me good mariners to sail with, and if you send but 15 or 20, or less, it is no matter, for the people of this land are very stout seamen, and in what voyage I shall go in I can have so many as I will. Now for victualling : here is in this land enough, and such plenty and so good cheap as is in England, as those that have been here can satisfy your Worships therein. So that I say again the wants be cordage, pouldaves and tar, pitch or resin and compasses, running glasses, a pair of globes for demonstration and some cards or maps containing the whole world. These things if your Worships do furnish me with you shall find me not negligent in such an honourable service, by God's grace. Thus much I have thought good to write to your Worships, being somewhat long in making the particulars apparent of this discovery, which discovery, I do trust in Almighty God, shall be one of the most famous that ever hath been, etc. Now concerning the great kindness which your Worships hath showed to me in lending my wife money, I do still crave your Worships' compassion, what money your Worships shall lend, by God's grace, I will make such satisfaction as shall be to your desire. Therefore I do again entreat your Worships to lend my wife 30*l.* or 40*l.* till it be the will of God I come home ; and either here to pay it, or elsewhere, as you shall command me. I do embolden myself to commend me unto your Worships, praying God Almighty to bless your Worships with continuance of His grace in health and prosperity, and in the life to come everlasting felicity. Amen.
 
 By your unworthy servant and unknown friend,  
-yet faithful to command till death
+    yet faithful to command till death
 
 William Addames.
 

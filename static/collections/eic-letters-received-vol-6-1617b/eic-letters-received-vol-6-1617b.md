@@ -721,8 +721,8 @@ I have not else to write your Honours by this despatch. I have been thus tedious
 Devotedly your Honours' servants,
 
 Edw. Connok.  
-Will. Tracy.  
-Will. Robins.
+    Will. Tracy.  
+        Will. Robins.
 
 At the enclosing of this packet, the King, being in banquet, hath again sent for me. Many graces hath he afforded ; large discourses of Christendom, of England in particular. He hath required me to provide him of these underwritten necessities by the coming of your next fleet. I could not but undertake it. Yours must be the performance; I beseech you fail not.
 
@@ -1155,7 +1155,7 @@ HONOURABLE and Right Worshipful, Our duties remembered, etc. You may please to b
 Your Worships' bound in duty,
 
 Laurence Walldo.  
-Hen. Christien, purser.
+    Hen. Christien, purser.
 
 *Addressed:* To the Honourable Knight Sir Thomas Smithe, Governor of the East Indya Company, and to the Worshipful the Committees, these with all speed in London.
 
@@ -1590,7 +1590,7 @@ Even now a China reported here [in] the house unto Mr. Powle that a Hollander be
 Thus at present not having further to enlarge, take leave and rest
 
 Yours to command,  
-Nicho. Ufflete.
+    Nicho. Ufflete.
 
 *Addressed:* To the Worshipful George Ball, Agent for the English Nation, dd. in Bantam.
 
@@ -1802,7 +1802,7 @@ May it please you per the next to send some ink and quills, of both which at pre
 The Flemings out of the Golden Lion hath landed here some two hundred fardles of Coast cloth.
 
 Thus at present not having further to enlarge, take leave and  
-rest                                    Yours to command,
+    rest                                    Yours to command,
 
 Nicho. Ufflete.
 
@@ -1859,7 +1859,7 @@ You may try Goga, Sindu,[^fn-p0198-4] Bengala, but no port so fit as Suratt, if 
 Thus, extreme faint and weary, and no help, I commit you all to God's direction.
 
 Your loving friend,  
-Tho. Roe.
+    Tho. Roe.
 
 The indico you mention of Barooch[^fn-p0199-4] being a coarse sort, though the Company made no difference, supposing it all to be Cerquese,[^fn-p0199-2] yet some they mention not worth 1s. a pound, which I fear may be it ; therefore you will advise well in that.
 
@@ -2429,7 +2429,7 @@ Thus in new hopes I rest a time; and so I must from writing, for I am not able s
 I commit you all to God's mercy.
 
 Your loving friend,  
-Tho. Roe.
+    Tho. Roe.
 
 The pearl I cannot advance to its own price; the model of the great, being of consequence in the sales, never sent, often required.
 
@@ -2450,7 +2450,7 @@ It is here reported that John Derickson Lambar,[^fn-p0274-1] commander, have tak
 Fifty butts of rack I have agreed for at 12 rials per butt, to be delivered here within this twenty days. Here is in the store-house ten butts of rack, fifteen kintalles of dried fish, and of gravances[^fn-p0274-2] 92 rials at 14 gantows[^fn-p0274-3] per rial. The Chenes by no means will deliver any rack at Bantam. If it please you to send cask within this seven or eight days, before the Dutch fleet come, I may, having ready moneys, provide you of a greater quantity. If you can stay but one month you may be furnished. Mr. Leucas[^fn-p0274-4] have sent me word to furnish him with fifteen butts, the which if it please you I may. Moneys I pray send as soon as you can, for here is none to be had by exchange. Our men that be here I will have a care that they shall not come in the Dutch companies, to avoid all strife; the boy I will have a care of him. I have sent you by the bearer hereof one bottle for ink. I pray remember some clothing for our people.
 
 Thus having no farther to enlarge, I take leave and rest  
-Yours to command,
+    Yours to command,
 
 Nicho. Ufflete.
 
@@ -2627,7 +2627,7 @@ Thus, fearing we have been over troublesome, we crave pardon for our boldness, a
 Your Worships' servants,
 
 Fran. Fetiplace.  
-Robert Hughes.
+    Robert Hughes.
 
 *Endorsed:* Agra, 20th of December, 1617. Francis Fettiplace and Robert Hughes to the Governor and Company.
 
@@ -2707,7 +2707,7 @@ RIGHT Honourable and Worshipful, My humble duty unto you remembered etc. May it 
 And thus for present, not knowing anything else to write you of, I end, praying to the Almighty God for all your good healths and p[rosperity], the which in His mercy long to continue, if it be [His good will] and pleasure, etc.
 
 [Your] Worships' servant,  
-[William Eaton].
+    [William Eaton].
 
 *Addressed :* To the Right Honourable and Worshipful the Governor and Deputy and rest of the Worshipful Assistants Adventurers in the Joint Stock [for] the East Indies, this be dd. in [London].
 
@@ -2888,7 +2888,7 @@ WORSHIPFUL Sir, My duty remembered, etc. My last to you of the 25th instant,[^fn
 For news, the Admiral of [the] French rideth ten leagues to the eastward [of] this place, and the Vice-admiral rideth on [the] backside of Hector island,[^fn-p0336-3] both of them very rich. The Fleming hath taken out of the Admiral seventeen men, and out of the Vice-admiral ten. Captain Dickers,[^fn-p0336-4] General of the French, the 28th instant at night came into this road with his boat and went aboard the Admiral of the Flemings, who as soon as he was come word was sent presently ashore to the Dutch General, who gave orders that Captain Dickers and his company should be stayed until the next morning. So the next day all the French that came in his company was discharged, and Captain Dickers with the Dutch retained. The 29th instant the Dutch General went to this King to take his leave, and presented him with twenty pieces cassas and two sakers with their carriages and [          ] furniture, as well powder as shot. The 30th instant the Dutch General set sail for the Molluccos in the Bantam, with six sail [          ]. This day arrived here in this port [          ] appertaining to the Vice-admiral of the [French], with whom I had some conference about their lading, who saith they have sixty great bales of fine clothing, viz., baftas, allejas, harrea, choutars, cassas, and cana-kees, and by their report all sorts of Guzaratt clothing; the rest of her lading is pepper. Likewise they report they have good store of ordnance which they will sell. Thus at present not having farther to enlarge, take leave and rest
 
 Yours to command,  
-Nicho. Ufflete.
+    Nicho. Ufflete.
 
 Not any rice to be had under twelve gantons per rial : and but a small quantity at that price to be had.
 
@@ -3746,7 +3746,7 @@ Here we tarried ten days and could get no manner of refreshing for our sick men,
 Thus, Right Honourable and Right Worshipful, having related what hath passed hitherto in this our voyage until present, being now ready to set sail from this place, craving pardon for any error unwillingly committed in writing, I humbly take my leave and rest
 
 Your Honour's and Worships' servant  
-ever to be commanded,
+    ever to be commanded,
 
 Na. Salmon.
 
@@ -3984,7 +3984,7 @@ in 1617
 [^fn-p0346-2]: (2) Cp. *The Embassy,* p. 405.
 [^fn-p0347-1]: (1) The curiosity shops of the day; cp. Ben Jonson's *Silent Woman*: 'To watch when ladies are gone to the China houses or the Exchange.' The Pawn was the name given to the part of the Royal Exchange which was occupied by shops. Cp. Du Bartas:
 
-    ' For costly toys, silk stockings, cambric, lawn,
+    ' For costly toys, silk stockings, cambric, lawn,  
     Here's choiceful plenty in the curious Pawn.'
 [^fn-p0347-2]: (2) Nearness to the Mogul's dominions.
 [^fn-p0348-1]: (1) Village. This—the Dutch form of our English 'thorp'—is often found in contemporary writers

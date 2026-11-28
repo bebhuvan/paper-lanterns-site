@@ -76,8 +76,7 @@ XVIII. <span class="small-caps">Critical Period (1874)</span> . . . . . . . 196
 
 XIX. <span class="small-caps">Second “Thoughts Out of Season” (1874)</span> . 205
 
-| <span class="small-caps">chapter</span> | <span class="small-caps">page</span> |
-| --- | --- |
+**<span class="small-caps">chapter</span> — <span class="small-caps">page</span>**
 
 XX. “<span class="small-caps">Schopenhauer as Educator</span>” . . . . . . 215
 
@@ -208,7 +207,7 @@ Unfortunately my brother's university duties prevented him from accepting this i
 “Your most faithful and reverential disciple and admirer,
 
 “<span class="small-caps">Dr. Fr. Nietzsche</span>,  
-“Prof. in Basle.”
+    “Prof. in Basle.”
 
 Early in June, my brother wrote to Erwin Rohde:
 
@@ -231,7 +230,7 @@ Early in June, my brother wrote to Erwin Rohde:
 “Now show yourself as you really are! As yet, my experiences with my German countrymen have not been altogether pleasurable. Therefore, come and rescue my faith in that which I, together with Goethe and a few others—call German liberty.
 
 “Cordial greetings from  
-“Yours sincerely,
+    “Yours sincerely,
 
 “<span class="small-caps">Richard Wagner.</span>”
 
@@ -341,7 +340,7 @@ But commissions of far greater importance than the inspection and purchase of Ch
 “It is snowing today and the effect is very good. On the whole, I am not good for much; catarrhal and abdominal pains frequently interrupt my Nornes at their weaving. And then again, I feel very well and am unalterable in my resolve to live to a high old age. This would mean terrifying printer's bills for me.
 
 “Most cordial greetings,  
-“Yours,
+    “Yours,
 
 “Tribschen, Dec. 3, 1869.
 
@@ -424,7 +423,7 @@ are to be struck off. I find that this will be sufficient for my present needs, 
 “In the meantime, Plato has again been called to the rescue. Yesterday we finished reading Theatos, and in February we mean to have a good look at Socrates and Euripides to which I look forward with delight. Therefore, be of good cheer like a real Prussian cavalryman!
 
 “Cordial greetings,  
-“Yours,
+    “Yours,
 
 “Tribschen, Jan. 16, 1870.
 
@@ -497,8 +496,8 @@ My brother’s answer to these two agitated and agitating letters must have been
 “But we must talk this all over. Therefore—I think—in short, you must come to Tribschen next Saturday. Your sleeping room, the ‘Gallerie,’ is ready and ‘Der Rauchfang ist Dir auch gewiss’ [^fn-p0064-2]—in other words: auf Wiedersehen!
 
 “With all my heart,  
-“Yours,  
-“R. W.”
+    “Yours,  
+        “R. W.”
 
 Not only Wagner, but also Frau Cosima, advised my brother to develop this dissertation on Socrates and the Greek Tragedy into a larger and more comprehensive work. My brother smiled at this suggestion, as a wealth of aesthetic problems and their solution had been fermenting in his mind for years, and he had only taken advantage of the two public lectures to work out a very small part of the material ultimately designed for a big work on the Greeks. It is very characteristic of Wagner, that despite his intimate relations with my brother, he could have made the mistake of believing that these two abbreviated lectures were only aperçus, so to speak, and that he should not have recognized the fact that they were fragmentary parts of collective experiences which could only have been assembled by years of close study and profound thought. Other persons fell into the same error, owing to the fact that my brother, notwithstanding his fluency in daily intercourse, rarely ever gave expression to his great new ideas and plans, but preferred to let them ripen quietly into maturity, before speaking of them. Whether my brother acted upon Wagner's suggestions and revealed to him something of his innermost plans, or whether he considered it too premature to discuss the matter even with his intimate friends,—we have no means of knowing, as his reply to Wagner's letter is unfortunately missing.
 
@@ -564,7 +563,7 @@ This will explain the satisfaction Wagner felt at having my brother return to Ba
 “I am working slowly but 'surely' on my music dramas and take great comfort in the thought that when I wrote my “*Meistersinger,*” I came in contact with the opera and the theatre for the last time.
 
 “Cordial greetings to you from  
-“Yours,
+    “Yours,
 
 “Tribschen, May 10, 1870.
 
@@ -603,7 +602,7 @@ The birthday festivities at Tribschen were uncommonly beautiful this year. Frau 
 > > “Farewell, and be of good cheer, by that I mean not according to modern, but ancient Greek ideas!
 >
 > “With heartfelt greetings,  
-> “Yours faithfully,
+>     “Yours faithfully,
 >
 > “Tribschen, June 4, 1870.
 >
@@ -890,7 +889,7 @@ Amusingly enough, my brother was also engaged in composing that autumn. He had b
 “Can you not get away some Saturday before we leave, which will be about the ninth of December? That would be delightful. As you know, I no longer give you a definite invitation and, therefore, you are spared all embarrassment in case you do *not* come.
 
 “With cordial greetings.  
-“Yours
+    “Yours
 
 “Nov. 26, ’71.
 
@@ -1017,7 +1016,7 @@ Wagner hardly knew how to explain my brother’s conduct as he had fully expecte
 “But you are ill! Are you also discouraged? If so, how gladly would I do something to dispel your despondency! How shall I begin? Are you not satisfied with my unqualified praise? Did I feel compelled to doubt this, I should be, indeed, miserable! Nevertheless, I can do no other than lavish my praise upon you. Accept it, at least, in a friendly spirit, even though it leave you unsatisfied!
 
 “Heartfelt greetings from  
-“Yours,
+    “Yours,
 
 “Tribschen, Jan. 10, 1872.
 
@@ -1145,7 +1144,7 @@ further—1 ‘*German Art and Politics*’ to Councillor of the Consistory, Her
 “I am very happy today and announce this to you, first of all, dear friend.
 
 “Many cordial greetings from  
-“Yours,
+    “Yours,
 
 “Lucerne, Evening of Feb. 5.
 
@@ -1659,7 +1658,7 @@ Baron von Gersdorff had been good enough to attend to the correspondence with Ba
 “Joyful Wiedersehen on October 31 (Feast of the Reformation) and all other good wishes.
 
 “A thousand heartfelt greetings,  
-“Yours,
+    “Yours,
 
 “Bayreuth, Sept. 21, 1873.
 
@@ -1891,7 +1890,7 @@ This is not difficult to understand if one keeps in mind that Wagner was engaged
 “Our own house will be ready in May, and then your room will always be at your disposal. I hope that sometime you will come here for a good, long rest; there are plenty of mountains nearby.—My wife will write very soon, at present she is suffering with her eyes. That seems to be the fashion now-a-days. Overbeck is the only one who pleases me because he does not wear glasses. Give him my best regards, but Gersdorff will always be revered as the absolute ideal.
 
 “Cordial greetings from  
-“Yours,
+    “Yours,
 
 “Bayreuth, Febr. 27, 1874.
 
@@ -1943,7 +1942,7 @@ Nevertheless!
 or yet: ‘if it must be’! Written the moment after your last letter arrived. More another time.
 
 “Cordial greetings from  
-“Yours
+    “Yours
 
 “Wahnfried, June 9, 1874.
 
@@ -2089,7 +2088,7 @@ High spirits also reigned in Bayreuth where Christmas was being celebrated for t
 “I am taking daily baths, because I can no longer endure the misery in my abdomen. Do you also bathe, and eat meat?
 
 “Heartfelt greetings from  
-“Yours faithfully,
+    “Yours faithfully,
 
 “Second Christmas Day, 1874.
 
@@ -2148,7 +2147,7 @@ But he could also manifest great impatience when approached with all sorts of ti
 > “I have now become a regular man of business; that is to say, a theatrical promoter. The thought makes me dizzy, not once in a while, but every day. We are leaving for Vienna day after tomorrow. Delightful thought! The only thing pleasant about it is the opportunity it gives me to play the Götterdämmerung excerpts for my wife. I imagine you receive frequent reports from Wahnfried. The most gratifying news that could come to me from Basle is that you are well.
 
 “Cordial greetings from  
-“Yours,
+    “Yours,
 
 “<span class="small-caps">Rich. Wagner.</span>”
 
@@ -2319,7 +2318,7 @@ Although the two letters which follow exist only in rough drafts, there is no re
 “In one of the very first letters you wrote me, however, you said something about your firm belief in *German freedom* of thought; and it is to this belief that I address myself today. It is only by keeping this in mind that I have found the courage to do what I have done.
 
 “With a full heart,  
-“Yours humbly,
+    “Yours humbly,
 
 “<span class="small-caps">Fr.</span> N.”
 

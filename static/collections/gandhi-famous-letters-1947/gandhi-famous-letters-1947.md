@@ -197,7 +197,7 @@ At the same time I admit the non-co-operation practised by the mass of people is
 But there is yet an escape from non-co-operation. The Mussalman representation has requested Your Excellency to lead the agitation yourself as did your distinguished predecessor at the time of the South African trouble. But if you cannot see your way to do so, non-co-operation becames a dire necessity. I hope Your Excellency will give those who have accepted my advice and myself the credit for being actuated by nothing less than a stern sense of duty.
 
 I have the honour to remain,  
-Your Excellency's obdt. servant.
+    Your Excellency's obdt. servant.
 
 (Sd.) <span class="small-caps">M. K. Gandhi.</span>
 
@@ -250,7 +250,7 @@ You can compel Mr. Lloyd George to redeem his promises. I assure you he has kept
 But this you cannot do unless you consider every Indian to be in reality your equal and brother. I ask for no patronage. I merely point out to you, as a friend, an honourable solution of a grave problem. The other solution, namely repression, is open to you. I prophesy that it will fail. It has begun already. The Government has already imprisoned two brave men of Panipat for holding and expressing their opinions freely. Another is on his trial in Lahore for having expressed similar opinions. One in the Oudh District is already imprisoned. Another awaits judgment. You should know what is going on in your midst. Propaganda is being carried on in anticipation of repression. I invite you respectfully to choose the better way and make common cause with the people of India whose salt you are eating. To seek to thwart their aspirations is disloyalty to the country.
 
 I am,  
-Your faithful friend,
+    Your faithful friend,
 
 M. K. <span class="small-caps">Gandhi.</span>
 
@@ -289,7 +289,7 @@ You will not mistake this for a movement of general boycott of foreign goods. In
 Of similar and equal importance is the campaign against drink. The liquor shops are an insufferable curse imposed on society. There never was so much awakening among the people as now upon this question. I admit that here it is the Indian Ministers who can help more than you can. But I would like you to speak out your mind clearly on the question. Under every system of Government, total prohibition so far as I can see will be insisted upon by the nation. You can assist the growth of the ever-rising agitation by throwing in the weight of your influence on the side of the nation.
 
 I am,  
-Your faithful friend,
+    Your faithful friend,
 
 M. K. <span class="small-caps">Gandhi</span>.
 
@@ -360,7 +360,7 @@ Hence this Non-violent Non-co-operation. I know we have not all yet become non-v
 I ask Your Royal Highness as an Englishman to study this movement and its possibilities for the Empire and the world. We are at war with nothing that is good in the world. In protecting Islam in the manner we are, we are protecting all religions; in protecting the honour of India, we are protecting the honour of humanity, for our means are hurtful to none. We desire to live on terms of friendship of equals both in theory and in practice, and we must continue to non-co-operate, *i.e.*, to purify ourselves till the goal is achieved I ask Your Royal Highness and through you every Englishman, to appreciate the view-point of Non-co-operation.
 
 I beg to remain,  
-Your Royal Highness' faithful servant,
+    Your Royal Highness' faithful servant,
 
 M. K. GANDHI.
 
@@ -455,7 +455,7 @@ I have no desire to cause you unnecessary embarrassment or any at all so far as 
 This letter is not in any way intended as a threat, but is a simple and sacred duty peremptory on a civil resister. Therefore I am aving it specially delivered by a young English friend, who believes in the Indian cause and is a full believer in non-violence and whom Providence seems to have sent to me as it were for the very purpose.
 
 I remain,  
-Your Sincere friend,
+    Your Sincere friend,
 
 M. K. <span class="small-caps">Gandhi.</span>
 
@@ -502,7 +502,7 @@ But I would fain avoid the further step. I would therefore ask you to remove the
 If, therefore, you cannot see your way to remove the Salt Tax and remove the prohibitions on private salt-making I must reluctantly commence the march adumberated in the opening paragraph of my letter.
 
 I am,  
-Your sincere friend,
+    Your sincere friend,
 
 M. K. GANDHI.
 
@@ -886,7 +886,7 @@ Your arrest of me, the communique you issued thereafter, your reply to Rajaji an
 You know I returned to India from South Africa at the end of 1914 with a mission which came to me in 1906, namely, to spread truth and non-violence among mankind in the place of violence and falsehood in all walks of life. The law of Satyagraha knows no defeat. Prison is one of the many ways of spreading the message, but it has its limits. You have placed me in a palace where every reasonable creature comfort is ensured. I have freely partaken of the latter purely as a matter of duty, never as a pleasure, in the hope that some day those that have the power will realise that they have wronged innocent men. I had given myself six months. The period is drawing to a close, so is my patience. The law of Satyagraha as I know it prescribes a remedy in such moments of trial. In a sentence, it is. ‘ Crucify the flesh by fasting ’. That same law forbids its use except as a last resort. I did not want to use it if I can avoid it. This is the way to avoid it, convince me of my error or errors, and I shall make ample amends. You can send for me or send some one who knows your mind and can carry conviction. There are many other ways if you have the will. May I expect an early reply ? May the New Year bring peace to us all.
 
 I am,  
-Your sincere friend,
+    Your sincere friend,
 
 M. K. GANDHI.
 
@@ -931,7 +931,7 @@ I have no mental reservation.
 I find that my letters to you are sent through the Government of Bombay. This procedure must involve some loss of time. As time is of the essence in this matter, perhaps you will issue instructions that my letters to you may be sent direct by the Superintendent of this camp.
 
 I am,  
-Your sincere friend,
+    Your sincere friend,
 
 M. K. <span class="small-caps">Gandhi</span>.
 
@@ -998,7 +998,7 @@ I have not attempted an exhaustive reply to the views and statements attributed 
 My last letter was written against time, and therefore a material paragraph went in as postscript. I now send herewith a fair copy typed by Pearey Lal who has taken Mahadev Desai’s place. You will find the postscript paragraph restored to the place where it should have been.
 
 I am,  
-Your sincere friend,
+    Your sincere friend,
 
 M. K. <span class="small-caps">Gandhi</span>.
 

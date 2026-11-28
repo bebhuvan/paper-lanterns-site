@@ -12,6 +12,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Leo Tolstoy (tr. Aylmer Maude)",
  "year": 1903,
  "archive_id": "essaysletters03tols",
@@ -327,27 +330,27 @@
   {
    "format": "epub",
    "file": "tolstoy-essays-letters-1903.epub",
-   "bytes": 357660,
-   "sha256": "4d617ad1c2065dd0eb4c1068de7eaad32453edcfd1224d00369e9f25136957e1"
+   "bytes": 357150,
+   "sha256": "7d2add1531177993347051cbea05d0baabc5dda9446f47c1636393209095202d"
   },
   {
    "format": "markdown",
    "file": "tolstoy-essays-letters-1903.md",
-   "bytes": 736561,
-   "sha256": "cb22136c539c8bc238982fe383ce5951d7dbfcfd5a67584066424b9c883b41ad"
+   "bytes": 736532,
+   "sha256": "fbf52f9d627f1a9bd0da17fda77fd187c406bcd4842bb1df4f0fa2b20f5e3754"
   },
   {
    "format": "tei",
    "file": "tolstoy-essays-letters-1903.tei.xml",
-   "bytes": 805618,
-   "sha256": "a8dd367cc7767de86767249a904af4cf34280caf0406b56ee41006cfeb872c2c"
+   "bytes": 805318,
+   "sha256": "4a0b3118abb62d144b4f6ceb265dc8b9d5e6ec353932e320b270f8db58c7e282"
   }
  ],
  "scan_base": "https://archive.org/download/essaysletters03tols/page/",
  "provenance": {
   "active_run_id": "canonical-20261116-132507",
-  "compiled_at": "2026-11-24T19:24:18Z",
-  "source_ast_sha256": "0f5b4d2d506dbb4b63f4e110e0d290a6b502d8d2bae95bcf08337495a8402e55",
+  "compiled_at": "2026-11-28T05:29:57Z",
+  "source_ast_sha256": "c5f3a00a2031be9494480e071f90c5c7cf69e0c440393e7273907205d5c27d8b",
   "hugo_renderer_version": "1.0.0"
  }
 }

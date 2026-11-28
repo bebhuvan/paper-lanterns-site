@@ -121,8 +121,7 @@ February 25, 1615–16 . . . . . . . . 58
 
 360. Sir Thomas Roe to Prince Khurram. May 1, 1616 . 101
 
-| PAGE |
-| --- |
+**PAGE**
 
 361. A copy in Persian of No. 360 . . . . . . 103
 
@@ -604,7 +603,7 @@ For the quantity of pepper that may be had here yearly I cannot say anything unt
 Until then I rest, with my duty remembered unto the Worshipful Committees, and commit you and them with your affairs to the tuition of the Almighty God.
 
 Your servant,  
-John Tucker.
+    John Tucker.
 
 *Addressed:* To the Honorable Knight Sir Tho. Smith, Governor of the Right Worshipful Company of Merchants trading to the East Indies, this dd. in London.
 
@@ -717,7 +716,7 @@ Ossakey in Japon, the 20th of February, 1615 [1616].
 MOST loving and kind friend Mr. Wickham, I commend me unto you, with desire of your good health as my own. You shall understand that since your departure I have sold away all the wax for 17 tayes the pecull, to be paid me half in hand and the other half three months hence; likewise I have sold away all my pepper for six tayes the pecull. I have sent by this bearer, the Dutch host['s] son of Miaco, a thousand tayes of Nagato plate to Captain Cock. I would have written you more at large, but I have no time. Only Oman's[^fn-p0080-1] mother takes on for her daughter and says I have sold away her daughter to one that will carry her out of the land of Japon, and in regard whereof she is minded to have me before Ingadon[^fn-p0080-2] about her. I wish that you nor I had never meddled with her, for that I am like to come in trouble about her. I have sent you her keremon[^fn-p0080-3] by this bearer, as also a cotabera[^fn-p0080-4] and a pot of painting which her mother hath sent her; likewise she hath sent you by this bearer a bundle of figs for a token. Your keremon that you left with my hosts of Miaco to dye for you is not as yet done, neither do I know when it will be done; but as soon as I can I will send it to you. Concerning the fans or anything else you would have me send you, write me word and I will do it. Sadedon[^fn-p0081-1] the King's secretary is dead, who died some ten days since, as it is reported. At present Ossakey is here on fire and there is seven streets already burnt, at least in them 500 houses, and still the fire is very vehement and is like to do much harm by the reason the wind is so big. It began some two or three streets from our host's house that now is. And thus for present, being in great haste, I end, committing you and your affairs unto the protection of the Almighty God.
 
 Resting always  
-Your loving friend to command,
+    Your loving friend to command,
 
 Wm. Eaton.
 
@@ -1069,10 +1068,10 @@ W. N.
 ALSOO wij ondergeschreven Commandeur ende de Presente Raeden mondelinghe gesproocken hebben met den Generael Samuel Castelton, d' welcke met zijne vier scheepen ende een Jacht ten ancker gecomen is geweest op de Reede van Poulowaij in Banda, ende dat den voorsz. Generael geswooren ende verclaert heeft bij seeckere acte[^fn-p0113-1] onder ons berustende d'jnwoonders vandt voorsz. Eijlandt Poulowaij met minste gheenderleij assistentie heeft gedaen van eenighe Ammonitie van oorlooghe, te weeten van cruijt, loot, Coegels, lonten, ofte eenighe stucken groff gheschut, noch oock veel min van Victualie ofte Volck aen d' selve gegeven te hebben, omme die vandt voorsz. Eijlandt van Poulowaij te helpen, assisteeren ofte t'selve tegens ons meede te helpen defendeeren. Soo ist dat wij onderges. Commandeur ende de Presente Raeden aen den voorsz. Generael Castelton belooft hebben ende belooven mits deesen de Engelsen opt voorsz. Eijlandt Poulowaij, in haere loge weesend, alle faveur te doen die ons mogelijck is ; mitsgaders henluijden met alle haere Coopmanschappen t' voorsz. Eijlandt Polowaij commende te veroveren vrij ende liber van daer te laeten vertrecken, met haer Jacht daer toe door den voorsz. Generael bij ons gelaeten. Ende het voorsz. Eijlandt niet veroverende sull de voorsz. Engelsen aldaer laeten blijven in sulcker manieren als die aldaer tegenwoordich zijn. Aldus gedaen ende gegeven opt Schip t' Waepen van Amsterd. deesen 26<sup>en</sup> Martio a<sup>o</sup> 1616.
 
 Jan Dirckz. Lam.  
-Gioan Vernadt.    Steuen Doensz. van Groenendijck.  
-J. D. Jonge.    Ghijsbrecht van Vianen.  
-Jan Roossengijn.    Adriaen van der Dussen.  
-Willem van Griensven.    Ths. Zuerius, 1616.
+    Gioan Vernadt.    Steuen Doensz. van Groenendijck.  
+        J. D. Jonge.    Ghijsbrecht van Vianen.  
+            Jan Roossengijn.    Adriaen van der Dussen.  
+                Willem van Griensven.    Ths. Zuerius, 1616.
 
 *Endorsed* : The Dutch relation concerning Captain Castleton and his proceedings in the Isles of Banda, &c., 1616.
 
@@ -1123,7 +1122,7 @@ All your good friends here, both hes and shes, are in good health and commend th
 I think it were good if you went to the King of Shasma with a present of wine and fishes, and offer him our service. I make account you have been with the King of Firando with the like before now. But at any hand lend no money. I wrote Mr. Eaton to bring some writing paper and paper for books; [put] him in mind thereof if he should forget it. Since your departure from Firando I received a roll of hard wax from Langasaque, the half whereof I sent to you in one of my former letters.[^fn-p0117-1] Here is speeches that the Emperor hath given the King of Firando leave to come back and that he will be here shortly. And so, with my hearty commendations to yourself and the rest of our good friends, I leave you all to the protection of the Almighty.
 
 Your loving friend at command,  
-Ric. Cocks.
+    Ric. Cocks.
 
 We have entertained a young man of Langasaque, called Pedro, for porter [at] one tay per month. He speaketh [Portu]guese and writeth Japons better than Gorezano.[^fn-p0117-2] I hope the mother of Woman [^fn-p0117-3] hath not troubled Mr. Eaton about her Co John.[^fn-p0117-4] Your jurebasso carried a pair of knives of mine with him, which Mr. Eaton gave me. I pray you bid him send them per first that cometh, for I do not mean to give them him.
 
@@ -1336,10 +1335,10 @@ Item, It is further agreed to lade aboard Nochoda Ligwan's[^fn-p0129-1] junk, no
 Item, That whereas the King of Siam having given express order to all his people and strangers of other nations trading into his country now resident in Siam that everyone dwelling upon the waterside should be at the proper charge for digging the river a fathom deep so far as their ground goeth, with making a quay before their said ground, and being a work generally begun by all people dwelling upon the waterside, it is agreed and concluded that provisions both of timber, bamboes, etc., should be bought by the English for the accomplishing of the said order, both in digging the river deeper with making of a quay, so far as the ground stretcheth upon the water's side, and also a new pager[^fn-p0129-2] to be made round about the ground, the old being rotten, not fitting for any defence.
 
 Per me Benjamin Farie.  
-Per me Jno. Johnson.  
-Per me George Savidge.  
-Per me Richard Pitt.  
-Edmond Sayers.
+    Per me Jno. Johnson.  
+        Per me George Savidge.  
+            Per me Richard Pitt.  
+                Edmond Sayers.
 
 *Endorsed :* The 15th April, 1616. A Court of Merchants held in Siam for adventuring to Camboya, and also freighting of a
 
@@ -1422,7 +1421,7 @@ Also you write me of the executing of some 200 persons at Saccay for making merc
 Your letters to Mr. Osterwick and Mr. Eaton I have delivered to their own hands. And so I commit you to God. Resting
 
 Your loving friend,  
-Ric. Cocks.
+    Ric. Cocks.
 
 *Kept till the 11th of May.*
 
@@ -1472,7 +1471,7 @@ Your Highness' noble nature will excuse my boldness and that I wait not on you m
 To do you service,
 
 Tho. Roe,  
-the English Ambassador.
+    the English Ambassador.
 
 *Endorsed:* A copy of a letter to the Prince Sultan Carronne, dated the first of May, 1616.
 
@@ -1779,7 +1778,7 @@ WE whose names are hereunderwritten, being by an orderly proceeding of the laws 
 In Soldania road, the 25th of June, 1616.
 
 Mathew Clifton.     + Wm. Harris his mark.  
-Arthur Pilliton.
+    Arthur Pilliton.
 
 *Endorsed as above. Also:* Consultations aboard the Charles for divers businesses and persons at Surratt, 1616.
 
@@ -1839,7 +1838,6 @@ THAT Wm. Nicolls, his sufficiency and language considered, he to be left chief f
 | 050 packs cotton wool, cost 536 ma., valued at . | 033 | 09 |
 | 99 sword hilts (Decan), at several prices, at . | 031 | 08 |
 | 664 ends irons, valued at . . . . . . | 225 | 10 |
-| tale | mass |  |
 | 29 fine whites, cost 657 ma. 16 pice, valued at | 041 | 01 |
 | Ready money | 605 | 03 |
 | 010 jars of butter, valued at | 042 | 08 |
@@ -2303,7 +2301,7 @@ I do likewise herein send you an inventory of all such goods as have been laden 
 I pray you pardon my brief writing at present. Mr. Nelsone desires you to be excused, for he undertaketh to write to the Captain[^fn-p0202-1] and myself to you, for time will not otherwise permit. The Lord prosper your proceedings.
 
 Your loving friend,  
-John Osterwick.
+    John Osterwick.
 
 Captain China hath sent for Mr. Eaton one jar of conserves, [one?] jar of neepe,[^fn-p0202-2] and one case or chest of bottles, which Mr. Ea[ton left] behind him.
 
@@ -2420,7 +2418,7 @@ We have set price of our best stamels and black cloths at 14 taies per tattamy a
 I know not what else to write, but leave you with your affairs to the holy protection of the Almighty.
 
 Your loving friend,  
-Ric. Cocks.
+    Ric. Cocks.
 
 *Kept till the* [14*th* ?] *ditto.*
 
@@ -2530,7 +2528,7 @@ I writ unto you by the Osiander, wherein I gave you to understand of such matter
 Mr. Rowe, Mr. Tatton,[^fn-p0221-2] with the rest are in good health ; only it hath pleased God to take away Mr. Baielie, with two other of the Thomas her company and one of the Advice. And thus for this present, with my best wishes for your health and happiness and commendations to that small remainder that there doth know me, I commit you to the protection of the Almighty; resting
 
 Your Worship's to command,  
-John Osterwick.
+    John Osterwick.
 
 *Endorsed:* Received this letter the first December, 1616.
 
@@ -2557,7 +2555,7 @@ And thus for this present we commit you to the protection of the Almighty ; rest
 Your loving friends,
 
 William Nealson.  
-John Osterwick.
+    John Osterwick.
 
 *Addressed :* To our loving friend the Principal for the English nation resident in Patania, dd. this.
 
@@ -2590,7 +2588,7 @@ And thus for this present we commit you and your affairs to the protection of th
 Your loving friends,
 
 William Nealson.  
-John Osterwick.
+    John Osterwick.
 
 *Addressed:* To their loving friend Mr. Benjamin Fairey, Captain and Cape Merchant of the English factory at Syam, dd. these.
 
@@ -2983,7 +2981,7 @@ That [^fn-p0257-1] they are to give every harvest some petty ma[tter ?], as the 
 In Bantam, the 29th of October, 1616.
 
 Jno. Jourdayn.      George Ball.  
-George Barklie.      Ralph Coppindall.
+    George Barklie.      Ralph Coppindall.
 
 *Endorsed:* A true copy of a commission received at Bantam for a voyage to Banda, 1616. *And in another hand:* Commission given at Banda unto the Swan and Defence unto Banda, 1616.
 
@@ -3302,10 +3300,10 @@ And so till next we commend you to God and to His merciful protection, not witho
 Your loving friends to command,
 
 Edw. Connok.  
-Tho. Barker.  
-Geor. Pley.  
-William Bell.  
-William Tracy.
+    Tho. Barker.  
+        Geor. Pley.  
+            William Bell.  
+                William Tracy.
 
 Pray show not this letter but to the discreetest sort.
 
@@ -3404,7 +3402,7 @@ Thus with my prayers unto the ever living Lord to bless and keep you in all your
 Yours truly to power,
 
 Edward Willmott,  
-P [urser].
+    P [urser].
 
 I most heartily salute the ball of clay,[^fn-p0311-2] Mr. Johnson, Mr. Pitt, John Ferres, with all our countrymen in general.
 
@@ -3455,7 +3453,7 @@ In case we find you molested by Portingales at our coming, we then will make you
 So thus again with my hearty well wishes I commend me unto you and to your ship's company, and us all to the Lord's merciful protection.
 
 Your ever true loving friend,  
-Edw. Connok.
+    Edw. Connok.
 
 I have found this Governor of Jasques, Meere Tasside, an honest Moor. I pray you respect him accordingly, for we shall have great use of him. And forget not our commendations to Captain Fewgers and our merchants aboard you, to whom at this time we have no occasion to write. I pray you remember the wretched estate of our rusty sword-blades.
 
@@ -3723,9 +3721,9 @@ Since the writing of the former of our letter we understand that the Lord Ambass
 And thus not having at present whereon further to enlarge, we humbly take our leaves, committing you and the good success of your honourable designs to the protection and guidance of the Almighty; in hope whereof we rest.
 
 Subsigned by  
-Tho. Kerridge. Tho. Barker.  
-Jno. Browne. Tho. Mittford.  
-Robt. Gipps.
+    Tho. Kerridge. Tho. Barker.  
+        Jno. Browne. Tho. Mittford.  
+            Robt. Gipps.
 
 ### Letter 81: Benjamin Farie → Richard Cocks
 
@@ -3888,8 +3886,8 @@ Thus fearing we have been over tedious (which hereafter by oftener advice we wil
 At your Lordship's command,
 
 Thomas Kerridge.  
-Thomas Barker.  
-Tho. Mitford.
+    Thomas Barker.  
+        Tho. Mitford.
 
 Surratt, the 23rd July, 1616.
 
@@ -3987,24 +3985,7 @@ Aboard the James in Swallye Road, the 7th November, 1616.
 
 RIGHT Honourable, . . . .[^fn-p0383-2] We have much desired to send your presents, but other important business (as also the expectation of your answer) deferred our resolution until the receipt of your last, and were then dispeeding the James for Jasques, which to effect the 2nd present I went to Swally, and for other men's unreadiness was there detained (for his despatch) until the 8th ; in which time I viewed the presents and resolved to have brought them with me, but in the interim understood the Customer intended to open them and to take such as he liked for the Prince his master, which caused me to defer their landing for a further promise from the Governor, etc., who the day of my departure Surrat were returned from that journey, whereof in a former I certified you.
 
-With this resolution I returned to Suratt with two chests of money, having only in my company two factors and a couple of the ship's company for conduct of the said money ; and coming near the river, it drawing towards night, being on horseback I outstripped the rest to provide a boat for our transportation, and found two at the shore's side, wherein other people were newly entered, but by no persuasion would stay for our transport over. About a guary[^fn-p0383-3] after, the rest of my company arrived with the money, when we holloaed and shot off our pieces, yet a long time could have no reply. At the last some answered there was no licence for our passage, and arguing the case (so well as the distance permitted) we resolved for the safety of our money to seek a lodging in some village adjacent ; but seeing by our light we departed, they holloaed us again, whereupon we attended long in hope, to as little purpose as before. So one of the sailors desired to swim over the river to advise our people of our being there, and on that shore met the preacher's boy and another, who of their own accord took a boat and bringing it over were presently pursued by a couple of boats full of armed men, who with pieces and arrows shot at them and coming near fell to blows ; whereupon (their boats being somewhat near our shore) I, fearing some mischief to be done on our people by the multitude, waded into the river to part them and, the better to appease their fury, voluntarily entered their boats and commanded our people to the shore, proffering myself to go to the Governor to understand and argue the cause of this difference ; which they were contented with. But in my passage over a third boat (likewise armed), understanding me to be there, some of their chiefs entered the boat where I was and abused me with very despiteful and reproachful terms, as dog, infidel, and the like, using me desperately as if I should not have lived to have spoken in mine own cause, took off my shash[^fn-p0384-1] and bound my hands behind me ; whereat for the time I remained silent. And being landed at the Governor's stairs, I found him sat with all the chiefs and a multitude of attendants in arms ; before whom demanding reason of these insolences and affronts and relating the manner of my coming and usage, he gave me little reason of the cause, other than the wilfulness of his people (at whom he railed and seemed to be greatly grieved and offended), covered my head with his Pambre,[^fn-p0384-2] which I refused. In which interim, at my first coming to their presence some others reviled me, and amongst the rest the present Customer, being armed, disgracefully and unmanlike thrust me with his bow, and notwithstanding the Governor's rebuke (almost to opposition) he still insisted with threats, and I, ignorant of the least cause, could have no reason or audience. Whereat the Governor entreated me to accept a convoy to our house, which accepting, by the way (to my greater amazement) I saw at least
-
-> **[verse_insert: What triumph crowds the rich Divan to-day]**
->
-> " What triumph crowds the rich Divan to-day  
-> With turban'd heads of every hue and race,  
-> * * * *  
-> Like tulip-beds of different shapes and dyes,  
-> Bending beneath th' invisible West wind's sighs ! "
->
-> " The ' Merchant-town's ' fair market-place,  
-> Where over many a changing face  
-> The pigeons of the temple flit,  
-> And still the outland merchants sit  
-> Like kings above their merchandise,  
-> Lying to foolish men and wise."
-
-200 horse and I think 2,000 foot in arms; and coming home I found our people (some eight or ten in number) standing upon their guard, the rude multitude beating at our doors and throwing stones, whereof inquiring, they related the cause as followeth:
+With this resolution I returned to Suratt with two chests of money, having only in my company two factors and a couple of the ship's company for conduct of the said money ; and coming near the river, it drawing towards night, being on horseback I outstripped the rest to provide a boat for our transportation, and found two at the shore's side, wherein other people were newly entered, but by no persuasion would stay for our transport over. About a guary[^fn-p0383-3] after, the rest of my company arrived with the money, when we holloaed and shot off our pieces, yet a long time could have no reply. At the last some answered there was no licence for our passage, and arguing the case (so well as the distance permitted) we resolved for the safety of our money to seek a lodging in some village adjacent ; but seeing by our light we departed, they holloaed us again, whereupon we attended long in hope, to as little purpose as before. So one of the sailors desired to swim over the river to advise our people of our being there, and on that shore met the preacher's boy and another, who of their own accord took a boat and bringing it over were presently pursued by a couple of boats full of armed men, who with pieces and arrows shot at them and coming near fell to blows ; whereupon (their boats being somewhat near our shore) I, fearing some mischief to be done on our people by the multitude, waded into the river to part them and, the better to appease their fury, voluntarily entered their boats and commanded our people to the shore, proffering myself to go to the Governor to understand and argue the cause of this difference ; which they were contented with. But in my passage over a third boat (likewise armed), understanding me to be there, some of their chiefs entered the boat where I was and abused me with very despiteful and reproachful terms, as dog, infidel, and the like, using me desperately as if I should not have lived to have spoken in mine own cause, took off my shash[^fn-p0384-1] and bound my hands behind me ; whereat for the time I remained silent. And being landed at the Governor's stairs, I found him sat with all the chiefs and a multitude of attendants in arms ; before whom demanding reason of these insolences and affronts and relating the manner of my coming and usage, he gave me little reason of the cause, other than the wilfulness of his people (at whom he railed and seemed to be greatly grieved and offended), covered my head with his Pambre,[^fn-p0384-2] which I refused. In which interim, at my first coming to their presence some others reviled me, and amongst the rest the present Customer, being armed, disgracefully and unmanlike thrust me with his bow, and notwithstanding the Governor's rebuke (almost to opposition) he still insisted with threats, and I, ignorant of the least cause, could have no reason or audience. Whereat the Governor entreated me to accept a convoy to our house, which accepting, by the way (to my greater amazement) I saw at least 200 horse and I think 2,000 foot in arms; and coming home I found our people (some eight or ten in number) standing upon their guard, the rude multitude beating at our doors and throwing stones, whereof inquiring, they related the cause as followeth:
 
 We having a long time purposed (for the better order in our house, as calling our people to prayers, etc.) to set up a small bell of some eight pounds weight, the carpenter of the admiral presented me with a small frame in form of a turret, about the bigness of a ship's lanthorn, which at my last being aboard (having some other business of his own) he carried up with him, and with advice of Mr. Leske[^fn-p0386-1] did set it on the outside of our common hall or meeting-place, which is a part of the same house wherein (at your being here) you lodged. It being thus set up (myself absent) the Cutwall[^fn-p0386-2] came to know what it meant; which having understood, he returned to the Governor with answer; whereat the whole multitude gathered and made an outcry to the Governor that their town was lost, and that infidels had taken possession thereof, alleging that the sign of the cross (which was nothing but a small vane with the Company's mark[^fn-p0386-3]) was an especial token of victory and winning the town. Which the Governor slighting, some of the chiefs (who were the first motives of this idle bruit) with the whole multitude flocked to his house, exclaiming against him, and said he had received a bribe from the English to betray the town; and then by circumstances brought him almost to believe there was some such intent of assault, and that the bell was set there for a watchword to give the alarum. Whereupon he with them ordained the Cutwall to pull it down, who coming to our house with some forty or fifty shot and an unaccustomed guard put our people in doubt and resolution to defend, yet permitted the Cutwall's entrance and entreated him kindly; but others rushing after him, swords were drawn for defence, they forced out and the doors shut. The Cutwall then in some fear delivered his message by way of entreaty for the pulling down of the bell, which our people with good terms desired might be deferred until my coming home to satisfy their doubts or perform their desires, with which answer he returned, and the Governor was reasonably satisfied. But the Magolls, who are his competitors in government and of more violent disposition, viz. Isacke Beage the Shawbender (our archenemy) and his brother Salley Beag the Divon, with the rest were impatient at this refusal, and by proclamation laid great penalty on our servants, forbidding them and all others our house. Whereupon towards night Mr. Leske went to the Governor and iterated what was delivered the Cutwall. He entertained him kindly and promised to revoke the proclamation; yet before they parted, distasting some comparisons, he arose from Mr. Leske in choler; about which instant it was my unhappy chance to arrive at the river's side. These last words settled a jealousy in the Governor and caused his misapprehension, which, malignantly and cunningly prosecuted by our foresaid enemies, intimated my coming to take the town; which also by the unadvised bringing of the boat confirmed him in that belief, and brought me to that exigent beforementioned.
 
@@ -4039,7 +4020,7 @@ And with our prayers for your continual happiness, with the remembrance of our d
 At your Lordships' command,
 
 Tho. Kerridg.  
-Tho. Rastell.
+    Tho. Rastell.
 
 Surratt, the 18th November, 1616.
 
@@ -4808,9 +4789,22 @@ Surratt, the 19th November, 1616.
 
     *tulippe* and *tulipan* [the *duliphos* of Gervase Markham], the English word tulip. Compare the passage in the First Canto of *Lalla Rookh* :—
 
+    " What triumph crowds the rich Divan to-day  
+    With turban'd heads of every hue and race,  
+    * * * *  
+    Like tulip-beds of different shapes and dyes,  
+    Bending beneath th' invisible West wind's sighs ! "
+
     ' In India—as, indeed, in all Eastern countries, particularly Mahometan—great is the veneration for the turban as a symbol of virility, authority, and worship ; and the greatest indignity and insult that can be done a man is to pull off his turban. This is shown, in the most interesting way, by the numerous phrases in which the word *pagri* is used metaphorically, such as "*pagri-bandhna,*" literally " to bind round [cf. the Hebrew *kávash,* Ex. xxix. 9 ; Lev. viii 13] the turban," but meaning metaphorically, " to raise up to place," " power," " honour " ; *pagri-utarna,* literally " to overturn, to [violently] lift, to knock off, the turban," *i.e.,* " to cast down from pride of position," " dismiss from preferment," " abase," " disgrace," " humble," " shame " ; and *pagri-chapatna,* " to snatch off the turban," *i.e.,* " to cheat," " over-reach," " bilk," " diddle," and otherwise " meanly swindle " a victim.
 
     ' The turban of a Mahometan may, strictly, only be removed by himself, or his wife, and is always kept in a receptacle used for no other purpose, which she contributes to the furnishing of her husband's house on their marriage. Mahometans also consider it disrespectful to stand before a superior, or, in formal praise and prayer, before God with the head unturbaned ; and a turban is always placed at the head of the graves of male Turks. If a Mahometan gentleman stumbles in walking, his first thought is to keep his turban on his head ; and if he falls, and it rolls off, everyone rushes toward it with the shout," Lift up the *Crown of el Islam,*" while the poor owner of it is left sprawling in the dust. Hindus readily lay their turbans at the feet or on the lap of those they may be supplicating as superiors, or capitulating to as con-querors. Both among Hindus and Mahometans an intricate symbolism is observed in the form and colour of the turban, and it is the only article of dress proper which conspicuously and unmistakably indicates the nationality and religion, and caste (Hindu) and sect (Mahometan), of the wearer. This effective ritual is the simple explanation of the chromatic glory of the high shadowed streets of the great native polytechnical cities of Western India, such as Surat, Ahmadábád, and Baroda, and, in the great European emporium of many-languaged Bombay, of Bazaar Street :—
+
+    " The ' Merchant-town's ' fair market-place,  
+    Where over many a changing face  
+    The pigeons of the temple flit,  
+    And still the outland merchants sit  
+    Like kings above their merchandise,  
+    Lying to foolish men and wise."
 
     The costume of the East is everywhere dignified and graceful ; but its crown of grace and dignity is the turban ; and nowhere is the magic of this superlative headdress so potent and splendid as in the seaboard Indian cities of Bombay and Surat.'
 [^fn-p0386-1]: (1) See p. 82.

@@ -54,10 +54,10 @@ To the complete success which, under Divine Providence, crowned the wise and vig
 Having thus, I presume, satisfactorily established your Lordship’s public claim to the present humble tribute, it only remains for me to shew, that you possess still another title to it, which though of a private nature, is equally imperative upon me, as the compiler of the following sheets: for if that tribute would have been due to your Lordship from any person whatsoever, who might have casually obtained possession of the documents composing this work, and have anticipated me in the publication of them, how much more is your Lordship entitled to receive such an acknowledgement from one, who is, in fact, indebted for his materials to the official situations in which he had the honor of being employed under your Lordship’s administration in India?
 
 I have the honor to be,  
-With the highest respect,  
-M<span class="small-caps">y</span> LORD,  
-Your Lordship’s most obedient  
-and most faithful servant,
+    With the highest respect,  
+        M<span class="small-caps">y</span> LORD,  
+            Your Lordship’s most obedient  
+                and most faithful servant,
 
 WILLIAM KIRKPATRICK.
 
@@ -240,7 +240,6 @@ Although I could present the reader with a table, exhibiting the names of every 
 | 44 | جام *Jám*.......... | شتا *Shetá*........ | 1790-1. |
 | 45 | آدم *Adam*......... | زبرجد *Zuburjud*.... | 1791-2. |
 | 46 | ولي *Wuly*......... | سحر *Sehr*......... | 1792-3. |
-| Year of the Cycle. | Name according to the First Scheme. | Name according to the Second Scheme. | Corresponding with A.D. |
 | 47 | والي *Wály* . . . . . . | ساحر *Sáhir* . . . . . . | 1793-4. |
 | 48 | کوکب *Kaukub* . . . . . . | راسخ *Rásikh* . . . . . . | 1794-5. |
 | 49 | کواکب *Kuwákib* . . . . . | شاد *Shád* . . . . . . | 1795-6. |
@@ -325,8 +324,7 @@ Letter. Page.
 
 25 — Bûrhânûddeen - - - - - - - - —
 
-| Letter. Page. |
-| --- |
+**Letter. Page.**
 
 26 *To* Meer Kumrûddeen - - - - - - - - 40
 
@@ -404,8 +402,7 @@ Letter. Page.
 
 63 — Chishty Yâr Khân - - - - - - - - 83
 
-| Letter. Page. |
-| --- |
+**Letter. Page.**
 
 64 *To* Mohyûddeen Ali Khân, *Dewán of Kurpah* 84
 
@@ -703,8 +700,7 @@ Letter. Page
 
 208 — Budrûz Zumân Khân - - - - - - - 242
 
-| Letter. Page. |
-| --- |
+**Letter. Page.**
 
 209 *To* Meer Moaala Khân - - - - - - - - 243
 
@@ -813,7 +809,6 @@ Letter. Page
 | 276 — Mahommed Mehdy, *Bukhshy of Ehshám at Putn* - - - - 303 |
 | 277 — Ghûlâm Hûsain, *at Aurungábád, and others* (Circular) - - - 304 |
 | 278 — Bûrhânuddeen - - - - - - - - 306 |
-| Letter. Page. |
 
 279 *To* Meer Moaayenûddeen - - - - - - - - 307
 
@@ -965,8 +960,7 @@ Page.
 
 351 — *the Kilaadâr of* Seringapatam - - - - - - 391
 
-| Letter. Page. |
-| --- |
+**Letter. Page.**
 
 352 *To* Bûrhânûddeen - - - - - - - - - 393
 
@@ -1038,8 +1032,7 @@ Page.
 
 386 — Mohyuddeen Ali Khân (*Dewán of Kurpah*), Chishty Yâr Khân, Râjah Râm Chundur, Nursia, *and others (Circular)* - - 436
 
-| Letter. Page. |
-| --- |
+**Letter. Page.**
 
 387 *To* Abdûl Hukeem Khân - - - - - - - - - 437
 

@@ -926,12 +926,12 @@ Filippov, before he left for Sebastopol, gave me twenty-five roubles. He left th
 I should like to have written much more; but so much time has gone by that even this letter was somewhat difficult to write. But it really cannot be that our relation is altered in any respect. Kiss your children. Can they remember Uncle Fedya at all? Greet all acquaintances—but keep this letter a dead secret. Farewell, farewell, dear fellow! You shall hear from me again, and perhaps even see me. Yes— we shall most certainly see one another again! Farewell. Read attentively all that I write to you. Write to me as often as possible (even if officially). I embrace you and all yours more times than I can count.
 
 Thy  
-<span class="small-caps">DOSTOEVSKY.</span>
+    <span class="small-caps">DOSTOEVSKY.</span>
 
 P.S. Have you received my children's story,[^fn-p0095-1] that I wrote in the fortress ? If it is in your hands, don't do anything with it, and show it to no one. Who is Tschernov, that wrote a “ Double ” in 1850 ? Till next time !
 
 Thy  
-<span class="small-caps">DOSTOEVSKY.</span>
+    <span class="small-caps">DOSTOEVSKY.</span>
 
 ### Letter 22: D. → Mme. N. D. Fonvisin
 
@@ -955,7 +955,7 @@ I would rather not say anything more about it. And yet I don't know why certain 
 Do write me a line, N. D. I am now going to a veritable desert, to Asia, and there, in Semipalatinsk, it seems to me that all my past, all memories and impressions, will leave me ; for the last human beings whom I still had to love, and who were like a shadow of my past, will now have to desert me. I get so dreadfully quickly used to people, and grow into my environment so tenaciously, that I never can tear myself away, when the time comes, without great pain. I wish for *you,* N. D., that you may live as happily and as long as possible ! If we ever meet again, we shall learn to know one another afresh, and each of us may perhaps still have many happy days. I live in constant expectancy ; I am always rather ill now, and I feel that soon, very soon, something decisive must happen, that I am nearing the crucial moment of my whole life, am ripe for anything that may come—and that perhaps something tranquil and bright, perhaps something menacing, but in any case something inevitable, closely impends. Otherwise my whole life would be a failure. Perhaps it has all been but a sick delirium! Farewell, N. D., or rather au revoir; we'll hope, won't we? that we *shall* see one another again!
 
 Your,  
-D.
+    D.
 
 P.S. For goodness' sake forgive this untidy, greasy letter! But on my sacred honour, I can't write without erasures. Don't be cross with me.
 
@@ -1069,7 +1069,7 @@ Read this my prayer, but do not call me poor-spirited. I have suffered much, and
 With deepest respect and the sincere thanks of a Russian,
 
 I remain  
-Your Excellency's most devoted servant,
+    Your Excellency's most devoted servant,
 
 <span class="small-caps">Fyodor Dostoevsky.</span>[^fn-p0124-1]
 

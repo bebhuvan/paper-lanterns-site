@@ -351,26 +351,26 @@
   {
    "format": "epub",
    "file": "voltaire-in-his-letters-1919.epub",
-   "bytes": 232662,
-   "sha256": "e27d1b04e56362ef463918edece1532ec3f43988ff3e66ca1c0a8259fa364a0b"
+   "bytes": 232713,
+   "sha256": "b04bfb7c7750984dfe8ce9a175a7c4a09b863762e594dec62f016f4dd14a42ad"
   },
   {
    "format": "markdown",
    "file": "voltaire-in-his-letters-1919.md",
-   "bytes": 367691,
-   "sha256": "32c2855c7b0db30c1704958b989c81e42c9d20a0b9169f1d87fb202ba3afe650"
+   "bytes": 367611,
+   "sha256": "82bb29bea41afcd15cd91bdaa85e22405ce0a4ef08bca2530d3fddc22c3d0b6a"
   },
   {
    "format": "tei",
    "file": "voltaire-in-his-letters-1919.tei.xml",
-   "bytes": 451588,
-   "sha256": "1b210e79638fcd8f26993208cebd0141a958ef62f9eedb0a41cc561e6cda6811"
+   "bytes": 451596,
+   "sha256": "e4c49e1079ff4b06affe098907d1e0ec0a1097c13d2bf89c17b453bb32db124a"
   }
  ],
  "scan_base": "https://archive.org/download/voltaireinhislet00voltrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-27T03:44:32Z",
+  "compiled_at": "2026-11-28T05:30:48Z",
   "source_ast_sha256": "e7a0b96832af559254bef61017db1c1ef4d8ea61efb27279a6605029848c9d4d",
   "hugo_renderer_version": "1.0.0"
  }

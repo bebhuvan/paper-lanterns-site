@@ -13,6 +13,6 @@
   "essays" (index $sec "essays") "lectures" (index $sec "lectures") "speeches" (index $sec "speeches")
   "people" (len site.Data.people)
   "decades" (len $decades)
-  "first" (cond (lt (int $first.decade) 1000) (printf "AD %ds" (int $first.decade)) (printf "%ds" (int $first.decade)))
-  "last" (printf "%ds" (int $last.decade))
+  "first" (partial "decade-label.html" $first.decade)
+  "last" (partial "decade-label.html" $last.decade)
 -}}

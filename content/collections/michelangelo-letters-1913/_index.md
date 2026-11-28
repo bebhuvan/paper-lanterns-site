@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Michelangelo Buonarroti, Robert W. Carden (tr. & ed.)",
  "year": 1913,
  "archive_id": "michelangeloreco00mich_0",
@@ -24,7 +27,7 @@
   "pages": 390,
   "dated_letters": 213
  },
- "provenance_tier": "machine_checked",
+ "provenance_tier": "community",
  "quality": {
   "score": 100.0,
   "out_of": 100.0,
@@ -55,7 +58,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 0,
+  "flagged": 3,
   "blockers": 0
  },
  "proof": {
@@ -470,14 +473,14 @@
   {
    "format": "epub",
    "file": "michelangelo-letters-1913.epub",
-   "bytes": 287645,
-   "sha256": "722681b0919a531901b50eee3caa25ee43fb45c1ec4cbb088f2946bcd072a8fc"
+   "bytes": 287700,
+   "sha256": "c187b1da2a8ef06e3f592ee84ba6a992dcf3950f479722dcf985e3dc86b5b6ca"
   },
   {
    "format": "markdown",
    "file": "michelangelo-letters-1913.md",
-   "bytes": 543674,
-   "sha256": "29ef32050b9f70e07ad5586d1e37e8117f0fb7aac0bd450adcf4f4b6cd912cac"
+   "bytes": 544898,
+   "sha256": "7cca8b97206f8641728d6eea5a395d4f2ceaee0229b196d65fba0bb3c1924b6c"
   },
   {
    "format": "tei",
@@ -489,8 +492,8 @@
  "scan_base": "https://archive.org/download/michelangeloreco00mich_0/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-24T19:22:50Z",
-  "source_ast_sha256": "340124fe1120c83f40d3dec16551aece3b9fb005ba8dcb12d2ddfa51853bf2fb",
+  "compiled_at": "2026-11-27T21:13:29Z",
+  "source_ast_sha256": "6cfcb3e35a51f943695847623a86f6f7e5467043955ef17774d9fae6f2e7c31a",
   "hugo_renderer_version": "1.0.0"
  }
 }

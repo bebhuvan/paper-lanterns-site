@@ -660,8 +660,8 @@ But please don’t mind my babble. Frau Schumann is asleep over in the other roo
 Good-bye, and we request that you will kindly live to be very, very old.
 
 <span class="small-caps">Elisabet Herzogenberg</span>.  
-Signed: <span class="small-caps">Heinrich von Herzogenberg</span>.  
-<span class="small-caps">Fillu</span>.[^fn-p0050-2]
+    Signed: <span class="small-caps">Heinrich von Herzogenberg</span>.  
+        <span class="small-caps">Fillu</span>.[^fn-p0050-2]
 
 ### Letter 15: Johannes Brahms → Elisabet von Herzogenberg
 
@@ -1215,10 +1215,10 @@ Oh yes, there are all sorts of ghosts haunting our rooms, and we are superstitio
 [<span class="small-caps">Pörtschach</span>, *September* 14, 1878.]
 
 *Frau Puck,*  
-    *Tradesman’s wife,*  
-        *Klagenfurt*  
-            *Burggasse*  
-        *(at Emperger’s, the Baker’s.)*
+    *Tradesman’s wife,*  
+        *Klagenfurt*  
+            *Burggasse*  
+                *(at Emperger’s, the Baker’s.)*
 
 This is the address as I have it from our postmistress.[^fn-p0091-1] Kindest regards, also thanks for your letter and for my pleasant visit (I am thanking the young lady in the same breath).
 
@@ -1703,8 +1703,8 @@ You have always written it in this way. What brings you to this idiotic question
 #### *72. Elisabet von Herzogenberg to Brahms.*
 
 <span class="small-caps">Berchtesgaden</span>,  
-c/o ‘<span class="small-caps">Zimmermeister</span>’ <span class="small-caps">Brandner</span>,  
-*July 11, 1880.*
+    c/o ‘<span class="small-caps">Zimmermeister</span>’ <span class="small-caps">Brandner</span>,  
+        *July 11, 1880.*
 
 <span class="small-caps">My very dear Friend</span>,—Is it true, as we hear through the paper (indirectly, for we never open one ourselves), that you are not well ?[^fn-p0128-1] We can hardly believe it, for it is not at all like you; but I must ask, so as to be ready to let loose all the flood of sympathy I hold ready at your disposal. I should grieve more for you when not very well than for others downright ill, for you are such a complete stranger to illness—lucky man !—and would certainly be a bad patient.
 

@@ -16,6 +16,9 @@
  "publisher": "The Macmillan Company",
  "default_sender": "Fyodor Dostoevsky",
  "default_sender_source": "Title page (scan leaf 7)",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Fyodor Dostoevsky (tr. Ethel Colburn Mayne)",
  "year": 1914,
  "archive_id": "lettersoffyodorm00dostrich",
@@ -387,26 +390,26 @@
   {
    "format": "epub",
    "file": "dostoevsky-family-friends-1914.epub",
-   "bytes": 323782,
-   "sha256": "ce90944f7538e858c9817ba6d4e21d8361900698a78ffc35a4f038c023b047f2"
+   "bytes": 323865,
+   "sha256": "ae7d70b96c0973dc8314c68b050a6a8c0e9b3702e1fa31dc24e91de7073b274a"
   },
   {
    "format": "markdown",
    "file": "dostoevsky-family-friends-1914.md",
-   "bytes": 587106,
-   "sha256": "b720bb0dbf092ebe4544d5dd65d59f2b8e4e9618f322b0a8ab930d8f240467a2"
+   "bytes": 587138,
+   "sha256": "c3d26d5fb99881c7a504e9624b74151c38ba296fe5c25beac3d857520991d54f"
   },
   {
    "format": "tei",
    "file": "dostoevsky-family-friends-1914.tei.xml",
-   "bytes": 688897,
-   "sha256": "c455d21c5f1ba8f3cf7587de521ca4829d99d789e46b5a2a71f8ab8b1de44f45"
+   "bytes": 688953,
+   "sha256": "501b851a636a95230012ff905bde2906cdbc4a1d45fac0e20b5f22186b4e4d52"
   }
  ],
  "scan_base": "https://archive.org/download/lettersoffyodorm00dostrich/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:21:29Z",
+  "compiled_at": "2026-11-28T05:27:08Z",
   "source_ast_sha256": "5790d4705c9060051803b6fdfad9e6e19fc28794fe2b83efc026057badd42a43",
   "hugo_renderer_version": "1.0.0"
  }

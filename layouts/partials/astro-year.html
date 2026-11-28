@@ -1,0 +1,3 @@
+{{- /* Format an astronomical integer year (0 = 1 B.C., -365 = 366 B.C., 64 = 64) for human display. */ -}}
+{{- $y := int . -}}
+{{- return (cond (le $y 0) (printf "%d B.C." (sub 1 $y)) (printf "%d" $y)) -}}

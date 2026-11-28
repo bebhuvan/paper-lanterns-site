@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Rabindranath Tagore, C. F. Andrews (ed.)",
  "year": 1928,
  "archive_id": "letterstofriend00tago",
@@ -288,8 +291,8 @@
   {
    "format": "epub",
    "file": "tagore-letters-to-a-friend-1928.epub",
-   "bytes": 196668,
-   "sha256": "0a66c4cf2311cf035d3dac3c9c5ff40c735a64659fb9b6e9c7e1b715d2ac3578"
+   "bytes": 196711,
+   "sha256": "6798049cefae63b0fa94dc273b54bbf91cfed63309f89e15459b654ba66e4423"
   },
   {
    "format": "markdown",
@@ -300,14 +303,14 @@
   {
    "format": "tei",
    "file": "tagore-letters-to-a-friend-1928.tei.xml",
-   "bytes": 394061,
-   "sha256": "d94a19acbc793464ac5cb5d225e6f92317eafbfb2140c6498873e43538c895c8"
+   "bytes": 393875,
+   "sha256": "facd3bc97b3c0b86cc648477ec59cc770e7cd526e77b1207e2c95318369311fe"
   }
  ],
  "scan_base": "https://archive.org/download/letterstofriend00tago/page/",
  "provenance": {
   "active_run_id": "canonical-sonnet55-batch-v1",
-  "compiled_at": "2026-11-24T19:24:11Z",
+  "compiled_at": "2026-11-27T21:17:40Z",
   "source_ast_sha256": "c872c163ee7d8ed6a5307f75910fb0826037e525674939c4b3c4d7fa3808c931",
   "hugo_renderer_version": "1.0.0"
  }

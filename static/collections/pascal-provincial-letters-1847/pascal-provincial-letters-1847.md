@@ -2475,13 +2475,13 @@ Lie the remains of <span class="small-caps">Blaise Pascal</span>, son of Stephen
 ### Notes
 
 [^fn-p0514-1]: (*) Nicole translated the Provincials into Latin, under the title, ‘ Litteræ de Morali et Politicâ Jesuitorum disciplinâ.’
-[^fn-p0525-1]: (*) “ Within this hallowed ground—from early youth
-    “ His fond retreat—great champion of the Truth,
-    “ Rests Arnauld; all his well-fought contests o’er,
-    “ Long tossed by storms, now reached a peaceful shore :—
-    “ Though in the exile’s land his bones are laid,
-    “ From this loved spot kind memory never strayed ;
-    “ And lo! his Heart, on love’s swift pinions flies,
+[^fn-p0525-1]: (*) “ Within this hallowed ground—from early youth  
+    “ His fond retreat—great champion of the Truth,  
+    “ Rests Arnauld; all his well-fought contests o’er,  
+    “ Long tossed by storms, now reached a peaceful shore :—  
+    “ Though in the exile’s land his bones are laid,  
+    “ From this loved spot kind memory never strayed ;  
+    “ And lo! his Heart, on love’s swift pinions flies,  
     “ And calmly in this sacred precinct lies.”
 [^fn-p0531-1]: (*) In the midst of this polemical war, which at last became so deadly in its spirit, and so fatal in temporal consequences to the suffering Jansenists, Nicole once complained of weariness to his friend, and expressed a wish for some rest from the toils of controversy. “Rest!” impetuously exclaimed Arnauld, whose untiring labours were attested, as has been seen, in the preceding memoir, by the largest posthumous productions that were, perhaps, ever left by man—“ will you not have time enough for rest in eternity?”
 [^fn-p0531-2]: (†) The Duchess de Longueville was the daughter of the illustrious Prince de Condé. In early life she was distinguished for her beauty, and held a prominent place in the circles of fashion. She also took a warm part in politics, and signalized herself as a partizan on the popular side, against the Court party, in the contentions of the Fronde, encouraging the troops, and employing herself in making favours and decorations for the officers. She became devotedly pious, and attached herself ardently to the principles of Jansenius and the fortunes of the Port Royalists.
@@ -2498,9 +2498,9 @@ Lie the remains of <span class="small-caps">Blaise Pascal</span>, son of Stephen
 [^fn-p0552-1]: (*) In another copy on parchment—“ Certitude, joie, certitude, sentiment, vue, joie.”
 [^fn-p0552-2]: (†) St. John ch. xvii. ver. 25.
 [^fn-p0552-3]: (‡) Idem, ver. 3.
-[^fn-p0552-4]: (§) The parchment copy has these lines in addition :—
-    “ Soumission totale à Jésus Christ et à mon directeur.
-    “ Eternellement en joie pour un jour d’exercise sur la terre. *(a)*
+[^fn-p0552-4]: (§) The parchment copy has these lines in addition :—  
+    “ Soumission totale à Jésus Christ et à mon directeur.  
+    “ Eternellement en joie pour un jour d’exercise sur la terre. *(a)*  
     “ Non obliviscar sermones tuos. Amen.”
 
     *(a)* In the margin is the following Note in the writing of the Abbé Perier ;—“ On n’a pu voir distinctement que certains mots de ces deux lignes.”

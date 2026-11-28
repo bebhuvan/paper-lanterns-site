@@ -139,7 +139,7 @@
         <correspAction type="received"><persName>Mrs. Meynell</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0029">
-        <correspAction type="sent"><persName>SYDNEY SMITH</persName><date>Undated</date></correspAction>
+        <correspAction type="sent"><persName>SYDNEY SMITH</persName></correspAction>
         <correspAction type="received"><persName>Grandchild</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0030">
@@ -1199,7 +1199,7 @@
         <correspAction type="received"><persName>Miss J—— H——</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0294">
-        <correspAction type="sent"><persName>George Meredith</persName><placeName>193 Piccadilly, London, W.</placeName><date>193 Piccadilly, London, W.</date></correspAction>
+        <correspAction type="sent"><persName>George Meredith</persName><placeName>193 Piccadilly, London, W.</placeName></correspAction>
         <correspAction type="received"><persName>Miss J—— H——</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0295">
@@ -1390,30 +1390,7 @@
 <p rend="heading">NINETEENTH CENTURY LETTERS</p>
 <pb xml:id="page-8" n="8"/><p rend="heading"><hi rend="smallcaps">The Modern Student's Library</hi><lb/><hi rend="smallcaps">Published by</hi> CHARLES SCRIBNER'S SONS</p>
 <milestone unit="section" rend="ornament"/>
-<list><item>THE ORDEAL OF RICHARD FEVEREL
-    By George Meredith.
-THE HISTORY OF PENDENNIS.
-    By William Makepeace Thackeray.
-THE RETURN OF THE NATIVE.
-    By Thomas Hardy.
-BOSWELL'S LIFE OF JOHNSON.
-ADAM BEDE.
-    By George Eliot.
-ENGLISH POETS OF THE EIGHTEENTH CENTURY.
-THE RING AND THE BOOK.
-    By Robert Browning.
-PAST AND PRESENT.
-    By Thomas Carlyle.
-PRIDE AND PREJUDICE.
-    By Jane Austen.
-THE HEART OF MID-LOTHIAN.
-    By Sir Walter Scott.
-THE SCARLET LETTER.
-    By Nathaniel Hawthorne.
-BUNYAN'S PILGRIM'S PROGRESS.
-THE ESSAYS OF ROBERT LOUIS STEVENSON.
-NINETEENTH CENTURY LETTERS.
-THE ESSAYS OF ADDISON AND STEELE.</item></list>
+<list><item>THE ORDEAL OF RICHARD FEVEREL<lb/>    By George Meredith.<lb/>THE HISTORY OF PENDENNIS.<lb/>    By William Makepeace Thackeray.<lb/>THE RETURN OF THE NATIVE.<lb/>    By Thomas Hardy.<lb/>BOSWELL'S LIFE OF JOHNSON.<lb/>ADAM BEDE.<lb/>    By George Eliot.<lb/>ENGLISH POETS OF THE EIGHTEENTH CENTURY.<lb/>THE RING AND THE BOOK.<lb/>    By Robert Browning.<lb/>PAST AND PRESENT.<lb/>    By Thomas Carlyle.<lb/>PRIDE AND PREJUDICE.<lb/>    By Jane Austen.<lb/>THE HEART OF MID-LOTHIAN.<lb/>    By Sir Walter Scott.<lb/>THE SCARLET LETTER.<lb/>    By Nathaniel Hawthorne.<lb/>BUNYAN'S PILGRIM'S PROGRESS.<lb/>THE ESSAYS OF ROBERT LOUIS STEVENSON.<lb/>NINETEENTH CENTURY LETTERS.<lb/>THE ESSAYS OF ADDISON AND STEELE.</item></list>
 <p rend="imprint">Each small 12mo. 75 cents net.</p>
 <p rend="imprint"><hi rend="italic">Other volumes in preparation.</hi></p>
 <pb xml:id="page-9" n="9"/><p rend="heading">NINETEENTH CENTURY<lb/>LETTERS</p>

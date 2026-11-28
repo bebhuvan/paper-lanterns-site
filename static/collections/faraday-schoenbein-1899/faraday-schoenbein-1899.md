@@ -193,7 +193,7 @@ Before closing this letter, I take the liberty to ask you a favo[u]r. Our Establ
 Excuse my long letter and accept kindly the assurance of my being
 
 Yours  
-very truly
+    very truly
 
 Bale Nov. 26th 1836.
 
@@ -242,7 +242,7 @@ The last number of the “Bibliothèque universelle”[^fn-p0044-1] contained a 
 Begging your pardon for having repeatedly intruded upon you a badly written letter, I take the liberty of calling myself
 
 Yours  
-very truly
+    very truly
 
 Bale Dec. 26th 1836.
 
@@ -267,7 +267,7 @@ Will you do me the favour to express my sincere and humble thanks to the Society
 With regard to your paper for the Royal Society. I do not want to read it, being anxious to acknowledge your letters by to nights post and the time is almost gone
 
 I am My dear Sir  
-Your obliged and faithful Servant
+    Your obliged and faithful Servant
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -288,7 +288,7 @@ If you approve therefore I will alter the wording of those parts which require i
 With respect to the Magneto electric machine I inquired at Newmans the price of them: I found those of full size were 12 Guineas by themselves and 14 Guineas with the different apparatus required to heat a wire, shock the system, decompose water etc. If you approve the price I will order one; but send me word how it shall be addressed.
 
 I am (in haste) my dear Sir  
-Very truly Yours obliged
+    Very truly Yours obliged
 
 <span class="small-caps">M. Faraday.</span>
 
@@ -327,8 +327,8 @@ I have been doing nothing lately i. e. I have been labouring in the ordinary thi
 Wishing you all health and strength and happiness.
 
 I am  
-My dear Sir  
-Your very faithful servant
+    My dear Sir  
+        Your very faithful servant
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -393,7 +393,7 @@ I am glad to find the Magneto-electric machine pleases you now that it has been 
 And now my dear Sir good-bye for the present. You cannot think how much each letter of yours tantalizes me for they all make me wish I had known you a little sooner. It is now just about two years since I and my wife were at Bâle for a day or two on our return home from Switzerland to England. Whether I shall ever see the continent again or not I cannot say
 
 I am My dear Sir  
-Yours most sincerely
+    Yours most sincerely
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -424,7 +424,7 @@ The french papers have been talking for some time about a discovery (said to hav
 You will oblige me very much by forwarding in a way most convenient to you the inclosed parcel to its place of destination.
 
 Believe me ever to be  
-Yours very truly
+    Yours very truly
 
 C. F. <span class="small-caps">Schoenbein</span>.
 
@@ -441,7 +441,7 @@ From a series of experiments lately made by me with the view of ascertaining the
 All the cases above stated, where currents are observed, independent of any chemical change, can easily be explained by applying to them the same principle, by means of which we have accounted for the current produced by nitric acid and peroxide of lead etc. Having already passed the usual limits of a letter, I add only one more observation to my former, and I have done. According to my experiments peroxide of silver proves to be the most powerful means for exciting in iron its peculiar voltaic condition. It surpassed in this respect even the peroxide of lead. An iron wire, for instance, one end of which is covered with only a small particle of the first-mentioned substance will not be attacked either by nitric acid of any degree of dilution or by a solution of blue vitriol. The voltaic association of one substance with the other is easily effected by connecting one end of an iron wire with the positive electrode of a pile and by plunging for a few minutes the other end of the wire into a solution of nitrate of silver. I am just about to write a paper on that interesting subject.
 
 I am my dear Sir  
-Your's very truly
+    Your's very truly
 
 Bâle Dec 31. 1837.
 
@@ -466,7 +466,7 @@ I have been working very hard lately on Induction. I have sent two papers to the
 Again I must have yours. For the present in haste
 
 I am My dear Sir  
-Your obliged and faithful friend
+    Your obliged and faithful friend
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -483,7 +483,7 @@ Dr. Brabant whose agreeable and interesting acquaintance I made at Bâle is the 
 You are, no doubt, now aware of the attacks[^fn-p0073-2] recently made by Mr. Fechner[^fn-p0073-3] upon your theory of the pile. I have abready tried to answer some of his objections in Poggendorff’s Annalen[^fn-p0073-4] and have also written a paper for the Phil. Magazine[^fn-p0073-5] which is in the parcel addressed to Mr. Taylor.[^fn-p0074-1] I am confident, however, that you yourself will, before long, appreciate the facts which have been brought forward by Mr. F. and declared by him to be irreconcilable to the very first principles of the chemical theory of galvanism[^fn-p0074-2] and I must not conceal from you, that the scientific public in Switzerland and Germany are rather impatiently waiting for a refutation of Fechner’s assertions on your part. Believe me to be
 
 Yours  
-very truly
+    very truly
 
 Bâle, June 14th 1838.
 
@@ -540,7 +540,7 @@ Having just now returned from a trip into the Alps ta[ken] during our holidays I
 You will lay me under many obligations by sending me your late papers on induction. Having got once a communication of yours by the means of the Royal Society I think this channel will be sure enough.
 
 Believe me to be  
-sincerely Yours
+    sincerely Yours
 
 C. F. <span class="small-caps">Schoenbein.</span>
 
@@ -557,8 +557,8 @@ My right hand having been a little injured lately by some accidental cause, you 
 As an acquaintance of mine is on the point of leaving Bâle to go to London, I make use of the favo[u]rable opportunity to tell you in a few words, that some weeks ago I observed some voltaic phenomena which I think to be entirely novel and rather of great importance to our favo[u]rite science. Being just now occupied with drawing up for you a paper in English which is to contain a detailed account of my results,[^fn-p0079-1] I will not enter at present into particulars and confine myself to stating the general fact, that fluid compound bodies being at the same time electrolytes are capable of assuming a peculiar state, which I term their electrical polarisation; because such a fluid in that condition possesses the power to produce a voltaic current quite by itself i. e. without the assistance of any chemical action going on between the fluid and a metallic body. The inferences which a fact of such an extraordinary nature allows to draw with respect to Chemistry in particular are very, as you will easily conceive, very interesting.
 
 I have only yet time to call myself  
-Yours  
-very truly
+    Yours  
+        very truly
 
 Bâle 15. Septbr. 1838.
 
@@ -587,7 +587,7 @@ Having drawn up a paper, in which all my observations regarding the voltaic pola
 You have shown, that weak currents can pass through electrolytes, without decomposing them; but are we to infer from such a fact, that a current incapable of electrolysing acts in no way whatever upon the electrolytic body? Is it not probable, that the current in question has so much power as to turn all the hydrogen-sides of the molecules of muriatic acid towards the negative electrode and the Chlorine sides towards the positive one, and is it not allowed to suppose, that the current weakens at the same time the affinity of the constituent parts of the electrolyte for each other? Now if we admit such a state of things and if it be further supposed that the effect does not immediately cease with its cause, we can, I think, rather easily conceive the way in which the secondary current is produced by the polarized muriatic acid. The particles of Chlorine and Hydrogen composing a molecule of acid will as soon as the current of the pile ceases circulating through the fluid, begin to act upon each other, i. e. enter again into their primitive state of intimate combination. Now such an action being of a chemical nature, a current must be produced by it, as to its direction precisely of the kind as observed. Though I must allow, that my hypothesis is rather bold, yet I cannot conceive another and I am inclined to think that neither the chemical theory of Galvanism nor that of Volta can easily account for the enigmatical phenomenon. Will you be so kind and let me have your views about the strange fact? Before passing to another subject I must not omit to tell you, that it is not only muriatic acid, which is capable of being voltaically polarized, other electrolytic fluids for instance the hydrate of sulphuric acid have the some property. — The controversy about the source of current electricity produced by the common voltaic arrangement is still continued in Germany and there is in that country an obvious leaning towards the views of Volta. The arguments, however, brought forward in favo[u]r of that Theory are, to my opinion at least, by no means such as to be called decisive ones. Mr. Pfaff, for instance thinks the fact, that a current is excited by muriatic acid acting upon chloride of sodium or by a pile charged with an aqueous solution of sulphate of zinc chemically pure, as quite irreconcilable with the principles of the chemical theory.[^fn-p0082-1] I must confess, that it is beyond my power to conceive, how objections of such a kind can be raised in earnest by such a distinguished philosopher, as Mr. Pfaff is. Will you not come forward and take part in the contest? We must indeed, stick closely together, if we are not to be overpowered, and considered as beaten by our antagonists. At the meeting of the german association at Fribourg I had an opportunity of reconnoitering the field.
 
 I am my very dear Sir  
-Yours most truly
+    Yours most truly
 
 <span class="small-caps">C. F. Schoenbein.</span>
 
@@ -618,7 +618,7 @@ As to your recent researches on electric induction I am also almost completely u
 Before closing my letter I take the liberty to recommend to you its bearer Mr. Iselin, he is an excellent young man and belonging to a highly respectable family of Bâle.
 
 I am my dear Sir  
-Yours most truly
+    Yours most truly
 
 Bâle Febr. 18 1839.
 
@@ -701,8 +701,8 @@ Your important discoveries regarding the intimate connexion which exists between
 I hope your stay in the country will have entirely reestablished your health and enabled you to resume your wonted scientific occupations. I am now left alone in Bâle, my family having gone into the mountains of the Jura to spend the summer there; as soon, however, as the vacations will have begun, I shall join them. A six week’s living on the heights of the Jura and breathing the pure air of the hills would, perhaps, do you a great deal of good; can you not manage it to come over to us? I should be exceedingly happy, if I could ramble about with you in our valleys und wander in your company from one crag to another.
 
 Entertaining the pleasing hopes of seeing you sooner or  
-later I am my dear Sir  
-Your’s most sincerely
+    later I am my dear Sir  
+        Your’s most sincerely
 
 C. F. <span class="small-caps">SCHOENBEIN</span>.
 
@@ -723,7 +723,7 @@ I shall be most anxious for your researches especially those bearing upon the ne
 I hope you are now in excellent health and all your family. I never think of the time when I was in Bâle a few years ago without regret since being there I did *not* see you.
 
 I am My dear Sir  
-Your faithful Snt.
+    Your faithful Snt.
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -770,7 +770,7 @@ Bearer of these lines Mr. Bachofen[^fn-p0096-3] Juris Doctor of Bâle a friend o
 Pray remember me most friendly to Mrs. Faraday and believe me to be
 
 Yours  
-most sincerely
+    most sincerely
 
 Bâle Dec. 17th 1839.
 
@@ -852,7 +852,7 @@ My dear Faraday allow me to repeat my former request and permit me to readvise y
 Pray remember me most friendly to your Lady and let me have before long good tidings from you.
 
 Believe me, my dear Faraday  
-yours faithfully
+    yours faithfully
 
 Bâle April 4th 1840.
 
@@ -879,7 +879,7 @@ Your doubts of Groves[^fn-p0106-1] announcement of a definite transfer of matter
 I am most grateful for your very kind expressions. They encourage and cheer me when I feel low. Understand me, I mean your kind expressions as a friend and after my health which in the whole is pretty well. But the memory goes. Your friend Mr. Bachofen has been here and I hope enjoyed himself you know that I should not make company for him, for my retiring habits are likely to increase rather than diminish and it is for those I already know, amongst which you are a principal one, that I wish to keep my thoughts. I am ever
 
 My dear Schœnbein  
-Your obliged and faithful friend
+    Your obliged and faithful friend
 
 <span class="small-caps">M. Faraday.</span>
 
@@ -898,8 +898,8 @@ Berzelius[^fn-p0107-1] wrote me the other day and invited me to continue my rese
 I have not yet seen abstracts from your late paper on the source of voltaic electricity in the german scientific periodicals. Is it perhaps not yet published? The germans and Poggendorff at the head of them are getting daily deeper involved into the meshes of the contact-theory. I am rather anxious to see your recent results made known in my country as soon as possible. If you could send me a copy of it I would myself translate the memoir and make some proper comments upon its contents.
 
 Pray pay my best respects to Mrs. Faraday and believe me  
-Yours  
-most sincerely
+    Yours  
+        most sincerely
 
 Bâle Dec. 20th 1840.
 
@@ -926,7 +926,7 @@ Neither have I read much lately so that I seem quite out of the knowledge of thi
 But I must conclude. My wife desires to be friendly remembered to you and hopes that all yours are well. We both desire your happiness.
 
 Ever my dear Schœnbein  
-Yours faithfull
+    Yours faithfull
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -953,7 +953,7 @@ Though I have not been altogether idle this winter I have done very little in th
 I am very sorry to tell you, that your last papers have not yet reached Bâle which makes me fear that they are lost. Pray remember me kindly to Mrs. Faraday and believe me
 
 Your’s  
-most faithfully
+    most faithfully
 
 Bâle April 8th 1841.
 
@@ -974,7 +974,7 @@ I must write you but a short note for I feel the need of doing all to procure re
 As to science I know nothing of its progress at present; hereafter perhaps. In the mean time I feel the good affect of rest and am, when resting, well in health and happy in thought.
 
 Ever My dear Schœnbein  
-Yours affectionately
+    Yours affectionately
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -993,7 +993,7 @@ Zug 7. Septr. 1841
 I write from this place to say that we expect to be at Bâle in our very rapid passage homewards on Monday or Tuesday next, but are not sure. If you will have your papers ready I will call on you as soon as we arrive. I hope we shall find you, Madame Schœnbein and the family quite well and hope you will make our best respects. We have been pretty well on or Journey, but just now some of us are suffering from bad colds. I think however they are leaving us. We have been round to Bienne, Berne, Thun, Brientz, Interlaken, Grindelwald, Hospenthal, Lucerne etc. including the Wengernalps, the Gemmi, the Grimsel etc. and now must go home. Trusting to find you happy, active and well I am
 
 My dear friend  
-Yours Ever
+    Yours Ever
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -1030,7 +1030,7 @@ I write a very hasty note in reply to your kind letter by Mr. Forbes to say we a
 I know nothing of scientific matters and have not looked at a Journal yet. I have nothing to write you and am ashamed to send you this letter and would not do it, *making you pay double postage*, but that you have desired it
 
 Ever My dear friend  
-Truly yours
+    Truly yours
 
 <span class="small-caps">M. Faraday.</span>
 
@@ -1053,8 +1053,8 @@ As to both the subjects I was fortunate enough to ascertain a series of novel fa
 Mrs. Schœnbein is quite well and charges me with her best compliments to you and Mrs. Faraday
 
 Believe me  
-Yours  
-most sincerely
+    Yours  
+        most sincerely
 
 Bâle, April 9 1842.
 
@@ -1063,7 +1063,7 @@ C. F. <span class="small-caps">SCHOENBEIN</span>.
 Pray be so kind to forward the parcels inclosed to their respective destinations, by such an act of kindness you will very much oblige
 
 Your  
-friend S.
+    friend S.
 
 * * *
 
@@ -1082,8 +1082,8 @@ Having of late worked a good deal again on that subject I have ascertained some 
 Some time ago I took the liberty to send you by an acquaintance of mine five copies of a work on England[^fn-p0118-3] asking you at the same time the favo[u]r to forward them to their respective places of destination. I entertain the flattering hopes that the remarks which the author of the said book has ventured to make on your account will not have proved in any way unpleasant to your feelings. You will easily recognize in the publication alluded to the pen of a friend of yours and of a friend who feels most warmly for you. Mrs. Schœnbein unites with me in her best regards to you and Mrs. Faraday and begs me to remember her friendly to her friends in Albemarl[e]-Street
 
 For ever  
-Yours  
-most faithfully
+    Yours  
+        most faithfully
 
 Bâle July 8th 1842.
 
@@ -1136,8 +1136,8 @@ A few days ago I returned from a trip which I took into the south of Germany dur
 My wife and Children are quite well with the exception of my eldest daughter who fell ill of nervous fever two or three weeks ago. We have however reason to hope that she will recover. The good Child recollects you perfectly well, even in her illness, and Mrs. Schœnbein continues to think you the most amiable of all philosophers she ever met with in her life, which opinion I do, of course, not combat at all. I flatter myself that Mrs. Faraday has not forgotten Mrs. Schœnbein and does still reckon her amongst the number of her friends. Pray remember me most friendly to her and be so kind to tell her that Mrs. Schœnbein is very anxious to make her personal acquaintance. We must therefore go with our wives to the Black Forest.
 
 In concluding my letter, I beg you to believe me  
-Yours  
-most faithfully
+    Yours  
+        most faithfully
 
 Bâle Aug. 22. 1842.
 
@@ -1168,7 +1168,7 @@ Peltier’s[^fn-p0127-4] expts and views of the relation of the earth and space 
 You really hold out very tempting pictures of the Black forest etc. etc. etc. but none more tempting than the hearty pleasure of seeing you and Mrs. Schœnbein and the children — to *all* remember us very kindly. But this year will not see us out of Britain, and Scotland will be the farthest place we shall go to. There, family friends have looked for years for us and I doubt whether even they will see us this year after all. Again with heartiest feelings of remembrances to you and Mrs. Schœnbein from *us both*.
 
 I am My dear friend  
-Gratefully Yours
+    Gratefully Yours
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -1221,8 +1221,8 @@ If Mr. Ryhiner[^fn-p0132-1] the bearer of these lines should happen to deliver t
 In offering to you and Mrs. Faraday my most hearty salutations
 
 I am my dear Faraday  
-Yours  
-most truly
+    Yours  
+        most truly
 
 Bâle May 11. 1843.
 
@@ -1249,7 +1249,7 @@ De la Rive is here and I have seen his experiment on the increase of the decompo
 I grieve to hear of Mrs. Schœnbein’s illness and cares with the children, I wish there were nothing but happy pleasure in her way. But all these cares have their reward in a mothers bosom, and though we dislike them at the moment, it is better they should be than *not*. Nevertheless I am very glad to find that all are improving. The kindest thoughts from us both to you both.
 
 Ever My dear Schœnbein  
-Your faithful friend
+    Your faithful friend
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -1291,7 +1291,7 @@ I wrote to you 5 or 6 weeks ago by Dr. Yates, but do not feel sure you will have
 I must conclude, for both head and hand are very unsteady.
 
 Ever Dear Schönbein  
-Your faithful friend
+    Your faithful friend
 
 <span class="small-caps">M. Faraday.</span>
 
@@ -1316,7 +1316,7 @@ My wife desires to be most particularly remembered to you and Mrs Faraday and re
 Pray present my humble respects to your lady and believe me
 
 Your’s  
-most faithfully
+    most faithfully
 
 C. F. <span class="small-caps">Schoenbein.</span>
 
@@ -1373,9 +1373,9 @@ I think however that the path is now opened which will lead us to the solution o
 Should you think the contents of this letter interesting enough to be communicated to the Royal Society I have no objection to your doing so or to your making any use of them you think fit.
 
 I remain  
-My dear Faraday  
-Your’s  
-most faithfully
+    My dear Faraday  
+        Your’s  
+            most faithfully
 
 Bâle March 30 1844
 
@@ -1470,8 +1470,8 @@ I finished yesterday a little work[^fn-p0157-1] which contains a detailed accoun
 In confidently hoping that you will enjoy perfect health I am
 
 my dear friend  
-Your’s  
-most faithfully
+    Your’s  
+        most faithfully
 
 Bâle Mai 29. 1844.
 
@@ -1490,7 +1490,7 @@ Dont forget to present Mrs. S. and my humble respects to Mrs. Faraday and excuse
 I write you a few lines to tell you that after having more closely examined the salt of which I spoke in my last letter as of pure ozonide of potassium, I found it to contain appreciable quantities of a jodate. I must therefore ask you the favo[u]r not to communicate my letter to the Royal Society at least not that part of it which regards the isolation of Ozone. It seems that in treating my ozoniferous atmosphere with jodide of potassium a good portion of ozone is taken up and does occasion the formation of the jodate mentioned. But even this action appears to be an additional proof of the analogy which exists between Chlorine and Ozone. Berzelius, to whom I communicated my results about six weeks ago,[^fn-p0158-1] takes a very lively interest in the ozone affair and encourages me to sift the matter to the bottom.[^fn-p0158-2]
 
 Your’s  
-very faithfully
+    very faithfully
 
 Bâle 31. Mai 1844.
 
@@ -1535,7 +1535,7 @@ Should I be able to cross the water, next autumn, I shall not fail sending you w
 Mrs. Schœnbein and the Children are quite well and I am charged to remember them to their constant friend in Albemarle Street. Pray present my best compliments to your Lady and believe me
 
 Your’s  
-most truly
+    most truly
 
 Bâle Aug. 27. 1844.
 
@@ -1564,7 +1564,7 @@ I will take care that either by myself or by your letter your kind offer to repo
 My wife is with me and desires her kind remembrances; she had not forgotten your intention of being here this year. Remember us both to Mrs. Schœnbein and to the growing up flock. I suppose I should see a difference now to what I saw when at Basle
 
 Ever My dear Schœnbein  
-Yours
+    Yours
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -1623,7 +1623,7 @@ You may easily imagine that I feel very anxious to hear soon about the results o
 Mrs. Schœnbein and the Children are quite well and all of them charge me with their best salutations both to you and your lady. Pray remember me also very kindly to Mrs. Faraday and believe me
 
 Yours  
-most truly
+    most truly
 
 C. F. <span class="small-caps">Schoenbein</span>.
 
@@ -1644,7 +1644,7 @@ I cannot call to mind whether I wrote to you last, or whether yours to me still 
 I have been at work these last 6 or 8 months on the condensation of gases — a very tangible subject, giving very strong impressions of its nature and effects every now and then by an explosion, though I have met with very few, only two indeed, and these rather expected and in some degree prepared for. — You will have seen the general result in the Annales de Chimie[^fn-p0168-1] but I hope soon to send you the paper from the Philosophical Transactions,[^fn-p0168-2] that is, if I can find a way to send it. I have been waiting to write to you, that I might send you at the instant of doing so an account of the condensation of *oxygen*, but as yet he will not yield, though I have given him a pressure of 60 atmospheres, at a temperature of 140<sup>0</sup> F. below 0<sup>0</sup>;[^fn-p0168-3] and now I must lay by the experiments for a while — for, first I am not well, having been confined almost entirely, to my rooms for the last three weeks — next my head is becoming giddy with the continuance of the investigation — and finally I must prepare to lecture after Easter. — Yet I could not lay down all these things and amongst them my intention of writing to you, without carrying the latter into effect, though as you will see in a very imperfect manner. But that does not stop me. I do not expect to make my letters scientific communications, for from the reasons I have given you, they must ever be unsteady and doubtful in that respect, my memory of the things thus to be spoken of being so — but I write them and especially to you, my dear friend, as kindly remembrances of good feeling and grateful expressions for encouragement and happiness, communicated to me from minds having feelings akin to my own. — With kindest remembrances to Mrs. Schœnbein and the growing flock
 
 I am as Ever  
-Your faithful
+    Your faithful
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -1659,7 +1659,7 @@ M. <span class="small-caps">Faraday</span>.
 I have made up my mind to read my report on Ozone myself and illustrate the subject by a series of experiments to be exhibited before the chemical section. Intending to leave Bâle the 12th instant I hope to arrive in town Monday the 16th and I need not say you, how delighted I would be to see you on that or the following day. As I shall pass the shop of Mr. Watkins (Charing cross), pray send me a few lines there to acquaint me whether I can have the pleasure of meeting you at the Royal Institution. In entertaining the pleasing hopes of shaking very soon hands with you and paying my humble respects in person to your Lady I am, my dear Faraday
 
 Your's  
-most faithfully
+    most faithfully
 
 Bâle June 4th 1845.
 
@@ -1722,7 +1722,7 @@ At present I have scarcely a moment to spare for any thing, but work. I happen t
 My head became giddy and I have therefore come to this place, but still I bring my work with me. When I can catch time I will tell you more. But in the midst of all this philosophy, do not forget to remember both my wife and myself to Mrs. Schœnbein. The thought of being quietly with you in the mountains, or on the river forms a strange contrast with my present most active state.
 
 Ever, Dear Schœnbein  
-Your grateful friend
+    Your grateful friend
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -1751,7 +1751,7 @@ They say that Dr. Neef[^fn-p0175-2] of Francfort has made a discovery establishi
 Pray present my best compliments and Mrs. Schœnbein's also your Lady and believe me
 
 Yours  
-most faithfully
+    most faithfully
 
 Bâle Dec. 30. 1845.
 
@@ -1772,7 +1772,7 @@ Before long you will hear of some other little chemical exploits I have of late 
 Pray present Mrs. Schœnbein’s compliments and my own to your Lady. Favo[u]r me soon with an answer to this letter and believe me
 
 Your’s  
-most sincerely
+    most sincerely
 
 Bâle Febr. 27. 1846.
 
@@ -1833,7 +1833,7 @@ I am overcurious to learn more particulars regarding your investigations and it 
 Mrs. Schœnbein and the girls are doing well and beg me to present to you and Mr. Faraday the kindest regards.
 
 Believe me my dear Faraday  
-Your’s most faithfully
+    Your’s most faithfully
 
 Bâle March 18. 1846.
 
@@ -1876,7 +1876,7 @@ M<span class="small-caps">Y DEAR FARADAY</span>
 Mr. Prevost[^fn-p0183-1] is kind enough to charge himself with the little box containing a liliputian bell made out of my transparent paper. It is however not that mentioned in my last letter to you and destined for Mrs. Faraday. This little piece of chemical workmanship must find its way to Albemarle Street through another channel and at another time.
 
 Your’s  
-very truly
+    very truly
 
 Bâle, March 24 1846.
 
@@ -1895,7 +1895,7 @@ M<span class="small-caps">Y DEAR</span> F<span class="small-caps">ARADAY</span>
 Having learned from Grove[^fn-p0183-3] the great loss you had to suffer some days ago[^fn-p0183-4] I hardly dare to ask you whether one of these days I could see you, and communicate with you on some important subject. Pray remind me kindly to Mrs. Faraday and believe me
 
 Yours  
-very truly
+    very truly
 
 6 Golden Square  
 Regent Street.
@@ -1939,7 +1939,7 @@ Now the object of my journey to England is to see, whether something might be do
 In hoping to see you monday next, I beg you to present my humble compliments to Mrs. Faraday and believe me
 
 Your’s  
-    very truly
+    very truly
 
 6 Golden Square  
 25. Aug. 1846.
@@ -2003,8 +2003,8 @@ Up to this present moment I have not yet derived any pecuniary advantage from my
 Should you think some of the facts mentioned in this letter interesting enough to be communicated in one of your Friday Meetings or elsewhere I don’t think I can have any objection to their being made known. Wishing you and your Lady a very happy new year I am
 
 My dear Faraday  
-Your’s  
-most truly
+    Your’s  
+        most truly
 
 Bâle Dec. 26. 1846.
 
@@ -2041,7 +2041,7 @@ Royal Institution 23 Octr. 1847.
 With absolutely nothing to say I still feel a lingering desire to write to you and though I have waited days and weeks in hopes that my thoughts would brighten I will wait no longer, but just make a return to your very characteristic letter by one which will be distinguished only by its contrast with it. You would perhaps see by the Philosophical Magazine[^fn-p0196-2] that I had received yours for the whole was printed there except three or four lines at the end. The novelty and beauty of your new test for ozone is very remarkable and not less its application to the detection of Ozone from such different sources as Phosphorus, the Electrical brush and Electrolysis. I shame to say that I have not yet repeated the experiments, but my head has been so giddy that my Doctors have absolutely forbidden me the privilege and pleasure of working or thinking for a while and so I am constrained to go out of town be a hermit, and take absolute rest. In thinking of my own case it makes me rejoice to know of your health and strength and to look on whilst you labour with a constancy so unintermitting[^fn-p0197-1] and so successful. Long may it be so to the joy and happiness of yourself, wife and family. My wife desires to be remembered to you most earnestly and is always glad when your name turns up either in reading and conversation. Remember me in the same manner to Mrs. Schœnbein and those of yours that I have seen and believe me to be
 
 Ever My dear Schœnbein  
-Yours Most Truly
+    Yours Most Truly
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -2158,7 +2158,7 @@ At first I thought the cause of these phenomena different to that which produced
 With our kindest remembrances to Madam Schœnbein
 
 I am, My dear friend,  
-Most truly Yours
+    Most truly Yours
 
 <span class="small-caps">M. Faraday.</span>
 
@@ -2181,7 +2181,7 @@ As you know no doubt Mr. Henry, the Chymist who is Headbrewer in some great brew
 My best compliments to Mrs. Faraday and my kindest regards to yourself
 
 Yours  
-most truly
+    most truly
 
 Bâle, March 27. 1850.
 
@@ -2200,7 +2200,7 @@ Royal Institution 11 May 1850
 I have seen Burgomaster Sarasin who has very kindly brought me your papers and letter. I wish I could show him any useful attention, but you know what an out-of-the-world man I am. Your German papers are very tantalizing, I know the good there must be within and yet I cannot get at it. But now my thoughts are on Ozone. I like your idea of an Evening here, but it cannot be this season for the arrangements are full. Yet that in some degree suits me better, for though I should like to give it, I am a slow man (want of memory) and therefore require preparation. Now I shall lock up your letters and reread them and also the papers; but let me pray you to send me a list of the experiments which you know to suit a large audience, also, if you can, the references to the best French (or English) papers giving an account of its development and progress. Also your present view, — also the best and quickest methods of making ozonized air and such other information as I shall need. Probably other matter will arise before 1851 and I will get possession of it as we go along. If you come over here you shall give the subject yourself i. e. if you can arrange and keep to time etc. if not, I must do my best. But every year I need more cramming, even for my own particular subjects. — Now do not delay to send me the list of experiments, because you suppose there is plenty of time etc etc, but let me have them that I may think over them during the vacation. I should like to do the matter to my own satisfaction: there are however very few things in which I satisfy myself now. I hoped to have had a paper to send you ere this, but Taylor is slow in the printing. Give our kindest remembrances to Madame Schœnbein
 
 Ever, My dear friend,  
-Yours truly
+    Yours truly
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -2227,7 +2227,7 @@ I was expecting some such notes and I still think you mean to send me them and t
 My dear wife wishes to be remembered to you and I wish most earnestly to be brought to Madame Schœnbein’s mind. Though vaguely I cling to the remembrance of an hour or two out of Bâle at your house, and though I cannot recall the circumstances clearly to my mind, I still endeavour again and again to realise the idea.
 
 Ever My dear Schœnbein  
-Yours most truly
+    Yours most truly
 
 <span class="small-caps">M. Faraday.</span>
 
@@ -2246,7 +2246,7 @@ I at least cannot account in another way for the fact that sulpuret of lead pape
 The silhouettes laid by, which, except the figures, were once quite white, will show you that action.
 
 Yours  
-very truly
+    very truly
 
 Bâle 25. Nov. 1850.
 
@@ -2267,7 +2267,7 @@ I have just read your letter dated July 9. 1850[^fn-p0213-2] exactly *six months
 The German account[^fn-p0214-2] you sent me of insolated oxygen and your theory of atmospheric electricity is in the hands of a young friend who is translating it. — Whilst it is going on and also in reading your letter a question arises in my mind about the *insolated oxygen* which perhaps I shall find answered when I come to read the paper. It is whether the oxygen having been insolated is then for a time a different body out of the presence of light as well as in it. I think an American[^fn-p0215-1] (I forget who) says that Chlorine after being exposed to the sun is of brighter colour and acts far more readily than such as has been kept in the dark for a time. Suppose a little box blackened inside, with two little glass windows, that a ray of sun light could be passed through it, and the box filled with oxygen, and a proper test paper put up in the dark part of the box: would it show change or must the test paper be in the ray to be acted upon? Of course Ozone would act upon it in the dark place. Is insolated oxygen like ozone in that respect? — I do not doubt that I shall find the answer amongst the data that I am in possession of and so do not trouble yourself for a reply just now. As I told you in my last I must talk about atmospheric *Magnetism* in my Friday evenings before Easter and I am glad that Ozone will fall in the summer months, because I should like to produce some of the effects here. I think I told you in my last how that oxygen in the atmosphere, which I pointed out three years ago in my paper on flame and gases as so very magnetic compared to other gases,[^fn-p0215-2] is now to me the source of all the periodical variations of terrestrial magnetism; and so I rejoice to think and talk at the same time of your results which deal also with that same atmospheric oxygen. What a wonderful body it is.
 
 Ever my dear Schœnbein  
-Yours faithfully
+    Yours faithfully
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -2312,7 +2312,7 @@ I read your theory of the pile[^fn-p0218-1] in the Geneva journal with great ple
 I have no doubt I answer your letters very badly — but, my dear friend, do *you remember* that *I forget*, and that I can no more help it than a sieve can help the water running out of it. Still you know me to be your old and obliged and affectionate friend, and all I can say is, the longer I know you the more I desire to cling to you
 
 Ever My dear Schœnbein  
-Yours affectionately
+    Yours affectionately
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -2333,7 +2333,7 @@ I set about explaining the other evening my views of atmospheric magnetism[^fn-p
 And now, my dear Schœnbein, with kindest remembrances to Madame Schœnbein (and my wife joins all she can to you and yours)
 
 I am as ever  
-Most truly yours
+    Most truly yours
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -2350,8 +2350,8 @@ I think an excellent likeness of our illustrious countryman Euler[^fn-p0220-3] w
 Pray present my best compliments to Mrs. Faraday and believe me
 
 Quite in a hurry.  
-Your's  
-very truly
+    Your's  
+        very truly
 
 Bâle Aug. 25. 1851.[^fn-p0221-1]
 
@@ -2422,7 +2422,7 @@ I wonder whether he will divulge his queer Ideas to the world; but I should like
 Mrs. Schœnbein and the Children are well and have not forgotten their English friend to whom they beg to be kindly remembered. Mrs. Faraday, I hope, recollects still the writer of these lines and will be indulgent enough as to accept friendly his compliments.
 
 Pray let me soon hear of your doings and believe me  
-Yours most truly
+    Yours most truly
 
 Bâle, Mai 7. 1852.
 
@@ -2449,7 +2449,7 @@ Every now and then I stir up my audience by talking about your ozone — and the
 What are your mysterious results — or what the results of your mysterious friend? -- Have you made gold or even rather....,[^fn-p0227-3] for it is a more useful metal, or have you condensed oxygen? — I wish you could tell me what liquid or solid oxygen is like. I have often tried to coerce it and long to know. With kindest remembrances to Mrs Schœnbein
 
 I am My dear Schœnbein  
-Your lazy friend
+    Your lazy friend
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -2488,7 +2488,7 @@ What would the world say of a man, who should take the trouble to shake for whol
 You know, I am no great admirer of the present state of Chemistry, and of the Ideas leading the researches, made upon that field. Atoms, weight, ratio of quantities, endless production, and formula of compounds, i. e. the “caput mortuum” of nature, are the principal if not only subjects with which the majority of our Chymists know to deal. Force, power, action, life in fact, are, as it were, phantoms to them, disliked if not hated. The world being a system of Ideas, its very essence, power and intellect, how can we expect great things from men who so much mistake the nature of nature? In perusing what is written above I find it is not worth of being sent over the water, but having no more time to write another letter, you must take it as it is and excuse my random talking. Mrs. Schœnbein and the Children are well and beg to be kindly remembered to you. My best compliments to Mrs. Faraday and to you the assurance that I shall for ever remain
 
 Yours  
-most truly
+    most truly
 
 Bâle Oct. 17. 1852.
 
@@ -2515,7 +2515,7 @@ As I read your letter I wondered whether there was any connexion between your ph
 You are very amusing with your criticisms on Organic chemistry.[^fn-p0233-3] I hope that in due time the chemists will justify their proceedings by some large generalisations deduced from the infinity of results which they have collected. For me I am left hopelessly behind and I will acknowledge to you that through my bad memory organic chemistry is to me a sealed book. Some of those here, Hoffman[^fn-p0234-1] for instance, consider all this however as scaffolding, which will disappear when the structure is built. I hope the structure will be worthy of the labour. I should expect a better and a quicker result from the study of the *powers* of matter, but then I have a predilection that way and am probably prejudiced in judgment. My wife’s kindest remembrances to you and yours. My earnest wishes for the happiness of you all
 
 Ever my dear Schœnbein  
-Your Affectionate friend
+    Your Affectionate friend
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -2536,7 +2536,7 @@ I trust the bracing air of Brighton will refresh your body and mind so much as t
 Mrs. Schœnbein and the Children are well. My eldest daughter is now rather a big Child i. e. a grown up Lady. They charge me with their best compliments to you and Mrs. Faraday, to whom you will remember me in particular and in the most friendly manner. Excuse my badly written letter, which I was obliged to scribble down in a great hurry and believe me, my dear Faraday
 
 Yours  
-most truly
+    most truly
 
 Bâle Dec. 18th 1852.
 
@@ -2563,8 +2563,8 @@ Just preparing for a journey to Vienna and Munich, I am in a great hurry and you
 In asking you the favor to present my best compliments to Mrs. Faraday I am
 
 My dear Faraday  
-Your’s  
-most truly
+    Your’s  
+        most truly
 
 Bâle July 11. 1853.
 
@@ -2611,7 +2611,7 @@ Now having talked so much about myself and my family, it is time to ask you how 
 Mrs. Schœnbein joins me in her kindest regards to Mrs. Faraday and I beg you to believe me for ever
 
 Your’s  
-most truly
+    most truly
 
 Bâle Septbr. 24. 1853.
 
@@ -2638,7 +2638,7 @@ Furthermore such a wire when under ground or under water is so affected by the t
 Our librarian Mr. Vincent tells me that the Berichte der Verhandlungen der Naturforschenden Gesellschaft Basel, *Band 1 to 8* are not in our Library and he cannot get them here. He thinks your University distributes them to different bodies. If so is it possible for us to have that privilege? I ask you in all ignorance. — But do not by any means let me be ignorantly intrusive.
 
 Ever My dear Schœnbein  
-Yours
+    Yours
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -2684,7 +2684,7 @@ You see such assertions are bold enough, so bold indeed, that I am afraid even Y
 In April next I think to fetch my eldest daughter back again from the “Welschland”[^fn-p0249-2] to put the second there. Your imagination gives you a correct idea of Miss Schœnbein, for she is really in many respects a second edition of her Mother. Our phil. society will take great pleasure in sending you the whole series of their proceedings and in receiving, what your Institution is publishing. As the crossing of the channel and coming over to Switzerland is a matter of a couple of days, I will not give up the pleasing hopes of seeing you and Mrs. Faraday once more with us in Bâle, where you have more friends and admirers than you are aware of.
 
 Pray present my most humble compliments to your Lady and believe me  
-Your most affectionate friend
+    Your most affectionate friend
 
 C. F. S<span class="small-caps">choenbein</span>.
 
@@ -2715,7 +2715,7 @@ My paper on the chemical effects produced by Electricity, Heat and Light, of whi
 Mrs. Schœnbein and the girls are doing well and charge me with their best compliments to their friend at the Royal Institution. I join my kindest regards to Mrs. Faraday and am for ever
 
 Your's  
-most truly
+    most truly
 
 Bâle April 9. 1854.
 
@@ -2736,7 +2736,7 @@ I am back again from the journey I made the other day to the lake of Geneva, and
 Pray let me soon hear from you and believe me
 
 Your’s  
-most truly
+    most truly
 
 Bâle Mai 4th 1854.
 
@@ -2769,7 +2769,7 @@ I think some of my letters must have missed; you scold me so hard. As I cannot r
 You say that in April you are to fetch a daughter from the “Welchland” etc. I had the foolish thought (perhaps), that you were coming to England and have been hoping to see you, but I suppose mine was all a mistake, for here is May. As for us, we do not expect to move far from home now; the imagination rambles and the desire also, but the body is too heavy and earthly. Our kindest remembrance to Madame Schœnbein and to all, who remember us. Young folks cannot be expected to retain much idea of old ones, after so long a while
 
 Ever My dear friend  
-Affectionately Yours
+    Affectionately Yours
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -2826,7 +2826,7 @@ Much of your letter of the 4th of July I should like to have sent to the Philoso
 You give a happy account of your family. You are a happy man to have such a family, and you are happy in the temperament which fits you for the enjoyment of it. May God bless every member of it and yourself with a cheerful and relying spirit and love to each other. Remember us to them all
 
 Ever my dear friend,  
-affectionately yours
+    affectionately yours
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -2859,7 +2859,7 @@ I proposed Mr. Wiedemann to electrolize salts containing the same base and acid 
 I entertain no doubt you have spent the winter in high scientific spirits and performed some exploits in spite of the warlike mood of the public mind, which by the bye, I do not relish at all and am inclined to consider as madness. I hardly need tell you how happy I should feel if you would favor me soon with your good news and not requite silence by silence. All my family are doing well and charge me with their best compliments to you and Mrs. Faraday, to which I join my own. Believe me my dear Faraday for ever
 
 Your’s  
-most truly
+    most truly
 
 Bâle Febr. 27. 1855.
 
@@ -2926,7 +2926,7 @@ Should a parcel be directed to you under my address, pray take and keep it until
 Excuse my immoderately long letter, let me soon have the favor of a letter and believe me
 
 Your’s  
-most truly
+    most truly
 
 Bâle Mai 26th 1855.
 
@@ -2981,7 +2981,7 @@ Before I conclude I must not omit to tell you, that the Swiss Association, which
 And now I have done, my dear Faraday and ask your kind indulgence for the unusual length of my letter. Pray do not keep so long your silence, as you did the last time and believe me
 
 Your’s  
-most faithfully
+    most faithfully
 
 Bâle Nov. 30. 1855.
 
@@ -3006,7 +3006,7 @@ The heartiest and the kindest wishes to you and the best thanks for your last le
 I do not recollect any news, and shall be glad to lay my head down again, so with kindest remembrances to Madame Schœnbein and your damsels
 
 remain as ever  
-Your Affectionate friend
+    Your Affectionate friend
 
 <span class="small-caps">M. Faraday.</span>
 
@@ -3033,7 +3033,7 @@ The eggs found by the boys and girls were put in a basket placed in the centre o
 Such like fêtes there were hundreds in our town yesterday, and I dare say millions all over the german lands. Great a philosopher as you are, sure am I, that such a sight would give you more pleasure than all the scientific institutions and all the curiosities of the whole civilized world together. Now I am at the end of my letter and have nothing more to say than that I shall ever remain
 
 Your's  
-most faithfully
+    most faithfully
 
 Easter-Tuesday 1856.[^fn-p0290-1]
 
@@ -3104,7 +3104,7 @@ From the fact that I walked 24—30 miles a day you may draw some inferences reg
 Pray, present my best compliments to Mrs. Faraday, thank her in my name for her kind letter and believe me, my dear Faraday,
 
 Your's  
-most faithfully
+    most faithfully
 
 Bâle April 26th 1856.
 
@@ -3137,8 +3137,8 @@ My friend Mr. Merian and his wife were highly gratified with the friendly recept
 In closing my letter I ask you the favor te remember me most friendly to Mrs. Faraday and tell her that Mr. Schœnbein had not yet entirely given up his hopes of seeing once more her Ladyship and her Lord on this side of the water.
 
 Believe me my dear Faraday  
-Yours  
-most truly
+    Yours  
+        most truly
 
 Bâle Septbr. 20. 1856.
 
@@ -3165,7 +3165,7 @@ Now with regard to Miss Schœnbein’s desires. — I am sorry that my unsocial 
 Pray remember me to Wiedemann; — and us most kindly to Madam and Miss Schœnbein and also to the Merians and above all to Yourself.
 
 Ever My dear Schœnbein  
-Yours Most truly
+    Yours Most truly
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -3188,9 +3188,9 @@ Assisted a little by heat, even compact platinum is capable of causing common ox
 To complete my statements I must not omit to mention that the copper powder soon after having been moistened with liquid Ammonia, exhibits a rise of temperature, no doubt resulting from the formation of the nitrate of Ammonia. The blue liquid obtained on shaking copper powder with aqueous Ammonia and oxigen or atmospheric air, besides oxide of copper, also contains nitrite of Ammonia, for if you put some soda to it and boil it *up,* to drive off the Ammonia and throw down the black oxide of copper, a solution is obtained which after being evaporated to dryness, leaves behind a yellowish salt *which consists*[^fn-p0302-2] principally of nitrite of Soda. This substance being mixt up with powdered charcoal and heated, burns that combustible matter, yields with sulphuric acid strong fumes of nitrous acid, *and* rapidly discharges the colour of indigo solution being strongly acidulated by oil of vitriol, colors brownish a solution of *protosulfate*[^fn-p0302-3] of iron containing free sulphuric acid etc. Common pure, or atmospheric oxigen on being put in contact with copper powder and aqueous Ammonia is so rapidly *absorbed,*[^fn-p0302-4] that I succeeded in depriving completely a whole cubic foot of atmospheric air of its oxigen within a few minutes. Copper and Ammonia may therefore be used as eudiometric means and for preparing nitrogen *from*[^fn-p0302-5] the common air. The facts above stated appear to me to bear closely upon the important question of nitrifications, and proving beyond any doubt that under the influence of *the* contact of some ponderable matters, inactive oxigen is empowered even at the common temperature to oxidize both the *constituents*[^fn-p0302-6] of Ammonia. Before long I hope to be able to give you some more details on nitrification, a chemical phenomenon which at this present moment deeply enjoys my attention.[^fn-p0303-1]
 
 *(Pray present my best compliments to Mrs Faraday and)*  
-believe me  
-my dear Faraday  
-Your’s most faithfully
+    believe me  
+        my dear Faraday  
+            Your’s most faithfully
 
 C. F. <span class="small-caps">Schoenbein.</span>
 
@@ -3239,7 +3239,7 @@ I intend to spend the easter holidays at Munic a place which from several reason
 New being at the end of my stories and sheet I beg you to pardon the loquacity of
 
 Your  
-old and affectionate friend
+    old and affectionate friend
 
 Bâle Febr. 9. 1857.
 
@@ -3260,7 +3260,7 @@ Basle April 25th 1857
 I write you these lines to ask you the favor of letting occasionally know your Friend at Stamford-hill, that, about the time indicated by her, my daughter will keep herself ready for her projected journey to England and hope that some proper travelling companions will in the right season make their appearance at Basle, under whose guidance Miss Schœnbein may safely be carried over to London. — The last holidays I passed at Munic and as you may easily imagine in a very agreeable manner, though in consequence of having sprained my leg I was kept in bed there for nearly a week. Liebig and many other scientific and artistic friends were at home, so that there was no want of rational enjoyments in the bavarian capital. Amongst the curiosities seen there, there was a specimen of the poisoned chinese bread sent to Liebig for chemical analysis. He found considerable quantities of Arsenic in it. Of late I (have) worked again a good on my favorite subject and ascertained a number of facts which seem to me to put beyond doubt the correctness of that old notion of mine, according to which oxigen, such as it exists in the atmosphere, is in a chemical point of view an entirely inert body and any oxidation being apparently brought about by it, is preceeded by its allotropic change of condition. The essential oil of bitter Almonds (Benzule) has become to me a beautiful object of research, which substance, being assisted by solar light, enjoys the power of rapidly taking up common oxigen and transforming it into that state, in which it produces all the oxidizing effects of ozonised oyigen[^fn-p0307-1] decomposition of jodide of potassium, coloring blue the solution of guajacum etc. Leaving that oxigen associated to the oil, it rather rapidly oxidized that matter into hydrated benzoic acid. In presenting my best compliments to Mrs. Faraday and begging you to drop the inclosed into a letter box I am my dear Faraday
 
 Yours  
-most truly
+    most truly
 
 C. F. <span class="small-caps">SCHOENBEIN</span>.
 
@@ -3279,7 +3279,7 @@ On receipt of your last I spoke to Miss Hornblower who said she had written full
 I have every conviction that Miss Schœnbein will like Miss Hornblower and when she knows her will soon highly esteem her. She is a woman of business, but she has always left a strong and kind impression on the minds of those ladies who have been with her from abroad, and I have no doubt it will be so with Your daughter. It can be no slight thing for you to part with her for a while, but you may be sure that at Miss Hornblower’s she will have a safe home. We shall see what we can of her, though our residence here and the circumstance of our having *no house* cuts short our means of seeing friends as we could wish — but all that must be left. — Let me say a word of sympathy on our part to Mrs. Schœnbein under the coming circumstances: for the mother cannot but be anxious on the matter. My wife is an invalid at present and not yet out of her room or I am sure she would join me in kindest thoughts to you all.
 
 Ever My dear Schœnbein  
-Yours
+    Yours
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -3340,7 +3340,7 @@ I can easily imagine Madame Schœnbein’s anxiety, but except from what may be 
 As to the philosophy of the letter I must enjoy and talk about that another time or else I shall lose the post
 
 Ever My dear friend  
-Your’s
+    Your’s
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -3371,7 +3371,7 @@ I hope that Madame Schœnbein is cheered by her daughters letters. Miss Schœnbe
 I do not think we have much scientific news, at least I do not hear of much; but then I do not go within reach of the waves of sound, and so must consent to be ignorant. Indeed too much would drive me crazy in the attempt to hold it.
 
 Ever My dear Schœnbein  
-Yours most truly
+    Yours most truly
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -3390,7 +3390,7 @@ I cannot just now remember what were the last points of philosophy which you sen
 Commend me to Mrs. Schœnbein: even the poor talk I have given you about her daughter will incline her a little towards me. Say I hope, she will receive her back some day or another, and find reason to be not less proud of her, than she ever has been: — *even when she was a baby*
 
 Ever My dear Schœnbein  
-Very affectionately Yours
+    Very affectionately Yours
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -3419,7 +3419,7 @@ According to her often repeated assurances, my daughter feels quite happy in Eng
 From the very same reasons, that forced me to be neglectful to my friends as a correspondent, I have for some time very little worked, though it would not be quite true if I said to have been entirely idle. Now and then I took up some little piece of work, but without doing any thing being worth while of speaking about. I entertain however the hopes, that the forthcoming spring, in renewing all nature around us, will also call forth some dormant powers of my mind and stir me up again to scientific activity. At this present moment there is some dullness, I had almost said, sleepiness about me and it is full time to get rid of that drowsy disposition of mind. I saw the other day my last letter to you in the Philosophical Magazine; the epistolary production hardly merited the honor of being printed, be that however as it may, there is at any rate no harm in publishing such trifles and queer Ideas. I will not let pass unnoticed a little misprint, which is singular enough. Whilst from several reasons I have made it a point never to communicate any thing to the french academy, the printer has put “Academy of Paris” instead of Munic. Or have I perhaps made the mistake myself in my letter?[^fn-p0324-1] Errare humanum est; I do not think it however worth while, that the error should be corrected. From what you told me in your last letter, it appears that you are at present engaged in researches of the highest importance, for the problem to be solved is really of a transcendent nature. You only could think of undertaking such a bold enterprise and I wish you from all my heart full success. How does Mrs. Faraday fare? I confidently hope and ardently wish, that she is going better. Pray present my best compliments and kindest regards to her. In begging you kindly to excuse the emptiness of my letter I am, my dear Faraday for ever
 
 Yours  
-most faithfully
+    most faithfully
 
 Bâle Febr. 15th 1858.
 
@@ -3466,7 +3466,7 @@ Before I close my long story I must mention one fact more, which, in my opinion,
 You see that I am growing more and more hardened in my heretical notions, or to speak more correctly, in my orthodox views; for it was Davy who acted the part of a heretic in overthrowing the old, venerable, true creed. Indeed the longer I compare the new and old doctrine on the nature of chlorine, etc. with the whole material of chemical facts bearing upon them, the less I am able to conceive how Davy could so lightly and slightly handle the heavy weight of analogies which, in my opinion, speak so very strongly and decisively in favour of Berthollet’s views. There is no doubt Sir Humphry was a man of great genius, and consequently very imaginative; but I am almost inclined to believe that, by a certain wantonness, or by dint of that transcendent faculty of his mind, he was seduced to conjure up a theory intended to be as much out of the way and “invraisemblable” as possible, and serve nevertheless certain theoretical purposes; and certainly, if he entertained the intention of solving such a problem, he has wonderfully succeeded. But what I still more wonder at is both the sudden and general success which that far-fetched and strained hypothesis met with, and the tenacity with which the whole chemical world has been sticking to it ever since its imaginative author pleased to divulge it: and all this could happen in spite of the fact that the new doctrine, in removing from the field of chemistry a couple of hypothetical bodies, was, for analogy’s sake forced to introduce fictitious compounds, not by dozens only, but by hundreds, — the oxy-sulphion, oxy-nitrion, and those “nonentia”. But enough of this subject, upon which I am apt to grow warm and even angry. Although the results I have obtained from my recent investigations cannot but induce me to begin another, and I am afraid, endless series of researches. I shall for the present cut short the matter and indulge for some time in absolute idleness.
 
 I am, my dear Faraday  
-Yours most truly
+    Yours most truly
 
 Bâle, June 25. 1858.
 
@@ -3485,7 +3485,7 @@ I take the liberty to introduce to you Professor Vischer[^fn-p0331-1] of Basle, 
 Mr. Vischer does, of course, not meddle in any way with chemistry, but is in every other respects a true “savant”, whose personal acquaintance, I trust, will afford you much pleasure.
 
 I am my dear Faraday  
-Your's most sincerely
+    Your's most sincerely
 
 Bâle Jun. 28. 1858.
 
@@ -3510,7 +3510,7 @@ I like your summary, brief as it is, of your views, very much and was just on th
 Miss Schœnbein seems quite well. — So are we generally and so must you be considering your intentions. I have no philosophy for you I am idle
 
 Ever truly your's  
-My dear friend
+    My dear friend
 
 <span class="small-caps">M. Faraday.</span>
 
@@ -3538,7 +3538,7 @@ In the beginning of next week we shall leave our alpine abode, Mrs. Schœnbein a
 Pray present our best compliments to Mrs. Faraday and believe me
 
 Your’s  
-most truly
+    most truly
 
 C. F. <span class="small-caps">SCHOENBEIN</span>.
 
@@ -3683,7 +3683,7 @@ Emboldened by your great kindness, I venture to take advantage of your offer of 
 I must add that my father is quite envious for this great privilege that is in store for me, of hearing your lecture.
 
 Believe me, dear Mr. Faraday  
-very truly yours
+    very truly yours
 
 <span class="small-caps">Emilie Schoenbein</span>.
 
@@ -3706,7 +3706,7 @@ I enclose a few lines to acknowledge the kind letter of Mrs. Faraday’s and you
 Pray offer my most grateful thanks to Mrs. Faraday and your niece and pity
 
 your deeply mourning  
-friend.
+    friend.
 
 * * *
 
@@ -3727,7 +3727,7 @@ Poor girl — (happy girl I well may say considering her strong hope in death) �
 I hope that you are beginning to turn a little to occupation. I know how distasteful it will be, but you must be drawn away at times from the heavy thought; even though the exertion may be painful, it will be healing. Do think of this for the sake of yourself and your family and your friends and may God give you that grave and gentle consolation by degrees, which you ask for in your letter to me
 
 Ever My dear Schœnbein  
-Your Affectionate friend
+    Your Affectionate friend
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -3768,7 +3768,7 @@ Our Midsummer-holidays having commenced I intend to go one of these days to the 
 I confidently hope you, Mrs. Faraday and your Niece are doing well and as to Miss Hornblower, I was very sorry indeed to learn from you, that she had been obliged to undergo a painful operation. I ardently wish that by this time, she will be entirely cured and enjoy perfect health. Pray remember me most friendly to all of them, excuse my poor, stale and insipid letter and write soon to
 
 Your  
-poor friend
+    poor friend
 
 Bâle July 19th 1859.
 
@@ -3793,7 +3793,7 @@ Our friend Miss Hornblower continues in great pain; and I think we may consider 
 Very many thanks for Your scientific news. I see you will carry oxygen much farther yet, and expect, with every letter, some new point. As for me I am barren; the best I have are some negative results about electricity, heat and gravity.
 
 Good bye My dear Schœnbein  
-Ever faithfully Yours
+    Ever faithfully Yours
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -3816,7 +3816,7 @@ With the deepest regret I learn from you, that poor Miss Hornblower is far from 
 Pray, don’t be too long in writing me and be assured, that every word coming from you is of the highest value to
 
 Your  
-most attached friend
+    most attached friend
 
 Bâle Oct. 26. 1859.
 
@@ -3839,7 +3839,7 @@ We are all pretty well here. We get on well enough, in a manner, and are very ha
 Our friend Miss Hornblower suffers very much from an affection of the knee of which I spoke before to you. Lately she has seen Sir Benjamin Brodie, who does not make himself responsible for advising an amputation; he says it is a case so serious that the profession ought not to be made responsible for the results of an operation. Whilst going there, I have several times gone into a place of rest in that neighbourhood, to look at a stone you know of, and think of you all. Such places draw my thoughts much now, and have for years had great interest for me. They are not to me mere places of the dead, but full of the greatest hope that is set before man, even in the very zenith of his physical power and mental force. But perhaps I disturb you in calling your loss to mind; forgive me. Yet remember me very kindly to the mother and sisters.
 
 Ever, My dear Schœnbein,  
-Yours Affectionately
+    Yours Affectionately
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -3862,8 +3862,8 @@ How is poor Miss Hornblower? Pray write in your next letter, how she is doing an
 In entertaining the confident hope, that all is well with you and yours, I beg you to offer my kindest regards to Mrs. Faraday, your Niece and Brother.
 
 For ever  
-Your’s  
-most faithfully
+    Your’s  
+        most faithfully
 
 Bâle March 29. 1860.
 
@@ -3886,8 +3886,8 @@ Mrs. Schœnbein and the girls are, thank God, pretty well and charge me with the
 Now my dear Faraday excuse kindly the immensurate length of a badly written letter and don’t be long to acknowledge it.
 
 For ever  
-Your’s  
-most faithfully
+    Your’s  
+        most faithfully
 
 Bâle Dec. 11. 1860.
 
@@ -3918,7 +3918,7 @@ Now I come to a dead stop; for this cold weather has laid hold of me, and I have
 My dear Wife also feels the infirmity of years and of winter; but we cheer each other up. Miss Hornblower is pretty well, just now. My kindest regards to M. Wiedemann (to whom I wrote the best I could) and our sincere remembrances to Madame Schœnbein
 
 Ever My dear friend  
-Yours
+    Yours
 
 M. <span class="small-caps">Faraday.</span>
 
@@ -3939,7 +3939,7 @@ Your nitrification results are most interesting, and important, and I trust that
 I am still dull, stupid, and forgetful. I wish a discovery would turn up with me, that I might answer you in a decent, respectable way. But it will not.
 
 Ever My dear Schœnbein  
-Yours
+    Yours
 
 M. <span class="small-caps">Faraday</span>.
 
@@ -3960,9 +3960,9 @@ Part of the last midsummer holidays I, with my two youngest daughters, spent at 
 Mrs. Schœnbein and my daughters are, thank God, doing pretty well and charge me with their best complements to you and in begging you to remember me most friendly to Mrs. Faraday
 
 I am  
-my dear Faraday  
-Your’s  
-most faithfully
+    my dear Faraday  
+        Your’s  
+            most faithfully
 
 Bâle August 17th 1861.
 
@@ -3989,7 +3989,7 @@ Good bye My dear friend — Our kindest thoughts to Mrs. Schœnbein and the girl
 Miss Hornblower is deeply subjected to physical pain — We scarcely expect her to survive from week to week.
 
 Ever My dear Schœnbein  
-Your’s
+    Your’s
 
 <span class="small-caps">M. Faraday.</span>
 
@@ -4012,7 +4012,7 @@ I cannot finish my letter without saying a word or two about nitrification in ge
 That the formation of our nitrite out of water and nitrogen is a fact highly important for vegetation need hardly be stated. Indeed each plant, by continually evaporating water into the atmosphere, becomes a generator of nitrite of ammonia, preparing, if not all, at least part of its nitrogenous food, and the same thing takes place in the ground on which it stands. I am therefore inclined to think that our friend Liebig is right in asserting that no plant wants any artificial supply of ammonia, or of matters producing that compound, there being enough of it offered by natural means. Having communicated the results of any researches on the subjects mentioned above to the Academy of Munich, I hope they will soon be published.
 
 I am, my dear Faraday,  
-Your’s most truly
+    Your’s most truly
 
 (April 1862)
 
@@ -4057,7 +4057,7 @@ Before long you shall have another letter from me telling you something about my
 In begging you to give my kindest regards to Mrs. Faraday, I am my dear friend
 
 Your’s  
-most faithfully
+    most faithfully
 
 Bâle July 18th 1862
 
@@ -4098,7 +4098,7 @@ It is a matter of course, that you may keep the letters as long as you like, and
 Pray present my kindest regards to Mrs. Faraday and believe me
 
 Your’s  
-most faithfully
+    most faithfully
 
 Bâle June 27. 1868.
 

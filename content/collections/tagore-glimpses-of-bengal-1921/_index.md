@@ -12,6 +12,9 @@
  "publisher": "Macmillan and Co., Limited",
  "default_sender": "Rabindranath Tagore",
  "default_sender_source": "Title page (scan leaf 7): 'SELECTED FROM THE LETTERS OF Sir RABINDRANATH TAGORE' and Introduction (scan leaf 11, signed 'RABINDRANATH TAGORE.')",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Rabindranath Tagore",
  "year": 1921,
  "archive_id": "glimpsesofbengal00tagoiala",
@@ -151,8 +154,8 @@
   {
    "format": "epub",
    "file": "tagore-glimpses-of-bengal-1921.epub",
-   "bytes": 147887,
-   "sha256": "3021e213f8e974993ffea5912d81c37ba82a915d2cc50a1980165037d95c174c"
+   "bytes": 147942,
+   "sha256": "18cf1025335c87e6c7717d5f55081adfc4682833c5b4b4196d75f13d02dcff01"
   },
   {
    "format": "markdown",
@@ -170,7 +173,7 @@
  "scan_base": "https://archive.org/download/glimpsesofbengal00tagoiala/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-24T19:24:04Z",
+  "compiled_at": "2026-11-27T21:17:10Z",
   "source_ast_sha256": "013b917b7f467f9d332882d2549f35b27156301732e26ec4ca72f9f036a04a52",
   "hugo_renderer_version": "1.0.0"
  }

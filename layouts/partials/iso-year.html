@@ -1,0 +1,9 @@
+{{- /* Parse the signed astronomical year integer from an ISO 8601 date string (e.g. "-0365" -> -365,
+       "0000" -> 0, "0064" -> 64, "0389-05-01" -> 389) without triggering Go's base-0 octal int trap. */ -}}
+{{- $s := strings.TrimSpace (string .) -}}
+{{- $neg := strings.HasPrefix $s "-" -}}
+{{- $rest := cond $neg (strings.TrimPrefix "-" $s) $s -}}
+{{- $trimmed := strings.TrimLeft "0" (index (split $rest "-") 0) -}}
+{{- $mag := 0 -}}
+{{- if $trimmed }}{{ $mag = int $trimmed }}{{ end -}}
+{{- return (cond $neg (sub 0 $mag) $mag) -}}

@@ -49,6 +49,70 @@
       "mill-letters-vol1-1910"
     ]
   },
+  "alciphron-letters-1922": {
+    "book": [
+      "Alciphron, an imperial Greek epistolographer of the second or third century A.D., invented a lively fictive correspondence portraying everyday Athenian life and manners. Grouped into four vivid sections—Fishermen, Farmers, Parasites, and Courtesans—these 122 letters blend the humor of the Attic New Comedy of Menander with vivid glimpses of the Attic countryside, the Piraeus waterfront, parasitic dinner-hunters, and the intellectual and amorous rivalries of renowned hetairai.",
+      "Frederick Adam Wright (1869–1946), Professor of Classics at Birkbeck College, University of London, translated the complete extant collection with an introduction and notes for Routledge's prestigious Broadway Translations series in 1922 (co-published in New York by E. P. Dutton & Co.). Wright followed M. A. Schepers's definitive 1905 Teubner critical edition, rendering the witty character names into expressive English equivalents while preserving the charm, dramatic monologues, and classical allusions of the original Greek."
+    ],
+    "links": [
+      {
+        "label": "Alciphron on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alciphron"
+      },
+      {
+        "label": "Alciphron Letters on Perseus Digital Library",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0008"
+      },
+      {
+        "label": "F. A. Wright on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Frederick_Adam_Wright"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Greek rhetorician and epistolary stylist whose fictional letters vividly depict the everyday world of Attic fishermen, rustic farmers, witty parasites, and famous courtesans.",
+        "dates": "fl. 2nd or 3rd century A.D.",
+        "name": "Alciphron",
+        "slug": "alciphron"
+      },
+      {
+        "bio": "English classical scholar and translator, Professor of Classics at Birkbeck College, University of London, who translated numerous Greek and Latin authors and edited the Broadway Translations series.",
+        "dates": "1869–1946",
+        "name": "Frederick Adam Wright",
+        "slug": "f-a-wright"
+      },
+      {
+        "bio": "British barrister, classical scholar, and Olympic athlete to whom F. A. Wright dedicated this translation with an opening poem (scan leaf 13).",
+        "dates": "1872–1967",
+        "name": "Sir George Stuart Robertson"
+      },
+      {
+        "bio": "Celebrated ancient Athenian courtesan (hetaira), muse and mistress of Praxiteles, who is the sender of Letter I in the Courtesans section (scan leaf 183).",
+        "dates": "c. 371–after 330 B.C.",
+        "name": "Phryne"
+      },
+      {
+        "bio": "Renowned Athenian master sculptor who fashioned the Aphrodite of Cnidus and was addressed by Phryne in Alciphron's courtesan correspondence.",
+        "dates": "fl. 4th century B.C.",
+        "name": "Praxiteles"
+      },
+      {
+        "bio": "Chief dramatist of Athenian New Comedy, whose fictional epistolary romance with Glycera forms the centerpiece of Alciphron's Courtesans.",
+        "dates": "c. 342/41–c. 290 B.C.",
+        "name": "Menander"
+      },
+      {
+        "bio": "Athenian courtesan and companion of Menander, portrayed in Alciphron's correspondence declining an invitation from King Ptolemy of Egypt to remain in Athens.",
+        "dates": "fl. late 4th century B.C.",
+        "name": "Glycera"
+      }
+    ],
+    "related": [
+      "synesius-letters-1926",
+      "julian-works-vol3-1923",
+      "pliny-letters-vol1-1915"
+    ]
+  },
   "anandabai-joshee-life-letters-1888": {
     "book": [
       "Anandabai Joshee (1865–1887) sailed from Calcutta to Philadelphia in 1883 to earn her medical degree at the Woman’s Medical College of Pennsylvania, becoming the first Indian woman to qualify in Western medicine; her letters home trace the loneliness, winter cold, and steady resolve of those years before her death in Pune at twenty-one.",
@@ -82,6 +146,134 @@
       "toru-dutt-life-letters-1921",
       "rammohun-roy-life-letters-1914",
       "vivekananda-letters-1944"
+    ]
+  },
+  "augustine-letters-vol1-1872": {
+    "book": [
+      "The early correspondence of Aurelius Augustine (354–430), Bishop of Hippo Regius in Roman North Africa, spans his philosophical retirement at Cassiciacum, his ordination as presbyter and consecration as bishop, and his sustained pastoral and theological controversies with Donatists, Manichæans, and Pelagians. Volume I of this translation covers Letters I through XCIII (A.D. 386–408), including intimate exchanges with Nebridius, Romanianus, Paulinus of Nola and Therasia, Alypius, and Jerome on Scripture, liturgy, monastic discipline, and civic ethics.",
+      "Translated into English by the Rev. J. G. Cunningham, M.A. (1835–1907), under the general editorship of the Rev. Marcus Dods, M.A. (1834–1909), for T. & T. Clark's 'Works of Aurelius Augustine, Bishop of Hippo' (Vol. VI, Edinburgh, 1872; scan leaves 7–9). The Table of Contents (scan leaves 15–16, pp. xi–xii) lists 83 translated letters (with editorial summaries for omitted Letters 12, 24, 32, 45, 49, 52, 56, 57, 70, and 80) ending at Letter XCIII (scan leaf 456, p. 440). This Paper Lanterns edition preserves Cunningham's preface, editorial headnotes, ligatures, polytonic Greek, scriptural and historical footnotes, and epistolary layouts verbatim."
+    ],
+    "links": [
+      {
+        "label": "Augustine of Hippo on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+      },
+      {
+        "label": "Marcus Dods on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marcus_Dods_(theologian_born_1834)"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Bishop of Hippo Regius in Roman North Africa (395–430), theologian, and Doctor of the Church, whose Confessions, City of God, and extensive correspondence shaped Latin Christianity.",
+        "dates": "354–430",
+        "name": "Saint Augustine of Hippo",
+        "slug": "saint-augustine-of-hippo"
+      },
+      {
+        "bio": "Scottish Free Church minister of Lochwinnoch (later of St. Luke's, Edinburgh) who translated the two-volume selection of St. Augustine's Letters (Vols. VI and XIII) for T. & T. Clark's series.",
+        "dates": "1835–1907",
+        "name": "Rev. John George Cunningham",
+        "slug": "j-g-cunningham"
+      },
+      {
+        "bio": "Scottish Presbyterian theologian, New Testament scholar, and Principal of New College, Edinburgh, who served as general editor of T. & T. Clark's English translation of the Works of Aurelius Augustine.",
+        "dates": "1834–1909",
+        "name": "Rev. Marcus Dods",
+        "slug": "marcus-dods"
+      },
+      {
+        "bio": "Christian priest, confessor, theologian, and translator of the Latin Vulgate Bible, with whom Augustine maintained a frank and learned correspondence over scriptural interpretation and the Septuagint.",
+        "dates": "c. 347–420",
+        "name": "Saint Jerome"
+      },
+      {
+        "bio": "Roman senator, poet, and Bishop of Nola who, with his wife Therasia, corresponded warmly with Augustine on asceticism, Scripture, and ecclesiastical affairs.",
+        "dates": "c. 354–431",
+        "name": "Saint Paulinus of Nola"
+      },
+      {
+        "bio": "Lifelong friend of Augustine from Thagaste, companion in Milan and Cassiciacum, and Bishop of Thagaste.",
+        "dates": "c. 360–c. 430",
+        "name": "Saint Alypius of Thagaste"
+      },
+      {
+        "bio": "Carthaginian friend and philosophical interlocutor of Augustine during his Milanese conversion and early African retirement, represented in Letters III–XIV.",
+        "dates": "d. c. 390",
+        "name": "Nebridius"
+      },
+      {
+        "bio": "Bishop of Carthage and primate of North Africa, close collaborator of Augustine in African church councils and anti-Donatist and anti-Pelagian synods.",
+        "dates": "d. c. 430",
+        "name": "Aurelius of Carthage"
+      }
+    ],
+    "related": [
+      "augustine-letters-vol2-1875",
+      "sidonius-letters-vol1-1915",
+      "synesius-letters-1926"
+    ]
+  },
+  "augustine-letters-vol2-1875": {
+    "book": [
+      "Volume II of the Letters of Saint Augustine (Vol. XIII of T. & T. Clark's 'Works of Aurelius Augustine,' edited by the Rev. Marcus Dods and published in Edinburgh in November 1875; scan leaves 7, 9–11) completes the Rev. J. G. Cunningham's English translation of the correspondence of Augustine, Bishop of Hippo. Spanning Benedictine Letters XCV through CCLXIX (A.D. 408–429), this volume captures Augustine's mature theological, pastoral, and civic engagement across late Roman North Africa and the wider Mediterranean world.",
+      "As explained in the Prefatory Note (scan leaves 13–14, p. vi), Cunningham and Dods selected 160 of the 272 letters in the Benedictine edition across Volumes I and II, excluding letters already covered in the series' Donatist, anti-Pelagian, and Trinitarian volumes. Volume II presents 76 numbered items in the Table of Contents (scan leaves 15–16, pp. vii–viii)—75 translated letters plus Letter CCXIII, Augustine's official ecclesiastical record (gesta) designating Eraclius as his successor—including Augustine's celebrated exchanges with St. Jerome on Scripture and the origin of the soul, Flavius Marcellinus on Christianity and the Roman state after the sack of Rome, Count Boniface, Anicia Faltonia Proba on prayer, Evodius of Uzalis, and Possidius, followed by five scholarly indices (scan leaves 483–496, pp. 467–480)."
+    ],
+    "links": [
+      {
+        "label": "Augustine of Hippo on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Bishop of Hippo Regius in Roman North Africa, theologian, and Doctor of the Church, whose correspondence addresses biblical exegesis, pastoral care, imperial politics, and the Pelagian and Donatist controversies.",
+        "dates": "354–430",
+        "name": "Saint Augustine of Hippo",
+        "slug": "saint-augustine-of-hippo"
+      },
+      {
+        "bio": "Scottish Free Church minister of Lochwinnoch (later of St. Luke's, Edinburgh) who translated the two-volume selection of St. Augustine's Letters for T. & T. Clark's series.",
+        "dates": "1835–1907",
+        "name": "Rev. John George Cunningham",
+        "slug": "j-g-cunningham"
+      },
+      {
+        "bio": "Scottish Presbyterian theologian, New Testament scholar, and Principal of New College, Edinburgh, who served as general editor of T. & T. Clark's English translation of the Works of Aurelius Augustine.",
+        "dates": "1834–1909",
+        "name": "Rev. Marcus Dods",
+        "slug": "marcus-dods"
+      },
+      {
+        "bio": "Christian priest, confessor, theologian, and translator of the Latin Vulgate Bible, with whom Augustine maintained a frank and learned correspondence over scriptural interpretation and the origin of the soul.",
+        "dates": "c. 347–420",
+        "name": "Saint Jerome"
+      },
+      {
+        "bio": "Roman imperial tribune and notary sent to Africa by Emperor Honorius to preside over the Conference of Carthage (411), and a close friend to whom Augustine dedicated De Civitate Dei and several major letters.",
+        "dates": "d. 413",
+        "name": "Flavius Marcellinus"
+      },
+      {
+        "bio": "Fellow townsman and lifelong friend of Augustine from Thagaste who became Bishop of Uzalis and corresponded with Augustine on the nature of the soul and Christ's descent into hell.",
+        "dates": "d. c. 424",
+        "name": "Evodius of Uzalis"
+      },
+      {
+        "bio": "Roman Christian noblewoman of the Anicii family who fled to North Africa after the 410 sack of Rome and received Augustine's celebrated treatise-letter on prayer (Letter CXXX).",
+        "dates": "d. 432",
+        "name": "Anicia Faltonia Proba"
+      },
+      {
+        "bio": "Roman general and Comes Africae whose military campaigns, personal grief, and political turmoil prompted Augustine's counsel on Christian duty and loyalty.",
+        "dates": "d. 432",
+        "name": "Count Bonifacius"
+      }
+    ],
+    "related": [
+      "augustine-letters-vol1-1872",
+      "sidonius-letters-vol2-1915",
+      "synesius-letters-1926"
     ]
   },
   "bapu-mira-letters": {
@@ -209,6 +401,281 @@
     "related": [
       "tipu-sultan-select-letters-1811",
       "rukaat-i-alamgiri-aurangzeb-1908"
+    ]
+  },
+  "cicero-letters-vol1-1920": {
+    "book": [
+      "Opening in 68 B.C. in the thirty-ninth year of Cicero's life and running through 52 B.C., Volume I of Evelyn S. Shuckburgh's chronological translation captures the rise and crisis of Marcus Tullius Cicero's public career: his early letters to Atticus from Rome, the silence of his consulship in 63 B.C., the aftermath of the Catilinarian conspiracy, the formation of the First Triumvirate, his bitter exile to Thessalonica and Dyrrhachium in 58–57 B.C., his triumphant return, and his reluctant accommodation with Caesar and Pompey.",
+      "Evelyn Shirley Shuckburgh (1843–1906), classical scholar and Fellow of Emmanuel College, Cambridge, translated Cicero's whole extant correspondence in chronological order for George Bell and Sons (first issued 1899–1900; this G. Bell and Sons, Ltd. Vol. I printing dated 1920 on scan leaf 7). Volume I contains 181 numbered letters (I–CLXXXI), Shuckburgh's general Introduction on Cicero's life and correspondence, Quintus Cicero's De Petitione Consulatus (Commentariolum Petitionis), and Appendices A–C (including early letters to Tiro). This Paper Lanterns edition preserves Shuckburgh's historical introductions, outer-margin consular notes, classical Greek and Latin quotations, textual footnotes, and authentic epistolary layouts verbatim."
+    ],
+    "links": [
+      {
+        "label": "Cicero on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cicero"
+      },
+      {
+        "label": "Evelyn Shirley Shuckburgh on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Evelyn_Shuckburgh_(scholar)"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Roman orator, statesman, philosopher, and consul of 63 B.C. whose surviving letters begin in 68 B.C. and chronicle his political ascent, exile in 58–57 B.C., and entanglement with the First Triumvirate.",
+        "dates": "106–43 B.C.",
+        "name": "Marcus Tullius Cicero",
+        "slug": "marcus-tullius-cicero"
+      },
+      {
+        "bio": "English classical scholar, translator, and Fellow of Emmanuel College, Cambridge, who produced the first comprehensive chronological English translation of Cicero's letters alongside translations of Polybius and works on Roman history.",
+        "dates": "1843–1906",
+        "name": "Evelyn Shirley Shuckburgh",
+        "slug": "evelyn-s-shuckburgh"
+      },
+      {
+        "bio": "Roman eques, banker, and publisher, lifelong intimate friend and confidant of Cicero, to whom Cicero addressed the majority of the letters in Volume I.",
+        "dates": "110–32 B.C.",
+        "name": "Titus Pomponius Atticus"
+      },
+      {
+        "bio": "Younger brother of Marcus Cicero, praetor in 62 B.C., governor of Asia, and legate to Caesar in Gaul; author of the De Petitione Consulatus included in Volume I.",
+        "dates": "102–43 B.C.",
+        "name": "Quintus Tullius Cicero"
+      },
+      {
+        "bio": "Cicero's first wife, to whom he wrote poignant letters from exile in Thessalonica and Dyrrhachium in 58 B.C. (Fam. XIV. 1–4).",
+        "dates": "c. 98 B.C.–A.D. 6",
+        "name": "Terentia"
+      },
+      {
+        "bio": "Renowned Roman general and statesman ('Pompey the Great'), partner in the First Triumvirate with Caesar and Crassus, whose shifting political support shaped Cicero's exile and recall.",
+        "dates": "106–48 B.C.",
+        "name": "Gnaeus Pompeius Magnus"
+      },
+      {
+        "bio": "Roman consul of 57 B.C. who championed Cicero's recall from exile and subsequently governed Cilicia, receiving major political letters from Cicero in 56–54 B.C. (Fam. I. 1–9).",
+        "dates": "c. 100–48 B.C.",
+        "name": "Publius Cornelius Lentulus Spinther"
+      },
+      {
+        "bio": "Roman jurist whom Cicero recommended to Julius Caesar in Gaul and teased affectionately in a lively series of letters (Fam. VII. 6–18).",
+        "dates": "c. 84 B.C.–A.D. 4",
+        "name": "Gaius Trebatius Testa"
+      }
+    ],
+    "related": [
+      "cicero-letters-vol2-1899",
+      "cicero-letters-vol3-1900",
+      "cicero-letters-vol4-1900"
+    ]
+  },
+  "cicero-letters-vol2-1899": {
+    "book": [
+      "In May 51 B.C., Marcus Tullius Cicero reluctantly departed Rome to serve as proconsul of Cilicia, an expansive province encompassing southeastern Asia Minor and Cyprus. Over the next two years, his correspondence vividly captures his clean provincial governance, border warfare against Parthian raiders and mountain tribes on Mount Amanus (where his troops hailed him Imperator), his constant craving for political intelligence from Rome, and the dramatic unraveling of the Roman Republic as Julius Caesar and Gnaeus Pompeius drifted into civil war.",
+      "Evelyn Shirley Shuckburgh (1843–1906), classical scholar and late Fellow of Emmanuel College, Cambridge, translated the whole extant correspondence of Cicero in strict chronological order for George Bell and Sons between 1899 and 1900. Volume II collects 222 letters (Letters CLXXXII through CCCCIII) covering the crucial years 51 to 49 B.C. This Paper Lanterns edition preserves Shuckburgh's historical introductions, Roman calendar datelines, classical Greek and Latin quotations, textual footnotes, and authentic epistolary layouts verbatim."
+    ],
+    "links": [
+      {
+        "label": "Cicero on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cicero"
+      },
+      {
+        "label": "Evelyn Shirley Shuckburgh on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Evelyn_Shuckburgh_(scholar)"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Roman orator, statesman, philosopher, and consul of 63 B.C. whose intimate correspondence during his Cilician proconsulship and the outbreak of Caesar's Civil War provides an unparalleled firsthand record of late Roman Republican politics.",
+        "dates": "106–43 B.C.",
+        "name": "Marcus Tullius Cicero",
+        "slug": "marcus-tullius-cicero"
+      },
+      {
+        "bio": "English classical scholar, translator, and Fellow of Emmanuel College, Cambridge, who produced the first comprehensive chronological English translation of Cicero's letters alongside translations of Polybius and works on Roman history.",
+        "dates": "1843–1906",
+        "name": "Evelyn Shirley Shuckburgh",
+        "slug": "evelyn-s-shuckburgh"
+      },
+      {
+        "bio": "Roman eques, banker, and publisher, lifelong intimate friend and confidant of Cicero, to whom Cicero addressed hundreds of letters discussing private finances, literary works, and state affairs.",
+        "dates": "110–32 B.C.",
+        "name": "Titus Pomponius Atticus"
+      },
+      {
+        "bio": "Roman politician, orator, and curule aedile who maintained a witty, gossipy, and insightful political correspondence with Cicero in Cilicia, keeping him informed of senate debates and Caesar's maneuvers.",
+        "dates": "82–48 B.C.",
+        "name": "Marcus Caelius Rufus"
+      },
+      {
+        "bio": "Roman general, statesman, and writer whose crossing of the Rubicon in January 49 B.C. ignited the Great Roman Civil War against Pompey and the Senate.",
+        "dates": "100–44 B.C.",
+        "name": "Gaius Julius Caesar"
+      },
+      {
+        "bio": "Renowned Roman general and statesman ('Pompey the Great') who led the senatorial faction against Caesar in the Civil War of 49–48 B.C.",
+        "dates": "106–48 B.C.",
+        "name": "Gnaeus Pompeius Magnus"
+      },
+      {
+        "bio": "Roman senator and Stoic philosopher ('Cato the Younger'), renowned for unbending integrity and stubborn defence of the Republic against Caesar and Pompey.",
+        "dates": "95–46 B.C.",
+        "name": "Marcus Porcius Cato"
+      },
+      {
+        "bio": "Roman patrician, consul of 54 B.C. and Cicero's predecessor as governor of Cilicia, with whom Cicero conducted a tense and formal correspondence concerning provincial restitution and augural lore.",
+        "dates": "97–48 B.C.",
+        "name": "Appius Claudius Pulcher"
+      }
+    ],
+    "related": [
+      "cicero-letters-vol1-1920",
+      "cicero-letters-vol3-1900",
+      "cicero-letters-vol4-1900"
+    ]
+  },
+  "cicero-letters-vol3-1900": {
+    "book": [
+      "Following Pompey's defeat at Pharsalus in 48 B.C., Marcus Tullius Cicero spent a miserable year at Brundisium awaiting Julius Caesar's pardon, then returned to Rome under Caesar's dictatorship. Between 46 and February 44 B.C.—shadowed by divorce from Terentia, the death of his beloved daughter Tullia, and the eclipse of Republican liberty—Cicero turned to intense philosophical and rhetorical composition while corresponding with Republican exiles, Caesarian partisans, and lifelong confidants.",
+      "Evelyn Shirley Shuckburgh (1843–1906), classical scholar and late Fellow of Emmanuel College, Cambridge, translated Cicero's whole extant correspondence in chronological order for George Bell and Sons (1899–1900). Volume III (published 1900; scan leaves 9, 11–14) collects 292 numbered letters (Letters CCCCIV through DCXCV, scan leaves 33–394) covering 48 to February 44 B.C., together with Appendix A (undated letters of recommendation, scan leaves 395–400) and Appendix B (chronological dates in Cicero's life, scan leaves 401–414). This Paper Lanterns edition preserves Shuckburgh's historical introduction, Roman calendar datelines, classical Greek and Latin quotations, textual footnotes, and authentic epistolary layouts verbatim."
+    ],
+    "links": [
+      {
+        "label": "Cicero on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cicero"
+      },
+      {
+        "label": "Evelyn Shirley Shuckburgh on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Evelyn_Shuckburgh_(scholar)"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Roman orator, statesman, philosopher, and consul of 63 B.C. whose letters of 48–44 B.C. chronicle his return to Rome after Pharsalus, private grief at Tullia's death, and life under Caesar's dictatorship.",
+        "dates": "106–43 B.C.",
+        "name": "Marcus Tullius Cicero",
+        "slug": "marcus-tullius-cicero"
+      },
+      {
+        "bio": "English classical scholar, translator, and Fellow of Emmanuel College, Cambridge, who produced the first comprehensive chronological English translation of Cicero's letters alongside translations of Polybius and works on Roman history.",
+        "dates": "1843–1906",
+        "name": "Evelyn Shirley Shuckburgh",
+        "slug": "evelyn-s-shuckburgh"
+      },
+      {
+        "bio": "Roman eques, banker, and publisher, lifelong intimate friend and confidant of Cicero, to whom Cicero wrote almost daily during 45 B.C. following Tullia's death.",
+        "dates": "110–32 B.C.",
+        "name": "Titus Pomponius Atticus"
+      },
+      {
+        "bio": "Roman general, dictator, and statesman who pardoned Cicero after Pharsalus and whose autocratic rule forms the political backdrop of Volume III up to February 44 B.C.",
+        "dates": "100–44 B.C.",
+        "name": "Gaius Julius Caesar"
+      },
+      {
+        "bio": "Roman jurist, consul of 51 B.C., and proconsul of Achaia, author of the famous letter of consolation to Cicero upon Tullia's death in 45 B.C. (Fam. IV, 5).",
+        "dates": "c. 106–43 B.C.",
+        "name": "Servius Sulpicius Rufus"
+      },
+      {
+        "bio": "Roman senator and consul of 51 B.C. who went into voluntary exile at Mytilene after Pharsalus, was pardoned by Caesar in 46 B.C., and was murdered at Piraeus on his return journey.",
+        "dates": "d. 45 B.C.",
+        "name": "Marcus Claudius Marcellus"
+      },
+      {
+        "bio": "Roman senator and general who corresponded with Cicero on philosophy and politics under Caesar's dictatorship before helping lead the conspiracy of the Ides of March.",
+        "dates": "before 85–42 B.C.",
+        "name": "Gaius Cassius Longinus"
+      },
+      {
+        "bio": "Roman senator, Stoic-Academic philosopher, and close literary correspondent of Cicero, to whom Cicero dedicated major philosophical and rhetorical treatises in 46–45 B.C.",
+        "dates": "85–42 B.C.",
+        "name": "Marcus Junius Brutus"
+      },
+      {
+        "bio": "Cicero's freedman, confidential secretary, and literary executor, to whom Cicero wrote affectionate letters concerning his health, household, and library.",
+        "dates": "c. 103–4 B.C.",
+        "name": "Marcus Tullius Tiro"
+      },
+      {
+        "bio": "Cicero's first wife of three decades, whose correspondence with Cicero in 48–47 B.C. reflects the strain of the civil war and precedes their divorce.",
+        "dates": "c. 98 B.C.–A.D. 6",
+        "name": "Terentia"
+      }
+    ],
+    "related": [
+      "cicero-letters-vol1-1920",
+      "cicero-letters-vol2-1899",
+      "cicero-letters-vol4-1900"
+    ]
+  },
+  "cicero-letters-vol4-1900": {
+    "book": [
+      "Following the assassination of Julius Caesar on the Ides of March, 44 B.C., Marcus Tullius Cicero returned to the center of Roman political life, rallying the Senate against Mark Antony through his Philippic orations and an intense correspondence with the Republican generals in the provinces. Across 44 and 43 B.C., these letters—exchanged with Atticus, Decimus Brutus, Marcus Brutus, Cassius, Lucius Munatius Plancus, and Gaius Asinius Pollio—chronicle the fragile senatorial coalition, the Siege of Mutina, Octavian's march on Rome, and the formation of the Second Triumvirate.",
+      "Evelyn Shirley Shuckburgh (1843–1906), classical scholar and late Fellow of Emmanuel College, Cambridge, translated the whole extant correspondence of Cicero in chronological order for George Bell and Sons between 1899 and 1900 (title leaf, scan leaf 9). Volume IV collects Letters DCXCVI (scan leaf 53, p. 1) through DCCCCXI (scan leaf 378, p. 326), together with Mark Antony's letter to Hirtius and Octavian from the Thirteenth Philippic (Preface, scan leaf 11, p. v), the Appendix letter of Pseudo-Cicero to Octavian (scan leaves 381–385, pp. 329–333), and the General Index to Volumes I–IV (scan leaves 387–438, pp. 335–386). This Paper Lanterns edition preserves Shuckburgh's introduction, Roman calendar datelines, Greek and Latin quotations, textual footnotes, and authentic epistolary layouts verbatim."
+    ],
+    "links": [
+      {
+        "label": "Cicero on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cicero"
+      },
+      {
+        "label": "Evelyn Shirley Shuckburgh on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Evelyn_Shuckburgh_(scholar)"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Roman orator, statesman, philosopher, and consul of 63 B.C. who led the senatorial opposition to Mark Antony in 44–43 B.C. before being proscribed and executed by the Second Triumvirate.",
+        "dates": "106–43 B.C.",
+        "name": "Marcus Tullius Cicero",
+        "slug": "marcus-tullius-cicero"
+      },
+      {
+        "bio": "English classical scholar, translator, and Fellow of Emmanuel College, Cambridge, who produced the first comprehensive chronological English translation of Cicero's letters alongside translations of Polybius and works on Roman history.",
+        "dates": "1843–1906",
+        "name": "Evelyn Shirley Shuckburgh",
+        "slug": "evelyn-s-shuckburgh"
+      },
+      {
+        "bio": "Roman eques, banker, and publisher, lifelong intimate friend and confidant of Cicero, to whom Cicero addressed hundreds of letters discussing private finances, literary works, and state affairs.",
+        "dates": "110–32 B.C.",
+        "name": "Titus Pomponius Atticus"
+      },
+      {
+        "bio": "Roman general, governor of Cisalpine Gaul, and one of the assassins of Julius Caesar, who held Mutina against Mark Antony during the winter of 44–43 B.C. and corresponded frequently with Cicero.",
+        "dates": "c. 85–43 B.C.",
+        "name": "Decimus Junius Brutus Albinus"
+      },
+      {
+        "bio": "Roman senator and leader of the Liberatores who assassinated Julius Caesar in 44 B.C., later commanding Republican forces in Macedonia and Greece.",
+        "dates": "85–42 B.C.",
+        "name": "Marcus Junius Brutus"
+      },
+      {
+        "bio": "Roman senator, general, and co-leader with Marcus Brutus of the conspiracy against Julius Caesar, who secured Syria and the eastern provinces for the Republican cause in 43 B.C.",
+        "dates": "before 85–42 B.C.",
+        "name": "Gaius Cassius Longinus"
+      },
+      {
+        "bio": "Roman senator and governor of Gallia Comata in 44–43 B.C. whose dispatches to Cicero and the Senate document his shifting allegiance during the Mutina campaign.",
+        "dates": "c. 87–c. 15 B.C.",
+        "name": "Lucius Munatius Plancus"
+      },
+      {
+        "bio": "Roman politician and general ('Mark Antony'), consul with Caesar in 44 B.C., who sought to succeed to Caesar's power, besieged Decimus Brutus at Mutina, and formed the Second Triumvirate in 43 B.C.",
+        "dates": "83–30 B.C.",
+        "name": "Marcus Antonius"
+      },
+      {
+        "bio": "Julius Caesar's adopted son and heir ('Octavian', later Emperor Augustus), whose rapid rise in 44–43 B.C. first allied him with Cicero and the Senate against Antony before his pact with Antony and Lepidus.",
+        "dates": "63 B.C.–A.D. 14",
+        "name": "Gaius Julius Caesar Octavianus"
+      }
+    ],
+    "related": [
+      "cicero-letters-vol1-1920",
+      "cicero-letters-vol2-1899",
+      "cicero-letters-vol3-1900"
     ]
   },
   "cortes-letters-vol1-1908": {
@@ -645,6 +1112,128 @@
       "nineteenth-century-letters-1919"
     ]
   },
+  "fronto-correspondence-vol1-1919": {
+    "book": [
+      "Rediscovered in 1815 by Cardinal Angelo Mai on a palimpsest divided between the Ambrosian Library at Milan and the Vatican Library at Rome (Preface, scan leaf 13; Introduction, scan leaves 19–24), the correspondence of Marcus Cornelius Fronto (c. A.D. 100–c. 166/170) offers an intimate portrait of Roman literary and court life under the Antonines. Volume I spans A.D. 139–161 (scan leaves 67–373), preserving Fronto's letters to and from his imperial pupil Marcus Aurelius (as Caesar and as Emperor), alongside letters involving Antoninus Pius, Lucius Verus, Domitia Lucilla, Appian, Herodes Atticus, and Roman friends.",
+      "Charles Reginald Haines (1856–1935) edited the Latin and Greek text anew and produced this first English translation in 1919 (title leaf, scan leaf 11; Preface, scan leaf 13). Volume I includes Haines's Preface (scan leaves 13–14), Introduction and essay 'Fronto, the Orator and the Man' (scan leaves 17–50), Bibliography (scan leaves 51–59), Chronological Table (scan leaves 60–62), Sigla (scan leaf 63), and 152 translated letters and speeches across 154 English facing-page leaves (scan leaves 67–373). This Paper Lanterns edition preserves Haines's historical apparatus, polytonic Greek quotations, textual footnotes, and authentic epistolary layouts verbatim."
+    ],
+    "links": [
+      {
+        "label": "Marcus Cornelius Fronto on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marcus_Cornelius_Fronto"
+      },
+      {
+        "label": "Second IA Witness (correspondenceof0001fron)",
+        "url": "https://archive.org/details/correspondenceof0001fron"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Roman grammarian, rhetorician, and consul suffectus of A.D. 143 (Chronological Table, scan leaf 61), born at Cirta in Numidia, who served as tutor in Latin rhetoric to Marcus Aurelius and Lucius Verus.",
+        "dates": "c. A.D. 100–c. 166/170",
+        "name": "Marcus Cornelius Fronto",
+        "slug": "marcus-cornelius-fronto"
+      },
+      {
+        "bio": "Roman emperor (r. A.D. 161–180) and Stoic philosopher, adopted by Antoninus Pius and made Caesar in A.D. 139, whose youthful correspondence with his rhetoric master Fronto fills the bulk of Volume I.",
+        "dates": "A.D. 121–180",
+        "name": "Marcus Aurelius Antoninus",
+        "slug": "marcus-aurelius"
+      },
+      {
+        "bio": "Roman emperor (r. A.D. 138–161), adoptive father of Marcus Aurelius and Lucius Verus, to whom Fronto addressed letters on his Asian proconsulship (scan leaf 301, p. 237).",
+        "dates": "A.D. 86–161",
+        "name": "Antoninus Pius"
+      },
+      {
+        "bio": "Co-emperor with Marcus Aurelius (r. A.D. 161–169) and pupil of Fronto, who corresponded warmly with his former teacher.",
+        "dates": "A.D. 130–169",
+        "name": "Lucius Verus"
+      },
+      {
+        "bio": "Mother of Marcus Aurelius and correspondent of Fronto, who exchanged Greek and Latin letters with her (scan leaf 79 fn. 1).",
+        "dates": "d. c. A.D. 155–161",
+        "name": "Domitia Lucilla"
+      },
+      {
+        "bio": "Greek historian of Rome and friend of Fronto, who exchanged Greek letters with him on gifts and friendship.",
+        "dates": "c. A.D. 95–c. 165",
+        "name": "Appian of Alexandria"
+      },
+      {
+        "bio": "Athenian sophist, Roman consul of A.D. 143, and rhetoric tutor to Marcus Aurelius, reconciled with Fronto through Marcus's mediation.",
+        "dates": "A.D. 101–177",
+        "name": "Herodes Atticus"
+      },
+      {
+        "bio": "English classical scholar who edited and produced the first English translation of Fronto's correspondence (2 vols., 1919–1920).",
+        "dates": "1856–1935",
+        "name": "Charles Reginald Haines",
+        "slug": "c-r-haines"
+      }
+    ],
+    "related": [
+      "fronto-correspondence-vol2-1929",
+      "pliny-letters-vol1-1915",
+      "seneca-epistles-vol1-1917"
+    ]
+  },
+  "fronto-correspondence-vol2-1929": {
+    "book": [
+      "Volume II of C. R. Haines's edition and translation of the Correspondence of Marcus Cornelius Fronto (first published 1920; revised and reprinted 1929, scan leaf 10) continues the letters between Fronto and Marcus Aurelius from 162 A.D. through the Parthian War and Fronto's correspondence with Lucius Verus, Antoninus Pius, and friends such as Praecilius Pompeianus, Arrius Antoninus, Claudius Julianus, and Aufidius Victorinus.",
+      "Alongside the main correspondence (pp. 1–247, scan leaves 13–259), this volume preserves Other Miscellaneous Remains of Fronto (pp. 249–285, scan leaves 261–297), Miscellaneous Letters of Marcus Aurelius with Haines's critical Introduction and Addendum (pp. 287–320, scan leaves 299–332), and the complete volume Indexes (Index of Names, Latin and Greek Index, Table of Matters, and Conspectus of Pages, pp. 321–371, scan leaves 333–383). This Paper Lanterns edition preserves Haines's English translation, textual footnotes, classical quotations, and epistolary layouts verbatim."
+    ],
+    "links": [
+      {
+        "label": "Marcus Cornelius Fronto on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marcus_Cornelius_Fronto"
+      },
+      {
+        "label": "Marcus Aurelius on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Roman grammarian, rhetorician, and consul suffectus in 143 A.D. from Cirta in Numidia; rhetoric tutor and lifelong correspondent of Marcus Aurelius and Lucius Verus.",
+        "dates": "c. A.D. 100–170",
+        "name": "Marcus Cornelius Fronto",
+        "slug": "marcus-cornelius-fronto"
+      },
+      {
+        "bio": "Roman Emperor (161–180 A.D.) and Stoic philosopher, whose intimate letters to and from his tutor Fronto illuminate his youth, family life, and early reign.",
+        "dates": "A.D. 121–180",
+        "name": "Marcus Aurelius Antoninus",
+        "slug": "marcus-aurelius"
+      },
+      {
+        "bio": "Co-emperor of Rome with Marcus Aurelius (161–169 A.D.) and commander during the Parthian War (162–166 A.D.), also a former pupil of Fronto.",
+        "dates": "A.D. 130–169",
+        "name": "Lucius Verus"
+      },
+      {
+        "bio": "Daughter of Antoninus Pius and wife of Marcus Aurelius, featured in the Miscellaneous Letters of Marcus Aurelius during the revolt of Avidius Cassius (175 A.D., scan leaves 327–331).",
+        "dates": "c. A.D. 130–175",
+        "name": "Faustina the Younger"
+      },
+      {
+        "bio": "Roman senator, consul, and praefectus urbi; fellow pupil of Fronto with Marcus Aurelius and husband of Fronto's daughter Gratia.",
+        "dates": "c. A.D. 122–185",
+        "name": "Aufidius Victorinus"
+      },
+      {
+        "bio": "English classical scholar who edited and produced the first complete English translation of Fronto's correspondence (2 vols., 1919–1920; revised 1929).",
+        "dates": "1856–1935",
+        "name": "Charles Reginald Haines",
+        "slug": "c-r-haines"
+      }
+    ],
+    "related": [
+      "fronto-correspondence-vol1-1919",
+      "pliny-letters-vol2-1915",
+      "julian-works-vol3-1923"
+    ]
+  },
   "gandhi-famous-letters-1947": {
     "book": [
       "Gandhi treated the open letter to an adversary—always beginning ‘Dear Friend’—as a formal step of satyagraha: state your case plainly before acting. Gathered here are twenty-nine of his most consequential public letters from 1920 to 1943, including his return of the Kaisar-i-Hind medal, his March 1930 ultimatum to Lord Irwin on the eve of the Salt March, his wartime appeals to ‘Every Briton’ and to Adolf Hitler, and his exchanges with Viceroy Linlithgow from the Aga Khan Palace.",
@@ -674,6 +1263,75 @@
       "tagore-letters-to-a-friend-1928"
     ]
   },
+  "hammurabi-letters-1900": {
+    "book": [
+      "Excavated from Old Babylonian clay tablets in southern Mesopotamia and preserved in the British Museum, the eighty-three cuneiform letters translated in this volume offer an immediate, unvarnished record of royal administration under the First Dynasty of Babylon in the eighteenth and seventeenth centuries B.C. (dated on the 1900 title page to 'about B.C. 2200' from Nabonidus's round figures before twentieth-century Mari and Venus-tablet chronology placed Hammurabi's reign at c. 1792–1750 B.C.; Introduction, scan leaves 80–81, pp. lxx–lxxi). Fifty-five royal dispatches pass directly from Hammurabi (Ḫammurabi) to Sin-idinnam, his high official in southern Babylonia at Larsam (Section I, scan leaves 85–198, pp. 3–116), directing troop movements (Letter I, scan leaf 85, p. 3), the conveyance and return of Elamite goddesses (Letters II–III, scan leaves 88–93, pp. 6–11), the insertion of an intercalary second Elul in the calendar (Letter IV, scan leaf 94, p. 12), the dredging of the Damanum and Erech canals (Letters V–VII, scan leaves 96–101, pp. 14–19), bribery inquiries and restitution against money-lenders (Letters VIII–XIII, scan leaves 102–114, pp. 20–32), temple and tax audits (Letters XIX–XXI, scan leaves 127–133, pp. 45–51), timber and grain convoys to Babylon (Letters XXII–XXVIII, scan leaves 134–148, pp. 52–66), royal sheep-shearing accounts (Letters XXX–XXXV, scan leaves 150–162, pp. 68–80), and arrest warrants for insubordinate officials (Letters LIII–LV, scan leaves 192–198, pp. 110–116). Sections II–VI add twenty-six royal letters of Hammurabi's successors—Samsu-iluna (6 letters, scan leaves 199–211, pp. 117–129), Abēšu’ / Abi-eshuh (13 letters, scan leaves 212–238, pp. 130–156), Ammiditana / Ammi-ditana (2 letters, scan leaves 239–243, pp. 157–161), and Ammizaduga / Ammi-saduqa (5 sheep-shearing summonses to Ibni-Sin, scan leaves 244–249, pp. 162–167)—addressed largely to the merchant guild (Kār-Sippar) and judges of Sippar, together with two Miscellaneous Letters involving Sin-idinnam, the court in Kutalla, and Sin-idinnam's wife Aḫatim (scan leaves 250–253, pp. 168–171).",
+      "Assyriologist Leonard William King, M.A., F.S.A. (1869–1919), Assistant in the Department of Egyptian and Assyrian Antiquities at the British Museum, edited the cuneiform autographs in Volumes I–II (1898–1900) and completed the work with Volume III: English Translations, etc., issued as Vol. VIII of Luzac’s Semitic Text and Translation Series (London: Luzac and Co., printed by Stephen Austin and Sons at Hertford, Preface dated September 1st, 1900; scan leaves 9–20). Alongside paired Akkadian transliterations (Obv./Rev.), line-numbered English translations, and historical headnotes for all eighty-three letters, Volume III contains the Frontispiece portrait sculpture of Hammurabi (Brit. Mus., No. 22,454; scan leaf 14), King's Introduction on Old Babylonian postal convoys, clay tablets and envelopes, greeting formulae, provincial administration, and First Dynasty chronology (scan leaves 27–81, pp. xix–lxxi), Royal Inscriptions of Hammurabi and later kings of the dynasty (Sections VII–IX, scan leaves 254–293, pp. 172–211), the Chronicle of the Kings of the First Dynasty (Section X, scan leaves 294–335, pp. 212–253), the Appendix (scan leaves 336–340, pp. 254–258), and complete Babylonian and Sumerian Vocabularies and Indices (scan leaves 341–417, pp. 259–335). This Paper Lanterns edition preserves King's Assyriological diacritics (Ḫ, Š, Ṣ, Ṭ, Ḳ, macrons), determinative superscripts, outer-margin shoulder notes, and critical footnotes verbatim.",
+      "Source Text & Copyright Provenance: Edited and translated by Leonard William King (1869–1919), published in London by Luzac and Co. in 1900 (digitized from Cornell University Library at Internet Archive as cu31924104781285). Published in 1900 by an editor-translator who died in 1919, this work is in the public domain worldwide."
+    ],
+    "links": [
+      {
+        "label": "Hammurabi on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hammurabi"
+      },
+      {
+        "label": "Leonard William King on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Leonard_William_King"
+      },
+      {
+        "label": "First Dynasty of Babylon on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/First_Dynasty_of_Babylon"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Sixth Amorite king of the First Dynasty of Babylon (dated in King's 1900 edition to 'about B.C. 2200'; scan leaves 15, 80–81), conqueror of Rim-Sin of Larsa and promulgator of the Code of Hammurabi, whose fifty-five administrative and judicial letters to Sin-idinnam open this volume (scan leaves 85–198, pp. 3–116).",
+        "dates": "r. c. 1792–1750 B.C.",
+        "name": "Hammurabi",
+        "slug": "hammurabi-king-of-babylonia"
+      },
+      {
+        "bio": "British Assyriologist, Assistant in the Department of Egyptian and Assyrian Antiquities at the British Museum and later Professor of Assyrian and Babylonian Archaeology at King's College London, who edited, transliterated, and translated this three-volume corpus of First Dynasty letters and inscriptions (scan leaves 15, 17–20).",
+        "dates": "1869–1919",
+        "name": "Leonard William King",
+        "slug": "l-w-king"
+      },
+      {
+        "bio": "High Babylonian royal administrator stationed at Larsam under Hammurabi (and bearer of a common Old Babylonian official name recurring in Sippar judicial dispatches under Samsu-iluna, Abi-eshuh, and Ammi-ditana; Introduction, scan leaves 34–36, pp. xxvi–xxviii; Letter LXXXIII, scan leaf 251, p. 169).",
+        "dates": "fl. 18th century B.C.",
+        "name": "Sin-idinnam"
+      },
+      {
+        "bio": "Seventh king of the First Dynasty of Babylon, son and successor of Hammurabi, represented here by six royal letters on fishing rights, temple grain, tax relief, and judicial administration at Sippar alongside his bilingual building inscription (scan leaves 199–211, 281–288; pp. 117–129, 199–206).",
+        "dates": "r. c. 1749–1712 B.C.",
+        "name": "Samsu-iluna"
+      },
+      {
+        "bio": "Eighth king of the First Dynasty of Babylon (printed Abēšu’), son of Samsu-iluna, author of thirteen administrative and judicial letters to Sin-idinnam, Marduk-naṣir, the merchant guild (Kār-Sippar), and the judges of Sippar concerning canal floods, fugitive slaves, tribute, and corn harvests (scan leaves 212–238, pp. 130–156).",
+        "dates": "r. c. 1711–1684 B.C.",
+        "name": "Abi-eshuh"
+      },
+      {
+        "bio": "Ninth king of the First Dynasty of Babylon (printed Ammiditana), son of Abi-eshuh, represented by two letters concerning grain shipments to Šamaš-natsir upon favourable omens and overdue shepherd tribute at Sippar-iaḫrurum (scan leaves 239–243, pp. 157–161).",
+        "dates": "r. c. 1683–1647 B.C.",
+        "name": "Ammi-ditana"
+      },
+      {
+        "bio": "Tenth king of the First Dynasty of Babylon (printed Ammizaduga), son of Ammi-ditana, represented by five royal summonses ordering Ibni-Sin and other Sippar officials to attend the annual New Year sheep-shearing at the House of the New Year's Festival in Babylon (scan leaves 244–249, pp. 162–167).",
+        "dates": "r. c. 1646–1626 B.C.",
+        "name": "Ammi-saduqa"
+      },
+      {
+        "bio": "Keeper of Egyptian and Assyrian Antiquities at the British Museum, general editor of Luzac's Semitic Text and Translation Series (scan leaf 10), who acquired many of the First Dynasty tablets in Babylonia and assisted King during the preparation of the work (Preface, scan leaf 20, p. xii).",
+        "dates": "1857–1934",
+        "name": "E. A. Wallis Budge"
+      }
+    ],
+    "related": [
+      "plato-epistles-1925",
+      "fifty-famous-letters-1930"
+    ]
+  },
   "hooker-tour-1848": {
     "book": [
       "In November 1847 the young botanist Joseph Dalton Hooker boarded the steam-frigate Sidon alongside the incoming Governor-General Lord Dalhousie, bound for Calcutta and the Himalayas. In four long, observant letters sent home from Madeira, Alexandria, Cairo, Suez, Aden, Ceylon, and Bengal, he sketches desert plants, coastal rock strata, shipboard boredom, and his first bewildered days on the Hooghly.",
@@ -700,6 +1358,86 @@
     "related": [
       "faraday-schoenbein-1899",
       "humboldt-varnhagen-letters-1860"
+    ]
+  },
+  "horace-epistles-1926": {
+    "book": [
+      "Published between 20 B.C. and c. 13 B.C. (Introduction, scan leaves 18–19, pp. xii–xiii), the twenty-three verse letters of Quintus Horatius Flaccus (Horace, 65–8 B.C.) transform the Roman poetic epistle into an intimate vehicle for ethical reflection, friendship, rural retirement, and literary criticism. Book I (twenty epistles, 20 B.C.; scan leaves 283–427, pp. 247–391) opens with Horace's farewell to lyric verse addressed to his patron Gaius Maecenas (Epist. I. i, scan leaves 284–295) and ranges across moral letters to young Maximus Lollius on reading Homer at Praeneste (I. ii, scan leaves 296–303), inquiries to Julius Florus on Tiberius's Eastern expedition (I. iii, scan leaves 305–309), console-and-counsel notes to the elegist Albius Tibullus (I. iv, scan leaves 311–313), a model letter of introduction to the future emperor Tiberius (I. ix, scan leaves 345–347), praise of Sabine country peace to Aristius Fuscus and to his own farm bailiff (I. x and I. xiv, scan leaves 349–355, 373–377), and the famous closing address to his own book (I. xx, scan leaves 423–427).",
+      "Book II (scan leaves 428–477, pp. 392–441) and the Ars Poetica or Epistle to the Pisos (scan leaves 478–525, pp. 442–489) present Horace's mature literary criticism: his defence of modern Roman poetry addressed to the Emperor Augustus (II. i, scan leaves 428–455), his reflections on poetic craft and philosophical old age to Julius Florus (II. ii, scan leaves 457–477), and his celebrated epistolary treatise on dramatic and poetic propriety addressed to Calpurnius Piso and his two sons (Ars Poetica, scan leaves 478–525). Translated into rhythmic English prose with analytical introductions to each epistle, explanatory footnotes, and an Index of Proper Names by Henry Rushton Fairclough (1862–1938), Professor of Classical Literature at Stanford University (first printed 1926, revised and reprinted 1929, London: William Heinemann Ltd.; prepared from the unmodified 1942 impression of the 1929 revised text, scan leaves 9–10, 13–14), this edition slice presents the complete English Epistles and Ars Poetica alongside Fairclough's Preface, General Introduction (scan leaves 13–36, pp. vii–xxx), and Index of Proper Names (scan leaves 527–545, pp. 491–509)."
+    ],
+    "links": [
+      {
+        "label": "Horace on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Horace"
+      },
+      {
+        "label": "Epistles (Horace) on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Epistles_(Horace)"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Roman lyric poet, satirist, and epistolary philosopher, freedman's son of Venusia who fought under Brutus at Philippi before winning the friendship of Maecenas and receiving the Sabine farm in 33 B.C. (scan leaves 17, 427; pp. xi, 391).",
+        "dates": "65–8 B.C.",
+        "name": "Quintus Horatius Flaccus",
+        "slug": "horace"
+      },
+      {
+        "bio": "Henry Rushton Fairclough, Canadian-born classical scholar and Professor of Classical Literature at Stanford University (title leaf, scan leaf 9), who prepared the English prose translation, analytical epistle introductions, notes, and Index of Proper Names (Preface dated December 15, 1925 and February 4, 1929, scan leaf 14).",
+        "dates": "1862–1938",
+        "name": "H. Rushton Fairclough",
+        "slug": "h-rushton-fairclough"
+      },
+      {
+        "bio": "Etruscan-descended Roman knight, trusted diplomatic adviser of Augustus, and literary patron of Virgil and Horace, who presented Horace with his Sabine estate in 33 B.C. and is addressed in Epistles I. i, I. vii, and I. xix (scan leaves 17, 284, 329, 415, 536).",
+        "dates": "c. 70–8 B.C.",
+        "name": "Gaius Cilnius Maecenas"
+      },
+      {
+        "bio": "First Roman Emperor (reigned 27 B.C.–A.D. 14), who gently reproached Horace for not addressing any of his conversational poems to him and thereby prompted Epistle II. i on the history and dignity of Roman literature (scan leaves 428, 433, 529).",
+        "dates": "63 B.C.–A.D. 14",
+        "name": "Gaius Julius Caesar Augustus"
+      },
+      {
+        "bio": "Young Roman orator, poet, and companion in the Eastern retinue of Tiberius Claudius Nero, to whom Horace addressed Epistle I. iii and the major literary letter Epistle II. ii (scan leaves 18, 305, 457, 533).",
+        "dates": "fl. c. 20 B.C.",
+        "name": "Julius Florus"
+      },
+      {
+        "bio": "Young Roman student of rhetoric and veteran of Augustus's Cantabrian campaign (25–24 B.C.), probably eldest son of the consul Marcus Lollius (21 B.C.), addressed by Horace on Homer's moral wisdom in Epistle I. ii and on courtly independence in Epistle I. xviii (scan leaves 296, 402).",
+        "dates": "fl. c. 25–20 B.C.",
+        "name": "Maximus Lollius"
+      },
+      {
+        "bio": "Roman elegiac poet and candid critic of Horace's Sermones, who died in 19 B.C. shortly after Virgil, addressed at his country retreat near Pedum in Epistle I. iv (scan leaves 311, 313, 527).",
+        "dates": "c. 55–19 B.C.",
+        "name": "Albius Tibullus"
+      },
+      {
+        "bio": "Stepson of Augustus and future Roman Emperor (A.D. 14–37), commander of the Eastern expedition of 20 B.C. mentioned in Epistles I. iii and I. xii, and recipient of Horace's deft letter of recommendation for Septimius in Epistle I. ix (scan leaves 18, 305, 345, 543).",
+        "dates": "42 B.C.–A.D. 37",
+        "name": "Tiberius Claudius Nero"
+      },
+      {
+        "bio": "A Roman nobleman and his two sons of the Calpurnian gens—identified either with Lucius Calpurnius Piso (consul 15 B.C., urban prefect A.D. 14) or Gnaeus Calpurnius Piso (consul 23 B.C., fellow-officer of Horace under Brutus) and his sons Gnaeus and Lucius—to whom Horace addressed the Ars Poetica (scan leaves 19, 478, 539–540).",
+        "dates": "1st century B.C.",
+        "name": "The Pisos (Calpurnius Piso and Sons)"
+      },
+      {
+        "bio": "Roman grammarian, writer of dramas, and intimate city-loving friend of Horace, to whom Horace praised the streams and woods of his Sabine farm in Epistle I. x (scan leaves 349, 351, 528).",
+        "dates": "1st century B.C.",
+        "name": "Marcus Aristius Fuscus"
+      },
+      {
+        "bio": "Philosophically minded friend of Horace and procurator of Marcus Vipsanius Agrippa's estates in Sicily, to whom Horace commended Pompeius Grosphus and recounted contemporary Roman news in Epistle I. xii (scan leaves 363, 365, 534).",
+        "dates": "fl. c. 26–20 B.C.",
+        "name": "Iccius"
+      }
+    ],
+    "related": [
+      "ovid-tristia-ex-ponto-1924",
+      "cicero-letters-vol1-1920",
+      "seneca-epistles-vol1-1917"
     ]
   },
   "hugo-letters-vol1-1896": {
@@ -807,6 +1545,62 @@
     "related": [
       "faraday-schoenbein-1899",
       "hooker-tour-1848"
+    ]
+  },
+  "julian-works-vol3-1923": {
+    "book": [
+      "Spanning A.D. 354 to 363 from Julian's student days and his campaigns in Gaul as Caesar to his sole reign as Augustus and final Persian expedition, Volume III of Wilmer Cave Wright's edition and translation gathers Julian's extant correspondence alongside his polemical treatise Against the Galilaeans. The letters illuminate his philosophical circle (Priscus, Maximus of Ephesus, Iamblichus, Libanius, Oribasius), his religious reforms as Pontifex Maximus, his edicts on Christian teachers and Alexandrian civic affairs, and his private correspondence with family and officials.",
+      "Wilmer Cave Wright, Ph.D. (1868–1951), late of Girton College, Cambridge, and Professor of Greek in Bryn Mawr College, Pennsylvania (title leaf, scan leaf 9), published Volume III in 1923 (MCMXXIII). As detailed in the Contents (scan leaf 11), the volume comprises an Introduction to the Letters and Bibliography (pp. vii–lxvii), Letters 1–58 with Dates (pp. 3–209), Letters 59–73 Undated (pp. 209–237), Apocryphal Letters 74–83 (pp. 237–293), The Shorter Fragments 1–14 (pp. 295–303), Epigrams (pp. 305–309), Introduction to Against the Galilaeans (pp. 313–317), Against the Galilaeans Book I and Fragments (pp. 319–433), a Hertlein/Wright/Bidez-Cumont Table of Numbers (pp. 435–438), and an Index (pp. 439–448). This Paper Lanterns edition preserves Wright's English translation, outer-margin chronological notes, polytonic Greek citations, textual footnotes, and concordance tables verbatim.",
+      "Source Text: Translated by Wilmer Cave Wright (1868–1951) and published in 1923 (The Works of the Emperor Julian, Vol. III, London: William Heinemann; New York: G. P. Putnam's Sons, MCMXXIII; scan leaves 9–10). Published in 1923, this edition is in the public domain in the United States and in jurisdictions applying a life-plus-seventy-years copyright term; readers accessing this work from jurisdictions with longer post-mortem terms (such as eighty or one hundred years post mortem auctoris) should check applicable local copyright laws."
+    ],
+    "links": [
+      {
+        "label": "Emperor Julian on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Julian_(emperor)"
+      },
+      {
+        "label": "Wilmer Cave Wright on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wilmer_Cave_Wright"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Flavius Claudius Julianus, Roman Emperor (361–363), Neoplatonist philosopher, and author, whose extant letters and polemical treatise Against the Galilaeans survive in this third and final volume of his collected works.",
+        "dates": "331–363",
+        "name": "Emperor Julian",
+        "slug": "julian-emperor-of-rome"
+      },
+      {
+        "bio": "English-born classical scholar, alumna of Girton College, Cambridge, and Professor of Greek at Bryn Mawr College, who translated the three-volume edition of the Works of the Emperor Julian (1913–1923).",
+        "dates": "1868–1951",
+        "name": "Wilmer Cave Wright",
+        "slug": "wilmer-cave-wright"
+      },
+      {
+        "bio": "Greek rhetorician and sophist of Antioch, close friend and correspondent of Emperor Julian.",
+        "dates": "c. 314–393",
+        "name": "Libanius"
+      },
+      {
+        "bio": "Neoplatonist philosopher and theurgist, pupil of Aedesius, and Julian's spiritual mentor.",
+        "dates": "d. 372",
+        "name": "Maximus of Ephesus"
+      },
+      {
+        "bio": "Greek medical writer and personal physician to Emperor Julian, whom he accompanied to Gaul and on the Persian campaign.",
+        "dates": "c. 320–403",
+        "name": "Oribasius"
+      },
+      {
+        "bio": "Neoplatonist philosopher and friend of Julian, summoned to Gaul and later present at Julian's deathbed in Persia.",
+        "dates": "c. 305–c. 395",
+        "name": "Priscus of Epirus"
+      }
+    ],
+    "related": [
+      "synesius-letters-1926",
+      "porphyry-marcella-1896",
+      "fronto-correspondence-vol2-1929"
     ]
   },
   "letters-from-famous-people-1925": {
@@ -1131,6 +1925,95 @@
       "selected-english-letters-1914"
     ]
   },
+  "ovid-tristia-ex-ponto-1924": {
+    "book": [
+      "Banished from Rome in late A.D. 8 at the age of fifty by personal edict of the Emperor Augustus—relegated for 'two offences, a poem and a mistake' (the Ars Amatoria and an undisclosed indiscretion; Introduction, scan leaves 22–28, pp. xviii–xxiv; scan leaf 38, p. xxxiv)—Publius Ovidius Naso (43 B.C.–A.D. 17/18) spent his remaining years at Tomis (modern Constanța), a frontier Greek port on the western shore of the Black Sea among Getic and Sarmatian tribes (scan leaves 30–34, pp. xxvi–xxx). From that bleak exile he sent back two collections of elegiac verse-epistles totaling ninety-six poems: the five books of Tristia ('Sorrows', 50 elegies, A.D. 8–12; scan leaves 49–309 odd, pp. 1–261), withholding the names of living Roman friends lest correspondence endanger them while addressing Book II directly to Augustus as a 578-line literary defence (scan leaves 105–147 odd, pp. 57–99); and the four books of Epistulae ex Ponto ('Letters from the Black Sea', 46 epistles, A.D. 12–16; scan leaves 311–537 odd, pp. 263–489), openly naming his Roman correspondents—Brutus, Paullus Fabius Maximus, Marcus Aurelius Cotta Maximus, Marcus Valerius Messalinus, Publius Pomponius Graecinus, Curtius Atticus, Sextus Pompeius, Germanicus Caesar, Albinovanus Pedo, his wife, and fellow poets.",
+      "Prepared from the first impression published in 1924 (London: William Heinemann; New York: G. P. Putnam's Sons, MCMXXIV; title leaf, scan leaf 7; colophon, scan leaf 559, p. 511), this English prose translation and critical apparatus are the work of Arthur Leslie Wheeler (1871–1932), Alumnae Professor of Latin at Bryn Mawr College. The edition includes the Table of Contents (scan leaf 9, p. v), Wheeler's historical and manuscript Introduction with Selected Bibliography (scan leaves 11–48, pp. vii–xliv), all ninety-six poems of Tristia Books I–V and Ex Ponto Books I–IV with explanatory footnotes (scan leaves 49–537 odd, pp. 1–489), and the analytical Index of proper names and subjects (scan leaves 539–559, pp. 491–511)."
+    ],
+    "links": [
+      {
+        "label": "Ovid on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ovid"
+      },
+      {
+        "label": "Tristia on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tristia"
+      },
+      {
+        "label": "Epistulae ex Ponto on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Epistulae_ex_Ponto"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Roman elegiac poet born at Sulmo (Sulmona) on March 20, 43 B.C., of equestrian rank (Introduction, scan leaf 11, p. vii; Tristia IV. x, scan leaves 245–255, pp. 197–207). Celebrated at Rome for the Amores, Heroides, Ars Amatoria, Metamorphoses, and Fasti, he was relegated by Augustus in A.D. 8 to Tomis on the Black Sea, where he composed the Tristia and Epistulae ex Ponto and died c. A.D. 17.",
+        "dates": "43 B.C.–A.D. 17/18",
+        "name": "Publius Ovidius Naso (Ovid)",
+        "slug": "ovid"
+      },
+      {
+        "bio": "First Roman emperor (r. 27 B.C.–A.D. 14), who relegated Ovid to Tomis by personal imperial edict in A.D. 8 without confiscating his property or civic rights (Introduction, scan leaves 21–28, pp. xvii–xxiv) and to whom Ovid addressed the single book-length plea of Tristia Book II (scan leaves 105–147 odd, pp. 57–99; Index, scan leaf 541, p. 493).",
+        "dates": "63 B.C.–A.D. 14",
+        "name": "Gaius Julius Caesar Octavianus (Augustus)"
+      },
+      {
+        "bio": "Roman patrician, orator, consul of 11 B.C., and trusted confidant of Augustus, in whose household Ovid's third wife had been brought up alongside Fabius's wife Marcia (Introduction, scan leaves 16–17, pp. xii–xiii). Ovid addressed Ex Ponto I. ii and III. iii (and possibly III. viii) to him and mourned his sudden death in Ex Ponto IV. vi (scan leaf 489, p. 441).",
+        "dates": "c. 45 B.C.–A.D. 14",
+        "name": "Paullus Fabius Maximus"
+      },
+      {
+        "bio": "Elder son of the orator and literary patron Marcus Valerius Messalla Corvinus, Roman soldier, orator, and consul of 3 B.C., to whom Ovid addressed Ex Ponto I. vii and II. ii and probably Tristia IV. iv (Introduction, scan leaf 16, p. xii; Index, scan leaf 551, p. 503).",
+        "dates": "fl. 3 B.C.–A.D. 20",
+        "name": "Marcus Valerius Messalinus"
+      },
+      {
+        "bio": "Younger son of Messalla Corvinus (adopted into the Aurelii Cottae), poet, orator, and loyal friend in whose suite on Elba Ovid was staying when news of his banishment arrived (Introduction, scan leaves 16, 29, pp. xii, xxv). Ovid addressed six Pontic Epistles to him (Ex Ponto I. v, I. ix, II. iii, II. viii, III. ii, III. v; Index, scan leaf 544, p. 496).",
+        "dates": "b. after 24 B.C., cos. A.D. 20",
+        "name": "Marcus Aurelius Cotta Maximus"
+      },
+      {
+        "bio": "Steadfast Roman friend and literary executor of Ovid (otherwise unknown outside Ovid's exile poetry), who edited the exiled poet's books at Rome and to whom Ovid dedicated the proem and epilogue of Ex Ponto Books I–III (I. i, scan leaf 313, p. 265; III. ix, scan leaf 467, p. 419) as well as Ex Ponto IV. vi and probably Tristia III. iv (Introduction, scan leaves 18–19, 39, pp. xiv–xv, xxxv; Index, scan leaf 542, p. 494).",
+        "dates": "fl. A.D. 8–16",
+        "name": "Brutus"
+      },
+      {
+        "bio": "Roman senator, soldier, patron of letters, and brother of Lucius Pomponius Flaccus; consul suffectus in May A.D. 16 and long-standing friend from the time of Ovid's Amores, to whom Ovid addressed Ex Ponto I. vi, II. vi, and the consular congratulation IV. ix (Introduction, scan leaf 17, p. xiii; scan leaf 503, p. 455; Index, scan leaf 547, p. 499).",
+        "dates": "cos. suff. A.D. 16, d. A.D. 38",
+        "name": "Publius Pomponius Graecinus"
+      },
+      {
+        "bio": "Intimate Roman friend and literary critic of Ovid who remained loyal after the poet's disgrace; recipient of Ex Ponto II. iv and II. vii (scan leaves 387, 397, pp. 339, 349) and probably Tristia V. iv (Introduction, scan leaves 18–19, pp. xiv–xv; Index, scan leaf 541, p. 493).",
+        "dates": "1st century A.D.",
+        "name": "Curtius Atticus"
+      },
+      {
+        "bio": "Wealthy Roman consular descended from an uncle of Pompey the Great and friend of Germanicus, who safeguarded Ovid's journey into exile and received four epistles in Ex Ponto Book IV (IV. i, IV. iv, IV. v, IV. xv; Introduction, scan leaf 17, p. xiii; Index, scan leaf 554, p. 506).",
+        "dates": "cos. A.D. 14, d. c. A.D. 39",
+        "name": "Sextus Pompeius"
+      },
+      {
+        "bio": "Son of the elder Drusus, nephew and adoptive son of Tiberius, and poet-general whose intercession Ovid sought in later exile, addressing Ex Ponto II. i to him on Tiberius's Pannonian triumph and re-dedicating the Fasti to him (Introduction, scan leaves 19–20, pp. xv–xvi; scan leaf 367, p. 319; Index, scan leaf 546, p. 498).",
+        "dates": "15 B.C.–A.D. 19",
+        "name": "Germanicus Julius Caesar"
+      },
+      {
+        "bio": "Augustan epic poet and epigrammatist who served as cavalry commander under Germanicus on the North Sea campaign and received Ex Ponto IV. x comparing Ovid's endurance at Tomis to Ulysses' wanderings (scan leaf 511, p. 463; Index, scan leaf 540, p. 492).",
+        "dates": "fl. A.D. 14–16",
+        "name": "Albinovanus Pedo"
+      },
+      {
+        "bio": "American classical scholar, Alumnae Professor of Latin at Bryn Mawr College (and later Professor of Latin at Princeton University), who edited the Latin text and authored the English translation, historical Introduction, and critical notes for this 1924 edition of Ovid's Tristia and Ex Ponto (title leaf, scan leaf 7).",
+        "dates": "1871–1932",
+        "name": "Arthur Leslie Wheeler",
+        "slug": "arthur-leslie-wheeler"
+      }
+    ],
+    "related": [
+      "horace-epistles-1926",
+      "pliny-letters-vol1-1915",
+      "seneca-epistles-vol1-1917"
+    ]
+  },
   "pascal-miscellaneous-writings-1849": {
     "book": [
       "Alongside his shorter scientific and philosophical essays—On the Geometrical Spirit, the Preface to the Treatise on Vacuum, and On the Passion of Love—this volume gathers Blaise Pascal’s surviving private letters (1643–1660) to his sisters Gilberte and Jacqueline and his brother-in-law Florin Périer, including the stark, steadying letter he wrote on the death of his father.",
@@ -1262,6 +2145,192 @@
       "nineteenth-century-letters-1919"
     ]
   },
+  "plato-epistles-1925": {
+    "book": [
+      "Arranged in chronological order rather than traditional manuscript sequence (Table of Contents, scan leaf 9; Introduction, scan leaf 11, p. 1), the thirteen epistles transmitted under the name of Plato (427–347 B.C.; Chronological Table, scan leaf 23, p. 13) center on the dramatic entanglement of Athenian philosophy with Syracusan politics between 367 and 350 B.C. Beginning with the chatty court letter to Dionysius II after Plato's second Sicilian journey (Epistle XIII, 366 B.C., scan leaf 28, p. 18) and continuing through Epistles II, XI, X, IV, and III to the monumental autobiographical apology and philosophical digression addressed to the friends of the assassinated Dion (Epistle VII, 353 B.C., scan leaves 71–123, pp. 61–113), the constitutional counsel of Epistle VIII (352 B.C., scan leaf 126, p. 116), and the late letter of friendship to Hermias, Erastus, and Coriscus (Epistle VI, 350 B.C., scan leaf 137, p. 127), the volume concludes with the four letters classed by the translator as spurious—Epistles I, V, IX, and XII (scan leaves 140–147, pp. 130–137).",
+      "Classical scholar Levi Arnold Post (1889–1971), then Assistant-Professor of Greek at Haverford College, prepared this English translation with a general Introduction, Tables of References, Chronology, and Descent, separate historical introductions to the individual epistles, critical endnotes, and an Index of Proper Names (Oxford: At the Clarendon Press, 1925; scan leaves 5–9). This Paper Lanterns edition preserves Post's analytical bracketed summaries, Stephanus marginal references (309a–363e), polytonic Greek citations, and commentary verbatim (with printed pages 158–159 of the backmatter Notes—omitted by a camera double-leaf turn between scan leaves 167 and 168 in the primary Rollins College scan thirteenepistles0000plat—collated verbatim from Internet Archive second witness dli.ernet.247526, leaves n168–n169).",
+      "Source Text & Copyright Provenance: Translated with Introduction and Notes by Levi Arnold Post (Oxford: At the Clarendon Press, 1925; digitized at Internet Archive as thirteenepistles0000plat). Published in 1925, this work is in the public domain in the United States. Readers accessing this edition from jurisdictions governed by author life-plus-seventy-years copyright terms (Post, 1889–1971) should observe applicable local copyright laws."
+    ],
+    "links": [
+      {
+        "label": "Epistles (Plato) on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Epistles_(Plato)"
+      },
+      {
+        "label": "Plato on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Plato"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Athenian philosopher, pupil of Socrates, and founder of the Academy (Chronological Table, scan leaf 23, p. 13), whose three journeys to Syracuse in 388, 367, and 361 B.C. and alliance with Dion form the central subject of the thirteen Platonic epistles.",
+        "dates": "427–347 B.C.",
+        "name": "Plato",
+        "slug": "plato"
+      },
+      {
+        "bio": "American classical scholar and longtime Professor of Greek at Haverford College (title leaf, scan leaf 5), translator of the Thirteen Epistles of Plato (1925) and later editor of Menander and scholar of Greek drama and Plato's Laws.",
+        "dates": "1889–1971",
+        "name": "Levi Arnold Post",
+        "slug": "l-a-post"
+      },
+      {
+        "bio": "Son of Dionysius I and Doris (Tables of Descent, scan leaf 24, p. 14) who succeeded to the tyranny of Syracuse in 367 B.C.; recipient of Epistles XIII, II, III, and the spurious Epistle I (scan leaves 28, 37, 56, 140).",
+        "dates": "392?–335? B.C.",
+        "name": "Dionysius II of Syracuse"
+      },
+      {
+        "bio": "Syracusan statesman, son of Hipparinus I, brother-in-law of Dionysius I, and devoted disciple of Plato (Tables of Descent, scan leaf 24, p. 14), who overthrew Dionysius II in 357 B.C., received Epistle IV (scan leaf 51, p. 41), and was assassinated by Callippus in 353 B.C., prompting Epistles VII and VIII.",
+        "dates": "408–353 B.C.",
+        "name": "Dion of Syracuse"
+      },
+      {
+        "bio": "Pythagorean mathematician, philosopher, and statesman of Tarentum who intervened with Dionysius II to secure Plato's safe departure from Syracuse in 360 B.C. (Epistle VII, 350a; Index, scan leaf 169, p. 161) and is the addressee of the spurious Epistles IX and XII (scan leaves 146–147).",
+        "dates": "428–347 B.C.",
+        "name": "Archytas of Tarentum"
+      },
+      {
+        "bio": "Ruler of Atarneus and Assos in Mysia, patron of the Academic philosophers Erastus and Coriscus of Scepsis (Introduction to Epistle VI, scan leaf 137, p. 127), and later father-in-law and host of Aristotle; co-recipient of Epistle VI.",
+        "dates": "d. 341 B.C.",
+        "name": "Hermias of Atarneus"
+      },
+      {
+        "bio": "Pupils of Plato's Academy from Scepsis in the Troad whom Plato counselled in Epistle VI (scan leaf 137, p. 127) to form a philosophical bond of friendship with their neighbor Hermias of Atarneus.",
+        "dates": "fl. mid-4th century B.C.",
+        "name": "Erastus and Coriscus of Scepsis"
+      },
+      {
+        "bio": "King of Macedon (365–359 B.C.), elder brother of Philip II, and patron of Plato's pupil Euphraeus of Oreus; addressee of the spurious Epistle V (scan leaf 143, p. 133).",
+        "dates": "d. 359 B.C.",
+        "name": "Perdiccas III of Macedon"
+      },
+      {
+        "bio": "Mathematician of Thasos associated with Plato's Academy who sought Plato's help in framing laws for a newly founded Thracian colony, receiving Epistle XI in 360 B.C. (scan leaf 47, p. 37).",
+        "dates": "fl. 4th century B.C.",
+        "name": "Laodamas of Thasos"
+      },
+      {
+        "bio": "Loyal philosophical companion of Dion during the Syracusan civil strife, commended by Plato for his steadfastness in Epistle X (356 B.C., scan leaf 50, p. 40).",
+        "dates": "fl. mid-4th century B.C.",
+        "name": "Aristodorus"
+      }
+    ],
+    "related": [
+      "porphyry-marcella-1896",
+      "seneca-epistles-vol1-1917",
+      "cicero-letters-vol1-1920"
+    ]
+  },
+  "pliny-letters-vol1-1915": {
+    "book": [
+      "Covering Books I–VI of the correspondence of Gaius Plinius Caecilius Secundus (Pliny the Younger, A.D. 61/62–c. 113; scan leaf 17, p. xi), Volume I of this two-volume edition presents 150 letters spanning Rome under Nerva and Trajan: senatorial trials such as the prosecution of Marius Priscus (Book II. xi, scan leaves 145–157), literary circles, villas in Tuscany and Laurentum, domestic life, and the two celebrated eyewitness letters to Cornelius Tacitus on the eruption of Mount Vesuvius and the death of the elder Pliny (Book VI. xvi, scan leaves 497–505, and VI. xx, scan leaves 511–519).",
+      "William Melmoth's classic eighteenth-century English translation (first published 1746) was revised by classical scholar Winifred Margaret Lambart Hutchinson (1868–1937) and first printed in 1915 (prepared here from the unmodified 1931 impression of the 1915 edition; title and imprint leaves, scan leaves 9–10). Volume I includes the Preface (pp. v–vii, scan leaves 11–13), Table of Contents (p. ix, scan leaf 15), Hutchinson's Introduction on Pliny's life, letters, and manuscripts (pp. xi–xvi, scan leaves 17, 20), and the English translations of Books I–VI (scan leaves 23–557 odd). This Paper Lanterns edition preserves Melmoth and Hutchinson's historical orthography, small-caps openings, textual footnotes, and epistolary headers verbatim.",
+      "Source Text: Prepared from the unmodified 1931 impression (title leaf MCMXXXI, scan leaf 9; imprint verso 'First Printed 1915. / Reprinted 1923. / Reprinted 1927. / Reprinted 1931.', scan leaf 10) of the 1915 edition translated by William Melmoth (1710–1799) and revised by W. M. L. Hutchinson (1868–1937)."
+    ],
+    "links": [
+      {
+        "label": "Pliny the Younger on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pliny_the_Younger"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Gaius Plinius Caecilius Secundus, Roman lawyer, senator, consul (A.D. 100), and nephew and adopted heir of Pliny the Elder (scan leaf 17, p. xi), whose nine books of literary letters chronicle Roman public and private life under Nerva and Trajan.",
+        "dates": "A.D. 61/62–c. 113",
+        "name": "Pliny the Younger",
+        "slug": "pliny-the-younger"
+      },
+      {
+        "bio": "English man of letters and translator whose 1746 translation of Pliny's Letters was praised as an English classic and served as the basis for W. M. L. Hutchinson's 1915 revised edition (scan leaf 9).",
+        "dates": "1710–1799",
+        "name": "William Melmoth",
+        "slug": "william-melmoth"
+      },
+      {
+        "bio": "Winifred Margaret Lambart Hutchinson, British classical scholar who revised William Melmoth's translation and wrote the Introduction for the 1915 two-volume edition of Pliny's Letters (scan leaves 9, 17–22).",
+        "dates": "1868–1937",
+        "name": "W. M. L. Hutchinson",
+        "slug": "w-m-l-hutchinson"
+      },
+      {
+        "bio": "Roman historian and senator, close friend and literary correspondent of Pliny, to whom Pliny addressed the accounts of the eruption of Mount Vesuvius in Book VI. xvi and xx (scan leaf 501) as well as the prosecution of Marius Priscus.",
+        "dates": "c. A.D. 56–c. 120",
+        "name": "Publius Cornelius Tacitus"
+      },
+      {
+        "bio": "Roman biographer and scholar ('Lives of the Caesars'), friend and protégé of Pliny, for whom Pliny sought to purchase a small farm near Rome in Book I. xxiv (scan leaf 109).",
+        "dates": "c. A.D. 69–after 122",
+        "name": "Gaius Suetonius Tranquillus"
+      },
+      {
+        "bio": "Roman knight of Comum and grandfather of Pliny's wife Calpurnia, to whom Pliny wrote Book IV. i on his visit to Tifernum-upon-the-Tiber (scan leaf 295).",
+        "dates": "1st–2nd century A.D.",
+        "name": "Lucius Calpurnius Fabatus"
+      }
+    ],
+    "related": [
+      "pliny-letters-vol2-1915",
+      "cicero-letters-vol1-1920",
+      "fronto-correspondence-vol1-1919"
+    ]
+  },
+  "pliny-letters-vol2-1915": {
+    "book": [
+      "Volume II of Pliny the Younger's Letters (Books VII–X), translated by William Melmoth (1746) and revised by Winifred Margaret Lambart Hutchinson (1915), spans Pliny's late senatorial correspondence in Rome and his celebrated official dispatches as imperial governor of Bithynia and Pontus to the Emperor Trajan (Book X, c. A.D. 109–113), including Trajan's replies on municipal finance, building projects, civic privileges, and the treatment of Christians.",
+      "This volume (first printed 1915; 1927 impression on scan leaves 9–10) contains Book VII (scan leaf 13), Book VIII (scan leaf 103), Book IX (scan leaf 187), Book X (scan leaf 285), a Biographical Index of notable persons addressed or mentioned by Pliny (scan leaves 447–452), and an Index Siglorum of manuscript witnesses and early printed editions (scan leaf 452). This Paper Lanterns edition preserves Melmoth and Hutchinson's English translation, historical footnotes, small-caps headings, and epistolary layouts verbatim from the 400 PPI continuous-tone scans."
+    ],
+    "links": [
+      {
+        "label": "Pliny the Younger on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pliny_the_Younger"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Gaius Plinius Caecilius Secundus, Roman lawyer, author, consul (A.D. 100), and imperial legate of Bithynia and Pontus under Trajan, whose ten books of Letters are a primary monument of Silver Age Latin prose and Roman provincial administration.",
+        "dates": "A.D. 61/62–c. 113",
+        "name": "Pliny the Younger",
+        "slug": "pliny-the-younger"
+      },
+      {
+        "bio": "Marcus Ulpius Traianus, Roman Emperor (r. A.D. 98–117) and Pliny's direct correspondent throughout Book X, whose concise rescripts reply to Pliny's administrative, legal, and civic inquiries from Bithynia and Pontus.",
+        "dates": "A.D. 53–117",
+        "name": "Trajan"
+      },
+      {
+        "bio": "English man of letters and translator whose graceful 1746 English rendering of Pliny's Letters remained the standard classic revised by W. M. L. Hutchinson in 1915.",
+        "dates": "1710–1799",
+        "name": "William Melmoth",
+        "slug": "william-melmoth"
+      },
+      {
+        "bio": "Winifred Margaret Lambart Hutchinson, British classical scholar and author (Newnham College, Cambridge) who revised Melmoth's translation and supplied the historical notes, Biographical Index, and Index Siglorum for the 1915 two-volume edition.",
+        "dates": "1868–1937",
+        "name": "W. M. L. Hutchinson",
+        "slug": "w-m-l-hutchinson"
+      },
+      {
+        "bio": "Roman historian and senator, close friend and literary correspondent of Pliny (addressed in Book VII. 20, 33; Book VIII. 7; Book IX. 10, 14).",
+        "dates": "c. A.D. 56–c. 120",
+        "name": "Publius Cornelius Tacitus"
+      },
+      {
+        "bio": "Pliny's third wife, granddaughter of Calpurnius Fabatus of Comum, to whom Pliny wrote affectionate letters in Books VI–VII and who accompanied him to Bithynia (Book X. 120–121).",
+        "dates": "fl. c. A.D. 100–113",
+        "name": "Calpurnia"
+      },
+      {
+        "bio": "Roman biographer and antiquarian (author of De Vita Caesarum), protégé and correspondent of Pliny (Book IX. 34; recommended to Trajan in Book X. 94).",
+        "dates": "c. A.D. 69–c. 122",
+        "name": "Gaius Suetonius Tranquillus"
+      }
+    ],
+    "related": [
+      "pliny-letters-vol1-1915",
+      "fronto-correspondence-vol2-1929",
+      "seneca-epistles-vol1-1917"
+    ]
+  },
   "poe-valentine-letters-1925": {
     "book": [
       "Before the raven and the legend, there was a proud, penniless young man writing desperately to the Richmond merchant who had raised him without ever formally adopting him. These thirty-five letters from 1826 to 1833 follow the slow rupture between Edgar Allan Poe and John Allan across gambling debts at the University of Virginia, secret army enlistment, dismissal from West Point, and hunger in Baltimore.",
@@ -1331,6 +2400,62 @@
     "related": [
       "poe-valentine-letters-1925",
       "old-love-letters-1883"
+    ]
+  },
+  "porphyry-marcella-1896": {
+    "book": [
+      "Written around A.D. 303 during a forced absence on \"the affairs of the Greeks\" roughly ten months after his late-life marriage in Rome in A.D. 302 (Introduction, scan leaves 39–41, pp. 35–37; Letter § 1–4, scan leaves 57–60, pp. 53–56), Porphyry of Tyre's philosophical letter to his wife Marcella—a Roman widow and mother of five daughters and two sons—unfolds a deeply personal Neo-Platonic consolation. Across thirty-five surviving sections (scan leaves 57–83, pp. 53–[79], breaking off abruptly where the Milan manuscript ends), Porphyry counsels Marcella not to grieve for his bodily absence, tracing the ascent of the rational soul toward the divine through the four cardinal virtues of faith, truth, love, and hope, and distinguishing inward purity of mind from outward sacrifice.",
+      "Lost for centuries until Cardinal Angelo Mai discovered a fifteenth-century manuscript codex in the Ambrosian Library at Milan in 1816 (frontispiece plate, scan leaf 6; Introduction, scan leaves 41, 53–54, pp. 37, 49–50), the letter received its first English translation in this 1896 London edition published by George Redway (title leaf, scan leaf 7). Classical scholar Alice Zimmern (1855–1939) prepared her rendering from Mai's text alongside August Nauck's Teubner edition, prefaced by an essay on late-antique Neo-Platonism by Richard Garnett, C.B., LL.D., Keeper of Printed Books at the British Museum (Preface, scan leaves 9–20, pp. 5–16, dated October 1895), and Zimmern's own historical Introduction on Alexandria, Plotinus, Porphyry, and his treatise (scan leaves 21–54, pp. 17–50)."
+    ],
+    "links": [
+      {
+        "label": "Porphyry (philosopher) on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Porphyry_(philosopher)"
+      },
+      {
+        "label": "Alice Zimmern on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alice_Zimmern"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Tyrian Neo-Platonist philosopher (born Malchus, named Porphyrius by his Athenian teacher Cassius Longinus; scan leaves 36–37, pp. 32–33), devoted disciple, biographer, and editor of Plotinus in Rome, who married Marcella in A.D. 302 and addressed this surviving philosophical epistle to console and guide her during his journey.",
+        "dates": "A.D. 233–c. 305",
+        "name": "Porphyry of Tyre",
+        "slug": "porphyry"
+      },
+      {
+        "bio": "Roman matron, widow of a friend of Porphyry and mother of five daughters and two sons, whom Porphyry wedded in Rome in A.D. 302 on account of her disposition suited to true philosophy (Introduction, scan leaves 39–40, pp. 35–36; Letter § 1–3, scan leaves 57–59, pp. 53–55).",
+        "dates": "fl. c. A.D. 302–303",
+        "name": "Marcella"
+      },
+      {
+        "bio": "English classical scholar, suffragist, and alumna of Girton College, Cambridge (title leaf, scan leaf 7), who produced this first English translation of Porphyry's Letter to Marcella together with a thirty-four-page Introduction on Plotinus and Neo-Platonism (scan leaves 21–54, pp. 17–50).",
+        "dates": "1855–1939",
+        "name": "Alice Zimmern",
+        "slug": "alice-zimmern"
+      },
+      {
+        "bio": "English scholar, author, and Keeper of Printed Books at the British Museum, who contributed the critical Preface comparing third- and fourth-century Neo-Platonic ethics with primitive Christianity (title leaf, scan leaf 7; Preface, scan leaves 9–20, pp. 5–16).",
+        "dates": "1835–1906",
+        "name": "Richard Garnett",
+        "slug": "richard-garnett"
+      },
+      {
+        "bio": "Founder of Neo-Platonism, born at Lykopolis in Egypt and pupil of Ammonius Saccas at Alexandria, under whom Porphyry studied in Rome for six years and whose Enneads Porphyry arranged and edited (Introduction, scan leaves 29–37, pp. 25–33).",
+        "dates": "A.D. 204–270",
+        "name": "Plotinus"
+      },
+      {
+        "bio": "Italian cardinal and philologist who discovered the lost Greek manuscript of Porphyry's Letter to Marcella in the Ambrosian Library at Milan and published the editio princeps in 1816 (frontispiece, scan leaf 6; Introduction, scan leaves 41, 53, pp. 37, 49).",
+        "dates": "1782–1854",
+        "name": "Angelo Mai"
+      }
+    ],
+    "related": [
+      "plato-epistles-1925",
+      "julian-works-vol3-1923",
+      "synesius-letters-1926"
     ]
   },
   "rammohun-roy-letters-and-petitions": {
@@ -1545,6 +2670,358 @@
       "nineteenth-century-letters-1919",
       "fifty-famous-letters-1930",
       "old-love-letters-1883"
+    ]
+  },
+  "seneca-epistles-vol1-1917": {
+    "book": [
+      "Composed after his retirement from Nero's court in A.D. 62 during the years A.D. 63–65 (Introduction, scan leaves 16–18, pp. viii–x), the Moral Epistles of Lucius Annaeus Seneca (4 B.C.–A.D. 65; scan leaves 15–17, pp. vii–ix) are addressed to his younger friend Lucilius, a Campanian eques and imperial procurator in Sicily (scan leaf 17, p. ix). Volume I presents Epistles I–LXV: philosophical letters moving from everyday Roman scenes—saving time (Epistle I, scan leaf 27), discursiveness in reading (Epistle II, scan leaf 31), crowds and gladiatorial shows (Epistle VII, scan leaf 53), the humane treatment of slaves (Epistle XLVII, scan leaf 325), Baiae, Vatia's villa, the din of the Roman baths, and the Naples tunnel (Epistles LI, LV–LVII, scan leaves 361, 389–397)—to Stoic reflections on friendship, old age, illness, and death, enriched with sayings of Epicurus and verses from Vergil and Publilius Syrus.",
+      "Volume I opens with Richard Mott Gummere's Introduction (signed Haverford College, May 1916; scan leaves 15–20, pp. vii–xii), note on the manuscripts following Otto Hense's second Teubner edition of 1914 (scan leaf 21, p. xiii), and Bibliography (scan leaves 22–23, pp. xiv–xv), followed by the English translations and explanatory footnotes of Epistles I–LXV (scan leaves 27–471 odd, pp. 3–459). Because the primary 500-PPI scan (adluciliumepistu01seneuoft, 1925 impression) physically lacks a twelve-page signature (pp. 371–382) between scan leaves 394 and 395, the concluding lines of Epistle LV and the entirety of Epistle LVI ('On Quiet and Study', pp. 371–381) together with their facing-verso explanatory footnotes are collated verbatim from the complete 1917 first-printing witness (bub_gb_pa1EAQAAIAAJ, leaves n387–n399).",
+      "Source Text: Translated by Richard Mott Gummere, originally published in three volumes (Ad Lucilium Epistulae Morales, London: William Heinemann; New York: G. P. Putnam’s Sons, 1917, 1920, 1925). This digital edition is prepared exclusively from the pre-1926 printings, which are in the public domain in the United States. Readers accessing this work from jurisdictions based on author life-plus-term copyright (Gummere d. 1969) are responsible for observing applicable local laws."
+    ],
+    "links": [
+      {
+        "label": "Seneca the Younger on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+      },
+      {
+        "label": "Epistulae Morales ad Lucilium on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Epistulae_Morales_ad_Lucilium"
+      },
+      {
+        "label": "1917 First-Printing Collation Witness (bub_gb_pa1EAQAAIAAJ) at Internet Archive",
+        "url": "https://archive.org/details/bub_gb_pa1EAQAAIAAJ"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Roman Stoic philosopher, dramatist, and statesman born at Corduba in Spain (scan leaf 15, p. vii), exiled to Corsica in A.D. 41, recalled in A.D. 49 as tutor and chief adviser to Nero alongside Burrus until his retirement in A.D. 62 (scan leaf 16, p. viii), and author during A.D. 63–65 of the Naturales Quaestiones and the 124 Moral Epistles to Lucilius (scan leaves 17–18, pp. ix–x).",
+        "dates": "c. 4 B.C.–A.D. 65",
+        "name": "Lucius Annaeus Seneca",
+        "slug": "lucius-annaeus-seneca"
+      },
+      {
+        "bio": "Roman knight (eques) native to Campania (Pompeii or Naples), writer on philosophy and geography, imperial procurator in Sicily at the time of the correspondence, and recipient of all 124 Moral Epistles as well as the Natural Questions and De Providentia (scan leaf 17, p. ix; scan leaf 361 fn. a [verso leaf 360, p. 336]).",
+        "dates": "1st century A.D.",
+        "name": "Gaius Lucilius Iunior"
+      },
+      {
+        "bio": "American classical scholar of Haverford College (title leaf, scan leaf 9; Introduction dated May 1916, scan leaf 20, p. xii), who translated Seneca's 124 Moral Epistles into English with introduction and explanatory notes.",
+        "dates": "1883–1969",
+        "name": "Richard Mott Gummere",
+        "slug": "richard-m-gummere"
+      },
+      {
+        "bio": "Athenian philosopher and founder of the Garden whose ethical sayings Seneca quotes throughout the early letters as 'daily doles' shared across rival schools (Epistles II–XXIX, scan leaves 31–233; Introduction, scan leaf 18, p. x).",
+        "dates": "341–270 B.C.",
+        "name": "Epicurus"
+      },
+      {
+        "bio": "Roman epic poet quoted frequently by Seneca as 'our poet Vergil' on time, mortality, divine presence, and the inner tumult of fear (Epistles XII, XXI, XXVIII, XLI, XLIX, LIII, LVI, and LIX; scan leaves 93, 169, 223, 297, 349, 377, 393, and 429).",
+        "dates": "70–19 B.C.",
+        "name": "Publius Vergilius Maro"
+      }
+    ],
+    "related": [
+      "seneca-epistles-vol2-1920",
+      "seneca-epistles-vol3-1925",
+      "pliny-letters-vol1-1915"
+    ]
+  },
+  "seneca-epistles-vol2-1920": {
+    "book": [
+      "Composed during Lucius Annaeus Seneca's retirement from Nero's court in A.D. 63–65 and addressed to his friend Gaius Lucilius Iunior, imperial procurator in Sicily, Volume II of the Epistulae Morales gathers Letters LXVI–XCII—some of the longest and most searching philosophical essays in the collection. Across these twenty-seven letters Seneca examines the equality of moral goods as exemplified by his crippled school-mate Claranus (Epistle LXVI, scan leaf 15, p. 3), the ethics of voluntary death (Epistles LXX and LXXVII, scan leaves 69 and 181, pp. 57 and 169, opening with the arrival of the Alexandrian mail-boats at Puteoli), scientific inquiry into Mount Aetna during Lucilius's Sicilian circuit (Epistle LXXIX, scan leaf 213, p. 201), austere republican simplicity written from the villa of Scipio Africanus at Liternum (Epistle LXXXVI, scan leaf 323, p. 311), the boundaries of liberal studies and technological progress against Posidonius (Epistles LXXXVIII and XC, scan leaves 361 and 407, pp. 349 and 395), consolation to Liberalis after the great fire that levelled Lugdunum (Lyons) in A.D. 64 (Epistle XCI, scan leaf 443, p. 431), and the self-sufficiency of the happy life (Epistle XCII, scan leaves 459–483, pp. 447–471).",
+      "Prepared from the 1920 printing containing the Title Leaf (scan leaf 9), Table of Contents (scan leaves 11–12, pp. v–vi), and Richard Mott Gummere's English translation of Epistles LXVI–XCII across 235 recto pages (scan leaves 15–483 odd, pp. 3–471), this Paper Lanterns edition preserves Gummere's historical orthography, indented verse translations, and explanatory footnotes verbatim.",
+      "Source Text: Translated by Richard Mott Gummere, originally published in three volumes (Ad Lucilium Epistulae Morales, London: William Heinemann; New York: G. P. Putnam’s Sons, 1917, 1920, 1925). This digital edition is prepared exclusively from the pre-1926 printings, which are in the public domain in the United States. Readers accessing this work from jurisdictions based on author life-plus-term copyright (Gummere d. 1969) are responsible for observing applicable local laws."
+    ],
+    "links": [
+      {
+        "label": "Seneca the Younger on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+      },
+      {
+        "label": "Epistulae Morales ad Lucilium on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Epistulae_Morales_ad_Lucilium"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Roman Stoic philosopher, statesman, and dramatist born at Corduba, tutor and adviser to the emperor Nero, who composed the 124 Epistulae Morales to Lucilius during his final years of retirement in A.D. 63–65 (title leaf, scan leaf 9).",
+        "dates": "c. 4 B.C.–A.D. 65",
+        "name": "Lucius Annaeus Seneca",
+        "slug": "lucius-annaeus-seneca"
+      },
+      {
+        "bio": "Roman equestrian, poet, and imperial procurator in Sicily, to whom Seneca addressed all 124 Epistulae Morales as philosophical letters of counsel and inquiry, including the request for observations on Mount Aetna in Epistle LXXIX (scan leaf 213, p. 201).",
+        "dates": "1st century A.D.",
+        "name": "Gaius Lucilius Iunior"
+      },
+      {
+        "bio": "American classical scholar and Head Master of the William Penn Charter School in Philadelphia (title leaf, scan leaf 9), who translated Seneca's Epistulae Morales into English in three volumes published in 1917, 1920, and 1925.",
+        "dates": "1883–1969",
+        "name": "Richard Mott Gummere",
+        "slug": "richard-m-gummere"
+      },
+      {
+        "bio": "Greek Stoic philosopher, historian, and natural scientist of Apamea and Rhodes whose views on liberal studies and philosophical invention Seneca cites and critiques extensively in Epistles LXXXVIII, XC, and XCII (scan leaves 361, 407, 465).",
+        "dates": "c. 135–c. 51 B.C.",
+        "name": "Posidonius"
+      },
+      {
+        "bio": "Roman general and conqueror of Hannibal at Zama, from whose fortified country house and small dark bathhouse at Liternum Seneca writes Epistle LXXXVI on ancestral austerity and olive-tree husbandry (scan leaf 323, p. 311).",
+        "dates": "236–183 B.C.",
+        "name": "Publius Cornelius Scipio Africanus"
+      }
+    ],
+    "related": [
+      "seneca-epistles-vol1-1917",
+      "seneca-epistles-vol3-1925",
+      "horace-epistles-1926"
+    ]
+  },
+  "seneca-epistles-vol3-1925": {
+    "book": [
+      "Written during Lucius Annaeus Seneca's final retirement from Nero's court in A.D. 64–65 and addressed to his friend Gaius Lucilius Iunior, Volume III concludes the extant corpus of the Epistulae Morales with Letters XCIII–CXXIV. Across these thirty-two letters Seneca reflects on the death of the Neapolitan philosopher Metronax and the fullness rather than length of human life (Epistle XCIII, scan leaf 15, p. 3), develops his monumental twin treatises on ethical precepts and foundational Stoic doctrines (Epistles XCIV and XCV, scan leaves 23 and 71, pp. 11 and 59), appraises the philosophical prose of Papirius Fabianus (Epistle C, scan leaf 161, p. 149), recounts his retreat to his country estate at Nomentum with his wife Paulina alongside the examples of Socrates and Cato the Younger (Epistle CIV, scan leaf 203, p. 191), recalls his youthful asceticism under his teachers Attalus and Sotion (Epistle CVIII, scan leaf 241, p. 229), diagnoses corrupt literary style as a mirror of moral character through the case of Gaius Maecenas (Epistle CXIV, scan leaves 313–315, pp. 301–303), and closes the collection with the demonstration that human Good is perfected solely through reason (Epistle CXXIV, scan leaves 447–461 odd, pp. 435–449).",
+      "Prepared from the 1925 printing containing the Title Leaf (scan leaf 9), Imprint Leaf (scan leaf 10), Table of Contents (scan leaves 11–12, pp. v–vi), and Richard Mott Gummere's English translation of Epistles XCIII–CXXIV across 224 recto pages (scan leaves 15–461 odd, pp. 3–449), this Paper Lanterns edition preserves Gummere's historical orthography, indented verse translations, and explanatory footnotes verbatim (with six abraded left-margin words on scan leaf 317, p. 305 collated from a second 1925 witness, IA senecaadlucilium0003rich, leaf n316).",
+      "Source Text: Translated by Richard Mott Gummere, originally published in three volumes (Ad Lucilium Epistulae Morales, London: William Heinemann; New York: G. P. Putnam’s Sons, 1917, 1920, 1925). This digital edition is prepared exclusively from the pre-1926 printings, which are in the public domain in the United States. Readers accessing this work from jurisdictions based on author life-plus-term copyright (Gummere d. 1969) are responsible for observing applicable local laws."
+    ],
+    "links": [
+      {
+        "label": "Seneca the Younger on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+      },
+      {
+        "label": "Epistulae Morales ad Lucilium on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Epistulae_Morales_ad_Lucilium"
+      },
+      {
+        "label": "1925 Collation Witness (senecaadlucilium0003rich) at Internet Archive",
+        "url": "https://archive.org/details/senecaadlucilium0003rich"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Roman Stoic philosopher, statesman, and dramatist born at Corduba, tutor and adviser to the emperor Nero, who composed the 124 Epistulae Morales to Lucilius during his final years of retirement in A.D. 63–65 before his enforced death in April A.D. 65 (title leaf, scan leaf 9).",
+        "dates": "c. 4 B.C.–A.D. 65",
+        "name": "Lucius Annaeus Seneca",
+        "slug": "lucius-annaeus-seneca"
+      },
+      {
+        "bio": "Friend and correspondent of Seneca and imperial procurator in Sicily at the time of these letters (Epistle CI, scan leaf 173 fn. b, p. 161), to whom Seneca addressed the Epistulae Morales as philosophical letters of ethical counsel and inquiry (title leaf, scan leaf 9; Epistle CXXII, scan leaf 435, p. 423).",
+        "dates": "1st century A.D.",
+        "name": "Gaius Lucilius Iunior"
+      },
+      {
+        "bio": "American classical scholar and Head Master of the William Penn Charter School in Philadelphia (title leaf, scan leaf 9), who translated Seneca's Epistulae Morales into English in three volumes published in 1917, 1920, and 1925.",
+        "dates": "1883–1969",
+        "name": "Richard Mott Gummere",
+        "slug": "richard-m-gummere"
+      },
+      {
+        "bio": "Roman rhetorician and philosopher of the Sextian school whose serene, unhurried philosophical prose style Seneca defends to Lucilius throughout Epistle C (scan leaf 161, p. 149).",
+        "dates": "1st century B.C.–1st century A.D.",
+        "name": "Papirius Fabianus"
+      },
+      {
+        "bio": "Stoic philosopher at Rome under Tiberius whose lectures on poverty, self-restraint, and moral independence profoundly shaped the young Seneca, as recalled in Epistle CVIII (scan leaf 241, p. 229).",
+        "dates": "fl. early 1st century A.D.",
+        "name": "Attalus"
+      },
+      {
+        "bio": "Roman equestrian, political adviser to Augustus, and literary patron whose mannered, effeminate prose fragments Seneca analyzes in Epistle CXIV as proof that style mirrors character (scan leaf 315, p. 303).",
+        "dates": "c. 70–8 B.C.",
+        "name": "Gaius Maecenas"
+      }
+    ],
+    "related": [
+      "seneca-epistles-vol1-1917",
+      "seneca-epistles-vol2-1920",
+      "porphyry-marcella-1896"
+    ]
+  },
+  "sidonius-letters-vol1-1915": {
+    "book": [
+      "Gaius Sollius Apollinaris Sidonius (c. 430–c. 489 A.D.)—Gallo-Roman aristocrat, prefect of Rome, poet, and bishop of Clermont (Arverni) in Auvergne—was the preeminent literary chronicler of the twilight of Roman Gaul. Spanning the tumultuous decades when imperial authority fragmented under Visigothic and Burgundian advance, his nine books of letters provide an unmatched, firsthand window into late antique aristocratic life, diplomacy, religious leadership, and epistolary culture.",
+      "Ormonde Maddock Dalton (1866–1945), British Museum archaeologist and classical scholar, published this definitive two-volume first complete English translation of Sidonius's correspondence for the Clarendon Press, Oxford, in 1915. Volume I contains Dalton's comprehensive 160-page introductory essay, critical bibliography, list of correspondents, and the complete text of Books I–III (comprising thirty-nine letters). Transcribed directly from the 1915 Clarendon Press edition, this Paper Lanterns edition preserves Dalton's scholarly apparatus, Latin notes citing Luetjohann, Mommsen, and Hodgkin, period orthography, and the authentic spatial layout of late Roman letter-craft."
+    ],
+    "links": [
+      {
+        "label": "Sidonius Apollinaris on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sidonius_Apollinaris"
+      },
+      {
+        "label": "Ormonde Maddock Dalton on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ormonde_Maddock_Dalton"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Gallo-Roman senator, poet, diplomat, and bishop of Clermont-Ferrand whose letters and carmina provide the central literary portrait of fifth-century Roman Gaul in transition.",
+        "dates": "c. 430–c. 489",
+        "name": "Sidonius Apollinaris",
+        "slug": "sidonius-apollinaris"
+      },
+      {
+        "bio": "Ormonde Maddock Dalton, British archaeologist and classical scholar, Keeper of British and Mediaeval Antiquities at the British Museum, who produced the first complete English translation of the letters of Sidonius Apollinaris.",
+        "dates": "1866–1945",
+        "name": "O. M. Dalton",
+        "slug": "o-m-dalton"
+      },
+      {
+        "bio": "King of the Visigoths from 453 to 466, whose daily court life, morning devotions, dinner, and dice-playing are famously portrayed in Book I, Letter II to Agricola (scan leaf 190).",
+        "dates": "d. 466",
+        "name": "Theodoric II"
+      },
+      {
+        "bio": "Gallo-Roman aristocrat and patrician general, brother-in-law of Sidonius, who heroically led the defence of Clermont against the Visigothic siege.",
+        "dates": "fl. c. 460–475",
+        "name": "Ecdicius"
+      },
+      {
+        "bio": "King of the Britons (Bretons) allied with the Western Roman Empire against Euric's Visigoths, addressed by Sidonius in Book III, Letter IX regarding runaway slaves.",
+        "dates": "fl. c. 470",
+        "name": "Riothamus"
+      },
+      {
+        "bio": "Priest of Lyons, orator, and biographer of Saint Germanus of Auxerre, who urged Sidonius to collect and publish his letters and to whom Book I is dedicated.",
+        "dates": "fl. late 5th century",
+        "name": "Constantius of Lyons"
+      }
+    ],
+    "related": [
+      "sidonius-letters-vol2-1915",
+      "augustine-letters-vol1-1872",
+      "pliny-letters-vol1-1915"
+    ]
+  },
+  "sidonius-letters-vol2-1915": {
+    "book": [
+      "Gaius Sollius Modestus Apollinaris Sidonius (c. 430–c. 489 A.D.), patrician of Lugdunum (modern Lyon), son-in-law to the Emperor Avitus, and Bishop of Clermont in the Auvergne, was the pre-eminent man of letters in fifth-century Roman Gaul during the collapse of imperial authority in the West.",
+      "This second volume of O. M. Dalton's translation for the Oxford Library of Translations completes the epistolary corpus, comprising Books IV through IX. These 108 letters record Sidonius's episcopal ministry, his defense of Clermont against the Visigoths under King Euric, his correspondence with contemporary bishops such as Lupus of Troyes, Claudianus Mamertus, and Faustus of Riez, and the literary leisure and rural estates of the Gallo-Roman senatorial nobility.",
+      "Ormonde Maddock Dalton (1866–1945), keeper of British and Medieval Antiquities at the British Museum, published this English translation with introduction, notes, and index through the Clarendon Press, Oxford, in 1915. This Paper Lanterns diplomatic edition transcribes the volume verbatim from the University of Toronto (PIMS) copy, conserving inline Latin and Greek phrases, metrical verse inscriptions, and scholarly endnotes."
+    ],
+    "links": [
+      {
+        "label": "Sidonius Apollinaris on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sidonius_Apollinaris"
+      },
+      {
+        "label": "O. M. Dalton on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ormonde_Maddock_Dalton"
+      },
+      {
+        "label": "Sidonius Apollinaris on Wikisource",
+        "url": "https://en.wikisource.org/wiki/Author:Sidonius_Apollinaris"
+      },
+      {
+        "label": "Claudianus Mamertus on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Claudianus_Mamertus"
+      },
+      {
+        "label": "Lupus of Troyes on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lupus_of_Troyes"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Gallo-Roman aristocrat, diplomat, poet, and Bishop of Clermont whose letters provide the most vivid contemporary source for life, culture, and the transition from Roman to Visigothic rule in 5th-century Gaul.",
+        "dates": "c. 430–c. 489",
+        "name": "Sidonius Apollinaris",
+        "slug": "sidonius-apollinaris"
+      },
+      {
+        "bio": "Ormonde Maddock Dalton, British archaeologist and historian at the British Museum, authority on early Christian, Byzantine, and medieval antiquities, and translator of Sidonius Apollinaris and Gregory of Tours.",
+        "dates": "1866–1945",
+        "name": "O. M. Dalton",
+        "slug": "o-m-dalton"
+      },
+      {
+        "bio": "Gallo-Roman philosopher, theologian, and priest of Vienne, author of De Statu Animae and close intellectual correspondent of Sidonius.",
+        "dates": "d. c. 474",
+        "name": "Claudianus Mamertus"
+      },
+      {
+        "bio": "Early French bishop of Troyes who accompanied Saint Germanus of Auxerre to Britain and corresponded with Sidonius on pastoral duties.",
+        "dates": "c. 383–c. 478",
+        "name": "Lupus of Troyes"
+      },
+      {
+        "bio": "Abbot of Lérins and Bishop of Riez, one of the foremost theologians of fifth-century Gaul, praised by Sidonius for his learning and ascetic discipline.",
+        "dates": "c. 408–c. 495",
+        "name": "Faustus of Riez"
+      },
+      {
+        "bio": "Archbishop of Lyon renowned for his charity and famine relief across southern Gaul during the Visigothic wars, celebrated by Sidonius in Book VI.",
+        "dates": "fl. 470–490",
+        "name": "Patiens of Lyon"
+      }
+    ],
+    "related": [
+      "sidonius-letters-vol1-1915",
+      "augustine-letters-vol2-1875",
+      "synesius-letters-1926"
+    ]
+  },
+  "synesius-letters-1926": {
+    "book": [
+      "Synesius of Cyrene (c. 373–c. 414 A.D.)—patrician landowner, Neoplatonist philosopher, devoted disciple of Hypatia, and later bishop of Ptolemais in the Libyan Pentapolis—left one of the most intimate, varied, and historically precious epistolary corpora of late antiquity. Spanning philosophical reflections, passionate defenses of his Libyan homeland against nomadic Ausurian raiders, public letters of church discipline, and affectionate personal correspondence, these 159 surviving letters offer an unmatched firsthand window into the intellectual and political world of fourth- and fifth-century Greek culture.",
+      "Augustine FitzGerald (1862–1930) produced this landmark first complete English translation of Synesius's letters, published by Humphrey Milford at the Oxford University Press in 1926. Transcribed directly from the 1926 OUP edition, this Paper Lanterns edition preserves FitzGerald's historical introduction, analytical notes citing Druon, Crawford, Petavius, and Hercher, and his verbatim renderings of classical Greek and Latin quotations, period spelling, and epistolary layout."
+    ],
+    "links": [
+      {
+        "label": "Synesius on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Synesius"
+      },
+      {
+        "label": "Synesius of Cyrene on Wikisource",
+        "url": "https://en.wikisource.org/wiki/Author:Synesius_of_Cyrene"
+      },
+      {
+        "label": "Hypatia on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hypatia"
+      },
+      {
+        "label": "Theophilus of Alexandria on Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Patriarch_Theophilus_of_Alexandria"
+      }
+    ],
+    "people": [
+      {
+        "bio": "Greek philosopher, pupil of Hypatia of Alexandria, and bishop of Ptolemais in Cyrenaica, whose extant letters, hymns, and treatises blend Neoplatonic philosophy with vivid depictions of late Roman provincial life.",
+        "dates": "c. 373–c. 414",
+        "name": "Synesius of Cyrene",
+        "slug": "synesius-of-cyrene"
+      },
+      {
+        "bio": "Irish classical scholar and translator who produced the first complete English translations of the Letters and the Essays and Hymns of Synesius of Cyrene for the Oxford University Press.",
+        "dates": "1862–1930",
+        "name": "Augustine FitzGerald",
+        "slug": "augustine-fitzgerald"
+      },
+      {
+        "bio": "Celebrated Neoplatonist philosopher, astronomer, and mathematician at Alexandria, teacher and lifelong friend of Synesius, who addressed seven of his most famous letters to her.",
+        "dates": "c. 360–415",
+        "name": "Hypatia"
+      },
+      {
+        "bio": "Patriarch of Alexandria (385–412) who consecrated Synesius as metropolitan bishop of Ptolemais and was addressed by him on church administration and pastoral discipline.",
+        "dates": "d. 412",
+        "name": "Theophilus of Alexandria"
+      },
+      {
+        "bio": "Synesius' elder brother and most frequent correspondent, recipient of extensive letters concerning the defence of Cyrene, family affairs, and philosophical contemplation.",
+        "dates": "fl. late 4th–early 5th century",
+        "name": "Evoptius of Cyrene"
+      },
+      {
+        "bio": "Constantinopolitan advocate and close intellectual friend of Synesius, whom Synesius met during his three-year diplomatic embassy to the imperial court of Arcadius.",
+        "dates": "fl. early 5th century",
+        "name": "Pylaemenes of Heraclea"
+      }
+    ],
+    "related": [
+      "julian-works-vol3-1923",
+      "augustine-letters-vol1-1872",
+      "porphyry-marcella-1896"
     ]
   },
   "tagore-glimpses-of-bengal-1921": {

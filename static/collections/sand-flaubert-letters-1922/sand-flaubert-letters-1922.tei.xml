@@ -129,7 +129,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0026">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Monday night</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0027">
@@ -153,7 +153,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0032">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date>Tuesday</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0033">
@@ -161,7 +161,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0034">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Saturday morning</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0035">
@@ -185,7 +185,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0040">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date>Saturday night</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0041">
@@ -197,7 +197,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0043">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date>Saturday night</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0044">
@@ -205,7 +205,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0045">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Wednesday evening</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0046">
@@ -213,7 +213,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0047">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Wednesday</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0048">
@@ -253,7 +253,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0057">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Paris</placeName><date>Friday morning</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Paris</placeName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0058">
@@ -320,7 +320,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0074">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Wednesday night</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0075">
@@ -376,7 +376,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0088">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Dieppe</placeName><date>Monday</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Dieppe</placeName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0089">
@@ -400,7 +400,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0094">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Saturday evening</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0095">
@@ -416,7 +416,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0098">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Saturday evening</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0099">
@@ -424,7 +424,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0100">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Tuesday</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0101">
@@ -456,7 +456,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0108">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Tuesday night</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0109">
@@ -528,7 +528,7 @@
         <correspAction type="received"><persName>GUSTAVE FLAUBERT</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0126">
-        <correspAction type="sent"><persName>G. Sand</persName><date>Thursday Saturday evening</date></correspAction>
+        <correspAction type="sent"><persName>G. Sand</persName></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0127">
@@ -608,7 +608,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0146">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Wednesday afternoon</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0147">
@@ -656,7 +656,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0158">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Sunday evening.</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>Madame Hortense Cornu</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0159">
@@ -672,11 +672,11 @@
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0162">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Tuesday morning</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0163">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Paris</placeName><date>Thursday</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Paris</placeName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0164">
@@ -736,11 +736,11 @@
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0178">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Sunday evening</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0179">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Wednesday</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0180">
@@ -772,7 +772,7 @@
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0187">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date>Monday evening, two o&#x27;clock</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0188">
@@ -908,7 +908,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0221">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date>Croisset</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0222">
@@ -964,7 +964,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0235">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date>Thursday</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0236">
@@ -1064,11 +1064,11 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0260">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Thursday</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0261">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Sunday . . .</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0262">
@@ -1084,11 +1084,11 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0265">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName><date>Thursday</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Croisset</placeName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0266">
-        <correspAction type="sent"><persName>George Sand</persName><date>Monday</date></correspAction>
+        <correspAction type="sent"><persName>George Sand</persName></correspAction>
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0267">
@@ -1176,7 +1176,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0288">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Paris</placeName><date>Saturday evening</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName><placeName>Paris</placeName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0289">
@@ -1208,7 +1208,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0296">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Wednesday</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0297">
@@ -1276,7 +1276,7 @@
         <correspAction type="received"><persName>Gustave Flaubert</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0313">
-        <correspAction type="sent"><persName>Gustave Flaubert</persName><date>Monday evening</date></correspAction>
+        <correspAction type="sent"><persName>Gustave Flaubert</persName></correspAction>
         <correspAction type="received"><persName>George Sand</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0314">

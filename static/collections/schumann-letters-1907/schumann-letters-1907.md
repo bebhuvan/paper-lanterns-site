@@ -422,7 +422,7 @@ And now, farewell, Rosen. May your life have no more clouds than go to a beautif
 Farewell!
 
 Your  
-<span class="small-caps">Schumann.</span>
+    <span class="small-caps">Schumann.</span>
 
 ### Letter 7: Robert Schumann → Johanna Christiane Schumann
 
@@ -457,7 +457,7 @@ Next morning, May 21, I went for a drive in a wretched hired conveyance with a j
 And now, my dearest Mother, I will put this small, but very pleasant picture of a fragment of my life's journey in its frame, and close. You may expect in my next letter a detailed description of life in Heidelberg, to which my good friend Rosen is to introduce me. You will read this letter as I write it, in the spirit of affection.
 
 Your  
-<span class="small-caps">Robert.</span>
+    <span class="small-caps">Robert.</span>
 
 ### Letter 8: Robert Schumann → Johanna Christiane Schumann
 
@@ -1525,7 +1525,7 @@ Could I put into words my heart's anguish, my many tears ? No, it is beyond my p
 *In great haste,*
 
 Your  
-<span class="small-caps">Clara.</span>
+    <span class="small-caps">Clara.</span>
 
 ### Letter 65: Robert Schumann → F. Wieck
 
@@ -1670,7 +1670,7 @@ Think of me always at nine o'clock in the evening, the hour when I am always wit
 Farewell, my darling girl.
 
 Your  
-<span class="small-caps">Robert.</span>
+    <span class="small-caps">Robert.</span>
 
 ### Letter 72: Robert → Clara
 
@@ -2172,7 +2172,7 @@ Dear Clara, the letter is cold, but one might as well try to be affectionate tow
 > Will the High Court cause Herr Wieck to give his paternal consent to our marriage, or, failing that, substitute legal permission? Only the imperative need for action reconciles us to this step. We seek our consolation in the hope that this painful breach, like many another, may be healed by time.
 >
 > <span class="small-caps">Robert Schumann.</span>  
-> <span class="small-caps">Clara Wieck</span> (*at this time in Paris*).
+>     <span class="small-caps">Clara Wieck</span> (*at this time in Paris*).
 >
 > <span class="small-caps">Leipzig</span>, *September*, 1839.
 
@@ -2248,8 +2248,8 @@ Yours faithfully,
 *Editor of the ‘Neue Zeitschrift für Musik.’*
 
 *c/o* <span class="small-caps">Mlle. Devrient</span>,  
-First Floor,  
-Rotes Kollegium Hinterhaus.
+    First Floor,  
+        Rotes Kollegium Hinterhaus.
 
 ### Letter 91: R. Schumann → Advocate Einert
 
@@ -2910,7 +2910,7 @@ I am sending you a new composition,[^fn-p0309-1] in which you may find reflected
 I could find so much more to say, but will keep it until I write again, which is as good as saying until the end of the week.
 
 With kindest regards,  
-Yours,
+    Yours,
 
 R. <span class="small-caps">Sch.</span>
 

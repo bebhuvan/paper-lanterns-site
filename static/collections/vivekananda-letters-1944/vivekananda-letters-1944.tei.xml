@@ -508,7 +508,7 @@
         <correspAction type="received"><persName>Mr. E. T. Sturdy</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0123">
-        <correspAction type="sent"><placeName>19, W. 38th St., New York</placeName><date>19, W. 38th St., New York.</date></correspAction>
+        <correspAction type="sent"><placeName>19, W. 38th St., New York</placeName></correspAction>
         <correspAction type="received"><persName>Mr. E. T. Sturdy</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0124">
@@ -569,7 +569,7 @@
         <correspAction type="received"><persName>Mr. E. T. Sturdy</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0139">
-        <correspAction type="sent"><placeName>New York</placeName><date>New York.</date></correspAction>
+        <correspAction type="sent"><placeName>New York</placeName></correspAction>
         <correspAction type="received"><persName>Mr. E. T. Sturdy</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0140">
@@ -792,7 +792,7 @@
         <correspAction type="sent"><persName>VIVEKANANDA</persName><placeName>SANS-GRUND, SWITZERLAND</placeName><date when="1896-07-25">25th July, 1896.</date></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0198">
-        <correspAction type="sent"><placeName>GRAND HOTEL, VALAI, SWITZERLAND</placeName><date>GRAND HOTEL, VALAI, SWITZERLAND.</date></correspAction>
+        <correspAction type="sent"><placeName>GRAND HOTEL, VALAI, SWITZERLAND</placeName></correspAction>
         <correspAction type="received"><persName>Mr. E. T. Sturdy</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0199">
@@ -1191,7 +1191,7 @@
         <correspAction type="received"><persName>Swami Turiyananda</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0304">
-        <correspAction type="sent"><persName>Swami Vivekananda</persName><placeName>6, Place des Etats Unis.*</placeName><date>6, Place des Etats Unis.*</date></correspAction>
+        <correspAction type="sent"><persName>Swami Vivekananda</persName><placeName>6, Place des Etats Unis.*</placeName></correspAction>
         <correspAction type="received"><persName>Swami Turiyananda</persName></correspAction>
       </correspDesc>
       <correspDesc xml:id="letter-0305">

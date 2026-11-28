@@ -81,8 +81,7 @@ Carton Building,
 
 * * *
 
-| <span class="small-caps">Page</span> |
-| --- |
+**<span class="small-caps">Page</span>**
 
 1. Humboldt to Varnhagen, . . . . . . . . . . 17
 
@@ -136,8 +135,7 @@ Carton Building,
 
 26. Humboldt to Varnhagen, . . . . . . . . . . 52
 
-| <span class="small-caps">Page</span> |
-| --- |
+**<span class="small-caps">Page</span>**
 
 27. Humboldt to Varnhagen, . . . . . . . . . 54  
 28. Humboldt to Varnhagen, . . . . . . . . . 56  
@@ -187,8 +185,7 @@ Carton Building,
 72. Humboldt to Varnhagen, . . . . . . . . . 141  
 73. Humboldt to Varnhagen, . . . . . . . . . 142
 
-| <span class="small-caps">Page</span> |
-| --- |
+**<span class="small-caps">Page</span>**
 
 74. Humboldt to the Prince of Prussia. . . . . . . . 144
 
@@ -379,8 +376,7 @@ boldt, . . . . . . . . . . . . . 363
 207. Charles Alexander, Grand Duke of Saxe-Weimar, to  
 Humboldt, . . . . . . . . . . . . 371
 
-| <span class="small-caps">Page</span> |
-| --- |
+**<span class="small-caps">Page</span>**
 
 208. Humboldt to Varnhagen, . . . . . . . . . . 372
 
@@ -471,7 +467,7 @@ That your words have left agreeable impressions, you will perceive from this ins
 I have altered nearly all “the Explanations,” and added “The Genius of Rhodes,” for which Schiller has shown some predilection.
 
 With friendship and the highest consideration,  
-Yours,
+    Yours,
 
 A. HUMBOLDT.
 
@@ -1139,7 +1135,7 @@ In great haste,      A. <span class="small-caps">Humboldt</span>.
 I <span class="small-caps">deem</span> myself unfortunate, dear friend, in having missed you. I have been suffering from a miserable little boil on my foot, and went to-day (for the first time) to my neighbor, Leopold von Buch. Best thanks for Sesenheim.[^fn-p0083-1] You certainly were right in snatching the little work from oblivion, a work which possesses a German character in the highest degree, and derives a tender interest from your preface. There is in this little work a nice appreciation of what must ever be important and sacred to a German in his literature. The author searches Sesenheim and Drusenheim as others do the Troade. The proper names, alas! are less poetic. The passages (p. 12 and 13), are written in a charming style; afterwards the philologist becomes heavy and doubtful about what he only half examined; doubtful, as if he had superficially read an old code. Whether the sisters of Friederike, “of whom one has not to care at all” (p. 48), whether the Catholic clergyman who, according to some, caused, and according to others, did not cause, and then did cause her fall, will rejoice at all this, I do not dare myself to decide. About the Troade and the Skamander, they never could exactly determine, and Helen had to suffer much from Hellenic gossip.
 
 In old friendship most gratefully,  
-Yours,
+    Yours,
 
 A. v. <span class="small-caps">Hdt.</span>
 
@@ -1888,8 +1884,8 @@ To obtain, however, such a “universal panacea,” from the “universal physic
 Under these circumstances I hope that your Royal Highness will approve of my writing to Lieutenant H. v. A., thanking him for his confidence, and requesting him, for his own sake and that of his friend, to write some letters to his majesty the King, in which he may refer to me. To secure the delivery of the letter at Temesvar your Royal Highness will gracefully be pleased to direct it under your seal to the ambassador, General von Canitz. I shall have the box opened at the observatory in the presence of Professor Enke, and charge him, as is usual in such cases, to make a report for the private cabinet. Although the word “*ingenious*” cannot be applied to instruments the construction of which is not strictly original, I will nevertheless try to obtain, through my representations, a small dose of “the universal panacea.”
 
 In deepest devotion, I remain  
-Your Royal Highness's  
-most humble servant,
+    Your Royal Highness's  
+        most humble servant,
 
 A. v. <span class="small-caps">Humboldt</span>.
 
@@ -2634,7 +2630,7 @@ Yours,
 Do you guess, my dear friend, who sent me this strange article? Do you guess anything from the seal and the name on the envelope, “M.?” Is that the author, and to what journal may the article belong? Profound, of enlarged political views, it certainly is not. The passage on p. 8 is underscored by the author himself, and it contains a contradiction! Prussia is to have unity in an American confederacy. His remarks, p. 3, on Frederick II. and on his works, and on “Kant a guillotine,” p. 5, are as Minister Thiele would write them. I am indignant at both. The author knows all the news, all the names, all the gossip, of the “Eckensheher,”[^fn-p0211-1] and is touched by the liberalism of Bodelschwingh, p. 14, who still defends every day the expulsion of the Baden Representatives. He does not dare to name Eichhorn with censure. The last line only is grand and fine.
 
 With unalterable devotion,  
-Yours,
+    Yours,
 
 <span class="small-caps">Friday.</span>
 
@@ -2653,7 +2649,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 I have only time to tell you, that I shall certainly be in Sans Souci from June to September, and to thank you, noble friend, from my heart, for the kind manner in which you allude to the Agamemnon of my brother. To choose maliciously 16 verses out of 1700!! I once complained that they would not perform the drama in a royal palace in my brother's translation! As the *Staats Zeitung* is seen every evening by the King, they thought it well to malign the production there. The very next day I answered in the *Spenersche Zeitung* mildly, because the well-informed but unpoetical Dr. Franz is now seeking an increase of his pension. I myself took care that the King did not see my answer; at least, he did not talk to me about it. Send back the little sheet. I am at work, not without success, I believe, at the Kosmos, but in a sad mood respecting the public cause. Your news from England is very interesting.
 
 With the most cordial friendship,  
-Yours,
+    Yours,
 
 <span class="small-caps">Sunday.</span>
 
@@ -2686,7 +2682,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 As early as eight o’clock this morning I sent to the Koethener Strasse, to have an interview with Professor Massmann, after the confiding communications of your Majesty, concerning the decision of his situation. He has just gone, leaving me again with an excellent impression of his solidity, clear perceptions, and enthusiastic vigor for influencing our youth (the indelible, primæval, self-restoring institution of mankind). To be afraid of every enthusiastic energy is to take from the life of a State its nourishing, preserving power. Professor M. did not see Minister von Bodelschwingh for two years, but the Minister then treated him very kindly, and Massmann desires very much, without intruding, to give a candid answer to every question. In view of the noble and frank character of Minister von Bodelschwingh I have great hopes of the result of such a conversation, and therefore I have to beg of your Majesty, most submissively, to communicate to me, whether, according to the orders of your Majesty, the Minister will send for Professor M., or whether he may go to the Minister on his own account, not called for, but animated by some words of your Majesty. I wonder how it could be forgotten how much Massmann has done for the poetry of the Hohenstaufen times, and how talented a lecturer he was at the University. I find praised in Gervinus Geschichte der Deutschen Litteratur: Massmann's Denkmaeler Deutscher Sprache, 1828; his Gedichte des Zwoelften Jahrhunderts, his Legenden and Ritterliche Poesie. How could a man be dangerous to youth whom the King of Bavaria appointed for the education of his princes, and by whom above all others the Crown-Prince declares himself to have been animated with the love of culture and intellectual freedom, and the true appreciation of his impending kingly duties? We live not in a sad, but in an earnest time. All action and energy are paralysed, if backbiting is permitted to deprive us of our most useful men. Enthusiastically attached to your person, to the splendor of your reign, and to the glory of our country, it makes me sad to see the most noble purposes in danger of being misunderstood. No doubt there are very honorable men who, from pure love of your Majesty, would like to see me also under the column at Tegel, or at least on the other side of the Rhine.
 
 In grateful submission,  
-Your Royal Majesty's most faithful
+    Your Royal Majesty's most faithful
 
 <span class="small-caps">Humboldt.</span>
 
@@ -2723,7 +2719,7 @@ The observations of the new planet can be made here so excellently by the heliom
 At last an end of this!
 
 In accustomed reverence to the end of life,  
-Your Excellency's most obedient
+    Your Excellency's most obedient
 
 F. W. <span class="small-caps">Bessel.</span>
 
@@ -2804,7 +2800,7 @@ A. <span class="small-caps">Thiers</span>.
 I <span class="small-caps">send</span> you, M. le Baron, a copy of my refutation of M. Thiers, in regard to the passages of that historian which assail the memory of my husband. The esteem which you bore him, as well as that of your dear brother and your estimable sister-in-law, both, to me, of sweet and noble memory, leads me to hope that you will receive with interest this token of all the sentiments I possess for you, M. le Baron, and in which I beg you to believe me. Yours affectionately,
 
 <span class="small-caps">The Princess of Canino,</span>  
-Widow Bonaparte Lucien.
+    Widow Bonaparte Lucien.
 
 * * *
 
@@ -2945,7 +2941,7 @@ A. v. <span class="small-caps">Humboldt</span>.
 <span class="small-caps">What</span> a splendid reception, my dear friend, have you given the fifth volume of my brother! Pardon me if, in the excessive bustle of the last few days upon the cold “historic hill,” I have not written some commendatory remarks. I also deplore the omissions to which you are kind enough to make me attentive. Perhaps they could be supplied in the next volume. It was supposed that the letters must be printed in the form in which my brother had prepared them for publication, and in which they were offered for sale. I believe no nation on earth can produce an instance of such a life devoted exclusively to the increase of the wealth of ideas! How inexpressibly I rejoice in the mere prospect of once more beholding a master-piece of your accurate, life-like, and withal delicate representations of social and diplomatic occurrences!
 
 With unalterable attachment,  
- Your grateful
+    Your grateful
 
 A. <span class="small-caps">Humboldt.</span>
 
@@ -3322,7 +3318,7 @@ A. <span class="small-caps">Ht.</span>
 <span class="small-caps">Accept</span>, my dear friend, my heartfelt thanks for the lines you gave M. Rio, whose praises had already been sung to me by Cornelius, Olfers, Radowitz, and the King himself, on account of the book, “De l’Art Chretien.” The new incarnation of a deputy to the Erfurt Parliament, and his supervision in the interest of the Prince President, was unexpected; but Rafael himself was a good deal of a mannerist.
 
 Very truly, and in some suspense,  
-Yours,
+    Yours,
 
 A. v. <span class="small-caps">Humboldt</span>.
 
@@ -3465,7 +3461,7 @@ Be kind enough to return the enclosed at your early convenience.
 <span class="small-caps">One</span> of the many inconveniences of old age is that of liability to attempts at conversion. Do you care to deposit this curious, good-natured letter among your psychological curiosities? (The man who is entirely convinced of Bernadotte's salvation, circuitously informs me that Satan wields the baton of command in my heart, as in that of Goethe, that of the pious Kant, and that of Wieland.) And our parliament!! If necessary the cities must be expunged from the face of the earth—such is the desire of our diplomatist at the Diet.
 
 With heartfelt attachment,  
-Yours,
+    Yours,
 
 A. <span class="small-caps">Ht.</span>
 
@@ -3736,7 +3732,7 @@ A. v. <span class="small-caps">Humboldt.</span>
 To what purpose, most gracious baroness, did the Eternal shower down upon you, from the horn of plenty that he so sparingly opens upon this miserable, sinful earth, the bountiful gift of genius and the more precious adornment of a noble heart, if you believe the absurd gossip uttered “about those from whom I am separating myself!” What you call your prophetic vision could not alarm me, because the same double sight has fallen to my lot! Not a syllable of your book has the King read or desired to have read to him, as I hear from others; I rarely attend in the evening, and have not read to him for years. But how, my honored friend, am I to gain his ear in this matter, when I never pronounce the words Cathedral, Orchestra, Theatre, or Concert Room, and never have heard of the existence of a Central University Cathedral Building Association at Bonn, or of a Board of Managers of the Berlin Association? Such things are undoubtedly desirable; but even if those who are now called influential would advocate them by word of mouth, their intercession would not even receive attention; success is only to be hoped for from an official exposé of the project, addressed immediately to the King himself, with the autograph signature of the managers, with specific and distinct requests. The decision rests exclusively with the cabinet, and to be discussed there, a full and explicit petition to the King is necessary. This is doubly important at a time so eventful as the present, when the King never remains longer than a few weeks at Sans Souci. Painter Rattis' Titian, political insinuations, and great unknown personages, are all subjects of which I receive the first intimation from your kind letter. It will be my study to repel the insinuations, although, on account of my well-known opinions, these “*essais de blanchir*” will be but a feeble support. Among the many painful impressions you so sedulously cultivate in the midst of your glowing love of the true, the free, the noble, and the good, it gives me great delight to direct your attention to two special matters of gratification—your Goethe monument is a fixed fact, and the great man's grandson, whom I regard and esteem, has succeeded in obtaining a recognition of the value of his services, and a less constrained position in the Roman embassy.
 
 With unalterable devotion and friendship,  
-I remain your Old Man of the Hills,
+    I remain your Old Man of the Hills,
 
 A. v. H<span class="small-caps">t</span>.
 
@@ -4445,7 +4441,7 @@ The crowd and your Excellency's early departure prevented me from making my salu
 Strange reports are in circulation. I hope it is only a jest that presents M. Niebuhr as the Future Minister of finance, and M. Wagener as Privy Councillor, with a seat in the cabinet.
 
 With a repeated request of your indulgence, I remain, with the most profound esteem, and in the most sincere devotion,  
-Your Excellency's most obedient,
+    Your Excellency's most obedient,
 
 <span class="small-caps">Varnhagen von Ense.</span>
 
@@ -4574,7 +4570,7 @@ In most faithful reverence and most grateful submission, immutably your Excellen
 I <span class="small-caps">have</span> the pleasure to announce to your Excellency that Herr——— will start from ——— to Weimar on the 14th. Much as he would have wished to make the détour by way of Berlin, if only to lay at the feet of your Excellency the most cordial expression of his boundless gratitude for so much friendly intercession, he is compelled by the brief period fixed by the Grand Duke to renounce the realization of that wish for the present. I therefore venture to solicit the favor of the introduction to the Grand Duke you were good enough to promise; a single line would suffice. I would immediately despatch it to Weimar, so that Mr. —— will find it there on his arrival. The young man is well aware that the journey concludes nothing, and that he must be prepared for a denial; but he is much pleased to see that the long delay in the progress of affairs is ended, and he is at last in motion. By your kind inquiry your Excellency has produced this result, and dispelled the clouds of misconception; the most grateful heart will acknowledge this with heartfelt devotion! His sentiments are warmly shared by myself, in this case, as in so many earlier cases!
 
 With the best wishes for your welfare; with profound veneration and attachment I remain unalterably,  
-Your Excellency's most obedient
+    Your Excellency's most obedient
 
 <span class="small-caps">Varnhagen von Ense.</span>
 
@@ -4814,7 +4810,7 @@ We mean to leave for Dresden on Monday, and hope to find your Excellency again i
 With profound veneration and grateful devotion,
 
 Your obedient  
-<span class="small-caps">Varnhagen von Ense.</span>
+    <span class="small-caps">Varnhagen von Ense.</span>
 
 * * *
 
@@ -4995,7 +4991,7 @@ I beg you to return me the three curiosities consisting of the copy of Victoria,
 My walk (*ma démarche*) increases lamentably in senile want of direction. Beware of my patience with life. Reputation keeps pace with imbecility, and the part of the “dear youth in age,” of the “worthy Nestor of all living men of Science,” *Vecchio della montagna*, becomes extremely irksome, though there be in the neighborhood of the Netze, a maiden whom the Nestor is to establish for life at Tegel, because the place is so near to Berlin, that on the slightest hint she can hasten to the city to close my eyes.
 
 With the most faithful friendly esteem,  
-Yours,
+    Yours,
 
 A. v. <span class="small-caps">Humboldt</span>.
 
@@ -5091,9 +5087,9 @@ My wicked friend Lasalle—Heraclitus the Obscure—has been expelled by the Pri
 [^fn-p0344-1]: (*) The King of Naples, known in this country as King Bomba. In Naples the best maccaroni is manufactured. Was this letter really directed to Louis Philippe, or was there not a mistake in the name? Was not Louis Philippe dead before that time?—*Translator.*
 [^fn-p0347-1]: (*) A German proverbial expression for feeling very uncomfortable. —*Tr.*
 [^fn-p0350-1]: (*) A fashionable preacher in Berlin.—*Tr.*
-[^fn-p0354-1]: (*) Spaetes Daheim des einst in ruestig kaempfender Jugend
-    Weitgewanderten Forschers, der, gleichwie Hoehen der Erde,
-    Hoehen des Ruhmes erstieg, hat dargestellt uns der Maler,
+[^fn-p0354-1]: (*) Spaetes Daheim des einst in ruestig kaempfender Jugend  
+    Weitgewanderten Forschers, der, gleichwie Hoehen der Erde,  
+    Hoehen des Ruhmes erstieg, hat dargestellt uns der Maler,  
     Schoen, reich ausgestattet mit herrlichen Schoetzen des Wissens:
 [^fn-p0355-1]: (*) *Bemoostes Haupt* is an expression often applied to a student who has grown grey without passing an examination, and which, in this connexion, has an effect at once humorous and pathetic, which is inimitable.—*Tr.*
 [^fn-p0357-1]: (*) California, which has nobly resisted the introduction of slavery, will be worthily represented by a friend of liberty and of the progress of intelligence.

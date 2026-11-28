@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Edgar Allan Poe (ed. Mary Newton Stanard)",
  "year": 1925,
  "archive_id": "in.ernet.dli.2015.88404",
@@ -406,26 +409,26 @@
   {
    "format": "epub",
    "file": "poe-valentine-letters-1925.epub",
-   "bytes": 171238,
-   "sha256": "390e52709026db7bb1019d57e18e61ace25a96cd31c77b9053fc87c044645185"
+   "bytes": 171302,
+   "sha256": "b0de53f49d944590d6985bfd31f53c07d0daff9588af04f30c61f65b30fa0cec"
   },
   {
    "format": "markdown",
    "file": "poe-valentine-letters-1925.md",
-   "bytes": 194687,
-   "sha256": "9a683b84ef396f9e1c53180265d6e85f9fe554077e41316b7c9b45cdbae9939f"
+   "bytes": 194919,
+   "sha256": "591f1eb076949b347a603aa8e2704ec0c7ac2b1bca0e606be1565c45846feba9"
   },
   {
    "format": "tei",
    "file": "poe-valentine-letters-1925.tei.xml",
-   "bytes": 251776,
-   "sha256": "edfe1745462aa121556705999db85f4659e9e5fb9c3a8f2963d48b0295ea9938"
+   "bytes": 251757,
+   "sha256": "50e5c89118e31765b5b834b0f1c31b200d0efb51fab1d744cf8ae01521aa8360"
   }
  ],
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.88404/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-24T19:23:30Z",
+  "compiled_at": "2026-11-28T05:29:59Z",
   "source_ast_sha256": "4fbe1d8424829753e6e439803b519c387e3edb422541eadcc9507ef9666cd2d5",
   "hugo_renderer_version": "1.0.0"
  }

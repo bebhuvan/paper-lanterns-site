@@ -1,11 +1,12 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
 {{- $p := . -}}
-{{- $roles := dict "tr." "translator" "trans." "translator" "ed." "editor" "comp." "compiler" "intro." "introduction" "tr. & ed." "translator and editor" "trans. & ed." "translator and editor" "comp. & ed." "compiler and editor" -}}
+{{- $roles := dict "tr." "translator" "trans." "translator" "ed." "editor" "comp." "compiler" "intro." "introduction" "pref." "preface" "tr. & ed." "translator and editor" "trans. & ed." "translator and editor" "ed. & tr." "editor and translator" "comp. & ed." "compiler and editor" -}}
 {{- $names := slice .Title -}}
 {{- range (.Params.also | default slice) }}{{ $names = $names | append . }}{{ end -}}
 {{- $signedLetters := slice -}}
-{{- $minYear := 9999 -}}{{- $maxYear := 0 -}}
+{{- $datedSortable := slice -}}
+{{- $minYear := 99999 -}}{{- $maxYear := -99999 -}}{{- $hasYear := false -}}
 {{- range $bookId, $_ := (.Params.letters | default dict) -}}
   {{- with site.GetPage (printf "/collections/%s" $bookId) -}}
     {{- range (where .RegularPages "Params.layout" "letter").ByWeight -}}
@@ -14,10 +15,15 @@
       {{- if or (in $names $sf) (in $names $s) -}}
         {{- $signedLetters = $signedLetters | append . -}}
         {{- $iso := .Params.letter_date.iso | default "" -}}
-        {{- if ge (len $iso) 4 -}}
-          {{- $yr := int (substr $iso 0 4) -}}
-          {{- if and (gt $yr 0) (lt $yr $minYear) }}{{ $minYear = $yr }}{{ end -}}
+        {{- if $iso -}}
+          {{- $yr := partial "iso-year.html" $iso -}}
+          {{- if lt $yr $minYear }}{{ $minYear = $yr }}{{ end -}}
           {{- if gt $yr $maxYear }}{{ $maxYear = $yr }}{{ end -}}
+          {{- $hasYear = true -}}
+          {{- $parts := split (strings.TrimPrefix "-" $iso) "-" -}}
+          {{- $mm := 0 -}}{{- if gt (len $parts) 1 }}{{ $mm = int (strings.TrimLeft "0" (index $parts 1) | default "0") }}{{ end -}}
+          {{- $dd := 0 -}}{{- if gt (len $parts) 2 }}{{ $dd = int (strings.TrimLeft "0" (index $parts 2) | default "0") }}{{ end -}}
+          {{- $datedSortable = $datedSortable | append (dict "k" (add (mul $yr 10000) (add (mul $mm 100) $dd)) "page" .) -}}
         {{- end -}}
       {{- end -}}
     {{- end -}}
@@ -40,7 +46,9 @@
 {{- if gt $totalSigned 0 }}{{ $bits = $bits | append (printf "%s %s" (lang.FormatNumber 0 $totalSigned) (cond (eq $totalSigned 1) "letter" "letters")) }}{{ end -}}
 {{- if gt $curCount 0 }}{{ $bits = $bits | append (printf "%d hand-curated %s" $curCount (cond (eq $curCount 1) "work" "works")) }}{{ end -}}
 {{- if gt (len $bits) 0 }}
-<p class="person-stats">{{ delimit $bits " · " }}{{ if and (lt $minYear 9999) (gt $maxYear 0) }} ({{ if eq $minYear $maxYear }}{{ $minYear }}{{ else }}{{ $minYear }}–{{ $maxYear }}{{ end }}){{ end }}.</p>
+{{- $minDisp := "" -}}{{- $maxDisp := "" -}}
+{{- if $hasYear }}{{ $minDisp = partial "astro-year.html" $minYear }}{{ $maxDisp = partial "astro-year.html" $maxYear }}{{ end -}}
+<p class="person-stats">{{ delimit $bits " · " }}{{ if $hasYear }} ({{ if eq $minDisp $maxDisp }}{{ $minDisp }}{{ else }}{{ $minDisp }}–{{ $maxDisp }}{{ end }}){{ end }}.</p>
 {{- end }}
 {{- with .Params.also }}<p>Also printed as {{ delimit . ", " " and " }}.</p>{{ end }}
 {{- if or $pNote.wikipedia $pNote.wikisource $wdUrl }}
@@ -84,7 +92,8 @@
 </section>
 {{- end }}
 {{- if gt $totalSigned 0 }}
-{{- $dated := sort (where $signedLetters "Params.letter_date.iso" "!=" "") "Params.letter_date.iso" -}}
+{{- $dated := slice -}}
+{{- range sort $datedSortable "k" }}{{ $dated = $dated | append .page }}{{ end -}}
 {{- $pool := cond (gt (len $dated) 0) $dated $signedLetters -}}
 {{- $shown := first 20 $pool -}}
 <section class="wrap contents-plain" aria-labelledby="letters-h">

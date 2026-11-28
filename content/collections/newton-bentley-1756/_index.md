@@ -12,6 +12,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Sir Isaac Newton",
  "year": 1756,
  "archive_id": "fourlettersfroms00newt",
@@ -133,14 +136,14 @@
   {
    "format": "epub",
    "file": "newton-bentley-1756.epub",
-   "bytes": 95256,
-   "sha256": "10639c4ee26f78de680dd4c7e385d9ff0d753ea0bef41bc0ad20b79af258d404"
+   "bytes": 95307,
+   "sha256": "58ec8623ff1861eca5b360fb1be647c0549c0b4fec90d1a4ed0adec7f2153731"
   },
   {
    "format": "markdown",
    "file": "newton-bentley-1756.md",
-   "bytes": 28188,
-   "sha256": "ee5d6b5d51ed1899060fa7c7a69d34e94edff85f8ed9c8c31b93fd85b7845db4"
+   "bytes": 28268,
+   "sha256": "e9de5c5f580c297f9dcb2b3b33f5da08588624aba94f0a3f801a29cd42861bee"
   },
   {
    "format": "tei",
@@ -152,7 +155,7 @@
  "scan_base": "https://archive.org/download/fourlettersfroms00newt/page/",
  "provenance": {
   "active_run_id": "canonical-v1-1756",
-  "compiled_at": "2026-11-24T19:22:58Z",
+  "compiled_at": "2026-11-27T21:13:55Z",
   "source_ast_sha256": "780c39d3ead0344720efc8aa04cb5a784a6ccab79a180f6a15e95dbec4b44669",
   "hugo_renderer_version": "1.0.0"
  }

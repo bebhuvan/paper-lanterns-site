@@ -12,6 +12,9 @@
  "publisher": "Allahabad Law Journal Press",
  "default_sender": "Jawaharlal Nehru",
  "default_sender_source": "Title page (scan leaf 2): 'By JAWAHARLAL NEHRU' and Foreword (scan leaves 10-11, signed 'J. N.')",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Jawaharlal Nehru",
  "year": 1929,
  "archive_id": "in.ernet.dli.2015.220076",
@@ -136,8 +139,8 @@
   {
    "format": "epub",
    "file": "nehru-father-daughter-letters-1929.epub",
-   "bytes": 134071,
-   "sha256": "b2814b1b122f195d70f3a02979654220165a9128f926a270df62fce7ce882571"
+   "bytes": 134122,
+   "sha256": "3c64b3c48b36791d7b1478f94f01bfa6904dc42709a621fa69c87391a89324d1"
   },
   {
    "format": "markdown",
@@ -155,7 +158,7 @@
  "scan_base": "https://archive.org/download/in.ernet.dli.2015.220076/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-24T19:23:01Z",
+  "compiled_at": "2026-11-27T21:13:33Z",
   "source_ast_sha256": "c1f8fb98a6d8812a90cae28a14ec419bed8f3dec529f658b289f704f36937c05",
   "hugo_renderer_version": "1.0.0"
  }

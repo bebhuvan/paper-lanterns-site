@@ -13,6 +13,9 @@
  "publisher": "",
  "default_sender": "",
  "default_sender_source": "",
+ "about": [],
+ "people": [],
+ "links": [],
  "author_or_editor": "Hernán Cortés (trans. & ed. Francis Augustus MacNutt)",
  "year": 1908,
  "archive_id": "lettersofcorts01cortuoft",
@@ -206,8 +209,8 @@
   {
    "format": "epub",
    "file": "cortes-letters-vol1-1908.epub",
-   "bytes": 361892,
-   "sha256": "fd1c74abde07b2191de93407bf6b3c42c5935d628d4f6edc86eea270981f1b51"
+   "bytes": 361963,
+   "sha256": "a0b9045aa2b57f6e278d453f5584bc681b915c51f09ecea95e50d1a2288f5d20"
   },
   {
    "format": "markdown",
@@ -218,14 +221,14 @@
   {
    "format": "tei",
    "file": "cortes-letters-vol1-1908.tei.xml",
-   "bytes": 770910,
-   "sha256": "bfa09ab91f57dc163c4e8039200a1a7b4414c12ad79a538c6c92ef82f9645cd4"
+   "bytes": 770922,
+   "sha256": "8f81984555032bd2b8a48762ecd07342c715c01685c2eed57795f865c197f28e"
   }
  ],
  "scan_base": "https://archive.org/download/lettersofcorts01cortuoft/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-24T19:21:19Z",
+  "compiled_at": "2026-11-28T05:26:04Z",
   "source_ast_sha256": "6fc562e3f452ecf254289450ac390e21ec6f0ace18978360e1de72b1c79636d5",
   "hugo_renderer_version": "1.0.0"
  }

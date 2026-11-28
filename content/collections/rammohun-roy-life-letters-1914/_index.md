@@ -53,7 +53,7 @@
   "pages": 374,
   "dated_letters": 10
  },
- "provenance_tier": "machine_checked",
+ "provenance_tier": "community",
  "quality": {
   "score": 100.0,
   "out_of": 100.0,
@@ -84,7 +84,7 @@
     "out_of": 10.0
    }
   ],
-  "flagged": 0,
+  "flagged": 4,
   "blockers": 0
  },
  "proof": {
@@ -305,27 +305,27 @@
   {
    "format": "epub",
    "file": "rammohun-roy-life-letters-1914.epub",
-   "bytes": 364946,
-   "sha256": "e6386443410244ea58ec6c9363e63db6b54be4a6763edac6868d220474f51ea2"
+   "bytes": 365052,
+   "sha256": "ceb27217e18a81dfa381ee838e6089544bab2f08f4015dd8e774dcbbe6f23b03"
   },
   {
    "format": "markdown",
    "file": "rammohun-roy-life-letters-1914.md",
-   "bytes": 722206,
-   "sha256": "76b4b14e3c7d26dca37af72a3fa20d3c8de1c5703cbec77fbf75920a54f56bb6"
+   "bytes": 722238,
+   "sha256": "7e1f9d0be6c72a2b0fb669941e0cba34c640f27c831a4e641eb45412a3f462d5"
   },
   {
    "format": "tei",
    "file": "rammohun-roy-life-letters-1914.tei.xml",
-   "bytes": 806535,
-   "sha256": "526bf91d715a455b82fc948db558dcc098221ffd67a3eb8ddb02f2b3888033af"
+   "bytes": 806539,
+   "sha256": "9e9f30718154ff2bc601eb4bdf8c8aac6ffef0a154da7140ffc0c7ee5ae250b0"
   }
  ],
  "scan_base": "https://archive.org/download/lifelettersofraj00collrich/page/",
  "provenance": {
   "active_run_id": "canonical-hydrogen-batch-v1",
-  "compiled_at": "2026-11-27T05:11:17Z",
-  "source_ast_sha256": "cc397262afe145b8cca2b0276632b30cde560bbfe8c4f63d1404cdabebe51488",
+  "compiled_at": "2026-11-28T05:25:28Z",
+  "source_ast_sha256": "efefead54a95057af1347967a0f4076a4e0d36f187d78b22e47445b0f37cca3a",
   "hugo_renderer_version": "1.0.0"
  }
 }
